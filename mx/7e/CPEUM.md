@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1992-01-28"
+last_updated: "1993-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,33 +20,29 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 1993 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2006.
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 1993.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
+Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
-Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
-Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme el siguiente Código para su publicación:
+VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 
-LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
+Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
-CÓDIGO Número 543
-
-HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO ÚNICO
+## TITULO PRIMERO.
 
-### CAPÍTULO ÚNICO
+### CAPITULO I.
 
-> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+DE LAS GARANTIAS INDIVIDUALES.
 
 ###### Artículo 1.
 
@@ -138,43 +134,55 @@ En los Estados Unidos Mexicanos todo individuo gozará de las garantías que oto
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional, alcanzarán, por ese sólo hecho, su libertad y la protección de las leyes.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 1993 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 1993)</small>
 
 ###### Art. 3o.
 
-La educación que imparta el Estado -Federación, Estados, Municipios- tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+Todo individuo tiene derecho a recibir educación. El Estado -Federación, Estados y Municipios impartirá educación preescolar, primaria y secundaria. La educación primaria y la secundaria son obligatorias.
 
-I.- Garantizada por el artículo 24 la libertad de creencias, el criterio que orientará a dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
-a).- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+I. Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
 
-b).- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+II. El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
 
-c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
+Además:
 
-II.- Los particulares podrán impartir educación en todos sus tipos y grados. Pero por lo que concierne a la educación primaria, secundaria y normal (y a la de cualquier tipo o grado, destinada a obreros y a campesinos) deberán obtener previamente, en cada caso, la autorización expresa del poder público. Dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno;
+a) Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-III.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la fracción anterior deberán ajustarse, sin excepción, a lo dispuesto en los párrafos inicial, I y II del presente artículo y, además, deberán cumplir los planes y los programas oficiales;
+b) Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-IV.- Las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que, exclusiva o predominantemente, realicen actividades educativas y las asociaciones o sociedades ligadas con la propaganda de cualquier credo religioso no intervendrán en forma alguna en planteles en que se imparta educación primaria, secundaria y normal y la destinada a obreros o a campesinos;
+c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-V.- El Estado podrá retirar discrecionalmente, en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares;
+III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas y de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale;
 
-VI.- La educación primaria será obligatoria;
+IV. Toda la educación que el Estado imparta será gratuita;
 
-VII.- Toda la educación que el Estado imparta será gratuita;
+V. Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos -incluyendo la educación superior- necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
 
-> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1980)</small>
+VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
 
-VIII.- Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el Apartado A del Artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
+a) Impartir la educación con apego a los mismos fines y criterios que establecen el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
 
-IX.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+b) Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+VII. Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere, y
+
+VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
 
 ###### Art. 4o.
 
+La Nación mexicana tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos agrarios en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
@@ -204,7 +212,9 @@ Nadie podrá ser obligado a prestar trabajos personales sin la justa retribució
 
 En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas y los jurados, así como el desempeño de los cargos concejiles y los de elección popular, directa o indirecta. Las funciones electorales y censales tendrán carácter obligatorio y gratuito, pero serán retribuidas aquéllas que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes. Los servicios profesionales de índole social serán obligatorios y retribuidos en los términos de la ley y con las excepciones que ésta señale.
 
-El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona, ya sea por causa de trabajo, de educación o de voto religioso. La ley en consecuencia, no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
+El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona por cualquier causa.
 
 Tampoco puede admitirse convenio en que la persona pacte su proscripción o destierro, o en que renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
 
@@ -382,11 +392,15 @@ Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a
 
 Ningún juicio criminal deberá tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
 ###### Art. 24.
 
-Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, en los templos o en su domicilio particular, siempre que no constituyan un delito o falta penados por la ley.
+Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley.
 
-Todo acto religioso de culto público, deberá celebrarse precisamente dentro de los templos, los cuales estarán siempre bajo la vigilancia de la autoridad.
+El Congreso no puede dictar leyes que establezcan o prohiban religión alguna.
+
+Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -462,9 +476,13 @@ I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades me
 
 El Estado de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
 
-II.- Las asociaciones religiosas denominadas iglesias, cualquiera que sea su credo, no podrán, en ningún caso, tener capacidad para adquirir, poseer o administrar bienes raíces, ni capitales impuestos sobre ellos; los que tuvieren actualmente, por sí o por interpósita persona, entrarán al dominio de la Nación, concediéndose acción popular para denunciar los bienes que se hallaren en tal caso. La prueba de presunciones será bastante para declarar fundada la denuncia. Los templos destinados al culto público son de la propiedad de la Nación, representada por el Gobierno Federal, quien determinará los que deben continuar destinados a su objeto. Los obispados, casas curales, seminarios, asilos o colegios de asociaciones religiosas, conventos o cualquier otro edificio que hubiere sido construído o destinado a la administración, propaganda o enseñanza de un culto religioso, pasarán desde luego, de pleno derecho, al dominio directo de la Nación, para destinarse exclusivamente a los servicios públicos de la Federación o de los Estados, en sus respectivas jurisdicciones. Los templos que en lo sucesivo se erigieren para el culto público serán propiedad de la Nación.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
 
-III.- Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él; pero podrán adquirir, tener y administrar, capitales impuestos sobre bienes raíces, siempre que los plazos de imposición no excedan de diez años. En ningún caso las instituciones de esta índole podrán estar bajo el patronato, dirección, administración, cargo o vigilancia de corporaciones o instituciones religiosas, ni de ministros de los cultos o de sus asimilados, aunque éstos o aquéllos no estuvieren en ejercicio.
+II.- Las asociaciones religiosas que se constituyan en los términos del artículo 130 y su ley reglamentaria tendrán capacidad para adquirir, poseer o administrar, exclusivamente, los bienes que sean indispensables para su objeto, con los requisitos y limitaciones que establezca la ley reglamentaria.
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+
+III.- Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados, o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él, con sujeción a lo que determine la ley reglamentaria.
 
 > <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1992)</small>
 
@@ -598,7 +616,11 @@ Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, 
 
 En los casos de invasión perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado, los Departamentos Administrativos y la Procuraduría General de la República y con aprobación del Congreso de la Unión, y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculos para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación, pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPÍTULO I. DE LAS LEYES Y AUTORIDADES FISCALES
+### CAPITULO II.
+
+DE LOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
 
 ###### Artículo 3.
 
@@ -648,7 +670,9 @@ II.- La mujer o el varón extranjeros que contraigan matrimonio con varón o con
 
 Son obligaciones de los mexicanos:
 
-I.- Hacer que sus hijos o pupilos, menores de quince años, concurran a las escuelas públicas o privadas, para obtener la educación primaria elemental y militar, durante el tiempo que marque la ley de Instrucción Pública en cada Estado.
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
+
+I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación primaria y secundaria, y reciban la militar, en los términos que establezca la ley.
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
 
@@ -666,7 +690,9 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
-### CAPÍTULO II. DE LOS INGRESOS
+### CAPITULO III.
+
+DE LOS EXTRANJEROS.
 
 ###### Artículo 8.
 
@@ -686,7 +712,11 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPÍTULO I. DE LOS SUJETOS
+### CAPITULO IV.
+
+DE LOS CIUDADANOS MEXICANOS.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1969)</small>
 
 ###### Artículo 11.
 
@@ -794,9 +824,11 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO SEGUNDO.
 
-### CAPÍTULO II. DEL NACIMIENTO Y EXTINCIÓN DE LAS OBLIGACIONES Y DE LOS CRÉDITOS FISCALES
+### CAPITULO I.
+
+DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 ###### Artículo 13.
 
@@ -880,7 +912,11 @@ El tribunal electoral tendrá la competencia y organización que determine la le
 
 Los consejeros magistrados y los magistrados del tribunal deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que señala esta Constitución para ser ministro de la Suprema Corte de Justicia de la Nación. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Ejecutivo Federal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de consejeros magistrados y magistrados del tribunal. La ley señalará las reglas y el procedimiento correspondientes.
 
-### CAPÍTULO III. DE LA GARANTÍA DE LOS CRÉDITOS FISCALES
+### CAPITULO II.
+
+DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
 ###### Artículo 15.
 
@@ -936,9 +972,13 @@ El Estado del (sic) Nayarit tendrá la extensión territorial y límites que com
 
 Las islas, los cayos y arrecifes de los mares adyacentes que pertenezcan al territorio nacional, la plataforma continental, los zócalos submarinos de las islas, de los cayos y arrecifes, los mares territoriales, las aguas marítimas interiores y el espacio situado sobre el territorio nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas islas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TÍTULO SEGUNDO. DE LOS CRÉDITOS FISCALES
+## TITULO TERCERO.
 
-### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
+### CAPITULO I.
+
+DE LA DIVISION DE PODERES.
+
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
 
 ###### Artículo 16.
 
@@ -952,7 +992,9 @@ El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, E
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29. En ningún otro caso, salvo lo dispuesto en el segundo párrafo del artículo 131, se otorgarán facultades extraordinarias para legislar.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+### CAPITULO II.
+
+DEL PODER LEGISLATIVO.
 
 ###### Artículo 18.
 
@@ -982,7 +1024,11 @@ II. Extraordinarios: los aprobados por el Congreso o los derivados de disposicio
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
+#### SECCION I.
+
+DE LA ELECCION E INSTALACION DEL CONGRESO.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 ###### Artículo 17.
 
@@ -1186,7 +1232,9 @@ La ley determinará, las formas y procedimientos para la agrupación de los dipu
 
 Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Federal para tener vigencia.
 
-#### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
+#### SECCION II.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 132.
 
@@ -1234,7 +1282,11 @@ I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resolucio
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
-#### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
+#### SECCION III.
+
+DE LAS FACULTADES DEL CONGRESO.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Artículo 133.
 
@@ -1620,7 +1672,11 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria para elecciones extraordinarias con el fin de cubrir las vacantes de sus respectivos miembros. En el caso de la Cámara de Diputados, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
 
-#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+#### SECCION IV.
+
+DE LA COMISION PERMANENTE.
+
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Artículo 134.
 
@@ -1782,152 +1838,6 @@ V. Si el espectáculo se clausura antes de la conclusión del término por el qu
 
 ### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
-
-###### Artículo 380.
-
-El control y la evaluación del gasto público municipal comprenden:
-
-I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
-
-II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
-
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
-
-###### Artículo 381.
-
-El control y la evaluación del gasto público municipal se basarán en la información siguiente:
-
-I. La contabilidad de las dependencias y entidades;
-
-II. Los análisis de las evaluaciones que en materia de presupuesto y gasto público se realicen a las dependencias y entidades conforme a los criterios que fije la Tesorería para tal efecto;
-
-III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
-
-IV. Las demás fuentes y medios que se juzguen convenientes.
-
-###### Artículo 382.
-
-El seguimiento y medición del ejercicio del gasto público se realizará en la forma siguiente:
-
-I. En reuniones entre la Tesorería y las dependencias y entidades en plazos que no sean mayores a un bimestre;
-
-II. Mediante visitas y auditorías, y
-
-III. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Tesorería y la Contraloría en su caso.
-
-###### Artículo 383.
-
-Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Tesorería, la Contraloría en su caso, y las dependencias y entidades, de conformidad con lo dispuesto por el presente Código y otros ordenamientos en la materia, efectuarán, según el caso, las siguientes actividades:
-
-I. Aplicación de medidas correctivas a las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público municipal;
-
-II. Adecuaciones presupuestarias;
-
-III. Fincamiento de las responsabilidades que procedan, y
-
-IV. Determinación de las previsiones que constituyan una de las bases para la programación-presupuestación del ejercicio siguiente.
-
-#### SECCIÓN II. DE LA CONTRALORÍA
-
-###### Artículo 384.
-
-El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de la Ley Orgánica del Municipio Libre, establecerá un órgano de control interno autónomo, el cual, para los efectos de este Código, se denominará Contraloría, que desarrollará funciones de control y evaluación.
-
-###### Artículo 385.
-
-Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
-
-Los sistemas de auditoría interna permitirán:
-
-I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
-
-II. Promover la eficiencia y eficacia operativa; y
-
-III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
-
-###### Artículo 386.
-
-La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
-
-###### Artículo 387.
-
-La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
-
-###### Artículo 388.
-
-Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso por auditores externos.
-
-###### Artículo 389.
-
-Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
-
-Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
-
-###### Artículo 390.
-
-La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
-
-I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
-
-II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
-
-III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
-
-IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
-
-V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
-
-VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
-
-VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
-
-VIII. Promover la capacitación del personal de auditoría;
-
-IX. Vigilar el cumplimiento de las medidas correctivas; y
-
-X. Las demás que determine el Cabildo.
-
-###### Artículo 391.
-
-La Contraloría elaborará un programa anual de auditoría, el cual contendrá:
-
-I. Los tipos de auditoría a practicar;
-
-II. Las dependencias y entidades, programas y actividades a examinar; y
-
-III. Los períodos estimados de realización.
-
-###### Artículo 392.
-
-La Contraloría mantendrá actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales.
-
-###### Artículo 393.
-
-La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
-
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
-Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
-
-###### Artículo 394.
-
-La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
-
-###### Artículo 395.
-
-Las dependencias y entidades enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
-
-I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
-
-II. Informes de las observaciones derivadas de las auditorías, y
-
-III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el titular de la dependencia o entidad.
-
-###### Artículo 396.
-
-Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
-
 ###### Artículo 148.
 
 Son solidariamente responsables del pago del Impuesto Sobre Espectáculos Públicos, los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos, si el propietario o poseedor no manifiesta a la Tesorería la celebración del acto o contrato formulado, por lo menos un día hábil antes de la iniciación de dichos eventos.
@@ -2008,62 +1918,6 @@ Quienes promuevan u organicen los eventos a que se refiere este capítulo serán
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-###### Artículo 397.
-
-El presente Libro tiene por objeto regular la planeación, contratación, ejercicio, control y vigilancia de la deuda pública del Municipio y de sus entidades.
-
-Las operaciones de financiamiento serán pagaderas en moneda y territorio nacionales, en cumplimiento de los requisitos que en materia federal y estatal existan sobre el particular.
-
-Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz- Llave.
-
-###### Artículo 398.
-
-La deuda pública municipal, para efectos de este ordenamiento, está constituida por las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos y a cargo del patrimonio de:
-
-I. El Municipio;
-
-II. Los organismos descentralizados;
-
-III. Las empresas de participación municipal mayoritaria; y
-
-IV. Los fideicomisos en los que el fideicomitente sea el Municipio o alguna de las entidades mencionadas en las fracciones II y III de este artículo.
-
-###### Artículo 399.
-
-Para los efectos de este ordenamiento, se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
-
-I. La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo;
-
-II. La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se pacte en plazos que excedan de un ejercicio presupuestal;
-
-III. Los pasivos contingentes relacionados con los actos mencionados; y
-
-IV. La celebración de actos jurídicos análogos a los anteriores.
-
-El Congreso sólo autorizará la contratación de operaciones de financiamiento, directas o contingentes, cuando se trate de inversiones públicas productivas.
-
-###### Artículo 400.
-
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Municipio, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, aquellas creadas para la ejecución de obras, adquisición o manufactura de bienes y prestación de servicios, que produzcan directa o indirectamente un incremento en los ingresos del Municipio, o tengan una clara repercusión en beneficio de la sociedad y de la economía local
-
-###### Artículo 401.
-
-Cuando las condiciones financieras del Ayuntamiento así lo hagan necesario, previo acuerdo del Cabildo, y cumpliendo con las disposiciones de la ley, se podrán contraer nuevas obligaciones, para la reestructuración de los créditos ya adquiridos.
-
-###### Artículo 402.
-
-La Tesorería es la dependencia del Ayuntamiento encargada de la aplicación de las normas en materia de deuda pública y de expedir las disposiciones necesarias para su debido cumplimiento.
-
-Quienes contraten financiamientos en representación de los sujetos a que se refiere el artículo 398 de este Código, serán responsables del estricto cumplimiento de este ordenamiento, de sus disposiciones reglamentarias y de las demás leyes aplicables, así como de las directrices de contratación que expida la Tesorería.
-
-###### Artículo 403.
-
-La deuda pública que contrate el Municipio será ordinaria y extraordinaria.
-
-La deuda pública ordinaria se contratará y ejercerá con base en el programa anual de financiamiento que anualmente apruebe el Congreso, mientras que la deuda pública extraordinaria la autorizará éste, para la contratación de financiamientos que se destinen a la atención de necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional, estatal y municipal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que altere la planeación financiera del Municipio y que no pudiera preverse en el programa anual de financiamiento.
-
-Las entidades públicas a que se refieren las fracciones II a IV del artículo 398, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
-
 ###### Artículo 155.
 
 Este impuesto se causará, liquidará y pagará, aplicando a la base gravable determinada, la tasa del veinte por ciento sobre el valor nominal total de los boletos o billetes vendidos o, cuando el mismo no pueda determinarse, sobre el valor total de los premios ofrecidos.
@@ -2112,76 +1966,6 @@ Es objeto de este impuesto, la explotación comercial de los juegos siguientes: 
 
 ### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
-###### Artículo 404.
-
-Corresponde al Cabildo, por conducto de la Tesorería y, en su caso, del Presidente y del Síndico:
-
-I. Elaborar el programa anual de financiamiento con base en el cual se contratará y manejará la deuda pública;
-
-II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal, para la contratación de financiamientos a cargo de las entidades a que se refieren las fracciones II a IV del artículo 398 de este ordenamiento;
-
-III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
-
-IV. Contratar y manejar la deuda pública del Municipio y otorgar la garantía del mismo para la realización de operaciones crediticias;
-
-V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
-
-VI. Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por el Municipio, y que las partidas destinadas a su amortización sean fijadas en el presupuesto de egresos respectivo;
-
-VII. Participar en las negociaciones y suscribir los convenios que tengan por objeto, la reestructuración, conversión o consolidación de la deuda pública, a fin de reducir las cargas financieras del Municipio;
-
-VIII. Llevar el registro de la deuda del sector público municipal, conforme a la normatividad respectiva e inscribirse y proporcionar la información que le sea requerida para efectos del Registro de Deuda Municipal que tiene a su cargo el Congreso, o en su caso, para efectos del Registro de Deuda Estatal que controla la Secretaría de Finanzas y Planeación del Gobierno del Estado;
-
-IX. Sustituir su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por el Ayuntamiento; pudiendo también asumir la calidad de avalista;
-
-X. Informar trimestralmente al Congreso sobre el estado que guarda la deuda pública, así como proporcionar la información que éste y el Ejecutivo del Estado le requieran; y
-
-XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conforme a la ley, y las que establezcan las normas aplicables.
-
-Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 398 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
-
-###### Artículo 405.
-
-Corresponde al Congreso:
-
-I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
-
-II. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten;
-
-III. Autorizar de manera expresa la contratación de endeudamiento por el Ayuntamiento, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fue elegido;
-
-IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento.
-
-V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado;
-
-VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales;
-
-VII. Informar al Ejecutivo del Estado, con propósitos de registro, así como al Ayuntamiento, de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen;
-
-VIII. Operar el Registro de Deuda Pública Municipal; y
-
-IX. Las demás que le confieran este Código y otras leyes.
-
-###### Artículo 406.
-
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación:
-
-I. A solicitud expresa del Ayuntamiento, proporcionar los informes, datos y cooperación técnica que requiera para la elaboración de programas financieros;
-
-II. Asesorar técnicamente y apoyar al Municipio y a las entidades a que se refiere el artículo 398 de este Código en la gestión, concertación y contratación de sus operaciones de deuda pública;
-
-III. Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal, incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, constitución de fondos y otros que autoricen las leyes respectivas;
-
-IV. Expedir los certificados de afectación a los ingresos municipales en participaciones federales, cuando el Ayuntamiento los otorgue como garantía de financiamiento;
-
-V. Cuando el Estado sea avalista del Municipio, solicitar al Ayuntamiento la información sobre sus operaciones de financiamiento y sobre los saldos y circunstancias de su deuda pública; y
-
-VI. Las demás que le confieran este Código y otras leyes.
-
-###### Artículo 407.
-
-A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
-
 ###### Artículo 162.
 
 Son sujetos de este impuesto, las personas físicas o morales, ya sean propietarias o arrendatarias de los establecimientos donde tenga acceso el público, en que se practiquen los juegos a que se refiere este capítulo.
@@ -2228,38 +2012,6 @@ La Tesorería podrá nombrar interventores para vigilar el cumplimiento de las o
 
 ### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
-###### Artículo 408.
-
-El Ayuntamiento y las entidades, al solicitar autorización del Congreso para contratar financiamientos, indicarán:
-
-I. El monto de la deuda que se solicita contratar;
-
-II. Las tasas de interés a pactar;
-
-III. Las instituciones que podrán fungir como acreditantes;
-
-IV. Los plazos de amortización;
-
-V. La denominación en que podrá contratarse;
-
-VI. El destino de los recursos;
-
-VII. Las condiciones suspensivas o resolutorias que rijan la vigencia de las obligaciones;
-
-VIII. La forma y tiempos de disposición de los recursos;
-
-IX. Los períodos de inversión;
-
-X. En su caso, las normas que resulten aplicables para la contratación de obras o servicios;
-
-XI. Las garantías que podrán otorgarse; y
-
-XII. Los demás requisitos que fije el Congreso.
-
-###### Artículo 409.
-
-El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
-
 ###### Artículo 169.
 
 Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto el relativo al Impuesto sobre Traslación de Dominio de Bienes Inmuebles.
@@ -2286,66 +2038,6 @@ III. Quince por ciento adicional sobre los derechos y productos que establece el
 
 ### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
-###### Artículo 410.
-
-Para la obtención y contratación de créditos y empréstitos, el Municipio y las entidades podrán ocurrir a Instituciones de banca de desarrollo, de banca nacional o cualquier institución de crédito o auxiliar de crédito que funcionen conforme a la legislación sobre la materia. En todo caso se elegirá, entre diversas opciones, la que resulte más favorable para la obtención de recursos.
-
-###### Artículo 411.
-
-Los proyectos a cargo de las dependencias del Ayuntamiento que requieran financiamiento para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago del Ayuntamiento.
-
-###### Artículo 412.
-
-Las entidades mencionadas en las fracciones II a IV del artículo 398 de este ordenamiento, sólo requerirán autorización previa y expresa del Ayuntamiento, cuando el Municipio sea garante de sus créditos.
-
-La Tesorería, previo el análisis de la información que le remita la entidad pública solicitante, emitirá una opinión al Presidente, misma que será sometida por conducto de éste al Cabildo. La resolución que se emita se comunicará por escrito, a las entidades solicitantes, precisando en su caso, las características y condiciones en que los créditos puedan ser concertados.
-
-En los demás casos, bastará que el órgano interno de cada entidad pública autorice la contratación de financiamiento, misma que deberá ser aprobada por el Congreso, en los términos de este Código.
-
-###### Artículo 413.
-
-El Congreso vigilará que en la garantía que se otorgue para el pago de operaciones de financiamiento, no se afecte la continuidad, permanencia y generalidad de los servicios públicos, o que en general, no se cause un perjuicio al interés público.
-
-###### Artículo 414.
-
-El Municipio, previa autorización del Cabildo, podrá realizar operaciones en virtud de las cuales, los particulares, las entidades públicas, concesionarios o usuarios del sector privado o social se subroguen en los adeudos suscritos originalmente por el Ayuntamiento.
-
-###### Artículo 415.
-
-El Municipio, por conducto del Ayuntamiento, y las entidades podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere este Libro.
-
-En el caso del Municipio, los contratos y convenios serán firmados por el Presidente, Síndico, Secretario y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente, Síndico y Tesorero Municipales.
-
-En el caso de las entidades, los documentos a que se refiere este artículo serán suscritos por sus representantes legales.
-
-De la misma forma se documentarán las operaciones por las que se substituyan como acreditado, cambien su calidad de deudores directos o avalistas o subroguen su deuda a terceros.
-
-###### Artículo 416.
-
-Los montos derivados de la contratación de obligaciones directas a corto plazo se computarán como deuda pública municipal extraordinaria, requerirán la autorización previa del Congreso y reunirán los requisitos siguientes:
-
-I. Que el saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente;
-
-II. Que el plazo de su vencimiento no rebase los cuarenta y cinco días;
-
-III. Que su pago se realice al término del vencimiento y no rebase el periodo constitucional; y
-
-IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos.
-
-El Municipio y las entidades podrán contratar montos adicionales de financiamiento en obligaciones directas a corto plazo, cuando a juicio del Cabildo o del órgano de gobierno, según sea el caso, se presenten circunstancias económicas extraordinarias que así lo exijan.
-
-###### Artículo 417.
-
-En la contratación de deuda se deberá buscar que se mantenga un correcto equilibrio financiero y que se cuente con los elementos económicos suficientes para hacer frente a las obligaciones contraídas.
-
-###### Artículo 418.
-
-Las entidades mencionadas en las fracciones II a IV del artículo 398 de este Código, sólo podrán solicitar autorización para contratar empréstitos o créditos, previa acuerdo del órgano de gobierno interno correspondiente.
-
-###### Artículo 419.
-
-Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
-
 ###### Artículo 173.
 
 Esta contribución se liquidará y pagará junto con los impuestos, derechos o productos sobre los que recae y su pago se hará en el momento en que se haga el entero de estos últimos.
@@ -2355,36 +2047,6 @@ Esta contribución se liquidará y pagará junto con los impuestos, derechos o p
 Es objeto de este impuesto la percepción de ingresos que obtengan los fraccionadores por la enajenación de lotes de terreno.
 
 ### CAPÍTULO V. DE LAS GARANTÍAS
-
-###### Artículo 420.
-
-Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para que los mismos sean gravados.
-
-El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos municipales y de las participaciones federales, cuando no se afecten los programas de gasto corriente ni de inversión prioritaria.
-
-El Municipio y las entidades podrán otorgar en garantía ingresos hacendarios presentes y futuros, sin exceder el término de su administración, salvo autorización expresa del Congreso.
-
-###### Artículo 421.
-
-En los casos en que se requiera el aval del Gobierno del Estado respecto de obligaciones del Municipio o de las entidades, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá su justificación, además de la autorización del Cabildo o del órgano de gobierno interno, según corresponda.
-
-###### Artículo 422.
-
-Cuando el Municipio solicite el aval del Gobierno del Estado, deberá cumplir con los siguientes requisitos:
-
-I. Que el importe a contratar se encuentre dentro del programa anual de financiamiento que haya sido aprobado por el Congreso en la Ley de Ingresos para el ejercicio correspondiente;
-
-II. Que medie autorización del Congreso;
-
-III. Que cuando se trate de operaciones a corto plazo, éstas reúnan los requisitos establecidos en el artículo 416 del presente ordenamiento;
-
-IV. Que el monto acumulado de los avales otorgados por el Gobierno del Estado no excedan del porcentaje a que se refiere el artículo 420 de este ordenamiento y la previsión contenida en la Ley de Ingresos del Estado, del ejercicio presupuestal correspondiente, en la partida expresa de asignación fiscal al Ayuntamiento;
-
-V. Que el Ayuntamiento haya acreditado que cuenta con elementos económicos suficientes para hacer frente a la obligación en los montos y plazos, conforme a su programación financiera; y
-
-VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligaciones de información al Registro de Deuda Pública Municipal y, en su caso, Estatal.
-
-Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
 ###### Artículo 175.
 
@@ -2399,90 +2061,6 @@ La base de este impuesto será el valor catastral del inmueble o el valor de ope
 Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de dos al millar.
 
 ### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
-
-###### Artículo 423.
-
-Es responsabilidad de la Tesorería la vigilancia del cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, y de las entidades a que se refieren las fracciones II a IV del artículo 398 de este Código, en el caso de que el Municipio actúe como su garante.
-
-Para tal efecto, las dependencias del Ayuntamiento y, en su caso, las entidades referidas, deberán proporcionar información a la Tesorería en la forma y términos que le sean requeridos.
-
-En todos los casos el titular de la dependencia o entidad de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraten.
-
-###### Artículo 424.
-
-La Tesorería vigilará que se incluyan en el presupuesto de egresos del Municipio, los montos necesarios para satisfacer puntualmente los compromisos derivados de la contratación de financiamientos.
-
-La misma obligación corresponderá a los titulares de las entidades.
-
-###### Artículo 425.
-
-El Ayuntamiento y las entidades llevarán un registro interno de su deuda pública, pero deberán informar a la Tesorería, periódicamente, del estado que guarda la misma, para su registro.
-
-En todo caso, la Tesorería o los titulares de las entidades rendirán los informes que les sean requeridos por las autoridades estatales competentes, para los efectos del Registro de Deuda Municipal y, en su caso, del Estatal.
-
-###### Artículo 426.
-
-El Ayuntamiento, al solicitar la inscripción en el Registro de la Deuda Estatal, anexará a su petición lo siguiente:
-
-I. El instrumento jurídico en que se haga constar la obligación cuyo registro solicita;
-
-II. El acta de Cabildo en la que se autorice contratar y afectar, en garantía de pago de las obligaciones contraídas, los ingresos municipales propios y participaciones federales;
-
-III. El acta de Cabildo en la que se autorice a afectar otras garantías distintas a las señaladas en la fracción anterior;
-
-IV. La autorización del Congreso; y
-
-V. Información sobre el destino del crédito.
-
-###### Artículo 427.
-
-Todas las obligaciones que contraigan el Municipio y las entidades se inscribirán en el Registro de Deuda Pública Municipal.
-
-###### Artículo 428.
-
-En el Registro de Deuda Pública Municipal se anotarán los datos siguientes:
-
-I. El número progresivo y fecha de inscripción;
-
-II. Las características del acto jurídico, con identificación de las obligaciones contraídas, su objeto, plazo y monto;
-
-III. La fecha del acta de Cabildo donde se autoriza al Ayuntamiento a asumir obligaciones y en su caso a afectar garantías;
-
-IV. La autorización del Congreso;
-
-V. Las garantías afectadas;
-
-VI. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron; y
-
-VII. Las variaciones de los endeudamientos.
-
-###### Artículo 429.
-
-El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
-
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
-###### Artículo 430.
-
-El Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave.
-
-###### Artículo 431.
-
-El Municipio y las entidades tendrán las obligaciones siguientes:
-
-I. Llevar registro de las operaciones a que se refiere este Libro;
-
-II. Comunicar al Ejecutivo del Estado, cuando éste actúe como aval, todos los datos relacionados con la contratación y reestructuración de créditos, así como los derivados de obligaciones contingentes, en un plazo no mayor de diez días hábiles, contado a partir de la celebración del acto; y
-
-III. Comunicar al Congreso el pago total o parcial de las obligaciones, para efectos de su inscripción en el Registro de Deuda Pública Municipal.
-
-###### Artículo 432.
-
-La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a cargo del Municipio, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago por el Municipio, se cubran con cargo a los ingresos municipales en gravámenes y participaciones federales, que deba entregarles el Estado.
-
-###### Artículo 433.
-
-Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
 ###### Artículo 178.
 
@@ -2530,20 +2108,6 @@ Son sujetos del pago de derechos las personas físicas o morales que reciban ser
 
 ### CAPÍTULO VII. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
 
-###### Artículo 434.
-
-Las participaciones que corresponden al Municipio son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones derivadas o contraídas, con apego a las disposiciones legales, por el Municipio o sus entidades, que hayan requerido de afectación en garantía de dichas participaciones.
-
-Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Municipal y en el Registro de Deuda Pública Estatal correspondiente, tratándose en este último de adeudos avalados por el Estado.
-
-###### Artículo 435.
-
-En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones que en ingresos federales le correspondan al Municipio.
-
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
-Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
-
 ###### Artículo 185.
 
 Los derechos por la prestación de servicios deberán ser congruentes con el costo total del servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
@@ -2563,78 +2127,6 @@ Cuando se concesione total o parcialmente un servicio público gravado por ley, 
 ## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
-
-###### Artículo 436.
-
-El presente libro tiene por objeto definir y regular el dominio, uso, usufructo, aprovechamiento, enajenación, destino, registro y control de los bienes muebles e inmuebles que integran el patrimonio del Municipio y de sus Entidades.
-
-###### Artículo 437
-
-El patrimonio del Municipio se compone de:
-
-I. Bienes de dominio público; y
-
-II. Bienes de dominio privado.
-
-###### Artículo 438.
-
-Son bienes de dominio público:
-
-I. Los de uso común;
-
-II. Los destinados por el Municipio a un servicio público, y los equiparados a éstos conforme a la ley;
-
-III. Los monumentos históricos y artísticos, muebles e inmuebles, de propiedad municipal;
-
-IV. Los muebles de propiedad municipal que, por su naturaleza no sean normalmente substituibles, como los documentos y expedientes de las oficinas: los manuscritos, incunables, ediciones, libros, documentos, publicaciones, periódicos, mapas, folletos y grabados importantes o raros, así como las colecciones de esos bienes; los archivos; las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
-
-V. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Municipio o del patrimonio de las Entidades;
-
-VI. Los puentes y carreteras del dominio municipal;
-
-VII. Los inmuebles adquiridos para destinarse a fines de utilidad pública;
-
-VIII. Los montes y bosques propiedad del dominio del gobierno municipal, que se destinen a fines de interés públicos, y
-
-IX. Los demás bienes del dominio municipal no considerados en las fracciones anteriores, que proporcionen un servicio público.
-
-###### Artículo 439.
-
-Son bienes de dominio privado:
-
-I. Los no comprendidos en el artículo anterior;
-
-II. Los inmuebles que formen parte del fundo legal no enajenados a particulares;
-
-III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;
-
-IV. Los que hayan formado parte del patrimonio de las Entidades que se extingan o liquiden, en la proporción que corresponda al Municipio;
-
-V. La totalidad o la parcialidad de los bienes del dominio público, que sean desafectados o desincorporados del mismo;
-
-VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
-
-VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
-
-VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
-
-###### Artículo 440.
-
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines
-
-###### Artículo 441.
-
-Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito. En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del Congreso o de la Diputación Permanente.
-
-Sólo en casos excepcionales, por razones debidamente fundadas y motivadas, el Ayuntamiento podrá, con el voto de las dos terceras partes de sus integrantes, desincorporar los bienes de uso común o los afectos o destinados a un servicio público para convertirlos en bienes de dominio privado, previa autorización del Congreso o, en su caso, de la Diputación Permanente.
-
-###### Artículo 442.
-
-Los actos de adquisición, administración, uso, aprovechamiento, explotación o enajenación de los inmuebles municipales, así como la ejecución de obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición en los mismos, se sujetarán a las disposiciones del presente Libro y demás leyes y reglamentos aplicables.
-
-###### Artículo 443.
-
-Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
 ###### Artículo 189.
 
@@ -2677,34 +2169,6 @@ La falta de pago, por sí misma, justifica la no prestación del servicio o la n
 Cuando la ley establezca la obligación de pago de un refrendo de permisos, licencias o autorizaciones, sin especificar el plazo dentro del que debe solicitarse, se estará a lo que mediante disposiciones generales dé a conocer el Cabildo.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
-
-###### Artículo 444.
-
-Son atribuciones del Ayuntamiento, respecto a sus bienes, las siguientes:
-
-I. Vigilar la observancia del presente Código;
-
-II. Programar la adquisición, uso, aprovechamiento, usufructo, destino, enajenación y arrendamiento de los bienes municipales;
-
-III. Promover la titulación y registro de todos los bienes y derechos que formen parte de su patrimonio y, si procediere, de aquellos que se presuman de su propiedad, mediante escritura pública o título supletorio de dominio;
-
-IV. Realizar o promover, en su caso, los deslindes sobre sus bienes patrimoniales;
-
-V. Ejecutar todas las acciones jurídicas y materiales tendientes a la reivindicación o recuperación de sus bienes;
-
-VI. Suscribir, por conducto del Presidente Municipal y del Síndico, los contratos que el Congreso o la Diputación Permanente autorice;
-
-VII. Intervenir, conforme a las leyes de la materia, en la regularización de la tenencia de la tierra en el Municipio;
-
-VIII. Formular un inventario de todos los bienes y derechos municipales;
-
-IX. Establecer y mantener actualizado un registro de solicitudes y enajenaciones relativas a sus bienes;
-
-X. Ejercitar las acciones de rescisión administrativa respecto a los bienes municipales que establece este Código;
-
-XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenación, considerando su ubicación y calidad. En ningún caso su valor será inferior al valor catastral o fiscal; y
-
-XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
 ###### Artículo 195.
 
@@ -3100,40 +2564,6 @@ La regularización por omisión de registros o licencias de construcción causar
 
 ### CAPÍTULO III. DEL INVENTARIO
 
-###### Artículo 445.
-
-El Municipio formará un inventario valorado de todos sus bienes y derechos, que contendrá los datos de identificación física, antecedentes jurídicos y administrativos, de los bienes municipales.
-
-El inventario será formulado por el Síndico y aprobado por el Cabildo.
-
-###### Artículo 446.
-
-Los bienes se clasificarán en el inventario agrupándolos de la siguiente manera:
-
-I. Muebles;
-
-II. Inmuebles;
-
-III. Derechos;
-
-IV. Valores mobiliarios, inmobiliarios, financieros y bursátiles;
-
-V. Créditos; y
-
-VI. Semovientes;
-
-Los documentos que por su naturaleza tengan incorporados valores o derechos estarán a cargo de la Tesorería para su custodia.
-
-###### Artículo 447.
-
-Las dependencias de la administración pública municipal y las demás instituciones públicas y privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Municipio proporcionarán información necesaria para la elaboración y actualización del inventario de bienes municipales.
-
-Lo anterior, sin perjuicio de la integración y actualización de los propios catálogos e inventarios de las Entidades.
-
-###### Artículo 448.
-
-La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
-
 ###### Artículo 207.
 
 En el caso de la asignación de número oficial, una vez asignado éste y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambios ordenados por el Ayuntamiento, en un plazo de cinco años, contado a partir de su otorgamiento.
@@ -3160,14 +2590,6 @@ Es objeto de los derechos a que se refiere este Capítulo la prestación de los 
 
 ### CAPÍTULO I. DE LOS BIENES MUEBLES
 
-###### Artículo 449.
-
-El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas relativas al dominio y la administración de los bienes muebles del Municipio, de conformidad con las disposiciones legales aplicables.
-
-###### Artículo 450.
-
-Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
-
 ###### Artículo 213.
 
 Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de drenaje, así como quien, con un carácter distinto, haga uso de estos servicios.
@@ -3193,188 +2615,6 @@ Estarán exentos de pago de los derechos por servicio de agua potable los gobier
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
 ### CAPITULO II. DE LOS BIENES INMUEBLES
-
-###### Artículo 451.
-
-Las disposiciones de este capítulo regulan la adquisición y el arrendamiento de bienes inmuebles, para satisfacción de las necesidades de la Administración Pública Municipal.
-
-###### Artículo 452.
-
-Las dependencias de la administración pública municipal presentarán al Cabildo un programa anual, que prevea sus necesidades inmobiliarias y contenga la información necesaria para fundar las políticas y decisiones en la materia.
-
-Las adquisiciones de bienes inmuebles que se programen se orientarán al cumplimiento de los fines previstos en el Plan de (sic) Municipal de Desarrollo.
-
-En todos los casos, el Ayuntamiento verificará que el uso para el que se requieran los inmuebles sea compatible con las disposiciones vigentes en materia de desarrollo urbano y verificará la disponibilidad presupuestal para la adquisición de los mismos. Al momento de la adquisición deberá contarse con la partida presupuestal autorizada.
-
-###### Artículo 453.
-
-Para satisfacer los requerimientos de inmuebles que formulen las Dependencias y Entidades, la Comisión de Hacienda, con base en la información que proporcione el Inventario de Bienes Municipales, procederá conforme a las disposiciones aplicables.
-
-###### Artículo 454.
-
-Cuando el Municipio adquiera un inmueble, por vías de derecho privado, para cumplir con finalidades de orden público, en su caso, podrá convenir con los poseedores, derivados o precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamientos, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión del bien, con la posibilidad de cubrir, en cada caso, la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no excederá de un año.
-
-###### Artículo 455.
-
-Las dependencias sólo podrán arrendar bienes inmuebles para su servicio, cuando previo informe que le rindan al Cabildo, éste lo apruebe si no fuere posible o conveniente su adquisición.
-
-Tanto el arrendamiento de inmuebles para oficinas públicas como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará con la asesoría de la dependencia responsable de Obras Públicas.
-
-El Presidente, con la asesoría de la dependencia responsable de Obras Públicas, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
-
-###### Artículo 456.
-
-En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, corresponderá a la Comisión de Hacienda:
-
-I. Validar los avalúos de los inmuebles objeto de la operación de adquisición, enajenación o permuta o de cualquier otra autorizada por la ley cuando se requiera; y
-
-II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
-
-#### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
-
-###### Artículo 457.
-
-Para aprovechamientos especiales sobre los bienes de uso común o afectos o destinados a un servicio público, se requiere permiso o autorización, otorgados con las condiciones y requisitos que apruebe el Cabildo.
-
-###### Artículo 458.
-
-Los permisos y autorizaciones sobre bienes de uso común y los destinados o afectos a un servicio público, no generan derechos reales, sólo otorgan, frente a la Administración Municipal y sin perjuicio de terceros, el derecho a realizar los usos o aprovechamientos de conformidad con las reglas y condiciones que establezcan las leyes y el permiso o autorización.
-
-###### Artículo 459.
-
-Los permisos o autorizaciones a que se refiere el artículo anterior, los concederá el Cabildo hasta por el lapso de un año, que podrá prorrogarse por igual término siempre que no exceda del periodo de la Administración que lo emite.
-
-Los permisos o autorizaciones se otorgarán a título personal y serán intransferibles.
-
-###### Artículo 460.
-
-Serán nulos los permisos o autorizaciones que se otorguen en contravención a las disposiciones anteriores, además, serán revocados por las causas siguientes:
-
-I. Dar un fin distinto al permiso o autorización o no usar el bien de acuerdo con lo dispuesto en éste Código, los reglamentos y permisos o autorizaciones;
-
-II. Dejar de pagar en forma oportuna los derechos que se hayan fijado en el permiso o autorización;
-
-III. Realizar obras no autorizadas por escrito;
-
-IV. Dañar en forma reiterada ecosistemas como consecuencia del uso o aprovechamiento; o
-
-V. Las demás previstas en éste ordenamiento.
-
-###### Artículo 461.
-
-Los inmuebles considerados, en términos de este Código, como bienes de dominio privado deberán destinarse prioritariamente al uso común o al servicio de las Dependencias y Entidades de la Administración Pública Municipal.
-
-###### Artículo 462.
-
-Los inmuebles que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán ser objeto de los siguientes actos de dominio y administración, sin perjuicio de lo dispuesto por la Ley Orgánica del Municipio Libre:
-
-I. Enajenación a título oneroso; para adquirir o permutar otros inmuebles que se requieran para la prestación de los servicios a cargo de las dependencias de la Administración Pública Municipal; para el pago de indemnizaciones o adeudos en los que el municipio tenga el carácter de deudor; para la instalación de empresas particulares que contribuyan, a través de la generación de empleos, a elevar el nivel económico de la localidad; a particulares para la construcción de viviendas de interés social; y, en general, para promover el bienestar colectivo;
-
-II. Enajenación a título gratuito, a favor de los Gobiernos Federal, de los Estados o de los Municipios, para la prestación de servicios públicos, de personas físicas o morales de carácter privado, que realicen actividades de interés social y no persigan fines de lucro; y
-
-III. Arrendamiento o comodato, según convengan al interés público, a favor de personas físicas o morales, públicas o privadas, de conformidad con la legislación aplicable.
-
-###### Artículo 463.
-
-El Ayuntamiento, previa autorización del Congreso o, en su caso, de la Diputación Permanente, podrá conceder el uso o el usufructo de inmuebles considerados como bienes de dominio privado.
-
-###### Artículo 464.
-
-En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, en materia de avalúos se estará a lo dispuesto por la Ley de Catastro.
-
-La transmisión de dominio, a título gratuito u oneroso, de los bienes inmuebles propiedad del Ayuntamiento sólo podrá realizarse mediante acuerdo del Ayuntamiento, emitido en términos de la legislación aplicable.
-
-###### Artículo 465.
-
-En los casos de enajenación a título gratuito, el acuerdo del Ayuntamiento fijará el plazo máximo dentro del cual deberá iniciarse la utilización del bien para el objeto solicitado; en su defecto se entenderá que el plazo será de un año.
-
-Si el beneficiario no hiciere uso del bien dentro del plazo previsto o destinare el inmueble a un uso distinto al autorizado, tanto el inmueble como sus mejoras, si las hubiere, se revertirán a favor del Municipio, sin derecho a repetir.
-
-Cuando la beneficiaria sea una persona física o moral de carácter privado y deje de cumplir con su objeto o se extinga, también procederá la reversión del bien y sus mejoras, si las hubiere, a favor del Municipio, sin derecho a repetir.
-
-###### Artículo 466.
-
-En la enajenación de bienes el precio de venta no será menor al valor catastral actualizado, preferentemente será de contado y podrá realizarse a censo redimible en los supuestos previstos en el artículo siguiente.
-
-###### Artículo 467.
-
-Toda enajenación onerosa de inmuebles que realice el Municipio deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de organismos, asociaciones de beneficencia o personas de escasos recursos y que tengan como finalidad resolver necesidades de vivienda de interés social, las que se verifiquen para la realización de actividades sociales y culturales, o las que se realicen teniendo por objeto el desarrollo de programas de interés social o popular, la incorporación de asentamientos irregulares al desarrollo urbano, el mejoramiento y la conservación de bienes públicos o con valor histórico o arqueológico, así como la integración económica de una zona o región.
-
-###### Artículo 468.
-
-Mientras no esté totalmente pagado el precio, los compradores de inmuebles municipales no podrán hipotecarlos ni constituir sobre ellos derechos reales a favor de terceros, ni estarán facultados para derribar o modificar las construcciones sin acuerdo expreso del Ayuntamiento, mismo que se expedirá considerando el destino final de los bienes y la necesidad de su afectación, salvo excepción prevista en este Código.
-
-En los contratos respectivos deberá estipularse que la falta de pago de tres mensualidades por concepto de los abonos a cuenta del precio y en su caso de los intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, dará origen a la rescisión del contrato.
-
-Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso en el que los bienes inmuebles se afecten en fideicomiso público, en cuyo evento, será el Comité Técnico del mismo el que apruebe las enajenaciones considerando los fines del propio fideicomiso y sus reglas de comercialización.
-
-###### Artículo 469.
-
-El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracción III del artículo 439 de este Código, mediante requerimiento al poseedor de las mismas para que entere el pago a la Tesorería, de lo cual se informará al Registro Público de la Propiedad para que éste realice la rectificación correspondiente.
-
-El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 444.
-
-#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
-
-###### Artículo 470.
-
-La enajenación de los bienes de dominio privado a los particulares, será para fines habitacionales; excepcionalmente y previa autorización del Congreso o de la Diputación Permanente, en su caso, para otros fines, de preferencia los de beneficio colectivo, debiendo satisfacer los requisitos, limitaciones, modalidades y procedimiento que imponen los siguientes artículos de este Código, la Ley de Desarrollo Regional y Urbano para el Estado de Veracruz, así como los Planes de Desarrollo Estatal, Regional o Municipal.
-
-###### Artículo 471.
-
-Serán requisitos para la enajenación a particulares con fines habitacionales, los siguientes:
-
-I. Presentar ante el Ayuntamiento solicitud escrita en la que, bajo protesta de decir verdad, se proporcionen los datos requeridos por el mismo;
-
-II. Tener modo honesto de vivir, ser mayor de edad y preferentemente jefe de familia;
-
-III. Ser vecino del lugar de la ubicación del inmueble por lo menos desde un año antes de la solicitud;
-
-IV. Acreditar, mediante constancia del Registro Público de la Propiedad, no ser propietario de bienes inmuebles;
-
-V. Acreditar, mediante constancia expedida por fedatario público, si se encuentra en posesión del predio cuya compra pretende, o ha construido en el mismo; y
-
-VI. Acompañar el plano del predio con la indicación de sus linderos, superficie y ubicación, si está en el supuesto de la fracción anterior.
-
-###### Artículo 472.
-
-Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento, en sesión de Cabildo y en los términos dispuestos por la legislación aplicable, emitirá el Acuerdo correspondiente, en el cual de ser favorable al solicitante, deberán asentarse los datos del beneficiario y del bien a enajenar, así como el precio de venta y la forma de pago.
-
-###### Artículo 473.
-
-Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al Congreso, a efecto de que éste o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
-
-###### Artículo 474.
-
-Autorizada por el Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se estipularán las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
-
-La escrituración se efectuará ante el Notario Público que elija el adquirente, dentro de la demarcación notarial que corresponda, según la ubicación del inmueble.
-
-###### Artículo 475.
-
-Serán limitaciones para la enajenación a particulares, las siguientes:
-
-I. No podrán adquirir en propiedad por si ni por interpósita persona más de un inmueble;
-
-II. La extensión superficial no excederá de doscientos metros cuadrados, salvo las situaciones que el Ayuntamiento, el Congreso del Estado o la Diputación Permanente en su caso, consideren excepcionales;
-
-III. En caso de que el precio se pague a plazos, estos no excederán de tres años, constituyéndose en garantía real el propio bien inmueble; y
-
-IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento urbano de las unidades habitacionales.
-
-###### Artículo 476.
-
-La enajenación a particulares se sujetará a las condiciones siguientes:
-
-I. Obligarse a construir y habitar su vivienda, en un plazo de dos años a partir de la fecha de notificada la autorización de enajenación por el Congreso;
-
-II. No gravar, ni arrendar o dar en uso, aprovechamiento o en usufructo el bien inmueble adquirido dentro de los dos años siguientes a la fecha de escrituración; se exceptúa de esta disposición el gravamen que se constituya para edificar su casa habitación, siempre que medie autorización expresa del Ayuntamiento; y
-
-III. Si en el término de dos años, el adquirente no concluye el proceso de escrituración una vez obtenido el acuerdo para su enajenación, se procederá a la rescisión administrativa del mismo.
-
-###### Artículo 477.
-
-Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
 
 ###### Artículo 218.
 
@@ -3403,52 +2643,6 @@ II. La evaluación de impacto ambiental.
 Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
 ### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
-
-###### Artículo 478.
-
-Son causas de rescisión administrativa:
-
-I. La falsedad de los datos proporcionados por el adquirente en su solicitud;
-
-II. El incumplimiento de las disposiciones de este Libro o de alguna de las cláusulas del contrato; o
-
-III. Mantener el lote baldío por más de dos años, contándose este término a partir de la fecha de notificada la autorización por el Congreso.
-
-###### Artículo 479.
-
-Cuando el Ayuntamiento tenga conocimiento de alguna causa de rescisión administrativa de un contrato, a solicitud de parte o de oficio, sin mayor trámite el Síndico del Ayuntamiento procederá de la forma siguiente:
-
-I. Integrará un expediente con el nombre del beneficiario del inmueble, anotando el domicilio particular donde pueda ser notificado, la ubicación del lote, superficie y estado en que se encuentra, señalando la causal de que se trate, agregando copia certificada del contrato de compraventa, expedida por el Registro Público de la Propiedad;
-
-II. Integrado el expediente, dictará acuerdo de inicio del procedimiento administrativo de rescisión;
-
-III. El acuerdo recaído se notificará al propietario en su domicilio mediante instructivo de notificación o por edicto si se desconociere, publicándolo en la Gaceta Oficial del Estado y en el periódico de mayor circulación en el lugar de ubicación del lote motivo del contrato, para que surta efectos de notificación personal;
-
-IV. El propietario del inmueble dispondrá del término de nueve días hábiles, contado a partir del en que surta efectos la notificación, para que por escrito manifieste lo que a su derecho convenga y para ofrecer pruebas, señalando domicilio para recibir notificaciones; de no hacerlo, las subsecuentes se harán en la tabla de avisos del Ayuntamiento;
-
-V. Hechas las manifestaciones y ofrecidas las pruebas, dentro de los tres días hábiles siguientes se señalará día y hora para su recepción. Las pruebas que sean admitidas serán recibidas y desahogadas en la misma audiencia, comparezca o no el oferente;
-
-VI. Si transcurrido el término a que se refiere la fracción IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
-
-VII. Celebrada la audiencia, dentro de los tres días hábiles siguientes, el Cabildo dictará resolución conforme a derecho. Esta se notificará al interesado como se prevé en la fracción III de este artículo.
-
-###### Artículo 480.
-
-Al resolverse la rescisión administrativa de un contrato celebrado conforme a este Código, el interesado tendrá derecho a que se le reintegre únicamente la cantidad que hubiere pagado por el lote, solicitándolo por escrito al Ayuntamiento.
-
-###### Artículo 481.
-
-Contra la resolución de rescisión administrativa, el interesado podrá interponer dentro de los quince días hábiles siguientes a la fecha de la notificación de la misma, ante el propio Ayuntamiento, el recurso administrativo de revocación. Admitido el recurso deberá ser resuelto por votación mayoritaria de los miembros del cabildo dentro de igual término.
-
-La interposición del recurso suspenderá de plano la ejecución de la resolución.
-
-###### Artículo 482.
-
-Cuando no se haya hecho valer el recurso de revocación o haciéndolo, se confirme la resolución, se comunicará por oficio al Encargado del Registro Público de la Propiedad de la zona registral de la ubicación del lote, para que practique la anotación marginal correspondiente y el Ayuntamiento proceda a la recuperación física del predio y realice la variación del padrón catastral como consecuencia de la rescisión administrativa.
-
-###### Artículo 483.
-
-El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión administrativa prevista en este Título, se sujetará a las disposiciones del Código de Procedimientos Administrativos.
 
 ###### Artículo 223.
 
@@ -4084,52 +3278,6 @@ Las afectaciones de inmuebles se regirán por la Ley Orgánica del Municipio Lib
 
 #### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
-###### Artículo 345.
-
-En la administración de los recursos humanos, el Ayuntamiento se sujetará a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, las condiciones generales de trabajo y demás disposiciones aplicables.
-
-###### Artículo 346.
-
-Para la contratación de personal deberá mediar opinión de la Tesorería, respecto de la disponibilidad presupuestal para cubrir sus salarios y prestaciones.
-
-###### Artículo 347.
-
-El Municipio y sus entidades, en el ejercicio del presupuesto, en el capítulo de servicios personales deberán:
-
-I. Apegarse estrictamente a los niveles establecidos en los tabuladores de sueldos aprobados en los presupuestos;
-
-II. Reducir el pago de horas extras y de compensaciones, a fin de optimizar los resultados del personal en horas normales de trabajo;
-
-III. Tratándose de remuneraciones adicionales por jornadas y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha;
-
-IV. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Juntas Directivas, Consejos, Comités Técnicos y otros;
-
-V. Sujetarse a los lineamientos existentes para realizar las erogaciones necesarias para el desempeño de comisiones oficiales;
-
-VI. Vigilar que no se realicen pagos de servicios personales por medio de fondos revolventes; y
-
-VII. Vigilar que los servidores públicos, en el desempeño de su actividad, no incurran en duplicidad de funciones.
-
-###### Artículo 348.
-
-Las dependencias y entidades deberán analizar las estructuras orgánicas y ocupacionales, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que se establezcan el Plan Municipal de Desarrollo.
-
-###### Artículo 349.
-
-Los servidores públicos adscritos a las dependencias y entidades se abstendrán de intervenir o de participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier otro servidor, cuando tenga interés personal, familiar o de negocios en el caso y pueda derivar alguna ventaja o beneficio para ellos.
-
-###### Artículo 350.
-
-El Ayuntamiento y las entidades se abstendrán de contratar personas inhabilitadas en el servicio público municipal, estatal o federal, para desempeñar un empleo, cargo o comisión.
-
-###### Artículo 351.
-
-El Ayuntamiento y entidades no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; asimismo, cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
-
-###### Artículo 352.
-
-Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
-
 ###### Artículo 254.
 
 Para los efectos del artículo 252 de este Código se entiende por terminada y puesta en servicio la obra, el día en que el ejecutor de la misma, la entregue mediante acta circunstanciada al Ayuntamiento.
@@ -4153,56 +3301,6 @@ Sólo los bienes del dominio público de la Federación, de los Estados o de los
 Los productos de su patrimonio, que obtenga el Ayuntamiento, en funciones de derecho privado, se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
-
-###### Artículo 353.
-
-La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
-
-###### Artículo 354.
-
-La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
-
-Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
-
-###### Artículo 355.
-
-Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
-
-Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
-
-A su vez, la Tesorería consolidará la información para que el Cabildo la apruebe y la remita al Congreso, a efectos de control legislativo del gasto.
-
-###### Artículo 356.
-
-La Tesorería emitirá las instrucciones sobre la forma y términos en que las entidades comprendidas en el Presupuesto de Egresos del Municipio, deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilidad y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación, únicamente por lo que se refiere al gasto público contenido en el Presupuesto.
-
-Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
-
-###### Artículo 357.
-
-Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
-
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
-
-II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
-
-III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
-
-IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
-
-V. Proporcionar al Presidente y a la Comisión de Hacienda la información necesaria para Justificar ante las autoridades competentes, la aplicación de recursos transferidos al Municipio de fondos estatales o federales, en los términos de los ordenamientos aplicables;
-
-VI. Efectuar el registro contable del patrimonio de bienes muebles e inmuebles del Municipio;
-
-VII. Participar en la depuración de cuentas de balance; y
-
-VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
-
-###### Artículo 358.
-
-El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
 
 ###### Artículo 259.
 
@@ -4242,68 +3340,6 @@ Los productos a que se refieren las fracciones I a IV del artículo anterior se 
 
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
-###### Artículo 359.
-
-El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
-
-I. Activo;
-
-II. Pasivo;
-
-III. Hacienda Pública;
-
-IV. Ingresos;
-
-V. Egresos;
-
-VI. Cuentas de Orden; y
-
-VII. Presupuesto.
-
-###### Artículo 360.
-
-El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
-
-I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
-
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
-
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
-
-###### Artículo 361.
-
-El Ayuntamiento y sus entidades registrarán en cuentas específicas los movimientos de sus fondos asignados.
-
-###### Artículo 362.
-
-Será responsabilidad de las dependencias y entidades la desagregación de las subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas, y para el control en la ejecución de las acciones, de acuerdo con sus necesidades específicas.
-
-###### Artículo 363.
-
-La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
-
-###### Artículo 364.
-
-El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
-
-###### Artículo 365.
-
-El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su poder y bajo custodia de la Tesorería los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras.
-
-###### Artículo 366.
-
-El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
-
-###### Artículo 367.
-
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
-
-I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto;
-
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago; y
-
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
-
 ###### Artículo 261.
 
 Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
@@ -4333,70 +3369,6 @@ III. Legados y Donaciones recibidos; y
 IV. Aprovechamientos diversos.
 
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
-
-###### Artículo 368.
-
-La Tesorería consolidará mensualmente la información que a continuación se detalla:
-
-I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
-
-II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
-
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
-
-IV. Estado de Deuda Pública; y
-
-V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
-
-###### Artículo 369.
-
-Las entidades enviarán a la Tesorería, dentro de los primeros diez días de cada mes, la misma información a que se refiere el artículo anterior.
-
-###### Artículo 370.
-
-Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Municipio, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las dependencias y entidades por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las dependencias y entidades informarán con el mismo detalle a la Tesorería del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
-
-###### Artículo 371.
-
-La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
-
-#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
-
-###### Artículo 372.
-
-La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Municipio, a más tardar el día treinta de noviembre de cada año. En el último año de la administración, el plazo vencerá el treinta de septiembre.
-
-###### Artículo 373.
-
-Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
-
-###### Artículo 374.
-
-Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 371.
-
-###### Artículo 375.
-
-Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
-
-#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
-
-###### Artículo 376.
-
-La Tesorería será responsable de integrar la cuenta pública del Municipio, la cual será elaborada con la información que la misma genere y la que le remitan las entidades.
-
-###### Artículo 377.
-
-La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
-
-###### Artículo 378.
-
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
-
-###### Artículo 379.
-
-El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
-
-De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
 ###### Artículo 264.
 
@@ -4896,62 +3868,6 @@ Las dependencias y entidades respetarán la distribución presupuestal autorizad
 
 Los recursos presupuestales que no se hubieren destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Tesorería.
 
-###### Artículo 338.
-
-Los montos presupuestales no devengados y las economías presupuestales, previa autorización del Cabildo, podrán aplicarse a programas prioritarios de las dependencias y entidades que los originen, conforme a los lineamientos administrativos que al efecto expida la Tesorería.
-
-###### Artículo 339.
-
-Corresponde a las dependencias y entidades operar y controlar los fondos revolventes, los cuales se ejercerán de acuerdo a los criterios y lineamientos que emita la Tesorería.
-
-Las dependencias y entidades, durante los primeros cinco días hábiles del mes de enero, cancelarán los fondos revolventes del ejercicio del año anterior de sus áreas administrativas o, en su defecto, solicitarán a éstas la reintegración total de los recursos no ejercidos.
-
-###### Artículo 340.
-
-Todas las dependencias y entidades informarán a la Tesorería, dentro de los primeros cinco días del mes de enero de cada año, el monto, estructura y características de su pasivo circulante al fin del año anterior.
-
-###### Artículo 341.
-
-Las ministraciones de fondos a las dependencias y entidades serán autorizadas por la Tesorería, de acuerdo con los programas y metas correspondientes.
-
-###### Artículo 342.
-
-La Tesorería, previo acuerdo del Presidente y de la Comisión de Hacienda, autorizará las transferencias de un área administrativa a otra o entre conceptos y partidas de gasto, para lo cual verificará previamente:
-
-I. Que se justifique la aplicación de los recursos solicitados, en función de la disponibilidad y el cumplimiento de las metas;
-
-II. Que no se cuenten con recursos ociosos o aplicados en operaciones que originen rendimientos de cualquier clase;
-
-III. El avance programático presupuestal de los programas, subprogramas y proyectos, con el propósito de regular el ritmo de su ejecución con base en lo programado; y
-
-IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
-
-###### Artículo 343.
-
-El Presidente, por conducto de la Tesorería, previo acuerdo del Cabildo, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestales.
-
-Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en el Municipio y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
-
-Los ajustes y reducciones que se efectúen en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico.
-
-###### Artículo 344.
-
-Los montos de ingresos excedentes a los previstos en la Ley de Ingresos del Municipio podrán generarse a partir de:
-
-I. Excedentes a las estimaciones en la recaudación de contribuciones municipales y rendimientos financieros;
-
-II. Remanentes que tengan las entidades entre sus ingresos y gastos netos que se consignen como erogaciones recuperables dentro de sus presupuestos;
-
-III. Ingresos que obtenga el Municipio como consecuencia de la enajenación de bienes muebles o inmuebles no prioritarios; así como de los provenientes de la recuperación de seguros y fianzas; y
-
-IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal o Estatal.
-
-El Cabildo podrá asignar los recursos excedentes a los programas que considere convenientes. La Tesorería queda facultada para la ministración de los mismos.
-
-De los movimientos que se efectúen en los términos de este artículo, el Ayuntamiento informará al Congreso al rendir la Cuenta Pública Municipal de dicho ejercicio.
-
-Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
-
 ###### Art. 79.
 
 La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:
@@ -4988,7 +3904,9 @@ VIII.- Conocer y resolver sobre las solicitudes de licencia que le sean presenta
 
 IX.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
-### CAPÍTULO I. DE LAS INFRACCIONES
+### CAPITULO III.
+
+DEL PODER EJECUTIVO.
 
 ###### Artículo 20.
 
@@ -5182,7 +4100,11 @@ Cualquiera de las Cámaras podrá citar a los Secretarios de Estado y a los Jefe
 
 Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los diputados, y de la mitad, si se trata de los Senadores, tienen la facultad de integrar comisiones para investigar el funcionamiento de dichos organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo Federal.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPITULO IV.
+
+DEL PODER JUDICIAL.
+
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Artículo 23.
 
@@ -5460,19 +4382,37 @@ Las licencias de los ministros, cuando no excedan de un mes, serán concedidas p
 
 Los ministros de la Suprema Corte de Justicia, los magistrados de circuito, los jueces de distrito y los respectivos secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literiarias (sic) o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>N. DE E. EL CONTENIDO DEL ANTERIOR ARTICULO 102, PASA A SER EL APARTADO A DEL PROPIO ARTICULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
 
 ###### Art. 102.
 
-La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser ministro de la Suprema Corte de Justicia.
+> <small>(ADICIONADO [N. DE E. ANTES PRIMER PARRAFO], D.O.F. 28 DE ENERO DE 1992)</small>
+
+A. La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser ministro de la Suprema Corte de Justicia.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 Incumbe al Ministerio Público de la Federación, la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
 El Procurador General de la República intervendrá personalmente en las controversias que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 En todos los negocios en que la Federación fuese parte; en los casos de los diplomáticos y los cónsules generales y en los demás en que deba intervenir el Ministerio Público de la Federación, el Procurador General lo hará por sí o por medio de sus agentes.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
 El Procurador General de la República será el consejero jurídico del Gobierno. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
+B. El Congreso de la Unión y las legislaturas de los Estados en el ámbito de sus respectivas competencias, establecerán organismos de protección de los Derechos Humanos que otorga el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos. Formularán recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+Estos organismos no serán competentes tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+El organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes de los estados.
 
 ###### Art. 103.
 
@@ -5672,7 +4612,11 @@ Si la detención se verificare fuera del lugar en que reside el juez, al términ
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+## TITULO CUARTO.
+
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 108.
 
@@ -5796,7 +4740,11 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 109. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES FISCALES
+## TITULO QUINTO.
+
+DE LOS ESTADOS DE LA FEDERACION.
+
+> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 ###### Art. 115.
 
@@ -5988,7 +4936,11 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TÍTULO QUINTO. DE LOS DELITOS FISCALES
+## TITULO SEXTO.
+
+DEL TRABAJO Y DE LA PREVISION SOCIAL.
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 ### CAPÍTULO I. DEL IMPUESTO PREDIAL
 
@@ -6478,7 +5430,9 @@ XIII bis.- Las entidades de la Administración Pública Federal que formen parte
 
 XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
-## TÍTULO PRIMERO. DE LOS IMPUESTOS
+## TITULO SEPTIMO.
+
+PREVENCIONES GENERALES.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
@@ -6742,41 +5696,33 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
 ###### Art. 130.
 
-Corresponde a los Poderes Federales ejercer en materia de culto religioso y disciplina externa, la intervención que designen las leyes. Las demás autoridades obrarán como auxiliares de la Federación.
+El principio histórico de la separación del Estado y las iglesias orienta las normas contenidas en el presente artículo. Las iglesias y demás agrupaciones religiosas se sujetarán a la ley.
 
-El Congreso no puede dictar leyes estableciendo o prohibiendo religión cualquiera.
+Corresponde exclusivamente al Congreso de la Unión legislar en materia de culto público y de iglesias y agrupaciones religiosas. La ley reglamentaria respectiva, que será de orden público, desarrollará y concretará las disposiciones siguientes:
 
-El matrimonio es un contrato civil. Este y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+a) Las iglesias y las agrupaciones religiosas tendrán personalidad jurídica como asociaciones religiosas una vez que obtengan su correspondiente registro. La ley regulará dichas asociaciones y determinará las condiciones y requisitos para el registro constitutivo de las mismas;
 
-La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
+b) Las autoridades no intervendrán en la vida interna de las asociaciones religiosas;
 
-La ley no reconoce personalidad alguna a las agrupaciones religiosas denominadas iglesias.
+c) Los mexicanos podrán ejercer el ministerio de cualquier culto. Los mexicanos así como los extranjeros deberán, para ello, satisfacer los requisitos que señale la ley;
 
-Los ministros de los cultos serán considerados como personas que ejercen una profesión y estarán directamente sujetos a las leyes que sobre la materia se dicten.
+d) En los términos de la ley reglamentaria, los ministros de cultos no podrán desempeñar cargos públicos. Como ciudadanos tendrán derecho a votar, pero no a ser votados. Quienes hubieren dejado de ser ministros de cultos con la anticipación y en la forma que establezca la ley, podrán ser votados;
 
-Las Legislaturas de los Estados únicamente tendrán facultad de determinar, según las necesidades locales, el número máximo de ministros de los cultos.
-
-Para ejercer en México el ministerio de cualquier culto, se necesita ser mexicano por nacimiento.
-
-Los ministros de los cultos nunca podrán, en reunión pública o privada constituída en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades en particular, o en general del Gobierno; no tendrán voto activo ni pasivo, ni derecho para asociarse con fines políticos.
-
-Para dedicar al culto nuevos locales abiertos al público se necesita permiso de la Secretaría de Gobernación, oyendo previamente al Gobierno del Estado. Debe haber en todo templo un encargado de él, responsable ante la autoridad del cumplimiento de las leyes sobre disciplina religiosa, en dicho templo, y de los objetos pertenecientes al culto.
-
-El encargado de cada templo, en unión de diez vecinos más, avisará desde luego a la autoridad municipal, quién es la persona que esté a cargo del referido templo. Todo cambio se avisará por el ministro que cese, acompañado del entrante y diez vecinos más. La autoridad municipal, bajo pena de destitución y multa hasta de mil pesos por cada caso, cuidará del cumplimiento de esta disposición; bajo la misma pena llevará un libro de registro de los templos, y otro de los encargados. De todo permiso para abrir al público un nuevo templo, o del relativo a cambio de un encargado, la autoridad municipal dará noticia a la Secretaría de Gobernación, por conducto del Gobernador del Estado. En el interior de los templos podrán recaudarse donativos en objetos muebles.
-
-Por ningún motivo se revalidará, otorgará dispensa o se determinará cualquier otro trámite que tenga por fin dar validez en los cursos oficiales, a estudios hechos en los establecimientos destinados a la enseñanza profesional de los ministros de los cultos. La autoridad que infrinja esta disposición será penalmente responsable, y la dispensa o trámite referidos, será nulo y traerá consigo la nulidad del título profesional para cuya obtención haya sido parte la infracción de este precepto.
-
-Las publicaciones periódicas de carácter confesional, ya sea por su programa, por su título o simplemente por sus tendencias ordinarias, no podrán comentar asuntos políticos nacionales ni informar sobre actos de las autoridades del país, o de particulares, que se relacionen directamente con el funcionamiento de las instituciones públicas.
+e) Los ministros no podrán asociarse con fines políticos ni realizar proselitismo a favor o en contra de candidato, partido o asociación política alguna. Tampoco podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios.
 
 Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse en los templos reuniones de carácter político.
 
-No podrá heredar por sí ni por interpósita persona ni recibir por ningún título un ministro de cualquiera culto, un "inmueble", ocupado por cualquiera asociación de propaganda religiosa o de fines religiosos o de beneficencia. Los ministros de los cultos tienen incapacidad legal para ser herederos, por testamento, de los ministros del mismo culto o de un particular con quien no tengan parentesco dentro del cuarto grado.
+La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
 
-Los bienes muebles o inmuebles del clero o de asociaciones religiosas, se regirán, para su adquisición, por particulares, conforme al artículo 27 de esta Constitución.
+Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
 
-Los procesos por infracción a las anteriores bases, nunca serán vistos en jurado.
+Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+
+Las autoridades federales, de los estados y de los municipios tendrán en esta materia las facultades y responsabilidades que determine la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -6812,7 +5758,9 @@ El manejo de recursos económicos federales se sujetará a las bases de este art
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
 
-## TÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ENTIDADES MUNICIPALES
+## TITULO OCTAVO.
+
+DE LAS REFORMAS DE LA CONSTITUCION.
 
 ### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
 
@@ -7136,7 +6084,9 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómputo de los votos de las Legislaturas y la declaración de haber sido aprobadas las adiciones o reformas.
 
-## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+## TITULO NOVENO.
+
+DE LA INVIOLABILIDAD DE LA CONSTITUCION.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -7343,122 +6293,6 @@ Para la aplicación de sanciones se tomará en cuenta el monto de las contribuci
 ### CAPÍTULO XIV. DE LOS DERECHOS EN MATERIA DE TRÁNSITO MUNICIPAL
 
 > <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
-
-###### Artículo 247 Bis.
-
-Por los servicios prestados por la Dirección de Tránsito Municipal. Se causarán y cobrarán los derechos siguientes:
-
-I. Por la expedición de los permisos siguientes: Salarios Mínimos
-
-a) Provisional para circular sin placas ni tarjeta de
-
-circulación 10
-
-b) Para circular en zona restringida
-
-1. Por seis meses 20
-
-2. Por un día 2
-
-c) De carga, por un año 10
-
-d) Para circular vehículos con exceso de peso o dimensiones,
-
-por día 10
-
-e) Para transportar carga en vehículo destinado a otro fin,
-
-hasta por 30 días 3
-
-II. Por la prestación de otros servicios:
-
-a) Expedición de certificados médicos 4
-
-b) Constancias de cualquier naturaleza 1.5
-
-III. Por la utilización de grúas oficiales o concesionadas para el retiro de vehículos accidentados, infraccionados o por orden judicial:
-
-a) Arrastre en zona urbana dentro de un sector estimado en un radio de siete kilómetros de la ubicación del encierro municipal, por las categorías de los vehículos:
-
-Descripción del vehículo Salarios Mínimos
-
-1. Bicicletas y triciclos 2
-
-2. Motocicletas y cuatrimotos 4
-
-3. Automóviles y camionetas pick up o similares 10
-
-4. Camionetas de 3.5 toneladas y microbuses 11
-
-5. Autobuses, camiones, semirremolques y tractocamiones
-
-con o sin remolques 14
-
-b) Arrastre por distancia excedente al perímetro señalado en el inciso anterior, se adicionará por kilómetro recorrido la tarifa siguiente:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Motocicletas y cuatrimotos 0.25
-
-2. Automóviles y camionetas pick up o similares 0.30
-
-3. Camionetas de 3.5 toneladas y microbuses 0.35
-
-4. Autobuses, camiones, semirremolques y tractocamiones
-
-con o sin remolques 0.40
-
-c) Arrastre en operativo en el primer cuadro de la ciudad, considerando un radio de tres kilómetros, partiendo de la Dirección de Tránsito Municipal:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Automóviles, camionetas pick up o similares y camionetas
-
-de hasta 3.5 toneladas 5
-
-d) Tarifa por hora en operación de salvamento:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Motocicletas, cuatrimotos, automóviles y camionetas pick up. 16
-
-2. Camionetas de 3.5 toneladas y microbuses 19
-
-3. Autobuses, camiones, semirremolques y tractocamiones
-
-con o sin remolque 26
-
-e) Por diferentes servicios para todo tipo de vehículo, por hora:
-
-Descripción del servicio Salarios Mínimos
-
-1. Operador para el traslado de vehículos 4
-
-2. Abanderamiento 8
-
-3. Custodia 8
-
-IV. Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial, por día calendario:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Bicicletas y triciclos 0.10
-
-2. Motocicletas y cuatrimotos 0.20
-
-3. Automóviles 0.60
-
-4. Camionetas pick up o similares 0.70
-
-5. Camionetas de 3.5 toneladas, microbuses y tractocamiones
-
-sin remolques 1.15
-
-6. Autobuses, camiones, semirremolques y tractocamiones
-
-con remolque 1.35
-
-Para otro tipo de vehículos, las tarifas anteriores se homologarán de acuerdo a las dimensiones y peso de los vehículos relacionados.
 
 ###### Artículo 111.
 
@@ -7762,65 +6596,7 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
-## TRANSITORIOS
-
-PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
-
-SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Veracruz del Estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
-
-TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave y a la Ley de Hacienda Municipal del Estado de Veracruz de Ignacio de la Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, así como a este último, se entenderán referidos al presente Código.
-
-CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz de Ignacio de la Llave, entrarán en vigor a partir del 1 de enero del año 2004.
-
-QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
-
-DADO EN EL SALÓN DE SESIONES DE LA H. LIX LEGISLATURA DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ, A LOS TREINTA DÍAS DEL MES DE ENERO DEL AÑO DOS MIL TRES.
-
-FELIPE AMADEO FLORES ESPINOSA, DIPUTADO PRESIDENTE.- RÚBRICA. NATALIO ALEJANDRO ARRIETA CASTILLO, DIPUTADO SECRETARIO.- RÚBRICA.
-
-> <small>(F. DE E., G.O. 11 DE MARZO DE 2003)</small>
-
-Por lo tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, y 49, fracción II, de la Constitución Política del Estado, y en cumplimiento de oficio número 00251, de los diputados Presidente y Secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado mando se publique, y se dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los trece días del mes de febrero del año dos mil tres.
-
-Atentamente
-
-Sufragio efectivo. No reelección.
-
-Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-G.O. 18 DE MARZO DE 2003.
-
-PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
-
-SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
-
-TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
-
-CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
-
-QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
-
-SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
-
-OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
-
-G.O. 7 DE JULIO DE 2004.
-
-Artículo primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
-
-Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 11 DE ENERO DE 2006.
-
-Artículo único. El presente Decreto entrará en vigor el 1 de enero del año 2006, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
-
-G.O. 6 DE JUNIO DE 2006.
-
-Único. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+## ARTICULOS TRANSITORIOS.
 
 ###### Art. 1o.
 
@@ -7892,9 +6668,11 @@ Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la l
 
 El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
 ###### Art. 17.
 
-(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
+Los Templos y demás bienes que, conforme a la fracción II del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos que se reforma por este Decreto, son propiedad de la nación, mantendrán su actual situación jurídica.
 
 ###### Art. 18.
 
@@ -8776,7 +7554,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 7 DE ABRIL DE 1986.
 
-DECRETO QUE REFORMA LO ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
+DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
 
 ###### ARTICULO 1o.
 
@@ -8834,7 +7612,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Los Representantes a la Asamblea del Distrito Federal serán electos simultáneamente a los Diputados Federales que integrarán la LIV Legislatura del Congreso de la Unión, en la forma y términos que señale la ley respectiva.
 
-TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso a) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
+TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso A) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
 
 CUARTO.- En tanto se instala la Asamblea de Representantes del Distrito Federal, los nombramientos de Magistrado del Tribunal Superior de Justicia del Distrito Federal continuarán siendo sometidos por el Presidente de la República, a la aprobación de la Cámara de Diputados del Congreso de la Unión, o de la Comisión Permanente, en su caso.
 
@@ -8902,19 +7680,41 @@ Los expedientes de los asuntos arriba mencionados, sobre los cuales no se haya d
 
 Los demás asuntos de naturaleza agraria que se encuentren en trámite o se presenten a partir de la entrada en vigor de este Decreto, y que conforme a la ley que se expida deban pasar a ser de la competencia de los tribunales agrarios, se turnarán a éstos una vez que entren en funciones para que resuelvan en definitiva.
 
-###### ARTICULO UNICO.
+D.O.F. 28 DE ENERO DE 1992.
 
-El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días posteriores.
-
-P.O. 24 DE JUNIO DE 2008.
+DECRETO QUE REFORMA LAS FRACCIONES I, II, III Y IV DEL ARTICULO 3; PARRAFO QUINTO DEL ARTICULO 5; ARTICULO 24; FRACCIONES II Y III DEL ARTICULO 27, EL ARTICULO 130 Y ADICIONA EL ARTICULO DECIMOSEPTIMO TRANSITORIO.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-P.O. 7 DE JULIO DE 2009.
+D.O.F. 28 DE ENERO DE 1992.
 
-DECRETO No. LX-644, POR EL QUE SE ADICIONA EL ARTICULO 71 BIS AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO QUE REFORMA EL ARTICULO 102.
+
+###### ARTICULO 1o.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO 2o.
+
+En tanto se establecen los organismos de protección de los derechos humanos en los Estados en los términos del presente Decreto, la Comisión Nacional de Derechos Humanos podrá seguir conociendo de las quejas que deban ser de competencia local.
+
+Los Estados que ya cuenten con dichos organismos, recibirán las quejas aún no resueltas que hayan sido presentadas ante la Comisión Nacional en un término de 30 días naturales contados a partir de la fecha de publicación del decreto en el Diario Oficial de la Federación.
+
+Las Legislaturas de los Estados dispondrán de un año a partir de la publicación de este Decreto para establecer los organismos de protección de los Derechos Humanos.
+
+D.O.F. 28 DE ENERO DE 1992.
+
+DECRETO QUE REFORMA EL ARTICULO 4.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE MARZO DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO UNICO.
 
