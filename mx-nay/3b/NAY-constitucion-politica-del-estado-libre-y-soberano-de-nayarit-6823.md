@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1984-07-21"
+last_updated: "1984-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -527,7 +527,9 @@ XVI. Facultar al Ejecutivo del Estado para que constituya Empresas Públicas y O
 
 XVII. Suspender o declarar desaparecidos Ayuntamientos o suspender o revocar el mandato otorgado a alguno de sus miembros y en su caso, integrar los Consejos Municipales, en los términos del Código para la Administración Municipal.
 
-XVIII. Formar su reglamento interior y dictar las disposiciones necesarias para el servicio de sus Oficinas.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1984)</small>
+
+XVIII. Expedir la Ley Orgánica del Poder Legislativo y su Reglamento Interior y dictar las disposiciones necesarias para el servicio de sus Oficinas.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1729,7 +1731,7 @@ P.O. 25 DE JUNIO DE 1980.
 
 UNICO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 16 DE JULIO DE 1980
+P.O. 16 DE JULIO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1780,3 +1782,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día de su publicaci�
 P.O. 21 DE JULIO DE 1984.
 
 UNICO.- Remítase el presente Decreto a los Ayuntamientos de la Entidad en los términos y para los efectos del Artículo 131 de la Constitución Política Local y publíquese en el Periódico Oficial, incluyendo la declaratoria que corresponda.
+
+P.O. 8 DE AGOSTO DE 1984.
+
+UNICO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos del Artículo 131 de la Constitución Política Local, y publíquese en el Periódico Oficial, Organo del Gobierno del Estado.
