@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1994-12-16"
+last_updated: "1994-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE DICIEMBRE DE 1994.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -323,7 +323,7 @@ Para ser Diputado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-II.- Tener veintiún años cumplidos el día de la elección;
+II.- Tener veintiun años cumplidos el día de la elección;
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
@@ -753,9 +753,9 @@ I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad de
 
 II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 21 DE DICIEMBRE DE 1994)</small>
 
-III.- emitir dictamen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el periodo inmediato de sesiones sigan tratándose;
+III.- recibir durante receso del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las Comisiones respectivas del Congreso conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado de Yucatán, a fin de que se les de el trámite que corresponda en el inmediato período de sesiones.
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2103,4 +2103,10 @@ D.O. 16 DE DICIEMBRE DE 1994.
 
 PRIMERO.- Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
 
-SEGUNDO.- Para la aplicación de las reformas al segundo párrafo del Artículo 21 de nuestra Carta Magna y por esta única ocasión el H. Congreso del Estado determinará el ámbito territorial de los distritos electorales dentro de los treinta días siguientes a la vigencia del presente decreto.
+SEGUNDO.- Para la aplicación de las reformas al segundo párrafo del Artículo 21 de nuestra Carta Magna y por esta única ocasión el H. Congreso del Estado determinará el ámbito territorial de los distritos electorales dentro de los treinta días siguientes a la vigencia del presente decreto
+
+D.O. 21 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
