@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2003-del-pleno-del-consejo-de-la-50325"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-03-03"
-last_updated: "2003-03-03"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-02-12"
 
 ACUERDO GENERAL 5/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LAS DIRECCIONES GENERALES DE GESTION ADMINISTRATIVA; SEGURIDAD Y PROTECCION CIVIL; ASÍ COMO DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL; SUPRIME LA COORDINACIÓN GENERAL DE DISCIPLINA Y REFORMA EL DIVERSO ACUERDO GENERAL 5/2000
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE AGOSTO DE 2003.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 3 de marzo de 2003.
 
@@ -179,11 +179,15 @@ VI. Coordinar los servicios médicos que se proporcionan durante la celebración
 
 VII. Programar e implementar campañas de salud en beneficio de los servidores públicos del Poder Judicial de la Federación, en coordinación con las diversas instituciones de salud;
 
-VIII. Integrar la Comisión Mixta de Seguridad e Higiene del Consejo de la Judicatura Federal, así como coordinar la elaboración, difusión y aplicación de las normas y programas autorizados por dicha Comisión, vigilando su cumplimiento;
+> <small>(REFORMADA POR EL SEGUNDO PUNTO DEL ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE AGOSTO DE 2003)</small>
+
+VIII. Apoyar a los representantes del consejo que integran la Comisión Mixta Central de Seguridad e Higiene en el Trabajo;
 
 IX. Elaborar estudios en materia de salud de las condiciones físicas en las que los servidores públicos desarrollan sus actividades;
 
-X. Integrar y supervisar el funcionamiento de las diversas comisiones auxiliares en los centros de trabajo, en materia de salud e higiene;
+> <small>(REFORMADA POR EL SEGUNDO PUNTO DEL ACUERDO GENERAL 50/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE AGOSTO DE 2003)</small>
+
+X. Apoyar a los representantes del consejo que integran las diversas Comisiones Mixtas Auxiliares de Seguridad e Higiene en el Trabajo, tanto en la zona metropolitana como en el interior de la República;
 
 XI. Formular los informes que le sean requeridos por el Consejo, la Secretaría de Salud, el ISSSTE o cualquier otra instancia oficial, sobre las actividades desarrolladas en materia de salud e higiene;
 
@@ -222,3 +226,11 @@ QUINTO.- Se abroga el Acuerdo General 4/2002, del Pleno del Consejo de la Judica
 SEXTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 5/2003, del Pleno del Consejo de la Judicatura Federal, que Crea las Direcciones Generales de Gestión Administrativa; Seguridad y Protección Civil; así como de Servicios Médicos y Desarrollo Infantil; Suprime la Coordinación General de Disciplina y Reforma el Diverso Acuerdo General 5/2000, fue aprobado por el Pleno del propio Consejo, en sesión de doce de febrero de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a doce de febrero de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS EL PRESENTE ACUERDO.</small>
+
+D.O.F. 28 DE AGOSTO DE 2003.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
