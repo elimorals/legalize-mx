@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2001-10-30"
+last_updated: "2002-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DEL 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -267,7 +267,9 @@ Son atribuciones de los Ayuntamientos, en materia de catastro:
 
 I.- Llevar a cabo las operaciones catastrales de identificación, localización, descripción, deslinde, registro, cartografía, valuación y actualización de los valores catastrales de todos los inmuebles urbanos y rústicos ubicados dentro de su jurisdicción territorial, observando siempre las disposiciones de ésta ley y demás ordenamientos aplicables;
 
-II.- Constituir la Junta Municipal de Catastro, reglamentar su integración y funcionamiento;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ABRIL DE 2002)</small>
+
+II.- Constituir la Junta Municipal de Catastro y reglamentar su integración y funcionamiento. Al efecto tomará como base las organizaciones auxiliares que se contemplan en el artículo 17 de esta Ley y la existencia de organizaciones representativas de la sociedad, de acuerdo con las características específicas del Municipio;
 
 III.- Solicitar, a las autoridades catastrales del Estado, el apoyo y asesoría técnica en la realización de las operaciones catastrales;
 
@@ -815,7 +817,7 @@ Las autoridades municipales procederán a informar a la Dirección de Catastro d
 
 Cuando las autoridades detecten algún asentamiento humano irregular o la formación de éste, así como la subdivisión, relotificación o construcción de vivienda, ya sea en predios regulares o irregulares, cuyos propietarios o poseedores hayan omitido los trámites correspondientes, se procederá a hacerlo del conocimiento de las autoridades catastrales.
 
-### CAPÍTULO V. DE LOS DESLINDES Y VERIFICACIONES
+### CAPITULO V. DE LOS DESLINDES Y VERIFICACIONES
 
 ###### ARTICULO 89.
 
@@ -1092,3 +1094,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de octubre de año dos mil uno.-
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. TOMAS YARRINGTON RUVALCABA.-El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 2002
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
