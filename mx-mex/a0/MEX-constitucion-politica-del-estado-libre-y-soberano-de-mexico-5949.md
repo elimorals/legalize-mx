@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1970-12-30"
+last_updated: "1971-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE AGOSTO DE 1971.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -381,11 +381,11 @@ Durante los ocho días a que se refiere el artículo anterior, se tendrán las j
 
 La legislatura se reunirá en sesiones ordinarias una vez al año.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1944)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 ###### Art. 48.
 
-El Período Anual de Sesiones dará principio el día 5 de septiembre y durará el tiempo necesario para que la Legislatura trate todos los asuntos de su competencia pendientes de resolución, pero no podrá prolongarse más que hasta el 31 de diciembre del mismo año.
+El Período anual de sesiones ordinarias dará principio el 5 de septiembre y concluirá el 31 de enero siguiente.
 
 ###### Art. 49.
 
@@ -394,6 +394,10 @@ Se reunirá además, en sesiones extraordinarias siempre que fuere convocada al 
 ###### Art. 50.
 
 Las sesiones ordinarias y extraordinarias de la Legislatura se abrirán con asistencia del Gobernador y con las formalidades que prescriba el Reglamento interior.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1971)</small>
+
+En la apertura de las sesiones extraordinarias el Presidente de la Diputación Permanente informará de las razones que originaron la convocatoria.
 
 ###### Art. 51.
 
@@ -869,9 +873,9 @@ II. Cuidar del puntual cumplimiento de la presente Constitución y de las leyes,
 
 III.- Cuidar de que las elecciones constitucionales se celebren dentro del tiempo y forma señalados por las leyes relativas.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1971)</small>
 
-IV.- Concurrir a la apertura de cada período de sesiones ordinarias y extraordinarias de la Legislatura, para informar en el primer caso, acerca del estado que guarda la administración pública, y en el segundo acerca de los motivos en que se haya fundado la convocatoria a sesiones extraordinarias cuando él haya pedido la convocación. Si la convocatoria se ha hecho a iniciativa de la Diputación Permanente, el Gobernador asistirá a la apertura de esas sesiones, para el solo efecto de hacer constar, que por su parte, cumplió con el acuerdo de la propia Diputación referente a la publicación de la convocatoria a sesiones extraordinarias de que se trata.
+IV.- Concurrir ante la Legislatura del Estado el día 20 de enero de cada año, con excepción del que corresponda al año siguiente en que tome posesión del cargo a rendir un informe acerca del estado que guarda la Administración Pública. De la gestión administrativa realizada en los últimos ocho meses de cada sexenio, informará el 5 de septiembre del año respectivo.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2182,3 +2186,9 @@ G.G. 30 DE DICIEMBRE DE 1970.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 28 DE AGOSTO DE 1971.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+SEGUNDO.- El informe sobre el estado que guarda la Administración Pública que debería rendir el Ejecutivo del Estado el día 5 de septiembre del año en curso, lo rendirá el 20 de enero próximo.
