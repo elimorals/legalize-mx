@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1989-05-17"
+last_updated: "1992-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -523,17 +523,19 @@ Se computarán como años de servicio los que se hayan prestado antes de la crea
 
 Se computará como año completo de servicio la fracción de más de seis meses.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 52.
 
-El último sueldo devengado, para efectos de fijar el monto de la jubilación o pensión, se determinará conforme a las siguientes bases:
+El último sueldo devengado para efectos de fijar el monto de la jubilación o pensión, se determinará conforme a las siguientes bases:
 
-a).- Cuando al trabajador le haya sido aumentado su sueldo durante los últimos cuatro años de servicios, se promediarán las percepciones recibidas en ese lapso, salvo que el incremento haya sido motivado por un aumento general o por ascenso escalafonario;
+a).- Cuando al trabajador le haya sido aumentado su sueldo, durante los últimos cuatro años de servicio, se promediarán las percepciones recibidas en ese lapso, salvo que el incremento haya sido motivado por un aumento general o ascenso escalafonario;
 
-b).- Cuando el trabajador ocupara varias plazas en el Estado o Instituciones afiliadas, se sumarán todas sus percepciones, salvo que durante los últimos cuatro años de servicio le haya sido asignada nueva plaza no escalafonaria, caso en el cuál se promediarán los sueldos obtenidos en ese lapso;
+b).- Cuando el trabajador ocupara varias plazas en el Estado o instituciones afiliadas, se sumarán todas las percepciones, salvo que durante los últimos cuatro años de servicio le haya sido asignada nueva plaza no escalafonaria, caso en el cual se promediarán los sueldos obtenidos en ese lapso;
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+c).- Al trabajador que durante los últimos cuatro años anteriores a su retiro, haya fungido y percibido sueldo como titular de alguna de las dependencias a que se refieren los artículos de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, o su correlativo en otras administraciones, Magistrado, Rector o Director de Escuela o Facultad de la Universidad Autónoma de Chihuahua, el Director General o su equivalente en Instituciones afiliadas, se le promediarán las percepciones de los últimos cuatro años.
 
-c).- Al trabajador que durante los últimos cuatro años anteriores a su retiro haya fungido y percibido sueldo como titular de algunas de las dependencias a que se refieren los artículos de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, o su correlativo en otras administraciones; Magistrado del Supremo Tribunal de Justicia; Rector o Director de Escuela o Facultad de la Universidad Autónoma de Chihuahua; Director General o su equivalente en instituciones afiliadas, se le promediarán las percepciones de los últimos cuatro años.
+El promedio de las percepciones a que se refiere el inciso anterior, no será aplicable a aquellos Magistrados que se hayan desempeñado ininterrumpidamente en ese puesto cuando menos durante los cinco años anteriores al de su jubilación o pensión.
 
 ###### ARTICULO 53.
 
@@ -710,3 +712,9 @@ P.O. 6 DE ENERO DE 1988.
 P.O. 17 DE MAYO DE 1989.
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
