@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-mexicano-de-la-propiedad-industrial-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-14"
-last_updated: "1999-12-14"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-09"
 
 REGLAMENTO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de diciembre de 1999.
 
@@ -85,7 +85,9 @@ h) Administración y
 
 i) Asuntos Jurídicos, y
 
-VI. Contraloría Interna, órgano de control interno, que se rige conforme al artículo 21 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
+
+VI. Órgano Interno de Control, que se rige conforme al artículo 21 de este Reglamento.
 
 ###### ARTÍCULO 4o.
 
@@ -213,7 +215,9 @@ VII. Elaborar proyectos de reestructuración organizacional, con base en los res
 
 VIII. Proponer y evaluar programas institucionales relativos a productividad, calidad, desregulación y descentralización de las operaciones.
 
-### CAPÍTULO IV. DE LA CONTRALORÍA INTERNA
+### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2002)</small>
 
 ###### ARTÍCULO 11.
 
@@ -455,15 +459,21 @@ XII. Establecer, sistematizar, unificar y difundir los criterios de interpretaci
 
 XIII. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, laborales o Ministerio Público.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2002)</small>
+
 ### CAPÍTULO V. DE LAS OFICINAS REGIONALES
 
 ###### ARTÍCULO 21.
 
-El Instituto cuenta con una Contraloría Interna, órgano de control interno, al frente de la cual el Contralor Interno designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+El Instituto cuenta con el Órgano Interno de Control, al frente del cual el Titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 47, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 33, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, serán suplidas conforme a lo previsto por el artículo 54 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Órgano Interno de Control, así como los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, se auxiliarán del personal adscrito al propio Órgano Interno de Control.
+
+El incumplimiento de las obligaciones previstas para el personal mencionado en el párrafo anterior, dará lugar al fincamiento de responsabilidades administrativas de conformidad con las disposiciones aplicables.
 
 ###### ARTÍCULO 22.
 
@@ -520,3 +530,9 @@ TERCERO.- Los asuntos pendientes de resolución a la entrada en vigor de este Re
 CUARTO.- Los procedimientos relacionados con el recurso de reconsideración previsto en la Ley de la Propiedad Industrial iniciados conforme al Reglamento que se abroga, se seguirán substanciando ante la Dirección Divisional de Protección a la Propiedad Intelectual.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE JULIO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
