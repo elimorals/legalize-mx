@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "1995-12-25"
+last_updated: "2001-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -125,9 +125,11 @@ I.- Si la contribución se calcula por períodos establecidos en la Ley, y en lo
 
 II.- En cualquier otro caso, dentro del plazo establecido en el Artículo 30 de este Código.
 
-###### ARTICULO 16.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco estatal por falta de pago oportuno. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50 % a la que mediante Ley fije anualmente el Congreso del Estado.
+###### ARTÍCULO 16.
+
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno. La tasa de recargos por cada mes de mora, será la que resulte de incrementar en un 50% a la que en la Ley de Ingresos y Presupuesto de Egresos del Estado, anualmente apruebe el Congreso Local para los casos de pago a plazos o prórroga de éstos.
 
 ###### ARTICULO 17.
 
@@ -285,11 +287,13 @@ El Congreso del Estado fijará anualmente la tasa de interés que causarán los 
 
 Vencerán anticipadamente los términos y la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
 
-I.- Cuando desaparezca o resulte insuficiente la garantía del interés fiscal, en cuyo caso, se requerirá al deudor para que amplíe la garantía.
+I.- Cuando desaparezca o resulte insuficiente la garantía del interés fiscal, en cuyo caso, se requerirá al deudor para que amplíe la garantía;
 
 II.- Cuando el deudor sea declarado en quiebra, solicite su liquidación judicial o su suspensión de pagos; y
 
-III.- Cuando se dejen de cubrir tres o más parcialidades.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+III. Cuando se deje de cubrir una o más parcialidades.
 
 ###### ARTICULO 40.
 
@@ -371,9 +375,11 @@ No se podrán compensar las cantidades cuya devolución se haya solicitado o cua
 
 Las autoridades fiscales podrán compensar de oficio, las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros, cuando éstos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente aún cuando la devolución ya hubiese sido solicitada. En este caso se notificará personalmente al contribuyente la resolución por la que se efectúe la compensación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 51.
 
-Es facultad del Gobernador del Estado, conceder mediante Decreto, los estímulos que considere necesarios para promover el desarrollo económico de la Entidad. Dichos estímulos se reglamentarán de conformidad a la Ley de Fomento Industrial del Estado de Sinaloa.
+Es facultad del Gobernador del Estado, conceder mediante Decreto, los estímulos que considere necesarios para promover el desarrollo económico de la Entidad. Dichos estímulos se reglamentarán de conformidad con las disposiciones previstas en la Ley de Fomento a la Inversión para el Desarrollo Económico del Estado de Sinaloa.
 
 Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos, inclusive el de presentar certificados de promoción fiscal o de devolución de impuestos, además del cumplimiento de los otros requisitos que establezcan las Leyes de la materia.
 
@@ -559,9 +565,11 @@ IV.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de 
 
 Cuando no se cumplan los requisitos a que se refiere este Artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días hábiles cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada. Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 70.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheques o certificados expedidos a nombre del contribuyente, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quién presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firmes de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
+Las autoridades fiscales facultadas por leyes o reglamentos están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, en este último caso, la solicitud deberá presentarse dentro de los seis meses siguientes, contados a partir de la fecha en que se efectuó el pago. La restitución de cantidades, será mediante cheques o certificados expedidos a nombre del contribuyente, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
@@ -651,69 +659,93 @@ Son autoridades fiscales para efectos del presente Código y demás ordenamiento
 
 I.- El Gobernador del Estado.
 
-II.- El Secretario de Hacienda Pública y Tesorería.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+II. El Secretario de Administración y Finanzas;
 
 III.- El Subsecretario de Ingresos.
 
 IV.- El Procurador Fiscal del Estado.
 
-V.- El Director de Ingresos y Control Fiscal.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-VI.- El Director de Auditoría Fiscal.
+V. El Director de Recaudación.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VI. El Director de Fiscalización; y
 
 VII.- Los Recaudadores de Rentas de la Entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 74.
 
-Las autoridades fiscales del Estado, para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Sinaloa, en el Reglamento Interior de la Secretaría de Hacienda Pública y Tesorería y las Leyes Fiscales del Estado cumpliendo con los requisitos que para tal efecto se señalen.
+Las autoridades fiscales del Estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Sinaloa, el Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, el Reglamento Interior de la Secretaría de Administración y Finanzas y las Leyes Fiscales del Estado, cumpliendo con los requisitos que para tal efecto se señalen.
 
 La delegación de facultades deberá publicarse en el Periódico Oficial "El Estado de Sinaloa".
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 75.
 
-La recaudación, administración, liquidación, verificación y vigilancia de las contribuciones y demás ingresos propios del Estado, estarán a cargo de las autoridades fiscales de acuerdo a las facultades que a las mismas le determine el Reglamento Interior de la Secretaría de Hacienda Pública y Tesorería, así como de otros organismos o instituciones de crédito que la propia Secretaría les encomiende expresamente.
+La recaudación, administración, liquidación, verificación y vigilancia de las contribuciones y demás ingresos propios del Estado, estarán a cargo de las autoridades fiscales de acuerdo a las facultades que a las mismas le determine el Reglamento Interior de la Secretaría de Administración y Finanzas, así como de otros organismos o instituciones de crédito que la propia Secretaría les encomiende expresamente.
 
-Independientemente de las facultades que el Reglamento le otorgue a las autoridades fiscales, el Secretario de Hacienda Pública y Tesorería y el Subsecretario de Ingresos son las autoridades competentes para ordenar las prácticas de visitas domiciliarias y para determinar créditos fiscales.
+Son autoridades competentes para ordenar la práctica de visitas domiciliarias y determinar créditos fiscales, el Secretario de Administración y Finanzas y el Subsecretario de Ingresos, además de aquellas que el Reglamento Interior de la citada Secretaría así lo determine.
 
 ###### ARTICULO 76.
 
 La Secretaría de Hacienda Pública y Tesorería con el objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, podrá dictar disposiciones de carácter general, sin contravenir en alguna forma las normas establecidas en las leyes fiscales. Dichas disposiciones sólo serán válidas si se publican en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 77.
 
-Las autoridades fiscales a fin de determinar la existencia del crédito fiscal, señalar bases para su liquidación o fijarlo en cantidad líquida, cerciorarse del cumplimiento de las obligaciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para:
+Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios y los terceros con ellos relacionados, han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para verificar la comisión de infracciones fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
-I.- Ordenar y practicar visitas de auditoría e inspecciones en el domicilio fiscal o dependencias de los sujetos pasivos, de los responsables solidarios, de los terceros, de los Notarios Públicos y revisar sus documentos y correspondencia que tenga relación con las obligaciones fiscales y, en su caso, asegurarlos dejando en calidad de depositario al visitado, previo inventario que al efecto se formule. El aseguramiento de los papeles y documentos contables de la empresa procederá:
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-1.- Cuando el visitado su representante o quién se encuentre en el lugar de la visita se niegue a recibir la orden.
+I. Rectificar los errores aritméticos, omisiones u otros, que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
 
-2.- Cuando existan dos o mas sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados.
+1.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-3.- Cuando no se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
+2.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-4.- Cuando los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales, o cuando sean falsos o amparen operaciones inexistentes.
+3.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-5.- Cuando el visitado, su representante o la persona con quién se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+4.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-II.- Requerir Declaraciones y avisos, cuando las personas obligadas a presentarlos no lo hagan dentro del plazo señalado en las disposiciones fiscales.
+5.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-III.- Requerir la documentación comprobatoria de las operaciones registradas y los demás documentos, informes y datos que se consideren necesarios para verificar el cumplimiento de sus obligaciones fiscales.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-IV.- Requerir a las personas que tengan o hayan tenido relaciones de negocios con los sujetos pasivos, para que exhiban los asientos de su contabilidad, la documentación, la correspondencia y proporcionen todo tipo de datos o informes que se refieran a las operaciones realizadas con aquéllos.
+II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimiento o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad así como que proporcionen los datos, otros documentos o informes que se les requieran;
 
-V.- Ordenar la intervención con cargo a la caja en el domicilio o establecimiento de los contribuyentes, a efecto de comprobar y hacer efectivas en el mismo acto, las contribuciones que se causen, en aquellos casos en que hubiese presunción de que el contribuyente se ausente, enajene, oculte sus bienes, o realice cualquier maniobra tendiente a evadir el pago del gravamen.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-VI.- Verificar, en tránsito o en los lugares de almacenamiento, los vehículos o mercancías que deban ser amparados por documentación prevista en las leyes fiscales. En estos casos el inspector deberá estar facultado expresamente y por escrito, para la vigilancia del cumplimiento de los ordenamientos relativos dentro de la zona en que se haga la verificación.
+III. Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
-VII.- Proceder a la verificación física, clasificación, valuación o comprobación de toda clase de bienes.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-VIII.- Solicitar de sujetos pasivos, responsables solidarios, o terceros, datos o informes relacionados con el cumplimiento de las obligaciones fiscales o bien aclaren, aporten o comprueben los datos e informes que estimen pertinentes para la determinación de los créditos fiscales a su cargo.
+IV. Revisar los dictámenes que formulen los contadores públicos sobre los estados financieros de los contribuyentes en relación con el cumplimiento de disposiciones fiscales estatales. Para tal efecto, los dictámenes de Contador Público, tendrán presunción de veracidad, en este caso se aplicará supletoriamente el Código Fiscal de la Federación en lo no previsto por este Código;
 
-IX.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-X.- Emplear cualquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones:
+V. Requerir declaraciones y avisos, cuando las personas obligadas a presentarlos no lo hagan dentro del plazo señalado en las disposiciones fiscales;
 
-a).- La multa de uno hasta quince salarios mínimos generales que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VI. Ordenar la intervención con cargo a la caja o a la administración, en el domicilio o establecimiento de los contribuyentes, a efecto de comprobar y hacer efectivas las contribuciones que se causen, en aquellos casos en que hubiese presunción de que el contribuyente se ausente, enajene, oculte sus bienes o realice cualquier maniobra tendiente a evadir el pago del gravamen;
+
+VII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+
+VIII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+
+IX.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
+
+X.- Emplear cualquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones;
+
+a).- La multa de uno hasta quince salarios mínimos generales que se duplicará en caso de reincidencia;
 
 b).- El auxilio de la fuerza pública; y
 
@@ -721,95 +753,215 @@ c).- La denuncia ante el Ministerio Público para la consignación respectiva po
 
 XI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Secretaría de Hacienda Pública y Tesorería, tendrán valor probatorio pleno salvo prueba en contrario; y la propia Secretaría, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público en los términos del Código de Procedimientos Penales del Estado.
 
-XII.- Comprobar los ingresos de los causantes. A este efecto se presumirá, salvo prueba en contrario:
+XII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-a).- Que la información contenida en los registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar por la autoridad que al menos una de las operaciones fue realizada por el contribuyente.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-b).- Que la información contenida en registros y sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio o de accionistas o propietarios de la empresa, corresponde a operaciones del causante.
+XIII. Exigir de los contribuyentes, obligados solidarios y terceros, el cumplimiento de sus respectivas obligaciones que les imponga la legislación fiscal; y
 
-c).- Que la información escrita o documentos de terceros relacionados con el contribuyente, corresponde a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+a).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-1.- Cuando se refieran al causante, designado por su nombre, denominación o razón social.
+b).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-2.- Cuando señalen como lugar para la entrega o recibo de bienes o prestaciones de servicios, cualesquiera de los establecimientos del causante, aún cuando exprese el nombre, denominación social de un tercero real o ficticio.
+c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-3.- Cuando señalen el nombre o domicilio de un tercero real o ficticio, si se comprueba que el causante entrega o recibe bienes o servicios a ese nombre o en ese domicilio; y
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-4.- Cuando se refieran a cobros o pagos efectuados por el causante o por su cuenta, por persona interpósita o ficticia.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-d).- Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son ingresos gravables; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-e).- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos gravables del último ejercicio que se revise.
+XIV. Aplicar el procedimiento administrativo de ejecución previsto en el presente Código.
 
-XIII.- Determinar estimativamente el monto de las contribuciones en los siguientes casos:
+XV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-a).- Cuando omitan presentar sus declaraciones hasta el momento de iniciación de una visita domiciliaria o de la solicitud de documentos, datos o informes relacionados con su revisión por parte de cualquier autoridad fiscal, se opongan u obstaculicen la iniciación o desarrollo de tales actividades, o se nieguen a recibir la orden o petición respectiva según sea el caso.
+XVI.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-b).- Cuando no presente la documentación comprobatoria de los renglones de las declaraciones, o no proporcione los informes que se le soliciten; y
+XVII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-c).- Cuando se hagan constar asientos, cuentas, cantidades o cualquier otro dato falso o inexacto.
+XVIII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-Para la determinación estimativa de las contribuciones, se tomará en cuenta lo siguiente:
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Importe de compras efectuadas, inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldo de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación, Estado o Municipio; cantidades que hayan cubierto por concepto de energía eléctrica y teléfono; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia, y en general, todos los elementos de juicio que puedan utilizarse.
+Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-XIV.- Verificar los lugares, bienes o mercancías, de conformidad con los sistemas de control establecidos. En estos casos el inspector deberá estar facultado expresamente y por escrito, para cerciorarse dentro de la zona de que se trata, del cumplimiento de las obligaciones respectivas.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-XV.- Rectificar los errores aritméticos que aparezcan en las declaraciones.
+ARTICULO 77 BIS.- Las autoridades fiscales podrán solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización, sin que se cumpla lo dispuesto por las fracciones IV a la VIII del artículo 78 BIS-D de este Código.
 
-XVI.- Revisar los dictámenes que de conformidad al Código Fiscal de la Federación formulen los contadores públicos sobre los estados financieros de los contribuyentes en relación con el cumplimiento de disposiciones fiscales estatales. Para tal efecto, los dictámenes de contador público, tendrán la presunción de veracidad.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-XVII.- Exigir de los contribuyentes y terceros, el cumplimiento de sus respectivas obligaciones que les impongan la Legislación Fiscal.
+ARTICULO 77 BIS-A.- En la orden de visita, además de los requisitos señalados en el artículo 135 de este Código, se deberá indicar:
 
-XVIII.- Aplicar el procedimiento administrativo de ejecución con apego a la presente Ley.
+I.- El lugar o lugares donde deba efectuarse la visita. La designación de lugares a visitar distintos al señalado en la orden, deberá notificarse al visitado.
+
+II.- El nombre de la persona o personas que deban efectuar la visita, las cuales podrán ser sustituidas, aumentadas o reducidas en su número en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado. Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+
+III.- Las contribuciones de cuya verificación se trate y, en su caso, los ejercicios a los que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales durante cierto tiempo o concretarse a determinados aspectos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 78.
 
-Las visitas domiciliarias, auditorías e inspecciones para comprobar que se han acatado las disposiciones fiscales, se sujetarán a las siguientes reglas:
+En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
 
-I.- Sólo se practicarán por mandamiento escrito de autoridad fiscal competente debidamente fundado y motivado que consigne:
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-a).- El nombre de la persona, empresa o negociación que deba recibir la visita o inspección y el lugar donde deba llevarse a cabo. Cuando se ignore el nombre de la persona que deba ser visitada, se señalarán datos suficientes que permitan su identificación.
+I. La visita se realizará en el lugar o lugares señalados en la orden de visita.
 
-b).- El nombre de las personas que practicarán la diligencia, las cuales podrán ser sustituidas o aumentadas por la autoridad que expidió la orden. En este caso se comunicará por escrito al visitado el nombre de los sustitutos o nuevos auditores o inspectores.
+a).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-c).- Los gravámenes de cuya verificación se trate y, en su caso, los ejercicios a los que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales durante cierto tiempo o concretarse a determinados aspectos.
+b).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-II.- Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviese el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieran, la visita se iniciará con quién se encuentre en el lugar visitado.
+c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-III.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que se levante, sin que esta circunstancia invalide los resultados de la visita.
+II.- Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviese el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieran, la visita se iniciará con quién se encuentre en el lugar visitado;
 
-Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita; por ausentarse de él antes de que concluya la diligencia; o por manifestar su voluntad de no continuar interviniendo en la diligencia. En tales circunstancias, la persona con quien se entienda la visita deberá designar de inmediato otros, y ante su negativa o impedimento de los designados, los visitadores deberán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+III.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que se levante, sin que esta circunstancia invalide los resultados de la visita;
 
-IV.- Los registros y documentos serán examinados en el domicilio, establecimiento o dependencia del visitado. Para tal efecto, el visitado deberá permitir al personal actuante el acceso a todos sus locales o dependencias y exhibirá la documentación contenida en archiveros, escritorios y demás mobiliario de oficina. Asimismo, desde el momento del inicio de la visita hasta su terminación, mantendrá a disposición de los visitadores tales registros y documentos.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-V.- De toda visita en el domicilio fiscal se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas, hacen prueba de la existencia de tales hechos o de las omisiones encontradas. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no constituyen resolución fiscal.
+Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita; por ausentarse de él antes de que concluya la diligencia; o por manifestar su voluntad de dejar de ser testigo. En tales circunstancias, la persona con quien se entienda la visita deberá designar de inmediato otros, y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos, dejando constancia de estos hechos en el acta correspondiente. La sustitución de los testigos no invalida la diligencia, ni los resultados de la visita;
 
-VI.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con los requisitos establecidos en este artículo.
+IV.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-VII.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida.
+V.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-VIII- Si en el cierre del acta final de la visita no estuviese presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviese presente en el lugar visitado; en ese momento, cualquiera de los visitadores que hayan intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta, de la que se dejará copia al visitado. Si el visitado, o la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la misma ante la presencia de dos testigos designados por la autoridad.
+VI.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-IX.- Dentro del acta final se le dará al contribuyente un termino de 15 días hábiles para que proceda a hacer las observaciones que estime pertinentes sobre los hechos consignados en las actas de visita.
+VII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-X.- Transcurrido el término de 15 días a que se refiere la fracción anterior la autoridad tendrá un termino de 100 días naturales para emitir la determinación del crédito fiscal.
+VIII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+IX.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-ARTICULO 78 BIS-A.- Los hechos afirmados por Contadores Públicos en los dictámenes formulados en relación al cumplimento de las obligaciones fiscales, así como en las aclaraciones respecto a dichos dictámenes, se presumirán ciertos, salvo prueba en contrario, si reúnen los siguientes requisitos:
+X.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-I.- Que el Contador Público que dictamine cuente con registro actualizado para dictaminar contribuciones federales.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-II.- Que el dictamen se formule de acuerdo a las disposiciones de este Código y del instructivo que al efecto se publique.
+ARTICULO 78 BIS.- Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de lo que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+
+Cuando los visitados lleven su contabilidad o parte de ella en el sistema de registro electrónico, microfilm, graben en discos ópticos o en cualquier otro medio autorizado por la Secretaría de Administración y Finanzas, mediante reglas de carácter general, deberán poner a disposición de los visitadores el equipo necesario y sus operadores, para que los auxilien en el desarrollo de la visita.
+
+Los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que, previo cotejo con los originales, sean certificados por éstos cuando se dé alguno de los supuestos que a continuación se enumeran:
+
+I.- Existan sistemas de contabilidad, registros o libros sociales, que no estén sellados, cuando deban estarlo conforme a las disposiciones fiscales;
+
+II.- Existan dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados;
+
+III.- No se hayan presentado las declaraciones periódicas a que obligan las disposiciones fiscales, por el periodo a que se refiere la visita;
+
+IV.- Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales, cuando sean falsos o amparen operaciones inexistentes;
+
+V.- Se desprendan, alteren o destruyan parcial o totalmente sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados;
+
+VI.- Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad solo podrá recogerse dentro de las 48 horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores; y,
+
+VII.- Los visitadores podrán solicitar el auxilio de la fuerza pública, cuando el visitado, su representante o la persona con quien se entienda la visita se niega a permitirles el acceso a los lugares donde se realiza ésta; así como, poner a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+
+En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otras los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
+
+En el caso de que los visitadores obtengan copias certificadas de la contabilidad por encontrarse el visitado en cualquiera de los supuestos previstos por el tercer párrafo de este artículo, deberán levantar acta circunstanciada al respecto, la cual deberá reunir los requisitos que establece el artículo 78 BIS-A de este Código, con lo que podrán terminar la visita domiciliaria en el domicilio o establecimiento del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación, en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias solo de una parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias, pudiéndose continuar la visita en el domicilio o establecimiento del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 78 BIS-A.- Las visitas en el domicilio fiscal se desarrollarán conforme a las siguientes reglas:
+
+I.- De toda visita en el domicilio fiscal se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas, hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado.
+
+Si habiendo precedido citatorio la visita no se inicia con el visitado o su representante, en este caso los visitadores, podrán hacer una relación de los sistemas, libros, registros y demás documentación que integren la contabilidad. Si el contribuyente presenta aviso de cambio de domicilio, después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que se levante.
+
+Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad;
+
+II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual podrá ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción III del artículo 78 de este Código;
+
+III.- Durante el desarrollo de la visita, los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado. Para efectos de esta fracción, se considera que no se impide la realización de actividades, cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, debiendo dejar copia del mismo;
+
+IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales.
+
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si después del cierre del acta final y en el plazo que señala la fracción VIII de este artículo, el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentren en poder de una autoridad;
+
+V.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal, podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
+
+VI.- Si en el cierre del acta final de la visita no estuviese presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviese presente en el lugar visitado; en ese momento, cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entienda la diligencia y los testigos firmarán el acta, de la que se dejará copia al visitado. Si el visitado, o la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dichas circunstancias se asentarán en la propia acta sin que esto afecte la validez y el valor probatorio de la misma;
+
+VII.- Las actas parciales se entenderán, que forman parte integrante del acta final de la visita aunque no se señale así expresamente; y,
+
+VIII.- Dentro del acta final se le dará al contribuyente un término de 15 días hábiles para que proceda a hacer las observaciones que estime pertinentes sobre los hechos consignados en las actas de visita.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 78 BIS-B.- Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes dentro de un plazo máximo de tres meses; o la revisión de la contabilidad de los mismos, que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de un mes. Ambos plazos contarán a partir de que se notifique al contribuyente el inicio de las facultades de comprobación.
+
+Los plazos a que se refiere el párrafo anterior, podrán ampliarse por dos meses hasta por dos ocasiones, siempre que el oficio mediante el cual se ordena la prórroga correspondiente, haya sido expedido, en la primera ocasión por la autoridad o autoridades fiscales que ordenaron la visita o revisión y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la citada visita o revisión. En su caso, dicho plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción IV del artículo 78 BIS-A de este Código.
+
+Los plazos para concluir las visitas domiciliarias o las revisiones de la contabilidad en las oficinas de la autoridad a que se refiere el primer párrafo de este artículo, y los plazos de las prórrogas que procedan conforme a este artículo, se suspenderán en los casos de:
+
+a).- Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga;
+
+b).- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
+
+c).- Cambio de domicilio fiscal del contribuyente, cuando no presente el aviso correspondiente o no se encuentre el que haya señalado, hasta que se localice; y,
+
+d).- Interposición de algún medio de defensa contra actos que deriven del ejercicio de sus facultades de comprobación, desde la fecha en que se interpongan hasta que se dicte resolución definitiva de los mismos.
+
+Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+
+De la misma manera quedarán sin efectos la orden y las actuaciones que de ella se derivaron durante la visita, revisión o ejercicio de facultades de comprobación, si la autoridad no emite y notifica personalmente al contribuyente dentro de un plazo de tres meses contados a partir de la fecha en que se levante el acta final de la visita o tratándose de revisión en el domicilio de la autoridad, de que se notifique el oficio de observaciones, resolución que determine el resultado de la revisión.
+
+Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá, desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 78 BIS-C.- Las autoridades fiscales podrán, a su juicio y apreciando discrecionalmente las circunstancias que tuvo para ordenarlas, concluir anticipadamente la visita domiciliaria que hayan ordenado, cuando el visitado, manifieste su deseo de optar por presentar sus estados financieros dictaminados por Contador Público autorizado, de acuerdo a las disposiciones de este Código y del instructivo publicado al respecto, debiendo presentar el mismo dentro de los dos meses siguientes a su manifestación de dictaminarse.
+
+Una vez recibida la manifestación se suspenderá la revisión hasta en tanto se entregue el dictamen correspondiente. Recibido el mismo se resolverá que ha concluido anticipadamente la revisión; en caso de que no cumpla con la presentación del dictamen señalado en el párrafo anterior, se continuará con la visita, en cuyo caso el tiempo que dure suspendida no contará para el plazo a que se refiere el artículo 78 BIS-B de este Código.
+
+En el caso de conclusión anticipada a que se refiere este artículo, se deberá levantar acta en la que se señale la razón de tal hecho.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 78 BIS-D.- Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+
+I.- La solicitud se notificará en el domicilio manifestado ante el registro de contribuyentes por la persona a quien va dirigida, y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde ésta se encuentre. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada del día siguiente para recibir la solicitud; si no lo hiciere la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma;
+
+II.- En la solicitud se indicará el lugar en el cual se deban proporcionar los informes y documentos, concediéndole un plazo de 15 días para su entrega;
+
+III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante, debiendo acreditar plenamente esta circunstancia;
+
+IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se le hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario;
+
+V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados;
+
+VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción, el contribuyente o responsable solidario contará con un plazo de 10 días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
+
+Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
+
+El plazo que se señala en el primer párrafo de esta fracción, es independiente del que se establece en el artículo 78 BIS-B;
+
+VII.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción VI, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora; y,
+
+VIII.- Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente, cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 78 BIS-E.- Los hechos afirmados por los Contadores Públicos en los dictámenes formulados en relación al cumplimiento de las obligaciones fiscales, así como en las aclaraciones respecto a dichos dictámenes, se presumirán ciertos, salvo prueba en contrario, si reúnen los siguientes requisitos:
+
+I.- Que el Contador Público que dictamine cuente con registro actualizado para dictaminar contribuciones federales;
+
+II.- Que el dictamen se formule de acuerdo a las disposiciones de este Código y del instructivo que al efecto se publique; y,
 
 III.- Que el Contador Público emita, conjuntamente con su dictamen, un informe sobre la revisión fiscal en el que se consigne, bajo protesta de decir verdad, los datos que señale este Código y el instructivo que al efecto se publique.
 
-Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir las liquidaciones de contribuciones omitidas que correspondan.
+Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir las liquidaciones de contribuciones emitidas que correspondan.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ARTICULO 78 BIS-B.- Las autoridades fiscales, estarán facultadas para revisar los dictámenes presentados por los contribuyentes, de acuerdo a lo siguiente:
+ARTICULO 78 BIS-F.- Las autoridades fiscales, estarán facultadas para revisar los dictámenes presentados por los contribuyentes de acuerdo a lo siguiente:
 
 I.- Requerirán al Contador Público, por escrito, con copia al contribuyente.
 
@@ -821,15 +973,15 @@ II.- Concederán al Contador Público, un plazo máximo de quince días hábiles
 
 III.- Podrán requerir al contribuyente para que exhiba la documentación o informes requeridos, cuando ésta no sea proporcionada por el Contador Público en el plazo previsto en la fracción anterior.
 
-Una vez realizado lo anterior, si a juicio de las autoridades fiscales no satisface los requisitos establecidos en este Código, dicha circunstancia se hará del conocimiento del Contador Público y del contribuyente, procediendo a ejercer directamente las facultades de comprobación.
+Una vez realizado lo anterior, si a juicio de las autoridades fiscales no satisface los requisitos establecidos en este Código, dicha circunstancia se hará del conocimiento del Contador Público y del contribuyente, procediendo a ejercer directamente ante el contribuyente las facultades de comprobación.
 
 Cuando la autoridad fiscal al revisar el Dictamen del Contador público tenga plena certeza de la omisión, en el pago de alguna contribución establecida en la Ley de Hacienda del Estado de Sinaloa, podrá requerir directamente al contribuyente.
 
-Respecto de la revisión efectuada las autoridades fiscales deberán levantar una última acta final, contando al contribuyente con un plazo de 15 días a partir de su notificación, para desvirtuar los hechos u omisiones observados.
+Respecto de la revisión efectuada las autoridades fiscales deberán levantar un acta final, contando el contribuyente con un plazo de 15 días a partir de su notificación, para desvirtuar los hechos u omisiones observados.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ARTICULO 78 BIS-C.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en el instructivo que al efecto se publique, las autoridades fiscales estarán facultadas para rechazar durante un período de tres años los dictámenes formulados por él. En caso de reincidencia, no se volverá a aceptar ningún dictamen.
+ARTICULO 78 BIS-G.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en el instructivo que al afecto (sic) se publique, las autoridades fiscales estarán facultadas para rechazar durante un período de tres años los dictámenes formulados por él. En caso de reincidencia, no se volverá a aceptar ningún dictamen.
 
 ###### ARTICULO 79.
 
@@ -1007,7 +1159,7 @@ VII.- Llevar doble contabilidad.
 
 Multa de cinco hasta veinte días de salario mínimo general.
 
-VIII.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras.
+VIII. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras.
 
 Multa de diez hasta cincuenta días de salario mínimo general.
 
@@ -1023,11 +1175,11 @@ XI.- No proporcionar oportunamente a las autoridades los comprobantes de pago de
 
 Multa de cinco hasta veinte días de salario mínimo general.
 
-XII.- Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
+XII- Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
 
 Multa de cinco hasta veinte días de salario mínimo general.
 
-XIII.- No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
+XIII. No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
 
 Multa de uno hasta diez días de salario mínimo general.
 
@@ -1045,7 +1197,9 @@ Multa de diez hasta cincuenta días de salario mínimo general.
 
 XVII.- No pagar los impuestos o derechos dentro de los plazos señalados por las Leyes fiscales.
 
-Multa hasta de un tanto de la prestación fiscal.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Multa del 50% al 100% de la prestación fiscal.
 
 XVIII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras.
 
@@ -1059,7 +1213,7 @@ XX.- Expender marbetes o traficar con ellos sin autorización legal; adquirir ma
 
 Multa de uno hasta diez días de salario mínimo general.
 
-XXI.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos, e informes que legalmente puedan exigir inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita.
+XXI.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos, e informes que legalmente puedan exigir inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita;
 
 Multa de veinte hasta cien días de salario mínimo general.
 
@@ -1070,6 +1224,12 @@ Multa de diez hasta cincuenta días de salario mínimo general.
 XXIII.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
 Multa de uno hasta diez días de salario mínimo general.
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XXIV. No presentar el Dictamen de Obligaciones Fiscales Estatales en los términos del artículo 78 BIS-C de este Código.
+
+Multa de diez hasta cincuenta días de salario mínimo general.
 
 ###### ARTICULO 98.
 
@@ -1373,17 +1533,17 @@ I.- El de revocación.
 
 II.- El de oposición al procedimiento administrativo de ejecución.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Además de estos recursos administrativos el contribuyente contará con un procedimiento denominado "Justicia de Ventanilla" que no constituirá instancia pero sí suspenderá por el tiempo que dure el trámite y resolución de este escrito el procedimiento administrativo de ejecución y los efectos de cualquier juicio de índole fiscal y administrativo que tenga relación directa e indirecta con el crédito fiscal o contra los actos administrativos dictados en materia fiscal por las autoridades competentes sin necesidad de otorgar fianza.
+Además de estos recursos administrativos, el contribuyente contará con un procedimiento denominado "Justicia de Ventanilla" que se iniciará a petición de parte; no constituirá instancia; se podrá interponer en cualquier tiempo, una vez que haya quedado firme la resolución que determinó el crédito por no haberse interpuesto un medio de defensa en su contra dentro de los plazos previstos por las leyes y dicha interposición se realice antes de que sean rematados los bienes; sin que haya prescrito el crédito fiscal y se alegue que el crédito proviene de una resolución emitida en contravención a las disposiciones fiscales y que no se refieran al procedimiento. La autoridad fiscal competente podrá, por una sola vez y de manera discrecional, modificar o revocar en beneficio del contribuyente la resolución de que se trate.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-El contribuyente podrá interponer en cualquier tiempo, escrito, sin más requisito que su nombre completo, domicilio fiscal y el planteamiento del problema en forma sencilla ante el Procurador Fiscal, quien resolverá en la misma forma en un plazo no mayor de diez días contados a partir de la fecha de interposición del escrito correspondiente.
+El trámite de este procedimiento se iniciará con un escrito, que contendrá, el nombre completo del contribuyente y el de su representante si lo hubiere, domicilio fiscal y domicilio para recibir notificaciones, el planteamiento del problema en forma sencilla. Conocerá de este procedimiento el Procurador Fiscal, el cual resolverá en un plazo no mayor de quince días hábiles, contados a partir de la fecha de interposición del escrito correspondiente, quien atendiendo las circunstancias del asunto, podrá ordenar la suspensión del procedimiento administrativo de ejecución en contra del promovente.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-En contra de la resolución de la Justicia de Ventanilla no procederá medio de defensa alguno.
+Por ser aplicable este procedimiento a resoluciones que han quedado firmes o consentidas por el contribuyente, no procederá medio de defensa alguno en contra de la resolución que dicte la autoridad resolutora.
 
 ###### ARTICULO 119.
 
@@ -1629,33 +1789,41 @@ La declaración de nulidad de notificaciones, traerá como consecuencia la nulid
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-I.- Depósito de dinero en las instituciones de crédito autorizadas para tal efecto.
+I.- Depósito de dinero en las instituciones de crédito autorizadas para tal efecto;
 
-II.- Prenda o hipoteca.
+II.- Prenda o hipoteca;
 
-III.- Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y exclusión.
+III.- Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y exclusión;
 
-IV.- Obligación solidaria asumida por un tercero que compruebe su idoneidad y solvencia a juicio de la Secretaría.
+IV.- Obligación solidaria asumida por un tercero que compruebe su idoneidad y solvencia a juicio de la Secretaría;
 
-V.- Embargo en la vía administrativa.
+V.- Embargo en la vía administrativa;
 
-La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-El reglamento de este Código establecerá los requisitos que deberán satisfacer las garantías. La Secretaría de Hacienda Pública y Tesorería vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueran, exigirán su ampliación o procederá al secuestro de otros bienes.
+La garantía deberá comprender, además de las contribuciones adeudadas, actualizadas, los accesorios causados así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y si no se ha cubierto el crédito deberá actualizar su importe cada año y ampliarse la garantía para que cubra el importe actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+El reglamento de este Código establecerá los requisitos que deberán satisfacer las garantías. La Secretaría de Administración y Finanzas, vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueran, exigirán su ampliación o procederán al secuestro de otros bienes.
 
 ###### ARTICULO 143.
 
 Procede garantizar el interés fiscal, cuando:
 
-I.- Se solicite la suspensión del procedimiento administrativo de ejecución.
+I.- Se solicite la suspensión del procedimiento administrativo de ejecución;
 
-II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente.
+II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente;
 
 III.- Se solicite la aplicación del producto en los términos del Artículo 163 de este Código.
 
 IV.- En los demás casos que señalen este ordenamiento y las leyes fiscales.
 
 No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Cuando se dé aviso de baja o suspensión de actividades, el contribuyente deberá demostrar ante la autoridad fiscal competente, estar al corriente en sus obligaciones fiscales. No procederá la baja o suspensión si está sujeto a una revisión domiciliaria o de gabinete, en cuyo caso, deberá otorgar fianza, a fin de garantizar las obligaciones o créditos pendientes, hasta por un importe igual al del último ejercicio declarado de los impuestos a que esté obligado.
 
 ###### ARTICULO 144.
 
@@ -1731,15 +1899,19 @@ Se suspenderá el procedimiento administrativo de ejecución durante la tramitac
 
 A partir del día hábil siguiente al vencimiento de los plazos señalados dentro de la ley para el pago de los créditos fiscales o para el cumplimiento de las obligaciones fiscales, se iniciará el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 153.
 
-Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor, señalándole un plazo improrrogable de seis días para que cubra el importe total de lo requerido, más los recargos y gastos de ejecución, apercibiéndole que de no hacerlo, se procederá al embargo de bienes bastantes de su propiedad para cubrir el crédito fiscal antes mencionado.
+Las autoridades fiscales para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor, señalándole un plazo improrrogable de quince días para que cubra el importe total de lo requerido, mas los recargos y gastos de ejecución, apercibiéndole que de no hacerlo, se procederá al embargo de bienes bastantes de su propiedad para cubrir el crédito fiscal antes mencionado.
 
 En la misma forma se procederá cuando sea necesario requerir a los contribuyentes, terceros, retenedores, responsables solidarios y particulares por el incumplimiento de obligaciones fiscales, en este caso con el apercibimiento de multas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 154.
 
-Transcurrido el plazo de seis días del requerimiento de pago, si el deudor no ha cubierto totalmente el crédito a su cargo, se procederá como sigue:
+Transcurrido el plazo de quince días después de haber sido requerido de pago, si el deudor no ha cubierto totalmente el crédito a su cargo, se procederá como sigue:
 
 I.- Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco.
 
@@ -1837,11 +2009,15 @@ En caso de controversia ésta será resuelta por el Tribunal de lo Contencioso A
 
 ###### ARTICULO 164.
 
-El embargo de créditos será notificado directamente por la oficina ejecutara a los deudores del crédito.
+EL embargo de créditos será notificado directamente por la oficina ejecutara a los deudores del crédito.
 
 En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriese los muebles en los que aquel suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina.
 
 Si no fuere factible romper o forzar las cerraduras de las cajas u otros objetos unidos a un mueble o si fueran de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará, para su apertura se seguirá el procedimiento mencionado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el acceso al domicilio de aquél o al lugar en que se encuentren los bienes, siempre que el caso lo requiera el ejecutor solicitará el auxilio de la policía o de otra fuerza pública para llevar adelante el procedimiento de ejecución.
 
 ###### ARTICULO 165.
 
@@ -1849,11 +2025,13 @@ Cuando las autoridades fiscales embarguen negociaciones, el depositario designad
 
 ###### ARTICULO 166.
 
-El interventor encargado de la caja deberá retirar el 10% de los ingresos netos de la negociación intervenida y entregarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación, para lo cual la autoridad levantará acta circunstanciada.
+El interventor encargado de la caja deberá retirar el 10 % de los ingresos netos de la negociación intervenida y entregarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación, para lo cual la autoridad levantará acta circunstanciada.
 
 Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco del Estado, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora la que podrá ratificarlas o modificarlas.
 
-Si las medidas a que se refiere el párrafo anterior no fueran acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se iniciará de inmediato el procedimiento de ejecución conforme a lo establecido en este código.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Si las medidas a que se refiere el párrafo anterior no fueran acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en intervención con cargo a la administración, o bien iniciará de inmediato el procedimiento administrativo de ejecución conforme a lo establecido en este Código.
 
 ###### ARTICULO 167.
 
@@ -2116,3 +2294,19 @@ P.O. 25 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia será a partir del 1º de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases:
+
+a) Para los efectos de la Fracción II se tomarán en cuenta el factor definitivo de distribución de participaciones de 2001, calculado en base al anterior procedimiento y los ingresos municipales propios y por captación de cuotas por el servicio de agua potable de 1999 y 2000.
+
+b) El factor provisional resultante estará en vigor hasta que se calcule el factor definitivo de 2002 con base en el factor definitivo de distribución de participaciones de 2001, calculado con la anterior metodología así como en los ingresos propios de 2001, consignados en las cuentas públicas municipales aprobadas de 2001 y los informes sobre ingresos por cuotas de agua potable de las Juntas Municipales de Agua Potable y Alcantarillado correspondientes a 2001.
+
+Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Hacienda Pública y Tesorería, se entenderán hechas a la Secretaría de Administración y Finanzas.
+
+Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
+
+Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
