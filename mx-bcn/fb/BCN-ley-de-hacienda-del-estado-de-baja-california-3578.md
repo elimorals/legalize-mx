@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1991-10-31"
+last_updated: "1992-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1992.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1517,6 +1517,68 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 7.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 1992)</small>
+
+### CAPITULO XIX. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, JUEGOS, PERMITIDOS Y CONCURSOS
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+8.- Están obligadas al pago del impuesto sobre loterías, rifas, sorteos, juegos permitidos y concursos que se celebren en el Estado, las personas físicas o las morales que organicen loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos.
+
+Para efectos de este Capítulo, cuando en el mismo se haga mención a juegos con apuestas, se entenderá que incluye a las apuestas permitidas, así como a los establecimientos o agencias que reciban información con fines de lucro, en los que se apuesten sobre carreras de caballos, galgos o cualquier otro evento.
+
+El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+9.- No se pagará el impuesto establecido en este Capítulo por las actividades a que se refiere el Artículo anterior, las que realicen los organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia o de beneficencia, debidamente autorizada por las Leyes de la materia, la Federación, Estado, Municipios, Lotería Nacional para la Asistencia Pública, Partidos Políticos Nacionales, así como las loterías, rifas y concursos en los que los premios sean Bonos del Ahorro Nacional.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+10.- Quienes organicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, calcularán el impuesto aplicando la tasa que fije la Ley de Ingresos del Estado, al valor nominal de los billetes, boletos, apuestas y demás comprobantes que permitan participar en dichos eventos.
+
+Por lo que se refiere a las personas que organicen las actividades que se consignan en el presente capítulo, que emitan billetes, boletos, contraseñas u otros documentos, cualquiera que sea la denominación que se les dé, en los cuales no se exprese el valor de los mismos o sean distribuidos gratuitamente el impuesto se calculará aplicando la tasa del impuesto al valor total de los premios.
+
+El impuesto a que se refiere este artículo no dará lugar a incremento en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+11.- El impuesto a que se refiere este Capítulo, se causará en el momento en que se entreguen a los participantes los billetes, boletos y demás comprobantes, que permitan participar en loterías, rifas, sorteos, juegos permitidos con apuestas o concursos de toda clase.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+12.- Para los efectos de este Capítulo, se considerará como valor de las loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase la cantidad que se cobre o reciba por el boleto, billete de participación o apuesta.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+13.- Los contribuyentes a que se refiere el Artículo 156-8 de la Ley, tendrán las siguientes obligaciones:
+
+I.- Presentar declaraciones mensuales a más tardar dentro de los 10 días siguientes de cada mes, por los ingresos obtenidos en el mes inmediato anterior.
+
+II.- Llevar contabilidad conforme al Código Fiscal del Estado y un registro específico de las operaciones relativas a este impuesto.
+
+III.- Presentar ante la autoridad fiscal, la licencia o permiso otorgado por las autoridades competentes y solicitar autorización de boletos ante la propia Secretaría de Finanzas, previamente a la iniciación de sus actividades o a la realización del evento, y
+
+IV.- Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de loterías, rifas, sorteos, juegos permitidos con apuestas y concursos, dentro de los cinco días siguientes a que esto ocurra.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+
+###### ARTICULO 156
+
+14.- Quienes celebren loterías, rifas, sorteos, juegos permitidos con apuestas y concursos de toda clase en forma accidental por los que deban pagar el impuesto en los términos de este Capítulo, presentarán declaraciones en las oficinas autorizadas dentro de los cinco días siguientes a aquel en que se celebren dichos eventos.
+
 ## TITULO III. DERECHOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
@@ -1924,5 +1986,11 @@ P.O. 31 DE DICIEMBRE DE 1988.
 Las Reformas y Adiciones a que se refiere el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
 P.O. 31 DE OCTUBRE DE 1991.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE ENERO DE 1992.
+
+###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
