@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "1999-02-23"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el lunes 29 de enero de 1996.
 
@@ -54,7 +54,11 @@ I. Fijar las normas básicas para planear, programar y regular el ordenamiento t
 
 II. Determinar los usos, destinos y reservas del suelo, su clasificación y zonificación; y
 
-III. Establecer las normas y principios básicos mediante los cuales se llevará a cabo el desarrollo urbano; y
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+III.- La protección, conservación, recuperación y consolidación del Paisaje Urbano del Distrito Federal, así como de los elementos que lo componen.
+
+IV. Establecer las normas y principios básicos mediante los cuales se llevará a cabo el desarrollo urbano; y
 
 a) El ejercicio de las atribuciones de la Administración Pública del Distrito Federal;
 
@@ -62,9 +66,9 @@ b) La participación democrática de los diversos grupos sociales a través de s
 
 c) Las acciones de los particulares para que contribuyan al alcance de los objetivos y prioridades del desarrollo urbano y de los programas que se formulen para su ejecución.
 
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-Serán de aplicación supletoria a las disposiciones de esta Ley, la Ley General de Asentamientos Humanos, el Código Civil, la Ley Federal de Vivienda y la Ley Ambiental del Distrito Federal.
+Serán de aplicación supletoria a las disposiciones de esta Ley, la Ley General de Asentamientos Humanos, la Ley de Vivienda del Distrito Federal, la Ley Ambiental del Distrito Federal y el Código Civil para el Distrito Federal.
 
 ###### Artículo 2.
 
@@ -90,19 +94,29 @@ VII. Optimizar el ordenamiento territorial y el aprovechamiento del suelo;
 
 VIII. Aprovechar de manera más eficiente, en beneficio de la población urbana y rural, la infraestructura, equipamiento y servicios, procurando la optimización de aquellos y de las estructuras físicas de la ciudad;
 
-IX. La conservación del medio natural, de la flora y fauna silvestres en el territorio del Distrito Federal; la restauración de la salubridad de la atmósfera, del agua, del suelo y el subsuelo; la adecuada interrelación de la naturaleza con los centros de población y la posibilidad de su aprovechamiento y disfrute por los habitantes;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+IX.- La regulación protección recuperación y conservación de los elementos del paisaje urbano y sus valores tradicionales, para tutelar los derechos y preservar el interés colectivo en el disfrute de un paisaje urbano armónico;
 
-X. La protección, la conservación, la restauración y la consolidación de la fisonomía propia e imagen urbana y de su patrimonio arqueológico, histórico, artístico y cultural; incluyendo aquellos elementos que sin estar formalmente catalogados merezcan tutela en su conservación y consolidación, de conformidad con lo establecido en el artículo 3 fracción V de esta Ley;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+X. La conservación del medio natural, de la flora y fauna silvestres en el territorio del Distrito Federal; la restauración de la salubridad de la atmósfera, del agua, del suelo y el subsuelo; la adecuada interrelación de la naturaleza con los centros de población y la posibilidad de su aprovechamiento y disfrute por los habitantes;
 
-III. (sic) La coordinación de acciones con entidades y dependencias federales, de las entidades federativas y de los municipios conurbados; así como la concertación de acciones con los particulares y las organizaciones privadas y sociales;
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XII. El mejoramiento de las zonas habitacionales deterioradas física o funcionalmente, donde habita población de bajos ingresos; y
+XI. La protección, la conservación, la restauración y la consolidación de la fisonomía propia e imagen urbana y de su patrimonio arqueológico, histórico, artístico y cultural; incluyendo aquellos elementos que sin estar formalmente catalogados merezcan tutela en su conservación y consolidación, de conformidad con lo establecido en el artículo 3 fracción V de esta Ley;
 
-XIII. La desconcentración de las acciones de la Administración Pública del Distrito Federal, así como la coordinación de las acciones administrativas en el ámbito de la planeación del desarrollo urbano y del territorio.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XII. La coordinación de acciones con entidades y dependencias federales, de las entidades federativas y de los municipios conurbados; así como la concertación de acciones con los particulares y las organizaciones privadas y sociales;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XIII. El mejoramiento de las zonas habitacionales deterioradas física o funcionalmente, donde habita población de bajos ingresos; y
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XIV. La desconcentración de las acciones de la Administración Pública del Distrito Federal, así como la coordinación de las acciones administrativas en el ámbito de la planeación del desarrollo urbano y del territorio.
 
 Los programas deberán prever las medidas y acciones para lograr los objetivos anteriores.
 
@@ -146,7 +160,9 @@ En la formulación de los programas de desarrollo urbano y en su ejecución, los
 
 Los propios órganos de gobierno podrán participar conjuntamente con los ayuntamientos, gobiernos estatales y federal en la planeación y ejecución de los programas aplicables a las zonas conurbadas.
 
-Las autoridades de cada delegación colindante con otra entidad federativa podrán elaborar programas y ejecutar acciones coordinadas de servicios públicos, así como asociarse en la ejecución de obras con los municipios vecinos. Estas acciones y programas deberán presentarse previamente por el Jefe del Distrito Federal a la Asamblea, para su aprobación.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Las autoridades de cada delegación colindante con otra entidad federativa podrán elaborar programas y ejecutar acciones coordinadas de servicios públicos, así como asociarse en la ejecución de obras con los municipios vecinos. Estas acciones y programas deberán presentarse previamente por el Jefe de Gobierno del Distrito Federal a la Asamblea, para su aprobación.
 
 > <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -154,209 +170,175 @@ Las autoridades de cada delegación colindante con otra entidad federativa podr�
 
 La determinación de los usos, reservas y destinos de tierras, aguas y bosques, es inherente a la función social del derecho de propiedad, de acuerdo con lo previsto en el párrafo tercero del artículo 27 Constitucional, con la Ley General de Asentamientos Humanos y con el Código Civil.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 7.
 
 Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+I. Administración Pública: El conjunto de Dependencias, Órganos Político Administrativos en cada demarcación territorial, órganos desconcentrados y entidades paraestatales que componen la administración centralizada, desconcentrada y paraestatal del Distrito Federal;
 
-I. Asamblea: Asamblea Legislativa del Distrito Federal;
+II. Alineamiento: Traza sobre el terreno que limita el predio respectivo con la vía pública en uso o con la futura vía pública determinada en las láminas de alineamiento y derechos de vía;
 
-II. Clasificación del suelo: la división de la superficie del Distrito Federal en urbana y de conservación;
+III. Anunciante: La persona física o moral que utiliza los servicios de publicidad para difundir o publicitar productos, bienes, servicios o actividades;
 
-III. Código Civil: Código Civil vigente en el Distrito Federal;
+IV. Anuncio: Toda expresión gráfica o escrita emitida por cualquier medio que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción, compra y venta de bienes, con la prestación de servicios y con el ejercicio de actividades lícitas reguladas por la Ley;
 
-IV. Coeficientes de ocupación del suelo: la relación aritmética existente entre la superficie construida en planta baja y la superficie total del terreno;
+V. Asamblea: Asamblea Legislativa del Distrito Federal;
 
-V. Coeficiente de utilización del suelo: la relación aritmética existente entre la superficie total construida en todos los niveles de la edificación y la superficie total del terreno;
+VI. Causa de fuerza mayor: Acontecimiento de la naturaleza u ocasionado por el hombre, imprevisible o inevitable, que pone en peligro la vida e integridad de las personas y sus bienes;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+VII. Clasificación del suelo: la división de la superficie del Distrito Federal en urbana y de conservación;
 
-VI. Destinos: los fines públicos a los que se prevea dedicar determinados predios propiedad del Distrito Federal;
+VIII. Código Civil: Código Civil vigente en el Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+IX. Coeficiente de ocupación del suelo: la relación aritmética existente entre la superficie construida en planta baja y la superficie total del terreno;
 
-VII. Equipamiento urbano: el conjunto de inmuebles, instalaciones y construcciones, destinados a prestar a la población, los servicios de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y transporte, y otros, para satisfacer sus necesidades.
+X. Coeficiente de utilización del suelo: la relación aritmética existente entre la superficie total construida en todos los niveles de la edificación y la superficie total del terreno;
 
-(REUBICADA Y REFORMADA, G.O. 23 DE FEBRERO DE 1999)
+XI. Consejo: Consejo Asesor de Desarrollo Urbano y Vivienda;
 
-VIII. Espacio Urbano: el volumen ubicado, determinado, condicionado y desarrollado sobre el suelo urbano. Es el ámbito donde existen edificaciones o que es susceptible de ser edificado.
+XII. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico del paisaje natural, rural y urbano, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico o urbano, que deteriore la calidad de vida de las personas;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XIII. Corresponsable: Es la persona física auxiliar de la Administración Pública, con autorización y registro de la Secretaría, que cuenta con los conocimientos técnicos adecuados para responder en forma conjunta con el Director Responsable de Obra o autónoma, en las obras donde otorgue su responsiva, en todos los aspectos técnicos relacionados con el ámbito de su intervención profesional, relativos a la seguridad estructural, al diseño urbano y arquitectónico y a las instalaciones, que deberá cumplir con lo establecido en la Ley, el Reglamento y demás disposiciones aplicables;
 
-IX. Estatuto: el Estatuto de Gobierno del Distrito Federal;
+XIV. Destinos: los fines públicos a los que se prevea dedicar determinados predios propiedad del Distrito Federal;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XV. Dictamen: Resultado de la evaluación técnico–jurídica emitida por la autoridad competente, respecto de un asunto sometido a su análisis;
 
-X. Estímulos: las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las autoridades competentes para promover y facilitar la participación de los sectores público, social y privado en la elaboración, modificación, ejecución y evaluación de los programas;
+XVI. Director Responsable de Obra: Es la persona física auxiliar de la administración pública, autorizada y registrada por la Secretaría, que se hace responsable de la observancia de la Ley, del Reglamento y demás disposiciones aplicables, en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XVII. Elementos del paisaje urbano: Los espacios públicos abiertos, los bienes del dominio público y del dominio privado del Distrito Federal, los espacios abiertos, las construcciones, edificaciones y sus fachadas, la publicidad exterior, el espacio aéreo urbano, el subsuelo urbano, el mobiliario urbano, los espacios destinados a la edificación, pisos, banquetas y pavimentos, las instalaciones provisionales para puestos callejeros, ferias, circos o espectáculos, así como el paisaje natural que lo rodea y las secuencias, perspectivas y corredores visuales;
 
-XI. Estructura urbana: conjunto de componentes, tales como el suelo, la vialidad, el transporte, la vivienda, el equipamiento urbano, la infraestructura, el mobiliario urbano, la imagen urbana, el medio ambiente, entre otros, que actúan interrelacionados y que constituyen la Ciudad;
+XVIII. Empresa publicitaria: Persona física o moral que ejerce como actividad la comercialización de espacios publicitarios para exhibir, promover, difundir y publicar productos, bienes o servicios a través de un anuncio y que se ostenta como titular de la licencia;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XIX. Entorno urbano: Conjunto de elementos naturales y construidos que conforman el territorio urbano, y que constituyen el marco de referencia y convivencia de los habitantes y visitantes, determinado por las características físicas, costumbres y usos, que se relacionan entre sí;
 
-XII. Estructura Vial: conjunto de calles intercomunicadas, de uso común y propiedad pública, destinadas al libre tránsito de vehículos y peatones, entre las diferentes áreas o zonas de actividades. Puede tener distinto carácter en función de un medio considerado: local, urbano, regional y nacional.
+XX. Equipamiento urbano: el conjunto de inmuebles, instalaciones y construcciones, destinados a prestar a la población, los servicios de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y de transporte y otros, para satisfacer sus necesidades;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XXI. Espacio Urbano: el volumen ubicado, determinado, condicionado y desarrollado sobre el suelo urbano. Es el ámbito donde existen, edificaciones o que es susceptible de ser edificado;
 
-XIII. Imagen objetivo: lo que un plan pretende lograr en su ámbito espacial y temporal de validez;
+XXII. Estatuto: el Estatuto de Gobierno del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XXIII. Estímulos: las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las autoridades competentes para promover y facilitar la participación de los sectores público, social y privado en la elaboración, modificación, ejecución y evaluación de los programas;
 
-XIV. Imagen Urbana: resultado del conjunto de percepciones producidas por las características específicas, arquitectónicas, urbanísticas y socioeconómicas de una localidad, más las originadas por los ocupantes de ese ámbito físico-territorial, en el desarrollo de sus actividades habituales, en función de las pautas de conducta que los motiva. Tanto la forma y aspectos de la traza urbana, tipo de antigüedad de las construcciones así como las particularidades de barrios, calles, edificios o sectores y elementos históricos y artísticos de una localidad, son elementos entre otros, que dan una visión general o parcial de sus características.
+XXIV. Estructura urbana: conjunto de componentes, tales como el suelo, la vialidad, el transporte, la vivienda, el equipamiento urbano, la infraestructura, el mobiliario urbano, la imagen urbana, el medio ambiente, entre otros, que actúan interrelacionados y que constituyen la Ciudad;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XXV. Estructura Vial: conjunto de calles intercomunicadas, de uso común y propiedad pública, destinadas al libre tránsito de vehículos y peatones, entre las diferentes áreas o zonas de actividades. Puede tener distinto carácter en función de un medio considerado: local, urbano, regional y nacional;
 
-XV. Impacto Urbano: es la influencia o alteración causada por alguna obra pública o privada, que por su forma o magnitud rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretenda realizar la obra; afecte negativamente el espacio urbano, la imagen urbana y la estructura socioeconómica, al generar fenómenos de especulación inmobiliaria o de bienes y servicios; signifique un riesgo para la salud, la vida o los bienes de la comunidad; o que signifique su desplazamiento o expulsión paulatina, o para el patrimonio cultura, histórico, arqueológico o artístico de la Ciudad.
+XXVI. Imagen objetivo: lo que un programa pretende lograr en su ámbito espacial y temporal de validez;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XXVII. Imagen Urbana: resultado del conjunto de percepciones producidas por las características específicas, arquitectónicas, urbanísticas y socioeconómicas de una localidad, más las originadas por los ocupantes de este ámbito físico-territorial, en el desarrollo de sus actividades habituales, en función de las pautas de conducta que los motiva. Tanto la forma y aspectos de la traza urbana, tipo de antigüedad de las construcciones así como las particularidades de barrios, calles, edificios o sectores y elementos históricos y artísticos de una localidad, son elementos entre otros, que dan una visión general o parcial de sus características;
 
-XVI. Infraestructura urbana: las redes y sistemas de organización y distribución de bienes y servicios, incluyendo su equipamiento para el buen funcionamiento de la Ciudad.
+XXVIII. Impacto Urbano: es la influencia o alteración causada por alguna obra pública o privada, que por su funcionamiento, forma o magnitud rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretenda ubicar; afecte negativamente el espacio, imagen o paisaje urbano, y/o la estructura socioeconómica; al generar fenómenos de especulación inmobiliaria o de bienes y servicios; signifique un riesgo, para la salud, la vida o los bienes de la comunidad; o que signifique su desplazamiento o expulsión paulatina, o para el patrimonio cultural, histórico, arqueológico o artístico de la Ciudad;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XXIX. Impacto Urbano-ambiental: es la influencia o alteración causado por alguna obra pública o privada, que por su funcionamiento, forma o magnitud rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretende ubicar; afecte negativamente el espacio urbano o el medio ambiente, la imagen o el paisaje urbano, o la estructura socio-económica, o signifique un riesgo para la salud, el ambiente, la vida o los bienes de la comunidad;
 
-XVII. Ley: la Ley de Desarrollo Urbano del Distrito Federal;
+XXX. Infraestructura urbana: las redes y sistemas de organización y distribución de bienes y servicios, incluyendo su equipamiento para el buen funcionamiento de la Ciudad;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XXXI. Ley: la Ley de Desarrollo Urbano del Distrito Federal;
 
-XVIII. Ley General: la Ley General de Asentamientos Humanos;
+XXXII. Ley General: la Ley General de Asentamientos Humanos;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XXXIII. Ley Orgánica: la Ley Orgánica de la Administración Pública del Distrito Federal;
 
-XIX. Ley Orgánica: la Ley Orgánica de la Administración Pública del Distrito Federal;
+XXXIV. Licencia: Acto administrativo mediante el cual, cumplidos los requisitos legales correspondientes, la autoridad competente otorga la autorización para llevar a cabo obras o actividades que requieran su aprobación;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XXXV. Lote mínimo: el que tiene la superficie mínima que determinen los programas;
 
-XX. Lote mínimo: el que tiene la superficie mínima que determinen los programas;
+XXXVI. Manifestación de Construcción: Es la declaración, bajo protesta de decir verdad, del propietario o poseedor del inmueble o predio y, en su caso, del Director Responsable de Obra y los Corresponsables, en la que manifiestan su responsabilidad de observar los requisitos legales, previo a construir, ampliar, reparar o modificar una obra y asumen la obligación de cumplir técnica y jurídicamente con las disposiciones legales aplicables, haciéndose sabedores de las penas en que incurren los falsos declarantes. Dicha manifestación surtirá efectos a partir de su registro ante la autoridad competente, previo cumplimiento de los requisitos establecidos en la normativa aplicable al suelo urbano;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XXXVII. Medidas de mitigación: Aquellas condiciones que deben cumplir las personas físicas o morales, que construyan, amplíen, reparen o modifiquen una obra con el fin de prevenir, mitigar o compensar las alteraciones o afectaciones al entorno urbano, a la vialidad, a la estructura socioeconómica, la infraestructura y/o la imagen urbana, en términos de lo dispuesto por los artículos 61 y 61 bis de la presente ley;
 
-XXI. Medidas de seguridad: las encaminadas a evitar los daños que puedan causar las instalaciones, construcciones y obras, tanto públicas como privadas;
+XXXVIII. Medidas de seguridad: las encaminadas a evitar los daños que puedan causar las instalaciones, construcciones y obras, tanto públicas como privadas;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XXXIX. Mobiliario urbano: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, que refuerzan la imagen de la Ciudad como: fuentes, bancas, botes de basura, macetas, señalamientos, nomenclatura, etc. Por su función pueden ser: fijos, permanentes y móviles o temporales;
 
-XXII. Mobiliario urbano: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, que refuerzan la imagen de la Ciudad como: fuentes, bancas, botes de basura, macetas, señalamientos, nomenclatura, etc. Por su función pueden ser: fijos, permanentes y móviles o temporales.
+XL. Normas de ordenación: las que regulan la intensidad, la ocupación y formas de aprovechamiento del suelo y el espacio urbano; así como las características de las edificaciones, las construcciones, la transferencia de potencialidades de desarrollo urbano, el impacto urbano y las demás que señala esta Ley; dichas normas se establecerán en los programas general, delegacionales y parciales y en el Reglamento de esta Ley;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XLI. Paisaje Urbano: Conjunto de elementos naturales, así como aquellos producidos por la acción humana, que forman parte de la ciudad y de su entorno y que constituyen el marco de percepción visual de sus habitantes, considerados como un valor del medio ambiente, jurídicamente protegible;
 
-XXIII. Normas de ordenación: las que regulan la intensidad, la ocupación y formas de aprovechamiento del suelo y el espacio urbano; así como las características de las edificaciones, las construcciones, la transferencia de potencialidades de desarrollo urbano, el impacto urbano y las demás que señala esta Ley; dichas normas se establecerán en los programas general, delegacionales y parciales y en el Reglamento de esta Ley;
+XLII. Participación social y privada: todas las formas de intervención de los sectores social o privado en el proceso de planeación, mejoramiento y conservación del Distrito Federal;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XLIII. Patrimonio Cultural Urbano: conjunto de elementos y bienes inmuebles que expresan los valores y forma de vida materiales y espirituales del Distrito Federal, y que sean declarados tales, por disposición de la Ley o por declaratoria específica de las autoridades en materia de cultura, a petición ciudadana o por vía de las autoridades en materia urbana;
 
-XXIV. Participación social y privada: todas las formas de intervención de los sectores social o privado en el proceso de planeación, mejoramiento y conservación del Distrito Federal;
+XLIV. Perito en Desarrollo Urbano: es la persona física registrada ante la autoridad competente, con preparación profesional y técnica especializada en temas del ordenamiento territorial, en términos de las disposiciones de esta Ley y su Reglamento, responsable de suscribir el estudio de impacto urbano o urbano-ambiental, la transferencia de potencial de desarrollo y los polígonos de actuación;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+XLV. Perito responsable de la explotación de yacimientos: es la persona física registrada ante la autoridad competente, con preparación profesional y técnica, competente para explotar yacimientos, que junto con el titular de los derechos acepta la responsabilidad de dirigir y supervisar todos los trabajos de explotación y obras auxiliares de yacimientos en términos de la licencia respectiva, de acuerdo con las disposiciones aplicables;
 
-XXV. Patrimonio Cultural Urbano: conjunto de elementos y bienes inmuebles que expresan los valores y forma de vida materiales y espirituales del Distrito Federal, y que sean declarados tales, por disposición de la Ley o por declaratoria específica de las autoridades en materia de cultura, a petición ciudadana o por vía de las autoridades en materia urbana;
+XLVI. Planeación del ordenamiento territorial: el proceso permanente y continuo de formulación, programación, presupuestación, ejecución, control, fomento, evaluación y revisión del ordenamiento territorial;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XLVII. Polígono de actuación: Superficie delimitada del suelo que se determina en los Programas, a solicitud de la Administración Pública o de los particulares para llevar a cabo las acciones determinadas en esta Ley, permitiendo la realización de proyectos urbanos mediante la relocalización de usos de suelo y destinos, así como el intercambio de potencialidades del desarrollo urbano;
 
-XXVI. Planeación del ordenamiento territorial: el proceso permanente y continuo de formulación, programación, presupuestación, ejecución, control, fomento, evaluación y revisión del ordenamiento territorial;
+XLVIII. Poseedor: persona física o moral que por cualquier título detente la posesión de un bien inmueble o predio, donde se pretenda realizar alguna construcción o, en su caso, instalar un anuncio y su estructura;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+XLIX. Programas: el Programa General, los Delegacionales y los Parciales;
 
-XXVII. Polígono de actuación: superficie delimitada del suelo que se determina en los programas, a solicitud de la Administración Pública o de los particulares para llevar a cabo las acciones determinadas en esta Ley;
+L. Programa Delegacional: el que establece la planeación del desarrollo urbano y el ordenamiento territorial de una Delegación del Distrito Federal;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LI. Programa General: es el que determina la estrategia, política, acciones y normas de ordenación del territorio del Distrito Federal, así como las bases para expedir los programas delegacionales y parciales;
 
-XXVIII. Programas: el Programa General, los Delegacionales y los Parciales;
+LII. Programa General de Desarrollo del Distrito Federal: el que contiene las directrices generales del desarrollo social, económico, político y cultural del Distrito Federal, de conformidad con el Estatuto;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+LIII. Programa Parcial: el que establece la planeación del desarrollo urbano y el ordenamiento territorial, en áreas específicas. Los Programas Parciales tienen un carácter especial adaptado a las condiciones particulares de algunas áreas;
 
-XXIX. Programa General de Desarrollo del Distrito Federal: el que contiene las directrices generales del desarrollo social, económico, político y cultural del Distrito Federal, de conformidad con el Estatuto;
+LIV. Programas anuales de desarrollo urbano: los que establecen la vinculación entre los programas, los programas sectoriales y el presupuesto de egresos del Distrito Federal para cada ejercicio fiscal; corresponden a los sectores del desarrollo urbano y el ordenamiento territorial definido en las fracciones anteriores;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LV. Programas sectoriales: los que determinan la estrategia, política y acciones generales de los diversos sectores del desarrollo urbano y el ordenamiento territorial, las reservas territoriales, agua potable, drenaje, transporte y vialidad, vivienda, medio natural y equipamiento urbano;
 
-XXX. Programa General: es el que determina la estrategia, política, acciones y normas de ordenación del territorio del Distrito Federal, así como las bases para expedir los programas delegacionales y parciales;
+LVI. Propietario: Persona física o moral que tiene la propiedad jurídica de un bien inmueble o predio, donde se pretenda realizar alguna construcción, o en su caso, instalar un anuncio y su estructura;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LVII. Publicidad Exterior: la actividad de dar a conocer al público en general, por medio de una representación visual o escrita, un mensaje sobre un bien, producto, servicio o actividad, a través de la utilización de anuncios, carteles o cualesquiera medios, materiales de diversa índole, con la finalidad de promover el consumo, el conocimiento o la contratación de bienes o servicios;
 
-XXXI. Programa Delegacional: el que establece la planeación del desarrollo urbano y el ordenamiento territorial de una Delegación del Distrito Federal;
+LVIII. Reciclamiento: acción de mejoramiento, implica someter una zona del Distrito Federal a un nuevo proceso de desarrollo urbano, con el fin de aumentar los coeficientes de ocupación y utilización del suelo, relotificar la zona o regenerarla y que podrán recibir transferencias de potencialidades de desarrollo urbano;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LIX. Registro de los Planes y Programas: El Registro de los Planes y Programas de Desarrollo Urbano, dependiente de la Secretaría;
 
-XXXII. Programa parcial: el que establece la planeación del desarrollo urbano y el ordenamiento territorial, en áreas específicas. Los Programas Parciales tienen un carácter especial adaptado a las condiciones particulares de algunas áreas;
+LX. Registro de Manifestación de Construcción: Es el acto de la autoridad competente en virtud del cual registra la manifestación de construcción, previo cumplimiento de los requisitos establecidos en la normativa aplicable, surtiendo los efectos legales. Para efectos del otorgamiento de créditos en materia de edificación, este registro se equipara a la licencia de construcción;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXI. Relotificación: es la agrupación de inmuebles comprendidos; en un polígono de actuación sujeto a desarrollo o a mejoramiento urbanos, para su nueva división, y en su caso una relocalización de los usos de suelo dentro del polígono, ajustada a los programas;
 
-XXXIII. Programas sectoriales: los que determinan la estrategia, política y acciones generales de los diversos sectores del desarrollo urbano y el ordenamiento territorial, las reservas territoriales, agua potable, drenaje, transporte y vialidad, vivienda, medio natural y equipamiento urbano;
+LXII. Reservas: las áreas o predios de la Ciudad o centro de población que serán utilizados para su crecimiento;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXIII. Responsable solidario: Toda persona física o moral obligada conjuntamente con el titular, a responder de algún proyecto de construcción, así como de la colocación, instalación, modificación y/o retiro de cualquier elemento mueble o inmueble que altere o modifique el paisaje urbano, en los términos de la presente Ley y sus Reglamentos;
 
-XXXIV. Programas anuales de desarrollo urbano: los que establecen la vinculación entre los programas, los programas sectoriales y el presupuesto de egresos del Distrito Federal para cada ejercicio fiscal; corresponden a los sectores del desarrollo urbano y el ordenamiento territorial definido en las fracciones anteriores;
+LXIV. Restricción: Limitación o afectación que se impone en los planes y programas de desarrollo urbano, las normas de ordenación y los planos oficiales de alineamiento y derechos de vía, al uso o aprovechamiento de un predio, para el cumplimiento de los objetivos y estrategias de los programas;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXV. Riesgo: todo evento que de ocurrir puede poner en peligro la integridad o la vida de las personas, sus bienes o el ambiente;
 
-XXXV. Reciclamiento: acción de mejoramiento, implica someter una zona del Distrito Federal a un nuevo proceso de desarrollo urbano, con el fin de aumentar los coeficientes de ocupación y utilización del suelo, relotificar la zona o regenerarla y que podrán recibir transferencias de potencialidades de desarrollo urbano;
+LXVI. Secretaría: Secretaría de Desarrollo Urbano y Vivienda;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXVII. Secretario: Secretario de Desarrollo Urbano y Vivienda;
 
-XXXVI. Relotificación: es la agrupación de inmuebles comprendidos; en un polígono de actuación sujeto a desarrollo o a mejoramiento urbanos, para su nueva división, y en su caso una relocalización de los usos de suelo dentro del polígono, ajustada a los programas;
+LXVIII. Sistema de Actuación: los sistemas mediante los cuales tanto los particulares, como la Administración Pública del Distrito Federal, podrá llevar a cabo la aplicación de los programas en los polígonos de actuación. Estos sistemas son: actuación privada, actuación social y actuación por cooperación;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXIX. Sistema de Actuación por Cooperación: es aquél en el que participan los órganos de la Administración Pública del Distrito Federal y los sectores social y/o privado;
 
-XXXVII. Reservas: las áreas o predios de la Ciudad o centro de población que serán utilizados para su crecimiento;
+LXX. Sistema de Actuación Privada: aquél en el que participa exclusivamente el sector privado;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+LXXI. Sistema de Actuación Social: Aquél en el que participa exclusivamente el sector social;
 
-XXXVIII. Riesgo: todo evento que de ocurrir puede poner en peligro la integridad o la vida de las personas, sus bienes o el ambiente;
+LXXII. Sistema de Información Geográfica.- Es el medio que sistematiza la información y las disposiciones de los instrumentos de planeación de la ciudad, a través de una base cartográfica única, que contiene la zonificación y las aplicaciones normativas por predio, así como las restricciones señaladas en los programas de desarrollo urbano y demás disposiciones aplicables, para hacer pública la información en materia de usos del suelo;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+LXXIII. Sistema de transferencia de potencialidad de desarrollo urbano: Es el conjunto de normas, procedimientos e instrumentos que permiten ceder los derechos excedentes o totales de intensidad de construcción no edificados que le correspondan a un propietario respecto de su predio, en favor de un tercero, sujetándose a las disposiciones de los programas y a la autorización de la Secretaría;
 
-XXXIX. Secretaría: Secretaría de Desarrollo Urbano y Vivienda;
+LXXIV. Titular: Persona física o moral a cuyo nombre se expide la licencia o permiso y, en su caso, presenta el aviso o manifestación de construcción;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+LXXV. Traza Urbana: Estructura básica de la Ciudad de México o de parte de ella, en lo que se refiere a la vialidad y demarcación de manzanas o predios limitados por la vía pública. Representación gráfica de los elementos mencionados para una zona urbana existente o en proyecto;
 
-XL. Secretario: Secretario de Desarrollo Urbano y Vivienda;
+LXXVI. Usos: los fines particulares a que podrán dedicarse determinadas zonas o predios de la ciudad o centro de población;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXXVII. Vivienda de Interés Popular: La vivienda cuyo precio de venta al público es superior a 15 salarios mínimos anuales, vigentes en el Distrito Federal y que no excede de 25 salarios mínimos anuales;
 
-XLI. Sistema de Actuación: los sistemas mediante los cuales tanto los particulares, como la Administración Pública del Distrito Federal, podrá llevar a cabo la aplicación de los programas en los polígonos de actuación. Estos sistemas son: actuación privada, actuación social, actuación por cooperación;
+LXXVIII. Vivienda de Interés Social: La vivienda cuyo precio máximo de venta al público es de 15 salarios mínimos anuales vigentes en el Distrito Federal;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+LXXIX. Yacimiento Pétreo: Todo aquel depósito de material en su estado natural de reposo, como arena, grava, tepetate, tezontle, arcilla, piedra o cualquier otro material derivado de las rocas, que sea susceptible de ser utilizado como material de construcción;
 
-XLII. Sistema de actuación social: aquél en el que participa exclusivamente el sector social;
+LXXX. Zona Conurbada de la Ciudad de México: la continuidad física y demográfica formada por la Ciudad de México y los centros de población situados en los territorios municipales de las entidades federativas circunvecinas;
 
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
+LXXXI. Zona Metropolitana del Valle de México: ámbito inmediato de influencia, socio-económica y físico-espacial de la zona urbana del Valle de México; integrada por las 16 demarcaciones territoriales del Distrito Federal y los municipios correspondientes del Estado de México y del Estado de Hidalgo; y
 
-XLIII. Sistema de actuación privada: aquél en el que participa exclusivamente el sector privado;
-
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-XLIV. Sistema de actuación por cooperación: es aquél en el que participan los órganos de la Administración Pública del Distrito Federal y los sectores social y/o privado;
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-XLV. Sistema de transferencia de potencialidad de desarrollo urbano: es el conjunto de normas, procedimientos e instrumentos que permiten ceder los derechos excedentes o totales de intensidad de construcción no edificados que le correspondan a un propietario respecto de su predio, en favor de un tercero, sujetándose a las disposiciones de los programas y a la autorización de la Secretaría;
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-XLVI. Traza Urbana: Estructura básica de la Ciudad de México o de parte de ella, en lo que se refiere a la vialidad y demarcación de manzanas o predios limitados por la vía pública. Representación gráfica de los elementos mencionados para una zona urbana existente o en proyecto;
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-XLVII. Usos: los fines particulares a que podrán dedicarse determinadas zonas o predios de la Ciudad o centro de población;
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-XLVIII. Vivienda de interés popular: la vivienda cuyo precio de venta al público es superior a 15 salarios mínimos anuales, vigentes en el Distrito Federal y que no excede de 25 salarios mínimos anuales;
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-XLIX. Vivienda de interés social: la vivienda cuyo precio máximo de venta al público es de 15 salarios mínimos anuales vigentes en el Distrito Federal;
-
-(REUBICADA, G.O. 23 DE FEBRERO DE 1999)
-
-L. Zona Conurbada de la Ciudad de México: la continuidad física y demográfica formada por la Ciudad de México y los centros de población situados en los territorios municipales de las entidades federativas circunvecinas; y
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-LI. Zonificación: la división del suelo urbano o de conservación en zonas, para asignar usos del suelo específicos o una mezcla de ellos, en relación a las características socioeconómicas y de funcionamiento de dichas zonas; constituyendo uno de los principales componentes del ordenamiento territorial.
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-LII. Zona Metropolitana del Valle de México: ámbito inmediato de influencia socio-económica y físico-espacial de la zona urbana del Valle de México; integrada por las 16 demarcaciones territoriales del Distrito Federal y los municipios correspondientes del Estado de México y del Estado de Hidalgo.
+LXXXII. Zonificación: la división del suelo urbano o de conservación en zonas, para asignar usos del suelo específicos o una mezcla de ellos, en relación a las características socioeconómicas y de funcionamiento de dichas zonas; constituyendo uno de los principales componentes del ordenamiento territorial.
 
 ## TITULO II. DE LOS ORGANOS COMPETENTES
 
@@ -376,7 +358,9 @@ II. El Jefe de Gobierno del Distrito Federal;
 
 III. La Secretaría; y
 
-IV. Los delegados del Distrito Federal.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IV. Los Jefes Delegacionales del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -434,11 +418,17 @@ I. Vigilar la congruencia de los proyectos de los programas con el Plan Nacional
 
 II. Realizar los estudios previos y los proyectos de los programas, así como sus proyectos de modificación;
 
-III. Efectuar la consulta pública prevista en el procedimiento de elaboración de los programas;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-IV. Revisar los proyectos de los programas delegacionales y de los programas parciales, cuyo ámbito espacial de validez esté comprendido dentro de una sola delegación, así como sus proyectos de modificación, que le remitan los consejos de ciudadanos, para su congruencia con el Programa General;
+III. Efectuar la consulta pública prevista en el procedimiento de elaboración de los programas, con el apoyo de las delegaciones;
 
-V. Revisar y adecuar los proyectos de los programas que sean desechados, total o parcialmente, por la Asamblea;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IV. Revisar los proyectos de los programas delegacionales y de los programas parciales, cuyo ámbito espacial de validez esté comprendido dentro de una sola delegación, así como sus proyectos de modificación, que le remitan las instancias de representación vecinal que establezca la ley de la materia, para su congruencia con el Programa General;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+V. Revisar y adecuar los proyectos de los programas que sean observados total o parcialmente por la Asamblea;
 
 > <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -464,53 +454,127 @@ XI. Refrendar y ejecutar los convenios relacionados con el desarrollo urbano y e
 
 XII. Desarrollar y difundir estudios, diagnósticos y prospectivas en materia de desarrollo urbano y de ordenamiento territorial;
 
-XIII. Emitir opiniones técnicas o dictámenes en materia de desarrollo urbano y de ordenamiento territorial;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XIV. Autorizar a las personas físicas o morales que puedan llevar a cabo los estudios de impacto urbano y ambiental; en coordinación con la Secretaría del Medio Ambiente;
+XIII. Emitir opiniones técnicas o dictámenes en materia de desarrollo urbano y de ordenamiento territorial, en ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XV. Revisar y dictaminar los estudios de impacto urbano, y tomando como base los dictámenes de impacto ambiental que emita la Secretaría del Medio Ambiente y en coordinación con otras dependencias competentes. Expedir en su caso, las licencias de uso de suelo, cuando sean obras que por su magnitud y características produzcan impacto urbano y ambiental;
+XIV. Autorizar la Construcción de Vivienda de Interés Social y Popular promovida por la Administración Pública del Distrito Federal;
 
-XVI. Solicitar a la autoridad competente para que determine y ejecute las medidas de seguridad que correspondan;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XVII. Estudiar y proponer nuevos instrumentos de planeación, ejecución, control y fomento del desarrollo urbano y del ordenamiento territorial;
+XV. Autorizar a las personas físicas que puedan llevar a cabo los estudios de impacto urbano o urbano–ambiental, coordinándose con la Secretaría del Medio Ambiente en lo competente, así como autorizar las transferencias de potencial de desarrollo y polígonos de actuación;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XVIII. Emitir por conducto del Registro de los Planes y Programas de Desarrollo Urbano, las certificaciones de zonificación, transferencia de potencial de desarrollo y del uso de suelo por derechos adquiridos;
+XVI. Revisar y dictaminar los estudios de impacto urbano o urbano–ambiental, en coordinación con la Secretaría del Medio Ambiente y otras dependencias competentes. Expedir en su caso, las licencias de uso de suelo, cuando sean obras que por su magnitud y características produzcan impacto urbano-ambiental;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XIX. Elaborar los lineamientos y políticas para la protección, conservación y consolidación del paisaje, de la imagen urbana y del patrimonio cultural urbano y para anuncios y publicidad exterior;
+XVII. Solicitar a la autoridad competente para que determine y ejecute las medidas de seguridad que correspondan;
 
-XX. Solicitar a las dependencias y entidades de la Administración Pública Federal y del Distrito Federal el apoyo para integrar el sistema de información y evaluación de los programas;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XXI. Tener a su cargo el Registro de los Planes y Programas de Desarrollo Urbano en el que deberán inscribirse éstos, así como aquellos actos o resoluciones que establezcan esta Ley y su reglamento;
+XVIII. Estudiar y proponer nuevos instrumentos de planeación, ejecución, control y fomento del desarrollo urbano y del ordenamiento territorial;
 
-XXII. Coordinarse con la Secretaría del Medio Ambiente, con objeto de preservar y restaurar los recursos naturales, así como prevenir y controlar la contaminación, de conformidad con las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XXIII. Coordinarse con las dependencias y entidades federales competentes, con objeto de preservar y restaurar los bienes que constituyan el patrimonio arqueológico, histórico, artístico o cultural del Distrito Federal;
+XIX. Elaborar los lineamientos, políticas y normas para la protección, conservación y la consolidación de la imagen urbana y del paisaje urbano, del mobiliario urbano, del patrimonio cultural urbano y para anuncios y publicidad exterior;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XXIV. Presentar a la Asamblea los informes trimestrales del avance cualitativo del Programa General;
+XX. Elaborar los lineamientos y políticas para la protección, conservación y consolidación del paisaje, de la imagen urbana y del patrimonio cultural urbano y para anuncios y publicidad exterior;
 
-XXV. Enviar a la Asamblea los acuerdos que dicte en la materia de esta Ley;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XXVI. Coordinarse con la Secretaría de Gobierno, con el objeto de incluir criterios de protección civil destacando la constante prevención-mitigación y la variable riesgo-vulnerabilidad; y
+XXI. Ordenar y realizar visitas de verificación administrativas, así como calificar las actas correspondientes, en obras que requieran estudio de impacto urbano o urbano-ambiental, explotación de minas, canteras y/o yacimientos pétreos, mobiliario urbano con o sin publicidad integrada, publicidad exterior y anuncios en general instalados o visibles desde la vialidad primaria e imponer las sanciones correspondientes;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XXVII. Interpretar y aplicar para efectos administrativos las disposiciones de esta Ley, así como las de los programas, emitiendo para tal efecto los dictámenes, circulares y recomendaciones necesarias; siempre y cuando no contravenga lo dispuesto en los ordenamientos citados.
+XXII. Aplicar las disposiciones de esta Ley, así como las de los programas, emitiendo para tal efecto dictámenes, circulares, criterios y recomendaciones, los cuales deberán ser de observancia obligatoria;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-XXVIII. Ejercer las demás atribuciones que le otorguen las disposiciones aplicables o que le delegue el Jefe de Gobierno del Distrito Federal.
+XXIII. Emitir opinión respecto de la procedencia de las solicitudes de fusión, subdivisión o relotificación de terrenos;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXIV. Inscribir en el Registro de Planes y Programas los acuerdos, convenios, declaratorias, decretos, dictámenes, planes, programas y resoluciones administrativas o judiciales que se expidan en materia de desarrollo urbano y ordenamiento territorial, así como todos los actos que determinen las disposiciones legales aplicables;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXV. Autorizar y establecer el procedimiento de evaluación de los peritos, así como llevar a cabo el registro correspondiente.
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXVI. Registrar, integrar, operar y actualizar el padrón de los directores responsables de obra, corresponsables y peritos, para vigilar y evaluar su actuación, así como coordinar sus Comisiones y aplicar las sanciones correspondientes;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXVII. Coordinarse con las dependencias y entidades federales competentes, con objeto de preservar y restaurar los bienes que constituyan el patrimonio arqueológico, histórico, artístico o cultural del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXVIII. Expedir los Planos de Zonificación tomando en cuenta las normas ambientales que en materia de contaminación visual emita la Secretaría de Medio Ambiente, en materia de anuncios para determinar las zonas prohibidas y permitidas, así como someterlos a consideración de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XIX. Elaborar y actualizar los catálogos de inmuebles afectos al patrimonio cultural y las áreas de conservación patrimonial;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXX. Promover, dictaminar y coordinar los sistemas de actuación privado, social y por cooperación;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXI. Autorizar, negar, cancelar o condicionar las solicitudes e inscripciones de vialidad y derechos de vía, así como reconocer la servidumbre legal de paso;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXII. Solicitar a las dependencias y entidades de la Administración Pública Federal y del Distrito Federal el apoyo para integrar el sistema de información y evaluación de los programas;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXIII. Tener a su cargo el Registro de los Planes y Programas de Desarrollo Urbano en el que deberán inscribirse éstos, así como aquellos actos o resoluciones que establezcan esta Ley y su reglamento;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXIV. Coordinarse con la Secretaría del Medio Ambiente, con objeto de preservar y restaurar los recursos naturales, así como prevenir y controlar la contaminación, de conformidad con las disposiciones legales y reglamentarias aplicables;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXV. Presentar a la Asamblea los informes trimestrales del avance cualitativo del Programa General;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXVI. Enviar a la Asamblea los acuerdos que dicte en la materia de esta Ley;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXVII. Coordinarse con la Secretaría de Gobierno, con el objeto de incluir criterios de protección civil destacando la constante prevención-mitigación y la variable riesgo-vulnerabilidad;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXVIII. Interpretar y aplicar para efectos administrativos las disposiciones de esta Ley, así como las de los programas, emitiendo para tal efecto los dictámenes, circulares y recomendaciones necesarias; siempre y cuando no contravenga lo dispuesto en los ordenamientos citados;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XXXIX. Elaborar y actualizar los planos de alineamiento y derechos de vía, en coordinación con la Secretaría de Transportes y Vialidad; y (sic)
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XL. Revisar periódicamente el Registro Delegacional de manifestación de construcción;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XLI. Ejercer las demás atribuciones que le otorguen las disposiciones aplicables o que le delegue el Jefe de Gobierno del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 12.
 
-Los delegados del Distrito Federal tienen las siguientes atribuciones:
+Los Jefes Delegacionales del Distrito Federal tienen las siguientes atribuciones:
 
 I. Participar con la Secretaría en la elaboración de los proyectos de los programas delegacionales y de los programas parciales, cuyo ámbito espacial de validez esté comprendido dentro del territorio de su delegación, así como sus proyectos de modificación;
 
@@ -520,21 +584,45 @@ II. Recibir las solicitudes de modificación o cancelación de los programas del
 
 III. Vigilar el cumplimiento de los programas dentro del ámbito de su delegación;
 
-IV. Expedir licencias y permisos en su delegación, en el ámbito de esta Ley, de su reglamento y de los programas;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+IV. Expedir las licencias y permisos correspondientes en el ámbito de esta Ley;
 
-V. Expedir las licencias de uso de suelo, con excepción de las que se refieran a obras de impacto urbano y ambiental;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-VI. Promover la participación social en la elaboración, ejecución, evaluación y modificación de los programas delegacionales y parciales;
+V. Recibir las manifestaciones de construcción e integrar el registro de las mismas en su delegación, conforme a los requisitos y la normativa aplicable;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-VII. Aplicar las sanciones previstas en esta Ley y sus reglamentos;
+VI. Verificar que, previo a su registro, la manifestación de construcción cumpla con los requisitos previstos en la normativa aplicable y se proponga en suelo urbano;
 
-VIII. Solicitar a la autoridad competente para que determine y ejecute las medidas de seguridad que correspondan; y
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-IX. Ejercer las demás atribuciones que le otorgue esta Ley.
+VII. Coordinarse con la Secretaría para la realización de la consulta pública prevista en la elaboración de los programas;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+VIII. Promover la participación social en la elaboración, ejecución, evaluación y modificación de los programas delegacionales y parciales;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IX.- Vigilar y coordinarse con la Secretaría en el cumplimiento de la normativa en materia de paisaje e imagen urbana y contaminación visual;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+X. Aplicar las sanciones previstas en esta Ley y sus reglamentos;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XI. Solicitar a la autoridad competente para que determine y ejecute las medidas de seguridad que correspondan;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XII.- Informar a la Secretaría sobre las irregularidades, anomalías o violaciones que detecten en ejercicio de las funciones de los directores responsables de obra, corresponsables o peritos, y
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XIII. Ejercer las demás atribuciones que le otorgue esta Ley.
 
 ## TITULO III. DE LA PLANEACION DEL DESARROLLO
 
@@ -572,7 +660,9 @@ Los programas delegacionales se subordinarán al Programa General y deberán ser
 
 Los programas parciales cuyo ámbito espacial de validez esté comprendido dentro de dos o más delegaciones, se subordinarán al Programa General, y deberán ser congruentes entre sí, así como con los programas delegacionales.
 
-Los programas parciales cuyo ámbito espacial de validez esté comprendido dentro de una sola delegación se subordinarán a los programas delegacionales.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Los programas parciales cuyo ámbito espacial de validez esté comprendido dentro de una sola delegación se subordinarán al programa delegacional correspondiente.
 
 Los programas sectoriales en materia de desarrollo urbano y ordenamiento territorial, que elabore la Administración Pública del Distrito Federal se deberán subordinar a los programas.
 
@@ -710,7 +800,9 @@ XI. La información gráfica.
 
 ###### Artículo 21.
 
-Los programas anuales de desarrollo contendrán la vinculación entre los programas y el presupuesto de egresos del Distrito Federal.
+Los programas anuales de desarrollo contendrán la vinculación
+
+entre los programas y el presupuesto de egresos del Distrito Federal.
 
 ### Capítulo IV. De la aplicación de los programas
 
@@ -774,9 +866,9 @@ d) El dictamen a que se refiere el inciso anterior, estará a consulta de los in
 
 IV. Una vez que termine el plazo de consulta pública, la Secretaría incorporará al proyecto las observaciones que considere procedentes;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-V. La Secretaría, una vez concluida la etapa anterior, remitirá el proyecto al Jefe de Gobierno del Distrito Federal; adjuntando las opiniones y dictámenes de las dependencias de la administración pública y comités vecinales consultados; así como, los resultados de la consulta pública, según el caso.
+V. La Secretaría, una vez concluida la etapa anterior, remitirá el proyecto al Jefe de Gobierno del Distrito Federal; adjuntando las opiniones y dictámenes de las dependencias de la administración pública e instancias de representación vecinal consultados, establecidos en la ley de la materia; así como, los resultados de la consulta pública, según el caso;
 
 > <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -824,29 +916,29 @@ II. El órgano de representación vecinal establecido en la Ley de la materia, p
 
 ### Capítulo VI. De la revisión, modificación o cancelación de los programas
 
-> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 25.
 
-La revisión de los programas se hará en función de las determinaciones del sistema de información y de evaluación a que se refiere esta Ley. Dicha revisión se hará por lo menos cada tres años; excepto en aquellos programas parciales cuya vigencia sea mayor, correspondientes al suelo urbano.
+La revisión de los programas se hará en función de las determinaciones del sistema de información y de evaluación a que se refiere esta Ley. Dicha revisión se realizará por lo menos cada tres años. En aquellos programas parciales en suelo urbano y/o de conservación, cuya vigencia sea mayor, se podrá revisar su contenido a los tres años, para verificar la congruencia con otros instrumentos y las variaciones económicas, ambientales y sociales que se hubieran producido en el territorio.
 
 > <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
 Con los resultados de dicha revisión, podrá determinarse si los elementos que dieron base a la formulación y aprobación del programa respectivo, persisten o si se debe iniciar el proceso de modificación al mismo, en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 26.
 
-La modificación o cancelación de los programas, podrán ser solicitados por particulares o por los comités vecinales establecidos de acuerdo a la Ley en la materia o por las dependencias y entidades de la administración Pública Federal o del Distrito Federal y por la Asamblea, de acuerdo a las modalidades y requisitos establecidos en esta Ley y su Reglamento, y se sujetarán a alguno de los siguientes procedimientos de trámite:
+La modificación o cancelación de los programas, podrá ser solicitada por particulares o por las instancias de representación vecinal establecidos en la ley de la materia o por las dependencias y entidades de la administración Pública Federal o del Distrito Federal y por la Asamblea, de acuerdo a las modalidades y requisitos establecidos en esta Ley y su Reglamento, y se sujetarán a alguno de los siguientes procedimientos de trámite:
 
 > <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
 I. Propuestas de modificación o cancelación elaboradas por la Secretaría para el mejor cumplimiento de los objetivos de la planeación del desarrollo urbano y el ordenamiento territorial, estas propuestas se ajustarán a lo establecido en el apartado A de este artículo.
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-II. Solicitudes de modificación o cancelación presentadas por la Asamblea o los comités vecinales. Estas solicitudes se sujetarán a lo establecido en el apartado B de este artículo.
+II. Solicitudes de modificación o cancelación presentadas por la Asamblea e instancias de representación vecinal establecidas en la ley de la materia. Estas solicitudes se sujetarán a lo establecido en el apartado B de este artículo.
 
 > <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -860,23 +952,19 @@ Una vez aprobada la iniciativa mediante Decreto, el Jefe de Gobierno ordenará s
 
 El reglamento de esta Ley establecerá los requisitos y especificaciones que deberá cumplir la Secretaría para las propuestas de modificación o cancelación a que se refiere este apartado.
 
-B. Cuando la solicitud se proponga por la Asamblea o un comité vecinal o una comisión de los mismos o entidades de la Administración Pública Federal o del Distrito Federal, se presentarán directamente a la Secretaría y se tramitarán de oficio, de acuerdo con el procedimiento señalado en el capítulo anterior.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-C. Las solicitudes de modificación o cancelación de los programas, que no se encuentren en los supuestos de los casos anteriores, hechas por cualquier interesado, se presentarán a la delegación correspondiente, quien las remitirá a los comités vecinales correspondientes, acompañadas de su opinión para que éstos a su vez emitan sus consideraciones en un plazo no mayor de 15 días hábiles y las enviará a la Secretaría para que las dictamine. En caso de que la modificación sea dictaminada favorablemente, elaborará el proyecto de modificación considerando las observaciones que considere procedentes y lo enviará al Jefe de Gobierno para que éste, si no tuviere observaciones, lo remita como iniciativa a la Asamblea para su dictamen y en su caso, aprobación.
+B. Cuando la solicitud se proponga por la Asamblea o una instancia de representación vecinal establecida en la ley de la materia o una comisión de los mismos o entidades de la Administración Pública Federal o del Distrito Federal, se presentarán directamente a la Secretaría y se tramitarán de oficio, de acuerdo con el procedimiento señalado en el capítulo anterior.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+C. Las solicitudes de modificación o cancelación de los programas, que no se encuentren en los supuestos de los casos anteriores, hechas por cualquier interesado, se presentarán a la delegación correspondiente, quien las remitirá a las instancias de representación vecinal correspondientes establecidas en la ley de la materia, acompañadas de su opinión para que éstas a su vez emitan sus consideraciones en un plazo no mayor de 15 días hábiles y las envíen a la Secretaría para su dictaminación. En caso de que la modificación sea dictaminada favorablemente, elaborará el proyecto de modificación considerando las observaciones que considere procedentes y lo enviará al Jefe de Gobierno para que éste, si no tuviere observaciones, lo remita como iniciativa a la Asamblea para su dictamen y, en su caso, aprobación.
 
 Aquellas observaciones que no hayan sido consideradas, serán dictaminadas por escrito y comunicadas a quienes las hubieren formulado.
 
 Tratándose de cambios de uso del suelo para predios particulares, la Secretaría llevará el registro de las solicitudes presentadas, así como de aquellas que hayan sido aprobadas y rechazadas a través del sistema de información y evaluación de los programas, con objeto de revisar aquellas áreas sujetas a variaciones económicas, ambientales y sociales que justifiquen la elaboración de programas parciales o cambio de zonificación, procediendo en su caso a la elaboración del proyecto de modificación de acuerdo con el procedimiento señalado en el capítulo anterior.
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-IV. Los procedimientos a los que se refiere el presente artículo, para la cancelación o modificación de los programas, no aplican en aquellos programas parciales cuya vigencia sea superior a tres años y correspondan a suelo urbano.
-
-El Consejo de Ciudadanos las remitirá a la Secretaría, para que las dictamine.
-
-En el caso de que el dictamen sea favorable a la modificación o cancelación, se seguirá su trámite correspondiente, en los términos del capítulo que antecede.
-
-Cuando la solicitud se proponga por la Asamblea, los Consejos de Ciudadanos o las dependencias o entidades de la Administración Pública Federal o del Distrito Federal, se presentarán directamente a la Secretaría y se tramitarán de oficio.
+IV. (DEROGADA, G.O. 29 DE ENERO DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -886,19 +974,29 @@ Se considerarán como casos de interés general y por tal razón las solicitudes
 
 I. Las correcciones, cancelaciones, modificaciones o nuevas asignaciones que en materia de desarrollo urbano y ordenamiento territorial, deban de hacerse, por causa de fuerza mayor;
 
-II. Las variaciones en el límite del Distrito Federal con los municipios colindantes, determinadas conforme a los procedimientos previstos en las leyes;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-III. Las modificaciones a los límites delegacionales; y
+II. Cuando existan errores, imprecisiones o incongruencias en la determinación de la zonificación en los programas, en cuyo caso se estará a lo dispuesto en el Reglamento de esta Ley;
 
-IV. Por resolución del recurso administrativo o del procedimiento judicial, que tenga carácter de sentencia ejecutoriada.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+III. Las variaciones en el límite del Distrito Federal con los municipios colindantes, determinadas conforme a los procedimientos previstos en las leyes;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IV. Las modificaciones a los límites delegacionales; y
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+V. Por resolución del recurso administrativo o del procedimiento judicial, que tenga carácter de sentencia ejecutoriada.
 
 ### Capítulo VII. Del sistema de información y evaluación
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 28.
 
-La Secretaría establecerá el sistema de información y de evaluación de los programas general, delegacional, parciales, sectoriales y anuales de desarrollo urbano, cuyos objetivos serán detectar, registrar, procesar y actualizar la información sobre el Distrito Federal, en materia de desarrollo urbano y ordenamiento territorial; así como su evaluación que permita, entre otras actividades, elaborar el informe trimestral al que se refiere el artículo 11 y a lo dispuesto en el artículo 25, ambos de esta Ley.
+La Secretaría establecerá el sistema de información y de evaluación de los programas general, delegacional, parciales, sectoriales y anuales de desarrollo urbano, cuyos objetivos serán detectar, registrar, procesar y actualizar la información sobre el Distrito Federal, en materia de desarrollo urbano y ordenamiento territorial.
 
 > <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -908,13 +1006,19 @@ El sistema se regulará por lo que disponga el reglamento de esta Ley, para cada
 
 La información generada por este sistema tendrá carácter público.
 
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 28 Bis.
+
+El Sistema de Información Geográfica contendrá la zonificación, las aplicaciones normativas por predio, así como las restricciones señaladas en los programas de desarrollo urbano y demás disposiciones aplicables, para hacer pública la información en materia de usos del suelo.
+
 ## TITULO IV. DEL ORDENAMIENTO TERRITORIAL
 
-> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 29.
 
-El ordenamiento territorial, comprende el conjunto de las disposiciones que tienen por objeto establecer la relación entre la distribución de los usos, destinos y reservas del suelo del Distrito Federal, con los asentamientos humanos, las actividades y derechos de sus habitantes, la zonificación y las normas de ordenación, así como la reglamentación en materia de construcciones, de imagen urbana, de equipamiento urbano, de impacto urbano y ambiental, y de anuncios.
+El ordenamiento territorial, comprende el conjunto de las disposiciones que tienen por objeto establecer la relación entre la distribución de los usos, destinos y reservas del suelo del Distrito Federal con los asentamiento humanos, las actividades y derechos de sus habitantes, la zonificación y las normas de ordenación, así como la reglamentación en materia de construcciones de imagen y paisaje urbano, de equipamiento urbano, de impacto urbano o urbano-ambiental y de anuncios.
 
 ### Capítulo I. Clasificación del suelo y zonificación
 
@@ -970,11 +1074,11 @@ c) Areas de producción rural y agroindustrial: las destinadas a la producción 
 
 Estas áreas podrán ser emisoras para transferencias de potencialidades de desarrollo, en beneficio de las mismas, en los términos que definan los programas y el artículo 51 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 32.
 
-Los usos, destinos y reservas del suelo que se determinarán en la zonificación son los siguientes:
+Los usos del suelo que se determinarán en la zonificación son los siguientes:
 
 I. En suelo urbano:
 
@@ -1042,7 +1146,7 @@ c) Para las área (sic) de producción rural y agroindustrial:
 
 > <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
-5. Forestal,
+5. Forestal;
 
 > <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -1052,13 +1156,19 @@ c) Para las área (sic) de producción rural y agroindustrial:
 
 7. Equipamiento e infraestructura.
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
-III. La zonificación determinará los usos permitidos y prohibidos, así como los destinos y reservas de suelo para las diversas zonas, determinadas en los programas y en el reglamento de esta Ley; dichas zonas podrán ser:
+III. La zonificación determinará los usos permitidos y prohibidos, así como los destinos y reservas de suelo para las diversas zonas, determinadas en los programas y en el reglamento de esta Ley, además de aquellas que la evaluación de los programas determine necesarias para un adecuado funcionamiento y ordenamiento del territorio; dichas zonas podrán ser:
+
+> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
 a) Para suelo urbano: Habitacional; Habitacional con comercio; Habitacional con oficinas; Habitacional mixto; Equipamiento urbano e infraestructura; Industria; Espacios Abiertos; Areas Verdes; Centro de Barrio; entre otras.
 
+> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+
 b) Para suelo de Conservación: Rescate Ecológico; Producción Rural-Agroindustrial; Preservación Ecológica; entre otras.
+
+> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
 c) Para Poblados Rurales: Habitacional Rural de Baja Densidad; Habitacional Rural; Habitacional Rural con Comercio y Servicios; Equipamiento Rural; entre otras.
 
@@ -1174,9 +1284,13 @@ Los reglamentos en materias relacionadas con el desarrollo urbano, contendrán e
 
 I. En materia de construcciones: uso y ocupación de la vía pública, nomenclatura, asignación de número oficial, alineamiento; afectaciones y restricciones de construcción, edificación, modificación, ampliación, reparación, uso; mantenimiento y demolición de construcciones definitivas y temporales; y condiciones de explotación de yacimientos pétreos y las responsabilidades a las que se harán acreedores los propietarios de los inmuebles; los concesionarios y los directores responsables de obra y la forma en que habrán de garantizar aquellos daños y perjuicios que ocasionen a terceros;
 
-II. En materia de imagen urbana: integración al contexto y al paisaje urbano, propio de la expresión natural de los inmuebles, fachadas, frentes, materiales, mobiliario, elementos del Patrimonio Cultural Urbano, y los elementos de la bionaturaleza urbana;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-III. En materia de anuncios: diseño, forma, dimensión, materiales, elaboración, fijación, instalación, colocación, iluminación, distribución y distanciamiento de los anuncios en los sitios, lugares y espacios a los que tenga acceso el público, que estén en la vía pública o que sean visibles desde ella; así como, las responsabilidades a las que se harán acreedores los propietarios de los anuncios y de los inmuebles en donde se ubican éstos; así como la forma en que habrán de garantizar aquellos daños y perjuicios que ocasionen a terceros;
+II.- En materia de imagen urbana: integración al contexto y al paisaje urbano, propio de la expresión natural de los inmuebles fachadas frentes, materiales, mobiliario, elementos del patrimonio cultural urbano, y las responsabilidades de los que infrinjan los valores de los elementos naturales y construidos del paisaje urbano;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+III.- En materia de anuncios: diseño forma, dimensión, materiales, elaboración, fijación, instalación, colocación, iluminación, distribución y distanciamiento de los anuncios en los sitios, lugares y espacios a los que tenga acceso el publico, que estén en la vía publica o que sean visibles desde ella; así como, las responsabilidades a las que se harán acreedores los propietarios de los anuncios y de los inmuebles en donde se ubiquen éstos; además del anunciante.
 
 IV. En materia de equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas y sociales.
 
@@ -1190,9 +1304,9 @@ Para coordinar las acciones previstas por la Ley General en materia de reservas 
 
 Los programas delegacionales y parciales al determinar las áreas de crecimiento de los poblados rurales deberán incorporar, previa consulta pública, el consentimiento de sus comunidades.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE ENERO DE 2004)</small>
 
-### Capítulo III. De la vía pública y la infraestructura urbana
+### Capítulo III. Del Espacio Aéreo, la Vía Pública y la Infraestructura Urbana
 
 > <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -1247,6 +1361,30 @@ Los proyectos para la instalación, construcción o modificación de la infraest
 ###### Artículo 41.
 
 La solicitud para instalar, construir o modificar infraestructura urbana o sus sistemas deberá sujetarse a los requisitos y procedimientos que establezca la reglamentación de esta Ley.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 41A.- Para las instalaciones subterráneas, uso de la infraestructura de penetración, mantenimiento o retiro de ductos, y conducción de toda clase de fluidos en el Distrito federal, que se realicen con el fin de introducir servicios y cualesquiera otras, se requerirá, previo inicio de obra, la autorización correspondiente, debiendo observar lo dispuesto por esta ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 41 B.- Para llevar a cabo cualquier instalación aérea, tales como elementos de telecomunicación, postes, contra postes, puntales, postes de refuerzo, sostenes para apoyo, antenas, cables, tensores, cámaras de video, o cualquier otro elemento similar, deberán observarse las disposiciones de la presente ley y sus reglamentos, en materia de conservación, protección y restauración del paisaje urbano.
+
+En el caso de zonas o inmuebles catalogados por el INAH, INBA o registrados por la Secretaría con valor patrimonial, deberán además, obtener la autorización correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 41 C.- Las excavaciones o cortes de cualquier índole que se realicen en vía pública para instalaciones subterráneas y cuya profundidad sea mayor a sesenta centímetros, requerirán de licencia de construcción específica suscrita por un Director Responsable de Obra, de conformidad con el procedimiento establecido en el Reglamento de Construcciones para el Distrito Federal.
+
+Este requisito no será exigido cuando la excavación constituya una etapa de la edificación autorizada por la licencia de construcción respectiva o se trate de pozos con línea de exploración para estudios de mecánica de suelos, o para obras de jardinería.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 41 D.- El uso del espacio aéreo en la ciudad para la instalación de antenas de telecomunicación y estaciones repetidoras de telefonía celular, requerirá autorización de la Secretaría. En el caso de inmuebles catalogados por el INAH, INBA o registrados por la Secretaría con valor patrimonial, deberán obtener la autorización correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 41 E.- La Ley y sus Reglamentos determinarán los requisitos que se deberá observar el proyecto, la ejecución y mantenimiento de las estaciones repetidoras de telefonía celular, así como su comportamiento estructural, considerando siempre el impacto negativo que su instalación puedan provocar al paisaje e imagen urbana. Así mismo, contendrán los requisitos que deberán cumplir los proyectos para la instalación de antenas.
 
 (REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN Y REFORMADA SU DENOMINACION, G.O. 23 DE FEBRERO DE 1999)
 
@@ -1322,7 +1460,9 @@ c) Enterar a la Tesorería del Distrito Federal, el pago sustitutivo en efectivo
 
 La autoridad competente determinará la ubicación de los terrenos que se le transmitan, mismos que se destinarán a la reserva patrimonial para el desarrollo urbano del Distrito Federal.
 
-Los avalúos se solicitarán a la Comisión de Avalúos de Bienes del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Los avalúos se solicitarán al área competente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -1334,9 +1474,17 @@ Los avalúos se solicitarán a la Comisión de Avalúos de Bienes del Distrito F
 
 El sistema de transferencia de potencialidades de desarrollo urbano será aplicable en todo el territorio del Distrito Federal, de acuerdo a las disposiciones de los programas, como instrumento de fomento para el cumplimiento de las políticas y estrategias contenidas en los mismos.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+El objeto del Sistema será lograr el máximo aprovechamiento de los bienes y servicios de la ciudad para generar recursos que sean destinados al mejoramiento, rescate y protección de las áreas de conservación patrimonial, principalmente del centro histórico, así como de áreas de actuación en suelo de conservación. En el caso del suelo urbano, se utilizarán los derechos de excedentes potenciales en intensidad de construcción de un predio a otro, prevista por el programa aplicable. En el caso del suelo de conservación, se calcularán los valores ambientales del predio emisor por la autoridad competente, para aplicar en el predio receptor los recursos que resulten de la potencialidad ambiental transferible.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 Para tales fines, los programas definirán las normas de ordenación para la aplicación de las transferencias de potencialidades de desarrollo urbano, con base en las características establecidas por los coeficientes de utilización y ocupación del suelo, de acuerdo a lo cual los propietarios de predios e inmuebles podrán transmitir los derechos excedentes o totales de intensidad de construcción, no edificados, que correspondan al predio o inmueble de su propiedad, en favor de un tercero.
 
-Tratándose de suelo de conservación, la Secretaría del Medio Ambiente propondrá los potenciales que puedan ser transferibles en dicho suelo como áreas emisoras.
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Tratándose de suelo de conservación, la Secretaría del Medio Ambiente propondrá los valores ambientales potenciales que puedan ser transferibles en dicho suelo como áreas emisoras.
 
 > <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -1380,17 +1528,17 @@ El ordenamiento territorial del Distrito Federal observará la conservación, pr
 
 Para la conservación del patrimonio a que se refiere el articulo anterior, los programas y la reglamentación de esta Ley, considerarán las medidas y disposiciones tendientes a su cuidado, conservación, restauración y recuperación. Se cuidará la adopción de estilos arquitectónicos que atenten contra el patrimonio cultural urbano de la Ciudad. La Secretaría, en coordinación con la Secretaría de Desarrollo Social, para el cuidado de dicho patrimonio, observará las recomendaciones que al respecto emita la Comisión de Arte en Espacios Públicos.
 
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 56.
 
-EI reglamento de esta Ley dispondrá las normas conducentes que regulen la conservación de: la funcionalidad, estilo, ambiente y carácter de los elementos del Patrimonio Cultural Urbano.
+El reglamento de esta ley dispondrá las normas conducentes que regulen la conservación de: la funcionalidad imagen, paisaje, estilo, ambiente y carácter de los elementos del patrimonio cultural urbano.
 
-> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 57.
 
-Todas las construcciones e instalaciones que se realicen en el suelo urbano, deberán sujetarse a lo dispuesto en los programas y se ejecutarán en los términos previstos por la Ley y demás disposiciones específicas. Sin cumplir con este requisito, no se otorgará licencia para efectuarlas. Las construcciones e instalaciones que requieran licencia de uso de suelo, incluyendo disposiciones en relación al espacio urbano; estarán sujetas, además a que se dictamine la factibilidad de la prestación de servicios públicos.
+Todas las construcciones e instalaciones que se realicen en el suelo urbano, deberán sujetarse a los (sic) dispuesto en los programas y se ejecutarán en los términos previstos por la Ley y demás disposiciones específicas. Por su parte, las construcciones e instalaciones que se realicen en zona histórica y/o patrimonial, deberán sujetarse a estas disposiciones, además de las aplicables en la materia.
 
 ###### Artículo 58.
 
@@ -1424,45 +1572,385 @@ El costo de la ejecución forzosa se considerará crédito fiscal, en los térmi
 
 ### Capítulo VII. Del control del desarrollo urbano y el ordenamiento territorial
 
-> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 60.
 
-Quienes pretendan llevar a cabo una obra, instalación o aprovechamiento urbano, público o privado, deberán presentar previamente a la solicitud de las licencias o autorizaciones que correspondan en los términos de esta Ley y su reglamentación, el estudio de impacto urbano y ambiental, en los siguientes casos:
+Quienes pretendan llevar a cabo una obra, instalación o aprovechamiento urbano, público o privado, deberán presentar previamente a la solicitud de las licencias, autorizaciones o manifestaciones que correspondan en los términos de esta Ley y su reglamentación, el estudio de impacto urbano o urbano-ambiental, en los siguientes casos:
 
 I. Cuando se rebasen en forma significativa las capacidades de la infraestructura y los servicios públicos del área o zona donde se pretenda ejecutar;
 
 II. Cuando su ejecución genere afectaciones en otras áreas o zonas del Distrito Federal;
 
-III. Cuando pueda afectarse negativamente al espacio urbano, a la imagen urbana y al paisaje natural; así como a la estructura socioeconómica; y
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+III. Cuando pueda afectarse negativamente el espacio, la imagen y el paisaje urbano y el paisaje natural, así como a la estructura socioeconómica; y
 
 IV. Cuando signifique un riesgo para la vida o bienes de la comunidad o al patrimonio cultural, histórico, arqueológico o artístico.
 
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+
 La reglamentación de esta Ley establecerá las características de las obras, aprovechamientos o zonas que requieran de este estudio, determinando los casos y magnitudes específicos a que se refieren las fracciones de este artículo. En lo que se refiere al ambiente, deberán observarse las disposiciones jurídicas aplicables.
 
-La Secretaría emitirá dictamen fundado y motivado en respuesta a la solicitud de estudio de impacto urbano y se publicará, con cargo al interesado en un diario de mayor circulación. Sin el cumplimiento de este requisito no podrá otorgarse ninguna licencia.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-El contenido y procedimiento de tramitación del estudio de impacto urbano se establecerá en la reglamentación de esta Ley.
+La Secretaría emitirá dictamen fundado y motivado, en respuesta a la solicitud de estudio de impacto urbano o urbano-ambiental y se publicará, con cargo al interesado en un diario de mayor circulación.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Sin el cumplimiento de este requisito no podrá otorgarse ninguna licencia. El contenido y procedimiento de tramitación del estudio de impacto urbano o urbano-ambiental se establecerá en la reglamentación de esta Ley. En lo que respecta al dictamen del estudio de impacto ambiental, seguirá emitiéndose por la Secretaría del Medio Ambiente.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 61.
 
-El estudio de impacto urbano forma parte integrante del estudio de impacto urbano y ambiental, que será elaborado por los peritos que autoricen la Secretaría y la Secretaría del Medio Ambiente.
+El estudio de impacto urbano o urbano-ambiental será elaborado por los peritos autorizados, el cual deberá contar con la responsiva otorgada por el Director Responsable de Obra y el Corresponsable, en su caso.
 
-Los directores responsables de obra otorgarán su responsiva de los estudios de impacto urbano ambiental, que se enviarán a la Secretaría para que ésta, con la participación de la Secretaría del Medio Ambiente, otorgue la licencia de uso del suelo correspondiente, en el caso de que el estudio determine que la obra no produce impactos negativos o que se puedan mitigar dichos impactos. Esos estudios serán públicos y se mantendrán para consulta de cualquier interesado.
+La Secretaría emitirá el dictamen de impacto urbano, e integrará y emitirá, junto con la Secretaría de Medio Ambiente, el dictamen de impacto urbano-ambiental con base en la evaluación del estudio de impacto correspondiente y de la opinión que al respecto emita la Delegación y, en su caso, la Dirección General de Protección Civil.
 
-Los propietarios de los proyectos a los que se refiere esta disposición deben aportar los recursos suficientes para resolver cualquier impacto significativo adverso que determine el estudio, así como la parte proporcional del costo de las obras que se precise realizar para proveerlos de los servicios necesarios para su funcionamiento. Podrá autorizarse para estos fines, la utilización de la infraestructura existente, siempre y cuando, se demuestre fehacientemente la existencia de remanentes en la capacidad instalada.
+Las personas físicas o morales que deseen realizar cualquier construcción, ampliación, reparación o modificación de una obra en términos de lo señalado en el presente artículo, deberán responder de cualquier impacto. Para ello efectuarán el pago de aprovechamientos y derechos, en términos de lo dispuesto por el Código Financiero del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
+La Secretaría y la Secretaría del Medio Ambiente, en su caso, vigilarán el cumplimiento del dictamen de impacto correspondiente.
 
-Para los efectos del párrafo anterior, los interesados deberán garantizar ante el Gobierno del Distrito Federal la aportación de recursos o la realización de las obras que señale el estudio respectivo. La Secretaría y la Secretaría del Medio Ambiente vigilarán el cumplimiento del dictamen de impacto urbano ambiental.
+Los estudios de impacto urbano o urbano-ambiental y los dictámenes emitidos por la Secretaría serán públicos y se mantendrán para consulta de cualquier interesado.
 
-### Capítulo I. De la ejecución
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 bis.- Para los casos en los que la construcción, ampliación, reparación o modificación de una obra no requiera de elaboración de estudio de impacto urbano o urbano–ambiental, el promovente deberá efectuar el pago de aprovechamientos y derechos correspondientes en los términos que señale el Código Financiero del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+### CAPITULO VIII. Del Ordenamiento del Paisaje Urbano
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
+
+Primera sección
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 A. Son elementos del paisaje urbano del Distrito Federal, los espacios abiertos, el equipamiento urbano, la publicidad exterior, el espacio aéreo urbano, el subsuelo urbano, el mobiliario urbano, instalaciones provisionales para puestos callejeros, así como el paisaje natural que lo rodea y las secuencias, perspectivas y corredores visuales.
+
+La Secretaría determinará las disposiciones aplicables a los elementos del paisaje urbano, de conformidad con lo establecido en esta ley y su reglamentación, así como la utilización y aprovechamiento de los mismos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2004)</small>
+
+De los anuncios y la publicidad exterior
+
+Apartado A
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 B. Las disposiciones de esta sección tienen por objeto regular la fijación, instalación, distribución, ubicación, modificación y retiro de toda clase de publicidad exterior y anuncios, incluyendo los emplazados en mobiliario urbano, en vía pública o visibles desde la vía pública.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 C. Para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y, en su caso, la demolición de estructuras que soporten o sustenten el anuncio, será necesario obtener de la autoridad competente, ya sea licencia, autorizaciones temporales o aviso, que corresponda en los términos de la presente Ley y la normativa aplicable.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2004)</small>
+
+De las licencias
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 D. Se requerirá la licencia correspondiente para fijar o instalar anuncios, en los siguientes casos:
+
+I. En azotea, auto soportados, en saliente, volados o colgantes, en marquesina o adosados y en lonas o materiales similares, cuando requieran responsiva de Director Responsable de Obra y/o Corresponsable, en términos de lo dispuesto por el Reglamento para el ordenamiento del paisaje urbano;
+
+II. De proyección óptica;
+
+III. Electrónicos;
+
+IV. De neón;
+
+V. En mobiliario urbano;
+
+VI. Instalados en tapiales; y
+
+VII. Cualquier otra modalidad que modifique o altere el entorno urbano y que señale la Secretaría.
+
+En el caso de modificaciones que no alteren sustancialmente la estructura de estos anuncios, el titular deberá dar aviso a la autoridad que otorgó la licencia. En caso contrario deberá tramitarse una nueva licencia.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 E. Las licencias tendrán una vigencia máxima de un año y podrán ser revalidadas en los términos que señala la Ley del Procedimiento Administrativo del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 F. Los titulares de las licencias tendrán las siguientes obligaciones:
+
+I. Mantener el anuncio en condiciones de seguridad y estabilidad, llevando a cabo las obras o reparaciones que la autoridad indique;
+
+II. Instalar en un plazo máximo de sesenta días naturales, la estructura del anuncio contados a partir de la fecha de expedición de la licencia;
+
+III. Llevar y resguardar un libro de bitácora, mismo que deberá ser presentado cuando las autoridades competentes lo requieran;
+
+IV. En caso de la transmisión de la licencia, deberá de informarse a la autoridad que la expidió, en términos de lo que señala el reglamento;
+
+VII. (SIC) Mantener vigente la póliza del seguro de responsabilidad civil y daños a terceros, durante la permanencia del anuncio y su estructura;
+
+VIII. Colocar en lugar visible del anuncio nombre, denominación o razón social del titular de la licencia, el número de la licencia, el nombre y registro del Director Responsable de Obra y/o Corresponsable;
+
+IX. Observar las Reglas Técnicas que en materia de anuncios expida la Secretaría;
+
+X. Observar las normas ambientales que en materia de contaminación visual emita la Secretaría de Medio Ambiente;
+
+XI. Respetar las restricciones que establezcan los Planos de Zonificación en materia de anuncios; y
+
+XII. Pagar los derechos que por licencia corresponda, de conformidad con el Código Financiero para el Distrito Federal;
+
+XIII. Cumplir con la normativa contenida en las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2004)</small>
+
+De las autorizaciones temporales
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 G. Se requerirá obtener de las Delegaciones la autorización temporal correspondiente para fijar o instalar los siguientes anuncios:
+
+I. Anuncios adosados, pintados sobre la superficie de las edificaciones, en mantas y banderolas cuyas dimensiones determine el Reglamento para el ordenamiento del paisaje urbano;
+
+II. En objetos inflables;
+
+III. En saliente, volados o colgantes, siempre que la altura de su estructura de soporte sea de hasta 2.50 metros del nivel de banqueta a su parte inferior y su carátula no exceda de 45 centímetros de longitud por 45 centímetros de altura y un espesor de 20 centímetros;
+
+IV. Autosoportados, con una altura de hasta 2.50 metros del nivel de banqueta a su parte inferior; en estos casos la carátula no deberá exceder de 90 centímetros de longitud por 1.20 metros de altura y un espesor de 20 centímetros, y
+
+V. En marquesinas, con dimensiones de hasta 3.60 metros de longitud por 90 centímetros de altura y un espesor de 20 centímetros y cuyo peso sea de hasta 50 Kg;
+
+V. (sic) Cualquier otra modalidad que modifique o altere el entorno urbano y que señale la Secretaría.
+
+Dichas autorizaciones deberán cumplir con lo dispuesto en la presente Ley y el Reglamento respectivo.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 H. Las autorizaciones temporales tendrán una vigencia de hasta 120 días y podrán ser revalidadas, en una sola ocasión, en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal, excepto en los casos a que se refieren las fracciones III, IV y V del artículo anterior, que tendrán una vigencia de 90 días máximo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
+
+De los avisos
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 I. Se requerirá de la presentación o aviso por escrito a la Delegación, cuando se trate de anuncios que contengan mensajes de carácter cívico, social, cultural ambiental, deportivo, artesanal, teatral o de folklore nacional, no incluyan marca comercial alguna y la actividad o evento que promocionen no persiga fines de lucro, siempre y cuando sean promovidos por alguna autoridad, asociación civil o institución de asistencia social. Estos anuncios podrán ser colocados en mantas, marquesinas, adosados o integrados, en saliente, volados o colgantes cuyas dimensiones señale el Reglamento correspondiente.
+
+Dichos anuncios deberán ser retirados por su propietario a más tardar al concluir el evento o actividad para el cual se presentó el aviso, sin que exceda de un plazo de 15 días.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
+
+Disposiciones comunes a licencias y autorizaciones temporales
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 J. La solicitud de licencia y autorización temporal a que se refiere este Capítulo, deberá ser suscrita por el publicista, por el propietario o poseedor del inmueble y, en su caso, por el representante legal de las personas antes mencionadas; así como por el Director Responsable de Obra y/o Corresponsable cuando se requiera.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2004)</small>
+
+De las prohibiciones en materia de anuncios
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 K. En ningún caso se otorgará Licencia o Permiso, para la fijación o instalación de anuncios que se encuentren en los siguientes supuestos:
+
+I. Aquellos que por su ubicación, dimensiones o materiales empleados en su construcción o instalación, pongan en riesgo la vida, la integridad física de las personas, la seguridad de sus bienes u ocasionen molestias a los vecinos del lugar en que se pretendan instalar; produzcan cambios violentos en la intensidad de la luz y efectos hacia el interior de las habitaciones, y limitar la ventilación e iluminación a las mismas, afectando o alterando la adecuada prestación de los servicios públicos o la limpieza e higiene;
+
+II. Cuando en un anuncio no se observen las disposiciones señaladas en el reglamento y en los Planos de Zonificación en materia de Anuncios, que expida la Secretaría;
+
+III. Cuando por su contenido, ideas, imágenes, textos o figuras inciten a la violencia, promuevan conductas antisociales o ilícitas, faltas administrativas, discriminación de razas, grupos, condición social o el consumo de productos nocivos a la salud, sin las leyendas preventivas que establecen las disposiciones jurídicas de la materia;
+
+IV. Cuando contengan caracteres, combinaciones de colores o tipología de las señales o indicaciones que regulen el tránsito, o superficies reflejantes similares a las que utilizan en sus señalamientos la Secretaría de Transporte y Vialidad u otras dependencias oficiales;
+
+V. Cuando se utilicen materiales corrosivos o considerados como peligrosos por la Ley Ambiental del Distrito Federal y demás normas de competencia federal o local que puedan contaminar el ambiente;
+
+VI. Cuando obstruyan total o parcialmente la visibilidad de las placas de nomenclatura o cualquier señalamiento oficial, y
+
+VII. Cuando se pretendan instalar en:
+
+a) En áreas no autorizadas para ello conforme a los Planos de Zonificación en materia de anuncios expedidos por la Secretaría;
+
+b) Vía pública, parques;
+
+c) En un radio de 200 metros a partir de vialidades de acceso controlado, vías federales y vías de ferrocarril en uso, y que para su instalación requieran Director Responsable de Obra y/o Corresponsable;
+
+d) Cerros, rocas, árboles, bordes de ríos, presas, lomas, laderas, bosques, lagos, canales o puentes;
+
+e) Ventanas, puertas, muros de vidrio, acrílicos u otros elementos, cuando obstruyan totalmente la iluminación natural al interior de las edificaciones;
+
+f) Entradas o áreas de circulación de pórticos, pasajes y portales;
+
+g) Columnas de cualquier estilo arquitectónico;
+
+h) En zonas declaradas como áreas naturales protegidas, de valor ambiental, o como suelo de conservación;
+
+i) En una distancia menor de 150 metros, medidos en proyección horizontal, del límite de las áreas naturales protegidas, áreas de valor ambiental y suelo de conservación;
+
+j) Puentes vehiculares y peatonales, pasos a desnivel, muros de contención y taludes;
+
+k) Estructura que soporta las antenas de telecomunicación;
+
+l) Fuera del área de la cartelera autorizada y en la estructura que soporta la cartelera;
+
+m) Anuncios electrónicos o de neón en los lugares donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de luz, cuyos efectos penetren hacia el interior de las habitaciones; y
+
+n) Los lugares que prohíba expresamente esta Ley y demás disposiciones jurídicas aplicables.
+
+Para el caso de los incisos h) e i), quedan exceptuados de la prohibición los anuncios de tipo institucional colocados por la propia autoridad que informen sobre el cuidado, preservación, limpieza, clasificación y seguridad de estas zonas, las cuales, en todo caso, deberán ser armónicas y cumplir con el objeto de esta ley.
+
+Los anuncios pintados en bardas deberán utilizar preferentemente pintura vinílica, o aquella que no impacte de manera negativa el ambiente y dar mantenimiento constante de forma tal que no se permita el deterioro de la superficie donde se pintó el anuncio.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 L. El propietario y/o poseedor del inmueble o predio que permita la construcción, instalación, colocación o fijación de anuncios, incluyendo su estructura, sin contar con la licencia, autorización o aviso correspondiente, se hará acreedor a las sanciones que establece este ordenamiento y demás aplicables.
+
+Es obligación del propietario o poseedor del inmueble en el que se encuentren instalados anuncios, resguardar en el domicilio, el original de la licencia o autorización temporal o, en su caso, copia certificada, para el efecto de ser exhiba cuando le sea requerida oficialmente.
+
+Asimismo, es obligación del propietario o poseedor del inmueble en que se encuentren instalados anuncios, cumplir con las disposiciones establecidas en la presente Ley y sus ordenamientos.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 M. No se permitirá la instalación de anuncios en mobiliario urbano cuando:
+
+I. Se trate del perímetro A y B del Centro Histórico, zonas históricas, arqueológicas, artísticas, patrimoniales e inmuebles catalogados por el Instituto Nacional de Antropología e Historia, por el Instituto Nacional de Bellas Artes, o registrados por la Secretaría;
+
+II. Anuncien productos que dañen a la salud, sin indicar las leyendas preventivas previstas por la normatividad en la materia;
+
+III. Empleen los símbolos patrios con fines comerciales, salvo para su promoción, exaltación y respeto, de conformidad con la Ley sobre el Escudo, la Bandera y el Himno Nacional;
+
+IV. Interfieran la visibilidad de la circulación vial y peatonal;
+
+V. Obstaculicen los accesos del Sistema de Transporte Colectivo o lugares de riesgo;
+
+VI. No cumplan con esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 N. Las licencias y autorizaciones temporales se revocarán en los siguientes casos:
+
+I. Aquella licencia o autorización que se presente y resulte ajena al anuncio;
+
+II. Transmitir los derechos de la licencia, sin cumplir con las formalidades establecidas en esta Ley y su reglamento correspondiente;
+
+III. No contar con póliza de seguro vigente;
+
+IV. En caso de reincidencia de infracción a cualquier disposición contenida en esta ley y su reglamento correspondiente;
+
+VII. (SIC) Cuando no se efectúen los trabajos de conservación y mantenimiento del anuncio o de sus estructuras, dentro del plazo señalado por la autoridad;
+
+VIII. Cuando se ejecuten las obras de construcción, instalación o modificación sustancial, reparación o retiro de estructuras de anuncios sin la responsiva de un Director Responsable de Obra y/o Corresponsable, en su caso;
+
+IX. Cuando se utilicen para fines distintos a los autorizados;
+
+X. Cuando por motivo de la instalación de un anuncio, se ponga en peligro la integridad física de las personas y de sus bienes;
+
+XI. Cuando se hayan modificado las condiciones de los anuncios sin haber dado el aviso o recabado la autorización correspondiente;
+
+XIII (SIC). Las demás causas contenidas en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2004)</small>
+
+Del Mobiliario Urbano
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 O. Se considera Mobiliario Urbano todos los elementos urbanos complementarios, ya sean fijos, permanentes, móviles o temporales, ubicados en vía pública o en espacios públicos que sirven de apoyo a la infraestructura y al equipamiento urbano y que forman parte de la imagen de la ciudad.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 61-P.
+
+Los elementos del mobiliario urbano, según su función, se clasifican en:
+
+a.- Para el descanso;
+
+b.- Para la comunicación;
+
+c.- Para la información;
+
+d.- Para las necesidades fisiológicas;
+
+e.- Para el comercio;
+
+f.- Para la seguridad;
+
+g.- Para la higiene;
+
+h.- De servicio;
+
+i.- De jardinería y aquellos otros muebles que determinen la Secretaría y la Comisión Mixta de Mobiliario Urbano.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 Q. La Comisión Mixta de Mobiliario Urbano es el órgano integrado por los sectores público, social y privado, la cual tiene las siguientes atribuciones;
+
+I. Asesorar y proponer a la Secretaría las políticas estrategias, líneas de acción, normas, instrumentos y criterios de aplicación;
+
+II. Dictaminar sobre el diseño distribución, emplazamiento, instalación, operación y mantenimiento del mobiliario urbano en la vía publica y espacios públicos del territorio del Distrito Federal, haciéndolo del conocimiento de la Secretaría;
+
+III. Emitir dictámenes técnicos que le sean solicitados por el Jefe de Gobierno o la Secretaría;
+
+IV. Proponer programas de reubicación o redistribución de mobiliario urbano;
+
+V. Aprobar el ordenamiento interno que rija el funcionamiento y la operación de la Comisión;
+
+VI. Crear las subcomisiones necesarias para llevar a cabo el estudio de propuestas de diseño, distribución, instalación, ubicación, mantenimiento y operación de mobiliario urbano, así como de bases y evaluaciones para los concursos que se realicen al respecto;
+
+VII. Las demás que le confiera esta Ley y la normativa aplicable.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 R. Corresponderá a la Secretaría la elaboración y colocación de la nomenclatura oficial en vía pública tal como avenidas, calles, callejones, cerradas, glorietas, parques y aquellos espacios públicos que la propia dependencia determine en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 S. La Comisión de Nomenclatura del Distrito Federal, en coordinación con la Secretaría asignará, revisará y, en su caso, modificará la denominación contenida en las placas de nomenclatura, con base en lo dispuesto por esta Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 T. Las placas de nomenclatura deberán de contener:
+
+a).- El nombre de la calle;
+
+b).- La colonia;
+
+c).- La delegación; y
+
+d).- El código postal.
+
+Corresponde a las delegaciones, en el ámbito de su demarcación territorial, el cuidado y protección de las placas de nomenclatura.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 U. La presente ley y su reglamentación determinarán las disposiciones necesarias para regular y controlar la contaminación visual con el objeto de proteger a las personas de los riesgos potenciales de la misma, logrando así un equilibrio visual del paisaje urbano.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 V. Pueden llegar a constituir fuentes de contaminación visual:
+
+a.- Fuentes fijas: Aquellas edificaciones, construcciones o inmuebles donde se instalen o adhieran contaminantes visuales que impacten en forma negativa el paisaje urbano o la percepción visual de los transeúntes o conductores de vehículos automotores;
+
+b.- Fuentes móviles: Los vehículos automotores que porten o emitan contaminantes visuales que impactan de forma negativa la percepción visual de las personas; y
+
+c.- Fuentes naturales: Las de origen biogénico, de fenómenos naturales y erosivos que impacten negativamente el paisaje urbano.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 W. La infracción a las disposiciones en materia de contaminación visual traerá aparejada la aplicación de medidas de seguridad y sanciones administrativas establecidas en esta ley, su reglamentación y la normatividad ambiental, en su caso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2004)</small>
+
+De la imagen urbana
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 X. Corresponde al Gobierno del Distrito Federal, por conducto de la Secretaría, preservar y vigilar que las percepciones arquitectónicas, urbanísticas y naturales propias de la imagen de la Ciudad de México, no se vean alteradas o impactadas negativamente.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 61 Y. La presente ley, su Reglamento y el Reglamento para el Ordenamiento del Paisaje Urbano, contendrán las disposiciones relativas a la protección y restauración de la imagen urbana, así como las medidas de seguridad y sanciones en caso de violaciones a la normatividad de la materia.
 
 ## TITULO V. De la ejecución de los programas
 
-### Capítulo II. De la actuación social, privada y por cooperación
-
-> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+### Capítulo I. De la ejecución
 
 ###### Artículo 62.
 
@@ -1498,9 +1986,9 @@ El acuerdo por el que se aprueben los sistemas de actuación, se inscribirá en 
 
 Cuando para la ejecución de los programas se requiera la constitución de una servidumbre legal sobre el inmueble, ésta se rige por las disposiciones de derecho común vigentes.
 
-### Capítulo III. De la instrumentación de la planeación del desarrollo
+### Capítulo II. De la actuación social, privada y por cooperación
 
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 67.
 
@@ -1552,7 +2040,9 @@ Sólo mediante convenio en el que se fije el tiempo necesario, las razones o fin
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 23 DE FEBRERO DE 1999)</small>
 
-### Capítulo Unico
+### Capítulo III. De la instrumentación de la planeación del desarrollo
+
+> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 74.
 
@@ -1572,15 +2062,17 @@ II. Para la tramitación de las solicitudes de cambio de uso del suelo, se obser
 
 a) Deberá instalarse un Comité Técnico, coordinado por la Secretaría, con el fin de atender las solicitudes de cambio de uso del suelo. Este Comité analizará y dictaminará dichas solicitudes, atendiendo a lo señalado en la fracción anterior.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 b) El Comité estará integrado por:
 
-Un representante del titular de la demarcación territorial correspondiente.
+Un representante del titular de la Delegación correspondiente.
 
-Un representante por cada una de las dependencias siguientes: Secretaría de Desarrollo Urbano y Vivienda, Secretaría de Transportes y Vialidad, Secretaría de Desarrollo Económico, Dirección General de Construcción y Operación Hidráulica y de la Dirección General de Protección Civil.
+Un representante por cada una de las dependencias siguientes: Secretaría de Desarrollo Urbano y Vivienda, Secretaría de Transportes y Vialidad, Secretaría de Desarrollo Económico, Sistema de Aguas de la Ciudad de México y de la Dirección General de Protección Civil.
 
-Un representante del órgano de representación vecinal designado por los miembros del mismo, conforme a lo establecido en la Ley de la materia, de la zona de influencia en donde se ubica la solicitud de cambio de uso del suelo.
+Un representante de la instancia de representación vecinal designado por los miembros del mismo, conforme a lo establecido en la Ley de la materia, de la zona de influencia en donde se ubica la solicitud de cambio de uso del suelo.
 
-Un representante de la Comisión de Desarrollo Urbano y Establecimiento de Reservas Territoriales de la Asamblea Legislativa del Distrito Federal.
+Un representante de la Comisión de Desarrollo e Infraestructura Urbana, de la Asamblea Legislativa del Distrito Federal.
 
 c) La solicitud se presentará a la Delegación correspondiente y el promovente deberá instalar un letrero perfectamente visible y legible desde la vía pública, indicando el uso de suelo vigente y el solicitado; así como el número de registro de ingreso de la solicitud y el plazo para manifestar opiniones a la Delegación.
 
@@ -1600,7 +2092,7 @@ Los procedimientos a que se refiere este artículo, no podrán aplicarse en ning
 
 ## TITULO VI. De la participación social y la participación privada
 
-### Capítulo I. De los estímulos
+### Capítulo Unico
 
 ###### Artículo 75.
 
@@ -1614,45 +2106,57 @@ La Administración Pública del Distrito Federal apoyará y promoverá la partic
 
 Asimismo, respetará y apoyará las diversas formas de organización, tradicionales y propias de las comunidades, en los pueblos, barrios y colonias de la Ciudad para que participen en el desarrollo urbano bajo cualquier forma de asociación prevista por la Ley.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 77.
 
-El Consejo Asesor de Desarrollo Urbano, es un organismo permanente de participación social para la consulta, opinión, asesoría y análisis en la materia, para impulsar el desarrollo urbano. Se integrará por:
+El Consejo Asesor de Desarrollo Urbano y Vivienda, es un organismo permanente de participación social que asesora en la emisión de estudios, propuestas, opiniones, consultas y análisis en materia de desarrollo urbano y vivienda para su impulso, fomento, desarrollo y mejoramiento; el cual estará integrado de la siguiente forma:
 
-I. El Secretario, quien lo presidirá y nombrará al Secretario Técnico;
+I. El Secretario de Desarrollo Urbano y Vivienda, quien presidirá y nombrará al secretario técnico;
 
-II. El Presidente de la Comisión de Desarrollo Urbano y Establecimiento de Reservas Territoriales de la Asamblea;
+II. Los presidentes de las Comisiones de Desarrollo e Infraestructura Urbana y de Vivienda de la Asamblea;
 
-III. Un consejero por cada uno de los colegios de profesionistas; de las instituciones de educación superior con programas en materia, a sugerencia de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior (ANUIES); y de los centros de investigación con experiencia en el ramo. El Secretario deberá invitar a estos consejeros;
+III. Dos consejeros por cada una de las Comisiones de Desarrollo e Infraestructura Urbana, de Vivienda, de Desarrollo Metropolitano, de Desarrollo Rural y de Población y Desarrollo de la Asamblea;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+IV. Un consejero por cada uno de los colegios de profesionistas, afines al desarrollo urbano y la vivienda, y de las instituciones de educación superior con programas en la materia, a invitación del titular de la Secretaría;
 
-IV. Dos consejeros por cada una de las Comisiones de Desarrollo Urbano y Establecimientos de Reservas Territoriales; de Desarrollo Metropolitano; de Vivienda; de Desarrollo Rural y de Población y Desarrollo de la Asamblea;
+V. Los organismos de los sectores social y privado podrán participar a invitación del consejo o de alguna de sus comisiones, sobre asuntos específicos; y
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+VI. Representantes de las dependencias y entidades de la Administración Pública Local, municipios conurbados y gobiernos estatales, así como de las dependencias y entidades del Gobierno Federal, a invitación del titular de la Secretaría.
 
-V. Los organismos de los sectores social y privado podrán participar a invitación del Consejo Asesor, o de alguna de sus comisiones, sobre asuntos específicos, y
-
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-VI. Representantes de las dependencias y entidades de la Administración Pública del Distrito Federal y de los gobiernos de las entidades federativas y municipios conurbados, así como de las dependencias y entidades del Gobierno Federal, a invitación del Secretario.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 78.
 
-El Consejo Asesor de Desarrollo Urbano, cuyos integrantes son de carácter honorífico, tendrá como funciones la elaboración de propuestas y opiniones sobre los siguientes aspectos:
+El Consejo Asesor de Desarrollo Urbano y Vivienda, cuyos integrantes participan en forma honorífica, tendrá a su cargo la elaboración de propuestas y opiniones sobre los siguientes aspectos:
 
 a) Los proyectos de los programas y el reglamento de la Ley;
 
-b) Los proyectos de infraestructura, equipamiento, servicios urbanos y en general aquellos que influyan sobre la estructura general de la ciudad;
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-c) Los problemas del desarrollo urbano que deben ser valorados constantemente para contribuir a que la planeación urbana sea un proceso permanente; y
+b) Los proyectos de infraestructura, equipamiento, servicios urbanos, vivienda y, en general, aquellos que influyan sobre la estructura urbana de la ciudad;
 
-d) Estudios o asuntos específicos relacionados con el logro de los objetivos de los programas.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-El Consejo Asesor de Desarrollo Urbano podrá trabajar en comisiones dentro de la esfera de sus funciones. Su estructura y funcionamiento se regulará por el reglamento de esta Ley.
+c) Los problemas del desarrollo urbano y la vivienda que deban ser valorados constantemente para contribuir a que la planeación urbana sea un proceso permanente; y
+
+d) Estudios o asuntos específicos relacionados con el logro de los objetivos de los programas;
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+e) Políticas y acciones de fomento, desarrollo y promoción de la vivienda, en particular, la destinada a los núcleos de población de atención prioritaria, que propicien la participación de los sectores público, social y privado;
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+f) Mecanismos que promuevan la participación ciudadana en la elaboración, seguimiento y evaluación de programas de vivienda y política habitacional.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+El Consejo Asesor de Desarrollo Urbano y Vivienda podrá trabajar en comisiones dentro de la esfera de sus funciones. Su estructura y funcionamiento se regulará por el reglamento de esta Ley.
 
 ## TITULO VII. DE LOS ESTIMULOS Y LOS SERVICIOS
 
-### Capítulo II. De los servicios públicos urbanos
+### Capítulo I. De los estímulos
 
 ###### Artículo 79.
 
@@ -1680,7 +2184,7 @@ Para tal efecto, celebrará convenios con las instituciones educativas, a fin de
 
 El reglamento de esta Ley regulará estos estímulos y podrá establecer otros adicionales.
 
-### Capítulo I. De las licencias y certificaciones
+### Capítulo II. De los servicios públicos urbanos
 
 ###### Artículo 84.
 
@@ -1696,7 +2200,7 @@ Cuando en las relotificaciones, los conjuntos y los polígonos de actuación se 
 
 ## TITULO VIII. DE LAS LICENCIAS, CERTIFICACIONES Y MEDIDAS DE SEGURIDAD
 
-### Capítulo II. De las medidas de seguridad
+### Capítulo I. De las licencias y certificaciones
 
 ###### Artículo 87.
 
@@ -1710,33 +2214,45 @@ Cuando las autoridades competentes en los términos de esta Ley tengan conocimie
 
 Las autoridades competentes implementarán los mecanismos de información para consulta del público respecto de certificaciones, permisos, licencias y autorizaciones que emitan, en los términos del reglamento de esta Ley.
 
-> <small>(ADICIONADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-En el caso de aquellas constancias, certificados, certificaciones, permisos, licencias, autorizaciones o documentos oficiales que hayan sido emitidos con error, dolo o mala fe, la Administración Pública del Distrito Federal, por conducto de la dependencia competente, revocará el acto de que se trate, o en su caso, promoverá el procedimiento lesividad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, independientemente de las responsabilidades administrativas o penales que resulten.
+En el caso de aquellas constancias, certificados, certificaciones, permisos, licencias, autorizaciones, registros de manifestación de construcción y demás documentos oficiales que hubieran sido emitidos por error, dolo o mala fe, la Administración Pública del Distrito Federal, por conducto de la dependencia competente, declarará la nulidad del acto de que se trate. También podrá revocarlo de oficio cuando no cumpla con el marco legal vigente, sobrevengan cuestiones de interés público o, en su caso, promoverá el procedimiento de lesividad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, independientemente de las responsabilidades administrativas o penales que resulten.
 
-> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 88.
 
-El Registro de los Planes y Programas podrá expedir certificaciones de zonificación para uso específico, certificaciones de zonificación para usos de suelo permitidos y certificaciones de acreditación de uso de suelo por derechos adquiridos.
+El Registro de los Planes y Programas podrá expedir certificados de zonificación para uso específico, certificados de zonificación para uso de suelo permitidos, certificados de acreditación de uso de suelo por derechos adquiridos y certificados únicos de zonificación de uso de suelo específico y factibilidades.
+
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
 El certificado de zonificación para usos permitidos, es el documento oficial, expedido por el Registro de los Planes y Programas de Desarrollo Urbano, en el que se hace constar lo que los programas vigentes disponen en materia de uso del suelo y normas de ordenación, para un predio determinado en función de la zonificación correspondiente.
 
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
+
 El certificado de zonificación para uso específico, es el documento oficial expedido por el Registro de los Planes y Programas de Desarrollo Urbano, en el que se hace constar lo que los programas vigentes disponen en materia de uso del suelo y normas de ordenación para un predio determinado sobre sí un uso del suelo esta permitido o prohibido; o para aquel predio al que se le haya autorizado cambio de uso de suelo.
+
+> <small>(REFORMADO, G.O. 23 DE FEBRERO DE 1999)</small>
 
 El certificado de acreditación de uso del suelo por derechos adquiridos, es el documento oficial expedido en los términos de los párrafos anteriores, por medio del cual se reconoce el derecho de los propietarios, poseedores o sus causahabientes de un predio en los términos del artículo 22 fracción IV de esta Ley.
 
-El reglamento de esta Ley, establecerá los procedimientos, requisitos y plazos para la expedición de los anteriores certificados; así como para la expedición de constancias de todos los actos que prevé esta Ley inscritos en el Registro de los Planes y Programas.
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+El certificado único de zonificación de uso de suelo específico y factibilidades, es el documento oficial expedido en los términos de los párrafos anteriores, el cual se elabora con las opiniones técnicas de las unidades administrativas competentes, y en el que se hace constar la posibilidad de dotación de agua, servicios de drenaje y desagüe pluvial, de impacto ambiental, vialidad y uso de suelo, para la construcción de conjuntos habitacionales de hasta 200 viviendas ó 10,000 metros cuadrados de construcción para uso habitacional y hasta 5,000 metros cuadrados de construcción para uso comercial, industrial y de servicios, excepto para los proyectos que requieran estudio de impacto urbano o urbano-ambiental, de acuerdo al Sistema de Información Geográfica.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+El reglamento de esta Ley, regulará los casos en los que se requiera de estas licencias y consignará las normas conforme a las cuales se otorgarán.
 
 ###### Artículo 89.
 
 Esta Ley determina las siguientes licencias:
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
+l. (DEROGADA, G.O. 29 DE ENERO DE 2004)
 
-l. Uso de suelo;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-II. Construcción en todas sus modalidades;
+II. Construcción;
 
 III. Fusión;
 
@@ -1744,11 +2260,9 @@ IV. Subdivisión;
 
 V. Relotificación;
 
-VI. Conjunto;
+VI. (DEROGADA, G.O. 29 DE ENERO DE 2004)
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
-
-VII. Condominio;
+VII. (DEROGADA, G.O. 29 DE ENERO DE 2004)
 
 > <small>(REFORMADA, G.O. 23 DE FEBRERO DE 1999)</small>
 
@@ -1772,11 +2286,17 @@ No se podrá inscribir en el Registro de los Planes y Programas, ni en el Regist
 
 La Secretaría enviará copia de las calificaciones de mejoramiento, que inscriba o cancele en el Registro de los Planes y Programas, a los demás registros inmobiliarios, administrativos o fiscales, del Distrito Federal o de la Federación, a los que corresponda alguna competencia, en relación con los predios materia de dichas calificaciones, en un plazo que no exceda de 20 días hábiles.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 92.
 
-Los directores responsables de obra son peritos que supervisarán la ejecución de los proyectos normados por esta Ley y vigilarán que se cumplan las disposiciones de la misma, los programas, el reglamento y las normas técnicas, todo ello bajo la dirección de las dependencias competentes de la Administración Pública. Estos peritos procederán de las listas elaboradas por los Colegios de Profesionistas y estarán colegiados.
+Los directores responsables de obra y corresponsables son aquellas personas físicas registradas y autorizadas por la Secretaría para formular, supervisar y ejecutar proyectos normados por esta Ley, sus reglamentos, los programas, normas técnicas y demás normativa aplicable y son responsables de la observancia de las disposiciones establecidas en los ordenamientos antes citados, en el acto en que otorgan la responsiva relativa al ámbito de su intervención profesional.
 
-### Capítulo I. De las Sanciones
+Los requisitos y procedimientos para ser directores responsables de obra y corresponsables se establecerán en el Reglamento de Construcciones.
+
+La evaluación, admisión y supervisión de los Directores Responsables de Obra y de los Corresponsables quedará a cargo de un Órgano Colegiado, el cual funcionará de conformidad con la normativa que al efecto se expida.
+
+### Capítulo II. De las medidas de seguridad
 
 ###### Artículo 93.
 
@@ -1800,41 +2320,75 @@ La aplicación de estas medidas se sujetará a lo dispuesto en Código Civil y e
 
 ## TITULO IX. DE LAS SANCIONES Y PROCEDIMIENTOS
 
-### Capítulo II. Del silencio administrativo
+### Capítulo I. De las Sanciones
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 94.
 
-La violación de esta Ley, de su reglamento o de los programas, se considera una infracción y trae como consecuencia la imposición de las sanciones, así como la obligación de indemnizar por los daños y perjuicios causados.
+La violación a esta Ley, a sus Reglamentos, a los Programas, normas técnicas o a cualquier otra disposición aplicable se considera infracción e implica la aplicación de sanciones administrativas, independientemente de las de carácter penal, así como la obligación civil de indemnizar, cuando proceda.
 
-En el caso de las violaciones cometidas por los servidores públicos, se aplicarán las normas que regulen la responsabilidad de dichos servidores.
+En el caso de las violaciones cometidas por los servidores públicos, se aplicarán las disposiciones que regulen la responsabilidad de los mismos.
 
-Al aplicarse las sanciones, se tomará en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
+Al aplicarse las sanciones, se tomará en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia cuando una persona hubiera sido sancionada por contravenir una disposición de esta Ley y cometiera nuevamente alguna infracción a la misma.
 
-El plazo de prescripción de las sanciones será de un año y empezará a computarse desde el día en que se hubiera cometido la infracción.
+La reincidencia se sancionará con la imposición del doble de la multa que corresponda a la infracción cometida.
+
+El plazo de prescripción de las sanciones será de un año y empezará a computarse desde el día en que la autoridad tenga conocimiento de la comisión de la infracción.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 95.
 
-Se consideran sanciones aplicables por violaciones o infracciones a esta Ley, a su reglamento y a los programas:
+Se consideran sanciones aplicables por acciones u omisiones que generen violaciones o infracciones a esta Ley, a sus reglamentos, normas técnicas y programas:
 
 I. La rescisión de convenios;
 
 II. La suspensión de los trabajos;
 
-III. La clausura de obra;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-IV. La demolición de construcciones;
+III. La clausura, parcial o total de obra;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IV. La demolición o retiro parcial o total;
 
 V. La intervención administrativa de las empresas;
 
 VI. La pérdida de los estímulos otorgados;
 
-VII. La revocación de las licencias y permisos otorgados;
+> <small>(REFORMADA G.O. 29 DE ENERO DE 2004)</small>
 
-VIII. Las multas; y
+VII. La revocación de las licencias, permisos y autorizaciones otorgados;
 
-IX. El arresto administrativo hasta por treinta y seis horas, conmutable por multa.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
 
-Corresponde a las delegaciones del Distrito Federal decretar e imponer las sanciones previstas en este artículo.
+VIII. Las multas que se prevean en los reglamentos correspondientes; y
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+IX. El arresto administrativo hasta por treinta y seis horas, conmutable por multa. En el caso de falsedad de manifestación de construcción, será inconmutable el arresto.
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+X. El retiro de los anuncios y sus estructuras;
+
+La sanción correspondiente al retiro del anuncio y sus estructuras, deberá efectuarse por el titular de la licencia o permiso y/o el propietario o poseedor del predio, en un término que no exceda las 24 horas siguientes a partir de la notificación que al efecto se realice; en caso contrario el retiro será efectuado por la autoridad con cargo al particular, cuyo costo tendrá el carácter de crédito fiscal.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 95 BIS.- Las sanciones de carácter administrativo previstas para los Directores Responsables de Obra, Corresponsables y Peritos consistirán, según la gravedad de la falta, en:
+
+I.- Amonestación por escrito;
+
+II.- Multa;
+
+III.- Suspensión temporal del registro y
+
+IV.- Cancelación del registro.
+
+La imposición de las sanciones previstas en este artículo, no exime al infractor de la responsabilidad civil o penal en que pueda incurrir.
 
 ###### Artículo 96.
 
@@ -1862,7 +2416,29 @@ c) De las obras de las construcciones o instalaciones, a quienes las realicen si
 
 IV. Cuando de la contabilidad del infractor se desprenda que el beneficio que resulte de una infracción sea superior a la sanción que corresponda, ésta podrá incrementarse hasta el monto del beneficio obtenido. La Secretaría podrá solicitar la intervención de los órganos competentes para determinar dicha utilidad.
 
-### Capítulo III. De la acción pública
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Artículo 96 A. Los responsables solidarios, a que se refiere el artículo 7° de este ordenamiento, responderán por el pago de gastos y multas, por las infracciones cometidas a la presente ley y sus reglamentos y demás disposiciones aplicables, que determine la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 96-B.
+
+Serán solidariamente responsables del pago de los gastos causados por el retiro o la demolición de los anuncios que dicte la autoridad, quienes hayan intervenido en la autorización o contratación para la colocación del anuncio. Se presume, salvo prueba en contrario, que han intervenido en la autorización o contratación para la colocación de los anuncios:
+
+I. El propietario del anuncio y su estructura;
+
+II. El propietario o poseedor del inmueble en que se ubique el anuncio; y
+
+III. El productor o prestador de los bienes o servicios que se anuncien.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 96- C.
+
+Procederá la ejecución forzosa en caso de que se hubiera agotado el procedimiento administrativo y el obligado no hubiera acatado lo ordenado por la autoridad competente.
+
+### Capítulo II. Del silencio administrativo
 
 ###### Artículo 97.
 
@@ -1874,7 +2450,9 @@ Se entenderán negadas por silencio administrativo las solicitudes presentadas e
 
 I. Certificación de acreditación de uso del suelo por derechos adquiridos;
 
-II. Solicitudes de licencia de uso de suelo cuando se refieran a obras de impacto urbano y ambiental, o de construcciones riesgosas, calificadas como tales por el reglamento de esta Ley;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+II. Solicitudes de dictamen de impacto urbano o urbano-ambiental cuando se refieran a obras de impacto urbano o impacto urbano ambiental, o de construcciones riesgosas, calificadas como tales por el reglamento de esta Ley;
 
 III. Solicitudes de modificación de los programas; y
 
@@ -1884,7 +2462,7 @@ IV. Solicitudes de licencias de construcción que se pretendan ejecutar en suelo
 
 Un extracto de las resoluciones obtenidas por las vías señaladas en los dos artículos anteriores, deberán publicarse en la Gaceta Oficial dentro de los 15 días hábiles a partir de la fecha en la que (sic) autoridad, en cumplimiento del procedimiento administrativo correspondiente, las declare.
 
-### Capítulo IV. Del recurso de inconformidad
+### Capítulo III. De la acción pública
 
 ###### Artículo 100.
 
@@ -1897,6 +2475,8 @@ Para dar curso a dicha acción pública, bastará que se presente por escrito y 
 Las autoridades competentes de la Administración Pública del Distrito Federal efectuarán las inspecciones y diligencias necesarias para la comprobación de los hechos denunciados, oirán previamente a los interesados y en su caso a los afectados, realizarán la evaluación correspondiente y tomará las medidas procedentes.
 
 En todo caso las autoridades competentes de la Administración Pública del Distrito Federal, dentro de los 30 días naturales siguientes a la presentación de la acción pública, deberán resolver lo conducente.
+
+### Capítulo IV. Del recurso de inconformidad
 
 ###### Artículo 101.
 
@@ -1953,3 +2533,33 @@ c) La resolución definitiva de regularización de uso del suelo, deberá remiti
 IV. Este programa de regularización en materia de uso del suelo, para comercios y servicios de bajo impacto urbano, estará vigente durante dos años a partir de la publicación oficial del presente Decreto.
 
 SEPTIMO.- El Manual de Trámites y Servicios al público que dispone la documentación y los formatos correspondientes a las certificaciones y licencias y demás trámites que dispone esta Ley, que expiden y realizan la Secretaría y las Delegaciones, deberá ser actualizado en un plazo no mayor a 180 días; entre tanto, la documentación y papelería que actualmente se utilizan seguirán vigentes y podrán ser utilizados como documentación válida, hasta el vencimiento del término que se señala en este transitorio.
+
+G.O. 29 DE ENERO DE 2004.
+
+DECRETO QUE DEROGA, REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY DE DESARROLLO URBANO.
+
+PRIMERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
+
+SEGUNDO.- En lo referente al Sistema de Información Geográfica, a partir del año 2004 comenzará a funcionar y se irá complementado con la incorporación de capas de información por delegaciones. En tanto no esté terminado se seguirá aplicando el procedimiento de consulta.
+
+G.O. 29 DE ENERO DE 2004.
+
+DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY DE DESARROLLO URBANO.
+
+PRIMERO.- Las adiciones y modificaciones a la presente Ley entrarán en vigor al día siguiente de su publicación en la Gaceta oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan o contravengan al presente decreto.
+
+TERCERO.- El Jefe de Gobierno contará con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto para emitir el Reglamento para el Ordenamiento del Paisaje Urbano. En tanto se publique dicho reglamento se aplicará lo establecido en los reglamentos de anuncios, mobiliario urbano, así como el reglamento de esta Ley.
+
+CUARTO.- La Secretaría tendrá un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para instrumentar un Programa de Reordenamiento de Anuncios, instalados con anterioridad a la entrada en vigor del presente decreto.
+
+Los interesados de participar en este Programa tendrán un plazo de 30 días naturales, contados a partir de la publicación de este ordenamiento, para presentar ante la Secretaría un inventario que contenga el número, ubicación y características de los anuncios que puedan ser objeto de reordenamiento. Aquellos anuncios no manifestados no podrán formar parte de dicho Programa.
+
+QUINTO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente decreto, seguirán sustanciándose en los términos de dichas disposiciones.
+
+SEXTO. Los anuncios comerciales fijos que hubieran sido objeto de procedimientos administrativos y que a la fecha de entrada en vigor del presente decreto hubiera quedado en firme su resolución administrativa, no serán incluidos en el Programa de Reordenamiento de Anuncios, que pondrá en marcha la Secretaría de Desarrollo Urbano y Vivienda.
+
+SÉPTIMO.- La Secretaría tendrá un plazo de 180 días naturales contados a partir de la entrada en vigor de este decreto, para expedir y someter a consideración de la Asamblea Legislativa del Distrito Federal los Planos de zonificación en materia de anuncios, los cuales adquieren vigencia jurídica. Una vez que termine el proceso de modificación de los Programas Delegacionales de Desarrollo Urbano, se incorporarán a éstos.
+
+OCTAVO.- Hasta en tanto no se publiquen en la Gaceta Oficial del Distrito Federal, continuarán vigentes los Planos de Zonificación en materia de anuncios, en todo aquello que no se opongan a este decreto.
