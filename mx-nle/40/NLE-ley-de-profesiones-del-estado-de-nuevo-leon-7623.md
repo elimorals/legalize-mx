@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-profesiones-del-estado-de-nuevo-leon-7623"
 country: "mx"
 rank: "ley"
 publication_date: "1984-07-25"
-last_updated: "1984-07-25"
+last_updated: "1999-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROFESIONES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 1984.
 
@@ -249,7 +249,7 @@ No se reputará ejercicio profesional el acto realizado en casos graves con prop
 
 Para ejercer en el Estado, cualquiera de las profesiones a que se refiere el Artículo 5o. de esta Ley, se requiere:
 
-I.- Ser mexicano por nacimiento o naturalización;
+I.- (DEROGADA, P.O. 17 DE FEBRERO DE 1999)
 
 II.- Estar en pleno goce y ejercicio de los derechos civiles;
 
@@ -257,19 +257,17 @@ III.- Poseer título profesional legalmente expedido y registrado, con las salve
 
 IV.- Contar con la cédula para el ejercicio profesional correspondiente, sea ésta expedida por la Federación o por el Estado.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 17o.
 
-Ningún extranjero podrá ejercer en el Estado las profesiones técnico científicas que son objeto de esta Ley, y sólo podrán cuando no haya profesionales en el Estado:
+Los Extranjeros podrán ejercer en el Estado de Nuevo León las profesiones que son objeto de esta Ley, con sujeción a lo previsto en los tratados internacionales de que México sea parte y en lo que no se oponga, a la presente Ley y a la Legislación Mexicana aplicable.
 
-I.- Ser profesores de especialidades, siempre y cuando a juicio del Departamento de Profesiones acusen competencia profesional;
+Cuando no hubiere tratado en la materia, el ejercicio profesional de los extranjeros estará sujeto a la reciprocidad en el lugar de residencia del solicitante y al cumplimiento de los demás requisitos establecidos por las leyes mexicanas.
 
-II.- Actuar como investigadores en laboratorios o instituciones de carácter esencialmente académicos o científicos;
+###### ARTICULO 18.
 
-III.- Ser directores técnicos en la explotación de recursos naturales del Estado, con las limitaciones que establecen los reglamentos y leyes relativas.
-
-###### ARTICULO 18o.
-
-La autorización para ejercer en los términos del artículo anterior, se otorgará con carácter temporal por el Departamento de Profesiones, si se demuestra que la calidad migratoria del extranjero le permite realizar dichas actividades y que posee el título correspondiente.
+(DEROGADO P. O. 17 DE FEBRERO DE 1999)
 
 ###### ARTICULO 19o.
 
@@ -718,3 +716,9 @@ GRACIANO BORTONI URTEAGA
 EL SECRETARIO DE EDUCACION Y CULTURA
 
 ROMEO R. FLORES CABALLERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE FEBRERO DE 1999.
+
+Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
