@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1985-01-21"
+last_updated: "1985-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1985.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -201,49 +201,39 @@ IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habi
 
 Son circunstancias excluyentes de responsabilidad penal:
 
-I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+I.- Incurrir el agente en actividad o inactividad involuntarias.
 
 > <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
 
 II.- Padecer el inculpado, al cometer la infracción, trastorno mental o desarrollo intelectual retardado que le impida comprender el carácter ilícito del hecho, o conducirse de acuerdo con esa comprensión, excepto en los casos en que el propio sujeto activo haya provocado esa incapacidad intencional o imprudencialmente;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
-III.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente, a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
-
-PRIMERA.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
-
-SEGUNDA.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
-
-TERCERA.- Que no hubo necesidad racional del medio empleado en la defensa; y
-
-CUARTA.- Que el daño que iba a causar el agresor era fácilmente reparable después por medios legales o era notoriamente de poca importancia, comparado con el que causó la defensa.
+III.- Repeler el acusado una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad racional de la defensa empleada y no medie provocación suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño a quien a través de la violencia, del escalamiento o por cualquier otro medio, trate de penetrar, sin derecho, a su hogar, al de su familia, a sus dependencias o a los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes propios o ajenos respecto de los que tenga la misma obligación; o bien lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la posibilidad de una agresión.
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
-IV.- El miedo grave o el temor fundado e irresistible de un mal inminente y grave en la persona del contraventor o la necesidad de salvar su propia persona o sus bienes o la persona o bienes de otro, de un peligro real, grave e inminente, siempre que no exista otro medio practicable y menos perjudicial.
+IV.- Obrar por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado intencionalmente ni por grave imprudencia por el agente, y que éste no tuviere el deber jurídico de afrontar, siempre que no exista otro medio practicable y menos perjudicial a su alcance.
 
-No se considerará que obra en estado de necesidad, aquel que por su empleo o cargo tenga el deber legal de sufrir el peligro;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
-V.- Obrar en cumplimiento de un deber o en el ejercicio de un derecho consignados en la ley;
+V.- Obrar en forma legítima, en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho.
 
-VI.- Ejecutar un hecho que no es delictuoso sino por circunstancias del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+VI.- Obrar en virtud de miedo grave o temor fundado e irresistible de un mal inminente y grave en bienes jurídicos propios o ajenos, siempre que no exista otro medio practicable y menos perjudicial al alcance del agente.
 
 VII.- Obedecer a un superior legítimo en el orden jerárquico, aun cuando su mandato constituya un delito si esta circunstancia no es notoria ni se prueba que el acusado la conocía;
 
 VIII.- Contravenir lo dispuesto en una ley penal, dejando de hacer lo que manda, por un impedimento legítimo;
 
-IX.- Ocultar al responsable de un delito o los efectos, objetos o instrumentos del mismo o impedir que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio delictuoso, siempre que se trate de:
-
-a) Los ascendientes y descendientes consanguíneos o afines;
-
-b) El cónyuge y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, y
-
-c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad; y (sic)
+IX.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 X.- Causar un daño por mero accidente, sin intención ni imprudencia alguna, ejecutando un hecho lícito con todas las precauciones debidas;
 
@@ -325,9 +315,9 @@ Las penas y medidas de seguridad son:
 
 7.- (DEROGADO, D.O.F. 13 DE ENERO DE 1984)
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
-8.- Decomiso y pérdida de instrumentos y objetos relacionados con el delito.
+8.- Decomiso de instrumentos, objetos y productos del delito.
 
 9.- Amonestación.
 
@@ -501,17 +491,17 @@ El juzgador, teniendo en cuenta el monto del daño y la situación económica de
 
 La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para el pago de ésta, tomando en cuenta las circunstancias del caso.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
-### CAPITULO VI. Decomiso y pérdida de instrumentos y objetos relacionados con el delito
+### CAPITULO VI. Decomiso de Instrumentos, Objetos y Productos del Delito
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 40.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los instrumentos de uso lícito se decomisarán cuando el delito sea intencional y si pertenecen a un tercero, se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea intencional. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refiere el Artículo 400 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el delincuente, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
-Si los instrumentos o cosas decomisados, son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los demás instrumentos o cosas decomisados, el Estado determinará su destino, según su utilidad, para beneficio de la administración de justicia.
+Si los instrumentos o cosas decomisados son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito, o cosas que sean objeto o producto de él, la autoridad competente determinará su destino, según su utilidad, para beneficio de la administración de justicia.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -643,15 +633,15 @@ Son aplicables las que se funden en circunstancias objetivas, si los demás suje
 
 Cuando el agente hubiese sufrido consecuencias graves en su persona, que hicieren notoriamente innecesario e irracional la imposición de una pena privativa o restrictiva de libertad, el juez podrá prescindir de ella.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 56.
 
-Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se se (sic) pronuncie, se promulgare una o más leyes que disminuyan la sanción establecida en otra ley vigente al cometerse el delito o la substituyan con otra menor, se aplicará la nueva ley.
-
-Cuando pronunciada una sentencia irrevocable en que se hubiere impuesto una sanción corporal, se dictare una ley que dejando subsistente la sanción señalada al delito, sólo disminuya su duración, si el reo lo pidiere y se hallare en el caso de la nueva ley, se reducirá la sanción impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior.
+Cuando entre la comisión de un delito y la extinción de la pena o medida de seguridad entrare en vigor una nueva ley, se estará a lo dispuesto en la más favorable al inculpado o sentenciado. La autoridad que esté conociendo del asunto o ejecutando la sanción, aplicará de oficio la ley más favorable. Cuando el reo hubiese sido sentenciado al término mínimo o al término máximo de la pena prevista y la reforma disminuya dicho término, se estará a la ley más favorable. Cuando el sujeto hubiese sido sentenciado a una pena entre el término mínimo y el término máximo, se estará a la reducción que resulte en el término medio aritmético conforme a la nueva norma.
 
 ###### ARTICULO 57.
 
-Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley anterior le daba, se pondrá en absoluta libertad a los acusados a quienes se esté juzgando, y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 58.
 
@@ -851,53 +841,29 @@ Corresponde al Ejecutivo Federal la ejecución de las sanciones con consulta del
 
 ###### ARTICULO 78.
 
-En la ejecución de las sentencias y medidas preventivas, dentro de los términos que en éstas se señalan y atentas las condiciones materiales existentes, el Ejecutivo aplicará al delincuente los procedimientos que se estimen conducentes para la corrección, educación y adaptación social de éste, tomando como base de tales procedimientos:
-
-I.- La separación de los delincuentes que revelen diversas tendencias criminales, teniendo en cuenta las especies de los delitos cometidos y las causas y móviles que se hubieren averiguado en los procesos, además de las condiciones personales del delincuente;
-
-II.- La diversificación del tratamiento durante la sanción para cada clase de delincuentes, procurando llegar hasta donde sea posible, a la individualización de aquélla;
-
-III.- La elección de medios adecuados para combatir los factores que más directamente hubieren concurrido en el delito, y la de aquellas providencias que desarrollen los elementos antitéticos a dichos factores, y
-
-IV.- La orientación del tratamiento en vista de la mejor readaptación del delincuente y de la posibilidad, para éste, de subvenir con su trabajo a sus necesidades.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ### CAPITULO II. Trabajo de los presos
 
 ###### ARTICULO 79.
 
-El Gobierno organizará las cárceles, colonias penales, penitenciarías, presidios y establecimientos especiales donde deban cumplirse las detenciones preventivas y las sanciones y medidas de seguridad privativas de la libertad, sobre la base del trabajo como medio de regeneración, procurando la industrialización de aquéllos y el desarrollo del espíritu de cooperación entre los detenidos.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 80.
 
-El Gobierno, dentro de los principios generales consignados en el artículo anterior, podrá establecer, con carácter permanente o transitorio, campamentos penales adonde se trasladarán los reos que se destinen a trabajos que exijan esta forma de organización.
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 81.
 
-Todo reo privado de su libertad y que no se encuentre enfermo o inválido, se ocupará en el trabajo que se le asigne, de acuerdo con los reglamentos interiores del establecimiento en donde se encuentre.
-
-Toda sanción privativa de libertad se entenderá impuesta con reducción de un día por cada dos de trabajo, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y revele por otros datos efectivos readaptación social, siendo esta última condición absolutamente indispensable. Este derecho se hará constar en la sentencia.
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 82.
 
-Los reos pagarán su vestido y alimentación en el reclusorio con cargo a la percepción que tengan por el trabajo que desempeñen. El resto del producto del trabajo se distribuirá, por regla general, del modo siguiente:
-
-I.- Un 30 por ciento para el pago de la reparación del daño;
-
-II.- Un 30 por ciento para el sostenimiento de los dependientes económicos del reo;
-
-III.- Un 30 por ciento para la constitución del fondo de ahorros del mismo, y
-
-IV.- Un 10 por ciento para los gastos menores del reo.
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 83.
 
-Si no hubiese condena a reparación del daño o éste ya hubiera sido cubierto, o si los dependientes del reo no están necesitados, los porcentajes inaplicados se distribuirán entre los conceptos que subsistan, en la proporción que corresponda, excepto el destinado a gastos menores del reo, que será inalterable en el 10 por ciento señalado.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ### CAPITULO III. Libertad preparatoria y retención
 
@@ -955,11 +921,11 @@ Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuida
 
 ###### ARTICULO 88.
 
-Las sanciones privativas de libertad, siempre que excedan de un año, se entienden impuestas en calidad de retención hasta por la mitad más de su duración; así se expresará en la sentencia, sin que la omisión de este requisito sea obstáculo para hacerla efectiva.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 89.
 
-La retención se hará efectiva cuando a juicio del Ejecutivo, el condenado con esa calidad tenga mala conducta durante la segunda mitad de su condena, resistiéndose al trabajo, incurriendo en faltas graves de disciplinas o en graves infracciones a los reglamentos del establecimiento penal.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ### CAPITULO IV. Condena condicional
 
@@ -1077,11 +1043,9 @@ El indulto en ningún caso extinguirá la obligación de reparar el daño causad
 
 La rehabilitación tiene por objeto reintegrar al condenado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso.
 
-### CAPITULO VII. Extinción de las medidas de tratamiento de inimputables
+### CAPITULO VII. Cumplimiento de la Pena o Medida de Seguridad
 
-> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
-
-ARTICULO 118 bis.- Cuando el inimputable sujeto a una medida de tratamiento se encontrare prófugo y posteriormente fuera detenido, la ejecución de la medida de tratamiento se considerará extinguida si se acredita que las condiciones personales del sujeto no corresponden ya a las que hubieran dado origen a su imposición.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 100.
 
@@ -1099,63 +1063,81 @@ Los plazos para la prescripción se duplicarán respecto de quienes se encuentre
 
 La prescripción producirá su efecto, aunque no la alegue como excepción el acusado. Los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 102.
 
-Los términos para la prescripción de la acción penal serán continuos y se contarán:
+Los plazos para la prescripción de la acción penal serán continuos; en ellos se considerará el delito con sus modalidades, y se contarán:
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
 
 I.- A partir del momento en que se consumó el delito, si fuere instantáneo;
 
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
+
 II.- A partir del día en que se realizó el último acto de ejecución o se omitió la conducta debida, si el delito fuere en grado de tentativa;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
 
 III.- Desde el día en que se realizó la última conducta, tratándose de delito continuado; y
 
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1984)</small>
+
 IV.- Desde la cesación de la consumación en el delito permanente.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 103.
 
-Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquel en que el condenado se substraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
+Los plazos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquel en que el condenado se sustraiga a la acción de la justicia, si las sanciones son privativas o restrictivas de la libertad, y si no lo son, desde la fecha de la sentencia ejecutoria.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 104.
 
-La acción penal prescribe en un año, si el delito sólo mereciere multa. Si el delito mereciere, además de esta sanción, la corporal, o fuere alternativa, se atenderá en todo caso a la prescripción de la pena corporal, y lo mismo se observará cuando corresponda alguna otra sanción accesoria.
+La acción penal prescribe en un año, si el delito sólo mereciere multa; si el delito mereciere, además de esta sanción, pena privativa de libertad o alternativa, se atenderá a la prescripción de la acción para perseguir la pena privativa de libertad; lo mismo se observará cuando corresponda imponer alguna otra sanción accesoria.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 105.
 
-La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito; pero en ningún caso bajará de tres años.
+La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 106.
 
-Si el delito sólo mereciere destitución, suspensión, privación de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
+La acción penal prescribirá en dos años, si el delito sólo mereciere destitución, suspensión, privación de derecho o inhabilitación, salvo lo previsto en otras normas.
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 107.
 
-La acción penal que nazca de un delito, sea o no continuo, que sólo pueda perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
+Cuando la ley no prevenga otra cosa, la acción penal que nazca de un delito que sólo pueda perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en un año, contado desde el día en que quienes puedan formular la querella o el acto equivalente, tengan conocimiento del delito y del delincuente, y en tres, fuera de esta circunstancia.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 Pero si llenado el requisito inicial de la querella, ya se hubiese deducido la acción ante los tribunales, se observarán las reglas señaladas por la ley para los delitos que se persiguen de oficio.
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 108.
 
-Cuando haya acumulación de delitos, las acciones penales que de ellos resulten se prescribirán separadamente en el término señalado a cada uno.
+En los casos de concurso de delitos, las acciones penales que de ellos resulten, prescribirán cuando prescriba la del delito que merezca pena mayor.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 109.
 
-Cuando para deducir una acción penal sea necesario que antes se termine un juicio diverso, civil o criminal, no comenzará a correr la prescripción sino hasta que en el juicio previo se haya pronunciado sentencia irrevocable.
+Cuando para ejercitar o continuar la acción penal sea necesaria una resolución previa de autoridad jurisdiccional, la prescripción comenzará a correr desde que se dicte la sentencia irrevocable.
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 110.
 
-La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y delincuentes, aunque, por ignorarse quiénes sean éstos, no se practiquen las diligencias contra persona determinada.
+La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y de los delincuentes, aunque por ignorarse quiénes sean éstos no se practiquen las diligencias contra persona determinada.
 
-Si se dejara de actuar, la prescripción comenzará de nuevo desde el dia siguiente a la última diligencia.
+Si se dejare de actuar, la prescripción empezará a correr de nuevo desde el día siguiente al de la última diligencia.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1163,57 +1145,69 @@ Si se dejara de actuar, la prescripción comenzará de nuevo desde el dia siguie
 
 Las prevenciones contenidas en el artículo anterior, no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino con la aprehensión del inculpado.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 112.
 
-Si para deducir una acción penal exigiere la ley previa declaración de alguna autoridad, las gestiones que a ese fin se practiquen, antes del término señalado en el artículo precedente, interrumpirán la prescripción.
+Si para deducir una acción penal exigiere la ley previa declaración o resolución de alguna autoridad, las gestiones que con ese fin se practiquen, antes del término señalado en el artículo precedente, interrumpirán la prescripción.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 113.
 
-La sanción pecuniaria prescribirá en un año; las demás sanciones se prescriben por el transcurso de un término igual al que debían durar y una cuarta parte más; pero nunca excederá de quince años.
+Salvo que la ley disponga otra cosa, la pena privativa de libertad prescribirá en un tiempo igual al fijado en la condena y una cuarta parte más, pero no podrá ser inferior a tres años; la pena de multa prescribirá en un año; las demás sanciones prescribirán en un plazo igual al que deberían durar y una cuarta parte más, sin que pueda ser inferior a dos años; las que no tengan temporalidad, prescribirán en dos años. Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 114.
 
-Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más de ese tiempo; pero estos dos períodos no excederán de quince años.
+Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena y una cuarta parte más, pero no podrá ser menor de un año.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 115.
 
-La prescripción de la sanciones corporales, sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso.
+La prescripción de la sanción privativa de libertad, sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso. Si se dejare de actuar, la prescripción comenzará a correr de nuevo desde el día siguiente al de la última diligencia.
 
-La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
+La prescripción de las demás sanciones se interrumpirá, por cualquier acto de autoridad competente para hacer las (sic) efectivas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO VIII. Vigencia y Aplicación de una Nueva Ley más Favorable
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+###### ARTICULO 116.
+
+La pena y la medida de seguridad se extinguen, con todos sus efectos, por cumplimiento de aquéllas o de las sanciones por las que hubiesen sido sustituidas o conmutadas. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgarla, en los términos y dentro de los plazos legalmente aplicables.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO IX. Existencia de una Sentencia Anterior Dictada en Proceso Seguido por los Mismos Hechos
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+###### ARTICULO 117.
+
+La ley que suprime el tipo penal o lo modifique, extingue, en su caso, la acción penal o la sanción correspondiente, conforme a lo dispuesto en el artículo 56.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO X. Extinción de las Medidas de Tratamiento de Inimputables
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
+
+ARTICULO 118 bis.- Cuando el inimputable sujeto a una medida de tratamiento se encontrare prófugo y posteriormente fuera detenido, la ejecución de la medida de tratamiento se considerará extinguida si se acredita que las condiciones personales del sujeto no corresponden ya a las que hubieran dado origen a su imposición.
+
+###### ARTICULO 118.
+
+Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Cuando se hubiese dictado sentencia en un proceso y aparezca que existe otro en relación con la misma persona y por los mismos hechos considerados en aquél, concluirá el segundo proceso mediante resolución que dictará de oficio la autoridad que esté conociendo. Si existen dos sentencias sobre los mismos hechos, se extinguirán los efectos de la dictada en segundo término.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO I. Traición a la patria
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
-###### ARTICULO 116.
-
-La privación de derechos civiles o políticos prescribirá en veinte años.
-
-### CAPITULO II. Espionaje
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
-###### ARTICULO 117.
-
-Los reos de homicidio intencional o de heridas o violencias graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde viva el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido, después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-### CAPITULO III. Sedición
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
-
-###### ARTICULO 118.
-
-Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las primeras, según el delito de que se trate.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
-
-### CAPITULO IV. Motín
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ## TITULO SEXTO. De los menores
 
@@ -1241,7 +1235,7 @@ Para la prescripción de las acciones penales, se tendrá como base el término 
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO V. Rebelión
+### CAPITULO II. Espionaje
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1309,7 +1303,7 @@ Se aplicarán las mismas penas a los extranjeros que intervengan en la comisión
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO VI. Terrorismo
+### CAPITULO III. Sedición
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1335,7 +1329,7 @@ Se impondrá la pena de seis meses a cinco años de prisión y multa hasta de ci
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO VII. Sabotaje
+### CAPITULO IV. Motín
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1347,7 +1341,7 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO VIII. Conspiración
+### CAPITULO V. Rebelión
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1359,7 +1353,7 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO IX. Disposiciones comunes para los capítulos de este Título
+### CAPITULO VI. Terrorismo
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1427,7 +1421,9 @@ No se aplicará pena a los que depongan las armas antes de ser tomados prisioner
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO I. Piratería
+### CAPITULO VII. Sabotaje
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 139.
 
@@ -1437,11 +1433,13 @@ Se aplicará pena de uno a nueve años de prisión y multa hasta de diez mil pes
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO II. Violación de inmunidad y de neutralidad
+### CAPITULO VIII. Conspiración
 
-### CAPITULO I. Violación de los deberes de humanidad
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-> <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
+### CAPITULO IX. Disposiciones comunes para los capítulos de este Título
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 140.
 
@@ -1451,21 +1449,7 @@ Se aplicará pena de seis meses a cinco años de prisión y multa hasta de cinco
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO II. Genocidio
-
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
-
-ARTICULO 149 bis.- Comete el delito de genocidio el que con el propósito de destruir, total o parcialmente a uno o más grupos nacionales o de carácter étnico, racial o religioso, perpetrase por cualquier medio, delitos contra la vida de miembros de aquellos, o impusiese la esterilización masiva con el fin de impedir la reproducción del grupo.
-
-Por tal delito se impondrán de veinte a cuarenta años de prisión y multa de quince mil a veinte mil pesos.
-
-Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal o a la salud de los miembros de dichas comunidades o se trasladaren de ellas a otros grupos menores de diez y seis años, empleando para ello la violencia física o moral, la sanción será de cinco a veinte años de prisión y multa de dos mil a siete mil pesos.
-
-Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
-
-En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
-
-(REUBICADO [N. DE E. ANTES TITULO QUINTO], D.O.F. 29 DE JULIO DE 1970)
+### CAPITULO I. Piratería
 
 ###### ARTICULO 141.
 
@@ -1473,7 +1457,7 @@ Se impondrá pena de uno a nueve años de prisión y multa hasta de diez mil pes
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO I. Evasión de presos
+### CAPITULO II. Violación de inmunidad y de neutralidad
 
 ###### ARTICULO 142.
 
@@ -1505,7 +1489,9 @@ Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a c
 
 ## TITULO SEGUNDO. Delitos contra el Derecho Internacional
 
-### CAPITULO II. Quebrantamiento de sanción
+### CAPITULO I. Violación de los deberes de humanidad
+
+> <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 146.
 
@@ -1521,9 +1507,21 @@ III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el c
 
 Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
 
-### CAPITULO III. Armas prohibidas
+### CAPITULO II. Genocidio
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
+ARTICULO 149 bis.- Comete el delito de genocidio el que con el propósito de destruir, total o parcialmente a uno o más grupos nacionales o de carácter étnico, racial o religioso, perpetrase por cualquier medio, delitos contra la vida de miembros de aquellos, o impusiese la esterilización masiva con el fin de impedir la reproducción del grupo.
+
+Por tal delito se impondrán de veinte a cuarenta años de prisión y multa de quince mil a veinte mil pesos.
+
+Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal o a la salud de los miembros de dichas comunidades o se trasladaren de ellas a otros grupos menores de diez y seis años, empleando para ello la violencia física o moral, la sanción será de cinco a veinte años de prisión y multa de dos mil a siete mil pesos.
+
+Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
+
+En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
+
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 148.
 
@@ -1541,15 +1539,13 @@ En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces 
 
 (REUBICADO [N. DE E. ANTES TITULO CUARTO], D.O.F. 29 DE JULIO DE 1970)
 
-### CAPITULO IV. Asociaciones delictuosas
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO I. Evasión de presos
 
 ## TITULO TERCERO. Delitos contra la humanidad
 
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
-### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
+### CAPITULO II. Quebrantamiento de sanción
 
 ###### ARTICULO 149.
 
@@ -1557,17 +1553,21 @@ Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE ENERO DE 1967)</small>
 
-### CAPITULO II. Violación de correspondencia
+### CAPITULO III. Armas prohibidas
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ## TITULO CUARTO. Delitos contra la seguridad pública
 
-### CAPITULO I. Desobediencia y resistencia de particulares
+### CAPITULO IV. Asociaciones delictuosas
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
+### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
 
 ###### ARTICULO 150.
 
@@ -1589,7 +1589,7 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
-### CAPITULO III. Quebrantamiento de sellos
+### CAPITULO II. Violación de correspondencia
 
 ###### ARTICULO 155.
 
@@ -1617,9 +1617,7 @@ II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en 
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena pagará una multa de veinte a mil pesos. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
 
-### CAPITULO IV. Delitos cometidos contra funcionarios públicos
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO I. Desobediencia y resistencia de particulares
 
 ###### ARTICULO 160.
 
@@ -1667,11 +1665,9 @@ a). Otorgar fianza por la cantidad que fije la autoridad, y
 
 b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
 
-### CAPITULO V. Ultrajes a las insignias nacionales
+### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
 
-### CAPITULO I. De la producción, tenencia, tráfico, proselitismo y otros actos en materia de estupefacientes y psicotrópicos
-
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+### CAPITULO III. Quebrantamiento de sellos
 
 ###### ARTICULO 164.
 
@@ -1689,9 +1685,9 @@ Se entiende por pandilla, para los efectos de esta disposición la reunión habi
 
 ## TITULO SEXTO. Delitos contra la autoridad
 
-### CAPITULO II. Del peligro de contagio
+### CAPITULO IV. Delitos cometidos contra funcionarios públicos
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 165.
 
@@ -1765,13 +1761,11 @@ II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa 
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO I. Ultrajes a la moral pública
+### CAPITULO V. Ultrajes a las insignias nacionales
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+### CAPITULO I. De la producción, tenencia, tráfico, proselitismo y otros actos en materia de estupefacientes y psicotrópicos
 
-### CAPITULO II. Corrupción de menores
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 173.
 
@@ -1805,7 +1799,9 @@ Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-### CAPITULO III. Trata de personas y lenocinio
+### CAPITULO II. Del peligro de contagio
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ###### ARTICULO 178.
 
@@ -1833,7 +1829,9 @@ El que, debiendo ser examinado en juicio y sin que le aprovechen las excepciones
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
-### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
+### CAPITULO I. Ultrajes a la moral pública
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 199 Bis.
 
@@ -1857,9 +1855,9 @@ Cuando el delito se cometa por varias personas, de común acuerdo, la sanción s
 
 A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de veinte a quinientos pesos, cuando no hubiere lugar a la reparación del daño.
 
-### CAPITULO I
+### CAPITULO II. Corrupción de menores
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 187.
 
@@ -1869,9 +1867,7 @@ Al que quebrante los sellos puestos por orden de la autoridad pública, se le ap
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### CAPITULO II. Ejercicio indebido de servicio público
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+### CAPITULO III. Trata de personas y lenocinio
 
 ###### ARTICULO 189.
 
@@ -1883,9 +1879,7 @@ Al que cometa un delito en contra de un funcionario público o agente de la auto
 
 Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cinco a doscientos pesos.
 
-### CAPITULO III. Abuso de autoridad
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
 
 ###### ARTICULO 191.
 
@@ -1901,7 +1895,7 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
-### CAPITULO IV. Coalición de servidores públicos
+### CAPITULO I
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -1987,11 +1981,11 @@ Tratándose de vehículos, instrumentos y demás objetos relacionados con cuales
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-### CAPITULO V. Uso indebido de atribuciones y facultades
+### CAPITULO II. Ejercicio indebido de servicio público
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VI. Concusión
+### CAPITULO III. Abuso de autoridad
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -1999,11 +1993,11 @@ Tratándose de vehículos, instrumentos y demás objetos relacionados con cuales
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO VII. Intimidación
+### CAPITULO IV. Coalición de servidores públicos
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VIII. Ejercicio abusivo de funciones
+### CAPITULO V. Uso indebido de atribuciones y facultades
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2011,9 +2005,9 @@ Tratándose de vehículos, instrumentos y demás objetos relacionados con cuales
 
 > <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO IX. Tráfico de Influencia
+### CAPITULO VI. Concusión
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 200.
 
@@ -2043,7 +2037,7 @@ Si además de los delitos previstos en este capítulo resultase cometido otro, s
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO X. Cohecho
+### CAPITULO VII. Intimidación
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2057,7 +2051,7 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO XII (sic). Peculado
+### CAPITULO VIII. Ejercicio abusivo de funciones
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2065,9 +2059,9 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 
-### CAPITULO XIII (sic). Enriquecimiento ilícito
+### CAPITULO IX. Tráfico de Influencia
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 204.
 
@@ -2075,9 +2069,9 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO I. Delitos cometidos por los servidores públicos
+### CAPITULO X. Cohecho
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 205.
 
@@ -2087,9 +2081,9 @@ Si se emplease violencia o el agente se valiese de una función pública que tuv
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO II. Ejercicio indebido del propio derecho
+### CAPITULO XII (sic). Peculado
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 206.
 
@@ -2107,15 +2101,15 @@ II.- Al que induzca o solicite a una persona para que con otra, comercie sexualm
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIII (sic). Enriquecimiento ilícito
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 208.
 
-Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de cinco a diez años de prisión y multa de mil a cinco mil pesos.
+Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de seis a diez años de prisión y de diez a veinte días multa.
 
 ###### ARTICULO 209.
 
@@ -2123,19 +2117,23 @@ Al que provoque públicamente a cometer un delito, o haga la apología de éste 
 
 (REUBICADO [N. DE E. ANTES TITULO DECIMO], D.O.F. 29 DE JULIO DE 1970)
 
-### CAPITULO II. Delitos de abogados, patronos y litigantes
+### CAPITULO I. Delitos cometidos por los servidores públicos
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO I. Falsificación y alteración de moneda
+### CAPITULO II. Ejercicio indebido del propio derecho
 
-### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+### CAPITULO I. Disposiciones generales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ## TITULO VIGESIMO. Delitos contra el honor
 
-### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+### CAPITULO II. Delitos de abogados, patronos y litigantes
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 210.
 
@@ -2147,13 +2145,13 @@ La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO IV. Falsificación de documentos en general
+### CAPITULO I. Falsificación y alteración de moneda
 
 ## TITULO VIGESIMO PRIMERO. Privación ilegal de la libertad y de otras garantías
 
 > <small>(DEROGADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
+### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -2171,7 +2169,7 @@ Para la individualización de las sanciones previstas en este Título, el Juez t
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VI. Variación del nombre o del domicilio
+### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
 ###### ARTICULO 214.
 
@@ -2191,9 +2189,7 @@ Al infractor de las fracciones III y IV, se le impondrán de dos años a siete a
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas
-
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
+### CAPITULO IV. Falsificación de documentos en general
 
 ###### ARTICULO 215.
 
@@ -2229,11 +2225,11 @@ Iguales sanciones se impondrán a las personas que acepten los nombramientos, co
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
+### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
+### CAPITULO VI. Variación del nombre o del domicilio
 
 ###### ARTICULO 216.
 
@@ -2243,9 +2239,9 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO II. Vagos y malvivientes
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
 
 ###### ARTICULO 217.
 
@@ -2273,9 +2269,11 @@ Cuando el monto a que asciendan las operaciones a que hace referencia este Artí
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO III. Juegos prohibidos
+### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
-### CAPITULO I. Atentados al pudor, estupro y violación
+### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 218.
 
@@ -2289,9 +2287,9 @@ Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas v
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO II. Rapto
+### CAPITULO II. Vagos y malvivientes
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 219.
 
@@ -2305,7 +2303,7 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO III. Incesto
+### CAPITULO III. Juegos prohibidos
 
 ###### ARTICULO 220.
 
@@ -2323,7 +2321,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este Ar
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO IV. Adulterio
+### CAPITULO I. Atentados al pudor, estupro y violación
 
 ###### ARTICULO 221.
 
@@ -2339,17 +2337,9 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO V. Disposiciones generales
+### CAPITULO II. Rapto
 
-> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
-
-ARTICULO 276 bis.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
-
-(REUBICADO [N. DE E. ANTES TITULO DECIMOSEPTIMO], D.O.F. 29 DE JULIO DE 1970)
-
-TITULO DECIMOSEXTO
-
-Delitos contra el estado civil y bigamia
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 222.
 
@@ -2369,11 +2359,9 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
+### CAPITULO III. Incesto
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO I. Amenazas
+### CAPITULO IV. Adulterio
 
 ###### ARTICULO 223.
 
@@ -2395,7 +2383,17 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO II. Allanamiento de morada y asalto
+### CAPITULO V. Disposiciones generales
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
+
+ARTICULO 276 bis.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEPTIMO], D.O.F. 29 DE JULIO DE 1970)
+
+TITULO DECIMOSEXTO
+
+Delitos contra el estado civil y bigamia
 
 ###### ARTICULO 224.
 
@@ -2419,7 +2417,9 @@ Delitos cometidos contra la administración de justicia
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO I. Lesiones
+### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 225.
 
@@ -2485,7 +2485,7 @@ En todos los delitos previstos en este capítulo, además de la pena de prisión
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO II. Homicidio
+### CAPITULO I. Amenazas
 
 ###### ARTICULO 226.
 
@@ -2503,9 +2503,7 @@ Responsabilidad profesional
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 228.
 
@@ -2535,7 +2533,7 @@ III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cu
 
 La misma sanción se impondrá a los encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver, e igualmente a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina, específicamente recetada por otra que cauce (sic) daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
-### CAPITULO IV. Parricidio
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 231.
 
@@ -2567,9 +2565,7 @@ TITULO DECIMOTERCERO
 
 Falsedad
 
-### CAPITULO V. Infanticidio
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 234.
 
@@ -2619,7 +2615,9 @@ Al que comete el delito de falsificación de billetes de banco en grado de tenta
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
-### CAPITULO VI. Aborto
+### CAPITULO III. Reglas comunes para lesiones y homicidio
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 239.
 
@@ -2639,7 +2637,7 @@ III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o emp
 
 Al que introduzca a la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 239, y se le aplicará también en su caso, la parte final del artículo 236.
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO IV. Parricidio
 
 ###### ARTICULO 241.
 
@@ -2681,7 +2679,9 @@ VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los obje
 
 ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos, al que en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registradas ante la autoridad competente.
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+### CAPITULO V. Infanticidio
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 243.
 
@@ -2712,6 +2712,10 @@ VII.- Añadiendo o alterando cláusulas o declaraciones, o asentando como cierto
 VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales, suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancial, y
 
 IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+X.- Elaborando placas, gafetes, distintivos, documentos o cualquier otra identificación oficial, sin contar con la autorización de la autoridad correspondiente.
 
 ###### ARTICULO 245.
 
@@ -2749,7 +2753,7 @@ VI.- Los encargados del servicio telegráfico, telefónico o de radio que supong
 
 VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 247.
 
@@ -2777,9 +2781,7 @@ V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los
 
 El testigo perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o ante la judicial antes de que se pronuncie sentencia en la instancia en que las diere sólo pagará una multa de diez a doscientos cincuenta pesos, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 249.
 
@@ -2793,7 +2795,7 @@ III.- Al funcionario o empleado público que, en los actos propios de su cargo, 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1985)</small>
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 250.
 
@@ -2819,9 +2821,7 @@ III.- Al extranjero que ejerza una profesión reglamentada sin tener autorizaci�
 
 IV.- Al que usare condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas a las que no tengan derecho. Podrá aumentarse la pena hasta la mitad más de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 1970)</small>
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 251.
 
@@ -2839,7 +2839,9 @@ Delitos contra la economía pública
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1955)</small>
 
-### CAPITULO I. Robo
+### CAPITULO III. Calumnia
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 253.
 
@@ -2909,9 +2911,7 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 
-### CAPITULO II. Abuso de confianza
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 255.
 
@@ -2923,9 +2923,9 @@ Se estimarán malos antecedentes para los efectos de este artículo: ser identif
 
 A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cualquier otro instrumento que dé motivo para sospechar que tratan de cometer un delito, se les aplicará una sanción de tres días a seis meses de prisión, y quedarán sujetos durante el tiempo que el juez estime pertinente, a la vigilancia de la policía.
 
-### CAPITULO III. Fraude
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 257.
 
@@ -2945,9 +2945,7 @@ TITULO DECIMOQUINTO
 
 Delitos sexuales
 
-### CAPITULO III BIS. Extorsión
-
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 260.
 
@@ -2993,7 +2991,9 @@ Además de las sanciones que señalan los artículos que anteceden, se impondrá
 
 Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO II. Abuso de confianza
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 267.
 
@@ -3019,9 +3019,9 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida o de su m
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por éste último.
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
+### CAPITULO III. Fraude
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 272.
 
@@ -3031,7 +3031,9 @@ La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO III BIS. Extorsión
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 273.
 
@@ -3052,6 +3054,8 @@ Sólo se castigará el adulterio consumado.
 Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
+
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 277.
 
@@ -3083,6 +3087,10 @@ Delitos en materia de inhumaciones y exhumaciones
 
 > <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 280.
 
 Se impondrán prisión de tres días a dos años y multa de cinco a dos mil pesos:
@@ -3110,6 +3118,8 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilac
 TITULO DECIMOCTAVO
 
 Delitos contra la paz y seguridad de las personas
+
+### CAPITULO VI. Daño en propiedad ajena
 
 ###### ARTICULO 282.
 
@@ -3205,13 +3215,7 @@ Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores 
 
 ###### ARTICULO 296.
 
-Cuando las lesiones se infieran por dos o más personas, se observarán las reglas siguientes:
-
-I.- A cada uno de los responsables se les aplicarán las sanciones que procedan por las lesiones que conste hubieren inferido;
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- A todos los que hubieren atacado al ofendido con armas a propósito para inferirle las lesiones que recibió, si no constare quién o quiénes le infirieron las que presente o cuáles heridas le infirieron, se les aplicará prisión hasta de cuatro años.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -3297,19 +3301,9 @@ Si el homicidio se comete en duelo, se aplicará a su autor de dos a ocho años 
 
 Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas dentro de los mínimos y máximos anteriormente señalados, se tomará en cuenta quién fué el provocado y quién el provocador, así como la mayor o menor importancia de la provocación.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
-
 ###### ARTICULO 309.
 
-Cuando en la comisión del homicidio intervengan tres o más personas, se observarán las reglas siguientes:
-
-I.- Si la víctima recibiere una o varias lesiones mortales y constare quién o quiénes las infirieron, se aplicará a éstos, o a aquél, la sanción como homicidas;
-
-II.- Si la víctima recibiere una o varias lesiones mortales y no constare quién o quiénes fueron los responsables, se impondrá a todos, sanción de tres a nueve años de prisión;
-
-III.- Cuando las lesiones sean unas mortales y otras no y se ignore quiénes infirieron las primeras, pero constare quiénes lesionaron, se aplicará sanción, a todos, de tres a nueve años de prisión, a menos que justifiquen haber inferido las lesiones no mortales, en cuyo caso se impondrá la sanción que corresponda por dichas lesiones; y
-
-IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se aplicará sanción de tres a nueve años de prisión a todos los que hubieren atacado al occiso con armas a propósito para inferir las heridas que aquél recibió.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 310.
 
@@ -3519,39 +3513,27 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 ###### ARTICULO 344.
 
-Se aplicarán de tres días a un año de prisión y multa de cinco a trescientos pesos:
-
-I.- Al que, públicamente y fuera de riña, diere a otro una bofetada, un puñetazo, un latigazo, o cualquier otro golpe en la cara;
-
-II.- Al que azotare a otro por injuriarle, y
-
-III.- Al que infiera cualquier otro golpe simple.
-
-Son simples los golpes y violencias físicas que no causen lesión alguna y sólo se castigarán cuando se infieran con intención de ofender a quien los recibe.
-
-Los jueces podrán, además, declarar a los reos de golpes sujetos a la vigilancia de la autoridad, prohibirles ir a determinado lugar y obligarlos a otorgar la caución de no ofender, siempre que lo crean conveniente.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 345.
 
-En los casos de las fracciones I y II del artículo anterior, la prisión podrá ser hasta de tres años cuando los golpes y las violencias simples se infieran a un ascendiente.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 346.
 
-No se podrá proceder contra el autor de golpes o violencias, sino por queja del ofendido, a no ser cuando el delito se cometa en una reunión o lugar público.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 347.
 
-Los golpes dados y las violencias simples hechas en ejercicio del derecho de corrección, no son punibles.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 348.
 
-El delito de injuria se castigará con tres días a un año de prisión o multa de dos a doscientos pesos, o ambas sanciones, a juicio del juez.
-
-Injuria es: toda expresión proferida o toda acción ejecutada para manifestar desprecio a otro, o con el fin de hacerle una ofensa.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 349.
 
-Cuando las injurias fueren recíprocas, el juez podrá, según las circunstancias, declarar exentas de pena a las dos partes o alguna de ellas, o exigirles la caución de no ofender.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
 ###### ARTICULO 350.
 
@@ -3933,7 +3915,7 @@ VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entre
 
 VII.- Al que vende a dos personas una misma cosa sea mueble o raíz y recibe el precio de la primera o de la segunda enajenación, de ambas o parte de él, o cualquier otro lucro con perjuicio del primero o del segundo comprador;
 
-VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usuarias (sic) por medio de contratos o convenios en los;cuales se estipulen réditos o lucros superiores a los usuales en el mercado;
+VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usuarias (sic) por medio de contratos o convenios en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado;
 
 IX.- Al que para obtener un lucro indebido, ponga en circulación fichas, tarjetas, planchuelas u otros objetos de cualquier materia como signos convencionales en substitución de la moneda legal;
 
@@ -3989,7 +3971,7 @@ XXI.- Al que libre un cheque contra una cuenta bancaria, que sea rechazado por l
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
 
-No se procederá contra el agente cuando el libramiento no hubiese tenido como fin el procurarse ilícitamente una cosa u obtener un lucro indebido;
+No se procederá contra el agente cuando el libramiento no hubiese tenido como fin el procurarse ilícitamente una cosa u obtener un lucro indebido.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -4105,13 +4087,29 @@ I.- Con ánimo de lucro, después de la ejecución del delito y sin haber partic
 
 Si el que recibió la cosa en venta, prenda o bajo cualquier otro concepto, no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la pena se disminuirá hasta en una mitad;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+Para los efectos del párrafo anterior, los adquirentes de vehículos de motor deberán tramitar la transferencia o regularización de vehículo, cerciorándose de su legítima procedencia;
+
 II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
-III.- Oculte al responsable de un delito, o lo efectos, objetos o instrumentos del mismo, o impida que se averigue;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo o impida que se averigüe;
 
 IV.- Requerido por las autoridades, no de auxilio para la investigación de los delitos o para la persecución de los delincuentes; y
 
 V.- No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
+No se aplicará la pena prevista en este artículo en los casos de las fracciones III, en lo referente al ocultamiento del infractor, y IV, cuando se trate de:
+
+a) Los ascendientes y descendientes consanguíneos o afines;
+
+b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el cuarto grado, y por afinidad hasta el segundo; y
+
+c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad derivados de motivos nobles.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -4490,3 +4488,13 @@ D.O.F. 21 DE ENERO DE 1985.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Las presente (sic) reformas, adiciones y derogaciones entrarán en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se concede un plazo de seis meses, a partir de la fecha de vigencia de las presentes reformas, para que las personas obligadas en los términos de la fracción I del Artículo 400, que se reforma, procedan a verificar o regularizar la situación del vehículo de que se trate.
