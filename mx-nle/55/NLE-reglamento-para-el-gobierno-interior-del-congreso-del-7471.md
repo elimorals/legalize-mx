@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1998-09-16"
+last_updated: "1999-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -345,271 +345,217 @@ Para el despacho de los asuntos que competen al Congreso, se designarán las Com
 
 Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 ###### Artículo 39.
 
-Las Comisiones Permanentes de Dictamen Legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
+Para la elaboración de los proyectos de dictámenes, las Comisiones de Dictamen Legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
 
-I.- GOBERNACIÓN
+I.- Comisión de Gobernación y Organización Interna de los Poderes:
 
-a).- Los relacionados con la extensión territorial y límites municipales.
+a) Los relacionados con la extensión territorial y límites municipales;
 
-b).- Las controversias que se susciten entre el ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado.
+b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c).- Las renuncias y licencias del Ejecutivo y los Diputados.
+c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
 
-d).- La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y Magistrados del Tribunal Electoral del Estado.
+d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y de los Magistrados del Tribunal Electoral del Estado;
 
-e).- El establecimiento o supresión de municipalidades.
+e) El establecimiento o supresión de municipalidades;
 
-f).- La suspensión y desaparición de Ayuntamientos.
+f) La suspensión o desaparición de Ayuntamientos;
 
-g).- La suspensión y revocación del mandato de los miembros del Ayuntamiento.
+g) La suspensión o revocación del mandato de los miembros del Ayuntamiento;
 
-h).- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado, aprobarlos y pedir al Congreso de la Unión su aprobación.
+h) Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado, aprobarlos y pedir al Congreso de la Unión su aprobación;
 
-i).- El nombramiento del Gobernador Interino o Sustituto.
+i) El nombramiento del Gobernador Interino o Sustituto;
 
-j).- La elevación de villas a categorías de ciudades.
+j) La elevación de villas a categoría de ciudades;
 
-k).- La designación de Consejos Municipales.
+k) La designación de Concejos Municipales;
 
-l).- La declaratoria para proveer la vacante de los miembros del Ayuntamiento y la designación de Presidente Municipal Sustituto.
+l) La declaratoria para proveer la vacante de los miembros del Ayuntamiento y la designación de Presidente Municipal Sustituto;
 
-m).- Los demás asuntos que le encomiende el Pleno.
+m) Lo relativo a la creación de empleos y oficinas que requiera la Administración Pública del Estado, así como la supresión de éstos cuando cese su necesidad;
 
-II.- LEGISLACIÓN Y PUNTOS CONSTITUCIONALES
+n) Las iniciativas relacionadas con la organización y estructura de los Poderes Ejecutivo y Judicial;
 
-a).- Las reformas a la Constitución Política de los Estados Unidos Mexicanos.
+ñ) Las iniciativas relativas a la regulación del acceso por parte del ciudadano a la toma de decisiones del Estado o sus municipios, para fortalecer la vida democrática en los mismos; y
 
-b).- Las reformas a la Constitución Política del Estado.
+o) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-c).- La interpretación de la legislación del Estado.
+II.- Comisión de Legislación y Puntos Constitucionales:
 
-d).- La iniciación ante el Congreso de la Unión de las Leyes que a éste competan, así como su reforma o derogación.
+a) Las reformas a la Constitución Política de los Estados Unidos Mexicanos;
 
-e).- La resolución sobre la conveniencia de secundar las iniciativas hechas por las legislaturas de otras Entidades Federativas.
+b) Las reformas a la Constitución Política del Estado;
 
-f).- La reclamación sobre las Leyes del Congreso de la Unión y de las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales.
+c) La interpretación de la legislación del Estado, mediante la expedición de normas de carácter general;
 
-g).- Las reformas a la Ley Orgánica Municipal y a las bases generales a las que se sujetan los Ayuntamientos.
+d) La iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
 
-h).- Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamento.
+e) La resolución sobre la conveniencia de secundar las iniciativas hechas por las Legislaturas de otras Entidades Federativas;
 
-i).- Las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar.
+f) La reclamación sobre las leyes del Congreso de la Unión y de las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales;
 
-j).- La expedición y reforma a la legislación civil y penal, en su aspecto sustantivo.
+g) Las reformas a la Ley Orgánica Municipal y a las bases generales a las que se sujetan los Ayuntamientos;
 
-k).- La designación de los Comisionados Ciudadanos a la Comisión Estatal Electoral.
+h) Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamento;
 
-l).- Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las Leyes emanadas de la misma.
+i) Las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar;
 
-m).- Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de Corrección de Estilo y Técnica Legislativa.
+j) La expedición y reforma a la legislación civil y penal, en su aspecto sustantivo;
 
-n).- La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra comisión.
+k) La designación de los Comisionados Ciudadanos a la Comisión Estatal Electoral;
 
-III.- JUSTICIA
+l) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
 
-a).- La expedición y reforma de la legislación civil y penal, en su aspecto adjetivo.
+m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
 
-b).- La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia.
+n) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
 
-c).- Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia.
+ñ) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-d).- Los nombramientos de Magistrados del Tribunal de lo Contencioso Administrativo del Estado.
+III.- Comisión de Justicia y Seguridad Pública:
 
-e).- Los casos relativos a la concesión de amnistía por delitos políticos.
+a) La expedición y reforma de la legislación civil y penal, en su aspecto adjetivo;
 
-f).- Actuar como Comisión Jurisdiccional en los casos de Juicio Político y Declaratoria de Procedencia, cuando no se nombre una temporal.
+b) La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
 
-g).- Los demás asuntos en materia de administración, impartición y procuración de justicia, cuando el Pleno así lo determine.
+c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado;
 
-IV.- ORGANIZACIÓN INTERNA DE LOS PODERES
+d) La aprobación para la designación de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
 
-a).- Lo relativo a la creación de empleos y oficinas que requiera la Administración Pública del Estado, así como la supresión de éstos cuando cese su necesidad.
+e) La aprobación para la designación del Procurador General de Justicia del Estado;
 
-b).- Las iniciativas relacionadas con la organización y estructura de los Poderes Ejecutivo y Judicial.
+f) Los casos relativos a la concesión de amnistía por delitos políticos;
 
-c).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+g) Actuar como Comisión Jurisdiccional en los casos de Juicio Político y Declaratoria de Procedencia, cuando no se nombre una temporal;
 
-V.- SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL
+h) Las iniciativas relativas al orden público, la seguridad y la tranquilidad de las personas;
 
-a).- Las iniciativas relativas al orden público y la tranquilidad de las personas.
+i) Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil; y
 
-b).- Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil.
+j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-c).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+IV.- Comisión de Desarrollo Humano:
 
-VI.- DERECHOS HUMANOS
+a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos de los individuos y grupos sociales;
 
-a).- Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos de los individuos y grupos sociales que regula la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+b) Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad;
 
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+c) Las iniciativas en materia de la regulación de los derechos del niño;
 
-VII.- PARTICIPACIÓN CIUDADANA
+d) La legislación relativa al desarrollo integral de la juventud;
 
-a).- Las iniciativas relativas a la regulación del acceso de la ciudadanía a la toma de decisiones del Estado, para fortalecer la vida democrática en el mismo.
+e) La legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas de la tercera edad, tendiente a mejorar su calidad de vida;
 
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+f) La legislación relacionada con la salud pública del Estado;
 
-VIII.- FAMILIA
+g) Las iniciativas relacionadas al apoyo social temporal, encaminado a la dignificación de las personas y grupos sociales económicamente desprotegidos;
 
-a).- Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad.
+h) Lo relativo a los discapacitados y su integración a la sociedad;
 
-b).- Las iniciativas en materia de la regulación de los derechos del niño, consagrados en la Constitución Política del Estado.
+i) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo; y
 
-c).- La legislación relativa al desarrollo integral de la juventud.
+j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-d).- La legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas de la tercera edad, tendiente a mejorar su calidad de vida.
+V.- Comisión de Derechos de las Mujeres:
 
-e).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+a) Las iniciativas relacionadas al fortalecimiento de la igualdad jurídica del varón y la mujer;
 
-IX.- DERECHOS DE LAS MUJERES
+b) Los asuntos relativos al fomento y promoción de los derechos de la mujer, así como la orientación y elaboración de iniciativas de Ley en la materia;
 
-a).- Las iniciativas relacionadas al fortalecimiento de la igualdad jurídica del varón y la mujer.
+c) La Organización de foros y promoción de consultas sobre los asuntos concernientes a los derechos de la mujer; y
 
-b).- Los asuntos relativos al fomento y promoción de los derechos de la mujer, así como la orientación y elaboración de iniciativas de ley en la materia.
+d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-c).- Organizar foros y promover la consulta de los asuntos concernientes a los derechos de la mujer.
+VI.- Comisión de Educación, Cultura y Deporte:
 
-d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+a) Las reformas a la Ley de Educación del Estado;
 
-X.- EDUCACIÓN, CULTURA Y DEPORTE
+b) Las reformas a la Ley Orgánica de la Universidad Autónoma de Nuevo León y demás relativas;
 
-a).- Las reformas a la Ley de Educación del Estado.
+c) Las iniciativas en materia de cultura;
 
-b).- Las reformas a la Ley Orgánica de la Universidad Autónoma de Nuevo León y demás relativas.
+d) Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado;
 
-c).- Las iniciativas en materia de cultura.
+e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
-d).- Lo concerniente a la dispensa de honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado.
+f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-e).- Las iniciativas relativas al fortalecimiento de actividades deportivas.
+VII.- Comisión de Ecología:
 
-f).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+a) La legislación relativa a la protección y preservación del equilibrio ecológico; y
 
-XI.- SALUD PÚBLICA Y ASISTENCIA SOCIAL
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-a).- La legislación relacionada con la salud pública del Estado.
+VIII.- Comisión de Desarrollo Urbano y Transporte:
 
-b).- Las iniciativas relacionados (sic) al apoyo social temporal, encaminado a la dignificación de las personas y grupos sociales y económicamente desprotegidos.
+a) La legislación relativa a asentamientos humanos, ordenamiento territorial y vivienda en el Estado;
 
-c).- Lo relativo a los discapacitados y su integración a la sociedad.
+b) Lo relativo al examen y aprobación de obras de pública utilidad del Estado;
 
-d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+c) Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado y los Municipios;
 
-XII.- ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y OBRAS PÚBLICAS
+d) Lo concerniente al desarrollo y planificación de centros de población alternos al área metropolitana de Monterrey para reordenar el desarrollo regional;
 
-a).- La legislación relativa al Desarrollo Urbano y los Asentamientos Humanos del Estado.
+e) La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales, así como la prestación directa o concesionada del transporte; y
 
-b).- Lo relativo al examen y aprobación de obras de pública utilidad del Estado.
+f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-c).- Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado y los Municipios.
+IX.- Comisión de Fomento Económico:
 
-d).- Lo concerniente al desarrollo y planificación de centros de población alternos al área metropolitana de Monterrey para reordenar el desarrollo regional.
+a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
 
-e).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+b) La legislación encaminada a fortalecer la actividad turística del Estado;
 
-XIII.- ECOLOGÍA
+c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarrollo económico;
 
-a).- La legislación relativa a la protección y preservación del Equilibrio Ecológico.
+d) Las iniciativas que conlleven a un fortalecimiento en las actividades agrícolas, forestales y ganaderas;
 
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
 
-XIV.- COMUNICACIONES Y TRANSPORTES
+f) La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
 
-a).- La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales, así como la prestación directa o concesionada del transporte.
+g) Las iniciativas en materia del desarrollo del servicio público de carrera; y
 
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-XV.- DESARROLLO ECONÓMICO
+X.- Comisión de Hacienda del Estado:
 
-a).- Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo.
+a) Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado;
 
-b).- La legislación encaminada a fortalecer la actividad turística del estado.
+b) Lo relativo a la asignación y supresión de los sueldos de la Administración Pública del Estado;
 
-c).- Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarrollo económico.
+c) La expedición y reforma de la Ley de Hacienda del Estado y cualquier otra que genere un gravamen o carga fiscal;
 
-d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende
+d) La autorización en su caso, para contratar empréstitos, cuando en garantía se afecten los bienes inmuebles del Estado;
 
-XVI.- FOMENTO AGRÍCOLA, FORESTAL Y GANADERO
+e) Lo relativo a la revisión y en su caso aprobación de la Cuenta Pública del Estado;
 
-a).- Las iniciativas que conlleven a un fortalecimiento en las actividades agrícolas, forestales y ganaderas.
+f) La propuesta que haga el Ejecutivo para el nombramiento del Secretario de Finanzas y Tesorero General del Estado; y
 
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-XVII.- TRABAJO Y SEGURIDAD
+XI.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
-a).- La expedición y reforma de las leyes relativas a la relación de trabajo en los Poderes y Ayuntamientos del Estado y sus trabajadores.
+a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, así como los asuntos relativos a los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: Monterrey, Guadalupe, General Escobedo, Apodaca, Juárez y Cadereyta Jiménez, Nuevo León; y
 
-b).- La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios.
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-c).- Las iniciativas en materia del desarrollo del servicio público de carrera.
+XII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
-d).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, así como los asuntos relativos a los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, García y Santiago, Nuevo León; y
 
-XVIII.- HACIENDA DEL ESTADO
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-a).- Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado.
+XIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
-b).- Lo relativo a la asignación y supresión de los sueldos de la Administración Pública del Estado.
+a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: Galena, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo, Mier y Noriega, Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Pesquería, Marín Higueras, Dr. González, Los Ramones, Cerralvo, Melchor Ocampo, Ciénega de Flores, China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo, General Zuazua, Mina, Abasolo, Hidalgo, El Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de Naranjo y Anáhuac, Nuevo León; y
 
-c).- La expedición y reforma de la Ley de Hacienda del Estado y cualquier otra que genere un gravamen o carga fiscal.
-
-d).- La autorización en su caso para contratar empréstitos, cuando en garantía se afecten los bienes inmuebles del Estado.
-
-e).- Lo relativo a la revisión y en su caso aprobación de la Cuenta Pública del Estado.
-
-f).- Analizar y proponer al Pleno al Secretario de Finanzas y Tesorero General del Estado, de entre la terna que envíe el Ejecutivo.
-
-g).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XIX.- PRIMERA DE HACIENDA MUNICIPAL
-
-a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Monterrey y Guadalupe, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XX.- SEGUNDA DE HACIENDA MUNICIPAL
-
-a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XXI.- TERCERA DE HACIENDA MUNICIPAL
-
-a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Galeana, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo y Mier y Noriega, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XXII.- CUARTA DE HACIENDA MUNICIPAL
-
-a).- lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Santiago, Cadereyta Jiménez y Juárez, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XXIII.- QUINTA DE HACIENDA MUNICIPAL
-
-a).- Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de Apodaca, Pesquería, Marín, Higueras, Dr. González, Los Ramones, Cerralvo, Melchor Ocampo y Ciénega de Flores, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XXIV.- SEXTA DE HACIENDA MUNICIPAL
-
-Lo relativo a las leyes de ingresos y las hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los municipios de China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo y General Zuazua, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XXV.- SÉPTIMA DE HACIENDA MUNICIPAL
-
-a).- Lo relativo a las Leyes de Ingresos y las Hacendarias, los empréstitos que afecten en garantía los bienes inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de General Escobedo, Mina, Abasolo, Hidalgo, Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de Naranjo y Anáhuac, Nuevo León.
-
-b).- Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-XXVI.- INFORMACIÓN Y PETICIONES
-
-a).- Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo.
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 ###### Artículo 40.
 
@@ -679,9 +625,11 @@ Cuando las Comisiones no presenten sus dictámenes y el asunto así lo requiera,
 
 Si llegado ese término no se desahoga el expediente, el Presidente de la Comisión requerida deberá presentar un informe, expresando los motivos por los cuales no se hubiere elaborado el dictamen, decidiendo el Pleno lo conducente, pudiendo el Presidente de la Directiva apoyarse en lo señalado en la fracción XIII del Artículo 24 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### Artículo 55.
 
-Un asunto cuyo estudio corresponda a dos o más comisiones se turnará a todas ellas para que unidas lo estudien y resuelvan.
+Cuando la materia de un asunto así lo requiera, éste podrá turnarse hasta a dos Comisiones de Dictamen Legislativo para que unidas lo estudien y resuelvan, salvo que, por excepción, el Pleno del Congreso acuerde que el asunto se turne a más de dos comisiones.
 
 ###### Artículo 56.
 
@@ -1544,3 +1492,17 @@ P.O. 16 DE SEPTIEMBRE DE 1998.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 1999.
+
+Primero.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha, continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
+
+Tercero.- En la quinta sesión del Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional se elegirá o se ratificará a los integrantes de las Comisiones de Dictamen Legislativo, en los términos del artículo 67 de la Ley Orgánica del Poder Legislativo.
+
+Cuarto.- La Ciudadana Diputada que al entrar en vigencia el presente decreto presida la Comisión de Derechos de las Mujeres, continuará con este cargo hasta la quinta sesión del Primer Período Ordinario de Sesiones, del Tercer Año de Ejercicio Constitucional de la LXVIII Legislatura, en que el Pleno del Congreso designe otro Presidente para dicha Comisión.
+
+Quinto.- Los expedientes de los asuntos que obren en las actuales Comisiones de Dictamen Legislativo y cuya resolución por parte del Pleno del Congreso no se dé antes del día en que inicie la vigencia del presente Decreto, serán recibidos por la Oficialía Mayor que los entregará a la brevedad posible al Presidente de la Comisión que corresponda, de acuerdo a las competencias de las Comisiones que se establecen en el presente Decreto. El Oficial Mayor notificará por escrito a los Diputados integrantes de la LXVIII Legislatura sobre la asignación realizada en los términos de este artículo.
+
+Sexto.- Se deroga cualquier disposición contraria a lo establecido en el presente decreto.
