@@ -4,7 +4,7 @@ identifier: "LOINAH"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1939-02-03"
-last_updated: "1939-02-03"
+last_updated: "1986-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=408&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOINAH"
 
 LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de febrero de 1939.
 
@@ -42,108 +42,206 @@ LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA
 
 Se crea el Instituto Nacional de Antropología e Historia, con personalidad jurídica propia y dependiente de la Secretaría de Educación Pública.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 2o.
 
-El Instituto Nacional de Antropología e Historia desempeñará las funciones siguientes:
+Son objetivos generales del Instituto Nacional de Antropología e Historia la investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de las materias y actividades que son de la competencia del Instituto.
 
-I.- Exploración de las zonas arqueológicas del país.
+Para cumplir con sus objetivos, el Instituto Nacional de Antropología e Historia tendrá las siguientes funciones:
 
-II.- Vigilancia, conservación y restauración de monumentos arqueológicos, históricos y artísticos de la República, así como de los objetos que en dichos monumentos se encuentran.
+I. En los términos del artículo 3o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, aplicar las leyes, reglamentos, decretos y acuerdos en las materias de su competencia.
 
-III.- Investigaciones científicas y artísticas que interesan a la Arqueología e Historia de México, antropológicas y etnográficas, principalmente de la población indígena del país.
+II. Efectuar investigaciones científicas que interesen a la Arqueología e Historia de México, a la Antropología y Etnografía de la población del país.
 
-IV.- Publicación de obras relacionadas con las materias expuestas en las fracciones que anteceden.
+III. En los términos del artículo 7o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, otorgar los permisos y dirigir las labores de restauración y conservación de los monumentos arqueológicos e históricos que efectúen las autoridades de los estados y municipios.
 
-V.- Las demás que las leyes de la República le confieran.
+IV. Proponer a la autoridad competente, la expedición de reglamentos que contengan normas generales y técnicas para la conservación y restauración de zonas y monumentos arqueológicos, históricos y paleontológicos, que sean aplicados en forma coordinada con los gobiernos estatales y municipales.
+
+V. Proponer al Secretario de Educación Pública la celebración de acuerdos de coordinación con las autoridades federales, estatales y municipales, tendientes a la mejor protección y conservación del patrimonio histórico, arqueológico y paleontológico de la nación y del carácter típico y tradicional de las ciudades y poblaciones.
+
+VI. Promover, conjuntamente con los gobiernos de los estados y los municipios, la elaboración de manuales y cartillas de protección del patrimonio arqueológico, histórico y paleontológico, en su ámbito territorial, que adecúen los lineamientos nacionales de conservación y restauración a las condiciones concretas del estado y del municipio.
+
+VII. Efectuar investigaciones científicas en las disciplinas antropológicas, históricas y paleontológicas, de índole teórica o aplicadas a la solución de los problemas de la población del país y a la conservación y uso social del patrimonio respectivo.
+
+VIII. Realizar exploraciones y excavaciones con fines científicos y de conservación de las zonas y monumentos arqueológicos e históricos y de restos paleontológicos del país.
+
+IX. Identificar, investigar, recuperar, rescatar, proteger, restaurar, rehabilitar, vigilar y custodiar en los términos prescritos por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, los respectivos monumentos y zonas, así como los bienes muebles asociados a ellos.
+
+X. Investigar, identificar, recuperar y proteger las tradiciones, las historias orales y los usos, como herencia viva de la capacidad creadora y de la sensibilidad de todos los pueblos y grupos sociales del país.
+
+XI. Proponer al ejecutivo federal las declaratorias de zonas y monumentos arqueológicos e históricos y de restos paleontológicos, sin perjuicio de la facultad del ejecutivo para expedirlas directamente.
+
+XII. Llevar el registro público de las zonas y monumentos arqueológicos e históricos y de los restos paleontológicos.
+
+XIII. Establecer, organizar, mantener, administrar y desarrollar museos, archivos y bibliotecas especializados en los campos de su competencia señalados en esta ley.
+
+XIV. Formular y difundir el catálogo del patrimonio histórico nacional, tanto de los bienes que son del dominio de la nación, como de los que pertenecen a particulares.
+
+XV. Formular y difundir el catálogo de las zonas y monumentos arqueológicos e históricos y la carta arqueológica de la República.
+
+XVI. Publicar obras relacionadas con las materias de su competencia y participar en la difusión y divulgación de los bienes y valores que constituyen el acervo cultural de la nación, haciéndolos accesibles a la comunidad y promoviendo el respeto y uso social del patrimonio cultural.
+
+XVII. Impulsar, previo acuerdo del Secretario de Educación Pública, la formación de Consejos consultivos estatales para la protección y conservación del patrimonio arqueológico, histórico y paleontológico, conformados por instancias estatales y municipales, así como por representantes de organizaciones sociales, académicas y culturales que se interesen en la defensa de este patrimonio.
+
+XVIII. Impartir enseñanza en las áreas de Antropología e Historia, conservación, restauración y museografía, en los niveles de técnico-profesional, profesional, de posgrado y de extensión educativa, y acreditar estudios para la expedición de los títulos y grados correspondientes.
+
+XIX. Autorizar, controlar, vigilar y evaluar, en los términos de la legislación aplicable, las acciones de exploración y estudio que realicen en el territorio nacional misiones científicas extranjeras.
+
+XX. Realizar de acuerdo con la Secretaría de Relaciones Exteriores, los trámites necesarios para obtener la devolución de los bienes arqueológicos o históricos que estén en el extranjero.
+
+XXI.- Las demás que las leyes de la República le confieran.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 3o.
 
-El Instituto, capaz para adquirir y administrar bienes, formará su patrimonio con los que en seguida se enumeran:
+El Instituto, capaz de adquirir y administrar bienes, formará su patrimonio con los que se enumeran:
 
-I.- Las cantidades que anualmente le asigne el Presupuesto de Egresos de la Fedración(sic).
+I. Los Inmuebles que para sus funciones o servicios le hayan aportado o le aporten los Gobiernos Federal, Estatales y Municipales.
 
-II.- El dificio(sic) del Museo Nacional, el del ex-convento de La Merced y la parte del Castillo de Chapultepec que se destine al Museo de Historia.
+II. Los muebles que actualmente le pertenecen y los que se le aporten o adquiera en lo futuro.
 
-III.- Los monumentos artísticos, arqueológicos e históricos con que actualmente cuenta el Departamento de Monumentos de la Secretaría de Educación Pública y los que en el futuro se declaren como tales, de acuerdo con las leyes.
+III. Los que adquiera por herencia, legado, donación o por cualquier otro concepto.
 
-IV.- Las colecciones, muebles y accesorios de los edificios que están bajo la dependencia del Departamento de Monumentos y los objetos que se descubran en las exploraciones.
+IV. Las cantidades que le asigne el Presupuesto de Egresos de la Federación.
 
-V.- Los que adquiera el Instituto por herencia, legado, donación o por cualquier otro título.
+V. Las aportaciones que le otorguen entidades públicas o privadas, nacionales, internacionales o extranjeras.
 
-VI.- Los que le destine, para su servicio, el Gobierno Federal.
+VI. Los ingresos provenientes de la venta de textos, publicaciones, grabaciones, películas, fotografías, reproducciones, tarjetas, carteles y demás objetos similares.
 
-VII.- El producto de las cuotas que cobre por visitas a los monumentos y museos, de la venta de las publicaciones, reproducciones, tarjetas, etc.
+VII. Los fondos, productos, regalías, cuotas por concesiones, autorizaciones e inscripciones.
+
+VIII. Los demás ingresos que obtenga por cualquier título legal incluidos los servicios al público.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 4o.
 
-Los bienes raíces a que se refiere el artículo anterior, no perderán su carácter de nacionales, para todos los efectos de la ley. Sólo quedarán destinados al servicio del Instituto y bajo la administración y vigilancia de éste.
+Los bienes que el Instituto adquiera de instituciones y personas particulares, o de gobiernos extranjeros, estarán exentos de toda clase de contribuciones, impuestos o derechos.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 5o.
 
-Los objetos que se encuentren en los monumentos y los que pertenezcan a las colecciones de los museos, no podrán enajenarse, hipotecarse, dar en prenda, prestarse o canjearse, sin sujetarse a las leyes sobre la materia y que rigen para toda clase de bienes nacionales.
+Para cumplir con sus objetivos, el Instituto se organiza:
+
+I. De acuerdo con sus funciones, en las áreas de:
+
+a) Investigación en Antropología, Arqueología e Historia.
+
+b) Conservación y Restauración de Bienes Culturales.
+
+c) Museos y Exposiciones.
+
+d) Docencia y Formación de recursos humanos en los campos de competencia del Instituto.
+
+II. De acuerdo con su estructura territorial, en Centros o Delegaciones Regionales; y
+
+III. De acuerdo con su estructura administrativa, en las unidades que el reglamento de esta Ley establezca para el mejor desempeño de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 6o.
 
-Formarán parte del Instituto, como sus Dependencias, el Museo Nacional de Arqueología, Historia y Etnografía, la Dirección de Monumentos Prehispánicos y la Dirección de Monumentos Coloniales.
+El Instituto estará a cargo de un Director General, nombrado y removido libremente por el Secretario de Educación Pública.
+
+Para ser Director General del Instituto Nacional de Antropología e Historia se requiere ser mexicano por nacimiento, mayor de 30 años de edad, con grado académico y méritos reconocidos en alguna de las materias de competencia del Instituto.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 7o.
 
-El Instituto se dividirá en los departamentos que el reglamento establezca para el mejor desempeño de sus funciones.
+Son facultades y obligaciones del Director General:
+
+I. Representar legalmente al Instituto.
+
+II. Otorgar, revocar y sustituir poderes.
+
+III. Acordar con el Secretario de Educación Pública en los asuntos de su competencia.
+
+IV. Presidir las sesiones del Consejo General Consultivo y propiciar sus resoluciones.
+
+V. Autorizar y hacer cumplir los programas de trabajo del Instituto.
+
+VI. Nombrar y remover al personal de confianza en los términos de la legislación aplicable.
+
+VII. Proponer los proyectos de reglamentos y aprobar los manuales necesarios para el funcionamiento del Instituto.
+
+VIII. Celebrar contratos y realizar toda clase de actos de dominio.
+
+IX. Presentar oportunamente, a las autoridades federales competentes, el proyecto de presupuesto anual.
+
+X. Presentar al Secretario de Educación Pública un informe anual de actividades del Instituto y el programa de trabajo a desarrollar durante el ejercicio correspondiente.
+
+XI. Celebrar convenios con personas físicas o jurídicas y con organismos públicos o privados, nacionales, internacionales o extranjeros.
+
+XII. Las demás que le confieran las leyes, el Secretario de Educación Pública y las que para el ejercicio de su cargo deba desempeñar.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 8o.
 
-El mismo Instituto estará a cargo de un Director, nombrado y removido libremente por el Secretario de Educación Pública.
+El Instituto contará con un Consejo General Consultivo que será presidido por el Director General y que estará integrado a partir de la representación de los Consejos de Area. Su conformación y funcionamiento serán regulados por el reglamento de esta ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 9o.
 
-Los jefes de los departamentos en que se divida el Instituto y todo el personal técnico o de conocimientos especializados que el mismo Instituto requiera, serán nombrados también y removidos libremente por el Secretario de Educación Pública.
+Las condiciones de trabajo vigentes de personal del Instituto se conservan en sus términos y seguirán regulándose por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional.
 
 ###### ARTICULO 10.
 
-El personal administrativo de las oficinas del Instituto se regirá, en cuanto a su nombramiento y remoción por el Estatuto Jurídico de los Empleados Públicos de la Federación.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 11.
 
-El Director, los jefes de los departamentos y el personal técnico del Instituto, constituirán el Consejo del mismo, que será presidido por el Director.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 12.
 
-El Consejo del Instituto, formado como se indica en el artículo anterior, funcionará como cuerpo consultivo, para verificar trabajos científicos de conjunto, con obligación de publicar en sus anales y monografías el resultado de sus investigaciones y para proponer los presupuestos del propio Instituto.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986
 
 ###### ARTICULO 13.
 
-El Consejo del Instituto tendrá obligación de reunirse, por lo menos, dos veces cada mes, para planear los trabajos de conjunto y para realizarlos.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 14.
 
-El Secretario de Educación Pública orientará las investigaciones que emprenda el Instituto.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 15.
 
-El manejo de los fondos del Instituto estará a cargo de un Tesorero, nombrado y removido libremente por el Secretario de Educación Pública, y su comprobación se sujetará a las reglas que rijan para otras Dependencias del Ejecutivo.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 16.
 
-El Instituto, como Dependencia del Gobierno Federal, gozará de franquicias postal y telegráfica y del descuento a que éste corresponde, en las vías generales de comunicación.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 17.
 
-Los bienes que el Instituto adquiera de instituciones y personas particulares o de gobiernos extranjeros, estarán exentos de toda clase de contribuciones, impuestos o derechos.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 18.
 
-La Secretaría de Hacienda y Crédito Público, de acuerdo con la de Educación Pública, cuidará de asignar anualmente, en el Presupuesto de Egresos de la Federación, la cantidad que permita el estado del Erario Público, procurando que no sea menor que la que se señala en el Presupuesto de Egresos en vigor durante el presente año al Departamento de Monumentos Artísticos, Arqueológicos e Históricos de la Secretaría de Educación Pública.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 19.
 
-El Instituto Nacional de Antropología e Historia, además de las funciones que expresamente le señala esta Ley, tendrá a su cargo las que actualmente desempeña el Departamento de Monumentos Históricos, Artísticos y Arqueológicos de la República.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ###### ARTICULO 20.
 
-Los sueldos de los funcionarios y empleados del Instituto, serán los que señale anualmente el Presupuesto de Egresos de la Federación.
+(DEROGADO, D.O.F. 13 DE ENERO DE 1986)
 
 ## TRANSITORIO
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Diario Oficial.- Félix de la Lanza, D.P.- Alejandro Antuna López, S.P.- César Martino, D.S.- Camilo Gastélum Jr., S.S.- Rúbricas."
 
 En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos treinta y ocho.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Gonzalo Vázquez Vela.- Rúbrica.- Al C. licenciado Ignacio García Téllez, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 13 DE ENERO DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
