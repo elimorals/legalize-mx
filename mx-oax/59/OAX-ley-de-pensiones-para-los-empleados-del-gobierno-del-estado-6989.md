@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1973-01-20"
+last_updated: "1975-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -101,21 +101,21 @@ IV.- Por muerte del pensionista.
 
 V.- Por tiempo de servicios, en los términos de la fracción I del Articulo 35.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 8°.
 
-Los trabajadores o las personas que esta Ley menciona, tienen derecho, en los casos y con los requisitos que en la misma se prevee (sic), además de la pensión, a los siguientes beneficios:
+Las personas a que se refiere el Artículo 1/o. de la presente Ley, tendrán derecho a los siguientes beneficios:
 
-I.- Devolución de los descuentos hechos al trabajador.
+I.- A jubilación, siempre que se cumplan los requisitos que prevee (sic) esta Ley.
 
-II.- Gastos de defunción del trabajador o pensionista.
+II.- Gastos de defunción del trabajador o pensionista, en los términos de los artículos 74 y 75 de la misma Ley.
 
-III.- Préstamos hipotecarios.
+III.- Préstamos quirografarios.
 
-IV.- Préstamos quirográficos a corto plazo.
+IV.- Préstamos hipotecarios.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 1973)</small>
-
-El trabajador que haya sido jubilado por haber prestado servicios durante treinta o más años, tendrá también derecho a los beneficios que se otorguen a los empleados y funcionarios, como si todavía estuviera trabajando.
+V.- Cuando el trabajador haya sido jubilado por haber prestado servicios durante treinta años o más, tendrá derecho también a los beneficios que se otorguen a los empleados y funcionarios, como si todavía estuviere trabajando.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1963)</small>
 
@@ -559,7 +559,7 @@ El trabajador que no tenga derecho a pensión y se separe, o sea separado defini
 
 ###### ARTICULO 72.
 
-El trabajador que sin tener derecho a pensión, hubiere contribuido al Fondo de Pensiones cuando menos durante quince años, podrá optar por recoger el importe de los descuentos o por dejarlos en la Oficina hasta que cumpla la edad pensionable para que se le otorgue la jubilación a que tuviera derecho; en este caso, deberá manifestarlo por escrito para no incurrir en prescripciones.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1975)
 
 ###### ARTICULO 73.
 
@@ -950,3 +950,7 @@ P.O. 22 DE ENERO DE 1972.
 P.O. 20 DE ENERO DE 1973.
 
 Único.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1975.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
