@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2000-del-pleno-del-consejo-de-la-49526"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-07-26"
-last_updated: "2000-07-26"
+last_updated: "2001-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49526&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-07-19"
 
 ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2001.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER ARTICULO PRIMERO TRANSITORIO DEL ACUERDO MODIFICATORIO.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de julio de 2000.
 
@@ -49,9 +51,11 @@ ACUERDO
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 1o.
 
-Ambito de aplicación de este acuerdo. Las disposiciones de este acuerdo tienen por objeto regular:
+Alcance normativo de este Acuerdo. Las disposiciones de este acuerdo tienen por objeto regular:
 
 I. Los libros de gobierno que los Juzgados de Distrito, Tribunales Unitarios y Colegiados de Circuito del Poder Judicial de la Federación, están obligados a llevar oficialmente a manera de mecanismos de control de los asuntos de sus respectivas competencias, como auxiliares en su supervisión por parte de los propios titulares; para los efectos de la rendición de estadística y, finalmente, a fin de facilitar los procedimientos de las visitas de inspección que se lleven a cabo;
 
@@ -67,7 +71,9 @@ Delimitación del uso y consulta de los Libros de Gobierno. Los Libros de Gobier
 
 Apertura, Cierre, Folio y espacio que debe tomarse en cuenta para realizar los registros en los libros de gobierno. En el manejo cotidiano de los libros, los titulares de los órganos jurisdiccionales deberán tener en consideración lo siguiente:
 
-I. La apertura de todos los libros de registro obligatorios que comprende este Acuerdo General, deberá hacerse antes de iniciar cada uno, en la primera foja útil. El Cierre de los mismos se hará al concluirse las fojas útiles, en la última de ellas. Ambos actos serán autorizados por el titular del órgano jurisdiccional de que se trate, si es unipersonal o por su Presidente en el caso de tribunales colegiados, asociado de un secretario de tribunal o juzgado;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+I. La apertura de todos los libros de registro obligatorios que comprende este Acuerdo General, deberá hacerse antes de iniciar cada uno, en la foja destinada para tal efecto. El Cierre de los mismos se hará al concluirse las fojas útiles, en la última de ellas. Ambos actos serán autorizados por el titular del órgano jurisdiccional de que se trate, si es unipersonal o por su Presidente en el caso de tribunales colegiados, asociado de un secretario de tribunal o juzgado;
 
 II. El secretario responsable deberá asentar certificación de la conclusión de cada año calendario, inmediatamente después del último registro del año concluido, para efectos de que a partir de dicha certificación se inicie la numeración de registros correspondiente al nuevo año;
 
@@ -75,7 +81,9 @@ III. Cada una de las hojas que los integren deberá estar debidamente foliada;
 
 IV. Será responsabilidad de los titulares, mantener en buen estado los libros en general, lo que incluye que las anotaciones se hagan con limpieza, que no se realice ninguna con lápiz y que, en caso de que se cometan errores al realizarlas, se emplee el sistema establecido por los artículos 272 del Código Federal de Procedimientos Civiles y 17 del adjetivo Penal Federal; y,
 
-V. Los registros que se realicen en los libros de gobierno, se harán destinando el espacio vertical que se estime necesario, cuando se pueda prever que los datos que contendrán algunas de las columnas o todas, serán extensos, ya sea por el número de quejosos; de actos reclamados, de inculpados, etcétera, de acuerdo con el libro de que se trate.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+V. Los registros que se realicen en los libros de gobierno, se harán destinando el espacio vertical que se estime necesario, cuando se pueda prever que los datos que contendrán algunas de las columnas o todas, serán extensos, ya sea por el número de quejosos; de actos reclamados, etcétera, de acuerdo con el libro de que se trate.
 
 ###### Artículo 4o.
 
@@ -177,7 +185,9 @@ I. En el rubro Resolución, se anotarán las expresiones “concede”, “niega
 
 II. El rubro Recurso, contendrá tres subrubros: Interposición y tipo, Fecha de remisión y Resolución, que se utilizarán de la siguiente forma:
 
-a) En el subrubro Interposición y tipo, se anotará el día, mes y año en que se haya interpuesto el recurso, así como el tipo de éste, anotando, según se trate, las palabras “Queja” o “Revisión”;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+a) En el subrubro Interposición y tipo, se anotará el recurso que se haya hecho valer y el día, mes y año en que se haya interpuesto;
 
 b) En el subrubro Fecha de remisión, se anotará el día, el mes y el año en que se remita físicamente el escrito de expresión de agravios con el expediente debidamente integrado, o bien las constancias relativas al tribunal colegiado para la tramitación del recurso; y,
 
@@ -259,7 +269,9 @@ I. En el rubro Aprehensión, comparecencia o presentación, se anotará el tipo 
 
 II. En el rubro Entrega al Ministerio Público, se anotará precisamente la fecha en que se entregue la orden al Ministerio Público, para su ejecución; y,
 
-III. En el rubro Ejecución, se anotará la fecha en que se ponga al reo a disposición del juzgado con motivo de la orden librada, por lo que, se entenderá que a partir de la misma debe reanudarse el procedimiento.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+III. En el rubro Ejecución, se anotará la fecha en que se ponga al reo a disposición del juzgado o se presente con motivo de la orden librada, por lo que, se entenderá que a partir de la misma debe reanudarse el procedimiento.
 
 ###### Artículo 21.
 
@@ -303,9 +315,11 @@ LIBRO TRES DE JUZGADO
 
 Libro de registro de asuntos civiles y administrativos.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 28.
 
-Contenido del libro cinco. En este libro se anotarán sin excepción, todos los asuntos civiles, mercantiles y administrativos, así como los procedimientos no contenciosos que se promuevan en el Juzgado de Distrito. Constará de seis apartados: Demanda o promoción inicial, Auto inicial, Sentencia, Apelación, Archivo y Observaciones, los cuales se utilizarán como se describe en los artículos siguientes.
+Contenido del libro. En este libro se anotarán sin excepción, todos los asuntos civiles, mercantiles y administrativos, así como los procedimientos no contenciosos que se promuevan en el Juzgado de Distrito. Constará de seis apartados: Demanda o promoción inicial, Auto inicial, Sentencia, Apelación, Archivo y Observaciones, los cuales se utilizarán como se describe en los artículos siguientes.
 
 ###### Artículo 29.
 
@@ -315,7 +329,9 @@ I. En la columna Número de orden se registrarán con numeración progresiva y a
 
 II. En el rubro Actor o promovente deberá anotarse el nombre completo de la persona o personas que interpongan la demanda respectiva. En el caso de ser varias, se anotarán los nombres de todas, bajo un mismo registro;
 
-III. En el rubro Demandado, se anotará el nombre de la persona en contra de la cual se interponga la demanda;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+III. En el rubro Demandado, se anotará el nombre de la o las personas en contra de las cuales se interponga la demanda, cuando por la cantidad de demandados sea inconveniente anotarlos todos, únicamente se asentará el primero, seguido de la expresión "y otros";
 
 IV. En el rubro Materia, se anotará precisamente la materia a la que pertenezca el asunto que se promueva;
 
@@ -367,35 +383,47 @@ LIBRO CUATRO DE JUZGADO
 
 Libros de registro de exhortos, despachos y requisitorias (secciones penal, civil y administrativa).
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 35.
 
-Definiciones generales. Para los efectos del debido cumplimiento del presente acuerdo general, se entenderá por:
+Definiciones generales. Para los efectos del debido cumplimiento del presente Acuerdo General, se entenderá por:
 
 Exhorto: La comunicación oficial de un órgano a otro de igual jerarquía, por;
+
+Exhorto internacional o carta rogatoria: La comunicación oficial que se remita al extranjero o que se reciba de él.
 
 Despacho: La comunicación oficial de un órgano a otro inferior, y por;
 
 Requisitoria: La comunicación de la misma naturaleza que el anterior, pero que se utiliza únicamente en un proceso penal.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 36.
 
-Contenido del libro. En este libro se anotarán únicamente los exhortos, despachos y requisitorias que se reciban por el órgano correspondiente, relativos a las secciones penal y de asuntos civiles y administrativos. Constará de once columnas con los siguientes rubros: Número de orden, Número de origen, Materia, Tipo de comunicación, Recepción, Expediente, Autoridad remitente, Objetivo, Fecha de diligenciación, Fecha de devolución y Observaciones, las cuales deberán llenarse en la forma que se precisa en los siguientes artículos.
+Contenido del libro. En este libro se anotarán únicamente los exhortos, cartas rogatorias, despachos y requisitorias que se reciban por el órgano correspondiente, relativos a las secciones penal y de asuntos civiles y administrativos. Constará de once columnas con los siguientes rubros: Número de orden, Número de origen, Materia, Tipo de comunicación, Recepción, Expediente, Autoridad remitente, Objetivo, Fecha de diligenciación, Fecha de devolución y Observaciones, las cuales deberán llenarse en la forma que se precisa en los siguientes artículos.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
 
 ###### Artículo 37.
 
-Número de orden. En esta columna se registrarán cada uno de los exhortos, despachos y requisitorias relativos a las secciones penal o de asuntos civiles o administrativos que se reciban en el juzgado, con numeración progresiva y ascendente, atendiendo rigurosamente a la fecha y a la hora de su recepción.
+Número de orden. En esta columna se registrarán cada uno de los exhortos, cartas rogatorias, despachos y requisitorias relativos a las secciones penal o de asuntos civiles o administrativos que se reciban en el juzgado, con numeración progresiva y ascendente, atendiendo rigurosamente a la fecha y a la hora de su recepción.
 
 ###### Artículo 38.
 
 Número de origen. En esta columna se anotará el número de comunicación que la autoridad remitente haya asignado a la que se recibe.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 39.
 
-Materia. En esta columna se anotará precisamente la materia a que se refiera la comunicación oficial de que se trate, asentando según sea el caso las expresiones “Causa penal”, “Juicio civil”, “Juicio administrativo”, o bien “juicio de amparo” o “incidente de suspensión, según sea el caso.
+Materia. En esta columna se anotará precisamente la materia a que se refiere la comunicación oficial de que se trate, asentando según sea el caso las expresiones "Causa penal", "Juicio civil", "Juicio administrativo", o bien "juicio de amparo", "incidente de suspensión", etcétera".
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
 
 ###### Artículo 40.
 
-Tipo de comunicación. En esta columna se asentará precisamente el tipo de comunicación de que se trate, asentando las expresiones “Exhorto”, “Despacho” o “Requisitoria”.
+Tipo de comunicación. En esta columna se asentará precisamente el tipo de comunicación de que se trate, asentando las expresiones "Exhorto", "Carta rogatoria", "Despacho" o "Requisitoria".
 
 ###### Artículo 41.
 
@@ -541,15 +569,19 @@ Libro de control de certificados de depósito.
 
 Contenido del libro. En este libro se registrarán todos los certificados de depósito que sean recibidos en el juzgado, incluso los exhibidos ante el Agente del Ministerio Público que tengan orden de transferencia, con excepción de aquellos a los que hace referencia la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
 
-Este libro constará de ocho columnas con los rubros: Número de orden, Expediente, Fecha de exhibición, Nombre del depositante, Cantidad, Destino, Fecha de comunicación al Consejo de la Judicatura Federal y Observaciones; las que se utilizarán de la manera que se describe en los siguientes artículos.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+Este libro constará de ocho columnas con los rubros: Número de orden, Expediente, Fecha de exhibición, Nombre del depositante, Número de certificado y cantidad, Destino, Fecha de comunicación al Consejo de la Judicatura Federal y Observaciones; las que se utilizarán de la manera que se describe en los siguientes artículos.
 
 ###### Artículo 69.
 
 Número de orden. En esta columna se registrarán con numeración progresiva y ascendente, todos los certificados de depósito que se reciban en el órgano jurisdiccional y a los que se hizo referencia en el artículo anterior.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 70.
 
-Expediente. En esta columna se anotará la palabra “juicio de amparo”, “incidente de suspensión”, “causa penal”, “causa auxiliar penal”, “juicio civil” o “juicio mercantil”, según sea la materia de que se trate, seguidos del número que identifique el expediente en que se exhiba.
+Expediente. En esta columna se anotará la palabra "juicio de amparo", "incidente de suspensión", "causa penal", "juicio civil" o "juicio mercantil", según sea la materia de que se trate, seguidos del número que identifique el expediente en que se exhiba.
 
 ###### Artículo 71.
 
@@ -559,9 +591,11 @@ Fecha de exhibición. En esta columna se anotará el día, el mes y el año en q
 
 Nombre del depositante. En esta columna se asentará el nombre de la persona que hubiere constituido el certificado de depósito.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 73.
 
-Cantidad. En esta columna se asentará la cantidad que ampare el certificado de depósito que se hubiere recibido.
+Número de certificado y cantidad. En esta columna se asentará precisamente, el número de certificado de depósito que se hubiere recibido, así como la cantidad que ampare.
 
 ###### Artículo 74.
 
@@ -597,9 +631,11 @@ LIBRO NUEVE DE JUZGADO
 
 Libro de control de pólizas de fianza y garantías diversas.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 77.
 
-Contenido del libro. Este libro constará de seis columnas con los rubros: Número de orden, Expediente, Naturaleza de la garantía, Fecha y sentido del acuerdo, Destino y Observaciones; los que se utilizarán de la manera que se describe en los siguientes artículos.
+Contenido del libro. Este libro constará de siete columnas con los rubros: Número de orden, Expediente, Naturaleza de la garantía, Número de póliza y cantidad, Fecha y sentido del acuerdo, Destino y Observaciones; los que se utilizarán de la manera que se describe en los siguientes artículos.
 
 ###### Artículo 78.
 
@@ -612,6 +648,10 @@ Expediente. En esta columna se anotará la palabra “juicio de amparo”, “in
 ###### Artículo 80.
 
 Naturaleza de la Garantía. En esta columna, se anotará, precisamente, la naturaleza de la garantía que se exhiba, anotando, enunciativamente las expresiones “Póliza de fianza”, “Prenda”, “Hipoteca”, “Fideicomiso”, etcétera. En caso de que la garantía sea un bien material, se describirá el tipo de éste en la forma más sintética posible.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+Artículo 80 bis.- Número de póliza y cantidad. En esta columna, que únicamente se utilizará cuando la garantía sea exhibida mediante póliza de fianza, se asentará, precisamente, el número de la póliza y la cantidad que ampare.
 
 ###### Artículo 81.
 
@@ -705,9 +745,13 @@ LIBRO ONCE DE JUZGADO
 
 Libro de control de armas de fuego.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 92.
 
-Contenido del libro. Este libro constará de nueve columnas con los rubros: Número de orden, Expediente, Fecha acuerdo recepción arma, Descripción, Depositario, Lugar de depósito, Destino final, Comunicación del decomiso y Observaciones, las cuales deberán contener las anotaciones señaladas en los artículos siguientes.
+Contenido del libro. Este libro constará de ocho columnas con los rubros: Número de orden, Expediente, Fecha acuerdo recepción arma, Descripción, Depositario y lugar de depósito, Destino final, Comunicación del decomiso y Observaciones, las cuales deberán contener las anotaciones señaladas en los artículos siguientes.
+
+Se deberá tener en cuenta, al realizar las anotaciones en este libro, que la expresión "arma" o "armas de fuego", implica el registro de cartuchos, municiones, bayonetas, sables, lanzas y todo objeto que sea necesario para el uso, complemento o percusión de éstas, siempre que se trate de objetos regulados específicamente en la Ley Federal de Armas de Fuego y Explosivos. Los objetos o accesorios relacionados con armas, que no sean regulados por dicha ley, se registrarán en el Libro 10.
 
 ###### Artículo 93.
 
@@ -727,13 +771,15 @@ Fecha acuerdo recepción arma. En esta columna se anotará la fecha en que se pr
 
 Descripción. En esta columna se describirá el tipo de arma de fuego de que se trate, asentando características tales como: calibre, número de serie, marca, etcétera.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 97.
 
-Depositario. En esta columna se anotará la denominación de la autoridad militar, o de otra especie, en que recaiga esta designación.
+Depositario y lugar de depósito. En esta columna se anotará la denominación de la autoridad militar, o la de cualquier otra en que recaiga esta designación; además se asentará el lugar que se haya señalado para el depósito.
 
 ###### Artículo 98.
 
-Lugar del depósito. En esta columna se asentará el lugar que se haya señalado para el depósito.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)
 
 ###### Artículo 99.
 
@@ -845,9 +891,11 @@ Fecha de la firma. En la columna Fecha de la firma, se anotará el día, el mes 
 
 Firma del procesado. En la columna Firma del procesado, éste imprimirá su firma o bien la huella digital que asiente en el caso en que no supiere firmar.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 121.
 
-Certificación. En la columna Certificación, se imprimirá la firma del funcionario investido de fe pública que certifique la comparecencia del inculpado.
+Certificación. En la columna Certificación, se imprimirá el nombre y la firma del funcionario investido de fe pública que certifique la comparecencia del inculpado.
 
 ###### Artículo 122.
 
@@ -1351,7 +1399,7 @@ Libro de registro de amparo directo.
 
 Contenido del libro. Este libro constará de quince columnas con los siguientes rubros: Número de orden, Recepción, Quejoso, Tercero perjudicado, Autoridad responsable, Actos reclamados, Materia, Incompetencia, Prevención, Desechamiento o por no interpuesta, Admisión, Resolución definitiva, Revisión S.C.J.N., Archivo y Observaciones. La descripción del uso de cada columna se detallará en los artículos subsecuentes.
 
-En cada una de sus páginas se deberán anotar únicamente dos registros.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
 
 ###### Artículo 186.
 
@@ -1377,9 +1425,13 @@ Autoridad responsable. En la mencionada columna se asentará la denominación de
 
 Actos reclamados. En esta columna deberán indicarse de manera breve, el acto o los actos reclamados.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 192.
 
 Materia. En esta columna, se indicará, precisamente, la materia a que el asunto corresponda, ya sea penal, civil, laboral o administrativa.
+
+Cuando el amparo directo lo conozca un Tribunal Colegiado de Circuito especializado en la materia administrativa, en esta columna deberá precisarse si se trata de un asunto administrativo, fiscal o agrario.
 
 ###### Artículo 193.
 
@@ -1617,9 +1669,11 @@ LIBRO SEIS DE TRIBUNAL COLEGIADO
 
 Libro de registro de impedimentos y excusas.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 239.
 
-Contenido del libro. En este libro se registrarán todos los impedimentos y excusas que en materia de amparo, propongan los jueces de distrito y, en cualquier materia, tratándose de los tribunales de circuito (Artículo 37, fracción VII, de la Ley Orgánica del Poder Judicial de la Federación).
+Contenido del libro. En este libro se registrarán todos los impedimentos y excusas que en materia de amparo, propongan los Jueces de Distrito y, en cualquier materia, tratándose de los Tribunales de Circuito, incluyendo la hipótesis en que el propio Tribunal Colegiado deba conocer de estos trámites respecto de uno de sus miembros (Artículo 37, fracción VII, de la Ley Orgánica del Poder Judicial de la Federación).
 
 Este libro constará de nueve columnas con los rubros: Número de orden, Recepción, Número de origen, Organo de origen, Nombre del promovente, Autoridad en contra de quien se promueve, Resolución, Archivo y Observaciones, cuyo llenado se describe en los siguientes artículos.
 
@@ -1635,9 +1689,11 @@ Recepción. En esta columna se anotará la fecha en que el impedimento o la excu
 
 Número de origen. En esta columna se anotará el número del expediente que corresponda al juicio de amparo o al toca dentro del cual se hubiese planteado el impedimento o la excusa.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 243.
 
-Organo de origen. En esta columna se anotará la denominación de la autoridad que tenga radicado el expediente motivo de la queja.
+Organo de origen. En esta columna se anotará la denominación de la autoridad que tenga radicado el expediente motivo del impedimento.
 
 ###### Artículo 244.
 
@@ -1689,9 +1745,11 @@ Libro de recursos de revisión fiscal y contencioso-administrativa.
 
 Materia del libro. En este libro se anotarán los recursos que interpongan las autoridades fiscales contra las resoluciones dictadas por las Salas Regionales o la Sala Superior del Tribunal Fiscal de la Federación o bien por los Tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y fracción IV, inciso e) del artículo 122 de la Constitución General de la República.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
 ###### Artículo 252.
 
-Contenido. Este libro constará de nueve columnas con los rubros siguientes: Número de orden, Recepción, Número de origen, Sala o tribunal de origen, Recurrente, Resolución recurrida, Ejecutoria, Archivo y Observaciones. Dichas columnas deberán utilizarse como se describe en los artículos siguientes.
+Contenido. Este libro constará de diez columnas con los rubros siguientes: Número de orden, Recepción, Número de origen, Sala o tribunal de origen, Recurrente, Contraparte en el juicio, Resolución recurrida, Ejecutoria, Archivo y Observaciones. Dichas columnas deberán utilizarse como se describe en los artículos siguientes.
 
 ###### Artículo 253.
 
@@ -1712,6 +1770,10 @@ Sala o tribunal de origen. En esta columna se anotará, precisamente, la denomin
 ###### Artículo 257.
 
 Recurrente. En esta columna se anotará el dato relativo a la denominación de la autoridad que interponga el recurso.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+
+Artículo 257 bis.- Contraparte en el juicio. En esta columna se anotará, el nombre del accionante en el juicio de origen. Cuando se trate de varios demandantes se anotará el nombre del primero de ellos seguido de la expresión "y otros".
 
 ###### Artículo 258.
 
@@ -1746,3 +1808,11 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en el Semanario J
 (VEASE ARCHIVO ANEXO)
 
 EL LICENCIADO ARTURO ITURBE RIVAS, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 34/2000, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación de los Libros de Control que Obligatoriamente deberán llevar los Organos Jurisdiccionales del Poder Judicial de la Federación, así como su Descripción e Instructivos correspondientes, constantes de treinta y siete tablas, fue aprobado por el propio Pleno, en sesión de veintiuno de junio de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a diecinueve de julio de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE ENERO DE 2001.
+
+PRIMERO.- El Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal, con las modificaciones señaladas en el presente Acuerdo General 2/2001, entrará en vigor para todos los órganos jurisdiccionales del Poder Judicial de la Federación el dos de abril de dos mil uno.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
