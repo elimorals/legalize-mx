@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1952-04-30"
+last_updated: "1954-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1954.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -91,9 +91,11 @@ IV.- Contribuir para los gastos públicos, así de la Federación como del Estad
 
 V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento de las leyes y procurar, por todos los medios lícitos que estén a su alcance, el engrandecimiento y prosperidad del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1954)</small>
+
 ###### Art. 35.
 
-Es Ciudadano del Estado todo Nuevoleonés mayor de veintiún años de edad, o de dieciocho siendo casado, y en uno y otro caso que tenga modo honesto de vivir.
+Son ciudadanos del Estado todos los Nuevoleoneses, varones y mujeres, mayores de 21 años de edad, o de 18 siendo casados, y en uno y otro caso que tengan modo honesto de vivir.
 
 ###### Art. 36.
 
@@ -799,13 +801,11 @@ Se concede acción popula (sic) para denunciar ante el Congreso los delitos comu
 
 ## TITULO VIII.. De los Municipios
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1948)</small>
+REFORMADO, P.O. 28 DE ABRIL DE 1954)
 
 ###### Art. 118.
 
-Los Municipios que integran el Estado son independientes entre sí. Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna Autoridad intermedia.
-
-En las elecciones Municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+Los Municipios que integran el Estado son independientes entre sí, Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna Autoridad intermedia.
 
 ###### Art. 119.
 
@@ -1320,5 +1320,9 @@ P.O. 6 DE JUNIO DE 1951.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 30 DE ABRIL DE 1952.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 28 DE ABRIL DE 1954.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
