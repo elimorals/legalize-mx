@@ -4,7 +4,7 @@ identifier: "COL-ley-de-catastro-del-estado-de-colima-3944"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-19"
-last_updated: "1992-09-19"
+last_updated: "2001-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CATASTRO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 1992.
 
@@ -143,45 +143,81 @@ Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del 
 
 ### CAPITULO II. DE LAS AUTORIDADES CATASTRALES
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 8o.
 
 Son autoridades en materia de catastro:
 
-I.- El Gobernador del Estado;
+I.- El Congreso del Estado;
 
-II.- El Secretario de Finanzas;
+II.- El Gobernador;
 
-III.- La Dirección de Catastro; y
+III.- Los Ayuntamientos;
 
-IV.- Los Ayuntamientos.
+IV.- El Secretario de Finanzas; y
+
+V.- La Dirección.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+ARTICULO 8º BIS.- Corresponde al Congreso del Estado aprobar las tablas de valores unitarios de suelo y construcción, propuestas por los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 9o.
 
-Compete al Gobernador:
+Corresponde al Gobernador:
 
-I.- Establecer la política, normas y lineamientos generales del catastro y evaluar su cumplimiento;
+I.- Establecer las políticas, normas y lineamientos generales del catastro y evaluar su cumplimiento;
 
-II.- Aprobar las tablas generales de valores unitarios de terreno y de construcción;
+II.- Suscribir acuerdos de coordinación en materia de catastro con los Ayuntamientos de la entidad, dependencias y unidades de la administración pública federal, así como con otras entidades federativas;
 
-III.- Suscribir acuerdos de coordinación en materia de catastro con los Municipios de la Entidad, dependencias y unidades de la administración pública federal, así como con otras entidades federativas; y
+III.- Publicar las tablas generales de valores unitarios de terreno y de construcción; y
 
-IV.- Las demás que expresamente le determine esta Ley.
+IV.- Las demás que le asignen esta Ley y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 10.
 
-El Secretario de Finanzas tiene las atribuciones siguientes:
+Corresponde a los Ayuntamientos:
 
-I.- Establecer los programas tendientes a lograr los objetivos del catastro;
+I.- Aprobar el reglamento para la elaboración de las tablas de valores unitarios de terreno y de construcción del municipio;
 
-II.- Aprobar las normas técnicas y administrativas aplicables a la realización de los trabajos catastrales;
+II.- Elaborar las tablas generales de valores unitarios de terreno y de construcción del Municipio de su jurisdicción, en los términos del reglamento respectivo, y enviarlas al Congreso del Estado para su aprobación;
 
-III.- Remitir al Gobernador los proyectos de tablas generales de valores unitarios de terreno y de construcción, propuestos por los Ayuntamientos;
+III.- Mantener actualizada la cartografía de su Municipio;
 
-IV.- Suscribir acuerdos de coordinación con otras dependencias y organismos auxiliares de la administración pública del Estado; y
+IV.- Conservar la clave catastral de cada uno de los bienes inmuebles;
 
-V.- Las demás que le determine esta Ley.
+V.- Solicitar a las dependencias y organizaciones auxiliares federales y estatales, así como a los propietarios o poseedores de bienes inmuebles, los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral municipal;
+
+VI.- Realizar los trabajos técnicos tendientes a lograr la identificación, valuación, revaluación y delimitación de los predios de su jurisdicción;
+
+VII.- Expedir y notificar los avalúos catastrales;
+
+VIII.- Imponer las sanciones que procedan en los términos de esta Ley; y
+
+IX.- Las demás que determinen esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 11.
+
+El Secretario de Finanzas tiene las siguientes atribuciones:
+
+I.- Establecer los programas tendientes a lograr los objetivos del Catastro;
+
+II.- Aprobar los (sic) normas técnicas y administrativas aplicables a la realización de los trabajos catastrales;
+
+III.- Participar con el Gobernador en la suscripción de acuerdos de coordinación a que se refiere el artículo 9°; y
+
+IV.- Las demás que le asignen esta Ley y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 12.
 
 Corresponde a la Dirección:
 
@@ -189,7 +225,7 @@ I.- Determinar las normas técnicas y administrativas aplicables a la identifica
 
 II.- Apoyar, asesorar y coordinar a los Ayuntamientos en la realización de los trabajos catastrales que les correspondan;
 
-III.- Efectuar, en coordinación con las dependencias del Ejecutivo Estatal y Federal, los estudios para apoyar la determinación de los límites del territorio del Estado y de los Municipios;
+III.- Efectuar, en coordinación con las dependencias de los Ejecutivos federal y estatal, los estudios para apoyar la determinación de los límites del territorio del Estado y de los Municipios;
 
 IV.- Integrar la información catastral del Estado;
 
@@ -199,43 +235,25 @@ VI.- Asignar clave catastral a cada uno de los bienes inmuebles;
 
 VII.- Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actualizado;
 
-VIII.- Solicitar a las dependencias y organismos auxiliares federales, estatales y municipales, así como a los propietarios poseedores de predios, los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral del Estado;
+VIII.- Solicitar a las dependencias y organismos auxiliares federales, estatales y municipales, así como a los propietarios o poseedores de predios los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral del Estado;
 
-IX.- Validar los trabajos técnicos de valuación realizados por los Ayuntamientos;
+IX.- Prestar el servicio como valuador, en los dictámenes sobre el valor comercial de inmuebles que sean necesarios en todo tipo de contratos y juicios civiles, penales, laborales, administrativos y fiscales. Igualmente, intervenir en los demás dictámenes periciales que sobre inmuebles deban practicarse y rendirse ante ella; y
 
-X.- Imponer las sanciones que procedan en los términos de esta Ley;
+X.- Las demás que determine esta Ley y otras disposiciones legales aplicables.
 
-XI.- Prestar el servicio como valuador, en los dictámenes sobre el valor comercial de inmuebles que sean necesarios en todo tipo de contratos y juicios civiles, penales, laborales, administrativos y fiscales. Igualmente, intervenir en los demás dictámenes periciales que sobre el inmueble deben practicarse y rendirse ante ellas; y
-
-XII.- Las demás que le determine esta Ley y otras disposiciones legales aplicables.
-
-###### ARTICULO 12.
-
-Corresponde a los Ayuntamientos:
-
-I.- Formular los proyectos de tablas generales de valores unitarios de terreno y de construcción del municipio de su jurisdicción;
-
-II.- Mantener actualizada la cartografía del municipio que corresponda;
-
-III.- Conservar la clave catastral de cada uno de los bienes inmuebles, determinada por la Dirección;
-
-IV.- Solicitar a las dependencias y organizaciones auxiliares federales y estatales, así como a los propietarios o poseedores de bienes inmuebles, los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral municipal;
-
-V.- Realizar los trabajos técnicos tendientes a lograr la identificación, valuación, revaluación y delimitación de los predios de su jurisdicción;
-
-VI.- Expedir y notificar los avalúos catastrales, previa validación de la Dirección; y
-
-VII.- Las demás que le determine esta Ley.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 13.
 
-En el ejercicio de las atribuciones a que se refiere el artículo anterior, los Ayuntamientos deberán observar las disposiciones contenidas en el presente ordenamiento, así como las normas técnicas y administrativas en materia de catastro, aprobadas por la Secretaría. Asimismo, deberán proporcionar periódicamente a la Dirección la información relativa para integrar y actualizar el padrón catastral de cada uno de ellos.
+En el ejercicio de las atribuciones a que se refiere el artículo 10 de este ordenamiento, los Ayuntamientos deberán observar las disposiciones contenidas en el presente ordenamiento y proporcionar a la Dirección, cada quince días, la información relativa para integrar y actualizar el padrón catastral de cada uno de ellos. Las observaciones que formule la Dirección a la información enviada por los municipios, deberá ser corregida y reingresada en un plazo no mayor de cinco días hábiles siguientes a su recepción.
 
 ### CAPITULO III. DE LOS VALORES UNITARIOS
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 14.
 
-La aprobación de las tablas generales de valores unitarios de terreno y de construcción se llevará a cabo cuando menos una vez al año.
+La aprobación de las tablas generales de valores unitarios de terreno y de construcción se llevará a cabo cuando menos una vez al año, y estarán en vigor en el ejercicio fiscal siguiente al de su aprobación.
 
 ###### ARTICULO 15.
 
@@ -281,23 +299,35 @@ III.- Costo de la mano de obra empleada.
 
 La Dirección determinará una clasificación para los diversos tipos de construcciones a los que corresponderán diferentes valores unitarios.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 19.
 
-La aprobación de las tablas generales de valores unitarios de terreno y de construcción, se sujetará a las normas siguientes:
+La aprobación de las tablas de valores unitarios de terreno y de construcción, se sujetará a las normas siguientes:
 
-I.- Los Ayuntamientos elaborarán los proyectos de tablas generales de valores unitarios de terreno y de construcción;
+I.- Los Ayuntamientos elaborarán las tablas de valores unitarios de terreno y de construcción.
 
-II.- Los proyectos a que se refiere la fracción anterior, serán remitidos al Secretario de Finanzas, quien a su vez los turnará al Gobernador para su aprobación;
+Los Ayuntamientos podrán constituir mecanismos similares al previsto en la siguiente fracción, que tendrán a su cargo emitir opinión con respecto a los anteproyectos de dichas tablas.
 
-III.- Aprobadas las tablas generales de valores unitarios de terreno y de construcción por parte del Gobernador, se publicarán en el Periódico Oficial "EL ESTADO DE COLIMA".
+II.- Autorizadas por los Ayuntamientos las tablas de valores unitarios de terreno y de construcción, serán remitidas para su aprobación al Congreso del Estado a más tardar el 30 de octubre y serán aprobadas por éste a más tardar el 20 de diciembre de cada año.
+
+El Congreso convocará a las dependencias, organismos y agrupaciones que considere conveniente, para instaurar un mecanismo de coordinación y apoyo que tendrá a su cargo emitir opinión con respecto a dichas tablas.
+
+El Congreso podrá modificar los valores de los elementos y factores que conformen las tablas propuestas por los ayuntamientos.
+
+III.- Aprobadas por el Congreso las tablas de valores unitarios de terreno y de construcción, se enviarán al Gobernador para su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 20.
 
-Alternativamente, los valores unitarios de terreno y de construcción de las áreas tanto urbanas como rústicas, podrán actualizarse para aplicarse en el año de que se trate, a lo que resulte de multiplicar los valores vigentes durante el año de calendario anterior, por el factor que se obtenga de dividir el índice nacional de precios al consumidor correspondiente al mes de noviembre de dicho año, entre el índice nacional de precios al consumidor del mes de noviembre del año precedente, que publique el Banco de México.
+Si un Ayuntamiento incumple su obligación de enviar al Congreso del Estado la tabla de valores unitarios correspondiente, continuará en vigor sin modificaciones la del año en curso, por todo el ejercicio fiscal siguiente.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21.
 
-En caso de que a algún sector del territorio de los Municipios no se le haya asignado valores unitarios de terreno o habiéndose asignado hayan cambiado las características esenciales en el período de su vigencia, la Dirección podrá fijar provisionalmente valores unitarios, tomando como base los aprobados para algún sector catastral con características similares. Estos valores regirán hasta en tanto se apliquen los valores definitivos.
+En caso de que a algún sector o parte del mismo no se le haya asignado valores unitarios de terreno o habiéndosele asignado hayan cambiado las características esenciales en el período de su vigencia, cada Ayuntamiento podrá fijar provisionalmente valores unitarios, tomando como base los aprobados para algún sector catastral con características similares.
 
 ###### ARTICULO 22.
 
@@ -313,11 +343,15 @@ Los predios ubicados dentro del territorio del Estado, cualquiera que sea el ré
 
 Al inscribir un predio en el padrón catastral, se le asignará una clave catastral, la que se integrará con el número de municipio, de zona catastral, de manzana y de predio, y en el caso de condominios, se agregará el número de edificio y de la unidad condominal. Cada uno de los departamentos, despachos, viviendas o locales, se inscribirán por separado en el padrón con diferente clave catastral.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 25.
 
-La inscripción o actualización en el padrón catastral, deberá ser solicitada por los propietarios o poseedores, en las formas aprobadas por la Dirección, debiendo presentarse ante el Ayuntamiento que corresponda.
+La inscripción o actualización de los predios en el padrón catastral, deberá ser manifestada por los propietarios o poseedores ante la autoridad catastral del municipio de ubicación de los predios, dentro de los treinta días naturales siguientes a la fecha en que se formalice su adquisición o se efectúe la modificación que deba ser manifestada.
 
-Cuando los propietarios o poseedores de predios no presenten en el plazo establecido en esta Ley la manifestación respectiva, el Ayuntamiento correspondiente procederá de oficio a realizar la inscripción o actualización de que se trate, sin perjuicio de que la Dirección aplique la sanción correspondiente.
+La manifestación de los actos a que se refiere este artículo, podrá ser presentada por los notarios públicos o por las instituciones regularizadoras de la tenencia de la tierra que hayan intervenido en los mismos.
+
+Cuando los propietarios o poseedores de predios no presenten en el plazo establecido en esta Ley la manifestación respectiva, el Ayuntamiento correspondiente procederá de oficio a realizar la inscripción o actualización de que se trate, sin perjuicio de que se aplique la sanción correspondiente.
 
 ###### ARTICULO 26.
 
@@ -363,17 +397,21 @@ La autoridad catastral asignará el valor catastral a los predios de conformidad
 
 Para determinar el valor catastral de cada uno de los predios, se aplicarán los valores unitarios de terreno y de construcción aprobados, de acuerdo a la zona y sector catastral en que se encuentren situados y a la clasificación de construcción que les correspondan. En el caso de predios con o sin construcciones, situados en sectores catastrales para los que no se hayan fijado valores unitarios o que los existentes ya no sean aplicables, se estará a lo dispuesto en el artículo 16 de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 36.
 
-El valor catastral que se determine para cada predio, será el que se obtenga de la suma de los valores del terreno y de la construcción, en su caso, y tendrá una vigencia anual.
+El valor catastral que se determine para cada predio será el que se obtenga de la suma de los valores del terreno y de la construcción, en su caso.
 
 ###### ARTICULO 37.
 
 Para los predios que están sujetos al régimen de propiedad condominal, la valuación catastral deberá hacerse respecto de cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 38.
 
-La valuación o revaluación catastral de predios será realizada con base en la información obtenida de los levantamientos técnicos desarrollados por la autoridad catastral o de acuerdo a los datos proporcionados por el interesado en la solicitud de inscripción o de actualización en el padrón catastral. En todos los casos, los valores serán autorizados por la Dirección. Los Ayuntamientos, en ejercicio de sus funciones, podrán realizar las visitas y estudios técnicos de campo que sean necesarios para constatar la veracidad de los datos proporcionados por el interesado.
+La valuación o revaluación será realizada por los Ayuntamientos con base en la información obtenida de los levantamientos técnicos desarrollados por la autoridad catastral o de acuerdo a los datos proporcionados por el interesado en la solicitud de inscripción o de actualización en el padrón catastral. En todos los casos, los avalúos serán autorizados por cada autoridad municipal. Los Ayuntamientos, en ejercicio de sus funciones, realizarán, en su caso, las visitas y estudios técnicos de campo que sean necesarios para constatar la veracidad de los datos proporcionados por el interesado.
 
 ###### ARTICULO 39.
 
@@ -431,7 +469,7 @@ Cuando por causas imputables al propietario o poseedor de un predio, no se pueda
 
 ###### ARTICULO 45.
 
-La autoridad catastral deberá notificar personalmente a los propietarios o poseedores de predios o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y demás operaciones catastrales que se efectúen en el predio objeto de la operación o en el domicilio señalado por escrito para oír y recibir notificaciones, siempre que este último se encuentre establecido dentro del territorio del Estado; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial "EL ESTADO DE COLIMA" y en uno de los Periódicos de mayor circulación en la Entidad. En las notificaciones personales, deberán observarse las formalidades procesales establecidas en el artículo 88 del Código Fiscal del Estado.
+La autoridad catastral deberá notificar personalmente a los propietarios o poseedores de predios o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y demás operaciones catastrales que se efectúen en el predio objeto de la operación o en el domicilio señalado por escrito para oír y recibir notificaciones, siempre que este último se encuentre establecido dentro del territorio del Estado; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial "EL ESTADO DE COLIMA'' y en uno de los Periódicos de mayor circulación en la Entidad. En las notificaciones personales, deberán observarse las formalidades procesales establecidas en el artículo 88 del Código Fiscal del Estado.
 
 ### CAPITULO VII. DE LOS RECURSOS
 
@@ -449,9 +487,11 @@ IV.- Cuando se haya clasificado erróneamente el tipo de terreno o de construcci
 
 V.- En los demás casos en que exista error o diferencia entre los datos asentados en el padrón catastral y las características del predio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 47.
 
-El recurso de revisión deberá ser interpuesto por los propietarios, poseedores o sus representantes legales, dentro de los quince días hábiles siguientes al de la notificación del acto que se impugne, por escrito, en original y copia dirigido al Secretario de Finanzas, debiendo presentarse para su recepción ante el Ayuntamiento que corresponda.
+El recurso de revisión deberá ser interpuesto por los propietarios, poseedores o sus representantes legales, dentro de los quince días hábiles siguientes al de la notificación del acto que se impugne, por escrito, en original y copia dirigido al tesorero municipal, debiendo presentarse para su recepción ante la autoridad que emitió el acto.
 
 Los representantes legales acompañarán al escrito copia certificada del documento que compruebe la personalidad con la que promuevan.
 
@@ -467,9 +507,11 @@ III.- Ubicación del predio;
 
 IV.- Señalamiento de los errores o diferencias que fundamentan el recurso.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 49.
 
-El Ayuntamiento que reciba el recurso, enviará el original del escrito que lo contenga al Secretario de Finanzas, en un plazo improrrogable de tres días hábiles contados a partir del siguiente en que haya sido recibido, acompañando un informe pormenorizado de los antecedentes que sirvieron de base para emitir la resolución impugnada.
+La autoridad que reciba el recurso enviará el original del escrito que lo contenga al tesorero municipal, en un plazo improrrogable de tres días hábiles contados a partir del siguiente en que haya sido recibido, acompañando un informe pormenorizado de los antecedentes que sirvieron de base para emitir la resolución impugnada.
 
 ###### ARTICULO 50.
 
@@ -493,29 +535,31 @@ III.- No informar en el tiempo y forma previstos los actos que deban ser comunic
 
 IV.- Negar la información que requiera la autoridad catastral para la realización de trabajos catastrales;
 
-V.- Oponerse o interferir en la valuación, revaluación, delimitación y demás trabajos catastrales; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
-VI.- Realizar cualquier acción o incurrir en omisión a los preceptos de esta Ley, que sean distintas a las previstas en las fracciones anteriores.
+V.- Oponerse o interferir en las verificaciones y visitas para la realización de trabajos catastrales; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+VI.- Realizar cualquier acción o incurrir en omisión a los preceptos de esta Ley o de sus reglamentos, que sean distintas a las previstas en las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 53.
 
-Las infracciones a la presente Ley serán sancionadas por la Dirección con multa de:
+Las infracciones a la presente Ley señaladas en el artículo anterior, serán sancionadas por la autoridad catastral municipal con multa expresada en unidades de salario mínimo diario vigente de la zona económica a la que pertenece el Estado, conforme a los siguientes montos:
 
-I.- Cincuenta veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por las fracciones II y V del artículo que antecede;
+I.- De treinta a cincuenta unidades a los sujetos cuya conducta corresponda a lo previsto por las fracciones II, IV y V; y
 
-II.- Treinta veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por la fracción I del artículo anterior;
+II.- De cinco a diez unidades a los sujetos cuya conducta corresponda a lo previsto por las fracciones I, III y VI.
 
-III.- Veinte veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por las fracciones III y IV del artículo anterior;
+Las sanciones señaladas en este artículo serán aplicadas por la autoridad catastral municipal competente, tomando en consideración la gravedad de la infracción cometida.
 
-IV.- Cinco veces el salario mínimo vigente a los sujetos cuya conducta corresponda a lo previsto por la fracción VI del precepto anterior.
-
-En caso de reincidencia, la autoridad catastral podrá duplicar el monto de la multa señalada en este artículo.
-
-El monto de las multas a que se refieren las fracciones señaladas, se aplicará en relación directa con el salario mínimo de la zona económica a la que corresponda el Estado.
+La aplicación de las sanciones administrativas se hará sin perjuicio de que se exija el cumplimiento de los preceptos infringidos.
 
 ## TRANSITORIOS
 
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA''.
 
 SEGUNDO.- Se abroga la Ley de Catastro expedida el 28 de enero de 1981 y publicada en el Periódico Oficial del Estado el 14 de febrero del 1981, bajo Decreto no. 110, su reforma y adiciones contenida en el Decreto No. 191 publicado en el periódico Oficial del Estado el 29 de diciembre de 1984 y todas las disposiciones y demás ordenamientos que se opongan a lo dispuesto por la presente Ley.
 
@@ -528,3 +572,19 @@ Dado en el Recinto Oficial del Poder Legislativo a los once días del mes de sep
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno a los catorce días del mes de septiembre de mil novecientos noventa y dos. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos dispondrán de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir los reglamentos a que se refiere la fracción I del artículo 10 del mismo.
+
+###### ARTICULO TERCERO.
+
+Por única vez, el plazo del 30 de octubre a que se refiere la fracción II del artículo 19 de este Decreto, se amplía al 15 de noviembre del presente año.
