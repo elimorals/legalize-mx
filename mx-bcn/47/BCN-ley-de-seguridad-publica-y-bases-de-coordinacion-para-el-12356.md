@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2001-08-17"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -75,7 +75,9 @@ Estas funciones se entienden encomendadas al Ejecutivo del Estado y a los Ayunta
 
 Para efectos de esta ley, se entenderá por:
 
-I. Secretaría: a la Secretaría Jurídica y Prevención Social del Gobierno del Estado y por Secretario, al titular de la misma;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+I. Secretaría: a la Secretaría de Seguridad Pública, y por Secretario al titular de la misma;
 
 II. Procuraduría: a la Procuraduría General de Justicia del Estado;
 
@@ -105,17 +107,21 @@ La Policía Ministerial quedará sujeta, por lo que corresponde a su ámbito de 
 
 El Procurador General de Justicia del Estado deberá celebrar con los Ayuntamientos del Estado, convenios de cooperación y coordinación para el intercambio de información delictiva en el cumplimiento de las atribuciones que competen a las policías preventivas municipales.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 6.
 
 Los Cuerpos de Seguridad en el Estado, son:
 
-I. La Policía Ministerial del Estado, como policía de investigación y persecución, con las unidades y agrupamientos de policía que prevea su reglamento;
+I. La Policía Estatal Preventiva, como policía encargada la prevención de los delitos en el Estado, con las unidades y agrupamientos que prevea su reglamento;
 
-II. Las dependencias y unidades administrativas de Seguridad Pública de los Ayuntamientos, con los cuerpos y agrupamientos de policía preventiva, tránsito y seguridad pública que prevea su reglamento;
+II. La Policía Ministerial del Estado, como policía de investigación y persecución de los delitos, con las unidades administrativas y agrupamientos de policía que prevea su reglamento;
 
-III. Los Custodios y Preceptores de la Secretaría, y
+III. Las dependencias y unidades administrativas de Seguridad Pública de los Ayuntamientos, con los cuerpos y agrupamientos de policía preventiva, tránsito y seguridad pública que prevean sus respectivos reglamentos;
 
-IV. Las demás que se constituyan con estricto apego a la Ley.
+IV. Los Custodios y Preceptores de la Secretaría; y
+
+V. Las demás que se constituyan con estricto apego a la Ley.
 
 ###### ARTÍCULO 7.
 
@@ -161,7 +167,9 @@ IV. Policía Ministerial.
 
 Los elementos de los Cuerpos de Seguridad tienen la obligación de portar los uniformes, insignias, divisas, armas y equipo reglamentarios que les corresponda, en los actos y situaciones que requiera el servicio.
 
-La Procuraduría y los Ayuntamientos, según sea el caso, establecerán las normas a que se sujetarán los elementos de sus Cuerpos de Seguridad, en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+La Secretaría, la Procuraduría y los Ayuntamientos, según sea el caso, establecerán las normas a que se sujetarán los elementos de sus Cuerpos de Seguridad, en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
 
 Asimismo deberán expedir las identificaciones y proporcionar, sin costo alguno, a todos los elementos de seguridad pública, los uniformes, insignias, divisas, armas y equipo reglamentarios a que se refiere este artículo. La violación a esta disposición será sancionada conforme a las leyes aplicables.
 
@@ -179,7 +187,9 @@ Asimismo queda prohibido, prestar simultáneamente servicios de cualquier carác
 
 El Programa de Seguridad Pública para el Estado de Baja California, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizar los Cuerpos de Seguridad en el corto, mediano y largo plazo. Este programa tendrá carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestal anual, así como a las disposiciones y lineamientos que sobre el particular dicten los órganos competentes.
 
-El Programa de Seguridad Pública para el Estado de Baja California se elaborará, coordinadamente, dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, por la Procuraduría, la Secretaría y los Ayuntamientos y se revisará anualmente y su resumen se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+El Programa de Seguridad Pública para el Estado de Baja California se elaborará dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, por la Secretaría y los Ayuntamientos con la colaboración de la Procuraduría en lo que a investigación y persecución de delitos le corresponde, en los términos del artículo 52 fracciones primera y segunda de la presente Ley; dicho Plan se revisará anualmente y su resumen se publicará en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -189,9 +199,11 @@ Corresponde al Gobernador del Estado y a los Presidentes Municipales, en sus res
 
 El programa deberá guardar congruencia con los Programas Nacionales y se sujetará a las previsiones contenidas en el mismo. En la formulación del programa, el Gobierno del Estado y los Municipios llevarán a cabo los foros de consulta previstos en la Ley de Planeación del Estado de Baja California; atenderán los lineamientos generales que establezcan los programas nacionales en materia de seguridad, procuración, prevención del delito y readaptación social, además de considerar las opiniones del Consejo y de los comités municipales de participación en materia de seguridad pública y de las organizaciones vecinales o sociales en general.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 16.
 
-Los Ayuntamientos, la Procuraduría y la Secretaría, informarán al Gobernador del Estado y al Congreso del Estado, sobre los avances del programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio del derecho que les asiste al Poder Legislativo de recabar información sobre casos o materias concretas en los términos de Ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas dependencias.
+Los Ayuntamientos y la Secretaría, informarán al Gobernador del Estado y al Congreso del Estado, sobre los avances del programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio del derecho que le asiste al Poder Legislativo de recabar información sobre casos o materias concretas en los términos de Ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas dependencias.
 
 ###### ARTÍCULO 17.
 
@@ -235,9 +247,11 @@ Cuando las acciones conjuntas se refieran al intercambio de información delicti
 
 Los Cuerpos de Seguridad deberán cooperar sin restricción alguna con las autoridades penitenciarias, en la vigilancia y seguridad exterior en los operativos destinados al traslado de reclusos o internos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 21.
 
-En el marco del Programa, los Ayuntamientos y el Ejecutivo del Estado, a través de la Procuraduría y la Secretaría, se coordinarán con las autoridades federales, estatales y municipales en las materias a que se refiere este título.
+En el marco del Programa, los Ayuntamientos y el Ejecutivo del Estado, a través de la Secretaría, se coordinarán con las autoridades federales, estatales y municipales en las materias a que se refiere este título.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
@@ -251,11 +265,11 @@ Las autoridades estatales y municipales están obligadas a coordinarse para ejec
 
 ### CAPÍTULO PRIMERO. DEL PERSONAL
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTÍCULO 22.
 
-Los Ayuntamientos, la Procuraduría y las empresas de Seguridad Privada, integrarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, de las altas, suspensiones, remociones, destituciones o inhabilitaciones, de las cuales deberán dar cuenta y aviso a la Secretaría, para la integración del Registro Estatal de Seguridad Pública.
+Los Ayuntamientos, la Procuraduría y las empresas de Seguridad Privada, integrarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, de las altas, suspensiones, remociones, destituciones o inhabilitaciones, de las cuales deberán dar cuenta y aviso oportuno a la Secretaría, la cual incluirá la información correspondiente a los elementos de sus cuerpos de seguridad, a efecto de integrar el Registro Estatal de Seguridad Pública.
 
 ### CAPÍTULO SEGUNDO. DEL ARMAMENTO Y VEHÍCULOS
 
@@ -519,7 +533,9 @@ II. Emitir opiniones y sugerencias, para la actualización, elaboración y evalu
 
 III. Denunciar ante las autoridades competentes, sobre las zonas las zonas que en su concepto tengan mayor índice de delincuencia dentro de la circunscripción territorial de cada una de los Comités;
 
-IV. Proponer a la Procuraduría y al Ayuntamiento, mecanismos de coordinación y desconcentración de funciones, para la mejor cobertura y calidad en los servicios encomendados;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+IV. Proponer a la Secretaría, a la Procuraduría y al Ayuntamiento, mecanismos de coordinación y desconcentración de funciones, para la mejor cobertura y calidad en los servicios encomendados;
 
 V. Evaluar el cumplimiento del o los programas preventivos de patrullaje;
 
@@ -531,7 +547,9 @@ VIII. Turnar ante el Consejo de Honor y Justicia correspondiente, aquellos casos
 
 IX. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención a las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los elementos de seguridad pública;
 
-X. Proponer a la Procuraduría y al Ayuntamiento, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+X. Proponer a la Secretaría, a la Procuraduría y al Ayuntamiento, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
 
 XI. Fomentar la cooperación y participación ciudadana en los siguientes aspectos:
 
@@ -659,7 +677,9 @@ VI. El Programa de Formación destinado a la preparación de mandos medios y sup
 
 El Instituto Estatal de Policía promoverá la participación de las Universidades acreditadas en el Estado para la formación e impartición de las materias de la currícula de la profesión de Policía.
 
-Asimismo, elaborará el Programa General de Formación Policial, considerando para ello las opiniones que al efecto emitan la Procuraduría, los Ayuntamientos y los Poderes Judicial y Legislativo del Estado.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+Asimismo, elaborará el Programa General de Formación Policial, considerando para ello las opiniones que al efecto emitan la Secretaría, la Procuraduría, los Ayuntamientos y los Poderes Judicial y Legislativo del Estado.
 
 ###### ARTÍCULO 62.
 
@@ -681,17 +701,23 @@ Se considera como Policía de Carrera, a quien haya cursado aprobatoriamente com
 
 Los elementos de seguridad pública tendrán derecho a realizar la Carrera Policial, que sustentarán en el estudio y aprobación de los programas del Programa General de Formación Policial, la práctica en el servicio de seguridad pública y los actos y méritos en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 66.
 
-La Procuraduría y los Ayuntamientos elaborarán el Reglamento de Promociones, Ascensos y Reconocimientos que se concederán a los elementos de seguridad pública tomando en cuenta factores escalafonarios como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de seguridad pública.
+La Secretaría, la Procuraduría y los Ayuntamientos elaborarán el Reglamento de Promociones, Ascensos y Reconocimientos que se concederán a los elementos de seguridad pública tomando en cuenta factores escalafonarios como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de seguridad pública y en su caso investigación y persecución de delitos.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTÍCULO 67.
 
-Para motivar la profesionalidad y la carrera policial y seguridad pública y mejor desempeño de los elementos de seguridad pública, la Procuraduría y los Ayuntamientos deberán establecer un escalafón salarial acorde a su riesgo profesional.
+Para motivar la profesionalidad y la carrera policial y seguridad pública y mejor desempeño de los elementos de seguridad pública, la Secretaría, la Procuraduría y los Ayuntamientos deberán establecer un escalafón salarial acorde a su riesgo profesional.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTÍCULO 68.
 
-La Procuraduría y las Academias o Instituciones de Policía Municipales convocarán, reclutarán y seleccionarán a los aspirantes a cursar el Programa de Formación Básica para ser parte de los Cuerpos de Seguridad.
+La Secretaría, la Procuraduría y las Academias o Instituciones de Policía Municipales convocarán, reclutarán y seleccionarán a los aspirantes a cursar el Programa de Formación Básica para ser parte de los Cuerpos de Seguridad.
 
 Para ello deberán acreditar conocimientos, aptitudes y los siguientes requisitos:
 
@@ -699,9 +725,9 @@ I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derech
 
 II. Ser de notoria buena conducta y reconocida solvencia moral;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-III. Tratándose de quienes aspiren a ingresar a los cuerpos de Seguridad Pública Municipales, deberán acreditar como mínimo el nivel académico de secundaria o su equivalente, obligándose a cursar y aprobar los programas que les permitan alcanzar el grado de bachiller, conforme al tiempo y forma que establecen los reglamentos respectivos;
+III. Haber cursado la escuela Preparatoria y poseer certificado aprobatorio de bachiller; tratándose de quienes aspiren a ingresar a los cuerpos de Seguridad Pública Municipales, deberán acreditar como mínimo el nivel académico de secundaria o su equivalente, obligándose a cursar y aprobar los programas que les permitan alcanzar el grado de bachiller, conforme al tiempo y forma que establecen los reglamentos respectivos;
 
 IV. No tener antecedentes penales, ni estar sujeto a proceso penal por delito doloso;
 
@@ -725,21 +751,27 @@ Para ser incorporado a los cuerpos de seguridad o promovido en el escalafón, se
 
 Los alumnos que abandonen sus estudios injustificadamente o hayan reprobado el Programa de Formación Básica no podrán reingresar al Instituto o Academias, ni estarán aptos para incorporarse a los cuerpos de seguridad.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 70.
 
-La Procuraduría y los Ayuntamientos, de acuerdo a sus necesidades y en coordinación con el Instituto y las Academias, harán las convocatorias para los aspirantes a cursar el Programa de Formación Básica, a efecto de cubrir las plazas vacantes.
+La Secretaría, la Procuraduría y los Ayuntamientos, de acuerdo a sus necesidades y en coordinación con el Instituto y las Academias, harán las convocatorias para los aspirantes a cursar el Programa de Formación Básica, a efecto de cubrir las plazas vacantes.
 
 ###### ARTÍCULO 71.
 
 Los egresados aprobados del Instituto o Academias e Instituciones de Policía Municipales, tendrán preferencia para cubrir las vacantes y plazas de nueva creación en los Cuerpos de Seguridad Pública.
 
-La Procuraduría y los Ayuntamientos, con base en el Reglamento de Promociones, Ascensos y Reconocimientos promoverán y concederán lo propio tomando en cuenta los factores escalafonarios como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el servicio de seguridad pública.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+La Secretaría, la Procuraduría y los Ayuntamientos, con base en el Reglamento de Promociones, Ascensos y Reconocimientos promoverán y concederán lo propio tomando en cuenta los factores escalafonarios como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el servicio de seguridad pública.
 
 No podrán concederse ascensos o grados a ningún elemento de seguridad pública que no haya ocupado el puesto inmediato anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 72.
 
-La Procuraduría y los Ayuntamientos, para los efectos enunciados en el artículo anterior, deberán evaluar periódicamente a los elementos de seguridad pública y registrar en sus expedientes y hojas de servicio lo siguiente:
+La Secretaría, la Procuraduría y los Ayuntamientos, para los efectos enunciados en el artículo anterior, deberán evaluar periódicamente a los elementos de seguridad pública y registrar en sus expedientes y hojas de servicio lo siguiente:
 
 I. La conservación de los requisitos de ingreso;
 
@@ -785,7 +817,9 @@ En cada caso se otorgará un estímulo económico adicional, ajustándose a las 
 
 La Condecoración al Valor Policial consiste en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen funciones encomendadas por la ley con grave riesgo para su vida o salud.
 
-En casos excepcionales, el Gobernador del Estado o el Procurador, a propuesta del Consejo de Honor y Justicia y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior. Esta facultad será ejercida por el Presidente Municipal respectivo, en tratándose de corporaciones preventivas.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+En casos excepcionales, el Gobernador del Estado, a propuesta del Consejo de Honor y Justicia y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior. Esta facultad será ejercida por el Presidente Municipal respectivo, en tratándose de los cuerpos de seguridad a su mando.
 
 ###### ARTÍCULO 77.
 
@@ -833,7 +867,9 @@ VII. Ser sujeto de condecoraciones, estímulos y recompensas cuando su conducta 
 
 VIII. Prestar el servicio de seguridad dentro de un horario acorde a las necesidades del mismo, así como disfrutar de prestaciones, licencias y descanso semanal;
 
-IX. Ser asesorados y defendidos jurídicamente por el Ayuntamiento o la Procuraduría, según sea el caso, en forma gratuita, cuando por motivos de servicio y a instancia de un particular, sean sujetos a algún procedimiento que tenga por objeto fincarles responsabilidad penal o civil; si en el proceso se desprende su probable responsabilidad, inmediatamente cesará dicha obligación de defensa;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+IX. Ser asesorados y defendidos jurídicamente por el Ayuntamiento o el Gobernador del Estado, según sea el caso, en forma gratuita, cuando por motivos de servicio y a instancia de un particular, sean sujetos a algún procedimiento que tenga por (sic) fincarles responsabilidad penal; si en el proceso se desprende su probable responsabilidad, inmediatamente cesará dicha obligación de defensa;
 
 X. Recibir oportuna atención médica sin costo alguno para el elemento policial, cuando sea lesionado en cumplimiento de su deber, en caso de extrema urgencia, gravedad, deberán ser atendidos en la institución médica pública o privada más cercana al lugar donde se produjeron los hechos, y
 
@@ -1180,3 +1216,9 @@ DECRETO NUMERO 336.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE OCTUBRE DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
