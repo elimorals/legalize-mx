@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-beneficencia-publica-del-estado-de-oaxaca-6969"
 country: "mx"
 rank: "ley"
 publication_date: "1936-06-27"
-last_updated: "1936-10-31"
+last_updated: "1939-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA BENEFICENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1939.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 27 de Junio de 1936.
 
@@ -129,9 +129,11 @@ Por ningún motivo pueden las instituciones u obras de beneficencia, cualquiera 
 
 La responsabilidad en los casos señalados en el artículo anterior, se hará efectiva con las sanciones que corresponden al delito de peculado, de conformidad con lo dispuesto por el artículo 267 y relativos del Código Penal y por las autoridades competentes. Se concede acción popular para denunciar las causas de responsabilidad.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1939)</small>
+
 ###### Artículo 19.
 
-Los bienes destinados a la Beneficencia serán administrados por los representantes o patronos de las fundaciones. Ni el Gobierno del Estado ni los Ayuntamientos, ni la Junta que establece esta Ley, podrán ejercer esa administración, pero sí vigilarla en los términos marcados por la misma.
+Los bienes destinados a la Beneficencia Privada serán administrados por los representantes o patronos de las fundaciones. Ni el Gobierno del Estado, ni los Ayuntamientos podrán ejercer esa administración, pero sí vigilarla en los términos de Ley.
 
 ###### Artículo 20.
 
@@ -255,9 +257,11 @@ Los patronos pueden otorgar poderes a terceras personas y revocarlos cuando lo e
 
 Los patronos tendrán para todos los efectos legales el carácter de apoderados y sus facultades estarán limitadas por el título de la fundación, por su acta constitutiva y por las disposiciones legales respectivas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1939)</small>
+
 ###### Artículo 42.
 
-Los patronos serán sustituidos en sus faltas temporales o absolutas en los términos indicados en los artículos precedentes; pero si no se hubiere previsto el caso, su sustitución se hará por nombramiento del Ejecutivo a propuesta en terna de la Junta de Beneficencia.
+Los patronos serán sustituidos en sus faltas temporales o absolutas en los términos indicados en los artículos precedentes; pero si no se hubiere previsto el caso, la sustitución se hará por nombramiento del Ejecutivo.
 
 ###### Artículo 43.
 
@@ -277,77 +281,45 @@ Los patronos tendrán como remuneración por el ejercicio de su encargo la que l
 
 ### CAPITULO V. DEL CONTROL, VIGILANCIA E INSPECCION
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 1939)</small>
+
 ###### Artículo 45.
 
-Para la creación, desarrollo y fiel observancia de sus finalidades, el Estado ejercerá el control, vigilancia e inspección de la Beneficencia, tanto pública como Privada.
+Para la creación, desarrollo y fiel observancia de sus finalidades, el Estado ejercerá el control, vigilancia e inspección de la Beneficencia, tanto pública como privada, quedando la Beneficencia Pública investida con el carácter de autoridad fiscal, con las atribuciones que a las autoridades de su clase concede la Ley de Organización Fiscal del Estado y el Reglamento de la misma.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE AGOSTO DE 1936)</small>
+Los establecimientos de Beneficencia Pública dependerán directamente del Ejecutivo del Estado, sujetándose en su régimen interior a los Reglamentos respectivos.
 
-###### ARTICULO 46.
+Para la tramitación y despacho de los asuntos que corresponden a dicha Institución, se crea una dependencia adscrita a la Secretaría General del Gobierno, que se denominará Sección de Beneficencia Pública.
 
-El Ejecutivo podrá delegar temporalmente, la representación del Presidente nato de la Junta de Beneficencia que se le confiere, en el Consejero o persona que lo estime conveniente a los intereses de la Beneficencia y a su control, vigilancia e inspección.
+Los ingresos que forman parte del patrimonio de la Beneficencia Pública que no sean percibidos y aplicados por las respectivas instituciones de acuerdo con sus reglamentos, serán recaudados y administrados por conducto de la Sección de Beneficencia.
+
+El Ejecutivo del Estado reglamentará el uso de esta función y hará las aclaraciones pertinentes en los casos que lo ameriten.
+
+###### Artículo 46.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1939)
 
 ###### Artículo 47.
 
-Los miembros de la Junta de Beneficencia durarán en su cargo dos años, a contar desde su nombramiento; en los casos de faltas temporales o absolutas de dichos miembros, el Ejecutivo proveerá inmediatamente a su nombramiento.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1939)
 
 ###### Artículo 48.
 
-También formarán parte de esta Junta los directores, jefes o encargados de los establecimientos de Beneficencia Oficial y los patronos de las fundaciones u obras de beneficencia privada. Todas estas personas tendrán voz, pero no voto en la junta referida, pues sólo las cinco personas designadas resolverán a mayoría de votos las cuestiones que se presenten.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1939)
 
 ###### Artículo 49.
 
-El cargo de miembro de la Junta de Beneficencia será gratuito y para ello se designarán personas de honorabilidad y probidad reconocidas. Los miembros de esta Junta deben tener ideas en consonancia con las leyes e instituciones que nos rigen.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1939)
 
 ###### Artículo 50.
 
-Son atribuciones de la Junta de Beneficencia:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1939)
 
-I.- Promover la fundación y fomento de los establecimientos y obras de este ramo.
-
-II.- Dictar las medidas necesarias para la vigilancia del orden y administración de cada establecimiento, pero sin contrariar jamás ni las disposiciones que los rijan ni la voluntad del fundador, ni sus reglamentos o estatutos.
-
-III.- Practicar visitas a los establecimientos u obras de beneficencia.
-
-IV.- Promover la organización de juntas de beneficencia en las cabeceras de los distritos del Estado o en las municipalidades de importancia.
-
-V.- Rendir los informes necesarios al Ejecutivo del Estado, resolver las consultas que éste le haga y dictaminar sobre las solicitudes para el establecimiento de instituciones de beneficencia privada.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1936)</small>
-
-VI.- Resolver todas las consultas que le hagan los establecimientos de Beneficencia Pública.
-
-VII.- Remitir ternas en su caso para el nombramiento de patronos.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1936)</small>
-
-VIII.- Dictaminar sobre los reglamentos que deben tener las Fundaciones de Beneficencia Privada.
-
-IX.- Dictar las medidas necesarias respecto de la administración de las fundaciones con el objeto de que no se distraigan los bienes destinados al objeto de las mismas.
-
-X.- Cuidar por el cumplimiento fiel y exacto de la voluntad de los fundadores.
-
-XI.- Consignar por conducto del Ejecutivo a la Autoridad competente a los directores, jefes, encargados, patronos y apoderados infieles y exigirles la responsabilidad civil que corresponda.
-
-XII.- Recibir las denuncias que se hagan sobre fundaciones de beneficencia que no funcionen con arreglo a la Ley, para dar cuenta al Ejecutivo.
-
-XIII.- Promover ante los Tribunales el pronto despacho de los asuntos en que tenga interés la Beneficencia.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1936)</small>
-
-XIV.- Dictaminar cuándo una Fundación de Beneficencia Privada debe transformarse, adaptarse o suprimirse y dictaminar también sobre el destino que ha de dársele a sus bienes.
-
-XV.- Glosar las cuentas de la Beneficencia.
-
-XVI.- Rendir un informe al Ejecutivo antes del quince de marzo y del primero de septiembre de cada año, respecto de las actividades de la Junta.
-
-XVII.- Todas las demás atribuciones que las leyes, acuerdos o reglamentos les confieren.
-
-> <small>(ADICIONADO [N. DE E.REFORMADO], P.O. 31 DE OCTUBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1939)</small>
 
 ###### Artículo 51.
 
-La vigilancia e inspección de los establecimientos, Fundaciones u Obras de Beneficencia Privada, se llevarán a cabo por las personas que en cada caso nombre el Ejecutivo ya sea por sí o a instancia de la Junta de Beneficencia. La de las Instituciones de Beneficencia Pública, por los Inspectores o designados conforme al Reglamento.
+La vigilancia e inspección de los establecimientos, fundaciones u obras de beneficencia públicas y privadas se llevarán a cabo por las personas que en cada caso nombre el Ejecutivo.
 
 ###### Artículo 52.
 
@@ -355,25 +327,25 @@ La vigilancia e inspección de los establecimientos, Fundaciones u Obras de Bene
 
 ### CAPITULO VI. EXTINCION DE LAS FUNDACIONES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE OCTUBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1939)</small>
 
 ###### Artículo 53.
 
-Cuando las Fundaciones u Obras de Beneficencia Privada lleguen a ser inadaptables o inútiles por las nuevas necesidades sociales, cambiarán su objeto, ya sea por solicitud de sus patronos o por acuerdo del Ejecutivo. En todo caso se respetará la voluntad de los fundadores, siempre que no se oponga a las nuevas finalidades sociales y al derecho público. La Junta Directiva de la Beneficencia resolverá los casos análogos respecto de las instituciones de Beneficencia Pública.
+Cuando las fundaciones u obras de Beneficencia Privada lleguen a ser inadaptables o inútiles por las nuevas necesidades sociales, cambiarán su objeto, ya sea por solicitud de sus patronos o por acuerdo del Ejecutivo. En todo caso se respetará la voluntad de los fundadores, siempre que no se oponga a las nuevas finalidades sociales y al derecho público. El Ejecutivo resolverá los casos análogos respecto a las instituciones de Beneficencia Pública.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1939)</small>
 
 ###### Artículo 54.
 
-En el caso de no ser posible la adaptación en los términos indicados, mediante resolución del Ejecutivo, se declarará extinguida la Fundación, procediéndose desde luego a liquidarla. Si se trata de un establecimiento oficial, los bienes que le correspondan se destinarán a otra institución de Beneficencia a juicio de la Junta Directiva. Si se trata de Beneficencia Privada, sus bienes pasarán a otra Fundación u obra de Beneficencia Privada, de acuerdo con los fundadores, patronos y Junta de Beneficencia mediante acuerdo también del Ejecutivo.
+En el caso de no ser posible la adaptación en los términos indicados, mediante resolución del Ejecutivo se declarará extinguida la fundación, procediéndose desde luego a liquidarla. Si se trata de un establecimiento oficial, los bienes que le correspondan se destinarán a otra institución de beneficencia, a juicio del Ejecutivo. Si se tratare de Beneficencia Privada, sus bienes pasarán a otra fundación u obra de Beneficencia Privada, de conformidad con las disposiciones de los fundadores y de acuerdo con los patronos y el Ejecutivo.
 
 ###### Artículo 55.
 
 En todo caso los documentos y libros de las fundaciones u obras de beneficencia, sea públicas o privadas, pasarán cuando se extinga la Institución al Archivo General del Estado.
 
-###### Artículo 56.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1939)</small>
 
-Cuando una Fundación u Obra de Beneficencia autorizada deje de llenar o se desvíe de su objeto, porque sus fondos se apliquen a otros fines o cuando sea administrada con infracción de las leyes vigentes, la Junta de Beneficencia, por conducto del Ejecutivo, prevendrá al patrono dicte las medidas necesarias para corregir la irregularidad, dentro del prudente término que se le señale y si el patrono no obedeciere, la Junta demandará su separación y su substitución, de acuerdo con el acta constitutiva o solicitud, estatutos, o disposiciones de esta Ley. El juicio será sumario, conocerá de él el Juez del domicilio de la Fundación y fungirá como demandante el Presidente Efectivo de la Junta de Beneficencia, previo acuerdo de la misma Junta. En la misma forma se procederá cuando deba modificarse o extinguirse una Fundación y el patrono se negare a ello.
+Artículo 65 (sic).- Cuando una fundación u obra de beneficencia autorizada deje de llenar su objeto o se desvíe de éste, porque sus fondos se apliquen a otros fines, o cuando sea administrada con infracción de las leyes vigentes, el Ejecutivo prevendrá al patrono dicte las medidas necesarias para corregir las irregularidades, dentro del prudente término que se le señale, y si el patrono no obedeciere será separado y sustituido. El juicio de separación será sumario, conocerá de él el Juez del domicilio de la fundación, y fungirá como demandante el Procurador General de Justicia. En igual forma se procederá cuando deba modificarse o extinguirse una fundación y el patrono se negare a ello.
 
 ###### Artículo 57.
 
@@ -434,3 +406,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 31 DE OCTUBRE DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 30 DE DICIEMBRE DE 1939.
+
+Primero.- Se legalizan todos los acuerdos, disposiciones, trámites, etc., que en el ramo de Beneficencia Pública dictó y autorizó el Ejecutivo del Estado, del 9 de febrero último a la fecha.
+
+Segundo.- El presente decreto surtirá sus efectos a partir de la fecha.
