@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2000-11-03"
+last_updated: "2002-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE FEBRERO DE 2003 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -37,9 +39,11 @@ REGLAMENTO DE TRÁNSITO Y VIALIDAD
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 1.
 
-Se declaran de utilidad e interés social las disposiciones de este Reglamento, el cual establece las normas que regulan el tránsito vehicular y peatonal, a las que obligatoriamente se sujetan las personas físicas y morales que transiten por el Municipio.
+Se declaran de utilidad pública, interés social y de observancia general las disposiciones de este Reglamento, el cual establece las limitaciones y restricciones para la vialidad y tránsito tanto de peatones como de vehículos en la vía pública del Municipio y áreas o zonas privadas con acceso al público; la vigilancia y supervisión de vehículos a fin de que reúnan las condiciones y equipo previstos en este Ordenamiento; la suspensión de movimiento y estacionamiento de vehículos; la expedición, suspensión o cancelación de licencias o permisos para conducir vehículos; las medidas de auxilio, emergencia e indagatorias que en relación con el tránsito de peatones o vehículos, sean necesarias en situaciones de fuerza mayor, caso fortuito, accidentes o alteraciones del orden público; el retiro de la vía pública o de áreas o zonas privadas con acceso al público de vehículos u objetos que indebidamente obstaculicen o pongan en peligro el tránsito de peatones o vehículos y en su caso, la remisión de vehículos a los depósitos correspondientes; y la aplicación de las sanciones que correspondan por infracciones al presente Reglamento.
 
 ###### ARTICULO 2.
 
@@ -63,11 +67,15 @@ VIII La vigilancia y supervisión de vehículos a fin de que reúnan las condici
 
 IX La aplicación de las sanciones que correspondan por infracciones de tránsito, en los términos del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 3.
 
-Las disposiciones de este Reglamento tendrán aplicación en todas las vías públicas del Municipio. En caso de accidentes en áreas o zonas privadas en las que el público tenga acceso, se aplicará este mismo ordenamiento cuando así lo soliciten las partes involucradas; el ingreso a dichas áreas o zonas, deberá hacerse con el previo consentimiento del propietario del lugar, gerente, administrador, personal encargado en ese momento o vigilante; cuando quien debe dar la correspondiente autorización no se localice o se niegue a permitir el acceso del personal de la Autoridad Municipal, las partes involucradas procederán de acuerdo a lo que se establezca en el Código Penal vigente en el Estado de Nuevo León y demás leyes estatales aplicables.
+Las disposiciones de este Reglamento tendrán aplicación en todas las vías públicas del Municipio. En caso de infracciones y/o accidentes en áreas o zonas privadas en las que el público tenga acceso, se aplicará este mismo ordenamiento cuando así lo soliciten las partes involucradas; el ingreso a dichas áreas o zonas, deberá hacerse con el previo consentimiento del propietario del lugar, gerente, administrador, personal encargado en ese momento o vigilante cuando quien debe dar la correspondiente autorización no se localice o se niegue a permitir el acceso del personal de la Autoridad Municipal, las partes involucradas ejercerán sus derechos conforme a las leyes vigentes ante la autoridad competente.
 
-ARTICULO. 4.- El Presidente Municipal es la Autoridad con atribuciones para ordenar las aplicaciones de las medidas necesarias para el debido cumplimiento del presente Reglamento, delegando tales atribuciones en persona determinada o Dependencia Municipal que designe.
+###### ARTICULO 4.
+
+El Presidente Municipal es la Autoridad con atribuciones para ordenar las aplicaciones de las medidas necesarias para el debido cumplimiento del presente Reglamento, delegando tales atribuciones en persona determinada o Dependencia Municipal que designe.
 
 ###### ARTICULO 5.
 
@@ -87,15 +95,21 @@ Queda prohibido en las vías públicas lo siguiente:
 
 I Alterar, destruir, derribar, cubrir, cambiar de posición o lugar las señales o dispositivos para el control de tránsito y vialidad;
 
-II Colocar señales o dispositivos de tránsito, tales como boyas, bordos, barreras, o separar de alguna forma espacios para estacionar vehículos sin la autorización de la Autoridad Municipal;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+II Colocar señales o dispositivos de tránsito, tales como boyas, bordos, barreras, aplicar pintura en banquetas, calles o demás vías públicas o separar de alguna forma espacios para estacionar vehículos sin la autorización de la Autoridad Municipal;
 
 III Colocar anuncios de cualquier tipo cuya disposición de forma, color, luz o símbolos, se haga de tal forma que puedan confundirse con señales de tránsito y vialidad u obstaculizar la visibilidad de los mismos;
 
 IV Colocar luces o anuncios luminosos de tal intensidad que puedan deslumbrar o distraer a los conductores de vehículos;
 
-V Instalar o colocar objetos, tirar basura, lanzar botellas, vidrios, clavos, latas o cualquier material o sustancia que pueda ensuciar o causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-VI El abrir zanjas o efectuar trabajos en la vía pública sin la autorización de la Autoridad Municipal; ante la falta de observancia de lo anterior, la Autoridad encargada de la vigilancia del Tránsito informará lo conducente a la Dependencia de Obras Públicas Municipales a fin de QUE aplique la sanción correspondiente. Cuando por circunstancias especiales, la autoridad antes mencionada otorgue un permiso para depositar materiales, hacer zanjas o realizar trabajos en la vía pública, se deberá señalar el lugar como sigue:
+V Instalar, colocar, arrojar o abandonar objetos, tirar basura, lanzar o esparcir botellas, vidrios, clavos, latas o cualquier material o sustancia que pueda ensuciar o causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos o causar algún (os) accidente (s);
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VI El abrir zanjas o efectuar trabajos en la vía pública sin la autorización de la Autoridad Municipal. Ante la falta de observancia de lo anterior, la Autoridad encargada de la vigilancia del Tránsito informará lo conducente a la Dependencia de Obras Públicas Municipales a fin de aplique (sic) la sanción correspondiente. Cuando por circunstancias especiales, la autoridad antes mencionada otorgue un permiso para depositar materiales, hacer zanjas o realizar trabajos en la vía pública, se deberá señalar el lugar en los términos que para este efecto establezca la autoridad municipal requiriendo cuando menos lo siguiente:
 
 DE DIA: Con dos banderolas rojas de cincuenta por cincuenta centímetros como mínimo a cada lado del obstáculo por donde se aproximen peatones, semovientes o vehículos.
 
@@ -125,9 +139,11 @@ XVII El abandonar vehículos en la vía pública;
 
 XVIII Utilizar la vía pública como patio de carga y descarga sin permiso de la Autoridad correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 8.
 
-Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, sindical, deportivo, recreativo, conmemorativo, con finalidad lícita y que pueda originar conflictos viales, es necesario que sus organizadores den aviso por escrito, por lo menos setenta y dos horas antes del inicio de su celebración, a fin de que oportunamente la Autoridad Municipal adopte las medidas preventivas e indispensables a la preservación de la seguridad de los participantes y al mismo tiempo se eviten trastornos a la vialidad, haciendo todo lo posible por encontrar, de común acuerdo, la Autoridad Municipal y los organizadores el horario y la vía o espacio público más adecuados a la conservación de la tranquilidad vial, sin menoscabo de las garantías individuales de los ciudadanos.
+Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, sindical, deportivo, recreativo, conmemorativo, con finalidad lícita y que pueda originar conflictos viales, es necesario que sus organizadores den aviso por escrito, por lo menos setenta y dos horas antes del inicio de su celebración, a fin de que oportunamente la Autoridad Municipal adopte las medidas preventivas e indispensables a la preservación de la seguridad de los participantes y al mismo tiempo se eviten trastornos a la vialidad, haciendo todo lo posible por encontrar, de común acuerdo, la Autoridad Municipal y los organizadores el horario y la vía o espacio público más adecuados a la conservación de la tranquilidad vial, sin menoscabo de las garantías individuales reconocidas por la Constitución Política de los Estados Unidos Mexicanos a todos los individuos.
 
 ### CAPITULO TERCERO. DE LA CLASIFICACION DE LOS VEHICULOS
 
@@ -173,11 +189,17 @@ Los vehículos cuyos propietarios residan en este Municipio, deberán ser regist
 
 I Placa (s) vigente(s);
 
-II Tarjeta de circulación vigente original;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-III Calcomanía de placas y/o refrendo vigente;
+II Tarjeta de circulación vigente original. En el caso de los autobuses de transporte urbano la copia autorizada por la Autoridad Reguladora del Transporte en el Estado será equivalente al original;
 
-IV Permiso provisional vigente.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+III Calcomanía de placas y refrendo vigente;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IV Permiso provisional vigente al carecer de los anteriores requisitos.
 
 Quedan exentos de esta obligación los vehículos al servicio de las fuerzas armadas del país, los cuales se identificarán mediante los colores oficiales y sus números de matrícula.
 
@@ -205,15 +227,25 @@ VI Para vehículos consulares o del uso de diplomáticos;
 
 VII Para vehículos de tracción animal y ciclistas, con número de identificación Municipal;
 
-VIII Para vehículos especiales.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VIII Para vehículos de tracción animal, con número de identificación Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IX. Para remolques de todo tipo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 13.
 
-Las placas deberán conservarse siempre limpias, sin dobleces, alteraciones ni mutilaciones, debiendo colocarse una en la parte posterior exterior del vehículo y la otra en la parte delantera exterior del vehículo, en las áreas provistas en los vehículos por el fabricante. Ambas placas deberán estar siempre visibles para que su lectura sea clara y sin confusión, debiendo estar fijas al vehículo para evitar su robo o caída. Para los vehículos que utilicen solo una placa, ésta deberá colocarse en la parte trasera del vehículo.
+Las placas deberán conservarse siempre limpias, sin dobleces, alteraciones ni mutilaciones, debiendo colocarse una en la parte posterior exterior del vehículo en el área provista por el fabricante y la otra en la parte frontal exterior del vehículo. Ambas placas deberán estar siempre visibles para que su lectura sea clara y sin confusión, debiendo estar fijas al vehículo para evitar su robo o caída. Para los vehículos que se les expida solo una placa, ésta deberá colocarse en la parte trasera del vehículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 14.
 
-Los vehículos de procedencia extranjera podrán circular dentro de este Municipio si cuentan con permiso vigente de introducción al país expedido por las Autoridades correspondientes y cumplan con los requisitos para circular del lugar de su origen, debiendo contar con placas vigentes de circulación. Tales vehículos podrán ser conducidos en este Municipio por el cónyuge, los ascendientes o descendientes del importador siempre y cuando sean residentes en el extranjero, o por un extranjero con las calidades migratorias indicadas en el artículo 106 fracción IV inciso a), de la Ley Aduanera. Cuando sea conducido por alguna persona distinta de las autorizadas, invariablemente deberá viajar a bordo el propietario del vehículo.
+Los vehículos de procedencia extranjera podrán circular dentro de este Municipio si cuentan con permiso vigente de introducción al país expedido por las Autoridades correspondientes y cumplan con los requisitos para circular del lugar de su origen, debiendo contar con placas vigentes de circulación Tales vehículos podrán ser conducidos en este Municipio por el cónyuge, los ascendientes, descendientes o hermanos del importador siempre y cuando sean residentes en el extranjero o por un extranjero con las calidades migratorias indicadas en el artículo 106 fracción IV inciso a), de la Ley Aduanera, y su Reglamento, así como los demás acuerdos, circulares y disposiciones que dicte la Autoridad Fiscal correspondiente. Cuando sea conducido por alguna persona distinta de las autorizadas, invariablemente debera viajar a bordo el propietario del vehículo.
 
 En caso de violación al respecto, se recogerá el vehículo y se pondrá a disposición del Agente del Ministerio Público Federal y/o a las Autoridades Fiscales correspondientes.
 
@@ -221,9 +253,13 @@ En caso de violación al respecto, se recogerá el vehículo y se pondrá a disp
 
 Las calcomanías de placas y refrendos deberán colocarse en el ángulo superior derecho del cristal delantero o trasero, debiéndose retirar las anteriores para no restar visibilidad al conductor, y evitar la confusión en la identificación del vehículo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 16.
 
-La tarjeta de circulación original deberá conservarse siempre en buen estado, debiendo permanecer en el vehículo correspondiente, y ser mostrada por el conductor al personal de la Autoridad Municipal encargado de la vigilancia del tránsito vehicular, cuando se le solicite.
+La tarjeta de circulación original deberá conservarse siempre en buen estado, debrendo (sic) permanecer en el vehículo correspondiente, y ser entregada por el conductor al personal de la Autoridad Municipal encargado de la vigilancia del tránsito vehicular, cuando se le solicite.
+
+En el caso de los autobuses de transporte urbano la copia autorizada por la Autoridad Reguladora del Transporte en el Estado será equivalente al original.
 
 ###### ARTICULO 17.
 
@@ -275,9 +311,11 @@ VI Incendio, destrucción, desuso o desarme;
 
 VII Recuperación después de un robo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 22.
 
-Se considera flotilla de vehículos cuando dos o más unidades de un mismo propietario o empresa cuenten con la misma disposición de colores y/o la misma razón social. Estos vehículos deberán tener en la parte delantera y posterior un número económico que los identifique de veinticinco centímetros por veinticinco centímetros (25 x 25).
+Se considera flotilla de vehículos cuando dos o más unidades de un mismo propietario, sea persona física o moral, cuenten con la misma disposición de colores y/o la misma razón social Estos vehículos deberán tener en la parte delantera y posterior un número económico que los identifique de veinticinco centímetros por veinticinco centímetros (25 x 25).
 
 ###### ARTICULO 23.
 
@@ -341,9 +379,13 @@ M) Los remolques y semiremolques deberán cumplir con lo marcado en los incisos 
 
 N) Las motocicletas deberán contar con el equipo de luces siguiente:
 
-N1 Un faro delantero que emita luz blanca con dispositivo para el cambio de intensidad.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-N2 Un faro trasero que emita luz roja y que aumente de intensidad al aplicar los frenos.
+N1 Al menos un faro delantero que emita luz blanca con dispositivo para el cambio de intensidad
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+N2 Al menos un faro trasero que emita luz roja y que aumente de intensidad al aplicar los frenos.
 
 N3 Luces direccionales iguales a las de los vehículos de cuatro o más ruedas, así como una luz iluminadora de placa.
 
@@ -357,7 +399,9 @@ V CINTURON DE SEGURIDAD.- Todos los vehículos automotores deberán contar con c
 
 VI TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o universal. Debe evitarse el uso de madera, estopa, tela, botes o cualquier dispositivo;
 
-VII VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varios faros o torretas de color rojo, mismos que deberán ser audibles y visibles respectivamente desde doscientos cincuenta metros;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VII VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y uno o varios faros o torretas de color rojo, azul o blanco, mismos que deberán ser audibles y visibles respectivamente desde doscientos cincuenta metros.
 
 VIII CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
 
@@ -401,11 +445,15 @@ A) Ventanillas protegidas con malla metálica para evitar que los escolares saqu
 
 B) Colores distintivos, amarillo con una franja blanca y leyendas en color negro.
 
-C) Una puerta de emergencia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+C) Contar con salida (s) de emergencia.
 
 D) Cumplir con lo dispuesto en la fracción III inciso K) de este artículo.
 
-E) Tener impreso al frente y atrás un número económico que asignará la Autoridad Municipal, mismo que tendrá un tamaño mínimo de veinticinco centímetros de alto por quince centímetros de ancho y también una calcomanía que diga “QUEJAS” y además los números de teléfono de la Autoridad mencionada.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+E) Tener impreso al frente y atrás un número económico que asignará la Autoridad Municipal, mismo que tendrá un tamaño mínimo de veinticinco centímetros de alto por quince centímetros de ancho y también una calcomanía que diga “QUEJAS” y además los números de teléfono de la Autoridad reguladora del Transporte en el Estado.
 
 F) Revisión mecánica cada seis meses.
 
@@ -415,13 +463,17 @@ H) El conductor de la unidad, deberá poseer licencia expedida por la Dirección
 
 XIX VEHICULOS TRANSPORTADORES DE CARGA PELIGROSA.- Los vehículos transportadores de materiales explosivos, flamables, tóxicos o peligrosos de cualquier índole, deberán llevar en la parte posterior y en los costados las leyendas siguientes: PELIGRO, MATERIAL EXPLOSIVO, FLAMABLE, TOXICO O PELIGROSO. Lo anterior, además de cumplir con lo que establece el Capítulo del Transporte de Carga y sus Maniobras;
 
-XX VEHICULOS CONDUCIDOS POR PERSONAS CON DISCAPACIDAD.- Los vehículos que sean conducidos por discapacitados deberán contar con los dispositivos especiales para cada caso. Estos y los que transportan minusválidos deberán contar con una calcomanía con el emblema correspondiente, para que puedan hacer uso de los lugares exclusivos.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-Estos vehículos no podrán hacer uso de los lugares exclusivos cuando no sean conducidos por minusválidos o bien cuando no transporten a éstos.
+XX. VEHICULOS CONDUCIDOS POR PERSONAS CON CAPACIDAD DIFERENCIADA.- Los vehículos que sean conducidos por personas con capacidad diferente deberán contar con los dispositivos especiales para cada caso Estos y los que transportan a personas con capacidad diferenciada deberán contar con una calcomanía y/o con un holograma expedidas por la Autoridad correspondiente, o con placas en donde aparezca el emblema correspondiente, para que puedan hacer uso de los lugares exclusivos
+
+Estos vehículos no podrán hacer uso de los lugares exclusivos cuando no sean conducidos por personas con capacidad diferenciada o bien cuando no transporten a éstos.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 25.
 
-Los vehículos pesados para poder circular por el Municipio requerirán autorización expresa de la Autoridad Municipal.
+Los vehículos pesados para poder circular en áreas restringidas por el Municipio deberán contar con el permiso expedido por la Autoridad Municipal.
 
 ###### ARTICULO 26.
 
@@ -437,7 +489,9 @@ IV Radios que utilicen la frecuencia de la Dependencia de Tránsito correspondie
 
 V Piezas del vehículo que no estén debidamente sujetas de tal forma que puedan desprenderse constituyendo un peligro;
 
-VI Sirena y/o torreta;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VI Sirena o aparatos que emitan sonidos semejantes a ella, torreta y/o luces estroboscópicas de cualquier color con excepción de los vehículos oficiales, de emergencia o especiales;
 
 VII Artículos u objetos que impidan u obstaculicen la visibilidad del conductor;
 
@@ -505,7 +559,9 @@ II Saber leer y escribir;
 
 III Llenar la solicitud correspondiente que expida la Autoridad Municipal;
 
-IV Presentar examen médico reciente, expedido por una institución de salud de la localidad o por un profesionista autorizado, en donde se haga constar que el solicitante tiene la agudeza audiovisual y demás facultades mentales en pleno uso, indicándose también su tipo de sangre;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IV Presentar examen médico reciente, expedido por una institución de salud reconocida de la localidad o por un profesionista autorizado que cuente con cédula profesional, en donde se haga constar que el solicitante tiene la agudeza audiovisual y demás facultades mentales en pleno uso, indicándose también su tipo de sangre;
 
 V Presentar y aprobar examen teórico y práctico de manejo y conocimiento de dispositivos de tránsito y del presente Reglamento ante la Autoridad Municipal encargada de la vialidad;
 
@@ -533,7 +589,9 @@ I Presentar original y copia del acta de nacimiento;
 
 II Presentar carta responsiva de su padre o madre. De no existir éstos, la responsiva podrá ser otorgada por su tutor o persona mayor de edad de reconocida solvencia moral y económica que resida en esta ciudad;
 
-III Aprobar el curso de manejo defensivo impartido por la Autoridad Municipal; (sic)
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+III. Aprobar el curso de manejo defensivo impartido por la Autoridad Municipal o por alguna de las Instituciones registradas ante la Autoridad Municipal a que se refiere el Artículo 122 Fracción I de este ordenamiento
 
 ###### ARTICULO 36.
 
@@ -567,11 +625,17 @@ II Circular con las puertas de sus vehículos cerradas;
 
 III Al bajar de su vehículo, antes de abrir la puerta, cerciorarse que puede hacerlo sin ocasionar accidente;
 
-IV Utilizar el cinturón de seguridad y hacer que los pasajeros hagan lo mismo. Deberán procurar también, que los niños de hasta dos años utilicen portabebé y además vayan sujetos por el cinturón de seguridad;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-V Bajar pasaje lo más próximo a la banqueta o acotamiento;
+IV. Utilizar el cinturón de seguridad y hacer que los pasajeros hagan lo mismo. Los niños de hasta cuatro años de edad y/o estatura menor de 95 centímetros deberán utilizar porta bebé y estar sujetos por el cinturón de seguridad, debiendo viajar en el asiento posterior cuando el vehículo cuente con él;
 
-VI Ceder el paso a los invidentes y minusválidos en cualquier lugar y respetar los “Exclusivos” para éstos en áreas públicas y/o privadas;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+V Bajar y/o subir pasajeros a una distancia no mayor de 50 cm de la banqueta o acotamiento;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VI Ceder el paso a los invidentes y personas con capacidad diferenciada en cualquier lugar y respetar los “Exclusivos” para éstos en áreas públicas y/o privadas;
 
 VII Ceder el paso a los peatones que en zonas de cruce permitidas se encuentren sobre los carriles de circulación o hayan iniciado el cruce de éstos;
 
@@ -583,7 +647,9 @@ X En calles de una sola circulación, circular solamente en el sentido de la mis
 
 XI Usar anteojos o cualquier dispositivo cuando así lo tenga indicado por prescripción médica como necesarios para conducir vehículos;
 
-XII Mostrar al personal designado de la Autoridad Municipal su licencia y la tarjeta de circulación del vehículo cuando se le soliciten. En caso de accidentes y/o infracción, los documentos serán retenidos por el Oficial de Tránsito sólo si el conductor no es residente en el Estado o es extranjero;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XII Entregar al personal designado de la Autoridad Municipal su licencia de conducir y la tarjeta de circulación del vehículo cuando se le soliciten. En caso de accidentes y/o infracción, los documentos serán retenidos por el Oficial de Tránsito sólo si las placas del vehículo no son expedidas en el Estado de Nuevo León;
 
 XIII Realizar reducciones o aumentos de velocidad en forma gradual;
 
@@ -617,7 +683,9 @@ VIII Llevar consigo aparatos que hagan uso de la frecuencia de radio de la Autor
 
 IX Utilizar equipos de sonido de tal forma que su volumen contamine el ambiente o sea molesto para el público o pasajeros, en caso de que el vehículo sea de Servicio Público de pasajeros;
 
-X Utilizar audífonos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+X Utilizar audífonos con excepción de aquellos aparatos que cuenten con un solo auricular;
 
 XI Bajar o subir pasaje sobre los carriles de circulación;
 
@@ -635,21 +703,33 @@ XVII Circular a una velocidad lenta que obstaculice la circulación normal;
 
 XVIII Circular en caravana en calles angostas donde haya solamente un carril para cada sentido de circulación, sin dejar espacio suficiente entre los vehículos integrantes de la misma para que puedan ser rebasados;
 
-XIX Empalmarse con otro vehículo en un mismo carril, o hacer uso de más de un carril a la vez;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XIX Empalmarse con otro vehículo o rebasarlo utilizando un mismo carril de circulación, o hacer uso de más de un carril a la vez;
 
 XX Hacer servicio público con placas particulares;
 
-XXI Transportar pasajeros en estado de ebriedad en autobuses y camiones de pasajeros de Servicio Público;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XXI Transportar pasajeros en estado de ebriedad o bajo el influjo de alguna droga o enervante, en autobuses y camiones de pasajeros de Servicio Público;
 
 XXII Transportar animales sueltos dentro del compartimiento para pasajeros;
 
 XXIII Remolcar vehículos si no se cuenta con el equipo especial para ello, que evite que el vehículo remolcado alcance al vehículo remolcador;
 
-XXIV. Transportar más de dos pasajeros en el asiento delantero de cualquier tipo de vehículo, en caso de ser asiento individual. Se permite sólo un pasajero en cada asiento; se prohíbe que un pasajero viaje encima de otro. La cantidad de pasajeros lo determinará el fabricante, excluyéndose los vehículos modificados;
+XXIV Transportar más de dos pasajeros en el asiento delantero de cualquier tipo de vehículo, en caso de ser asiento individual. Se permite sólo un pasajero en cada asiento; se prohíbe que un pasajero viaje encima de otro. La cantidad de pasajeros lo determinará el fabricante, excluyéndose los vehículos modificados;
 
-XXV. Efectuar compraventa de productos y servicios en cruceros y vía pública en general cuando entorpezca la vialidad;
+XXV Efectuar compraventa de productos y servicios en cruceros y vía pública en general cuando entorpezca la vialidad;
 
-XXVI. Avanzar a través de un crucero o intersección cuando no halla (sic) espacio suficiente para el vehículo (obstaculizar la intersección).
+XXVI Avanzar a través de un crucero o intersección cuando no halla (sic) espacio suficiente para el vehículo (obstaculizar la intersección).
+
+> <small>(REFORMADA P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XXVII Manifestar una conducta evidente de hostigamiento hacia otros conductores haciendo mal uso del vehículo que conduce;
+
+> <small>(REFORMADA P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XXVIII Conducir el vehículo con un aparato de televisión encendido, ubicado en el tablero, asiento delantero o adherido al vehículo, de manera que el conductor del mismo pueda observar la pantalla del aparato televisivo; así como sostener el conductor, pasajero o acompañante el aparato de televisión encendido, de manera que el conductor pueda observar la pantalla del mismo.
 
 ###### ARTICULO 41.
 
@@ -669,7 +749,9 @@ III No remolcar o empujar otro vehículo;
 
 IV No sujetarse a vehículos en movimiento;
 
-V No rebasar a un vehículo de tres ó más ruedas motor por el mismo carril;
+> <small>(REFORMADA P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+V No rebasar a un vehículo de tres o más ruedas por el mismo carril, a excepción de aquellos que pertenezcan a Policía o Tránsito en el cumplimiento de su trabajo;
 
 VI Circular siempre por la derecha, a menos que vayan a voltear a la izquierda;
 
@@ -687,7 +769,9 @@ X No llevar bulto(s) sobre la cabeza.
 
 Es obligación de los peatones, pasajeros y ocupantes de vehículos, el respetar todas las normas establecidas para ellos en este Reglamento y en general todo lo que se refiera al buen uso y aprovechamiento de la vía pública; así como acatar fielmente las indicaciones hechas por el personal encargado por la Autoridad Municipal para la vigilancia del tránsito, en el ejercicio de sus atribuciones y tener para ellos un trato amable y cortés. Para los efectos de éste artículo debe entenderse por:
 
-I PEATON: La persona que transita por la vía pública a pie; asistiéndose de aparatos o de vehículos no regulados por este Reglamento, esto en el caso de los minusválidos,
+> <small>(REFORMADA P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+I PEATON: La persona que transita por la vía pública o zonas privadas con acceso al público o camina asistiéndose de aparatos o de vehículos no regulados por este Reglamento, esto en el caso de las personas con capacidades diferenciadas;
 
 II PASAJERO: La persona que utiliza un medio de transporte público;
 
@@ -705,7 +789,9 @@ Los peatones, al circular en la vía pública, acatarán las prevenciones siguie
 
 I No podrán transitar a lo largo de la superficie de rodamiento de calles o avenidas;
 
-II En las avenidas y calles de alta densidad de tránsito queda prohibido el cruce de peatones por lugares que no sean esquinas o zonas marcadas para tal efecto;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+II En las avenidas y calles de alta densidad de tránsito los peatones deberán cruzar por las esquinas, zonas marcadas para tal efecto o puentes peatonales;
 
 III En intersecciones no controladas por semáforos u Oficiales de Tránsito, los peatones deberán cruzar únicamente después de haberse cerciorado que puedan hacerlo con toda seguridad;
 
@@ -723,7 +809,9 @@ IX Ningún peatón circulará diagonalmente por los cruceros;
 
 X Los peatones que pretendan cruzar una intersección o abordar un vehículo no deberán invadir el arroyo, en tanto no aparezca la señal que permita atravesar la vía o no llegue dicho vehículo;
 
-XI Ayudar a cruzar las calles a los invidentes, discapacitados y menores de ocho años, cuando se les solicite.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XI Ayudar a cruzar las calles a las personas con capacidad diferenciada y menores de ocho años, cuando se les solicite.
 
 ###### ARTICULO 46.
 
@@ -769,7 +857,9 @@ III Bajar siempre por el lado de la banqueta o acotamiento;
 
 IV Los pasajeros de vehículos de servicio público local o federal deben tener para los demás pasajeros y éstos para el conductor una conducta de respeto, absteniéndose de realizar cualquier acto que ocasione molestias. Ningún pasajero puede hacer uso de aparatos reproductores de sonido a menos que use audífonos;
 
-V Los pasajeros de vehículos de servicio público local o federal deben respetar los asientos señalados para discapacitados;
+> <small>(REFORMADA P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+V Los pasajeros de vehículos de servicio público local o federal deben respetar los asientos señalados para personas con capacidad diferenciada;
 
 VI Usar casco protector al viajar en motocicleta.
 
@@ -805,7 +895,9 @@ Los conductores de vehículos transportadores de carga deberán cumplir con lo s
 
 I Acomodar la carga de tal forma que no impida su visibilidad, disponiéndola de manera tal de que no exceda de los límites del vehículo hacia los lados del mismo dispuestos por el fabricante;
 
-II Cubrir o mojar y sujetar la carga que pueda esparcirse con el viento o movimiento del vehículo;
+> <small>(REFORMADA P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+II Cubrir, mojar y sujetar al vehículo la carga que pueda esparcirse con el viento o movimiento del vehículo;
 
 III Portar el permiso de las autoridades correspondientes cuando se transporten explosivos o cualquier otra carga sujeta a regulación de cualquier autoridad. Los explosivos o materiales peligrosos deberán transportarse solamente en los vehículos especialmente diseñados para ello, debiendo contarse para esto con la autorización de la Dependencia correspondiente, para las asignaciones de ruta y horario;
 
@@ -827,7 +919,9 @@ III Transportar cadáveres de animales en el compartimiento de pasajeros;
 
 IV Transportar carga que arrastre o pueda caerse;
 
-V Transitar por avenidas y/o zonas restringidas, así como en zonas residenciales sin el permiso de la Autoridad correspondiente (vehículos con longitud mayor a seis metros con cincuenta centímetros).
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+V Transitar por avenidas y/o zonas restringidas, así como en zonas residenciales sin el permiso de la Autoridad correspondiente, tratándose de vehículos con longitud mayor a seis metros con cincuenta centímetros y/o una altura total de cuatro metros con veinte centímetros.
 
 Toda carga que sea esparcida en la vía pública, deberá ser retirada por quien la transportara o será retirada a su costa por la Autoridad Municipal.
 
@@ -860,6 +954,8 @@ I Si la interrupción es intencional (bloqueo de circulación), en forma individ
 II Los gastos de acarreo y pensión serán por cuenta del infractor.
 
 ### CAPITULO DECIMO SEGUNDO. DE LA CIRCULACION DE VEHICULOS
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 56.
 
@@ -897,13 +993,17 @@ II DE NOCHE: Linternas, luces o reflejantes, también de color rojo.
 
 Estos dispositivos deben colocarse a diez metros y cincuenta metros hacia cada lado de donde se aproximen vehículos, de tal forma que sean visibles desde una distancia de cien metros.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 58.
 
-El ayuntamiento podrá determinar la instalación de relojes estacionómetros en el lugar y cuando las circunstancias lo justifiquen. Los conductores o propietarios de vehículos estacionados donde existan éstos, deberán pagar lo indicado en los mismos.
+El Ayuntamiento podrá determinar la instalación de relojes estacionómetros en el lugar y cuando las circunstancias lo justifiquen previo estudio de factibilidad elaborado por la autoridad encargada de la vialidad. Los conductores o propietarios de vehiculos estacionados donde existan éstos, deberán pagar lo indicado en los mismos
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 59.
 
-La Dependencia encargada de la vigilancia del tránsito, previo estudio correspondiente podrá autorizar cajones de estacionamiento exclusivo tomando en cuenta las necesidades del solicitante y las de los propietarios y ocupantes de propiedades.
+La Dependencia encargada de la vigilancia del tránsito, previo estudio correspondiente podrá autorizar cajones de estacionamiento exclusivo tomando en cuenta la factibilidad técnica y vial, así como las necesidades del solicitante y las de los propietarios y ocupantes de propiedades.
 
 ###### ARTICULO 60.
 
@@ -921,13 +1021,17 @@ Queda prohibido el estacionamiento en la vía pública de remolques y semiremolq
 
 Los habitantes o propietarios de casas o edificios tendrán preferencia para estacionar sus vehículos frente a sus domicilios en el horario comprendido de las veinte a las ocho horas del día siguiente. De existir cochera o entrada a estacionamiento, deberá respetarse una distancia mínima de 50 centímetros a cada lado de la misma, considerándose tal área como de prohibición para el estacionamiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 64.
 
-Todos los vehículos conducidos por personas con discapacidad o utilizados para el transporte de los mismos, deberán contar con la calcomanía que expide la Dependencia correspondiente para hacer uso de los lugares exclusivos especiales.
+Todos los vehiculos conducidos por personas con capacidad diferenciada o utilizados para el transporte de los mismos, deberán contar con la calcomanía o placa expedida por la Dependencia correspondiente para hacer uso de los lugares exclusivos especiales.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 65.
 
-Los autobuses, camiones de pasajeros, microbuses y cualquier otro vehículo de servicio público local o federal de pasajeros, sin incluir a los taxis, no podrán ser estacionados en la vía pública en mayor cantidad de dos a la vez en los lugares autorizados para cambio de moneda o boletos y en este caso, lo harán solamente el tiempo necesario para las actividades antes señaladas.
+Los autobuses, camiones de pasajeros, microbuses y cualquier otro vehículo de servicio público local o federal de pasajeros, sin incluir a los taxis, no podrán ser estacionados en la vía pública en mayor cantidad de dos a la vez en los lugares autorizados por la Dependencia correspondiente, para cambio de moneda o boletos y en este caso, lo harán solamente el tiempo necesario para las actividades antes señaladas.
 
 ###### ARTICULO 66.
 
@@ -949,7 +1053,9 @@ V A una distancia menor a un metro o mayor de un metro con cincuenta centímetro
 
 VI En un área comprendida desde cincuenta metros antes y hasta cincuenta metros después de puentes, túneles, vados, lomas, pasos a desnivel para vehículos, curvas y en cualquier otro lugar donde la visibilidad del vehículo estacionado no sea posible desde cien metros;
 
-VII Frente a hidrantes, rampas de carga y descarga o de acceso para personas con discapacidad y cocheras excepto los propietarios o personas autorizadas por los mismos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VII. Frente a hidrantes, rampas de carga y descarga o de acceso para personas con capacidad diferenciada y cocheras excepto los propietarios o personas autorizadas por los mismos;
 
 VIII A la derecha en las calles cuya circulación sea de un solo sentido;
 
@@ -973,21 +1079,25 @@ XVII A un lado de rotondas, camellones o isletas;
 
 XVIII En línea con la banqueta en donde el estacionamiento se haga en forma diagonal o viceversa;
 
-XIX En cajones de estacionamiento exclusivo y especial para personas con discapacidad a menos que se trate de un vehículo que esté debidamente identificado según el artículo 24 fracción XX del presente Reglamento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XIX En cajones de estacionamiento exclusivo y especial para personas con capacidad diferenciada a menos que se trate de un vehículo que esté debidamente identificado según el artículo 24 fracción XX del presente reglamento y que cuente con el permiso vigente;
 
 XX En las guarniciones o cordones donde exista pintura color amarillo en ambas caras; igualmente en las esquinas se prohíbe estacionar vehículos aún y cuando no exista señalamiento de no estacionarse, debiéndose respetar una distancia en ellas de cinco metros lineales en ambos sentidos de las calles convergentes.
 
 ###### ARTICULO 68.
 
-Para los efectos del presente Reglamento, se entiende por circulación el movimiento de peatones y de vehículos incluyendo los de tracción animal.
+Para los efectos del presente Reglamento, se entiende por circulación el movimiento de peatones y de vehículos incluyendo los de tracción animal y propulsión humana.
 
 ###### ARTICULO 69.
 
 Las indicaciones de los Oficiales de Tránsito, policía, bomberos y/o personas autorizadas en casos de emergencia y en situaciones especiales, prevalecerán sobre los semáforos, señales y demás dispositivos para el control de tránsito y de las normas de circulación y estacionamiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 70.
 
-Cuando un semáforo esté funcionando en forma normal quedan nulas las señales gráficas y normas que regulen la circulación en el crucero o intersección.
+Cuando un semáforo esté funcionando en forma normal quedan nulas las señales gráficas y normas que regulen la circulación en el crucero o intersección, siempre que contravengan la señal eléctrica emitida por dicho semáforo.
 
 ###### ARTICULO 71.
 
@@ -1019,7 +1129,9 @@ C) En intersecciones en forma de “T”, la que atraviese sobre la que topa.
 
 D) La calle pavimentada sobre la no-pavimentada.
 
-E) En las rotondas donde la circulación no esté controlada por señales o semáforos, los conductores que entren a la misma deberán ceder el paso a los vehículos que ya se encuentren en ella.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+E) En las rotondas donde la circulación no esté controlada por señales o semáforos, los conductores que vayan a incorporarse a la misma deberán ceder el paso a los vehículos que ya se encuentren en ella.
 
 Al no presentarse las condiciones marcadas en los incisos anteriores, al conductor de un vehículo al que se le presente otro entrando a un crucero o aproximándose al suyo sobre su lado derecho, deberá cederle el paso.
 
@@ -1031,9 +1143,15 @@ En ningún caso se podrá hacer uso de la preferencia en cruceros o interseccion
 
 ### CAPITULO DECIMO CUARTO. DE LAS SEÑALES Y DISPOSITIVOS PARA EL CONTROL DE TRANSITO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO DECIMO QUINTO. DE LOS ACCIDENTES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO DECIMO SEXTO. DE LOS SEGUROS, FLOTILLAS Y FIANZAS
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 74.
 
@@ -1057,11 +1175,17 @@ B) Voltear a la izquierda o en “U” en lugares permitidos.
 
 C) Cuando el costado derecho se encuentre parcial o totalmente obstruido.
 
-En cualquiera de los tres casos mencionados, se deberá ceder el paso a los vehículos que circulen en sentido contrario.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+En cualquiera de los tres casos mencionados se deberá ceder el paso a los vehículos que circulen acorde al sentido de circulación que se invade.
 
 II Cuando haya más de un carril para cada circulación opuesta, la circulación se hará por el carril o carriles de la derecha dejando el carril izquierdo más próximo al centro de la calle para rebasar o voltear a la izquierda.
 
 III Los vehículos que circulen a una velocidad más lenta de la permitida, los camiones o autobuses de pasajeros y los vehículos de carga pesada, deberán hacerlo siempre por el carril de la derecha, a menos que vayan a dar vuelta a la izquierda o a rebasar.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IV En las avenidas que cuenten con carril central neutro, este deberá de utilizarse para dar vuelta hacia la izquierda y no entorpecer los carriles normales de circulación.
 
 ###### ARTICULO 77.
 
@@ -1114,6 +1238,10 @@ VI A un transporte escolar que haya encendido sus luces de advertencia para baja
 VII A un vehículo de emergencia usando sirena, faros o torretas de luz roja;
 
 VIII Empalmándose con el vehículo rebasado en un mismo carril.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IX Por el carril central neutro en las avenidas que cuenten con éste.
 
 ###### ARTICULO 80.
 
@@ -1267,11 +1395,13 @@ Se prohíbe la circulación de vehículos de tracción animal, propulsión human
 
 La Autoridad Municipal de acuerdo con las circunstancias podrá determinar además otras áreas restringidas para la circulación o estacionamiento de determinado tipo de vehículos.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 93.
 
-La Dependencia correspondiente determinará las rutas que deberán seguir los vehículos de servicio público federal de carga y de pasajeros que tengan necesidad de pasar por el Municipio. Los conductores de estos últimos no deben subir o bajar pasaje fuera de sus puntos autorizados.
+La Dependencia correspondiente determinará los itinerarios que deberán seguir los vehículos de servicio público federal de carga y de pasajeros que tengan necesidad de pasar por el Municipio. Los conductores de estos últimos no deben subir o bajar pasaje fuera de sus puntos autorizados.
 
-Los camiones de servicio público estatal de pasajeros deberán circular únicamente por las rutas que establezcan las Autoridades Estatales.
+Los vehículos de servicio público estatal de transporte de pasajeros deberán circular únicamente por las vías públicas que establezca el itinerario autorizado por las Autoridades Estatales.
 
 ###### ARTICULO 94.
 
@@ -1299,17 +1429,19 @@ Queda prohibido el uso de luces direccionales o de emergencia en caso innecesari
 
 ###### ARTICULO 100.
 
-Las señales y dispositivos que en este Municipio se utilicen para el control del tránsito deberán regirse por lo establecido en el Manual de Dispositivos de la Secretaría de Comunicaciones y Transportes y en los Acuerdos Internacionales.
+Las señales y dispositivos que en este municipio se utilicen para el control del tránsito y verificación del cumplimiento de las normas de este ordenamiento, deberán regirse en lo que corresponda a lo establecido en el Manual de Dispositivos de la Secretaría de Comunicaciones y Transportes y en los Acuerdos Internacionales.
 
 ###### ARTICULO 101.
 
 Es obligación de todo usuario de la vía pública, respetar fielmente todo lo indicado mediante señales y dispositivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO DECIMO SEPTIMO. DEL PROCEDIMIENTO CONCILIATORIO
 
 ###### ARTICULO 102.
 
-Para los efectos de este Reglamento las señales y dispositivos para el control de tránsito se clasifican en:
+Para los efectos de este Reglamento las señales y dispositivos para el control y verificación del tránsito serán:
 
 I SEÑALES HUMANAS:
 
@@ -1331,7 +1463,9 @@ B.3.- VUELTA A LA IZQUIERDA.- Extenderán horizontalmente su brazo izquierdo, co
 
 B4.- ESTACIONARSE.- Sacarán su brazo izquierdo extendido hacia abajo, con el puño cerrado y el dedo índice apuntando hacia abajo y harán un movimiento oscilatorio de adelante hacia atrás y viceversa.
 
-Queda prohibido hacer estas señales cuando no se vaya a efectuar el cambio de dirección o movimiento indicado. En igual forma, está prohibido que hagan cualquier otra señal que pueda confundir a los demás usuarios, debiendo evitar por lo tanto sacar parte de su cuerpo si no es para hacer las señales aquí requeridas.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+Queda prohibido hacer estas señales cuando no se vaya a efectuar el cambio de dirección o movimiento indicado. En igual forma, está prohibido que hagan cualquier otra señal que pueda confundir a los demás usuarios, debiendo evitar por lo tanto sacar parte de su cuerpo del vehículo si no es para hacer las señales aquí requeridas.
 
 C) Las que hacen los invidentes para solicitar ayuda.
 
@@ -1381,13 +1515,23 @@ B) Las sirenas que utilizan los vehículos de emergencia autorizados.
 
 C) Los timbres o campanas utilizados en conjunto con luces rojas para anunciar la proximidad o paso de vehículos sobre rieles.
 
-VI SEÑALES DIVERSAS.- Las banderolas, mechones, reflejantes, conos y demás dispositivos utilizados para:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VI SEÑALES DIVERSAS.- Las banderolas, reflejantes, conos y demás dispositivos utilizados para:
 
 A) Indicar la presencia de obras u obstáculos en la vía pública.
 
 B) Para proteger y/o señalar carga sobresaliente en los vehículos.
 
 C) Las banderolas, reflejantes u otros dispositivos que deben usar los conductores en caso de necesidad de estacionarse en lugares donde se dificulte la visibilidad del vehículo.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VII SEÑALES ESPECIALES PARA PROTECCION DE OBRAS.- Son elementos diseñados para informar, advertir y proteger a conductores, peatones y obreros en las zonas donde se desarrollan obras de construcción, mantenimiento reparación y cualquier otra actividad para los servicios públicos en las vías de circulación. Estas incluyen Señales preventivas, restrictivas e informativas de acuerdo a lo que considere necesario la dependencia correspondiente.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VIII DISPOSITIVOS DE VERIFICACION.- Dispositivos electrónicos para la verificación del cumplimiento de las normas de este ordenamiento y aplicación de sanciones por infracción a las mismas.
 
 ###### ARTICULO 103.
 
@@ -1423,13 +1567,19 @@ B) LUZ ROJA INTERMITENTE.- Los conductores deberán de detener sus vehículos y 
 
 C) FLECHA ROJA.- Los conductores de vehículos que pretendan circular en el sentido que indica la flecha, deberán detenerse antes de la zona de peatones hasta que una flecha verde les indique seguir.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+Al no existir la flecha en luz roja y no estar iluminada la flecha en luz verde, se considerará alto al sentido de la circulación que indique la flecha.
+
 ### CAPITULO DECIMO OCTAVO. DE LAS EMPRESAS Y PERSONAS QUE SE DEDIQUEN A LA COMPRAVENTA, REPARACION Y/O TRASLADO DE VEHICULOS
 
 ###### ARTICULO 105.
 
-Accidente de tránsito, es todo hecho derivado del movimiento de uno o más vehículos, los cuales pueden chocar entre sí o con una (s) persona (s), semovientes u objetos ocasionándose separada o conjuntamente lesiones, pérdida de la vida o daños materiales, y se clasifican en:
+Accidente de tránsito, es todo hecho derivado del movimiento de uno o más vehículos, los cuales pueden chocar entre sí o con una (s) persona (s), semovientes u objetos ocasionándose separada o conjuntamente lesiones, perdida de la vida o daños materiales, y se clasifican en:
 
-I ALCANCE.- Ocurre entre dos vehículos que circulan uno delante de otro, en el mismo carril o con la misma trayectoria y el de atrás alcanza al de adelante, ya sea que este último vaya en circulación o se detenga normal o repentinamente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+I ALCANCE.- Ocurre entre dos vehículos que circulan uno delante de otro, en el mismo carril o con la misma trayectoria y el de atrás impacta al de adelante, ya sea que este último vaya en circulación o se detenga normal o repentinamente;
 
 II CHOQUE DE CRUCERO.- Ocurre entre dos o más vehículos provenientes de arroyos de circulación que convergen o se cruzan, invadiendo un (os) vehículo (s) parcial o totalmente el arroyo de circulación de otro (s);
 
@@ -1445,11 +1595,15 @@ VII VOLCADURA.- Ocurre cuando un vehículo pierde completamente el contacto entr
 
 VIII PROYECCION.- Ocurre cuando un vehículo en movimiento choca con o pasa sobre alguien o algo o lo suelta y lo proyecta contra alguien o algo, la proyección puede ser de tal forma que lo proyectado caiga en el carril o trayectoria de otro vehículo y se origine otro accidente;
 
-IX ATROPELLO.- Ocurre cuando un vehículo en movimiento choca con una (s) persona (s). La (s) persona (s) puede (n) estar estática (s) o en movimiento ya sea caminando, corriendo o montando en patines, patinetas, o cualquier juguete similar;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IX ATROPELLO.- Ocurre cuando un vehículo en movimiento impacta con una (s) persona (s). La (s) persona (s) puede (n) estar estática (s) o en movimiento ya sea caminando, corriendo o montando en patines, patinetas, o cualquier juguete similar, o trasladándose asistiéndose de aparatos o de vehículos no regulados por este reglamento esto en el caso de las personas con capacidad diferenciada;
 
 X CAIDA DE PERSONA.- Ocurre cuando una (s) persona (s) cae (n) hacia fuera o dentro de un vehículo en movimiento;
 
-XI CHOQUE CON MOVIL DE VEHICULO.- Ocurre cuando alguna parte de un vehículo en movimiento o estacionado es abierto, sale, desprende o cae de éste y choca con algo estático o en movimiento. En esta clasificación se incluyen aquellos casos en los que se caiga o se desprenda algo y no forme parte del vehículo, también cuando un conductor o pasajero saca alguna parte de su cuerpo y choca con alguien o algo;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XI CHOQUE CON MOVIL DE VEHICULO.- Ocurre cuando alguna parte de un vehículo en movimiento o estacionado es abierto, sale, desprende o cae de éste e impacta con algo estático o en movimiento. En esta clasificación se incluyen aquellos casos en los que se caiga o se desprenda algo y no forme parte del vehículo, también cuando un conductor o pasajero saca alguna parte de su cuerpo y se impacta con alguien o algo
 
 XII CHOQUES DIVERSOS.- En esta clasificación queda cualquier accidente no especificado en los puntos anteriores.
 
@@ -1459,7 +1613,9 @@ La atención e investigación de accidentes se hará en primer lugar por el pers
 
 I Tomar las medidas necesarias y solicitar apoyo de la Dependencia correspondiente a fin de evitar un nuevo accidente y agilizar la circulación;
 
-II En caso de que haya pérdida de vidas humanas, dar aviso inmediato al Agente del Ministerio Público que corresponda y esperar su intervención, procurando que los cadáveres no sean movidos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+II En caso de que haya pérdida de vidas humanas, dar aviso inmediato al Agente del Ministerio Público que corresponda y esperar su intervención, procurando que los cadáveres no sean movidos, preservando en lo posible rastros y evidencias del hecho vial;
 
 III En caso de lesionados, solicitará o prestará auxilio inmediato según las circunstancias y turnará el caso al Agente del Ministerio Público que corresponda;
 
@@ -1475,7 +1631,9 @@ D) Entregará a los conductores o testigos una hoja de reporte de accidentes par
 
 V Evitará en lo posible la fuga de conductores en caso de lesiones o pérdida de vidas humanas;
 
-VI Realizará las investigaciones necesarias con celeridad;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VI Realizará las investigaciones necesarias a la brevedad posible y con celeridad;
 
 VII Hará que los conductores despejen el área de residuos dejados por el accidente. Cuando esto no sea posible deberá solicitar que lo haga el Departamento de Limpia, Bomberos, grúas de servicio o el mismo propietario del vehículo. De resultar gastos por las labores de limpieza y esta no halla (sic) sido realizada por el responsable de residuos en la vía pública, deberán ser cubiertos por éste último;
 
@@ -1491,7 +1649,9 @@ D) Cuando así lo requiera una o ambas partes por escrito en su reporte de accid
 
 E) Cuando exista duda sobre las causas del accidente.
 
-IX Detendrá vehículos y/o conductores cuando proceda, poniéndolos a disposición de quien corresponda;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IX Cuando exista duda de las causas del accidente se detendrán los vehículos, poniéndolos a disposición de quien corresponda.
 
 X Elaborará el acta y el croquis que deberán contener lo siguiente:
 
@@ -1505,11 +1665,15 @@ D) La posición de los vehículos o peatones y los objetos dañados; antes, dura
 
 E) Las huellas o residuos dejadas sobre el pavimento o superficie de rodamiento.
 
-F) Los nombres y orientación de las calles.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+F) Los nombres y orientación de las calles y nombre de colonia.
 
 G) Una vez terminados el acta y el croquis deberán ser supervisados por sus superiores y remitidos o consignados según corresponda.
 
-H) Nombre y firma del Oficial de Tránsito, así como, de los conductores que intervinieron en el accidente si se encuentran en posibilidad física de hacerlo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+H) Nombre y firma del Oficial de Tránsito, así como, de los conductores que intervinieron en el accidente si se encuentran en posibilidad física y disponibilidad de hacerlo
 
 ###### ARTICULO 107.
 
@@ -1533,19 +1697,25 @@ VI Esperar en el lugar del accidente la intervención del personal de la Depende
 
 VII Dar al personal de la Dependencia correspondiente la información que le sea solicitada y llenar la hoja de reporte de accidente que se les proporcione y también someterse a examen médico cuando se les requiera.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 109.
 
-Cuando las partes involucradas en un accidente sin lesionados ni fallecidos no estén de acuerdo con la determinación de causas del accidente o por las disposiciones antes descritas o hechas por el personal de la Dependencia correspondiente, podrán denunciar los hechos o presentar querella ante el Agente del Ministerio Público que corresponda dentro del plazo establecido por los Códigos de la materia. La Autoridad Municipal podrá otorgar la liberación de vehículos detenidos a su disposición por accidente.
+Cuando una de las partes involucradas en un accidente sin lesionados ni fallecidos no esté de acuerdo con la determinación de las causas del accidente o por las disposiciones antes descritas o hechas por el personal de la Dependencia correspondiente, podrá denunciar los hechos o presentar querella ante el Agente del Ministerio público que corresponda dentro del plazo establecido por los Códigos de la materia En este caso, solo se detendrá el vehículo que de acuerdo al parte croquis hecho por el personal de la Autoridad Municipal, aparezca como presunto responsable La Autoridad Municipal podrá otorgar la liberación de vehículos detenidos a su disposición por accidente.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO DECIMO NOVENO. DE LAS ATRIBUCIONES DE LA AUTORIDAD MUNICIPAL
 
 ###### ARTICULO 110.
 
-El arrastre de vehículos participantes en accidente se hará por los servicios de grúas cuyos propietarios tengan concesionado este servicio por el Municipio, a menos que el interesado cuente con grúa que dé el servicio inmediato, siempre y cuando de aviso a la Autoridad Municipal. En todos los casos los vehículos que se detengan serán depositados en los lotes oficiales.
+El arrastre de vehículos participantes en accidente se hará por los servicios de grúas cuyos propietarios tengan autorizado este servicio por el Municipio. En todos los casos los vehículos que se detengan serán depositados en los Iotes oficiales.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 111.
 
-En un accidente en el que no se hayan producido ni pérdida de vidas humanas o lesiones, y que las partes involucradas hayan llegado a convenio celebrado ante la Dependencia correspondiente, el responsable podrá solicitar la liberación provisional de su vehículo, otorgando a favor de la Dependencia la disposición del mismo hasta en tanto no sea cumplido el convenio.
+En un accidente en el que no se hallan (sic) producido ni pérdida de vidas humanas o lesiones, y que las partes involucradas hayan llegado a convenio celebrado ante la Dependencia correspondiente el responsable podrá solicitar la liberación de su vehículo presentando la documentación requerida en Artículo 131 Fracción III inciso M.
 
 ###### ARTICULO 112.
 
@@ -1567,13 +1737,7 @@ VII Nombre, domicilio, número de cédula profesional y firma de quien atendió 
 
 ###### ARTICULO 113.
 
-Todos los vehículos de motor que circulen dentro de la ciudad deben estar asegurados por daños a terceros en sus bienes y/o personas con póliza vigente expedida por una Compañía de Seguros autorizada por la Comisión Nacional de Seguros y Fianzas. Se exceptúan de lo anterior los vehículos que formen parte de una flotilla perteneciente a persona moral con domicilio dentro del Estado de Nuevo León y cuyos vehículos circulen diariamente dentro del Municipio y que además cumplan con lo siguiente:
-
-I Tener reconocida solvencia moral y económica;
-
-II Celebrar convenio con la Autoridad Municipal, y las condiciones que ésta establezca para garantizar el pago y/o reparación de daños a terceros;
-
-III Tener un representante legal o apoderado para la atención de accidentes.
+Todos los vehículos de motor que circulen dentro de la ciudad deben estar asegurados por daños a terceros en sus bienes y/o personas con póliza vigente expedida por una Compañía de Seguros autorizada por la Comisión Nacional de Seguros y Fianzas.
 
 ###### ARTICULO 114.
 
@@ -1583,15 +1747,19 @@ Es obligatorio para las Compañías de Seguros o sus ajustadores dar aviso inmed
 
 El procedimiento conciliatorio establecido en el presente Capítulo para la solución de hechos derivados por el tránsito de vehículos, se considera de interés público; la Autoridad Municipal a través de quien se designe, prestará el servicio de conciliar y de avenir los intereses de los participantes en hechos viales que hayan producido exclusivamente daños materiales.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 116.
 
-Una vez que la Autoridad Municipal tenga conocimiento de un hecho vial en el que exista controversia entre los participantes y por el que se causaron exclusivamente daños en propiedad ajena, concluidas las diligencias necesarias para la toma de los datos que puedan determinar las causas del accidente, citará a las partes involucradas a una audiencia de conciliación, la cual se verificará dentro de los cinco días siguientes del que tuvo conocimiento la Autoridad Municipal del accidente.
+Una vez que la Autoridad Municipal tenga conocimiento de un hecho vial en el que exista controversia entre los participantes y por el que se causaron exclusivamente daños en propiedad ajena, concluidas las diligencias necesarias para la toma de los datos que puedan determinar las causas del accidente citará a las partes involucradas a una audiencia de conciliación, la cual se verificará el día hábil siguiente del que tuvo conocimiento la Autoridad Municipal del accidente
 
 ###### ARTICULO 117.
 
 Si las partes involucradas en el accidente, cuentan con seguro de responsabilidad, se citará al ajustador o encargado de hechos viales o accidentes de la Compañía Aseguradora que corresponda.
 
 ### CAPITULO VIGESIMO. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 118.
 
@@ -1631,9 +1799,13 @@ I Establecer o autorizar centros de capacitación en materia de Tránsito y Vial
 
 II Retirar de la circulación todos aquellos vehículos que no satisfagan los requisitos de seguridad, o registro, de acuerdo con el presente Reglamento;
 
-III Retirar de la circulación los vehículos que presenten muestras de abandono, inutilidad o desarme en vía pública;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-IV Detener los vehículos cuyos conductores hayan causado daños a terceros en sus bienes o en su personas, hasta en tanto no haya sido reparado, repuesto o pagado el daño. Los vehículos quedarán a disposición del Agente del Ministerio Público correspondiente en los casos de accidentes en los que hubiere lesionados o en aquellos casos que hayan sido solicitados por querella;
+III Retirar de la vía pública los vehículos que presenten muestras de abandono, inutilidad o desarme mediante el servicio de grúa remitiéndolo al lote oficial;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+IV Detener los vehículos y depositarlos en lote oficial de aquellos conductores que hayan causado con este o con objetos que viajen en él, daño a terceros en sus bienes o en su persona, hasta en tanto no haya sido reparado, repuesto, pagado el daño o celebrado convenio entre las panes involucradas. Los vehículos quedaran a disposición de la Agencia del Ministerio Público correspondiente en los casos de accidentes en los que hubiere lesionados o en aquellos casos que hayan sido solicitados por querella;
 
 V Asistir a las diversas autoridades atribuidas para ordenar la detención de vehículos. En todos los casos se requerirá ordenamiento por escrito que funde y motive el procedimiento;
 
@@ -1641,7 +1813,9 @@ VI Celebrar convenios con Autoridades Civiles y Militares en lo relacionado a Tr
 
 VII Ejercer la función de inspección y apoyo a las diversas Autoridades Municipales, pudiendo solicitar los permisos correspondientes según sea el caso;
 
-VIII Impedir y restringir la conducción de vehículos, cuando aquélla se realice bajo el influjo de bebidas alcohólicas, drogas o estupefacientes;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VIII Impedir y restringir la conducción de vehículos, cuando aquélla se realice bajo el influjo de bebidas alcohólicas, drogas o estupefacientes, comprobable mediante dictamen médico;
 
 IX Implementar operativos de vigilancia para la prevención de accidentes;
 
@@ -1649,33 +1823,51 @@ X Hacer cambios y ajustes a la vialidad, de acuerdo a las circunstancias;
 
 XI Resolver los casos no previstos en el presente Reglamento.
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+XII Hacer uso e instalar en la vía pública diversos dispositivos electrónicos para la verificación del cumplimiento de las normas de éste ordenamiento y aplicación de sanciones por infracción a las mismas.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 123.
 
-La vigilancia del tránsito y la aplicación del presente Reglamento queda a cargo de la Autoridad Municipal, que será el C. Presidente Municipal, a través de la Dependencia que éste designe. Al detectar un infractor, los Oficiales de Tránsito, debidamente acreditados como tales, uniformados, con placa y gafete de identificación, que se encargarán de vigilar el tránsito y aplicar el presente Reglamento. Cuando detecten a un infractor deberán cumplir, en el ejercicio de sus funciones, con las siguientes formalidades:
+La vigilancia del tránsito y la aplicación del presente Reglamento queda a cargo de la Autoridad Municipal, que será el C. Presidente Municipal, a través de la Dependencia que éste designe. En la aplicación y verificación del cumplimiento de las normas de éste ordenamiento, deberá observarse el siguiente procedimiento.
 
-I Utilizando el silbato, altoparlante, manual y/o verbalmente, indicarán al conductor que se detenga;
+I Los Oficiales de Transito son los servidores públicos que debidamente acreditados como tales, uniformados, con placa y gafete de identificación, quienes se encargarán de vigilar el tránsito y aplicar el presente Reglamento, cuando detecten un infractor deberán cumplir con las siguientes formalidades:
 
-II Indicarán que el vehículo sea estacionado en lugar seguro;
+A) Utilizando el silbato, altoparlante, manual y/o verbalmente, indicarán al conductor que se detenga,
 
-II Abordarán al infractor de una manera cortés, dando su nombre y número de Oficial;
+B) Indicarán que el vehículo sea estacionado en lugar seguro;
 
-IV Comunicarán al infractor la falta cometida y en su caso, le solicitarán su licencia de manejo, y tarjeta de circulación del vehículo;
+C) Abordarán al infractor de una manera cortés, dando su nombre y número de Oficial;
 
-V Comunicarán al infractor la acción a tomar, que podrá consistir en:
+D) Comunicarán al infractor la falta cometida y en su caso, le solicitarán su licencia de manejo, y tarjeta de circulación del vehículo;
 
-A) NOTIFICACION.- Se hará cuando la infracción cometida sea derivada de nuevas disposiciones o cambios de circulación que pudiera ignorar el conductor.
+E) Comunicarán al infractor la acción a tomar, que podrá consistir en:
 
-B) AMONESTACION.- Se hará cuando la infracción se haya cometido de tal forma que el conductor no pudiera evitar o solucionar el hecho inmediatamente; en estos casos, el Oficial llenará normalmente una boleta de infracción, anotando en ella la palabra “amonestación” sobre todo el espacio de la boleta.
+E1 NOTIFICACION.- Se hará cuando la infracción cometida sea derivada de nuevas disposiciones o cambios de circulación que pudiera ignorar el conductor.
 
-C) INFRACCION.- Cuando no existan los casos marcados en incisos anteriores; se llenará la boleta de infracción de forma normal. Para los casos de incisos b y c, se deberá entregar copia de la boleta al infractor.
+E2 AMONESTACION.- Se hará cuando la infracción se haya cometido de tal forma que el conductor no pudiera evitar o solucionar el hecho inmediatamente; en estos casos, el Oficial llenará normalmente una boleta de infracción de forma tradicional o mediante equipo electrónico, anotando en ella la palabra “amonestación” sobre todo el espacio de la boleta, en el caso de que sea llenada de forma tradicional o imprimirá una boleta de amonestación mediante equipo electrónico.
 
-VI Entregar boletas de infracciones y amonestaciones levantadas al terminar el turno o antes si las circunstancias lo ameritan;
+E3 INFRACCION.- Cuando no existan los casos marcados en los incisos anteriores; se llenará la boleta de infracción de forma tradicional o mediante equipo electrónico. Para los casos de incisos E2 y E3, se deberá entregar copia de la boleta al infractor.
 
-VII Levantarán la boleta de infracción correspondiente cuando el infractor no se detenga o se dé a la fuga; la copia destinada al infractor será entregada a la Unidad de la Autoridad Municipal que corresponda, para que proceda a citar al propietario, quien deberá presentar al conductor o pagar la multa cuando se le requiera.
+F) Entregar o capturar en el sistema computarizado según sea el caso las boletas de infracciones y amonestaciones levantadas al terminar el turno o antes si las circunstancias lo ameritan;
+
+G) Llenará la boleta de infracción correspondiente cuando el infractor no se detenga o se dé a la fuga; la copia destinada al infractor será entregada a la Unidad de la Autoridad Municipal que corresponda para que proceda a citar al propietario, quien deberá presentar al conductor o pagar la multa cuando se le requiera.
+
+H) En caso de que se cometa una infracción y el propietario o conductor del vehículo no se encuentre presente al momento en que el oficial de tránsito termine de llenar la boleta de infracción, la copia destinada al infractor será colocada por el oficial en el parabrisas.
+
+II Cuando a través de dispositivos electrónicos se detecte la comisión de una infracción, deberá observarse lo siguiente:
+
+A) El dispositivo electrónico realizara la función de fotografiar, grabar, registrar o aquella con la que se demuestre la comisión de la infracción al presente ordenamiento, generando la impresión de la boleta de infracción que contendrá los requisitos señalados en el Artículo 137 en lo que corresponda.
+
+B) Se comunicará a quien aparezca como titular de las placas de circulación del vehículo con el cual se cometiera la infracción, en el domicilio que aparezca en las bases de datos de la Autoridad Municipal, la infracción cometida y la sanción impuesta.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 124.
 
-En todos los casos que se detecte que un conductor conduce de manera irregular, los Oficiales de Tránsito le marcarán el alto para determinar el motivo por el cual se observa una conducción irregular; si el infractor tiene aliento alcohólico, estado de ebriedad o esté bajo el influjo de drogas o enervantes, se le deberá de practicar un dictamen médico o prueba con alcoholímetro para efectos de determinar la sanción a aplicar. En cualquier caso de los señalados en este artículo se impedirá la conducción de vehículos, debiéndose remitir al infractor a las Oficinas que disponga la Autoridad Municipal a efecto de que el infractor solicite la asistencia de conductor que traslade el vehículo.
+En todos los casos que se detecte que un conductor conduce de manera irregular, los Oficiales de Tránsito le marcarán el alto para determinar el motivo por el cual se observa una conducción irregular; si el infractor tiene aliento alcohólico, estado de ebriedad o esté bajo el influjo de drogas o enervantes, se le deberá de practicar un dictamen médico o prueba con alcoholímetro para efectos de determinar la sanción a aplicar. En cualquier caso de los señalados en este artículo a excepción del aliento alcohólico, se impedirá la conducción del vehículo, el cual será retirado de la circulación con grúa y remitirlo al lote oficial.
 
 ###### ARTICULO 125.
 
@@ -1691,9 +1883,13 @@ II Ante la comisión de infracción a este Reglamento, harán de manera eficaz p
 
 Es obligación de los Oficiales de Tránsito, permanecer en el crucero al cual fueron asignados para controlar el tránsito vehicular y tomar las medidas de protección peatonal conducentes. Durante sus labores, los Oficiales deberán colocarse en lugares claramente visibles para que, con su presencia, prevengan la comisión de infracciones. Los autos patrulla de control vehicular en actividad nocturna, deberán llevar encendida alguna luz de la torreta. Los Oficiales de Tránsito deberán además de observar lo dispuesto en el presente Reglamento, acatar toda disposición emanada del Presidente Municipal o del Titular de la Dependencia a la que se encuentren adscritos, para cumplir en forma eficiente, segura y ética sus funciones.
 
-Los Oficiales de Tránsito deberán impedir la conducción de vehículos, en los casos siguientes:
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-I Cuando el conductor que ha cometido una infracción al Reglamento muestre síntomas claros y ostensibles de encontrarse en estado de ebriedad o de estar bajo el influjo de estupefacientes;
+Los Oficiales de Transito deberán impedir la conducción de vehículos y remitirlos al lote oficial mediante el servicio de grúa en los casos siguientes:
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+I Cuando el conductor que ha cometido una infracción al Reglamento muestre síntomas claros y ostensibles de encontrarse en estado de ebriedad o de estar bajo el influjo de drogas y enervantes.
 
 II Cuando un conductor al circular con un vehículo vaya ingiriendo bebidas alcohólicas;
 
@@ -1711,7 +1907,9 @@ C) Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil
 
 Se impedirá la circulación de vehículos y se retirarán de la vía pública, y en su caso se remitirán para depósito mediante el servicio de grúa, al verificarse cualquiera de los siguientes supuestos:
 
-I Cuando le falten al vehículo ambas placas, y en su caso, la calcomanía que les da vigencia o el permiso correspondiente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+I Cuando le falten al vehículo ambas placas o el permiso correspondiente;
 
 II Cuando las placas del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
@@ -1719,21 +1917,27 @@ III Por estacionar el vehículo en lugar prohibido o en doble fila, y no esté p
 
 A) Solo podrá retirarse de la vía pública el vehículo de que se trate para remitirlo al depósito correspondiente mediante el servicio de grúa, cuando no esté presente el conductor, o bien, no quiera o no pueda remover el vehículo;
 
-B) En caso de que esté presente el conductor y remueva su vehículo del lugar prohibido, solo se levantará la infracción que proceda;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-C) Una vez remitido el vehículo al depósito correspondiente, los Oficiales de Tránsito deberán informar de inmediato a sus superiores, procediendo a sellar el vehículo para garantizar su conservación y la guarda de los objetos que en el se encuentren.
+B) En caso de que esté presente el conductor y remueva su vehículo del lugar prohibido, solo se levantará la infracción que proceda. Si el conductor llegara después de que se despachó la grúa y antes de que ésta se retire, éste deberá liquidar el servicio de no arrastre para evitar el retiro del vehículo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+C) Una vez remitido el vehículo al lote oficial correspondiente, los Oficiales de Tránsito supervisarán la elaboración del inventario del vehículo en el que se especifique el estado físico del mismo y objetos de valor visibles, informando de inmediato a sus superiores.
 
 IV Al comprobarse respecto a un vehículo que, ante la ostensible emisión de contaminantes al ambiente, su propietario fue infraccionado por tal hecho y conminado a la reparación de aquel, y que dentro del término que le fuera concedido no lo reparó específicamente por no portar con constancia que acredite la baja emisión de contaminantes.
 
 Los Oficiales de Tránsito deberán tomar las medidas necesarias a fin de evitar que se produzcan daños a los vehículos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 128.
 
-Los vehículos destinados al servicio público de transporte, además de los casos a que se refiere el artículo anterior, serán impedidos de circular y remitidos a los depósitos por las siguientes causas:
+Los vehículos destinados al servicio público de transporte, además de los casos a que se refiere el artículo anterior, serán impedidos de circular y remitidos al lote oficial por las siguientes causas.
 
 I No contar con la autorización para prestar servicio público de pasajeros o carga;
 
-II Prestar al servicio público de transporte de pasajeros o de carga sin portar el (sic) lugar visible el comprobante de la revista respectiva;
+II Prestar al (sic) servicio público de transporte de pasajeros o de carga sin portar el (sic) lugar visible el comprobante de la revista respectiva;
 
 III Prestar servicios públicos de transporte de pasajeros con itinerario fijo fuera de la ruta autorizada o por hacer base o parada en lugar no autorizado previamente; y
 
@@ -1745,7 +1949,7 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ###### ARTICULO 130.
 
-Los propietarios de los vehículos son responsables del pago de infracciones que se comentan con los mismos, excepto en caso de robo reportado ante las Autoridades competentes.
+Los propietarios de los vehículos son responsables del pago de infracciones que se cometan con los mismos, excepto en caso de robo reportado ante las Autoridades competentes, siempre y cuando este reporte haya sido con anticipación a la imposición de las sanciones.
 
 ###### ARTICULO 131.
 
@@ -1755,7 +1959,9 @@ I SUSPENSION DE LA LICENCIA DE CONDUCIR.- Se podrá suspender la licencia de con
 
 A) Por abandonar injustificadamente el lugar de un accidente.
 
-B) Por manejar en estado de ebriedad, bajo el influjo de drogas o sustancias tóxicas.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+B) Por manejar en estado de ebriedad, bajo el influjo de drogas o sustancias tóxicas Tratándose de menores de edad estos no podrán tramitar una nueva licencia hasta la obtención de su mayoría de edad
 
 C) Por orden judicial.
 
@@ -1775,13 +1981,21 @@ C) Por manejar en estado de ebriedad, bajo el influjo de drogas o sustancias tó
 
 D) Por orden judicial.
 
-E) Al comprobarse a los conductores de vehículos de servicio público de pasajeros, insultos o agresiones a los pasajeros.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+E) Al comprobarse a los conductores de vehículos de servicio público de pasajeros, que en el desempeño de su trabajo se encuentren en estado de ebriedad, bajo el influjo de drogas o sustancias tóxicas o que insulten o agredan a los pasajeros.
 
 F) Cuando se compruebe que la licencia fue obtenida dando falsa información.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+G) Agredir físicamente a un Oficial de Tránsito en el cumplimiento de su función.
+
 Decretada la suspensión o cancelación de una licencia de conducir, se comunicará lo conducente a la Secretaría de Finanzas y Tesorería General del Estado para que proceda según sea el caso.
 
-III DETENCION DE VEHICULOS.- Serán detenidos los vehículos en los casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+III DETENCION DE VEHICULOS.- Serán detenidos los vehículos y remitidos al lote oficial mediante el servicio de grúa autorizado por el municipio en los casos siguientes:
 
 A) Cuando el conductor sea menor de edad y no presente su licencia de manejo.
 
@@ -1789,11 +2003,15 @@ B) Cuando el vehículo carezca de placas y refrendo vigente.
 
 C) Cuando las placas, calcomanía o su tarjeta de circulación no correspondan al vehículo que las porte.
 
-D) Cuando el conductor no presente la tarjeta de circulación del vehículo que conduce.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+D) Cuando el conductor no presente la tarjeta de circulación vigente del vehículo que conduce. En el caso de los autobuses de transporte urbano la copia autorizada por la Autoridad Reguladora del Transporte en el Estado será equivalente al original.
 
 E) Cuando notoriamente el vehículo sea un riesgo para la seguridad de su propio conductor, peatones y demás conductores.
 
-F) Cuando el vehículo sea extranjero y carezca de permiso de introducción vigente al país.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+F) Cuando el vehículo sea extranjero y no cumpla con lo dispuesto por el Artículo 14 del presente ordenamiento
 
 G) Cuando se causen daños a terceros.
 
@@ -1807,15 +2025,19 @@ K) Por orden judicial mediante oficio.
 
 L) Cuando el conductor se encuentre en estado de ebriedad o bajo el influjo de drogas o estupefacientes.
 
-M) Cuando un conductor o sus acompañantes sean sorprendidos arrojando o abandonando basura en la vía pública o cualquier material o sustancia en cantidad tal que pueda causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-Para la entrega de vehículos detenidos, será indispensable la presentación ante la Autoridad Municipal, de uno u otro de los documentos siguientes: factura, tarjeta de circulación, póliza de seguro, comprobante de domicilio, e identificación personal preferentemente la credencial de elector, así como el comprobante del pago de la multa por la infracción cometida.
+M) Cuando un conductor o sus acompañantes sean sorprendidos arrojando, esparciendo o abandonando basura en la vía pública o cualquier material o sustancia en cantidad tal que pueda causar daños a las vías públicas u obstaculizar el tránsito de peatones y vehículos.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+Para la entrega de vehículos detenidos, será indispensable la presentación ante la Autoridad Municipal de los documentos siguientes: factura o documento con el que se acredite la propiedad del vehículo, tarjeta de circulación, póliza de seguro vigente, comprobante de domicilio, e identificación personal preferentemente la credencial de elector, así como el comprobante de pago de la multa por la infracción cometida y en su caso cuando así se requiera el documento expedido por la Agencia del Ministerio Público y/o Autoridad Judicial competente en el que se autoriza la liberación del vehículo.
 
 IV RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las fracciones II y III de este artículo;
 
 V MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PAGINAS DE LA 60 A LA 67.</small>
+> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PAGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PAGINAS DE LA 169 A LA 173.</small>
 
 ###### ARTICULO 132.
 
@@ -1839,7 +2061,9 @@ I Exceso de velocidad en zona escolar;
 
 II Manejar en estado de ebriedad o bajo el influjo de drogas o estupefacientes;
 
-III Negarse a dar datos y/o documentos al personal de tránsito;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+III Negarse a dar datos y/o a entregar la licencia de conducir y tarjeta de circulación al personal de tránsito;
 
 IV Dar datos falsos al personal de tránsito;
 
@@ -1853,13 +2077,21 @@ VIII Circular con placas sobrepuestas;
 
 IX Prestar placas.
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+X Estacionarse en lugares exclusivos de personas con capacidad diferenciada
+
 ###### ARTICULO 136.
 
 Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación faltante, así como el comprobante de pago del trámite efectuado.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE FEBRERO DE 2003 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 137.
 
-Las infracciones se harán constar en actas sobre formas impresas y foliadas, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
+Las infracciones se harán constar en actas sobre formas impresas y foliadas, en la forma tradicional con block de infracciones o mediante métodos electrónicos, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
 
 I Nombre y domicilio del infractor;
 
@@ -1871,17 +2103,51 @@ IV Actos y hechos constitutivos de la infracción, así como el lugar, fecha y h
 
 V Motivación y fundamentación;
 
-VI Nombre y firma del agente que levante el acta de infracción y en su caso número económico de la grúa y patrulla.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+VI Nombre, número oficial y firma del Oficial de Tránsito que levante el acta de infracción y en su caso número económico de la grúa y patrulla.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+Para los supuestos mencionados en el Artículo 123, Fracciones VII y VIII del presente ordenamiento, las infracciones se harán constar en actas sobre formas impresas y foliadas, en la forma tradicional con block de infracciones o mediante métodos electrónicos, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
+
+I Placa de matrícula del vehículo, el uso a que está dedicado y entidad o país en que se expidió;
+
+II Actos y hechos constitutivos de la infracción, así como el lugar, fecha y hora en que se haya cometido;
+
+III Motivación y fundamentación;
+
+IV Nombre, número oficial y firma del Oficial de Tránsito que levante el acta de infracción y en su caso número económico de la grúa y patrulla.
 
 Cuando se trate de varias infracciones cometidas en diversos hechos por un infractor, el Oficial de Tránsito las asentará en el acta respectiva, precisando la sanción que corresponde a cada una de ellas. El pago de la multa deberá hacerse en cualquier oficina autorizada por la Tesorería Municipal. Los recordatorios que envíe a domicilio la Tesorería Municipal, relativo al pago de multas deberán contener los datos que permitan identificar plenamente la infracción.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+Las boletas de infracción que se generen por el uso de los dispositivos electrónicos deberán contener los siguientes datos:
+
+I Nombre y domicilio de quien aparezca como titular de las placas de circulación del vehículo con el cual se cometiera la infracción.
+
+II Número de placa de matrícula del vehículo.
+
+III Actos y hechos constitutivos de infracción, así como el lugar, fecha y hora en que se haya cometido.
+
+IV Folio del acta de infracción.
+
+V Motivación y fundamentación.
+
+VI Datos de identificación del dispositivo electrónico que detectó la infracción y el lugar de ubicación del mismo.
+
+VII Fotografía, grabación, registro o aquella con la que se demuestre la comisión de la infracción.
 
 ###### ARTICULO 138.
 
 En el caso de las infracciones cometidas por menores de edad, para poder recuperar la licencia de conducir será necesario que quien ejerza la patria potestad sobre el menor se presente en las oficinas de la Dependencia Municipal correspondiente, personalmente a efecto de recuperarla.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 139.
 
-Si la Autoridad Municipal observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, o al Consejo Tutelar para Menores, poniendo a su disposición a la persona arrestada.
+Si la Autoridad Municipal observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público investigador correspondiente, o al Consejo Tutelar para Menores, poniendo a su disposición a la persona indicada.
 
 ###### ARTICULO 140.
 
@@ -1930,3 +2196,11 @@ SECRETARIO DEL R. AYUNTAMIENTO
 C. LIC. ALEJANDRO HERRERA ESCAMILLA
 
 SECRETARIO DE SEGURIDAD PUBLICA Y VIALIDAD
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Las presentes reformas entrará (sic) en vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
+
+SEGUNDO.- En virtud de que el presente reglamento ha sido homologado en sus disposiciones con los reglamentos de Transito y Vialidad de los Municipios conurbados (Apodaca, San Pedro Garza García, Gral. Escobedo, Guadalupe, Monterrey, San Nicolas de los Garza, Santa Catarina), para la modificación o derogación del mismo se procurará llevar a cabo bajo el consenso de los Municipios señalados.
