@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-urbano-para-el-estado-de-sonora-8511"
 country: "mx"
 rank: "ley"
 publication_date: "1985-02-18"
-last_updated: "1993-07-08"
+last_updated: "1996-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE JULIO DE 1996.
 
 Ley publicada en la Sección Primera el Boletín Oficial del Estado de Sonora, el lunes 18 de febrero de 1985.
 
@@ -751,6 +751,12 @@ La nulidad a que se refiere el párrafo anterior, será declarada por las autori
 
 Los Notarios y cualesquier otros fedatarios sólo podrán autorizar las escrituras públicas en que se cumpla lo dispuesto en los Artículos 61 y 68 de esta ley, en las que se inserte el certificado del Registro Público de la Propiedad sobre la existencia o inexistencia de las declaratorias y de los avisos o manifestaciones de que hablan dichos preceptos.
 
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+###### ARTICULO 69 Bis.
+
+En los actos jurídicos que se celebren ante los notarios públicos, los jueces que actúen en funciones notariales por ministerio de ley, así como ante las autoridades estatales o municipales, con el objeto de enajenar o constituir derechos reales, deberá consignarse en la descripción del inmueble o predio, los elementos contenidos en los artículos 125 y 170 de esta Ley, sin perjuicio de que se agregue al apéndice, la licencia de uso del suelo o la constancia de zonificación, y copia de ella será. Agregada al documento o testimonio del instrumento respectivo.
+
 ###### ARTICULO 70.
 
 Cuando se estén llevando a cabo construcciones, fraccionamientos, cambios de uso del suelo u otros aprovechamientos de inmuebles que contravengan las leyes, reglamentos o programas de desarrollo urbano aplicables que originen un deterioro en la calidad de la vida de los asentamientos humanos, los residentes del área que resulten directamente afectados, tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos. En caso de que se expidan licencias o autorizaciones contraviniendo las leyes, reglamentos o programas de desarrollo urbano aplicables, éstas serán nulas y no producirán efecto jurídico alguno y los funcionarios responsables, serán sancionados en los términos del Capitulo I del Título Sexto de este ordenamiento, sin perjuicio de lo establecido en los demás ordenamientos aplicables.
@@ -901,7 +907,7 @@ El Programa Estatal Sectorial de Vivienda, una vez aprobado y publicado, será o
 
 El Programa Estatal Sectorial de Vivienda será evaluado anualmente, a efecto de comprobar si han sido cumplidos sus objetivos y de conocer los efectos de las diversas acciones habitacionales realizadas. Los resultados de dicha revisión y las adecuaciones que, en su caso, se propongan, serán aprobados y publicados en los términos del Artículo 82 de esta ley.
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 86.
 
@@ -917,7 +923,7 @@ Los informes de las entidades de la Administración Pública Estatal que lleven 
 
 La Secretaría de Infraestructura Urbana y Ecología tomará en cuenta dichos informes y evaluaciones para la revisión y evaluación del Programa Estatal Sectorial de Vivienda.
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 88.
 
@@ -991,6 +997,10 @@ IX.- Las normas técnicas y los demás derechos y obligaciones que establezca la
 
 La solicitud para fusionar, subdividir, relotificar o fraccionar terrenos, deberá ser formulada por la persona física o moral que tenga la propiedad y la posesión legales del predio o predios respectivos o por sus representantes legales.
 
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Los propietarios de lotes no predios ubicados dentro o fuera de un fraccionamiento, no podrán subdividirlos en fracciones con dimensiones menores a las determinadas en la presente Ley, aplicándose en el caso, las características que se determinan para los lotes en fraccionamientos de tipo habitacional y comercial, según corresponda al uso del suelo.
+
 ###### ARTICULO 95.
 
 Las autorizaciones que recaigan a las solicitudes a que se refiere el Artículo anterior, se otorgarán previo el pago de los derechos y contribuciones correspondientes, debiendo notificar dichas autorizaciones a la Dirección de Catastro, en los términos del Artículo 39 de la Ley de Catastro.
@@ -1017,7 +1027,7 @@ Recibida la solicitud y documentos anexos, el Ayuntamiento de que se trate proce
 
 ###### ARTICULO 98.
 
-Las relotificaciones en fraccionamientos previamente autorizados, sólo podrán llevarse a cabo cuando sus lotes no hayan sido vendidos al público, debiéndose otorgar un nuevo convenio previo cumplimiento de las disposiciones que para la autorización de fraccionamientos establezca la presente ley.
+Las relotificaciones en fraccionamientos previamente autorizados, sólo podrán llevarse a cabo cuando sus lotes no hayan sido vendidos al público, debiéndose otorgar un nuevo convenio previo cumplimiento de las disposiciones que para la autorización de fraccionamientoS establezca la presente ley.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -1033,7 +1043,7 @@ Las personas físicas o morales interesadas en realizar un fraccionamiento, esta
 
 ###### ARTICULO 100.
 
-Para los efectos de la presente ley, los fraccionamientos se clasifican de la siguiente manera:
+Para los efectos de la presente ley, los fraccionamientoS se clasifican de la siguiente manera:
 
 I.- FRACCIONAMIENTOS HABITACIONALES: Son aquellos en que sus lotes se destinan a la construcción de vivienda y comprenderán los siguientes tipos:
 
@@ -1045,9 +1055,13 @@ c) Colonias populares.
 
 II.- FRACCIONAMIENTOS COMERCIALES: Son aquellos en los que sus lotes se destinan a la construcción de edificios donde se realicen actividades propias del giro comercial.
 
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Cualquier tipo de fraccionamientos de los mencionados con anterioridad que ofrezca lotes con servicios, se sujetará a las disposiciones que la presente Ley señala, de acuerdo al tipo de fraccionamiento que se trate. Unicamente se permitirán lotes inicialmente sin servicios o con servicios parciales en fraccionamientos del tipo colonia popular, en los términos previstos en esta Ley, siempre y cuando su fin sea resolver las demandas sociales y dotar de un patrimonio a familias de escasos recursos.
+
 ###### ARTICULO 101.
 
-Las personas que realicen fraccionamientos de tipo residencial, deberán dotarlos de la siguiente infraestructura básica y características obligatorias:
+Las personas que realicen fraccionamientoS de tipo residencial, deberán dotarlos de la siguiente infraestructura básica y características obligatorias:
 
 I.- INFRAESTRUCTURA BASICA:
 
@@ -1137,11 +1151,11 @@ a) Cuando el fraccionador no pretenda edificar; y
 
 b) Cuando se trate de calles o avenidas de alta velocidad.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 103.
 
-Las personas que realicen fraccionamientos del tipo colonia popular, deberán dotarlos de la siguiente infraestructura básica y características obligatorias:
-
-I.- INFRAESTRUCTURA BASICA:
+Las personas que realicen fraccionamientos del tipo colonia popular, podrán promover lotes con servicio parciales o sin ellos; pero, en todo caso, deberán prever la dotación de una infraestructura básica, mediante la inserción de un clausulado en los contratos de enajenación que realicen, en el que el adquiriente se obliga a realizar las aportaciones que por ley le correspondan, para la introducción en forma progresiva, de los siguientes servicios:
 
 - Red de agua potable y tomas domiciliarias.
 
@@ -1151,35 +1165,39 @@ I.- INFRAESTRUCTURA BASICA:
 
 - Red de alumbrado público.
 
-- Nomenclatura y señalamientos de tránsito.
+- Nomenclatura y señalamiento de tránsito.
 
 - Guarniciones.
 
+- Banquetas.
+
+El proyecto de fraccionamiento deberá cumplir con los siguientes requisitos:
+
+I.- VIABILIDAD:
+
+- Calles locales de 8.00 M. de arroyo, con circulación en un solo sentido y 1.59 M. de banqueta.
+
+- Calles colectoras de 11.00 M. de arroyo y 1.50 M. de banqueta.
+
+II.- LOTES CON SERVICIOS:
+
+En calles locales y colectoras tendrán un frente mínimo de 6.50 M. y superficie mínima de 117.00 M2.
+
+III.- LOTES SIN ALCANTARILLADO SANITARIO:
+
+- En calles locales y colectoras tendrán un frente mínimo de 8.00 M y superficie mínima de 160.00 M2.
+
+IV.- DONACIONES:
+
+- 12% de la superficie total vendible, ya urbanizada, de la cual, el 2% deberá ser en parques y jardines.
+
 - Arbolado y equipamiento en parques y jardines públicos.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+V.- AREA COMERCIAL:
 
-- Calle locales de 6.00 metros de arroyo mínimo, con circulación de un solo sentido y 1.50 metros de banqueta.
+- 2 % del área vendible.
 
-- Calles colectoras de 11.00 M. de arroyo y 1.50 M de banqueta.
-
-II.- LOTES
-
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
-
-- En calles locales, tendrán un frente mínimo de 6.00 metros y superficie mínima de 90.00 metros cuadrados.
-
-- En calles colectoras, tendrán un frente mínimo de 7.50 M. y una superficie mínima de 135.00 M2.
-
-III.- DONACIONES:
-
-- 10% de la superficie total vendible ya urbanizada de la cual, el 2% deberá ser parques y jardines
-
-IV.- AREA COMERCIAL:
-
-- 2% del área vendible.
-
-Cuando existan circunstancias de interés social o técnicas que así lo justifiquen, deberán autorizarse fraccionamientos de este tipo que, inicialmente, no cumplan con los requisitos señalados en la fracción I del presente Artículo, previniéndose en todos los casos, la forma progresiva en que deberán cumplirse dichos requisitos.
+El fraccionador estará obligado a realizar los movimientos de tierra que garanticen la identificación de manzanas, calles, lotes y ofrezcan seguridad en materia de flujos pluviales.
 
 ###### ARTICULO 104.
 
@@ -1239,7 +1257,21 @@ VI.- Ejecutar por su cuenta los gastos de conservación de las obras de urbaniza
 
 VII.- Otorgar ante y a satisfacción de la Tesorería Municipal una garantía personal o real que garantice la buena calidad de las obras por el término de un año, contados a partir de la fecha de terminación de las obras y por un importe igual al 5% de la suma de los costos de urbanización, sin incluir lo referente a electrificación y alumbrado público, siempre y cuando se cuente con el acta de recepción correspondiente de parte de la Comisión Federal de Electricidad.
 
-VIII.- Los contratos de compra venta de lotes que celebre deberán contener las restricciones señaladas en esta ley, respetando las dimensiones mínimas de los mismos y que su uso sea exclusivamente el autorizado.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VIII.- Insertar en los contratos de enajenación de lotes que celebre, los siguientes conceptos:
+
+a) El uso de cada lote, el tipo y densidad de identificación que le corresponda de acuerdo a la licencia de uso de suelo correspondiente.
+
+b) La prohibición para los propietarios de lotes o predios de subdividirlos en fracciones con dimensiones menores a las determinadas en la presente Ley.
+
+c) Las disposiciones que regulen y limitan su edificación.
+
+d) Las distintas funciones del predio urbanizado.
+
+e) Las garantías a cargo del urbanizador, en su monto y vigencia, para realizar reparaciones y reponer elementos de la urbanización, al presentarse defectos ocultos y fallas por calidad en materiales o mano de obra.
+
+Los notario públicos, los jueces que actúen en funciones notariales por ministerio de ley y las autoridades estatales o municipales, en su caso, verificarán se incluyan estos rubros en las escrituras respectivas.
 
 IX.- Respetar los precios máximos de venta autorizados por el Ayuntamiento correspondiente; y
 
@@ -1247,13 +1279,13 @@ X.- Las demás que señale la presente ley y cualquier otra disposición aplicab
 
 ###### ARTICULO 107.
 
-Cuando el fraccionador solicite la modificación al proyecto autorizado, deberá observar el procedimiento que para la autorización de fraccionamientos establece esta ley.
+Cuando el fraccionador solicite la modificación al proyecto autorizado, deberá observar el procedimiento que para la autorización de fraccionamientoS establece esta ley.
 
 #### SECCION III. DE LAS NORMAS TECNICAS DEL PROYECTO
 
 ###### ARTICULO 108.
 
-Los proyectos y ejecución de los fraccionamientos, deberán ajustarse respetando las normas de urbanización que se citan a continuación:
+Los proyectos y ejecución de los fraccionamientoS, deberán ajustarse respetando las normas de urbanización que se citan a continuación:
 
 I.- Normas de trazo.
 
@@ -1291,7 +1323,7 @@ Las normas de trazo son las que se refieren a dimensiones de lotes, manzanas y r
 
 ###### ARTICULO 110.
 
-Las calles que se proyecten en fraccionamientos, deberán ajustarse a lo marcado en las secciones transversales que se indican en el Cuadro I, dependiendo del tipo de fraccionamiento, por tanto, su construcción será conforme a lo aquí previsto, y sus características estarán determinadas por la función principal de cada una de ellas, de acuerdo a la siguiente clasificación:
+Las calles que se proyecten en fraccionamientoS, deberán ajustarse a lo marcado en las secciones transversales que se indican en el Cuadro I, dependiendo del tipo de fraccionamiento, por tanto, su construcción será conforme a lo aquí previsto, y sus características estarán determinadas por la función principal de cada una de ellas, de acuerdo a la siguiente clasificación:
 
 I.- CALLES LOCALES.- Son destinadas principalmente a dar acceso a los lotes del fraccionamiento.
 
@@ -1389,7 +1421,19 @@ III.- Plano del terreno que amparan las escrituras.
 
 IV.- Acta constitutiva de la empresa fraccionadora, cuando se trate de persona moral.
 
-La licencia del uso del suelo, se otorgará por el Ayuntamiento respectivo, de acuerdo a lo previsto en los programas de desarrollo urbano de declaratorias en vigor.
+IV.- Acta constitutiva de la empresa fraccionadora, cuando se trate de persona moral.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+La licencia del uso del suelo, se otorgará por el ayuntamiento respectivo, de acuerdo a lo previsto por esta ley y en los programas de desarrollo urbano, debiendo contener primordialmente:
+
+a) El uso de suelo para el predio o lote.
+
+b) El tipo y densidad de construcción, mediante los coeficientes de ocupación y utilización del suelo que le corresponda de acuerdo a la licencia de uso de suelo.
+
+c) La prohibición para los adquirientes de lotes o predios, de subdividirlos en fracciones con dimensiones menores a las determinadas en la presente Ley; y
+
+d) La normatividad que regule la edificación de los lotes o predios, las condiciones que deriven de derechos de vía existentes o previstos en el programa de desarrollo urbano del centro de población, así como el procedimiento para tramitar condiciones de uso de suelo alternos en relación con los mismos.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 1993)</small>
 
@@ -1415,9 +1459,9 @@ El dictamen de la Secretaría de Infraestructura Urbana y Ecología, a que se re
 
 Una vez obtenidas las aprobaciones descritas en los Artículos anteriores, el fraccionador podrá elaborar el proyecto definitivo que presentará acompañado de la documentación técnica ante el Ayuntamiento, quien solicitará la revisión y autorización de los proyectos correspondientes a:
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
 
-I.- Secretaría de Infraestructura Urbana y Ecología, por lo que respecta a los proyectos de construcción y ampliación de las redes de agua potable y alcantarillado.
+I.- El organismo operador de agua potable y alcantarillado correspondiente o, a solicitud de éste, la Secretaría por lo que respecta a los proyectos de construcción y ampliación de las redes de agua potable y alcantarillaado (sic).
 
 II.- Comisión Federal de Electricidad, en lo que respecta a los planos de instalación eléctrica y alumbrado público; y
 
@@ -1453,13 +1497,13 @@ Obtenidas las aprobaciones anteriores, el fraccionador presentará ante el Ayunt
 
 13.- Plano manzanero, que comprenderá: numeración y ubicación de manzanas, áreas verdes, áreas comerciales, áreas de donación con sus ángulos, medidas y superficies en cada una de ellas, nomenclatura de calles y orientación.
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
-14.- Plano de agua potable, que comprenderá: conexión de la red municipal, distribución de la red, longitudes, diámetro, tomas domiciliarias, cuadros de cruceros, simbología y datos de proyecto, debidamente autorizados por la Secretaría de Infraestructura Urbana y Ecología.
+14.- Plano de agua potable, que comprenderá: conexión de la red municipal, distribución de la red, longitudes, diámetros, tomas domiciliarias, cuadros de cruceros, simbología y datos de proyecto, debidamente autorizados por el organismo operador de agua potable y alcantarillado correspondiente o por la Secretaría.
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
-15.- Plano de alcantarillado, que comprenderá: Distribución de la red, longitud, diámetro, niveles y pendientes entre pozo y pozo, descarga y datos de proyectos y simbología, debidamente autorizados por la Secretaría de Infraestructura Urbana y Ecología.
+15.- Plano de alcantarillado, que comprenderá: Distribución de la red, longitud, diámetro, niveles y pendientes entre pozo y pozo, descarga y datos de proyectos y simbología, debidamente autorizados por el organismo operador de agua potable y alcantarillado correspondiente o por la Secretaría.
 
 16.- Plano de electrificación, en el que se señale la red de distribución de energía eléctrica, conexión a las líneas de transmisión y subestaciones, simbología, datos de proyecto, sellado y ajustado a las normas y especificaciones que marque la Comisión Federal de Electricidad.
 
@@ -1549,9 +1593,13 @@ La falta de las inscripciones a que se refiere el artículo anterior, así como 
 
 #### SECCION VI. DE LA EJECUCION DE LAS OBRAS DEL FRACCIONAMIENTO
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 140.
 
-Una vez firmado, publicado e inscrito el Convenio-Autorización, el Ayuntamiento podrá autorizar la iniciación total o parcial de las obras de construcción del fraccionamiento. Para ello, el fraccionador deberá otorgar a favor de la Tesorería Municipal, una fianza expedida por algún organismo autorizado por la ley para ello, por el valor total de las obras de urbanización, más el 50% para los efectos de la pena convencional, o bien, constituir una garantía real de bienes inmuebles distintos a los del fraccionamiento autorizado, a satisfacción de la propia Tesorería. Estas garantías sólo serán obligatorias cuando el fraccionador quiera vender los lotes antes de la terminación de las obras.
+Una vez firmado, publicado o inscrito el Convenio-Autorización y cubiertos los derechos fiscales, el Ayuntamiento podrá autorizar la venta de los lotes que integren el fraccionamiento. Para ello, el fraccionador deberá otorgar a favor de la Tesorería Municipal, una fianza expedida por algún organismo autorizado por la Ley, por valor total de las obras de urbanización pendientes de realizarse, mas el 50% como pena convencional o, construir una garantía real de bienes inmuebles distintos a los del fraccionamiento autorizado, o bien, a través de un fideicomiso de garantía constituido para tal fin.
+
+En todo caso, la garantía deberá ser establecida a plena satisfacción de la propia Tesorería Municipal.
 
 ###### ARTICULO 141.
 
@@ -1673,13 +1721,19 @@ Cuando un edificio en el que se pretenda instituir el régimen de propiedad en c
 
 Serán aplicables a los condominios residenciales y comerciales a que se refiere el artículo anterior, en lo conducente, las disposiciones que para los fraccionamientos establece esta ley, incluyendo las áreas de donación, las que serán determinadas por el Ayuntamiento respectivo, de acuerdo a la superficie de construcción que se pretenda realizar.
 
-En caso de que, debido a la ubicación de los condominios, no sea posible donar la superficie de terreno respectiva, ésta podrá ser permutada por pagos en efectivo, a juicio del Ayuntamiento y con base en los dictámenes técnicos correspondientes.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+En caso de que, debido a la ubicación de los condominios, no sea posible donar la superficie de terreno respectiva, ésta podrá ser permutada por pagos en efectivo a un fideicomiso que para la adquisición de reservas territoriales establecerá el ayuntamiento respectivo, o, a juicio del mismo Ayuntamiento y con base en los dictámenes técnicos correspondientes, podrá permutarse la donación por obras de beneficio para la comunidad.
+
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Los desarrollos turísticos en régimen de condominio, no estarán sujetos al otorgamiento de áreas de donación.
 
 #### SECCION X. DE LA REGULARIZACION DE LOS FRACCIONAMIENTOS ILEGALES
 
 ###### ARTICULO 159.
 
-Se consideran ilegales las fusiones, subdivisiones, relotificaciones y fraccionamientof que no estén autorizados por los Ayuntamientos respectivos de acuerdo con esta ley y demás disposiciones aplicables.
+Se consideran ilegales las fusiones, subdivisiones, relotificaciones y fraccionamientos que no estén autorizados por los Ayuntamientos respectivos de acuerdo con esta ley y demás disposiciones aplicables.
 
 También se consideran ilegales las fusiones, subdivisiones, relotificaciones y fraccionamientos autorizados, cuyos propietarios no realicen las obras o no hayan satisfecho los requisitos a que estén obligados de acuerdo con la autorización concedida.
 
@@ -1749,9 +1803,27 @@ II.- Las restricciones de altura, alineamiento y características arquitectónic
 
 III.- El número oficial correspondiente al predio respectivo.
 
-IV.- El coeficiente de ocupación máxima de suelo; y
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+IV.- Los coeficientes máximos de ocupación y utilización de suelo.
 
 V.- El área de estacionamientos con que deberán contar las edificaciones que se pretendan construir.
+
+> <small>(ADICIONADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VI.- Las áreas de amortiguamiento que se deberán implementar de acuerdo a lo establecido en la presente Ley, el reglamento municipal correspondiente, o, en su caso, el dictamen de impacto ambiental.
+
+> <small>(ADICIONADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VII.- La prohibición para los adquirentes de lotes o predios, de subdividir los en fracciones con dimensiones menores a las determinadas en la presente Ley; y
+
+> <small>(ADICIONADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VIII.- La normatividad que regule la edificación de los lotes o predio, las condiciones que deriven derechos de vía existentes o previstos en el programa de desarrollo urbano del centro de población, así como el procedimiento para tramitar condiciones de uso de suelo alternos en relación a los mismos.
+
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+La constancia de zonificación que se emita para construcciones aisladas, tendrá el mismo efecto que una licencia de uso de suelo.
 
 ###### ARTICULO 171.
 
@@ -1841,9 +1913,15 @@ II.- Desarrollos Turísticos: La conjugación de elementos tales como suelo, inf
 
 III.- Desarrollos Campestres: La conjugación de elementos tales como suelo, infraestructura, servicios e instalaciones ubicados fuera de las zonas de crecimiento de los centros de población y destinados a la explotación de recursos naturales para el consumo familiar o con fines de recreo.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 186.
 
-Los tipos de Desarrollos a que se refiere el artículo anterior, se clasificarán conforme lo disponga el Reglamento que expida el Gobernador del Estado. En todo caso, en cada uno de los Desarrollos de referencia, se deberán, de contemplar áreas de denominación equivalentes al 10 % de la superficie total vendible.
+Los desarrollados industriales, turísticos y campestres, a que se refiere el artículo anterior deberán contemplar áreas de donación equivalente al 10% de la superficie total vendible.
+
+En caso de que no sea posible donar la superficie de terreno respectiva, ésta podrá ser permutada por pagos en efectivo a un fideicomiso que para la adquisición de reservas territoriales establecerá el Gobierno del Estado o, tomando en consideración los dictámenes técnicos correspondientes, podrá permutarse la donación por obras de beneficio para la comunidad.
+
+Los desarrollos turísticos que se establezcan bajo régimen de condominio, no estarán sujetos al otorgamiento de áreas de donación.
 
 ###### ARTICULO 187.
 
@@ -2064,3 +2142,13 @@ B.O. 8 DE JULIO DE 1993.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE JULIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los trámites y solicitudes de fraccionamientos, desarrollos, funciones, subdivisiones y relotificaciones que estuvieren pendientes de resolver hasta antes de la entrada en vigor de la presente Ley, deberán de continuarse hasta su determinación conforme al contenido de las disposiciones que se reforman.
