@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1995-02-09"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -295,7 +295,7 @@ c).- Cuando por causas ajenas a la voluntad de los propietarios, éstos no se en
 
 d).- Cuando siendo propiedad del Estado o de sus Municipios, de la Federación y las Entidades Federativas, se den en explotación por cualquier título a personas distintas a las antes citadas;
 
-IV.- Las plantas de beneficio y establecimientos metalúrgicos en los términos del artículo 23 de la nueva Ley Federal de Impuestos y Fomento a la Minería sobre el valor de las fincas determinándose conforme a las mismas disposiciones existentes para el resto de la propiedad raíz.
+IV.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
 V.- La propiedad o posesión en los términos de la Legislación Agraria Federal.
 
@@ -333,11 +333,11 @@ La base del impuesto será:
 
 I.- El 100% del Valor Catastral del predio, señalado en los términos de la Ley de Catastro.
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-II.- En aquellos casos en los que no se haya determinado el Valor Catastral correspondiente, la base será el valor provisional que la Secretaría de Finanzas y Planeación del Estado fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
+II.- El 100% del valor provisional que la Secretaría de Finanzas y Planeación del Estado fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
 
-III.- En los casos a que se refiere la fracción IV del artículo 33 de esta Ley, adicionalmente a la base determinada conforme a las fracciones anteriores, se le sumará el valor de la maquinaria y equipo asignado por peritos valuadores en la materia.
+III.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 36.
 
@@ -388,6 +388,10 @@ Por predio baldío se entiende el urbano sin edificaciones, en los términos de 
 El pago del impuesto será semestral y deberá hacerse dentro de los meses de enero y julio de cada año; si el contribuyente opta por el pago anual durante el mes de enero se le hará un descuento del 20%
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva, se cobrará o reintegrarán las diferencias que resulten.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+En los casos de predios que no hayan tenido modificaciones físicas no procederá el cobro de diferencias, cuando éstas sean consecuencia de la actualización del valor catastral o provisional que resulte de la valuación masiva por la ejecución de programas de modernización del Catastro, donde se utilicen sistemas aerofotogramétricos digitales para elaborar la cartografía catastral.
 
 ###### ARTICULO 40.
 
@@ -453,9 +457,9 @@ Es objeto de este impuesto:
 
 I.- La transmisión contractual de la propiedad de bienes inmuebles o derechos de copropiedad sobre éstos;
 
-> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-II.- La transmisión de la propiedad de bienes inmuebles, en los casos de constitución, fusión, escisión de sociedades, aumento o reducción de capital social, pago en especie de utilidades o dividendos, y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles.
+II.- La transmisión de la propiedad de bienes inmuebles en los casos de la constitución, fusión y escisión de sociedades, aumento o reducción de capital social, pago en especie de remanentes, utilidades o dividendos y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles, así como la aportación a toda clase de Asociaciones;
 
 III.- La adquisición de la propiedad de bienes inmuebles en virtud de la prescripción o de la información ad perpétuam respectiva.
 
@@ -491,7 +495,21 @@ c).- En el acto de designar fideicomisario, si éste no se designó al constitui
 
 XIV.- La cesión de derechos de fideicomitentes o fideicomisarios cuando se hayan afectado bienes inmuebles. Se considera que existe ésta cuando haya substitución de un fideicomitente o de un fideicomisario, por cualquier motivo;
 
-XV.- La constitución de usufructo, transmisión de éste o de la nuda propiedad.
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+La constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extensión del usufructo temporal.
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XV.- La división de la copropiedad y la disolución de sociedad conyugal, por la parte que se adquiera en demasía de la porción que correspondía al copropietario o cónyuge.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52
+
+BIS.- Para los efectos de esta Ley se entiende que no existe Adquisición:
+
+En la aportación para constituir la copropiedad o la sociedad conyugal, siempre que los bienes sean propiedad de los copropietarios o de los cónyuges.
 
 ###### ARTICULO 53.
 
@@ -523,11 +541,11 @@ XI.- EI usufructuario, el cesionario de los derechos de usufructo o el adquirent
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
-> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 55.
 
-La base de este impuesto será el valor del inmueble, catastral o provisional o el de operación si éste es mayor y el impuesto se causará, liquidará y pagará aplicando la tasa de 2% sobre la base indicada en este artículo.
+La base de este impuesto será el valor del inmueble, catastral o provisional actualizado con los últimos valores unitarios para terreno y construcción publicados o el de operación si éste es mayor. El impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base indicada en este artículo.
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1995)</small>
 
@@ -537,17 +555,19 @@ Tratándose del usufructo o de la nuda propiedad, la base del impuesto será el 
 
 En los casos a que se refiere el artículo 52 fracción III, de esta Ley, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial.
 
-> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 56.
 
-Los contribuyentes que celebren operaciones de las señaladas en el artículo 52 fracción XV, de esta Ley, podrán optar por pagar el impuesto, aplicando la base determinada conforme al primer párrafo del artículo anterior, sin considerar la reducción del 50% a que se refiere el segundo párrafo del mismo artículo.
+Los contribuyentes que celebren operaciones de las señaladas en el artículo 52, fracción XIV, de esta Ley, podrán optar por pagar el impuesto, aplicando la base determinada conforme al primer párrafo del artículo 55, sin considerar la reducción del 50% a que se refiere el tercer párrafo del mismo artículo.
 
 En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
 
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 57.
 
-Para determinar la base del impuesto los contribuyentes y/o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberá contar con el valor catastral o provisional en su caso, en la forma oficial autorizada para tal efecto.
+Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el valor catastral o provisional en su caso, actualizado y certificado en la forma oficial autorizada para tal efecto.
 
 ###### ARTICULO 58.
 
@@ -730,6 +750,10 @@ VII.- Exhibiciones y concursos, sobre el precio de cada boleto, ficha o pase de 
 > <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 1992)</small>
 
 VIII.- Los no comprendidos en las fracciones anteriores, sobre el precio del boleto, el 10%.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+IX.- Tratándose de instituciones de asistencia pública legalmente constituidas, se aplicará la tasa del 3% sobre el precio del boleto.
 
 ###### ARTICULO 76.
 
@@ -983,7 +1007,9 @@ I.- 15% adicional sobre:
 
 a).- Impuestos sobre fraccionamientos, espectáculos públicos y sobre juegos permitidos, sobre loterías, rifas y sorteos.
 
-b).- Derechos por la prestación de servicios en los panteones municipales, por alineamiento de predios y fijación de números oficiales por expedición de licencias, por deslinde de predios de particulares hechos por un perito de los Ayuntamientos, por conexión de albañales y por servicios de agua; y
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+b).- Derechos por la prestación de servicios en los panteones municipales, por alineamiento de predios y fijación de números oficiales, por expedición de licencias, por deslindes de predios de particulares hechos por un perito de los Ayuntamientos y por conexión de aIbañaIes; y
 
 c).- Productos por ingresos obtenidos en la enajenación de bienes muebles e inmuebles pertenecientes al Municipio, por ingresos obtenidos por concepto de rentas de bienes propiedad del Municipio e ingresos por capitales impuestos.
 
@@ -3067,7 +3093,13 @@ IV.- Herencias, legados, donaciones e indemnizaciones a favor del Municipio; las
 
 Se multiplicará por 25 el número de cajones de estacionamiento que correspondan por la aplicación del Reglamento y el resultado se multiplicará por el valor catastral o provisional en su caso del metro cuadrado que corresponda a la calle en donde se encuentre ubicado el inmueble. El resultado en pesos se pagará en la Tesorería Municipal correspondiente.
 
-V.- No especificados.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+V.- Ingresos causados en ejercicios anteriores, pendientes de liquidación o de pago.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+VI.- No especificados.
 
 ###### ARTICULO 180.
 
@@ -3194,3 +3226,13 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 G.O. 9 DE FEBRERO DE 1995.
 
 UNICO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Organo del Gobierno del Estado.
+
+G.O. 28 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día 1° de enero de 1996, previa su publicación en la "Gaceta Oficial" del Estado de Veracruz-Llave.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de la disposición del Banco de México publicado en el Diario Oficial de la Federación el 6 de enero de 1994 todas las sumas en moneda nacional que en las disposiciones fiscales del Estado se encuentren expresadas en "Nuevos Pesos" y su abreviatura "N$", a partir del 1° de enero de 1996 deberán entenderse como "Pesos" y su símbolo "$".
