@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-alcance-54960"
 country: "mx"
 rank: "otro"
 publication_date: "1998-09-18"
-last_updated: "1998-09-18"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54960&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,65 +18,49 @@ scjn_last_update: "2022-09-02"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE ALCANCE PARCIAL NO. 29, (ECUADOR, 2002)
 
-DECRETO QUE ESTABLECE LAS BASES CONFORME A LAS CUALES SE APLICARA EL ACUERDO DE ALCANCE PARCIAL No. 29
+DECRETO POR EL QUE SE REFORMA EL DIVERSO PARA LA APLICACION DEL DECIMO PROTOCOLO ADICIONAL AL ACUERDO DE ALCANCE PARCIAL NO. 29 CELEBRADO ENTRE LA REPUBLICA DEL ECUADOR Y LOS ESTADOS UNIDOS MEXICANOS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO PARA LA APLICACION DEL ACUERDO DE ALCANCE PARCIAL NO. 29, SUSCRITO ENTRE EL GOBIERNO DE LOS ESTADOS UNIDOS MEXICANOS Y EL GOBIERNO DE LA REPUBLICA DEL ECUADOR, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Decreto publicado en el Diario Oficial de la Federación, el viernes 18 de septiembre de 1998.
+Decreto publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o. y 14 de la Ley de Comercio Exterior; y 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
 
-Que el Plan Nacional de Desarrollo 1995-2000 señala dentro de las estrategias relativas a los nuevos vínculos de la política interior y exterior, el fortalecer con América del Sur los mecanismos regionales de diálogo político y de integración económica y expandir los acuerdos comerciales a otras naciones del hemisferio;
+Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos y la República del Ecuador suscribieron el 30 de abril de 1983 el Acuerdo de Alcance Parcial de Renegociación No. 29;
 
-Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos y la República del Ecuador, celebraron un Acuerdo de Alcance Parcial el 30 de abril de 1983, el cual establece diversas preferencias arancelarias, otorgadas por dichos países, identificadas en los términos de la Nomenclatura de la ALADI (NALADISA), y
+Que el 16 de agosto de 2002, los gobiernos de los Estados Unidos Mexicanos y de la República del Ecuador suscribieron el Décimo Protocolo Adicional al Acuerdo de Alcance Parcial de Renegociación No. 29, y
 
-Que para la exacta observancia del citado Acuerdo, en virtud de haberse negociado diversos cambios al mismo plasmados hasta su noveno protocolo adicional, es necesario dar a conocer actualizadas las preferencias arancelarias otorgadas por México al amparo del mismo, he tenido a bien expedir el siguiente
+Que es necesario incorporar al Decreto publicado el 18 de septiembre de 1998 en el Diario Oficial de la Federación, que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial No. 29, las preferencias arancelarias pactadas entre los Estados Unidos Mexicanos y la República del Ecuador mediante el referido Protocolo Adicional, he tenido a bien expedir el siguiente
 
-DECRETO QUE ESTABLECE LAS BASES CONFORME A LAS CUALES SE APLICARÁ EL ACUERDO DE ALCANCE PARCIAL No. 29
+DECRETO POR EL QUE SE REFORMA EL DIVERSO PARA LA APLICACIÓN DEL DÉCIMO PROTOCOLO ADICIONAL AL ACUERDO DE ALCANCE PARCIAL No. 29 CELEBRADO ENTRE LA REPÚBLICA DEL ECUADOR Y LOS ESTADOS UNIDOS MEXICANOS
+
+###### ARTÍCULO ÚNICO.
+
+Se reforma la denominación del Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial No. 29, publicado en el Diario Oficial de la Federación del 18 de septiembre de 1998 y su artículo primero para adicionar en su tabla de preferencias, las preferencias arancelarias porcentuales, que a continuación se indican, para quedar como sigue:
+
+“Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial de Renegociación No. 29.
 
 ###### ARTÍCULO PRIMERO.
 
-Para la aplicación de las preferencias arancelarias porcentuales previstas en el Acuerdo de Alcance Parcial No. 29 suscrito por los Estados Unidos Mexicanos y la República del Ecuador, se estará a la Tabla siguiente:
+. . .
 
-TABLA DE LAS PREFERENCIAS ARANCELARIAS PORCENTUALES QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS, DE CONFORMIDAD CON EL ACUERDO DE ALCANCE PARCIAL No. 29
+TABLA DE LAS PREFERENCIAS ARANCELARIAS PORCENTUALES QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS DE CONFORMIDAD CON EL ACUERDO DE ALCANCE PARCIAL DE RENEGOCIACIÓN No. 29
 
-> <small>N. DE E. VER TABLA ANEXA DEL DECRETO EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 1998, PAGINAS 21 A 37.</small>
+(VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO SEGUNDO.
+## TRANSITORIO
 
-Como resultado de las negociaciones comerciales a cargo del Gobierno Federal, se dan a conocer las preferencias otorgadas por la República del Ecuador como a continuación se indican:
+ÚNICO.- El presente Decreto entrará en vigor treinta (30) días después de que se haya efectuado el intercambio de comunicaciones que acrediten el cumplimiento de las formalidades jurídicas, necesarias para la aplicación del Décimo Protocolo Adicional al Acuerdo de Alcance Parcial de Renegociación No. 29 celebrado entre la República del Ecuador y los Estados Unidos Mexicanos.
 
-TABLA DE LAS PREFERENCIAS ARANCELARIAS PORCENTUALES QUE OTORGA LA REPÚBLICA DEL ECUADOR, DE CONFORMIDAD CON EL ACUERDO DEL ALCANCE PARCIAL No. 29
+Para tal efecto, la Secretaría de Economía publicará en el Diario Oficial de la Federación el aviso de la fecha de entrada en vigor del Décimo Protocolo Adicional al Acuerdo de Alcance Parcial de Renegociación No. 29 celebrado entre la República del Ecuador y los Estados Unidos Mexicanos.
 
-> <small>N. DE E. VER TABLA ANEXA DEL DECRETO EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 1998, PAGINAS 37 A 58.</small>
-
-###### ARTÍCULO TERCERO.
-
-Para determinar la cuota ad-valorem aplicable en cada operación de importación de mercancías señaladas en la Tabla contenida en el artículo primero del presente Decreto, se aplicará la fórmula siguiente.
-
-(B - P) x A x .01
-
-donde:
-
-B significa 100%;
-
-P significa la preferencia porcentual otorgada por México, prevista en la columna (5) de la Tabla del artículo primero del presente Decreto, respecto de la mercancía de que se trate, y
-
-A significa la cuota ad-valorem que conforme a la Tarifa de la Ley del Impuesto General de Importación corresponda aplicar a la mercancía de que se trate, según la fracción arancelaria respectiva listada en la columna (2) de la Tabla prevista en el artículo primero del presente Decreto.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- La Secretaría de Hacienda y Crédito Público, a petición de parte, cancelará las garantías otorgadas de conformidad con el artículo 141 del Código Fiscal de la Federación, para cubrir las diferencias de impuestos que, en su caso, hubieren resultado entre el monto que se tendría que pagar en los términos de la Tarifa de la Ley del Impuesto General de Importación, vigente al momento de efectuarse la importación, y el monto derivado de calcular el impuesto tomando en cuenta la preferencia porcentual negociada en el Acuerdo de Alcance Parcial suscrito entre los Estados Unidos Mexicanos y la República del Ecuador.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de septiembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
 
