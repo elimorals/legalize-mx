@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1996-10-18"
+last_updated: "1997-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1191,13 +1191,15 @@ Las Leyes sobre Responsabilidades Administrativas de los servidores públicos, d
 
 El procedimiento de Juicio Político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña algunos de los encargos a que se refiere el Artículo 112.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1997)</small>
 
 ###### Art. 117.
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa.
+La Ley señalará los casos de prescripción de responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones que hace referencia la fracción III del Artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 ## TITULO VIII.. De los Municipios
 
@@ -2270,3 +2272,7 @@ DECRETO NUMERO 273, QUE DEROGA EL ARTICULO 130.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 1997.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
