@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "1995-07-06"
+last_updated: "2004-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2004.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -39,15 +39,19 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 1o.
 
-Es objeto de esta Ley, establecer las bases y requisitos para la contratación, registro y control de empréstitos, créditos o financiamientos que formen parte de la deuda pública del Estado y de sus Municipios.
+Es objeto de esta Ley establecer las bases y requisitos para la contratación, registro y control de empréstitos, créditos o financiamientos que formen parte de la deuda pública del Estado y de sus municipios, así como la afectación en garantía o como fuente de pago de las participaciones en ingresos federales y demás ingresos que correspondan al Estado y sus municipios.
 
 ###### ARTICULO 2o.
 
 La deuda pública está constituida por las obligaciones directas y contingentes derivadas de empréstitos o créditos a cargo de los siguientes entes públicos:
 
-I.- El Gobierno del Estado;
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+
+I.- El Estado;
 
 II.- Los Municipios;
 
@@ -75,9 +79,43 @@ VI.- Deuda pública consolidada: la suma de las deudas estatal y municipales;
 
 VII.- Empréstitos directos: las operaciones de endeudamiento que contraten el Gobierno del Estado o los Gobiernos Municipales;
 
-VIII.- Empréstitos indirectos o contingentes: las obligaciones asumidas solidaria, sustitutiva o subsidiariamente por el por el Gobierno del Estado con los Municipios o con las entidades paraestatales; y por los municipios con sus entidades paramunicipales; y
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
 
-IX.- Crédito: las operaciones de endeudamiento que contraten las entidades paraestatales y las paramunicipales.
+VIII. Empréstitos indirectos o contingentes: las obligaciones asumidas solidaria, sustitutiva o subsidiariamente por el Gobierno del Estado con los municipios o con las entidades paraestatales; y por los municipios con sus entidades paramunicipales;
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+
+IX. Crédito: las operaciones de endeudamiento que contraten las entidades paraestatales y las paramunicipales;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+X. Empréstitos: las operaciones de financiamiento referidas en el artículo 4º de esta Ley;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+XI. Refinanciar: obtener un empréstito o crédito para pagar total o parcialmente otro preexistente;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+XII. Reestructurar: modificar tasas de interés, plazos, forma de pago u otros términos de un empréstito o crédito preexistente;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+XIII. Endeudamiento neto: la diferencia entre los ingresos derivados de empréstitos y sus pagos de capital, en el entendido de que durante un ejercicio fiscal habrá:
+
+a).- Endeudamiento neto positivo: cuando los ingresos derivados de empréstitos sean superiores a los pagos de capital de empréstitos;
+
+b).- Endeudamiento neto negativo: en caso de que los ingresos derivados de empréstitos sean inferiores a los pagos de capital de empréstitos; y
+
+c).- Endeudamiento neto neutral: cuando los ingresos derivados de empréstitos sean por un monto igual a los pagos de capital de empréstitos;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+XIV.- Registro: el Registro Estatal de Deuda Pública; y
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+XV.- Secretaría: la Secretaría de Hacienda del Estado.
 
 ###### ARTICULO 4o.
 
@@ -91,23 +129,27 @@ III.- Los pasivos contingentes relacionados con los actos mencionados en las fra
 
 IV.- En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivada de actos jurídicos, independientemente de la forma en que se les documente, contraídas por los entes públicos.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 5o.
 
-La Secretaría de Planeación del Desarrollo y Gasto Público y la Secretaría de Finanzas, dentro del ámbito de sus respectivas competencias, son las dependencias del Ejecutivo Estatal facultadas para aplicar e interpretar, para efectos administrativos, la presente Ley, así como para regular su debido cumplimiento. En el ámbito municipal, en su caso, corresponderá al Ayuntamiento esta atribución.
+La Secretaria es la dependencia del Ejecutivo Estatal facultada para aplicar e interpretar, para efectos administrativos, la presente Ley, así como para vigilar su debido cumplimiento. En el ámbito municipal, en su caso, esta atribución corresponderá al Ayuntamiento.
 
 ### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANOS EN MATERIA DE DEUDA PUBLICA
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 6o.
 
 Al Congreso del Estado corresponde:
 
-I.- Aprobar los programas financieros estatales y municipales;
+I. Autorizar los montos máximos de endeudamiento neto del Estado, de las entidades paraestatales y de los municipios y entidades paramunicipales, en las correspondientes Leyes de Ingresos;
 
-II.- Autorizar los montos de endeudamiento neto que sean necesarios para el financiamiento de los entes públicos;
+II. Autorizar en la correspondiente Ley de Ingresos los montos máximos por endeudamiento del Estado como avalista o deudor solidario o subsidiario de los municipios y de las entidades paraestatales y paramunicipales;
 
-III.- Aprobar el monto anual a que se refiera la ley de ingresos y el decreto de presupuesto de egresos del Estado, por endeudamiento del Estado como avalista o deudor solidario de los municipios, y de las entidades paraestatales; así como aprobar los montos anuales de endeudamiento de los municipios en sus Leyes de Ingresos, como avalistas o deudores solidarios de sus entidades paramunicipales;
+III. Autorizar en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales; y
 
-IV.- Autorizar, en los términos de las fracciones II y III, la afectación en garantía de pago, tanto de las participaciones de ingresos federales que corresponden al Estado y Municipios, como las estatales en el caso de los municipios.
+IV. Autorizar, en la correspondiente Ley de Ingresos o mediante decretos, la afectación como garantía o fuente de pago, tanto de las participaciones en ingresos federales que corresponden al Estado y los municipios, como las estatales en el caso de los municipios, así como la afectación como garantía o fuente de pago de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a otras obligaciones que deriven de contratos que celebren los entes públicos dentro de sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 7o.
 
@@ -119,7 +161,7 @@ Compete al Ejecutivo del Estado:
 
 I.- Presentar al Congreso del Estado, las iniciativas de ley de ingresos y presupuesto de egresos, proponiendo los montos de endeudamiento netos necesarios para el financiamiento del presupuesto de egresos correspondiente y proporcionar suficientes elementos de juicio para respaldar dichas iniciativas;
 
-II.- Enviar al Congreso del Estado para su análisis y aprobación, en su caso, el programa financiero estatal, lo que hará conjuntamente con las iniciativas de ley de ingresos y presupuesto de egresos;
+II.- (DEROGADA, B.O. 8 DE JULIO DE 2004)
 
 III.- Informar al Congreso del Estado de la situación de la deuda al rendir la cuanta pública anual y al remitir las iniciativas de ley de ingresos y presupuesto de egresos; y
 
@@ -127,47 +169,61 @@ IV.- Informar trimestralmente al Congreso del Estado, sobre la situación de la 
 
 ###### ARTICULO 9o.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Planeación del Desarrollo y Gasto Público.
+(DEROGADO, B.O. 8 DE JULIO DE 2004)
 
-I.- Elaborar el programa financiero estatal, con base en el cual se manejará la deuda pública estatal;
-
-II.- Presentar anualmente al Ejecutivo Estatal, para su autorización, el programa financiero referido en la fracción anterior, que incluirá las garantías que se pretenden otorgar en la contratación de empréstitos y créditos;
-
-III.- Asesorar a los municipios en la formulación de sus programas financieros y, en todo lo relativo a la obtención de recursos crediticios, concertación de empréstitos y contratación de créditos y otras operaciones financieras para sí o para sus entidades paramunicipales;
-
-IV.- Autorizar a las entidades paraestatales, para gestionar y contratar financiamientos, ajustándose a las medidas administrativas establecidas;
-
-V.- Vigilar que la capacidad de pago de los entes públicos que obligan al Estado y que contraten financiamientos sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo de los programas de financiamiento aprobados, así como la adecuada estructura financiera de las entidades acreditadas, y
-
-VI.- Llevar e Registro General de Deuda Pública, consolidado, derivada de la contratación de empréstitos y créditos y obligaciones financieras en general, por parte de los entes públicos anotando el monto, garantías, características y destino de los recursos.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 10.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, efectuar oportunamente los pagos de amortizaciones, intereses y los que haya lugar, derivados de empréstitos y créditos contratados y debidamente formalizados y obliguen al Estado. Asimismo:
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, efectuar oportunamente los pagos de amortizaciones, intereses y lo que haya lugar, derivados de empréstitos a cargo del Estado. Asimismo:
 
 I.- Celebrar los contratos y convenios para la obtención de empréstitos, créditos y demás operaciones financieros de deuda pública, suscribiendo los documentos y títulos de crédito requeridos para tales efectos;
 
-II.- Reestructurar los créditos adquiridos como deudor en operaciones de pasivos directos y contingentes, modificando tasas de interés, plazos y formas de pago;
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+
+II. Reestructurar los créditos adquiridos como deudor en operaciones de pasivos directos y contingentes;
 
 III.- Afectar en garantía de pago de las obligaciones contraídas por el Estado, directamente o como avalista, las participaciones que en ingresos le correspondan, previa autorización del Congreso del Estado;
 
-IV.- Emitir valores, bonos y otros títulos de crédito, a cargo del Estado, así como otorgar las garantías que se requieran.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+
+IV. Emitir valores, bonos y otros títulos de crédito, a cargo del Estado, así como otorgar las garantías que se requieran;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+V. Autorizar a las entidades paraestatales para gestionar y contratar financiamientos, ajustándose a las medidas legales y administrativas que correspondan;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+VI. Asesorar a los municipios en todo lo relativo a la obtención de recursos crediticios, concertación de empréstitos y otras operaciones financieras para sí o para sus entidades paramunicipales;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+VII. Vigilar que la capacidad de pago de los entes públicos respecto de las cuales el Estado esté obligado, en cualquier forma, de conformidad con cualquier financiamiento contratado por dichos entes públicos, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de deuda pública y la adecuada estructura financiera de los entes públicos obligados; y
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+
+VIII. Llevar el Registro en los términos de la presente Ley.
 
 ###### ARTICULO 11.
 
 Corresponde a los Ayuntamientos:
 
-I.- Elaborar los programas financieros municipales incluyendo todas las operaciones de deuda a que se refiere esta Ley, y las obligaciones derivadas de los avales otorgados a sus entidades paramunicipales;
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+
+I. Incluir en su proyecto de Ley de Ingresos correspondiente todas las operaciones de deuda pública a que se refiere esta Ley, y las obligaciones derivadas de los avales otorgados a sus entidades paramunicipales;
 
 II.- Celebrar contratos y convenios para la obtención de empréstitos, créditos y demás operaciones de deuda pública, suscribiendo los títulos de crédito u otros instrumentos requeridos para el efecto;
 
-III.- Reestructurar créditos ya adquiridos para modificar tasas de interés, plazos y formas de pago, y celebrar los convenios y contratos que de esas acciones se deriven;
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+
+III. Reestructurar créditos adquiridos y celebrar los convenios y contratos que de esas acciones se deriven;
 
 IV.- Proporcionar la información que les solicite el Ejecutivo del Estado, así como informar trimestralmente al Congreso del Estado sobre sus operaciones de Deuda Pública;
 
 V.- Autorizar la afectación de las participaciones que les correspondan, cuando sirvan de garantía en las obligaciones que contraigan, previa autorización del Congreso del Estado;
 
-Mecanismo de pago: A efecto de dar cumplimiento de dichos pagos como mecanismos del mismo podrá autorizar a la Secretaría de Finanzas a que pague por su cuenta a acreedores tomando la parte correspondiente de sus participaciones.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 8 DE JULIO DE 2004)</small>
 
 VI.- Prever en el presupuesto de egresos las partidas destinadas al pago de servicio de la deuda; y
 
@@ -177,57 +233,73 @@ VII.- Inscribir en el registro de deuda pública municipal sus operaciones credi
 
 Las atribuciones a que se refiere el artículo anterior serán ejercidas, en lo conducente, en el ámbito de su competencia, por el Presidente Municipal, Tesorero Municipal y demás funcionarios que dispongan las leyes y reglamentos aplicables.
 
-La Tesorería Municipal llevará el registro de deuda pública municipal.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
-### CAPITULO III. DE LOS PROGRAMAS FINANCIEROS Y DE LOS COMITES TECNICOS DE FINANCIAMIENTO
+La Tesorería Municipal llevará el registro de deuda pública municipal, sin perjuicio de lo dispuesto en el artículo 13 de esta Ley.
+
+> <small>(REFORMADO SU DENOMINACION, B.O. 8 DE JULIO DE 2004)</small>
+
+### CAPITULO III. DEL REGISTRO ESTATAL DE DEUDA PUBLICA
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 13.
 
-Los programas financieros del Estado y de los Municipios comprenderán los montos de endeudamiento neto necesario para el financiamiento del presupuesto estatal o municipal, según sea el caso, del ejercicio fiscal correspondiente; incluirán también las garantías que se pretendan otorgar en la contratación de empréstitos y créditos.
+Todas las obligaciones que en los términos de esta Ley celebren los entes públicos en materia de deuda pública, y en las que el Congreso autorice afectaciones conforme a la fracción IV del artículo 6º de esta Ley, deberán inscribirse en el Registro. Para este efecto, el ente público que corresponda deberá solicitar la inscripción y acompañar la siguiente documentación:
+
+I.- Original o copia certificada del contrato en el que conste la operación y sus garantías, en su caso;
+
+II.- Copia certificada del acta en la que conste el acuerdo del Ayuntamiento en caso de operaciones de deuda pública que contraigan los municipios o copia certificada del acta en la que conste el acuerdo del consejo directivo u órgano de gobierno, en caso de operaciones de deuda pública que contraigan entidades paraestatales y entidades paramunicipales; y
+
+III.- Declaración del ente público correspondiente de que la operación de que se trate cumple con los requisitos previstos en el artículo 19 de esta Ley, describiendo los elementos correspondientes.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 14.
 
-Se crea un Comité Técnico de Financiamiento que será un órgano auxiliar de consulta del Ejecutivo del Estado, en materia de deuda pública. Se integrará por un Presidente que será el Secretario de Planeación del Desarrollo y Gasto Público, un Secretario Técnico que será designado por el Gobernador del Estado y por dos vocales que serán el Secretario de Finanzas y el Secretario de la Contraloría.
+En el Registro se anotará la fecha de inscripción de cada operación y los elementos principales de la operación de que se trate, incluyendo el plazo, monto y tasas de interés y garantías, en su caso.
+
+La Secretaría permitirá el acceso libre a la consulta del Registro y expedirá a quienes acrediten su interés jurídico las certificaciones que soliciten respecto de las operaciones inscritas.
+
+Conforme a la fecha y hora de inscripción en el Registro, se dará preferencia a los acreedores con respecto a afectaciones como garantía o fuente de pago de participaciones derivadas de la coordinación fiscal u otro tipo de ingresos.
+
+A solicitud del Municipio o de la entidad paraestatal correspondiente, la Secretaria podrá asumir el compromiso de hacer pagos con cargo a las participaciones del Municipio o los ingresos de la entidad paraestatal afectados como garantía o fuente de pago, conforme a la disponibilidad de recursos, directamente a favor del acreedor.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 15.
 
-El Comité Técnico de Financiamiento tendrá las siguientes funciones:
+Los datos, características y circunstancias de las operaciones de endeudamiento asentados en el Registro solo podrán modificarse con los mismos requisitos y formalidades previstos para la inscripción de dichas operaciones.
 
-I.- Conocer y evaluar las necesidades y capacidad de endeudamiento del Gobierno del Estado y Municipios, en tanto afecte la deuda pública estatal;
-
-II.- Evaluar y opinar de los programas de endeudamiento que presenten los entes públicos, en tanto afecte la deuda pública estatal;
-
-III.- Evaluar y opinar respecto de los empréstitos o créditos que otorgue el Gobierno del Estado o de aquellos que requieran su garantía;
-
-IV.- Dar asesoría a los entes públicos, en materia de deuda pública; y
-
-V.- Recabar y mantener información actualizada sobre la solvencia económica y técnica de contratistas y entidades financieras.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 16.
 
-Los Ayuntamientos, en el ámbito de su competencia, integrarán comités técnicos de financiamiento, con las funciones señaladas en la disposición anterior.
-
-Los comités técnicos municipales de financiamiento, serán coordinados por el Presidente Municipal respectivo, quien tendrá la facultad de nombrar a los Vocales que correspondan.
+El ente público que haya cumplido con todas sus obligaciones derivadas de una operación inscrita en el Registro deberá solicitar la cancelación de dicha operación, previa comprobación de su cumplimiento.
 
 ### CAPITULO IV. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 17.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, concertará y formalizará los empréstitos, créditos y todas las operaciones financieras que constituyan la deuda pública del Estado, conforme al programa financiero estatal, el cual deberá contener:
-
-I.- Los montos de endeudamiento neto, que requiera el Gobierno del Estado para el ejercicio fiscal correspondiente;
-
-II.- Los montos de los pasivos contingentes que planeen ser contraídos por el Gobierno del Estado, al otorgar avales y otras garantías a los entes públicos, sujetos a la presente Ley; y
-
-III.- Todos los elementos de juicio y datos técnicos que justifiquen los extremos señalados por el párrafo segundo del artículo 117, fracción VIII, de la Constitución Federal.
+Los entes públicos sólo podrán obtener empréstitos cuando los mismos se destinen a inversiones públicas productivas, entendiéndose por éstas aquellas obras o acciones que de forma directa, indirecta o mediata generen recursos públicos, incluyendo las acciones para refinanciar o reestructurar pasivos a cargo de los entes públicos.
 
 ###### ARTICULO 18.
 
 La contratación de empréstitos y créditos, se sujetará a los montos de endeudamiento neto aprobados por el Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 19.
 
-El Estado y los Municipios, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución Federal, sólo podrán emitir bonos y otros títulos de deuda, pagaderos en moneda nacional y dentro del territorio de la República, previa autorización del Congreso del Estado. Tanto en el acta de emisión, como en los títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta a extranjeros sean estos gobiernos, entidades gubernamentales, sociedades particulares y organismos internacionales. Los documentos no tendrán validez si no se consignan dichos datos.
+Los entes públicos, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución General de la República, sólo podrán contraer directa o indirectamente obligaciones o empréstitos pagaderos en moneda nacional y dentro del territorio de la República. Los entes públicos no podrán contraer tales obligaciones o empréstitos con personas físicas o morales extranjeras o con gobiernos de otras naciones.
+
+Un ente público solo podrá contraer directa o indirectamente obligaciones o empréstitos cuando tenga estados de ingresos y egresos de los últimos tres ejercicios fiscales, dictaminados por un contador público independiente que cuente con capacidad técnica certificada por algún órgano colegiado de contadores públicos reconocido a nivel nacional y elaborados conforme a los principios de contabilidad aplicables, o bien, de conformidad con lo dispuesto por la legislación aplicable al ente público de que se trate, sin que el estado de ingresos y egresos correspondiente al ejercicio más reciente tenga una antigüedad superior a quince meses al momento de contraer la obligación o el empréstito, y siempre que dicho último estado de ingresos y egresos se haya publicado en un periódico de amplia circulación en el Estado.
+
+Los estados de ingresos y egresos dictaminados deberán contener una explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y señalar las diferencias relevantes entre esas bases o reglas y los principios de contabilidad generalmente aceptados aplicables a empresas que cotizan en bolsa de valores en México.
+
+En caso de entidades paraestatales y paramunicipales que estén constituidas como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aceptados.
 
 ###### ARTICULO 20.
 
@@ -235,27 +307,31 @@ Cuando los municipios y sus entidades paramunicipales, requieran la garantía de
 
 ###### ARTICULO 21.
 
-Los empréstitos o créditos que contraten los municipios y sus entidades paramunicipales, para el caso del artículo anterior, estarán incluidos en el programa financiero municipal.
+(DEROGADO, B.O. 8 DE JULIO DE 2004)
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 22.
 
-Cuando los entes públicos, requieran de la garantía del Estado, deberán formular solicitud acompañando la información que éste determine por conducto de la Secretaría de Planeación del Desarrollo y Gasto Público, presentando además, en la forma que la dependencia lo requiera, información que permita determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos del crédito.
+Cuando los municipios, entidades paraestatales o entidades paramunicipales requieran de la garantía del Estado, deberán formular la solicitud correspondiente, acompañando la información que determine la Secretaría, presentando además en la forma en que dicha dependencia lo requiera, información que permita determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos del crédito. El Estado solamente garantizará obligaciones a cargo de una entidad paramunicipal si el Municipio correspondiente las garantiza.
 
 ### CAPITULO V. DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 23.
 
-Los entes públicos, tendrán las siguientes obligaciones:
+Los entes públicos tendrán las siguientes obligaciones:
 
-I.- Llevar registros de los empréstitos y créditos que contraten;
+I. Llevar registros de los empréstitos y créditos que contraten y solicitar su inscripción en el Registro;
 
-II.- Comunicar trimestralmente, a la dependencia correspondiente, los datos de todos los empréstitos y créditos contratados, así como de los movimientos realizados; y
+II. Comunicar trimestralmente, al Registro y a la dependencia municipal que lleve el registro municipal, según sea el caso, los datos de todos los empréstitos y créditos contratados, así como de los movimientos realizados; y
 
-III.- Proporcionar a la Secretaría de Planeación del Desarrollo y Gasto Público toda la información necesaria para llevar a cabo la vigilancia a que se refiere la fracción VI l (sic) artículo 9o. de esta Ley.
+III. Proporcionar a la Secretaría toda la información necesaria para que ésta pueda llevar a cabo la vigilancia a que se refiere la fracción VII del artículo 10 de esta Ley.
 
 ###### ARTICULO 24.
 
-Las operaciones de endeudamiento autorizadas, así como su inscripción en los registros a que se refiere esta Ley, sólo podrán modificarse con los mismos requisitos y formalidades relativas a su autorización.
+(DEROGADO, B.O. 8 DE JULIO DE 2004)
 
 TRANSITORIOS:
 
@@ -276,3 +352,23 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 30 de Junio de 1995.- DIPUTADO PRESIDENTE.- C. AGAPITO PARRA MARES.- RUBRICA.- DIPUTADO SECRETARIO.- PROFR. JOSE RUBEN MORENO VALDEZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. MIGUEL ANGEL OCEJO MORALES.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, cinco de julio de mil novecientos noventa y cinco.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 8 DE JULIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del segundo párrafo del artículo 19 de la Ley de Deuda Pública del Estado, los entes públicos sólo estarán obligados a tener estados de ingresos y egresos dictaminados:
+
+I.- Para contraer directa o indirectamente obligaciones o empréstitos a partir de la entrada en vigor de este Decreto hasta el 31 de diciembre de 2004, los correspondientes a los ejercicios de 2002 y 2003.
+
+II.- Para contraer directa o indirectamente obligaciones o empréstitos durante el ejercicio de 2005, los correspondientes a los ejercicios de 2002 y 2003 o los de 2003 y 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
