@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1999-09-17"
+last_updated: "1999-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -165,6 +165,10 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+Los menores de edad tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulgen (sic) para tal efecto, deben atender al interés superior del menor.
+
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 1998)</small>
 
 El Estado garantizará de manera subsidiaria la protección nutricional de los menores, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
@@ -211,9 +215,15 @@ d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntami
 
 e).- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; así como al partido político de su preferencia o asociación de que se trate.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 9.
 
-Son obligaciones de los habitantes del Estado:
+Son obligaciones de los habitantes:
 
 I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
 
@@ -222,6 +232,10 @@ I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución
 II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
 
 III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+IV.- Sin son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral.
 
 ###### ARTICULO 10.
 
@@ -1559,11 +1573,11 @@ En el Estado las mujeres tienen los mismos derechos civiles y políticos que los
 
 Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
 
-I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
+I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad.
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigüedad y antecedentes en el servicio.
 
-III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
+III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente.
 
 IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
 
@@ -1627,7 +1641,7 @@ El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comis
 
 Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
 
-El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciereis, que la Nación y el Estado os lo demanden".
+El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
@@ -2236,3 +2250,9 @@ Córrase el trámite que señala el Artículo 12, de la Constitución Política 
 ###### ARTICULO TERCERO.
 
 Envíese al Ejecutivo del Estado para su publicación.
+
+P.O. 29 DE OCTUBRE DE 1999.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
