@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2000-10-05"
+last_updated: "2000-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -381,7 +381,9 @@ VIII. Vigilar y ordenar los trabajos de la Secretaría, cuidando de que los empl
 
 IX. Firmar las comunicaciones oficiales del Congreso;
 
-X. Autentificar las copias certificadas que se expidan de los documentos que obren en el archivo del Congreso; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2000)</small>
+
+X. Autentificar con su firma las copias expedidas por la Oficialía Mayor o la Contaduría Mayor de Hacienda del Congreso del Estado, cuando éstos así lo soliciten de los documentos que obren en el archivo; y
 
 XI. Las demás que esta Ley disponga.
 
@@ -414,6 +416,14 @@ Las sesiones de comisión deberán iniciar a más tardar 20 minutos después de 
 El Presidente de la Comisión informará a la de Control Legislativo de las ausencias de los diputados a las reuniones de trabajo siempre que falten sin causa justificada.
 
 El Presidente de la Mesa Directiva dará a conocer mensualmente al Pleno el trabajo de las comisiones, de acuerdo a los informes que reciba de la Comisión de Control Legislativo.
+
+(ADICIONADO, P.O. 31 DE OCTUBRE DE 2000).
+
+La notificación a reunión de trabajo de Comisión se hará extensiva a los diputados en los términos del primer párrafo de este artículo, que por escrito le hagan saber al presidente de la misma su interés por determinado asunto.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2000)</small>
+
+Los diputados que mantengan su interés en seguir participando en trabajos de Comisión deberán manifestarlo en los mismos términos del párrafo precedente.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -1173,8 +1183,6 @@ Las iniciativas a que se refiere el artículo 28 de la Constitución Política d
 
 Es iniciativa de Ley, aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a la generalidad de las personas.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
-
 ###### Artículo 87.
 
 Es iniciativa de Decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales.
@@ -1183,15 +1191,13 @@ Es iniciativa de Decreto aquella que tienda a una resolución que otorgue derech
 
 Es iniciativa de Acuerdo Económico, aquella que tienda a una resolución, que por su naturaleza, no requiera de la sanción, promulgación y publicación.
 
-###### Artículo 89.
-
-Las resoluciones del Congreso en materia electoral y las que se refieran a la apertura o clausura de períodos de sesiones, tendrán el carácter de Decreto.
-
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
 
 ###### Artículo 89.
 
 Las resoluciones del Congreso en materia electoral, tendrán el carácter de decreto.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 90.
 
@@ -1977,10 +1983,6 @@ Segundo. La reforma al Art. 24 de la Constitución Política del Estado de Jalis
 
 Tercero. Las reformas de los Arts. 182, 185, 186 y 188 de la Ley Reglamentaria del Poder Legislativo, entrarán en vigor el mismo día en que entre en vigor la reforma al Art. 24 de la Constitución Política del Estado.
 
-DECRETO QUE REFORMA ART. 90, P.O. 10 DE OCTUBRE DE 1989
-
-Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
 P.O. 10 DE OCTUBRE DE 1989
 
 DECRETO QUE REFORMA ART. 90.
@@ -2122,3 +2124,7 @@ UNICO.- Este decreto entrará en vigor el 28 de noviembre del año 2000 previa s
 P.O. 5 DE OCTUBRE DE 2000
 
 UNICO.- Este decreto entrará en vigor el día 22 de mayo del 2001 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 2000
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
