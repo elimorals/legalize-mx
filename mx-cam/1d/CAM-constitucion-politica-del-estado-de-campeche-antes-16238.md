@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1917-07-05"
+last_updated: "1919-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -541,7 +541,7 @@ VI. Nombrar a sus empleados y dependientes y aceptar sus renuncias;
 
 VII. Consultar al Congreso las dudas de ley que ocurran al mismo Tribunal y a los Jueces inferiores, calificando previamente en este caso si son fundadas;
 
-VIII. Proporcionar por medio de su Secretaría una noticia de las causas y juicios civiles, concluídos, y de los pendientes en el Tribunal al Ejecutivo del Estado, cuando éste lo solicite.
+VIII. Proporcionar por medio de su Secretaría una noticia de las causas y juicios civiles, concluidos, y de los pendientes en el Tribunal al Ejecutivo del Estado, cuando éste lo solicite.
 
 ###### Art. 81.
 
@@ -607,7 +607,9 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará d
 
 IV. Los Municipios serán investidos de personalidad jurídica, para todos los efectos legales;
 
-V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo un año y no podrá ser nuevamente electo, sino dos años después de haber cesado en sus funciones.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1919)</small>
+
+V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo dos años y no podrá ser nuevamente electo, sino dos períodos después de haber cesado en sus funciones.
 
 ### CAPITULO XI.
 
@@ -790,6 +792,16 @@ Dado en Campeche, en el Palacio del Poder Legislativo, a treinta de junio de mil
 Publíquese por Bando solemne en esta Capital el domingo ocho del mes en curso a las nueve de la mañana y a las veinte y cuatro horas de su recibo en las demás poblaciones del Estado.
 
 Palacio de Gobierno, en Campeche, a los tres días del mes de julio de mil novecientos diez y siete.- J. Mucel.- Carlos Zubieta H., Oficial Mayor interino.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 1919.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL DECRETO.</small>
+
+Art. segundo. Los componentes de los Ayuntamientos, los de las Juntas Municipales y los Comisarios Municipales durarán también dos años en sus respectivos encargos.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 ###### Art. 1º.
 
