@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2002-03-21"
+last_updated: "2003-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -861,9 +861,9 @@ d).- Que su defensor comparezca en todos los actos de desahogo de pruebas dentro
 
 e).- Que se le faciliten todos los datos que solicite para su defensa y que estén en la averiguación previa, para lo cual se permitirá a él y su defensor consultar en la oficina del Ministerio Público y en presencia del personal el acta de averiguación previa.
 
-> <small>(F. DE E., P.O. 27 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2003)</small>
 
-f).- Que se le reciban los testigos y las pruebas que ofrezca, las cuales se tomarán en cuenta para dictar la resolución que corresponda, concediendo el tiempo necesario para su desahogo, siempre que no se traduzca en dilación de la averiguación previa y las personas cuyos testimonios ofrezcan se encuentren presentes en la oficina del Ministerio Público. Cuando no sea posible el desahogo de pruebas ofrecidas por el inculpado y su defensor, el juzgador resolverá en su oportunidad, sobre la admisión y práctica de las mismas; y
+f).- Que se le reciban los testigos y demás pruebas que ofrezca, las cuales se tomarán en cuenta para dictar la resolución que corresponda, concediéndosele el tiempo necesario para su desahogo, siempre que no se traduzca en dilación de la averiguación previa y auxiliándosele para obtener la complarecencia de las personas cuyos testimonios solicite, siempre que se encuentren en el lugar del proceso. Cuando no sea posible el desahogo de pruebas ofrecidas por el inculpado o su defensor, el juzgador resolverá en su oportunidad, sobre la admisión y práctica de las mismas; y
 
 g).- Que se le conceda inmediatamente que lo solicite su libertad provisional bajo caución, conforme a lo dispuesto por la Fracción I del Artículo 20 de la Constitución Federal, en los términos del Artículo 395 de este Código.
 
@@ -2893,7 +2893,7 @@ Si la admisión del recurso de apelación se declara procedente, la resolución 
 
 ###### ARTICULO 394.
 
-Son irrevocables y por lo tanto causan ejecutoria.
+Son irrevocables y por lo tanto causan ejecutoria:
 
 I.- Las sentencias pronunciadas en Primera Instancia, cuando se hayan consentido expresamente o cuando expirado el plazo que la Ley fija para interponer algún recurso, no se hayan interpuesto;
 
@@ -4346,3 +4346,9 @@ Todos los procesos que se estén instruyendo a la entrada en vigor de este Decre
 P.O. 21 DE MARZO DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
