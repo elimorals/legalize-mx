@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "2004-06-17"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -63,9 +63,9 @@ II.- Que el delito por el que haya sido condenado no se encuentre exceptuado en 
 
 III.- Haber sido consignadas al Juez de la causa las diligencias de averiguación previa correspondiente al delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre del 2004, y
+IV.- Haber sido condenado por ese mismo delito, por una sentencia irrevocable, dictada antes del día 14 de septiembre de 2010.
 
 V.- No encontrarse substraído a la acción de la justicia.
 
@@ -93,11 +93,13 @@ B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a le
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+> <small>N. DE E. CON RELACION A LA VIGENCIA DEL PRESENTE ARTICULO, CONSULTAR EL ARTICULO PRIMERO Y TERCERO DEL DECRETO No. 48 P.O. 23 DE DICIEMBRE DE 2004.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO CUARTO.
 
-Se exceptúan de los beneficios de la presente Ley, a los condenados mediante sentencia irrevocable por la comisión de alguno o algunos de los siguientes: delitos en el ámbito de la procuración de justicia, tortura, delitos cometidos en el ámbito de la administración de justicia, falsificación de títulos al portador y documentos de crédito público, asociación delictuosa; delincuencia organizada, corrupción de menores e incapaces, pornografía infantil; desaparición forzada de personas; retención y sustracción de menores o incapaces, y con fines de corrupción o tráfico de órganos; violación; lenocinio; incesto; asalto; homicidio calificado; parricidio; robo en lugar cerrado; robo que se efectúe aprovechando las circunstancias de incendio; confusión, desastre; explosión o inundación; abigeato; daños causados por incendio; inundación o explosión; terrorismo; sabotaje; conspiración; secuestro y a quienes tengan decretada reincidencia, se haya detectado tendencia habitual o cuenten con algún antecedente penal por delitos del fuero común o del fuero federal, así como quienes hayan participado en intentos de fuga o se hayan fugado en cualquier momento desde su sujeción a proceso; quienes hayan participado en riñas colectivas o intentos de motín durante su fase de internamiento.
+Se exceptúan de los beneficios de la presente Ley, a los condenados mediante sentencia irrevocable por la comisión de alguno o algunos de los siguientes: DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA, TORTURA, DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA, FALSIFICACIÓN DE TÍTULOS AL PORTADOR, DOCUMENTOS DE CRÉDITO PÚBLICO, ASOCIACIÓN DELICTUOSA; DELINCUENCIA ORGANIZADA, CORRUPCION DE MENORES E INCAPACES, PORNOGRAFÍA INFANTIL, DESAPARICIÓN FORZADA DE PERSONAS; RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES, Y CON FINES DE CORRUPCIÓN O TRÁFICO DE ÓRGANOS; VIOLACIÓN, LENOCINIO; INCESTO; ASALTO; HOMICIDIO CALIFICADO; PARRICIDIO; ROBO EN SUS ARTÍCULOS 409, 411 FRACCIONES IV Y V, 414, 415 Y 412 CON LAS EXCEPCIONES CONTEMPLADAS EN EL ARTÍCULO 413; ABIGEATO; DAÑOS CAUSADOS POR INCENDIO; INUNDACION O EXPLOSION; TERRORISMO; SABOTAJE; CONSPIRACION; SECUESTRO y a quienes tengan decretada REINCIDENCIA, SE HAYA DETECTADO TENDENCIA HABITUAL O CUENTEN CON ALGUN ANTECEDENTE PENAL POR DELITOS DEL FUERO COMUN O DEL FUERO FEDERAL, así como QUIENES HAYAN PARTICIPADO EN INTENTOS DE FUGA O SE HAYAN FUGADO EN CUALQUIER MOMENTO DESDE SU SUJECION A PROCESO; QUIENES HAYAN PARTICIPADO EN RIÑAS COLECTIVAS O INTENTOS DE MOTIN DURANTE SU FASE DE INTERNAMIENTO.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
 
@@ -222,3 +224,31 @@ PRIMERO.- El presente decreto entrará en vigor, a partir del día 28 de junio d
 SEGUNDO.- Se deja en suspenso la vigencia del Artículo Cuarto, única y exclusivamente en lo relativo al delito de robo calificado.
 
 TERCERO.- Los sentenciados a disposición del Ejecutivo Estatal, o quienes se encuentren bajo procedimiento de conformidad con el Código Penal para el Estado de Durango, aprobado bajo Decreto No. 263 de fecha 3 de julio de 1991 y publicado en el Periódico Oficial del Gobierno del Estado No. 15 de fecha 22 de agosto de 1991, se sujetarán para los efectos de las sanciones privativas y restrictivas de libertad y pecuniarias que se apliquen, a lo que establecían las disposiciones correspondientes antes de la presente reforma.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+DECRETO NO. 47.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Prevalece la suspensión de la vigencia del artículo 4 de la Ley de Indulto y Reducción de Penas para el Estado de Durango, para aquellas personas que cometieron el delito de Robo Calificado antes de la entrada en vigor del Código Penal para el Estado de Durango, que se encuentran procesadas, o bien, no ha sido ejecutoriada la sentencia respectiva.
+
+TERCERO.- Se deja en suspenso la vigencia del artículo 4 de la Ley de Indulto y Reducción de Penas para el Estado de Durango, hasta el día 14 de septiembre del año 2010, única y exclusivamente en lo relativo al delito de Robo previsto en los artículos 409, 411 fracciones IV y V, 414, 415 y 412, con las excepciones contempladas en el artículo 413 del Código Penal para el Estado de Durango, para aquellas personas que cometieron este delito con posterioridad a la entrada en vigor del Código en mención.
+
+CUARTO.- Una vez que se cumpla el término previsto en el artículo anterior, el artículo 4 de la Ley de Indulto y Reducción de Penas para el Estado de Durango, recobrará su pleno vigor en forma automática, sin que para ello se requiera resolución alguna del Honorable congreso del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY, DADA SU IMPORTANCIA.
+
+DECRETO NO. 48.
+
+###### ARTICULO PRIMERO.
+
+Prevalece la suspensión de la vigencia del articulo 4 de la Ley de Indulto y Reducción de Penas para el Estado de Durango, para aquellas personas que cometieron el delito de robo calificado antes de la entrada en vigor del Código Penal para el Estado de Durango, que se encuentran procesadas o bien no ha causado ejecutoria la sentencia respectiva.
+
+###### ARTICULO TERCERO.
+
+Se deja en suspenso la vigencia del Artículo 4 de la Ley de Indulto y Reducción de Penas del Estado de Durango, contenida en el Decreto 274 de fecha 07 de Octubre de 2003, publicado en el Periódico Oficial del Estado correspondiente al No. 32 de fecha 19 de octubre de 2003, única y exclusivamente en lo que respecta al Delito de Robo a favor de internos que hayan sido condenados con fecha anterior al día 14 de Septiembre de 2010 y que en el momento de solicitar algún beneficio de los señalados en la citada Ley se encuentren compurgando sanción privativa de la libertad en los Centros de Readaptación Social del Estado.
+
+UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
