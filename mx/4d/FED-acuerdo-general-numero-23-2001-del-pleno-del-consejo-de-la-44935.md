@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-11-09"
+last_updated: "2001-11-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -269,7 +269,9 @@ XVII.- DECIMOSEPTIMO CIRCUITO:
 
 1.- Cuatro tribunales colegiados: tres con residencia en Chihuahua y uno con sede en Juárez.
 
-2.- Tres tribunales unitarios con sede en Chihuahua.
+> <small>(REFORMADO POR EL PUNTO SEXTO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
+
+2.- Cuatro tribunales unitarios: tres con residencia en Chihuahua y uno con sede en Juárez.
 
 3.- Siete juzgados de distrito en el Estado de Chihuahua: tres con residencia en la ciudad del mismo nombre y cuatro con sede en Juárez.
 
@@ -411,11 +413,11 @@ XVI.- DECIMOSEXTO CIRCUITO: Respecto de los tribunales colegiados con residencia
 
 En cuanto al tribunal colegiado con residencia en León, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo, que se originen en los juzgados de distrito en el Estado de Guanajuato, con residencia en León.
 
-> <small>(REFORMADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 65/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
 
-XVII.- DECIMOSEPTIMO CIRCUITO: Respecto de los tribunales colegiados con sede en Chihuahua, será igual a la establecida para los juzgados de distrito en la referida ciudad.
+XVII.- DECIMOSEPTIMO CIRCUITO: En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
 
-En cuanto al tribunal colegiado con residencia en Juárez, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en esa sede.
+Por lo que hace al tribunal unitario con residencia en Juárez, será la misma que la establecida para los juzgados de distrito en el Estado de Chihuahua, con sede en la citada ciudad.
 
 XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
@@ -802,3 +804,9 @@ D.O.F. 9 DE NOVIEMBRE DE 2001.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
