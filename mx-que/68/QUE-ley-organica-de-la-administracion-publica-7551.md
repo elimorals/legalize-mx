@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "1991-12-26"
+last_updated: "1992-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -93,7 +93,7 @@ El Gobernador del Estado designará las Dependencias de la Administración Públ
 
 ###### ARTICULO 7.
 
-Los Reglamentos, Decretos y Acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales ir refrendados por el Secretario de Gobierno y por el titular de la dependencia a la cual el asunto corresponda.
+Los Reglamentos, Decretos y Acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir refrendados por el Secretario de Gobierno y por el titular de la dependencia a la cual el asunto corresponda.
 
 ###### ARTICULO 8.
 
@@ -175,7 +175,11 @@ VII. Secretaría de Educación;
 
 VIII. Secretaría del Trabajo;
 
-IX.- Oficialìa Mayor y
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 1992)</small>
+
+IX. Secretaría de Turismo;
+
+X. Oficialía Mayor; y
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado, La Ley Orgánica del Ministerio Público y demás Leyes le confieren. Este servidor público será el Consejero Jurídico del Gobierno.
 
@@ -309,7 +313,7 @@ XXIV. Dictar las medidas administrativas sobre responsabilidades que afecten la 
 
 XXV. Controlar y vigilar financiera y administrativamente, la operación de los Organismos Auxiliares que no estén expresamente encomendados a otra Dependencia;
 
-XXVI. Llevar el registro y control de la contabilidad, de aquellos contratos y convenios financieros que realice el Estado;
+XXVI. Llevar el registro y control de la contabilidad de aquellos contratos y convenios financieros que realice el Estado;
 
 XXVII. Intervenir, cuando sea el caso, y por delegación directa del Ejecutivo, en la celebración de Convenios Fiscales con la Federación y los Municipios de la Entidad;
 
@@ -403,7 +407,7 @@ VIII.- Formular y operar en coordinación con la comisión Estatal de Aguas y de
 
 IX. Supervisar los proyectos o trabajos de conservación de las obras públicas del Estado;
 
-X.- Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente; y
+X.- Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, y
 
 XI. Y (sic) las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -529,6 +533,126 @@ XIV. Brindar la asesoría legal necesaria para la conformación de cooperativas 
 
 XV. Los demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1992)</small>
+
+ARTICULO 28 BIS.- La Secretaría de Turismo es el órgano encargado de formular y conducir la política de desarrollo de la actividad turística estatal y le corresponde el despacho de los siguientes asuntos:
+
+I. Organizar, operar, observar y evaluar el ejercicio de las funciones que en materia de turismo el Gobierno Federal descentraliza en el Gobierno del Estado en los términos de sus atribuciones;
+
+II. Formular y desarrollar programas locales de turismo, de conformidad con los Planes Nacional y Estatal de Desarrollo;
+
+III. Vigilar, en la esfera de su competencia, el cumplimiento de la Ley Federal de Turismo, la legislación local de la materia y demás disposiciones legales aplicables;
+
+IV. Elaborar información estadística a nivel estatal y proporcionarla a las autoridades federales competentes cuando así se lo soliciten.
+
+V. Fomentar el cuidado y conservación de zonas arqueológicas, monumentos artísticos e históricos u objetos de interés cultural e intervenir en la administración y conservación de áreas recreativas, de descanso, parques, bosques, lagos, lagunas y otros atractivos típicos o naturales;
+
+VI. Promover y gestionar ante las autoridades federales, estatales y municipales la dotación de infraestructura básica y servicios urbanos; el desarrollo de infraestructura de acceso y la habilitación de los servicios colaterales o de superestructura en cada destino turístico, estimulando la participación de los sectores social y privado;
+
+VII. Impulsar la ampliación y el mejoramiento de la planta turística, promoviendo la creación de balnearios, instalaciones para pesca deportiva y otros similares;
+
+VIII. Opinar, ante las instancias competentes de la Secretaría de Turismo Federal, sobre posibles inversiones extranjeras en el Estado para proyectos de desarrollo turístico o la ampliación de los servicios existentes;
+
+IX. Gestionar e impulsar los servicios de transportación exclusiva para el turismo que requieran los destinos en operación y las zonas prioritarias en desarrollo;
+
+X. Gestionar ante las diferentes instancias, la oportuna y eficaz atención al turista de servicios colaterales de transportación, seguridad pública, sanidad, salud, procuración de justicia, entre otros;
+
+XI. Integrar, analizar, evaluar y difundir la información turística de la entidad;
+
+XII. Diseñar, instrumentar y coordinar el manejo de un sistema de información relevante y actual de los diferentes servicios que se ofrecen, para que exista congruencia entre lo que se anuncia y lo que realmente se presta;
+
+XIII. Promover y apoyar la organización y coordinación de los prestadores de servicios de distintos giros para integrar asociaciones, comités o patronatos de carácter público, privado, social y mixto, orientados al fomento material y cualitativo del turismo;
+
+XIV. Diseñar, instrumentar y coordinar el manejo de un sistema de autoevaluación de los servicios, ligado el otorgamiento de estímulos de diverso tipo a las empresas y personas físicas que destaquen en el mejoramiento continuo de la calidad turística;
+
+XV. Participar en la elaboración de programas educativos y de capacitación previa determinación de necesidades en la entidad;
+
+XVI. Promover el establecimiento de escuelas y centros de capacitación para la formación de profesionales y técnicos en turismo, en coordinación con las áreas especializadas de la Secretaría de Turismo Federal.
+
+XVII. Efectuar el registro preliminar de escuela y centros de educación y capacitación, y opinar sobre la validez de los estudios que imparten;
+
+XVIII. Coordinar la capacitación de servidores públicos estatales y municipales dedicados a tareas vinculados con el turismo;
+
+XIX. Intervenir en programas de capacitación para guías de turistas y sancionar la evaluación que se practique de los aspirantes;
+
+XX. Participar coordinadamente en los diferentes esfuerzos de capacitación turística que realicen las autoridades federales competentes, el gobierno estatal, los ayuntamientos y los sectores social y privado;
+
+XXI. Otorgar asesoría y asistencia técnica a los prestadores de servicios turísticos de distintos giros, para la capacitación continua de sus empleados y operarios, con orientación especial a la atención personalizada del cliente;
+
+XXII. Proporcionar información y orientación a los turistas, cubriendo los centros de mayor afluencia, las carreteras y las terminales de transporte aéreo, terrestre y marítimo, según se requiera, así como instalar módulos de información;
+
+XXIII. Captar, integrar, sistematizar, difundir y controlar la información impresa y de otros tipos que se utiliza para orientar a los visitantes;
+
+XXIV. Intervenir en el establecimiento y operación de un sistema de reservaciones turísticas;
+
+XXV. Organizar, instrumentar y verificar el cumplimiento de las medidas de asistencia y protección a quienes visiten la entidad, en coordinación con las unidades especializadas de la Secretaría de Turismo Federal;
+
+XXVI. Establecer y operar un sistema de atención de quejas y desahogo de procesos conciliatorios, en los términos de la Ley Federal de Turismo, la legislación local de la materia y demás normatividad aplicable;
+
+XXVII. Intervenir en las controversias entre turistas y prestadores de servicios; y llevar a cabo audiencias de conciliación para resolver los conflictos de intereses, canalizando hacia las autoridades competentes los asuntos que impliquen violaciones a la Ley y sus reglamentos;
+
+XXVIII. Apoyar administrativamente los servicios de emergencia mecánica y de primeros auxilios en carreteras que se prestan al turista:
+
+XXIX. Otorgar el respaldo logístico necesario en el ámbito del Estado a la conducción de caravanas de vehículos automotores conducidos por turistas;
+
+XXX. Participar en acciones coordinadas para auxiliar a los turistas en casos de emergencia o desastre;
+
+XXXI. Acoplar, organizar e integrar la información sobre los servicios turísticos que se ofrecen en la entidad, con todas sus características relevantes, para conformar y mantener actualizado el correspondiente directorio estatal;
+
+XXXII. Coordinar el diseño, la preparación y la divulgación de información publicitaria, sobre el turismo estatal, y respaldar las tareas específicas que en este aspecto lleven a cabo los sectores social y privado;
+
+XXXIII. Participar coordinadamente con la Secretaría de Turismo Federal en la promoción de viajes de grupos vacacionales hacia el Estado, a través de instituciones, empresas, sindicatos y otras organizaciones sociales proyectando su afluencia continua hacia los centros turísticos del Estado;
+
+XXXIV. Concertar con los prestadores de servicios turísticos, la integración de una oferta consolidada y continua para grupos organizados de vacacionistas nacionales, con garantía de condiciones especiales de tiempo, calidad y precios;
+
+XXXV. Promover y respaldar la institucionalización del turismo interno vacacional en empresas, sindicatos y otras organizaciones sociales;
+
+XXXVI. Proporcionar la información y asistencia técnica que requieren tanto los grupos organizados de vacacionistas, como los prestadores de servicios involucrados;
+
+XXXVII. Participar en las diversas acciones que se diseñen para alentar las corrientes de visitantes nacionales o extranjeros hacia los centros turísticos locales;
+
+XXXVIII. Difundir por distintos medios los atractivos naturales, históricos, culturales y folklóricos de la entidad;
+
+XXXIX. Participar en el diseño, elaboración y distribución de material informativo sobre los atractivos turísticos del Estado, así como en la ejecución de campañas publicitarias para incrementar las corrientes de viajeros hacia los atractivos locales;
+
+XL. Organizar, coordinar y llevar a cabo espectáculos, congresos, ferias, exposiciones, audiciones, representaciones y excursiones, así como otras actividades culturales, deportivas, folklóricas o tradicionales orientadas a promover el turismo hacia el Estado;
+
+XLI. Apoyar la integración de distintos tipos de organizaciones públicas, privadas, sociales o mixtas que promuevan al turismo estatal;
+
+XLII. Promover y estimular, en coordinación con las autoridades competentes, la creación de empresas y desarrollos turísticos ejidales o comunales;
+
+XLIII. Participar en la realización de estudios previos en las zonas en que se vayan a crear desarrollos turísticos, a fin de que se preserve y proteja el ambiente ecológico;
+
+XLIV. Intervenir en la administración del fondo mixto estatal de promoción en los términos que para el efecto se pacten con los distintos participantes;
+
+XLV. Prever y diseñar los elementos necesarios para la integración y el mantenimiento de la información registrar del turismo estatal, para fines de regulación y de programación;
+
+XLVI. Inscribir a los prestadores de servicio en el registro estatal de turismo y otorgar provisionalmente la cédula turística o la credencial, según sea el caso. Con la vigencia que específicamente se acuerde con la Secretaría de Turismo Federal;
+
+XLVII. Formular opinión fundada ante la Secretaría de Turismo Federal sobre los casos que presumiblemente ameriten la cancelación de la cédula o de la credencial, con base en las actuaciones de verificación;
+
+XLVIII. Turnar sistemáticamente la información dinámica del registro estatal de turismo a la instancia competente de la Secretaría de Turismo Federal, para efectos de mantener integro y actualizado el Registro Nacional de Turismo;
+
+XLIX. Registrar los reglamentos internos de establecimientos de hospedaje, así como las especificaciones y características de los paquetes manejados por agencias de viajes;
+
+L. Autorizar los reglamentos interiores de los establecimientos turísticos;
+
+LI. Regular y controlar la prestación de los servicios turísticos, vigilando que los establecimientos cuenten con cédula turística y demás requisitos de Ley;
+
+LII. Verificar que los servicios se presten conforme a su clasificación, categoría y de acuerdos con los términos contratados;
+
+LIII. Corroborar que los establecimientos turísticos apliquen los precios y las tarifas autorizados, actuando en coordinación con las autoridades, estatales y municipales competentes;
+
+LIV. Practicar visitas de verificación ordinarias o especiales, de acuerdo con las normas legales vigentes, levantando en cada caso el acta correspondiente debidamente requisitada;
+
+LV. Verificar el cumplimiento de obligaciones señaladas en las pólizas de seguros, en relación con accidentes, daños y perjuicios que sufran los turistas;
+
+LVI. Aplicar multas y clausuras temporales conforme a las causales y el procedimiento previsto en la Ley Federal de Turismo;
+
+LVII. Atender los recursos de revisión que se interpongan contra resoluciones referentes a sanciones dictaminadas localmente, con apego al procedimiento previsto en la Ley Federal de Turismo, la legislación local de la materia y demás normatividad aplicable, y,
+
+LVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
 ###### ARTICULO 29.
 
 La Oficialía Mayor es el órgano de prestar el apoyo administrativo que requieran las Dependencias del Poder Ejecutivo del Estado y le corresponde el despacho de los siguientes asuntos:
@@ -631,7 +755,7 @@ TERCERO.- Cuando al tenor de esta Ley, alguna unidad administrativa se transfier
 
 CUARTO.- Los asuntos que con motivo de esta Ley deban pasar el conocimiento de una a otra Dependencia del Ejecutivo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
-QUINTO.- Cuando en esta Ley se otorgue nueva o distinta denominación a cualquier Dependencia cuyas funciones hayan estado establecidas en la Ley anterior, o por otras de la especialidad, dichas atribuciones se entendrán concedidas a la Dependencia que determina la presente normatividad, lo mismo sucederá cuando se otorguen atribuciones o facultades a una Dependencia diversa de la que las venía ejerciendo.
+QUINTO.- Cuando en esta Ley se otorgue nueva o distinta denominación a cualquier Dependencia cuyas funciones hayan estado establecidas en la Ley anterior, o por otras de la especialidad, dichas atribuciones se entenderán concedidas a la Dependencia que determina la presente normatividad, lo mismo sucederá cuando se otorguen atribuciones o facultades a una Dependencia diversa de la que las venía ejerciendo.
 
 LO TENDRA ENTENDIDO EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA QUE SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -652,3 +776,27 @@ C. LIC. JUAN VARGAS OCAMPO
 DIPUTADO SECRETARIO
 
 C. LIC. JACARANDA LOPEZ SALAS.
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 16 DE JULIO DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
+
+###### ARTICULO TERCERO.
+
+Todos los recursos humanos, financieros y materiales de la Coordinación de Turismo en el Estado, pasarán a la Secretaría de Turismo del Estado.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento Interior de la Secretaria de Turismo del Estado.
+
+###### ARTICULO QUINTO.
+
+Todos los ordenamientos jurídicos que hagan referencia a la Coordinación de Turismo en el Estado o a la Dirección de Turismo en el Estado, se entenderán referidos a la Secretaría de Turismo del Estado.
