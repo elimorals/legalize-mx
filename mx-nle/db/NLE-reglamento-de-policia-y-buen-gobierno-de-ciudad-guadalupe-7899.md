@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2001-03-16"
+last_updated: "2002-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -659,6 +659,8 @@ DE LA COMISIÓN DE HONOR Y JUSTICIA.
 
 DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
+> <small>[N. DE E. ANTES ARTICULO 48]</small>
+
 ###### ARTICULO 42.
 
 Se crea la comisión de honor y justicia a que se refiere él artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, como un órgano de carácter administrativo dependiente del Presidente Municipal, dotado de facultades para conocer y resolver las quejas o denuncias que se presenten en contra de los oficiales de policía y tránsito, así como del procedimiento para su resolución y las sanciones que en su caso, podrán aplicarse.
@@ -751,27 +753,29 @@ III.- Señalar los hechos o actos que considere gravosos en su persona, familia,
 
 IV.- Presentar las pruebas que estime necesarias.
 
-No serán recibidas las quejas o denuncias anónimas.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+Una vez presentada la queja o denuncia ante la Coordinación de Asuntos Internos, ésta deberá citar al quejoso a fin de que dentro del término de 5 días contados a partir de que se le cite, acuda a ratificar la misma, en el entendido de que de no ser así, se tendrá por no presentada la queja o denuncia correspondiente, sin perjuicio de que la Comisión de Honor y Justicia inicie el procedimiento de oficio cuando la gravedad del caso lo amerite.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 53.
 
-Una vez recibida la queja en la Coordinación de Asuntos Internos, contarán con 48 horas para reunir al denunciante y al elemento denunciado para buscar una conciliación en los casos que se amerite.
+Una vez recibida y ratificada la queja en la Coordinación de Asuntos Internos, contarán con 5 días hábiles para reunir al denunciante y al elemento denunciado para buscar una conciliación en los casos que se amerite, en el entendido de que si por causas administrativas o de trabajo, el elemento denunciado no se encuentra disponible, quedará a criterio de la Coordinación la ampliación del término señalado.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+Una vez reunidos el denunciante y denunciado, se le hará saber al presunto responsable, el contenido de la queja, dándole oportunidad de réplica y haciéndole saber que cuenta con el término de 5 días hábiles para presentar las pruebas de su intención, término que podrá prorrogarse a criterio de la Coordinación de Asuntos Internos.
+
+(REFORMADO, P.O. 10 DE MAYO DE 2002) (F. DE E., P.O. 19 DE AGOSTO DE 2002)
 
 ###### ARTICULO 54.
 
-Realizado (sic) los trámites que señala el artículo anterior, la Comisión de honor y Justicia, en un término de cinco días resolverá de plano la queja o denuncia observando los lineamientos establecidos en el articulo 56 del presente reglamento.
+Una vez agotado el procedimiento anterior y no existiendo más pruebas por desahogar, se turnará el expediente completo a la Comisión de Honor y Justicia, la cual tendrá un término de 15 días hábiles para resolver de plano la queja o denuncia observando los lineamientos establecidos en el artículo 56 del presente reglamento.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 55.
 
-Las sanciones serán impuestas mediante resolución formal de la comisión por infracciones al presente reglamento y demás disposiciones aplicables.
-
-La aplicación de sanciones que en su caso realice la comisión, será sin perjuicio de las que correspondan aplicar por responsabilidad administrativa o penal.
+La substanciación del procedimiento de responsabilidad administrativa y la aplicación de sanciones a los miembros de la Secretaría de Seguridad Pública y Tránsito, serán impuestas mediante resolución formal de la Comisión, observando para ello las disposiciones contenidas en la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
 
@@ -827,11 +831,17 @@ La amonestación es el acto por el cual se advierte al integrante sobre la acci�
 
 La remoción es el cambio de área de asignación.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 60.
 
-La suspensión es la intervención de la relación jurídica existente entre el elemento y la Institución, misma que no excederá de 15-quince días naturales.
+La suspensión es la interrupción temporal de la relación jurídica existente entre el elemento y la Institución, la cual podrá decretarse de la siguiente manera:
+
+a) Precautoriamente por el titular de la dependencia a la que pertenezca durante el tiempo que dure el procedimiento de responsabilidad entablado, misma que podrá revocarse o confirmarse por la Comisión de Honor y Justicia, y
+
+b) Mediante resolución que en forma definitiva emita a un procedimiento la Comisión de Honor y Justicia, la cual podrá ser hasta por el término de 3 meses, contados al día siguiente de que se le notifique al elemento la resolución correspondiente y de haber existido suspensión precautoria, ésta se descontará del término de suspensión emitida por la Comisión.
+
+En el presente caso, el elemento de policía o tránsito que no haya resultado responsable de las faltas que se le imputan será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió percibir durante el tiempo de la suspensión.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
 
@@ -898,3 +908,13 @@ SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos
 TERCERO: Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
 
 CUARTO: Cúmplase.
+
+P.O. 10 DE MAYO DE 2002.
+
+PRIMERO.- Las Modificaciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO.- Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno del Estado, de quien depende, para que se imprima, publique, circule y se le dé el debido cumplimiento.
+
+CUARTO.- Cúmplase.
