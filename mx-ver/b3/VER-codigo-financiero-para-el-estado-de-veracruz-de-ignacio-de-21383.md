@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2003-03-18"
+last_updated: "2003-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -69,9 +69,9 @@ VI. El manejo de la deuda pública estatal.
 
 Para los efectos de este Código se entenderá por:
 
-I. Gobierno del Estado: El Gobierno del Estado de Veracruz-Llave.
+I. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-II. Congreso: El Congreso del Estado de Veracruz - Llave.
+II. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave.
 
 III. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz -Llave.
 
@@ -1307,7 +1307,15 @@ La recaudación total, proveniente del impuesto a que se refiere este capítulo,
 
 Al efecto, el Gobierno del Estado constituirá un fideicomiso público, al que destinará el 100% de la recaudación que se obtenga por este impuesto. El Comité Técnico del fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la Entidad, de los cuales el Poder Ejecutivo y el sector privado tendrán igual número de representantes, ajustándose en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado, y estará facultado para conocer y, en su caso aprobar y controlar los proyectos de obra pública que se sometan a su consideración, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE JULIO DE 2003)</small>
+
+En casos excepcionales, el Ejecutivo del Estado, previa aprobación del Congreso, podrá afectar un porcentaje de la recaudación que se obtenga del Impuesto sobre Nóminas al pago de obligaciones contraídas de conformidad con el Título Quinto del Libro Quinto del presente Código, para financiar el gasto público en el rubro de obra pública, obligaciones que incluirán, en su caso, todos los gastos directos o indirectos relacionados con los financiamientos respectivos, durante la vigencia de los mismos y siempre y cuando los recursos derivados de dichos financiamientos, menos, en su caso, las cantidades necesarias para cubrir los gastos de estructuración y ejecución de los financiamientos, así como las reservas correspondientes, se aporten invariablemente al fideicomiso público a que se refiere este artículo y se destinen íntegramente a financiar el gasto público en el rubro de obra pública.
+
+(ADICIONADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+
+El Congreso podrá autorizar la afectación de un porcentaje de la recaudación del Impuesto sobre Nóminas al pago de obligaciones contraídas en términos de lo dispuesto por el párrafo anterior, cuando el plazo de su vigencia no rebase el período de ejercicio sexenal constitucional del Titular del Ejecutivo Estatal que haya solicitado la autorización para implementar este mecanismo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 24 DE JULIO DE 2003)</small>
 
 El Ejecutivo del Estado, al presentar la Cuenta Pública, exhibirá el informe pormenorizado que deberá rendir el Comité Técnico del Fideicomiso, sobre las metas fiscales y financieras que se alcanzaron en el año respecto de la aplicación de los recursos provenientes de este impuesto.
 
@@ -1389,7 +1397,7 @@ VI. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la c
 
 ###### Artículo 116.
 
-La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de hospedaje en los términos que señale el Código de Procedimientos Administrativos para el Estado de Veracruz-Llave.
+La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de hospedaje en los términos que señale el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 117.
 
@@ -1970,6 +1978,14 @@ n) La inscripción de contratos relativos a la constitución de créditos agríc
 o) La inscripción de contratos relativos a la constitución de créditos con garantía hipotecaria para la micro y pequeña empresa que otorguen las instituciones bancarias y los fideicomisos estatales.
 
 p) Los casos que señalen de manera específica las demás leyes.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+
+La aplicación de las excepciones en el pago de los derechos del Registro Público de la Propiedad a que se refieren los incisos c), d), g), i), j), k), l), m), n) y o) de esta fracción, no requerirán la emisión del dictamen confirmatorio de la Secretaría que se señala en el artículo 32 de este Código.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+
+La Dirección General de Registro Público de la Propiedad y del Comercio deberá informar mensualmente a la Secretaría, sobre el número y principales características de todas las operaciones registrales que hayan actualizado alguna de las excepciones de pago referidas en el párrafo precedente.
 
 XX. Las Oficinas del Registro Público de la Propiedad del Estado, inscribirán los embargos de bienes que realicen autoridades fiscales de la Federación, el Estado y los municipios, para lo cual quedará en suspenso el pago de los derechos que se generen por estos actos. Dichas autoridades cubrirán el monto de los derechos conforme al salario mínimo vigente al momento de que soliciten la cancelación de la inscripción. Este pago no se realizará cuando se adjudiquen los bienes a favor de los Gobiernos federal, estatal o municipal. Para el trámite a que se refiere esta fracción no se requerirá resolución especial.
 
@@ -3317,6 +3333,10 @@ XII. Aprovechamientos diversos.
 
 ## TÍTULO PRIMERO. DEL PRESUPUESTO
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+
 ### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
 ###### Artículo 154.
@@ -3451,45 +3471,33 @@ Se exceptúan de las disposiciones del párrafo anterior, el ejercicio, la conta
 
 El Gobernador del Estado podrá autorizar la participación estatal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
 
 ###### Artículo 175.
 
 Cuando los fideicomisos públicos tengan por objeto crear entidades paraestatales, éstos sólo se podrán constituir previo decreto del Gobernador o del Congreso. El incremento en el patrimonio de los fideicomisos públicos se hará con autorización del Gobernador del Estado, emitida por conducto de la Secretaría; y cuando así convenga al interés público, la misma propondrá al ejecutivo Estatal la modificación o extinción de éstos.
 
-> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
-El ejecutivo del Estado o las entidades podrán afectar en fideicomiso bursátil sus bienes o derechos.
-
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+El Ejecutivo del Estado o las entidades podrán afectar en fideicomiso bursátil sus bienes, así como las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios.
 
 Los fideicomisos bursátiles constituidos específicamente para emitir y colocar títulos en el mercado de valores tendrán la categoría de no paraestatales; su operación interna será ajena a la normatividad aplicable a la administración pública estatal y se sujetarán a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles correspondientes.
 
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
-Los bienes o derechos afectos a fideicomisos bursátiles se considerarán desincorporados temporalmente del patrimonio del Estado o de sus entidades, aplicándose los recursos que produzcan a la conservación del bien o derecho, al pago de la emisión y a los demás fines previstos en el fideicomiso que resulten conexos a los anteriores.
+Los bienes, así como las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios afectos a fideicomisos bursátiles, se considerarán desincorporados temporalmente del patrimonio del Estado o de sus entidades, aplicándose los recursos que produzcan a la conservación de los bienes afectos al fideicomiso, al pago de la emisión y a los demás fines previstos en el fideicomiso que resulten conexos a los anteriores.
 
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
-En los fideicomisos bursátiles cuyas emisiones no generen obligaciones directas o contingentes para el Estado o sus entidades, el riesgo de que dichos bienes o derechos y los recursos generados sean suficientes para el pago de la emisión, correrá exclusivamente a cargo de los tenedores de los títulos colocados en el mercado de valores, por lo que no originarán deuda pública y su emisión y pago se regirán por las normas aplicables de derecho mercantil y bursátil.
-
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
+En los fideicomisos bursátiles cuyas emisiones no generen obligaciones directas o contingentes para el Estado o sus entidades, el riesgo de que dichos bienes o cantidades provenientes de impuestos, derechos, productos, aprovechamientos o sus respectivos accesorios y los recursos generados no sean suficientes para el pago de la emisión, correrá exclusivamente a cargo de los tenedores de los títulos colocados en el mercado de valores, por lo que no originarán deuda pública y su emisión y pago se regirán por las normas aplicables de derecho mercantil y bursátil.
 
 Las decisiones fundamentales sobre la disposición de los recursos derivados del patrimonio del fideicomiso se regirán por el contrato constitutivo y, en lo no previsto, por las decisiones del Comité Técnico y de los tenedores de los valores emitidos, según corresponda, incluyendo la posibilidad de que puedan fijar o variar las cuotas o contraprestaciones aplicables a los servicios que se presten al público con los bienes o derechos afectados temporalmente en este esquema.
 
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
-
 La constitución o incremento en el patrimonio de los fideicomisos bursátiles requerirá de la aprobación previa del Congreso.
-
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
 
 Los recursos que reciba el Estado o sus entidades como consecuencia de la emisión de los títulos, por concepto de excedentes o de aquellos respecto de los cuales tengan facultades para decidir sobre su aplicación o destino por medio del fideicomiso bursátil, estarán sujetos a las disposiciones previstas en este Código y en las demás leyes aplicables.
 
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
-
 Los recursos que el Estado o sus entidades capten bajo el esquema de colocación de títulos en el mercado de valores, se destinarán a financiar el gasto público.
-
-> <small>(ADICIONADO, G.O. 12 DE ABRIL DE 2002)</small>
 
 Los títulos que se emitan, conforme a lo dispuesto en este artículo, sólo podrán colocarse en bolsas de valores domiciliadas en el país y serán pagaderos en moneda nacional o en unidades de valor referidas a dicha moneda.
 
@@ -4121,7 +4129,7 @@ Las fianzas para asegurar el interés fiscal que expidan instituciones autorizad
 
 ###### Artículo 242.
 
-Las garantías que reciban las dependencias por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del "Gobierno del Estado de Veracruz-Llave, Secretaría de Finanzas y Planeación"; y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
+Las garantías que reciban las dependencias por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del "Gobierno del Estado de Veracruz de Ignacio de la Llave, Secretaría de Finanzas y Planeación"; y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
 
 Las fianzas a que alude el párrafo anterior se podrán hacer efectivas por la Secretaría o por conducto de los legalmente facultados, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
@@ -4659,19 +4667,19 @@ La Contraloría, en los términos de la Ley de Responsabilidades de los Servidor
 
 Sólo se concertarán créditos para programas aprobados e incluidos en los presupuestos de las dependencias y entidades, previa autorización del Congreso. Estos créditos se contratarán por conducto de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
 
 ###### Artículo 312.
 
-El presente Libro regula las operaciones de endeudamiento relativas a las bases para la concertación, contratación y reestructuración de las diversas opciones de financiamiento, a los requisitos para emitir bonos, obligaciones de deuda, pagarés y a la celebración de actos jurídicos análogos a los anteriores, que se destinen al establecimiento de inversiones públicas o para el desarrollo de acciones encaminadas a la obtención de beneficios sociales.
+El presente Libro regula las operaciones de endeudamiento relativas a las bases para la concertación, contratación y reestructuración de las diversas opciones de financiamiento, a los requisitos para emitir valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y a la celebración de actos jurídicos análogos a los anteriores en los que el Estado asuma obligaciones directas o contingentes, que se destinen al establecimiento de inversiones públicas productivas o para el desarrollo de acciones encaminadas a la obtención de beneficios sociales.
 
 Asimismo, considera la contratación de operaciones destinadas a cubrir necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional o estatal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que alterare la planeación financiera del Estado.
 
-> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 313.
 
-La deuda pública, en su conjunto, está constituida por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obras o servicios cuyo pago se pacte a plazos, emisión de bonos, obligaciones de deuda, pagarés constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se obtengan a favor del Estado, por sí o sus entidades, mismos que podrán tener como garantía la afectación de participaciones federales.
+La deuda pública, en su conjunto, está constituida por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obra o servicios cuyo pago se pacte a plazos, así como la emisión de valores, tales como bonos u obligaciones de deuda, certificados bursátiles y pagarés en los que el Estado asuma obligaciones directas o contingentes, constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se generen a cargo del Estado, por sí o por sus entidades, obligaciones que podrán tener como garantía o fuente de pago o ambas, los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, así como las participaciones federales derivadas del Sistema Nacional de Coordinación Fiscal.
 
 ###### Artículo 314.
 
@@ -4755,9 +4763,9 @@ III. Elaborar la planeación y programación de la deuda pública del Estado.
 
 IV. Consignar en el presupuesto anual las amortizaciones por concepto de capital e intereses a que den lugar las operaciones de deuda a cargo del Estado.
 
-> <small>(REFORMADA, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2003)</small>
 
-V. Solicitar al Congreso la autorización para la contratación de deuda, otorgamiento de aval y emisión de bonos, obligaciones de deuda o pagarés, en los términos que señalen este Código y las disposiciones que le resulten aplicables.
+V. Solicitar al Congreso la autorización para la contratación de deuda, otorgamiento de aval y emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles o pagarés en donde el Estado asuma obligaciones directas o contingentes, en los términos que señalen este Código y las disposiciones que le resulten aplicables.
 
 VI. Vigilar la aplicación de los recursos provenientes de las operaciones de endeudamiento contratadas, cuidando que los recursos se destinen al establecimiento de inversiones públicas productivas, que apoyen el desarrollo económico social y que generen ingresos para su puntual amortización.
 
@@ -4773,11 +4781,11 @@ X. Llevar el registro de obligaciones derivadas de la contratación de todas las
 
 El Ejecutivo del Estado podrá solicitar al Congreso la contratación de montos adicionales de endeudamiento a los originalmente presupuestados, cuando considere que existen situaciones económicas extraordinarias que así lo exijan.
 
-> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 325.
 
-Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre las operaciones de endeudamiento sobre el crédito del Estado, y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de bonos, obligaciones de deuda y pagarés, afectando en caso necesario, las participaciones que en ingresos federales le correspondan a la Entidad. De igual forma, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
+Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del Sistema Nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
 
 ###### Artículo 326.
 
@@ -4837,27 +4845,37 @@ Los municipios y sus entidades presentarán periódicamente, en la forma en que 
 
 ###### Artículo 333.
 
-Son títulos de deuda pública los bonos, obligaciones de deuda y pagarés que, mediante la emisión de documentos en una o varias series, se pongan a disposición de las personas físicas o morales y sean inscritos en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público, o en el registro que para tales efectos y en sustitución del anterior, determine esta dependencia federal, requiriéndose además su inscripción en el Registro Público de Deuda Estatal, los cuales tendrán las siguientes características:
+Son títulos de deuda pública los valores, tales como los bonos u obligaciones de deuda, los certificados bursátiles, los pagarés y otros títulos de deuda que se emitan en serie o en masa y que estén destinados a circular en el mercado de valores en los que el Estado asuma obligaciones directas o contingentes, sujetos a los siguientes requisitos y previsiones:
 
-I. Que sean pagaderas en México, en moneda nacional y que sólo puedan ser adquiridos por personas físicas o morales de nacionalidad mexicana.
+I. Su emisión corresponderá al Gobernador, por conducto de la Secretaría; sin embargo, podrán ser emitidos a través de un fideicomiso bursátil de conformidad con lo establecido en el artículo 175 del presente Código.
 
-II. Que el Congreso autorice su emisión, afectando las participaciones que en ingresos federales le correspondan al Estado.
+II. Que el Congreso autorice su emisión.
 
-III. Que los recursos captados se destinen al establecimiento de inversiones públicas productivas.
+III. Podrán ser denominados en Unidades de Inversión o en Moneda Nacional.
 
-IV. Que se inscriban en la sección de valores del Registro Nacional de Valores e Intermediarios y en la Bolsa Mexicana de Valores.
+IV. Serán pagaderos en México, en Moneda Nacional.
 
-> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+V. Sólo podrán ser adquiridos por personas físicas o morales de nacionalidad mexicana o fideicomisos constituidos de conformidad con las leyes mexicanas.
 
-En dichos bonos, obligaciones de deuda y pagarés, se citarán los datos fundamentales de su autorización y la prohibición de su venta a extranjeros.
+VI. Los recursos captados se destinarán al establecimiento de inversiones públicas productivas.
 
-La emisión de los documentos corresponderá exclusivamente al Ejecutivo del Estado, por conducto de la Secretaría.
+VII. Se inscribirán en la sección de valores del Registro Nacional de Valores y en la Bolsa Mexicana de Valores.
+
+VIII. Se inscribirán en el Registro de Deuda Pública Estatal y cuando así proceda, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público.
+
+IX. Deberán contener los datos fundamentales de su autorización y la prohibición de su venta a extranjeros.
+
+Siempre que se cumpla con las disposiciones del presente Código, y demás ordenamientos legales aplicables, el Gobernador, a través de la Secretaría, estará facultado para resolver definitivamente todos los aspectos relacionados con la emisión de valores que no se encuentren previstos en el presente Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 334.
 
-El Estado podrá ocurrir al Mercado de Valores para captar, mediante la emisión de bonos de deuda pública, los recursos que financiarán aquellos proyectos dirigidos a constituir inversiones públicas.
+El Estado podrá ocurrir al Mercado de Valores para captar, por sí o a través de fideicomisos bursátiles de conformidad con lo establecido en el Artículo 175 del presente Código y mediante la emisión de valores de deuda pública en los que el Estado asuma obligaciones directas o contingentes, los recursos que financiarán aquellos proyectos dirigidos a constituir inversiones públicas.
 
-La autorización por parte del Congreso contendrá invariablemente el monto y plazo al cual quedará sujeta la emisión de los títulos, mismo que no será superior a cinco años.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+
+La autorización por parte del Congreso contendrá invariablemente el monto y plazo máximos a los cuales quedará sujeta la emisión de los títulos.
 
 El monto de los recursos colocados en bonos emitidos por el Estado a través del Mercado de Valores, no excederá su capacidad de pago, a criterio del Congreso.
 
@@ -4889,11 +4907,11 @@ En todo lo referente al manejo y operación de los instrumentos bursátiles enun
 
 ### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+(REFORMADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
 
 ###### Artículo 339.
 
-El Ejecutivo del Estado, a través de la Secretaría, contará con un Registro Público de Deuda Estatal en el cual se inscribirán los documentos en que se hagan constar las operaciones de endeudamiento que efectúe el Estado y sus entidades, así como las operaciones de deuda de los Ayuntamientos o sus entidades que se contraten con el aval del Estado; además, se inscribirán en éste las emisiones de bonos, obligaciones de deuda y pagarés que expida el Estado.
+El Ejecutivo del Estado, a través de la Secretaría, contará con un Registro Público de Deuda Estatal en el cual se inscribirán los documentos en que se hagan constar las operaciones de endeudamiento que efectúe el Estado y sus entidades, por sí o a través de fideicomisos bursátiles de conformidad con lo establecido en el Artículo 175 del presente Código, así como las operaciones de deuda de los Ayuntamientos o sus entidades que se contraten con el aval del Estado; además, se inscribirán en éste las emisiones de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés que emita el Estado, en los que se hayan requerido de afectación de participaciones federales en pago, en garantía o en ambos.
 
 ###### Artículo 340.
 
@@ -4947,11 +4965,11 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 344.
 
-Las participaciones federales que corresponden al Estado y a los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego en lo dispuesto en este Código, a favor del Estado, Municipios, entidades estatales o municipales, que hayan requerido de afectación en garantía, emisión de bonos, obligaciones de deuda, pagarés y la celebración de actos jurídicos análogos ante la Federación, Instituciones de Crédito que operen en el territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+Las participaciones que corresponden al Estado y los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, a cargo del Estado o municipios, entidades estatales o municipales o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de afectación en pago, en garantía o en ambos, para la emisión de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés y la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
 Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente, tratándose de adeudos avalados por el Estado.
 
@@ -4971,9 +4989,29 @@ Para efectos de lo dispuesto en el párrafo anterior, en caso de que el descuent
 
 De no demostrar el cumplimiento se procederá a efectuar los pagos de las erogaciones que se hayan dejado de amortizar, mediante la afectación de las participaciones que en ingresos federales le correspondan.
 
+(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+
+## TÍTULO QUINTO. DE LA AFECTACIÓN DE INGRESOS ESTATALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2003)</small>
+
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003)</small>
+
+###### Artículo 347.
+
+Los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios cuya recaudación corresponde al Estado son inembargables, no pueden afectarse para fines específicos, ni estar sujetos a retención, salvo para financiar rubros específicos del gasto público determinados en la propia Ley, así como para el pago de obligaciones contraídas con apego a lo dispuesto en este Código a cargo del Estado o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de su afectación en pago o en garantía o en ambos, para la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles, pagarés y para la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
+
+Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente o en el registro de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+
+###### Artículo 348.
+
+El Estado, por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios como fuente o garantía de pago, o ambas, sobre las obligaciones que contraiga por sí o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, incluyendo los valores emitidos de conformidad con lo establecido en el presente Código.
+
+Tratándose específicamente de los ingresos derivados de la recaudación del impuesto sobre nóminas, su afectación como fuente o garantía de pago, o ambas, sobre obligaciones contraídas en términos de este Código, sólo será procedente cuando los recursos netos derivados de los financiamientos se manejen y destinen en los términos que establece el artículo 105 de este Código.
 
 ## TRANSITORIOS
 
@@ -5070,3 +5108,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 24 DE JULIO DE 2003.
+
+> <small>(F. DE E., G.O. 1 DE AGOSTO DE 2003)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
