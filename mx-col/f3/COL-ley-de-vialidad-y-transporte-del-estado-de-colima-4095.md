@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vialidad-y-transporte-del-estado-de-colima-4095"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-17"
-last_updated: "1990-02-17"
+last_updated: "1992-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE VIALIDAD Y TRANSPORTE DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 17 de febrero de 1990.
 
@@ -55,53 +55,87 @@ Se consideran vías públicas estatales las carreteras, caminos, avenidas, calza
 
 DE LAS AUTORIDADES.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 3.
 
 Son autoridades de Vialidad y Transporte del Estado:
 
-I.- El Titular del Ejecutivo Estatal;
+I.- El Titular del Poder Ejecutivo Estatal;
 
-II.- El Director de Seguridad Pública y Vialidad;
+II.- El Secretario General de Gobierno;
 
-III.- El Subdirector de Vialidad y Transporte;
+III.- El Director de Seguridad Pública y Vialidad;
 
-IV.- Los Delegados de Vialidad y Transporte en los Municipios;
+IV.- El Director de Transporte;
 
-V.- Los Oficiales de Tránsito;
+V.- Los Sub-Directores del ramo;
 
-VI.- El Cuerpo de Agentes; y
+VI.- Los Presidentes de los HH. Ayuntamientos;
 
-VII.- Los Presidentes de los HH. Ayuntamientos.
+VII.- Los Delegados del ramo en los Municipios;
 
-Los Ayuntamientos, dentro del ámbito de su jurisdicción y competencia, podrán ejercer las atribuciones que les asignen los Acuerdos de Coordinación que para ese efecto celebre con el Gobierno del Estado.
+VIII.- Los Oficiales de Tránsito; y
 
-Cuando en esta Ley se aluda a la "DIRECCION" debe entenderse como tal a la Dirección de Seguridad Pública y Vialidad; al referirse a la "SUBDIRECCION" se trata de la Subdirección de Vialidad y Transporte.
+IX.- El cuerpo de agentes.
+
+Los Ayuntamientos, dentro del ámbito de su jurisdicción y competencia, podrán ejercer las atribuciones que les asignen los Acuerdos de Coordinación que para ese efecto celebren con el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 4.
 
-Son atribuciones de la DIRECCION, en materia de Vialidad, Tránsito y Transporte, que podrán ejercerse directamente a través de la SUBDIRECCION las siguientes:
+Son atribuciones de la Dirección de Seguridad Pública y Vialidad, en materia de vialidad y transporte, las siguientes:
 
-I.- Vigilar el cumplimiento de esta Ley;
+I.- Vigilar el cumplimiento de la presente Ley;
 
-II.- Organizar la Vialidad en el Estado y la coordinación con los respectivos Ayuntamientos de la Entidad;
+II.- Determinar los dispositivos de vialidad para agilizar la circulación de peatones y vehículos;
 
-III.- Proponer al Titular del Poder Ejecutivo los estudios correspondientes para que éste, en su caso, otorgue y/o cancele permisos y concesiones para la prestación del servicio del transporte en las carreteras estatales y servicio público para transportación de pasajeros recabando la opinión de los ayuntamientos respectivos y del Consejo Consultivo del sistema de Transporte del Estado;
+III.- Participar en la actualización de leyes y reglamentos que correspondan al área, así como cuidar su aplicación y observar su cumplimiento;
 
-IV.- Aprobar las tarifas de transporte del servicio público; escuchando previamente al Consejo Consultivo del Sistema de Transporte del Estado;
+IV.- Vigilar el correcto funcionamiento de los lugares de estacionamiento;
 
-V.- Elaborar y expedir placas de identificación y los documentos oficiales relacionados con la circulación de los vehículos;
+V.- Vigilar la correcta prestación del servicio público de transporte;
 
-VI.- Proponer al Ejecutivo del Estado la tarifa de multas y aplicarla por infracciones a la Ley y su Reglamento;
+VI.- Tener a su cargo la aplicación en materia de vialidad del Reglamento de esta Ley, calificar infracciones e imponer las sanciones correspondientes;
 
-VII.- Proponer al Gobernador del Estado la celebración de convenios de coordinación en la materia, con autoridades federales, con la de otros Estados o con los Municipios de la Entidad;
+VII.- Vigilar la aplicación de las especificaciones y medidas técnicas para el control de tránsito de vehículos, así como instalar y operar las señales y dispositivos viales;
 
-VIII.- Vigilar la circulación de peatones y vehículos y la incursión de semovientes en coordinación con la SUBDIRECCION; y
+VIII.- Implementar y desarrollar programas de orientación para el uso correcto de la vía pública, y pláticas en las escuelas para propiciar, responsabilizar y concientizar a los habitantes en las tareas anteriores;
 
-IX.- Las demás que esta Ley y otros ordenamientos le señalen.
+IX.- Coordinarse con la Oficialía Mayor para implementar cursos de capacitación y actualización del personal; y
+
+X.- Las demás que le confieran las autoridades superiores y le señalen las leyes y disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
+ARTICULO 4 BIS.- Son atribuciones de la Dirección de Transporte las siguientes:
+
+I.- Expedir, revalidar, reponer o cancelar las licencias, permisos, placas o autorizaciones para la conducción, circulación y uso de vehículos y operar el registro y control de los mismos;
+
+II.- Expedir, por acuerdo del Gobernador, la documentación correspondiente en la que se hagan constar las concesiones y permisos para operar el servicio público de transporte, en todas sus modalidades;
+
+III.- Proponer las tarifas aplicables al transporte público y supervisar su correcta aplicación;
+
+IV.- Proponer al Titular del Poder Ejecutivo los estudios correspondientes para que éste, en su caso, otorgue o cancele permisos y concesiones para la prestación del servicio de transporte en las carreteras estatales y servicio público para transportación de pasajeros;
+
+V.- Supervisar, en coordinación con la Dirección de Seguridad Pública y Vialidad, la correcta prestación del servicio público de transporte;
+
+VI.- Autorizar sitios y terminales de transporte de pasajeros y de carga, así como de rutas e itinerarios;
+
+VII.- Participar en la actualización de leyes y reglamentos que correspondan al área, así como cuidar su aplicación y observar su cumplimiento;
+
+VIII.- Expedir autorizaciones para el funcionamiento de estacionamientos y proponer las tarifas correspondientes;
+
+IX.- Coordinarse con la Oficialía Mayor para proporcionar cursos de capacitación y actualización al personal técnico y administrativo; y
+
+X.- Las demás que le confieran las autoridades superiores y le señalen las leyes y disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 5.
 
-Los Delegados de Vialidad y Transporte, Oficiales y Agentes destacados en el Municipio tendrán las facultades y obligaciones específicas que les señalen los ordenamientos reglamentarios respectivos.
+Los Delegados, Oficiales y Agentes destacados en los Municipios tendrán las facultades y obligaciones específicas que les señalen los ordenamientos reglamentarios respectivos.
 
 ### CAPITULO III
 
@@ -151,9 +185,11 @@ Tendrán el carácter de conductores las personas que cuenten con licencia para 
 
 Se consideran ciclistas para los efectos de esta Ley, a las personas que conduzcan vehículos de tracción humana en cualquiera de sus presentaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 12.
 
-Ninguna persona podrá conducir vehículos de motor en la vía pública estatal sin la licencia correspondiente. La SUDIRECCION la expedirá una vez que sean satisfechos los requisitos de esta Ley especificados en su Reglamento. Para este aspecto, los conductores se clasifican en:
+Ninguna persona podrá conducir vehículos de motor en la vía pública estatal sin la licencia correspondiente. La Dirección de Transporte la expedirá una vez que sean satisfechos los requisitos de esta Ley especificados en su Reglamento. Para este aspecto los conductores se clasifican en:
 
 I.- Motociclistas;
 
@@ -181,9 +217,11 @@ Las licencias para manejar, pueden ser suspendidas o canceladas mediante el proc
 
 DE LA REVISION FISICA DE VEHICULOS.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 14.
 
-Anualmente y en los términos fijados por el Reglamento, la SUBDIRECCION efectuará la revisión física de los vehículos que circulen en el Estado.
+Anualmente y en los términos fijados por el Reglamento, la Dirección de Seguridad Pública y Vialidad efectuarán la revisión física de los vehículos que circulen en el Estado. Los que se encuentren afectos a la prestación del servicio público de transporte, podrán ser revisados en cualquier tiempo.
 
 ###### ARTICULO 15.
 
@@ -197,17 +235,21 @@ Los vehículos que no reúnan los requisitos exigidos por esta Ley o su Reglamen
 
 DEL ESTACIONAMIENTO DE VEHICULOS.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 17.
 
-La SUBDIRECCION en coordinación con el Ayuntamiento respectivo, determinará las condiciones y forma en que deben ser estacionados los vehículos en la vía pública, en consideración al interés social.
+La Dirección de Seguridad Pública y Vialidad, en coordinación con el Ayuntamiento respectivo, determinará las condiciones y forma en que deben ser estacionados los vehículos en la vía pública, en consideración al interés social.
 
 ###### ARTICULO 18.
 
 Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tránsito, serán infraccionados y retirados por las autoridades competentes trasladándolos a los corralones oficiales.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 19.
 
-La SUBDIRECCION, podrá otorgar concesiones a los particulares, para que establezcan estacionamientos y pensiones de vehículos en terrenos de su propiedad cuando lo requiera el interés público y cumplan las condiciones de seguridad e higiene de la Ley de Salud, así como del Reglamento Municipal de Construcciones; pero en ningún caso se permitirá el estacionamiento permanente en ambos lados de la calle, frente a escuelas, hospitales y clínicas de salud, a fin de facilitar el ascenso y descenso de personas en dichos sitios.
+La Dirección de Transporte podrá otorgar concesiones a los particulares, para que establezcan estacionamientos y pensiones de vehículos en terrenos de su propiedad cuando lo requiera el interés público y cumplan las condiciones de seguridad e higiene de la Ley de Salud, así como de los reglamentos municipales respectivos; pero en ningún caso se permitirá el estacionamiento permanente en ambos lados de la calle, frente a escuelas, hospitales y clínicas de salud, a fin de facilitar el ascenso y descenso de personas en dichos sitios.
 
 ### CAPITULO VII
 
@@ -279,13 +321,17 @@ V (sic).- El transporte de vehículos por unidades dotadas por grúas; y
 
 V.- El transporte de productos o artículos propios o conexos a las actividades agrícola, minera, industrial y comercial.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 25.
 
-Para los transportes a que se refiere el Artículo anterior se requerirá autorización de la SUBDIRECCION que se hará constatar en la tarjeta de circulación o en su tarjetón adicional.
+Para los transportes a que se refiere el Artículo anterior, se requerirá autorización de la Dirección de Transporte, que se hará constatar en la tarjeta de circulación o en su tarjetón adicional. Tratándose de los vehículos a que se refiere la fracción II del artículo que antecede, la autorización correspondiente podrá ser otorgada por la Dirección de Transporte, previa verificación de que los vehículos reúnan las condiciones físicas y de seguridad que se requieren.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 26.
 
-Las concesiones que se otorguen para la prestación del servicio público de transporte de personas u objetos tendrán vigencia de un año, a partir de la autorización. Podrán renovarse en períodos iguales por acuerdo del Titular del Ejecutivo recabando la opinión de los Ayuntamientos respectivos; pero acreditarán haber cubierto el pago anual de la revalidación, de conformidad con lo establecido por la Ley de Ingresos.
+Las concesiones que se otorguen para la prestación del servicio público de transporte de personas u objetos tendrán vigencia de un año a partir de la autorización. Podrán renovarse en períodos iguales por acuerdo del Titular del Ejecutivo; pero acreditarán haber cubierto el pago anual de la revalidación, de conformidad con lo establecido por la Ley de Ingresos.
 
 En caso de terminación de la vigencia de una concesión, tendrán preferencia para obtenerla de nuevo los antigüos concesionarios en igualdad de circunstancias.
 
@@ -323,9 +369,11 @@ V.- Prestar servicios de emergencia, cuando así lo requiera el Titular del Pode
 
 VI.- Cumplir con las disposiciones que sobre el caso dicte el Titular del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 31.
 
-Los derechos de las concesiones otorgadas por el Gobierno del Estado, no podrán enajenarse, embargarse, arrendarse, hipotecarse o gravarse, total ni parcialmente, salvo el caso de incapacidad física o mental del titular en que la SUBDIRECCION podrá autorizar el arrendamiento o cuando se trate de pago de pensión alimenticia dictada por resolución judicial. En consecuencia, se tendrán como nulos de pleno derecho, las operaciones, actos o contratos efectuados en contravención a este precepto.
+Los derechos de las concesiones otorgadas por el Gobierno del Estado, no podrán enajenarse, embargarse, arrendarse, hipotecarse o gravarse, total ni parcialmente, tampoco serán susceptibles de integrar caudal hereditario, salvo en el caso de incapacidad física o mental del titular, en que la Dirección de Transporte podrá autorizar el arrendamiento o cuando se trate de pago de pensión alimenticia dictada por resolución judicial. En consecuencia, se tendrán como nulos de pleno derecho, las operaciones, actos o contratos efectuados en contravención a este precepto.
 
 ###### ARTICULO 32.
 
@@ -335,7 +383,9 @@ I.- Comprobar que se está al corriente en el pago de los derechos correspondien
 
 II.- Acreditar que se actúa con el consentimiento expreso de la mayoría de los socios de la sociedad a que pertenezcan, en su caso;
 
-III.- Que el nuevo beneficiario reúna los requisitos que establece esta Ley y su Reglamento para la explotación de la concesión respectiva; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
+III.- Que el nuevo beneficiario reúna los requisitos que establecen los artículos 27 y demás relativos de esta Ley y su Reglamento para la explotación de la concesión respectiva; y
 
 IV.- Las demás que la Ley y el Reglamento señalen.
 
@@ -343,9 +393,13 @@ IV.- Las demás que la Ley y el Reglamento señalen.
 
 El Ejecutivo del Estado tendrá facultad para cancelar en cualquier momento, las concesiones y permisos de ruta entre otras, por las siguientes causas:
 
-I.- Para realizar un servicio distinto al expresamente concesionado; por prestarlo en forma notoriamente deficiente o por carecer los vehículos de los requisitos de seguridad señalados en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
 
-II.- Por arrendarlos a terceros sin autorización expresa de la SUBDIRECCION;
+I.- Por realizar un servicio distinto al expresamente concesionado; por prestarlo en forma notoriamente deficiente; por no prestar el servicio en forma personal y habitualmente o por carecer los vehículos de los requisitos de seguridad señalados en la presente Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
+II.- Por ser titular de más de una concesión, para la explotación del servicio de autos de alquiler o más de dos para la explotación del servicio público sujeto a itinerarios y horarios fijos, asimismo por rentarlas o arrendarlas sin autorización previa y expresa de la Dirección de Transporte;
 
 III.- Por prestar el servicio fuera de la ruta que exprese la concesión;
 
@@ -399,9 +453,11 @@ Será competencia del Titular del Poder Ejecutivo, la integración de dicho CONS
 
 DE LA EDUCACION E INFORMACION VIAL.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 36.
 
-La SUBDIRECCION, se coordinará con las Dependencias Educativas, a fin de diseñar en el Estado, programas permanentes de seguridad y de Educación Vial, encaminados a crear conciencia y hábitos de respeto a los ordenamientos legales en materia de tránsito y vialidad a fin de prevenir accidentes de tránsito y salvar vidas, orientados a los siguientes niveles de la población:
+La Dirección de Seguridad Pública y Vialidad se coordinará con las dependencias educativas, a fin de diseñar en el Estado, programas permanentes de seguridad y de educación vial, encaminados a crear conciencia y hábitos de respeto a los ordenamientos legales en materia de tránsito y vialidad a fin de prevenir accidentes de tránsito y salvar vidas, orientados a los siguientes niveles de la población:
 
 I.- A los alumnos de educación preescolar, básica y media;
 
@@ -431,29 +487,37 @@ V.- Señales preventivas, restrictivas e informativas, y
 
 VI.- Conocimientos fundamentales del Reglamento de Tránsito.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 38.
 
-La SUBDIRECCION, dentro de su ámbito de competencia, procurará coordinarse con organizaciones gremiales, de permisionarios o concesionarios del servicio público, así como con empresas para que coadyuven en los términos de los convenios respectivos a impartir los cursos de Educación Vial.
+Las Direcciones de Seguridad Pública y Vialidad y de Transporte, dentro del ámbito de sus respectivas competencias, procurarán coordinarse con organizaciones gremiales, de permisionarios o concesionarios del servicio público, así como con empresas para que coadyuven en los términos de los convenios respectivos a impartir los cursos de educación vial.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 39.
 
-Con el objeto de informar a la ciudadanía sobre medidas de tránsito y vialidad, la SUBDIRECCION se coordinará con las autoridades competentes y celebrará acuerdos de concertación con empresas concesionarias de radio y televisión para que difundan mensajes de Educación Vial.
+Con el objeto de informar a la ciudadanía sobre medidas de tránsito y vialidad, la Dirección de Seguridad Pública y Vialidad se coordinará con las autoridades competentes y celebrará acuerdos de concertación con empresas concesionarias de radio y televisión para que difundan mensajes de Educación Vial.
 
 ### CAPITULO X
 
 SEGURO DEL VIAJERO.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 40.
 
-Las personas que por concesión, permiso, derecho, contrato de la SUBDIRECCION exploten vías públicas y medios de transporte, están obligados a asegurar a los pasajeros que viajen por dichas vías y hayan pagado el importe de su pasaje, contra los riesgos que provengan de accidentes ocurridos con motivo del transporte, de acuerdo con las disposiciones que la SUBDIRECCION reglamente.
+Las personas que por concesión, permiso, derecho o contrato de la Dirección de Transporte exploten vías públicas y medios de transporte, están obligados a asegurar a los pasajeros que viajen por dichas vías y que hayan pagado el importe de su pasaje, contra los riesgos que provengan de accidentes ocurridos con motivo del transporte, de acuerdo con las disposiciones que la Dirección de Transporte reglamente.
 
 ### CAPITULO XI
 
 DE LA QUEJA Y SANCIONES.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 41.
 
-Los usuarios del Servicio Público de Transporte y los particulares, frente a posibles actos ilícitos de concesionarios, permisionarios, oficiales y agentes, podrán acudir en queja ante la SUBDIRECCION, la cual establecerá los procedimientos más expeditos que permitan dar respuesta al quejoso a la brevedad posible. Lo anterior sin perjuicio de la responsabilidad civil o penal que pueda resultar.
+Los usuarios del Servicio Público de Transporte y los particulares, frente a posibles actos ilícitos de concesionarios, permisionarios, oficiales y agentes, podrán acudir en queja ante la Dirección de Seguridad Pública y Vialidad, la que establecerá los procedimientos más expeditos que permitan dar respuesta al quejoso a la brevedad posible. Lo anterior sin perjuicio de la responsabilidad civil o penal que pudiera resultar.
 
 ###### ARTICULO 42.
 
@@ -486,3 +550,9 @@ Diputado Presidente, RODRIGO ROSALES ESCOBAR.- Rúbrica.- Diputada Secretaria, P
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., febrero 09 de 1990.- El Gobernador Const. del Estado, LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Secretario Gral. de Gobierno, LIC. JORGE A. GAITAN GUDIÑO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 1992.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
