@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1953-12-30"
+last_updated: "1955-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1955.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -279,13 +279,13 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 La Ley Electoral reglamentará la materia relativa a elecciones de Funcionarios Municipales.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
 
 ###### Artículo 23.
 
-Los Ayuntamientos estarán integrados por un número de miembros que estará en relación con el censo de la municipalidad, y que en ningún caso será menor de cinco, si el censo del Municipio no pasa de ocho mil habitantes y de siete si cuenta con un número mayor, sin incluir los supernumerarios que se necesiten.
+Los Ayuntamientos estarán integrados por un número de miembros que estarán en relación con el Censo de la Municipalidad, y que en ningún caso será menor de cinco, si el censo del Municipio no pasa de ocho mil habitantes y de siete si cuenta con un número mayor, sin incluir los supernumerarios que se necesiten.
 
-El período de sus funcione (sic) será de dos años y no podrán ser reelectos para el período inmediato.
+El período de sus funciones será de tres años y no podrán ser reelectos para el período inmediato.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -445,11 +445,11 @@ El día de la Instalación y antes del acto los Diputados otorgarán la protesta
 
 Para que el Congreso pueda instalarse y ejercer sus funciones, se necesita, por lo menos, la presencia de las dos terceras partes del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley, y compeler, bajo las penas que ella designe, a efecto de que concurran, a los ausentes cuya elección se hubiere declarado legal por las respectivas Juntas Electorales.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
 
 ###### Artículo 42.
 
-Habrá en cada año dos períodos de sesiones ordinarias, el primero comenzará el primero de marzo y terminará el treinta de junio, y el segundo, el primero de septiembre y terminará el treinta y uno de diciembre; ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que respectivamente acuerden los CC. Diputados.
+Habrá en cada año dos períodos de Sesiones Ordinarias; el primero comenzará el día primero de marzo y terminará el día treinta de mayo; y el segundo, el día primero de octubre y terminará el treinta y uno de diciembre; ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que lo acuerden los CC. Diputados.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -477,11 +477,11 @@ En los períodos intermediarios entre los de sesiones ordinarias, o sea en los r
 
 El Congreso tendrá sesiones extraordinarias cuando así lo demanden la naturaleza, urgencia y gravedad de los negocios a juicio de la Diputación Permanente o del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
 
 ###### Artículo 46.
 
-Al acto de apertura de Sesiones verificado el primero de marzo de cada año asistirá el Gobernador del Estado, y presentará un informe por escrito sobre el estado que guarden los distintos Ramos de la Administración.
+Al iniciarse el primer período de sesiones, o sea el día primero de marzo de cada año, el C. Gobernador del Estado se presentará ante el H. Congreso y rendirá un informe pormenorizado de la Gestión Administrativa realizada durante el año anterior, a efecto de que el pueblo conozca el estado que guardan los distintos ramos de la Administración Pública.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -501,11 +501,11 @@ Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando
 
 Podrán asistir a las sesiones entre los Diputados, los Magistrados del Tribunal Superior, el Procurador General de Justicia, el Secretario de Gobierno y Director General de Hacienda y Economía. Quedan obligados a asistir a dichas sesiones, estos Funcionarios, cuando parar ello fueren llamados por el Congreso. Harán uso de la palabra como los Diputados, pero no tendrán voto.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
 
 ###### Artículo 49.
 
-El Congreso del Estado se renovará en su totalidad cada dos años y ninguno de sus miembros podrá ser reelecto para el período inmediato.
+El Congreso del Estado se renovará en su totalidad cada tres años y ninguno de sus miembros podrá ser reelecto para el período inmediato.
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1538,3 +1538,9 @@ P.O. 30 DE DICIEMBRE DE 1953.
 Art. 1/o.- El Municipio de General Canuto Néri tendrá como Cabecera a Acapetlahuaya y comprenderá los núcleos de población que se le asignen al hacerse la modificación correspondiente a la Ley número 59 Orgánica de División Territorial del Estado.
 
 Art. 2/o.- La presente reforma entrará en vigor el día primero de enero del año de mil novecientos cincuenta y cuatro.
+
+P.O. 6 DE JULIO DE 1955.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
