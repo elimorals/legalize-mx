@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1988-12-31"
+last_updated: "1989-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -212,9 +212,9 @@ c).- Equipos cinematográficos o de videograbación, así como las cintas, pelí
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no correspondan a sus funciones de derecho público.
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -260,9 +260,9 @@ Para acreditar el impuesto al valor agregado en la importación de bienes tangib
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)(F. DE E., D.O.F. 22 DE MAYO DE 1986)
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito y las sociedades mercantiles efectuarán pagos provisionales a más tardar el día 10 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Tratándose de los demás contribuyentes efectuarán dichos pagos a más tardar el día 15 de cada uno de los meses del ejercicio. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior a excepción de las importaciones de bienes tangibles, y a las cantidades por las que proceda el acreditamiento.
+Los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito y las personas morales efectuarán pagos provisionales a más tardar el día 11 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Tratándose de los demás contribuyentes efectuarán dichos pagos a más tardar el día 17 de cada uno de los meses del ejercicio. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -270,11 +270,11 @@ El impuesto del ejercicio, deducidos los pagos provisionales mensuales se pagar�
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 6o.
 
-Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración mensual de su ejercicio no se podrán acreditar en declaraciones mensuales posteriores.
+Cuando en la declaración de pago provisional mensual resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución siempre que en este último caso sea sobre el total del saldo a favor.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -284,9 +284,7 @@ Si en la declaración del ejercicio el contribuyente tuviera cantidades a su fav
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-Lo dispuesto en este artículo no será aplicable a los contribuyentes que opten por pagar el impuesto sobre la renta conforme a bases especiales de tributación distintos a aquéllos dedicados a actividades agrícolas, ganaderas, avícolas o de pesca.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -454,9 +452,13 @@ f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General 
 
 g).- Reciban o paguen las instituciones públicas que emitan bonos y administren planes de ahorro con la garantía incondicional de pago del Gobierno Federal, conforme a la Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-h).- Deriven de certificados y pagarés de la Tesorería de la Federación o de bonos de desarrollo del Gobierno Federal, siempre que se cumpla con los requisitos que para tal efecto señala la fracción XXI del artículo 77 de la Ley del Impuesto sobre la Renta.
+h).- Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Nacional de Valores e Intermediarios, siempre que se cumplan los requisitos que para tal efecto señala la fracción XXI del artículo 77 de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+i).- Deriven de pagarés denominados papel comercial, siempre que sean de los que se coloquen entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -484,7 +486,9 @@ XIV.- Los servicios profesionales de medicina, cuando su prestación requiera t�
 
 XV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-XVI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+XVI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor, siempre que sus ingresos estén exceptuados del pago en el Impuesto Sobre la Renta.
 
 ###### ARTICULO 16.
 
@@ -590,7 +594,9 @@ Cuando un bien exportado temporalmente retorne al país habiéndosele agregado v
 
 No se pagará el impuesto al valor agregado en las importaciones siguientes:
 
-I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales y se destinen a transformación, elaboración o reparación, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -608,11 +614,17 @@ IV.- Las de bienes donados por residentes en el extranjero a la Federación, ent
 
 V.- Las de obras de arte que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que se destinen a exhibición pública en forma permanente.
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+VI.- Las de obras de arte creadas en el extranjero por mexicanos o residentes en territorio nacional, que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que la importación sea realizada por su autor.
+
 ###### ARTICULO 26.
 
 Se considera que se efectúa la importación de bienes o servicios:
 
-I.- En el momento en que los bienes queden a disposición del importador en la aduana, recinto fiscal o fiscalizado.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+I.- En el momento en que el importador presente el pedimento para su trámite en los términos de la legislación aduanera.
 
 II.- En caso de importación temporal al convertirse en definitiva.
 
@@ -655,6 +667,16 @@ El impuesto al valor agregado pagado al importar bienes dará lugar a acreditami
 > <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
 
 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 28-A.
+
+Cuando se importen temporalmente mercancías para retornar al extranjero en el mismo estado, destinadas a realizar actividades empresariales en el país, el impuesto al valor agregado se calculará aplicando la tasa del 5% al valor que se tomaría en consideración para los fines del impuesto general de importación si ésta fuera definitiva, adicionado con la tasa establecida en el artículo 58 de la Ley Aduanera.
+
+El impuesto a que se refiere este artículo deberá pagarse por cada período de seis meses o fracción que comprenda el plazo concedido o de sus prórragas (sic), en los términos de Ley.
+
+Lo dispuesto en el primer párrafo de este artículo, no será aplicable a las empresas dedicadas exclusivamente a la exportación de bienes y a las que se encuentren en los supuestos a que se refiere el inciso b) del artículo 78 de la Ley Aduanera.
 
 ### CAPITULO VII. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -718,9 +740,11 @@ Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, e
 
 La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que sea exigible la contraprestación y en proporción a la misma.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 31.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+Para los efectos de esta Ley, se asimila a la exportación, la enajenación de bienes realizada por personas residentes en el país a empresas dedicadas exclusivamente a la exportación de bienes o a aquéllas consideradas como maquiladoras de exportación, siempre que dichas enajenaciones cumplan con las reglas que al efecto dicte la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
 
 ### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
 
@@ -746,29 +770,19 @@ Cuando se trate de actos o actividades que se realicen con el público en genera
 
 En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-IV.- Presentar en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente, las declaraciones señaladas en esta Ley. Si el contribuyente tuviera varios establecimientos presentará por todos ellos una sola declaración, mensual o del ejercicio.
+IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Si dichos establecimientos se encuentran en dos o más entidades federativas, la declaración de que se trate se presentará en la oficina autorizada dentro de la entidad federativa en la que el contribuyente tenga el mayor valor de activos fijos y de terrenos, afectos a los actos o actividades por los que deba pagar este impuesto. En caso de que no tenga dichos bienes, se presentará en la oficina autorizada de la entidad federativa donde se encuentre ubicado su domicilio fiscal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Si el contribuyente debe presentar la declaración en una oficina autorizada distinta de la que corresponda a su domicilio fiscal, dará aviso a las oficinas autorizadas correspondientes, en el que señale la ubicación del establecimiento en razón del cual hará la presentación de las declaraciones. En el citado aviso designará a su representante en dicho establecimiento.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones mensuales y del ejercicio, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
-
-> <small>N. DE E. EL PRESENTE PARRAFO FUE EXPRESAMENTE DEROGADO POR DECRETO PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 1981; SIN EMBARGO, EN EL DECRETO PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 1987, SE HACE MENCION DE LA FRASE INICIAL DEL MISMO COMO SI NO HUBIERA SIDO DEROGADO.</small>
-
-Los contribuyentes dedicados a…
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -812,13 +826,9 @@ I.- Llevar contabilidad simplificada, de sus operaciones de conformidad con el C
 
 II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales les estimarán el valor de los actos o actividades por los que están sujetos a pagar el impuesto, excluyendo las actividades sujetas a la tasa del 0%; a esta estimación las autoridades aplicarán la tasa del impuesto que corresponda, según sea el caso, obteniéndose así el impuesto a cargo estimado.
 
-Del impuesto a cargo estimado se restará el impuesto acreditable, conforme a lo siguiente:
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-a).- Tratándose de las actividades que mediante disposiciones de carácter general señale la Secretaría de Hacienda y Crédito Público, los contribuyentes podrán restar el impuesto acreditable a que se refiere el artículo 4o. de esta Ley.
-
-b).- En todos los demás casos, las autoridades fiscales estimarán el impuesto acreditable.
-
-La diferencia entre el impuesto a cargo estimado y el impuesto acreditable en los términos de los incisos a) o b) de esta fracción, según corresponda, será el monto del impuesto a pagar.
+Del impuesto a cargo estimado se restará el impuesto acreditable a que se refiere el artículo 4o. de esta Ley. La diferencia entre el impuesto a cargo estimado y el impuesto acreditable, será el monto del impuesto a pagar.
 
 Las estimaciones a que se refiere esta fracción se mantendrán hasta que las autoridades fiscales formulen otras.
 
@@ -834,9 +844,7 @@ IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales apa
 
 V.- Conservar la contabilidad simplificada a que se refiere la fracción I de este artículo y los comprobantes señalados en el artículo 36 de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-VI.- Presentar declaración del ejercicio.
+VI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -870,9 +878,7 @@ Las autoridades fiscales podrán incrementar la estimación del valor de los act
 
 Las estimaciones que realicen las autoridades fiscales se harán por ejercicios y se dividirán entre seis para los efectos del pago bimestral.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-La estimación del impuesto acreditable, se hará conforme a los porcientos de acreditamiento que en cada caso señale el Reglamento de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO IX. DE LAS PARTICIPACIONES A LAS ENTIDADES FEDERATIVAS
 
@@ -938,9 +944,9 @@ IV.- Expedición o emisión por empresas generadoras e importadoras de energía 
 
 V.- Dividendos, intereses o utilidades que representan o perciban las empresas que señala la fracción anterior.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras.
+Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras así como los derechos por servicios de alumbrado público que cobren los municipios, aun cuando para su determinación se utilice como base el consumo de energía eléctrica.
 
 ## TRANSITORIOS
 
@@ -1241,3 +1247,31 @@ ARTICULO DECIMOTERCERO.- Durante el año de 1989, se aplicará la tasa del 0% pa
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1989.
+
+D.O.F. 28 DE DICIEMBRE DE 1989.
+
+DISPOSICION TRANSITORIA
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Los contribuyentes que hasta el 31 de diciembre de 1989, hubieran pagado el impuesto al valor agregado como contribuyentes menores o conforme a lo establecido en bases especiales de tributación, y que a partir del 1o. de enero de 1990 estén obligados a su pago en los términos de la Ley del Impuesto al Valor Agregado, podrán efectuar los pagos provisionales de los meses de enero y febrero, a más tardar en las fechas que les corresponda en el mes de marzo según se trate de persona física o moral.
+
+DISPOSICION DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO OCTAVO.
+
+Durante el año de 1990, se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.-B y de los contenidos en el artículo 2o.-C de la Ley de la materia.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+###### ARTICULO TERCERO.
+
+Los pagos provisionales de los impuestos sobre la renta, al valor agregado, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción ll del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de enero de 1990 se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 31 de diciembre de 1989.
