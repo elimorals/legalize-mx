@@ -4,7 +4,7 @@ identifier: "SON-ley-reglamentaria-para-el-ejercicio-de-las-profesiones-en-9676"
 country: "mx"
 rank: "ley"
 publication_date: "1952-12-03"
-last_updated: "1954-07-31"
+last_updated: "1974-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE JULIO DE 1974.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 3 de diciembre de 1952.
 
@@ -70,6 +70,20 @@ Los planes de estudio de los planteles profesionales, deberán comprender la for
 ###### ARTICULO 6o.
 
 Los títulos profesionales expedidos por las autoridades de un Estado serán registrados siempre que su otorgamiento se haya sujetado a sus leyes respectivas, conforme a la fracción V del Articulo 121 de la Constitución Federal.
+
+> <small>(ADICIONADO, B.O. 18 DE JULIO DE 1974)</small>
+
+###### ARTICULO 6º. Bis.
+
+El Ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conductto (sic) de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito y Territorios Federales, de acuerdo con las siguientes bases:
+
+I.- Instituir un solo servicio de registro de títulos profesionales y grados académicos para la expedición de cédulas personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales;
+
+II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública;
+
+III.- Intercambiar la información que se requiera; y
+
+IV.- Las demás que tiendan al debido cumplimientto (sic) del objeto del convenio.
 
 ###### ARTICULO 7o.
 
@@ -470,3 +484,9 @@ NUMERO 77.- Artículo Unico.- Se prorroga hasta el 31 de enero de 1955, los plaz
 Primero.- Se abrogan las Leyes expedidas con anterioridad sobre la materia de que trata la presente Ley y se derogan todas las disposiciones reglamentarias que se opongan a la misma.
 
 Segundo.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 27 DE JULIO DE 1974
+
+PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Estado.
+
+SEGUNDO.- Mientras no se dé por terminado el convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, quedan derogadas las disposiciones de la Ley de Profesiones del Estado que se opongan al cumplimiento del presente Decreto.
