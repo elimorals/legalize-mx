@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2000-04-07"
+last_updated: "2001-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -325,11 +325,13 @@ Los pagos se efectuarán precisamente en el lugar en que los trabajadores preste
 
 Los plazos para el pago de los salarios nunca podrán ser mayores de quince días.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 44.
 
-Los trabajadores tendrán derecho a un aguinaldo anual, que deberá pagarse de la siguiente manera: en la primera quincena de diciembre treinta días y diez días durante la primera quincena del mes de enero.
+Los trabajadores tendrán derecho a un aguinaldo anual, que deberá pagarse de la siguiente manera: en la primera quincena de diciembre cuarenta días y veinte días durante la primera quincena del mes de enero.
 
-Los que no hayan cumplido el año de servicio tendrán derecho a que se les pague la parte proporcional del aguinaldo por el tiempo laborado.
+Los que no hayan cumplido el año de servicio, tendrán derecho a que se les pague la parte proporcional del aguinaldo por el tiempo laborado.
 
 ###### ARTICULO 45.
 
@@ -1388,3 +1390,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE ABRIL DEL 2000.
 
 UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+P.O. 31 DE AGOSTO DE 2001.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
