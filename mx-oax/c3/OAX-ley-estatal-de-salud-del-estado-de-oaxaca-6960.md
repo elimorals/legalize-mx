@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "1998-02-07"
+last_updated: "1998-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -41,7 +41,11 @@ LEY ESTATAL DE SALUD
 
 ### CAPITULO UNICO
 
-ARTICULO lo.- La presente Ley es de orden público e interés social y tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de éste y sus municipios en materia de Salubridad Local, en términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Salud y del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, siendo de aplicación obligatoria en el Estado.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTICULO 1o.
+
+La presente Ley es de orden público e interés social y tiene por objeto reglamentar el derecho a la protección de la salud y establece las bases y modalidades para el acceso a los Servicios de Salud proporcionados por el Estado y la concurrencia de éste y sus municipios en materia de Salubridad Local, en los términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y de la Ley General de Salud. Siendo de aplicación obligatoria en el Estado.
 
 ###### ARTICULO 2o.
 
@@ -75,55 +79,79 @@ II.- La Secretaría de Salud del Estado, y
 
 III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+El Organismo descentralizado de la Administración Pública Estatal, Servicios de Salud de Oaxaca tendrá por objeto la coadyuvancia y la prestación coordinada con la Secretaría de Salud del Estado, de los servicios de salud en el Territorio del Estado de Oaxaca.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 4o.
 
-En los términos de la Ley General de Salud y de la presente ley, corresponde al Estado de Oaxaca:
+En los términos de la Ley General de Salud y de la presente Ley, corresponde al Gobierno del Estado:
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 A.- En materia de Salubridad General:
 
-I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
+I.- El control y vigilancia de la prestación de servicios y de establecimientos de salud de los servicios públicos a la población en general; servicios sociales y privados sea cual fuere la forma en que se contraten y otros que se presten de conformidad con lo que establezca la autoridad sanitaria;
 
-II.- La atención materno-infantil.
+II.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-III.- La prestación de servicios de planificación familiar;
+III.- La atención infantil;
 
-IV.- La salud mental;
+IV.- La prestación de servicios de salud reproductiva;
 
-V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+V.- La salud mental;
 
-VI.- La promoción de la formación de recursos humanos para la salud;
+VI.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
-VII.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+VII.- La promoción de la formación de recursos humanos para la salud;
 
-VIII.- La información relativa a las condiciones, recursos y servicios de salud;
+> <small>(F. DE E., P O. 06 DE NOVIEMBRE DE 1999)</small>
 
-IX.- La educación para la salud;
+VIII.- La coordinación de la Investigación para la salud y el control de ésta en los seres humanos;
 
-X.- La orientación y vigilancia en materia de nutrición;
+IX.- La información relativa a las condiciones, recursos y servicios de salud;
 
-XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+X.- La educación para la salud;
 
-XII.- La salud ocupacional y el saneamiento básico;
+XI.- La orientación y vigilancia en materia de nutrición;
 
-XIII.- La prevención y el control de enfermedades transmisibles;
+XII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XIV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
+XIII.- La salud ocupacional y el saneamiento básico;
 
-XV.- La prevención de la invalidez y la rehabilitación de los inválidos;
+XIV.- La prevención y el control de enfermedades transmisibles;
 
-XVI.- La asistencia social;
+XV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-XVII.- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el Acuerdo de Coordinación específico que al efecto se celebre;
+XVI.- La prevención de la invalidez y la rehabilitación de los inválidos;
 
-XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas oficiales que al efecto se emitan;
+XVII.- La asistencia social;
 
-XIX.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XVIII.- El desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia;
 
-B.- En materia de Salubridad Local:
+XIX.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas oficiales que al efecto se emitan;
+
+XX.- El control sanitario del registro, uso, mantenimiento y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumo de uso odontológico, materiales quirúrgicos de curación y productos higiénicos, utilizados en hospitales y laboratorios en general;
+
+XXI.- El control sanitario de los establecimientos dedicados al proceso de los productos incluidos en la fracción XX;
+
+XXII.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
+
+XXIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos; y
+
+XXIV.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+B.- En materia de Salubridad Local, el control sanitario de:
 
 I.- Mercados y centros de Abasto;
 
-II.- Construcciones excepto las de los establecimientos de salud;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Construcciones;
 
 III.- Cementerios, crematorios y funerarias;
 
@@ -161,11 +189,11 @@ XVIII.- Las demás materias que determine esta Ley y otras disposiciones legales
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-###### ARTICULO 5o.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-El Sistema Estatal de Salud está constituido por las Dependencias y Entidades Públicas y Sociales y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Oaxaca.
+###### ARTICULO 5º.
 
-El Sistema Estatal de Salud con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado de Oaxaca, definirán los mecanismo de coordinación y colaboración en materia de planeación, de los servicios de salud en el Estado de conformidad con las disposiciones de esta Ley y las que al respecto sean aplicables.
+El Sistema Estatal de Salud está constituido por las dependencias y Entidades de la Administración Pública tanto Federal y Estatal como Municipal, y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Oaxaca.
 
 ###### ARTICULO 6o.
 
@@ -217,7 +245,9 @@ XII.- Apoyar la coordinación entre las instituciones de salud y las educativas 
 
 XIII.- Coadyuvar a que la formación y la distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+XIV.- Promover e impulsar la participación de la comunidad en el cuidado de la salud;
 
 XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
@@ -245,9 +275,11 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 11.
 
-El Gobierno del Estado con la participación que corresponda al Comité de Planeación del Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
+La Secretaría de Salud del Estado con la participación que corresponda al Comité de Planeación del Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
@@ -259,7 +291,9 @@ A) En materia de Salubridad General, corresponde al Gobierno del Estado, por con
 
 I.- Aplicar y vigilar el cumplimiento las normas que emita la Secretaría de Salud del Gobierno Federal;
 
-II.- En coordinación con el Ejecutivo Federal, organizar, operar, supervisar y evaluar los servicios de salud a que se refiere el apartado "A" del artículo 4o. de esta Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Organizar, operar, supervisar y evaluar los servicios de salud a que se refiere el Apartado "A" del artículo 4º de esta Ley;
 
 III.- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
@@ -267,13 +301,17 @@ IV.- Formular y desarrollar programas locales de salud en el marco del Sistema E
 
 V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
 
-VI.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Salubridad General concurrente y exclusiva y los convenios en los cuales éste asuma el ejercicio de las funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, de conformidad con la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VI.- Celebrar con la federación los Acuerdos de Coordinación en materia de Salubridad General concurrente y exclusiva y los convenios en los cuales éste asuma el ejercicio de las funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, de conformidad con la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VII.- Celebrar los convenios con los Ayuntamientos para la prestación de los servicios sanitarios locales o la atención de las funciones de salud;
 
 VIII.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de esta Ley y demás disposiciones generales aplicables.
 
-B) En materia de Salubridad Local corresponde al Gobierno del Estado de Oaxaca a través de su Secretaría de Salud:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+B) En materia de Salubridad local corresponde al Gobierno del Estado de Oaxaca a través de su Secretaría de Salud:
 
 I.- Ejercer el control sanitario de los establecimientos y servicios a que se refiere el artículo 4o. apartado "B" de esta Ley y verificar su cumplimiento;
 
@@ -289,9 +327,11 @@ VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y dem�
 
 VII.- Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 13.
 
-El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de la Secretaría de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los servicios de Salubridad General concurrente y de Salubridad Local, cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo Estatal podrá convenir con los ayuntamientos, la desconcentración o descentralización, en su caso, por parte de éstos, de la prestación de los Servicios de Salubridad General concurrente y de Salubridad Local, cuando su desarrollo económico y social lo haga necesario.
 
 ###### ARTICULO 14.
 
@@ -307,9 +347,11 @@ IV.- Formular y desarrollar programas municipales de salud en el marco de los Si
 
 V.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 15.
 
-Se entenderá por norma oficial en materia de salud local el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud del Estado, que establezcan los requisitos que deban satisfacerse en el desarrollo de actividades, con el objeto de uniformar principios, criterios, políticas y estrategias.
+Se entenderá por Norma Oficial Estatal, en materia de salud local el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud del Estado, que establezcan los requisitos que deban satisfacerse en el desarrollo de actividades, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
 ###### ARTICULO 16.
 
@@ -333,37 +375,45 @@ III.- Instalación de retretes o sanitarios públicos, y
 
 IV.- Prestar servicios de limpieza pública y la eliminación de desechos sólidos y líquidos.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 19.
 
-Los municipios, conforme a las leyes aplicables, promoverán la desconcentración de los servicios sanitarios básicos de su competencia, a sus correspondientes comisarías y delegaciones municipales.
+Los municipios, conforme a las leyes aplicables, promoverán la desconcentración de los servicios sanitarios básicos de su competencia, a sus correspondientes agencias municipales.
 
 ###### ARTICULO 20.
 
 El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de su interés común.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 21.
 
-Los Ayuntamientos del Estado en el ámbito de su competencia podrán celebrar entre ellos convenios de coordinación y cooperación sobre materia sanitaria.
+Los Ayuntamientos del Estado en el ámbito de su competencia podrán celebrar entre ellos convenios de coordinación y cooperación sobre materia sanitaria, en base a los lineamientos generales que establezca para el Sistema Estatal de Salud, la Secretaría de Salud del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 22.
 
-El Gobierno del Estado podrá celebrar con el Ejecutivo Federal, acuerdos de coordinación a fin de que asuma temporalmente la prestación de servicios de salud en el Estado, en los términos que en los acuerdos se convengan.
+El Gobierno del Estado podrá celebrar con el Ejecutivo Federal, acuerdos de coordinación en materia de salud.
 
 ###### ARTICULO 23.
 
-Para los efectos del artículo anterior, el Gobierno del Estado y el Ejecutivo Federal podrán convenir la creación de un organismo público, de competencia coordinada entre el Estado y el Ejecutivo Federal, que se haga cargo de la prestación de los servicios de salud en el Estado. A este propósito el Gobierno del Estado afectará los recursos humanos, físicos, financieros y materiales que sean necesarios para el correcto funcionamiento de la citada estructura administrativa.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 1998)
 
 ###### ARTICULO 24.
 
-La administración del organismo público mencionado, estará a cargo, en los términos que se convengan en el acuerdo de coordinación correspondiente, del Gobierno del Estado. Dicho organismo tendrá a su cargo la aplicación, en el ámbito estatal, de la legislación sanitaria federal y estatal, de conformidad con las disposiciones legales aplicables.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 1998)
 
 ## TITULO TERCERO. PRESTACION DE LOS SERVICIOS DE SALUD
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 25.
 
-Se entenderá por servicios de salud, todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad.
+Para efectos de esta Ley, se entenderá por servicios de salud, todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad.
 
 ###### ARTICULO 26.
 
@@ -393,9 +443,13 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
 
-IV.- La atención materno-infantil;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-V.- La planificación familiar;
+IV.- La atención infantil;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+V.- La salud reproductiva;
 
 VI.- La salud mental;
 
@@ -417,17 +471,23 @@ XI.- La atención a las víctimas de violencia intrafamiliar y de abandono; y
 
 XII.- Las demás que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 30.
 
-El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la entidad, apliquen el Cuadro Básico de Insumos del Sector Salud. Asimismo, dicho Gobierno convendrá con el Gobierno Federal los términos en que las dependencias y entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado Cuadro Básico.
+Para los efectos del artículo anterior habrá un cuadro básico de insumos para el primer nivel de atención médica y un catalogo de insumos para el segundo y tercer nivel, determinados por el Consejo de Salubridad General a nivel nacional, los cuales se deberán ajustar a las características de la prestación de los servicios de salud de la entidad. En los mismos se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos el Gobierno Estatal a través de la Secretaría de Salud del Estado convendrá la forma de participación en lo concerniente al Estado, con la Secretaría de Salud del Gobierno Federal.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 31.
 
-El Gobierno del Estado coadyuvará con las autoridades federales competentes para:
+El Gobierno del Estado coadyuvará con las autoridades federales y municipales competentes para:
 
 I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos;
 
-II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
+II.- Que los establecimientos de los sectores público, social y privados dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables; y
+
+III.- Que se asegure la adecuada distribución y comercialización de los medicamentos e insumos para los servicios de salud de la entidad.
 
 ### CAPITULO II. ATENCION MEDICA
 
@@ -451,7 +511,9 @@ Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestador
 
 I.- Servicios públicos a la población en general;
 
-II.- Servicio a derechohabientes de la institución encargada de ofrecer servicios de seguridad social a los servidores públicos del Estado y de los Municipios;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Servicio a derechohabientes;
 
 III.- Servicios sociales y privados sea cual fuere la forma en que se contraten;
 
@@ -461,33 +523,81 @@ IV.- Otros que se presten de conformidad con lo que establezca el Gobierno del E
 
 Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 36.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y al convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y a los ordenamientos legales que crean La Administración del Patrimonio de la Beneficencia Pública del Estado; y el organismo descentralizado de la administración pública estatal, Servicios de Salud de Oaxaca. El Gobierno del Estado podrá celebrar convenios de coordinación en la materia con el Ejecutivo Federal.
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
 Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 37.
 
-Son servicios a derechohabientes, los prestados por la institución a que se refiere la fracción II del artículo 34 de esta Ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Estatal preste dicha institución a otros grupos de usuarios.
+Son servicios de salud a derechohabientes, los prestados por instituciones de seguridad social a las personas que cotizan o las que hubiere cotizado en las mismas conforme a sus leyes y a sus beneficiarios.
+
+El Gobierno del Estado y los municipios podrán convenir con las instituciones de seguridad social la prestación de los servicios de salud, para los servidores públicos del Estado y de los municipios, respectivamente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 38.
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales, civiles y mercantiles.
+
+Estos servicios pueden ser contratados directamente por los usuarios o a través de sistemas de seguros, individuales o colectivos.
+
+Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos, en la proporción y términos que señale el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 39.
 
-Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+Son servicios de salud de carácter social, los que presten, directamente o mediante la contratación de seguros individuales o colectivos, los grupos y organizaciones sociales a sus miembros y a los beneficiarios de los mismos.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 40.
 
-El Gobierno del Estado y los municipios podrán convenir con las Instituciones Federales de Seguridad Social, la prestación de servicios de salud para sus trabajadores.
+Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por convenios entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+
+Las modalidades de acceso a los servicios de salud privados y sociales se regirán por los términos que convengan prestadores y usuarios sin perjuicio de los requisitos y obligaciones que establezca esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTICULO 40
+
+BIS.- Corresponde a la Secretaría de Salud del Estado vigilar y controlar la apertura y funcionamiento de todo tipo de establecimientos de servicios de salud en el territorio del Estado.
+
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las normas oficiales mexicanas y a las normas oficiales estatales, que con fundamento en las disposiciones legales aplicables expida la Secretaría de Salud del Gobierno Federal y la Secretaría de Salud del Estado respectivamente.
+
+Los establecimientos de este tipo que requieren autorización sanitaria, son determinados por la Ley General de Salud, la solicitud de autorización sanitaria deberá presentarse ante la Secretaría de Salud del Estado, previamente al inicio de sus actividades.
+
+Aquellos establecimientos que no requieran de autorización sanitaria deberán presentar aviso de funcionamiento a la Secretaria de Salud del Estado. En el aviso se expresarán las características y tipos de servicios a que estén destinados y en el caso de establecimientos particulares se señalarán también al responsable sanitario.
+
+El aviso a que se refiere el párrafo anterior deberá presentarse dentro de los 10 días hábiles posteriores al inicio de operaciones y contener los siguientes datos:
+
+I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
+
+II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones;
+
+III.- Procesos utilizados y línea o líneas de productos;
+
+IV.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+V.- Clave de la actividad del establecimiento; y
+
+VI.- Número de cédula profesional, en su caso, del responsable sanitario.
+
+En la operación y funcionamiento de los establecimientos de servicios de salud se deberán satisfacer los requisitos que establezcan las normas oficiales mexicanas y estatales correspondientes así como la reglamentación aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 41.
 
-El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+La Secretaría de Salud del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
 
 ###### ARTICULO 42.
 
@@ -527,9 +637,11 @@ De conformidad con lo que señalen las disposiciones generales aplicables, los a
 
 La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 51.
 
-La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
+La comunidad participará en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
 
 I.- La promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud e intervención en programas de promoción y mejoramiento de la salud y prevención de enfermedades y accidentes;
 
@@ -541,9 +653,17 @@ IV.- Notificación de la existencia de personas que requieran de servicios de sa
 
 V.- Formulación de sugerencias para mejorar los servicios de salud;
 
-VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-VII.- Otras actividades que coadyuven a la protección de la salud.
+VI.- Informar a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VII.- Informar a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VIII.- Otras actividades que coadyuven a la protección de la salud.
 
 > <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
 
@@ -565,15 +685,17 @@ Se concede acción popular para denunciar ante las autoridades sanitarias del Es
 
 La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-### CAPITULO IV. ATENCION MATERNO-INFANTIL
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE FEBRERO DE 1998)</small>
+### CAPITULO IV. ATENCION INFANTIL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 56.
 
-La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
+La atención infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio.
+I.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 1998)
 
 > <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
 
@@ -583,31 +705,29 @@ II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incl
 
 III.- La promoción de la integración y el bienestar familiar, fomentando la responsabilidad paterna en el crecimiento de sus hijas e hijos.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 57.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
 
 ###### ARTICULO 58.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la Sociedad en General.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 59.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado de Oaxaca establecerán:
-
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
-
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaría directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
-
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+En la organización y operación de los servicios de salud destinados a la atención infantil, las autoridades sanitarias del Estado de Oaxaca establecerán acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años.
 
 ###### ARTICULO 60.
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Los programas destinados a promover la paternidad y la maternidad responsable y la atención materno infantil;
+I.- Los programas destinados a promover la paternidad y maternidad responsable y la atención infantil;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -617,53 +737,83 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Los programas de prevención del maltrato infantil y de la violencia intrafamiliar; y
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-V.- Las demás que coadyuven a la protección de la salud materno infantil.
+V.- Las demás que coadyuven a la salud infantil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 61.
 
-En materia de higiene escolar, corresponde al Gobierno del Estado, establecer las normas oficiales para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar, corresponde a las autoridades sanitarias Federales y Estatales, establecer las normas oficiales para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
-### CAPITULO V. SERVICIO DE PLANIFICACION FAMILIAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+### CAPITULO V. SERVICIOS DE SALUD REPRODUCTIVA
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 62.
 
-La planificación familiar tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconvenciencia (sic) del embarazo antes de los 20 años o bien después de los 35, así cómo la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
+La salud reproductiva tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número, todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
 
-Los servicios que se presenten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+Los servicios que se presten en esta materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-> <small>(REFORMADO, P.O. 07 DE FEBRERO DE 1998)</small>
+Quienes practiquen esterilización o cualquier otro medio contraceptivo sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
-Quienes practiquen esterilización o cualquier otro medio contraceptivo, sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 63.
 
-Los servicios de planificación familiar comprenden:
+Los servicios de salud reproductiva en el territorio del Estado comprende:
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, considerando las características de cada sexo, con base en los contenidos y las estrategias que establezcan el Consejo Nacional de Población y la Dirección General de Población de Oaxaca, poniendo especial atención en aquellos destinados a evitar embarazos precoces;
+I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, considerando las características de cada sexo, con base en los objetivos y estrategias que establezcan el Consejo Nacional de Población y la Dirección General de Población de Oaxaca, poniendo especial atención en aquellos destinados a evitar embarazos precoces o de alto riesgo;
 
 II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
-III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población y la Dirección General de Población de Oaxaca;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar, educación sexual, biología de la reproducción humana, cáncer cervico-uterino y de mama;
 
 V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar;
 
-VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
+VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VII.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VIII.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+IX.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+X.- Detección del cáncer cervico-uterino y de mama, en todas las unidades de atención a población abierta.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 64.
 
-Los comités de salud a que se refiere el artículo 53 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales en el Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
+Los comités de salud a que se refiere el artículo 53 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales en el Estado, se impartan pláticas de orientación en materia de salud reproductiva. Las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 65.
 
-El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los Programas Estatales de Salud.
+El Gobierno del Estado, coadyuvará con las instancias federales y municipales competentes, en acciones en materia de salud reproductiva y cuidará que se incorporen éstas a los Programas Estatales de Salud.
 
 ### CAPITULO VI. SALUD MENTAL
 
@@ -705,9 +855,11 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 70.
 
-La Secretaría de Salud conforme a las normas que establezca la Secretaría de Salud del Gobierno Federal, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud.
+La Secretaría de Salud del Estado, conforme a las disposiciones legales y normativas aplicables, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud.
 
 A estos efectos, se establecerá la coordinación necesarias entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -735,7 +887,9 @@ IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición citotecnología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, optometría, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
 ###### ARTICULO 73.
 
@@ -749,6 +903,8 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 75.
 
 Todos los pasantes de profesionales para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de las de esta Ley.
@@ -759,15 +915,19 @@ Los aspectos docentes de la prestación del servicio social se regularán por lo
 
 La operación de los programas en los establecimientos de salud del Estado se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 77.
 
-Para los efectos de la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias del Estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+Para los efectos de la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias y las educativas del Estado, con la participación que corresponda a otras dependencias competentes.
 
 ###### ARTICULO 78.
 
 La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención prioritariamente en áreas urbanas y rurales de menor desarrollo económico y social del Estado.
 
-Para los efectos del párrafo anterior el Gobierno del Estado, en coordinación con las instituciones educativas y de salud, definirán los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que alude el artículo 53 de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+Para los efectos del párrafo anterior la Secretaría de Salud del Estado, en coordinación con las instituciones educativas de salud, definirán los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que alude el artículo 53 de esta Ley.
 
 ###### ARTICULO 79.
 
@@ -871,17 +1031,21 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ###### ARTICULO 90.
 
-La Secretaría de Salud del Estado, de conformidad con la Ley de Información Estadística y Geográfica (sic), y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesarias para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad. La información se referirá fundamentalmente, a lo siguientes aspectos:
+La Secretaría de Salud del Estado, de conformidad con la Ley de Información Estadística y Geografía, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad. La información se referirá fundamentalmente, a los siguientes aspectos:
 
-I.- Estadística de natalidad, morbilidad e invalidez;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+I.- Estadística de natalidad, morbilidad, mortalidad e invalidez;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud;
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 91.
 
-Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
+Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de productos y servicios sanitarios, de órganos, tejidos, células y cadáveres de seres humanos, llevarán a cabo las estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
@@ -939,6 +1103,8 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 98.
 
 Las autoridades sanitarias del Estado, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
@@ -953,7 +1119,11 @@ II.- Vigilar y certificar la calidad del agua para uso y consumo humanos;
 
 III.- Promover y apoyar el saneamiento básico;
 
-IV.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de substancias tóxicas o peligrosas; y
+
+V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas.
 
 ###### ARTICULO 100.
 
@@ -963,9 +1133,13 @@ La Secretaría de Salud del Estado, se coordinará con las dependencias federale
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinan las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 102.
 
-Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios que establezca la Secretaría de Salud del Gobierno Federal, mediante las normas ecológicas que emitan las autoridades federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales; así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinen para uso o consumo humano.
+Queda prohibida la descarga de aguas residuales sin el tratamiento que satisfaga los criterios sanitarios que establezcan las normas oficiales mexicanas en base a las normas ecológicas que emitan las autoridades federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales; así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destine para uso o consumo humano, la Secretaría emitirá en materia sanitaria la reglamentación respectiva.
+
+Dentro del territorio del Estado de Oaxaca se deberá satisfacer, además, los criterios que se establezcan en la materia, por las normas estatales que emita la autoridad local competente.
 
 ###### ARTICULO 103.
 
@@ -991,15 +1165,21 @@ El Gobierno del Estado en coordinación con las autoridades e instituciones fede
 
 I.- Coadyuvar en la aplicación de las normas oficiales para la prevención y el control de enfermedades y accidentes que dicte la Secretaría de Salud del Gobierno Federal.
 
-II.- Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con la Ley General de Salud, esta Ley y las demás disposiciones que al efecto se expidan;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con la Ley General de Salud, esta Ley y las demás disposiciones que al efecto se expidan; y
 
 III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud del Gobierno Federal para la prevención y control de enfermedades y accidentes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+Para la mayor eficacia de las acciones para la prevención y control de enfermedades, se creará el Consejo Estatal de Prevención y Control de Enfermedades, como órgano colegiados de participación de dependencias y entidades, de la administración pública federal y estatal, del sector salud. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención y Control de Enfermedades, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 107.
 
-El Gobierno del Estado, en coordinación con las autoridades sanitarias federales y estatales, elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquéllas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud en general de la población. Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+La Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias federales, elaborará y ejecutará programas o campañas, temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud en general de la población. Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
 I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
 
@@ -1037,7 +1217,9 @@ I.- Inmediatamente en los casos individuales de enfermedades objeto de Reglament
 
 II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
 
-III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: Poliomielitis, Meningitis Meningoccócica, Tifo epidémico, Fiebre recurrente transmitida por piojo, Influenza viral, Paludismo, Sarampión, Tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana;
 
 IV.- En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en una área no infectada;
 
@@ -1071,25 +1253,31 @@ VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así c
 
 VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Gobierno Federal.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 112.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expida el Consejo de Salubridad General y las normas que dicte la Secretaría de Salud del Gobierno Federal.
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, esta Ley, las que expida el Consejo de Salubridad General y las normas que dicte la Secretaría de Salud del Gobierno Federal y Estatal.
 
 ###### ARTICULO 113.
 
 Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 114.
 
-Los trabajadores de la salud, del gobierno de esta entidad federativa y de los municipios, así como los de otras instituciones autorizadas por las autoridades sanitarias del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán tener acceso al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+Los trabajadores de la salud, de los gobiernos estatal y municipales, así como los de otras instituciones autorizadas por las autoridades sanitarias del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán tener acceso al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad para cuyo fin deberán estar debidamente acreditados por algunas de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
 
 ###### ARTICULO 115.
 
 Quedan facultades las autoridades sanitarias competentes para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley y los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 116.
 
-Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos.
+Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión tales como hoteles, restaurantes, fábricas, talleres, cárceles, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos, deportivos y otros.
 
 ###### ARTICULO 117.
 
@@ -1107,9 +1295,19 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO
+### CAPITULO PRIMERO (SIC). PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
-DE BEBIDAS ALCOHOLICAS
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTICULO 149
+
+BIS.- Se crea el Consejo Estatal Contra las Adicciones como órgano colegiado de participación interinstitucional, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones y que se regulan en este título, así como proponer y evaluar los programas a que se refiere los artículos 150, 152, y 154 de esta ley. Dicho consejo estará integrado por el Gobernador del Estado quien lo presidirá; el Secretario de Salud del Estado que tendrá el carácter de coordinador del consejo; por los titulares de las dependencias y entidades de la administración pública estatal y las representaciones de las dependencias y entidades de la administración pública federal, cuyas atribuciones tengan relación con el objeto del consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
+
+El Secretario de Salud del Estado, en su carácter de coordinador, dispondrá los lineamientos y bases para en su caso, crear consejos regionales y municipales contra las adicciones en la entidad. Las autoridades municipales podrán ser invitadas a las sesiones del Consejo Estatal.
+
+La organización y funcionamiento del Consejo se regirá por las disposiciones reglamentarias que expida para tal efecto, el Ejecutivo Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 121.
 
@@ -1135,6 +1333,8 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 124.
 
 Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud, y que se produzca por la concurrencia de condiciones potencialmente prevenibles.
@@ -1147,6 +1347,8 @@ I.- El conocimiento de las causas más usuales que generan accidentes;
 
 II.- La adopción de medidas para prevenir accidentes;
 
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 III.- El desarrollo de la investigación para la prevención de los mismos;
 
 IV.- El fomento, dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
@@ -1157,13 +1359,17 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creara el Consejo Estatal para la prevención de accidentes, del que formarán parte representantes de los sectores públicos, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la prevención de accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION E INVALIDEZ Y REHABILITACION DE INVALIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE DISCAPACITADOS
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES Y OTRAS CONDUCTAS DAÑINAS A LA SALUD
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO IV. PROGRAMA CONTRA LA VIOLENCIA INTRAFAMILIAR
 
@@ -1273,35 +1479,43 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 143.
 
-La Secretaría de Salud del Estado en coordinación con otras instituciones públicas, promoverá que en los lugares en que presten servicios públicos, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud del Estado en coordinación con otras instituciones públicas, promoverá que en los lugares que se presten servicios públicos, se dispongan facilidades para las personas discapacitadas.
 
 ###### ARTICULO 144.
 
-El Patrimonio de la Beneficencia Pública será administrado por el Sistema para el Desarrollo Integral de la Familia en el Estado de Oaxaca.
-
-Al respecto, a este organismo corresponderá, entre otras atribuciones, representar los intereses del Patrimonio de la Beneficencia Pública y distribuir los recursos que a la misma se le destinen.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 1998)
 
 ###### ARTICULO 145.
 
 Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 146.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende:
+La atención en materia de prevención de invalidez y rehabilitación de discapacitados comprende:
 
 I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
 
 II.- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la invalidez;
 
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez o discapacidad;
 
 IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido promoviendo al efecto la solidaridad social;
 
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos;
+V.- La atención integral de los discapacitados, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados; y
 
 VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -1309,13 +1523,19 @@ VII.- La promoción de la educación y la capacitación para el trabajo, así co
 
 Los servicios de rehabilitación que proporcionen los establecimientos del sector salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el artículo 131 de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 148.
 
-El Gobierno del Estado, a través del organismo a que se refiere el artículo 131 de esta Ley, y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+El Gobierno del Estado, a través del organismo a que se refiere el artículo 131 de esta Ley, y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 149.
 
-El organismo del Gobierno Estatal previsto en el artículo 131 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+El organismo del Gobierno Estatal previsto en el artículo 131 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez o discapacidad y participar en programas de rehabilitación y educación especial.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
@@ -1323,7 +1543,7 @@ El organismo del Gobierno Estatal previsto en el artículo 131 de esta Ley tendr
 
 ###### ARTICULO 150.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas que comprenderá, entre otras, las siguientes acciones:
+La Secretaría de Salud del Estado será la responsable de la ejecución del programa contra el Alcoholismo y el Abuso de bebidas Alcohólicas, que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
@@ -1345,9 +1565,11 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO PRIMERO. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 152.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones;
+La Secretaría de Salud del Estado será la responsable de la ejecución del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
 
@@ -1365,9 +1587,11 @@ III.- Los propietarios o encargados de establecimientos en donde se expendan cig
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 154.
 
-El Gobierno del Estado, realizará acciones coordinadas con la Secretaría de Salud del Gobierno Federal, en la ejecución del Programa Nacional contra la Farmacodependencia en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
+La Secretaría de Salud del Estado, realizará acciones contra la farmacodependencia y se coordinará con la Secretaría de Salud del Gobierno Federal, para establecer acciones conjuntas en el territorio del Estado contra las Adicciones.
 
 ###### ARTICULO 155.
 
@@ -1407,9 +1631,11 @@ La Secretaría de Salud del Estado ejercerá la verificación y control sanitari
 
 Los establecimientos a que se refiere el párrafo anterior, no requerirán de autorización sanitaria para su funcionamiento, sin perjuicio de las de otra índole que para la ubicación, horario y funcionamiento, sean requeridas por los ayuntamientos, de conformidad con lo que al respecto establezcan otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 158.
 
-Para determinar la ubicación y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, las autoridades sanitarias tomarán en cuenta la distancia establecida de centros de recreo, culturales y otros similares, a efecto de coadyuvar eficazmente con las acciones derivadas del Programa Nacional contra el Alcoholismo.
+Para determinar la ubicación y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, las autoridades sanitarias, tomarán en cuenta la distancia establecida de centros de recreo, culturales y otros similares.
 
 ###### ARTICULO 159.
 
@@ -1421,7 +1647,7 @@ Los propietarios o encargados de los establecimientos en donde se expendan o sum
 
 ###### ARTICULO 160.
 
-Compete al Gobierno del Estado y a los municipios, en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones legales aplicables y de los convenios que celebren en la materia, el control sanitario de las materias a que se refiere el Artículo 4o. apartado B de esta Ley.
+Corresponde al Gobierno del Estado y a los municipios, en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones legales aplicables y de los convenios que celebren en la materia, el control sanitario de las materias a que se refiere el Artículo 4o. Apartado B de esta Ley.
 
 ###### ARTICULO 161.
 
@@ -1441,7 +1667,11 @@ Los establecimientos a que se refiere el Título Décimo Primero y el presente T
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
-II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones.
+II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Nombre comercial o denominación del establecimiento.
 
 ###### ARTICULO 165.
 
@@ -1457,7 +1687,11 @@ Las notificaciones que conforme a esta Ley deban aplicarse, surtirán efectos a 
 
 ###### ARTICULO 167.
 
-Para los efectos de esta Ley se entiende por: a) Mercados, el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados. b) Centros de Abasto, el sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra-venta al mayoreo y medio mayoreo de productos en general.
+Para los efectos de esta Ley se entiende por:
+
+a) Mercados, el sitio público destinado a la prestación de servicios, compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados.
+
+b) Centros de Abasto, el sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra-venta al mayoreo y medio mayoreo de productos en general.
 
 ###### ARTICULO 168.
 
@@ -1587,9 +1821,11 @@ Para los efectos de esta Ley, se entiende por rastro, el establecimiento destina
 
 El funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la autoridad municipal competente. Si fueren particulares, quedará a cargo de las personas encargadas de realizarlo y bajo la verificación de las autoridades municipales competentes; quedan sujetos, en ambos casos, a la observancia de lo dispuesto por esta Ley y otras disposiciones legales aplicables. Queda prohibido el funcionamiento de rastros que no cumplan con los requisitos sanitarios establecidos en esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 193.
 
-Los animales deberán ser examinados en pie y en canal por la autoridad sanitaria competente la cual señalará qué carne puede dedicarse a la venta pública.
+Los animales deberán ser examinados en pie y en canal por la autoridad sanitaria competente la cual señalará que carne puede dedicarse a la venta pública, aquella que no cumpla con los requerimientos sanitarios establecidos en los ordenamientos legales y normas aplicables, deberá ser objeto de retención y destrucción en forma inmediata.
 
 ###### ARTICULO 194.
 
@@ -1775,6 +2011,8 @@ El funcionamiento y personal de los establecimientos señalados en el artículo 
 
 ### CAPITULO I. AUTORIZACIONES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 230.
 
 Para los efectos de esta Ley, se entiende por:
@@ -1821,9 +2059,11 @@ Los transportes que circulen por uno o más municipios del Estado de Oaxaca no r
 
 Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expedio (sic) o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 238.
 
-Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales reglamentarias aplicables y las normas oficiales correspondientes.
+Las gasolinerías deberán contar con las instalaciones de seguridad y de tipo sanitario que establezcan las disposiciones legales aplicables, así como los preceptos reglamentarios y las normas oficiales correspondientes.
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
@@ -1855,9 +2095,11 @@ VIII.- El sacrificio humanitario de los animales, que habiendo cumplido el lapso
 
 Los propietarios de los animales a que se refiere el artículo anterior estarán obligados a vacunarlos, ante las autoridades sanitarias o servicios particulares, así como mantenerlos dentro de su domicilio y bajo su control.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 242.
 
-Las autoridades sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
+El Sistema Estatal de Salud, mantendrá campañas de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
@@ -1865,13 +2107,13 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ###### ARTICULO 243.
 
-La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria competente, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
+La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria competente, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables. Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias, permisos o tarjetas de control sanitario.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 244.
 
-Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley. En caso de incumplimiento de las disposiciones reglamentarias y las normas que en materia de salubridad general expida la Secretaría del Salud de Gobierno Federal, las autorizaciones serán canceladas.
+Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley. En caso de incumplimiento de las disposiciones establecidas en la Ley General de Salud, en esta Ley y sus correspondientes reglamentos y las normas que en materia de salubridad general expida la Secretaría de Salud del Gobierno Federal y Estatal, las autorizaciones serán canceladas.
 
 ###### ARTICULO 245.
 
@@ -1887,9 +2129,11 @@ En el caso de las licencias sanitarias, la solicitud de revalidación deberá pr
 
 Cuando cambien de ubicación los establecimientos requerirán de nueva licencia sanitaria.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 247.
 
-Los establecimientos que prestan servicio de asistencia social, no requerirán para su funcionamiento de autorización sanitaria, y serán sujetos del control y vigilancia sanitaria, así como de los requisitos que establezcan las disposiciones reglamentarias y las normas que expida la Secretaría de Salud del Gobierno Federal.
+Los establecimientos que prestan servicio de asistencia social, no requerirán para su funcionamiento de autorización sanitaria, serán sujetos de control y vigilancia sanitaria y deberán cubrir los requisitos que establezcan las disposiciones reglamentarias de las normas que expida la Secretaría de Salud del Gobierno Federal y Estatal.
 
 ###### ARTICULO 248.
 
@@ -1983,9 +2227,9 @@ II.- De defunción;
 
 III.- De muerte fetal; y
 
-> <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-IV.- Los demás que determine la Ley General de Salud.
+IV.- Los demás que determine la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
 
 > <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
 
@@ -1999,11 +2243,31 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud del Estado.
 
-> <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+###### ARTICULO 262
+
+BIS.- La Secretaría de Salud del Estado podrá expedir certificados, autorizaciones o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
+
+I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
+
+II.- En el ámbito estatal las autorizaciones de los terceros se publicarán en el Periódico Oficial del Gobierno del Estado y señalarán expresamente las materias para las que se otorgan;
+
+III.- La Secretaría de Salud del Estado reconocerá las autorizaciones de los terceros expedidas por la autoridad federal competente y publicadas en el Diario Oficial de la Federación, para que éstos, previa validación, puedan actuar dentro del territorio del Estado;
+
+IV.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control sanitario, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y normalización;
+
+V.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones sanitarias, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta Ley; y
+
+VI.- La Secretaría de Salud del Estado podrá reconocer centros de investigación y organizaciones nacionales y estatales del área de la salud, que podrán fungir como terceros autorizados para los efectos de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 263.
 
-Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaria de Salud y de conformidad con las normas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
+Los certificados a que se refiere este capítulo, se extenderán en los modelos aprobados por la Secretaría de Salud del Gobierno Federal y Estatal, de conformidad con las normas que las mismas emitan. Dichos modelos serán publicados en el Diario Oficial de la Federación y en el Periódico Oficial del Estado.
+
+> <small>(F. DE E. P.O. 20 DE AGOSTO DE 1994)</small>
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -2079,19 +2343,31 @@ I.- Se observarán las formalidades y requisitos exigidos para las visitas de ve
 
 II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
 
-III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar en poder de la misma persona a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente al laboratorio autorizado y habilitado por éste, para su análisis oficial;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo al interesado dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra quedará en poder de la misma persona a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente al laboratorio autorizado y habilitado por éste, para su análisis oficial;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 
 V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria competente procederá conforme a la fracción VII de este artículo, según corresponda;
 
 VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
-VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la autoridad sanitaria competente, analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-VIII.- El resultado del análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
+VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la autoridad sanitaria competente, el análisis de la muestra testigo en un laboratorio que la misma señale, en presencia de las partes interesadas; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarias exigidos; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+VIII.- El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal, por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado u ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado según corresponda.
 
 Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad competente procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las sanciones que correspondan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificado está obligado a enviar, en condiciones adecuadas de conservación, dentro del término de 3 días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los 15 días hábiles siguientes a la notificación de resultados.
 
 En este caso, el Titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
@@ -2223,27 +2499,39 @@ II.- La gravedad de la infracción;
 
 III.- Las condiciones socio-económicas del infractor; y
 
-IV.- La calidad de reincidente del infractor.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- La calidad de reincidente del infractor; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+V.- El beneficio obtenido por el infractor como resultado de la infracción.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 291.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 109, 110, 111, 123, 164, 165, 169, 171, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 262 y 263.
+Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 109, 110, 111, 123, 164, 165, 169, 171, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 262 y 263 de esta Ley.
 
-La violación de las disposiciones contenidas en el artículo 89 de esta Ley, se sancionará con multa equivalente hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 292.
 
-Se sancionará con multa equivalente de diez hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226 y 238.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 270 y 284 de esta Ley.
 
 La violación de las disposiciones contenidas en los artículos 270 y 284 de esta Ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 293.
 
-Se sancionará con multa equivalente de doscientas a dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, 87, 88 y 102 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, 87, 88 y: 102 de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 294.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 290 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 290 de esta Ley.
 
 ###### ARTICULO 295.
 
@@ -2264,6 +2552,10 @@ I.- Cuando el peligro para la salud de las personas se origine por la violación
 II.- Cuando después de la reapertura de un establecimiento, local, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud, y
 
 III.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- Cuando se reincida en una infracción por tercera ocasión.
 
 ###### ARTICULO 298.
 
@@ -2397,9 +2689,11 @@ Las pruebas ofrecidas que procedan se admitirán por el área competente que deb
 
 En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles contados a partir del auto admisorio, y de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que deba continuar el trámite del recurso.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 318.
 
-El titular del Poder Ejecutivo del Estado y los titulares de los ayuntamientos, en el ámbito de su competencia, resolverá los recursos que se interpongan de conformidad esta Ley, y al efecto, podrán confirmar, modificar o revocar el acto o resolución que se haya combatido.
+El Titular de la Secretaría de Salud del Estado, el Secretario Técnico de los Servicios de Salud de Oaxaca y los Titulares de los Ayuntamientos, en el ámbito de su competencia, resolverán los recursos que se interpongan de conformidad con esta Ley, y al efecto, podrán confirmar, modificar o revocar el acto o resolución que se haya combatido.
 
 Dichas autoridades, en uso de las facultades que les confiere la Legislación aplicable, podrán delegar dicha atribución, debiéndose publicar el acuerdo respectivo en el Periódico Oficial del Gobierno del Estado o en otro de circulación municipal, cuando así proceda.
 
@@ -2461,11 +2755,9 @@ Las autorizaciones sanitarias que hubieren expedido con anterioridad a la fecha 
 
 Las autorizaciones sanitarias expedidas con anterioridad a la vigencia de la presente Ley se consideran otorgadas por tiempo indeterminado, con las excepciones que establezca la Ley.
 
-> <small>(F. DE E., P.O. 20 DE AGOSTO DE 1994)</small>
-
 ###### ARTICULO SEXTO.
 
-Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos de la presente Ley.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 1998)
 
 ###### ARTICULO SEPTIMO.
 
@@ -2473,7 +2765,7 @@ Continuarán en vigor los Acuerdos de Coordinación para la Integración Orgáni
 
 ###### ARTICULO OCTAVO.
 
-Los Servicios Coordinados de Salud Pública en el Estado, prestarán los servicios y ejercerán las funciones de autoridad sanitaria en materia de Salubridad Local, hasta en tanto no se produzca la descentralización de los Servicios de Salud, al Gobierno del Estado de Oaxaca.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 1998)
 
 ###### ARTICULO NOVENO.
 
@@ -2504,3 +2796,13 @@ P.O. 7 DE FEBRERO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
+
+P.O. 26 DE SEPTIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Servicios de Salud de Oaxaca serán los receptores de los recursos que transfiera el Gobierno Federal a través de la Secretaría de Salud al Gobierno Estatal, dentro del proceso de descentralización de los servicios de salud, en los términos que disponga el acuerdo de Coordinación respectivo. Una vez finalizado este proceso los Servicios de Salud de Oaxaca deberán transferir dichos recursos a la Secretaría de Salud del Estado conforme a las posibilidades y conveniencia que determine el Gobierno del Estado.
+
+TERCERO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo los términos anteriores al presente decreto, se continuarán sustanciando conforme las disposiciones vigentes al momento de su inicio.
+
+CUARTO.- En tanto se expidan las disposiciones administrativas que se deriven del presente decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravenga.
