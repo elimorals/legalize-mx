@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2003-04-15"
+last_updated: "2003-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -233,9 +233,11 @@ Son sujetos de este impuesto las personas físicas y morales o unidades económi
 
 Es base del impuesto el monto total de las remuneraciones a que se refiere el artículo 20. No incluirán dentro de la base aquellos conceptos que la Ley del Seguro Social excluye expresamente de la integración del salario base de cotización de las aportaciones de seguridad social.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 23.
 
-El Impuesto se causará y pagará a razón del uno por ciento sobre la base señalada en el artículo anterior.
+El impuesto se causará y pagará a razón del dos porciento sobre la base señalada en el artículo anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -699,6 +701,302 @@ Por la autorización que otorgue la Dirección General de Protección Social y V
 
 Para los efectos de la obligación que la Ley de Peritos del Estado establece a peritos dictaminadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de constancia de registro inicial el importe de diez días de salario mínimo general de la zona y, por revalidación anual de la misma, el importe de cinco días de salario mínimo general de la zona.
 
+### CAPITULO VI. OTROS SERVICIOS
+
+###### ARTICULO 64.
+
+Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en salarios mínimos:
+
+I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente:
+
+TIPO Servicio Servicio
+
+Público Particular
+
+a) Automóviles, camiones y 12.90 10.31
+
+Ómnibus
+
+b) Remolques 6.62 6.62
+
+c) Motocicletas y motonetas
+
+hasta de 350 c.c. de cilindro 3.10 3.10
+
+d) Motocicletas y motonetas 4.23 4.23
+
+de más de 350 c.c. de cilindro
+
+e) Bicicletas de motor 0.42 0.42
+
+f) Placas de demostración (sin 15.50 15.50
+
+calcomanía) cuota anual
+
+Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
+
+II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
+
+TIPO Servicio Servicio
+
+Público Particular
+
+Automóviles, camiones y 0.17 0.13
+
+ómnibus
+
+Remolque 0.13 0.13
+
+Motocicletas y motonetas 0.09 0.09
+
+Bicicletas de motor 0.04 0.04
+
+III. Reposición de tarjeta de circulación, con igual vigencia a la de las placas, la que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción.
+
+TIPO Servicio Servicio
+
+Público Particular
+
+Automóviles, camiones y 2.39 1.76
+
+ómnibus
+
+Remolques 1.76 1.76
+
+Motocicletas y motonetas 1.76 1.76
+
+Bicicletas de motor 0.25 0.25
+
+IV. Por trámite de baja:
+
+TIPO Servicio Servicio
+
+Público Particular
+
+Automóviles, camiones y 1.76 1.26
+
+ómnibus
+
+Remolques 1.26 1.26
+
+Motocicletas y motonetas 1.26 1.26
+
+Bicicletas de motor 0.17 0.17
+
+V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
+
+Servicio Servicio
+
+Público Particular
+
+4.77 3.02
+
+VI. Otros servicios no especificados en este artículo:
+
+TIPO Servicio Servicio
+
+Público Particular
+
+Automóviles, camiones y 1.76 1.26
+
+ómnibus
+
+Remolques 1.51 1.26
+
+Motocicletas y motonetas 1.26 1.26
+
+Bicicletas de motor 0.17 0.17
+
+###### ARTICULO 65.
+
+De conformidad con los convenios celebrados con la Federación, en materia de coordinación fiscal, se establece para los propietarios de vehículos automotores domiciliados en el Estado, la obligación de inscribir sus unidades en el Registro Estatal Vehicular, para lo cual presentarán en la Oficina Recaudadora de su elección, dentro de los plazos y mediante las formas que establezca la Secretaría de Finanzas, las solicitudes de registro vehicular y los correspondientes avisos posteriores, por modificación, baja o por cualquier otra razón que reforme el registro original.
+
+###### ARTICULO 66.
+
+La expedición de licencias o permisos para conducir vehículos, causará los siguientes derechos, expresados en salarios mínimos:
+
+I. Licencias:
+
+a. Automovilista
+
+Con vigencia de un año 6.35
+
+Por cada año subsecuente, hasta cuatro años 3.51
+
+b. Chofer de Servicio Particular
+
+Vigencia un año 6.85
+
+Por cada año subsecuente, hasta cuatro años 4.02
+
+c. Chofer de Servicio Público
+
+1. Tipo "A", Transporte de carga y carga
+
+ligera, el primer año 8.25
+
+Por cada año subsecuente, hasta cuatro años 4.52
+
+2. Tipo "B", Taxis y colectivos ligeros, el primer
+
+año 8.36
+
+Por cada año subsecuente, hasta cuatro años 5.53
+
+3. Tipo "C", Transporte Urbano y Turismo,
+
+por el primer año 9.37
+
+Por cada año subsecuente, hasta cuatro años 6.54
+
+d. Conductor de motocicleta o motoneta
+
+Con vigencia de un año 5.34
+
+Por cada año subsecuente, hasta cuatro años 2.51
+
+II. Permisos para aprendizaje de manejo, los que se otorgarán por mes:
+
+A personas mayores de dieciocho años 5.03
+
+A personas menores de dieciocho años 7.53
+
+III. Por la expedición de permisos para manejar, con vigencia de seis meses, a personas menores de dieciocho años pero mayores de dieciséis, se pagarán 6.35; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
+
+###### ARTICULO 67.
+
+El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
+
+I. Tratándose de bebidas con contenido alcohólico no mayor de 6° Gay Lussac, para los establecimientos que se localicen en los municipios de, San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
+
+Permiso Refrendo
+
+Inicial Anual
+
+a) Almacenes distribuidores o
+
+agencias 129.53 32.38
+
+b) Bares 129.53 32.38
+
+c) Billares 100.00 25.00
+
+d) Cervecerías 129.53 32.38
+
+e) Pulquerías 129.53 32.38
+
+f) Cabarets, discotecas y ladies
+
+bar 180.00 85.00
+
+g) Depósitos de cerveza 129.53 32.38
+
+h) Mini Súper 65.00 15.00
+
+i) Abarrotes, tiendas, misceláneas
+
+y tendajones 65.00 15.00
+
+j) Supermercados 80.00 20.00
+
+k) Restaurante 100.00 25.00
+
+l) Fondas, cafés, cenadurías,
+
+taquerías, antojitos y similares 90.00 23.00
+
+m) Centros o clubes sociales,
+
+deportivos o recreativos 100.00 25.00
+
+n) Otros (salones de fiesta, centros
+
+sociales o de Convenciones que
+
+se renten para eventos; Estadios,
+
+arenas de box o lucha libre,
+
+boliches, etc.) 100.00 25.00
+
+Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fracción I.
+
+II. Tratándose de bebidas con contenido mayor de 6 grados Gay Lussac, se cobrará, para los que se localicen en los municipios de, San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
+
+Permiso Refrendo
+
+Inicial Anual
+
+a) Destilerías 647.67 64.76
+
+b) Almacenes 647.67 64.76
+
+c) Bares 647.67 64.76
+
+d) Billares 647.67 64.76
+
+e) Cabarets, discotecas y ladies
+
+bar 665.00 130.00
+
+f) Licorerías o vinaterías 647.67 64.76
+
+g) Depósitos 647.67 64.76
+
+h) Mini Súper 440.00 50.00
+
+i) Abarrotes, tiendas, misceláneas
+
+y tendajones 324.00 33.00
+
+j) Supermercados 500.00 60.00
+
+k) Restaurante y restaurante bar 647.67 64.76
+
+l) Fondas, cafés, cenadurías,
+
+taquerías, antojitos y similares 400.00 40.00
+
+m) Hoteles y moteles 647.67 64.76
+
+n) Centros o clubes sociales,
+
+deportivos o recreativos 324.00 33.00
+
+o) Otros 200.00 40.00
+
+Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
+
+Se entenderá que cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 6 grados Gay Lussac, si también las vendiere con contenido no mayor de 6 grados Gay Lussac, ya no se requerirá el permiso municipal.
+
+El Estado podrá convenir con los municipios, en los términos del artículo 8 de la Ley de Bebidas Alcohólicas, la coordinación respectiva para que sean los Ayuntamientos los que otorguen este permiso o refrendo.
+
+###### ARTICULO 68.
+
+Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades y de negociaciones mercantiles, industriales o de servicio.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2003)</small>
+
+En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
+
+###### ARTICULO 69.
+
+Por los avalúos que practique la Dirección de Catastro se pagarán sobre los montos valuados:
+
+Hasta $100,000.00, 1.5 al millar.
+
+De más de $100,000.00, 2.0 al millar.
+
+La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos. Cuando sean avalúos de predios fuera de las cabeceras municipales, se incrementará en un 10% la tarifa aplicada, más el importe de los gastos de traslado.
+
+Tratándose de avalúo para adquisición de vivienda de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
+
+En este caso, los contribuyentes deberán comprobar, a satisfacción de la autoridad fiscal, el carácter de interés social o popular de la vivienda objeto de los derechos citados.
+
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
@@ -1011,302 +1309,6 @@ Los comprobantes de pago que se expidan en dichas casetas serán idóneos para a
 
 La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
 
-###### ARTICULO 64.
-
-Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en salarios mínimos:
-
-I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente:
-
-TIPO Servicio Servicio
-
-Público Particular
-
-a) Automóviles, camiones y 12.90 10.31
-
-Ómnibus
-
-b) Remolques 6.62 6.62
-
-c) Motocicletas y motonetas
-
-hasta de 350 c.c. de cilindro 3.10 3.10
-
-d) Motocicletas y motonetas 4.23 4.23
-
-de más de 350 c.c. de cilindro
-
-e) Bicicletas de motor 0.42 0.42
-
-f) Placas de demostración (sin 15.50 15.50
-
-calcomanía) cuota anual
-
-Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
-
-II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
-
-TIPO Servicio Servicio
-
-Público Particular
-
-Automóviles, camiones y 0.17 0.13
-
-ómnibus
-
-Remolque 0.13 0.13
-
-Motocicletas y motonetas 0.09 0.09
-
-Bicicletas de motor 0.04 0.04
-
-III. Reposición de tarjeta de circulación, con igual vigencia a la de las placas, la que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción.
-
-TIPO Servicio Servicio
-
-Público Particular
-
-Automóviles, camiones y 2.39 1.76
-
-ómnibus
-
-Remolques 1.76 1.76
-
-Motocicletas y motonetas 1.76 1.76
-
-Bicicletas de motor 0.25 0.25
-
-IV. Por trámite de baja:
-
-TIPO Servicio Servicio
-
-Público Particular
-
-Automóviles, camiones y 1.76 1.26
-
-ómnibus
-
-Remolques 1.26 1.26
-
-Motocicletas y motonetas 1.26 1.26
-
-Bicicletas de motor 0.17 0.17
-
-V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
-
-Servicio Servicio
-
-Público Particular
-
-4.77 3.02
-
-VI. Otros servicios no especificados en este artículo:
-
-TIPO Servicio Servicio
-
-Público Particular
-
-Automóviles, camiones y 1.76 1.26
-
-ómnibus
-
-Remolques 1.51 1.26
-
-Motocicletas y motonetas 1.26 1.26
-
-Bicicletas de motor 0.17 0.17
-
-###### ARTICULO 65.
-
-De conformidad con los convenios celebrados con la Federación, en materia de coordinación fiscal, se establece para los propietarios de vehículos automotores domiciliados en el Estado, la obligación de inscribir sus unidades en el Registro Estatal Vehicular, para lo cual presentarán en la Oficina Recaudadora de su elección, dentro de los plazos y mediante las formas que establezca la Secretaría de Finanzas, las solicitudes de registro vehicular y los correspondientes avisos posteriores, por modificación, baja o por cualquier otra razón que reforme el registro original.
-
-###### ARTICULO 66.
-
-La expedición de licencias o permisos para conducir vehículos, causará los siguientes derechos, expresados en salarios mínimos:
-
-I. Licencias:
-
-a. Automovilista
-
-Con vigencia de un año 6.35
-
-Por cada año subsecuente, hasta cuatro años 3.51
-
-b. Chofer de Servicio Particular
-
-Vigencia un año 6.85
-
-Por cada año subsecuente, hasta cuatro años 4.02
-
-c. Chofer de Servicio Público
-
-1. Tipo "A", Transporte de carga y carga
-
-ligera, el primer año 8.25
-
-Por cada año subsecuente, hasta cuatro años 4.52
-
-2. Tipo "B", Taxis y colectivos ligeros, el primer
-
-año 8.36
-
-Por cada año subsecuente, hasta cuatro años 5.53
-
-3. Tipo "C", Transporte Urbano y Turismo,
-
-por el primer año 9.37
-
-Por cada año subsecuente, hasta cuatro años 6.54
-
-d. Conductor de motocicleta o motoneta
-
-Con vigencia de un año 5.34
-
-Por cada año subsecuente, hasta cuatro años 2.51
-
-II. Permisos para aprendizaje de manejo, los que se otorgarán por mes:
-
-A personas mayores de dieciocho años 5.03
-
-A personas menores de dieciocho años 7.53
-
-III. Por la expedición de permisos para manejar, con vigencia de seis meses, a personas menores de dieciocho años pero mayores de dieciséis, se pagarán 6.35; y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
-
-###### ARTICULO 67.
-
-El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
-
-I. Tratándose de bebidas con contenido alcohólico no mayor de 6° Gay Lussac, para los establecimientos que se localicen en los municipios de, San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
-
-Permiso Refrendo
-
-Inicial Anual
-
-a) Almacenes distribuidores o
-
-agencias 129.53 32.38
-
-b) Bares 129.53 32.38
-
-c) Billares 100.00 25.00
-
-d) Cervecerías 129.53 32.38
-
-e) Pulquerías 129.53 32.38
-
-f) Cabarets, discotecas y ladies
-
-bar 180.00 85.00
-
-g) Depósitos de cerveza 129.53 32.38
-
-h) Mini Súper 65.00 15.00
-
-i) Abarrotes, tiendas, misceláneas
-
-y tendajones 65.00 15.00
-
-j) Supermercados 80.00 20.00
-
-k) Restaurante 100.00 25.00
-
-l) Fondas, cafés, cenadurías,
-
-taquerías, antojitos y similares 90.00 23.00
-
-m) Centros o clubes sociales,
-
-deportivos o recreativos 100.00 25.00
-
-n) Otros (salones de fiesta, centros
-
-sociales o de Convenciones que
-
-se renten para eventos; Estadios,
-
-arenas de box o lucha libre,
-
-boliches, etc.) 100.00 25.00
-
-Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fracción I.
-
-II. Tratándose de bebidas con contenido mayor de 6 grados Gay Lussac, se cobrará, para los que se localicen en los municipios de, San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
-
-Permiso Refrendo
-
-Inicial Anual
-
-a) Destilerías 647.67 64.76
-
-b) Almacenes 647.67 64.76
-
-c) Bares 647.67 64.76
-
-d) Billares 647.67 64.76
-
-e) Cabarets, discotecas y ladies
-
-bar 665.00 130.00
-
-f) Licorerías o vinaterías 647.67 64.76
-
-g) Depósitos 647.67 64.76
-
-h) Mini Súper 440.00 50.00
-
-i) Abarrotes, tiendas, misceláneas
-
-y tendajones 324.00 33.00
-
-j) Supermercados 500.00 60.00
-
-k) Restaurante y restaurante bar 647.67 64.76
-
-l) Fondas, cafés, cenadurías,
-
-taquerías, antojitos y similares 400.00 40.00
-
-m) Hoteles y moteles 647.67 64.76
-
-n) Centros o clubes sociales,
-
-deportivos o recreativos 324.00 33.00
-
-o) Otros 200.00 40.00
-
-Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
-
-Se entenderá que cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 6 grados Gay Lussac, si también las vendiere con contenido no mayor de 6 grados Gay Lussac, ya no se requerirá el permiso municipal.
-
-El Estado podrá convenir con los municipios, en los términos del artículo 8 de la Ley de Bebidas Alcohólicas, la coordinación respectiva para que sean los Ayuntamientos los que otorguen este permiso o refrendo.
-
-###### ARTICULO 68.
-
-Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades y de negociaciones mercantiles, industriales o de servicio.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2003)</small>
-
-En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
-
-###### ARTICULO 69.
-
-Por los avalúos que practique la Dirección de Catastro se pagarán sobre los montos valuados:
-
-Hasta $100,000.00, 1.5 al millar.
-
-De más de $100,000.00, 2.0 al millar.
-
-La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos. Cuando sean avalúos de predios fuera de las cabeceras municipales, se incrementará en un 10% la tarifa aplicada, más el importe de los gastos de traslado.
-
-Tratándose de avalúo para adquisición de vivienda de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
-
-En este caso, los contribuyentes deberán comprobar, a satisfacción de la autoridad fiscal, el carácter de interés social o popular de la vivienda objeto de los derechos citados.
-
-### CAPITULO VI. OTROS SERVICIOS
-
 ###### ARTICULO 70.
 
 Las concesiones para servicio público de transporte de personas, de carga, mixto, automóviles de alquiler y otros, o su adjudicación por herencia, causarán los siguientes derechos que se expresan en salarios mínimos, por cada uno:
@@ -1483,8 +1485,6 @@ Por el servicio de laboratorio en el análisis de muestras industriales, se cubr
 
 Se impondrá una multa de 1,675.72 salarios mínimos por infracciones derivadas de denuncias populares o visitas de verificación en materia de impacto ambiental y de 837.86 salarios mínimos diarios por violaciones a la ley respectiva, detectadas a través de inspección.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
-
 ### CAPITULO UNICO
 
 ###### ARTICULO 91.
@@ -1506,6 +1506,8 @@ IV. Copias fotostáticas simples de códigos, decretos, leyes, y demás document
 ###### ARTICULO 93.
 
 Todos los derechos previstos en esta Ley se incrementarán en un 10% adicional, cuyo importe se destinará íntegramente al apoyo de instituciones de asistencia social a la población. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará trimestralmente al Congreso del Estado sobre las sumas recaudadas y su aplicación, independientemente de que lo haga en las cuentas públicas correspondientes.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
 
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
 
@@ -1980,3 +1982,9 @@ TERCERO. La recaudación de los derechos que se establecen se realizará a parti
 CUARTO. Para efectos de realizar en julio de 2003 la primera actualización del monto de los derechos por el uso de las carreteras a que este Decreto se refiere, se tomará como base el Indice Nacional de Precios al Consumidor de enero de 2003, en virtud de que los mencionados derechos están a precios de ese mes.
 
 QUINTO. Se amplían la Ley de Ingresos, y la Ley del Presupuesto de Egresos del Estado de San Luis Potosí para el ejercicio fiscal 2003, por el equivalente al monto que durante este año obtenga el Gobierno del Estado por la explotación de las carreteras a que este Decreto se refiere, facultándose al Ejecutivo del Estado a realizar las adecuaciones que procedan para el ejercicio del gasto conforme al párrafo final del artículo que se adiciona.
+
+P.O. 13 DE DICIEMBRE DE 2003.
+
+PRIMERO. Este Decreto entrará en vigor a partir del 1 de enero de 2004.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
