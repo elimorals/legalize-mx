@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-menores-infractores-en-el-estado-de-baja-california-30
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-24"
-last_updated: "1998-11-06"
+last_updated: "2004-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA MENORES INFRACTORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 24 de diciembre de 1993.
 
@@ -151,7 +151,7 @@ V.- Los Secretarios de Acuerdos de los Consejeros;
 
 VI.- Los Consejeros Auxiliares necesarios para la prestación de la función pública;
 
-VII.- La Unidad de Defensa de Menores; y
+VII.- (DEROGADA, P.O. 5 DE MARZO DE 2004)
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -161,11 +161,11 @@ VIII.- Un Representante Social por cada Consejería; y
 
 IX.- Las Unidades Técnicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 12.
 
-El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos, los miembros del Comité Técnico Interdisciplinario, los Secretarios de Acuerdos de los Consejeros, los Consejeros Auxiliares, los Representantes Sociales y los Defensores de Menores, deberán reunir y acreditar los siguientes requisitos:
+El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos, los miembros del Comité Técnico Interdisciplinario, los Secretarios de Acuerdos de los Consejeros, los Consejeros Auxiliares y, los Representantes Sociales, deberán reunir y acreditar los siguientes requisitos :
 
 I.- Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -173,17 +173,11 @@ II.- No haber sido condenados por delito intencional;
 
 III.- Poseer el título que corresponda a la función que desempeñen de acuerdo con la presente Ley, y que el mismo esté registrado ante el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social del Estado de Baja California;
 
-IV.- Tener conocimientos especializados en la materia de menores infractores, lo cual se acreditará con las constancias respectivas; y
+IV.- Tener conocimientos especializados en la materia de menores infractores, lo cual se acreditará con las constancias respectivas;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+V.- Deberán cumplir con una edad mínima, de veinticinco años y una máxima de sesenta y cinco años; a excepción del Presidente, Consejeros, Secretario General de Acuerdos, Coordinadores del Comité Técnico Interdisciplinario y de la Unidad de Protección al Ofendido, quienes deberán contar con una edad mínima de treinta años.
 
-V.- Deberán cumplir con una edad mínima, de veinticinco años y una máxima de sesenta y cinco años; a excepción del Presidente, Consejeros, Secretario General de Acuerdos, Coordinadores del Comité Técnico Interdisciplinario, de la Unidad de Defensa de Menores y de la Unidad de Protección al Ofendido, quienes deberán contar con una edad mínima de treinta años;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
-
-VI.- Deberán tener por lo menos tres años de ejercicio profesional, contados desde la fecha de autorización legal para el ejercicio de la misma;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+VI.- Deberán tener por lo menos tres años de ejercicio profesional, contados desde la fecha de autorización legal para el ejercicio de la misma; y
 
 VII.- Tener residencia mínima en el Estado de cinco años anteriores al día de su designación.
 
@@ -235,9 +229,11 @@ XVIII.- Vigilar la estricta observancia de la presente Ley y demás ordenamiento
 
 XIX.- Presidir los plenos del Consejo;
 
-XX.- Establecer los mecanismos para el cumplimiento de las atribuciones de la Unidad de Defensa de Menores y vigilar su buen funcionamiento;
+XX.- (DEROGADA, P.O. 5 DE MARZO DE 2004)
 
-XXI.- Rendir un informe mensual sobre las actividades realizadas por el Consejo de Menores, a la Dirección de Prevención y Readaptación Social; y,
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XXI.- Rendir un informe mensual sobre las actividades realizadas por el Consejo de Menores, a la Dirección de Prevención y Readaptación Social;
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -477,25 +473,27 @@ IV.- Los Secretarios de Acuerdos, por los consejeros auxiliares;
 
 V.- Los demás servidores públicos, por quien determine el Presidente del Consejo.
 
-### CAPITULO III. UNIDAD DE DEFENSA DE MENORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE MARZO DE 2004)</small>
+
+### CAPITULO III. DE LA DEFENSA DEL MENOR
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 28.
 
-La Unidad de Defensa de Menores es técnicamente autónoma del Consejo y dependiente de la Defensoría de Oficio del Estado, y tiene por objeto, en el ámbito de la prevención general y especial la defensa de los intereses legítimos y de los derechos de los menores ante el Consejo o cualquier otra autoridad administrativa o judicial.
+La defensa de los menores ante el Consejo de Menores o ante cualquier otra autoridad administrativa o judicial, estará a cargo de la Defensoría de Oficio del Estado de Baja California y tendrá por objeto la salvaguarda de sus intereses legítimos y de sus derechos.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 29.
 
-El titular de la Unidad será designado por el Director de Prevención y Readaptación Social.
+Los defensores de oficio adscritos al Consejo de Menores, serán designados por el titular de la Defensoría de Oficio en los términos de la Ley de la Defensoría de Oficio del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 30.
 
-La Unidad de Defensa de Menores estará a cargo de un titular y contará con el número de Defensores, así como con el personal técnico y administrativo que determine el presupuesto y sus funciones estarán señaladas en el Manual que al efecto se expida, conforme a lo siguiente:
-
-I.- La defensa general tiene por objeto defender y asistir a los menores, en los casos de violación de sus derechos en el ámbito de la prevención general;
-
-II.- La defensa procesal tiene por objeto la asistencia y defensa de los menores, en cada una de las etapas procesales; y
-
-III.- La defensa de los derechos de los menores en las fases de tratamiento y de seguimiento, tiene por objeto la asistencia y defensa jurídica de los menores durante las etapas de aplicación de las medidas de orientación, de protección, de tratamiento interno y externo, y en la fase de seguimiento.
+La Defensa de los menores será conforme a lo previsto en esta Ley y a lo dispuesto por la Ley de la Defensoría de Oficio del Estado de Baja California.
 
 ### CAPITULO IV. UNIDAD DE PROTECCION AL OFENDIDO
 
@@ -1316,3 +1314,9 @@ Los asuntos que se encuentren en trámite en la fecha en que entren en vigor est
 ###### ARTICULO TERCERO.
 
 Los Reglamentos del Comité Técnico y de los Centros de Tratamiento, deberán ser modificados de acuerdo a las reformas realizadas a la presente Ley, en un plazo no mayor de noventa días siguientes a la fecha en que entren en vigor.
+
+P.O. 5 DE MARZO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
