@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1921-05-21"
+last_updated: "1923-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 1923.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1281,13 +1281,17 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1923)</small>
+
 ###### Art. 2º.
 
-El territorio del Estado se divide en seis Municipalidades, que son: Amealco, Cadereyta, Jalpan, Querétaro, San Juan del Río y Tolimán.
+El territorio del Estado se divide en siete municipalidades, que son: Amealco, Cadereyta de Montes, Colón, Jalpan, Querétaro, San Juan del Río y Tolimán.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1923)</small>
 
 ###### Art. 3°.
 
-Las Municipalidades mencionadas en el artículo anterior, conservarán la misma extensión y límites que uvieron(sic) los antiguos Distritos de que se componía el Territorio del Estado, y las cabeceras de esas Municipalidades, serán las poblaciones de sus mismos nombres.
+Las municipalidades mencionadas en el artículo anterior, tendrán la extensión y límites que para el efecto se señale en la Ley Orgánica del Municipio Libre, siendo las cabeceras de esas municipalidades las poblaciones de sus mismos nombres.
 
 ###### Art. 3º.
 
@@ -1330,6 +1334,10 @@ P.O. 9 DE NOVIEMBRE DE 1918
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION , NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 21 DE MAYO DE 1921
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 30 DE JUNIO DE 1923
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
