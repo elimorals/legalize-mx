@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1974-12-23"
+last_updated: "1974-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -306,6 +306,14 @@ Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más d
 
 En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos del 27 al 30, los trabajadores recibirán salario íntegro; cuando el salario se pague por unidad de obra, se promediará el salario del último mes.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+Los trabajadores que presten servicios durante el día domingo, tendrán derecho a un pago adicional de un veinticinco porciento sobre el monto de su sueldo presupuestal de los días ordinarios de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+
+Los trabajadores que en los términos del artículo 30 de esta Ley disfruten de uno o de los dos períodos de diez días hábiles de vacaciones, percibirán una prima adicional de un veinticinco por ciento, sobre el sueldo presupuestal que les corresponda durante dichos períodos.
+
 ###### ARTICULO 41.
 
 El salario no es susceptible de embargo judicial o administrativo, fuera de lo establecido en el artículo 38.
@@ -396,7 +404,7 @@ I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para l
 
 II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal Federal de Conciliación y Arbitraje, resuelva que debe tener lugar el cese del trabajador.
 
-Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión mientras se practica la investigación y se resuelve sobre su cese.
+Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión mientras se práctica la investigación y se resuelve sobre su cese.
 
 ### CAPITULO VII
 
@@ -1219,3 +1227,9 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+Las presentes adiciones entrarán en vigor el día 1o. de enero de 1975.
