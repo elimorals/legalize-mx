@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-08-07"
+last_updated: "2004-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2991,9 +2991,13 @@ III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la fami
 
 IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman.
 
-713.- La declaración de que queda extinguido el patrimonio la hará el Juez competente, mediante el juicio sumario y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+713.- La declaración de que queda extinguido el patrimonio familiar la hará, en el juicio sumario, el juez competente y la comunicará al Registro Público de la Propiedad para que se hagan las cancelaciones correspondientes.
+
+En los casos previstos en las fracciones I, II y III del artículo 712, la declaración de los propietarios que desean extinguir el patrimonio familiar, también podrá hacerla el Notario Público, observando el procedimiento establecido en la Ley del Notariado. Dichas (sic) declaración la comunicará al Registro Público de la Propiedad para los efectos del primer párrafo de este artículo.
+
+Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo 712, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial o notarial, debiendo hacerse la cancelación que proceda en el Registro público de la Propiedad.
 
 714.- El precio del patrimonio expropiado o la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectos al patrimonio familiar, se depositarán en la Recaudación de Rentas respectiva a fin de dedicarlos a la constitución de un nuevo patrimonio familiar. Durante un año son inembargables el precio depositado y el importe del seguro.
 
@@ -4877,7 +4881,7 @@ Esta disposición no será aplicable cuando el testador, al adquirir la mayoría
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohíben la adquisición de esa clase de bienes.
+1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohiben la adquisición de esa clase de bienes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -4969,7 +4973,7 @@ Lo dispuesto en el párrafo anterior se aplicará también al heredero aparente,
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehúsa aceptar la cosa o el hecho.
+1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehusa aceptar la cosa o el hecho.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -7135,7 +7139,7 @@ Si se adjudica como cobrable un crédito, los coherederos no responden de la ins
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
 # LIBRO CUARTO. DE LAS OBLIGACIONES
 
@@ -10057,9 +10061,9 @@ I.- Por la revocación;
 
 II.- Por la renuncia del mandatario;
 
-III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por muere del mandatario;
+III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por muere del mandatario;
 
-IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por la interdicción del mandatario;
+IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por la interdicción del mandatario;
 
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
 
@@ -10075,7 +10079,7 @@ En estos casos tampoco puede el mandatario renunciar el poder.
 
 La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
 
-Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último está facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
+Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último esta facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
 
 2496.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario, ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 
@@ -12184,5 +12188,9 @@ P.O. 3 DE JULIO DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE AGOSTO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
