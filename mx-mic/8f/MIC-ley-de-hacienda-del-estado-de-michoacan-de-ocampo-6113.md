@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1994-12-29"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -69,11 +69,15 @@ Cuando en esta ley se tomen como base para el pago de los créditos fiscales a c
 
 #### Sección Primera. Del Objeto y del Sujeto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 5o.
 
-Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados que realicen las personas físicas, cuyo año modelo corresponda al de aplicación de la Ley de Ingresos y a los diez años anteriores al de la aplicación de dicha Ley, excepto quienes realicen actividades empresariales afectas al pago del Impuesto al Valor Agregado.
+Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados que realicen las personas físicas, cuyo año modelo corresponda al de aplicación de la Ley de Ingresos y a los nueve años anteriores al de aplicación de dicha Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Se exceptúa de lo dispuesto en el párrafo anterior, la enajenación de vehículos de motor usados por la que se cause el Impuesto al Valor Agregado.
 
 I. Para los efectos de este Impuesto, se considera enajenación de vehículos:
 
@@ -139,11 +143,15 @@ III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
 #### Sección Tercera. De la Tasa y de la Base
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 8o.
 
-La base para el pago del impuesto que regula este Capítulo, será el importe que establezca la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate, según la marca, línea, tipo y modelo del vehículo enajenado. El impuesto se calculará y pagará aplicando la tasa que dicha Ley señale.
+El impuesto se calculará y pagará aplicando la tasa del 2%, sobre el 80% del importe total consignado en la factura original que ampare la propiedad del vehículo de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Para efectos de pago del impuesto a que se refiere este Capítulo, tratándose de vehículos de procedencia extranjera, cuya estancia en el país esté debidamente legalizada, la base se determinará considerando el valor de cualquier vehículo de fabricación nacional equiparable, en los términos de la tabla de equivalencias publicada por la Secretaría de Hacienda y Crédito Público.
 
 #### Sección Cuarta. De las Obligaciones y del Pago
 
@@ -167,17 +175,17 @@ El propietario del vehículo está obligado a conservar por cinco años contados
 
 Los vehículos enajenados quedan afectos preferentemente al pago del impuesto que regula este Capítulo.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 12.
 
-Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto cuando éste se cause en los términos prescritos por este capítulo.
+Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o cambio de propietario de vehículos, por los cuales no se hubiese pagado el impuesto causado en los términos previstos por este capítulo.
 
 #### Sección Quinta. De las Exenciones
 
 ###### ARTICULO 13.
 
-Quedan exentos de este impuesto, la compra-venta, cesión o transmisión de derechos de vehículos de motor, que realicen los Gobiernos Federal, Estatal o Municipales.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1996)
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
@@ -185,35 +193,45 @@ Quedan exentos de este impuesto, la compra-venta, cesión o transmisión de dere
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado.
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. DEL IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+### CAPITULO II. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 #### Sección Primera. del Objeto
 
+> <small>(ADICIONADO, P.O. 30 DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 15.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
+Es objeto del impuesto sobre Loterías, Rifas, Sorteos y Concursos, la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública. Para los efectos de este Impuesto, no se considera como premio el reintegro correspondiente al billete que permitió participar en loterías.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-#### Sección Segunda. De los Sujetos
+#### Sección Segunda. Del Sujeto
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 16.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
+Son sujetos de este Impuesto las personas físicas o morales que obtengan ingresos derivados de premios por loterías, rifas, sorteos y concursos cuyo billete, boleto, contraseña o cualquier comprobante que permita participar en los eventos, le haya sido pagado dentro del territorio del Estado.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 17.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
+El Impuesto a que se refiere este capítulo, se determinará aplicando la tasa del 6% al monto total del ingreso por los premios obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna; que será retenido al momento de la entrega de los premios de que se trate, por los organismos descentralizados a que se refiere el artículo 15 de esta Ley, quienes lo enterarán a la Tesorería General del Estado, dentro de los primeros 15 días del mes siguiente, a aquel en que se hayan cobrado.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados formularán y proporcionarán a la Tesorería General del Estado, liquidaciones mensuales en las que se señalen los datos relativos a la identificación de los premios pagados e impuesto retenido en el territorio del Estado.
+
+De los ingresos que derivados de este Impuesto obtenga el Estado, participarán los municipios con un 80% distribuyéndoseles lo que a cada uno corresponda conforme a las reglas que determine el Congreso del Estado para la distribución de las participaciones en ingresos federales.
 
 ### CAPITULO III. IMPUESTO ADICIONAL PARA CARRETERAS Y CONSTRUCCION DE EDIFICIOS ESCOLARES
 
-#### Sección Tercera. De la Base
+#### Sección Tercera. De la Base, Tasa y Pago del Impuesto
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 18.
 
@@ -289,7 +307,7 @@ Es objeto del Impuesto adicional para carreteras y construcción de edificios es
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29.
 
@@ -301,7 +319,7 @@ De las Exenciones.
 
 ###### ARTICULO 30.
 
-La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el impuesto de los pagas por concepto de impuestos y derechos, excepto de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por inscripción de nacimientos, defunciones, y autorización de matrimonios celebrados en las oficinas de registro civil en horas hábiles, así como, aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo, en la Ley de Ingresos del Estado de Michoacán.
+La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el importe de los pagos por concepto de impuestos y derechos, excepto del Impuesto sobre Loterías, Rifas, Sorteos y Concursos y de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por inscripción de nacimientos, defunciones y autorización de matrimonios celebrados en las oficinas del registro civil en horas hábiles, así como, aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo vigente en el Estado de Michoacán, en la Ley de Ingresos del Estado.
 
 ###### ARTICULO 31.
 
@@ -687,7 +705,7 @@ III. Prestación de servicios, aquéllas que sea de índole mercantil, y
 
 IV. Comisión mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comitente; y mediación mercantil, la actividad que desarrolla el mediador para relacionar a los contratantes.
 
-Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
+Quedan comprendidas en esta fracción entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
 
 #### Sección Séptima. De las Rectificaciones
 
@@ -1185,7 +1203,9 @@ Las infracciones al presente capítulo se sancionarán de acuerdo con lo dispues
 
 Es objeto de este impuesto la producción o elaboración, la destilación, ampliación, mezcla o transformación de alcohol, aguardiente y otras bebidas alcohólicas, excepto cerveza.
 
-#### Sección Séptima. De las Infracciones y Sanciones
+#### Sección Séptima
+
+De las Infracciones y Sanciones.
 
 ###### ARTICULO 112.
 
@@ -2232,3 +2252,9 @@ El presente decreto entrará en vigor el día 1 de enero de 1995 mil novecientos
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a las presentes.
+
+P.O. 30 DE DICIEMBRE DE 1996.
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 1997, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
