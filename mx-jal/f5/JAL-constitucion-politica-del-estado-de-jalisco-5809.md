@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1991-08-20"
+last_updated: "1992-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -165,7 +165,9 @@ La circunscripción o circunscripciones plurinominales serán fijadas por el Con
 
 La elección de los catorce Diputados según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley Electoral.
 
-I. Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido político, con registro en el Estado, que alcance por lo menos el dos punto cinco por ciento del total de la votación emitida para esta elección, siempre que haya registrado candidatos cuando menos en siete distritos electorales uninominales;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1992)</small>
+
+I. Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido político NACIONAL REGISTRADO Y ACREDITADO EN EL ESTADO, que alcance por lo menos el dos punto cinco por ciento del total de la votación emitida para esta elección, siempre que haya registrado candidatos, cuando menos, en siete distritos electorales uninominales.
 
 II. El partido político que obtenga la mitad más una de las constancias de mayoría tendrá derecho a que se le asigne un Diputado de representación proporcional por cada siete por ciento del porcentaje de su votación. Ningún partido político podrá tener derecho a que se le reconozcan más de veinticuatro Diputados del total del Congreso del Estado;
 
@@ -217,13 +219,13 @@ Los Diputados no podrán ser reelectos para el periodo inmediato.
 
 Los Diputados Suplentes sólo podrán ser electos para el período inmediato con el carácter de propietarios siempre que no hubiesen estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el periodo inmediato con el carácter de Suplentes.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1992)</small>
 
 ### CAPITULO SEGUNDO. De la iniciativa y formación de las Leyes
 
 ###### Art. 12.
 
-El Congreso del Estado se instalará cada tres años, el día quince de marzo del año de la elección.
+El Congreso del Estado se instalará cada tres años, el día CATORCE de marzo del año de la elección.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1990)</small>
 
@@ -269,7 +271,9 @@ IV. A los Ayuntamientos, en asuntos del Ramo Municipal.
 
 Se anunciará al Ejecutivo con 1 o 3 días de anticipación, cuando haya de discutirse un proyecto de Ley, a fin de que pueda enviar al Congreso si lo juzga conveniente, un orador, que, sin voto, tome parte en los debates.
 
-En los mismos términos se mandará anuncio al Supremo Tribunal del Estado, en caso de que el proyecto se refiera a asuntos del Ramo de Justicia.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1992)</small>
+
+En los mismos términos se mandará anuncio al Supremo Tribunal de JUSTICIA del Estado, en el caso que el proyecto se refiera a asuntos del ramo de justicia.
 
 Los Ayuntamientos al mandar su iniciativa designarán su orador, si lo juzgan conveniente, el cual señalará domicilio en la población donde residan los Supremos Poderes del Estado para darle a saber el día en que aquella se discuta.
 
@@ -333,9 +337,9 @@ V. Crear y suprimir los empleos públicos.
 
 VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos y reconocer y mandar pagar las deudas que contraiga el Estado.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1992)</small>
 
-VII. Erigirse en Colegio Electoral, para efectuar el cómputo de los votos emitidos en la elección de munícipes para integrar los Ayuntamientos de la Entidad, incluyendo la asignación de los Regidores de Representación proporcional; asimismo, el cómputo de los votos emitidos en la elección de Gobernador; calificar dichas elecciones y declarar electos a los que hayan obtenido mayoría.
+VII. Erigirse en Colegio Electoral PARA HACER LA DECLARATORIA DE SENADORES ELECTOS POR EL ESTADO; para efectuar el cómputo de los votos emitidos en la elección de munícipes para integrar los Ayuntamientos de la Entidad incluyendo la asignación de los Regidores de representación proporcional; así mismo, el cómputo de los votos emitidos en la elección de Gobernador, calificar dichas elecciones y declarar electos a los que hayan obtenido mayoría.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
@@ -371,7 +375,9 @@ XIV. Aprobar o reprobar los convenios que el Gobernador celebre con los Estados 
 
 XV. Cambiar provisionalmente la residencia de los Poderes del Estado.
 
-XVI. Resolver las competencias y derimir (sic) las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal, salvo lo prevenido en los artículos 76, Fracción 8 y 105 de la Constitución Federal.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1992)</small>
+
+XVI. Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal de JUSTICIA, salvo lo prevenido en los artículos 76, fracción VI y 105 de la Constitución Federal.
 
 XVII. Conceder amnistía.
 
@@ -459,7 +465,9 @@ El ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador Substituto
 
 En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo, tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
 
-En las faltas temporales que excedan de quince días y en las absolutas, mientras que se verifique la elección y se presenta el nuevamente electo, entrará a ejercer interinamente el Poder Ejecutivo, el ciudadano que nombre el Congreso en escrutinio secreto, por mayoría absoluta de votos y obrando como Colegio Electoral. Entre tanto la Legislatura hace la designación, el despacho quedará a cargo del Secretario de Gobierno.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1992)</small>
+
+En las faltas temporales que excedan de treinta días y en las absolutas, mientras que se verifica la elección y se presenta el nuevamente electo, entrará a ejercer interinamente, el Poder Ejecutivo el Ciudadano que elija el Congreso, en escrutinio secreto, por mayoría absoluta de votos, y erigido en Colegio Electoral. Entre tanto la Legislatura hace la designación, el despacho quedará a cargo del Secretario General de Gobierno.
 
 Cuando la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo por designación de la Legislatura, seguirá encargada de él, hasta la conclusión del período.
 
@@ -507,13 +515,13 @@ I. Promulgar, ejecutar y hacer que se ejecuten las Leyes haciendo uso en su caso
 
 II. Presentar cada año al Congreso a más tardar el día 15 de noviembre, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, para el ejercicio fiscal venidero.
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1992)</small>
 
-III. Asistir a la apertura del primer período de sesiones ordinarias del Congreso y la de las extraordinarias a que hubiere convocado, para rendir en el primer caso, un informe general por escrito de la Administración Pública, y en el segundo para justificar su convocatoria.
+III. Asistir a la apertura del Primer Período de Sesiones Ordinarias del Congreso y, por sí o mediante escrito fundado, a la de las Extraordinarias a que hubiese convocado, para rendir, en el primer caso, un informe general por escrito de la Administración Pública; y en el segundo, para justificar su convocatoria.
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1992)</small>
 
-IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Tribunal sobre el de Justicia.
+IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al SUPREMO tribunal sobre el de Justicia.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 1932)</small>
 
@@ -703,11 +711,13 @@ La función jurisdiccional en materia administrativa, incluyendo la fiscal, esta
 
 La función jurisdiccional para resolver las controversias entre el Estado, los municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos con sus servidores, en sus relaciones de trabajo, estará a cargo del Tribunal de Arbitraje y Escalafón, con excepción de las controversias en materia de relaciones de trabajo de los servidores públicos pertenecientes al Poder Judicial a que se refiere el primer párrafo de este artículo, las que se regirán de conformidad con su Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1992)</small>
 
 ###### Art. 40.
 
-El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en salas, con el número de Magistrados que fije la Ley, y le corresponden las siguientes atribuciones:
+El Supremo Tribunal de Justicia funcionará en Acuerdo pleno o en Salas, con el número de Magistrados PROPIETARIOS Y SUPLENTES que fije la Ley, y le corresponden las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
 I. Conocer de todas las controversias del orden criminal, civil y de lo familiar;
 
@@ -715,15 +725,27 @@ I. Conocer de todas las controversias del orden criminal, civil y de lo familiar
 
 II. Resolver los conflictos de competencia que se susciten entre los Tribunales a que se refiere el primer párrafo del artículo anterior;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
+
 III. Formular su Reglamento Interior;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
 IV. Nombrar los jueces;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
+
 V. Permitir que se proceda criminalmente contra los jueces;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
 VI. Conceder licencias a los jueces para que se separen de sus cargos y admitir las renuncias de los mismos;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
+
 VII. Conceder licencias a los Magistrados hasta por dos meses, para que se separen del ejercicio de sus funciones, y llamar a los suplentes por el orden que crea conveniente; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
 VIII. Nombrar y remover, en la forma que determinen las leyes, a los demás servidores públicos del Poder Judicial.
 
@@ -837,15 +859,21 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 A culaquier (sic) ciudadano, bajo su más estricta responsabilidad, y aportando elementos de prueba, se les concede acción popular para denunciar, ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente artículo.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1992)</small>
 
 ###### Art. 49.
 
-Serán sujetos del juicio político los Diputados al Congreso del Estado, los Magistrados y Jueces de Primera Instancia, los Secretarios y Subsecretarios dependientes del Ejecutivo del Estado, el Tesorero, los Jefes o Directores de Departamentos Gubernamentales, el Procurador General de Justicia, los Munícipes, el Tesorero y el Secretario y Síndico de los Ayuntamientos, así como los Directores o sus equivalentes de Organismos Públicos Descentralizados y Empresas de Participación Estatal o Municipal Mayoritaria.
+Serán sujetos del juicio político los Diputados al Congreso del Estado, los Magistrados y Jueces de Primera Instancia, los Secretarios y Sub-Secretarios dependientes del Ejecutivo del Estado, los Jefes o Directores de Departamentos Gubernamentales, el Procurador General de Justicia, los Munícipes, el Tesorero y el Secretario y Síndico de los Ayuntamientos, así como los Directores o sus equivalentes de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 Las sanciones podrán ser la destitución o inhabilitación del Servidor Público para desempeñar funciones, empleos, cargos o comisiones, de culaquier (sic) naturaleza, en el Servicio Público.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+
 Para la aplicación de las sanciones a que se refiere este precepto, la Comisión de Responsabilidades del Congreso presentará su dictamen sobre la procedencia de la acusación y el Congreso, erigido en Jurado de Acusación, procederá a discutir y votar las conclusiones propuestas.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 El Congreso, erigido en Jurado de Sentencia, después de haber substanciado el procedimiento respectivo, con audiencia del inculpado, aplicará la sanción correspondiente, previa declaración de las dos terceras partes de los integrantes de la Legislatura, con la exclusión de los miembros de la Comisión de Responsabilidades.
 
@@ -1017,11 +1045,17 @@ Los periodos Ordinarios de Sesiones de la LII Legislatura serán del primero de 
 
 Art. 5º El Gobernador del Estado que se elija para el próximo periodo constitucional, tomará posesión de su cargo el primero de marzo de mil novecientos ochenta y nueve y durará en él hasta el día último de febrero de 1995.
 
-El Congreso del Estado designará, por única vez, un Gobernador Provisional, que ejercerá el cargo, del primero al último de marzo de 1995.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1992)</small>
+
+El Congreso del Estado, previa convocatoria oportuna de la Diputación Permanente y en Período Extraordinario de Sesiones, designará el día 20 de Febrero de 1995 al Gobernador Provisional, por única vez, que ejercerá el cargo del día primero al último de marzo de 1995, quien deberá reunir los requisitos establecidos en el artículo 27 Constitucional y, de aceptar el cargo, rendirá su protesta ante el mismo.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 Art. 6º Los Munícipes que se elijan para integrar la siguiente administración de los Ayuntamientos de la Entidad, iniciarán sus funciones el primero de enero de mil novecientos ochenta y nueve y durarán en su encargo hasta el día treinta de marzo de mil novecientos noventa y dos.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1992)</small>
+
+Art. 7º Por esta única vez y ante el Congreso en Sesión Extraordinaria a la cual deberá convocar la Diputación Permanente para ese propósito, el Titular del Poder Ejecutivo del Estado el día 15 de febrero de 1995, rendirá su Sexto Informe de la Administración Pública.
 
 Dado en el Salón de sesiones del Congreso del Estado, a ocho de julio de mil novecientos diecisiete.
 
@@ -1230,3 +1264,19 @@ P.O. 20 DE AGOSTO DE 1991.
 Artículo Primero. En tanto se expidan las nuevas normas reglamentarias en materia electoral, seguirá en vigor la Ley Electoral del Estado de Jalisco, contenida en el Decreto 12817, del veinticinco de octubre de mil novecientos ochenta y siete.
 
 Artículo Segundo. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 2 DE ENERO DE 1992.
+
+DECRETO NUMERO 14373.
+
+Artículo Primero. Remítase la documentación necesaria a los Honorables Ayuntamientos de la Entidad; para los efectos del Artículo 66 de la Constitución Política del Estado.
+
+Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, de la declaratoria de Ley correspondiente.
+
+P.O. 2 DE ENERO DE 1992.
+
+DECRETO NUMERO 14374 .
+
+Artículo Primero. Remítase la documentación necesaria a los Honorables Ayuntamientos de la Entidad, para los efectos del Artículo 66 de la Constitución Política del Estado.
+
+Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, de la declaratoria de Ley correspondiente.
