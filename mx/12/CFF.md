@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1993-03-01"
+last_updated: "1993-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 1993.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 1 DE MARZO DE 1993.
 
@@ -450,8 +450,6 @@ IV. La indemnización a que se refiere el antepenúltimo párrafo del artículo 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
@@ -525,8 +523,6 @@ Cuando los recargos determinados por el contribuyebnte (sic) sean inferiores a l
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO FRACCION I, DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -757,8 +753,6 @@ Los contribuyentes con local fijo tendrán obligación de registrar el valor de 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 La Secretaría de Hacienda y Crédito Público llevará el registro de los contribuyentes a quienes proporcione máquinas registradoras de comprobación fiscal y éstos deberán presentar los avisos y conservar la información que señale el reglamento de este Código.
-
-> <small>N. DE E. EL DECRETO DE FECHA 12 DE JULIO DE 1992, PUBLICADO EN EL D.O.F. EN CITA, REFORMA EL PRIMER PARRAFO DEL PRESENTE ARTICULO PARA ENTRAR EN VIGOR EL 1o. DE ENERO DE 1993. LO ANTERIOR SE SEÑALA EN EL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS LAS CUALES SE TRANSCRIBEN AL FINAL DEL TEXTO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
 
@@ -1489,16 +1483,6 @@ Las copias o reproducciones que deriven del microfilm o disco óptico de documen
 ###### Artículo 64.
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990 y 1991, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan las citadas facultades.
-
-> <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1993.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990, 1991 y 1992, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan la (sic) facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan la (sic) citadas facultades.
 
 > <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1994.</small>
 
@@ -2472,6 +2456,10 @@ El delito de contrabando se sancionará con pena de prisión:
 
 I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de $30,000,000.00.
 
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
+
+La misma pena se aplicará en los casos en que no se realice la declaración a que se refiere la fracción X del artículo 105 de este Código.
+
 > <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
 
 II. De tres a nueve años, si el monto de los impuestos omitidos excede de $30,000,000.00.
@@ -2513,6 +2501,14 @@ VIII. Enajene o adquiera por cualquier título, vehículos importados definitiva
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 IX. Retire de la aduana, envases que contengan bebidas alcohólicas que no tengan adheridos los marbetes a que obligan las disposiciones legales.
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 1993)</small>
+
+X. No declare en la aduana a la entrada al país, que lleva consigo cantidades en efectivo o en cheques, o una combinación de ambos, superiores a los N$60,000.00, o su equivalente en moneda extranjera.
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 1993)</small>
+
+XI. Introduzca mercancías a otro país desde el territorio nacional omitiendo el pago total o parcial de los impuestos al comercio exterior que en ese país correspondan.
 
 ###### Artículo 106.
 
@@ -5015,3 +5011,15 @@ D.O.F. 1 DE MARZO DE 1993.
 ###### ARTICULO UNICO.
 
 La presente Resolución entrara en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JULIO DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación,...
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las demás disposiciones que se opongan al presente.
