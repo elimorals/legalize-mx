@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1997-05-07"
+last_updated: "1999-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -2144,8 +2144,6 @@ Los cargos por los servicios que las instituciones para el depósito de valores 
 
 ### CAPITULO SEPTIMO. De los Procedimientos Para Proteger los Intereses del Público Inversionista
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
-
 ###### ARTICULO 86.
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
@@ -2154,143 +2152,11 @@ Los cargos por los servicios que las instituciones para el depósito de valores 
 
 ###### ARTICULO 87.
 
-En caso de controversias entre una casa de bolsa y sus clientes con motivo de la contratación de servicios u operaciones, quedará a elección del inversionista acudir en vía de reclamación ante la Comisión Nacional de Valores, previamente al ejercicio de la acción que proceda ante los tribunales competentes. Las casas de bolsa estarán obligadas, invariablemente, a acudir a la vía de reclamación antes de ejercitar cualquier acción procesal en contra de su clientela, salvo el caso de reconvención. El procedimiento conciliatorio y el arbitraje previstos en este artículo se sujetarán a las reglas que a continuación se señalan:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-I.- El procedimiento conciliatorio en la vía de reclamación se deberá agotar, de conformidad con las reglas que a continuación se señalan:
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-a) El reclamante presentará mediante escrito por duplicado ante la Comisión Nacional de Valores su reclamación, precisando los actos u operaciones que impugna y las razones que tiene para hacerlo. Con la copia del escrito de reclamación se correrá traslado a la otra parte.
-
-La Comisión Nacional de Valores podrá solicitar que la reclamación sea aclarada, cuando se presente de manera vaga, general o confusa.
-
-La presentación de la reclamación interrumpirá la prescripción a que se encuentran sujetas las acciones de carácter mercantil o civil que sean procedentes.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-b) La otra parte, dentro del término de nueve días hábiles, contado a partir de aquél en que sea notificado, rendirá un informe por escrito y en duplicado a la Comisión Nacional de Valores, en el que contestará en forma detallada todos y cada uno de los hechos a que se refiere la reclamación y que deberá ser suscrito en lo personal o por conducto de un representante legítimo.
-
-La Comisión Nacional de Valores podrá solicitar que cuando el informe no satisfaga lo dispuesto en el párrafo anterior, cumpla con el requisito de que se contesten en forma detallada todos y cada uno de los hechos reclamados.
-
-La falta del informe cuando corresponda rendirlo al inversionista, se entenderá como no aceptación de la conciliación.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-c) La Comisión citará a las partes a una junta de avenencia, que se realizará dentro de los treinta días contados a partir de la fecha de presentación de la reclamación; si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días siguientes.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-Si no comparece el inversionista reclamante, sin causa justificada, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias a juicio arbitral, siendo improcedente presentar nueva reclamación sobre el mismo caso.
-
-(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
-
-d) El procedimiento conciliatorio se tendrá por agotado si cualquiera de las partes no concurre a la junta de avenencia, si al concurrir a la junta relativa argumentan su voluntad de no conciliar, o bien, si concilian sus diferencias. La Comisión Nacional de Valores levantará acta en la que se hará constar cualquiera de estas circunstancias y la terminación del procedimiento de conciliación.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-e) En la junta de avenencia se exhortará a las partes a conciliar sus intereses, y si esto no fuera posible, la Comisión las invitará a que voluntariamente y de común acuerdo designen para resolver su controversia a alguno de los árbitros que les proponga la Comisión, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o en juicio arbitral de estricto derecho.
-
-El compromiso arbitral se hará constar en el acta a que se refiere el inciso anterior.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-II.- En el juicio arbitral en amigable composición de manera breve y concisa, se fijarán ante el árbitro las cuestiones que deberán ser objeto de arbitraje, las que deberán corresponder a los hechos controvertidos en la respectiva reclamación e informe presentados a la Comisión.
-
-El árbitro propondrá a las partes las reglas para la substanciación del juicio, respecto de las cuales las partes deberán manifestar su conformidad. No habrá incidentes y la resolución sólo admitirá aclaraciones de la misma, a instancia de parte, presentada dentro de los tres días hábiles siguientes al de la notificación.
-
-El árbitro resolverá en conciencia, a verdad sabida y buena fe guardada, sin sujeción a formalidades especiales, pero observando las esenciales del procedimiento.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-III.- El juicio arbitral de estricto derecho se apegará al procedimiento que convencionalmente determinen las partes mediante pacto celebrado ante el árbitro, fijando las reglas para tal efecto; aplicándose supletoriamente el Código de Comercio, salvo su artículo 1419; a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal.
-
-(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
-
-Las notificaciones relativas al traslado de la reclamación, a la citación a la junta de avenencia, de la demanda y del laudo, deberán hacerse personalmente o por correo certificado con acuse de recibo y surtirán efectos al día siguiente de su notificación.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-Con independencia de lo anterior, en el compromiso arbitral de estricto derecho regirán los siguientes términos:
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-a) Nueve días tanto para la presentación de la demanda, a partir del día siguiente de la celebración del compromiso, así como para producir la contestación a partir del día siguiente del emplazamiento a juicio.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-b) El árbitro dentro de los nueve días siguientes al vencimiento del último plazo señalado en el inciso anterior, dictará acuerdo fijando el término que crea suficiente para el ofrecimiento, admisión, recepción y desahogo de las pruebas, no pudiendo exceder de cuarenta días.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-c) Diez días comunes a las partes para formular alegatos.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-d) Diez días para los demás casos.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-Los términos serán improrrogables y se computarán en días hábiles y las notificaciones que no sean personales se harán a las partes en la forma convenida en el pacto arbitral, y empezarán a surtir sus efectos al día siguiente de que se realicen.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el procedimiento su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-IV.- El árbitro tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido a arbitraje. Para el ejercicio de esta facultad, podrá solicitar información documental sobre el caso concreto a la Comisión Nacional de Valores, sin que esto afecte el principio consagrado por el artículo 25 de esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-V.- En el juicio arbitral de estricto derecho, el laudo sólo admitirá aclaración a instancia de parte, presentada dentro de los tres días hábiles siguientes al de la notificación.
-
-> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-Todas las demás resoluciones en el juicio arbitral de estricto derecho, admitirán como único recurso el de revocación.
-
-VI.- (DEROGADA, D.O.F. 4 DE ENERO DE 1990)
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-VII.- El laudo que condene a una casa de bolsa, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de su notificación. Cuando sea impugnado conforme a la legislación aplicable y la resolución judicial que lo confirme haya causado estado, persistiéndose en su incumplimiento, la Comisión Nacional de Valores impondrá a la casa de bolsa una multa hasta por el importe de lo condenado; en caso de incumplimientos reiterados, la propia Comisión podrá suspender o proponer a la Secretaría de Hacienda y Crédito Público que se cancele la inscripción en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios.
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-VIII.- Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación, o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de la ejecución de una u otra resolución.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro conforme a este artículo, el reclamante podrá ocurrir desde luego a los tribunales competentes.
-
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-X.- La Comisión Nacional de Valores, en todo lo no previsto expresamente por la fracción I de este precepto, proveerá las medidas necesarias para el mejor desarrollo del procedimiento conciliatorio.
-
-El incumplimiento por parte de una casa de bolsa a los acuerdos dictados por la Comisión Nacional de Valores dentro del procedimiento conciliatorio, se sancionará por la propia Comisión con multa administrativa de cien a tres mil días de salario mínimo general vigente en el Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-Lo dispuesto en este artículo será igualmente aplicable a las controversias que puedan derivarse con motivo de la contratación de servicios u operaciones de los especialistas bursátiles.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ###### ARTICULO 88.
 
-Para ser designado árbitro por la Comisión Nacional de Valores, se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
-
-II.- No tener menos de treinta y cinco años cumplidos el día de su designación;
-
-III.- Poseer título profesional de licenciado en derecho, registrado ante la autoridad competente;
-
-IV.- Tener cuando menos cinco años de práctica legal en el mercado de valores;
-
-V.- Haber residido en el país, durante los últimos tres años anteriores a su designación y
-
-VI.- Gozar de buena reputación y de honorabilidad comprobada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -3085,3 +2951,13 @@ D.O.F. 7 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos.87 y 88 de la Ley del Mercado de Valores., así como las demás disposiciones que se opongan a la presente Ley.
+
+DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
