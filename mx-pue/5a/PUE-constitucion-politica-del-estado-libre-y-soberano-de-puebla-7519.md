@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1997-02-14"
+last_updated: "2000-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -55,41 +55,7 @@ El Estado de Puebla es una entidad jurídica y política, organizada conforme a 
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa el Municipio libre.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
-
-###### Artículo 3º.
-
-El Pueblo ejerce su soberanía por medio de los Poderes del Estado, en la forma y términos que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-La renovación de los Poderes Legislativo y Ejecutivo de los Ayuntamientos, se verificará por medio de elecciones, mediante sufragio universal, libre, secreto y directo, cuya organización es una función Estatal encomendada a un organismo de carácter público, permanente, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio denominado Comisión Estatal Electoral. En el ejercicio de esa función, la legalidad, imparcialidad, objetividad, certeza e independencia serán principios rectores.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-El Código Electoral del Estado de Puebla, regulará el ejercicio de los derechos y obligaciones de los ciudadanos y Partidos Políticos; determinará las prerrogativas que tendrán estos últimos, debiendo recibir en forma equitativa, financiamiento público para el sostenimiento de sus actividades ordinarias, además de contar con apoyos para sus actividades tendientes a la obtención del sufragio universal; de igual manera dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará la composición, requisitos de sus integrantes, elección de los mismos y atribuciones de los organismos electorales; establecerá un sistema simplificado de medios de impugnación de los que conocerá el organismo superior denominado Comisión Estatal Electoral y un Tribunal Estatal Electoral. Dicho Sistema de medios de impugnación dará definitividad a las distintas etapas de los procesos electorales, debiendo ser resueltos en lo plazos que para tal efecto señale la Ley Electoral de la materia y garantizará que los actos y resoluciones de los organismos electorales, se sujeten invariablemente al respeto y cumplimiento de las garantías de audiencia y de legalidad.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-La Comisión Estatal Electoral se integrará por siete Consejeros Ciudadanos, y concurrirán con voz pero sin voto, los Comisionados del Poder Legislativo, los representantes de los Partidos Políticos y el Secretario Técnico, en los términos que establezca el Código Electoral del Estado.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-Los Consejeros Ciudadanos y el Secretario Técnico deberán satisfacer los requisitos que señala el Código Electoral del Estado. Los Consejeros Ciudadanos serán nombrados por el Congreso del Estado, mediante el procedimiento de consenso, mayoría calificada o insaculación, según sea necesario, de entre los ciudadanos que propongan los Partidos Políticos, conforme al mismo procedimiento se elegirán siete Consejeros Ciudadanos Suplentes. Los Consejeros Ciudadanos durarán en cargo siete años.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-El Secretario Técnico será nombrado por la Comisión Estatal Electoral a propuesta en terna de su Presidente. El Código Electoral del Estado señalará las reglas y los procedimientos correspondientes.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-Los Comisionados del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en la Cámara de Diputados, sólo habrá un Comisionado por cada grupo parlamentario.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-El Tribunal Estatal Electoral será órgano autónomo e independiente, máxima autoridad jurisdiccional electoral. Tendrá la organización y competencia que el Código Electoral del Estado determine para resolver en forma definitiva y firme las impugnaciones que se presenten en materia electoral, en los términos de esta Constitución y del Código Electoral del Estado de Puebla.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 2°.
 
@@ -97,17 +63,79 @@ Por el término de diez años no podrán ser electos para el desempeño de ning�
 
 ###### Artículo 3°.
 
-La XXIV Legislatura del Estado, comenzará a funcionar el día 1°. de enero de 1919.
+El pueblo ejerce su soberanía por medio de los Poderes del Estado, en la forma y términos que establecen la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-###### Artículo 4.
+La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizará por medio de elecciones periódicas, con la participación corresponsable de los ciudadanos y de los partidos políticos. El instrumento único de expresión de la voluntad popular es el voto universal, libre, secreto, directo e intransferible.
 
-Los Partidos Políticos son entidades de interés público que tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los Partidos Políticos.
+El Instituto Electoral del Estado podrá, mediante convenio con los Ayuntamientos que así lo soliciten, coadyuvar en la elección de las autoridades municipales auxiliares, en términos de la legislación aplicable.
 
-El Código Electoral del Estado determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento. Los Partidos Políticos deberán rendir informes financieros, mismos que serán públicos.
+La elección de Diputados por ambos principios, de Gobernador y de miembros de Ayuntamientos en el Estado, se regulará conforme a lo siguiente:
 
-De acuerdo con las disponibilidades presupuestales, los Partidos Políticos recibirán, en forma equitativa financiamiento público para su sostenimiento y para que durante los procesos electorales cuenten con apoyos para sus actividades tendientes a la obtención del sufragio universal; para efecto del financiamiento público el 30% de la cantidad total se entregará entre los Partidos Políticos e forma igualitaria y el 70 % restante se distribuirá entre los mismos de acuerdo con el procentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior. El Código Electoral del Estado fijará los criterios para determinar los límites a las erogaciones de sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten. El Código Electoral del Estado establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+I.- El Código de Instituciones y Procesos Electorales del Estado de Puebla, determinará las etapas del proceso electoral y la forma de participación de los ciudadanos en el mismo. Además, dispondrá los derechos, prerrogativas y obligaciones de los partidos políticos, así como un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
-El Código Electoral del Estado propiciará condiciones de equidad para el acceso de los Partidos Políticos a los medios de comunicación social.
+II.- El Instituto Electoral del Estado será el organismo público, de carácter permanente, autónomo e independiente, con personalidad jurídica y patrimonio propios, al que se le encomendará la función estatal de organizar las elecciones. En el ejercicio de estas funciones serán principios rectores de legalidad, la imparcialidad, la objetividad, la certeza y la independencia. Además tendrá a su cargo, en los términos de esta Constitución y de la ley respectiva, la organización de los procesos de plebiscito y referéndum.
+
+Los órganos del Instituto estarán integrados invariablemente por ciudadanos, quienes de manera exclusiva, con su voto, tomarán las decisiones del organismo; los partidos políticos y el Poder Legislativo, en los términos que prescriban las disposiciones legales relativas.
+
+El Instituto deberá vigilar en el ámbito electoral el cumplimiento de las disposiciones de esta Constitución y sus correspondientes reglamentarias, que garanticen el derecho de organización y participación política de los ciudadanos; contribuir al desarrollo de la vida democrática; garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y de miembros de los Ayuntamientos del Estado, asegurar el ejercicio de los derechos político-electorales de los ciudadanos y de los partidos políticos, vigilando el cumplimiento de sus obligaciones; vigilar la autenticidad y efectividad del voto; preservar el fortalecimiento del régimen de partidos políticos y coadyuvar en la promoción y difusión de la cultura política y la educación cívica.
+
+El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios de legalidad, imparcialidad, objetividad, certeza e independencia guíen todas las actividades del Instituto.
+
+El Consejo General se reunirá en la segunda semana del mes de marzo del año de la elección para declarar el inicio del proceso electoral.
+
+El Consejo General del Instituto se integrará por:
+
+a) Un Consejero Presidente con derecho a voz y voto, el que contará, en caso de empate, con voto de calidad;
+
+b) Ocho Consejeros Electorales con derecho a voz y voto;
+
+c) Un representante del Poder Legislativo por cada uno de los partidos políticos que integran el Congreso del Estado con derecho a voz y sin voto;
+
+d) Un representante de partido por cada uno de los partidos políticos con registro, previa acreditación, con derecho a voz y sin voto;
+
+e) El Secretario General del Instituto, quien es también el Secretario del Consejo General, con derecho a voz y sin voto;
+
+f) El Director General del Instituto, con derecho a voz y sin voto; y
+
+g) El Vocal Estatal del Registro Federal de Electores del Instituto Federal Electoral, con derecho a voz y sin voto, quien puede asistir a las sesiones del Consejo General con el único propósito de rendir informe sobre los trabajos realizados por el órgano a su cargo, previa su convocatoria por el Consejero Presidente del Consejo General.
+
+La designación del Consejero Presidente y de los Consejeros Electorales a los que se refieren los incisos anteriores de este artículo es responsabilidad exclusiva de la Legislatura del Estado. Serán nombrados por consenso o por mayoría calificada de los miembros del Congreso presentes, en ese orden de prelación, de entre las propuestas que realice la sociedad civil y los Grupos Parlamentarios con representación en el Congreso del Estado y conforme a las reglas que establezca el Código.
+
+Los Consejeros Electorales y el Consejero Presidente deberán reunir los requisitos que el Código les exija para su nombramiento, el que deberá realizarse a más tardar en el mes de octubre del año anterior al de la elección, y su encargo será por un período de seis años, pudiendo ser ratificados. La retribución que perciban los Consejeros Electorales será igual a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+Durante el tiempo de su nombramiento los Consejeros Electorales y el Consejero Presidente del Consejo General no deberán, en ningún caso, aceptar o desempeñar cargo, empleo o comisión de la Federación, del Estado, de los municipios o de los partidos políticos.
+
+Los Consejeros Electorales, el Consejero Presidente y el Secretario General no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+El Secretario General y el Director General del Instituto serán nombrados por el Consejo General, a propuesta del Consejero Presidente.
+
+Corresponderá al Consejo General del Instituto Electoral del Estado, realizar el cómputo final de la elección de Gobernador, formular la declaración de validez de la elección y expedir la constancia de Gobernador electo a favor del candidato que hubiera alcanzado el mayor número de votos.
+
+El Instituto Electoral del Estado, será autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño, contando en su estructura con un cuerpo directivo y técnico integrado con miembros del Servicio Electoral Profesional, en términos del Estatuto que regule su funcionamiento.
+
+III.- Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y el Código de Instituciones y Procesos Electorales del Estado de Puebla y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+
+IV.- El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+El Código de la materia establecerá un sistema de medios de impugnación para garantizar la constitucionalidad y legalidad de los actos y resoluciones en materia electoral. El principio de definitividad regirá en los procesos electorales.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 4°.
+
+Los partidos políticos con registro nacional o estatal participarán en las elecciones, para Diputados por ambos principios, Gobernador y miembros de Ayuntamientos, con todos los derechos, obligaciones y prerrogativas que el Código respectivo les señale.
+
+En los procesos electorales los partidos políticos tendrán derecho a recibir financiamiento público para sus actividades tendientes a la obtención del voto. El Código de Instituciones y Procesos Electorales del Estado de Puebla garantizará además que los partidos políticos cuenten de manera equitativa con financiamiento público para llevar a cabo sus actividades ordinarias. También tendrán derecho a recibir financiamiento público para acceder equitativamente a los medios de comunicación social. Para el otorgamiento de financiamiento público se estará a las siguientes reglas:
+
+a) El financiamiento público para el sostenimiento de las actividades de los partidos políticos se determinará conforme a lo que establezca el Código de la materia. Al efecto, el treinta por ciento de la cantidad total se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante se distribuirá entre los mismos, de acuerdo con el porcentaje de votación que hubieren obtenido en la elección de Diputados al Congreso del Estado por el principio de mayoría relativa inmediata anterior;
+
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año.
+
+c) Los partidos políticos recibirán anualmente y en forma igualitaria la cantidad que se obtenga de calcular un quince por ciento adicional sobre el monto total del financiamiento público obtenido a que se refiere el inciso a) de este artículo. Lo anterior a fin de propiciar su acceso equitativo a los medios de comunicación social.
+
+Asimismo el Consejo General fijará los criterios para determinar topes a los gastos de campaña de los partidos políticos, así como los montos máximos que tengan las aportaciones pecuniarias de sus militantes y simpatizantes, y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; así como las sanciones por el incumplimiento a las disposiciones que expidan en estos rubros.
+
+El financiamiento público siempre prevalecerá sobre el privado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -211,9 +239,7 @@ En función del progreso social, el Estado promoverá y fomentará la producció
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO IV
-
-DE LOS POBLANOS.
+### CAPITULO IV. DE LOS POBLANOS
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -261,15 +287,21 @@ I.- Haber cumplido dieciocho años, y
 
 II.- Tener modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 22.
 
-Son prerrogativas del ciudadano del Estado:
+Son prerrogativas de los ciudadanos del Estado:
 
-I.- Votar en las elecciones populares.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum e iniciativa popular en los términos que establezca esta Constitución y la ley de la materia;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier empleo o comisión, teniendo las calidades que establezca la ley.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 III.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del Estado o de los Municipios de éste.
 
@@ -397,11 +429,11 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado, las autoridades
 
 El ejercicio del Poder Legislativo se deposita en una asamblea de Diputados que se denominará "CONGRESO DEL ESTADO".
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado estará integrado por veintiséis Diputados, electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta trece Diputados que serán electos de acuerdo con el principio de representación proporcional, conforme al sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+El Congreso del Estado estará integrado por 26 Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta 15 Diputados que serán electos por el principio de representación proporcional, conforme al procedimiento que se establezca en el Código de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -409,21 +441,31 @@ El Congreso del Estado estará integrado por veintiséis Diputados, electos seg�
 
 Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 35.
 
-La Elección de los Diputados según el principio de representación proporcional, se sujetará a lo que disponga la Ley y a las siguientes bases:
+La elección de Diputados por el principio de representación proporcional, se sujetará a lo que disponga el Código respectivo y las siguientes bases:
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
 I.- Un Partido Político, para obtener el registro de sus listas, deberá acreditar su registro como tal y que participa con candidatos a Diputados por mayoría relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales.
 
-II.- Todo Partido Político que alcance por lo menos el uno y medio por ciento del total de la votación emitida en la elección de Diputados de mayoría relativa, tendrá derecho a que le sean asignados Diputados según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-III.- Al Partido Político que cumpla con lo dispuesto por las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus Candidatos, les serán asignados por el principio de representación proporcional, el número de Diputados que les corresponda de acuerdo a lo dispuesto por la Ley. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+II.- Todo partido político que alcance por lo menos el dos por ciento del total de la votación emitida en la elección de Diputados por el principio de mayoría relativa, tendrá derecho a que le sean asignados Diputados por el de representación proporcional.
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+III.- Al partido político que cumpla con lo dispuesto por las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus Candidatos, les serán asignados por el principio de representación proporcional, el número de Diputados que les corresponda de acuerdo a lo dispuesto por el Código correspondiente. En todo caso, la primera Diputación le será asignada a la fórmula de candidatos del partido político que, por sí mismo, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el principio de mayoría relativa, siempre que no hubiere alcanzado la constancia respectiva conforme a dicho principio. En las asignaciones subsecuentes, a que tuvieren derecho los partidos políticos, se seguirá el orden que tuviesen los Candidatos en las listas correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
 IV.- En ningún caso un Partido Político podrá contar con más de veintiséis Diputados por ambos principios.
 
-V.- En términos de lo establecido en las fracciones anteriores, las Diputaciones de representación proporcional, se adjudicarán a los Partidos Políticos con derecho a ello, en proporción directa con sus respectivas votaciones Estatales. La Ley desarrollará las reglas y fórmulas necesarias para estos efectos.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+V.- En términos de lo establecido en las fracciones anteriores, las Diputaciones de Representación Proporcional, se asignarán a los partidos políticos con derecho a ello. El Código de la materia desarrollará las reglas y fórmulas necesarias para estos efectos.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -443,9 +485,9 @@ No pueden ser electos diputados propietarios o suplentes:
 
 I.- El Gobernador del Estado, aun cuando se separe definitivamente de su cargo.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y los del Tribunal Estatal Electoral, los Secretarios de Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado.
+II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y los del Tribunal Electoral del Estado, los Secretarios de Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado;
 
 III.- Los funcionarios del Gobierno Federal
 
@@ -455,7 +497,9 @@ V.- Los Presidentes Municipales, los Jueces y los Recaudadores de Rentas.
 
 VI.- Los ministros de algún culto religioso.
 
-Los funcionarios y miembros de las fuerzas armadas del país a los que se refieren respectivamente, las fracciones II a V de este artículo, podrán ser electos Diputados propietarios o suplentes, si se separan definitivamente de su cargo, o del servicio activo, noventa días antes de la elección.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+Los funcionarios y los miembros de las fuerzas armadas del país a los que se refieren respectivamente las fracciones II a V de este artículo, podrán ser electos Diputados propietarios o suplentes, si se separan definitivamente de su cargo, o del servicio activo, noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -491,15 +535,13 @@ Es inviolable también el recinto donde se reúnen los diputados a sesionar y el
 
 El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero posterior a las elecciones, sin que por ningún motivo el mandato de sus miembros pueda prorrogarse más allá de ese período.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 43.
 
-La Comisiones Distritales Electorales respectivas, de conformidad con lo que disponga la Ley, dictaminarán y declararán la validez de las elecciones de los Diputados en cada uno de los Distritos Electorales Uninominales y otorgarán las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. La Comisión Estatal Electoral hará la declaración de validez y la asignación de Diputados según el principio de representación proporcional, de conformidad con lo dispuesto por el artículo 35 de este Ordenamiento y lo que determine la Ley de la materia.
+Los Consejos Distritales Electorales respectivos, de conformidad con lo que disponga la Ley, dictaminarán y declararán la validez de las elecciones de los Diputados en cada uno de los Distritos Electorales Uninominales y otorgarán las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. El Consejo General del Instituto Electoral del Estado hará la declaración de validez y la asignación de Diputados según el principio de representación proporcional, de conformidad con lo dispuesto por el artículo 35 de esta Constitución y lo que determine la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
-
-La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados, podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos que señale el Código Electoral del Estado, el procedimiento de impugnación quedará determinado en la propia Ley de la materia. El fallo del Tribunal será definitivo y firme.
+La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados, podrán ser impugnados ante el Tribunal Electoral del Estado, en los términos que señale el Código de Instituciones y Procesos Electorales del Estado de Puebla, y el procedimiento de impugnación quedará determinado en la propia Ley de la materia. El fallo del Tribunal será definitivo y firme.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
@@ -547,9 +589,7 @@ II.- El segundo comenzará el día primero de Junio, terminará el treinta y uno
 
 III.- El tercer período comenzará el día quince de octubre y terminará el quince de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de Ingresos y Egresos del Estado y los presupuestos de ingresos de los Municipios que deberán entrar en vigor al año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1995)</small>
-
-En el año en que se renueve el Poder Ejecutivo, este tercer periodo se prorrogará hasta el 22 de diciembre, para los efectos a que se refiere la fracción XVI del artículo 57 de esta Constitución.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -627,31 +667,39 @@ XII.- Conceder premios y recompensas.
 
 XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si dichos funcionarios son o no culpables de los delitos oficiales que se les imputen.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo y, a los del Tribunal Estatal Electoral, en los términos señalados por la Legislación Electoral vigente.
+XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo y a los del Tribunal Electoral del Estado, en los términos señalados por la legislación electoral vigente;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador, de los Diputados, de los magistrados del Tribunal Superior de Justicia y de los del Tribunal Estatal Electoral.
+XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y de los del Tribunal Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XVI.- Hacer el escrutinio de los votos emitidos para Gobernador del Estado, calificar la elección y hacer la declaración a favor del ciudadano que haya obtenido la mayoría conforme a la Ley de la materia.
+XVI.- Nombrar, por consenso o por mayoría calificada de los miembros del Congreso presentes, en ese orden de prelación, al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral del Estado. De igual forma deberá nombrar a los Consejeros Electorales suplentes. El Código aplicable establecerá el procedimiento y las reglas respectivas;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
 XVII.- Elegir con el carácter de interino al ciudadano que deba sustituir al Gobernador de elección popular directa, en sus faltas temporales, o en su falta absoluta, si ésta acaeciere en los dos primeros años del período constitucional;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XVIII.- Convocar a elecciones:
+XVIII.- Convocar a elecciones, comunicando oportunamente al Consejo General del Instituto Electoral del Estado;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1984)</small>
 
 a).- De Gobernador que deba concluir el período respectivo, en el caso de falta absoluta a que se refiere la fracción anterior.
 
-Esta convocatoria debe expedirse dentro de los diez días siguientes a la designación de Gobernador Interino, y entre su fecha y la que se señale para verificar la elección ha de mediar un plazo no menor de tres meses ni mayor de cinco. El Gobernador electo tomará posesión diez días después del escrutinio, calificación y declaración a que se refiere la fracción XVI.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+Esta convocatoria debe expedirse dentro de los diez días siguientes a la designación de Gobernador Interino, y entre su fecha y la que se señale para verificar la elección ha de mediar un plazo no menor de tres meses ni mayor de cinco. El Gobernador electo tomará posesión diez días después del escrutinio, cómputo y declaración que se haga en términos de Ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1984)</small>
 
 b).- De Diputados, cuando ocurra falta absoluta de propietarios y suplentes antes de los seis meses últimos del período.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1984)</small>
 
 c).- De Ayuntamientos, cuando ello fuere necesario.
 
@@ -675,11 +723,13 @@ XXI.- Acordar por el voto de las dos terceras partes de sus integrantes:
 
 En los casos de los incisos 1 y 2 de esta fracción, el Congreso nombrará un Consejo Municipal como lo establezca la Ley Orgánica Municipal.
 
-XXII.- (DEROGADA, P.O. 17 DE FEBRERO DE 1995)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad;
 
-XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Magistrados del Tribunal Superior, a los Magistrados del Tribunal Estatal Electoral, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las Leyes no deban otorgarla ante otra autoridad.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Consejeros Electorales y al Consejero Presidente del Consejo General del Instituto Electoral del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, a los suplentes de éstos y a todos los demás empleados de su nombramiento, que conforme a las leyes no deban otorgarla ante otra autoridad;
 
 XXIV.- Expedir y modificar la ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
@@ -719,13 +769,13 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-II.- Recibir la protesta del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral.
+II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales y del Consejero Presidente del Consejo General del Instituto Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de estos no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría Mayor de Hacienda; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, y a los Magistrados del Tribunal Estatal Electoral.
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría Mayor de Hacienda; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, y a los Magistrados del Tribunal Electoral del Estado;
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -761,6 +811,16 @@ III.- Al Tribunal Superior de Justicia, en lo relacionado con la Administración
 
 IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
 
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+V.- A los ciudadanos de la Entidad, debidamente identificados y cuyo número sea cuando menos el dos punto cinco por ciento de los inscritos en el Registro Federal de Electores, quienes en términos de la ley aplicable, podrán presentar al Congreso del Estado, proyectos de leyes respecto a las materias de competencia legislativa del mismo. No podrán ser objeto de iniciativa popular las siguientes materias:
+
+a) Tributaria o fiscal así como de egresos del Estado;
+
+b) Régimen interno de los Poderes del Estado; y
+
+c) Las demás que determinen las leyes.
+
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ###### Artículo 64.
@@ -787,23 +847,35 @@ VII.- El Tribunal Superior de Justicia o el Ayuntamiento autor de la iniciativa 
 
 Se reputará que el Ejecutivo está conforme con el proyecto, cuando no lo devuelva con observaciones en el término de quince días, excepto en el caso de que durante ese término den fin o se suspendan las sesiones, pues entonces el Ejecutivo podrá devolver el proyecto en la primera sesión inmediata.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 66.
 
-El Ejecutivo no podrá hacer observaciones cuando el Congreso funcione como Colegio Electoral, o como Jurado, ni cuando acepte la renuncia de funcionarios públicos.
+El Ejecutivo no podrá hacer observaciones cuando el Congreso funcione como Jurado, ni cuando acepte la renuncia de funcionarios públicos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 67.
 
-La votación de leyes o decretos será nominal.
+La votación de leyes o decretos será nominal. Desechado un proyecto de ley, no podrá ser propuesto nuevamente durante el mismo periodo de sesiones.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 68.
 
-Desechado un proyecto de ley, no podrá ser propuesto nuevamente en el mismo período de sesiones.
+Las leyes trascendentales para el orden público o interés social que apruebe el Congreso del Estado, con excepción de las reformas o adiciones a esta Constitución, las de carácter contributivo o fiscal, las leyes orgánicas de los Poderes del Estado, así como las leyes locales que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos, podrán ser sometidas a referéndum derogatorio, total o parcial, en términos de la ley aplicable, bajo los siguientes supuestos:
+
+I.- Que lo solicite ante el Instituto Electoral del Estado un número que represente cuando menos el quince por ciento de los ciudadanos poblanos, debidamente identificados, inscritos en el Registro Federal de Electores correspondiente al Estado, dentro de los treinta días naturales siguientes a la fecha de su publicación, o
+
+II.- Que lo solicite el Titular del Poder Ejecutivo ante el Instituto Electoral del Estado.
+
+Las leyes sometidas a referéndum sólo podrán ser derogadas si en el proceso respectivo participa cuando menos el cuarenta por ciento de los ciudadanos inscritos en el Registro Federal de Electores correspondiente al Estado, y de éstos, más del cincuenta por ciento emita su voto en contra.
+
+El inicio del proceso de referéndum, así declarado por el Instituto Electoral del Estado en el periodo de treinta días a que hace mención la fracción I de este artículo, tendrá efectos suspensivos, salvo los casos de urgencia, determinada por el Titular del Ejecutivo o por el Congreso del Estado.
+
+Las leyes en materia electoral no podrán ser sometidas a referéndum durante los ocho meses anteriores al inicio del proceso electoral, ni durante el desarrollo de éste.
+
+El Instituto Electoral del Estado realizará el cómputo de los votos y remitirá la resolución correspondiente al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Estado. Una vez que la mencionada resolución quede firme, si es derogatoria, será notificada al Congreso del Estado para que en un plazo no mayor a sesenta días hábiles, emita el decreto correspondiente.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -969,7 +1041,17 @@ XXXII.- Crear o suprimir empresas de participación estatal, fideicomisos y comi
 
 XXXIII.- Promover cuanto fuere necesario para el progreso económico y social del Estado.
 
-XXXIV.- Las demás que le confieren las leyes.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+XXXIV.- Solicitar al Instituto Electoral del Estado someta a referéndum las leyes que apruebe el Congreso del Estado consideradas particularmente trascendentales para el orden público o el interés social del Estado, en los términos que establezca esta Constitución y la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+XXXV.- Solicitar al Instituto Electoral del Estado someta a plebiscito, en los términos que disponga la ley respectiva, propuestas de actos o decisiones de su gobierno, considerados como trascendentales para el orden público o el interés social del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+XXXVI.- Las demás que le confieren las leyes.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1009,11 +1091,39 @@ II.- La intervención del Ejecutivo en la operación de esas entidades.
 
 Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos y tener treinta años cumplidos; pero el Secretario de Gobernación, deberá además, tener Título de Abogado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+Todos los reglamentos, decretos y acuerdos expedidos por el Gobernador, para su validez y observancia deberán ser firmados por él y por el Secretario del ramo a que el asunto corresponda, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los titulares de las mismas.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 85.
 
-Todos los reglamentos, decretos y acuerdos expedidos por el Gobernador, para su validez y observancia deberán ser firmados por él y por el Secretario del ramo a que el asunto corresponda, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los titulares de las mismas.
+A través del proceso de plebiscito, el Titular del Ejecutivo y el Congreso del Estado podrán consultar a los ciudadanos para que expresen su aprobación o rechazo previo a actos o decisiones del Gobernador del Estado que sean trascendentales para el orden público o el interés social de la Entidad, de acuerdo a lo establecido en la ley aplicable y a los términos siguientes:
+
+I.- No podrán someterse a plebiscito los actos o decisiones del Gobernador del Estado relativos a:
+
+a) Materias de carácter tributario o fiscal, así como de egresos de la Entidad;
+
+b) Régimen interno de los órganos de la administración pública del Estado;
+
+c) Actos cuya realización sea obligatoria en términos de las leyes aplicables; y
+
+d) Los demás que determinen las leyes.
+
+II.- El Titular del Poder Ejecutivo y el Congreso del Estado podrán solicitar al Instituto Electoral del Estado dé inicio al proceso de plebiscito, mediante convocatoria que se expida cuando menos noventa días antes de la fecha de realización del mismo. La convocatoria se publicará en el Periódico Oficial del Estado y en los diarios de mayor circulación en la Entidad, y deberá contener:
+
+a) La explicación clara y precisa de los efectos de la aprobación o rechazo del acto o decisión sometido a plebiscito;
+
+b) La fecha en que habrá de verificarse el plebiscito; y
+
+c) La pregunta o preguntas conforme a las cuales los ciudadanos expresarán su aprobación o rechazo.
+
+III.- Los resultados del plebiscito serán vinculatorios para el Gobernador del Estado cuando una de las opciones o la totalidad de ellas obtenga una votación válidamente emitida de más del cincuenta por ciento y participen en el proceso respectivo cuando menos el cuarenta por ciento de los ciudadanos poblanos inscritos en el Registro Federal de Electores, debidamente identificados;
+
+IV.- En el año en que se verifique elección de representantes populares y durante los noventa días posteriores a la conclusión del proceso electoral, no podrá realizarse plebiscito alguno. Asimismo, no podrán desarrollarse dos plebiscitos en el mismo año; y
+
+V.- El Instituto Electoral del Estado organizará el proceso de plebiscito y hará la declaratoria de sus efectos, remitiéndola al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, de conformidad con lo que disponga la ley aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1169,15 +1279,25 @@ I.- Los Ayuntamientos se complementarán:
 
 a).- En el municipio capital del Estado, hasta con siete Regidores, que serán acreditados conforme al principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-b).- En los municipios que conforme al último censo general de población tengan cien mil o más habitantes, hasta con cuatro Regidores que serán acreditados de acuerdo con el mismo principio.
+b) En los municipios que conforme al último censo general de población tengan noventa mil o más habitantes, hasta con cuatro Regidores, que serán acreditados conforme al mismo principio;
 
-c).- En los demás Municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-d).- En los casos que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los Partidos Políticos minoritarios que hayan obtenido por lo menos el 1.5 por ciento de la votación total en el Municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia.
+c) En los municipios que conforme al último censo general de población tengan de sesenta mil a noventa mil habitantes, hasta con tres Regidores, que serán acreditados conforme al mismo principio;
 
-e).- En todo caso, en la asignación de Regidores, de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+d) En los demás municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio;
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+e) En los casos a que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los partidos políticos minoritarios que hayan obtenido por lo menos el dos por ciento de la votación emitida en el municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+
+f) En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
 
 II.- No podrán ser electos para el período inmediato, como propietarios:
 
@@ -1189,9 +1309,9 @@ III.- Los funcionarios mencionados en las fracciones anteriores, cuando hayan te
 
 IV.- Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de febrero del año siguiente al de la elección.
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-V.- Los Comités Municipales Electorales respectivos, de conformidad con lo que disponga la Ley de la materia, dictaminarán y declararán la validez de las elecciones de los Ayuntamientos y otorgarán las constancias de mayoría a los integrantes de las planillas que hubiesen obtenido la mayoría de votos. La Comisión Estatal Electoral, de acuerdo con la Ley, hará la declaración de validez y la asignación de Regidores según el principio de representación proporcional.
+V.- Los Consejos Municipales Electorales respectivos, de conformidad con lo que disponga la Ley de la materia, declararán la validez de las elecciones de los Ayuntamientos y expedirán las constancias de mayoría a los integrantes de las planillas que hubiesen obtenido el mayor número de votos. El Consejo General del Instituto Electoral del Estado hará la declaración de validez de la elección y la asignación de Regidores según el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1842,3 +1962,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas por la mayoría de los Ayuntamientos de la Entidad y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Estatal Electoral continuará desahogando únicamente sus actividades operativas y administrativas, hasta en tanto sea aprobado, promulgado y publicado el Código de Instituciones y Procesos Electorales del Estado de Puebla.
+
+###### ARTÍCULO QUINTO.
+
+Tan pronto como sea nombrado el Consejero Presidente del Consejo General del Instituto Electoral del Estado, procederá a recibir del Presidente de la Comisión Estatal Electoral los archivos, bienes y recursos de este organismo. Asimismo, adoptará las medidas necesarias para proceder a la instalación formal y funcionamiento del Instituto Electoral del Estado en términos de la Ley que para tal efecto se expida.
+
+###### ARTÍCULO SEXTO.
+
+Los nuevos Consejeros Electorales y el Consejero Presidente del Instituto Electoral del Estado, deberán ser nombrados a más tardar en el mes de octubre de 2000 y, por esta única ocasión, para su elección se deberá privilegiar el procedimiento de consenso, el voto de las tres cuartas partes de los miembros presentes en el Congreso del Estado, de las dos terceras partes de los miembros presentes en el Congreso del Estado o insaculación; en ese orden.
