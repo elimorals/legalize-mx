@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2001-07-21"
+last_updated: "2003-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO FISCAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -675,7 +675,7 @@ Cuando los contribuyentes inscritos en el Registro Estatal, dejen de realizar su
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
 
-Sólo se tramitarán los avisos de suspensión de actividades y cancelación de aquellos contribuyentes que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales. En caso de existir adeudos deberá garantizarse el interés fiscal, en los términos de carácter administrativo que expida la Secretaría de Finanzas del Estado, los contribuyentes que reanuden actividades gravadas, deberán presentar ante la oficina de recaudación fiscal que tramitó la suspensión, el aviso de dicha reanudación dentro del mes siguiente a la fecha en que reiniciaron la actividad.
+Sólo se tramitarán los avisos de suspensión de actividades y cancelación de aquellos contribuyentes que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales. En caso de existir adeudos deberá garantizarse el interés fiscal, en los términos de carácter administrativo que expida la Secretaría de Finanzas del Estado, los contribuyentes que reanuden actividades gravadas, deberán presentar ante la oficina de reanudación fiscal que tramitó la suspensión, el aviso de dicha reanudación dentro del mes siguiente a la fecha en que reiniciaron la actividad.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
 
@@ -1457,107 +1457,55 @@ Para efectuar las clausuras que señala este artículo y el anterior, deberá re
 
 ###### Artículo 116.
 
-Para proceder penalmente por los delitos previstos en este capítulo, se requerirá querella de la Secretaría de Finanzas del Estado, salvo en los casos previstos en los artículos 120, 121 y 122 del presente Código.
-
-Cuando los procesados por delitos a que se refiere este capítulo, paguen íntegramente el crédito fiscal originado por los hechos imputados, podrá solicitarse el sobreseimiento del proceso, antes de que el Ministerio Público formule conclusiones.
-
-En los casos de delitos fiscales en que el daño patrimonial al erario Estatal sea cuantificable, la Secretaría de Finanzas del Estado acompañará la documentación que acredite su monto en la propia querella, o bien durante la tramitación del proceso respectivo, antes de que el Ministerio Público formule conclusiones.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 117.
 
-La acción penal que nazca de delitos fiscales prescribirá en cinco años, que se computará a partir de la fecha de la comisión del delito.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 118.
 
-En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas con arreglo a las leyes fiscales, harán efectivos los gravámenes evadidos y las sanciones administrativas correspondientes.
-
-Para que proceda la condena condicional cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal del Estado, será preciso acreditar que el interés fiscal esté pagado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 119.
 
-En todo lo no previsto en el presente capítulo serán aplicables las reglas consignadas en los Códigos Penal y de Procedimientos Penales del Estado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 120.
 
-Se impondrá prisión hasta de tres años a quien practique o pretenda practicar auditorías domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 121.
 
-Se impondrán de dos a seis años de prisión, a quien:
-
-I. Grabe o manufacture, sin autorización del Congreso del Estado, matrices, clichés o negativos, semejantes a los que el Congreso del Estado apruebe para imprimir, grabar o troquelar formas valoradas numeradas, así como falsificar firmas y sellos;
-
-II. Imprima, grabe o troquele formas valoradas numeradas, o cualquier comprobante de pago de contribuciones fiscales, sin la autorización del Congreso del Estado;
-
-III. Altere en su valor, en el año de edición, en el resello, leyenda o clase, formas valoradas numeradas legalmente emitidas;
-
-IV. Posea, venda o ponga en circulación formas valoradas numeradas de emisión ya fenecida;
-
-V. Grabe o manufacture, sin autorización de la Secretaría de Finanzas del Estado, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar, resellar o troquelar calcomanías, hologramas, formas valoradas numeradas y placas; así como falsificar firmas, sellos, e impresión de máquina registradora;
-
-VI. Imprima, grabe o troquele calcomanías, hologramas, formas valoradas numeradas, placas, o cualquier comprobante de pago de contribuciones fiscales, sin la autorización de la Secretaría de Finanzas del Estado;
-
-VII. Altere en su valor, en el año de edición, en el resello, leyenda, impresión de máquina registradora, o clase, calcomanías, hologramas, formas valoradas numeradas, placas o cualquier comprobante de pago de contribuciones fiscales, legalmente emitidos; y
-
-VIII. Posea, venda o ponga en circulación calcomanías, hologramas, formas valoradas numeradas y placas de emisión ya fenecida.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 122.
 
-Se sancionará con pena de prisión de uno a seis años, a quien cometa delito de uso de calcomanías, hologramas, formas valoradas numeradas, placas, o cualquier otro medio de control fiscal, falsificados, en cualquiera de los supuestos siguientes:
-
-I. Quien a sabiendas de que fueron impresos o grabados, sin autorización de la autoridad competente, los posea, venda, ponga en circulación o, en su caso, los adhiera en objetos, documentos o libros, o use en cualquiera otra forma para ostentar el pago de alguna contribución fiscal;
-
-II. Quien los posea, venda, ponga en circulación o los utilice, para el pago de alguna contribución fiscal, alterados en su valor, año de emisión, resello, leyenda o clase a sabiendas de esta circunstancia;
-
-III. Quien posea, venda, ponga en circulación o en alguna otra forma comercie con dichos objetos, si son manufacturados con fragmentos, recortes de otros, o sobrepongan las operaciones de caja registradora para acreditar el pago de alguna contribución fiscal; y
-
-IV. Quien utilice dichos objetos para pagar algún crédito fiscal a sabiendas de que se trata de los manufacturados con fragmentos, recortes de otros, o con la operación de caja registradora sobrepuesta.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 123.
 
-Al servidor público que en cualquier forma participe en el delito citado en el artículo anterior, se le impondrá de uno a cinco años de prisión.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 124.
 
-Para la comprobación de los delitos previstos en los Artículos 121 y 122, se deberá recabar en la averiguación previa, el dictamen de peritos designados por el Congreso del Estado o por la Secretaría de Finanzas, según corresponda, y a falta de peritos, éstos serán designados por el Ministerio Público.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 125.
 
-Comete el delito de defraudación fiscal, quien omita total o parcialmente el pago de un crédito fiscal, por medio de engaños o aprovechándose del error.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 126.
 
-La pena que corresponde al delito de defraudación fiscal, se impondrá también, a quien:
-
-I. Mediante la simulación de actos jurídicos, omita total o parcialmente el pago de los impuestos a su cargo;
-
-II. Proporcione con falsedad a las autoridades fiscales que lo requieran los datos que obren en su poder y que sean necesarios para determinar la producción, la base gravable o los impuestos que causen;
-
-III. Oculte a las autoridades fiscales, total o parcialmente, la documentación que acredite el ingreso y egreso gravado por algún impuesto;
-
-IV. Para registrar sus operaciones contables, fiscales o sociales, lleve dos o más libros similares con distintos registros o datos;
-
-V. Destruya, ordene o permita la destrucción total o parcial, dejando ilegibles los libros de contabilidad que prevengan las leyes mercantiles o las leyes fiscales;
-
-VI. Utilice pastas o encuadernaciones de los libros a que se refiere la fracción anterior, para sustituir o cambiar las páginas foliadas;
-
-VII. Tenga doble juego de registros contables;
-
-VIII. Confeccione o utilice facturas, notas o comprobantes apócrifos;
-
-IX. Haga mal uso de los incentivos fiscales o los aplique para fines distintos, del que fueron otorgados; y
-
-X. Se beneficie sin tener derecho a ello de un estímulo fiscal.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 127.
 
-El delito de defraudación fiscal se sancionará con prisión de seis meses a seis años, si el monto de lo defraudado o lo que se intentó defraudar no excede de 4,700 días de salario mínimo general vigente en la zona económica de Guadalajara. Cuando exceda de esta cantidad la pena será de seis meses a ocho años de prisión.
-
-No se impondrá la sanción prevista en este artículo, si quien hubiere cometido el delito entera espontáneamente el impuesto omitido.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ###### Artículo 128.
 
-Para los fines del artículo que antecede se tomará en cuenta el monto de lo defraudado o que se haya intentado defraudar dentro de un mismo período fiscal, aún cuando se trate de conceptos distintos y de diversas acciones u omisiones.
+(DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
 ## TITULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -2318,3 +2266,9 @@ P.O. 16 DE DICIEMBRE DE 1999.
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE JUNIO DE 2003.
+
+PRIMERO.- Este decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las disposiciones relativas a la responsabilidad patrimonial del Estado, entrarán en vigor el 1º de Enero del 2004, previa vigencia de la Ley de Responsabilidad Patrimonial del Estado de Jalisco.
