@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-8212"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "1988-01-09"
+last_updated: "1998-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FISCAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -43,7 +43,7 @@ CONSIDERANDO TERCERO.- Que asimismo pretende adecuar con la realidad social una 
 
 CONSIDERANDO CUARTO.- Que el proyecto de Código Fiscal está orientado a lograr un sistema Fiscal más justo y equitativo con el fin de imprimir mayor eficacia a la Administración tributaria, redoblando esfuerzos en la asistencia a los contribuyentes para facilitarles el correcto cumplimiento de sus obligaciones fiscales.
 
-CONSIDERANDO QUINTO.- Que el Proyecto de Código Fiscal del Estado, tiene como característica principal fortalecer las relaciones de las autoridades fiscales con los contribuyentes, ajustándolo a las necesidades del presente, consciente de que la legislación tributaria debe ser siempre a expresión de la política social y económica.
+CONSIDERANDO QUINTO.- Que el Proyecto de Código Fiscal del Estado, tiene como característica principal fortalecer las relaciones de las autoridades fiscales con los contribuyentes, ajustándolo a las necesidades del presente, consientes de que la legislación tributaria debe ser siempre a expresión de la política social y económica.
 
 CONSIDERANDO SEXTO.- Que en el Proyecto de Código Fiscal para el Estado de Zacatecas, se está utilizando como factor de cuantificación la cuota que se ha definido como el Salario Mínimo general diario en el Estado a fin de hacer más dinámico y acorde a las condiciones socio-económicas la legislación tributaria, a la vez que unificar estas disposiciones, con las del Código Penal del Estado.
 
@@ -138,6 +138,18 @@ A falta de disposiciones en las leyes fiscales del Estado, será aplicable suple
 Ningún ingreso podrá recaudarse si no está previsto en la Ley de Ingresos o en una posterior a ella.
 
 Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente las leyes y decretos fiscales del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 16-A.
+
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones, a cargo del Fisco Estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del Fisco Estatal no se actualizarán por fracciones de mes.
+
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Banco de México, la autorización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el periodo de que se trate.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales del ejercicio no será deducible ni acreditable.
 
 ###### ARTICULO 17o.
 
@@ -313,7 +325,7 @@ E)Cuando las informaciones que se obtengan de clientes, proveedores o terceros, 
 
 En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa anteriores, se presumirá, salvo que comprueben su ingreso por el periodo respectivo, que el ingreso es igual al resultado de alguna de las siguientes operaciones:
 
-1.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diarios (sic) promedio que resulte se multiplicará por el número de días que corresponda al periodo objeto de la revisión:
+1.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diarios (sic) promedio que resulte se multiplicará por el número de días que corresponda al periodo objeto de la revisión;
 
 2.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la autoridad fiscal tomará como base los ingresos que observe durante tres días de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el periodo objeto de revisión.
 
@@ -827,6 +839,8 @@ El término para la prescripción se inicia a partir de la fecha en que el créd
 
 ### CAPITULO QUINTO. De las Infracciones y Sanciones
 
+DE LAS INFRACCIONES Y SANCIONES
+
 ###### ARTICULO 93o.
 
 La aplicación de las sanciones administrativas que procedan, se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de los recargos y demás accesorios legales; en su caso el cumplimiento de las obligaciones fiscales no observadas y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
@@ -1191,7 +1205,9 @@ Al que cometa los delitos a que se refieren los artículos anteriores, se le imp
 
 Igual pena y la de inhabilitación para ocupar el cargo o empleo público se impondrán al servidor del Estado que participe de cualquier manera en la comisión de estos delitos.
 
-### CAPITULO QUINTO. Violación de Sellos o Marcas Fiscales
+### CAPITULO QUINTO
+
+VIOLACION DE SELLOS O MARCAS FISCALES.
 
 ###### ARTICULO 127o.
 
@@ -1483,7 +1499,7 @@ El depositario interventor que tuviere conocimiento de irregularidades en el man
 
 ###### ARTICULO 170o.
 
-Si las medidas urgentes que dicten los depositarios inventores(sic) en los casos previstos en el artículo anterior, no fueren atendidas por el deudor o el personal de la negociación secuestrada, o si el fisco lo considera conveniente, la oficina recaudadora ordenará que el depositario interventor se convierta en administrador o sea sustituido por el depositario administrador, quien tomará posesión de su encargo de inmediato.
+Si las medidas urgentes que dicten los depositarios inventores (sic) en los casos previstos en el artículo anterior, no fueren atendidas por el deudor o el personal de la negociación secuestrada, o si el fisco lo considera conveniente, la oficina recaudadora ordenará que el depositario interventor se convierta en administrador o sea sustituido por el depositario administrador, quien tomará posesión de su encargo de inmediato.
 
 ###### ARTICULO 171o.
 
@@ -1846,3 +1862,7 @@ LIC. RAUL RODRIGUEZ SANTOYO.
 P.O. 9 DE ENERO DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+UNICO.- Las presentes adiciones, derogaciones y reformas, entrarán en vigor el día primero de enero de mil novecientos noventa y nueve.
