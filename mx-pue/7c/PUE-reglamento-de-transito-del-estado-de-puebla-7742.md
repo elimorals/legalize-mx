@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-transito-del-estado-de-puebla-7742"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-09-30"
-last_updated: "1976-09-30"
+last_updated: "1984-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO DE TRANSITO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1984.
 
 Reglamento promulgado por el Poder Ejecutivo del Estado de Puebla, el jueves 30 de septiembre de 1976.
 
@@ -208,9 +208,11 @@ Cuando haya duda o sospecha de que el propietario o poseedor tenga alguna respon
 
 III.- Entregar a la Oficina de Tránsito la tarjeta de circulación y las placas con las que haya circulado el vehículo.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 20.
 
-Cuando se trate de un vehículo destinado al servicio público de pasajeros, la cancelación se hará cubriendo los requisitos a que se refiere el Artículo anterior y además, substituyéndolo por otro vehículo que se destinará al mismo servicio y que deberá ser de un modelo más reciente, previa aprobación de los peritos de la Dirección de Tránsito, o del Delegado correspondiente.
+Cuando se trate de un vehículo destinado al servicio público de pasajeros, la cancelación se hará cubriendo los requisitos a que se refiere el artículo anterior y además, substituyéndolo por otro vehículo que se destinará al mismo servicio y que deberá ser de un modelo más reciente, mínimo de 5 años a la fecha de substitución, previa aprobación de los inspectores de transporte de la Dirección de Tránsito o del Delegado correspondiente.
 
 ###### ARTÍCULO 21.
 
@@ -254,7 +256,9 @@ Las placas para vehículos de servicio público de transporte, se destinarán pa
 
 Las placas demostradoras se destinarán al uso de las negociaciones dedicadas a la compra-venta de vehículos, y solamente se pueden utilizar para demostrar el funcionamiento de dichos vehículos en las vías públicas. Por ningún motivo se permitirá la circulación fuera de un radio mayor de 80 kilómetros del centro de la ciudad a la que pertenezcan, ni por un lapso mayor de 72 horas de uso continuo en el mismo vehículo.
 
-Las negociaciones a que se refiere el párrafo anterior, tendrán derecho a un juego de placas de demostración, por cada $ 250,000.00, de capital en giro, sin que en ningún caso excedan de 10 los juegos que obtengan, y estarán obligados a llevar un registro de los vehículos que las usen, que deberán exhibir a cualquier autoridad que lo requiera.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Las negociaciones a que se refiere el párrafo anterior, tendrán derecho a un juego de placas demostradoras, por cada $ 1'500,000.00 (UN MILLÓN QUINIENTOS MIL PESOS, CERO CENTAVOS, M.N.), de capital en giro, sin que en ningún caso excedan de 10 juegos; estarán obligadas a llevar un registro de los vehículos que las usen, que deberán exhibir a cualquier autoridad que lo requiera. Además, tendrán que rendir mensualmente un informe a la Dirección de Tránsito en el que consten los nombres de las personas y datos de los vehículos que las usaron en el mes anterior.
 
 ###### ARTÍCULO 29.
 
@@ -296,17 +300,25 @@ Los dispositivos y accesorios consistirán en:
 
 I.- Tener presentación decorosa y encontrarse en buen estado de aseo y funcionamiento, así como reunir las condiciones de seguridad y comodidad, tanto para sus ocupantes como para los demás vehículos y peatones.
 
-II.- Estar provistos de algún aparato que sirva para emitir sonidos claros y perceptibles, tales como claxon, bocina, timbre u otros análogos, según la clase del vehículo. El empleo de sirena, queda reservado para las ambulancias, para los vehículos de Policía, del Cuerpo de Bomberos y los convoyes militares. Se prohíbe el uso de silbatos con el escape de vehículos.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+II.- Estar previstos de algún aparato que sirva para emitir sonidos claros y perceptibles, tales como claxon, bocina, timbre u otros análogos, según la clase del vehículo.
+
+El empleo de sirenas, torretas y luces de emergencia queda reservado a las ambulancias, vehículos de policía y tránsito, del cuerpo de bomberos y los convoyes militares. Se prohíbe el uso de silbatos accionados con el escape de vehículos.
 
 III.- Estar provistos de un velocímetro en perfecto estado de funcionamiento y con iluminación durante la noche.
 
-IV.- Tendrán fanales delanteros de luz blanca y fija, con dispositivos para disminuir la densidad de la luz en los casos en que así lo exija la circulación; en la parte posterior luz roja, que accione cuando se apliquen los frenos. En la noche deberá iluminarse la placa posterior.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- Tendrán fanales delanteros de luz blanca y fija, con dispositivos para disminuir la intensidad de luz en los casos en que así lo exija la circulación; en la parte posterior y delantera luces intermitentes y luz roja en la parte posterior, que acciones y se intensifique al aplicar los frenos; en la noche deberá iluminarse la placa posterior.
 
 V.- Estar equipados con una llanta auxiliar cuando menos, en condiciones substituir alguna que se inutilizare, y con herramienta necesaria para el caso de emergencia.
 
 VI.- Contar con doble sistema de frenos, de pie y de mano. Estos dispositivos y sistemas de frenado que porte cualquier vehículo de motor o combinación de vehículos, deben ser compatibles entre sí y además, la acción de los mismos se deberá distribuir en forma adecuada entre los vehículos que forme la combinación.
 
-VII.- Llevar un espejo retrospectivo colocado en la parte superior media del parabrisas.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+VII.- Llevar un espejo retroscópico colocado en la parte superior media del parabrisas y un espejo lateral del lado del conductor, cuando se trate de automóviles, ya que los autobuses, camionetas o cualquier vehículo similar lo deberán llevar en ambos lados.
 
 VIII.- Contar con defensa en la parte delantera y posterior.
 
@@ -318,21 +330,35 @@ XI.- Los vehículos inscritos en el Estado, llevarán un ejemplar de este Reglam
 
 XII.- Cuando su capacidad sea de mil quinientos kilogramos en adelante, llevarán como equipo de emergencia: Un botiquín, extinguidor contra incendios, dos lámparas o faroles de señalamiento en caso de quedar estacionados durante la noche, y dos banderas rojas para señalamiento durante el día.
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+XIII.- Cinturones de seguridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 35.
 
-Los automóviles de alquiler para uso de pasajeros, deberán llenar, los siguientes requisitos:
+Los automóviles y camionetas de alquiler para uso de pasajeros, deberán llevar además, los siguientes requisitos:
 
-I.- Los que pertenezcan a sitios autorizados en la jurisdicción del Municipio de Puebla, que se encuentren dentro del primer plano de circulación, estarán pintados de negro con la cubierta color crema; los demás estarán pintados de rojo con puertas color crema. Los que estén registrados en las Delegaciones tendrán los colores azul y las puertas crema; llevando además una franja de color anaranjado los que formen parte de sitios que tengan su terminal fuera del lugar en que estén instaladas las oficinas de la Delegación correspondiente.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-Llevarán marcados en ambas portezuelas delanteras el número completo del permiso, las tres últimas cifras del número de placa y el número de sitio; en la parte posterior, en la tapa o en la cajuela de equipaje, el número completo de las placas. El nombre del sitio estará pintado sobre el medallón, con letras de de 7 centímetros.
+I.- Los automóviles que pertenezcan a sitios autorizados en la jurisdicción del municipio de Puebla, deberán estar pintados de negro con el capacete color crema; los que estén registrados en las Delegaciones, estarán pintados de azul claro con las puertas color crema, llevando además una franja de color anaranjado de 15 centímetros de ancho, en la parte central superior y en forma longitudinal, desde la cajuela hasta el cofre. Las unidades destinadas al servicio colectivo, deberán estar pintadas de acuerdo a las indicaciones que gire la Dirección de Tránsito.
 
-Los colores mencionados podrán cambiarse cuando así lo requieran las circunstancias, a juicio de la Dirección de Tránsito.
+Llevarán marcado en ambas portezuelas delanteras, un triángulo equilátero con el vértice hacia abajo, de 35 centímetros por lado; el nombre del taxi o número de ruta, y número de placas.
 
-Para los efectos de este Artículo, el primer cuadro de circulación del Municipio de Puebla lo señalará el Titular de la Dirección de Tránsito, y estará sujeto a modificaciones cuando las necesidades viales lo requieran, previo estudio técnico que se verifique. En las Delegaciones, los Titulares de éstas procederán al señalamiento indicado.
+En la parte lateral trasera o portezuela llevarán el número de la concesión.
+
+En la parte posterior, en la tapa o cajuela del equipaje, llevarán el número completo de las placas. El nombre del sitio estará pintado sobre la parte superior del medallón, con letras mayúsculas de imprenta de 7 centímetros.
+
+Los colores mencionados podrán cambiarse cuando así lo requieran las circunstancias, a juicio de la Dirección de Tránsito. Queda prohibido para estos vehículos, el uso de cristales polarizados.
 
 II.- Fijarán en lugar visible, en el interior del vehículo, una tarifa autorizada para el cobro del servicio.
 
 III.- Pasarán dos revistas semestrales ante el comisionado que designe la Dirección de Tránsito o Delegación respectiva, en el lugar y fecha que previamente fijen dichas oficinas por medio de citatorios que se publicarán en las puertas de las mismas y otros lugares que se consideren convenientes.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- Abstenerse del uso de frases o leyendas que lesionen la moral o las buenas costumbres.
 
 ###### ARTÍCULO 36.
 
@@ -340,45 +366,63 @@ Los camiones y camionetas destinadas al transporte de carga, tanto particulares 
 
 I.- Tendrán dos espejos laterales retroscópicos, colocados en ambos lados del parabrisa de la cabina.
 
-II.- Los destinados al servicio particular, llevarán una inscripción en las portezuelas de la cabina, indicando la razón social de la empresa o negociación a que pertenezcan, y tratándose de personas físicas, el nombre del propietario; además, el domicilio y clase de actividad comercial que tengan autorizada.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-III.- Los destinados al servicio de alquiler llevarán anotados, a ambos lados del cofre, el número de las placas que les corresponda; en ambas portezuelas de la cabina el número de permiso, el nombre del sitio al que pertenezcan y la actividad a que se dediquen.
+II.- Los destinados al servicio particular, llevarán una inscripción en las portezuelas de la cabina, indicando la razón social de la empresa o negociación a que pertenezcan, y tratándose de personas físicas, el nombre del propietario, además el domicilio y clase de actividades comerciales que tenga autorizada; las letras deberán ser legibles.
 
-Las camionetas destinadas al transporte de carga ligera, estarán pintadas de color anaranjado con letreros en color marfil; los camiones deberán estar pintados de azul a dos tonos. Es facultad discrecional de la Dirección de Tránsito ordenar el cambio de colores, cuando lo estime conveniente.
+Se prohíbe el uso de frases o leyendas que lesionen la moral o las buenas costumbres.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+III.- Los destinados al servicio de alquiler llevarán anotados a los lados del cofre, el número de las placas que les corresponda y en ambas portezuelas de la cabina el número de permiso y la actividad a la que se dediquen.
+
+Las camionetas destinadas al transporte público de carga, estarán pintadas de color anaranjado con letras en color marfil, los camiones deberán estar pintados en color azul a dos tonos.
+
+Los camiones autorizados para el transporte público de materiales para construcción, estarán pintados de color gris.
+
+Es facultad discrecional de la Dirección de Tránsito ordenar el cambio de colores, cuando lo estime conveniente.
 
 IV.- Tendrán además marcado, en lugar visible, el máximo de peso que estén autorizados a cargar.
 
-###### ARTÍCULO 37.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-Los camiones de carga y vehículos análogos, se sujetarán a los siguientes límites de carga y dimensiones.
+ARTÍCULO37.- Los camiones de carga y vehículos análogos, se sujetarán a los siguientes límites de carga y dimensiones:
 
-I.- Peso total, incluyendo el de carga, 8000 Kilos.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-LARGO MAXIMO 13.00 metros
+Peso total, incluyendo el de carga 8000 Kgs.
 
-ANCHO MAXIMO 3.50 metros
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-ALTURA MAXIMA 4.00 metros
+Largo máximo 13.00 Mts.
 
-ALTURA MAXIMA DE LA CARGA
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-SOBRE PLATAFORMA DEL VEHICULO 3.00 metros
+Ancho máximo 3.50 Mts.
 
-ANCHO MAXIMO DE LA CARGA
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-QUE SE TRANSPORTE 2.50 metros
+Altura máxima a partir de la superficie de
 
-LARGO TOTAL DE UN CAMION
+rodamiento 4.00 Mts.
 
-DE CARGA CON REMOLQUE 13.00 metros
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Ancho máximo de la carga que se transporte 2.50 Mts.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Largo total de un camión de carga con remolque 13.00 Mts.
 
 Tratándose de camiones que excedan de las características anotadas, para que puedan circular, se requiere autorización especial de la Oficina de Tránsito o Delegación respectiva y pago de los derechos que fije la Ley de Ingresos vigente.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 38.
 
-Los camiones y camionetas de carga de servicio particular requerirán de un permiso para el transporte de carga, cubriendo los derechos que fije la Ley de Ingresos. En este permiso o tarjetón se anotarán: Nombre del propietario, domicilio, marca de vehículo, modelo, número de placas, fecha e importe del pago. En el reverso se anotarán la clase o tipo de carga que transporta, acorde con la manifestación del propietario y con la declaración de la cédula de ingresos Mercantiles hecha al Estado. Esta última anotación deberá hacerse además en el reverso de la tarjeta de circulación.
+Los camiones y camionetas de carga de servicio particular requerirán de un permiso para el transporte de carga, cubriendo los derechos que fije la ley de Ingresos. En este permiso o tarjetón se anotarán: Nombre del propietario, domicilio, marca del vehículo, modelo, número de placas, fecha e importe del pago; asimismo se anotarán la clase o tipo de carga que transporta, acorde con la manifestación del propietario y con la declaración de los pagos fiscales vigentes hechos al Estado.
 
-Los automóviles particulares que transporten carga como son: los de tintorerías, repartidores de huevo, dulces, etc., deberán obtener su licencia de carga en las mismas condiciones que los marcados en el párrafo anterior.
+Los automóviles particulares que transporten carga como son: los de tintorerías, repartidores de huevo, dulces, etc., deberán obtener su permiso de carga en las mismas condiciones que los marcados en el párrafo anterior, y de acuerdo a las condiciones de funcionalidad que estime la Dirección de Tránsito.
 
 ###### ARTÍCULO 39.
 
@@ -482,13 +526,21 @@ El transporte de materias líquidas, inflamables o explosivas, deberá efectuars
 
 En ambos casos los vehículos deberán estar dotados como mínimo de un extinguidor de incendio, y no podrán circular dentro del primer cuadro o sectores de intenso tránsito, salvo los casos en que la Dirección o Delegación de Tránsito respectiva conceda permiso para ello fijando derrotero y horario.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Dichos vehículos no podrán estacionarse en zonas densamente pobladas o Unidades habitacionales sino por el tiempo indispensable para distribuir los productos que transportan.
+
 ###### ARTÍCULO 52.
 
 Para transportar explosivos es obligatorio contar previamente con permiso de la Secretaría de la Defensa Nacional. En todo caso deberá recabarse de la Dirección de Tránsito la autorización que contenga el horario y derroteros a que forzosamente habrá de sujetarse el acarreo; se usará una bandera roja en las partes posteriores y laterales que contengan la inscripción ''PELIGRO'' ''EXPLOSIVOS''.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 53.
 
-Por lo general, los objetos, mercancías, bultos, etc., no deben rebasar la anchura de las carrocerías. En caso que la carga que se transporte exceda la longitud de la carrocería, deberá acomodarse en tal forma que no rebase, sino únicamente la parte posterior en una extensión no mayor de dos metros, debiendo portar en el extremo una banderola de color rojo durante el día perfectamente visible o bien una linterna con luz del mismo color durante la noche. Hacia arriba, la carga transportada deberá ser llevada a una altura que libre, al menos, un metro del cable de energía eléctrica, telefónica o pasos a desnivel.
+Los objetos, mercancías, bultos, etc., no deben rebazar (sic) el ancho y largo de las carrocerías. Sólo excepcionalmente podrá excederse la longitud de la carrocería, en una extensión no mayor de 2.00 Mts. y cuando esto suceda deberá portarse en el extremo, una banderola de color rojo durante el día, perfectamente visible o bien una linterna del mismo color durante la noche; o en su defecto, una tabla de protección con plafones reflejantes.
+
+La carga transportada deberá ser llevada a una altura máxima de 4.00 Mts. a partir de la superficie de rodamiento.
 
 ###### ARTÍCULO 54.
 
@@ -516,7 +568,9 @@ Para permitirse la circulación de las bicicletas, triciclos, carros de mano y d
 
 I.- Con un timbre, campana, bocina y otro aparato similar.
 
-II.- Con una luz blanca colocada en la parte delantera y otra de color rojo en la parte posterior.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+II.- Con la luz blanca colocada en la parte delantera y otra de color rojo en la parte posterior y una cinta reflejante para su mejor visibilidad en la obscuridad.
 
 ###### ARTÍCULO 58.
 
@@ -546,17 +600,33 @@ Ninguna persona podrá conducir vehículos que son materia de este Reglamento, c
 
 La misma Dirección podrá autorizar a las Delegaciones de Tránsito para tramitar las solicitudes, pero siempre será aquella la que las expida.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 61.
 
-Para los efectos de este Reglamento, los conductores de vehículos se clasifican en: automovilistas, choferes, motociclistas y motonetistas:
+Para los efectos de este Reglamento, los conductores de vehículos se clasifican en: Automovilistas, choferes, operadores de servicio público, motociclistas, motonetistas y ciclistas.
 
 I.- AUTOMOVILISTAS.- Son los conductores de automóviles o vehículos análogos (Pik- Up y panel) de su pertenencia o de propiedad ajena, que no presten servicio al público y que por consiguiente no reciban retribución alguna. Si el vehículo a conducir excede de su capacidad de mil kilos, requiere el conductor licencia de chofer.
 
-II.- CHOFERES.- Son los conductores de automóviles o autobuses, destinados al servicio público, para el transporte de pasajeros o de carga, ya sea de su propiedad o de otra persona, que les retribuya por esta actividad.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-III.- MOTOCICLISTAS.- Son los conductores de vehículos de dos o tres ruedas de combustión interna, pudiendo ser de cualquier capacidad o tamaño.
+II.- CHOFERES.-Son los conductores de automóviles, camiones o camionetas destinados al servicio de transporte público o particular de carga.
 
-IV.- MOTONETISTAS.- Son los conductores de motonetas o bicicletas con motor que no excedan de 2.5 caballos de potencia.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+III.- OPERADORES DEL SERVICIO PÚBLICO.- Son los conductores de autobuses, camionetas, o automóviles destinados al servicio público para el transporte de pasajeros, ya sea en vehículos de su propiedad o de otra persona, quien los remunerará por esa actividad que desempeñan.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- MOTOCICLlSTAS.-Son los conductores de vehículos de dos o tres ruedas, de combustión interna, pudiendo ser de cualquier capacidad o tamaño.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+V.- MOTONETISTAS.-Son los conductores de motonetas o bicicletas con motor que no excedan de 2.5 caballos de potencia.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+VI.- CICLISTAS.-Son los conductores de bicicletas sin motor.
 
 ###### ARTÍCULO 62.
 
@@ -568,7 +638,9 @@ II.- Formular la solicitud conforme al modelo que se adquirirá en las Cajas de 
 
 III.- Autorización del que ejerza la patria potestad o tutela, en su caso, mediante la cual se responsabilice por el menor en las violaciones al presente Reglamento y daños a terceros.
 
-IV.- Presentar la cartilla de Servicio Militar Nacional, debidamente legalizada, cuando se encuentren en edad militar, o en su defecto, certificado de la Autoridad Militar correspondiente.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- Presentar la cartilla del Servicio Militar Nacional, debidamente liberada, cuando se encuentren en edad militar, o en su defecto, certificado de la Autoridad, Militar correspondiente.
 
 V.- Sujetarse a examen del médico adscrito a la Dirección de tránsito, y en caso de las Delegaciones, del Titular del Centro de Salud, para comprobar su aptitud física y mental, así como ser identificado por medio de los sistemas adoptados por la Dirección de Transito.
 
@@ -576,11 +648,17 @@ VI.- Sustentar examen para acreditar su pericia en el manejo del vehículo respe
 
 VII.- Efectuar el pago de los derechos correspondientes.
 
-VIII.- Presentar constancia de antecedentes de las Autoridades de Policía, del lugar de su residencia, en un período de cinco años anteriores a la solicitud.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-IX.- Tratándose de extranjeros, tendrán que comprobar su estancia legal en el país.
+VIII.- Presentar constancia de antecedentes no penales, de las autoridades de Policía del lugar de su residencia, comprendiendo un período de 5 años anteriores a la fecha de su solicitud.
 
-Los solicitantes que radiquen fuera de la capital del Estado, deberán presentar además, una constancia de antecedentes extendida por el Ciudadano Presidente Municipal del lugar de su residencia.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IX.- Tratándose de extranjeros, tendrán que comprobar su legal estancia en el País, quedando exentos del requisito señalado en la fracción IV.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Los solicitantes que radiquen fuera de la capital del Estado deberán presentar además, una constancia de antecedentes no penales extendida por el Ciudadano Presidente Municipal del lugar de su residencia.
 
 ###### ARTÍCULO 63.
 
@@ -600,21 +678,37 @@ VI.- Presentar examen especial relacionado con el funcionamiento de motores de c
 
 VII.- Acompañar a la solicitud dos cartas de recomendación de personas de reconocida honorabilidad y solvencia moral.
 
-VIII.- Constituir el interesado un depósito en efectivo, ante la Secretaría de Finanzas del Estado, por la cantidad de quinientos pesos.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+VIII.- Constituir el interesado un depósito en efectivo ante la Secretaría de Finanzas del Gobierno del Estado, por la cantidad de DOS Mil PESOS.
 
 IX.- Efectuar el pago por los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 64.
 
-Para el manejo de autobuses y camiones de carga, bien sea de servicio particular o público, automóviles de alquiler, el aspirante acreditará tener licencia de chofer con antigüedad de dos años, por lo menos, de cualquier Entidad Federativa. El propietario del vehículo que emplee a un chofer que no tenga la antigüedad a la que se refiere este precepto, será sancionado, sin perjuicio de la responsabilidad que pudiera resultar para ambos en caso de accidente.
+Para obtener licencia de operador del servicio público, el aspirante deberá acreditar ante la Dirección de Tránsito tener licencia de chofer, con antigüedad de dos años por lo menos, expedida por cualquier Entidad Federativa, y además:
 
-Los conductores de autobuses de pasajeros y automóviles de alquiler al operar los vehículos, deberán colocar dentro de éstos, en lugar visible, un tarjetón que expedirá la Dirección de Tránsito, y que contendrá: nombre completo del conductor, fotografía reciente, número de licencia y número telefónico de la Dirección de Tránsito a donde el público usuario pueda comunicar las quejas relativas al servicio. Este tarjetón deberá refrendarse cada 3 años.
+I.- Presentar certificado médico expedido por algún Centro de Salud Oficial que acredite que el aspirante se encuentra física y mentalmente apto.
+
+II.- Presentar constancia de antecedentes no penales.
+
+III.- Aprobar un curso de educación vial, según programa que determine la Dirección de Tránsito.
+
+IV.- Acreditar tener conocimientos de mecánica automotriz.
+
+V.- Otorgar un depósito en efectivo, ante la Secretaria de Finanzas del Gobierno del Estado, por la cantidad de $3,000.00.
+
+VI.- Efectuar el pago de los derechos correspondientes.
+
+Esta licencia tendrá vigencia de tres años contados a partir de su expedición y podrá ser renovada, siempre y cuando se cumpla con los requisitos señalados.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 65.
 
-Los operadores de maquinaria móvil de construcción deben obtener licencia de chofer en la Dirección de Tránsito, con iguales derechos para manipular aparatos de combustión interna en carreteras y caminos vecinales.
-
-Los operadores de tractores, conocidos como “Tractoristas”, requerirán por lo menos, licencia de automovilista.
+Los operadores de maquinaria móvil de construcción y de tractores, deberán obtener licencia de chofer de la Dirección de Tránsito con iguales derechos para manipular aparatos de combustión interna en carreteras y caminos vecinales.
 
 ###### ARTÍCULO 66.
 
@@ -746,9 +840,11 @@ Se prohíbe la utilización de la vía pública para toda clase de juegos y tran
 
 Se prohíbe formar grupos o depositar bultos que obstruyan el tránsito en los canales de exclusivo uso para los peatones.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 85.
 
-Los pasajeros deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas o cualquier otra parte externa de los mismos; tampoco lo harán de manera que alguna parte de su cuerpo sobresalga del vehículo y pueda ser lesionado.
+Los pasajeros deberán viajar en el interior de los vehículos absteniéndose de hacerlo en salpicaderas, estribos, plataformas o cualquier otra parte externa de los mismos; tampoco lo harán de manera que alguna parte de su cuerpo sobresalga del vehículo y pueda ser lesionado. El conductor que tolere alguna de estas infracciones, será severamente sancionado.
 
 ###### ARTÍCULO 86.
 
@@ -868,9 +964,11 @@ la Dirección de Tránsito marcará sobre el pavimento de las calles, con pintur
 
 Por medio de una franja con pintura de color amarillo, la Dirección de Tránsito señalará, sobre la guarnición de las banquetas, los lugares donde el estacionamiento esté sujeto a horarios especiales.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 96.
 
-La Dirección de Tránsito señalará los lugares en donde el estacionamiento se encuentre prohibido, por medio de una franja color rojo sobre la guarnición de las banquetas.
+La Dirección de Tránsito señalará los lugares en donde el estacionamiento se encuentre prohibido mediante una franja pintada de color amarillo sobre la guarnición de la banqueta o el señalamiento correspondiente.
 
 ###### ARTÍCULO 97.
 
@@ -1158,19 +1256,21 @@ Las señales de parada y de reanudación de marcha, en su caso, deberán hacerse
 
 El personal deberá presentarse al desempeño de sus labores, en las condiciones de aseo y limpieza exigidas por el servicio que prestan y deberán observar para con los pasajeros la atención y respeto debidos.
 
-## TITULO SEXTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-De las Autorizaciones y Permisos de Ruta y Sitio.
+## TITULO SEXTO. De las concesiones de ruta, sitios y automóviles de alquiler
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 143.
 
-Siendo el transporte un servicio público y atributo del Estado, éste tendrá en todo tiempo el derecho para realizarlo o autorizarlo a los particulares en los casos y con las condiciones que la Ley General de Comunicaciones, Tránsito y Transportes en las vías públicas del Estado y éste Reglamento señalan, con las modalidades que dicte el interés social.
+Siendo el transporte un servicio público y atributo del Estado, éste tendrá en todo tiempo el derecho para realizarlo o concesionario a los particulares en los casos y con las condiciones que la Ley General de Comunicaciones, Tránsito y Transportes en las Vías Públicas del Estado y este Reglamento señalan, con las modalidades que dicte el interés social.
 
-Las modalidades a que se refiere el párrafo anterior constituirán en la modificación de las autorizaciones, permisos, itinerarios, tarifas, horarios, estacionamientos y todo aquello que exijan las necesidades del público, congruentes con el desarrollo social y económico de la entidad.
+Las modalidades a que se refiere el párrafo anterior consistirán en la modificación de las concesiones, itinerarios, tarifas, horarios, estacionamientos y todo aquello que exijan las necesidades del público, congruentes con el desarrollo social y económico de la Entidad.
 
-El Ejecutivo del Estado expedirá esas autorizaciones en forma potestativa y discrecional, atentas las condiciones peculiares que concurran específicamente en cada caso, teniendo la facultad de revocarlas o cancelarlas en la forma y términos que establezcan la Ley y su Reglamento.
+El Director de Tránsito, previa autorización del Secretario de Gobernación expedirá esas concesiones, atentas las condiciones peculiares que concurran específicamente en cada caso, pudiendo revocarse o cancelarse en la forma y términos que establezcan la ley y su Reglamento.
 
 ###### ARTÍCULO 144.
 
@@ -1180,19 +1280,31 @@ En contra de los acuerdos a que se refiere el artículo anterior, procederá el 
 
 Para los efectos de este Reglamento, el servicio público de transporte es el traslado de personas, equipajes y carga para las calles y caminos de jurisdicción estatal, mediante el pago de una retribución en numerario y con el uso de vehículos autorizados por la Ley de Comunicaciones, Tránsito y Transporte en las Vías Públicas y éste Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 146.
 
-Permiso de línea o ruta, o de sitio, es la autorización que otorga el Ejecutivo del Estado para que una persona física o moral proporcione un servicio público de transporte, sujeto a un itinerario determinado, tarifas autorizadas y horario específico. Este puede ser:
+Concesiones de línea o ruta, de sitio y de automóviles de alquiler, es la autorización que se otorga en los términos del Artículo 143, para que una persona física o moral proporcione un servicio público de transporte, sujeto a un itinerario determinado, tarifas autorizadas y horario específico. Este puede ser:
 
 I.- Transporte de personas:
 
 a).- Servicio foráneo de primera y segunda clase.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 b).- Servicio urbano y suburbano.
 
 c).- Servicio exclusivo de turismo.
 
 d).- Servicio de automóviles de alquiler.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+e).- Servicio de transporte colectivo en ruta fija.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+f).- Servicio de transporte escolar.
 
 II.- Transporte de carga:
 
@@ -1202,27 +1314,61 @@ b).- Servicio de express.
 
 c).- Servicio especial.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+d).- Servicio de productos del campo no elaborados.
+
 III.- Transporte mixto: de pasajeros y carga en general.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 147.
 
-El servicio foráneo de primera del transporte público de personas, es aquel que se presta en vehículos cerrados, asientos numerados en buenas condiciones de comodidad, higiene y rapidez a juicio de la Dirección de Tránsito.
+El servicio foráneo de primera clase del transporte público de personas, es aquel que se presta de población a población, pudiendo pasar por zonas urbanas y suburbanas, en vehículos cerrados, asientos numerados en buenas condiciones de comodidad, higiene y rapidez, a juicio de la Dirección de Tránsito.
 
-El servicio foráneo de segunda del transporte público de pasajeros, es aquel que se presta en vehículos cerrados, con condiciones aceptables de comodidad, higiene y rapidez a juicio de la Dirección de Tránsito.
+El servicio foráneo de segunda clase del transporte público de personas, es aquel que se presta de población a población, pudiendo pasar por zonas urbanas y suburbanas, en vehículos cerrados con asientos en condiciones aceptables de comodidad, higiene y rapidez a juicio de la Dirección de Tránsito.
 
-ARTÍCULO 149 (SIC).- El servicio exclusivo de turismo es aquel cuya finalidad es la traslación de personas a lugares de interés turístico, arqueológico, arquitectónico, panorámico o artístico.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 1984)</small>
+
+###### ARTÍCULO 148.
+
+El servicio urbano de transporte de pasajeros, es aquel que se presta dentro del perímetro urbanizado de las poblaciones del Estado, en vehículos cerrados con asientos en condiciones aceptables de comodidad, higiene y rapidez, a juicio de la Dirección de Tránsito.
+
+El servicio suburbano de transporte de pasajeros, es aquel que se presta a poblaciones menores, colonias y barrios localizados fuera del perímetro urbanizado, pero dentro del Municipio, en vehículos cerrados, con asientos, en las mismas condiciones señaladas en el párrafo anterior, a juicio de la Dirección de Tránsito.
+
+###### ARTÍCULO 149.
+
+El servicio exclusivo de turismo es aquel cuya finalidad es la traslación de personas a lugares de interés turístico, arqueológico, arquitectónico, panorámico o artístico.
 
 Este servicio admitirá cualquier categoría de las señaladas para el transporte público de pasajeros.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 150.
 
-El servicio público de automóviles de alquiler es el que se presta mediante autorización que otorga el Estado a personas físicas, bajo las condiciones determinadas en este Reglamento para el transporte de personas.
+El servicio público de automóviles de alquiler es el que se presta mediante la concesión que otorga el Estado a personas físicas, bajo las condiciones determinadas en este Reglamento y por la Dirección de Tránsito, para el transporte de personas; cuando la concesión sea de sitio, se establecerá el lugar de estacionamiento de los vehículos destinados al servicio público.
 
-Esta autorización solo se otorgará a personas físicas que acrediten tener licencia de chofer en vigencia. En igualdad de condiciones, tendrán preferencia las de mayor antigüedad.
+Esta concesión sólo se otorgará a personas físicas que acrediten tener licencia de operador del servicio público en vigencia, y que acrediten, mediante certificado expedido por Institución Pública de Salud, encontrándose física y mentalmente apto para prestar el servicio.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+ARTÍCULO 150 A.- El servicio de transporte colectivo en ruta fija, es el que se presta en automóviles y camionetas mediante la concesión que otorga el Estado a personas físicas o morales; entendiéndose por ruta fija la que se proporciona en zonas urbanas, suburbanas y foráneas. Este servicio se prestará con vehículos con cupo no mayor de 13 pasajeros, con tarifa determinada por pasajero, debidamente autorizada y cumpliendo con lo que establece la ley, este Reglamento y demás disposiciones de la Dirección de Tránsito.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+ARTÍCULO 150 B.- El servicio de transporte escolar es aquel que presta en unidades destinadas para el traslado de educandos, de sus domicilios a sus Instituciones Educativas y viceversa; previa tarifa autorizada por la Dirección de Tránsito y que satisfagan las condiciones de seguridad, comodidad y demás requisitos que señale la propia Dirección.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 151.
 
-Se entiende por servicio público de transporte de carga, el destinado al transporte de mercancías, materiales de construcción, animales y en general, de objetos, en los términos y condiciones que señala este Reglamento.
+Se entiende por servicio público de transporte de carga, el destinado al traslado de automóviles, mercancías, materiales de construcción, animales, agua y basura en general, en los términos y condiciones que señala este Reglamento.
+
+La concesión se otorgará precisando el producto que se va a transportar y las condiciones a que se sujetará el concesionario, durante la explotación del servicio.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+ARTÍCULO 151 A.- Se entiende por servicio público de transporte de productos del campo no elaborados, el destinado al traslado de semillas, frutas y legumbres, en los términos y condiciones que señale la Dirección de Tránsito.
 
 ###### ARTÍCULO 152.
 
@@ -1242,23 +1388,35 @@ En esta clase de servicio no se podrá transportar carga que pueda afectar la se
 
 Las unidades destinadas a la prestación de servicios públicos de transporte, deberán llenar los requisitos señalados en este Reglamento. En tanto no se cumpla con los mismos, no podrá autorizarse el servicio.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 156.
 
-Las permisos de ruta o línea o de sitio, a que se refiere el Artículo 146 se otorgarán previa solicitud que se transmitirá (sic) ante la Dirección de Tránsito, siendo el Gobernador del Estado el único facultado para determinar sobre su admisión y autorización, con sujeción a lo dispuesto por el artículo 143 y relativos de este Reglamento. Dichos permisos serán individuales y se expedirán a personas físicas mayores de edad, o a personas morales que acrediten su constitución legal, por lo que se refiere a los permisos de línea o ruta. En tratándose del servicio público de automóviles de alquiler, se estará a lo dispuesto por el Artículo 150 de este Reglamento.
+Las concesiones de ruta o línea, de sitio y de automóviles de alquiler de pasajeros a que se refiere el Artículo 146 se otorgarán previa solicitud que se tramitará ante la Dirección de Tránsito, con sujeción a lo dispuesto por el Artículo 143 y relativos de este Reglamento.
+
+Dichas concesiones serán individuales y se expedirán a personas físicas mayores de edad, o a personas morales que acrediten su constitución legal. En tratándose del servicio público de automóviles de alquiler, se estará a lo dispuesto por el artículo 150 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 157.
 
-Las solicitudes para los permisos a que este título se refiere, se presentarán por triplicado ante la Dirección de Tránsito, de acuerdo con las formas que ésta proporcionará y contendrán los siguientes requisitos:
+Las solicitudes para las concesiones a que este Titulo se refiere, se presentarán por triplicado ante la Dirección de Tránsito, de acuerdo con las formas que ésta proporcionará y contendrán los siguientes requisitos:
 
 I.- Nombre completo, edad y domicilio del peticionario, o en su caso, el nombre de la sociedad, razón social y domicilio.
 
 II.- Comprobación de la nacionalidad mexicana del solicitante, mediante copia certificada de su acta de nacimiento, o por cualquiera de los medios que señalan las leyes.
 
-III.- Actividad a la que se dedique y constancia de que carece de antecedentes penales.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-IV.- Declaración bajo protesta de decir verdad sobre si tiene o no alguna autorización o permiso para el servicio que pretenda, y en caso afirmativo, el número de esos permisos y la autoridad que se los concedió, y que conoce las causas de revocación o cancelación de los permisos, de acuerdo con lo establecido en este Reglamento.
+III.- Actividad a la que se dedique y constancia de que carece de antecedentes penales. En tratándose de automóviles de alquiler, el solicitante deberá justificar ante la Dirección de Tránsito, ser o haber sido trabajador del servicio público en dicha modalidad.
 
-V.- Los nombres de los puntos extremos de la ruta que se desee explotar, con expresión de las poblaciones que toque en su recorrido y sus terminales.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- Declaración bajo protesta de decir verdad sobre si tiene o no alguna concesión para el servicio que pretenda, y en caso afirmativo, el número de esas concesiones y la Autoridad que se las concedió, y que conoce las causas de revocación o cancelación de las concesiones, de acuerdo con lo establecido por la ley y el Reglamento.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+V.- Nombre de las calles que pretende emplear en el recorrido, acompañando un croquis en el que se encuentre determinado éste, así como la especificación de terminales en su caso, o bien el lugar donde se pretende establecer el sitio.
 
 VII (SIC).- La clase de servicio que se pretenda dar.
 
@@ -1266,93 +1424,113 @@ VIII.- Tipo de vehículo que se pretenda utilizar.
 
 A los funcionarios y empleados públicos y a los sentenciados por delitos intencionales no se otorgará ningún permiso.
 
-ARTÍCULO 159 (SIC).- A la solicitud se acompañará un certificado de depósito ante la Secretaría de Finanzas del Estado, que anticipadamente fijará el Director de Tránsito, no menor de UN MIL PESOS ni mayor de TRES MIL por cada permiso que se pretenda y que servirá de garantía de la formalidad de las gestiones del peticionario. Este depósito se devolverá al concederse el permiso, o quedará a favor del Estado si se abandonan por más de un mes los trámites necesarios, o no se presenta el vehículo para iniciar el servicio autorizado dentro de un término de 30 días a partir de la fecha en que se comunique oficialmente la autorización concedida.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+ARTÍCULO 159 (SIC).- A la solicitud se acompañará un certificado de depósito ante la Secretaría de Finanzas del Gobierno del Estado, por la cantidad que anticipadamente fijará el Director de Tránsito, no menor de $ 5,000.00 (CINCO Mil PESOS) ni mayor de $ 10,000.00 (DIEZ Mil PESOS) por cada concesión que se pretenda y que servirá de garantía de la formalidad de las gestiones del peticionario.
+
+Este depósito se devolverá al autorizarse la concesión, o quedará a favor del Estado si se abandonan por más de un mes los trámites necesarios, o no se presente el vehiculó para iniciar el servicio autorizado dentro de un término de 30 días a partir de la fecha en que se comunique oficialmente la autorización concedida.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 160.
 
-Toda solicitud, inclusive sus copias, serán anotadas con la fecha y hora de su presentación ante la Dirección de Tránsito, y su Titular dará cuenta al Gobernador del Estado para que en términos del párrafo tercero del artículo 143 de este Reglamento, determine lo procedente. En su caso de aceptarse, se integrará el expediente administrativo con sujeción a la Ley de la materia y los requisitos que señala este Reglamento.
+Toda solicitud, inclusive sus copias, serán anotadas con la fecha y hora de su presentación ante la Dirección de Tránsito, para que en términos del párrafo tercero del Artículo 143 de este Reglamento, se d3!ermine lo procedente. En su caso, se integrará el expediente administrativo con sujeción a la ley de la materia y los requisitos que señale este Reglamento.
 
-Cuando la solicitud se refiera a permisos para automóviles de alquiler, deberá acompañarse la constancia que acredite que el peticionario satisfaga el requisito del párrafo segundo del Artículo 150 de este Reglamento.
+Cuando la solicitud se refiera a concesiones para automóviles de alquiler, el peticionario deberá acreditar que tiene licencia vigente de operador de dicho servicio público.
 
 ###### ARTÍCULO 161.
 
 Se tendrán por improcedentes las solicitudes, en los siguientes casos:
 
-I.- Cuando el peticionario tenga tres permisos para explotar servicios públicos de trasporte (sic).
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+I.- En tratándose de automóviles de alquiler, cuando el peticionario tenga tres concesiones.
 
 II.- Cuando el solicitante sea extranjero o la sociedad, en su caso, sea anónima.
 
 III.- Cuando la ruta esté cerrada, o se encuentren satisfechas las necesidades del público.
 
-IV.- Cuando se lesionen los intereses legítimos de las líneas ya establecidas, a juicio del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- Cuando se lesionen los intereses legítimos de las líneas ya establecidas, a juicio de la Dirección de Tránsito.
 
 V.- Cuando se trate de servicios intermedios entre poblaciones en las que ya existen rutas establecidas, si la solicitud se refiere a servicios semi-urbanos o foráneos.
 
-Tratándose de permisos para automóviles de alquiler, cada tres años ser practicará un estudio socio- económico con el fin de determinar el número de autorizaciones que se requieren para satisfacer las necesidades del público.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Para los electos de lo dispuesto en la fracción II, cada tres años se realizarán estudios técnicos y socio-económicos, con el propósito de determinar el número de concesiones que se requieran para satisfacer las necesidades del público, en cada una de las poblaciones que integran el Estado, oyendo la opinión del Instituto del Transporte del Estado de Puebla.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 162.
 
-Admitida la solicitud y satisfechos los requisitos reglamentos (sic), el Ejecutivo del Estado, resolverá lo procedente, y su fuere favorable, concederá al solicitante un plazo de 10 días para que presente los itinerarios, horarios y tarifas para su estudio y aprobación.
+Admitida la solicitud y satisfechos los requisitos reglamentarios, el Director de Tránsito, previa autorización del Secretario de Gobernación, resolverá lo procedente, y si fuere favorable, concederá al solicitante un plazo de 10 días para que presente los itinerarios, horarios, tarifas y toda la documentación relativa, para su estudio y aprobación.
 
 Aprobados éstos, el permisionario deberá presentar el vehículo para el servicio dentro de un término de treinta días a partir de aquel en que se le haya comunicado la autorización. Presentado el vehículo, se procederá a su inscripción y registro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 163.
 
-Las permisos contendrán los datos siguientes:
+Las concesiones contendrá (sic) los datos siguientes:
 
-I.- Nombre completo, domicilio y demás generales del propietario. Al permiso se anexará un retrato de éste, de tres cuartos de perfil.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+I.- Nombre completo, domicilio y demás generales del propietario. A la concesión se anexará un retrato de éste, de tres cuartos de perfil.
 
 II.- Tipo del vehículo, su marca, número de motor, peso neto, su capacidad de pasajeros o su tonelaje, según el caso, el número de sus placas, registro federal de automóviles y registro federal de causantes.
 
 III.- Servicio al que se destinará el vehículo, precisando la ruta que se vaya a utilizar.
 
-IV.- Las causas de revocación del permiso o autorización, de acuerdo con lo establecido en este Reglamento, y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+IV.- Las causas de revocación o cancelación de la concesión, de acuerdo con lo establecido en este Reglamento, y
 
 V.- Lugar y fecha de expedición.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 164.
 
-Las permisos de automóviles de alquiler, se consideran como bienes extracomerciales y por lo mismo no serán susceptibles de embargo, enajenación, venta, cesión o traslado de dominio o uso, bajo ningún concepto, a no ser en los casos siguientes:
+Las concesiones otorgadas para la explotación del servicio público de automóviles de alquiler, se consideran bienes extracomerciales y de patrimonio familiar; por lo mismo no serán susceptibles de embargo, arrendamiento, venta, enajenación, cesión, donación o cualquier otra figura jurídica de traslado de dominio, a no ser por sucesión, de acuerdo a las reglas del Derecho Civil, o por incapacidad física o mental debidamente comprobada.
 
-I.- Por herencia, a través de pliego mortuorio que, ratificado ante Notario Público, sea entregado por el permisionario a la Dirección de Tránsito del Estado, o en su defecto, conforme a las reglas del Derecho Civil.
+En el primer caso, el interesado deberá acompañar a su solicitud copia certificada del documento en que conste la aplicación de bienes.
 
-II.- Por sufrir el permisionario un accidente o siniestro que le haga imposible la explotación del servicio.
-
-III.- Por padecer el permisionario una enfermedad que le impida física o psíquicamente la explotación del permiso.
-
-IV.- Cuando el permisionario tenga que ausentarse de la ciudad para cambiar de domicilio. En este caso, deberá acompañarse constancia de la autoridad municipal del lugar donde establezca su nuevo domicilio, o cualquier otro medio que lo justifique, a juicio del Gobernador del Estado.
-
-V.- Por causas graves que lo ameriten, debidamente comprobadas a juicio del Gobernador del Estado.
-
-La trasmisión de los permisos se sujetará además en su caso, a lo dispuesto por el Artículo 171 de este Reglamento.
+Para el caso de incapacidad, es necesario que ésta sea debidamente certificada por cualquier Institución Pública de Salud.
 
 ###### ARTÍCULO 165.
 
 Cuando las necesidades del servicio lo requieran, las líneas camioneras podrán solicitar su ampliación, ya sea en su recorrido o capacidad de los autobuses, considerándose como capacidad máxima de éstos, la de cincuenta pasajeros.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 166.
 
-Para comprobar las necesidades expresadas, así como para otorgar autorización de nuevas permisos, se oirá la opinión de una comisión formada por un representante del Gobierno del Estado, uno del público usuario y uno por cada una de las líneas existentes que tengan relación con el servicio solicitado.
-
-El informe de dicha comisión únicamente servirá para ilustrar el criterio del Ejecutivo del Estado en el ejercicio de su facultad discrecional para otorgar la autorización de los permisos.
+Para comprobar las necesidades expresadas, así como para otorgar autorización de nuevas concesiones, se oirá la opinión del Instituto del Transporte del Estado de Puebla.
 
 ###### ARTÍCULO 167.
 
 Cuando a juicio del Ejecutivo del Estado, el número de permisos sea suficiente para cubrir las necesidades de la línea o sitio de automóviles, podrá decretar su cierre.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 168.
 
-Sólo podrán concederse nuevas autorizaciones en líneas o sitios ya cerrados, cuando se presenten causas que determinen su necesidad, a juicio del Gobernador del Estado. En estos casos y cuando se presente alguna vacante, se dará preferencia a los permisionarios de la misma que no tengan el número de permisos autorizados por este Reglamento.
+Sólo podrán concederse nuevas concesiones, cuando se presenten causas que determinen su necesidad, a juicio del Ejecutivo del Estado, y en líneas sitios o rutas ya cerrados.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 169.
 
-Las personas a quienes se haya concedido una autorización para realizar el servicio público del transporte, deberán revalidarla anualmente.
+Las personas a quienes se haya otorgado una concesión para prestar el servicio público del transporte, deberán revalidarla anualmente.
 
 ### CAPITULO II. De los Permisos Provisionales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 170.
 
-Se podrán conceder permisos provisionales en los casos siguientes:
+Se podrán otorgar permisos provisionales en los casos siguientes:
 
 I.- Cuando exista mayor demanda de transporte, motivada por ferias, exposiciones y excursiones. En este caso tendrán preferencia los permisionarios de las líneas establecidas, aun cuando tuvieran el número de vehículos o permisos que marca este Reglamento.
 
@@ -1360,33 +1538,45 @@ II.- Cuando se trate de vehículos que de manera eventual hagan uso de los camin
 
 La duración de los permisos a que se refieren las fracciones anteriores no será mayor de ocho días.
 
-III.- Para vehículos de pasaje y carga, cuando se trate de experimentar una ruta a lugares del Estado en donde no haya caminos construídos. Estos permisos se extenderán por un término no mayor de treinta días, debiendo el permisionario, en todo caso, informar a la Dirección de Tránsito sobre el volumen de pasaje y carga transportados y observaciones sobre la mejor manera de prestar el servicio. El Ejecutivo del Estado autorizará los permisos definitivos a quienes satisfagan con mayor amplitud los requisitos del servicio, aun cuando no sean los que gozaron del permiso provisional.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+III.- Para vehículos de pasaje y carga cuando se trate de experimentar una nueva ruta en el Estado. Estos permisos se extenderán por un término no mayor de 30 días, debiendo el concesionario, en todo caso, informar a la Dirección de Tránsito sobre el volumen de pasaje y carga transportados y observaciones sobre la mejor manera de prestar el servicio. El Director de Tránsito, con los requisitos que señala la Ley de la Materia, autorizará las concesiones definitivas a quienes satisfagan con mayor amplitud las necesidades del servicio, aun cuando no sean los que gozaron de la concesión provisional.
 
 IV.- Para viajes turísticos, los que se otorgarán cuando no exista servicio establecido o habiéndolo sea insuficiente para satisfacer la demanda, debiendo estarse a lo previsto en la fracción que antecede.
 
-### CAPITULO III. De la Cesión de Permisos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+### CAPITULO III. De la cesion de concesiones
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 171.
 
-Para ceder un permiso, se observarán las reglas siguientes:
+Para ceder una concesión, se observarán las reglas siguientes:
 
-I.- Obtener autorización previa del ejecutivo del Estado, a través de solicitud dirigida a la Dirección de Tránsito.
+l.- Obtener autorización previa del Secretario de Gobernación a través de solicitud dirigida a la Dirección de Tránsito, en la que se exprese la causa de la cesión, la que será calificada por el propio Secretario de Gobernación.
 
-II.- Cubrir el cesionario los requisitos marcados en el presente Reglamento.
+II.- Cubrir el cesionario los requisitos señalados por la Ley de la Materia y el presente Reglamento.
 
-III.- Comprobar el cedente que este al corriente del pago de sus impuestos, que es propietario del vehículo y que ha cumplido con las obligaciones que le impone el permiso, de acuerdo con lo que establezca la Ley de Ingresos del Estado.
+III.- El solicitante deberá comprobar que es propietario del vehículo con el que prestará el servicio, que se encuentra física y mentalmente apto para poder explotar la concesión y que ha cumplido con las obligaciones que le impone la referida concesión, de acuerdo con lo que establezca la Ley de Ingresos del Estado. El cedente comprobará estar al corriente del pago de sus impuestos.
 
-La cesión quedará sin efecto cuando haya falseado en los informes o documentación presentados, ordenándose la cancelación del permiso sin perjuicio de las sanciones que procedan.
+La cesión quedará sin efecto cuando haya falsedad en los informes o documentación presentados, ordenándose la cancelación de la concesión, sin perjuicio de las sanciones penales que procedan.
 
-### CAPITULO IV. De la Revocación y Cancelación de los Permisos
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+### CAPITULO IV. De la revocacion y cancelacion de las concesiones
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 172.
 
-Los permisos se revocarán:
+Las concesiones se revocarán:
 
 I.- Porque se haga un servicio distinto al autorizado, sea aquel notoriamente deficiente, o carezcan los vehículos de los requisitos de seguridad previstos en este Reglamento.
 
-II.- Por hacer el servicio sistemáticamente fuera de la ruta que se exprese en el permiso.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+II.- Por hacer el servicio sistemáticamente fuera de la ruta que se expresa en la concesión.
 
 III.- Por venta o cambio del vehículo sin la autorización correspondiente.
 
@@ -1394,15 +1584,23 @@ IV.- Por suspensión del servicio sin causa justificada o autorización previa.
 
 V.- Por reincidencia en el incumplimiento de horarios y tarifas, si la falta ocurre por tres o más veces.
 
-VI.- Por cometer un hecho delictuoso relacionado con el carácter de permisionario, previa sentencia ejecutoriada.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-VII.- Por falta de liquidación oportuna, dentro de los cuarenta y cinco días naturales siguientes a aquel en que sean exigibles, de los derechos fiscales correspondientes a la revalidación de los permisos.
+VI.- Por cometer un hecho delictuoso relacionado con el carácter de concesionario, previa sentencia ejecutoriada.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+VII.- Por falta de liquidación oportuna dentro de los cuarenta y cinco días naturales siguientes a aquel en que sean exigibles los derechos fiscales correspondientes a la revalidación de las concesiones.
 
 VIII.- Por transportar bebidas alcohólicas sin la autorización correspondiente, en los casos en que ésta se requiera, o por transportar drogas o enervantes.
 
-IX.- Porque el titular intente o realice el arrendamiento, venta, cesión, enajenación, o cualquier acto traslativo de dominio del permiso o autorización concedida, sin la aprobación del Ejecutivo del Estado, en los casos permitidos.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1984)</small>
 
-Los acuerdos de revocación a que se refiere el artículo anterior y la cancelación de los permisos se harán por Gobernador del Estado previa audiencia del interesado. Contra esta resolucion, procede el recurso de reconsideración.
+IX.- Porque el concesionario intente o realice el arrendamiento, venta, cesión, enajenación, o cualquier acto traslativo de dominio de la concesión otorgada, sin la aprobación del Director de Tránsito, en los casos permitidos.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
+Los acuerdos de revocación y cancelación de las concesiones se harán por el Ejecutivo del Estado, previa audiencia del interesado. Contra estas resoluciones, procede el recurso de reconsideración.
 
 ###### ARTÍCULO 173.
 
@@ -1414,17 +1612,23 @@ En los casos del artículo anterior y siempre que se suspenda el servicio públi
 
 Servirán de base para el establecimiento de los horarios, tarifas e itinerarios, los estudios económicos y técnicos que practique la Dirección de Tránsito a través de los Departamentos correspondientes, atendiendo siempre a la capacidad de la ruta, distancia, recorrido, estado del camino, servicio que preste de la región.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 175.
 
-Las tarifas que se cobren a los usuarios del servicio que se preste, los itinerarios y horarios a cumplir por los permisionarios, deberán ser aprobados por el Ejecutivo del Estado al otorgar la autorización correspondiente.
+Las tarifas que se cobren a los usuarios del servicio que se preste, los itinerarios y horarios a cumplir por los concesionarios, deberán ser aprobados por el Director de Tránsito al otorgar la autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 176.
 
-La vigencia de las tarifas, horarios e itinerarios será indefinida, de acuerdo con el permiso, pero el Ejecutivo del Estado podrá en cualquier momento modificarlas por causas de interés público, oyendo previamente a los interesados, con base en un estudio socio-económico sobre la costeabilidad del servicio.
+La vigencia de las tarifas, horarios e itinerarios será indefinida, de acuerdo con la concesión, pero el Director de Tránsito del Estado podrá en cualquier momento modificarlas por causa de interés público, oyendo previamente a los interesados, con base en un estudio socio-económico sobre la costeabilidad del servicio y oyendo la opinión del Instituto del Transporte del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
 
 ###### ARTÍCULO 177.
 
-Las tarifas aprobadas por el Ejecutivo del Estado, para surtir sus efectos, deberán hacerse del conocimiento del público, cuando menos con cinco días de anticipación.
+Las tarifas aprobadas por el Director de Tránsito, para surtir sus efectos, deberán hacerse del conocimiento del público, cuando menos con cinco días de anticipación.
 
 ###### ARTÍCULO 178.
 
@@ -1620,9 +1824,11 @@ III.- Las características de los vehículos motivo de la solicitud, indicando s
 
 IV.- La clase de servicio que se pretenda prestar y el número de vehículos que vayan a estacionarse.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 200.
 
-El Director de Tránsito, Previa Inspección del lugar de que se trate, resolverá si es o no de concederse el permiso, atendiendo a las necesidades del público y a que la ubicación del sitio no se encuentre en calles de fuerte densidad de circulación, ni a menos de 400 metros de otro ya establecido.
+El Director de Tránsito, previa inspección del lugar de que se trate, resolverá si es o no de concederse la concesión, atendiendo a las necesidades del público y a que la ubicación del sitio no se encuentre en calles de fuerte densidad de circulación, ni a menos de 400.00 Mts. de otro ya establecido.
 
 ###### ARTÍCULO 201.
 
@@ -1632,9 +1838,11 @@ En las calles por donde circulen líneas de transporte público de pasajeros, no
 
 La Dirección de Tránsito o las Delegaciones, estarán autorizadas para suprimir o cambiar en cualquier tiempo los sitios que constituyan un problema para la circulación, previa audiencia de los interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 203.
 
-Las permisos de sitio (lugar) podrán ser cancelados en los casos siguientes:
+Las concesiones de sitio (lugar) podrán ser canceladas en los casos siguientes:
 
 I.- Porque no se efectúe un servicio regular y continuo en el lugar asignado.
 
@@ -1650,9 +1858,11 @@ V.- Por causas de interés social.
 
 En este último caso, la Dirección de Tránsito autorizará otro lugar para el estacionamiento de nuevo sitio, o bien, la incorporación de los permisionarios a otros ya establecidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 204.
 
-Las personas a quienes se haya expedido permiso de sitio, estarán obligadas:
+Las personas a quienes se haya expedido una concesión de sitio, estarán obligadas:
 
 I.- A impedir que en los lugares señalados se hagan reparaciones a los vehículos.
 
@@ -1716,11 +1926,13 @@ Cuidarán, asimismo, que éstas se conserven en buen estado de limpieza, y que s
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 215.
 
-Para los efectos de este Reglamento, no se considera como servicio público de transporte aquel en que la carga sea propiedad del dueño del vehículo o existe entre éste y los pasajeros una relación de dependencia directa o inmediata, de naturaleza económica, cultural o relacionada con la prestación de un servicio en el que el transporte sea mero accesorio, como los señalados a continuación:
+Para los efectos de este Reglamento, no se considera como servicio público de transporte aquel en que la carga sea propiedad del dueño del vehículo o existe entre éste y los pasajeros una relación de dependencia directa o inmediata, de naturaleza económica; cultural o relacionada con la prestación de un servicio en el que el transporte sea mero accesorio, como los señalados a continuación:
 
-I.- El transporte de educandos.
+I.- (DEROGADA, P.O. 19 DE OCTUBRE DE 1984)
 
 II.- El transporte de personas en vehículos, por empresas fúnebres, en el desempeño de sus actividades.
 
@@ -1828,7 +2040,7 @@ IV.- Realizar las actividades necesarias para el control, cumplimiento y mejoram
 
 V.- Levantar las actas de infracción, para hacer constar las transgresiones que en materia de transporte de servicio público, se cometan.
 
-## TÍTULO DECIMO. De las sanciones en General
+## TITULO DECIMO. De las sanciones en General
 
 ### CAPITULO I. De las Faltas y Sanciones
 
@@ -1838,9 +2050,11 @@ La Dirección de Tránsito aplicará sanciones por violación a cualquiera de la
 
 El arresto se impondrá por el tiempo y en los casos específicamente señalados en el tabulador de sanciones. Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 224.
 
-El tabulador de infracciones se elaborará, modificará, o adicionará, por Ejecutivo del Estado.
+El tabulador de infracciones se elaborará, modificará, o adicionará, por la Dirección de Tránsito del Estado, previa autorización del Secretario de Gobernación.
 
 ###### ARTÍCULO 225.
 
@@ -1934,771 +2148,647 @@ En los casos en que el recurso se promueva contra una resolución del Ejecutivo 
 
 Las audiencias a que este título se refiere se celebrarán con o sin la comparecencia del recurrente.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+
 ###### ARTÍCULO 241.
 
-Las violaciones al Reglamento de Tránsito que a continuación se expresan, se sancionarán al siguiente:
+Las violaciones al Reglamento de Tránsito que a continuación se expresan, se sancionarán conforme al siguiente:
 
 TABULADOR DE INFRACCIONES
 
-I.- DE LAS AUTORIZACIONES Y PERMISOS.
+l.- DE LAS CONCESIONES.
 
-MIN. MAX.
+1.- Realizar servicio público de transporte
 
-1.- Realizar servicio público de
+sin la autorización correspondiente.
 
-Transporte sin la autorización
+ARTICULO 143 $ 2,000.00 a $ 6,000.00
 
-Correspondiente. Artículo 143. $800.00 a $1,000.00
+2.- Carecer de autorización especial, los
 
-2.- Carecer de autorización
+camiones que excedan de la carga y
 
-especial, los camiones que exceden
+dimensión que fija el Reglamento.
 
-de la carga y dimensiones que
+ARTICULO37 $ 1,000.00 a $ 3,000.00
 
-fija el Reglamento. Artículo 37
+3.- Carecer de permiso para transporte de
 
-párrafo segundo $200.00 $400.00
+carga, los camiones, camionetas y
 
-3.- Carecer del permiso para
+automóviles particulares que hagan
 
-transporte de carga, los camiones,
+este servicio. ARTICULO 38 $ 1,000.00 a $ 3,000.00
 
-camionetas y automóviles
+4.- Carecer de autorización para transportar
 
-particulares que hagan este
+maquinaria u objetos cuyo peso pueda
 
-servicio. Artículo 38. $600.00 $800.00
+entorpecer la libre circulación o causar
 
-4.- Carecer de autorización para
+daño al pavimento. ARTÍCULOS 8° y 49 $ 2,000.00 a $ 6,000.00
 
-transportar maquinaria u objetos cuyo
+II.-DE LA CIRCULACIÓN.
 
-peso puedan entorpecer la libre
+5.- Conducir vehículos en estado de
 
-circulación o causar daño al
+ebriedad o bajo el influjo de drogas o
 
-pavimento. Artículo 8 y 49. $400.00 $600.00
+enervantes. ARTICULO 99, ARRESTO
 
-II.- DE LA CIRCULACIÓN.
+HASTA DE 35 HORAS o multa de $ 5,000.00 a $ 15,000.00
 
-5.- Conducir vehículos en estado
-
-de ebriedad o bajo el influjo de drogas
-
-o enervantes. Artículo 99. ARRESTO
-
-HASTA DE 36 HORAS O MULTA DE: $500.00 a $1000.00
-
-SIN PERJUICIO DE CANCELAR, EN
-
-SU CASO, LA LICENCIA DEL CONDUCTOR
-
-EN TODO CASO SE DETENDRÁ EL
-
-VEHÍCULO, PARA SER DEVUELTO AL
-
-INTERESADO AL DÍA SIGUIENTE.
+Sin perjuicio de cancelar en su caso, la licencia del conductor. En todo caso se detendrá el vehículo para ser devuelto al interesado al día siguiente.
 
 6.- Conducir vehículos sin los anteojos
 
-anotados en la licencia. Artículo 70. $50.00 $100.00
+anotados en la licencia. ARTICULO 70 $ 500.00 a $ 1,500.00
 
 7.- Utilizar la vía pública para juegos con
 
-vehículos no reglamentados. Artículo 83. $50.0 $100.00
+vehículos no reglamentados. ARTICULO 83 $ 2,000.00 a $ 6,000.00
 
-8.- Llevar a su izquierda o entre sus
+8.- Llevar a su izquierda o entre sus manos
 
-manos alguna persona, bulto o permitir
+alguna persona, bulto o permitir alguna
 
-alguna intromisión sobre el control de
+intromisión sobre el control de la dirección.
 
-dirección. Artículo 100. $50.00 $100.00
+ARTICULO 100 $ 1,000.00 a $ 3,000.00
 
 9.- Transitar sobre las banquetas, rayas
 
-longitudinales; dentro de una isleta
+longitudinales; dentro de una isleta o
 
-o zona de seguridad para peatones;
+zona de seguridad para peatones;
 
-rebasar en alto la zona de peatones
+rebasar en alto la zona de peatones o
 
-o el alineamiento de los edificios
+el alineamiento de los edificios.
 
-###### Artículo 102.
+ARTICULO 102 $ 500.00 a $ 1,500.00
 
-$30.00 $100.00
+10.- Dar vuelta en "U" en lugares no
 
-10.- Dar vuelta en ''U'' en lugares no
+permitidos. ARTICULO 104 $ 500.00 a $ 1,500.00
 
-permitidos. Artículo 104. $50.00 $100.00
+11.- Detener la marcha del vehículo sin
 
-11.- Detener la marcha del vehículo
+pegarse a la banqueta de estacionamiento,
 
-sin pegarse a la banqueta de
+o no hacer las señales necesarias para
 
-estacionamiento, o no hacer las
-
-señales necesarias para ello.
-
-###### Artículo 106.
-
-$50.00 $100.00
+ello. ARTICULO 106 $ 200.00 a $ 600.00
 
 12.- Reparar vehículos en la vía pública,
 
 fuera de los casos permitidos.
 
-###### Artículo 110.
-
-$50.00 $100.00
+ARTICULO 110 $ 1,000.00 a $ 3,000.00
 
 13.- Abandonar el vehículo en la vía
 
-pública, con el motor en movimiento.
+pública con el motor en movimiento.
 
-###### Artículo 111.
+ARTICULO 111 $ 500.00 a $ 1,500.00
 
-$50.00 $100.00
+14.- Dar marcha atrás en una intersección;
 
-14.- Dar marcha atrás en una
+en una calle por más de 10 Mts. O
 
-Intersección: en una calle por más de
-
-10 metros o interfiriendo el tránsito.
-
-###### Artículo 113.
-
-$50.00 $100.00
+interfiriendo el tránsito. ARTICULO 113 $ 500.00 a $ 1,500.00
 
 15.- Avanzar sobre una intersección
 
 interrumpiendo la circulación.
 
-###### Artículo 122.
+ARTICULO 122 $ 500.00 a $ 1,500.00
 
-$30.00 $50.00
+16.- Entrar o salir vehículos fuera de los
 
-16.- Entrar o salir vehículos fuera
-
-de los lugares señalados, en las vías
+lugares señalados, en las vías públicas
 
 de acceso controladas. (Estadios,
 
-almacenes, etc.) Artículo 125. $30.00 $50.00
+Almacenes, etc.) ARTÍCULO 125 $ 300.00 a $ 900.00
 
-17.- No ceder el paso a los peatones
+17.- No ceder el paso a los peatones que
 
-que se encuentran sobre la superficie
+se encuentran sobre la superficie de
 
-de rodamiento. Artículo 129. $30.00 $50.00
+rodamiento. ARTICULO 129 $ 500.00 a $ 1,500.00
 
-18.- No ceder el paso a los vehículos
+18.-No ceder el paso a los vehículos del
 
-de servicios de ambulancias, policía,
+servicio de Ambulancia, Policía, Tránsito,
 
-tránsito, bomberos y transporte militar.
+Bomberos y Transporte Militar.
 
-Artículo 116 Fracc. III y 120. $100.00
+ARTÍCULOS 116 fracción III y 120 $ 1,000.00 a $ 3,000.00
 
-19.- Circular con las puertas de
+19.- Circular con las puertas de seguridad
 
-seguridad abiertas. Artículo 135. $30.00 $50.00
+abiertas. ARTICULO 135 $ 1,000.00 a $ 3,000.00
 
 20.- Llevar pasajeros en el exterior del
 
-vehículo. Artículo 137. $50.00
+vehículo. ARTÍCULOS 85 y 137 $ 2,000.00 a $ 6,000.00
 
-21.- No hacer la parada a los usuarios o
-
-hacerla a la mitad del arroyo.
-
-###### Artículo 136.
-
-$50.00
-
-22.- Hacer paradas, los vehículos de
+21.- Hacer paradas, los vehículos de
 
 servicio público de pasajeros, en lugares
 
-no autorizados. Artículo 136. $50.00 $100.00
+no autorizados. ARTICULO 136 $ 300.00 a $ 900.00
 
-23.- Circular o realizar maniobras
+22.- No hacer la parada a los usuarios o
 
-de carga o descarga fuera de las
+hacerla a la mitad del arroyo. ARTICULO 136 $ 500.00 a $ 1,500.00
 
-zonas y horas permitidas.
+23.-Circular o realizar maniobras de carga
 
-###### Artículo 206.
+o descarga fuera de las zonas y horas
 
-$50.00 $100.00
+permitidas. ARTICULO 206 $ 300.00 a $ 900.00
 
-24.- Cargar combustibles con el motor
+24.-Cargar combustible con el motor
 
 funcionando o con pasaje a bordo.
 
-###### Artículo 112.
+ARTÍCULO 112 $ 500.00 a $ 1,500.00
 
-$50.00 $100.00
+25.-No llevar la tarifa autorizada.
 
-25.- No llevar la tarifa autorizada.
+ARTÍCULOS 35 fracción II y 134 $ 1,000.00 a $ 3,000.00
 
-Artículo 35 Fracción II y 134. $50.00 $100.00
+26.-Causar daño a la vía pública.
 
-26.- Causar daño a la vía pública.
+ARTICULO 7° $ 300.00 a $ 900.00
 
-###### Artículo 7.
+27.-Romper los autobuses, el cordón de
 
-$100.00 $200.00
+circulación, sin causa justificada.
 
-27.- Romper, los autobuses, el cordón
+ARTÍCULO 101 $ 300.00 a $ 900.00
 
-de circulación, sin causa justificada.
+28.- Tocar el claxon o bocina en lugar
 
-###### Artículo 101.
+prohibido o en forma ofensiva.
 
-$50.00 $100.00
+ARTICULO 128 $ 300.00 a $ 900.00
 
-28.- Tocar el claxon o bocinas en
+29.- Interrumpir desfiles. ARTICULO 102
 
-lugar prohibido o en forma ofensiva.
+fracción III $ 300.00 a $ 900.00
 
-###### Artículo 128.
+III.-DE LAS CONDICIONES, DISPOSITIVOS Y ACCESORIOS NECESARIOS PARA CIRCULAR.
 
-$30.00 $50.00
+30.- Carecer de claxon, bocina o timbre.
 
-29.- Interrumpir desfiles. Artículo
-
-102 Fracción III. $50.00
-
-III.- DE LAS CONDICIONES, DISPOSITIVOS Y ACCESORIOS NECESARIOS PARA CIRCULAR.
-
-30.- Carecer de claxon, bocina o
-
-timbre. Artículo 34 Fracción II. $30.00 $50.00
+ARTICULO 34 fracción II $ 300.00 a $ 900.00
 
 31.- Emplear sirena o silbato accionado
 
-con el escape del vehículo.
+con el escape del vehículo. ARTICULO
 
-Artículo 34 Fracción II. $50.00 $100.00
+34 fracción II $ 500.00 a $ 1,500.00
 
-32.- Carecer de velocímetro o frenos
+32.- Carecer de velocímetro o frenos en
 
-en buenas condiciones. Artículo 34
+buenas condiciones. ARTICULO 34
 
-Fracciones III y VI. $100.00 $200.00
+fracciones III y VI $ 500.00 a $ 1,500.00
 
-33.- Carecer de las luces reglamentarias
+33.-Carecer de las luces reglamentarias
 
-para circular. Artículo 34 Fracción IV. $30.00 $50.00
+para circular. ARTICULO 34 fracción IV $ 500.00 a $ 1,500.00
 
 34.- Carecer de herramienta para casos
 
-de emergencia o de la llanta auxiliar.
+de emergencia, o de la llanta auxiliar.
 
-Artículo 34 Fracción V. $30.00 $50.00
+ARTICULO 34 fracción V $ 500.00 a $ 1,500.00
 
-35.- Carecer de espejo retroscópico
+35.- Carecer del espejo retroscópico o
 
-o limpiadores. Artículo 34 Fracciones
+limpiadores. ARTICULO 34 fracciones
 
-VII y IX. $30.00 $50.00
+VII y IX $ 300.00 a $ 900.00
 
 36.- Carecer de botiquín, extinguidor,
 
-faroles o banderas rojas de
+faroles o banderas rojas de señalamiento
 
-señalamiento en los casos exigidos
+en los casos exigidos por el Reglamento.
 
-por el Reglamento. Artículo 34
+ARTICULO 34 fracción XII $ 300.00 a $ 900.00
 
-Fracción XII. $30.00 $50.00
+37.- Usar en vehículos particulares, los
 
-37.- Usar en vehículos particulares,
+colores reservados por el Reglamento
 
-los colores reservados por el
+para otros vehículos. ARTICULO 9° $ 2,000.00 a $ 6,000.00
 
-Reglamento para otros vehículos.
+38.- No usar los colores autorizados, los
 
-###### Artículo 9.
+vehículos que para servicios especiales
 
-$500.00
+señala el Reglamento. ARTÍCULOS 35
 
-38.- No usar los colores autorizados,
+fracción I, 36 fracción III párrafo segundo
 
-los vehículos que para servicios
+y 46 $ 1,000.00 a $ 3,000.00
 
-especiales señala el Reglamento.
+39.- Carecer de las inscripciones o leyendas
 
-Artículo 35 fracción I; 36 Fracción III
+exigidas. ARTÍCULOS 35 párrafo segundo,
 
-párrafo segundo. y 46. $300.00 $500.00
+36 fracciones II, III y IV, y 39, en su parte
 
-39.- Carecer de las inscripciones o
+relativa $ 300.00 a $ 900.00
 
-Leyendas exigidas. Artículo
+40.-Carecer los autobuses de pasajeros y
 
-35 párrafo segundo, 36 Fracc.
+vehículos similares, de asientos, cristales,
 
-II, III y IV, y 39 parte relativa. $30.00 $50.00
+timbre, pasamanos y demás accesorios
 
-40.- Carecer los autobuses de
+en buen estado, para seguridad y
 
-pasajeros y vehículos similares, de
+comodidad de los usuarios. ARTICULO 39 $ 1,000.00 a $ 3,000.00
 
-asientos, cristales, timbre, pasamanos
+41.-Carecer de una o ambas defensas.
 
-y de más accesorios en buen estado
+ARTICULO 34 fracción VIII $ 300.00 a $ 900.00
 
-para seguridad y comodidad de los
+42.-Carecer de canastilla o compartimiento
 
-usuarios. Artículo 39. $50.00 $100.00
+para bultos o equipaje, los autobuses
 
-41.- Carecer de una o ambas defensas.
+interurbanos o foráneos. ARTICULO 44 $ 300.00 a $ 900.00
 
-Artículo 34 fracción VIII. $50.00 $100.00
+43.-Carecer de lona protectora los
 
-42.- Carecer de canastilla o
+transportes de materiales de construcción.
 
-compartimiento para bultos o equipaje,
+ARTICULO 46 $ 500.00 a $ 1,500.00
 
-los autobuses inter-urbanos o
+44.-Carecer de rejilla sobre las ventanillas
 
-foráneos. Artículo 44. $50.00 $100.00
+los transportes para escolares. ARTICULO
 
-43.- Carecer de lona protectora los
+46 párrafo Cuarto. $ 1,000.00 a $ 3,000.00
 
-transportes de materiales para
-
-construcción. Artículo 46. $30.00 $50.00
-
-44.- Carecer de rejillas sobre las
-
-ventanillas, los transportes para escolares.
-
-Artículo 46 párrafo cuarto. $50.00 $100.00
-
-45.- Usar propaganda luminosa o
+45.-Usar propaganda luminosa o
 
 dispositivos reflejantes que causen
 
-deslumbramiento. Artículo 98 Fracción III. $50.00 $100.00
+deslumbramiento. ARTICULO 98 fracción III $ 300.00 a $ 900.00
 
-46.- Producir ruido o humo excesivo.
+46.-Producir ruido o humo excesivos.
 
-Artículo 34, Fracción X. $50.00 $100.00
+ARTICULO 34, fracción X $ 1,000.00 a $ 3,000.00
 
-IV.- DE LA VELOCIDAD.
+IV.-DE LA VELOCIDAD.
 
-47.- Circular a mayor velocidad de la
+47.-Circular a mayor velocidad de la que
 
-marcada en los señalamientos.
-
-###### Artículo 6.
-
-$100.00 $200.00
+marcan los señalamientos. ARTICULO 6° $ 1,000.00 a $ 3,000.00
 
 48.- No disminuir la velocidad a 20
 
-kms. por hora en las intersecciones
+kilómetros por hora en las intersecciones
 
-que carezcan de señalamiento.
+que carezcan del señalamiento.
 
-###### Artículo 115.
+ARTICULO 115 $ 1,000.00 a $ 3,000.00
 
-$100.00 $200.00
+49.- No disminuir la velocidad a 10
 
-49.- No disminuir la velocidad a
+kilómetros por hora al circular frente a
 
-10 kms. por hora al circular frente a
-
-escuelas, hospitales, lugares de
+Escuelas, Hospitales, lugares de
 
 espectáculos y demás centros de
 
 reunión, en las horas que son
 
-frecuentados. Artículo 115. $100.00 $200.00
+frecuentados. ARTICULO 115 $ 1,000.00 a $ 3,000.00
 
-50.- Adelantar a otro vehículo que
+50.- Adelantar a otro vehículo que circule
 
-circule a la velocidad máxima permitida,
+a la velocidad máxima permitida, en curvas
 
-en curvas, bocacalles y cruceros.
+bocacalles y cruceros, ARTÍCULO 124 $ 1,000,00 a $ 3,000.00
 
-###### Artículo 124.
-
-$100.00 $200.00
-
-V.- DE LAS SEÑALES.
+V.-DE LAS SEÑALES.
 
 51.- No hacer el conductor las señales
 
-reglamentarias y en forma oportuna,
+reglamentarias y en la forma oportuna,
 
 al detener o disminuir la velocidad o al
 
-dar vuelta a la derecha o a la
+dar vuelta a la derecha o a la izquierda.
 
-izquierda. Artículo 87 y 88. $30.00 a $50.00
+ARTICULO 87 y 88 $ 300.00 a $ 900.00
 
-52.- No obedecer la señal de “ALTO”.
+52.- No obedecer la señal de "ALTO".
 
-Artículo 90 y 93 Fracción III y 97
+ARTÍCULOS 90, 93 fracción III y 97
 
-Fracciones I y IV. $100.00 $300.00
+fracciones I y IV $ 500.00 a $ 1,500.00
 
-53.- No obedecer la señal que
+53.- No obedecer la señal que indique el
 
-indique el sentido de la circulación.
+sentido de la circulación. ARTICULO 90 $ 1,000.00 a $ 3,000.00
 
-###### Artículo 90.
+54.- Colocar cualquier tipo de propaganda,
 
-$100.00 $300.00
+anuncios y objetos, sobre las señales o
 
-54.- Colocar cualquier tipo de
+dispositivos de tránsito. ARTICULO 98
 
-propaganda, anuncios y objetos,
+fracciones I y II $ 500.00 a $ 1,500.00
 
-sobre las señales o dispositivos
+55.-Destruir la señales o dispositivos de
 
-de tránsito. Artículo 98 Fracciones
+tránsito; o cambiarlas de lugar. ARTICULO
 
-I y II. $50.00 $100.00
+98 fracción IV $ 1,000.00 a $ 3,000.00
 
-55.- Destruir las señales o
+VI.-DEL ESTACIONAMIENTO.
 
-dispositivos de Tránsito o cambiarlas
+56.-Estacíonarse en forma distinta a la
 
-de lugar. Artículo 98 Fracción IV. $500.00 $1,000.00
+autorizada. ARTICULO107 $ 500.00 a $ 1,500.00
 
-VI.- DEL ESTACIONAMIENTO.
+57.-Estacionarse en doble o triple fila.
 
-56.- Estacionarse en forma distinta
+ARTICULO 107 $ 500.00 a $ 1,500.00.
 
-a la autorizada. Artículo 107. $50.00 a $100.00
+58.-Estacionarse fuera de los lugares
 
-57.- Estacionarse en doble o triple
+permitidos. ARTICULO 108 $ 500.00 a $ 1,500.00
 
-fila. Artículo 107. $50.00 $100.00
+59.-Estacionarse a menos de 10 Mts. De
 
-58.- Estacionarse fuera de los lugares
+las esquinas que no tengan limitación
 
-permitidos. Artículo 108. $50.00 $100.00
+marcada. ARTICULO108; de un hidrante
 
-59.- Estacionarse a menos de 10
+o toma de agua, de un letrero de alto o
 
-metros de: Esquinas que no tengan
+señal de control, de la entrada de Bomberos,
 
-limitación marcada. Artículo 108;
+Tránsito o Policía. ARTICULO189 $ 300.00 a $ 900.00
 
-de un hidrante o toma de agua, de
+60.-Estacionarse en o cerca de una curva
 
-un letrero de alto o señal de control
+o cima. ARTICULO108; sobre un puente o
 
-de la entrada de bomberos, tránsito
+paso a desnivel. ARTICULO 189 $ 500.00 a $ 1,500.00
 
-o Policía. Artículo 189. $50.00 $100.00
+61.-Estacionarse en una intersección.
 
-60.- Estacionarse en o cerca de una
+ARTICULO189 $ 500.00 a $ 1,500.00
 
-curva o cima. Artículo 108; sobre un
+62.-Estacionarse en el cruce o zona de
 
-puente o paso a desnivel.
+peatones. ARTICULO189 $ 500.00 a $ 1,500.00
 
-###### Artículo 189.
+63.-Estacionarse frente a una entrada o
 
-$100.00 $200.00
+salida de vehículos causando molestias.
 
-61.- Estacionarse en una
+ARTICULO189 $ 500.00 a $ 1,500.00
 
-intersección. Artículo 189. $100.00 $200.00
-
-62.- Estacionarse en el cruce o zona
-
-de peatones. Artículo 189. $50.00 $100.00
-
-63.- Estacionarse frente a una
-
-entrada o salida de vehículos causando
-
-molestias. Artículo 189. $50.00 $100.00
-
-64.- Estacionarse en vías angostas
+64.-Estacionarse en vías angostas
 
 impidiendo la circulación o sobre las
 
-banquetas. Artículo 189. $50.00 $100.00
+banquetas. ARTICULO189 $ 500.00 a $ 1,500.00
 
-65.- Estacionarse dentro de una
+65.- Estacionarse dentro de una distancia
 
-distancia de 20 metros del cruce del
+de 20 metros del cruce del ferrocarril.
 
-ferrocarril. Artículo 189. $50.00 $100.00
+ARTICULO189 $ 500.00 a $ 1,500.00
 
 66.- Estacionarse a menos de 50 metros
 
-del lugar donde estén operando los
+del lugar donde están operando los carros
 
-carros de bomberos. Artículo 189. $50.00 $100.00
+de Bomberos. ARTICULO 189 $ 300.00 a $ 900.00
 
-67.- Estacionarse más del tiempo
+67.- Estacionarse más del tiempo permitido
 
-permitido en los lugares autorizados.
+en lugares autorizados. ARTÍCULOS 187
 
-Artículo 187 y 190. $30.00 $50.00
+y 190 $ 300.00 a $ 900.00
 
-VII.- DE LOS ESTACIONAMIENTOS.
+VII.-DE LOS ESTACIONAMIENTOS.
 
 68.- No colocar la señal que indique
 
-''NO HAY LUGAR'' u otra similar,
+"NO HAY LUGAR" u otra similar, cuando
 
-cuando el estacionamiento haya
+el estacionamiento haya cubierto su
 
-cubierto su máxima capacidad.
+máxima capacidad. ARTICULO193 $ 500.00 a $ 1,500.00
 
-###### Artículo 193.
+69.- No colocar en lugar visible el cuadro
 
-$100.00 a $300.00
+que indique el cupo, tarifa autorizada y
 
-69.- No colocar en lugar visible el
+horario de servicio. ARTICULO 196 $ 1,000.00 a $ 3,000.00
 
-cuadro que indique el cupo, tarifa
+70.- Admitir vehículos en número mayor
 
-autorizada y horario de servicio.
+al autorizado. ARTICULO 193 $ 1,000.00 a $ 3,000.00
 
-###### Artículo 196.
+71.-No contar con el equipo Reglamentario
 
-$200.00
+contra incendio, el cual deberá estar en
 
-70.- Admitir vehículos en número
+buenas condiciones de uso. ARTICULO 192
 
-mayor al autorizado. Artículo 193. $100.00 $200.00
+fracción II $ 500.00 a $ 1,500.00
 
-71.- No contar con el equipo
+72.-Carecer del número necesario de
 
-reglamentario contra incendio en
+acomodadores con licencia de chofer y
 
-buenas condiciones. Artículo 192
+de bandereros. ARTICULO 192 fracciones
 
-Fracción II. $300.00
-
-72.- Carecer del número necesario
-
-de acomodadores con licencia de
-
-chofer y de banderero. Artículo 192
-
-Fracciones III y VIII. $200.00 $300.00
+III y VIII $ 500.00 a $ 1,500.00
 
 VIII.- DE LAS PLACAS, CALCOMANÍAS Y TARJETAS DE CIRCULACIÓN.
 
-73.- Circular sin placas
+73.-Circular sin las placas correspondientes.
 
-correspondientes. Artículo 12. $100.00 $300.00
+ARTICULO 12 $ 1,500.00 a $ 4,500.00
 
-Tratándose de moto. $50.00
+TRATÁNDOSE DE MOTOCICLETAS $ 300.00 a $900.00
 
-O bicicleta. $20.00
+TRATÁNDOSE DE BICICLETAS $100.00 a $ 300.00
 
-74.- Circular con placas que no
+74.-Circular con placas que no correspondan
 
-corresponden al vehículo.
+al vehículo. ARTICULO 25 $ 2,000.00 a $ 6,000.00
 
-###### Artículo 25.
+75.- Permitir el uso de las placas en otros
 
-$500.00 $1000.00
+vehículos. ARTICULO 25 $ 2,000.00 a $ 6,000.00
 
-75.- Permitir el uso de las placas
+76.- No llevar las placas adecuadamente
 
-en otros vehículos. Artículo 25. $800.00 $1000.00
+en el lugar destinado para ese objeto.
 
-76.- No llevar las placas
-
-adecuadamente en el lugar destinado
-
-para ese objeto. Artículo 29. $50.00 $ (sic)
+ARTICULO 29 $ 500.00 a $ 1,500.00
 
 77.- Falta de tarjeta de circulación.
 
-###### Artículo 12.
+ARTICULO 12 $ 300.00 a $ 900.00
 
-$50.00
+78.- No llevar la calcomanía de identificación
 
-78.- No llevar la calcomanía de
+en el lugar señalado. ARTICULO 12 y 29 $ 300.00 a $ 900.00
 
-identificación en el lugar señalado.
+79.- Usar indebidamente las placas de
 
-Artículo 12 y 29. $50.00
+demostración. ARTICULO 28 $ 1,000.00 a $ 3,000.00
 
-79.- Usar indebidamente las placas
+80.-Por canje extemporáneo de placas.
 
-de demostración. Artículo 29. $200.00
+ARTICULO 33 $ 300.00 a $ 900.00
 
-80.- Por canje extemporáneo de
+IX.-DE LA VARIACIÓN DE LAS CARACTERÍSTICAS DISTINTIVAS DE LOS VEHÍCULOS.
 
-placas. Artículo 33. $100.00
+81.-Alterar el número de motor o del chasis.
 
-IX.- DE LA VARIACIÓN DE LAS CARACTERÍSTICAS DISTINTIVAS DE LOS VEHÍCULOS.
+ARTICULO 17 $ 2,000.00 a $ 6,000.00
 
-81.- Alterar el número del motor o
+82.-No dar aviso oportuno del cambio de
 
-del chasis. Artículo 17. $1000.00 a $2000.00
+número del motor o del chasis. ARTICULO 17 $ 1,000.00 a $ 3.000.00
 
-82.- No dar aviso oportuno del
+83.-Alterar o destruir, parcialmente las
 
-cambio o remarque del número del
+placas que identifican al vehículo.
 
-motor o chasis. Artículo 17. $100.00 $200.00
+ARTÍCULO 30 $ 1,000.00 a $ 3,000.00
 
-83.- Alterar o destruir parcialmente las
+84.-Llevar sobre las placas, o anexas a ellas,
 
-placas que identifiquen el vehículo.
+objetos o instrucciones que impidan ver con
 
-###### Artículo 30.
+claridad sus características. ARTÍCULO 30 $ 500.00 a $ 1,500.00
 
-$100.00 $ (sic)
+85.-No dar aviso oportuno en los siguientes casos;
 
-84.- Llevar sobre las placas o anexas
+a) Del fallecimiento del propietario o poseedor del vehículo.
 
-a ellas, objetos o inscripciones que
+b) Del cambio del propietario del vehículo.
 
-impidan ver con claridad sus
+c) Del cambio de domicilio del propietario del vehículo.
 
-características. Artículo 30. $200.00 $500.00
+d) Del cambio de color del vehículo.
 
-85.- No dar aviso oportuno en los
+ARTÍCULOS 13 y 25 $ 500.00 a $ 1,500.00
 
-casos de fallecimiento del
+X.-DE LAS LICENCIAS.
 
-propietario o poseedor de un
+86.- Conducir vehículos o permitir que se haga sin la licencia o permiso correspondiente. ARTÍCULOS 60, 66, 67, 69, 72, 73 Y 75, tales como:
 
-vehículo; de compra-venta o
+a) De motociclista $ 500.00 a $ 1,500.00
 
-depósito legal. Artículo 13 y 25. $100.00
+b) De automovilista $ 1,000.00 a $ 3,000.00
 
-X.- DE LAS LICENCIAS.
+c) De conductor de camioneta $ 2,000.00 a $ 6,000.00
 
-86.- Conducir vehículos o permitir
+d) De conductor de camión $ 2,000.00 a $ 6,000.00
 
-que se haga sin la licencia o
+87.-Conducir vehículos de pasajeros o de
 
-permiso correspondientes. Artículos
+carga careciendo de la autorización
 
-60, 66, 67, 69, 72, 73 y 75.
+correspondiente o permitir la conducción
 
-LICENCIA DE MOTOCICLISTA $100.00
+del vehículo a quienes no llenen este
 
-LICENCIA DE AUTOMOVILISTA $200.00
+requisito. ARTICULO 64 $ 1,000.00 a $ 3,000.00
 
-LICENCIA PARA CONDUCIR CAMIONETA $200.00 $400.00
+88.-Refrendo extemporáneo de licencias.
 
-LICENCIA PARA CONDUCIR CAMION. $500.00
+ARTICULO 69 $ 200.00 a $ 600.00
 
-87.- Conducir vehículos de pasajeros
+XI.-DE LA FUGA.
 
-o de carga sin la antigüedad de
+89.-Fuga del conductor. ARTICULO 230 $ 1,000.00 a $ 3,000.00
 
-dos años como chofer, o permitir
+En caso de existir lesionados la fuga se
 
-conducción del vehículo a quienes
-
-no llenen este requisito. Artículo 64. $500.00
-
-88.- Refrendo extemporáneo de
-
-licencia. Artículo 69. $100.00
-
-XI.- DE LA FUGA.
-
-89.- La fuga del conductor se
-
-sancionará con multa de $200.00
-
-###### Artículo 230.
-
-En caso de existir lesionados, la
-
-fuga se sancionará con multa de $500.00
-
-###### Artículo 130.
+sancionará con multa de $ 2,000.00 a $ 6,000.00
 
 XII.- DEL TRANSPORTE.
 
-90.- Transportar en vehículos
+90.-Transportar en vehículos destinados a
 
-destinados a pasajeros, animales,
+pasajeros, animales, bultos u otros objetos
 
-bultos u otros objetos que causen
+que causen molestias a los pasajeros.
 
-molestias a los pasajeros.
+ARTICULO 43 $ 300.00 a $ 900.00
 
-###### Artículo 43.
+91.- Transportar vísceras, líquidos y
 
-$100.00 $200.00
+suspensiones en vehículos no
 
-91.- Transportar vísceras, líquidos
+acondicionados para ello. ARTICULO 46
 
-y suspensiones en vehículos no
+párrafos Segundo y Tercero $ 1,000.00 a $ 3,000.00
 
-acondicionados para ello. Artículo
+92.-Transportar materias u objetos
 
-46 párrafo segundo y tercero. $200.00 $400.00
+repugnantes a la vista o al olfato sin
 
-92.- Transportar materias u objetos
+las precauciones necesarias y el
 
-repugnantes a la vista o al olfato,
+permiso correspondiente. ARTICULO 50 $ 1,000.00 a $ 3,000.00
 
-sin las precauciones necesarias y
+93.-Transportar materia inflamable o
 
-el permiso correspondiente.
+explosiva sin las precauciones debidas
 
-###### Artículo 50.
+y la autorización correspondiente.
 
-$200.00 $400.00
+ARTÍCULOS 51 y 52 $ 2,000.00 a $ 6,000.00
 
-93.- Transportar materias inflamables
+94.-Transportar objetos que rebasen las
 
-o explosivas, sin las precauciones
+dimensiones autorizadas sin las señales
 
-debidas y la autorización
+correspondientes. ARTICULO 53 $ 1,000.00 a $ 3,000.00
 
-correspondiente. Artículo 51 y 52. $500.00 $1000.00
+95.- Transportar ganado bravo o bestias
 
-94.- Transportar objetos que rebasen
+peligrosas sin las precauciones debidas.
 
-las dimensiones autorizadas sin las
+ARTICULO 58 $ 2,000.00 a $ 6,000.00
 
-señales correspondientes.
+XIII.-DE LAS REVISTAS.
 
-###### Artículo 53.
+96.- No pasar oportunamente la revista,
 
-$200.00 $400.00
+los vehículos señalados en el Reglamento.
 
-95.- Transportar ganado bravo o
+ARTICULOS35 fracción III y 41 $ 500.00 a $ 1,500.00
 
-bestias peligrosas sin las
+97.-Por olvido de los documentos necesarios
 
-precauciones debidas. Artículo 58. $500.00 $1000.00
+para circular o para efectuar el servicio
 
-96.- No pasar oportunamente la
-
-revista, los vehículos señalados
-
-por el Reglamento. Artículo 35
-
-Fracción III y 41. $100.00 $500.00
-
-97.- Por olvido de los documentos
-
-necesarios para circular o para
-
-efectuar el servicio autorizado.
-
-Artículo 12, 38,60, 163. $30.00 $100.00
+autorizado. ARTÍCULOS 12, 38, 60 y 163 $ 300.00 a $ 900.00
 
 ###### Artículo 242.
 
@@ -2723,3 +2813,19 @@ En los estacionamientos, terminales, sitios o locales análogos deberán hacerse
 Las licencias expedidas con anterioridad deberán refrendarse a los tres años de su expedición, y si dicho plazo ya hubiese transcurrido, el refrendo se hará dentro de los 90 días siguientes a la vigencia de este Reglamento.
 
 Por tanto mando se imprima publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta días del mes de septiembre de mil novecientos setenta y seis.- El Gobernador Constitucional del Estado Dr. Alfredo Toxqui Fernández de Lara.- Rúbrica.- El Secretario General de Gobierno. Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo de Reformas y Adiciones, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+###### ARTICULO TERCERO.
+
+Las personas que tengan licencia de chofer vigente, podrán canjearla gratuitamente por la de Operador del Servicio Público, previo el cumplimiento de los requisitos que para tal efecto se exigen, contando para ello con un plazo de 90 días a partir de la fecha en que entre en vigor el presente Reglamento.
