@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1994-07-07"
+last_updated: "1996-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 1996.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -137,6 +137,64 @@ Esta Constitución reconoce el carácter plural de la sociedad de Querétaro. En
 
 ### CAPITULO TERCERO. DE LA POBLACION
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 20o.
+
+Son queretanos quienes nazcan en territorio del Estado.
+
+Son residentes del Estado, los que habiten en su territorio por más de seis meses consecutivos.
+
+Son ciudadanos del Estado:
+
+a) Los nacidos en su territorio que hayan cumplido 18 años y tengan un modo honesto de vivir; y,
+
+b) Los ciudadanos mexicanos con más de tres años de residencia.
+
+La calidad de ciudadano de Querétaro se pierde por dejar de ser ciudadano mexicano, o por residir más de tres años consecutivos fuera de la Entidad, en caso de que la ciudadanía se haya adquirido por residencia, salvo en los casos de estudios, empleo, cargo o comisión de la Federación, del Estado o de los Municipios de la Entidad o instituciones descentralizadas de los mismos y en los demás casos que expresamente prevenga la ley.
+
+La declaratoria de ciudadano, así como la pérdida de tal condición, se tramitará y resolverá ante el Ayuntamiento que corresponda. Suspendida o perdida la ciudadanía queretana sólo se recobrará en la forma y términos que previene la Constitución o las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 21o.
+
+Son prerrogativas de los ciudadanos de Querétaro:
+
+I. Votar para todos los cargos de elección popular en el Estado;
+
+II. Ser votado para cargos de elección popular en el Estado en los términos que establece esta Constitución;
+
+III. Asociarse libre y pacíficamente con fines políticos;
+
+IV. Ejercer el derecho de petición ante las autoridades del Estado; y,
+
+V. Las demás que establezcan las leyes;
+
+Los residentes mayores de 18 años tendrán las mismas prerrogativas que los ciudadanos, con excepción de la contenida en la fracción segunda de este artículo.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 22º.
+
+Son obligaciones de los ciudadanos de Querétaro:
+
+I. Inscribirse en el padrón electoral;
+
+II. Desempeñar las funciones electorales en los términos de ley;
+
+III. Desempeñar los cargos de elección popular en los términos de las leyes relativas;
+
+IV. Instruirse y cuidar que sus hijos y pupilos cumplan con la educación básica de conformidad con las leyes aplicables;
+
+V. Prestar auxilio en las campañas alfabetizadoras y de instrucción elemental siempre que fueran requeridos;
+
+VI. Cooperar con el mantenimiento del orden público y la paz social; y,
+
+VII. Las demás que establezca esta Constitución y las leyes que de ella emanen.
+
+Los residentes mayores de 18 años tendrán las mismas obligaciones que los ciudadanos, con excepción de la contenida en la fracción tercera de este artículo.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 12°.
@@ -149,7 +207,7 @@ Las leyes propiciarán el desarrollo económico, político y social de los grupo
 
 ### CAPITULO PRIMERO. DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA. DE LA INSTALACIÓN DE LA LEGISLATURA Y PERIODO DE SESIONES
 
@@ -159,13 +217,49 @@ Las leyes propiciarán el desarrollo económico, político y social de los grupo
 
 La soberanía del Estado de Querétaro de Arteaga reside esencial y originalmente en el pueblo y de éste emana el poder público, que se instituye exclusivamente para su beneficio.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+Los ciudadanos ejercerán sus derechos políticos electorales a través de los partidos políticos y mediante los procesos electorales. La ley regulará las figuras del voto, iniciativa popular y referéndum.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+Los partidos políticos nacionales y estatales con registro tendrán derecho a participar en las elecciones estatales y municipales, en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+Los partidos políticos son entidades de interés público, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, personal y directo.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+La ley garantizará que los partidos políticos nacionales y estatales con registro cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social de acuerdo con las formas y procedimientos que establezca la misma.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+La ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, así como, los procedimientos para control y vigilancia del origen y uso de todos los recursos con que cuenten. De igual manera establecerá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
+###### ARTICULO 15o.
+
+La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Electoral de Querétaro, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos nacionales y estatales con registro, y los ciudadanos, en los términos que ordene la ley de la materia. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad, equidad y objetividad serán principios rectores.
+
+El Instituto Electoral de Querétaro, será autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, un representante de cada partido político con registro y el secretario ejecutivo. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos.
+
+Los consejeros electorales serán electos por la Legislatura del Estado mediante el consenso o por el voto de las dos terceras partes de los miembros presentes, a propuesta de los grupos parlamentarios en los términos que señala la ley. En sus recesos, la Diputación Permanente convocará a sesión extraordinaria para tal efecto. Conforme al mismo procedimiento, se designarán siete consejeros electorales suplentes, señalando el orden en que asumirán la titularidad de consejero electoral.
+
+Los consejeros electorales durarán en su cargo siete años, pudiendo ser reelectos por un periodo más y percibirán una remuneración adecuada a sus funciones, que no será disminuida; no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en instituciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+El Consejo General elegirá por mayoría a su presidente, de entre los consejeros electorales. El secretario ejecutivo será designado por el voto de la mayoría del Consejo General, a propuesta de terna que formule su presidente.
+
+Los servidores del organismo público regirán su desempeño por las disposiciones de la ley electoral y sus relaciones de trabajo por el estatuto que con base en ella apruebe el Congreso a propuesta del Consejo General.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 14°.
 
 El Estado de Querétaro adopta para su régimen interior la forma de gobierno republicano representativo y popular, teniendo como base de su organización política y administrativa el Municipio Libre.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 15°.
 
@@ -179,7 +273,7 @@ Los partidos legalmente acreditados dispondrán del financiamiento público en l
 
 #### SECCION SEGUNDA. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 16°.
 
@@ -227,6 +321,18 @@ Tequisquiapan y
 
 Tolimán
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 18º.
+
+Los municipios tendrán los límites y extensiones que señale la Ley Orgánica Municipal y sus Cabeceras serán las poblaciones de sus mismos nombres, con excepción de Querétaro que tendrá por cabecera a la ciudad de Santiago de Querétaro, El Marqués que la tendrá en la Cañada y de Corregidora que la tendrá en El Pueblito.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 19º.
+
+La ciudad de Santiago de Querétaro, es la residencia oficial de los poderes del Estado y éstos no podrán trasladarse a otro lugar sino por causa grave calificada por las dos terceras partes de los diputados integrantes de la Legislatura.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 18°.
@@ -273,15 +379,15 @@ XI.- Legislar en materia de seguridad pública y tránsito;
 
 XII.- Convocar a elecciones en los términos de esta Constitución y demás normas aplicables;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
-XIII.- Calificar la elección de Gobernador del Estado en la forma y procedimientos que señale la Ley. Su decisión será definitiva e inatacable;
+XIII.- Emitir decreto mediante el cual se declare gobernador electo, y expedir el bando solemne de acuerdo a la resolución correspondiente;
 
 XIV.- Elegir al ciudadano que deba asumir el cargo de gobernador con el carácter de interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
-XV.- Elegir y tomar la protesta a los magistrados del Tribunal Superior de Justicia; a los magistrados del Tribunal de lo Contencioso Administrativo y a los magistrados del Tribunal de Justicia Electoral;
+XV.- Elegir y tomar protesta a los magistrados del Tribunal Superior de Justicia, y a los magistrados del Tribunal de lo Contencioso Administrativo;
 
 XVI.- Conceder licencia y admitir las renuncias de los diputados; del gobernador; de los magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
@@ -297,7 +403,9 @@ XXI.- Analizar y, en su caso ratificar los arreglos concertados entre los ayunta
 
 XXII.- Crear nuevas municipalidades dentro de los límites de las ya existentes, siempre que tengan los elementos necesarios para poder subsistir, en los términos de ésta Constitución y de la Ley Orgánica Municipal;
 
-XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera de la ciudad de Querétaro, en los casos y condiciones previstas en esta Constitución;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera de la ciudad de Santiago de Querétaro, en los casos y condiciones previstas en esta Constitución.
 
 XXIV.- Aprobar anualmente las leyes de ingresos y presupuesto de egresos del Estado, así como la Ley de Ingresos de cada Municipio;
 
@@ -383,9 +491,15 @@ VI.- Las demás que establezcan ésta Constitución y las leyes que de ella eman
 
 ###### ARTICULO 23°.
 
-El poder público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
+El poder público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-Nunca podrán reunirse dos o más de estas funciones en una persona o grupo de personas ni depositarse el Legislativo en un individuo. Es obligación de los distintos órganos del poder público instituir y ampliar sus relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+La renovación periódica de los poderes legislativo y ejecutivo se realizará mediante la elección popular a través del voto universal, libre, secreto, personal y directo.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
+Nunca podrán reunirse dos o mas de estas funciones en una persona o grupo de personas ni depositarse el Legislativo en un individuo. Es obligación de los distintos órganos del poder público instituir y ampliar sus relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -393,7 +507,7 @@ Nunca podrán reunirse dos o más de estas funciones en una persona o grupo de p
 
 El poder Legislativo se deposita en una asamblea que se nombrará Legislatura del Estado, integrada por representantes populares denominados diputados, los que serán electos cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 #### SECCIÓN CUARTA. DE LA DIPUTACION PERMANENTE
 
@@ -473,9 +587,13 @@ Corresponde a la Legislatura designar al Contador Mayor de Hacienda.
 
 ###### ARTICULO 25.
 
-La Legislatura del Estado se integrará con el número de diputados electos por los principios de mayoría relativa y de representación proporcional que determine la Ley de la materia.
+La Legislatura del Estado, se integrará con quince diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y diez diputados que serán electos según el principio de representación proporcional, en las circunscripciones plurinominales que determine la ley y que aseguren la representación proporcional.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 La demarcación territorial de los distritos uninominales se determinará tomando en cuenta factores geográficos, demográficos y socioeconómicos de las distintas regiones y localidades del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 Los diputados por el principio de mayoría relativa o por el de representación popular tienen la misma categoría e iguales derechos y obligaciones.
 
@@ -497,13 +615,19 @@ V.- No ser Ministro de algún culto religioso.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
+###### ARTICULO 28º.
+
+La legislatura del Estado, emitirá decreto donde declare gobernador electo, de conformidad a la declaratoria de validez que emita el Consejo General del Instituto Electoral de Querétaro, una vez que realice el cómputo final de la elección, o en cumplimiento a la resolución de la autoridad jurisdiccional competente en materia electoral.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 27°.
 
 Los diputados en ejercicio, durante el periodo de su encargo, no podrán desempeñar ninguna comisión o empleo de la federación, Estado o Municipios, por los cuales disfrute remuneración sin licencia de la Legislatura, y, en los recesos de ésta, de la Diputación Permanente.
 
 Se exceptúan de ésta prohibición los cargos educativos y asistenciales.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 28.
 
@@ -547,23 +671,21 @@ La elección del gobernador del Estado será directa en los términos dispuestos
 
 El Gobernador del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
-###### ARTICULO 50°.
+###### ARTICULO 50º.
 
 Para ser gobernador se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano por nacimiento y nativo del Estado de Querétaro, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección, y en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Ser nativo del Estado o con residencia efectiva en él por lo menos cinco años inmediatamente anteriores al día de la elección;
+II. Tener treinta años cumplidos el día de la elección;
 
-III. Tener 30 años cumplidos el día de la elección;
+III. No desempeñar cargo o comisión de la Federación, del Estado o del Municipio, a menos que se separe definitivamente de estos, noventa días antes de la fecha de la elección;
 
-IV. No desempeñar cargo o comisión de la Federación, del Estado o del Municipio, a menos que se separe definitivamente noventa días antes de la fecha de la elección;
+IV. No ser militar en servicio activo o ciudadano con mando en los cuerpos policíacos o de seguridad pública, a menos que se separe definitivamente noventa días antes del día de la elección; y,
 
-V. No ser militar en servicio activo o ciudadano con mando en los cuerpos policíacos o de seguridad pública, a menos que se separe definitivamente tres meses antes del día de la elección; y
-
-VI. No ser ministro de algún culto religioso.
+V. No ser ministro de algún culto religioso.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -727,15 +849,37 @@ La Legislatura celebrará una sesión pública y solemne el día 25 de julio de 
 
 ###### ARTICULO 33°.
 
-La iniciativa de leyes o decretos corresponde:
+La iniciativa de Leyes, o decretos corresponde:
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 I.- Al Gobernador del Estado;
 
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+
 II.- A los diputados;
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 III.- Al Tribunal Superior de Justicia en materia judicial; y
 
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+
 IV.- A los Ayuntamientos en asuntos del ramo municipal.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+V.- Al Consejo General del Instituto Electoral de Querétaro en materia electoral; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+VI. A los ciudadanos en los términos previstos en la Ley.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 34º.
+
+Cuando vaya a discutirse un proyecto de Ley, la Legislatura podrá solicitar al Titular del Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos o al Consejo General del Instituto Electoral de Querétaro, que envíen un representante para que intervenga en los debates.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -750,6 +894,12 @@ IV.- A los Ayuntamientos en asuntos del ramo municipal.
 ###### ARTICULO 63°.
 
 Se deposita el ejercicio de la función judicial en un Tribunal Superior de Justicia y en los jueces y demás órganos que establezca la Ley Orgánica que al efecto expida la Legislatura.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 64º.
+
+Corresponde al Poder Judicial, la facultad de aplicar las leyes en asuntos judiciales del orden civil, penal y electoral del fuera común; así como en materia federal cuando las leyes lo faculten.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -767,6 +917,14 @@ Las leyes establecerán los medios necesarios para que se garantice la independe
 
 #### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 66º.
+
+El Tribunal Superior de Justicia se compondrá de diez magistrados propietarios y ocho supernumerarios, que serán electos cada tres años por la Legislatura del Estado, dentro de los treinta días siguientes a la instalación de ésta.
+
+El Tribunal funcionará en pleno o en salas, con los magistrados propietarios o con los supernumerarios, en su caso.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 66°.
@@ -783,11 +941,25 @@ Los magistrados durarán en el ejercicio de su cargo tres años, podrán ser ree
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
+###### ARTICULO 69º.
+
+Para ser Magistrado se requiere:
+
+I. Cumplir con los requisitos señalados por las fracciones I a IV del artículo 95 de la Constitución General de la República.
+
+II. Haber residido en el Estado durante los dos años anteriores al día de su elección; y,
+
+III. No haber ocupado el cargo de Secretario de Estado o su equivalente, Procurador General de Justicia o Diputado local, durante el año previo al día de su elección.
+
+Los nombramientos de los Magistrados y jueces integrantes del Poder Judicial del Estado de Querétaro, serán hechos preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 68°.
 
 Los Magistrados elegidos sea como propietarios o como supernumerarios, al entrar a ejercer su cargo, deberán otorgar la protesta de ley ante la Legislatura o ante la Diputación Permanente en los recesos de aquella. Durante su ejercicio percibirán una remuneración adecuada a sus funciones que será irrenunciable y no podrá ser disminuida.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 69°.
 
@@ -819,7 +991,15 @@ V.- Presentar a la Legislatura en el mes de septiembre de cada año un informe p
 
 VI.- Las demás que establezca la Ley Orgánica.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 71º.
+
+Los jueces del Estado serán nombrados por el Pleno del Tribunal Superior de Justicia. Durarán en su cargo todo el tiempo que dure su honrado y eficiente cumplimiento. Sólo serán removidos por el propio Pleno cuando incurran en responsabilidad.
+
+La Ley Orgánica del Poder Judicial establecerá las bases para el ingreso, formación, actualización y permanencia de los servidores judiciales, así como el programa y desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADA SU DENOMINACION, P. O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 71°.
 
@@ -847,11 +1027,13 @@ Cuando vaya a discutirse un proyecto de ley, la Legislatura podrá solicitar al 
 
 El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía y será independiente de cualquier autoridad administrativa. Tiene a su cargo dirimir las controversias de carácter administrativo que se susciten entre las dependencias administrativas estatales y municipales con los particulares. Tendrá la organización, jurisdicción y competencia que le atribuya la ley que apruebe la Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 73º.
+
+Este tribunal residirá en la ciudad de Santiago de Querétaro y estará integrado por un magistrado propietario y los supernumerarios que se requieran.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 73°.
-
-Este Tribunal residirá en la ciudad de Querétaro y estará integrado por un magistrado propietario y los supernumerarios que se requieran.
 
 Los magistrados del Tribunal de lo Contencioso Administrativo serán designados por la Legislatura y deberán satisfacer los mismos requisitos que se exigen a los magistrados del Tribunal Superior de Justicia.
 
@@ -885,25 +1067,29 @@ Las votaciones de las leyes o decretos serán siempre nominales.
 
 ### CAPITULO SEGUNDO. DEL TRIBUNAL DE JUSTICIA ELECTORAL
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+###### ARTICULO 74º.
 
-###### ARTICULO 74o.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 1996)
 
-El Tribunal de Justicia Electoral es un órgano jurisdiccional dotado de autonomía y personalidad jurídica que tiene por objeto la resolución de los recursos de su competencia para garantizar que los actos de los organismos electorales se apeguen a la Ley.
+###### ARTICULO 75º.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
-
-###### ARTICULO 75o.
-
-El Tribunal de Justicia Electoral se integrará por el número de magistrados numerarios y supernumerarios que determine la Ley.
-
-La Ley Electoral establecerá los requisitos que deban satisfacer los magistrados y el procedimiento para la tramitación, integración y sustanciación de los expedientes relativos a los medios de impugnación que deba resolver el Tribunal.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 1996)
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 38°.
 
 En la interpretación, reforma, adición o derogación de una ley o decreto se observarán los mismos trámites establecidos para su formación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 39º.
+
+El Ejecutivo del Estado, no puede hacer observaciones a las resoluciones de la Legislatura, cuando realice alguna de las atribuciones que le concede el Título Séptimo de esta Constitución.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
+Tampoco podrá hacer observaciones a los decretos o convocatorias de periodo extraordinario de sesiones de la Legislatura y para celebrar elecciones.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -935,13 +1121,25 @@ Este Tribunal se integrará por lo menos de tres magistrados propietarios que se
 
 El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado de Querétaro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 79.
+
+Los Municipios tienen personalidad jurídica y patrimonio propio. Serán representados y administrados por un Ayuntamiento de elección popular directa que se compondrá:
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+I. De un presidente municipal que política y administrativamente será el representante del municipio, el cual no podrá ser electo para ningún cargo del Ayuntamiento, en el periodo inmediato; y,
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+II. De un número determinado de miembros a los que se les llamará regidores, los cuales no podrán ser electos para el mismo cargo en el periodo inmediato.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-###### ARTICULO 79°.
-
-Los municipios tienen personalidad jurídica y patrimonio propio y serán representados y administrados por un ayuntamiento de elección popular directa que se compondrá de un presidente municipal que política y administrativamente será el representante del municipio y de un número determinado de miembros a los que se les llamará regidores. Ni el uno ni los otros podrán ser reelectos para ninguno de ésos cargos sino hasta después de un periodo siguiente a aquel en el que ejercieron sus funciones.
-
 Las personas que por elección indirecta, por nombramiento o por designación de alguna autoridad desempeñe las funciones propias de esos cargos, cualquiera que sea la denominación que se le dé, no podrán ser electos para el período inmediato.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan carácter de suplentes si podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
 
@@ -994,6 +1192,22 @@ El Presidente Municipal, dentro de los cinco últimos días del mes de septiembr
 Los ayuntamientos poseen facultades para expedir sus reglamentos de Policía y Gobierno Municipal, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, y para promover todo lo necesario, dentro de las bases normativas que establezca la Ley Orgánica Municipal, para la eficaz prestación de los servicios públicos de agua potable y alcantarillado, alumbrado público, limpia, mercados y centrales de abastos, panteones, calles, parques y jardines, seguridad pública y tránsito municipales y las demás que en su favor determine la Legislatura.
 
 Los municipios, en los términos de las Leyes Federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de Desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcción; participar en la creación y administración de zonas de reservas ecológicas y aprobar y ejercer sus atribuciones en materia de preservación y restauración del equilibrio ecológico y protección al ambiente. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución General de la República, expedirían los reglamentos y disposiciones administrativas que fueren necesarias.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 87º.
+
+Para ser miembro del Ayuntamiento se requiere:
+
+I. Ser ciudadano mexicano;
+
+II. Ser residente de la municipalidad por cinco años anteriores al día de la elección, y en pleno goce de sus derechos civiles y políticos;
+
+III. Ser mayor de veintiún años;
+
+IV. No desempeñar ningún cargo público en el que se ejerzan funciones de autoridad en ningún Municipio, ni pertenecer al ejército permanente, ni tener mando de fuerzas en el mismo Municipio, a menos que en todos estos casos se separe definitivamente de su empleo o cargo noventa días antes de la elección; y,
+
+V. No ser ministro de algún culto religioso.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1077,15 +1291,19 @@ Ningún impuesto podrá establecerse si no se destina a los gastos públicos y n
 
 ### CAPITULO ÚNICO
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 95º.
+
+Para los efectos de las responsabilidades a que alude este título, se consideran como servidores públicos a los representantes de elección popular, a los magistrados del Poder Judicial, a los funcionarios, empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquiera de los órganos del Estado, de la administración pública municipal u organismos electorales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 95°.
-
-Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, a los titulares del Poder Judicial, a los funcionarios, empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquiera de los órganos del Estado o de la administración pública municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 El Gobernador del Estado, durante su ejercicio constitucional, sólo podrá ser acusado por traición a la Patria y delitos graves del orden común. Podrá también ser sujeto de juicio político en los términos del artículo 110, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los diputados a la Legislatura del Estado, los magistrados del Tribunal Superior de Justicia, los Titulares de los Tribunales Administrativos, los titulares de las Secretarías, el Oficial Mayor, el Procurador General de Justicia y los Presidentes Municipales, son responsables por violación a la Constitución Política de los Estados Unidos Mexicanos a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de los fondos y recursos del Estado o de los municipios.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+Los diputados a la Legislatura del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados de los Tribunales Administrativos, los titulares de las Secretarías, el Oficial Mayor, el Procurador General de Justicia, los Presidentes Municipales y el Presidente, Secretario Ejecutivo y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, son responsables por violación a la Constitución Política de los Estrados Unidos Mexicanos, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de los fondos y recursos del Estado o de los Municipios.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1105,33 +1323,51 @@ Las leyes determinarán los casos y circunstancias en los que deba sancionarse p
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán formular denuncia ante la Legislatura del Estado respecto de las conductas a que se refiere el presente artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 97º.
+
+Podrán ser sujetos a juicio político los diputados a la Legislatura, los magistrados del Tribunal Superior de Justicia, los jueces, los titulares de las Secretarías, el Oficial Mayor, los directores de Administración Pública Estatal, el Procurador General de Justicia, los sub-procuradores, los agentes del ministerio público, los magistrados de los Tribunales Administrativos, los presidentes y síndicos de los Ayuntamientos, los directores generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, de sociedades y asociaciones asimiladas a éstas y de fideicomisos públicos; el Presidente, Secretario Ejecutivo y Consejeros Electorales del Consejo General del Instituto Electoral de Querétaro.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 97°.
-
-Podrán ser sujetos a juicio político los diputados a la Legislatura, los magistrados del Tribunal Superior de Justicia, los titulares de los tribunales administrativos, los jueces, los titulares de las Secretarias, el Oficial Mayor, los directores de la administración pública estatal, el Procurador General de Justicia, los Sub-Procuradores, los agentes del Ministerio Público, los Presidentes de los Ayuntamientos, los Síndicos de Hacienda Municipal, los directores generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, de sociedades y asociaciones asimiladas a éstas y de fideicomisos públicos.
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-Para la aplicación de las sanciones a que se refiere este precepto, la Legislatura procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquélla, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-Conociendo de la acusación el Tribunal Superior de Justicia, erigido en jurado de sentencia, cumplirá con las normas procesales y, en su caso, aplicará la sanción correspondiente.
+Para la aplicación de las sanciones a que se refiere este precepto, la Legislatura procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquélla, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-###### ARTICULO 98°.
+Conociendo de la acusación el Tribunal Superior de Justicia, erigido en jurado de sentencia, cumplirá con las normas procesales y, en su caso, aplicará la sanción correspondiente.
 
-Para proceder penalmente contra los diputados de la Legislatura, magistrados del Tribunal Superior de Justicia, los titulares de los tribunales administrativos, los jueces, los titulares de las Secretarias, el Oficial Mayor, el Procurador General de Justicia, los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará por mayoría absoluta de sus miembros presentes en sesión, si ha lugar o no a proceder en contra del inculpado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 98º.
+
+Para proceder penalmente contra los diputados de la Legislatura, magistrados del Tribunal Superior de Justicia, los jueces, los magistrados de los Tribunales Administrativos, los titulares de las Secretarías, el Oficial Mayor, el Procurador General de Justicia; los Presidentes Municipales y los Consejeros Electorales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará por mayoría absoluta de sus miembros presentes en sesión, si ha lugar o no a proceder en contra del inculpado.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
 
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
 Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto éste(sic) sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
 En demandas de orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
 Las sanciones se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -1273,7 +1509,7 @@ Los diputados que se elijan a la Cuadragésima Novena Legislatura del Estado, du
 
 Dada en el Salón de Sesiones del H. Congreso, en Querétaro, a cuatro de septiembre de mil novecientos diez y siete.- Presidente, LIC. BENITO REYNOSO, 1er. Diputado por la Municipalidad de Querétaro.- Vice-presidente, LIC. ROBERTO NIETO, 1er. Diputado por la Municipalidad de Cadereyta.- JUVENTINO RUIZ ALFARO, Diputado por la Municipalidad de Amealco.- JOSE OROZCO, JR., 2º Diputado por la Municipalidad de Cadereyta.- JOSÉ F. MARROQUIN, 2º Diputado por la Municipalidad de Querétaro.- LIC. LUIS GOMEZ, 3er. Diputado por la Municipalidad de Querétaro.- MARIANO RETANA, 4º Diputado por la Municipalidad de Querétaro.- PEDRO ARGAIN, 2º Diputado suplente por la Municipalidad de San Juan del Río.- EUGENIO MENDOZA, 1er. Diputado por la Municipalidad de Tolimán.- Secretario, DR. CARLOS ALCOCER; 5º Diputado por la Municipalidad de Querétaro.- Secretario, GUILLERMO ALCANTARA, 1er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, JUAN B. MENDOZA, 3er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, ISMAEL M. UGALDE, 2º Diputado por la Municipalidad de Tolimán.
 
-Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERRUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
+Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
 
 N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
 
@@ -1553,7 +1789,7 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 
 ###### ARTICULO SEGUNDO.
 
-Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
 
 P.O. 31 DE OCTUBRE DE 1985
 
@@ -1563,7 +1799,7 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 
 ###### ARTICULO SEGUNDO.
 
-Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
 
 P.O. 19 DE DICIEMBRE DE 1985
 
@@ -1654,3 +1890,21 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 P.O. 7 DE JULIO DE 1994
 
 UNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 12 DE SEPTIEMBRE DE 1996
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan aquellas disposiciones que se opongan a la presente.
+
+TERCERO. Durante el próximo período de sesiones de la Legislatura del Estado, deberá hacerse la elección de los magistrados necesarios para dar cumplimiento al artículo 66 de esta Constitución.
+
+CUARTO. Durante el próximo periodo de sesiones de la Legislatura del Estado, se deberá expedir la Ley Electoral del Estado que atienda las reformas contempladas por esta iniciativa.
+
+QUINTO. Una vez que se integre el Tribunal Superior de Justicia en los términos señalados por esta Constitución, de inmediato se procederá a la Integración de la Sala Electoral del mismo, la que funcionará independientemente de las Salas Civil y Penal que actualmente constituyen ese cuerpo colegiado.
+
+P.O. 12 DE SEPTIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
