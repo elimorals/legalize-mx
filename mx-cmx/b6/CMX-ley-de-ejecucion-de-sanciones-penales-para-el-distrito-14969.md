@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2000-07-25"
+last_updated: "2002-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -94,9 +94,9 @@ X.- Sentenciado, a la persona que se ha dictado en su contra una resolución pen
 
 XI.- Interno, persona que se encuentra recluida dentro de cualquiera de las instituciones que integran el Sistema Penitenciario del Distrito Federal, independientemente de su situación jurídica;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, G.O. 7 DE NOVIEMBRE DE 2002)</small>
 
-XII.- Inimputable, persona así reconocida por el órgano jurisdiccional, en los términos de la fracción VII del artículo 15 del Código Penal para el Distrito Federal;
+XII.- Inimputable, persona así reconocida por el órgano jurisdiccional, en los términos de la fracción VII del artículo 29 del Nuevo Código Penal para el Distrito Federal;
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -306,11 +306,11 @@ A todo sentenciado que se le haya concedido el beneficio de la Condena Condicion
 
 El Tratamiento en Externación es un medio de ejecutar la sanción penal, de carácter eminentemente Técnico, por el que se somete al sentenciado ejecutoriado a un proceso tendiente al fortalecimiento de los valores sociales, éticos, cívicos y morales, que le permitirá una adecuada reinserción a la sociedad.
 
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 33 Bis.
 
-No se concederá el tratamiento en externación a los sentenciados por el delito de corrupción de menores previsto en el artículo 201; por el delito de lenocinio previsto en los artículo 206 y 208; por el delito de incesto previsto en el artículo 272; por el delito de extorsión previsto en el artículo 390 en relación al segundo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación, conforme a los previsto en el artículo 367 en relación con los artículos 372 y 381 bis todos del Código Penal para el Distrito Federal.
+No se concederá el tratamiento en externación a los sentenciados por los delitos de: tráfico de menores en los supuestos de los párrafos tercero o cuarto del artículo 169; corrupción de menores e incapaces a que se refieren los artículos 183, 185 y el 186; pornografía infantil previsto en los artículos 187 y 188; lenocinio a que se refieren los artículos 189 y 190; extorsión a que se refiere el tercero y cuarto párrafo del artículo 236; robo previsto en el artículo 220, en relación con la fracción I del artículo 223 o la fracción I del artículo 224 y el 225 del Nuevo Código Penal para el Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -354,7 +354,7 @@ El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y apl
 
 Cuando un sentenciado por sus características personales, así como la dinámica del delito, haya estado detenido durante el proceso, al causar ejecutoria la sentencia definitiva, podrá someterse también a tratamiento en externación cuando reúna los siguientes requisitos:
 
-I.- No se encuentre en los supuestos de las fracciones I y II del artículo 34 de esta Ley:
+I.- No se encuentre en los supuestos de las fracciones I y II del artículo 34 de esta Ley;
 
 II.- La pena de prisión impuesta no exceda de 7 años;
 
@@ -362,7 +362,7 @@ III.- Sea Primodelincuente;
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-IV.- Técnicamente se acredite haber presentado un desarrollo intrainstitucional favorable; durante dos periodos de valoración consecutivos.
+IV.- Técnicamente se acredite haber presentado un desarrollo intrainstitucional favorable; durante dos periodos de valoración consecutivos;
 
 V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el externado;
 
@@ -422,9 +422,11 @@ II.- Libertad Preparatoria.
 
 III.- Remisión Parcial de la Pena.
 
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 42.
 
-Los beneficios de libertad anticipada, no se otorgarán cuando exista prohibición expresa en el Código Penal para el Distrito Federal u otras leyes.
+Los beneficios de libertad anticipada, no se concederán a los sentenciados por los delitos de: privación de la libertad en los términos del último párrafo del artículo 160; violación previsto en el artículo 174 con relación al artículo 178, fracción I; secuestro contenido en los artículos 163, 164, 165 y 166, con excepción de lo previsto en el último párrafo del 164; desaparición forzada de personas previsto en el artículo 168; pornografía infantil a que se refiere el artículo 187; por los delitos de asociación delictuosa y delincuencia organizada previsto por los artículos 253, 254 y 255; tortura a que se refieren los artículos 294 y 295; robo con violencia conforme a lo previsto en el artículo 220, en relación con los artículos 224, fracción I y 225 del Nuevo Código Penal para el Distrito Federal.
 
 ### CAPITULO V. DE LA LIBERTAD PREPARATORIA
 
@@ -500,9 +502,11 @@ IV.- Cuente con una persona conocida, que se comprometa y garantice a la autorid
 
 V.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continua estudiando.
 
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 47.
 
-Cuando se trate de delitos cometidos por servidores públicos, la reparación del daño deberá ser garantizada o resarcida, de conformidad con lo previsto en el Código Penal para el Distrito Federal.
+Cuando se trate de delitos cometidos por servidores públicos, la reparación del daño deberá ser garantizada o resarcida, de conformidad con lo previsto en el Nuevo Código Penal para el Distrito Federal.
 
 ###### Artículo 48.
 
@@ -524,9 +528,13 @@ Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que
 
 La remisión funcionará independientemente de la libertad preparatoria. Para este efecto, el computo de plazos se hará en el orden que beneficie al reo. El ejecutivo regulará el sistema de cómputos para la aplicación de este precepto, que en ningún caso quedará sujeto a normas reglamentarias de los establecimientos de reclusión o a disposición de las autoridades encargadas de la custodia y de la readaptación social.
 
-La autoridad al conceder la remisión parcial de la pena, establecerá las condiciones que deba cumplir el sentenciado, conforme a lo establecido en la fracción III y los incisos a) a d) del artículo 84 del Código Penal para el Distrito Federal. La remisión parcial de la pena no se concederá a los sentenciados que se encuentren en cualquiera de los casos a que se refiere el artículo 85 del citado Código Penal.
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
 
-La autoridad podrá revocar la remisión parcial de la pena, conforme a lo dispuesto por el artículo 86 del Código Penal para el Distrito Federal.
+La autoridad al conceder la remisión parcial de la pena, establecerá las condiciones que deba cumplir el sentenciado, conforme a lo establecido en la fracción III y los incisos a) a d) del artículo 90 del Nuevo Código Penal para el Distrito Federal. La remisión parcial de la pena no se concederá a los sentenciados que se encuentren en cualquiera de los casos a que se refiere el artículo 42 de esta Ley.
+
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+
+La autoridad podrá revocar la remisión parcial de la pena, conforme a lo dispuesto por el artículo 65 de esta Ley.
 
 ## TITULO CUARTO
 
@@ -564,7 +572,7 @@ El procedimiento que se establece en este capítulo se sujetará a los términos
 
 I.- Iniciado el procedimiento, se integrará el expediente único dentro de diez días hábiles.
 
-II.- El Consejo deberá emitir su dictamen dentro del término de cinco días hábiles.
+II.- El Consejo deberá emitir su dictámen dentro del término de cinco días hábiles.
 
 III.- La Dirección emitirá su resolución en un término no mayor a cinco días hábiles.
 
@@ -588,13 +596,15 @@ La Autoridad Ejecutora hará cumplir las medidas de seguridad impuestas a los in
 
 La modificación o conclusión de la medida de seguridad impuesta, la realizará la Autoridad Ejecutora cuando técnica y científicamente sea aconsejable para mejorar la atención del sancionado, quedando bajo la supervisión que establezca la misma.
 
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 60.
 
-Las medidas de seguridad solo podrán adecuarse cuando se esté ante los supuestos previstos en el Código Penal Vigente.
+Las medidas de seguridad solo podrán adecuarse cuando se esté ante los supuestos previstos en el Nuevo Código Penal para el Distrito Federal.
 
 ### CAPITULO UNICO. ADECUACIÓN Y MODIFICACION NO ESENCIAL DE LA PENA DE PRISIÓN
 
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 61.
 
@@ -616,7 +626,7 @@ III.- Cuente con responsable legal que se sujete a las obligaciones que establez
 
 ###### Artículo 63.
 
-Cuando se acredite que el sentenciado no puede cumplir con alguna de las modalidades de la sanción penal impuesta, por ser incompatible con su estado físico o estado de salud, la Autoridad Ejecutora podrá modificar la forma de ejecución estableciendo las condiciones y el lugar para tal efecto. Asimismo podrá adecuarse cuando se esté ante los supuestos previstos en el Código Penal vigente.
+Cuando se acredite que el sentenciado no puede cumplir con alguna de las modalidades de la sanción penal impuesta, por ser incompatible con su estado físico o estado de salud, la Autoridad Ejecutora podrá modificar la forma de ejecución estableciendo las condiciones y el lugar para tal efecto. Asimismo podrá adecuarse cuando se esté ante los supuestos previstos en el Nuevo Código Penal para el Distrito Federal.
 
 ## TITULO SEPTIMO. SUSPENSIÓN Y REVOCACION DEL TRATAMIENTO EN EXTERNACIÓN Y DEL BENEFICIO DE LIBERTAD ANTICIPADA
 
@@ -664,7 +674,9 @@ IV.- Perdón del ofendido;
 
 V.- Prescripción; y
 
-VI.- Las demás que señale el Código Penal para el Distrito Federal.
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
+
+VI.- Las demás que señale el Nuevo Código Penal para el Distrito Federal.
 
 ## TITULO NOVENO. ASISTENCIA POSTPENITENCIARIA
 
@@ -707,3 +719,11 @@ En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, f
 G.O. 25 DE JULIO DE 2000.
 
 UNICO.- El presente decreto de reformas y adiciones a la Ley de Ejecución de Sanciones Penales para el D.F. entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 7 DE NOVIEMBRE DE 2002.
+
+Primero: El presente decreto entrará en vigor en la misma fecha en que entre en vigor el Nuevo Código Penal para el Distrito Federal.
+
+Segundo: Túrnese al C. Jefe de Gobierno del Distrito Federal para su debida publicación.
+
+Tercero: Publíquese en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, hágase lo propio en el Diario Oficial de la Federación.
