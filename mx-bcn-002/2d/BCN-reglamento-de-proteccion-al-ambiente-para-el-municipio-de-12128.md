@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-proteccion-al-ambiente-para-el-municipio-de-12128
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-08"
-last_updated: "1997-12-08"
+last_updated: "2004-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 8 de diciembre de 1997.
 
@@ -347,9 +347,15 @@ Cualquier persona previamente a la realización de obras o actividades mercantil
 
 La licencia ambiental municipal, será el permiso único que en materia ambiental requerirán los establecimientos mercantiles o de servicios por parte del Ayuntamiento; integrando en esta autorización las disposiciones relativas a descargas de aguas residuales, emisiones a la atmósfera, manejo de residuos sólidos no peligrosos, emisiones de ruido, olores, vibraciones, energía térmica y lumínica, y en general, de todo aquello que sea competencia municipal de conformidad con la Ley General, la Ley Estatal, las Normas aplicables, las disposiciones del presente Reglamento y los Convenios que al efecto celebre el Gobierno Municipal con otros órdenes de gobierno.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+Se requiere la obtención de licencia ambiental municipal para los Fraccionamientos industriales y habitacionales que pretendan ubicarse dentro del centro de población.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 11.
 
-Para obtener la licencia ambiental, deberá presentarse la solicitud correspondiente ante la Oficina Municipal de Ecología, en los formatos que para tal efecto se expidan.
+Para obtener la licencia ambiental deberá presentarse la solicitud correspondiente ante la Dirección de Ecología Municipal, en los formatos que para tal efecto se expidan, asimismo, para la evaluación y otorgamiento de la licencia ambiental para fraccionamientos industriales y habitacionales deberá presentar una descripción de los posibles efectos en los ecosistemas que pudieran ser afectados por los planes, programas, obras o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos.
 
 ###### Artículo 12.
 
@@ -621,7 +627,7 @@ Las disposiciones previstas en el presente Capítulo tienen por objeto prevenir 
 
 ###### Artículo 65.
 
-La planificación y ejecución de obras urbanísticas deberá observar las disposiciones de este Reglamento y del Reglamento para la Protección del Ambiente contra la Contaminación Originada por la Emisión del Ruido expedido por la Secretaría, para evitar daños al ambiente o a la salud pública por la emisión de ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales.
+La planificación y ejecución de obras urbanísticas deberá observar las disposiciones de este Reglamento y del Reglamento para la Protección del Ambiente Contra la Contaminación Originada por la Emisión del Ruido expedido por la Secretaría, para evitar daños al ambiente o a la salud pública por la emisión de ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales.
 
 ###### Artículo 66.
 
@@ -1464,3 +1470,9 @@ Segundo.- Se abroga el Reglamento contra el Ruido para el Municipio de Mexicali,
 Tercero.- Las actividades o establecimientos, cuya regulación en materia de protección ambiental sea de competencia municipal, que hubieran solicitado la autorización en materia de impacto ambiental prevista en la Ley General o en la Ley Estatal, ante alguna dependencia distinta a la Oficina Municipal de Ecología antes de entrar en vigor este Reglamento, deberán proporcionar a éste la información y la autorización que se les otorgó, para proceder a su incorporación al archivo municipal.
 
 Cuarto.- Los establecimientos y actividades que se encuentren funcionando a la entrada en vigor del presente Reglamento, que no hubieran tramitado la autorización en materia de impacto ambiental con dependencia alguna y cuya regulación en materia de protección ambiental sea de competencia municipal, tendrán la oportunidad de regularizar su situación por cuenta propia o en los términos y plazos que la Oficina Municipal de Ecología se los solicite.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2004.
+
+ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
