@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2004-06-05"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -637,9 +637,15 @@ Los peatones y las personas con discapacidad gozarán de los siguientes derechos
 
 I. De paso preferencial en todas las intersecciones viales que cuenten con el señalamiento respectivo, y en aquellas en que el tránsito vehicular esté controlado por oficiales de tránsito;
 
-II. De orientación por los oficiales sobre señalamiento vial, ubicación de calles o información turística; y,
+II. De orientación por los oficiales sobre señalamiento vial, ubicación de calles o información turística; y, (sic)
 
-III. Las demás que establezca esta Ley y sus reglamentos.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. De señalamiento vial visual, auditivo y táctil, de conformidad con lo que dispone el artículo 61 de la Ley para la Atención de las Personas con Discapacidad en el Estado de Chihuahua;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. Las demás que establezca esta ley y sus reglamentos.
 
 ## TÍTULO V.
 
@@ -1018,5 +1024,9 @@ P.O. 8 DE MARZO DE 2003.
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
