@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-sanidad-animal-60"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1993-06-18"
-last_updated: "2002-06-12"
+last_updated: "2004-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de junio de 1993.
 
@@ -122,9 +122,9 @@ Prevención: conjunto de medidas zoosanitarias basadas en estudios epizootiológ
 
 Productos biológicos: los reactivos biológicos, sueros, vacunas, que puedan utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como hormonas y material genético de origen animal que sirva para fines reproductivos;
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-Punto de verificación e inspección zoosanitaria: Sitio ubicado en territorio nacional con infraestructura de diagnóstico autorizado por la Secretaría, para constatar el cumplimiento de las Normas Oficiales Mexicanas de acuerdo a lo establecido por esta ley, en lo que no se contraponga con la legislación de comercio exterior y aduanal aplicable.
+Punto de verificación e inspección zoosanitaria: Sitio ubicado en territorio nacional con infraestructura de diagnóstico autorizado por la Secretaría, para constatar el cumplimiento de las Normas Oficiales Mexicanas de acuerdo a lo establecido por esta ley, en lo que no se contraponga con la legislación de comercio exterior y aduanal aplicable. En la inteligencia de que tratándose de todas las importaciones de animales en pie, productos cárnicos y sus subproductos, deberán verificarse en los puntos de verificación e inspección zoosanitaria que se encuentren ubicados en la franja fronteriza cuando se trate de importaciones vía terrestre, o en las plantas mencionadas que se encuentren en los puertos de entrada cuando se trate de importaciones vía aérea o marítima.
 
 Rastro: establecimiento donde se da el servicio para sacrificio de animales para la alimentación y comercialización al mayoreo de sus productos. Servicio público municipal, en su caso;
 
@@ -696,11 +696,11 @@ Los propietarios y administradores serán asimismo responsables de lo señalado 
 
 ### CAPITULO II. DE LA VERIFICACION
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría deberá inspeccionar y verificar, en cualquier tiempo y lugar, en los puntos de verificación y dentro del territorio nacional, de acuerdo con lo ordenado en la presente Ley, el cumplimiento de las Normas Oficiales Mexicanas en la materia.
+La Secretaría deberá inspeccionar y verificar, en cualquier tiempo y lugar, en los puntos de verificación y dentro del territorio nacional, de acuerdo con lo ordenado en la presente ley, el cumplimiento de las Normas Oficiales Mexicanas. En la inteligencia de que tratándose de todas la (sic) importaciones de animales en pie, productos cárnicos y sus subproductos, deberán verificarse en los puntos de verificación e inspección zoosanitaria que se encuentren ubicados en la franja fronteriza cuando se trate de importaciones vía terrestre, o en las plantas mencionadas que se encuentren en los puertos de entrada cuando se trate de importaciones vía aérea o marítima.
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2002)</small>
 
@@ -808,21 +808,9 @@ III. El aseguramiento y en su caso la destrucción, a costa del titular del Punt
 
 IV. La suspensión de obras y actividades que no cumplan con lo establecido por esta Ley.
 
-TlTULO CUARTO
+## TITULO CUARTO. DE LOS INCENTIVOS, DENUNCIA CIUDADANA, INFRACCIONES, SANCIONES Y RECURSO DE REVISION
 
-DE LOS INCENTIVOS, DENUNCIA CIUDADANA, INFRACCIONES, SANCIONES Y RECURSO DE REVISION
-
-CAPlTULO I
-
-DE LOS INCENTIVOS
-
-## TITULO QUINTO. DE LOS DELITOS
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2002)</small>
-
-### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+### CAPITULO I. DE LOS INCENTIVOS
 
 ###### ARTICULO 49.
 
@@ -832,13 +820,7 @@ El Premio Nacional de Sanidad Animal, tiene por objeto, reconocer y premiar anua
 
 El procedimiento para la selección de los acreedores al premio mencionado y las demás prevenciones que sean necesarias, se establecerán en el reglamento de esta Ley.
 
-CAPlTULO II
-
-DE LA DENUNCIA CIUDADANA
-
-### CAPITULO IV. DEL RECURSO DE REVISION
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2002)</small>
+### CAPITULO II. DE LA DENUNCIA CIUDADANA
 
 ###### ARTICULO 51.
 
@@ -856,9 +838,9 @@ Una vez recibida la denuncia, la Secretaría la hará saber a la persona o perso
 
 La Secretaría, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, deberá hacer del conocimiento del denunciante el trámite que se haya dado a aquélla y, en su caso, dentro de los treinta días hábiles siguientes, el resultado de la verificación e investigación de los hechos y medidas zoosanitarias adoptadas. Cuando del incumplimiento o violación a los preceptos de esta ley se desprenda la comisión de alguna infracción, la Secretaría iniciará el procedimiento administrativo correspondiente; si existe la presunción de un delito formulará la denuncia respectiva ante la autoridad competente, remitiéndole toda la información con la que cuente.
 
-### CAPITULO UNICO
+### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 53.
 
@@ -874,7 +856,7 @@ III. Negativa temporal o permanente para la expedición de certificados zoosanit
 
 IV. Multa;
 
-V. Suspención temporal, y
+V. Suspención (sic) temporal, y
 
 VI. Clausura parcial o total.
 
@@ -940,6 +922,10 @@ Las sanciones que se señalan en este capítulo, se aplicarán sin perjuicio de 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE JUNIO DE 2002)</small>
 
+### CAPITULO IV. DEL RECURSO DE REVISION
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 60.
 
 Contra las resoluciones dictadas por la Secretaría, con fundamento en esta Ley, Normas Oficiales Mexicanas en la materia y disposiciones que de ella emanen, el interesado podrá interponer el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación.
@@ -959,6 +945,14 @@ Por lo que se refiere a los trámites relativos a la sustanciación del recurso 
 La interposición del recurso suspenderá la ejecución de la resolución impugnada, por cuanto hace al pago de multas.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+## TITULO QUINTO. DE LOS DELITOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 61.
 
@@ -1029,3 +1023,7 @@ CUARTO.- El Ejecutivo Federal emitirá la reglamentación y normatividad aplicab
 QUINTO.- Se deroga el artículo primero transitorio de la Ley Federal de Sanidad Animal, reformado mediante decreto publicado en el Diario Oficial de la Federación de fecha 28 de diciembre del año dos mil uno.
 
 SEXTO.- Se deroga el artículo segundo transitorio de la Ley Federal de Sanidad Animal, reformado mediante Decreto publicado en el Diario Oficial de la Federación de fecha 12 de junio del año dos mil.
+
+D.O.F. 16 DE JUNIO DE 2004.
+
+ÚNICO.- La presente reforma entrará en vigor el 1 de junio de 2004.
