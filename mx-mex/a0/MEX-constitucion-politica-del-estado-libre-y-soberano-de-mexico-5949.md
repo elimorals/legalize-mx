@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1945-04-28"
+last_updated: "1945-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 1945.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 1945 (DECRETO No. 99)
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -65,7 +65,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 G.G. 9 DE SEPTIEMBRE DE 1939.
 
-Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".vo período de cuatro años, comenzará a contarse desde el día 1° de enero de 1924.
+Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 27 DE DICIEMBRE DE 1939.
 
@@ -144,6 +144,8 @@ III. Prestar el servicio de armas para la defensa y seguridad públicas del Muni
 IV. Votar en las elecciones para cargos municipales de la localidad en que residan y servir a aquellos para los que fueren electos. Los extranjeros no podrán ejercitar el derecho de voto activo ni pasivo;
 
 V. Hacer constar en el registro respectivo, los actos que se refieren a su estado civil.
+
+AArt. 26. La falta de cumplimiento de las obligaciones que impone el artículo anterior, será causa de suspensión de los derechos correlativos a la calidad de vecino, sin perjuicio de las demás sanciones que las leyes establezcan. Esta suspensión durará un año y será impuesta por la autoridad judicial correspondiente.
 
 ###### Art. 26.
 
@@ -511,9 +513,11 @@ IX. Convocar a elecciones de Gobernador y Diputados en los períodos constitucio
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1945)</small>
 
-XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución. Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado y de los Jueces de Primera Instancia serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará, dentro del término improrrogable de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrá por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado o Juez Provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados. En los casos de faltas temporales por más de tres de meses, de los Magistrados o Jueces, o en las definitivas por defunción, renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
+XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución.
+
+Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y ceses de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días para los primeros, y de dos días hábiles para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados los nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento cesará desde luego en sus funciones el Magistrado o Juez provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados. En los casos de faltas temporales por más de tres meses, de los Magistrados o Jueces, o en las definitivas por defunción; renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones, a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
@@ -1027,7 +1031,7 @@ Los cargos de Magistrados y Jueces de primera Instancia, son incompatibles con e
 
 ###### Art. 115.
 
-Los Jueces de Primera Instancia serán nombrados en la forma prevista por esta Constitución, durarán en su encargo cuatro años y no podrán ser depuestos sino por sentencia del Tribunal competente, ni suspensos sino por acusación legal y previa la declaración respectiva de haber lugar a formación de causa en su contra.
+Los Jueces de Primera Instancia serán nombrados en la forma prevista por esta Constitución, durarán en su encargo cuatro años y podrán ser cesados por el Ejecutivo del Estado, de acuerdo con lo previsto en la fracción XI del Artículo 70 de esta propia Constitución.
 
 ###### Art. 116.
 
@@ -1045,7 +1049,7 @@ Habrá Jueces de primera Instancia en todas las Cabeceras de Distrito Judicial.
 
 #### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1945)</small>
 
 #### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
@@ -1083,7 +1087,7 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo Colegiado q
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1945)</small>
 
 ## TITULO UNICO. DE LA ADMINISTRACION INTERIOR DE LOS MUNICIPIOS
 
@@ -1103,7 +1107,7 @@ En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, l
 
 ###### Art. 135.
 
-Los Ayuntamientos serán asambleas deliberantes, y, como cuerpos colegiados, tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los Presidentes Municipales; estarán formados en elección popular directa, debiendo durar en funciones dos años y no pudiendo ser electos, para el período inmediato siguiente, ninguno de sus miembros propietarios o suplentes que hayan funcionado.
+Los Ayuntamientos serán asamblea deliberantes, y, como cuerpos colegiados, tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los Presidentes Municipales; estarán formados en elección popular directa, debiendo durar en funciones tres años y no pudiendo ser electo, para el período inmediato siguiente, ninguno de sus miembros propietarios o suplentes que hayan funcionado.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
@@ -1922,3 +1926,17 @@ G.G. 28 DE ABRIL DE 1945.
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 5 DE SEPTIEMBRE DE 1945.
+
+DECRETO NUMERO 98, POR EL QUE SE REFORMA EL ARTICULO 135 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 5 DE SEPTIEMBRE DE 1945.
+
+DECRETO NUMERO 99, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCION XI Y 115 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
