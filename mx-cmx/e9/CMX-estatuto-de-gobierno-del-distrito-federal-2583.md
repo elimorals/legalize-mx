@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "1995-06-03"
+last_updated: "1995-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 1995.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -632,9 +632,11 @@ El Jefe del Distrito Federal difundirá el contenido de los acuerdos y convenios
 
 La función judicial del Distrito Federal se ejercerá por el Tribunal Superior de Justicia, jueces y demás órganos que su ley orgánica señale. Dicha ley regulará también su organización y funcionamiento.
 
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 77.
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones será garantizada por la ley orgánica respectiva, la cual establecerá condiciones para el ingreso, formación y permanencia de quienes sirvan en los órganos de justicia del Distrito Federal.
+La ley orgánica respectiva establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 ###### ARTICULO 78.
 
@@ -652,6 +654,10 @@ Dentro de los quince días a que se refiere el artículo anterior, la Asamblea d
 
 Los nombramientos de los magistrados serán hechos preferentemente, de entre aquellas personas que se hayan desempeñado como jueces o que hayan prestado sus servicios con eficiencia y probidad en la impartición o procuración de justicia, o en su caso, que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica se consideren aptos para impartirla. En igualdad de circunstancias, se preferirá a los originarios o vecinos del Distrito Federal en la forma que determine la ley.
 
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+
+En la designación de los magistrados, el Jefe del Distrito Federal deberá escuchar la opinión previa del Consejo de la Judicatura del Distrito Federal, el cual verificará que se cumpla con los requisitos a que se refiere el artículo 122, fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como las condiciones previstas en el párrafo anterior.
+
 ###### ARTICULO 81.
 
 Los magistrados percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, y estarán sujetos a lo dispuesto por el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -660,17 +666,45 @@ Los magistrados percibirán una remuneración adecuada e irrenunciable, la cual 
 
 Los magistrados durarán seis años en el ejercicio de su cargo, podrán ser ratificados, y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y de la ley federal de la materia.
 
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+
+En la ratificación de magistrados intervendrán las mismas autoridades y se seguirán las mismas formalidades que para su designación.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 83.
 
-Los jueces de Primera Instancia y los de Paz serán nombrados por el Tribunal Superior de Justicia en acuerdo del Pleno.
+La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales estarán a cargo del Consejo de la Judicatura del Distrito Federal, en los términos que, conforme a las bases que señalan la Constitución Política de los Estados Unidos Mexicanos y este Estatuto, establezca la ley orgánica respectiva.
+
+El Consejo se integrará por siete miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un magistrado, un juez de primera instancia y un juez de paz, electos mediante insaculación; dos consejeros designados por la Asamblea de Representantes y uno por el Jefe del Distrito Federal. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser magistrado establece la ley. El Consejo funcionará en Pleno o en comisiones.
+
+Los Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
+
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
+El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
+
+El Consejo, actuando en Pleno, opinará sobre la designación y ratificación de magistrados; resolverá sobre la adscripción y remoción de magistrados; designará, adscribirá y removerá a los jueces de primera instancia, a los jueces de paz y a los que con cualquier otra denominación se creen en el Distrito Federal; todo ello en los términos que la ley prevea en materia de carrera judicial.
+
+El Pleno y las Salas del Tribunal Superior de Justicia, así como los jueces y demás órganos judiciales, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca la ley en materia de carrera judicial.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 84.
 
-La ley orgánica regulará lo relativo a los requisitos para ser juez y al procedimiento ante el Pleno del Tribunal para ocupar el cargo.
+Los magistrados y jueces del Tribunal Superior de Justicia y los Consejeros de la Judicatura del Distrito Federal no podrán, en ningún caso, aceptar o desempeñar empleo, o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Los funcionarios a que se refiere el párrafo anterior estarán impedidos, durante los dos años siguientes a la fecha de su retiro, para actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales del Distrito Federal. Durante dicho plazo, los magistrados no podrán ocupar el cargo de Jefe del Distrito Federal, Secretario General, Procurador General de Justicia o Representante a la Asamblea del Distrito Federal, salvo que el cargo desempeñado en el órgano judicial respectivo, lo hubiera sido con el carácter de provisional.
+
+Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
+
+La infracción a lo previsto en los párrafos anteriores será sancionada con la pérdida del cargo dentro del órgano judicial de que se trate, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 85.
 
-El Tribunal Superior de Justicia elaborará su propio presupuesto para su inclusión en el proyecto de presupuesto de egresos que el Jefe del Distrito Federal envíe a la Asamblea de Representantes del Distrito Federal.
+El Consejo de la Judicatura del Distrito Federal elaborará el presupuesto del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales y lo remitirá para su inclusión en el proyecto de presupuesto de egresos del Distrito Federal.
 
 ## TITULO QUINTO. DE LAS BASES PARA LA ORGANIZACION DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL Y LA DISTRIBUCION DE ATRIBUCIONES ENTRE SUS ORGANOS
 
@@ -1189,3 +1223,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Consejeros Ciudadanos electos en el año de 1995 desempeñarán sus funciones desde la instalación de los Consejos de Ciudadanos en el mes de diciembre de dicho año hasta el día anterior al que tomen posesión los que sean electos en 1997, de conformidad con lo que disponga la ley.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
+
+D.O.F. 12 DE DICIEMBRE DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo Primero del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo transitorio del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
