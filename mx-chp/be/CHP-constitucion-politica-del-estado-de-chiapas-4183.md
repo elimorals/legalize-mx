@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1973-08-15"
+last_updated: "1973-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1973.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -32,8 +32,6 @@ TIBURCIO FERNANDEZ RUIZ, General de División del Ejército Nacional y Gobernado
 Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
 La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
-
-> <small>N. DE E. LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS APROBO EL DECRETO No. 92, QUE REFORMA LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODIO OFICIAL DEL ESTADO EL 15 DE AGOSTO DE 1973.</small>
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
@@ -1235,11 +1233,13 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 El Estado de Chiapas reafirmó su mexicanidad el 14 de septiembre de 1824; desde esa fecha, por la libre y espontánea voluntad de sus habitantes, es signatario del Pacto Federal de la República Mexicana. Es libre y soberano en todo lo que concierne a su régimen interior, sin más limitaciones que las expresamente establecidas en la Constitución Federal.
 
+> <small>N. DE E. LA REFORMA DEL DECRETO No. 87 PUBLICADO EN P.O. 19 DE DICIEMBRE DE 1973, NO PUEDE SER APLICADO AL PRESENTE ARTICULO, EN VIRTUD DE QUE SU CONTENIDO ACTUAL NO TIENE RELACION CON EL CONTENIDO DE LA REFORMA. ES DE OBSERVARSE QUE LA APROBACION DEL DECRETO No. 87 FUE ANTERIOR A LA FECHA DE APROBACION DE LA REFORMA DEL 15 DE AGOSTO DE 1973.</small>
+
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 2o.
 
-La soberanía del Estado reside escencial (sic) y originariamente en el pueblo, quien la ejerce por medio de los Poderes Públicos, que se instituyen para su beneficio.
+La soberanía del Estado reside esencial y originariamente en el pueblo, quien la ejerce por medio de los Poderes Públicos, que se instituyen para su beneficio.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1520,6 +1520,18 @@ Quedan derogadas todas las Leyes, Decretos, Circulares, Reglamentos o cualesquie
 ###### ARTICULO 3o.
 
 El Ejecutivo dispondrá se promulgue, circule y publique por bando solemne, para su debido cumplimiento.
+
+P.O. 19 DE DICIEMBRE DE 1973.
+
+DECRETO No. 86, QUE REFORMA EL ARTICULO 2 CONSTITUCIONAL.
+
+UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 1973.
+
+DECRETO No. 87, QUE REFORMA EL ARTICULO 2 CONSTITUCIONAL.
+
+UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 2o.
 
