@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "1997-03-26"
+last_updated: "1998-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1998.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -551,6 +551,8 @@ En el cumplimiento de sus funciones el Congreso del Estado integrará Comisiones
 
 Ninguna Comisión se integrará con Diputados de un sólo Partido.
 
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 67.
 
 Serán Comisiones Permanentes las siguientes:
@@ -587,17 +589,17 @@ XV.- De Vigilancia;
 
 XVI.- De las Comunidades y Asuntos Indígenas;
 
-XVII.- De Turismo y Pesca;
+XVII.- De Turismo;
 
-XVIII.- De Protocolo y Régimen Orgánico Interior;
+XVIII.- De Pesca;
 
-XIX.- De Honor y Justicia; e
+XIX.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
 
-XX.- Instructora.
+XX.- De Protocolo y Régimen Orgánico Interior;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1997)</small>
+XXI.- De Honor y Justicia; e
 
-XXI.- De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
+XXII.- Instructora.
 
 ###### ARTICULO 68.
 
@@ -1103,9 +1105,13 @@ Es iniciativa de Decreto aquella que tiende a una resolución que otorgue derech
 
 Es iniciativa de Acuerdo aquella que tiende a una resolución que por su naturaleza no requiera para su validez de la sanción, promulgación y publicación.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 141.
 
-Cuando se presente ante el Congreso una iniciativa, primeramente, deberá pasar a la Presidencia de la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente.
+Cuando se presente ante el Congreso una iniciativa, primeramente, deberá pasar a la Presidencia de la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente. El Presidente de la citada Comisión, deberá entregar una copia, de las iniciativas que se reciban para determinación, a cada uno de sus integrantes para su conocimiento.
+
+El Presidente de la Comisión de Protocolo y Régimen Orgánico Interior, comunicará al Presidente de la Mesa Directiva en turno, las iniciativas que se encuentren pendientes.
 
 ###### ARTICULO 142.
 
@@ -1714,3 +1720,19 @@ P.O. 26 DE MARZO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MARZO DE 1998.
+
+DECRETO NUMERO 453
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MARZO DE 1998.
+
+DECRETO NUMERO 467
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
