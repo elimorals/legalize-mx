@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1988-12-30"
+last_updated: "1989-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1989.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -4251,61 +4251,63 @@ Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, v
 
 ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes exenciones, relativas al uso o aprovechamiento de la carretera costera Plan Mar de Cortés, se sujetarán a lo dispuesto en este capítulo.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
-ART. 334 Bis A.- El uso de la Carretera Costera Plan Mar de Cortés, mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la Carretera a Eldorado o viceversa, estará sujeto a la siguiente:
+ART. 334 Bis A.- El uso de la Carretera Costera Plan Mar de Cortéz (sic), mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la Carretera a Eldorado o viceversa, estará sujeto a las siguientes cuotas:
 
 T A R I F A:
 
-CLASE DE VECES EL SALARIO
+CLASE DE VEHICULO VECES EL SALARIO
 
-VEHICULO MINIMO GENERAL
+MINIMO GENERAL
 
-VIGENTE EN SINALOA
+VIGENTE DIARIO EN
+
+SINALOA
 
 Tramo Completo Tramo Intermedio
 
 I.- Motocicletas 0.20 0.10
 
-II.- Automóviles y Camionetas
+II.- Automóviles y camionetas
 
-tipo Pick-Up y panel, de hasta
+tipo pick-up y panel, de hasta
 
 10 pasajeros:
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+a) Sin remolque 0.50 0.25
 
-a) Sin remolque 0.40 0.20
-
-b) Con remolque 0.60 0.30
+b) Con remolque 0.85 0.40
 
 III.- Autobuses de
 
-Pasajeros 0.60 0.30
+Pasajeros 0.85 0.40
 
 IV.- Camiones de carga
 
-de 2 ejes 0.80 0.40
+de 2 ejes 0.85 0.40
 
 V.- Camiones de carga o
 
 tractores con semiremolque
 
-de 3 ejes 1.00 0.50
+de 3 Ejes 1.30 0.65
 
 VI.- Camiones de carga o
 
 tractores con remolque de
 
-4 ejes 1.20 0.60
+4 ejes 1.80 0.90
 
-VII.- Camiones de carga
+VII.- Camiones de carga o
 
-o tractores con remolque de
+tractores con remolque de
 
-5 ejes 1.40 0.70
+5 ejes 2.20 1.10
 
-En tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementará en un 10% por cada eje excedente.
+Tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementarán por cada eje excedente, en un 50 por ciento del salario mínimo general diario vigente en el Estado.
+
+Cuando de la aplicación de la Tarifa anterior se determine una cuota en fracciones de cien pesos, se ajustará la cuota a la centena inmediata siguiente si se trata de fracciones superiores a cincuenta pesos, y cuando la fracción sea de cincuenta pesos o inferior el ajuste se hará a la centena inmediata anterior.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
@@ -6020,6 +6022,12 @@ Publíquese en el Periódico Oficial "El Estado de Sinaloa".
 Las presentes Reformas entrarán en vigor a partir del 15 de abril del presente año.
 
 P.O. 30 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 07 DE ABRIL DE 1989.
 
 ###### ARTICULO UNICO.
 
