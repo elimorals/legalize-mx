@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-la-vivienda-popular-4818"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1975-12-31"
+last_updated: "1990-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1990.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el miércoles 31 de diciembre de 1975.
 
@@ -111,7 +111,9 @@ Los órganos de dirección y administración del Instituto Estatal de la Viviend
 
 I.- El Consejo de Administración; y
 
-II.- La Dirección.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE OCTUBRE DE 1990)</small>
+
+II.- La Dirección la cual se integrará por un Director, un Subdirector y el personal necesario para realizar sus funciones.
 
 ###### ARTICULO SEXTO.
 
@@ -189,9 +191,15 @@ II.- Formular de acuerdo con el Presidente del Consejo el orden del día de los 
 
 III.- Tener bajo su custodia el Archivo del Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO DECIMO SEGUNDO.
 
-El Director del Instituto Estatal de la Vivienda Popular, será designado y removido libremente por el C. Gobernador Constitucional del Estado y tendrá las siguientes facultades y obligaciones:
+El Director y el Subdirector del Instituto Estatal de la Vivienda Popular serán designados y removidos libremente por el Gobernador Constitucional del Estado y tendrán las siguientes facultades y obligaciones respectivamente:
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+A).- El Director.
 
 I.- Representar legalmente al Instituto;
 
@@ -213,11 +221,31 @@ IX.- Elaborar el proyecto de Reglamento Interior, y presentarlo para su aprobaci
 
 X.- Rendir mensualmente un informe general de actividades al Consejo de Administración;
 
-XI.- Representar al Instituto como mandatario general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y especiales que requieran cláusula especial, conforme a la Ley, y en los términos de lo dispuesto por el artículo 2554 del Código Civil para el Distrito y Territorios Federales, aplicable en toda la República en Materia Federal y su correlativo al artículo 2448 del Código Civil del Estado de Coahuila. Como consecuencia de estas facultades el Director podrá enunciativa y no limitativamente: a).- Desistirse del juicio de amparo.- b).- Sustituir las facultades para actos de administración y de pleitos y cobranzas, y revocar las substituciones que haga. c).- Suscribir firmar, endosar, girar, o en cualquier otra forma comprometer al Instituto en cheques, pagarés, letras de cambio o cualesquiera otros títulos de créditos en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+XI.- Representar al Instituto como mandatario general para pleitos y cobranzas, actos de administración y de dominio, con las facultades generales y especiales que requieran cláusula especial, conforme a la Ley; y en los términos de lo dispuesto por el Artículo 2554 del Código Civil para el Distrito y Territorios Federales, aplicable en toda la República en materia federal y su correlativo artículo 2448 del Código Civil del Estado de Coahuila. Como consecuencia de estas facultades del Director podrá enunciativa y no limitativamente:
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+A).- Desistirse del juicio de amparo.- B).- Sustituir las facultades para actos de administración y de pleitos y cobranzas, y revocar las substituciones que haga. C).- Suscribir, firmar, endosar, girar o en cualquier otra forma comprometer al Instituto en cheques, pagarés, letras de cambio o cualesquiera otros títulos de créditos en los términos del Artículo 9o. de la Ley General de Títulos y Operaciones de Crédito; otorgar, sustituir, delegar y revocar poderes.
 
 Lo anterior, salvo la limitación que se establece en el artículo siguiente:
 
 XII.- Las demás que determinen esta Ley, su Reglamento y las que en adición a las anteriores, le asigne el Consejo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+B).- El Subdirector.
+
+I.- Suplir al Director del Instituto en caso de falta o licencias temporales, informándole a su regreso de los asuntos que durante su ausencia se hayan presentado;
+
+II.- Cuidar que el personal cumpla eficazmente las funciones de su competencia;
+
+III.- Supervisar las actividades que realice directamente el Instituto en el desarrollo de sus programas;
+
+IV.- Desempeñar en ausencia del Director, todas aquellas funciones encomendadas a éste por la presente ley; y
+
+V.- Las demás que le confiera la ley y el Consejo de Administración.
 
 ###### ARTICULO DECIMO TERCERO.
 
@@ -308,3 +336,15 @@ OSCAR FLORES TAPIA.- (Rúbrica).
 El Secretario del Ejecutivo del Estado.
 
 LIC. ROBERTO OROZCO MELO.- (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha señalada en el artículo anterior quedan derogadas todas las disposiciones que se opongan a la presente reforma.
