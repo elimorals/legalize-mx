@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1990-12-25"
+last_updated: "1995-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -55,9 +55,11 @@ Los ingresos de los Municipios por concepto de contribuciones se clasificarán e
 
 I. Son ingresos ordinarios: los impuestos, derechos, productos, aprovechamientos y las participaciones, que se regularán por las Leyes Fiscales respectivas o en su defecto por este Código y supletoriamente por el derecho común.
 
-II. Son ingresos extraordinarios los empréstitos, los subsidios y los que se decreten excepcionalmente por el H. Congreso Estatal.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-Ninguna contribución podrá recaudarse si no está prevista en la Ley.
+II. Son ingresos extraordinarios los financiamientos, los subsidios y los que se decreten excepcionalmente por el H. Congreso del Estado.
+
+Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos de los Municipios.
 
 ###### ARTICULO 4o.
 
@@ -71,9 +73,9 @@ c).- El Presupuesto de Egresos Municipal.
 
 d).- La Ley de Hacienda Municipal del Estado de Guerrero.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-e).- La Ley de Catastro.
+e).- La Ley de Catastro Municipal.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -97,9 +99,11 @@ IV.- Los Tesoreros Municipales.
 
 Las normas del derecho tributario que establezcan cargos a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 7o.
 
-Son impuestos, las prestaciones en dinero o en especie que el municipio fija unilateralmente y con carácter general y obligatorio, a todos aquellos sujetos cuya situación coincida con la que la Ley señala como hecho generador del crédito fiscal para cubrir los gastos públicos.
+Son impuestos, las prestaciones en dinero o en especie que el H. Congreso del Estado establezca a favor del Municipio para que cobre unilateralmente y con carácter general y obligatorio, a todos aquellos sujetos cuya situación coincida con la que la Ley señala como hecho generador del crédito fiscal para cubrir los gastos públicos.
 
 ###### ARTICULO 8o.
 
@@ -191,11 +195,15 @@ El pago de los Impuestos y derechos se hará precisamente en la Tesorería Munic
 
 I.- Los pagos mensuales y bimestrales, se efectuarán en los quince primeros días de cada mes o bimestre.
 
-II.- Los pagos anuales se efectuarán en los primeros treinta días del año a que corresponda el pago.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+II.- Los pagos anuales se efectuarán en los primeros sesenta días del año a que corresponda el pago.
 
 III.- Fuera de los dos casos anteriores y a la falta de disposición expresa las demás contribuciones se causarán al efectuarse el acto que causa el tributo al solicitarse o recibirse el servicio respectivo.
 
-IV.- La recaudación se llevará a cabo de conformidad con las Tasas y Tarifas previstas por la Ley de la materia y por la Ley de Ingresos de los Municipios que se encuentren en vigor.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+IV.- La recaudación se llevará a cabo de conformidad con las tasas y tarifas previstas por la Ley de Ingresos de los Municipios que se encuentre en vigor.
 
 ## TITULO SEGUNDO. DE LOS SUJETOS PASIVOS Y DEL CREDITO FISCAL
 
@@ -261,7 +269,7 @@ I.- Los Municipios, la Federación, y las Entidades Federativas, cuando su activ
 
 II.- Las demás personas que de modo general señalen las Leyes.
 
-Las exenciones se solicitarán por escrito al Presidente Municipal, debiéndose acompañar y ofrecer las pruebas que demuestren su procedencia.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 27o.
 
@@ -329,11 +337,11 @@ En estos casos el contribuyente deberá cubrir el crédito o créditos determina
 
 Las autoridades fiscales rectificarán en cualquier momento, de oficio o a instancia del interesado los errores materiales o de hecho y los aritméticos, siempre que no hubieren transcurrido cinco años desde que se practicó la determinación o liquidación, según sea el caso, cuya rectificación se pretenda.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 35o.
 
-Sólo podrán exentarse o reducirse los créditos Fiscales Municipales, cuando por causa de fuerza mayor o por calamidades públicas se afecte la situación económica de alguna región del territorio Municipal.
-
-Al efecto, el Ayuntamiento declarará, mediante disposiciones casuísticas, los impuestos, derechos, productos o aprovechamientos, materia de exención o reducción en las regiones del Municipio en las que se disfrutará de la misma.
+Sólo podrán exentarse o reducir los Créditos Fiscales Municipales, cuando por causa de fuerza mayor o por calamidades públicas se afecte la situación económica de alguna región del Territorio Municipal. Al efecto, el Ayuntamiento declarará, mediante disposiciones casuísticas, los impuestos, los derechos, productos o aprovechamientos, materia de la exención o reducción en las regiones del Municipio en las que se beneficiará de la misma.
 
 ###### ARTICULO 36o.
 
@@ -359,7 +367,9 @@ I. Cuando por actos del deudor hubieren disminuido las garantías después de es
 
 II. Cuando el deudor cambie su domicilio, sin aviso de dicho cambio a la autoridad fiscal.
 
-III. Cuando el deudor incurra en infracciones de los que aparezca manifiesta su intención de defraudar al fisco.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+III. Cuando el deudor incurra en infracciones en las que su intención de defraudar al fisco sea manifiesta.
 
 IV. Cuando el deudor sea declarado en estado de quiebra, concurso, suspensión de pagos o solicite su liquidación judicial.
 
@@ -373,7 +383,7 @@ Durante el transcurso de las prórrogas que se concedan para el pago de un créd
 
 ###### ARTICULO 42o.
 
-La exención solamente podrá concederse en la forma y términos que prevengan las leyes o por acuerdo del Ayuntamiento.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 43o.
 
@@ -463,9 +473,11 @@ b). A partir del día siguiente a aquel en que haya causado estado la resolució
 
 II. Si no fueren notificadas al infractor o presunto infractor, a partir del día siguiente a aquel en que se dictaron por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 51o.
 
-La acción del fisco Municipal para exigir el pago de los recargos, los gastos de ejecución y en su caso los intereses, prescriben en cinco años a partir del día siguiente al mes en que se causaron. Sin embargo, la prescripción del crédito fiscal principal implica a la de sus recargos y demás accesorios legales.
+La acción del Fisco Municipal para exigir el pago de los recargos, los gastos de ejecución y en su caso intereses, prescriben en 5 años contados a partir del día siguiente en que fueran exigibles. Sin embargo, la prescripción del crédito fiscal implica la de sus recargos y demás accesorios legales.
 
 ###### ARTICULO 52o.
 
@@ -923,15 +935,23 @@ XXIII. Violar otras disposiciones fiscales en forma prevista en las fracciones p
 
 Son infracciones y sanciones cuya responsabilidad corresponde a los funcionarios y empleados públicos de los Municipios, así como a los encargados de Servicios Públicos y órganos oficiales, sin perjuicio de la ley de responsabilidades de los servidores públicos del Estado, las siguientes:
 
-I. Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las mismas; de uno a treinta días de salario mínimo en el Municipio.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-II. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó el gravamen; de uno a treinta días del salario mínimo en el Municipio.
+I. Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general, no cuidar el cumplimiento de las mismas, de uno a treinta días de salario mínimo vigente en el Municipio;
 
-III. Recibir el pago de una prestación fiscal y no enterar el importe en el plazo legal; de uno hasta ciento veinte días del salario mínimo en el Municipio.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+II. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó el gravamen, de uno a treinta días de salario mínimo vigente en el Municipio;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+III. Recibir el pago de una prestación fiscal y no enterar el importe en el plazo legal, de uno hasta ciento veinte días de salario mínimo vigente en el Municipio;
 
 IV. No exigir el pago total de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con la forma establecida por las disposiciones aplicables y en perjuicio del control e interés fiscal; de cinco hasta doscientos días del salario mínimo vigente en el Municipio;
 
-V. No presentar ni proporcionar, extemporáneamente los informes, avisos, datos y documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; no prestar auxilio a las autoridades Fiscales para la determinación y cobro de las prestaciones tributarias; de uno hasta cinco días del salario mínimo vigente en el Municipio.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+V. No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos y documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias, de uno hasta cinco días de salario mínimo vigente en el Municipio.
 
 VI. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; de uno hasta treinta días del salario mínimo vigente en el Municipio;
 
@@ -1033,9 +1053,11 @@ XIII.- Infringir otras disposiciones fiscales en forma no prevista en las preced
 
 Para proceder penalmente por los delitos previstos en este Código será necesario que el Ayuntamiento declare previamente que el fisco municipal ha sufrido o pudo sufrir un perjuicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 90o.
 
-En cuanto a los delitos tipificados en los artículos 94, 100 y 104 se requerirá querella del Ayuntamiento.
+En cuanto a los delitos tipificados en los artículos 94, 100 y 106 se requerirá querella del Ayuntamiento:
 
 En los procesos por delitos fiscales señalados en el párrafo anterior, el Ayuntamiento antes de que el Ministerio Público formule conclusiones, cuando a su juicio ha quedado garantizado el interés fiscal, podrá solicitar en cualquier instancia al procurador de justicia, el desistimiento de la acción penal;
 
@@ -1435,7 +1457,7 @@ El nombramiento del depositario podrá recaer en el ejecutado.
 
 El embargo de toda clase de negociaciones se regirá por lo establecido en este Código y en su defecto, por las disposiciones del Código de Procedimientos Civiles del Estado de Guerrero.
 
-Si la negociación embargada fuere improductiva y estuviere abandonada, el Ayuntamiento podrá encargar a terceros debidamente capacitados que realicen la explotación respectiva.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 130o.
 
@@ -1449,9 +1471,11 @@ En caso de omisión del acreedor embargante, transcurrido el plazo indicado, el 
 
 Cuando se aseguren dinero, metales, alhajas, objetos de arte, valores o mobiliarios, el depositario lo entregará inmediatamente, previo inventario, en la caja de la Tesorería Municipal.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 132o.
 
-Las sumas del dinero objeto del secuestro así como el importe de los frutos y productos de los bienes secuestrados, o los resultados netos de las negociaciones embargadas, se aplicarán en los términos del Artículo 158 inmediatamente que se reciban en caja de la Tesorería Municipal. Si se embargare un inmueble, los frutos y productos se aplicarán de acuerdo con lo dispuesto en el mismo artículo en sus fracciones I, II, III y IV en cada caso.
+Las sumas del dinero objeto del secuestro así como el importe de los frutos y productos de los bienes secuestrados, o los resultados netos de las negociaciones embargadas, se aplicarán en los términos del artículo 158 de este Código, inmediatamente que se reciban en Caja de la Tesorería Municipal. Si se embargare un inmueble, los frutos y productos se aplicarán de acuerdo con lo dispuesto en el mismo artículo en sus fracciones I, II, III y IV, en cada caso.
 
 ###### ARTICULO 133o.
 
@@ -2054,3 +2078,13 @@ P.O. 25 DE DICIEMBRE DE 1990.
 PRIMERO.- Todos los Peritos Valuadores que ejerzan dicha actividad en el ámbito Estatal, tienen noventa días para registrarse ante la Secretaría de Finanzas y Administración del Gobierno del Estado, contados a partir de que entra en vigor el presente Decreto.
 
 SEGUNDO.- Este Decreto empezará a surtir sus efectos al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y seis.
