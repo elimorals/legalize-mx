@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1964-08-05"
+last_updated: "1965-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE AGOSTO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE AGOSTO DE 1965.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -419,13 +419,11 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>N. DE E. LA PRESENTE REFORMA QUEDA ABROGADA A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY No. 25, PUBLICADA EN EL B.O. DE FECHA 11 DE AGOSTO DE 1965.</small>
-
-> <small>(REFORMADO, B.O. 5 DE AGOSTO DE 1964)</small>
+> <small>(REFORMADO, B.O. 11 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 46.
 
-El día primero de Octubre de cada año asistirá el Gobernador a la sesión que en ese día deberá celebrar el Congreso, ante quien rendirá, en el acto, un informe sobre el estado que guarda la Administración Pública en sus diversos ramos.
+El día trece de Octubre de cada año asistirá el Gobernador a la sesión que en ese día deberá celebrar el Congreso, ante quien rendirá, en el acto, un informe sobre el estado que guarda la Administración Pública en sus diversos ramos.
 
 El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere el día primero de septiembre, en el acto de la toma de posesión del Gobernador electo para el siguiente período.
 
@@ -841,11 +839,9 @@ Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos 
 
 VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
 
-> <small>N. DE E. LA PRESENTE REFORMA QUEDA ABROGADA A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY No. 25, PUBLICADA EN EL B.O. DE FECHA 11 DE AGOSTO DE 1965.</small>
+> <small>(REFORMADA, B.O. 11 DE AGOSTO DE 1965)</small>
 
-> <small>(REFORMADA, B.O. 5 DE AGOSTO DE 1964)</small>
-
-VIII. Concurrir el día primero de Octubre a la sesión ordinaria del Congreso para rendir el informe a que se refiere el Artículo 46 de esta Constitución.
+VIII. Concurrir el día trece de Octubre a la sesión ordinaria del Congreso para rendir el informe a que se refiere el Artículo 46 de esta Constitución.
 
 IX. Concurrir a la apertura de las sesiones extraordinarias que hubiere solicitado del Congreso, con objeto de explicar los motivos en que haya fundado la convocatoria.
 
@@ -1851,9 +1847,11 @@ UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicació
 
 B.O. 5 DE AGOSTO DE 1964.
 
-> <small>N. DE E. LA PRESENTE LEY QUEDA ABROGADA A PARTIR DE LA ENTRADA EN VIGOR DE LA LEY No. 25, PUBLICADA EN EL B.O. DE FECHA 11 DE AGOSTO DE 1965.</small>
-
 LEY No. 93, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE AGOSTO DE 1965.
 
 UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
