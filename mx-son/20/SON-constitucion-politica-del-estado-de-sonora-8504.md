@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1991-12-30"
+last_updated: "1992-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE NOVIEMBRE DE 1992.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -627,7 +627,7 @@ IV. Para ratificar o no la creación de nuevos Estados dentro de los límites de
 
 V. Para establecer las bases de todo arreglo amistoso sobre límites del territorio de Sonora.
 
-VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataquen la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
+VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataque la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -635,7 +635,7 @@ VII. Para expedir Leyes en el Estado que fijen las bases sobre la organización 
 
 VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
-IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del artículo 130 de la Constitución General de la República.
+IX. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1073,7 +1073,7 @@ XXXIII. Nombrar al representante que le corresponde en la Junta de Conciliación
 
 XXXIV. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.
 
-XXXV. Cuidar, de acuerdo con el artículo 130 de la Constitución General, que los ministros de los cultos sean mexicanos por nacimiento.
+XXXV. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
 XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio. Sin embargo, el Ejecutivo podrá nombrar a algún abogado que lo represente en determinado asunto cuando así lo crea conveniente.
 
@@ -1217,7 +1217,7 @@ Toda la educación que imparta el Estado será gratuita.
 
 ###### Artículo 92.
 
-Ninguna corporación religiosa, ni ministro de algún culto religioso, por sí o por interpósita persona, podrán establecer o dirigir escuelas de instrucción primaria, ni servir empleos en las escuelas oficiales.
+(DEROGADO, B.O. 12 DE NOVIEMBRE DE 1992)
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2522,6 +2522,12 @@ B.O. 19 DE DICIEMBRE DE 1991.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 30 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE NOVIEMBRE DE 1992.
 
 ###### ARTICULO UNICO.
 
