@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1981-12-31"
+last_updated: "1982-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1982.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -60,9 +60,7 @@ A).- Aguas envasadas y refrescos, en envases cerrados .......... 15.7%
 
 B).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos .......... 40%
 
-C).- Concentrados, polvos, jarabes, esencias o extractos de sabores,
-
-destinados al consumidor final, que al diluirse permitan obtener refrescos .......... 20%
+C).- Concentrados, polvos, jarabes, esencias o extractos de sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos .......... 20%
 
 D).- Cerveza .......... 21.5%
 
@@ -110,7 +108,7 @@ b).- Servicios de larga distancia:
 
 1.- Abonados residenciales y de telefonía rural .......... 26.4%
 
-2.- En casos distintos a los residenciales y de telefonía rural .......... 35%
+2.- En casos distintos a los residenciales y de telefonía rurala .......... 35%
 
 ###### ARTICULO 3o.
 
@@ -168,11 +166,15 @@ XIV.- Seguros individuales en operaciones de vida, los que así defina la Ley Ge
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto de acuerdo con los preceptos de esta Ley, aun cuando conforme a otras leyes y decretos no causen impuestos federales o estén exentos de ellos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 5o.
 
 El impuesto se calculará por ejercicios fiscales, aplicando a los valores de los actos o actividades realizados en el ejercicio de las tasas del impuesto, excepto en el caso de importaciones ocasionales de bienes en el que se estará a los dispuesto en el artículo 16 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -199,6 +201,8 @@ Las cantidades que resulten de la aplicación de los dispuesto en el párrafo an
 El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos o actividades por los que se tenga que pagar el impuesto en los términos de esta Ley, deducirá en la siguiente o siguientes declaraciones mensuales el monto de dichos conceptos, del valor de los actos o actividades por los que se deba pagar el impuesto.
 
 ### CAPITULO II. De la Enajenación
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -322,6 +326,8 @@ Para calcular el impuesto tratándose de prestación de servicios se considerar�
 
 Los obligados al pago de este impuesto tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 I.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas.
@@ -359,6 +365,8 @@ En el caso de importación en recipientes mayores los marbetes deberán adherirs
 Petróleos Mexicanos presentará a más tardar el día 10 o el siguiente día hábil, si aquél no lo fuera, de cada uno de los meses de calendario, declaración informando sobre los volúmenes de gasolina que en el mes inmediato anterior haya enajenado a los expendios autorizados, directamente a consumidores y los consumidos por él. Esta declaración no sustituye a las que deberá presentar Petróleos Mexicanos en los términos de esta Ley.
 
 ### CAPITULO VI. De las Facultades de las Autoridades
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, ASI COMO LA REFORMA PUBLICADA A DICHO ARTICULO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -590,4 +598,12 @@ ARTICULO DECIMOSEGUNDO.- Los contribuyentes del impuesto especial sobre producci
 
 ARTICULO DECIMOTERCERO.- Tratándose de la enajenación de aguas envasadas y refrescos, en envases cerrados, que realiza directamente el contribuyente, en la cual cargue y cobre además del precio oficial de venta las cantidades autorizadas por la autoridad competente por concepto de fletes, la tasa del impuesto especial sobre producción y servicios será del 12% sobre el valor determinado conforme al artículo 11 de la Ley de la materia y se mantendrá hasta que la autoridad competente autorice un aumento en los cargos adicionales por concepto de fletes.
 
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
+
 ## TRANSITORIOS
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de octubre de 1982.
+
+## TRANSITORIO
