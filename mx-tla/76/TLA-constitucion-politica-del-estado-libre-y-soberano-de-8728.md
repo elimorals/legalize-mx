@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1959-11-18"
+last_updated: "1961-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1961.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -227,11 +227,11 @@ El Congreso se compondrá de Diputados electos popularmente en número no menor 
 
 La elección de Diputados será directa y en los términos que prevenga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1952)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1961)</small>
 
 ###### Art. 23.
 
-Por cada cuarenta mil habitantes o fracción que exceda de treinta mil, los ciudadanos del Estado elegirán un Diputado propietario y un suplente.
+Por cada cincuenta mil habitantes o fracción que exceda de treinta mil, los ciudadanos del Estado elegirán un Diputado Propietario y un Suplente.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -1102,3 +1102,7 @@ El presente Decreto surtirá sus efectos a partir de esta fecha.
 P.O. 18 DE NOVIEMBRE DE 1959.
 
 El presente Decreto surtirá sus efectos a partir de esta fecha.
+
+P.O. 4 DE ENERO DE 1961.
+
+El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
