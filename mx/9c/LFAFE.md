@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "2003-11-05"
+last_updated: "2004-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -812,9 +812,9 @@ Al que sin el permiso correspondiente posea un arma de uso exclusivo del Ejérci
 
 I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
-> <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA D.O.F. 23 DE ENERO DE 2004)</small>
 
-II. Con prisión de uno a siete años y de veinte a cien días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley, y
+II. Con prisión de uno a siete años y de veinte a cien días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
 
 > <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
 
@@ -1027,3 +1027,7 @@ D.O.F. 5 DE NOVIEMBRE DE 2003.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 23 DE ENERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
