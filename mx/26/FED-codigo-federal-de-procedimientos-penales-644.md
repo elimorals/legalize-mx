@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1974-12-31"
+last_updated: "1976-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -826,6 +826,22 @@ También hará consignación el Ministerio Público, ante los tribunales, siempr
 ###### ARTICULO 135.
 
 Al recibir el Ministerio Público diligencias de policía judicial, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales. Si fuere injustificada, ordenará que los detenidos queden en libertad.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
+En las averiguaciones previas que se practiquen por delitos de imprudencia, ocasionados con motivo del tránsito de vehículos, que se sancionen con pena privativa de libertad, cuyo término medio aritmético no exceda de cinco años de prisión, el indiciado será puesto en libertad, siempre que no hubiere incurrido en el delito de abandono de persona y garantice mediante caución suficiente que fije el Ministerio Público, no sustraerse a la acción de la justicia, así como el pago de la reparación del daño.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
+Cuando el Ministerio Público deje libre al indiciado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa, y, concluida ésta, ante el Juez a quien se consigne, quien ordenará su presentación y si no comparece sin causa justa y comprobada, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
+El Ministerio Público podrá hacer efectiva la garantía si el indiciado desobedeciere, sin causa justificada, las órdenes que dictare.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+
+La garantía se cancelará y en su caso se devolverá por el Ministerio Público, cuando se resuelva el no ejercicio de la acción penal. Consignado el caso, tal garantía se considerará prorrogada tácitamente, hasta en tanto el Juez no decida su modificación o cancelación.
 
 ## TITULO TERCERO
 
@@ -3458,3 +3474,9 @@ Se derogan todas las disposiciones legales que se opongan a las presentes rforma
 ###### ARTICULO CUARTO.
 
 Por lo que hace al Código Federal de Procedimientos Penales, todos los asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
+
+D.O.F. 31 DE DICIEMBRE DE 1976.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
