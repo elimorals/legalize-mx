@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-25809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-09-17"
-last_updated: "2004-12-21"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2001-10-02"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MARZO DE 2005.
 
-Estatuto publicado en la Sección Segunda del Diario Oficial de la Federación el día Martes 17 de septiembre de 2002.
+Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 17 de septiembre de 2002.
 
 Al margen un logotipo, que dice: Instituto Nacional de las Mujeres.
 
@@ -1149,7 +1149,7 @@ III. La persona titular de la Secretaría Ejecutiva será suplida por la(el) tit
 
 IV. Los titulares de la Secretaría Técnica, así como de la Prosecretaría, de las Direcciones Generales, Dirección General Adjunta de Asuntos Internacionales, Coordinaciones, Direcciones, Subdirecciones y Jefaturas de Departamento, así como sus homólogos o equivalentes, serán suplidos por quien designe la persona titular de la Presidencia.
 
-> <small>N. DE E. LAS TRES FRACCIONES QUE A CONTINUACION SE TRANSCRIBEN FUERON PUBLICADAS EN EL D.O.F. EL 21 DE DICIEMBRE DE 2004, EL CONTENIDO DE LAS MISMAS NO CORRESPONDEN AL ARTICULO 55, SIN EMBARGO SE CITAN PARA SU CONSIDERACION.</small>
+(SIN EFECTOS, D.O.F. 11 DE MARZO DE 2005)
 
 "V. Promover y realizar auditorías, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de la Función Pública, sobre el resultado de las acciones de control que haya realizado, y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
 
@@ -1186,3 +1186,7 @@ Artículo Unico.- El presente Acuerdo entrará en vigor al siguiente día de su 
 D.O.F. 21 DE DICIEMBRE DE 2004.
 
 Artículo Unico: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MARZO DE 2005.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
