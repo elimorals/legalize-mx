@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1998-12-31"
+last_updated: "1999-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1998.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE JULIO DE 1998.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 15 DE FEBRERO DE 1999.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -1102,9 +1102,11 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $16,961,562.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $33,923,124.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $20'116,413.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $40'232,825.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2084,9 +2086,11 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones fisc
 
 Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el penúltimo párrafo del artículo 20 de este Código.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-Las multas que este Capítulo establece en porcientos o en cantidades determinadas entre una mínima y otra máxima, que se deban aplicar a los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1'000,000.00, se considerarán reducidas en un 50%, salvo que en el precepto en que se establezcan, se señale expresamente una multa menor para estos contribuyentes.
+Las multas que este Capítulo establece en porcientos o en cantidades determinadas entre una mínima, que se deban aplicar a los contribuyentes cuyos ingresos en el ejercicio inmediato anterior excedido de $1'000,000.00, se considerarán reducidas en un 50%, salvo que en el precepto en que se establezcan, se señale expresamente una multa menor para estos contribuyentes.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2334,33 +2338,37 @@ IX. No verificar que la clave del registro federal de contribuyentes aparezca en
 
 A quien cometa las infracciones relacionadas con el Registro Federal de Contribuyentes a que se refiere el artículo 79, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-I. De $1,278.00 a $3,83400, a las comprendidas en las fracciones I, II y VI.
+I. De $1,383.00 a $4,148.00, a las comprendidas en las fracciones I, II y VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-II. De $1,628.00 a $3,255.00, a la comprendida en la fracción III, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo VI, Secciones II o III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1'085,100.00, supuestos en los que la multa será de $543.00 a $1,085.00.
+II. De $1,761.00 a $3,522.00, a la comprendida en la fracción III, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo VI, Secciones II o III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1'173,970.00, supuestos en los que la multa será de $587.00 a $1,174.00.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III. Para la señalada en la fracción IV:
 
-a). Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $2,713.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $1,085.00 ni mayor de $2,713.00.
+a). Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $2,935.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $1,174.00 ni mayor de $2,935.00.
 
-b). De $326.00 a $760.00, en los demás documentos.
+b). De $352.00 a $822.00, en los demás documentos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-IV. De $6,389.00 a $12,779.00, para la establecida en la fracción V.
+IV. De $6,913.00 a $13,825.00, para la establecida en la fracción V.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 V. De $1,500.00 a $4,500.00, a la comprendida en la fracción VII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2464,47 +2472,47 @@ XXIII. No proporcionar la información a que se refiere el penúltimo párrafo d
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 I. Para la señalada en la fracción I:
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a). De $511.00 a $6,389.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
+a). De $553.00 a $6,913.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b). De $511.00 a $12,779.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+b). De $553.00 a $13,825.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-c). De $4,898.00 a $9,796.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
+c). De $5,299.00 a $10,598.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-d). De $5,236.00 a $10,473.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
+d). De $5,665.00 a $11,331.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-e). De $524.00 a $1,676.00, en los demás documentos.
+e). De $567.00 a $1,813.00, en los demás documentos.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II. Respecto de la señalada en la fracción ll:
 
-a). De $383.00 a $1,278.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
+a). De $415.00 a $1,383.00, por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-b). De $19.00 a $32.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
+b). De $21.00 a $35.00, por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-c). De $64.00 a $128.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c). De $69.00 a $138.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-d). De $256.00 a $639.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d). De $276.00 a $691.00, por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-e). De $1,571.00 a $5,236.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
+e). De $1,700.00 a $5,665.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2514,79 +2522,81 @@ f). De $500.00 a $1,500.00, por no presentar firmadas las declaraciones por el c
 
 g). De $249.00 a $680.00, en los demás casos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III. De $511.00 a $12,779.00, tratándose de la señalada en la fracción III, por cada requerimiento.
+III. De $553.00 a $13,825.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV. De $6,389.00 a $12,779.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $639.00 a $3,834.00.
+IV. De $6,913.00 a $13,825.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $691.00 a $4,148.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-V. Para la señalada en la fracción V, la multa será de $8,163.00 a $32,653.00.
+V. Para la señalada en la fracción V, la multa será de $8,832.00 a $35,327.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-VI. Para la señalada en la fracción VI la multa será de $1,278.00 a $3,834.00.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VII. Para la señalada en la fracción Vll la multa será de $181.00 a $241.00.
+VI. Para la señalada en la fracción VI la multa será de $1,383.00 a $4,148.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII. Para la señalada en la fracción Vll la multa será de $196.00 a $261.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII. Para la señalada en la fracción VIII, la multa será de $24,237.00 a $72,711.00.
+VIII. Para la señalada en la fracción VIII, la multa será de $26,222.00 a $78,666.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IX. De $3,834.00 a $12,779.00, para la establecida en la fracción IX.
+IX. De $4,148.00 a $13,825.00, para la establecida en la fracción IX.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-X. De $11.00 a $22.00, para la establecida en la fracción X, por cada comprobante que impriman y respecto de los cuales no proporcionen información. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días y, en su caso, la cancelación de la autorización para imprimir comprobantes. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+X. De $12.00 a $23.00, para la establecida en la fracción X, por cada comprobante que impriman y respecto de los cuales no proporcionen información. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días y, en su caso, la cancelación de la autorización para imprimir comprobantes. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 XI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XII. De $16,612.00 a $25,557.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
+XII. De $17,973.00 a $27,650.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XIII. De $3,834.00 a $12,779.00, para la establecida en la fracción XIII.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIV. De $3,834.00 a $8,945.00, para la establecida en la fracción XIV.
+XIII. De $4,148.00 a $13,825.00, para la establecida en la fracción XIII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XV. De $31,946.00 a $63,893.00, para la establecida en la fracción XV.
+XIV. De $4,148.00 a $9,678.00, para la establecida en la fracción XIV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XV. De $34,563.00 a $69,125.00, para la establecida en la fracción XV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2596,31 +2606,39 @@ XVII. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XVIII. De $3,621.00 a $6,036.00, para la establecida en la fracción XVIII.
+XVIII. De $3,918.00 a $6,530.00, para la establecida en la fracción XVIII.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIX. De $6,036.00 a $12,071.00, para la establecida en la fracción XIX.
+XIX. De $6,530.00 a $13,060.00, para la establecida en la fracción XIX.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XX. De $15,000.00 a $30,000.00, para la establecida en la fracción XX.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XXI. De $50,000.00 a $100,000.00, para la establecida en la fracción XXI.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XXII. De $30,000.00 a $60,000.00, para la establecida en la fracción XXII, por cada lista no presentada.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2682,53 +2700,77 @@ XIV. No incluir en el documento que ampare la enajenación de un vehículo, la c
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994) (REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-I. De $557.00 a $5,570.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994) (REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+I. De $603.00 a $6,026.00 a la comprendida en la fracción I.
 
-II. De $119.00 a $2,785.00 a las establecidas en las fracciones II y III.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994) (REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De $119.00 a $2,227.00 a la señalada en la fracción IV.
+II. De $128.00 a $3,013.00 a las establecidas en las fracciones II y III.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III. De $128.00 a $2,410.00 a la señalada en la fracción IV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV. De $7,000.00 a $40,000.00, a la señalada en la fracción VII, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo VI, Secciones II o III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,000,000.00, supuestos en los que la multa será de $700.00 a $1,400.00. Las autoridades fiscales podrán, además, clausurar preventivamente el establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+IV. De $7,000.00 a $40,000.00, a la señalada en la fracción VII, salvo tratándose de contribuyentes que tributen conforme a (sic) al Título IV, Capítulo VI, Secciones II o III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,000,000.00, supuestos en los que la multa será de $700.00 a $1,400.00 por la primera infracción. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994) (REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-V. De $339.00 a $4,455.00 a la señalada en la fracción VI.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+V. De $367.00 a $4,820.00 a la señalada en la fracción VI.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. De $7,000.00 a $40,000.00, a la señalada en la fracción IX cuando se trate de la primera infracción, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo VI, Secciones II o III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,000,000.00, supuestos en los que la multa será de $700.00 a $1,400.00 por la primera infracción. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De $7,000.00 a $40,000.00, a la señalada en la fracción IX cuando se trate de la primera infracción, salvo tratándose de contribuyentes que tributen conforme a (sic) al Título IV, Capítulo VI, Secciones II o III, de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,000,000.00, supuestos en los que la multa será de $700.00 a $1,400.00 por la primera infracción. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994) (REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-VII. De $1,115.00 a $5,570.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996) (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+VII. De $1,206.00 a $6,026.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
 
-VIII. De $2,556.00 a $12,779.00, a la comprendida en la fracción XIII.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996) (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IX. De $5,111.00 a $51,114.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
+VIII. De $2,765.00 a $13,825.00, a la comprendida en la fracción XIII.
 
-(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994) (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-X. De $364.00 a $6,059.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994) (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+IX. De $5,530.00 a $55,300.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
-XI. De $242.00 a $4,847.00, a la comprendida en la fracción XII.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996) (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-XII. De $639.00 a $1,917.00, a la comprendida en la fracción XIV, por cada documento en el que se omita incluir la clave vehicular referida.
+X. De $393.00 a $6,555.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XI. De $262.00 a $5,244.00, a la comprendida en la fracción XII.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XII. De $691.00 a $2,074.00, a la comprendida en la fracción XIV, por cada documento en el que se omita incluir la clave vehicular referida.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2756,23 +2798,31 @@ VI. No transferir a la Tesorería de la Federación el importe de la garantía y
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-(REFORMADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, D.O.F. 28 DE DICIEMBRE DE 1994) (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-I. De $119.00 a $5,570.00 a la comprendida en la fracción I.
+I. De $128.00 a $6,026.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996) (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-III. De $15.00 a $23.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III. De $17.00 a $25.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IV. De $200,000.00 a $400,000.00, a la establecida en la fracción IV.
 
-(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994) (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE JULIO DE 1998)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
-V. De $2,424.00 a $36,355.00, a la establecida en la fracción V.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+V. De $2,622.00 a $39,333.00, a la establecida en la fracción V.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2784,13 +2834,13 @@ VI. De $10,000.00 a $30,000.00, a la establecida en la fracción VI.
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $158.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $470.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $170.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $509.00 por cada una de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2798,13 +2848,13 @@ A quien cometa las infracciones a que se refiere el artículo 84-C de este Códi
 
 Se considera infracción en la que pueden incurrir las empresas en relación a las obligaciones a que se refieren el primero y segundo párrafos del artículo 32-C de este Código, el no efectuar la notificación de la cesión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 84-F.
 
-De $2,424.00 a $24,237.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+De $2,622.00 a $26,222.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
 ###### Artículo 85.
 
@@ -2832,29 +2882,31 @@ V. Declarar falsamente que cumplen los requisitos que se señalan en el artícul
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-l. De $6,389.00 a $19,168.00, a la comprendida en la fracción l.
+l. De $6,913.00 a $20,738.00, a la comprendida en la fracción l.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $557.00 a $23,069.00 a la establecida en la fracción II.
+II. De $603.00 a $24,958.00 a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. De $1,212.00 a $30,296.00, a la establecida en la fracción III.
+III. De $1,311.00 a $32,777.00, a la establecida en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-IV. De $48,829.00 a $65,106.00, a la comprendida en la fracción IV.
+IV. De $52,829.00 a $70,438.00, a la comprendida en la fracción IV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2886,13 +2938,19 @@ III. Poseer por cualquier título los bienes a que se refieren los incisos E) y 
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 l. De $10.00 a $30.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II. De $20.00 a $50.00, a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2908,13 +2966,13 @@ En caso de reincidencia, la sanción consistirá en la clausura del establecimie
 
 Son infracciones relacionadas con la obligación de garantizar el interés fiscal, el solicitar la autorización de pago en plazos en términos del artículo 66, fracción II, segundo párrafo de este Código, cuando las autoridades fiscales comprueben que el contribuyente pudo haber ofrecido garantías adicionales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 86-D.
 
-A quien cometa las infracciones a que se refiere el artículo 86-C, se le impondrá una multa entre el 10% del crédito fiscal garantizado y $38,336.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este artículo será menor de $3,834.00 ni mayor a $38,336.00.
+A quien cometa las infracciones a que se refiere el artículo 86-C, se le impondrá una multa entre el 10% del crédito fiscal garantizado y $41,475.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este artículo será menor de $4,148.00 ni mayor a $41,475.00.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2922,15 +2980,15 @@ A quien cometa las infracciones a que se refiere el artículo 86-C, se le impond
 
 Son infracciones de los fabricantes, productores o envasadores de bebidas alcohólicas, bebidas alcohólicas fermentadas, cerveza y de tabacos labrados, según corresponda, no llevar el control físico a que se refiere el artículo 19, fracción X de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlo en forma distinta a lo que establece dicha fracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER FRACCIÓN I ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 86-F.
 
-A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de $18,107.00 a $42,250.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de $19,590.00 a $45,710.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 ###### Artículo 87.
 
@@ -2950,13 +3008,13 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 
 IV. Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 88.
 
-Se sancionará con una multa de $48,829.00 a $65,106.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
+Se sancionará con una multa de $52,829.00 a $70,438.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
 ###### Artículo 89.
 
@@ -2966,19 +3024,19 @@ I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribu
 
 II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 90.
 
-Se sancionará con una multa de $12,779.00 a $25,557.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89.
+Se sancionará con una multa de $13,825.00 a $27,650.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $116.00 a $1,168.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $126.00 a $1,264.00.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3108,11 +3166,11 @@ III. De importación o exportación prohibida.
 
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregadas legalmente por las autoridades o por las personas autorizadas para ello.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $10,851.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se daba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $11,740.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se daba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3142,9 +3200,13 @@ IX. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado par
 
 El delito de contrabando se sancionará con pena de prisión:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $500,000.00, respectivamente o, en su caso, la suma de ambas es de hasta de $750,000.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4024,15 +4086,17 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 3 DE JULIO DE 1998.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a N$158.00, se cobrará esta cantidad en vez del 2% del crédito.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a N$170.00, se cobrará esta cantidad en vez del 2% del crédito.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 1998, D.O.F. DEL 15 DE FEBRERO DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $26,670.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $26,670.00.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6332,7 +6396,7 @@ D.O.F. 16 DE FEBRERO DE 1998.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
 
-D.O.F. 29 DE MAYO DE 1998.
+D.O.F. 29 DE MAYO DE 1998
 
 UNICO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -6363,3 +6427,15 @@ IV. Las adiciones de los párrafos segundo, tercero y octavo al artículo 27, de
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+D.O.F. 15 DE FEBRERO DE 1999.
+
+Primero.- La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Para (sic) efectos de la regla 2.3.11., quienes con anterioridad al 1o. de enero de 1999 hubieren celebrado contratos de asociación en participación con carácter de asociantes, deberán presentar el aviso al RFC mediante el formato R-1 en la forma y términos señalados en dicha regla, a más tardar el 31 de marzo de 1999.
+
+Tercero.- Para los efectos de la reforma al rubro C de la regla 2.4.1., publicada en el Diario Oficial de la Federación del 29 de diciembre de 1998, los datos previstos en el mencionado rubro se consignarán en los comprobantes que se impriman a partir del 1° de febrero de 1999.
+
+Cuarto.- Con fecha 29 de enero de 1999 se publicaron en el Diario Oficial de la Federación las formas oficiales 37 "Constancia de retenciones por salarios y conceptos asimilados", 37-A "Constancia de percepciones y retenciones", 1 "Pagos provisionales, primera parcialidad y retenciones de impuestos federales", 1-A "Pago provisional de los impuestos sobre la renta y al valor agregado por enajenación y adquisición de bienes" y 1E "Pagos provisionales y primera parcialidad del impuesto especial sobre producción y servicios".
+
+Estos nuevos formatos dejan sin efectos a las formas oficiales 1, 1-B, 1S, 1-A y 37 vigentes hasta esa fecha.
