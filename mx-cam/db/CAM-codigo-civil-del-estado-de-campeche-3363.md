@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1944-05-16"
+last_updated: "1946-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1946.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -4661,13 +4661,17 @@ Del dominio de las aguas.
 
 El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1946)</small>
+
 ###### Art. 843.
 
-La propiedad no puede ser ocupada contra la voluntad de su dueño, sino por causa de utilidad pública y previa indemnización.
+La propiedad no puede ser ocupada contra la voluntad de su dueño, sino por causa de utilidad pública y mediante indemnización.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1946)</small>
 
 ###### Art. 844.
 
-La autoridad puede, previa indemnización, ocupar la propiedad particular, deteriorarla, y aun destruirla, si esto es indispensable para prevenir o remediar una calamidad pública, para salvar de un riesgo inminente una población, o para ejecutar obras de evidente beneficio colectivo, conforme a las leyes de expropiación.
+La autoridad puede, mediante indemnización, ocupar la propiedad particular, deteriorarla y aún destruirla, si esto es indispensable, para prevenir o remediar una calamidad pública, para salvar de un riesgo inminente una población o para ejecutar obras de evidente beneficio colectivo, conforme a las leyes de expropiación.
 
 ###### Art. 845.
 
@@ -10005,7 +10009,7 @@ El acreedor que exonera al antiguo deudor, aceptando otro en su lugar, no puede 
 
 ###### Art. 1947.
 
-Cuando el deudor y el que pretenda substituírlo (sic) fijen un plazo al acreedor para que manifieste su conformidad con la sustitución, pasado ese plazo sin que el acreedor haya hecho conocer su determinación, se presume que (sic) rehusa.
+Cuando el deudor y el que pretenda substituírlo fijen un plazo al acreedor para que manifieste su conformidad con la sustitución, pasado ese plazo sin que el acreedor haya hecho conocer su determinación, se presume que (sic) rehusa.
 
 ###### Art. 1948.
 
@@ -14317,7 +14321,7 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 ###### Art. 2812.
 
-La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de cinco años. La hipoteca garantizará también cualquier suma de intereses que se hubiesen devengado después de la constitución del crédito, siempre que lo consienta el deudor; bastando que su consentimiento se haga constar al registrarse la ampliación del gravamen, la cual sólo producirá sus efectos respecto de tercero desde la fecha del registro.
+La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de cinco años. La hipoteca garantizará también cualquier suma de intereses que se hubiesen devengado después de la constitución del crédito, siempre que lo consienta el deudor; bastando que su consentimiento se haga constar al registrarse la ampliación del gravamen, la cual sólo producirá sus efectos respecto de tercero desde la fecha del registro.
 
 ###### Art. 2813.
 
@@ -15104,3 +15108,7 @@ Artículo Unico.- El presente decreto surtirá sus efectos legales correspondien
 P.O. 16 DE MAYO DE 1944.
 
 UNICO.- El presente decreto entrará en vigor tres días después de publicado en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1946.
+
+UNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
