@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-la-titulacion-de-los-predios-urbanos-y-216
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-06"
-last_updated: "2001-07-06"
+last_updated: "2002-12-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA REGULARIZAR LA TITULACION DE LOS PREDIOS URBANOS Y SEMIURBANOS EN EL ESTADO DE QUERETARO
 
-LEY PARA REGULARIZAR LA TITULACIÓN DE PREDIOS URBANOS Y SEMIURBANOS EN ELESTADO DE QUERÉTARO
+LEY PARA REGULARIZAR LA TITULACION DE PREDIOS URBANOS Y SEMIURBANOS EN EL ESTADO DE QUERETARO
 
-TEXTO VIGENTE
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2002.
 
 Publicado en el Periódico Oficial "La Sombra de Arteaga", el 6 de julio de 2001.
 
@@ -47,9 +47,11 @@ Para los efectos de esta Ley, se consideran predios urbanos los bienes inmuebles
 
 Los predios sumiurbanos, son aquellos que se encuentren entre la zona urbana y la rural, que tenga construcción destinada a casa habitación, y cuenten con algún servicio.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 3.
 
-Son objeto de la presente Ley los predios urbanos y semiurbanos cuyo valor de avalúo catastral no exceda de cuarenta veces el salario mínimo general diario vigente elevado al año.
+Son objeto de la presente Ley los predios urbanos y semiurbanos cuyo valor de avalúo catastral no exceda de cincuenta veces el salario mínimo general diario vigente elevado al año.
 
 ###### ARTICULO 4.
 
@@ -113,9 +115,11 @@ Este procedimiento especial para predios urbanos y semiurbanos no causará impue
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO PRIMERO.
 
-La presente ley tendrá una vigencia de un año y medio, contados a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado la Sombra de Arteaga.
+Se prorroga la vigencia de la presente Ley, para concluir el 30 de junio del año 2003.
 
 ###### ARTICULO SEGUNDO.
 
@@ -166,3 +170,15 @@ DEL ESTADO
 LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
