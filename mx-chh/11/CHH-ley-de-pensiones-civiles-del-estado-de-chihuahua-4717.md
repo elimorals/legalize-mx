@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1981-12-19"
+last_updated: "1986-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1986.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -475,7 +475,9 @@ a).- Cuando al trabajador le haya sido aumentado su sueldo durante los últimos 
 
 b).- Cuando el trabajador ocupara varias plazas en el Estado o Instituciones afiliadas, se sumarán todas sus percepciones, salvo que durante los últimos cuatro años de servicio le haya sido asignada nueva plaza no escalafonaria, caso en el cuál se promediarán los sueldos obtenidos en ese lapso;
 
-c).- Al trabajador que durante los últimos seis años anteriores a su retiro, haya fungido y percibido sueldo como: Secretario General de Gobierno; Tesorero General del Estado; Oficial Mayor de Gobierno; Procurador General de Justicia; Secretario Particular del Gobernador; Director o Jefe de Departamento de alguna Dependencia del Ejecutivo; Magistrado del Supremo Tribunal de Justicia; Rector o Director de Escuela o Facultad de la Universidad Autónoma de Chihuahua; Director o Jefe de Departamento de las Instituciones afiliadas, se le promediarán las percepciones de los últimos diez años.pensión, se determinará conforme a las siguientes bases.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1986)</small>
+
+c).- Al trabajador que durante los últimos cuatro años anteriores a su retiro haya fungido y percibido sueldo como Titular de alguna de las dependencias a que se refiere el Artículo 20 del Código Administrativo del Estado; Magistrado del Supremo Tribunal de Justicia; Rector o Director de Escuela o Facultad de la Universidad Autónoma de Chihuahua, Director General o su equivalente en Instituciones afiliadas, se le promediarán las percepciones de los últimos cuatro años.
 
 ###### ARTICULO 53.
 
@@ -628,3 +630,9 @@ LIC. OSCAR ORNELAS K.
 EL SECRETARIO GENERAL DE GOBIERNO:
 
 LIC. ARMANDO ALMEIDA MARTINEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 1986.
+
+TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
