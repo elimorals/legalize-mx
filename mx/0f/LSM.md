@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "1942-11-25"
+last_updated: "1944-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE NOVIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE AGOSTO DE 1944.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1940.
 
@@ -156,7 +156,11 @@ En el activo del Ejército se podrán admitir voluntarios hasta completar la cif
 
 I.- Hacer una solicitud.
 
-II.- Ser mexicano mayor de 18 y menor de 30 años de edad.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 1944)</small>
+
+II.- Ser mexicano mayor de 18 y menor de 30 años de edad, y hasta los 40 años para el personal de especialistas del Ejército.
+
+Se admitirán menores de 18 y mayores de 16 años de edad, en las unidades de transmisiones para su preparación como técnicos mediante contrato con el Estado que no deberá exceder de 5 años.
 
 III.- Ser soltero, viudo o divorciado sin hijos.
 
@@ -409,3 +413,9 @@ UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el 
 D.O.F. 25 DE NOVIEMBRE DE 1942.
 
 TRANSITORIO.- Este Decreto surtirá efectos a partir de su publicación en el Diario Oficial.
+
+D.O.F. 18 DE AGOSTO DE 1944.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Diario Oficial de la Federación.
