@@ -1,0 +1,594 @@
+---
+title: "LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES -- ANTES LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD --"
+identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
+country: "mx"
+rank: "ley"
+publication_date: "2000-02-14"
+last_updated: "2000-02-14"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-agu"
+scjn_id: "16981"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "7 PRIMERA SECCION"
+reform_count: "13"
+scjn_last_update: "2024-06-10"
+issue_date: "2000-02-03"
+state: "AGU"
+---
+# LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES -- ANTES LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD --
+
+LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
+
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+
+"NUMERO 36
+
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+
+LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 1º.
+
+La presente Ley es de orden público y de interés social, su objeto es establecer las normas tendientes a la resolución de los problemas que afectan a las personas con discapacidad y que éstas puedan ser susceptibles de integrarse social y productivamente a la comunidad para su completa realización personal, y motivar a la población para que favorezca la incorporación de este grupo a las diferentes actividades de carácter social, cultural, laboral, educativas y deportivas, en condiciones de igualdad con el resto de la sociedad.
+
+###### ARTICULO 2º.
+
+El Ejecutivo del Estado, en coordinación con los ayuntamientos de los Municipios en los términos que establece la Ley del Sistema Estatal de Asistencia Social organizará, operará, supervisará y evaluará la prestación de los servicios básicos de salud a personas con discapacidad, que proporcionen las Dependencias y Entidades de la Administración Pública Estatal y por personas físicas o morales de los sectores social y privado, a personas con discapacidad.
+
+Para lo cual el Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia tendrá las siguientes atribuciones:
+
+a).- Procurar asistencia técnica y financiera a instituciones y organismos públicos cuyos objetivos sean afines a los de la presente Ley.
+
+b).- Desarrollar en forma coordinada con los Municipios programas de apoyo financiero y social; y
+
+c).- Fomentar la participación así como apoyar la actividad de las organizaciones privadas que orienten sus acciones a favor de las personas con discapacidad, a través de apoyos técnicos, humanos, laborales y de servicios.
+
+###### ARTICULO 3º.
+
+Para los efectos de esta Ley se entiende por persona con discapacidad, aquella persona con algún impedimento físico o requerimiento especial, por padecer una alteración funcional prolongada o permanente, física o mental, que implique desventajas considerables para su integración familiar, escolar, socia, laboral, deportiva y política.
+
+###### ARTICULO 4º.
+
+Las dependencias estatales y municipales dentro de sus plantes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas con discapacidad.
+
+###### ARTICULO 5º.
+
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia del Estado, promover la interrelación sistemática de acciones en favor de las personas con discapacidad que lleven a cabo las instituciones públicas; además de operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de educación especial y asistencia social a este sector de la población.
+
+###### ARTICULO 6º.
+
+El Ejecutivo del Estado, a través del Instituto de Salud del Estado, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Desarrollo Social del Estado, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
+
+###### ARTICULO 7º.
+
+Se crea el Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad que estará sujeto al Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; el mismo, coordinará todas las acciones a favor de las personas con discapacidad, unificando los criterios de las instituciones que les den servicio social, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios con otras instituciones procurando siempre una correcta aplicación de los recursos públicos que se destinen para este fin, el cual tendrá las siguientes atribuciones:
+
+I.- Proponer al Ejecutivo del Estado la unificación de criterios de las Instituciones que otorguen el servicio social a favor de las personas con discapacidad;
+
+II.- Proponer a las Instituciones competentes por ley en materia de discapacidad la elaboración de planes, proyectos y programas que tiendan a brindar el apoyo integral a las personas con discapacidad;
+
+III.- Proponer las acciones conducentes a evitar duplicidad de servicios a personas con discapacidad por parte de los integrantes del Comité Coordinador;
+
+IV.- Proponer programas para la correcta aplicación de los recursos públicos que se destinen a la atención de las personas con discapacidad;
+
+V.- Proponer al Ejecutivo del Estado programas alternativos para la organización, operación, supervisión y evaluación de los servicios que se presten a personas con discapacidad con base a criterios de equidad y eficiencia;
+
+VI.- Establecer un seguimiento a los programas que se implementen para dar cumplimiento al objeto de esta ley;
+
+VII.- Realizar evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de competencia del presente instrumento legal, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado; y
+
+VIII.- Extender reconocimientos a las personas físicas o morales que se hayan distinguido permanentemente en la promoción y defensa de los derechos de las personas con discapacidad.
+
+###### ARTICULO 8º.
+
+El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad estará integrado por:
+
+a).- El C. Gobernador del Estado;
+
+b).- El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+c).- Un representante del Instituto de Seguridad Social para los Servidores Públicos del Estado de Aguascalientes;
+
+d).- Un representante del Instituto de Educación de Aguascalientes;
+
+e).- Un representante del Instituto Cultural de Aguascalientes;
+
+f).- Un representante del Instituto de Salud del Estado de Aguascalientes;
+
+g).- Un representante de la Secretaría de Desarrollo Social del Estado;
+
+h).- Un representante de la Secretaría de Desarrollo Económico;
+
+i).- Un representante del Instituto Aguascalentense del Deporte;
+
+j).- Un representante de la Dirección General del Trabajo del Estado;
+
+k).- Un representante del Consejo Estatal de las personas con discapacidad;
+
+l).- Representantes de Cámaras Empresariales y de Servicios a invitación del Presidente; y
+
+El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad podrá invitar a los representantes o delegados de las autoridades federales en el Estado para que asistan a las reuniones del mismo y en su caso propongan o emitan las opiniones respecto de asuntos que sean de su competencia.
+
+###### ARTICULO 9º.
+
+El Comité Coordinador sesionará cuando menos una vez al mes, y sus integrantes durarán en su cargo tres años, pudiendo ser ratificados por un período más por los responsables del área respectiva.
+
+El Comité Coordinador podrá sesionar con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión, en caso de empate, el Gobernador del Estado o su representante tendrá voto de calidad.
+
+###### ARTICULO 10.
+
+El Presidente del Comité Coordinador lo será el C. Gobernador del Estado y el Secretario lo será el Director del Sistema Estatal para el Desarrollo Integral de la Familia, quienes podrán designar un representante, los demás integrantes del Comité fungirán como vocales.
+
+###### ARTICULO 11.
+
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia de Aguascalientes la creación de un Comité Técnico de Integración Social y Productiva para Personas con Discapacidad cuyos objetivos serán los siguientes:
+
+I.- Coordinar los programas de las diversas instituciones públicas y privadas;
+
+II.- Realizar los programas adoptados por el Comité Coordinador de Integración Social y Productiva de Personas con Discapacidad;
+
+III.- Ejecutar los acuerdos que tome el Comité Coordinador de Integración Social y Productiva de Personas con Discapacidad;
+
+IV.- Promover y fomentar acciones en favor de las personas con discapacidad;
+
+V.- Dar cumplimiento y seguimiento a los convenios que firme el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Aguascalientes que tengan por objeto la promoción integral de las personas con discapacidad en el Estado;
+
+VI.- Vigilar que los apoyos otorgados a las personas físicas y morales cuyos objetivos sean la atención a personas con discapacidad sean aplicados para los fines para los cuales les fueron otorgados;
+
+VII.- Llevar a cabo un padrón de personas con discapacidad y de instituciones legalmente constituidas;
+
+VIII.- Supervisar que sólo se apoye a las personas físicas y morales que se encuentren debidamente registradas ante este Comité Técnico;
+
+IX.- Acreditar previamente, a las personas morales que lo soliciten para que la autoridad municipal competente las autorice para pedir cooperación económica a la comunidad en la vía pública y recibir el informe del destino que se den a estos recursos;
+
+X.- Las demás que señale esta Ley y su Reglamento.
+
+###### ARTICULO 12.
+
+El Comité Técnico de Integración social y Productiva para Personas con Discapacidad deberá rendir informe de sus actividades trimestralmente ante el Comité Coordinador de Integración Social y Productiva para Personas con Discapacidad.
+
+###### ARTICULO 13.
+
+Las personas morales que se constituyan legalmente con el objeto de atender a las personas con discapacidad, deberán de acreditarse ante el Comité Técnico de Integración Social y Productiva para Personas con Discapacidad, a fin de dar cumplimiento a lo establecido en el Artículo 2 y 11 de esta Ley dentro de un término de 30 días hábiles a partir de la fecha de su protocolización.
+
+###### ARTICULO 14.
+
+Los padres o tutores podrán agruparse para velar por los intereses de personas con discapacidad que tengan a su cargo y que no puedan integrarse a la vida social y productiva debido a la naturaleza de su discapacidad. Asimismo se podrán agrupar para buscar el apoyo y servicios que éstos requieran ante las instituciones públicas o privadas y conforme a lo que establece la Ley de Asistencia Social para el Estado de Aguascalientes.
+
+### CAPITULO II. Valoración de la Discapacidad
+
+###### ARTICULO 15.
+
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia de Aguascalientes, la creación de la Comisión de Valoración de las personas con discapacidad integrada por: un Presidente, un Secretario y Profesionales de la rama de medicina, psicología, trabajo social, educación, cultura, deporte y productividad, que deberán ser Vocales en un número no menor de cinco ni mayor de siete, procurando incluirse mayoritariamente a profesionales con discapacidad.
+
+###### ARTICULO 16.
+
+Serán funciones de la Comisión de Valoración:
+
+I.- Emitir un informe-diagnóstico sobre los diversos aspectos de las limitaciones de la persona con discapacidad, de personalidad y su entorno familiar;
+
+II.- La orientación terapéutica, el tratamiento necesario de acuerdo a las posibilidades de recuperación así como al seguimiento y la revisión del mismo;
+
+III.- Evaluar y determinar el grado de discapacidad, en caso de que ésta impida a la persona con discapacidad la integración de la vida social y productiva, la comisión procederá a canalizar a las autoridades correspondientes determinadas por la Ley; y
+
+IV.- Implementar un registro estatal de personas con discapacidad.
+
+###### ARTICULO 17.
+
+Para cumplir su objetivo la Comisión de Valoración implementará un sistema de prestación de servicios para las personas con discapacidad, basado en la valoración y calificación que de la discapacidad se haga, cuyos servicios se otorgarán en beneficio de quienes carezcan de medios para recibirlos de otras fuentes.
+
+La calificación y valoración realizada por la Comisión, responderá a criterios técnicos unificados y tendrá validez ante cualquier organismo público o privado del Estado de Aguascalientes, en su caso expedirá el Certificado de Capacitación correspondiente.
+
+### CAPITULO III. Prestación de Servicios
+
+###### ARTICULO 18.
+
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Aguascalientes, a través de la Comisión de Valoración la creación de equipos multiprofesionales que actuando en un ámbito sectorial del Estado aseguren la atención a cada persona que lo requiera para garantizar la integración a su entorno social. El personal que integre los equipos deberá contar con experiencia profesional y la capacidad necesaria para cumplir con la función encomendada.
+
+###### ARTICULO 19.
+
+La prestación de servicios a las personas con discapacidad comprenderá:
+
+I.- Asistencia médica y rehabilitatoria;
+
+II.- Orientación y capacitación ocupacional;
+
+III.- Orientación y capacitación a la familia o a tercera persona en su atención;
+
+IV.- Prescripción y adaptación de prótesis, órtesis y equipos indispensables en su rehabilitación e integración;
+
+V.- Educación especial;
+
+VI.- Incorporación laboral;
+
+VII.- Creación de bolsas de trabajo para personas con discapacidad; y
+
+VIII.- Incorporación y entrenamiento físico especializado.
+
+###### ARTICULO 20.
+
+La actuación en materia de servicios sociales para las personas con discapacidad se regirá por los criterios siguientes:
+
+I.- Todas las personas con discapacidad tienen derecho a las prestaciones sociales establecidas en el Artículo 6º de la presente Ley;
+
+II.- Los servicios sociales podrán ser prestados tanto por las administraciones públicas como por instituciones privadas o personas físicas, sin ánimo de lucro;
+
+III.- Los servicios sociales para las personas con discapacidad, responsabilidad de las administraciones públicas competentes, se prestarán por las instituciones y centros de forma general a través de los cauces y mediante los recursos humanos, financieros y técnicos de carácter ordinario, salvedad hecha, cuando excepcionalmente, las características de la discapacidad exijan una atención singularizada;
+
+IV.- La prestación de los servicios sociales respetará al máximo la permanencia de las personas con discapacidad en su medio familiar y en su entorno geográfico, mediante la adecuada localización de los mismos; y
+
+V.- Se procurará, la participación de los interesados, especialmente en el caso de adultos, en las actividades comunes de convivencia, de dirección y control de los servicios sociales.
+
+###### ARTICULO 21.
+
+Sin perjuicio de lo dispuesto en otros Artículos de esta Ley las personas con discapacidad tendrán derecho a los servicios sociales de orientación familiar, de información, de albergues comunitarios, de actividades culturales, recreativas, deportivas y ocupación del tiempo libre, los cuales serán impartidos en los centros y por el personal capacitado que designe para tal efecto.
+
+###### ARTICULO 22.
+
+Además de las medidas específicas previstas en esta Ley, podrán proporcionarse servicios y prestaciones económicas a las personas con discapacidad que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a la misma, de acuerdo con los programas de asistencia social existentes.
+
+###### ARTICULO 23.
+
+La orientación familiar tendrá como objetivo la información a las familias, su capacitación y adiestramiento para atender a la estimulación y maduración de los hijos con discapacidad y a la adecuación del entorno familiar para satisfacer las necesidades rehabilitatorias.
+
+###### ARTICULO 24.
+
+Los servicios de información oficiales deben facilitar a las personas con discapacidad y a las asociaciones a que se refiere el Artículo 13 de esta Ley, el conocimiento de las prestaciones que estén a su alcance, así como las condiciones de acceso a las mismas. Para ello el Sistema Estatal para el Desarrollo Integral de la Familia establecerá oficinas de atención a personas con discapacidad y recepción de quejas.
+
+También implementarán campañas de información al público en general, ciclos de conferencias y diversos eventos que promuevan la integración de personas con discapacidad.
+
+###### ARTICULO 25.
+
+Los servicios de albergues y centros comunitarios tienen el objetivo de atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia o con graves problemas de integración familiar, se crearán guarderías o se harán adecuaciones a las existentes para los hijos con discapacidad de padres que trabajan, sin discriminación alguna.
+
+###### ARTICULO 26.
+
+Estos albergues y centros comunitarios podrán ser promovidos por la Administración Pública Estatal o Municipal, organizaciones privadas o por las propias personas con discapacidad y sus familiares.
+
+###### ARTICULO 27.
+
+Las actividades deportivas, culturales, recreativas y de uso del tiempo libre de la persona con discapacidad se desarrollarán siempre que sea posible, en las instalaciones preferentemente del Sistema para el Desarrollo Integral de la Familia y con los medios al alcance de la comunidad, proporcionando instructores especiales e intérpretes necesarios, sólo de forma complementaria o subsidiaria podrán establecer que, por la gravedad de la discapacidad, resulte imposible la integración.
+
+### CAPITULO IV. Rehabilitación
+
+###### ARTICULO 28.
+
+Se entiende por rehabilitación el conjunto de acciones médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación funcional, a fin de realizar actividades que les permitan ser útiles a sí mismos, y a su familia e integrarse a la vida social y productiva del Estado.
+
+###### ARTICULO 29.
+
+Los procesos de rehabilitación de las personas con discapacidad podrán comprender:
+
+I.- Rehabilitación médico-funcional;
+
+II.- Orientación y tratamiento psicológico;
+
+III.- Educación general y especial;
+
+IV.- Rehabilitación socio-económica y laboral.
+
+###### ARTICULO 30.
+
+El Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia, fomentará y establecerá con instituciones o servicios gubernamentales y privados, las actividades que comprende el proceso rehabilitatorio, llevándolo hasta los municipios, delegaciones y comunidades, acercando así el servicio a los usuarios.
+
+### CAPITULO V. Rehabilitación Médico-Funcional
+
+###### ARTICULO 31.
+
+La rehabilitación médico-funcional estará dirigida a dotar de las condiciones necesarias para su recuperación a aquellas personas que presenten una disminución de capacidad física, psicológica o de relación social; debiendo ser valorada por la Comisión de Valoración y deberá comenzar de forma inmediata a la detección y diagnóstico de cualquier anomalía o deficiencia, debiendo continuarse hasta conseguir el máximo de funcionalidad posible, así como el mantenimiento de ésta.
+
+###### ARTICULO 32.
+
+Para los efectos de lo previsto en el Artículo anterior toda persona que presente alguna disminución funcional calificada, según lo dispuesto en esta Ley, tendrá derecho a los servicios para su beneficio de la rehabilitación médica necesaria para corregir o mejorar su estado físico, mental o social, cuando éste constituya un obstáculo o represente una amenaza para su integración educativa, laboral o social.
+
+###### ARTICULO 33.
+
+Los procesos de rehabilitación se complementarán con la prescripción y la adaptación de prótesis, órtesis y otros elementos auxiliares para las personas con discapacidad cuya condición lo amerite.
+
+### CAPITULO VI. Orientación y Tratamiento Psicológico
+
+###### ARTICULO 34.
+
+La orientación y tratamiento psicológico se emplearán durante las distintas fases del proceso rehabilitador, se iniciarán en el seno familiar e irán encaminadas a lograr de la persona con discapacidad la superación de su situación y desarrollo de su personalidad e integración social, con la asesoría de profesionales en la materia dependientes de los sectores públicos o privados que formen parte de los programas específicos de esta Ley.
+
+###### ARTICULO 35.
+
+El apoyo y orientación psicológicos tendrán en cuenta las características individuales de la persona con discapacidad, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle y estarán dirigidos a optimizar al máximo el uso de sus potencialidades. Los padres de familia participarán en la orientación de sus hijos con discapacidad.
+
+### CAPITULO VII. Educación General y Especial
+
+###### ARTICULO 36.
+
+De conformidad con el Plan Nacional de Educación, el Poder Ejecutivo del Estado a través del Instituto de Educación de Aguascalientes, deberá vigilar que todas aquellas personas con discapacidad, a quienes les resulte imposible la integración en el sistema educativo ordinario, se incorporen al sistema educativo especial.
+
+###### ARTICULO 37.
+
+La educación especial de los alumnos con posibilidades de integración se impartirá en las instituciones ordinarias, públicas o privadas del sistema educativo mediante la adaptación de los planes básicos de la currícula y programas de apoyo, según las condiciones de las deficiencias que afecten a cada alumno y se iniciarán tan pronto como requiera cada caso, acomodando su ulterior proceso al desarrollo psicológico de cada sujeto y no a criterios estrictamente cronológicos.
+
+###### ARTICULO 38.
+
+La educación especial se realizará a través del Instituto de Educación de Aguascalientes conforme a los planes y programas que para el efecto se aprueben y tenderá a la consecución de los siguientes objetivos:
+
+I.- La superación de las deficiencias y de las consecuencias o secuelas derivadas de aquellas;
+
+II.- El desarrollo de habilidades y aptitudes, así como la adquisición de conocimientos que le permitan a la persona con discapacidad la mayor autonomía posible;
+
+III.- El fomento y la promoción de todas las potencialidades de la persona con discapacidad para el desarrollo armónico de su personalidad;
+
+IV.- Desarrollar al máximo su capacidad de aprendizaje; y
+
+V.- La incorporación a la vida social y a un sistema de trabajo que permita a la persona con discapacidad servirse a sí mismo, a la sociedad y autorrealizarse.
+
+###### ARTICULO 39.
+
+El Ejecutivo del Estado, realizará las acciones tendientes a lograr que las Instituciones que proporcionen asistencia médica, psicológica, laboral o de otra índole a personas con discapacidad puedan obtener recursos a través de donaciones, libres de impuestos para dichas instituciones y deducibles de los mismos para los donadores; apoyará de cualquier forma que esté a su alcance la creación y consolidación de tales instituciones, otorgando apoyos para adaptar sus instalaciones y espacios a las necesidades de los educandos con requerimientos especiales.
+
+###### ARTICULO 40.
+
+En el caso de discapacidad severa, la educación se llevará a cabo en centros especiales, que funcionarán en coordinación con los centros ordinarios dependientes del Instituto de Educación de Aguascalientes, este servicio será gratuito.
+
+###### ARTICULO 41.
+
+La educación especial deberá contar con el personal interdisciplinario técnicamente capacitado y calificado que, en actuación multiprofesional, provea las diversas atenciones que cada persona con discapacidad requiera dándoles un trato afectuoso, sensible y humanista.
+
+###### ARTICULO 42.
+
+Todo personal que intervenga en la educación especial deberá poseer la especialización, experiencia y aptitudes necesarias, dará un trato humano y profesional, se procurará que en el área de elaboración de los programas correspondientes se cuente además con título profesional.
+
+###### ARTICULO 43.
+
+Todos los hospitales, tanto infantiles como de rehabilitación que funcionen con cargo a recursos públicos, deberán contar con una sección pedagógica la cual será coordinada, supervisada y atendida por el Instituto de Educación de Aguascalientes y el Instituto de Salud de Aguascalientes, para prevenir la marginación del proceso educativo de los alumnos en edad escolar internados en esos hospitales.
+
+### CAPITULO VIII. Rehabilitación Socio-económica
+
+###### ARTICULO 44.
+
+La finalidad primordial de la política de empleo de trabajadores con discapacidad, será su integración en el sistema ordinario de trabajo o, en su caso, su incorporación al sistema productivo mediante una forma de trabajo adecuada.
+
+###### ARTICULO 45.
+
+Se fomentará el empleo de los trabajadores con discapacidad mediante el establecimiento de sistemas que faciliten su integración laboral; éstos podrán consistir en subvenciones o préstamos para la adaptación de los centros de trabajo, la eliminación de accesos o barreras arquitectónicas que dificulten su movilidad en centros de producción, la posibilidad de establecerse como trabajadores autónomos.
+
+###### ARTICULO 46.
+
+El Ejecutivo del Estado a través de la Dirección General del Trabajo del Estado, establecerá programas de promoción del empleo de las personas con discapacidad creando al efecto una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
+
+###### ARTICULO 47.
+
+Se crean Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado, realizando un trabajo productivo, al personal con discapacidad, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia en Aguascalientes en coordinación con la Secretaria de Desarrollo Económico.
+
+###### ARTICULO 48.
+
+La totalidad de la plantilla de los Centros Especiales de Empleo estará constituida por trabajadores con discapacidad, a excepción de las plazas del personal no discapacitado imprescindible para el desarrollo de su actividad.
+
+###### ARTICULO 49.
+
+Las personas con discapacidad que deseen ingresar a un Centro Especial de Empleo, deberán inscribirse en la oficina correspondiente, la que clasificará a los demandantes de empleo en razón del tipo y grado de discapacidad.
+
+###### ARTICULO 50.
+
+El trabajo que realice la persona con discapacidad en los Centros Especiales de Empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, en orden a favorecer su adaptación personal y social, y facilitar su posterior integración laboral en el mercado ordinario de trabajo.
+
+###### ARTICULO 51.
+
+Los servicios sociales para las personas con discapacidad tienen como objetivo garantizar el logro de adecuados niveles de desarrollo personal y de su integración a la comunidad.
+
+### CAPITULO IX. Rehabilitación Laboral
+
+###### ARTICULO 52.
+
+Dentro de la educación especial se considerará la formación profesional de la persona con discapacidad de acuerdo con lo establecido en los diferentes niveles de enseñanza general.
+
+###### ARTICULO 53.
+
+Los procesos de rehabilitación laboral o profesional comprenderán entre otras, las prestaciones siguientes:
+
+I.- Los tratamientos de rehabilitación médico-funcional, específico para el desempeño de la función laboral;
+
+II.- La orientación ocupacional y vocacional;
+
+III.- La formación, readaptación y reeducación ocupacional;
+
+IV.- La ubicación de acuerdo con la aptitud y actitud ante el trabajo, y
+
+V.- Efectuar el seguimiento y evaluación del proceso de recuperación, desde el punto de vista físico, psicológico y laboral de la persona con discapacidad.
+
+###### ARTICULO 54.
+
+La orientación ocupacional tendrá en cuenta las potencialidades reales de la persona con discapacidad, determinadas con base en los informes de los Equipos Multiprofesionales. Se tomará en cuenta la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo existentes en cada caso, asimismo, la atención a sus motivaciones, aptitudes y preferencias vocacionales.
+
+###### ARTICULO 55.
+
+Los procesos de rehabilitación serán prestados tomando en cuenta la coordinación entre las fases médica, escolar y laboral.
+
+### CAPITULO X. Integración a la Vida Productiva
+
+###### ARTICULO 56.
+
+Los Gobiernos Estatal y Municipales, así como sus organismos descentralizados y las empresas paraestatales, tendrán la obligación de contratar, como mínimo el dos por ciento de la planta laboral a personas con requerimientos especiales, en el caso de que así les sea solicitado por estas personas, quienes deberán presentar el certificado de capacitación correspondiente.
+
+###### ARTICULO 57.
+
+Las empresas, industrias, comercios y establecimientos en general cuyo capital sea privado, procurarán contratar un dos por ciento, como mínimo, de su planta laboral a personas con requerimientos especiales, en el caso de que así les sea solicitado por éstas, quienes deberán presentar el certificado de capacitación correspondiente.
+
+El Ejecutivo del Estado y los Municipios en el ámbito de su competencia, otorgarán estímulos fiscales de acuerdo al número de empleados con discapacidad que contraten estas empresas y microempresas y den cumplimiento a esta disposición.
+
+###### ARTICULO 58.
+
+La asignación y el desempeño de la actividad laboral en los términos de los artículos anteriores, deberán ser autorizados y supervisados por la Dirección General del Trabajo del Estado, considerando la certificación que expida la Comisión de Valoración a que se refiere esta Ley.
+
+###### ARTICULO 59.
+
+Las personas con requerimientos especiales que presenten sus servicios en las entidades referidas en el Artículo 47 de esta Ley, gozarán de iguales derechos y estarán sujetos a las mismas obligaciones que la legislación laboral prescribe para el trabajador común, siempre y cuando las consideraciones hechas en el certificado correspondiente lo permitan. En caso contrario, dicho certificado establecerá las excepciones aplicables.
+
+###### ARTICULO 60.
+
+El Ejecutivo del Estado fomentará la creación de empresas integradas por personas con discapacidad, en una proporción hasta de 60 por ciento y con personas sin estas características en la proporción restante. Su objetivo primordial será siempre el desarrollo productivo de quienes formen parte de éstas.
+
+La Dirección General del Trabajo del Estado tendrá bajo su responsabilidad la reglamentación, registro y supervisión de estas empresas.
+
+###### ARTICULO 61.
+
+El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia, creará estímulos, premios y reconocimientos, para beneficiar a aquellas personas con discapacidad que se distingan en cualquier actividad, con el propósito de que la sociedad les reconozca sus hechos y aptitudes, ya sea en su desempeño diario, o en la realización de acciones tendientes a superarse a sí mismos, en su trabajo, en el deporte, en la ciencia o en el arte.
+
+### CAPITULO XI. Movilidad y Barreras Arquitectónicas
+
+###### ARTICULO 62.
+
+Son derechos que esta Ley reconoce y protege en favor de las personas con algún grado de discapacidad los siguientes:
+
+I.- Desplazarse libremente en los espacios públicos;
+
+II.- Disfrutar de los servicios públicos en igualdad de circunstancias que cualquier otro ciudadano; y
+
+III.- Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos y de transporte, mediante la construcción de las especificaciones arquitectónicas de diseño y mecánicas de los medios de transporte apropiadas.
+
+###### ARTICULO 63.
+
+Las autoridades competentes deberán vigilar que en los sitos que sean asignados exclusivamente para el uso de personas con discapacidad, sean señalados y anunciados debidamente los servicios que se ofrezcan para comodidad de las personas con discapacidad.
+
+###### ARTICULO 64.
+
+Para efecto de los artículos anteriores, las Administraciones Públicas Estatal y Municipales establecerán las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y dispondrá sobre la adaptación de las construcciones ya existentes. Fomentarán la instalación de teléfonos públicos especiales para uso de personas con discapacidad auditiva.
+
+###### ARTICULO 65.
+
+En los vehículos de transporte colectivo, los cuatro primeros asientos, serán para uso prioritario de personas con discapacidad, por lo que deberán estar diseñadas para tal fin y estar claramente especificados por medio de señalamientos.
+
+Los concesionarios podrán realizar convenios con las diversas Instituciones públicas y privadas para establecer beneficios en los vehículos de transporte para personas con discapacidad.
+
+Esta disposición será aplicable en los vehículos con capacidad para más de diez pasajeros y su aplicación corresponderá coordinadamente con la Secretaría de Desarrollo Social y la Dirección General de Seguridad Pública y Vialidad del Estado.
+
+El Ejecutivo del Estado promoverá que los autobuses de transporte urbano estén adaptados para el ascenso y descenso de personas con discapacidad. Estos vehículos transitarán por las rutas de mayor circulación, con base en el estudio realizado por las autoridades competentes y a la demanda de la población.
+
+El Ejecutivo del Estado brindará estímulos a aquellos concesionarios que adapten los vehículos en beneficio de las personas con discapacidad.
+
+###### ARTICULO 66.
+
+Se prohibe que dentro de los estacionamientos privados, se invadan cajones destinados al estacionamiento de vehículos en los que se trasladen personas con discapacidad por otros en los que se trasladen personas distintas a las que establece esta ley, los propietarios de los estacionamientos citados se harán acreedores a la sanción a que se refiere la fracción II, del Articulo 68, de esta Ley.
+
+### CAPITULO XII. De las Reglas para la Imposición de Sanciones
+
+###### ARTICULO 67.
+
+Para la determinación de la imposición de sanciones que prevenga esta Ley se atenderá lo siguiente:
+
+I.- La gravedad de la falta;
+
+II.- La capacidad económica del infractor;
+
+III.- La magnitud del daño ocasionado; y
+
+IV.- La reincidencia del infractor.
+
+### CAPITULO XIII. Sanciones y Medidas de Seguridad
+
+###### ARTICULO 68.
+
+El incumplimiento a las disposiciones contenidas en esta Ley, será motivo para la aplicación de las siguientes sanciones:
+
+I.- Amonestación;
+
+II.- Multa de uno hasta mil veces de salario mínimo vigente en la Entidad a la fecha en que ocurra el incumplimiento;
+
+III.- Arresto hasta por treinta y seis horas;
+
+IV.- Clausura parcial o total, temporal o definitiva de las fuentes o actividades o de las obras públicas que contravengan las disposiciones de esta Ley;
+
+V.- Aseguramiento de objetos con los cuales se cause perjuicio a las personas tuteladas por esta Ley; y
+
+VI.- Tratándose de Servidores Públicos, la sanción será desde la amonestación hasta la destitución del cargo, de conformidad con lo que establece la Ley de Responsabilidades de Servidores Públicos del Estado.
+
+###### ARTICULO 69.
+
+En el caso de que la transgresión constituya un hecho punible, los hechos se harán del conocimiento del Ministerio Público, a efecto de que se proceda en contra de los responsables.
+
+###### ARTICULO 70.
+
+La infracción de las disposiciones contenidas en esta Ley, será denunciada ante la autoridad competente, quien considerando la gravedad de la falta aplicará la sanción que corresponda conforme a la Ley.
+
+Los padres o tutores podrán por sí y en representación de las personas que tutela esta Ley, interponer la denuncia respectiva cuando las personas con discapacidad no posean la mayoría de edad, o que siendo mayor su propia discapacidad le impida la comunicación a través del lenguaje escrito o verbal.
+
+### CAPITULO XIV. De los Recursos de Revocación y de Revisión
+
+###### ARTICULO 71.
+
+La interposición y substanciación de los recursos se regirá conforme a lo establecido por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+T R A N S I T O R I O S:
+
+###### ARTICULO PRIMERO
+
+La presente Ley entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+Se abroga el Decreto número treinta y cinco que contiene el texto de la Ley de Integración Social de Personas con Discapacidad publicado en el Periódico Oficial del Estado en fecha 9 de mayo de 1993 y se derogan todas aquellas disposiciones que se opongan a su contenido.
+
+###### ARTICULO TERCERO
+
+Toda la reglamentación a las barreras arquitectónicas aquí mencionadas deberá cumplir con las estipulaciones establecidas en la presente Ley y las relativas aplicables del Código Urbano.
+
+###### ARTICULO CUARTO
+
+El Comité Coordinador de Integración Social y Productiva para Personas con Discapacidad y el Comité Técnico de Integración Social y Productiva para Personas con Discapacidad deberán estar constituidos dentro del término de treinta días hábiles a partir de la entrada en vigor de la presente Ley.
+
+###### ARTICULO QUINTO
+
+El Reglamento que se prevé en la presente ley se deberá expedir por la autoridad correspondiente dentro del término de ciento veinte días naturales a partir de la entrada en vigor de esta Ley, debiéndose publicar en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEXTO
+
+Los integrantes del Comité Coordinador de Integración Social y Productiva para Personas con Discapacidad que sean representantes de una Secretaría o Dependencia, contarán con el término de noventa días naturales a partir de que entre en vigor la presente Ley, para efecto que propongan las modificaciones pertinentes a sus leyes y reglamentos con la finalidad de lograr adecuarlas para hacer operativa y eficaz la presente Ley.
+
+###### ARTICULO SEPTIMO
+
+Las personas morales que se hayan constituido legalmente hasta antes de la entrada en vigor de la presente Ley, deberán registrarse ante Comité Técnico de Integración Social y Productiva para Personas con Discapacidad, dentro del término de treinta días hábiles siguientes contados a partir de la fecha en que haya constituido el Comité antes citado.
+
+###### ARTICULO OCTAVO
+
+Los convenios celebrados por el Sistema de Desarrollo Integral de la Familia del Estado, a la luz de la Ley de Integración Social de Personas con Discapacidad continuarán subsistentes al entrar en vigor la presente Ley.
+
+Al Ejecutivo para su sanción.
+
+Dado en el salón de sesiones del H. Congreso del Estado, a los veinticinco días del mes de enero del año dos mil.- D.P., Manuel Agustín Reed Segovia.- D.S., Luis Macías Romo.- D.S., Salvador Delgado Esquivel.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y publicación en el Periódico Oficial del Estado, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Manuel Agustín Reed Segovia.
+
+DIPUTADO SECRETARIO,
+
+Luis Macías Romo.
+
+DIPUTADO SECRETARIO,
+
+Salvador Delgado Esquivel.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 3 de febrero de 2000.
+
+Felipe González González
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Abelardo Reyes Sahagún.
