@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-sanidad-animal-60"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1993-06-18"
-last_updated: "1993-06-18"
+last_updated: "2000-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de junio de 1993.
 
@@ -58,6 +58,8 @@ Acreditamiento: El acto mediante el cual la Secretaría de Comercio y Fomento In
 
 Análisis de riesgo: La evaluación de la probabilidad de entrada, radicación y propagación de enfermedades o plagas de los animales en el territorio nacional o una zona del país, de conformidad con las medidas zoosanitarias que pudieran aplicarse, así como las posibles consecuencias biológicas, económicas y ambientales. Incluye asimismo la evaluación de los posibles efectos perjudiciales para la salud humana y animal provenientes de aditivos, substancias contaminantes, toxinas u organismos patógenos en alimentos de origen animal, bebidas y forrajes;
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 Aprobación: El acto mediante el cual la Secretaría reconoce a médicos veterinarios, organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de pruebas para llevar a cabo actividades en materia zoosanitaria a que se refiere esta Ley;
 
 Campaña: conjunto de medidas zoosanitarias para la prevención, control o erradicación de enfermedades o plagas de los animales en una área geográfica determinada;
@@ -72,7 +74,9 @@ Cordón zoosanitario: conjunto de acciones que se implementan para delimitar una
 
 Cuarentena de los animales: medida zoosanitaria basada en el aislamiento, observación y restricción de la movilización de animales, por la sospecha o existencia de una enfermedad o plaga de los mismos, sujeta a control;
 
-Cuarentena de productos: medida zoosanitaria consistente en la observación y restricción de la movilización de un producto o subproducto de origen animal o de un producto biológico, químico, farmacéutico o alimenticio, para uso en animales o consumo por éstos durante un período determinado, con el objeto de comprobar que no cause daño a la salud de los animales;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Cuarentena de productos: Medida zoosanitaria consistente en la observación y restricción de la movilización de un producto o subproducto de origen animal o de un producto biológico, químico, farmacéutico o alimenticio, para uso en animales o consumo por éstos, incluyendo la observación de sus efectos durante un período determinado, con el objeto de comprobar que no cause daño a la salud de los animales. Tratándose de importaciones, la cuarentena se realizará previamente al ingreso al territorio nacional. Serán nacionales, aquellos productos que se encuentren legalmente en territorio nacional;
 
 Diagnóstico: estudio que se basa en el análisis que se haga del conjunto de signos clínicos observados en los animales que permite descartar o confirmar la sospecha, en este último caso, mediante pruebas de laboratorio, de la presencia de una enfermedad o plaga en los mismos;
 
@@ -102,11 +106,15 @@ Normas oficiales: las normas oficiales mexicanas que expida la Secretaría en ma
 
 Organismo de certificación: las personas morales que tengan por objeto realizar funciones de certificación de acuerdo a lo establecido en la Ley Federal sobre Metrología y Normalización;
 
-Particulares: personas físicas o morales que participen en actividades en materia de sanidad animal de acuerdo a lo establecido en esta Ley;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Particulares: Personas físicas o morales con interés jurídico que participen en actividades en materia de sanidad animal de acuerdo a lo establecido en esta Ley;
 
 Plaga: presencia de un agente biológico en una área determinada, que causa enfermedad o alteración en la salud de la población;
 
-Planta de sacrificio: establecimiento dedicado al sacrificio de animales y comercialización al mayoreo de sus productos;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Planta de sacrificio: Establecimiento dedicado al sacrificio de animales y comercialización al mayoreo de sus productos. Incluyendo aquellas debidamente aprobadas por la Secretaría de acuerdo a esta ley y tratados internacionales que nuestra nación haya signado, que se encuentren en territorio extranjero, sobre las cuales la Secretaría llevará un procedimiento de autorización y control, que se publicará en el Diario Oficial de la Federación;
 
 Prevalencia: la frecuencia de una enfermedad o plaga, en un período preciso, referida a una población animal determinada;
 
@@ -114,7 +122,9 @@ Prevención: conjunto de medidas zoosanitarias basadas en estudios epizootiológ
 
 Productos biológicos: los reactivos biológicos, sueros, vacunas, que puedan utilizarse para diagnosticar, tratar y prevenir enfermedades de los animales, así como hormonas y material genético de origen animal que sirva para fines reproductivos;
 
-Punto de verificación: sitio aprobado por la Secretaría para constatar el cumplimiento de las normas oficiales de acuerdo a lo establecido por esta Ley;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Punto de Verificación e Inspección: Sitio en el territorio nacional con infraestructura de diagnóstico autorizado por la Secretaría para constatar el cumplimiento de las normas oficiales mexicanas de acuerdo a lo establecido por esta Ley, en lo que no se contraponga con la legislación de comercio exterior y aduanal aplicable.
 
 Rastro: establecimiento donde se da el servicio para sacrificio de animales para la alimentación y comercialización al mayoreo de sus productos. Servicio público municipal, en su caso;
 
@@ -122,15 +132,21 @@ Riesgo zoosanitario: la probabilidad de introducción, establecimiento o disemin
 
 Sanidad animal: la que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
 
-Secretaría: la Secretaría de Agricultura y Recursos Hidráulicos;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Secretaría: La Secretaría de Agricultura, Ganadería y Desarrollo Rural;
 
 Subproducto animal: el que se deriva de un producto pecuario cuyo proceso de transformación no asegura su desinfestación o desinfección;
 
 Trato humanitario: las medidas para evitar dolor innecesario a los animales durante su captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio;
 
-Unidad de verificación: Las personas físicas o morales que hayan sido aprobadas para realizar actos de verificación por la Secretaría, en los términos de la Ley Federal sobre Metrología y Normalización;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-Verificación: constatación ocular o comprobación mediante muestreo y análisis de laboratorio aprobado o acreditado, del cumplimiento de las normas oficiales, de acuerdo a lo establecido por la Ley Federal sobre Metrología y Normalización;
+Unidad de verificación: Las personas físicas o morales mexicanas o extranjeras, que su calidad y característica migratoria les permita realizar esta actividad y cuenten con el permiso previo otorgado por la autoridad competente, que hayan sido aprobadas para realizar actos de verificación por la Secretaría, en los términos de la Ley Federal sobre Metrología y Normalización.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Verificación: Constatación ocular o comprobación mediante muestreo y análisis de laboratorio oficial, aprobado o acreditado, del cumplimiento de las normas oficiales, de acuerdo a lo establecido por la Ley Federal sobre Metrología y Normalización;
 
 Zona de escasa prevalencia: área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de animales, en un período y especie animal específicos;
 
@@ -139,6 +155,50 @@ Zona en control: área geográfica determinada en la que se operan medidas zoosa
 Zona en erradicación: área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a la eliminación total de una enfermedad o plaga de animales, o se realizan estudios epizootiológicos con el objeto de comprobar la ausencia de dicha enfermedad o plaga en un período de tiempo y especie animal específicos, de acuerdo con las normas oficiales y las medidas zoosanitarias que la Secretaría establezca; y
 
 Zona libre: área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una enfermedad o plaga de animales específica, durante un período preciso, de acuerdo con las normas oficiales y las medidas zoosanitarias que la Secretaría establezca.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Acta Circunstanciada: Documento en donde deberán anotarse todos y cada uno de los pormenores de la verificación o inspección y su debida fundamentación.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Fecha de Sacrificio: El día calendario en que el animal de determinada especie fue privado de la vida.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Identificación: Documento que acredita la personalidad del servidor público y que contiene nombre, fotografía, cargo y puesto; número y fecha de expedición y vigencia, así como autoridad emitente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Inspección: Revisión para constatar el cumplimiento de las disposiciones de esta Ley y demás ordenamientos aplicables en la materia, efectuada por personal oficial de la Secretaría, o unidad de verificación aprobadas, y que se deberá realizar previa identificación de dichos actuantes, y levantándose acta circunstanciada al concluir la misma.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Lote: Producto o subproducto animal, productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos elaborado durante un periodo de tiempo determinado, identificado por la planta de origen con un código específico.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Medida Zoosanitaria: Disposición para proteger la vida o salud humana y animal, de la introducción, radicación o propagación de una plaga o enfermedad; de los riesgos provenientes de aditivos, contaminantes, toxinas u organismos causantes de enfermedades, y daños.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Autorización: Acto por el cual la Secretaría otorga a una persona física o moral la posibilidad de realizar una actividad específica competencia de ésta.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Medico Verificador: Médico Veterinario oficial o autorizado por la Secretaría para realizar la constatación documental, ocular o comprobación mediante muestreo y análisis de laboratorio de diagnóstico clínico autorizado, del cumplimiento de la normatividad en materia zoosanitaria.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Dictamen Zoosanitario: Documento oficial expedido por la Secretaría, Unidad de verificación aprobada o quienes estén autorizados para constatar el cumplimiento de la normatividad en materia zoosanitaria. Dicho documento deberá ser signado por un médico oficial, una unidad de verificación o por un médico veterinario verificador.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Organismo Coordinador de la Movilización Animal: Agrupaciones nacionales de productores autorizados por la Secretaría, para realizar funciones coordinadas con la autoridad en materia zoosanitaria, administrando y controlando la expedición del certificado zoosanitario de movilización, de acuerdo con lo que establezca la Secretaría, para controlar la movilización de animales, sus productos y subproductos en cumplimiento de la normatividad específica.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Laboratorio de Diagnóstico Clínico Zoosanitario: Persona física o moral autorizada por la Secretaría, para prestar servicios relacionados con los estudios para determinar la presencia de una enfermedad o plaga de los animales; conforme a las Normas Oficiales Mexicanas en materia zoosanitaria.
 
 ### CAPITULO III. DE LA AUTORIDAD COMPETENTE
 
@@ -150,15 +210,23 @@ La aplicación de esta ley, corresponde al Ejecutivo Federal por conducto de la 
 
 Son atribuciones de la Secretaría en materia de sanidad animal:
 
-(sic) Promover, fomentar, organizar, vigilar, coordinar y ejecutar en su caso, las actividades en materia de sanidad animal, en las que participen las diversas dependencias y entidades de la administración pública federal, gobiernos estatales y municipales, así como particulares;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-II.- Instrumentar y coordinar el Dispositivo Nacional de Emergencia de Sanidad Animal y organizar el Consejo Técnico Consultivo Nacional de Sanidad Animal, así como los Comités Consultivos Nacionales de Normalización en materia de Sanidad Animal;
+I.- Promover, fomentar, organizar, vigilar, coordinar y ejecutar en su caso, las actividades en materia de sanidad animal, en las que deberán participar las diversas dependencias y entidades de la administración pública federal, gobiernos estatales y municipales, así como particulares con interés jurídico;
 
-III.- Expedir normas oficiales, así como verificar y certificar su cumplimiento y mantener actualizados y en operación los Comités Consultivos Nacionales de Normalización en Salud Animal;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+II.- Instrumentar y coordinar el Dispositivo Nacional de Emergencia de Sanidad Animal y organizar el Consejo Técnico Consultivo Nacional de Sanidad Animal, así como los Comités Consultivos Nacionales de Normalización en materia de Sanidad Animal, con la participación de los particulares con interés jurídico, que pudieran resultar afectados o beneficiados;
+
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+III.- Expedir normas oficiales, verificar su estricto cumplimiento en territorio nacional, dar a conocer en el Diario Oficial de la Federación conjuntamente con la Secretaría de Comercio y Fomento Industrial, las fracciones arancelarias, sujetas al cumplimiento de regulaciones de la Secretaría de acuerdo a la ley de comercio exterior, y mantener actualizados y en operación los Comités Consultivos Nacionales de Normalización en Salud Animal, con la participación de los particulares con interés jurídico;
 
 IV.- Declarar zonas libres de plagas enfermedades de animales;
 
-V.- Aprobar médicos veterinarios, organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de prueba en materia zoosanitaria;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+V.- Aprobar médicos veterinarios, organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de prueba en materia zoosanitaria con apego a lo establecido por la Ley Federal sobre Metrología y Normalización. Registrar plantas que se encuentren en el extranjero, mediante requisitos, que deberán ser publicados en el Diario Oficial de la Federación, así como crear un registro de éstas, al cual tendrán acceso los particulares;
 
 VI.- Otorgar el Premio Nacional de Sanidad Animal;
 
@@ -166,11 +234,15 @@ VII.- Atender las denuncias ciudadanas que se presenten, imponer sanciones y res
 
 VIII.- Difundir permanentemente, información en materia de sanidad animal, utilizando métodos de fácil compresión;
 
-IX.- Establecer, fomentar, coordinar y vigilar la operación de la infraestructura zoosanitaria;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+IX.- Establecer, fomentar, coordinar y vigilar la operación de la infraestructura zoosanitaria. Además de registrar a plantas ubicadas en territorio extranjero, que cumplan con los requisitos que se establezcan para tal efecto, en concordancia con los acuerdos y tratados internacionales en los que los Estados Unidos Mexicanos sean parte.
 
 X.- Celebrar acuerdos interinstitucionales así como bases de coordinación, convenios y acuerdos con dependencias y entidades de la administración publica federal, gobiernos estatales y municipales y particulares, en materia de sanidad animal; los acuerdos y convenios que suscriba con los gobiernos estatales y el Departamento del Distrito Federal podrán comprender la asunción por parte de éstos, del ejercicio de las funciones, ejecución y operación de obras y prestación de servicios públicos de la competencia de la Secretaría. Los instrumentos que se suscriban con otras autoridades deberán publicarse en el Diario Oficial de la Federación;
 
-XI.- Regular los productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos que constituyan un riesgo zoosanitario; y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+XI.- Regular los animales, productos y subproductos de origen animal, los productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos que constituyan un riesgo zoosanitario y coadyuvar a evitar riesgos para la salud humana, implementando las medidas zoosanitarias pertinentes; y
 
 XII.- Las demás que señalen las leyes y los tratados internacionales de que México sea parte.
 
@@ -178,9 +250,11 @@ XII.- Las demás que señalen las leyes y los tratados internacionales de que M�
 
 Las dependencias y entidades de la administración pública federal, deberán coordinar sus actividades con la Secretaría cuando tengan relación con la materia zoosanitaria.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 6o.
 
-La Secretaría de Hacienda y Crédito Público colaborará con la Secretaría en la vigilancia de las restricciones zoosanitarias en materia de importación.
+La Secretaría de Hacienda y Crédito Público colaborará con la Secretaría de Agricultura, Ganadería y Desarrollo Rural en el ámbito de su competencia, en la inspección y comprobación del cumplimiento de las restricciones zoosanitarias en materia de importación en los puntos de entrada al país.
 
 ###### ARTICULO 7o.
 
@@ -196,7 +270,9 @@ En los casos de enfermedades o plagas de los humanos transmisibles a los animale
 
 El Consejo Técnico Consultivo Nacional de Sanidad Animal se integrará con representantes de la propia Secretaría y de las dependencias y entidades de la administración pública federal relacionadas con la materia de sanidad animal y contaminación, en los términos del Reglamento de esta ley.
 
-Asimismo, la Secretaría invitará a formar parte de dicho Consejo, a representantes de instituciones académicas y de investigación, así como de organizaciones ganaderas, de campesinos, de propietarios rurales y otras personas del sector social o privado relacionadas con la materia de sanidad animal.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Asimismo, formarán parte de dicho Consejo, los representantes de instituciones académicas y de investigación, así como de organizaciones ganaderas, de campesinos, de propietarios rurales y otras personas del sector social o privado con interés jurídico relacionado con la materia de sanidad animal.
 
 El Consejo Técnico Consultivo Nacional de Sanidad Animal se apoyará en consejos regionales o estatales que se constituirán de la misma manera que el nacional, invitándose también a representantes de los gobiernos de los estados y municipios.
 
@@ -260,6 +336,10 @@ III.- Tomar en cuenta las normas, directrices o recomendaciones internacionales 
 
 IV.- No ser mantenidas cuando ya no exista una base científica que las sustente.
 
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+V. Considerar de ser procedentes las aportaciones de los particulares con interés jurídico. En este caso, la Secretaría fundamentará y motivará la procedencia o no de las aportaciones efectuadas por los particulares.
+
 ###### ARTICULO 14.
 
 Para la aplicación de medidas zoosanitarias, la Secretaría considerará si las zonas correspondientes son libres o de escasa prevalencia de enfermedades o plagas de animales.
@@ -318,6 +398,14 @@ V.- Los que fabriquen o expendan productos químicos, farmacéuticos o biológic
 
 VI.- Los hospitales, clínicas veterinarias, laboratorios de pruebas o diagnóstico y demás que presten servicios zoosanitarios.
 
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+VII. Características y especificaciones de los puntos de verificación e inspección, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+VIII. Procedimientos de certificación de plantas para el sacrificio de animales y los dedicados a la industrialización de productos cárnicos.
+
 ###### ARTICULO 19.
 
 Los propietarios de los establecimientos a que hace referencia el artículo anterior, deberán dar aviso de inicio de funcionamiento a la Secretaría, proporcionando su nombre y el domicilio del establecimiento correspondiente, así como la referencia de lo que maneje o elabore, dentro de los quince días naturales siguientes a la apertura del mismo.
@@ -358,13 +446,47 @@ Los certificados zoosanitarios deberán contener, cuando menos, los siguientes d
 
 I.- Nombre y domicilio del propietario, poseedor o importador;
 
-II.- Lugar de origen y destino específico de los animales, sus productos y subproductos, o de los productos biológicos, químicos, farmacéuticos y alimenticios, para uso en animales o consumo por éstos, que vayan a movilizarse o importarse, así como la identificación de los mismos;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+II.- Lugar de origen, incluyendo el número de Rastro Tipo Inspección Federal o planta registrada, de ser aplicable, y destino específico de los animales, sus productos y subproductos, o de los productos biológicos, químicos, farmacéuticos y alimenticios, para uso en animales o consumo por éstos, que vayan a movilizarse o importarse, así como la identificación de los mismos;
 
 III.- Mención de la norma que se cumple;
 
 IV.- Fecha de expedición del certificado; y
 
 V.- Vigencia del certificado.
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+VI. Número de lote de ser aplicable;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+VII. Fecha de sacrificio tratándose de productos y subproductos de origen animal;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+VIII. Fracción arancelaria de importación; y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+IX. Fecha de empaque y embalaje.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Para efectos de control de la movilización de animales, sus productos y subproductos, productos biológicos, inmunógenos, químicos, farmacéuticos y alimenticios, para uso en animales o consumo por éstos, el certificado zoosanitario podrá ser expedido en nombre de la Secretaría por las personas físicas o morales que ésta autorice para el desempeño de tal actividad.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Los ingresos que la federación obtenga de derechos por la expedición de certificados zoosanitarios se destinarán a la operación del dispositivo nacional de emergencia de sanidad animal, las campañas zoosanitarias y el control cuarentenario.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+La Secretaría destinará a los gastos de operación, conservación, mantenimiento e inversión de sus laboratorios de sanidad animal, los aprovechamientos, productos e ingresos de cualquier naturaleza que perciba por los servicios que preste en dicha materia.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+La totalidad de las contribuciones e ingresos a que se refiere este artículo, serán consideradas como excedentes en el ejercicio fiscal en que se generen y no serán regularizables en el ejercicio subsecuente.
 
 ###### ARTICULO 25.
 
@@ -388,9 +510,11 @@ Las importaciones de animales, sus productos y subproductos y de productos biol�
 
 Las importaciones se sujetarán además a lo dispuesto en el Artículo 16 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 29.
 
-Cuando se compruebe que los productos a que se refiere este capítulo, no cumplen con la norma oficial respectiva, la Secretaría podrá solicitar su acondicionamiento o tratamiento; de no ser esto posible, la Secretaría ordenará, en su caso, su reexportación o, en su defecto, su destrucción a costa del propietario o importador.
+Cuando con motivo de la inspección, se compruebe que los productos a que se refiere este capítulo, no cumplen con la norma oficial mexicana respectiva, previa identificación de los servidores públicos y levantada el acta circunstanciada, la Secretaría invariablemente ordenará su acondicionamiento o tratamiento; de no ser esto posible, los productos deberán ser reexportados de manera inmediata o, en su defecto, se procederá su destrucción a costa del propietario o importador.
 
 ###### ARTICULO 30.
 
@@ -452,7 +576,9 @@ II.- A organismos nacionales de normalización, para elaborar normas mexicanas d
 
 III.- A organismos de certificación, para expedir certificados zoosanitarios;
 
-IV.- A unidades de verificación, para verificar, a petición de parte, el cumplimiento de las normas oficiales que expida la Secretaría y expedir certificados zoosanitarios; y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+IV.- A unidades de verificación, para verificar e inspeccionar, el cumplimiento de las normas oficiales que expida la Secretaría;
 
 V.- A laboratorios de pruebas en materia zoosanitaria, para elaborar diagnósticos y pruebas de laboratorio.
 
@@ -498,7 +624,9 @@ Es responsabilidad de los médicos veterinarios, organismos, unidades y laborato
 
 I.- Desarrollar las actividades para las que se les faculte, conforme a las normas oficiales que se expidan sobre el particular;
 
-II.- Avisar a la Secretaría, cuando tenga conocimiento de la presencia de una enfermedad o plaga de animales, que sea de notificación obligatoria, de acuerdo con las normas oficiales que expida dicha dependencia sobre el particular;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+II.- Avisar a la Secretaría, inmediatamente cuando tenga conocimiento de la presencia de una enfermedad o plaga de animales, que sea de notificación obligatoria, en los tiempos establecidos en la normatividad oficial y las normas oficiales mexicanas que expida dicha dependencia sobre el particular;
 
 III.- Proporcionar a la Secretaría relaciones de los certificados que expida, en la forma y plazos que determine el Reglamento de esta ley;
 
@@ -512,31 +640,45 @@ Los propietarios y administradores serán asimismo responsables de lo señalado 
 
 ### CAPITULO II. DE LA VERIFICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 44.
 
-La Secretaría podrá verificar, en cualquier tiempo y lugar el cumplimiento de las normas oficiales que se señalan en esta ley.
+La Secretaría deberá inspeccionar y verificar, en cualquier tiempo y lugar en los puntos de verificación y dentro del territorio nacional el cumplimiento de las normas oficiales mexicanas que se señalan en esta Ley.
 
-Asimismo, la Secretaría podrá, aleatoriamente, verificar los animales, sus productos y subproductos, así como los productos biológicos, químicos, farmacéuticos y alimenticios, para uso en animales o consumo por éstos, que cuenten con certificado zoosanitario, con objeto de comprobar el cumplimiento de las normas oflciales en materia de sanidad animal.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-Las unidades de verificación aprobadas sólo podrán realizar actos de verificación a petición de parte, y los dictámenes que formulen sobre el particular serán reconocidos por la Secretaría.
+Asimismo, la Secretaría deberá, aleatoriamente, inspeccionar los animales, sus productos y subproductos, así como los productos biológicos, químicos, farmacéuticos y alimenticios, para uso en animales o consumo por éstos, que cuenten con certificado zoosanitario, con objeto de comprobar el cumplimiento de las normas oficiales mexicanas en materia de sanidad animal, previa identificación de los servidores públicos que practiquen la inspección, quienes asentarán el resultado de la inspección en acta circunstanciada.
 
-La Secretaría expedirá una norma oficial en la que se indique la duración normal de los procedimientos de verificación o comunicará a quien lo solicite, la duración prevista.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Las unidades de verificación aprobadas realizarán actos de verificación a petición de la Secretaría y a petición de parte, y los dictámenes que formulen sobre el particular serán reconocidos por la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+La Secretaría publicará en el Diario Oficial de la Federación, la duración normal y general de los procedimientos de verificación o comunicará a quien lo solicite, la duración prevista, independientemente de que cada Norma Oficial Mexicana para productos específicos, pueda contener dichos plazos.
 
 Serán aplicables a este capítulo, en lo conducente, las disposiciones del título quinto de la Ley Federal sobre Metrología y Normalización.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 45.
 
-Cuando el contenido de un acta o dictamen de verificación se desprenda la comisión de un delito, deberá formularse la denuncia correspondiente ante la autoridad competente.
+Cuando el contenido de un acta o dictamen de verificación se desprenda la presunción de la comisión de una infracción o delito; deberá formularse la denuncia correspondiente ante la autoridad competente. El servidor público que sea informado de una infracción a esta Ley y no la reporte, será sancionado con apego a lo dispuesto por esta Ley y la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría contará con los puntos de verificación necesarios para asegurar el nivel de protección zoosanitario apropiado en base al análisis de riesgo.
+La Secretaría contará con los puntos de verificación en el territorio nacional necesarios para asegurar el nivel de protección zoosanitario apropiado en base al análisis de riesgo.
 
 En ningún caso, los puntos de verificación podrán constituir barreras interestatales al comercio.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 47.
 
-Son puntos de verificación zoosanitaria, los siguientes:
+Son puntos de verificación e inspección zoosanitaria, los siguientes:
 
 I.- Las aduanas;
 
@@ -544,15 +686,23 @@ II.- Las estaciones cuarentenarias;
 
 III.- Las casetas de vigilancia; y
 
-IV.- Aquellos que se ubiquen en territorio extranjero, de conformidad con los tratados y acuerdos interinstitucionales que se suscriban.
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-La Secretaría podrá operar directamente las estaciones cuarentenarias y casetas de vigilancia, o acordar o autorizar su instalación y operación administrativa a gobiernos de los estados y al Departamento del Distrito Federal o a particulares que así lo soliciten.
+IV. Aquellos que se ubiquen en territorio nacional.
 
-Las instalaciones y operación de los puntos de verificación se sujetará a lo establecido en las normas oficiales correspondientes, e invariablemente la verificación se llevará a cabo por personal de la Secretaría.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+La Secretaría podrá operar directamente las estaciones cuarentenarias y casetas de vigilancia, puntos de verificación e inspección, o acordar o autorizar su instalación y operación administrativa a gobiernos de los estados y al gobierno del Distrito Federal o a particulares que así lo soliciten.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+Las instalaciones y operación de los puntos de verificación e inspección se sujetará a lo establecido en esta ley y, en las normas oficiales correspondientes, e invariablemente la verificación e inspección se llevará a cabo por personal profesional debidamente facultado y autorizado por la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría podrá autorizar la realización de verificaciones sobre el cumplimiento de las normas oficiales, en los términos de los tratados y acuerdos interinstitucionales que se suscriban.
+La Secretaría podrá autorizar la realización de verificaciones e inspecciones sobre el cumplimiento de la normatividad y las Normas Oficiales Mexicanas, en los términos de los tratados y acuerdos interinstitucionales que se suscriban.
 
 TlTULO CUARTO
 
@@ -563,6 +713,8 @@ CAPlTULO I
 DE LOS INCENTIVOS
 
 ### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 49.
 
@@ -578,27 +730,49 @@ DE LA DENUNCIA CIUDADANA
 
 ### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 51.
 
 Todo ciudadano podrá denunciar ante la Secretaría directamente o a través de las Delegaciones Estatales, los hechos, actos u omisiones que atenten contra la sanidad animal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 52.
 
-La denuncia ciudadana podrá presentarse por cualquier ciudadano, bastando para darle curso, que se señalen los datos necesarios que permitan localizar la fuente, así como el nombre y domicilio del denunciante.
+Bastará para darle curso a la denuncia, que se señalen los datos necesarios que permitan localizar la fuente, así como el nombre y domicilio del denunciante.
 
 Una vez recibida la denuncia, la Secretaría la hará saber a la persona o personas a quienes se imputen los hechos denunciados y efectuará, en su caso, las diligencias necesarias para la comprobación de los hechos denunciados, así como para la evaluación correspondiente.
 
-La Secretaría, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, deberá hacer del conocimiento del denunciante el trámite que se haya dado a aquélla y, en su caso, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas zoosanitarias adoptadas.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+La Secretaría, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, deberá hacer del conocimiento del denunciante el trámite que se haya dado a aquélla y, en su caso, dentro de los treinta días hábiles siguientes, el resultado de la verificación e investigación de los hechos y medidas zoosanitarias adoptadas. Cuando del incumplimiento o violación a los preceptos de esta ley se desprenda la comisión de alguna infracción, la Secretaría iniciará el procedimiento administrativo correspondiente; si existe la presunción de un delito formulará la denuncia respectiva ante la autoridad competente, remitiéndole toda la información con la que cuente.
 
 ###### ARTICULO 53.
 
-Las infracciones a lo dispuesto en esta ley, serán sancionadas administrativamente por la Secretaría en los términos del Reglamento.
+Las infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones de carácter zoosanitario, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+
+Las sanciones administrativas podrán ser:
+
+I. Amonestación con apercibimiento;
+
+II. Revocación de las certificaciones, permisos, autorizaciones y aprobaciones;
+
+III. Negativa temporal o permanente para la expedición de certificados zoosanitarios;
+
+IV. Multa;
+
+V. Suspención temporal, y
+
+VI. Clausura parcial o total.
 
 ###### ARTICULO 54.
 
 Son infracciones administrativas:
 
-I.- Incumplir lo establecido en las normas oficiales previstas en la presente ley; en cuyo caso se impondrá multa de cien a quince mil salarios;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+I.- Incumplir lo establecido en las normas oficiales mexicanas previstas en la presente ley, se impondrá multa de mil a treinta mil salarios;
 
 II.- No dar aviso de inicio de funcionamiento a que se refiere el artículo 19 de esta Ley; en cuyo caso se impondrá multa de cien a cinco mil salarios;
 
@@ -650,7 +824,7 @@ Las sanciones que se señalan en este capítulo, se aplicarán sin perjuicio de 
 
 ###### ARTICULO 60.
 
-Contra las resoluciones dictadas por la Secretaría, con fundamento en esta ley, se podrá interponer el recurso de inconformidad dentro del término de 15 días hábiles siguientes a la fecha de su notificación.
+Contra las resoluciones dictadas por la Secretaría, con fundamento en esta ley, el interesado podrá interponer recurso de inconformidad dentro del término de 15 días hábiles siguientes a la fecha de su notificación.
 
 El recurso tiene por objeto revocar, modificar o confirmar la resolución reclamada y los fallos que se dicten contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos resolutivos. El reglamento de la presente ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
 
@@ -677,3 +851,13 @@ SEXTO.- Los Comités de Evaluación a que se refiere el Artículo 37 de esta Ley
 México, D. F., a 27 de mayo de 1993.- Dip. José de Jesús Berrospe Díaz, Presidente.- Sen. Salvador Sánchez Vázquez, Presidente.- Dip. Graciela Larios Rivas, Secretaría.- Sen. Antonio Manríquez Guluarte, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de junio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio Gónzalez (sic) Blanco Garrido. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 12 DE JUNIO DE 2000.
+
+PRIMERO.- Las reformas respecto de los puntos de verificación e inspección de la Ley y en concordancia con lo dispuesto en el artículo 28 de la misma, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, dejando a salvo únicamente los derechos de los puntos de verificación e inspección autorizados por la Secretaría de Agricultura, Ganadería y Desarrollo Rural en el extranjero, por un plazo de 12 meses, siempre y cuando cumplan con las siguientes instalaciones: espacio libre de patio de maniobras para cuando menos 40 camiones y, con un piso con carpeta asfáltica y revestimiento de grava o su equivalente; deberán contar con un mínimo de 8 puertas para recepción de camiones en el andén de transferencia con túnel refrigerado y controlado a una temperatura de 4ºC como máximo: deberán tener una capacidad mínima de bodega de refrigeración de 250 metros cúbicos y una bodega de congelación de 300 metros cúbicos.
+
+Lo anterior, hasta en tanto se construya y se apruebe la infraestructura necesaria en el territorio nacional, que deberá de contar como mínimo con las mismas instalaciones arriba mencionadas; éstos serán los únicos puntos de verificación e inspección autorizados, mismos que deberán cumplir y hacer cumplir las especificaciones y requisitos contenidos en la Norma Oficial Mexicana: NOM-030-ZOO-1994, otras Normas Oficiales Mexicanas, los que indique la Secretaría de Agricultura, Ganadería y Desarrollo Rural y, demás entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias.
+
+SEGUNDO.- Las disposiciones de la presente reforma y adiciones a la Ley, no aplicarán a lo referente a animales vivos, los cuales podrán seguir siendo verificados e inspeccionados en territorio extranjero en concordancia con los acuerdos interinstitucionales signados por la Secretaría de Agricultura, Ganadería y Desarrollo Rural con otros Gobiernos.
