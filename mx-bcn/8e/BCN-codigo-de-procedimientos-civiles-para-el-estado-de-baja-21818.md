@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2001-06-29"
+last_updated: "2002-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1883,6 +1883,18 @@ ART. 271. Queda abolida la práctica de oponer excepciones o defensas contradict
 
 ART. 272.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a la audiencia de alegatos, que podrán ser escritos.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
+
+ART. 272 BIS.- Es deber del juez conciliar a las partes, cuando éstas acudan al juzgado durante el desahogo de las pruebas, o bien, durante cualquier etapa del procedimiento.
+
+En los juicios ordinarios civil, se realizará una audiencia conciliatoria obligatoria, la cual será desahogada oralmente dentro de la audiencia de pruebas y alegatos, o bien, dentro de la primera audiencia de desahogo de pruebas que se hallan ofrecido por escrito.
+
+Es obligación del juez citar a las partes para que asistan a dicha audiencia de conciliación en forma personal y no por conducto de apoderado. El juez sin prejuzgar sobre el fondo del negocio, propondrá a las partes alternativas de solución al litigio, con el objeto de que diriman sus diferencias mediante convenio judicial, con el que pueda terminar la controversia y poner fin al procedimiento.
+
+De convenir las partes, el juez resolverá sobre la procedencia judicial de dicho convenio, para en su caso, elevarlo a la categoría de cosa juzgada. Caso contrario, se dará seguimiento normal al procedimiento, de conformidad a las disposiciones previstas en el primer párrafo del Artículo 273 de este Código.
+
+Para el cumplimiento de sus determinaciones, el juez podrá aplicar los medios de apremio establecidos en las fracciones I, II y IV del Artículo 73 de este Código, cuando una o ambas partes dejaran de concurrir sin causa justificada al seguimiento de dicho procedimiento.
+
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 273.- El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él estime necesaria. Si el juez no decidiere sobre el particular, se entenderá que se recibe a prueba, corriendo, desde luego, el término para ofrecerlas.
@@ -2029,7 +2041,7 @@ ART. 294.- Al día siguiente en que termine el período del ofrecimiento de prue
 
 ### CAPITULO IV. De la recepción y practica de las pruebas
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 295.- El Juez queda facultado al admitir las pruebas ofrecidas para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes la hubieren propuesto con anterioridad.
 
@@ -2933,9 +2945,9 @@ Del escrito de demanda se corre traslado al demandado por un término no mayor d
 
 ART. 428.- En los escritos que fijan la controversia, las partes ofrecerán las pruebas declarando los nombres de testigos y peritos y señalando los archivos para la compulsa de aquellos documentos que no tuvieren en su poder.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
-ART. 429.- Desde el día en que se mande emplazar al reo se fijará día y hora para la audiencia de pruebas y alegatos, la que se celebrará dentro de los treinta días que sigan al emplazamiento. El juez resolverá sobre la admisión de las pruebas al acordar los escritos en que se ofrezcan.
+ART. 429.- Desde el día en que se mande a emplazar al reo se fijará día y hora para la audiencia de conciliación, pruebas y alegatos, la que se celebrará dentro de los treinta días que sigan al emplazamiento. El juez resolverá sobre la admisión de las pruebas al acordar los escritos en que se ofrezcan.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -3507,7 +3519,7 @@ ART. 510.- Si la sentencia condena a no hacer, su infracción se resolverá en e
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 511.- Cuando en virtud de la sentencia o de la determinación del Juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
+ART. 511.- Cuando en virtud de la sentencia o de la determinación del juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
 
 Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado que indicará la resolución. Si el obligado se resistiere, lo hará el actuario, quien podrá emplear el uso de la fuerza pública y aun mandar romper las cerraduras.
 
@@ -6610,3 +6622,7 @@ SEGUNDO.- El presente Decreto no será aplicable a los asuntos iniciados antes d
 P.O. 29 DE JUNIO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 2002.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
