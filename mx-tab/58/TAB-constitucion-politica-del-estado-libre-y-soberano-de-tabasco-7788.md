@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1975-04-02"
+last_updated: "1977-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1977.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -31,9 +31,7 @@ General Brigadier CARLOS GREENE, Gobernador Constitucional del Estado Libre y So
 
 LA H. XXVI LEGISLATURA DEL ESTADO DE TABASCO, erigida en Congreso Constituyente el día 10 de marzo último en la ciudad de Villahermosa, de conformidad con el artículo 64 de la Ley Orgánica Electoral de 23 de diciembre de 1918, expide la siguiente
 
-> <small>N. DE E. LA H. XLVIII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE TABASCO APROBO EL DECRETO No. 1361, QUE REFORMA LA PRESENTE CONSTITUCION, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO; POR TAL MOTIVO SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 2 DE ABRIL DE 1975.</small>
-
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 Constitución Política del Estado Libre y Soberano de Tabasco
 
@@ -115,11 +113,15 @@ IV.- Desempeñar los cargos que les impongan las funciones electorales y las de 
 
 V.- Las demás que las leyes señalen.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 7°.
 
 Son derechos de los ciudadanos tabasqueños, el de votar en las elecciones populares, el de ser votado para todo cargo impuesto por tales elecciones y el de ser nombrado, si se satisfacen los requisitos legales, para otros empleos o comisiones.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+Ejercer el de petición, por escrito en forma pacífica y respetuosa, a toda petición la autoridad ante quien se ejercite, dictará su proveído dentro de quince días cuando las Leyes no señalen otros términos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -375,7 +377,9 @@ Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras 
 
 Son facultades del Congreso:
 
-I.- Expedir leyes y decretos que sean necesarios para el perfeccionamiento de la democracia, considerando a ésta como estructura política, régimen jurídico y sistema de vida proyectado al constante mejoramiento económico, social y cultural del pueblo tabasqueño, que estimule un desarrollo compartido en base a los principios la justicia social;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+I.- Expedir, reformar y derogar Leyes y Decretos para la mejor administración del Estado;
 
 II.- Determinar los fundos de ciudades, villas y pueblos;
 
@@ -385,25 +389,39 @@ IV.- Legislar sobre expropiación por causa de utilidad pública;
 
 V.- Legislar sobre materia electoral con base en el sufragio universal y directo;
 
-VI.- Legislar sobre seguridad pública;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
-VII.- Delimitar conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y a través de la Ley de Hacienda del Estado, la Ley de Ingresos del Estado y la Ley de Ingresos Municipales, las fuentes de contribuciones que les corresponden al Estado y a los Municipios, las que son concurrentes, y las que siendo exclusivas del Estado deberá otorgarles participación a los Municipios y en que proporción, así como legislar sobre la integración del patrimonio del Estado y de los Municipios;
+VI.- Legislar en la forma que proceda sobre Educación, Instrucción y seguridad pública;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+VII.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; y legislar sobre la integración del patrimonio del Estado y de los Municipios;
 
 VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX.- Legislar sobre Administración de Justicia;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+IX.- Legislar sobre Administración de Justicia, Salubridad Pública Estatal y vías de comunicaciones Estatales y Municipales;
 
 X.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale, haciendo la declaración que corresponde sobre las elecciones de Gobernador del Estado, de Diputados al Congreso local y de Regidores de los Ayuntamientos y en cumplimiento de lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos, en cuanto a las elecciones de Senadores al Congreso de Unión;
 
-XI.- Autorizar al Ejecutivo para que celebre contratos con la Federación o con los demás Estados, sobre asuntos relacionados con la Administración;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
-XII.- Autorizar al Ejecutivo para celebrar empréstitos a nombre del Estado, con las limitaciones del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
+XI.- Autorizar al Ejecutivo para que celebre contratos con los demás Estados o con la Federación sobre asuntos relacionados con la Administración y aprobar o nó esos contratos;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XII.- Dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones hechas a las facultades de los Estados en el Artículo 117 de la Constitución General; aprobar esos mismos empréstitos, y reconocer y mandar a pagar la deuda del Estado contraída;
 
 XIII.- Inspeccionar la Contaduría Mayor de Hacienda, designar y remover libremente al Contador Mayor y al Oficial Mayor del Congreso y, en los términos de la Ley aplicable, a los empleados administrativos;
 
-XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación las violaciones a la Soberanía del Estado o a la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
-XV.- Decretar recompensas y honores a los que se distinguen por servicios prestados al Estado, la Patria o a la Humanidad, conforme a la ley;
+XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna Ley o acto del Gobierno Federal constituya una violación a la Soberanía del Estado o a la Constitución General de la República;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XV.- Decretar recompensas y honores a los que se distingan por servicios prestados a la Patria o a la Humanidad;
 
 XVI.- Legislar de acuerdo con las facultades concedidas por la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -411,7 +429,9 @@ XVII.- Conceder amnistías por delitos de la competencia de los Tribunales de la
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia propuestos por el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, sometidos por el Gobernador del Estado;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -419,7 +439,9 @@ XXI.- Resolver acerca de las renuncias de Gobernador, Diputados o Magistrados de
 
 XXII.- Convocar a elecciones para cubrir las vacantes definitivas de sus miembros por el período respectivo, si la falta ocurriere antes de los últimos seis meses del período constitucional;
 
-XXIII.- Convocar a elecciones extraordinarias de Ayuntamientos cuando resulte procedente según la ley;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos cuando resulte procedente según esta Constitución;
 
 XXIV.- Dirimir los conflictos entre los otros dos Poderes, siempre que aquéllos no fueren de la competencia de la Suprema Corte de Justicia de la Nación;
 
@@ -427,9 +449,13 @@ XXV.- Conocer de las acusaciones que se hagan a los Funcionarios Públicos menci
 
 XXVI.- Resolver los conflictos de límites del Estado mediante convenios amistosos, con aprobación del Congreso de la Unión;
 
-XXVII.- Citar al Secretario del ramo que corresponda, para que informe sobre algún negocio o discuta alguna ley relacionada con el Ejecutivo;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
-XXVIII.- Expedir la Ley Orgánica Municipal;
+XXVII.- Citar al Secretario del Ramo que corresponda para que informe cuando se discuta una Ley, o se estudie un negocio relativo a su Secretaría;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XXVIII.- Expedir la Ley Orgánica Municipal y las bases de policía y Buen Gobierno a que deban sujetarse los Municipios para hacer las propias;
 
 XXIX.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
 
@@ -437,21 +463,29 @@ XXX.- Recibir la protesta constitucional a los Diputados, al Gobernador y a los 
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
-XXXII.- Nombrar, en caso de que un Ayuntamiento no pueda funcionar legalmente, un Comité Administrativo constituido por tres personas que se has cargo de la Administración Municipal hasta terminar el período correspondiente;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XXXII.- Nombrar, a propuesta del Gobernador, un Consejo Municipal compuesto de tres personas, cuando debiendo renovarse un Ayuntamiento no se hubiere celebrado su elección en la fecha correspondiente, o habiendo sido elegido no se presentare oportunamente al ejercicio de sus funciones. Dicho Consejo se encargará provisionalmente de las funciones del Ayuntamiento hasta en tanto se celebren elecciones extraordinarias que deberán efectuarse en un plazo no mayor de sesenta días. Las mismas facultades se entenderán conferidas al Congreso cuando las elecciones Municipales se declaren nulas o por cualquier causa desaparecieren los Poderes del Ayuntamiento, siempre que tales situaciones se presentaren dentro del primer año de su correspondiente ejercicio, pues de suceder durante los dos últimos años del período de Gobierno Municipal, el Congreso siempre a propuesta del Gobernador, nombrará un Comité Administrativo, integrado por tres personas, el que asumirá la Administración Municipal hasta la conclusión del período de Gobierno respectivo. Por cada integrante del Comité habrá un suplente;
 
 XXXIII.- Expedir y modificar su Reglamento Interior;
 
-XXXIV.- Suspender definitivamente, por sí o a petición del Ejecutivo, previa instrucción de proceso por la Cámara, a los miembros de los Ayuntamientos cuando abusen de sus facultades, siempre que así se acuerde por el voto de las dos tercera partes de los Diputados;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XXXIV.- Suspender definitivamente por sí o a petición del Ejecutivo, previa formación de proceso a los miembros de los Ayuntamientos cuando abusen de sus facultades, siempre que así se acuerde por el voto de las dos terceras partes de los miembros de la Legislatura;
 
 XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Estado por el voto de las dos terceras partes de los miembros de la Legislatura;
 
 XXXVI.- Conceder licencia a los Diputados para separarse de su cargo hasta por dos meses con goce de dietas, o por más tiempo sin ellas;
 
-XXXVII.- Crear nuevos Municipios en los términos de esta Constitución y de la ley respectiva;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes, y decretar la erección de pueblos, Villas y ciudades;
 
 XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y
 
-XXXIX.- Expedir las leyes y decretos para hacer efectivas todas sus facultades.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores facultades y las demás concedidas por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan a su régimen interior.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -641,9 +675,21 @@ XV.- Coordinar la inversión pública estatal y municipal para los efectos de la
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
 
-XVII.- Presentar un informe por escrito el día 20 de noviembre de cada año, en el que manifieste el estado general que guarda la Administración Pública. El Presidente del Congreso dará respuesta a dicho informe; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
-XVIII.- Las demás que le confiere esta Constitución.
+XVII.- Presentar un informe escrito al Congreso del Estado, el día 14 de Diciembre de cada año de su ejercicio Constitucional, en el q. (sic) manifieste el estado general que guarde la Administración Pública del Estado, informe que contestará en el mismo acto el Presidente del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XVIII.- Acordar que concurran a las sesiones de la Legislatura el Secretario del ramo que corresponda, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XIX.- Pedir la protección de los Poderes de la Unión, en caso de sublevación o trastorno interior;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 1977)</small>
+
+XX.- Las demás que le confiera esta Constitución y la Federal.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -721,11 +767,13 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, rendirán ante el Congreso o ante la Comisión Permanente la protesta siguiente: - Presidente: - ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Sí protesto". - Presidente: "si no lo hiciereis así, que la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 1977)</small>
 
 ###### ARTICULO 59.
 
-Será Presidente del Tribunal, el Magistrado propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado y sus faltas temporales serán suplidas por otro Magistrado propietario designado en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 15 de diciembre de cada año y rendirá ante la representación popular un informe escrito acerca de la situación que guarda la Administración de Justicia en el Estado. El Presidente del Congreso contestará el documento antes citado.
+Será Presidente del Tribunal, el Magistrado Propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales serán suplidas por otro Magistrado Propietario designado en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 19 de Diciembre de cada año y rendirá ante la representación popular un informe escrito acerca de la situación que guarda la Administración de Justicia en el Estado, informe que contestará en el mismo acto el Presidente del Congreso.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 Las faltas temporales de los Magistrados propietarios serán cubiertas por el suplente que designe el Tribunal. Igual procedimiento se seguirá para cubrir las absolutas, entretanto se designa al propietario que deba cubrir la vacante.
 
@@ -755,7 +803,9 @@ La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el 
 
 La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia y los Jueces, no podrá ser disminuido durante su encargo.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, pero podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el procedimiento señalado en la fracción IX del Artículo 51.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+El Tribunal Superior de Justicia se renovará cada seis años, plazo que se computará a partir de la fecha de su instalación, pero sí por cualquier circunstancia no se renovare una vez transcurrido dicho período, continuarán ejerciendo las funciones judiciales los Magistrados que lo venían integrando, hasta que fueren ratificados o substituídos. Los Magistrados podrán ser designados para nuevos períodos inmediatos o posteriores, pero en cualquier tiempo podrán ser removidos cuando observaren mala conducta de acuerdo con el procedimiento de la Fracción IX del Artículo 51.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -801,7 +851,9 @@ La Ley Orgánica Municipal se sujetará a las bases siguientes:
 
 I.- Los Municipios formarán su Hacienda de las contribuciones que señale la Legislatura del Estado y que serán suficientes para atender sus necesidades;
 
-II.- Los Ayuntamientos enviarán al Congreso durante el primer mes del segundo período de sesiones, su proyecto de presupuesto de egresos y ley de ingresos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+II.- Los Ayuntamientos enviarán al Congreso, por conducto del Ejecutivo, durante el Primer mes del segundo período de sesiones, sus proyectos de presupuesto de egresos y Ley de Ingresos;
 
 III.- Los Ayuntamientos presentaran a la Legislatura, en el primer período de sesiones de ésta, sus cuentas anuales para su revisión y aprobación, en su caso;
 
@@ -818,8 +870,6 @@ VIII.- En las rancherías y en los centros de población exceptuando la Cabecera
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO I.
 
@@ -877,11 +927,11 @@ Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede con
 
 La responsabilidad por delitos y faltas oficiales sólo exigirse durante el período en que el Funcionario ejerza su encargo y hasta un año después.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1977)</small>
 
 ###### ARTICULO 72.
 
-En demandas del orden civil no hay fuero ni inmunidad para ningún Funcionario Público.
+En demanda del orden civil no hay fuero ni inmunidad para ningún Funcionario Público, pero no podrá decretarse ninguna providencia de arraigo en su contra.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -906,6 +956,10 @@ PREVENCIONES GENERALES.
 ###### ARTICULO 74.
 
 Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección popular, pero el electo puede aceptar el que prefiera.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 1977)</small>
+
+Todo funcionario y empleado público del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -959,8 +1013,6 @@ Si la desaparición de poderes ocurriese en los cuatro últimos años de un per�
 
 La ciudad de Villahermosa es la Capital del Estado y la residencia de los Poderes del mismo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ## Título Duodécimo.
 
 REFORMA A LA CONSTITUCION.
@@ -970,8 +1022,6 @@ REFORMA A LA CONSTITUCION.
 ###### ARTICULO 83.
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a formar parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, acuerde las referidas reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 84.
 
@@ -1216,3 +1266,13 @@ P.O. 2 DE ABRIL DE 1975.
 PRIMERO.- Estas reformas han sido aprobadas, en los términos del artículo 151 de la Constitución vigente, por las autoridades que presiden cada uno de los 17 Municipios integrantes del Estado, respectivamente. Entrarán, en consecuencia, en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Toda norma que de cualquier manera se oponga a estas reformas Constitucionales quedará derogada a partir de la vigencia de las mismas.
+
+P.O. 22 DE OCTUBRE DE 1977.
+
+PRIMERO.- Es numeral vigente de ésta Constitución el señalado en las Reformas publicadas en el Suplemento del Periódico Oficial del Estado número 3395 de fecha 2 de Abril del año de 1975, con las Reformas y adiciones que contiene el presente Decreto.
+
+SEGUNDO.- Estas reformas y adiciones, han sido aprobadas en los términos del Artículo 83 de la Constitución Política del Estado, por la mayoría de las Autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
+
+TERCERO.- Toda norma que de cualquier manera se oponga a estas reformas y adiciones Constitucionales quedarán derogadas a partir de la vigencia de las mismas.
+
+CUARTO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
