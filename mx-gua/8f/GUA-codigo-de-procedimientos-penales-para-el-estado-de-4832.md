@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1988-10-07"
+last_updated: "1990-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1990.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -459,7 +459,13 @@ Términos.
 
 Los términos son improrrogables y empezarán a correr desde el día siguiente al de la fecha de la notificación, salvo los casos que este Código señale expresamente.
 
-No se incluirán en los términos los domingos ni los días inhábiles, a no ser que se trate de poner al inculpado a disposición de los tribunales, de tomarle su declaración preparatoria, o de resolver la procedencia de su formal prisión o libertad.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE AGOSTO DE 1990)</small>
+
+No se incluirán en los términos los domingos ni los días inhábiles, a no ser que se trate de poner al inculpado a disposición de los Tribunales, de tomarle su declaración preparatoria, o de resolver la procedencia de su formal prisión, sujeción a proceso o libertad.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1990)</small>
+
+El término para dictar libertad, formal prisión o sujeción a proceso, se duplicará cuando expresamente lo solicite el inculpado o su defensor, con el objeto de que recabe, dentro de ese plazo, los elementos que deba someter al conocimiento del Juez para que éste resuelva sobre su situación jurídica.
 
 ###### Art. 66.
 
@@ -3568,6 +3574,12 @@ P.O. 20 DE SEPTIEMBRE DE 1988.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 7 DE OCTUBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE AGOSTO DE 1990.
 
 ###### ARTICULO UNICO.
 
