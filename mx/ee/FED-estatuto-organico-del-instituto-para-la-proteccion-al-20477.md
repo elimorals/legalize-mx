@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-20477"
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-04-11"
-last_updated: "2001-04-11"
+last_updated: "2002-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-10-02"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION DEL AHORRO BANCARIO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 14 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación el miércoles 11 de abril de 2001.
 
@@ -1880,3 +1882,11 @@ Las ausencias temporales de los titulares de las unidades administrativas del In
 UNICO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario publicado el 4 de octubre de 1999 en el Diario Oficial de la Federación.
 
 México, D.F., a 2 de octubre de 2000.- El Secretario Ejecutivo, Julio César Méndez Rubio.- Rúbrica.- El Prosecretario de la Junta de Gobierno, Luis García Vallarta Zepeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 14 DE JUNIO DE 2002.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 11 de abril de 2001 en el Diario Oficial de la Federación.
