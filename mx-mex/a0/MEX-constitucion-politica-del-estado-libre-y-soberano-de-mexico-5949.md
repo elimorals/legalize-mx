@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1947-12-31"
+last_updated: "1948-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE SEPTIEMBRE DE 1948.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -777,7 +777,7 @@ VII. Presentar a la Legislatura, al terminar su período Constitucional, una mem
 
 VIII. Informar a la Legislatura por escrito, o verbalmente por conducto del Secretario de Gobierno o del Oficial Mayor en su caso, sobre cualquier ramo de la Administración, cuando la misma Legislatura lo solicite;
 
-IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
+IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa su exacta observancia;
 
 X. Formar los reglamentos que juzgue necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
 
@@ -1137,11 +1137,11 @@ La Ley Electoral y el Reglamento respectivo, determinarán el funcionamiento de 
 
 Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1948)</small>
 
 ###### Art. 140.
 
-Para ser miembro de un Ayuntamiento, será indispensable ser originario del Estado, en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva en el municipio para el que fuere electo, no menor de dos años antes de la fecha de la elección.
+Para ser miembro de un Ayuntamiento será indispensable ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos y con vecindad efectiva en el Municipio para el que fuere electo no menor de dos años antes de la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
@@ -1451,7 +1451,7 @@ VII. Los patrones de las empresas a que se refiere la fracción anterior, son re
 
 a. El cónyuge supérstite, no divorciado o separado legalmente, mientras permanezca viudo, percibirá a título de pensión alimenticia, hasta su fallecimiento o por el tiempo de vida probable del trabajador, el veinticinco por ciento del producto del salario de éste;
 
-b. Si concurren cónyuge e hijos legítimos, legitimados o naturales reconocidos, éstos percibirán a título de pensión alimenticia, por todo el tiempo de vida probable del cónyuge finado o hasta llegar a los dieciséis años, la pensión alimenticia estimada como sigue: si fuere un solo hijo menor percibirá el quince por ciento; el veinticinco por ciento si fueren dos, el treinta y cinco por ciento para tres, y el cuarenta por ciento para mayor número, sin perjuicio de la pensión que corresponde al cónyuge supérstite.
+b. Si concurren cónyuge e hijos legitímos, legitimados o naturales reconocidos, éstos percibirán a título de pensión alimenticia, por todo el tiempo de vida probable del cónyuge finado o hasta llegar a los dieciséis años, la pensión alimenticia estimada como sigue: si fuere un solo hijo menor percibirá el quince por ciento; el veinticinco por ciento si fueren dos, el treinta y cinco por ciento para tres, y el cuarenta por ciento para mayor número, sin perjuicio de la pensión que corresponde al cónyuge supérstite.
 
 c. Si sólo existieren hijos menores legítimos, legitimados o naturales reconocidos, la pensión alimenticia, en los términos de la fracción anterior, será de veinte por ciento, si fuere un solo hijo, treinta por ciento si fueren dos, cuarenta por ciento si fueren tres, y cincuenta por ciento si fueren más de tres;
 
@@ -1970,5 +1970,9 @@ Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, termi
 G.G. 31 DE DICIEMBRE DE 1947.
 
 DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 15 DE SEPTIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
