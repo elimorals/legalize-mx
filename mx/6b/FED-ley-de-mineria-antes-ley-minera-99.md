@@ -4,7 +4,7 @@ identifier: "FED-ley-de-mineria-antes-ley-minera-99"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-26"
-last_updated: "1992-06-26"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-24"
 
 LEY MINERA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de junio de 1992.
 
@@ -39,9 +39,11 @@ L E Y M I N E R A
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-La presente Ley es reglamentaria del artículo 27 Constitucional en materia minera y sus disposiciones son de orden público y de observación en toda la República. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Energía, Minas e Industria Paraestatal, a quien en lo sucesivo se le denominará la Secretaría.
+###### ARTICULO 1°.
+
+La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Comercio y Fomento Industrial, a quien en lo sucesivo se le denominará la Secretaría.
 
 ###### ARTICULO 2º.
 
@@ -157,7 +159,9 @@ IV.- Identificar y promover ante las autoridades competentes la ejecución de ob
 
 V.- Aportar elementos de juicio a la Secretaría en relación con los minerales o sustancias que deban determinarse como concesibles y sobre las zonas por incorporar o desincorporar de reservas mineras;
 
-VI.- Auxiliar a la Secretaría en los concursos que se celebren para el otorgamiento de concesiones mineras sobre terreno amparado por asignaciones que se cancelen o zonas de reservas mineras cuya desincorporación se decrete;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+VI.- Auxiliar a la Secretaría en los concursos a que se refiere esta Ley;
 
 VII.- Actuar como órgano de consulta de la Secretaría en los peritajes en que ésta intervenga;
 
@@ -175,7 +179,9 @@ XIII.- Desarrollar, introducir y adaptar nuevas tecnologías, a fin de mejorar l
 
 XIV.- Realizar las actividades que le confieren expresamente otras leyes.
 
-La administración del Consejo de Recursos Minerales estará a cargo de un Consejo Directivo integrado por las dependencias y los organismos representativos de la rama que determine el Reglamento de esta Ley. Su patrimonio se integrará con las aportaciones del Gobierno Federal que anualmente determine el Presupuesto de Egresos de la Federación, las primas por descubrimiento que señala la presente Ley, los ingresos por los servicios que proporcione y los bienes que adquiera por cualquier otro título.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La administración del Consejo de Recursos Minerales estará a cargo de un consejo directivo integrado por las dependencias y los organismos representativos de la rama que determine el Reglamento de esta Ley. Su patrimonio se constituirá con las aportaciones del Gobierno Federal, las primas por descubrimiento y las contraprestaciones económicas que provengan de los concursos a que se refiere esta Ley, los ingresos por los servicios que proporcione y los bienes que adquiera por cualquier otro título.
 
 ### CAPITULO SEGUNDO
 
@@ -201,7 +207,7 @@ II.- Que tengan su domicilio legal en la República Mexicana, y
 
 III.- En las que la participación de inversionistas extranjeros, en su caso, se ajuste a las disposiciones de la ley de la materia.
 
-Las instituciones de crédito constituidas conforme a las leyes mexicanas podrán, en su carácter de fiduciarias, suscribir o adquirir acciones o partes sociales de sociedades capacitadas legalmente para obtener concesiones, de acuerdo con las condiciones que determine el Reglamento de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 12.
 
@@ -217,29 +223,59 @@ La liga del punto de partida será perpendicular preferentemente a cualquiera de
 
 Las concesiones de exploración y las asignaciones mineras se otorgarán sobre terreno libre al primer solicitante en tiempo de un lote minero, siempre que se cumplan las condiciones y requisitos que establecen la presente Ley y su Reglamento.
 
-Asimismo, podrán otorgarse concesiones de exploración a las personas que ofrezcan las mejores condiciones técnicas y económicas con respecto a las bases que, atendiendo al interés público, fije la Secretaría para los concursos que al efecto convoque sobre terreno comprendido por:
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-I.- Las zonas marinas mexicanas, los zócalos submarinos de islas, cayos y arrecifes, el lecho marino y el subsuelo de la zona económica exclusiva, y
+Las concesiones de exploración en las zonas marinas mexicanas a que se refiere el Artículo 3o. de la Ley Federal del Mar, se deberán otorgar por concurso.
 
-II.- Asignaciones que se cancelen o zonas de reservas mineras cuya desincorporación se decrete, previamente a la declaratoria de libertad del terreno respectiva.
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+En el caso de asignaciones que se cancelen o de las zonas de reservas mineras cuya desincorporación se decrete, las concesiones de exploración se podrán otorgar mediante concurso, antes de que se declare la libertad del terreno.
 
 Solamente podrán incorporarse a reservas mineras zonas cuya exploración haya sido realizada previamente por el Consejo de Recursos Minerales mediante asignación, se justifique su incorporación con base en el potencial minero de la zona, determinado mediante obras y trabajos de exploración a semidetalle, y se acredite la causa de utilidad pública o se trate de minerales o sustancias considerados dentro de las áreas estratégicas a cargo del Estado.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 13 A.- Los concursos mediante los cuales se otorguen las concesiones a que se refiere el artículo anterior deberán garantizar las mejores condiciones económicas para el Estado, y se realizarán conforme a lo siguiente:
+
+I.- La Secretaría publicará la convocatoria por lo menos en el Diario Oficial de la Federación;
+
+II.- Las bases del concurso incluirán, como mínimo:
+
+a) La descripción de los terrenos o zonas de que se trate, los estudios realizados sobre los mismos, así como los planos de su localización, geológicos y de muestreo;
+
+b) Los requisitos con los que los participantes acreditarán su capacidad jurídica, técnica y económica, y
+
+c) La modalidad para la presentación de las propuestas de contraprestación económica y prima por descubrimiento, que podrá ser en sobre cerrado o alguna otra que se determine, y
+
+III.- Las concesiones se otorgarán a quien acredite el cumplimiento de los requisitos que se prevean en las bases y presente la mejor propuesta económica, para lo que se tomará en consideración, exclusivamente, la contraprestación económica y prima por descubrimiento ofrecidas.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 14.
 
-Se considera terreno libre el comprendido dentro del territorio nacional, con excepción del ubicado o amparado por:
+Se considera terreno libre el comprendido dentro del territorio nacional, con excepción del ubicado en o amparado por:
 
-I.- Las zonas marinas mexicanas, los zócalos submarinos de islas, cayos y arrecifes, el lecho submarino y el subsuelo de la zona económica exclusiva;
+I.- Zonas marinas mexicanas a que se refiere el Artículo 3o. de la Ley Federal del Mar;
 
-II.- Las zonas incorporadas a reservas mineras;
+II.- Zonas incorporadas a reservas mineras;
 
-III.- Las concesiones y asignaciones mineras vigentes, y
+III.- Concesiones y asignaciones mineras vigentes;
 
-IV.- Las solicitudes de concesión y asignación mineras en trámite.
+IV.- Solicitudes de concesiones y asignaciones mineras en trámite;
 
-Cuando se desincorporen zonas de reservas mineras, se cancelen concesiones y asignaciones y se desaprueben o sean objeto de desistimiento solicitudes de las mismas, el terreno amparado se considerará libre 30 días naturales después de la fecha de publicación de la declaratoria de libertad del terreno correspondiente.
+V.- Concesiones que se hayan otorgado mediante concurso y que, posteriormente, sean canceladas;
 
-En los casos de cancelación de concesiones y asignaciones por sustitución, solamente se considerará libre la porción del terreno que se abandone.
+VI.- Concesiones que hayan sustituido a concesiones otorgadas previamente mediante concurso, y posteriormente sean canceladas, y
+
+VII.- Los lotes respecto de los que no se hubieran otorgado concesiones de exploración por haberse declarado desierto el concurso respectivo.
+
+En los supuestos de las fracciones V, VI y VII, la Secretaría dispondrá de un plazo de noventa días naturales contados a partir del día siguiente a aquél en que surta efectos la notificación de la cancelación de la concesión o la resolución que declaró desierto el concurso, para publicar en el Diario Oficial de la Federación, la resolución que determine la celebración de un nuevo concurso en la totalidad o en parte de los terrenos, o la declaratoria de libertad de los mismos, salvo que se trate de zonas marinas mexicanas, en cuyo supuesto sólo procederá resolver la celebración o no de un nuevo concurso.
+
+En los demás casos en que se cancelen concesiones, así como cuando se desaprueben o sean objeto de desistimiento solicitudes de concesiones o asignaciones, la Secretaría, dentro de los quince días naturales siguientes a aquél en que surta efectos la notificación respectiva, publicará en el Diario Oficial de la Federación la declaratoria de libertad del terreno correspondiente.
+
+Los terrenos serán libres a los treinta días naturales de que se publique la declaratoria de libertad de los mismos.
+
+Cuando se cancelen concesiones y asignaciones por sustitución, solamente se liberará, en su caso, la porción del terreno que se abandone.
 
 ###### ARTICULO 15.
 
@@ -263,7 +299,9 @@ El Consejo de Recursos Minerales, antes del término de la vigencia de cada asig
 
 I.- La cancelación de la asignación y la consiguiente libertad del terreno;
 
-II.- La cancelación de la asignación y la celebración del concurso para continuar los trabajos de exploración en la totalidad o parte del terreno amparado, así como la libertad del terreno que en su caso se abandone, o
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+II.- La cancelación de la asignación y la celebración del o de los concursos para continuar los trabajos de exploración en la totalidad o parte del terreno, así como la libertad del terreno que en su caso se abandone, o
 
 III.- La cancelación de la asignación y la incorporación a reservas mineras de la totalidad o parte del terreno amparado, al igual que la libertad del que en su caso se abandone.
 
@@ -315,9 +353,11 @@ XI.- Solicitar correcciones administrativas o duplicados de sus títulos, y
 
 XII.- Sustituir las concesiones de exploración por una o más concesiones de explotación y obtener prórroga de estas últimas por igual término de vigencia, de acuerdo con lo previsto por el artículo 15 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 20.
 
-Las obras y trabajos de exploración y de explotación en terrenos amparados por asignaciones petroleras sólo podrán ejecutarse con autorización de la Secretaría, la que solicitará opinión a Petróleos Mexicanos para fijar las condiciones técnicas a que deban sujetarse los mismos.
+Las obras y trabajos de exploración y de explotación en terrenos amparados por asignaciones petroleras sólo podrán ejecutarse con autorización de la Secretaría, la que solicitará opinión a la Secretaría de Energía para fijar las condiciones técnicas a que deban sujetarse los mismos.
 
 Las obras y trabajos de exploración y de explotación dentro de poblaciones, presas, canales, vías generales de comunicación y otras obras públicas, al igual que dentro de la zona federal marítimo-terrestre y las áreas naturales protegidas, únicamente podrán realizarse con autorización de la autoridad que tenga a su cargo los referidos bienes, zona o áreas, en los términos que señalen las disposiciones aplicables.
 
@@ -369,7 +409,9 @@ IV.- Desistirse de las mismas o de los derechos que de ellas deriven.
 
 Las asignaciones serán intransmisibles y no podrán ser objeto de gravamen alguno.
 
-### CAPITULO CUARTO. De las Obligaciones que Imponen las Concesiones y Asignaciones Mineras y el Beneficio de Minerales
+### CAPITULO CUARTO. De las Obligaciones que Imponen las Concesiones y Asignaciones Mineras
+
+y el Beneficio de Minerales
 
 ###### ARTICULO 27.
 
@@ -377,7 +419,9 @@ Los titulares de concesiones de exploración y de explotación, independientemen
 
 I.- Ejecutar y comprobar respectivamente las obras y trabajos de exploración o de explotación en los términos y condiciones que establecen esta Ley y su Reglamento;
 
-II.- Pagar los derechos sobre minería que establece la ley de la materia, así como presentar a la Secretaría el comprobante de pago de dichos derechos;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+II.- Pagar los derechos sobre minería que establece la ley de la materia;
 
 III.- Dar aviso de inmediato a la Secretaría de los minerales radiactivos que descubran en el desarrollo de las obras y trabajos de exploración, explotación o beneficio;
 
@@ -391,9 +435,13 @@ VII.- Rendir a la Secretaría los informes estadísticos, técnicos y contables 
 
 VIII.- Permitir al personal comisionado por la Secretaría la práctica de visitas de inspección.
 
-Los titulares de concesiones de exploración o de aquéllas que las sustituyan otorgadas mediante concurso sobre terreno amparado por asignaciones que se cancelen o por zonas de reservas mineras cuya desincorporación se decrete, adicionalmente estarán obligados a cubrir al Consejo de Recursos Minerales la prima por descubrimiento que haya sido propuesta en oferta.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-Cuando se transmitan los derechos derivados de una concesión, las obligaciones a que aluden las fracciones III a VIII anteriores estarán a cargo del adquirente.
+Los titulares de concesiones de exploración otorgadas mediante concurso o de aquéllas que las sustituyan estarán obligados a cubrir, adicionalmente, la prima por descubrimiento y la contraprestación económica ofrecidas.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Cuando se transmitan los derechos derivados de una concesión, las obligaciones a las que se hace mención en este artículo estarán a cargo del adquirente, sin perjuicio de lo dispuesto en el párrafo tercero del artículo 23 de esta Ley.
 
 ###### ARTICULO 28.
 
@@ -459,21 +507,23 @@ Cuando la cotización o demanda de un mineral sufra disminuciones que ocasionen 
 
 La superficie que se pretenda liberar o abandonar con motivo del desistimiento o reducción de una concesión no causará los derechos sobre minería a partir de la fecha de presentación del escrito correspondiente, siempre y cuando dichas solicitudes sean resueltas favorablemente por la Secretaría. En caso de ser desaprobadas, se deberán cubrir los derechos omitidos, con la actualización y recargos que determinen las disposiciones fiscales.
 
-Si no se satisfacen las condiciones y requisitos que determinan esta Ley y su Reglamento para la aprobación de los desistimientos y las solicitudes de reducción, la Secretaría emplazará al solicitante, por una sola vez, para que los satisfaga dentro de un plazo de 30 días naturales; y de no hacerlo en dicho plazo se tendrá por no presentada su solicitud.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-La Secretaría dispondrá de un plazo de 180 días naturales, a partir del vencimiento del plazo a que alude el párrafo anterior, para desaprobar el desistimiento o solicitud de reducción, cuando no se satisfagan las condiciones y requisitos establecidos.
+La Secretaría dispondrá de veinte días naturales para desaprobar el desistimiento o solicitud de reducción, cuando no se satisfagan las condiciones y requisitos establecidos en esta Ley y su Reglamento.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 34.
 
-Los titulares de concesiones de explotación o quienes lleven a cabo estos trabajos mediante contrato deberán designar como responsable del cumplimiento de las normas de seguridad en las minas a un ingeniero legalmente autorizado para ejercer. La designación del responsable deberá comunicarse a la Secretaría.
+Los titulares de concesiones de explotación o quienes lleven a cabo estos trabajos mediante contrato, deberán designar como responsable del cumplimiento de las normas de seguridad en las minas a un ingeniero legalmente autorizado para ejercer.
 
-El responsable deberá dedicarse fundamentalmente a verificar el cumplimiento de dichas normas, constatar se tomen las medidas necesarias para prevenir accidentes y notificar de inmediato aquéllas que no se adopten tanto al titular de la concesión de explotación o a quien lleve a cabo estos trabajos y a la Secretaría.
+El responsable deberá dedicarse fundamentalmente a verificar el cumplimiento de dichas normas, cerciorarse de que se tomen las medidas necesarias para prevenir accidentes y notificar de inmediato aquéllas que no se hayan adoptado, al titular de la concesión de explotación o a quien lleve a cabo estos trabajos.
 
 ###### ARTICULO 35.
 
-La prima por descubrimiento que se ofrezca en los concursos a que aluden los artículos 16 y 17 de la presente Ley no podrá ser inferior al 1% ni superior al 3% del valor de facturación o liquidación de los minerales que se obtengan durante la vigencia de las concesiones de exploración o de aquéllas que la sustituyan.
-
-Los pagos por dicho concepto se harán en períodos que no rebasen los seis meses y dentro de los treinta días naturales siguientes a su vencimiento.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 36.
 
@@ -603,7 +653,7 @@ VI.- Los actos o contratos relativos a la transmisión de la titularidad de conc
 
 VII.- Las sociedades titulares de concesiones mineras, al igual que su disolución, liquidación y las modificaciones a los estatutos de dichas sociedades que determine el Reglamento de la misma;
 
-VIII.- Las suscripciones o adquisiciones de acciones o partes sociales por parte de instituciones de crédito, en su carácter de fiduciarias;
+VIII.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 IX.- Los avisos notariales preventivos con motivo de la celebración de contratos;
 
@@ -681,7 +731,9 @@ III.- Dejar de cubrir los derechos sobre minería;
 
 IV.- Disponer de los minerales radiactivos que se descubran en el desarrollo de las obras y trabajos de exploración, explotación o beneficio;
 
-V.- No pagar la prima por descubrimiento a que se refiere el artículo 27, párrafo segundo, de esta Ley;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+V.- No cumplir con los pagos por concepto de la prima por descubrimiento o de la contraprestación económica que, en su caso, corresponda cubrir;
 
 VI.- No sujetar las obras y trabajos de exploración o de explotación en terrenos amparados por asignaciones petroleras a las condiciones técnicas que fije la Secretaría;
 
@@ -721,9 +773,13 @@ IV.- Impedir u obstaculizar las visitas de inspección que practique el personal
 
 V.- No concurrir por sí o debidamente representado a las visitas de inspección que practique la Secretaría, sin que medie causa justificada;
 
-VI.- No comunicar a la Secretaría la designación del responsable del cumplimiento de las normas de seguridad en las minas o encomendarle actividades que le impidan el desarrollo de sus funciones propias;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-VII.- Omitir la notificación a la Secretaría prevista por el Artículo 34, párrafo segundo de esta Ley, sobre las medidas necesarias para prevenir accidentes que no se adopten, cuando pongan en peligro la vida o integridad física de los trabajadores o de los miembros de la comunidad;
+VI.- No designar al ingeniero responsable del cumplimiento de las normas de seguridad en las minas o encomendarle actividades que le impidan el desarrollo de sus funciones propias;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+VII.- Omitir la notificación prevista en el artículo 34, párrafo segundo, de esta Ley, sobre las medidas necesarias para prevenir accidentes que no se adopten, cuando pongan en peligro la vida o integridad física de los trabajadores o de los miembros de la comunidad, o bien, no tomar las medidas procedentes, en caso de haberse recibido tal notificación;
 
 VIII.- No dar aviso a la Secretaría del inicio de operaciones de beneficio;
 
@@ -808,3 +864,11 @@ DECIMO SEGUNDO.- La primera comprobación de obras y trabajos de exploración y 
 México, D.F., a 17 de junio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- Sen. Manuel Aguilera Gómez, Presidente.- Dip. Jaime Rodríguez Calderón, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
