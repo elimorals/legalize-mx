@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1971-12-25"
+last_updated: "1974-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1974.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -535,7 +535,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -965,9 +965,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 1974)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los ramos de la Administración Pública cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta en sesión pública extraordinaria del Congreso, el día 4 de febrero de cada año.
+XXXIII.- Concurrir a la apertura de los períodos de Sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un Informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso el día 4 de Febrero de cada año, en la inteligencia de que el informe correspondiente al 4 de febrero de 1974 deberá rendirlo el domingo 3 de febrero del propio año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1926,3 +1926,9 @@ P.O. 25 DE DICIEMBRE DE 1971.
 PRIMERO.- Los Artículos 5, 6, 7 y 8 del Decreto 121, publicado en el Periódico Oficial del Estado de 15 de diciembre de 1928, que contiene el Reglamento Interior para el Gobierno del Congreso; así como el Artículo 93 de la Ley Electoral del Estado, se sujetarán a lo dispuesto por las anteriores reformas.
 
 SEGUNDO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 1974.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente modificación a la Constitución Política, tendrá vigor por una sola vez, por lo que rendido el Informe y pasadas las fechas que menciona, seguirá en vigor el texto anterior.
