@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1993-01-29"
+last_updated: "1994-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1994.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -59,11 +59,15 @@ Art. 4º El territorio del Estado de Sinaloa es el que posee actualmente y el qu
 
 Art. 5º Son sinaloenses los mexicanos nacidos en el Estado de Sinaloa, y los residentes en él por más de dos años consecutivos.
 
-Art. 6º Son obligaciones del sinaloense:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
+
+Art. 6º Son obligaciones del Sinaloense:
 
 I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
 
-II. Instruirse y cuidar de que sus hijos y pupilos menores de quince años, concurran a las escuelas oficiales o particulares, para recibir la enseñanza primaria elemental, de conformidad con las leyes respectivas.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1994)</small>
+
+II. Instruirse y cuidar de que sus hijos y pupilos menores de quince años, concurran a las escuelas oficiales o particulares para recibir la enseñanza primaria y secundaria, de conformidad con las leyes respectivas.
 
 III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
 
@@ -1017,11 +1021,11 @@ La educación que se imparta en el Estado se regirá por la filosofía y princip
 
 Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
 
 ###### Art. 91.
 
-Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación primaria será, además, obligatoria.
+Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación primaria y la secundaria serán además obligatorias.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -2482,6 +2486,12 @@ El presente Decreto surtirá sus efectos a partir de la fecha de su publicación
 ###### ARTICULO SEGUNDO.
 
 El Congreso del Estado dispondrá de un término de 45 (cuarenta y cinco) días siguientes a la entrada en vigor de este Decreto, para expedir la Ley Orgánica respectiva.
+
+P.O. 9 DE FEBRERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTICULO PRIMERO.
 
