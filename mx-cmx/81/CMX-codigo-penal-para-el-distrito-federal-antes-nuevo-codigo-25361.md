@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-09-13"
+last_updated: "2004-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1234,9 +1234,17 @@ Este delito se perseguirá por querella.
 
 Al que prive de la libertad a otro con el propósito de obtener rescate, algún beneficio económico, causar daño o perjuicio a la persona privada de la libertad o a cualquiera otra, se le impondrán de diez a cuarenta años de prisión y de cien a mil días multa.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+ARTÍCULO 163 BIS. Comete el delito de privación de la libertad en su modalidad de secuestro express, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 220 y 236 de este Código o para obtener algún beneficio económico.
+
+Se le impondrá de siete a veinte años de prisión y de cien a mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 164.
 
-Se impondrán de quince a cuarenta años de prisión y de doscientos a mil quinientos días multa, si en la privación de la libertad a que se hace referencia en el artículo anterior, concurre cualquiera de las circunstancias siguientes:
+Se impondrán de quince a cuarenta años de prisión y de doscientos a mil quinientos días multa, si en la privación de la libertad a que se hace referencia en los dos artículos anteriores, concurre cualquiera de las circunstancias siguientes:
 
 I. Que se realice en un domicilio particular, lugar de trabajo o a bordo de un vehículo;
 
@@ -1247,6 +1255,14 @@ III. Que quienes lo lleven a cabo actúen en grupo;
 IV. Que se realice con violencia, o aprovechando la confianza depositada en él o los autores; o
 
 V. Que la víctima sea menor de edad o mayor de sesenta años, o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad.
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+VI. Que el sujeto activo utilice para delinquir a una o más personas menores de edad o que no tengan la capacidad para comprender el significado del hecho; o
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+VII. Que se cause un daño o alteración a la salud de la víctima conforme a lo previsto en el artículo 130 de este Código, sin perjuicio de la aplicación de las reglas del concurso para la imposición de sanciones.
 
 Si se libera espontáneamente al secuestrado, dentro de las veinticuatro horas siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo anterior, las penas serán de una quinta parte.
 
@@ -1259,6 +1275,18 @@ Si el secuestrado es privado de la vida por su o sus secuestradores, para la imp
 ###### ARTÍCULO 166.
 
 Se impondrán las mismas penas señaladas en los artículos anteriores, cuando la privación de la libertad se efectúe para trasladar fuera del territorio del Distrito Federal, a un menor de edad o a quien por cualquier causa no tenga capacidad de comprender o resistir la conducta, con el propósito de obtener un lucro por su venta o entrega.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+ARTÍCULO 166 BIS. Se impondrá de uno a ocho años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas en este capítulo y fuera de las causas de exclusión del delito previstas por la ley:
+
+I. Actúe como asesor o intermediario en las negociaciones del rescate, con fines lucrativos o sin el consentimiento de quienes representen o gestionen a favor de la víctima;
+
+II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades; o
+
+IV. Intimide a la víctima, a sus familiares o a sus representantes, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
 ###### ARTÍCULO 167.
 
@@ -1806,7 +1834,9 @@ III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días 
 
 IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientos cincuenta veces el salario mínimo.
 
-Para determinar la cuantía del robo, se atenderá únicamente al valor de cambio que tenga la cosa en el momento del apoderamiento.
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Para determinar la cuantía del robo, se atenderá únicamente al valor de mercado que tenga la cosa en el momento del apoderamiento.
 
 ###### ARTÍCULO 221.
 
@@ -1984,11 +2014,11 @@ XIV. Para obtener algún beneficio para sí o para un tercero, por cualquier med
 
 XV. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 232.
 
-Las mismas sanciones del artículo 230 de este Código, se impondrán a quien, por los medios descritos en el primer párrafo de dicho artículo o mediante alguna de las conductas previstas en él, cause a otro un perjuicio patrimonial, aunque el agente no obtenga una cosa o un lucro para sí o para otro.
+A quien por medio del engaño o aprovechando el error en que otro se halle le cause perjuicio patrimonial, se le impondrán de cuatro meses a dos años seis meses de prisión y de setenta y cinco a doscientos días multa.
 
 ###### ARTÍCULO 233.
 
@@ -2202,17 +2232,49 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 254.
 
-Cuando tres o más personas se organicen para cometer de forma permanente o reiterada alguno de los delitos siguientes: ataques a la paz pública, secuestro, tráfico de menores, sustracción o retención de menores e incapaces, corrupción de menores e incapaces, pornografía infantil, lenocinio, robo de conformidad con el artículo 224, fracción VIII de este Código, o extorsión, se les impondrán de seis a doce años de prisión y de doscientos a mil días multa, sin perjuicio de las penas que resulten por los delitos cometidos por los miembros de la organización delictiva.
+Cuando tres o más personas se organicen o acuerden organizarse de forma permanente o reiterada para cometer alguno o algunos de los delitos siguientes, se les impondrá de cuatro a diez años de prisión y de doscientos hasta mil días multa, sin perjuicio de las penas que correspondan por el delito o delitos que se cometan:
+
+I. Ataques a la paz pública; de conformidad con lo establecido por el artículo 362 de este Código;
+
+II. Corrupción de menores e incapaces, de acuerdo con los artículos 183, párrafos primero, segundo y tercero, y 186 de este Código;
+
+III. Extorsión, conforme al contenido del primer párrafo del artículo 236 de este Código;
+
+IV. Falsificación de documentos públicos, de acuerdo con el primer párrafo del artículo 339 de este Código;
+
+V. Homicidio, de conformidad con el artículo 128 de este Código;
+
+VI. Lenocinio, previsto en el artículo 189 de este Código;
+
+VII. Operaciones con recursos de procedencia ilícita, de conformidad con el párrafo primero del artículo 250 de este Código;
+
+VIII. Pornografía infantil, establecido en el artículo 187 de este Código;
+
+IX. Privación de la libertad personal, en concordancia con lo previsto por los artículos 160 y 161 de este Código;
+
+X. Retención y sustracción de menores e incapaces, de conformidad con el artículo 171 de este Código;
+
+XI. Robo de conformidad con el artículo 224, hipótesis primera, fracción VIII de este Código;
+
+XII. Secuestro, previsto en el artículo 163 y 163 Bis de este Código;
+
+XIII. Tráfico de menores, contemplado en el párrafo tercero del artículo 169 de este Código; o
+
+XIV. Violación, de acuerdo con los artículos 174 y 175 de este Código.
+
+A quien tenga funciones de administración, dirección o supervisión en la delincuencia organizada, se le impondrá de seis a doce años de prisión y de cuatrocientos a dos mil días multa, sin perjuicio de las reglas de concurso para la imposición de sanciones.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 255.
 
-Si el miembro de la asociación o de la delincuencia organizada es o ha sido servidor público o miembro de una empresa de seguridad privada, las penas a que se refieren los artículos anteriores, se aumentarán en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación de cinco a diez años para desempeñar otro.
+Si el miembro de la asociación delictuosa o de la delincuencia organizada es o ha sido servidor público o autoridad encargada de la función de seguridad pública, de conformidad con lo previsto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, o miembro de una empresa de seguridad privada, y por virtud del ejercicio de las funciones a él encomendadas se facilitó la comisión del o los ilícitos a que se refieren los artículos anteriores, las penas se aumentarán en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación por un tiempo igual al señalado como prisión para desempeñar otro, en cuyo caso se computará a partir de que se haya cumplido con la pena.
 
-Cuando los miembros de la asociación o de la delincuencia organizada utilicen para delinquir a menores de edad o incapaces, las penas a que se refieren los artículos anteriores se aumentarán en una mitad.
+Cuando los miembros de la delincuencia organizada utilicen para delinquir a menores de edad o incapaces, las penas a que se refieren los artículos anteriores se aumentarán en una cuarta parte.
 
 Se presumirá que existe asociación delictuosa o delincuencia organizada cuando las mismas tres o más personas tengan alguna forma de autoría o participación conjunta en dos o más delitos.
 
@@ -3461,3 +3523,21 @@ G.O. 13 DE SEPTIEMBRE DE 2004.
 PRIMERO. Remítase al Jefe de Gobierno para su debida Promulgación y Publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO QUE REFORMA DIVERSOS ARTICULOS DEL NUEVO CODIGO PENAL PARA EL D.F.
+
+PRIMERO. Remítase al Jefe de Gobierno para su debida promulgación y Publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+TERCERO. Se derogan todas aquellas disposiciones que sean contrarias a lo dispuesto en el presente decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO QUE REFORMA ARTS. 254 Y 255 DEL NUEVO CODIGO PENAL PARA EL D.F.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los noventa días siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
