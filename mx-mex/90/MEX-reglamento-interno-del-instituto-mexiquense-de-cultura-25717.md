@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-cultura-25717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-02"
-last_updated: "2002-07-02"
+last_updated: "2004-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 2 de julio de 2002.
 
@@ -181,7 +181,9 @@ El Director General tendrá las atribuciones siguientes:
 
 I. Representar legalmente al Instituto con todas las facultades generales y especiales, en términos de lo dispuesto por el Código Civil del Estado de México. Para actos de dominio respecto de los bienes que integren el patrimonio del Instituto, requerirá de la autorización expresa del Consejo;
 
-II. Otorgar y revocar poderes especiales en los servidores públicos del Institutos.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+II. Otorgar y revocar poderes generales o especiales para que los ejerzan individual o colectivamente los servidores públicos del Instituto. Para los actos de dominio requerirá de la autorización expresa del Consejo Directivo, de acuerdo con la legislación vigente;
 
 III. Cumplir los acuerdos que emita el Consejo;
 
@@ -472,3 +474,11 @@ LIC. CAROLINA MONROY DEL MAZO
 DIRECTORA GENERAL DEL INSTITUTO MEXIQUENSE DE CULTURA Y SECRETARIA DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 20 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
