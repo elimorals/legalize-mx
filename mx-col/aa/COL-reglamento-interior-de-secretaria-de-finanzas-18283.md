@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-secretaria-de-finanzas-18283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-16"
-last_updated: "2003-09-06"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 16 de septiembre de 2000.
 
@@ -777,13 +777,21 @@ Los Jefes de las Receptorías de Rentas dependerán directamente de la Subdirecc
 
 Las Receptorías de Rentas, están delimitadas territorialmente de acuerdo a lo siguiente:
 
-I.- La Receptoría de Rentas de Colima, tiene como jurisdicción los municipios de Colima, Comala, Coquimatlán, Cuauhtémoc y Villa de Alvarez;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-II.- La Receptoría de Rentas de Manzanillo, tiene como jurisdicción los Municipios de Manzanillo y Minatitlán;
+I.- La Receptoría de Rentas de Colima, tiene como jurisdicción los municipios de Colima, Coquimatlán y Cuauhtémoc;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+II.- La Receptoría de Rentas de Manzanillo, tiene como jurisdicción el Municipio de Manzanillo;
 
 III.-La Receptoría de Rentas de Tecomán, tiene como jurisdicción los Municipios de Armería, Tecomán e Ixtlahuacán;
 
-IV.- Las Receptorías de rentas ubicadas en las oficinas de las Direcciones de Transportes y del Registro Público de la Propiedad y del Comercio, son coadyuvantes de las Receptorías señaladas en las tres fracciones anteriores en las labores de recepción de pagos e integración y depuración de padrones y no podrán emitir requerimientos o resoluciones para exigir el cumplimiento de las disposiciones fiscales, ni para sancionar su incumplimiento.
+(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004) (F. DE E., P.O. 4 DE DICIEMBRE DE 2004)
+
+IV.- La Receptoría de Rentas de Villa de Alvarez, tiene como jurisdicción los municipios de Villa de Alvarez, Comala y Minatitlán;
+
+V.- Las Receptorías de rentas ubicadas en las oficinas de las Direcciones de Transportes y del Registro Público de la Propiedad y del Comercio, son coadyuvantes de las Receptorías señaladas en las tres fracciones anteriores en las labores de recepción de pagos e integración y depuración de padrones y no podrán emitir requerimientos o resoluciones para exigir el cumplimiento de las disposiciones fiscales, ni para sancionar su incumplimiento.
 
 Las jurisdicciones de las Receptorías de Rentas podrán ser modificadas con el hecho de publicar por una sola vez en dos de los periódicos locales de mayor circulación los cambios a considerar, ya sea por la creación de nuevas Receptorías o por reasignación de jurisdicciones, o por ambas. Posteriormente, se deberán realizar las modificaciones correspondientes en el presente Reglamento.
 
@@ -864,3 +872,7 @@ P.O. 2 DE NOVIEMBRE DE 2002.
 P.O. 6 DE SEPTIEMBRE DE 2003.
 
 UNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 4 de octubre e 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
