@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "1987-08-27"
+last_updated: "1992-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
@@ -751,9 +751,11 @@ Sindicato es la Asociación de Trabajadores al Servicio del Gobierno del Estado 
 
 Todos los trabajadores de base tendrán derecho a sindicalizarse libremente.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 87.
 
-Para los Trabajadores de Gobierno del Estado, comprendidos Organismos y empresas Descentralizadas sólo habrá un Sindicato para los Trabajadores al Servicio de Gobierno del Estado, y uno para cada Municipio. En caso de que concurran varios trabajadores que pretendan ese derecho, el Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+Sólo habrá un Sindicato para los Trabajadores de Gobierno del Estado, comprendidos los Organismos Descentralizados y empresas de Participación Estatal, a excepción de los Trabajadores de la Educación, que tendrán un sindicato único. En caso de que concurran varios grupos de trabajadores de diversos sindicatos que pretendan ese derecho, la Autoridad Laboral competente otorgará reconocimiento al mayoritario.
 
 ###### ARTICULO 88.
 
@@ -847,17 +849,19 @@ III.- Porque deje de reunir los requisitos señalados en los términos de los ar
 
 ###### ARTICULO 100.
 
-Los Sindicatos podrán integrarse creando el Sindicato único de Trabajadores al Servicio de Gobierno del Estado y Municipios, o bien federándose mediante la constitución de una Federación de Sindicatos de Trabajadores al Servicio de Gobierno de Estado, Ayuntamientos, Empresas y Organismos Descentralizados, únicas organizaciones que serán reconocidas legalmente, para los efectos de esta Ley.
+(DEROGADO, P.O. 7 DE JUNIO DE 1992)
 
-El Sindicato Unico o en su caso la Federación, tendrá la representación de los Trabajadores, una vez que haya satisfecho los requisitos que para los Sindicatos señala el artículo 90 de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 101.
 
-Tanto los Sindicatos, el Sindicato Unico o la Federación, podrán pertenecer a la Federación de Sindicatos de Trabajadores al Servicio de los Gobiernos de los Estados, Municipios e Instituciones Descentralizadas de carácter Estatal de la República Mexicana, registrada y con personería jurídica en la Secretaría del Trabajo y Previsión Social.
+Los Sindicatos podrán pertenecer a la Federación de Sindicatos de Trabajadores al Servicio de los Gobiernos de los Estados, Municipios e Instituciones Descentralizadas de carácter Estatal de la República Mexicana.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 102.
 
-Todos los conflictos que surjan entre los sindicatos, el Sindicato Unico o la Federación y sus sindicatos, serán resueltos por el Tribunal de Conciliación y Arbitraje, a petición de parte interesada.
+Todos los conflictos que surjan entre los sindicatos, serán resueltos por el Tribunal de Conciliación y Arbitraje del Estado, a petición de parte interesada.
 
 ###### ARTICULO 103.
 
@@ -1115,6 +1119,8 @@ El derecho al pago de la pensión por vejez comenzará a partir del día siguien
 
 Y ARBITRAJE
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
+
 ## TITULO DECIMO PRIMERO. DE LAS PRESCRIPCIONES
 
 ### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
@@ -1185,7 +1191,9 @@ CONCILIACION Y ARBITRAJE
 
 ###### ARTICULO 150.
 
-El Tribunal de Conciliación y Arbitraje será un Cuerpo Colegiado, y lo integrarán un Magistrado representante del Gobierno Estatal y Municipal, que será designado por el Estado y Municipios, un Magistrado representante de los trabajadores, designado por los Sindicatos, Sindicato Unico, o Federación de Sindicatos debidamente reconocidos y registrados y un arbitro que nombrarán los dos representantes citados, mismo que asumirá el cargo de Presidente. En caso de que no se ponga de acuerdo a las partes para designar un tercero, se solicitará a la Organización Mayoritaria de Abogados determine el cargo para uno de sus miembros. Por cada uno de los Magistrados a que este precepto se refiere, se designará un suplente. El Titular del Poder Ejecutivo convocará a la designación de representantes y señalará fecha y hora para su constitución, declarando formalmente instalado el Tribunal en el año que corresponda, según la vigencia que se determina para las designaciones. Si después de 30 días de hecha la Convocatoria no se hace designación de representantes por los organismos correspondientes, la facultad de designarlos para la oportuna instalación del Tribunal recaerá en el Gobernador del Estado.
+El Tribunal de Conciliación y Arbitraje será un Cuerpo Colegiado, funcionará en dos salas que se integrarán: la primera, por un Magistrado representante del Gobierno Estatal y Municipal y por un Magistrado designado por los Sindicatos de Trabajadores al Servicio del Estado y los Municipios; y la segunda, por un Magistrado representante del Gobierno Estatal y por un Magistrado designado por los trabajadores de la Educación, a través de su Sindicato. Además, un Arbitro que nombrarán los cuatro representantes citados, mismo que asumirá el cargo de Presidente de las Salas y del Tribunal. En caso de que no se pongan de acuerdo la (sic) partes para designar un tercero, se solicitará a la Organización Mayoritaria de Abogados determine el cargo para uno de sus miembros. Por cada uno de los Magistrados a que este precepto se refiere, se designará un suplente. El Titular del Poder Ejecutivo convocará a la designación de representantes y señalará fecha y hora para su constitución, declarando formalmente instalado el Tribunal en el año que corresponda, según la vigencia que se determina para las designaciones. Si después de treinta días de hecha la convocatoria no se hace designación de representantes por los organismos correspondientes, la facultad de designarlos para la oportuna instalación del Tribunal recaerá en el Gobernador del Estado.
+
+La primera Sala conocerá de los conflictos entre los trabajadores del Estado, los Municipios y sus respectivas empresas y Organismos Descentralizados; a la otra, competerán los conflictos donde intervengan los trabajadores de la Educación en los términos del artículo 87.
 
 ###### ARTICULO 151.
 
@@ -1476,3 +1484,13 @@ LIC. MARIANO PALACIOS ALCOCER
 El Secretario de Gobierno,
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 1992.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado " La Sombra de Arteaga".
+
+SEGUNDO. El Magistrado y su suplente, que actuarán en la Sala que corresponda a los conflictos de los Trabajadores de la Educación deberán ser elegidos por el Sindicato del Sector, previa convocatoria, en un plazo de treinta días a partir de la vigencia de esta Ley, debiendo cumplir con los demás requisitos ya establecidos para el cargo. En tanto se nombra Presidente, el actual seguirá en funciones.
+
+TERCERO. Se derogan todas las demás disposiciones que se opongan a la presente Ley.
