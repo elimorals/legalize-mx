@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1988-01-01"
+last_updated: "1988-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -293,9 +293,11 @@ VII.- Los dueños o concesionarios de plantas de beneficio y establecimientos me
 
 DE LA BASE Y DE LAS TASAS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 38.
 
-El Impuesto Predial se causará sobre la base establecida en la Ley de Catastro; y la tasa del impuesto será la que se determine anualmente en la Ley de Ingresos de cada Municipio.
+La base del impuesto predial, será el valor catastral de los predios, determinado de acuerdo con la Ley de Catastro y la tasa del impuesto será la que se fije anualmente en la Ley de Ingresos de cada Municipio, misma que también podrá determinar que la base del impuesto sea un porcentaje del valor catastral.
 
 DEL PAGO DEL IMPUESTO
 
@@ -359,13 +361,13 @@ Estarán exentos del pago de este impuesto las Instituciones de Seguridad Social
 
 REALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 50.
 
 Están obligados al pago de este impuesto las personas físicas o morales que adquieran inmuebles que consisten en el suelo o en el subsuelo y las construcciones adheridas a él, ubicadas en el territorio de cada Municipio, así como los derechos relacionados con el mismo.
 
-El impuesto se calculará aplicando la tasa que señalen las Leyes de Ingresos Municipales al valor del inmueble, después de reducirlo en cinco veces el salario mínimo general elevado al año, de la zona económica que corresponda a cada Municipio de Estado.
-
-Cuando del inmueble formen parte departamentos habitacionales, la reducción será por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+El impuesto se determinará aplicando la tasa y el procedimiento para su cáulculo, (sic) conforme al valor del inmueble, tal y como lo señalen las Leyes de Ingresos Municipales.
 
 ###### ARTICULO 51.
 
@@ -631,11 +633,11 @@ Este derecho se causará conforme a las tasas o tarifas que establezca la ley de
 
 El servicio público de salubridad que proporcione el Municipio, comprenderá no solamente el auxilio a las Autoridades Federales en esta actividad, conforme a las disposiciones de la Ley Federal de Salud, sino además la vigilancia sanitaria que exige la salud pública, la profilaxia de las enfermedades, la educación higiénica, social o individual, y la prestación de servicios sanitarios en general, dentro de la jurisdicción de aquel.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 88.
 
-En los términos del artículo que antecede, el bardeo de lotes baldíos es un deber de todos los propietarios o en su defecto podrán efectuarlo los Ayuntamientos del Estado, con cargo al contribuyente, en protección de la salud pública de los habitantes del mismo, aplicándoles la cuota que fijen, tomando en cuenta el material humano y el número de metros bardeados. En el perímetro urbano se cobrarán $ 500.00 mensuales por metro lineal en tanto subsista esa situación, a los propietarios de lotes sin bardear, a los propietarios de terrenos cuyos frentes den a la calle y no tengan banquetas o las mismas se encuentren en mal estado, pagarán hasta $ 400.00 mensuales por metro lineal a juicio de la Autoridad Municipal, hasta en tanto subsista esa omisión.
-
-Son causantes de estos derechos las personas físicas o morales que se beneficien con los servicios públicos de salubridad.
+En los términos del artículo que antecede, el bardeo de lotes baldíos es un deber de todos los propietarios o en su defecto, podrán efectuarlo los Ayuntamientos del Estado; con cargo al contribuyente, en protección de la salud pública de los habitantes del mismo, aplicándoles la cuota que fije la Autoridad Municipal, tomando en cuenta el material humano y el número de metros bardeados.
 
 ### CAPITULO CUARTO. SERVICIO DE PANTEONES
 
@@ -1188,3 +1190,9 @@ LEOPOLDINO ORTIZ SANTOS
 El Secretario General de Gobierno
 
 ADALBERTO NOYOLA VÁZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1989.
