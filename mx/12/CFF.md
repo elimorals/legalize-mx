@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1982-12-31"
+last_updated: "1983-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 1983.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -2894,15 +2894,13 @@ Al recibirse el recurso se designará al magistrado instructor, el que admitirá
 
 #### Sección Cuarta. De la Revisión Fiscal
 
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS EN CITA.</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 250.
 
-Contra las resoluciones de la Sala Superior a que se refiere el artículo 249 de este Código, las autoridades podrán interponer el recurso de revisión fiscal ante la Suprema Corte de Justicia de la Nación, dentro de un plazo de quince días siguientes a aquel en que surta efectos la notificación respectiva, mediante escrito dirigido al Presidente de la Segunda Sala, que deberá ser firmado por el titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado y, en caso de ausencia, por quien legalmente deba sustituirlo. En dicho escrito deberán exponerse las razones que determinen la importancia y la trascendencia del asunto de que se trate. Si el valor del negocio excede de un millón de pesos se considerará que tiene las características requeridas para ser objeto del recurso.
-
-El recurso de revisión fiscal se sujetará a la tramitación que la Ley Reglamentaria de los Artículos 103 y 107 Constitucionales, fija para la revisión en amparo indirecto.
-
-La Suprema Corte de Justicia de la Nación examinará, previamente al estudio del fondo del negocio, si se ha justificado la importancia y trascendencia del asunto de que se trate. Si a su juicio dichos requisitos no estuvieren satisfechos, desechará el recurso.
+Contra las resoluciones de la Sala Superior a que se refiere el artículo 249 de este Código, las autoridades podrán interponer el recurso de revisión fiscal ante la Suprema Corte de Justicia de la Nación, dentro del plazo de los quince días siguientes a aquel en que surta efectos la notificación respectiva, mediante escrito dirigido al Presidente de la Segunda Sala, que deberá ser firmado por el titular de la Secretaría de Estado, Departamento Administrativo u organismo descentralizado, y en caso de ausencia, por quien legalmente deba sustituilo (sic). En dicho escrito deberán exponerse las razones que determinen la importancia y la trascendencia del asunto de que se trate. Si el valor del negocio excede de cuarenta veces el salario mínimo elevado al año, conforme a la regla especificada en el artículo 3o. Bis de la Ley de Amparo, se considerará que tiene las características requeridas para ser objeto del recurso.
 
 ###### Artículo 251.
 
@@ -3063,3 +3061,7 @@ ARTICULO DECIMOCUARTO.- En tanto se expide el Reglamento del Código Fiscal de l
 ...
 
 ARTICULO CUADRAGESIMO.- A partir del año de 1983 la Secretaría de Hacienda y Crédito Público iniciará un programa de comprobación permanente del cumplimiento de las obligaciones fiscales de los contribuyentes más importantes del país, incluyendo tanto a las empresas públicas como a las privadas. Para este efecto la Secretaría de Hacienda realizará visitas domiciliarias continuas o periódicas, según amerite la situación fiscal del contribuyente y su importancia en relación con la recaudación.
+
+D.O.F. 28 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
