@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "1982-01-11"
+last_updated: "1986-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -801,6 +801,16 @@ Cuando la Secretaría de Comunicaciones y Transportes tenga conocimiento de algu
 
 Para imponer las sanciones a que se refieren los artículos 103 y 104 de esta ley, la autoridad administrativa oirá previamente al o a los presuntos infractores. Cuando se encuentren irregularidades de carácter técnico durante las visitas de inspección a las radiodifusoras, se les concederá un plazo perentorio para corregirlas, sin perjuicio de formar el expediente de infracción que proceda, a que se refiere el párrafo antecedente y de que la autoridad administrativa dicte oportunamente la resolución que corresponda.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
+###### ARTICULO 106.
+
+Para la fijación del monto de las sanciones pecuniarias que resulten aplicables según el título sexto de esta Ley, los importes mínimo y máximo establecidos se convertirán a días de salario mínimo general vigente en el Distrito Federal y Area Metropolitana, a razón de un día por cada diez pesos, teniendo en cuenta la fecha en que se cometió la infracción.
+
+En las infracciones a que se refiere el Artículo 104, la multa mínima será de veinte días de salario mínimo.
+
+En todo caso, la sanción se aplicará en consideración a la gravedad de la falta y a la capacidad económica del infractor.
+
 TRANSITORIOS:
 
 ###### ARTICULO 1o.
@@ -864,3 +874,7 @@ D.O.F. 11 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 1986.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
