@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1978-12-27"
+last_updated: "1980-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -52,13 +52,31 @@ La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estad
 
 I.- El 13.0% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos que constituirá el Fondo General de Participaciones. Este fondo se incrementará con el por ciento que represente, en dichos ingresos de la Federación, la recaudación en un ejercicio de los gravámenes locales o municipales que las entidades convengan en derogar o dejar en suspenso al adherirse al Sistema Nacional de Coordinación Fiscal.
 
-II.- El 0.37% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos que constituirá el Fondo Financiero Complementario de Participaciones.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+II.- El 0.50% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, que constituirá el Fondo Financiero Complementario de Participaciones.
 
 Adicionalmente, las entidades participarán en recargos sobre impuestos federales y en las multas por infracción a las leyes federales, que se señalen en los convenios o acuerdos respectivos, en la proporción que en los mismos se establezca.
 
 En los productos de la Federación relacionados con bienes o bosques, que las leyes definan como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de explotación de tales terrenos o de bosques nacionales.
 
-No se incluirán en los Fondos a que se refiere este precepto, las participaciones sobre los impuestos adicionales de 3% sobre importaciones y 2% sobre exportaciones, que correspondan a los Municipios que se hubieran hecho o se hagan cargo de los servicios prestados por las Juntas Federales de Mejoras Materiales. Dichas participaciones se seguirán pagando directamente por la Federación.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+No se incluirá entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales de 3% sobre importaciones, 1% sobre el impuesto general en exportaciones de petróleo crudo, gas natural, y sus derivados y 2% en las demás exportaciones. A dichos impuestos, adicionales se les dará la aplicación a que se refiere el artículo 2o-A de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+###### ARTICULO 2o.-A.
+
+En los impuestos adicionales del 3% sobre el impuesto general de importación y de 2% sobre el impuesto general de exportación, se participará el 95% a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la importación o exportación.
+
+Tratándose del impuesto adicional del 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, se participará a los Municipios el 95%, en la siguiente forma:
+
+I.- El 10% de la participación a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación.
+
+II.- El 90% de la participación se destinará a formar un Fondo de Fomento Municipal que se distribuirá entre los Estados conforme a las mismas reglas aplicables al Fondo Financiero Complementario de Participaciones. Los Estados entregarán integramente a sus Municipios las cantidades que reciban conforme a lo dispuesto en esta fracción, de acuerdo con lo que establezcan las legislaturas locales.
+
+Las cantidades que correspondan a los Municipios en los términos del párrafo primero y fracción I de este artículo, se pagarán por la Federación directamente a dichos Municipios.
 
 ###### ARTICULO 3o.
 
@@ -150,25 +168,31 @@ En caso de que la Secretaría de Hacienda y Crédito Público infringiera las di
 
 ### CAPITULO III. De la Colaboración Administrativa Entre las Entidades y la Federación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### ARTICULO 13.
 
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de los Estados que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de registro federal de causantes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las entidades.
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de los Estados que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de registro federal de contribuyentes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las entidades o de los Municipios cuando así se pacte expresamente.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-En el convenio a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dicho convenio se publicará en el Periódico Oficial del Estado y en el "Diario Oficial" de la Federación, y surtirá sus efectos a partir del día siguiente de la publicación en este último.
+En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el Periódico Oficial del Estado y en el “Diario Oficial” de la Federación, y surtirán sus efectos a partir del día siguiente de la publicación en este último.
 
 La Federación o el Estado podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
 
 El Ejecutivo Federal, mediante acuerdo, coordinará a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal, en las materias a que este precepto se refiere. Las facultades que se otorguen al Departamento del Distrito Federal serán ejercidas por las autoridades fiscales del mismo.
 
-En los convenios y en el acuerdo señalados en este precepto, se fijarán los gastos de administración que recibirán las entidades, por las actividades de administración fiscal que realicen.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+En los convenios y en el acuerdo señalado en este precepto, se fijarán las percepciones que recibirán las Entidades o sus Municipios, por las actividades de administración fiscal que realicen.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 14.
 
-Las autoridades fiscales de las entidades que se encuentren adheridas al Sistema Nacional de Coordinación Fiscal serán consideradas, en el ejercicio de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales federales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes federales.
+Las autoridades fiscales de las entidades que se encuentren adheridas al Sistema Nacional de Coordinación Fiscal y las de sus Municipios, en su caso, serán consideradas, en el ejercicio de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales federales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes federales.
 
-La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar a las entidades los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos.
+La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar a las entidades y a sus Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos.
 
 > <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
@@ -262,7 +286,9 @@ II.- Preparar los proyectos de distribución de aportaciones ordinarias y extrao
 
 III.- Fungir como consejo directivo del Instituto para el Desarrollo Técnico de las Haciendas Públicas y formular informes de las actividades de dicho Instituto y de la propia Comisión Permanente, que someterá a la aprobación de la Reunión Nacional.
 
-IV.- Vigilar la creación e incremento de los fondos de participaciones señalados en el artículo 2o. de esta Ley, su distribución entre las entidades y las liquidaciones anuales que de dichos fondos formule la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- Vigilar la creación e incremento de los Fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos Fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley debe efectuar la Secretaría de Hacienda y Crédito Público y los Estados.
 
 V.- Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
 
@@ -347,3 +373,27 @@ Lo dispuesto en este precepto es aplicable a las participaciones de los Municipi
 México, D. F., 22 de diciembre de 1978.- Antonio Riva Palacio López, D. P.- Antonio Ocampo Ramírez, S. P.- Pedro Avila Hernández, D.S.- Joaquín E. Repetto Ocampo, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos setenta y ocho.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, LAS DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1980.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
+
+###### ARTICULO QUINTO.
+
+El incremento en el Fondo Financiero Complementario de Participaciones de 0.37% que establecía la Ley de Coordinación Fiscal, a 0.50% a que se refiere el artículo 2o. reformado de dicha Ley, se distribuirá entre las entidades federativas, a partir del mes en que el conjunto de las mismas convengan con la Secretaría de Hacienda y Crédito Público, el procedimiento de distribución de dicho Fondo.
+
+###### ARTICULO DECIMO.
+
+Los porcentajes de participación sobre el impuesto adicional de 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, a que se refiere el articulo 2o.- A de la Ley de Coordinación Fiscal, se sustituirán, durante los años de 1981 y 1982, por los siguientes:
+
+I.- Durante 1981 el porcentaje a que se refiere la fracción I del artículo citado, será el 50% y el mencionado en la fracción II del mismo precepto será de 50%.
+
+II.- Durante 1982, el porcentaje a que se refiere la fracción I será de 30% y el mencionado en la fracción II, será de 70%.
+
+Las participaciones señaladas en el párrafo inicial y en la fracción I del artículo 2o.- A de la Ley de Coordinación Fiscal, no se pagarán a los Municipios que no se hagan cargo de los servicios prestados por las Juntas Federales de Mejoras Materiales. Cuando se hagan cargo parcialmente, dichas participaciones les corresponderán proporcionalmente.
