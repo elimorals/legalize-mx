@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1924-05-08"
+last_updated: "1925-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1925.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -785,9 +785,11 @@ Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con ap
 
 Todos los empleados de Estado y Municipales que manejen fondos públicos, deberán caucionar el manejo de dichos fondos. Los empleados del Estado prestarán la caución a satisfacción del Ejecutivo, y los del Municipio a satisfacción de los Ayuntamientos respectivos. Se exceptúa de esta obligación al Director de Rentas del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1925)</small>
+
 ###### Artículo 105.
 
-En el Estado, toda propiedad rústica cuyo valor fiscal no exceda de dos mil pesos, pagará solamente el diez por ciento de los impuestos que al capital rústico fije la ley de Hacienda del Estado, siempre que sus dueños no tengan otros bienes.
+En el Estado toda propiedad rústica, cuyo valor fiscal no sea mayor de Dos mil pesos, pagará el noventa por ciento de los impuestos que al capital rústico fije la Ley de Hacienda del mismo.
 
 Si se tratare de impuestos sobre traslación de dominio o sobre herencias relativas a dicha pequeña propiedad, es también condición indispenable (sic) para disfrutar de la reducción de impuestos referida, que el adquirente en el primer caso, y el heredero en el segundo, no sean dueños de otros bienes. En tales casos se regirá por el valor que se asigne a la propiedad en los contratos o inventarios respectivos, excepto cuando este valor sea menor que el valor fical (sic), pues entonces se tomará este último en cuenta para los efectos del presente artículo.
 
@@ -1002,5 +1004,9 @@ P.O. 28 DE OCTUBRE DE 1923.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 8 DE MAYO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 27 DE DICIEMBRE DE 1925.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
