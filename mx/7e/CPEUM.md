@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1994-07-01"
+last_updated: "1994-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 1995 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1994.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -419,6 +421,18 @@ La imposición de las penas es propia y exclusiva de la autoridad judicial. La p
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Las resoluciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal, podrán ser impugnadas por vía jurisdiccional en los términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La seguridad pública es una función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La Federación, el Distrito Federal, los Estados y los Municipios se coordinarán, en los términos que la ley señale, para establecer un sistema nacional de seguridad pública.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -1194,11 +1208,15 @@ La vecindad no se pierde por ausencia en el desempeño de cargos públicos de el
 
 IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-V. No ser Secretario o Subsecretario de Estado ni Magistrado de la Suprema Corte de Justicia de la Nación, a menos que se separe definitivamente de sus funciones noventa días antes de la elección.
+V. No ser Secretario o Subsecretario de Estado, ni Ministro de la Suprema Corte de Justicia de la Nación, a menos que se separe definitivamente de sus funciones noventa día antes de la elección, en el caso de los primeros y dos años, en el caso de los Ministros.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Los Gobernadores de los Estados no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el período de su encargo, aun cuando se separen definitivamente de sus puestos.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Los Secretarios de Gobierno de los Estados, los Magistrados y Jueces Federales o del Estado, no podrán se electos en las entidades de sus respectivas jurisdicciones, sin no se separan definitivamente de sus cargos noventa días antes de la elección.
 
@@ -1496,7 +1514,9 @@ XXI.- Para definir los delitos y faltas contra la Federación y fijar los castig
 
 XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
-XXIII.- (DEROGADA, D.O.F. 6 DE DICIEMBRE DE 1977)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+XXIII.- Para expedir leyes que establezcan las bases de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios, en materia de seguridad pública; así como para la organización y funcionamiento, el ingreso, selección, promoción y reconocimiento de los integrantes de las instituciones de seguridad pública en el ámbito federal.
 
 XXIV.- Para expedir la ley orgánica de la Contaduría Mayor.
 
@@ -1644,9 +1664,9 @@ Son facultades exclusivas del Senado:
 
 I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso; además, aprobar los tratados internacionales y convenciones diplomáticas que celebre el Ejecutivo de la Unión.
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-II.- Ratificar los nombramientos que el mismo funcionario haga de Ministros, Agentes Diplomáticos, Cónsules Generales, Empleados Superiores de Hacienda, Coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
+II.- Ratificar los nombramientos que el mismo funcionario haga del Procurador General de la República, Ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -1664,9 +1684,9 @@ La ley reglamentará el ejercicio de esta facultad y el de la anterior.
 
 VII.- Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución.
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-VIII.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte de Justicia de la Nación, así como a las solicitudes de licencia y a las renuncias de los mismos funcionarios, que le someta el Presidente de la República.
+VIII.- Designar a los Ministros de la Suprema Corte de Justicia de la Nación, de entre la terna que someta a su consideración el Presidente de la República, así como otorgar o negar su aprobación a las solicitudes de licencia o renuncia de los mismos, que le someta dicho funcionario.
 
 > <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
@@ -3892,9 +3912,9 @@ La Comisión Permanente, además de las atribuciones que expresamente le confier
 
 I.- Prestar su consentimiento para el uso de la Guardia Nacional, en los casos de que habla el artículo 76, fracción IV.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-II.- Recibir, en su caso, la protesta del Presidente de la República y de los ministros de la Suprema Corte de Justicia de la Nación.
+II.- Recibir, en su caso, la protesta del Presidente de la República.
 
 > <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
 
@@ -3904,9 +3924,9 @@ III.- Resolver los asuntos de su competencia, recibir durante el receso del Cong
 
 IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
 
-> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-V.- Otorgar o negar su aprobación a los nombramientos de ministros de la Suprema Corte, así como a sus solicitudes de licencia, que le someta el Presidente de la República.
+V.- Otorgar o negar su ratificación a la designación del Procurador General de la República, que le someta el titular del Ejecutivo Federal.
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -4032,9 +4052,9 @@ Las facultades y obligaciones del Presidente, son las siguientes:
 
 I.- Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-II.- Nombrar y remover libremente a los Secretarios del Despacho, al Procurador General de la República, remover a los Agentes Diplomáticos y empleados superiores de Hacienda y, nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes.
+II.- Nombrar y remover libremente a los secretarios del despacho, remover a los agentes diplomáticos y empleados superiores de Hacienda, y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes.
 
 III.- Nombrar los ministros, agentes diplomáticos y cónsules generales, con aprobación del Senado.
 
@@ -4054,7 +4074,9 @@ VII.- Disponer de la Guardia Nacional para los mismos objetos, en los términos 
 
 VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 
-IX.- (DEROGADA, D.O.F. 21 DE OCTUBRE DE 1966)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+IX.- Designar, con ratificación del Senado, al Procurador General de la República.
 
 > <small>(REFORMADA, D.O.F. 11 DE MAYO DE 1988)</small>
 
@@ -4074,15 +4096,15 @@ XIV.- Conceder, conforme a las leyes, indultos a los reos sentenciados por delit
 
 XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley respectiva, a los descubridores, inventores o perfeccionadores de algún ramo de la industria.
 
-> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III y IV, con aprobación de la Comisión Permanente.
+XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III, IV y IX, con aprobación de la Comisión Permanente.
 
 XVII.- (DEROGADA, D.O.F. 25 DE OCTUBRE DE 1993)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-XVIII.- Nombrar Ministros de la Suprema Corte de Justicia y someter los nombramientos, las licencias y las renuncias de ellos, a la aprobación de la Cámara de Senadores o de la Comisión Permanente, en su caso.
+XVIII.- Presentar a consideración del Senado, la terna para la designación de Ministros de la Suprema Corte de Justicia y someter sus licencias y renuncias a la aprobación del propio Senado.
 
 XIX.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
@@ -4114,7 +4136,9 @@ Todos los Reglamentos, Decretos, Acuerdos y Ordenes del Presidente deberán esta
 
 Los Secretarios del Despacho y los Jefes de los Departamentos Administrativos, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos.
 
-Cualquiera de las Cámaras podrá citar a los Secretarios de Estado y a los Jefes de los Departamentos Administrativos, así como a los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Cualquiera de las Cámaras podrá citar a los secretarios de estado, al Procurador General de la República, a los jefes de los departamentos administrativos, así como a los directores y administradores de los organismos descentralizados federales o de las empresas de participación estatal mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 > <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -4124,7 +4148,7 @@ Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los d
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 23.
 
@@ -4290,23 +4314,43 @@ Las contribuciones se determinarán y liquidarán conforme a las disposiciones v
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en tribunales colegiados y unitarios de circuito y en juzgados de distrito.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales Colegiados y Unitarios de Circuito, en Juzgados de Distrito y en un Consejo de la Judicatura Federal.
 
-La Suprema Corte de Justicia de la Nación se compondrá de veintiún ministros numerarios y funcionará en Pleno o en Salas. Se podrán nombrar hasta cinco ministros supernumerarios.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La Suprema Corte de Justicia de la Nación se compondrá de once Ministros y funcionará en Pleno o en Salas.
+
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
 La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los tribunales de circuito y de los juzgados de distrito y las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
-El Pleno de la Suprema Corte determinará el número, división en circuitos y jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-El propio Tribunal en Pleno estará facultado para emitir acuerdos generales a fin de lograr, mediante una adecuada distribución entre las Salas de los asuntos que competa conocer a la Suprema Corte de Justicia, la mayor prontitud en su despacho.
+El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Pleno de la Suprema Corte de Justicia, estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la propia Corte y remitir a los Tribunales Colegiados de Circuito, aquellos asuntos en los que hubiera establecido jurisprudencia, para la mayor prontitud de su despacho.
+
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
 
-La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de circuito y los jueces de distrito, no podrá ser disminuida durante su encargo.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-Los ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su período, tendrán derecho a un haber por retiro.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Ninguna persona que haya sido Ministro podrá ser nombrada para un nuevo período, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
 ###### Art. 95.
 
@@ -4314,117 +4358,139 @@ Para ser electo Ministro de la Suprema Corte de Justicia de la Nación, se neces
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección.
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello.
+III.- Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello.
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+VI.-No haber sido secretario de estado, jefe de departamento administrativo, Procurador General de la República o de Justicia del Distrito Federal, senador, diputado federal ni gobernador de algún Estado o Jefe del Distrito Federal, durante el año previo al día de su nombramiento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los nombramientos de los Ministros deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 96.
 
-Los nombramientos de los Ministros de la Suprema Corte, serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Senadores, la que otorgará o negará esa aprobación, dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Senado, no podrán tomar posesión los Magistrados de la Suprema Corte nombrados por el Presidente de la República. En el caso de que la Cámara de Senadores no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicha Cámara, en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, el Senado deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Senado desecha el nombramiento, cesará desde luego en sus funciones el Ministro provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación del Senado, en los términos señalados.
+Para nombrar a los Ministros de la Suprema Corte de Justicia, el Presidente de la República someterá una terna a consideración del Senado, el cual, previa comparecencia de las personas propuestas, designará al Ministro que deba cubrir la vacante. La designación se hará por el voto de las dos terceras partes de los miembros del Senado presentes, dentro del improrrogable plazo de treinta días. Si el Senado no resolviere dentro de dicho plazo, ocupará el cargo de Ministro la persona que, dentro de dicha terna, designe el Presidente de la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+En caso de que la Cámara de Senadores rechace la totalidad de la terna propuesta, el Presidente de la República someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Presidente de la República.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 97.
 
-Los magistrados de circuito y los jueces de distrito serán nombrados por la Suprema Corte de Justicia de la Nación, deberán satisfacer los requisitos que exija la ley y durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+Los Magistrados de Circuito y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-La Suprema Corte de Justicia de la Nación podrá nombrar alguno o algunos de sus miembros o algún juez de distrito o magistrado de circuito, o designar uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal o alguna de las Cámaras del Congreso de la Unión, o el gobernador de algún Estado, únicamente para que averigüe la conducta de algún juez o magistrado federal; o algún hecho o hechos que constituyan una grave violación de alguna garantía individual.
-
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
-
-Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios, que auxilien las labores de los Tribunales o juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrara alguno o algunos de sus miembros, o algún Juez de Distrito o Magistrado de Circuito, o designará uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión; o el Gobernador de algún Estado, únicamente para que averigüe la conducta de algún Juez o Magistrado Federal; o algún hecho o hechos que constituyan la violación de alguna garantía individual.
-
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+La Suprema Corte de Justicia de la Nación podrá nombrar alguno o algunos de sus miembros o algún Juez de Distrito o Magistrado de Circuito, o designar uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal o alguna de las Cámaras del Congreso de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe algún hecho o hechos que constituyan una grave violación de alguna garantía individual. También podrá solicitar al Consejo de la Judicatura Federal, que averigüe la conducta de algún juez o magistrado federal.
 
 La Suprema Corte de Justicia está facultada para practicar de oficio la averiguación de algún hecho o hechos que constituyan la violación del voto público, pero sólo en los casos en que a su juicio pudiera ponerse en duda la legalidad de todo el proceso de elección de alguno de los Poderes de la Unión. Los resultados de la investigación se harán llegar oportunamente a los órganos competentes.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+La Suprema Corte de Justicia nombrará y removerá a su secretario y demás funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán a los respectivos funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, conforme a lo que establezca la ley respecto de la carrera judicial.
 
-Los Tribunales de Circuito y Juzgados de Distrito serán distribuídos entre los Ministros de la Suprema Corte, para que éstos los visiten periódicamente, vigilen la conducta de los Magistrados y Jueces que los desempeñen, reciban las quejas que hubiere contra ellos y ejerzan las demás atribuciones que señala la Ley. La Suprema Corte de Justicia nombrará y removerá a su Secretario y demás empleados que le corresponda, con estricta observancia de la ley respectiva. En igual forma procederán los Magistrados de Circuito y Jueces de Distrito, por lo que se refiere a sus respectivos Secretarios y empleados.
+Cada cuatro años, el Pleno elegirá de entre sus miembros al Presidente de la Suprema Corte de Justicia de la Nación, el cual no podrá ser reelecto para el período inmediato posterior.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado, en la siguiente forma:
 
-La Suprema Corte de Justicia cada año designará uno de sus miembros como Presidente, pudiendo éste ser reelecto.
+Presidente: “¿Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión?”
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
-
-Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado, y en sus recesos, ante la Comisión Permanente, en la siguiente forma:
-
-Presidente: “Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión? (sic)”.
-
-Ministro: “Sí protesto”.
+Ministro: “Sí protesto”
 
 Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+Los Magistrados de Circuito y los Jueces de Distrito protestarán ante el Consejo de la Judicatura Federal o ante la autoridad que determine la ley.
 
-Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte y ante la autoridad que determina la Ley.
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 98.
 
-Los ministros numerarios de la Suprema Corte de Justicia de la Nación serán suplidos en sus faltas temporales por los supernumerarios.
+Cuando la falta de un Ministro excediere de un mes, el Presidente de la República someterá el nombramiento de un Ministro interino a la aprobación del Senado, observándose lo dispuesto en el artículo 96 de esta Constitución.
 
-Si la falta excediere de un mes, el Presidente de la República someterá el nombramiento de un ministro provisional a la aprobación del Senado o en su receso a la de la Comisión Permanente, observándose, en su caso, lo dispuesto en la parte final del artículo 96 de esta Constitución.
+Si faltare un Ministro por defunción o por cualquier causa de separación definitiva, el Presidente someterá un nuevo nombramiento a la aprobación del Senado, en los términos del artículo 96 de esta Constitución.
 
-Si faltare un ministro por defunción o por cualquiera causa de separación definitiva, el Presidente someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación mientras se reúne aquél y da la aprobación definitiva.
-
-Los supernumerarios que suplan a los numerarios, permanecerán en el desempeño del cargo hasta que tome posesión el ministro nombrado por el Presidente de la República ya sea con carácter provisional o definitivo.
-
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 99.
 
-Las renuncias de los Ministros de la Suprema Corte de Justicia, solamente procederán por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Senado, y en su receso, a la de la Comisión Permanente.
+Las renuncias de los Ministros de la Suprema Corte de Justicia solamente procederán por causas graves; serán sometidas al Ejecutivo y, si éste las acepta, las enviará para su aprobación al Senado.
 
-> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+Las licencias de los Ministros, cuando no excedan de un mes, podrán ser concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, podrán concederse por el Presidente de la República con la aprobación del Senado. Se exceptúan los casos de los párrafos decimosexto y decimonoveno del artículo 41 de esta Constitución, en los que se estará a lo dispuesto en dichos párrafos. Ninguna licencia podrá exceder del término de dos años.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 100.
 
-Las licencias de los ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con la aprobación del Senado, o en sus recesos, con la de la Comisión Permanente, salvo en los casos previstos en los párrafos dieciséis y diecinueve del artículo 41 de esta Constitución. Ninguna licencia podrá exceder del término de dos años.
+La administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estarán a cargo del Consejo de la Judicatura Federal en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+El Consejo se integrará por siete miembros de los cuales, uno será el Presidente de la Suprema Corte de Justicia, quien también lo será del Consejo; un Magistrado de los Tribunales Colegiados de Circuito, un Magistrado de los Tribunales Unitarios de Circuito y un Juez de Distrito, quienes serán electos mediante insaculación; dos Consejeros designados por el Senado y uno por el Presidente de la República. Los tres últimos, deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos señalados en el artículo 95 de esta Constitución.
+
+El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de magistrados y jueces, así como de los demás asuntos que la ley determine.
+
+Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
+
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
+
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
+
+Las decisiones del Consejo serán definitivas e inatacables, salvo las que se refieran a la designación, adscripción y remoción de magistrados y jueces, las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva.
+
+La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación. Con ambos se integrará el presupuesto del Poder Judicial de la Federación que será remitido por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 101.
 
-Los ministros de la Suprema Corte de Justicia, los magistrados de circuito, los jueces de distrito y los respectivos secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literiarias (sic) o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
+Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito y los respectivos secretarios, así como los Consejeros de la Judicatura Federal, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+
+Las personas que hayan ocupado el cargo de Ministro de la Suprema Corte de Justicia, Magistrado de Circuito, Juez de Distrito o Consejero de la Judicatura Federal no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial de la Federación.
+
+Durante dicho plazo, las personas que se hayan desempeñado como Ministros, salvo que lo hubieran hecho con el carácter de provisional o interino, no podrán ocupar los cargos señalados en la fracción VI del artículo 95 de esta Constitución.
+
+Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
+
+La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
 > <small>N. DE E. EL CONTENIDO DEL ANTERIOR ARTICULO 102, PASA A SER EL APARTADO A DEL PROPIO ARTICULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
 
 ###### Art. 102.
 
-> <small>(ADICIONADO [N. DE E. ANTES PRIMER PARRAFO], D.O.F. 28 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-A. La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser ministro de la Suprema Corte de Justicia.
+A. La ley organizará el Ministerio Publico de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva. El Ministerio Público de la Federación estará presidido por un Procurador General de la República, designado por el Titular del Ejecutivo Federal con ratificación del Senado o, en sus recesos, de la Comisión Permanente. Para ser Procurador se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso. El procurador podrá ser removido libremente por el Ejecutivo.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 Incumbe al Ministerio Público de la Federación, la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-El Procurador General de la República intervendrá personalmente en las controversias que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado.
+El Procurador General de la República intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 En todos los negocios en que la Federación fuese parte; en los casos de los diplomáticos y los cónsules generales y en los demás en que deba intervenir el Ministerio Público de la Federación, el Procurador General lo hará por sí o por medio de sus agentes.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-El Procurador General de la República será el consejero jurídico del Gobierno. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+El Procurador General de la República y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La función de consejero jurídico del Gobierno, estará a cargo de la dependencia del Ejecutivo Federal que, para tal efecto, establezca la ley.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
@@ -4440,9 +4506,13 @@ Los tribunales de la Federación resolverán toda controversia que se suscite:
 
 I.- Por leyes o actos de la autoridad que viole las garantías individuales.
 
-II.- Por leyes o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-III.- Por leyes o actos de las autoridades de éstos que invadan la esfera de la autoridad federal.
+II.- Por leyes o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencia del Distrito Federal, y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+III.- Por leyes o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -4462,23 +4532,75 @@ II.- De todas las controversias que versen sobre derecho marítimo;
 
 III.- De aquellas en que la Federación fuese parte;
 
-IV.- De las que se susciten entre dos o más Estados o un Estado y la Federación, así como de las que surgieren entre los tribunales del Distrito Federal y los de la Federación o un Estado;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+IV.- De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
 
 V.- De las que surjan entre un Estado y uno o más vecinos de otro, y
 
 VI.- De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 105.
 
-Corresponde sólo a la Suprema Corte de Justicia de la Nación conocer de las controversias que se susciten entre dos o más Estados; entre uno o más Estados y el Distrito Federal; entre los poderes de un mismo Estado y entre órganos de gobierno del Distrito Federal, sobre la constitucionalidad de sus actos y de los conflictos entre la Federación y uno o más Estados, así como de aquéllas en que la Federación sea parte en los casos que establezca la Ley.
+La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
+I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral, se susciten entre:
+
+a).- La Federación y un Estado o el Distrito Federal;
+
+b).- La Federación y un municipio;
+
+c).- El Poder Ejecutivo y el Congreso de la Unión; aquél y cualquiera de las Cámaras de éste o, en su caso, la Comisión Permanente, sean como órganos federales o del Distrito Federal;
+
+d).- Un Estado y otro;
+
+e).- Un Estado y el Distrito Federal;
+
+f).- El Distrito Federal y un municipio;
+
+g).- Dos municipios de diversos Estados;
+
+h).- Dos Poderes de un mismo Estado, sobre la constitucionalidad de sus actos o disposiciones generales;
+
+i).- Un Estado y uno de sus municipios, sobre la constitucionalidad de sus actos o disposiciones generales;
+
+j).- Un Estado y un municipio de otro Estado, sobre la constitucionalidad de sus actos o disposiciones generales; y
+
+k).- Dos órganos de gobierno del Distrito Federal, sobre la constitucionalidad de sus actos o disposiciones generales.
+
+Siempre que las controversias versen sobre disposiciones generales de los Estados o de los municipios impugnadas por la Federación, de los municipios impugnadas por los Estados, o en los casos a que se refieren los incisos c), h) y k) anteriores, y la resolución de la Suprema Corte de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubiera sido aprobada por una mayoría de por lo menos ocho votos.
+
+En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
+
+II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, con excepción de las que se refieran a la materia electoral.
+
+Las acciones de inconstitucionalidad podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
+
+a).- El equivalente al treinta y tres por ciento de los integrantes de la Cámara de Diputados del Congreso de la Unión, en contra de leyes federales o del Distrito Federal expedidas por el Congreso de la Unión;
+
+b).- El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de leyes federales o del Distrito Federal expedidas por el Congreso de la Unión o de tratados internacionales celebrados por el Estado Mexicano;
+
+c).- El Procurador General de la República, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Estado Mexicano;
+
+d).- El equivalente al treinta y tres por ciento de los integrantes de alguno de los órganos legislativos estatales, en contra de leyes expedidas por el propio órgano, y
+
+e).- El equivalente al treinta y tres por ciento de los integrantes de la Asamblea de Representantes del Distrito Federal, en contra de leyes expedidas por la propia Asamblea.
+
+Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos ocho votos.
+
+III.- De oficio o a petición fundada del correspondiente Tribunal Unitario de Circuito o del Procurador General de la República, podrá conocer de los recursos de apelación en contra de sentencias de Jueces de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
+
+La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
+
+En caso de incumplimiento de las resoluciones a que se refieren las fracciones I y II de este artículo se aplicarán, en lo conducente, los procedimientos establecidos en los dos primeros párrafos de la fracción XVI del artículo 107 de esta Constitución.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 106.
 
-Corresponde al Poder Judicial de la Federación en los términos de la Ley respectiva, dirimir las competencias que se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o entre los de un Estado y los de otro.
+Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o del Distrito Federal, entre los de un Estado y los de otro, o entre los de un Estado y los del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
@@ -4538,9 +4660,9 @@ En los juicios civiles del orden federal las sentencias podrán ser reclamadas e
 
 d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales o la Federal de Conciliación y Arbitraje, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
 
-> <small>(ADICIONADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-La Suprema Corte de Justicia de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por sus características especiales así lo ameriten.
+La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
 > <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -4550,17 +4672,23 @@ VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria d
 
 VII.- El amparo contra actos en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra leyes o contra actos de autoridad administrativa, se interpondrá ante el juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia.
 
-> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-VIII.- Contra las sentencias que pronuncien en amparo los jueces de distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia:
+VIII.- Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 a) Cuando habiéndose impugnado en la demanda de amparo, por estimarlos directamente violatorios de esta Constitución, leyes federales o locales, tratados internacionales, reglamentos expedidos por el Presidente de la República de acuerdo con la fracción I del Artículo 89 de esta Constitución y reglamentos de leyes locales expedidos por los gobernadores de los Estados o por el Jefe del Distrito Federal, subsista en el recurso el problema de constitucionalidad;
 
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+
 b) Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
-La Suprema Corte de Justicia de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos en revisión que por sus características especiales así lo ameriten.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos en revisión, que por su interés y trascendencia así lo ameriten.
+
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
@@ -4574,21 +4702,25 @@ X.- Los actos reclamados podrán ser objeto de suspensión en los casos y median
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
 
-> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-XI.- La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos promovidos ante los tribunales colegiados de circuito, y la propia autoridad responsable decidirá al respecto; en todo caso, el agraviado deberá presentar la demanda de amparo ante la propia autoridad responsable, acompañando copias de la demanda para las demás partes en el juicio, incluyendo al Ministerio Público y una para el expediente. En los demás casos, conocerán y resolverán sobre la suspensión los juzgados de distrito.
+XI.- La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos promovidos ante los Tribunales Colegiados de Circuito y la propia autoridad responsable decidirá al respecto. En todo caso, el agraviado deberá presentar la demanda de amparo ante la propia autoridad responsable, acompañando copias de la demanda para las demás partes en el juicio, incluyendo al Ministerio Público y una para el expediente. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito o los Tribunales Unitarios de Circuito.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el juez de Distrito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juez de Distrito o Tribunal Unitario de Circuito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
 
-Si el juez de Distrito no residiere en el mismo lugar que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-XIII.- Cuando los Tribunales Colegiados de Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, los ministros de la Suprema Corte de Justicia, el Procurador General de la República, los mencionados tribunales o las partes que intervinieron en los juicios en que dichas tesis fueron sustentadas, podrán denunciar la contradicción ante la Sala que corresponda, a fin de que decida cuál tesis debe prevalecer.
+XIII.- Cuando los Tribunales Colegiados de Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, los Ministros de la Suprema Corte de Justicia, el Procurador General de la República, los mencionados Tribunales o las partes que intervinieron en los juicios en que dichas tesis fueron sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, a fin de que el Pleno o la Sala respectiva, según corresponda, decidan la tesis que debe prevalecer como jurisprudencia.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia, cualquiera de esas Salas, el Procurador General de la República o las partes que intervinieron en los juicios en que tales tesis hubieran sido sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, que funcionando en pleno decidirá cuál tesis debe prevalecer.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 La resolución que pronuncien las Salas o el Pleno de la Suprema Corte en los casos a que se refieren los dos párrafos anteriores, sólo tendrá el efecto de fijar la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción, y (sic)
 
@@ -4600,9 +4732,13 @@ XIV.- Salvo lo dispuesto en el párrafo final de la fracción II de este artícu
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda.
+XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, y la Suprema Corte de Justicia estima que es inexcusable el incumplimiento, dicha autoridad será inmediatamente separada de su cargo y consignada al Juez de Distrito que corresponda. Si fuere excusable, previa declaración de incumplimiento o repetición, la Suprema Corte requerirá a la responsable y le otorgará un plazo prudente para que ejecute la sentencia. Si la autoridad no ejecuta la sentencia en el término concedido, la Suprema Corte de Justicia procederá en los términos primeramente señalados.
+
+Cuando la naturaleza del acto lo permita, la Suprema Corte de Justicia, una vez que hubiera determinado el incumplimiento o repetición del acto reclamado, podrá disponer de oficio el cumplimiento substituto de las sentencias de amparo, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiera obtener el quejoso. Igualmente, el quejoso podrá solicitar ante el órgano que corresponda, el cumplimiento substituto de la sentencia de amparo, siempre que la naturaleza del acto lo permita.
+
+La inactividad procesal o la falta de promoción de parte interesada, en los procedimientos tendientes al cumplimiento de las sentencias de amparo, producirá su caducidad en los términos de la ley reglamentaria.
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -4616,6 +4752,8 @@ XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
 
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 1995 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 108.
@@ -4624,7 +4762,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales y los Magistrados de los Tribunales Superiores de Justicia Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
 
 Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios.
 
@@ -4648,15 +4788,15 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los Senadores y Diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo; los Representantes a la Asamblea del Distrito Federal, el titular del órgano u órganos de gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político los Senadores y Diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Representantes a la Asamblea del Distrito Federal, el titular del órgano u órganos de gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-Los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia Locales, sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas locales para que en ejercicio de sus atribuciones procedan como corresponda.
+Los Gobernadores de los Estados, Diputados Locales, Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, sólo podrán ser sujetos de juicio político en los términos de este título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas Locales para que, en ejercicio de sus atribuciones, procedan como corresponda.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -4674,11 +4814,11 @@ Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de senten
 
 Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 111.
 
-Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Representantes a la Asamblea del Distrito Federal, el titular del órgano de gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Representantes a la Asamblea del Distrito Federal, el titular del órgano de gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -4692,9 +4832,9 @@ Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición
 
 Por lo que toca al Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
-Para poder proceder penalmente por delitos federales contra los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia de los Estados, se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas locales, para que en ejercicio de sus atribuciones procedan como corresponda.
+Para poder proceder penalmente por delitos federales contra los Gobernadores de los Estados, Diputados Locales, Magistrados de los Tribunales Superiores de Justicia de los Estados y, en su caso, los miembros de los Consejos de las Judicaturas Locales, se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas Locales, para que en ejercicio de sus atribuciones procedan como corresponda.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -4850,11 +4990,13 @@ III.- El Poder Judicial de los Estados se ejercerá por los tribunales que estab
 
 La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por las Constituciones y las Leyes Orgánicas de los Estados, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan a los Poderes Judiciales de los Estados.
 
-Los magistrados integrantes de los Poderes Judiciales Locales deberán reunir los requisitos señalados por el artículo 95 de esta Constitución.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los Magistrados integrantes de los Poderes Judiciales Locales, deberán reunir los requisitos señalados por las fracciones I a V del artículo 95 de esta Constitución. No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario o su equivalente, Procurador de Justicia o Diputado Local, en sus respectivos Estados, durante el año previo al día de la designación.
 
 Los nombramientos de los magistrados y jueces integrantes de los Poderes Judiciales Locales serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-Los jueces de primera instancia y los que con cualquiera otra denominación se creen en los Estados, serán nombrados por el Tribunal Superior o por el Supremo Tribunal de Justicia de cada Estado.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Los magistrados durarán en el ejercicio de su encargado (sic) el tiempo que señalen las Constituciones Locales, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen las Constituciones y las Leyes de Responsabilidades de los Servidores Públicos de los Estados.
 
@@ -4941,6 +5083,8 @@ Las sentencias sobre derechos personales sólo serán ejecutadas en otro Estado,
 IV.- Los actos del estado civil ajustados a las leyes de un Estado, tendrán validez en los otros.
 
 V.- Los títulos profesionales expedidos por las autoridades de un Estado, con sujeción a sus leyes, serás (sic) respetados en los otros.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 1995 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
@@ -5066,13 +5210,57 @@ h) El Jefe del Distrito Federal será responsable ante el Congreso de la Unión 
 
 i) El Jefe del Distrito Federal, podrá ser removido de su cargo por el Senado, en sus recesos, por la Comisión Permanente, por causas graves que afecten las relaciones con los Poderes de la Unión o el orden público en el Distrito Federal. La solicitud de remoción deberá ser presentada por la mitad de los miembros de la Cámara de Senadores o de la Comisión Permanente, en su caso.
 
-VII.- La función judicial se ejercerá por el Tribunal Superior de Justicia, el cual se integrará por el número de magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley señale. Para ser magistrado se deberán reunir los mismos requisitos que establece el Artículo 95 de esta Constitución.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+VII.- La función judicial se ejercerá por el Tribunal Superior de Justicia, el cual se integrará por el número de Magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley señale. Para ser magistrado se deberán reunir los requisitos que establecen las fracciones I a V del artículo 95 de esta Constitución. No podrán ser Magistrados las personas que hayan ocupado el cargo del Jefe del Distrito Federal, Secretario General, Procurador General de Justicia, o Representante a la Asamblea del Distrito Federal, durante el año previo al día de la designación.
 
 Los nombramientos de los magistrados se harán por el Jefe del Distrito Federal, en los términos previstos por el Estatuto de gobierno y la ley orgánica respectiva. Los nombramientos de los magistrados serán sometidos a la aprobación de la Asamblea de Representantes. Cada magistrado del Tribunal, al entrar a ejercer su cargo, rendirá protesta de guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, ante el Pleno de la Asamblea de Representantes.
 
 Los magistrados durarán seis años en el ejercicio de su cargo, podrán ser ratificados, y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
 
-El Tribunal Superior de Justicia elaborará su propio presupuesto para su inclusión en el proyecto de presupuesto de egresos que el Jefe del Distrito Federal envíe a la Asamblea de Representantes;
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales estarán a cargo del Consejo de la Judicatura del Distrito Federal, en los términos que, conforme a las bases que señala esta Constitución, establezcan el Estatuto de Gobierno y las leyes respectivas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Consejo intervendrá en la designación de los Magistrados y designará a los Jueces de Primera Instancia y a los que con otra denominación se creen en el Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Consejo de la Judicatura del Distrito Federal, se integrará por siete miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado, un Juez de Primera Instancia, un Juez de Paz, electos mediante insaculación; dos consejeros designados por la Asamblea de Representantes y uno por el Jefe del Distrito Federal. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser Magistrado establece le ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Consejo funcionará en pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de magistrados y jueces, así como de los demás asuntos que la ley determine.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en términos del Título Cuarto de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+A los Magistrados y Jueces del Tribunal Superior de Justicia y a los Consejeros de la Judicatura del Distrito Federal les serán aplicables los impedimentos y las sanciones previstos en el artículo 101 de esta Constitución. Para estos efectos, los impedimentos para actuar como patronos, abogados o representantes en cualquier proceso estarán referidos a los órganos judiciales del Distrito Federal; y los de ocupar cargos, a los señalados en el primer párrafo de esta fracción.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Pleno y las Salas del Tribunal Superior, así como los Jueces de Primera Instancia y demás órganos judiciales que con cualquier otra denominación se creen, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca la ley en materia de carrera judicial.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+El Consejo de la Judicatura del Distrito Federal elaborará el presupuesto del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales y lo remitirá para su inclusión en el proyecto de presupuesto de egresos.
 
 VIII.- El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General de Justicia; y
 
@@ -5092,7 +5280,7 @@ c) Las demás reglas para la regulación conjunta y coordinada del desarrollo de
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 ### CAPÍTULO I. DEL IMPUESTO PREDIAL
 
@@ -5564,7 +5752,9 @@ Las aportaciones que se hagan a dicho fondo serán enteradas al organismo encarg
 
 XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria.
 
-Los conflictos entre el Poder Judicial de la Federación y sus servidores, serán resueltos por el Pleno de la Suprema Corte de Justicia de la Nación;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
+Los conflictos entre el Poder Judicial de la Federación y sus servidores serán resueltos por el Consejo de la Judicatura Federal; los que se susciten entre la Suprema Corte de Justicia y sus empleados serán resueltos por esta última.
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -5572,7 +5762,7 @@ XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, a
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1972)</small>
 
-El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
+El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y (sic)
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
@@ -7957,6 +8147,54 @@ D.O.F. 1 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
+
+D.O.F. 31 DE DICIEMBRE DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos Octavo y Noveno siguientes.
+
+SEGUNDO.- Los actuales Ministros de la Suprema Corte de Justicia de la Nación concluirán sus funciones a la entrada en vigor del presente Decreto. Recibirán una pensión igual a la que para casos de retiro forzoso prevé el "Decreto que establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación".
+
+A los Ministros citados en el párrafo anterior, no les serán aplicables los impedimentos a que se refieren el último párrafo del artículo 94 y el tercer párrafo del artículo 101, reformados por virtud del presente Decreto.
+
+De regresar al ejercicio de sus funciones, de conformidad con el procedimiento previsto en el artículo 96 reformado por virtud del presente Decreto, se suspenderá el derecho concedido en el primer párrafo de este artículo, durante el tiempo en que continúen en funciones.
+
+TERCERO.- Para la nominación y aprobación de los primeros ministros que integrarán la Suprema Corte de Justicia de la Nación, conforme a las reformas previstas en el presente Decreto, el titular del Ejecutivo Federal propondrá ante la Cámara de Senadores, a 18 personas, de entre las cuales dicha Cámara aprobará, en su caso, los nombramientos de 11 ministros, con el voto de las dos terceras partes de sus miembros.
+
+CUARTO.- Para los efectos del primer párrafo del artículo 97 de este Decreto de Reformas, la ley que reglamente la selección, ingreso, promoción o remoción de los miembros del Poder Judicial Federal, distinguirá los casos y procedimientos que deban resolverse conforme a las fracciones I, II y III del artículo 109 de la Constitución.
+
+La Cámara de Senadores, previa comparecencia de las personas propuestas, emitirá su resolución dentro del improrrogable plazo de treinta días naturales.
+
+El período de los Ministros, vencerá el último día de noviembre del año 2003, del 2006, del 2009 y del 2012, para cada dos de ellos y el último día de noviembre del año 2015, para los tres restantes. Al aprobar los nombramientos, el Senado deberá señalar cuál de los períodos corresponderá a cada Ministro.
+
+Una vez aprobado el nombramiento de, por lo menos, siete Ministros, se realizará una sesión solemne de apertura e instalación, en la cual se designará al Presidente de la Suprema Corte de Justicia de la Nación.
+
+QUINTO.- Los magistrados de Circuito y el Juez de Distrito electos la primera vez para integrar el Consejo de la Judicatura Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por el Senado y el designado por el Ejecutivo, vencerá el último día de noviembre de 1999 y el correspondiente al Consejero restante, el último día de noviembre del año 1997. El Senado y el Ejecutivo Federal deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
+
+El Consejo quedará instalado una vez designados cinco de sus miembros, siempre y cuando uno de ellos sea su Presidente.
+
+SEXTO.- En tanto quedan instalados la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, en términos de los transitorios Tercero y Quinto anteriores, la última Comisión de Gobierno y Administración de la propia Corte, ejercerá las funciones de ésta y atenderá los asuntos administrativos del Poder Judicial de la Federación. En esa virtud, lo señalado en el artículo segundo transitorio será aplicable, en su caso, a los miembros de la citada Comisión, una vez que haya quedado formalmente instalada la Suprema Corte de Justicia, en términos de lo dispuesto en el presente Decreto.
+
+Corresponde a la propia Comisión convocar a la sesión solemne de apertura e instalación a que se refiere el artículo Tercero transitorio, así como tomar las medidas necesarias para que la primera insaculación de los Magistrados de Circuito y del Juez de Distrito que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
+
+La Comisión dejará de funcionar una vez que haya dado cuenta de los asuntos atendidos conforme a los párrafos anteriores, a la Suprema Corte o al Consejo de la Judicatura Federal, según corresponda, cuando estos últimos se encuentren instalados.
+
+SEPTIMO.- El Magistrado, el Juez de Primera Instancia y el Juez de Paz electos la primera vez para integrar el Consejo de la Judicatura del Distrito Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por la Asamblea de Representantes del Distrito Federal y el designado por el Jefe del Departamento del Distrito Federal vencerá el último día de noviembre de 1999, y el correspondiente al Consejero restante, el último día de noviembre de 1997. La Asamblea y el Jefe del Departamento deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
+
+El Consejo quedará instalado una vez designados cinco de sus miembros.
+
+El Pleno del Tribunal Superior de Justicia continuará a cargo de los asuntos administrativos, hasta en tanto quede constituido el Consejo. Asimismo, tomará las medidas necesarias para que la elección del Magistrado y del Juez de Primera Instancia que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las reformas al artículo 105, entrarán en vigor en la misma fecha en que entre en vigor la ley reglamentaria correspondiente.
+
+NOVENO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
+
+Las reformas a la fracción XVI del artículo 107, entrarán en vigor en la misma fecha en que entren en vigor las reformas a la ley reglamentaria de los artículos 103 y 107 constitucionales.
+
+DECIMO.- Los conflictos de carácter laboral entre el Poder Judicial de la Federación y sus servidores, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes, al entrar en vigor el presente Decreto, ante el Consejo de la Judicatura Federal o la Suprema Corte de Justicia, según corresponda, una vez integrados conforme a los artículos Tercero y Quinto transitorios anteriores.
+
+DECIMO PRIMERO.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirán aplicándose los vigentes al entrar en vigor las reformas, en lo que no se opongan a éstas.
+
+DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Judicial de la Federación serán respetados íntegramente.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
