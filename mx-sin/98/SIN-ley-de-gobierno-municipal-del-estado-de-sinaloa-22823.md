@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2002-08-09"
+last_updated: "2003-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -605,29 +605,49 @@ II. Hacienda;
 
 III. Urbanismo, Ecología y Obras Públicas;
 
-IV. Industria, Comercio, Turismo y Artesanías;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
 
-V. Agricultura y Ganadería;
+IV. Turismo y Comercio;
 
-VI. Educación;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
 
-VII. Salubridad y Asistencia;
+V. Industria y Artesanías;
 
-VIII. Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
 
-IX. Acción Social y Cultural;
+VI. Agricultura y Ganadería;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
 
-X. Rastros, Mercados y Centrales de Abasto;
+VII. Pesca y Acuacultura;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
 
-XI. De Concertación Política; y,
+VIII. Educación;
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
 
-XII. De Juventud y Deporte.
+IX. Salubridad y Asistencia;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
+
+X. Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
+
+XI. Acción Social y Cultural;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
+
+XII. Juventud y Deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2003)</small>
+
+XIII. Rastros, Mercados y Centrales de Abasto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2003)</small>
+
+XIV. De concertación Política.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -635,11 +655,11 @@ Las Comisiones Permanentes tendrán la competencia que se derive de su denominac
 
 Las comisiones transitorias serán designadas por el Ayuntamiento en cualquier tiempo de su ejercicio, para el estudio de determinado asunto o la realización de una labor o comisión oficial específica.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 46.
 
-Las comisiones podrán ser unitarias o colegiadas. Cuando sean unitarias, se designará un suplente.
-
-Las Comisiones colegiadas serán plurales, por lo cual, no podrán estar integradas por regidores de un sólo partido político.
+Las comisiones permanentes y transitorias serán colegiadas y plurales, por lo cual, no podrán estar integradas por regidores de un solo partido político.
 
 ###### Artículo 47.
 
@@ -1294,6 +1314,12 @@ Gonzalo M. Armienta Calderón
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE AGOSTO DE 2002.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE AGOSTO DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
