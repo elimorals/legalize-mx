@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1926-12-09"
+last_updated: "1927-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 1927.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -409,9 +409,11 @@ IV.- No ser Ministro de CULTO ALGUNO.
 
 V.- No haber sido condenado por cualquier delito a más de un año de prisión, excepto el delito de culpa (sic), cualquiera que haya sido la pena; pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-VI.- No ser Diputado Suplente en funciones dentro de los seis meses anteriores al día de la elección.
+VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1927)
 
-VII.- No ser funcionario o empleado público del Estado, del Municipio o de la Federación, dentro de los noventa días inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1927)</small>
+
+VII.- No ser empleado público del Estado, del Municipio o de la Federación, dentro de los noventa días inmediatamente anteriores al día de la elección.
 
 ###### Artículo 56.
 
@@ -1084,3 +1086,7 @@ El Supremo Tribunal de Justicia proveerá al nombramiento de los Jueces de Prime
 ###### Artículo 3o.
 
 Los actuales Defensores de Oficio, continuarán en funciones hasta que termine su período legal, y para lo sucesivo, el Ejecutivo los nombrará y tendrá las demás atribuciones que le señalen las leyes respectivas, quedando facultado mientras tanto, para conceder licencias y aceptar renuncias a los actuales Defensores.
+
+P.O. 6 DE OCTUBRE DE 1927.
+
+Artículo único.- Estas reformas entrarán en vigor desde el día de su publicación en el Periódico Oficial del Estado.
