@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1995-11-10"
+last_updated: "1996-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -125,7 +125,7 @@ El Gobierno del Estado es Republicano, Representativo y Popular, teniendo como b
 
 LABORES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 9o.
 
@@ -609,7 +609,7 @@ Del Poder Ejecutivo.
 
 ###### ARTICULO 38.
 
-El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar el día 1o. de diciembre inmediato posterior a la elección.
+El Congreso se renovará en su totalidad cada tres años, y comenzará a funcionar el día 15 de enero del año inmediato posterior a la elección.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
 
@@ -629,11 +629,11 @@ Si por cualquier circunstancia no se instalare la nueva Legislatura de conformid
 
 El Congreso no puede abrir sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los Diputados que asistan los días señalados por la Ley deberán compeler a los ausentes para que concurran, apercibiéndolos de las penas que la misma Ley establezca y, en su caso, llamarán a los respectivos suplentes, a fin de que desempeñen las funciones de los propietarios mientras se presentan éstos, o bien, los substituyan en forma definitiva conforme a la Ley.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 42.
 
-El Congreso realizará dos períodos ordinarios de sesiones anuales que durarán cuatro meses cada uno. El primero se iniciará el día primero de diciembre y terminará el último de marzo y el segundo comenzará el primero de junio y terminará el último de septiembre.
+El Congreso realizará dos Períodos Ordinarios de Sesiones Anuales, que durarán cuatro meses cada uno. El primero se iniciará el 15 de enero y terminará el 15 de mayo, el segundo comenzará el 15 de julio y terminará el 15 de noviembre.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -915,13 +915,17 @@ El ejercicio del Poder Ejecutivo del Estado se deposita en un solo ciudadano que
 
 La elección de Gobernador, será popular, directa y se realizará en los términos que disponga el Código Electoral del Estado de Tlaxcala.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 59.
 
-El Gobernador entrará a ejercer su cargo el día 15 de enero inmediato posterior a la elección y durará en él seis años.
+El Gobernador protestará el cargo el día 14 de enero inmediato posterior a la elección y entrará a ejercerla el día 15 y durará en él seis años.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 El ciudadano que haya desempeñado el cargo de Gobernador, cuyo origen haya sido la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 Nunca podrán ser electos para el período inmediato:
 
@@ -1299,11 +1303,11 @@ La Ley Orgánica del Poder Judicial determinará el número de Magistrados y Jue
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 1995)</small>
+(REFORMADO PRIMER PARRAFO, P.O.17 DE ENERO DE 1996)(F. DE E., P.O. 30 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 87.
 
-Los Ayuntamientos se compondrán de un Presidente Municipal, un Síndico y los Regidores que determine la Ley, nombrados cada tres años, en elección popular directa calificada por el Congreso en los términos que la propia Ley prescriba. Los Presidentes Municipales Auxiliares electos en la misma elección de los Ayuntamientos y conforme lo dispongan las Leyes respectivas, formarán parte de los propios Ayuntamientos con el carácter de Regidores, tomarán posesión el día tres de enero inmediato posterior a la elección. Y no podrán ser reelectos ni como propietarios ni como suplentes, para el período inmediato al en que hubieren ejercido su encargo.
+Los Ayuntamientos se compondrán de un Presidente Municipal, un Síndico y los Regidores que determine la Ley, nombrados cada tres años, en elección popular directa calificada por el Consejo en los términos que la propia Ley prescriba. Los Presidentes Municipales Auxiliares electos en la misma elección de los Ayuntamientos y conforme lo dispongan las leyes respectivas, formarán parte de los propios Ayuntamientos con el carácter de Regidores, tomarán posesión el día quince de enero inmediato posterior a la elección. Y no podrán ser reelectos ni como propietarios ni como suplentes para el período inmediato al en que hubieren ejercido su encargo.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1904,3 +1908,13 @@ P.O. 10 DE NOVIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta única vez los Diputados electos para integrar la Quincuagésima Quinta Legislatura al Congreso del Estado, iniciarán su ejercicio constitucional en la forma y en los términos que establecen los Artículos 38 y 42 vigentes.
