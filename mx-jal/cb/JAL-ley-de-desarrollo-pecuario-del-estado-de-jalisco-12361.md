@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-pecuario-del-estado-de-jalisco-12361"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1995-11-18"
+last_updated: "1999-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1999
 
 Ley publicada en P.O. 4 de enero de 1994 Sección III
 
@@ -141,6 +141,8 @@ VI. Expedir los reglamentos que se deriven de esta ley, para su exacta aplicaci�
 
 VII. Las demás que le otorguen la presente ley y otros ordenamientos jurídicos estatales y federales que concurren en la regulación de las actividades pecuarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE 21 DE 1999)</small>
+
 ###### Artículo 8.
 
 Compete a la Secretaría de Desarrollo Rural del Estado, en lo concerniente a la actividad pecuaria las siguientes atribuciones:
@@ -169,7 +171,9 @@ XI. Establecer el Registro Estatal de Productores Pecuarios y expedir las tarjet
 
 XII. Llevar el registro de fierros, tatuajes y marcas que permitan identificar a los ganados y acreditar su propiedad;
 
-XIII. Autorizar a los propietarios el realeo de ganado;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+XIII. Autorizar a los propietarios el realeo de ganado, a través de los inspectores de rastros municipales.
 
 XIV. Expedir las guías de tránsito para controlar la movilización de ganado que se origine en el estado;
 
@@ -179,7 +183,7 @@ XVI. Otorgar los permisos para el establecimiento de expendios de carne clasific
 
 XVII. Aplicar las sanciones establecidas en la presente ley y sus reglamentos, comunicando a la Secretaría de Finanzas las sanciones económicas que determine, para su liquidación y ejecución;
 
-XVIII. Admitir y resolver el recurso administrativo previsto en esta ley;
+XVIII. Admitir y resolver el recurso administrativo previsto en esta ley; y
 
 XIX. Auxiliar al Ministerio Público en la persecución del delito de abigeato; y
 
@@ -479,13 +483,27 @@ I. Recuento.- La reunión que los productores hacen del ganado que agosta en ter
 
 II. Realeo.- El desalojo del ganado que mediante el recuento realizado, resultó ser ajeno.
 
+(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999).
+
 ###### Artículo 43.
 
-Para llevar a cabo el realeo de ganado, todo propietario, comunero o ejidatario, debe recabar la autorización correspondiente de la Secretaría de Desarrollo Rural, justificado la razón, causa o circunstancia del realeo.
+Para llevar a cabo el realeo de ganado, todo propietario, ejidatario, o legítimo posesionario, debe recabar la autorización conjunta del Presidente Municipal y del Inspector del Rastro Municipal, que correspondan, justificando la razón, causa o circunstancia del realeo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 44.
 
-La Secretaría de Desarrollo Rural, concederá autorización para efectuar realeos, tantas veces como juzgue conveniente, dando aviso a la Presidencia Municipal y a la Asociación pecuaria correspondiente, para que nombre cada uno su representante y en caso de ser necesario, hacer uso de la fuerza pública.
+Quien solicite la autorización para el desalojo de ganado ajeno deberá hacerlo por escrito ante el Presidente Municipal con copia para el Inspector del Rastro Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+Cuando los semovientes fueren identificados como propiedad de persona domiciliada en el mismo municipio, o bien, al cuidado de persona conocida en el lugar, el Inspector del Rastro Municipal bajo su responsabilidad deberá notificarles de inmediato con copia de la solicitud de realeo, advirtiéndoles que de no tomar las medidas necesarias para su desalojo, se procederá conforme a lo señalado en el artículo 46.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+
+Artículo 44 bis.- El realeo se efectuará en presencia del Secretario del Ayuntamiento con la participación del Inspector del Rastro Municipal, del solicitante y del representante de la asociación ganadera acreditada en el lugar, cuando fuera asignado.
+
+De los hechos se levantará acta circunstanciada que suscribirán las personas referidas en el párrafo anterior en compañía de testigos de asistencia y de las demás personas que se juzgue conveniente.
 
 ###### Artículo 45.
 
@@ -918,3 +936,7 @@ Lic. José Luis Leal Sanabria
 P.O. 18 DE NOVIEMBRE DE 1995
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 21 DE SEPTIEMBRE DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
