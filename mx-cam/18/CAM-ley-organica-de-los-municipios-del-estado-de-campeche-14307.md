@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1994-12-29"
+last_updated: "1996-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -195,6 +195,10 @@ III.- La Sección Municipal de Tixmucuy;
 
 IV.- La Sección Municipal de Alfredo V. Bonfil;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 1996)</small>
+
+IV A.- La Sección Municipal de Hampolol;
+
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 1994)</small>
 
 V.- Cayo Arcas;
@@ -205,15 +209,19 @@ VI.- Las poblaciones, ejidos, rancherías, y heredades que constituyen la circun
 
 A la ciudad de Campeche, Cabecera del Municipio corresponden:
 
-a) Los pueblos de Castamay, Chiná, Hampolol, Lerma y Samulá.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1996)</small>
 
-b) Los Ejidos de Bethania, Cayal, Chemblás, Hobomó, Kobén, Mucuychakán, Nilchí, San Camilo y Tiquimul.
+a) Los pueblos de Castamay, Chiná, Lerma y Samulá.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1996)</small>
+
+b) Los Ejidos de Cayal, Hobomó, Mucuychakán, Nilchí, San Camilo y Tikinmul.
 
 c) Las Haciendas de Chivic, Ebulá, Jesús María, Multunchac, Olá, San Lorenzo, Xcampeu, Yalsí y Yaxá.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1996)</small>
 
-d) Los ranchos de Aguada, Buenavista, Canisté, El Carmelo, Cuatro Hermanos, Chencollí, El Chi, Chulbac, Cumpich, Las Delicias, Escalera, Fénix, Las Flores, Holtabla, Imí, Kalá, Miramar, Moa, Orotova, Paraíso, Playa Alegre, El Potrero, El Prado, Río Verde, San Bartolo, San Fernando, San Francisco, San Isidro, San José, San José (sic), San Miguel, San Nicolás, San Pedro, San Pedro (sic), San Pedro Corralché, San Rafael, San Sebastián, Santa Cristina, Santa María, Santa María (sic), Santa Rita, Santa Rosalía, Tacubaya, Tachic, Tec, Topcemó, Umul, Victoria, Xanabchakán, Xbechel, Xtun, Scuch, Yaxcab y Yucumbalán.
+d) Los ranchos de Aguada, Buenavista, Canisté, El Carmelo, Cuatro Hermanos, Chencollí, El Chi, Chulbac, Cumpich, Las Delicias, Escalera, Fénix, Las Flores, Holtabla, Imí, Kalá, Miramar, Moa, Orotova, Paraíso, Playa Alegre, El Potrero, El Prado, San Bartolo, San Fernando, San Francisco, San Isidro, San José, San Nicolás, San Pedro, San Pedro (sic), San Pedro Corralché, San Rafael, San Sebastián, Santa Cristina, Santa María, Santa María (sic), Santa Rita, Santa Rosalía, Tacubaya, Tachic, Tec, Topcemó, Umul, Victoria, Xanabchakán, Xbechel, Xtún, Scuch, y Yucumbalán.
 
 A la Sección Municipal de Pich, corresponden:
 
@@ -252,6 +260,18 @@ a) El ejido de Alfredo V. Bonfil, Cabecera de la Sección.
 b) Los ejidos de Pueblo Nuevo de Cayán, Crucero Oxá y Uzahzil-Edzná Nohyaxché.
 
 c) La zona arqueológica de Edzná.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 1996)</small>
+
+A la Sección Municipal de Hampolol, corresponden:
+
+a) El pueblo de Hampolol, Cabecera de la Sección.
+
+b) Los ejidos de Bethania, Chemblás y San Francisco Kobén.
+
+c) Los ranchos de Santiago Aguada, San Mario, Yaxcab, Ranqueño, Río Verde, La Manga, San Miguel, El Poste, Hermanos Carrillo, Cinco Hermanos, Rancho Kobén, Xbechel, Xkobén y Alegre; y
+
+d) Las áreas de producción Horticultores de Kobén.
 
 ###### ARTICULO 15.
 
@@ -2654,3 +2674,13 @@ Cuarto.- Por esta única ocasión se prorroga hasta el 31 de enero de 1995 el ma
 Quinto.- Entre tanto los ayuntamientos y las juntas municipales elaboran sus propios padrones electorales para las elecciones a que este decreto se contrae, así como sus credenciales para votar, quedan facultados para utilizar los padrones utilizados por el consejo electoral del estado en las últimas elecciones generales y en la entidad y para aceptar la credencial para votar con fotografía expedida por el instituto federal electoral.
 
 Sexto.- Para efectos de lo dispuesto en el artículo anterior se faculta a los ayuntamientos y juntas municipales para celebrar con el consejo electoral del estado los convenios de colaboración y apoyo que considere necesarios.
+
+P.O. 29 DE JUNIO DE 1996.
+
+Primero.- El presente Decreto entrará en vigor el día 1º. de Octubre de 1997.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido de este Decreto.
+
+Tercero.- El Consejo Electoral del Estado deberá proceder a adoptar las medidas que sean necesarias, a efecto de que en las elecciones que tendrán lugar el primer domingo de julio de 1997 se elija a los integrantes de la H. Junta Municipal que, en auxilio del H. Ayuntamiento del Municipio de Campeche, administrará la Sección de Hampolol.
+
+Cuarto.- El H. Ayuntamiento del Municipio de Campeche también deberá proceder a emitir las disposiciones administrativas atinentes a las previsiones que consecuentemente correspondan en su Presupuesto de Egresos para el Ejercicio Fiscal 1997.
