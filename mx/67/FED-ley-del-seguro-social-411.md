@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1994-12-29"
+last_updated: "1995-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL SEGURO SOCIAL, PUBLICADA EN EL D.O.F. DE 21 DE DICIEMBRE DE 1995, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -2792,6 +2794,14 @@ VI.- Las demás que señalen esta Ley, sus reglamentos, el Consejo Técnico y la
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
 
+ARTICULO 258 TER.- Los Consejos Consultivos Regionales se integrarán en la forma que determine el Consejo Técnico, debiendo estar representados en los mismos todas las Delegaciones que correspondan a la región e invariablemente deberán mantener la proporcionalidad entre las representaciones de los trabajadores, de los patrones y del Gobierno. Dichos consejos sesionarán bimestralmente en forma ordinaria y en forma extraordinaria en cualquier tiempo, cuando así se requiera.
+
+###### ARTICULO 258.
+
+El Director General tendrá derecho de veto sobre las resoluciones del Consejo Técnico, en los casos que fije el reglamento. El efecto del veto será suspender la aplicación de la resolución del Consejo, hasta que resuelva en definitiva la Asamblea General.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
 ARTICULO 258 BIS.- Son atribuciones de los Directores Regionales en su ámbito de circunscripción territorial las siguientes:
 
 I.- Convocar y presidir las sesiones ordinarias o extraordinarias, del Consejo Consultivo Regional;
@@ -2801,14 +2811,6 @@ II.- Autorizar las actas de las sesiones celebradas por el Consejo Consultivo Re
 III.- Ejecutar y vigilar el cumplimiento de los acuerdos y resoluciones emitidos por el H. Consejo Técnico, la Dirección General y los Consejos Consultivos Regionales, y
 
 IV.- Las demás que le señalen esta Ley, sus reglamentos y demás disposiciones legales.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
-
-ARTICULO 258 TER.- Los Consejos Consultivos Regionales se integrarán en la forma que determine el Consejo Técnico, debiendo estar representados en los mismos todas las Delegaciones que correspondan a la región e invariablemente deberán mantener la proporcionalidad entre las representaciones de los trabajadores, de los patrones y del Gobierno. Dichos consejos sesionarán bimestralmente en forma ordinaria y en forma extraordinaria en cualquier tiempo, cuando así se requiera.
-
-###### ARTICULO 258.
-
-El Director General tendrá derecho de veto sobre las resoluciones del Consejo Técnico, en los casos que fije el reglamento. El efecto del veto será suspender la aplicación de la resolución del Consejo, hasta que resuelva en definitiva la Asamblea General.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -3577,3 +3579,131 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social que por virtud del presente Decreto llegaran a realizarse, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a la observancia del presente Decreto.
+
+D.O.F. 21 DE DICIEMBRE DE 1995.
+
+PRIMERO. Esta Ley entrará en vigor en toda la República el día primero de enero de mil novecientos noventa y siete.
+
+A partir de la entrada en vigor de esta Ley, se derogan la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día doce de marzo de 1973, la Ley que incorpora al Régimen del Seguro Social obligatorio a los Productores de Caña de Azúcar y a sus trabajadores, publicada el siete de diciembre de 1963 en dicho órgano oficial, así como todas las disposiciones legales que se opongan a la presente Ley.
+
+SEGUNDO. En tanto se expidan las disposiciones reglamentarias correspondientes continuarán aplicándose los Reglamentos de la Ley del Seguro Social que se deroga, en lo que no se opongan al presente ordenamiento.
+
+TERCERO. Los asegurados inscritos con anterioridad a la fecha de entrada en vigor de esta Ley, así como sus beneficiarios, al momento de cumplirse, en términos de la Ley que se deroga, los supuestos legales o el siniestro respectivo para el disfrute de cualquiera de las pensiones, podrán optar por acogerse al beneficio de dicha Ley o al esquema de pensiones establecido en el presente ordenamiento.
+
+CUARTO. Para el caso de los trabajadores que hayan cotizado en términos de la Ley del Seguro Social que se deroga, y que llegaren a pensionarse durante la vigencia de la presente Ley, el Instituto Mexicano del Seguro Social, estará obligado, a solicitud de cada trabajador, a calcular estimativamente el importe de su pensión para cada uno de los regimenes, a efecto de que éste pueda decidir lo que a sus intereses convenga.
+
+QUINTO. Los derechos adquiridos por quienes se encuentran en período de conservación de los mismos, no serán afectados por la entrada en vigor de esta Ley y sus titulares accederán a las pensiones que les correspondan conforme a la Ley que se deroga. Tanto a ellos como a los demás asegurados inscritos, les será aplicable el tiempo de espera de ciento cincuenta semanas cotizadas, para efectos del seguro de invalidez y vida.
+
+SEXTO. El asegurado que a la entrada en vigor de esta Ley se encuentre laborando por semana o jornada reducidas y cotice con base en un salario inferior al mínimo, continuará cotizando en los mismos términos en que lo viene haciendo, mientras dure la relación laboral que origine ese pago. De terminarse esa relación e iniciarse otra similar, aun en el supuesto que el salario percibido fuere inferior al mínimo, cotizará en los términos de esta Ley.
+
+SEPTIMO. Los asegurados a que se refieren los artículos 12 fracción III y 13 de la Ley del Seguro Social, que se deroga, y los comprendidos en la Ley que incorpora al Régimen del Seguro Social Obligatorio a los Productores de Caña de Azúcar y a sus Trabajadores, que también se deroga, conservarán sus derechos adquiridos, esquemas de aseguramiento y bases de cotización.
+
+Los asegurados a que se refiere el párrafo anterior, en un plazo no mayor de un año computado a partir de la fecha en que entre en vigor esta Ley, deberán ratificar su voluntad de permanecer en el régimen obligatorio o continuar incorporados voluntariamente a dicho régimen a través del convenio que para tal fin se formalice con el Instituto, de acuerdo a las bases y términos que establece esta Ley.
+
+OCTAVO. Los seguros facultativos establecidos con anterioridad a la entrada en vigor de esta Ley, continuarán vigentes en sus términos hasta la fecha de su vencimiento.
+
+NOVENO. Los patrones inscritos en el Instituto antes de la entrada en vigor de esta Ley continuarán sujetos hasta el primer bimestre de 1998 a las mismas cuotas que venían cubriendo en el seguro de riegos (sic) de trabajo.
+
+A partir del segundo bimestre de 1998, estos patrones deberán determinar su prima conforme a su siniestralidad registrada del periodo comprendido del 1 de enero al 31 de diciembre de 1997.
+
+Los patrones inscritos o que cambien de actividad bajo la vigencia de esta Ley determinarán su prima en términos del artículo 73 de esta Ley y la modificación anual de la prima conforme a la siniestralidad ocurrida durante el lapso que se establezca en el Reglamento respectivo.
+
+DECIMO. La fórmula contenida en el articulo 72 deberá ser revisada por el Instituto al cumplirse un año de vigencia de la Ley, para el efecto de determinar el factor de prima que permita, en su caso, mantener el equilibrio financiero del Seguro de Riesgos de Trabajo. De requerirse alguna adecuación a esta fórmula se llevarán a cabo, por parte del Instituto, los trámites administrativos necesarios ante las instancias que corresponda, para que éstas a su vez, promuevan lo conducente ante el Congreso de la Unión.
+
+UNDECIMO. Los asegurados inscritos con anterioridad a la fecha de entrada en vigor de esta Ley, al momento de cumplirse los supuestos legales o el siniestro respectivo que, para el disfrute de las pensiones de vejez, cesantía en edad avanzada o riesgos de trabajo, se encontraban previstos por la Ley del Seguro Social que se deroga, podrán optar por acogerse a los beneficios por ella contemplados o a los que establece la presente Ley.
+
+DUODECIMO. Estarán a cargo del Gobierno Federal las pensiones que se encuentren en curso de pago, así como las prestaciones o pensiones de aquellos sujetos que se encuentren en período de conservación de derechos y las pensiones que se otorguen a los asegurados que opten por el esquema establecido por la Ley que se deroga.
+
+DECIMO
+
+TERCERO. Por cuanto hace a los fondos de los trabajadores acumulados en las subcuentas de retiro se estará a lo siguiente:
+
+a) Los sujetos que se encuentren en conservación de derechos y que se pensionen bajo el régimen de la Ley anterior, recibirán además de la pensión que corresponda, sus fondos acumulados en la subcuenta del seguro de retiro en una sola exhibición.
+
+b) Los sujetos que lleguen a la edad de pensionarse por cesantía en edad avanzada y vejez bajo la vigencia de esta ley pero que opten por lo (sic) beneficios de pensiones regulados por la Ley anterior, recibirán la pensión indicada bajo los supuestos de la Ley que se deroga y además los fondos que se hubieran acumulado en su subcuenta de seguro de retiro. Los acumulados en los ramos de cesantía en edad avanzada y vejez serán entregados por las Administradoras de Fondos para el Retiro al Gobierno Federal.
+
+DECIMO
+
+CUARTO. Quienes estuvieran asegurados con anterioridad a la entrada en vigor de esta Ley tendrán derecho a solicitar a la Institución de crédito o entidad autorizada, se transfieran a la Administradora de Fondos para el Retiro la totalidad de los recursos que integran la subcuenta del seguro de retiro de su cuenta individual del Seguro de Ahorro para el Retiro.
+
+Las instituciones de crédito deberán transferir las cuentas individuales que operen a las Administradoras de Fondos para el Retiro que los trabajadores elijan. Las propias instituciones de crédito deberán transferir las cuentas individuales de los trabajadores que no elijan Administradora de Fondos para el Retiro a aquéllas que les indique la Comisión Nacional del Sistema de Ahorro para el Retiro, mediante disposiciones de carácter general que a tal efecto expida.
+
+DECIMO
+
+QUINTO. Las instituciones de crédito que estuvieran operando cuentas individuales del sistema de ahorro para el retiro, con anterioridad a la vigencia de la presente Ley, deberán de abstenerse de seguir captando nuevas cuentas, a partir de la entrada en vigor de este ordenamiento.
+
+Las instituciones de crédito quedarán sujetas a la normatividad anterior a la vigencia de la presente Ley en todas y cada una de las obligaciones a su cargo relacionadas con las cuentas del sistema de ahorro para el retiro. Asimismo quedarán sujetas a la inspección y vigilancia de la Comisión Nacional del Sistema de Ahorro para el Retiro, en tanto manejen cuentas del mencionado sistema.
+
+DECIMO
+
+SEXTO. Al iniciar la vigencia de la presente Ley, subsistirá la subcuenta del seguro de retiro prevista por la legislación que se deroga, misma que seguirá generando los rendimientos respectivos y a la cual no podrán hacerse nuevos depósitos a partir de la entrada en vigor de este Decreto.
+
+DECIMO
+
+SEPTIMO. Los fondos de las subcuentas del seguro de retiro, se transferirán a las Administradoras de Fondos para el Retiro, las que los mantendrán invertidos en estas subcuentas separadas de las subcuentas a que se refiere el artículo 159 fracción I.
+
+Los trabajadores tendrán el derecho de elegir la Administradora de Fondos para el Retiro que administre su cuenta individual.
+
+La Comisión Nacional del Sistema de Ahorro para el Retiro expedirá reglas de carácter general a que se sujetarán las instituciones de crédito para transferir aquellas cuentas de los trabajadores que no ejerzan el derecho a que se refiere el párrafo que antecede.
+
+DECIMO
+
+OCTAVO. A los asegurados que al momento de entrar en vigor esta Ley opten por acogerse al nuevo sistema de pensiones, les serán reconocidas las semanas cotizadas bajo el régimen anterior, con la finalidad de que al cumplirse los requisitos legales, se les conceda la pensión que corresponda.
+
+DECIMO
+
+NOVENO. La tasa sobre el salario mínimo general diario del Distrito Federal a que se refiere la fracción I del artículo 106, se incrementará el primero de julio de cada año en sesenta y cinco centésimas de punto porcentual. Estas modificaciones comenzarán en el año de 1998 y terminarán en el año 2007.
+
+Las tasas a que se refiere la fracción II del artículo 106, se reducirán el primero de julio de cada año en cuarenta y nueve centésimas de punto porcentual la que corresponde a los patrones y en dieciséis centésimas de punto porcentual la que corresponde pagar a los trabajadores. Estas modificaciones comenzarán en el año de 1998 y terminarán en el año 2007.
+
+VIGESIMO. La incorporación al régimen obligatorio de los trabajadores de entidades paraestatales descentralizadas cuyos contratos colectivos de trabajo consignen prestaciones superiores a las de la presente Ley, se efectuará a partir de la fecha de la aprobación del estudio correspondiente.
+
+VIGESIMO
+
+PRIMERO. La Asamblea General del Instituto podrá determinar qué parte de la reserva correspondiente al seguro de invalidez y vida, que se empezó a constituir a partir del 2 de enero de 1991 y hasta el 31 de diciembre de 1996, pueda invertirse en activos distintos a los señalados en el artículo 284, conforme a las bases siguientes:
+
+I. La inversión en activos distintos a los señalados en el artículo 284, en ningún caso podrá ser superior al 50% del total de la propia reserva.
+
+II. La Asamblea General del Instituto determinará anualmente la reducción en el porcentaje que pueda invertirse en activos no financieros, y
+
+III. En todo caso a más tardar dentro de los cuatro años contados a partir del 2 de febrero de 1997, la reserva deberá estar totalmente invertida en términos del artículo 284.
+
+VIGESIMO
+
+SEGUNDO. En un plazo que no exceda de cuatro años a partir del día 2 de enero de 1997, el Instituto deberá adecuar la inversión de su reserva correspondiente al seguro de invalidez y vida, acumulada hasta el 31 de diciembre de 1990, al régimen previsto en el artículo 284 del presente ordenamiento.
+
+La Asamblea General del Instituto, a propuesta del Director General, determinará cada año el programa de ajuste relativo para dar cumplimiento a lo dispuesto en el párrafo inmediato anterior.
+
+VIGESIMO
+
+TERCERO. Las sociedades cooperativas de producción que se encuentren inscritas en los términos de la Ley del Seguro Social que se deroga, continuarán cubriendo el cincuenta por ciento de las primas totales y el Gobierno Federal contribuirá con el otro cincuenta por ciento.
+
+VIGESIMO
+
+CUARTO. Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta Ley, se resolverán conforme a las disposiciones de la derogada Ley del Seguro Social.
+
+VIGESIMO
+
+QUINTO. El artículo 28 de esta Ley entrará en vigor el 1 de enero del año 2007, en lo relativo al seguro de invalidez y vida, así como en los ramos de cesantía y edad avanzada y vejez. Los demás ramos de aseguramiento tendrán como límite superior desde el inicio de la vigencia de esta ley el equivalente a veinticinco veces el salario mínimo general que rija en el Distrito Federal.
+
+A partir de la entrada en vigor de esta Ley el límite del salario base de cotización en veces salario mínimo para el seguro de invalidez y vida, así como para los ramos de cesantía en edad avanzada y vejez, será de quince veces salario (sic) mínimo general vigente en el Distrito Federal, el que se aumentará un salario mínimo por cada año subsecuente hasta llegar a veinticinco en el año 2007.
+
+VIGESIMO
+
+SEXTO. El Reglamento de Afiliación que normará el procedimiento a través del cual se inscribirán los trabajadores asalariados a que se refiere el capítulo X del Título II de esta Ley, se expedirá dentro de los ciento ochenta días posteriores a la entrada en vigor del presente ordenamiento.
+
+VIGESIMO
+
+SEPTIMO. El pago de las cuotas obrero patronales respecto del seguro de retiro, cesantía en edad avanzada y vejez, continuará realizándose en forma bimestral, hasta en tanto no se homológuen los periodos de pago de las Leyes del ISSSTE e INFONAVIT.
+
+VIGESIMO
+
+OCTAVO. A fin de que el marco normativo que regula a las Administradoras de Fondos para el Retiro y a las sociedades de inversión especializadas de fondos para el retiro guarde congruencia con esta Ley, previamente a la entrada en vigor a la misma, se deberá reformar la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
+
+La Ley para la Coordinación de los Sistemas de Ahorro para el Retiro deberá prever la prohibición de que los recursos invertidos en las sociedades de inversión especializadas de fondos para el retiro se destinen al financiamiento de Partidos Políticos, inversiones en el extranjero o cualquier fin distinto al resguardo e incremento de los mismos.
+
+La Ley para la Coordinación de los Sistemas de Ahorro para el Retiro preverá la forma y términos en que la Comisión Nacional del Sistema de Ahorro para el Retiro, enviará un informe por escrito al Congreso de la Unión en forma Semestral, independientemente de los reportes sobre comisiones, número de afiliados, estado de situación financiera, estado de resultados, composición de cartera y rentabilidad de las sociedades de inversión especializadas de fondos para el retiro, que cuando menos en forma trimestral, se den a conocer a la opinión pública.
+
+La canalización de los fondos deberá ajustarse a la inversión en valores cuyo rendimiento proteja los intereses de los asegurados que tienen el carácter de socios en las sociedades de inversión especializadas de fondos para el retiro. Para lo anterior, conforme a la multicitada Ley, se establecerán los mecanismos que garanticen la optimización de estos recursos. La Comisión Nacional del Sistema de Ahorro para el Retiro, tomará en cuenta las recomendaciones que le haga la Comisión Nacional Bancaria y de Valores a este respecto.
+
+Las Administradoras de Fondos para el Retiro, de conformidad con las disposiciones legales aplicables, deberán contar con un procedimiento sencillo y expedito para la contratación de la renta vitalicia y el seguro de sobrevivencia, para lo anterior, se deberá divulgar dicho procedimiento en forma amplia y uniforme.
