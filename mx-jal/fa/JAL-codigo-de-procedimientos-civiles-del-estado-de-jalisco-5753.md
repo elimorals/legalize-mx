@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1990-01-11"
+last_updated: "1991-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5986,7 +5986,9 @@ III.- Por sus presuntos herederos legítimos;
 
 IV.- Por el ejecutor testamentario;
 
-V.- Por el Ministerio Público y los Consejos de Tutelas.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+V.- Por el Ministerio Público y los Consejos Locales de Tutelas y ADOPCION.
 
 ###### ARTICULO 966.
 
@@ -6004,7 +6006,9 @@ III.- Por el ejecutor testamentario;
 
 IV.- Por el Ministerio Público, que en todo caso será oído;
 
-V.- Por el Consejo de Tutelas.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+V.- Por el Consejo de Tutelas y ADOPCION.
 
 ###### ARTICULO 968.
 
@@ -6180,25 +6184,39 @@ Sección 4a.
 
 De la Vigilancia y Cuentas de la Tutela.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1001.
 
-En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del Juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Tutelas y demás interesados, se insertará copia autorizada por el Secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
+En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del Juez, se llevará un registro de los discernimientos que se hicieren de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Tutelas y ADOPCION y demás interesados, se insertará copia autorizada por el Secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 1002.
 
-Dentro de los ocho primeros días de cada año, los Jueces, en audiencia pública, con citación del consejo de tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
+Dentro de los ocho primeros días de cada año, los Jueces, en audiencia pública, con citación del Consejo Local de Tutelas y ADOPCION y del Ministerio Público, procederán a examinar dichos registros y en su vista dictarán, de las medidas siguientes, las que correspondan:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
 
 I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la Ley;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
+
 II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
 
 III.- Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del Artículo 640 del Código Civil;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
+
 IV.- Obligarán a los tutores a que depositen los sobrantes de las rentas o productos del caudal de los menores después de cubiertas las sumas señaladas con arreglo a los Artículos 589, 604 y 615 del Código Civil, y de pagado el tanto por ciento de administración;
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
+
 V.- Si los Jueces lo creyeran conveniente, decretarán depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los Artículos 607 y 608 del Código Civil;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
 
 VI.- Pedirán, al efecto, las noticias que estimen necesarias del Juzgado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
@@ -6344,15 +6362,21 @@ El que pretenda adoptar a alguna persona deberá acreditar:
 
 I.- Que es mayor de 25 años y tiene por lo menos 17 años más de edad que la persona que trata de adoptar;
 
-II.- Que no tiene descendientes;
+II.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 1991)
 
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
 
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
+III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o menores o en su caso, el de proporcionar cuidado y subsistencia al o a los incapacitados, como si se tratara de un hijo, según las circunstancias de las personas que trate de adoptar;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+IV.- Que la adopción es benéfica para la persona o personas que trate de adoptarse; y
 
 V.- Que el adoptante es persona de buenas costumbres.
 
-En la promoción inicial deberá manifestarse; el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+En la promoción inicial deberá manifestarse: el nombre y edad del menor o menores o incapacitados; el nombre y domicilio de quienes ejercen sobre él o ellos la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo o los tenga acogidos.
 
 ###### ARTICULO 1028.
 
@@ -6424,13 +6448,19 @@ De las resoluciones en que se conceda la emancipación se remitirá copia certif
 
 Podrá decretarse el depósito:
 
-I.- De menores o incapacitados sujetos a patria potestad, a tutela, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+I.- De menores o incapacitados sujetos a patria potestad, a tutela o adopción en trámite, si son maltratados por sus padres o tutores o reciben de éstos ejemplos perniciosos o son obligados por ellos a cometer actos reprobados por la ley;
 
 II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 1975)</small>
 
-III.- Del menor de edad que deseando contraer matrimonio necesite acudir a al autoridad judicial para que supla el consentimiento de sus padres o tutores.
+III.- Del menor de edad que deseando contraer matrimonio necesite acudir a al autoridad judicial para que supla el consentimiento de sus padres o tutores;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+IV.- Del menor cuya adopción se tramita, en la persona o personas que lo solicitan.
 
 ###### ARTICULO 1041.
 
@@ -6438,7 +6468,11 @@ En los casos de la fracción I del artículo anterior, para decretar el depósit
 
 I.- Que lo solicite por escrito el interesado;
 
-II.- Que se justifiquen los malos tratamientos, ejemplos perniciosos o abusos de los ascendientes o tutores.
+II.- Que se justifiquen los malos tratamientos, ejemplos perniciosos o abusos de los ascendientes o tutores;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1991)</small>
+
+III.- Que se acredite que la adopción está en trámite.
 
 Estos hechos podrán acreditarse con información testimonial.
 
@@ -6698,7 +6732,7 @@ Si a la hora señalada para la celebración de la audiencia a que se refieren lo
 
 ###### ARTICULO 1083.
 
-En el caso del artículo anterior, si el que dejó de concurrir fuere el demandado y no hubiere contestado la demanda, si consta que fue debidamente notificado el emplazamiento, de lo que se cerciorará el Juez con especial cuidado, se presumirá contestada la demanda en sentido afirmativo y continuará el juicio por sus demás trámites. Cuando el reo se presente en el curso del juicio se continuará con su intervención según el estado en que se halle, bien sea que se hubiere contestado la demanda o bien que no se hubiere hecho.
+En el caso del artículo anterior, si el que dejó de concurrir fuere el demandado y no hubiere contestado la demanda, si consta que fué debidamente notificado el emplazamiento, de lo que se cerciorará el Juez con especial cuidado, se presumirá contestada la demanda en sentido afirmativo y continuará el juicio por sus demás trámites. Cuando el reo se presente en el curso del juicio se continuará con su intervención según el estado en que se halle, bien sea que se hubiere contestado la demanda o bien que no se hubiere hecho.
 
 ###### ARTICULO 1084.
 
@@ -6907,3 +6941,13 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los juicios que se estén tramitando al entrar en vigor el presente Decreto, se regirán por las disposiciones anteriores.
 
 Artículo Tercero. Quedan derogadas todas las disposiciones que se contrapongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al 1o. de enero de 1992, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
