@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1989-04-14"
+last_updated: "1990-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1990.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -33,19 +33,25 @@ Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, 
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-## TITULO PRIMERO. De las Garantías Individuales
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+## TITULO PRIMERO. Principios Constitucionales y Garantías
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 1°.
 
-El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el mejoramiento económico, social y político de todos sus habitantes, armonizando los derechos individuales con los de la colectividad.
+El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos y es libre y soberano en todo lo que concierne a su régimen interior.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 2°.
 
-La Ley es igual para todos, ya que establece las prerrogativas y las obligaciones de la autoridad, así como los derechos y deberes de las personas.
+La Ley es igual para todos. La Constitución General de la República y esta Constitución son la Ley Suprema del Estado.
 
-El poder público y sus representantes sólo pueden hacer lo que la Ley les autoriza. A todas las personas, en lo individual, les está permitido hacer lo que la Ley no prohibe.
+Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
+
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -99,7 +105,9 @@ En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
 
 I. Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
 
-En ningún caso la fianza o caución será mayor de $250,000.00 Doscientos Cincuenta Mil Pesos, a no ser que se trate de un delito que presente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+La Ley fijará el limite de la caución, pero e los casos de un delito que represente para su autor un beneficio económico o cause un daño patrimonial a la víctima, la garantía será cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado;
 
 II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto;
 
@@ -143,9 +151,87 @@ Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que
 
 En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Las autoridades municipales preservarán el Tequio como expresión de solidaridad comunitaria, según los usos de cada región étnica.
+
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 1985)</small>
 
 En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Los habitantes del Estado tienen todas las garantías y libertades consagradas en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El régimen matrimonial se establece bajo la igualdad de derechos derivados de esta institución en los términos de la Ley. El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objetos de especial protección de parte de las autoridades.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El patrimonio familiar es inalienable, imprescriptible e inembargable.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Es derecho correlativo a la calidad de padres la determinación libre, informada y responsable acerca del número y espaciamiento de los hijos y su educación.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Toda medida o disposición protectoras de la familia y la niñez son de orden público.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas y promoverá la asistencia privada.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El Estado impulsará la organización de la juventud, su actividad deportiva y su formación cultural.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Asimismo, promoverá la organización de las mujeres para sus actividades productivas.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Es obligación del hombre y de la mujer asumir su paternidad o maternidad responsable con todos y cada uno de los hijos que procreen.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la diversión, y a llevar una vida digna en el seno de la familia. El Estado deberá procurar su buena formación. Asimismo, expedirá leyes y normas para garantizar los derechos del niño y evitar los malos tratos.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El menor de edad tiene derecho:
+
+a).- A conocer a sus padres y ser respetado en su integridad física y psíquica por parte de ellos y de la sociedad;
+
+b).- A que se le proporcione alimentación, a la educación básica y a la especial, en los casos que se requiera;
+
+c).- A que se le proteja con medidas de seguridad o que garantice, en su caso, su readaptación social;
+
+d).- A no ser explotado en el trabajo; y
+
+e).- A no ser separado del hogar, sino en los casos excepcionales que las leyes secundarias determinen.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Los ancianos tienen derecho a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento por parte de sus familiares.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El Estado promoverá lo necesario para que la población tenga acceso a una vivienda digna, a la asistencia médica y social, a la cultura, a la recreación y al deporte. En la asistencia médica y social se dará prioridad a los menores, ancianos y minusválidos.
 
 ###### ARTICULO 13.
 
@@ -163,9 +249,21 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 16.
 
-(DEROGADO, P.O. 15 DE ENERO DE 1983)
+El Estado de Oaxaca tiene una composición étnica plural sustentada en la presencia de los pueblos indígenas que lo integran.
+
+La Ley establecerá las normas, medidas y procedimientos que protejan y preserven el acervo cultural de las etnias y promoverá, el desarrollo de las formas específicas de organización social de las comunidades indígenas.
+
+La Ley castigará el saqueo cultural en el Estado.
+
+La Ley establecerá los procedimientos que aseguren a los indígenas el acceso efectivo a la protección jurídica que el Estado brinda a todos sus habitantes.
+
+En los juicios en que un indígena sea parte, las autoridades se asegurarán que de preferencia, los procuradores de justicia y los jueces sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor bilingüe y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia.
+
+En los conflictos de límites de bienes comunales o municipales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades tradicionales de la región étnica.
 
 ###### ARTICULO 17.
 
@@ -175,9 +273,13 @@ Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las 
 
 La autoridad administrativa sólo podrá decretarla respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción. "En ningún otro caso podrá disponerse de la persona de los reos".
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 18.
 
-Los habitantes del Estado son absolutamente libres de poseer armas de cualquiera clase, para su seguridad y legítima defensa, excepto las prohibidas expresamente por la ley y las reservadas por la Nación al uso exclusivo del Ejército, Armada y Guardia Nacional; pero para su portación en las poblaciones, quedarán sujetos al reglamento de policía.
+Los habitantes del Estado tienen derecho a poseer armas en su domicilio para su seguridad y legítima defensa, con excepción de las prohibidas por la Ley y de las reservadas para uso exclusivo del ejército, armada, fuerza aérea y guardia nacional.
+
+Los reglamentos para la portación de armas se sujetarán a la Ley Federal.
 
 ###### ARTICULO 19.
 
@@ -189,31 +291,45 @@ Queda estrictamente prohibida la formación de toda clase de agrupaciones polít
 
 Fuera de las prohibiciones de los dos párrafos anteriores, no se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto de una autoridad, si no se profieren injurias contra ésta, ni se hace uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 20.
 
-Los bienes que originariamente no han sido de la Federación, constituyen el patrimonio del Estado, el cual ha tenido y tiene el derecho de transmitir el dominio de ellos a los particulares, constituyendo la propiedad privada. Esta no podrá ser expropiada sino por causa de utilidad pública y mediante indemnización. Las necesidades de la agricultura, la ciencia, la industria, el comercio y las comunicaciones; las del orden público o de interés general, serán las bases para calificar la causa de la utilidad pública.
+Constituyen el patrimonio del Estado los bienes señalados en la Ley Reglamentaria. El Estado tiene el derecho de constituir la propiedad privada, la cual sólo podrá ser expropiada por causa de utilidad pública y mediante indemnización.
 
-En el territorio del Estado, este tiene el derecho de regular el aprovechamiento de los elementos naturales susceptibles de apropiación para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación dictando las medidas necesarias para el desarrollo de la pequeña propiedad, para la creación de nuevos, centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura en intensidad y extensión; y para evitar la destrucción de los elementos nacionales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad, conforme a las facultades que el artículo veintisiete de la Constitución General concede a los Estados.
+En el territorio del Estado, éste tiene el derecho de regular el aprovechamiento de los recursos naturales susceptibles de apropiación, para procurar una distribución equitativa de la riqueza pública y para asegurar la conservación del equilibrio ecológico, dictando las medidas necesarias para impulsar el desarrollo de la economía y la sociedad.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+Corresponde al Estado la rectoría del desarrollo económico para garantizar que éste sea integral, que fortalezca su soberanía y su régimen democrático y que, mediante el fomento del crecimiento económico, el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
 
-Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones; y participar en la creación y administración de zonas de reservas ecológicas, para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirá los Reglamentos y disposiciones administrativas que fueren necesarios.
+El Estado planeará, conducirá, coordinará y orientará la actividad económica local y llevará al cabo, la regulación y fomento de las actividades que demanda el interés general en el marco de las libertades que otorga esta Constitución.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+Al desarrollo económico local concurrirán, con responsabilidad social, los sectores público, social y privado.
 
-Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos Centros con apego a la Ley Federal de la materia.
+El sector público podrá participar por sí o con los sectores social y privado, de acuerdo con la Ley, para impulsar y organizar las áreas prioritarias del desarrollo. Entre éstas deberá contarse la creación de empleos permanentes y productivos, para retener a los campesinos y trabajadores y alentar su contribución al desarrollo pleno de los recursos del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 1985)</small>
+Bajo criterios de equidad social y productividad, se apoyará e impulsará a las empresas de los sectores social y privado de la economía, sujetándolas a las modalidades que dicte el interés público y al uso, en beneficio general de los recursos productivos, cuidando su conservación y el medio ambiente.
 
-Corresponde al Gobierno del Estado promover y administrar el proceso de Desarrollo Local, para ello organizará un Sistema Estatal de Planeación, dotándolo de plena congruencia con los otros elementos del Sistema Nacional de Planeación Democrática en los términos de la Constitución General de la República y de las Leyes Reglamentarias de la Planeación Nacional y Estatal.
+La Ley establecerá los mecanismos que faciliten la organización y expansión de la actividad económica del sector social: de los ejidos, organizaciones de trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios sociales necesarios.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 1985)</small>
+La Ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones, para que el desenvolvimiento del sector privado, contribuya al desarrollo económico en los términos que establece esta Constitución.
 
-La planeación será democrática, mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorpóralas al plan y a los programas regionales y municipales de desarrollo.
+El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí, o con los sectores social y privado.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 1985)</small>
+El Estado, sujetándose a las leyes, podrá en casos de interés general, concesionar la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes de dominio del Estado, salvo las excepciones que las mismas prevengan. Las leyes fijarán las modalidades y condiciones que aseguren la eficacia de la prestación de los servicios y la utilización social de los bienes y evitarán fenómenos de concentración que contravengan el interés público.
 
-La Ley facultará al Ejecutivo para que establezcan los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación democrática y los criterios para la formulación, instrumentación, control y evaluación del plan y de los programas de desarrollo. Así mismo determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Local coordine mediante convenios con la Federación y con los Ayuntamientos e induzcan y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
+Se podrán otorgar subsidios a actividades prioritarias, cuando sean de interés general y con carácter temporal.
+
+El Estado sólo concertará endeudamiento para los cuales se generen los ingresos necesarios que cubran los compromisos adquiridos, conforme lo estipula la Ley.
+
+El Estado organizará un sistema de planeación del desarrollo local, en coordinación con el Sistema Nacional de Planeación Democrática que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, para el fortalecimiento de su soberanía y la democratización política, social y cultural del Estado.
+
+Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación es un proceso político, democrático y participativo que tomará en cuenta las peculiaridades de cada una de las regiones que comprende el Estado de Oaxaca. Será regional e integral y tendrá como unidad de gestión para el desarrollo, a los planes elaborados a nivel municipal.
+
+Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad, para incorporarlas al Plan Estatal de Desarrollo, al que se sujetarán obligatoriamente los programas de la administración pública.
+
+La Ley facultará al Ejecutivo para que establezca los procedimientos de participación democrática y los criterios para la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los municipios e induzca y concerte con los particulares, las acciones a realizar para su elaboración y ejecución.
+
+En el Sistema de Planeación Democrática, el Congreso tendrá la intervención que señale la Ley.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1985)</small>
 
@@ -237,21 +353,35 @@ III. Contribuir para los gastos públicos de la Federación, del Estado y del Mu
 
 IV. Cooperar en la Campaña de Alfabetización.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ## TITULO SEGUNDO. Del Orden Público
 
 ###### ARTICULO 23.
 
-Son ciudadanos del Estado de Oaxaca, hombres y mujeres que hayan nacido en su territorio, quienes sean hijos de padres oaxaqueños, de padre o madre oaxaqueños y quienes teniendo una residencia mínima de 5 años en la Entidad, deseen ser considerados como tales, en los términos de Ley. Son obligaciones de los ciudadanos del Estado:
+Son ciudadanos del Estado de Oaxaca los hombres y mujeres que hayan nacido en su territorio, quienes sean hijos de padre o madre oaxaqueños y quienes teniendo una residencia mínima de cinco años en la Entidad, deseen ser considerados como tales, en los términos de la Ley, que sean mayores de 18 años y tengan modo honesto de vivir.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Son obligaciones de los ciudadanos del Estado:
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 I.- Votar en las elecciones populares;
 
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+
 II.- Inscribirse en los padrones electorales;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 III.- Desempeñar los cargos de elección popular, las funciones electorales y las de jurado que determinan la Ley y las autoridades competentes;
 
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+
 IV.- Dar la información verídica al Ejecutivo del Estado de las necesidades de la comunidad y proponer soluciones que mejoren el desarrollo económico del Municipio y del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 V.- Formar parte del Ejército Nacional para la defensa del territorio, de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
@@ -281,6 +411,18 @@ La elección del Poder Legislativo, así como la de los Ayuntamientos, tendrá l
 
 Los Partidos Políticos son personas morales de interés público. El Estado reconoce y garantiza su existencia. Consecuentemente, gozarán de todas las prerrogativas para divulgar su ideología, procurar y promover la participación de los ciudadanos en la realización de la democracia y disponer de los elementos necesarios para la realización de tales objetivos.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+La Ley establecerá las Instituciones que tengan a su cargo la preparación y desarrollo de los procesos electorales, las cuales se organizarán y supervisarán los sistemas de control y vigilancia que garanticen la legalidad y limpieza del proceso electoral e instituirá un Tribunal, que tendrá la competencia que determine la Ley y ante el que se vntilarán (sic) los medios de impugnación que ataquen las irregularidades surgidas durante el proceso electoral. Las Resoluciones del Tribunal serán obligatorias y sólo podrán ser modificadas por el Colegio Electoral en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+En la Ley se establecerán el respeto a las tradiciones y practicas democráticas de las comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+En los procesos electorales los partidos políticos deberán contar en forma equitativa, dentro de las posibilidades presupuestales del Gobierno del Estado, con un mínimo de elementos para sus actividades, tendientes a la obtención de sufragio popular.
+
 La Ley determinará sus derechos, obligaciones y forma de participaciones en los procesos electorales.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
@@ -299,6 +441,74 @@ La Soberanía reside esencial y originariamente en el pueblo y se ejerce por med
 
 El territorio del Estado de Oaxaca es el que posee actualmente conforme a las jurisdicciones de hecho ejercidas por sus respectivas autoridades y el que por derecho le corresponda; y no podrá ser desmembrado sino en los términos prevenidos por la Constitución Federal.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Sus límites y colindancias son las siguientes:
+
+CON EL ESTADO DE GUERRERO:
+
+Partiendo del Océano Pacífico en el punto denominado "BOCA DEL TECOYAME", con rumbo N17°12'E y con distancia de 5,663.37 metros a la cabecera del "MONTE DEL COCHE"; de aquí con rumbo N66°16'E y distancia de 6,216.16 metros a la "CABEZA DE LA CAÑADA DE GAONA"; de aquí con rumbo S70°53'E y distancia de 2,169.47 metros a la "LAGUNA DEL PORTEZUELO", de aquí con rumbo N46°31'E y distancia de 2,652.59 metros al punto denominado "TEPEHUAJE"; de aquí con rumbo S57°43'E y distancia de 2,809.02 metros al "TORONTON"; de aquí con rumbo S58°56'E y distancia de 2,568.19 metros a dar a las "LAGUNILLAS"; de aquí con rumbo N55°33'E y distancia de 7,121.53 metros a "MATA DE OTATE"; de aquí con rumbo N00°04'E y distancia de 4,475.00 metros al "CENTRO DE LA LAGUNA DE MONTE ALTO", de aquí con rumbo N16°51'0 y distancia de 3,698.38 metros a la confluencia del "ARROYO DEL CAYAHUAL" y el "RIO CORTIJOS"; por el curso de éste río y con desarrollo de 6,420.00 metros al "PASO DE FLORES"; de este punto con rumbo N08°19'E y distancia de 4,041.12 metros hasta tocar el arroyo de "LA ZANJA"; curso de este y con desarrollo de 12,160.00 metros al punto denominado "TRANCA VIEJA"; de aquí con rumbo N72°13'E y distancia de 6,747.16 metros hasta tocar el "RIO TUZAPA"; de aquí aguas arriba por el centro del "RIO TUZAPA" y con desarrollo de 5,650.00 metros, hasta la cabeza de "RIO MAIZ"; de aquí siguiendo el curso del mismo "RIO TUZAPA" en la parte que se llama de "LA RAYA" y con distancia de 7,724.00 metros hasta "CABEZA DE TRES RIOS"; de aquí con rumbo N52°20'0 y distancia de 1,718.17 metros al "LLANO DE LA AGUA FRIA"; de aquí con rumbo al N09°50'E y distancia de 761.18 metros a la "CRUZ CHIQUITA"; de aquí con rumbo N12°59'0 y distancia de 880.55 metros a la "MOJONERA DE LA FRATERNIDAD"; de aquí siguiendo la cordillera de lomas y con distancia de 2,647.00 metros a la "PEÑA GRANDE", que es un lindero natural; de aquí con rumbo N72°48'O y distancia de 659.49 metros descendiendo de dichas lomas a la "LAGUNA SECA"; de aquí con rumbo N05°10'O y distancia de 1,440.88 metros al río de "SANTA CATARINA" en el punto llamado "MATA DE CARRIZO"; de este punto siguiendo río arriba y con desarrollo de 39,730.00 metros hasta llegar al "LLANO DEL PLATANAR MEXICANO"; de aquí con rumbo N30°45'E y distancia de 7,993.77 metros hasta la cima del "CERRO DE LAS TRES CRUCES"; de aquí con rumbo N21°57'E y distancia de 6,220.81 metros hasta la cima del "CERRO YUCUZUNDU" que en español quiere decir "CERRO PELON"; de aquí con rumbo N41°52'O y distancia de 12,486.00 metros hasta la cima del "CERRO DEL YUCUCANI"; de aquí con rumbo N55°39'O y distancia de 2,241.97 metros al "YUCUYU" que quiere decir "CRUZ DE PIEDRA"; de aquí con rumbo al S85°00'O y distancia de 5,745.80 metros al "MINISICONUNDI" o sea "HONDURA DEL MUERTO"; río arriba con distancia de 3,940.00 metros a la confluencia del "YUTAÑUTA" que dice en español "RIO DEL QUE ESCRIBE"; río arriba con una distancia de 4,580.00 metros a la confluencia del "YUTASIGUA" o "RÍO DEL CACAO"; sobre éste río arriba con un desarrollo de 7,062.00 metros a la confluencia del "YUTATOSA" o "RÍO QUEBRADO"; sobre este río arriba con una distancia de 4,610.00 metros a la confluencia del "YUTATIVE" o "RÍO DEL QUE BARRE"; conocido por otros con el nombre de "ARROYO LIMPIO"; sobre éste y arroyo abajo con una distancia de 6,470.00 metros a la confluencia con el "YUTANDITIA" o "RIO AGUANOSO", donde está una peña colorada en el centro y es conocido también por "RIO DE TILAPA"; sobre éste y río arriba con una distancia de 780.00 metros a la desembocadura del "YUVICHI" o sea "BARRANCA DEL TEJON"; de aquí con rumbo S77°59'O y distancia de 965.16 metros al "CAHUATIYACA", que es un gran peñasco, conocido por "PIEDRA DEL COPAL"; de aquí con rumbo S74°22'O y distancia de 831.73 metros al "YOSO YTIANDA" o sea "LLANO ZACATOSO"; de aquí con rumbo S85°07'O y distancia de 752.72 metros al "YUTANTUNDUTIA" o sea "PEÑASCO ENTERRADO", de aquí con rumbo N63°01'O y distancia de 1,408.31 metros al "CIMIYUCU YUVINUMA" o sea "CABEZA DEL CERRO DEL RETOÑO"; de aquí con rumbo N51°44'O y distancia de 1,432.61 metros al "YTUNTIQUITIN", que quiere decir "CERRO DEL RATON"; de aquí con rumbo S61°37'O y distancia de 1,613.90 metros a la parte más prominente del "CERRO DEL OTATE"; de aquí con rumbo N79°59'O y distancia de 1,610.52 metros a la parte más prominente del "CERRO DEL GACHUPIN"; de aquí con rumbo NO6°38'E y distancia de 1,218.19 metros al punto llamado "TIERRA BLANCA"; de aquí con rumbo a N33°52'E y distancia de 2,601.55 metros a la cumbre del "CUHUIÑAN", o sea "CERRO DEL CONTRARIO", conocido también por "CERRO DEL CUCHILLO"; de aquí con rumbo N30°42'E y distancia de 2,477.32 metros atravesando el Arroyo Frío de "LLANO DEL PENSAMIENTO"; de aquí con rumbo N33°58'E y distancia de 3,008.45 metros pasando por el "CERRO DEL PERICO" a las "TRES CRUCES"; de aquí con rumbo NO6°57'O y distancia de 1,849.61 metros al primer portezuelo de la cordillera del cerro llamado "EL TABACO"; de aquí con rumbo NO5°57'O y distancia de 2,894.59 metros al paraje llamado "EL LAGARTO"; de aquí con rumbo N41°11'O y distancia de 1,149.46 metros al portezuelillo llamado "YTUNNAMA" que quiere decir "LOMA DEL TOTOMOXTLE"; de aquí con rumbo N45°24'O y distancia de 1,492.74 metros hasta acabar la cordillera de los cerros "TABACO" a dar al punto donde toca la "BARRANCA DEL OCOTE" a la del "BEJUCO"; de ahí siguiendo hacia arriba por toda la "BARRANCA DEL OCOTE" y con distancia de 1,254.00 metros hasta su nacimiento que es la cima del cerro del mismo nombre; de ahí con rumbo N18°32'O y distancia 4,041.71 metros a la "PIEDRA DEL MOLINO"; de aquí con rumbo N10°30'O y distancia de 2,474.45 metros al punto llamado "ITUYAYA" que quiere decir "LOMA DEL CAMINO REAL"; de aquí con rumbo N16°54'E y distancia de 3,441.78 metros pasando por la falda del "CERRO DEL GAVILAN" a la "MOJONERA DEL COPAL"; de este punto hasta encontrar la "BARRANCA DEL MUERTO"; y siguiendo toda la barranca abajo a dar a la "MOJONERA DEL NOGAL"; de aquí siguiendo la misma barranca que toma el nombre de "BARRANCA DE LA RAYA", sigue la línea después de un desarrollo de 5,810.00 metros hasta el punto en que toma el nombre "BARRANCA DEL CANGREJO" que es donde la atraviesa el camino de Caliguala a La Luz, en que se encuentra el punto denominado "MAIZ AZUL"; de aquí con un desarrollo de 1,276.00 metros siguiendo la misma "BARRANCA DEL CANGREJO" hasta el "AMATE AMARILLO" o "AMATE BLANCO"; continuando por la misma barranca y con el desarrollo de 1,967.00 metros al punto denominado "LA CAMPANA"; de aquí con rumbo N21°03'O y distancia de 1,319.42 metros del paraje del "COCO CIMARRON"; de aquí con rumbo N01°27'O y distancia de 450.11 metros al paraje del "NANCHE"; de aquí con rumbo N57°43'O y distancia de 706.07 metros a la cumbre del "CERRO DE LA MINA"; de aquí con rumbo N64°43'O y distancia de 721.09 metros al paraje llamado "TRES SABINOS"; de aquí con rumbo N05°34'O y distancia de 782.70 metros al paraje denominado "LOS TECAJETES"; de aquí con rumbo N44°54'O y distancia de 1,168.85 metros al "CARRIZALILLO" en la barranca del mismo nombre e inmediato al camino que va de Tlalixtaquilla a Santo Domingo; de aquí con rumbo N30°00'O y distancia de 1,799.27 metros al "PORTEZUELO DE LA SILLETA"; de aquí con rumbo N74°55'O y distancia de 595.52 metros al paraje llamado "DOS ORGANOS", de aquí con rumbo N88°36'O y distancia de 818.24 metros a los "TRES ORGANOS"; de aquí con rumbo S88°15'O y distancia de 2,067.96 metros al "ESCORPION"; de aquí con rumbo S69°43'O y distancia de 527.74 metros al "CHICHARRONCILLO" y "EL COPAL"; de aquí continúa la línea para llegar con rumbo N52°27'O y distancia de 403.63 metros al "TERRERO"; de aquí con rumbo N52°18'O y distancia de 1,195.52 metros al "PORTEZUELO DE YERBA SANTA"; de aquí con rumbo N44°24'O y distancia de 1,220.53 metros a la "CINTA DE PIEDRA"; de aquí con rumbo N54°18'O y distancia de 1,337.08 metros al "CERRO DEL COYOTE"; de aquí con rumbo S89°39'O y distancia de 2,164.04 metros a lindero de "PALO HERRERO"; de aquí con rumbo N06°44'E y distancia de 2,394.54 metros al lindero de "OJO DE AGUA"; de aquí con rumbo N13°36'O y distancia de 2,992.97 metros al de "PALMA CUATE"; de aquí con rumbo N78°15'O y distancia de 1,635.26 metros al "ZAPOTE NEGRO"; de aquí con rumbo N13°00'O y distancia de 1,554.90 metros a "TEMAXCALAPA"; de aquí con rumbo N06°33'O y distancia de 3,513.95 metros a la cumbre del "CERRO DEL PAJARO"; de aquí con rumbo N31°42'E y distancia de 1,408.12 metros al "POZO DE XICATLAN" o "POZO DEL PAJARO"; de aquí con rumbo N32°54'O y distancia de 1,001.71 metros al lindero llamado "XISTIAPA"; de aquí con rumbo N07°00'O y distancia de 418.12 metros al lindero de "TEQUIPA"; de aquí con rumbo N17°26'O y distancia de 817.57 metros a la "MOJONERA DE XUAXOXOCOTLA"; de aquí con rumbo N23°28'O y distancia de 921.26 metros al lindero de "LA UNIÓN" o "CHICHILAPA"; de aquí con rumbo N39°59'E y distancia de 3,667.69 metros al "POZO DEL SOL" Y DE LA LUNA", de aquí con rumbo N00°45'O y distancia de 1,000.00 metros al lindero denominado "CUEVA DEL OBISPO", de aquí con rumbo S84°45'E y distancia de 1,746.00 metros al lindero de "XOYATITLANAPA"; de aquí con rumbo N46°52'E y distancia de 2,486.81 metros al lindero de "TEMAXCALAPA"; de aquí con rumbo N21°38'E y distancia de 1,247.88 metros al lindero "AGUATL CRUZ" o "TRES CRUCES"; de aquí con rumbo N05°29'E y distancia de 7,223.03 metros al lindero al "CHIRIMOYO", punto trino con el Estado de Puebla.
+
+CON EL ESTADO DE PUEBLA.
+
+Los linderos de los municipios:
+
+Concepción Buenavista
+
+Cosoltepec
+
+Eloxochitlán de Flores Magón
+
+Fresnillo de Trujano
+
+Huajuapam de León
+
+San Antonio Nanahuatipam
+
+San José Ayuquila
+
+San Juan Cieneguilla
+
+San Lorenzo Cuaunecuiltitla
+
+San Miguel Amatitlán
+
+San Pedro y San Pablo Tequixtepec
+
+Santa Catarina Zapoquila
+
+Santa María Chilchotla
+
+Santiago Ayuquililla
+
+Santiago Chazumba
+
+Santiago Ihuitlán Plumas
+
+Santiago Tamazola
+
+Santiago Texcalcingo
+
+Teotitlán de Flores Magón
+
+Tepelmeme Villa de Morelos
+
+Zapotitlán Palmas
+
+San Juan Ihualtepec y
+
+Acatlán de Pérez Figueroa.
+
+CON EL ESTADO DE VERACRUZ:
+
+Partiendo del paraje llamado "PASO DE AZIHUAL" o "COCUYO", punto situado al noroeste de Tuxtepec, de este lugar sigue, en línea recta, al "RANCHO DE LAS JOSEFINAS", dejándolo de parte de Veracruz, de aquí en línea también recta al "RANCHO DE COSOLAPA", que queda en la comprensión de Oaxaca; de este punto en línea recta a "RINCÓN LAGARTO", quedando a Veracruz los terrenos de "MOTZORONGO" y el "PRESIDIO", de "RINCON LAGARTO", sigue la corriente del "RIO AMAPA", en toda su extensión, pasando por el "QUECHULEÑO", hasta su confluencia con el "RIO TONTO", continúa por el curso de este río hasta donde está la primera mojonera de Otatitlán; después en línea recta a la segunda mojonera, y de aquí en la misma dirección recta a la tercera mojonera del mismo nombre, que se encuentra en los márgenes del arroyo "ZACATISPA", y sigue la corriente de este arroyo hasta el punto en que se reúne con el del "OBISPO"; de este lugar en línea recta, rumbo al sureste, a la cima de la loma de "CACAHUATEPEC", quedando de parte de Oaxaca la ranchería que lleva este nombre; después en línea recta e inclinándose al Sur, a la mojonera que existe en el paraje llamado "TRES CRUCES DE COAPA", luego en dirección Sur y en línea recta, al punto en que el arroyo "CANDELARITA" se une al río de "PLAYA VICENTE" o "HUAXPALTEPEC", continúa por éste, contra su corriente hasta el paraje donde se le reúne el "RIO MANSO", el cual sigue también contra su corriente hasta el punto llamado "PIEDRA DEL SOL"; de este lugar en línea recta, a la cima del cerro del "GALLO"; después, en línea también recta a "PIEDRA CRUZ", luego en la misma dirección recta a la cima del cerro "MANTA"; después, en línea igual a un punto del río "LA LANA" que se llama "CANTERAS DE CAL"; sigue, por último, la corriente de este río, hasta su unión con el arroyo "XOCHIAPA".
+
+Partiendo de la boca del Río Xochiapa, sobre la margen izquierda del Río Colorado, se seguirá por todo el curso de dicho Río Colorado en el sentido de su corriente en una extensión de 28,150.00 metros, hasta llegar a la boca del Arroyo Tiburón, situado sobre la margen izquierda del Río Colorado. Del Arroyo Tiburón en el Río Colorado se seguirá en línea recta con rumbo S72°37'E y una longitud de 7,054.80 metros llegando así a la boca del Arroyo Chicozapotes sobre la margen izquierda del Río de la Trinidad; de este punto se seguirá todo el curso del Río Trinidad contra su corriente, en una extensión de 31,250.00 metros, hasta llegar a la boca del Arroyo Naranjal situado sobre la margen derecha del mismo Río de la Trinidad; de este punto, se sigue en línea recta con rumbo S35°10'E y una extensión de 31,595.00 metros, llegando así a la boca del Arroyo Palo dulce en la margen derecha del Río Jaltepec; de este punto se seguirá en línea recta, con rumbo de S69°01´E y una extensión de 12,303.60 metros, llegando así a la boca del río Jumapa sobre la margen izquierda del Río Coatzacoalcos, de aquí se seguirá por todo el curso del Río Coatzacoalcos, contra su corriente en una extensión de 29,100.00 metros hasta llegar a la boca del Río Sarabia" sobre la margen izquierda del mismo Río Coatzacoalcos; y de este punto seguirá una línea recta en dirección a la cumbre del "CERRO MARTINEZ"; con un rumbo de S86°44´30"E y una extensión de 114,325.40 metros.
+
+CON EL ESTADO DE CHIAPAS.
+
+Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CERRO DE LA GINETA"; de este punto siguiendo con rumbo S49°30'E al "CERRO TRES CRUCES"; de este punto con rumbo S27°00'E a un punto denominado "SIN PENSAR" y que se localiza cerca de la estación de "SAN RAMÓN"; continuando con éste punto con rumbo SO3º00'E a la pesquería o agencia de policía denominada "CACHIMBO", correspondiente esta población al Estado de Oaxaca, la que se localiza en la orilla de la isla de León en el Océano Pacífico.
+
 ## TITULO CUARTO. Del Gobierno del Estado
 
 ### CAPITULO I. De la Forma de Gobierno y División de Poderes
@@ -313,7 +523,7 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato; con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -403,7 +613,7 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 ###### ARTICULO 39.
 
-La calificación de las elecciones de los presuntos Diputados se hará a través del Colegio Electoral, que se integrará con todos aquellos presuntos Diputados que hubieran obtenido la constancia de mayoría expedida por la Comisión Estatal Electoral, tanto los elegidos por el principió de Mayoría Relativa como los elegidos por el principio de Representación Proporcional.
+La calificación de las elecciones de los presuntos Diputados se hará a través del Colegio Electoral que se integrará con todos aquellos presuntos Diputados que hubieren obtenido la constancia correspondiente, expedida por el organismo electoral que la Ley determine, tanto los electos por el principio de mayoría relativa, como los electos por el principio de representación proporcional.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -427,7 +637,7 @@ Dentro de los cinco días siguientes a la celebración de la primera Junta Previ
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 41.
 
@@ -491,7 +701,7 @@ La Ciudad de Oaxaca de Juárez será el lugar donde la Legislatura celebre sus s
 
 ###### ARTICULO 49.
 
-Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y términos de las mismas.
+Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y término de las mismas.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
@@ -571,137 +781,141 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 #### SECCION CUARTA. De las Facultades de la Legislatura
 
+> <small>(REFORMADO, 29 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 59.
 
 Son facultades de la Legislatura:
 
 I. Dictar leyes para la administración del Gobierno interior del Estado, en todos los ramos; interpretarlas, aclararlas, reformarlas y derogarlas;
 
-II. Arreglar y fijar los límites del Estado, en los términos que señala el artículo 116 de la Constitución Federal;
+II. Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 
-III. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
+III. Arreglar y fijar los límites del Estado, en los términos que señala el artículo 116 de la Constitución Federal;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+IV. Iniciar leyes y decretos ante el Congreso de la Unión;
 
-IV. Erigir nuevos Municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de quince mil habitantes. En este caso, la Legislatura oirá la opinión de los Ayuntamientos interesados;
+V. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+VI. Declarar electos a los senadores de la República que hubieren obtenido la mayoría de votos en el Estado;
 
-V. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus presupuestos de egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos, o cuando los núcleos de población que los integran no lleguen a los 15 quince mil habitantes;
+VII. Calificar las elecciones de los ayuntamientos;
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1984)</small>
+VIII. Erigir nuevos Municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de quince mil habitantes. En este caso, la Legislatura oirá la opinión de los Ayuntamientos interesados;
 
-V Bis. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la Ley Reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+IX. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus presupuestos de egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos, o cuando los núcleos de población que los integran no lleguen a los 15 quince mil habitantes;
+
+X. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la Ley Reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, la Legislatura designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos.
 
 Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá, según lo disponga la Ley;
 
-VI. Dictar todas las leyes necesarias para el funcionamiento de los Ayuntamientos, con arreglo a las disposiciones relativas de esta Constitución;
+XI. Decretar la Ley Orgánica Municipal;
 
-VII. Señalar por una ley general los ingresos que deben constituir la Hacienda Municipal, sin perjuicio de decretar los impuestos especiales que cada Ayuntamiento proponga, de acuerdo con las necesidades locales de sus respectivos Municipios;
+XII. Resolver los conflictos que surjan entre los ayuntamientos, entre sí y entre éstos y los poderes del Estado;
 
-VIII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas;
+XIII. Designar, a propuesta del Gobernador, los integrantes de los Consejos Municipales;
 
-IX. Examinar y calificar cada año las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+XIV. Señalar por una ley general los ingresos que deben constituir la Hacienda Municipal, sin perjuicio de decretar los impuestos especiales que cada Ayuntamiento proponga, de acuerdo con las necesidades locales de sus respectivos Municipios;
 
-X. Examinar y calificar cada año las cuentas de inversión de las rentas de los Municipios del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+XV. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas;
 
-XI. (DEROGADA, P.O. 15 DE ENERO DE 1983)
+XVI. Examinar y calificar cada año las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
 
-XII. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
+XVII. Examinar y calificar cada año las cuentas de inversión de las rentas de los Municipios del Estado, y exigir, en su caso, las responsabilidades consiguientes;
 
-XIII. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empréstitos interiores, y aprobar esos empréstitos;
+XVIII. (DEROGADA, P.O. 15 DE ENERO DE 1983)
 
-XIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
+XIX. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+XX. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empréstitos interiores, y aprobar esos empréstitos;
 
-XV. Convocar a elecciones de Gobernador y Diputados en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de esos Servidores Públicos;
+XXI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
+XXII. Convocar a elecciones de Gobernador y Diputados en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de esos Servidores Públicos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
+XXIII. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
 
-XVII. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine la presente Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia. La Legislatura otorgará o negara su ratificación a dichos nombramientos dentro del término improrrogables de diez días. Si no resuelve en dicho lapso se tendrán por ratificados los nombramientos. En el caso de que no los ratifique, el Ejecutivo hará nueva designación y, de ser también rechazada, se efectuará una tercera designación que surtirá efectos inmediatamente, a reserva de obtener la ratificación de la Legislatura en el siguiente período ordinario de sesiones;
+XXIV. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine la presente Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia. La Legislatura otorgará o negara su ratificación a dichos nombramientos dentro del término improrrogables de diez días. Si no resuelve en dicho lapso se tendrán por ratificados los nombramientos. En el caso de que no los ratifique, el Ejecutivo hará nueva designación y, de ser también rechazada, se efectuará una tercera designación que surtirá efectos inmediatamente, a reserva de obtener la ratificación de la Legislatura en el siguiente período ordinario de sesiones;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+XXV. Recibir la protesta de los Diputados, Gobernador y de los demás Servidores Públicos que ella elija o nombre;
 
-XVIII. Recibir la protesta de los Diputados, Gobernador y de los demás Servidores Públicos que ella elija o nombre;
+XXVI. Conceder licencias a sus propios miembros, al Gobernador y a los demás Servidores Públicos que ella elija o nombre;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+XXVII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los demás Servidores Públicos que ella elija o nombre;
 
-XIX. Conceder licencias a sus propios miembros, al Gobernador y a los demás Servidores Públicos que ella elija o nombre;
+XXVIII. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+XXIX. Ratificar los nombramientos de Secretario General de Gobierno y Subsecretario que el Ejecutivo hiciere;
 
-XX. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los demás Servidores Públicos que ella elija o nombre;
-
-XXI. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
-
-XXII. Ratificar los nombramientos de Secretario General de Gobierno y Subsecretario que el Ejecutivo hiciere;
-
-XXIII. Llamar a los diputados suplentes conforme a las prevenciones relativas de esta Constitución;
+XXX. Llamar a los diputados suplentes conforme a las prevenciones relativas de esta Constitución;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
-XXIV. Nombrar y remover al Contador Mayor de Hacienda, cuyo nombramiento hará saber por medio de un decreto;
+XXXI. Nombrar y remover al Contador Mayor de Hacienda, cuyo nombramiento hará saber por medio de un decreto;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
+XXXII. Cambiar la sede de los Poderes del Estado;
 
-XXV. Nombrar y remover con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
+XXIII. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+XXXIV. (DEROGADA, P.O. 11 DE FEBRERO DE 1933)
 
-XXVI. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
+XXXV. Legislar en los ramos de Educación y Salubridad Públicas;
 
-XXVII. (DEROGADA, P.O. 11 DE FEBRERO DE 1933)
+XXXVI. Expedir leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal;
 
-XXVIII. Legislar en los ramos de Educación y Salubridad Públicas;
+XXXVII. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de protección, perduración, aprovechamiento y restauración del patrimonio natural de la entidad;
 
-XXIX. Expedir leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal;
+XXXVIII. Autorizar la formación de asociaciones o sociedades cooperativas de productores para que vendan directamente en los mercados extranjeros los productos naturales o industriales de determinada región del Estado, siempre que no se trate de artículos de primera necesidad; y para derogar dichas autorizaciones cuando las necesidades públicas así lo exijan;
 
-XXX. Autorizar la formación de asociaciones o sociedades cooperativas de productores para que vendan directamente en los mercados extranjeros los productos naturales o industriales de determinada región del Estado, siempre que no se trate de artículos de primera necesidad; y para derogar dichas autorizaciones cuando las necesidades públicas así lo exijan;
+XXXIX. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
 
-XXXI. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
+XL. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Servidores Públicos del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+XLI. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
-XXXII. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Servidores Públicos del Estado;
+XLII. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
 
-XXXIII. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
+XLIII. Erigirse en Gran Jurado, para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional, por delitos del orden común, y si son o no culpables los propios servidores públicos de los delitos de responsabilidad oficial de que fueren acusados;
 
-XXXIV. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
+XLIV. Ejercer las facultades que le otorga la Constitución de la República en relación a la Guardia Nacional;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+XLV. Establecer tropas permanentes dentro del territorio del Estado; imponer derechos de tonelaje o de importación y exportación marítima, previo el consentimiento del Congreso de la Unión;
 
-XXXV. Erigirse en Gran Jurado, para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional, por delitos del orden común, y si son o no culpables los propios servidores públicos de los delitos de responsabilidad oficial de que fueren acusados;
+XLVI. Excitar a los Poderes de la Unión a que presten su protección al Estado en los casos señalados en el artículo 122 de la Constitución Federal, aun en el caso de que los perturbadores del orden interior del Estado declaren que su acción no va en contra del Gobierno Federal;
 
-XXXVI. Establecer tropas permanentes dentro del territorio del Estado; imponer derechos de tonelaje o de importación y exportación marítima, previo el consentimiento del Congreso de la Unión;
+XLVII. Determinar el número de ministros de los cultos que debe haber en el Estado, según las necesidades de cada localidad;
 
-XXXVII. Excitar a los Poderes de la Unión a que presten su protección al Estado en los casos señalados en el artículo 122 de la Constitución Federal, aun en el caso de que los perturbadores del orden interior del Estado declaren que su acción no va en contra del Gobierno Federal;
+XLVIII. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
 
-XXXVIII. Determinar el número de ministros de los cultos que debe haber en el Estado, según las necesidades de cada localidad;
+XLIX. Solicitar la comparecencia de servidores públicos para que informen cuando se discuta o estudie un negocio relativo a su dependencia;
 
-XXXIX. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
+L. Expedir todas las leyes orgánicas que se deriven de los artículos 27 y 123 de la Constitución Federal;
 
-XL. Expedir todas las leyes orgánicas que se deriven de los artículos 27 y 123 de la Constitución Federal;
+LI. Legislar sobre todos los servicios públicos, oficiales y particulares dentro del Estado;
 
-XLI. Legislar sobre todos los servicios públicos, oficiales y particulares dentro del Estado;
+LII. Determinar las características y el uso del escudo estatal;
 
-XLII. Legislar sobre todo aquello que la Constitución General y la Particular del Estado, no someten expresamente a las facultades de cualquier otro poder;
+LIII. Legislar sobre todo aquello que la Constitución General y la Particular del Estado, no someten expresamente a las facultades de cualquier otro poder;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
+LIV. Elegir la Diputación Permanente;
 
-XLIII. Expedir su Ley Orgánica y el Reglamento Interior;
+LV. Expedir su Ley Orgánica y el Reglamento Interior;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
+LVI. Para dictar la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento;
 
-XLIV. Dictar la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento;
+LVII. Autorizar al Gobernador para celebrar convenios con la Federación;
 
-XLV. Las demás que le confiere esta Constitución.
+LVIII. Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles o inmuebles pertenecientes al Estado cuando su valor sea superior a 6,300 salarios mínimos diarios, previo avalúo de la Secretaría de Finanzas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+
+LIX. Legislar sobre seguridad social y medio ambiente, procurando la superación del nivel de vida de la población y el mejoramiento de su salud;
+
+LX. Decretar amnistías cuando se trate de delitos de la competencia de los tribunales del Estado;
+
+LXI. Autorizar el Plan Estatal de Desarrollo;
+
+LXII. Las demás que le confiere esta Constitución.
 
 ###### ARTICULO 60.
 
@@ -711,11 +925,13 @@ La Legislatura tiene facultades para pedir el apoyo de los Jefes y Oficiales de 
 
 La Legislatura no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por ley anterior; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 62.
 
-La Legislatura podrá delegar sus facultades en favor del Ejecutivo por tiempo limitado y por el voto de las tres cuartas partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente, por las circunstancias especiales en que se funde el Ejecutivo para solicitar esas facultades o en las que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades que se deleguen y los límites a que debe circunscribirse el propio Ejecutivo.
+La Legislatura podrá autorizar al Gobernador el uso de facultades extraordinarias, en caso de desastre o para afrontar una emergencia.
 
-En ningún caso y por ningún motivo, la Legislatura delegará las facultades que se refieren a organización municipal, funciones electorales y de jurado.
+Fuera de los casos señalados, la Legislatura no podrá, en ningún caso, delegar sus facultades en el Ejecutivo.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
@@ -771,11 +987,11 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 67.
 
-La elección de Gobernador será directa, la Legislatura del Estado hará la computación de votos y su calificación y declarará electo al Ciudadano que hubiere tenido la mayoría absoluta de los votos emitidos, haciéndolo saber al pueblo del Estado, por medio de un Decreto. Si ningún Ciudadano hubiere obtenido la mayoría absoluta, la Legislatura convocará a nuevas elecciones en las que solamente figurarán los dos candidatos que hubieren obtenido mayor número de sufragios en la elección que se ha calificado, siendo nulos los votos que se emitieren en favor de cualquier otro Ciudadano. El Secretario General del Gobierno asumirá el cargo de Gobernador Interino mientras tome posesión el nuevamente electo.
+La elección del Gobernador será directa, por voto secreto, uninominal y por mayoría relativa, en todo el territorio del Estado, en los términos de la Ley Electoral. La Legislatura del Estado hará la computación de votos y su calificación y declarará electo al ciudadano que hubiere obtenido el mayor número de votos, haciéndolo saber al pueblo del Estado por medio de un decreto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -871,6 +1087,10 @@ En los casos a que se refieren las fracciones I y II del Artículo 72, inmediata
 
 El ciudadano que substituyere al Gobernador Constitucional, en caso de falta absoluta de éste, aun cuando fuere nombrado por el Senado, no podrá ser electo Gobernador para el período inmediato. Tampoco podrá ser reelecto Gobernador para el período inmediato el ciudadano que fuere nombrado interino en las faltas temporales de (sic) Gobernador Constitucional.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+El ciudadano que haya ocupado el cargo de Gobernador del Estado, por elección ordinaria o extraordinaria o con el carácter de interino, provisional o sustituto, en ningún caso y por ningún motivo podrá volver a ocupar el cargo de Gobernador en cualquiera de sus modalidades.
+
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 76.
@@ -911,7 +1131,9 @@ VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo 
 
 VII. Fijar en cada caso la extensión de terreno que pueden poseer y adquirir las compañías comerciales por acciones, para los establecimientos o servicios que sean objeto de su institución, conforme a la fracción IV del párrafo séptimo del artículo 27 de la Constitución Federal;
 
-VIII. Conceder el indulto necesario, y con arreglo a las leyes, conmutar la pena capital y conceder o negar el indulto por gracia, hasta de la tercera parte de la pena impuesta por los Tribunales del Estado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la fracción XXXVII del artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
@@ -919,7 +1141,61 @@ IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en
 
 X. Nombrar a los Magistrados del Tribunal Superior de Justicia y al Procurador General de Justicia del Estado, sometiendo las designaciones y destituciones, con causa justificada, de los primeros, a la ratificación de la Legislatura. Solicitar del Tribunal Superior de Justicia, también por causa justificada, la destitución de los Jueces de Primera Instancia;
 
-XI. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas por esta Constitución a los otros Poderes o a las autoridades municipales.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XI. Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XII. Nombrar a los miembros de la Junta de Conciliación Agraria;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XIII. Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas al Congreso del Estado o a la Diputación Permanente, para la aprobación en su caso;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XIV. Pedir la destitución de los funcionarios judiciales en los casos que proceda conforme a esta Constitución y a las Leyes de la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XV. Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Concejos Municipales, en los términos que señala esta Constitución;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XVVI (SIC). Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XVII. Ejercer actos de dominio sobre el patrimonio del Estado en los términos de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XVIII. Contratar empréstitos para inversiones públicas productivas con la aprobación del Congreso;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XIX. Celebrar convenios con el Gobierno Federal o con los ayuntamientos para coordinar sus atribuciones en materias concurrentes;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XX. Conceder licencia a funcionarios y empleados;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXI. Convocar a elecciones extraordinarias de Diputados, cuando haya desaparecido el Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXII. Otorgar patentes de notario, con sujeción a la Ley respectiva:
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXIII. Actuar como árbitro en los conflictos que se susciten entre los municipios y miembros del ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXIV. Todas las demás que le asigne la Ley.
 
 ###### ARTICULO 80.
 
@@ -983,7 +1259,35 @@ XXII. Visitar continuamente las regiones del Estado y procurar resolver los prob
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-XXIII. En la cabecera de cada Distrito rentístico o judicial, según proceda, el Gobernador establecerá una Oficina permanente para atender los asuntos que sean sometidos a su autoridad.
+XXIII. En la cabecera de cada Distrito rentístico o judicial, según proceda, el Gobernador establecerá una Oficina permanente para atender los asuntos que sean sometidos a su autoridad;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXIV. Promover el desarrollo económico del Estado procurando siempre que sea compartido y equilibrado entre los centros urbanos y los rurales;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXV. Fomentar la creación de industrias y empresas rurales buscando la participación armónica de los factores de la producción;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXVI. Impulsar las artesanías; tratando de conseguir su expansión en los mercados nacionales e internacionales y que ellas, sean fuente de mejoramiento constante para los artesanos y para todo el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXVII. Promover el desarrollo de la actividad turística, mediante el debido aprovechamiento de los atractivos con que cuenta el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXVIII. Cuidar el acervo de las obras artísticas, históricas y arqueológicas del Estado de conformidad con las Leyes Federales en la materia en coordinación con los ayuntamientos para su conservación y restauración;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXIX. Impulsar y fortalecer las tradiciones comunitarias y el respeto a las culturas de las etnias del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+XXX. Establecer las medidas necesarias para preservar el medio ambiente y procurar el equilibrio ecológico.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
@@ -1103,6 +1407,16 @@ III.- Definirá los sistemas de organización, comunicación, coordinación, pla
 
 IV.- Establecerá el esquema operativo del sector paraestatal, el cual se integrará con organismos descentralizados, empresas de participación estatal, comisiones, comités, juntas y patronatos.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+ARTICULO 90 BIS. La Ley organizará una Junta de Conciliación Agraria con funciones exclusivamente conciliatorias que obrará como amigable componedora y en sus laudos, respetará estrictamente las disposiciones federales sobre la materia.
+
+Es propósito de la Junta de Conciliación Agraria, además, promover que las resoluciones que dicten las autoridades agrarias se apoyen y funden en los acuerdos conciliatorios entre las comunidades, para que estos tengan el valor jurídico de cosa juzgada.
+
+La Junta de Conciliación Agraria deberá constituir sus agencias de acuerdo a cada región y grupo étnico.
+
+Sus miembros serán nombrados por el Gobernador.
+
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 91.
@@ -1160,6 +1474,30 @@ I).- Los demás que la Legislatura Local determine según las condiciones territ
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
 Los Municipios del Estado de Oaxaca, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Los conflictos de límites que se susciten entre los diversos municipios del Estado, podrán ser resueltos por convenios que celebren con aprobación del Congreso. Cuando dichos conflictos tengan carácter contencioso, serán resueltos por el Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Los municipios del Estado podrán asociarse libremente tomando en consideración su filiación étnica e histórica para formar corporaciones de desarrollo regional, que tengan por objeto:
+
+a).- El estudio de los problemas locales.
+
+b).- La realización de programas de desarrollo común.
+
+c).- El establecimiento de cuerpos de asesoramiento técnico.
+
+d).- La capacitación de sus funcionarios y empleados.
+
+e).- La instrumentación de programas de urbanismo y,
+
+f).- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+En todos los programas de urbanización, planeación y regulación de las poblaciones, los Municipios señalarán las áreas naturales protegidas y las reservas territoriales necesarias.
 
 ###### ARTICULO 95.
 
@@ -1311,9 +1649,35 @@ La Federación y el Ejecutivo del Estado, en los términos de la Ley respectiva 
 
 El Gobierno del Estado de Oaxaca, estará facultado para celebrar esos convenios con sus municipios a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a los que se refiere el párrafo anterior.
 
-Los bienes raíces pertenecientes a los Ayuntamientos del Estado, no podrán ser enajenados o gravados en forma alguna sin la previa autorización de la Legislatura, mediante la expedición del decreto respecto.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE1990)</small>
 
-Los Ayuntamientos no pueden celebrar empréstitos, sino para la ejecución de obras que estén destinadas a producir directamente incremento en sus respectivos ingresos.
+Los bienes que integran el patrimonio municipal son:
+
+I.- De dominio público; y
+
+II.- De dominio privado.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Son bienes de dominio público:
+
+I.- Los de uso común;
+
+II.- Los inmuebles destinados por el municipio a un servicio público y
+
+III.- Los muebles que normalmente sean insustituibles, tales como los expedientes de las oficinas, archivos, libros singulares, piezas históricas, arqueológicas, obras de arte u otros objetos similares.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Estos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica a acciones reivindicatorias o de posesión.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Los bienes del dominio privado del municipio son los que le pertenecen en propiedad, así como los que en el futuro ingresen a su patrimonio por cualquiera de las formas de adquisición de la propiedad no previstas en la disposición anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Los bienes del dominio privado podrán ser enajenados, mediante acuerdo del H. Ayuntamiento o previa autorización de la Legislatura local.
 
 ###### ARTICULO 109.
 
@@ -1361,6 +1725,10 @@ De las Responsabilidades de los Servidores Públicos del Estado y de los Municip
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales y en consecuencia, todos están obligados a vigilar los actos relacionados con la administración de dichos fondos.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Para la mejor supervisión del ejercicio de los recursos públicos, los ayuntamientos deberán realizar funciones de contraloría preventiva, en cuyo caso el Gobierno del Estado procurará la capacitación y las normas requeridas.
+
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
 ## TITULO SEXTO. Principios Generales de Administración Pública
@@ -1371,23 +1739,35 @@ Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables 
 
 El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los Servidores Públicos y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 150.
 
-La Educación Pública seguirá las normas que están precisadas en la Constitución General, y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados a las necesidades peculiares del Estado de Oaxaca.
+La educación pública seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que respondan a las necesidades del desarrollo integral del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+La Educación de los alumnos para ser integral comprenderá además, la enseñanza de la Historia, la Geografía, la Ecología y los valores regionales de cada región étnica y en general, del Estado y se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
+
+En las comunidades bilingües la enseñanza tenderá a conservar el idioma español y el dialecto regional.
+
+En las comunidades que no hablen el español, su enseñanza será obligatoria.
+
+La educación que imparta el Estado será gratuito, la primaria será obligatoria. Esta será impartida perfectamente por los municipios. Los padres podrán intervenir en la planeación ajustándose a los lineamientos de la Secretaría de Educación Pública.
+
+El estado fomentará la creación de centros o instituciones de educación superior, universitaria y tecnológica ligados a la sociedad e integrados en ella para satisfacción de sus necesidades.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 151.
 
-Ninguna Ley ni autoridad puede permitir en el Estado el establecimiento de juegos de azar; ni autorizar o permitir espectáculos contrarios a la cultura y moralidad públicas.
+Las autoridades fomentarán con preferencia las actividades turísticas que aprovechen los atractivos de toda índole que posee el Estado de Oaxaca y vigilarán que la realización de estas actividades preserve el patrimonio étnico y artesanal de los grupos indígenas y que no deteriore el medio ambiente, ni demerite sus propias riquezas turísticas.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1941)</small>
+Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la Entidad.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 152.
 
-En ningún caso podrán suspenderse por causa de huelgas o paros los servicios públicos inaplazables que expresamente determine la Ley del Servicio Civil y demás relativas.
+Los trabajadores al servicio del Gobierno del Estado, tendrán el derecho de asociarse para la defensa de sus intereses comunes, en los términos de la Ley del Servicio Civil.
 
 ###### ARTICULO 153.
 
@@ -1477,17 +1857,25 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 ## TITULO SEPTIMO. De las Adiciones y Reformas a la Constitución
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 164.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a se rparte (sic) de la misma, se requiere:
+Esta Constitución Política puede ser adicionada o reformada, las iniciativas que tengan este objeto, deben ser suscritas por el Diputado o Diputados que las presenten, por el Gobernador, el Tribunal Superior de Justicia o los Ayuntamientos, en los términos de las fracciones I, II, III y IV del artículo 50 de esta Constitución.
 
-Que la Legislatura del Estado, por el voto de las dos terceras partes de los Diputados que la forman, admita a discusión las reformas o adiciones; que una vez admitidas, se publiquen en el Periódico Oficial del Estado y, que sean aprobadas, previo debate, por igual número de votos de los Diputados durante cualquiera de los períodos ordinarios del siguiente o subsiguientes años de su ejercicio legal al en que hayan sido admitidas a discusión.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
+Estas Iniciativas se sujetarán a los trámites establecidos para la expedición de las leyes en los artículos 51 a 58, pero requieren de la aprobación de, cuando menos, dos tercios del número total de Diputados que integran la Legislatura.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
 
 El mismo procedimiento se observará respecto de un período final de la Legislatura.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
+
 Inmediatamente que se promulguen reformas a la Constitución General de la República. La Legislatura del Estado si estuviere en período ordinario de sesiones, acordará los términos de las modificaciones o adiciones que correspondan para que puedan incorporarse al texto de esta Constitución, en consonancia con el postulado jurídico expreso en el artículo 41 de aquella.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
 
 Si la Legislatura estuviere en receso, será convocada a sesiones extraordinarias, por su comisión Permanente, para el efecto a que se refiere el párrafo que antecede.
 
@@ -2108,3 +2496,17 @@ P.O. 14 DE ABRIL DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE OCTUBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto deroga todas las disposiciones que se le opongan.
+
+###### ARTICULO SEGUNDO.
+
+Las Adiciones y Reformas en los artículos 1, 2, 8, 12, 16, 18, 20, 23, 28, 59, 62, 67, 75, 79, 80, 94, 108, 113, 151, 152 y 164 entrarán en vigor el día 30 de octubre de 1990, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Las Adiciones y Reformas a los artículos 25, 39, 90 bis y 150 entrarán en vigor cuando lo determine esta H. Legislatura al aprobarse las reglamentaciones correspondientes.
