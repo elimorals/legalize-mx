@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1994-06-09"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -59,17 +59,25 @@ En cada Notaría no podrá ejercer más que un solo Notario Adscrito, del modo q
 
 El cargo de Notario de Número es vitalicio y sólo podrá ser suspendido, cesado o destituido, en los términos y casos previstos por la presente Ley, debiendo siempre oírse al Notario y el dictamen del Consejo de Notarios en los términos previstos por la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 5.
 
-Los Notarios no serán remunerados por el Erario, sino que tendrán derecho a cobrar a los interesados, en cada caso, los honorarios que devenguen, conforme al arancel que expida el Ejecutivo.
+Los Notarios no serán remunerados por el Erario, sino que en cada caso, tendrán derecho a cobrar a los interesados los honorarios que devenguen, conforme al arancel que el Consejo de Notarios del Estado, someta a la consideración del Ejecutivo, quien en su caso, procederá a su correspondiente expedición.
+
+Los interesados tienen derecho a elegir libremente al Notario; los Notarios colaborarán con la prestación de los servicios notariales cuando se trate de satisfacer demandas de interés social de conformidad con los acuerdos que para tal efecto suscriba el Consejo de Notarios. Asimismo, estarán obligados a prestar sus servicios en los casos y términos que establezcan las leyes electorales.
 
 ###### ARTICULO 6.
 
 La Dirección del Notariado queda a cargo del Ejecutivo del Estado, a través de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 7.
 
-Los notarios se considerarán auxiliares del Fisco del Estado, para el cobro de los impuestos y derechos en los términos que señalan las leyes respectivas.
+Los Notarios son auxiliares del Fisco del Estado para la liquidación y cobro de los impuestos y derechos que se generen con motivo de los actos que ante ellos se otorguen y serán obligados solidarios de su pago en los términos que señalen las leyes respectivas, siempre que hayan sido expensados previamente.
+
+Los encargados de los archivos oficiales, están obligados a mostrar a los Notarios los documentos que obren en ellos cuando éstos lo requieran en el ejercicio de sus funciones, siempre que no exista impedimento legal para ellos.
 
 ### CAPITULO II. DE LAS NOTARIAS
 
@@ -81,11 +89,21 @@ Las Demarcaciones Notariales corresponden a los Distritos Judiciales. En cada De
 
 - Aplicando lo dispuesto en el Artículo anterior, el Ejecutivo creará el número de Notarias que se requieran en cada Demarcación Notarial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 10.
 
-La oficina del Notario se denominará Notaría y llevará el Número que le corresponda en cada demarcación notarial. Estará abierta todos los días hábiles, por lo menos seis horas, de lunes a viernes, y tres horas los días sábados. En lugar visible al exterior, ostentará un rótulo formado con la palabra Notaría, el número que le corresponda en su caso, el nombre y apellidos del Notario de Número y del Notario Adscrito, si lo hubiere.
+La oficina del Notario se denominará Notaría Pública, llevará el número que le corresponda en la demarcación Notarial que le determine el Ejecutivo del Estado y deberá estar abierta todos los días hábiles, por lo menos seis horas.
 
-La Notaría deberá establecerse en un local adecuado, fácilmente accesible al público y que cuente con las seguridades que la importancia de la función reclama.
+En lugar visible al exterior, ostentará un rótulo formado con la palabra "Notaría Pública", el número que le corresponda o la mención de ser "Unica", así como el nombre y apellidos del Notario Titular y del Adscrito.
+
+La Notaría deberá establecerse en un local adecuado, seguro y fácilmente accesible al público.
+
+Queda prohibido al Notario instalar y operar por sí o por interpósita persona, oficina notarial diversa a la que se refiere este artículo y cuyo domicilio haya sido registrado en los términos del artículo 20 de esta Ley.
+
+El Notario, para el mejor desarrollo de sus funciones, podrá auxiliarse de los medios electrónicos necesarios, instrumentando para ello los sistemas más idóneos de conservación, protección, seguridad y reproducción de la información contenida en su protocolo.
+
+Asimismo, y con el propósito de dar seguridad a la información almacenada a través de los medios electrónicos y que se produzca con motivo de la actividad notarial, el Notario bajo su responsabilidad, deberá prever la existencia de los respaldos que sean necesarios.
 
 ### CAPITULO III
 
@@ -155,11 +173,13 @@ Cuando dos o más personas aspiren a la misma Notaría, se preferirá al Adscrit
 
 El nombramiento se publicará por una sola vez en el Periódico Oficial, "La Sombra de Arteaga", y en alguno de los periódicos diarios de mayor circulación en el Estado, y se comunicará, además, por oficio al H. Tribunal Superior de Justicia; al Procurador General; al Director del Archivo General de Notarías; a los CC. Presidentes Municipales de los Municipios comprendidos en el Partido Judicial donde el Notario nombrado deberá desempeñar el cargo; a las oficinas fiscales, locales y federales, de la residencia del Notario; al Director del Registro Público de la Propiedad del Partido Judicial respectivo y al Consejo de Notarios.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 20.
 
 La Secretaría General de Gobierno, por conducto del Director del Archivo General de Notarías, llevará un libro que se denominará: "Registro de Notarios", en el cual se tomará razón de cada uno de los nombramientos expedidos por el Ejecutivo.
 
-En el libro de Registro de Notarios, deberán anotarse también los cambios de adscripción, transitorios o permanentes, así como las licencias concedidas a cada Notario. Las anotaciones habrán de hacerse de conformidad con los datos del expediente personal, que deberá llevarse a cada Notario por riguroso orden cronológico.
+En dicho libro deberán asentarse el domicilio único de la Notaría, los cambios del mismo, los cambios de adscripción, transitorios o permanentes, así como las licencias concedidas a cada Notario. Las anotaciones habrán de hacerse de conformidad con los datos del expediente personal que deberá llevarse a cada Notario por riguroso orden cronológico.
 
 ### CAPITULO IV
 
@@ -179,9 +199,13 @@ I.- Entregar y recoger en el Archivo General de Notarías las hojas que foliadas
 
 II.- Registrar su sello y firma en la misma Secretaría General de Gobierno, en el H Tribunal Superior de Justicia, en los Ayuntamientos de los Municipios donde vaya a ejercer sus funciones y en las oficinas del Estado, correspondientes a dichos Municipios, y en las oficinas federales dependientes de la Secretaría de Hacienda.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996) (F. DE E, P.O. 23 DE ENERO DE 1997)
+
 ###### ARTICULO 23.
 
-El sello de cada Notario debe ser de forma circular, tener precisamente un diámetro de cuatro centímetros; representar el Escudo Nacional en el centro y tener inscrito en derredor el nombre y apellido del Notario, el Número de la Notaría y el lugar en que aquél ejerce.
+El sello es el símbolo del Estado en el ejercicio de la función notarial. Cada Notario deberá utilizarlo para autorizar los instrumentos. Será de forma circular; tendrá un diámetro de cuatro centímetros; representará el Escudo Nacional en el centro y tendrá inscrito en derredor el nombre y apellidos del notario titular, el número de la notaría y el lugar en que los notarios despachan.
+
+El Archivo General de Notarías proveerá del sello citado a costa del notario; y solo podrá haber un sello por cada Notaría. Dicho sello, salvo en los casos que expresamente autoriza esta Ley, deberá permanecer siempre en la Notaría.
 
 ###### ARTICULO 24.
 
@@ -189,17 +213,21 @@ En caso de que se pierda, altere o destruyere el sello, el Notario, previa autor
 
 Lo mismo se hará con el sello del Notario que fallezca. Un ejemplar de esta acta quedará depositada en el Archivo y otro en poder del Notario o de quien represente la sucesión del Notario, según el caso.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 25.
 
 El ejercicio del Notariado es incompatible:
 
-I.- Con los cargos de elección popular correspondiente a Gobernador del Estado o Presidente Municipal;
+I.- Con el ejercicio de cualquier cargo público de elección popular;
 
-II.- Con los cargos de Secretario General de Gobierno, Oficial Mayor u Oficial Primero; Magistrado del Tribunal Superior de Justicia, Juez o Secretario; Procurador General de Justicia o Agente del Ministerio Público; Funcionario o empleado fiscal; Director o Subdirector del Registro Público de la Propiedad;
+II.- Con el cargo de Titular de las diversas Secretarías del Poder Ejecutivo Estatal y Municipal; Oficialía Mayor; Magistrado Propietario del Tribunal Superior de Justicia y Magistrado Propietario del Tribunal de lo Contencioso Administrativo; Juez o Secretario; Procurador General de Justicia o Agente del Ministerio Público; funcionario o empleado fiscal; Director o Subdirector del Registro Público de la Propiedad; Director o Subdirector del Archivo General de Notarías; Presidente o Secretario de la Comisión Estatal de Derechos Humanos; Delegado Federal; Director Jurídico y Consultivo de Gobierno del Estado y Municipios; Defensor de Oficio y cualquier otro cargo público que conforme a la Ley correspondiente señale prohibición de ejercer actividades diversas al mismo;
 
-III.- Con los empleos o comisiones de particulares que pongan al Notario en dependencia de una persona, física o jurídica;
+III.- Con los empleos o comisiones de particulares que pongan al Notario en dependencia de cualquier persona, y
 
-IV.- Con el patrocinio de todo negocio judicial, en que aparezca la intervención del Notario en algún documento o instrumento relacionado con el negocio y en el cual hubiere contienda.
+IV.- Con el patrocinio de negocios contenciosos en los que alguna de las partes hayan tenido también dicho carácter en actos o hechos en los que anteriormente hubiere actuado como Notario, salvo contra autoridades administrativas, fiscales o registrales y el negocio tenga relación con los actos o hechos en los que el Notario intervino o pueda intervenir.
+
+No queda comprendido en las incompatibilidades antes señaladas el desempeño de actividades docentes y las de simple asesoría legal.
 
 ###### ARTICULO 26.
 
@@ -209,7 +237,7 @@ Los jueces repelarán, de plano, toda promoción que viole la disposición conte
 
 El Notario que deseare desempeñar alguno de los cargos cuya incompatibilidad con el ejercicio del Notariado se establece en el Artículo 25, deberá obtener previamente la licencia respectiva del Ejecutivo, para separarse de dicho ejercicio.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+(EN SUSPENSO, P.O. 9 DE JUNIO DE 1994)
 
 ###### ARTICULO 28.
 
@@ -223,19 +251,19 @@ En los Partidos Judiciales donde haya varios Notarios, ejercerán éstos sus fun
 
 Para los Notarios son días de despacho obligatorio, todos los que lo sean para las demás oficinas públicas del Ejecutivo. Sin embargo, podrá el Notario, voluntariamente, autorizar cualquier acto, en cualquier día y a cualquier hora. Tratándose de testamento de alguna persona enferma de gravedad, el Notario no podrá rehusarse a ninguna hora del día o de la noche, a menos que concurra alguna de las circunstancias que enumera la Fracción III del Artículo 32.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 31.
 
-El Notario está obligado a ejercer sus funciones cuando al efecto sea requerido.
+El Notario está obligado a ejercer sus funciones cuando al efecto sea requerido. Tiene prohibido ejercerlas:
 
-Debe rehusarlas:
+I.- Si el acto que debería autorizar está prohibido por la Ley o el documento correspondiente no reúne los requisitos de forma que la misma señala, si es manifiestamente contrario a las buenas costumbres o si corresponde su autorización exclusivamente, a otro fedatario;
 
-I.- Si el acto que debería autorizar está prohibido por la Ley, manifiestamente contrario a las buenas costumbres o sí corresponde su autorización, exclusivamente, a otro funcionario;
+II.- Si en el acto intervienen o tienen interés, él mismo, su cónyuge, sus parientes consanguíneos en línea recta, sin limitación de grado o en la colateral hasta en cuarto grado inclusive o sus afines hasta el segundo grado, o de personas de quienes alguno de ellos fuere apoderado o representante legal en el acto correspondiente, y
 
-II.- Si como partes intervienen su esposa, sus parientes consanguíneos o afines en línea recta, sin limitación de grado o en la colateral hasta el cuarto grado inclusive;
+III.- Cuando el Notario haya intervenido como abogado de alguno de los interesados en el negocio judicial del que emane el instrumento, siempre y cuando se trate de asuntos contenciosos.
 
-III.- Si el acto interesa al Notario, a su esposa, o a alguno de sus parientes, en los grados que expresa la fracción anterior, o a personas de quienes alguno de ellos fuere apoderado o representante legal, en el acto que se trata de autorizar;
-
-IV.- Cuando el Notario intervino como abogado de los interesados en el negocio judicial del que emane la escritura, tratándose de asuntos contenciosos.
+Las prohibiciones a que se refiere este artículo, serán aplicables también al Notario que actué en el mismo protocolo que el impedido.
 
 ###### ARTICULO 32.
 
@@ -251,9 +279,13 @@ III. Si su intervención en la autentificación del acto o del hecho, pone en pe
 
 Los Notarios están estrictamente obligados a guardar el secreto profesional y hacer que lo guarden sus dependientes, sobre los Actos que autorizen y aún sobre la existencia de ellos, salvo si las Leyes les permiten u ordenen revelar el acto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 34.
 
 El Notario tiene el deber de explicar a las partes, el valor y las consecuencias legales de los actos que vaya a otorgar.
+
+Se aplicará la pena prevista por el artículo 277 del Código Penal, a quien realice ante el Notario la conducta descrita en dicho precepto, a cuyo efecto éste deberá apercibir y tomar la protesta de Ley a los declarantes, dejando constancia de ello en el instrumento.
 
 ###### ARTICULO 35.
 
@@ -273,29 +305,23 @@ El Nombramiento y las remociones se darán a conocer a las mismas dependencias q
 
 Todo Notario Titular, dentro de los treinta días siguientes a la fecha de su nombramiento deberá proponer la persona que será su Notario Adscrito, mismo que deberá llenar los requisitos de esta Ley. Igualmente dentro del plazo de treinta días deberá hacer la propuesta, en el caso de falta absoluta o remoción de su notario Adscrito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE ENERO 1992)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE 1996)</small>
 
-### CAPITULO VI. DEL PROTOCOLO ABIERTO
+### CAPITULO VI. DEL PROTOCOLO
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 38.
 
-Los Notarios seguirán el sistema de Protocolo Abierto para hacer constar los actos que conforme a esta Ley, deben autorizarse en él.
+Los Instrumentos notariales se asentarán en hojas foliadas, selladas y autorizadas a las que se llamará folios; dichos instrumentos, firmados al final por el Notario y los otorgantes, y serán archivados, debidamente ordenados y sólidamente empastados; los folios y las hojas de anotaciones complementarias en los términos de esta ley, junto con el registro de cotejos y sus apéndices, son los elementos que integran el protocolo.
 
-> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
-
-Las Escrituras se asentarán en hojas foliadas, selladas y perforadas a las que se les llamará "folios", las cuales rubricadas marginalmente por el Notario y firmadas al final por éste y los otorgantes, coleccionadas, ordenadas y sólidamente empastadas y junto con su Apéndice constituirán el Protocolo.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 39.
 
-El Protocolo se dividirá en tomos y éstos a su vez en volúmenes. Cada cinco volúmenes constituirán un tomo.
+Los instrumentos que el Notario asiente en los folios, se ordenarán en tomos. Los instrumentos y tomos que integran el Protocolo deberán ser numerados progresivamente.
 
-Los instrumentos, volúmenes y tomos que integran el Protocolo deberán ser numerados progresivamente.
-
-Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asientan en ellos, se ordenarán en volúmenes que tendrán siempre los folios en que se contengan cincuenta instrumentos, contándolos por cincuentenas cerradas incluyendo los que no pasaron.
+Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos, se ordenarán en tomos que tendrán siempre los folios en que se contengan cincuenta instrumentos, contando los por cincuentenas cerradas, incluyendo los que no pasaron.
 
 (REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
 
@@ -303,163 +329,167 @@ Los folios deberán utilizarse en forma progresiva por ambas caras y los instrum
 
 El sello del Notario se imprimirá en la parte superior derecha del anverso de cada folio al ser utilizado.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 41.
 
-El Notario no podrá autorizar acto alguno sin que lo haga constar en su Protocolo y sin que observe el procedimiento establecido al efecto en esta Ley.
+Toda actuación del Notario deberá hacerse constar en su Protocolo, conforme a los procedimientos y formalidades establecidos para tal efecto en esta Ley. Sin embargo, el Notario en cumplimiento del servicio notarial podrá expedir constancias, certificaciones, informes, copias certificadas y todo tipo de comunicación respecto de cualquier instrumento, documento, anotación o inscripción que obre en su Protocolo, sin necesidad de hacerlo constar en el mismo. En este caso, se hará constar en el documento que al efecto se expida, el número del instrumento o del registro del cotejo a que pertenece y los demás datos que permitan su localización dentro del Protocolo.
 
-El notario solo puede expedir certificaciones de actos o hechos que consten en su Protocolo. En la certificación hará constar el número y la fecha de la Escritura o Acta respectiva.
-
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 42.
 
-Cuando se trate de reconocimiento de firmas o de firmar un documento ante el Notario , el interesado deberá firmar en unión de aquél, el acta que se levante al efecto. El Notario hará constar que ante él, se reconocieron o, en su caso, se pusieron las firmas y que se aseguró de la identidad de la persona que las puso.
+Para integrar el Protocolo, el Consejo de Notarios del Estado, a costa de cada Notario, le proveerá de los folios necesarios para asentar los instrumentos, los cuales tendrán las características que se señalan en esta Ley.
 
-Cuando se trate de cotejar una copia de partida parroquial con su original, en el Acta se insertará aquella y el Notario hará constar que concuerda con su original exactamente, o en su caso, especificará las diferencias que hubiese advertido. En la copia de la partida hará constar el Notario que fue cotejada con su original y el resultado del cotejo.
+Previo a su utilización, los Notarios deberán presentar al Archivo General de Notarías los folios correspondientes, a efecto de que cada uno sea autorizado mediante perforaciones o cualquier otro medio indubitable.
 
-Para el cotejo de un documento con su copia escrita, fotográfica, fotostática o de cualquier otra clase, se presentará el original y copia al Notario, quien, en su caso, hará constar en el Acta que la copia es fiel reproducción de su original. Este se devolverá con su copia debidamente certificada al interesado. Otra copia del documento cotejado se agregará al Apéndice correspondiente.
+Los folios son propiedad del Estado a partir del momento que sean autorizados por el Archivo General de Notarías, pero su manejo queda bajo la estricta responsabilidad del Notario durante el tiempo que deba conservarlos en los términos de esta Ley.
 
-El cumplimiento de los requisitos y formalidades señaladas en este artículo y en el anterior, originarán la invalidez de la actuación del Notario.
+El Archivo General de Notarías y el Consejo de Notarios, deberán acordar los mecanismos que estimen pertinentes para el debido control de la expedición y autorización de folios.
 
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 43.
 
-Para integrar el Protocolo Abierto, el Consejo de Notarios del Estado, a costa de los propios Notarios, les proveerán de los folios necesarios para asentar los instrumentos, los cuales tendrán las características que señalan en el artículo 45 de esta Ley. Los Notarios entregarán los folios del Archivo General de Notarías para que les sean devueltos debidamente autorizados mediante perforaciones.
+Al iniciar la formación de un tomo, el Notario hará constar el lugar y la fecha en que se inicia, el número que le corresponde dentro de la serie de los que sucesivamente se han abierto en la Notaría a su cargo, el lugar en donde está situada la Notaría y la mención de que el tomo se formará con los instrumentos autorizados por el Notario o quien legalmente lo sustituya en sus funciones de acuerdo con esta Ley.
 
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+La hoja en la que se asienta la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del tomo, y deberá ser firmada por los Notarios que actúen en el Protocolo y se imprimirá el sello de autorizar.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 44.
 
-Al iniciar la formación de un Tomo, el Notario hará constar el lugar y la fecha en que se inicie, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la Notaría a su cargo, el lugar en donde esta situada la Notaría y la mención de que el tomo se formará con los volúmenes que contengan los instrumentos autorizados por el Notario o quien legalmente lo sustituya en sus funciones de acuerdo con esta Ley.
+Los folios en los que se asienten los instrumentos serán uniformes, de iguales características para todas las Notarías del Estado, con las medidas que sean acordadas por el Consejo de Notarios, con un margen de dos centímetros y medio en su orilla externa y otro de cinco centímetros en su orilla interna por donde se encuadernarán, separando dichos márgenes con una línea de color.
 
-La hoja en que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del primer volumen del tomo, y deberá ser firmada por los Notarios que actúen en el mismo y se imprimirá el sello de autorizar.
+Los folios estarán numerados progresivamente respecto de cada Notaría, anteponiendo el número de la Notaría en la cual serán utilizados, la demarcación asignada y tendrán impreso o grabado el escudo del consejo de Notarios del Estado.
 
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 45.
 
-Los folios en los que se asienten los instrumentos serán uniformes de treinta y cuatro centímetros de largo por veintidós de ancho, con un margen de dos centímetros y medio en su orilla externa y otro de cinco centímetros en su orilla interna por donde se encuadernarán, separando dichos márgenes con una línea de color rojo.
+Para asentar las Escrituras y Actas en los folios, podrá utilizarse cualquier procedimiento de escritura o impresión que sea firme, indeleble y legible. Sólo en casos urgentes o por razón del lugar donde sean levantadas, a juicio del Notario, podrán ser manuscritas.
 
-Los mencionados folios deberán tener impreso o grabado el sello del Consejo de Notarios y deberán estar foliados respecto de cada Notaría progresivamente, anteponiendo el número de la Notaría en la cual serán utilizados.
+La parte utilizable del folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y los renglones que se impriman deberán quedar a igual distancia unos de otros.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE 1996)</small>
 
 ###### ARTICULO 46.
 
-Para asentar las Escrituras y Actas en los folios podrán utilizarse cualquier procedimiento de escritura o impresión que sea firme, indeleble y legible. Sólo en casos urgentes o por razón del lugar donde sean levantadas, a juicio del Notario, podrán ser manuscritas.
+En caso de extravío, robo o destrucción total o parcial de folios, el Notario deberá actuar conforme a las siguientes reglas:
 
-No se inscribirán más de cuarenta líneas por página y deberán quedar a igual distancia unas de otras.
+I. En el caso de folios en los que no se haya asentado ningún instrumento o habiéndolo hecho no hayan sido firmados por ninguno de los otorgantes y en los folios de numeración inmediata posterior no se hubiere asentado algún instrumento, el Notario asentará constancia en el primer folio posterior, en la que se señale cuáles fueron los folios que no pudieron ser utilizados y la causa de ello;
 
-La parte utilizable del folio deberá aprovecharse al máximo posible y no deberán dejarse espacios en blanco.
+II. En el caso de folios en los que no se haya asentado instrumento o habiéndolo hecho no hayan sido firmados por ninguno de los otorgantes y en los folios de numeración inmediata posterior ya se hubiere asentado algún instrumento, el Notario podrá intercalar folios de numeración posterior para asentar en éstos el o los instrumentos que estaban o debieron estar asentados en los folios que no pueden ser utilizados. En el primer folio que se intercale, deberá asentarse constancia que señale cuáles son los folios que ya no pueden ser utilizados y la causa de ello, e inmediatamente después asentará el instrumento correspondiente; igualmente deberá asentar constancia en el primer folio posterior a los intercalados, que señale el número de los folios que se intercalaron, en substitución de cuáles y el número del o los instrumentos que en ellos se asentaron, y
 
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+III. En caso de que en los folios ya se hubiere asentado algún instrumento y éste hubiere sido firmado por alguno de los otorgantes, el Notario:
+
+a) Volverá a asentar el instrumento en folios de numeración posterior en los mismos términos señalados en la fracción II de este artículo, debiendo recabar nuevamente la firma de quiénes lo hayan suscrito.
+
+b) Si no fuera posible obtener nuevamente las firmas, hará la reposición con una copia certificada del testimonio, con el duplicado del instrumento que con firmas autógrafas de quienes en él intervinieron pudiera obrar en el apéndice o con la certificación del instrumento extraviado que obre en poder de las partes o de alguna oficina pública en razón de sus funciones, documento que protocolizará en folios que deberán ser intercalados en lugar de los faltantes, haciendo constar claramente al margen derecho del anverso de cada folio la palabra "reposición" y agregando la copia al apéndice de la misma.
+
+El Ejecutivo, a través de la Secretaría de Gobierno y el Consejo de Notarios, en todo momento vigilarán la verificación de los procedimientos aquí citados, para lo cual, el Notario en el supuesto del inciso b) deberá solicitar autorización por escrito para proceder a la reposición, la cual deberá efectuar dentro del plazo de tres días, contados a partir de que obtuvo dicha autorización.
+
+El procedimiento de reposición carecerá de validez si no se obtiene previamente la autorización a que se refiere el párrafo anterior, de todo lo cual deberá dejarse constancia en el Apéndice.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 47.
 
-Por cada tomo del Protocolo Abierto el Notario llevará un libro de control de folios, el cual deberá estar encuadernado sólidamente y empastado.
+Todo instrumento se iniciará al principio de un folio y si al final del último utilizado queda espacio, después de las firmas y autorización preventiva. Éste se empleará para asentar las notas a que se refiere el artículo 50 de esta Ley. Los espacios en blanco que queden después de lo anterior, serán cubiertos con líneas de tinta firmemente grabadas.
 
-Una vez que el Notario haya asentado en los folios un instrumento, deberán hacer constar de inmediato en el libro indicado, el número del mismo, su fecha, los números del primero y el últimos de los folios en los que fue asentado, la naturaleza del acto jurídico que contenga y los nombres de las partes. Al terminar cada hoja de éste libro asentará el sello de autorizar.
-
-El libro a que se refiere este artículo no será enviado al Archivo General de Notarías ni para revisión ni para su guarda en forma definitiva, pero podrá ser sujeto de inspección en los términos de esta Ley o las disposiciones de Derecho Común.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 48.
 
-La numeración de los instrumentos será progresiva e igualmente será progresivo el número de los folios que se empleen.
+Se tendrá por fecha de terminación del tomo la misma en la que haya sido asentado el último de sus instrumentos.
 
-> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+Dentro de los cuarenta y cinco días naturales siguientes a la fecha de terminación del tomo, se deberá asentar en una de las hojas a que se refiere el artículo cincuenta párrafo segundo de la presente Ley, una razón en la que se indicará la fecha del asiento, el número del mismo, el número de folios de que consta, los números de los instrumentos asentados, y en su caso los números de los instrumentos que no estén autorizados definitivamente, señalando la razón por la que no lo están. Al calce de esta nota, los Notarios que hayan actuado en el tomo, asentarán su firma y el sello de autorizar.
 
-Cuando por cualquier razón se inutilice o extravíe un folio antes de que la Escritura sea firmada por alguna de las partes, el Notario podrá sustituir el folio o folios inutilizados o extraviados, por otros, aunque no sea de enumeración sucesiva, con tal que sean de los que se estén empleando el mismo día, debiendo tomar nota de todo ello en el libro a que se refiere al artículo anterior y asentarlo al pie de la escritura, antes de las firmas, anotando los números de los folios utilizados, así como de los inutilizados extraviados, además en el folio cuyo número siga al intercalado se asentará una mención de que el faltante entre aquél y el que le precede se usó en substitución de otro con numeración anterior y de los números de folios entre los cuales quedó el intercalado.
+La hoja en la que conste esta razón, deberá agregarse al final del tomo y el Notario comunicará su contenido al Archivo General de Notarías.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 49.
 
-Todo instrumento se iniciará al principio de un folio, y al final del último empleado en el mismo queda espacio, después de las firmas y autorización, éste se empleará para asentar las notas a que se refiere el artículo 52 de esta Ley. Los espacios en blanco que queden después de lo anterior serán cubiertos con líneas de tinta fuertemente grabadas.
+A partir de la fecha de terminación del tomo, el Notario dispondrá de un plazo de seis meses para encuadernarlo.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+Dentro de los treinta días naturales siguientes a la fecha en que deba estar encuadernado cada tomo, el Notario deberá enviarlo al Archivo General de Notarías.
+
+El Director de dicha oficina revisará la exactitud de la razón que cierra el tomo, autorizándolo con su firma y sello y lo devolverá al Notario dentro de los diez días hábiles siguientes a la fecha de su recepción.
+
+La circunstancia de no llevar al Archivo General de Notarías el tomo del Protocolo, en el supuesto a que se contrae este precepto, con la oportunidad que el mismo señala, será causa para no autorizar nuevos folios o imponer corrección disciplinaria por el Secretario de Gobierno al recibir el informe del Director del Archivo General de Notarías.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 50.
 
-Dentro de los treinta días naturales siguientes a la terminación de un tomo, el Notario deberá asentar en una hoja en blanco, una razón en la que se indicará la fecha del asiento, el número de folios utilizados e instrumentos asentados y pondrá al calce de la misma su firma y sello de autorizar.
+En el último folio utilizado de cada Escritura, si hubiere necesidad, el Notario pondrá después de la autorización preventiva o la definitiva cuando la primera no sea necesaria, el encabezado " Notas Complementarias" y ahí consignará las notas de expedición de testimonio, de su inscripción en el Registro Público de la Propiedad y las demás que deban hacerse conforme a esta u otras leyes.
 
-La hoja en la que conste esta razón, deberá agregarse al final del último de los volúmenes que formen el tomo y el Notario comunicará al Archivo General de Notarías, el contenido de la nota de terminación.
+Si la parte final del folio no fuere suficiente, la autorización definitiva o las anotaciones se asentarán al final del instrumento, en una o varias hojas comunes de medidas y calidad semejante a los folios, anotando en éstas el número del instrumento a que corresponda, las cuales deberán ser firmadas y selladas por el Notario.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O.31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 51.
 
-A partir de la fecha en que se haga constar el último instrumento del tomo, el Notario dispondrá de un término de sesenta días naturales para encuadernar los volúmenes.
+Los elementos que integran el protocolo deberán estar siempre en la Notaría, salvo en los casos expresamente permitidos por esta Ley.
 
-> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+El Notario podrá recabar firmas fuera de la Notaría, si los interesados no pueden concurrir a la misma.
 
-Dentro de los quince días naturales siguientes a la fecha de la razón a que se refiere el artículo anterior, a continuación se hará constar el número del mismo, el de los volúmenes que contiene, el número de hojas de que consta cada volumen, el número de instrumentos contenidos en el tomo, con expresión del número correspondiente al primero y al último de los instrumentos asentados en el mismo, y eventualmente los números de los instrumentos que no estén autorizados, señalando la razón por la que no lo están. Al calce de esta nota el Notario asentará su firma y sello de autorizar.
+Si alguna autoridad, con facultades legales, ordena la visita o inspección de uno o más instrumentos del Protocolo, el acto se efectuará en la oficina Notarial y siempre con la presencia del Notario.
 
-Dentro de los treinta días naturales siguientes a la fecha en que deba estar encuadernado cada tomo, el Notario deberá enviarlo al Archivo General de Notarías. Dicha oficina revisará la exactitud de la razón que cierra el tomo, autorizándolo con su firma y sello y devolverá los volúmenes dentro de los cinco días hábiles siguientes a la fecha de su recepción.
+En el caso de que el tomo del protocolo en el que se encuentra asentado el instrumento ya obre en el Archivo General del Notarías, la inspección se llevará a cabo en éste, previa citación al Notario.
 
-> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
+El Notario guardará en su archivo los elementos integrantes de su protocolo durante tres años, contados desde la fecha en el que el Director del Archivo General de Notarías ponga la certificación de cierre. A la expiración de este plazo, el Notario los entregará al Archivo General de Notarías, en donde quedarán definitivamente para su guarda; sin embargo, el Notario tendrá en todo tiempo acceso a los mismos.
 
-La circunstancia de no llevar al Archivo General de Notarías los volúmenes del Protocolo, en el supuesto a que se contrae este precepto, con la oportunidad que el mismo señala, será causa para no autorizar nuevos folios o de corrección disciplinaria que impondrá el Secretario de Gobierno al recibir el informe del Director del Archivo General de Notarías.
+El Director del Archivo General de Notarías dará aviso al Secretario de Gobierno cuando los Notarios no cumplan con lo dispuesto en este artículo.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 52.
 
-En el último folio utilizado de cada Escritura, si hubiere necesidad, el Notario pondrá después de la autorización preventiva o la definitiva cuando la primera no sea necesaria, el encabezado "Notas Complementarias" y ahí consignará todas las anotaciones que en la presente Ley se indique que deban hacerse marginalmente.
+El Notario, respecto de los tomos del protocolo llevará una carpeta por cada uno de ellos, en donde irá depositando los documentos que se relacionen con las escrituras y las actas. El contenido de esta carpeta se llama "Apéndice".
 
-Si la parte final del folio no fuere suficiente, la autorización definitiva o las anotaciones se harán en una o varias hojas comunes de las mismas medidas y calidad de los folios que se agregarán al volumen, selladas y firmadas por el Notario consignando el número de la escritura a que corresponda.
+Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos, el número que corresponde al del instrumento a que se refiere. En cada uno de los documentos se podrá poner una letra que lo señale y distinga de los otros que forman el legajo. Los documentos que se protocolicen, integrados por más de una hoja, se considerarán como uno sólo.
 
-> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
-
-Sólo en caso de adiciones a una Escritura, si las mismas no caben en el folio en el que hubiera terminado la redacción de la Escritura, y el siguiente ya se hubiere empleado, se podrá utilizar uno o más diferentes, siguiendo el procedimiento señalado en segundo párrafo del artículo 48 de esta Ley.
-
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 53.
 
-Los folios que integran el Protocolo deberán estar siempre en la Notaría, salvo en los casos expresamente permitidos por esta Ley, o cuando haya que recoger las firmas de quienes no puedan asistir a la Notaría, o el Notario esté dispuesto a salir a recogerlas.
+Los legajos del Apéndice debidamente ordenados, se empastarán para formar un cuaderno por cada tomo, a menos que por el número de hojas que contenga, sea conveniente subdividirlo. Tal encuadernado deberá realizarse dentro de los seis meses siguientes a la fecha de terminación del tomo de protocolo a que pertenece, identificándolos por el número del propio tomo.
 
-Si alguna autoridad, con facultades legales, ordena la visita o inspección de uno o más volúmenes del Protocolo, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste.
-
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O., 14 DE MAYO 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 54.
 
-Los Notarios guardarán en su archivo los tomos cerrados de su Protocolo, durante cinco años, contados desde la fecha en que el Director del Archivo General de Notarías ponga la certificación de cierre. A la expiración de este término, el Notario entregará los tomos respectivos al Archivo General de Notarías, en donde quedarán definitivamente.
+Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su Tomo respectivo, cuando éstos deban ser entregados definitivamente al Archivo General de Notarías.
 
-El Archivo General de Notarías dará aviso al Secretario de Gobierno cuando no cumplan los Notarios con lo dispuesto en este artículo.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992 (F. DE E., P.O., 14 DE MAYO 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 55.
 
-El Notario, en relación con los tomos del Protocolo llevará una carpeta por cada volumen, en donde ira depositando los documentos que se refieren en las Escrituras y las Actas. El contenido de esta carpeta se llama "Apéndice", el cual se considerará como parte integrante del Protocolo.
+Independientemente de los tomos y de las carpetas del apéndice, el Notario tendrá la obligación de formar diariamente por duplicado un índice por cada tomo, de todos los instrumentos que autorice, por orden alfabético, de apellidos, denominación o razón social de cada uno de los otorgantes y con expresión del número del instrumento, naturaleza del acto o hecho y folios donde está asentado. Cuando se entregue el tomo al Archivo General de Notarías para su guarda definitiva, se acompañará un ejemplar del índice respectivo.
 
-Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos, el número que corresponde al de la Escritura o Acta a que se refieren. En cada uno de los documentos, se pondrá una letra que los señale y distinga de los otros que forman el legajo. Los documentos que se protocolicen, integrados por más de una hoja, se considerarán como uno solo.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 56.
 
-Las carpetas de los Apéndices se encuadernarán ordenadamente y se empastarán uno o más volúmenes a juicio del Notario en atención al número de hojas que contenga, a más tardar ciento ochenta días después de la fecha del cierre del libro del protocolo a que pertenecen, cuyo número se les pondrá.
+Los cotejos que el Notario realice no serán asentados en los folios. Para estos efectos, el Notario deberá llevar anualmente un Registro de Cotejos que contendrá los asientos de los cotejos que levante, así como el nombre del solicitante, la fecha, la referencia del documento de que se trata, y el número de fojas de que consta. Cada que se realice un cotejo, se asentará constancia del mismo, mencionándolo en su orden progresivo y año que le corresponda. El orden aquí mencionado deberá ser ininterrumpido por cada Notaría.
 
-Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su volumen y tomo respectivos, cuando éstos deban ser entregados definitivamente al Archivo General de Notarias.
+El Notario deberá sellar y foliar todas las hojas que integren este registro y firmará las razones de su apertura y cierre anual. El registro de cotejos podrá llevarse en hojas sueltas, en cuyo caso al asentar la razón de cierre, deberán ser ordenadas y empastadas sólidamente dentro de los primeros treinta días del año siguiente.
 
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE., P.O. 14 DE MAYO DE 1992)
+El Apéndice de Cotejos que se formará también anualmente, se integrará con las copias de los documentos que el Notario certifique y éstas se empastarán en carpetas que de preferencia no excedan de un grosor de diez centímetros.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57.
 
-Independientemente de los tomos y de las carpetas del Apéndice, los notarios tendrán obligación de formar por duplicado un índice de cada tomo, de todos los instrumentos que autorice, por orden alfabético, de apellidos, denominación o razón social de cada uno de los otorgantes y con expresión del número del instrumento, naturaleza del acto o hecho y folio, mismo que cuando llegue la vez de entregar el Tomo al Archivo General de Notarias, se entregue también un ejemplar de dicho índice al propio Archivo, quedándose con el otro el Notario.
+Para el cotejo de un documento con su copia escrita, fotográfica, fotostática o de cualquier otra clase, se presentará el documento cuyo cotejo se pide al Notario y las copias del mismo, quien, en su caso, levantará un asiento en el registro de cotejos, pudiendo hacerlo con abreviaturas o guarismos y hará constar en la razón que asiente, el hecho de que las copias son fiel reproducción del documento y que lo tuvo a la vista. El documento se devolverá con su copia o copias debidamente certificadas al interesado y otra copia del documento certificado se agregará el Apéndice de Cotejos correspondiente. En cada copia que se certifique se deberá asentar el número que le correspondió en el registro de cotejos.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 58.
 
-Serán aplicables al Protocolo Abierto, todas las demás, disposiciones de la presente Ley que no se opongan a lo establecido en este Capítulo.
+Serán aplicables al presente capítulo todas las demás disposiciones contenidas en la Ley que no se opongan a lo aquí establecido.
 
 ### CAPITULO VII. DE LA CLAUSURA DEL PROTOCOLO
 
@@ -553,27 +583,43 @@ d) Que los comparecientes manifestaron su conformidad con la escritura y la firm
 
 e) Los hechos que presencia el Notario y que sean integrantes del acto que autorice, como entrega de dinero, de títulos u otros.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 70.
 
-Para que el Notario dé fé de conocer a los comparecientes y de que tienen capacidad legal, bastará que sepa su nombre y apellidos, que no observe en ellos manifestaciones patentes de incapacidad natural y que no tenga noticia de que están sujetas a incapacidad civil.
+Para que el Notario haga constar que conoce a los comparecientes, deberá valerse de cualquiera de los siguientes medios:
+
+I. Por la certificación que haga, bajo su responsabilidad, de que los conoce personalmente.
+
+II. Por la presentación de documentos oficiales con fotografía que hagan los comparecientes, y
+
+Con la declaración de persona idónea a la que pueda identificar en los términos de cualquiera de las dos fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 71.
 
-En caso de no serle conocidos los comparecientes hará constar su identidad y capacidad, si le presentan documentos oficiales que los acrediten, o por declaración de persona idónea a quien conozca el Notario, quien así lo expresará en la escritura.
+Si al Notario no le fuera posible identificar a algún compareciente en los términos del artículo anterior, no se otorgará el instrumento salvo caso grave o urgente, expresando el Notario la razón correspondiente; el instrumento se confirmará por el Notario, comprobada que se plenamente la identidad de dicho compareciente, mediante razón que se asiente al pie del instrumento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 72.
 
-Si el Notario no pudiera identificar a las partes, no se otorgará la escritura, salvo caso grave o urgente, expresando el Notario la razón correspondiente, la escritura se confirmará por el Notario, comprobada que sea plenamente la identidad del compareciente.
+Para que el Notario certifique que los comparecientes tienen capacidad legal, bastará que nos observe en ellos manifestaciones patentes de incapacidad legal y que no tenga noticia de que estén sujetos a ella.
 
 ###### ARTICULO 73.
 
 Si alguno de los comparecientes fuere sordo o sordomudo, leerá por si mismo la escritura; si no sabe o no puede leerla, podrá asistirse de persona de su confianza que le interprete la escritura, todo lo cual hará constar el Notario.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 74.
 
-Cuando el otorgante no supiere la lengua nacional, se hará acompañar de un intérprete que él mismo elegirá, quien protestará formalmente, ante el Notario, cumplir lealmente su cargo.
+Cuando el otorgante no supiera el idioma español, se hará acompañar de un intérprete que el mismo elegirá, quien protestará formalmente, ante el Notario, cumplir lealmente el cargo.
 
-La parte que conozca la lengua nacional, podrá también llevar otro intérprete para lo que a su derecho convenga.
+La parte que conozca el idioma español, podrá también llevar otro intérprete para lo que a su derecho convenga.
+
+Si el Notario conoce el idioma extranjero, éste podrá fungir como traductor si en ello convienen las partes.
 
 ###### ARTICULO 75.
 
@@ -589,9 +635,15 @@ La Autorización contendrá la fecha y el lugar en que se haga, la firma y sello
 
 Si el Notario que hubiere autorizado preventivamente una escritura dejare de actuar, su suplente podrá autorizarla definitivamente, o en su caso, podrá hacerlo el Director del Archivo General de Notarías.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 77.
 
-Si quienes deben suscribir una escritura no se presentan a firmarla, dentro del término de treinta días naturales siguientes a la fecha en que se extendió en el Protocolo, la misma quedará sin efecto y el Notario pondrá al calce de ella y firmará una razón de "NO PASO".
+Si alguno de quienes deban suscribir una escritura no se presentan a firmarla dentro de un plazo de treinta días naturales siguientes a la fecha en que se asentó el Protocolo, el Notario podrá al calce de ella y firmará una razón de "NO PASO", teniéndose por no otorgado el acto.
+
+Cuando las partes no hayan expensado oportunamente al Notario para pagar los impuestos y derechos que cause la operación o no hayan cubierto los honorarios correspondientes dentro del plazo de treinta días naturales siguientes a la fecha en que se asentó y firmó el Protocolo, el Notario pondrá al calce de ella y firmará una razón de "SIN AUTORIZACIÓN DEFINITIVA", la misma razón se pondrá cuando el instrumento no pueda ser autorizado definitivamente por falta de cumplimiento de los requisitos que señalen las Leyes, y se hará tan pronto como se compruebe la imposibilidad de cumplirlos. En estos casos, los efectos legales del instrumento serán solo los de un documento privado.
+
+En instrumentos a los que se haya puesto la nota de "SIN AUTORIZACIÓN DEFINITIVA", satisfechas las omisiones o cubiertos los requisitos correspondientes, el Notario deberá autorizarlos definitivamente, asentando razón de ello al pie del mismo.
 
 ###### ARTICULO 78.
 
@@ -603,53 +655,79 @@ Cada escritura llevará al margen, además de su número progresivo, la clasific
 
 También al margen de la escritura, el Notario pondrá las razones asentadas en los testimonios por el Registro Público, extractados y razón de a quien o quienes se haya expedido Testimonios.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 80.
 
-Se prohibe a los Notarios consignar revocaciones, rescisiones o modificaciones al contenido de una escritura por simple razón al margen de ella. En estos casos debe extenderse nueva escritura y anotar después la antigua, salvo disposición expresa de la Ley, en sentido contrario.
+Se prohíbe a los Notarios consignar revocaciones, rescisiones o modificaciones al contenido de fondo de una escritura por simple razón al final de ella. En estos casos debe extenderse nueva escritura, en la que también se haga referencia a la antigua y en ésta se hará la anotación correspondiente, salvo disposición expresa de la Ley en sentido contrario
+
+Los errores aritméticos, nominales, en la descripción del objeto o cualquier otro de carácter material o formal que consten en instrumento y que no alteren su contenido de fondo, podrán ser corregidos por el Notario, solo a petición de parte interesada, mediante acta por separado que asiente en folios, razonando la causa y dejando clara constancia de lo rectificado.
 
 ###### ARTICULO 81.
 
 La obligación que tiene el Notario de redactar por escrito las cláusulas de los testamentos públicos abiertos no implica el deber de escribirlas por sí mismo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 82.
 
-Todo Notario, al autorizar un testamento público abierto o cerrado, y a más tardar dentro de las veinticuatro horas hábiles siguientes a su otorgamiento, dará aviso de ello, por duplicado al Procurador General de Justicia y al Director del Archivo General de Notarías, expresando el nombre del testador y la fecha de otorgamiento, concretándose este aviso a la noticia de haber pasado el acto. Si el testamento fuere cerrado, expresarán además, en el aviso, el lugar o persona en cuyo poder se deposite.
+Todo Notario, al autorizar un testamento, y a más tardar dentro de los tres días hábiles siguientes a su otorgamiento, dará aviso de ello a la Dirección del Archivo General de Notarías, concretándose a la noticia de haber pasado el acto y expresando:
 
-Tratándose de Notarios que ejercen sus funciones fuera de la Capital del Estado, dichos avisos deberán enviarlos precisamente por correo certificado, antes del vencimiento del término mencionado.
+I.- El nombre del Testador, domicilio y fecha de nacimiento, y
 
-La Procuraduría General de Justicia y el Archivo General de Notarías llevarán un libro especial denominado registro de Testamentos, destinado a asentar las inscripciones relativas, con los datos que se mencionan.
+II.- Número de instrumento, fecha y hora de otorgamiento.
 
-El Notario ante quien se inicie un juicio sucesorio recabará de la Procuraduría General de Justicia, del Archivo General de Notarías y del Registro Público de la Propiedad, la información, por escrito, de si hay anotación en el libro de Registro de Testamentos, referente a haberse otorgado alguno por la persona de cuya sucesión se trate.
+Si el testamento fuere cerrado, expresará además en el aviso, el lugar o persona en cuyo poder se deposite.
+
+Tratándose de Notarios que ejercen sus funciones fuera de la Capital del Estado, dichos avisos podrán enviarlos por correo certificado, con acuse de recibo, antes del vencimiento del plazo mencionado.
+
+El Archivo General de Notarías llevará un registro especial denominado REGISTRO DE TESTAMENTOS, destinado a asentar las inscripciones relativas, con los datos que se mencionan.
+
+El Notario ante quien se inicie un juicio sucesorio recabará del Archivo General de Notarías y del Registro Público de la Propiedad, la información por escrito, de si hay anotación en el Registro de Testamentos, referente a haberse otorgado alguno por la persona de cuya sucesión se trate.
+
+Las obligaciones a que se refiere este artículo, podrán coordinarse con otros Estados o la Federación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 83.
 
-Los documentos procedentes del extranjero podrán protocolizarse, cuando reúnen las condiciones que previenen los tratados internacionales o nuestro derecho, y se exigirá la traducción respectiva, cuando no se hallen redactados en la lengua nacional.
+Los documentos procedentes del extranjero podrán protocolizarse, por el Notario cuando reúnan las condiciones que previenen los tratados internacionales o derecho mexicano y se hará la traducción respectiva por persona cierta cuando no se hallen redactados en idioma español, agregando al apéndice correspondiente copia cotejada del documento y su traducción.
+
+El Notario asentara los datos de identificación y localización de quién realice la traducción.
 
 ### CAPITULO IX
 
 DE LAS ACTAS.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 84.
 
-Acta Notarial es el instrumento original que el Notario asienta en el Protocolo, redactada por el mismo, para hacer constar un hecho y que tiene la firma y el sello del Notario.
+Acta Notarial es el instrumento asentado en el Protocolo que a petición de parte es redactado por el Notario para hacer constar uno o varios hechos y que debe ser autorizado por éste con su sello y firma.
+
+Si el acta se refiriera a la ratificación de contenido o firmas de un documento en el que conste un acto que deba asentarse en Escritura Pública, el Notario deberá abstenerse de intervenir.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 85.
 
-Las actas se asentarán en el protocolo. Los preceptos del Capítulo relativo a las escrituras serán aplicables a las actas en cuanto sean compatibles con la naturaleza del hecho materia de ellas.
+Los preceptos del Capítulo relativo a las escrituras serán aplicables a las actas en cuanto sean compatibles con la naturaleza del hecho materia de ellas.
 
-En las notificaciones, interpelaciones, requerimientos, protesto de documentos, protocolización de documentos, planos, fotografías, y otras diligencias en las que deba intervenir, según las leyes, el Notario observará las siguientes:
+En las notificaciones, interpelaciones, requerimientos, protestos, protocolizaciones, certificaciones y en general cualesquiera otras diligencias en las que pueda constatar circunstancias apreciables por los sentidos, o en aquellos casos similares cuya intervención le señalen las leyes, el Notario procederá en la forma siguiente.
 
 I.- Bastará mencionar el nombre y apellidos de las personas con quien se practique la diligencia, sin necesidad de agregar sus demás generales;
 
-II.- Si la persona no quisiere oír la lectura del acta, manifestare su inconformidad con ella o se rehusará a firmar, así lo hará constar el Notario, sin que se requiera la intervención de testigos;
+II.- Si la persona no quisiere oír la lectura del acta, manifestare su inconformidad con ella o se rehusare a firmarla, así lo hará constar el Notario, sin que se requiera la intervención de testigos;
 
-III.- El intérprete será elegido por el Notario, sin perjuicio de que el interesado pueda nombrar otro, por su parte;
+III.- De requerirse un intérprete o traductor, será elegido por el Notario, sin perjuicio de que el interesado pueda nombrar otro, por su parte;
 
-IV.- El Notario autorizará el acto, aún cuando no haya sido firmada por el interesado;
+IV.- El Notario podrá autorizar el acta, aún cuando no haya sido firmada por el interesado, haciendo constatar la razón de ello.
 
-V.- En los casos de protesto, no será necesario que el Notario conozca a la persona con quien lo entienda;
+V.- En los casos de protesto, no será necesario que el Notario conozca a la persona con quien lo entienda,
 
-VI.- la fuerza pública prestará a los Notarios el auxilio que requieran para llevar a cabo las diligencias que deban practicar, conforme a la Ley, cuando se le opusiera resistencia o se use o pueda usarse violencia en su contra.
+VI.- El Notario tendrá facultades para exigir el uso de la fuerza pública que se requiera para llevar a cabo las diligencias que deba practicar, conforme a la Ley, cuando se le opusiera resistencia o se use o pueda usarse violencia en su contra.
+
+Las actas podrán ser asentadas por el Notario en el mismo momento de la diligencia o a más tardar en un plazo no mayor de setenta y dos horas, sin que esto le exima de la obligación de dejar asentado en la misma el día, la hora y el lugar en que se practicó aquélla.
 
 ###### ARTICULO 86.
 
@@ -663,29 +741,37 @@ No se podrá protocolizar el documento cuyo contenido sea contrario a las Leyes 
 
 ### CAPITULO X. DE LOS TESTIMONIOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 88.
 
-Testimonio es la copia fiel que expide y certifica el Notario, bajo su firma y sello, en el que transcribe directamente de su protocolo el contenido de una escritura o acta notarial y sus documentos que obran en el Apéndice, con excepción de los que ya se hayan insertado en el instrumento.
+Testimonio es la copia fiel que expide y certifica el Notario, bajo su firma y sello, en el que transcribe directamente de su protocolo el contenido de una escritura o acta notarial y relaciona, transcribe textualmente o anexa en copia sellada y rubricada o marcada de manera indubitable, los documentos que obran en el Apéndice, con excepción de los que ya se hayan insertado en el cuerpo del instrumento.
 
-El Notario no expedirá testimonio o copia parcial cuando por la omisión de lo que no se transcribe, pueda seguirse perjuicio a tercera persona.
+El Notario no expedirá testimonio o copia parcial cuando por lo que se omita, pueda seguirse perjuicio a tercera persona.
+
+Cuando una de las partes solicite además una traducción del testimonio en idioma extranjero, el Notario podrá agregarla, realizada por traductor, asentando la razón de que la misma corresponde al testimonio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 89.
 
-Al final de cada testimonio se hará constar su calidad de ser primero, segundo o ulterior; el nombre del interesado a quien se expide y a que título; el número de hojas del testimonio y la fecha de su expedición.
+Al final de cada testimonio, mediante la razón del Notario, se hará constar su calidad de ser primero o ulterior; el nombre del interesado a quien se expide; el número de hojas de que consta y la fecha de su expedición.
 
-Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras. Las Hojas del testimonio serán foliadas y rubricadas por el Notario. El sello se imprimirá al margen de cada hoja.
+Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras. Las Hojas del testimonio serán rubricadas o marcadas de manera indubitable por el Notario y su sello se imprimirá en la parte superior del anverso de cada hoja que lo integra.
 
-Cuando en una escritura aparezca consignado un acto jurídico del que resulte la existencia de pluralidad de acreedores, el Notario expedirá simultáneamente un primer testimonio para cada acreedor de que se trate.
+Cuando en una escritura aparezca consignado un acto jurídico del que resulte la existencia de pluralidad de otorgantes, el Notario podrá expedir simultáneamente un primer testimonio para cada uno de ellos, consignando el nombre del que se trate.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 90.
 
-Los Notarios, sin necesidad de autorización judicial, pueden expedir y autorizar testimonios o copias impresas por cualquier medio de reproducción que sea legible, así como certificaciones de las escrituras que consten en su protocolo. En cada caso se hará constar el número y la fecha de la escritura.
+Los Notarios, sin necesidad de autorización judicial y sin el requisito a que se refiere el artículo 57 de esta ley, pueden expedir y autorizar testimonios o copias impresas por cualquier medio de reproducción que sea legible, así como certificaciones de las instrumentos o documentos que consten en su protocolo. En cada caso se hará constar el número del instrumento al que pertenece.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 91.
 
-Las hojas del Testimonio tendrán las mismas dimensiones que fije esta Ley para las del protocolo y contendrán cuarenta renglones como máximo.
-
-Cada hoja del testimonio llevará al margen el sello y las iniciales o rúbrica del Notario.
+Las hojas del Testimonio tendrán las mismas dimensiones que fije esta Ley para los folios del protocolo y los renglones sea asentará en la misma forma.
 
 ### CAPITULO XI
 
@@ -867,37 +953,39 @@ La infracción que produzca una responsabilidad administrativa, que no tenga san
 
 I.- Apercibimiento;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+II.- Multa de veinte a mil veces el salario mínimo general vigente en la zona;
 
-II.- Multa de cincuenta a cincuenta mil veces el salario mínimo general diario vigente en la zona;
+III.- Suspensión del ejercicio de la función hasta por seis meses, y
 
-III.- Suspensión de funciones hasta por seis meses y,
-
-IV.- Suspensión o separación definitiva del cargo.
+IV.-Separación definitiva del cargo.
 
 Estas sanciones administrativas podrán aplicarse sin seguir el orden de su enumeración y atendiendo sólo a la gravedad de la falta.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 113.
 
-Para aplicar a los Notarios las sanciones administrativas a que se refiere el artículo anterior, el Ejecutivo a través de la Secretaría de Gobierno, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicará la Dirección del Archivo General de Notarias o la persona designada expresamente para tal efecto. En todo caso, se concederá el Derecho de Audiencia al Notario afectado y podrá escucharse la opinión de la Comisión de Honor y Justicia del Consejo de Notarios.
+Para aplicar a los Notarios las sanciones administrativas a las que se refiere el artículo anterior, el Ejecutivo se auxiliará de la Comisión de Honor y Justicia del Consejo de Notarios, que estará integrada con por lo menos dos Expresidentes del mismo, El Presidente y Secretario en funciones, fungiendo el primero como Presidente de dicha Comisión.
 
-(REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O. 14 DE MAYO DE 1992)
+El Ejecutivo a través de la Secretaría de Gobierno podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicará la Dirección del Archivo General de Notarías o la persona designada expresamente para tal efecto. En todo caso se concederá el derecho de audiencia al Notario afectado y deberá escucharse la opinión de la Comisión de Honor y Justicia del Consejo de Notarios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 114.
 
-Para presentar una queja en los casos de responsabilidad administrativa de los Notarios, se estará el siguiente procedimiento:
+Para presentar una queja en los casos de responsabilidad administrativa de los Notarios, se estará al siguiente procedimiento:
 
-La queja respectiva deberá presentarse ante la Comisión de Honor y Justicia del Consejo de Notarios, por conducto de su Presidente o ante el Secretario de Gobierno, si dicha queja es en contra del Presidente.
+La queja respectiva deberá presentarse ante la Secretaría de Gobierno, debiendo anexar los documentos en que se sustente.
 
-La Comisión de Honor y Justicia, debidamente integrada, emitirá sus opiniones respecto de los actos y omisiones de los Notarios en un término de diez días hábiles contados a partir de la fecha en que reciba la queja, haciendo un análisis del caso y sus circunstancias: deberá previamente escuchar a las partes afectadas, recibir de ellas las pruebas relacionadas con los hechos motivo de la queja y tomará sus acuerdos por mayoría de votos.
+Previo a la tramitación formal de la queja, la Secretaría de Gobierno deberá remitir copia de la misma al Presidente de la Comisión de Honor y Justicia del Consejo de Notarios para que dentro del plazo de diez días hábiles realice las gestiones pertinentes para resolver la controversia. Si vencido el plazo no se ha tenido la solución correspondiente, se tramitará la queja de acuerdo a las siguientes reglas:
 
-Queda facultada la Comisión de Honor y Justicia o un Delegado de la misma, para hacer las visitas que sean necesarias a los despachos de los Notarios, así como las inspecciones que se requieran en el Protocolo y documentos relativos al caso, a fin de estar en posibilidad de emitir su opinión.
+La Secretaría de Gobierno requerirá al Notario involucrado para que dentro del plazo de diez días manifieste lo que a su interés convenga y, en su caso, exhiba los documentos que estime pertinentes, para lo cual le será entregada copia del escrito de queja y de sus anexos. Transcurrido este plazo, con manifestación del Notario o sin ella, la Secretaría de Gobierno remitirá el expediente a la Comisión de Honor y Justicia del Consejo de Notarios, la cual dentro del plazo de quince días naturales contados a partir de la recepción deberá emitir la opinión que corresponda, sugiriendo si debe o no interponerse sanción.
 
-La Comisión de Honor y Justicia remitirá su opinión al Secretario de Gobierno del Estado para su resolución, sugiriendo en su caso la sanción correspondiente.
+Transcurrido este plazo, con o sin opinión de la Comisión de Honor y Justicia, el Secretario de Gobierno deberá resolver lo que proceda conforme a derecho.
 
-Aún para el caso de que la Comisión de Honor y Justicia determine que es improcedente la petición de la parte quejosa, turnará la opinión respectiva a la Secretaria de Gobierno, para su conocimiento y resolución en última instancia.
+La Comisión de Honor y Justicia o un delegado de la misma tendrá facultades, en todo tiempo, para hacer las visitas que sean necesarias a las Notarías, así como las inspecciones que se requieran en el Protocolo para estar en condiciones de cumplir con sus funciones.
+
+La Secretaría de Gobierno deberá remitir a la Comisión de Honor y Justicia cada dos meses, las quejas que deban ser tramitadas y que hayan sido recibidas durante dicho periodo.
 
 ###### ARTICULO 115.
 
@@ -921,17 +1009,19 @@ Transcurrido el plazo anterior y su prórroga, si la hubo, la Comisión en un t�
 
 ### CAPITULO XV. DEL CONSEJO DE NOTARIOS
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 120.
 
-En el Estado habrá un Consejo de Notarios, con personalidad jurídica y patrimonio propio, que estará integrado por todos los Notarios titulares y adscritos en ejercicio. Su Dirección estará a cargo de un Presidente, un Secretario, un Tesorero, un primero y segundo vocal, que integrará la mesa directiva.
+En el Estado habrá un Consejo de Notarios, con personalidad jurídica y patrimonio propio, que estará integrado por todos los Notarios Titulares y Adscritos en ejercicio. Su Directiva estará integrada por un Presidente, Un Secretario, un Tesorero, y un primer y segundo Vocal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 121.
 
-La elección de la Directiva del Consejo se hará dentro de los primeros quince días del mes de enero de cada año par, en la notaría del Presidente de dicho Consejo, la que se reputará como su oficina durante el ejercicio correspondiente.
+La elección de la Directiva se hará dentro de los primeros quince días del mes de enero de cada año par en las instalaciones del Consejo de Notarios.
 
-Las faltas temporales del Presidente o Secretario, serán suplidas por el Primer Vocal y las del Tesorero por el Segundo Vocal.
+Las faltas temporales del Presidente serán suplidas por el Secretario; las de éste, por el Primer Vocal y las del Tesorero por el Segundo Vocal.
 
 ###### ARTICULO 122.
 
@@ -993,15 +1083,17 @@ El Archivo General de Notarías, estará a cargo de un Director, que siempre deb
 
 El Director del Archivo General de Notarías será auxiliado en las labores de su competencia, por el personal subalterno que determine la Ley de Egresos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 134.
 
 El Archivo General de Notarías se formará:
 
 I.- Con los documentos que los Notarios o los que ejerzan estas funciones, deben remitir al Archivo, según las prevenciones de la presente Ley;
 
-II.- Con los libros cerrados del Protocolo, y sus anexos que los Notarios o los que ejercen estas funciones, deben remitir a los cinco años de cerrados;
+II.- Con los elementos del Protocolo que los Notarios deben remitir a los tres años de su cierre;
 
-III.- Con los demás documentos propios del Archivo General de Notarías;
+III.- Con los demás documentos propios del Archivo General de Notarías, y
 
 IV.- Con los sellos de los Notarios que deban depositarse, conforme a las prescripciones relativas de esta Ley.
 
@@ -1180,3 +1272,15 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones jurídicas que se opongan a la presente, quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 31 DE DICIEMBRE DE 1996
+
+PRIMERO.- Esta Ley entrará en vigor el día 1º primero de Febrero de 1997 mil novecientos noventa y siete.
+
+SEGUNDO.- El tomo que se encuentren en uso de la entrada en vigor de la presente Ley, deberán concluirse hasta complementar los cinco volúmenes que correspondan, para continuar inmediatamente después el orden progresivo, en los términos del artículo 39 de la misma.
+
+TERCERO.-Hasta en tanto el Ejecutivo expida el Arancel para el cobro de Honorarios de los Notarios, en términos del artículo 5 párrafo primero de la presente Ley, continuará aplicándose Ley del Arancel de Notarios del Estado de Querétaro, publicada en el Periódico Oficial la Sombra de Arteaga" número 9 de fecha 28 de febrero de 1991.
+
+CUARTO.- A partir de que entre en vigor el Arancel para el cobro de honorarios de los Notarios que expida el Ejecutivo en términos del artículo 5 párrafo primero de la presente Ley, se abrogará la Ley del Arancel de Notarios del Estado de Querétaro, publicada en el Periódico Oficial "La Sombra de Arteaga" número 9 de fecha 28 de febrero de 1991.
+
+QUINTO.- Se derogan todas las demás disposiciones que se opongan a esta Ley.
