@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-crea-el-instituto-de-proteccion-a-la-infancia-del-3318"
 country: "mx"
 rank: "ley"
 publication_date: "1975-04-03"
-last_updated: "1976-05-10"
+last_updated: "1977-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY QUE CREA EL INSTITUTO DE PROTECCION A LA INFANCIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 1976.
+LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 14 DE ABRIL DE 1977.
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 3 de abril de 1975.
 
@@ -292,3 +294,17 @@ Se derogan todas las modificaciones que se opongan al mismo.
 ###### Artículo 3o.
 
 La modificación en el nombre del Instituto no implica alteración alguna en su existencia jurídica ni en sus derechos y obligaciones, por lo que su personalidad sigue siendo la misma para todos los efectos jurídicos inherentes.
+
+B.O. 14 DE ABRIL DE 1977.
+
+###### ARTICULO 1o.
+
+Se abroga el Decreto publicado en el Boletín del gobierno del Estado el día 3 de abril de 1975 que crea el Instituto de Protección a la Infancia del Estado de Baja California Sur, así como sus reformas publicadas en el mismo Organo el día 10 de mayo de 1976 quele (sic) cambia su denominación por la de Instituto Mexicano para la Infancia y la Familia del propio Estado de Baja California Sur.
+
+###### ARTICULO 2o.
+
+El Sistema para el Desarrollo Integral de la Familia (sic) Baja California Sur, se subrogará en los derechos y obligaciones que corresponden al patrimonio del Instituto Mexicano para la Infancia y la Familia del Estado.
+
+###### ARTICULO 3o.
+
+Este Decreto entrara en vigor el día siguiente a su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
