@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1989-09-23"
+last_updated: "1991-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1991.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -119,15 +119,15 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1991)</small>
 
 ###### Artículo 22.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de diez Diputados electos según el principio de votación mayoritaria relativa y hasta por siete Diputados electos según el principio de representación proporcional. Al efecto, el Estado se dividirá en diez distritos electorales uninominales y una circunscripción plurinominal.
+Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de doce Diputados electos según el principio de Mayoritaria Relativa y hasta por ocho Diputados electos según el principio de Representación Proporcional. Al efecto, el Estado se dividirá en doce Distritos Electorales Uninominales y una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1991)</small>
 
-La demarcación Electoral de los diez Distritos Electorales Uninominales será la que señala el Artículo 104 de esta Constitución.
+La demarcación Electoral de los 12 Distritos Electorales Uninominales, será la que señala el artículo 104 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
@@ -141,9 +141,9 @@ Por cada Diputado propietario se eligirá (sic) un suplente.
 
 Para la elección por representación proporcional y lista regional, se deberá observar la Ley respectiva y las siguientes bases:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1991)</small>
 
-I.- El partido que solicite el registro de su lista regional, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
+I.- El Partido que solicite el Registro de su lista regional, deberá acreditar que tiene su registro y que participa con candidatos a Diputados por Mayoría Relativa en por lo menos la mitad de los Distritos Uninominales.
 
 II.- Tendrá derecho a que le sean atribuidos Diputados Electos según el principio de representación proporcional, todo aquel partido que:
 
@@ -165,9 +165,9 @@ c).- Resto mayor.
 
 Estos elementos serán aplicados en la forma y términos que determine la ley de la materia.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1991)</small>
 
-IV. Ningún partido podrá tener más de doce Diputados. Los candidatos a Diputados y Regidores por mayoría, no podrán serlo igualmente de representación.
+IV. Ningún Partido podrá tener más de 14 Diputados. Los candidatos a Diputados y Regidores por Mayoría no podrán serlo igualmente de Representación.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
@@ -995,6 +995,22 @@ Los Partidos Políticos son formas de organización política y constituyen enti
 
 En el Estado, gozarán de las mismas prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 1991)</small>
+
+La Organización de las elecciones es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los Ayuntamientos, de los Partidos Políticos y de los ciudadanos, según lo disponga la Ley, para lo cual se integrará el organismo electoral correspondiente, dotado de personalidad jurídica propia, autónomo y de carácter permanente. La certeza, legalidad, imparcialidad, objetividad y profesionalismo, serán principios rectores en el ejercicio de la función estatal. Las sesiones del organismo electoral serán públicas en los términos que disponga la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 1991)</small>
+
+El Organismo Público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 1991)</small>
+
+El Organo Electoral se integrará por Comisionados designados por los Poderes Legislativo y Ejecutivo y representantes nombrados por los Partidos Políticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 1991)</small>
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerá el Organismo Electoral y un Tribunal Electoral autónomo, que tendrá la competencia que determine la Ley, éste será el Organo jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten al principio de legalidad, contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral, solo podrán ser revisadas y en su caso modificadas por el Colegio Electoral en los términos del artículo 33 fracciones VI, VII y VIII de esta Constitución.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 ## TITULO VI.
@@ -1005,7 +1021,9 @@ El Estado de Colima adopta para su Régimen Interior la forma de Gobierno repres
 
 I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-Los Presidentes Municipales de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos en ningún tiempo; los Regidores y Síndicos no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1991)</small>
+
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato.
 
 Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
@@ -1067,7 +1085,9 @@ VII.- El Ejecutivo Federal y el o la Titular del Poder Ejecutivo Estatal tendrá
 
 VIII.- La Administración Municipal se ejerce:
 
-1.- Por los Ayuntamientos que residirán en las cabeceras de los Municipios y cuyos miembros serán electos popular y directamente cada tres años. Por cada Munícipe propietario se elegirá su suplente no pudiendo ser nuevamente electos en ningún tiempo los ciudadanos que hayan desempeñado el cargo de Presidente Municipal.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1991)</small>
+
+1.- Para los Ayuntamientos que residirán en las Cabeceras de los Municipios y cuyos miembros serán electos popular y directamente cada tres años; por cada propietario se elegirá un suplente.
 
 En las Elecciones Municipales participarán las mujeres en igualdad de condición que los varones, con el derecho de votar y ser votadas.
 
@@ -1205,25 +1225,35 @@ De la Administración del Gobierno Municipal.
 
 El Estado se dividirá para su administración Política en diez Municipios, teniendo por cabecera cada uno la población que lleva su nombre y son los siguientes: Armería, Colima, Comala, Coquimatlán, Cuauhtémoc, Ixtlahuacán, Manzanillo, Minatitlán, Tecomán y Villa de Alvarez.
 
-Tratándose de elecciones para Diputados propietarios y suplentes al Congreso Local, el Estado de Colima se dividirá en diez Distritos Electorales, los que se formarán de la siguiente manera:
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1991)</small>
 
-I.- Primer Distrito.- Comprende la Ciudad de Colima, parte norte, así como la parte rural norte del propio Municipio de Colima.
+Tratándose de Elecciones para Diputados Propietarios y Suplentes al Congreso Local, el Estado de Colima se dividirá en 12 Distritos Electorales, los que se formarán de la siguiente manera:
 
-II.- Segundo Distrito.- Comprende la Ciudad de Colima, parte sur, así como la parte rural sur del propio Municipio de Colima.
+I.- El Primer Distrito Electoral comprenderá la Ciudad de Colima, parte Norte, así como la parte rural norte del propio Municipio de Colima.
 
-III.- Tercer Distrito.- Comprende el Municipio de Cuauhtémoc.
+II.- El Segundo Distrito Electoral comprenderá la Ciudad de Colima, parte Sur, así como la parte rural sur del propio Municipio de Colima.
 
-IV.- Cuarto Distrito.- Comprende el Municipio de Villa de Alvarez.
+III.- El Tercer Distrito Electoral comprenderá el Municipio de Cuauhtémoc.
 
-V.- Quinto Distrito.- Comprende el Municipio de Coquimatlan.
+IV.- El Cuarto Distrito Electoral comprenderá el Municipio de Villa de Alvarez.
 
-VI.- Sexto Distrito.- Comprende los Municipios de Comala y Minatitlán.
+V.- El Quinto Distrito Electoral comprenderá el Municipio de Coquimatlán.
 
-VII.- Séptimo y Octavo Distrito.- Se integra cada uno de ellos con parte de la Ciudad de Manzanillo y parte de la zona rural del Municipio de Manzanillo.
+VI.- El Sexto Distrito Electoral comprenderá el Municipio de Comala.
 
-VIII.- Noveno Distrito.- Se integra con la Ciudad de Tecomán y parte de la zona rural del propio Municipio de Tecomán y todo el Municipio de Iztlahuacán.
+VII.- El Séptimo y Octavo Distrito Electoral se integrará cada uno de ellos como parte de la Ciudad de Manzanillo y parte de la zona rural del propio Municipio.
 
-IX.- Décimo Distrito.- Se integra con el Municipio de Armería y parte de la zona rural del Municipio de Tecomán.
+VIII.- El Noveno Distrito Electoral comprenderá el Municipio de Tecomán.
+
+IX.- El Décimo Distrito Electoral comprenderá el Municipio de Armería.
+
+X.- El Décimo Primer Distrito Electoral comprenderá el Municipio de Minatitlán.
+
+XI.- El Décimo Segundo Distrito Electoral comprenderá el Municipio de Ixtlahuacán.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 1991)</small>
+
+Los límites Distritales deberán ser establecidos por la Ley Electoral respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1949)</small>
 
@@ -1992,3 +2022,27 @@ P.O. 23 DE SEPTIEMBRE DE 1989.
 DECRETO No. 46, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 4, 8, 9, 10, 30, 33, 51, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 80, 81, 82, 83, 84, 85, 86 BIS, 88, 91, 94 Y EL TITULO VI BIS DE LA CONSTITUCION DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 5 DE ENERO DE 1991.
+
+DECRETO No. 110, QUE REFORMA EL PARRAFO SEGUNDO DE LA FRACCION I DEL ARTICULO 87 DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El Presente Decreto surtirá sus efectos a partir del día 30 de septiembre de mil novecientos noventa y uno y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE ENERO DE 1991.
+
+DECRETO No. 134, QUE REFORMA EL PUNTO 1 DE LA FRACCION VIII DEL ARTICULO 87 DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El Presente Decreto surtirá sus efectos a partir del día 30 de septiembre de 1991 y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE ENERO DE 1991.
+
+DECRETO No. 135, QUE REFORMA LOS PARRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES I Y IV DEL ARTICULOS 22; EL SEGUNDO PARRAFO Y LAS FRACCIONES VI, VIII Y IX, ADICIONADOSE LAS FRACCIONES X Y XI AL ARTICULO 104, DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE ENERO DE 1991.
+
+DECRETO No. 136, QUE REFORMA EL ARTICULO 86 BIS DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
