@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2000-09-19"
+last_updated: "2000-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -41,11 +41,13 @@ CODIGO CIVIL DEL ESTADO DE JALISCO
 
 # LIBRO PRIMERO. Disposiciones preliminares
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Art. 1º.
 
-Los seres humanos tienen igual consideración ante la ley y la sociedad, excepto en los casos de minoría de edad, senectud, incapacidad psíquica o pertenencia a un pueblo indígena.
+La Ley dará trato igual a las personas en el reconocimiento de sus derechos y cumplimiento de sus obligaciones.
+
+En los actos y hechos civiles los jueces tomarán en consideración las circunstancias de incapacidad, senectud, cultura y condición social de las personas y en todos los casos procurarán la equidad entre las partes.
 
 ###### Art. 2º.
 
@@ -207,11 +209,13 @@ IX. Imprescriptibles, porque no se pierden por el transcurso del tiempo; e
 
 X. Irrenunciables, porque ni siquiera la voluntad de su titular basta para privar su eficacia.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Art. 27.
 
-El Estado y la sociedad, respetarán las ccostumbres (sic), monumentos, procedimientos y tradiciones culturales de las sociedades y grupos, así como de las personas, familias y comunidades de los pueblos indígenas que las integran. Se considera a la democracia como forma de gobierno resultante de las decisiones mayoritarias, sin que tengan más derechos que las minorías, y éstas poseen la facultad de ser oídas y consideradas como manifestación de la cultura universal.
+El Estado y la sociedad, respetarán las costumbres, monumentos, procedimientos y tradiciones culturales de las sociedades y grupos, así como de las personas, familias y comunidades de los pueblos indígenas que las integran.
+
+Se considera a la democracia no sólo como una estructura jurídica y un régimen político sino como un sistema de vida fundado en la capacidad de decisión responsable de las personas que permita su desarrollo y el constante mejoramiento económico, social, cultural y familiar.
 
 ###### Art. 28.
 
@@ -219,7 +223,9 @@ Toda persona tiene derecho a que se respete:
 
 I. Su vida;
 
-II. Su integridad física;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+II. Su integridad física y psíquica;
 
 III. Sus afectos, sentimientos y creencias;
 
@@ -2121,7 +2127,13 @@ La acción de ilegitimidad por invalidez proveniente de atentado contra la vida 
 
 El miedo y la violencia serán causas de ilegitimidad por invalidez de matrimonio.
 
-La acción que nace de esta causa de ilegitimidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días contados desde la fecha en que cesó la violencia o intimidación.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+La acción que nace de esta causa de ilegitimidad sólo puede deducirse por el cónyuge agraviado, dentro de noventa días contados desde la fecha en que cesó la violencia o intimidación.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+El juez que tenga conocimiento de esta situación dictará las medidas necesarias para proteger la integridad de la persona afectada.
 
 ###### Art. 390.
 
@@ -2279,6 +2291,10 @@ V. La manera de administrar los bienes de la sociedad conyugal o legal durante e
 
 Mientras que se decreta el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+En los casos en que exista violencia o peligro para los integrantes de la familia, el juez dictará las medidas adicionales necesarias que garanticen su seguridad integral.
+
 ###### Art. 408.
 
 Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiese sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasados tres meses a partir del último ocurso presentado al juzgado que conoció de la solicitud del divorcio.
@@ -2328,6 +2344,10 @@ a) Podrá convenirse entre los cónyuges, quién la tendrá, pero ésta podrá s
 b) A falta de convenio, la custodia corresponderá al cónyuge no culpable; si ambos cónyuges fueren culpables, la custodia la ejercerá el ascendiente que corresponda y si no lo hubiese se designará por el Consejo de Familia; y
 
 c) A la muerte del excónyuge inocente, tendrá la custodia el que sobreviva, salvo que exista inconveniente grave para ello.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+En todo caso, el juez atenderá el interés superior de los menores y si fuera necesario escuchará su opinión.
 
 ###### Art. 416.
 
@@ -2602,6 +2622,10 @@ El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará 
 ###### Art. 468.
 
 En el juicio de contradicción de la paternidad, serán oídos la madre y el hijo a quien, si fuere menor, se proveerá de un tutor interino.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+En todo caso, el juez atenderá el interés superior de los menores.
 
 ###### Art. 469.
 
@@ -3181,9 +3205,11 @@ VI. En cualquiera de los supuestos previstos en las fracciones que anteceden, lo
 
 Cuando se vaya a tomar una determinación relacionada con los intereses del menor, deberá oírsele y considerársele su opinión, la cual deberá ser valorada en función de su edad y madurez.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Art. 574.
 
-La niñez tiene derecho a la promoción de su salud, así como a ser sujeto en la implementación de campañas emprendidas por las autoridades de salud, en la prevención de enfermedades.
+La niñez tiene derecho a la promoción de su salud, así como a ser sujeto en la implementación de campañas emprendidas por las autoridades de salud, en la prevención de enfermedades, de igual manera tiene derecho a recibir información sobre su persona y desarrollo, así como conocer sus derechos y responsabilidades.
 
 ###### Art. 575.
 
@@ -3219,7 +3245,9 @@ II. Tiene el carácter de intransmisible, salvo en los casos de adopción;
 
 III. Representa un deber positivo de trato continuo, que exige y requiere un despliegue eficaz y constante que cumpla su cometido; y
 
-IV. Confiere el derecho y el deber de aplicar la corrección disciplinaria, la cual se ejercitará en forma prudente y moderada.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+IV. Confiere el derecho y el deber de aplicar la corrección disciplinaria, de manera prudente y moderada, con el fin de educar en forma armónica y positiva.
 
 ###### Art. 581.
 
@@ -3659,7 +3687,9 @@ III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya r
 
 IV. Los que por sentencia que cause ejecutoria, hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
-V. El que haya sido condenado por delitos contra la propiedad o por delitos infamantes;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+V. El que haya sido condenado por delitos contra la propiedad o por delitos infamantes por conductas referentes a la violencia intrafamiliar o delitos sexuales;
 
 VI. Los que no tengan oficio o modo de vivir conocido y sean notoriamente de mala conducta;
 
@@ -16940,5 +16970,9 @@ DECRETO 18439
 P.O. 19 DE SEPTIEMBRE DE 2000.
 
 DECRETO 18440
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
