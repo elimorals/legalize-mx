@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1981-06-01"
+last_updated: "1984-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 1984.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -166,6 +166,10 @@ Los decretos deben dictarse dentro de veinticuatro horas después del último tr
 ###### ARTICULO 23.
 
 Todas las resoluciones judiciales serán firmadas por el Juez o Magistrados que las dicten y por el Secretario respectivo.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 23 BIS.- Las resoluciones judiciales firmes dictadas en negocios de alimentos, jurisdicción voluntaria y las demás que prevengan las leyes, pueden alterarse y modificarse cuando cambien las circunstancias que afectan el ejercicio de la acción que se dedujo en el juicio correspondiente.
 
 ### CAPITULO III. De las notificaciones
 
@@ -6228,3 +6232,13 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTICULO SEGUNDO.
 
 Los juicios de arrendamiento promovidos con anterioridad a la vigencia de estas reformas, seguirán los lineamientos vigentes en la fecha de su promoción.
+
+D.O. 29 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todas las pensiones alimenticias fijadas hasta el treinta y uno de diciembre del año en curso, inclusive, serán aumentadas por primera vez el primero de Enero de mil novecientos ochenta y cinco.
