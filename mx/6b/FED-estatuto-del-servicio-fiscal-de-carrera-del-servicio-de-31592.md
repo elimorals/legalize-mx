@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-fiscal-de-carrera-del-servicio-de-31592"
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-06-04"
-last_updated: "2003-06-04"
+last_updated: "2004-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-05-16"
 
 ESTATUTO DEL SERVICIO FISCAL DE CARRERA DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO FISCAL DE CARRERA, PUBLICADO EN EL D.O.F. DE 20 DE AGOSTO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la primera Sección del Diario Oficial de la Federación, el miércoles 4 de junio de 2003.
 
@@ -644,3 +646,15 @@ CUARTO.- A la entrada en vigor del presente Estatuto, todos los servidores públ
 QUINTO.- El personal que con fecha anterior a la publicación y entrada en vigor de este Estatuto, hubiese sido evaluado dentro de las políticas del SFC, será considerado bajo el esquema de puntaje, con las equivalencias correspondientes para la acreditación, establecido en este Estatuto y sus disposiciones reglamentarias.
 
 México, D.F., a 16 de mayo de 2003.- El encargado de la Presidencia del Servicio de Administración Tributaria, Rubén Aguirre Pangburn.- Rúbrica.- El Jefe de la Unidad de Legislación Tributaria, Rafael Sandoval Giles.- Rúbrica.- El Jefe de Unidad de Coordinación Hacendaria con Entidades Federativas, David Rogelio Colmenares Páramo.- Rúbrica.- El Administrador General Jurídico, José Luis Franco Soto.- Rúbrica.- La Administradora General de Evaluación, María de la Concepción Patiño Cestafe.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 20 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Estatuto fue aprobado por la Junta de Gobierno del SAT en la segunda sesión ordinaria, celebrada el 23 de junio de 2004 y entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto del SFC publicado en el Diario Oficial de la Federación el 4 de junio de 2003.
+
+TERCERO.- Durante el primer año de operación del SFC, con autorización de la Comisión, la ACRH a petición de las unidades administrativas podrá extender la constancia de nombramiento y el certificado de FFC, por excepción, a aquellos servidores públicos que conforme a lo establecido en este Estatuto, sean susceptibles de obtener la categoría, cuando realicen aportaciones relevantes al SAT.
+
+CUARTO.- La Comisión, a propuesta de la ACRH, autorizará las etapas para la implementación del presente Estatuto.
