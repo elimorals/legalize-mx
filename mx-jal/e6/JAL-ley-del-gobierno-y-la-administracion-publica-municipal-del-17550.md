@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2002-07-27"
+last_updated: "2003-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -625,7 +625,9 @@ V. Cuidar de la prestación de todos los servicios públicos de su competencia;
 
 VI. Observar las disposiciones de las leyes federales y estatales en el desempeño de las funciones o en la prestación de los servicios a su cargo;
 
-VII. Ampliar y operar el sistema municipal de protección civil, conforme a las disposiciones legales federales y estatales;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2003)</small>
+
+VII. Instalar, ampliar y operar el sistema Municipal de Protección Civil, así como integrar a la estructura orgánica del Municipio la Unidad de Protección Civil conforme a las disposiciones y lineamientos federales y estatales de la materia;
 
 VIII. Expedir y aplicar los reglamentos relativos a la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a las bases generales definidas por las leyes federales y estatales en la materia;
 
@@ -1906,5 +1908,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 27 DE JULIO DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE OCTUBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
