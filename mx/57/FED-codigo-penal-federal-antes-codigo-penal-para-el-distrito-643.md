@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1980-01-03"
+last_updated: "1980-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1980.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3491,11 +3491,11 @@ Las Instituciones y Organismos Auxiliares de Crédito, las de Fianzas y las de S
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1975)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 389.
 
-Se equipara al delito de fraude y se sancionará con prisión de seis meses a seis años y multa de cuatrocientos a cuatro mil pesos, el valerse del cargo que se ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo en tales organismos.
+Se equipara al delito de fraude y se sancionará con prisión de seis meses a diez años y multa de cuatrocientos a cuatro mil pesos, el valerse del cargo que se ocupe en el gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en tales organismos.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1972)</small>
 
@@ -3912,3 +3912,7 @@ DECRETO de reforma de la fracción I del artículo 383 del Código Penal para el
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
+
+D.O.F. 7 DE ENERO DE 1980.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
