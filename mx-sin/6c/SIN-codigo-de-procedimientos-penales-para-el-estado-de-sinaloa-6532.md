@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2003-08-11"
+last_updated: "2004-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -95,21 +95,25 @@ II.- Cuando opere alguna de las causas excluyentes del delito a que se refiere e
 
 A los Tribunales Penales corresponde la aplicación de las penas cuando en sus sentencias declaren la existencia del delito y la responsabilidad del procesado; y las medidas de seguridad cuando el sujeto haya cometido un hecho previsto como delito, y de éste y de sus circunstancias personales, pueda deducirse la necesidad de aplicarlas.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 6.
 
-El procedimiento ante el Juez de Primera Instancia, comprenderá los períodos señalados en las fracciones II, III y IV del Artículo 1.
+El procedimiento ante el Juez de Primera Instancia con competencia en materia penal comprenderá los períodos señalados en las fracciones II, III y IV del artículo 1 de este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 7.
 
-En el procedimiento ante el Juez de Primera Instancia, el Ministerio Público promoverá:
+En el procedimiento ante el Juez de Primera Instancia con competencia en materia penal, el Ministerio Público promoverá:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 09 DE JULIO DE 1999)</small>
 
 I.- La práctica de cuantas diligencias sean necesarias para comprobar la existencia del delito y la responsabilidad del indiciado.
 
 II.- La libertad del inculpado en los términos establecidos en la ley;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 09 DE JULIO DE 1999)</small>
 
 III.- La aplicación tanto de las penas como de las medidas de seguridad;
 
@@ -1981,7 +1985,7 @@ Si estas personas tuvieren voluntad de declarar, se les recibirá su declaració
 
 ###### ARTICULO 276.
 
-No puede oponerse tacha a los testigos, pero de oficio a petición de parte el Juez hará constar en el proceso todas las circunstancias que influyan en el valor probatorio de los testimonios.
+No puede oponerse tacha a los testigos, pero de oficio a petición de porte el Juez hará constar en el proceso todas las circunstancias que influyan en el valor probatorio de los testimonios.
 
 ###### ARTICULO 277.
 
@@ -3463,99 +3467,97 @@ Para revocar la libertad caucional, siempre se deberá oír previamente al Minis
 
 ###### ARTICULO 511.
 
-La ejecución de las sentencias irrevocables en materia penal corresponde al Ejecutivo. Este designará los lugares en que los reos deban extinguir las sanciones privativas de libertad y por conducto del Ministerio Público pedirá que se remita copia de la sentencia a la autoridad fiscal para que haga efectiva la reparación del daño y en su caso la multa.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 512.
 
-En toda sentencia condenatoria se prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone; y de éllo se extenderá diligencia, pero sin que la falta de ésta obste para hacer efectivas las sanciones de la reincidencia, habitualidad y profesionalidad.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 513.
 
-Pronunciada una sentencia condenatoria irrevocable el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas, una para el Ejecutivo o para quien tenga a su cargo la ejecución de sanciones, en los términos de la Ley Orgánica de la Administración Pública, otra para el Director de Prevención y Readaptación Social del Estado y otra para el Director o Alcaide del Centro Reclusorio donde el reo se encuentra internado, o donde hubiere estado detenido.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 514.
 
-Los agentes del Ministerio Público comunicarán por escrito al Procurador General de Justicia, la sentencia que se pronuncie en los negocios en que hayan intervenido, expresando los datos que crean que puedan servir para la formación de la estadística criminal.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 515.
 
-El Tribunal estará obligado a tomar de oficio todas las providencias conducentes para que el reo sea puesto a disposición del Ejecutivo.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 516.
 
-Para la ejecución de las sanciones, el Ejecutivo se someterá a lo prevenido en el Código Penal, en especial a las reglas consignadas en el Título Sexto, Capítulo I y II del Libro Primero del Código Penal, en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad y en los Reglamentos respectivos que deben ajustarse a las disposiciones antes mencionadas.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ### CAPITULO II. LIBERTAD PREPARATORIA
 
 ###### ARTICULO 517.
 
-La solicitud del reo que crea tener derecho a la libertad preparatoria, se presentará a la Dirección de Prevención y Readaptación Social del Estado, con copia a la Dirección del establecimiento penitenciario, acompañando los certificados y demás pruebas conducentes.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 518.
 
-Recibida la solicitud, la Dirección de Prevención y Readaptación Social del Estado, recabará los informes del Tribunal que haya conocido de la causa y del Director del establecimiento en que esté internado el solicitante.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 519.
 
-El Ejecutivo concederá la libertad preparatoria a los reos sentenciados con privación de libertad por más de tres años, cuando satisfaga los requisitos previstos en el Artículo 98 del Código Penal, observándose lo previsto en el Artículo 101 de dicho Código.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 520.
 
-La resolución en la cual se concede la libertad preparatoria será signada por el Ejecutivo o el titular de la Dependencia que tenga asignada dicha función, en los términos de la Ley Orgánica de la Administración Pública, tomando en consideración todos los informes y conclusiones remitidos por la Dirección de Prevención y Readaptación Social del Estado, incluyendo la solvencia e idoneidad del fiador.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 521.
 
-La resolución en la que se conceda la libertad preparatoria, contendrá las observaciones y antecedentes relacionados con la conducta del reo durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social, por haber desaparecido su peligrosidad. Dicha resolución será comunicada al Director del establecimiento respectivo, a la autoridad administrativa y al Tribunal de la causa.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 522.
 
-Otorgada la fianza, se extenderá al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 523.
 
-Cuando el liberado incurra, durante el disfrute de la libertad preparatoria, en faltas graves de comportamiento o incumpla alguna de las condiciones señaladas en el Artículo 98 del Código Penal, se le revocará su libertad preparatoria en los términos previstos por la fracción I del Artículo 100 del Código Penal; igualmente, si el liberado es sentenciado por nuevo delito intencional, mediante sentencia ejecutoria, será objeto de dicha revocación, de oficio, por la autoridad administrativa. Pero si el delito fuere culposo o preterintencional, dicha autoridad, según la gravedad del hecho, podrá revocar o mantener la libertad preparatoria fundando su resolución.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 524.
 
-Para que la autoridad administrativa esté en condiciones de dar cumplimiento a lo dispuesto por la fracción II del Artículo 100 del Código Penal, la autoridad judicial que tenga conocimiento del o los nuevos delitos en que haya incurrido el liberado, dará parte al Ejecutivo y a la Dirección de Prevención y Readaptación Social del Estado.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 525.
 
-El salvoconducto a que se refiere el Artículo 522 de este ordenamiento, será firmado por el titular de la dependencia que tenga señalada tal atribución en los términos de la Ley Orgánica de la Administración Pública, o por el Director de Prevención y Readaptación Social, previo acuerdo con el Ejecutivo del Estado.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 526.
 
-Cuando se revoque la libertad preparatoria, se recogerá e inutilizará el salvoconducto.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 527.
 
-El portador del salvoconducto lo presentará siempre que sea requerido para ello por la autoridad.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 528.
 
-Cuando hubiere expirado el término de la condena que faltare por compurgar, el agraciado ocurrirá al Director de Prevención y Readaptación Social para que éste, en vista de la sentencia y de los informes del Ejecutivo, haga de plano la declación (sic) de quedar el reo en absoluta libertad.
+Cuando hubiere extinguido el término de la condena que faltare por compurgar, el agraciado ocurrirá al Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito para que éste, en vista de la sentencia, haga de plano la declaración de quedar el reo en absoluta libertad.
 
 ### CAPITULO III. DE LA RETENCION
 
 ###### ARTICULO 529.
 
-La retención podrá aplicarse a iniciativa:
-
-I.- Del Ministerio Público; y
-
-II.- De los Jefes y Encargados de los establecimientos penales.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 530.
 
-El Ejecutivo, en vista de los informes recabados, resolverá directamente, o por conducto del titular de la dependencia que tenga tal atribución delegada, conforme la Ley Orgánica de la Administración Pública, si procede o no la aplicación de la retención.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 531.
 
-En la resolución respectiva, se harán constar los motivos que fundamenten la retención y el tiempo que deba durar de acuerdo con lo dispuesto en el Artículo 42 del Código Penal.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ###### ARTICULO 532.
 
-Cuando el fallo considere inaplicable la retención, no impedirá que se decrete posteriormente por causas supervenientes.
+(DEROGADO, P.O. 2 DE ENERO DE 2004)
 
 ### CAPITULO IV. DE LA CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
 
@@ -3591,13 +3593,11 @@ La rehabilitación se otorgará con arreglo a la parte final del Artículo 38 de
 
 La rehabilitación de los derechos civiles o políticos, no procederá mientras el reo esté extinguiendo una sanción privativa de libertad.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 540.
 
-Si hubiere extinguido la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el Artículo siguiente, podrá ocurrir el condenado al Tribunal que dictó el fallo irrevocable, solicitando que se le rehabilite en los derechos de que se le privó, o en cuyo ejercicio estuviere suspenso, acompañando a su ocurso:
-
-I.- Un certificado de la autoridad correspondiente que acredite que extinguió la sanción privativa de libertad que se le hubiere impuesto, la conmutación o la concesión de indulto, o que no se le impuso aquélla; y
-
-II.- Otro certificado de la autoridad administrativa del lugar en que hubiere residido desde que comenzó la inhabilitación o la suspensión y una información recibida con intervención de la autoridad administrativa, que compruebe que el peticionario observó buena conducta desde que empezó a extinguir su sanción y que dio pruebas de haber contraído hábitos de orden, de trabajo y de moralidad.
+Si hubiere extinguido la pena la sanción privada de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el artículo siguiente, podrá ocurrir el sentenciado ante el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, solicitando que se le rehabilite en los derechos que se le privó, o en cuyo ejercicio estuviere suspenso.
 
 ###### ARTICULO 541.
 
@@ -3609,9 +3609,11 @@ Tratándose de delitos cometidos por los servidores mencionados en la Constituci
 
 El Tribunal a petición del Ministerio Públcio (sic) o de oficio, recabará, si lo creyere necesario, informes más amplios para dejar aclarada la conducta del reo.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 543.
 
-Recibidas en su caso las informaciones, oyendo al Ministerio Público y al peticionario o a su representante, el Tribunal declarará dentro del plazo de tres días si es o no fundada la solicitud; en el primer caso, remitirá con informe las actuaciones originales al Congreso del Estado, para el caso del Artículo 43, fracción XXX de la Constitución Política Local. Si se negare la rehabilitación, se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo después de un año.
+Si el Juez, con audiencia del Ministerio Público, declara fundada la solicitud, remitirá con informe las actuaciones originales al Congreso del Estado, para efectos de lo dispuesto por el artículo 43, fracción XXX, de la Constitución Política Local. Si se negare la rehabilitación se dejarán expeditos al sentenciado sus derechos para que pueda solicitarla de nuevo después de un año.
 
 ###### ARTICULO 544.
 
@@ -3625,37 +3627,51 @@ Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá co
 
 Después de seis años de haberse cumplido la pena impuesta, de ocho años si se trata de reincidente y de doce si se trata de habitual o profesional, los registros o anotaciones de cualquier clase, relativos a la condena impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las autoridades judiciales, del Ministerio Público o policiales, para fines exclusivos de investigación.
 
-### CAPITULO VI. DEL INDULTO
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
+
+### CAPITULO VI. DEL INDULTO Y DEL RECONOCIMIENTO DE INOCENCIA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 547.
 
-El indulto es necesario o por gracia.
+El indulto y el reconocimiento de inocencia sólo se concederán para la sanción impuesta en sentencia irrevocable.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 548.
 
-El indulto por gracia sólo se concederá de acuerdo con lo que dispone el Artículo 109 del Código Penal. El solicitante ocurrirá al Ejecutivo con su instancia y con los comprobantes respectivos.
+El indulto y el reconocimiento de inocencia se tramitarán conforme a lo dispuesto por el artículo 109 del Código Penal y en este Capítulo.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 549.
 
-El Ejecutivo, en vista de los comprobantes o si así conviniere a la tranquilidad y seguridad públicas, concederá o no el indulto.
+Tratándose de indulto, el solicitante ocurrirá ante el Ejecutivo con su instancia y la documentación respectiva.
+
+El Ejecutivo, cumplidos los supuestos del artículo 120 del Código Penal o si así conviniere a la tranquilidad y seguridad públicas, concederá, en su caso, el indulto.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 550.
 
-El indulto es necesario cuando se basa en alguno de los motivos siguientes:
+Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de inocencia.
 
-I.- Cuando la sentencia se funde en documentos o declaraciones de testigos que después de dictada fueren declarados falsos en juicio;
+Procede el reconocimiento de inocencia del sentenciado:
 
-II.- Cuando después de la sentencia aparecieren documentos que invaliden la prueba en que descanse aquélla y que sirvieron de base a la acusación;
+I.- Cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas;
 
-III.- Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive; y
+II.- Cuando después de la sentencia aparecieren nuevos elementos probatorios que invaliden la prueba en que descanse aquella y que sirvió de base a la acusación;
 
-> <small>(F. DE E., P.O. 7 DE NOVIEMBRE DE 1986)</small>
+III.- Cuando condenada alguna persona por homicidio de otra que hubiere desaparecido, se presentare ésta o alguna prueba indubitable de que vive; y
 
-IV.- Cuando el reo hubiere sido juzgado por el mismo hecho a que la sentencia se refiere, en otro juicio en que también hubiere recaído sentencia irrevocable. En este caso el indulto procederá respecto de la segunda sentencia.
+IV.- Cuando el reo hubiere sido juzgado por el mismo hecho a que la sentencia se refiere, en otro juicio que también hubiere recaído sentencia irrevocable. En este caso, el reconocimiento de inocencia procederá respecto de la segunda sentencia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 551.
 
-El condenado que se crea con derecho para pedir el indulto necesario, ocurrirá por escrito al Supremo Tribunal de Justicia alegando la causa o causas de las enumeradas en el artículo anterior, en que funde su petición, y acompañando las pruebas respectivas o protestando exhibirlas oportunamente, sólo se admitirá en estos casos la prueba documental, salvo lo previsto en la fracción III del artículo anterior.
+El condenado que se crea con derecho para promover su reconocimiento de inocencia, ocurrirá por escrito al Supremo Tribunal de Justicia alegando la causa o causas enumeradas en el artículo anterior, en el que funde su petición, y acompañando las pruebas respectivas o protestando exhibirlas oportunamente. En estos casos sólo se admitirá la prueba documental y la pericial, salvo lo previsto en la fracción III del mismo artículo anterior.
 
 ###### ARTICULO 552.
 
@@ -3671,11 +3687,13 @@ La vista se verificará aún cuando no concurran las partes.
 
 A los cinco días de celebrada la vista, el Tribunal declarará si es o no fundada la solicitud del reo.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 555.
 
-En el primer caso remitirá las diligencias originales con informe al Ejecutivo, para que éste sin más trámite otorgue el indulto.
+En caso de que el Tribunal declare fundada la solicitud remitirá las diligencias originales, con informe al Ejecutivo, para que éste, sin más trámite, provea lo conducente para el cumplimiento del reconocimiento de inocencia.
 
-En el segundo caso, se mandarán archivar las diligencias.
+En caso de que el Tribunal declare no fundada la solicitud, se mandarán archivar las diligencias.
 
 ## TITULO DECIMO SEGUNDO. DE LOS JUICIOS DE RESPONSABILIDAD
 
@@ -3842,3 +3860,17 @@ P.O. 11 DE AGOSTO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 2004.
+
+DECRETO No. 452.
+
+Artículo Único. El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 2004.
+
+DECRETO No. 453.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 4 de enero de 2004, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
