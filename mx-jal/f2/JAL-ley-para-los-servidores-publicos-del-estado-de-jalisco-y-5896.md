@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "1987-12-29"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -371,6 +371,8 @@ En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a l
 
 ### CAPITULO II. De los días de descanso
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Art. 27.
 
 Jornada de trabajo, es el tiempo durante el cual el Servidor Público está a disposición de la Entidad Pública para prestar sus servicios.
@@ -411,19 +413,23 @@ Cuando así lo disponga la Entidad Pública, los servidores tendrán el deber de
 
 ###### Art. 36.
 
-Por cada seis días de trabajo, disfrutará el servidor público de, cuando menos, un día de descanso con goce de sueldo íntegro.
+Por cada cinco ddías (sic) de trabajo, disfrutará el servidor público de dos días de descanso, con goce de sueldo íntegro.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 37.
 
-En los trabajos que requieran una labor continua, se fijarán los días en que los servidores públicos disfrutarán del descanso semanal, de acuerdo a los roles de actividades que se establezcan por la Entidad Pública.
+En los trabajos que requieran una labor continua, se fijarán los días en que los servidores públicos disfrutarán de los días de descanso semanal, de acuerdo a los roles de actividades que se establezcan por las dependencias o entidades públicas.
 
 ###### Art. 38.
 
 Serán considerados como días de descanso obligatorio, los que señala el Calendario Oficial.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Art. 39.
 
-Los servidores públicos, que por necesidad del servicio, laboren en su día de descanso obligatorio, independientemente de su sueldo, percibirán un 200% del mismo, por el servicio prestado, sin que tal evento pueda repetirse en más de dos ocasiones en treinta días naturales.
+Los servidores públicos, que por necesidades del servicio, laboren en sus días de descanso obligatorio, independientemente de su sueldo, percibirán un 200% del mismo por el servicio prestado, sin que tal evento pueda repetirse en más de dos ocasiones en treinta días naturales.
 
 ### CAPITULO IV. De los sueldos
 
@@ -521,9 +527,11 @@ Está prohibida la imposición de multas a los servidores públicos en su centro
 
 El pago de sueldos será preferente a cualquier otra erogación de las Entidades Públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Art. 54.
 
-Los servidores públicos tendrán derecho a un aguinaldo anual de cuarenta días, sobre sueldo promedio, y el mismo estará comprendido en el Presupuesto de Egresos, el cual preverá la forma de pagarlo.
+Los servidores públicos tendrán derecho a un aguinaldo anual de cincuenta días, sobre sueldo promedio y el mismo estará comprendido en el presupuesto de egresos, el cual preverá la forma de pagarlo.
 
 El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asistencia injustificadas, licencias sin goce de sueldo y días no laborados por sanciones impuestas. El pago del aguinaldo no está sujeto a deducción impositiva alguna.
 
@@ -745,9 +753,11 @@ La solicitud de cancelación podrá hacerse por persona interesada, sujetándose
 
 Los servidores públicos, que por su conducta o falta de solidaridad fueran expulsados del Sindicato a que pertenecen, perderán por ese sólo hecho, los derechos sindicales que esta ley les concede. La expulsión sólo podrá votarse por mayoría no menor del 90 % de los miembros del Sindicato respectivo, o por la aprobación de las tres cuartas partes de los delegados sindicales a su congreso o convenciones estatales, y previa defensa del acusado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### Art. 79.
 
-Queda prohibida la reelección en un mismo cargo dentro de los sindicatos, así como la permanencia por más tiempo para el que fueren electos. Los Directivos Sindicales designados por elección directa de los miembros de la organización durarán en su cargo por un término que no excederá de tres años.
+Los directivos sindicales designados por elección directa de los miembros de la organización, durará (sic) en su cargo por el término que fijen sus propios estatutos.
 
 ###### Art. 80.
 
@@ -811,7 +821,7 @@ Las remuneraciones que se paguen a los Directivos y a los empleados de los sindi
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
-Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cuotas sindicales, pero éstas no podrán ser descontadas a los servidores públicos cuando excedan del 1% de sus sueldos.
+Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cuotas sindicales, pero éstas no podrán ser descontadas a los servidores públicos, cuando excedan del 1% de sus sueldos.
 
 ### CAPITULO IV. De las prescripciones
 
@@ -1167,7 +1177,7 @@ Recibida la demanda por escrito de los peticionarios, el Tribunal correrá trasl
 
 ###### Art. 147.
 
-Una vez transcurrido el término establecido en el artículo anterior, con contestación o sin ella, se citará a una audiencia de avenimiento, en donde la comparecencia de las partes será obligatoria. Si los actores, no concurren, se dará por concluido el conflicto, ordenándose el archivo definitivo del caso y no correrá término para la suspensión de actividades. Si los demandados no concurren, se ordenará hacerlos comparecer por medio de la fuerza pública, sin perjuicio de la sanción económica que fije el Tribunal, en los términos del artículo 143 de esta ley.
+Una vez transcurrido el término establecido en el Art. anterior, con contestación o sin ella, se citará a una audiencia de avenimiento, en donde la comparecencia de las partes será obligatoria. Si los actores, no concurren, se dará por concluido el conflicto, ordenándose el archivo definitivo del caso y no correrá término para la suspensión de actividades. Si los demandados no concurren, se ordenará hacerlos comparecer por medio de la fuerza pública, sin perjuicio de la sanción económica que fije el Tribunal, en los términos del Art. 143 de esta ley.
 
 ###### Art. 148.
 
@@ -1248,3 +1258,7 @@ Primero.- Las reformas contenidas en el presente Decreto entrarán en vigor a pa
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero.- Los procedimientos que se encuentren en trámite, ante el Tribunal de Arbitraje y Escalafón del Estado, relativos a Servidores Públicos pertenecientes a los Tribunales a que se refiere el Art. 39 de la Constitución Política del Estado, deberán ser concluidos en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+UNICO.- Este decreto entrará en vigor el día 1° de enero de 1995, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
