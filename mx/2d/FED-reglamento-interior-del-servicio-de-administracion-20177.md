@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-20177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-22"
-last_updated: "2001-04-30"
+last_updated: "2003-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20177&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-03-15"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 22 de marzo de 2001.
 
@@ -195,13 +195,13 @@ Administración Central de Análisis y Coordinación Institucional.
 
 Administración Central de Seguridad Interna.
 
-Administración General del Destino de Bienes de Comercio Exterior Propiedad del Fisco Federal.
+> <small>(DEROGADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-Administración Central Operativa.
+> <small>(DEROGADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-Administración Central de Destino de Bienes.
+> <small>(DEROGADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
-Administración Central Jurídica y de Control.
+> <small>(DEROGADA, D.O.F. 17 DE JUNIO DE 2003)</small>
 
 Unidades Administrativas Regionales.
 
@@ -851,7 +851,9 @@ XLVII.- Ordenar y practicar actos de comprobación necesarios para la obtención
 
 XLVIII.- Fungir como autoridad competente en la interpretación y aplicación de los acuerdos, convenios o tratados de los que México sea parte en materia fiscal o aduanera, de intercambio de información en los términos de la fracción anterior de este artículo, así como en lo referente a la determinación de precios o montos de contraprestaciones en operaciones con partes relacionadas, y resolver los problemas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos.
 
-XLIX.- Poner a disposición de la unidad administrativa competente del Servicio de Administración Tributaria, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que encontrándose sujeta a ese procedimiento se encuentre en los casos previstos en el Artículo 157 de la Ley Aduanera.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+XLIX.- Transferir a la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a ese procedimiento se encuentre en los casos previstos por el Artículo 157 de la Ley Aduanera.
 
 L.- Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, para comprobar el cumplimiento de sus obligaciones fiscales en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y accesorios de carácter federal en materia de su competencia.
 
@@ -897,7 +899,7 @@ LXX.- Asistir a los servidores públicos del Servicio de Administración Tributa
 
 LXXI.- Fungir como autoridad competente en Organismos Internacionales vinculados con la administración tributaria, en asuntos materia de su competencia.
 
-LXXII.- Vigilar la destrucción o donación de mercancías incluyendo las importadas temporalmente y los bienes de activo fijo, cuando se autorice previamente por la autoridad competente.
+LXXII.- (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
 
 LXXIII.- Allanarse y transigir en los juicios fiscales de su competencia, así como abstenerse de interponer los recursos en dichos juicios, incluyendo el de revisión contra sentencias o resoluciones dictadas por el Tribunal Federal de Justicia Fiscal y Administrativa.
 
@@ -1351,7 +1353,9 @@ Compete a las Administraciones Locales de Grandes Contribuyentes, respecto de lo
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVIII y XIX del Artículo 11 de este reglamento.
 
-II.- Las establecidas en las fracciones IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXV, XXVIII, XXIX, XXX, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLIX, L, LI, LIII, LVI, LIX, LX, LXI, LXII, LXXII, LXXIII, LXXVI y LXXVII del Apartado A del Artículo 17 de este reglamento.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+II.- Las establecidas en las fracciones IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXV, XXVIII, XXIX, XXX, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLIX, L, LI, LIII, LVI, LIX, LX, LXI, LXII, LXXIII, LXXVI y LXXVII del Apartado A del Artículo 17 de este Reglamento.
 
 III.- Tramitar y proponer, en su caso, la resolución a la Administración General de los asuntos que se señalan en las fracciones XXIV, XXVI, XXVII, LIV, LVII y LVIII del Apartado A del Artículo 17 de este reglamento.
 
@@ -1459,7 +1463,7 @@ XLVI.- Llevar a cabo la vigilancia para que los diferentes cuentadantes de la Fe
 
 XLVII.- Declarar el abandono de los bienes y de las cantidades a favor del Fisco Federal en los términos de lo dispuesto en los artículos 188-Bis y 196-A del Código Fiscal de la Federación.
 
-XLVIII.- Llevar a cabo la venta de los bienes aceptados en dación en pago que sea ordenada por la Tesorería de la Federación.
+XLVIII.- (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
 
 XLIX.- Vigilar que las unidades administrativas dependientes de la Administración General de Recaudación cumplan con las observaciones, recomendaciones y solicitudes de información, derivados de los actos de fiscalización practicados por órganos revisores, estableciendo mecanismos de control, seguimiento y análisis; y proponer las medidas preventivas y correctivas para evitar la reincidencia.
 
@@ -1567,7 +1571,9 @@ D. Administración Central de Cobranza:
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVIII y XIX del Artículo 11 de este reglamento.
 
-II.- Las señaladas en las fracciones XI, XIX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXVI, XXXVIII, XLII, XLVII y XLVIII del artículo anterior de este reglamento.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+II.- Las señaladas en las fracciones XI, XIX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXVI, XXXVIII, XLII y XLVII del artículo anterior de este reglamento.
 
 ###### Artículo 22.
 
@@ -1633,11 +1639,13 @@ XXII.- Imponer las sanciones por infracción a las disposiciones fiscales o adua
 
 XXIII.- Informar a la autoridad competente de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales acompañando, en su caso, la cuantificación del perjuicio sufrido por el Fisco Federal; de aquellos delitos en que incurran servidores públicos del Servicio de Administración Tributaria en el desempeño de sus funciones, así como proporcionarle a dicha autoridad, en su carácter de coadyuvante del Ministerio Público el apoyo técnico y contable en los procesos penales que deriven de dichas actuaciones.
 
-XXIV.- Poner a disposición de la unidad administrativa competente del Servicio de Administración Tributaria, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el Artículo 157 de la Ley Aduanera.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+XXIV.- Transferir a la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el Artículo 157 de la Ley Aduanera.
 
 XXV.- Participar en la formulación, en materia de su competencia, de los convenios y acuerdos de coordinación con las autoridades fiscales de las entidades federativas, y evaluar sus resultados.
 
-XXVI.- Vigilar la destrucción o donación de mercancías incluyendo las importadas temporalmente y los bienes de activo fijo, cuando se autorice previamente por la autoridad competente.
+XXVI.- (DEROGADA, D.O.F. 17 DE JUNIO DE 2003)
 
 XXVII.- Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia.
 
@@ -1819,13 +1827,17 @@ M. Administraciones de Operación “1”, “2” y “3”:
 
 I.- Las establecidas en las fracciones V, VIII, XI, XV, XVI y XIX del Artículo 11 de este reglamento.
 
-II.- Las señaladas en las fracciones VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXVI del artículo anterior de este reglamento.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+II.- Las señaladas en las fracciones VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII y XXIV del artículo anterior de este reglamento.
 
 N. Administración Central de Comercio Exterior:
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVIII y XIX del Artículo 11 de este reglamento.
 
-II.- Las señaladas en las fracciones II, IV, VI, VII, VIII, X, XI, XII, XIII, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV y XXVI del artículo anterior de este reglamento.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+II.- Las señaladas en las fracciones II, IV, VI, VII, VIII, X, XI, XII, XIII, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV y XXV del artículo anterior de este reglamento.
 
 Ñ. Administración de Valoración Aduanera de Comercio Exterior, Administración de Auditoría de Comercio Exterior y Administración de Investigaciones y Apoyo Logístico de Comercio Exterior:
 
@@ -1843,7 +1855,9 @@ P. Administración de Planeación y Programación de Comercio Exterior:
 
 I.- Las establecidas en las fracciones V, VIII, XI, XV, XVI y XIX del Artículo 11 de este reglamento.
 
-II.- Las señaladas en las fracciones VI, VII, XI, XXIII y XXVI del artículo anterior de este reglamento.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+II.- Las señaladas en las fracciones VI, VII, XI y XXIII del artículo anterior de este reglamento.
 
 ###### Artículo 25.
 
@@ -1851,7 +1865,9 @@ Compete a las Administraciones Locales de Auditoría Fiscal, dentro de la circun
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVII y XIX del Artículo 11 de este reglamento.
 
-II.- Las señaladas en las fracciones VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVI y XXVII del Artículo 23 de este reglamento.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+II.- Las señaladas en las fracciones VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXVII del artículo 23 de este reglamento.
 
 III.- Informar a la Administración General de Auditoría Fiscal Federal de las irregularidades cometidas por contadores públicos al formular dictámenes sobre los estados financieros relacionados con las declaraciones de los contribuyentes, o de dictámenes relativos a operaciones de enajenación de acciones, o de cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, de que tengan conocimiento con motivo de sus actuaciones, que ameriten exhortar o amonestar al contador público, o bien, la suspensión o cancelación del registro correspondiente por no cumplir con las disposiciones fiscales; proponer a dicha Administración General el exhorto o la amonestación al contador público o la suspensión o cancelación del registro correspondiente, en los casos en que proceda, por no cumplir con las disposiciones fiscales.
 
@@ -2089,13 +2105,17 @@ VIII.- Planear, organizar, establecer, dirigir y controlar estrategias que permi
 
 IX.- Recibir y requerir de los particulares, responsables solidarios y terceros con ellos relacionados, exhiban y proporcionen la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que, conforme a las disposiciones legales aplicables deben presentarse; así como ampliar el plazo para concluir su revisión; recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, para proceder a su revisión a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera; mantener comunicación con las autoridades aduaneras de otros países para obtener y proporcionar la información y documentación en relación con los asuntos aduaneros internacionales.
 
-X.- Ejercer las facultades de las autoridades aduaneras en materia de abandono de mercancías y declarar, en su caso, que han pasado a propiedad del Fisco Federal, en coordinación con las autoridades competentes previstas en la legislación aduanera, así como en las disposiciones reglamentarias aplicables, poniendo a disposición de la unidad administrativa competente del Servicio de Administración Tributaria las mercancías que haya pasado a propiedad del Fisco Federal.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+X.- Ejercer las facultades de las autoridades aduaneras en materia de abandono de mercancías y declarar, en su caso, que han pasado a propiedad del Fisco Federal, en coordinación con las autoridades competentes previstas en la legislación aduanera, así como en las disposiciones reglamentarias aplicables y transferir a la instancia competente las mercancías que hayan pasado a propiedad del Fisco Federal.
 
 XI.- Ordenar y practicar la verificación de mercancías de comercio exterior en transporte, la verificación en tránsito de vehículos de procedencia extranjera y de aeronaves y embarcaciones, la vigilancia y custodia de los recintos fiscales y de los demás bienes y valores depositados en ellos; llevar a cabo otros actos de vigilancia para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional y la salida del mismo de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida.
 
 XII.- Ordenar y realizar la inspección y vigilancia permanente en el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, así como en cualquier otra parte del territorio nacional.
 
-XIII.- Ordenar y practicar la retención, persecución o embargo precautorio de las mercancías de comercio exterior, incluidos los vehículos, o de sus medios de transporte, cuando legalmente proceda, inclusive por el incumplimiento de Normas Oficiales Mexicanas, compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal internación al país; remitir en los plazos señalados en la legislación aduanera las actas a la autoridad competente o, en su caso, tramitar y resolver los procedimientos administrativos en materia aduanera; poner a disposición de la Aduana que corresponda las mercancías embargadas para que realice su control y custodia, y a su vez, se ponga a disposición de la unidad administrativa competente del Servicio de Administración Tributaria en los términos de la legislación aduanera. Sustanciar y resolver el procedimiento relacionado con la determinación provisional a que se refiere la Ley Aduanera, llevarla a cabo, así como notificarla.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+XIII.- Ordenar y practicar la retención, persecución o embargo precautorio de las mercancías de comercio exterior, incluidos los vehículos, o de sus medios de transporte, cuando legalmente proceda, inclusive por el incumplimiento de Normas Oficiales Mexicanas, compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar el embargo precautorio de aquellas mercancías respecto de las cuales no se acredite su legal internación al país; remitir en los plazos señalados en la legislación aduanera las actas a la autoridad competente o, en su caso, tramitar y resolver los procedimientos administrativos en materia aduanera; poner a disposición de la Aduana que corresponda las mercancías embargadas para que realice su control y custodia, y a su vez, se transfieran a la instancia competente en los términos de la legislación aplicable. Sustanciar y resolver el procedimiento relacionado con la determinación provisional a que se refiere la Ley Aduanera, llevarla a cabo, así como notificarla.
 
 XIV.- Ordenar y practicar el embargo precautorio para asegurar el interés fiscal cuando a su juicio, hubiere peligro de que el obligado se ausente o se realice la enajenación u ocultamiento de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda.
 
@@ -2205,7 +2225,9 @@ LXVI.- Certificar hechos y expedir las constancias correspondientes, que se deba
 
 LXVII.- Asistir a los servidores públicos del Servicio de Administración Tributaria en sus relaciones con los funcionarios o autoridades de otros países, respecto de convenios o tratados celebrados en materia fiscal o aduanera internacional.
 
-LXVIII.- Poner a disposición de la unidad administrativa competente del Servicio de Administración Tributaria, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el Artículo 157 de la Ley Aduanera.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2003)</small>
+
+LXVIII.- Transferir a la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el Artículo 157 de la Ley Aduanera.
 
 La Administración General de Aduanas, sus unidades centrales y las aduanas ejercerán las facultades señaladas en el presente reglamento respecto de todos los contribuyentes, inclusive aquellos que son competencia de la Administración General de Grandes Contribuyentes.
 
@@ -2699,59 +2721,7 @@ Cada Administración Regional de Evaluación estará a cargo de un Administrador
 
 ###### Artículo 37.
 
-Corresponde a la Administración General del Destino de Bienes de Comercio Exterior Propiedad del Fisco Federal:
-
-I.- Determinar las políticas, procedimientos y criterios para el control, administración y destino de las mercancías de comercio exterior que han pasado a propiedad del Fisco Federal o se encuentren en los casos previstos en el Artículo 157 de la Ley Aduanera.
-
-II.- Planear e instrumentar los mecanismos de control, de la mercancía de comercio exterior que ha pasado a propiedad del Fisco Federal o ha sido puesta a su disposición conforme al Artículo 157 de la Ley Aduanera, hasta su destino final, conservando la documentación correspondiente de cada operación realizada.
-
-III.- Ordenar y practicar la identificación, recepción, traslado, maniobras, entrega, custodia, almacenaje y administración de la mercancía de comercio exterior puesta a su disposición, así como de todas aquellas actividades o actos necesarios para lograr el destino final de esa mercancía.
-
-IV.- Determinar y realizar el destino de las mercancías de comercio exterior descritas en la fracción anterior mediante asignación, donación, venta o destrucción, asesorándose en todo caso del Consejo Asesor establecido en el Artículo 145 de la Ley Aduanera, o de un comité de asignaciones para los destinos que no sean de la competencia del Consejo Asesor; asimismo, podrá destinar la mercancía de comercio exterior que ha pasado a propiedad del Fisco Federal para resarcimiento o indemnización.
-
-V.- Controlar y supervisar las mercancías de comercio exterior, que por su naturaleza requieran de un destino inmediato, o su destrucción por ser nocivas para la salud, prohibidas, en estado de descomposición, u otra característica similar, informando posteriormente al Consejo Asesor o comité de asignaciones.
-
-VI.- Informar a las personas que presten los servicios señalados en el Artículo 14 de la Ley Aduanera, de las mercancías en abandono que no serán objeto de destino.
-
-VII.- Practicar la comercialización de mercancías, exclusivamente a través de un fideicomiso, o mediante un mandato otorgado a una institución de crédito y ordenar la práctica de avalúos de la mercancía de comercio exterior puesta a disposición, así como supervisar estas actividades.
-
-VIII.- Resarcir o indemnizar por mercancías dispuestas por esta Administración General, en cumplimiento de resolución o sentencia que cause ejecutoria emitida por autoridad administrativa o judicial, mediante la devolución de la mercancía, y ante la imposibilidad práctica de esto, a través de mercancía de valor similar, o en su caso, mediante el pago de pecuniario, que determine la autoridad competente.
-
-IX.- Instruir que los ingresos obtenidos por la comercialización de las mercancías de comercio exterior se depositen en la Tesorería de la Federación de conformidad con la legislación aduanera y aplicar contra el fondo que se constituya, los pagos por resarcimiento o indemnización.
-
-X.- Autorizar a las entidades federativas, la asignación definitiva de los vehículos que pasen a propiedad del Fisco Federal como pago de incentivos, así como la venta de vehículos inutilizados permanentemente para su circulación, conforme a lo establecido en la Ley de Coordinación Fiscal.
-
-XI.- Instruir en la unidad administrativa que corresponda, se ponga a disposición de esta Administración General, la mercancía de comercio exterior que ha pasado a propiedad del Fisco Federal o se encuentre en los supuestos establecidos en el Artículo 157 de la Ley Aduanera, así como requerir la documentación que sea necesaria para lo anterior y la integración de los expedientes.
-
-XII.- Custodiar los bienes embargados por cualquier otra unidad administrativa, cuando éstas así lo soliciten.
-
-La Administración General del Destino de Bienes de Comercio Exterior Propiedad del Fisco Federal estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
-
-Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritas a la Administración General del Destino de Bienes de Comercio Exterior Propiedad del Fisco Federal.
-
-Administrador Central Operativo.
-
-Administrador de Inventarios Centro.
-
-Administrador de Inventarios Norte.
-
-Administrador de Inventarios Sureste.
-
-Administrador de Almacenes.
-
-Administrador Central de Destino de Bienes.
-
-Administrador de Ventas y Destrucciones.
-
-Administrador de Asignaciones y Donaciones.
-
-Administrador Central Jurídico y de Control.
-
-Administrador Jurídico.
-
-Administrador de Control y Evaluación.
-
-Administrador de Seguimiento de Acuerdos.
+(DEROGADO, D.O.F. 17 DE JUNIO DE 2003)
 
 ### Capítulo XIII. De la Administración Central de Investigación de Operaciones
 
@@ -3216,3 +3186,9 @@ CUARTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentre
 El personal, expedientes, archivo, mobiliario y, en general, equipo de la Administración Central de Investigación de Operaciones del Servicio de Administración Tributaria pasarán a la Dirección General Adjunta de Investigación de Operaciones de la Secretaría de Hacienda y Crédito Público.
 
 QUINTO.- Quedan sin efecto, a partir de la entrada en vigor de este Decreto, las disposiciones administrativas que se opongan al mismo.
+
+D.O.F. 17 DE JUNIO DE 2003.
+
+SE TRANSCRIBE UNICAMENTE EL ARTICULO TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON EL PRESENTE REGLAMENTO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
