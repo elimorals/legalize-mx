@@ -1,0 +1,896 @@
+---
+title: "LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS"
+identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-6366"
+country: "mx"
+rank: "ley"
+publication_date: "1983-08-08"
+last_updated: "1983-08-08"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mic"
+scjn_id: "6366"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "68 SECCION II"
+reform_count: "25"
+scjn_last_update: "2026-02-12"
+issue_date: "1983-07-21"
+state: "MIC"
+---
+# LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
+
+LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
+
+CUAUHTEMOC CARDENAS SOLORZANO, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+
+El H. Congreso del Estado, se ha servido dirigirme el siguiente DECRETO:
+
+EL CONGRESO DE MICHOACAN DE OCAMPO DECRETA:
+
+NUMERO 354
+
+LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 1o.
+
+La presente es de observancia general y regula las relaciones laborales entre los Trabajadores al Servicio del Estado de Michoacán de Ocampo y los Municipios, por una parte y por la otra, los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y aquellos organismos descentralizados y empresas de participación estatal y municipal en que por leyes, decretos o reglamentos llegue a señalarse su aplicación.
+
+###### ARTICULO 2o.
+
+La relación jurídica de trabajo reconocida por esta Ley se entiende establecida, para los efectos legales, entre los trabajadores de base al servicio de los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y aquellos organismos e instituciones, a que se refiere el artículo 1o. de esta Ley.
+
+###### ARTICULO 3o.
+
+Trabajador es toda persona que presta un servicio físico, intelectual o de ambos géneros a los Poderes Legislativo, Ejecutivo y Judicial, a los Ayuntamientos y a los organismos descentralizados y empresas de participación estatal, en virtud de nombramiento expedido y por figurar en la nómina de pago sus sueldos (sic).
+
+###### ARTICULO 4o.
+
+Para los efectos de esta Ley los trabajadores al servicio de las Instituciones Públicas se dividen en:
+
+I. Trabajador de base;
+
+II. Trabajador de confianza; y,
+
+III. Trabajadores temporales.
+
+###### ARTICULO 5o.
+
+Se entenderá como trabajadores de confianza todos aquellos que realicen funciones de dirección, vigilancia, fiscalización de orden general dentro de las Dependencias o bien que por el manejo de fondos, valores o datos de estricta confidencialidad deban tener tal carácter, de acuerdo a la siguiente clasificación:
+
+I. Dentro del Poder Ejecutivo: Los titulares de las dependencias básicas, que establezca la Ley Orgánica de la Administración Pública; los Secretarios Particular y Privado del Gobernador; el Subprocurador, Subtesorero; Directores, Jefes y Subjefes de Departamentos; Secretarios Particulares y Asesores o Consultores de los titulares de las dependencias básicas, direcciones y departamentos; Presidentes titulares y auxiliares y Secretario General de Acuerdos de la Junta Local de Conciliación y Arbitraje del Estado; Secretario y Vocales de la Comisión Agraria Mixta; Agente del Ministerio Público; los Jueces del Registro Civil; Jefes y Subjefes de las corporaciones policíacas y los elementos uniformados;
+
+II. Dentro del Poder Legislativo: El Oficial Mayor, Contador General de Glosa y Subcontador; los Asesores, Visitadores o Auditores y los Jefes de Sección;
+
+III. En el Poder Judicial: Sin ser limitativa se considerarán como tales: El Secretario General de Acuerdos, el Subsecretario de Acuerdos, el Oficial Mayor, el Director del Instituto de Especialización, el Director de Administración y Desarrollo de Personal, el Director de Contabilidad y Pagaduría, los Titulares de los Juzgados de Primera Instancia, Municipales y de Tenencia; los Jurados y Arbitros; los Asesores y Secretarios Particulares; y, los Secretarios Auxiliares o Proyectistas de las Salas;
+
+IV. En los Organismos Descentralizados y Empresas de Participación Estatal: Los Directores Generales y Subdirectores; Jefes de Departamentos, Asesores, Secretarios Particulares y Ayudantes; y,
+
+V. En los Ayuntamientos: El Secretario, Tesorero, Cajero, Oficial Mayor, Comandante de Policía, Policías Preventivos y de Tránsito, Directores y Jefes de Urbanística y Secretario Particular.
+
+###### ARTICULO 6o.
+
+Los trabajadores de base serán los no incluidos en el artículo anterior, serán inamovibles, de nacionalidad mexicana y sólo podrán ser sustituidos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo. La sustitución será decidida por el titular de la Dependencia oyendo al Sindicato.
+
+###### ARTICULO 7o.
+
+Son trabajadores temporales aquellos a quienes se otorga nombramiento para obra o tiempo determinados.
+
+###### ARTICULO 8o.
+
+Lo no previsto por esta Ley o disposiciones especiales se aplicará supletoriamente, y en su orden, Ley Federal del Trabajo, la Ley Federal de los Trabajadores al Servicio del Estado, la costumbre, el uso, los principios generales de derecho y la equidad.
+
+### CAPITULO II
+
+DERECHOS Y OBLIGACIONES DE LAS PARTES EN LA RELACION LABORAL.
+
+###### ARTICULO 9o.
+
+Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario facultado para extenderlo y por estar incluidos en las nóminas de pago (sic) sus sueldos.
+
+###### ARTICULO 10.
+
+Los menores de edad que tengan más de dieciseis años tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de la presente Ley.
+
+###### ARTICULO 11.
+
+Serán condiciones nulas y no obligarán a los trabajadores, aún cuando las admitieren expresamente, las que estipulen:
+
+I. Una jornada mayor de la permitida por esta Ley;
+
+II. Las labores peligrosas e insalubres o nocturnas para menores de dieciseis años;
+
+III. Una jornada inhumana por lo notoriamente excesiva o peligrosa para el trabajador, o para la salud de la trabajadora embarazada o el producto de la concepción;
+
+IV. Un salario inferior al mínimo establecido para los trabajadores en genral (sic), en el lugar donde se presten los servicios; y,
+
+V. Un plazo mayor de quince días para el pago de sus sueldos y demás prestaciones económicas.
+
+###### ARTICULO 12.
+
+Los nombramientos deberán contener:
+
+I. Nombre;
+
+II. Los servicios que deben prestarse, los que se determinarán con la mayor precisión posible;
+
+III. El carácter del nombramiento: de confianza, de base o temporal;
+
+IV. El sueldo y demás prestaciones que habrá de percibir el trabajador; y,
+
+V. El lugar en que prestará sus servicios.
+
+###### ARTICULO 13.
+
+El nombramiento aceptado obliga al cumplimiento de las condiciones fijadas en él y a las consecuencias que se den conforme a la Ley, al uso, a la costumbre y la buena fe.
+
+###### ARTICULO 14.
+
+Cuando un trabajador de base sea trasladado de una población a otra, la Dependencia en que preste sus servicios dará a conocer previamente al trabajador las causas del traslado, cubriendo los viáticos respectivos.
+
+Si el traslado es por un período mayor de tres meses, el trabajador tendrá derecho a que se le cubran previamente los gastos que origine el transporte de menaje de casa indispensable para la instalación de su cónyuge y de sus familiares en línea recta ascendente o descendente, o colaterales en segundo grado, siempre que estén bajo su dependencia económica. Asimismo, tendrá derecho a que se le cubran los gastos de traslado de su cónyuge y parientes mencionados en este párrafo, salvo que el traslado se deba a solicitud del propio trabajador.
+
+Solamente se podrá ordenar el traslado de un trabajador por las siguientes causas:
+
+I. Por reorganización o necesidad del servicio debidamente justificadas;
+
+II. Por desaparición del centro de trabajo; y,
+
+III. Por permuta debidamente autorizada.
+
+###### ARTICULO 15.
+
+En ningún caso el cambio de funcionarios de una dependencia podrá afectar los derechos de los trabajadores.
+
+### CAPITULO III. DE LAS HORAS DE TRABAJO Y LOS DESCANSOS
+
+###### ARTICULO 16.
+
+Se considera trabajo diurno el comprendido entre las seis y las veinte horas, y nocturno el comprendido entre las veinte y las seis horas.
+
+###### ARTICULO 17.
+
+La duración máxima de la jornada diurna de trabajo será de ocho horas.
+
+###### ARTICULO 18.
+
+La jornada máxima de trabajo nocturno será de siete horas.
+
+###### ARTICULO 19.
+
+Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y nocturna, siempre que el período nocturno abarque menos de tres horas y media, pues en caso contrario, se reputará como jornada nocturna. La duración máxima de la jornada mixta será de siete horas y media.
+
+###### ARTICULO 20.
+
+Cuando por circunstancias especiales deban aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces consecutivas.
+
+###### ARTICULO 21.
+
+Por cada cinco días de trabajo disfrutará el trabajador de dos días de descanso, con goce de salario íntegro.
+
+###### ARTICULO 22.
+
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de dos meses después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
+
+###### ARTICULO 23.
+
+Serán días de descanso obligatorio los que señale el calendario oficial.
+
+### CAPITULO IV. VACACIONES
+
+###### ARTICULO 24.
+
+Los trabajadores que tengan más de seis meses ininterrumpidos de labores tendrán derecho a 10 días de vacaciones en los períodos que para tal efecto se señalen. En todo caso se dejarán guardias para atender asuntos urgentes.
+
+Cuando un trabajador no pudiere hacer uso de las vacaciones en los períodos señalados, por la necesidad del servicio, disfrutarán de ellas durante los diez días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldo.
+
+###### ARTICULO 25.
+
+Los trabajadores tendrán derecho a una prima vacacional no menor del 25% sobre los salarios que le correspondan durante el período de vacaciones.
+
+### CAPITULO V. DE LOS SALARIOS
+
+###### ARTICULO 26.
+
+El salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
+
+###### ARTICULO 27.
+
+El salario será uniforme para cada una de las categorías de trabajadores y será fijado en los Presupuestos de Egresos respectivos.
+
+###### ARTICULO 28.
+
+Para compensar las diferencias que resulten del distinto costo medio de la vida en diversas zonas económicas del Estado, se crearán partidas destinadas al pago de sobresueldos, determinándose previamente las zonas en que deban cubrirse y que serán iguales para cada categoría.
+
+###### ARTICULO 29.
+
+Los pagos se efectuarán en el lugar en que los trabajadores presten sus servicios.
+
+###### ARTICULO 30.
+
+Sólo podrán hacerse retenciones, descuentos o deducciones al salario de los trabajadores cuando se trate:
+
+I. De deudas contraídas con el Estado, por concepto de anticipos de salarios, pagos hechos en exceso, errores o pérdidas debidamente comprobados;
+
+II. Del cobro de cuotas sindicales o de aportación de fondos para la construcción de cooperativas y de cajas de ahorro, siempre que el trabajador hubiese manifestado previamente, de una manera expresa, su conformidad;
+
+III. De aquellos ordenados por la Dirección de Pensiones Civiles del Estado;
+
+IV. De los descuentos ordenados por la autoridad judicial competente, para cubrir alimentos que fueren exigidos al trabajador;
+
+V. De descuentos de Instituciones de Seguridad Social; y,
+
+VI. Del pago de abonos para cubrir préstamos previamente de fondos destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del 50% del salario.
+
+###### ARTICULO 31.
+
+Será preferente el pago de salarios a cualquier otra erogación de las Instituciones Públicas.
+
+###### ARTICULO 32.
+
+Es nula la cesión de salarios hecha a favor de terceras personas.
+
+###### ARTICULO 33.
+
+El salario no es susceptible de embargo judicial o administrativo, salvo lo establecido por la fracción IV del artículo 30 de esta Ley.
+
+###### ARTICULO 34.
+
+Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, que deberá pagarse 20 días de sueldo antes del período de vacaciones de diciembre y 20 días de sueldo en el mes de enero, sin deducción alguna. En caso de que el trabajador hubiere prestado sus servicios menos de un año, tendrá derecho a que se le pague la parte proporcional.
+
+### CAPITULO VI. OBLIGACIONES DE LAS INSTITUCIONES
+
+###### ARTICULO 35.
+
+Son obligaciones de las instituciones a que se refiere el artículo 1o. de esta Ley:
+
+I. Preferir, en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón. Para los efectos del párrafo que antecede, en cada una de las instituciones se formarán los escalafones de acuerdo con las bases establecidas en el Capítulo XI de esta Ley;
+
+II. Cumplir con todos los servicios de higiene y de prevención de accidentes a que están obligadas;
+
+III. Reinstalar a los trabajadores en las plazas de las cuales los hubieran separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldos;
+
+IV. Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
+
+V. Cubrir las aportaciones que fijen las Leyes respectivas, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
+
+a) Atención médica, quirúrgica, farmacéutica y hospitalaria, y en su caso, las incapacidades por riesgos de trabajo;
+
+b) Atención médica, quirúrgica, farmacéutica y hospitalaria, en los casos de enfermedades no profesionales y maternidad;
+
+c) Jubilación y pensión por invalidez, vejez o muerte; y,
+
+d) Asistencia médica y medicinas para los familiares del trabajador en los términos de los convenios que se celebren con las instituciones de seguridad social;
+
+VI. Impartir cursos de capacitación y adiestramiento para los trabajadores; y,
+
+VII. Conceder licencia a sus trabajadores en los términos que se estipulen en las condiciones generales de trabajo.
+
+### CAPITULO VII. OBLIGACIONES DE LOS TRABAJADORES
+
+###### ARTICULO 36.
+
+Son obligaciones de los trabajadores:
+
+I. Desempeñar sus labores con la intensidad, cuidado y esmero apropiados;
+
+II. Observar buenas costumbres dentro del servicio;
+
+III. Cumplir con las obligaciones que les impongan las condiciones generales de trabajo y el Reglamento interior;
+
+IV. Guardar reserva de los asuntos que lleguen a su conocimiento con motivo de su trabajo;
+
+V. Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros;
+
+VI. Asistir puntualmente a sus labores;
+
+VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y,
+
+VIII. Asistir a los cursos de capacitación y adiestramiento para mejorar su preparación y eficiencia.
+
+### CAPITULO VIII. DE LA SUSPENSION DE LA RELACION LABORAL
+
+###### ARTICULO 37.
+
+Son causas de suspensión temporal de la relación de trabajo, las siguientes:
+
+I. Las licencias sin goce de sueldo, cuando excedan de seis meses;
+
+II. La incapacidad física del trabajador, cuando la misma derive de un riesgo no profesional y cuando así lo determine la institución médica, en cuanto inhabilite al trabajador para desempeñar el trabajo contratado y hasta en tanto pueda ser reubicado en cualquier otro que sea susceptible con sus aptitudes físicas;
+
+III. La suspensión que como sanción dicte la institución o autoridad a la que preste sus servicios por faltas cometidas en el desempeño del trabajo que no ameriten su cese definitivo. Esta suspensión en ningún caso podrá exceder de 8 días hábiles;
+
+IV. La prisión preventiva del trabajador seguida de sentencia absolutoria; y,
+
+V. El arresto del trabajador.
+
+### CAPITULO IX. DE LA TERMINACION DE LA RELACION DE TRABAJO
+
+###### ARTICULO 38.
+
+Son causas de la terminación de la relación de trabajo:
+
+I. El mutuo consentimiento de las partes;
+
+II. La muerte del trabajador;
+
+III. La conclusión de la obra o vencimiento del término;
+
+IV. La incapacidad física o mental del trabajador que haga imposible la prestación del trabajo;
+
+V. La renuncia, abandono de empleo, entendiéndose por ésta la actitud del trabajador de no reintegrarse a sus labores habituales; y,
+
+VI. El cese dictado por el Titular de la Dependencia en donde preste sus servicios, debidamente fundado en cualesquiera de los siguientes casos:
+
+a) Incurrir el trabajador, durante sus labores, en faltas de probidad u honradez, en actos de violencia, amagos, injurias o malos tratos en contra del Titular de la Institución, sus familiares o del personal directivo o administrativo de la Institución, salvo que medie provocación o que obre en defensa propia;
+
+b) Cometer el trabajador contra alguno de sus compañeros, cualesquiera de los actos enumerados en la fracción anterior, si como consecuencia de ellos se altera la disciplina del lugar en que se desempeñe el trabajo;
+
+c) Cometer el trabajador, fuera del servicio, contra el titular de la Institución, sus familiares o personal directivo o administrativo, alguno de los actos a que se refiere el inciso e), si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
+
+d) Ocasionar el trabajador, intencionalmente, perjuicios materiales durante el desempeño de las labores o con motivo de ellas, en los edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo;
+
+e) Ocasionar el trabajador los perjuicios de que habla el inciso anterior siempre que sean graves, sin dolo, pero con negligencia tal, que ella sea causa única del perjuicio;
+
+f) Comprometer el trabajador, por su imprudencia o descuido inexcusable, la seguridad del establecimiento o de las personas que se encuentren en él;
+
+g) Cometer el trabajador actos inmorales en la Dependencia o lugar de trabajo;
+
+h) Tener el trabajador más de tres faltas de asistencia en un período de treinta días, sin permiso de la Dependencia o sin causa justificada;
+
+i) Negarse el trabajador a adoptar las medidas preventivas o seguir los procedimientos indicados para evitar accidentes o enfermedades;
+
+j) Concurrir el trabajador a sus labores en estado de ebriedad o bajo la influencia de algún narcótico o droga enervante, salvo que en este último caso, exista prescripción médica. Antes de iniciar su servicio, el trabajador deberá poner el hecho en conocimiento de sus superiores y presentar la prescripción suscrita por el médico; y,
+
+k) La sentencia ejecutoriada que imponga al trabajador una pena de prisión, que le impida el cumplimiento de la relación de trabajo.
+
+###### ARTICULO 39.
+
+Cuando el trabajador incurra en alguna de las causales a que se refiere el artículo anterior el jefe superior de la oficina procederá a levantar acta administrativa, con audiencia del trabajador y un representante del Sindicato respectivo, en la que con toda precisión se asentarán los hechos, la declaratoria del trabajador afectado y las de los testigos de cargo y descargo que se propongan, la que se firmará por los que en ella intervengan y por dos testigos de asistencia, debiendo entregarse una copia al trabajador y otra al representante sindical.
+
+Ningún Jefe de Oficina, Departamento o Director, podrá destituir o suspender del empleo, cargo o comisión a un servidor público. En todo caso dará aviso al titular de la dependencia básica o entidad que corresponda, para que éste resuelva lo procedente.
+
+### CAPITULO X. DE LA REINSTALACION EN EL TRABAJO
+
+###### Artículo 40.
+
+Cuando un trabajador resulte cesado injustamente tendrá derecho a optar por la reinstalación en el puesto o cargo que desempeñaba con todas las prestaciones que disfrutaba y en las mismas condiciones en que lo venía desempeñando, o a que se le cambie de adscripción con sus mismos derechos.
+
+###### ARTICULO 41.
+
+En el caso del artículo anterior, se cubrirán al trabajador los salarios caídos que correrán desde la fecha del cese hasta aquella en que sea reinstalado en el trabajo.
+
+### CAPITULO XI. DE LAS CONDICIONES GENERALES DE TRABAJO
+
+###### ARTICULO 42.
+
+Las condiciones generales de trabajo se fijarán por el titular del Poder o entidad respectiva de las señaladas en el artículo 1o. de esta Ley y el sindicato mayoritario, correspondiente y a solicitud de éste se revisarán cada dos años.
+
+###### ARTICULO 43.
+
+Las condiciones generales de trabajo establecerán:
+
+I. La intensidad y calidad del trabajo;
+
+II. Las medidas que deben adoptarse para prevenir la realización de riesgos de trabajo;
+
+III. Las disposiciones disciplinarias y la forma de aplicarlas;
+
+IV. Las fechas y condiciones en que los trabajadores deben someterse a exámenes médicos preventivos y periódicos;
+
+V. Las labores insalubres y peligrosas que no deben de desempeñar los menores de edad y la protección que se dará a las trabajadoras embarazadas;
+
+VI. Permisos y licencias; y,
+
+VII. Las demás reglas que fueran convenientes para obtener mayor seguridad y eficacia en el trabajo.
+
+###### ARTICULO 44.
+
+Las condiciones generales de trabajo surtirán efectos a partir de la fecha de su depósito en el Tribunal de Conciliación y Arbitraje.
+
+###### ARTICULO 45.
+
+En caso de que uno o más Sindicatos o la Federación Estatal, objetaren substancialmente los acuerdos respectivos de las condiciones generales de trabajo, será el Tribunal de Conciliación y Arbitraje quien resolverá en definitiva, mediante la tramitación del procedimiento correspondiente.
+
+### CAPITULO XII. DEL ESCALAFON
+
+###### ARTICULO 46.
+
+Se entiende por escalafón el sistema organizado en cada institución pública, para efectuar las promociones de ascenso de los trabajadores y todo aquello relacionado con los cambios y movimientos de los trabajadores, conforme a las bases establecidas en el Reglamento Respectivo.
+
+###### ARTICULO 47.
+
+En cada Poder o institución pública se expedirá un Reglamento de Escalafón, el cual se formulará de común acuerdo, por el titular y el Sindicato respectivo.
+
+###### ARTICULO 48.
+
+Los factores escalafonarios se calificarán mediante sistemas adecuados para su evaluación, estipulados en los Reglamentos respectivos.
+
+###### ARTICULO 49.
+
+Las facultades, obligaciones, atribuciones, procedimientos y derechos de las Comisiones Mixtas de Escalafón, quedarán especificados en los Reglamentos y Convenios sin contravenir lo preceptuado en esta Ley.
+
+### CAPITULO XIII. DE LOS SINDICATOS
+
+###### ARTICULO 50.
+
+Sindicato es la asociación de trabajadores de las instituciones públicas al Servicio del Estado y de los Municipios, constituida para defensa de los intereses de los trabajadores así como su mejoramiento social y cultural.
+
+###### ARTICULO 51.
+
+Todos los trabajadores de base tendrán derecho a sindicalizarse libremente.
+
+###### ARTICULO 52.
+
+En el Estado de Michoacán de Ocampo se reconocerán solamente Sindicatos mayoritarios. En el caso de que concurran diversos grupos, la asociación mayoritaria será la titular de las condiciones generales de trabajo.
+
+###### ARTICULO 53.
+
+Para que se constituya un Sindicato, se requiere que lo formen veinte trabajadores en servicio activo como mínimo de la Institución o del Poder correspondiente y que cumpla con los requisitos que establece la Ley.
+
+###### ARTICULO 54.
+
+Los Sindicatos serán registrados ante el Tribunal de Conciliación y Arbitraje, para cuyo efecto se remitirán a éste por duplicado los documentos que a continuación se especifican:
+
+I. Acta de la Asamblea Constitutiva firmada por el Comité Ejecutivo del Sindicato;
+
+II. Estatutos que regirán el funcionamiento del Sindicato, en los que se establezca entre otras disposiciones, el procedimiento de expulsión de sus agremiados. Dicho procedimiento se sujetará a las normas siguientes:
+
+a) Se convocará a una asamblea general para el sólo efecto de conocer de la expulsión y sus motivaciones;
+
+b) Deberá notificarse oportunamente de la celebración de la asamblea a que se refiere la fracción anterior, al acusado o acusados y se les dará oportunidad para defenderse y aportar las pruebas pertinentes; y,
+
+c) El acuerdo de expulsión se decretará cuando menos por las dos terceras partes de los miembros del Sindicato respectivo;
+
+III. Lista de los miembros que lo integran, debiendo contener: nombre, estado civil, sexo, nacionalidad, domicilio, empleo que desempeña, salario que perciba y firma del trabajador.
+
+El Tribunal de Conciliación y Arbitraje, al recibir la solicitud de registro, comprobará por los medios que estime convenientes, los requisitos establecidos en el artículo anterior y la libre voluntad de los trabajadores para constituirse en sindicato.
+
+###### ARTICULO 55.
+
+El registro podrá negarse únicamente:
+
+I. Si el Sindicato no se propone la finalidad prevista en el artículo 50 de esta Ley;
+
+II. Si no se constituyó con el número de miembros fijados en el artículo 53; y,
+
+III. Si no se exhiben los documentos que se refiere el artículo anterior.
+
+###### ARTICULO 56.
+
+El registro del Sindicato se cancelará:
+
+I. Por disolución del mismo;
+
+II. Por perder los objetivos para los que haya sido creado; y,
+
+III. Por dejar de reunir los requisitos a que se refiere el artículo 53.
+
+###### ARTICULO 57.
+
+Los sindicatos no están sujetos a disolución, suspensión o cancelación de su registro, por vía administrativa, cualquiera de estas cuestiones se tramitará mediante el procedimiento ordinario correspondiente ante el Tribunal de Conciliación y Arbitraje.
+
+###### ARTICULO 58.
+
+El titular del Poder o de las Dependencias de las señaladas en el artículo 1o. de esta Ley, no podrán aceptar, en ningún caso, la cláusula de exclusión por admisión.
+
+###### ARTICULO 59.
+
+Son obligaciones de los Sindicatos:
+
+I. Proporcionar los informes que en cumplimiento de esta Ley, solicite el Tribunal de Conciliación y Arbitraje;
+
+II. Comunicar al Tribunal de Conciliación y Arbitraje dentro de los diez días siguientes a cada elección los cambios que ocurrieren en su directiva o en sus Comités, las altas y bajas de sus miembros, y las modificaciones que sufran los ordenamientos que rigen su vida institucional;
+
+III. Facilitar la labor del Tribunal de Conciliación y Arbitraje en los conflictos que se tramiten ante el mismo, ya sea del Sindicato o de sus miembros, proporcionando la cooperación que se requiere o que se solicite; y,
+
+IV. Patrocinar, representar y asesorar a sus miembros ante las autoridades y el Tribunal de Conciliación y Arbitraje por sí o a través de apoderados, cuando se solicite.
+
+###### ARTICULO 60.
+
+Los Sindicatos pueden formar Federaciones o Confederaciones, las que se regirán por disposiciones de este Capítulo, en lo que les sea aplicable.
+
+###### ARTICULO 61.
+
+Queda prohibido a los Sindicatos:
+
+I. Hacer propaganda de carácter religioso;
+
+II. Ejercer la función de comercio, con fines de lucro; y,
+
+III. Ejercer cualquier tipo de violencia sobre los trabajadores, para obligarlos a que se sindicalicen.
+
+###### ARTICULO 62.
+
+La Directiva de los Sindicatos será responsable ante éstos y respecto de terceras personas, en los términos que lo son los mandatarios en derecho común.
+
+###### ARTICULO 63.
+
+Los actos realizados por las Directivas de los Sindicatos, obligan, civil y laboralmente a éstos, siempre que hayan actuado dentro de sus facultades.
+
+###### ARTICULO 64.
+
+Los Sindicatos podrán disolverse:
+
+I. Por el voto de las dos terceras partes de los miembros que lo integren; y,
+
+II. Por fenecer el término fijado en sus Estatutos internos.
+
+###### ARTICULO 65.
+
+Las remuneraciones que se paguen o (sic) los Directivos de los Sindicatos y, en general los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, el cual cubrirán sus miembros con las cuotas sindicales que se establezcan en sus Estatutos.
+
+###### ARTICULO 66.
+
+Todos los conflictos que surjan entre la Federación de Sindicatos y éstos, o entre Sindicatos, serán resueltos por el Tribunal de Conciliación y Arbitraje.
+
+###### ARTICULO 67.
+
+Los trabajadores de confianza no podrán formar parte de ninguno de los Sindicatos y si pertenecieren a ellos por haber sido trabajadores de base, quedarán en suspenso todos sus derechos sindicales, mientras desempeñen el cargo de confianza.
+
+###### ARTICULO 68.
+
+Para el registro en el Tribunal de Conciliación y Arbitraje de una Federación o Confederación de Sindicatos de trabajadores, deberán acreditarse los siguientes documentos:
+
+I. El acta de la Asamblea constitutiva de cada uno de los Sindicatos;
+
+II. El acta de la Asamblea constitutiva de la Federación o Confederación que se funde;
+
+III. Los Estatutos que rigen a cada uno de los Sindicatos;
+
+IV. Los Estatutos que rigen a la Federación o Confederación;
+
+V. El acta de la sesión en que se haya designado el Comité Ejecutivo de cada uno de los Sindicatos, o copia autorizada de ella;
+
+VI. El acta de la sesión en la que se haya designado el Comité Ejecutivo de la Federación o confederación, o copia autorizada de ella; y,
+
+VII. La lista de los miembros de que se componga cada Sindicato, con expresión del estado civil, edad, empleo que desempeña y sueldo que perciba.
+
+###### ARTICULO 69.
+
+El registro de la Federación Estatal se cancelará solamente por disolución o separación de la mayoría de los Sindicatos que lo integran.
+
+### CAPITULO XIV. DE LA HUELGA
+
+###### ARTICULO 70.
+
+Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en los términos que esta Ley establece.
+
+###### ARTICULO 71.
+
+La huelga deberá tener por objeto:
+
+I. Obtener del Poder o entidad correspondiente, la fijación de las condiciones generales de trabajo;
+
+II. Exigir su revisión al término de su vigencia que señala el artículo 42 de esta Ley;
+
+III. Exigir de la autoridad que corresponda el cumplimiento de las condiciones generales de trabajo; y,
+
+IV. Exigir la revisión de los salarios anualmente.
+
+###### ARTICULO 72.
+
+Para suspender los trabajos se requiere:
+
+I. Que la huelga tenga por objeto alguno o algunos de los que señala el artículo anterior;
+
+II. Que la suspensión se realice por la mayoría de los trabajadores del Poder o entidad que corresponda; y,
+
+III. Que se cumplan previamente los requisitos señalados en el artículo siguiente.
+
+###### ARTICULO 73.
+
+Los trabajadores deberán presentar ante el Tribunal de Conciliación y Arbitraje su pliego de peticiones, con la copia del acta de la asamblea en que se haya acordado declarar la huelga y señalarán el día y la hora en que se suspenderán las labores si no son satisfechas, indicando el objeto de la misma y el aviso para la suspensión deberá darse por lo menos con diez días de anticipación.
+
+###### ARTICULO 74.
+
+El Tribunal de Conciliación y Arbitraje una vez recibido el pliego de peticiones y sus anexos, correrá traslado con la documentación al funcionario de quien dependa la concesión de las peticiones, para que resuelva en el término de 72 horas.
+
+###### ARTICULO 75.
+
+El Tribunal de Conciliación y Arbitraje hecho el emplazamiento citará a las partes a una audiencia de conciliación en la que procurará avenirlas, sin hacer declaración que prejuzgue sobre la existencia o inexistencia, justificación o injustificación de la huelga. La conciliación se ajustará a las normas previstas en la legislación aplicables supletoriamente según lo dispone el artículo 6o. de esta Ley.
+
+###### ARTICULO 76.
+
+La huelga es legalmente inexistente cuando:
+
+I. La suspensión del trabajo se realiza por un número de trabajadores menor del fijado en el artículo 72 fracción II;
+
+II. No ha tenido por objeto alguno de los establecidos en el artículo 71; y,
+
+III. No se cumplieron los requisitos señalados en el artículo 73.
+
+El Tribunal de Conciliación y Arbitraje no podrá decretar la inexistencia de una huelga por causas distintas a las señaladas en las fracciones anteriores.
+
+###### ARTICULO 77.
+
+Si el Tribunal de Conciliación y Arbitraje declara la inexistencia legal del estado de huelga, fijará a los trabajadores un plazo de 24 horas para que reanuden las labores, apercibiéndolos que si no lo hacen quedarán cesados sin responsabilidad para el Poder o Institución y declarará que los funcionarios de las entidades afectadas no han incurrido en responsabilidad.
+
+###### ARTICULO 78.
+
+Solamente se cubrirán salarios caídos a los trabajadores, cuando una huelga sea declarada legal y existente y haya satisfecho los requisitos anteriores.
+
+###### ARTICULO 79.
+
+La huelga será declarada ilícita cuando la mayoría de los huelguistas ejecuten actos violentos en contra de las personas o las propiedades, o cuando se decrete en los casos del artículo 29 de la Constitución General de la República.
+
+###### ARTICULO 80.
+
+En tanto que no se declare ilícita, inexistente o determinado un estado de huelga, el Tribunal y las autoridades civiles y militares deberán respetar el derecho que ejerciten los trabajadores, dándoles las garantías y prestándoles el auxilio que soliciten.
+
+###### ARTICULO 81.
+
+La huelga terminará:
+
+I. por avenencia entre las partes en conflicto;
+
+II. Por resolución de la asamblea de trabajadores tomada por acuerdo de la mayoría de los miembros;
+
+III. Por declaración de ilicitud o inexistencia; y,
+
+IV. Por laudo de la persona o tribunal que, a solicitud de las partes y con la conformidad de éstas se avoque al conocimiento del asunto.
+
+### CAPITULO XV. DE LOS RIESGOS DE TRABAJO Y ENFERMEDADES NO PROFESIONALES
+
+###### ARTICULO 82.
+
+Los riesgos profesionales que sufran los trabajadores se regirán por las disposiciones de la Ley del Instituto Mexicano del Seguro Social o de algún otro ordenamiento que regule a la institución de seguridad social con quien la entidad respectiva hubiere contratado.
+
+###### ARTICULO 83.
+
+Los trabajadores que sufran enfermedades no profesionales, tendrán derecho a que se les conceda incapacidad para dejar de concurrir a sus labores, previo dictamen y la consecuente vigilancia médica, a cargo de las instituciones de Seguridad Social con quienes la entidad respectiva hubiere contratado, para lo cual deberán de presentar el documento comprobatorio que se les expida ante la oficina de personal correspondiente.
+
+### CAPITULO XVI. DE LA PRESCRIPCION
+
+###### ARTICULO 84.
+
+Las acciones que nazcan de esta Ley, del nombramiento otorgado en favor de los trabajadores y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, con excepción de los casos previstos en los artículos siguientes.
+
+###### ARTICULO 85.
+
+Prescriben:
+
+I. En un mes:
+
+a) Las acciones de la autoridad para pedir la nulidad de un nombramiento, cuando el trabajador no reúna los requisitos necesarios para un empleo o cargo de que se trate, o no demuestre en forma fehaciente tener la capacidad o aptitud que para el cargo se requiera; y,
+
+b) Las acciones de los trabajadores para ejercitar el derecho a ocupar la plaza que haya dejado por accidente o por enfermedad, contado el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
+
+II. En dos meses:
+
+a) En caso de despido o suspensión injustificadas, las acciones para exigir la reinstalación en su trabajo, contados a partir del momento en que sea notificado el trabajador, del despido o suspensión;
+
+b) En supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida; y,
+
+c) La facultad de los funcionarios para suspender, cesar o disciplinar a sus trabajadores, contado el término desde que sean conocidas las causas.
+
+###### ARTICULO 86.
+
+Prescriben en dos años:
+
+I. Las acciones de los trabajadores para reclamar el pago de indemnizaciones por riesgos de trabajo; y,
+
+II. Las acciones de los beneficiarios en los casos de muerte por riesgo de trabajo.
+
+###### ARTICULO 87.
+
+La prescripción no puede comenzar ni correr:
+
+I. Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley;
+
+II. Contra los trabajadores incorporados al servicio militar en tiempo de guerra; y,
+
+III. Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada.
+
+###### ARTICULO 88.
+
+La prescripción se interrumpe:
+
+I. Por la sola presentación de la demanda respectiva ante el Tribunal de Conciliación y Arbitraje; y,
+
+II. Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquella contra quien prescribe, por escrito o por hechos indudables.
+
+###### ARTICULO 89.
+
+Para los efectos de la prescripción los meses se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
+
+### CAPITULO XVII. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DEL PROCEDIMIENTO ANTE EL MISMO
+
+###### ARTICULO 90.
+
+El Tribunal de Conciliación y Arbitraje será colegiado y lo integrarán un representante del Gobierno Estatal que será designado por éste, un representante de los trabajadores al servicio del Estado y los Municipios y un árbitro que nombrarán los dos representantes citados. Este último fungirá como presidente y no deberá ser funcionario de las entidades o Poderes señalados en el Artículo 1o. de esta Ley.
+
+Por cada miembro propietario se elegirá un suplente.
+
+###### ARTICULO 91.
+
+Para la designación de nuevos miembros por vacancia se seguirá el procedimiento indicado en el artículo anterior.
+
+Las faltas temporales del Presidente y demás representantes del Tribunal serán cubiertas por los suplentes respectivos.
+
+###### ARTICULO 92.
+
+El Presidente del Tribunal durará en su cargo 3 años y disfrutará de los emolumentos que fije el Presupuesto de Egresos.
+
+###### ARTICULO 93.
+
+Para ser miembro del Tribunal de Conciliación y Arbitraje, se requiere:
+
+I. Ser mexicano en pleno goce de sus derechos civiles;
+
+II. Ser mayor de veinticinco años; y,
+
+III. No haber sido condenado por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencioales (sic).
+
+El Presidente deberá ser Licenciado en Derecho. El representante de los Trabajadores deberá haber servido al Estado como empleado de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
+
+###### ARTICULO 94.
+
+El Tribunal contará con un Secretario de Acuerdos, Actuarios y el personal que sea necesario. Los empleados del Tribunal estarán sujetos a la presente Ley; pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las autoridades locales del trabajo. El Secretario deberá ser Licenciado o Pasante en Derecho.
+
+###### ARTICULO 95.
+
+El Tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley. Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado consignándose en el Presupuesto de Egresos del mismo.
+
+###### ARTICULO 96.
+
+El Tribunal de Conciliación y Arbitraje será competente para:
+
+I. Conocer de los conflictos individuales que se susciten entre los titulares de las dependencias y sus trabajadores;
+
+II. Conocer de los conflictos colectivos que surjan entre las instituciones y los trabajadores a su servicio;
+
+III. Conocer el registro de los sindicatos, federaciones o confederaciones o, en su caso, dictar la cancelación del mismo;
+
+IV. Conocer de los conflictos sindicales e intersindicales; y,
+
+V. Efectuar el registro de las condiciones generales de trabajo.
+
+###### ARTICULO 97.
+
+Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos del Tribunal para que se proceda al arbitraje de conformidad con el procedimiento que establece este capítulo.
+
+###### ARTICULO 98.
+
+En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere forma o solemnidad especial en la promoción o intervención de las partes.
+
+###### ARTICULO 99.
+
+El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje consistirá en la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; contestación que se hará en igual forma; una sola audiencia en la que se recibirán, las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del Tribunal se requiera la práctica de otras diligencias en cuyo caso se ordenará que se lleven a cabo y, una vez desahogadas, se dictará el laudo.
+
+###### ARTICULO 100.
+
+Las audiencias estarán a cargo del Secretario de acuerdos del Tribunal, quien someterá al conocimiento del Tribunal todas las cuestiones que en ellas se susciten.
+
+Los acuerdos se tomarán con la asistencia del Presidente o su suplente y cuando menos un representante, sumándose el voto del ausente al del Presidente.
+
+###### ARTICULO 101.
+
+La demanda deberá contener:
+
+I. El nombre y domicilio del reclamante;
+
+II. El nombre y domicilio del demandado;
+
+III. Una relación de los hechos; y,
+
+IV. La indicación del lugar en que pueden obtenerse las pruebas que el reclamante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que se funde su demanda, y las diligencias cuya práctica solicite con el mismo fin.
+
+A la demanda acompañará las pruebas de que disponga y los documentos que acrediten la personalidad de su representante si no concurre personalmente.
+
+###### Artículo 102.
+
+La contestación de la demanda se presentará en un término que no exceda de cinco días contados a partir del siguiente de la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
+
+Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal se ampliará el término en un día más por cada 100 Kms. de distancia o fracción que exceda de la mitad.
+
+###### ARTICULO 103.
+
+El Tribunal, tan luego como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, y en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
+
+###### ARTICULO 104.
+
+El día y hora de la audiencia se abrirá el período de ofrecimiento y recepción de pruebas; el Tribunal calificará las mismas, admitiendo las que estime pertinentes y desechando aquellas que no resulten notoriamente inconducentes contrarias a la Ley o a las buenas costumbres o que no tengan relación con la litis. Acto continuo señalará el orden de su desahogo, primero, las del actor y después las del demandado en la forma y términos que el Tribunal estime oportuno tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
+
+###### ARTICULO 105.
+
+En la audiencia se aceptarán las pruebas ofrecidas en ella o con anterioridad a la misma.
+
+###### ARTICULO 106.
+
+Los trabajadores podrán comparecer por sí o por representantes acreditados mediante simple carta poder.
+
+Los titulares podrán hacerse representar por apoderados que acrediten ese carácter mediante simple oficio.
+
+###### ARTICULO 107.
+
+Las partes podrán hacerse acompañar de los asesores que a su interés convenga, los que se limitarán a aconsejarles sin intervención en el juicio.
+
+###### ARTICULO 108.
+
+Cuando el demandado no conteste la demanda dentro del término concedido se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
+
+###### ARTICULO 109.
+
+El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
+
+###### ARTICULO 110.
+
+Antes de pronunciarse el laudo los integrantes del Tribunal podrán solicitar mayor información para mejor proveer en cuyo caso acordarán la práctica de las diligencias necesarias.
+
+###### ARTICULO 111.
+
+Si de la demanda o durante la secuela del procedimiento, resulta, a juicio del Tribunal, su incompetencia, lo declarará de oficio o a petición de parte.
+
+###### ARTICULO 112.
+
+Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. El Tribunal, de oficio o a petición de parte, una vez transcurrido este término declarará la caducidad. No operará la caducidad si está pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia o la recepción de informes o copias que se hubieren solicitado.
+
+###### ARTICULO 113.
+
+Las cuestiones que se susciten sobre personalidad de las partes o personería de sus representantes, competencia del Tribunal o nulidad de actuaciones, se terminará en la vía incidental y serán resueltas de plano.
+
+###### Artículo 114.
+
+Cualquier término no especificado en esta Ley, será de tres días. En ningún término se contarán los días inhábiles que señale el Calendario Oficial del Estado.
+
+###### ARTICULO 115.
+
+El Tribunal sancionará las faltas de respeto que cometan las partes o quienes intervengan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de un día de salario mínimo general para la Ciudad de Morelia.
+
+###### ARTICULO 116.
+
+El Tribunal de Conciliación y Arbitraje no podrá condenar al pago de costas.
+
+###### ARTICULO 117.
+
+Los miembros del Tribunal de Conciliación y Arbitraje no podrán ser recusados pero deberán de excusarse de conocer de los juicios en que intervengan, en los casos en que los una parentesco consanguíneo hasta el tercer grado en línea recta, o colateral hasta el cuarto grado con alguna de las partes, debiendo entrar en funciones el suplente.
+
+###### ARTICULO 118.
+
+Las autoridades estatales y municipales están obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar sus resoluciones cuando fueren requeridas para ello. En caso de incumplimiento se dará cuenta al superior jerárquico.
+
+###### ARTICULO 119.
+
+Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje no admitirán recurso y deberán ser cumplidas por las autoridades correspondientes.
+
+Pronunciado el laudo, el Tribunal lo notificará a las partes personalmente.
+
+###### ARTICULO 120.
+
+El Tribunal de Conciliación y Arbitraje deberá proveer a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio sean conducentes.
+
+###### ARTICULO 121.
+
+Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un actuario para que asociado en la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla el mismo, apercibiéndola que, de no hacerlo, se procederá a realizar la diligencia de embargo correspondiente, sujetándose ésta y el procedimiento de remate de los bienes a lo que establece la Ley Federal del Trabajo, aplicada supletoriamente.
+
+###### ARTICULO 122.
+
+En todo lo concerniente al procedimiento que no esté expresamente previsto en esta Ley, se estará a lo dispuesto en el artículo 8o. de este propio ordenamiento.
+
+T R A N S I T O R I O S
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes Ejecutivo, Legislativo y Judicial, contenido en el Decreto número 97 de fecha 29 de enero de 1940, publicado en el Periódico Oficial del Estado No. 6, Segunda Sección de fecha 22 de febrero del año que se cita.
+
+TERCERO. Se concede un término hasta el 31 de diciembre de 1983, para que se fijen las condiciones generales de trabajo a que se refiere el artículo 42 de esta Ley y se expida el reglamento de escalafón.
+
+CUARTO. En el caso del artículo 34, el monto del aguinaldo para los trabajadores municipales será determinado de acuerdo a las circunstancias económicas del Ayuntamiento, pero en ningún caso será menor de 30 días y será aplicable a partir del 1°. de enero de 1984.
+
+QUINTO. Se concede el plazo de un año a las entidades para que contraten con las instituciones de seguridad social la prestación de los servicios Médico Asistenciales que la propia Ley ordena.
+
+El Ejecutivo del Estado dispondrá se publique y observe.
+
+PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 30 de junio de 1983.
+
+DIPUTADA PRESIDENTA.- MARIA HERMINIA YOLANDA MOLINA CORTES.- DIPUTADO SECRETARIO.- LIC. JERJES AGUIRRE AVELLANEDA.- DIPUTADO SECRETARIO.- RAUL TOVAR ORTIZ.- (Firmados).
+
+En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia Michoacán, a los 21 veintiún días del mes de julio de 1983 mil novecientos ochenta y tres.- Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Dr. Roberto Robles Garnica.- (Firmados).
