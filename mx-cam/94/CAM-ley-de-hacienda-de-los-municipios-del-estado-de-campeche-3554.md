@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1997-01-15"
+last_updated: "1998-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -43,9 +43,11 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
 ### CAPITULO UNICO. PRINCIPIOS GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 1.
 
-La Hacienda Pública de los Municipios del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos e ingresos extraordinarios así como las participaciones que oportunamente el propio Congreso del Estado determine a su favor.
+La Hacienda Pública de los Municipios del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios así como participaciones y fondos de aportaciones federales que autorice la Ley de Ingresos que anualmente apruebe el Congreso del Estado.
 
 ###### ARTICULO 2.
 
@@ -115,9 +117,11 @@ La representación y defensa de los derechos de la Hacienda Pública Municipal c
 
 Contra las resoluciones dictadas en materia fiscal por las autoridades municipales, procede la interposición de los medios de defensa que establece el Código Fiscal del Estado aplicado supletoriamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 14.
 
-Las Leyes de Ingresos de los Municipios del Estado de Campeche establecerán anualmente los impuestos, derechos, productos, aprovechamientos e ingresos extraordinarios que deban recaudarse.
+Las Leyes de Ingresos de los Municipios del Estado de Campeche establecerán anualmente los impuestos, derechos, productos, aprovechamientos e ingresos extraordinarios que deban recaudarse, así como las participaciones y los Fondos de Aportaciones Federales que deban corresponderles.
 
 Ningún gravamen podrá recaudarse si no está previsto por las correspondientes Leyes.
 
@@ -133,9 +137,9 @@ Para los efectos de esta ley, en aquellos casos en que la tarifa aparezca clasif
 
 2.- Carmen; y
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
 
-3.- Calakmul, Calkiní, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
+3.- Calakmul, Calkiní, Candelaria, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
 
 ###### ARTICULO 17.
 
@@ -353,33 +357,35 @@ Tienen obligación los adjudicantes de vehículos de motor, de endosar la factur
 
 Causan este impuesto los giros que a continuación se indican en la siguiente:
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
 T A R I F A
 
-GRUPO 1 GRUPO 2 GRUPO 3
+GRUPOS 1, 2 y 3
 
 I.- Box y lucha libre, sobre ingresos brutos
 
-4.00% 4.00% 4.00%
+8.00%
 
 II.- Circos y carpas ambulantes, sobre ingresos brutos
 
-4.00% 4.00% 4.00%
+8.00%
 
 III.- Corridas de toros, sobre ingresos brutos
 
-4.00% 4.00% 4.00%
+8.00%
 
 IV.- Cinematógrafos y teatros permanentes, sobre ingresos brutos
 
-4.00% 4.00% 4.00%
+8.00%
 
 V.- Otros espectáculos deportivos, sobre ingresos brutos
 
-4.00% 4.00% 4.00%
+8.00%
 
 VI.- Otros espectáculos no especificados, sobre ingresos brutos
 
-4.00% 4.00% 4.00%
+8.00%
 
 #### SECCION CUARTA. DE LA TASA
 
@@ -1193,17 +1199,23 @@ Es objeto de este derecho la autorización de rotura de pavimento, el cual se ca
 
 #### SECCION SEPTIMA. POR LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 105 A.- Las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad, en la vía pública o visibles desde la vía pública, requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
+ARTICULO 105 A.- Las personas físicas o morales tenedoras, usuarias o beneficiarias de anuncios, carteles o publicidad, en la vía pública o visibles desde la vía pública, o en vehículos de servicio público de pasajeros, así como por difusión fonética, previamente a su autorización requerirán de licencias, permisos o autorizaciones para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 105 B.- La base para el pago de derechos, será por metro cuadrado, tratándose de anuncios o carteles de pared o adosados al piso o azotea; por hora y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicio público de pasajeros, los cuales se causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+ARTICULO 105 B.- La base para el pago de derechos, por las licencias, permisos o autorizaciones, será por metro cuadrado, tratándose de anuncios o carteles de pared o adosados al piso o azotea; así como de mantas atravesando calles o banquetas que sean aseguradas a fachadas, árboles o postes; por hora y unidad de sonido cuando se trate de difusión fonética y por anuncio en los casos de vehículos de servicios públicos de pasajeros, los cuales se causarán y pagarán de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 T A R I F A
 
-GRUPOS 1 2 3
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
+GRUPOS 1, 2 y 3
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 I.- De pared, adosados al piso o azotea
 
@@ -1223,11 +1235,19 @@ G.- Bancas y cobertizos publicitarios 2.00
 
 H.- Torre tipo directorio dentro de centros comerciales EXENTO
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
+I.- Mantas atravesando calles o banquetas, o fijadas a árboles o postes 3.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
 II.- Por cada anuncio colocado en vehículos de servicio público de pasajeros de ruta fija, urbano, suburbano y foráneo.
 
 A.- En el exterior del vehículo 2.00
 
 B.- En el interior de la unidad 1.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 III.- Por difusión fonética de publicidad en la vía pública por hora y por unidad de sonido 1.00
 
@@ -1235,9 +1255,13 @@ III.- Por difusión fonética de publicidad en la vía pública por hora y por u
 
 ARTICULO 105 C.- Serán responsables solidarios los propietarios de los predios o fincas en donde se fijen los anuncios o carteles o se lleve a cabo la publicidad. También serán responsables solidarios las personas físicas o morales que fijen los anuncios o lleven a cabo la publicidad.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 105 D.- Las licencias, permisos o autorizaciones a que se refiere esta Sección deberán ser refrendadas anualmente dentro del primer trimestre de cada año; causándose en un 80% los derechos que establece la tarifa del artículo 105 B.
+ARTICULO 105 D.- Por las licencias, permisos o autorizaciones que excedan de seis meses, se causará un 50% más de lo señalado en la tarifa del artículo 105-B.
+
+Las licencias, permisos o autorizaciones a que se refiere esta sección séptima tendrán validez dentro del año fiscal en que se otorguen, por lo que en su caso, los interesados deberán obtener nueva licencia, permiso o autorización dentro del primer mes del año siguiente.
+
+Al término de la vigencia, permiso o autorización, los anuncios deberán ser retirados o despintados, según sus características, salvo que se obtenga nueva licencia.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1245,7 +1269,9 @@ ARTICULO 105 E.- No se causarán estos derechos cuando se trate de la siguiente 
 
 I.- La que se realice por medio de televisión, radio, periódicos o revistas;
 
-II.- Por anuncios que correspondan a nombres, denominaciones o razones sociales, colocados en las fachadas de las fincas o establecimientos donde se encuentre ubicado el negocio; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
+II.- Por los anuncios que correspondan a nombre, denominación o razón social del negocio, colocados en las fachadas de las fincas o establecimientos del mismo; y
 
 III.- Las que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficiencia (sic) públicas; las iglesias y las de carácter cultural.
 
@@ -1790,3 +1816,19 @@ P.O. 15 DE ENERO DE 1997.
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 16 DE DICIEMBRE DE 1998.
+
+DECRETO No. 113
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, con efectos retroactivos al día 20 de octubre de mil novecientos noventa y ocho.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 1998.
+
+DECRETO No. 117
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 1999.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
