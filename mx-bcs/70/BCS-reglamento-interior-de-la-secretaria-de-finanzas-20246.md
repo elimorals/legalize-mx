@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-20246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-10"
-last_updated: "2001-02-10"
+last_updated: "2001-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 2001.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de febrero de 2001.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS.
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN
 
-###### ARTÍCULO 1.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2001)</small>
 
-La Secretaría de Finanzas, como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Constitución Política del Estado de Baja California Sur, la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, la Ley de Deuda Pública del Estado y Municipios de Baja California Sur, la Ley del Presupuesto y Control del Gasto Público Estatal, la Ley de Adquisiciones y Obras Públicas, la Ley de Catastro para los Municipios de Baja California Sur, la Ley de Adquisiciones Arrendamientos y Prestaciones de Servicios Relacionados con Bienes Muebles de Gobierno del Estado de Baja California Sur, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, la Ley de Fomento Económico de Estado de Baja California Sur, la Ley de Hacienda del Estado de Baja California Sur, El Código Fiscal para Estado y Municipios de Baja California Sur, la Ley de Coordinación Fiscal del Estado de Baja California Sur, los convenios que en materia fiscal celebre el Estado con la Federación o con los Municipios, así como otras Leyes, Reglamentos, Decretos, Acuerdos y Órdenes del Ejecutivo del Estado.
+###### ARTÍCULO 1°.
+
+La Secretaría de Finanzas, como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Constitución Política del Estado de Baja California Sur, la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, la Ley de Deuda Pública del Estado y Municipios de Baja California Sur, la Ley del Presupuesto y Control del Gasto Público Estatal, la Ley de Adquisiciones y Obras Públicas, la Ley de Adquisiciones Arrendamientos y Prestaciones de Servicios Relacionados con Bienes Muebles del Gobierno del Estado de Baja California Sur, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, la Ley de Fomento Económico del Estado de Baja California Sur, la Ley de Hacienda del Estado de Baja California Sur, el Código Fiscal para el Estado y Municipios de Baja California Sur, la Ley de Coordinación Fiscal Federal y los convenios que en materia fiscal celebre el Estado con la Federación o con los Municipios, así como otras Leyes, Reglamentos, Decretos, Acuerdos y Ordenes del Ejecutivo del Estado.
 
 ###### ARTÍCULO 2.
 
@@ -237,7 +239,9 @@ IX. Tramitar y resolver las solicitudes sobre la dispensa del otorgamiento de ga
 
 X. Celebrar y autorizar convenios con los contribuyentes para cubrir a plazos, ya sea diferido o en parcialidades los créditos fiscales derivados de los Convenios de Coordinación Fiscal y de Colaboración Administrativa en Materia Fiscal Federal, así como de contribuciones y aprovechamientos estatales, previa garantía del interés fiscal, con sujeción a lo establecido en las diversas disposiciones fiscales, en las políticas de la Secretaría de Finanzas y en los citados convenios;
 
-XI. Calificar para su aceptación, las garantías que deben otorgarse a favor del Gobierno Estatal con motivo de créditos fiscales estatales o las derivadas de los convenios a que alude la fracción anterior, incluyendo las provenientes de obras públicas que realice el Estado, excepto las que deba calificar la autoridad judicial;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XI. Calificar para su aceptación, las garantías que deben otorgarse a favor del Gobierno Estatal con motivo de créditos fiscales estatales o las derivadas de los convenios a que alude la fracción anterior, excepto las provenientes de obras públicas que realice el Estado y las que deba calificar la autoridad judicial;
 
 XII. Hacer efectivas las garantías que hayan sido otorgadas en los términos de las dos fracciones anteriores, efectuando los mandamientos de ejecución, requerimientos de pago de las fianzas y demás garantías; así como cancelarlas cuando proceda, con excepción de las fianzas provenientes de contratos de obras públicas y de las autoridades judiciales, en cuyo caso el requerimiento de pago estará a cargo de la Unidad Jurídica Fiscal;
 
@@ -259,15 +263,21 @@ XX. Formular y proponer alternativas de política de ingresos, analizar su impac
 
 XXI. Crear conciencia en los contribuyentes para el mejor cumplimiento de sus obligaciones fiscales, sugiriendo la adopción y establecimiento de medidas de control;
 
-XXII. Solicitar a las dependencias federales, estatales o municipales y terceros relacionados con los contribuyentes, los informes y datos necesarios para controlar el cumplimiento de las obligaciones fiscales;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
 
-XXIII. Informar al Secretario de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales federales y estatales, de que conozca con motivo de sus atribuciones; así como colaborar con la Unidad Jurídica Fiscal en la investigación de esos hechos, proporcionándole los datos, informes, elementos y documentos necesarios para que proceda a elaborar la denuncia respectiva;
+XXXII. Formar parte del Comité que para efectos de recibir bienes como dación en pago se integre por la Unidad Jurídica Fiscal, Dirección de Auditoria, Unidad de Desarrollo Administrativo y Control Gubernamental, la Dirección de Contabilidad y Oficialía Mayor;
+
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XXXIII. Emitir dictamen sobre la viabilidad de aceptar bienes ofrecidos por el contribuyente como dación en pago, determinando si resulta menos costoso para el Estado este procedimiento o bien el procedimiento administrativo de ejecución para cubrir el crédito fiscal y hacerlo del conocimiento del Comité a que alude la fracción anterior en un plazo que no excederá de diez días, a partir de que reciba el expediente debidamente integrado;
 
 XXIV. Analizar los diversos aspectos relacionados con la Ley de Coordinación Fiscal y sus anexos, y su repercusión en el Estado en lo económico y en lo administrativo;
 
 XXV. Analizar y estudiar la fórmula para determinar factores de distribución de participaciones federales;
 
-XXVI. Informar y difundir por los medios de comunicación, las disposiciones fiscales federales y estatales destinadas a los contribuyentes que permitan orientar y mejorar el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XXXVI. Ordenar y practicar visitas domiciliarias a fin de verificar el cumplimiento de las obligaciones en materia de inscripción al Registro Estatal y Federal en su caso de Contribuyentes; Así como realizar todos los actos tendientes a comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes en materia de impuestos estatales y en materia federal, en los términos de los Convenios de Coordinación Fiscal y Colaboración Administrativa en Materia Fiscal Federal celebrados entre el Gobierno Federal y el Gobierno del Estado; así como expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de estas visitas domiciliarias o verificaciones;
 
 XXVII. Ordenar y practicar las notificaciones de las resoluciones administrativas que dicte, así como las que emitan la Dirección de Auditoría Fiscal y otras unidades administrativas fiscales de la Secretaría de Finanzas que sean susceptibles de impugnarse;
 
@@ -387,11 +397,11 @@ X. Tramitar la reposición de fondos revolventes, así como sus incrementos de a
 
 XI. Efectuar la programación de los egresos del Gobierno del Estado, tanto de gasto corriente como de inversión;
 
-XII. Formar parte del Comité que para efectos de recibir bienes como dación en pago, se integre por la Unidad Jurídica Fiscal, Dirección de Ingresos, Unidad de Desarrollo Administrativo y Control Gubernamental, Caja General y Dirección de Política Presupuestal;
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE FECHA 10 DE ABRIL DE 2001, QUE REFORMA ESTE REGLAMENTO, SE DEROGAN LAS FRACCION XII Y XIII, RECORRIENDOSE EN SU ORDEN LA FRACCION XIV.</small>
 
-XIII. Emitir dictamen sobre la factibilidad de asignar los bienes ofrecidos como dación en pago por los contribuyentes a las diferentes dependencias del Estado y hacerlo del conocimiento de la Unidad Jurídica Fiscal en un plazo que no excederá de diez días, a partir de que reciba el expediente debidamente integrado; y
+> <small>(F. DE E., B.O. 30 DE ABRIL DE 2001)</small>
 
-XIV. Las demás que le confieran las disposiciones legales aplicables, así como la que le asigne el Secretario o el Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
+XII. Las demás que le confieran las disposiciones legales aplicables, así como la que le asigne el Secretario del Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 16.
 
@@ -445,17 +455,31 @@ IX. Proporcionar a las entidades del Gobierno del Estado, asesoría y asistencia
 
 X. Desarrollar e implementar las normas de contabilidad, lineamientos y procedimientos del sistema de contabilidad, así como emitir instrucciones sobre rendición de cuenta pública comprobada y de procedimientos administrativos de los recursos descentralizados y los estatales, en coordinación con las Direcciones de la Secretaría y la Coordinación Administrativa y Financiera; y
 
-XI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asignen el Secretario o el Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XI. Formar parte del Comité que para efectos de recibir bienes como dación en pago, se integre por la Unidad Jurídica Fiscal, Dirección de Auditoria Fiscal, Dirección de Ingresos, Unidad de Desarrollo Administrativo y Control Gubernamental y Oficialía Mayor;
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XII. Llevar el control contable de los bienes aceptados por el Comité para recibir bienes como dación en pago, que hayan sido asignados a las diferentes dependencias del Estado; y
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XIII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asignen el Secretario o el Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 2001)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección de Auditoría Fiscal tendrá las siguientes facultades específicas:
+La Dirección de Auditoria Fiscal tendrá las siguientes facultades:
 
 I. Participar en la definición de la política fiscal del Gobierno del Estado;
 
 II. Controlar y evaluar la selección y programación de visitas domiciliarias, de auditoría, inspecciones, revisiones y verificaciones, así como recabar la información técnica administrativa correspondiente;
 
-III. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, revisiones y verificaciones; así como realizar todos los actos tendientes a comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, en los términos de los convenios de coordinación fiscal y colaboración administrativa en materia fiscal federal celebrados entre el Gobierno Federal y el Gobierno del Estado; ordenar y practicar las verificaciones a vehículos en circulación de procedencia extranjera en el país; así como expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes, previo acuerdo del Secretario o del Subsecretario en su caso;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+III. Ordenar y practicar visitas domiciliarias, auditorias, inspecciones, revisiones y verificaciones; así como realizar todos los actos tendientes a comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en los términos de los convenios de coordinación fiscal y colaboración administrativa en materia fiscal federal celebrados entre el Gobierno Federal y el Gobierno del Estado; ordenar y practicar las verificaciones a vehículos en circulación de procedencia extranjera dentro del territorio del Estado; así como expedir las credenciales o constancias de identificación del personal que se autorice para la practica de las visitas domiciliarias, auditorias, inspecciones o verificaciones correspondientes;
 
 IV. Determinar en cantidad líquida los créditos derivados de las revisiones fiscales practicadas, emitir las resoluciones correspondientes e imponer multas por las infracciones a las disposiciones fiscales que rijan en materia de su competencia;
 
@@ -473,7 +497,9 @@ X. Obtener copias de la contabilidad y demás papeles relacionados con el cumpli
 
 XI. Clausurar, preventivamente, mediante sellos oficiales, los escritorios, archiveros y, en general, el local donde se encuentre la contabilidad, para su aseguramiento conforme a las leyes respectivas;
 
-XII. Habilitar los días y horas inhábiles para la práctica de visitas domiciliarias y las actuaciones administrativas que de ella se deriven;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XII. Habilitar los días y horas inhábiles para la práctica del ejercicio de las facultades de comprobación;
 
 XIII. Autorizar a los Contadores Públicos para formular dictámenes sobre las obligaciones fiscales estatales; llevar el registro y control de dichos Contadores, revisar que los mencionados dictámenes reúnan los requisitos establecidos en las disposiciones fiscales; amonestar o suspender a los propios profesionistas y cancelar en los casos que procedan el registro correspondiente;
 
@@ -491,11 +517,17 @@ XIX. Solicitar a los contadores públicos autorizados que hayan formulado dictá
 
 XX. Fincar responsabilidad solidaria, en los casos que proceda de conformidad con la ley aplicable;
 
-XXI. Formar parte del Comité que para efectos de recibir bienes como dación en pago, se integre por la Unidad Jurídica Fiscal, Dirección de Ingresos, Unidad de Desarrollo Administrativo y Control Gubernamental, Caja General y Dirección de Política Presupuestal;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
 
-XXII. Emitir dictamen sobre la solvencia y liquidez del contribuyente; así como si la dación es la única manera de cubrir el crédito fiscal y hacerlo del conocimiento de la Unidad Jurídica Fiscal en un plazo que no excederá de diez días, a partir de que reciba el expediente debidamente integrado;
+XXI. Formar parte del comité que para efectos de recibir bienes como dación en pago, se integre por la Unidad Jurídica Fiscal, Dirección de Ingresos, Unidad de Desarrollo Administrativo y Control Gubernamental, la Dirección de Contabilidad y Oficialía Mayor;
 
-XXIII. Emitir y notificar los oficios mediante los cuales se prorroguen los plazos para concluir las visitas desarrolladas en los domicilios fiscales de los contribuyentes o las revisiones de la contabilidad que de los mismos se efectúe; y
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XXII. Emitir dictamen sobre la solvencia y liquidez del contribuyente; así como si la dación es la única manera de cubrir el crédito fiscal y hacerlo del conocimiento del Comité a que alude la fracción anterior en un plazo que no excederá de diez días, a partir de que reciba el expediente debidamente integrado;
+
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XXIII. Emitir y notificar los oficios mediante los cuales se amplíen o prorroguen los plazos para concluir las visitas domiciliarias o las revisiones efectuadas en el domicilio de la autoridad, en los términos de las disposiciones legales aplicables; y
 
 XXIV. Las demás que le confieran las disposiciones legales aplicables, así como el Secretario y el Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
 
@@ -513,9 +545,11 @@ c) Programación y Revisiones Ágiles.
 
 #### SECCIÓN 1. DE LA UNIDAD JURÍDICA FISCAL
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 2001)</small>
+
 ###### ARTÍCULO 20.
 
-A la Unidad Jurídica Fiscal le corresponde realizar las siguientes funciones:
+A la Unidad Jurídica Fiscal le corresponde realizar las siguientes facultades:
 
 I. Participar en la definición de la política fiscal del Gobierno del Estado;
 
@@ -527,9 +561,13 @@ IV. Asistir a las reuniones semestrales con las Administraciones Estatales y Loc
 
 V. Resolver los recursos administrativos hechos valer contra actos y resoluciones emitidos por las diversas entidades administrativas de la Secretaría de Finanzas; incluyendo los que deriven de facultades comprendidas en los convenios de coordinación fiscal y colaboración administrativa en materia fiscal federal;
 
-VI. Condonar cuando proceda las multas impuestas por las unidades administrativas del Gobierno del Estado, incluyendo las que deriven de las facultades comprendidas en los convenios citados en la fracción anterior;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
 
-VII. Asumir la defensa en los demás juicios en que intervenga como parte el Estado así como los que se susciten como resultado de los convenios de coordinación fiscal y colaboración administrativa en materia fiscal federal;
+VI. Contestar las demandas formuladas ante la Sala Regional del Tribunal Fiscal de la Federación cuando el Estado intervenga como parte, inclusive las que se susciten con motivo del ejercicio de las facultades delegadas mediante los convenios de coordinación fiscal y colaboración administrativa en materia fiscal federal; así como las que sean consecuencia de actos de fiscalización de contribuciones estatales o de requerimiento de pago de pólizas de fianzas; y, en su caso, interponer ante el mismo Tribunal o ante el Tribunal Superior de Justicia del Estado según corresponda las demandas en contra de los particulares, cuando se lesione al fisco federal y estatal;
+
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+VII. Asumir la defensa en los demás juicios en que intervenga como parte el Estado así como los que se susciten como resultado de los convenios de coordinación fiscal y colaboración administrativa en materia fiscal federal y asumir la representación del Secretario de Finanzas en todos los demás asuntos que sean inminentemente jurídicos;
 
 VIII. Proponer los términos de los informes previos y justificados que se deban rendir en relación con los juicios de amparo interpuestos contra actos de las unidades administrativas de la Secretaría de Finanzas, así como asistirlas cuando tengan el carácter de tercero perjudicado o en la interposición de los recursos que procedan, y designar en estos juicios delegados en las audiencias;
 
@@ -551,11 +589,15 @@ XVI. Requerir a los contribuyentes, responsables solidarios o terceros relaciona
 
 XVII. Coordinarse con otras autoridades del Estado, de los Municipios o de la Federación para el mejor desempeño de sus funciones;
 
-XVIII. Tramitar las solicitudes que presenten los contribuyentes para efectos de recibir bienes como dación en pago, coordinándose con la Dirección de Ingresos, Dirección de Auditoría Fiscal, Unidad de Desarrollo Administrativo y Control Gubernamental, Caja General y Dirección de Política Presupuestal, así como formar parte del Comité que para efectos de la aceptación de dichos bienes se integre con las Unidades Administrativas mencionadas, y en su caso, emitir las resoluciones definitivas que acepten o nieguen la dación en pago propuesta;
+(REFORMADA, B.O. 10 DE ABRIL DE 2001) (F. DE E., B.O. 30 DE ABRIL DE 2001)
+
+XVIII.- Tramitar las solicitudes que presenten los contribuyentes para efectos de recibir bienes como dación en pago, coordinándose con la Dirección de Ingresos, Dirección de Auditoria Fiscal, Unidad de Desarrollo Administrativo y Control Gubernamental, Dirección de Contabilidad, Oficialía Mayor, así como formar parte del Comité que para efectos de la aceptación de dichos bienes se integre con las Unidades Administrativas mencionadas, y en su caso, emitir los proyectos de resoluciones definitivas que acepten o nieguen la dación en pago propuesta;
 
 XIX. Proporcionar previo acuerdo del Secretario, Asesoría Técnica y Capacitación en materia fiscal a los Ayuntamientos, dependencias y entidades del Gobierno Estatal y a las Unidades Administrativas de la propia Secretaría;
 
-XX. Elaborar los requerimientos para hacer efectivas las garantías provenientes de contratos de obra pública y aquellas que se otorguen dentro de un proceso judicial y someterlos a la firma del Secretario;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2001)</small>
+
+XX. Calificar para su aceptación las garantías que deban otorgarse a favor del Gobierno Estatal, con motivo de obras públicas que realice el Estado; así como elaborar los requerimientos para hacer efectivas dichas garantías y aquellas que se otorguen dentro de un proceso judicial, sometiéndolos a la firma del Secretario;
 
 XXI. Asistir a las Direcciones de Auditoría Fiscal y de Ingresos a fin de que en los procedimientos administrativos que lleven a cabo, se cumplan las formalidades previstas en las disposiciones legales, cuando así se lo soliciten;
 
@@ -738,3 +780,11 @@ SECRETARIO GENERAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
 LIC. JOSÉ J. BORGES CONTRERAS.
 
 SECRETARIO DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 10 DE ABRIL DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
