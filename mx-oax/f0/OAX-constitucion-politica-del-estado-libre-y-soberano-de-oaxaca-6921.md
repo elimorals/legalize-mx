@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1994-02-26"
+last_updated: "1994-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -63,9 +63,11 @@ En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre
 
 Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 4°.
 
-Nadie puede ser juzgado por leyes o tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y jueces previamente establecidos por la Ley.
+Nadie debe ser juzgado por leyes privativas ni por tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y tribunales previamente establecidos por la ley.
 
 ###### ARTICULO 5°.
 
@@ -148,6 +150,10 @@ Ningún negocio judicial tendrá más de dos instancias, y el juez que de cualqu
 ###### ARTICULO 11.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JULIO DE 1994)</small>
+
+En todo proceso penal la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera y los demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -259,19 +265,29 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994) (F. DE. E., P.O. 21 DE ENERO DE 1995)
 
 ###### ARTICULO 16.
 
-El Estado de Oaxaca tiene una composición étnica plural sustentada en la presencia de los pueblos indígenas que lo integran.
+El Estado de Oaxaca tiene una composición étnica plural, sustentada en la presencia de los pueblos indígenas que lo integran. Se reconocen y el Estado protegerá las quince lenguas indígenas siguientes: Amuzgo, Cuicateco, Chatino, Chinanteco, Chocholteco, Chontal, Huave, Ixcateco, Mazateco, Mixe, Mixteco, Nahua, Trique, Zapoteco y Zoque.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 La Ley establecerá las normas, medidas y procedimientos que protejan y preserven el acervo cultural de las etnias y promoverá, el desarrollo de las formas específicas de organización social de las comunidades indígenas.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 La Ley castigará el saqueo cultural en el Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 La Ley establecerá los procedimientos que aseguren a los indígenas el acceso efectivo a la protección jurídica que el Estado brinda a todos sus habitantes.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 En los juicios en que un indígena sea parte, las autoridades se asegurarán que de preferencia, los procuradores de justicia y los jueces sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor bilingüe y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 En los conflictos de límites de bienes comunales o municipales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades tradicionales de la región étnica.
 
@@ -523,7 +539,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 ###### ARTICULO 29.
 
@@ -543,7 +559,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -679,9 +695,9 @@ Se reunirá, además, en períodos extraordinarios siempre que sea convocada por
 
 A la apertura del primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal de toda Legislatura Local que tendrá lugar el 16 de septiembre, asistirá el C. Gobernador del Estado. La Legislatura Local, celebrará una sesión solemne el día 30 de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá el Informe sobre el estado que guarda la Administración Pública.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-Si se tratare de un período extraordinario convocado a petición del Ejecutivo, el informe versará sobre las causas que motivaron la convocatoria. En el caso de que ésta se hubiere hecho por la Diputación Permanente, el Gobernador se limitará a comunicar a la Legislatura que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
+El día treinta de octubre de cada año, la misma Legislatura celebrará una sesión solemne en la cual el Gobernador del Estado presentará un informe sobre el estado que guarda la Administración Pública.
 
 ###### ARTICULO 44.
 
@@ -845,7 +861,9 @@ XXII. Convocar a elecciones de Gobernador y Diputados en los períodos constituc
 
 XXIII. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
 
-XXIV. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine la presente Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia. La Legislatura otorgará o negara su ratificación a dichos nombramientos dentro del término improrrogables de diez días. Si no resuelve en dicho lapso se tendrán por ratificados los nombramientos. En el caso de que no los ratifique, el Ejecutivo hará nueva designación y, de ser también rechazada, se efectuará una tercera designación que surtirá efectos inmediatamente, a reserva de obtener la ratificación de la Legislatura en el siguiente período ordinario de sesiones;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+XXIV. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine esta Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia;
 
 XXV. Recibir la protesta de los Diputados, Gobernador y de los demás Servidores Públicos que ella elija o nombre;
 
@@ -879,11 +897,13 @@ XXXVIII. Autorizar la formación de asociaciones o sociedades cooperativas de pr
 
 XXXIX. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
 
-XL. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Servidores Públicos del Estado;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+XL. Expedir leyes que regulen las relaciones de trabajo entre el Estado y sus trabajadores, así como las de los Ayuntamientos del mismo Estado con sus respectivos trabajadores, con base en lo dispuesto en los artículos 115, 116 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
 
 XLI. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
-XLII. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
+XLII. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
 XLIII. Erigirse en Gran Jurado, para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional, por delitos del orden común, y si son o no culpables los propios servidores públicos de los delitos de responsabilidad oficial de que fueren acusados;
 
@@ -1215,9 +1235,7 @@ I. Cuidar del exacto cumplimiento de la Constitución General y de las leyes y d
 
 II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decretos, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
-
-III. Concurrir, el 16 de Septiembre a la apertura del primer período ordinario de sesiones, correspondiente al primer año de ejercicio legal de la Legislatura Local, a la de los extraordinarios que hubieren sido convocados a solicitud de Ejecutivo y a la sesión solemne a que se refiere el artículo 43;
+III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -1565,7 +1583,7 @@ Los Concejales que integren los Ayuntamientos a que se refiere las fracciones an
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1779,7 +1797,9 @@ La educación que imparta el Estado tenderá a desarrollar armónicamente todas 
 
 La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
 
-En las comunidades bilingües la enseñanza tenderá a conservar el idioma español y el dialecto regional.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+En las comunidades indígenas bilingües la enseñanza tenderá a conservar el idioma español y las lenguas indígenas de la región.
 
 I.- Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
@@ -1811,11 +1831,11 @@ Las autoridades fomentarán con preferencia las actividades turísticas que apro
 
 Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la Entidad.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 152.
 
-Los trabajadores al servicio del Gobierno del Estado, tendrán el derecho de asociarse para la defensa de sus intereses comunes, en los términos de la Ley del Servicio Civil.
+Los trabajadores al Servicio de los Poderes del Estado y sus Ayuntamientos, tendrán derecho de asociarse para la defensa de sus intereses comunes en los términos de las leyes debidamente promulgadas para regular sus relaciones de trabajo.
 
 ###### ARTICULO 153.
 
@@ -1971,7 +1991,9 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-La Ley Orgánica del Poder Judicial del Estado, determinará el número de Magistrados numerarios y supernumerarios que deban componer el Tribunal Superior de Justicia. Dichos Servidores Públicos serán nombrados por el Gobernador del Estado, con la ratificación de la Legislatura.
+La Ley Orgánica del Poder Judicial del Estado, determinará el número de Magistrados Numerarios y Supernumerarios que deban integrar el Tribunal Superior de Justicia y la forma de su funcionamiento en razón de la materia.
+
+Todos los Magistrados serán nombrados por el Gobernador del Estado y ratificados dichos nombramientos dentro del plazo improrrogable de diez días por la Legislatura del Estado, si no resolviere dentro de dicho plazo, se tendrán por ratificados. En el caso de que no los ratifique, el Gobernador hará nuevo nombramiento y si también se negare la ratificación, hará un tercer nombramiento que surtirá sus efectos inmediatamente a reserva de obtener la ratificación en el siguiente período ordinario de sesiones.
 
 ###### ARTICULO 122.
 
@@ -2596,6 +2618,12 @@ P.O. 26 DE FEBRERO DE 1994.
 PRIMERO.- Lo previsto en el párrafo primero de la fracción primera, del artículo 8o. de este Decreto, entrará en vigor al año siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Decreto, con la excepción antes señalada, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1994.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
