@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2001-03-14"
+last_updated: "2001-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -439,7 +439,9 @@ VII.- Contratar o concesionar obras y servicios públicos municipales en los té
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
-IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Director de Obras y Servicios Públicos Municipales y demás funcionarios de la Administración Pública, a propuesta del Presidente Municipal.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Contralor Municipal, al Director de Obras y Servicios Públicos Municipales y demás funcionarios de la administración pública, a propuesta del Presidente Municipal.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -451,9 +453,9 @@ XI.- Formular y remitir al Congreso, para su estudio y aprobación el proyecto d
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIII.- Enviar anualmente en la segunda quincena del mes de marzo al Congreso, las cuentas y comprobantes de recaudación y aplicación de los fondos en el año inmediato anterior, así como las cuentas e informes contables y financieros mensuales dentro de los primeros quince días del mes siguiente. Las Cuentas Públicas correspondientes al último año del período constitucional de Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre.
+XIII.- Enviar trimestralmente al Congreso, en la segunda quincena del mes siguiente al término del trimestre correspondiente, las cuentas de recaudación y aplicación de los fondos públicos en el trimestre inmediato anterior.
 
 XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. Las remuneraciones al personal no excederán de los límites señalados en el Título III de este Código.
 
@@ -615,7 +617,9 @@ V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observanci
 
 VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
 
-VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero, Director de Obras y Servicios Públicos y demás funcionarios de la Administración Municipal, así como su remoción por causa justificada.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero, Contralor, Director de Obras y Servicios Públicos y demás funcionarios de la administración municipal, así como su remoción por causa justificada.
 
 VIII.- Nombrar y remover a los empleados municipales de acuerdo con la Ley, dando cuenta al Ayuntamiento para su ratificación o rectificación.
 
@@ -697,7 +701,9 @@ VI.- Revisar frecuentemente las relaciones de rezagos para que sean liquidadas y
 
 VII.- Cerciorarse de que el Tesorero Municipal y los Cajeros hayan otorgado la caución suficiente e idónea.
 
-VIII.- Vigilar que se presente oportunamente la cuenta pública para su revisión por el Congreso, así como los informes contables y financieros mensuales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VIII.- Vigilar que se presente oportunamente la cuenta pública trimestral para su revisión por el Congreso.
 
 IX.- Desempeñar las comisiones para las cuales sean previamente designados.
 
@@ -809,9 +815,9 @@ III.- Organizar la contabilidad de la Tesorería y sus dependencias.
 
 IV.- Comunicar diariamente al Presidente Municipal y a la Comisión de Hacienda, Presupuesto y Gasto Público, del movimiento de caudales y existencia en caja.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-V.- Remitir al Congreso del Estado las cuentas, informes contables y financieros mensuales, dentro de los primeros quince días del mes siguiente.
+V.- Remitir al Congreso del Estado las cuentas públicas trimestrales, dentro de los términos de ley.
 
 VI.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales.
 
@@ -830,6 +836,40 @@ XII.- Intervenir en los juicios de carácter fiscal o en cualquier otro procedim
 XIII.- Cumplir y hacer cumplir los convenios y acuerdos de coordinación fiscal que celebre con el Estado.
 
 XIV.- Las demás que le señalen las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 72 bis.- La Contraloría Municipal es el órgano de control interno encargado de vigilar y supervisar que la recaudación de los ingresos municipales y las erogaciones que deba hacer el Municipio conforme a los presupuestos aprobados, se lleven a cabo de una manera eficiente, y con apego a los programas, a la normatividad y a las leyes aplicables.
+
+La oficina estará a cargo de un Contralor Municipal que será designado por el Ayuntamiento, a terna propuesta por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 72 ter.- Para ser Contralor se requiere reunir los requisitos señalados en el Artículo 67 de este Código y, en su caso, poseer título en profesión afín al cargo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 72 quater.- Son facultades y obligaciones del Contralor Municipal:
+
+I.- Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, así como conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, que puedan implicar responsabilidad administrativa.
+
+II.- Fiscalizar la distribución y aplicación de los recursos ejercidos por la administración municipal, pudiendo para este fin, realizar auditorías, inspecciones y evaluaciones a los departamentos que integren dicha administración.
+
+III.- Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de planeación, control y evaluación de la administración municipal, y requerir discrecionalmente de los departamentos, la instrumentación de normas adicionales para el ejercicio de sus atribuciones que aseguren el control.
+
+IV.- Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de irregularidades en Acuerdos, Convenios o Contratos que celebren los particulares con los departamentos de la administración municipal, y en la aplicación de recursos destinados a obras y servicios del Municipio.
+
+V.- Vigilar el cumplimiento de las normas de control y fiscalización, principalmente las emanadas de la Ley de Fiscalización Superior del Estado de Tamaulipas.
+
+VI.- Inspeccionar y vigilar directamente que la administración municipal cumpla con las normas y disposiciones en materia de sistema y registro de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales del Municipio.
+
+VII.- Coordinar, con la Auditoría Superior del Estado, el establecimiento de los mecanismos necesarios, que les permitan cumplir mejor sus respectivas responsabilidades.
+
+VIII.- Intervenir, para efectos de verificación, en los actos de entrega y recepción intermedia y final de la administración municipal.
+
+IX.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralmente del avance y resultados de éstos, así como de las irregularidades de las que estime exista responsabilidad alguna.
+
+X.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
 ###### ARTICULO 73.
 
@@ -987,9 +1027,11 @@ El juicio político es competencia exclusiva de los órganos que establece la Le
 
 En lo que respecta a la responsabilidad administrativa, las funciones propias de la Dirección General de la Contraloría Estatal, así como de las Contralorías internas y del superior jerárquico que se menciona en la propia Ley de Responsabilidades de los Servidores Públicos, serán desempeñadas por el Ayuntamiento, a través de su Presidente Municipal en lo relativo a servidores municipales. Las responsabilidades administrativas de los miembros de los Ayuntamientos es competencia exclusiva del Congreso del Estado, estando facultado para identificar, investigar y determinar dichas responsabilidades, así como para aplicar las sanciones respectivas.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 90.
 
-Los Ayuntamientos recibirán las denuncias y quejas a que se refiere el Artículo 49 de la Ley de Responsabilidades de los Servidores Públicos, por conducto de la Secretaría o de la Oficina que establezcan para tal efecto.
+Los Ayuntamientos recibirán las denuncias y quejas a que se refiere el artículo 49 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, por conducto de la Secretaría o de la Contraloría.
 
 ###### ARTICULO 91.
 
@@ -1631,9 +1673,11 @@ Las actividades de programación, presupuestación, control y evaluación del ga
 
 La Contaduría Mayor de Glosa es el órgano técnico dependiente y auxiliar del Congreso del Estado que se encargará del control, inspección y evaluación de las actividades de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores y gasto público.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 154.
 
-Para los efectos del artículo anterior se podrá ordenar la práctica de visitas a las Tesorerías Municipales a fin de inspeccionar y evaluar las actividades mencionadas, con el auxilio de los recursos humanos y materiales del órgano de control del gasto público dependiente del Ejecutivo del Estado.
+Para los efectos del artículo anterior se podrá ordenar la práctica de visitas de auditoría a los Municipios a fin de inspeccionar y evaluar las actividades mencionadas, con el auxilio de los recursos humanos y materiales del órgano de control del gasto público dependiente del Ejecutivo del Estado.
 
 ###### ARTICULO 155.
 
@@ -1913,11 +1957,15 @@ Los Tesoreros Municipales proyectarán y calcularán los ingresos del Municipio 
 
 El Ayuntamiento, al rendir su informe anual por conducto del Presidente Municipal sobre el estado que guarda la administración pública, hará mención expresa de las decisiones adoptadas para la ejecución del Plan Municipal de Desarrollo y los demás programas que de él se deriven.
 
-El contenido de las cuentas anuales de la Hacienda Pública Municipal deberán relacionarse en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de las cuentas de acuerdo con los fines y prioridades de la planeación municipal.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+El contenido de las cuentas trimestrales de la Hacienda Pública Municipal deberán relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de las cuentas de acuerdo con los fines y prioridades de la planeación municipal.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 188.
 
-El órgano de control y evaluación del gasto municipal que establezca el Ayuntamiento, vigilará que se cumpla con los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo y los programas que de él se deriven.
+La Contraloría Municipal vigilará que se cumpla con los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo y los programas que de él se deriven.
 
 ### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
 
@@ -2031,7 +2079,9 @@ III.- Los Asesores.
 
 IV.- El Tesorero Municipal.
 
-V.- El Contralor.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+V.- El Contralor Municipal.
 
 VI.- Los Cajeros.
 
@@ -2926,3 +2976,21 @@ P.O. 14 DE MARZO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero del año 2002.
+
+###### ARTICULO SEGUNDO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán revisadas de conformidad a lo dispuesto en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
