@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1981-08-12"
+last_updated: "1981-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1981.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -381,7 +381,9 @@ El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CON
 
 Por cada distrito electoral, habrá un diputado propietario y un suplente. La elección se hará por sufragio directo, secreto e individual, y el Congreso se complementará además con diputados de minoría, apegándose en todos los casos a lo que disponga la Ley Electoral del Estado y para estos últimos las reglas siguientes:
 
-I.- Todo partido político nacional debidamente registrado ante la Comisión Federal Electoral y ante la Secretaría General de Gobierno, cuando menos un año antes de la elección, si obtiene el dos punto cinco de la votación general del Estado, tendrá derecho a que se le acredite entre sus candidatos un diputado de minoría.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
+
+I.- Todo partido político nacional debidamente registrado ante la Comisión Federal Electoral y ante la Secretaría de Gobierno, cuando menos un año antes de la elección, si obtiene el dos punto cinco de la votación general del Estado, tendrá derecho a que se le acredite entre sus candidatos un diputado de minoría.
 
 II.- Cuando un partido nacional obtenga la mayoría de votos en un distrito, sólo tendrá derecho, en su caso, a que se le acredite un diputado de minoría y si gana las elecciones en los distritos, no se le acreditarán sino los de mayoría.
 
@@ -449,7 +451,9 @@ III.- Ser originario del Distrito que lo elija o vecino de él, con residencia n
 
 No pueden ser electos diputados:
 
-Los funcionarios federales, los miembros del Ejército y la Armada Nacional o de las fuerzas Publicas del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales, los Directores Generales, los Directores Generales de entidades paraestatales federales, estatales o municipales; los Agentes del Ministerio Público, y los Presidentes Municipales a menos que se separen definitivamente de sus funciones noventa días antes de la elección; y, en general, todas las demás personas impedidas por las Leyes.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
+
+Los funcionarios federales, los miembros del Ejército y la Armada Nacional o de las fuerzas Publicas del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales, los Directores Generales, los Directores Generales de entidades paraestatales federales, estatales o municipales; los Agentes del Ministerio Público, y los Presidentes Municipales a menos que se separen definitivamente de sus funciones noventa días antes de la elección; y, en general, todas las demás personas impedidas por las leyes.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -531,13 +535,17 @@ El informe correspondiente al último año del ejercicio constitucional del Ejec
 
 Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando se trate de asuntos que exijan reserva las habrá secretas, de conformidad con lo que establece la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 45.
 
-El Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales y los Directores Generales de entidades paraestatales del Estado, luego que esté abierto el período de sesiones darán cuenta al Congreso, por escrito, del estado que guarden sus respectivos ramos.
+El Secretario de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales y los Directores Generales de entidades paraestatales del Estado, luego que esté abierto el período de sesiones darán cuenta al Congreso, por escrito, del estado que guardan sus respectivos ramos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 El Congreso podrá citar a dichos funcionarios cuando se discuta una ley o se estudie un asunto relativo a su ramo, para que informen lo conducente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 Podrá solicitarse la comparecencia del Presidente del Tribunal Superior de Justicia, cuando se estudie una iniciativa de ley relativa al Poder Judicial del Estado.
 
@@ -727,11 +735,11 @@ Cuando un proyecto de ley o decreto fuere devuelto al Congreso con las observaci
 
 En los casos de urgencia notoria calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso puede dispensar o abreviar los trámites reglamentarios, excepto en lo relativo al dictamen de la comisión de acuerdo con el artículo 50, el que sólo podrá suprimirse en los casos de obvia resolución.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 55.
 
-El Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia y los directores del ramo podrán asistir, cuando se trate de iniciativas del Ejecutivo, a las sesiones del Congreso con voz pero sin voto, previa cita del Congreso, para que expliquen los motivos de las leyes de su competencia.
+El Secretario de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia y los directores del ramo podrán asistir, cuando se trate de iniciativas del Ejecutivo, a las sesiones del Congreso con voz pero sin voto, previa cita del Congreso, para que expliquen los motivos de las leyes de su competencia.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -793,9 +801,9 @@ II.- Tener treinta años cumplidos al tiempo de ser electo.
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
 
-IV.- No ser funcionario de la Federación, ni militar en servicio activo o persona con mando de fuerzas dentro del Estado; ni Magistrado del Tribunal Superior de Justicia, Secretario General de Gobierno, Oficial Mayor, Procurador General de Justicia, Secretario, Coordinador General, ni Director General de entidad paraestatal federal, estatal o municipal, a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a mas tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+IV.- No ser funcionario de la Federación, ni militar en servicio activo o persona con mando de fuerzas dentro del Estado; ni Magistrado del Tribunal Superior de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador General de Justicia, Secretario, Coordinador General, ni Director General de entidad paraestatal federal, estatal o municipal, a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a mas tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -809,7 +817,7 @@ Los requisitos señalados en las fracciones I, II y III del artículo anterior, 
 
 DE LA SUPLENCIA, DE LAS FALTAS TEMPORALES O DEFINITIVAS DEL GOBERNADOR DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 65.
 
@@ -831,7 +839,7 @@ DE LAS ATRIBUCIONES DEL GOBERNADOR.
 
 ###### ARTICULO 67.
 
-En las faltas temporales del Gobernador que no excedan de treinta días, se encargará del despacho el Secretario General de Gobierno.
+En las faltas temporales del Gobernador que no excedan de treinta días, se encargará del despacho el funcionario que el Jefe del Ejecutivo designe.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -989,13 +997,11 @@ XXXIX.- Las demás que se deriven de esta Constitución.
 
 DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 74.
 
-Para el despacho de los asuntos del Poder Ejecutivo, habrá un Secretario General de Gobierno, un Oficial Mayor, los Secretarios, Coordinadores Generales y Directores Generales que determine la Ley Orgánica de la Administración Pública del Estado de Guerrero y, en su caso, el Reglamento Interior que al efecto expida el Gobernador del Estado, los que serán nombrados y removidos libremente por el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+Para el despacho de los asuntos del Poder Ejecutivo, habrá un Secretario de Gobierno, un Oficial Mayor, los Secretarios, Coordinadores Generales y Directores Generales que determine la Ley Orgánica de la Administración Pública del Estado de Guerrero y, en su caso, el Reglamento Interior que al efecto expida el Gobernador del Estado, los que serán nombrados y removidos libremente por el Ejecutivo del Estado.
 
 ### CAPITULO VII.
 
@@ -1005,23 +1011,13 @@ DEL MINISTERIO PUBLICO.
 
 ###### ARTICULO 75.
 
-Para ser Secretario General de Gobierno se requiere:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 1981)
 
-I.- Ser ciudadano guerrerense.
-
-II.- Ser mayor de treinta años de edad.
-
-III.- Estar en pleno ejercicio de sus derechos.
-
-IV.- Tener modo honesto de vivir.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 76.
 
-Todos los reglamentos y acuerdos del Gobernador del Estado, deberán ser firmados invariablemente por el Secretario General de Gobierno. El Oficial Mayor y los Secretarios los firmarán también cuando se refieran a materias que sean de su competencia. De no figurar esas firmas, los actos citados no surtirán efectos legales.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+Todos los reglamentos y acuerdos del Gobernador del Estado, deberán ser firmados invariablemente por el Secretario de Gobierno. El Oficial Mayor y los Secretarios los firmarán también cuando se refieran a materias que sean de su competencia. De no figurar esas firmas, los actos citados no surtirán efectos legales.
 
 ### CAPITULO I.
 
@@ -1031,7 +1027,7 @@ DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL.
 
 ###### ARTICULO 77.
 
-El Oficial Mayor sustituirá al Secretario General de Gobierno en sus ausencias temporales.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 1981)
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1143,9 +1139,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 Son atribuciones del Tribunal Superior de Justicia funcionando en Pleno:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 1981)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
 
-I.- Conocer como Tribunal de única Instancia de las causas seguidas por delitos oficiales y comunes en contra de los Diputados del Congreso, Gobernador del Estado, Magistrados, Secretario General de Gobierno, Oficial Mayor, Procurador General de Justicia y Secretarios.
+I.- Conocer como Tribunal de única Instancia de las causas seguidas por delitos oficiales y comunes en contra de los Diputados del Congreso, Gobernador del Estado, Magistrados, Secretario de Gobierno, Oficial Mayor, Procurador General de Justicia y Secretarios.
 
 II.- Suspender de sus cargos a los Jueces de Primera Instancia y Menores contra quienes el Ministerio Público haya ejercitado acción penal por delitos oficiales y comunes. La suspensión de sus cargos se acordará una vez que el Magistrado que conozca de la consignación haga la declaración de que ha lugar a la formación de causa. La suspensión será requisito indispensable para la ejecución de la orden de aprehensión dictada en contra de dicho funcionario.
 
@@ -1353,7 +1349,7 @@ El sistema estatal de enseñanza ajustará sus planes y programas de estudio al 
 
 ###### ARTICULO 111.
 
-Los diputados al Congreso del Estado, los Magistrados del Tribunal Superior, el Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Secretarios son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
+Los diputados al Congreso del Estado, los Magistrados del Tribunal Superior, el Secretario de Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Secretarios son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1419,11 +1415,11 @@ El Gobernador del Estado y las dependencias centralizadas ejercerán el control 
 
 Las resoluciones que dicte la Administración Pública serán conforme a las normas que regulen el procedimiento administrativo y en contra de ellas podrán enderezarse, una vez agotada la vía administrativa, las acciones y recursos que señale la Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ###### ARTICULO 119.
 
-Todos los conflictos de competencia administrativa de funcionarios o empleados para conocer de determinado asunto, serán resueltos por acuerdo del Gobernador del Estado y por conducto del Secretario General de Gobierno.
+Todos los conflictos de competencia administrativa de funcionarios o empleados para conocer de determinado asunto, serán resueltos por acuerdo del Gobernador del Estado y por conducto del Secretario de Gobierno.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1779,7 +1775,7 @@ DE LA EDUCACION PUBLICA DEL ESTADO.
 
 DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1981)</small>
 
 ## TITULO DECIMO CUARTO.
 
@@ -2282,3 +2278,9 @@ Se derogan los artículos 33, la fracción XXXV del artículo 47, las fracciones
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto empezará a surtir sus efectos a partir de su publicación en el periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 1981.
+
+PRIMERO.- Se derogan los artículos 75 y 77 de la Constitución Política del Estado.
+
+SEGUNDO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
