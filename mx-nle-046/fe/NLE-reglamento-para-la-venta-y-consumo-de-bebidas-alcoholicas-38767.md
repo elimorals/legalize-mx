@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-38767
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2004-03-29"
+last_updated: "2004-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de marzo de 2004.
 
@@ -667,7 +667,11 @@ VIII. No estar impedido para ejercer el comercio, de acuerdo a las disposiciones
 
 IX. Los establecimientos indicados en el Artículo 13 incisos F), G) y H) y los indicados en el Artículo 14 incisos C), D), E), K), L), M), N), O), y P), NO se ubicarán en una distancia perimetral mínima de 200 metros, contados a partir de los límites de la propiedad de las instituciones educativas, iglesias, templos, hospitales, clínicas, centros de salud, oficinas públicas o industrias en general. Debiendo presentar escrito de protesta de decir verdad de cumplir esta disposición.
 
-X. Los demás requisitos establecidos de este Reglamento y ordenamientos municipales.
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+X.- Los establecimientos señalados en los incisos B, C, D, F, G y H del Artículo 13 deberán ubicarse a una distancia perimetral superior a los 200 metros de cualquiera de los establecimientos mencionados en esta Fracción, debiendo presentar escrito de protesta de decir verdad de cumplir esta disposición.
+
+XI. Los demás requisitos establecidos de este Reglamento y ordenamientos municipales.
 
 En caso de ser extranjero el solicitante deberá anexar documentación con la cual acredite estar autorizado por la Secretaría de Gobernación para dedicarse a actividades remuneradas en el país.
 
@@ -1624,3 +1628,11 @@ PRESIDENTE MUNICIPAL
 C. LIC. GUSTAVO RAMÍREZ VILLARREAL
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2004.
+
+PRIMERO: La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Publíquese el presente acuerdo en la Gaceta Municipal.
