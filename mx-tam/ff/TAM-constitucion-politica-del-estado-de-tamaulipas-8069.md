@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1986-03-29"
+last_updated: "1986-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1986.
+
+(DECRETO NUM. 316)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -283,11 +285,13 @@ III.- La asignación de los diputados de representación proporcional se hará c
 
 IV.- En caso de que los partidos con derecho a diputados de representación proporcional obtuviesen en conjunto el triunfo de tres o más distritos electorales uninominales, sólo se les asignará tres diputaciones de representación proporcional.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 28.
 
-Las elecciones de diputados serán calificadas por el Congreso constituido en Colegio Electoral, en los términos establecidos por los Artículos 41 y 58 fracciones XXX y XXXI de esta Constitución.
+Las elecciones de los Diputados serán calificadas por el Congreso, constituido en Colegio Electoral, en los términos establecidos por el Artículo 58, fracciones XXX y XXXI de esta Constitución.
+
+De no erigirse en Colegio Electoral el Congreso del Estado, los presuntos Diputados, cinco días antes de que deban iniciar sus funciones, se constituirán en Colegio Electoral y en Sesión Permanente procederán a la calificación de sus elecciones.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
 
@@ -295,7 +299,9 @@ Las elecciones de diputados serán calificadas por el Congreso constituido en Co
 
 Para ser Diputado Propietario o Suplente, se requiere:
 
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículo 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+I.- Ser mexicano por nacimiento, en pleno goce de sus derechos.
 
 II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
@@ -319,7 +325,7 @@ I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Suprem
 
 II.- Los militares que hayan estado en servicio dentro de los 90 días anteriores a la fecha de la elección.
 
-III.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
+III.- (DEROGADA, P.O. 5 DE JULIO DE 1986)
 
 IV.- Los ministros de cualquier culto, estén o no en ejercicio.
 
@@ -371,9 +377,11 @@ Entre tanto se verifique la elección a que se refiere el artículo anterior y s
 
 La Legislatura requiere para el ejercicio de sus funciones, la asistencia de más de la mitad de sus integrantes. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+
 ###### Art. 38.
 
-Los Diputados pueden faltar a cinco sesiones consecutivas con simple aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescriptas (sic), se presume que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al período respectivo de sesiones, si no se desintegrare el quorum por su falta, cuando deje de concurrir a treinta sesiones consecutivas.
+Los Diputados pueden faltar a tres Sesiones consecutivas con simples (sic) aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescritas, se considera que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al Período respectivo de Sesiones, cuando deje de concurrir a seis sesiones consecutivas (siempre que no se desintegrare el quórum por su falta).
 
 ###### Art. 39.
 
@@ -389,17 +397,17 @@ Los Diputados al Congreso del Estado, que se elegirán el primer domingo de dici
 
 En lo sucesivo el Congreso de Estado se renovará en su totalidad, cada tres años.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1960)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 41.
 
-El día 31 de diciembre del año en que deba hacerse la elección, se reunirán en sesión los nuevos Diputados y la Diputación Permanente, funcionando como Presidente y Secretarios los de la misma Diputación. Se leerá el informe de esta sobre la legitimidad de las Credenciales y cualidades de los Diputados, y las dudas que ocurran sobre estos puntos, se resolverán por la misma junta a pluralidad de votos, sin que lo tengan los miembros de la Diputación Permanente.
+El 31 de diciembre del año de la elección, se dará lectura al informe del Colegio Electoral sobre la legitimidad de las credenciales y cualidades de los Diputados electos los que, en Sesión Solemne, otorgarán ese mismo día la protesta de Ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 42.
 
-Concluídos los actos de que habla el Artículo anterior, los nuevos Diputados otorgarán ese mismo día la protesta de Ley. Si no hubiere Diputación Permanente, los presuntos Diputados designarán en escrutinio una Comisión de tres miembros de su seno, para hacer las veces de aquella en lo que expresa el Artículo anterior.
+De no asistir la Diputación Permanente, o la Mesa Directiva en caso de prórroga, los Diputados electos iniciarán por sí la Sesión Solemne, previa designación de tres de sus miembros para que la presidan, cuyo desarrollo se sujetará a los términos del artículo anterior.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1971)</small>
 
@@ -407,19 +415,21 @@ Concluídos los actos de que habla el Artículo anterior, los nuevos Diputados o
 
 El día primero de Enero siguiente, el Congreso procederá al nombramiento de un Presiente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra. El Presidente del Congreso declarará a éste legítimamente constituído e instalado y en aptitud de ejercer sus funciones.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 44.
 
-El Congreso tendrá dos períodos de sesiones ordinarios cada año: El primero improrrogable, comenzará el 1o. de Enero y terminará el 30 de Abril; el segundo prorrogable hasta por un mes, dará principio el 1o. de septiembre y terminará el 30 de Noviembre. El Gobernador asistirá a la apertura de las sesiones, pudiendo informar acerca de todos o algunos de los Ramos de la Administración cuando lo estime conveniente o así lo solicite el Congreso; pero éste en sesión pública extraordinaria recibirá el informe anual del Ejecutivo sobre el estado de la Administración Pública, en las fechas previstas en la Fracción XXXIII del Artículo 91. Este informe será contestado por el Presidente del Congreso.
+El Congreso tendrá dos períodos de Sesiones Ordinarios cada año: El primero improrrogable, comenzará el uno de enero y terminará el treinta de abril; el segundo prorrogable hasta por un mes, dará principio el uno de septiembre y terminará el treinta de noviembre. El Congreso tendrá sesiones en las fechas que señalen la Ley Orgánica del Poder Legislativo y su Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 45.
 
-Durante el primer período de sesiones, el Congreso se ocupará de los asuntos siguientes:
+Durante el Primer Periodo Ordinario de Sesiones, el Congreso se ocupará preferentemente de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-I. De examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo en el período comprendido entre el 20 de diciembre de 1962 y el 31 de enero de 1963; así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación le será presentada por el Tesorero General por conducto del Ejecutivo para la fecha antes indicada; declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los Presupuestos y leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
+I.- De examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del 15 de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación le será presentada por el Tesorero General por conducto del Ejecutivo para la fecha antes indicada, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los Presupuestos y Leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad.
 
 II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
@@ -433,11 +443,11 @@ I.- De preferencia, en discutir y decretar las Leyes de Ingresos del Estado y de
 
 II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
 
-> <small>(REFORMADO. P.O. 22 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 47.
 
-El Congreso tendrá sesiones en las fechas y horas que señala la Ley Orgánica del Poder Legislativo. Las sesiones serán públicas, salvo las que por su carácter y de acuerdo con la Ley mencionada deban ser secretas.
+El Congreso tendrá sesiones en las fechas que señala la Ley Orgánica del Poder Legislativo y su Reglamento. Las sesiones serán públicas, salvo las que según la ley mencionada deben tener el carácter de secretas.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
 
@@ -497,7 +507,9 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 Son facultades del Congreso:
 
-I. Expedir, interpretar, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+I. Expedir, reformar y derogar las leyes y decretos en todos los ramos de la Administración Pública.
 
 II. Fijar a propuesta del Gobernador, los gastos de la Administración Pública del Estado, y decretar contribuciones e impuestos para cubrirlos, determinando la duración de estos y el modo de recaudarlos. Ningún pago será legal si no está incluido en el Presupuesto o determinado por ley posterior.
 
@@ -509,9 +521,13 @@ III. Condonar impuestos del Estado, en los casos que estime convenientes, con ex
 
 IV. Fijar, a propuesta de los respectivos Ayuntamientos, por conducto del Ejecutivo, las contribuciones y otros ingresos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
 
-V. Nombrar los empleados de la Contaduría Mayor de Glosa y Secretaría del Congreso, y removerlos con causa justificada.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-VI. Revisar, por conducto de la Contaduría Mayor de Glosa, las cuentas del Estado y de los Municipios. Una ley determinará la organización y funcionamiento de dicha Contaduría, que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda.
+V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior.
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+VI. Revisar y calificar, por conducto de la Contaduría Mayor de Hacienda, las Cuentas Públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del Sector Público. Una ley determinará la organización y funcionamiento de dicha Contaduría que dependerá en absoluto del Congreso y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público.
 
 VII. Fijar las bases para que el Ejecutivo pueda celebrar emprésitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado.
 
@@ -555,7 +571,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -565,7 +581,9 @@ XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
 
 XXV. Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame contra ellas.
 
-XXVI. Formar su Reglamento Interior y acordar las providencias necesarias, a más de las señaladas por la Constitución, para hacer concurrir a los Diputados ausentes.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+XXVI. Expedir su Ley Orgánica y su Reglamento Interior.
 
 XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación.
 
@@ -573,7 +591,9 @@ XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del
 
 XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República.
 
-XXX. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Diputados a la Legislatura del Estado; calificar dichas elecciones; declarar quiénes, por haber obtenido mayoría de votos, deben desempeñar dichos cargos, y resolver sobre la renuncia que presentaren los expresados funcionarios, convocando a nuevas elecciones en los casos previstos por esta Constitución.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+XXX. Erigirse en Colegio Electoral para calificar las elecciones de Ayuntamientos, Diputados Locales, Gobernador del Estado y para declarar electos Senadores al Congreso de la Unión y en los términos del Artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
 
 XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables.
 
@@ -663,13 +683,15 @@ VI. Dispensar estudios para el efecto de otorgar títulos profesionales.
 
 VII. Hacer lo demás que prohibe esta Constitución.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
 ### CAPITULO IV. De la Diputación Permanente
+
+(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
 
 ###### Art. 60.
 
 El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
+
+(REUBICADO, P.O. 5 DE JULIO DE 1986)
 
 ###### Art. 61.
 
@@ -695,9 +717,13 @@ IV.- Circular la convocatoria si después de tres días de comunicada al Ejecuti
 
 V. Admitir las renuncias de los altos funcionarios, mandando cubrir sus vacantes en la forma que la Constitución establece.
 
-VI. Ejercer las atribuciones económicas que le demarca el Reglamento interior.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
-VII. Recibir los expedientes de elección de Diputados al Congreso del Estado y los de Gobernador, para los efectos señalados en esta Constitución.
+VI. Ejercer las atribuciones que le señalan la Ley Orgánica del Poder Legislativo y el Reglamento para el Gobierno Interior del Congreso.
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+VII. Recibir los expedientes de elección de Diputados al Congreso del Estado, Ayuntamientos, Gobernador y Senadores al Congreso de la Unión, para los efectos señalados en esta Constitución.
 
 VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla ante el Congreso.
 
@@ -719,7 +745,11 @@ XII.- Las demás que le confieren las Leyes.
 
 Si por no haberse verificado las elecciones o por cualquiera otra causa, el Congreso no pudiera renovarse el día fijado, la Diputación Permanente continuará con tal carácter, hasta que deje instalado al nuevo Congreso conforme a las leyes, convocando a elecciones en su caso.
 
-### CAPITULO V. De la Iniciativa y Formación de las Leyes
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 1986)</small>
+
+### CAPITULO V
+
+De la Iniciativa y Formación de Leyes, Decretos y Acuerdos.
 
 ###### Art. 64.
 
@@ -727,21 +757,29 @@ El derecho de iniciativa compete:
 
 I. A los Diputados al Congreso del Estado.
 
-II. Al Gobernador del mismo.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+II. Al Gobernador del Estado.
 
 III. Al Supremo Tribunal de Justicia.
 
-IV. A los Ayuntamientos, para los asuntos de sus respectivas localidades.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+
+IV. A los Ayuntamientos.
 
 V. A todos los ciudadanos, por conducto de sus Diputaciones.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+
 ###### Art. 65.
 
-Las votaciones de leyes o decretos serán nominales.
+Las votaciones de leyes serán nominales.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 66.
 
-El Reglamento interior del Congreso prescribirá las reglas que deben observarse sobre la discusión y formación de las leyes.
+La Ley Orgánica y el Reglamento para el Gobierno Interior del Congreso prescribirán las reglas que deban observarse sobre la discusión y formación de las Leyes, Decretos y Acuerdos.
 
 ###### Art. 67.
 
@@ -775,9 +813,11 @@ Concluída ésta se votará un proyecto de escrutinio secreto y se tendrá por a
 
 Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su promulgación inmediata.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1986)</small>
+
 ###### Art. 74.
 
-En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+En la reforma o derogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
 
 ###### Art. 75.
 
@@ -2202,3 +2242,15 @@ UNICO.- El presente Decreto inicia su vigencia un día después al de su publica
 P.O. 29 DE MARZO DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 1986.
+
+DECRETO No. 315.
+
+UNICO.- El presente Decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 1986.
+
+DECRETO No. 316.
+
+UNICO.- Este Decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
