@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2001-12-25"
+last_updated: "2003-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -199,9 +199,11 @@ Cuando en un distrito judicial existan dos o más Juzgados del mismo ramo, será
 
 ### CAPITULO I. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 13.
 
-El Supremo Tribunal de Justicia se integrará por siete Magistrados de Número y dos Supernumerarios y funcionará en Pleno o por Salas Unitarias, las que se ubicarán en la capital del Estado. Uno de los Magistrados Numerarios será Presidente y no integrará Sala.
+El Supremo Tribunal de Justicia se integrará con nueve Magistrados de Número y los Supernumerarios que sus funciones requieran, y funcionará en Pleno o por Salas Unitarias, las que se ubicarán en la capital del Estado. Uno de los Magistrados Numerarios será Presidente y no integrará Sala.
 
 ###### ARTICULO 14.
 
@@ -231,9 +233,11 @@ VII.- Los Titulares de las Dependencias que esta Ley establezca; así como tambi
 
 ### CAPITULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 16.
 
-El Supremo Tribunal de Justicia para sesionar ordinariamente requerirá de la asistencia de cuando menos cuatro de los Magistrados Numerarios, incluyendo al Magistrado Presidente. Sus resoluciones las tomará por mayoría de los Magistrados presentes, quienes no podrán abstenerse de votar, a menos que tengan impedimento legal o no hayan estado presentes en las discusiones previas al asunto de que se vota. En caso de empate, el Magistrado Presidente decidirá con voto de calidad.
+El Supremo Tribunal de Justicia requerirá para sesionar ordinariamente la asistencia de cuando menos las dos terceras partes de sus integrantes de Número, incluido el Magistrado Presidente. Sus resoluciones las tomará por mayoría de los Magistrados presentes, quienes no podrán abstenerse de votar, a menos que tengan impedimento legal o no hayan estado presentes en las discusiones previas al asunto de que se vote. Si se emite igual número de votos a favor o en contra del proyecto de resolución, el Magistrado Presidente tendrá el voto de desempate.
 
 ###### ARTICULO 17.
 
@@ -247,9 +251,11 @@ Los días y horas en que se efectuarán las sesiones deberán publicarse en los 
 
 Las sesiones del Supremo Tribunal de Justicia serán públicas, con excepción de los casos en que, a juicio del Pleno, riñan con la moral o el interés público, en cuyo caso serán privadas.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 19.
 
-El Pleno del Supremo Tribunal de Justicia celebrará sesiones extraordinarias cuando su Presidente así lo considere necesario, o por solicitud de por lo menos cuatro Magistrados de Número.
+El Pleno del Supremo Tribunal de Justicia celebrará sesiones extraordinarias cuando su Presidente lo considere necesario, o así lo soliciten por lo menos cinco de los Magistrados de Número.
 
 ###### ARTICULO 20.
 
@@ -339,9 +345,11 @@ XXII.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le
 
 Para el ejercicio de su función jurisdiccional, el Supremo Tribunal de Justicia tendrá seis Salas que actuarán en forma unitaria, mas las Salas Auxiliares que determine el Pleno.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 27.
 
-Las Salas Primera, Tercera y Quinta conocerán en Segunda Instancia de los asuntos de carácter civil y mercantil; y la Segunda, Cuarta y Sexta, en materia penal. Todas conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados todos los Magistrados titulares de las Salas de una misma materia.
+Las Salas Unitarias Primera, Tercera y Quinta conocerán en Segunda Instancia de los asuntos de carácter patrimonial, civil y mercantil; la Segunda, Cuarta y Sexta, en materia penal; y la Séptima y Octava, los de índole familiar. Todas conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados todos los Magistrados titulares de las Salas de una misma materia.
 
 ###### ARTICULO 28.
 
@@ -413,15 +421,19 @@ VI.- Desempeñar las comisiones especiales que el Pleno o su Presidente les enco
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 35.
 
 Son Jueces de Primera Instancia:
 
 I.- Los Jueces de lo Civil;
 
-II.- Los Jueces de lo Penal; y,
+II.- Los Jueces de lo Familiar;
 
-III.- Los Jueces Mixtos.
+III.- Los Jueces de lo Penal; y,
+
+IV.- Los Jueces Mixtos.
 
 ###### ARTICULO 36.
 
@@ -447,15 +459,23 @@ El Juez de Primera Instancia actuará asistido por el Secretario correspondiente
 
 Corresponde a los Jueces de lo Civil conocer:
 
-I.- De los negocios de jurisdicción voluntaria;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
-II.- De negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles;
+I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda a los jueces de lo familiar;
 
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
-IV.- De los asuntos relativos al derecho de personas, de familia y de sucesiones;
+II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
 
-V.- De los interdictos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la Capital del Estado, excepto en lo concerniente al derecho familiar;
+
+IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+
+V.- De los interdictos, siempre que no se relacionen con cuestiones familiares;
 
 VI.- De las cuestiones de competencia, excusas y recusaciones de los Jueces Menores de su distrito, cuando las leyes así lo dispongan;
 
@@ -464,6 +484,30 @@ VII.- De los exhortos que les dirijan los Jueces de Primera Instancia del Estado
 VIII.- De las diligencias que les encomiende el Supremo Tribunal de Justicia; y,
 
 IX.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
+
+###### ARTICULO 38 Bis.
+
+Los Jueces de lo Familiar conocerán:
+
+I.- De los negocios de jurisdicción voluntaria relacionados con el Derecho Familiar.
+
+II.- De los juicios contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo, al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio, de los que tengan por objeto modificaciones o rectificaciones a las actas del estado civil, de los divorcios por mutuo consentimiento, excepto del administrativo, de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legitima, natural o adoptiva, de los que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción y tutela y de las que se refieran a cualquier cuestión relacionada con el patrimonio de la familia, su constitución, disminución, extinción o afectación en cualquier forma.
+
+III.- De los juicios sucesorios.
+
+IV.- De los asuntos judiciales concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco.
+
+V.- De las diligencias de consignación en todo lo relativo al Derecho Familiar.
+
+VI.- De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos, relacionados con el Derecho Familiar.
+
+VII.- De las cuestiones relativas a adopción, a las que afecten a los menores e incapacitados en sus derechos de personas y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
+
+VIII.- De los registros en que consten los discernimientos de los cargos de tutor y curador, los que estarán a disposición de los Consejos Locales de Tutela.
+
+IX.- De las diligencias que les encomiende el Tribunal por conducto del Pleno o la Presidencia, y de las demás funciones a que los obliguen las leyes Federales y del Estado.
 
 ###### ARTICULO 39.
 
@@ -479,13 +523,17 @@ IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los
 
 V.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 40.
 
-En los distritos judiciales en que el volumen de los negocios no permita que los Juzgados se especialicen por materia, funcionarán Juzgados Mixtos.
+En los Distritos Judiciales en que el volumen de los negocios no amerite que los Juzgados se especialicen por materia, funcionarán Juzgados Mixtos, incluida la materia Familiar.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 41.
 
-Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de lo Civil y de lo Penal.
+Los jueces Mixtos tendrán las atribuciones y funciones que las leyes señalen para los Jueces de lo Civil, Penal y Familiar.
 
 ###### ARTICULO 42.
 
@@ -1603,7 +1651,7 @@ El inicio de funciones del Segundo Distrito Judicial y de las Centrales de Actua
 
 La recaudación de los montos o depósitos de bienes y valores que deban ingresar al Fondo Auxiliar para la Administración de Justicia se harán directamente ante las oficinas receptoras del mismo, con excepción de aquellos distritos judiciales en que aún no existan, en los cuales la recaudación se seguirá haciendo con el auxilio de las Oficinas Fiscales, las que oportunamente las integrarán al Fondo, en tanto sean creadas oficinas receptoras en dichos distritos.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 13 de diciembre del año 2000.- Diputado Presidente, ING. ERNESTO HOMAR CANTU RESENDEZ.- Rúbrica.- Diputado Secretario, GABRIEL ANAYA FERNÁNDEZ.- Rúbrica.- Diputado Secretario, VICTOR HUGO MORENO DELGADILLO.- Rúbrica.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 13 de diciembre del año 2000.- Diputado Presidente, ING. ERNESTO HOMAR CANTU RESENDEZ.- Rúbrica.- Diputado Secretario, GABRIEL ANAYA FERNÁNDEZ.- Rúbrica Diputado Secretario, VICTOR HUGO MORENO DELGADILLO.- Rúbrica.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1626,3 +1674,13 @@ El presente Decreto entrará en vigor el día 1o. de enero del año 2002.
 ###### ARTICULO SEGUNDO.
 
 Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
+
+P.O. DE 3 DE JUNIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas a que se contrae el presente Decreto entrarán en vigor a los treinta y cinco días siguientes al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
