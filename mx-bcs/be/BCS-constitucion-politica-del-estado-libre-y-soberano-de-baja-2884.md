@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1985-07-10"
+last_updated: "1986-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE MAYO DE 1986.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -261,13 +261,13 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 1986)</small>
 
-41.- El Congreso del Estado de Baja California Sur se integrará con diez Diputados de Mayoría Relativa electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales uninominales y hasta con tres Diputados electos mediante el principio de Representación Proporcional, apegándose, en ambos casos, a las reglas siguientes:
+41.- El Congreso del Estado de Baja California Sur, se integrará con doce Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cuatro Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
 
-> <small>(REFORMADA, B.O. 25 DE ABRIL DE 1983)</small>
+> <small>(REFORMADA, B.O. 13 DE MAYO DE 1986)</small>
 
-I.- La base para realizar la demarcación territorial de los diez Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
+I.- La base para realizar la demarcación territorial de los doce Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
 
 > <small>(REFORMADA, B.O. 25 DE ABRIL DE 1983)</small>
 
@@ -521,7 +521,7 @@ XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la sup
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
-XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos;
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1684,3 +1684,9 @@ B.O. 10 DE JULIO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 13 DE MAYO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
