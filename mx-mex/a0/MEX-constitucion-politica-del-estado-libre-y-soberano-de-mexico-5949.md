@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1972-12-16"
+last_updated: "1973-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 1973
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -855,9 +855,9 @@ XII.- Todas las demás que sean propias de la Autoridad Pública del Gobierno de
 
 XIII.- Ordenar la modificación de los planos, tablas o cuadros de valores, para la tierra o para la construcción, cuando las condiciones de la zona de que se trate o un sector de ésta lo ameriten, en razón de los movimientos de los valores comerciales. Tales modificaciones deberán ajustarse al procedimiento establecido por las Leyes relativas para la determinación de valores unitarios.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1973)</small>
 
-XIV.- Otorgar el fiat para el ejercicio de la función notarial.
+XIV.- Otorgar el nombramiento de notario con arreglo a las Leyes de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, 27 DE AGOSTO DE 1966)</small>
 
@@ -1749,19 +1749,19 @@ DE LA INSTITUCION DEL NOTARIADO Y DEL REGISTRO PUBLICO.
 
 En el Estado serán obligatorias las instituciones del Notariado y del Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1973)</small>
+
 ###### Art. 218.
 
-Las leyes que se dicten sobre el Notariado se sujetarán a las bases siguientes:
+Las Leyes que se dicten sobre el Notariado se sujetarán a las bases siguientes:
 
-I. Todos los contratos que se refieran a bienes raíces, cuyo valor no exceda de doscientos pesos, se celebrarán en acta privada también;
+I.- La institución del notariado se encargará de dar formalidad a los actos jurídicos que la requieran o soliciten las partes interesadas y de dar fe, a petición de parte, de los hechos y actos que le consten; debiendo los notarios orientar e instruir a quienes soliciten sus servicios, respecto de los actos propios de sus funciones.
 
-II. Todos los testamentos que tengan por objeto bienes raíces, cuyo valor no exceda de un mil pesos, serán hechos en acta privada;
+II.- La supervisión de la función notarial estará a cargo de Ejecutivo a través de la Dependencia correspondiente, quien podrá imponer a los notarios las sanciones administrativas que la Ley autorice.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+III.- En el Estado habrá tantas Notarías como requiera el interés público y por lo menos una en cada cabecera de Distrito Judicial.
 
-III. Todas las actas privadas a que se refieren las fracciones anteriores deberán extenderse en los ejemplares necesarios y uno más los que ratificarán los interesados ante el Juez Menor Municipal correspondiente, en asuntos hasta de cien pesos o ante el Juez de Primera Instancia del Distrito en negocios mayores de esa cantidad. Tanto los Jueces Menores Municipales como los de Primera Instancia en su caso, formarán con el ejemplar excedente protocolos que conservarán en sus archivos.
-
-IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1947)
+IV.- El nombramiento de notario sólo se otorgará a ciudadanos del Estado que estén legalmente autorizados para ejercer como profesionales del Derecho, cuya honorabilidad sea conocida y que llenen los demás requisitos que marque la Ley.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2077,15 +2077,9 @@ DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA 
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 2 DE OCTUBRE DE 1943.
-
-DECRETO NUMERO 2, POR EL QUE SE DEROGA LA FRACCION X DEL ARTICULO 109, SE ABROGA EL ARTICULO PRIMERO DEL DECRETO NUMERO 59 DE 18 DE OCTUBRE DE 1941, EN LA PARTE QUE DEROGO LA FRACCION XVI AL ARTICULO 70 Y LA VII DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DEL ESTADO.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
 G.G. 8 DE ENERO DE 1944.
 
-DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### Art. 1o.
 
@@ -2102,14 +2096,6 @@ Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamient
 G.G. 8 DE ENERO DE 1944.
 
 DECRETO NUMERO 32, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 104, ACTUALMENTE VIGENTES DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
-
-G.G. 8 DE ENERO DE 1944.
-
-DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2146,6 +2132,28 @@ G.G. 17 DE OCTUBRE DE 1945.
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 20 DE ABRIL DE 1946.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
+
+Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 15 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
@@ -2210,6 +2218,12 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 G.G. 16 DE DICIEMBRE DE 1972.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en la "Gaceta del Gobierno" del Estado.
+
+G.G. 31 DE ENERO DE 1973.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
