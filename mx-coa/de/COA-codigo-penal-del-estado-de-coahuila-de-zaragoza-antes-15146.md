@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2004-09-14"
+last_updated: "2004-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1931,7 +1931,7 @@ II. ENTORPECIMIENTO DE LA INVESTIGACIÓN MEDIANTE FALSEDAD U OCULTACIÓN, ALTERA
 
 III. ENTORPECIMIENTO Y DILACIÓN INDEBIDA DE LA INVESTIGACIÓN. A propósito y sin existir motivo justificado, impida, dificulte o indebidamente retarde la averiguación de un delito; o esconda, altere, destruya o simule una o más de sus constancias.
 
-> <small>(F. DE E. P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
 
 IV. ENTORPECIMIENTO DE LA INVESTIGACIÓN MEDIANTE CIERTAS DECLARACIONES FALSAS. Niegue ser testigo no obstante serlo o afirme ser testigo sin serlo, de un hecho delictuoso o de circunstancias relacionadas con éste; o respecto de quien se atribuya alguna intervención en el hecho; aunque sea sin rendir protesta de conducirse con verdad.
 
@@ -2287,7 +2287,7 @@ Lo que se previene en el párrafo anterior, no excluye la condena por el importe
 
 CONDENA POR DAÑO MORAL. Salvo los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en el artículo 118 y las circunstancias personales del ofendido o víctima.
 
-Cuando el daño moral se presuma legalmente, pero se le omita acreditar: El juzgador se estará al mínimo sancionable que previene el artículo siguiente; a menos que de las circunstancias personales del ofendido o víctima y de las del caso concreto, se deduzca afectación moral superior a la mínima. En tal evento, el juzgador podrá aumentar el monto de la indemnización que imponga hasta la mitad del limite máximo.
+Cuando el daño moral se presuma legalmente, pero se le omita acreditar: El juzgador se estará al mínimo sancionable que previene el artículo siguiente; a menos que de las circunstancias personales del ofendido o víctima y de las del caso concreto, se deduzca afectación moral superior a la mínima. En tal evento, el juzgador podrá aumentar el monto de la indemnización que imponga hasta la mitad del límite máximo.
 
 ###### ARTÍCULO 125.
 
@@ -3483,6 +3483,8 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADO
 
 ### CAPÍTULO SÉPTIMO. USURA
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ### CAPÍTULO OCTAVO. DESPOJO
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
@@ -3767,9 +3769,9 @@ QUERELLA NECESARIA. El delito de administración fraudulenta sólo se perseguir�
 
 ###### ARTÍCULO 430.
 
-PENALIDAD Y FIGURA TÍPICA DE USURA. Se aplicará prisión de seis meses a seis años y multa: A quien aprovechando la necesidad apremiante, la ignorancia o inexperiencia de una persona, obtenga un lucro excesivo, para sí o para otro, mediante intereses o ventajas económicas evidentemente desproporcionadas, en atención a la naturaleza de la operación o a los usos comerciales.
+PENALIDAD Y FIGURA TÍPICA DE USURA. Se aplicará de seis meses a ocho años y multa de diez a cuatrocientos días: Al que aprovechándose de la apremiante necesidad de una persona, de su ignorancia o notoria inexperiencia realice préstamos en cualquier forma contractual, con intereses superiores a los bancarios; o que obtenga otros beneficios desproporcionados a los usos comerciales, en especie o en servicios, para sí o para otro.
 
-El monto de la reparación del daño, será por lo menos igual a la desproporción de la ventaja económica obtenida o de los intereses devengados en exceso, o de ambos según el caso.
+El monto de la reparación del daño, será por lo menos igual a la desproporción del beneficio económico obtenido o de los intereses devengados en exceso, o de ambos, según el caso.
 
 ###### ARTÍCULO 431.
 
@@ -3986,3 +3988,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
 P.O. 14 DE SEPTIEMBRE DE 2004.
 
 ÚNICO. El presente decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+UNICO. El presente decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
