@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1998-12-30"
+last_updated: "2000-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -153,17 +153,15 @@ V.- Secretaría de Desarrollo Económico;
 
 VI.- Secretaría de Desarrollo Urbano y Obras Públicas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2000)</small>
 
-VII.- Secretaría de Desarrollo Humano;
+VII. Secretaría de Desarrollo Humano y del Trabajo.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
 VIII.- Secretaría de la Contraloría General; y
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
-
-IX.- Secretaría del Trabajo.
+IX. (DEROGADA, P.O. 16 DE JUNIO DE 2000)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -509,65 +507,43 @@ XXIV.- Apoyar los programas de cuidado del medio ambiente en el ámbito de su co
 
 XXV.- Las que le señalen las demás leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 23.
 
-A la Secretaría de Desarrollo Humano le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Humano y del Trabajo le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+I.- Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes a fortalecer el desarrollo social en los municipios del Estado, fomentando la participación ciudadana, así como mejorar la capacidad de gestión de las administraciones municipales; participar en los comités, consejos y demás órganos de coordinación de la Administración Pública, vinculados con la promoción del desarrollo municipal;
 
-I.- Promover, la celebración de convenios con los municipios para la coordinación que se requiera en la realización de estudios y proyectos tendientes a fortalecer el desarrollo social en los municipios, fomentando la participación ciudadana, así como mejorar la capacidad de gestión de las administraciones municipales; participar en los comités, consejos y demás órganos de coordinación de la administración Pública, vinculados con la promoción del desarrollo municipal;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-II.- Proponer al Ejecutivo los métodos, formas y acciones de coordinación entre el Estado y los municipios, para fortalecer el desarrollo económico y social de éstos;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+II.- Proponer al Titular del Poder Ejecutivo, los métodos, formas y acciones de coordinación entre el Estado y los municipios, para fortalecer el desarrollo económico y social de éstos;
 
 III.- Fomentar y apoyar la realización de programas de colaboración intermunicipal, para ejecutar proyectos de obras o servicios que incidan en la prevención o solución de problemas comunes a más de un municipio, o que faciliten la convivencia de los habitantes de los mismos;
 
-IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+IV.- Impulsar y coordinar los programas de concertación social en proyectos de beneficio para la comunidad;
 
-V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+V.- Proponer, programar, difundir, promover y fomentar las políticas y programas relativos a la beneficencia privada, y evaluar las acciones y programas de esas Instituciones; así como autorizar, previo acuerdo del Titular del Ejecutivo, las modificaciones y reformas al acta constitutiva de las Instituciones de beneficencia privada o asistencia social, su liquidación, y realizar las demás funciones normativas que en estas materias le confieran las leyes;
 
-VI.- Proponer, programar, difundir, promover y fomentar las políticas y programas relativos a la beneficiencia privada, así como evaluar las acciones y programas de esas instituciones;
+VI.- Promover y gestionar ante los tribunales competentes, el despacho de los asuntos en que tenga interés la beneficencia privada;
 
-VII.- Proponer al Ejecutivo la supresión de institución de asistencia social que no cumplan con su objeto en los términos de ley, o que carezcan de los recursos suficientes;
+VII.- Proponer al Titular del Ejecutivo la suspensión de instituciones de asistencia social que no cumplan con su objeto en los términos de ley o que carezcan de los recursos suficientes;
 
-VIII.- Llevar a cabo en materia de asistencia social, las funciones normativas que establezcan las Leyes;
+VIII.- Promover y realizar los actos necesarios para que nuevoleoneses participen en competencias o eventos deportivos regionales, nacionales e internacionales, en coordinación con las demás dependencias o entidades competentes; organizar desfiles atléticos y todo género de eventos deportivos;
 
-IX.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 07 DE JUNIO DE 1995)
+IX.- Planear, diseñar e implementar por sí misma o en coordinación con instituciones públicas o privadas, la infraestructura humana y material idónea para fomentar la práctica de las diversas disciplinas deportivas con criterios de calidad, de carácter recreativo o de alto rendimiento, y organizar y administrar las instalaciones deportivas, conforme a la Ley;
 
-X.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 07 DE JUNIO DE 1995)
+X.- Diseñar y promover programas de capacitación, calidad, seguridad e higiene para los trabajadores, por sí misma o en coordinación con las autoridades federales;
 
-XI.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 07 DE JUNIO DE 1995)
+XI.- Intervenir conciliatoriamente en los conflictos obrero patronales que se presenten con motivo de la aplicación de la Ley de la materia, sus reglamentos o contratos colectivos de trabajo;
 
-XII.- Organizar y administrar instalaciones deportivas; determinar y organizar la participación oficial del Estado en competencias deportivas, regionales y nacionales, organizar desfiles atléticos y todo genero de eventos deportivos;
+XII.- Vigilar, en lo administrativo, que los centros de trabajo cumplan con las disposiciones de la Ley Federal del Trabajo y sus reglamentos y calificar, en representación del Titular del Ejecutivo, las sanciones administrativas en los términos de las leyes de la materia;
 
-XIII.- Planear, diseñar e implementar por si mismo, o en coordinación con instituciones publicas o privadas, la infraestructura humana y material necesario que el deporte de la entidad requiera;
+XIII.- Representar o asesorar a los trabajadores y a sus sindicatos, cuando lo soliciten, en cuestiones relacionadas con la aplicación de las normas de trabajo;
 
-XIV.- Autorizar, previo acuerdo del Gobernador, las modificaciones y reformas a los estatutos de las instituciones de beneficiencia privada o asistencia social, así como el cambio de su objeto social y liquidación;
+XIV.- Por acuerdo del Titular del Ejecutivo llevar la política laboral del Estado;
 
-XV.- Promover y gestionar ante los tribunales competentes, el despacho de los asuntos en que tenga interés la beneficiencia privada;
+XV.- Operar el sistema de Radio Nuevo León supervisando su apego a las políticas generales y programas que se fijen en la materia, así como impulsar, implementar y determinar su preservación como modelo cultural, consolidando su misión y vocación de medio electrónico de comunicación comprometido en el bienestar social, la calidad de vida, la integración familiar de los nuevoleoneses, la cultura y las artes; y
 
-XVI.- Impulsar y coordinar los programas de concertacion social en proyectos de beneficio para la comunidad;
-
-XVII.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
-
-XVIII.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
-
-XIX.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
-
-XX.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-XXI.- Operar el Sistema de Radio Nuevo León supervisando su apego a las políticas generales y programas que se fijen en la materia, así como impulsar, implementar y determinar su preservación como modelo cultural, consolidando su misión y vocación de medio electrónico de comunicación comprometido en el bienestar social, la calidad de vida, la integración familiar de los nuevoleoneses, la cultura y las artes; y
-
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1994)</small>
-
-XXII.- Las demás que le señalen las Leyes o Reglamentos y otras disposiciones vigentes.
+XVI.- Las demás que le señalen las Leyes o Reglamentos y otras disposiciones vigentes.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE1992)</small>
 
@@ -637,23 +613,7 @@ XIII.- Recibir la declaración patrimonial de los servidores públicos en los t�
 
 XIV.- Las demás que señalen las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1991)</small>
-
-###### Artículo 24o.
-
-BIS:- A la Secretaría del Trabajo le corresponde el despacho de los siguientes asuntos:
-
-I.- Diseñar y promover programas de capacitación, calidad, seguridad e higiene para los trabajadores; por sí misma y en coordinación con las autoridades federales;
-
-II.- Intervenir conciliatoriamente en los conductos de obrero patronales que se presenten con motivo de la aplicación de la Ley de la materia, sus reglamentos o contratos colectivos de trabajo;
-
-III.- Vigilar, en lo administrativo, que los centros de trabajo cumplan con las disposiciones de la Ley Federal del Trabajo y sus reglamentos y calificar, en representación del Ejecutivo, las sanciones administrativas en los términos de las Leyes de la materia;
-
-IV.- Representar o asesorar a los trabajadores y a sus sindicatos, cuando lo soliciten, en cuestiones relacionadas con la aplicación de las normas de trabajo;
-
-V.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado, y
-
-VI.- Las demás que señalen las Leyes y Reglamentos.
+ARTICULO 24 BIS.- (DEROGADO, P.O. 16 DE JUNIO DE 2000)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -968,3 +928,11 @@ El Ejecutivo del Estado deberá proveer lo necesario para que los reglamentos in
 ###### ARTÍCULO OCTAVO.
 
 Con motivo de las reformas al artículo 23 fracción XXI, materia de este Decreto, Televisión Estatal quedará adscrita a la Oficina del C. Gobernador del Estado. En tal virtud, su transferencia se sujetará a las disposiciones contenidas en los artículos precedentes.
+
+P.O. 16 DE JUNIO DE 2000.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Cuando en alguna otra Ley se haga referencia a la Secretaría de Desarrollo Humano o a la Secretaría del Trabajo, la competencia o atribuciones que se indiquen, por virtud de este Decreto, se deberán ejercer por la Secretaría de Desarrollo Humano y del Trabajo.
+
+Tercero.- El personal adscrito a la Secretaría de Desarrollo Humano y a la Secretaría del Trabajo se transfieren a la Secretaría de Desarrollo Humano y del Trabajo, con pleno respeto a sus derechos laborales. La Secretaría de Finanzas y Tesorería General del Estado en coordinación con la Secretaría de la Contraloría General, implementará los procedimientos administrativos para estos efectos y para asignar a la Secretaría de Desarrollo Humano y del Trabajo los recursos materiales y equipos adscritos originalmente a las Dependencias aludidas.
