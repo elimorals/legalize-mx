@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2001-02-02"
+last_updated: "2001-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -687,9 +687,11 @@ XXII. Seguridad Pública y Procuración de Justicia; y
 
 XXIII. Vigilancia.
 
+> <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Artículo 40.
 
-Las Comisiones permanentes, por conducto del Presidente del Congreso, convocarán trimestralmente a los titulares de las dependencias y entidades de la administración pública, a fin de que éstos comparezcan cuando se delibere sobre un asunto relativo a sus respectivos ramos o actividades o para dar cuenta del estado que guardan las dependencias y entidades a su cargo, de conformidad con la agenda legislativa que para esta materia acuerde la Junta de Trabajos Legislativos con la participación de los Presidentes de dichas Comisiones.
+Las titulares de las dependencias y entidades de la administración pública comparecerán semestralmente ante las Comisiones Permanentes a dar cuenta del estado que guardan aquéllas, previa convocatoria de la Legislatura al Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso. Bajo el mismo procedimiento, comparecerán cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 ### CAPÍTULO VII. DE LA DIPUTACIÓN PERMANENTE
 
@@ -895,27 +897,27 @@ VII. Formular, respecto de los servicios previstos en el presente Título, los p
 
 VIII. Preparar, en el año de la renovación del Congreso del Estado, la documentación relativa al proceso de entrega y recepción de los servicios a su cargo;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
-IX. Informar trimestralmente a la Junta de Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los Servicios Legislativos, de Fiscalización y Administrativos y financieros; así como los siguientes asuntos:
+IX. Informar trimestralmente a la Junta de Trabajos Legislativos sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios legislativos, de fiscalización y administrativos y financieros, así como de las siguientes áreas que estarán bajo su coordinación inmediata:
 
-a). Oficialía de Partes;
+Oficialía de Partes;
 
-b). Servicios Jurídicos;
+Servicios Jurídicos;
 
-c). Investigaciones Legislativas;
+Investigaciones Legislativas;
 
-d). Asesoría y Orientación Municipal;
+Asesoría y Orientación Municipal;
 
-e). Comunicación Social;
+Comunicación Social;
 
-f). Informática;
+Informática;
 
-g). Biblioteca;
+Biblioteca;
 
-h). Archivo;
+Archivo; y
 
-i). Servicio Médico y Seguridad; y
+Servicio Médico y Seguridad; y
 
 X. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
@@ -971,11 +973,11 @@ III. Recursos Materiales, que comprende los de: inventario, provisión y control
 
 IV. Generales y de Informática, que comprende los de: mantenimiento de bienes inmuebles; alimentación; servicios generales, apoyo técnico para adquisiciones de bienes informáticos; instalación y mantenimiento del equipo de cómputo; asesoría y planificación informática;
 
-V. Jurídicos, que comprende los de: asesoría y atención de asuntos legales del Congreso, en sus aspectos consultivo y contencioso;
+V. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
-VI. Seguridad, que comprende los de: vigilancia y cuidado de bienes muebles e inmuebles; seguridad a personas; y control de acceso externo e interno;
+VI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
-VII. Médicos y de Atención a Diputados; y
+VII. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 VIII. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
@@ -1008,3 +1010,13 @@ G.O. 2 DE FEBRERO DE 2001.
 Artículo primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 7 DE SEPTIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
