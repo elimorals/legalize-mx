@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-universidad-autonoma-de-nayarit-12799"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-03-09"
-last_updated: "1985-03-09"
+last_updated: "1997-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit el sábado 9 de marzo de 1985.
 
@@ -249,13 +249,23 @@ IX. Determinar las medidas necesarias para la aprobación o modificación de los
 
 X. Acordar la adquisición y destino de los bienes de la Universidad, autorizar erogaciones extraordinarias, aceptar o rechazar herencia, donaciones o legados; y
 
-XI. Las demás que esta Ley, el Reglamento General Universitario y los reglamentos específicos le otorguen.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+XI. Conceder licencia al Rector por el tiempo que discrecionalmente se apruebe;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+XII. Las demás que esta ley, el reglamento general universitario y los reglamentos específicos le otorguen.
 
 ### CAPITULO VI. DEL RECTOR
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 23.
 
-El Rector es el representante legal de la Universidad y Presidente del Consejo General Universitario, durará en su encargo cuatro años y podrá ser reelecto por una sola vez.
+El Rector es el Representante Legal de la Universidad y Presidente del Consejo Universitario; durará en su cargo seis años, no pudiendo ser reelecto.
+
+La persona que haya ocupado el cargo de Rector Electo en ningún caso ni por ningún motivo podrá volver a desempeñarlo.
 
 ###### ARTICULO 24.
 
@@ -391,7 +401,7 @@ El personal académico de la Universidad Autónoma de Nayarit, estará integrado
 
 ###### ARTICULO 34.
 
-Las relaciones entre la universidad y su Personal Académico se regirán por el Reglamento General Universitario y por los Reglamentos Específicos que apruebe el Consejo General Universitario.
+Las relaciones entre la Universidad y su Personal Académico se regirán por el Reglamento General Universitario y por los Reglamentos Específicos que apruebe el Consejo General Universitario.
 
 ###### ARTICULO 35.
 
@@ -453,7 +463,7 @@ Los bienes que formen parte del patrimonio universitario serán inalienables e i
 
 ###### ARTICULO 44.
 
-Los ingresos de la universidad y los bienes de su propiedad, no estarán sujetos a impuestos o derechos Federales, Estatales o Municipales, tampoco serán gravados los actos y contratos en que ella intervenga.
+Los ingresos de la Universidad y los bienes de su propiedad, no estarán sujetos a impuestos o derechos Federales, Estatales o Municipales, tampoco serán gravados los actos y contratos en que ella intervenga.
 
 ### CAPITULO XIV. RESPONSABILIDADES Y SANCIONES
 
@@ -508,3 +518,9 @@ EMILIO M. GONZÁLEZ.- Rúbrica.
 El Secretario General de Gobierno
 
 JOSÉ FÉLIX TORRES HARO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
