@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1978-10-24"
+last_updated: "1979-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -151,23 +151,31 @@ Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio
 
 El Congreso se instalará cada tres años, el día primero de febrero posterior a la elección.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1979)</small>
 
 ### CAPITULO TERCERO. De las facultades del Congreso
 
 ###### Art. 13.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del 1o. de febrero al último de marzo; y el otro comprenderá del 1o. de septiembre al 31 de diciembre.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones, uno durará del primer sábado de febrero al día último de marzo y el otro comprenderá del 1o. de septiembre al 31 de diciembre.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 En el primer periodo se ocupará preferentemente:
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
+
 Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 En el segundo período se ocupará preferentemente:
 
 I. Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal y decretará los impuestos necesarios para cubrirlo.
 
 II. Del examen, discusión y aprobación de los presupuestos de ingresos de los Municipios.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 En ambos períodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
@@ -824,3 +832,9 @@ PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEGUNDO.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
 
 TERCERO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+
+P.O. 2 DE ENERO DE 1979.
+
+PRIMERO.- Envíese el presente Decreto a los Ayuntamientos del Estado en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco" incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
