@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1999-12-28"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 28 DE DICIEMBRE DE 1999.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -193,8 +193,6 @@ cuota sin ajuste cuota con ajuste
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
 I.- Expedición de copias certificadas 8.65 9.00
 
 de documentos, por cada hoja
@@ -202,6 +200,8 @@ de documentos, por cada hoja
 tamaño carta u oficio
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 II.- Reposición de constancias o 73.01 73.00
 
@@ -225,11 +225,11 @@ por cada una
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 V.- Legalización de firmas 237.54 238.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 VI.- Por cualquier otra certificación 73.01 73.00
 
@@ -443,6 +443,10 @@ la calidad de no inmigrante
 
 No pagarán el derecho por servicios migratorios a que se refiere la fracción II de este artículo, los choferes u operadores de vehículos de transporte de carga que se internen en el país con el único objeto de cargar o descargar mercancías en los recintos de las aduanas fronterizas del sur del territorio nacional.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+El pago del derecho previsto en las fracciones I, III y VIII de este artículo, podrá efectuarse hasta que el extranjero abandone el territorio nacional.
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 9o.
@@ -509,17 +513,7 @@ I.- Por la expedición de la 2,213.41 2,213.00
 
 declaratoria de inmigrado
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición de 1,734.92 1,735.00
-
-permisos a inmigrados para
-
-ejercer otras actividades
-
-distintas a las que le hubieran
-
-sido autorizadas, por cada uno
+II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -767,29 +761,11 @@ Los ingresos que se obtengan por el derecho de servicios migratorios extraordina
 
 La parte de los ingresos que exceda el límite señalado en este artículo, no tendrá destino específico y se enterará a la Tesorería de la Federación a más tardar en el mes siguiente a aquél en que se obtuvo el ingreso.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 15.
 
-Por la prestación de
-
-Servicios migratorios en puertos
-
-marítimos a pasajeros internacionales
-
-que ingresen a territorio nacional,
-
-pagarán derechos conforme a la
-
-siguiente cuota
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-31.00 31.00
+Por la prestación de servicios migratorios en puertos marítimos a pasajeros internacionales que ingresen a territorio nacional, pagarán derechos conforme a la siguiente cuota $ 31.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -797,13 +773,17 @@ cuota sin ajuste cuota con ajuste
 
 Los asilados políticos, refugiados, visitantes distinguidos y visitantes locales, no pagarán los derechos por internación al país, ni por reposición de documentos, establecidos en los artículos precedentes de esta Sección.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+No les será aplicable la exención establecida en el párrafo anterior, a los pasajeros internacionales que ingresen al territorio nacional por puertos marítimos, a que se refiere el artículo 15 de esta Ley.
+
 ###### ARTICULO 17.
 
 No pagarán los derechos por los servicios a que esta sección se refiere los extranjeros cuando el tipo de trabajo a realizar, tenga por remuneración el salario mínimo o ingresos de menor cuantía al mismo.
 
 ###### ARTICULO 18.
 
-No pagarán los derechos a que esta sección se refiere, los extranjeros, en caso de reciprocidad del país del que son nacionales.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -857,43 +837,21 @@ VI.- Agregado o variación del 468.98 469.00
 
 subtítulo
 
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19
 
-1.- 1,634.00 1,634.00 (sic)
+1.- Por la expedición de la constancia de registro a distribuidores de publicaciones editadas e impresas en el extranjero, se pagarán derechos conforme a la cuota de $ 1,634.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. Publicaciones
 
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19-A.
 
-Por los servicios de
-
-publicaciones que se presten en el
-
-Diario Oficial de la Federación, se
-
-pagará el derecho de publicaciones
-
-conforme a la cuota de 863.00 863.00
-
-por plana completa.
+Por los servicios de publicaciones que se presten en el Diario Oficial de la Federación, se pagará el derecho de publicaciones por octavo de plana, conforme a la cuota de $ 863.00
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -905,9 +863,9 @@ Los ingresos que se obtengan por el derecho de publicaciones a que se refiere es
 
 No se pagará el derecho de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, cuando obedezcan a actos administrativos de carácter general e interés público.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública Federal y, en su caso, los gobiernos de las entidades federativas, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, así como de los documentos cuya inserción ordenen en la Sección de Avisos del Diario Oficial de la Federación.
+Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública Federal y, en su caso, los gobiernos de las entidades federativas, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, edictos y cédulas de notificación, así como de los documentos cuya inserción ordenen en la sección de avisos del Diario Oficial de la Federación.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1059,8 +1017,6 @@ al supuesto del inciso anterior
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 II.- Por el trámite y estudio y, 586.96 587.00
 
 en su caso, la autorización
@@ -1171,13 +1127,15 @@ libreto para televisión, por
 
 cada 30 minutos o fracción
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX
+IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
 
-a) 150.00 150.00
+a).- Por la primera hora $ 150.00
 
-b) 75.00 75.00 (sic)
+b).- Por cada hora o fracción adicional $ 75.00
+
+Para efectos de esta fracción se entiende como horario ordinario el de 9:00 a 18:00 horas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1305,15 +1263,15 @@ IV.- Por la expedición de la concesión
 
 en territorio insular 1,600.18 1,600.00
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION SEPTIMA. Servicios Privados de Seguridad
+#### SECCION SEPTIMA. Servicios Privados de Seguridad y Armas de Fuego
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19-I.
 
-Por la realización de trámites relacionados con los servicios privados de seguridad a que se refiere el artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, cuando dichos servicios comprendan dos o más entidades federativas, las empresas pagarán derechos conforme a las siguientes cuotas:
+Por la prestación de los servicios privados de seguridad que realizan los particulares en varias Entidades Federativas, por los conceptos que a continuación se indican, se pagarán derechos conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -1321,11 +1279,15 @@ Por la realización de trámites relacionados con los servicios privados de segu
 
 cuota sin ajuste cuota con ajuste
 
-I.- Por el estudio de la solicitud de autorización:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- Por el estudio y trámite de la solicitud para la autorización o para su revalidación:
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Para prestar los servicios de vigilancia en inmuebles 7,875.71 7,876.00
+a).- Para prestar los servicios de
+
+vigilancia en inmuebles 7,875.71 7,876.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -1341,47 +1303,25 @@ de traslado y protección de
 
 personas 7,875.71 7,876.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-d).- Para prestar los servicios
+d).- Para prestar los servicios de localización e información sobre personas físicas o morales y bienes $ 4,568.00
 
-de investigación privada a
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-personas físicas o morales 4,568.00 4,568.00
+II.- Por la expedición de la autorización o de su revalidación $ 2,363.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Por la expedición de la
+III.- Por la inscripción de cada persona que preste los servicios a que se refiere este artículo, en el Registro Nacional del Personal de Seguridad Pública $ 79.00
 
-autorización 2,363.00 2,363.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+IV.- Por la inscripción de cada arma de fuego o equipo utilizado por las personas físicas o morales a que se refiere este artículo, en el Registro Nacional de Armamento y Equipo $ 24.00
 
-III.- Por la inscripción en el Registro
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Nacional del Personal de Seguridad
-
-Pública de cada integrante de las
-
-empresas que presten los servicios
-
-a que se refiere este artículo 79.00 79.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Por la inscripción en el Registro
-
-Nacional de Armamento y Equipo de
-
-cada arma de fuego o equipo a que
-
-se refiere este artículo 24.00 24.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-V.- Por consulta de antecedentes
-
-policiales, por cada elemento 24.00 24.00
+V.- Por la consulta de antecedentes policiales de cada elemento en el Registro Nacional a que se refiere la fracción III $ 24.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -1395,43 +1335,21 @@ VII.- Por cambio en la titularidad de
 
 las acciones o partes sociales 3,622.79 3,623.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII 1,420.00 1,420.00 (sic)
+VIII.- Por la modificación de la autorización o, en su caso, de la revalidación, a que se refiere este artículo $ 1,420.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19-J.
 
-Por la expedición o
+Por el estudio de la solicitud, y en su caso, la expedición o revalidación de cada licencia oficial individual de portación de armas de fuego a empleados federales, se pagarán derechos conforme a la siguiente cuota $ 206.00
 
-revalidación a empleados federales
+> <small>(ADICIONADO, [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-de cada licencia oficial individual de
+###### ARTICULO 19-K.
 
-portación de armas de fuego, se
-
-pagarán derechos conforme a la
-
-siguiente cuota
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-206.00 206.00
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-ARTICULO 19 K.- 2,161.00 2,161.00 (sic)
+Por el estudio de la solicitud y, en su caso, la expedición de la opinión respectiva, sobre la justificación de la necesidad de que los elementos de las empresas autorizadas que presten el servicio de seguridad privada porten armas de fuego, se pagarán derechos conforme a la siguiente cuota $ 2,161.00
 
 ### CAPITULO II. De la Secretaría de Relaciones Exteriores
 
@@ -1758,6 +1676,18 @@ Para efectos de la presente exención, será necesario que el repatriado present
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 No pagarán los derechos por los servicios que se establecen en esta sección, los extranjeros, en caso de reciprocidad del país del que son nacionales.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+VIII.- La compulsa y el cotejo de documentos, para la tramitación de:
+
+a).- Pasaportes
+
+b).- Matrículas Consulares
+
+c).- Cartillas del Servicio Militar Nacional
+
+d).- Trámites de Nacionalidad
 
 ###### ARTICULO 24-A.
 
@@ -3323,33 +3253,43 @@ personas físicas $ 938.75 939.00
 
 1.- Los ingresos que se obtengan por los derechos a que se refieren los artículos 30, 30-A, 30-B, 31 y 31-A de esta Ley, se destinarán a la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION SEGUNDA. Registro Nacional de Valores e Intermediarios
+#### SECCION SEGUNDA. De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 31-B.
 
-Las Administradoras de Fondos para el Retiro y las Empresas Operadoras de la Base de Datos Nacional SAR, pagarán el derecho de inspección y vigilancia que se efectúa a éstas y a las Sociedades de Inversión Especializadas de Fondos para el Retiro que operen las primeras, a cargo de la Comisión Nacional del Sistema de Ahorro para el Retiro, conforme a las siguientes cuotas:
+Las Administradoras de Fondos para el Retiro, las Empresas Operadoras de la Base de Datos Nacional SAR, las Sociedades de Inversión Especializadas en Fondos para el Retiro que operan las primeras y cualquier otra institución sujeta a la inspección y vigilancia de la Comisión Nacional del Sistema de Ahorro para el Retiro, pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Las Administradoras de Fondos para el Retiro $ 38,172.62 cuota anual y adicionalmente $ 0.64 por cada cuenta individual que administren.
+I.- Las Administradoras de Fondos para el Retiro $ 38,172.62 cuota anual y adicionalmente $ 0.64 anuales por cada cuenta individual que administren.
 
-Para efectos del pago del derecho a que se refiere esta fracción, la cuota anual deberá pagarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. Asimismo, el derecho por cada cuenta individual se pagará en los meses de abril, julio y octubre del presente ejercicio fiscal y enero del siguiente.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Para efectos del pago del derecho a que se refiere esta fracción, la cuota anual deberá pagarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. Asimismo, respecto del derecho por cada cuenta individual se harán pagos provisionales en los meses de abril, julio y octubre del presente ejercicio fiscal y enero del siguiente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 Para determinar el monto de cada pago trimestral, se deberá tomar el número de cuentas abiertas que tenga cada Administradora de Fondos para el Retiro el último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-(ACTUALIZADA EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 II.- Las Empresas Operadoras de la Base de Datos Nacional SAR $ 39,699,528.00
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 Este pago podrá enterarse en dos parcialidades conforme a lo siguiente:
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 Una primera parcialidad equivalente al 50% del total en el mes de enero.
 
-Una segunda parcialidad equivalente al monto que resulte de aplicar al saldo insoluto el factor de actualización que establece el artículo 17-A del Código Fiscal de la Federación. Ésta deberá enterarse en el mes de julio del ejercicio fiscal de que se trate.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Una segunda parcialidad equivalente al monto que resulte de aplicar al saldo insoluto el factor de actualización, calculado de acuerdo a lo establecido en el artículo 17-A del Código Fiscal de la Federación, la que deberá enterarse en el mes de julio del ejercicio fiscal de que se trate.
 
 ###### ARTICULO 32.
 
@@ -3903,9 +3843,9 @@ pensiones y jubilaciones del extranjero,
 
 por cada una $ 630.02 630.00
 
-(ACTUALIZADA EN SU MONTO[N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- 613.00 613.00 (sic)
+IX.- Entidades de Financiamiento residentes en el extranjero en las que el Gobierno Federal o el Banco Central participe en su capital social $ 613.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3965,9 +3905,9 @@ e).- Fondos de pensiones y jubilaciones
 
 del extranjero $ 157.48 157.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-f) 220.00 220.00 (sic)
+f).- Entidades de Financiamiento residentes en el extranjero en las que el Gobierno Federal o el Banco Central participe en su capital social $ 220.00
 
 II.- Semestral:
 
@@ -4069,9 +4009,9 @@ las que participan fondos de pensiones
 
 y jubilaciones del extranjero $ 275.60 276.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- 257.00 257.00 (sic)
+IX.- Entidades de Financiamiento residentes en el extranjero en las que el Gobierno Federal o el Banco Central participe en su capital social $ 257.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4153,11 +4093,11 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 #### SECCION UNICA (SIC). Permisos en Materia de Energía Eléctrica y Gas Natural
 
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 56.
 
-Se pagará el derecho de permiso de energía eléctrica, por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso para la generación de energía eléctrica, conforme a las siguientes cuotas:
+Se pagará el derecho de permiso de energía eléctrica, por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso para la generación de energía eléctrica, conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -4183,19 +4123,19 @@ producción independiente de energía
 
 eléctrica $ 114,198.01 114,198.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- 16,500.00 16,500.00 (sic)
+III.- Por la modificación del título de permiso de generación de energía eléctrica bajo las modalidades de autoabastecimiento, cogeneración, pequeña producción, exportación o importación $ 16,500.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- 33,000.00 33,000.00 (sic)
+IV.- Por la modificación del título de permiso de generación de energía eléctrica bajo la modalidad de producción independiente $ 33,000.00
 
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 57.
 
-Se pagará el derecho de permiso de gas natural, por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, transporte de gas natural y transporte de gas natural para usos propios, conforme a las siguientes cuotas:
+Se pagará el derecho de permiso de gas natural, por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso relacionados con la distribución, almacenamiento, transporte de gas natural y transporte de gas natural para usos propios, conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -4233,25 +4173,25 @@ transporte de gas natural para
 
 usos propios $ 57,098.99 57,099.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- 100,000.00 100,000.00 (sic)
+V.- Por la expedición del título de permiso para el almacenamiento de gas natural $ 100,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- 25,000.00 25,000.00 (sic)
+VI.- Por la modificación del permiso de distribución de gas natural otorgado sin licitación $ 25,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- 25,000.00 25,000.00 (sic)
+VII.- Por la modificación del permiso de distribución de gas natural otorgado mediante licitación $ 25,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- 25,000.00 25,000.00 (sic)
+VIII.- Por la modificación del permiso de transporte de gas natural $ 25,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- 25,000.00 25,000.00 (sic)
+IX.- Por la modificación del permiso de transporte de gas natural para usos propios $ 25,000.00
 
 #### SECCION PRIMERA. Minería
 
@@ -5641,91 +5581,29 @@ b).- Por refrendo anual $ 2,362.68 2,363.00
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADA CON LAS ARTICULOS QUE LA INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADA CON LAS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION CUARTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y uso de Plaguicidas, Fertilizantes y Sustancias Toxicas
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 90-A.
 
-Por el registro único ante la Comisión Intersecretarial para el control del proceso y uso de plaguicidas, fertilizantes y sustancias tóxicas, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Plaguicidas:
-
-a).- Productos técnicos............. $ 3,000,000.00
-
-b).- Productos formulados............. $ 2,500,000.00
-
-II.- Sustancias tóxicas y productos que las contengan............. $ 2,000,000.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Fertilizantes:
-
-a).- Productos técnicos............. $ 1,000.00
-
-b).- Productos formulados............. $ 500.00
-
-Por la renovación del registro único de los productos a que este artículo se refiere, se pagará el 50% de la cuota correspondiente. Por la modificación del registro se pagará el 75%.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 90-B.
 
-Por el registro y autorización de empresas que realicen las actividades que a continuación se señalan, se pagará el derecho de registro y autorización de empresas, por establecimiento, conforme a las siguientes cuotas:
-
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-II.- (DEROGADA, D.O.F 10 DE MAYO DE 1996)
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Explotación, elaboración, fabricación, formulación, mezclado, acondicionamiento, envasado o importación de fertilizantes............. $ 500.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV.- Almacenamiento, comercialización, distribución y aplicación de fertilizantes............. $ 200.00
-
-Por la renovación o modificación del registro y la autorización a que este artículo se refiere, se pagará el 50% de la cuota correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 90-C.
 
-Por la expedición de permisos de responsabilidad ante las dependencias oficiales, se pagará el derecho de permiso de responsabilidad, por cada persona, conforme a las siguientes cuotas:
-
-I.- Responsables fitosanitarios, zoosanitarios y sanitarios de establecimientos a que se refiere la fracción I del artículo anterior.......... $ 200,000.00
-
-II.- Responsables fitosanitarios y zoosanitarios de establecimientos a que se refiere la fracción II del artículo anterior............. $ 100,000.00
-
-Por la renovación de estos permisos se pagará el 50% de las cuotas señaladas.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 90-D.
 
-Por la expedición de permisos para la importación de plaguicidas, fertilizantes y sustancias tóxicas, se pagará el derecho de permisos para la importación, conforme a la cuota de......... $ 150,000.00.
-
-No se pagarán los derechos a que este artículo se refiere, en los siguientes casos:
-
-I.- Cuando sean solicitados por instituciones educativas en el país reconocidas oficialmente para investigación.
-
-II.- Cuando lo soliciten la Federación, el Distrito Federal, los Estados y los Municipios para las campañas fitozoosanitarias, sanitarias o ecológicas.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 90-E.
 
-Por la expedición de certificados y dictámenes de plaguicidas, fertilizantes y sustancias tóxicas, se pagará el derecho de certificados y dictámenes, conforme a las siguientes cuotas:
-
-I.- Para libre venta para exportación.......... $ 50,000.00
-
-II.- Para empresas fabricantes............ $ 100,000.00
-
-III.- Para empresas comercializadoras............ $ 50,000.00
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -5753,55 +5631,21 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 #### SECCION PRIMERA. Servicios de Telecomunicaciones
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 91.
 
-Los concesionarios y permisionarios de servicios de telecomunicaciones pagarán el derecho de verificación del cumplimiento de las obligaciones establecidas en su respectivo título de concesión o permiso, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
+Los concesionarios, permisionarios o asignatarios de servicios de telecomunicaciones pagarán el derecho de verificación del cumplimiento de las obligaciones establecidas en su respectivo título de concesión, permiso o asignación, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-2000 2000
+I.- Por la verificación e inspección previa al inicio de operaciones y por la verificación e inspección de las modificaciones autorizadas a las instalaciones que constituyen las redes de los servicios de telecomunicaciones de los concesionarios, permisionarios y asignatarios, se pagará por cada visita $ 3,622.00
 
-cuota sin ajuste cuota con ajuste
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+II.- Por la verificación e inspección de las instalaciones que constituyen las redes de los servicios de telecomunicaciones de los concesionarios, permisionarios y asignatarios, se pagará por cada visita $ 4,511.00
 
-I.- Por la verificación e inspección
-
-previa al inicio de operaciones y
-
-por la verificación e inspección
-
-de las modificaciones autorizadas a
-
-las instalaciones que constituyen las
-
-redes de los servicios de
-
-telecomunicaciones de los
-
-concesionarios, permisionarios y
-
-asignatarios, se pagará por cada
-
-visita $ 3,622.00 3,622.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la verificación e inspección a
-
-las instalaciones que constituyen las
-
-redes de los servicios de
-
-telecomunicaciones de los
-
-concesionarios, permisionarios y
-
-asignatarios, se pagará por cada
-
-visita $ 4,511.00 4,511.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 El pago de los derechos a que se refiere este artículo, deberá efectuarse dentro de los 15 días siguientes contados a partir de la fecha en que se realizó la visita de verificación e inspección.
 
@@ -5819,39 +5663,21 @@ El pago de los derechos a que se refiere este artículo, deberá efectuarse dent
 
 Por el estudio de la solicitud, expedición de título y prórroga de concesiones para el uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias en el territorio nacional, independientemente de la contraprestación a que se refiere el artículo 14 de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-2000 2000
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma $ 16,760.00
 
-cuota sin ajuste cuota con ajuste
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+II.- Por la expedición del título de concesión $ 12,051.00
 
-I.- Por el estudio de la solicitud y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-de la documentación técnica,
+III.- Por el estudio de la solicitud de prórroga del título de concesión $ 6,882.00
 
-administrativa y legal inherente
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a la misma $ 16,760.00 16,760.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición del título de
-
-concesión $ 12,051.00 12,051.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Por el estudio de la solicitud de
-
-prórroga del título de concesión $ 6,882.00 6,882.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Por la autorización de prórroga
-
-de concesión $ 5,409.00 5,409.00
+IV.- Por la autorización de prórroga de concesión $ 5,409.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5865,27 +5691,17 @@ Por el estudio de la solicitud, expedición de título y prórroga de concesione
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por el estudio de la solicitud y
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma $ 19,073.00
 
-de la documentación técnica,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-administrativa y legal inherente
+II.- Por la expedición del título de concesión $ 21,571.00
 
-a la misma $ 19,073.00 19,073.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición del título de
-
-concesión $ 21,571.00 21,571.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Por el estudio de la solicitud de
-
-prórroga del título de concesión $ 13,477.00 13,477.00
+III.- Por el estudio de la solicitud de prórroga del título de concesión $ 13,477.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -5893,45 +5709,19 @@ IV.- Por la autorización de prórroga
 
 de concesión $ 11,424.50 11,424.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 95.
 
 Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la ocupación de posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país y la explotación de sus respectivas frecuencias o bandas de frecuencias, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma $ 15,778.00
 
-2000 2000
+II.- Por la expedición del título de concesión $ 10,367.00
 
-cuota sin ajuste cuota con ajuste
+III.- Por el estudio de la solicitud de prórroga del título de concesión $ 5,548.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por el estudio de la solicitud y
-
-de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $ 15,778.00 15,778.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición del título de
-
-concesión $ 10,367.00 10,367.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Por el estudio de la solicitud de
-
-prórroga del título de concesión $ 5,548.00 5,548.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Por la autorización de prórroga
-
-de concesión $ 5,184.00 5,184.00
+IV.- Por la autorización de prórroga de concesión $ 5,184.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5945,21 +5735,13 @@ Por el estudio de la solicitud, expedición de título y prórroga de concesione
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por el estudio de la solicitud y
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma $ 19,334.00
 
-de la documentación técnica,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-administrativa y legal inherente
-
-a la misma $ 19,334.00 19,334.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición del título de
-
-Concesión $ 21,669.00 21,669.00
+II.- Por la expedición del título de concesión $ 21,669.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -5973,137 +5755,59 @@ IV.- Por la autorización de prórroga
 
 de concesión $ 11,424.50 11,424.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 97.
 
 Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por el registro de representantes
-
-o apoderados, después de los
-
-primeramente designados $ 3,802.00 3,802.00
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+I.- Por el registro de representantes o apoderados, después de los primeramente designados $ 3,802.00
 
 II.- Por cambio en la titularidad de las concesiones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+a).- Por el estudio $ 17,032.00
 
-a).- Por el estudio $ 17,032.00 17,032.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por la autorización $ 6,316.00 6,316.00
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+b).- Por la autorización $ 6,316.00
 
 III.- Por cambio en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+a).- Por el estudio. $ 9,682.00
 
-a).- Por el estudio $ 9,682.00 9,682.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por la autorización $ 4,305.00 4,305.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Por la autorización. $ 4,305.00
 
 IV.- Por autorización para prestar servicios adicionales:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+a).- Por el estudio. $ 7,226.00
 
-a).- Por el estudio $ 7,226.00 7,226.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por la autorización $ 2,266.00 2,266.00
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+b).- Por la autorización. $ 2,266.00
 
 V.- Por ampliación al área de cobertura de la red:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+a).- Por el estudio. $ 6,258.00
 
-a).- Por el estudio $ 6,258.00 6,258.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por la autorización $ 2,266.00 2,266.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Por la autorización. $ 2,266.00
 
 VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+a).- Por el estudio. $ 5,619.00
 
-a).- Por el estudio $ 5,619.00 5,619.00
+b).- Por la autorización. $ 2,266.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+VII.- Por el estudio de prórrogas, solicitadas para el cumplimiento de obligaciones establecidas en el título de concesión y, en su caso, por la autorización de las prórrogas. $ 1,716.00
 
-b).- Por la autorización $ 2,266.00 2,266.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-VII.- Por el estudio de prórrogas,
-
-solicitadas para el cumplimiento
-
-de obligaciones establecidas en el
-
-título de concesión y, en su caso,
-
-por la autorización de las
-
-prórrogas $ 1,716.00 1,716.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 98.
 
 Por el estudio de la solicitud, expedición y prórroga de permisos para el establecimiento, operación o explotación de una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma $ 10,937.00
 
-2000 2000
+II.- Por la expedición del permiso $ 12,174.00
 
-cuota sin ajuste cuota con ajuste
+III.- Por el estudio de la solicitud de prórroga del permiso $ 8,655.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por el estudio de la solicitud y
-
-de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $ 10,937.00 10,937.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición del permiso $ 12,174.00 12,174.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Por el estudio de la solicitud
-
-de prórroga del permiso $ 8,655.00 8,655.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Por la autorización de prórroga
-
-del permiso $ 7,252.00 7,252.00
+IV.- Por la autorización de prórroga del permiso $ 7,252.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6117,9 +5821,9 @@ Por el estudio y autorización de la solicitud de modificaciones técnicas, admi
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por el registro de representantes o apoderados, después de los primeramente designados. $ 4,859.00 4,859.00
+I.- Por el registro de representantes o apoderados, después de los primeramente designados $ 4,859.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6149,13 +5853,13 @@ b).- Por la autorización $ 578.05 578.00
 
 IV.- Por ampliación al área de cobertura de los servicios:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio $ 7,367.00 7,367.00
+a).- Por el estudio $ 7,367.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por la autorización $ 3,391.00 3,391.00
+b).- Por la autorización $ 3,391.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -6169,63 +5873,29 @@ permiso y, en su caso, por la
 
 autorización de las prórrogas $ 1,009.63 1,010.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 100.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos en materia de telecomunicaciones, otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos o autorizaciones de servicios de radiocomunicación privada, otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por la autorización de modificaciones que requieran estudio técnico $ 3,321.00
 
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por la autorización de modificaciones
-
-que requieran estudio técnico $ 3,321.00 3,321.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la autorización de modificaciones
-
-que no requieran estudio técnico $ 1,184.00 1,184.00
+II.- Por la autorización de modificaciones que no requieran estudio técnico $ 1,184.00
 
 ###### ARTICULO 100-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 101.
 
 Por el estudio de la solicitud y por la expedición del permiso para la instalación, operación o explotación de estaciones terrenas transmisoras o transreceptoras, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por el estudio de la solicitud y de la documentación técnica administrativa y legal inherente a la misma $ 6,804.00
 
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por el estudio de la solicitud y
-
-de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $ 6,804.00 6,804.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la expedición del
-
-permiso $ 3,111.00 3,111.00
-
-III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
+II.- Por la expedición del permiso $ 3,111.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6239,9 +5909,9 @@ Por el estudio y autorización de la solicitud de modificaciones técnicas, admi
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por el registro de representantes o apoderados después de los primeramente designados $ 2,905.00 2,905.00
+I.- Por el registro de representantes o apoderados, después de los primeramente designados $ 2,905.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6259,9 +5929,9 @@ b).- Por la autorización $ 2,887.20 2,887.00
 
 III.- Por cambio en la escritura constitutiva del permisionario:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio $ 2,293.00 2,293.00
+a).- Por el estudio $ 2,293.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -6271,85 +5941,39 @@ b).- Por la autorización $ 578.05 578.00
 
 IV.- Por cambio en las características técnicas y de operación de la estación terrena transmisora:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio $ 2,472.00 2,472.00
+a).- Por el estudio $ 2,472.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por la autorización $ 1,006.00 1,006.00
+b).- Por la autorización $ 1,006.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 V.- Por el estudio de prórrogas solicitadas para el cumplimiento de obligaciones establecidas en el título de concesión y, en su caso, por la autorización de las prórrogas $ 1,009.63 1,010.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 103.
 
 Por el estudio y trámite de la solicitud de inscripción en el Registro de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- De títulos de concesión, permisos y asignaciones otorgadas y, en su caso, por modificaciones autorizadas a los mismos $ 831.00
 
-2000 2000
+II.- De servicios de valor agregado $ 3,198.00
 
-cuota sin ajuste cuota con ajuste
+III.- De gravámenes impuestos a las concesiones o permisos $ 1,628.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+IV.- De cesión de derechos y obligaciones $ 1,591.00
 
-I.- De títulos de concesión, permisos y
+V.- De bandas de frecuencias otorgadas en las distintas zonas del país $ 1,610.00
 
-asignaciones otorgadas y, en su caso,
+VI.- De convenios de interconexión entre redes $ 561.00
 
-por modificaciones autorizadas a los
+VII.- De tarifas al público de los servicios de telecomunicaciones $ 2,060.00
 
-mismos $ 831.00 831.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- De servicios de valor
-
-agregado $ 3,198.00 3,198.00
-
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- 1,628.00 1,628.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- De gravámenes impuestos a las
-
-concesiones o permisos $ 1,591.00 1,591.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-V.- De cesión de derechos y
-
-obligaciones $ 1,610.00 1,610.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-VI.- De bandas de frecuencias
-
-otorgadas en las distintas zonas
-
-del país $ 561.00 561.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-VII.- De convenios de interconexión
-
-entre redes $ 2,060.00 2,060.00
-
-VIII.- De tarifas al público de los
-
-servicios de telecomunicaciones $ 1,714.00 1,714.00
-
-IX.- De cualquier otro documento relativo a operaciones de concesionarios o permisionarios, cuando los reglamentos de la Ley Federal de Telecomunicaciones exijan dicha formalidad............... $ 1,088.00
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-X.- De cualquier otro documento relativo a las operaciones de concesionarios o permisionarios que sea objeto de registro y que no requiera un estudio previo de la solicitud $ 117.77
+VIII.- De cualquier otro documento relativo a operaciones de concesionarios o permisionarios, cuando los reglamentos de la Ley Federal de Telecomunicaciones exijan dicha formalidad $ 1,714.00
 
 ###### ARTICULO 103-A.
 
@@ -6393,37 +6017,17 @@ geográficos y no geográficos, por
 
 cada número asignado $ 12.55 13.00
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 105.
 
 Por el estudio de la solicitud, por el otorgamiento del título de asignación de frecuencias o bandas de frecuencias para uso oficial y por la autorización de modificaciones o ampliaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por el estudio de la solicitud de asignación 2,977.00
 
-2000 2000
+II.- Por el otorgamiento del título de asignación $ 3,588.00
 
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por el estudio de la solicitud de
-
-asignación $ 2,977.00 2,977.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por el otorgamiento del título de
-
-asignación $ 3,588.00 3,588.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Por la autorización de modificaciones
-
-o ampliaciones al título de
-
-asignación $ 2,125.00 2,125.00
+III.- Por la autorización de modificaciones o ampliaciones al título de asignación $ 2,125.00
 
 ###### ARTICULO 106.
 
@@ -6551,37 +6155,11 @@ asignación $ 2,125.00 2,125.00
 
 #### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 120.
 
-Por el estudio de la solicitud y expedición de la constancia de modificaciones o ampliaciones a permisos de servicios de telecomunicaciones, incluidos los de valor agregado, que se presten al público y que hayan sido otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Por el estudio de la solicitud de
-
-cada modificación o ampliación de
-
-servicios sujetos a permiso o registro
-
-y por la expedición de la
-
-constancia $ 4,790.00 4,790.00
-
-V.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de cada solicitud y expedición de la constancia de modificaciones o ampliaciones a permisos, autorizaciones o registros de servicios de telecomunicaciones, incluidos los de valor agregado, que se presten al público y que hayan sido otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagará la cuota de $ 4,790.00
 
 ###### ARTICULO 120-A.
 
@@ -6599,11 +6177,11 @@ V.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 123.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión para la instalación, operación y explotación de sistemas de televisión por cable y redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada, de televisión restringida y de música continua, se pagarán derechos conforme a las siguientes cuotas:
+Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión para la instalación, operación y aprovechamiento de sistemas de televisión por cable y redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada, de televisión restringida y de música continua, se pagarán derechos conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -6611,25 +6189,31 @@ Por el estudio y autorización de la solicitud de modificaciones técnicas, admi
 
 cuota sin ajuste cuota con ajuste
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 I.- Modificación del sistema:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio $ 8,793.00 8,793.00
+a).- Por el estudio $ 8,793.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por la autorización $ 1,419.00 1,419.00
+b).- Por la autorización $ 1,419.00
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Generación de nuevos canales:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio $ 2,026.00 2,026.00
+a).- Por el estudio $ 2,026.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por la autorización $ 611.00 611.00
+b).- Por la autorización $ 611.00
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del concesionario:
 
@@ -6649,35 +6233,43 @@ o apoderados, después de los
 
 primeramente designados $ 1,174.54 1,175.00
 
-V.- Por cambio en la titularidad de las concesiones:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+V.- Por cambio en la titularidad de las concesiones, traspasos, arrendamientos o cesión de derechos en los títulos de concesión:
 
-a).- Por el estudio $ 4,701.00 4,701.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+a).- Por el estudio $ 4,701.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 b).- Por la autorización $ 507.85 508.00
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio. $ 3,720.00 3,720.00
+a).- Por el estudio $ 3,720.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por la autorización $ 1,187.00 1,187.00
+b).- Por la autorización $ 1,187.00
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Ampliación del sistema de otra población:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por el estudio $ 7,145.00 7,145.00
+a).- Por el estudio $ 7,145.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por la autorización $ 2,182.00 2,182.00
+b).- Por la autorización $ 2,182.00
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por la autorización de prórroga de la concesión:
 
@@ -7015,17 +6607,9 @@ cumplir con la documentación
 
 fijada $ 4,571.03 4,571.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Por cada estudio de solicitud y de
-
-documentación técnica, administrativa
-
-y legal para instalar y operar estaciones
-
-complementarias de zona de
-
-sombra $ 2,411.00 2,411.00
+IV.- Por el estudio de cada solicitud y de la documentación técnica, administrativa y legal inherente a la misma, para instalar y operar una estación complementaria de zona de sombra $ 2,411.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -7063,19 +6647,15 @@ II.- Por la expedición de la
 
 autorización $ 3,084.09 3,084.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 126.
 
-1er. Trimestre 1er. trimestre
+Por cada frecuencia solicitada para la utilización de servicios auxiliares a la radiodifusión de enlace estudio-planta y control remoto, así como por sus modificaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-2000 2000
+I.- Por el estudio de la solicitud y de la documentación inherente a la misma $ 3,114.00
 
-cuota sin ajuste cuota con ajuste
-
-I.- 3,114.00 3,114.00
-
-II.- 2,298.00 2,298.00 (sic)
+II.- Por el estudio de la solicitud y documentación inherente a la misma, por modificación al circuito de enlace estudio-planta o control remoto $ 2,298.00
 
 ###### ARTICULO 127.
 
@@ -7209,245 +6789,165 @@ cuota sin ajuste cuota con ajuste
 
 A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- De conmutadores hasta de 30
+I.- De conmutadores hasta de 30 líneas $ 2,310.00
 
-líneas $ 2,310.00 2,310.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+II.- De equipo transreceptor de radioenlace de 30 canales $ 3,454.00
 
-II.- De equipo transreceptor de
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-radioenlace de 30 canales $ 3,454.00 3,454.00
+III.- De conmutadores de 31 hasta 60 líneas $ 4,027.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- De conmutadores de 31 hasta
+IV.- De equipo transreceptor de radioenlace de 60 canales $ 6,030.00
 
-60 líneas $ 4,027.00 4,027.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+V.- De conmutadores de 61 hasta 120 líneas $ 7,463.00
 
-IV.- De equipo transreceptor de
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-radioenlace de 60 canales $ 6,030.00 6,030.00
+VI.- De equipo transreceptor de radioenlace de 120 canales $ 11,190.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- De conmutadores de 61 hasta
+VII.- De conmutadores de 121 hasta 240 líneas $ 10,904.00
 
-120 líneas $ 7,463.00 7,463.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+VIII.- De equipo transreceptor de radioenlace de 240 canales $ 16,343.00
 
-VI.- De equipo transreceptor de
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-radioenlace de 120 canales $ 11,190.00 11,190.00
+IX.- De conmutadores de más de 240 líneas $ 18,063.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- De conmutadores de 121
+X.- De equipo transreceptor de radio enlace de más de 240 canales $ 27,088.00
 
-hasta 240 líneas $ 10,904.00 10,904.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XI.- De centrales telefónicas públicas $ 32,386.00
 
-VIII.- De equipo transreceptor de
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-radioenlace de 240 canales $ 16,343.00 16,343.00
+XII.- De centrales telefónicas privadas digitales $ 7,463.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- De conmutadores de más de
+XIII.- De estaciones terrenas transreceptoras maestras $ 18,063.00
 
-240 líneas $ 18,063.00 18,063.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XIV.- De estaciones terrenas transreceptoras remotas $ 7,463.00
 
-X.- De equipo transreceptor de
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-radio enlace de más de 240
+XV.- De estaciones terminales móviles terrestres por satélite $ 6,034.00
 
-canales $ 27,088.00 27,088.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XVI.- De equipo terminal satelital $ 3,454.00
 
-XI.- De centrales telefónicas
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-públicas $ 32,386.00 32,386.00
+XVII.- De ruteadores de baja y mediana capacidad $ 5,123.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XII.- De centrales telefónicas
+XVIII.- De ruteadores de alta capacidad $ 18,063.00
 
-privadas digitales $ 7,463.00 7,463.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XIX.- De conmutadores y multilíneas digitales de baja y mediana capacidad $ 5,123.00
 
-XIII.- De estaciones terrenas
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-transreceptoras maestras $ 18,063.00 18,063.00
+XX.- De conmutadores y multilíneas digitales de alta capacidad $ 18,063.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XIV.- De estaciones terrenas
+XXI.- De multiplexores digitales de baja y mediana capacidad $ 7,413.00
 
-transreceptoras remotas $ 7,463.00 7,463.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XXII.- De multiplexores digitales de alta capacidad $ 7,463.00
 
-XV.- De estaciones terminales móviles
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-terrestres por satélite $ 6,034.00 6,034.00
+XXIII.- De terminal de datos $ 6,034.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XVI.- De equipo terminal satelital $ 3,454.00 3,454.00
+XXIV.- De transreceptores de facsímiles y de facsímil-modem $ 3,454.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XVII.- De ruteadores de baja y mediana
+XXV.- De teléfonos analógicos alámbricos y accesorios telefónicos $ 3,454.00
 
-capacidad $ 5,123.00 5,123.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XXVI.- De teléfonos inalámbricos, digitales, celulares y sistemas personales de comunicación $ 3,454.00
 
-XVIII.- De ruteadores de alta
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-capacidad $ 18,063.00 18,063.00
+XXVII.- De modem (300 a 14,400 bits/s) $ 3,454.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XIX.- De conmutadores y multilíneas
-
-digitales de baja y mediana
-
-capacidad $ 5,123.00 5,123.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XX.- De conmutadores y multilíneas
-
-digitales de alta capacidad $ 18,063.00 18,063.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXI.- De multiplexores digitales de
-
-baja y mediana capacidad $ 7,413.00 7,413.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXII.- De multiplexores digitales
-
-de alta capacidad $ 7,463.00 7,463.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXIII.- De terminal de datos $ 6,034.00 6,034.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXIV.- De transreceptores de facsímiles
-
-y facsímil-modem $ 3,454.00 3,454.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXV.- De teléfonos analógicos
-
-alámbricos y accesorios
-
-telefónicos $ 3,454.00 3,454.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXVI.- De teléfonos inalámbricos,
-
-digitales, celulares y sistemas
-
-personales de comunicación $ 3,454.00 3,454.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXVII.- De modem (300 a 14,400
-
-bits/s) $ 3,454.00 3,454.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXVIII.- De equipo de fibra
-
-óptica $ 11,190.00 11,190.00
+XXVIII.- De equipo de fibra óptica $ 11,190.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XXIX.- De centrales celulares $ 8,190.74 8,191.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XXX.- De estación base celular $ 6,034.00 6,034.00
+XXX.- De estación base celular $ 6,034.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XXXI.- De equipo transreceptor
+XXXI.- De equipo transreceptor monocanal base $ 6,034.00
 
-monocanal base $ 6,034.00 6,034.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XXXII.- De equipo transreceptor monocanal móvil $ 3,454.00
 
-XXXII.- De equipo transreceptor
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-monocanal móvil $ 3,454.00 3,454.00
+XXXIII.- De equipo transreceptor monocanal portátil $ 1,469.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XXXIII.- De equipo transreceptor
+XXXIV.- De equipo repetidor fijo $ 6,034.00
 
-monocanal portátil $ 1,469.00 1,469.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XXXV.- De equipo receptor terminal $ 3,454.00
 
-XXXIV.- De equipo repetidor fijo $ 6,034.00 6,034.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XXXVI.- De equipo transmisor terminal $ 3,454.00
 
-XXXV.- De equipo receptor
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-terminal $ 3,454.00 3,454.00
+XXXVII.- De equipo de radiocomunicación que emplea la técnica de espectro disperso $ 3,551.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XXXVI.- De equipo transmisor
+XXXVIII.- De equipo conmutador telefónico privado con acceso inalámbrico $ 6,034.00
 
-terminal $ 3,454.00 3,454.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XXXIX.- De equipos multilíneas $ 6,034.00
 
-XXXVII.- De equipo de radiocomunicación
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-que emplea la técnica de espectro
-
-disperso $ 3,551.00 3,551.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXXVIII.- De equipo conmutador
-
-telefónico privado con acceso
-
-inalámbrico $ 6,034.00 6,034.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXXIX.- De equipos multilíneas $ 6,034.00 6,034.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XL.- Otros equipos no contemplados
-
-en este artículo $ 3,057.00 3,057.00
+XL. Otros equipos no contemplados en este artículo $ 3,057.00
 
 Por la expedición de un certificado de homologación definitivo, a solicitud del interesado, cuando se haya expedido uno provisional y no se hayan modificado las características técnicas y operativas autorizadas en éste, se cobrará el 50% de la cuota establecida en este apartado.
 
@@ -7481,17 +6981,17 @@ cuota sin ajuste cuota con ajuste
 
 I.- Constancias de registro de peritos en telecomunicaciones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Expedición $ 1,060.00 1,060.00
+a).- Expedición $ 1,060.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Revalidación 711.00 711.00
+b).- Revalidación $ 711.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-c).- Modificaciones 711.00 711.00
+c).- Modificaciones $ 711.00
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -7499,17 +6999,17 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Expedición $ 711.00 711.00
+a).- Expedición $ 711.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Revalidación 364.00 364.00
+b).- Revalidación $ 364.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-c).- Modificaciones 364.00 364.00
+c).- Modificaciones $ 364.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -7517,65 +7017,45 @@ IV.- Radioclubes:
 
 a).- Expedición:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-1.- Registro $ 1,405.00 1,405.00
+1.- Registro $ 1,405.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-2.- Permiso para operar estaciones
+2.- Permiso para operar estaciones de servicio de aficionados $ 711.00
 
-de servicio de aficionados 711.00 711.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-3.- Permiso para instalar y operar
-
-estaciones repetidoras del servicio
-
-de aficionados 711.00 711.00
+3.- Permiso para instalar y operar estaciones repetidoras del servicio de aficionados $ 711.00
 
 b).- Revalidación:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-1.- Registro $ 711.00 711.00
+1. Registro $ 711.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-2.- Permiso para operar estaciones
+2. Permiso para operar estaciones del servicio de aficionados $ 364.00
 
-del servicio de aficionados 364.00 364.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+3. Permiso para instalar y operar estaciones repetidoras del servicio de aficionados $ 364.00
 
-3.- Permiso para instalar y operar
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-estaciones repetidoras del servicio
+c).- Modificaciones $ 364.00
 
-de aficionados 364.00 364.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+V.- Constancia de registro de profesional técnico responsable o de radioperadores de estaciones radioeléctricas civiles:
 
-c).- Modificaciones $ 364.00 364.00
+a).- Expedición $ 859.00
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+b).- Revalidación $ 438.00
 
-V.- Constancia de registro de profesional técnico responsable
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-a).- Expedición $ 859.00 859.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Revalidación 438.00 438.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-c).- Responsiva, por cada estación
-
-o red pública $ 438.00 438.00
+c).- Responsiva, por cada estación o red pública $ 438.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7593,9 +7073,9 @@ cuota sin ajuste cuota con ajuste
 
 I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Radiodifusión $ 4,009.00 4,009.00
+a).- Radiodifusión $ 4,009.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -7709,9 +7189,9 @@ enrolar sus vehículos en la ruta que
 
 tengan autorizada $ 1,063.18 1,063.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-c) 297.00 297.00 (sic)
+c).- Para el traslado de mancuernas, tricuernas, cuatricuernas y pentacuernas, por viaje $ 297.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -7719,25 +7199,29 @@ d).- Verificación técnica de las
 
 condiciones físicas del vehículo $ 211.01 211.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-e) 373.00 373.00 (sic)
+e).- Para eventos deportivos o culturales $ 373.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-f) 392.00 392.00 (sic)
+f).- Para utilizar torretas en carro piloto $ 392.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-g) 200.00 200.00 (sic)
+g).- Para la circulación en caminos de jurisdicción federal de remolque y semiremolques de procedencia extranjera que se internen en el país de forma temporal, y que estos mismos sean arrastrados por tractocamiones registrados en el extranjero hasta la línea fronteriza, por unidad $ 200.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-h) 6,049.00 6,049.00 (sic)
+h).- Para el inicio de operación de terminal de autotransporte de pasajeros central $ 6,049.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+Se entenderá por terminal de autotransporte federal central las que son utilizadas por varios permisionarios.
 
-i) 1,078.00 1,078.00 (sic)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+i).- Para el inicio de operación de terminal de autotransporte de pasajeros individual $ 1,078.00
+
+Se entenderá por terminal de autotransporte federal individual la que es utilizada por un solo permisionario.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -7751,19 +7235,9 @@ especializado por vehículo $ 527.07 527.00
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-c).- Para el transporte de automóviles
-
-en vehículo tipo góndola o madrina y
-
-para productos en vehículo tipo tanque,
-
-por vehículo $ 395.17.
-
-d).- Para el transporte de petróleo y sus
-
-derivados, por vehículo 1,500.00
+d).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 e).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -7797,13 +7271,9 @@ por un solo viaje, por unidad $ 316.78 317.00
 
 k).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-l).- Para el autotransporte internacional
-
-de pasajeros, turismo y carga, por
-
-vehículo $ 892.00 892.00
+l).- Para el autotransporte internacional de pasajeros, turismo y carga, por vehículo $ 892.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -7841,13 +7311,9 @@ q).- Para el transporte de
 
 explosivos $ 978.12 978.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-r).- Especial por un año para grúas
-
-industriales del servicio de autotransporte
-
-federal y privado $ 356.00 356.00
+r).- Especial por un año para grúas industriales del servicio de autotransporte federal $ 356.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -7897,9 +7363,9 @@ arrastre, arrastre y salvamento
 
 de vehículos $ 441.00 441.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-y) 607.00 607.00 (sic)
+y).- Para instalar unidades de verificación $ 607.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -7917,9 +7383,9 @@ diversas modalidades o de
 
 arrendamiento por placa $ 441.00 441.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- b) 422.00 422.00 (sic)
+b).- Reposición de placa metálica de identificación por robo, extravío, mutilación o ilegibilidad, por cada una $ 422.00
 
 c).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -7931,31 +7397,13 @@ Cuando los trámites a que se refiere esta fracción sean realizados con motivo 
 
 V.- Por la expedición, reposición o modificación de tarjeta de circulación para el servicio de autotransporte federal de carga, pasaje, turismo, servicios auxiliares y arrendamiento:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por la expedición de tarjeta de
+a).- Por la expedición de tarjeta de circulación para automotores remolques y semirremolques para el servicio de autotransporte federal, servicios auxiliares y de arrendamiento $ 250.00
 
-circulación o modificación para
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-automotores, remolques y
-
-semirremolques para el servicio de
-
-autotransporte federal, servicios
-
-auxiliares y de arrendamiento $ 250.00 250.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por la reposición de tarjeta de
-
-circulación para automotores, remolques
-
-y semirremolques de los servicios de
-
-autotransporte federal y servicios
-
-auxiliares y de arrendamiento $ 100.00 100.00
+b).- Por la modificación o reposición de la tarjeta de circulación para automotores remolques y semirremolques de los servicios de autotransporte federal y servicios auxiliares y de arrendamiento $ 100.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8059,15 +7507,15 @@ I.- Licencias:
 
 a).- Expedición $ 442.73 443.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Refrendo 119.00 119.00
+b).- Refrendo $ 119.00
 
 c).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-d).- Cambio de categoría 140.00 140.00
+d).- Expedición por cambio de categoría adicional de licencias $ 140.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -8097,9 +7545,9 @@ V.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 VI.- Bajas de vehículos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por cambio de vehículo $ 512.00 512.00
+a).- Baja por cambio de vehículo para los servicios de chofer-guía, transporte de o hacia puertos marítimos y aeropuertos federales; y arrendamiento de automóviles para uso particular $ 512.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8129,11 +7577,9 @@ a).- Por el pago de la renta mensual
 
 de placas de traslado $ 351.20 351.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Expedición o reposición por placa
-
-metálica de identificación $ 426.00 426.00
+b).- Expedición de placa metálica de identificación $ 426.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8163,7 +7609,7 @@ exceda de 5 días hábiles, se pagará
 
 por día adicional $ 335.09 335.00
 
-b).- Revista de vehículos 27,500.00
+b).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8211,17 +7657,17 @@ automotores con placas del servicio de
 
 autotransporte federal $ 78.72 79.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-d) 5,154.00 5,154.00 (sic)
+d).- Registro y asignación de número para empresas fabricantes de placas o calcomanías $ 5,154.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-e) 109.00 109.00 (sic)
+e).- Reconocimiento oficial de la Secretaría de Comunicaciones y Transportes para instructor de conductores del servicio de autotransporte federal y privado $ 109.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-f) 575.00 575.00 (sic)
+f).- Reconocimiento oficial de la Secretaría de Comunicaciones y Transportes para operar un centro de capacitación y adiestramiento de conductores del servicio de autotransporte federal y privado $ 575.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -8235,29 +7681,17 @@ Por los servicios que se presten para la operación del autotransporte privado e
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por la expedición, revalidación o
+I.- Por la expedición de la tarjeta de circulación para el autotransporte privado, en caminos de jurisdicción federal $ 526.00
 
-reposición de la tarjeta de circulación
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-para el autotransporte privado, en
+II.- Por la reposición o modificación de la tarjeta de circulación para el autotransporte privado, en caminos de jurisdicción federal $ 161.00
 
-caminos de jurisdicción federal $ 526.00 526.00
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Modificación de la tarjeta de
-
-circulación para el autotransporte
-
-privado en caminos de jurisdicción
-
-federal $ 161.00 161.00
-
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- 431.00 431.00 (sic)
+III.- Por revalidación de la tarjeta de circulación para el autotransporte privado, de jurisdicción federal $ 431.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8267,19 +7701,9 @@ por un solo viaje para vehículo privado
 
 que transite vacío 105.24 105.00
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-V.- Permiso para vehículo de carga
-
-particular por contrato con terceros,
-
-por entidad 81,500.00
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-VI.- Permiso con vigencia menor
-
-de un año 90,000.00
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8311,9 +7735,9 @@ el tránsito de grúas industriales del
 
 servicio privado, por vehículo $ 314.98 315.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-X.- 897.00 897.00 (sic)
+X.- Por expedición de permiso para transporte privado $ 897.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -8531,9 +7955,9 @@ Por los servicios de verificación establecidos en la Ley de Aviación Civil y e
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por verificación mayor $ 3,158.00 3,158.00
+I.- Por verificación mayor o verificación a las condiciones de concesiones y permisos $ 3,158.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8547,9 +7971,9 @@ efectuadas por las unidades de verificación
 
 establecidas por terceros $ 3,150.26 3,150.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- 200.00 200.00 (sic)
+IV.- Por verificación menor a los Centros de Formación, Capacitación y Adiestramiento, a los servicios aéreos especializados bajo la modalidad de fumigador aéreo, a los operadores aéreos y sobre aspectos específicos a concesionarios y permisionarios en especial a las aeronaves, sus partes y refacciones $ 200.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -8761,59 +8185,23 @@ las matrículas de las embarcaciones y
 
 artefactos navales mexicanos $ 391.90 392.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Por contratos de adquisición,
+II.- Por contratos de adquisición, enajenación o cesión, así como los actos constitutivos de derechos reales, traslativos o extintivos de propiedad, sus modalidades, hipotecas, gravámenes y privilegios marítimos sobre las embarcaciones y artefactos navales mexicanos $ 220.00
 
-enajenación o cesión, así como los
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-actos constitutivos de derechos reales,
+III.- Por contratos de arrendamiento o fletamento a casco desnudo de embarcaciones mexicanas $ 237.00
 
-traslativos o extintivos de propiedad,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-sus modalidades, hipotecas, gravámenes
+IV.- Por contratos de construcción, de embarcaciones en México o de aquellas que se construyan en el extranjero y se pretendan abanderar como mexicanas $ 237.00
 
-y privilegios marítimos sobre las
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-embarcaciones y artefactos navales
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-mexicanos $ 220.00 220.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Por contratos de arrendamiento
-
-o fletamento a casco desnudo de
-
-embarcaciones mexicanas $ 237.00 237.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Por contratos de construcción de
-
-embarcaciones en México, o de aquéllas
-
-que se construyan en el extranjero
-
-y se pretendan abanderar como
-
-mexicanas $ 237.00 237.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-V.- Por embarcaciones extranjeras
-
-incorporadas al programa de
-
-abanderamiento N$ 60.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-VI.- Por la cancelación de cualquiera
-
-de los actos especificados en este
-
-apartado $ 385.00 385.00
+VI.- Por la cancelación de cualquiera de los actos especificados en este apartado $ 385.00
 
 VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -8821,69 +8209,19 @@ VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 Tratándose de embarcaciones menores cuando exista notoria diferencia entre el valor resultante de la operación y el estipulado en la factura y el valor comercial de la embarcación, se solicitará el avalúo correspondiente en los términos de la fracción I de este apartado.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-B.- Por la inscripción de los
+B. Por la inscripción de los navieros y agentes mexicanos, así como de los operadores, se pagará por concepto de derecho de Registro Marítimo Nacional la cuota de $ 732.00
 
-navieros y agentes navieros
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-mexicanos, así como de los
+C. Cualquier contrato o documento relativo a embarcaciones, comercio marítimo y actividad portuaria que no se encuentre comprendido en los apartados de este artículo se pagará por concepto de derecho de Registro Marítimo Nacional $ 221.00
 
-operadores, se pagará por
+I.- Por el registro de los contratos de cesión parcial de derechos y de prestación de servicios que celebran los administradores portuarios integrales, así como los contratos que celebren con terceros, se pagará por concepto de derecho de Registro Marítimo Nacional la cuota de $ 231.00
 
-concepto de derecho de
+II.- Por la consulta de los asientos registrales contenidas en los folios marítimos, relativos a las inscripciones efectuadas en el Registro Público Marítimo Nacional $ 64.00
 
-registro marítimo nacional la
-
-cuota de $ 732.00 732.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-C.- Cualquier otro contrato o
-
-documento relativo a
-
-embarcaciones, comercio
-
-marítimo y actividad portuaria
-
-que no se encuentre
-
-comprendido en los apartados
-
-de este artículo se pagará por
-
-concepto de derecho de
-
-registro marítimo nacional,
-
-la cuota de $ 221.00 221.00
-
-I.- Por el registro de los
-
-contratos de cesión parcial de
-
-derechos y de prestación de
-
-servicios que celebren los
-
-administradores portuarios
-
-integrales, así como los
-
-contratos que celebren con
-
-terceros, se pagará por
-
-concepto de derecho de
-
-registro marítimo nacional
-
-la cuota de $ 231.00 231.00
-
-II.- 64.00 64.00 (sic)
-
-III.- 220.00 220.00 (sic)
+III.- Por la expedición de certificados de inscripción y no inscripción $ 220.00
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -9023,17 +8361,17 @@ brutas de arqueo $ 515.01 515.00
 
 e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-1.- De 20.01 hasta 100 toneladas
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-brutas de arqueo $ 606.00 606.00
+1. De 20.01 hasta 100 toneladas brutas de arqueo $ 606.00
 
-2.- De 100.01 hasta 500 toneladas
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-brutas de arqueo $ 721.00 721.00
+2. De 100.01 hasta 500 toneladas brutas de arqueo $ 721.00
 
-3.- De 500.01 hasta 5,000 toneladas
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-brutas de arqueo $ 835.00 835.00
+3. De 500.01 hasta 5,000 toneladas brutas de arqueo $ 835.00
 
 4.- De 5,000.01 hasta 15,000 toneladas
 
@@ -9051,11 +8389,9 @@ brutas de arqueo $ 3,865.58 3,866.00
 
 brutas de arqueo $ 4,418.30 4,418.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Para embarcaciones de hasta
-
-10 metros de eslora... 50.00 50.00 (sic)
+Para el caso de las embarcaciones de hasta 10 metros de eslora sin cubierta corrida, destinadas a la pesca ribereña, se pagará la cuota de $ 50.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -9123,13 +8459,17 @@ k) De más de 50,000.01
 
 toneladas 2,982.28 2,982.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Por practicar o verificar arqueo de la embarcación, por la expedición de la marca de máxima carga o franco bordo y expedición de los certificados correspondientes o por la revalidación anual, por tonelada bruta o fracción:
+V.- Por la revisión de los cálculos de arqueo y de la marca de máxima carga o francobordo:
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 a).- Hasta 1,000 toneladas brutas
 
 de arqueo $ 1.4113
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 b).- De más de 1,000 hasta 5,000
 
@@ -9141,6 +8481,8 @@ anterior, y por cada una o fracción
 
 de las excedentes 0.8454
 
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 c).- De más de 5,000 hasta 15,000
 
 toneladas, por las primeras 5,000,
@@ -9150,6 +8492,8 @@ la cuota señalada en el inciso anterior
 y por cada una o fracción de las
 
 excedentes 0.7037
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 d).- De más de 15,000 toneladas, por
 
@@ -9235,23 +8579,13 @@ navales $ 2,284.87 2,285.00
 
 Por actos relacionados con el programa de abanderamiento se pagará el derecho de navegación marítima, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-2000 2000
+I.- Por la inscripción de cada embarcación al Programa de Abanderamiento, se pagará la cuota de $ 4,398.00
 
-cuota sin ajuste cuota con ajuste
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por la inscripción de cada
-
-embarcación $ 4,398.00 4,398.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por la prórroga en el plazo de
-
-inscripción $ 2,368.00 2,368.00
+II.- Por la prórroga en el plazo de inscripción en el Programa de Abanderamiento, se pagará la cuota de $ 2,368.00
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -9761,15 +9095,25 @@ V.- De más de 1,000 toneladas brutas
 
 de arqueo $ 1,282.13 1,282.00
 
-En los casos señalados en la fracción I y cuando la embarcación se utilice para el servicio público de carga y pasaje en vías de comunicación fluvial, lacustre, interior de puerto y cabotaje, se pagará el 50% de la cuota establecida.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+En los casos señalados en la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Cuando los servicios se presten fuera del tiempo señalado como horario ordinario de operación se pagará el doble de las cuotas antes señaladas, aplicable a cada caso.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 9:00 a las 14:30 horas.
 
 No se pagará el derecho a que se refiere este artículo por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 170-A.
 
-Por los servicios de verificación de la prueba de estabilidad o aprobación del protocolo correspondiente, por cada embarcación se pagará el derecho de verificación de embarcación, conforme a las siguientes cuotas:
+Por los servicios de verificación de la prueba de estabilidad, por cada embarcación se pagará el derecho de embarcación, conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -9813,15 +9157,15 @@ VI.- De más de 10000 unidades de
 
 arqueo bruto $ 8,682.68 8,683.00
 
-(ACTUALIZADA EN SU MONTO (N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- 769.00 769.00 (sic)
+VII.- Por la revisión del protocolo de la prueba de estabilidad, se cobrará por cada embarcación $ 769.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 170-B.
 
-Por la revisión de cuadernos de estabilidad, manual de cargas, manual de operación, manual de carga de grano, por aprobación de libros de hidrocarburos, plan de emergencia para prevenir la contaminación y por la expedición de la carta de cumplimiento, se pagará el derecho de revisión de embarcación, anualmente por cada embarcación conforme a las siguientes cuotas:
+Por la revisión de cuadernos de estabilidad, manual de cargas, manual de operación, manual de carga de grano, por aprobación de libros de hidrocarburos o de registro de basuras, plan de emergencia para prevenir la contaminación y por la expedición de la carta de cumplimiento, se pagará el derecho de revisión de embarcación, por cada documento presentado:
 
 1er. Trimestre 1er. trimestre
 
@@ -9919,25 +9263,15 @@ servicio, conforme a la
 
 cuota de $ 13,024.05 13,024.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 170-E.
 
-Por la autorización a sociedades clasificadoras de buques, a personas físicas o morales, para realizar a nombre del gobierno mexicano, la inspección, reconocimiento y certificación de embarcaciones o artefactos navales, así como la autorización de proyecto de construcción, reparación o modificación, se pagará anualmente, el derecho para clasificador de buques, conforme a las siguientes cuotas:
+Por la autorización a sociedades clasificadoras de buques, a personas físicas o morales, para realizar a nombre del Gobierno Mexicano, la inspección, reconocimiento y certificación de embarcaciones o artefactos navales, así como la autorización de proyecto de construcción, reparación o modificación, se pagará anualmente el siguiente derecho, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por persona moral $ 10,910.00
 
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Por persona moral $ 10,910.00 10,910.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Por persona física $ 1,000.00 1,000.00
+II.- Por persona física $ 1,000.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -10019,7 +9353,9 @@ especial para mandar o laborar en
 
 buques especializados $ 609.44 609.00
 
-V.- Pasavantes para poder ejercer como tripulantes en las embarcaciones nacionales:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+V.- Documento oficial para poder ejercer como tripulante a bordo de las embarcaciones mercantes mexicanas:
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -10069,53 +9405,29 @@ para actuar como Agente Naviero
 
 General $ 8,248.55 8,249.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 171-B.
 
-8,935.00 8,935.00 (sic)
+Por la actualización técnica y nombramiento para ejercer como Delegado Honorario de la Capitanía de Puerto en la marina turística, se pagará el derecho conforme a la cuota de $ 8,935.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 171-C.
 
-3,813.00 3,813.00 (sic)
+Por el registro de instituciones privadas que den formación y capacitación al personal de la marina mercante mexicana, por cada una $ 3,813.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 171-D.
 
-4,500.00 4,500.00 (sic)
+Por la autorización de planes y programas de estudio de formación de licenciaturas de piloto y maquinista navales; y cursos de capacitación para personal oficial y subalterno, por cada uno $ 4,500.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 171-E.
 
-469.00 469.00 (sic)
+Por el registro para instructores que den formación y capacitación al personal de la marina mercante nacional, por cada uno $ 469.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -10509,13 +9821,13 @@ IV.- Para construir y operar puentes
 
 sobre vías férreas $ 9,450.85 9,451.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- 5,815.00 5,815.00 (sic)
+V.- Por el otorgamiento de permisos de maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en el derecho de vía de las vías férreas. $ 5,815.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- 296.00 296.00 (sic)
+VI.- Por asignación de inicial y número, o matrícula al equipo ferroviario. $ 296.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -11369,281 +10681,105 @@ especificado $ 42.89 43.00
 
 Por los servicios que se presten en materia de derechos de autor, se pagarán derechos, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-2000 2000
+I.- Recepción, examen, estudio y, en su caso, registro de cada obra literaria o artística, o de una obra derivada o versión $ 103.00
 
-cuota sin ajuste cuota con ajuste
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+II.- Recepción, examen, estudio y, en su caso, registro de las características gráficas y distintivas de cada obra $ 103.00
 
-I.- Recepción, examen, estudio y,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-en su caso, inscripción de obra literaria
+III.- Recepción, examen, estudio y, en su caso, registro de cada fonograma, videograma o libro $ 103.00
 
-o artística, o de una obra derivada o
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-versión $ 103.00 103.00
+IV.- Búsqueda y expedición de cada constancia de antecedentes o datos de registro o de inscripción $ 64.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Recepción, examen, estudio y,
+V.- Recepción, examen, estudio y, en su caso, inscripción de cada convenio o contrato $ 585.00
 
-en su caso, inscripción de las
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-características gráficas y distintivas
+VI.- Inscripción de cada poder otorgado para gestionar ante el Instituto Nacional del Derecho de Autor, cuando la representación conferida abarque todos los asuntos del mandante $ 585.00
 
-de obras $ 103.00 103.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+VII.- Recepción, examen y estudio de cada acto, documento, convenio o contrato, que en cualquier forma confiera, modifique, transmita, grave o extinga derechos patrimoniales de autor y, en su caso, inscripción de la anotación marginal correspondiente $ 877.00
 
-III.- Recepción, examen, estudio y,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-en su caso, inscripción de un fonograma,
+VIII.- Recepción, examen, estudio y, en su caso, inscripción de cada acta, documento, escritura y estatutos de las sociedades de gestión colectiva $ 877.00
 
-videograma o un libro $ 103.00 103.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+IX.- Recepción, examen, estudio y, en su caso, inscripción de cada convenio o contrato celebrado por las sociedades de gestión colectiva $ 776.00
 
-IV.- Búsqueda y expedición de cada
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-constancia de antecedentes o datos
+X.- Inscripción de cada poder especial que se otorgue a las sociedades de gestión colectiva para el cobro de percepciones derivadas de los derechos de autor o derechos conexos $ 369.00
 
-del registro $ 64.00 64.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XI.- Inscripción de cada poder que autorice la gestión individual de derechos patrimoniales $ 735.00
 
-V.- Recepción, examen, estudio y,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-en su caso, inscripción de cada
+XII.- Solicitud e inicio del procedimiento de avenencia $ 148.00
 
-convenio o contrato $ 585.00 585.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+XIII.- Presentación del escrito que dé inicio al procedimiento de infracción administrativa en materia de derechos de autor $ 882.00
 
-VI.- Inscripción de poderes otorgados
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-para gestionar ante el Instituto
+XIV.- Solicitud y dictamen de reservas de derechos al uso exclusivo de títulos de publicaciones o difusiones periódicas $ 882.00
 
-Nacional del Derecho de Autor,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-cuando la representación conferida
+XV.- Solicitud y dictamen de la renovación de reservas de derechos al uso exclusivo de títulos de publicaciones o difusiones periódicas $ 463.00
 
-abarque todos los asuntos del
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-mandante $ 585.00 585.00
+XVI.- Solicitud y dictamen de reservas de derechos al uso exclusivo de personajes ficticios o simbólicos, personajes humanos de caracterización, nombres artísticos, denominaciones de grupos artísticos o promociones publicitarias $ 1,742.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- Recepción, examen y estudio de
+XVII.- Solicitud y dictamen de la renovación de reservas de derechos al uso exclusivo de personajes ficticios o simbólicos, personajes humanos de caracterización, nombres artísticos y denominaciones de grupos artísticos $ 911.00
 
-cada acto, documento, convenio o
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-contrato, que en cualquier forma confiera,
+XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres o denominaciones de publicaciones o difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos $ 85.00
 
-modifique, transmita, grave o extinga
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-derechos patrimoniales de autor y,
+XIX.- Solicitud de análisis y búsqueda de antecedentes de nombres y características de personajes humanos de caracterización, personajes ficticios o simbólicos, o promociones publicitarias $ 150.00
 
-en su caso, inscripción de la anotación
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-marginal correspondiente $ 877.00 877.00
+XX.- Solicitud y dictamen de anotaciones marginales en los expedientes de reservas de derechos al uso exclusivo $ 463.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Recepción, examen, estudio y,
+XXI.- Otorgamiento de números relativos al Número Internacional Normalizado del Libro (ISBN) $ 75.00
 
-en su caso, inscripción de las actas,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-documentos, escrituras y estatutos de
+XXII.- Solicitud de declaración administrativa de nulidad de reservas de derechos al uso exclusivo $ 878.00
 
-las sociedades de gestión
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-colectiva $ 877.00 877.00
+XXIII.- Solicitud de declaración administrativa de cancelación de los actos emitidos por el Instituto Nacional del Derecho de Autor en los expedientes de reservas de derechos al uso exclusivo $ 879.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- Recepción, examen, estudio y,
+XXIV.- Recepción, examen, estudio y, en su caso, inscripción de la anotación marginal correspondiente, de cualquier acto o instrumento que tenga por efecto la revocación del poder otorgado, previamente inscrito $ 819.00
 
-en su caso, inscripción de cada convenio
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-o contrato celebrado por las sociedades
-
-de gestión colectiva $ 776.00 776.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-X.- Inscripción de poderes especiales
-
-que se otorguen a las sociedades de
-
-gestión colectiva para el cobro de
-
-percepciones derivadas de los derechos
-
-de autor, intérprete o ejecutante $ 369.00 369.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XI.- Inscripción de los poderes que
-
-autoricen la gestión individual de
-
-derechos patrimoniales $ 735.00 735.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XII.- Solicitud e inicio del procedimiento
-
-de avenencia $ 148.00 148.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XIII.- Presentación del escrito que dé
-
-inicio al procedimiento de infracción
-
-administrativa en materia de derechos
-
-de autor $ 882.00 882.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XIV.- Solicitud y dictamen de reservas
-
-de derechos al uso exclusivo de títulos
-
-de publicaciones o difusiones
-
-periódicas $ 882.00 882.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XV.- Solicitud y dictamen de la
-
-renovación de reservas de derechos
-
-al uso exclusivo de títulos de publicaciones
-
-o difusiones periódicas $ 463.00 463.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XVI.- Solicitud y dictamen de reservas
-
-de derechos al uso exclusivo de
-
-personajes ficticios o simbólicos,
-
-personajes humanos de caracterización,
-
-nombres artísticos, denominaciones
-
-de grupos artísticos o promociones
-
-publicitarias $ 1,742.00 1,742.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XVII.- Solicitud y dictamen de renovación
-
-de reservas de derechos al uso exclusivo
-
-de personajes ficticios o simbólicos,
-
-personajes humanos de caracterización,
-
-nombres artísticos, denominaciones
-
-de grupos artísticos o promociones
-
-publicitarias $ 911.00 911.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XVIII.- Solicitud de análisis y búsqueda
-
-de antecedentes de títulos, nombres,
-
-o denominaciones de publicaciones
-
-periódicas, difusiones periódicas,
-
-nombres artísticos o denominaciones
-
-de grupos artísticos $ 85.00 85.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XIX.- Solicitud de análisis y búsqueda
-
-de antecedentes de nombres y
-
-características de personajes humanos
-
-de caracterización, personajes ficticios
-
-o simbólicos, o promociones
-
-publicitarias $ 150.00 150.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XX.- Solicitud y dictamen de anotaciones
-
-marginales en los expedientes de reservas
-
-de derechos $ 463.00 463.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXI.- Otorgamiento de números relativos
-
-al Número Internacional Normalizado
-
-del Libro (ISBN $ 75.00 75.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXII.- Solicitud de declaración administrativa
-
-de nulidad de reservas de derechos al
-
-uso exclusivo $ 878.00 878.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXIII.- Solicitud de declaración
-
-administrativa de cancelación de
-
-reservas de derechos al uso
-
-exclusivo $ 879.00 879.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXIV.- Recepción, examen, estudio y,
-
-en su caso, inscripción de la anotación
-
-marginal correspondiente, de cualquier
-
-acto o instrumento que tenga por efecto
-
-la revocación del poder otorgado
-
-previamente inscrito $ 819.00 819.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XXV.- Solicitud, dictamen y, en su
-
-caso, expedición de la autorización
-
-de apoderado para la gestión individual
-
-de derechos patrimoniales $ 863.00 863.00
+XXV.- Solicitud, dictamen y, en su caso, expedición de la autorización de apoderado para la gestión individual de derechos patrimoniales $ 863.00
 
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
@@ -11789,17 +10925,13 @@ Por los siguientes servicios que presta la Secretaría de Educación Pública, s
 
 cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior $ 1,423.10
+I.- Por solicitud, estudio y resolución del trámite de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+a).- Reconocimiento de validez oficial de estudios de tipo superior $ 4,500.00
 
-a) 4,500.00 4,500.00 (sic)
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b) 1,945.00 1,945.00 (sic)
+b).- Cambios a planes y programas de estudio de tipo superior con reconocimiento de validez oficial $ 1,945.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -11827,13 +10959,7 @@ y de formación para el trabajo, sea cual
 
 fuere la modalidad $ 491.18 491.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-IV.- Acreditación y certificación a
-
-estudiantes de preparatoria abierta,
-
-por examen $200.00
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -11841,21 +10967,31 @@ V.- Exámenes profesionales o de grado:
 
 a) De tipo superior $ 97.59 98.00
 
-b) De tipo medio $ 49.00 49.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+b).- De tipo medio superior $ 49.00
 
-VI.- Exámenes a título de suficiencia, por materia:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+VI.- Exámenes a título de suficiencia:
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 a) De educación primaria $ 19.33 19.00
 
-b).- De tipo medio $ 11.00 11.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-c).- De tipo superior $ 36.00 36.00
+b).- De educación secundaria y de educación media superior, por materia. $ 11.00
 
-d).- Del Instituto Nacional de Bellas
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Artes y Literatura $ 47.00 47.00
+c).- De tipo superior, por materia. $ 36.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+d).- Del Instituto Nacional de Bellas Artes y Literatura, por materia. $ 47.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 e).- Del tipo medio superior en el Sistema Abierto de Educación Tecnológica Agropecuaria, por cada módulo $ 36.08 36.00
 
@@ -11863,7 +10999,9 @@ e).- Del tipo medio superior en el Sistema Abierto de Educación Tecnológica Ag
 
 VII.- Exámenes extraordinarios, por materia:
 
-a).- De tipo medio $ 9.00 9.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+a).- De educación secundaria y de educación media superior. $ 9.00
 
 b).- De tipo superior $ 36.02 36.00
 
@@ -11877,47 +11015,27 @@ VIII.- Otorgamiento de diploma, título o grado:
 
 a).- De tipo superior $ 94.96 95.00
 
-b).- De tipo medio $ 23.00 23.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+b).- De educación secundaria y de educación media superior. $ 23.00
 
 c).- De capacitación para el trabajo
 
 industrial $ 15.73 16.00
 
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
+IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-IX.- Acreditación y certificación de conocimientos de tipo elemental:
+X.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-a) Completo 100.00
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b) Por área 25.00
+XI.- Expedición de duplicado de certificados de terminación de estudios:
 
-c) Por grado 15.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+a).- De educación básica y de educación media superior. $ 23.00
 
-X.- Por la solicitud de acreditación y certificación de conocimientos, por cada certificado de:
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-a).- Secundaria $ 90.00
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-b).- Tipo medio-superior y superior $ 90.00
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-c).- Competencia ocupacional en
-
-capacitación para el trabajo
-
-industrial N$ 86.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-XI.- Expedición de duplicado de certificados de estudio:
-
-a).- De tipo medio $ 23.00 23.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 b).- De tipo superior $ 72.14 72.00
 
@@ -11935,7 +11053,9 @@ c).- De educación superior $ 472.51 473.00
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
-a).- De tipo medio $ 6.00 6.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+a).- De educación básica y educación media superior. $ 6.00
 
 b).- De tipo superior $ 18.91 19.00
 
@@ -11957,13 +11077,21 @@ c).- De educación superior $ 472.51 473.00
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-a).- De tipo superior $ 38.00 38.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- De tipo medio $ 17.00 17.00
+a).- De educación superior. $ 38.00
 
-c) De tipo elemental $ 4.00 4.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a inválidos (minusválidos) no causarán el derecho a que se refiere esta fracción.
+b).- De educación media superior. $ 17.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+c).- De educación básica. $ 4.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a personas con o sin discapacidad no causarán el derecho a que se refiere esta fracción.
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -12067,21 +11195,13 @@ II.- Cancelación o rectificación de
 
 las inscripciones $ 23.67 24.00
 
-III.- Acuerdo de asamblea que apruebe
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-la Adopción de Dominio Pleno de Colonias,
+III.- Acuerdo de asamblea que apruebe:
 
-que no provengan del Programa de
+a).- El Reglamento Interno de las Colonias Agrícolas y Ganaderas y sus modificaciones $ 30.00
 
-Regularización $ 22.16
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-a) 30.00 30.00 (sic)
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b) 63.00 63.00 (sic)
+b).- La Adopción de Dominio Pleno de Colonias, que no provengan del Programa de Regularización $ 63.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -12151,19 +11271,15 @@ artículo 23 de la Ley Agraria, así como
 
 su modificación, por cada uno $ 29.60 30.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- Acuerdo de asamblea que apruebe la aportación de tierras de uso común a una sociedad civil o mercantil $ 63.00 63.00
+IX.- Acuerdo de asamblea a que se refieren las fracciones VII a la XIV del artículo 23 de la Ley Agraria, así como sus modificaciones, por cada uno $ 63.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 X.- Documentos públicos o privados por los que se constituyan sociedades civiles o mercantiles, emisoras o tenedoras de acciones o partes sociales serie “T”, así como aquellos que hagan constar el aumento o disminución del capital y la emisión de acciones o partes sociales de la serie “T”, la adquisición o enajenación de predios rústicos, modificaciones al contrato social, así como su liquidación y extinción $ 133.60 134.00
 
-XI.- Acuerdo de Asamblea que apruebe
-
-la adopción del dominio pleno en tierras
-
-ejidales $ 22.16
+XI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -12195,9 +11311,9 @@ Programa de Regularización de
 
 Colonias $ 59.34 59.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA [N, DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- 113.00 113.00 (sic)
+III.- Títulos de propiedad de origen parcelario $ 113.00
 
 C.- Por la reposición de:
 
@@ -13127,33 +12243,7 @@ Cuando en el ejercicio de las facultades fiscales a que se refiere este artícul
 
 ###### ARTICULO 194-A.
 
-Por el acceso a las áreas naturales protegidas de interés de la Federación, se pagará el derecho de acceso a áreas naturales, por persona o vehículo, conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Por persona............. $ 25.00
-
-II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Vehículos automotores:
-
-a).- Motocicletas, automóviles, pick-ups y embarcaciones hasta de 12 metros de eslora con motor fuera de borda............. $ 25.60
-
-b).- Automóviles o pick-ups, con remolque o semirremolque............. $ 52.94
-
-c).- Camiones, omnibuses y embarcaciones mayores de 12 metros de eslora con motor estacionario............. $ 105.89.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Tratándose de profesores, estudiantes, personas menores de 15 y mayores de 60 años de edad, así como los miembros de federaciones deportivas que soliciten previamente a la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, permiso para el acceso a las áreas naturales, pagarán el 50% del monto del derecho correspondiente a este artículo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Cuando se trate de áreas naturales protegidas de interés de la Federación concesionadas a Administraciones Portuarias Integrales, se pagará el 50% de la cuota correspondiente a las fracciones I y III, inciso a) de este artículo.
-
-Los pasantes e investigadores que cuenten con permiso de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca para realizar estudios afines con las áreas a que se refiere este artículo, estarán exentos del pago del derecho correspondiente.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -13195,11 +12285,11 @@ cuota de $ 91.33 91.00
 
 Tratándose de profesores, estudiantes, personas mayores de 65 años de edad, miembros de federaciones de excursionismo, montañismo y deportivas, que soliciten con anticipación ante la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, permiso para el acceso a los parques nacionales, pagarán el 50% del monto del derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 194-C.
 
-Por el otorgamiento de permisos o concesiones para el uso o aprovechamiento de las reservas de la biosfera, parques nacionales, parques marinos nacionales, reservas especiales de la biosfera, monumentos naturales y las áreas de protección de flora y fauna, se pagará el derecho de permiso o concesión de inmuebles federales, conforme a las siguientes cuotas:
+Por el otorgamiento de permisos o concesiones para el uso o aprovechamiento de elementos y recursos naturales dentro de las áreas naturales protegidas, se pagarán derechos conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -13339,17 +12429,11 @@ Cuando en alguna de las áreas naturales protegidas se encuentre algún inmueble
 
 Estos derechos se pagarán independientemente de los que correspondan conforme al Título II de esta Ley.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 194-C
 
-1.- 57.00 57.00 (sic)
+1.- Por la expedición de cada constancia o certificado que emita el Registro Nacional de Áreas Naturales Protegidas, se pagará el derecho conforme a la siguiente cuota $ 57.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -13367,37 +12451,9 @@ Por los servicios que a continuación se señalan, se pagará el derecho corresp
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por la recepción y estudio
-
-de la solicitud para el uso,
-
-goce o aprovechamiento de las
-
-playas, de la zona federal
-
-marítimo terrestre y los terrenos
-
-ganados al mar o a cualquier
-
-otro depósito de aguas
-
-marítimas, específicamente en
-
-los casos de permisos,
-
-autorizaciones, concesiones,
-
-prórrogas de concesiones o
-
-permisos, cesión de derechos o
-
-autorización de modificaciones
-
-a las condiciones y bases del
-
-título de concesión o permisos $ 1,106.00 1,106.00
+I.- Por la recepción, estudio de la solicitud y, en su caso, otorgamiento de permisos, autorizaciones, concesiones, acuerdos de destino, desincorporaciones, prórrogas de concesiones o permisos, cesión de derechos o autorización de modificaciones a las condiciones y bases del título de concesión o permisos para el uso, goce o aprovechamiento de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, se pagará el derecho conforme a la siguiente cuota $ 1,106.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -13463,17 +12519,9 @@ Cuando las playas, la zona federal marítimo terrestre, los terrenos ganados al 
 
 Este derecho se pagará independientemente del que corresponda por el uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito que se forme por aguas marítimas conforme al título II de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 194-E.
 
-Por el otorgamiento de permisos, autorizaciones, concesiones, prórrogas de concesiones o permisos, cesión de derechos o autorización de modificaciones a las condiciones y bases del título de concesión o permisos para el uso o aprovechamiento de la zona federal marítimo terrestre y terrenos ganados al mar o a cualquier otro depósito que se forme con aguas marítimas, se pagará anualmente el derecho respectivo, conforme a la cuota de............. $ 448.00
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Cuando las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito que se forme por aguas marítimas se utilicen para la agricultura, ganadería, acuacultura o pesca la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -13547,29 +12595,11 @@ forma parte, cualquiera que sea su
 
 resolución $ 267.20 267.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Para colecta de material parental
+III.- Para colecta de material parental de especies amenazadas o en peligro de extinción y las contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte, para su reproducción o propagación $ 318.00
 
-para su reproducción y propagación
-
-con fines comerciales en unidades
-
-de producción, de especies amenazadas
-
-o en peligro de extinción contenidas en
-
-los listados de los apéndices I, II y III
-
-de la Convención sobre el Comercio
-
-Internacional de Especies Amenazadas
-
-de Fauna y Flora Silvestre, de la que
-
-México forma parte $ 318.00 318.00
-
-IV.- Por trámite para colecta de material parental de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte $ 158.84
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -13583,35 +12613,31 @@ VI.- Para posesión de aves de
 
 presa $ 267.20 267.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO] D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Artículo 194 F-1
+###### ARTICULO 194-F
 
-1er. Trimestre 1er. trimestre
+1.- Por los servicios que presta la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, en materia de flora y fauna silvestre, se pagarán derechos conforme a las siguientes cuotas:
 
-2000 2000
+I.- Por cada registro y refrendo anual:
 
-cuota sin ajuste cuota con ajuste
+a).- De clubes o asociaciones cinegéticas $ 594.00
 
-I
+b).- Registro definitivo de Unidad para la Conservación Manejo y Aprovechamiento Sustentable de la Vida Silvestre (UMA) $ 267.00
 
-a) 594.00 594.00
+c).- Para curtidurías, tenerías y establecimientos de taxidermia para productos derivados del aprovechamiento cinegético de fauna silvestre $ 298.00
 
-b) 267.00 267.00
+d).- De zoológicos, aviarios, herpetarios, circos y espectáculos de fauna silvestre $ 178.00
 
-c) 298.00 298.00
+II.- Por cada solicitud de permiso o su refrendo, por temporada:
 
-d) 178.00 178.00
+a).- Para guías o asistentes cinegéticos, por entidad federativa $ 499.00
 
-II
+b).- Para la venta de aves canoras y de ornato, por entidad federativa $ 98.00
 
-a) 499.00 499.00
+c).- Para captura de aves canoras y de ornato, por entidad federativa $ 161.00
 
-b) 98.00 98.00
-
-c) 161.00 161.00
-
-d) 134.00 134.00 (sic)
+d).- Por cintillo de aprovechamiento $ 134.00
 
 > <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
 
@@ -13759,7 +12785,7 @@ b).- En su modalidad intermedia $ 820.84 821.00
 
 c).- En su modalidad específica $ 1,290.00 1,290.00
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION TERCERA.
 
@@ -13769,35 +12795,15 @@ Permisos para Pesca Deportiva.
 
 Por la recepción, evaluación y dictamen del programa de manejo forestal, para obtener autorización de aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima templado y frío, por volumen solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Hasta 500 metros cúbicos Exento
 
-2000 2000
+II.- De más de 500 metros cúbicos hasta 1,000 metros cúbicos $ 533.00
 
-cuota sin ajuste cuota con ajuste
+III.- De más de 1,000 metros cúbicos hasta 5,000 metros cúbicos $ 799.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+IV.- De más de 5,000 metros cúbicos en adelante $ 1,243.00
 
-I.- Hasta 500 metros cúbicos EXENTO EXENTO
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- De más de 500 metros cúbicos
-
-hasta 1,000 metros cúbicos $ 533.00 533.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- De más de 1,000 metros cúbicos
-
-hasta 5,000 metros cúbicos $ 799.00 799.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- De más de 5,000 metros cúbicos
-
-en adelante $ 1,243.00 1,243.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+(REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-L.
 
@@ -13831,11 +12837,11 @@ IV.- De más de 3,000 metros cúbicos
 
 en adelante $ 710.18 710.00
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-M.
 
-Por la recepción, evaluación y dictamen de los estudios de uso de suelo forestal y por superficie solicitada, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+Por la recepción, evaluación y dictamen de los estudios de uso de suelo forestal y por superficie solicitada, se pagará el derecho de cambio de utilización de terrenos forestales, conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -13865,39 +12871,19 @@ III.- De más de 50 hectáreas hasta
 
 IV.- De más de 200 hectáreas $ 4,569.80 4,570.00
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 194-N.
 
-Por la recepción, evaluación y dictamen de manifestaciones de impacto ambiental para aprovechamientos forestales de bosques y selvas tropicales y especies de difícil regeneración, así como aquéllos que determine la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, con base en lo que establecen la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Impacto Ambiental, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+Por la recepción, evaluación, otorgamiento de la autorización y su revalidación, relacionados con el Programa Integrado de Manejo Ambiental y Forestación, se pagarán derechos, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por la recepción y evaluación del programa integrado de manejo. $ 5,449.00
 
-2000 2000
+II.- Por el otorgamiento de la autorización. $ 652.00
 
-cuota sin ajuste cuota con ajuste
+III.- Por la revalidación de la autorización. $ 510.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I.- Manifestación de impacto ambiental
-
-modalidad general por un volumen mayor
-
-a 250 metros cúbicos $ 5,449.00 5,449.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II.- Manifestación de impacto ambiental
-
-modalidad intermedia $ 652.00 652.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Manifestación de impacto ambiental
-
-modalidad específica $ 510.00 510.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-N
 
@@ -13947,33 +12933,25 @@ a que se refiere este artículo se pagará
 
 la cuota de $ 236.23 236.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 194-N
 
-2
+2.- Por los servicios que presta la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, en materia de sanidad forestal, se pagarán derechos conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Por la expedición de los formatos de requisitos técnicos-fitosanitarios para la importación de productos y subproductos forestales maderables y no maderables $ 157.00
 
-2000 2000
+II.- Por la expedición de cada certificado fitosanitario para la importación, fuera de la región y franja fronteriza de productos y subproductos forestales $ 315.00
 
-cuota sin ajuste cuota con ajuste
+III.- Por la expedición de cada certificado fitosanitario internacional para la exportación de productos y subproductos forestales $ 236.00
 
-I 157.00 157.00
-
-II 315.00 315.00
-
-III 236.00 236.00 (sic)
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION CUARTA. De las Areas Naturales Protegidas
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 194-O.
 
-Por el otorgamiento de la licencia de funcionamiento a las fuentes fijas de jurisdicción federal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
+Por el otorgamiento de la licencia ambiental única para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción federal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
 
 1er. Trimestre 1er. trimestre
 
@@ -13987,17 +12965,13 @@ I.- Por la recepción y evaluación
 
 de solicitud de licencia $ 2,791.85 2,792.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Actualización de licencia de
-
-funcionamiento por ampliación o
-
-modificación de procesos $ 1,341.00 1,341.00
+II.- Actualización de la licencia de funcionamiento o de la licencia ambiental única $ 1,341.00
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+(REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 1er. Trimestre 1er. trimestre
 
@@ -14027,7 +13001,7 @@ control de la contaminación
 
 conforme a la cuota de $ 280.28 280.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+(REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 1er. Trimestre 1er. trimestre
 
@@ -14065,7 +13039,7 @@ contaminación, conforme
 
 a la cuota de $ 9,211.17 9,211.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+(REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 1er. Trimestre 1er. trimestre
 
@@ -14107,111 +13081,49 @@ contaminación, conforme a la
 
 cuota $ 94.53 95.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 194-S.
 
-Por el
+Por el registro de empresas generadoras de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a la cuota de $ 23.00
 
-registro de empresas
-
-generadoras de residuos
-
-peligrosos, se pagará el
-
-derecho de prevención y
-
-control de la contaminación,
-
-conforme a la cuota de $ 23.00 23.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+(REUBICADO Y REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-T.
 
-Por el otorgamiento de la autorización en materia de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
+Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Operación de unidades para la recolección y transporte de residuos peligrosos $ 1,863.00
 
-2000 2000
+II.- Instalación y operación de sistemas de almacenamiento de residuos peligrosos $ 1,862.00
 
-cuota sin ajuste cuota con ajuste
+III.- Instalación y operación de sistemas de reciclaje de residuos peligrosos $ 2,452.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+IV.- Instalación y operación de sistemas de reuso de residuos peligrosos $ 2,452.00
 
-I.- Instalación y operación de sistemas
+V.- Instalación y operación de sistemas de tratamiento de residuos peligrosos $ 3,069.00
 
-de almacenamiento, recolección y
+VI.- Instalación y operación de sistemas de incineración de residuos peligrosos $ 24,737.00
 
-transporte $ 1,863.00 1,863.00
+VII.- Instalación y operación de sistemas para el confinamiento de residuos peligrosos $ 40,732.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Instalación y operación de sistemas
+###### ARTICULO 194-T
 
-de reuso, tratamiento y reciclaje $ 1,862.00 1,862.00
+1.- Por la recepción, estudio de la solicitud y, en su caso, autorización para importar y exportar residuos peligrosos, se pagarán derechos, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+I.- Para importar residuos peligrosos $ 945.00
 
-III.- Instalación y operación de
+II.- Para exportar residuos peligrosos $ 444.00
 
-sistemas de incineración y
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-disposición final $ 2,452.00 2,452.00
+###### ARTICULO 194-T
 
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+2.- Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades altamente riesgosas, pagarán el derecho, conforme a la cuota de $ 1,161.00
 
-IV.- 2,452.00 2,452.00 (sic)
-
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-V.- 3,069.00 3,069.00 (sic)
-
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-VI.- 24,737.00 24,737.00 (sic)
-
-(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-VII.- 40,732.00 40,732.00 (sic)
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-ARTICULO 194 T-1
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-I 945.00 945.00
-
-II 444.00 444.00 (sic)
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-ARTICULO 194 T-2 1,161.00 1,161.00 (sic)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
 
@@ -14219,109 +13131,21 @@ cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 194-U.
 
-Por el
+Por el otorgamiento de constancias que presta la Procuraduría Federal de Protección al Ambiente, se pagarán derechos, conforme a las siguientes cuotas:
 
-otorgamiento del dictamen
+I.- Por la constancia de cumplimiento de restricciones no arancelarias a la importación o exportación de flora y fauna silvestre; recursos acuáticos, pesqueros y marinos; productos y subproductos forestales; sustancias químicas y residuos peligrosos, cuyo objetivo final es el comercio o la industrialización de los mismos $ 302.00
 
-técnico para la obtención de
+II.- Por la constancia de cumplimiento de las restricciones no arancelarias a la importación o exportación de flora y fauna silvestre; recursos acuáticos, pesqueros y marinos; productos y subproductos forestales; sustancias químicas y residuos peligrosos, cuyo objetivo final es distinto al comercio o a la industrialización $ 81.00
 
-estímulos fiscales o créditos
-
-de organismos financieros,
-
-en las actividades relacionadas
-
-con la preservación y
-
-restauración del equilibrio
-
-ecológico y la protección al
-
-ambiente, se pagará el
-
-derecho de prevención y control
-
-de la contaminación, por cada
-
-dictamen técnico conforme a la
-
-cuota de $ 1,115.40 1,115.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-I 302.00 302.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-II 81.00 81.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III 84.00 84.00 (sic)
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+III.- Por la constancia de cumplimiento de la inspección ocular de las envolturas, tarimas y embalajes de madera que se importan como soporte de mercancías $ 84.00
 
 ###### ARTICULO 194-V.
 
-Por los servicios que presta la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, en materia de flora y fauna silvestre, se pagarán derechos conforme a las siguientes cuotas:
-
-I.- Por cada registro y refrendo anual:
-
-a).- De clubes o asociaciones cinegéticas............... $ 377.00
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-b).- Registro definitivo de Unidad para la Conservación, Manejo y Aprovechamiento sustentable de la Vida Silvestre (UMA)............. $ 200.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-c).- Para curtidurías, tenerías y establecimientos de taxidermia para productos derivados del aprovechamiento cinegético de fauna silvestre............. $ 261.00
-
-d) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-e) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-f).- De zoológicos, aviarios, herpetarios, circos y espectáculos de fauna silvestre............ $ 113.00
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-g).- Por Carnet Cinegético o Registro de Identificación Cinegética (RIC), para nacionales o extranjeros............. $ 200.00
-
-II.- Por cada solicitud de permiso o su refrendo, por temporada:
-
-a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-b).- Para guías o asistentes cinegéticos, por entidad federativa.............. $ 317.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-c).- Para la venta de aves canoras y de ornato, por entidad federativa............. $ 86.00
-
-d) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-e) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-f) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-g).- Para capturador de aves canoras y de ornato, por entidad federativa.............. $ 102.00
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-h).- Por cintillo de aprovechamiento para especies autorizadas en Unidades para la Conservación, Manejo y Aprovechamiento sustentable de la Vida Silvestre (UMA'S)............. $ 100.00
-
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(DEROGADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-W.
 
-Por los servicios de vida silvestre en materia de expedición de permisos de caza, por cada permiso............. $ 234.00
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(DEROGADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ### CAPITULO XIV. De la Secretaría de Salud
 
@@ -14333,13 +13157,7 @@ Por los servicios de vida silvestre en materia de expedición de permisos de caz
 
 ###### ARTICULO 195.
 
-Por los servicios que presta la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, en materia de sanidad forestal, se pagarán derechos conforme a las siguientes cuotas:
-
-I.- Por la expedición de los formatos de requisitos técnicos-fitosanitarios para la importación de productos y subproductos forestales maderables y no maderables............. $ 117.77
-
-II.- Por la expedición de cada certificado fitosanitario para la importación, fuera de la región y franja fronteriza de productos y subproductos forestales............. $ 235.54
-
-III.- Por la expedición de cada certificado fitosanitario internacional para la exportación de productos y subproductos forestales............. $ 176.65
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -14353,45 +13171,27 @@ Por el registro sanitario, su revisión o modificación de los productos que a c
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
 I.- Medicamentos alopáticos:
 
-a).- Cuyos ingredientes activos ya
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-se encuentran registrados en
+a).- Cuyos ingredientes activos ya se encuentran registrados en México $ 7,300.00
 
-México $ 7,300.00 7,300.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Cuyos ingredientes activos no se
+b).- Cuyos ingredientes activos no se encuentran registrados en México, pero cuentan con registro y se venden libremente en su país de origen $ 7,300.00
 
-encuentran registrados en México,
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-pero cuentan con registro y se venden
+II.- Medicamentos homeopáticos y herbolarios $ 3,900.00
 
-libremente en su país de origen $ 7,300.00 7,300.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+III.- Otros insumos de uso odontológicos que no sean medicamentos $ 3,000.00
 
-II.- Medicamentos homeopáticos y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-herbolarios $ 3,900.00 3,900.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-III.- Otros insumos de uso odontológico
-
-que no sean medicamentos $ 3,000.00 3,000.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-IV.- Equipos médicos, prótesis, órtesis,
-
-ayudas funcionales, agentes de diagnóstico,
-
-materiales quirúrgicos, de curación y
-
-productos higiénicos $ 2,800.00 2,800.00
+IV.- Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación y productos higiénicos $ 2,800.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14467,9 +13267,9 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la depende
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION OCTAVA. Prevención y Control de la Contaminación
+#### SECCION OCTAVA. Servicios Forestales
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 195-C.
 
@@ -14571,9 +13371,9 @@ c).- De riesgo bajo sanitario $ 496.69 497.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION NOVENA. Otros Servicios
+#### SECCION NOVENA. Prevención y Control de la Contaminación
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 195-E.
 
@@ -14585,11 +13385,9 @@ Por la expedición de los certificados y dictámenes de los productos, servicios
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Libre venta para exportación de
-
-insumos para la salud $ 900.00 900.00
+I.- Libre venta para exportación de insumos para la salud $ 900.00
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -14647,11 +13445,7 @@ proceso del agua para uso y consumo
 
 humano e industrial $ 2,484.22 2,484.00
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IX.- Expedición de permisos de
-
-responsable $ 80,000.00
+IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14697,23 +13491,9 @@ muralesy otros medios publicitarios
 
 similares $ 248.30 248.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-VI.- Prensa o literatura médica, científica
-
-u otros medios de insumos para la
-
-salud $ 350.00
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VII.- Diccionario, catálogo, folleto o
-
-similar a especialidades farmacéuticas
-
-exclusivo para información técnica de
-
-insumos para la salud $ 350.00
+VII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14749,23 +13529,13 @@ a).- Por cada solicitud de permiso
 
 de importación $ 1,000.09 1,000.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Por cada solicitud de prórroga,
+b).- Por cada solicitud de prórroga, corrección o de cualquier otra modificación relacionada con el permiso sanitario previo de importación $ 400.00
 
-corrección o de cualquier otra
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-modificación relacionada con la
-
-importación $ 400.00 400.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-c).- Por cada uno de los muestreos
-
-señalados en el permiso sanitario
-
-previo de importación $ 738.00 738.00
+c).- Por el muestreo de los productos señalados en el permiso sanitario previo de importación $ 738.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14781,21 +13551,13 @@ no especificada $ 129.90 130.00
 
 II.- De materias primas y productos terminados de medicamentos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por cada solicitud del permiso
+a).- Por cada solicitud del permiso sanitario de importación de materia prima $ 900.00
 
-sanitario de importación de materia
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-prima $ 900.00 900.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por cada solicitud del permiso
-
-de importación de producto
-
-terminado $ 900.00 900.00
+b).- Por cada solicitud del permiso de importación de producto terminado $ 900.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14817,21 +13579,13 @@ importación $ 133.72 134.00
 
 III.- De materias primas y productos terminados de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, y productos higiénicos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Por cada solicitud del permiso
+a).- Por cada solicitud del permiso sanitario de importación de materia prima $ 900.00
 
-sanitario de importación en materia
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-prima $ 900.00 900.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- Por cada solicitud del permiso
-
-sanitario de importación de producto
-
-terminado $ 900.00 900.00
+b).- Por cada solicitud del permiso sanitario de importación de producto terminado $ 900.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14853,21 +13607,13 @@ importación $ 133.72 134.00
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- De materia prima y producto
+a).- De materia prima y producto terminado de medicamentos que sean o contengan estupefacientes o sustancias psicotrópicas $ 900.00
 
-terminado de medicamentos que sean
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-o contengan estupefacientes o
-
-sustancias psicotrópicas $ 900.00 900.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-b).- De materia prima y producto
-
-terminado de hemoderivados $ 900.00 900.00
+b).- De materia prima y producto terminado de hemoderivados $ 900.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -14967,9 +13713,9 @@ por cada solicitud de liberación $ 708.82 709.00
 
 III.- Por cada solicitud y expedición de licencia sanitaria de insumos para la salud:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-a).- Fábrica o laboratorio $ 2,500.00 2,500.00
+a).- Fábrica o laboratorio $ 2,500.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -15105,55 +13851,49 @@ I.- Cuando se trate de establecimientos, locales, instalaciones o transportes de
 
 II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, productos o bienes para el servicio de gobiernos extranjeros, en caso de reciprocidad.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION DECIMA.. De los Servicios de Sanidad Forestal
+#### SECCION DECIMA. De la Inspección y Vigilancia
 
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(REUBICADO Y REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 195-L
 
-195-L-1
+1.- Por el registro único ante la Comisión Intersecretarial para el control del proceso y uso de plaguicidas, nutrientes vegetales y sustancias tóxicas, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-1er. Trimestre 1er. trimestre
+I.- Plaguicidas:
 
-2000 2000
+a).- Productos técnicos $ 17,147.00
 
-cuota sin ajuste cuota con ajuste
+b).- Productos formulados $ 17,147.00
 
-I
+II.- Sustancias tóxicas y productos que las contengan $ 9,383.00
 
-a) 17,147.00 17,147.00
+III.- Nutrientes vegetales:
 
-b) 17,147.00 17,147.00
+a).- Productos técnicos $ 2,962.00
 
-II 9,383.00 9,383.00
+b).- Productos formulados $ 2,962.00
 
-III
+Por la renovación del registro único de los productos a que este artículo se refiere, se pagará el 50% de la cuota correspondiente. Por la modificación del registro se pagará el 75%.
 
-a) 2,962.00 2,962.00
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-b) 2,962.00 2,962.00 (sic)
+###### ARTICULO 195-L
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+2.- Por la expedición de permisos para la importación de plaguicidas, nutrientes vegetales y sustancias tóxicas, se pagará el derecho de permisos para la importación, conforme a la cuota de $ 1,760.00
 
-1er. Trimestre 1er. trimestre
+No se pagarán los derechos a que este artículo se refiere, en los siguientes casos:
 
-2000 2000
+I.- Cuando sean solicitados por instituciones educativas en el país reconocidas oficialmente para investigación.
 
-cuota sin ajuste cuota con ajuste
+II.- Cuando lo soliciten la Federación, el Distrito Federal, los Estados y los Municipios para las campañas fitozoosanitarias, sanitarias o ecológicas.
 
-ARTICULO 195 L-2 1,760.00 1,760.00 (sic)
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+###### ARTICULO 195-L
 
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
-
-ARTICULO 195 L-3 1,400.00 1,400.00 (sic)
+3.- Por la expedición de certificados y dictámenes de plaguicidas, nutrientes vegetales y sustancias tóxicas, se pagará el derecho de certificados y dictámenes, para libre venta para exportación conforme a la cuota de $ 1,400.00
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -15813,11 +14553,11 @@ no obtuvo la cartilla del Servicio
 
 Militar Nacional $ 179.53 180.00
 
-### CAPITULO I. Bosques
+### CAPITULO I. Bosques y Parques Nacionales
 
-#### SECCION UNICA. Registro Nacional de Turismo
+#### SECCION QUINTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 195-X.
 
@@ -15833,6 +14573,14 @@ cuota sin ajuste cuota con ajuste
 
 (ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
+#### SECCION UNICA. Registro Nacional de Turismo
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+### CAPITULO III. Puerto y Atraque
+
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 #### SECCION PRIMERA. Educación Militar
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
@@ -15843,15 +14591,9 @@ cuota sin ajuste cuota con ajuste
 
 cuota sin ajuste cuota con ajuste
 
-### CAPITULO III. Puerto y Atraque
-
-(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
-
-#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO IV. Muelle, Embarque y Desembarque
 
@@ -15943,19 +14685,43 @@ por metro cúbico de rollo de árbol autorizado.
 
 El pago del derecho a que este artículo se refiere, se hará previamente al aprovechamiento forestal ante las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
-
-1er. Trimestre 1er. trimestre
-
-2000 2000
-
-cuota sin ajuste cuota con ajuste
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 198.
 
-I 25.00 25.00
+Estarán obligados al pago de derechos por el uso, goce o aprovechamiento de los elementos naturales marinos de dominio público existentes dentro de las áreas naturales protegidas de interés de la Federación, las personas que realicen en dichas áreas actividades recreativas o turísticas entendiéndose por éstas el buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas.
 
-II 48.00 48.00 (sic)
+El monto del derecho a pagar se determinará conforme a las siguientes cuotas:
+
+I.- Por el uso, goce o aprovechamiento de elementos naturales marinos en áreas tipo A $ 25.00, por persona.
+
+II.- Por el uso, goce o aprovechamiento de elementos naturales marinos en áreas tipo B $ 48.00, por persona.
+
+Para efectos de este artículo se consideran áreas tipo A:
+
+- El Polígono de Isla Mujeres del Parque Nacional Costa Occidental Isla Mujeres, Punta Cancún y Punta Nizuc.
+
+- Cabo Pulmo.
+
+- Arrecifes de Puerto Morelos.
+
+- Arrecifes Alacranes.
+
+- Sistema arrecifal Veracruzano.
+
+- Bahías de Huatulco.
+
+- Para efectos de este artículo se consideran áreas tipo B:
+
+- La Bahía de Loreto.
+
+- Los Arrecifes de Cozumel.
+
+- Los Polígonos de Punta Cancún y Punta Nizuc, de Parque Nacional Costa Occidental Isla Mujeres, Punta Cancún y Punta Nizuc.
+
+El pago de este derecho deberá hacerse previamente a que se realice el uso, goce o aprovechamiento de los bienes a que se refiere este artículo.
+
+El pago del derecho podrá efectuarse por el derechohabiente de permisos o concesiones para la prestación de servicios náutico-recreativos o acuáticos recreativos a nombre de los usuarios que aprovechen estos bienes.
 
 ### CAPITULO V. Sal
 
@@ -16535,11 +15301,11 @@ Cuando se concesione el uso o explotación de un activo que forma parte de la ba
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+#### SECCION PRIMERA. Del derecho sobre hidrocarburos
 
-#### SECCION TERCERA. Servicio Militar Nacional
+#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 222.
 
@@ -16731,7 +15497,9 @@ VI.- Por la explotación, extracción, uso o aprovechamiento de las aguas interi
 
 El certificado de calidad del agua deberá solicitarse dentro de los tres primeros meses del ejercicio fiscal de que se trate. En caso de ser solicitado posteriormente al plazo antes señalado, será valido a partir del momento en que se solicitó.
 
-Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Estos contribuyentes deberán tener instalados dispositivos de medición tanto a la entrada como a la salida de las aguas.
 
 VII.- Por el uso o aprovechamiento de aguas efectuado por las poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda y por los organismos operadores de agua potable y alcantarillado, públicos o privados, que abastezcan de agua para consumo doméstico a estas poblaciones, por los volúmenes suministrados para este fin.
 
@@ -16749,7 +15517,9 @@ Los contribuyentes de los derechos a que se refiere la presente Sección al mome
 
 I.- El costo comprobado de los aparatos de medición y los gastos de su instalación que se efectúen a partir de 1998, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones, para calcular el volumen de agua explotada, usada o aprovechada, en los términos de la presente Ley.
 
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar la factura de compra del aparato de medición y de su instalación en las oficinas de la Comisión Nacional del Agua, para su verificación y sellado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del dispositivo de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -16767,9 +15537,11 @@ Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar 
 
 > <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION PRIMERA. Distritos de Riego
+#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+#### SECCION TERCERA. Servicio Militar Nacional
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 226.
 
@@ -16871,7 +15643,7 @@ VI.- El volumen que señale el Registro Nacional correspondiente o cualquier otr
 
 Tratándose del derecho a que se refiere el presente Capítulo, la Comisión Nacional del Agua está facultada para ejercer las atribuciones a que se refiere el artículo 192-E de esta Ley, así como en la distribución de las multas para los fondos que en el mismo se señala.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 231.
 
@@ -16883,37 +15655,35 @@ Distrito Federal.
 
 Estado de México: Atizapán de Zaragoza, Chalco, Chiconcuac, Chimalhuacán, Coacalco, Cuautitlán, Cuautitlán-lzcalli, Ecatepec, Huixquilucan, Ixtapaluca, Melchor Ocampo, Naucalpan de Juárez, Nezahualcóyotl, Nicolás Romero, La Paz, Tecámac, Tepotzotlán, Texcoco, Tlalnepantla de Baz, Tultepec, Tultitlán y Valle de Chalco Solidaridad.
 
-Estado de San Luis Potosí: Cerro de San Pedro.
+Estado de San Luis Potosí: Cerro de San Pedro, San Luis Potosí y Soledad de Graciano Sánchez.
 
 ZONA 2.
 
 Estado de Aguascalientes: Aguascalientes.
 
-Estado de Baja California: Ensenada, Playas de Rosarito, Tecate y Tijuana.
-
-Estado de Baja California Sur: La Paz.
+Estado de Baja California: Playas de Rosarito y Tijuana.
 
 Estado de Coahuila: Matamoros y Torreón.
 
 Estado de Durango: Gómez Palacio y Lerdo.
 
-Estado de Guanajuato: León.
+Estado de Guanajuato: Celaya y León.
 
 Estado de Hidalgo: Tizayuca.
 
 Estado de Jalisco: Guadalajara, Tlaquepaque, Tonalá y Zapopan.
 
-Estado de México: Atizpan y Toluca.
+Estado de México: Apaxco, Atizapán, Chapa de Mota, Huehuetoca, Jilotepec, San Martín de las Pirámides, Teotihuacán, Toluca y Villa del Carbón.
 
-Estado de Quintana Roo: Benito Juárez.
+Estado de Querétaro: Corregidora, Marqués El y Querétaro.
 
-Estado de San Luis Potosí: San Luis Potosí, Soledad de Graciano Sánchez, Villa de Reyes, Villa de Ramos y Zaragoza.
+Estado de San Luis Potosí: Villa de Reyes y Zaragoza.
 
 ZONA 3.
 
-Estado de Aguascalientes: San José de Gracia.
+Estado de Baja California: Tecate.
 
-Estado de Chihuahua: Aldama y Chihuahua.
+Estado de Chihuahua: Aldama, Allende, Camargo, Chihuahua, Cuauhtémoc, Jiménez, Juárez, López y San Francisco de Conchos.
 
 Estado de Coahuila: Francisco I. Madero, Ramos Arizpe, Saltillo, San Pedro de las Colonias y Viesca.
 
@@ -16921,51 +15691,53 @@ Estado de Colima: Manzanillo.
 
 Estado de Durango: Mapimí y Tlahualilo.
 
-Estado de Guanajuato: Doctor Mora.
+Estado de Guanajuato: Apaseo El Alto, Apaseo El Grande, Doctor Mora, Romita, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao y Villagrán.
 
-Estado de México: Acambay, Acolman, Aculco, Almoloya de Juárez, Amecameca, Apaxco, Atenco, Atlacomulco, Calimaya, Capulhuac, Cocotitlán, Coyotepec, Chapultepec, Chapa de Mota, Chiautla, Chicoloapan, Huehuetoca, Isidro Fabela, Ixtlahuaca, Jalatlaco, Jaltenco, Jilotepec, Jocotitlán, Lerma, Metepec, Morelos, Nextlalpan, Nopaltepec, Ocoyoacac, Ozumba, Rayón, San Antonio la Isla, San Martín de las Pirámides, Temascalcingo, Teoloyucan, Teotihuacán, Tepetlaoxtoc, Tianguistenco, Tlalmanalco, Texcalyacac, Villa del Carbón, Zinacantepec y Zumpango.
+Estado de México: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Cocotitlán, Coyotepec, Chapultepec, Chicoloapan, Isidro Fabela, Ixtlahuaca, Jalatlaco, Jaltenco, Joquicingo, Malinalco, Nextlalpan, Rayón, San Antonio la Isla, Soyaniquilpan de Juárez, Temascalcingo, Teoloyucan, Tianguistenco, Texcaltitlán, Texcalyacac, Tonatico, Zinacantepec y Zumpango.
 
-Estado de Nuevo León: Abasolo, Allende, Apodaca, Cadereyta Jiménez, Carmen, Ciénega de Flores, Doctor González, Galeana, García, Garza García, General Bravo, General Escobedo, General Terán, General Zuazua, Guadalupe, Juárez, Lampazos de Naranjo, Linares, Marín, Montemorelos, Monterrey, Pesquería, San Nicolás de los Garza, Salinas Victoria, Santiago y Santa Catarina.
+Estado de Morelos: Axochiapan y Tepalcingo.
 
-Estado de Quintana Roo: Cozumel, en su porción insular y Solidaridad.
+Estado de Nuevo León: Apodaca, Benito Juárez, Carmen El, García, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza y Santa Catarina.
 
-Estado de San Luis Potosí: Cedral y Matehuala.
+Estado de Puebla: Puebla y Santa Clara Huitziltepec.
+
+Estado de Quintana Roo: Cozumel, en su porción insular.
+
+Estado de San Luis Potosí: Cedral, Matehuala y Villa de Arista.
 
 ZONA 4.
 
-Estado de Aguascalientes: Asientos, Calvillo, Cosío, Jesús María, Pabellón de Arteaga, Llano El, Rincón de Romos, San Francisco de los Romo y Tepezalá.
+Estado de Aguascalientes: Asientos, Calvillo, Cosío, Jesús María, Pabellón de Arteaga, Llano El, Rincón de Romos, San José de Gracia, San Francisco de los Romo y Tepezalá.
 
-Estado de Baja California: Mexicali.
+Estado de Baja California: Ensenada y Mexicali.
 
-Estado de Baja California Sur: Los Cabos y Loreto.
+Estado de Baja California Sur: La Paz, Los Cabos y Loreto.
 
-Estado de Chihuahua: Allende, Ascensión, Camargo, Delicias, Janos, Jiménez, Juárez, Julimes, La Cruz, López, Meoqui, Rosales, San Francisco de Conchos y Saucillo.
+Estado de Chihuahua: Ahumada, Ascensión, Delicias, Janos, Julimes, La Cruz, Meoqui, Rosales y Saucillo.
 
-Estado de Coahuila: Allende, Monclova, Nava, y Piedras Negras.
+Estado de Coahuila: Allende, Monclova, Morelos, Nava y Piedras Negras.
 
-Estado de Durango: San Pedro del Gallo.
+Estado de Durango: Durango y San Pedro del Gallo.
 
-Estado de Guanajuato: Abasolo, Allende, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Dolores Hidalgo, Irapuato, Pueblo Nuevo, Romita, Salamanca, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao, Valle de Santiago y Villagrán.
+Estado de Guanajuato: Abasolo, Allende, Comonfort, Dolores Hidalgo, Irapuato, Pueblo Nuevo, Salamanca y Valle de Santiago.
 
-Estado de Guerrero: Acapulco de Juárez.
+Estado de Hidalgo: Alfajayucan, Almoloya, Apan, Cuautepec de Hinojosa, Chapantongo, Epazoyucan, Huichapan, Pachuca de Soto, Mineral de la Reforma, Nopala de Villagrán, Singuilucan, Tasquillo, Tecozautla, Tepeapulco, Tezontepec de Aldama, Tlanalapa, Tolcayuca, Tulancingo de Bravo, Zapotlán de Juárez y Zimapán.
 
-Estado de Hidalgo: Almoloya, Apan, Cuautepec de Hinojosa, Epazoyucan, Huichapan, Pachuca de Soto, Mineral de la Reforma, Singuilucan, Tepeapulco, Tlanalapa, Tolcayuca, Tulancingo de Bravo y Zapotlán de Juárez.
+Estado de Jalisco: El Salto.
 
-Estado de Jalisco: El Salto y Puerto Vallarta.
+Estado de México: Acolman, Almoloya del Río, Amatepec, Atenco, Ixtapan de la Sal, Jocotitlán, Lerma, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, El Oro, Otzolotepec, San Felipe del Progreso, San Mateo Atenco, Temoaya, Tenancingo, Tenango del Valle, Tlatlaya, Villa Guerrero, Xonacatlán y Zumpahuacán.
 
-Estado de México: Atlautla, Ayapango, Axapusco, Almoloya del Río, Ecatzingo, Hueypoxtla, Juchitepec, Jilotzingo, Mexicaltzingo, El Oro, Otumba, Otzolotepec, Papalotla, Polotitlán, San Felipe del Progreso, San Mateo Atenco, Soyaniquilpan de Juárez, Temamatla, Temascalapa, Temoaya, Tenango del Aire, Tepetlixpa, Tequixquiac, Tezoyuca, Timilpan y Xonacatlán.
+Estado de Nuevo León: Bustamante, Mina y Salinas Victoria.
 
-Estado de Morelos: Axochiapan, Cuernavaca y Tepalcingo.
+Estado de Oaxaca: Asunción Ocotlán, Ayoquezco de Aldama, Ciénega de Zimatlán La, Coatecas Altas, Compañía La, Cuilapam de Guerrero, Ejutla de Crespo, Guadalupe Etla, Mesones Hidalgo, Magdalena Apasco, Magdalena Mixtepec, Magdalena Teitipac, Mazatlán Villa de Flores, Natividad, Nazareno Etla, Oaxaca de Juárez, Ocotlán de Morelos, Pe La, San José del Progreso, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín de las Juntas, San Agustín Etla, San Agustín Yatareni, San Andrés Zabache, San Andrés Zautla, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Bartolo Coyotepec, San Bernardo Mixtepec, San Dionisio Ocotlán, San Felipe Tejalapam, San Francisco Huehuetlán, San Francisco Lachigolo, San Francisco Sola, San Francisco Telixtlahuaca, San Jacinto Amilpas, San Jerónimo Sosola, Ánimas Trujano, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlachichilco, San Juan Chilateca, San Juan Guelavia, San Juan Teitipac, San Lorenzo Cacaotepec, San Martín de los Canseco, San Martín Tilcajete, San Martín Toxpalan, Capulalpan de Méndez, San Miguel Amatlán, San Miguel Ejutla, San Pablo Cuatro Venados, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pedro Apóstol, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir, San Pedro y San Pablo Etla, San Sebastián Abasolo, San Sebastián Tutla, Santa Ana, Santa Ana del Valle, Santa Ana Zegache, Santa Catarina Quiane, Santa Cruz Amilpas, Santa Cruz Papalutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa Lucía Miahuatlán, Santa María Apazco, Santa María Atzompa, Santa María Coyotepec, Santa María del Tule, Santa María Guelace, Santa María Texcaltitlán, Santiago Apoala, Santiago Apóstol, Santiago Suchilquitongo, Santiago Tenango, Santiago Tilantongo, Santo Domingo Tomaltepec, Santo Tomás Mazaltepec, Soledad Etla, Taniche, Teotitlán de Flores Magón, Teotitlán del Valle, San Jerónimo Tlacochauaya, Tlacolula de Matamoros, Tlacotepec Plumas, Tlalixtac de Cabrera, Trinidad Zaachila, Valerio Trujano, Zaachila Villa de, Villa Etla y Zimatlán de Álvarez.
 
-Estado de Nuevo León: Agualeguas, Los Aldamas, Anáhuac, Aramberri, Bustamante, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Los Herreras, Hidalgo, Higueras, Hualahuises, Iturbide, Melchor Ocampo, Mier y Noriega, Mina, Parás, Los Ramones, Rayones, Sabinas Hidalgo, Vallecillo y Villaldama.
+Estado de Puebla: Altepexi, Amozoc, Atoyatempan, Cuapiaxtla de Madero, Cuauntinchán, Mixtla, Ocoyucan, Palmar de Bravo, Quecholac, Reyes de Juárez Los, San Andrés Cholula, San Pedro Cholula, San Salvador Huixcolotla, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco, Tehuacán, Tepeaca, Tepeyahualco de Cuauhtémoc, Tlanepantla y Tochtepec.
 
-Estado de Puebla: Amozoc, Cuapiaxtla de Madero, Cuauntinchán, Ocoyucan, Palmar de Bravo, Puebla, Quecholac, San Andrés Cholula, San Pedro Cholula, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco y Tehuacán.
+Estado de Querétaro: Colón, Pedro Escobedo, San Juan del Río y Tequisquiapan.
 
-Estado de Querétaro: Colón, Corregidora, El Marqués, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan.
+Estado de San Luis Potosí: Ahualulco, Catorce, Ciudad Fernández, Charcas, Mexquitic de Carmona, Moctezuma, Río Verde, Santo Domingo, Vanegas, Venado, Villa de Arriaga, Villa de la Paz y Villa de Ramos.
 
-Estado de San Luis Potosí: Ahualulco, Catorce, Charcas, Mexquitic de Carmona, Moctezuma, Santo Domingo, Vanegas, Venado y Villa de Arriaga.
-
-Estado de Sonora: Altar y Atil, Caborca, Cananea, Empalme, Guaymas, Hermosillo, Nogales, Pitiquito, General Plutarco Elías Calles, Puerto Peñasco y San Luis Río Colorado.
+Estado de Sonora: Altar, Atil, Caborca, Cananea, Empalme, Guaymas, Hermosillo, Nogales, Pitiquito, General Plutarco Elías Calles, Puerto Peñasco y San Luis Río Colorado.
 
 Estado de Zacatecas: Fresnillo, Guadalupe, Ojocaliente y Zacatecas.
 
@@ -16973,115 +15745,145 @@ ZONA 5.
 
 Estado de Baja California Sur: Comondú y Mulegé.
 
-Estado de Chihuahua: Ahumada, Aquiles Serdán, Buenaventura, Casas Grandes, Coronado, Galeana, Hidalgo del Parral, Matamoros, Nuevo Casas Grandes, San Francisco del Oro y Santa Bárbara.
+Estado de Chiapas: Arriaga, Berriozábal, Cintalapa, Comitán de Domínguez, Frontera Comalapa, Huixtla, Independencia La, Jiquipilas, Mapastepec, Margaritas Las, Mazatán, Metapa, Ocozocuautla de Espinoza, Palenque, Pijijiapan, Pueblo Nuevo Comaltitlán, Reforma, San Cristóbal de las Casas, Suchiate, Tapachula, Tonalá, Trinitaria La, Tuxtla Gutiérrez y Villa Flores.
 
-Estado de Coahuila: Abasolo, Arteaga, Candela, Cuatrociénegas, Frontera, Nadadores, Parras, Progreso, Sabinas, Sacramento, San Buenaventura, San Juan de Sabinas y Villa Unión.
+Estado de Chihuahua: Aquiles Serdán, Buenaventura, Casas Grandes, Coronado, Galeana, Hidalgo del Parral, Matamoros, Nuevo Casas Grandes, San Francisco del Oro y Santa Bárbara.
 
-Estado de Durango: Canatlán, General Simón Bolívar, Nazas, Poanas, Rodeo, San Juan de Guadalupe, San Luis del Cordero y Vicente Guerrero.
+Estado de Coahuila: Abasolo, Arteaga, Candela, Cuatrociénegas, Frontera, Nadadores, Parras de la Fuente, Progreso, Sabinas, Sacramento, San Buenaventura, San Juan de Sabinas y Villa Unión.
+
+Estado de Durango: Canatlán, General Simón Bolívar, Nazas, Nombre de Dios, Poanas, Rodeo, San Juan de Guadalupe, San Luis del Cordero y Vicente Guerrero.
 
 Estado de Guanajuato: Ciudad Manuel Doblado, Cortázar, Cuerámaro, Huanímaro, Jaral del Progreso, Moroleón, Pénjamo, Purísima del Rincón, Salvatierra, San Diego de la Unión, San Felipe, Uriangato y Yuriria.
 
-Estado de Hidalgo: Emiliano Zapata, Metepec, Santiago Tulantepec de Lugo Guerrero, Villa de Tezontepec y Zempoala.
+Estado de Guerrero: Acapulco de Juárez y José Azueta.
+
+Estado de Hidalgo: Atotonilco de Tula, Emiliano Zapata, Ixmiquilpan, Metepec, Santiago Tulantepec de Lugo Guerrero, Tepeji del Río de Ocampo, Tepetitlán, Villa de Tezontepec y Zempoala.
 
 Estado de Jalisco: La Barca y Tlajomulco de Zúñiga.
 
-Estado de México: Almoloya de Alquisiras, Amanalco, Amatepec, Coatepec Harinas, Donato Guerra, Jiquipilco, Joquicingo, Malinalco, Ocuilán, Otzoloapan, San Simón de Guerrero, Santo Tomás de los Plátanos, Sultepec, Tejupilco, Temascaltepec, Tenango del Valle, Texcaltitlán, Tlatlaya, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero y Villa Victoria.
+Estado de México: Aculco, Amanalco, Chiautla, Donato Guerra, Hueypoxtla, Ixtapan del Oro, Otzoloapan, Polotitlán, San Simón de Guerrero, Santo Tomás de los Plátanos, Sultepec, Tejupilco, Temascalapa, Temascaltepec, Tenango del Aire, Timilpan, Valle de Bravo, Villa de Allende, Villa Victoria, Zacazonapan y Zacualpan.
 
-Estado de Michoacán: Alvaro Obregón, Copándaro, Charo, Tannuato, Tarímbaro, Vista Hermosa y Yurécuaro.
+Estado de Michoacán: Alvaro Obregón, Copándaro, Charo, Morelia, Tannuato, Tarímbaro, Vista Hermosa y Yurécuaro.
 
-Estado de Puebla: Acatzingo, Atoyatempan, Calpan, Coronango, Cuautlancingo, General Felipe Angeles, Huejotzingo, Huitziltepec, Juan C. Bonilla, Mixtla, Nealtican, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Texmelucan, San Miguel Xoxtla, Tepanco de López, Tepeyahualco de Cuauhtémoc, Tlaltenango, Tochtepec, Los Reyes de Juárez, San Salvador Huixcolotla, Xochitlán Todos Santos y Yehualtepec.
+Estado de Morelos: Cuernavaca.
 
-Estado de Querétaro: Ezequiel Montes y Huimilpan.
+Estado de Nuevo León: Abasolo, Doctor González, Galeana, Rayones y Vallecillo.
 
-Estado de San Luis Potosí: Guadalcázar, Salinas, Santa María del Río, Villa Hidalgo, Villa de La Paz, Villa de Guadalupe y Villa Juárez.
+Estado de Oaxaca: Fresnillo de Trujano, Guelatao de Juárez, Huautla de Jiménez, Nejapa de Madero, Salina Cruz, San Andrés Sinaxtla, San Antonino Castillo Velasco, San Antonio Nanahuatipam, San Baltazar Chichicapan, San Cristóbal Suchixtlahuaca, San Jerónimo Taviche, San Jorge Nuchita, San José Ayuquila, San Juan Achiutla, San Juan Atepec, San Juan Bautista Atlatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Tuxtepec, San Juan del Río (Albarrada), San Juan Lachigalla, San Juan de los Cués, San Juan Ñumi, San Juan Tepeuxila, San Juan Yae, San Luis Amatlán, San Martín Zacatepec, San Mateo Etlatongo, San Mateo Nejapam, San Miguel Achiutla, San Miguel Aloapam, San Miguel Amatitlán, San Miguel Chicahua, San Miguel del Río, San Miguel Huautla, Villa Sola de Vega, San Miguel Tlacotepec, San Pedro Cajonos, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Quiatoni, San Pedro Taviche, San Pedro Totolapam, San Pedro y San Pablo Tequixtepec, San Simón Zahuatlán, Santa Ana Tavela, Santa Ana Yareni, Santa Catarina Ixtepeji, Santa Catarina Zapoquila, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Nundaco, Santa Cruz Tayata, Santa Gertrudis, Santa María Jaltianguis, Santa María Nativitas, Santa María Nduayaco, Santa María Papalo, Santa María Petapa, Santa María Tecomavaca, Santa María Yavesia, Santa María Zoquitlán, Santiago Ayuquililla, Santiago Comaltepec, Santiago Chazumba, Santiago Huauclilla, Santiago Matatlán, Santiago Miltepec, Santiago Nuyoo, Santiago Xiacui, Nuevo Zoquiapam, Santo Domingo Petapa, Santos Reyes Yucuna, Sitio de Xitlapehua, Tecocuilco de Marcos Pérez, Yaxe y Zapotitlán Palmas.
+
+Estado de Puebla: Acatzingo, Calpan, Coronango, Coxcatlán, Cuautlancingo, General Felipe Ángeles, Huejotzingo, Juan C. Bonilla, Nealtican, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Texmelucan, San Miguel Xoxtla, Santiago Miahuatlán, Tecali de Herrera, Tepanco de López, Tlacotepec de Benito Juárez, Tlaltenango, Xochitlán Todos Santos, Yehualtepec y Zinacatepec.
+
+Estado de Querétaro: Amealco, Ezequiel Montes, Huimilpan, Peñamiller y Tolimán.
+
+Estado de San Luis Potosí: Guadalcázar, Salinas, Santa María del Río, Tierranueva, Villa Hidalgo y Villa de Guadalupe.
 
 Estado de Sonora: San Miguel de Horcasitas.
 
-Estado de Tlaxcala: Tlaxcala.
+Estado de Tlaxcala: Santa Cruz Tlaxcala y Tlaxcala.
 
-Estado de Zacatecas: Calera, Cuauhtémoc, General Enrique Estrada, General Pánfilo Natera, General Joaquín Amaro, Loreto, Luis Moya, Morelos, Veta Grande, Noria de Ángeles y Villa González Ortega.
+Estado de Zacatecas: Calera, Cuauhtémoc, General Enrique Estrada, General Pánfilo Natera, General Joaquín Amaro, Loreto, Luis Moya, Noria de Ángeles y Villa González Ortega.
 
 ZONA 6.
 
-Estado de Chihuahua: Bachíniva, Bocoyna, Carichi, Coyame, Cuauhtémoc, Cuzihuiriachi, Chinipas, Guachochi, Guadalupe, Guerrero, Manuel Benavides, Namiquipa, Nonoava, Ocampo, Ojinaga y Praxedis G. Guerrero.
+Estado de Chiapas: Acapetahua, Chiapa de Corzo, Frontera Hidalgo, Huehuetán, Ixtapa, Motozintla, Ocosingo, Rosas Las, Sumuapa, Tecpatán, Tuxtla Chico y Venustiano Carranza.
 
-Estado de Coahuila: Acuña, Castaños, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Múzquiz, Ocampo, Sierra Mojada y Zaragoza.
+Estado de Chihuahua: Bachíniva, Bocoyna, Carichi, Coyame, Cuzihuiriáchi, Chinipas, Guachochi, Guadalupe, Guerrero, Manuel Benavides, Namiquipa, Nonoava, Ocampo, Ojinaga y Praxedis G. Guerrero.
 
-Estado de Colima: Minatitlán.
+Estado de Coahuila: Acuña, Castaños, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Melchor Múzquiz, Ocampo, Sierra Mojada y Zaragoza.
 
-Estado de Durango: Durango, Guadalupe Victoria, Hidalgo, Nombre de Dios, Nuevo Ideal, Ocampo, Pánuco de Coronado, San Juan del Río, Súchil y Tepehuanes.
+Estado de Colima: Armería, Minatitlán y Tecomán.
+
+Estado de Durango: Guadalupe Victoria, Nuevo Ideal, Ocampo, Pánuco de Coronado, San Juan del Río, Súchil y Tepehuanes.
 
 Estado de Guanajuato: Acámbaro, Guanajuato, Jerécuaro, Ocampo, Santiago Maravatío y Tarandacuao.
 
-Estado de Hidalgo: Acatlán y San Agustín Tlaxiaca.
+Estado de Guerrero: Coyuca de Benítez, Huitzuco de los Figueroa, Iguala de la Independencia, San Marcos y Tepecoacuilco de Trujano.
 
-Estado de Jalisco: Atotonilco el Alto, Ayotlán, Ixtlahuacán de los Membrillos, Jamay, Jocotepec, Chapala, Ocotlán, Poncitlán y Tuxcueca.
+Estado de Hidalgo: Acatlán, Ajacuba, Arenal El, Atitalaquia, Francisco I. Madero, Huasca de Ocampo, Progreso, San Agustín Tlaxiaca, Santiago de Anaya, Tlahuelilpan, Tetepango, y Tula de Allende.
 
-Estado de México: Ixtapan de la Sal, Ixtapan del Oro, Tenancingo, Zacazonapan, Zacualpan y Zumpahuacán.
+Estado de Jalisco: Atotonilco el Alto, Ayotlán, Cihuatlán, Ciudad Guzmán, Ixtlahuacán de los Membrillos, Jamay, Jocotepec, Chapala, Ocotlán, Ojuelos de Jalisco, Poncitlán, Tuxcueca, Tuxpan, Zapotlán el Grande y Zapotiltic.
 
-Estado de Michoacán: Angamacutiro, Briseñas, Chavinda, Cojumatlán de Régules, Chucándiro, Cuitzeo, Ecuandureo, Huandacareo, Indaparapeo, Ixtlán, Jiquilpan, Jacona, José Sixto Verduzco, Morelia, Numarán, Pajacuarán, Pátzcuaro, Penjamillo, La Piedad, Purépero, Puruándiro, Queréndaro, Sahuayo, Santa Ana Maya, Tangancícuaro, Tlazazalca, Tzintzuntzán, Venustiano Carranza, Villamar, Zamora y Zináparo.
+Estado de México: Amecameca, Atlautla, Axapusco, Ayapango, Jilotzingo, Jiquipilco, Juchitepec, Nopaltepec, Otumba, Papalotla, Temamatla, Tepetlaoxtoc, Tequisquiac, Tezoyuca y Tlalmanalco.
 
-Estado de Morelos: Cuautla, Jiutepec, Jonacatepec, Tlalnepantla, Tlayacapan y Yautepec.
+Estado de Michoacán: Angamacutiro, Apatzingán, Briseñas, Buenavista, Chavinda, Cojumatlán de Régules, Chucándiro, Cuitzeo, Ecuandureo, Huandacareo, Indaparapeo, Ixtlán, Jacona, Jiquilpan, José Sixto Verduzco, Múgica, Numarán, Pajacuarán, Parácuaro, Pátzcuaro, Penjamillo, La Piedad, Purépero, Puruándiro, Queréndaro, Sahuayo, Santa Ana Maya, Tangancícuaro, Tepalcatepec, Tlazazalca, Tocumbo, Tzintzuntzán, Venustiano Carranza, Villamar, Zamora y Zináparo.
 
-Estado de Puebla: Acajete, Atlixco, Izúcar de Matamoros, Molcaxac, Tepatlaxco de Hidalgo, Tecalli de Herrera, Tlanepantla y Tepeaca.
+Estado de Morelos: Cuautla, Jiutepec, Jonacatepec, Tlalnepantla y Yautepec.
 
-Estado de Sinaloa: Ahome, Culiacán, Guasave, Mazatlán, Salvador Alvarado.
+Estado de Nuevo León: Agualeguas, Aldamas Los, Anáhuac, Cadereyta Jiménez, Ciénega de Flores, China, Doctor Coss, General Bravo, General Terán, General Treviño, General Zuazua, Herreras Los, Iturbide, Marín, Melchor Ocampo, Mier y Noriega, Montemorelos, Parás, Pesquería, Ramones Los, Sabinas Hidalgo, Hidalgo, Santiago y Villaldama.
 
-Estado de Sonora: Aconchi, Agua Prieta, Álamos, Arizpe, Bácum, Banámichi, Bavíacora, Benito Juárez, Cajeme, Carbó, La Colorada, Etchojoa, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Nacozari de García, Navojoa, Oquitoa, San Felipe de Jesús, Santa Ana, Santa Cruz, Sáric, Suaqui Grande, San Ignacio Río Muerto, Trincheras, Tubutama y Ures.
+Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 4, 5, 7 y 9.
+
+Estado de Puebla: Acajete, Atlixco, Chapulco, Izúcar de Matamoros, Molcaxac, Morelos Cañada, San José Miahuatlán y Tepatlaxco de Hidalgo.
+
+Estado de Querétaro: Pinal de Amoles, Arroyo Seco, Jalpan de Serra y Landa de Matamoros.
+
+Estado de San Luis Potosí: Alaquines, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Lagunillas, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina y Villa de Juárez.
+
+Estado de Sinaloa: Ahome, Culiacán, Guasave, Mazatlán y Salvador Alvarado.
+
+Estado de Sonora: Aconchi, Agua Prieta, Álamos, Arizpe, Bácum, Banámichi, Baviácora, Benito Juárez, Cajeme, Carbó, La Colorada, Etchojoa, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Nacozari de García, Navojoa, Oquitoa, San Felipe de Jesús, Santa Ana, Santa Cruz, Sáric, Suaqui Grande, San Ignacio Río Muerto, Trincheras, Tubutama y Ures.
 
 Estado de Tabasco: Centro y Cunduacán.
 
-Estado de Tamaulipas: Camargo, Guerrero, Gustavo Díaz Ordaz, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Valle Hermoso, Mier y Miguel Alemán.
+Estado de Tamaulipas: Camargo, Ciudad Madero, Guerrero, Güémez, Gustavo Díaz Ordaz, Matamoros, Nuevo Laredo, Padilla, Reynosa, Río Bravo, Valle Hermoso, Victoria, Mier y Miguel Alemán.
 
-Estado de Tlaxcala: Acuamanala de Miguel Hidalgo, Altzayanca, Benito Juárez, Calpulalpan, El Carmen Tequexquitla, Emiliano Zapata, Chiautempan, Cuapiaxtla, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Nativitas, Panotla, Papalotla de Xicohténcatl, San Damián, Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San Juan Huactzinco, San Lorenzo Axocomanitla, Sanctórum de Lázaro Cárdenas, San Pablo del Monte, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Totolac, Xicohtzinco, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
+Estado de Tlaxcala: Acuamanala de Miguel Hidalgo, Altzayanca, Benito Juárez, Calpulalpan, El Carmen Tequexquitla, Emiliano Zapata, Chiautempan, Cuapiaxtla, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Nativitas, Panotla, Papalotla de Xicohténcatl, San Damián Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San José Teacalco, San Juan Huactzinco, San Lorenzo Axocomanitla, San Lucas Tecopilco, Sanctórum de Lázaro Cárdenas, San Pablo del Monte, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Totolac, Xicohtzinco, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
 
 Estado de Veracruz: Coatzacoalcos, Cosoleacaque, Minatitlán, La Antigua, Ixhuatlán del Sureste, Nanchital de Lázaro Cárdenas del Río y Veracruz.
 
-Estado de Zacatecas: Jerez, Miguel Auza, Pánuco, Susticacan, Tepechitlán, Tepetongo, Villa de Cos y Villa Hidalgo.
+Estado de Yucatán: Mérida.
+
+Estado de Zacatecas: Jerez, Miguel Auza, Morelos, Pánuco, Susticacán, Tepechitlán, Tepetongo, Veta Grande, Villa de Cos y Villa Hidalgo.
 
 ZONA 7.
 
+Estado de Chiapas: Excepto los municipios comprendidos en las zonas 5 y 6.
+
 Estado de Chihuahua: Balleza, Batopilas, General Trías, Gómez Farías, Guadalupe y Calvo, Guazapares, Huejotitán, Ignacio Zaragoza, Maguarichi, Matachi, Morelos, Riva Palacio, Rosario, San Francisco de Borja, Satevó, Tule El, Urique y Valle de Zaragoza.
 
-Estado de Colima: Armería, Colima, Comalá, Coquimatlán, Cuauhtémoc, Ixtlahuacán, Tecomán y Villa de Álvarez.
+Estado de Colima: Colima, Comalá, Coquimatlán, Cuauhtémoc, Ixtlahuacán y Villa de Álvarez.
 
 Estado de Durango: Coneto de Comonfort, Cuencamé, Hidalgo, Inde, Oro El, Peñón Blanco, Santa Clara y Santiago Papasquiaro.
 
 Estado de Guanajuato: Coroneo.
 
-Estado de Guerrero: Atoyac de Álvarez, Azoyú, Benito Juárez, Copala, Coyuca de Benítez, Cuajiniculapa, Florencio Villarreal, José Azueta, Petatlán, San Marcos, Tecpan de Galeana, Tepecoacuilco de Trujano y La Unión de Isidro Montes de Oca.
+Estado de Guerrero: Atoyac de Álvarez, Azoyú, Benito Juárez, Copala, Cuajiniculapa, Chilpancingo de los Bravo, Florencio Villarreal, Petatlán, Tecpan de Galeana y La Unión de Isidro Montes de Oca.
 
-Estado de Hidalgo: Actopan, Ajacuba, Alfajayucan, Arenal El, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuatlán, Francisco I. Madero, Huasca de Ocampo, Ixmiquilpan, Jacala, Metztitlan, Mixquiahuala, Nopala de Villagrán, Progreso, San Salvador, Santiago de Anaya, Tasquillo, Tecozautla, Tepeji del Río de Ocampo, Tepetitlan, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, Tula de Allende y Zimapan.
+Estado de Hidalgo: Actopan, Chilcuatlán, Metztitlán, Mixquiahuala, San Salvador y Tlaxcoapan.
 
-Estado de Jalisco: Ahualulco de Mercado, Amacueca, Arenal El, Atoyac, Autlán, Bolaños, Casimiro Castillo, Cañadas de Obregón, Cihuatlán, Ciudad Guzmán, Cocula, Colotlan, Cuahutilan, Chimaltitan, Degollado, Encarnación de Díaz, Gómez Farías, Huejucar, Huejuquilla el Alto, Ixtlahuacán del Río, Jesús María, Juanacatlán, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, San Martín de Bolaños, Santa María de los Angeles, Sayula, Tala, Tamazula de Gordiano, Techalutla de Montenegro, Teocuitatlan de Corona, Teuchitlan, Tizapán el Alto, Tolimán, Tonila, Totaniche, Tototlán, Tuxcacuesco, Tuxpan, Valle de Guadalupe, Venustiano Carranza, Villa Corona, Villa Guerrero, Zacualco de Torres, Zapotiltic, Zapotlán del Rey y Zapotitlán de Vadillo.
+Estado de Jalisco: Ahualulco de Mercado, Amacueca, Arenal El, Atoyac, Autlán, Bolaños, Casimiro Castillo, Cocula, Colotlán, Cuahutilán, Chimaltitán, Degollado, Encarnación de Díaz, Gómez Farías, Huejúcar, Huejuquilla el Alto, Ixtlahuacán del Río, Jesús María, Juanacatlán, Lagos de Moreno, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Sayula, San Gabriel, Tala, Tamazula de Gordiano, Techalutla de Montenegro, Teocuitatlán de Corona, Teuchitlán, Tizapán el Alto, Tolimán, Tonila, Totaniche, Tototlán, Tuxcacuesco, Valle de Guadalupe, Villa Corona, Villa Guerrero, Villa Obregón, Zacualco de Torres, Zapotlán del Rey y Zapotitlán de Vadillo.
 
-Estado de Michoacán: Agangueo, Apatzingán, Aporo, Buenavista, Coahuayana, Coeneo, Contepec, Cotija, Chinicuila, Churintzio, Erongarícuaro, Epitacio Huerta, Gabriel Zamora, Hidalgo, Huaniqueo, Huiramba, Irimbo, Jacona, Jiménez, Lagunillas, Lázaro Cárdenas, Maravatío, Morelos, Múgica, Nahuatzén, Nuevo Parangaricutiro, Ocampo, Parácuaro, Panindícuaro, Peribán, Quiroga, Reyes Los, Senguio, Tansítaro, Tangamandapio, Tepalcatepec, Tinguindín, Tlalpujahua, Tocumbo, Tuxpan, Uruapan, Zacapu, Zinapécuaro y Ziracuaretiro.
+Estado de México: Ecatzingo, Ozumba y Tepetlixpa.
 
-Estado de Morelos: Jantetelco, Tepoztlán y los municipios que no estén comprendidos en las zonas 4, 6 y 8.
+Estado de Michoacán: Agangueo, Aporo, Coahuayana, Coeneo, Contepec, Cotija, Chinicuila, Churintzio, Erongarícuaro, Epitacio Huerta, Gabriel Zamora, Hidalgo, Huaniqueo, Huiramba, Irimbo, Jiménez, Lagunillas, Lázaro Cárdenas, Maravatío, Morelos, Nuevo Parangaricutiro, Ocampo, Panindícuaro, Peribán, Quiroga, Reyes Los, Senguio, Tansítaro, Tangamandapio, Tingüindín, Tlalpujahua, Tuxpan, Uruapan, Zacapu, Zinapécuaro y Ziracuaretiro.
 
-Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 8 y 9.
+Estado de Morelos: Jantetelco, Tepoztlán, Tlayacapan y los municipios que no estén comprendidos en las zonas 4, 6 y 8.
 
-Estado de Puebla: Aljojuca, Altepexi, Chalchicomula de Sesma, Cuyoaco, Esperanza, Guadalupe Victoria, Mazapiltepec de Juárez, Morelos Cañada, Nicolás Bravo, Ocotepec, Oriental, San José Chiapa, San Juan Atenco, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Nicolás de Buenos Aires, Tlacotepec de Benito Juárez, Tepeojuma, Tepeyahualco, Tianguismanalco y los municipios que no estén comprendidos en las zonas 4, 5, 6, 8 y 9.
+Estado de Nayarit: Bahía de Banderas y Tepic.
 
-Estado de Querétaro: Amealco, Pinal de Amoles, Arroyo Seco, Cadereyta de Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, San Joaquín y Toliman.
+Estado de Nuevo León: Allende, Aramberri, Cerralvo, Doctor Arroyo, General Zaragoza, Higueras, Hualahuises, Lampazos de Naranjo y Linares.
 
-Estado de Quintana Roo: Cozumel en su porción Continental, Isla Mujeres y Lázaro Cárdenas.
+Estado de Oaxaca: Asunción Ixtaltepec, Asunción Nochixtlán, Ayotzintepec, Cuyamecalco Villa de Zaragoza, Chahuites, Chalcatongo de Hidalgo, Espinal El, Guevea de Humbolt, Huautepec, Magdalena Zahuatlán, Matías Romero, Miahuatlán de Porfirio Díaz, Nuevo Soyaltepec, Santiago Niltepec, Reforma de Pineda, San Andrés Nuxiño, San Andrés Teotilalpam, San Andrés Tepetlapa, San Blas Atempa, San Dionisio del Mar, San Felipe Usila, San Francisco Chapulapa, San Francisco del Mar, San Francisco Ixhuatán, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Coatzospan, San Juan Guichicovi, San Juan Juquila Vijanos, San Juan Chiquihuitlán, San Juan Lachao, San Juan Mazatlán, San Juan Yucuita, San Lorenzo, San Lorenzo Cuaunecuiltitla, San Lucas Ojitlán, San Mateo del Mar, San Mateo Sindihui, San Miguel Ahuehuetitlán, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Santa Flor, San Pedro Comitancillo, San Pedro Huilotepec, San Pedro Ixcatlán, San Pedro Juchatengo, San Pedro Ocopetatillo, San Pedro Sochiapam, San Pedro Tapanatepec, San Pedro Teozacoalco, San Pedro Teutila, San Sebastián Teitipac, San Simón Almolongas, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Ana Tlapacoyan, Santa Catarina Cuixtla, Santa Catarina Tayata, Santa Cruz Acatepec, Santa Cruz Xitla, Santa María La Asunción, Santa María Chilchotla, Santa María Chimalapa, Santa María Guienagati, Santa María Jacatepec, Santa María Teopoxco, Santa María Tlalixtac, Santa María Xadani, Santiago Ixcuintepec, Santiago Lachiguiri, Santiago Laollaga, Villa Tejupam de la Unión, Santiago Texcalcingo, Santo Domingo Nuxaa, Santo Domingo Roayaga, Santo Domingo Tehuantepec, Santo Domingo Xagacia, Santo Domingo Zanatepec, Santo Tomás Ocotepec, Santo Tomás Tamazulapam, Villa de Tamazulapam del Progreso, Teotongo, Unión Hidalgo, Valle Nacional San Juan Bautista, Yutanduchi de Guerrero y Zaragoza Santa Inés de.
 
-Estado de San Luis Potosí: Alaquines, Aquismón, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Ciudad Valles, Lagunillas, Rayón, Río Verde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina, Tamasopo, Tierranueva, Villa de Arista y Matlapa.
+Estado de Puebla: Aljojuca, Chalchicomula de Sesma, Cuyoaco, Esperanza, Guadalupe Victoria, Mazapiltepec de Juárez, Ocotepec, Oriental, San José Chiapa, San Juan Atenco, San Juan Tianguismanalco, San Nicolás de Buenos Aires, Tepeojuma, Tepeyahualco de Hidalgo y los municipios que no estén comprendidos en las zonas 4, 5, 6, 8 y 9.
+
+Estado de Querétaro: Cadereyta de Montes y San Joaquín.
+
+Estado de Quintana Roo: Benito Juárez, Cozumel en su porción Continental, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
+
+Estado de San Luis Potosí: Aquismón, Ciudad Valles, Rayón y Tamasopo.
 
 Estado de Sinaloa: Concordia, Escuinapa y Rosario El, y los municipios que no estén comprendidos en las zonas 6 y 8.
 
 Estado de Sonora: Arivechi, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Cumpas, Cucurpe, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Moctezuma, Naco, Onavas, Opodepe, Rayón, Quiriego, Sahuaripa, San Javier, San Pedro de la Cueva, Soyopa, Tepache, Villa Hidalgo y Villa Pesqueira.
 
-Estado de Tabasco: Balancán, Cárdenas, Comalcalco, Huimanguillo, Jalapa, Jalpa de Méndez y Macuspana.
+Estado de Tabasco: Balancán, Cárdenas, Centla, Comalcalco, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
 
-Estado de Tamaulipas: Aldama, Antiguo Morelos, Bustamante, Casas, Gómez Farías, González, Güémez, Hidalgo, Jaumave, Llera, Miquihuana, Nuevo Morelos, Ocampos, Padilla, Palmillas, Soto la Marina, Tula y Victoria, excepto los municipios comprendidos en las zonas 6, 8 y 9.
-
-Estado de Tlaxcala: Santa Cruz Tlaxcala, Benito Juárez, San José Teacalco y San Lucas Tecopilco.
+Estado de Tamaulipas: Aldama, Altamira, Antiguo Morelos, Bustamante, Casas, Gómez Farías, González, Hidalgo, Jaumave, Llera, Mante El, Miquihuana, Nuevo Morelos, Ocampos, Palmillas, Soto la Marina, Tampico y Tula, excepto los municipios comprendidos en las zonas 6 y 8.
 
 Estado de Veracruz: Actopan, Agua Dulce, Catemaco, Hueyapan de Ocampo, Moloacán y Sayula de Alemán.
 
-Estado de Yucatán: Mérida, Muna, Progreso, Río Lagartos, San Felipe, Sinanché, Telchac Pueblo, Telchac Puerto, Dzan, Dzemul y Dzilam de Bravo.
+Estado de Yucatán: Muna, Progreso, Río Lagartos, San Felipe, Sinanché, Telchac Pueblo, Telchac Puerto, Dzan, Dzemul y Dzilam de Bravo.
 
 Estado de Zacatecas: Apozol, Atolinga, Cañitas de Felipe Pescador, Concepción del Oro, Chalchihuites, Huanusco, Jalpa, Jiménez de Teúl, Juchipila, Momax, Monte Escobedo, Moyahua de Estrada, Tabasco, Tlaltenango de Sánchez Román, Valparaíso, Villanueva, Villa García, Genaro Codina, General Francisco R. Murguía, Juan Aldama, Mazapil, Melchor Ocampo, Pinos, Río Grande, Sain Alto, El Salvador y Sombrerete.
 
@@ -17089,71 +15891,67 @@ ZONA 8.
 
 Estado de Campeche: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega Hecelchakán, Hopelchén, Tenabo y Palizada.
 
-Estado de Chiapas.
-
-Estado de Chihuahua: Doctor Belisario Domínguez, Gran Morelos, Madera, Moris, Temósachi y Uruachic.
+Estado de Chihuahua: Doctor Belisario Domínguez, Gran Morelos, Madera, Moris, Temósachi y Uruachi.
 
 Estado de Durango: Canelas, Guanaceví, Mezquital, Otáez, Pueblo Nuevo, San Bernardo, San Dimas, Tamazula y Topia.
 
-Estado de Guanajuato: Atarjea, Santa Catarina, Tarimoro, Tierra Blanca, Victoria y Xichú.
+Estado de Guanajuato: Atarjea, Santa Catarina, Tarimoro, Tierra Blanca y Victoria.
 
-Estado de Guerrero: Acatepec, Ahuacuotzingo, Ajuchitlán del Progreso, Alpoyeca, Arcelia, Atenango del Río, Ayutla de los Libres, Coahuayutla de José María Izazaga, Cocula, Coyuca de Catalán, Chilpancingo de los B, Guamuxtitlán, Huitzuco de los Figueroa, Iguala de la Independencia, Juan R. Escudero, Mochitlán, Pungarabato, Quechultenango, San Miguel Totolapan, Tlapa de Comonfort, Tecoanapa, Teloloapan, Tixtla de Guerrero y Zirándaro.
+Estado de Guerrero: Acatepec, Ajuchitlán del Progreso, Alpoyeca, Arcelia, Atenango del Río, Ayutla de los Libres, Coahuayutla de José María Izazaga, Cocula, Coyuca de Catalán, Guamuxtitlán, Juan R. Escudero, Mochitlán, Pungarabato, Quechultenango, San Miguel Totolapan, Tlapa de Comonfort, Tecoanapa, Teloloapan, Tixtla de Guerrero y Zirándaro.
 
-Estado de Hidalgo: Acaxochitla, Agua Blanca, Atlapexco, Atotonilco el Grande, Calnali, Cardonal, Eloxochitlan, Huazalingo, Huehuetlán, Huejutla de Reyes, Jaltocan, Juárez Hidalgo, Lolotla, Mezquititlan, Mineral del Chico, Mineral del Monte, Misión La, Molango, Nicolás Flores, Omitán de Juárez, Orizatlán, Pacula, Pisaflores, San Bartolo Tutotep, Tenango de Doria, Tepehuacan de Guerrero, Tianguistengo, Tlahuiltepa, Tlanchinol, Xochiatipan, Xochicoatlan, Yahualica, Zacualtipan de Ángel, excepto los municipios comprendidos en las zonas 2, 4, 5, 6 y 9.
+Estado de Hidalgo: Acaxochitlán, Agua Blanca, Atlapexco, Atotonilco el Grande, Calnali, Cardonal, Eloxochitlán, Huazalingo, Huehuetla, Huejutla de Reyes, Jacala de Ledezma, Jaltocan, Juárez Hidalgo, Lolotla, Mezquititlán, Mineral del Chico, Mineral del Monte, Misión La, Molango, Nicolás Flores, Omitán de Juárez, Orizatlán, Pacula, Pisaflores, San Bartolo Tutotepec, Tenango de Doria, Tepehuacán de Guerrero, Tianguistengo, Tlahuiltepa, Tlanchinol, Xochiatipan, Xochicoatlán, Yahualica, Zacualtipan de Ángel, excepto los municipios comprendidos en las zonas 2, 4, 5, 6 y 9.
 
-Estado de Jalisco: Acatic, Amatitan, Ameca, Antonio Escobedo, Arandas, Atemajac de Brizuela, Cabo Corrientes, Cuquio, Chiquilistlan, Etzatlan, Grullo El, Hostotipaquillo, Huerta La, Jalostititlan, Juchitlán, La Manzanilla de la Paz, Limón El, Magdalena, Purificación, San Cristóbal de la Barranca, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Marcos, San Martín Hidalgo, San Miguel el Alto, San Sebastián del Oeste, Tapalpa, Tecalitlan, Tecolotlan, Teocaltiche, Tepatitlan de Morelos, Tequila, Tonaya, Unión de San Antonio, Valle de Juárez, Villa Hidalgo, Yahualica de González, Zapotlanejo y los municipios que no estén comprendidos en las zonas 2, 3, 4, 5, 6, 7 y 9.
+Estado de Jalisco: Acatic, Amatitán, Ameca, Arandas, Atemajac de Brizuela, Cabo Corrientes, Cuquío, Chiquilistlán, Etzatlán, Grullo El, Hostotipaquillo, Huerta La, Jalostititlán, Juchitlán, Limón El, Magdalena, Puerto Vallarta, Purificación, San Cristóbal de la Barranca, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Juanito de Antonio Escobedo, San Marcos, San Martín Hidalgo, San Miguel el Alto, San Sebastián del Oeste, Tapalpa, Tecalitlán, Tecolotlán, Teocaltiche, Tepatitlán de Morelos, Tequila, Tonaya, Unión de San Antonio, Valle de Juárez, Villa Hidalgo, Yahualica de González, Zapotlanejo y los municipios que no estén comprendidos en las zonas 2, 3, 4, 5, 6, 7 y 9.
 
-Estado de Michoacán: Acuitzio, Carácuaro, Cherán, Churumuco, Huetamo, Nahuatzen, Salvador Escalante, San Lucas y Tinganbato.
+Estado de Michoacán: Churumuco, Huetamo y San Lucas.
 
 Estado de Morelos: Amacuzac, Coatlán del Río, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango y Zacatepec de Hidalgo.
 
-Estado de Nayarit: Acaponeta, Bahía de Banderas, Compostela, Rosamorada, Ruiz, San Blas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tepic, Tuxpan y Xalisco.
+Estado de Nayarit: Acaponeta, Compostela, Rosamorada, Ruiz, San Blas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tuxpan y Xalisco.
 
-Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Espinal El, Guadalupe Etla, Ciudad de Huajuapam de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Bautista Tuxtepec, San Juan Mixtepec-Distr. 08, San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec Distr. 22, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlan, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerónimo Tlacochahuaya, Tlacolula de Matamoros, y Tlalixtac de Cabrera.
-
-Estado de Puebla: Acateno, Acatlán, Acteopan, Ahuacatlán, Ahuatlán, Ahuazotepec, Ahuehuetitla, Ajalpan, Albino Zertuche, Amixtlán, Aquixtla, Atempan, Atexcal, Atzala, Atzitzintla, Atzitzihuacán, Axutla, Ayotoxco de Guerrero, Caltepec, Camocuautla, Caxhuacan, Coatepec, Coatzingo, Cohetzala, Cohuecán, Coxcatlán, Coyomeapan, Coyotepec, Cuautempan, Cuayuca, Cuetzalan del Progreso, Chapulco, Chiautla, Chiautzingo, Chichiquila, Chietla, Chiconcuautla, Chigmecatitlán, Chignahuapan, Chignautla, Chila, Chila Honey, Chila de la Sal, Chilchotla, Chinantla, Domingo Arenas, Eloxochitlán, Francisco Z. Mena, Guadalupe, Hermenegildo Galeana, Huatlatlauca, Huauchinango, Huehuetla, Huehuetlán el Chico, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ignacio Allende, Ixcamilpa de Guerrero, Ixcaquixtla, Ixtacamaxtitlán, Ixtepec, Jalpan, Jolalpan, Jonotla, Jopala, Juan Galindo, Juan N. Méndez, Lafragua, La Magdalena Tlatlauquitepec, Naupan, Nauzontla, Olintla, Pahuatlán, Pantepec, Petlalcingo, Piaxtla, Quimixtlán, San Diego la Mesa Tochimiltzin, San Felipe Tepatlán, San Felipe Teotlalcingo, San Jerónimo Xayacatlán, San Juan Atzompa, San Matías Tlalancaleca, San Martín Totoltepec, San Miguel Ixitlán, San Nicolás de los Ranchos, San Pablo Amicano, San Pedro Yeloixtlahuaca, San Salvador el Verde, San Sebastián Tlacotepec, Tlachichuca, Tlahuapan, Santa Catarina Tlaltempan, Santa Inez Ahuetempan, Santiago Miahuatlan, Santo Domingo Huehuetlán, Tecomatlán, Tehuitzingo, Tenampulco, Teopantlán, Teotlalco, Tepango de Rodríguez, Tepemaxalco, Tepetzintla, Tepexco, Tepexi de Rodríguez, Tetela de Ocampo, Teteles de Ávila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tochimilco, Totoltepec de Guerrero, Tulcingo, Tuzamapan de Galeana, Tzicatlacoyan, Venustiano Carranza, Vicente Guerrero, Xayacatlán de Bravo, Xicotepec, Xicotlán, Xochiapulco, Xochitlán de Vicente Suárez, Xochiltepec, Yaonáhuac, Zacapala, Zacapoaxtla, Zacatlán, Zapotitlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zinacatepec, Zongozotla, Zoquiapan y Zoquitlán.
+Estado de Puebla: Acateno, Acatlán, Acteopan, Ahuacatlán, Ahuatlán, Ahuazotepec, Ahuehuetitla, Ajalpan, Albino Zertuche, Amixtlán, Aquixtla, Atempan, Atexcal, Atzala, Atzitzintla, Atzitzihuacán, Axutla, Ayotoxco de Guerrero, Caltepec, Camocuautla, Caxhuacan, Coatepec, Coatzingo, Cohetzala, Cohuecán, Coyomeapan, Coyotepec, Cuautempan, Cuayuca de Andrade, Cuetzalan del Progreso, Chiautla de Tapia, Chiautzingo, Chichiquila, Chietla, Chiconcuautla, Chigmecatitlán, Chignahuapan, Chignautla, Chila, Chila Honey, Chila de las Flores, Chilchotla, Chinantla, Domingo Arenas, Eloxochitlán, Francisco Z. Mena, Guadalupe, Hermenegildo Galeana, Huatlatlauca, Huauchinango, Huehuetla, Huehuetlán el Chico, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ignacio Allende, Ixcamilpa de Guerrero, Ixcaquixtla, Ixtacamaxtitlán, Ixtepec, Jalpan, Jolalpan, Jonotla, Jopala, Juan Galindo, Juan N. Méndez, La Magdalena Tlatlauquitepec, Naupan, Nauzontla, Olintla, Pahuatlán, Pantepec, Petlalcingo, Piaxtla, Quimixtlán, San Diego la Mesa Tochimiltzingo, San Felipe Tepatlán, San Felipe Teotlalcingo, San Jerónimo Xayacatlán, San José Acateno, San Juan Atzompa, San Matías Tlalancaleca, San Martín Totoltepec, San Miguel Ixitlán, San Nicolás de los Ranchos, San Pablo Amicano, San Pedro Yeloixtlahuaca, San Salvador el Verde, San Sebastián Tlacotepec, Tlachichuca, Tlahuapan, Santa Catarina Tlaltempan, Santa Inez Ahuetempan, Santo Domingo Huehuetlán, Saltillo Lafragua, Tecomatlán, Tehuitzingo, Tenampulco, Teopantlán, Teotlalco, Tepango de Rodríguez, Tepemaxalco, Tepetzintla, Tepexco, Tepexi de Rodríguez, Tetela de Ocampo, Teteles de Ávila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tochimilco, Totoltepec de Guerrero, Tulcingo, Tuzamapan de Galeana, Tzicatlacoyan, Venustiano Carranza, Vicente Guerrero, Xayacatlán de Bravo, Xicotepec, Xicotlán, Xochiapulco, Xochitlán, Xochitlán de Vicente Suárez, Xochiltepec, Yaonáhuac, Zacapala, Zacapoaxtla, Zacatlán, Zapotitlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zongozotla, Zoquiapan y Zoquitlán.
 
 Estado de Quintana Roo: excepto los municipios comprendidos en las zonas 2, 3 y 7.
 
-Estado de San Luis Potosí: Naranjo El, excepto los municipios comprendidos en las zonas 1, 2, 3, 4, 5 y 7.
+Estado de San Luis Potosí: Matlapa, Naranjo El, excepto los municipios comprendidos en las zonas 1, 2, 3, 4, 5 y 7.
 
 Estado de Sinaloa: Badiraguato.
 
 Estado de Sonora: Nacori Chico, Rosario y Yécora.
 
-Estado de Tabasco: Centla, Emiliano Zapata, Jonuta, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
-
-Estado de Tamaulipas: Altamira, Ciudad Madero, Mante El, San Nicolás y Tampico.
+Estado de Tamaulipas: San Nicolás.
 
 Estado de Tlaxcala: excepto los municipios comprendidos en las zonas 5 y 6.
 
-Estado de Veracruz: Adalberto Tejada, Alpatlahua, Alvarado, Ángel R. Cabada, Apazapan, Boca del Río, Camerino Z. Mendoza, Cazones, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chalcaltianguis, Chinameca, Choapas Las, Emiliano Zapata, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huiloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, Ixtaczoquitlán, Jamapa, Juan Rodríguez Clara, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Medellín, Nautla, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Paso del Macho, Paso de Ovejas, Perote, Puente Nacional, Río Blanco, Saltabarranca, Soledad de Doblado, Tamiahua, José Azueta, Tecolutla, Temapache, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tuxpan, Tuxtilla, Úrsulo Galván, Vega de Alatorre y Yanga.
+Estado de Veracruz: Alpatlahua, Alvarado, Ángel R. Cabada, Apazapan, Boca del Río, Camarón de Tejada, Camerino Z. Mendoza, Cazones, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chalcaltianguis, Chinameca, Choapas Las, Emiliano Zapata, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huiloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, Ixtaczoquitlán, Jamapa, Juan Rodríguez Clara, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Medellín, Nautla, Nogales, Omealca, Orizaba, Otatitlán, Paso del Macho, Paso de Ovejas, Perote, Puente Nacional, Río Blanco, Saltabarranca, Soledad de Doblado, Tamiahua, José Azueta, Tecolutla, Temapache, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tuxpan, Tuxtilla, Úrsulo Galván, Vega de Alatorre y Yanga.
 
-Estado de Yucatán: Excepto los municipios comprendidos en la zona 7.
+Estado de Yucatán: Excepto los municipios comprendidos en las zonas 6 y 7.
 
 Estado de Zacatecas: Apulco, Benito Juárez, Mezquital del Oro, Nochistlán de Mejía, Teúl de González Ortega y Trinidad García de la Cadena.
 
 ZONA 9.
 
-Estado de Guerrero: Cutzamala de Pinzón, General Canuto A. Neri, Tlalchapa, Tlapehuala y los municipios que no estén comprendidos en las zonas 4 y 8.
+Estado de Guanajuato: Xichú.
+
+Estado de Guerrero: Ahuacuotzingo, Cutzamala de Pinzón, General Canuto A. Neri, Tlalchapa, Tlapehuala y los municipios que no estén comprendidos en las zonas 4 y 8.
 
 Estado de Hidalgo: Chapulhuacán y Huautla.
 
-Estado de Jalisco: Acatlán de Juárez, Atengo, Atenguillo, Ayutla, Concepción de Buenos Aires, Cuautla, Ejutla, Guachinango, Jilotlán de los Dolores, Manuel M. Diéguez, Mascota, Mazamitla, Mexticacán, Mixtlán, Pihuamo, Quitupan, Talpa de Allende, Tenamaxtlán, Tomatlán y Unión de Tula.
+Estado de Jalisco: Acatlán de Juárez, Atengo, Atenguillo, Ayutla, Concepción de Buenos Aires, Cuautla, Ejutla, Guachinango, Jilotlán de los Dolores, Manzanilla de la Paz La, Mascota, Mazamitla, Mexticacán, Mixtlán, Nahuatzén, Pihuamo, Quitupan, Santa María del Oro, Talpa de Allende, Tenamaxtlán, Tomatlán y Unión de Tula.
 
-Estado de Michoacán: Aguililla, Aquila, Ario, Arteaga, Carácuaro, Coalcomán de Vázquez Pallárez, Charapan, Chilchota, Juárez, Jungapeo, La Huacana, Madero, Marcos Castellanos, Nocupétaro, Nuevo Urecho, Paracho, Susupuato, Tacámbaro, Taretan, Tiquicheo de Nicolás Romero, Tumbiscatío, Turicato, Tuzantla, Tzitzio y Zitácuaro.
+Estado de Michoacán: Acuitzio, Aguililla, Aquila, Ario, Arteaga, Carácuaro, Coalcomán de Vázquez Pallárez, Charapan, Cherán, Chilchota, Juárez, Jungapeo, La Huacana, Madero, Marcos Castellanos, Nahuatzén, Nocupétaro, Nuevo Urecho, Paracho, Salvador Escalante, Susupuato, Tacámbaro, Taretán, Tingambato, Tiquicheo de Nicolás Romero, Tumbiscatío, Turicato, Tuzantla, Tzitzio y Zitácuaro.
 
-Estado de Nayarit: excepto los municipios comprendidos en la zona 8.
+Estado de Nayarit: Excepto los municipios comprendidos en la zona 8.
 
 Estado de Oaxaca: San Pedro Coaxcaltepec Cántaros.
 
 Estado de Puebla: Xiutetelco.
 
-Estado de Tabasco: excepto los municipios comprendidos en las zonas 6, 7 y 8.
+Estado de Tabasco: Excepto los municipios comprendidos en las zonas 6, 7 y 8.
 
-Estado de Veracruz: excepto los municipios comprendidos en las zonas 6, 7 y 8.
+Estado de Veracruz: Excepto los municipios comprendidos en las zonas 6, 7 y 8.
 
-Tratándose de municipios que no se encuentren dentro de las zonas de disponibilidad 1 a 9, el pago del derecho sobre aguas se efectuará de conformidad con la cuota establecida para el municipio más próximo al lugar de la extracción.
+Tratándose de municipios que no se encuentren dentro de las zonas 1 a 9, el pago del derecho sobre aguas se efectuará de conformidad con la cuota establecida para el municipio más próximo al lugar de la extradición (sic).
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -17379,7 +16177,9 @@ Las zonas a que se refiere el artículo 232-C de esta Ley, son las siguientes:
 
 ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenabo; Estado de Chiapas: Acapetahua, Arriaga, Huixtla, Mapastepec, Mazatán, Pijijiapan, Suchiate y Villa Comaltitlán; Estado de Guerrero: Cuajinicuilapa, Coyuca de Benítez, Florencio Villarreal y San Marcos; Estado de Oaxaca: San Dionisio del Mar, San Francisco del Mar, San Francisco lxhuatán, San Mateo del Mar, San Miguel del Puerto, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Tapanatepec, San Pedro Tututepec, Santa María Huazolotitlán, Santa María Tonameca, Santa María Xadani, Santiago Astata, Santiago Jamiltepec, Santiago Pinotepa Nacional, Santiago Tapextla, Santo Domingo Armenta, Santos Reyes Nopala, Santo Domingo Tehuantepec y Santo Domingo Zanatepec; Estado de Sinaloa: Angostura, Elota, Escuinapa de Hidalgo, Guasave, Rosario y San Ignacio; Estado de Sonora: Bacum, Benito Juárez, Cajeme, Empalme, Etchojoa, Pitiquito, San Ignacio Río Muerto, y San Luis Río Colorado; Estado de Tabasco: Cárdenas, Centla y Paraíso.
 
-ZONA II. Estado de Guerrero: Azoyú, Copala, La Unión, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+ZONA II.- Estado de Guerrero: Azoyu, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza, y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
 
 ZONA III. Estado de Campeche: Champotón; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: Martínez de la Torre, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
 
@@ -17417,7 +16217,11 @@ Para los efectos de los artículos 232 y 232-C, se estará a lo siguiente:
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-II.- Tratándose del uso o goce de bienes de dominio público, se estará obligado al pago del derecho, se tenga o no concesión, cuando se obtenga un aprovechamiento especial, debiéndose revisar y ajustar el pago anualmente de conformidad a lo establecido por la presente Ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+II.- Tratándose del uso o goce de bienes de dominio público, se estará obligado al pago del derecho correspondiente, se tenga o no permiso, concesión, acuerdo de destino o autorización cuando se obtenga un aprovechamiento especial, debiéndose revisar y ajustar el pago anualmente de conformidad a lo establecido por la presente Ley.
+
+Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien nacional de uso común, comprendido en los artículos 232 y 232-C de esta Ley, de modo que se limite el derecho de terceros para su libre uso.
 
 III.- No se pagará el derecho a que se refiere este artículo cuando el inmueble sea destinado a labores de investigación científica.
 
@@ -17445,9 +16249,9 @@ Los derechos a que se refieren los artículos 232, 232-A y 232-C de esta Ley, se
 
 El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Los contribuyentes que estén obligados al pago de los derechos establecidos en los artículos 232, fracciones IV y V y 232-C de esta Ley, podrán optar por presentar la primera declaración bimestral y posteriormente la declaración definitiva del pago del derecho por el ejercicio correspondiente, o en su caso, efectuar pagos provisionales bimestrales conforme al párrafo anterior.
+Los contribuyentes que estén obligados al pago de los derechos establecidos en los artículos 232, fracciones IV y V y 232-C de esta Ley, podrán optar por realizar el pago del derecho de todo el ejercicio en la primera declaración bimestral y posteriormente presentar la declaración anual del ejercicio correspondiente o, en su caso, efectuar el pago conforme a lo señalado en los párrafos anteriores.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -17605,9 +16409,9 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
-#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+#### SECCION PRIMERA. Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 238.
 
@@ -17799,15 +16603,17 @@ No se estará obligado al pago del derecho a que se refiere este artículo y el 
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION UNICA. Espectro Radioeléctrico
+#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO XIV. Derecho por Uso o Aprovechamiento de Bienes del Dominio Publico de la Nación como Cuerpos receptores de las descargas de Aguas Residuales
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+#### SECCION UNICA. Espectro Radioeléctrico
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 239.
 
@@ -17911,9 +16717,9 @@ a).- Por equipo base $ 489.33 489.00
 
 b).- Por equipo móvil o portátil $ 97.77 98.00
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 6 meses, se pagará diariamente conforme a las siguientes cuotas:
+VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas o fines experimentales, con autorizaciones temporales con vigencia máxima de 6 meses, se pagará diariamente conforme a las siguientes cuotas:
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -17947,9 +16753,9 @@ estaciones de radio a bordo de barcos
 
 y aviones $ 401.21 401.00
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Las instituciones de asistencia médica o de beneficencia no contribuyentes del impuesto sobre la renta autorizadas para recibir donativos deducibles para sus donantes en el citado impuesto, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho previsto en este artículo, así como las personas morales de carácter público dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública y seguridad nacional.
+Las instituciones de asistencia médica o de beneficencia, no contribuyentes del impuesto sobre la renta autorizadas para recibir donativos deducibles para sus donantes en el citado impuesto y los usuarios de las frecuencias que se autoricen durante las visitas al país de jefes de Estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho previsto en este artículo, así como las personas morales de carácter público dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública y seguridad nacional.
 
 ###### ARTICULO 241.
 
@@ -18057,51 +16863,49 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 El derecho por el uso del espectro radioeléctrico, por el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, por cada megahertz concesionado, se pagará de conformidad con la tabla siguiente:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Área Básica de Servicio $
+Área Básica de Servicio $ Cuota por Mhz concesionado
 
-denominada Cuota por MHz
+denominada
 
-concesionado
+1. Culiacán $ 1,600.00
 
-1.- Culiacán 1,600.00
+2. Hermosillo $ 1,352.00
 
-2.- Hermosillo 1,352.00
+3. Juárez $ 2,328.00
 
-3.- Juárez 2,328.00
+4. Torreón $ 1,192.00
 
-4.- Torreón 1,192.00
+5. Monterrey $ 7,545.00
 
-5.- Monterrey 7,545.00
+6. Saltillo $ 798.00
 
-6.- Saltillo 798.00
+7. Mérida $ 1,067.00
 
-7.- Mérida 1,067.00
+8. Tuxtla Gutiérrez $ 1,136.00
 
-8.- Tuxtla Gutiérrez 1,136.00
+9. Villahermosa $ 1,516.00
 
-9.- Villahermosa 1,516.00
+10. Guadalajara $ 7,296.00
 
-10.- Guadalajara 7,296.00
+11. León $ 2,827.00
 
-11.- León 2,827.00
+12. San Luis Potosí $ 1,280.00
 
-12.- San Luis Potosí 1,280.00
+13. Querétaro $ 2,762.00
 
-13.- Querétaro 2,762.00
+14. Puebla $ 3,127.00
 
-14.- Puebla 3,127.00
+15. Veracruz $ 1,094.00
 
-15.- Veracruz 1,094.00
+16. Oaxaca de Juárez $ 1,331.00
 
-16.- Oaxaca de Juárez 1,331.00
+17. Ciudad de México $ 39,944.00
 
-17.- Ciudad de México 39,944.00
+18. Toluca $ 2,258.00
 
-18.- Toluca 2,258.00
-
-19.- Pachuca de Soto 1,111.00
+19. Pachuca de Soto $ 1,111.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -18679,15 +17483,21 @@ Aguascalientes: Río San Pedro en los municipios de Aguascalientes, Rincón de R
 
 Baja California: Arroyos Doña Petra, Aguajito, Ensenada, San Carlos, Las Ánimas, El Gallo, Cuatro Milpas, El Sauzal, El Carmen, San Vicente, Salado, San Rafael, San Telmo, Santo Domingo, Las Escopetas, Aguachiquita, Nueva York, San Simón, El Socorro, El Rosario, La Misión y Las Amarillas en el municipio de Ensenada; Arroyos Las Palmas, San Pablo, San José y Cañada Joe Bill y Río Tecate en el municipio de Tecate; Arroyos Las Palmas, Sainz, La Meza, México Lindo, Sánchez Taboada, Lázaro Cárdenas, Camino Verde, Agua Caliente, Matanuco, El Florido, Cerro Colorado, Presidentes, Gato Bronco, Sistema Álamo, Alamar, La Pechuga, Aviación o Pesteje, Aguaje de la Tuna, Cañón del Sol, Matadero, E. Zapata, Sistema Centro, Los Laureles, San Antonio de los Buenos, Río Tijuana en el municipio de Tijuana; Ríos Nuevo, Colorado y Hardy y Arroyo Las Amarillas en el municipio de Mexicali; Arroyos Guaguatay y El Descanso en el municipio de Playas de Rosarito; Bahías San Francisquito o Luis Gonzaga, De Los Ángeles, Camalú, Todos Santos, San Quintín y San Felipe Punta Estrella en el municipio de Ensenada; Costa de Tijuana en el municipio de Tijuana; Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali; Costa de Rosarito en el municipio de Playas de Rosarito.
 
-Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso Hondo, Comondú, Santo Domingo y Las Bramonas en El municipio Comondú; Arroyos La Paz, San Bartolo, Los Gatos y San Antonio en el municipio de la Paz; Arroyos Boca de la Sierra, San Bartolo, Agua Caliente, Miraflores, Caduaño y San Jorge en el municipio de Los Cabos; Arroyos San José de Magdalena, Santa Águeda, La Parras y Ligui en el municipio de Loreto; Bahías Santa María, San Juanico, Las Barrancas, La Poza Grande y Magdalena, Punta Santo Domingo y Puerto San Andresito en el municipio Comondú; Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés, Santa Rosalía, San Bruno, Concepción y Santa Ana, Puerto Escondido, Ensenada La Escondida, Punta Malarrimo y Punta Abreojos en el municipio de Mulegé; Bahías Santa Marina, Las Almejas, La Paz, La Ventana, Los Muertos, Las Palmas y Plutarco Elías Calles, Ensenadas San Juan de La Costa y Las Cruces, Punta Pescadero, Boca El Carrizal y Punta Lobos, en el municipio de la Paz; Bahías Migriño, San Lucas y San José del Cabo, Boce de La Vinorama, Cabos Pulmo, La Ribera y Los Frailes en el municipio de los Cabos; Bahías Loreto, Juncalipto y Ligui, Ensenadas Blanca, Agua Verde y Tembabichi, Puerto Escondido, en el municipio de Loreto.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso Hondo, Comondú, Santo Domingo y Las Bramonas en El municipio Comondú; Arroyos La Paz, San Bartolo, Los Gatos y San Antonio en el municipio de la Paz; Arroyos Boca de la Sierra, San Bartolo, Agua Caliente, Miraflores, Caduaño y San Jorge en el municipio de Los Cabos; Arroyos San José de Magdalena, Santa Águeda, Las Parras y Ligui en el municipio de Loreto; Bahías Santa María, San Juanico, Las Barrancas, La Poza Grande y Magdalena, Punta Santo Domingo y Puerto San Andresito en el municipio Comondú; Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés, Santa Rosalía, San Bruno, Concepción y Santa Ana, Puerto Escondido, Ensenada La Escondida, Punta Malarrimo y Punta Abreojos en el municipio de Mulegé; Bahías Santa Marina, Las Almejas, La Paz, La Ventana, Los Muertos, Las Palmas y Plutarco Elías Calles, Ensenadas San Juan de La Costa y Las Cruces, Punta Pescadero, Boca El Carrizal y Punta Lobos, en el municipio de la Paz; Bahías Migriño, San Lucas y San José del Cabo, Boce de La Vinorama, Cabos Pulmo, La Ribera y Los Frailes en el municipio de los Cabos; Bahías Loreto, Juncalipto y Ligui, Ensenadas Blanca, Agua Verde y Tembabichi, Puerto Escondido, en el municipio de Loreto.
 
 Campeche: Río Champotón en el municipio de Champotón; Laguna de Silvituc en el municipio de Calakmul; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchakán, Calkiní, Champotón y Campeche.
 
-Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Nava, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Río San Diego en los municipios de Zaragoza y Jiménez; Río San Rodrigo en los municipios Zaragoza, Jiménez y Piedras Negras; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en los municipios de Zaragoza, Nava y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Múzquiz y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas, Sabinas, Progreso y Juárez; Río Salado de los Nadadores en los municipios de Lamadrid, Sacramento, Nadadores, San Buenaventura, Escobedo, Progreso y Juárez; Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova; Río Nazas en los municipios de Torreón, Francisco I.- Madero y San Pedro de las Colonias; Tanques; Río Aguanaval en los municipios de Torreón, Matamoros y Viesca; Tanques Genty y Aguilereño en el municipio de Viesca.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Nava, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Río San Diego en los municipios de Zaragoza y Jiménez; Río San Rodrigo en los municipios Zaragoza, Jiménez y Piedras Negras; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en los municipios de Zaragoza, Nava y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Múzquiz y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas, Sabinas, Progreso y Juárez; Río Salado de los Nadadores en los municipios de Lamadrid, Sacramento, Nadadores, San Buenaventura, Escobedo, Progreso y Juárez; Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova; Río Nazas en los municipios de Torreón, Francisco I. Madero y San Pedro de las Colonias; Río Aguanaval en los municipios de Torreón, Matamoros y Viesca; Tanques Genty y Aguilereño en el municipio de Viesca.
 
 Colima: Arroyos San José y Punta de Agua en el municipio de Manzanillo, Arroyo Zacualpan en el municipio de Comala; Río Colima en los municipios de Cuauhtémoc y Villa de Álvarez.
 
-Chiapas: Río Gríjalva y sus afluentes en los municipios de Berriozábal, La Concordia, Tzimol, Venustiano Carranza, Socoltenango, Acala, Totolapa, Chiapilla, Tuxtla Gutiérrez, San Fernando, Chicoasén, Usumacinta, Copainalá, Ocozocoautla de Espinoza y Tecpatán; Ríos Santo Domingo y Grijalva en el municipio de Chiapa de Corzo; Río Sabinal y sus afluentes en el municipio de Tuxtla Gutiérrez; Río Frío en los municipios de San Cristóbal de Las Casas, San Lucas y Chiapilla; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domingo en los municipios de Villacorzo, Villaflores, Chiapa de Corzo y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Acuífero Cintalapa en los municipios de Cintalapa y Jiquipilas; Acuífero Tuxtla en los municipios de Tuxtla Gutiérrez, Chiapa de Corzo, Suchiapa, Berriozábal y Acalá; Acuífero Comitán en los municipios de Comitán de Domínguez, Las Margaritas, La Independencia, Altamirano y Teopisca; Acuífero San Cristóbal en los municipios de San Cristóbal de Las Casas e Ixtapa; Acuífero Arriaga-Pijijiapan en los municipios de Arriaga, Tonalá y Pijijiapan; Acuífero Acapetahua en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán, Acacoyagua y Escuintla; Acuífero Soconusco en los municipios de Tapachula, Suchiate, Metapa, Tuxtla Chico, Mazatán, Huixtla y Frontera Hidalgo; Mar Muerto en los municipios de Arriaga y Tonalá.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Chiapas: Río Grijalva y sus afluentes en los municipios de Berriozábal, La Concordia, Tzimol, Venustiano Carranza, Socoltenango, Acala, Totolapa, Chiapilla, Tuxtla Gutiérrez, San Fernando, Chicoasén, Osumacinta, Copainalá, Ocozocoautla de Espinoza y Tecpatán; Ríos Santo Domingo y Grijalva en el municipio de Chiapa de Corzo; Río Sabinal y sus afluentes en el municipio de Tuxtla Gutiérrez; Río Frío en los municipios de San Cristobal de Las Casas, San Lucas y Chiapilla; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domingo en los municipios de Villacorzo, Villaflores, Chiapa de Corzo y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Acuífero Cintalapa en los municipios de Cintalapa y Jiquipilas; Acuífero Tuxtla en los municipios de Tuxtla Gutiérrez, Chiapa de Corzo, Suchiapa, Berriozábal y Acalá; Acuífero Comitán en los municipios de Comitán de Domínguez, Las Margaritas, La Independencia, Altamirano y Teopisca; Acuífero San Cristóbal en los municipios de San Cristóbal de Las Casas e Ixtapa; Acuífero Arriaga-Pijijiapan en los municipios de Arriaga, Tonalá y Pijijiapan; Acuífero Acapetahua en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán, Acacoyagua y Escuintla; Acuífero Soconusco en los municipios de Tapachula, Suchiate, Metapa, Tuxtla Chico, Mazatán, Huixtla y Frontera Hidalgo; Mar Muerto en los municipios de Arriaga y Tonalá.
 
 Chihuahua: Río Conchos en los municipios de Carichi, Nonoava y Bocoyna; Río Casas Grandes en el municipio de Ignacio Zaragoza; Río Santa María en el municipio de Bachíniva; Río Papigochi en el municipio de Temosachi; Río San Pedro en el municipio de Cusihuiriachi; Río Mayo en los municipios de Chinipas y Moris; Río Chinipas en los municipios de Chinipas, Guazapares y Uruachi; Río Urique en los municipios de Batopilas, Guachochi y Urique; Río San Miguel en los municipios de Balleza, Batopilas, Guachochi y Morelos, Ríos Sinaloa, Mohinora y Chinatu en los municipios de Guadalupe y Calvo; Río Septentrión en los municipios de Temoris y Urique; Río Moris en los municipios de Ocampo y Moris; Río Candameño en el municipio de Ocampo; Ríos Balleza, Porvenir y Agujas en el municipio de Balleza; Río Nonoava en el municipio de Nonoava; Río Los Loera en los municipios de Guadalupe y Calvo; Río Oteros en el municipio de Bocoyna; Río Batopilas en los municipios de Batopilas y Guachochi; Río Verde en los municipios de Guerrero y Temosachi; Ríos Aros y Tutuaca en los municipios de Temosachi y Madera.
 
@@ -18721,7 +17531,9 @@ Querétaro: Río Jalpan en los municipios de Jalpan de Serra, Pinal de Amoles y 
 
 Quintana Roo: Arroyos Huay Pix y Milagros, Lagunas Milagros, Guerrero y Bacalar, Bahía de Chetumal y Río Hondo o Azul o Santa María en el municipio Othón P. Blanco; Arroyos "Canal Nizuc” y "Canal Playa Linda" en el municipio de Benito Juárez.
 
-San Luis Potosí: Río Verde en los municipios de Armadillo de Los Infante, San Nicolás Tolentino, Villa Juárez, Cerritos, Guadalcázar, Ríoverde, Rayón, Cárdenas, Santa Catarina, Ciudad Fernández, San Ciro de Acosta, Lagunillas, Tamasopo, Zaragoza, Santa María del Río, Alaquines y Ciudad del Maíz; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Rayón, Tamasopo, Ciudad Valles y Aquismón; Río Valles en los municipios de El Naranjo, Ciudad Valles, Ciudad del Maíz y Tamuín; Río Tampaón en los municipios de Tamasopo, Aquismón, Ciudad Valles y Tamuín, Río Coy en los municipios de Aquismón, Tancanhuitz de Santos, Tanlajás y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón Corona, San Vicente Tancuayalab, Tamuín, Tanquián de Escobedo, Huehuetlán, Tancanhuitz de Santos, San Martín Chalchicuautla, Xilitla y Tanlajás; Río Choy en el municipio de Tamuín; Río Santa María en los municipios de Tierra Nueva, Santa María del Río, Villa de Reyes, Lagunillas, Aquismón, Santa Catarina, Zaragoza, Ríoverde y San Ciro de Acosta.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+San Luis Potosí: Río Verde en los municipios de Armadillo de Los Infante, San Nicolás Tolentino, Villa Juárez, Cerritos, Guadalcázar, Rioverde, Rayón, Cárdenas, Santa Catarina, Ciudad Fernández, San Ciro de Acosta, Lagunillas, Tamasopo, Villa de Zaragoza, Santa María del Río, Alaquines y Ciudad del Maíz; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Rayón, Tamasopo, Ciudad Valles y Aquismón; Río Valles en los municipios de El Naranjo, Ciudad Valles, Ciudad del Maíz y Tamuín; Río Tampaón en los municipios de Tamasopo, Aquismón, Ciudad Valles y Tamuín; Río Coy en los municipios de Aquismón, Tancanhuitz de Santos, Tanlajás y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón de Corona, San Vicente Tancuayalab, Tamuín, Tanquián de Escobedo, Huehuetlán, Tancanhuitz de Santos, San Martín Chalchicuautla, Xilitla y Tanlajás; Río Choy en el municipio de Tamuín; Río Santa María en los municipios de Tierra Nueva, Santa María del Río, Villa de Reyes, Lagunillas, Aquismón, Santa Catarina, Zaragoza, Río Verde y San Ciro de Acosta.
 
 Sinaloa: Río Fuerte en los municipios El Fuerte y Ahome; Ríos Culiacán, San Lorenzo y Tamazula en el municipio de Culiacán; Río Humaya en los municipios Badiraguato y Culiacán; Río Cañas en el municipio de Escuinapa; Río Sinaloa en los municipios de Sinaloa y Guasave; Río Baluarte en el municipio de Rosario; Río Piaxtla en el municipio San Ignacio; Río Elota en el municipio de Elota; Bahía de Mazatlán y Río Presidio en el municipio de Mazatlán.
 
@@ -18729,13 +17541,17 @@ Sonora: Río Colorado en el municipio de San Luis Río Colorado; Río Sonoyta en
 
 Tabasco: Ríos Carrizal y Grijalva en el municipio del Centro; Río Puxcatán en los municipios de Macuspana y Tacotalpa; Río Tacotalpa en el municipio de Tacotalpa; Río Teapa de La Sierra en el municipio de Teapa.
 
-Tamaulipas: Río Bravo en los municipios de Nuevo Laredo, Guerrero, Camargo, Mier, Miguel Alemán, Gustavo Díaz Ordaz, Reynosa, Río Bravo y Matamoros; Canal Soliseño en el municipio de Matamoros; Río Conchos en los municipios de Burgos, San Fernando y Méndez; Arroyo Burgos en el municipio de Burgos; Río Pilón en los municipios de Mainero, Villagrán, Hidalgo, San Carlos y Padilla; Río Purificación en los municipios de Güémez e Hidalgo; Río San Marcos en los municipios de Victoria y Güémez; Río Soto La Marina en el municipio de Soto La Marina; Río Tigre en los municipios de Aldama y Altamira; Río Guayalejo en los municipios de Jaumave, Llera, El Mante, Xicoténcatl y González; Río Sabinas en los municipios de Jaumave, Llera y Xicoténcatl; Río Frío en los municipios de Gómez Farías y El Mante; Río Mante, Arroyo Las Cazuelas, Dren Oriente y Canal Principal K-O en el municipio de El Mante; Río Tamesí en los municipios de González, Altamira y Tampico; Arroyo El Coyote en el municipio de Nuevo Laredo; Río San Juan y Dren Puertecitos en el municipio de Camargo; Dren Rancherías en los municipios Miguel Alemán y Camargo; Dren Huizache en los municipios de Camargo y Díaz Ordaz; Drenes El Anhelo y La Rosita, Ramal II del Dren Río Bravo, Desalinador Ramal 5.67 Izquierdo en el municipio de Reynosa; Dren El Morillo en los municipios de Río Bravo y Reynosa; Drenes Río Bravo, E-123, E-119 y Emisor Marginal en el municipio de Río Bravo; Drenes SR-14+400, 1+343, Valle Hermoso, Guadalupe, Agrícola 522, Anáhuac, Principal y Colector en el municipio de Valle Hermoso; Drenes Emisor Marginal, Principal, E-30, E-32 Izquierdo, Agrícola 2-26920, Agrícola E-25, Las Vacas y 20 de Noviembre en el municipio de Matamoros; Dren Las Blancas en los municipios de Matamoros y Valle Hermoso; Canales Lateral 25+600 y Principal Margen Derecha, Drenes Ebanito, Ramal IV y Contadero en el municipio de Abasolo; Ríos Blanco y Carrizal en el municipio de Aldama; Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerio en los municipios de Jiménez y Abasolo; Arroyo El Olmo y Bordo El Saladito en el municipio de Victoria; Canal Sublateral 6+425, Canal Lateral 12+790 y Dren I en el municipio de Xicoténcatl; Arroyo Santa Bárbara en el municipio de Ocampo; Arroyo El Cojo en el municipio de González; Canal Guillermo Rodhe en los municipios de Camargo, Díaz Ordaz, Reynosa y Río Bravo; Canal Anzaldúas en los municipios de Reynosa, Río Bravo y Valle Hermoso; Canal Principal en el municipio de Abasolo; Acuífero Zona Norte en los municipios de Camargo, Reynosa, Río Bravo y Valle Hermoso; Acuífero Méndez en los municipios de Méndez, San Fernando y Burgos; Acuífero Hidalgo-Villagrán en los municipios de Hidalgo, Villagrán y Mainero; Acuífero de San Carlos-Jiménez en los municipios de San Carlos y Jiménez; Acuífero Victoria-Güémez en los municipios de Victoria y Güémez; Acuífero Palmillas y Jaumave en los municipios de Palmillas y Jaumave; Acuífero Tula-Bustamante en los municipios de Tula y Bustamante; Acuífero Llera-Xicoténcatl en los municipios de Llera y Xicoténcatl; Acuífero Ocampo-Antiguo Morelos en los municipios de Ocampo, Antiguo Morelos y Nuevo Morelos; Zona costera en los municipios de Matamoros, Altamira, Ciudad Madero, Tampico, San Fernando, Soto La Marina y Aldama; Marismas en el municipio de Altamira; Marismas de Tierra Negra en el municipio de Ciudad Madero; Río Álamo en el municipio de Mier; Arroyo El Coronel en el municipio de Guerrero; Arroyo El Buey en el municipio de Miguel Alemán y Arroyo San Juan en el municipio de Hidalgo.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Tamaulipas: Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerto en los municipios de Jiménes y Abasolo, Río Bravo en los municipios de Nuevo Laredo, Guerrero, Camargo, Mier, Miguel Alemán, Gustavo Díaz Ordaz, Reynosa, Río Bravo y Matamoros; Canal Soliseño en el municipio de Matamoros; Río Conchos en los municipios de Burgos, San Fernando y Méndez; Arroyo Burgos en el municipio de Burgos; Río Pilón en los municipios de Mainero, Villagrán, Hidalgo, San Carlos y Padilla; Río Purificación en los municipios de Güémez e Hidalgo; Río San Marcos en los municipios de Victoria y Güémez; Río Soto La Marina en el municipio de Soto La Marina; Río Tigre en los municipios de Aldama y Altamira; Río Guayalejo en los municipios de Jaumave, Llera, El Mante, Xicoténcatl y González; Río Sabinas en los municipios de Jaumave, Llera y Xicoténcatl; Río Frío en los municipios de Gómez Farías y El Mante; Río Mante, Arroyo Las Cazuelas, Dren Oriente y Canal Principal K-O en el municipio de El Mante; Río Tamesí en los municipios de González, Altamira y Tampico; Arroyo El Coyote en el municipio de Nuevo Laredo; Río San Juan y Dren Puertecitos en el municipio de Camargo; Dren Rancherías en los municipios Miguel Alemán y Camargo; Dren Huizache en los municipios de Camargo y Díaz Ordaz; Drenes El Anhelo y La Rosita, Ramal II del Dren Río Bravo, Desalinador Ramal 5.67 Izquierdo en el municipio de Reynosa; Dren El Morillo en los municipios de Río Bravo y Reynosa; Drenes Río Bravo, E-123, E-119 y Emisor Marginal en el municipio de Río Bravo; Drenes SR-14+400, 1+343, Valle Hermoso, Guadalupe, Agrícola 522, Anáhuac, Principal y Colector en el municipio de Valle Hermoso; Drenes Emisor Marginal, Principal, E-30, E-32 Izquierdo, Agrícola 2-26920, Agrícola E-25, Las Vacas y 20 de Noviembre en el municipio de Matamoros; Dren Las Blancas en los municipios de Matamoros y Valle Hermoso; Canales Lateral 25+600 y Principal Margen Derecha, Drenes Ebanito, Ramal IV y Contadero en el municipio de Abasolo; Ríos Blanco y Carrizal en el municipio de Aldama; Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerto en los municipios de Jiménez y Abasolo; Arroyo El Olmo y Bordo El Saladito en el municipio de Victoria; Canal Sublateral 6+425, Canal Lateral 12+790 y Dren I en el municipio de Xicoténcatl; Arroyo Santa Bárbara en el municipio de Ocampo; Arroyo El Cojo en el municipio de González; Canal Guillermo Rodhe en los municipios de Camargo, Díaz Ordaz, Reynosa y Río Bravo; Canal Anzaldúas en los municipios de Reynosa, Río Bravo y Valle Hermoso; Canal Principal en el municipio de Abasolo; Acuífero Zona Norte en los municipio de Camargo, Reynosa, Río Bravo y Valle Hermoso; Acuífero Méndez en los municipios de Méndez, San Fernando y Burgos; Acuífero Hidalgo-Villagrán en los municipios de Hidalgo, Villagrán y Mainero; Acuífero de San Carlos-Jiménez en los municipios de San Carlos y Jiménez; Acuífero Victoria-Güémez en los municipios de Victoria y Güémez; Acuífero Palmillas-Jaumave en los municipios de Palmillas y Jaumave; Acuífero Tula-Bustamante en los municipios de Tula y Bustamante; Acuífero Llera-Xicoténcatl en los municipios de Llera y Xicoténcatl; Acuífero Ocampo-Antiguo Morelos en los municipios de Ocampo, Antiguo Morelos y Nuevo Morelos; Zona costera en los municipios de Matamoros, Altamira, Ciudad Madero, Tampico, San Fernando, Soto La Marina y Aldama; Marismas en el municipio de Altamira; Marismas de Tierra Negra en el municipio de Ciudad Madero; Río Álamo en el municipio de Mier; Arroyo El Coronel en el municipio de Guerrero; Arroyo El Buey en el municipio de Miguel Alemán y Arroyo San Juan en el municipio de Hidalgo.
 
 Veracruz: Río Pánuco y afluentes directos en los municipios de Pánuco y Pueblo Viejo; Río Tempoal y afluentes directos en los municipios de Platón Sánchez, Tempoal, El Higo y Tantoyuca; Río Chicayán y afluentes directos en el municipio de Pánuco; Río Calabozo y afluentes directos en los municipios de Tantoyuca y Chicontepec; Río Túxpam y afluentes directos en los municipios de Tuxpan y Temapache; Río Vinazco y afluentes directos en los municipios de Huayacocotla, Texcatepec, Tlachichilco, lxhuatlán y Chicontepec; Río Cazones y afluentes directos en los municipios de Cazones de Herrera, Poza Rica de Hidalgo y Coatzintla; Río Tecolutla y afluentes directos en los municipios de Tecolutla, Gutiérrez Zamora y Papantla; Río Nautla (Río Bobos) y afluentes directos en los municipios de Nautla y Martínez de la Torre; Río Misantla y afluentes directos en el municipio de Misantla; Río San Juan y afluentes directos en los municipios de Villa Azueta, Tlacotalpan, San Juan Evangelista, Hueyapan de Ocampo, Juan Rodríguez Clara, Isla, San Andrés Tuxtla y Santiago Tuxtla; Río Jamapa y afluentes directos en los municipios de Calcahualco, Alpatláhuac, Huatusco, Ixhuatlán del Café, Tepatlaxco, Zentla, Adalberto Tejeda, Soledad de Doblado, Manlio Fabio Altamirano, Jamapa, Medellín y Boca del Río; Río Coatzacoalcos y afluentes directos excepto el Arroyo Teapa en los municipios de Olutla, Ixhuatlán del Sureste, Coatzacoalcos, Jesús Carranza, Hidalgotitlán, Texistepec, Nanchital de Lázaro Cárdenas del Río y Minatitlán; Río Huazuntlán y afluentes directos en los municipios de Soteapan, Mecayapan, Pajapan y Chinameca; Río Tonalá y afluentes directos en los municipios de Las Choapas y Agua Dulce; Río Uspanapa y afluentes directos en los municipios de Las Choapas, Minatitlán, Moluacán e lxhuatlán del Sureste; Río Colipa y afluentes directos en los municipios de Vega de Alatorre, Colipa y Yecuatla; Río Pantepec y afluentes directos en el municipio de Temapache; Ríos Tomata e ltzapa en el municipio de Tlapacoyan; Río Atoyac y afluentes directos en el municipio de Paso del Macho; Río Moctezuma y afluentes directos en el municipio de El Higo; Río Huazuntlán y afluentes directos en los municipios de Coatzacoalcos y Minatitlán; Río Huitzilapan y afluentes directos en el municipio de lxhuacán de Los Reyes; Ríos Ahuacatlán, Huehueyapan y Cinco Palos en el municipio de Coatepec; Río Suchiapa en el municipio de Coatepec; Ríos Ocotal, Tezizapa y Yurivia en el municipio de Mecayapán; Ríos Socoyolapa y Pixquiac y afluentes directos en el municipio de Tlanelhuayocan; Río La Antigua y afluentes directos en los municipios de Xalapa, Coatepec, Jalcomulco, Tlaltetela, Totutla, Emiliano Zapata, Apazapan, Paso de Ovejas y La Antigua; Río Actopan en los municipios de Actopan y Úrsulo Galván; Ríos Sedeño y Sordo y afluentes directos en los municipios de Banderilla y Xalapa; Río Paso de La Milpa y afluentes directos en los municipios de Emiliano Zapata y Actopan; Río Los Pescados y afluentes directos en los municipios de Ixhuacán de Los Reyes, Teocelo, Cosautlán, Coatepec, Tuzamapán, Jalcomulco, Apazapán, Emiliano Zapata, Puente Nacional y La Antigua; Río Juchique en el municipio de Juchique de Ferrer; Playa Norte y Barra de Túxpam y Tecolutla en el municipio de Tecolutla; Playa las Gaviotas en el municipio de Coatzacoalcos; Playa Mocambo en el municipio de Boca del Río; Playas Villa del Mar y Norte en el municipio de Veracruz.
 
 Yucatán: Acuífero en los municipios de Baca, Bokobá, Calotmul, Cansahcab, Cantamayec, Celestún, Cenotillo, Chacsinkin, Chankom, Chapab, Chicxulub Pueblo, Chikindzonot, Chocholá, Chumayel, Cuncunul, Cuzamá, Dzan, Dzemul, Dzilam de Bravo, Dzitás, Dzoncauich, Huhí, Ixil, Káua, Kinchil, Kopomá, Mama, Maní, Mayapán, Mocochá, Muxupip, Opichén, Quintana Roo, Río Lagartos, Sacalum, Samahil, San Felipe, Sanahcat, Santa Elena, Sinanché, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tekal de Venegas, Tekantó, Tekom, Telchac Pueblo, Telchac Puerto, Tepakán, Tetiz, Teya, Tixcacalcupul, Tixméhuac, Tunkás, Uayma, Xocchel, Yaxkukul y Yobain.
 
-Zacatecas: Río Tenayuca en los municipios de Nochistlán y Apulco tramo aguas abajo Presa López Portillo hasta los límites del Estado de Jalisco; Río San Antonio en el municipio de Chalchihuites, en el tramo población de Gualterio hasta su confluencia con el Río San José; Arroyo de Enmedio en el municipio General Enrique Estrada; Río San Pedro en los municipios de Genaro Codina y Ciudad Cuauhtémoc dentro del tramo, cabecera municipal de Genaro Codina hasta antes de la Presa San Pedro Piedra Gorda; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Teúl, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango de Sánchez Román-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango, Tepechitlán, General Joaquín Amaro, Teúl de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Teúl de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango, Tepechitlán, Teúl de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Saín Alto y Cañitas de Felipe Pescador, Acuífero Ábrego en los municipios de Sombrerete, Saín Alto y Fresnillo; Acuífero Saín Alto en los municipios de Saín Alto y Sombrerete; Acuífero de El Palmar en los municipios de Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Saín Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho en los municipios de Mazapil y Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos, Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Ángeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Ángeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo, en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Zacatecas: Río Tenayuca en los municipios de Nochistlán y Apulco tramo aguas abajo Presa López Portillo hasta los límites del Estado de Jalisco; Río San Antonio en el municipio de Chalchihuites, en el tramo población de Gualterio hasta su confluencia con el Río San José; Arroyo de Enmedio en el municipio General Enrique Estrada; Río San Pedro en los municipios de Genaro Codina y Ciudad Cuauhtémoc dentro del tramo cabecera municipal de Genaro Codina hasta antes de la Presa San Pedro Piedra Gorda; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Teúl, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango de Sánchez Román, Tepechitlán, General Joaquín Amaro, Teúl de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Teúl de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango, Tepechitlán, Teúl de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Sain Alto y Cañitas de Felipe Pescador; Acuífero Abrego en los municipios de Sombrerete, Sain Alto y Fresnillo; Acuífero Sain Alto en los municipios de Sain Alto y Sombrerete; Acuífero de El Palmar en los municipios de General Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Sain Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho en los municipios de Mazapil y Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos; Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, General Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, General Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Angeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Angeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo, en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos.
 
 CUERPOS RECEPTORES TIPO "C":
 
@@ -18777,7 +17593,9 @@ Quintana Roo: Sistema Lagunar Nichupté o Bojórquez o Río Inglés o del Amor o
 
 San Luis Potosí: Presas Gonzalo N. Santos, El Potosino y San José en el municipio de San Luis Potosí.
 
-Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Canas en el municipio de Escuinapa.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Cañas en el municipio de Escuinapa.
 
 Sonora: Presa Álvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo; Presa Lázaro Cárdenas en el municipio de Villa Hidalgo.
 
@@ -19105,7 +17923,9 @@ IV.- Una vez efectuado el cálculo trimestral del derecho por cada contaminante,
 
 Los contribuyentes del derecho a que se refiere el presente Capítulo, al momento de presentar sus declaraciones podrán disminuir del pago del derecho respectivo, el costo comprobado de los aparatos de medición y de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones.
 
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar la factura de compra del aparato de medición y su instalación en las oficinas de la Comisión Nacional del Agua, para su verificación y sellado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del dispositivo de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -19157,9 +17977,9 @@ Para los efectos del párrafo anterior, la Comisión Nacional del Agua en térmi
 
 Los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los meses de julio y enero.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Los contribuyentes que no cumplan con los avances programados, estarán obligados a efectuar el pago de los derechos que corresponden a este Capítulo, generados a partir del 1o. de enero de 1997, así como de aquéllos que se hubieren generado con anterioridad, con los accesorios de Ley correspondientes.
+Los contribuyentes que no cumplan con los avances programados, estarán obligados a efectuar el pago de los derechos que corresponden a este Capítulo, generados a partir de la fecha del incumplimiento, así como de aquellos que se hubieren generado con anterioridad, con los accesorios de Ley correspondientes.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -19191,13 +18011,23 @@ TABLA IV
 
 DESCUENTO EN EL PAGO DEL DERECHO POR USO O APROVECHAMIENTO DE AGUAS NACIONALES.
 
-Calidad Establecida para Tipo de Calidad de la Descarga % de Descuento
+Calidad Tipo de Calidad de % de Descuento
 
-Descargas a Cuerpos
+Establecida la Descarga
 
-Receptores Tipo
+para
 
-A B ríos con uso público urbano 12
+Descargas
+
+a Cuerpos
+
+Receptores
+
+Tipo
+
+A B ríos con uso 12
+
+público urbano
 
 A C 18
 
@@ -19209,7 +18039,9 @@ B NOM-127-SSA1-1994 32
 
 C NOM-127-SSA1-1994 26
 
-Este porcentaje de descuento, se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley, sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar, bajo protesta de decir verdad, los resultados de la calidad del agua.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Este porcentaje de descuento se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley, sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar los resultados de la calidad del agua, emitidos por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorio de Prueba de la Secretaría de Comercio y Fomento Industrial y aprobado por la Comisión Nacional del Agua.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -21448,3 +20280,541 @@ Los contribuyentes que se acojan a los beneficios establecidos en esta fracción
 D.O.F. 28 DE DICIEMBRE DE 1999.
 
 LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del 1o. de enero del 2000.
+
+Artículo Segundo.- Durante el año del 2000, se aplicarán en materia de derechos las siguientes disposiciones:
+
+I.- Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos se incrementarán:
+
+a) A partir del 1o. de enero del 2000 con el factor de 1.0278 y;
+
+b) En los meses de abril, julio y octubre del 2000 se incrementarán en los términos de lo dispuesto en el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
+
+c) Las cuotas de los derechos a que se refiere la Sección Primera del Capítulo I y el Capítulo II, del Título I de la Ley Federal de Derechos, se incrementarán a partir del 1o. de enero del 2000, conforme al factor de 1.1110, excepto las correspondientes a los derechos contenidos en el Artículo Primero de la presente Ley.
+
+Las cuotas señaladas en este inciso no se incrementarán en los meses de abril, julio y octubre del 2000, conforme a lo dispuesto en el inciso b) de esta fracción.
+
+d) Para efectos del artículo 8o., fracción I de esta Ley, quedarán exentos durante el ejercicio fiscal del 2000 aquellos turistas que visiten el país por vía terrestre, cuya estancia no exceda de tres días en las zonas en Estados Fronterizos, que hayan sido declaradas de desarrollo turístico prioritario, en términos del artículo 13 de la Ley Federal de Turismo.
+
+II. No se incrementarán en el mes de enero del 2000, con el factor de 1.0278 las cuotas de los derechos establecidos en el Artículo Primero de la presente Ley.
+
+Las cuotas a que se refiere esta fracción se incrementarán en los meses de abril, julio y octubre del 2000, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+III. Los derechos a que se refiere el artículo 3o., séptimo párrafo de la Ley Federal de Derechos son:
+
+a) Los prestados por oficinas de la Federación en el extranjero.
+
+b) Por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
+
+IV. Las cuotas de los derechos establecidos en el Capítulo II del Título I de la Ley Federal de Derechos, se ajustarán para su pago a partir del día 1o. de enero del 2000, a múltiplos de $5.00.
+
+Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste se disminuirá a la unidad inmediata anterior.
+
+V. No se pagará el derecho establecido en la fracción I, Apartado A del artículo 187 de la Ley Federal de Derechos, tratándose de la inscripción en el Registro Agrario Nacional de las resoluciones que dicten los Tribunales Agrarios, cuando las mismas se refieran a alguna acción agraria de las que se encuentran contempladas dentro del rezago agrario, en términos del Artículo Tercero Transitorio del Decreto de Reformas al Artículo 27 Constitucional, publicado en el Diario Oficial de la Federación el 6 de enero de 1992 y de la Ley Agraria.
+
+VI. Los egresados de las Instituciones del Sistema Educativo Nacional en las que se imparte educación de tipo medio superior, cubrirán el 50% de los derechos previstos en las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+VII. Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, tratándose de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales, se pagará el 25% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+VIII. Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, en el pago de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 50% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
+
+IX. Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, cuando la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel se realice en las zonas de disponibilidad 7, 8 y 9, se pagará el 80% de las cuotas establecidas en dicho apartado, por cada zona.
+
+Las empresas pertenecientes a la industria a que se refiere el párrafo anterior, que se ubiquen en municipios que en el 2000 hayan sido reclasificados de la zona de disponibilidad 6 a la zona de disponibilidad 5, pagarán el 80% del derecho que corresponda.
+
+X. Los municipios que a continuación se enumeran, pagarán el 60% de la cuota correspondiente a la zona de disponibilidad 7 del artículo 223, apartado A de la Ley Federal de Derechos, la cuota deberá calcularse hasta el diezmilésimo:
+
+Estado de Chiapas: Acacoyagua, Acala, Acapetahua, Altamirano, Amatán, Amatenango de la Frontera, Amatenango del Valle, Ángel Albino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Berriozábal, Bochil, Bosque El, Cacahoatán, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Concordia La, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Grandeza La, Huehuetán, Huistán, Huitiupan, Huixtla, Independencia La, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, Libertad La, Mapastepec, Margaritas Las, Mazapa de Madero, Mazatán, Metapa, Mitontic, Motozintla, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinoza, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Porvenir El, Pueblo Nuevo Comaltitlán, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Rosas Las, Sabinilla, Salto de Agua, San Cristóbal de Las Casas, San Fernando, Siltepec, Simojovel de Allende, Sitala, Socoltenango, Solosuchiapa, Soyalo, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Trinitaria La, Tumbala, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villa Corzo, Villa Flores, Yajalón, San Lucas, Zinacantán y San Juan Cancuc.
+
+Estado de Guerrero: Chilpancingo de los Bravo, Huitzuco de los Figueroa e Iguala de la Independencia.
+
+Estado de Nayarit: Bahía de Banderas y Tepic.
+
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, El Espinal, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Mixtepec (Dist. O8 [sic]), San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerómino Tlacochauya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
+
+Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
+
+Estado de Tabasco: Centla, Emiliano Zapata, Jonuta, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
+
+Estado de Tamaulipas: Altamira, Ciudad Madero, Mante El y Tampico.
+
+XI. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+XII. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+XIII. Para los efectos de lo dispuesto en el artículo 162, Apartado A, fracción I de la Ley Federal de Derechos, no pagarán los derechos de registro marítimo los propietarios de embarcaciones y artefactos navales menores, que se encuentren incorporados en el Programa Nacional de Matriculación e Identificación de Embarcaciones de la Secretaría de Comunicaciones y Transportes que se lleva a cabo a través de la Comisión Intersecretarial de Seguridad y Vigilancia Marítima Portuaria.
+
+Artículo Tercero.- Lo dispuesto en el segundo párrafo del artículo 16 de la Ley Federal de Derechos, entrará en vigor a partir del 1o. de enero del año 2001.
+
+Artículo Cuarto.- Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles señalados en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
+
+Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de La Ley Federal de Derechos
+
+Tipo de Fecha límite Fecha límie
+
+Descarga para presentar para no rebasar
+
+programa de los límites
+
+acciones máximos permisibles
+
+Descargas de 30 de junio de 1997 Se sujetarán a
+
+aguas residuales las fechas
+
+Municipales y no señaladas para
+
+municipales cuya descargas
+
+concentración de municipales y no
+
+contaminantes en municipales, según
+
+cualquiera de los corresponda,
+
+parámetros básicos, previstas en los
+
+metales pesados o dos supuestos
+
+cianuros, que rebasen siguientes
+
+los límites máximos
+
+permisibles señalados
+
+en la Tabla I del artículo
+
+278-B de la Ley Federal
+
+de Derechos,
+
+multiplicados por cinco,
+
+para cuerpos receptores
+
+tipo B
+
+(ríos, uso público urbano)
+
+del Capítulo XIV del
+
+## Título II, de la Ley Federal
+
+de Derechos.
+
+Descargas municipales
+
+Tipo de Fecha límite para Fecha límite para
+
+Descarga presentar programa no rebasar
+
+de acciones los límites
+
+máximos permisibles
+
+Poblaciones de 30 de junio de 1997 1o. de enero del 2000
+
+más de 50,000
+
+habitantes.
+
+Poblaciones de 31 de diciembre de 1998 1o. de enero del 2005
+
+entre 20,001 y
+
+50,000 habitantes.
+
+Poblaciones de 31 de diciembre de 1999 1o. de enero del 2010
+
+entre 2,501 y
+
+20,000 habitantes.
+
+Descargas no municipales
+
+Tipo de Fecha límite para Fecha límite para
+
+Descarga presentar programa no rebasar los
+
+de acciones límites máximos
+
+permisibles
+
+Con Demanda 30 de junio de 1997 1o. de enero del 2000
+
+Bioquímica de
+
+Oxígeno5 y/o
+
+Sólidos
+
+Suspendidos
+
+Totales mayor o
+
+igual a 3 toneladas
+
+sobre día.
+
+Con Demanda 31 de diciembre de 1998 1o. de enero del 2005
+
+Bioquímica de
+
+Oxígeno5 y/o
+
+Sólidos Suspendidos
+
+Totales mayor a 1.2
+
+toneladas sobre día
+
+pero menor a 3
+
+toneladas sobre día.
+
+Con Demanda 31 de diciembre de 1999 1o. de enero del 2010
+
+Bioquímica de
+
+Oxígeno5 y/o Sólidos
+
+Suspendidos Totales
+
+igual o menor a 1.2
+
+toneladas sobre día.
+
+Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
+
+I. Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación, dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
+
+Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieren considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en el presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo.
+
+II. No será aplicable a favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en el primero y segundo párrafos de este artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
+
+III. Para efectos del artículo 278-B de la Ley Federal de Derechos, los usuarios que hayan presentado programa de acciones para mejorar sus descargas de aguas residuales, podrán cumplir con la calidad establecida en la presente Ley, conforme al ejercicio fiscal en que se fijó la calidad de tipo de cuerpo receptor.
+
+Tratándose del descuento en el pago del derecho a que se refiere el artículo 282-C de esta Ley, los contribuyentes deberán cumplir con la calidad de acuerdo con el cuerpo receptor que se establezca en el artículo 278-B de la citada Ley, así como con la calidad inmediata superior a que se refiere la Tabla IV del artículo 282-C de la propia Ley.
+
+IV. Los usuarios que tengan fijadas condiciones particulares de descarga que sean vigentes y las estén cumpliendo, no pagarán el derecho a que se refiere el Capítulo XIV, Título II de la presente Ley y le seguirán siendo aplicables hasta su vencimiento o revocación en términos de Ley.
+
+Artículo Quinto.- Para los efectos de lo dispuesto en el artículo 223 de esta Ley, el pago del derecho por el uso o aprovechamiento de aguas nacionales utilizadas en los municipios del territorio mexicano, durante los años 2000 a 2004 se efectuará de conformidad con las zonas de disponibilidad de agua a que se refiere el artículo 231 de la Ley Federal de Derechos, como a continuación se indican:
+
+AÑO 2000
+
+ZONA 1
+
+Estado de San Luis Potosí: San Luis Potosí y Soledad de Graciano Sánchez.
+
+ZONA 2
+
+Estado de México: Apaxco, Chapa de Mota, Huehuetoca, Jilotepec, San Martín de las Pirámides, Teotihuacán y Villa del Carbón.
+
+ZONA 3
+
+Estado de Baja California: Ensenada y Tecate.
+
+Estado de Baja California Sur: La Paz.
+
+Estado de Chihuahua: Allende, Camargo, Jiménez, Juárez, López y San Francisco de Conchos.
+
+Estado de Guanajuato: Apaseo El Alto, Apaseo El Grande, Celaya, Romita, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao y Villagrán.
+
+Estado de México: Soyaniquilpan de Juárez.
+
+Estado de Morelos: Axochiapan y Tepalcingo.
+
+Estado de Puebla: Puebla.
+
+Estado de Querétaro: Corregidora, Marqués El y Querétaro.
+
+Estado de Quintana Roo: Benito Juárez.
+
+Estado de San Luis Potosí: Villa de Ramos.
+
+ZONA 4
+
+Estado de Aguascalientes: San José de Gracia.
+
+Estado de Chihuahua: Ahumada.
+
+Estado de México: Acolman, Aculco, Almoloya de Alquisiras, Amatepec, Amecameca, Atenco, Coatepec Harinas, Chiautla, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Morelos, Nopaltepec, Ocoyoacac, Ocuilan, Ozumba, Tenango del Valle, Texcaltitlán, Tlatlaya, Tepetlaoxtoc, Tlalmanalco, Tonatico y Villa Guerrero.
+
+Estado de Nuevo León: Abasolo, Allende, Cadereyta Jiménez, Ciénega de Flores, Doctor González, Galeana, General Bravo, General Terán, General Zuazua, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería, Salinas Victoria y Santiago.
+
+Estado de Puebla: Atoyatempan, Mixtla, Reyes de Juárez Los, San Salvador Huixcolotla, Santa Clara Huitziltepec y Teochtepec.
+
+Estado de Quintana Roo: Solidaridad.
+
+Estado de San Luis Potosí: Villa de la Paz.
+
+ZONA 5
+
+Estado de Coahuila: Morelos.
+
+Estado de Chihuahua: Cuauhtémoc.
+
+Estado de Durango: Durango y Nombre de Dios.
+
+Estado de Guerrero: Acapulco de Juárez.
+
+Estado de Jalisco: Puerto Vallarta.
+
+Estado de México: Ayapango, Axapusco, Atlautla, Ecatzingo, Hueypoxtla, Ixtapan de la Sal, Ixtapan del Oro, Jilotzingo, Juchitepec, Otumba, Papalotla, Polotitlán, Temamatla, Temascalapa, Tenancingo, Tenango del Aire, Tepetlixpa, Tequisquiac, Tezoyuca, Timilpan, Zacazonapan, Zacualpan y Zumpahuacán.
+
+Estado de Michoacán: Morelia.
+
+Estado de Morelos: Cuernavaca.
+
+Estado de Nuevo León: Agualeguas, Aldamas Los, Anáhuac, Aramberri, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Herreras Los, Higueras, Hidalgo, Hualahuises, Iturbide, Melchor Ocampo, Mier y Noriega, Parás, Ramones Los, Rayones, Sabinas Hidalgo, Vallecillo y Villaldama.
+
+Estado de Puebla: Tecali de Herrera, Tepeaca y Tlanepantla.
+
+ZONA 6
+
+Estado de Colima: Armería y Tecomán.
+
+Estado de Guerrero: Coyuca de Benítez, José Azueta, San Marcos y Tepecoacuilco de Trujano.
+
+Estado de Hidalgo: Ajacuba, Alfajayucan, Arenal El, Atitalaquia, Atotonilco de Tula, Chapantongo, Francisco I. Madero, Huasca de Ocampo, Ixmiquilpan, Nopala de Villagrán, Progreso, Santiago de Anaya, Tasquillo, Tecozautla, Tezontepec de Aldama, Tepeji del Río de Ocampo, Tepetitlán, Tlahuelilpan, Tula de Allende, Tetepango y Zimapán.
+
+Estado de Jalisco: Cihuatlán, Cd. Guzmán, Ojuelos de Jalisco, Tuxpan y Zapotiltic.
+
+Estado de México: Jiquipilco.
+
+Estado de Michoacán: Apatzingán, Buenavista, Múgica, Parácuaro Tepalcatepec y Tocumbo.
+
+Estado de Oaxaca: Abejones, Asunción Cacalotepec, Asunción Cuyotepeji, Asunción Ocotlán, Asunción Tlacolulita, Ayoquezco de Aldama, Barrio de la Soledad El, Calihuala, Candelaria Loxicha, Ciénega de Zimatlán La, Coatecas Altas, Coicoyan de las Flores, Compañía La, Concepción Buenavista, Concepción Papalo, Constancia del Rosario, Cosoltepec, Cuilapam de Guerrero, Ejutla de Crespo, Fresnillo de Trujano, Guadalupe de Ramírez, Guelatao de Juárez, Heroica Ciudad de Tlaxiaco, Mesones Hidalgo, Villa Hidalgo (Yalalag), Huautla de Jiménez, Ixtlán de Juárez, Magdalena Apasco, Magdalena Jaltepec, Santa Magdalena Jicotlán, Magdalena Mixtepec, Magdalena Ocotlán, Magdalena Peñasco, Magdalena Teitipac, Magdalena Tequisistlán, Magdalena Tlacotepec, Mariscala de Juárez, Mártires de Tacubaya, Mazatlán Villa de Flores, Mixistlán de la Reforma, Monjas, Nazareno Etla, Nejapa de Madero, Ixpantepec Nieves, Ocotlán de Morelos, Pe La, Pinotepa de Don Luis, Pluma Hidalgo, San José del Progreso, Putla Villa de Guerrero, Santa Catarina Quioquitani, Reforma La, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Atenango, San Agustín Chayuco, San Agustín Etla, San Agustín Loxicha, San Agustín Tlacoltepec, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Huaxpaltepec, San Andrés Huayapan, San Andrés Ixtlahuaca, San Andrés Lagunas, San Andrés Paxtlán, San Andrés Sinaxtla, San Andrés Solaga, San Andrés Yaa, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino El Alto, San Antonino Monteverde, San Antonio Acutla, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatipam, San Antonio Sinicahua, San Antonio Tepetlapa, San Baltazar Chichicapan, San Baltazar Loxicha, San Baltazar Yatzachi El Bajo, San Bartolo Coyotepec, San Bartolomé Ayautla, San Bartolomé Loxicha, San Bartolomé Quialana, San Bartolomé Yucuañe, San Bartolomé Zoogocho, San Bartolo Soyaltepec, San Bartolo Yautepec, San Bernardo Mixtepec, San Carlos Yautepec, San Cristóbal Amatlán, San Cristóbal Amoltepec, San Cristóbal Lachirioag, San Cristóbal Suchixtlahuaca, San Dionisio Ocotepec, San Esteban Atatlahuca, San Felipe Jalapa de Díaz, San Felipe Tejalapam, San Francisco Cahuacua, San Francisco Cajonos, San Francisco Chindua, San Francisco Huehuetlán, San Francisco Jaltepetongo, San Francisco Lachigolo, San Francisco Logueche, San Francisco Nuxaño, San Francisco Ozolotepec, San Francisco Sola, San Francisco Telixtlahuaca, San Francisco Teopam, San Francisco Tlapancingo, San Gabriel Mixtepec, San Ildefonso Amatlán, San Ildefonso Sola, San Ildefonso Villa Alta, San Jacinto Tlacotepec, San Jerónimo Coatlán, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Taviche, San Jerónimo Tecoatl, San Jorge Nuchita, San José Ayuquila, San José del Peñasco, San José Estancia Grande, San José Lachiguiri, San Juan Achiutla, San Juan Atepec, Ánimas Trujano, San Juan Bautista Atatlahuca, San Juan Bta. Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista lo de Soto, San Juan Bautista Suchitepec, San Juan Bta. Tlachichilco, San Juan Cacahuatepec, San Juan Cieneguilla, San Juan Colorado, San Juan Comaltepec, San Juan Cotzocon, San Juan Chicomezuchil, San Juan Chilateca, San Juan del Estado, San Juan del Río (Albarrada), San Juan Diuxi, San Juan Evangelista Analco, San Juan Guelavia, San Juan Ihualtepec, San Juan Juquila Mixes, San Juan Lachigalla, San Juan Lajarcia, San Juan Lalana, San Juan de los Cués, San Juan Mixtepec (Dist. 26), San Juan Numi, San Juan Ozolotepec, San Juan Petlapa, San Juan Quiahije, San Juan Quiotepec, San Juan Sayultepec, San Juan Tabaa, San Juan Tamazola, San Juan Teita, San Juan Teitipac, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yae, San Juan Yatzona, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Lorenzo Texmelucan, San Lorenzo Victoria, San Lucas Camotlán, San Lucas Quiavini, San Lucas Zoquiapam, San Luis Amatlán, San Marcial Ozolotepec, San Marcos Arteaga, San Martín de los Canseco, San Martín Huamelulpan, San Martín Itunyoso, San Martín Lachila, San Martín Peras, San Martín Tilcajete, San Martín Toxpalan, San Martín Zacatepec, San Mateo Cajonos, Capulalpan de Méndez, San Mateo Yoloxochitlán, San Mateo Etlatongo, San Mateo Nejapam, San Mateo Peñasco, San Mateo Piñas, San Mateo Río Hondo, San Mateo Tlapiltepec, San Melchor Betaza, San Miguel Achiutla, San Miguel Aloapam, San Miguel Amatitlán, San Miguel Amatlán, San Miguel Coatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Ejutla, San Miguel El Grande, San Miguel Huautla, San Miguel Mixtepec, San Miguel Panixtlahuaca, San Miguel Peras, San Miguel Piedras, San Miguel Quetzaltepec, Villa Sola de Vega, San Miguel Suchixtepec, San Miguel Talea de Castro, San Miguel Tecomatlán, San Miguel Tenango, San Miguel Tequixtepec, San Miguel Tilquiapam, San Miguel Tlacamama, San Miguel Tlacotepec, San Miguel Tulancingo, San Miguel Yotao, San Nicolás, San Nicolás Hidalgo, San Pablo Coatlán, San Pablo Cuatro Venados, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Macuiltianguis, San Pablo Tijaltepec, San Pablo Villa de Mitla, San Pablo Yaganiza, San Pedro Amuzgos, San Pedro Apóstol, San Pedro Atoyac, San Pedro Cajonos, San Pedro El Alto, San Pedro Huamelula, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jicayan, San Pedro Jocotipac, San Pedro Mártir, San Pedro Mártir Quiechapa, San Pedro Mártir Yucuxaco, San Pedro Mixtepec-Miahuatlán (Dist. 26), San Pedro Molinos, San Pedro Nopala, San Pedro Ocotepec, San Pedro Quiatoni, San Pedro Taviche, San Pedro Tidaa, San Pedro Topiltepec, San Pedro Totolapam, San Pedro Tututepec, San Pedro Yaneri, San Pedro Yolox, San Pedro y San Pablo Ayutla, San Pedro y San Pablo Etla, San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yucunama, San Raymundo Jalpan, San Sebastián Abasolo, San Sebastián Coatlán, San Sebastián Ixcapa, San Sebastián Nicananduta, San Sebastián Río Hondo, San Sebastián Tecomaxtlahuaca, San Simón Zahuatlán, Santa Ana, Santa Ana del Valle, Santa Ana Tavela, Santa Ana Yareni, Santa Ana Zegache, Santa Catalina Quieri, Santa Catarina Ixtepeji, Santa Catarina Juquila, Santa Catarina Lachatao, Santa Catarina Loxicha, Santa Catarina Mechoacan, Santa Catarina Minas, Santa Catarina Quiane, Santa Catarina Ticua, Santa Catarina Yosonotu, Santa Catarina Zapoquila, Santa Cruz Amilpas, Santa Cruz de Bravo, Santa Cruz Itundujía, Santa Cruz Mixtepec, Santa Cruz Nundaco, Santa Cruz Papalutla, Santa Cruz Tacache de Mina, Santa Cruz Tacahua, Santa Cruz Tayata, Santa Cruz Zenzontepec, Santa Gertrudis, Santa Inés Del Monte, Santa Inés Yatzeche, Santa Lucía Miahuatlán, Santa Lucía Monteverde, Santa Lucía Ocotlán, Santa María Alotepec, Santa María Apazco, Santa María Atzompa, Santa María Camotlán, Santa María Colotepec, Santa María Cortijos, Santa María Coyotepec, Santa María Chachoapam, Santa María Chilapa de Díaz, Santa María del Rosario, Santa María Ecatepec, Santa María Guelace, Santa María Huatulco, Santa María Huazolotitlán, Santa María Ipalapa, Santa María Ixcatlán, Santa María Jalapa del Marqués, Santa María Jaltianguis, Santa María Lachixio, Santa María Mixtequilla, Santa María Nativitas, Santa María Nduayaco, Santa María Ozolotepec, Santa María Papalo, Santa María Peñoles, Santa María Petapa, Santa María Quiegolani, Santa María Sola, Santa María Tataltepec, Santa María Tecomavaca, Santa María Temaxcalapa, Santa María Temaxcaltepec, Santa María Tepantlali, Santa María Texcatitlán, Santa María Tlahuitoltepec, Santa María Tonameca, Santa María Totolapilla, Santa María Yalina, Santa María Yavesia, Santa María Yolotepec, Santa María Yosoyua, Santa María Yucuhiti, Santa María Zacatepec, Santa María Zaniza, Santa María Zoquitlán, Santiago Amoltepec, Santiago Apoala, Santiago Apóstol, Santiago Astata, Santiago Atitlán, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Camotlán, Santiago Comaltepec, Santiago Chazumba, Santiago Choapam, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Ixtayutla, Santiago Jamiltepec, Santiago Jocotepec, Santiago Juxtlahuaca, Santiago Lalopa, Santiago Laxopa, Santiago Llano Grande, Santiago Matatlán, Santiago Minas, Santiago Nacaltepec, Santiago Nejapilla, Santiago Nundichi, Santiago Nuyoo, Santiago Pinotepa Nacional, Santiago Suchilquitongo, Santiago Tamazola, Santiago Tapextla, Santiago Tenango, Santiago Tepetlapa, Santiago Tetepec, Santiago Textitlán, Santiago Tilantongo, Santiago Tillo, Santiago Tlazoyaltepec, Santiago Xanica, Santiago Xiacui, Santiago Yaitepec, Santiago Yaveo, Santiago Yolomecatl, Santiago Yosondua, Santiago Yucuyachi, Santiago Zacatepec, Santiago Zoochila, Nuevo Zoquiapam, Santo Domingo Ingenio, Santo Domingo Albarradas, Santo Domingo Armenta, Santo Domingo Chihuitán, Santo Domingo de Morelos, Santo Domingo Ixcatlán, Santo Domingo Ozolotepec, Santo Domingo Petapa, Santo Domingo Teojomulco, Santo Domingo Tepuxtepec, Santo Domingo Tlatayapan, Santo Domingo Tomaltepec, Santo Domingo Tonalá, Santo Domingo Tonaltepec, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santos Reyes Nopala, Santos Reyes Papalo, Santos Reyes Tepejillo, Santos Reyes Yucuna, Santo Tomás Jalieza, Santo Tomás Mazaltepec, San Vicente Coatlán, San Vicente Lachixio, San Vicente Nuñu, Silacayoapam, Sitio de Xitlapehua, Soledad Etla, Tanetze de Zaragoza, Taniche, Tataltepec de Valdés, Tecocuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacotepec Plumas, Totontepec Villa de Morelos, Trinidad Zaachila, Trinidad Vista Hermosa La, Valerio Trujano, Villa Díaz Ordaz, Yaxe, Magdalena Yodocono de Porfirio Díaz, Yogana, Zaachila Villa de, Zapotitlán del Río, Zapotitlán Lagunas, Zapotitlán Palmas y Zimatlán de Álvarez.
+
+Estado de Puebla: Altepexi, Arroyo Seco, Morelos Cañada, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, Tlacotepec de Benito Juárez y Xochitlán.
+
+Estado de Querétaro: Amealco, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles y Tolimán.
+
+Estado de San Luis Potosí: Alaquines, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Lagunillas, Río Verde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina, Tierranueva, Villa de Juárez y Villa de Arista.
+
+Estado de Tamaulipas: Güémez, Padilla y Victoria.
+
+Estado de Tlaxcala: Benito Juárez, San José Teacalco, San Lucas Tecopilco y Santa Cruz Tlaxcala.
+
+Estado de Yucatán: Mérida.
+
+Estado de Zacatecas: Morelos y Veta Grande.
+
+ZONA 7
+
+Estado de Chiapas: Acacoyagua, Acala, Acapetahua, Altamirano, Amatán, Amatenango de la Frontera, Amatenango del Valle, Ángel Albino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Berriozábal, Bochil, Bosque El, Cacahoatán, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Concordia La, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Grandeza La, Huehuetán, Huistán, Huitiupan, Huixtla, Independencia La, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, Libertad La, Mapastepec, Margaritas Las, Mazapa de Madero, Mazatán, Metapa, Mitontic, Motozintla, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Porvenir El, Pueblo Nuevo Comaltitlán, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Rosas Las, Sabinilla, Salto de Agua, San Cristóbal de Las Casas, San Fernando, Siltepec, Simojovel de Allende, Sitala, Socoltenango, Solosuchiapa, Soyalo, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Trinitaria La, Tumbala, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villa Corzo, Villa Flores, Yajalón, San Lucas, Zinacantán y San Juan Cancuc.
+
+Estado de Guerrero: Chilpancingo de los Bravo, Huitzuco de los Figueroa e Iguala de la Independencia.
+
+Estado de Morelos: Tlayacapan.
+
+Estado de Nayarit: Bahía de Banderas y Tepic.
+
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Mixtepec (Dist. O8), San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerómino Tlacochauya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
+
+Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
+
+Estado de Tabasco: Centla, Emiliano Zapata, Jonuta, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
+
+Estado de Tamaulipas: Altamira, Ciudad Madero, Mante El y Tampico.
+
+ZONA 8
+
+Estado de Hidalgo: Jacala de Ledezma.
+
+Estado de Oaxaca: San Juan Bautista Tuxtepec.
+
+Estado de San Luis Potosí: Matlapa.
+
+Estado de Veracruz: Catemaco y Moloacán.
+
+ZONA 9
+
+Estado de Guanajuato: Xichú.
+
+Estado de Jalisco: Manzanilla de la Paz La.
+
+Estado de Michoacán: Acuitzio, Cherán, Nahuatzén, Salvador Escalante y Tingambato.
+
+Estado de Veracruz: Oluta.
+
+AÑO 2001
+
+ZONA 2
+
+Estado de Guanajuato: Celaya.
+
+Estado de Querétaro: Corregidora, Marqués El y Querétaro.
+
+ZONA 3
+
+Estado de México: Almoloya de Alquisiras, Coatepec Harinas, Joquicingo, Malinalco, Texcaltitlán y Tonatico.
+
+Estado de Puebla: Santa Clara Huitziltepec.
+
+ZONA 4
+
+Estado de Baja California: Ensenada
+
+Estado de Baja California Sur: La Paz.
+
+Estado de Coahuila: Morelos.
+
+Estado de Chihuahua: Cuauhtémoc.
+
+Estado de Durango: Durango.
+
+Estado de México: Ixtapan de la Sal, Tenancingo y Zumpahuacán.
+
+Estado de Puebla: Tepeaca y Tlanepantla.
+
+Estado de Quintana Roo: Benito Juárez.
+
+Estado de San Luis Potosí: Villa de Ramos.
+
+ZONA 5
+
+Estado de Guerrero: José Azueta.
+
+Estado de Hidalgo: Alfajayucan, Atotonilco de Tula, Chapantongo, Ixmiquilpan, Nopala de Villagrán, Tasquillo, Tecozautla, Tepeji del Río de Ocampo, Tezontepec de Aldama, Tepetitlán y Zimapán.
+
+Estado de México: Aculco, Amecameca, Chiautla, Nopaltepec, Ozumba, Teotihuacán, Tepetlaoxtoc y Tlalmanalco.
+
+Estado de Nuevo León: Abasolo, Allende, Cadereyta Jiménez, Ciénega de Flores, Doctor González, Galeana, General Bravo, General Terán, General Zuazua, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería y Santiago.
+
+Estado de Oaxaca: Asunción Ocotlán, Ayoquezco de Aldama, Ciénega de Zimatlán La, Coatecas Altas, Compañía La, Cuilapam de Guerrero, Ejutla de Crespo, Fresnillo de Trujano, Guelatao de Juárez, Huautla de Jiménez, Magdalena Apasco, Magdalena Mixtepec, Magdalena Teitipac, Mazatlán Villa de Flores, Mesones Hidalgo, Nazareno Etla, Nejapa de Madero, Ocotlán de Morelos, Pe- La, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Etla, San Andrés Sinaxtla, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatipam, San Baltazar Chichicapan, San Bartolo Coyotepec, San Bernardo Mixtepec, San Cristóbal Suchixtlahuaca, San Felipe Tejalapam, San Francisco Huehuetlán, San Francisco Lachigolo, San Francisco Sola, San Francisco Telixtlahuaca, San Jerónimo Sosola, San Jerónimo Taviche, San Jorge Nuchita, San José Ayuquila, San Juan Achiutla, San Juan Atepec, Ánimas Trujano, San Juan Bautista Atatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlachichilco, San Juan Chilateca, San Juan del Río (Albarradas), San Juan Guelavia, San Juan Lachigalla, San Juan de los Cués, San Juan Numí, San Juan Teitipac, San Juan Tepeuxila, San Juan Yae, San Lorenzo Cacaotepec, San Luis Amatlán, San Martín de los Canseco, San Martín Tilcajete, San Martín Toxpalan, San Martín Zacatepec, Capulalpan de Méndez, San Mateo Etlatongo, San Mateo Nejapam, San Miguel Achiutla, San Miguel Aloapam, San Miguel Amatitlán, San Miguel Amatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Ejutla, San Miguel Huautla, Villa Sola de Vega, San Miguel Tlacotepec, San Pablo Cuatro Venados, San Pablo Huitzo, San Pablo Huixtepec, San Pedro Apóstol, San Pedro Cajonos, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Quiatonic, San Pedro Taviche, San Pedro Totolapam, San Pedro y San Pablo Etla, San Pedro y San Pablo Tequixtepec, San Sebastián Abasolo, San Simón Zahuatlán, Santa Ana, Santa Ana del Valle, Santa Ana Tavela, Santa Ana Yareni, Santa Ana Zegache, Santa Catarina Ixtepeji, Santa Catarina Quiane, Santa Catarina Zapoquila, Santa Cruz Amilpas, Santa Cruz de Bravo, Santa Cruz Itundujía, Santa Cruz Nundaco, Santa Cruz Papalutla, Santa Cruz Tayata, Santa Gertrudis, Santa Lucía Miahuatlán, Santa María Apazco, Santa María Atzompa, Santa María Coyotepec, Santa María Guelace, Santa María Jaltianguis, Santa María Nativitas, Santa María Nduayaco, Santa María Papalo, Santa María Petapa, Santa María Tecomavaca, Santa María Texcatitlán, Santa María Yavesia, Santa María Zoquitlán, Santiago Apoala, Santiago Apóstol, Santiago Ayuquililla, Santiago Comaltepec, Santiago Chazumba, Santiago Huautlilla, Santiago Matatlán, Santiago Nuyoo, Santiago Suchilquitongo, Santiago Tenango, Santiago Tilantongo, Santiago Xiacui, Nuevo Zoquiapam, Santo Domingo Petapa, Santo Domingo Tomaltepec, Santos Reyes Yucuna, Santo Tomás Mazaltepec, Sitio de Xitlapehua, Soledad Etla, Taniche, Tecocuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Tlacotepec Plumas, Trinidad Zaachila, Valerio Trujano, Yaxe, Zaachila Villa de, Zapotitlán Palmas, San José del Progreso y Zimatlán de Álvarez.
+
+Estado de Puebla: Altepexi, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac y Tlacotepec de Benito Juárez.
+
+Estado de Querétaro: Amealco, Peñamiller y Tolimán.
+
+Estado de Quintana Roo: Solidaridad.
+
+Estado de San Luis Potosí: Ciudad Fernández, Río Verde, Tierranueva y Villa de Arista.
+
+Estado de Tlaxcala: Santa Cruz Tlaxcala.
+
+ZONA 6
+
+Estado de Chiapas: Acapetahua, Arriaga, Berriozábal, Cintalapa, Comitán de Domínguez, Chiapa de Corzo, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, Independencia La, Ixtapa, Jiquipilas, Mapastepec, Margaritas Las, Mazatán, Metapa, Motozintla, Ocosingo, Ocozocoautla de Espinoza, Palenque, Pijijiapan, Pueblo Nuevo Comaltitlán, Reforma, Rosas Las, San Cristóbal de Las Casas, Suchiate, Sunuapa, Tapachula, Tecpatán, Tonalá, Trinitaria La, Tuxtla Gutiérrez, Tuxtla Chico, Venustiano Carranza y Villa Flores.
+
+Estado de Guerrero: Huitzuco de los Figueroa e Iguala de la Independencia.
+
+Estado de Jalisco: Puerto Vallarta.
+
+Estado de México: Atlautla, Axapusco, Ayapango, Ecatzingo, Jilotzingo, Juchitepec, Otumba, Papalotla, Temamatla, Tepetlixpa, Tequisquiac y Tezoyuca.
+
+Estado de Nuevo León: Agualeguas, Aldamas Los, Anáhuac, Aramberri, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Herreras Los, Higueras, Hualahuises, Hidalgo, Iturbide, Melchor Ocampo, Mier y Noriega, Parás, Ramones Los, Sabinas Hidalgo y Villaldama.
+
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Guadalupe Etla, Huajuapan de León, Juchitán de Zaragoza, Loma Bonita, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Jacinto Amilpas, San Juan Mixtepec (Dist. O8), San Pablo Etla, San Pedro Mixtepec-Juquila, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, San Jerónimo Tlacochauaya, Tlacolula de Matamoros y Tlalixtlac de Cabrera.
+
+Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
+
+Estado de Tamaulipas: Ciudad Madero.
+
+ZONA 7
+
+Estado de Oaxaca: San Juan Bautista Tuxtepec.
+
+Estado de Puebla: Xochitlán.
+
+ZONA 9
+
+Estado de Veracruz: Catemaco y Moloacán.
+
+AÑO 2002
+
+ZONA 3
+
+Estado de Chihuahua: Cuauhtémoc.
+
+ZONA 4
+
+Estado de Hidalgo: Alfajayucan, Chapantongo, Nopala de Villagrán, Tasquillo, Tecozautla, Tezontepec de Aldama y Zimapán.
+
+Estado de Oaxaca: Asunción Ocotlán, Ayoquezco de Aldama, Ciénega de Zimatlán La, Coatecas Altas, Compañía La, Cuilapam de Guerrero, Ejutla de Crespo, Mesones Hidalgo, Magdalena Apasco, Magdalena Mixtepec, Magdalena Teitipac, Mazatlán Villa de Flores, Nazareno Etla, Ocotlán de Morelos, Pe- La, San José del Progreso, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín Etla, San Andrés Zabache, San Andrés Zautla, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Bartolo Coyotepec, San Bernardo Mixtepec, San Felipe Tejalapam, San Francisco Huehuetlán, San Francisco Lachigolo, San Francisco Sola, San Francisco Telixtlahuaca, San Jerónimo Sosola, Ánimas Trujano, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlachichilco, San Juan Chilateca, San Juan Guelavia, San Juan Teitipac, San Lorenzo Cacaotepec, San Martín de los Canseco, San Martín Tilcajete, San Martín Toxpalan, Capulalpan de Méndez, San Miguel Amatlán, San Miguel Ejutla, San Pablo Cuatro Venados, San Pablo Huitzo, San Pablo Huixtepec, San Pedro Apóstol, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir, San Pedro y San Pablo Etla, San Sebastián Abasolo, Santa Ana, Santa Ana del Valle, Santa Ana Zegache, Santa Catarina Quiane, Santa Cruz Amilpas, Santa Cruz Papalutla, Santa Lucía Miahuatlán, Santa María Apazco, Santa María Atzompa, Santa María Coyotepec, Santa María Guelace, Santa María Texcatitlán, Santiago Apoala, Santiago Apóstol, Santiago Suchilquitongo, Santiago Tenango, Santiago Tilantongo, Santo Domingo Tomaltepec, Santo Tomás Mazaltepec, Soledad Etla, Taniche, Teotitlán de Flores Magón, Teotitlán del Valle, Tlacotepec Plumas, Trinidad Zaachila, Valerio Trujano, Zaachila Villa de y Zimatlán de Álvarez.
+
+Estado de Puebla: Altepexi.
+
+Estado de San Luis Potosí: Ciudad Fernández, Río Verde y Villa de Arista.
+
+ZONA 5
+
+Estado de Chiapas: Arriaga, Berriozábal, Cintalapa, Comitán de Domínguez, Frontera Comalapa, Huixtla, Independencia La, Jiquipilas, Mapastepec, Margaritas Las, Mazatán, Metapa, Ocozocoautla de Espinoza, Palenque, Pijijiapan, Pueblo Nuevo Comaltitlán, Reforma, San Cristóbal de Las Casas, Suchiate, Tapachula, Tonalá, Trinitaria La, Tuxtla Gutiérrez y Villa Flores.
+
+Estado de Oaxaca: Guadalupe Etla, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Jacinto Amilpas, San Juan Bautista Atatlahuca, San Pablo Etla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, San Jerónimo Tlacochauaya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
+
+Estado de Puebla: Santiago Miahuatlán y Zinacatepec.
+
+Estado de Quintana Roo: Benito Juárez.
+
+ZONA 6
+
+Estado de México: Amecameca, Nopaltepec, Ozumba, Tepetlaoxtoc y Tlalmanalco.
+
+Estado de Nuevo León: Allende, Cadereyta Jiménez, Ciénega de Flores, General Bravo, General Terán, General Zuazua, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería y Santiago.
+
+Estado de Quintana Roo: Solidaridad.
+
+ZONA 7
+
+Estado de Jalisco: Puerto Vallarta.
+
+Estado de México: Ecatzingo y Tepetlixpa.
+
+Estado de Nuevo León: Aramberri, Cerralvo, Doctor Arroyo, General Zaragoza, Higueras y Hualahuises.
+
+Estado de Oaxaca: San Juan Bautista Tuxtepec.
+
+ZONA 8
+
+Estado de Puebla: Xocitlán.
+
+AÑO 2003
+
+ZONA 3
+
+Estado de San Luis Potosí: Villa de Arista.
+
+ZONA 4
+
+Estado de Oaxaca: Guadalupe Etla, Natividad, Oaxaca de Juárez, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Jacinto Amilpas, San Pablo Etla, San Sebastián Tutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa María del Tule, San Jerónimo Tlacochauaya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
+
+ZONA 6
+
+Estado de Oaxaca: San Juan Bautista Tuxtepec.
+
+Estado de Quintana Roo: Benito Juárez.
+
+ZONA 7
+
+Estado de México: Ozumba, San Martín de las Pirámides.
+
+Estado de Nuevo León: Allende, Lampazos de Naranjo y Linares.
+
+Estado de Quintana Roo: Solidaridad.
+
+ZONA 8
+
+Estado de Jalisco: Puerto Vallarta.
+
+AÑO 2004
+
+ZONA 5
+
+Estado de Oaxaca: San Juan Bautista Tuxtepec.
+
+ZONA 7
+
+Estado de Quintana Roo: Benito Juárez.
+
+Artículo Sexto.- Para los efectos de lo dispuesto en el artículo 223, Apartado B, fracciones I y III de la Ley Federal de Derechos, se establece lo siguiente:
+
+I. El derecho por la explotación, uso o aprovechamiento de aguas nacionales, correspondiente a municipios que en el 2000 hayan sido reclasificados de la zona de disponibilidad 7 a la zona de disponibilidad 6, se pagará al 60% de la cuota que corresponda.
+
+II. El derecho por la explotación, uso o aprovechamiento de aguas nacionales, correspondiente a municipios que en el 2000 hayan sido reclasificados de la zona de disponibilidad 8 a la zona de disponibilidad 7, se pagará al 60% de la cuota que corresponda.
+
+Artículo Séptimo.- Lo dispuesto en el artículo 148, Apartado A, fracción II, inciso g) de la Ley Federal de Derechos, entrará en vigor a partir del 1o. de julio del año 2000.
