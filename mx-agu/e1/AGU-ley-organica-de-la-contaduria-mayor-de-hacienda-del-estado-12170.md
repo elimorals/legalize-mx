@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-1217
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-06-21"
-last_updated: "1981-06-21"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento 2 al Número 25 del Periódico Oficial del Estado de Aguascalientes, el 21 de junio de 1981.
 
@@ -333,13 +333,17 @@ Las entidades que en su funcionamiento tengan que llevar contabilidad, ésta com
 
 La contabilidad de las entidades llevará con base anual acumulativa, para determinar costos y facilitar la formulación, ejercicios y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 34.
 
-Con objeto de uniformar los criterios en materia de contabilidad, la Tesorería General del Estado y la Secretaría de Planeación y Presupuesto, darán a conocer con oportunidad a la Contaduría Mayor de Hacienda, las normas, procedimientos y sistemas que implanten, a los cuales se sujetarán las entidades.
+Con objeto de uniformar los criterios en materia de contabilidad, la Secretaría de Finanzas y la Secretaría de Desarrollo Social, darán a conocer con oportunidad a la Contaduría Mayor de Hacienda, las normas, procedimientos y sistema que implanten, a los cuales se sujetarán las entidades.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 35.
 
-La Tesorería General del Estado dará a conocer con oportunamente a la Contaduría Mayor de Hacienda los programas mínimos de auditoría interna que fija para las entidades.
+La Secretaría de Finanzas dará a conocer oportunamente a la Contaduría Mayor de Hacienda los programas mínimos de auditoría interna que fija para las entidades.
 
 ###### ARTICULO 36.
 
@@ -396,3 +400,9 @@ Lic. Joaquín Cruz Ramírez.
 EL TESORERO GENERAL DEL ESTADO,
 
 C.P. Alfredo de Alba Olavarrieta.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
