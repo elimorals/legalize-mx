@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-agua-y-saneamiento-del-estado-de-puebla-7504"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-28"
-last_updated: "1994-07-22"
+last_updated: "1994-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 28 de febrero de 1992.
 
@@ -61,9 +61,21 @@ LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
 Los preceptos de esta Ley son de orden público, interés social y de observancia general en el Estado Libre y Soberano de Puebla.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2.
 
-Esta Ley tiene por objeto regular la dotación y prestación de los servicios relacionados con el suministro de agua, desalojo por medio de los sistemas de alcantarillado de las aguas usadas y las pluviales, así como el tratamiento y reuso de las aguas residuales en el Estado.
+Esta Ley tiene por objeto:
+
+I.- Regular la dotación y prestación de los servicios relacionados con el suministro de agua, desalojo por medio de los sistemas de alcantarillado de las aguas usadas y las pluviales, así como el tratamiento y reuso de las aguas residuales en el Estado.
+
+II.- Establecer las autoridades en materia de agua y saneamiento, así como los mecanismos necesarios para hacer permisible la colaboración administrativa entre ellas.
+
+III.- Regular la administración descentralizada o por colaboración administrativa de los servicios que constituyen la materia de esta Ley.
+
+IV.- Regular las relaciones entre los usuarios y las autoridades en materia de agua y saneamiento.
+
+V.- Determinar las atribuciones de las autoridades en el establecimiento y actualización de las contribuciones por los servicios que prestan las autoridades en materia de agua y saneamiento.
 
 ###### ARTICULO 3.
 
@@ -99,7 +111,9 @@ I.- Los Ayuntamientos de los Municipios del Estado, cuando presten directamente 
 
 II.- La Comisión estatal de Agua y Saneamiento.
 
-III.- Los Organismos Operadores de los Servicios de Agua Potable y Alcantarillado, que podrán ser: regionales, de zonas conurbadas, de localidades o Municipales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Los Organismos Operadores de los Servicios de Agua Potable y Alcantarillado.
 
 IV.- Las Juntas de Administración, Mantenimiento y Operación de los Sistemas de Agua Potable y Alcantarillado.
 
@@ -125,7 +139,9 @@ Junta(s) de Administración: Las Juntas de Administración, Mantenimiento y Oper
 
 Municipio: Cualquier Municipio del Estado de Puebla.
 
-Organismo(s) Operador(es): Los Organismos Operadores de los Servicios de Agua Potable y Alcantarillado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Organismos Operadores Regionales o Intermunicipales: los Organismos Operadores Regionales o Intermunicipales creados por colaboración administrativa.
 
 Servicio(s): Los que consigna el artículo 2 de la presente ley.
 
@@ -199,7 +215,13 @@ b) Los Organismos Operadores.
 
 c) Las Juntas de Administración.
 
-VIII.- Coordinar, integrar y proponer al Ejecutivo los estudios de cuotas y tarifas por la prestación de los servicios que regula esta Ley.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBREDE 1994)</small>
+
+d) Los Organismos Operadores Intermunicipales o Regionales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Actualizar las cuotas, tasas y tarifas de las contribuciones y productos, por la prestación de los servicios que presta la Comisión Estatal, conforme a los lineamientos que establece esta Ley, y emitir las tarifas que cobrarán los concesionarios por la explotación de los bienes o servicios que le correspondan.
 
 IX.- Administrar los ingresos que perciba por los servicios que preste.
 
@@ -259,7 +281,9 @@ V.- El Gerente en el Estado de la Comisión Nacional del Agua.
 
 VI.- Un Presidente Municipal que represente a cada una de las regiones económicas del Estado; y
 
-VII.- Un representante de cada uno de los Organismos Operadores que existan en el Estado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VII.- Tres representantes de los Organismos Operadores que existan en el Estado.
 
 ###### ARTICULO 17.
 
@@ -269,9 +293,11 @@ El miembro designado por el Ejecutivo fungirá como Presidente, representará al
 
 Por cada miembro propietario deberá de haber un suplente, los representantes propietarios podrán nombrar y remover libremente a sus suplentes.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 19.
 
-El libre nombramiento y remoción de los Presidentes Municipales como Vocales Propietarios, corresponderá a los Presidentes Municipales de las respectivas zonas que los eligieron.
+En el Reglamento Interior de la Comisión Estatal se hará referencia a los criterios y procedimientos que se seguirán para efectuar las designaciones a que se refieren las fracciones VI y VII del artículo 16 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 1994)</small>
 
@@ -301,7 +327,9 @@ I.- Proponer al Ejecutivo proyectos sobre los lineamientos de política y criter
 
 II.- Resolver sobre los asuntos que en materia de agua potable, alcantarillado y calidad del agua le someta a su consideración el Administrador General.
 
-III.- Proponer al Ejecutivo los estudios de cuotas y tarifas para el cobro de los servicios de agua potable alcantarillado y tratamiento de las aguas residuales que se presten en el Estado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Actualizar las cuotas, tasas y tarifas de las contribuciones y productos, por la prestación de los servicios que corresponda proporcionar a la Comisión Estatal en términos de este ordenamiento, la que se sujetará a lo dispuesto en el artículo 76, así como emitir las tarifas que cobrarán los concesionarios de los bienes o servicios cuya concesión corresponda otorgar a la Comisión Estatal.
 
 IV.- Otorgar de acuerdo con las leyes, poder especial para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial.
 
@@ -387,9 +415,11 @@ Los bienes de la Comisión Estatal, afectados directamente a la prestación del 
 
 ### CAPITULO II. DE LOS ORGANISMOS OPERADORES DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 26.
 
-Los Organismos Operadores a que se refiere la fracción III del Artículo 5 de esta Ley, deberán constituirse por acuerdo de Cabildo del Ayuntamiento respectivo y por decreto del H. Congreso del Estado, con el carácter de Organismos Públicos Descentralizados o Desconcentrados y se regirán en cuanto a su organización y funcionamiento por lo establecido en esta Ley y su Reglamento, así como por su Decreto de creación.
+Los Organismos Operadores a que se refiere la fracción III del artículo 5 de esta Ley, deberán constituirse por Acuerdo de Cabildo del Ayuntamiento respectivo y por Decreto del H. Congreso del Estado, como Organismos Públicos Descentralizados con personalidad jurídica y patrimonio propios, mismos que tendrán las atribuciones que establece esta Ley, su Reglamento y su Decreto de creación.
 
 ###### ARTICULO 27.
 
@@ -427,7 +457,9 @@ b) Comprobar el correcto cumplimiento del pago de las contribuciones que le corr
 
 c) Ejercer el procedimiento administrativo de ejecución para hacer efectivos los créditos que determine.
 
-IV.- La mejora en los sistemas de captación, conducción, tratamiento de aguas residuales, prevención y control de la contaminación de las aguas que se localicen dentro del Municipio, con excepción de las que sean de jurisdicción Federal.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- La mejora en los sistemas de captación, conducción, tratamiento de aguas residuales, prevención y control de la contaminación de las aguas que se localicen dentro del Municipio.
 
 V.- Proporcionar los servicios a su cargo, a los núcleos de población de su Municipio o región que le correspondan.
 
@@ -435,7 +467,9 @@ VI.- Formular y mantener actualizado el padrón de usuarios de los servicios a s
 
 VII.- Realizar las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la más eficiente prestación de sus servicios, en los términos de la legislación aplicable.
 
-VIII.- Elaborar los estudios necesarios que justifiquen los montos de las cuotas y tarifas apropiadas para el cobro de los servicios que preste.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Actualizar las cuotas, tasas y tarifas de las contribuciones y productos, por la prestación de los servicios que corresponda, en términos de este ordenamiento, las que se sujetarán a lo dispuesto en el artículo 76, así como emitir las tarifas que cobrarán los concesionarios de los bienes o servicios cuya concesión les corresponda otorgar.
 
 IX.- Solicitar a las autoridades competentes, la expropiación, o requisa de bienes, en los términos de Ley.
 
@@ -449,9 +483,61 @@ XIII.- Otorgar poder general para actos de administración y de dominio, así co
 
 XIV.- Realizar todas las actividades y actos jurídicos encaminados directa o indirectamente al cumplimiento de sus objetivos.
 
-XV.- Las demás que le señale esta Ley y su Reglamento, las disposiciones Federales, Estatales, y Municipales de la materia.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-Las facultades señaladas en las fracciones anteriores, las podrá ejercer la Comisión Estatal en los lugares en donde los Municipios no puedan prestar directamente los servicios de su competencia, o en donde no hayan Organismos Operadores, debiendo celebrar al efecto, los acuerdos de coordinación con los Ayuntamientos respectivos.
+XV.- Los Organismos Operadores podrán celebrar Convenios de Colaboración Administrativa para la más eficiente prestación de los servicios que regula esta Ley.
+
+En dichos Convenios se establecerán las funciones y atribuciones que se coordinan, las facultades que se ejercerán y las limitaciones a las mismas, la forma en que se proporcionará información, las estipulaciones para su terminación y las sanciones por su incumplimiento.
+
+Para su validez dichos Convenios deberán ser publicados en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XVI.- Para efectos de la colaboración administrativa a que se refiere la fracción XV de este artículo en los Convenios respectivos, los Organismos Operadores podrán integrarse para efectos de cooperación y coordinación en Organismos Operadores Intermunicipales o Regionales.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Los Organismos Operadores, previo acuerdo del Ayuntamiento respectivo, podrán ejercer todas las facultades vinculadas a la concesión de los bienes y servicios afectos al cumplimiento del objeto de esta Ley, así como celebrar los contratos administrativos necesarios para tal fin.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XVIII.- Tratándose de conseciones (sic), el Organismo Operador que se establezca en términos de esta Ley, estará facultado de manera enunciativa y no limitativa para:
+
+a).- Realizar la declaratoria de que un determinado bien o servicio se encuentra afecto al otorgamiento de una concesión, así como emitir la convocatoria respectiva.
+
+b).- Recibir, analizar y dictaminar las solicitudes de los interesados y otorgar la concesión de que se trate.
+
+c).- Emitir los contratos de concesión respectivos.
+
+d).- Vigilar el debido cumplimiento de las obligaciones de los concesionarios.
+
+e).- Constatar que los bienes afectos a la concesión sean efectivamente destinados al fin propuesto.
+
+f).- Dictar las medidas pertinentes a efecto de que no se especule con la prestación del servicio concesionado.
+
+g).- Intervenir la administración de la concesión cuando el concesionario no preste el servicio o no lo haga de manera eficaz.
+
+h).- Determinar el plazo de la concesión, mismo que se establecerá de acuerdo a la naturaleza y requerimiento de la propia concesión.
+
+i).- Establecer, modificar, revisar, y en general ejercer todas las atribuciones vinculadas a la tarifa que cobrará el concesionario.
+
+j).- Modificar las condiciones de la concesión por razones de interés público.
+
+k).- Fijar el monto y la forma de la garantía que deberá otorgar el concesionario para respaldar el debido cumplimiento de la concesión.
+
+l).- otorgar la indemnización que, en su caso, proceda en favor del concesionario.
+
+m).- Declarar extinta la concesión, en los casos de incumplimiento del plazo, falta de objeto o materia de la concesión, revocación, caducidad, rescate, renuncia o quiebra.
+
+Para efectos de esta fracción, se entenderá que el concesionario acepta la concesión por su cuenta y riesgo, así como que la aceptación de la renuncia del concesionario es optativa para la autoridad.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XIX.- Las demás que le señale esta Ley y su Reglamento, las disposiciones Federales, Estatales, y Municipales de la materia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Las facultades señaladas en las fracciones anteriores, las podrá ejercer la Comisión Estatal en los lugares en donde los Municipios no puedan prestar directamente los servicios de su competencia, o en donde no haya organismos Operadores, debiendo celebrar al efecto, los acuerdos de coordinación con los Ayuntamientos respectivos.
 
 ### CAPITULO III. DE LAS JUNTAS DE ADMINISTRACION, MANTENIMIENTO Y OPERACION DE LOS SISTEMAS DE AGUA POTABLE Y ALCANTARILLADO
 
@@ -669,9 +755,11 @@ IX.- Los plazos para la iniciación, realización y terminación de las obras.
 
 Para los efectos de la presente Ley y su Reglamento, se consideran usuarios a los propietarios o poseedores por cualquier título, de los predios, giros o establecimientos a los que se les proporcionen los servicios de agua potable y alcantarillado y tengan la obligación de hacer uso de los mismos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 59.
 
-Las personas que utilicen los servicios sin la autorización correspondiente, deberán pagar las cuotas o tarifas que correspondan a dichos servicios y se harán acreedores a las sanciones que se señalen en las leyes y disposiciones relativas.
+Las personas que utilicen los servicios sin la autorización correspondiente, deberán pagar las contribuciones o productos que correspondan a dichos servicios y se harán acreedores a las sanciones que se señalen en las Leyes y disposiciones relativas.
 
 ###### ARTICULO 60.
 
@@ -753,21 +841,33 @@ La Comisión Estatal será responsable de promover en las zonas urbanas y rurale
 
 ### CAPITULO I. DEL PAGO DE LOS SERVICIOS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 75.
 
-El H. Congreso del Estado aprobará las tarifas que se causarán por prestación de los servicios que regula esta Ley y conforme a las cuales se fijarán las cuotas, formas y plazos de pago, así como el monto de las sanciones por infracción a las disposiciones de esta Ley y su Reglamento; para todos los efectos legales a que haya lugar, el Decreto o los Decretos correspondientes se considerarán como partes integrantes de la presente Ley.
+El H. Congreso del Estado aprobará las contribuciones y productos que se causarán por la prestación de los servicios que regula esta Ley correspondiendo a la Comisión Estatal o a los Organismos Operadores actualizar las cuotas, tasas y tarifas respectivas, conforme al artículo 76 de este ordenamiento.
+
+El H. Congreso del Estado fijará mediante Decreto las sanciones por infracción a las disposiciones que regula esta Ley (sic) su Reglamento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 76.
 
-Las tarifas a que se refiere el artículo anterior, incluirán los gastos de operación, administración, mantenimiento, amortización de créditos y la constitución de un fondo de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas, así como la depreciación de activos fijos.
+Para el establecimiento y actualización de las cuotas, tasas y tarifas a que se refiere el artículo 75 de esta Ley se considerarán los gastos de operación, administración, mantenimiento, amortización de créditos y la constitución de un fondo de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas, la depreciación de activos fijos y los demás gastos que correspondan al costo real de la prestación del servicio.
+
+Para su validez el Decreto o Acuerdo que contenga la actualización deberá publicarse en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 77.
 
-Las inversiones de infraestructura hidráulica serán recuperables, por lo que se podrán considerar en la fijación de las tarifas, o recuperarse a través de contribuciones de mejoras u otro mecanismo que se establezca en la Ley.
+Las inversiones de infraestructura hidráulica serán recuperables, por lo que se considerará dicho concepto en el establecimiento o actualización de las cuotas, tasas y tarifas a que se refieren los artículos 75 y 76 de esta Ley, o bien podrán recuperarse a través de contribuciones de mejoras u otro mecanismo que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 78.
 
-Para el pago de las cuotas y tarifas, se tomará en cuenta la superficie, volumen y costo de la obra a realizar; los metros cúbicos de agua suministrada o descargada; los metros lineales de banqueta, guarnición o pavimento a reponer y en general los demás elementos que permitan el correcto cobro de dichos servicios.
+Para el pago de las contribuciones y productos se tomarán en cuenta la superficie, volumen y costo de la obra a realizar los metros cúbicos de agua suministrada o descargada; los metros lineales de banqueta, guarnición o pavimento a reponer y en general los demás elementos que permitan el correcto cobro de dichos servicios.
 
 ###### ARTICULO 79.
 
@@ -979,6 +1079,8 @@ La estimación presuntiva procederá independientemente de las sanciones a que h
 
 ### CAPITULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 97.
 
 Son infracciones cuya responsabilidad recae sobre los usuarios de los servicios objeto de esta Ley:
@@ -1073,7 +1175,7 @@ II.- No prestar a las Autoridades Competentes, el auxilio necesario para la dete
 
 ###### ARTICULO 101.
 
-Las Autoridades Competentes, impondrán las sanciones administrativas por infracción a las disposiciones que establece esta Ley y su Reglamento, de acuerdo a los montos contenidos anualmente en el decreto o los decretos a que se refiere el artículo 75 de esta Ley.
+Las autoridades competentes, impondrán las sanciones administrativas por infracción a las disposiciones que establece esta Ley y su Reglamento, de acuerdo a los montos contenidos en el Decreto a que se refiere el artículo 75 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
@@ -1192,6 +1294,16 @@ P.O. 22 DE JULIO DE 1994.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de mil novecientos noventa y cinco.
 
 ###### ARTICULO SEGUNDO.
 
