@@ -4,7 +4,7 @@ identifier: "LOTA"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-02-26"
-last_updated: "1992-02-26"
+last_updated: "1993-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOTA"
 
 LEY ORGANICA DE LOS TRIBUNALES AGRARIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 26 de febrero de 1992.
 
@@ -92,9 +92,13 @@ I.- Fijar el número y límite territorial de los distritos en que se divida el 
 
 II.- Establecer el número y sede de los tribunales unitarios que existirán en cada uno de los distritos. Las determinaciones de esta naturaleza se publicarán en el Diario Oficial de la Federación. Además, cuando se estime conveniente, podrá autorizar a los tribunales para que administren justicia en los lugares y conforme al programa que previamente se establezca;
 
-III.- Conceder licencias a los magistrados hasta por un mes con goce de sueldo, siempre que exista causa justificada y no se perjudique el funcionamiento del Tribunal, y hasta por tres meses sin goce de sueldo. En casos excepcionales, el Tribunal Superior podrá otorgar licencias sin goce de sueldo por plazos mayores;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
 
-IV.- Determinar cuando el supernumerario del Tribunal Superior deba suplir la ausencia de algún magistrado y, por lo que toca a los tribunales unitarios, cual de los supernumerarios suplirá al magistrado ausente;
+III.- Resolver sobre las renuncias de los magistrados y concederles licencias hasta por un mes con goce de sueldo, siempre que exista causa justificada y no se perjudique el funcionamiento del tribunal, y hasta por tres meses sin goce de sueldo. En casos excepcionales, el Tribunal Superior podrá otorgar licencias sin goce de sueldo por plazos mayores;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+IV.- Determinar cuando el supernumerario del Tribunal Superior deba suplir la ausencia de algún magistrado y, por lo que toca a los tribunales unitarios, cuál de los supernumerarios suplirá al magistrado ausente; en los casos en que la ausencia no exceda de 15 días, el Tribunal Superior podrá autorizar para que lo supla el secretario de acuerdos adscrito al tribunal unitario de que se trate;
 
 V.- Elegir al Presidente del Tribunal Superior de entre los magistrados que lo forman, y determinar las responsabilidades en que incurra en el desempeño de su cargo;
 
@@ -114,15 +118,27 @@ XI.- Las demás atribuciones que le confieran ésta y otras leyes.
 
 El Tribunal Superior Agrario será competente para conocer:
 
-I.- Del recurso de revisión en contra de sentencias dictadas por los tribunales unitarios, en juicios que se refieran a conflictos de límites de tierras suscitados entre dos o más núcleos de población ejidales o comunales, o concernientes a límites de las tierras de uno o varios núcleos de población con uno o varios pequeños propietarios o sociedades mercantiles;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
 
-II.- Del recurso de revisión de sentencias de los tribunales unitarios relativos a restitución de tierras;
+I.- Del recurso de revisión en contra de sentencias dictadas por los tribunales unitarios, en juicios que se refieran a conflictos de límites de tierras suscitados entre dos o más núcleos de población ejidales o comunales, o concernientes a límites de las tierras de uno o varios núcleos de población con uno o varios pequeños propietarios, sociedades o asociaciones;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+II.- Del recurso de revisión de sentencias de los tribunales unitarios relativas a restitución de tierras de núcleos de población ejidal o comunal;
 
 III.- Del recurso de revisión de sentencias dictadas en juicios de nulidad contra resoluciones emitidas por autoridades agrarias;
 
 IV.- De conflictos de competencia entre los tribunales unitarios;
 
-V.- Establecer diversos precedentes y resolver qué tesis debe prevalecer cuando diversos tribunales unitarios sustenten tesis contradictorias en sus sentencias;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+V.- Del establecimiento de jurisprudencia, para lo cual se requerirá de cinco sentencias en un mismo sentido no interrumpidas por otra en contrario, aprobadas por lo menos por cuatro magistrados.
+
+Para interrumpir la jurisprudencia se requerirá el voto favorable de cuatro magistrados y expresar las razones en que se apoye la interrupción.
+
+Asimismo, el Tribunal Superior resolverá qué tesis debe observarse, cuando diversos tribunales unitarios sustenten tesis contradictorias en sus sentencias, la que también constituirá jurisprudencia, sin que la resolución que se dicte afecte las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción.
+
+La jurisprudencia que establezca el Tribunal Superior Agrario será obligatoria para los tribunales unitarios a partir de su publicación en el Boletín Judicial Agrario;
 
 VI.- De los impedimentos y excusas de los magistrados, tanto del Tribunal Superior como de los tribunales unitarios;
 
@@ -130,7 +146,9 @@ VII.- Conocer de las excitativas de justicia cuando los magistrados del propio T
 
 VIII.- De los demás asuntos que las leyes expresamente le confieran.
 
-En los recursos de revisión corresponderá al magistrado ponente instruir el procedimiento y formular, el proyecto de resolución definitiva para someterla a la aprobación del Tribunal Superior.
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Corresponderá al magistrado ponente instruir el procedimiento y formular el proyecto de resolución definitiva para someterla a la aprobación del Tribunal Superior.
 
 ###### Artículo 10o.
 
@@ -216,9 +234,13 @@ Los tribunales unitarios conocerán, por razón del territorio, de las controver
 
 Los tribunales unitarios serán competentes para conocer:
 
-I.- De las controversias por límites de terrenos entre dos o más núcleos de población ejidal o comunal, y de éstos con pequeños propietarios o sociedades;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
 
-II.- De la restitución de tierras, bosques y aguas a los núcleos de población ejidal o comunal, así como de la reivindicación de tierras ejidales y comunales;
+I.- De las controversias por límites de terrenos entre dos o más núcleos de población ejidal o comunal, y de éstos con pequeños propietarios, sociedades o asociaciones;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+II.- De la restitución de tierras, bosques y aguas a los núcleos de población o a sus integrantes, contra actos de autoridades administrativas o jurisdiccionales, fuera de juicio, o contra actos de particulares;
 
 III.- Del reconocimiento del régimen comunal;
 
@@ -236,7 +258,21 @@ IX.- De las omisiones en que incurra la Procuraduría Agraria y que deparen perj
 
 X.- De los negocios de jurisdicción voluntaria en materia agraria; y
 
-XI.- Los demás asuntos que determinen las leyes.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+XI.- De las controversias relativas a los contratos de asociación o aprovechamiento de tierras ejidales, a que se refiere el artículo 45 de la Ley Agraria;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+XII.- De la reversión a que se refiere el artículo 97 de la Ley Agraria;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+XIII.- De la ejecución de los convenios a que se refiere la fracción VI del artículo 185 de la Ley Agraria, así como de la ejecución de laudos arbitrales en materia agraria, previa determinación de que se encuentran apegados a las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+XIV.- De los demás asuntos que determinen las leyes.
 
 ### CAPITULO SEXTO. Del Secretario General de Acuerdos y demás Servidores Públicos
 
@@ -306,7 +342,9 @@ Los peritos adscritos al tribunal estarán obligados a rendir dictamen en los ju
 
 Las relaciones laborales de los servidores públicos de base de los tribunales agrarios, se regirán por lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional.
 
-Son trabajadores de confianza: el Secretario General de Acuerdos del Tribunal Superior Agrario, los secretarios de acuerdos de los tribunales unitarios, los actuarios, peritos y demás servidores que desempeñen las funciones a que se refiere la fracción II del artículo 5o. de la ley citada en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Son trabajadores de confianza: el Secretario General de Acuerdos y los de estudio y cuenta del Tribunal Superior Agrario; los secretarios de acuerdos y de estudio y cuenta de los tribunales unitarios; los actuarios, peritos, jefes de las unidades de apoyo a la función jurisdiccional y demás servidores públicos que desempeñen las funciones a que se refiere la fracción II del artículo 5o. de la ley citada en el párrafo anterior. Los secretarios de acuerdos, de estudio y cuenta, actuarios y peritos de los tribunales unitarios, y demás categorías de servidores públicos que determine el Tribunal Superior Agrario, serán designados mediante concurso.
 
 ### CAPITULO SEPTIMO. De los Impedimentos y Excusas
 
@@ -357,3 +395,11 @@ QUINTO.- Los expedientes de los procedimientos de suspensión, privación de der
 México, D. F., a 23 de febrero de 1992.- Sen. Víctor Manuel Tinoco Rubí, Presidente.- Dip. María Esther Scherman Leaño, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Fernando Ordorica Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintitrés días del mes de febrero de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE JULIO DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para la resolución de asuntos relativos a ampliación o dotación de tierras, bosques y aguas, y creación de nuevos centros de población, a que se refiere el artículo tercero transitorio del Decreto por el que se reforma el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992, el Tribunal Superior Agrario podrá contar con una Sala Auxiliar, integrada por el mismo número de magistrados y procedimiento para su nombramiento que los que actualmente constituyen el referido Tribunal. El funcionamiento de la Sala Auxiliar se regulará por lo previsto en el Reglamento Interior de los Tribunales Agrarios y su vigencia no podrá exceder del tiempo necesario para la resolución de los asuntos que le sean turnados por el Presidente del Tribunal Superior.
