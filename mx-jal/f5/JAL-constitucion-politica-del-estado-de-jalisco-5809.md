@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2001-04-28"
+last_updated: "2001-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -414,6 +414,12 @@ VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo General del Pod
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1999)</small>
 
 IX. En el caso de quien ya hubiere sido diputado local, probar que la última vez que lo fue, cumplió con la fracción I del artículo 28 de la Constitución Política del Estado de Jalisco; si no cumplió, se requiere transcurran cuando menos ocho años a partir de la conclusión de tal cargo.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2001)</small>
+
+X. No ser Director o Secretario del Registro Estatal de Electores, presidente, secretario o comisionado electoral de las comisiones distritales o municipales electorales a menos que se separe de sus funciones noventa días antes del día de la elección.
+
+Y las demás que señale la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -2256,3 +2262,9 @@ P.O. 28 DE ABRIL DE 2001.
 PRIMERO.- Envíese copia certificada del presente dictamen de ley a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco, en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE JUNIO DE 2001.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- El presente decreto entrará en vigor el primero de marzo del 2001 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
