@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2002-11-11"
+last_updated: "2003-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -191,7 +191,9 @@ Para la determinación del impuesto aplicando las tarifas previstas en las fracc
 
 3. Se sumarán los resultados obtenidos de ejecutar los pasos 1 y 2, siendo el producto el impuesto anual a pagar.
 
-IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 6 unidades de salario.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2003)</small>
+
+IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 unidades de salario.
 
 En los casos de las parcelas afectadas por el levantamiento de predios efectuada por el INEGI, las diferentes fracciones de un contribuyente se sumarán generando el impuesto equivalente a una parcela ejidal. Este impuesto deberá cubrirse durante el primer bimestre del año.
 
@@ -1114,3 +1116,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO PEÑA MORA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ENERO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
