@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1978-08-28"
+last_updated: "1978-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1978
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -197,19 +197,33 @@ El censo electoral se levantará cada seis años y precisamente en el que corres
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 46.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto por quince Diputados electos por mayoría de votos, cada tres años; y en su caso, por Diputados de Partido en los términos del presente artículo. Los distritos electorales no podrán tener menos de cuarenta mil ni más de ciento veinte mil habitantes y por cada uno de aquellos se eligirá un Diputado Propietario y un Suplente. Los Diputados de Partido designarán de acuerdo con esta Constitución y con lo que disponga la Ley Electoral a quienes resulten nominados de acuerdo con las reglas siguientes:
+Se depósita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, compuesto por quince Diputados electos para mayoría relativa y hasta por cinco Diputados de minoría, electos en los términos del presente Artículo.
 
-I.- Todo partido político que hubiese obtenido su registro conforme a la Ley Electoral del Estado, con un año o más de anterioridad al día de la elección, al obtener cuando menos el seis y medio por ciento de la votación total en el Estado, en la elección de diputados respectiva, tendrá derecho a que se le acredite, de sus candidatos, a un diputado, que se denominará "de partido".
+Los Distritos Electorales no podrán tener menos de cuarenta mil ni más de ciento veinte mil habitantes y por cada uno de ellos se eligirá por mayoría relativa un Diputado Propietario y un Suplente.
 
-II.- Las diputaciones de partido serán acreditadas a los candidatos que mayor número de sufragios hubieren obtenido en sus distritos, a favor de sus propios partidos. La suplencia corresponderá al respectivo compañero de fórmula.
+I.- Tendrá derecho a participar en la aplicación de Diputados de minoría todo partido político.
 
-III.- El partido político que obtenga uno o más diputados de mayoría no tendrá derecho a que se le acredite diputado de partido.
+a) Que haya obtenido su registro conforme a la Ley Electoral del Estado con un año o más de anterioridad al día de la elección.
 
-IV.- Los diputados de mayoría y los de partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
+b) Que postule candidatos a Diputados en cuando menos dos terceras partes de los Distritos Electorales;
+
+c) Que no haya alcanzado dos o más Diputaciones por mayoría;
+
+d) Que haya obtenido por lo menos el dos y medio por ciento de la votación total emitida en el Estado, en la elección de que se trate.
+
+II.- En la asignación de Diputaciones de minoría se observarán, en su orden, las siguientes disposiciones:
+
+a) En primer término, cada partido político que obtuviere cuando menos el cinco por ciento de la votación global de los partidos minoritarios, le será acreditado un Diputado de minoría, excepción hecha del caso en que el número de partidos que alcanzaren el porcentaje señalado, excediera el número de Diputaciones a asignar. En este evento las Diputaciones de minoría se distribuirán de acuerdo a la cantidad total de votos obtenidos por cada partido, en orden decreciente.
+
+b) Si después de cumplir la regla establecida en la primera parte del inciso precedente aun hubiese Diputaciones por aplicar, se acreditarán en orden decreciente a los partidos que tuvieren el resto mayor de votos a su favor, una vez que les sean deducidos los que correspondan al cinco por ciento. No se podrán asignar más de dos Diputaciones de minoría a un mismo partido político.
+
+c) Las Diputaciones de minoría serán asignadas a los candidatos que mayor número de sufragios hubieran obtenido a favor de sus propios partidos, en los Distritos correspondientes. La suplencia corresponderá al respectivo compañero de fórmula.
+
+III.- Los Diputados de mayoría y los de minoría siendo representantes del pueblo, tendrán la misma categoría e iguales facultades y obligaciones.
 
 ###### Art. 47.
 
@@ -949,19 +963,23 @@ Los Municipios administrarán libremente su Hacienda, la cual se formará aparte
 
 Quedan investidos los Municipios de personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 121.
 
-Una Ley reglamentaria señalará el número de regidores y síndicos, todos con voz y voto, que juntamente con el presidente municipal, integren los ayuntamientos, tomando como base el censo de la población y detallarán sus facultades y obligaciones.
+Una Ley Reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, todos con voz y voto compongan los Ayuntamientos, que además, se integrarán en Municipios de población que exceda de doce mil habitantes y en su caso, con Regidores de Representación proporcional, quienes tendrán las mismas facultades y obligaciones que los demás.
 
-Además de los electos por planilla, y también en razón del número de habitantes, formarán parte de los ayuntamientos, en su caso, y con las mismas facultades y obligaciones, regidores de partido electos conforme a las siguientes disposiciones:
+I.- Los Regidores de Representación proporcional serán en la cantidad que corresponda al veinticinco por ciento del total de integrantes del Ayuntamiento de que se trate, incluyéndolos. Para determinar el total de componentes de un Cabildo, la base será el número de ediles señalado en la Ley Orgánica de los Municipios, al que se sumará su cuarta parte. Si de las operaciones que implican estas reglas resultan fracciones de la mitad de la unidad o mayores, se elevará el número al entero siguiente.
 
-a).- Cada uno de los partidos políticos distintos al que obtuviere mayoría de votos y que hayan participado en la elección tendrá derecho que se le reconozca un regidor de partido que será el ciudadano que haya sido postulado como primer regidor, siempre y cuando el propio partido haya obtenido, del total de la votación en el municipio de que se trate, cuando menos el 6% o más, en el caso de los municipios cuya población exceda de quinientos mil habitantes; el 14% o más, en municipios que cuenten con más de cincuenta mil habitantes y no excedan de quinientos mil y el 16% o más, en municipios que cuenten con un mínimo de doce mil habitantes y no excedan de cincuenta mil.
+II.- Para asignar las Regidurías a que se refiere la fracción anterior, se establecerá un cociente electoral, dividiendo la votación global de la elección obtenida por los partidos distintos al que hubiere logrado mayoría, entre el número de Regidurías a atribuirse por representación proporcional.
 
-b).- En ningún caso los regidores de partido podrán exceder de tres en aquellos municipios cuya población exceda de quinientos mil habitantes; de dos en los municipios que cuenten con más de cincuenta mil habitantes y no excedan de quinientos mil y de uno en los demás que proceda.
+III.- Hecho el recuento de la votación recibida a favor de cada uno de los Partidos cuyas planillas no hayan sido la elegida, se dividirá el número de votos de cada uno de ellos entre el cociente electoral
 
-c).- Cuando en un municipio hayan participado en la elección y obtenido los porcentajes correspondientes más partidos del número máximo señalando para regidores de partido, éstos serán acreditados por órden decreciente de la votación.
+Las Regidurías se acreditarán a los partidos políticos en igual número de veces que la votación a favor de cada uno de ellos contenga el cociente electoral en forma entera.
+
+IV.- La asignación a que se refiere este procedimiento recaerá en los ciudadanos que en las planillas correspondientes ocupen, en su orden, las candidaturas de Regidores.
+
+V.- Si cumplido este procedimiento faltaren regidurías por asignar, una de ellas será atribuída al partido que tenga el mayor número o resto de votos válidos y no utilizados en el recuento para la asignación inicial.
 
 ###### Art. 122.
 
@@ -1584,3 +1602,7 @@ P.O. 28 DE AGOSTO DE 1978.
 1o.- El Informe de Gobierno correspondiente al lapso que se inició el primero de marzo de 1978, comprenderá quince meses y medio aproximadamente, por razón de las presentes reformas constitucionales.
 
 2o.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 1978.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
