@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-8364"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-04"
-last_updated: "1992-06-08"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GANADERIA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 4 de agosto de 1983.
 
@@ -287,9 +287,11 @@ Las marcas de herrar se compondrán de letras, números y signos combinados entr
 
 Todos los fierros deberán tener impreso en la parte superior el número del título del propietario.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 25.
 
-Los títulos de marca de herrar, señal de sangre o tatuaje, así como las patentes respectivas, se revalidarán ante la Secretaría, previo el cumplimiento de los requisitos que para la expedición de los mismos se exigen, dentro de los años terminados en cero y cinco.
+Los títulos de marcas de herrar, señal de sangre o tatuajes, así como las patentes respectivas, se revalidarán en los años terminados en cero y en cinco ante la Presidencia Municipal que corresponda, previo el cumplimiento de los requisitos que para la expedición de las mismas se exige. La revalidación extemporánea se hará ante la propia Secretaría, sin perjuicio de la sanción que corresponda.
 
 ###### ARTICULO 26.
 
@@ -771,19 +773,21 @@ Todo ganado deberá movilizarse en unidades de transporte que permitan verlo lib
 
 ### CAPITULO III. DE LA INTRODUCCION Y SALIDA DE GANADO, SUS PRODUCTOS Y SUBPRODUCTOS
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 109.
 
-Toda introducción o salida del Estado de ganado, sus productos y subproductos, ya sean en tránsito temporal o definitivo, deberá ampararse con permiso que previamente expida la Secretaría y con la guía de tránsito que con base en el propio permiso extienda el Inspector de Ganadería que corresponda, así como con la guía sanitaria.
+Para la introducción o salida del Estado del ganado, sus productos y subproductos, deberá contarse con la autorización que previamente expida la Secretaría, y deberá además ampararse con la guía de tránsito que expida el Inspector de Ganadería y con la documentación sanitaria correspondiente. Las solicitudes respectivas deberán hacerse por conducto de la Unión Ganadera Regional de Sonora, quien emitirá su opinión al respecto.
 
-Las solicitudes para obtener tales permisos se harán por conducto de la Unión Ganadera Regional, la cual deberá turnarlas con su opinión a la Secretaría.
+Las introducciones en tránsito por el Estado, no requerirán de la autorización de la Secretaría, siendo únicamente necesario comprobar el cumplimiento de los requisitos sanitarios con el personal de inspección de las estaciones cuarentenarias o casetas de inspección, ubicadas en los principales accesos del Estado, mediante la presentación de la documentación correspondiente.
 
 ###### ARTICULO 110.
 
-La salida del Estado, de granos, pastos o concentrados de semillas oleaginosas, forrajes, productos y subproductos, que se utilicen como insumos en la ganadería, solo podrán efectuarse previo permiso que expide la Secretaría.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 111.
 
-Para la expedición de permisos, la Secretaría deberá tomar en consideración si existen necesidades generales de la población o de la ganadería que deban atenderse y satisfacerse prioritariamente. Cuando a juicio de la misma existan tales necesidades podrán negar o condicionar los permisos de introducción o salida hasta en tanto queden debidamente atendidas.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 112.
 
@@ -791,7 +795,9 @@ La Secretaría fijará en el permiso que otorgue, las condiciones que deban cump
 
 Además, el permiso estará sujeto a que se compruebe ante la misma Secretaría:
 
-I.- La buena salud del ganado, higiene y sanidad de sus productos y subproductos, tomando en cuenta lo dispuesto en el Artículo 120 del Código Sanitario del Estado y demás disposiciones locales y federales de la materia.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- La buena salud del ganado, higiene y sanidad de sus productos y subproductos, de conformidad con las disposiciones legales aplicables.
 
 II.- Que cuenten con la documentación sanitaria correspondiente.
 
@@ -801,15 +807,13 @@ La Secretaría podrá verificar el cumplimiento de lo previsto en la Fracción I
 
 ###### ARTICULO 113.
 
-los permisos serán nominativos e intransferibles y deberán ser devueltos a la Secretaría inmediatamente después de haber sido utilizados o en su defecto, a su vencimiento.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1996)
 
-El Inspector del punto de entrada o de salida del Estado, señalado en el permiso certificará al reverso de éste el número de cabezas o productos movilizados con razón de las fechas y demás datos correspondientes.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 114.
 
-Quien obtenga un permiso de introducción o salida del Estado y no cumpla las condiciones establecidas en el mismo, no podrá obtener un nuevo permiso durante tres años, sin perjuicio de sancionársele conforme a ésta u otras Leyes.
-
-Esta disposición es aplicable tanto al titular del permiso como a quien autorice o conduzca la movilización.
+Quien obtenga autorización de introducción o salida del Estado y no cumpla las condiciones establecidas en el mismo, será sancionado conforme lo establece esta Ley, sin perjuicio de la responsabilidad civil o penal en que pueda incurrir. Lo anterior es aplicable tanto al titular de la autorización como a quien ordene o conduzca la movilización.
 
 ###### ARTICULO 115.
 
@@ -819,107 +823,105 @@ Al efecto, si procediere entregarlo al conductor o a quien se ostente como su pr
 
 Si no procediese la entrega o el propietario fuere desconocido, se procederá en los términos que para los animales mostrencos fija esta Ley.
 
-### CAPITULO IV. DE LOS MATADEROS PARA EL ABASTO PUBLICO
+(REFORMADO EN SU DENOMINACION, B.O. 30 DE DICIEMBRE DE 1996).
+
+### CAPITULO IV. DE LA INSPECCION Y VIGILANCIA DE LOS RASTROS
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 116.
 
-Sólo podrá hacerse el sacrificio de ganado en los lugares debidamente acondicionados legalmente autorizados y cumpliéndose los requisitos respectivos.
+El servicio público de rastro se prestará en los términos de la Ley que Regula la Prestación de Diversos Servicios Públicos Municipales, lo establecido en el presente ordenamiento y los respectivos reglamentos.
 
-El sacrificio clandestino será sancionado conforme a esta Ley, sin perjuicio de la aplicación del Código Penal del Estado, si existiere la comisión de algún delito.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 117.
 
-El funcionamiento de los rastros o mataderos será autorizado por la Autoridad Municipal correspondiente, previa aprobación de la Secretaría y de la Autoridades Sanitarias.
+Sólo en los rastros podrá sacrificarse el ganado, salvo lo previsto en los artículos 127, 128 y 129 de esta Ley.
+
+El sacrificio clandestino será sancionado conforme a este ordenamiento, sin perjuicio de las sanciones penales si existiere la comisión de algún delito.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 118.
 
-Los rastros o mataderos, para su operación deberán llenar los siguientes requisitos.
+Para los efectos de la inspección y vigilancia ganadera, la Secretaría llevará un registro de los rastros que funcionen en el Estado.
 
-I.- Pisos y paredes completamente lisos, de materiales impermeables, fácil de lavar y limpiar, sistemas de rieles para el colgado y conducción del ganado sacrificado y de los canales.
-
-II.- Laboratorio de análisis.
-
-III.- Sala de inspección sanitaria perfectamente iluminada.
-
-IV.- Sellos oficiales y registrados por la Secretaría, para el sellado de canales.
-
-V.- Departamento para el lavado de vísceras comestibles, equipado con utensilios de material inoxidable para el depósito de las mismas.
-
-VI.- Cámara de refrigeración y cámara de congelación.
-
-VII.- Saladero.
-
-VIII.- Balanza.
-
-IX.- Corrales funcionales con puertas asegurables apropiadas para el fácil, pronto y adecuado manejo, inspección de carga y descarga y para el separo de los ganados con chutes especiales.
-
-X.- Abastecimiento de agua fría y caliente a presión.
-
-XI.- Los demás requisitos e instalaciones sanitarias que exigen, o que en lo futuro se establezcan en los Códigos Sanitarios Federal, del Estado y Reglamentos respectivos.
-
-Los rastros o mataderos que funcionen actualmente en la entidad, que no satisfagan los requisitos que se señalan en este Artículo, dispondrán de un plazo de previo estudio socio – económico y técnico, les conceda la Secretaría para que dentro del mismo regularicen su situación.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 119.
 
-En todo rastro o matadero habrá un Administrador o Encargado que será nombrado por la Autoridad Municipal respectiva, la que será responsable del uso correcto y la custodia de los sellos oficiales que hayan sido autorizados para el uso del rastro a su cuidado.
+Cuando la intensidad de las labores en algún rastro lo justifique, la Secretaría designará un inspector particularmente adscrito al mismo, y cuando no sea así, éstos establecimientos quedarán adscritos al inspector de la zona ganadera donde se encuentre.
 
-En aquellos rastros de intensa actividad, y cuando la Secretaria lo estime necesario se nombrará un Inspector de Ganadería adscrito a dicho rastro, con todas las facultades y obligaciones que establece esta Ley. Designación similar se hará para los rastros TIF, en lo que respecta a la inspección ganadera.
-
-En poblados donde, por el bajo índice de sacrificio no se requiere la asignación de un Administrador permanente, el propio Inspector de Ganadería de la Zona, correspondiente podrá ejercer estas funciones.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 120.
 
-Todo Administrador o Encargado de un rastro matadero deberá reunir los requisitos que señale esta Ley para ser Inspector; además, no podrá ser abastero ni tablajero.
+El inspector adscrito al rastro o de la zona ganadera correspondiente, inspeccionará el ganado destinado al sacrificio en los separos de los toriles para entrar al matadero, previo descanso de doce horas como mínimo, y revisará la documentación respectiva para comprobar la legítima propiedad en los términos de esta Ley, así como la sanidad animal y el pago de los derechos fiscales correspondientes. Cumplidos estos requisitos, el inspector procederá a cancelar la guía de tránsito respectiva amparando el legítimo sacrificio del ganado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 121.
 
-Los Administradores o Encargados de rastros o mataderos serán responsables de la legalidad de los sacrificios, de que previamente se hayan cubierto los derechos respectivos, del sellado de los canales que se deriven de los mismos y además de todos aquellos datos que para tal fin le sean requeridos por la Secretaría.
+Si se detectare alguna irregularidad o la posible comisión de algún delito, el inspector de ganadería impedirá el sacrificio de ganado, inmovilizará a éste y dará aviso a la Secretaría y a las autoridades correspondientes.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 122.
 
-En todo rastro o matadero se llevará por los Encargados de ellos, un registro diario de reseñas, en que cuidadosamente se anotará el nombre del vendedor, del introductor, lugar de procedencia, especie, sexo, raza, color, fierro y marcas de cada animal.
+Los administradores, encargados o empleados de los rastros en ningún momento permitirán el sacrifico de ganado si no se ha comprobado ante el inspector que corresponda la legítima propiedad del mismo y el cumplimiento de las obligaciones sanitarias y fiscales.
 
-Los registros de los mataderos podrán ser revisados en cualquier tiempo por los Inspectores de Ganadería, por los representantes de los Organismos Ganaderos del Estado y por la Autoridades Administrativas, pudiendo ser cualquiera de ellos las gestiones necesarias que procedan para remediar las irregularidades que descubran o denunciarlas a quienes corresponda para su corrección y castigo.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 123.
 
-Los Administradores o Encargados de los rastros o mataderos deberán rendir mensualmente un informe a la Secretaría y a la Autoridad Municipal correspondiente, acerca del movimiento de ganado y sacrificio, con expresión de los datos del registro y de los derechos pagados, dentro del plazo que señale la propia Secretaría.
+Los administradores o encargados de los rastros enviarán mensualmente a la Secretaría un informe sobre el movimiento y sacrificio del ganado, su edad, sexo, raza, señal de sangre y marca de herrar.
 
-Estas mismas obligaciones serán aplicables a los Administradores o Encargados de los rastros TIF.
+Los registros de los rastros podrán ser revisados en cualquier tiempo por los inspectores de ganadería o por las autoridades administrativas, debido a demandas de la misma actividad o a propuesta de los representantes de los organismos ganaderos del Estado, quienes podrán hacer las gestiones necesarias que procedieren para remediar las irregularidades que descubran o denunciarlas a quienes correspondan para su corrección y sanción.
 
 ###### ARTICULO 124.
 
-La revisión del ganado que vaya a sacrificarse, debe hacerse por los Administradores o Encargados de mataderos en el momento inmediato anterior al sacrificio. La revisión consiste en la identificación de las características de los animales destinados para tal fin, teniendo a la vista los documentos comprobatorios de la propiedad y de que se han llenado los demás requisitos que exige la Ley, estando obligados a denunciar a su Superior y a la Secretaría, cualquier infracción que descubriere y a inmovilizar los animales.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1996)
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 125.
 
-Para proceder al sacrificio, el ganado deberá ser inspeccionado por la Autoridad Sanitaria, para certificar su buen estado de salud.
+Se prohibe el sacrifico de ganado en estado de gestación así como en estado de suma desnutrición o flacura con fines de consumo humano inmediato, salvo autorización de la Secretaría por circunstancias que así se justifiquen en el estudio técnico que al efecto se realice.
+
+En ningún caso se autorizará el sacrificio del ganado enfermo con fines de consumo humano.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 126.
 
-Se prohibe el sacrifico de hembras de ganado en gestación, en estado de suma desnutrición o flacura, con fines de consumo humano inmediato, salvo autorización de la Secretaría por circunstancias que así se justifiquen en el estudio técnico que se realice para tal efecto.
+La movilización de productos y subproductos del ganado sacrificado en rastros, no requiere guía de tránsito, amparando su propiedad la documentación que expida el rastro. Se exceptúa de lo anterior a las pieles cuya movilización requerirá de la guía expedida por el inspector correspondiente.
 
-En ningún caso se autorizará el sacrificio de ganado enfermo con fines de consumo humano.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 127.
 
-El ganado destinado al sacrificio deberá estar inspeccionado en los separos de los toriles, para entrar al matadero previo descanso de doce horas como mínimo y en la forma que al efecto establezca la Secretaría.
+El sacrifico de ganado con fines de consumo familiar, en poblados donde no exista rastro público, podrá ser autorizado por la autoridad municipal y revisados los animales por el inspector de ganadería respectivo.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 128.
 
-El sacrificio de ganado con fines de consumo familiar, en poblados en que no exista rastro público, podrá ser autorizado por la Autoridad Municipal y revisados los animales por el Inspector de Ganadería respectivo.
+En los asientos de producción podrá sacrificarse ganado por disposición de su propietario para consumo propio, previa autorización de la autoridad municipal o del inspector de ganadería correspondiente. En este caso deberán presentarse dentro de los cinco días siguientes al sacrifico, las orejas unidas a la piel del animal para que sean revisadas por la autoridad que haya dado la autorización, quien sancionará la legalidad del sacrificio.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 129.
 
-En los asientos de producción podrá sacrificarse ganado por disposición de su propietario para consumo propio, en este caso, deberán presentarse dentro de los cinco días siguientes al sacrificio, las orejas unidas a la piel del animal para que sean revisadas por el Inspector de Ganadería y por la Autoridad Municipal correspondiente, quienes sancionarán la legalidad del sacrificio.
+Cuando el ganado sea bronco o por cualquier circunstancia haya necesidad de sacrificarlo en el campo, deberá su propietario recabar previamente la autorización por escrito de la autoridad municipal o del inspector de ganadería de la zona respectiva. Una vez consumado el sacrificio, se presentará ante la autoridad que otorgó la autorización la respectiva piel y orejas unidas a ésta de los animales sacrificados.
 
-El traslado de la piel deberá ampararse con la guía de tránsito respectiva, que para el caso extenderá la Autoridad que efectuó la revisión de la misma.
-
-Las infracciones a las disposiciones anteriores se sancionarán en la forma en que se establece en el Capítulo respectivo. Se concederá una participación de un 50% a la persona que las denuncie a las Autoridades competentes.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 130.
 
-Cuando el ganado sea bronco o cuando por cualquier circunstancia haya necesidad de sacrificarlo en el campo, deberá previamente recabarse la autorización por escrito de la Autoridad Municipal más cercana de la jurisdicción. Una vez consumado el sacrificio se presentarán ante la citada autoridad las respectivas pieles y orejas unidas a las mismas de los animales sacrificados. Asímismo, quien lo sacrificó o mando sacrificar, deberá justificar su derecho o autorización para disponer de ellos. Cuando se trate de ganado caballar que éste herrado u orejano de otras especies sólo con la autorización de la autoridad municipal podrá sacrificarse.
+En los casos a que se refieren los tres artículos anteriores, la movilización de productos y subproductos de ganado sacrificado deberán ampararse con la guía de tránsito respectiva que expida el inspector de ganadería correspondiente, donde se hará referencia a la autorización otorgada para el sacrificio.
+
+Las infracciones a las disposiciones anteriores se sancionarán en los términos de esta Ley. Se concederá una participación de un 50% a la persona que las denuncie a las autoridades competentes.
 
 ###### ARTICULO 131.
 
@@ -941,9 +943,11 @@ La carne de ganado sacrificado fuera de la entidad, con fines de introducirla po
 
 ### CAPITULO V. DE LA COMERCIALIZACION DE PRODUCTOS Y SUBPRODUCTOS
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 134.
 
-Toda curtiduría o saladero de pieles deberá contar con la autorización expresa de la Secretaría para poder realizar sus funciones.
+Toda curtiduría o saladero de pieles deberá registrarse ante la Secretaría dentro de los treinta días siguientes al inicio de sus operaciones.
 
 ###### ARTICULO 135.
 
@@ -1221,29 +1225,21 @@ Queda prohibida la instalación de granjas avícolas y de gallineros de cualquie
 
 ### CAPITULO III. DEL REGISTRO DE EMPRESAS Y PRODUCTORES
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 177.
 
-Todo avicultor deberá inscribirse en la Secretaría para obtener el registro correspondiente. Para tal efecto deberá manifestar con veracidad y precisión los siguientes datos:
+Todo avicultor deberá dar aviso de inicio de operaciones de sus granjas a la Secretaría, proporcionándole toda la información correspondiente a infraestructura y número de aves en explotación, con las especificaciones respectivas.
 
-I.- Nombre o razón social y domicilio del solicitante.
-
-II.- Ubicación.
-
-III.- Superficies de gallineros techados en metros cuadrados, con sus sistemas de explotación, pisos o jaulas.
-
-IV.- Número de aves en explotación, con especificación de especies si se trata de reproductoras en postura, en crecimiento o especie en engorda.
-
-V.- Naturaleza de los edificios, con especificaciones de todos los detalles de construcción, maquinaria y utensilios de que disponga la empresa.
-
-Lo anterior se observará sin perjuicio de la intervención que corresponda a las Autoridades Sanitarias.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 178.
 
-El registro de las empresas o productores no causará pago alguno y los beneficiados deberán conservarlo para exhibirlo cuantas veces sea solicitado por la Autoridad correspondiente.
+El aviso que hagan las empresas o productores, deberán de conservarlo para exhibirlo cuantas veces sean requeridos por las autoridades correspondientes.
 
 ###### ARTICULO 179.
 
-Es obligación de las Autoridades Municipales vigilar que toda granja avícola éste registrada y autorizada como lo dispone la presente Ley. Estas mismas Autoridades quedan facultadas para imponer a favor del erario municipal multas de acuerdo con el Capítulo respectivo, según la importancia de la negociación o crías, si no cumplimentan el registro, dando parte a la Secretaría; pero en ningún caso las Autoridades Municipales podrán otorgar concesiones o plazo de ninguna naturaleza, sin previo acuerdo de la citada Secretaría. La propia Secretaría podrá aplazar el cobro, modificar o cancelar la multa.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1996)
 
 ### CAPITULO IV. DEL CONTROL SANITARIO Y DE LA MOVILIZACION
 
@@ -1323,9 +1319,11 @@ La Secretaría llevará un registro de las marcas aprobadas y pasará copia de l
 
 La Secretaría no aceptará el registro de marcas semejantes, dará preferencia a la presentada en primer término y exigirá que los solicitantes posteriores presenten marcas distintas.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 191.
 
-Las marcas deberán revalidarse dentro de los años terminados en cero y cinco. La infracción a esta disposición se sancionará en los términos establecido en el Capítulo respectivo.
+Las marcas deberán revalidarse en los años terminados en cero y cinco en la Presidencia Municipal que corresponda. La revalidación extemporánea se realizará ante la Secretaría sin perjuicio de la sanción que corresponda.
 
 ###### ARTICULO 192.
 
@@ -1399,13 +1397,17 @@ III.- En las bodegas, plantas de extracción, sedimentación y envasado.
 
 Para el control sanitario de la movilización de los apiarios, colmenas, sus productos y subproductos, se observará lo dispuesto en los Capítulos relativos de la presente Ley, en cuanto les fueren aplicables.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 206.
 
-Para movilizar apiarios dentro de la entidad con el propósito de ubicarlos en un nuevo sitio, deberá solicitarse autorización de la Secretaría acompañando el plano descriptivo de la zona, en la cual deberán señalarse los colmenares existentes.
+Para la movilización de apiarios se requiere de la guía de tránsito que expida el inspector respectivo, previa acreditación de la legítima propiedad de los apiarios y el cumplimiento de las disposiciones sanitarias con la documentación correspondiente.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 207.
 
-Toda persona que desee introducir al Estado colmenas, abejas, sus productos y subproductos procedentes de otra entidad, deberá solicitar permiso a la Secretaría por conducto de la Asociación Apícola, anexando plano del sitio donde pretenda instalar los apiarios debiendo señalar los colmenares cercanos ya existentes y previa presentación de la guía sanitaria y de la guía de tránsito.
+Toda persona que desee introducir al Estado, colmenas abejas, sus productos y subproductos procedentes de otra entidad, deberá solicitar la autorización a la Secretaría por conducto de la Asociación Apícola correspondiente.
 
 ###### ARTICULO 208.
 
@@ -1459,29 +1461,21 @@ Queda prohibida la instalación de granjas porcícolas en los centros de poblaci
 
 ### CAPITULO III. DEL REGISTRO DE EMPRESAS Y PRODUCTORES
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 217.
 
-Todo porcicultor deberá inscribirse en la Secretaría para obtener el registro correspondiente. Para tal efecto, deberá manifestar los siguientes datos.
+Todo porcicultor deberá dar aviso de inicio de operaciones de sus granjas a la Secretaría, proporcionándole toda la información correspondiente a infraestructura y número de porcinos en explotación con las especificaciones respectivas.
 
-I.- Nombre o razón social y domicilio del solicitante.
-
-II.- Ubicación.
-
-III.- Número de animales en explotación, especificando si se trata de pié de cría o de engorda.
-
-IV.- Sistema de explotación.
-
-V.- Naturaleza de la infraestructura, con especificación de detalles.
-
-Lo anterior se observará sin perjuicio de la intervención que corresponda a la Autoridades Sanitarias.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 218.
 
-El registro de las empresas o productores no causará pago alguno y se deberá conservar para exhibirlo cuantas veces le sea solicitado por la Autoridad competente.
+El aviso que hagan las empresas a productores deberán conservarlo para exhibirlo cuantas veces sea requerido por las autoridades correspondientes.
 
 ###### ARTICULO 219.
 
-Es obligación de las Autoridades Municipales vigilar que toda granja porcícola esté registrada y autorizada como lo dispone la presente Ley. Estas misma Autoridades quedan facultadas para imponer en favor del erario municipal, multas de acuerdo con el Capítulo de Sanciones, según la importancia de la negociación o cría, si no cumplimentan el registro, dando parte a la Secretaría; pero en ningún caso las Autoridades Municipales podrán otorgar concesiones o plazo de ninguna naturaleza sin previo acuerdo de la citada Secretaría.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 1996)
 
 ### CAPITULO IV. DEL CONTROL SANITARIO Y DE LA MOVILIZACION
 
@@ -1630,3 +1624,9 @@ B.O. 8 DE JUNIO DE 1992.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
