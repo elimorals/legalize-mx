@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1970-01-17"
+last_updated: "1970-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 1970.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2540,13 +2540,9 @@ Terminada la sección de ejecución se agregará al cuaderno principal del juici
 
 ARTICULO 458 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-ARTICULO 459
+ARTICULO 459 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
-
-ARTICULO 460
-
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
+ARTICULO 460 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
 ARTICULO 461
 
@@ -5790,19 +5786,17 @@ Los gastos generales del apeo se harán por el que lo promueva. Los que importen
 
 ### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+
 ARTICULO 938
 
-Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
+Se tramitará en la forma de incidente, que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La habilitación para comparecer en juicio que solicite el menor de más de dieciocho años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad está (sic) ausentes; se ignore su paradero o se nieguen a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobare buena conducta y aptitud para el manejo de sus negocios;
+I.- La autorización judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
 
-II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho años sujetos a patria potestad o tutela si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+II.- El permiso para contratar con su marido o para obligarse solidariamente a ser su fiadora, que solicite la mujer casada; y
 
-III.- La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
-
-IV.- El permiso que para contratar con su marido o para obligarse solidariamente o ser su fiadora, solicite la mujer casada;
-
-V.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
+III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
 
 ARTICULO 939
 
@@ -6243,3 +6237,9 @@ Se faculta al Tribunal Pleno para tomar todos los acuerdos que considere necesar
 D.O.F. 17 DE ENERO DE 1970.
 
 UNICO.- Este decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 28 DE ENERO DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
