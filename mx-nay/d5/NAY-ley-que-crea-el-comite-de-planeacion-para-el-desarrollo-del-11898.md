@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-el-comite-de-planeacion-para-el-desarrollo-del-118
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-11"
-last_updated: "1983-12-28"
+last_updated: "1984-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE CREA EL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1984.
 
 Ley Publicada en la Primera Sección del Periódico Oficial del Estado de Nayarit el Miércoles 11 de Marzo de 1981.
 
@@ -85,7 +85,7 @@ I.- Un Presidente, que será el C. Gobernador Constitucional del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-II.- Un Coordinador General, que será designado por el Jefe del Poder Ejecutivo.
+II.- Un Coordinador General que será designado por el Jefe del Poder Ejecutivo.
 
 III.- Los Titulares de las Dependencias del Ejecutivo Estatal que señale el C. Gobernador del Estado;
 
@@ -99,11 +99,7 @@ VI.- Los Ciudadanos Presidentes Municipales;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-VII.- El Titular de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal en el Estado, quien actuará como Secretario Técnico del Comité.
-
-Asimismo, a invitación expresa del C. Gobernador del Estado podrán participar:
-
-VIII.- Los CC. Diputados a la Honorable Legislatura Local.
+VIII.- El Titular de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal en el Estado, quien actuará como Secretario Técnico del Comité.
 
 IX.- Los Representantes de las Organizaciones Mayoritarias de Trabajadores, de Campesinos de Profesionales, de Técnicos, así como de las Sociedades Cooperativas que actúen a nivel Estatal y estén debidamente registradas ante las Autoridades correspondientes;
 
@@ -273,6 +269,10 @@ A juicio de cada Director, previo acuerdo tomado con el Presidente del Comité, 
 
 La remuneración del personal que preste sus servicios en las áreas a que se refiere el artículo 10 de esta Ley, será cubierta con los recursos asignados al Comité de Planeación para el Desarrollo del Estado de Nayarit.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1984)</small>
+
+Los servidores públicos de base, se regirán por los ordenamientos del Estatuto Jurídico de los Trabajadores al Servicio del Estado, Municipios e Instituciones Descentralizadas de carácter Estatal de Nayarit, y tendrán carácter retroactivo los beneficios inherentes a su antigüedad.
+
 TRANSITORIO :
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, quedando abrogadas o derogadas en su caso las disposiciones que se opongan al mismo.
@@ -298,3 +298,7 @@ P.O. 28 DE DICIEMBRE DE 1983
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día primero de enero de mil novecientos ochenta y cuatro y deberá ser publicado en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 6 DE JUNIO DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
