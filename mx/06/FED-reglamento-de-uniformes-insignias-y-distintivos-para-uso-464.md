@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-insignias-y-distintivos-para-uso-464"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-05-21"
-last_updated: "1980-05-21"
+last_updated: "1981-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=464&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1980-05-12"
 ---
 # REGLAMENTO DE UNIFORMES, INSIGNIAS Y DISTINTIVOS PARA USO DEL PERSONAL PERTENECIENTE A LA MARINA MERCANTE DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 1981 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE UNIFORMES, INSIGNIAS Y DISTINTIVOS PARA USO DEL PERSONAL PERTENECIENTE A LA MARINA MERCANTE DE MEXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE FEBRERO DE 1981.</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 1980.
 
@@ -163,7 +163,9 @@ Patrones marineros.
 
 Patrones fluviales.
 
-Dragones (sic) de primera, segunda y tercera.
+> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1981)</small>
+
+Dragadores de primera, segunda y tercera.
 
 Patrones motoristas.
 
@@ -501,7 +503,9 @@ Uniforme blanco de gala de verano.
 
 Uniforme diario de invierno.
 
-Uniforme diario de (sic)
+> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1981)</small>
+
+Uniforme diario de verano.
 
 Uniforme de faenas.
 
@@ -1469,9 +1473,11 @@ a).- Fornitura de cuero sillero de cinco fierros de color negro, compuesto de ci
 
 ### CAPITULO XIV. Bandas de Guerra
 
+> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1981)</small>
+
 ###### ARTICULO 97.
 
-El equipo de las bandas de guerra para las escuelas náuticas mercantes, estará compuesto de cornetas y tambores. Las cornetas serán de latón dorado, de cada superior e inferior, campana o pabellón y anilleta superior e inferior. Su sonido será en tono de si bemol.
+El equipo de las bandas de guerra para las escuelas náuticas mercantes, estará compuesto de cornetas y tambores. Las cornetas serán de latón dorado, de caña superior e inferior, campana o pabellón y anilleta superior e inferior. Su sonido será en tono de si bemol.
 
 ###### ARTICULO 98.
 
@@ -1545,9 +1551,11 @@ c).- Jefe de máquinas.
 
 d).- Primero, segundo, tercer y cuarto oficial de máquinas.
 
+> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1981)</small>
+
 ###### ARTICULO 105.
 
-Los alumnos de las escuelas náuticas mercantes que pertenezcan al cuadro de honor, usarán estrella metálica color plateado de cinco puntos, e irá colocada a la altura de la tetilla izquierda.
+Los alumnos de las escuelas náuticas mercantes que pertenezcan al cuadro de honor, usarán estrella metálica color plateado de cinco puntas, e irá colocada a la altura de la tetilla izquierda.
 
 ###### ARTICULO 106.
 
@@ -1559,7 +1567,9 @@ Uniforme blanco
 
 Uniforme de etiqueta para verano
 
-Uniforme de etiqueta para verano (sic).
+> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1981)</small>
+
+Uniforme de etiqueta para invierno.
 
 Frac.
 
