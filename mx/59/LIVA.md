@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1994-12-28"
+last_updated: "1995-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 1995.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -54,9 +54,9 @@ III.- Otorguen el uso o goce temporal de bienes.
 
 IV.- Importen bienes o servicios.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
 
-El impuesto se calculará aplicando a los valores que señala esta Ley, la taza (sic) del 10 %. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
+El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 15%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
 
 El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley.
 
@@ -64,9 +64,17 @@ El contribuyente pagará en las oficinas autorizadas la diferencia entre el impu
 
 El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 1995)</small>
+
 ###### ARTICULO 2o.
 
-(DEROGADO, D.O.F. 21 DE NOVIEMBRE DE 1991)
+El impuesto se calculará aplicando la tasa del 10% a los valores que señala esta Ley, cuando los actos o actividades por los que se deba pagar el impuesto, se realicen por residentes en la región fronteriza, y siempre que la entrega material de los bienes o la prestación de servicios se lleve a cabo en la citada región fronteriza.
+
+Tratándose de importación, se aplicará la tasa del 10% siempre que los bienes y servicios sean enajenados o prestados en la mencionada región fronteriza.
+
+Tratándose de la enajenación de inmuebles en la región fronteriza, el impuesto al valor agregado se calculará aplicando al valor que señala esta Ley la tasa del 15%:
+
+Para efectos de esta Ley, se considera como región fronteriza, además de la franja fronteriza de 20 kilómetros paralela a las líneas divisorias internacionales del norte y sur del país, todo el territorio de los estados de Baja California, Baja California Sur y Quintana Roo, el Municipio de Cananea, Sonora, así como la región parcial del Estado de Sonora comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste del municipio Plutarco Elías Calles; de ese punto, una línea recta hasta llegar a la costa, a un punto situado a 10 kilómetros, al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -86,17 +94,31 @@ b).- Los siguientes bienes:
 
 1.- Carne en estado natural;
 
-2.- Leche y sus derivados y huevo, cualquiera que sea su presentación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SUBINCISO, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
-3.- Harina de maíz y de trigo y nixtamal;
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
 
-4.- Pan y tortillas de maíz y de trigo;
+2.- Leche y huevo, cualquiera que sea su presentación;
 
-5.- Aceite vegetal comestible, manteca vegetal y animal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
-6.- Pastas alimenticias para sopa, excluyendo las enlatadas;
+3.- (DEROGADO, D.O.F. 27 DE MARZO DE 1995)
 
-7.- Café, sal común, azúcar, mascabado y piloncillo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
+4.- (DEROGADO, D.O.F. 27 DE MARZO DE 1995)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
+5.- (DEROGADO, D.O.F. 27 DE MARZO DE 1995)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
+6.- (DEROGADO, D.O.F. 27 DE MARZO DE 1995)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
+7.- (DEROGADO, D.O.F. 27 DE MARZO DE 1995)
 
 > <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -158,33 +180,31 @@ IV.- La exportación de bienes o servicios, en los términos del artículo 29 de
 
 Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 2o.-B.
 
-El Impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 6%, cuando se realice la enajenación e importación de:
+El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 0%, siempre que se trate de la enajenación de bienes que se realice al público en general en locales fijos de ventas al menudeo, que dichos locales no tengan servicio de entrega a domicilio de los bienes enajenados distintos a las medicinas de patente, y sean cualquiera de los siguientes bienes:
 
-I.- Los productos destinados a la alimentación a excepción de:
+I.- Productos destinados a la alimentación a excepción de:
 
-a).- Bebidas distintas de la leche.
+a).- Bebidas distintas de la leche, inclusive cuando las mismas tengan la naturaleza de alimentos.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+b).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos, utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos.
 
-b).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+c).- Aquéllos a los que les sea aplicable el artículo 2o.-A.
 
-c).- Los que le sea aplicable la tasa del 0 %
-
-> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
 d).- Caviar, salmón ahumado y angulas.
 
 II.- Medicinas de patente.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
-
-Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
+Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere la fracción I de este artículo, preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
 
 > <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -204,9 +224,9 @@ Los contribuyentes a que se refiere este artículo estarán obligados a recabar 
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
 
-La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos federales.
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos, salvo que se trate de derechos estatales o municipales por el servicio o suministro de agua potable.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -247,6 +267,10 @@ III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bie
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión y escisión de sociedades. En el caso de escisión de sociedades el acreditamiento se efectuará en la proporción en que se divida el capital de la escindente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 1995)</small>
+
+Para acreditar el impuesto al valor agregado en la importación de bienes tangibles, cuando se hubiera pagado la tasa del 10%, el contribuyente deberá poder comprobar que los bienes fueron utilizados o enajenados en la región fronteriza.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -652,9 +676,11 @@ I.- Las que, en los términos de la legislación aduanera, no lleguen a consumar
 
 II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
-III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa del 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en el artículo 2o-A, fracción I, inciso e) y 9o, fracción III de esta Ley.
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 1995)</small>
+
+III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional no den lugar al pago del impuesto al valor agregado o cuando sean de los señalados en el artículo 2o.-A de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -730,7 +756,9 @@ No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, si
 
 ### CAPITULO VII. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 29.
 
@@ -804,7 +832,7 @@ En los casos en que la Ley Aduanera establece como importación temporal a la en
 
 ###### ARTICULO 32.
 
-Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
+Los obligados al pago de este impuesto y las personas que realicen los actos o actividades a que se refieren los artículos 2o.-A y 2o.-B tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -820,9 +848,11 @@ III.- Expedir comprobantes señalando en los mismos, además de los requisitos q
 
 Cuando se trate de actos o actividades que se realicen con el público en general, el impuesto se incluirá en el precio en que los bienes y servicios se ofrezcan, así como en la documentación que se expida, salvo que en este último caso, el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien solicite comprobante que reúna los requisitos señalados en el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
-En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
+
+En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite. Lo dispuesto en este párrafo no se aplicará tratándose de los contribuyentes a que se refieren los artículos 2o.-A y 2o.-B de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -956,9 +986,11 @@ La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estad
 
 I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO QUINTO, FRACCION I, SEGUNDO PARRAFO, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
 
-II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en los artículos 2o-A y 2o-C de esta Ley.
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 1995)</small>
+
+II.- La enajenación de bienes o prestación de servicios cuando una u otras se exporten o sean de los señalados en los artículos 2o.-A, 2o.-B y 2o.-C de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -1408,13 +1440,43 @@ D.O.F. 28 DE DICIEMBRE DE 1994.
 
 DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO QUINTO, FRACCION I, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. 27 DE MARZO DE 1995.</small>
+
 ###### ARTICULO OCTAVO.
 
-Durante el año de 1995 se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de medicinas de patente y de productos destinados a la alimentación, con excepción de los mencionados en los artículos 2o.-A, fracción I, último párrafo y 2o.-B, fracción I incisos a), b), d) y último párrafo, de la Ley del Impuesto al Valor Agregado.
+(DEROGADO, D.O.F. 27 DE MARZO DE 1995)
 
 ## TRANSITORIO
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
+
+D.O.F. 27 DE MARZO DE 1995.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+###### ARTICULO QUINTO.
+
+Para efectos de lo dispuesto en el ARTICULO CUARTO de esta Ley, se aplicarán las siguientes disposiciones:
+
+I.- Se deroga a partir del 1o. de septiembre de 1995, el ARTICULO OCTAVO de la Ley que Reforma, Deroga y Adiciona Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 28 de diciembre de 1994.
+
+Las reformas al subinciso 2 del inciso b) de la fracción I del artículo 2o.- A; al primer párrafo y los incisos c) y d) de la fracción I del artículo 2o.- B; a la fracción III del artículo 25; al primer párrafo del artículo 32 y al último párrafo de la fracción III del propio artículo 32 y a la fracción II del artículo 41; y la derogación de los subincisos 3 a 7 del inciso b) de la fracción I del artículo 2o.- A, de la Ley del Impuesto al Valor Agregado, entrarán en vigor el 1o. de septiembre de 1995.
+
+II.- Se condona totalmente el impuesto al valor agregado y sus accesorios que hubieran causado el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, por los actos o actividades que hayan realizado del primero de enero de 1995 al 31 de marzo del mismo año, y por los cuales se hubieran causado derechos locales, estatales o municipales, excepto aquéllos que se hubieran causado por concepto de derechos por el servicio, uso, suministro o aprovechamiento de agua.
+
+Los sujetos a que se refiere el párrafo anterior, para efectos de acogerse a lo dispuesto por el mismo, no podrán efectuar el acreditamiento del impuesto al valor agregado que se les hubiera trasladado o que hubiesen pagado con motivo de la importación de bienes o servicios durante el citado periodo, destinados a la realización de cualquiera de los actos o actividades por los que se condona el impuesto al valor agregado de conformidad con esta fracción.
+
+III.- El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos gravados por la Ley del Impuesto al Valor Agregado, deducirá en la siguiente o siguientes declaraciones de pagos provisionales el monto de dichos conceptos del valor de los actos o actividades por los que deba pagar el impuesto a la tasa vigente al momento de efectuar el acto gravado por dicha Ley, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado se cancela o se restituye, según sea el caso.
+
+El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá, con la tasa que estuvo vigente al momento de efectuar el acto gravado por la citada Ley, el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración de pago provisional que corresponda al periodo en que reciba el descuento, la bonificación o efectúe la devolución.
+
+IV.- Los contribuyentes que estén sujetos a lo dispuesto por la fracción III del artículo 4o. de la Ley del Impuesto al Valor Agregado procederán a efectuar el acreditamiento o traslado del impuesto, a la tasa vigente al momento de efectuar el acto gravado por la citada Ley.
+
+Tratándose de enajenaciones que en los términos del Código Fiscal de la Federación se consideren a plazos, y en las cuales el bien enajenado hubiera sido entregado o enviado con anterioridad a la entrada en vigor de la presente Ley, y por las que el contribuyente en los términos del artículo 12 de la Ley del Impuesto al Valor Agregado hubiere optado por diferir dicho impuesto hasta que efectivamente reciba los pagos, el diferimiento será considerando que el impuesto sobre el precio pactado se causó a la tasa vigente en la fecha en que se expidió el comprobante de la enajenación de que se trate. En el caso de los intereses que se causen sobre la parte del precio no percibido efectivamente al momento de entrar en vigor esta Ley, por las enajenaciones a plazos, así como tratándose de intereses derivados de los contratos de arrendamiento financiero, el impuesto sobre los mismos se causará a la tasa vigente en el mes en que dichos intereses sean exigibles.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor el día 1o. de abril de 1995.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
