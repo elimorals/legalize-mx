@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-metrologia-10920"
 country: "mx"
 rank: "estatuto"
 publication_date: "1997-08-27"
-last_updated: "1997-08-27"
+last_updated: "2004-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10920&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-07-30"
 
 ESTATUTO ORGANICO DEL CENTRO NACIONAL DE METROLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE AGOSTO DE 2004.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de agosto de 1997.
 
@@ -47,13 +47,17 @@ Para efectos de este ordenamiento se entiende:
 
 I. Ley Ley Federal sobre Metrología y Normalización.
 
-II. Ley de Entidades Ley Federal de las Entidades Paraestatales.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+II. Ley de las Entidades Ley Federal de las Entidades Paraestatales.
 
 III. Reglamento Reglamento de la Ley Federal de las Entidades Paraestatales.
 
 IV. Estatuto Estatuto Orgánico del Centro Nacional de Metrología.
 
-V. Secretaría Secretaría de Comercio y Fomento Industrial.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+V. Coordinadora de Sector Secretaría de Economía.
 
 VI. DGN Dirección General de Normas.
 
@@ -61,9 +65,11 @@ VII. CENAM Centro Nacional de Metrología, y
 
 VIII. Director General Director General del Centro Nacional de Metrología.
 
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 4.
 
-Este Estatuto tiene por objeto regular la adscripción y organización interna de las unidades administrativas del CENAM, así como la distribución de las funciones previstas en la Ley y las que se consignan en el presente Estatuto.
+Este Estatuto tiene por objeto regular la adscripción y organización interna de las unidades administrativas y técnicas del CENAM, así como la distribución de las funciones previstas en la Ley y las que se consignan en el presente Estatuto.
 
 ###### Artículo 5.
 
@@ -73,9 +79,13 @@ El CENAM tendrá las facultades y atribuciones que le confiere la Ley.
 
 El CENAM tiene por objeto:
 
-Realizar y reproducir las unidades del Sistema General de Unidades de Medida, a fin de establecer y mantener los patrones nacionales de medidas, así como su diseminación por ser el laboratorio nacional de referencia en mediciones.
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
-Efectuar la diseminación de los patrones nacionales a través de laboratorios de calibración, con el fin de asegurar que las mediciones que se realizan en la industria y el comercio sean coherentes y uniformes.
+Realizar y reproducir las unidades del Sistema General de Unidades de Medida, a fin de establecer y mantener los patrones nacionales de medidas, incluidos los materiales de referencia certificados, así como su diseminación por ser el laboratorio nacional de referencia en mediciones, mediante la investigación científica y tecnológica en materia de metrología.
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+Efectuar la diseminación del Sistema General de Unidades de Medida, mediante servicios de medición, calibración de patrones e instrumentos de medición, certificación de materiales de referencia y otras operaciones metrológicas que sirvan para el mismo propósito, a fin de coadyuvar a asegurar la confiabilidad y uniformidad de las mediciones que se realizan en el país.
 
 ###### Artículo 7.
 
@@ -87,13 +97,21 @@ El CENAM desarrollará sus actividades por medio de sus laboratorios o aquellos 
 
 El CENAM tendrá, además de las previstas en la Ley, las funciones siguientes:
 
-I. Realizar investigación científica y desarrollo tecnológico en materia de metrología, tendentes a mejorar las capacidades de medición del CENAM, a fin de contribuir al desarrollo tecnológico del país, congruentes con las políticas y necesidades nacionales instrumentadas de acuerdo con los programas que para tal efecto se aprueben;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
-II. Establecer los criterios, programas y actividades para el desarrollo y consolidación de la Metrología Científica, en función de los programas de desarrollo industrial establecidos por la Cabeza de Sector dentro de las prioridades del Plan Nacional de Desarrollo;
+I. Realizar investigación científica y desarrollo tecnológico en materia de metrología, tendientes a mejorar las capacidades de medición del CENAM, a fin de llevar a cabo su objeto previsto en el artículo 6 de este Estatuto y contribuir al desarrollo tecnológico del país, congruentes con las políticas y necesidades nacionales instrumentadas de acuerdo con los programas que para tal efecto se aprueben;
 
-III. Proponer a la Secretaría los instrumentos, sistemas o métodos de medición, que materialicen las unidades de medida para obtener su autorización como patrones nacionales;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
-IV. Participar en las comparaciones internacionales de los patrones nacionales de medición y materiales de referencia del país, con otros laboratorios nacionales de metrología, para establecer en cada caso, las cadenas de trazabilidad horizontal y su subsecuente diseminación nacional;
+II. Establecer los criterios, programas y actividades para el desarrollo y consolidación de la Metrología Científica, en colaboración con la Coordinadora de Sector dentro de las prioridades del Plan Nacional de Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+III. Proponer a la Coordinadora de Sector los instrumentos, sistemas o métodos de medición, que materialicen las unidades de medida para obtener su autorización como patrones nacionales;
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+IV. Participar en las comparaciones internacionales de los patrones nacionales de medición y materiales de referencia del país, con otros laboratorios nacionales de metrología, para establecer en cada caso, las cadenas de trazabilidad y su diseminación nacional;
 
 V. Desarrollar y certificar materiales de referencia, adecuados para la industria nacional, conforme a sus necesidades y los objetivos y prioridades del CENAM;
 
@@ -151,9 +169,11 @@ El CENAM administrará su patrimonio conforme a los presupuestos y programas que
 
 Para el cumplimiento de sus funciones y el ejercicio de las atribuciones que conforme a la Ley, la Ley de las Entidades y su Reglamento le corresponden, el CENAM contará con la estructura orgánica señalada en el artículo 31 de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 12.
 
-Para el mejor cumplimiento de sus funciones el CENAM tendrá las Direcciones Técnicas y Administrativa de Area que fueron previamente aprobadas por la Cabeza de Sector y la Secretaría de Hacienda y Crédito Público, y son las siguientes:
+Para el mejor cumplimiento de sus funciones el CENAM tendrá las Direcciones Técnicas y Administrativa de Area que fueron previamente aprobadas por la Coordinadora de Sector y la Secretaría de Hacienda y Crédito Público, y son las siguientes:
 
 I. Dirección de Metrología Mecánica;
 
@@ -167,7 +187,9 @@ V. Dirección de Servicios Tecnológicos;
 
 VI. Dirección de Administración y Finanzas, y
 
-VII. La Contraloría Interna.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+VII. Organo Interno de Control.
 
 Cada una de las Direcciones de Area señaladas se dividirá en Jefaturas de División de la siguiente manera:
 
@@ -211,19 +233,37 @@ ii) División de Enlace Industrial
 
 VI. Administración y Finanzas:
 
-i) División de Administración
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+i) División Administrativa
 
 ii) División de Finanzas
 
-VII. Contraloría Interna:
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE AGOSTO DE 2004)</small>
 
-i) División de Seguimiento y Normatividad
+iii) División de Asuntos Jurídicos
 
-ii) División de Evaluación y Control
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+VII. Organo Interno de Control:
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+i) Area de Quejas y Responsabilidades
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+ii) Area de Auditoría Interna
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+iii) Area de Control y Evaluación y Apoyo al Buen Gobierno
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 13.
 
-En atención a las necesidades de expansión del CENAM y para el mejor cumplimiento de sus funciones y la prestación de los servicios encomendados y previamente justificados, se podrán crear nuevas Direcciones de Area, Jefaturas de División y Departamentos. Dichos cambios en la estructura orgánica del CENAM deberán ser previamente aprobados por su Consejo Directivo, la Cabeza de Sector y la Secretaría de Hacienda y Crédito Público.
+En atención a las necesidades de expansión del CENAM y para el mejor cumplimiento de sus funciones y la prestación de los servicios encomendados y previamente justificados, se podrán crear nuevas Direcciones de Area, Jefaturas de División y Departamentos. Dichos cambios en la estructura orgánica del CENAM deberán ser previamente aprobados por su Consejo Directivo, la Coordinadora de Sector y la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 14.
 
@@ -265,7 +305,9 @@ ii) Una copia del acta de la sesión.
 
 Si por cualquier motivo no se instala una sesión convocada legalmente, este hecho y sus causas se harán constar en el libro de actas, formándose un expediente de acuerdo con el primer párrafo de este inciso, y
 
-IV. El Consejo Directivo será presidido en ausencia del Secretario de Comercio y Fomento Industrial, por el Subsecretario que éste designe, en calidad de Presidente Suplente.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+IV. El Consejo Directivo será presidido en ausencia del Secretario de Economía, por el Subsecretario que éste designe, en calidad de Presidente Suplente.
 
 ###### Artículo 18.
 
@@ -301,9 +343,11 @@ II. Verificar que los integrantes del Consejo Directivo hayan recibido oportunam
 
 III. Establecer y controlar la logística de las sesiones del Consejo en el lugar que se designe para tal efecto.
 
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 21.
 
-El órgano de vigilancia del CENAM estará integrado por un Comisario Público propietario y un suplente, ambos designados por la Secretaría de Contraloría y Desarrollo Administrativo, quienes tendrán las atribuciones que les señala el artículo 60 de la Ley de las Entidades y 30 de su Reglamento.
+El órgano de vigilancia del CENAM estará integrado por un Comisario Público propietario y un suplente, ambos designados por la Secretaría de la Función Pública, quienes tendrán las atribuciones que les señala el artículo 60 de la Ley de las Entidades y 30 de su Reglamento.
 
 #### SECCION TERCERA. Del Director General
 
@@ -323,7 +367,9 @@ I. Administrar y representar al CENAM y ejercer las funciones que tenga legalmen
 
 II. Determinar, dirigir y controlar las políticas del CENAM;
 
-III. Adscribir orgánicamente las unidades administrativas del CENAM;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+III. Adscribir orgánicamente las unidades administrativas y técnicas del CENAM;
 
 IV. Realizar actos de administración y dominio, tramitar pleitos y cobranzas, expedir y suscribir títulos de crédito y celebrar operaciones de crédito en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito, pero para ceder, vender o gravar los bienes inmuebles que forman el patrimonio del CENAM, será necesario el acuerdo previo del Consejo Directivo, autorizándole para realizar esos actos y, en su caso, el decreto presidencial que lo autorice;
 
@@ -335,9 +381,19 @@ VI. Recibir reconocimientos, cargos, nombramientos, y demás preseas que se otor
 
 VII. Promover y difundir los logros científicos y técnicos así como las patentes, derechos de autor y marcas del CENAM en el ámbito nacional e internacional;
 
-VIII. Delegar facultades y obligaciones a Directores de Area y/o mandos superiores siempre y cuando dichas funciones puedan ser delegables conforme a la legislación aplicable, y
+VIII. Delegar facultades y obligaciones a Directores de Area y/o mandos superiores siempre y cuando dichas funciones puedan ser delegables conforme a la legislación aplicable, y (sic)
 
-IX. Las demás que le señalen las leyes, reglamentos y disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+IX. Certificar cualquier tipo de documento que emane de las actividades propias del CENAM y delegar esta facultad a los mandos superiores o mandos medios que sean necesarios;
+
+> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+X. Determinar la información que en el ámbito de su competencia debe ser clasificada, como reservada o confidencial, así como resguardar, controlar y actualizar el índice de los expedientes que contengan dicha información de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+XI. Las demás que le señalen las leyes, reglamentos y disposiciones aplicables.
 
 #### SECCION CUARTA. De los Directores de Area y Jefes de División
 
@@ -367,7 +423,9 @@ II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamient
 
 III. Acordar con el Director General el despacho y resolución de los asuntos encuadrados en el ámbito de su competencia;
 
-IV. Someter a la aprobación del Director General los estudios y proyectos que elaboren las Divisiones a su cargo, incluidos los programas de investigación y desarrollo y de intercomparación de los patrones nacionales con sus homólogos extranjeros o con el patrón internacional; los patrones que deben ser considerados como patrones nacionales de las magnitudes del área de su competencia; los programas de calibración y proyectos de investigación y desarrollo tecnológico para el mejoramiento de patrones y métodos de medición del área a su cargo, y los manuales técnicos, los de procedimientos y los artículos científicos que den a conocer los resultados de las investigaciones que realice el personal a su cargo;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+IV. Autorizar, en acuerdo con el Director General, los estudios y proyectos que elaboren las Divisiones a su cargo o la propia Dirección, incluidos los programas de investigación y desarrollo y de intercomparación de los patrones nacionales con sus homólogos extranjeros o con el patrón internacional; los patrones que deben ser considerados como patrones nacionales de las magnitudes del área de su competencia; los programas de calibración y proyectos de investigación y desarrollo tecnológico para el mejoramiento de patrones y métodos de medición del área a su cargo, y los manuales técnicos, los de procedimientos y los artículos científicos que den a conocer los resultados de las investigaciones que realice el personal a su cargo;
 
 V. Vigilar que se cumplan las normas y disposiciones legales en los asuntos de su competencia;
 
@@ -383,15 +441,21 @@ X. Establecer y apoyar los programas de formación de recursos humanos en materi
 
 XI. Proponer al Director General el ingreso, las promociones, las licencias y remociones del personal a su cargo;
 
-XII. Participar en la ejecución de los programas de intercambio técnico y metrológico y de personal especializado en el área de su competencia, de acuerdo a los convenios concertados por el CENAM con instituciones nacionales y extranjeras, y
+XII. Participar en la ejecución de los programas de intercambio técnico y metrológico y de personal especializado en el área de su competencia, de acuerdo a los convenios concertados por el CENAM con instituciones nacionales y extranjeras, y (sic)
 
-XIII. Las demás que les confieran las disposiciones legales aplicables, el Director General, así como las que les correspondan al área a su cargo y las que sean necesarias para el cumplimiento de la Ley.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+XIII. Determinar la información que en el ámbito de su competencia debe ser clasificada, como reservada o confidencial, así como resguardar, controlar y actualizar el índice de los expedientes que contengan dicha información, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+XIV. Las demás que les confieran las disposiciones legales aplicables, el Director General, así como las que les correspondan al área a su cargo y las que sean necesarias para el cumplimiento de la Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 27.
 
-El Organo Interno de Control del CENAM se denominará Contraloría Interna y estará a cargo de un Contralor que será designado por la Secretaría de Contraloría y Desarrollo Administrativo.
-
-El Contralor Interno tendrá obligaciones y facultades previstas en los artículos 62 de la Ley de las Entidades y 34 de su Reglamento.
+Los titulares del Organo Interno de Control, así como de las Areas de Quejas y Responsabilidades, de Auditoría Interna, y de Control y Evaluación y Apoyo al Buen Gobierno, serán nombrados por el Secretario de la Función Pública en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal; siendo que el Titular del Organo Interno de Control dependerá funcional y jerárquicamente del Secretario de la Función Pública y los Titulares de Area dependerán funcional y jerárquicamente del Titular del Organo Interno de Control, en el ámbito de sus respectivas atribuciones ejercerán las facultades conforme a lo previsto en el Reglamento Interior de dicha Secretaría.
 
 ###### Artículo 28.
 
@@ -401,7 +465,9 @@ I. Conservar los patrones nacionales asignados en el ámbito de su competencia;
 
 II. Proporcionar igualmente en el ámbito de su competencia los servicios de calibración que le soliciten;
 
-III. Apoyar el Sistema de Calidad del CENAM;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+III. Apoyar el Sistema de Calidad del CENAM, asegurando su consistencia con lo indicado en la fracción VI del artículo 26 anterior;
 
 IV. Realizar las funciones administrativas que se requieran para cumplir con los compromisos del CENAM acordes con el Plan Nacional de Desarrollo y sus programas sectoriales en materia de desarrollo industrial, y
 
@@ -419,11 +485,17 @@ III. Planear, organizar y coordinar el programa de cursos ofrecidos por el CENAM
 
 IV. Estructurar y poner en funcionamiento un Centro de Información que dé servicio a las diferentes áreas del CENAM, así como a la industria, los centros de investigación y demás instituciones interesadas en los avances tecnológicos de la metrología;
 
-V. Planear, organizar y coordinar la instalación del sistema de informática, su operación y mantenerlo actualizado para su óptimo funcionamiento y difundir la correcta aplicación de los recursos informáticos;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
-VI. Planear, organizar y coordinar los trabajos del taller de mecánica de precisión del CENAM;
+V. Planear, organizar y coordinar la infraestructura de los sistemas de comunicación externos e internos, el mantenimiento y soporte a los servicios de la red y equipos de cómputo de aplicación general, para su óptimo funcionamiento, estableciendo las políticas para promover el mejor uso y aprovechamiento de los recursos informáticos del CENAM;
 
-VII. Planear, organizar y coordinar los trabajos de apoyo al laboratorio de electrónica del CENAM, y
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+VI. Planear, organizar y coordinar los trabajos del laboratorio de tecnología de fabricación del CENAM;
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+VII. Planear, organizar y coordinar los trabajos de apoyo del laboratorio de electrónica del CENAM, y
 
 VIII. Negociar y coordinar convenios, acuerdos y demás instrumentos jurídicos de intercambio científico y tecnológico.
 
@@ -431,9 +503,13 @@ VIII. Negociar y coordinar convenios, acuerdos y demás instrumentos jurídicos 
 
 Son funciones de la Dirección de Administración y Finanzas:
 
-I. Proporcionar de manera eficiente y eficaz los recursos materiales, financieros y organizativos a las distintas áreas del CENAM, y
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
-II. Considerar y aplicar las disposiciones de racionalidad, austeridad y disciplina presupuestal emitidas por el Ejecutivo Federal a través de las Dependencias Globalizadoras.
+I. Proporcionar de manera eficiente y eficaz los recursos y servicios administrativos, financieros y jurídicos que requieran distintas áreas del CENAM, y
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+II. Considerar y aplicar las disposiciones de la Administración Pública, emitidas por el Ejecutivo Federal a través de las Dependencias Globalizadoras.
 
 ###### Artículo 31.
 
@@ -467,21 +543,31 @@ VII. Suplir al Director de Area en su ausencia cuando así se lo solicite, y
 
 VIII. Las específicas que se asignen a cada División en el Manual de Organización del CENAM.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 33.
 
-Los Jefes de División en Areas Administrativas, Financieras y de Control deberán reunir los siguientes requisitos:
+Los Jefes de División de las Areas Administrativa, Financiera, Jurídica y los Titulares de Area de Control deberán reunir los siguientes requisitos:
 
-I. Ser profesional de las áreas económicas, contables, administrativas o de ingeniería, con una experiencia en materias administrativa, financiera y de control de cinco años como mínimo;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+I. Licenciado o carrera afín, con conocimiento de las áreas administrativas, contables, económicas, jurídicas o de ingeniería, con una experiencia de cinco años como mínimo;
 
 II. Ser de reconocida solvencia moral, y
 
-III. No estar inhabilitados en el servicio público federal por la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+III. No estar inhabilitados en el servicio público federal por la Secretaría de la Función Pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 34.
 
-Los Jefes de División en las áreas administrativas, financieras y de control tendrán las funciones siguientes:
+Los Jefes de División en las Areas Administrativa, Financiera, Jurídica y los titulares de las Areas tendrán las funciones siguientes:
 
-I. Organizar, integrar y dirigir las actividades de la División, así como elaborar los planes y programas de actividades y presupuestos de la División a su cargo;
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+I. Organizar, integrar y dirigir las actividades de la División o Area, así como elaborar los planes y programas de actividades y presupuestos a su cargo;
 
 II. Elaborar y mantener actualizados los manuales de procedimientos o documentación relacionada con las actividades bajo su responsabilidad;
 
@@ -489,7 +575,9 @@ III. Asignar las responsabilidades al personal a su cargo;
 
 IV. Suplir al Director de Area en su ausencia cuando así se lo soliciten, y
 
-V. Las específicas que se asignen a cada División en el Manual de Organización del CENAM.
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+V. Las específicas que se asignen a cada división o Area en el Manual de Organización del CENAM.
 
 #### SECCION QUINTA. Del Consejo Consultivo de Investigación
 
@@ -502,6 +590,28 @@ Se integrará un Consejo Consultivo de Investigación, con el objeto de asesorar
 El Consejo Consultivo de Investigación se formará a invitación del Director General del CENAM, previa consulta con el Presidente del Consejo Directivo, con representantes de las instituciones de enseñanza superior y de investigación, un representante del Consejo Nacional de Ciencia y Tecnología y los representantes que designen las Confederaciones y Cámaras industriales en las áreas de la Metrología, así como con personas idóneas a la actividad del CENAM.
 
 El Consejo Consultivo de Investigación se constituirá y funcionará en los términos que se establezcan en sus Bases de Operación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+### CAPITULO TERCERO. De la Propiedad Industrial e Intelectual
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+###### Artículo 37.
+
+Los derechos de propiedad y de explotación de invenciones o de obras desarrolladas por toda persona que por relación laboral, por prestación de servicios profesionales o por cualquier otro motivo preste un servicio para la entidad, corresponden exclusivamente al CENAM, quien será el indicado para gestionar ante las autoridades competentes todos los trámites para la protección y registro de los derechos de propiedad industrial e intelectual.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+###### Artículo 38.
+
+Toda persona que por relación laboral, por prestación de servicios profesionales o por cualquier otro motivo preste un servicio para la entidad, y que desarrolle una invención o una obra que sea registrable a favor del CENAM, tendrá derecho a que su nombre figure como inventor o autor, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2004)</small>
+
+###### Artículo 39.
+
+El CENAM determinará discrecionalmente, en cada caso, la procedencia o no de establecer regalías o compensación complementaria a favor del inventor o del autor, así como el alcance de la misma, por el uso, disfrute y explotación de la invención o de la obra, cuando ello resultare consecuencia de las actividades profesionales prestadas a favor de la entidad o con presupuesto de ésta; en caso de que la invención o la obra desarrollada por un empleado o prestador de servicios del CENAM, no fuere resultado de las actividades profesionales prestadas en favor de la Entidad o con presupuesto de ésta, se estará a lo establecido por la fracción III del artículo 163 de la Ley Federal del Trabajo aplicada supletoriamente a la Ley Federal de los Trabajadores al Servicio del Estado.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -518,3 +628,9 @@ Inscríbase en el Registro Público de Organismos Descentralizados.
 Publíquese en el Diario Oficial de la Federación.
 
 "El Secretario del Consejo Directivo del Centro Nacional de Metrología CERTIFICA: Que en la Vigésima Sesión Ordinaria de dicho cuerpo colegiado, celebrada el dieciocho de junio de mil novecientos noventa y siete, se tomó el siguiente: Acuerdo 023/23/11/95. Se aprueba el Estatuto Orgánico del Centro Nacional de Metrología presentado por el Director General, doctor Héctor Nava Jaimes, doy fe.- México, D.F., a 30 de julio de 1997.- El Secretario del Consejo Directivo del Centro Nacional de Metrología, Juan Antonio Dorantes Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ESTATUTO.</small>
+
+D.O.F. 27 DE AGOSTO DE 2004
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
