@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1997-04-29"
+last_updated: "1997-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -1437,345 +1437,175 @@ XV. Por acuerdo de la Asamblea, certificar los documentos del archivo del Congre
 
 XVI. Las demás que le confieran la presente ley y su reglamento.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 16 DE ENERO DE 1992)</small>
+(DEROGADO CON LOS CAPITULOS Y ARTICULOS
+
+QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 ## TITULO NOVENO. Procedimiento en Materia de Responsabilidades de
 
 Los Servidores Públicos
 
-(REFORMADO CON LOS Ý ARTICULOS
+(DEROGADO CON LOS ARTICULOS
 
-QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 146.
 
-Corresponde a la Comisión de Responsabilidades instruir los procedimientos de los asuntos en que el Congreso deba resolver, erigido en Jurado de Acusación y en Jurado de Sentencia, en contra de los servidores públicos que señala el artículo 91 de la Constitución Política Local.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 147.
 
-Las denuncias serán presentadas ante el Oficial Mayor del Congreso, quien dentro de los tres días hábiles siguientes asentará la ratificación, previa identificación del denunciante .
-
-Hecha la ratificación, la turnará de inmediato a la Comisión de Responsabilidades, para que determine si es procedente o no la denuncia. De este trámite dará aviso a la Asamblea.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 148.
 
-Turnada la denuncia a la Comisión de Responsabilidades, ésta dictaminará en un plazo no mayor de 30 días hábiles, si la conducta atribuida corresponde a las enumeradas en el artículo 7º. de la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2º. de la misma Ley, así como si la denuncia es procedente y, por lo tanto, amerita la incoación del procedimiento.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1993)</small>
-
-En caso contrario, desechará de plano la denuncia, la cual podrá revisarse, a petición de parte por la Asamblea. Cuando una denuncia se hubiere desechado por insuficiencia de pruebas, con la presentación de pruebas supervenientes la Comisión podrá volverla a analizar.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1993)</small>
-
-Si resultare procedente la denunciae (sic) se presentará el dictamen a la Asamblea para su discusión y resolución.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 149.
 
-Dentro de los tres días hábiles siguientes a la aprobación del dictamen por parte de la Asamblea en que se declare la procedencia del juicio político, la Comisión comunicará al denunciado sobre la materia de la denuncia, haciéndose saber su garantía de defensa y que puede, a su elección, comparecer o informar por escrito y ofrecer pruebas, dentro de los cinco días hábiles siguientes a la notificación. La Comisión calificará la idoneidad de las pruebas, desechando las que a su juicio no sean pertinentes.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 150.
 
-La Comisión abrirá un periodo de veinte días hábiles, para el desahogo de pruebas, dentro del cual evacuará las admitidas al denunciante y al servidor público, así como las que la propia Comisión estime necesarias.
-
-Si al concluir el plazo señalado no hubiese sido posible desahogar las pruebas ofrecidas, o es preciso allegarse otras, la Comisión podrá ampliarlo por el término que resulte estrictamente necesario.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 151.
 
-Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, por un plazo de tres días hábiles, y por otros tantos a la del servidor público y sus defensores, a fin de que tomen los datos que requieran para formular sus alegatos, mismos que deberán presentar por escrito, dentro de los tres días hábiles siguientes a la conclusión del segundo plazo señalado.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 152.
 
-Transcurrido el plazo para la presentación de los alegatos, se hayan o no presentado éstos, la Comisión formulará sus conclusiones, en vista de las constancias del procedimiento. Para este efecto, analizará los hechos imputados, valorará las pruebas desahogadas, y hará las consideraciones jurídicas que procedan, para fundar la terminación o continuación del procedimiento.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 153.
 
-Si de las constancias procesales se desprende la inocencia del denunciado, la Comisión propondrá en sus conclusiones que no ha lugar a acusar.
-
-En caso contrario, las conclusiones acusatorias precisarán:
-
-I. La descripción exacta de los hechos y en cuál de los casos previstos por el Art. 7º. de la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco, encuadran; si los hechos denunciados están legalmente comprobados y cuáles son los elementos de convicción que los acreditan;
-
-II. Que quedó demostrada la presunta responsabilidad del denunciado, precisando los elementos de convicción que la llevaron a esta conclusión;
-
-III. Las circunstancias que hubiesen concurrido en los hechos; y
-
-IV. La sanción que deba imponerse.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 154.
 
-Si la Comisión resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le pondrá a disposición de la Asamblea del Congreso que, erigida en Jurado de Acusación, procederá a votar y discutir las conclusiones propuestas, siendo la misma Comisión la que las sostendrá ante dicha Asamblea.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 155.
 
-Una vez aprobadas las conclusiones acusatorias, la Asamblea, por conducto del Oficial Mayor, emplazará a la Comisión encargada de la acusación, al acusado y a su defensor para que en un término de cinco días ofrezcan sus pruebas.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 156.
 
-En esta etapa, solo se admitirán las pruebas que, ofrecidas en tiempo ante la Comisión, no hubiesen sido desahogadas, y las supervenientes que versen sobre hechos de igual naturaleza.
-
-La Asamblea podrá disponer la práctica de las diligencias que estime necesarias para el mejor conocimiento de los hechos.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 157.
 
-El desahogo de las pruebas y la práctica de las diligencias a que se refiere el artículo anterior, se llevarán a cabo en un término no mayor de quince días hábiles.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 158.
 
-Desahogadas las pruebas, o transcurrido el término para ello, la Asamblea se erigirá en jurado de sentencia y citará a la Comisión, al acusado y a su defensor, a una audiencia que se desarrollará como sigue:
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
-I. La Secretaría dará lectura a las constancias procesales, así como a las conclusiones formuladas por la Comisión, la cual hará las aclaraciones que le soliciten, el acusado, su defensor o cualquiera de los integrantes de la Asamblea;
+(DEROGADO CON LOS ARTICULOS
 
-II. Se concederá la palabra a un miembro de la Comisión, al acusado y a su defensor, para que expresen alegatos; y
-
-III. Retirados el acusado y su defensor, se discutirá y resolverá sobre la procedencia o improcedencia de la acusación y, en su caso, sobre la imposición de la sanción o sanciones pertinentes, correspondiendo al Presidente de la Asamblea hacer la declaratoria respectiva.
-
-(ADICIONADO CON LOS ARTICULOS
-
-QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 ### CAPITULO I. Del Procedimiento en el Juicio Político
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
-
 ###### Artículo 159.
 
-Cuando se presente denuncia ante el Congreso del Estado por el Ministerio Público, a fin de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el artículo 93 de la Constitución Política del Estado, y de los magistrados del Poder Judicial, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político. En este caso, la Comisión de Responsabilidades citará al denunciado y, con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen, dentro de los treinta días hábiles siguientes, donde precise, si los hechos que se atribuyen al denunciado, pueden o no ser constitutivos de delito y, además, si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 160.
 
-Recibido el dictamen correspondiente por la Asamblea, el Presidente del Congreso anunciará a este, que debe erigirse en jurado de procedencia, dentro de las 24 horas siguientes a la fecha en que se hubiese depositado el dictamen, haciéndolo saber el inculpado, a su defensor, así como al denunciante.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 161.
 
-A la hora señalada, de conformidad a lo dispuesto por el artículo anterior, previa declaración del Presidente del Congreso, este conocerá en asamblea del dictamen que la comisión le presente y actuará en los mismos términos previstos por el Art. 158, en materia de juicio político.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 162.
 
-Si la Asamblea declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y, sujeto a la jurisdicción de las autoridades competentes. En caso negativo, no habrá lugar a procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
-
-Por ningún motivo tendrán trascendencia jurídica, en los procesos penales, los procedimientos y las declaraciones a que se refiere este capítulo.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 163.
 
-No podrá seguirse proceso penal a un servidor público de los que se hace referencia en el Art. 159 de esta Ley, sin haberse satisfecho los requisitos a que se refiere este capítulo. El Congreso, a través de la Secretaría, librarán oficio al juez que conozca de la causa, a fin de que suspenda el procedimiento, en tanto se plantea y resuelve si ha lugar a proceder, ordenando deje sin efecto cualquier orden de comparecencia, para declaración preparatoria, o restrictiva de libertad, si la hubiese dictado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
-(ADICIONADO CON LOS ARTICULOS
+(DEROGADO CON LOS ARTICULOS
 
-QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 ### CAPITULO II. De la Declaración de Procedencia del Juicio Penal
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 164.
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
-
 ###### Artículo 165.
 
-Por ningún motivo, podrá disponerse trámite alguno de los establecidos en los capítulos I y II de este Título.
-
-Las declaraciones y resoluciones definitivas del Congreso del Estado, en materia de juicio político y declaración de procedencia, son inatacables.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 166.
 
-Cuando la Comisión de Responsabilidades, o la Asamblea, deba practicar una diligencia de pruebas, que requiera la presencia del denunciado, se notificará a éste, para que concurra a ella o informe por escrito. La falta de comparecencia o de informe no perjudicará al inculpado.
-
-Se podrá encomendar al juez de Primera Instancia que corresponda, la práctica de aquellas diligencias que deban desahogarse fuera del lugar de residencia del Congreso, por medio de despacho firmado por el Presidente de la Comisión de Responsabilidades, o por los Secretarios del Congreso, al que se acompañará testimonio de las constancias necesarias.
-
-El Juez de Primera Instancia practicará las diligencias que se le encomienden, con estricta sujeción a las indicaciones que aquellos le comuniquen.
-
-Para la práctica de las diligencias a que se refiere este artículo, todas las comunicaciones se entregarán personalmente, o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de gasto.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 167.
 
-Los miembros del Congreso que hayan de intervenir en algún acto del procedimiento podrán excusars4e, y ser recusados, sólo cuando tuviesen con el denunciado alguno de los vínculos que señalan las fracciones siguientes:
-
-I. Parentesco hasta el cuarto grado en cualquier línea;
-
-II. Amistad estrecha;
-
-III. Enemistad manifiesta, o
-
-IV. Ser denunciante o defensor en el procedimiento de que se trate.
-
-Sólo con expresión de causa podrá recusarse a cualquiera de los miembros del Congreso del Estado que deban participar en actos del procedimiento.
-
-La recusación podrá hacerse valer por el servidor público, desde que sea requerido para que nombre defensor y hasta la fecha en que se cite para la audiencia, en la que el Congreso se erigirá en jurado de procedimiento o de sentencia.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 168.
 
-Presentada la excusa o la recusación, la Comisión o la asamblea, en su caso, sin intervención del impugnado, la calificara dentro de los tres días hábiles siguientes.
-
-Declarada procedente la excusa o la recusación, y si se trata de un miembro de la Comisión de Responsabilidades, se llamará a otro para integrarla.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 169.
 
-La asamblea, la Comisión de Responsabilidades, el denunciante, así como el denunciado y su defensor, podrán solicitar de las oficinas o establecimientos públicos, los documentos y expedientes originales, en su caso, copias certificadas que pretendan ofrecer como prueba ante la Comisión o la asamblea y que se relacionen con los hechos motivo de estos procedimientos.
-
-Las autoridades estarán obligadas a entregar las constancias señaladas en el párrafo anterior, sin costo alguno y sin demora. Si no lo hicieren, la Comisión o la asamblea por sí, o a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, apercibida de que, en caso de no hacerlo, pondrá en conocimiento de su superior jerárquico dicha omisión para que proceda, sancionando, según sus atribuciones.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 170.
 
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Comisión o la asamblea estimen pertinentes.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 171.
 
-La Comisión o la asamblea no podrán erigirse en órgano de acusación o jurado de procedencia o sentencia, sin que antes se compruebe, fehacientemente, que el servidor público, su defensor, o el denunciante, han sido debidamente citados.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 172.
 
-Cuando en el curso del procedimiento seguido a un servidor público, de los mencionados en los Arts. 146 y 159 de esta Ley, se presentare nueva denuncia o requerimiento en su contra, se procederá respecto de ella con arreglo a este título, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
-
-Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones o dictamen, que comprenderá el resultado de los diversos procedimientos.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 173.
 
-La Comisión y la Asamblea podrán disponer las medidas de apercibimiento que fuesen necesarias, mediante acuerdo de la mayoría de sus miembros presentes, en la sesión respectiva.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 174.
 
-Las declaraciones o resoluciones aprobadas por la Comisión o la Asamblea, con arreglo a esta Ley, se comunicarán a los Tribunales del Poder Judicial, si se trata de alguno de sus integrantes, y al Ejecutivo, para su conocimiento y efectos legales, así como para su publicación en el Periódico Oficial El Estado de Jalisco. El mismo aviso se dará al Ayuntamiento respectivo, tratándose de alguno de sus munícipes.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 175.
 
-En todas las cuestiones referentes a la materia sustantiva o adjetiva, no previstas en esta Ley, se aplicarán, en lo conducente, las disposiciones de los Códigos Penal y de Procedimientos Penales del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
-(ADICIONADO CON LOS ARTICULOS
+(DEROGADO CON LOS ARTICULOS
 
-QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
+QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 ### CAPITULO III. Disposiciones Comunes para los Capítulos I y II de este Título
 
 ###### Artículo 176.
 
-Incurren en responsabilidades administrativas, los servidores públicos que infrinjan las obligaciones establecidas en el Capítulo I, del Título Tercero, de la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco.
-
-Cualquiera persona, bajo su más estricta responsabilidad, y aportando elementos de prueba, podrá denunciar actos u omisiones que impliquen responsabilidades de los servidores públicos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 177.
 
-El Congreso del Estado, por conducto del titular de la Comisión de Tesorería, para el buen funcionamiento de la administración, por incumplimiento de las obligaciones a que se refiere el artículo anterior, podrá imponer las siguientes sanciones:
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1984)</small>
-
-I. Amonestación por escrito;
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1984)</small>
-
-II. Suspensión en el empleo, cargo o comisión, hasta por treinta días;
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1984)</small>
-
-III. Destitución; y
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 1984)</small>
-
-IV. Destitución con inhabilitación, hasta por seis años, para desempeñar empleos, cargos o comisiones en el servicio público.
-
-> <small>(ADICIONADO,P.O. 12 DE ABRIL DE 1984)</small>
-
-El propio titular de Tesorería podrá autorizar al Oficial Mayor, para aplicar la primera de las sanciones señaladas.
-
-> <small>(ADICIONADO,P.O. 12 DE ABRIL DE 1984)</small>
-
-La sanción prevista en la frac. IV de este artículo, se aplicará, conforme lo dispone la Ley de Responsabilidades de los Servidores públicos del estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 178.
 
-Para aplicar las sanciones establecidas en este capítulo, con excepción de la de amonestación por escrito, se deberá estar a las siguientes reglas:
-
-I. Conocida una irregularidad, se solicitará informe al servidor público presunto responsable de la misma, haciéndole llegar, en su caso, copia de la denuncia o acta administrativa, así como la documentación en que se funden, concediéndole un término de cinco días hábiles para que produzca, por escrito, su contestación, y ofrezca las pruebas conducentes;
-
-II. Transcurrido el término mencionado en la fracción que antecede, se señalará día y hora para la celebración de una audiencia, en la que se desahogarán las pruebas ofrecidas y se expresarán los alegatos, citándose al denunciante y al servidor público, encargado para resolución, la que deberá ser pronunciada, dentro de los quince días hábiles siguientes;
-
-III. La resolución que se dicte deberá notificarse al encausado, así como al denunciante, dentro de los tres días hábiles siguientes a aquél en que se pronuncie. Cuando no se contare con elementos suficientes para resolver, o se descubriesen algunos que impliquen nueva responsabilidad a cargo del denunciado, o de otra persona, y hasta antes de la citación para pronunciar resolución, podrá ordenarse la práctica de diligencias para mejor proveer, así como el emplazamiento de los servidores públicos involucrados; y
-
-IV. De todas las diligencias que se practiquen, se levantará acta circunstanciada, que deberán suscribir quienes en ella intervengan. En caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
-
-###### Artículo 178.
-
-Para aplicar las sanciones establecidas en este capítulo, con excepción de la de amonestación por escrito, se deberá estar a las siguientes reglas:
-
-I. Conocida una irregularidad, se solicitará informe al servidor público presunto responsable de la misma, haciéndole llegar, en su caso, copia de la denuncia o acta administrativa, así como la documentación en que se funden, concediéndole un término de cinco días hábiles para que produzca, por escrito, su contestación, y ofrezca las pruebas conducentes;
-
-II. Transcurrido el término mencionado en la fracción que antecede, se señalará día y hora para la celebración de una audiencia, en la que se desahogarán las pruebas ofrecidas y se expresarán los alegatos, citándose al denunciante y al servidor público, encargado para resolución, la que deberá ser pronunciada, dentro de los quince días hábiles siguientes;
-
-III. La resolución que se dicte deberá notificarse al encausado, así como al denunciante, dentro de los tres días hábiles siguientes a aquél en que se pronuncie. Cuando no se contare con elementos suficientes para resolver, o se descubriesen algunos que impliquen nueva responsabilidad a cargo del denunciado, o de otra persona, y hasta antes de la citación para pronunciar resolución, podrá ordenarse la práctica de diligencias para mejor proveer, así como el emplazamiento de los servidores públicos involucrados; y
-
-IV. De todas las diligencias que se practiquen, se levantará acta circunstanciada, que deberán suscribir quienes en ella intervengan. En caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 179.
 
-Las resoluciones por las que se impongan las sanciones administrativas, previstas en las fracs. II, III y IV, del Art. 177, de esta Ley, podrán ser impugnadas por el servidor público, ante el Tribunal de Arbitraje y Escalafón.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 ###### Artículo 180.
 
-En todo lo no previsto en este capítulo, se estará a lo que al efecto dispone la Ley de Responsabilidades de Servidores Públicos del estado de Jalisco.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
 (DEROGADO CON EL CAPITULO Y LOS ARTICULOS
 
@@ -1790,8 +1620,6 @@ QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 ### CAPITULO UNICO. De su Integración y Funcionamiento
 
 ### CAPITULO IV. De las Sanciones Administrativas
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
 
 ###### Artículo 181.
 
@@ -1990,3 +1818,13 @@ SEGUNDO.- Tan luego entre en vigor el presente decreto, la Diputación Permanent
 TERCERO.- La Directiva electa conforme al artículo anterior, fungirá durante el período que esté comprendido desde el día de la instalación de la directiva hasta el final del mes en que ésta ocurra, en cuya última sesión deberá de elegirse nueva directiva conforme al procedimiento que se establece en este decreto.
 
 CUARTO.- Si el Congreso se encontrare en período extraordinario de sesiones a la fecha de entrada en vigor del presente decreto, se declarará de inmediato clausurado éste sin mayor trámite y los asuntos que hubieren motivado la convocatoria y se encuentren pendientes de resolución, pasarán a formar parte de la agenda normal del Congreso.
+
+P.O. 23 DE DICIEMBRE DE 1997
+
+Artículo Primero. Este decreto deroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, de fecha 22 de marzo de 1984, publicada en el Periódico Oficial "El Estado de Jalisco", el día 07 de abril de 1984 y todas aquellas disposiciones que se opongan al presente decreto.
+
+Artículo Segundo. Se deroga el Título Noveno de la Ley Orgánica del Poder Legislativo del Estado de Jalisco.
+
+Artículo Tercero. La Ley de Responsabilidades de los Servidores públicos del Estado de Jalisco y el Título Noveno de la Ley Orgánica del Poder Legislativo que se derogan, seguirán aplicándose a los responsables de conductas previstas en las mismas, realizadas durante su vigencia.
+
+Artículo Cuarto. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
