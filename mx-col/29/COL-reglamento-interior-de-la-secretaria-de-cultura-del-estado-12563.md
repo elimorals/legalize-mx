@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-cultura-del-estado-1256
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-15"
-last_updated: "1997-11-15"
+last_updated: "1998-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1998.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de noviembre de 1997.
 
@@ -62,6 +62,10 @@ Dirección de Investigaciones Históricas.
 Dirección de Bibliotecas.
 
 Dirección de Promoción.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+Coordinación de la Editorial del Gobierno del Estado.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -331,9 +335,23 @@ IX.- Evaluar la realización de cada uno de los eventos culturales; y
 
 X.- Las demás que la (sic) señalen las leyes y reglamentos o que determine el Secretario.
 
-###### ARTICULO 14.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
-Las ausencias y faltas temporales del Secretario serán suplidas por el Coordinador Técnico y a falta de éste por el Director General de Arte y Cultura. Asimismo, dichos funcionarios, en el orden mencionado, estarán autorizados para firmar por acuerdo la correspondencia oficial del titular de la dependencia que sea necesaria.
+###### Artículo 14.
+
+La Coordinación de la Editorial del Gobierno del Estado tendrá las siguientes facultades:
+
+I.- La impresión de ''EL ESTADO DE COLIMA'', periódico Oficial del Gobierno Constitucional del Estado. De conformidad con lo previsto por el artículo 20, fracción XVII, la dirección y publicación de dicho órgano estará a cargo de la Secretaría General de Gobierno;
+
+II.- El diseño e impresión de los formatos administrativos y documentos diversos de las distintas dependencias del Gobierno del Estado, así como de los organismos descentralizados que determine expresamente el Secretario de Cultura; y
+
+III.- La impresión de la (sic) publicaciones oficiales de las dependencias del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+###### Artículo 15.
+
+Las ausencias y faltas temporales del Secretario serán suplidas por el Coordinador Técnico y a falta de este por el Director General de Arte y Cultura. Asimismo, dichos funcionarios, en el orden mencionado, estarán autorizados para firmar por acuerdo la correspondencia oficial del titular de la dependencia que sea necesario.
 
 T R A N S I T O R I O S (SIC)
 
@@ -344,3 +362,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo estatal, en la ciudad de Colima, el primero de noviembre de mil novecientos noventa y siete.
 
 Atentamente.- ''SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.- EL SECRETARIO DE LA CULTURA, LIC. LUIS IGNACIO VILLAGARCÍA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
