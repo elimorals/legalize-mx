@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1989-05-04"
+last_updated: "1990-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 1990.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -668,45 +668,53 @@ VII.- Conceder licencias e incapacidades médicas en los términos y condiciones
 
 VIII.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 46.
 
 La Subdirección General de Prestaciones Económicas tendrá las funciones siguientes:
 
-I.- Dictaminar e intervenir en el otorgamiento de pensiones; aprobar las nóminas de pago de las mismas; autorizar anticipos del 100% de la pensión probable en los casos previstos por la Ley, así como el pago de gastos de funeral de los pensionistas;
+I.- Planear, organizar, normar, coordinar, controlar y evaluar el sistema integral de retiro; las actividades en materia de seguridad, higiene y medicina del trabajo; el otorgamiento y recuperación de créditos a corto y mediano plazo; la afiliación y vigencia de derechos, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil.
 
-II.- Dictaminar las solicitudes y, en su caso, autorizar el pago de indemnizaciones globales, de acuerdo con las normas establecidas;
+II.- Conceder, negar, suspender, modificar o revocar las jubilaciones y pensiones en los términos de la Ley y resolver las inconformidades que se presenten en relación con las mismas;
 
-III.- Dictaminar los asuntos relativos a accidentes y enfermedades del trabajo, así como otorgar en su caso, pensiones o indemnizaciones derivadas de los mismos y otorgar los subsidios por enfermedades no profesionales;
+III.- Aprobar las nóminas de pago de las jubilaciones y pensiones; aplicar los aumentos que para ellas determine la Junta; autorizar anticipos del 100% de la pensión probable en los casos previstos por la Ley, así como el pago de gastos de funerales de los pensionistas;
 
-IV.- Coordinar el Programa de Servicios Integrales de Retiro a Jubilados y Pensionistas;
+IV.- Dictaminar las solicitudes y, en su caso, autorizar el pago de indemnizaciones globales, de acuerdo con las normas establecidas;
 
-V.- Promover la integración y funcionamiento de las comisiones de seguridad e higiene de las Dependencias y Entidades sujetas al régimen de la Ley y de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal;
+V.- Dictaminar los asuntos relativos a accidentes y enfermedades del trabajo, así como otorgar en su caso, pensiones o indemnizaciones derivadas de los mismos y otorgar los subsidios por enfermedades no profesionales;
 
-VI.- Realizar estudios, investigaciones y estadísticas, sobre accidentes y enfermedades del trabajo, así como sugerir en su ámbito de competencia las medidas preventivas por cuanto a los mismos accidentes y enfermedades se refiere, conforme a las disposiciones aplicables;
+VI.- Coordinar el Programa de Servicios Integrales de Retiro a Jubilados y Pensionistas;
 
-VII.- Planear, organizar, normar, coordinar y controlar la operación del sistema de seguridad y vigilancia del Instituto;
+VII.- Promover la integración y funcionamiento de las comisiones de seguridad e higiene de las Dependencias y Entidades sujetas al régimen de la Ley y de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal; así como lo relativo a los comités de protección civil del Instituto.
 
-VIII.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a mediano plazo para la adquisición, por parte de los trabajadores o pensionistas sujetos al régimen de la Ley, de bienes de uso duradero, preferentemente los que tengan en venta los centros comerciales y las tiendas del Instituto;
+VIII.- Realizar estudios, investigaciones y estadísticas sobre accidentes y enfermedades del trabajo; sugerir en el ámbito de competencia del Instituto las medidas preventivas de seguridad e higiene en el trabajo y desarrollar en coordinación con la Subdirección General Médica las acciones inherentes a medicina del trabajo.
 
-IX.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a corto plazo;
+IX.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a mediano plazo para la adquisición, por parte de los trabajadores o pensionistas sujetos al régimen de la Ley, de bienes de uso duradero, preferentemente los que tengan en venta los centros comerciales y las tiendas del Instituto.
 
-X.- Calcular el monto y plazo de los créditos a corto y mediano plazo, con base en las disposiciones que dicte la Junta;
+X.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a corto plazo;
 
-XI.- Organizar, diseñar, operar y controlar el sistema de registro y recuperación de adeudos por los créditos otorgados, en coordinación con la Subdirección General de Finanzas;
+XI.- Calcular el monto y plazo de los créditos a corto y mediano plazo, con base en las disposiciones que dicte la Junta;
 
-XII.- Efectuar las gestiones administrativas necesarias para la aplicación oportuna de descuentos y recuperaciones de adeudos por concepto de créditos concedidos por el Instituto, así como la devolución de descuentos improcedentes;
+XII.- Organizar, diseñar, operar y controlar el sistema de registro y recuperación de adeudos por los créditos otorgados, en coordinación con la Subdirección General de Finanzas;
 
-XIII.- Organizar, implantar, operar y controlar el sistema de cuenta individual que facilite el otorgamiento y recuperación de los créditos;
+XIII.- Efectuar las gestiones administrativas necesarias para la aplicación oportuna de descuentos y/o recuperaciones de adeudos por concepto de créditos concedidos por el Instituto, así como la devolución de descuentos improcedentes;
 
-XIV.- Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y localizando a los deudores;
+XIV.- Organizar, implantar, operar y controlar el sistema de cuenta individual que facilite el otorgamiento, registro y recuperación de los créditos;
 
-XV.- Establecer las bases para la constitución, manejo y aplicación de fondos de garantía para los créditos otorgados por el Instituto;
+XV.- Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y los mecanismos para la recuperación de éstos;
 
-XVI.- Cancelar los adeudos de aquellos trabajadores que por alguno de los motivos que señala la Ley, estén imposibilitados de saldar sus créditos, utilizando el fondo de garantía para hacer las cancelaciones contables correspondientes; y
+XVI.- Establecer las bases para la constitución, manejo y aplicación de fondos de garantía para los créditos otorgados por el Instituto;
 
-XVII.- Las demás que señalen otras disposiciones aplicables.
+XVII.- Cancelar los adeudos de aquellos trabajadores que por alguno de los motivos que señala la Ley, estén imposibilitados de saldar sus créditos, utilizando el fondo de garantía para hacer las cancelaciones y los registros contables correspondientes;
+
+XVIII.- Establecer y operar un mecanismo de afiliación de las dependencias, entidades y organismos sujetos al régimen de la Ley, así como de sus trabajadores;
+
+XIX.- Establecer y operar el mecanismo de vigencia de derechos para los asegurados y sus familiares beneficiarios, demandantes de los seguros, servicios y prestaciones;
+
+XX.- Organizar, normar, operar y supervisar los servicios de seguridad y vigilancia de la Institución;
+
+XXI.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 47.
 
@@ -748,39 +756,51 @@ IV.- Elaborar programas culturales para los derechohabientes; y
 
 V.- Las demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 49.
 
-La Subdirección General Jurídica tendrá las funciones siguientes;
+La Subdirección General Jurídica, tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar, controlar y evaluar los servicios jurídicos así como los de registro y vigencia de derechos de la población incorporada al régimen de la Ley;
+I.- Planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones jurídicas relacionadas con el Instituto.
 
-II.- Establecer un registro y control de dependencias y entidades públicas sujetas al régimen de Ley;
+II.- Representar al Instituto para su defensa jurídica en las gestiones judiciales, extrajudiciales y administrativas, en los términos de los poderes otorgados; en las Delegaciones del Instituto, dicha defensa jurídica estará a cargo del titular de la Unidad Jurídica respectiva;
 
-III.- Asesorar a los órganos de gobierno y unidades administrativas del Instituto, así como proponer los criterios de interpretación administrativa de las disposiciones jurídicas que norman el funcionamiento del mismo;
+III.- Interponer las demandas judiciales, formular los informes previo y justificado en los juicios de amparo, y promover los recursos de revisión, queja y reclamación de los casos donde el Instituto sea parte;
 
-IV.- Representar al Instituto para su defensa jurídica en las gestiones judiciales, extrajudiciales y administrativas, en los términos de los poderes otorgados. En las Delegaciones del Instituto, dicha defensa jurídica estará a cargo del titular de la Unidad Jurídica respectiva;
+IV.- Asesorar a los servidores públicos del Instituto en las audiencias donde hayan sido señalados como autoridades responsables;
 
-V.- Substanciar los procedimientos de los recursos previstos en las Leyes;
+V.- Establecer los mecanismos de comunicación y coordinación con las unidades administrativas del Instituto, para apoyarlas en el cumplimiento de las resoluciones judiciales o extrajudiciales;
 
-VI.- Formular o revisar los proyectos de las disposiciones jurídicas relacionadas con el Instituto;
+VI.- Conocer de los procedimientos administrativos correspondientes a los recursos previstos en la Ley del Instituto, en coordinación con las áreas sustantivas sobre las que versen los mismos;
 
-VII.- Certificar y expedir copia de los documentos que obren en poder del Instituto, para ser exhibidos en asuntos judiciales, extrajudiciales o administrativos, relativos al ámbito de su competencia;
+VII.- Certificar y expedir copia de los documentos que obren en poder del Instituto, para ser exhibidos en asuntos judiciales y contencioso-administrativos, relativos al ámbito de su competencia;
 
-VIII.- Compilar leyes, reglamentos, decretos, acuerdos y tesis jurisprudenciales de los tribunales, relacionados con la esfera de competencia del Instituto, así como cualesquiera otras disposiciones legales aplicables, y registrar los instrumentos normativos que aprueben la Junta o el Director General;
+VIII.- Sistematizar el marco jurídico e instrumentos normativos relacionados con las atribuciones, funcionamiento y actividades de las distintas áreas del Instituto y mantenerlo actualizado;
 
-IX.- Atender los asuntos relativos a las relaciones del Instituto con los sindicatos no afiliados;
+IX.- Asesorar jurídicamente a los órganos de gobierno y unidades administrativas del Instituto;
 
-X.- Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que deriven derechos u obligaciones a cargo del mismo;
+X.- Emitir opiniones y dictámenes de carácter legal sobre los criterios de interpretación y aplicación de las normas jurídicas y reglamentarias que regulan las actividades y funcionamiento del Instituto;
 
-XI.- Supervisar las operaciones que requieran la formalización de escritura pública y el registro de la misma, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
+XI.- Realizar y revisar los estudios y proyectos de reforma a la ley y reglamentos que integran el marco jurídico del Instituto;
 
-XII.- Llevar el archivo y mantener la custodia de los testimonios notariales que acrediten los préstamos hipotecarios otorgados;
+XII.- Dictaminar, evaluar y registrar los convenios y contratos que suscriba el C. Director General del Instituto, de los que puedan derivarse derechos y obligaciones de carácter patrimonial;
 
-XIII.- Formular los convenios de incorporación o continuación voluntaria a que se refiere la Ley;
+XIII.- Atender los asuntos relativos a las relaciones del Instituto con los Sindicatos de las entidades y dependencias no incorporadas al régimen de seguridad social del Instituto;
 
-XIV.- Promover el desarrollo de las relaciones Institucionales en el ámbito nacional e internacional; y
+XIV.- Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
-XV.- Las demás que señalen otras disposiciones aplicables.
+XV.- Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad y del Distrito Federal, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
+
+XVI.- Llevar el archivo y mantener la custodia de los testimonios notariales que acrediten los prestamos hipotecarios otorgados;
+
+XVII.- Formular los convenios de incorporación, continuación voluntaria y reconocimiento de antigüedad a que se refiere la Ley;
+
+XVIII.- Promover el desarrollo de las relaciones institucionales en el ámbito nacional e internacional;
+
+XIX.- Supervisar y evaluar las actividades y procedimientos que realizan las Unidades Jurídicas Delegacionales; y
+
+XX.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
 
@@ -1057,3 +1077,9 @@ PRIMERO.- Estas reformas y adiciones entrarán en vigor el día de su publicaci�
 SEGUNDO.- Cuando en este Estatuto se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine este Estatuto.
 
 TERCERO.- En su oportunidad, inscríbanse las presentes reformas y adiciones en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 14 DE DICIEMBRE DE 1990.
+
+PRIMERO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbanse las presentes reformas en el Registro Público de Organismos Descentralizados.
