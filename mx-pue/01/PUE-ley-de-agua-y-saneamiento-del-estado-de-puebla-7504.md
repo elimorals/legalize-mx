@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-agua-y-saneamiento-del-estado-de-puebla-7504"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-28"
-last_updated: "1996-07-31"
+last_updated: "2000-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 28 de febrero de 1992.
 
@@ -225,7 +225,9 @@ VIII.- Actualizar las cuotas, tasas y tarifas de las contribuciones y productos,
 
 IX.- Administrar los ingresos que perciba por los servicios que preste.
 
-X.- Establecer y mantener actualizadas las normas, especificaciones, manuales y catálogos de precios unitarios del sector en todo el Estado, cuidando que se ajusten a las disposiciones de la Comisión Nacional del Agua, la Secretaría de Salud, la Secretaría de Desarrollo Urbano y Ecología u otras Dependencias Federales o Estatales.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
+
+X.- Establecer y mantener actualizadas las normas, especificaciones, manuales y catálogos de precios unitarios del sector en todo el Estado, cuidando que se ajusten a las disposiciones de la Comisión Nacional del Agua, la Secretaría de Salud, la Secretaría de Desarrollo Urbano, Ecología y Obras Públicas u otras Dependencias Federales o Estatales.
 
 XI.- Elaborar y mantener actualizados:
 
@@ -265,13 +267,17 @@ El Consejo de Administración como órgano de gobierno es un ente colegiado, qui
 
 El Consejo de Administración estará integrado por:
 
-I.- Un miembro que será nombrado por el Ejecutivo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+I.- El Gobernador del Estado quien fungirá como Presidente Honorario.
 
-II.- El Secretario de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
 
-III.- El Secretario de Salud Pública.
+II.- El Secretario de Desarrollo Urbano, Ecología y Obras Públicas, quien fungirá como Presidente Ejecutivo.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2000)</small>
+
+III.- El Secretario de Salud quien fungirá como Secretario Técnico.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
@@ -285,9 +291,13 @@ VI.- Un Presidente Municipal que represente a cada una de las regiones económic
 
 VII.- Tres representantes de los Organismos Operadores que existan en el Estado.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 17.
 
-El miembro designado por el Ejecutivo fungirá como Presidente, representará al Consejo y dirigirá los debates; los demás miembros fungirán como Vocales Propietarios.
+El Presidente Ejecutivo representará al Consejo y dirigirá los debates, auxiliándose del Secretario Técnico; los integrantes señalados en las fracciones IV a VII del artículo anterior, fungirán como Vocales Propietarios.
+
+Todos los cargos del Consejo de Administración, tendrán el carácter de honoríficos.
 
 ###### ARTICULO 18.
 
@@ -311,9 +321,11 @@ II.- Sus resoluciones serán aprobadas por el voto de la mayoría de los present
 
 III.- En caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 21.
 
-El Consejo rendirá anualmente al Ejecutivo, un informe general de las labores realizadas durante el ejercicio.
+Durante el primer trimestre de cada año el Consejo elaborará, un informe general de las labores realizadas durante el ejercicio, que deberá publicarse cuando menos en el Periódico Oficial del Estado.
 
 ###### ARTICULO 22.
 
@@ -415,11 +427,15 @@ Los bienes de la Comisión Estatal, afectados directamente a la prestación del 
 
 ### CAPITULO II. DE LOS ORGANISMOS OPERADORES DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 26.
 
-Los Organismos Operadores a que se refiere la fracción III del artículo 5 de esta Ley, deberán constituirse por Acuerdo de Cabildo del Ayuntamiento respectivo y por Decreto del H. Congreso del Estado, como Organismos Públicos Descentralizados con personalidad jurídica y patrimonio propios, mismos que tendrán las atribuciones que establece esta Ley, su Reglamento y su Decreto de creación.
+Los Organismos Operadores a que se refiere la fracción III del artículo 5 de esta Ley, serán de carácter Estatal, Regionales o Municipales.
+
+Los Organismos Operadores Municipales, deberán constituirse por Acuerdo de Cabildo del Ayuntamiento respectivo y por Decreto del H. Congreso del Estado, como Organismos Públicos Descentralizados con personalidad jurídica y patrimonio propios, y tendrán las atribuciones que se establecen en esta Ley, su Reglamento y su Decreto de creación.
+
+Los Organismos Operadores de carácter Estatal o Regional, deberán constituirse a iniciativa del Ejecutivo del Estado y mediante Decreto del H. Congreso, como Organismos Públicos Descentralizados con personalidad jurídica y patrimonios propios, y tendrán las atribuciones que deriven de los Convenios de Colaboración y Coordinación Administrativa que celebren con los Municipios o sus Organismos Operadores, así como las que se establezcan en su Decreto de creación.
 
 ###### ARTICULO 27.
 
@@ -1362,3 +1378,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los Organismos Operadores que a la fecha de entrada en vigor del presente decreto tuvieran contratados financiamientos constitutivos de deuda pública, contarán con un plazo de 60 días para someter a su Organo de Gobierno la aprobación de sus cuotas o tarifas.
+
+P.O. 18 DE AGOSTO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
