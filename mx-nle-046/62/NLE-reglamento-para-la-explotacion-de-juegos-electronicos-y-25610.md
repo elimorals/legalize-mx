@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-explotacion-de-juegos-electronicos-y-25610"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-24"
-last_updated: "2002-06-24"
+last_updated: "2002-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRONICOS Y FUTBOLITOS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, N. L.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el miércoles 24 de junio de 1992.
 
@@ -41,17 +41,19 @@ REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRONICOS Y FUTBOLITOS EN EL MUNICIP
 
 El presente Reglamento se expide con fundamento en los Artículos 160 y 161 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y tiene por objeto establecer las condiciones para el establecimiento, operación y vigilancia de juegos Electrónicos y Futbolitos, en este Municipio, siendo su observancia obligatoria por contener disposiciones de orden público e interés social.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 2.
 
-Los Organos Oficiales encargados de vigilar, el cumplimiento de las disposiciones de este Reglamento son:
+Los Órganos Oficiales encargados de vigilar, el cumplimiento de las disposiciones de este Reglamento son:
 
 a) El C. Presidente Municipal.
 
 b) El C. Secretario del Ayuntamiento.
 
-c) El C. Tesorero Municipal.
+c) El C. Secretario de Finanzas y Tesorero Municipal.
 
-d) El C. Director de Autorizaciones y Permisos.
+d) El C. Director de Comercio y Espectáculos.
 
 ### CAPITULO II. DE LOS PERMISOS Y DE LAS OBLIGACIONES DE SUS TITULARES
 
@@ -63,11 +65,13 @@ El permiso deberá ser refrendado dentro de los tres primeros meses del año civ
 
 El original de dicho permiso deberán exhibirlo en un lugar visible de su establecimiento, y presentarlo ante las Autoridades Municipales cuantas veces fueran requeridos para ello.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 4.
 
 Los permisos no son transferibles, salvo en caso de fallecimiento del titular del mismo quien designará beneficiario ante la Autoridad Municipal, debiéndose ratificar dicho permiso por el R. Ayuntamiento. En caso de cambio de domicilio del establecimiento, deberá solicitarse previamente la autorización correspondiente al R. Ayuntamiento, quien podrá negarlo si no se satisfacen los requisitos previstos en este Reglamento, o demás disposiciones aplicables.
 
-La Autoridad Municipal, al otorgar el permiso correspondiente, deberá adherir al mismo una fotografía del titular, en caso de tratarse de personas físicas y del encargado del negocio si es persona moral, la cual será cancelada con el sello de la Dirección de Autorizaciones y Permisos.
+La Autoridad Municipal, al otorgar el permiso correspondiente, deberá adherir al mismo una fotografía del titular, en caso de tratarse de personas físicas y del encargado del negocio si es persona moral, la cual será cancelada con el sello de la Dirección de Comercio y Espectáculos.
 
 ### CAPITULO III. DE LA UBICACION Y DE LOS HORARIOS
 
@@ -119,25 +123,29 @@ VIII. Explotar inmoderadamente la afición a estos Juegos tratándose de menores
 
 ### CAPITULO V. DE LA VIGILANCIA PARFA (SIC) EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 10.
 
-Los Órganos Oficiales que se mencionan en el artículo 2 de este Reglamento, por conducto del C. Tesorero Municipal o a través del Director de Autorizaciones y Permisos, mantendrán la vigilancia, para el debido cumplimiento de las disposiciones de este Reglamento.
+Los Órganos Oficiales que se mencionan en el Artículo 2 de este Reglamento, por conducto del C. Secretario de Finanzas y Tesorero Municipal o a través del Director de Comercio y Espectáculos, mantendrán la vigilancia, para el debido cumplimiento de las disposiciones de este Reglamento.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 11.
 
 Son auxiliares en la vigilancia del cumplimiento de las disposiciones de este Reglamento:
 
-a) Secretaria de Promoción Humana y Desarrollo Social.
+a) Secretaria de Desarrollo Social y Fomento Económico.
 
 b) C. Director de Desarrollo Urbano.
 
 c) C. Director de Policía Municipal.
 
-d) Inspectores de Autorizaciones y Permisos.
+d) Inspectores de Comercio y Espectáculos.
 
 e) Inspectores de Desarrollo Urbano.
 
-f) Los Jueces Auxiliares y Jefes de Manzana, y
+f) Los Comisionados Municipales, y
 
 g) Los ciudadanos del Municipio.
 
@@ -155,9 +163,11 @@ III. No respetar el horario establecido.
 
 ### CAPITULO VII. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 13.
 
-Las infracciones al presente Reglamento serán calificadas y sancionadas por el C. Secretario de Finanzas y Tesorero Municipal, de acuerdo a los informes o reportes de la Dirección de Autorizaciones y Permisos, en los términos de lo dispuesto por el presente Reglamento.
+Las infracciones al presente Reglamento serán calificadas y sancionadas por el C. Secretario de Finanzas y Tesorero Municipal, de acuerdo a los informes o reportes de la Dirección de Comercio y Espectáculos, en los términos de lo dispuesto por el presente Reglamento.
 
 ###### ARTICULO 14.
 
@@ -289,9 +299,11 @@ La Admisión del Recurso de Inconformidad, suspenderá la ejecución de la sanci
 
 En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 29.
 
-Para lograr el propósito anterior, la Administración Municipal, a través de la Dirección de Autorizaciones y Permisos, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con el contenido normativo del presente Reglamento, a fin de que en sesión ordinaria del R. Ayuntamiento, el Presidente Municipal, de cuenta de una síntesis de tales propuestas, a fin de que dicho Cuerpo Colegiado tome la decisión correspondiente.
+Para lograr el propósito anterior, la Administración Municipal, a través de la Dirección de Comercio y Espectáculos, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con el contenido normativo del presente Reglamento, a fin de que en sesión ordinaria del R. Ayuntamiento, el Presidente Municipal, de cuenta de una síntesis de tales propuestas a fin de que dicho Cuerpo Colegiado tome la decisión correspondiente.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -330,3 +342,9 @@ SECRETARIO DEL R. AYUNTAMIENTO
 C. JESUS HINOJOSA TIJERINA
 
 PRESIDENTE MUNICIPAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
