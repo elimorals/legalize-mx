@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1932-09-24"
+last_updated: "1935-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE, 1, 8 Y 15 DE OCTUBRE DE 1932.
-
-(REPUBLICADO, P.O. 29 DE OCTUBRE, 5 Y 12 DE NOVIEMBRE DE 1932)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1935.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -125,8 +123,6 @@ De los Diputados y de la Instalacion y Funciones del Congreso.
 
 El Congreso se compondrá de siete Diputados electos popular y directamente cada dos años. Al efecto el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un Suplente por cada Distrito.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EL PRESENTE ARTICULO FUE SUPRIMIDO POR DECRETO NO. 8, PUBLICADO EN P.O. DEL 10 DE NOVIEMBRE DE 1928; ASIMISMO, POR ARTICULO TRANSITORIO PUBLICADO EN EL P.O. DEL 15 DE OCTUBRE DE 1932, SE DEROGA EL CITADO DECRETO, MOTIVO POR EL CUAL LA MODIFICACION QUE SE PRESENTA ES POR REFORMA Y NO ADICION.</small>
-
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
 ###### Artículo 23.
@@ -149,13 +145,13 @@ II.- Tener 25 años cumplidos el día de la elección.
 
 III.- No ejercer en el Estado cargo militar alguno por lo menos dos años antes de la elección.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-IV.- No ser Secretario de Gobierno, Magistrado del Supremo Tribunal de Justicia, Tesorero General ni Juez de Distrito a menos que se separen de sus cargos dos años antes de verificarse la elección.
+IV.- No ser Secretario de Gobierno, Magistrado del Supremo Tribunal de Justicia, Tesorero General ni Juez de Distrito a menos que se separen de sus cargos noventa días antes de verificarse la elección.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-V.- No ser Presidente Municipal en el lugar donde han de verificarse las elecciones, salvo si renunciare al cargo seis meses antes de verificarse éstas.
+V.- No ser Presidente Municipal en el lugar donde hayan de celebrarse las elecciones, salvo si renunciare el cargo noventa días antes de verificarse el acto democrático.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -259,9 +255,9 @@ XI.- Conocer y resolver acerca de las renuncias a sus respectivos cargos present
 
 XII.- Recibir las protestas de los funcionarios a que se contrae la fracción anterior.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-XIII.- Otorgar permiso al Gobernador para salir del territorio del Estado, nombrando un Gobernador Interino en caso de que la ausencia del primero fuere mayor de cuarenta y ocho horas.
+XIII.- Otorgar permiso al Gobernador para salir del territorio del Estado cuando su ausencia fuere mayor de setenta y dos horas, en cuyo caso nombrará el Congreso un Gobernador Interino.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -285,9 +281,9 @@ XIX.- Nombrar libremente a los empleados de la Secretaría de la Cámara, al Tes
 
 XX.- Nombrar libremente a los empleados de la Secretaría de la Cámara, al Director General de Rentas y al Contador de Glosa.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-XXI.- Investir al Gobernador de facultades extraordinarias en los Ramos de Hacienda, Guerra y Gobernación en caso de invasión extranjera o perturbación grave del orden público, y aprobar o reprobar los actos emanados del ejercicio de dichas facultades.
+XXI.- Investir al Gobernador de facultades extraordinarias en el Ramo de Hacienda; y en los de Guerra y Gobernación en caso de invasión extranjera o perturbación grave del orden público, y aprobar o reprobar los actos emanados del ejercicio de dichas facultades.
 
 XXII.- Conceder amnistías por delitos políticos que correspondan a la jurisdicción de los Tribunales del Estado.
 
@@ -299,9 +295,9 @@ XXIII.- Interpelar, a moción de alguno o varios Diputados, al Ejecutivo, a los 
 
 XXIV.- Aprobar o reprobar la suspensión de los Ayuntamientos o de sus miembros, y la de los miembros de las Juntas Municipales que hubiere acordado el Ejecutivo.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-XXV.- Nombrar a los Magistrados del Supremo Tribunal de Justicia, Jueces de Primera Instancia y Menores.
+XXV.- Nombrar a los Magistrados del Supremo Tribunal de Justicia, en la forma establecida en el artículo 70 de esta Constitución.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -379,25 +375,27 @@ VII.- Ejercer las facultades del Congreso, consignadas en las fracciones V, VIII
 
 VIII.- Fijar dias extraordinarios para que se verifiquen las elecciones de Ayuntamientos foráneos, cuando por cualquier motivo no se hubieren celebrado en los que señala la ley electoral respectiva.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE LA PRESENTE FRACCION FUE SUPRIMIDA POR DECRETO NO. 8, PUBLICADO EN P.O. DEL 10 DE NOVIEMBRE DE 1928; SIN EMBARGO, POR ARTICULO TRANSITORIO PUBLICADO EN EL P.O. DEL 15 DE OCTUBRE DE 1932, REPUBLICADO EL 12 DE NOVIEMBRE DE 1932, SE DEROGO EL CITADO DECRETO, MOTIVO POR EL CUAL SE PRESENTA SU TEXTO VIGENTE.</small>
-
 IX.- Acordar el llamamiento de los suplentes en caso de muerte, separación o impedimento que no fuere transitorio, de los Diputados que hubieren de funcionar en las sesiones dróximas (sic).
 
 ### CAPITULO V.
 
 De la Iniciativa y Formación de las Leyes.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 37.
 
-El derecho de iniciar leyes compete:
+El derecho de iniciar las leyes corresponde:
 
-A los Diputados,
+I.- A los Diputados.
 
-Al Gobernador,
+II.- Al Gobernador.
 
-Al Supremo Tribunal de Justicia,
+III.- Al Supremo Tribunal de Justicia.
 
-A los Ayuntamientos.
+IV.- A los Ayuntamientos.
+
+V.- A los ciudadanos del Estado.
 
 ###### Artículo 38.
 
@@ -437,8 +435,6 @@ El mismo derecho tendrá el Supremo Tribunal de Justicia del Estado, cuando la i
 
 Los Ayuntamientos al hacer su iniciativa, si lo juzgaren conveniente, designarán su orador para que asista sin voto a los debates, a quien se hará saber el día de la discusión, siempre que señale domicilio en la población donde residen los Supremos Poderes del Estado.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EL PRESENTE ARTICULO FUE SUPRIMIDO POR DECRETO NO. 8, PUBLICADO EN P.O. DEL 10 DE NOVIEMBRE DE 1928; SIN EMBARGO, POR ARTICULO TRANSITORIO PUBLICADO EN EL P.O. DEL 15 DE OCTUBRE DE 1932, REPUBLICADO EL 12 DE NOVIEMBRE DE 1932, SE DEROGO EL CITADO DECRETO, MOTIVO POR EL CUAL SE PRESENTA SU TEXTO VIGENTE.</small>
-
 ###### Artículo 47.
 
 Las iniciativas de ley o decreto no se considerarán aprobadas, sino cuando hayan sido apoyadas por el voto de la mayoría de todos los miembros del Congreso. Cuando fueren objetadas por representantes del Ejecutivo, Supremo Tribunal de Justicia o Ayuntamiento, se requiere el voto de las dos terceras partes del Congreso, respecto de los puntos en que hubiere discrepancia.
@@ -477,7 +473,9 @@ V.- No ser ni haber sido ministro de algún culto.
 
 VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
-VII.- No estar en servicio activo con dos años de anticipación en el ejército Nacional, ni en las fuerzas del Estado. El Secretario de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Director Gener la (sic) de Rentas y el Presidente Municipal de la Capital pueden ser electos para desempeñar la Primera Magistratura del Estado, sólo en caso de haber cesado en su encargo un año antes de la elección.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+
+VII.- No estar en servicio activo con dos años de anticipación al día de la elección, en el Ejército Nacional ni en las fuerzas del Estado. El Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Tesorero General y el Presidente Municipal de la capital, pueden ser electos para desempeñar la Primera Magistratura del Estado, sólo en el caso de que se separe de su cargo noventa días antes de la elección.
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -493,9 +491,11 @@ El Gobernador será electo popular y directamente, entrará a ejercer sus funcio
 
 El Gobernador, antes de tomar posesión de su cargo rendirá la protesta de Ley ante la H. Legislatura, y en sus recesos ante la H. Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 54.
 
-No podrán ser electos para el periodo inmediato los ciudadanos que hayan desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto Interino o Provisional a no ser que se hubieren separado del encargo un año antes de la elección.
+No podrá ser electo para el período inmediato el ciudadano que haya desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto; ni el de Interino o el Provisional siempre que desempeñe el cargo en los dos últimos años del periodo.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -538,8 +538,6 @@ V.- Nombrar y remover al Procurador de Justicia y a los Agentes del Ministerio P
 VI.- Suspender cuando falten a sus deberes, a los empleados nombrados por él y consignarlos al Procurador o Agentes del Ministerio Público si se tratare de la comisión de un delito.
 
 VII.- Concederles licencia con goce de sueldo o sin él, conforme a las leyes y resolver acerca de las renuncias de los demás empleados de su resorte.
-
-> <small>N. DE E. ES DE OBSERVARSE QUE LA PRESENTE FRACCION FUE SUPRIMIDA POR DECRETO NO. 8, PUBLICADO EN P.O. DEL 10 DE NOVIEMBRE DE 1928; SIN EMBARGO, POR ARTICULO TRANSITORIO PUBLICADO EN EL P.O. DEL 15 DE OCTUBRE DE 1932, REPUBLICADO EL 12 DE NOVIEMBRE DE 1932, SE DEROGO EL CITADO DECRETO, MOTIVO POR EL CUAL SE PRESENTA SU TEXTO VIGENTE.</small>
 
 VIII.- Iniciar ante la Diputación Permanente la convocatoria del Congreso a período extraordinario de sesiones o a sesión extraordinaria.
 
@@ -589,9 +587,9 @@ XXVII.- Remitir al Congreso y en sus recesos a la Diputación Permanente, los ne
 
 XXVIII.- Rendir ante la Cámara el informe a que se refiere el artículo 31 de esta Constitución.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-XXIX.- Imponer a los que le fueren irrespetuosos o infringieren sus órdenes, arresto hasta por quince días o multa hasta de doscientos pesos; pero a los jornaleros, obreros y demás trabajadores les impondrá a lo sumo, la multa equivalente al sueldo o jornal de una semana.
+XXIX.- Castigar a los que le fueren irrespetuosos o infringieren sus órdenes con multa hasta por doscientos pesos o arresto hasta por treinta y seis horas; pero si a quien se le impusiere no pagare la multa, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Tratándose de jornaleros u obreros, les impondrá a lo sumo, la multa equivalente al importe de su jornal o sueldo en una semana.
 
 XXX.- Suspender a los Ayuntamiento (sic), a las Juntas Municipales, o a los miembros de ambos y a los Comisarios, en el ejercicio de sus funciones, en los casos que determinen las leyes; dando inmediatamente parte justificada al Congreso y en sus recesos a la Diputación Permanente, para que se apruebe o no la suspensión.
 
@@ -605,9 +603,15 @@ XXXIII.- Vigilar que las elecciones se verifiquen en el tiempo y en la forma que
 
 XXXIV.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
-XXXV.- Asumir facultades especiales o extraordinarias conforme a la fracción XXI del Artículo 34 de esta Constitución, cuando en virtud de las circunstancias no se pudiere recabar las del Congreso a quien dará cuenta de loque (sic) hiciere para su aprobación o reprobación.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+
+XXXV.- Asumir facultades especiales o extraordinarias conforme a la fracción XXI del artículo 33 de esta Constitución, cuando en virtud de las circunstancias no se pudiere recabar las del Congreso, a quien dará cuenta de lo que hiciere para su aprobación o reprobación.
 
 XXXVI.- Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes.
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 1935) (F. DE E., 20 DE JULIO DE 1935)
+
+XXXVII.- Siempre que esté en goce de facultades extraordinarias en el Ramo de Hacienda, condonar contribuciones cuando lo considere justo y equitativo.
 
 ###### Artículo 59.
 
@@ -625,7 +629,9 @@ V.- Intervenir en las elecciones para que recaigan en determinada persona, ya se
 
 VI.- Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia.
 
-VII.- Separarse del Estado sin licencia del Congreso. La ley castigará severamente la infracción de las disposiciones contenidas en este artículo.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+
+VII.- Ausentarse del Estado por más de sesenta y dos horas sin licencia del Congreso. La ley castigará severamente la infracción a la disposición contenida en este Artículo.
 
 ## TITULO IV.
 
@@ -671,23 +677,27 @@ El Secretario General, mientras funcione con este carácter, no podrá ejercer l
 
 Del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Alcaldes, Presidentes de las Juntas Municipales, Comisarios y Jurados.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores, Jueces de Paz, Presidentes de las Juntas Municipales, Comisarios y Jurados.
 
 ###### Artículo 68.
 
 El Supremo Tribunal de Justicia, se compone de tres Magistrados Propietarios y tres Suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 69.
 
-Para ser Magistrado del Supremo Tribunal de justicia, o Juez de primera Instancia, se requiere:
+Para ser magistrado del Supremo Tribunal de Justicia, se requiere:
 
 I.- Ser ciudadano Mexicano por nacimiento y estar en pleno goce de sus derechos.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-II.- Tener cuando menos treinta años de edad y cuatro de práctica forense, con título oficial de Abogado en los Tribunales de la República; y para ser Juez de Primera Instancia se requiere tener veinticinco años de edad y dos años de práctica forense.
+II.- Tener cuando menos 25 años de edad y dos de práctica forense, con título oficial de Abogado en los Tribunales de la República.
 
 III.- No ser Ministro de algún culto ni pertenecer al estado eclesiástico.
 
@@ -701,15 +711,17 @@ V.- Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 Los magistrados del Supremo Tribunal de Justicia, serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos. La elección se hará en escrutinio secreto y en caso de empate, se repetirá la votación hasta que se obtenga la mayoría indicada.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 71.
 
-Los Jueces de Primera Instancia y los Jueces Menores serán nombrados por la Legislatura en la forma prevenida por el artículo anterior y tendrán los requisitos que fije el artículo 69, pudiendo recaer nombramiento de Juez Menor en persona que carezca de título de Abogado, cuando así lo requieran las circunstancias.
+Los Jueces de Primera Instancia, los Jueces Pupilares, los Jueces Menores y Jueces de Paz, serán nombrados por el Supremo Tribunal de Justicia y tendrán los requisitos que fija el artículo 69, excepto el de la edad, pues se requerirá tener cuando menos veintiún años y uno de práctica forense y podrá recaer nombramiento en persona que carezca de título de Abogado, cuando así lo requieran las circunstancias.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 72.
 
-Los Alcaldes, los Presidentes de las Juntas Municipales y los Comisarios, serán nombrados conforme a lo dispuesto en el Título VII de esta Constitución.
+Los Presidentes de las Juntas Municipales y los Comisarios, serán nombrados conforme a lo dispuesto en el Título VII de esta Constitución.
 
 ###### Artículo 73.
 
@@ -723,17 +735,19 @@ I.- Formar su reglamento interior.
 
 II.- Conocer, de acuerdo con lo dispuesto en el artículo 123, de los procesos que por delitos oficiales se animen contra el Gobernador, los Diputados, el Procurador de Justicia, los Magistrados, Secretario de Gobierno, Director General de Rentas y Munícipes.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-III.- Consignar a los Jueces de Primera Instancia, Jueces Menores y Alcaldes a la Autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General o Agentes del Ministerio Público.
+III.- Consignar a los Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores y Jueces de Paz a la autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General o Agentes del Ministerio Público.
 
-> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1917)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-IV.- Conceder licencias a los Jueces de Primera Instancia y a los empleados inferiores de su dependencia y resolver acerca de las renuncias de los últimos.
+IV.- Conceder licencias a los Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores, Jueces de Paz, y a los empleados inferiores de su dependencia y resolver acerca de la renuncia de los mismos.
 
 V.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 1932)
 
-VI.- Dirimir los conflictos que surjan entre los Municipios y cualquiera de los Poderes del Estado y que no sean de los previstos por la fracción XXXVIII del artículo 34 de esta Constitución.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+
+VI.- Dirimir los conflictos que surjan entre los Municipios y cualesquiera de los Poderes del Estado y que no sean de los previstos por la fracción XXXVIII del artículo 33 de esta Constitución.
 
 VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado.
 
@@ -741,9 +755,9 @@ VIII.- Conocer en Segunda Instancia, de todos los negocios civiles y criminales 
 
 IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en su caso el representante a que se refiere el artículo 45 de la Constitución.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y Menores, y recibirles la protesta en los términos prevenidos por la Ley.
+X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Juzgados Pupilares, Juzgados Menores y de Paz, y tomarles la protesta en los términos prevenidos por la ley.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -779,19 +793,21 @@ Las faltas temporales de Magistrado del Supremo Tribunal, se cubrirán por el su
 
 El Ministerio Público es una Magistratura instituida para velar por la exacta observancia de las leyes de interés general. A ese fin deberá ejercitar las acciones que corresponda contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 81.
 
-Desempeñarán la expresada Magistratura en el Estado; un procurador General y dos Agentes del Ministerio Público.
+Desempeñarán la expresada Magistratura en el Estado: un Procurador General de Justicia y los Agentes del Ministerio Público que señale la Ley Reglamentaria.
 
 ###### Artículo 82.
 
 Los funcionarios de que trata el artículo anterior serán considerados como parte en los juicios en que hayan de intervenir, sin gozar de prerrogativa alguna y se sujetarán en todo a las leyes relativas.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 83.
 
-Para ser Procurador General del Estado, se requieren las mismas condiciones que para ser Magistrado; y para ser Agente del Ministerio Público, las mismas que para ser Juez de Primera Instancia.
+Para ser Procurador General de Justicia se requieren las mismas condiciones que para ser Magistrado; y para ser Agente del Ministerio Público, las mismas que para los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz, fija el artículo 71 de esta Constitución.
 
 ###### Artículo 84.
 
@@ -817,11 +833,15 @@ I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios, sus
 
 II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
 
-III.- Por los Comisarios Municipales que residirán en las rancherías. Los Alcaldes, los Comisarios y demás empleados inferiores, serán nombrados por los Ayuntamientos respectivos.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+
+III.- Por los Comisarios Municipales que residirán en las rancherías. Los Comisarios y demás empleados inferiores, serán nombrados por los Ayuntamientos respectivos.
+
+(REFORMADO, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
 
 ###### Artículo 88.
 
-Las Juntas Municipales, los Alcaldes y los Comisarios durarán en su cargo un año.
+Las Juntas Municipales y los Comisarios durarán en su encargo dos años.
 
 ###### Artículo 89.
 
@@ -863,9 +883,11 @@ Cada ayuntamiento formará su reglamento interior que será revisado y aprobado 
 
 Los Ayuntamientos son cuerpos meramente deliberantes, y sus acuerdos y resoluciones serán comunicados, para su ejecución por conducto de su Presidente.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 96.
 
-Queda encomendado el ejercicio de la Autoridad Judicial, en la cabecera de Municipalidad a los Alcaldes, en los pueblos a los Presidentes de las juntas Municipales y en las rancherías a los Comisarios.
+Queda encomendado el ejercicio de la Autoridad Judicial, en la Cabecera de Municipalidad a los Jueces de Paz, en los Pueblos a los Presidentes de las Juntas Municipales y en las Rancherías a los Comisarios.
 
 ## TITULO VII
 
@@ -873,15 +895,17 @@ De la Administración Municipal.
 
 ###### Artículo 97.
 
-La enseñanza es libre. Es obligación del Estado proporcionar al pueblo la instrucción Primaria Elemental y Superior, que será gratuita, uniforme y laica; y obligatoria para todos los habitantes del Estado sólo la primaria elemental; se impartirá en los términos que prevengan las leyes y se pagará con los fondos públicos.
+Es obligación del Estado proporcionar al pueblo la instrucción Primaria Elemental y Superior, que será gratuita, uniforme y con tendencia socialista claramente definida en el proyecto, método, desarrollo y finalidad; obligatoria para todos los habitantes del Estado solamente la Primaria Elemental, impartiéndose en los términos que prevengan las Leyes y se pagará con los fondos públicos.
 
 ###### Artículo 98.
 
 Cuando las circunstancias del Erario lo permitan, el Estado impartirá gratuitamente la enseñanza preparatoria y la Profesional.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 99.
 
-La Enseñanza que se imparta en establecimientos particulares, se sujetará estrictamente a los programas y vigilancia oficiales y deberá tener los requisitos que se establecen en el artículo 97, excepto el de ser gratuita.
+Podrán existir establecimientos particulares de enseñanza, siempre que se encuentren incorporados y sujetos a los programas y vigilancia oficiales, interviniendo directamente el Gobierno en el nombramiento del cuerpo docente para procurar elementos netamente identificados con la ideología socialista, designándose por las autoridades del Ramo un asistente técnico permanente que será pagado con los fondos de la escuela particular, para que vigile el estricto cumplimiento de las leyes, acuerdos y programas de la materia.
 
 ###### Artículo 100.
 
@@ -906,6 +930,8 @@ Para la expedición de Fiats de Notarios, no se requiere examen especial, pero e
 ## TITULO VIII.
 
 De la Instrucción Pública.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 104.
 
@@ -975,9 +1001,11 @@ Las oficinas a que se refieren los artículos anteriores, podrán ejercer la fac
 
 Los encargados de las Oficinas de referencia, distribuirán los caudales públicos con estricto arreglo al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por ley posterior.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
 ###### Artículo 115.
 
-El Director General de Rentas y los demás empleados que manejen fondos públicos, darán fianza en la forma que la ley señale.
+El Tesorero General y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
 
 ## TITULO X.
 
@@ -1003,11 +1031,11 @@ Todo funcionario y empleado público es responsable por los delitos del orden co
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 5 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 121.
 
-Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados, el Secretario de Gobierno, el Procurador de Justicia, el Tesorero General, o los Munícipes, el Congreso erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo, el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los Tribunales comunes.
+Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados, el Secretario de Gobierno, el Procurador General de Justicia, el Tesorero General o los Munícipes, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los Tribunales comunes.
 
 ###### Artículo 122.
 
@@ -1027,11 +1055,11 @@ Contra los funcionarios Públicos de que habla el artículo 74, fracción III s�
 
 Lo dispuesto en el artículo anterior se observará desde que los funcionarios entren en el ejercicio de su cargo, aún por delitos cometidos con anterioridad.
 
-(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 125.
 
-Todo funcionario público que esté separado de su cargo con licencia, gozará de fuero Constitucional.
+Todo funcionario público a los que se refiere el artículo 139, que esté separado de su cargo con licencia, gozará de fuero Constitucional.
 
 ###### Artículo 126.
 
@@ -1071,7 +1099,7 @@ El Cómputo de votos de los Ayuntamientos para los efectos del artículo anterio
 
 ###### Artículo 132.
 
-Si las leyes, reglamentos y cualesquiera otras disposiciones de observancia general no previenen expresamente otra cosa, obligan y surten sus efectos cinco días después de su publicación en el periódico oficial del Estado.
+Si las leyes, reglamentos y cualesquiera otras disposiciones de observancia general no previenen expresamente otra cosa, obligan y surten sus efectos desde el día de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 133.
 
@@ -1101,13 +1129,13 @@ Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero
 
 Todo cargo o empleo público es incompatible con cualquiera otro de la Federación, del Estado o de los Municipios, cuando por ellos se perciba sueldo, exceptuándose los de los Ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
 
-(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 139.
 
-Los Diputados, el Gobernador del Estado, los Magistrados del Supremo Tribunal de Justicia, los Agentes del Ministerio Público, el Tesorero General del Estado y los Munícipes, gozan de fuero desde el día de su elección o nombramiento en su caso.
+Los Diputados, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario de Gobierno, el Procurador General de Justicia, el Tesorero General y los Munícipes, gozan de fuero desde el día de su elección o nombramiento en su caso.
 
-La Ley castigará severamente a la Autoridad que viole el fuero que otorga esta Constitución.
+La Ley castigará severamente a la autoridad que viole el fuero que otorga esta Constitución.
 
 (REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -1119,13 +1147,13 @@ Los cargos de elección popular son renunciables únicamente por causa grave, qu
 
 Los Funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
-(REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ###### Artículo 142.
 
-Cuando por circunstancias imprevistas no pudiere instalarse el Congreso o los Ayuntamientos, ni el Gobernador tomar posesión de su cargo el día fijado por esta Constitución y demás Leyes relativas, lo verificarán lo más brevemente posible, siempre que no haya transcurrido el periodo legal en que debieran funcionar.
+Cuando por circunstancias imprevistas no pudieren instalarse el Congreso o los Ayuntamientos, el Supremo Tribunal de Justicia, ni el Gobernador tomar posesión de su cargo el día fijado por esta Constitución y demás leyes relativas, lo verificarán lo más brevemente posible, siempre que no haya transcurrido el período legal en que debieran funcionar.
 
-Al concluir el período para el que fueron electos los miembros de las Corporaciones a que se refiere este artículo, cesarán en el ejercicio de su cargo inmediatamente que rindan la protesta legal los nuevamente electos.
+Al concluir el período en que fueron electos los Funcionarios a que se refiere este artículo, cesarán en el desempeño de su encargo inmediatamente que rindan la protesta legal los nuevamente electos.
 
 ###### Artículo 143.
 
@@ -1180,6 +1208,8 @@ De la Inviolabilidad de esta Constitución. Su observancia y modo de Reformarla.
 ## TITULO XIII.
 
 Disposiciones Generales.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
 ## TITULO XIV.
 
@@ -1269,15 +1299,21 @@ Sus personas e intereses estarán bajo la garantía de las leyes y sujetos a ell
 
 Son obligaciones de los habitantes del Estado:
 
-I.- Si son mexicanos, las que determina el artículo 31 de la Constitución General, inscribirse en el Registro Civil y manifestar en las Oficinas respectivas el capital, industrial o trabajo de que subsistan en los casos que lo prevengan las leyes.
+(REFORMADA, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
+
+I.- Si son mexicanos: Las que determine el artículo 31 de la Constitución General, y manifestar enlas (sic) oficinas respectivas el capital, industria o trabajo de que subsistan, en los casos que lo prevengan las leyes, e inscribir el nacimiento de sus hijos en las oficinas del Registro Civil.
 
 II.- Si son extranjeros:
 
 (a) Contribuir para los gastos públicos que dispongan las leyes, obedecer y respetar las instituciones, leyes y Autoridades del Estado, sujetándose a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los Mexicanos.
 
-(b) Inscribirse en el Registro Civil y manifestar en las oficinas respectivas el capital, industria, profesión o trabajo de que subsistan, en los casos que lo prevengan las leyes.
+(REFORMADO, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
 
-(c) Hacer que sus hijos o pupilos, menores de quince años, concurran a las escuelas públicas o privadas, para obtener la instrucción primaria elemental, durante el tiempo que marque la ley de Instrucción en el Estado.
+(b) Inscribir el nacimiento de sus hijos en las oficinas del Registro Civil, y manifestar en las oficinas respectivas el capital, industria, profesión o trabajo de que subsistan en los casos que lo prevengan las leyes.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+
+(c) Hacer que sus hijos o pupilos menores de quince años, concurran a las escuelas públicas o privadas incorporadas, para obtener la instrucción primaria elemental, durante el tiempo que marque la Ley de Instrucción en el Estado.
 
 ###### Artículo 10.
 
@@ -1293,9 +1329,9 @@ II.- Por vecindad los nacidos fuera del territorio del Estado, que sean mexicano
 
 Son prerrogativas del ciudadano colimense:
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
 
-I.- Las establecidas en las fracciones III, IV y V del artículo 35 de la Constitución General, y además votar en las elecciones populares, siempre que en él concurran las circunstancias siguientes: estar inscrito en el Registro Civil antes del día de la elección; no ser ni haber sido Ministro de algún culto; no haberse comprometido ante autoridad o persona alguna a no observar la presente Constitución, la Federal y las Leyes que de ellas emanen.
+I.- Las establecidas en el artículo 35 de la Constitución General, y además votar en las elecciones populares siempre que en él concurran las circunstancias siguientes: no ser ni haber sido Ministro d' (sic) algún culto; no haberse comprometido ante autoridad o persona alguna a no observar la presente Constitución, la Federal y las Leyes que de ellas emanen.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1305,7 +1341,9 @@ II.- Ser votado en toda elección popular y desempeñar cualquier empleo del Est
 
 Son obligaciones del ciudadano colimense:
 
-I.- Las que determinan las fracciones II, III, IV y V del artículo 36 de la Constitución General.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+
+I.- Las que determina el artículo 36 de la Constitución General.
 
 II.- Tomar las armas en defensa del Estado.
 
@@ -1370,6 +1408,10 @@ Se derogan las fracciones XXIV, XXXIV del artículo 58 y los Artículos 79, 102 
 ###### Artículo 2o.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 6 DE JULIO DE 1935.
+
+Unico.- Mientras las condiciones del Erario no permitan el establecimiento de los Juzgados Pupilares, desempeñará estas funciones el Juzgado de Primera Instancia de lo Civil y de Hacienda.
 
 ###### Artículo 2.
 
