@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-del-estado-de-quintana-roo-11897"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-01-13"
-last_updated: "1995-12-29"
+last_updated: "1996-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1996.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el viernes 13 de enero 1995.
 
@@ -471,7 +471,13 @@ X.- CONCEDER MEDIANTE RESOLUCIONES DE CARACTER GENERAL SUBSIDIOS A LOS CONTRIBUY
 
 XI.- TRAMITAR Y RESOLVER LOS ASUNTOS Y RECURSOS QUE ANTE EL SE PRESENTEN CONFORME A LAS LEYES Y REGLAMENTOS FISCALES, Y
 
-XII.- LAS DEMAS QUE LE CORRESPONDAN CONFORME A ESTE CODIGO U OTRAS LEYES Y REGLAMENTOS FISCALES.
+(REFORMADA, P.O. 30 AGOSTO DE 1996
+
+XII.- ESTABLECER MEDIANTE REGLAS DE CARACTER GENERAL, TRATAMIENTOS FISCALES ESPECIALES PARA FACILITAR EL CUMPLIMIENTO DE LAS OBLIGACIONES A CARGO DE LOS CONTRIBUYENTES;
+
+> <small>(ADICIONADA, P.O. 30 AGOSTO DE 1996)</small>
+
+XIII.- LAS DEMAS QUE LE CORRESPONDAN CONFORME A ESTE CODIGO U OTRAS LEYES Y REGLAMENTOS FISCALES.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DICIEMBRE DE 1995)</small>
 
@@ -2338,3 +2344,9 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones anteriores establecidas en esta Ley, que contravengan a las presentes reformas.
+
+P.O. 30 DE AGOSTO DE 1996.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERILODICO OFICIAL DEL ESTADO.
