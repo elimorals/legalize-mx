@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2000-05-29"
+last_updated: "2002-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2000.
-
-REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2000
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2002.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -256,13 +254,21 @@ b).- De las acciones contra la sucesión, antes de la partición y adjudicación
 
 c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
-VII.- El del lugar en que se hizo una inscripción en el Registro Público de la Propiedad, cuando la acción que se entable no tenga más objeto que el de decretar su cancelación, y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+VII.- El del lugar en que se hizo una inscripción en el Registro Público de la Propiedad, cuando la acción que se entable no tenga más objeto que decretar su cancelación;
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
 VIII.- En los actos de jurisdicción voluntaria, salva disposición contraria de la ley, es juez competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
 
-Cuando haya varios tribunales competentes, conforme a las reglas anteriores, en caso de conflicto de competencias, se decidirá en favor del que haya prevenido en el conocimiento.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+IX.- Tratándose de juicios en los que el demandado sea indígena, será juez competente el del lugar en el que aquél tenga su domicilio; si ambas partes son indígenas, lo será el juez que ejerza jurisdicción en el domicilio del demandante.
 
 ###### ARTICULO 25.
 
@@ -808,6 +814,10 @@ Si fueren varios los que hayan de absolver posiciones al tenor de un mismo inter
 
 En ningún caso se permitirá que la parte que ha de absolver un interrogatorio de posiciones esté asistida por su abogado, procurador, ni otra persona; ni se le dará traslado, ni copia de las posiciones, ni término para que se aconseje; pero, si el absolvente no hablare el español, podrá ser asistido por un intérprete, si fuere necesario, y, en este caso, el tribunal lo nombrará. Si la parte lo pide, se asentará también su declaración en su propio idioma, con intervención del intérprete.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Cuando el que haya de absolver posiciones fuere indígena y no hable el español, o hablándolo no lo sepa leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, asentándose su declaración en español y en su propio idioma.
+
 ###### ARTICULO 108.
 
 Hecha, por el absolvente, la protesta de decir verdad, el tribunal procederá al interrogatorio.
@@ -1252,6 +1262,10 @@ El tribunal tendrá la más amplia facultad para hacer, a los testigos y a las p
 
 Si el testigo no habla el castellano, rendirá su declaración por medio de intérprete, que será nombrado por el tribunal. Cuando el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma, por él o por el intérprete. Este último deberá, antes de desempeñar su encargo, protestar hacerlo lealmente, haciéndose constar esta circunstancia.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Si el testigo fuere indígena y no hable el español, o hablándolo no lo supiera leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, a fin de que rinda su testimonio, sea en su propia lengua o en español; pero en cualquier caso, el mismo deberá asentarse en ambos idiomas.
+
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
 ###### ARTICULO 181.
@@ -1523,6 +1537,12 @@ Los decretos deberán dictarse al dar cuenta el secretario con la promoción res
 ###### ARTICULO 222.
 
 Las sentencias contendrán, además de los requisitos comunes a toda resolución judicial, una relación suscinta de las cuestiones planteadas y de las pruebas rendidas, así como las consideraciones jurídicas aplicables, tanto legales como doctrinarias, comprendiendo, en ellas, los motivos para hacer o no condenación en costas, y terminarán resolviendo, con toda precisión, los puntos sujetos a la consideración del tribunal, y fijando, en su caso, el plazo dentro del cual deben cumplirse.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 222 Bis.
+
+A fin de garantizarle a los indígenas, el acceso pleno a la jurisdicción del Estado en los procedimientos en que sean parte, el juez deberá considerar, al momento de dictar la resolución, sus usos, costumbres y especificidades culturales.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -1808,6 +1828,14 @@ Las actuaciones judiciales y promociones pueden efectuarse en una forma cualquie
 
 Las actuaciones judiciales y promociones deben escribirse en lengua española. Lo que se presente escrito en idioma extranjero se acompañará de la correspondiente traducción al castellano.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Las actuaciones dictadas en los juicios en los que una o ambas partes sean indígenas, que no supieran leer el español, el tribunal deberá traducirlas a su lengua, dialecto o idioma con cargo a su presupuesto, por conducto de la persona autorizada para ello.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Las promociones que los pueblos o comunidades indígenas o los indígenas en lo individual, asentados en el territorio nacional, hicieren en su lengua, dialecto o idioma, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio con cargo a su presupuesto, por conducto de la persona autorizada para ello.
+
 Las fechas y cantidades se escribirán con letra.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
@@ -1825,6 +1853,12 @@ Todas las declaraciones, ante los tribunales, se rendirán bajo protesta de deci
 Las audiencias serán públicas en todos los tribunales; hecha excepción de las que, a juicio del tribunal, convenga que sean secretas.
 
 El acuerdo será reservado.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 274 Bis.
+
+En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
 
 ###### ARTICULO 275.
 
@@ -3936,10 +3970,16 @@ Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará 
 
 Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
 
-Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 30 de noviembre de 2000.
+Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 30 de noviembre de 2002.
 
 Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
 Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
 
 Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
+
+D.O.F. 18 DE DICIEMBRE DE 2002.
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
