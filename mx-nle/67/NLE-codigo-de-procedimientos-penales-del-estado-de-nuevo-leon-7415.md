@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1994-10-21"
+last_updated: "1995-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -211,13 +211,9 @@ Si se cometiera uno o más delitos en dos o más distritos del Estado, será com
 
 En los casos de concurso material de delitos del orden común, la competencia se fijará atendiendo al delito que merezca mayor sanción; y a la privativa de libertad, cuando se señalen varias de distinta naturaleza.
 
-> <small>(F. DE E., P.O. 4 DE ABRIL DE 1990)</small>
-
 ###### ARTICULO 18.
 
-Los alcaldes judiciales a que se refiere la Ley Orgánica del Poder Judicial del Estado, conocerán de delitos que tengan como sanción caución de no ofender, prisión hasta de un año, y multa cuyo máximo sea de quince cuotas.
-
-También de los delitos que tengan pena alternativa, que incluya una no privativa de la libertad.
+(DEROGADO, P.O. 28 DE JULIO DE 1995)
 
 ###### ARTICULO 19.
 
@@ -527,9 +523,11 @@ Será apelable la resolución dictada por el juez exhortado o requerido que nieg
 
 Cuando un tribunal no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, por tener que verificarse éstas en población distinta pero dentro de su territorio, podrá encomendarlas al alcalde judicial para su ejecución, remitiendo el exhorto original, o un oficio con las inserciones necesarias, si aquél no pudiera mandarse.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 71.
 
-Cuando el alcalde judicial no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otro lugar las personas o los bienes que sean objeto de la diligencia, lo remitirá al juez del en que aquellos o éstos se encuentren, y lo hará saber al que lo encomendó.
+En los casos del artículo anterior, cuando el Alcalde Judicial no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otro lugar las personas o los bienes que sean objeto de la diligencia, lo remitirá al Juez o Alcalde Judicial del en que aquellos o éstos se encuentren y lo hará saber al que lo encomendó.
 
 ###### ARTICULO 72.
 
@@ -2249,7 +2247,7 @@ Transcurridos los plazos a que se refiere el artículo anterior, o si no se hubi
 
 ###### ARTICULO 341.
 
-En los procesos que se sigan ante los alcaldes judiciales, se observarán las disposiciones de los capítulos anteriores respecto de los procedimientos sumario y ordinario y, además, todo lo preceptuado en el presente código.
+(DEROGADO, P.O. 28 DE JULIO DE 1995)
 
 ## TITULO SEPTIMO. RECURSOS
 
@@ -3660,3 +3658,17 @@ PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
 TERCERO: Las autoridades que conozcan, en su caso, de averiguaciones previas o de procesos penales en primera o segunda instancia, en trámite al entrar en vigor las presentes reformas y adiciones, estarán a lo más favorable a las personas inculpadas o procesadas, en contraste a lo previsto actualmente en los códigos penal y de procedimientos penales.
+
+P.O. 28 DE JULIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente reforma.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos.
