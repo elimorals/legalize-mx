@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "1999-06-14"
+last_updated: "2000-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2000.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -581,7 +581,9 @@ Antes de iniciar la ceremonia el Oficial del Registro Civil hará que los preten
 
 En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su mandatario especial y dos testigos por cada uno de ellos que acrediten su identidad.
 
-Durante la ceremonia el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, declarando que se han cubierto los requisitos legales, interrogará a las personas presentes sobre la existencia de algún impedimento para que el matrimonio se realice y, en caso de que nadie se oponga, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2000)</small>
+
+Durante la ceremonia el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, declarando que se han cubierto los requisitos legales, interrogará a las personas presentes sobre la existencia de algún impedimento para que el matrimonio se realice y, en caso de que nadie se oponga, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y la sociedad y dará lectura exclusivamente a los fines del matrimonio contenidos en el artículo 150 de este Código.
 
 ###### Artículo 104.
 
@@ -829,9 +831,27 @@ La sentencia que cause ejecutoria en el juicio en que se impugnó una acta del R
 
 ### CAPÍTULO l. Disposiciones generales
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE JULIO DE 2000)</small>
+
 ###### Artículo 150.
 
-El matrimonio es la unión legítima de un solo hombre y una sola mujer, con el propósito expreso de integrar una familia mediante la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
+El matrimonio es la unión legítima de un solo hombre y una sola mujer, con el propósito expreso de integrar una familia mediante la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie la cual tiene los siguientes fines:
+
+I.- Es libremente electo, tanto por lo que corresponde a su celebración, como a la persona con quien se contrae;
+
+II.- Los cónyuges conservarán en todo tiempo la libertad para determinar la totalidad de los aspectos concernientes a su relación matrimonial, dado que los vínculos que derivan de la unión, son exclusivos de la pareja;
+
+III.- Con el matrimonio se funda legalmente la familia, que es la comunidad establecida naturalmente para la diaria convivencia;
+
+IV.- La estabilidad de la familia, base de las instituciones sociales, contribuyen (sic) a la armonía social;
+
+V.- En las relaciones conyugales tiene manifestación la complementariedad de los seres humanos en los aspectos afectivo biológico, ningún cónyuge es superior al otro y con la unión se hace posible el desarrollo de la potencialidad humana;
+
+VI.- La familia constituye el medio natural para el desarrollo de las interrelaciones de responsabilidad y solidaridad humana;
+
+VII.- En la familia debe buscarse el afecto y la fidelidad, así como darse apoyo recíproco; y
+
+VIII.- El afecto familiar es reconocido como una dignidad, no como un sometimiento de un ser a otro, sino como un perfecto entendimiento sobre los valores de existencia humana.
 
 ###### Artículo 151.
 
@@ -15180,3 +15200,13 @@ B.O. 17 DE ENERO DE 1997.
 B.O. 14 DE JUNIO DE 1999.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a los sesenta días de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todos aquellos ordenamientos y disposiciones que se opongan el (sic) presente decreto.
