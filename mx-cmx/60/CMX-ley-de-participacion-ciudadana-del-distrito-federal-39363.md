@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2004-05-17"
+last_updated: "2005-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2005.
 
-Ley publicada en la Gaceta de Gobierno del Distrito Federal, el lunes 17 de Mayo de 2004.
+Ley publicada en la Gaceta de Gobierno del Distrito Federal, el lunes 17 de mayo de 2004.
 
 (Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México, La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL DECRERO (SIC) DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -1142,16 +1142,38 @@ El reglamento de la presente ley deberá expedirse por el Jefe de Gobierno del D
 
 ###### ARTÍCULO CUARTO
 
-La primera elección de Comités Ciudadanos a que se refiere la presente Ley se realizará el último domingo de abril del año 2005, aplicándose en lo conducente los plazos y procedimientos a que se refiere esta Ley.
+(DEROGADO, G.O. 28 DE ENERO DE 2005)
 
-###### ARTÍCULO QUINTO
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
-Los Comités Vecinales actualmente en funciones electos de conformidad con la Ley de Participación Ciudadana del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de diciembre de 1998, continuarán en funciones hasta la primera elección de los Comités Ciudadanos a que se refiere la presente ley.
+###### ARTÍCULO QUINTO.
 
-###### ARTÍCULO SEXTO
+Los actuales Comités Vecinales y las formas de organización vecinal formalmente constituidas en el Distrito Federal, continuarán en funciones hasta que entren en vigor las reformas que determinen las figuras, los plazos y los procedimientos correspondientes.
 
-La Asamblea Legislativa del Distrito Federal garantizará en el presupuesto de 2005 los recursos necesarios para le elección de Comités Ciudadanos en abril de 2005.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO SEXTO.
+
+La primera elección de Comités Ciudadanos que conforme a los artículos 98 y Cuarto Transitorio de la Ley de Participación Ciudadana del Distrito Federal debe celebrarse el último domingo del mes de abril de 2005, no se realizará hasta que la Asamblea Legislativa del Distrito Federal, establezca lo conducente en la presente ley.
+
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+El proceso de selección de Comités Ciudadanos que conforme a lo dispuesto en el artículo 98 de la Ley de Participación Ciudadana del Distrito Federal debería celebrarse el último domingo del mes de abril de 2005 se pospone, hasta en tanto, en trabajo de Comisiones Unidas de Participación Ciudadana y de Asuntos Político-Electorales de la Asamblea Legislativa del Distrito Federal, se busquen y acuerden formas de organización y representación ciudadanas adecuadas al contexto del Distrito Federal, así como los procesos de elección o integración que no resulten onerosos para los habitantes de esta Ciudad a efecto de que se aprueben por el Pleno del órgano legislativo local, en cuyo caso se deberá realizar la convocatoria que se disponga por virtud de la modificación legal correspondiente, incluso dentro del año 2005.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de abril del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. FRANCISCO CHIGUIL FIGUEROA, PRESIDENTE.- DIP. MA. ELENA TORRES BALTAZAR, SECRETARIA.- DIP. JOSÉ DE JESÚS LÓPEZ SANDOVAL, SECRETARIO.- (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de mayo del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELIZAGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Para su mayor difusión publíquese en el Diario Oficial de la Federación.
