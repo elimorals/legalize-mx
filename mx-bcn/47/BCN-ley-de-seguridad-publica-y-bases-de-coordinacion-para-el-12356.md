@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2002-08-09"
+last_updated: "2003-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -733,7 +733,9 @@ III. Haber cursado la escuela Preparatoria y poseer certificado aprobatorio de b
 
 IV. No tener antecedentes penales, ni estar sujeto a proceso penal por delito doloso;
 
-V. Tener una edad mínima de veintiún años y estatura mínima de 1.65 metros;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
+
+V. Tener una edad mínima de diecinueve años y estatura mínima de 1.65 metros;
 
 VI. Aprobar los exámenes médicos, de personalidad y de no adicción o uso de sustancias psicotrópicas, enervantes, depresivas, estupefacientes y otras similares;
 
@@ -1230,3 +1232,7 @@ SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor
 P.O. 9 DE AGOSTO DE 2002.
 
 UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE ENERO DE 2003.
+
+UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
