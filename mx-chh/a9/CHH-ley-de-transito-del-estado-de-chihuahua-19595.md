@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2002-07-31"
+last_updated: "2002-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -495,7 +495,13 @@ IX. Presentarse ante las autoridades de Tránsito, cuando sea requerido para la 
 
 X. Entregar a los oficiales la documentación inherente a la conducción de tránsito de vehículos, cuando le sea solicitada; y,
 
-XI. Las demás que establezca esta Ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2002)</small>
+
+XI. Utilizar casco protector, tanto los conductores como sus acompañantes, en el caso de que los vehículos fuesen motocicletas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2002)</small>
+
+XII. Las demás que establezca esta Ley y sus Reglamentos.
 
 ### Capítulo II.
 
@@ -998,3 +1004,7 @@ P.O. 31 DE JULIO DE 2002.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a los sesenta días contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
