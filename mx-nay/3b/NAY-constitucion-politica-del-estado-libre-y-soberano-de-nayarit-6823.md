@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1934-03-14"
+last_updated: "1935-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 1935.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1093,15 +1093,19 @@ En los delitos del común (sic) que cometieren los Diputados, los Magistrados de
 
 Cuando se trate del Gobernador, la Legislatura, erigida en Gran Jurado, declarará, con la aprobación de las dos terceras partes del número total de sus miembros, si ha no (sic) lugar a formación de causa. En caso negativo no habrá lugar a ningún procedimiento durante el periodo de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda por el mismo hecho separado de su encargo y sugeto (sic) desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
 ###### Art. 124.
 
-De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia integrado por el Magistrado Propietario y los dos Suplentes como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia, el mismo Tribunal Superior integrado en los términos de la ley.
+Una vez hecha la declaración de haber lugar a formación de causa en contra de los altos Funcionarios a que se refiere el artículo anterior, por los delitos, faltas u omisiones oficiales en que incurran, conocerá del proceso el Supremo Tribunal de Justicia en única Instancia, en la forma que determine la Ley de Responsabilidades de Funcionarios del Estado. Si se tratare de la responsabilidad oficial del Magistrado en funciones, será substituido en los términos de Ley.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
 ###### Art. 125.
 
-De los delitos oficiales y comunes cometidos por los Jueces de Primera Instancia, Menores, de Paz, Presidentes Municipales y Regidores, el Tribunal Superior declarará, en la forma que determine la ley, si ha lugar o no a proceder. En caso negativo el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento mientras dure en sus funciones sin perjuicio de que la acusación siga su curso cuando haya terminado su periodo. En caso afirmativo quedará suspenso el acusado y sujeto a los Tribunales del orden común.
+De los Delitos comunes cometidos por los Jueces de Primera Instancia, Menores Municipales, Menores de Paz, Presidentes Municipales y Regidores, el Supremo Tribunal declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo quedará suspenso el acusado y sujeto a los Tribunales del orden común.
+
+De los delitos, faltas u omisiones oficiales en que incurran dichos funcionarios, el Supremo Tribunal resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso la pena que es de aplicársele por el delito, falta u omisión oficial.
 
 ###### Art. 126.
 
@@ -1272,3 +1276,7 @@ P.O. 14 DE MARZO DE 1934.
 Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
+
+P.O. 11 DE SEPTIEMBRE DE 1935
+
+Este Decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
