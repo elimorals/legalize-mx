@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1993-12-30"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -1721,15 +1721,25 @@ II.- Derechos por servicios que se prestan eventualmente.
 
 Para los efectos del artículo anterior, se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular para vehículos de servicio particular y público siguientes:
 
-REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-I. Por expedición de placas de circulación, incluyendo tarjeta de circulación y calcomanía. Tratándose de motocicletas, la expedición de placas será anual.
+I. Por expedición de placas de circulación, incluyendo tarjeta de circulación y calcomanía para veículos (sic) automotores.
 
 II.- Por refrendo anual de calcomanía de circulación.
 
 IlI.- Por renovación anual de concesiones de servicio público y
 
-IV.- Refrendo bianual de licencias de conducir.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IV. Refrendo de licencias de conducir.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+La expedición de permisos provisionales para circular sin placas, por las Autoridades de Tránsito del Estado, procederá únicamente tratándose de vehículos adquiridos en distribuidoras autorizadas y empresas cuya actividad sea la compra-venta de vehículos automotores, cuando éstos tengan que ser trasladados de la localidad donde se adquieran, a la localidad donde el adquirente realice el trámite de obtención de placas, en función de su domicilio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Asimismo, procederá la expedición de dichos permisos, cuando los vehículos requieran ser trasladados fuera de la Entidad, en función del domicilio del adquirente.
 
 Los derechos por los servicios a que se refiere este artículo, se pagarán conforme a las cuotas que establezca la Ley de Ingresos del Estado, para el ejercicio fiscal de que se trate.
 
@@ -1741,9 +1751,9 @@ Los servicios a que se refieren las fracciones I y II del artículo anterior, se
 
 I.- La expedición original de placas de circulación para vehículos de servicio particular a que se refiere la fracción I, dentro de los quince días siguientes a la fecha de adquisición del vehículo.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II.- El refrendo anual de calcomanía de circulación y expedición de placas para motocicletas:
+II. El refrendo anual de calcomanía de circulación:
 
 A).- Para vehículos cuyo modelo corresponda a los diez últimos años, incluido el de aplicación de la Ley de Ingresos del Estado, dentro de los primeros tres meses del año de calendario de que se trate.
 
@@ -1765,7 +1775,7 @@ La revalidación de concesiones deberá realizarse de acuerdo al calendario ofic
 
 El incumplimiento a lo estipulado en este artículo se sancionará conforme al Código Fiscal del Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
 
@@ -1773,7 +1783,7 @@ El incumplimiento a lo estipulado en este artículo se sancionará conforme al C
 
 ###### ARTICULO 188.
 
-El refrendo bianual de licencias de conducir a que se refiere la fracción IV del artículo 185, se realizará por la autoridad competente dentro de los quince días siguientes a la fecha de su vencimiento.
+El refrendo de licencias de conducir a que se refiere la fracción IV del artículo 185, se realizará por la autoridad competente dentro de los quince días siguientes a la fecha de su vencimiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1827,6 +1837,14 @@ A) Cambio de propietario respecto del registrado, cuando el nuevo propietario te
 
 B) Cambio de domicilio a una, población ubicada en circunscripción territorial distinta, a aquella que corresponda a la oficina recaudadora que haya expedido las placas que porte el vehículo de que se trate. Cuando el cambio de domicilio corresponda a la misma circunscripción territorial referida, únicamente solicitará la reposición de la tarjeta de circulación.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Para la dotación de placas a los vehículos a que se refieren los supuestos de los incisos anteriores, la documentación que se solicite como requisito por la autoridad fiscal estatal, será únicamente para efectos de inscripción de los vehículos, en el << Registro Estatal Vehicular >>, sin que dicho registro implique el reconocimiento de la autenticidad de los documentos, siendo responsabilidad de los particulares demostrar la misma, ante las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Lo referido en el párrafo anterior, también será aplicable tratándose del documento denominado comúnmente << carta factura >>.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO VIII. POR SERVICIOS PRESTADOS POR LAS OFICINAS DEL REGISTRO CIVIL
@@ -1854,6 +1872,38 @@ Por lo que se refiere a los servicios de Catastro por concepto de registro de pr
 ###### ARTICULO 193.
 
 No se pagarán derechos por los servicios que se presten a dependencias del Gobierno del Estado y a sus organismos descentralizados.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Asimismo estarán exentos del pago de los derechos a que se refieren las fraccione I y II del artículo 185 de esta Ley, los vehículos de la Federación y de los Municipios, que sean utilizados para la prestación de los servicios públicos de:
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+a) Rescate;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+b) Patrullas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+c) Transportes de limpia del municipio, cuyo servicio no esté concesionado a particulares;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+d) Pipas de agua;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+e) Servicios funerarios;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+f) Las ambulancias dependientes de cualquiera de esas entidades, de organismos descentralizados de ellas, que presten servicios de seguridad social o de instituciones de beneficencia autorizadas por las leyes de la materia, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+g) Los destinados a cuerpos de bomberos.
 
 Tampoco se pagarán derechos por los servicios que a continuación se señalan:
 
@@ -2071,7 +2121,9 @@ IV. Fianzas efectivas a favor del erario estatal.
 
 V. Donativos y subsidios.
 
-VI. Donaciones, herencias vacantes, inmuebles mostrencos y legados en favor del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI. Herencias vacantes, inmuebles mostrencos y legados en favor del Estado.
 
 VII. Reintegros por responsabilidades de servidores públicos, de conformidad con la Ley de la materia.
 
@@ -2081,11 +2133,23 @@ IX. Tesoros ocultos.
 
 X. Estímulos y subsidios de la Federación.
 
-XI. Aportaciones del Gobierno Federal, de los Municipios y/o de Particulares para obras y servicios públicos de beneficio social a cargo del Gobierno del Estado, y
+REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)
 
-XII. Otros no especificados.
+XI. Aportaciones del Gobierno Federal, de los Municipios y/o de otros organismos para obras y servicios públicos de beneficio social a cargo del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XII.- Recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen tanto a contratistas como a proveedores, en la celebración de concurso o adjudicación directa de contratos, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XIII.- Otros no especificados.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 De conformidad con lo establecido por el Artículo 38 de la Ley de Fraccionamientos del Estado de fecha 15 de junio de 1974, en relación con el artículo Séptimo Transitorio de la Ley de Desarrollo Urbano y Aprovechamiento de Territorio del Estado de Michoacán de Ocampo, cuando las áreas de donación fueren muy pequeñas y de difícil aprovechamiento, la Tesorería del Estado, recaudará su equivalente en moneda nacional, sobre el valor comercial que se determine por perito autorizado o por la propia Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 Cuando se trate de transmisiones que se hagan al Gobierno del Estado, en los términos del artículo 115 fracción I y 131 fracción II de la Ley de Desarrollo Urbano y Aprovechamiento del Territorio del Estado de Michoacán de Ocampo, la Tesorería General en coordinación con la Secretaría de Urbanismo del Gobierno del Estado, comprobará el cumplimiento de esta obligación, con apoyo en los planos autorizados y de conformidad con lo establecido por el artículo 31 de la Ley de Catastro del Estado de Michoacán.
 
@@ -2158,3 +2222,13 @@ P.O. 30 DE DICIEMBRE DE 1993
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1 de enero de 1995 mil novecientos noventa y cinco, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a las presentes.
