@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1976-10-20"
+last_updated: "1978-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 1978.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -533,9 +533,11 @@ Si por haber cesado el trabajador o por otras causas graves a juicio del Institu
 
 El adeudo del lapso de espera lo pagará en el plazo y demás requisitos que señale la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 1978)</small>
+
 ###### ARTICULO 50.
 
-Las casas adquiridas o construídas por los trabajadores con fondos suministrados por el Instituto, quedarán exentas por diez años a partir de la fecha de su adquisición o construcción de todos los impuestos estatales y municipales. Esta franquicia quedará insubsistente, si los inmuebles fueren enajenados por los contribuyentes o destinados a otros fines, inclusive arrendamiento. Gozarán también de exención de impuestos estatales y municipales los contratos de venta, hipoteca, arrendamiento, préstamo y cualesquier otro que celebre el Instituto.
+Los contratos de venta, hipoteca, arrendamiento, préstamos y cualesquier otro que celebre el Instituto, estarán exentos de los impuestos estatales y municipales.
 
 ### CAPITULO SEXTO
 
@@ -1344,3 +1346,7 @@ UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 P.O. 20 DE OCTUBRE DE 1976.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
