@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-350-de-ejecucion-de-sanciones-para-el-estado-de-6567
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-01"
-last_updated: "1992-02-01"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 350 DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ- LLAVE
+LEY DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 1 de febrero de 1992.
 
@@ -39,9 +39,11 @@ Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- 
 
 La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz- Llave, en uso de la facultad que le conceden los artículos 68 fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
+
 LEY N° 350
 
-DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ- LLAVE
+DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -658,3 +660,23 @@ La obligación de los Municipios derivada de lo dispuesto por el artículo 75 de
 DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintitrés días del mes de enero de mil novecientos noventa y dos.- PROFR. GERARDO VELASCO TOLEDO.- Rúbrica.- Diputado Presidente.- ING. FAUSTO AMADOR MIXTEGA.- Rúbrica.- Diputado Secretario".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz- Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintinueve días del mes de enero de mil novecientos noventa y dos. DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- LIC. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
