@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-premios-nacionales-guerrero-5175"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-11"
-last_updated: "1989-07-11"
+last_updated: "1992-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PREMIOS NACIONALES GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1992.
 
 Ley publicada en el Periódico Oficial, el martes 11 de julio de 1989.
 
@@ -62,6 +62,10 @@ V. Premio Nacional Guerrero en Participación Social de la Mujer;
 VI. Premio Nacional Guerrero en Sector Social de la Economía, y
 
 VII. Premio Nacional Guerrero en Turismo.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 1992)</small>
+
+VIII. Premio Nacional Guerrero en Cultura.
 
 ### CAPITULO II. DEL TIPO DE PREMIOS, DE LOS ORGANOS DE PREMIACION
 
@@ -119,6 +123,12 @@ El Premio Nacional Guerrero en Sector Social de la Economía podrá conferirse a
 
 El Premio Nacional Guerrero en Turismo se podrá otorgar a personas físicas o morales que hayan dado impulso al turismo en su carácter de actividad económica dominante.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+###### ARTICULO 14 Bis.
+
+El Premio Nacional Guerrero en Cultura se podrá otorgar a personas físicas o morales, destacadas en alguna área de la cultura, cuando hayan impulsado ésta en beneficio del pueblo y Estado de Guerrero.
+
 ### CAPITULO IV
 
 DE LAS CARACTERISTICAS Y ALCANCES DE LOS PREMIOS.
@@ -160,3 +170,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE LA REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ABRIL DE 1992.
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
