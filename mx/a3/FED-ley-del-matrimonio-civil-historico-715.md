@@ -4,7 +4,7 @@ identifier: "FED-ley-del-matrimonio-civil-historico-715"
 country: "mx"
 rank: "ley"
 publication_date: "1859-07-23"
-last_updated: "1859-07-23"
+last_updated: "1870-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=715&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1859-07-23"
 
 LEY DEL MATRIMONIO CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 2 DEL DECRETO APROBADO EL 8 DE DICIEMBRE DE 1870, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA LEGISLACION MEXICANA: DEROGADO.
 
 Ley publicada en la Legislación Mexicana, Tomo VIII, Edición Oficial, por Manuel Dublain y José María Lozano, el 23 de julio de 1859, páginas de la 691 a la 695.
 
@@ -134,3 +136,13 @@ Por tanto, mando se imprima, publique, circule y se le de el debido cumplimiento
 Dado en el palacio del gobierno general en la. H. Veracruz, Julio 23 de 1859.- Benito Juarez.- AI C. Lic. Manuel Ruiz, ministro de Justicia é Instruccion pública.
 
 Y lo comunico á vd. para su inteligencia y cumplimiento. Palacio del gobierno general en Veracruz, Julio 23 de 1859.- Ruiz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+LEGISLACION MEXICANA, 8 DE DICIEMBRE DE 1870.
+
+ARTICULO 1º Se aprueba el Código Civil para el Distrito Federal y Territorio de la Baja California, formó de órden del Ministerio de Justicia, una comisión compuesta de los CC. Lic. Mariano Yañez, José María Lafragua, Isidro Montiel y Rafael Dondé.
+
+Este Código comenzará ´á regir el 1º de Marzo de 1871.
+
+ARTICULO 2º Desde la misma fecha quedará derogada toda la legislación antigua, en las materias que abrazan los cuatro libros de que se compone el expresado Código.
