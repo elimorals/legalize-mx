@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "1984-02-05"
+last_updated: "1992-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1992.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -131,6 +131,10 @@ La Secretaría de Finanzas estará obligada a proporcionar, a solicitud de la Le
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
+###### ARTICULO 10o.
+
+Los casos de duda que surjan con motivo de la aplicación de esta Ley serán resueltos exclusivamente para efectos administrativos por la Secretaría de finanzas.
+
 ###### ARTICULO 10.
 
 Los casos de duda que surjan con motivo de la aplicación de esta Ley serán resueltos exclusivamente para efectos administrativos por la Secretaría de finanzas.
@@ -159,9 +163,11 @@ El Presupuesto de Egresos del Estado comprenderá las previsiones de gasto públ
 
 El Presupuesto de Egresos del Estado comprenderá también, en Capítulo especial, las previsiones de gasto público que habrán de realizar las Entidades señaladas en las Fracciones V a VII del propio Artículo 2o., cuando se determine que sus erogaciones deben incluirse en dicho presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 15.
 
-Para la formulación del proyecto de Presupuesto de Egresos del Estado, las Entidades que deben quedar comprendidas en el mismo elaborarán sus anteproyectos de presupuesto con base en los programas respectivos y los remitirán a la Secretaría de Desarrollo Económico, Programación y Presupuesto, de acuerdo con las normas, y plazos que el Ejecutivo establezca por medio de esta Secretaría.
+Para la formulación del Proyecto de Presupuesto de Egresos del Estado, las Entidades que deben quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos y los remitirán a la Secretaría de Finanzas, de acuerdo con las normas y plazos que el Ejecutivo establezca por medio de esta Secretaría.
 
 Las proposiciones de las Entidades se remitirán a través y con la conformidad de la Secretaría o Dependencia administrativa que corresponda según su ubicación en la Ley Orgánica de la Administración Pública Estatal.
 
@@ -221,7 +227,7 @@ Las Entidades a que se refieren las Fracciones V a VII del Artículo 2o. de esta
 
 ###### ARTICULO 22.
 
-Cuando la aplicación de leyes, Decretos o Convenios posteriores a la aprobación del Presupuesto implique el desembolso de fondos públicos no previstos, se procederá a gestionar las modificaciones necesarias al propio Presupuesto, para lo cual el Ejecutivo del Estado directamente o a través de la Secretaría de Finanzas promoverá ante el Congreso del Estado las iniciativas correspondientes, en los mismos términos que el Presupuesto Anual.
+Cuando la aplicación de Leyes, Decretos o Convenios posteriores a la aprobación del Presupuesto implique el desembolso de fondos públicos no previstos, se procederá a gestionar las modificaciones necesarias al propio Presupuesto, para lo cual el Ejecutivo del Estado directamente o a través de la Secretaría de Finanzas promoverá ante el Congreso del Estado las iniciativas correspondientes, en los mismos términos que el Presupuesto anual.
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO ESTATAL
 
@@ -321,11 +327,13 @@ Es incompatible el desempeño de un empleo o comisión remunerado con cargo a al
 
 En todo caso los interesados podrán optar por el empleo o comisión que les convenga.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 37.
 
-Las Entidades o funcionarios que efectúen gasto público Estatal estarán obligados a proporcionar a la Secretaría de Finanzas la información que les solicite y a permitirle a su personal la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base a ello.
+Las Entidades o funcionarios que efectúen Gasto Público Estatal estarán obligados a proporcionar a la Secretaría de Finanzas, la información que les solicite y a permitirle a su personal la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas en base a ello.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 La misma obligación deberá cumplir cuando se trate de personal destacado directamente por el Ejecutivo para realizar las comprobaciones o verificaciones que se ordenen.
 
@@ -359,11 +367,11 @@ La contabilidad de las Entidades se llevará con base acumulativa para determina
 
 Los sistemas de contabilidad deben diseñarse y operarse en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas, y en general de manera que permitan medir la eficacia y eficiencia del Gasto Público Estatal.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 42.
 
-Las Entidades suministrarán a la Secretaría de Finanzas del Estado, con la periodicidad que ésta determine, la información presupuestal, contable, financiera y de otra índole que requiera.
+Las Entidades suministrán (sic) a la Secretaría de Finanzas con la periodicidad que ésta lo determine, la información presupuestal, contable, financiera y de otra índole que requiera.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
@@ -536,3 +544,7 @@ Respecto a lo dispuesto por el Artículo 41 de esta Ley, la Secretaría de Finan
 ###### ARTICULO SEXTO.
 
 En tanto se presenta la oportunidad técnica para la operación de los cambios incorporados por esta Ley, se continuará laborando con el manejo de ambos sistemas.
+
+P.O. 16 DE ABRIL DE 1992.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
