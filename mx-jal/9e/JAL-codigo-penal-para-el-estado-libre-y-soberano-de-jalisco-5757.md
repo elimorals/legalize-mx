@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1998-01-27"
+last_updated: "1998-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -543,6 +543,10 @@ La reparación del daño será la misma en el delito culposo que en el doloso.
 
 Al responsable de tentativa, se le impondrá a juicio del juez y teniendo en consideración las prevenciones de los artículos 10 y 41 de este Código, de las dos terceras partes del mínimo hasta las dos terceras partes del máximo del ilícito si éste se llegare a consumar, y deberá de tomarse en cuenta las circunstancias del delito.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+
+En los casos de tentativa de delito grave así calificado por la ley, la autoridad judicial impondrá una pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
+
 ### CAPITULO II. Trabajo de los presos
 
 ###### Art. 53.
@@ -570,6 +574,10 @@ En caso de concurso ideal, se aplicará la sanción correspondiente al delito qu
 ###### Art. 55 Bis.
 
 En caso de delito continuado, se aumentará hasta una tercera parte de la pena correspondiente al delito cometido.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+
+En caso de delito continuado grave así calificado por la ley, se aumentará de una mitad hasta las dos terceras partes de la pena que la ley prevea para el delito cometido, sin que exceda del máximo legal.
 
 (REFORMADO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
 
@@ -879,9 +887,9 @@ II. La indemnización del daño material y moral causados, así como del perjuic
 
 El daño moral implica el pago que corresponde al equivalente hasta en un cuarenta por ciento del importe de la indemnización material.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
-En caso de tentativa, la reparación material o moral del daño consistirá en la mitad de lo que le correspondería si el delito se hubiere consumado.
+En caso de tentativa, la reparación material o moral del daño estará supeditada a la legal demostración de procedencia de la misma.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -1087,7 +1095,7 @@ Cuando haya necesidad de transportar los instrumentos o utensilios referidos en 
 
 ### CAPITULO IV. Delitos cometidos contra representantes de la autoridad
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
 ###### Art. 120.
 
@@ -1203,7 +1211,7 @@ Se impondrán de tres meses a tres años de prisión al que quebrantare indebida
 
 ###### Art. 133.
 
-Se impondrán de quince días a seis meses de prisión al que cometa un delito en contra de cualquier servidor público de la Administración, en el acto de ejercer sus funciones o con motivo de ellas, además de las sanciones que le correspondan por el delito o los delitos cometidos.
+Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de seis meses a tres años de prisión, además de la que le corresponda por el delito cometido.
 
 ###### Art. 134.
 
@@ -1449,9 +1457,13 @@ Si la comisión del hecho no reporta beneficio económico se impondrán al respo
 
 Comete el delito de cohecho todo servidor público que, por sí o por interpósita persona, solicite o reciba, indebidamente, dinero o cualquier otra dádiva o servicio, o acepte una promesa para hacer, o dejar de hacer, algo justo o injusto relacionado con sus funciones.
 
-Si el monto de lo solicitado o recibido no excede del importe de ciento noventa y seis días de salario, se le impondrá una pena de tres meses a cinco años de prisión y multa por el importe de dos a veinte días de salario.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
-Si excede del monto a que se refiere el párrafo anterior, se le impondrá de dos a once años de prisión y multa hasta por el importe de ciento noventa y seis días de salario.
+Si el monto de lo solicitado o recibido no excede del importe de ciento noventa y seis días de salario, se le impondrá una pena de seis meses a seis años de prisión y multa por el importe de dos a veinte días de salario mínimo vigente.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
+
+Si excede el monto a que se refiere el párrafo anterior, se le impondrá de dos a doce años de prisión y multa hasta por el importe de ciento noventa y seis días de salario mínimo vigente.
 
 Las mismas penas se impondrán al que, espontáneamente dé u ofrezca dinero, o cualquiera otra dádiva o servicio, a un servidor público, para que éste haga u omita un acto justo o injusto relacionado con sus funciones.
 
@@ -1482,6 +1494,8 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del importe 
 Si excede del monto a que se refiere el párrafo anterior se impondrá al responsable de dos a nueve años de prisión y multa por el importe de ciento noventa y seis días de salario.
 
 ### CAPITULO III. Substracción de menores y robo de infante
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 1998)</small>
 
 ###### Art. 151.
 
@@ -1923,7 +1937,7 @@ Se impondrán de dos a seis años de prisión al que exponga en una casa de exp�
 
 ###### Art. 179.
 
-Se impondrán de uno a cuatro años de prisión al que substraiga a un menor de doce años, sin causa justificada o sin orden de autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin la voluntad de éste.
+Se impondrá de dos a seis años de prisión al que substraiga a un menor de doce años, sin causa justificada o sin orden de autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin voluntad de éste.
 
 Cuando el delito lo efectúen los padres, abuelos o bisabuelos que no ejerzan la patria potestad, o terceros, por encargo de alguno de éstos, la sanción será de seis meses a dos años de prisión. En este caso el delito solo se perseguirá a petición del legítimo representante de la parte ofendida.
 
@@ -2015,7 +2029,7 @@ II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad
 
 ### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983) (F. DE E., P.O. 2 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
 ###### Art. 188.
 
@@ -2025,7 +2039,7 @@ Cuando las amenazas sean leves, se exigirá caución de no ofender, pero si el r
 
 Si cumple la amenaza, se le impondrán además las penas que procedan por los delitos que resulten.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2037,7 +2051,15 @@ Si el extorsionador consigue su propósito, se le impondrán de uno a nueve año
 
 Si el extorsionador no logra el fin propuesto, se le impondrán de seis meses a seis años de prisión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+
+###### Art. 189 Bis.
+
+A los agentes del Ministerio Público, de la Policía Investigadora o de las policías preventivas, que practiquen la detención de una persona, con el ánimo de intimidarla, provocarle un daño o perjuicio de carácter patrimonial, o bien para obligarla a dar, hacer, dejar de hacer o tolerar algo obteniendo un beneficio para sí o para otro, se les sancionará con una pena de tres a ocho años de prisión y hasta quinientos días de multa. Si la intimidación constituye otro delito se aplicarán las reglas del concurso.
+
+Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
+
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2047,7 +2069,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2057,7 +2079,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2067,7 +2089,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2100,6 +2122,24 @@ IV. Cuando los plagiarios sean dos o más.
 Si el plagiario pone en libertad a la persona secuestrada, dentro de los diez días siguientes al plagio, sin haber obtenido provecho o restituye, en su caso el que hubiese obtenido, se aplicarán las sanciones correspondientes a la privación ilegal de la libertad. Salvo si medió violencia física o moral sobre la persona secuestrada, en cuyo caso se le impondrá una pena de dos a ocho años de prisión. Si el o los plagiarios privan de la vida al ofendido se aplicarán las penas del homicidio calificado.
 
 Si el o los plagiarios privaran de la vida al ofendido, se aplicrán (sic) las penas del homicidio calificado.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+
+###### Art. 194 Bis.
+
+Se impondrá de uno a ocho años de prisión y de doscientos a mil días de multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
+
+I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima;
+
+II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III. Actúe como asesor de quienes representen o gestionen a favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
+
+IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
+
+V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción primera del artículo anterior; y
+
+VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
 ###### Art. 195.
 
@@ -2187,13 +2227,13 @@ II. Ataque a alguien de tal manera, que, en razón del arma empleada, de la fuer
 
 Cuando por el número de disparos o la prolongación del ataque grave haya base lógica para presumir que la intención del activo fue la de privar de la vida o salud al ofendido, se aplicarán las sanciones correspondientes a la tentativa de homicidio o de lesiones, según el caso.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
 ###### Art. 205 Bis.
 
-El delito de maltrato a infante menor de doce años de edad, se integra por la agresión física con o sin objeto contundente o arma que le cause con su abuso alteración en su salud o integridad física.
+El maltrato al menor de edad, se integra por la agresión física con o sin objeto contundente o arma que le cause con abuso alteración en la salud o integridad física.
 
-Al responsable de este delito se le impondrá de seis meses a dos años de prisión y trabajos en favor de la comunidad hasta por noventa jornadas.
+Al responsable de este delito se le impondrá de seis meses a tres años de prisión y trabajos a favor de la comunidad hasta por noventa jornadas.
 
 ###### Art. 224.
 
@@ -2545,6 +2585,10 @@ III. De siete a trece años de prisión y multa por el importe de cuarenta a cie
 
 IV. De cuatro a ocho años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza no fuere estimable en dinero.
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
+
+XVI. Cuando recaiga sobre cosa mueble y se cometa por dos o más sujetos por medio de la violencia, la asechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o la coloque en condiciones de desventaja, sin importar el monto de lo robado.
+
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
 En todos los casos de robo, para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por perito.
@@ -2577,9 +2621,9 @@ III. De ocho años seis meses a quince años de prisión y multa por el monto de
 
 IV. De cinco años seis meses a nueve años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
 
-(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997) (F. DE E., P. O. 23 DE ABRIL DE 1998)
+(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 1998) (F. DE E., 23 DE ABRIL DE 1998)
 
-C) Si intervienen alguna de las calificativas que se consignan en las fracciones VII, IX y XI del artículo anterior, la pena será:
+C) Si intervienen algunas de las calificativas que se consignan en las fracciones VII, IX y XI del artículo anterior, la pena será:
 
 I. De seis a once años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado no exceda del monto de trescientos sesenta días de salario;
 
@@ -2588,6 +2632,12 @@ II. De siete años seis meses a trece años de prisión y multa por el importe d
 III. De nueve a quince años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando el valor de lo robado exceda del monto de mil días de salario;
 
 IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
+
+En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
+
+V. De cinco a 18 años de prisión y hasta mil días de multa. También podrá aplicársele la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de la libertad impuesta.
 
 En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito.
 
@@ -2635,9 +2685,11 @@ Si el daño previsto en el Art. 259 de este Código, se produce en las especies 
 
 Al responsable de los ilícitos a que se refieren los artículos anteriores, cuando se trata de pies de cría o sementales en producción para mejoramiento genético de la especie, se le aumentará la pena hasta en una tercera parte más de la que le corresponda, y la multa será de veinte a doscientos días de salario.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
+
 ###### Art. 242.
 
-Las mismas sanciones que señalan los artículos anteriores, según el caso, se impondrán a los que adquieran animales robados o producto de abigeato; a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad de esos animales, si no tomaron aquellos o éstas, las medidas ordinarias para cerciorarse de la procedencia legítima de los animales; así como el que proteja una o más cabezas de animales robados o que provengan de abigeato, con documentación alterada o expedida para otro,
+Las mismas sanciones que señalan los artículos anteriores según el caso, se impondrán a los que adquieran dos o más animales robados o producto de abigeato; a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad de esos animales, si no tomaron aquellas o estas, las medidas ordinarias para cerciorarse de la procedencia legítima de los animales; así como el que proteja dos o más cabezas de animales robados o que provengan de abigeato, con documentación alterada o expedida para otro.
 
 Iguales sanciones se impondrán a los vaqueros pastores o cualquier otro encargado de la custodia, vigilancia o traslado de los animales, que cometan alguno de los delitos previstos en los artículos anteriores.
 
@@ -2873,7 +2925,9 @@ En todo caso, la sanción que se imponga al encubridor, no podrá exceder de la 
 
 ###### Art. 265.
 
-Se impondrá de un mes a cuatro años de prisión y multa por el importe de dos a veinte días de salario, al que adquiera o reciba el producto de un delito o infracción, a sabiendas que provenía de éstos o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia. En caso de que la cosa adquirida o recibida fuere producto de un delito o infracción constitutivos de robo, se impondrá al responsable si el valor de los bienes adquiridos o receptados no excede del importe de doscientos días de salario, la pena de dos a cinco años de prisión; si excede de ese importe de tres a ocho años de prisión.
+Se sancionará con pena de tres a diez años de prisión y hasta mil días de salario de multa, al que con ánimo de lucro, después de la ejecución del robo y sin haber participado en éste, posea, enajene o trafique de cualquier manera, adquiera, reciba u oculte, los instrumentos, objetos o productos del robo, a sabiendas de esta circunstancia y el valor intrínseco de éstos, sea superior a quinientas veces el salario mínimo general vigente en la zona económica.
+
+Al que se dedique en forma habitual a la comercialización de objetos robados, a sabiendas de esta circunstancia, y el valor intrínseco de aquellos sea superior a quinientas veces el salario mínimo general vigente en la zona económica, se le sancionará con una pena de prisión de seis a trece años y de cien a mil días de multa.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2947,7 +3001,7 @@ X. Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple
 
 XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 269.
 
@@ -2975,7 +3029,7 @@ II. Condicione la prestación de un servicio público, el cumplimiento de progra
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 271.
 
@@ -3192,3 +3246,7 @@ P.O. 27 DE DICIEMBRE DE 1997.
 P.O. 27 DE ENERO DE 1998.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE MARZO DE 1998.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Jalisco".
