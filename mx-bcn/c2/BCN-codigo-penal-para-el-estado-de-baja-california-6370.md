@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2000-02-18"
+last_updated: "2002-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1361,6 +1361,8 @@ Cuando se trate de cónyuges, concubina o concubinario sólo podrá procederse p
 
 ### CAPITULO VI. ALLANAMIENTO DE MORADA
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2002)</small>
+
 ## TITULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO UNICO. REVELACION DEL SECRETO
@@ -1511,7 +1513,7 @@ Agravación de pena.- Si los asaltantes atacaren una población, se aplicarán d
 
 ###### Artículo 174.
 
-Tipo y punibilidad.- Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño, se introduzca en la casa habitación o sus dependencias o permanezca en ellas, o en establecimientos públicos mientras se encuentren cerrados, se le impondrá prisión de seis meses a tres años.
+Tipo y Punibilidad.- Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño, se introduzca en la casa habitación o sus dependencias o en lugares cerrados, se le impondrá prisión de seis meses a tres años.
 
 Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más.
 
@@ -2987,7 +2989,7 @@ XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus fam
 
 ###### Artículo 324.
 
-Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
+Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
 
 ###### Artículo 325.
 
@@ -3504,3 +3506,13 @@ P.O. 12 DE NOVIEMBRE DE 1999.
 ###### ARTÍCULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE FEBRERO DE 2000.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2002.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
