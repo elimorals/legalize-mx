@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1998-09-05"
+last_updated: "1998-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -103,11 +103,23 @@ El Estado garantiza a sus habitantes sea cual fuere su condición:
 
 I. La más estricta igualdad ante las leyes, sin otras diferencias que las que resulten de la condición natural o jurídica de las personas.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1998)</small>
 
-II.- La protección y promoción del desarrollo de los valores de nuestras etnias indígenas, tales como sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, dentro del marco de sus tradiciones, garantizando a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+II. La protección y promoción del desarrollo de los valores de nuestras etnias indígenas, conforme a las bases y principios siguientes:
 
-Los Poderes del Estado en el ámbito de sus respectivas competencias, tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezcan las leyes.
+Nuestra composición étnica plural, se sustenta en los pueblos y comunidades indígenas que los integran y a los cuales les asiste el derecho a la libre determinación expresada en autonomía para decidir sobre sus formas internas de convivencia y organización social, económica y cultural; en la creación de sus sistemas normativos, sus usos y costumbres, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural.
+
+El desarrollo de sus lenguas y tradiciones, así como la impartición de la educación bilingüe estará protegida por la Ley la cual sancionará cualquier forma de discriminación.
+
+Deberán participar en la elaboración y ejecución de planes y programas de desarrollo educativo, productivo, económico, cultural o social que se relacione con sus comunidades.
+
+La ley regulará la eficacia de sus propios sistemas normativos, estableciendo procedimientos de convalidación. Los tribunales y jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad de la mujer.
+
+En los términos que la Ley establezca, se preverán procedimientos simplificados y asistencia a los indígenas para que cuenten con un servicio eficiente del Registro Civil, así como de otras instituciones vinculadas con dichos servicios.
+
+La Ley protegerá la propiedad y posesión de sus tierras cualquiera que sea la modalidad de éstas, así como los derechos individuales y colectivos de uso y aprovechamiento del agua y recursos naturales, asegurando la protección del medio ambiente.
+
+Los derechos sociales que esta Constitución otorga a los pueblos y comunidades indígenas, deberán ejercitarse de manera directa a través de sus autoridades o por los interesados mismos.
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
 
@@ -1695,7 +1707,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P O. 24 DE JULIO DE 1919
+P.O. 24 DE JULIO DE 1919.
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -2250,3 +2262,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Remítase la minuta aprobada a cada uno de los Ayuntamientos Constitucionales del Estado, para los efectos a que alude el artículo 131 de la Constitución Política que nos rige, a cuyo término deberán computarse los resultados y tramitarse el decreto promulgatorio respectivo.
+
+P.O. 17 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- Remítase la minuta aprobada a los Ayuntamientos Constitucionales del Estado para los efectos a que se refiere el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, a cuyo término de computarán los resultados para dar trámite al decreto promulgatorio que será publicado en el Periódico Oficial, Organo de Gobierno del Estado.
