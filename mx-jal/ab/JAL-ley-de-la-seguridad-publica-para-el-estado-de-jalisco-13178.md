@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "1999-12-09"
+last_updated: "2000-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -148,6 +148,10 @@ II. El Secretario de Seguridad Pública, Prevención y Readaptación Social;
 III. El Director General de Seguridad Pública;
 
 IV. Los Directores de los cuerpos de seguridad pública del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DEL 2000)</small>
+
+Se exceptúa de lo dispuesto en éste artículo, a los cuerpos municipales de seguridad pública, que están bajo el mando del Presidente Municipal en los términos del reglamento correspondiente, los que deben acatar las órdenes que el Gobernador les trasmita en aquellos casos que éste juzgue como de fuerza mayor o de alteración grave del orden público.
 
 ### CAPITULO SEGUNDO. Clasificación y Atribuciones de los Cuerpos de Seguridad Pública
 
@@ -1158,3 +1162,7 @@ TERCERO.- Los ayuntamientos del Estado deberán adecuar sus reglamentos de Segur
 P.O. 9 DE DICIEMBRE DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DEL 2000.
+
+ÚNICO.- La presente reforma entrará en vigor 90 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
