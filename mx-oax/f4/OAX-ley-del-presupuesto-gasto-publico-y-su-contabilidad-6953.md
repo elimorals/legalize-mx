@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2004-09-25"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -41,9 +41,11 @@ LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 1o.
 
-El Presupuesto, Gasto Público y su Contabilidad, se norman y regulan por las disposiciones de esta Ley, que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas y la Controlaría General, en el ámbito de sus respectivas atribuciones.
+El Presupuesto, Gasto Público y su Contabilidad, se norman y regulan por las disposiciones de esta Ley, que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas y la Secretaría de la Controlaría, en el ámbito de sus respectivas atribuciones.
 
 ###### Artículo 2o.
 
@@ -93,9 +95,11 @@ Sólo se podrán contratar empréstitos para financiar programas incluídos en e
 
 El Ejecutivo del Estado, a través de la Secretaría de Finanzas proporcionará al Congreso del Estado la información que le sea requerida para la mejor comprensión y estudio de los programas contenidos en el proyecto de Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 10.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y la Controlaría General en el ámbito de sus respectivas atribuciones, es la única autoridad competente en el orden jurídico administrativo para la interpretación de esta Ley.
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y la Secretaría de la Controlaría en el ámbito de sus respectivas atribuciones, es la única autoridad competente en el orden jurídico administrativo para la interpretación de esta Ley.
 
 ### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
 
@@ -209,9 +213,11 @@ El Ejecutivo Estatal, por conducto de la Secretaría de Administración, estable
 
 La Secretaría de Finanzas será beneficiaria de las garantías que se otorguen a favor de las Entidades y a ella le corresponderá la custodia de los documentos que las contengan, ejercitar los derechos que correspondan al Gobierno del Estado y hacerlas efectivas en su caso.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 27.
 
-Las Entidades que efectúen el ejercicio del Gasto Público Estatal, estarán obligadas a proporcionar a la Secretaría de Finanzas toda la información que les solicite dentro de los plazos que para el efecto se les establezca en forma particular y a permitirle a su personal la práctica de visitas en coordinación con la Controlaría General tendientes a comprobar el cumplimiento de las disposiciones contenidas en esta Ley y de los demás ordenamientos que le resulten aplicables.
+Las Entidades que efectúen el ejercicio del Gasto Público Estatal, estarán obligadas a proporcionar a la Secretaría de Finanzas toda la información que les solicite dentro de los plazos que para el efecto se les establezca en forma particular y a permitirle a su personal la práctica de visitas en coordinación con la Secretaría de la Controlaría tendientes a comprobar el cumplimiento de las disposiciones contenidas en esta Ley y de los demás ordenamientos que le resulten aplicables.
 
 ###### Artículo 28.
 
@@ -261,9 +267,11 @@ La contabilidad de las entidades se llevará con base acumulativa para determina
 
 Los sistemas contables deben diseñarse y operarse de tal forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos y avances en la ejecución de programas, de manera que permitan medir la eficacia y eficiencia del Gasto Público Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 35.
 
-Las Dependencias del Estado enviarán a la Secretaría de Finanzas y a la Contraloría General, con la periodicidad y forma que las mismas determinen, toda la información que éstas les soliciten.
+Las Dependencias del Estado enviarán a la Secretaría de Finanzas y a la Secretaría de la Controlaría, con la periodicidad y forma que las mismas determinen, toda la información que éstas les soliciten.
 
 ###### Artículo 36.
 
@@ -279,15 +287,19 @@ En el caso del último año de Gobierno de cada administración, el Titular del 
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 38.
 
-La Contraloría General constituirá las responsabilidades definitivas, previo fincamiento de pliegos preventivos de responsabilidad, cuando se detecten irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación, administración de fondos, valores y recursos económicos del Estado, que se traduzcan en daños y perjuicios estimables en dinero, que afecten a la Hacienda Pública Estatal o al patrimonio de las Entidades Paraestatales, así como por el incumplimiento de las disposiciones de esta Ley y de las que se expidan con base en ella.
+La Secretaría de la Controlaría constituirá las responsabilidades definitivas, previo fincamiento de pliegos preventivos de responsabilidad, cuando se detecten irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación, administración de fondos, valores y recursos económicos del Estado, que se traduzcan en daños y perjuicios estimables en dinero, que afecten a la Hacienda Pública Estatal o al patrimonio de las Entidades Paraestatales, así como por el incumplimiento de las disposiciones de esta Ley y de las que se expidan con base en ella.
 
 ###### Artículo 39.
 
 Las responsabilidades a las que se alude en el artículo anterior, se constituirán y fincarán en forma directa a los servidores públicos que hayan cometido las irregularidades relativas; en forma subsidiaria a los servidores públicos que por la índole de sus funciones hayan omitido la revisión o autorizado los actos irregulares sea en forma dolosa, culposa o por negligencia; y en forma solidaria a los particulares que hayan participado con los servidores públicos en las irregularidades que originen responsabilidad.
 
-Los responsables garantizarán con el embargo precautorio en forma individual el importe de los pliegos preventivos, a reserva de la constitución definitiva de la responsabilidad por parte de la Controlaría General.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+Los responsables garantizarán con el embargo precautorio en forma individual el importe de los pliegos preventivos, a reserva de la constitución definitiva de la responsabilidad por parte de la Secretaría de la Controlaría.
 
 ###### Artículo 40.
 
@@ -295,21 +307,27 @@ Las responsabilidades que se constituyan tendrán por objeto reparar o indemniza
 
 Dichas responsabilidades se harán efectivas por la Secretaría de Finanzas mediante el procedimiento económico coactivo, en los términos de los ordenamientos fiscales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 41.
 
-Cuando la Secretaría de Finanzas en el ámbito de sus atribuciones de fiscalización, control, vigilancia e inspección del presupuesto, su contabilidad y el gasto público estatal, detecte irregularidades a las que se refiere el artículo 38 de esta Ley, procederá a levantar acta administrativa en la que se consignarán las irregularidades y dentro del plazo de 3 días hábiles la remitirán junto con toda la documentación comprobatoria de las irregularidades, a la Controlaría General, para que ésta proceda al fincamiento del pliego preventivo de responsabilidad correspondiente.
+Cuando la Secretaría de Finanzas en el ámbito de sus atribuciones de fiscalización, control, vigilancia e inspección del presupuesto, su contabilidad y el gasto público estatal, detecte irregularidades a las que se refiere el artículo 38 de esta Ley, procederá a levantar acta administrativa en la que se consignarán las irregularidades y dentro del plazo de 3 días hábiles la remitirán junto con toda la documentación comprobatoria de las irregularidades, a la Secretaría de la Controlaría, para que ésta proceda al fincamiento del pliego preventivo de responsabilidad correspondiente.
 
-Cuando los órganos de control interno de las entidades paraestatales en el ámbito de sus atribuciones de auditoría, fiscalización, control, vigilancia e inspección de la gestión gubernamental, sean los que detecten las irregularidades, fincarán, previo acuerdo de la Controlaría General, los pliegos preventivos de responsabilidad respectivos.
+Cuando los órganos de control interno de las entidades paraestatales en el ámbito de sus atribuciones de auditoría, fiscalización, control, vigilancia e inspección de la gestión gubernamental, sean los que detecten las irregularidades, fincarán, previo acuerdo de la Secretaría de la Controlaría, los pliegos preventivos de responsabilidad respectivos.
 
-Correspondiendo a la Controlaría General la atribución de aplicación e interpretación de las disposiciones de este Capítulo, se faculta a dicha Dependencia para dictar las normas procedimentales relativas a la constitución y efectos administrativos de los pliegos preventivos de responsabilidad, previa autorización del Titular del Poder Ejecutivo del Estado.
+Correspondiendo a la Secretaría de la Controlaría la atribución de aplicación e interpretación de las disposiciones de este Capítulo, se faculta a dicha Dependencia para dictar las normas procedimentales relativas a la constitución y efectos administrativos de los pliegos preventivos de responsabilidad, previa autorización del Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 42.
 
-La constitución definitiva de las responsabilidades a que se refiere este Capítulo, se resolverá por la Controlaría General, a través del procedimiento administrativo disciplinario establecido en el Título IV, Capítulo II de la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca; constituyendo el pliego preventivo de responsabilidad el acto de inicio de dicho procedimiento. La resolución que se dicte podrá confirmar, modificar o cancelar el pliego preventivo y la misma será constitutiva de la responsabilidad definitiva.
+La constitución definitiva de las responsabilidades a que se refiere este Capítulo, se resolverá por la Secretaría de la Controlaría, a través del procedimiento administrativo disciplinario establecido en el Título IV, Capítulo II de la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca; constituyendo el pliego preventivo de responsabilidad el acto de inicio de dicho procedimiento. La resolución que se dicte podrá confirmar, modificar o cancelar el pliego preventivo y la misma será constitutiva de la responsabilidad definitiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 43.
 
-La Controlaría General al constituir la responsabilidad definitiva, podrá aplicar las sanciones siguientes:
+La Secretaría de la Controlaría al constituir la responsabilidad definitiva, podrá aplicar las sanciones siguientes:
 
 I.- Multa de un tanto del monto de la responsabilidad fincada en firme como mínimo. Atendiendo a la gravedad de la responsabilidad la multa no podrá exceder de tres tantos.
 
@@ -319,21 +337,27 @@ III.- Inhabilitación temporal de tres a diez años para desempeñar empleos, ca
 
 La multa a que se refiere la fracción I de este artículo, se aplicará también en su caso, a los particulares que en forma dolosa hayan participado con los servidores públicos en los actos que originaron la responsabilidad, tomando en cuenta la gravedad de la falta.
 
-Iguales sanciones impondrá la Controlaría General a los servidores públicos que no apliquen las disposiciones a que se refiere este capítulo.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+Iguales sanciones impondrá la Secretaría de la Controlaría a los servidores públicos que no apliquen las disposiciones a que se refiere este capítulo.
 
 Las sanciones previstas en este artículo, se aplicarán independientemente de que se haga efectiva la responsabilidad en que se hubiere incurrido.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 44.
 
-La Controlaría General podrá dispensar por una sola vez las responsabilidades a que se refiere este capítulo, siempre que los hechos que las constituyan no revistan carácter delictuoso, ni se deban a culpa grave del responsable, y cuando a juicio de esta Dependencia se consideren incosteables los daños causados por no exceder de 500 veces el salario mínimo general diario vigente en la Ciudad de Oaxaca.
+La Secretaría de la Controlaría podrá dispensar por una sola vez las responsabilidades a que se refiere este capítulo, siempre que los hechos que las constituyan no revistan carácter delictuoso, ni se deban a culpa grave del responsable, y cuando a juicio de esta Dependencia se consideren incosteables los daños causados por no exceder de 500 veces el salario mínimo general diario vigente en la Ciudad de Oaxaca.
 
 ###### Artículo 45.
 
 Las responsabilidades a que se refiere esta Ley se constituirán y exigirán administrativamente, independientemente de los delitos que en su caso lleguen a configurarse en términos del Código Penal en el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 46.
 
-Las facultades de la Controlaría General para constituir responsabilidades en los términos del presente capítulo, prescriben en 5 años.
+Las facultades de la Secretaría de la Controlaría para constituir responsabilidades en los términos del presente capítulo, prescriben en 5 años.
 
 TRANSITORIOS:
 
@@ -390,3 +414,7 @@ Al C.......
 P.O. 25 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
