@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-a-que-deberan-sujetarse-los-agentes-de-hotel-en-1176
 country: "mx"
 rank: "reglamento"
 publication_date: "1923-01-20"
-last_updated: "1923-01-20"
+last_updated: "1923-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1176&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1923-01-08"
 
 REGLAMENTO A QUE DEBERAN SUJETARSE LOS AGENTES DE HOTEL EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE SEPTIEMBRE DE 1923.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 25 de septiembre de 1923.
 
@@ -62,6 +62,8 @@ IV.- Enterar en la Tesorería del Gobierno la cantidad de $5.00 por concepto de 
 
 Las credenciales serán válidas por un año, tendrán la filiación y retratos del Agente y deberán estar firmadas por el mismo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PARA EL GOBIERNO DEL DISTRITO, PUBLICADO EN EL D.O.F. DE 25 DE SEPTIEMBRE DE 1923, SE AUTORIZA REFORMAR EL ARTICULO 4o. NO PERMITIENDOSE LA ENTRADA DE LOS AGENTES A QUE HACE REFERENCIA EL PRESENTE ARTICULO, A LOS ANDENES DE LAS ESTACIONES DE LOS FERROCARRILES, POR PROHIBIRLO EL REGLAMENTO VIGENTE DE FERROCARRILES.</small>
+
 ###### Art. 4o.
 
 Los Agentes tendrán libre acceso a los andenes de las Estaciones.
@@ -93,3 +95,9 @@ Este Reglamento comenzará a regir desde la fecha de su publicación en el "Diar
 Se derogan todas las disposiciones que se hayan dado con anterioridad, acerca del particular.
 
 Dado en el Palacio del Gobierno del Distrito Federal, a los ocho días del mes de enero de mil novecientos veintitrés.- C. Gasca.- El Secretario General, O. Medellín Ostos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 25 DE SEPTIEMBRE DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
