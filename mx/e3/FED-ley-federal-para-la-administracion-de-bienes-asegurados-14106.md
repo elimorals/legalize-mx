@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-la-administracion-de-bienes-asegurados-14106"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1999-05-14"
-last_updated: "1999-05-14"
+last_updated: "2002-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14106&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-05-13"
 
 LEY FEDERAL PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL PARA LA ADMINISTRACION Y ENAJENACION DE BIENES DEL SECTOR PUBLICO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 19 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el viernes 14 de mayo de 1999.
 
@@ -490,3 +492,31 @@ QUINTO.- En relación con los bienes que hayan sido asegurados con anterioridad 
 México, D.F., a 27 de abril de 1999.- Dip. Alvaro Elías Loredo, Presidente.- Sen. Héctor Ximénez González, Presidente.- Dip. Germán Ramírez López, Secretario.- Sen. Eleazar Robledo Sicairos, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de mayo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 19 DE DICIEMBRE DE 2002.
+
+Primero. El presente Decreto entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
+
+Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+Cuarto. Los asuntos iniciados ante el Servicio de Administración de Bienes Asegurados, que a la fecha de entrada en vigor de este Decreto se encuentren en trámite, se seguirán tramitando hasta su conclusión por el SAE.
+
+Los recursos que deriven de los asuntos a que se refiere el párrafo anterior, recibirán el tratamiento previsto en este Decreto.
+
+Quinto. Las referencias al Servicio de Administración de Bienes Asegurados que hagan las leyes y demás disposiciones, se entenderán hechas al SAE.
+
+Sexto. El Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como el Estatuto Orgánico del SAE, deberán ser emitidos con la debida oportunidad para que entren en vigor el mismo día que el presente Decreto.
+
+El Director General del SAE deberá ser nombrado, a más tardar, a los 10 días hábiles siguientes al de la entrada en vigor del presente Decreto.
+
+Séptimo. Los recursos financieros y materiales asignados al Servicio de Administración de Bienes Asegurados, pasarán a formar parte del patrimonio del SAE.
+
+Octavo. Los mandatos y demás operaciones que hasta antes de la fecha de entrada en vigor del presente Decreto, tenga encomendados el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, se entenderán conferidos al SAE, salvo que dentro de los treinta días naturales siguientes a la fecha indicada, el mandante o quien haya girado las instrucciones correspondientes manifieste por escrito ante el SAE su voluntad de dar por concluido el mandato. Así mismo, los recursos financieros, humanos y materiales asignados al citado Fideicomiso, pasarán a formar parte del patrimonio del SAE.
+
+Dentro del plazo a que se refiere el Transitorio Primero de este Decreto, se deberán realizar todas las acciones conducentes a efecto de extinguir el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito.
+
+Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados que hagan las leyes y demás disposiciones, se entenderán hechas a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
