@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2003-del-pleno-del-consejo-de-la-59915"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-03-03"
-last_updated: "2003-03-03"
+last_updated: "2003-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59915&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-02-26"
 
 ACUERDO GENERAL 9/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE APRUEBA EL PROGRAMA DE REESTRUCTURACION DE LA VISITADURIA JUDICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ABRIL DE 2003.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 3 de marzo de 2003.
 
@@ -105,7 +105,9 @@ III.- Del diecinueve de febrero al treinta de abril de dos mil tres el Instituto
 
 IV.- Del nueve al veintiuno de mayo de dos mil tres, los Visitadores Judiciales “A” someterán a la aprobación de la Comisión de Disciplina, el proyecto de acuerdo relativo a la normatividad que regirá a la Visitaduría Judicial y aquélla, a su vez, lo someterá a la consideración del Pleno del Consejo de la Judicatura Federal;
 
-V.- Del veintiuno de mayo al veinticinco de junio de dos mil tres la Comisión de Disciplina, someterá al Pleno del Consejo de la Judicatura Federal, el proyecto de acuerdo para la convocatoria al concurso de oposición para la designación de los Visitadores Judiciales “B” y una vez aprobado, se realizarán los exámenes correspondientes;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 16/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE ABRIL DE 2003)</small>
+
+V.- Del veintiséis de marzo al dieciocho de junio del año curso la Comisión de Disciplina, someterá al Pleno del Consejo de la Judicatura Federal, el proyecto de acuerdo para la convocatoria al concurso de oposición para la designación de los Visitadores Judiciales “B” y una vez aprobado, se realizarán los exámenes correspondientes;
 
 VI.- Del dieciséis al veinticinco de junio de dos mil tres y conforme a la normatividad aprobada, se procederá a nombrar al personal administrativo que apoyará al titular de la Visitaduría Judicial y al personal adscrito a las oficinas de los Visitadores Judiciales “A”;
 
@@ -120,3 +122,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 9/2003, del Pleno del Consejo de la Judicatura Federal, que Aprueba el Programa de Reestructuración de la Visitaduría Judicial, fue aprobado por el Pleno del propio Consejo, en sesión de veintiséis de febrero de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintiséis de febrero de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE ABRIL DE 2003.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La convocatoria referida en el punto segundo del presente Acuerdo deberá publicarse el mismo día de la publicación de este Acuerdo en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
