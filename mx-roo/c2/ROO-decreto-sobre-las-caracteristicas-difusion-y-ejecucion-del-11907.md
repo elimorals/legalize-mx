@@ -4,7 +4,7 @@ identifier: "ROO-decreto-sobre-las-caracteristicas-difusion-y-ejecucion-del-1190
 country: "mx"
 rank: "decreto"
 publication_date: "1986-02-14"
-last_updated: "1986-02-14"
+last_updated: "1993-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 SOBRE LAS CARACTERISTICAS, DIFUSION Y EJECUCION DEL HIMNO A QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE 1993.
 
 Decreto publicado en el Periódico Oficial el 14 de febrero 1986
 
@@ -125,9 +125,11 @@ pues la Patria en tu suelo recibe,
 
 la caricia primera del sol.
 
-Siete haces son tus Municipios,
+> <small>(REFORMADO, P.O. 15 DE DICIEMBREDE 1993)</small>
 
-siete haces de luz ascendente,
+Ocho haces son tus municipios,
+
+ocho haces de luz ascendente,
 
 el pasado se torna presente,
 
@@ -244,3 +246,9 @@ La Legislatura del Estado, editará y difundirá la letra y música oficial del 
 Salón de Sesiones del Poder Legislativo, en la ciudad de Chetumal, Quintana Roo, a los doce días del mes de enero de mil novecientos ochenta y seis.- Diputada Presidente, Profra. Ligia Alvarez y Manzano.- Diputado Secretario, Profr. Jorge Martín Angulo.
 
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo a los catorce días del mes de enero de 1986.- El Gobernador Constitucional del Estado, Lic. Pedro Joaquín Coldwell.- El Secretario de Gobierno, Lic. Esteban Maqueo Coral.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE 1993.
+
+UNICO.- El presente Decreto entrará en vigor a partir del primer día de Enero de 1994, previa su publicación en el Periódico Oficial del Gobierno del Estado.
