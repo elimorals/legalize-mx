@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1997-07-04"
+last_updated: "1999-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -671,9 +671,13 @@ Si de acuerdo con lo dispuesto en el Artículo 181 fuere necesario que las capit
 
 El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores hará que los pretendientes y los ascendientes o tutores que deban prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 102 serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### Art. 104.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+Recibida la solicitud, el Oficial del Registro Civil informará a los pretendientes, los derechos y obligaciones que nacen del matrimonio, además de los efectos que produce éste respecto a los bienes y con relación a los hijos. Asimismo, en coordinación con las autoridades de salud competentes, proporcionará orientación suficiente y objetiva con relación a la planificación familiar, para que, en su caso, puedan decidir en forma libre, responsable e informada el número y espaciamiento de sus hijos.
+
+Una vez cubiertos los requisitos que establece este Capítulo para la celebración del matrimonio, éste se llevará a cabo dentro del ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil.
 
 ###### Art. 105.
 
@@ -2856,6 +2860,10 @@ Las personas que ejercen la patria potestad tienen obligación de dar cuenta al 
 ###### Art. 493.
 
 En todos los casos en que las personas que ejercen la patria potestad tengan un interés opuesto al de los hijos, serán éstos representados en juicio y fuera de él, por un tutor nombrado por el Juez para cada caso.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+Tratándose de casos de violencia intrafamiliar, quienes carezcan de capacidad de ejercicio y tengan un interés opuesto con quienes ejerzan la patria potestad o la tutela, serán representados en juicio y fuera de él, por quien dirija el Centro para la Atención de Violencia Intrafamiliar.
 
 ###### Art. 494.
 
@@ -10581,7 +10589,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -13229,7 +13237,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1820;
 
-VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción;
+VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción.
 
 ###### Art. 2525.
 
@@ -15904,3 +15912,9 @@ P.O. 4 DE JULIO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el Primero de Marzo el año 2000, previa su publicación en el Periódico Oficial del Gobierno del Estado.
