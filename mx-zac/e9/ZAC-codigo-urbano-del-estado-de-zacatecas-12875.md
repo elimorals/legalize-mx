@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "1997-04-23"
+last_updated: "2001-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2001.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -191,7 +191,9 @@ Para los efectos de este Código, se entenderá por:
 
 I.- El Código: al Código Urbano para el Estado;
 
-II.- La Secretaría: a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Publicas del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+II.- La Secretaría: a la Secretaría de Obras Públicas;
 
 III.- El Ayuntamiento: al Ayuntamiento del Municipio en cuyo territorio se ejecute la correspondiente acción, obra o servicio en materia de desarrollo urbano y vivienda;
 
@@ -199,7 +201,9 @@ IV.- La Comisión Estatal: a la Comisión Estatal de Desarrollo Urbano;
 
 V.- La Comisión del Patrimonio Cultural: a la Comisión para la Preservación del Patrimonio Cultural del Estado;
 
-VI.- El Instituto: al Instituto Zacatecano de la Vivienda Social;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+VI.- El Consejo: al Consejo Promotor de la Vivienda Popular;
 
 VII.- La Comisión Municipal: a la Comisión Municipal de Desarrollo Urbano;
 
@@ -355,11 +359,15 @@ I.- El Gobernador Constitucional del Estado;
 
 II.- La Secretaría;
 
-III.- La Secretaría de Planeación y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+III.- La Secretaría de Finanzas del Estado;
 
 IV.- El Ayuntamiento;
 
-V.- El Instituto;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
+
+V.- El Consejo;
 
 VI.- La Comisión del Patrimonio Cultural; y
 
@@ -443,7 +451,9 @@ III.- Coordinar con los ayuntamientos, la elaboración, modificación, ejecució
 
 IV.- Fungir como Vocalía Ejecutiva de la Comisión Estatal y de la Comisión del Patrimonio Cultural;
 
-V.- Promover y adquirir con base en los programas de desarrollo urbano y vivienda, las reservas territoriales por parte del Gobierno del Estado, en coordinación con el Instituto y, en su caso, conjuntamente con los ayuntamientos, para la ejecución de dichos programas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+V.- Promover y adquirir con base en los programas de desarrollo urbano y vivienda, las reservas territoriales por parte del Gobierno del Estado, en coordinación con el Consejo y, en su caso, conjuntamente con los ayuntamientos, para la ejecución de dichos programas;
 
 VI.- Participar de manera coordinada con los ayuntamientos, los Gobiernos de las Entidades Federativas y con la Federación, en la planeación y ordenación de los centros de población situados en el territorio de la Entidad y de otras Entidades vecinas, que constituyan o tiendan a constituir una conurbación interestatal;
 
@@ -457,11 +467,15 @@ X.- Expedir las constancias estatales de compatibilidad urbanística, de acuerdo
 
 XI.- Dictar, en coordinación con los ayuntamientos y la Federación en su caso, las medidas necesarias a que deban sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación y mejoramiento, sean éstas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, áreas naturales protegidas, o de preservación del patrimonio cultural;
 
-XII.- Proponer los criterios y acciones ante las autoridades competentes, para el mejoramiento de los asentamientos humanos irregulares, promoviendo en su caso, la colaboración de sus habitantes para su aplicación y ejecución, en coordinación con los ayuntamientos, el Instituto y, en su caso, con la Federación;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+XII.- Proponer los criterios y acciones ante las autoridades competentes, para el mejoramiento de los asentamientos humanos irregulares, promoviendo en su caso, la colaboración de sus habitantes para su aplicación y ejecución, en coordinación con los ayuntamientos, el Consejo y, en su caso, con la Federación;
 
 XIII.- Vigilar, en coordinación con los ayuntamientos, el equilibrado desarrollo de las diversas regiones y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
 
-XIV.- Controlar y evaluar los programas de inversión pública, así como las acciones y obras en materia de desarrollo urbano y vivienda que el Gobierno del Estado ejecute en la Entidad por sí o en coordinación con los ayuntamientos, el Instituto y la Federación, para que sean compatibles con la legislación, Plan Estatal de Desarrollo, programas y declaratorias de desarrollo urbano aplicables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+XIV.- Controlar y evaluar los programas de inversión pública, así como las acciones y obras en materia de desarrollo urbano y vivienda que el Gobierno del Estado ejecute en la Entidad por sí o en coordinación con los ayuntamientos, el Consejo y la Federación, para que sean compatibles con la legislación, Plan Estatal de Desarrollo, programas y declaratorias de desarrollo urbano aplicables;
 
 XV.- Diseñar, implantar y operar los sistemas y registros que se requieran para controlar y evaluar el avance de los programas y proyectos de inversión en materia de desarrollo urbano, y vivienda del Gobierno del Estado, así como los convenidos con la Federación, los Municipios y los sectores social y privado de la Entidad;
 
@@ -473,9 +487,13 @@ XVIII.- Notificar y ejecutar con apoyo de los ayuntamientos, las resoluciones y 
 
 XIX.- Promover, gestionar y realizar las acciones e inversiones necesarias, para conservar y mejorar la ecología del Estado, en coordinación con los ayuntamientos y la Federación;
 
-XX.- Formular, conducir y evaluar conjuntamente con el Instituto y los ayuntamientos, la política estatal de vivienda, de conformidad con las disposiciones de este Código;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
 
-XXI.- Fomentar, en coordinación con el Gobierno Federal, el Instituto y los ayuntamientos, la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario para la producción y mejoramiento de la vivienda;
+XX.- Formular, conducir y evaluar conjuntamente con el Consejo y los ayuntamientos, la política estatal de vivienda, de conformidad con las disposiciones de este Código;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+XXI.- Fomentar, en coordinación con el Gobierno Federal, el Consejo y los ayuntamientos, la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario para la producción y mejoramiento de la vivienda;
 
 XXII.- Ejercer las atribuciones que este Código le concede en los casos de ocupación irregular de predios destinados o susceptibles de destinarse a la vivienda o que sean para desarrollo urbano;
 
@@ -637,7 +655,9 @@ La Comisión Estatal se integra por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II.- Un Vocal Ejecutivo, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+II.- Un Vocal Ejecutivo, que será el Secretario de Obras Públicas;
 
 III.- Un Secretario Técnico, que será el Delegado de la Secretaría de Desarrollo Social en el Estado;
 
@@ -645,11 +665,15 @@ IV.- Vocales permanentes:
 
 a) El Secretario de Educación y Cultura;
 
-b) El Secretario de Planeación y Finanzas;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
+
+b) El Secretario de Finanzas;
 
 c) El Director General de Desarrollo Urbano y Ecología;
 
-d) El Director General del Instituto Zacatecano de la Vivienda Social;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
+
+d) El Director General del Consejo Promotor de la Vivienda Popular;
 
 e) El Presidente de la Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas;
 
@@ -753,7 +777,9 @@ La Comisión del Patrimonio Cultural se integrará por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II.- Un Vocal Ejecutivo, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+II.- Un Vocal Ejecutivo, que será el Secretario de Obras Públicas del Estado;
 
 III.- Un Secretario Técnico, que será el Presidente de la Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas;
 
@@ -829,19 +855,29 @@ XX.- Las demás que le señalen este Código y otras disposiciones jurídicas ap
 
 La Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas, es un organismo descentralizado por razón de servicio, dependiente del Ejecutivo del Estado, con las facultades consultivas y ejecutivas que le atribuye la Ley de su creación y que ejercerá jurisdicción en los municipios que al efecto se describen en el Artículo 9° de la misma. Para la toma de decisiones, en asuntos de su competencia, deberá acordar con el vocal ejecutivo de la Comisión del Patrimonio Cultural.
 
-> <small>(REFORMADO, P. O. 23 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 36.
 
-Se crea un organismo público descentralizado, denominado CONSEJO PROMOTOR DE LA VIVIENDA POPULAR, dotado de personalidad jurídica y patrimonio propios, domicilio legal en la ciudad de Zacatecas y jurisdicción en la entidad, sujeto a los lineamientos que en política de vivienda y desarrollo urbano dicte el Gobierno del Estado, con el objeto fundamental de promover acciones de vivienda de interés social y popular, obras de urbanización, así como la constitución de reservas territoriales, de conformidad con lo dispuesto por este Código y demás ordenamientos jurídicos aplicables.
+Se crea un organismo público descentralizado, denominado Consejo Promotor de la Vivienda Popular, dotado de personalidad jurídica y patrimonio propios, domicilio legal en la ciudad de Zacatecas y jurisdicción en la entidad, sujeto a los lineamientos que en política de vivienda y desarrollo urbano dicte el Gobierno del Estado, con el objeto fundamental de promover acciones de vivienda de interés social y popular, obras de urbanización, realizar acciones de regularización de la tenencia de la tierra urbana para la vivienda, así como la constitución de reservas territoriales, de conformidad con lo dispuesto por este Código y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P. O. 23 DE ABRIL DE 1997)</small>
 
 El patrimonio del CONSEJO se constituye por:
 
+> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
+
 I.- Las aportaciones, bienes muebles e inmuebles y demás ingresos, derechos y servicios que los Gobiernos Federal, Estatal y Municipal le otorguen o destinen;
+
+> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
 
 II.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de los sectores social y privado;
 
+> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
+
 III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que generen sus operaciones, actividades y bienes;
+
+> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
 
 IV.- En general, por los ingresos que obtenga por cualquier otro título legal.
 
@@ -865,9 +901,13 @@ IV.- Las unidades administrativas de apoyo que se requieran.
 
 La Junta Directiva del CONSEJO se integrará:
 
-I. Por un Presidente, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
 
-II. Por el Secretario de Planeación y Finanzas;
+I. Por un Presidente, que será el Secretario de Obras Públicas;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+II. Por el Secretario de Finanzas;
 
 III. Por el Secretario de la Contraloría General del Estado;
 
@@ -921,7 +961,9 @@ V.- Establecer los mecanismos y medidas de financiamiento para el cumplimiento d
 
 VI.- Fomentar el abaratamiento en la producción y distribución de materiales de construcción para la vivienda de interés social y popular;
 
-VII.- Promover y colaborar en los procesos de regularización de tenencia de la tierra urbana para la vivienda;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+VII.- Podrá realizar acciones de regularización de tenencia de la tierra urbana para la vivienda, mediante el otorgamiento de documentos privados, por conducto del Director General;
 
 VIII.- Administrar los inmuebles de su propiedad, teniendo la facultad para adquirir, realizar actos de dominio y comercializar dichos inmuebles;
 
@@ -949,9 +991,13 @@ Previo acuerdo de la Junta Directiva, podrán delegarse en el Director General, 
 
 B. Atribuciones del Director General:
 
-I.- Representar legalmente al Consejo Promotor de la Vivienda Popular;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
 
-II.- Ejecutar los acuerdos de la Junta Directiva;
+I.- Representar legalmente al Consejo Promotor de la Vivienda Popular, y ejecutar los acuerdos de la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+II.- Expedir documentos privados traslativos de dominio cuyo origen sea el ejercicio de acciones de regularización de tenencia de la tierra urbana para la vivienda de interés social y popular, cumpliendo al respecto, con los deberes de escrituración, protocolo y registro establecidos en el reglamento que apruebe la Junta Directiva.
 
 III.- Ejercer las facultades previstas en el artículo 20 de la Ley de Entidades Públicas Paraestatales. Las facultades a que se refieren las fracciones II y III del mencionado artículo, sólo podrá ejercerlas previo acuerdo de la Junta Directiva;
 
@@ -1001,9 +1047,11 @@ III.- Opinar sobre la procedencia de ejecutar obras de infraestructura y equipam
 
 IV.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 45.
 
-La Procuraduría General de Justicia del Estado, la Secretaría de Planeación y Finanzas, así como el Registro Público de la Propiedad y del Comercio y las oficinas catastrales, de acuerdo a sus competencias, coadyuvarán con las autoridades en la aplicación de este Código y de los programas y declaratorias que se expidan en materia de desarrollo urbano y de vivienda.
+La Procuraduría General de Justicia del Estado, la Secretaría de Finanzas, así como el Registro Público de la Propiedad y del Comercio y las oficinas catastrales, de acuerdo a sus competencias, coadyuvarán con las autoridades en la aplicación de este Código y de los programas y declaratorias que se expidan en materia de desarrollo urbano y de vivienda.
 
 ## TITULO TERCERO. DEL DESARROLLO URBANO
 
@@ -1421,7 +1469,9 @@ Las comisiones de conurbación intraestatales se integrarán por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Secretario Técnico, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
+II.- Un Secretario Técnico, que será el Secretario de Obras Públicas del Estado; y
 
 III.- Los presidentes de los ayuntamientos de los municipios del Estado, en donde se localice la zona conurbada.
 
@@ -3025,9 +3075,11 @@ La fusión o la subdivisión de áreas y predios no podrán realizarse cuando ob
 
 El Ayuntamiento o la autoridad competente sólo autorizará la construcción en predios provenientes de relotificaciones, fusiones o subdivisiones, cuando éstas hayan sido previamente autorizadas.
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 276.
 
-A efecto de determinar los lineamientos y criterios que se aplicarán para la autorización de las fusiones y subdivisiones, en los fraccionamientos, barrios y colonias existentes en el territorio del Estado, los ayuntamientos se coordinarán con la Secretaría y la Secretaría de Planeación y Finanzas, con el fin de establecer una clasificación de los mismos.
+A efecto de determinar los lineamientos y criterios que se aplicarán para la autorización de las fusiones y subdivisiones, en los fraccionamientos, barrios y colonias existentes en el territorio del Estado, los ayuntamientos se coordinarán con la Secretaría y la Secretaría de Finanzas, con el fin de establecer una clasificación de los mismos.
 
 ## TITULO SEXTO. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -3491,7 +3543,7 @@ c) Especificaciones del alumbrado público.
 
 XIV.- En el caso específico de fraccionamientos, además de los anexos citados con anterioridad, el solicitante deberá incluir los siguientes documentos:
 
-1..- Plano de lotificación a escala mínima 1:1000 que marque lo siguiente:
+1.- Plano de lotificación a escala mínima 1:1000 que marque lo siguiente:
 
 a) Orientación y localización;
 
@@ -4758,3 +4810,11 @@ SEXTO.- El Estatuto Orgánico que al efecto expida la Junta Directiva del Consej
 SEPTIMO. El patrimonio inicial del Consejo Promotor de la Vivienda Popular, deberá inscribirse en los correspondientes Registros Públicos de la Propiedad y de Organismos Descentralizados.,
 
 OCTAVO.- Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2001
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Junta Directiva del Consejo Promotor de la Vivienda Popular, procederá a expedir y publicar las adecuaciones al Estatuto Orgánico, así como el Reglamento de Escrituración, Protocolo y Registro, que resultan de este decreto, en un plazo no mayor de treinta días hábiles, contados a partir de que entre en vigor este Decreto.
