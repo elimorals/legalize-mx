@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1993-06-27"
+last_updated: "1993-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -579,11 +579,11 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+El Congreso tiene facultades para legislar en todo aquello que no está expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
@@ -739,7 +739,11 @@ XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos.
+XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 1993)</small>
+
+XXXVII.- El Congreso del Estado, a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador de Justicia y a los titulares de los Organismos Públicos Descentralizados, durante el Primer Período de sesiones del ejercicio legal correspondiente, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, debiendo enviarle citatorio, con la anticipación razonable, y haciéndole saber el motivo exacto de su comparecencia.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2132,3 +2136,17 @@ P.O. 27 DE JUNIO DE 1993.
 ###### ARTICULO CUARTO
 
 - Una vez que las presentes reformas constitucionales hayan sido aprobadas por las dos terceras partes del H. Congreso del Estado de Durango, envíese copia del Acuerdo correspondiente a los HH. Ayuntamientos, integrantes de nuestro Estado, para su aprobación; y una vez recibidas las aprobaciones de los Ayuntamientos, efectúese el cómputo especificado en la Fracción II del Artículo 130 de nuestra Constitución Política Local, y si del cómputo referido se obtiene la aprobación por la mayoría de los Ayuntamientos, hágase la declaración de que las reformas contenidas en este Decreto han sido aprobadas. Hecho lo anterior, envíese el Decreto correspondiente al Titular del Poder Ejecutivo del Estado para que se le dé el trámite legal correspondiente.
+
+P.O. 25 DE JULIO DE 1993.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO
+
+- Una vez que la presente reforma constitucional haya sido aprobada por las dos terceras partes del Honorable Congreso del Estado, envíese copia del Acuerdo correspondiente a los HH. Ayuntamientos integrantes de nuestro Estado, para su aprobación, y una vez recibidas las aprobaciones de los HH. Ayuntamientos, efectúese el cómputo especificado en la Fracción II del artículo 130 de nuestra Constitución Política Local, y si del cómputo referido se obtiene la aprobación por la mayoría de los Ayuntamientos, hágase la declaración de que la adición contenida en este Decreto ha sido aprobada; hecho lo anterior, envíese el Decreto correspondiente al Titular del Poder Ejecutivo del Estado, para que se le dé el trámite legal correspondiente.
