@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1997-01-04"
+last_updated: "1997-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -697,6 +697,14 @@ En la práctica de las diligencias de Policía Judicial, se observarán, en lo c
 
 Cuando en vista de la averiguación previa, el agente del Ministerio Público respectivo estimare que no es de ejercitarse la acción penal por los hechos que hubiesen sido materia de la denuncia o querella inicial, remitirá el expediente con su opinión fundada, al Procurador General de Justicia, a fin de que decida si la averiguación debe continuar, con expresión de las diligencias pertinentes; si se suspende en espera de mejores datos; o si se archiva definitivamente. Contra esa resolución del Procurador no procede recurso alguno.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+###### Art. 102 Bis.
+
+Cuando con motivo de la Averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta características del hecho, circunstancias personales, recurrirá al órgano jurisdiccional, fundando y motivando su petición para que éste oyendo al presunto responsable, resuelva el arraigo con vigilancia de la autoridad.
+
+El arraigo se prolongará por el tiempo indispensable para la debida integración de la Averiguación previa de que se trate, el cual no excederá de 30 días, prorrogables por igual término, a solicitud del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o levantamiento del arraigo.
+
 ### CAPITULO III. Resolución final y ejercicio de la acción penal
 
 ###### Art. 103.
@@ -1096,6 +1104,10 @@ Los jueces de Primera Instancia y los Agentes del Ministerio Público no podrán
 ###### Art. 155.
 
 En los casos en que el delito esté sancionado con pena no corporal o alternativa, a pedimento del Ministerio Público, se librará orden de comparecencia en contra del inculpado, para que rinda su declaración preparatoria.
+
+###### Art. 155 Bis.
+
+Cuando por la naturaleza del delito o de la pena aplicable, el inculpado no deba ser internado en prisión preventiva y existan elementos para presumir que pueda sustraerse de la acción de la justicia, el Ministerio Público, podrá solicitar al Juez fundada y motivadamente, o éste disponer de oficio, el arraigo del imputado por el tiempo que el juzgador señale, y en ningún caso podrá exceder del término máximo señalado en el artículo 102 bis tratándose de la Averiguación Previa o bien en el proceso por el término constitucional en que éste deba resolverse.
 
 ## TITULO CUARTO. PERIODO PRIMERO AVERIGUACION JUDICIAL
 
@@ -2083,7 +2095,9 @@ IV. Los autos de formal prisión, en cuyos casos deberán expresarse agravios re
 
 V. Los autos que concedan, nieguen o revoquen la libertad provisional bajo caución, los que concedan o nieguen la libertad por desvanecimiento de datos, y los que resuelvan algún incidente no especificado;
 
-VI. El auto que niegue la orden de aprehensión y el que niegue la citación para declaración preparatoria;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+VI. El auto que niegue la orden de aprehensión, el arraigo y el que niegue la citación para declaración preparatoria;
 
 VII. Los autos que resuelvan en materia de jurisdicción o competencia; y
 
@@ -2219,9 +2233,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya vio8lencia (sic) en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; asalto, artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo cometido en los siguientes casos, artículo 235, fracción III; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II y III; y abigeato y robo de animales, artículo 240, párrafos primero y segundo, cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242 y artículo 243; y delitos electorales, artículo 270, fracción III, 276 y 278;
+I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracción III y IV; robo cometido en los siguientes casos, artículo 235 fracción III; 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II y III; y abigeato y robo de animales, artículo 240, párrafos primero y segundo, cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242 y artículo 243; y delitos electorales, artículo 270, fracción III, 276 y 278;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura artículo 3º; y
 
@@ -3160,3 +3174,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE ENERO DE 1997.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
