@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1943-09-23"
+last_updated: "1944-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1944.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -255,9 +255,11 @@ II. Si los Diputados presentes están en minoría, exhortarán simultáneamente 
 
 Los Diputados que en el curso de las sesiones, y sin causa justificada a juicio de la Cámara, falten diez días consecutivos, se entenderá que renuncian al cargo y se llamará a los Suplentes. Si éstos tampoco se presentan dentro de un plazo igual, se declarará la vacante del puesto y se procederá de acuerdo con el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1944)</small>
+
 ###### Art. 30.
 
-En los casos de los artículos 28 y 29, y en general, siempre que por ausencia injustificada o por faltas absolutas de los Diputados no pueda haber quórum, los Ayuntamientos de las cabeceras de los Distritos Electorales, a petición de los Diputados presentes, nombrarán por mayoría de votos los correspondientes substitutos quienes funcionarán por mientras se efectúan las nuevas elecciones, si la designación se hiciere dentro de los tres primeros años del período de funciones; más si fuere dentro del último, el substituto terminará el período.
+En los casos de los artículos 28 y 29, y en general siempre que por ausencia injustificada o por faltas absolutas de los Diputados, no pueda haber quórum, los Ayuntamientos de las cabeceras de los Distritos Electorales, a petición de los Diputados presentes, nombrarán por mayoría de votos los correspondientes substitutos, quienes funcionarán por mientras se efectúan las nuevas elecciones, si la designación se hiciere dentro de los dos primeros años del período de funciones; más si fuere dentro del último, los substitutos terminarán el período.
 
 ###### Art. 31.
 
@@ -279,11 +281,11 @@ Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que p
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1943)</small>
+> <small>N. DE E. SE DEROGA EL DECRETO No. 414 DE FECHA 23 DE SEPTIEMBRE DE 1943, POR DECRETO No. 493 DE FECHA 23 DE MAYO DE 1944, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de noviembre y terminará el quince de febrero siguiente, y el segundo principiará el quince de abril y concluirá el quince de junio inmediato.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de septiembre y terminará el quince de enero siguiente, y el segundo principiará el quince de marzo y concluirá el quince de mayo inmediato.
 
 > <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
@@ -1069,11 +1071,11 @@ IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, n
 
 V. Ser originario de la Municipalidad que lo elija, o vecino de ella cuando menos cinco años anteriores a la elección, siempre que sea ciudadano sinaloense por nacimiento y en ejercicio pleno de sus derechos cívicos.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1944)</small>
 
 ###### Art. 117.
 
-Cuando por cualquiera circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultades el Congreso del Estado, o en su defecto la Diputación Permanente, para elegir Regidores Substitutos, mientras se convoca a nueva elección si la falta ocurriere dentro del primer año, mas si ocurriere dentro del segundo, los nombrados terminarán el período.
+Cuando por cualquiera circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultades el Congreso del Estado, o en su defecto la Diputación Permanente, para elegir Regidores Substitutos mientras se convoca a nueva elección si la falta ocurriere dentro de los dos primeros años, más si ocurriere dentro del último, los nombrados terminarán el período.
 
 ###### Art. 118.
 
@@ -1599,6 +1601,18 @@ P.O. 23 DE SEPTIEMBRE DE 1943.
 
 El presente Decreto comenzará a surtir sus efectos legales, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>N. DE E. SE DEROGA EL DECRETO No. 414 DE FECHA 23 DE SEPTIEMBRE DE 1943, POR DECRETO No. 493 DE FECHA 23 DE MAYO DE 1944, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+
 ###### Artículo 2o.
 
-Por esta sola vez, los ciudadanos Diputados que resultaren electos el primer domingo del julio de 1944 durarán en su cargo desde el día 15 de septiembre de 1944 al día 14 de noviembre de 1947.
+(DEROGADO 23 DE MAYO DE 1944)
+
+P.O. 23 DE MAYO DE 1944.
+
+###### Artículo 1o.
+
+Igualmente queda derogado el artículo 2o. Transitorio del mencionado Decreto número 414 del 11 de septiembre de 1943.
+
+###### Artículo 2o.
+
+El presente Decreto comenzará a surtir sus efectos legales, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
