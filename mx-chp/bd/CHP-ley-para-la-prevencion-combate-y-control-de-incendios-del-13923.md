@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-prevencion-combate-y-control-de-incendios-del-13923
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-24"
-last_updated: "1999-02-24"
+last_updated: "2004-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA LA PREVENCION, COMBATE Y CONTROL DE INCENDIOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 08 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 24 de febrero de 1999.
 
@@ -544,3 +546,25 @@ DADO EN EL SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE TUXTLA GU
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS VEINTICUATRO DIAS DEL MES DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 ROBERTO ALBORES GUILLEN, GOBERNADOR DEL ESTADO.- CARLOS RODOLFO SOTO MONZON, SECRETARIO DE GOBIERNO.- ROMEO ORANTES GORDILLO, SECRETARIO DE ECOLOGIA, RECURSOS NATURALES Y PESCA.- LIBRADO DE LA TORRE GONZALEZ, SECRETARIO DE AGRICULTURA Y GANADERIA.- FRANCISCO HUMBERTO CORDOVA CORDERO, SECRETARIO DE SALUD.- GIOVANNI ZENTENO MIJANGOS, SECRETARIO DE HACIENDA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 08 DE NOVIEMBRE DE 2004.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación.
+
+Segundo.- En un plazo de noventa días hábiles a partir de la entrada en vigor de la presente Ley la Secretaría emitirá el reglamento correspondiente, previa aprobación del ejecutivo estatal.
+
+Tercero.- El Ejecutivo del Estado a través de sus dependencias, proveerá lo conducente para atender los requerimientos de la Secretaría, en cuanto a su estructura presupuestal, edificios, muebles y demás bienes necesarios para el cumplimiento de sus funciones.
+
+Cuarto.- En un plazo de sesenta días hábiles a partir de la entrada en vigor de la presente Ley la Secretaría emitirá las reglas de operación del fondo previa aprobación del Ejecutivo Estatal al día siguiente se instalará formalmente el comité técnico.
+
+Quinto.- Al día siguiente de la entrada en vigor de la presente Ley, se instalarán los Consejos a los que se aluden y en un término de treinta días hábiles presentarán su reglamento interno al titular de la Secretaría, los cuales quedarán inscritos en el Registro.
+
+Sexto.- La Secretaría, en un término de treinta días hábiles proveerá lo conducente para la integración y puesta en marcha de los instrumentos de la política forestal estatal señalados en la presente Ley.
+
+Séptimo.- Se abroga la Ley para la Prevención, Combate y Control de incendios del Estado de Chiapas.
+
+Octavo.- Se abroga el Reglamento que estatuye el uso y la tenencia de la motosierra, publicado en el Periódico Oficial del Estado Núm. 107 de fecha 05 de diciembre de 1990.
+
+Noveno.- Se derogan las demás disposiciones legales en lo que contravengan a la presente Ley.
