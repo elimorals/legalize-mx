@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1998-10-23"
+last_updated: "1999-02-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -219,7 +219,9 @@ XV.- DECIMO QUINTO CIRCUITO:
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
-1.- Dos tribunales colegiados y dos tribunales unitarios, con sede en la ciudad de Guanajuato.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 3/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE FEBRERO DE 1999)</small>
+
+1.- Cuatro tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Guanajuato.
 
 2.- Cinco juzgados de distrito: dos con residencia en la ciudad de Guanajuato, dos con sede en la ciudad de León y uno con residencia en la ciudad de Celaya.
 
@@ -574,5 +576,13 @@ D.O.F. 23 DE OCTUBRE DE 1998.
 PRIMERO.- Este Acuerdo entrará en vigor el día nueve de noviembre de mil novecientos noventa y ocho.
 
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE FEBRERO DE 1999.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día primero de marzo de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
