@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2004-02-25"
+last_updated: "2004-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -199,6 +199,14 @@ I) El Presidente de la Mesa Directiva deberá hacer uso de la palabra a nombre d
 
 Acto seguido y antes de concluir la sesión, el Presidente del Congreso ordenará se expida el decreto respectivo y comunicará a los titulares de los poderes de la Federación, del Estado y de los Ayuntamientos, la legal Instalación de la nueva Legislatura y la apertura del Primer Período Ordinario de Sesiones.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 13 Bis.
+
+La Junta de que Coordinación Política, deberá presentar al Pleno para su aprobación, antes del treinta y uno de octubre de cada año, la Agenda Legislativa anual correspondiente.
+
+La Agenda Legislativa, es el documento aprobado por el Congreso del Estado, que establece el programa de trabajo anual de la Legislatura correspondiente; la cual estará basada en las propuestas que deberán presentar los diferentes grupos y fracciones parlamentarios, a más tardar el 30 de septiembre de cada año.
+
 ## TÍTULO TERCERO. DE LOS DIPUTADOS
 
 ### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS EN EJERCICIO
@@ -337,6 +345,10 @@ D) En una sesión agreda física o verbalmente a algún compañero diputado; y
 
 E) En una sesión profiera amenazas u ofensas, a uno o varios diputados o a los miembros de las instituciones del Estado, los municipios o de la federación;
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2004)</small>
+
+F) Sin causa justificada, los Diputados se presenten con una demora mayor a veinte minutos, de la hora señalada para que dé inicio la sesión correspondiente.
+
 III. APERCIBIMIENTO.- Los diputados serán apercibidos, por el Presidente del Congreso, cuando:
 
 A) Falten sin causa justificada a las sesiones;
@@ -348,6 +360,14 @@ C) Falten dos veces consecutivas a reuniones de la Comisión Legislativa a que p
 D) Cuando incurran en incumplimiento de los deberes a que se refiere el artículo 22 de esta Ley;
 
 IV. DISMINUCIÓN DE SU DIETA.- Los diputados que sin la autorización del Presidente de la Mesa Directiva dejen de asistir hasta por el término de dos sesiones consecutivas, dejarán de percibir las dietas proporcionalmente a sus faltas del mes correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2004)</small>
+
+A) Los Diputados, que hasta en dos ocasiones anteriores, hayan sido apercibidos en términos de lo previsto por el inciso B) de la fracción que antecede, dejarán de percibir la dieta correspondiente a dos días, de conformidad con las reglas que establezca el Congreso para tal efecto.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2004)</small>
+
+B) Los diputados que dejen de asistir hasta por el término de dos sesiones consecutivas, sin la justificación respectiva del Presidente de la Mesa Directiva, dejarán de percibir las dietas del mes correspondiente.
 
 En caso de faltar en más de ocho sesiones consecutivas se estará a lo dispuesto por el artículo 37 constitucional.
 
@@ -426,6 +446,20 @@ XXII. Dar contestación al informe del titular del Ejecutivo Estatal cuando ést
 XXIII. Designar al servidor público que intervenga a nombre del Congreso del Estado, en los actos cívicos u oficiales cuando le correspondan al Poder Legislativo, cuando sea necesario; y
 
 XXIV. Las demás que se deriven de esta Ley, del Reglamento Interior y de las disposiciones o acuerdos que emita el Congreso.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 27 Bis.
+
+Es obligación del Presidente de la Mesa Directiva turnar a los diputados el orden del día de cada sesión ordinaria o extraordinaria anexando los dictámenes y asuntos a tratar en la misma, con anticipación de por lo menos veinticuatro horas antes del inicio de la sesión correspondiente. Asimismo, la Presidencia deberá recabar el acuse de recibo correspondiente en donde conste el día y la hora en que se entrega el orden del día, los dictámenes y demás asuntos a tratar en cada sesión.
+
+En el caso de incumplimiento a lo dispuesto en el párrafo anterior, se sancionará:
+
+I.- Con amonestación; cuando se trate de la primera ocasión;
+
+II.- Con apercibimiento; entratándose de la segunda ocasión; y
+
+III.- Con la disminución de dos días de su dieta; cuando se trate de más ocasiones.
 
 ###### ARTÍCULO 28.
 
@@ -591,7 +625,21 @@ V. Conocer de las solicitudes de juicio político, ejerciendo las atribuciones q
 
 VI. Coordinar los trabajos de la Dirección de Comunicación Social del propio Congreso; y
 
-VII. Las demás que le confiera el Pleno, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna comisión o comité.
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2004)</small>
+
+VII.- Presentar al Pleno del Congreso para su aprobación la Agenda Legislativa anual correspondiente; y
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2004)</small>
+
+VIII.- Las demás que le confiera el Pleno, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna Comisión o Comité.
+
+(ADICIONADO, P.O. 30 DE JULIO DE 2004) (F. DE E., P.O. 11 DE AGOSTO DE 2004)
+
+###### ARTÍCULO 40 Bis.
+
+La Junta de Coordinación Política, deberá presentar al Pleno para su aprobación, antes del treinta y uno de octubre de cada año, la Agenda Legislativa anual correspondiente.
+
+La Agenda Legislativa, es el documento aprobado por el Congreso del Estado, que establece el programa de trabajo anual de la Legislatura correspondiente; la cual estará basada en las propuestas que deberán presentar los diferentes grupos y fracciones parlamentarios, a más tardar el 30 de septiembre de cada año.
 
 ### CAPÍTULO III. DE LAS COMISIONES LEGISLATIVAS
 
@@ -1229,6 +1277,14 @@ XI. Proporcionar asesoría y apoyo jurídico, que comprende la atención de los 
 
 XII. Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confieran.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 81 Bis.
+
+Una vez aprobadas por la Conferencia las ordenes del día de las sesiones ordinarias y extraordinarias, serán entregadas a la Presidencia de la Mesa Directiva o al Secretario General de Servicios Legislativos y Parlamentarios, quien tiene la obligación de entregar a todos los diputados, el orden del día de la sesión respectiva en unión de los dictámenes y asuntos a tratar en la misma, con una anticipación mínima de por lo menos veinticuatro horas antes del inicio de cada sesión.
+
+En caso de que por causas imputables al Secretario General de Servicios Legislativos y Parlamentarios, los diputados no cuenten oportunamente con los documentos a que alude esta disposición, se hará acreedor a las sanciones previstas en el artículo 27 bis de la presente Ley.
+
 ###### ARTÍCULO 82.
 
 La Secretaría General de Servicios Administrativos y Financieros depende del Presidente de la Mesa Directiva, y tiene a su cargo los servicios administrativos y de los fondos del presupuesto del Congreso.
@@ -1432,3 +1488,9 @@ El presente Decreto entrará en vigor el día de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 30 DE JULIO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+Segundo.- Para efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
