@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-12-09"
+last_updated: "2004-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -651,7 +651,9 @@ XII. Abstenerse de desempeñar otro empleo, cargo o comisión oficial, o particu
 
 XIII. Abstenerse de autorizar la selección, contratación, nombramiento o designación, de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
 
-XIV. Abstenerse de intervenir en el nombramiento, contratación o promoción como servidores públicos a personas con quienes tenga parentesco consanguíneo o por afinidad hasta el cuarto grado. Cuando al momento en que el servidor público asumió el cargo o comisión de que se trate, ya se encontrare en ejercicio de una función o responsabilidad pública el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIV. Abstenerse de intervenir, en el nombramiento, contratación, o la promoción, por sí o por conducto de otro servidor público, a personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, para ocupar algún cargo público de los señalados en la Ley para los Servidores Públicos del Estado de Jalisco. Cuando al momento en que el servidor público asumió el cargo o comisión de que se trate ya se encontrare en ejercicio de una función o responsabilidad pública, el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
 
 XV. Abstenerse de solicitar, aceptar, recibir u obtener por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio, para sí o para un tercero u ofrecer una promesa para hacer, dejar de hacer o promover algo legal o ilegal relacionado con sus funciones. Esta prevención es aplicable hasta por un año después de que haya cumplido el ejercicio de sus funciones;
 
@@ -1182,3 +1184,7 @@ P.O. 23 DE NOVIEMBRE DE 2004.
 P.O. 9 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor el día 1º de enero de 2005, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
