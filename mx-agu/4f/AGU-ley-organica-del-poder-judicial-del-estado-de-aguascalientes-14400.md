@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "1997-06-22"
+last_updated: "1999-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1999.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -649,9 +649,11 @@ XVIII.- Depósito de personas; y
 
 XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código Civil.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 41.
 
-Los Juzgados Penales conocerán de la primera instancia de todos los delitos que no sean de la competencia de los Juzgados Menores Mixtos y del Supremo Tribunal de Justicia, así como de las demás diligencias que les encomienden las Leyes.
+Los Juzgados Penales conocerán en la Primera Instancia de todos los delitos que no sean de la competencia de los Juzgados Menores Mixtos y del Supremo Tribunal de Justicia, así como de los recursos y demás diligencias que les encomienden las leyes.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
 
@@ -1242,3 +1244,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE JUNIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
