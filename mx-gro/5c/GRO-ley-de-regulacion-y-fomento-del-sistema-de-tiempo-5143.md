@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-regulacion-y-fomento-del-sistema-de-tiempo-5143"
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-03"
-last_updated: "1989-11-03"
+last_updated: "1990-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE REGULACION Y FOMENTO DEL SISTEMA DE TIEMPO COMPARTIDO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de noviembre de 1989.
 
@@ -47,6 +47,10 @@ Para los efectos de esta Ley se entiende por:
 
 I.- Tiempo Compartido: el sistema por el cual se adquiere el derecho de uso, goce y disfrute de una unidad residencial vacacional, los bienes muebles que a ella se encuentren afectos, y en su caso, las instalaciones, áreas, construcciones y servicios comunes, siempre y cuando el derecho se límite a un número determinado de días por un período específico de años. El Sistema podrá constituirse sobre los bienes muebles afectos a unidades residenciales vacacionales, aplicándose las disposiciones de esta Ley en todo lo que no contraríe a su naturaleza;
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 1990)</small>
+
+El Sistema de Tiempo Compartido regirá para bienes ubicados en el Estado de Guerrero y también podrá recaer sobre bienes muebles constituidos en Sistemas de Tiempo-Compartido aunque no estén afectos a bienes inmuebles.
+
 II.- Propietario: la persona física o moral dueña de un bien inmueble, bienes muebles necesarios para su operación, instalaciones, áreas, construcciones y servicios comunes, afectos al régimen de tiempo compartido;
 
 III.- Multipropiedad: el derecho por el cual el multipropietario adquiere el dominio pleno sobre una parte alícuota de una unidad inmobiliaria de cualquier tipo, afecta a cualquier destino, respecto de la cual ejerce todas las facultades de dueño para disponer, transmitir, intercambiar y gravar; sujeto a un calendario en cuanto a los derechos de uso, goce, aprovechamiento y disfrute exclusivo, en los términos de su respectiva parte alícuota de utilización, terminada la cual, continuarán en el uso exclusivo por su orden el resto de los multipropietarios en forma sucesiva y cíclica.
@@ -57,11 +61,15 @@ IV.- Tiempocompartidario: la persona física o moral que adquiera el uso, goce, 
 
 V.- Desarrollador: la persona física o moral que construya o promueva el establecimiento de sistemas de tiempo compartido de acuerdo a lo previsto en la presente Ley y los reglamentos que de ella emanen;
 
-VI.- Promotor: la persona física o moral que promueva sistemas de tiempo compartido constituidos en los términos de este ordenamiento;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1990)</small>
+
+VI.- Promotor: para efectos de esta ley y de sus reglamentos los términos promotor y desarrollador se tienen por sinónimos;
 
 VII.- Prestador del servicio turístico compartido: la persona física o moral que coordine todos los servicios a que se refiere el primer párrafo del Artículo anterior;
 
-VIII.- Vendedor: la persona física o moral que se dedique a la promoción, venta y concertación de contratos que tengan por objeto el uso, goce o disfrute de bienes y servicios bajo la modalidad de tiempo compartido, bajo la dirección o por cuenta y orden del propietario, promotor o desarrollador, y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1990)</small>
+
+VIII.- Vendedor: la persona física o moral que se dedique a la promoción, venta o celebración de contratos, que tengan por objeto conceder el derecho de uso, goce y disfrute de bienes y servicios dentro de Sistemas de Tiempo Compartido;
 
 IX.- Cuota: pago en dinero a cargo del tiempo compartidario destinado a cubrir los gastos ordinarios y extraordinarios que le correspondan conforme a lo contratado.
 
@@ -242,6 +250,8 @@ VIII.- Autorizar que en la publicidad o promoción de los Sistemas de Tiempo Com
 IX.- Tomar conocimiento cuando se le proporcione la información necesaria, de que las sesiones de las asambleas de los Sistemas de Tiempo Compartido se celebren conforme a esta Ley;
 
 X.- Llevar el padrón de representantes comunes de los tiempocompartidarios y multipropietarios;
+
+> <small>N. DE E. POR FE DE ERRATAS PUBLICADA EL 19 DE JUNIO DE 1990 SE PRECISA QUE LA DEROGACION NO FUE APROBADA, POR LO QUE SUBSISTE TEXTO ORIGINAL.</small>
 
 XI.- Cuidar que las empresas que intervengan en los Sistemas de Tiempo Compartido tengan su domicilio fiscal en el Estado, y
 
@@ -635,9 +645,11 @@ Los derechos de los multipropietarios estarán regulados por esta Ley; por la es
 
 Se equiparan en cuanto a la descripción típica del fraude genérico contemplado en el Código Penal y se sancionará con una pena de uno a nueve años de prisión y multa de hasta quinientas veces el salario mínimo diario vigente a quien realice cualquier clase de promoción o campaña publicitaria, celebre cualquier acto jurídico, oferte la venta o compra u otros actos similares en violación a lo previsto en los Artículos 9, 16 y 21 de la presente Ley, o a quien venda derechos de tiempo compartido por plazos que excedan al de la afectación del inmueble al Sistema de Tiempo Compartido.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1990)</small>
+
 ###### ARTICULO 65.
 
-Se equipara en cuanto a la descripción típica del fraude genérico contemplado en el Código Penal y se sancionará con una pena de uno a nueve años de prisión y multa hasta de quinientas veces el salario mínimo al que teniendo a su cargo la administración o el cuidado de bienes ajenos en el Sistema de Tiempo Compartido o multipropiedad, cause algún perjuicio o alcance de lucro indebido en beneficio de sí o de otro.
+Se equipara en cuanto a la descripción típica del fraude genérico contemplado en el Código Penal y se sancionará con una pena de uno a nueve años de prisión y multas hasta de quinientas veces el salario mínimo al que teniendo a su cargo la administración o el cuidado de bienes afectos al Sistema de Tiempo Compartido o Multipropiedad, los desvíe causando algún prejuicio (sic) en beneficio de sí o de otro.
 
 ###### ARTICULO 66.
 
@@ -704,3 +716,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE MARZO DE 1990.
+
+UNICO.- El presente Decreto de Reformas y Adiciones a la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
