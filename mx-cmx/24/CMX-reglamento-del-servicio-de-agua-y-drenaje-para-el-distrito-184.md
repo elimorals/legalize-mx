@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-de-agua-y-drenaje-para-el-distrito-184"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-29"
-last_updated: "1991-06-03"
+last_updated: "1993-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1990-01-05"
 
 REGLAMENTO DEL SERVICIO DE AGUA Y DRENAJE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JUNIO DE 1991. REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 5 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE AGOSTO DE 1993. REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE AGOSTO DE 1993.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 25 de enero de 1990.
 
@@ -750,9 +750,19 @@ Queda prohibida la descarga de aguas residuales o de contaminantes a que se refi
 
 ### CAPITULO III. Usos industriales del agua residual tratada
 
+(REFORMADO, G.O. 2 DE AGOSTO DE 1993) (REPUBLICADO, D.O.F. 6 DE AGOSTO DE 1993)
+
 ###### ARTICULO 77.
 
-El agua residual tratada producida en las plantas de tratamiento, libre de compuestos tóxicos y orgánicos patógenos que pongan en peligro la salud, podrá ser empleada por los establecimientos, giros mercantiles y la industria ubicados en el Distrito Federal para los procesos de limpieza, transporte, enfriamiento, generación de vapor, lavado de maquinarias, de unidades automotrices y riesgo de áreas verdes.
+Deberán utilizar agua residual tratada producida en las plantas de tratamiento, libre de compuestos tóxicos y orgánicos patógenos que pongan en peligro la salud, siempre y cuando haya disponibilidad en:
+
+I.- Los establecimientos: mercantiles, de servicios, de recreación y centros comerciales que ocupen una superficie de 5,000 m2 en adelante en sus actividades de limpieza de instalaciones, parque vehicular y áreas verdes.
+
+II.- Las industrias ubicadas en el Distrito Federal que en todos sus procesos productivos no requieran necesariamente de agua potable, así como en las actividades mencionadas en la fracción anterior.
+
+III.- Las obras en construcción mayores de 2,500 m2 así como en terracerías y compactación de suelos, y
+
+IV.- Los establecimientos dedicados al lavado de autos.
 
 ### CAPITULO IV. Requerimientos previos y de operación
 
@@ -1102,6 +1112,12 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
+(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1993) (REPUBLICADO, 6 DE AGOSTO DE 1993)
+
+ARTICULO 134 BIS.- Se sancionará con multa de 100 a 1,000 días de salario mínimo diario general vigente en el Distrito Federal, a los propietarios o encargados que violen lo dispuesto en el artículo 77 de este Reglamento.
+
+En caso de reincidencia, además de las sanciones que establece el artículo 136, se impondrá a los infractores la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industria.
+
 ###### ARTICULO 135.
 
 En caso de que el usuario no cumpla con las disposiciones giradas dentro del término establecido a las mismas con base en este Reglamento y los demás ordenamientos aplicables, el Departamento estará facultado para ejecutar a costa del propio usuario las obras, reparaciones y adaptaciones que haya ordenado.
@@ -1213,3 +1229,11 @@ REPUBLICADO, D.O.F. 5 DE JUNIO DE 1991.
 PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación por ser de interés general.
+
+G.O. 2 DE AGOSTO DE 1993.
+
+REPUBLICADO, D.O.F. 6 DE AGOSTO DE 1993.
+
+PRIMERO.- La presente reforma y adición al Reglamento del Servicio de Agua y Drenaje para el Distrito Federal, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
+
+SEGUNDO.- Por ser de interés general, publíquese en el Diario Oficial de la Federación.
