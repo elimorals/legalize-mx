@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-comisiones-del-instituto-electoral-del-estado-400
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-19"
-last_updated: "2001-03-19"
+last_updated: "2001-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2001.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de marzo de 2001.
 
@@ -237,6 +237,10 @@ VIII.- Los acuerdos que tome la Comisión, se presentarán como informes o dict�
 
 Si un miembro de alguna Comisión Permanente de que se trate acumula tres faltas injustificadas a las sesiones de la misma, la Comisión hará constancia de ello, a efecto de que el Consejero Presidente informe de dichas ausencias en sesión ordinaria del Consejo para que éste determine lo conducente.
 
+### CAPÍTULO V. DE LAS COMISIONES ESPECIALES DE LOS CONSEJOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
 ###### Artículo 23.
 
 La denominación que adoptarán las Comisiones Especiales será de “Comisión Especial” seguida de las palabras necesarias que se refieran al objeto para el que fue integrada.
@@ -357,6 +361,292 @@ VIII.- Las Comisiones sesionarán las veces que sea necesario; y
 
 IX.- Las demás que les señalen el Código, el presente Reglamento y el propio Consejo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2001)</small>
+
+### CAPÍTULO VI. DISPOSICIONES COMUNES A LAS COMISIONES ESPECIALES DISTRITALES Y MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 39.
+
+Los Consejos Distritales podrán acordar la conformación de las Comisiones Especiales que consideren, para el mejor desempeño de sus actividades y ejercicio de sus atribuciones. Dichas Comisiones se integrarán con el número de miembros del Consejo Distrital que para cada caso acuerde el mismo, estando dentro de su conformación los Consejeros Electorales que el propio Consejo Distrital determine, en los términos de este Reglamento, no pudiendo ser menos de tres.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 40.
+
+La denominación que adoptarán las Comisiones Especiales de los Consejos Distritales será de ''Comisión Especial Distrital'' seguida de los vocablos necesarios que se refieran al asunto para el que fueron integradas.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 41.
+
+El acuerdo por el que se integre una Comisión Especial Distrital deberá contener el objeto de la misma y los nombres de los Consejeros Electorales, así como la representación de los partidos políticos acreditados ante el Consejo, que la integren. El Secretario del Consejo Distrital respectivo, deberá hacerlo del conocimiento del Consejo General, por conducto del Secretario General, en un término que no exceda de cuarenta y ocho horas, a partir de su aprobación, mediante oficio, en forma personal o vía fax recabando la constancia de recibo correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 42.
+
+En el caso de que los Consejos Distritales consideren que un asunto es de extrema urgencia, en sesión podrán integrar una Comisión Especial Distrital y elegirán a su Presidente para que proceda, de inmediato, a la atención de aquél y al desarrollo de las funciones que se le encomienden. A este efecto el Secretario del Consejo Distrital deberá extraer del acta de sesión la parte conducente, la que enviará al Consejo General, para su conocimiento, por conducto del Secretario General, por los medios que se estimen pertinentes y recabando el acuse por la misma vía.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 43.
+
+De todos los asuntos que le sean encomendados a las Comisiones Especiales Distritales, deberán presentar al Consejo Distrital un informe o dictamen, según sea el caso, antes de que sea analizado por el Pleno.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 44.
+
+Los Consejos Distritales vigilarán el adecuado funcionamiento de las Comisiones Especiales Distritales y se pronunciarán respecto de los informes o dictámenes que éstas le rindan dentro de los plazos establecidos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 45.
+
+Las Comisiones Especiales Distritales serán presididas siempre por un Consejero Electoral que forme parte de las mismas, quien será electo por mayoría de votos de los propios Consejeros.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 46.
+
+Las Comisiones Especiales Distritales sesionarán al día siguiente de su integración para nombrar a su Presidente, salvo el caso previsto en el artículo 42 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 47.
+
+Las Comisiones Especiales Distritales tendrán las atribuciones siguientes:
+
+I. Recibir la documentación relacionada con el asunto que les fue encomendado;
+
+II. Integrar un expediente relativo a cada asunto que se les encomiende;
+
+III. Requerir las pruebas necesarias y conducentes para la correcta integración de los expedientes, de tal manera que les permita la consecución del objetivo para el cual fueron creadas;
+
+IV. Notificar, por escrito y en forma personal, a quienes sean parte en la investigación que realicen con motivo de su encomienda;
+
+V. Elaborar un informe o dictamen, de cada asunto que se les encomiende;
+
+VI. Someter a consideración del Consejo Distrital los informes o dictámenes correspondientes; y
+
+VII. Las demás que señale el Código, el presente Reglamento y el propio Consejo Distrital.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 48.
+
+Las reuniones que celebren las Comisiones Especiales Distritales se harán en las fechas que así determine su Presidente quien, por medio del Secretario, convocará y notificará a sus integrantes.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 49.
+
+Si un miembro de una Comisión Especial Distrital acumula dos faltas injustificadas a las sesiones de la misma, el Secretario de la Comisión Especial Distrital hará constancia de ello para que el Consejero Presidente informe, en sesión ordinaria, al Consejo Distrital de dichas ausencias a efecto de que deje de formar parte de ella.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 50.
+
+Las Comisiones Especiales Distritales concluirán sus funciones en la fecha señalada en el acuerdo del Consejo Distrital por el que se determinó su integración, pudiendo prorrogar el desarrollo de sus actividades cuando el propio Consejo Distrital lo considere pertinente.
+
+Igualmente, cesará en el ejercicio de sus funciones una vez que el Consejo Distrital resuelva en definitiva el asunto encomendado.
+
+En ambos casos, el Secretario del Consejo Distrital lo hará del conocimiento del Consejo General, por conducto del Secretario General, mediante oficio y en forma personal o vía fax recabando la constancia de recibo correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 51.
+
+Las Comisiones Especiales Distritales funcionarán mediante sesiones, de acuerdo con los lineamientos siguientes:
+
+I.- El Presidente de la Comisión Especial Distrital convocará a todos los integrantes de la misma, con dos días de anticipación, como mínimo, al día en que deba celebrarse la sesión, salvo las integradas conforme al artículo 42 de este Reglamento;
+
+II.- La notificación de la convocatoria deberá realizarse por cualquier medio escrito, recabándose la constancia del acuse de recibo correspondiente;
+
+III.- A la convocatoria deberá anexarse el orden del día respectivo, y demás documentos relacionados con los puntos a tratar;
+
+IV.- Los acuerdos que tome la Comisión Especial Distrital serán aprobados por mayoría de votos, teniendo el Presidente de la misma, el voto de calidad en caso de empate;
+
+V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, dejará constancia de las razones de su inconformidad en el acta respectiva;
+
+VI.- Cualquier integrante de la Comisión Especial Distrital podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite; y
+
+VII. Los acuerdos que tome la Comisión, se presentarán como informes o dictámenes al Consejo Distrital Electoral correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 52.
+
+Los Consejos Distritales deberán integrar, para el desempeño de sus atribuciones, dentro de los quince días siguientes a la celebración de la sesión de instalación del Órgano Electoral correspondiente, las Comisiones siguientes:
+
+I.- La Comisión Especial Distrital de Organización Electoral;
+
+II.- La Comisión Especial Distrital de Capacitación Electoral; y
+
+III.- La Comisión Especial Distrital de Administración.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 53.
+
+Las Comisiones Especiales Distritales enunciadas en el artículo anterior tendrán las atribuciones siguientes:
+
+I.- Coadyuvar con los Coordinadores de Organización Electoral y Capacitación Electoral para el mejor desempeño de sus funciones;
+
+II.- Formular informes o dictámenes relacionados con el ámbito de su competencia;
+
+III.- Fijar sus propios procedimientos y normas de trabajo; y
+
+IV.- Las demás que les confiera el Código, el presente Reglamento y el propio Consejo Distrital.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 54.
+
+La Comisión Especial Distrital de Administración, además de las atribuciones enunciadas en el artículo anterior vigilará al Secretario del Consejo Distrital Electoral en el ejercicio del presupuesto.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 55.
+
+Las Comisiones Especiales Distritales, comunicarán al Director General del Instituto el desarrollo de sus trabajos, y éste a su vez comunicará a las Direcciones correspondientes lo conducente.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 56.
+
+El Secretario del Consejo Distrital Electoral, así como, las Coordinaciones de Organización Electoral y Capacitación Electoral deberán prestar ayuda a las Comisiones Especiales Distritales, para el desempeño de sus funciones.
+
+### CAPÍTULO IV. DE LAS COMISIONES ESPECIALES DE LOS CONSEJOS DISTRITALES
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 57.
+
+Los Consejos Municipales podrán integrar las Comisiones Especiales que consideren, encargadas de constatar hechos denunciados durante el desarrollo de la jornada electoral.
+
+Las Comisiones Especiales Municipales se integrarán con el número de miembros del Consejo Municipal que para cada caso acuerde el mismo, estando dentro de su conformación los Consejeros Electorales que el propio Consejo Municipal determine, no pudiendo ser menos de tres.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 58.
+
+La denominación que adoptarán las Comisiones Especiales de los Consejos Municipales será de ''Comisión Especial Municipal'' seguida de los vocablos necesarios que se refieran al asunto para el que fueron integradas.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 59.
+
+El acuerdo por el que se integre una Comisión Especial Municipal deberá contener el objeto de la misma y los nombres de los Consejeros Electorales, así como la representación de los partidos políticos acreditados ante el Consejo, que la integren. El Secretario del Consejo Municipal respectivo, deberá hacerlo del conocimiento del Consejo General, por conducto del Secretario General, de manera inmediata, a partir de su aprobación, mediante escrito y por los medios que se estimen pertinentes recabando el acuse por la misma vía.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 60.
+
+Los acuerdos que tome la Comisión Especial Municipal serán aprobados por mayoría de votos, teniendo el Presidente de la misma, voto de calidad en caso de empate.
+
+Los acuerdos que tome la Comisión Especial Municipal, se presentarán como informes o dictámenes al Consejo Municipal Electoral, según sea el caso, antes de que sea analizado por el Pleno el asunto que les fue encomendado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 61.
+
+Los Consejos Municipales vigilarán el adecuado funcionamiento de la Comisiones Especiales Municipales y se pronunciarán respecto de los informes o dictámenes que éstas le rindan dentro de los plazos establecidos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 62.
+
+Las Comisiones Especiales Municipales serán presididas siempre por un Consejero Electoral que forme parte de las mismas, quien será electo por mayoría de votos de los propios Consejeros.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 63.
+
+Las Comisiones Especiales Municipales tendrán las atribuciones siguientes:
+
+I.- Recibir la documentación relacionada con el asunto que les fue encomendado;
+
+II.- Integrar un expediente relativo a cada asunto que se les encomiende;
+
+III.- Requerir las pruebas necesarias y conducentes para la correcta integración de los expedientes, de tal manera que les permita la consecución del objetivo para el cual fueron creadas;
+
+IV.- Notificar, por escrito y en forma personal, a quienes sean parte en la investigación que realicen con motivo de su encomienda;
+
+V.- Elaborar un informe o dictamen, de cada asunto que se les encomiende;
+
+VI.- Someter a consideración del Consejo Municipal los informes o dictámenes correspondientes; y
+
+VII. Las demás que señale el Código, el presente Reglamento y el propio Consejo Municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 64.
+
+Las Comisiones Especiales Municipales concluirán sus funciones en la fecha señalada en el acuerdo del Consejo Municipal por el que se determinó su integración, pudiendo prorrogar el desarrollo de sus actividades cuando el propio Consejo Municipal lo considere pertinente.
+
+Igualmente, cesará en el ejercicio de sus funciones una vez que el Consejo Municipal resuelva en definitiva el asunto encomendado.
+
+En ambos casos, el Secretario del Consejo Municipal lo hará del conocimiento del Consejo General, por conducto del Secretario General, mediante oficio y por los medios que considere pertinentes recabando el acuse por la misma vía.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 65.
+
+Las Comisiones Especiales Municipales funcionarán mediante sesiones, de acuerdo con los lineamientos siguientes:
+
+I.- Los acuerdos que tome la Comisión Especial Municipal serán aprobados por mayoría de votos, teniendo el Presidente de la misma voto de calidad, en caso de empate;
+
+II.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, dejará constancia de las razones de su inconformidad en el acta respectiva.
+
+III.- Cualquier integrante de la Comisión Especial Municipal podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite; y
+
+IV.- Los acuerdos que tome la Comisión, se presentarán como informes o dictámenes al Consejo Municipal Electoral correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 66.
+
+Los Presidentes de las Comisiones tendrán las atribuciones siguientes:
+
+I.- Representar y presidir las Comisiones;
+
+II.- Para el caso de los Consejos Distritales, convocar a sus integrantes por medio del Secretario de la Comisión, a las sesiones ordinarias y extraordinarias;
+
+III.- Conducir las sesiones de las Comisiones y preservar el orden dentro de las mismas;
+
+IV.- Vigilar que se cumplan los fines u objetivos de la Comisión;
+
+V.- Solicitar, por medio del Consejero Presidente del Consejo correspondiente, los informes o documentos en poder de las autoridades federales, estatales o municipales que sirvan para la substanciación y resolución del asunto en cuestión, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos por la normatividad correspondiente;
+
+VI.- Rendir al Consejo correspondiente un informe o dictamen en relación con el asunto encomendado; y
+
+VII.- Las demás que señala el Código, el presente Reglamento o el Consejo Distrital o Municipal en su caso, para el correcto funcionamiento de la Comisión.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 67.
+
+Actuarán como Secretarios de las Comisiones Especiales, el Consejero Electoral que la propia Comisión determine y tendrán las atribuciones siguientes:
+
+I.- Verificar el quórum de las sesiones;
+
+II.- Levantar el acta correspondiente al finalizar cada una de las sesiones de la Comisión;
+
+III.- Elaborar el informe o dictamen, del asunto a resolver; y
+
+IV.- Las demás que señale el Código, el presente Reglamento o el Consejo Distrital o Municipal en su caso, para el correcto funcionamiento de la Comisión.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+
+###### Artículo 68.
+
+Para el cumplimiento de las atribuciones de las Comisiones, el Consejero Presidente del Consejo Distrital o Municipal respectivo, así como el personal de los órganos Distritales o Municipales, deberán proporcionar la información que les sea solicitada en los términos del Código, del Estatuto, del Reglamento Interior, del presente Ordenamiento y demás disposiciones aprobadas por los Consejos Electorales del Instituto Electoral del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2001)</small>
+
 ## TRANSITORIOS
 
 Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su aprobación, por el Consejo General del Instituto Electoral del Estado.
@@ -366,3 +656,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- El presente Reglamento fue aprobado por el Consejo General del Instituto Electoral del Estado, en sesión de fecha doce de marzo de dos mil uno.
 
 Consejero Presidente.- LICENCIADO ALEJANDRO ARTURO NECOECHEA GOMEZ.- Rúbrica.- Secretario General.- MAESTRO JOSE ANTONIO BRETON BETANZOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JUNIO DE 2001.
+
+Artículo Primero.- La presente adición al Reglamento de Comisiones del Instituto Electoral del Estado, entrarán en vigor a partir del día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+Artículo Tercero.- La Presente adición al Reglamento de Comisiones del Instituto Electoral del Estado fueron aprobadas por el Consejo del Instituto Electoral del Estado, en sesión ordinaria de fecha ocho de mayo de dos mil uno.
