@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-federal-de-9201"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-09"
-last_updated: "1996-12-09"
+last_updated: "1999-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,23 +21,13 @@ issue_date: "1996-12-05"
 
 REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1999.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 9 de diciembre de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos, Secretaría de Comunicaciones y Transportes.
 
 Con fundamento en los artículos 16 y 17, 36 y demás relativos de la Ley Orgánica de la Administración Pública Federal, 7 y Décimo Primero Transitorio de la Ley Federal de Telecomunicaciones, TERCERO y QUINTO del Decreto por el que se crea la Comisión Federal de Telecomunicaciones, y 37 Bis, fracción XXIX del Reglamento Interior de la Secretaría de Comunicaciones y Transportes, y
-
-CONSIDERANDO
-
-Que mediante Decreto del Ejecutivo Federal, publicado en el Diario Oficial de la Federación el 9 de agosto de 1996, se creó la Comisión Federal de Telecomunicaciones, como órgano administrativo desconcentrado de la Secretaría de Comunicaciones y Transportes, con autonomía técnica y operativa, con el propósito de regular y promover el desarrollo eficiente de las telecomunicaciones;
-
-Que el artículo 37 Bis fracción XXIX del Reglamento Interior de la Secretaría de Comunicaciones y Transportes establece que es atribución de la Comisión Federal de Telecomunicaciones expedir su reglamento interno, y
-
-Que en sesión colegiada celebrada el 4 de diciembre de 1996, los CC. Comisionados aprobaron por unanimidad el Reglamento Interno de la Comisión Federal de Telecomunicaciones con el objeto de establecer su estructura orgánica y bases de operación, se expide el presente:
-
-REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
 CONSIDERANDO
 
@@ -103,27 +93,81 @@ b) De Planeación y Análisis Económico, y
 
 c) De Ingeniería y Tecnología.
 
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
 IV. Las Coordinaciones Generales:
 
-a) De Asuntos Internacionales, y
+a) Ejecutiva;
 
-b) De Servicios de Telecomunicaciones y Verificación.
+b) De Asuntos Internacionales, y
+
+c) De Servicios de Telecomunicaciones.
 
 V. Las Coordinaciones:
 
-a) De Comunicación Social y Asuntos del Consumidor;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+a) De Comunicación Social;
 
 b) De Administración, y
 
 c) De Asesores.
 
-VI. La Contraloría Interna;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
 
-VII. El Secretario Técnico del Pleno;
+VI. Las Direcciones Generales de:
 
-VIII. El Consejo Consultivo, y
+a) Asuntos Contenciosos;
 
-IX. Las demás unidades y personal técnico y administrativo que autorice el Presidente de acuerdo con el presupuesto autorizado y sujeto a las normas y lineamientos que la Secretaría de Hacienda y Crédito Público establezca para las unidades de gasto autónomo.
+b) Consulta Jurídica y Normatividad;
+
+c) Aspectos Regulatorios e Instrumentación Legal;
+
+d) Tarifas e Integración Estadística;
+
+e) Estudios Económicos y Regulatorios;
+
+f) Análisis Financiero;
+
+g) Estudios Técnicos, Investigación y Desarrollo;
+
+h) Planes Fundamentales de Telecomunicaciones;
+
+i) Ingeniería y Homologación;
+
+j) Planeación y Administración del Espectro;
+
+k) Ejecutiva;
+
+l) Licitaciones del Espectro Radioeléctrico;
+
+m) Inspección, Verificación y Radiomonitoreo;
+
+n) Recaudación y Coordinación Regional;
+
+o) Cooperación Internacional;
+
+p) Organismos de Regulación Internacional;
+
+q) Comunicación Vía Satélite;
+
+r) Televisión y Audio Restringidos;
+
+s) Servicio Local y Radiocomunicación, y
+
+t) Larga Distancia y Valor Agregado.
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
+VII. La Contraloría Interna;
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
+VIII. El Secretario Técnico del Pleno, y
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
+IX. Las demás unidades y personal técnico y administrativo que autorice el Presidente, de acuerdo con el presupuesto autorizado y sujeto a las normas y lineamientos que la Secretaría de Hacienda y Crédito Público establezca para las unidades de gasto autónomo.
 
 ###### Artículo 7.
 
@@ -143,9 +187,11 @@ El Pleno es el órgano supremo de decisión de la Comisión y se integra por los
 
 Los Comisionados deliberarán en forma colegiada y decidirán los asuntos por mayoría de votos, teniendo el Presidente voto de calidad. Los Comisionados no podrán abstenerse de votar, excepto cuando tengan impedimento legal.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 10.
 
-El Pleno sesionará por lo menos una vez al mes, en sesión ordinaria, y cada vez que sea convocado por su Presidente o por dos Comisionados, en sesión extraordinaria. El Pleno sesionará válidamente con la asistencia de tres de sus miembros.
+El Pleno sesionará válidamente con la asistencia de, al menos, tres de sus miembros. Sin perjuicio de lo anterior, los asuntos que lo requieran, deberán ser previamente dictaminados por las áreas generales que correspondan, a efecto de que el dictamen o los dictámenes respectivos sirvan de base para resolver cada caso.
 
 ###### Artículo 11.
 
@@ -153,9 +199,7 @@ En ausencia del Presidente, presidirá la sesión del Pleno el Comisionado que s
 
 ###### Artículo 12.
 
-Las sesiones ordinarias se realizarán conforme al calendaario que al efecto establezca el Pleno. Las sesiones extraordinarias deberán ser convocadas por lo menos con 24 horas de anticipación, señalándose lugar, fecha, hora de celebración y orden del día de la misma.
-
-Sin perjuicio de lo dispuesto para las sesiones ordinarias y extraordinarias, los acuerdos y las resoluciones tomadas en sesiones en las que participen todos los miembros del Pleno, aun cuando no exista convocatoria, se considerarán válidas.
+(DEROGADO, D.O.F. 21 DE JULIO DE 1999)
 
 ###### Artículo 13.
 
@@ -165,6 +209,8 @@ De las sesiones del Pleno se levantará acta, en la que se asentarán los acuerd
 
 El Pleno asignará a cada uno de los Comisionados, con excepción del Presidente, una de las Areas Generales a que se refiere el artículo 6 fracción III de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 15.
 
 Corresponde al Pleno:
@@ -173,47 +219,43 @@ I. Emitir disposiciones administrativas en materia de telecomunicaciones;
 
 II. Expedir los planes técnicos fundamentales, las normas oficiales mexicanas y demás disposiciones administrativas en materia de telecomunicaciones;
 
-III. Opinar sobre los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, y de permisos o de títulos de concesión en materia de telecomunicaciones elaborados por las unidades administrativas de la Comisión;
+III. Emitir opinión respecto de las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones, asignaciones y permisos en materia de telecomunicaciones que le turne la Secretaría, sustentada en los dictámenes técnicos, económico-financieros y legales que realicen las unidades administrativas de la propia Comisión;
 
-IV. Exhortar a los concesionarios, permisionarios y operadores de servicios de telecomunicaciones, al cumplimiento de las disposiciones legales, reglamentarias y administrativas aplicables;
+IV. Opinar sobre los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, y de permisos o de títulos de concesión en materia de telecomunicaciones elaborados por las unidades administrativas de la Comisión;
 
-V. Proponer a la Secretaría la imposición de sanciones cuando los concesionarios, permisionarios u operadores de servicios de telecomunicaciones contravengan las disposiciones legales, reglamentarias y administrativas aplicables;
+V. Evaluar los resultados de las inspecciones efectuadas y, en su caso, aprobar las propuestas de imposición de sanciones por infracciones a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VI. Evaluar los resultados de las inspecciones efectuadas y, en su caso, aprobar las propuestas de imposición de sanciones por infracciones a las disposiciones legales, reglamentarias y administrativas aplicables;
+VI. Proponer a la Secretaría la imposición de sanciones cuando los concesionarios, permisionarios u operadores de servicios de telecomunicaciones contravengan las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VII. Emitir opinión respecto de las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones, asignaciones y permisos en materia de telecomunicaciones que le turne la Secretaría, sustentada en los dictámenes técnicos, económico-financieros y legales que realicen las unidades administrativas de la propia Comisión;
+VII. Proponer a la Secretaría la revocación de concesiones y permisos en materia de telecomunicaciones;
 
-VIII. Proponer a la Secretaría la revocación de concesiones y permisos en materia de telecomunicaciones;
+VIII. Someter a la aprobación de la Secretaría, los programas sobre bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y coberturas geográficas, que serán materia de licitación pública;
 
-IX. Someter a la aprobación de la Secretaría, los programas sobre bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y coberturas geográficas, que serán materia de licitación pública;
+IX. Expedir convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados, y para ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país; resolver respecto de la calificación de los interesados en dichas licitaciones con base en los dictámenes técnicos, económico-finacieros y legales que realice la propia Comisión, y emitir los fallos correspondientes;
 
-X. Expedir las convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados, y para ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país; resolver respecto de la calificación de los interesados en dichas licitaciones con base en los dictámenes técnicos, económico-financieros y legales que realice la propia Comisión, y emitir los fallos correspondientes;
+X. Aprobar las modificaciones al Cuadro Nacional de Atribución de Frecuencias;
 
-XI. Aprobar las modificaciones al Cuadro Nacional de Atribución de Frecuencias;
+XI. Aprobar los convenios de interconexión entre redes públicas de telecomunicaciones con redes extranjeras y, en su caso, establecer las modalidades a que deberán sujetarse dichos convenios;
 
-XII. Aprobar los convenios de interconexión entre redes públicas de telecomunicaciones con redes extranjeras y, en su caso, establecer las modalidades a que deberán sujetarse dichos convenios;
+XII. Resolver las condiciones que en materia de interconexión no hayan podido convenirse entre los concesionarios de redes públicas de telecomunicaciones;
 
-XIII. Resolver las condiciones que en materia de interconexión no hayan podido convenirse entre los concesionarios de redes públicas de telecomunicaciones;
+XIII. Establecer las obligaciones específicas relacionadas con tarifas, calidad de servicio e información a los concesionarios de redes públicas de telecomunicaciones que tengan poder sustancial en el mercado relevante de conformidad con la Ley Federal de Competencia Económica, y aprobar las tarifas cuando lo prevean los títulos de concesión y permisos;
 
-XIV. Establecer las obligaciones específicas relacionadas con tarifas, calidad de servicio e información a los concesionarios de redes públicas de telecomunicaciones que tengan poder sustancial en el mercado relevante de conformidad con la Ley Federal de Competencia Económica, y aprobar las tarifas cuando lo prevean los títulos de concesión y permisos;
+XIV. Autorizar las modificaciones a las características administrativas, técnicas y operativas de las concesiones y permisos en materia de telecomunicaciones que en su caso le sean sometidas, excepto cuando la solicitud de modificación se refiera a la prestación de servicios adicionales o a la ampliación del área de cobertura, respecto de concesiones sobre bandas del espectro radioeléctrico, y servicios adicionales en el caso de redes públicas;
 
-XV. Autorizar las modificaciones a las características administrativas, técnicas y operativas de las concesiones y permisos en materia de telecomunicaciones, excepto cuando la solicitud de modificación se refiera a la prestación de servicios adicionales o a la ampliación del área de cobertura, respecto de concesiones sobre bandas del espectro radioeléctrico, y servicios adicionales en el caso de redes públicas;
+XV. Derogar, abrogar, adicionar o modificar el Reglamento Interno de la Comisión;
 
-XVI. Derogar, abrogar, adicionar o modificar el Reglamento Interno de la Comisión;
+XVI. Interpretar, para efectos administrativos, las disposiciones legales, reglamentarias o administrativas en el ámbito de competencia de la Comisión, cuando así lo solicite el Area General de Asuntos Jurídicos;
 
-XVII. Interpretar, para efectos administrativos, las disposiciones legales, reglamentarias o administrativas en el ámbito de competencia de la Comisión, cuando así lo solicite el Area General de Asuntos Jurídicos;
+XVII. Resolver sobre otros asuntos que el Secretario de Comunicaciones y Transportes someta a su consideración;
 
-XVIII. Interpretar, para efectos administrativos, las disposiciones de este reglamento, y resolver aquellas situaciones no previstas en el mismo, con base en la propuesta correspondiente del Area General de Asuntos Jurídicos;
+XVIII. Resolver aquellos asuntos que sean sometidos a su consideración por cualquiera de los Comisionados, en el área de su competencia;
 
-XIX. Resolver sobre otros asuntos que el Secretario de Comunicaciones y Transportes someta a su consideración;
+XIX. Opinar respecto del otorgamiento de permisos o autorizaciones para el uso de los derechos de vía de las vías generales de comunicación a concesionarios o permisionarios de servicios de telecomunicaciones;
 
-XX. Resolver aquellos asuntos que sean sometidos a su consideración por cualquiera de los Comisionados, en el área de su competencia;
+XX. Resolver sobre los recursos administrativos que interpongan los particulares contra sus resoluciones, y
 
-XXI. Opinar respecto del otorgamiento de permisos o autorizaciones para el uso de los derechos de vía de las vías generales de comunicación a concesionarios o permisionarios de servicios de telecomunicaciones;
-
-XXII. Resolver sobre los recursos administrativos que interpongan los particulares contra sus resoluciones, y
-
-XXIII. Las demás que le confieran a la Secretaría las leyes, reglamentos, decretos y otras disposiciones que se refieran al ámbito de competencia de la Comisión.
+XXI. Las demás que le confieran a la Secretaría las leyes, reglamentos, decretos y otras disposiciones que se refieran al ámbito de competencia de la Comisión.
 
 #### Sección II. De la Presidencia de la Comisión
 
@@ -285,157 +327,297 @@ VII. Proponer al Presidente el nombramiento y remoción de los servidores públi
 
 VIII. Expedir y certificar las copias de documentos y constancias que existan en los archivos a su cargo, cuando proceda.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 20.
 
-Corresponde al Area General de Asuntos Jurídicos:
+Para el despacho de los asuntos de su competencia, el Area General de Asuntos Jurídicos contará con las direcciones generales de Asuntos Contenciosos; de Consulta Jurídica y Normatividad; y de Aspectos Regulatorios e Instrumentación Legal. El Comisionado titular del área general participará de las atribuciones conferidas a las direcciones generales a su cargo.
 
-I. Coordinar la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones, y presentarlos para aprobación del Pleno;
+A. Corresponde a la Dirección General de Asuntos Contenciosos:
 
-II. Tramitar la publicación en el Diario Oficial de la Federación de los planes técnicos fundamentales, normas oficiales mexicanas, reglas, resoluciones, acuerdos y demás disposiciones de carácter general que emita la Comisión;
+I. Apoyar a las unidades administrativas en la tramitación de los recursos interpuestos en contra de sus actos administrativos, valorar las pruebas presentadas por los recurrentes y formular las propuestas de resolución que deban ser conocidas por el Pleno;
 
-III. Interpretar, para efectos administrativos, las disposiciones legales, reglamentarias o administrativas en el ámbito de competencia de la Comisión, y solicitar al Pleno, cuando así se considere conveniente, que emita una interpretación al respecto;
+II. Analizar y proponer sobre la procedencia de la suspensión del acto administrativo impugnado en los recursos, dentro de los plazos establecidos por la legislación aplicable;
 
-IV. Proponer al Pleno el criterio de la Comisión cuando unidades administrativas de la misma emitan opiniones contradictorias en aspectos legales;
+III. Evaluar jurídicamente los resultados de las inspecciones efectuadas por las unidades administrativas competentes;
 
-V. Elaborar y mantener actualizado un compendio público de las leyes, reglamentos y demás disposiciones de carácter general aplicables a los servicios objeto de la Comisión;
+IV. Dictaminar las propuestas de imposición de sanciones que deriven del ejercicio de las facultades de inspección y verificación de la Comisión, cuando le sea solicitado por el Pleno o las unidades administrativas competentes;
 
-VI. Atender y resolver las consultas que en materia jurídica formulen el Pleno, el Presidente, los Comisionados y demás unidades administrativas de la Comisión y establecer y sistematizar los criterios jurídicos para la adecuada aplicación de las disposiciones legales y reglamentarias que competan a la Comisión;
+V. Dictaminar jurídicamente, cuando le sea solicitado, la revocación de concesiones y permisos en materia de telecomunicaciones;
 
-VII. Asesorar a las unidades administrativas de la Comisión en los asuntos laborales relativos al personal, incluyendo las prácticas y levantamiento de constancias y actas administrativas y dictaminar sobre las bajas y demás sanciones que procedan respecto del personal;
+VI. Asesorar a las unidades administrativas de la Comisión a efecto de que los procedimientos administrativos que lleven a cabo cumplan las formalidades previstas en las disposiciones aplicables;
 
-VIII. Intervenir en los aspectos jurídicos de los convenios, asuntos y acuerdos internacionales y participar en las reuniones y negociaciones que se efectúen;
+VII. Tramitar los recursos de reclamación y queja a que se refiere la legislación de amparo, la propuesta de no interposición de dichos recursos, así como llevar a cabo la sustanciación de los mismos ante el Poder Judicial de la Federación;
 
-IX. Realizar estudios e investigaciones jurídicas en materia de telecomunicaciones;
+VIII. Elaborar los proyectos de informes previos y justificados en los juicios de amparo; y los escritos de demanda o contestación, según proceda, en las controversias en que la Comisión sea parte;
 
-X. Establecer las bases y requisitos legales a que deban sujetarse los convenios y contratos que suscriba la Comisión, dictaminarlos y llevar registro de los mismos;
+IX. Actuar en los juicios de amparo en que la Comisión sea parte, con las facultades de delegados en las audiencias y proponer la designación de abogados y dirigirlos en su actuación en los juicios respectivos;
 
-XI. Autorizar, conjuntamente con la Coordinación de Administración, los contratos de arrendamiento, adquisiciones, prestación de servicios o cualquier otro que implique acto de administración, que celebre la Comisión, conforme a las disposiciones aplicables;
+X. Intervenir en los juicios de amparo en que la Comisión tenga el carácter de tercero perjudicado;
 
-XII. Asesorar y revisar en materia jurídica los procesos de contratación de adquisiciones, arrendamientos y servicios, así como obra pública, mediante los procedimientos de licitación pública e invitación restringida;
+XI. Representar a la Comisión o al Presidente en toda clase de juicios, investigaciones o procedimientos administrativos ante los tribunales de la República y otras autoridades competentes; ejercitar las acciones, excepciones y defensas en el ámbito de la competencia de la Comisión, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público y, en su caso, proporcionarle los elementos que sean necesarios, así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte la Comisión;
 
-XIII. Participar en los aspectos jurídicos de la elaboración de las convocatorias, bases de licitación y demás documentos necesarios para licitaciones públicas, y elaborar el dictamen jurídico para la calificación de las solicitudes que se presenten en dichas licitaciones;
+XII. Presentar denuncias o querellas, ante el Ministerio Público competente, de los hechos delictuosos en que la Comisión resulte ofendida o en aquellos en que tenga conocimiento o interés, y cuando proceda, otorgar el perdón, gestionar desistimientos y acordar conciliaciones en beneficio de la Comisión, así como coadyuvar con el propio Ministerio Público en los procesos penales en los que tenga interés la Comisión;
 
-XIV. Elaborar el dictamen jurídico respecto de las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones, asignaciones y permisos en materia de telecomunicaciones;
+XIII. Asesorar a las unidades administrativas de la Comisión en los asuntos laborales relativos al personal, incluyendo las prácticas y levantamiento de las constancias y actas administrativas y dictaminar sobre las bajas y demás sanciones que procedan respecto al personal;
 
-XV. Evaluar los resultados de las inspecciones efectuadas por las unidades administrativas competentes y, en su caso, dictaminar sobre la propuesta de imposición de sanciones que se derive de las mismas inspecciones llevadas a cabo por las unidades administrativas;
+XIV. Representar al Presidente ante el Tribunal Fiscal de la Federación, en asuntos de su competencia;
 
-XVI. Elaborar el dictamen jurídico respecto de la revocación de concesiones y permisos en materia de telecomunicaciones;
+XV. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
 
-XVII. Evaluar y opinar sobre los proyectos de reformas estatutarias de las sociedades concesionarias, asignatarias y permisionarias, así como de todos los actos que afecten los derechos concesionados o permisionados en materia de telecomunicaciones, cuando así lo requieran las disposiciones aplicables;
+XVI. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
 
-XVIII. Dictaminar desde el punto de vista jurídico las garantías que constituyan los particulares para el cumplimiento de las obligaciones o trámites de concesiones, permisos, autorizaciones, contratos y convenios, en el ámbito de competencia de la Comisión;
+XVII. Las demás que le confieran el Pleno o el Presidente.
 
-XIX. Revisar y dictaminar las escrituras constitutivas y los documentos que acrediten la personalidad de los solicitantes o de cualquier otro promovente en materia de contratos, convenios, concesiones, permisos o autorizaciones, en el ámbito de competencia de la Comisión;
+B. Corresponde a la Dirección General de Consulta Jurídica y Normatividad:
 
-XX. Representar el interés de la Comisión en toda clase de juicios, investigaciones o procedimientos administrativos ante los tribunales de la República y ante otras autoridades competentes; ejercitar las acciones, excepciones y defensas en el ámbito de competencia de la Comisión, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarles los elementos que sean necesarios, así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte la Comisión;
+I. Interpretar, para efectos administrativos, las disposiciones legales, reglamentarias o administrativas en el ámbito de competencia de la Comisión, y solicitar al Pleno, cuando así se considere conveniente, emita una interpretación al respecto;
 
-XXI. Representar a la Comisión en toda clase de procedimientos judiciales, administrativos, contenciosos administrativos y laborales, y apoyar en la elaboración de los informes previo y justificado en los juicios de amparo y realizar los demás trámites y promociones correspondientes a dichos juicios, así como presentar denuncias o querellas ante el Ministerio Público en los casos en que procedan;
+II. Elaborar y mantener actualizado un compendio de las disposiciones legales, reglamentarias y administrativas de carácter general en materia de telecomunicaciones, así como establecer y sistematizar los criterios jurídicos para su adecuada aplicación;
 
-XXII. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Comisión resulte ofendida o en aquéllos en que tenga conocimiento o interés y, cuando proceda, otorgar el perdón, gestionar desistimientos y acordar conciliaciones en beneficio de la Comisión;
+III. Realizar estudios e investigaciones jurídicas en materia de telecomunicaciones;
 
-XXIII. Coadyuvar con el propio Ministerio Público en los procesos penales en los que tenga interés la Comisión, y
+IV. Establecer, conforme a la normatividad, las bases y requisitos legales a que deban sujetarse los convenios y contratos que suscriba la Comisión, dictaminarlos, y llevar registro de los mismos;
 
-XXIV. Las demás que le confieran, en relación a aspectos jurídicos del ámbito de competencia de la Comisión, el Pleno, el Presidente, u otras leyes, reglamentos y demás disposiciones de carácter general.
+V. Autorizar, conjuntamente con la Coordinación de Administración, los contratos de arrendamiento, adquisiciones, prestación de servicios o cualquier otro acto de administración que celebre la Comisión, conforme a las disposiciones aplicables;
+
+VI. Asesorar a la Coordinación de Administración en los procesos de contratación de adquisiciones, arrendamientos y servicios, así como de obra pública;
+
+VII. Participar en la elaboración de las convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas para el otorgamiento de concesiones para el uso, aprovechamiento y explotación de bandas de frecuencias del espectro radioeléctrico, así como para la ocupación y explotación de posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país; y elaborar el dictamen jurídico para la calificación de las solicitudes que se presenten en dichos procesos;
+
+VIII. Dictaminar jurídicamente, cuando le sea requerido, sobre las solicitudes para el otorgamiento, modificación, prórroga y cesión de asignaciones en materia de telecomunicaciones;
+
+IX. Dictaminar jurídicamente, cuando le sea solicitado, sobre los proyectos de reformas estatutarias de las sociedades concesionarias, asignatarias y permisionarias, así como todos los actos que afecten los derechos concesionados o permisionados en materia de telecomunicaciones, cuando así lo requieran las disposiciones aplicables;
+
+X. Dictaminar jurídicamente las garantías que constituyan los particulares en los procesos de licitación, así como para el cumplimiento de obligaciones o trámites de concesiones, permisos, autorizaciones, contratos y convenios, en el ámbito de competencia de la Comisión;
+
+XI. Revisar y dictaminar las escrituras constitutivas y los documentos que acrediten la personalidad de los solicitantes o de cualquier otro promovente en materia de contratos, convenios, concesiones, permisos o autorizaciones, en el ámbito de competencia de la Comisión;
+
+XII. Tramitar la publicación en el Diario Oficial de la Federación de los planes técnicos fundamentales, normas oficiales mexicanas, reglas, resoluciones, acuerdos, convocatorias, bases de licitación y demás disposiciones administrativas de carácter general que emita la Comisión, a través del Pleno de la misma;
+
+XIII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XIV. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XV. Las demás que le confieran el Pleno o el Presidente.
+
+C. Corresponde a la Dirección General de Aspectos Regulatorios e Instrumentación Legal:
+
+I. Intervenir en los aspectos jurídicos de los convenios, asuntos y acuerdos internacionales, y participar en las reuniones y negociaciones que se lleven a cabo sobre el particular;
+
+II. Elaborar dictámenes jurídicos en materia de interconexión internacional, comunicación vía satélite y demás convenios que impliquen la instalación de equipos de telecomunicaciones que crucen las fronteras del país;
+
+III. Participar en la elaboración de las propuestas que se sometan al Pleno para resolver los desacuerdos que se susciten en materia de interconexión;
+
+IV. Dictaminar jurídicamente las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones y permisos en materia de telecomunicaciones, con excepción de las solicitudes presentadas en las licitaciones para el otorgamiento de concesiones sobre el uso, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico para usos determinados;
+
+V. Colaborar en la elaboración de anteproyectos de disposiciones legales y reglamentarias, así como de disposiciones administrativas en materia de interconexión e interoperabilidad de redes públicas de telecomunicaciones;
+
+VI. Dictaminar, cuando le sea solicitado por el Pleno o por las unidades administrativas competentes, el cumplimiento de los convenios de interconexión celebrados por los concesionarios, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables;
+
+VII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+VIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+IX. Las demás que le confieran el Pleno o el Presidente.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
 
 ###### Artículo 21.
 
-Corresponde al Area General de Planeación y Análisis Económico:
+Para el despacho de los asuntos de su competencia, el Area General de Planeación y Análisis Económico contará con las direcciones generales de Tarifas e Integración Estadística; de Estudios Económicos y Regulatorios; y de Análisis Financiero. El Comisionado titular del área general participará de las atribuciones conferidas a las direcciones generales a su cargo.
 
-I. Coordinar los proyectos de resolución de las condiciones de interconexión que no hayan convenido los concesionarios dentro de los plazos legales previstos en la Ley y demás disposiciones aplicables, y proponer las condiciones económico-financieras de los mismos;
+A. Corresponde a la Dirección General de Tarifas e Integración Estadística:
 
-II. Proponer las modalidades económico-financieras de interconexión de los equipos y redes públicas de telecomunicaciones, incluyendo la que se realice con redes extranjeras;
+I. Analizar y registrar las tarifas presentadas para su registro por los distintos concesionarios y permisionarios de los servicios de telecomunicaciones, así como los planes de descuento, penalidades o políticas de comercialización y las reglas de aplicación respectivas, cuidando que las mismas permitan la prestación de los servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia, en términos del artículo 60 de la Ley Federal de Telecomunicaciones;
 
-III. Participar en la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como en la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones;
+II. Formular propuestas para la imposición de obligaciones específicas que, en materia de tarifas, deberán establecerse al concesionario de redes públicas de telecomunicaciones que tenga poder sustancial en el mercado relevante, de conformidad con la Ley Federal de Telecomunicaciones, y establecer los mecanismos para evaluar su cumplimiento, así como realizar el seguimiento correspondiente;
 
-IV. Elaborar el dictamen económico-financiero respecto de las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones, asignaciones y permisos en materia de telecomunicaciones;
+III. Someter al Pleno las tarifas que, de conformidad con los títulos de concesión o permisos, requieran la autorización de la Comisión, previamente a su entrada en vigor;
 
-V. Elaborar el dictamen económico-financiero respecto de la revocación de concesiones y permisos en materia de telecomunicaciones;
+IV. Proponer al Pleno las políticas y directrices para la elaboración de la estadística de telecomunicaciones; solicitar a concesionarios o permisionarios la información que considere necesaria para la elaboración de dichas estadísticas, e integrar y mantener actualizado el acervo;
 
-VI. Coordinar las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados y para ocupar y explotar posiciones orbitales geoestacionarias asignadas al país, así como la elaboración de las convocatorias, bases de licitación y demás documentos necesarios para las mismas, recibir las solicitudes, recabar los dictámenes técnicos y legales, elaborar los dictámenes económico-financieros, y turnar el expediente al Pleno para que éste, en su caso, emita la calificación y los fallos correspondientes;
+V. Someter a la aprobación del Pleno el Anuario Estadístico de la Comisión;
 
-VII. Coordinar la propuesta de establecimiento de obligaciones específicas relacionadas con tarifas,
+VI. Realizar estudios e investigaciones sobre la evolución tarifaria de los servicios de telecomunicaciones;
 
-calidad de servicio e información a los concesionarios de redes públicas de telecomunicaciones que tengan poder sustancial en el mercado relevante de conformidad con la Ley Federal de Competencia Económica;
+VII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
 
-VIII. Someter al Pleno las tarifas que de conformidad con sus títulos de concesión o permisos tengan que presentar para su autorización los concesionarios y permisionarios de servicios de telecomunicaciones;
+VIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
 
-IX. Analizar y registrar las tarifas de los servicios de telecomunicaciones, así como los planes de descuento, penalidades o políticas de comercialización, y las reglas de aplicación respectivas;
+IX. Las demás que le confieran el Pleno o el Presidente.
 
-X. Formular políticas y directrices para la elaboración de la estadística de telecomunicaciones; solicitar a concesionarios y permisionarios la información que considere necesaria para la elaboración de dichas estadísticas; integrar y mantener actualizado el acervo estadístico de los servicios de telecomunicaciones, y proponer al Pleno la información de dicho acervo que deberá hacerse del conocimiento público para el mejoramiento de los mercados;
+B. Corresponde a la Dirección General de Estudios Económicos y Regulatorios:
 
-XI. Establecer y promover nuevos esquemas de participación de la inversión de los sectores social y privado para el desarrollo de las telecomunicaciones;
+I. Elaborar y mantener actualizada la metodología de separación contable por servicio que deberán llevar los concesionarios de los servicios de telecomunicaciones;
 
-XII. Realizar estudios e investigaciones sobre aspectos económicos y financieros en materia de telecomunicaciones;
+II. Analizar y evaluar las prácticas de mercado de los concesionarios y permisionarios, y proponer políticas regulatorias encaminadas a prevenir conductas anticompetitivas;
 
-XIII. Coordinar la ejecución de proyectos especiales, encaminados a promover el desarrollo eficiente del mercado de telecomunicaciones y a mejorar la calidad, acceso e integración de los servicios de telecomunicaciones;
+III. Analizar y proponer modelos de costos para servicios y elementos desagregados de las redes públicas de telecomunicaciones, incluyendo en materia de interconexión de redes;
 
-XIV. Coordinar la formulación de programas y proyectos de desarrollo sectorial con la participación de otras unidades administrativas, organismos gubernamentales y no gubernamentales, la industria y demás entidades del sector público, social y privado;
+IV. Coordinar la elaboración de proyectos de resolución de las condiciones de interconexión que no hayan convenido los concesionarios dentro del plazo previsto en la ley, y proponer las condiciones económico-financieras de los mismos;
 
-XV. Establecer mecanismos de consulta pública con los particulares para la elaboración de disposiciones de carácter general tendientes a promover el desarrollo de las telecomunicaciones;
+V. Coordinar la elaboración de propuestas para el establecimiento de obligaciones específicas, relacionadas con tarifas, calidad de servicio e información, a los concesionarios de redes públicas de telecomunicaciones que tengan poder sustancial en el mercado relevante, de conformidad con la Ley Federal de Competencia Económica;
 
-XVI. Coordinar el establecimiento de lineamientos, la elaboración de programas de fomento a la cobertura social, y llevar a cabo el análisis económico de nuevas tecnologías para extender la cobertura de los servicios de telecomunicaciones;
+VI. Proponer las modalidades económico-financieras de interconexión de los equipos y redes públicas de telecomunicaciones, incluyendo la que se realice con redes extranjeras;
 
-XVII. Apoyar al Pleno y al Presidente en la elaboración de informes;
+VII. Proponer al Pleno esquemas para fomentar el aumento en la cobertura y densidad de los servicios de telecomunicaciones;
 
-XVIII. Asesorar en materia económico-financiera a las unidades administrativas de la Comisión que se lo soliciten, y
+VIII. Realizar estudios, investigaciones y elaborar propuestas sobre políticas regulatorias para la industria de las telecomunicaciones que permitan el desarrollo y crecimiento del sector;
 
-XIX. Las demás que le confieran, en relación a aspectos económico-financieros del ámbito de competencia de la Comisión, el Pleno, el Presidente, u otras leyes, reglamentos y demás disposiciones de carácter general.
+IX. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+X. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XI. Las demás que le confieran el Pleno o el Presidente.
+
+C. Corresponde a la Dirección General de Análisis Financiero:
+
+I. Dictaminar, en materia económico-financiera, las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones, asignaciones y permisos en materia de telecomunicaciones;
+
+II. Dictaminar en materia económico-financiera las solicitudes que presenten los interesados en participar en las licitaciones para el otorgamiento de concesiones para el uso, aprovechamiento y explotación de bandas de frecuencias del espectro radioeléctrico para usos determinados;
+
+III. Dictaminar en materia económico-financiera, cuando le sea solicitado, la revocación de concesiones y permisos en materia de telecomunicaciones;
+
+IV. Analizar los reportes de separación contable que presenten los concesionarios y permisionarios sujetos a la metodología establecida al efecto, así como evaluar su debida aplicación;
+
+V. Analizar la situación económico-financiera de las empresas que operan en el sector de las telecomunicaciones y, en su caso, evaluar el impacto estimado de las medidas regulatorias que la Comisión pretenda adoptar;
+
+VI. Asesorar y apoyar en materia económico-financiera a las unidades administrativas de la Comisión que se lo soliciten;
+
+VII. Apoyar, en el ámbito de su competencia, a las unidades administrativas competentes de la Comisión, en la verificación del cumplimiento de obligaciones establecidas en los títulos de concesión;
+
+VIII. Colaborar en la promoción de inversiones en el sector de las telecomunicaciones;
+
+IX. Participar, en el ámbito de su competencia, en los requerimientos de información que se solicite a los concesionarios y permisionarios, incluidos aquellos que tengan poder sustancial en el mercado relevante de conformidad con la Ley Federal de Competencia Económica;
+
+X. Proponer formatos y requerimientos de información económico-financiera que deban presentar los interesados en obtener concesiones y permisos en materia de telecomunicaciones, incluidos aquellos que deseen participar en las licitaciones del espectro radioeléctrico para usos determinados;
+
+XI. Coadyuvar, en el ámbito de su competencia, en la elaboración de anteproyectos de adecuación, modificación y actualización de los modelos de títulos de concesión y permisos en materia de telecomunicaciones;
+
+XII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XIV. Las demás que le confieran el Pleno o el Presidente.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
 
 ###### Artículo 22.
 
-Corresponde al Area General de Ingeniería y Tecnología:
+Para el despacho de los asuntos de su competencia, el Area General de Ingeniería y Tecnología contará con las direcciones generales de Estudios Técnicos, Investigación y Desarrollo; de Planes Fundamentales de Telecomunicaciones; de Ingeniería y Homologación; y de Planeación y Administración del Espectro. El Comisionado titular del área general participará de las atribuciones conferidas a las direcciones generales a su cargo.
 
-I. Administrar el espectro radioeléctrico y promover su uso eficiente;
+A. Corresponde a la Dirección General de Estudios Técnicos, Investigación y Desarrollo:
 
-II. Coordinar la elaboración de los programas sobre bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y coberturas geográficas, que serán materia de licitación pública, y proponerlos al Pleno;
+I. Dictaminar en materia tecnológica las solicitudes para el otorgamiento, modificación, prórroga, cesión y revocación de concesiones, asignaciones y permisos en materia de telecomunicaciones, con excepción de las solicitudes presentadas en las licitaciones para el otorgamiento de concesiones sobre el uso, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico;
 
-III. Autorizar las modificaciones a las características técnicas de las concesiones y permisos en materia de telecomunicaciones, excepto cuando la solicitud de modificación se refiera a la prestación de servicios adicionales o a la ampliación del área de cobertura, respecto de concesiones sobre bandas del espectro radioeléctrico, y servicios adicionales en el caso de redes públicas;
+II. Coordinar con las unidades administrativas competentes, la elaboración de los proyectos de normas oficiales mexicanas en materia de telecomunicaciones y tecnologías de la información;
 
-IV. Proponer las condiciones técnicas de interconexión que no hayan convenido los concesionarios dentro de los plazos legales previstos en la Ley y demás disposiciones aplicables;
+III. Expedir, directamente o a través de terceros, certificaciones de cumplimiento de normas oficiales mexicanas para procesos, productos, métodos, instalaciones, servicios y actividades materia de su competencia;
 
-V. Proponer las modalidades técnicas de interconexión de los equipos y redes públicas de telecomunicaciones, incluyendo la que se realice con redes extranjeras;
+IV. Calificar y dictaminar las características técnicas de los dispositivos, materiales, equipos y sistemas de los servicios de telecomunicaciones y tecnologías de la información;
 
-VI. Autorizar la instalación de equipos de telecomunicaciones y medios de transmisión que crucen las fronteras del país;
+V. Establecer las metodologías para la adecuada homologación de equipos y sistemas de telecomunicaciones; otorgar la certificación correspondiente a unidades de verificación, organismos de certificación y laboratorios de prueba, en materia de telecomunicaciones y tecnologías de la información, o autorizar a terceros para que emitan dicha certificación;
 
-VII. Elaborar el dictamen técnico respecto de las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones, asignaciones y permisos en materia de telecomunicaciones;
+VI. Promover, en coordinación con las dependencias y entidades competentes, así como con las instituciones académicas y los particulares, el desarrollo de las actividades encaminadas a la formación de recursos humanos en materia de telecomunicaciones y tecnologías de la información, así como el desarrollo tecnológico del sector;
 
-VIII. Elaborar el dictamen técnico respecto de la revocación de concesiones y permisos en materia de telecomunicaciones;
+VII. Participar en los foros mundiales y regionales, así como en reuniones bilaterales y multilaterales en materia de telecomunicaciones y tecnologías de la información;
 
-IX. Participar en la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como en la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones;
+VIII. Conducir proyectos de investigación y desarrollo de nuevas opciones tecnológicas y de sus aplicaciones;
 
-X. Proponer al Pleno modificaciones al Cuadro Nacional de Atribución de Frecuencias y, en su caso, registrar aquéllas aprobadas por el Pleno;
+IX. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
 
-XI. Someter al Pleno la opinión sobre el cambio o rescate de una frecuencia o bandas de frecuencias conforme a lo previsto en la Ley;
+X. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
 
-XII. Administrar y actualizar permanentemente los registros correspondientes a la asignación de bandas de frecuencias;
+XI. Las demás que le confieran el Pleno o el Presidente.
 
-XIII. Recibir las solicitudes de los interesados en que se liciten bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y cobertura geográficas que serán materia de licitación pública, y coordinar la elaboración de los programas respectivos;
+B. Corresponde a la Dirección General de Planes Fundamentales de Telecomunicaciones:
 
-XIV. Operar y administrar la base de datos del Sistema de Gestión del Espectro Radioeléctrico;
+I. Coordinar la elaboración, y someter al Pleno, las propuestas de actualización de planes técnicos fundamentales en materia de telecomunicaciones;
 
-XV. Participar en los aspectos técnicos de la elaboración de las convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados, y para ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país, elaborar el dictamen técnico para la calificación de las solicitudes que se presenten en dichas licitaciones;
+II. Formar parte de los comités de los planes técnicos fundamentales de telecomunicaciones, proporcionando para cada uno los temas de consulta y de recomendación del caso;
 
-XVI. Llevar a cabo el monitoreo del espectro radioeléctrico y determinar los procedimientos para corregir las interferencias que se detecten;
+III. Administrar los planes técnicos fundamentales de telecomunicaciones y coadyuvar, en coordinación con las demás áreas de la Comisión, para el debido cumplimiento de lo dispuesto en dichos planes;
 
-XVII. Coordinar la elaboración y administrar los planes técnicos fundamentales en materia de telecomunicaciones;
+IV. Asesorar y resolver consultas que, en materia de planes técnicos fundamentales de telecomunicaciones, soliciten las unidades administrativas de la Comisión y demás organismos del Gobierno Federal;
 
-XVIII. Coordinar, con las unidades administrativas competentes, la elaboración de los proyectos de normas oficiales mexicanas en materia de telecomunicaciones;
+V. Coadyuvar en el proceso de elaboración o modificación de normas oficiales mexicanas en materia de telecomunicaciones;
 
-XIX. Expedir, directamente o a través de terceros, certificaciones de cumplimiento de normas oficiales mexicanas para procesos, productos, métodos, instalaciones, servicios y actividades materia de su competencia;
+VI. Participar, en el ámbito de su competencia, en la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como en la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones;
 
-XX. Calificar y dictaminar en relación con las características técnicas de los dispositivos, materiales, equipos y sistemas de los servicios de telecomunicaciones;
+VII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
 
-XXI. Establecer los procedimientos para la adecuada homologación de equipos, así como otorgar la certificación correspondiente o autorizar a terceros para que emitan dicha certificación, unidades de verificación, organismos de certificación y laboratorios de prueba en materia de telecomunicaciones; acreditar peritos en dicha materia y administrar y actualizar el registro correspondiente;
+VIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
 
-XXII. Coadyuvar, cuando así se lo solicite la Coordinación General de Servicios y Verificación, en la realización de inspecciones y verificaciones a concesionarios y permisionarios de servicios de telecomunicaciones;
+IX. Las demás que le confieran el Pleno o el Presidente.
 
-XXIII. Resolver las consultas que en materia técnica formulen las unidades administrativas de la Comisión y opinar cuando corresponda, respecto de la procedencia de sanciones cuya imposición propongan dichas unidades;
+C. Corresponde a la Dirección General de Ingeniería y Homologación:
 
-XXIV. Promover, en coordinación con las dependencias y entidades competentes, así como con las instituciones académicas y los particulares, el desarrollo de las actividades encaminadas a la formación de recursos humanos en materia de telecomunicaciones, así como el desarrollo tecnológico del sector;
+I. Diseñar, implantar y actualizar las bases de datos oficiales de la Comisión en materia de gestión y administración del espectro radioeléctrico y atribución de frecuencias;
 
-XXV. Conducir proyectos de investigación y desarrollo de nuevas opciones tecnológicas, y
+II. Establecer los enlaces de telecomunicaciones, así como el sistema de actualización y consulta, con las empresas certificadoras que acredite la Comisión para la administración de bases de datos que contengan información sobre el uso, aprovechamiento y explotación de las bandas de frecuencias del espectro radioeléctrico para usos determinados, licitadas de conformidad con las disposiciones aplicables, así como resolver, conjuntamente con la Dirección General de Consulta Jurídica y Normatividad, la emisión, prórroga o revocación, en su caso, de autorizaciones a empresas certificadoras, así como sobre los contratos que dichas empresas celebren con los concesionarios;
 
-XXVI. Las demás que le confieran, en relación a aspectos técnicos del ámbito de competencia de la Comisión, el Pleno, el Presidente, u otras leyes, reglamentos y demás disposiciones de carácter general.
+III. Aplicar las metodologías establecidas por la Dirección General de Estudios Técnicos, Investigación y Desarrollo para la homologación de equipos y sistemas en materia de telecomunicaciones; emitir las constancias o documentos que acrediten la homologación de los mismos, y mantener el registro correspondiente;
+
+IV. Acreditar peritos en materia de telecomunicaciones y llevar el registro correspondiente;
+
+V. Emitir opinión, en el ámbito de su competencia, cuando le sea solicitada, respecto de la contratación de consultores externos para el análisis, desarrollo y puesta en operación de sistemas informáticos;
+
+VI. Coordinar y proporcionar el apoyo técnico requerido para el intercambio de información por medios electrónicos entre las distintas dependencias y entidades del Gobierno Federal;
+
+VII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+VIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+IX. Las demás que le confieran el Pleno o el Presidente.
+
+D. Corresponde a la Dirección General de Planeación y Administración del Espectro:
+
+I. Realizar las actividades relativas a la administración del espectro radioeléctrico y orientar el uso eficiente del mismo;
+
+II. Efectuar los estudios necesarios para la formulación de programas de licitación pública de bandas de frecuencias del espectro radioeléctrico para usos determinados;
+
+III. Efectuar los estudios necesarios para la asignación de frecuencias del espectro radioeléctrico a organismos y dependencias oficiales;
+
+IV. Dictaminar en materia tecnológica las solicitudes para la instalación de equipos de telecomunicaciones y medios de transmisión que crucen las fronteras del país, que se presenten ante la Comisión;
+
+V. Dictaminar en materia tecnológica las solicitudes relativas al otorgamiento, modificación, prórroga, cesión y revocación de concesiones, asignaciones y permisos para el uso, aprovechamiento y explotación de bandas de frecuencias del espectro radioeléctrico;
+
+VI. Coordinar la elaboración de la propuesta de programas sobre bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y coberturas geográficas, que serán materia de licitación pública, y proponerlos al Pleno;
+
+VII. Coadyuvar, desde el punto de vista técnico, en la adecuación, modificación y actualización de las disposiciones legales, reglamentarias y administrativas, así como en la de los modelos de títulos de concesión y permisos, en materia de telecomunicaciones;
+
+VIII. Coordinar y efectuar las modificaciones al Cuadro Nacional de Atribución de Frecuencias, aprobadas por el Pleno de la Comisión;
+
+IX. Someter al Pleno la opinión sobre el cambio o rescate de una frecuencia o banda de frecuencias, conforme a lo previsto en la ley;
+
+X. Proporcionar la información necesaria para actualizar los registros correspondientes a la asignación de bandas de frecuencias, y remitir dicha información a la Dirección General de Ingeniería y Homologación;
+
+XI. Recibir, evaluar y tramitar las solicitudes de licitación de bandas de frecuencias para usos determinados y someter al Pleno las propuestas que correspondan;
+
+XII. Participar en los aspectos técnicos de la elaboración de las convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados, y para ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país, y elaborar el dictamen técnico para la calificación de las solicitudes que se presenten en dichas licitaciones;
+
+XIII. Evaluar técnicamente las solicitudes y expedir las licencias de estaciones de embarcaciones y aeronaves;
+
+XIV. Efectuar dictámenes técnicos en materia de ingeniería y administración del espectro, cuando las unidades administrativas de la Comisión así lo requieran;
+
+XV. Dictaminar en materia tecnológica la procedencia de modificación o derogación de disposiciones internacionales relativas al uso y atribución de frecuencias del espectro radioeléctrico;
+
+XVI. Autorizar las modificaciones a las características técnicas de concesiones y permisos para usar, aprovechar o explotar bandas de frecuencias del espectro radioeléctrico, en el ámbito de competencia de la Comisión;
+
+XVII. Diseñar y aplicar los exámenes correspondientes a los solicitantes de certificados de aptitud para desempeñarse como radioperadores o radioaficionados y expedir la acreditación correspondiente;
+
+XVIII. Actuar como sinodal en la acreditación de peritos en telecomunicaciones;
+
+XIX. Coadyuvar en los trabajos de los organismos internacionales especializados, así como atender sus requerimientos y procedimientos;
+
+XX. Participar en los foros mundiales y regionales, así como en reuniones bilaterales y multilaterales, en materia de radiocomunicaciones;
+
+XXI. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XXII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XXIII. Las demás que le confieran el Pleno o el Presidente.
 
 #### Sección IV. De las Coordinaciones Generales
 
@@ -463,91 +645,325 @@ VII. Expedir y certificar las copias de documentos y constancias que existan en 
 
 VIII. Proponer al Presidente el nombramiento y remoción de los servidores públicos de confianza de la Coordinación General en cuestión, salvo las disposiciones establecidas en la Ley, el Decreto de Creación, este Reglamento u otras disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
+###### Artículo 24 Bis.
+
+Para el despacho de los asuntos de su competencia, la Coordinación General Ejecutiva contará con las direcciones generales Ejecutiva; de Licitaciones del Espectro Radioeléctrico; de Inspección, Verificación y Radiomonitoreo; y de Recaudación y Coordinación Regional. El Coordinador General participará de las atribuciones conferidas a las direcciones generales a su cargo.
+
+A. Corresponde a la Dirección General Ejecutiva:
+
+I. Proponer los mecanismos para el mejor despacho de los asuntos competencia de la Comisión y evaluar los resultados de su aplicación;
+
+II. Dar seguimiento a las acciones que, para promover el mejor despacho de los asuntos de la Comisión, indique el Presidente al Coordinador General Ejecutivo, así como coordinar su ejecución con las unidades administrativas que correspondan;
+
+III. Llevar a cabo la coordinación con las unidades administrativas de la Comisión para la integración de los expedientes de los asuntos que sean sometidos a consideración del Pleno;
+
+IV. Agilitar (sic) la ejecución de las resoluciones del Pleno;
+
+V. Elaborar informes periódicos sobre el cumplimiento de las resoluciones del Pleno;
+
+VI. Coordinar a las unidades administrativas de la Comisión en la formulación de los informes que el Pleno deba presentar a la Secretaría, así como a otras autoridades competentes;
+
+VII. Proponer y vigilar los mecanismos de control de gestión necesarios para el eficiente seguimiento y mejor despacho de los asuntos competencia de la Comisión;
+
+VIII. Coadyuvar con la Secretaría en la ejecución de acciones que contribuyan al mejoramiento de las telecomunicaciones entre las dependencias de la administración pública federal, y entre ésta y los gobiernos estatales y municipales;
+
+IX. Proponer al Pleno la creación de comités o grupos de trabajo especializados para el mejor desempeño de las funciones de la Comisión, así como preparar los informes respectivos;
+
+X. Dar seguimiento a las sanciones administrativas que se impongan por las infracciones a las disposiciones legales, reglamentarias y administrativas en materia de telecomunicaciones;
+
+XI. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XIII. Las demás que le confieran el Pleno o el Presidente.
+
+B. Corresponde a la Dirección General de Licitaciones del Espectro Radioeléctrico:
+
+I. Coordinar las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados y para ocupar y explotar posiciones orbitales geoestacionarias asignadas al país;
+
+II. Elaborar los proyectos de convocatorias, bases de licitación y actas de fallo que sean sometidos a la aprobación del Pleno, así como expedir los demás documentos necesarios durante dichos procesos;
+
+III. Recibir las solicitudes que se presenten durante los procesos de licitación, recabar los dictámenes técnicos, legales y económico-financieros sobre las mismas y turnar el expediente al Pleno para que éste, en su caso, emita la opinión correspondiente al Secretario;
+
+IV. Integrar los expedientes relativos a los procesos de licitación de bandas de frecuencias del espectro radioeléctrico y posiciones satelitales asignadas al país;
+
+V. Llevar el registro de interesados sobre licitaciones de bandas de frecuencias del espectro radioeléctrico;
+
+VI. Realizar las labores de promoción de los procedimientos de licitación con inversionistas nacionales y extranjeros;
+
+VII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+VIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+IX. Las demás que le confieran el Pleno o el Presidente.
+
+C. Corresponde a la Dirección General de Inspección, Verificación y Radiomonitoreo:
+
+I. Ejercer las facultades de inspección y verificación a fin de asegurar que la prestación de los servicios de telecomunicaciones se realice con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+II. Diseñar y ejecutar programas de inspección, verificación y radiomonitoreo de los prestadores de servicios de telecomunicaciones;
+
+III. Llevar a cabo el monitoreo del espectro radioeléctrico y evaluar el cumplimiento relativo de las condiciones en materia de cobertura estipuladas en los títulos de concesión;
+
+IV. Proponer los procedimientos para corregir las interferencias perjudiciales que se detecten, de conformidad con los lineamientos y acuerdos que, en su caso, se establezcan con el Area General de Ingeniería y Tecnología;
+
+V. Ordenar y ejecutar inspecciones y verificaciones a concesionarios, permisionarios, prestadores y usuarios de servicios de telecomunicaciones;
+
+VI. Proponer al Pleno recomiende a la Secretaría la imposición de sanciones derivadas de los resultados de las inspecciones, verificaciones y radiomonitoreo, realizadas;
+
+VII. Elaborar y presentar al Pleno los resultados de las inspecciones y verificaciones realizadas, que puedan constituir causas de revocación de las concesiones o permisos en materia de telecomunicaciones;
+
+VIII. Ordenar y ejecutar las medidas provisionales que procedan como consecuencia de las visitas de verificación practicadas, incluyendo el aseguramiento de bienes para prevenir o cesar las violaciones a las disposiciones aplicables;
+
+IX. Verificar que los derechos de vía de las vías generales de comunicación, las torres de transmisión eléctrica y de radiocomunicación, las posterías en las que estén instalados los cableados de distribución eléctrica, los terrenos adyacentes a los ductos de petróleo y demás carburos de hidrógeno, entre otros, se hagan disponibles a los concesionarios de redes públicas de telecomunicaciones sobre bases no discriminatorias, de conformidad con las disposiciones legales aplicables;
+
+X. Mantener actualizados los registros del personal destinado a la realización de las labores de inspección y verificación, así como expedir y revocar, de manera indelegable, las credenciales de inspectores y demás verificadores en materia de telecomunicaciones, así como los oficios de comisión respectivos;
+
+XI. Establecer y supervisar la ejecución de los mecanismos necesarios para llevar a cabo las acciones de verificación y monitoreo con los Centros SCT;
+
+XII. Coordinarse con las autoridades federales, estatales o municipales, en su caso, para llevar a cabo las acciones de verificación y monitoreo;
+
+XIII. Coadyuvar con el Area General de Ingeniería y Tecnología en la elaboración de proyectos de normas oficiales mexicanas en materia de telecomunicaciones, en la realización de pruebas y mediciones de laboratorio a dispositivos, materiales, equipos y sistemas de telecomunicaciones para calificar y determinar las características y especificaciones técnicas de los mismos, así como en calibraciones de patrones e instrumentos de medición utilizados en telecomunicaciones;
+
+XIV. Participar, en el ámbito de su competencia, en las negociaciones internacionales relativas al reconocimiento mutuo en materia de normatividad, evaluación de la conformidad y disposiciones reglamentarias en materia de telecomunicaciones;
+
+XV. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XVI. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XVII. Las demás que le confieran el Pleno o el Presidente.
+
+D. Corresponde a la Dirección General de Recaudación y Coordinación Regional:
+
+I. Recibir los pagos, o los comprobantes de los mismos, por concepto de derechos, productos o aprovechamientos que procedan en materia de telecomunicaciones, y llevar a cabo el seguimiento y control de los mismos, conforme a las disposiciones legales aplicables;
+
+II. Coordinar y registrar la recaudación que se capte en materia de telecomunicaciones por la Comisión y remitir los reportes de ingresos correspondientes a la Secretaría y demás autoridades competentes;
+
+III. Preparar el presupuesto de recaudación de ingresos derivado de las concesiones, permisos, asignaciones y demás servicios de telecomunicaciones, y vigilar su desempeño;
+
+IV. Revisar que los pagos por concepto de derechos, productos y aprovechamientos de los concesionarios, permisionarios, asignatarios y demás prestadores de servicios de telecomunicaciones, se hagan dentro de los plazos establecidos en los correspondientes títulos, permisos, autorizaciones o en las disposiciones administrativas que para el efecto se establezcan, y reportar los incumplimientos que se detecten a la Secretaría de Hacienda y Crédito Público, sin perjuicio de las sanciones administrativas que procedan en materia de telecomunicaciones;
+
+V. Coordinar los estudios y consultas para proponer los derechos, productos o aprovechamientos relativos a los servicios de telecomunicaciones ante la Secretaría de Hacienda y Crédito Público;
+
+VI. Elaborar conjuntamente con las áreas competentes de la Comisión, los procesos e instructivos internos en materia de recaudación de derechos, productos y aprovechamientos en asuntos relacionados con concesionarios, permisionarios, asignatarios y demás prestadores de servicios de telecomunicaciones;
+
+VII. Establecer los mecanismos de coordinación con los Centros SCT para la ejecución de programas en materia de telecomunicaciones, e informar periódicamente sobre los resultados de los programas desarrollados;
+
+VIII. Coordinar el desahogo de los requerimientos de información y reportes solicitados por autoridades fiscalizadoras o de apoyo;
+
+IX. Llevar a cabo las funciones de coordinación con las oficinas o delegaciones regionales de la Comisión, o con los Centros SCT, según corresponda, de conformidad con las disposiciones aplicables;
+
+X. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XI. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XII. Las demás que le confieran el Pleno o el Presidente.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 25.
 
-Corresponde a la Coordinación General de Asuntos Internacionales:
+Para el despacho de los asuntos de su competencia, la Coordinación General de Asuntos Internacionales contará con las direcciones generales de Cooperación Internacional y de Organismos de Regulación Internacional. El Coordinador General participará de las atribuciones conferidas a las direcciones generales a su cargo.
 
-I. Proponer, conjuntamente con las unidades administrativas competentes, la posición de la Secretaría en foros y eventos internacionales en materia de telecomunicaciones;
+A. Corresponde a la Dirección General de Cooperación Internacional:
 
-II. Opinar respecto de la autorización de las modificaciones a las características administrativas y operativas de las concesiones y permisos en materia de telecomunicaciones, cuando éstas se refieran a asuntos internacionales;
+I. Proponer y coordinar, con la colaboración de las unidades administrativas competentes, la posición de la Comisión en asuntos, foros y reuniones de cooperación internacional en materia de telecomunicaciones;
 
-III. Coordinar la participación de la Comisión en las negociaciones de tratados bilaterales y multilaterales que celebre México ante gobiernos extranjeros y organismos internacionales relacionados con el ámbito de competencia de la Comisión;
+II. Coordinar la participación de la Comisión en las negociaciones de tratados bilaterales y multilaterales que celebre México ante gobiernos extranjeros y organismos internacionales;
 
-IV. Concurrir con las delegaciones participantes en foros internacionales en materia de telecomunicaciones y, en su caso, convocar a la industria, asociaciones e instituciones académicas y profesionales;
+III. Coordinar las actividades preparatorias, la integración y la actuación de las delegaciones de la Comisión participantes en negociaciones, foros y reuniones de cooperación internacional en materia de telecomunicaciones;
 
-V. Dar seguimiento a los compromisos adquiridos por México ante organismos y otras entidades internacionales en el ámbito de competencia de la Comisión;
+IV. Dar seguimiento a los compromisos adquiridos por México ante organismos y otras entidades de cooperación y comercio internacionales, en el ámbito de competencia de la Comisión, así como en los tratados internacionales en los que México sea parte;
 
-VI. Coordinar la aprobación de los convenios de interconexión de redes públicas de telecomunicaciones con redes extranjeras, así como la elaboración de la propuesta de la Comisión sobre las modalidades de interconexión de los equipos y redes públicas de telecomunicaciones que se realice con redes extranjeras; así como coordinar la elaboración de disposiciones de carácter general en materia de interconexión internacional y servicios transfronterizos;
+V. Establecer los mecanismos de coordinación con las unidades administrativas correspondientes, así como con dependencias y entidades de la administración pública federal competentes, para atender concertadamente aquellos asuntos de carácter internacional en el ámbito de las atribuciones de la Comisión;
 
-VII. Coadyuvar, con la Coordinación General de Servicios de Telecomunicaciones y Verificación, en la verificación del cumplimiento de los convenios y disposiciones en materia de interconexión internacional;
+VI. Evaluar las condiciones para el acceso de concesionarios, permisionarios e inversionistas mexicanos a mercados extranjeros de telecomunicaciones;
 
-VIII. Establecer mecanismos de coordinación con las dependencias y entidades competentes de la Administración Pública Federal, para atender concertadamente aquellos asuntos de carácter internacional en materia de telecomunicaciones;
+VII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
 
-IX. Llevar a cabo la coordinación de la operación de satélites nacionales con satélites extranjeros e internacionales, conjuntamente con el Area General de Ingeniería y Tecnología;
+VIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
 
-X. Llevar a cabo los procedimientos para la obtención de posiciones orbitales geoestacionarias con sus respectivas bandas de frecuencias, así como de las órbitas para satélites mexicanos;
+IX. Las demás que le confieran el Pleno o el Presidente.
 
-XI. Promover la inversión extranjera y atender las peticiones que al respecto formulen inversionistas interesados, sujeta a las disposiciones legales y administrativas aplicables en la materia;
+B. Corresponde a la Dirección General de Organismos de Regulación Internacional:
 
-XII. Promover la apertura de los mercados internacionales de telecomunicaciones a la participación de concesionarios y permisionarios mexicanos;
+I. Proponer y coordinar, con la colaboración de las unidades administrativas competentes, la posición de la Comisión en asuntos, foros y reuniones de regulación internacionales en materia de telecomunicaciones;
 
-XIII. Promover la fijación óptima de tarifas de liquidación y la prestación recíproca de servicios internacionales;
+II. Dar seguimiento a los compromisos adquiridos por México ante organismos de regulación internacional, en el ámbito de competencia de la Comisión;
 
-XIV. Participar en la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como en la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones;
+III. Coordinar las actividades preparatorias, la integración y la actuación de las delegaciones de la Comisión participantes en las conferencias mundiales, regionales, grupos de trabajo y demás reuniones de los diferentes organismos de regulación internacional;
 
-XV. Participar en la organización de eventos, presentaciones y giras internacionales de funcionarios de la Comisión, y
+IV. Proporcionar apoyo en aspectos de regulación internacional en las reuniones bilaterales de cooperación en materia de telecomunicaciones;
 
-XVI. Las demás que le confieran, en relación a aspectos internacionales del ámbito de competencia de la Comisión, el Pleno, el Presidente, u otras leyes, reglamentos y demás disposiciones de carácter general.
+V. Participar en la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como en la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones, cuando se trate de aspectos internacionales;
+
+VI. Coordinar, conjuntamente con la Dirección General de Planeación y Administración del Espectro, las acciones necesarias para los procedimientos de coordinación internacional en materia de espectro radioeléctrico;
+
+VII. Llevar a cabo los procedimientos de coordinación en materia satelital que resulten necesarios para la adecuada operación de satélites mexicanos, así como para la ocupación y explotación de posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país, ante los organismos y autoridades competentes;
+
+VIII. Coadyuvar en la verificación del cumplimiento de los convenios y disposiciones en materia de interconexión internacional;
+
+IX. Coordinar la evaluación de los convenios de interconexión de redes públicas de telecomunicaciones con redes extranjeras, así como de las solicitudes de puertos internacionales, que sean sometidos a la aprobación del Pleno;
+
+X. Someter a la aprobación del Pleno las tarifas de liquidación a aplicarse entre los operadores nacionales de larga distancia internacional con los operadores extranjeros;
+
+XI. Vigilar el debido cumplimiento de los sistemas de tarifas de liquidación uniformes y de retorno proporcional;
+
+XII. Opinar respecto de la autorización del aterrizaje de señales en territorio nacional a través de satélites extranjeros, cuando así se lo solicite el Pleno o las unidades administrativas competentes;
+
+XIII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XIV. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XV. Las demás que le confieran el Pleno o el Presidente.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
 
 ###### Artículo 26.
 
-Corresponde a la Coordinación General de Servicios de Telecomunicaciones y Verificación:
+Para el despacho de los asuntos de su competencia, la Coordinación General de Servicios de Telecomunicaciones contará con las direcciones generales de Comunicación Vía Satélite; de Televisión y Audio Restringidos; de Servicio Local y Radiocomunicación; y de Larga Distancia y Valor Agregado, y será responsable del Registro de Telecomunicaciones. El Coordinador General, participará de las atribuciones conferidas a las direcciones generales a su cargo.
 
-I. Vigilar la debida observancia a lo dispuesto en los títulos de concesión y permisos otorgados en la materia, y ejercer las facultades de supervisión y verificación a fin de asegurar que la prestación de los servicios de telecomunicaciones se realice con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+A. Corresponde a la Dirección General de Comunicación Vía Satélite:
 
-II. Dar seguimiento y evaluar el cumplimiento de las condiciones en materia de cobertura estipuladas en los títulos de concesión;
+I. Recibir las solicitudes para el otorgamiento, modificación, prórroga, cesión y revocación de concesiones y asignaciones de servicios satelitales de telecomunicaciones que turne la Secretaría, y tramitar las mismas al interior de la Comisión, siempre que tales solicitudes no estén asociadas a un procedimiento de licitación pública;
 
-III. Diseñar y ejecutar programas de inspección y verificación a los prestadores de servicios de telecomunicaciones;
+II. Recibir las solicitudes para el otorgamiento, modificación, prórroga y revocación de permisos de servicios satelitales de telecomunicaciones que turne la Secretaría, y tramitar las mismas al interior de la Comisión, siempre que tales solicitudes no estén asociadas a un procedimiento de licitación pública; así como emitir opinión sobre la cesión de los mismos, previo dictamen de la unidad administrativa que corresponda;
 
-IV. Realizar inspecciones y verificaciones a los concesionarios y permisionarios de servicios de telecomunicaciones;
+III. Autorizar modificaciones a las características técnicas, operativas y administrativas de las concesiones y permisos, incluyendo las prórrogas y ampliaciones de los plazos establecidos para instalar, operar y explotar, según corresponda, concesiones, asignaciones y permisos de servicios satelitales de telecomunicaciones, previa opinión, cuando se requiera, de las unidades administrativas competentes adscritas a cada una de las Areas Generales, así como recibir las solicitudes correspondientes;
 
-V. Presentar al Pleno los resultados de las inspecciones y verificaciones realizadas, que constituyan infracciones a las condiciones establecidas en los títulos de concesión o permisos, así como a las disposiciones legales y reglamentarias aplicables, y opinar, respecto de las sanciones que de dichos actos pudieran derivar;
+IV. Recibir de la Secretaría, y tramitar al interior de la Comisión, los proyectos a las reformas estatutarias de las sociedades concesionarias o permisionarias de los servicios satelitales de telecomunicaciones, así como todos los actos que afecten los derechos concesionados y permisionados relativos a dichos servicios, previa opinión de la Dirección General de Aspectos Regulatorios e Instrumentación Legal;
 
-VI. Presentar al Pleno los resultados de las inspecciones y verificaciones realizadas, que puedan constituir causas de revocación de las concesiones o permisos en materia de telecomunicaciones;
+V. Vigilar la debida observancia a lo dispuesto en los títulos de concesión, asignaciones y permisos en materia de servicios satelitales de telecomunicaciones, proponer a la Coordinación General Ejecutiva la práctica de visitas de verificación, y proponer al Pleno recomiende a la Secretaría la imposición de las sanciones correspondientes;
 
-VII. Mantener actualizados los registros del personal destinado a la realización de las labores de inspección y verificación;
+VI. Resolver sobre la autorización de contratos tipo de prestación de servicios que pretendan celebrar los concesionarios para prestar servicios de comunicación vía satélite con sus suscriptores, previo dictamen de la Dirección General de Aspectos Regulatorios e Instrumentación Legal;
 
-VIII. Vigilar que la interconexión de los equipos y redes públicas de telecomunicaciones, incluyendo la que se realice con redes extranjeras, se lleve a cabo de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables;
+VII. Participar con las demás áreas competentes de la Comisión en la vigilancia de la interconexión de los equipos y redes públicas de telecomunicaciones autorizadas para prestar servicios satelitales de telecomunicaciones, incluyendo la que se realice con redes extranjeras, se lleve a cabo de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables y proponer a la Coordinación General Ejecutiva la práctica de visitas de verificación;
 
-IX. Vigilar la debida observancia a lo dispuesto en los títulos de concesión y permisos otorgados en materia satelital, a fin de asegurar que la prestación de los servicios se realicen con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+VIII. Participar en los comités de operadores de los servicios satelitales de telecomunicaciones, resolver los desacuerdos presentados por dichos comités y someter a la consideración del Pleno los casos que por su importancia lo ameriten;
 
-X. Asegurar la disponibilidad satelital necesaria para los objetivos de seguridad nacional y cobertura social;
+IX. Emitir, negar, modificar o revocar las constancias de registro correspondientes a los servicios satelitales de telecomunicaciones, con excepción de las relativas a los servicios de valor agregado y a las tarifas, y remitir copia a la unidad administrativa competente para la integración, actualización y manejo del Registro de Telecomunicaciones;
 
-XI. Participar en la elaboración de los anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias, así como en la de los modelos de títulos de concesión y permisos en materia de telecomunicaciones;
+X. Someter a la consideración del Pleno los asuntos en que proceda la declaración de rescate, requisa, revocación, caducidad o abandono de trámite, relativas a los servicios satelitales de telecomunicaciones, en términos de las disposiciones aplicables, para que dicho órgano, en su caso, emita opinión a la Secretaría;
 
-XII. Recibir las solicitudes para el otorgamiento, modificación, prórroga, cesión y revocación de concesiones y permisos en materia de telecomunicaciones que turne la Secretaría a la Comisión, recabar los dictámenes técnicos, económico-financieros y legales que deban realizar las unidades administrativas de la propia Comisión, y turnar el expediente al Pleno para que éste emita la opinión correspondiente;
+XI. Recibir, citar a comparecer a las personas que realicen actividades reguladas y, en su caso, requerir a los concesionarios, asignatarios, permisionarios y demás prestadores de servicios satelitales de telecomunicaciones, la información técnica, operativa, legal, contable y financiera, correspondiente a la instalación, operación o explotación de las concesiones, permisos, asignaciones y servicios satelitales de telecomunicaciones, así como respecto a los términos y condiciones en que presta dichos servicios de telecomunicaciones a los usuarios;
 
-XIII. Tramitar las declaratorias de rescate, requisa, caducidad, revocación y abandono de trámite, relativas a los servicios de telecomunicaciones;
+XII. Recibir, citar a comparecer a los terceros que hayan sido contratados por los concesionarios, asignatarios, permisionarios y demás prestadores de servicios satelitales de telecomunicaciones en cumplimiento de disposiciones legales, reglamentarias o administrativas en materia de servicios satelitales de telecomunicaciones para llevar a cabo las funciones que se señalen en dichas disposiciones, y requerir de los mismos cualquier información relacionada con dichas funciones;
 
-XIV. Mantener bajo su custodia los expedientes de las concesiones y permisos en operación en materia de telecomunicaciones;
+XIII. Integrar adecuadamente a los expedientes de las concesiones y permisos en operación de los servicios satelitales de telecomunicaciones, la información y documentación relativa, y remitirlos, para su custodia, a la oficina de archivo correspondiente;
 
-XV. Acordar con los concesionarios y permisionarios de servicios de telecomunicaciones los compromisos que deban ser concertados periódicamente, de conformidad con los títulos de concesión y permisos, sin perjuicio de lo establecido en la fracción XIII del artículo 23 del Reglamento Interior de la Secretaría;
+XIV. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
 
-XVI. Opinar respecto de la autorización de las modificaciones a las características administrativas y operativas de las concesiones y permisos en materia de telecomunicaciones, excepto cuando la solicitud de modificación se refiera a la prestación de servicios adicionales o a la ampliación del área de cobertura, respecto de concesiones sobre bandas del espectro radioeléctrico, y servicios adicionales en el caso de redes públicas;
+XV. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
 
-XVII. Verificar que los derechos de vía de las vías generales de comunicación que se hayan hecho disponibles a algún concesionario de redes públicas de telecomunicaciones, se hagan disponibles a otros concesionarios de redes públicas de telecomunicaciones sobre bases no discriminatorias, siempre que las condiciones técnicas, de seguridad y operación lo permitan;
+XVI. Las demás que le confieran el Pleno o el Presidente.
 
-XVIII. Participar en los comités de operadores de cada servicio de telecomunicaciones;
+B. Corresponde a la Dirección General de Televisión y Audio Restringidos:
 
-XIX. Participar en los eventos y procesos internacionales relativos a servicios de telecomunicaciones en que sea parte la Comisión;
+I. Recibir las solicitudes para el otorgamiento, modificación, prórroga, cesión y revocación de concesiones y asignaciones de televisión y audio restringidos que turne la Secretaría, y tramitar las mismas al interior de la Comisión, cuando no estén asociadas a un procedimiento de licitación pública;
 
-XX. Integrar y mantener actualizado el Registro de Telecomunicaciones previsto en el Capítulo VI de la Ley, y remitir a la Coordinación General de Comunicación Social y Asuntos del Consumidor información necesaria para que la haga disponible al público en general;
+II. Recibir las solicitudes para el otorgamiento, modificación, prórroga y revocación de permisos de televisión y audio restringidos que turne la Secretaría, y tramitar las mismas al interior de la Comisión, cuando no estén asociadas a un procedimiento de licitación pública; así como emitir opinión sobre la cesión de los mismos, previo dictamen de la unidad administrativa que corresponda;
 
-XXI. Coordinar los estudios para proponer los derechos, productos y aprovechamientos relativos a los servicios de telecomunicaciones;
+III. Autorizar modificaciones a las características técnicas, operativas y administrativas de las concesiones y permisos, incluyendo las prórrogas y ampliaciones de los plazos establecidos para instalar, operar y explotar, según corresponda, concesiones, asignaciones y permisos de televisión y audio restringidos, previa opinión, cuando se requiera, de las unidades administrativas competentes adscritas a cada una de las Areas Generales, así como recibir las solicitudes correspondientes;
 
-XXII. Recibir el pago por concepto de derechos, productos o aprovechamientos que procedan en materia de telecomunicaciones, y llevar a cabo el seguimiento y control de los mismos conforme a las disposiciones legales aplicables, y
+IV. Recibir de la Secretaría, y tramitar al interior de la Comisión, los proyectos a las reformas estatutarias de las sociedades concesionarias o permisionarias, de los servicios de televisión y audio restringidos, así como todos los actos que afecten los derechos concesionados y permisionados relativos a dichos servicios, previa opinión de la Dirección General de Consulta Jurídica y Normatividad;
 
-XXIII. Las demás que le confieran, en relación a aspectos relacionados con los servicios y la supervisión y verificación en el ámbito de competencia de la Comisión, el Pleno, el Presidente, leyes, reglamentos y demás disposiciones de carácter general.
+V. Vigilar la debida observancia a lo dispuesto en los títulos de concesión, asignaciones y permisos otorgados, relativos a los servicios de televisión y audio restringidos, proponer a la Coordinación General Ejecutiva la práctica de visitas de verificación, y proponer al Pleno recomiende a la Secretaría la imposición de las sanciones correspondientes;
+
+VI. Resolver sobre la autorización de contratos tipo de prestación de servicios que pretendan celebrar los concesionarios autorizados para prestar servicios de televisión y audio restringidos con sus suscriptores, previo dictamen de la Dirección General de Aspectos Regulatorios e Instrumentación Legal;
+
+VII. Participar con las cámaras y asociaciones de concesionarios de los servicios de televisión y audio restringidos, resolver los desacuerdos presentados por dichas asociaciones y someter a consideración del Coordinador General los casos que por su importancia deban ser elevados a la atención del Pleno para su resolución;
+
+VIII. Emitir, negar, modificar o revocar las constancias de registro correspondientes a los servicios de televisión y audio restringidos, con excepción de las relativas a tarifas y servicios de valor agregado, y remitir copia a la unidad administrativa competente para la integración, actualización y manejo del Registro de Telecomunicaciones;
+
+IX. Someter a la consideración del Pleno los asuntos en que proceda la declaración de rescate, requisa, revocación, caducidad o abandono de trámite, relativas a los servicios de televisión y audio restringidos en términos de las disposiciones aplicables para que dicho órgano, en su caso, emita opinión a la Secretaría;
+
+X. Recibir, citar a comparecer a las personas que realicen actividades reguladas y, en su caso, requerir a los concesionarios, asignatarios, permisionarios y demás prestadores de servicios de televisión y audio restringidos, la información técnica, operativa, legal, contable y financiera correspondiente a la instalación, operación o explotación de las concesiones, permisos, asignaciones y servicios de telecomunicaciones de televisión y audio restringidos, así como respecto a los términos y condiciones en que presta dichos servicios de telecomunicaciones a los usuarios;
+
+XI. Recibir, citar a comparecer a los terceros que hayan sido contratados por los concesionarios, asignatarios, permisionarios y demás prestadores de servicios de telecomunicaciones de televisión y audio restringidos, en cumplimiento de disposiciones legales, reglamentarias o administrativas en materia de telecomunicaciones para llevar a cabo las funciones que se señalen en dichas disposiciones, y requerir de los mismos cualquier información relacionada con dichas funciones;
+
+XII. Integrar adecuadamente a los expedientes de las concesiones y permisos en operación de los servicios de televisión y audio restringidos, la información y documentación relativa, y remitirlos, para su custodia, a la oficina de archivo correspondiente;
+
+XIII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XIV. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XV. Las demás que le confieran el Pleno o el Presidente.
+
+C. Corresponde a la Dirección General de Servicio Local y Radiocomunicación:
+
+I. Recibir las solicitudes para el otorgamiento, modificación, prórroga, cesión y revocación de concesiones y asignaciones de los servicios locales de telecomunicaciones y de radiocomunicación, que turne la Secretaría y tramitar las mismas al interior de la Comisión, siempre que tales solicitudes no estén asociadas a un procedimiento de licitación pública;
+
+II. Recibir las solicitudes para el otorgamiento, modificación, prórroga y revocación de permisos de los servicios locales de telecomunicaciones y de radiocomunicación que turne la Secretaría, y tramitar las mismas al interior de la Comisión, cuando no estén asociadas a un procedimiento de licitación pública; así como emitir opinión sobre la cesión de los mismos, previo dictamen de la unidad administrativa que corresponda;
+
+III. Autorizar las modificaciones a las características técnicas, operativas y administrativas de las concesiones y permisos, incluyendo las prórrogas y ampliaciones de los plazos establecidos para instalar, operar y explotar, según corresponda, concesiones, asignaciones y permisos de los servicios locales de telecomunicaciones y de radiocomunicación, previa opinión, cuando se requiera, de las unidades administrativas competentes adscritas a cada una de las áreas generales, así como recibir las solicitudes correspondientes;
+
+IV. Recibir de la Secretaría para su trámite en el interior de la Comisión, los proyectos a las reformas estatutarias de las sociedades concesionarias o permisionarias del servicio local de telecomunicaciones y de los servicios de radiocomunicación, así como todos los actos que afecten los derechos concesionados y permisionados relativos a dichos servicios, previa opinión de las unidades administrativas competentes adscritas al Area General de Asuntos Jurídicos;
+
+V. Vigilar la debida observancia a lo dispuesto en los títulos de concesión, asignaciones y permisos otorgados relativos al servicio local de telecomunicaciones y a los servicios de radiocomunicación, proponer a la Coordinación General Ejecutiva la práctica de visitas de verificación, y proponer al Pleno recomiende a la Secretaría la imposición de las sanciones correspondientes;
+
+VI. Resolver sobre la autorización de contratos tipo de prestación de servicios que pretendan celebrar los concesionarios autorizados para prestar servicios locales y de radiolocalización con sus suscriptores, previo dictamen de la Dirección General de Aspectos Regulatorios e Instrumentación Legal;
+
+VII. Vigilar que la interconexión de los equipos y redes públicas de telecomunicaciones, autorizadas para prestar servicio local de telecomunicaciones y los servicios de radiocomunicación, incluyendo la que se realice con redes extranjeras, se lleve a cabo de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables y, en su caso, proponer a la Coordinación General Ejecutiva la práctica de las respectivas visitas de verificación;
+
+VIII. Participar en los comités de operadores del servicio local de telecomunicaciones y los servicios de radiocomunicación, resolver los desacuerdos presentados por dichos comités y someter a consideración del Coordinador General los casos que por su importancia deban ser elevados a la atención del Pleno para su resolución;
+
+IX. Emitir, negar, modificar o revocar las constancias de registro correspondientes al servicio local de telecomunicaciones y los servicios de radiocomunicación, con excepción del registro de servicios de valor agregado y tarifas, y remitir copia a la unidad administrativa competente para la integración, actualización y manejo del Registro de Telecomunicaciones;
+
+X. Someter a la consideración del Pleno los asuntos en que proceda la declaración de rescate, requisa, revocación, caducidad o abandono de trámite, relativas al servicio local de telecomunicaciones y a los servicios de radiocomunicación, en términos de las disposiciones aplicables, para que dicho órgano, en su caso, emita opinión a la Secretaría;
+
+XI. Recibir, citar a comparecer a las personas que realicen actividades reguladas y, en su caso, requerir a los concesionarios, asignatarios, permisionarios y demás prestadores del servicio local de telecomunicaciones y los servicios de radiocomunicación, la información técnica, operativa, legal, contable y financiera correspondiente a la instalación, operación o explotación de las concesiones, permisos, asignaciones y los servicios local de telecomunicaciones y de radiocomunicación, así como respecto a los términos y condiciones en que presta dichos servicios de telecomunicaciones a los usuarios;
+
+XII. Recibir, citar a comparecer a los terceros que hayan sido contratados por los concesionarios, asignatarios, permisionarios y demás prestadores del servicio local de telecomunicaciones y los servicios de radiocomunicación en cumplimiento de disposiciones legales, reglamentarias o administrativas en materia de telecomunicaciones para llevar a cabo las funciones que se señalen en dichas disposiciones, y requerir de los mismos cualquier información relacionada con dichas funciones;
+
+XIII. Integrar adecuadamente a los expedientes de las concesiones y permisos en operación de redes públicas del servicio local y los servicios de radiocomunicación, la información y documentación relativa, y remitirlos, para su custodia, a la oficina de archivo correspondiente;
+
+XIV. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XV. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XVI. Las demás que le confieran el Pleno o el Presidente.
+
+D. Corresponde a la Dirección General de Larga Distancia y Valor Agregado:
+
+I. Recibir las solicitudes para el otorgamiento, modificación, prórroga, cesión y revocación de concesiones y asignaciones de servicios de telecomunicaciones de larga distancia que turne la Secretaría y tramitar las mismas al interior de la Comisión, siempre que tales solicitudes no estén asociadas a un procedimiento de licitación pública, así como recibir las solicitudes para el registro de servicios de valor agregado;
+
+II. Recibir las solicitudes para el otorgamiento, modificación, prórroga y revocación de permisos de servicios de telecomunicaciones de larga distancia que turne la Secretaría, y tramitar las mismas al interior de la Comisión; así como emitir opinión sobre la cesión de los mismos, previo dictamen de la unidad administrativa que corresponda;
+
+III. Autorizar modificaciones a las características técnicas, operativas y administrativas de las concesiones y permisos, incluyendo las prórrogas y ampliaciones de los plazos establecidos para instalar, operar y explotar concesiones, asignaciones y permisos de larga distancia, así como, en su caso, constancias de servicios de valor agregado, previa opinión, cuando se requiera, de las unidades administrativas competentes adscritas a cada una de las Areas Generales, así como recibir las solicitudes correspondientes;
+
+IV. Recibir de la Secretaría, y tramitar al interior de la Comisión, los proyectos a las reformas estatutarias de las sociedades concesionarias o permisionarias de los servicios de telecomunicaciones de larga distancia y valor agregado, así como todos los actos que afecten los derechos concesionados y permisionados relativos a dichos servicios, previa opinión de las unidades administrativas competentes adscritas al Area General de Asuntos Jurídicos;
+
+V. Vigilar la debida observancia a lo dispuesto en los títulos de concesión, asignaciones, permisos y constancias otorgados relativos a los servicios de telecomunicaciones de larga distancia y valor agregado, proponer a la Coordinación General Ejecutiva la práctica de visitas de verificación, y proponer al Pleno recomiende a la Secretaría la imposición de las sanciones correspondientes;
+
+VI. Resolver sobre la autorización de contratos tipo de prestación de servicios que pretendan celebrar los concesionarios autorizados para prestar servicios de larga distancia con sus suscriptores, previo dictamen de la Dirección General de Aspectos Regulatorios e Instrumentación Legal;
+
+VII. Vigilar que la interconexión de los equipos y redes públicas de telecomunicaciones autorizadas para prestar el servicio de larga distancia, incluyendo la que se realice con redes extranjeras, se lleve a cabo de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables, y proponer a la Coordinación General Ejecutiva la práctica de visitas de verificación;
+
+VIII. Participar en los comités de operadores de los servicios de telecomunicaciones de larga distancia y valor agregado, resolver los desacuerdos presentados por dichos comités y someter a consideración del Coordinador General los casos que por su importancia deban ser elevados a la atención del Pleno para su resolución;
+
+IX. Autorizar, en su caso, el inicio de operaciones de los nuevos operadores de larga distancia que así lo soliciten, de conformidad con lo establecido en los respectivos títulos de concesión;
+
+X. Emitir, negar, modificar o revocar las constancias de registro correspondientes a los servicios de telecomunicaciones de larga distancia, con excepción de las relativas a tarifas, y remitir copia a la unidad administrativa competente para la integración, actualización y manejo del Registro de Telecomunicaciones;
+
+XI. Emitir, negar, modificar o revocar las constancias de registro correspondientes a los servicios de telecomunicaciones de valor agregado, de conformidad con los lineamientos establecidos por el Pleno de la Comisión, y remitir copia a la unidad administrativa competente para la integración, actualización y manejo del Registro de Telecomunicaciones;
+
+XII. Someter a la consideración del Pleno los asuntos en que proceda la declaración de rescate, requisa, revocación, caducidad o abandono de trámite, relativas a los servicios de telecomunicaciones de larga distancia y valor agregado en términos de las disposiciones aplicables, para que dicho órgano, en su caso, emita opinión a la Secretaría;
+
+XIII. Recibir, citar a comparecer a las personas que realicen actividades reguladas y, en su caso, requerir a los concesionarios, asignatarios, permisionarios y demás prestadores de servicios de telecomunicaciones de larga distancia y de valor agregado, la información técnica, operativa, legal, contable y financiera correspondiente a la instalación, operación o explotación de las concesiones, permisos, asignaciones y servicios de telecomunicaciones de larga distancia y valor agregado, así como respecto a los términos y condiciones en que presta dichos servicios de telecomunicaciones a los usuarios;
+
+XIV. Recibir, citar a comparecer a los terceros que hayan sido contratados por los concesionarios, asignatarios, permisionarios y demás prestadores de servicios de telecomunicaciones de larga distancia y valor agregado en cumplimiento de disposiciones legales, reglamentarias o administrativas en materia de telecomunicaciones para llevar a cabo las funciones que se señalen en dichas disposiciones, y requerir de los mismos cualquier información relacionada con dichas funciones;
+
+XV. Integrar adecuadamente a los expedientes de las concesiones, asignaciones y permisos de servicios de telecomunicaciones de larga distancia y valor agregado a su cargo, la información y documentación relativa, y remitirlos, para su custodia, a la oficina de archivo correspondiente;
+
+XVI. Autorizar, en su caso, la participación de los concesionarios del servicio de larga distancia en los procesos de presuscripción, sin perjuicio de que por su importancia, los asuntos que así lo requieran, sean sometidos al Pleno;
+
+XVII. Ordenar y llevar a cabo la notificación de los actos y resoluciones que le sean encomendados;
+
+XVIII. Expedir constancias de los expedientes a su cargo en el ámbito de su competencia, y
+
+XIX. Las demás que le confieran el Pleno o el Presidente.
 
 #### Sección V. De las Coordinaciones
 
@@ -571,41 +987,39 @@ VII. Expedir y certificar las copias de documentos y constancias que existan en 
 
 VIII. Proponer al Presidente el nombramiento y remoción de los servidores públicos de confianza de la Coordinación en cuestión, salvo las disposiciones establecidas en la Ley, el Decreto de Creación, este Reglamento u otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 28.
 
-Corresponde a la Coordinación de Comunicación Social y Asuntos del Consumidor:
+Corresponde a la Coordinación de Comunicación Social:
 
-I. Ejecutar y dirigir la política de comunicación social y de relaciones públicas y ediciones de la Comisión, de conformidad con los lineamientos que establezca al efecto la Secretaría de Gobernación;
+I. Ejecutar y proponer al Presidente la política de comunicación social y de relaciones públicas y ediciones de la Comisión, de conformidad con los lineamientos que establezca al efecto la Secretaría de Gobernación;
 
-II. Promover y coordinar las relaciones, en materia de telecomunicaciones, de la Comisión con los poderes legislativo y judicial federales, así como con las distintas dependencias y entidades de la Administración Pública Federal, de los estados, los municipios y otros organismos públicos o privados;
+II. Mantener los medios necesarios para que la información contenida en el Registro de Telecomunicaciones se encuentre oportunamente a disposición de los usuarios, excepto aquella que por su naturaleza sea de carácter confidencial;
 
-III. Establecer y coordinar los mecanismos de vinculación con el Consejo Consultivo de la Comisión y evaluar, en coordinación con las unidades administrativas correspondientes, las propuestas que presente dicho Consejo;
+III. Administrar y actualizar permanentemente la página electrónica de la Comisión en Internet, procurando facilitar su utilización y acceso por el público en general;
 
-IV. Mantener los medios necesarios para que la información contenida en el Registro de Telecomunicaciones se encuentre oportunamente a disposición de los usuarios, excepto aquella que por su naturaleza sea de carácter confidencial;
+IV. Emitir la información a través de los diferentes medios de comunicación, sobre el desarrollo de los programas y actividades de la Comisión;
 
-V. Administrar y actualizar permanentemente la página electrónica de la Comisión en Internet, procurando facilitar su utilización y acceso por el público en general;
+V. Coordinar las relaciones de la Comisión con la prensa escrita y los medios informativos en general, elaborar y distribuir boletines de prensa, y coordinar la realización de entrevistas a los funcionarios de la Comisión;
 
-VI. Emitir la información a través de los diferentes medios de comunicación, sobre el desarrollo de los programas y actividades de la Comisión;
+VI. Organizar exposiciones gráficas y audiovisuales de la Comisión, en coordinación con las unidades administrativas correspondientes;
 
-VII. Coordinar las relaciones de la Comisión con la prensa escrita y los medios informativos en general, elaborar y distribuir boletines de prensa, y coordinar la realización de entrevistas a los funcionarios de la Comisión;
+VII. Proporcionar al público solicitante la información y orientación sobre las actividades, procedimientos y trámites que realiza la Comisión;
 
-VIII. Organizar exposiciones gráficas y audiovisuales de la Comisión, en coordinación con las unidades administrativas correspondientes;
+VIII. Coordinar la integración de los servicios de biblioteca, hemeroteca, filmoteca, y archivo histórico de la Comisión y administrar su operación;
 
-IX. Proporcionar al público solicitante la información y orientación sobre las actividades, procedimientos y trámites que realiza la Comisión;
+IX. Dirigir la publicación y distribución del informe y memoria anual de la Comisión, así como de las publicaciones oficiales de la misma;
 
-X. Coordinar la integración de los servicios de biblioteca, hemeroteca, filmoteca, y archivo histórico de la Comisión y administrar su operación;
+X. Evaluar los resultados derivados de los programas y campañas de difusión e información de la Comisión;
 
-XI. Dirigir la publicación y distribución del informe y memoria anual de la Comisión, así como de las publicaciones oficiales de la misma;
+XI. Atender las solicitudes de información de usuarios de los servicios de telecomunicaciones;
 
-XII. Evaluar los resultados derivados de los programas y campañas de difusión e información de la Comisión;
+XII. Canalizar a las autoridades competentes las quejas que presenten los usuarios de los servicios de telecomunicaciones respecto de la actuación de los prestadores de servicios;
 
-XIII. Atender las solicitudes de información de usuarios de los servicios de telecomunicaciones y comunicarles los puntos de vista de la Comisión al respecto;
+XIII. Coordinar la organización de presentaciones y giras nacionales e internacionales de funcionarios de la Comisión; coordinar la distribución de materiales informativos, discursos y otros documentos de interés general, y
 
-XIV. Recibir y atender las quejas y denuncias que presenten los usuarios de los servicios de telecomunicaciones respecto de la actuación de los prestadores de servicios y, en su caso, canalizarlas a la unidad administrativa que corresponda, y
-
-XV. Coordinar la organización de eventos, presentaciones y giras nacionales e internacionales de funcionarios de la Comisión; coordinar la distribución de materiales informativos, discursos y otros documentos de interés general.
-
-XVI. Las demás que le confiera el Pleno, el Presidente, leyes, reglamentos y otras disposiciones de carácter general.
+XIV. Las demás que le confiera el Pleno, el Presidente y las disposiciones de carácter general.
 
 ###### Artículo 29.
 
@@ -661,37 +1075,11 @@ VI. Las demás que le asigne el Presidente.
 
 #### Sección VI. De la Contraloría Interna
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
+
 ###### Artículo 31.
 
-Corresponde a la Contraloría Interna:
-
-I. Vigilar y comprobar que las unidades administrativas de la Comisión cumplan con las disposiciones legales, técnicas, normas y lineamientos que regulan su funcionamiento, el desarrollo de los programas y la administración de los recursos;
-
-II. Asesorar a las distintas unidades administrativas de la Comisión cuando éstas así se lo soliciten, y vigilar la legalidad de la actuación de los servidores públicos de la Comisión en el ejercicio de sus atribuciones;
-
-III. Apoyar el establecimiento de las normas de control, fiscalización y evaluación que emita la Secretaría de Contraloría y Desarrollo Administrativo, así como la instrumentación de normas complementarias en materia de control aplicables a la Comisión;
-
-IV. Realizar, por sí o a iniciativa de la Secretaría de Contraloría y Desarrollo Administrativo, las auditorías y revisiones que se requieran a las áreas, programas, recursos y actividades que ejecute la Comisión, así como apoyar a ésta y a la Contaduría Mayor de Hacienda en las que determinen conforme a su competencia;
-
-V. Vigilar la aplicación de las recomendaciones y medidas correctivas producto del resultado de las auditorías y revisiones;
-
-VI. Recibir, atender y resolver, las quejas y denuncias que presenten los particulares respecto de la actuación de los servidores públicos de la Comisión, así como aquellas derivadas de convenios, contratos y acuerdos que suscriban las unidades administrativas de este Organo Desconcentrado, para que en su caso, la Coordinadora de Sector resuelva lo conducente;
-
-VII. Sugerir al Pleno la imposición de sanciones y, en su caso, el fincamiento de responsabilidades derivadas de los procesos de auditoría, revisión e investigación sobre quejas y denuncias, y remitir a la Secretaría de Contraloría y Desarrollo Administrativo los asuntos que por ley le correspondan para que imponga las sanciones a que haya lugar;
-
-VIII. Resolver los recursos que interpongan los servidores públicos de la Comisión respecto de las resoluciones que impongan sanciones administrativas, de conformidad con las disposiciones aplicables;
-
-IX. Informar a la Secretaría de Contraloría y Desarrollo Administrativo y denunciar ante la autoridad competente, por acuerdo del Pleno, los hechos de que tenga conocimiento e impliquen responsabilidad;
-
-X. Dar seguimiento al diseño e implantación de proyectos de desconcentración, descentralización y desarrollo administrativo que formulen las unidades administrativas de la Comisión;
-
-XI. Registrar internamente las estructuras organizativas y ocupacionales que aprueben las autoridades competentes;
-
-XII. Operar y controlar la Oficialía de Partes de la Comisión;
-
-XIII. Expedir y certificar las copias de documentos y constancias que existan en los archivos a su cargo, y
-
-XIV. Las demás que le confieran, en el ámbito de competencia de la Comisión, el Pleno, el Presidente, u otras leyes, reglamentos y demás disposiciones de carácter general.
+Corresponde a la Contraloría Interna actuar conforme a las atribuciones que le confiere el artículo 26 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, quedando facultada para requerir a la Comisión, a los servidores públicos adscritos a ésta y las unidades administrativas que la integran, la información y documentación necesaria para el cumplimiento de sus funciones.
 
 #### Sección VII. Del Secretario Técnico del Pleno
 
@@ -703,11 +1091,15 @@ El Pleno designará, a propuesta del Presidente, a dos funcionarios de la Comisi
 
 Corresponde al Secretario Técnico del Pleno:
 
-I. Coordinar a las unidades administrativas de la Comisión para la integración de los expedientes de los asuntos sujetos a discusión durante las sesiones del Pleno;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
+I. Coadyuvar con la Coordinación General Ejecutiva en la integración de los expedientes de los asuntos sujetos a discusión durante las sesiones del Pleno;
 
 II. Dar cuenta y levantar actas de las sesiones del Pleno y de las votaciones de los Comisionados, notificar las resoluciones y acuerdos, así como tramitar la ejecución de éstos;
 
-III. Compilar las resoluciones de la Comisión y ordenar su publicación, cuando el Presidente así lo señale;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1999)</small>
+
+III. Compilar las resoluciones de la Comisión y ordenar su publicación, cuando el Pleno así lo señale, y expedir y certificar las copias de documentos y constancias que existan en los archivos a su cargo, cuando proceda;
 
 IV. Acordar con el Presidente lo relativo a las sesiones del Pleno, y
 
@@ -742,3 +1134,9 @@ En tanto se expiden los manuales de organización y procedimientos, el President
 Sufragio Efectivo. No Reelección.
 
 En la Ciudad de México, Distrito Federal, a los cinco días del mes de diciembre de mil novecientos noventa y seis.- El Presidente de la Comisión Federal de Telecomunicaciones, Carlos Casasús López Hermosa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+D.O.F. 21 DE JULIO DE 1999.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
