@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1997-09-20"
+last_updated: "1999-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 1999.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -503,13 +503,13 @@ La autoridad ejecutora podrá resolver sobre la modificación o conclusión de l
 
 72.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-73.- Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las demás circunstancias del hecho, según lo dispuesto por el artículo 52, podrán, a su prudente arbitrio, sustituir la sanción de prisión que debiera imponerse, cuando ésta no exceda de dos años, y se pague o se garantice la reparación de los daños causados, por la de multa o trabajo en favor de la comunidad.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+73.- Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las demás circunstancias del hecho, según lo dispuesto por los artículos 51 y 52, podrán, a su prudente arbitrio, sustituir la sanción de prisión que debiera imponerse, cuando ésta no exceda de dos años, y se pague o se garantice la reparación de los daños causados, por la de multa o trabajo en favor de la comunidad.
 
-Tratándose de multa sustitutiva de la pena de prisión, la equivalencia será hasta de una cuota, por un día de prisión, tomando en consideración las condiciones económicas del sentenciado.
+Tratándose de multa conmutativa de la pena de prisión, la equivalencia será hasta de una cuota, por un día de prisión, tomando en consideración las condiciones económicas del sentenciado. La conmutación no exime de la obligación de reparación del daño.
 
-La conmutación no exime de la obligación de reparación del daño.
+La conmutación de la pena de prisión no podrá aplicarse por el juzgador cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio.
 
 74.- El reo que considere que al dictarse sentencia reunía las condiciones para el disfrute de la conmutación de la sanción y que por inadvertencia de su parte o del juzgador no le hubiere sido otorgada, podrá promover ante éste que se le conceda abriéndose el incidente respectivo en los términos del artículo 451 del Código de Procedimientos Penales.
 
@@ -559,9 +559,13 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 86.- Queda al prudente arbitrio del juez o tribunal suspender la ejecución de las sanciones impuestas al tiempo de pronunciarse la sentencia definitiva, de acuerdo con las siguientes limitaciones:
 
-I.- Podrá suspenderse a petición de parte o de oficio la ejecución de las sanciones privativas de libertad que no excedan de dos años si concurren estas condiciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
 
-a) Que sea la primera vez que delinque el reo;
+I.- Podrá suspenderse a petición de parte o de oficio la ejecución de las sanciones privativas de libertad que no excedan de cuatro años si concurren estas condiciones:
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+a) Que no se trate de reincidente;
 
 b) Que no existan circunstancias que evidencien que cometerá nuevo delito;
 
@@ -569,13 +573,17 @@ c) Que haya observado buena conducta;
 
 d) Que tenga modo honesto de vivir;
 
-e) Que tratándose de delitos de robo, fraude y abuso de confianza, el inculpado haya residido en el lugar en que delinquió, cuando menos desde seis meses antes de la comisión del delito; y,
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+e) Que no se trate de la comisión de alguno de los delitos previstos en el Libro Segundo, título octavo y primer capítulo del título noveno de este Código;
 
 f) Que otorgue caución por la cantidad que fije el juez, para garantizar que se presentará ante la autoridad siempre que fuere requerido, y que cubrirá la reparación del daño si fue o fuere condenado a ella.
 
 La resolución que concede este beneficio se cumplimentará desde luego, a reserva de lo que se resuelva en el recurso que contra ella se interpusiere;
 
-II.- Si durante el término de tres años, contados desde la fecha de la sentencia que cause ejecutoria, el condenado no diere lugar a nuevo proceso que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+II.- La suspensión condicional de la ejecución de las penas, tendrá una duración igual a la de la pena de prisión suspendida. Transcurrido el término respectivo se considerará extinguida. Si durante este lapso el sentenciado diere lugar a un nuevo proceso que concluya con sentencia condenatoria, se harán efectivas ambas sentencias si el nuevo delito fuere doloso;
 
 III.- La suspensión comprenderá no solamente la sanción privativa de la libertad, sino las demás que se hayan impuesto al delincuente; pero éste quedará obligado, en todo caso, a la reparación del daño;
 
@@ -583,7 +591,9 @@ IV.- A los delincuentes a quienes se conceda el beneficio de la suspensión cond
 
 V.- Los reos que disfruten del beneficio de la suspensión condicional quedarán sujetos a la vigilancia del Ministerio Público;
 
-VI.- La obligación contraída por el fiador conforme al inciso f) de la fracción I de este artículo, concluirá seis meses después de transcurridos los tres años que expresa la fracción II, siempre que el delincuente no diere lugar a nuevo proceso, o cuando en éste se pronuncie sentencia absolutoria que cause estado;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+VI.- La obligación contraída por el fiador conforme al inciso f) de la fracción I de este artículo, concluirá transcurrido que sea el término que establece la fracción II siempre que el delincuente no diere lugar a un nuevo proceso, o cuando en éste se pronuncie sentencia absolutoria que cause estado;
 
 VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo efectúa.
 
@@ -1965,19 +1975,25 @@ II.- El aprovechamiento de energía eléctrica o de cualquier otro fluido, ejecu
 
 320.- El delito de robo se sancionará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-I.- Cuando el valor de lo robado no exceda de treinta cuotas se impondrá al responsable de tres meses a seis meses de prisión y multa de cinco a diez cuotas;
+I.- Cuando el valor de lo robado no exceda de cien cuotas se impondrá al responsable de tres meses a un año de prisión y multa de diez a treinta cuotas;
 
-II.- Cuando exceda de treinta pero no de cien cuotas, la pena será de tres meses a dos años de prisión y multa hasta de veinte cuotas;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-III.- Cuando exceda de cien pero no de ciento sesenta cuotas, la sanción será de uno a cuatro años de prisión y multa hasta de treinta cuotas; y
+II.- Cuando exceda de cien pero no de trescientas cuotas, la pena será de seis meses a dos años de prisión y multa hasta de cien cuotas;
 
-IV.- Cuando exceda de ciento sesenta cuotas se sancionará al responsable, con prisión de dos a nueve años y multa de hasta cincuenta cuotas.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+III.- Cuando exceda de trescientas pero no de quinientas cuotas la sanción será de dos a seis años y multa hasta de ciento cincuenta cuotas;
 
-Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada; si éste no pudiere determinarse o si por la naturaleza de la cosa no fuere estimable en dinero, se aplicará de tres meses a cinco años de prisión y multa de hasta veinte cuotas.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+IV.- Cuando exceda de quinientas cuotas se sancionará al responsable, con prisión de tres a doce años y multa hasta de trescientas cuotas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada; si éste no pudiere determinarse o si por la naturaleza de la cosa no fuere estimable en dinero, se aplicará de tres meses a cinco años de prisión y multa hasta de doscientas cuotas.
 
 321.- Se considerará calificado el delito de robo, cuando:
 
@@ -1997,9 +2013,9 @@ VII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas
 
 VIII.- Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
-Además de las sanciones señaladas en el artículo 320 de este Código, se aplicará de uno a tres años de prisión al responsable de robo calificado.
+Además de las sanciones señaladas en el artículo 320 de este Código, se aplicará de tres meses a tres años de prisión al responsable de robo calificado.
 
 322.- Se considerará como robo calificado y se impondrán las sanciones a que se refieren los dos artículos anteriores, al que se apodere en el campo de algún instrumento rural o máquina de labranza, o de frutos cosechados o por cosechar, o lo consume en un apiario o cualquier otra industria rural.
 
@@ -2011,9 +2027,13 @@ Además de las sanciones señaladas en el artículo 320 de este Código, se apli
 
 325.- Al que se impute el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de tres meses a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o interés de la cosa usada.
 
-326.- Se impondrá de uno a diez años de prisión y multa de hasta treinta cuotas al que robe postes, alambre y otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o parte de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
-327.- Cuando el valor de lo robado no pase de veinte cuotas, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+326.- Se impondrá de uno a diez años de prisión y multa de hasta cien cuotas al que robe postes, alambre y otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o parte de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+327.- Cuando el valor de lo robado no exceda de cien cuotas y sea restituido su monto por el sujeto activo del delito, espontáneamente, antes de que se decrete auto de formal prisión, no se impondrá sanción alguna siempre y cuando no se trate de robo ejecutado por medio de la violencia.
 
 328.- El robo cometido por un ascendiente contra su descendiente, o por éste contra aquél, o por un cónyuge contra el otro, por una concubina o concubinario contra el otro, por un suegro contra su yerno o nuera, por éstos contra aquél, por un padrastro contra su hijastro o viceversa, o por un hermano contra su hermano, produce responsabilidad penal; pero no se podrá proceder contra el responsable sino a petición del agraviado.
 
@@ -2025,7 +2045,19 @@ Si además de las personas a que se refiere el párrafo anterior tuviere interve
 
 ### CAPITULO II. ABIGEATO
 
-330.- Al que se apodera de una o más cabezas de ganado ajeno cualquiera que sea su especie, sin consentimiento de quien legalmente pueda disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato, se le impondrá prisión de dos a doce años y multa de diez hasta cincuenta cuotas, si el valor del ganado robado es mayor de ciento sesenta cuotas. Si el valor es menor de esta cantidad, la sanción será de hasta la mitad de la anteriormente señalada.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+330.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado ajeno cualquiera que sea su especie, sin consentimiento de quien legalmente pueda disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
+
+El delito de abigeato se sancionará conforme a las reglas siguientes:
+
+I.- Cuando el valor del ganado no exceda de cien cuotas se impondrá prisión de tres meses a un año y multa de diez a treinta cuotas;
+
+II.- Cuando el valor del ganado exceda de cien pero no de trescientas cuotas se impondrá prisión de seis meses a dos años y multa hasta de cien cuotas;
+
+III.- Cuando el valor del ganado exceda de trescientas pero no de quinientas cuotas se impondrá prisión de dos a seis años y multa hasta de ciento cincuenta cuotas;
+
+IV.- Cuando el valor del ganado exceda de quinientas cuotas la sanción será de tres a doce años y multa hasta de trescientas cuotas.
 
 331.- Las mismas sanciones que señala el artículo anterior se aplicarán:
 
@@ -2049,15 +2081,25 @@ Si el transporte se hace a sabiendas de que se trata de ganado robado, se aplica
 
 335.- Comete el delito de abuso de confianza el que, con perjuicio de otro, disponga para sí o para un tercero, de una cosa ajena mueble de la cual se le haya transmitido la tenencia y no el dominio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-Se sancionará con prisión de tres meses a un año y multa de veinte cuotas, cuando el monto del abuso no exceda de esta última cantidad.
+I.- Cuando el valor del abuso no exceda de cien cuotas se impondrá al responsable de tres meses a un año de prisión y multa de diez a treinta cuotas.
 
-Si excede de esta cantidad pero no de ciento sesenta cuotas, la prisión será de uno a cuatro años y multa de diez a treinta cuotas.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+II.- Cuando exceda de cien pero no de trescientas cuotas, la pena será de seis meses a dos años de prisión y multa hasta de cien cuotas;
 
-Si el monto excede de ciento sesenta cuotas, la prisión será de dos a nueve años y multa de quince a cincuenta cuotas.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+III.- Cuando exceda de trescientas pero no de quinientas cuotas, la sanción será de dos a seis años y multa hasta de ciento cincuenta cuotas;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+IV.- Cuando exceda de quinientas cuotas se sancionará al responsable, con prisión de tres a doce años y multa hasta de trescientas cuotas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+Para estimar la cuantía del abuso, se atenderá únicamente al valor intrínseco de la cosa material del delito, si el valor no pudiere determinarse o si por la naturaleza de la cosa no fuere estimable en dinero, se aplicará de tres meses a cinco años de prisión y multa hasta de doscientas cuotas.
 
 336.- Se considerará como abuso de confianza para los efectos de la sanción:
 
@@ -2077,21 +2119,29 @@ III.- El hecho de que una persona haga aparecer como suyo el depósito que garan
 
 El delito de fraude se sancionará:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-I.- Con prisión de tres meses a seis meses y multa de hasta diez cuotas, cuando el valor de lo defraudado no exceda de esta última cantidad;
+I.- Cuando el valor de lo defraudado no exceda de cien cuotas se impondrá al responsable de tres meses a un año de prisión y multa de diez a treinta cuotas;
 
-II.- Con prisión de tres meses a dos años y multa de hasta sesenta cuotas cuando el monto de lo defraudado no sea mayor de esta última cantidad;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-III.- Prisión de uno a cuatro años, y multa de hasta ciento sesenta cuotas cuando el importe de lo defraudado no rebase esta última suma; y
+II.- Cuando exceda de cien pero no de trescientas cuotas, la pena será de seis meses a dos años de prisión y multa hasta de cien cuotas;
 
-IV.- Con prisión de dos a nueve años y multa de hasta ciento noventa cuotas, cuando la suma defraudada sea superior a ciento sesenta cuotas.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-Si no se pudiere determinar el monto o el valor de lo defraudado, se impondrán de treinta días a cinco años de prisión, a juicio del juez, y multa de hasta veinte cuotas.
+III.- Cuando exceda de trescientas pero no de quinientas cuotas, la sanción será de dos a seis años y multa hasta de ciento cincuenta cuotas;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-Cuando el agente del delito restituya lo defraudado por única vez no se procederá en su contra.
+IV.- Cuando exceda de quinientas cuotas se sancionará al responsable, con prisión de tres a doce años y multa hasta de trescientas cuotas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+Si no se pudiere determinar el monto o el valor de lo defraudado, se impondrán de tres meses a cinco años de prisión, y multa hasta de doscientas cuotas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+Cuando el sujeto activo del delito restituya en forma espontánea el monto de lo defraudado antes de que se decrete auto de formal prisión no se procederá en su contra, siempre y cuando no se trate de reincidente.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1986)</small>
 
@@ -2129,7 +2179,13 @@ XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alte
 
 XVI.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualquier medio los medidores de energía eléctrica o de otro fluido o las indicaciones registradas por esos aparatos.
 
-341.- Se considerará como autor del delito de fraude y será sancionado con multa de hasta sesenta cuotas y prisión de tres a diez años, al que engañando a uno haciéndose pasar como funcionario del Estado o como agente de compañía nacional o extranjera de enganche a trabajadores, lo contrate para prestar sus servicios en el extranjero, a sueldo fijo o a destajo, o lo induzca, sin contrato, a trasladarse al extranjero, para allí contraer la obligación respectiva de trabajo.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 1999)</small>
+
+XVII.- Al que, con el propósito de no cubrir el precio convenido adquiera cualquier producto agrícola o pecuario para destinarlo para sí, para otro o para su comercialización, independientemente de que la adquisición se pacte verbalmente o por escrito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+
+341.- Se equipara al delito de fraude y se sancionará con multa de hasta doscientas cuotas y prisión de tres a diez años, al que engañando a otro haciéndose pasar como funcionario del Estado o como agente de compañía nacional o extranjera de enganche a trabajadores, los contrate para prestar sus servicios en el extranjero, a sueldo fijo o a destajo, o los induzca, sin contrato, a trasladarse al extranjero, para allí contraer la obligación respectiva de trabajo.
 
 Iguales sanciones se impondrán a funcionarios auténticos del Estado, de las categorías indicadas, cuando obtuvieren del trabajador dádivas u otros ilegales beneficios a través de la celebración de contratos aun en el supuesto de que estuvieren facultados a intervenir en ellos, siendo además destituidos de sus empleos.
 
@@ -2165,7 +2221,9 @@ A la persona moral, bajo cuyo amparo o protección se cometa alguno de estos del
 
 ### CAPITULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
-345.- Se aplicarán sanciones de tres meses a tres años de prisión y multa de una a cinco cuotas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+
+345.- Se aplicarán sanciones de tres meses a tres años de prisión y multa hasta de doscientas cuotas:
 
 I.- Al que de propia autoridad y haciendo violencia física o moral a las personas, o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca;
 
@@ -2177,7 +2235,9 @@ A las sanciones que señala este artículo se sumarán las que correspondan por 
 
 ### CAPITULO VIII. DAÑO EN LAS COSAS
 
-346.- Se impondrán de cinco a diez años de prisión y multa de veinte a cien cuotas a los que causen incendio, inundación o explosión con daño o peligro de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+
+346.- Se impondrán de cinco a diez años de prisión y multa de cien a doscientas cuotas a los que causen incendio, inundación o explosión con daño o peligro de:
 
 I.- Un edificio, vivienda o cuarto donde se encuentren algunas personas;
 
@@ -2187,9 +2247,13 @@ III.- Archivos Públicos o Notariales;
 
 IV.- Bibliotecas, museos, templos, escuelas o edificios o monumentos públicos; y
 
-V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género. Si la plantación estuviere en tierras ejidales las sanciones aplicables serán de seis a doce años de prisión y multa de veinte a cien cuotas.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-347.- Se aplicarán de uno a ocho años de prisión y multa de diez a ochenta cuotas a los que intencionalmente introduzcan o irrumpan con sus ganados a las sementeras causando daño a los cultivos agrícolas de cualquier especie.
+V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+
+347.- Se aplicarán de uno a ocho años de prisión y multa de treinta a ciento cincuenta cuotas a los que intencionalmente introduzcan o irrumpan con sus ganados a las sementeras causando daño a los cultivos agrícolas de cualquier especie.
 
 348.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas del concurso.
 
@@ -2773,7 +2837,7 @@ Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, ma
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Lic. Roberto Almanza Félix.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A L PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1989.
 
@@ -2856,3 +2920,11 @@ SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de aut
 P.O. 20 DE SEPTIEMBRE DE 1997
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 1999.
+
+Primero.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+Segundo.- En aplicación del principio constitucional de irretroactividad de la ley, las reformas a los Códigos Penal y de Procedimientos Penales del Estado, contenidas en el presente Decreto, beneficiarán a todo indiciado, procesado o sentenciado que después de su entrada en vigor se encuentre en condiciones de ser favorecido por el mismo y no será aplicable en aquellos casos en que la reforma les depare perjuicio.
+
+Tercero.- Las personas sujetas a procesos penales que se encuentren en trámite al inicio de la vigencia de este Decreto, en los que se investiguen delitos cuya pena máxima no exceda de dos años de prisión, podrán libremente acogerse a la reforma procesal o continuar el trámite en términos de lo previsto en las disposiciones legales anteriores a esta reforma.
