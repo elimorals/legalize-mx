@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "1987-03-11"
+last_updated: "1990-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1990.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -541,7 +541,9 @@ La atención materno-infantil comprende las siguientes acciones:
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 1990)</small>
+
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, cuyo cumplimiento deberán exigir instituciones particulares y oficiales como requisito indispensable para la inscripción en los niveles pre-escolar y de primaria en todo el Estado;
 
 III.- La protección de la integración y del bienestar familiar.
 
@@ -2152,3 +2154,9 @@ LIC. FERNANDO BAEZA MELENDEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA LARA ALATORRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE FEBRERO DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
