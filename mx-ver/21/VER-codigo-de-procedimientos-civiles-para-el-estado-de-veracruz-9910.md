@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1979-12-29"
+last_updated: "1980-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 1980.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -4529,23 +4529,21 @@ Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenac
 
 ### CAPITULO IV. Adopción
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 720
 
 El que pretenda adoptar a alguna persona, deberá acreditar:
 
-I. Que es mayor de edad y tiene, por lo menos, diecisiete años más de edad que la persona que trata de adoptar;
+I.- Que es mayor de edad y tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar;
 
-II. Que no tiene descendientes;
+II.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o el cuidado y subsistencia del incapacitado, como hijo propio, según las circunstancias de la persona que trata de adoptarse;
 
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio, según las circunstancias de la persona que trata de adoptarse;
+III.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
+IV.- Que el adoptante es persona de buenas costumbres.
 
-V.- Que el adoptante es persona de buenas costumbres;
-
-VI.- Que la adopción es conforme con lo dispuesto por el Código Civil.
-
-En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre el la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido.
+En la promoción inicial deberá manifestarse el nombre y el del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución que lo hayan acogido.
 
 ARTICULO 721
 
@@ -5036,3 +5034,9 @@ G.O. 29 DE DICIEMBRE DE 1979.
 PRIMERO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
 
 SEGUNDO.- De los negocios que se encuentran en trámite, seguirán conociendo, hasta su terminación, los tribunales ante los que se hubiesen planteado.
+
+G.O. 23 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor, al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
