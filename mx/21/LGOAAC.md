@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1999-05-17"
+last_updated: "2000-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGOAAC"
 ---
 # LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
+LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -214,7 +214,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
+VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -298,7 +298,7 @@ Además de las actividades señaladas en los párrafos anteriores, los almacenes
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-I.- Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
+I. Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -308,11 +308,11 @@ III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IV.- Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
+IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-V.- Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
+V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -320,7 +320,7 @@ VI. Obtener préstamos y créditos de instituciones de crédito, de seguros y de
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-VII.- Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
+VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -328,15 +328,15 @@ VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar 
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IX.- Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
+IX. Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-X.- Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
+X. Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-XI.- Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+XI. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
@@ -1092,7 +1092,7 @@ Cuando las inversiones hechas en los términos de la fracción VI del artículo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
-### CapItulo III Bis. De las empresas de factoraje financiero
+### CAPITULO III Bis. De las empresas de factoraje financiero
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1298,29 +1298,29 @@ I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del M
 
 II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-III.- Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
+III. Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
 
-IV.- Recibir depósitos bancarios de dinero;
+IV. Recibir depósitos bancarios de dinero;
 
-V.- Otorgar fianzas o cauciones;
+V. Otorgar fianzas o cauciones;
 
-VI.- Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VII.- Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
+VI. Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-VIII.- Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
+VII. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
 
-IX.- Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-X.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+VIII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
 
-XI.- Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+IX. Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
 
-XII.- Realizar las demás operaciones que no les están expresamente autorizadas.
+X. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+
+XI. Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+
+XII. Realizar las demás operaciones que no les están expresamente autorizadas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1664,7 +1664,7 @@ Las organizaciones auxiliares del crédito y casas de cambio deberán rendir a l
 
 Las organizaciones auxiliares del crédito y casas de cambio están obligadas a permitir las visitas de inspección. El visitador o inspector de la Comisión Nacional Bancaria que tenga a su cargo la inspección, deberá ser atendido por el principal funcionario de la organización o casa de cambio de que se trate y en ausencia de éste, por el funcionario que lo supla o por el de jerarquía inmediata inferior que se encuentre.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE1993)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
 La Comisión Nacional Bancaria no está obligada a llevar a cabo visitas de inspección a solicitud de particulares ni a proporcionar a éstos ninguna información sobre dichas inspecciones.
 
@@ -1992,7 +1992,13 @@ II. Compra y venta de cheques de viajero denominados en moneda extranjera;
 
 III. Compra y venta de piezas metálicas acuñadas en forma de moneda, y
 
-IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente no superior a tres mil dólares de los Estados Unidos de América por documento. Estos documentos sólo podrán venderlos a instituciones de crédito y casas de cambio.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+
+IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente de diez mil dólares de los Estados Unidos de América por cada transacción. Estos documentos sólo podrán venderlos a las instituciones de crédito y casas de cambio;
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2000)</small>
+
+V. Compra y venta de divisas mediante transferencias de fondos a través de instituciones de crédito.
 
 En la celebración de las operaciones anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional.
 
@@ -2030,7 +2036,7 @@ Las solicitudes de autorización para operar casas de cambio deberán acompañar
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-I.- Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
+I. Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
 
 II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
@@ -2052,9 +2058,9 @@ I. Contarán con un local exclusivo para la realización de sus operaciones;
 
 II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
-III.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-IV.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+IV. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -2067,8 +2073,6 @@ A petición del Banco de México, las casas de cambio estarán obligadas a darle
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
-ArtIculo 84-A.- El importe del capital pagado y reservas de capital de las casas de cambio, deberá ser invertido en los términos y condiciones que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, oyendo previamente la opinión del Banco de México y la Comisión Nacional Bancaria.
 
 ###### ARTICULO 84-A.
 
@@ -2126,11 +2130,11 @@ VI. Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones par
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VII. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VIII. En cualquier otro establecido por la Ley.
+VIII.- En cualquier otro establecido por la Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2605,3 +2609,11 @@ D.O.F. 17 DE MAYO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ENERO DE 2000.
+
+> <small>(F. DE E., D.O.F. 13 DE ENERO DE 2000)</small>
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
