@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1963-11-21"
+last_updated: "1970-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1970.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -38,9 +38,13 @@ CODIGO DE COMERCIO.
 
 ## TITULO PRELIMINAR.
 
-###### Art. 1.
+###### Art. 1°.
 
-Esta ley entrará en vigor treinta días después de su publicación.
+Las disposiciones de este Código son aplicables sólo á los actos comerciales.
+
+###### Art. 2°.
+
+A falta de disposiciones de este Código, serán aplicables á los actos de comercio las del derecho común.
 
 ## TITULO PRIMERO.
 
@@ -66,11 +70,11 @@ Toda persona que, según las leyes comunes, es hábil para contratar y obligarse
 
 ###### Art. 6°.
 
-Pueden ejercer el comercio los menores de veintiún años y mayores de diez y ocho, previas la emancipación, la habilitación de edad ó autorización de aquellos bajo cuya patria potestad ó guarda estén obtenidas conforme á la ley, y sin que el menor comerciante, en ningún caso, pueda gozar de los beneficios inherentes á la menor edad.
+(DEROGADO, D.O.F. 27 DE ENERO DE 1970)
 
 ###### Art. 7°.
 
-Los menores que, con arreglo al artículo anterior, sean comerciantes, se considerarán, no obstante las disposiciones del derecho común, como mayores de edad.
+(DEROGADO, D.O.F. 27 DE ENERO DE 1970)
 
 ###### Art. 8°.
 
@@ -176,7 +180,7 @@ VI. El acta de la primera junta general y documentos anexos á ella, en las soci
 
 VII. Los poderes generales y nombramientos, y revocación de los mismos si la hubiere, conferidos á los gerentes, factores, dependientes y cualesquiera otros mandatarios;
 
-VIII. La habilitación de edad, licencia y emancipación del menor otorgadas para que sea comerciante;
+VIII. (DEROGADA, D.O.F. 27 DE ENERO DE 1970)
 
 IX. La licencia marital ó el requisito que en su defecto necesite la mujer para ejercer el comercio, así como la cesación del requisito ó la revocación de la licencia;
 
@@ -344,197 +348,277 @@ Son aplicables al libro copiador de cartas las reglas establecidas en el art. 36
 
 Los tribunales pueden decretar de oficio, ó á instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen del copiador las de igual clase que se hayan escrito por los litigantes, fijándose de antemano con precisión las que hayan de copiarse por la parte que lo solicite.
 
-## TITULO TERCERO.
+## TÍTULO TERCERO.
 
 DE LOS CORREDORES.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+
 ###### Art. 51.
 
-Corredor es el agente auxiliar del comercio, con cuya intervención se proponen, ajustan y otorgan los contratos mercantiles.
+Corredor es el agente auxiliar del comercio, con cuya intervención se proponen y ajustan los actos, contratos y convenios y se certifican los hechos mercantiles. Tiene fe pública cuando expresamente lo faculta este Código u otras leyes, y puede actuar como perito en asuntos de tráfico mercantil.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 52.
 
-Los corredores son:
+Sólo podrán usar la denominación de Corredor las personas habilitadas por la Secretaría de Industria y Comercio o por los Gobernadores de los Estados y Territorios, en los términos de este Código. La autoridad habilitante impondrá a quienes violen esta disposición, multas hasta de cinco mil pesos, que podrán imponerse diariamente mientras persista la infracción independientemente de la sanción penal a que se hagan acreedores.
 
-I. De cambio: para la negociación de títulos de crédito público, nacionales ó extranjeros, si la circulación de estos últimos estuviese permitida en la República; de letras de cambio, acciones de minas y de sociedades, vales, pagarés y demás valores al portador y endosables; de metales preciosos amonedados ó en pasta, y para la consecución de dinero á mutuo;
-
-II. De mercancías: para la negociación de toda clase de efectos, y en general para las demás operaciones que no se enumeran en las otras fracciones de este artículo;
-
-III. De seguros: para el ajuste de seguros en toda clase de riesgos;
-
-IV. De transportes: para el ajuste de transportes de toda clase, á excepción de los marítimos;
-
-V. De mar: para todos los contratos relativos al comercio marítimo.
-
-Las clases que este artículo establece pueden ser subdivididas por los reglamentos, en atención á las necesidades de cada plaza.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 53.
 
-En los actos mercantiles no es necesaria, sino voluntaria, la intervención del corredor; pero los contratos celebrados sin ella se comprobarán conforme á su naturaleza, sin atribuir á los intermediarios función alguna de correduría.
+Los actos y contratos mercantiles celebrados sin intervención de corredor, se comprobarán conforme a su naturaleza, sin atribuir a los intermediarios función alguna de correduría.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 54.
 
 Para ser corredor se requiere:
 
-> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1954)</small>
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles;
 
-I. Ser mayor de 21 años.
+II. Estar domiciliado en la plaza en que se ha de ejercer;
 
-II. Ser mexicano por nacimiento ó por naturalización;
+III. Haber practicado como aspirante durante seis meses en el despacho de algún corredor en ejercicio;
 
-III. Tener domicilio en la plaza en que se ha de ejercer;
+IV. Ser de absoluta moralidad;
 
-IV. Haber practicado el comercio en la República durante cinco años;
+V. Tener título de Licenciado en Relaciones Comerciales o de Licenciado en Derecho;
 
-V. Ser de moralidad, estar en el ejercicio de los derechos civiles y en la administración libre de sus bienes, no tener los impedimentos á que se refieren las fracciones II y III del art. 68, y no ser empleado público ni militar en servicio;
+VI. Tener el carácter de aspirante y aprobar el examen práctico, jurídico mercantil y el de oposición en su caso, ante el Colegio de Corredores respectivos; y
 
-VI. Tener instrucción mercantil.
+VII. Obtener la habilitación a que se refiere el artículo 56 que se otorgará cuando a juicio de la autoridad correspondiente se hayan cumplido satisfactoriamente todos los requisitos establecidos en las fracciones anteriores.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 55.
 
-Los títulos de corredores serán expedidos en el Distrito Federal por el Ministro de Fomento, en los Estados por los Gobernadores, y en los Territorios por los Jefes políticos. Cada año obtendrán los corredores refrenda de su título para poder seguir ejerciendo su oficio.
+Para ser aspirante se requiere:
+
+I. Satisfacer los requisitos señalados en las fracciones I, II, IV y V del artículo 54; y
+
+II. Haber aprobado el examen teórico, jurídico mercantil, a que habrá de someterse el solicitante ante el Colegio de Corredores respectivo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 56.
 
-Los corredores solamente pueden ejercer en la plaza mercantil para la que han sido habilitados, sin perjuicio de que accidentalmente intervengan en contratos que se celebren en otra plaza del mismo Distrito, Estado ó Territorio, y de que su título pueda revalidarse para otra localidad, mediante el otorgamiento de nuevas fianzas.
+Las habilitaciones para ejercer como corredor serán expedidas en el Distrito Federal por la Secretaría de Industria y Comercio, y en los Estados y Territorios Federales por los Gobernadores.
+
+Cada año los corredores deberán rendir a dichas autoridades por conducto del Colegio de Corredores correspondiente, los informes que exija el reglamento.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 57.
 
-Los corredores pueden ser habilitados para uno, para varios ó para todos los ramos comerciales, conforme á la actitud que comprueben y otorgando las fianzas que correspondan á cada uno de ellos.
+Los corredores solamente podrán ejercer en la plaza mercantil para la que hayan sido habilitados; sin embargo, los actos en que intervengan pueden referirse a cualquier otro lugar.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 58.
 
-Los corredores caucionarán su manejo por medio de fianzas, cuya cuantía la determinarán los reglamentos respectivos.
+Cuando los corredores intervengan en la proposición y ajuste de un contrato, así como cuando actúen como peritos, podrán actuar accidentalmente en cualquier plaza de la República Mexicana.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 59.
 
-Ningún corredor podrá ejercer su oficio sin que previamente acredite haber inscrito sus finanzas en el Registro del Comercio, ni podrá continuar ejerciendo cuando por cualquier motivo deje de tener fiadores idóneos y solventes.
+Los corredores caucionarán su manejo por medio de fianzas, o en su defecto con hipoteca en la cuantía que establezca el reglamento.
 
-Después de canceladas las fianzas, serán devueltas al fiador ó á quien lo represente.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 60.
 
-Las fianzas de los corredores tienen por objeto caucionar el cumplimiento de las obligaciones y responsabilidades que contraigan en el ejercicio de la correduría.
+En el caso de que las garantías se hagan efectivas, se aplicarán, en primer lugar, al pago de responsabilidades fiscales que resulten de los actos en que intervengan; y en sus excedentes al pago de las responsabilidades contraídas en el ejercicio de la correduría.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 61.
 
-Los fiadores de los corredores no gozarán de los beneficios de orden, excusión y división.
+La fianza de los corredores será otorgada ante la Tesorería de la Federación y la Tesorería de la Entidad que corresponda, a disposición de la autoridad habilitante. En su caso, la hipoteca se constituirá sobre un bien raíz ubicado en la Entidad en la que el corredor ejerza sus funciones, siempre que dicha propiedad esté libre de gravámenes y tenga un valor catastral cuando menos igual al monto de la caución. Esta garantía se constituirá conforme a las leyes comunes.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 62.
 
-Las fianzas no se cancelarán sino cuando pasado un año de sustituídas ó de haber cesado el corredor en el ejercicio de sus funciones, no se haya formulado demanda alguna de responsabilidad.
+Las personas habilitadas para ejercer como corredor deben llenar previamente a su ejercicio y mantener en forma permanente durante toda su actuación, los siguientes requisitos:
 
-La cancelación se decretará por la autoridad judicial con audiencia del Ministerio público, y previo anuncio por la prensa con un mes de anticipación, de que se va á proceder á ella.
+I. Otorgar la garantía en la forma establecida en el artículo anterior;
 
-Se exceptúa de las disposiciones de este artículo el caso de que la cancelación deba hacerse por haber pagado el fiador el importe total de la fianza, pues entonces bastará la comprobación del hecho.
+II. Proveerse a su costa de sello y libro de Registro debidamente autorizado;
+
+III. Registrar sello y firma ante la autoridad que los hubiere habilitado en el Registro Público de la Propiedad y de Comercio y en el Colegio de Corredores respectivos; y
+
+IV. Establecer su oficina en la plaza en que vayan a desempeñar su función, dentro de los treinta días siguientes a la fecha en que hayan rendido su protesta.
+
+Satisfechos todos los requisitos que anteceden, la autoridad habilitante mandará publicar, en el "Diario Oficial" de la Federación o en el periódico oficial de la Entidad que corresponda, sin costo alguno para el interesado, la habilitación conferida.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 63.
 
-Los corredores perfeccionarán los contratos que se otorguen con su intervención, extendiendo una minuta de ellos con todas las circunstancias y condiciones que se hubieren pactado, la cual será firmada por el corredor y por los contratantes en presencia de aquél. El corredor dará copia certificada de la minuta á cada uno de los interesados dentro de las veinticuatro horas útiles siguientes á su otorgamiento.
+Los Corredores tendrán derecho a cobrar a los interesados en cada caso los honorarios que devenguen conforme al Arancel; pudiendo excusarse de actuar, si los interesados no les anticipan los gastos y honorarios respectivos.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 64.
 
-Los corredores, diariamente, por orden de fechas y bajo numeración progresivas, coleccionarán los contratos en que intervengan y en el mismo orden harán un extracto de ellos, sin raspaduras, enmendaturas, interlineaciones ni abreviaturas, en un libro especial que llevarán al efecto y que se denominará de registro.
+Los contratos de compraventa en abonos, con reserva de dominio o con cláusula resolutoria sobre bienes muebles, así como los relativos a prenda que se constituya sobre los mismos bienes, para garantizar el cumplimiento de cualquier contrato mercantil, podrán otorgarse o ratificarse ante Corredor, cuando la Ley no exija otra formalidad especial. El documento en que se haga constar el cumplimiento de las obligaciones pactadas en dichos contratos, puede también ser otorgado o ratificado ante Corredor.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 65.
 
-El libro de registro y el archivo de pólizas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tenga en su poder, al Colegio de Corredores, para su guarda, y si no lo hubiere, á la autoridad que tenga á su cargo la expedición de los títulos.
+Los corredores diariamente, por orden de fecha y bajo numeración progresiva, formarán archivo de las pólizas y actas de los contratos en que intervengan y en el mismo orden asentarán el extracto de las pólizas en el libro especial que llevarán al efecto y que se denominará de registro, sin raspaduras, enmendaduras, interlineaciones o abreviaturas.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 66.
 
-Las pólizas autorizadas por los corredores, los asientos de su libro de registro y las copias certificadas que con referencia á este expidieren, tendrán el mismo valor probatorio y surtirán los mismos efectos jurídicos que las escrituras públicas.
+El Libro de Registro y el archivo de pólizas y actas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tuviere en su poder, al Colegio de Corredores respectivo para su guarda, y si no lo hubiere, a la autoridad habilitante.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 67.
+
+Las actas y pólizas autorizadas por los corredores surten los efectos de un instrumento público. Los asientos de su Libro de Registro y las copias certificadas que expidan de las pólizas, actas y asientos antes dichos, son documentos que hacen prueba plena de los contratos o actos respectivos. Póliza es el instrumento redactado por el Corredor para hacer constar en él un contrato mercantil en el que esté autorizado a intervenir como funcionario revestido de fe pública, en los términos de este Código y de las disposiciones legales aplicables. Acta es la relación escrita de un acto jurídico en el que el Corredor intervino; contendrá las circunstancias relativas al mismo y la firma y sello del Corredor. Los contratos mercantiles en que pueda intervenir el Corredor y que no hubieren sido otorgados ante él, podrán autenticarse mediante ratificación que bajo su firma hagan las partes en su presencia y el Corredor no adquiere ninguna responsabilidad sobre el contenido o la materia de los actos o hechos jurídicos.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+
+###### Art. 68.
 
 Son obligaciones de los corredores:
 
 I. Asegurarse de la identidad y capacidad legal para contratar de las personas en cuyos negocios intervengan;
 
-II. Proponer los negocios con exactitud, claridad y precisión, absteniéndose de supuestos que induzcan á error á los contratantes;
+II. Proponer los negocios con exactitud, claridad y precisión;
 
-III. Guardar secreto en todo lo que concierna á las negociaciones que se les encarguen, y no revelar, mientras no se concluya la operación, los nombres de los contratantes, á menos que exija lo contrario la ley ó la naturaleza de las operaciones, ó que los interesados consientan en que sus nombres sean conocidos;
+III. Guardar secreto en todo lo que concierna a los negocios que se le encarguen, y, cuando actúe con el carácter de intermediario, no revelar, mientras no se concluya la operación, los nombres de los contratantes a menos que exija lo contrario la Ley, o la naturaleza de las operaciones o por el consentimiento de los interesados;
 
-IV. Expedir á los interesados, siempre que las pidieren, copias certificadas de los asientos de su registro;
+IV. Expedir a las autoridades y a los interesados siempre que lo pidieren copias certificadas de las pólizas y actas correspondientes, así como de los extractos de las pólizas, pudiendo ser éstas mecanográficas, fotostáticas, manuscritas, fotográficas o impresas;
 
-V. Ejercer personalmente todas sus funciones, sin hacer uso de intermediarios;
+V. Ejercer personalmente sus funciones;
 
-VI. Responder en las operaciones de letras y demás documentos endosables, de la autenticidad de la firma del último endosante, ó del girador en su caso, y recogerlos para entregarlos al tomador;
+VI. Asistir a la entrega de los efectos cuando alguno de los contratantes lo solicite;
 
-VII. Asistir á la entrega de los efectos cuando alguno de los contratantes lo exija;
+VII. Conservar marcada con un sello y firma, mientras no la reciba a su satisfacción el comprador, una muestra de las mercancías, siempre que la operación se hubiere hecho sobre muestras;
 
-VIII. Conservar marcada con su sello y con los de los contratantes, mientras no las reciba á su satisfacción el comprador, una muestra de las mercancías, siempre que la operación se hubiere hecho sobre muestra;
+VIII. Servir de peritos por nombramiento hecho o confirmado por la autoridad y dar a ésta los informes que les pida sobre materias de su competencia;
 
-IX. Firmar los conocimientos en los contratos de trasporte;
+IX. Pertenecer al Colegio de Corredores de la plaza en que ejerzan;
 
-X. Servir de peritos por nombramiento hecho ó confirmado por la autoridad, y dar á ésta los informes que le pida sobre materias de su competencia.
+X. Dar toda clase de facilidades para la inspección que de su archivo y Libros de Registro practique la autoridad habilitante acompañada de un representante del Colegio de Corredores de la plaza; y
 
-###### Art. 68.
+XI. Dar aviso a la autoridad habilitante cuando deseen separarse del ejercicio de su función por un lapso menor de treinta días, y cuando exceda de este término, deberán solicitar de dicha autoridad por conducto del Colegio de Corredores de la plaza, la licencia respectiva, la cual podrá ser renunciable.
 
-Se prohibe á los corredores:
-
-I. Comerciar por cuenta propia y ser comisionistas;
-
-II. Ser factores, dependientes, ó socios de un comerciante;
-
-III. Pertenecer á los Consejos de dirección o administración de las sociedades anónimas y ser comisario de ellas;
-
-IV. Adquirir para sí los efectos de cuya negociación estuvieren encargados;
-
-V. Autorizar contratos prohibidos, sea por la naturaleza del contrato mismo ó de las cosas sobre que verse, sea por incapacidad ó inhabilidad legal de los contrayentes;
-
-VI. Garantizar los contratos en que intervengan, ser endosantes de los títulos á la orden negociados por su conducto, y en general, contraer en los negocios ajustados con su mediación, responsabilidad extraña al simple ejercicio de la correduría;
-
-VII. Autorizar los contratos que ajusten para sí ó para sus poderdantes;
-
-VIII. Expedir copia certificada de las minutas que no consten en su registro, ó no expedirlas íntegras.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 69.
 
-Los corredores no podrán hacer cesión de bienes, y la quiebra en que de hecho caigan, será calificada siempre de fraudulenta.
+Se prohibe a los Corredores:
+
+I. Comerciar por cuenta propia y ser comisionistas;
+
+II. Ser factores o dependientes de un comerciante;
+
+III. Adquirir para sí o para su esposa, parientes consanguíneos hasta el cuarto grado, y afines en la colateral hasta el segundo grado, los efectos que se negocien por su conducto;
+
+IV. Intervenir en cualquier forma en contratos cuyo objeto o fin sea contrario a la Ley o a las buenas costumbres;
+
+V. Garantizar los contratos en que intervengan, ser endosantes de los títulos a la orden negociados por su conducto, y, en general contraer en los negocios ajustados con su mediación, responsabilidad extraña al simple ejercicio de la correduría;
+
+VI. Autorizar los contratos que ajusten u otorguen en nombre propio o en representación de tercera persona, para su esposa, para sus parientes consanguíneos o afines en los grados que expresa la fracción III, y los dos comerciantes de los que sean socios o de las empresas en que figuren como miembros del consejo de administración o de vigilancia;
+
+VII. Expedir copias certificadas de constancias que no obren, en su archivo, o en su Libro de Registro, o no expedirlas íntegras; y
+
+VIII. Con excepción de los cargos docentes, ser empleado público o militar en servicio.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 70.
 
-Los corredores, además de las penas que deben imponérseles por los delitos que cometan en el ejercicio de su oficio, serán castigados:
+Los Corredores, que a pesar de la prohibición existente ejerzan el comercio, no podrán hacer cesión de sus bienes, y la quiebra en que de hecho caigan, será calificada siempre de fraudulenta.
 
-I. Con suspensión de un mes, en caso de infracción del art. 67;
-
-II. Con destitución cuando ejecuten alguno de los actos que prohibe el art. 68, sean declarados en quiebra, no lleven libros de registro de contratos, ó sean condenados por delitos contra la propiedad ó cuya pena exceda de un año de prisión.
-
-Los corredores destituídos no podrán en caso alguno ser rehabilitados.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 71.
 
-Los reglamentos pueden sancionar con multa hasta de quinientos pesos y suspensión hasta de un mes, los deberes que impongan á los corredores.
+Los Corredores, además de las penas a que se hagan acreedores por los delitos cometidos en el ejercicio de sus funciones, serán sancionados administrativamente como sigue:
+
+I. Con suspensión hasta de un año en caso de infracción al artículo 68; y
+
+II. Con cancelación definitiva de su habilitación cuando ejecuten alguno de los actos que prohibe el artículo 69, sean declarados en quiebra, no lleven libros de registro o sean condenados por delitos intencionales cuya pena exceda de un año de prisión.
+
+Las sanciones serán aplicadas por la autoridad habilitante, oyendo al interesado, con intervención del Colegio de Corredores respectivo y de acuerdo con los procedimientos que establezca el reglamento .
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 72.
 
-La suspensión se impondrá por la autoridad á cuyo cargo esté la expedición de títulos; y la destitución, por los tribunales competentes.
+La resolución que se dicte suspendiendo o cancelando la habilitación a un Corredor, deberá publicarse en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad correspondiente; y el Colegio de Corredores respectivo se encargará de darla a conocer en la plaza, publicándola durante tres días consecutivos en alguno de los diarios de mayor circulación.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 73.
 
-En cada plaza de comercio en que haya más de diez corredores, se establecerá un colegio, que tendrá á su cargo:
+En cada plaza mercantil en que haya más de cinco corredores, se establecerá un Colegio que tendrá a su cargo:
 
-I. Examinar á los aspirantes á obtener el título de corredor;
+I. Formular los cuestionarios para el examen teórico, jurídico mercantil, a que habrán de someterse las personas que deseen ser aspirantes;
 
-II. Informar á la autoridad á cuyo cargo esté la expedición de los títulos, acerca de la idoneidad y solvencia de los fiadores que se le propongan, así como de los cambios que sobrevengan en la idoneidad de los ya aceptados, ó en la integridad de las fianzas de los corredores en ejercicio;
+II. Examinar a los solicitantes;
 
-III. Avisar á la misma autoridad siempre que un corredor deba ser suspenso ó destituído;
+III. Comprobar que los aspirantes han hecho su práctica durante seis meses ininterrumpidos bajo la dirección y responsabilidad de un corredor en ejercicio;
 
-IV. Publicar anualmente una lista de los corredores en ejercicio;
+IV. Examinar a los aspirantes, con la intervención de un representante de la autoridad habilitante correspondiente, en los términos que señale el Reglamento;
 
-V. Rendir á las autoridades los informes que les pidieren en materias de su competencia.
+V. Dar aviso a la autoridad habilitante de las solicitudes recibidas y de los resultados de ambos exámenes en su caso, así como de la idoneidad de los aspirantes;
+
+VI. Solicitar de la autoridad habilitante la suspensión de algún Corredor, o la cancelación de su habilitación en los casos en que proceda;
+
+VII. Publicar anualmente en el periódico oficial que corresponda, en el mes de enero, la lista de corredores en ejercicio;
+
+VIII. Rendir a las autoridades los informes que le soliciten en materia de su competencia;
+
+IX. Proponer a la autoridad habilitante el Arancel a que deberán sujetarse sus asociados, y publicarlo en el periódico oficial correspondiente una vez aprobado por dicha autoridad;
+
+X. Nombrar de entre sus asociados a las personas que deban desempeñar alguna comisión;
+
+XI. Fijar las cuotas que deban cubrirle sus asociados, así como el monto de los derechos relativos a intervenciones, que establezca el Reglamento. Las cuotas y los derechos a que se refiere esta fracción deben ser aprobados previamente por la autoridad habilitante;
+
+XII. Asistir a las inspecciones del archivo y libros de sus asociados cuando las hubiere de practicar la autoridad habilitante; y
+
+XIII. Constituirse en asociación para los fines que señala este Código y los Reglamentos.
+
+En las plazas en que no exista Colegio de Corredores, las atribuciones asignadas a los mismos en el presente Código, en su caso, estarán a cargo de la autoridad habilitante.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
 
 ###### Art. 74.
 
-En los reglamentos respectivos, se expresarán la manera de comprobar las calidades y requisitos que este Código exige para ser corredor.
+El Ejecutivo de la Unión y los Gobernadores de las Entidades Federativas expedirán el Reglamento y el arancel de Corredores respectivo. El Reglamento contendrá:
+
+I. Los informes que los Corredores deberán rendir, anualmente, a la autoridad habilitante por conducto del Colegio de Corredores;
+
+II. El número máximo de Corredores que existirá en cada plaza;
+
+III. La cuantía de la caución a que se refiere el artículo 59;
+
+IV. Los procedimientos mediante los cuales se aplicarán las sanciones que establece el presente título;
+
+V. Los requisitos, formas y procedimientos para efectuar los exámenes a los aspirantes y corredores;
+
+VI. El señalamiento de los fines necesarios para la constitución del Colegio de Corredores;
+
+VII. La forma de comprobar la calidad necesaria para el ejercicio de la función de Corredor, los conocimientos profesionales, técnicos y prácticos que se requieran para ello; las circunstancias relativas a las cauciones y la inspección a los Corredores; así como todas aquellas disposiciones que se requieran para su cumplimiento; y
+
+VIII. Las sanciones que podrán consistir en multa hasta de cinco mil pesos y suspensión hasta por seis meses, por incumplimiento de las obligaciones impuestas a los corredores.
 
 # LIBRO SEGUNDO.
 
 DEL COMERCIO TERRESTRE.
 
-## TITULO PRIMERO.
+## TÍTULO PRIMERO.
 
 DE LOS ACTOS DE COMERCIO Y DE LOS CONTRATOS MERCANTILES EN GENERAL.
 
@@ -668,7 +752,7 @@ En el contrato mercantil en que se fijare pena de indemnización contra el que n
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)</small>
 
-## TITULO SEGUNDO.
+## TÍTULO SEGUNDO.
 
 DE LAS SOCIEDADES DE COMERCIO.
 
@@ -1454,7 +1538,7 @@ Disposiciones penales.
 
 ###### Art. 268.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES ERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 269.
 
@@ -1478,7 +1562,7 @@ De los comisionistas.
 
 (DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
-## TITULO TERCERO.
+## TÍTULO TERCERO.
 
 DE LA COMISIÓN MERCANTIL.
 
@@ -1754,7 +1838,7 @@ I. Por falta de cumplimiento, por parte del principal, de cualquiera de las cond
 
 II. Por malos tratamientos ú ofensas graves, por parte del principal.
 
-## TITULO CUARTO.
+## TÍTULO CUARTO.
 
 DEL DEPÓSITO MERCANTIL.
 
@@ -1878,7 +1962,7 @@ Del préstamo mercantil en general.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO QUINTO.
+## TÍTULO QUINTO.
 
 DEL PRÉSTAMO MERCANTIL.
 
@@ -1954,7 +2038,7 @@ De la compraventa.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO SEXTO.
+## TÍTULO SEXTO.
 
 DE LA COMPRAVENTA Y PERMUTA MERCANTILES Y DE LA CESIÓN DE CRÉDITOS COMERCIALES.
 
@@ -1974,7 +2058,7 @@ En las compraventas mercantiles se sujetarán los contratantes á todas las esti
 
 Las compraventas que se hicieren sobre muestras ó calidades de mercancías determinadas y conocidas en el comercio, se tendrán por perfeccionadas por el solo consentimiento de las partes.
 
-En caso de desavenencia entre los contratantes, dos comerciantes nombrados uno por cada parte, y un tercero para el caso de discordia nombrado por éstos, resolverán sobre la conformidad ó inconformidad de las mercancías con las muestras ó calidades que sirvieron de base al contrato.
+En caso de desavenencia entre los contratantes, dos comerciantes nombrados uno por cada parte, y un tercero para el caso de discordia nombrado por éstos, resolverán sobre la conformidad o inconformidad de las mercancías con las muestras ó calidades que sirvieron de base al contrato.
 
 ###### Art. 374.
 
@@ -2080,7 +2164,7 @@ Del seguro contra incendios.
 
 (DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
-## TITULO SÉPTIMO.
+## TÍTULO SÉPTIMO.
 
 DE LOS CONTRATOS DE SEGUROS.
 
@@ -2332,7 +2416,7 @@ De la provisión.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TITULO OCTAVO.
+## TÍTULO OCTAVO.
 
 DEL CONTRATO Y LETRAS DE CAMBIO.
 
@@ -2782,7 +2866,7 @@ De los cheques.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TITULO NOVENO.
+## TÍTULO NOVENO.
 
 DE LAS LIBRANZAS, VALES, PAGARÉS, CHEQUES Y CARTAS DE CRÉDITO.
 
@@ -2928,7 +3012,7 @@ De los efectos al portador.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO DECIMO.
+## TÍTULO DÉCIMO.
 
 DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
@@ -2994,7 +3078,7 @@ Los títulos legales del contrato entre el cargador y el porteador serán las ca
 
 Cumpliendo el contrato se devolverá al porteador la carta de porte que hubiere expedido, y en virtud del canje de este título por el objeto porteado, se tendrán por canceladas las respectivas obligaciones y acciones, salvo cuando en el mismo acto se hicieren constar por escrito en el mismo título las reclamaciones que las partes quisieran reservarse; excepción hecha de lo que se determina en la fracción III del artículo 595.
 
-En caso de que por extravío ú otra causa no pueda el consignatario devolver en el acto de recibir los géneros, la carta de porte que él hubiere recibido suscrita por el porteador, deberá darle un recibo de los objetos entregados, produciendo este recibo los mismos efectos que la devolución de la carta de porte. Si ésta fuere á la orden ó al portador, el recibo se extenderá con los requisitos que establece el título respectivo.
+En caso de que por extravío u otra causa no pueda el consignatario devolver en el acto de recibir los géneros, la carta de porte que él hubiere recibido suscrita por el porteador, deberá darle un recibo de los objetos entregados, produciendo este recibo los mismos efectos que la devolución de la carta de porte. Si ésta fuere á la orden ó al portador, el recibo se extenderá con los requisitos que establece el título respectivo.
 
 ###### Art. 584.
 
@@ -3166,7 +3250,7 @@ Si después del plazo á que alude el artículo anterior, el cargador ó su repr
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TITULO UNDECIMO.
+## TÍTULO UNDÉCIMO.
 
 DE LA PRENDA MERCANTIL.
 
@@ -3216,7 +3300,7 @@ DE LA PRENDA MERCANTIL.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TITULO DECIMO SEGUNDO.
+## TÍTULO DECIMO SEGUNDO
 
 DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MISMOS.
 
@@ -3308,9 +3392,11 @@ De los capitanes.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO DECIMO TERCERO.
+TÍTULO DECIMOTERCERO.
 
 DE LA MONEDA.
+
+## TÍTULO PRIMERO. DE LAS EMBARCACIONES
 
 ###### Art. 635.
 
@@ -3332,9 +3418,15 @@ Nadie puede ser obligado á recibir moneda extranjera.
 
 El papel, billetes de Banco y títulos de deuda extranjeros, no pueden ser objeto de actos mercantiles en la República, sino considerándolos como simples mercancías; pero podrán ser objeto de contratos puramente civiles.
 
-## TITULO DECIMO CUARTO.
+TÍTULO DECIMOCUARTO.
 
 DE LAS INSTITUCIONES DE CRÉDITO.
+
+## TÍTULO SEGUNDO.
+
+DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ###### Art. 640.
 
@@ -3348,9 +3440,11 @@ DEL COMERCIO MARÍTIMO.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO PRIMERO.
+## TÍTULO TERCERO.
 
-DE LAS EMBARCACIONES.
+DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ###### Art. 641.
 
@@ -3454,9 +3548,9 @@ DE LAS EMBARCACIONES.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO SEGUNDO.
+## TÍTULO CUARTO.
 
-DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
+DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
@@ -3730,9 +3824,9 @@ De los derechos y obligaciones del fletante.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO TERCERO.
+## TÍTULO QUINTO.
 
-DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
+DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
@@ -4426,11 +4520,11 @@ De las arribadas forzosas.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO CUARTO.
+## TÍTULO PRIMERO.
 
-DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
+DE LAS QUIEBRAS.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -4616,11 +4710,59 @@ De la liquidación de las averías gruesas.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO QUINTO.
+## TÍTULO SEGUNDO.
 
-DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
+DE LAS PRESCRIPCIONES.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
+Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
+
+Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
+
+Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
+
+Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
+
+Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
+
+Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
+
+Art. 1,043. En un año se prescribirán:
+
+I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
+
+II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
+
+III. Todas las acciones derivadas del contrato de trasporte terrestre ó marítimo;
+
+IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
+
+V. Las acciones derivadas de contratos de seguros sobre la vida, marítimos ó terrestres;
+
+VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
+
+VII. Las acciones por gastos de la venta judicial de los buques, cargamentos ó efectos trasportados por mar ó tierra así como los de su custodia, depósito y conservación, y los derechos de navegación y de puerto, pilotaje, socorros, auxilios y salvamentos;
+
+VIII. Las acciones que tengan por objeto exigir la indemnización de los daños y perjuicios sufridos por abordaje y averías.
+
+Art. 1,044. Se prescribirán en tres años:
+
+I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+II. Las acciones derivadas del contrato de préstamo á la gruesa.
+
+Art. 1,045. Se prescribirán en cinco años:
+
+I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la Sociedad y de socios entre sí por razón de la sociedad;
+
+II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
+
+Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
+
+El capitán de un navío no puede adquirir éste á virtud de la prescripción.
+
+Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
+
+Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
 
 ### CAPÍTULO III.
 
@@ -4738,11 +4880,9 @@ De la clasificación de las quiebras.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TITULO PRIMERO.
+## TÍTULO PRIMERO.
 
-DE LAS QUIEBRAS.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+DISPOSICIONES GENERALES.
 
 ### CAPÍTULO III.
 
@@ -5164,67 +5304,143 @@ III. Una copia, en papel común, del escrito y de los documentos, cuando estos n
 
 Art. 1,062. Los dispuesto en la fracción III de artículo que precede, se observará también respecto de los escritos en que se opongan excepciones de compensación ó reconvención, y del los que se promueva algún incidente.
 
-## TITULO SEGUNDO.
+## TÍTULO SEGUNDO
 
-DE LAS PRESCRIPCIONES.
+DE LOS JUICIOS ORDINARIOS.
 
-Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
+Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
 
-Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
+Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
 
-Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
+Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
 
-Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
+Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
 
-Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
+Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
 
-Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
+Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
 
-Art. 1,043. En un año se prescribirán:
+Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el término que crea suficiente para la rendición de las pruebas, no pudiendo exceder de cuarenta días.
 
-I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
+Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
 
-II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
+Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
 
-III. Todas las acciones derivadas del contrato de trasporte terrestre ó marítimo;
+Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
 
-IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
+Art. 1,387. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio antes de sentenciarse, protestando la parte que antes no supo de ellas ó no las pudo haber, y dándose conocimiento de las mismas á la contraria, en los términos del art. 1,319 para que pueda alegar lo que le convenga.
 
-V. Las acciones derivadas de contratos de seguros sobre la vida, marítimos ó terrestres;
+Art. 1,388. Mandada hacer la publicación de pruebas se entregarán los autos originales primero al actor y después al reo, por diez días á cada uno, para que aleguen de buena prueba.
 
-VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
+Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
 
-VII. Las acciones por gastos de la venta judicial de los buques, cargamentos ó efectos trasportados por mar ó tierra así como los de su custodia, depósito y conservación, y los derechos de navegación y de puerto, pilotaje, socorros, auxilios y salvamentos;
-
-VIII. Las acciones que tengan por objeto exigir la indemnización de los daños y perjuicios sufridos por abordaje y averías.
-
-Art. 1,044. Se prescribirán en tres años:
-
-I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
-
-II. Las acciones derivadas del contrato de préstamo á la gruesa.
-
-Art. 1,045. Se prescribirán en cinco años:
-
-I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
-
-II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
-
-Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
-
-El capitán de un navío no puede adquirir éste á virtud de la prescripción.
-
-Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
-
-Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
+Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
 
 # LIBRO QUINTO.
 
 DE LOS JUICIOS MERCANTILES.
 
-## TITULO PRIMERO.
+## TÍTULO TERCERO
 
-DISPOSICIONES GENERALES.
+DE LOS JUICIOS EJECUTIVOS.
+
+Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
+
+Traen aparejada ejecución:
+
+I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
+
+II. Los instrumentos públicos;
+
+III. La confesión judicial del deudor, según el artículo 1,288;
+
+IV. Las letras de cambio, libranzas, vales, pagarés y demás efectos de comercio en los términos que disponen los artículos relativos de este Código, observándose lo que ordena el art. 534 respecto á la firma del aceptante;
+
+V. Las pólizas de seguros conforme al artículo 441;
+
+VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en el art. 420;
+
+VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor.
+
+Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste, salvo lo dispuesto en las concesiones vigentes en favor de los Bancos.
+
+Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citatorio, fijándole día y hora hábil para que aguarde. Por el solo hecho de que el deudor no aguarde al emplazamiento se procederá á practicar al embargo con cualquiera persona que se encuentre en la casa ó con el vecino más inmediato.
+
+Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
+
+Art. 1,395. En el embargo de bienes se seguirá este orden:
+
+I. Las mercancías;
+
+II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
+
+III. Los demás muebles del deudor;
+
+IV. Los inmuebles;
+
+V. Las demás acciones y derechos que tenga el demandado.
+
+Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
+
+Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
+
+Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
+
+Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
+
+Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
+
+Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
+
+Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
+
+Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
+
+Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
+
+I. Falsedad del título ó del contrato contenido en él;
+
+II. Fuerza ó miedo;
+
+III. Prescripción ó caducidad del título;
+
+IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
+
+V. Incompetencia del juez;
+
+VI. Pago ó compensación;
+
+VII. Remisión ó quita;
+
+VIII. Oferta de no cobrar ó espera;
+
+IX. Novación de contrato.
+
+Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
+
+Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
+
+Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
+
+Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
+
+Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
+
+Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
+
+Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
+
+Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
+
+Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
+
+Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
+
+Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -6280,37 +6496,11 @@ Art. 1,436. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TITULO SEGUNDO.
+## TÍTULO CUARTO.
 
-DE LOS JUICIOS ORDINARIOS.
+DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
 
-Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
-
-Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
-
-Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
-
-Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
-
-Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
-
-Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
-
-Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el término que crea suficiente para la rendición de las pruebas, no pudiendo exceder de cuarenta días.
-
-Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
-
-Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
-
-Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
-
-Art. 1,387. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio antes de sentenciarse, protestando la parte que antes no supo de ellas ó no las pudo haber, y dándose conocimiento de las mismas á la contraria, en los términos del art. 1,319 para que pueda alegar lo que le convenga.
-
-Art. 1,388. Mandada hacer la publicación de pruebas se entregarán los autos originales primero al actor y después al reo, por diez días á cada uno, para que aleguen de buena prueba.
-
-Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
-
-Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -6610,26 +6800,6 @@ Libertad y Constitución. México, Septiembre 15 de 1889.- J. Baranda.
 
 D.O.F. 27 DE AGOSTO DE 1932.
 
-###### Artículo 1°.
-
-Las disposiciones de este Código son aplicables sólo á los actos comerciales.
-
-###### Artículo 2°.
-
-A falta de disposiciones de este Código, serán aplicables á los actos de comercio las del derecho común.
-
-###### ARTICULO 3°.
-
-Quedan abrogados los artículos 337, 339, 340 al 357, 365 al 370, 449 al 575, 605 al 634, y 1044, fracción I, del Código de Comercio de 15 de septiembre de 1889, y las Leyes de 29 de noviembre de 1897 y de 4 de junio de 1902.
-
-Se derogan todas las demás leyes y disposiciones que se opongan a la presente.
-
-D.O.F. 30 DE MAYO DE 1933.
-
-UNICO.- Esta Ley entrará en vigor el día primero de junio del presente año.
-
-D.O.F. 4 DE AGOSTO DE 1934.
-
 ###### ARTICULO 1°.
 
 Esta ley entrará en vigor el 15 de septiembre de 1932.
@@ -6651,6 +6821,26 @@ IV.- La responsabilidad civil en que puedan incurrir las personas que intervenga
 V.- Las acciones que se deriven de los títulos, actos o contratos mencionados prescribirán y caducarán en los términos de la presente ley. El plazo en que debe practicarse el acto o diligencia o llenarse el requisito o formalidad de cuya omisión resulta la caducidad de la acción, se contará a partir de la fecha en que esta ley entre en vigor, cuando dicho plazo haya comenzado a correr y no haya concluído aún esa fecha. Debe computarse como parte del término de la prescripción, el tiempo útilmente transcurrido bajo la vigencia de las leyes que ésta abroga o deroga; pero en ningún caso la acción quedará extinguida por prescripción antes del 15 de marzo de 1933;
 
 VI.- Las acciones, las excepciones procesales y los actos procesales referentes a los títulos, actos y contratos de que hablan las fracciones anteriores, se regirán por las leyes vigentes al tiempo en que se ejerciten las primeras, se propongan las segundas y se practiquen los últimos, no siendo por tanto necesario que el demandado reconozca su firma, para que se despache ejecución en su contra, en el caso de los documentos para los que esta ley no exige ese requisito, siempre que el auto de exequendo se dicte después de que la misma entre en vigor.
+
+###### ARTICULO 3°.
+
+Quedan abrogados los artículos 337, 339, 340 al 357, 365 al 370, 449 al 575, 605 al 634, y 1044, fracción I, del Código de Comercio de 15 de septiembre de 1889, y las Leyes de 29 de noviembre de 1897 y de 4 de junio de 1902.
+
+Se derogan todas las demás leyes y disposiciones que se opongan a la presente.
+
+D.O.F. 30 DE MAYO DE 1933.
+
+UNICO.- Esta Ley entrará en vigor el día primero de junio del presente año.
+
+D.O.F. 4 DE AGOSTO DE 1934.
+
+###### ARTICULO 1°.
+
+Esta Ley entrará en vigor en la fecha de su publicación.
+
+###### ARTICULO 2°.
+
+Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva.
 
 ###### ARTICULO 3°.
 
@@ -6684,11 +6874,13 @@ DISPOSICIONES GENERALES
 
 ###### ARTICULO 1°.
 
-Esta Ley entrará en vigor en la fecha de su publicación.
+El Ministerio Público será oído en todos los actos previos a la formulación de resoluciones judiciales, tanto en el procedimiento de quiebras como en el de suspensión de pagos.
+
+Los jueces notificarán oportunamente al Ministerio Público, y le darán traslado de aquellos documentos que sean necesarios para dicho objeto.
 
 ###### ARTICULO 2°.
 
-Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva.
+Serán inaplicables a los comerciantes quebrados o declarados en suspensión de pagos, los artículos 391 a 394 del Código Penal para el Distrito y Territorios Federales.
 
 ###### ARTICULO 3°.
 
@@ -6709,16 +6901,6 @@ La presente ley entrará en vigor a los tres meses de su publicación en el "Dia
 ###### ARTICULO 2°.
 
 Los procedimientos de quiebras, de liquidación judicial y de suspensión de pagos que estén en tramitación en la fecha de la publicación de la presente ley, si no quedasen concluidos en los dos meses siguientes a dicha fecha, suspenderán su tramitación y los jueces competentes tomarán las medidas necesarias en el transcurso del mes siguiente para que a la entrada en vigor de esta ley, continúen su tramitación con arreglo a la misma.
-
-###### ARTICULO 1°.
-
-El Ministerio Público será oído en todos los actos previos a la formulación de resoluciones judiciales, tanto en el procedimiento de quiebras como en el de suspensión de pagos.
-
-Los jueces notificarán oportunamente al Ministerio Público, y le darán traslado de aquellos documentos que sean necesarios para dicho objeto.
-
-###### ARTICULO 2°.
-
-Serán inaplicables a los comerciantes quebrados o declarados en suspensión de pagos, los artículos 391 a 394 del Código Penal para el Distrito y Territorios Federales.
 
 ###### ARTICULO 3°.
 
@@ -6760,6 +6942,10 @@ D.O.F. 21 DE NOVIEMBRE DE 1963.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
+###### Art. 1.
+
+Esta ley entrará en vigor treinta días después de su publicación.
+
 ###### Art. 2o.
 
 Se derogan los artículos del Libro Tercero del Código de Comercio y las demás disposiciones legales en lo que (sic) opongan a este ordenamiento.
@@ -6767,3 +6953,23 @@ Se derogan los artículos del Libro Tercero del Código de Comercio y las demás
 ###### Art. 3o.
 
 En tanto se reglamenta y organiza el Resguardo Marítimo, conforme a esta ley, la Secretaría de Marina ejercerá las funciones que a dicho cuerpo se atribuyen, por medio de la policía marítima o de las autoridades que determine el Ejecutivo Federal.
+
+D.O.F. 27 DE ENERO DE 1970.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS DEL 51 AL 74 DEL CODIGO DE COMERCIO.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Las disposiciones contenidas en el presente Decreto relativas a los requisitos para ser habilitado como corredor, no son aplicables a los Corredores que hubieren sido habilitados con anterioridad a su publicación, ni a las personas que hubieren terminado los estudios de aspirantes a Corredor, las que deberán cumplir con los requisitos establecidos en el título que se deroga.
+
+TERCERO.- Los corredores habilitados con anterioridad a la vigencia del presente Decreto que deseen ejercer en otra plaza, serán considerados como aspirantes y deberán cumplir con los requisitos establecidos en las fracciones I, II, IV, segunda parte de la VI y la VII del artículo 54.
+
+CUARTO.- En las plazas donde no existan corredores, las habilitaciones las otorgará la autoridad habilitante, cuando se satisfagan los requisitos de las fracciones I, II, IV y V del artículo 54 y se apruebe un examen práctico jurídico mercantil ante el jurado que designe la autoridad habilitante.
+
+QUINTO.- El Reglamento de Corredores para la plaza de México que norma las funciones de los Corredores de dicha plaza, seguirá vigente en toda la República, en cuanto no se oponga a lo dispuesto por el presente Decreto, hasta en tanto se promulgue el Reglamento a que se refiere el artículo 74.
+
+D.O.F. 27 DE ENERO DE 1970.
+
+DECRETO POR EL QUE SE DEROGAN LOS ARTICULOS 6o., 7o. Y FRACCION VIII DEL ARTICULO 21 DEL CODIGO DE COMERCIO.
+
+Artículo Unico.- El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
