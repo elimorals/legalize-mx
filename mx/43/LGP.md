@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1974-01-07"
+last_updated: "1974-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -60,23 +60,45 @@ III.- Disminuir la mortalidad;
 
 IV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan;
 
-V.- Promover la plena integración de los grupos marginados al desarrollo nacional;
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-VI.- Sujetar la inmigración de extranjeros a las modalidades que juzgue pertinentes, y procurar la mejor asimilación de éstos al medio nacional y su adecuada distribución en el territorio;
+V.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural;
 
-VII.- Restringir la emigración de nacionales cuando el interés nacional así lo exija;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-VIII.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran;
+VI.- Promover la plena integración de los grupos marginados al desarrollo nacional;
 
-IX.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-X.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población;
+VII.- Sujetar la inmigración de extranjeros a las modalidades que juzgue pertinentes, y procurar la mejor asimilación de éstos al medio nacional y su adecuada distribución en el territorio;
 
-XI.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-XII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y
+VIII.- Restringir la emigración de nacionales cuando el interés nacional así lo exija;
 
-XIII.- Las demás finalidades que esta Ley u otras disposiciones legales determinen.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+IX.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+X.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XI.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XII.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XIII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal, así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XIV.- Las demás finalidades que esta Ley u otras disposiciones legales determinen.
 
 ###### ARTICULO 4o.
 
@@ -731,3 +753,9 @@ La Secretaría de Gobernación señalará la fecha en que habrá de iniciarse el
 México, D. F., a 11 de diciembre de 1973.- Rafael Hernández Ochoa, D.P.- Vicente Juárez Carro, S.P.- José Luis Escobar Herrera, D.S.- Félix Vallejo Martínez, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los once días del mes de diciembre de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Julio Hirschfeld Almada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
