@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "1999-11-30"
+last_updated: "2004-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -175,6 +175,18 @@ LXIV.- Zona de paso o cruce de peatones.- Área de la superficie de rodamiento m
 
 LXV.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones.
 
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+LXVI.- Vías primarias.- Son aquellas de mayor longitud, las cuales tienen mayor afluencias (sic) vehicular, pueden ser carreteras, calles de primer cuadro de la ciudad, avenidas, bulevares, ejes viales y otras en las que no se permitirá el estacionamiento ni el tránsito de vehículos muy lentos o muy pesados.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+LXVII.- Vías secundarias.- Son las que distribuyen el tránsito de las vías locales o domiciliarias a las vías primarias o viceverza (sic) y pueden ser entre otras avenidas las calles de apoyo de tipo residencial o industrial.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+LXVIII.- Vías terciarias.- Son aquellas calles locales que permiten el acceso directo a las áreas habitacionales, entre otras pueden ser calles rinconadas, cerradas y privadas.
+
 ###### Artículo 3.
 
 Son autoridades de Tránsito:
@@ -301,9 +313,45 @@ XI.- La aplicación de las sanciones que correspondan por infracciones de tráns
 
 XII.- Las demás que regulen el presente ordenamiento, así como otras disposiciones aplicables en materia de tránsito y vialidad.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Para los efectos del presente Reglamento se deberá considerar como el primer cuadro de la ciudad de Playa del Carmen, desde la zona federal marítima hasta el tramo municipalizado de la carretera federal número 307; y de la Av. Constituyentes hasta la calle diagonal aeropuerto.
+
 ###### Artículo 11.
 
 Todo usuario de las vías públicas está obligado a obedecer las reglas contenidas en el presente Reglamento, así como las indicaciones de los dispositivos para el control del tránsito y las de los policías de tránsito. Las indicaciones de los dispositivos para el control del tránsito, prevalecen sobre las reglas de circulación, excepto cuando éstas indiquen claramente que prevalecen sobre las indicaciones de tales dispositivos. Las indicaciones de los policías de tránsito prevalecen sobre las de los dispositivos para el control del tránsito y sobre las demás reglas de circulación.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Para cuando la vialidad sea dirigida por agentes de tránsito, lo realizará en base de ademanes combinados con toques de silbato y lo harán de la siguiente forma:
+
+I.- Los costados del policía indican siga por lo que los conductores deben de seguir de frente o cambiar de dirección si no existe señal que lo prohíba hacerlo, así como indica (sic) los peatones que pueden cruzar la vi (sic)
+
+II.- Cuando el policía de tránsito se encuentre en la posición anterior de siga y levante un brazo horizontalmente con la mano extendida hacia arriba del lado donde procede la circulación, o de ambos lados si esta se verifica en dos sentidos, indica prevención (preventiva), por lo que indica o advierte a los conductores que está a punto de hacerse el cambio de siga a alto, y deben de tomar sus precauciones y a los peatones que deben de abstenerse de iniciar el cruze (sic) de la vía de circulación.
+
+III.- Frente o espalda del policía, indica alto, por lo que los conductores deben detenerse, así mismo para los peatones, los cuales deben abstenerse de cruzar la vía de circulación.
+
+IV.- Cuando el policía de tránsito haga el ademan de preventiva con un brazo y de siga con el otro brazo le advierte al conductor que deben detener su marcha y a otros que deben continuar en el sentido que indica el ademan.
+
+V.- Cuando el agente de tránsito levante el brazo derecho o ambos brazos en posición vertical indica alto general.
+
+VI.- Para hacer las señales anteriores los agentes de tránsito, emplearán toques de silvato (sic) de la siguiente forma:
+
+Alto: Un toque largo.
+
+Adelante o siga: Dos toques cortos.
+
+Preventiva: Un toque corto.
+
+Alto general o total: Tres toques largos. Esto se refiere a detener la circulación en todo el crucero no permitiendo el paso por ningún lado.
+
+En los casos de congestionamiento vehicular, los agentes de tránsito, darán una serie de toques cortos, a fin de activar el tránsito de vehículos.
+
+VII.- Cuando los agentes de tránsito, no sean claramente visibles a distancia o de noche, harán los ademanes auxiliados por una linterna que emita luz roja.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Las posiciones serán las mismas indicadas en la (sic) fracciones anteriores.
 
 ###### Artículo 12.
 
@@ -395,9 +443,11 @@ En consecuencia, la sola revisión de documentos no será motivo para detener el
 
 Los peatones deberán cumplir las disposiciones de este Reglamento, las indicaciones de los policías de tránsito y las de los dispositivos para el control de tránsito. Asimismo gozarán de derecho de paso en todas las intersecciones y en las zonas con señalamiento.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
 ###### Artículo 32.
 
-Queda prohibido practicar cualquier clase de juegos en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, así como transitar por ésta en patines triciclos u otros vehículos similares.
+Queda prohibido practicar cualquier clase de juegos en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, así como transitar por esta en patines, triciclos infantiles u otros vehículos similares.
 
 ###### Artículo 33.
 
@@ -418,6 +468,26 @@ VI.- En cruceros no controlados por semáforos o policías de tránsito, no debe
 VII.- Ningún peatón circulará diagonalmente por los cruceros, y
 
 VIII.- Deberán abordar los camiones solamente en los paraderos.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+IX.- Los peatones están obligados a obedecer las indicaciones de los agentes de tránsito, así como las del presente Reglamento y de los dispositivos para el control de tránsito, igualmente gozaran de las preferencias que les concede el presente Reglamento.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+X.- Los peatones deberán transitar sobre las aceras o dentro de las zonas de seguridad marcadas sobre la superficie de rodamiento para este objeto.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XI.- Los peatones que se encuentren disminuidos de sus facultades y los menores de seis años, deberán ser guiados o conducidos por personas aptas y mayores de edad al cruzar la vía pública.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XII.- Por precaución cuando no haya aceras los peatones deberán circular por la orilla de la vía, pero lo harán dando el frente al tránsito.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XIII.- Los pasajeros de un vehículo del servicio público no deberán obstruir la visibilidad del conductor, cuando se encuentren a bordo del vehículo.
 
 ###### Artículo 34.
 
@@ -453,9 +523,15 @@ Para efectos del presente Capítulo se considerarán los triciclos como biciclet
 
 El conductor de una bicicleta o motocicleta deberá ir debidamente colocado en el asiento fijo a la estructura diseñada para tal fin, con una pierna a cada lado del vehículo y mantener sujeto el manubrio con ambas manos.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
 ###### Artículo 40.
 
-En las vías públicas de alta velocidad e intenso tránsito, las bicicletas sólo podrán ser ocupadas y conducidas por una sola persona y no deberán llevar pasajeros. Las motocicletas serán tripuladas por una persona y podrán llevar un pasajero.
+En las vías públicas, las bicicletas solo podrán ser ocupadas y conducidas por una sola persona y no deberán llevar pasajeros. Las motocicletas serán tripuladas por una persona y podrán llevar un pasajero en la parte posterior.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Los triciclos de uso particular solamente podrán circular en vías terciarias y de día, pudiendo llevar un máximo de dos personas como pasajeros.
 
 ###### Artículo 41.
 
@@ -676,6 +752,14 @@ Para el caso de que el conductor reincida en cualquiera de los casos señalados 
 ###### Artículo 66.
 
 En los casos de suspensión de la licencia, el interesado podrá solicitar la devolución o renovación de la licencia, cuando hayan desaparecido las causas que motivaron dicha suspensión o cancelación, previo pago de las multas y derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Procede la revocación de la licencia:
+
+I.- Por conducir vehículos de servicio público bajo la influencia del alcohol o de drogas o enervantes.
+
+II.- Por abandono de vehículo o de personas en caso de accidente, en el que haya intervenido el vehículo que se conduce.
 
 ###### Artículo 67.
 
@@ -1259,7 +1343,9 @@ VIII.- A menos de 50 metros de un vehículo estacionado en el lado opuesto en un
 
 IX.- A menos de 100 metros de una curva o cima sin visibilidad;
 
-X.- En las áreas de cruce de peatones, marcadas o no en el pavimento;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+X.- En los pasos peatonales, áreas de cruce de peatones, franjas peatonales, marcadas o no en el pavimento.
 
 XI.- En las zonas autorizadas de carga y descarga sin realizar esta actividad;
 
@@ -1273,9 +1359,37 @@ XV.- Frente a rampas especiales de acceso a la banqueta para discapacitados; y
 
 XVI.- En zonas o vías públicas en donde exista un señalamiento para este efecto.
 
-La Dirección de tránsito podrá mediante el señalamiento respectivo, sujetar a determinados horarios y días de la semana, la prohibición de estacionarse en la vía pública, en las vialidades cuya afluencia vehicular lo permita.
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
 
-Está permitido el estacionamiento de vehículos en zonas restringidas de estacionamiento, exclusivamente en los días domingo y festivos, a excepción de que la autoridad de tránsito establezca medidas contrarias en los días mencionados, lo cual lo dará a conocer con anticipación.
+XVII.- Junto a una excavación u obstáculo de tal manera que al hacerlo dificulte el tránsito de los vehículos.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XVIII.- A menos de 50 mts. de un vehículo estacionado en el lado opuesto de la carretera de dos carriles con doble sentido.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XIX.- Se prohíbe estacionar vehículos en las glorietas.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XX.- Se prohíbe el estacionamiento simultáneo en ambos lados de las calles, de un solo sentido o de doble sentido de la circulación.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XXI.- Se prohíbe estacionar un vehículo en una intersección o a menos de 15 mts. de la misma.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+XXII.- Se prohibe estacionar un vehículo en lugares marcados con franja amarilla, roja, conos u otro dispositivo de tránsito.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+La Dirección de Tránsito podrá mediante el señalamiento respectivo sujetar a determinados horarios y días de la semana la prohibición de estacionarse en la vía pública en las vialidades cuya afluencia vehicular lo permita.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Los señalamientos de tránsito ya sea restrictivos o de cualquier índole serán validos y aplicables los días domingos y festivos.
 
 ###### Artículo 127.
 
@@ -1360,6 +1474,10 @@ Todo el personal que intervenga directamente en la conducción y operación de m
 ###### Artículo 140.
 
 Los vehículos concesionados para prestar el servicio público de carga regular, especial, transporte express o para la construcción a que se refiere el Reglamento Estatal de Tránsito, deberán cumplir con las disposiciones del presente Reglamento y con el Reglamento para el Transporte de Carga del Municipio.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Se prohíbe la circulación de vehículos de carga de más de 3 toneladas en el primer cuadro de la ciudad en las horas del día, pudiendo circular en horario nocturno vehículos de hasta 8 toneladas previo permiso que se solicite en la Dirección de Tránsito Municipal.
 
 ###### Artículo 141.
 
@@ -1475,7 +1593,9 @@ VI.- Conservar su distancia, respecto al que va adelante de ellos, de tal manera
 
 VII.- En vías de dos o más carriles en el mismo sentido, conducir, hasta donde las circunstancias lo permitan, en el mismo carril, y sólo se desviará a otro cuando el conductor se cerciore de llevar a cabo la maniobra con seguridad;
 
-VIII.- Ceder el paso, cuando vaya a entrar en una vía principal, a los vehículos que ya circulen por dicha vía;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+VIII.- Los conductores de vehículos, para atravesar o entrar en las vías consideradas como de preferencia de paso, ya sea calles, avenidas, carreteras o vías férreas, están obligados a detener su marcha efectuando alto total sin rebasar el límite de las aceras, iniciando de nuevo su marcha lentamente, cuando se haya asegurado que no se aproxima ningún vehículo que circule sobre las citadas vías.
 
 IX.- Al salir de una vía principal, pasar con suficiente anticipación al carril de su extrema derecha, para tomar desde su inicio, el carril de desaceleración;
 
@@ -1484,6 +1604,14 @@ X.- Ceder el paso a peatones y vehículos, cuando deba cruzar la acera para entr
 XI.- Usar el cinturón de seguridad y verificar que todos las personas que se encuentren en el vehículo, porten dicho cinturón.
 
 XII.- Respetar las señales restrictivas de tránsito.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Al acercarse un vehículo de emergencia que lleve señales luminosas y audibles especiales o un vehículo de la policía los conductores de otros vehículos cederán el paso al de emergencia, pasando a ocupar una posición paralela y lo más cercana posible al extremo del carril derecho o a la acera, fuera de la intersección y si fuere necesario se detendrán manteniéndose inmóviles hasta que haya pasado el vehículo de emergencia. Tienen preferencia de paso por el orden en que se mencionan los vehículos destinados a los siguientes servicios: bomberos, policías y ambulancias.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Las disposiciones anteriores no relevan a los conductores de vehículos de emergencia de la obligación que tienen de conducir con la debida precaución tendiente a proteger a las personas y a los bienes.
 
 ###### Artículo 151.
 
@@ -1499,6 +1627,14 @@ IV.- Cuando la vía esté dividida en tres carriles para el tránsito en ambos s
 
 V.- Cuando la vía sea para el tránsito en un sólo sentido.
 
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+VI.- Cuando dos vehículos efectúen simultáneamente su alto en la misma vía, pero en sentido opuesto, tienen preferencia de paso:
+
+a).- Los que continúan su tránsito de frente sobre los que cambian de dirección.
+
+b).- Los que cambian de dirección a su derecha sobre los que lo hacen a su izquierda.
+
 ###### Artículo 152.
 
 Cuando el conductor de un vehículo circule en una vía de dos carriles en circulación en ambos sentidos, deberá tomar su extrema derecha al encontrar un vehículo que transite en sentido opuesto.
@@ -1511,7 +1647,19 @@ En intersecciones o zonas marcadas de paso de peatones, donde no haya semáforos
 
 El conductor de un vehículo que se acerque a una intersección y no haya señalamiento, cederá el paso a todo vehículo que ya se encuentre ostensiblemente dentro de dicha intersección.
 
-Cuando dos vehículos se acerquen simultáneamente a una intersección, procedentes de vías diferentes y no exista señalamiento, el conductor que observe al otro aproximarse por su lado derecho, cederá el paso.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+En las intersecciones de vías públicas que no estén controladas por policías de tránsito, señales o semáforos, se consideran preferentes las indicadas seguidamente:
+
+I.- La circulación de los vehículos que transiten por avenidas o calles en que se permita velocidad mayor, sobre los que transiten en vías públicas en que la velocidad permitida sea menor.
+
+II.- La de los que circulen en calles más anchas respecto a los que lo hagan por otras angostas.
+
+III.- La de los que transiten por vías asfaltadas o petrolizadas sobre los que circulen por las que no lo están.
+
+IV.- Los conductores que transiten sobre las calles que rematan en intersecciones "T" (ciegas), están obligados a cederles el paso a los que transiten en las vías transversal.
+
+V.- En caso de un hecho de tránsito, la preferencia, dejará de existir cuando el vehículo que transita sobre la vía preferente no observe alguna de las disposiciones contenidas en el presente Reglamento que le infiera responsabilidad en el hecho.
 
 ###### Artículo 155.
 
@@ -1703,9 +1851,11 @@ El conductor de cualquier vehículo implicado en un hecho de tránsito con saldo
 
 Los conductores de vehículos y los peatones que pasen por el lugar de un hecho de tránsito, estarán obligados a detenerse a la indicación que se les haga y a colaborar en el auxilio o traslado de los lesionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2004)</small>
+
 ###### Artículo 180.
 
-Si a consecuencia de un hecho de tránsito no resultaran muertos ni lesionados y solamente se causaran daños materiales, las partes pueden llegar a un entendimiento sobre la reparación de los daños, mediante los datos e informes que recíprocamente se intercambien los involucrados respecto a sus nombres y domicilios, placas de sus vehículos, fecha y lugar del hecho. Para el caso de que intervenga la Dirección de Tránsito, el policía de tránsito deberá levantar el parte informativo y peritaje correspondiente, a petición de los involucrados proporcionará un formato en el cual las partes involucradas fijarán los términos y condiciones de sus acuerdos.
+Si a consecuencia de un hecho de tránsito no resultaran muertos ni lesionados y solamente se causarán daños materiales, las partes pueden llegar a un entendimiento sobre la reparación de los daños mediante los datos e informes que recíprocamente se intercambien los involucrados respecto a sus nombres, domicilios, placas de sus vehículos, fecha y lugar del hecho, desligándose por tal motivo la Dirección de Tránsito Municipal de cualquier incumplimiento al convenio acordado entre los involucrados. En caso de que las partes no lleguen a un acuerdo satisfactorio se levantará el parte informativo y peritaje correspondiente y se procederá a su consignación a la autoridad competente.
 
 Una vez que los involucrados completen y firmen el formato del acuerdo proporcionado, el policía de tránsito lo anexará a su parte informativo a fin de que obre en los archivos de la Dirección de Tránsito Municipal.
 
@@ -1745,21 +1895,37 @@ De la boleta de infracción que se levante se entregará el original al conducto
 
 Las infracciones contenidas en este Reglamento serán sancionadas sin perjuicio de las que correspondan por la comisión de delitos u otras responsabilidades en que incurran los infractores, de conformidad con lo siguiente:
 
-I.- Causarán multa por la cantidad de dos a cuatro días de salario mínimo general vigente en la zona, las infracciones a los artículos: 19, 20, 34 fracción I, 36, 37,48, 49, 50, 74, 75 fracción VII, 83, 85, 94, 95, 96, 97, 100, 123 y 150 fracción V;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
 
-II.- Causarán multa por la cantidad de tres a cinco días de salario mínimo general vigente en la zona, las infracciones a los artículos 35, 38, 40, 41, 42, 43, 44, 45, 52, 81, 106, 108, 109, 110, 111, 113, 114, 122, 150 fracciones I y II, 157, 158 fracciones I y II, 161 y 162;
+I.- Causarán multa por la cantidad de cuatro días de salario mínimo general vigente en la zona, las infracciones a los artículos: 11, 19, 20, 34 fracción I, 36, 37,48, 49, 50, 74, 75 fracción VII, 83, 85, 94, 95, 96, 97, 100, 123 y 150 fracción V;
 
-III.- Causarán multa por la cantidad de cuatro a ocho días de salario mínimo general vigente en la zona, las infracciones a los artículos 14, 15, 18, 34 fracción I, 75 fracciones I a VI, 84, 86, 90, 92, 99, 101, 102, 103, 107, 112, 115, 118, 121, 124, 126 fracciones II, III, V, VI, X, XI, XII, XIII y XVI, 127, 141, 143, 150 fracciones III, VI, VII, VIII, X, XI y XII, 152, 154, 155, 156, 160, 163, 164, 165, 166, 170, 171 fracciones III, V y XV, 173, 175 y 177;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
 
-IV.- Causarán multa por la cantidad de ocho a doce días de salario mínimo general vigente en la zona, las infracciones a los artículos 34 fracción II, 46, 47, 48, 51, 58, 126 fracción VII, 130, 131, 171 fracciones VIII, XIII y XIV y 179,
+II.- Causarán multa por la cantidad de cinco días de salario mínimo general vigente en la zona, las infracciones a los artículos: 35, 38, 40, 41, 42, 43, 44, 45, 52, 81, 106, 108, 109, 110, 111, 113, 114, 122, 150 fracciones I y II, 157, 158 fracciones I y II, 161 y 162;
 
-V.- Causarán multa por la cantidad de doce a dieciséis días de salario mínimo general vigente en la zona, las infracciones a los artículos 13, 21, 22, 23, 98, 126 fracciones I, IV, VIII, IX, XIV y XV, 159, 172, 174 y 192;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
 
-VI.- Causarán multa por la cantidad de dieciséis a veinte días de salario mínimo general vigente en la zona, las infracciones a los artículos 14, 24, 89, 93, 129, 135, 168, 169, 171 fracciones II, IV, VI, IX y X;
+III.- Causarán multa por la cantidad de ocho días de salario mínimo general vigente en la zona, las infracciones a los artículos: 12, 14, 15, 18, 34 fracción I, 75 fracciones I a VI, 84, 86, 90, 92, 99, 101, 102, 103, 107, 112, 115, 118, 121, 124, 126 fracciones II, III, V, VI, X, XI, XII, XIII, XVI, XVII, XVIII, XIX, XX, XXI, XXII, 127, 141, 143, 150 fracciones III, VI, VII, VIII, X, XI y XII, 152, 154, 155, 156, 160, 163, 164, 165, 166, 170, 171 fracciones III, V y XV, 173, 175 y 177;
 
-VII.- Causarán multa por la cantidad de veinte a veinticinco días de salario mínimo general vigente en la zona, las infracciones a los artículos 65 fracciones I a VIII, 104, 125, 136, 139, 167 y 176, y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
 
-VIII.- Causarán multa por la cantidad de veinticinco a treinta días de salario mínimo general vigente en la zona, las infracciones a los artículos 26 fracción I, 61 segundo párrafo, 137, 171 fracciones I, VII, XI y XII, 178 y 196.
+IV.- Causarán multa por la cantidad de doce días de salario mínimo general vigente en la zona, las infracciones a los artículos: 34 fracción II, 46, 47, 48, 51, 58, 126 fracción VII, 130, 131, 171 fracciones VIII, XIII y XIV y 179;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+V.- Causarán multa por la cantidad de dieciséis días de salario mínimo general vigente en la zona, las infracciones a los artículos: 13, 21, 22, 23, 98, 126 fracciones I, IV, VIII, X, IX, XIV y XV, 140, 159, 172, 174 y 192;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+VI.- Causarán multa por la cantidad de veinte días de salario mínimo general vigente en la zona, las infracciones a los artículos: 14, 24, 89, 93, 129, 135, 168, 169, 171 fracciones II, IV, VI, IX y X;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+VII.- Causarán multa por la cantidad de veinticinco días de salario mínimo general vigente en la zona las infracciones a los artículos: 65 fracciones I a VIII, 104, 125, 136, 139, 167 y 176, y
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+
+VIII.- Causarán multa por la cantidad de treinta días de salario mínimo general vigente en la zona, las infracciones a los artículos: 26 fracción I, 61 segundo párrafo, 137, 171 fracciones I, VII, XI y XII, 178 y 196.
 
 ###### Artículo 186.
 
@@ -1777,11 +1943,15 @@ III.- Las placas de circulación, cuando el vehículo se encuentre estacionado e
 
 Para la imposición de multas la Dirección de Tránsito se ajustará a las tarifas establecidas, que serán calificadas análogamente y de acuerdo a la tabla de valoración establecida en el artículo 185.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
 ###### Artículo 188.
 
-Se reducirá la multa hasta en un 50% de la sanción mínima que corresponda a una infracción en caso de que se efectuara el pago correspondiente, dentro del término de cinco días hábiles a partir de la fecha de la infracción y una reducción del 50% de la sanción máxima que corresponda a una infracción en caso de que efectuara el pago correspondiente dentro del término de 10 días hábiles a partir de la fecha de la infracción, en ambos casos solamente procederá este beneficio cuando el infractor no se hubiere inconformado con la infracción. Para efectuar los pagos a que se refiere el presente Artículo, el infractor podrá realizarlos tanto en las oficinas de la Tesorería Municipal como en las Instituciones de Crédito que señale la Dirección de Tránsito Municipal.
+Se reducirá la multa hasta en un 50 % de la sanción establecida para la infracción en caso de que se efectuare el pago de la misma destro (sic) del término de 5 días hábiles a partir de la fecha de la imposición de la infracción. Esta reducción solamente será procedente cuando el infractor no se hubiere inconformado con la sanción. Para efectuar los pagos al que se refiere el presente artículo, el infractor podrá realizarlos tanto en las oficinas de la Tesorería Municipal como en las instituciones de crédito que en su caso señale la Dirección de Tránsito Municipal.
 
-Se exceptúa lo anterior en los casos de violaciones graves, conforme a lo establecido en el presente Reglamento.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Se exceptúan de lo anterior los casos de violaciones graves al presente Reglamento y las cuales son la falta a los artículos 65, 167, 171, frac. VI y VII, 178, 192, así como cuando se produzca una violación al Reglamento de Tránsito con motivo de un accidente.
 
 ###### Artículo 189.
 
@@ -1806,6 +1976,14 @@ Los infractores que insulten de palabra o con ademanes o agredan físicamente a 
 ###### Artículo 193.
 
 En el caso de la detención de conductores visiblemente alcoholizados, para recabar el examen médico correspondiente, el personal de la Dirección de Tránsito, recurrirá al médico de la propia corporación, puesto de socorro o cualquier médico legalmente autorizado para ejercer la profesión.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Los conductores que sean detenidos y una vez realizado el examen médico correspondientes (sic), si este resultare estar bajo la influencia de bebidas alcohólicas o enervantes, se procederá a su arresto administrativo hasta por un periodo de 36 horas en la guardia preventiva de la corporación o su consignación a la autoridad competente, sin perjuicio de lo establecido en el artículo 26 párrafo primero del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
+
+Todo infractor en calidad de arrestado tendrá el derecho a realizar una llamada telefónica local.
 
 ###### Artículo 194.
 
@@ -1839,9 +2017,11 @@ El Presidente Municipal, a través de la Dirección de Tránsito Municipal, reso
 
 Cuando las infracciones que se cometan con motivo del tránsito constituyan hechos delictuosos, el policía que intervenga en los mismos, procederá a asegurar a los responsables y ponerlos de inmediato a disposición de las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+
 ###### Artículo 200.
 
-La persona que se le detenga por conducir un vehículo bajo la influencia de enervantes o estupefacientes, será puesto a disposición de la autoridad competente, sin perjuicio de lo establecido en el Artículo 26 fracción I del presente Reglamento.
+A los particulares o instituciones civiles o privadas de beneficencia pública, que sean sorprendidos utilizando los dispositivos de emergencia existentes, llámese torretas, sirenas o cualquier otro de manera innecesaria o de falsa alarma, será sancionado con una multa de 25 salarios mínimos generales vigentes para esta zona.
 
 ### CAPÍTULO XVIII. DEL ARRASTRE Y DEPÓSITO DE VEHÍCULOS INFRACCIONADOS
 
@@ -1916,3 +2096,9 @@ SEGUNDO.- Se derogan todas las disposiciones Municipales que se opongan al prese
 TERCERO.- En tanto se expiden los Reglamentos de Transporte de Pasajeros en Ruta Fija y de Carga del Municipio, El Presidente Municipal, a través de la Dirección de Tránsito Municipal, resolverá cualquier otra situación que en esta materia se presente.
 
 Así lo mandan dictan y firman los Ciudadanos PRESIDENTE MUNICIPAL, LICENCIADO MIGUEL RAMÓN MARTÍN AZUETA; Sindico Municipal Jesús Martín Escalante; Primer Regidor Martín de la Cruz Gómez; Segundo Regidor Josefina Muza Simón; Tercer Regidor Alejandro González Colín; Cuarto Regidor Paulino Pat Tuyub; Quinto Regidor Marciano Dzul Caamal; Sexto Regidor Miguel Solís Espinoza; Séptimo Regidor José Carlos González Anguiano; Octavo Regidor Tomás Alberto Burgos; Noveno Regidor Hermelindo Bé Cituk, Cúmplase.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ABRIL DE 2004.
+
+UNICO.- ESTAS ADICIONES Y MODIFICACIONES AL REGLAMENTO ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
