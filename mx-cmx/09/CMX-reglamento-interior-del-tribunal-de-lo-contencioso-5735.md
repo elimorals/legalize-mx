@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-lo-contencioso-5735"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-17"
-last_updated: "1999-08-19"
+last_updated: "2000-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5735&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1996-04-19"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ABRIL DE 2000.
 
-Reglamento publicado en la Gaceta del Oficial del Distrito Federal el lunes 17 de junio de 1996.
+Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 17 de junio de 1996.
 
 La Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, con fundamento en los artículos 21 fracción XI y 24 de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, en vigor a partir del 1 de enero de 1996, y en cumplimiento a lo dispuesto en el ARTICULO SEXTO TRANSITORIO de dicha Ley, expide el siguiente:
 
@@ -68,15 +68,19 @@ k) Los demás servidores públicos que las necesidades del servicio requieran y 
 
 ART. 4o.- Además de la competencia y atribuciones que le confieren los artículos 20 y 21 y demás relativos de la Ley del Tribunal, así como otras disposiciones legales aplicables, corresponde a la Sala Superior:
 
-> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE ABRIL DE 2000)</small>
 
-a) Designar cada dos años en la primera sesión ordinaria anual, de entre sus miembros, al Presidente del Tribunal quien lo será también de la Sala Superior.
+a) Designar cada cuatro años en la primera sesión ordinaria anual, de entre sus miembros, al Presidente del Tribunal quien lo será también de la Sala Superior.
+
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
 
 La sesión será presidida por el Magistrado de la Sala Superior con mayor antigüedad en el servicio de sus funciones en dicha Sala, el cual será considerado decano de la misma. Propuestos los candidatos se computarán los votos y una vez electo, el Presidente rendirá la protesta de Ley.
 
+> <small>(REFORMADO, G.O. 19 DE AGOSTO DE 1999)</small>
+
 Los Magistrados de la Sala Superior deberán asistir a las sesiones de pleno a que sean convocados; en caso de no hacerlo, deberán justificar la causa de su ausencia, que será calificada por la Propia Sala. Tres o más faltas consecutivas injustificadas, se considerarán como licencia en los términos del inciso d) del presente artículo.
 
-b) Determinar y cambiar la adscripción de los Magistrados de las Salas Ordinarias y de las Salas Auxiliares, para el mejor funcionamiento del Tribunal;
+b) (DEROGADO, G.O. 27 DE ABRIL DE 2000)
 
 c) Conceder licencias a los Magistrados de las diferentes Salas hasta por quince días con goce de sueldo, o hasta por tres meses sin goce de sueldo, cada año, siempre que el solicitante haya cumplido cuando menos un año de servicios, exista causa justificada para ellos, y no se altere o perjudique el buen funcionamiento del Tribunal;
 
@@ -94,11 +98,15 @@ h) Designar de entre sus miembros a los Magistrados Visitadores de las Salas Ord
 
 i) Designar las comisiones de Magistrados que sean necesarias para el buen funcionamiento del Tribunal;
 
-j) Elaborar el Proyecto de Presupuesto del Tribunal, el que una vez aprobado por la Asamblea de Representantes del Distrito Federal, se ejercerá en forma autónoma a través del Presidente; así como vigilar su correcta aplicación;
+> <small>(REFORMADO, G.O. 27 DE ABRIL DE 2000)</small>
+
+j) Elaborar el Proyecto de Presupuesto del Tribunal, el que una vez aprobado por la Asamblea Legislativa del Distrito Federal, se ejercerá en forma autónoma a través del Presidente; así como vigilar su correcta aplicación;
 
 k) Establecer los periodos de vacaciones, y los días inhábiles de labores del Tribunal, comunicándolo oportunamente al personal y al público en general;
 
-l) Designar a los Magistrados de Guardia según el turno que al efecto lleve la Secretaría General de Acuerdos, excepto en el caso de que algún Magistrado solicite oportunamente cubrir la guardia del que se trate. El Magistrado de Guardia tendrá las mismas atribuciones del Presidente de Sala para admitir o desechar las demandas, así como para acordar si proceden las suspensiones que le sean solicitadas;
+> <small>(REFORMADO, G.O. 27 DE ABRIL DE 2000)</small>
+
+l) Designar a los Magistrados de Guardia en períodos vacacionales o días inhábiles, según el turno que al efecto lleve la Secretaría General de Acuerdos, excepto en el caso de que algún Magistrado solicite oportunamente cubrir la guardia del que se trate, también podrán ser designados Magistrados de Guardia, los integrantes de la Sala Auxiliar;
 
 m) Acordar, por conducto del Presidente del Tribunal que se presente la denuncia de hechos que corresponda ante las autoridades competentes, en los casos de la presunta comisión de hechos delictivos por parte de los funcionarios y empleados del Tribunal, en los términos de las disposiciones penales aplicables;
 
@@ -114,7 +122,9 @@ r) Adaptar las determinaciones, medidas o acciones que juzgue necesarias para la
 
 s) Vigilar el debido cumplimiento de la Ley, del presente Reglamento, y de las demás disposiciones legales que regulen las facultades y atribuciones del Tribunal.
 
-ART. 5o.- La Sala Superior estará integrada por cinco Magistrados: El Presidente del Tribunal, que lo será de la Sala Superior y que no presentará proyectos de resoluciones sobre los recursos de apelación y quejas que se interpongan, y cuatro Magistrados que actuarán en ponencias numeradas progresivamente.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE ABRIL DE 2000)</small>
+
+ART. 5o.- La Sala Superior estará integrada por siete Magistrados: El Presidente del Tribunal, que lo será de la Sala Superior y que no presentará proyectos de resoluciones sobre los recursos de apelación, instancias de queja y reclamaciones que se interpongan, y seis Magistrados que actuarán en ponencias numeradas progresivamente.
 
 El Presidente tiene voz y voto en las resoluciones de la Sala.
 
@@ -206,7 +216,9 @@ e) Llevar el Libro de Gobierno en el que registrarán pormenorizadamente el esta
 
 f) Revisar, cuando menos una vez al mes, el archivo de su ponencia, para evitar el rezago de los asuntos a su cargo;
 
-g) Elegir al presidente de entre los Magistrados de su Sala en la primera sesión ordinaria anual del Tribunal. De no llegarse a un acuerdo el Presidente será designado por la Sala Superior;
+> <small>(REFORMADO, G.O. 27 DE ABRIL DE 2000)</small>
+
+g) Elegir al Presidente de entre los Magistrados de su Sala en la primera sesión ordinaria del Tribunal cada dos años. De no llegarse a un acuerdo el Presidente será designado por la Sala Superior;
 
 h) Aplicar, cuando proceda, los medios de apremio y medidas disciplinarias a que se refiere el artículo 30 de la Ley del Tribunal;
 
@@ -599,3 +611,9 @@ Presidente, Magistrado Licenciado Pedro Enrique Velasco Albin.- Rúbrica.- Magis
 G.O. 19 DE AGOSTO DE 1999.
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE ABRIL DE 2000.
+
+PRIMERO.- Las presentes adecuaciones entrarán en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
