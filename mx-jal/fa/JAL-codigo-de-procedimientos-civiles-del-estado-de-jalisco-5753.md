@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1938-12-24"
+last_updated: "1946-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1946.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -3270,17 +3270,19 @@ II.- El secuestro de bienes que hubieren sido objeto de embargo judicial anterio
 
 III.- El secuestro de alhajas y demás muebles preciosos, que se hará depositándolos como se previene en el caso de la fracción I.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 529.
 
 Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyan el patrimonio de la familia, desde su inscripción en el Registro Público de la Propiedad en los términos que establece el Código Civil;
 
-II.- El lecho cuotidiano (sic), los vestidos y los muebles del uso ordinario del deudor, de su mujer y de sus hijos, no siendo de lujo a juicio del juez;
+II.- Los vestidos y los muebles de uso ordinario del deudor cuyo valor no exceda de $ 3,000.00 tres mil pesos;
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
-IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola en cuanto fueren necesarios para el servicio de la finca a que estén destinados;
+IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola en cuento (sic) fueren necesarios para el servicio de la finca a que están destinados;
 
 V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
 
@@ -3290,7 +3292,7 @@ VII.- Los efectos, maquinaria e instrumentos propios para el fomento y giro de l
 
 VIII.- Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras;
 
-IX.- El derecho de usufructo con las limitaciones que la ley establece;
+IX.- El derecho de usufructo con las limitaciones que al (sic) ley establece;
 
 X.- Los derechos de uso y de habitación;
 
@@ -3668,7 +3670,7 @@ Vencido el término de la contestación, dentro de los tres días siguientes pod
 
 ###### ARTICULO 590.
 
-Promovida la prueba o transcurrido el término para ofrecerla, el Juez citará a las partes a un audiencia que se celebrará dentro de cinco días y en ella recibirá las ofrecidas, oirá los alegatos y pronunciará su resolución.
+Promovida la prueba o transcurrido el término para ofrecerla, el Juez citará a las partes a un (sic) audiencia que se celebrará dentro de cinco días y en ella recibirá las ofrecidas, oirá los alegatos y pronunciará su resolución.
 
 ###### ARTICULO 591.
 
@@ -4228,29 +4230,37 @@ IV.- En la infracción de cualquiera otra de las condiciones que con arreglo al 
 
 Cuando la demanda de desocupación se funde en la fracción III del artículo anterior, se observarán además de las reglas de los juicios sumarios, las especiales siguientes:
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 685.
 
-Presentada la demanda con los documentos que justifiquen la celebración del arrendamiento, el Juez dictará auto disponiendo se requiera al demandado para que en el acto de la diligencia compruebe, con el recibo correspondiente, estar al corriente en el pago de las rentas y, si no lo hiciere, que se le emplace para que comparezca a contestar la demanda. En el mismo auto dispondrá que una vez hecho el emplazamiento se prevenga al demandado que debe proceder a desocupar la finca, apercibiéndolo de lanzamiento a su costa, si no lo verifica y al pronunciarse sentencia han transcurrido más de treinta días de tal apercibimiento, cuando la finca sirva para habitación, giro industrial o mercantil, y más de noventa, si se trata de predio rústico.
+Presentada la demanda con los documentos que justifiquen la celebración del arrendamiento, el Juez dictará auto disponiendo se requiera al demandado para que en el acto de la diligencia compruebe, con los documentos respectivos, estar al corriente en el pago de las rentas; y si no lo hiciere que se le emplace para que comparezca a contestar la demanda. En el mismo auto, dispondrá que una vez hecho el emplazamiento se prevenga al demandado que debe proceder a desocupar la finca en un término de sesenta días, si se trata de casa habitación o giro comercial y de noventa días si se trata de un predio rústico o giro industrial, apercibiéndolo de lanzamiento a su costa si no lo verifica.
 
-Cuando no sea necesario conforme al Código Civil que el arrendamiento conste por escrito, o aun siéndolo, se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, una vez justificada la existencia del contrato, por cualquiera de los medios de prueba que autoriza este Código, el Juez procederá como se previene en el párrafo anterior.
+Cuando no sea necesario conforme al Código Civil que el arrendamiento conste por escrito, o aún siéndolo, se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, una vez justificada la existencia del contrato por cualquiera de los medios de prueba que autoriza este Código, el Juez procederá como se previene en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 686.
 
-Si en el acto de la diligencia el arrendatario hace entrega del valor de las pensiones reclamadas o justifica con el recibo correspondiente que las tiene pagadas, se asentará razón del hecho, se agregará el comprobante en su caso y se suspenderá la diligencia para dar cuenta al Juez. En el primer caso, éste mandará entregar al demandante el valor de las pensiones exhibidas y dará por concluído el juicio sin condenación en costas; en el segundo caso o cuando al contestar la demanda se presenten los justificantes del pago, se mandará dar vista de ellos al actor para que, dentro del término de tres días manifieste, bajo protesta de decir verdad, si acepta o no tales justificantes. Si estuviere conforme, también se dará por concluído el negocio sin condenación en costas y, en caso contrario, continuará el procedimiento por sus demás trámites sin perjuicio de las acciones penales que procedan.
+Si en el acto de la diligencia el arrendatario hace entrega del valor de las pensiones reclamadas o justifica con los documentos correspondientes que las tiene pagadas, se asentará razón del hecho, se agregará el comprobante en su caso y se suspenderá la diligencia para dar cuenta al Juez. En el primer caso, éste mandará entregar al demandante el valor de las pensiones exhibidas y dará por concluido el juicio sin condenación en costas; en el segundo caso o cuando al contestar la demanda se presenten los justificantes del pago, se mandará dar vista de ellos al actor para que, dentro del término de 3 días manifieste, bajo protesta de decir verdad, si acepta o no tales justificantes. Si estuviere conforme, también se dará por concluído el negocio sin condenación en costas y, en caso contrario, continuará el procedimiento por sus demás trámites sin perjuicio de las acciones penales que procedan.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 687.
 
-En cualquier estado del juicio hasta antes de practicarse el lanzamiento, si el demandado exhibe el recibo o el importe de las pensiones debidas, también dará el Juez por terminado el negocio, pero impondrá al reo la condenación en costas, a menos que juntamente con la desocupación se hubiere demandado la rescisión del contrato de arrendamiento, en cuyo caso continuará el procedimiento.
+En cualquier estado del juicio hasta antes de practicarse el lanzamiento, si el demandado exhibe el recibo o el importe de las pensiones debidas, también dará el juez por terminado el negocio, pero impondrá al reo en el segundo caso, la condenación en costas, a menos que juntamente con la desocupación se hubiere demandado la rescisión del contrato de arrendamiento por otra diversa causal, en cuyo caso continuará el procedimiento.
 
 ###### ARTICULO 688.
 
 La sentencia dispondrá siempre cuando se declare procedente el lanzamiento y no se hubiere verificado la desocupación, que ésta se lleve a efecto hasta vencidos los términos señalados en el artículo 685, los que en ningún caso serán renunciables. Si ya estuvieren vencidos se procederá sin más trámite a ejecutar la sentencia, aún antes de engrosarla y sin que sea necesario el otorgamiento de fianza cuando se hubiere admitido apelación.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 689.
 
-La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquier persona de su familia, doméstico, portero, vecino o agente de policía, pudiéndose romper las cerraduras de las puertas de la casa si fuere necesario. Los muebles y objetos que en ella se encuentren, si no hubiere persona de la familia del demandado que los recoja u otra autorizada para ello, se remitirán, con inventario a disposición del juzgado, a la oficina de policial del cuartel respectivo y, donde no la hubiere, a la de la autoridad política del lugar, asentándose razón en el acta respectiva.
+La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquier persona de su familia, doméstico, portero, vecino o agente de policía, pudiéndose romper las cerraduras de las puertas de la casa si fuere necesario. Los muebles y objetos que en ella se encuentren, si no hubiere persona de la familia del demandado que los recoja y otra autorizada para ello, se remitirán, con inventario, a disposición del Juzgado, a la Oficina Policial del cuartel respectivo y, donde no la hubiere, a la de la autoridad política del lugar, asentándose razón en el acta respectiva.
+
+Si al irse a ejecutar el lanzamiento, el inquilino, su esposa o alguno de sus hijos se encontrare gravemente enfermo, el actuario suspenderá la diligencia dando cuenta al Juez para que éste obre prudencialmente e igual procedimiento seguirá cuando en la casa cuyo desahucio va a efectuarse, no se hallaren en el acto el Jefe de la familia o persona que haga sus veces y dentro hubiere niños o personas inválidas.
 
 ###### ARTICULO 690.
 
@@ -4480,7 +4490,7 @@ III.- Las acciones de nulidad de matrimonio;
 
 IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 394 del Código Civil;
 
-V.- Los demás en que lo prohíba expresamente la ley.
+V.- Los demás en que lo prohiba expresamente la ley.
 
 ###### ARTICULO 737.
 
@@ -5776,7 +5786,7 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 ###### ARTICULO 964.
 
-Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en éllos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
+Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
 ### CAPITULO VII.
 
@@ -5988,7 +5998,7 @@ De la Vigilancia y Cuentas de la Tutela.
 
 En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del Juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Tutelas y demás interesados, se insertará copia autorizada por el Secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-###### ARTICULO 1002.
+###### Artículo 1002.
 
 Dentro de los ocho primeros días de cada año, los Jueces, en audiencia pública, con citación del Consejo de Tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
@@ -6617,3 +6627,11 @@ EVERARDO TOPETE.
 El Secretario Gral. de Gobierno,
 
 LIC. J. CARLOS OSORIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 9 DE MARZO DE 1946.
+
+Primero.- Este presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La substanciación de los juicios promovidos antes de la vigencia del presente Decreto, en los cuales no se hubiere dictado sentencia, continuarán conforme a las disposiciones que se reforman, pero la ejecución de ellos se ajustará a las del presente.
