@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2003-12-20"
+last_updated: "2004-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -151,11 +151,11 @@ Las denuncias y las querellas, pueden formularse verbalmente o por escrito. En e
 
 Cuando se presente la querella o la denuncia por escrito, deberá ser citado el que la formule para que la ratifique y proporcione los datos que se considere oportuno pedir.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### Art. 11.
 
-La intervención de apoderado jurídico para la presentación de querellas, sólo se admitirá cuando el apoderado tenga poder con cláusula especial para tal efecto.
+La intervención de apoderado para la presentación de querellas sólo se admitirá si el apoderado tenga poder general para pleitos y cobranzas, con la facultad de presentar querellas, transigir, mediar y desistirse de las mismas.
 
 ###### Art. 12.
 
@@ -2317,6 +2317,10 @@ V.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna 
 
 VI.- Cuando habiéndose decretado la libertad por desvanecimiento de datos, esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión.
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+VII.- Cuando las partes concilien mediante el procedimiento establecido en la Ley de Mediación.
+
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 En los casos de las fracciones III y VI se estará a lo dispuesto en el artículo 267.
@@ -4120,3 +4124,7 @@ Primero.- El presente decreto entrara en vigor al día siguiente de su publicaci
 Segundo.- Se derogan todas las disposiciones que se opongan a este decreto.
 
 Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto con el Decreto.
+
+P.O. 12 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
