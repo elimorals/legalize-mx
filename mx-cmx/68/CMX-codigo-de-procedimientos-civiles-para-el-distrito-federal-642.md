@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2000-04-28"
+last_updated: "2000-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2000.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2334,17 +2334,23 @@ ARTICULO 272
 
 El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
-
 ###### ARTICULO 272
 
 ARTICULO 272-A
 
-Una vez contestada la demanda y, en su caso, la reconvención el juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los diez días siguientes, dando vista a la parte que corresponda con las excepciones que se hubieren opuesto en su contra, por el término de tres días.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+
+Una vez contestada la demanda, y en su caso, la reconvención el Juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los diez siguientes (sic), dando vista a la parte que corresponda con las excepciones que se hubieren opuesto en su contra, por el término de tres días. En los juicios de divorcio necesario en que se invoquen como causales únicamente las fracciones XI, XVII o XVIII del artículo 267 del Código Civil, la audiencia previa y de conciliación se fijará dentro de los cinco días siguientes a la contestación de la demanda y, en su caso, de la reconvención.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 Si una de las partes no concurre sin causa justificada, el juez la sancionará con una multa hasta por los montos establecidos en la fracción II del artículo 62 de este código. Si dejaren de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juez procederá a examinar las cuestiones relativas a la depuración del juicio.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 Si asistieran las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado. El conciliador preparará y propondrá a las partes, alternativas de solución al litigio. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 En caso de desacuerdo entre los litigantes, la audiencia proseguirá y el juez, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, las excepciones de conexidad, litispendencia y cosa juzgada, con el fin de depurar el procedimiento.
 
@@ -2506,11 +2512,11 @@ Son admisibles como medios de prueba aquellos elementos que puedan producir conv
 
 ### CAPITULO III. Del ofrecimiento y admisión de pruebas
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
 ARTICULO 290
 
-El mismo día en que se haya celebrado la audiencia previa, de conciliación y de excepciones procesales, si en la misma no se terminó el juicio por convenio o a más tardar al día siguiente de dicha audiencia, el juez abrirá el juicio al período de ofrecimiento de pruebas, que es de diez días comunes, que empezarán a contarse desde el día siguiente a aquél en que surta efectos la notificación a todas las partes del auto que manda abrir el juicio a prueba.
+El mismo día en que se haya celebrado la audiencia previa, de conciliación y de excepciones procesales, si en la misma no se terminó el juicio por convenio o a más tardar al día siguiente de dicha audiencia, el Juez abrirá el juicio al periodo de ofrecimiento de pruebas, que es de diez días comunes, que empezarán a contarse desde el día siguiente a aquél en que surta efectos la notificación a todas las partes del auto que manda abrir el juicio a prueba. En los juicios de divorcio necesario en que se invoquen como causales únicamente las fracciones XI, XVII o XVIII del artículo 267 del Código Civil, el periodo de ofrecimiento de pruebas será de cinco días comunes a partir del día siguiente de aquél en que surta efectos la notificación a todas las partes del auto que manda abrir el juicio a prueba.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2562,11 +2568,13 @@ Contra el auto que admita pruebas que se encuentren en algunas de las prohibicio
 
 #### SECCION I. De su recepción y práctica
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ARTICULO 299
 
-El juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo de ellas en forma oral. La recepción de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión, señalándose al efecto el día y la hora teniendo en consideración el tiempo para su preparación. Deberá citarse para esa audiencia dentro de los treinta días siguientes a la admisión.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
+
+El Juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo de ellas en forma oral. La recepción de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión, señalándose al efecto el día y la hora teniendo en consideración el tiempo para su preparación. Deberá citarse para esa audiencia dentro de los treinta días siguientes a la admisión. En los juicios de divorcio necesario en que se invoquen como causales únicamente las fracciones XI, XVII o XVIII del artículo 267 del Código Civil, se citará para la audiencia de recepción de pruebas dentro de los quince días siguientes al de la admisión de las pruebas ofrecidas.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 La audiencia se celebrará con las pruebas que estén preparadas, dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes, y para el efecto se señalará la fecha para su continuación la que tendrá verificativo dentro de los quince días siguientes. En este caso no hay que seguir el orden establecido para la recepción de las pruebas.
 
@@ -2854,7 +2862,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 ### CAPITULO V. De la forma escrita en la recepción de pruebas
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+(DEROGADO, D.O.F. 14 DE MARZO DE 1973))
 
 #### SECCION IV. Prueba pericial
 
@@ -4632,7 +4640,7 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO I. Procedimiento estando ausente el rebelde
 
@@ -8207,3 +8215,9 @@ UNICO: El presente decreto entrará en vigor el mismo día de su publicación en
 G.O. 28 DE ABRIL DE 2000.
 
 Único.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE MAYO DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor el primero de junio del año 2000.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
