@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1983-12-28"
+last_updated: "1984-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4177,11 +4177,11 @@ Cuando las partes tengan que rendir prueba testimonial deberán anunciarla en la
 
 La sentencia se pronunciará en la misma audiencia o dentro de los tres días siguientes: (sic)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1984)</small>
 
-###### Artículo 727.
+###### ARTICULO 727.
 
-La sentencia que decrete los alimentos, fijará la pensión correspondiente que deberá abonarse siempre por adelantado.
+La sentencia que decrete los alimentos, fijará la pensión correspondiente que deberá abonarse siempre por adelantado. La sentencia respectiva, indicará siempre en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión, podrá modificarse en su cuantía, previo el procedimiento respectivo, para que esté ajustada permanentemente a las necesidades del acreedor alimentista y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia, deberá hacerse personalmente del conocimiento de las partes, al ser notificada la sentencia respectiva.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -6148,6 +6148,12 @@ PRIMERO:- Todos los expedientes que se encuentren en trámite podrán acogerse a
 SEGUNDO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1984.
 
 ###### ARTICULO UNICO
 
