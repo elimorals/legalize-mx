@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1992-11-20"
+last_updated: "1993-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1217,7 +1217,7 @@ Si las dos terceras partes de los miembros del Ayuntamiento se encuentran en el 
 
 ###### Art. 127.
 
-Los Alcaldes Primeros no pueden ser reelectos en los dos períodos siguientes a su último ejercicio.
+(DEROGADO, P.O. 24 DE MARZO DE 1993)
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 1991)</small>
 
@@ -2108,3 +2108,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 20 DE NOVIEMBRE DE 1992.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 1993.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
