@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2000-09-30"
+last_updated: "2002-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2002.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -157,9 +157,9 @@ Por cada Diputado propietario se elegirá un suplente.
 
 Para la elección por representación proporcional y lista regional se deberá observar el Código Electoral. En todo caso el partido político que solicite el registro de su lista regional, deberá acreditar que tiene su registro y que participa con sus candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
 
-Todo partido político que alcance por lo menos el 1.5% del total de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a que le sean atribuidos Diputados según el principio de representación proporcional, de conformidad con las reglas de asignación que determine el Código Electoral.
+Todo partido político que alcance por lo menos el 2% de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a participar en la asignación de Diputados según el principio de representación proporcional y, en su caso, a que le sean atribuidos Diputados por dicho principio de conformidad con las reglas de asignación que determine el Código Electoral.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
@@ -179,17 +179,17 @@ I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, no pos
 
 II.- Estar inscrito en la lista nominal de electores.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, cuando menos noventa días antes de la elección.
+III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separen de sus cargos noventa días antes de la fecha de la elección.
+IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, salvo si se separa de su cargo noventa días antes de la fecha de la elección.
+V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
 VI.- (DEROGADA, P.O. 26 DE JULIO DE 1999)
 
@@ -329,9 +329,9 @@ XIX.- Crear municipios conforme a las bases que fija esta Constitución, cuando 
 
 XX.- Dirimir las cuestiones que sobre límites se susciten entre municipios, de conformidad con la ley respectiva;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-XXI.- Elegir a los Magistrados del Tribunal Electoral, así como a los Consejeros Electorales del Instituto Electoral, en los términos que determine la ley de la materia;
+XXI.- Elegir a los Magistrados del Tribunal Electoral, a los Consejeros Electorales del Instituto Electoral, así como al Presidente y a los Consejeros de la Comisión de Derechos Humanos del Estado, en los términos que determinen esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
@@ -349,7 +349,9 @@ XXVI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del
 
 XXVII.- Conocer de las renuncias y licencias de los Diputados y del Gobernador; y otorgar o negar su aprobación a las solicitudes de licencia por más de dos meses o renuncias de los Magistrados del Supremo Tribunal, que le someta el Ejecutivo del Estado;
 
-XXVIII.- Aprobar en los términos de las leyes respectivas, el nombramiento del Magistrado Presidente del Tribunal de Arbitraje y Escalafón; al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+
+XXVIII.- Aprobar, en los términos de las leyes respectivas, el nombramiento del Magistrado Presidente del Tribunal de Arbitraje y Escalafón;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
@@ -539,37 +541,27 @@ Del Poder Ejecutivo.
 
 El ejercicio del Poder Ejecutivo se deposita en una persona que se denomina "Gobernador del Estado de Colima''.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+
 ###### Artículo 51.
 
 Para ser Gobernador se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
+I.- Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de cinco años ininterrumpidos en el Estado; o hijo de padre o madre mexicano y haber residido en el Estado al menos durante doce años anteriores al día de la elección;
 
-I.- Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de 5 años ininterrumpidos en el Estado; o hijo de padre o madre mexicano y haber residido en el Estado al menos durante 12 años anteriores al día de la elección.
+II.- Tener por lo menos 30 años cumplidos al día de elección, estar en pleno goce de sus derechos, estar inscrito en la lista nominal de electores y no poseer otra nacionalidad;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
+III.- Tener un modo honesto de vivir;
 
-II.- Tener por lo menos 30 años cumplidos al día de elección, estar en pleno goce de sus derechos y no poseer otra nacionalidad.
+IV.- No ser ministro de algún culto;
 
-III.- (DEROGADA, P.O. 26 DE JULIO DE 1999)
+V.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
+VI.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos;
 
-IV.- Vivir del producto de un trabajo honesto.
+VII.- No ser Secretario de la Administración Pública Estatal, el Oficial Mayor, Procurador General de Justicia, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos; y
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
-
-V.- No ser ministro de algún culto.
-
-VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
-
-VII.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe con noventa días de anticipación al día de la elección; y
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
-
-VIII.- Los Secretarios de la Administración Pública Estatal, el Oficial Mayor, el Procurador General de Justicia, los Magistrados del Supremo Tribunal de Justicia y los Presidentes Municipales, pueden ser electos para desempeñar el cargo de Gobernador del Estado, sólo en el caso de haber cesado como titulares noventa días antes de la fecha de la elección.
+VIII.- No haberse desempeñado como Gobernador del Estado de Colima electo popularmente o de otra entidad federativa, ni como jefe de gobierno del Distrito Federal o cualquier otra atribución que se refiera a las mismas funciones y atribuciones.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1943)</small>
 
@@ -731,9 +723,9 @@ XXIX.- Asistir a la Apertura del Primer Período Ordinario de Sesiones del Congr
 
 XXX.- Autorizar, expedir y cancelar patentes para el desempeño de la función notarial en los términos de la legislación respectiva.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-XXXI.- Proponer al Congreso del Estado, mediante los procedimientos que establecen las leyes de la materia, al Presidente del Tribunal de Arbitraje y Escalafón; así como al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos.
+XXXI.- Proponer al Congreso del Estado, mediante el procedimiento que establezca la ley de la materia, al Presidente del Tribunal de Arbitraje y Escalafón.
 
 XXXII.- Presidir todas las reuniones oficiales a que concurra a excepción de las del Congreso y Tribunales.
 
@@ -853,17 +845,17 @@ La estructura orgánica de la Administración Pública del Estado y las funcione
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juzgados de Primera Instancia y Juzgados Mixtos de Paz.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Juzgados de Paz y en los demás órganos auxiliares de la administración de justicia que señale la ley.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los Tribunales y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
 
-La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los Tribunales y establecerá los procedimientos a que deban sujetarse en la impartición de justicia.
+La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta.
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones, deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; con autonomía e independencia absolutas, ejercerán las funciones jurisdiccionales y su ejecución.
+Los recintos del pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -871,7 +863,9 @@ La independencia de los magistrados y jueces en el ejercicio de sus funciones, d
 
 El Supremo Tribunal de Justicia funcionará en pleno o en sala colegiada y estará integrado por el número de magistrados que fije la Ley Orgánica del Poder Judicial del Estado.
 
-En los términos de la misma, la representación y buena marcha del Poder Judicial corresponde al Magistrado Presidente del Supremo Tribunal de Justicia del Estado, que se elegirá anualmente y podrá ser reelecto.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+
+En los términos establecidos por dicho ordenamiento, la representación y buena marcha del Poder Judicial corresponden al Magistrado Presidente del Supremo Tribunal de Justicia del Estado, quien será elegido por el Pleno para un período de dos años y podrá ser reelecto.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -965,13 +959,25 @@ VIII.- De los negocios civiles y penales del fuero común, como Tribunal de apel
 
 IX.- Ejercitar el derecho de iniciar leyes ante el Congreso local y nombrar, en su caso, el representante a que se refiere el artículo 45 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, así como tomarles la protesta respectiva en los términos de ley; y
+X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces de Paz y demás servidores públicos que establezca la Ley Orgánica del Poder Judicial, así como tomarles la protesta de ley;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
-XI.- Proponer al Congreso del Estado a los Magistrados del Tribunal Electoral, en los términos que establezca la ley de la materia.
+XI.- Proponer al Congreso del Estado a los Magistrados del Tribunal Electoral, en los términos que establezca la ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2002)</small>
+
+XII.- Funcionando en salas, declarar la conformación o modificación de los procedentes jurídicos obligatorios ajustándose a los términos que señale la Ley Orgánica del Poder Judicial. En todo caso, la conformación o modificación de los precedentes jurídicos obligatorios de las salas, se constituirá cuando resuelvan cinco ejecutorias ininterrumpidas en el mismo sentido. El Supremo Tribunal de Justicia funcionando en Pleno, declarará los precedentes jurídicos obligatorios cuando resuelva la contradicción entre tesis de las salas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2002)</small>
+
+XIII.- Salvaguardar, aun con el uso de la fuerza pública en caso necesario, la inviolabilidad de los recintos del Poder Judicial; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2002)</small>
+
+XIV.- Disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del fondo auxiliar en beneficio de la administración de justicia, el que se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común, cuyo destino será únicamente para infraestructura y capacitación de personal.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -1073,6 +1079,10 @@ La Comisión de Derechos Humanos del Estado de Colima, será el organismo encarg
 
 De las inconformidades que se presenten respecto de sus recomendaciones, acuerdos u omisiones, conocerá el organismo equivalente que a nivel Federal esté constituido.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2002)</small>
+
+El Presidente y los Consejeros de la Comisión serán electos por el Congreso, a propuesta de los Diputados, por mayoría calificada de sus integrantes y de conformidad con el procedimiento que establezca su ley orgánica. El Presidente durará en su encargo cuatro años y podrá ser reelecto para un plazo igual.
+
 La Comisión no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
@@ -1111,13 +1121,15 @@ b).- Asimismo, se reintegrará un porcentaje de los gastos anuales que eroguen l
 
 c).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-IV.- La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores en el ejercicio de dicha función.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2002)</small>
+
+IV.- La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público de carácter permanente denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores en el ejercicio de dicha función.
 
 El Instituto Electoral del Estado será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
 
-a). El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios y tres suplentes, designados por el Congreso del Estado, por mayoría calificada de los integrantes del Congreso, a propuesta de los grupos parlamentarios; durarán en su cargo siete años, sus requisitos y mecanismos de elección serán determinados en la ley de la materia. Uno de los Consejeros será presidente, electo por un mínimo de cuatro votos de los demás Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por las dos terceras partes del mismo Consejo, a propuesta en terna de su Presidente. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+a). El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios y tres suplentes, designados por el Congreso del Estado por mayoría calificada de sus integrantes, a propuesta de los grupos parlamentarios. Durarán en su encargo siete años sus requisitos y mecanismos de elección serán determinados en la ley de la materia. Uno de los Consejeros será presidente, electo por un mínimo de cinco votos de los Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por cinco votos de los Consejeros, a propuesta en terna de su Presidente. Ambos funcionarios durarán en su cargo 4 años pudiendo ser reelectos para completar el resto del periodo. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
 
 En caso de que no se reúna en la segunda vuelta la mayoría calificada a que se refiere el párrafo anterior, los funcionarios electorales serán electos por el sistema de insaculación.
 
@@ -1359,7 +1371,9 @@ IV.- En los municipios con población superior a cien mil habitantes, el Ayuntam
 
 V.- La determinación del número de regidores será de conformidad con el último censo general de población; y
 
-VI.- Todo partido político o coalición que alcance por lo menos el 1.5% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido o coalición que haya obtenido el triunfo por mayoría relativa.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+
+VI.- Todo partido político o coalición que alcance por lo menos el 2% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido o coalición que haya obtenido el triunfo por mayoría relativa.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1375,13 +1389,17 @@ III.- Estar en pleno ejercicio de sus derechos civiles y políticos;
 
 IV.- Estar inscrito en la lista nominal de electores;
 
-V.- No estar en servicio activo de las fuerzas armadas, ni en los cuerpos de seguridad pública, a menos de que se separen 90 días antes del día de la elección;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+
+V.- No estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del período del registro de candidatos;
 
 VI.- No ser ministro de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
 
 VII.- No ser integrante de los organismos electorales en los términos que señale la ley de la materia.
 
-El cargo de miembro de un Ayuntamiento no puede recaer en las categorías de servidores públicos de la federación, estado y municipios, así como de organismos descentralizados y empresas de participación estatal o municipal a que se refiere la ley, a menos que se separen del cargo, por lo menos 90 días antes del día de la elección.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+
+El cargo de miembro de un Ayuntamiento no puede recaer en las categorías de servidores públicos en ejercicio de la Federación, Estado y municipios, así como de organismos descentralizados y empresas de participación estatal o municipal a que se refiere la Ley, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1871,7 +1889,11 @@ Los pensionados y jubilados, así como los adultos mayores de 65 años, tendrán
 
 VI.- Las autoridades del Estado velarán por la defensa de los derechos humanos e instituirán los medios adecuados para su salvaguarda.
 
-VII.- Toda persona tiene derecho a que se le administre justicia por los tribunales del Estado, los que estarán expeditos para impartirla en los plazos y términos que fijan las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+
+VII.- Toda persona tiene derecho a que se les administre justicia por los tribunales del Estado, los que estarán expeditos para impartirla en los plazos y términos que fijan las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita. Asimismo, tiene derecho, en la forma y términos que establezca la ley, a resolver sus controversias de carácter jurídico a través de la justicia alternativa, mediante procedimientos no jurisdiccionales.
+
+En todo proceso del orden penal, el inculpado y la víctima tendrán las garantías que les otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley.
 
 VIII.- Por el carácter plural de la sociedad colimense, las autoridades están obligadas a fortalecerla, alentando la participación democrática de individuos, organizaciones y partidos políticos en el desarrollo del Estado.
 
@@ -2510,3 +2532,25 @@ En tanto no entren en vigor las leyes que establezcan los órganos para dirimir 
 ###### ARTICULO OCTAVO.
 
 El Ayuntamiento del Municipio de Tecomán, para la administración municipal 2003-2006, se integrará por un presidente municipal, un síndico, seis regidores electos según el principio de mayoría relativa y por cinco regidores de representación proporcional.
+
+P.O. 23 DE JULIO DE 2002.
+
+DECRETO No. 228, QUE REFORMA LOS ARTICULOS 33, 58 Y 86 DE LA CONSTITUCION DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 23 DE JULIO DE 2002.
+
+DECRETO No. 229, QUE REFORMA LOS ARTICULOS 1, 67, 68 Y 74 DE LA CONSTITUCION DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 23 DE JULIO DE 2002.
+
+DECRETO NO. 230, QUE REFORMA LOS ARTICULOS 22, 24, 51, 86 BIS, 89 Y 90 DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
