@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1930-12-17"
+last_updated: "1938-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1938.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -42,6 +42,8 @@ GARANTIAS INDIVIDUALES.
 ### CAPITULO II.
 
 LA ENSEÑANZA.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
 
 ### CAPITULO I.
 
@@ -561,7 +563,7 @@ Se deposita el Poder Ejecutivo del Estado, en un ciudadano que se que se denomin
 
 La elección de Gobernador será directa, en los términos que disponga la ley respectiva.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
 
 ### CAPITULO V.
 
@@ -571,7 +573,11 @@ COMISION PERMANENTE Y SUS ATRIBUCIONES.
 
 ###### Art. 72.
 
-El Gobernador Constitucional entrará a ejercer su encargo el día primero de enero; durará en él cuatro años y nunca podrá ser reelecto para el período inmediato.
+El Gobernador Constitucional entrará en funciones el día primero de enero; durará en su encargo cuatro años y en ningún caso y por ningún motivo volverá a ocupar ese cargo.
+
+Nunca podrán ser electos para el período inmediato:
+
+El Gobernador Substituto Constitucional, el Substituto o el designado para concluir le (sic) periodo en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación. El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador siempre que desempeñe el cargo los dos últimos años del periodo.
 
 ###### Art. 73.
 
@@ -583,9 +589,9 @@ II.- Tener veinticinco años de edad cumplidos el día de la elección.
 
 III.- No ser Ministro de ningún culto.
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 1925)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1938)</small>
 
-IV.- Haber dejado de estar en servicio activo tanto en el Ejército Federal, como en las Guardias Nacionales o Auxiliares, cuando menos tres años antes del día en que se deban verificar las elecciones.
+IV.- Haber dejado de estar en servicio activo tanto en el Ejército Federal, como en las Guardias Nacionales o Auxiliares, cuando menos seis meses antes del día en que deban verificarse las elecciones.
 
 V.- No ser Secretario General de Gobierno, Subsecretario de Gobierno o Tesorero al del Estado, a menos que se separe de su puesto noventa días antes de la elección.
 
@@ -797,9 +803,13 @@ Se deposita el ejercicio del Poder Judicial del Estado en un "Tribunal Superior 
 
 El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios y tres Suplentes, por lo menos, y funcionará en pleno de la manera que establezca la Ley, siendo públicas sus audiencias si la moral o el interés público no exigieren el secreto. Sus resoluciones se tomarán por mayoría absoluta.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1938)</small>
+
 ###### Art. 97.
 
-Los Magistrados serán electos por el Congreso del Estado en Colegio Electoral, por mayoría absoluta de votos. Por la primera vez durarán en su encargo dos años; los que fueren electos al terminar este primer período durarán cuatro años; y a partir del año de 1925, los Magistrados sólo podrán ser removidos por causa justificada, o previo el juicio de responsabilidad respectivo, a menos que sean promovidos a grado superior.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Estado, serán hechos por el Gobernador y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de quince días. Si el Congreso resuelve dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados nombrados por el Gobernador del Estado. En el caso que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento, que surtirá sus efectos, desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente periodo de sesiones. En ese periodo el Congreso dentro de los primeros 10 días deberá aprobar o reprobar el nombramiento, si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional, y el Gobernador someterá un nuevo nombramiento al Congreso, en los términos indicados.
+
+Los Magistrados durarán en su encargo el mismo tiempo que el Gobernador Constitucional del Estado; pero podrán ser removidos por causa justificada, o previo el juicio de responsabilidad respectiva.
 
 ###### Art. 98.
 
@@ -1229,11 +1239,11 @@ A ninguna persona se le puede imponer pena, ni aún correccional, sin que le oí
 
 ###### Art. 5.
 
-La enseñanza será laica y racional, y obligatoria la Primaria Elemental hasta los trece años de edad. Esta y la Normal serán gratuitas en las Escuelas Oficiales. La Preparatoria y Profesional se impartirán como lo dispongan las leyes.
+La enseñanza será socialista, y además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios. Sólo el Estado impartirá educación primaria, secundaria y normal. Podrá concederse autorizaciones a los particulares para impartir educación en cualquiera de los tres grados anteriores, pero sujetándose en todo a la vigilancia del Gobierno y disposiciones que rijan la enseñanza oficial; no pudiendo funcionar planteles particulares, sin haber obtenido previamente y en cada caso la autorización expresa del Ejecutivo del Estado, quien podrá también revocar en cualquier tiempo las autorizaciones concedidas, sin que proceda contra el ejercicio de esta facultad recursos o juicio alguno.
 
-La enseñanza particular se dará con estricta sujeción a la vigilancia del Gobierno y disposiciones que rijan la enseñanza oficial, dándose aviso al respectivo Ayuntamiento y al Ejecutivo del Estado de la apertura de todo plantel de Educación Particular.
+La educación primaria será obligatoria y los planteles oficiales la impartirán gratuitamente. La preparatoria y profesional se impartirá como lo disponen las leyes.
 
-Ninguna corporación religiosa ni Ministro de algún culto o sus familiares podrán establecer o dirigir planteles de enseñanza.
+Ninguna corporación religiosa, ni las asociaciones o sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, ni los ministros de algún culto y sus familiares podrán establecer, dirigir o intervenir en planteles de enseñanza.
 
 ###### Art. 6.
 
@@ -1312,3 +1322,7 @@ Este Decreto surte sus efectos legales desde la fecha de su promulgación, que s
 P.O. 17 DE DICIEMBRE DE 1930.
 
 UNICO.- Este decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
+
+P.O. 28 DE MARZO DE 1938.
+
+UNICO.- Este Decreto surte sus efectos legales, desde la fecha de su promulgación, que se hará por bando solemne en todo el Estado.
