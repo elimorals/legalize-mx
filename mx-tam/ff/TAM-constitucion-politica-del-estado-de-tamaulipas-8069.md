@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1965-12-25"
+last_updated: "1966-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1966.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1097,45 +1097,59 @@ Las faltas temporales del Secretario General de Gobierno se suplirán por el Ofi
 
 El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los juzgados de primera instancia, en los juzgados menores y en los tribunales y jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+
 ###### Art. 101.
 
-Ningún otro Poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales, avocarse el conocimiento de las causas pendientes o mandar abrir las fenecidas.
+Ningún otro Poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 102.
 
-Los Funcionarios Judiciales en ningún caso podrán interpretar las leyes, suspender su cumplimiento ni formar reglamentos para la administración de justicia.
+Los funcionarios judiciales en ningún caso podrán suspender el cumplimiento de la Leyes, ni reglamentar la administración de justicia.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 103.
 
-Las leyes arreglarán las formalidades de los procedimientos judiciales.
+Las Leyes determinarán las formalidades de los procedimientos judiciales.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 104.
 
-En ningún negocio podrá haber más de dos instancias. La ley determinará cuál de las sentencias causa ejecutoria.
+En ningún juicio podrá haber más de dos instancias.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 105.
 
-El Juez que haya sentenciado un negocio en alguna instancia, no podrá hacerlo en otra.
+El Magistrado o Juez que haya conocido de un juicio en una instancia, no podrá hacerlo en la otra.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 106.
 
-Los delitos de cohecho, soborno o prevaricación, producen acción popular contra los Magistrado, Jueces, Secretarios o empleados que lo cometan, y lo mismo contra los autores que contra sus cómplices.
+Los delitos de cohecho, peculado, concusión o prevaricación, producen acción popular contra los magistrados, jueces, secretarios o empleados judiciales que los cometan y sus cómplices.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia se compone de cuatro Magistrados, que funcionarán en acuardo (sic) pleno o por Salas en la forma que determine la Ley.
+El Supremo Tribunal de Justicia se integra con cinco Magistrados, y funcionará bajo la Presidencia anual de uno de ellos, en acuerdo pleno o por Salas, en la forma que determine la Ley.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 108.
 
-Los Magistrados serán electos por el Congreso erigido en Colegio Electoral cuando menos por cinco votos de sus miembros presentes; durarán en sus funciones tres años y podrán ser reelectos. En los recesos del Congreso, la Diputación Permanente nombrará Magistrados, con el carácter de Provisionales para suplir las faltas temporales de los propietarios.
+Los Magistrados serán electos por el Congreso, erigido en Colegio Electoral, por el voto de las dos terceras partes, o más, de los Diputados que la integran; y, desempeñarán el cargo por tres años, pudiendo ser reelectos. En los recesos del Congreso, la Diputación Permanente nombrará Magistrados, con el carácter de provisionales, para suplir las faltas temporales de los propietarios.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 109.
 
-Los Magistrados comenzarán a ejercer su encargo el día cinco de febrero inmediato a la elección de Diputados.
+Los Magistrados empezarán a ejercer su cargo el día primero del mes de febrero del año inmediato a la elección de Diputados.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1169,65 +1183,41 @@ No podrán formar parte del Tribunal tres o más Magistrados que sean parientes 
 
 Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
+
 ###### Art. 114.
 
-Son atribuciones del Supremo Tribunal de Justicia.
+Son atribuciones del Supremo Tribunal de Justicia:
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+I.- Conocer en única Instancia, de las controversias de orden civil que se susciten entre los particulares y el Estado o los Ayuntamientos o entre éstos y aquéllos.
 
-I.- Conocer en única instancia de las controversias que se susciten sobre cumplimiento de contratos celebrados por particulares con los Ayuntamientos o con el Estado.
+II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, en los términos de las Leyes respectivas.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+III.- Conocer como Jurado de sentencia de las causas que, por delitos oficiales, se instruyan contra los Funcionarios de que habla el Artículo 58, fracción XIX.
 
-II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, siguiendo el procedimiento que fijan las leyes.
+IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los jueces de Primera Instancia y Jueces Menores por delitos oficiales y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
 
-IV. Iniciar ante el Congreso leyes tendentes a mejorar la Administración de Justicia.
+V.- Conocer en segunda instancia de los asuntos civiles o penales que al efecto remitan los jueces de primera instancia.
 
-V. Nombrar los Jueces de Primera Instancia, a propuesta en terna del Ejecutivo.
+VI.- Iniciar ante el Congreso, Leyes tendientes a mejorar la Administración de Justicia.
 
-VI. Dirigir al Congreso iniciativas de ley, con especialidad en sus ramos y pedir aclaración y reforma de las leyes vigentes.
+VII.- Elegir Presidente del Tribunal, por mayoría de votos de los Magistrados presentes en la Sesión Plenaria Ordinaria inmediata posterior al día 15 del mes de enero, de cada año; y podrá ser reelecto.
 
-VII. Dirimir las competencias de jurisdicción que se susciten entre los Jueces inferiores del Estado.
+VIII.- Nombrar a los Jueces de Primera Instancia, previa propuesta en terna del Ejecutivo.
 
-VIII. Examinar, con el objeto prevenido por las leyes, los partes y listas de las causas que remitan los Jueces inferiores.
+IX.- Nombrar a los Jueces Menores, previa propuesta en terna de los Ayuntamientos respectivos.
 
-IX. Sentenciar, sin recurso ulterior, erigido en Jurado de Sentencia, las causas que por delitos oficiales hayan de formarse contra los funcionarios de que habla el artículo 58, fracción XIX, con excepción de las que se instruyan contra todos los Magistrados del mismo Tribunal.
+X.- Nombrar, remover y cesar libremente al Secretario de Acuerdos, a los Secretarios de las Salas y de los Juzgados; y demás personal subalterno cuando así convenga a la mejor administración de la Justicia.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
+XI.- Conceder licencias hasta por un mes a los funcionarios y empleados del Poder Judicial.
 
-X.- Conocer y fallar en única instancia las causas que se presenten contra alguno de sus miembros, contra los jueces de primera instancia y jueces menores por delitos oficiales, y de las que deban formarse contra los secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos;
+XII.- Formular su Reglamento Interior.
 
-XI. De los asuntos civiles y criminales que remitan en grado los Jueces de Primera Instancia.
+XIII.- Conocer de las quejas formuladas contra los funcionarios y empleados del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
+XIV.- Remover y cesar a los Jueces de Primera Instancia y a los Menores, en los casos que la Ley establece; y
 
-XII.- Nombrar los jueces menores, a propuesta en terna de los Ayuntamientos respectivos;
-
-XIII. Formar su Reglamento interior.
-
-XIV. Conceder licencias hasta por un mes a los Magistrados y Jueces.
-
-XV. Ordenar visitas de cárceles.
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
-
-XVI.- Ordenar visitas a los juzgados de primera instancia y menores;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XVII.- Nombrar y remover a los empleados del propio Tribunal de acuerdo con la Ley Orgánica del mismo.
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
-
-XVIII.- Conocer de las quejas formuladas contra los Jueces de primera instancia y menores;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1961)</small>
-
-XIX.- Remover a los jueces de primera instancia y menores en los casos en que lo faculte la presente Constitución.
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
-XX.- Las demás facultades y obligaciones que le señalen las leyes.
+XV.- Las demás facultades y obligaciones que señalan las Leyes.
 
 ###### Art. 115.
 
@@ -1241,9 +1231,9 @@ Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, d
 
 Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Gran Jurado o Jurado de Acusación declare por la afirmativa, se reintegrará por los medios señalados en la presente Constitución el Supremo Tribunal de Justicia, y este sentenciará a los encausados, pero separadamente a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
 
-### CAPITULO II. De Los Magistrados
+### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 117.
 
@@ -1884,3 +1874,21 @@ P.O. 25 DE DICIEMBRE DE 1965.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Envíese al Ejecutivo para su sanción, publicación y debido cumplimiento.
+
+P.O. 8 DE ENERO DE 1966.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Magistrado cuyo cargo establece el presente Decreto, asumirá de inmediato la función y actuará hasta el día 31 de enero de 1967.
+
+###### ARTICULO TERCERO.
+
+Se reforman los Decretos números ciento veinticuatro y ciento ochenta y ocho, de fecha treinta y uno de enero de mil novecientos sesenta y cuatro, y veintinueve de octubre del propio año, respectivamente, para el efecto de reducir al día 31 de enero de mil novecientos sesenta y siete, el período para el que fueron electos los Magistrados que actualmente integran el Supremo Tribunal de Justicia del Estado.
+
+###### ARTICULO CUARTO.
+
+Envíese al Ejecutivo del Estado, para su promulgación y debido cumplimiento.
