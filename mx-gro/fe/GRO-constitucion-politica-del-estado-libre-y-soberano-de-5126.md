@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1987-10-13"
+last_updated: "1987-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1987.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -597,7 +597,7 @@ El año de elecciones Municipales, el Congreso celebrará, para calificar las mi
 
 El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea convocado para ese objeto por la Comisión Permanente, por sí o a solicitud del Gobernador del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO QUINTO. DE LA ESTRUCTURA POLITICA DEL ESTADO DE GUERRERO
 
@@ -609,7 +609,7 @@ El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea c
 
 ###### ARTICULO 43.
 
-Dentro de los cinco primeros días del mes de abril de cada año, se reunirá el Congreso en sesión pública y solemne ante la cual el Gobernador del Estado, rendirá un informe escrito pormenorizado del estado que guarda la administración pública de la entidad, con excepción del último año del período constitucional que será entre el 16 y 20 del mes de marzo del año respectivo.
+Dentro de la segunda semana del mes de febrero de cada año, se reunirá el Congreso en Sesión de Período Extraordinario ante la cual el Gobernador del Estado rendirá un informe escrito pormenorizado del estado que guarda la Administración Pública de la Entidad, con excepción del último año del período constitucional, que se rendirá en sesión ordinaria, pública y solemne, en la tercera semana del mes de marzo del año respectivo.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1023,9 +1023,9 @@ VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles,
 
 VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de egresos para el ejercicio fiscal siguiente.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1987)</small>
 
-VIII.- Rendir dentro de los cinco primeros días del mes de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional, que se rendirá entre el 16 y 20 del mes de marzo del año respectivo.
+VIII.- Rendir dentro de la segunda semana del mes de febrero de cada año ante el Congreso, en sesión de período extraordinario, el informe de su Gobierno, con excepción del último año del período constitucional que lo rendirá en la tercera semana del mes de marzo del año respectivo.
 
 IX.- Nombrar y remover libremente a los funcionarios y a los empleados del Poder Ejecutivo, cuyo nombramiento o causa de remoción no estén determinados en otra forma por esta Constitución o por las Leyes correspondientes.
 
@@ -2292,5 +2292,9 @@ Los Ayuntamientos que hayan de instalarse el 1o. de enero de 1990 durarán en su
 La LIII Legislatura, que habrá de instalarse el 1o. de marzo de 1990, desempeñará sus funciones constitucionales hasta el 23 de marzo de 1993.
 
 P.O. 13 DE OCTUBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
