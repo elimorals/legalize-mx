@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1991-03-03"
+last_updated: "1993-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1993.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -151,7 +151,7 @@ V.- El Secretario de Finanzas;
 
 > <small>(ADICIONADA, P.O. 3 DE MARZO DE 1991)</small>
 
-VI.- Los Directores de los organismos fiscales autónomos;
+VI.- Los Directores de los organismos fiscales autónomos.
 
 VII.- El comisario Municipal;
 
@@ -838,6 +838,20 @@ Para actualizar el valor de operación, se dividirá el índice nacional de prec
 Las autoridades fiscales estarán facultadas para practicar avalúo del inmueble referido, a la fecha de adquisición y compararlo con el valor de operación. En caso de resultar inferior el del precio pactado, el impuesto se calculará sobre el avalúo de la autoridad fiscal actualizado desde la fecha de adquisición.
 
 Cuando no se pacte el precio, el impuesto se determinará en base al avalúo que practique la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 1993)</small>
+
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
+
+I.- De cinco veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando el inmueble esté construido;
+
+II.- De dos y medio veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+III.- De quince veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año, cuando se trate de un inmueble popular, de uso habitacional.
+
+Para los efectos de esta Ley se entiende por inmueble de tipo popular, aquél que se ubica en fraccionamientos autorizados como de un tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de sesenta metros cuadrados;
+
+IV.- De cinco veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
 
 Para los fines de esta ley se considera que el usufructo y la nuda propiedad tiene (sic) un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -1636,3 +1650,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 3 DE MARZO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE OCTUBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
