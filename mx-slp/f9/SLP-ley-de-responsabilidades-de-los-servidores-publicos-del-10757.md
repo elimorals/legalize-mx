@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-10757"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-26"
-last_updated: "1998-05-26"
+last_updated: "2003-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 14 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 26 de mayo de 1989.
 
@@ -1036,3 +1038,13 @@ P.O. 26 DE MAYO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2003.
+
+PRIMERO. La presente Ley entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, expedida el dieciocho de mayo de mil novecientos ochenta y nueve, y publicada en el Periódico Oficial del Estado el veintiséis del propio mes y año.
+
+TERCERO. Se derogan todas las normas y disposiciones que se opongan al presente Ordenamiento.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor de la presente Ley, serán resueltos por las autoridades competentes en los términos del ordenamiento que se abroga.
