@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-11-14"
+last_updated: "2004-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1455,13 +1455,19 @@ Agravación de la punibilidad.- La pena prevista en el artículo anterior se aum
 
 I.- Que se realice con violencia o se veje a la víctima;
 
-II.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto al agente o,
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-III.- Que la privación se prolongue por más de cinco días.
+II.- Que la víctima sea menor de edad o mayor de sesenta años o que por cualquier otra circunstancia esté en situación de inferioridad respecto al agente o,
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+III.- Que la privación se prolongue por más de setenta y dos horas.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 163.
 
-Atenuación de la punibilidad.- Si el agente espontáneamente pone en libertad a la víctima dentro de los tres días siguientes a la comisión del delito, la pena prevista en los dos artículos anteriores podrá disminuirse hasta la mitad.
+Atenuación de la punibilidad.- Si el agente espontáneamente pone en libertad a la víctima dentro de las treinta y seis horas siguientes a la privación, la pena prevista en los dos artículos anteriores se disminuirá hasta la mitad.
 
 ### CAPITULO I. VIOLACION
 
@@ -1473,43 +1479,67 @@ Formas típicas y punibilidad.- Al que prive de la libertad a otro, se le aplica
 
 I.- Obtener un rescate;
 
-II.- Que la autoridad realice o deje de hacer un acto de cualquier índole o;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+II.- Que la autoridad o particulares realicen o dejen de hacer un acto de cualquier índole o,
 
 III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionado con él.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### Artículo 164
+
+BIS.- Secuestro equiparado.- Se equipara al secuestro y se castigará de siete a quince años de prisión y hasta trescientos días multa a quien:
+
+I.- Secuestro express.- Prive de la libertad a otro y lo persuada u obligue de cualquier modo a realizar directa o indirectamente retiro de dinero en cajeros electrónicos u operaciones o transacciones bancarias, mercantiles, civiles o cualquier otra que produzca liberaciones de obligaciones, obtenga o no el beneficio.
+
+II.- Auto Secuestro.- Simule encontrarse secuestrado con amenaza de un daño a su persona con el propósito de obtener un beneficio indebido, o con la intención de que la autoridad o particular realice o deje de realizar un acto cualquiera.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 165.
 
-Agravación de la punibilidad.- La pena señalada en el artículo anterior se agravará hasta en una tercera parte más, cuando concurran algunas de las siguientes características:
+Agravación de la punibilidad.- La pena señalada en los artículos 164 y 164 BIS se agravará hasta en una tercera parte más, cuando concurran algunas de las siguientes características:
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999)</small>
 
 I.- Que se realice en lugar desprotegido o solitario;
 
-II.- Que el autor sea o haya sido integrante de alguna institución de Seguridad Pública, o se ostente como tal sin serlo;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 1999)</small>
+II.- Que el autor sea o haya sido integrante de alguna institución de Seguridad Pública, o se ostente como tal sin serlo, o utilice uniformes, insignias, frecuencias, placas, divisas, armas, claves, códigos oficiales o demás equipo reglamentario correspondiente a los cuerpos de seguridad;
+
+(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999)(F. DE E., P.O. 31 DE DICIEMBRE DE 1999)
 
 III.- Que se lleve a cabo en grupo de dos o más personas;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999)</small>
+
 IV.- Que se realice con violencia, se veje o se torture a la víctima o,
 
-V.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 1999)</small>
+V.- Que la víctima sea menor de edad o mayor de sesenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del agente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 165
 
-BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164 y 165 de este Código y fuera de las causas de exclusión del delito:
+BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164, 164 BIS y 165 de este Código y fuera de las causas de exclusión del delito:
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999)</small>
 
 I.- Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima;
 
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999)</small>
+
 II.- Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 166.
 
-Atenuación de la punibilidad por arrepentimiento pos-factum.- Si el agente delictivo espontáneamente pone en libertad al secuestrado dentro de los tres días siguientes a la comisión del delito, la pena será de cinco a diez años de prisión, y multa de cien a doscientos días, siempre y cuando el sujeto se entregue voluntariamente a la autoridad competente y no haya logrado los propósitos a que se refiere el Artículo 164.
+Atenuación de la punibilidad por arrepentimiento pos-factum.- Si el agente delictivo espontáneamente pone en libertad al secuestrado dentro de las treinta y seis horas siguientes a la comisión del delito, la pena será de cinco a diez años de prisión, y multa de cien a doscientos días, siempre y cuando el sujeto se entregue voluntariamente a la autoridad competente y no haya logrado los propósitos a que se refiere el artículo 164.
 
 ###### Artículo 167.
 
@@ -3730,3 +3760,7 @@ UNICO: La presente reforma entrará en vigor el día siguiente al de su publicac
 P.O. 14 DE NOVIEMBRE DE 2003.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE FEBRERO DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
