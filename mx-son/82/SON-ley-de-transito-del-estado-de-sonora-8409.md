@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1992-05-07"
+last_updated: "1993-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JULIO DE 1993.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -93,7 +93,7 @@ I.- Organizar y prestar, en los términos de esta Ley, el servicio público de t
 
 II.- Expedir, con sujeción a la presente Ley, la cual se constituye como la base normativa para el ejercicio de su facultad reglamentaria, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
 
-> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
 
@@ -2399,9 +2399,11 @@ La acción del Fisco para hacer efectivas las sanciones señaladas en esta Ley, 
 
 En ambos casos, el término de la prescripción corre a partir de la fecha en que se haya cometido la infracción.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 231.
 
-Se impondrá multa equivalente a diez veces al salario mínimo diario vigente en la cabecera del Municipio de que se trate:
+Se impondrá multa equivalente a veinte veces el salario mínimo diario vigente en la cabecera del Municipio de que se trate:
 
 a) Por transportar en los vehículos, explosivos o productos altamente inflamables sin el permiso correspondiente.
 
@@ -2409,13 +2411,13 @@ b) Por prestar servicio público de transporte sin estar concesionado, por cada 
 
 c) Por prestar el servicio público de transporte con las unidades de emergencia simultáneamente con las autorizadas, independientemente de la sanción de cancelación que establece la Ley de Transporte del Estado de Sonora.
 
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1993)</small>
 
-d) Por no portar la calcomanía de verificación vehicular de emisiones contaminantes vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que puedan rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
+d) Igualmente se impondrá multa equivalente hasta veinte veces el salario mínimo diario vigente en la cabecera del municipio de que se trate, pero que no será menor de diez veces el mismo salario mínimo, por no presentar los vehículos para la verificación de emisiones contaminantes en los términos del artículo 53, último párrafo, de esta Ley, así como por no portar la calcomanía correspondiente vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que pueden rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
 
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1993)</small>
 
-El monto de la multa a que se refiere el presente artículo podrá duplicarse en los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido.
+En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro veces el salario mínimo diario vigente en la cabecera del Municipio que se trate.
 
 ###### ARTICULO 232.
 
@@ -2694,3 +2696,9 @@ B.O. 7 DE MAYO DE 1992.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor a los noventa días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
