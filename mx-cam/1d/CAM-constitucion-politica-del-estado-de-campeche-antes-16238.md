@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1983-05-27"
+last_updated: "1985-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -46,8 +46,6 @@ CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 ###### ARTICULO 1.
 
 El Estado de Campeche es parte integrante de la Federación constituída por los Estados Unidos Mexicanos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE MAYO DE 1983)</small>
 
@@ -365,7 +363,7 @@ a) Que los partidos políticos que los postulen obtengan, cuando menos, el 1.5 p
 
 b) Que los mismos partidos hayan postulado también candidatos en seis distritos electorales, cuando menos, y
 
-c) Que los propios partidos no hayan acreditado 2 o más diputados de mayoría relativa, pudiendo obtener hasta dos de representación proporcional, siempre que no se les hubiese atribuído alguno de mayoría relativa.
+c) Que los propios partidos no hayan acreditado dos o más diputados de mayoría relativa, pudiendo obtener hasta 2 de representación proporcional, siempre que no se les hubiese atribuído alguno de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -392,8 +390,6 @@ III.- Además de los requisitos anteriores, según el caso, se necesitarán los 
 a).- Ser originario del distrito en que se haga la elección, con residencia en él de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
 
 b).- Ser nativo del Estado, con residencia de un año en el distrito respectivo, inmediatamente anterior a la fecha de la elección;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -426,8 +422,6 @@ VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los President
 ###### ARTICULO 35.
 
 Los ciudadanos comprendidos en las fracciones de la III a la VI del artículo anterior podrán ser electos, siempre que se separen de sus cargos cuando menos 45 días antes de la elección.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -757,8 +751,6 @@ I.- Ser ciudadano campechano en pleno goce de sus derechos;
 
 II.- Tener 35 años cumplidos, el día de la elección y haber residido en el Estado todo el año anterior a la elección;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
 III.- Ser ciudadano campechano por nacimiento, o tener veinticinco años de residencia, si la calidad de campechano fuese por vecindad.
@@ -829,13 +821,11 @@ El ciudadano que hubiese sido designado gobernador provisional en el caso de fal
 
 El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere, que la Nación o el Estado me lo demanden".
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 70.
 
-El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso sí estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -975,8 +965,6 @@ Las faltas de los Secretarios de los diversos ramos de la Administración Públi
 
 La Ley organizará el Ministerio Público en el Estado y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como Jefe al Procurador General de Justicia, quien para serlo deberá reunir los mismos requisitos que para ser Magistrado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 76.
@@ -991,13 +979,9 @@ El Procurador General de Justicia intervendrá en todos los negocios en que el E
 
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1005,11 +989,11 @@ El Procurador General de Justicia intervendrá en todos los negocios en que el E
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Paz, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 1985)</small>
 
 ###### ARTICULO 78.
 
-El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados numerarios y un supernumerario y funcionará en Pleno o en Salas de la manera que establezca la Ley Orgánica del Poder Judicial del Estado.
+El Tribunal Superior de Justicia del Estado se compondrá de ocho Magistrados, siete numerarios y un Supernumerario, y funcionará en Pleno o en Salas como lo establezca la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1101,13 +1085,11 @@ El Gobernador podrá pedir ante el Congreso del Estado, o, ante la Diputación P
 
 El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud. También será oído dicho funcionario por el Congreso o por la Diputación Permanente, en su caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 87.
 
-Será Presidente del Tribunal Superior de Justicia, el Magistrado propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales suplidas por otro Magistrado propietario designado en la misma forma que el anterior.
+Será Presidente del Tribunal Superior de Justicia, el Magistrado Propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales suplidas por otro Magistrado Propietario designado en la misma forma que el anterior.
 
 El Presidente del Tribunal Superior de Justicia, a más tardar el 31 de agosto rendirá ante la H. Representación Popular, un informe escrito acerca de la situación que guarde la Administración de Justicia en el Estado.
 
@@ -1151,23 +1133,17 @@ IX.- Remover a los empleados de los juzgados de primera instancia, menores y de 
 
 Para los efectos de las responsabilidades a que alude este Capítulo, se reputarán como servidores públicos a los Diputados del Congreso del Estado; a los miembros del Poder Judicial; a los colaboradores del Ejecutivo, en los niveles centralizado, desconcentrado y descentralizado y a los integrantes de los Ayuntamientos, Juntas y Comisarías Municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 90.
 
 El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 91.
 
 Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, interrumpiéndose el término prescriptorio; en el afirmativo, quedará el acusado, separado de su cargo y sujeto a la acción de los tribunales comunes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1189,15 +1165,11 @@ El primer Jurado declarará, a mayoría absoluta de votos, si el acusado es o no
 
 El Congreso o el Tribunal en Pleno, constituídos del modo prevenido en el Artículo 92, se erigirá como Jurado de Sentencia y, con audiencia del reo, del Procurador General de Justicia, del defensor y del acusador si lo hubiere, procederá a aplicar, a mayoría absoluta de votos, la pena que la Ley designe.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 95.
 
 Si los servidores públicos a que se refieren los artículos 89 y 90, fuesen acusados por delitos cometidos en el desempeño de algún cargo anterior a aquel en que ejerzan sus funciones, se procederá contra ellos en los términos de este Capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1211,23 +1183,17 @@ Se aplicarán sanciones administrativas a los servidores públicos por los actos
 
 Pronunciada una sentencia de responsabilidad por delitos oficiales no podrá concederse al reo la gracia del indulto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 97.
 
 La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 98.
 
 La Ley Sobre Responsabilidades Administrativas de los Servidores Públicos, determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señale la Ley, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1241,15 +1207,11 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones, pero si fuesen graves, los plazos de prescripción no serán inferiores a tres años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 100.
 
 En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1296,8 +1258,6 @@ IV.- Además de los requisitos anteriores, según el caso, se necesitarán los s
 a).- Ser originario del Municipio en que se haga la elección, con residencia en él cuando menos, de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
 
 b).- Ser nativo del Estado, con residencia de un año en el Municipio respectivo, inmediatamente anterior a la fecha de la elección;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1766,3 +1726,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE MAYO DE 1983.
 
 UNICO.- Estas reformas entrarán en vigor noventa días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 1985.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
