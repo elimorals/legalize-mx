@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1921-07-08"
+last_updated: "1923-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JULIO DE 1921.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE NOVIEMBRE DE 1923.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -570,17 +570,21 @@ III.- Estudiar, discutir y votar las iniciativas de ley que se presenten, y reso
 
 El período de sesiones ordinarias durará el tiempo necesario para tratar de todos los asuntos mencionados en el artículo anterior; pero no podrá prolongarse más que hasta el treinta y uno de diciembre del mismo año. Si las dos Cámaras no estuvieren de acuerdo para poner término a las sesiones antes de la fecha indicada, resolverá el Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+
 ###### Art. 67.
 
-El Congreso tendrá sesiones extraordinarias cada vez que el Presidente de la República lo convoque para ese objeto; pero en tal caso no podrá ocuparse más que del asunto o asuntos que el mismo Presidente sometiere a su conocimiento, los cuales se expresarán en la convocatoria respectiva. El Ejecutivo puede convocar a una sola Cámara a sesiones extraordinarias, cuando se trate de asunto exclusivo de ella.
+El Congreso o una sola de las Cámaras, cuando se trate de asunto exclusivo de ella, se reunirán en sesiones extraordinarias cada vez que los convoque para ese objeto la Comisión Permanente; pero en ambos casos sólo se ocuparán del asunto o asuntos que la propia Comisión sometiese a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
 
 ###### Art. 68.
 
 Las dos Cámaras residirán en un mismo lugar y no podrán trasladarse a otro sin que antes convengan en la traslación y en el tiempo y modo de verificarla, designando un mismo punto para la reunión de ambas. Pero si conviniendo las dos en la traslación, difieren en cuanto al tiempo, modo y lugar, el Ejecutivo terminará la diferencia, eligiendo uno de los dos extremos en cuestión. Ninguna Cámara podrá suspender sus sesiones por más de tres días, sin consentimiento de la otra.
 
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+
 ###### Art. 69.
 
-A la apertura de sesiones del Congreso, sean ordinarias o extraordinarias, asistirá el Presidente de la República y presentará un informe por escrito; en el primer caso, sobre el estado general que guarde la administración pública del País; y en el segundo, para exponer al Congreso o a la Cámara de que se trate, las razones o causas que hicieron necesaria su convocación, y el asunto o asuntos que ameriten una resolución perentoria.
+A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la República y presentará un informe por escrito, en el que manifieste el estado general que guarde la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión o de una sola de las Cámaras, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
 
 ###### Art. 70.
 
@@ -626,9 +630,11 @@ H.- La formación de las leyes o decretos puede comenzar indistintamente en cual
 
 I.- Las iniciativas de leyes o decretos se discutirán preferentemente en la Cámara en que se presenten, a menos que transcurra un mes desde que se pasen a la Comisión dictaminadora sin que ésta rinda dictamen, pues en tal caso el mismo proyecto de ley o decreto puede presentarse y discutirse en la otra Cámara.
 
-J.- El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
-Tampoco podrá hacerlas al decreto de convocatoria que expida la Comisión Permanente, en el caso del artículo 84.
+I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
+
+Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
 #### SECCION III.
 
@@ -814,7 +820,9 @@ II.- Recibir, en su caso, la protesta del Presidente de la República, de los mi
 
 III.- Dictaminar sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el inmediato período de sesiones sigan tramitándose.
 
-IV.- Convocar a sesiones extraordinarias, en el caso de delitos oficiales o del orden común cometidos por secretarios de Estado o ministros de la Suprema Corte, y delitos oficiales federales, cometidos por los gobernadores de los Estados, siempre que esté ya instruido el proceso por la Comisión del Gran Jurado, en cuyo caso no se tratará ningún negocio del Congreso, ni se prolongarán las sesiones por más tiempo que el indispensable para fallar.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+
+IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
 
 ### CAPITULO III.
 
@@ -858,7 +866,9 @@ Tampoco podrá ser reelecto Presidente para el período inmediato, el ciudadano 
 
 En caso de falta absoluta del Presidente de la República, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá en Colegio Electoral inmediatamente y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto, y por mayoría absoluta de votos, un Presidente; y el mismo Congreso expedirá la convocatoria a elecciones presidenciales, procurando que la fecha señalada para este caso, coincida en lo posible con la fecha de las próximas elecciones de Diputados y Senadores al Congreso de la Unión.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Presidente provisional, quien convocará a sesiones extraordinarias del Congreso, para que a su vez expida la convocatoria a elecciones presidenciales, en los mismos términos del artículo anterior.
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Presidente provisional y convocará a sesiones extraordinarias del Congreso, para que éste, a su vez, expida la convocatoria a elecciones presidenciales, en los mismos términos del artículo anterior.
 
 Cuando la falta del Presidente ocurriese en los dos últimos años del período respectivo, si el Congreso de la Unión, se encontrase en sesiones, elegirá al Presidente substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Presidente provisional y convocará al Congreso de la Unión a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la elección del Presidente substituto.
 
@@ -912,7 +922,9 @@ IX.- Conceder patentes de corso con sujeción a las bases fijadas por el Congres
 
 X.- Dirigir las negociaciones diplomáticas y celebrar tratados con las potencias extranjeras, sometiéndolos a la ratificación del Congreso Federal.
 
-XI.- Convocar al Congreso o alguna de las Cámaras a sesiones extraordinarias, cada vez que lo estime conveniente.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+
+XI.- Convocar al Congreso a sesiones extraordinarias, cuando lo acuerde la Comisión Permanente.
 
 XII.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
 
@@ -1507,5 +1519,9 @@ Al Ciudadano ..
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
 D.O.F. 8 DE JULIO DE 1921.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 24 DE NOVIEMBRE DE 1923.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
