@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1968-06-30"
+last_updated: "1971-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 1968.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 1971.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -513,11 +513,15 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, Jueces de Primera Instancia, Jurados, Jueces Menores, Jueces de Paz y demás funcionarios que designe la Ley Orgánica del Poder Judicial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
+
 ### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
 
 ###### ARTICULO 56.
 
-El Tribunal Superior de Justicia se compondrá de tres Magistrados Propietarios, un Supernumerario y dos Suplentes y funcionará en los términos que disponga la Ley. Las audiencias serán públicas, excepto aquellas en que la moral o el interés colectivo exijan que sean secretas. El Tribunal Superior de Justicia designará a uno de sus miembros como Presidente, durando en su cargo un año y pudiendo ser reelecto.
+El Tribunal Superior de Justicia se compondrá de siete Magistrados Propietarios y tres Suplentes, que serán nombrados por el Gobernador del Estado en los términos del Artículo 60 de esta Constitución y funcionará en los términos que disponga la Ley. Las audiencias serán públicas, excepto aquellas en que la moral o el interés colectivo exija que sean secretas. El Tribunal Superior de Justicia designará a uno de sus miembros como Presidente, el cual durará en su cargo un año, pudiendo ser reelecto.
 
 ###### ARTICULO 57.
 
@@ -537,11 +541,13 @@ IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, sa
 
 V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1956)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
 
 ###### ARTICULO 59.
 
-El Tribunal Superior de Justicia se renovará en su totalidad cada tres años, contados desde el día primero de noviembre de mil novecientos cincuenta y tres, pudiendo los que se encuentren en el cargo ser reelectos. Si por cualquier motivo no se hace el nombramiento o los designados no se presentan al desempeño de sus funciones, continuarán en su puesto las personas que lo formen hasta que tomen posesión los que deban sustituirlos.
+El Tribunal Superior de Justicia se renovará en su totalidad cada tres años contados desde el día primero de noviembre de los años en que se inicie el período Constitucional del Ejecutivo, pudiendo ser ratificados sus miembros parcial o totalmente, para el siguiente ejercicio. En caso de ratificación, no será necesaria la aprobación requerida del H. Congreso en los términos del Artículo 60 de esta Constitución. Si por cualquier motivo no se hace el nombramiento o los designados no se presentaren oportunamente al desempeño de sus funciones, continuarán en su cargo los Magistrados que lo forman hasta que tomen posesión los que deban substituirlos.
 
 ###### ARTICULO 60.
 
@@ -559,11 +565,15 @@ El Gobernador del Estado, antes de pedir al Congreso la destitución de un Magis
 
 El Congreso oirá en defensa al Magistrado para juzgar la falta que se le imputa y la justificación del pedimento del Ejecutivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
+
 ###### ARTICULO 63.
 
-El Magistrado Supernumerario tendrá el carácter de visitador de los Juzgados y suplirá en sus faltas temporales a los Magistrados Propietarios.
+Los Magistrados designados para substituir las faltas definitivas de los propietarios, durarán en su cargo el tiempo que falte para terminar el período constitucional en que fueren designados.
 
-Los Magistrados Suplentes cubrirán las faltas temporales de los propietarios en defecto del Supernumerario o por encontrarse éste supliendo a su vez a un propietario.
+Los Magistrados Suplentes cubrirán las faltas temporales de los propietarios, en la forma y términos que marque la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 1956)</small>
 
@@ -833,11 +843,11 @@ Los funcionarios que entren a ejercer su encargo después del día señalado por
 
 ###### ARTICULO 109.
 
-El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en los siguientes términos.
+El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en los siguientes términos:
 
 " Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
+Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente en su caso, en la siguiente forma:
 
 El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
 
@@ -893,7 +903,7 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
 VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
@@ -1037,8 +1047,18 @@ P.O. 30 DE JUNIO DE 1968.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Etado.
 
 ###### ARTICULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE ENERO DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Los Magistrados que sean designados para ocupar los cargos de nueva creación cesarán en sus funciones el día 31 de octubre de 1971, pero si los que deban substituirlos no se presentan oportunamente, aquéllos continuarán en ejercicio hasta que esto ocurra.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas entrarán en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
