@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1938-06-30"
+last_updated: "1940-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 1940.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -763,11 +763,13 @@ Las reservas técnicas constituídas al 31 de diciembre de cada año de acuerdo 
 
 El importe total de las reservas técnicas deberá invertirse precisamente en los siguientes bienes, créditos o valores:
 
-I.- Bonos o títulos emitidos o garantizados por el Gobierno Mexicano;
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE JUNIO DE 1938)</small>
 
 I.- Bonos o títulos emitidos o garantizados por el Gobierno Mexicano, u obligaciones emitidas por el Departamento del Distrito Federal en los términos establecidos en el artículo 86;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 14 DE FEBRERO DE 1940)</small>
+
+II.- Bonos Hipotecarios, Bonos de caja, aceptaciones, cédulas hipotecarias y obligaciones emitidos o garantizados, en su caso, por instituciones de crédito o auxiliares de concesión federal; así como los valores mobiliarios garantizados por el Fondo Nacional de Garantía.
 
 III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Secretaría de Hacienda por medio de acuerdos generales;
 
@@ -1382,5 +1384,9 @@ D.O.F. 3 DE JULIO DE 1937.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE JUNIO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE FEBRERO DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
