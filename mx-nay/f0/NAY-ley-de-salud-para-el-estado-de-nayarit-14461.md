@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "1994-04-30"
+last_updated: "2000-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -55,7 +55,9 @@ La presente ley es de orden público e interés social y tiene por objeto la pro
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-I.- El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+I.- El bienestar físico y mental de toda persona, para contribuir al ejercicio pleno de sus capacidades;
 
 II.- La procuración y el mejoramiento de la calidad de la vida humana;
 
@@ -67,21 +69,27 @@ V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz 
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y;
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
 ###### ARTICULO 3o.
 
 Son autoridades sanitarias estatales:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-II.- Los Servicios Coordinados de Salud Pública en el Estado, y
+I.- El Gobernador del Estado a través de la Secretaría de Salud;
+
+> <small>(REFORMADA P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+II.- Los Servicios de Salud de Nayarit; y
 
 III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 4o.
 
-En los términos de la Ley General de Salud y de la presente ley corresponde al Estado de Nayarit; por conducto de los Servicios Coordinados de Salud Pública;
+Corresponde a los Servicios de Salud de Nayarit:
 
 A) En materia de salubridad general;
 
@@ -113,7 +121,9 @@ XIII.- La prevención y el control de enfermedades transmisibles;
 
 XIV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-XV.- La prevención de la invalidez y rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XV.- La rehabilitación de los discapacitados;
 
 XVI.- La asistencia social;
 
@@ -121,7 +131,13 @@ XVII.- Participar con las autoridades federales en el desarrollo de los programa
 
 XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionado, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan;
 
-XIX.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XIX.- Prevención de la violencia familiar e intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XX.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local;
 
@@ -157,9 +173,17 @@ XV.- Transporte estatal y municipal;
 
 XVI.- Gasolinerías;
 
-XVII.- Prevención y control de la rabia en animales y seres humanos, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-XVIII.- Las demás materias que determine esta ley y las disposiciones legales aplicables.
+XVII.- Prevención y control de la rabia en animales;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XVIII.- Prevención de la violencia intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XIX.- Las demás materias que determine esta ley y las disposiciones legales aplicables.
 
 ## TITULO SEGUNDO
 
@@ -181,7 +205,9 @@ I.- Proporcionar servicios de salud en toda la población del Estado y mejorar l
 
 II.- Contribuir el desarrollo demográfico armónico del Estado;
 
-III.- Colaborar al bienestar social de la población del Estado de Nayarit mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+III.- Colaborar al bienestar de la población del Estado de Nayarit mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y discapacitados, para fomentar su protección y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -191,9 +217,11 @@ VI.- Impulsar, en el ámbito estatal un sistema racional de administración y de
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 7o.
 
-La coordinación del sistema estatal de salud estará a cargo de los Servicios Coordinados de Salud Pública, correspondiéndole lo siguiente:
+La Coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud y de los Servicios de Salud de Nayarit, correspondiéndole lo siguiente:
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de esta ley y demás disposiciones aplicables y de conformidad con las políticas del sistema nacional de salud, y con lo dispuesto por el Ejecutivo Estatal;
 
@@ -229,19 +257,23 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 8o.
 
-Los Servicios Coordinados de Salud Pública, promoverán la participación en el sistema estatal de salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+Los Servicios de Salud de Nayarit, promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 9o.
 
-La concertación de acciones entre los Servicios Coordinados de Salud Pública en el Estado y los integrantes de los sectores social y privado, se realizara mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre los Servicios de Salud de Nayarit y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los sectores social y privado;
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo los Servicios Coordinados de Salud Pública;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo los Servicios de Salud de Nayarit;
 
 III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de los Servicios Coordinados de Salud Pública; y
 
@@ -259,9 +291,11 @@ El gobierno del Estado, con la participación que corresponda al comité de plan
 
 ###### ARTICULO 12.
 
-La competencia entre el gobierno del estado y los municipios en materia de salubridad general, y de salubridad local, quedaran distribuidas conforme a lo siguiente:
+La competencia entre el Gobierno del Estado y los municipios en materia de salubridad general, y de salubridad local, quedarán distribuidas conforme a lo siguiente:
 
-A).- En materia de salubridad general corresponde al gobierno del Estado, por conducto de los Servicios Coordinados de Salud Pública:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+A).- En materia de salubridad general corresponde al Gobierno del Estado, a través de los Servicios de Salud de Nayarit:
 
 I.- Aplicar y vigilar el cumplimiento de las normas que emita la Secretaría de Salud del gobierno Federal;
 
@@ -297,7 +331,7 @@ VII.- Las demás que establezcan esta ley y otras disposiciones legales aplicabl
 
 ###### ARTICULO 13.
 
-El Ejecutivo Estatal podrá convenir con los ayuntamientos, con la asesoría de la Secretaría de Salud del Gobierno Federal, la desconcentración o descentralización, en su caso, por parte de estos, de la prestación de los servicios de salubridad general concurrente y de salubridad local, cuando su desarrollo económico y social lo haga necesario.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2000)
 
 ###### ARTICULO 14.
 
@@ -315,7 +349,7 @@ V.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos leg
 
 ###### ARTICULO 15.
 
-Se entenderá por norma el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por los Servicios Coordinados de Salud Pública en el Estado, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios políticos y estrategias.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2000)
 
 ###### ARTICULO 16.
 
@@ -357,11 +391,11 @@ El gobierno del Estado podrá celebrar con el Ejecutivo Federal, acuerdos de coo
 
 ###### ARTICULO 23.
 
-Para los efectos del artículo anterior, el gobierno del Estado y el Ejecutivo Federal podrán convenir la creación de un organismo público, de competencia coordinada entre el Estado y el Ejecutivo Federal, que se haga cargo de la prestación de los Servicios de Salud en el Estado. A este propósito el gobierno del Estado afectará los recursos humanos, físicos, financieros y materiales que sean necesarios para el correcto funcionamiento de la citada estructura administrativa.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2000)
 
 ###### ARTICULO 24.
 
-La administración del organismo público mencionado, en el artículo anterior, estará a cargo, en los términos que se convengan en el acuerdo de coordinación correspondiente, del gobierno del Estado. Dicho organismo tendrá a su cargo la aplicación, en el ámbito estatal, de la legislación sanitaria federal y estatal, de conformidad con las disposiciones legales aplicables.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2000)
 
 ## TITULO TERCERO. PRESTACION DE LOS SERVICIOS DE SALUD
 
@@ -385,13 +419,47 @@ III.- De asistencia social.
 
 Conforme a las prioridades del sistema estatal de salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+Se entiende por grupos vulnerables los integrados por las siguientes personas:
+
+I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+
+II.- Menores infractores, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+
+III.- Alcoholismo, farmacodependencia e individuos en condiciones de vagancia;
+
+IV.- Mujeres en periodo de gestación o lactancia;
+
+V.- Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
+
+VI.- Discapacitados;
+
+VII.- Indigentes;
+
+VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+
+IX.- Víctimas de la comisión de delitos en estado de abandono;
+
+X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+
+XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia;
+
+XII.- Personas afectadas por desastres;
+
+XIII.- Quien resulte afectado a través de la violencia intrafamiliar; y
+
+XIV.- Los jornaleros agrícolas expuestos a plaguicidas.
+
 ###### ARTICULO 28.
 
 Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 29.
 
-Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud preferente a:
+Para los efectos del derecho a la protección de la salud se consideran servicios básicos de salud preferentemente a:
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
@@ -413,7 +481,13 @@ IX.- La promoción del mejoramiento de la nutrición;
 
 X.- La asistencia social a los grupos más vulnerables, y;
 
-XI.- Lo demás que establezca esta ley o disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XI.- La atención de las víctimas de violencia intrafamiliar y en estado de abandono; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+XII.- Las demás que establezcan esta ley o disposiciones legales aplicables.
 
 ###### ARTICULO 30.
 
@@ -441,7 +515,9 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar diagnóstico temprano y proporcionar tratamiento oportuno, y;
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -465,7 +541,11 @@ Son servicios públicos a la población en general los que se presten en estable
 
 Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustaran a lo que disponga la Legislación Fiscal del Estado y el convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
 
-Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socio-económicas del usuario debiendo ser analizadas y autorizadas por la Junta de Gobierno de los Servicios de Salud de Nayarit.
+
+> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000.</small>
 
 Las cuotas de recuperación se fundarán en principios de solidaridad social y guardaran relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del gobierno del Estado.
 
@@ -489,9 +569,11 @@ El gobierno del Estado y los municipios podrán convenir con las instituciones f
 
 El gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 42.
 
-Los Servicios Coordinados de Salud Pública en el Estado coadyuvarán con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, así mismo estimularán su participación en el sistema estatal de salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando estás lo requieran.
+Los Servicios de Salud de Nayarit coadyuvarán con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, así mismo estimularán su participación en el sistema estatal de salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando estás lo requieran.
 
 ### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y LA PARTICIPACION DE LA COMUNIDAD
 
@@ -507,9 +589,11 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportuna y de cali
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 46.
 
-Los Servicios Coordinados de Salud Pública establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales privados, en el Estado.
+Los Servicios de Salud de Nayarit establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales privados, en el Estado.
 
 ###### ARTICULO 47.
 
@@ -545,9 +629,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 52.
 
-Los Servicios Coordinados de Salud Pública en el Estado, y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
+Los Servicios de Salud de Nayarit y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de maltrato infantil, de la violencia intrafamiliar, de enfermedades, accidentes y de rehabilitación de discapacitados.
 
 ###### ARTICULO 53.
 
@@ -573,7 +659,9 @@ I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
 II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y;
 
-III.- La promoción de la integración y del bienestar familiar.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+III.- La promoción de la integración y del bienestar familiar, fomentando la responsabilidad de los padres en el desarrollo físico e intelectual de hijos.
 
 ###### ARTICULO 57.
 
@@ -597,15 +685,23 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I.- Los programas para padres destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+I.- Los programas para padres destinados a promover su paternidad y la maternidad responsables; así como la atención materno-infantil;
 
 II.- Las actividades respectivas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y;
+IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y (sic);
 
-V.- Las demás que coadyuven a la salud materno-infantil.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+V.- Los programas de prevención de maltrato infantil y de la violencia intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+VI.- Las demás que coadyuven a la salud materno-infantil.
 
 ###### ARTICULO 61.
 
@@ -621,19 +717,25 @@ La planificación familiar tiene carácter prioritario. En sus actividades debe 
 
 Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que este la admita serán sancionados conforme a las disposiciones de esta ley, independientemente de la responsabilidad penal en que incurra.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+Quienes practiquen esterilización o cualquier otro método anticonceptivo sin la voluntad del o de la paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurra.
 
 ###### ARTICULO 63.
 
 Los servicios de planificación familiar comprenden:
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el consejo nacional de población;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y las estrategias que establezca el Consejo Nacional de Población, poniendo especial atención en aquellos programas destinados a evitar los embarazos precoces;
 
 II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
 III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población;
 
-IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la producción humana;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+IV.- El apoyo y fomento de la planificación familiar e investigación en materia de anticonceptivos, infertilidad y biología de la reproducción;
 
 V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar, y;
 
@@ -643,27 +745,39 @@ VI.- La recopilación, sistematización y actualización de la información nece
 
 Los Comités de Salud a que se refiere el Artículo 53 de esta ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales en el Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 65.
 
-El gobierno del Estado, coadyuvará con los Servicios Coordinados de Salud Pública, en las acciones del Programa Nacional de Planificación Familiar que formule del Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
+El Gobierno del Estado, coadyuvará con los Servicios de Salud de Nayarit, en las acciones del Programa Nacional de Planificación Familiar que formule del Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
 ### CAPITULO VII. SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 66.
 
-La prevención de las enfermedades mentales tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La prevención de las enfermedades mentales tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, sobre todo de aquellos desequilibrios de mujeres y menores provocados por la violencia intrafamiliar así como otros aspectos relacionados con la salud mental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 67.
 
-Para la promoción de la salud mental, los Servicios Coordinados de Salud Pública en el Estado, y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentará y apoyarán:
+Para la promoción de la salud mental, los Servicios de Salud de Nayarit, y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentará y apoyarán:
 
 I.- El desarrollo de actividades educativos, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la justicia;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, no deben causar alteraciones mentales o dependencias, y;
+III.- La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, no deben causar alteraciones mentales o dependencias, y (sic9;
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+IV.- La realización de programas para la prevención del maltrato infantil y de la violencia intrafamiliar; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+V.- Las demás acciones que indirecta (sic) o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTICULO 68.
 
@@ -679,13 +793,17 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 70.
 
-Los Servicios Coordinados de Salud Pública en el Estado, conforme a las normas básicas que establezca prestara atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+Los Servicios de Salud de Nayarit, conforme a las normas básicas que establezca prestara atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
 
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+Para tal efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
 ### CAPITULO I. PROFESIONALES TECNICOS Y AUXILIARES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
@@ -695,7 +813,7 @@ A estos efectos, se establecerá la coordinación necesaria entre las autoridade
 
 ###### ARTICULO 71.
 
-En el Estado el ejercicio de las profesiones, de las actividades técnicas y auxiliares de las especialidades para la salud, estará sujeto a:
+En el Estado, el ejercicio de las profesiones de las actividades técnicas y auxiliares de las especialidades, maestrías y doctorados, para la salud, estará sujeto a:
 
 I.- La Ley de Profesiones del Estado de Nayarit;
 
@@ -750,6 +868,8 @@ Para los efectos del párrafo anterior el gobierno del Estado, en coordinación 
 El gobierno del Estado y con la participación de las instituciones de educación superior elaboraran sus programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Nayarit, de conformidad con las disposiciones del Estado legales aplicables al ejercicio profesional.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 80.
 
@@ -807,9 +927,15 @@ V.- Al estudio de las técnicas y métodos que se recomiendan o empleen para la 
 
 VI.- A la producción nacional de insumos para la salud.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+En todo caso la investigación se llevará a cabo con absoluto respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 86.
 
-Los Servicios Coordinados de Salud Pública en el Estado, apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
+Los Servicios de Salud de Nayarit, apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
 
 ###### ARTICULO 87.
 
@@ -825,7 +951,9 @@ IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se 
 
 V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
 
-VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación, y;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación, y
 
 VII.- Las demás que establezcan esta ley y la correspondiente reglamentación.
 
@@ -845,15 +973,23 @@ INFORMACION PARA LA SALUD.
 
 ###### ARTICULO 90.
 
-Los Servicios Coordinados de Salud Pública, de conformidad con la Ley de información estadística y geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el Estado y evolución de la salud pública de la entidad.
+Los Servicios de Nayarit, de conformidad con la Ley de Información, Estadística y Geografía y con los criterios de carácter general que emita el Ejecutivo Federal captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el estado y evolución de la salud pública de la entidad.
 
-La información se referirá fundamentalmente, a los siguientes aspectos:
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-I.- Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+La información se referirá fundamentalmente a los siguientes aspectos:
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+I.- Estadísticas de natalidad, mortalidad, morbolidad y discapacidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población y su utilización.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+Dicha información deberá incluir datos desagregados por edad y sexo, y todos aquellos que lleven a atender debidamente a los grupos vulnerables a que se refiere el artículo 27 de esta Ley.
 
 ###### ARTICULO 91.
 
@@ -871,7 +1007,9 @@ La promoción de la salud tiene por objeto crear, conservar y mejorar las condic
 
 La promoción de la salud comprende:
 
-I.- Educación para salud;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+I.- Orientación y educación para la salud;
 
 II.- Nutrición;
 
@@ -891,13 +1029,25 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materias de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos en embarazos tempranos y de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidad y detección oportuna de enfermedades; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+IV.- Prevenir a las personas, sobre todo a los jefes de familia, hombres o mujeres respecto a los efectos negativos que sobre la salud tiene la violencia intrafamiliar y el maltrato a los niños.
 
 ###### ARTICULO 95.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total en la población
+Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total en la población.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+La educación ambiental, se integrará a los programas de enseñanza preescolar, escolar, media superior y superior. Estableciéndose además programas de higiene del deporte y recreación.
 
 ### CAPITULO V. SALUD OCUPACIONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 96.
 
@@ -917,17 +1067,21 @@ Las Autoridades Sanitarias del Estado establecerán las normas, tomarán las med
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 100.
 
-Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios que establezcan la Secretaría de Salud del Gobierno Federal, mediante las normas ecológicas que emitan las autoridades federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales; así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinen para uso o consumo humano.
+Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios que establezcan los Servicios de Salud de Nayarit, mediante las normas ecológicas que emitan las autoridades federales competentes, con el propósito de fijar las condiciones particulares de descarga, el tratamiento y uso de aguas residuales; así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinen para uso o consumo humano.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 101.
 
-Los Servicios Coordinados de Salud Pública en el Estado, en coordinación con las Autoridades Federales y Municipales competentes y con la Autoridad Estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
+Los Servicios de Salud de Nayarit, en coordinación con las Autoridades Federales y Municipales competentes y con la Autoridad Estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
 ###### ARTICULO 102.
 
-Corresponde a los Servicios Coordinados de Salud Pública del Estado:
+Corresponde a los Servicios de Salud en Nayarit:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
@@ -935,19 +1089,27 @@ II.- Vigilar y certificar la calidad del agua para uso y consumo humano;
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 103.
 
-Los Servicios Coordinados de Salud Pública en el Estado, se coordinarán con las dependencias federales, para la prestación de lo (sic) servicios a que se refiere este capítulo.
+Los Servicios de Salud en Nayarit, se coordinarán con las dependencias federales, para la prestación de lo (sic) servicios a que se refiere este capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 104.
 
-Los Servicios Coordinados de Salud Pública en el Estado, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir de conformidad con lo que establezcan los reglamentos respectivos.
+Los Servicios de Salud de Nayarit, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir de conformidad con lo que establezcan los reglamentos respectivos.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 105.
 
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre
+El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá la investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características de las personas.
+
+Para estos efectos, se vigilará que en todos los centros de trabajo, fábricas, escuelas, centros comerciales e instituciones, etc., cuenten con la estructura y funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo.
 
 ### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
@@ -963,7 +1125,9 @@ I.- Coadyuvará en la aplicación de las normas para la prevención y el control
 
 II.- Apoyar en el Estado el sistema nacional de vigilancia epidemiológica, de conformidad con la Ley General de Salud, esta Ley y las demás disposiciones que al efecto se expidan, y
 
-III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud del Gobierno Federal para la prevención y control de enfermedades y accidentes.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+III.- Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud para la prevención de accidentes, violencia intrafamiliar y enfermedades así como para el control de estas últimas; y (sic)
 
 ### CAPITULO UNICO
 
@@ -1105,6 +1269,8 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
+> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 124.
 
 Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles
@@ -1129,9 +1295,13 @@ Para la mayor eficacia de las acciones a que se refiere este artículo, se crear
 
 Dicho consejo se coordinará con el consejo nacional para la prevención de accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE DISCAPACITADOS
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 126.
 
@@ -1141,17 +1311,25 @@ Para los efectos de esta ley, se entiende por asistencia social el conjunto de a
 
 Son actividades básicas de asistencia social:
 
-I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos.
+I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+II.- La atención en establecimientos especializados de menores y ancianos en estado de abandono o desamparo, de discapacitados sin recursos y de mujeres maltratadas;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+V.- La prestación de servicios de asistencia jurídica de orientación social especialmente a madres de familia, menores, ancianos, discapacitados e incapaces sin recursos;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social, de la perspectiva de género;
 
 VII.- La promoción de la participación consciente y organizada de la población, con carencias en las acciones de asistencia y desarrollo social, que se llevará a cabo para su propio beneficio;
 
@@ -1163,15 +1341,17 @@ IX.- La prestación de servicios funerarios.
 
 Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado, promoverá la canalización de recursos y de apoyo técnico. Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 129.
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Los menores, los adultos mayores y las madres de familia en estado de desamparo, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 130.
 
-Los integrantes del sistema estatal de salud deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Así mismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física y mental o el normal desarrollo psico-somático de los individuos.
-
-En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores y adultos mayores sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física y mental o el normal desarrollo psicosexual y psicosomático de las personas.
 
 ###### ARTICULO 131.
 
@@ -1179,9 +1359,11 @@ El gobierno del Estado contará con un organismo que se denominará sistema para
 
 Las atribuciones y funciones se regirán por las disposiciones legales que para tal efecto se expidan.
 
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 132.
 
-El gobierno del Estado y los municipios promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niños desprotegidos y ancianos desamparados.
+El Gobierno del Estado y los Municipios promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niños desprotegidos, adultos mayores desamparados y víctimas de la violencia intrafamiliar.
 
 ###### ARTICULO 133.
 
@@ -1225,33 +1407,37 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaboraran para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 143.
 
-Los Servicios Coordinados de Salud Pública en el Estado, en coordinación con otras instituciones públicas, promoverá en los lugares en que se presten servicios públicos se dispongan facilidades para las personas inválidas.
+Los Servicios de Salud de Nayarit, en coordinación con otras instituciones públicas, promoverá en los lugares en que se presten servicios públicos se dispongan facilidades para las personas inválidas.
 
 ###### ARTICULO 144.
 
-El patrimonio de la beneficencia pública será administrada por el Sistema para el Desarrollo Integral de la Familia en el Estado de Nayarit; al respecto, a este organismo corresponderá entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y de distribuir los recursos que a la misma se le destinen.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2000)
 
 ###### ARTICULO 145.
 
 Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 146.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende:
+La atención en materia de prevención de discapacidad y rehabilitación de discapacitados comprende:
 
-I.- La investigación de las causas de la invalidez y de los factores que lo condicionan;
+I.- La investigación de las causas de la discapacidad y de los factores que los condicionan;
 
-II.- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la invalidez;
+II.- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
 
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidad;
 
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con algún inválido promoviendo al efecto la solidaridad social;
+IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con algún discapacitado promoviendo al efecto la solidaridad social;
 
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+V.- La atención integral de los discapacitados incluyendo la adaptación de las prótesis, órtesis y ayuda funcional que requieran;
 
-VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos y,
+VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados; y
 
 VII.- La promoción de la educación y capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -1259,17 +1445,31 @@ VII.- La promoción de la educación y capacitación para el trabajo, así como 
 
 Los servicios de rehabilitación que proporcionen los establecimientos del sector salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el Artículo 131 de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 148.
 
-El gobierno del Estado, a través del organismo a que se refiere el Artículo 131 de esta Ley y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicología, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, ortesis y ayudas funcionales.
+El Gobierno del Estado a través del organismo a que se refiere el artículo 131 de esta Ley y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad; así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 149.
 
-El organismo del gobierno estatal previsto en el Artículo 131 de esta Ley, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+El organismo del gobierno estatal previsto en el artículo 131 de esta ley, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO. PROGRAMAS DE INTEGRACION FAMILIAR CONTRA CONDUCTAS DAÑINAS
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+ARTICULO 155 BIS.- El Gobierno del Estado, a través de los Servicios de Salud de Nayarit, y los Municipios coordinarán la ejecución de medidas contra la violencia intrafamiliar con el fin de:
+
+I.- Capacitar a sus servidores públicos para tratar a víctimas de dicha violencia; y
+
+II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 150.
 
@@ -1293,15 +1493,19 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 152.
 
-El gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el estado del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades de salud para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimiento originados por el tabaquismo, y
 
 II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la prohibición de fumar en espacios cerrados de edificios públicos.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+Para llevar a cabo dicho programa se implementarán a la brevedad las disposiciones reglamentarias correspondientes.
 
 ###### ARTICULO 153.
 
@@ -1311,11 +1515,11 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
 
 ###### ARTICULO 154.
 
-El gobierno del Estado coadyuvará con los servicios coordinados de salud pública en el Estado y asistencia en la ejecución, en el territorio del Estado de Nayarit, del programa contra la farmacodependencia, a través de las siguientes acciones:
+El Gobierno por conducto de los Servicios de Salud de Nayarit, llevará a efecto un programa contra la farmacodependencia, a través de las siguientes acciones:
 
 I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
 
@@ -1337,25 +1541,33 @@ IV.- Promoverán y llevarán a cabo campanas (sic) permanentes de información y
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el gobierno estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en lo (sic) términos de esta Ley.
 
-## TITULO DECIMO PRIMERO. SALUBRIDAD LOCAL
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+## TITULO DECIMO PRIMERO. CONDUCTAS DAÑINAS A LA SALUD
+
+> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+### CAPITULO III. DE LAS CONSTRUCCIONES
+
+## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
 ### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
-## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICADOS
-
-### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 156.
 
 Compete al gobierno del Estado y a los municipios, en el ámbito de sus respectivas competencias, en los términos de esta ley, de las demás disposiciones legales aplicables y de los convenios que celebren en la materia, el control sanitario de las materias a que se refiere el Artículo 4o. Apartado B de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 157.
 
-Para los efectos de este título, se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce los servicios coordinados de salud pública en el Estado con la participación de los productores, comercializadoras de consumidores, en base a lo que establecen las normas y otras disposiciones aplicables.
+Para los efectos de este título, se entiende por control sanitario, el conjunto de acciones de orientaciones, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejercen los Servicios de Salud en Nayarit con la participación de los productores, comercializadoras de consumidores, en base a lo que establecen las normas y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 158.
 
-Los Servicios Coordinados de Salud Pública en el Estado, emitirá las normas a que quedara sujeto el control sanitario de las materias de salubridad local.
+Los Servicios de Salud de Nayarit, emitirá las normas a que quedara sujeto el control sanitario de las materias de salubridad local.
 
 ###### ARTICULO 159.
 
@@ -1409,13 +1621,15 @@ C) Procesos utilizados y línea o líneas de producto.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos, o la fabricación de nuevas líneas de productos deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas que al efecto se expidan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 161.
 
-Los Servicios Coordinados de Salud Pública en el Estado, publicará en el periódico oficial órgano de gobierno del Estado, las normas en materia de salubridad local que se expidan y en caso de ser necesario las resoluciones que dicte sobre otorgamiento y revocación de las autorizaciones sanitarias, así como la notificaciones de las resoluciones administrativas que dispone esta Ley y en su caso de que subsistan las autorizaciones sanitarias en materia local.
+Los Servicios de Nayarit, publicará en el periódico oficial órgano de gobierno del Estado, las normas en materia de salubridad local que se expidan y en caso de ser necesario las resoluciones que dicte sobre otorgamiento y revocación de las autorizaciones sanitarias, así como la notificaciones de las resoluciones administrativas que dispone esta Ley y en su caso de que subsistan las autorizaciones sanitarias en materia local.
 
 Las notificaciones que conforme a esta Ley deban publicarse surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 162.
 
@@ -1433,7 +1647,7 @@ La autoridad sanitaria competente, verificará que los mercados y centros de aba
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abastos estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 165.
 
@@ -1471,7 +1685,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 174.
 
@@ -1503,7 +1717,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas que dicte la Secretaría de Salud del gobierno federal.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 180.
 
@@ -1543,7 +1757,9 @@ El gobierno del Estado, por conducto de sus municipios proveerá de depósitos d
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por la Ley, otras disposiciones legales aplicables a las normas correspondientes.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. PROSTITUCION
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 186.
 
@@ -1579,7 +1795,7 @@ Las normas correspondientes, establecerá los requisitos sanitarios y medidas de
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitarias y municipales, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 194.
 
@@ -1619,7 +1835,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberá ser es
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 203.
 
@@ -1643,13 +1859,11 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el Artículo 209 de esta ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO XIII
-
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 206.
 
-Para los efectos de esta ley se entiende por prostitución, la actividad que realizan las personas utilizando sus funciones sexuales como medio de vida.
+Para los efectos de esta ley se entiende por prostitución la práctica de la actividad sexual ejercida a cambio de una remuneración en dinero o en especie.
 
 ###### ARTICULO 207.
 
@@ -1675,7 +1889,9 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES.
 
 ###### ARTICULO 213.
 
@@ -1685,9 +1901,11 @@ Para los efectos de ley, se entiende por reclusorio o centro de readaptación so
 
 Los reclusorios estarán sujetos al control sanitario del gobierno del Estado, de conformidad con las disposiciones que se señalan en esta ley y demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 215.
 
-Los reclusorios o centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas correspondientes, con un departamento de baños de regadera y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos y que no sea requerido el traslado de estos a un hospital.
+Los reclusorios o centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas correspondientes, con baños de regadera y un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos y que no sea requerido el traslado de éstos a un hospital.
 
 ###### ARTICULO 216.
 
@@ -1695,7 +1913,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible; proceder a adoptar las medidas de seguridad sanitaria que procedan, así como observar lo dispuesto por el Artículo 108 de esta ley.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 217.
 
@@ -1705,11 +1923,13 @@ Para los efectos de esta ley, se entiende por baño público, el establecimiento
 
 Para abrir al servicio público estos establecimientos, deberán sujetarse a las disposiciones reglamentarias y las normas correspondientes
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 219.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas en materia de salubridad local correspondientes que dicten los Servicios Coordinados de Salud Pública en el Estado.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas en materia de salubridad local correspondientes que dicten los Servicios de Salud de Nayarit.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 220.
 
@@ -1723,7 +1943,7 @@ La autoridad sanitaria municipal, podrá en cualquier momento realizar la verifi
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 220 de esta ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 223.
 
@@ -1733,7 +1953,7 @@ Para los efectos de esta ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 223 deberán apegarse a lo dispuesto por esta ley, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 225.
 
@@ -1749,7 +1969,7 @@ III.- Lavadero Público, el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitarias de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTICULO 227.
 
@@ -1759,7 +1979,7 @@ Para los efectos de esta ley, se entiende por establecimientos para el hospedaje
 
 La autoridad municipal, realizará la verificación sanitaria que conforme con esta ley y otras disposiciones legales aplicables que corresponda.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 229.
 
@@ -1769,7 +1989,7 @@ Para los efectos de esta ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más municipios del Estado de Nayarit, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones, reglamentarias aplicables y las normas que para tal efecto se emitan
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 231.
 
@@ -1779,7 +1999,7 @@ Para los efectos de esta Ley, se entiende por gasolinerías, el establecimiento 
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas correspondientes
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 233.
 
@@ -1813,35 +2033,51 @@ Los propietarios de los animales a que se refiere el artículo anterior, estará
 
 Las autoridades sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-## TITULO DECIMO TERCERO. VIGILANCIA SANITARIA
-
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 237.
 
 La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria del Estado, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determinen esta Ley y demás disposiciones generales aplicables.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias o permisos
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+Las autorizaciones sanitarias tendrán el carácter de licencias, permisos y avisos de funcionamiento.
 
 ###### ARTICULO 238.
 
 Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 239.
 
-Las autoridades sanitarias del Estado expedirán las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en sus casos, los derechos que establezca la Legislación fiscal aplicable.
+Las autoridades sanitarias del Estado, expedirán las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+ARTICULO 239 BIS.- Las autorizaciones sanitarias expedidas por la Secretaría de Salud o los Servicios de Salud de Nayarit por tiempo determinado, podrán prorrogarse de conformidad con las disposiciones generales aplicables.
+
+La solicitud correspondiente deberá presentarse a las autoridades sanitarias con atención al vencimiento de la autorización.
+
+Sólo procederá la prórroga cuando sigan cumpliendo los requisitos que señale esta ley, y en las demás disposiciones aplicables y previo pago de los derechos correspondientes.
 
 ###### ARTICULO 240.
 
 Los establecimientos que prestan servicios de Asistencia Social, no requerirán para su funcionamiento de autorización sanitaria, y serán sujetos del control y vigilancia sanitaria, así como de los requisitos que establezcan las disposiciones reglamentarias y las normas que se expidan.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 241.
 
 Los obligados a tener licencia sanitaria deberán exhibirla en lugar visible del establecimiento respectivo.
-
-La autoridad sanitaria competente podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
 ###### ARTICULO 242.
 
@@ -1851,7 +2087,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación fiscal y los convenios de coordinación que celebren en la materia, el gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 244.
 
@@ -1911,7 +2147,9 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 252.
 
@@ -1933,9 +2171,11 @@ IV.- Los demás que determine la Ley General de Salud.
 
 El certificado médico prenupcial será requerido por las autoridades del registro civil a quienes pretendan contraer matrimonios con las excepciones que establezcan las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 255.
 
-Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por los Servicios Coordinados de Salud Pública.
+Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud de Nayarit.
 
 ###### ARTICULO 256.
 
@@ -1943,13 +2183,17 @@ Los certificados a que se refiere este Título, se extenderán en los modelos ap
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-## TITULO DECIMO CUARTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-### CAPITULO V. PRESCRIPCION
+## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 257.
 
-Corresponde a los Servicios Coordinados de Salud Pública en el Estado y a los ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
+Corresponde a la Secretaría de Salud por conducto de los Servicios de Salud de Nayarit y a los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta ley y demás disposiciones reglamentarias que se dicten con base en ella.
 
 ###### ARTICULO 258.
 
@@ -2039,6 +2283,12 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, solo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
+
+### CAPITULO V. PRESCRIPCION
+
 ###### ARTICULO 269.
 
 Se consideran medidas de seguridad, las disposiciones, que dicte la autoridad sanitaria competente y los Ayuntamientos en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población, las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso correspondieren.
@@ -2103,15 +2353,19 @@ III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 El Gobierno del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 277.
 
-Los servicios coordinados de salud pública en el Estado y los Municipios, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando estos constituyan un peligro grave para la salud de las personas.
+Los Servicios de Salud de Nayarit y los Municipios, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando estos constituyan un peligro grave para la salud de las personas.
 
 En todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 278.
 
-Los Servicios Coordinados de Salud Pública en el Estado y los Ayuntamientos en el ámbito de sus respectivas competencias podrán ordenar inmediata suspensión de trabajos o servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
+Los Servicios de Salud de Nayarit y los Ayuntamientos en el ámbito de sus respectivas competencias podrán ordenar inmediata suspensión de trabajos o servicios o la prohibición de actos de uso, cuando de continuar aquellos, se ponga en peligro la salud de las personas.
 
 ###### ARTICULO 279.
 
@@ -2119,9 +2373,11 @@ La suspensión de trabajos o servicios será temporal, podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 280.
 
-El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables, los Servicios Coordinados de Salud Pública en el Estado y los Municipios podrán retenerlos o dejarlos en depósito hasta en tanto se determine previo dictamen, su destino.
+El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que establezcan en las disposiciones legales aplicables, los Servicios de Salud de Nayarit y los Municipios podrán retenerlos o dejarlos en depósito hasta en tanto se determine previo dictamen, su destino.
 
 Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramiten el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realiza el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
 
@@ -2217,9 +2473,11 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 ###### ARTICULO 294.
 
-Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte del Gobierno del Estado, se ejecutarán a los siguientes criterios:
+Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte de la Secretaría de Salud del Estado y por conducto de los Servicios de Salud, se ejecutarán a los siguientes criterios:
 
-I.- Se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos mexicanos y de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
+I.- Se fundará y motivará en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Se tomarán en cuenta las necesidades sociales y estatales y en general, los derechos e intereses de la sociedad;
 
@@ -2255,19 +2513,21 @@ X.- Jerarquía; y
 
 XI.- Buena fe.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 296.
 
-Los servicios coordinados de salud pública en el Estado y los Municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 266 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieran encontrado en los establecimientos a que se refiere la fracción XVIII del Artículo 4 apartado "A" así como los establecimientos y servicios a que se refiere el apartado "B" de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado por conducto de los Servicios de Salud y los Municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 265 de esta Ley podrán citar (sic) las medidas para corregir las irregularidades que se hubieran encontrado en los establecimientos a que se refiere la fracción XVIII, Apartado "A", del Artículo 4, así como los establecimientos y servicios que se enumeran en las diversas fracciones del Apartado "B" de dicho precepto, notificándolas por escrito y en forma personal al interesado y dándole un plazo de treinta días para su corrección.
 
 ###### ARTICULO 297.
 
 Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 298.
 
-Derivado de las irregularidades sanitarias que reporte el acta o informe de verificación, la autoridad sanitaria competente citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco ni mayor de treinta días, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta o informe de verificación según el caso.
-
-Tratándose del informe de verificación la autoridad sanitaria competente deberá acompañar al citatorio invariablemente copia de aquel.
+Derivado de las irregularidades sanitarias que reporte el acta o informe de verificación, la autoridad sanitaria competente notificará personalmente al interesado dándole a conocer que cuenta con un plazo de cinco días hábiles contados a partir del día siguiente de su notificación, para que manifieste por escrito lo que a su derecho convenga y ofrezca las pruebas que estima procedentes en relación a los hechos asentados en el acta o informe de verificación según sea el caso.
 
 ###### ARTICULO 299.
 
@@ -2291,21 +2551,25 @@ Cuando el contenido de un acta de verificación se desprenda la posible comisió
 
 ###### ARTICULO 304.
 
-Contra actos y resoluciones que dicten las autoridades sanitarias del Estado que con motivo de la aplicación de esta ley dé fin a una instancia o resuelva en un expediente, los interesados podrán interponer el Recurso de Inconformidad.
+Contra actos y resoluciones que dicten las autoridades sanitarias del Estado y de los Municipios que con motivo de la aplicación de esta ley dé fin a una instancia o resuelva en definitiva un expediente, los interesados podrán interponer el Recurso de Inconformidad.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 305.
 
-El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquel en que se hubiere notificado la resolución o acto a que se recurre.
+El plazo para interponer el recurso de inconformidad será de cinco días hábiles, contados a partir del día siguiente a aquél en que se hubiere notificado la resolución o acto a que se recurre.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 306.
 
-El recurso se interpondrá ante la unidad administrativa que hubiere dictado la resolución o acto combatido, directamente o por correo certificado con acuse de recibo. En este último caso, se tendrá como fecha de presentación la del día de su depósito en la oficina de correos.
+El recurso se interpondrá ante la unidad administrativa que hubiere dictado la resolución o acto combatido.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 307.
 
-En el escrito se precisará el nombre y domicilio de quien promueva, los hechos objetos del recurso, la fecha en que, bajo protesta de decir verdad, manifiesta el recurrente que tuvo conocimiento de la resolución o acto impugnado, los agravios que a juicio del recurrente, le cause la resolución o acto impugnado, la mención de la autoridad que haya dictado la resolución, ordenando o ejecutando el acto y el ofrecimiento de las pruebas que el inconforme se proponga rendir.
-
-Al escrito deberán acompañarse los siguientes documentos:
+En el escrito se precisará el nombre y domicilio de quien promueva los hechos objetos del recurso, la fecha en que, bajo protesta de decir verdad, manifiesta el recurrente, que tuvo conocimiento de la resolución, o acto impugnado la mención de la autoridad que dicta la resolución, ordenando o ejecutando el acto, ordenando el desahogo de las pruebas que por causa no imputable al infractor no hayan podido efectuarse ante dicha autoridad o sean supervenientes además de señalar domicilio para recibir notificaciones, en caso contrario de practicarán las mismas aún las de carácter personal por conducto de lista o cédula que se fije en los estrados de la Secretaría.
 
 I.- Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocido con anterioridad por la autoridad sanitaria competente, en la instancia o expediente que concluyó con la resolución impugnada;
 
@@ -2313,27 +2577,33 @@ II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relació
 
 III.- Original de la resolución impugnada, en su caso.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 308.
 
-En la tramitación del recurso se admitirá toda clase de medios probatorios, excepto la confesional.
+En la substanciación del recurso sólo procederán las pruebas que se hayan ofrecido en el expediente que concluyó con la resolución o acto impugnado y las supervenientes; excepto la confesional.
+
+La audiencia de desahogo de pruebas se celebrará concurran o no las partes, testigos y peritos siempre que hayan sido notificados debidamente.
+
+Celebrada la audiencia de desahogo de pruebas la autoridad sanitaria resolverá el recurso de inconformidad dentro de 5 días hábiles posteriores a la celebración de la audiencia.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 309.
 
-Al recibir el recurso, la unidad respectiva verificará si este es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de cinco días hábiles.
+Al recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso proceder a su desechamiento.
 
-En el caso Artículo que la unidad citada considere, previo estudio de los antecedentes respectivos, que proceden su desechamiento, emitirán opinión técnica en tal sentido.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 310.
 
-En la substanciación del Recurso, solo procederán las pruebas que se hayan ofrecido en la instancia o expediente que concluyó con la resolución o acto impugnado y las supervivientes.
+Las pruebas ofrecidas que procedan se admitirán por el área competente que deben continuar el trámite del recurso y para su desahogo, en su caso, se dispondrá de un término de 30 días hábiles, contados a partir de la fecha en que hayan sido admitidas.
 
-Las pruebas ofrecidas que procedan se admitirán por el área competente que deban continuar el trámite del recurso y para su desahogo, en su caso, se dispondrá de un término de treinta días hábiles, contados a partir de la fecha en que se hayan sido admitidas.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 311.
 
-En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles contados a partir del auto admisorio, y de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que debe continuar el trámite del recurso.
-
-El titular del Poder Ejecutivo en su caso los ayuntamientos, resolverán los recursos que se interpongan con base en esta ley, esta facultad podrá ser delegada en acuerdo que se publique en el periódico oficial órgano del gobierno del Estado.
+En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que debe continuar el trámite del recurso.
 
 ###### ARTICULO 312.
 
@@ -2434,3 +2704,9 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2000
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
