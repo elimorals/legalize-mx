@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1995-04-27"
+last_updated: "1997-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1997.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -175,9 +175,17 @@ Los partidos políticos tendrán derecho a participar en las elecciones estatale
 
 En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con los elementos necesarios para la consecución de sus fines.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 1997)</small>
 
-Los partidos políticos tendrán derecho al uso en forma permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
+La ley garantizará que, de acuerdo con las disponibilidades presupuestales, los partidos políticos reciban, en forma equitativa, financiamiento público para su sostenimiento y que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención de sufragio universal.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 1997)</small>
+
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1997)</small>
+
+Los partidos políticos tendrán derecho al uso en forma equitativa y permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
@@ -2309,7 +2317,7 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
 
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
@@ -2410,6 +2418,10 @@ SEXTO.- Los informes a cargo del Presidente del Supremo Tribunal de Justicia y d
 SEPTIMO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos del Estado para los efectos del artículo 164 fracción IV de la Constitución Política del Estado.
 
 OCTAVO.- Se derogan todas las disposiciones normativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 1997.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
