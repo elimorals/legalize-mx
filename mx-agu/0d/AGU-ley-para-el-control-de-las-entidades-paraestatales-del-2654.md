@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "1989-03-26"
+last_updated: "1992-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -305,23 +305,31 @@ El programa institucional constituye la asunción de compromisos en términos de
 
 Los presupuestos de las entidades se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 34.
 
-En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca la Tesorería General del Estado. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca la Secretaría de Finanzas. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 35.
 
 La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos.
 
-Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Tesorería General del Estado, en los términos que se fijen en los presupuestos de egresos anuales, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas, en los términos que se fijen en los presupuestos de egresos anuales, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 36.
 
-Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Tesorería General del Estado y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 37.
 
-El Director de la entidad paraestatal someterá el programa financiero para su autorización al Organo de Gobierno respectivo con la salvedad a que se refiere la fracción II del Artículo 41 de esta Ley; una vez aprobado remitirá a la Tesorería General del Estado la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
+El Director de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del Artículo 41 de esta Ley; una vez aprobado remitirá a la Secretaría de Finanzas la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
 
 ###### ARTICULO 38.
 
@@ -457,9 +465,11 @@ En aquellas empresas en que el Poder Ejecutivo participe con la suscripción del
 
 El Ejecutivo del Estado, por conducto de la Contraloría General, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 51.
 
-La enajenación de los títulos representativos del capital social propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Tesorería General del Estado. La Contraloría vigilará el debido cumplimiento de esta disposición.
+La enajenación de los títulos representativos del capital social propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Finanzas. La Contraloría vigilará el debido cumplimiento de esta disposición.
 
 ## TRANSITORIOS
 
@@ -528,5 +538,9 @@ Lic. Héctor Valdivia Carreón.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE MARZO DE 1989.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
