@@ -4,7 +4,7 @@ identifier: "FED-ley-de-pesca-97"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-25"
-last_updated: "2000-11-30"
+last_updated: "2001-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-23"
 
 LEY DE PESCA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 25 de junio de 1992.
 
@@ -143,7 +143,9 @@ La Secretaría de Pesca podrá otorgar permisos para realizar la pesca de foment
 
 Los permisos para la pesca deportivo-recreativa se expedirán a personas físicas nacionales o extranjeras.
 
-Se destinan exclusivamente a la pesca deportivo-recreativa, las especies que determine el Reglamento, dentro de una franja de 50 millas náuticas, contadas a partir de la línea de base desde la cual se mide el mar territorial.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 2001)</small>
+
+Las especies denominadas marlin, pez vela, pez espada, sábalo o chiro, pez gallo y dorado, quedan destinadas de manera exclusiva para la pesca deportivo-recreativa, dentro de una franja de 50 millas náuticas, contadas a partir de la línea de base desde la cual se mide el mar territorial.
 
 No podrán realizarse actividades de pesca distintas a las de investigación sobre las especies destinadas a la pesca deportivo-recreativa en las áreas de refugio que para éstas pudiera establecer la Secretaría de Pesca, en los términos de la fracción IV del artículo 3o. de la presente ley.
 
@@ -408,3 +410,11 @@ Cuando en la Ley de Pesca se mencione a la desaparecida Secretaría de Pesca, de
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 8 DE ENERO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
+
+TERCERO.- En tanto concluye su vigencia cualquier permiso expedido en sentido contrario a esta reforma, la autoridad administrativa vigilará el exacto cumplimiento de las obligaciones contraídas por los permisionarios.
