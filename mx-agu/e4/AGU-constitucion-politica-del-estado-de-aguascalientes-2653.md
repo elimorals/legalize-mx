@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1994-02-20"
+last_updated: "1994-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -179,17 +179,19 @@ Del Poder Legislativo.
 
 El Poder Legislativo se deposita en una corporación que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 16.
 
-El Congreso se integrará con Representantes del Estado, electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente.
+El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 1992)</small>
+Por cada Diputado Propietario se eligirá (sic) un Suplente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 17.
 
-La Cámara de Diputados estará integrada por 18 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al municipio de Aguascalientes y uno por cada uno de los municipios restantes; y hasta siete diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación territorial es el Estado.
+El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes y hasta siete Diputados que serán electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -213,13 +215,17 @@ c).- El partido político que cumpla con los incisos anteriores tendrá derecho 
 
 La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
-d).- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la mismo (sic) jerarquía e igualdad de derechos y obligaciones.
+d)- Los Diputados por mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1994)</small>
 
-El Congreso del Estado, constituido en Colegio Electoral, calificará la elección de los presuntos Diputados de la Legislatura entrante.
+Sus obligaciones consisten en el ejercicio de sus funciones en el Congreso del Estado, Diputación Permanente, Colegio Electoral y Gran Jurado.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+
+El Congreso del Estado constituido en Colegio Electoral, tendrá como función la de calificar la elección de los presuntos Diputados de la Legislatura entrante, Gobernador del Estado y Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -271,11 +277,9 @@ I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
 II.- Tener veintiún años cumplidos el día de la elección;
 
-III.- (DEROGADA, P.O. 24 DE FEBRERO DE 1991)
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
-
-IV.- Ser originario del Estado o tener una residencia en él no menor de dos años inmediatamente anteriores al día de la elección.
+III.- Haber nacido en el Estado o tener una residencia efectiva en él, no menor de cuatro años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -297,11 +301,13 @@ IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier c
 
 Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 21.
 
-Los Diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello.
+Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello, sin embargo, serán responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrá ejercitarse acción penal en su contra hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar.
 
@@ -313,17 +319,17 @@ El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cu
 
 La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 23.
 
-El Congreso se instalará cada tres años, el 15 de noviembre del año de la elección.
+El Congreso del Estado se instalará cada tres años, el 15 de octubre del año de la elección.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 24.
 
-El Congreso se reunirá cada año, del 15 de noviembre al 31 de enero para celebrar un primer período de sesiones ordinarias y del 15 de mayo al 31 de julio para celebrar un segundo período de sesiones ordinarias.
+El Congreso se reunirá cada año, del 15 de octubre al 31 de diciembre para celebrar un primer periodo de sesiones ordinarias y del 15 de abril al 30 de junio para celebrar un segundo periodo de sesiones ordinarias.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -425,9 +431,9 @@ XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dic
 
 XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, que expida el Ejecutivo; y en caso de que los rechace, nombrarlos de entre los listados en las ternas que éste le proponga.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
 
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, comunicando su aceptación al Ejecutivo para que proceda conforme a sus facultades.
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Comisionados Magistrados de la Comisión Estatal Electoral y los del Tribunal Local Electoral, comunicándose su aceptación al Ejecutivo para que proceda conforme a sus facultades.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -505,11 +511,11 @@ XXXII.- Las demás que le conceden esta Constitución y la General de la Repúbl
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 28.
 
-Durante el receso del Congreso funcionará una Diputación Permanente, integrada por tres Diputados con carácter de propietarios y uno como suplente, nombrados la víspera de la clausura del período ordinario, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno.
+Durante el receso del Congreso funcionará una Diputación Permanente, integrada por cinco Diputados con el carácter de propietarios y tres como suplentes, nombrados la víspera de la clausura de los períodos ordinarios de sesiones, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -517,9 +523,9 @@ Durante el receso del Congreso funcionará una Diputación Permanente, integrada
 
 La Diputación Permanente tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
 
-I.- Admitir los proyectos de ley o de decreto que se le presenten para que el Congreso les dé curso en el período inmediato.
+I.- Admitir las iniciativas de Ley o de Decreto que se le presenten para que el Congreso les de curso en el periodo ordinario de sesiones correspondiente.
 
 II.- Despachar los asuntos de mero trámite.
 
@@ -531,11 +537,15 @@ IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de 
 
 V.- Recibir los expedientes relativos a las elecciones de Gobernador, miembros de los Ayuntamientos y Diputados, para el sólo efecto de turnarlos al Congreso erigido en Colegio Electoral para proceder a su calificación;
 
-VI.- (DEROGADA, P.O. 24 DE FEBRERO DE 1991)
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 1994)</small>
 
-VII.- Ejercer las mismas funciones que el Congreso en los casos de las fracciones XIV, XVI, XVII y XXVIII del Artículo 27 de esta Constitución; y
+VI.- Ejercer las mismas funciones que el Congreso en los casos de las fracciones XIV, XVI, XVII y XVIII del Artículo 27 de esta Constitución; y
 
-VIII.- Las demás que le confiere esta Constitución.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
+
+VII.- Las demás que le confiere esta Constitución.
+
+VIII.- N. DE E. EL TEXTO DE LA PRESENTE FRACCION ACTUALMENTE QUEDO COMPRENDIDO DENTRO DE LA FRACCION VII.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -557,21 +567,27 @@ III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo; y
 
 IV.- A los Ayuntamientos, en los asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 31.
 
-Toda iniciativa, pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. El modo, forma y términos para las discusiones y votaciones se establecerán en el Reglamento Interior del Congreso.
+Toda iniciativa pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. El modo, forma y término para las discusiones y votaciones se establecerán en la Ley Orgánica y Reglamento del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 32.
 
-Aprobado un proyecto de ley o decreto por el Congreso, pasará al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
+Aprobada una iniciativa de Ley o Decreto por el Congreso del Estado, pasará al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
 
-Se reputará sancionado por el Poder Ejecutivo, todo proyecto no devuelto con observaciones al Congreso, dentro de diez días útiles; a no ser que, corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse el primer día hábil en que el Congreso esté reunido.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
-El proyecto de ley o decreto vetado total o parcialmente por el Ejecutivo, será devuelto, con sus observaciones, al Congreso, quien deberá discutirlo de nuevo y si fuese confirmado por el voto de las dos terceras partes del número total de Diputados, el proyecto será ley o decreto y volverá al Ejecutivo para su publicación.
+Se reputará sancionada por el Poder Ejecutivo, toda iniciativa no devuelta con observaciones al Congreso del Estado, dentro de los siguientes diez días hábiles en que se recibió; a no ser que corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse el primer día hábil en que el Congreso esté reunido.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+
+La iniciativa de Ley o Decreto vetada total o parcialmente por el Ejecutivo, será devuelta con sus observaciones al Congreso del Estado, quien deberá discutirlo de nuevo y si fuere confirmado por el voto de las dos terceras partes del número total de los Diputados, la iniciativa será Ley o Decreto y volverá al Ejecutivo para su publicación.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 Las votaciones serán nominales.
 
@@ -591,11 +607,11 @@ La iniciativa que sea desechada por el Congreso, no podrá volver a presentarse 
 
 En casos urgentes a juicio del Congreso, sin omitir ningún trámite, las resoluciones sobre las iniciativas se darán en razón de la premura indicada.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 35.
 
-Para su observancia, las leyes y decretos deberán publicarse en el Periódico Oficial del Estado y entrarán en vigor en el Municipio de la Capital, al día siguiente de su publicación, y a los dos días en los demás Municipios. Cuando en la ley o decreto se fije la fecha en que deba empezar a regir, su publicación se hará por lo menos tres días antes de aquélla.
+Para su observancia, las Leyes y Decretos deberán publicarse en el Periódico Oficial del Estado y entrarán en vigor al día siguiente de su publicación. Cuando en la Ley o Decreto se fije la fecha en que debe empezar a regir, su publicación se hará por lo menos tres días antes de aquélla.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -719,7 +735,9 @@ c).- Respecto de cualquiera otra materia de su competencia, con los demás Estad
 
 d).- En general, con las personas de derecho privado.
 
-VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
+
+VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 27 de esta Constitución.
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
 
@@ -851,7 +869,7 @@ Los Magistrados y Jueces serán inamovibles. Sólo podrán ser privados de sus c
 
 Corresponde al Supremo Tribunal de Justicia:
 
-I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
+I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -865,7 +883,7 @@ III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por il
 
 IV.- Nombrar y remover a los servidores públicos del Poder Judicial. Respecto de los jueces se observarán las prevenciones de los Artículos 55 y 56 de esta Constitución.
 
-V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador.
+V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador;
 
 VI.- Formar su Reglamento Interior y el de los Juzgados; y
 
@@ -1419,11 +1437,11 @@ P.O. 13 DE AGOSTO DE 1950.
 
 P.O. 1 DE FEBRERO DE 1953.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 6 DE SEPTIEMBRE DE 1953.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 23 DE MAYO DE 1954.
 
@@ -1439,15 +1457,15 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 11 DE NOVIEMBRE DE 1956.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 8 DE SEPTIEMBRE DE 1957.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 25 DE FEBRERO DE 1962.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 23 DE AGOSTO DE 1964.
 
@@ -1455,7 +1473,7 @@ UNICO.- El presente Decreto entrará en vigor, a partir de la fecha de su public
 
 P.O. 2 DE MAYO DE 1965.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 22 DE SEPTIEMBRE DE 1968.
 
@@ -1465,15 +1483,15 @@ El presente Decreto surtirá sus efectos al día siguiente de su publicación en
 
 P.O. 8 DE JULIO DE 1973.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 25 DE AGOSTO DE 1974.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 10 DE NOVIEMBRE DE 1974.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 5 DE ENERO DE 1975.
 
@@ -1489,11 +1507,11 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 31 DE AGOSTO DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE NOVIEMBRE DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 17 DE ABRIL DE 1977.
 
@@ -1511,11 +1529,11 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 
 P.O. 10 DE ENERO DE 1982.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 25 DE SEPTIEMBRE DE 1983.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 9 DE OCTUBRE DE 1983.
 
@@ -1525,7 +1543,7 @@ SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de v
 
 P.O. 29 DE ENERO DE 1984.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE JUNIO DE 1985.
 
@@ -1551,11 +1569,11 @@ El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al 
 
 P.O. 11 DE MARZO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 26 DE AGOSTO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 24 DE FEBRERO DE 1991.
 
@@ -1573,7 +1591,7 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 
 P.O. 13 DE OCTUBRE DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 1 DE MARZO DE 1992.
 
@@ -1620,3 +1638,15 @@ SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicac
 P.O. 20 DE FEBRERO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En tanto no se apruebe la nueva Ley Orgánica del Poder Legislativo, se aplicará la vigente en lo que no contravenga al presente Decreto, la nueva Ley deberá ser expedida a más tardar el 31 de julio de 1994.
+
+TERCERO.- Para los efectos del nuevo Artículo 28 de la Constitución, la nueva integración de la Diputación Permanente empezará a regir a partir del 1o. de agosto de 1994.
+
+CUARTO.- Conforme al nuevo texto del Artículo 24 de la Constitución, el Primer Período Ordinario de Sesiones correspondiente al Tercer Año de Ejercicio Constitucional de la LV Legislatura, comenzará el día 15 de octubre de 1994.
+
+QUINTO.- De conformidad con el nuevo contenido del Artículo 23, y para efectos exclusivamente de la instalación e inauguración del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de las subsecuentes legislaturas, éstas se efectuarán el 15 de noviembre del año de la elección.
