@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2003-del-comite-de-49410"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-04-14"
-last_updated: "2003-04-14"
+last_updated: "2003-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-03-17"
 
 ACUERDO GENERAL DE ADMINISTRACION IV/2003, DEL DIECISIETE DE MARZO DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREAN LA SECRETARIA DE FINANZAS Y LA SECRETARIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y SE ESTABLECEN SUS FACULTADES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION X/2003, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 12 DE SEPTIEMBRE DE 2003, DESAPARECEN LAS SECRETARIAS DE FINANZAS Y DE ADMINISTRACION; LAS COORDINACIONES GENERALES DE PRESUPUESTO Y CONTABILIDAD, DE COMPILACION Y SISTEMATIZACION DE TESIS Y DE COMUNICACION SOCIAL; Y, LAS DIRECCIONES GENERALES DE MANTENIMIENTO E INTENDENCIA, DE CONTABILIDAD, DE PROGRAMA Y PRESUPUESTO Y DE RECURSOS HUMANOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2003.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 14 de abril de 2003.
 
@@ -70,3 +72,19 @@ CUARTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su
 Así lo acordaron y firman los señores Ministros: Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.- Rúbricas.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo General de Administración Número IV/2003 del diecisiete de marzo del año en curso, constante de tres fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su punto Cuarto Transitorio.- México, Distrito Federal, a siete de abril de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 12 DE SEPTIEMBRE DE 2003.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se derogan las disposiciones de observancia general que se opongan a lo dispuesto en este Acuerdo.
+
+TERCERO. A partir de la entrada en vigor de este Acuerdo el titular de la Secretaría Técnico Jurídica integrará el Comité Editorial de la Suprema Corte de Justicia de la Nación.
+
+CUARTO. Lo no previsto en este acuerdo en relación con la estructura administrativa de esta Suprema Corte de Justicia de la Nación, será resuelto por el Comité de Gobierno y Administración.
+
+QUINTO. A partir de la entrada en vigor de este Acuerdo desaparecen las Secretarías de Finanzas y de Administración, creadas en el Acuerdo General de Administración IV/2003; las Coordinaciones Generales de Presupuesto y Contabilidad, de Compilación y Sistematización de Tesis y de Comunicación Social; y, las Direcciones Generales de Mantenimiento e Intendencia, de Contabilidad, de Programa y Presupuesto y de Recursos Humanos.
+
+SEXTO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
