@@ -4,7 +4,7 @@ identifier: "GRO-presupuesto-de-egresos-del-estado-de-guerrero-para-el-27883"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2002-12-27"
-last_updated: "2002-12-27"
+last_updated: "2003-01-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 PRESUPUESTO DE EGRESOS DEL ESTADO DE GUERRERO, PARA EL EJERCICIO FISCAL DEL AÑO 2003.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICAL: 24 DE ENERO DE 2003 (ANEXO TECNICO DEL DECRETO NUM. 06 DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE GUERRERO 2003).
 
 Ley publicada en el Periódico Oficial del Estado, el día 27 de diciembre de 2002.
 
@@ -362,3 +362,13 @@ El Secretario de Finanzas y Administración.
 C. RAFAEL ACEVEDO ANDRADE.
 
 Rúbrica.
+
+ANEXO TECNICO
+
+VEASE ARCHIVOS ANEXOS
+
+ANEXO I.- VEASE TABLA ANEXA
+
+ANEXO II.- VEASE TABLA ANEXA
+
+ANEXO III.- VEASE TABLA ANEXA
