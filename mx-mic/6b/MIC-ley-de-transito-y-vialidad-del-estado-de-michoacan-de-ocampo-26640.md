@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2002-11-14"
+last_updated: "2004-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -249,7 +249,7 @@ III. Los Directores de Seguridad Pública y Tránsito o autoridad equivalente.
 
 ###### Artículo 15.
 
-Son atribuciones de los Ayuntamientos en materia de transito y vialidad las siguientes:
+Son atribuciones de los Ayuntamientos en materia de tránsito y vialidad las siguientes:
 
 I. Expedir reglamentos para ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en su territorio y en las vías públicas de jurisdicción municipal;
 
