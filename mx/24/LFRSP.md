@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2002-03-13"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -150,17 +150,25 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 ### CAPITULO II. Procedimiento en el Juicio Político
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 9o.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7o., de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5o. de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales.
+Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7 de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5 de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales. En el caso de ciudadanos, pueblos y comunidades indígenas del país, serán asistidos por traductores para elaborar la denuncia, si así lo solicitan. Dicha denuncia podrá presentarse por escrito en la lengua indígena.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 La denuncia deberá estar apoyada en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado. En caso de que el denunciante no pudiera aportar dichas pruebas por encontrarse éstas en posesión de una autoridad, la Subcomisión de Examen Previo, ante el señalamiento del denunciante, podrá solicitarlas para los efectos conducentes.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 Las denuncias anónimas no producirán ningún efecto.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+
 El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro de un año después de la conclusión de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 Las sanciones respectivas se aplicarán en un plazo no mayor de un año, a partir de iniciado el procedimiento.
 
@@ -186,9 +194,13 @@ Las vacantes que ocurran en la Sección correspondiente de cada Cámara, serán 
 
 La determinación del juicio político se sujetará al siguiente procedimiento:
 
-a) El escrito de denuncia se deberá presentar ante la Oficialía Mayor de la Cámara de Diputados y ratificarse ante ella dentro de los tres días naturales siguientes a su presentación;
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-b) Una vez ratificado el escrito, la Oficialía Mayor de la Cámara de Diputados lo turnará a la Subcomisión de Examen Previo de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia, para la tramitación correspondiente. La Oficialía Mayor deberá dar cuenta de dicho turno a cada una de las coordinaciones de los grupos partidistas representados en la Cámara de Diputados.
+a) El escrito de denuncia se deberá presentar ante la Secretaría General de la Cámara de Diputados y ratificarse ante ella dentro de los tres días naturales siguientes a su presentación;
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+b) Una vez ratificado el escrito, la Secretaría General de la Cámara de Diputados lo turnará a las Comisiones que corresponda, para la tramitación correspondiente. Si se trata de una denuncia presentada en lengua indígena, ordenará su traducción inmediata al español y lo turnará conforme al procedimiento establecido;
 
 c) La Subcomisión de Examen Previo procederá, en un plazo no mayor a treinta días hábiles, a determinar si el denunciado se encuentra entre los servidores públicos a que se refiere el artículo 2o., de esta Ley, así como si la denuncia contiene elementos de prueba que justifiquen que la conducta atribuida corresponde a las enumeradas en el artículo 7o. de la propia Ley, y si los propios elementos de prueba permiten presumir la existencia de la infracción y la probable responsabilidad del denunciado y por tanto, amerita la incoación del procedimiento. En caso contrario la Subcomisión desechará de plano la denuncia presentada.
 
@@ -350,7 +362,9 @@ La Sección respectiva practicará las diligencias que no requieran la presencia
 
 El Juez de Distrito practicará las diligencias que le encomiende la Sección respectiva, con estricta sujeción a las determinaciones que aquélla le comunique.
 
-Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de cualquier gasto.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de cualquier costo. Aquellas que involucren a un ciudadano, pueblo o comunidad indígena, podrán remitirse, a elección de éstos, en español o traducirse a lengua indígena que cuente con expresión escrita.
 
 ###### ARTICULO 34.
 
@@ -1097,3 +1111,7 @@ Artículo Séptimo.- Con el fin de actualizar la información patrimonial de los
 Artículo Octavo.- La Secretaría deberá emitir, en un plazo no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor de este ordenamiento, el Código de Etica, en términos de lo dispuesto por el artículo 49 de la Ley.
 
 Artículo Noveno.- Las menciones que en otras leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal se hagan de la Ley Federal de Responsabilidades de los Servidores Públicos o en particular de alguno de sus preceptos, se entenderán referidas a esta Ley o a los artículos de este ordenamiento legal cuyo contenido coincida con los de la Ley que se deroga, con la salvedad que se establece en el transitorio segundo de esta Ley.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
