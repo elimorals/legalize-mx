@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-para-los-municipios-del-estado-de-21805
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre del 2000.
 
@@ -43,9 +43,11 @@ LEY GENERAL DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley tiene por objeto regular los ingresos de las haciendas públicas de los municipios del Estado de Yucatán, por los diversos conceptos a que se refiere el Código Fiscal del Estado, así como fijar la normatividad de los mismos.
+La presente ley tiene por objeto regular los ingresos de las haciendas públicas de los municipios del Estado de Yucatán, por los diversos conceptos a los que se refieren el Código Fiscal y la Ley de Coordinación Fiscal, ambas del Estado, así como fijar la normatividad de los mismos.
 
 ###### ARTÍCULO 2.
 
@@ -71,9 +73,11 @@ Las iniciativas de las leyes de ingresos de los municipios se formularán de con
 
 Las leyes de ingresos regirán durante el curso del año para el cual se expidan, pero si por cualquier circunstancia no se publicaran, continuarán en vigor las del año anterior, salvo los casos de excepción que establezca el H. Congreso del Estado.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 8.
 
-Las cuotas para el cobro de derechos, se calcularán hasta donde sea posible, en atención al costo de los servicios. Sólo podrá haber cuotas diferenciales tratándose de un mismo servicio, cuando los individuos lo aprovechen en distinta proporción o calidad.
+Las cuotas para el cobro de derechos, se calcularán hasta donde sea posible, en atención al costo de los servicios.
 
 ###### ARTÍCULO 9.
 
@@ -83,7 +87,11 @@ Los municipios podrán celebrar convenios con el Gobierno del Estado para que é
 
 ### CAPÍTULO I. IMPUESTO PREDIAL
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 10.
+
+Impuestos son las contribuciones establecida (sic) en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas a los Derechos y Contribuciones por Mejoras.
 
 Es objeto del impuesto predial, la propiedad, el usufructo o la posesión del suelo y de las construcciones que estén adheridas al mismo, que se encuentren dentro del territorio del municipio que corresponda.
 
@@ -151,9 +159,11 @@ El pago del impuesto podrá efectuarse totalmente dentro del primer bimestre, si
 
 Cuando se pague el impuesto durante el primer bimestre del año, el contribuyente gozará de un descuento que anualmente será señalado en la Ley de Ingresos de cada municipio.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 18.
 
-La tarifa aplicable a este impuesto será la que cada año determine el H. Congreso del Estado y se publique en la Ley de Ingresos de los Municipios.
+La tarifa aplicable a este impuesto será la que, a propuesta de los ayuntamientos, cada año determine el Congreso del Estado y se publique en la Ley de Ingresos respectiva.
 
 ###### ARTÍCULO 19.
 
@@ -259,8 +269,6 @@ II.- En los casos de transformación de sociedades, y
 
 III.- Cuando se transmita la propiedad de bienes inmuebles, por herencia o legado, donación entre consortes, ascendientes y descendientes en línea directa, previa comprobación del parentesco respectivo ante la Tesorería Municipal.
 
-> <small>(F. DE E., D.O. 29 DE MARZO DE 2001)</small>
-
 ###### ARTÍCULO 33.
 
 La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, el valor catastral y el del avalúo que al efecto practique una institución de crédito autorizada, las autoridades fiscales, la Comisión de Avalúos de Bienes Nacionales o por Corredor Público.
@@ -349,9 +357,11 @@ El impuesto sobre Espectáculos y Diversiones Públicas se liquidará y recaudar
 
 I.- Cuando se trate de contribuyentes eventuales; el pago se hará por adelantado cuando se pueda determinar previamente el monto del mismo; en caso contrario, al finalizar el espectáculo o diversión, los interventores fiscales formularán la liquidación respectiva, y el impuesto se pagará a más tardar el siguiente día hábil, y
 
-II.- Tratándose de contribuyentes establecidos o registrados en el padrón municipal, dentro de los primeros 15 días de cada mes, mediante una declaración de los ingresos que hayan obtenido en el mes inmediato anterior. Los contribuyentes a cuota fija, pagarán dentro del mismo plazo.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-Las Tesorerías Municipales, cuando lo estimen conveniente, deberán determinar que el pago del impuesto se efectúe por cuota fija, diaria, semanal o mensual.
+II.- Tratándose de contribuyentes establecidos o registrados en el padrón municipal, dentro de los primeros 15 días de cada mes, mediante una declaración de los ingresos que hayan obtenido en el mes inmediato anterior.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 48.
 
@@ -389,23 +399,29 @@ Los empresarios, promotores, representantes, etc., de las empresas de espectácu
 
 La Tesorería Municipal tendrá facultad para suspender, clausurar o intervenir las taquillas de cualquier diversión o espectáculo, cuando quienes lo organicen y exploten, se nieguen a permitir que los interventores o liquidadores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se hayan observado las disposiciones precedentes.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ### CAPÍTULO IV. IMPUESTOS EXTRAORDINARIOS
 
 ###### ARTÍCULO 52.
 
-Cuando por alguna circunstancia surja la necesidad de allegamiento de mayores recursos dentro de un ejercicio fiscal y cuya obtención no pueda derivarse de los impuestos que se tienen señalados con carácter de ordinarios, el H. Congreso del Estado, a petición expresa y mediante iniciativa del municipio, deberá establecer los gravámenes extraordinarios que proporcionen los recursos suficientes para dar respuesta a la necesidad planteada por el propio municipio.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2004)
 
 ###### ARTÍCULO 53.
 
-En el decreto que se expida para el caso a que alude el artículo anterior, se señalarán los elementos y características específicas de los impuestos extraordinarios que se establezcan, así como el período en que habrá de tener vigencia el gravamen.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2004)
 
 ## TÍTULO TERCERO. DERECHOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 54.
 
-Los municipios percibirán ingresos derivados de la prestación de los servicios públicos a su cargo, así como de la regulación de las actividades de los particulares conforme lo determinen los elementos constitutivos de cada gravamen en los capítulos subsecuentes de esta Ley.
+Derechos son las contribuciones establecidas en ley como contraprestación por los servicios que presta el ayuntamiento en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes de dominio público del patrimonio municipal.
+
+Los municipios percibirán recursos de la prestación de los servicios públicos a su cargo, así como de la regulación de las actividades de los particulares conforme lo determinen los elementos constitutivos de cada gravamen en los capítulos subsecuentes de esta ley.
 
 ###### ARTÍCULO 55.
 
@@ -437,7 +453,9 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten y ob
 
 La base para el pago de estos derechos será:
 
-I.- En relación con el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, la base del gravamen será el tipo de autorización, licencia, permiso o revalidación de estos, así como el número de días y horas, tratándose de permisos eventuales o de funcionamiento en horarios extraordinarios;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+I.- En relación con el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, la base del gravamen será el tipo de autorización, licencia, permiso o revalidación de éstos, así como el número de días y horas, tratándose de permisos eventuales o de funcionamiento en horarios extraordinarios. No podrán establecerse tarifas diferenciadas para el cobro de los derechos a los que se refiere esta fracción, salvo que la autoridad municipal así lo justifique y lo haga constar en la Ley de Ingresos respectiva.
 
 II.- Tratándose de licencias para anuncios, el metro cuadrado de superficie del anuncio;
 
@@ -451,7 +469,7 @@ VI.- Por la construcción y demolición de bardas y obras lineales, será base e
 
 VII.- Los permisos para fraccionamientos serán en función de los metros cuadrados de superficie vendible, y
 
-VIII.- Para espectáculos públicos el número de días y horas en que se realicen los mismos.
+VIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2004)
 
 En el caso de las fracciones señaladas en este artículo, la autoridad municipal podrá determinar una cuota única por cada permiso otorgado, sin tomar en cuenta la base señalada en dichas fracciones.
 
@@ -495,11 +513,15 @@ Estos derechos se causarán conforme a la tarifa que al efecto establezca la Ley
 
 El pago de los derechos se hará por anticipado al solicitar el servicio, en las oficinas que para tal efecto establezca la Tesorería Municipal.
 
-### CAPÍTULO IV. DERECHOS POR SERVICIOS DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO IV. DERECHOS POR SERVICIOS DE VIGILANCIA
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 67.
 
-Son objeto de estos derechos los servicios que prestan las autoridades municipales en materia de seguridad pública, para lo cual deberán emitir las disposiciones reglamentarias en este sentido. Estos servicios comprenden las actividades de vigilancia que se preste a toda clase de establecimientos que proporcionen servicios al público.
+Es objeto de este derecho el servicio especial de vigilancia prestado por la policía municipal.
 
 ###### ARTÍCULO 68.
 
@@ -567,9 +589,11 @@ Son sujetos del pago de estos derechos, las personas físicas o morales, propiet
 
 Son responsables solidarios del pago de estos derechos los Notarios Públicos y demás encargados de llevar la fe pública, que autoricen instrumentos en los que se consigne la enajenación de predios o giros sin que previamente se compruebe con las constancias oficiales correspondientes que se está al corriente del pago de los derechos de agua potable.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 80.
 
-Será base de este derecho, el consumo en metros cúbicos de agua, en los casos que se haya instalado medidor y, a falta de éste, el consumo mínimo de metros cúbicos establecido en la Ley de Ingresos de los Municipios; sin embargo, si la autoridad municipal lo considera conveniente, podrá determinar una cuota única a pagar independientemente del volumen del consumo de agua.
+Será base de este derecho, el consumo en metros cúbicos de agua, en los casos que se haya instalado medidor y, a falta de éste, el consumo mínimo de metros cúbicos establecido en la Ley de Ingresos municipal respectiva.
 
 ###### ARTÍCULO 81.
 
@@ -589,9 +613,11 @@ Los usuarios de este servicio están obligados a permitir que las autoridades fi
 
 ### CAPÍTULO VII. DERECHOS POR SERVICIOS DE RASTRO
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 85.
 
-Son objeto de este derecho, la autorización, transporte, matanza, guarda en corrales, peso en básculas propiedad del municipio e inspección de animales por parte de la autoridad municipal.
+Son objeto de este derecho, la matanza, guarda en corrales, transporte, peso en básculas e inspección de animales, realizados en el rastro municipal.
 
 ###### ARTÍCULO 86.
 
@@ -681,45 +707,129 @@ La cuota para el pago de estos derechos será determinada por la Ley de Ingresos
 
 El pago deberá realizarse previo al ingreso de los usuarios a los zoológicos o unidades deportivas.
 
-### CAPÍTULO XI. DERECHOS NO ESPECIFICADOS
+> <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO XI. DERECHOS POR SERVICIOS DE CEMENTERIOS
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 103.
 
-Los municipios percibirán derechos derivados de la prestación de servicios públicos o de otros servicios y de la regulación de actividades de los particulares que se traduzcan en actos de tolerar, permitir, autorizar, consentir o registrar, y que no estén establecidos en forma expresa en los apartados anteriormente señalados.
+Son objeto de este Derecho los diversos servicios de cementerios prestados por el municipio.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 104.
 
-La descripción de cada uno de los derechos que en un momento dado puedan cobrarse por parte de la autoridad, se establecerán en la Ley de Ingresos Municipal correspondiente.
+Son sujetos de este derecho las personas físicas o morales que soliciten y reciban, alguno o algunos de los servicios de cementerios prestados por el municipio.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 105.
 
-Los derechos a que se refiere este apartado deberán cubrirse con anterioridad a la prestación de los servicios públicos, servicios de otra índole o licencias, permisos y autorizaciones o registros que la autoridad realice a petición de los particulares o por disposición legal.
+la tarifa aplicable a cada uno de los servicios de cementerios, será la que se establezca en la Ley de Ingresos municipal respectiva.
 
-### CAPÍTULO ÚNICO. CONTRIBUCIONES ESPECIALES POR MEJORAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO XII. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105-A.
+
+El derecho por el alumbrado público se causará como compensación por el disfrute del citado servicio que se preste en los municipios del Estado.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105-B.
+
+La cuota del derecho de alumbrado público será la establecida en las Leyes de Ingresos municipales respectivas, sobre los consumos de energía eléctrica en tarifa 1-A, 2, 3.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105-C.
+
+Son sujetos del pago de los derechos que se establecen, los consumidores de energía eléctrica en tarifas 1-A, 2, 3 publicadas en el Diario Oficial de la Federación el 15 de noviembre de 1976 o en las que en su caso las sustituyan.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105-D.
+
+El derecho por el servicio de alumbrado público será recaudado por conducto de la Comisión Federal de Electricidad, mediante la aplicación de la tasa relativa, calculándose el importe del derecho, el cual deberá hacerse constar en las facturaciones que formule a sus consumidores sujetos de este derecho, para los efectos del pago, de acuerdo con el convenio celebrado entre los Ayuntamientos del Estado y la Comisión Federal de Electricidad.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105-E.
+
+La Comisión Federal de Electricidad deberá aplicar el monto de los derechos que se recauden en la forma siguiente:
+
+I.- Para cubrir en primer término, el importe de la energía eléctrica para el alumbrado público, que sea suministrada a cada municipio del Estado y sus comisarías.
+
+II.- los remanentes serán utilizados en la siguiente forma:
+
+a) Para cubrir el mantenimiento y reposición de lámparas de alumbrado público de los municipios y sus comisarías; tarea que quedará bajo la responsabilidad de la Comisión Federal de Electricidad.
+
+b) Para amortizar los adeudos anteriores que cada municipio y sus comisarías tengan por suministro de energía por el alumbrado público con la Comisión Federal de Electricidad.
+
+c) Para ampliar o mejorar, en su caso, las instalaciones del alumbrado público a solicitud de cada ayuntamiento.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105-F.
+
+La Comisión Federal de Electricidad deberá rendir a cada ayuntamiento los informes relativos a la recaudación del derecho referido y de su aplicación así como los demás que expresamente le solicite dicha autoridad con relación al particular.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 106.
 
-Será objeto de esta contribución, el beneficio diferencial que perciban los sujetos derivado de la realización de una obra pública que lleve a cabo la autoridad municipal. Este beneficio diferencial deberá ser independiente del beneficio general que la obra genere para toda la comunidad en su conjunto.
+Será objeto de esta contribución, el beneficio diferencial que perciban los sujetos, en bienes inmuebles de su propiedad, derivado de la realización de una obra pública que lleve a cabo la autoridad municipal. Este beneficio diferencial deberá ser independiente del beneficio general que la obra genere para toda la comunidad en su conjunto.
 
 ###### ARTÍCULO 107.
 
 Son sujetos de las contribuciones especiales por mejoras, las personas físicas o morales propietarias de predios que se encuentren ubicados en el área de afectación de la obra, así como los propietarios de giros y establecimientos comerciales, industriales y de prestación de servicios que queden comprendidos también en la misma zona de afectación.
 
-El Acuerdo especial que emita el H. Cabildo, en el que establezca la contribución especial por mejoras, señalará en detalle la zona que se considere de influencia de la obra para cuyo financiamiento se establece la contribución especial por mejoras, así como el detalle de quienes serán los sujetos pasivos de la misma.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 108.
 
-Será base para el pago de esta contribución, el costo total de la obra que se lleve a cabo, distribuido entre el número de beneficiarios en atención a los metros cuadrados de superficie de sus predios, así como, en su caso, los metros lineales de frente de los mismos, conforme lo determine el Acuerdo que al efecto expida el H. Cabildo. De igual manera será base el número de giros o establecimientos comerciales, industriales o de prestación de servicios, que se ubiquen en la localidad atendiendo principalmente a su importancia, y serán tanto los metros cuadrados de superficie como los lineales de frente o la clasificación de los giros establecidos en el Acuerdo que expida en forma expresa el H. Cabildo para el establecimiento de este gravamen.
+Será base para el pago de esta contribución, el costo total de la obra que se lleve a cabo, distribuido entre el número de beneficiarios en atención a los metros cuadrados de superficie de sus predios, así como, en su caso, los metros lineales de frente de los mismos, conforme lo determine el Acuerdo que al efecto expida el H. Cabildo, bajo términos de equidad. De igual manera será base el número de giros o establecimientos comerciales, industriales o de prestación de servicios, que se ubiquen en la localidad atendiendo principalmente a su importancia, y serán tanto los metros cuadrados de superficie como los lineales de frente o la clasificación de los giros establecidos en el Acuerdo que expida en forma expresa el H. Cabildo para el establecimiento de este gravamen.
 
 ###### ARTÍCULO 109.
 
-El Acuerdo del H. Cabildo por medio del cual se establezca la contribución especial por mejoras, deberá contener como elementos mínimos la determinación del costo total de la obra, la determinación del área de beneficio de la misma, fijación de los elementos de beneficio a considerar y la mecánica para el establecimiento de dichos elementos.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2004)
 
 ###### ARTÍCULO 110.
 
 Será cuota, para el pago de estas contribuciones la que al efecto señale el Acuerdo especial que emita el H. Cabildo, y que deberá ser establecida por unidad de gravamen, atendiendo a metro cuadrado de superficie, o metro lineal de frente de los predios, por lo que respecta a los propietarios de inmuebles ubicados en la zona de influencia de la obra y, por lo que ve a los propietarios de establecimientos comerciales, industriales o de prestación de servicios, señalará las categorías o clasificaciones de los giros de dichos establecimientos fijando una cuota por cada una de las categorías de negocios que se señalen.
 
-### CAPÍTULO I. PRODUCTOS DERIVADOS DE BIENES INMUEBLES
+### CAPÍTULO XIII. DERECHOS POR SERVICIOS DE SUPERVISIÓN SANITARIA DE MATANZA
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105
+
+A (SIC).- Es objeto de este derecho, la supervisión sanitaria para la autorización de matanza de animales.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105
+
+B(SIC).- Son sujetos de estos derechos, las personas que soliciten la autorización para matanza de animales en domicilio particular.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105
+
+C (SIC).- Será base de este tributo el número de animales a sacrificar.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 105
+
+D(SIC).- Las cuotas para el pago de estos derechos serán fijadas en la ley de ingresos municipal correspondiente.
 
 ###### ARTÍCULO 111.
 
@@ -727,7 +837,7 @@ En el señalamiento de las cuotas se deberán fijar cantidades concretas por cad
 
 ###### ARTÍCULO 112.
 
-Las contribuciones especiales por mejoras, se causan conforme lo determine el Acuerdo que al efecto se celebre por el Cabildo, pero no será en ningún caso antes de que lleve la obra un avance mínimo del 50% y preferentemente una vez concluida la obra. Sin embargo, en casos especiales podrá el H. Cabildo acordar un momento de causación distinto, cuando así lo ameriten las circunstancias.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2004)
 
 ###### ARTÍCULO 113.
 
@@ -751,7 +861,9 @@ II.- Por arrendamiento temporal o concesión por el tiempo útil de locales ubic
 
 III.- Por concesión del uso del piso en la vía pública o en bienes destinados a un servicio público como mercados, unidades deportivas, plazas y otros bienes de dominio público.
 
-### CAPÍTULO II. PRODUCTOS DERIVADOS DE BIENES MUEBLES
+### CAPÍTULO ÚNICO. CONTRIBUCIONES ESPECIALES POR MEJORAS
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 117.
 
@@ -771,19 +883,21 @@ Queda prohibido el subarrendamiento de los bienes inmuebles a que se refiere el 
 
 ## TÍTULO CUARTO. CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO III. PRODUCTOS FINANCIEROS
+### CAPÍTULO I. PRODUCTOS DERIVADOS DE BIENES INMUEBLES
 
 ###### ARTÍCULO 121.
 
-Los inmuebles a que se refiere el artículo 120 de esta Ley, podrán ser concesionados por todo el tiempo útil del inmueble, cuando así lo considere necesario la administración municipal, en cuyo caso se deberá cubrir al erario las cantidades que determine el presidente municipal oyendo al tesorero, siendo necesaria en estos casos la autorización del Ayuntamiento. El importe de las concesiones en ningún caso podrá ser inferior al importe que por arrendamiento correspondería pagar al local concesionado en el lapso de 20 años. Las concesiones no podrán ser por un término mayor de 20 años.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2004)
 
 ###### ARTÍCULO 122.
 
 Los productos correspondientes al uso del piso en la vía pública, se pagarán de conformidad con lo que establezcan las leyes de Ingresos de los municipios para cada ejercicio fiscal.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 123.
 
-Quedan obligados al pago de productos que establece este capítulo, las personas físicas o morales que realicen cualquiera de los actos a que se refiere el artículo 117 de esta Ley.
+Quedan obligados al pago de productos que establece este capítulo, las personas físicas o morales que realicen cualquiera de los actos a que se refiere el artículo 116 de esta Ley.
 
 ###### ARTÍCULO 124.
 
@@ -821,7 +935,7 @@ Los ingresos que se perciban por la enajenación de bienes muebles, invariableme
 
 ## TÍTULO QUINTO. PRODUCTOS
 
-### CAPÍTULO IV. OTROS PRODUCTOS
+### CAPÍTULO II. PRODUCTOS DERIVADOS DE BIENES MUEBLES
 
 ###### ARTÍCULO 131.
 
@@ -863,9 +977,7 @@ Los productos a que se refiere el artículo anterior, se cubrirán conforme se p
 
 El pago de los productos a que se refiere este capítulo, deberá hacerse con anticipación a la realización de los hechos o actos que los generen y deberán pagarse en la Tesorería Municipal correspondiente.
 
-### CAPÍTULO I. APROVECHAMIENTOS DERIVADOS
-
-POR SANCIONES MUNICIPALES
+### CAPÍTULO III. PRODUCTOS FINANCIEROS
 
 ###### ARTÍCULO 141.
 
@@ -897,9 +1009,7 @@ Las infracciones por faltas de carácter fiscal se establecerán y calcularán p
 
 El municipio percibirá recargos por falta del pago oportuno de los créditos fiscales a que tiene derecho, por parte de los contribuyentes municipales, en la forma y términos establecidos por el Código Fiscal del Estado.
 
-### CAPÍTULO II. APROVECHAMIENTOS DERIVADOS DE RECURSOS
-
-TRANSFERIDOS AL MUNICIPIO
+### CAPÍTULO IV. OTROS PRODUCTOS
 
 ###### ARTÍCULO 147.
 
@@ -945,7 +1055,9 @@ Para percibir los aprovechamientos a que se refieren las fracciones V y VI del a
 
 Respecto de los aprovechamientos derivados de las fracciones VII y VIII del artículo 149 de esta Ley, se estará a lo dispuesto en los convenios o compromisos que establezcan y que den origen a dichos subsidios.
 
-### CAPÍTULO III. APROVECHAMIENTOS PROVENIENTES DE CRÉDITO
+### CAPÍTULO I. APROVECHAMIENTOS DERIVADOS
+
+POR SANCIONES MUNICIPALES
 
 ###### ARTÍCULO 153.
 
@@ -955,53 +1067,111 @@ Para los aprovechamientos a que se refieren las fracciones IX y X del artículo 
 
 Los aprovechamientos a que se refiere este Capítulo, deberán ingresar al erario municipal, tratándose de numerario o al inventario de bienes patrimoniales tratándose de bienes muebles o inmuebles, en un plazo no mayor de 72 horas contados a partir del momento en que tales bienes o recursos sean del conocimiento de la autoridad municipal.
 
+> <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 155.
 
-Los municipios podrán obtener recursos derivados de empréstitos o financiamientos que se concerten con personas físicas o morales, siguiendo los procedimientos que para tales efectos contemple la legislación aplicable.
+Los municipios percibirán aprovechamientos derivados de otros conceptos no previstos en los artículos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 156.
 
-Sólo podrán obtenerse empréstitos o financiamientos que sean destinados a obras públicas productivas, de conformidad con lo que se establece el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
+Sólo La Tesorería Municipal podrá recibir los aprovechamientos a que se refiere este Capítulo y sólo esta dependencia puede expedir los recibos que amparen el ingreso de tales recursos al erario municipal.
 
 ## TÍTULO SEXTO. APROVECHAMIENTOS
 
-### CAPÍTULO IV. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO II. APROVECHAMIENTOS DERIVADOS DE RECURSOS
+
+TRANSFERIDOS AL MUNICIPIO
 
 ###### ARTÍCULO 157.
 
-Todo recurso que obtenga el municipio por concepto de deuda pública, deberá invariablemente ingresarse al erario por conducto de la Tesorería Municipal.
+Los municipios percibirán las participaciones y aportaciones derivadas de los rendimientos de los impuestos, derechos y otros ingresos federales, conforme lo establece la legislación correspondiente y los Convenios de Coordinación elaborados entre los gobiernos Federal y del Estado.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 158.
 
-Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones contenidas en este Capítulo.
+Las participaciones y las aportaciones federales que reciban los municipios deberán ingresarse de inmediato al erario municipal y expedir el recibo oficial correspondiente.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 159.
 
-Los municipios percibirán aprovechamientos derivados de otros conceptos no previstos en los capítulos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
+La única dependencia autorizada para recibir las participaciones a que se refiere este capítulo, es la Tesorería Municipal.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 160.
 
-Sólo la Tesorería Municipal podrá recibir los aprovechamientos a que se refiere este Capítulo y sólo esta dependencia puede expedir los recibos que amparen el ingreso de tales recursos al erario municipal.
+Incurre en responsabilidad cualquier funcionario municipal que reciba o pretenda recibir las participaciones federales, hecha excepción del Tesorero Municipal. Este último incurre en responsabilidad cuando no ingrese de inmediato dichas participaciones al erario del municipio.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 161.
 
-Los municipios percibirán las participaciones y aportaciones derivadas de los rendimientos de los impuestos, derechos y otros ingresos federales, conforme lo establece la legislación correspondiente y los Convenios de Coordinación elaborados entre los gobiernos Federal y del Estado.
+Los municipios percibirán recursos en concepto de Participaciones Estatales, de conformidad con lo establecido en la Ley de Coordinación Fiscal del Estado de Yucatán.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 162.
 
-Las participaciones y las aportaciones federales que reciban los municipios deberán ingresarse de inmediato al erario municipal y expedir el recibo oficial correspondiente.
+Los municipios podrán obtener recursos derivados de empréstitos o financiamientos que se concerten con personas físicas o morales, siguiendo los procedimientos que para tales efectos contemple la legislación aplicable.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 163.
 
-La única dependencia autorizada para recibir las participaciones a que se refiere este capítulo, es la Tesorería Municipal.
+Sólo podrán obtenerse empréstitos o financiamientos que sean destinados a obras públicas productivas, de conformidad con lo que se establece el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPÍTULO ÚNICO. PARTICIPACIONES FEDERALES
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO III. APROVECHAMIENTOS DIVERSOS
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 164.
 
-Incurre en responsabilidad cualquier funcionario municipal que reciba o pretenda recibir las participaciones federales, hecha excepción del Tesorero Municipal. Este último incurre en responsabilidad cuando no ingrese de inmediato dichas participaciones al erario del municipio.
+Todo recurso que obtenga el municipio por concepto de deuda pública, deberá invariablemente ingresarse al erario por conducto de la Tesorería Municipal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 165.
+
+Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones contenidas en este Capítulo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 166.
+
+Serán ingresos extraordinarios aquellos que perciban los municipios del Estado o de la Federación por conceptos diversos a las Participaciones y Aportaciones.
+
+### CAPÍTULO IV. APROVECHAMIENTOS DIVERSOS
 
 ## TÍTULO SÉPTIMO. PARTICIPACIONES
+
+> <small>(REFORMADA SU NUMERACION, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO PRIMERO. PARTICIPACIONES FEDERALES
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO SEGUNDO. PARTICIPACIONES ESTATALES
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+## TÍTULO OCTAVO. INGRESOS EXTRAORDINARIOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO PRIMERO. EMPRÉSTITOS O FINANCIAMIENTOS
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO SEGUNDO. OTROS INGRESOS ESTRAORDINARIOS
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ## TRANSITORIOS
 
@@ -1024,3 +1194,11 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Este Decreto entrará en vigor el día uno de enero del año 2005, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+SEGUNDO.- El cobro de los Derechos por el uso de Cementerios y prestación de servicios conexos, establecidos en el Capítulo IV, y los Derechos de Alumbrado Público, establecidos en el Capítulo X, ambos parte del Título III de la Ley General de Hacienda para los Municipios del Estado de Yucatán, podrá realizarse una vez se celebren los convenios de transferencia correspondientes, y se prevea en las leyes de ingresos municipales respectivas.
