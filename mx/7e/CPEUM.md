@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1982-11-17"
+last_updated: "1982-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1982.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -244,13 +244,15 @@ La imposición de las penas es propia y exclusiva de la autoridad judicial. La p
 
 Si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 22.
 
-Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes, y cualesquiera otras penas inusitadas y trascendentales.
+Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-No se considerará como confiscación de bienes, la aplicación total o parcial de los bienes de una persona, hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas.
+No se considerará como confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuesto o multas, ni el decomiso de los bienes en caso del enriquecimiento ilícito en los términos del artículo 109.
 
-Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación y ventaja, al incendiario, al plagiario, al salteador de caminos, al pirata y a los reos de delitos graves del orden militar.
+Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagiario, al salteador de caminos, al pirata y a los reos de delitos graves del orden militar.
 
 ###### Art. 23.
 
@@ -1014,9 +1016,9 @@ Los Jueces de primera instancia, menores y correccionales y los que con cualquie
 
 La remuneración que los Magistrados y jueces perciban por sus servicios no podrá ser disminuída durante su encargo.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Los Magistrados y los jueces a que se refiere esta base, durarán en sus encargos seis años, pudiendo ser reelectos; en todo caso, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+Los Magistrados y los Jueces a que se refiere esta base durarán en sus cargos 6 años, pudiendo ser reelectos; en todo caso, podrán ser destituidos en los términos del Título Cuarto de esta Constitución.
 
 > <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -1170,15 +1172,17 @@ La Cuenta Pública del año anterior deberá ser presentada a la Comisión Perma
 
 Sólo se podrá ampliar el plazo de presentación de las iniciativas de leyes de ingresos y de los proyectos de presupuesto de egresos, así como de la Cuenta Pública cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
 
-V.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y en su caso, formular acusación ante la Cámara de Senadores y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra alguno de los funcionarios públicos que gozan de fuero constitucional, cuando sean acusados por delitos del orden común.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+V.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 111 de esta Constitución.
+
+Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
 > <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
 VI.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia del Distrito Federal, que le someta el Presidente de la República.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
-
-VII.- Declarar justificadas o no justificadas las peticiones de destitución de autoridades judiciales que hiciere el Presidente de la República, en los términos de la parte final del artículo 111.
+VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1212,15 +1216,15 @@ VI.- Resolver las cuestiones políticas que surjan entre los poderes de un Estad
 
 La ley reglamentará el ejercicio de esta facultad y el de la anterior.
 
-VII.- Erigirse en Gran Jurado para conocer de los delitos oficiales de los funcionarios que expresamente designa esta Constitución.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+VII.- Erigirse en Jurado de sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 110 de esta Constitución.
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 VIII.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte de Justicia de la Nación, así como a las solicitudes de licencia y a las renuncias de los mismos funcionarios, que le someta el Presidente de la República.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
-
-IX.- Declarar justificadas o no justificadas las peticiones de destitución de autoridades judiciales que hiciere el Presidente de la República, en los términos de la parte final del artículo 111.
+IX.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1418,9 +1422,7 @@ XVII.- Nombrar magistrados del Tribunal Superior de Justicia del Distrito Federa
 
 XVIII.- Nombrar Ministros de la Suprema Corte de Justicia y someter los nombramientos, las licencias y las renuncias de ellos, a la aprobación de la Cámara de Senadores o de la Comisión Permanente, en su caso.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
-
-XIX.- Pedir la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 111.
+XIX.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1476,7 +1478,9 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito no podrá ser disminuida durante su encargo.
 
-Los ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el procedimiento señalado en la parte final del artículo 111 de esta Constitución o previo el juicio de responsabilidad.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
+Los Ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
 
 ###### Art. 95.
 
@@ -1502,11 +1506,11 @@ V.- Haber residido en el país durante los últimos cinco años, salvo el caso d
 
 Los nombramientos de los Ministros de la Suprema Corte, serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Senadores, la que otorgará o negará esa aprobación, dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Senado, no podrán tomar posesión los Magistrados de la Suprema Corte nombrados por el Presidente de la República. En el caso de que la Cámara de Senadores no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicha Cámara, en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, el Senado deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Senado desecha el nombramiento, cesará desde luego en sus funciones el Ministro provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación del Senado, en los términos señalados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 97.
 
-Los Magistrados de Circuito y los jueces de Distrito serán nombrados por la Suprema Corte de Justicia de la Nación, tendrán los requisitos que exija la ley y durarán cuatro años en el ejercicio de su encargo, al término de los cuales, si fueran reelectos, o promovidos a cargos superiores, sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+Los Magistrados de Circuito y los Jueces de Distrito serán nombrados por la Suprema Corte de Justicia de la Nación, tendrán los requisitos que exija la ley y durarán 4 años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
 
@@ -1760,63 +1764,107 @@ También será consignado a la autoridad o Agente de ella, el que, realizada una
 
 Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 ## TITULO CUARTO.
 
-DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 108.
 
-Los Senadores y Diputados al Congreso de la Unión, los Magistrados de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho y el Procurador General de la República, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros de los poderes Judicial Federal y Judicial del Distrito Federal, a los funcionarios y empleados, y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o en el Distrito Federal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Los Gobernadores de los Estados y los Diputados a las Legislaturas locales, son responsables por violaciones a la Constitución y leyes federales.
+El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria, y delitos graves del orden común.
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales y los Magistrados de los Tribunales Superiores de Justicia Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+
+Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 109.
 
-Si el delito fuere común, la Cámara de Diputados, erigida en Gran Jurado, declarará por mayoría absoluta de votos del número total de miembros que la formen, si ha o no lugar a proceder contra el acusado.
+El Congreso de la Unión y las Legislaturas de los Estados, dentro de los ámbitos de sus respectivas competencias, expedirán las leyes de responsabilidades de los servidores públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
 
-En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga absolutamente los fundamentos de la acusación.
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 110 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo y sujeto desde luego a la acción de los tribunales comunes, a menos que se trate del Presidente de la República; pues en tal caso, sólo habrá lugar a acusarlo ante la Cámara de Senadores, como si se tratare de un delito oficial.
+No procede el juicio político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 110.
 
-No gozan de fuero constitucional los altos funcionarios de la Federación, por los delitos oficiales, faltas u omisiones en que incurran en el desempeño del (sic) algún empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a la ley se disfrute de fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
+Podrán ser sujetos de juicio político los Senadores y Diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo, el Jefe del Departamento del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
-> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
+Los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia Locales, sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas locales para que en ejercicio de sus atribuciones procedan como corresponda.
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante la Cámara de Senadores, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella Cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+
+Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes en sesión, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 111.
 
-De los delitos oficiales conocerá el Senado erigido en Gran Jurado; pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados. Si la Cámara de Senadores declarase, por mayoría de las dos terceras partes del total de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto, por virtud de tal declaración, e inhabilitado para obtener otro por el tiempo que determine la ley.
+Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Secretarios de Despacho, los Jefes de Departamento Administrativo, el Jefe del Departamento del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
-Cuando el mismo hecho tuviere señalada otra pena en la ley, el acusado quedará a disposición de las autoridades comunes para que lo juzguen y castiguen con arreglo a ella.
+Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-En los casos de este artículo y en los del 109, las resoluciones del Gran Jurado y la declaración, en su caso, de la Cámara de Diputados, son inatacables.
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
 
-Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes u oficiales de los altos funcionarios de la Federación. Cuando la Cámara mencionada declare que hay lugar a acusar,, (sic) nombrará una comisión de su seno para que sostenga ante el Senado la acusación de que se trate.
+Por lo que toca al Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+Para poder proceder penalmente por delitos federales contra los Gobernadores de los Estados, Diputados locales y Magistrados de los Tribunales Superiores de Justicia de los Estados, se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas locales, para que en ejercicio de sus atribuciones procedan como corresponda.
 
-El Congreso de la Unión expedirá, a la mayor brevedad, una Ley de responsabilidad de todos los funcionarios y empleados de la Federación y del Distrito Federal, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aun cuando hasta la fecha no hayan tenido carácter delictuoso. Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el artículo 20.
+Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-El Presidente de la República podrá pedir ante la Cámara de Diputados la destitución, por mala conducta, de cualquiera de los ministros de la Suprema Corte de Justicia de la Nación, de los magistrados de Circuito, de los jueces de Distrito, de los magistrados del Tribunal Superior de Justicia del Distrito Federal y de los jueces del orden común del Distrito Federal. En estos casos, si la Cámara de Diputados primero y la de Senadores después, declaran por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
-El Presidente de la República, antes de pedir a las Cámaras la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 112.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede concederse al reo la gracia de indulto.
+No se requerirá declaración de procedencia de la Cámara de Diputados cuando alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 111 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 111, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 113.
 
-La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante el período en que el funcionario ejerza su encargo, y dentro de un año después.
+Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 109, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 ###### Art. 114.
 
-En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
+El Procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 111.
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 109. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 ## TITULO QUINTO.
 
@@ -2288,9 +2336,11 @@ Ningún individuo podrá desempeñar a la vez dos cargos federales de elección 
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por la ley posterior.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 127.
 
-El Presidente de la República, los individuos de la Suprema Corte de Justicia, los Diputados y Senadores, y demás funcionarios públicos de la Federación, de nombramiento popular, recibirán una compensación por sus servicios que será determinada por la ley y pagada por el Tesoro Federal. Esta compensación no es renunciable, y la ley que la aumente o disminuya no podrá tener efecto durante el período en que un funcionario ejerce el cargo.
+El Presidente de la República, los Ministros de la Suprema Corte de Justicia de la Nación, los Diputados y Senadores al Congreso de la Unión y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos de la Federación o en los presupuestos de las entidades paraestatales, según corresponda.
 
 ###### Art. 128.
 
@@ -2356,9 +2406,19 @@ Los fuertes, los cuarteles, almacenes de depósito y demás bienes inmuebles des
 
 Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los Tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada Estado se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de los Estados.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+
 ###### Art. 134.
 
-Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicadas en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
+Los recursos económicos de que dispongan el Gobierno Federal y el Gobierno del Distrito Federal, así como sus respectivas administraciones públicas paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos federales se sujetará a las bases de este artículo.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
 
 ## TITULO OCTAVO.
 
@@ -3255,3 +3315,17 @@ DECRETO QUE REFORMA EL PARRAFO SEGUNDO DE LA FRACCION IV DEL ARTICULO 74.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las fracciones VII del Artículo 74, IX del Artículo 76 y XIX del Artículo 89 de la Constitución Política de los Estados UNidos Mexicanos.
+
+###### ARTICULO TERCERO.
+
+Dentro del año siguiente a la entrada en vigor del presente Decreto, los Estados de la Federación a través de sus congresos constituyentes locales, iniciarán las reformas constitucionales necesarias para cumplir las disposiciones del Título Cuarto de la Constitución General de la República, en lo conducente.
