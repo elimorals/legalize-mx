@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-15325"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-13"
-last_updated: "2000-03-14"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1999-11-30"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2000.
-
-> <small>N. DE E. SE REFORMA EN FORMA INTEGRA EL PRESENTE REGLAMENTO, POR ACUERDO DEL CONSEJO GENERAL DEL I.F.E., PUBLICADO EN EL D.O.F. DEL 14 DE MARZO DE 2000, EN ACATAMIENTO A LA SENTENCIA SUP-034/99 DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 13 de diciembre de 1999.
 
@@ -237,33 +235,7 @@ b) Los Vocales Ejecutivos Locales y Distritales;
 
 c) Oficinas Municipales.
 
-III. Organos Técnicos:
-
-A) CENTRALES:
-
-a) Las Direcciones o Unidades Técnicas:
-
-I. Coordinación Nacional de Comunicación Social;
-
-II. Coordinación de Asuntos Internacionales;
-
-III. Contraloría Interna;
-
-IV. Servicios de Informática;
-
-V. Dirección Jurídica;
-
-VI. Dirección del Secretariado;
-
-VII. Centro de Formación y Desarrollo; y
-
-VIII. Las demás que determine el Consejo General.
-
-b) Comités Técnicos Especiales:
-
-I. Comité Nacional de Seguimiento y Evaluación;
-
-II. Las demás que determine el Consejo General.
+III. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 IV. Organos de Vigilancia:
 
@@ -283,6 +255,12 @@ II. Comisión Distrital de Vigilancia;
 
 III. Las demás que determine el Consejo.
 
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+V. Organo de Control:
+
+a) Contraloría Interna.
+
 ## TITULO SEGUNDO. DE LOS ORGANOS DE DIRECCION
 
 CENTRALES
@@ -291,7 +269,9 @@ CENTRALES
 
 ARTICULO 5
 
-1. Para el cumplimiento de las atribuciones que el Código le confiere, corresponde al Consejo:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+1. Para el cumplimiento de sus atribuciones corresponde al Consejo:
 
 a) Aprobar anualmente las políticas y programas generales del Instituto, a propuesta de la Junta General Ejecutiva;
 
@@ -301,7 +281,17 @@ c) Conocer las actividades de los órganos del Instituto, los informes trimestra
 
 d) Dictar las modalidades pertinentes para el óptimo aprovechamiento de los recursos del Instituto; y
 
-e) Las demás que le confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+e) Designar, a propuesta del Consejero Presidente, a los titulares de la Contraloría Interna y de la Dirección de Responsabilidades y Situación Patrimonial de la Contraloría Interna;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+f) Establecer los órganos y sistemas para identificar, investigar, determinar las responsabilidades administrativas e imponer las sanciones derivadas del incumplimiento de las obligaciones precisadas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+g) Las demás que le confieran el Código y otras disposiciones aplicables.
 
 2. El Consejo aprobará el Anteproyecto de Presupuesto de Egresos, siempre y cuando se haya procedido en su elaboración de conformidad con las disposiciones constitucionales y legales, así como con las emitidas por el propio Consejo.
 
@@ -421,7 +411,17 @@ p) Asistir a nombre del Instituto ante toda clase de autoridades, entidades, dep
 
 q) Participar en los eventos a que sea invitado, en su calidad de Consejero Electoral por organizaciones académicas, institucionales y sociales, nacionales o extranjeras, buscando que dicha participación redunde en beneficio de los fines del Instituto; y
 
-r) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+r) Ser convocados a las Sesiones de las Comisiones de que formen parte y recibir con la debida oportunidad los documentos relativos a los puntos a tratar en el orden del día;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+s) Presentar propuestas por escrito a las Comisiones de las que no formen parte; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+t) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 2. Son atribuciones de los Consejeros Electorales que presidan una Comisión:
 
@@ -445,7 +445,9 @@ a) Someter a la consideración del Consejo, proyectos de acuerdos y resoluciones
 
 b) Solicitar la incorporación de asuntos en el orden del día de las sesiones del Consejo, en los términos del reglamento de sesiones;
 
-c) Integrar las Comisiones que determine el Consejo;
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+c) Integrar las Comisiones que determine el Consejo y participar con derecho a voz en sus sesiones;
 
 d) Asistir con derecho a voz a las sesiones de las Comisiones de las que no forme parte, con excepción de aquellas a que se refiere el artículo 80, párrafo segundo del Código;
 
@@ -453,7 +455,25 @@ e) Solicitar, para el adecuado desempeño de su encargo, la colaboración e info
 
 f) Designar, de acuerdo con las disponibilidades presupuestales y las normas administrativas correspondientes, al personal adscrito a su oficina;
 
-g) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+g) Ser convocados a las sesiones de las Comisiones de que formen parte y recibir con debida oportunidad los documentos relativos a los puntos a tratar en el orden del día;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+h) Solicitar la celebración de sesiones de las Comisiones de que formen parte;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+i) Solicitar la incorporación de asuntos en el orden del día de las sesiones de las Comisiones de que formen parte;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+j) Presentar propuestas por escrito a las Comisiones de las que no formen parte; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+k) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO SEGUNDO. DE LA PRESIDENCIA DEL CONSEJO GENERAL
 
@@ -539,7 +559,13 @@ d) Requerir, en caso necesario para asegurar el orden y garantizar el desarrollo
 
 e) Instruir al Secretario del Consejo para que difunda la conclusión de cualquiera de las etapas o actos del proceso electoral federal; y
 
-f) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+f) Informar al Consejo Local de los acuerdos y resoluciones del Consejo General, en la sesión inmediata siguiente a la fecha en que estos hubieran sido aprobados; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+g) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 #### Sección Segunda. DE LAS COMISIONES DE LOS CONSEJOS LOCALES
 
@@ -615,7 +641,17 @@ n) Representar al Consejo Local previa designación hecha de común acuerdo por 
 
 o) Asistir a las reuniones periódicas nacionales y estatales de Consejeros Electorales; y
 
-p) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+p) Ser convocados a las sesiones de las Comisiones de que formen parte y recibir con la debida oportunidad los documentos relativos a los puntos a tratar en el orden del día;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+q) Presentar propuestas por escrito a las Comisiones del Consejo Local de las que no formen parte; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+r) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 2. Las Comisiones podrán invitar a los representantes de los Partidos Políticos acreditados a participar en sus trabajos.
 
@@ -651,7 +687,21 @@ d) Participar en las Comisiones que determine el Consejo Local;
 
 e) Solicitar, para el adecuado desempeño de su encargo, la colaboración e información de los órganos del Instituto, en los términos que al efecto señale el presente reglamento; y
 
-f) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+f) Proponer la creación de Comisiones del Consejo Local;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+g) Asistir, en caso de haber sido invitados por los Consejeros Electorales de la Comisión respectiva, a las sesiones de las Comisiones del Consejo Local de las que no formen parte;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+h) Presentar propuestas por escrito a las Comisiones del Consejo Local; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+i) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO CUARTO. DE LOS CONSEJOS DISTRITALES
 
@@ -721,7 +771,13 @@ h) Entregar reconocimientos a los ciudadanos que participaron como funcionarios 
 
 i) Entregar reconocimientos a los participantes en las jornadas infantiles; y
 
-j) Las demás que le señale el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+j) Informar al Consejo Distrital de los acuerdos y resoluciones del Consejo Local correspondiente y de aquellos dictados por el Consejo General, en la sesión inmediata siguiente a la fecha en que estos hubieran sido aprobados; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+k) Las demás que le señale el Código y otras disposiciones aplicables.
 
 #### Sección Segunda. DE LAS COMISIONES DE LOS CONSEJOS DISTRITALES
 
@@ -731,7 +787,21 @@ ARTICULO 33
 
 1. Los Consejos Distritales podrán integrar comisiones para la vigilancia y organización del ejercicio adecuado de sus atribuciones, con fundamento en las facultades y funciones que el Consejo, el presente Reglamento y el propio Consejo Distrital les señalen.
 
-2. Las Comisiones de los Consejos Distritales se integrarán por Consejeros, uno de los cuales será su Presidente.
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+2. Las Comisiones de los Consejos Distritales podrán ser integradas por Consejeros Electorales y representantes de los Partidos Políticos acreditados ante el propio Consejo y serán presididas por un Consejero Electoral Distrital.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+3. En el caso que los Consejos Distritales determinen crear las Comisiones de Organización Electoral y Capacitación Electoral y Educación Cívica, se integraran exclusivamente por Consejeros Electorales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+4. Los representantes de los Partidos Políticos sólo tendrán derecho a voz en las Comisiones.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+5. En cada sesión ordinaria del Consejo Distrital, los Presidentes de las Comisiones presentaran verbalmente un resumen de las actividades desarrolladas por la Comisión que presidan.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 36], D.O.F. 14 DE MARZO DE 2000)
 
@@ -753,7 +823,9 @@ b) Desempeñar su función con autonomía y probidad;
 
 c) Someter a la consideración del Consejo Distrital los proyectos de acuerdos y resoluciones;
 
-d) Proponer la creación de comisiones de Consejeros Distritales, así como las guías de procedimientos necesarias para el desarrollo de sus atribuciones;
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+d) Proponer la creación de Comisiones del Consejo Distrital, así como las guías de procedimientos necesarias para el desarrollo de sus atribuciones;
 
 e) Solicitar la incorporación de asuntos en el orden del día;
 
@@ -775,11 +847,21 @@ m) Vigilar y participar en el cumplimiento de las atribuciones del Consejo Distr
 
 n) Asistir a las reuniones periódicas nacionales y estatales de Consejeros Electorales; y
 
-o) Las demás que le confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
 
-2. Las Comisiones podrán invitar a los representantes de los Partidos Políticos acreditados a participar en sus trabajos.
+o) Ser convocados a las sesiones de las Comisiones de que formen parte y recibir con la debida oportunidad los documentos relativos a los puntos a tratar en el orden del día;
 
-3. Los representantes de los Partidos Políticos no tendrán derecho a votar en la toma de decisiones de las Comisiones.
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+p) Presentar propuestas por escrito a las Comisiones del Consejo Distrital de las que no formen parte; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+q) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+2. (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
+
+3. (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 #### Sección Cuarta. DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS ANTE EL CONSEJO DISTRITAL
 
@@ -799,7 +881,25 @@ d) Integrar las Comisiones que determine el Consejo Distrital;
 
 e) Solicitar, para el adecuado desempeño de su encargo, la colaboración e información de los órganos del Instituto, en los términos que al efecto señale el presente reglamento; y
 
-f) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+f) Proponer la creación de Comisiones del Consejo Distrital;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+g) Ser convocados a las sesiones de las Comisiones de que formen parte y recibir con debida oportunidad los documentos relativos a los puntos a tratar en el orden del día;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+h) Asistir, en caso de haber sido invitados por los Consejeros Electorales, a las sesiones de las Comisiones del Consejo Distrital de las que no formen parte;
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+i) Presentar propuestas por escrito a las Comisiones del Consejo Distrital de las que no formen parte; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+j) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ### CAPITULO QUINTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -1277,7 +1377,9 @@ c) Acordar con el Consejero Presidente o el Secretario Ejecutivo, según corresp
 
 d) Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y acciones internos de las unidades administrativas de la Unidad Técnica a su cargo;
 
-e) Formular dictámenes y opiniones sobre asuntos propios de la Unidad Técnica que le solicite el Consejo, el Consejero Presidente, la Comisión correspondiente y la Junta. La Contraloría Interna sólo estará obligada a lo anterior cuando se lo solicite el Consejo y su Presidente o la Comisión de Contraloría Interna;
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+e) Formular dictámenes y opiniones sobre asuntos propios de la Unidad Técnica que le solicite el Consejo, el Consejero Presidente, la Comisión correspondiente y la Junta;
 
 f) Proponer al Secretario Ejecutivo proyectos sobre la creación, modificación, organización, fusión o desaparición de las unidades administrativas de la Unidad Técnica a su cargo;
 
@@ -1379,53 +1481,9 @@ p) Colaborar en el diseño e instrumentación de los criterios y lineamientos qu
 
 q) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 65], D.O.F. 14 DE MARZO DE 2000)
-
 ARTICULO 63
 
-1. La Contraloría Interna ejercerá sus atribuciones de manera autónoma respecto de cualquier órgano ejecutivo del Instituto, quedando supeditada al Consejo en los términos de este Reglamento y le corresponde:
-
-a) Proponer al Presidente del Consejo los contenidos del Programa Anual de Auditoría Interna del Instituto, para que una vez que sean aprobados por el mismo, se incorporen a la propuesta de programas y políticas generales de Instituto, que la Junta debe poner a consideración del Consejo;
-
-b) Ordenar la ejecución y supervisión del Programa Anual de Auditoría Interna;
-
-c) Autorizar los programas específicos de las auditorías internas que practique;
-
-d) Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran;
-
-e) Verificar muestralmente que las áreas del Instituto estén cumpliendo los criterios, objetivos y programas correspondientes;
-
-f) Emitir opiniones consultivas sobre el proyecto de presupuesto de egresos del Instituto, así como sobre el ejercicio y los métodos de control utilizados;
-
-g) Inspeccionar el ejercicio del gasto y administración del patrimonio del Instituto;
-
-h) Someter a la consideración del Consejero Presidente, de la Comisión de Contraloría o del Consejo, los informes que contengan el resultado de las revisiones;
-
-i) Aplicar y, en su caso, promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
-
-j) Realizar el seguimiento de las recomendaciones que como resultado de las auditorías internas, se hayan formulado a las unidades administrativas del Instituto;
-
-k) Informar al Consejero Presidente el avance de la ejecución del Programa de Auditoría Interna;
-
-l) Revisar, en la ejecución de las auditorías internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio institucional y, evaluar desde el punto de vista programático, las metas y objetivos de los programas a cargo del Instituto y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
-
-m) Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto, en los términos de la normatividad aplicable;
-
-n) Recibir, tramitar y resolver las inconformidades que presenten los proveedores o contratistas, respecto a los actos relacionados con las licitaciones públicas y adjudicaciones de pedidos y contratos;
-
-o) Establecer mecanismos para difundir la obligación de presentar la declaración de situación patrimonial, por parte de los servidores públicos del Instituto de mandos medios y superiores;
-
-p) Comunicar al Secretario Ejecutivo las conductas de los servidores públicos derivadas de sus responsabilidades administrativas en materia de presupuesto, que puedan constituir ilícitos de carácter penal;
-
-q) Integrar el registro de los servidores públicos del Instituto que hayan sido sancionados administrativamente, por el órgano interno de control;
-
-r) Participar en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
-
-s) Participar conforme a las disposiciones vigentes en los comités y subcomités de los que el órgano interno de control forme parte e intervenir en los actos que de los mismos se deriven;
-
-t) Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-u) Las demás que le confiera el Código y otras disposiciones aplicables.
+1. (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 66], D.O.F. 14 DE MARZO DE 2000)
 
@@ -1705,33 +1763,97 @@ ARTICULO 75
 
 1. La Comisión Distrital de Vigilancia se integrará por un presidente, que será el Vocal del Registro Federal de Electores, un representante propietario y un suplente por cada partido político nacional y un secretario designado por su presidente.
 
-## TITULO SEXTO. DE LOS FLUJOS DE INFORMACION
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO. REDES DE INFORMACION Y COLABORACION
+## TITULO SEXTO. DEL ORGANO DE CONTROL
 
-(REUBICADO [N. DE E. ANTES ARTICULO 78], D.O.F. 14 DE MARZO DE 2000)
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
 
 ARTICULO 76
 
-1. La información institucional, que no se difunda en la Red Nacional de Informática, será proporcionada por los funcionarios del Instituto de conformidad con las reglas siguientes:
+1. A la Contraloría Interna corresponde el despacho de los siguientes asuntos:
 
-a) EL Consejo o cualquiera de sus integrantes, podrá requerir en forma directa, información a todos los órganos centrales. En el supuesto de que la información se encuentre en los órganos delegacionales y subdelegacionales del Instituto, deberán solicitarla a través del Secretario del Consejo, quien la tramitará de forma inmediata;
+a) Proponer al Consejero Presidente e informar a la Comisión de Contraloría, sobre los contenidos del programa anual de actividades de la Contraloría Interna, a efecto de que se incorporen a la propuesta de políticas y programas generales del Instituto que la junta debe poner a consideración del Consejo;
 
-b) Las Comisiones podrán solicitar información a todos los órganos centrales del Instituto. En los casos en que las Comisiones requieran, para el cumplimiento de sus funciones, información que se encuentre en el ámbito de competencia de los órganos delegacionales y subdelegacionales del Instituto, deberán solicitarla a éstos a través de sus Secretarios Técnicos;
+b) Ejecutar el programa anual de actividades de la Contraloría Interna y supervisar su cumplimiento;
 
-c) Los órganos de dirección delegacionales y subdelegacionales, o cualquiera de sus integrantes, podrán solicitar información a todos los órganos ejecutivos y de vigilancia correspondientes a su demarcación territorial, así como a los órganos de dirección de rango inferior;
+c) Diseñar, con base en el programa anual de auditoria, los programas de trabajo de las auditorias internas que practique, estableciendo el alcance que se determine en cada caso, así como vigilar su cumplimiento;
 
-d) La Junta podrá solicitar, por conducto del Secretario Ejecutivo, información a los órganos ejecutivos, técnicos y de vigilancia, tanto a nivel central como delegacional y subdelegacional. Asimismo, podrá solicitar información a los órganos de dirección delegacionales y subdelegacionales;
+d) Verificar que las áreas del Instituto cumplan los criterios, objetivos y programas correspondientes, empleando la metodología que resulte pertinente;
 
-e) Los órganos ejecutivos centrales, distintos a la Junta, podrán solicitar, en el ámbito de sus respectivas competencias, información a los órganos técnicos y de vigilancia así como a los ejecutivos de rango inferior;
+e) Emitir opiniones consultivas sobre el proyecto de presupuesto de egresos del Instituto, así como sobre el ejercicio y los métodos de control utilizados;
 
-f) Los órganos ejecutivos delegacionales y subdelegacionales podrán solicitar, en el ámbito de sus respectivas competencias, información a los órganos de vigilancia correspondientes a su demarcación territorial, y a los ejecutivos de rango inferior;
+f) Inspeccionar el ejercicio del gasto y administración del patrimonio del Instituto;
 
-g) Los órganos técnicos podrán solicitar, en el ámbito de sus respectivas competencias, información a los órganos de vigilancia así como a los ejecutivos en las delegaciones y subdelegaciones; y
+g) Aplicar y, en su caso, promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorias;
 
-h) Los órganos de vigilancia podrán solicitar, en el ámbito de sus competencias, información a los órganos ejecutivos y técnicos así como a los de vigilancia de rango inferior.
+h) Desahogar las recomendaciones que le formule la Entidad de Fiscalización Superior de la Federación y dar seguimiento al cumplimiento de aquellas que realice dicha entidad a otras áreas del Instituto;
 
-(REUBICADO [N. DE E. ANTES ARTICULO 79], D.O.F. 14 DE MARZO DE 2000)
+i) Dar seguimiento a las recomendaciones que, como resultado de las auditorias internas, se hayan formulado a las Unidades Administrativas del Instituto;
+
+j) Informar al Consejo General por conducto del Consejero Presidente y a la Comisión de Contraloría, del avance en la ejecución del programa anual de auditoria, así como del resultado de las revisiones practicadas;
+
+k) Revisar que el ejercicio del gasto se haya realizado conforme a las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio, así como evaluar, desde el punto de vista programático, las metas y objetivos de los programas a cargo del instituto y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
+
+l) Recibir, investigar, sustanciar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos del instituto, con motivo del incumplimiento de sus obligaciones en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, con excepción de las quejas y denuncias presentadas en contra del Consejero Presidente, los Consejeros Electorales del Consejo General y el Secretario Ejecutivo del Instituto.
+
+También se exceptúan aquellas quejas que se presenten en contra de los Consejeros Electorales Locales y Distritales, así como de los integrantes de las Mesas Directivas de Casilla;
+
+m) Iniciar los procedimientos administrativos disciplinarios a servidores públicos del instituto por la presunta existencia de hechos u omisiones que impliquen una falta a las obligaciones establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y, en su caso, imponer las sanciones que corresponda;
+
+n) Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en los términos de las leyes de adquisiciones, arrendamientos y servicios del sector publico, y de obras publicas y servicios relacionados con las mismas;
+
+o) Integrar y mantener actualizado el registro de los servidores públicos del instituto que hayan sido sancionados por el órgano interno de control;
+
+p) Participar en los actos de entrega-recepción de los servidores públicos del instituto de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
+
+q) Participar, conforme a las disposiciones vigentes, en los Comités y Subcomités de los que el órgano interno de control forme parte e intervenir en los actos que se deriven de los mismos;
+
+r) Llevar el registro, seguimiento y evaluación de la situación patrimonial de los servidores públicos del Instituto desde el nivel de Jefe de Departamento u homólogos hasta el de Consejero Presidente; asimismo, emitir los formatos impresos, medios magnéticos y electrónicos que se utilizaran en su presentación, de conformidad con el Titulo Tercero, Capitulo Unico de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+s) Solicitar por conducto de su titular, a la Comisión Nacional Bancaria y de Valores, así como a las Dependencias, Entidades e Instituciones Publicas, la información bancaria, fiscal, inmobiliaria o de cualquier otro tipo relacionada con los servidores públicos, sus cónyuges, concubinas o concubinarios y dependientes económicos directos, con la finalidad de que la autoridad verifique la evolución del patrimonio de aquellos;
+
+t) Solicitar por conducto de su titular, a la Tesorería de la Federación, que proceda al embargo precautorio de los bienes cuando los presuntos responsables desaparezcan o exista riesgo inminente de que oculten, enajenen o dilapiden sus bienes;
+
+u) Integrar el registro de los bienes donados a servidores públicos del Instituto en los términos del articulo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, cuyo valor acumulado durante un año exceda de diez veces el salario mínimo general vigente en el Distrito Federal al momento de su recepción;
+
+v) Atender las solicitudes de las diferentes instancias y órganos del Instituto en los asuntos de su competencia;
+
+w) Establecer programas de difusión del cumplimiento de las obligaciones fijadas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+x) Participar como Secretaria Técnica de la Comisión de Contraloría;
+
+y) Acordar por conducto de su titular, con el Consejero Presidente los asuntos de su competencia;
+
+z) Proponer por conducto de su titular, al Secretario Ejecutivo proyectos sobre la creación, modificación, organización, fusión o desaparición de las áreas de la Contraloría Interna;
+
+aa) Formular por conducto de su titular, el anteproyecto de presupuesto de la Contraloría Interna, de conformidad con los acuerdos que fije el Consejo;
+
+bb) Formular por conducto de su titular, los anteproyectos de los Manuales de Organización y Procedimientos de la Contraloría Interna, de conformidad con los criterios de la Junta y la Dirección Ejecutiva de Administración;
+
+cc) Presentar, por conducto de su titular, los informes trimestrales y anuales de actividades a la Comisión de Contraloría y, por conducto de esta, al Consejo General, sin perjuicio de los informes específicos que el órgano superior de dirección le solicite, y
+
+dd) Las demás que le confieran otros ordenamientos.
+
+2. Cuando las quejas o denuncias se presenten en contra del titular de la Contraloría Interna o del Director de Responsabilidades y Situación Patrimonial de la Contraloría Interna, las sustanciará la Comisión de responsabilidades Administrativas, conforme al procedimiento establecido en el artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+3. las sanciones que la Contraloría Interna imponga a los funcionarios y servidores públicos del Instituto en los términos de los incisos l) y m), del párrafo 1 del presente articulo, se ejecutaran, con excepción de la sanción económica, cuya ejecución concierne a la Tesorería de la Federación, conforme a lo siguiente:
+
+a) la amonestación publica o privada, la suspensión o destitución, por el jefe inmediato;
+
+b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio publico, se ejecutara en los términos de la resolución dictada.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO CON EL CAPITULO QUE LO INTEGRA [N. DE E. ANTES TITULO SEXTO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+## TITULO SEPTIMO. DE LOS FLUJOS DE INFORMACION
+
+### CAPITULO UNICO. REDES DE INFORMACION Y COLABORACION
+
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 77
 
@@ -1749,7 +1871,7 @@ e) Los órganos técnicos, que requieran información de los órganos ejecutivos
 
 f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran información de órganos de vigilancia de nivel superior, podrán solicitarla directamente a los órganos superiores. Cuando la información que requieran sea de órganos de dirección, ejecutivos o técnicos de nivel superior, deberán solicitarla al Secretario Ejecutivo por conducto del Vocal Ejecutivo correspondiente.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 80], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 78
 
@@ -1759,41 +1881,43 @@ ARTICULO 78
 
 3. La información institucional se difundirá de manera externa, en la página de internet del Instituto, de conformidad con los criterios del Consejo y de las disposiciones del presente Reglamento. La información sólo será confidencial en aquellos supuestos que marque la ley.
 
-## TITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO CON EL CAPITULO QUE LO INTEGRA [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+## TITULO OCTAVO. DISPOSICIONES COMPLEMENTARIAS
 
 ### CAPITULO PRIMERO. PROTESTA CONSTITUCIONAL
 
-(REUBICADO [N. DE E. ANTES ARTICULO 81], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 79
 
 1. El Secretario Ejecutivo, los consejeros del Poder Legislativo y los representantes de los partidos políticos ante el órgano superior de dirección rendirán la protesta constitucional ante el Consejo General.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 82], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 80
 
 1. Los Directores Ejecutivos, Titulares de las Unidades Técnicas y los Presidentes de los Consejos Locales rendirán la protesta constitucional ante el Presidente y Secretario del Instituto.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 83], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 81
 
 1. Los Vocales Ejecutivos Distritales rendirán la protesta constitucional ante el Vocal Ejecutivo Local o el Secretario Ejecutivo respectivos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 84], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 82
 
 1. Los consejeros electorales y representantes de los partidos políticos de los Consejos Locales y Distritales, inmediatamente después de haber tomado posesión, rendirán la protesta constitucional ante el Consejo respectivo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 85], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 83
 
 1. Los ciudadanos que integren las mesas directivas de casilla y demás servidores del Instituto rendirán la protesta constitucional por escrito.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 86], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 84
 
@@ -1801,13 +1925,13 @@ ARTICULO 84
 
 ### CAPITULO SEGUNDO. DE LA INTERPRETACION
 
-(REUBICADO [N. DE E. ANTES ARTICULO 87], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 85
 
 1. Las disposiciones del presente Reglamento se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código y los criterios gramatical, sistemático y funcional, atendiendo a lo señalado en el último párrafo del artículo 14 Constitucional.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 88], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 86
 
@@ -1815,13 +1939,13 @@ ARTICULO 86
 
 ### CAPITULO TERCERO. DE LAS REFORMAS AL REGLAMENTO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 89], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 87
 
 1. El Consejo podrá reformar el contenido del presente reglamento cuando así lo requiera la estructura y funcionamiento del Instituto.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 90], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 88
 
@@ -1845,7 +1969,7 @@ h) Los Consejos Distritales;
 
 i) Las Juntas Distritales.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 91], D.O.F. 14 DE MARZO DE 2000)
+(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
 
 ARTICULO 89
 
@@ -1886,3 +2010,9 @@ TERCERO.- LA DIVULGACION Y DISTRIBUCION DEL PRESENTE REGLAMENTO SE HARA EXTENSIV
 CUARTO.- PUBLIQUESE EN EL DIARIO OFICIAL DE LA FEDERACION Y EN LA GACETA DEL INSTITUTO FEDERAL ELECTORAL.
 
 QUINTO.- EL SECRETARIO EJECUTIVO EDITARA A LA BREVEDAD POSIBLE EL NUMERO DE EJEMPLARES DE ESTE REGLAMENTO QUE SE ESTIMEN NECESARIOS.
+
+D.O.F. 1 DE NOVIEMBRE DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON ESTE REGLAMENTO.
+
+TERCERO.- ESTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION.
