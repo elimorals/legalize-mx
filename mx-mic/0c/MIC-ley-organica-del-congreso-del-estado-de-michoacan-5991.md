@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "1986-04-17"
+last_updated: "1986-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1986
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1986
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -653,19 +653,15 @@ La Contaduría General de Glosa es el órgano técnico del Congreso del Estado, 
 
 ###### ARTICULO 77.
 
-Son dependencias e instituciones que administren fondos y valores públicos, todas las entidades creadas por Ley o decreto del Ejecutivo del Estado, cualesquiera que sea la forma o estructura que adopten, siempre que reúnan los requisitos siguientes:
-
-I. Que su patrimonio se constituya total o parcialmente con fondos o bienes del Gobierno del Estado o de los ayuntamientos, de otros organismos o instituciones descentralizadas de carácter estatal o municipal; asignaciones, subsidios, concesiones o derechos que les otorgue el Gobierno del Estado, los ayuntamientos o con el rendimiento de un impuesto o derecho específico estatal o municipal; y,
-
-II. Que su objeto o fines sean de prestación de un servicio público, la explotación de bienes o recursos propiedad del Gobierno del Estado o de los ayuntamientos, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia o seguridad social.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 78.
 
-Son fondos y valores públicos todo numerario que sea propiedad del Gobierno del Estado, de los ayuntamientos o de las demás entidades, provenientes de los conceptos previstos en las leyes de ingresos, decretos o acuerdos que rijan en la materia, asignaciones, subsidios, concesiones, participaciones u cualquier otro concepto análogo que se les asigne, así como la colocación en forma temporal o permanente de los fondos en valores que representen inversiones de las entidades.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 79.
 
-Al Gobierno del Estado, a los ayuntamientos y a los demás organismos a que se refiere el artículo 77, se les denominará generalmente en esta Ley como ''entidades'' salvo mención expresa.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 80.
 
@@ -675,55 +671,7 @@ el control del Congreso a través de la Comisión de Vigilancia nombrada por el 
 
 ###### ARTICULO 81.
 
-La Contaduría General de Glosa ejercerá sus funciones de Contraloría y con tal motivo tendrá las atribuciones siguientes:
-
-I. Certificar si las entidades:
-
-a) Realizan sus operaciones, en lo general y en lo particular con apego a las Leyes de Ingresos y a los Presupuestos de Egresos y demás ordenamientos respectivos;
-
-b) Ejercieron estricta y correctamente sus presupuestos conforme a los programas y subprogramas aprobados;
-
-c) Sujetaron y ejecutaron los programas de inversión en los términos y montos aprobados y de conformidad con sus partidas;
-
-d) Aplicaron los recursos provenientes de financiamiento con la periodicidad y forma establecida por la Ley.
-
-II. Elaborar y rendir:
-
-a) A la Comisión de Programación, Presupuesto y Cuenta Pública de la Cámara, por conducto de la Comisión Inspectora, el informe previo de la Cuenta Pública del Gobierno del Estado.
-
-Este informe contendrá enunciativamente comentarios generales sobre:
-
-1. Si la cuenta pública esta presentada de acuerdo con los principios de contabilidad aplicables al sector gubernamental;
-
-2. Los resultados de la gestión financiera;
-
-3. Las comprobaciones de si las entidades se ajustaron a los criterios señalados en las Leyes de Ingresos y en las demás aplicables en la materia, así como en los Presupuestos de egresos respectivos;
-
-4. El cumplimiento de los objetivos y metas de los programas y subprogramas a que deben ajustarse las entidades; y,
-
-5. El análisis de los subsidios, transferencias, apoyos para operación e inversión, las erogaciones adicionales y otras erogaciones o conceptos similares.
-
-b) A la Cámara de Diputados, el informe sobre el resultado de la revisión de la cuenta pública de las entidades, el cual remitirá por conducto de la Comisión Inspectora.
-
-III. Fiscalizar los subsidios que concedan el Gobierno del Estado y los ayuntamientos, cualesquiera que sean sus fines y verificar su aplicación así como las condonaciones o cancelaciones de adeudos;
-
-IV. Ordenar visitas, inspecciones y auditorías, solicitar informes, revisar libros y documentos para comprobar:
-
-a) Si las inversiones y gastos autorizados a las entidades se han aplicado eficientemente para el logro de los objetivos y metas de los programas y subprogramas aprobados; y,
-
-b) Si la recaudación de ingresos se ha realizado de conformidad con las leyes aplicables en la materia;
-
-V. Solicitar a los auditores externos de las entidades copias de los informes o dictámenes de las auditorías practicadas y las aclaraciones, en su caso, que se estimen pertinentes;
-
-VI. Establecer y mantener coordinación con las dependencias del Ejecutivo Estatal, de los ayuntamientos y demás entidades, para uniformar las normas, procedimientos y sistemas de contabilidad, de auditoría y de archivo contable de los libros y documentos justificativos y complementarios del ingreso y del gasto público;
-
-VII. Fijar las normas, procedimientos y sistemas internos para la revisión de la cuenta pública de las Entidades;
-
-VIII. Informar al Congreso, a través de la Comisión de Vigilancia de las cauciones que se hayan otorgado conforme lo dispone el artículo 136 de la Constitución Política del Estado; de los casos en que proceda el fincamiento de responsabilidades y previa autorización del mismo, promover ante las autoridades competentes el proceso necesario;
-
-IX. Rendir al Congreso del Estado cada tres meses de acuerdo con el artículo 135 Constitucional, por conducto de la Comisión Inspectora, informe de las operaciones practicadas;
-
-X. Las demás que le correspondan de acuerdo con esta Ley, el reglamento y las disposiciones que dicte la Cámara de Diputados.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
 
@@ -735,7 +683,7 @@ REVISION DE LA CUENTA PUBLICA
 
 ###### ARTICULO 83.
 
-La Contaduría General de Glosa, en apoyo a la Comisión Inspectora, procederá a revisar la documentación comprobatoria y justificativa de la cuenta pública del Gobierno del Estado y de los ayuntamientos, que se le hubieren remitido.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 84.
 
@@ -743,83 +691,51 @@ Las demás entidades pondrán en sus oficinas principales u otras correspondient
 
 ###### ARTICULO 85.
 
-La revisión de la cuenta pública tiene por objeto:
-
-I. Precisar el ingreso y gasto público;
-
-II. Determinar el resultado de la gestión financiera;
-
-III. Verificar que el ingreso deriva de la aplicación de las Leyes de Ingresos y demás disposiciones vigentes en la materia; y,
-
-IV. Comprobar que el gasto público se ajuste a los Presupuestos de Egresos y se han cumplido los programas y subprogramas aprobados.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 86.
 
-La Contaduría General de Glosa rendirá informe a la Comisión de Vigilancia para que esta a su vez lo haga llegar a través de la Comisión de Programación, Presupuesto y Cuenta al Congreso del Estado, para que se proceda, si así lo acuerda, a la aprobación de la cuenta de la Entidad.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 87.
 
-La aprobación de la cuenta pública por parte del Congreso del Estado, produce el efecto de extinguir las cauciones, fianza o garantía otorgadas para el manejo de los fondos o valores públicos a los funcionarios y empleados.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 88.
 
-Con objeto de uniformar criterios en materia de contabilidad, la Coordinación de Programación dará a conocer al Congreso las normas, procedimientos y sistemas que implante, a los cuales se sujetarán las entidades.
-
-El Departamento de Auditoría Interna del Ejecutivo, también dará a conocer oportunamente a la Contaduría General de Glosa, los programas mínimos de auditoría interna que fije para las entidades.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 89.
 
-Las entidades conservarán en su poder los libros de registro de contabilidad, así como los estados financieros y demás información y por lo que respecta a los documentos justificativos y comprobatorios de la cuenta pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
-
 ###### ARTICULO 90.
 
-Para los efectos de esta Ley, incurren en responsabilidad los servidores públicos que señala el Título Cuarto de la Constitución Política del Estado y demás leyes relativas; así como toda persona física o moral que intencionalmente o por culpa, cause daño o perjuicio a la hacienda pública estatal o municipal.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 91.
 
-Si de la revisión de la cuenta pública del Gobierno estatal, municipal o de las demás entidades se determina la existencia de responsabilidades, el Contador General de Glosa lo hará del conocimiento de la Comisión de Vigilancia para el efecto de que el Congreso del Estado proceda a denunciar los hechos ante la autoridad competente.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 92.
 
-Las responsabilidades que conforme a esta Ley se finquen, tienen por objeto resarcir a la hacienda pública estatal, municipal o de las demás entidades, el monto de los daños y perjuicios causados estimados en dinero.
-
-Las responsabilidades administrativas se financiarán independientemente de las que procedan por otras leyes o de las sanciones de carácter penal que imponga la autoridad judicial.
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 93.
 
-Las responsabilidades serán imputables:
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
-
-I. A los servidores públicos mencionados en los artículos 104 y 108 de la Constitución Política del Estado, por la incorrecta aplicación de las leyes fiscales o a los funcionarios o empleados de la Contaduría cuando no formulen observaciones sobre las irregularidades que detecten;
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
-
-II. A los servidores públicos a que alude la fracción anterior, por la indebida aplicación de las partidas presupuestales, falta de documentos justificativos o comprobatorios del gasto, por notoria negligencia administrativa; a empresas privadas o a los particulares que, en relación con el gasto del Gobierno estatal o municipal o de otra entidad, hayan incurrido en el incumplimiento de las obligaciones contraídas por actos ejecutados, convenios o contratos celebrados; y,
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
-
-III. A los servidores públicos señalados en la fracción I de este artículo, cuando no remitan documentación justificativa y comprobatoria de la cuenta pública o no rindan la información solicitada o dejen de rendir informes sobre el desvanecimiento de los pliegos de observaciones y recomendaciones formulados y remitidos por el Congreso o la Contaduría General de Glosa.
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ###### ARTICULO 94.
 
-Los créditos resultantes de la aplicación de responsabilidades a las personas físicas o morales, tendrán el carácter de fiscales y se harán efectivos a través del procedimiento económico-coactivo establecido en las leyes fiscales y en las demás disposiciones relativas.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 PRESCRIPCION
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+###### ARTÍCULO 95.
 
-###### Artículo 95.
-
-El fincamiento de responsabilidades prescribirá en los términos establecidos por la Ley de Responsabilidades de los Servidores Públicos, el Código Penal del Estado y demás leyes aplicables.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
 
 ## TRANSITORIOS
 
@@ -840,3 +756,15 @@ P.O. 17 DE ABRIL DE 1986.
 ###### ARTÍCULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+P.O. 28 DE JULIO DE 1986.
+
+DECRETO POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DE LA CONTADURÍA GENERAL DE GLOSA.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan los artículos 77, 78, 79, 81, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, y 95 de la Ley Orgánica del Congreso de Michoacán.
+
+###### ARTÍCULO CUARTO.
+
+Este Decreto entrará en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
