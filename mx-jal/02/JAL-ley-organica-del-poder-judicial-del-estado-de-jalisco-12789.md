@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "1997-07-01"
+last_updated: "1998-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -235,71 +235,67 @@ Las sesiones del Pleno serán públicas y, por excepción secretas, en los casos
 
 Las sesiones del Pleno se celebrarán en los días y a las horas que fije el reglamento. Podrán celebrarse sesiones extraordinarias cuando lo crea necesario el Presidente o lo pida alguno de los magistrados numerarios de las salas especializadas.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+
 ###### Artículo 23.
 
 Son facultades del Pleno:
 
 I. Conocer de todas las controversias jurisdiccionales del orden penal, civil, de lo familiar y mercantil, de conformidad con lo que establezcan las leyes estatales y federales;
 
-II. Resolver los conflictos de competencia que se susciten entre los órganos jurisdiccionales integrantes del Poder Judicial del Estado;
+II. Nombrar y remover a sus secretarios y demás empleados, en los términos que establezca la ley de la materia respecto de la Carrera Judicial;
 
-III. Formular su reglamento interior;
+III. Conceder licencias menores de dos meses, a los magistrados del Supremo Tribunal, para que se separen del ejercicio de sus funciones;
 
-IV. Nombrar y remover a sus secretarios y demás empleados, en los términos que establezca la ley de la materia respecto de la Carrera Judicial;
+IV. Manejar libremente la administración de su presupuesto;
 
-V. Conceder licencias menores de dos meses, a los magistrados del Supremo Tribunal, para que se separen del ejercicio de sus funciones;
+V. Expedir acuerdos generales, a fin de lograr una adecuada distribución entre las salas de los asuntos que competa conocer al propio Tribunal;
 
-VI. Manejar libremente la administración de su presupuesto;
+VI. Determinar la competencia de las salas que lo integran;
 
-VII. Expedir acuerdos generales, a fin de lograr una adecuada distribución entre las salas de los asuntos que competa conocer al propio Tribunal;
+VII. Resolver los conflictos de trabajo suscitados entre el Supremo Tribunal de Justicia y sus servidores públicos en términos de la fracción XII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
 
-VIII. Determinar la competencia de las salas que lo integran;
+VIII. Designar, a propuesta de su Presidente, al representante del Supremo Tribunal ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
 
-IX. Resolver los conflictos de trabajo suscitados entre el Supremo Tribunal de Justicia y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
+IX. Resolver los conflictos administrativos en el ámbito de su competencia;
 
-X. Designar, a propuesta de su Presidente, al representante del Supremo Tribunal ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
+X. Elegir de entre sus miembros al Presidente del Supremo Tribunal de Justicia;
 
-XI. Resolver los conflictos administrativos en el ámbito de su competencia;
+XI. Ejercer y preservar la soberanía del Estado en lo concerniente a la administración de justicia, en el ámbito de su competencia;
 
-XII. Elegir de entre sus miembros al Presidente del Supremo Tribunal de Justicia;
+XII. Acordar, cuando se considere conveniente por las necesidades del servicio, que tres de los magistrados supernumerarios, se constituyan en Sala Auxiliar y fijar su competencia en los asuntos que deba conocer;
 
-XIII. Ejercer y preservar la soberanía del Estado en lo concerniente a la administración de justicia, en el ámbito de su competencia;
-
-XIV. Acordar, cuando se considere conveniente por las necesidades del servicio, que tres de los magistrados supernumerarios, se constituyan en Sala Auxiliar y fijar su competencia en los asuntos que deba conocer;
-
-XV. Nombrar a propuesta de su Presidente, a los servidores públicos de carácter judicial, y administrativo del Supremo Tribunal, con excepción de los secretarios relatores adscritos a los magistrados que serán nombrados a propuesta de éstos y el personal de cada Sala que lo hará su Presidente previo consenso de sus integrantes. Así como removerlos en los términos que determinen las leyes.
+XIII. Nombrar a propuesta de su Presidente, a los servidores públicos de carácter judicial, y administrativo del Supremo Tribunal, con excepción de los secretarios relatores adscritos a los magistrados que serán nombrados a propuesta de éstos y el personal de cada Sala que lo hará su Presidente previo consenso de sus integrantes. Así como removerlos en los términos que determinen las leyes.
 
 Para estos efectos, antes de designar a la persona que deba ocupar el cargo, el Supremo Tribunal, su Presidente, las salas o el magistrado respectivo, deberán solicitar al Consejo General la relación de las personas que se encuentren en aptitud de ocupar la vacante;
 
-XVI. Aprobar, modificar o rechazar, los convenios que el Presidente en representación del Supremo Tribunal de Justicia celebre;
+XIV. Aprobar, modificar o rechazar, los convenios que el Presidente en representación del Supremo Tribunal de Justicia celebre;
 
-XVII. Resolver los conflictos de competencia que se susciten entre las salas; en este caso sus integrantes sólo tendrán voz, pero no voto;
+XV. Resolver los conflictos de competencia que se susciten entre las salas; en este caso sus integrantes sólo tendrán voz, pero no voto;
 
-XVIII. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con los elaborados por los Tribunales Electoral, de lo Administrativo y Consejo General los envíe al Titular del Poder Ejecutivo;
+XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con los elaborados por los Tribunales Electorales, de lo Administrativo y Consejo General los envíe al Titular del Poder Ejecutivo;
 
-XIX. Presentar al Poder Legislativo iniciativas de ley, en el ramo de justicia;
+XVII. Presentar al Poder Legislativo iniciativas de ley, en el ramo de justicia;
 
-XX. Expedir el reglamento y demás disposiciones necesarias para el funcionamiento interno del Supremo Tribunal de Justicia;
+XVIII. Formular y expedir el reglamento y demás disposiciones necesarias para el funcionamiento interno del Supremo Tribunal de Justicia;
 
-XXI. Conceder licencia al magistrado que pase a formar parte del Consejo General del Poder Judicial del Estado;
+XIX. Conceder licencia al magistrado que pase a formar parte del Consejo General del Poder Judicial del Estado;
 
-XXII. Nombrar las comisiones que sean necesarias para la atención de los asuntos de su competencia;
+XX. Nombrar las comisiones que sean necesarias para la atención de los asuntos de su competencia;
 
-XXIII. Designar a su representante ante la comisión Sustanciadora del Supremo Tribunal;
+XXI. Llevar el registro y seguimiento de la situación patrimonial de sus servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
 
-XXIV. Llevar el registro y seguimiento de la situación patrimonial de sus servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+XXII. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente para la zona metropolitana de Guadalajara al día de cometerse la falta: a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones o por cualquier otro medio falten al respeto a algún órgano del Supremo Tribunal;
 
-XXV. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente para la zona metropolitana de Guadalajara al día de cometerse la falta: a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones o por cualquier otro medio falten al respeto a algún órgano del Supremo Tribunal;
+XXIII. Establecer los criterios y las medidas conducentes para el mejoramiento de la administración de justicia del Supremo Tribunal;
 
-XXVI. Establecer los criterios y las medidas conducentes para el mejoramiento de la administración de justicia del Supremo Tribunal;
+XXIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Supremo Tribunal de Justicia, se ajusten a los criterios contemplados en la ley de la materia;
 
-XXVII. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Supremo Tribunal de Justicia, se ajusten a los criterios contemplados en la ley de la materia;
+XXV. Solicitar al Consejo General del Poder Judicial, el cambio de adscripción de jueces y en su caso, su remoción del cargo por causa justificada;
 
-XXVIII. Solicitar al Consejo General del Poder Judicial, el cambio de adscripción de jueces y en su caso, su remoción del cargo por causa justificada;
+XXVI. Sugerir al Consejo General la modificación en el número y límites territoriales de los partidos judiciales en que se divide el territorio del Estado; y
 
-XXIX. Sugerir al Consejo General la modificación en el número y límites territoriales de los partidos judiciales en que se divide el territorio del Estado; y
-
-XXX. Las demás que le otorgue la Constitución Política del Estado de Jalisco y las leyes aplicables.
+XXVII. Las demás que le otorgue la Constitución Política del Estado de Jalisco y las leyes aplicables.
 
 ###### Artículo 24.
 
@@ -333,9 +329,11 @@ III. Haber cumplido veintisiete años de edad y ser menor de sesenta y cinco;
 
 IV. Contar con título de abogado o de licenciado en derecho, registrado ante la Dirección de Profesiones del Estado;
 
-V. Acreditar tres años de práctica profesional;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-VI. No haber sido sentenciado por delito doloso que amerite pena privativa de libertad, ni en juicio de responsabilidad en los términos de la ley de la materia;
+V. Acreditar tres años de práctica profesional, contados a partir de la fecha del registro del título profesional;
+
+VI. Las que el Pleno o la Presidencia le confieran y las demás que señale el reglamento;
 
 VII. No tener impedimento físico o enfermedad que lo incapacite para el cargo; y
 
@@ -809,7 +807,9 @@ V. Decretar las medidas de apremio para hacer cumplir las determinaciones de la 
 
 VI. Emitir opinión, respecto a las solicitudes de licencia que presente el personal de la Sala; y
 
-VIII. (sic) Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+VII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
 
@@ -1077,7 +1077,9 @@ XIII. Ejercer el Presupuesto de Egresos del Tribunal;
 
 XIV. Proponer al Pleno del Tribunal Electoral los nombramientos del Secretario General del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal, así como el del representante de este último, ante la correspondiente Comisión Substanciadora; y
 
-XIV (sic). Las demás que le confiera el Pleno del Tribunal.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XV. Las demás que le confiera el Pleno del Tribunal.
 
 ### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
 
@@ -1929,9 +1931,11 @@ La dirección contará con un área de investigación, la cual tendrá como func
 
 La Dirección de Visitaduría Judicial es el órgano encargado de inspeccionar el funcionamiento de los juzgados de primera instancia, menores y de paz y para supervisar la conducta de los integrantes de éstos órganos.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+
 ###### Artículo 168.
 
-La Dirección de Visitaduría contará con un cuerpo de servidores públicos denominados visitadores, quienes tendrán el carácter de representantes del Consejo General del Poder Judicial del Estado.
+La Dirección de Visitaduría contará con un cuerpo de servidores públicos denominados visitadores, quienes tendrán el carácter de autoridad del Consejo General del Poder Judicial para los efectos de sus funciones.
 
 ###### Artículo 169.
 
@@ -1973,9 +1977,13 @@ III. Comprobar que se encuentren debidamente asegurados los instrumentos y objet
 
 IV. Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-V. Hacer constar el número de asuntos penales y civiles que se hayan iniciado durante el tiempo que comprenda la inspección, y determinar si los procesados que gozan del beneficio de la libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-VI. Examinar los expedientes formados con motivo de las causas penales, civiles, y de lo familiar que estimen convenientes a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y se han observado los términos constitucionales y demás garantías procesales; y
+V. Hacer constar el número de asuntos penales y civiles, mercantiles y de lo familiar que se hayan iniciado durante el tiempo que comprenda la inspección, y determinar si los procesados que gozan del beneficio de la libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si en algún proceso en suspenso transcurrió el término de prescripción de la acción penal;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+VI. Examinar los expedientes formados con motivo de las causas penales, civiles mercantiles y de lo familiar que estimen convenientes a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y se han observado los términos constitucionales y demás garantías procesales; y
 
 VII. Las demás que le determine el Pleno del Consejo General por medio de acuerdos generales.
 
@@ -2003,9 +2011,11 @@ VI. La firma del Visitador y del titular del órgano jurisdiccional correspondie
 
 Del acta elaborada por el Visitador, deberán ser entregadas copias al titular del órgano jurisdiccional visitado y al Director de Disciplina y Responsabilidades, para que proceda de conformidad con sus facultades y obligaciones.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+
 ###### Artículo 177.
 
-El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Juez de Primera Instancia, Menor o de Paz.
+El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
 ### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
 
@@ -2051,9 +2061,13 @@ VII. Secretario de Acuerdos de Juzgado Especializado de Primera Instancia;
 
 VIII. Secretario Conciliador de Juzgado de Primera Instancia;
 
-IX. Secretario de Juzgado Mixto de Primera Instancia;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-X. Secretario de Juzgado Especializado de Primera Instancia;
+IX. Secretario de Juzgado Especializado de Primera Instancia;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+X. Secretario de Juzgado Mixto de Primera Instancia;
 
 XI. Notificador;
 
@@ -2125,7 +2139,9 @@ II. Un Magistrado del Supremo Tribunal de Justicia;
 
 III. Un Juez de Primera Instancia ratificado; y
 
-III. (sic) El Director de Investigación y Capacitación.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+IV. El director de Investigación y Capacitación.
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
@@ -2207,7 +2223,9 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 Los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco y el presente ordenamiento.
 
-También se procederá en los términos del párrafo anterior cuando los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral y los titulares del Consejo General del Poder Judicial acepten o desempeñen cargo o empleo de la Federación, de los Estados, del Distrito Federal o de los particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia, en su caso.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+
+También se procederá en los términos del párrafo anterior cuando los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral y los titulares del Consejo General del Poder Judicial acepten o desempeñen cargo o empleo de la Federación, de los Estados, del Distrito Federal o de los particulares, salvo los casos de docencia o los que desempeñen sin remuneración en asociaciones científicas, literarias o de beneficencia, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia, en su caso.
 
 ###### Artículo 197.
 
@@ -2241,49 +2259,91 @@ IX. Emitir opinión pública que implique prejuzgar sobre un asunto de su conoci
 
 X. Abandonar la residencia de órgano jurisdiccional al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-XII (sic). Dictar resoluciones o trámites infundados o notoriamente improcedentes o innecesarios, contrarios a lo dispuesto por las leyes procesales, tendientes a retardar el procedimiento aunque con ello no se trate de favorecer a alguna de las partes;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XIII. Fijar cauciones o fianzas notoriamente excesivas o insuficientes;
+XI. Dictar resoluciones o trámites infundados o notoriamente improcedentes o innecesarios, contrarios a lo dispuesto por las leyes procesales, tendientes a retardar el procedimiento aunque con ello no se trate de favorecer a alguna de las partes;
 
-XIV. Desobedecer injustificadamente las circulares expedidas por el Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal Administrativo, así como las expedidas por el Consejo General;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XV. No acatar las indicaciones de sus superiores jerárquicos aunque éstas hayan sido verbales, siempre que éstas se ajusten a derecho;
+XII. Fijar cauciones o fianzas notoriamente excesivas o insuficientes;
 
-XVI. Asentar hechos falsos en las actuaciones o alterar éstas aunque no se cause perjuicio con ello a alguna de las partes;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XVII. Dar mal ejemplo con su conducta en el trabajo a sus compañeros o subalternos o inducirlos a que falten a sus obligaciones;
+XIII. Desobedecer injustificadamente las circulares expedidas por el Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal Administrativo, así como las expedidas por el Consejo General;
 
-XVIII. Hacer uso de medidas de apremio sin causa justificada;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XIX. Conducirse con parcialidad en los procedimientos o asesorar a alguna de las partes, aún de manera accidental;
+XIV. No acatar las indicaciones de sus superiores jerárquicos aunque éstas hayan sido verbales, siempre que éstas se ajusten a derecho;
 
-XX. Tratar al público y a sus compañeros de trabajo, con desatención o despotismo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XXI. Comportarse públicamente en demérito del respeto que debe a su cargo;
+XV. Asentar hechos falsos en las actuaciones o alterar éstas aunque no se cause perjuicio con ello a alguna de las partes;
 
-XXII. Autorizar o permitir la salida de expedientes o documentos de la oficina fuera de los casos ordenados por la ley;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XXIII. Ocultar los expedientes para evitar que recaiga acuerdo en los mismos;
+XVI. Dar mal ejemplo con su conducta en el trabajo a sus compañeros o subalternos o inducirlos a que falten a sus obligaciones;
 
-XXIV. Ocultar a los interesados los expedientes que tengan derecho a consultar;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XXV. No asistir o llegar tarde a sus labores y dejar de cumplir con las horas reglamentarias de trabajo sin causa justificada;
+XVII. Hacer uso de medidas de apremio sin causa justificada;
 
-XXVI. Conducirse con indiscreción respecto a los asuntos que se tramiten en la oficina donde trabaje;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XXVII. Sustraer o permitir que se sustraigan documentos o expedientes para facilitarlos a los interesados;
+XVIII. Conducirse con parcialidad en los procedimientos o asesorar a alguna de las partes, aún de manera accidental;
 
-XXVIII. Presentarse a sus labores en estado de ebriedad o bajo la influencia de enervantes;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XXIX. Asignar a los servidores públicos judiciales labores ajenas a sus funciones; y
+XIX. Tratar al público y a sus compañeros de trabajo, con desatención o despotismo;
 
-XXX. Las demás que determinen el presente ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XX. Comportarse públicamente en demérito del respeto que debe a su cargo;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXI. Autorizar o permitir la salida de expedientes o documentos de la oficina fuera de los casos ordenados por la ley;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXII. Ocultar los expedientes para evitar que recaiga acuerdo en los mismos;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXIII. Ocultar a los interesados los expedientes que tengan derecho a consultar;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXIV. No asistir o llegar tarde a sus labores y dejar de cumplir con las horas reglamentarias de trabajo sin causa justificada;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXV. Conducirse con indiscreción respecto a los asuntos que se tramiten en la oficina donde trabaje;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXVI. Sustraer o permitir que se sustraigan documentos o expedientes para facilitarlos a los interesados;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXVII. Presentarse a sus labores en estado de ebriedad o bajo la influencia de enervantes;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXVIII. Asignar a los servidores públicos judiciales labores ajenas a sus funciones; y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXIX. Las demás que determinen el presente ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 Artículo. 199.- Sin perjuicio de lo dispuesto al inicio del presente capítulo, incurrirán en faltas los secretarios de acuerdos, relatores y secretarios en general o quienes hagan sus veces, por las acciones u omisiones siguientes:
 
 I. Realizar emplazamientos, en lugar distinto del señalado en autos, sin cerciorarse por cualquier medio que el demandado tiene su domicilio en donde se efectúa la diligencia;
 
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
 II. Llevar a cabo embargos, aseguramientos, retención de bienes o lanzamientos a personas físicas o morales que no sean las designadas en la resolución respectiva o cuando en el momento de la diligencia o antes de que concluya la misma, se le demuestre que esos bienes son ajenos;
+
+La conducta no se sancionará cuando la ley o la jurisprudencia expresamente permitan actuar en contravención de la presente fracción;
 
 III. Dejar de realizar con la debida oportunidad y abstenerse de practicar las diligencias encomendadas, cuando éstas deban efectuarse dentro y fuera del Tribunal o Juzgado;
 
@@ -2336,6 +2396,10 @@ El Consejo General del Poder Judicial del Estado podrá señalar, mediante acuer
 El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial del Estado se iniciará de oficio, por queja o denuncia presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el Agente del Ministerio Público. Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
 
 Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+> <small>(ADICIONADO P.O. 10 DE ENERO DE 1998)</small>
+
+Cuando el denunciante omita ofrecer pruebas al presentar el escrito de denuncia, se le prevendrá para que subsane la omisión en un plazo no mayor de tres días contados a partir del momento en que surta efecto la notificación de la prevención.
 
 ###### Artículo 203.
 
@@ -2672,3 +2736,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE ENERO DE 1998.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
