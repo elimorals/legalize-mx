@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1950-01-26"
+last_updated: "1950-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1950.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -229,9 +229,9 @@ II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando m
 
 III. Ser mayor de veinticinco años en la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1950)</small>
 
-IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, el Secretario General del Gobierno del Estado, el Tesorero General del mismo, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de 1a. Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o Gerdarmería (sic) del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos seis meses antes del día de la elección.
+IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, el Secretario General de Gobierno del Estado, El Tesorero General del mismo, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de Primera Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o gendarmería del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos tres meses antes del día de la elección.
 
 ###### Art. 26.
 
@@ -1051,19 +1051,23 @@ III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
 
 IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 1950)</small>
 
 ###### Art. 116 Bis.
 
-Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener los siguientes:
+Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren es necesario tener los siguientes:
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 I. 25 años cumplidos en la fecha de la elección.
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 II. Haber obtenido mayoría de sufragios legales.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1934)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1950)</small>
 
-III. No haber sido Secretario General del Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de 1a. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los seis meses anteriores al día de la elección.
+III. No haber sido Secretario General de Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de 1ra. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los tres meses anteriores al día de la elección.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
 
@@ -1071,7 +1075,7 @@ IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, n
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1939)</small>
 
-V. Ser originario de la Municipalidad que lo elija, o vecino de ella cuando menos cinco años anteriores a la elección, siempre que sea ciudadano sinaloense por nacimiento y en ejercicio pleno de sus derechos cívicos.
+V. Ser originario de la Municipalidad que lo elija, o vecino de élla cuando menos cinco años anteriores a la elección, siempre que sea ciudadano sinaloense por nacimiento y en ejercicio pleno de sus derechos cívicos.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1944)</small>
 
@@ -1670,3 +1674,7 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 26 DE ENERO DE 1950.
 
 Artículo Unico.-. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE MAYO DE 1950.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
