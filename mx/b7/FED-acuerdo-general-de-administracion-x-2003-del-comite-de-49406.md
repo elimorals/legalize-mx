@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-x-2003-del-comite-de-49406"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-09-12"
-last_updated: "2003-09-12"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-04"
 
 ACUERDO GENERAL DE ADMINISTRACION X/2003, DEL CUATRO DE AGOSTO DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECE Y REGULA LA ESTRUCTURA ADMINISTRATIVA DE LA OFICIALIA MAYOR DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2004.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de septiembre de 2003.
 
@@ -119,7 +119,9 @@ QUINTO. La Dirección General de Obras y Mantenimiento tendrá las siguientes at
 
 I. Fungir como área globalizadora, recabando y concentrando las solicitudes que contengan las necesidades de mantenimiento, adecuaciones y obra pública de las unidades jurisdiccionales y administrativas de la Suprema Corte, valorando, programando y presupuestando su integración en el anteproyecto de presupuesto de este Alto Tribunal;
 
-II. Proponer, implementar y ejecutar programas de intendencia, mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de la Suprema Corte tanto en el área metropolitana como en el interior de la República;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACION XXIII/2003, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE ENERO DE 2004)</small>
+
+II. Proponer, implementar y ejecutar programas de mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de la Suprema Corte tanto en el área metropolitana como en el interior de la República;
 
 III. Proponer los programas de vigilancia y seguridad en los inmuebles de la Suprema Corte tanto en el área metropolitana como en el interior de la República;
 
@@ -239,7 +241,39 @@ VIII. Cumplir con los compromisos internacionalmente adquiridos por este Alto Tr
 
 IX. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Secretario Técnico Jurídico, el Oficial Mayor, el Presidente, los comités de Ministros y el Pleno de la Suprema Corte de Justicia de la Nación.
 
-DECIMO TERCERO. La Secretaría de Administración tendrá las atribuciones y obligaciones necesarias para supervisar la formulación de planes y programas de las unidades administrativas de su adscripción; vigilar la ejecución de los mismos para la mejor consecución de las metas y objetivos; definir y desarrollar, los mecanismos y lineamientos encaminados a instrumentar los procesos internos de: programación, presupuestación, evaluación y control del presupuesto autorizado por la Suprema Corte; el cobro de los recursos autorizados en el Presupuesto de Egresos; la recepción, resguardo y devolución de bienes, valores y documentos en custodia; la administración de los recursos financieros; la administración, capacitación y desarrollo individual del personal, así como brindar servicios y prestaciones al mismo.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACION XXIII/2003, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 16 DE ENERO DE 2004)</small>
+
+DECIMO TERCERO. La Secretaría de Administración tendrá las siguientes atribuciones y obligaciones:
+
+I. Supervisar la formulación de planes y programas de las unidades administrativas de su adscripción;
+
+II. Vigilar la ejecución de los planes y programas de las unidades administrativas de su adscripción para la mejor consecución de sus metas y objetivos;
+
+III. Definir y desarrollar los mecanismos y lineamientos encaminados a instrumentar los procesos internos de programación, presupuestación, evaluación y control del presupuesto autorizado por la Suprema Corte;
+
+IV. El cobro de los recursos autorizados en el Presupuesto de Egresos;
+
+V. La recepción, resguardo y devolución de bienes, valores y documentos en custodia;
+
+VI. La administración de los recursos financieros;
+
+VII. La capacitación y desarrollo individual del personal, así como brindar servicios y prestaciones al mismo;
+
+VIII. Proponer, implementar y ejecutar programas de intendencia;
+
+IX. Proponer los programas de vigilancia y seguridad en los inmuebles de la Suprema Corte tanto en el área metropolitana como en el interior de la República;
+
+X. Administrar los inventarios de bienes de la Suprema Corte en el ámbito de su competencia y la desincorporación de aquellos bienes en desuso y obsoletos;
+
+XI. Planear, programar, organizar, dirigir, controlar y supervisar las actividades de las áreas de control vehicular, correspondencia y mensajería;
+
+XII. Vigilar el control y almacenamiento de consumibles, así como de mobiliario y equipo;
+
+XIII. Llevar el control de los bienes ingresados al almacén general, para su registro documental y electrónico en los inventarios;
+
+XIV. Llevar el control y autorizar la contratación y pago de hospedaje, transporte y otorgamiento de viáticos a los servidores públicos de este Alto Tribunal; y,
+
+XV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Oficial Mayor, el Presidente, los comités de Ministros y el Pleno de la Suprema Corte de Justicia de la Nación.
 
 DECIMO CUARTO. Se crean las Direcciones Generales de Presupuesto y Contabilidad y de Desarrollo Humano, las que estarán adscritas a la Secretaría de Administración, al igual que la Tesorería.
 
@@ -348,3 +382,13 @@ EL LICENCIADO RAFAEL COELLO CETINA, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Comité de Acuerdos y Reglamentos en su sesión celebrada hoy cuatro de septiembre en curso, aprobó el Acuerdo General de Administración Número X/2003, del cuatro de agosto de dos mil tres, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se establece y regula la estructura administrativa de la Oficialía Mayor de este Alto Tribunal.- México, Distrito Federal, a cuatro de septiembre de dos mil tres.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo General de Administración número X/2003, del cuatro de agosto del año en curso, constante de quince fojas útiles, concuerda fiel y exactamente con la copia certificada por el Director General de Asuntos Jurídicos de la Suprema Corte de Justicia de la Nación que se tuvo a la vista, y se certifica para dar cumplimiento a lo dispuesto en su punto Sexto Transitorio.- México, Distrito Federal, a cuatro de septiembre de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE ENERO DE 2004.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. A partir de la entrada en vigor de este Acuerdo, el personal que desarrollaba las funciones que se transfieren a la Secretaría de Administración de la Suprema Corte de Justicia de la Nación, dependerán de ésta.
+
+TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública y en el Diario Oficial de la Federación.
