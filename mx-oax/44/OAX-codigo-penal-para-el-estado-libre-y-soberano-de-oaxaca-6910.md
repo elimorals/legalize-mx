@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1998-02-07"
+last_updated: "1998-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -39,59 +39,97 @@ CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 # LIBRO PRIMERO.
 
-## TITULO PRELIMINAR.
-
-De la aplicación de este Código.
-
-1o.- Este Código se aplicará en todo el Estado, por los delitos de la competencia de los Tribunales Comunes, cometidos en su territorio, cualesquiera que sean la residencia o nacionalidad de los responsables.
-
-2o.- Se aplicará asimismo, por los delitos que se inicien, preparen o cometan fuera del Estado, cuando produzcan o se pretenda que tengan efectos en su territorio, siempre que no se haya sentenciado ya debidamente por ellos al presunto responsable por los Tribunales competentes de otro lugar.
-
-3o.- Los delitos contínuos cuya ejecución se inicie fuera del Estado y que se sigan cometiendo en éste, se perseguirán con arreglo a las leyes del mismo, sean mexicanos o extranjeros los responsables.
-
-4o.- Cuando se cometa algún delito no previsto en este Código, pero sí en una ley especial del Estado, se aplicará ésta, observando supletoriamente las disposiciones de este Código en lo no previsto por aquélla.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ## TITULO PRIMERO.
 
-Responsabilidad Penal.
+De los ámbitos de aplicación.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+1o.- Este Código se aplicará en el Estado de Oaxaca:
+
+I.- Por los delitos de la competencia de los Tribunales Comunes, cometidos en su territorio;
+
+II.- Por los delitos que se cometan en otra entidad federativa cuando produzcan efectos dentro del territorio oaxaqueño, salvo que por ellos el sujeto activo haya sido sentenciado por tribunales competentes de otro lugar; y
+
+III.- Por los delitos permanentes y los continuados cometidos en otra entidad federativa y que se sigan cometiendo en el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+2o.- Este Código se aplicará a todas las personas a partir de los dieciséis años de edad, cualesquiera que sean su residencia o nacionalidad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+3o.- Es aplicable la ley penal vigente en el tiempo de realización del delito.
+
+Cuando entre la comisión de un delito y la correspondiente extinción de la pena o medida de seguridad entre en vigor otra ley aplicable al caso, se estará de oficio a lo dispuesto en la ley más favorable al agente.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+4o.- Cuando se cometa un delito no previsto en este Código, pero sí en otra ley del Estado, se aplicará esta última en lo conducente las disposiciones del presente Código.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+5o.- Cuando la misma materia esté regulado por diversas disposiciones penales: La especial prevalecerá sobre la general, la de mayor entidad progresiva absorberá a la de menor entidad, la del hecho posterior de agotamiento cederá ante la del hecho anterior, y la subsidiaria se aplicará sólo cuando no sea posible aplicar la principal.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+## TITULO SEGUNDO.
+
+Del hecho típico.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
-Reglas generales sobre delitos y responsabilidad.
+Del delito.
 
-5o.- Delito es el acto u omisión que sancionan las leyes penales.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+6o.- El delito puede ser realizado por acción o por omisión.
 
-6o.- En los delitos de resultado material también será atribuible el resultado típico producido al que omita impedirlo, si éste tenía el deber jurídico de evitarlo. En estos casos se considerará que el resultado es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenía el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
+Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad. No será autor del resultado si éste sobrevino en virtud de un acontecimiento extraño a su propia actividad.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-7o.- Los delitos pueden ser:
+7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se haya en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
 
-I.- Dolosos, y
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-II.- Culposos.
+8o.- Los delitos sólo pueden cometerse dolosa o culposamente:
 
-Obra dolosamente el que, conociendo los elementos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización del hecho descrito por la ley, y
+I.- Obra dolosamente el que, conociendo los elementos subjetivos del hecho típico, quiere o acepta su realización; y
 
-Obra culposamente el que produce el resultado típico, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación a un deber de cuidado, que debía y podía observar según las circunstancias y condiciones personales.
+II.- Obra culposamente el que no provee el cuidado posible y adecuado para no producir, o en su caso evitar, la previsible y evitable lesión típica del bien jurídico.
 
-8o.- La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los casos especificados en la ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-9o.- Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las Instituciones del Estado, comete un delito con los medios que para tal objeto las mismas entidades le proporcionan, de modo que resulta cometido a nombre o bajo el amparo de la representación social o a beneficio de ella, los tribunales podrán sujetarla a proceso, para el efecto de decretar en la sentencia, las sanciones correspondientes, que pueden traducirse en la suspensión o disolución de la agrupación, cuando lo estimen necesario para la seguridad pública, sin perjuicio de la responsabilidad individual en que hubieren incurrido los autores de los delitos cometidos.
+9o.- El delito es:
 
-10.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
+I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+
+II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
+
+III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas y tratándose de bienes jurídicos, disponibles del mismo sujeto pasivo se viola el mismo precepto legal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+10.- Los delitos pueden ser consumados o de tentativa:
+
+I.- Existe consumación cuando el agente con su acción u omisión, lesiona el bien jurídico; y
+
+II.- Existe tentativa cuando la intención se exterioriza ejecutando la actividad que debía de producir el delito u omitiendo la que debería de evitarlo si, por causas ajenas a la voluntad del agente, no hay consumación pero sí puesta en peligro del bien jurídico.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
-Personas responsables de los delitos.
+De la autoría y participación.
 
-11.- Los delitos son imputables a todos los que hayan cumplido dieciséis años de edad.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-12.- Son autores o partícipes del delito:
+11.- Son autores o partícipes del delito:
 
 I.- Los que acuerden o preparen su realización;
 
@@ -103,29 +141,27 @@ IV.- Los que lo lleven a cabo sirviéndose de otro;
 
 V.- Los que determinen dolosamente a otro a cometerlo;
 
-VI.- Los que dolosamente presten ayuda o auxilien a otro para su comisión;
+VI.- Los que dolosamente presten ayuda o auxilien a otro para su comisión; y
 
-VII.- Los que con posterioridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito, y
+VII.- Los que con posterioridad a su ejecución, auxilien al delincuente, en cumplimiento a una promesa anterior al delito.
 
-VIII.- Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Los autores o partícipes a que se refiere el presente artículo responderán cada uno en la medida de su propia culpabilidad.
+12.- Si varios sujetos toman parte en la realización de un delito determinado y alguno de ellos comete otro delito, sin previo acuerdo con los otros, todos serán considerados autores de la comisión del nuevo delito en cualesquiera de las hipótesis siguientes:
 
-Para los sujetos a que se refieren las fracciones VI, VII y VIII, se aplicará la punibilidad dispuesta por el artículo 72 de este Código.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-13.- Si varios sujetos toman parte en la realización de un delito determinado y alguno de ellos comete otro delito, sin previo acuerdo con los otros, todos serán considerados autores de la comisión del nuevo delito en cualesquiera de las hipótesis siguientes:
-
-a).- Que el nuevo delito hubiere servido de medio adecuado para cometer el principal;
+a).- Que el nuevo delito hubiese servido de medio adecuado para cometer el principal;
 
 b).- Que el nuevo delito fuere una consecuencia necesaria o natural del realizado o de los medios concertados;
 
-c).- Que los participantes supieren previamente que se iba a cometer un nuevo delito; o
+c).- Que los participes supieran previamente que se iba a cometer un nuevo delito; o
 
 d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubieren hecho cuanto estaba de su parte para impedirlo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+13.- Cuando sin acuerdo previo, varios sujetos intervengan en la comisión de un delito y no se pueda precisar el resultado que cada quien produjo, a todos se les aplicará la sanción prevista en el artículo 60.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 19.
 
@@ -413,7 +449,7 @@ El Ejecutivo Federal, por conducto de la Secretaría, elaborará la iniciativa d
 
 ### CAPITULO III.
 
-Causas de exclusión del delito.
+De las causas de exclusión del delito.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -443,9 +479,15 @@ VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad d
 
 Cuando la capacidad a que se refiere el párrafo anterior, solo se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 72 A de este Código;
 
-VIII.- Se realice la acción o la omisión bajo un error invencible sobre alguno de los elementos esenciales que integran el tipo penal.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Si el error a que se refiere el párrafo anterior es vencible, se estará a lo dispuesto por el artículo 72 B de este Código;
+VIII.- Se realice la acción u omisión bajo un error invencible:
+
+a).- Sobre alguno de los elementos esenciales que integran el tipo penal; o
+
+b).- Respecto de la licitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma, o porque crea que está justificada su conducta.
+
+Si los errores a que se refieren los incisos anteriores son vencibles, se estará a lo dispuesto en el artículo 64 de este Código;
 
 IX.- Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho; o
 
@@ -458,6 +500,8 @@ X.- El resultado típico se produce por caso fortuito.
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 16.- Las causas de exclusión del delito se harán valer de oficio.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 32.
 
@@ -829,25 +873,37 @@ III. Los servidores públicos responsables del sistema que controle las operacio
 
 Los Poderes Legislativo y Judicial y los entes autónomos establecerán sistemas de control presupuestario, observando en lo conducente lo dispuesto en las fracciones anteriores.
 
-## TITULO SEGUNDO.
+## TITULO TERCERO.
 
-Penas y Medidas de Seguridad.
+De las penas y medidas de seguridad.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
-Reglas Generales.
+Universo.
 
-17.- Los Tribunales podrán aplicar como penas y medidas de seguridad, las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+17.- Las penas y medidas de seguridad son las siguientes:
 
 I.- Prisión;
 
-II.- Relegación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-III.- Confinamiento;
+II.- Semilibertad;
 
-IV.- Prohibición de ir a determinado lugar; o de residir en él;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-V.- Sanción pecuniaria;
+III.- Confinamiento y prohibición de concurrencia o residencia;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- Multa;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+V.- Reparación del daño;
 
 VI.- Pérdida de los instrumentos del delito, decomiso o destrucción de cosas peligrosas o nocivas;
 
@@ -857,7 +913,9 @@ VIII.- Inhabilitación, destitución o suspensión de cargos, empleos públicos 
 
 IX.- Suspensión o disolución de sociedades;
 
-X.- Amonestación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+X.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas;
 
 XI.- Apercibimiento;
 
@@ -867,7 +925,17 @@ XIII.- Publicación especial de sentencia;
 
 XIV.- Sujeción a la vigilancia de la Policía;
 
-XV.- Las demás que fijen las leyes.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XV.- Tratamiento de inimputables, en internamiento o en libertad; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+XVI.- Trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Las penas y medidas de seguridad no trascienden de la persona y bienes del sujeto activo, salvo lo dispuesto en los artículos 32, 33 y 44 de este código.
 
 ###### Artículo 46.
 
@@ -967,9 +1035,17 @@ Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte
 
 Prisión.
 
-18.- La prisión podrá ser de tres días a cuarenta años y consiste en la privación de la libertad en los reclusorios o centros de readaptación social, en los términos y con las modalidades previstas en la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-19.- Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
+18.- La prisión por un solo delito, podrá ser de tres días a cuarenta años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos de la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
+
+Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 51.
 
@@ -1031,9 +1107,19 @@ Los ejecutores de gasto no otorgarán garantías ni efectuarán depósitos para 
 
 ### CAPITULO III.
 
-Relegación.
+Semilibertad.
 
-20.- La relegación en los lugares señalados exprofeso para la Readaptación Social, se aplicará a los infractores declarados judicialmente habituales o de alta peligrosidad y cuando expresamente lo determine la Ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+20.- La semilibertad consiste en la privación de la libertad alternada con tratamiento en libertad. Se aplicará y cumplirá, según las circunstancias del caso, de modo siguiente:
+
+I.- Externación durante la semana de trabajo o educativa y reclusión de fin semana;
+
+II.- Salida de fin de semana, con reclusión durante el resto de la semana, y
+
+III.- Salida diurna, con reclusión nocturna; o salida nocturna y reclusión diurna.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 57.
 
@@ -1223,9 +1309,15 @@ Los titulares de las entidades, independientemente del régimen laboral que las 
 
 ### CAPITULO IV.
 
-Confinamiento.
+Confinamiento y prohibición de concurrencia o residencia.
 
 21.- El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Juez hará la designación del lugar y fijará el tiempo que durará la pena, conciliando la exigencia de la tranquilidad pública con la salud y las necesidades del condenado.
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+
+22.- La prohibición de ir a determinado lugar o de residir en él se extenderá únicamente a aquellos lugares en los que el infractor haya cometido el delito o en donde residieren el ofendido o sus familiares. El Juez fijará el tiempo que debe durar la medida, teniendo en cuenta las prevenciones del artículo anterior en cuanto sean aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 66.
 
@@ -1289,9 +1381,43 @@ La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
 ### CAPITULO V.
 
-Prohibición de ir a determinado lugar o de residir en él.
+Multa.
 
-22.- La prohibición de ir a determinado lugar o de residir en él se extenderá únicamente a aquellos lugares en los que el infractor haya cometido el delito o en donde residieren el ofendido o sus familiares. El Juez fijará el tiempo que debe durar la medida, teniendo en cuenta las prevenciones del artículo anterior en cuanto sean aplicables.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+24.- La multa se fijará por días multa y no podrá exceder de setecientos treinta días.
+
+El día multa equivale al salario mínimo general vigente en el lugar y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
+
+Cuando la ley establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley, con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
+
+Cuando en la ejecución de un delito intervienen varias personas, los tribunales fijaran la multa para cada uno de los activos, según su participación y sus condiciones económicas.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+25.- La obligación de pagar el importe de la multa, es preferente se cubrirá primero que cualquier otra de las obligaciones contraídas con posterioridad al delito, excepto el pago de la reparación del daño.
+
+Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente, por prestación de trabajo a favor de la comunidad.
+
+Cada jornada de trabajo saldará un día de multa. Cuando no sea posible o conveniente la sustitución de la multa por la prestación del servicio, la autoridad judicial podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa sustituidos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+26.- Dentro del plazo señalado para el cumplimiento voluntario, el sentenciado podrá solicitar al Juez que le conceda pagar la multa en parcialidades, pudiendo dicha autoridad fijar plazos de la manera siguiente:
+
+I.- Si el monto no excede de cien salarios, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
+
+II.- Si el monto excede de cien salarios, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
+
+Si el sentenciado se negare, sin causa justificada, a cubrir el importe de la multa, el Estado lo exigirá mediante el procedimiento económico coactivo.
+
+Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el producto de su trabajo, durante y con motivo del cumplimiento de la pena privativa de libertad que se hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que le falta.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 73.
 
@@ -1339,119 +1465,91 @@ Las dependencias y entidades deberán informar a la Secretaría previamente a la
 
 ### CAPITULO VI.
 
-Sanción pecuniaria.
+Reparación del daño.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-23.- La sanción pecuniaria comprende la multa y la reparación del daño.
+27.- La reparación del daño comprende:
 
-La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera de las obligaciones que se hubieren contraído con posterioridad al delito.
+a).- La Restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma a valor de reposición según el grado de uso, conservación y deterioro que corresponda;
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+b).- La Indemnización del daño material y moral, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima; y
 
-La multa es el pago al Estado de una suma de dinero que se fijará por días multa, los cuales no podrán exceder de setecientos treinta. El día multa equivale al salario mínimo general vigente en el lugar y en el momento de consumarse el delito, si fuere consumado, en el día que cesó, si fuere continuo o permanente, o en el que se realice el último acto tendiente a su ejecución, en el caso de tentativa. La ley podrá también señalar multas que no hagan relación al salario mínimo general.
+c).- El resarcimiento de los perjuicios causados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Cuando este Código establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
-
-24.- El importe de la sanción pecuniaria se distribuirá entre el Fondo para la Administración de Justicia y la parte ofendida; al primero se aplicará el importe de la multa y a la segunda el de la reparación.
-
-25.- Si no se logra hacer efectivo el importe de la sanción pecuniaria, se cubrirá preferentemente la reparación del daño y en su caso, a prorrata entre los ofendidos.
-
-26.- Si la parte ofendida renunciase a la reparación el importe se aplicará al Fondo para la Administración de Justicia.
-
-27.- Los depósitos y fianza que garanticen la libertad caucional, pasarán al Fondo para la Administración de Justicia, cuando el inculpado se sustraiga a la acción de los Tribunales.
-
-28.- Cuando en la ejecución de un delito intervienen varias personas, los tribunales fijarán multa para cada uno de los infractores, según su participación y sus condiciones económicas, y por lo que respecta a la reparación del daño, la deuda se considerará como mancomunada y solidaria.
-
-29.- El cobro de la reparación del daño se hará efectivo en la misma forma que la multa.
-
-30.- Si no alcanza a cubrirse la sanción pecuniaria con los bienes del infractor o con el producto de su trabajo creado durante y con motivo del cumplimiento de la medida privativa de libertad que se le hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que falta.
-
-31.- La autoridad a quien corresponda el cobro de la sanción pecuniaria, podrá fijar plazos para el pago, en los términos siguientes:
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
-
-I.- Si no excediere de cien salarios, se podrá conceder un plazo hasta de veinte días, para pagarla por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo;
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
-
-II.- Para el pago que exceda de cien salarios, se podrá conceder un plazo hasta de seis meses; el pago se hará por terceras partes, en las condiciones expresadas en la fracción anterior.
-
-El beneficio anterior sólo se concederá cuando sea solicitada dentro del plazo señalado para el cumplimiento voluntario.
-
-32.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
-
-33.- El autor de un delito está obligado a reparar el daño que con su comisión haya causado, salvo los casos sancionados por el artículo siguiente en los cuales lo estarán las personas que en el mismo se expresen.
-
-34.- Están obligados a reparar el daño en los términos que fija este Código y el de Procedimientos relativos.
-
-I.- Las personas físicas o morales por los delitos que cometan con motivo y en el desempeño de su servicio los que estén bajo su dirección y dependencia económica.
-
-II.- Las sociedades o agrupaciones por los delitos de sus socios o gerentes directores, en los términos en que, conforme a las leyes, sean responsables por las demás obligaciones que los segundos contraigan. Se exceptúa de esta regla a la sociedad conyugal, en la que, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que causa; y
-
-III.- El Estado, subsidiariamente, por sus funcionarios y empleados.
-
-35.- La reparación del daño comprenderá:
-
-I.- La restitución de la cosa obtenida por la comisión del delito y si esto no fuera posible, el pago del precio de la misma;
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
-
-II.- La indemnización del daño material y moral, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito sean necesarios para la recuperación de la salud de la víctima, y
-
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
-
-III.- El resarcimiento de los perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-La reparación del daño que deba ser hecha por el infractor tiene el carácter de pena y se exigirá de oficio por el Ministerio Público. En cambio, la reparación que se exija a terceras personas tiene el carácter de responsabilidad civil y se tramitará en los términos que fije el Código Procesal respectivo.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-La capacidad económica del obligado únicamente se tomará en cuenta para la reparación del daño moral, excepto tratándose de lesiones y homicidio.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-El monto de la reparación del daño será fijado de acuerdo con las pruebas que obren en el proceso, salvo lo dispuesto en el párrafo undécimo de este artículo.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+28.- El monto de la reparación del daño, será fijado de acuerdo con las pruebas que obran en el proceso, salvo lo dispuesto en el artículo 29.
 
 Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o parcial, permanente o temporal, el monto de la reparación se determinará atendiendo a lo dispuesto en la Ley Federal del Trabajo, computado sobre el salario o ingresos que percibiera la víctima al momento de su fallecimiento o de producirse la incapacidad.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
 
-La indemnización por muerte en ningún caso podrá ser inferior al monto señalado en el inciso b) de este artículo.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
 
-Tratándose de incapacidad mental, la reparación corresponderá a las personas a que se refiere el párrafo tercero del inciso b) de este artículo, a cuyo cuidado quede la víctima.
+I.- En caso de homicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
 
-A falta de pruebas específicas para fijar el monto de la reparación del daño, en los casos siguientes será:
+II.- En casos de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple o el doble del salario mínimo vigente, atendiendo a la regla establecida en la fracción anterior;
 
-a).- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple o el doble del salario mínimo vigente, atendiendo a la regla establecida en el inciso siguiente. Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente a un año de salarios mínimos.
+Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
 
-b).- En caso de homicidio el monto de la reparación del daño será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente.
+III.- En caso de que las lesiones no dejaren secuelas, el monto será el número de salarios correspondientes a los días que el pasivo tardó en sanar.
 
-Tratándose de menores de dieciocho años o incapacitados, la reparación se calculará sobre el doble del salario mínimo vigente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Tendrán derecho a recibir el monto de la reparación: el cónyuge y los hijos; los ascendientes concurrirán con aquéllos a menos que se pruebe que no dependían económicamente de la víctima, a falta de cónyuge concurrirá con las personas señaladas anteriormente, la persona con quien la víctima vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio; a falta de todos los anteriores, los parientes colaterales hasta el sexto grado, que resultaren afectados directa e inmediatamente.
+30.- Tienen derecho a recibir el monto de la reparación del daño:
 
-Si los beneficiarios no se apersonaren o no acreditaren estar en los supuestos mencionados, la reparación corresponderá al Estado de Oaxaca, y se aplicará al Fondo para la Administración de Justicia, quedando a salvo el derecho de los beneficiarios a reclamar dicho pago.
+a).- El sujeto pasivo;
 
-c).- Tratándose de lesiones que no dejan secuelas, el monto de los perjuicios ocasionados será el número de salarios correspondiente a los días que el pasivo tardó en sanar.
+b).- En caso de muerte o incapacidad del pasivo: el cónyuge y los hijos; a falta de éstos, los ascendientes, a menos que se pruebe que no dependían económicamente de la víctima; a falta de cónyuge, la persona con quien la víctima vivió como si fuera su cónyuge, durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio; a falta de todos los anteriores, los parientes colaterales hasta el sexto grado, que resultaren afectados directa e inmediatamente;
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+c).- Si los beneficiarios no se apersonaren o no acreditaren estar en los supuestos mencionados, el monto corresponderá al Estado de Oaxaca y se aplicará al Fondo para la Administración de Justicia, quedando a salvo el derecho de los beneficiarios a reclamar el pago de dicho monto.
 
-En todo proceso penal el Ministerio Público estará obligado a solicitar, en su caso, la condena de la reparación del daño y el juez a resolver lo conducente. El incumplimiento de esta obligación por el agente del Ministerio Público motivará que el juez, al momento de dictar sentencia, comunique al C. Procurador General de Justicia dicha omisión para que éste imponga la sanción correspondiente. Si el juez no resuelve sobre la solicitud del agente del Ministerio Público, será sancionado por el Tribunal de Alzada, con multa de treinta a cincuenta días de salario mínimo, sin perjuicio de otras acciones que puedan ejercerse en su contra.
+Si el beneficiario renuncia a la reparación del daño, el importe se aplicará al Fondo para la Administración de Justicia.
 
-36.- En los delitos culposos los automóviles, camiones o cualquier otro vehículo u objeto de uso lícito con que se cometa el delito, ya sean de propiedad del infractor o de un tercero obligado a la reparación, se asegurarán de oficio por la autoridad judicial para garantizar el pago de la reparación del daño, y solamente se levantará el aseguramiento si los propietarios otorgan fianza suficiente para garantizar dicho pago.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Para los efectos de este artículo los propietarios de vehículos y otros objetos de uso lícito, serán solidariamente responsables con el agente activo del delito por los daños que se causen.
+31.- El autor de un delito está obligado reparar los daños que, con su comisión, haya causado.
+
+Si hubiere varios activos, la obligación de la reparación del daño es solidaria.
+
+La capacidad económica del obligado, únicamente se tomará en cuenta para la reparación del daño moral, salvo disposición en contrario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+32.- Independientemente de lo previsto en el artículo anterior, están obligados a reparar los daños:
+
+I.- Las personas físicas o morales por los delitos que cometan con motivo y en el desempeño de su servicio los que estén bajo su dirección y dependencia económica;
+
+II.- Las sociedades o agrupaciones por los delitos de sus socios o gerentes directores, cuando, conforme a la ley, sean responsables de las obligaciones que los segundos contraigan. Se exceptúa de esta regla a la sociedad conyugal, en la que en caso de delito, cada cónyuge, responderá con sus bienes propios por el daño causado; y
+
+III.- El Estado, subsidiariamente, por los delitos cometidos por los servidores públicos con motivo y en ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+33.- Para hacer efectiva de un tercero la reparación del daño, a petición del ofendido o del Ministerio Público, paralelamente al proceso y en sección especial, se abrirá el incidente previsto en los artículos 343 a 347 del Código de Procedimientos Penales, corriendo el traslado respectivo al tercero obligado.
+
+Cuando se sobresea en el proceso penal o se dicte sentencia absolutoria, el juez penal seguirá conociendo en lo relativo a la reparación del daño, hasta dictar sentencia, si existe título jurídico civil que justifique el resarcimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+34.- En los delitos culposos, los objetos de uso lícitos con que se comete el delito, sean de propiedad del activo o de un tercero, se asegurarán de oficio para garantizar el pago de la reparación del daño. Se levantará el aseguramiento si los propietarios otorgan fianza suficiente para garantizar dicho pago.
+
+Para los efectos de este artículo, los terceros propietarios de vehículos y otros objetos de uso lícito, serán solidariamente responsables con el agente del delito por los daños causados.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+35.- El pago de la reparación del daño, se hará ante el tribunal de origen dentro del plazo razonable que se le haya fijado; sí no lo hiciere, el Estado lo exigirá mediante el procedimiento económico coactivo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Procurador General de Justicia, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
+
+Hecha la solicitud de condena de la reparación del daño por el Ministerio Público, el juez resolverá lo conducente. Si el Juez no resuelve sobre dicha solicitud, será sancionado por el Tribunal de alzada en los términos del párrafo anterior.
 
 ### CAPITULO VII.
 
@@ -1761,6 +1859,8 @@ Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejerc
 
 43.- La suspensión en el ejercicio de profesiones o actividades técnicas se regirá, en cuanto sea aplicable, por las disposiciones del artículo que precede.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 91.
 
 La transferencia del Fondo Mexicano del Petróleo que se realice al Fondo de Extracción de Hidrocarburos será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0087, y se sujetará a lo establecido en el artículo 4o-B de la Ley de Coordinación Fiscal.
@@ -1829,11 +1929,23 @@ El Comité Técnico instruirá la transferencia del Fondo Mexicano del Petróleo
 
 > <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-### CAPITULO X
+### CAPITULO X.
 
-Suspensión o disolución de Sociedades.
+Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas.
 
-44.- La suspensión o disolución de sociedades procederá cuando algún miembro o representante de una persona jurídica, sociedad, corporación o empresa de cualquier clase, cometa un delito, en los términos del artículo 9 de este Código.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+44.- Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las Instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionan, de modo que resulta cometido a nombre o bajo el amparo de la representación o a beneficio de ella, sin perjuicio de la responsabilidad individual en que hubieren incurrido los autores de los delitos cometidos, los tribunales, según lo estimen procedente, previo el procedimiento correspondiente con presencia del representante legal, decretarán:
+
+I.- La intervención de las funciones que realizan los órganos de representación de la persona jurídica colectiva, con las atribuciones que la ley confiere al interventor. La intervención será de un mes a dos años;
+
+II.- La sustitución de los administradores de la persona colectiva, encargando su función a un administrador designado por el Juez durante un período máximo de dos años. Para hacer la designación, el juez podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito. Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores, se hará en la forma ordinaria prevista por las normas aplicables a estos actos;
+
+III.- La privación temporal del ejercicio de aquellas operaciones que hubieren tenido relación directa con el delito cometido. Estas operaciones serán especificadas, con toda precisión, en la sentencia. Si se trata de operaciones lícitas, la prohibición no excederá de dos años; y
+
+IV.- La disolución y liquidación de la persona jurídica colectiva, la cual no podrá constituirse nuevamente por las mismas personas, sea que éstas intervengan directamente, sea que lo hagan por conducto de terceros. El Juez designará a quien deba hacerse cargo de la disolución y liquidación que se llevarán adelante en la forma prevista por la legislación aplicable a estas operaciones.
+
+Al imponer las sanciones mencionadas, el Juez tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros, frente a la persona jurídica colectiva y aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica colectiva sancionada.
 
 ###### Artículo 96.
 
@@ -2145,383 +2257,415 @@ Sujeción a la vigilancia de la Policía.
 
 55.- Esta medida puede modificarse en su duración y podrá también revocarse cuando el sentenciado lo pide y acredite su buena conducta, o que han cesado los motivos que hicieron dictar la providencia.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ### CAPITULO XV.
 
-De las otras medidas de seguridad.
+Tratamiento de inimputables en internamiento o en libertad.
 
-56.- Respecto de las demás medidas de seguridad, para su aplicación, circunstancias en que se hagan efectivas y duración, regirán las disposiciones comprendidas en capítulos especiales de éste Código, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-## TITULO TERCERO.
+56.- En el caso de los inimputables, el juzgador dispondrá la medida de tratamiento aplicable en internamiento o en libertad, previo el procedimiento correspondiente.
 
-Aplicación de Sanciones.
+Si se trata de internamiento, el sujeto inimputable, será internado en la institución correspondiente para su tratamiento.
 
-### CAPITULO I.
+En ningún, caso la medida de tratamiento impuesta por el Juez penal, excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo, la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, lo pondrá a disposición de las autoridades sanitarias para que procedan conforme a las leyes aplicables.
 
-Reglas Generales.
+Las personas inimputables, podrán ser entregadas por la autoridad judicial o ejecutora, en su caso, a quienes legalmente corresponde hacerse cargo de ellos, siempre que se obliguen a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando, por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
 
-57.- Dentro de los límites fijados por la Ley, los Jueces y Tribunales aplicarán las sanciones penales establecidas por cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del infractor. Para este efecto, los Tribunales deberán tener conocimiento directo del infractor, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
+La autoridad judicial competente, previa solicitud de la autoridad ejecutora, resolverá sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características del caso.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-58.- El Juez fijará las penas y medidas de seguridad que estime justas y procedentes dentro de los límites señalados por cada delito, con base en la gravedad del ilícito y el grado de culpabilidad del agente, teniendo en cuenta:
-
-I.- La magnitud del daño causado al bien jurídico o del peligro a que se hubiese sido expuesto;
-
-II.- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
-
-III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
-
-IV.- La forma y grado de intervención del agente en la comisión del delito así como su calidad y la de la víctima u ofendido;
-
-V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, su conducta anterior, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico indígena, se tomarán en cuenta, además, sus usos y costumbres;
-
-VI.- El comportamiento posterior del acusado con relación al delito cometido; y
-
-VII.- Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
-
-59.- El Juez deberá tener conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
-
-60.- No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares del ofendido, si las ignoraba inculpablemente al cometer el delito.
-
-61.- Las circunstancias calificativas o modificativas de la sanción penal que tienen relación con el hecho u omisión sancionados, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión del delito.
-
-62.- Las circunstancias personales de alguno o algunos de los delincuentes cuando sean modificativas o calificativas del delito, perjudican a todos los que lo cometen con conocimiento de ellas.
-
-63.- Cuando en la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgare una o más leyes que disminuyan la sanción establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley.
-
-64.- Cuando pronunciada una sentencia irrevocable en que hubiere impuesto una sanción privativa de libertad, se dictare una ley que dejando subsistente la sanción señalada al delito sólo disminuya su duración, si el acusado lo pidiere y se hallare en el caso de la nueva ley, se reducirá la sanción impuesta, en la misma proporción en que estén el máximo de la señalada en la ley anterior y el de la señalada en la posterior.
-
-65.- Cuando una ley quita a un hecho u omisión el carácter de delito que otra ley anterior le daba, se pondrá en absoluta libertad a los infractores a quienes se está juzgando y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
-
-66.- Siempre que con un solo hecho ejecutado en un solo acto, o con una omisión, se violen varias disposiciones penales que señalan sanciones diversas, se aplicará la del delito que merezca pena mayor, la cual podrá aumentarse hasta una mitad más del máximo de su duración.
-
-67.- Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
-
-### CAPITULO II.
-
-Aplicación de sanciones en casos de tentativa.
-
-68.- La tentativa es punible cuando se ejecutan hechos encaminados directa o inmediatamente a la realización de un delito, si éste no se consume (sic) por causas ajenas a la voluntad del agente.
-
-En casos de tentativa, los jueces aplicarán, tomando en consideración las disposiciones de los artículos 58 y 66, entre las dos terceras partes del mínimo a las dos terceras partes del máximo de las sanciones que deberían imponerse si el delito se hubiere consumado y además existirá caución de no ofender.
-
-### CAPITULO III.
-
-Aplicación de sanciones a los delitos culposos.
-
-69.- Los delitos culposos se sancionarán con prisión de tres días a seis años, y suspensión hasta de tres años, para ejercer profesión u oficio o privación definitiva de ese derecho. En ningún caso la pena, con excepción de la reparación del daño, pueda exceder de las tres cuartas partes de la fijada como máximo para el delito intencional.
-
-Cuando a consecuencia de actos u omisiones culposos, que sean imputables al operador de un vehículo destinado al servicio público de pasajeros, se cause más de un homicidio o concurra éste con lesiones graves, la prisión será de cinco a veinte años. Cuando tratándose de un vehículo que no sea de servicio público de pasajeros, su conductor cause los daños mencionados anteriormente, encontrándose en estado de ebriedad o bajo el influjo de alguna droga, la pena aplicable será de dos a ocho años de prisión. En ambos casos la pena de prisión se aplicará sin perjuicio de las otras penas establecidas en el párrafo anterior.
-
-No se impondrá pena alguna a quien por culpa en el manejo de vehículos en que viaje en compañía de alguno o algunos de sus descendientes, ascendientes, hermanos, cónyuge o concubina, ocasione lesiones u homicidio a uno o más de éstos.
-
-70.- Solamente se actuará a petición del ofendido:
-
-I.- Cuando el acto culposo origine únicamente daño en propiedad ajena, cuyo monto no exceda de cuarenta mil pesos;
-
-II.- Cuando el acto culposo origine solamente daño en propiedad ajena, cualquiera que sea su monto, con motivo del manejo de vehículos de motor.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-Cuando por culpa y con motivo del tránsito de vehículos se causen lesiones de las comprendidas en los artículos 272 y 273 de este Código, o daño en propiedad ajena, cualquiera que sea su valor o ambos, sólo se perseguirá a petición de parte, siempre que el probable responsable no se hubiere encontrado en estado de ebriedad o bajo el influjo de estupefacientes u otra substancia que produzca efectos similares.
-
-71.- Sin perjuicio de atender a lo dispuesto en el artículo 58, los Tribunales, para determinar la aplicación de las penas en los casos a que se refiere el artículo que antecede, tomarán en consideración:
-
-I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
-
-II.- Si para esto bastaban una reflexión o atención ordinaria y conocimientos comunes en algún arte o ciencia;
-
-III.- Si el infractor ha cometido anteriormente un delito en circunstancias semejantes;
-
-IV.- Si el infractor tuvo tiempo para obrar con reflexión y el cuidado necesario.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
-
-### CAPITULO IV.
-
-Aplicación de sanciones especiales.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-72.- En los casos previstos por las fracciones VI, VII y VIII del artículo 12, se impondrán de tres cuartas partes del mínimo a tres cuartas partes del máximo de la punibilidad correspondiente al delito de que se trate y, en su caso, de acuerdo con la modalidad respectiva.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-72 A.- Si la capacidad del autor de comprender el carácter ilícito del hecho, o de determinarse de acuerdo con esta comprensión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 14 de este código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 85 o bien ambas, en caso de ser necesarios, tomando en cuenta el grado de afectación de la imputabilidad del autor.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-72 B.- En caso de que el error a que se refiere el segundo párrafo de la fracción VIII del artículo 14 sea vencible, la punibilidad será desde la tercera parte del mínimo a la tercera parte del máximo que corresponda al delito de que se trate.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-72 C.- Cuando se cometa un delito en virtud del extremo atraso cultural y el aislamiento social del sujeto activo, se le podrá imponer desde la tercera parte del mínimo a la tercera parte del máximo de la pena correspondiente al delito de que se trate.
-
-### CAPITULO V.
-
-Acumulación.
-
-73.- Hay acumulación siempre que alguno es juzgado a la vez por varios delitos, ejecutados en actos distintos, si no se ha pronunciado antes sentencia irrevocable respecto de alguno de ellos y la acción para perseguirlos no está prescrita.
-
-74.- No hay acumulación cuando los hechos constituyen un delito contínuo o cuando en un solo acto se violan varias disposiciones penales.
-
-75.- Para los efectos de esta disposición, se entenderá por delito contínuo aquél en que la acción u omisión que lo constituyen, se prolongue sin interrupción, por más o menos tiempo.
-
-### CAPITULO VI.
-
-Aplicación de las sanciones a los responsables de varios delitos y a los reincidentes.
-
-76.- En caso de acumulación, teniendo en cuenta las circunstancias del artículo 58, se impondrá la sanción del delito mayor, o la de cualquiera de los delitos cometidos, si todos tuvieren señaladas sanciones iguales. En uno y en otro caso, la sanción podrá aumentarse hasta la suma de los demás delitos, sin que la sanción privativa de libertad pueda exceder de cuarenta años.
-
-77.- Hay reincidencia siempre que el condenado por sentencia ejecutoria dictada por cualquier tribunal competente cometa un nuevo delito, si no ha transcurrido, desde el cumplimiento de la condena o desde el indulto de la misma, un término igual al de la prescripción de la pena impuesta salvo las excepciones fijadas en la ley.
-
-78.- La condena sufrida por virtud de sentencia ejecutoria dictada por tribunal que no sea del Estado, se tendrá en cuenta si proviniere de un delito que tenga ese carácter en este Código o leyes especiales del Estado.
-
-79.- Si el reincidente en el mismo género de infracciones comete un nuevo delito procedente de la misma pasión o inclinación viciosa, será considerado como delincuente habitual, siempre que las tres infracciones se hayan cometido en un período que no exceda de diez años.
-
-80.- En las prevenciones de los dos artículos anteriores se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
-
-81.- A los reincidentes se les aplicará la sanción que debería imponérseles por el último delito cometido, aumentándola desde un tercio hasta dos tercios de su duración, a juicio del Juez, quien tendrá facultad de cambiar en su caso la reclusión por relegación. Si la reincidencia fuera respecto de infracciones de la misma especie, el aumento será desde dos tercios hasta otro tanto de la duración de la pena.
-
-Cuando resulte una pena mayor que la suma de las correspondientes a la suma del primero y segundo delitos, se aplicará esta suma.
-
-82.- La sanción correspondiente a los delincuentes habituales será el doble de la que, conforme al artículo anterior, corresponde a los simples reincidentes.
-
-83.- Tratándose de delitos de carácter político y en los casos en que el agente haya sido indultado por ser inocente, no se aplicarán las disposiciones de este Capítulo.
-
-### CAPITULO VII.
-
-Reclusión para los enfermos mentales y sordomudos.
-
-84.- A los sordomudos que hayan ejecutado hechos o incurrido en omisiones definidas como delitos, se les recluirá en escuela o establecimientos especiales para sordomudos; o en su defecto, en el establecimiento que designe el Ejecutivo del Estado, por todo el tiempo que fuera necesario para su educación o instrucción.
-
-85.- Los locos, idiotas, imbéciles o los que sufren cualquier otra debilidad, enfermedad o anomalía mentales y que hayan ejecutado actos o incurrido en omisiones definidas como delitos, serán recluidos en manicomios o departamentos especiales, por todo el tiempo necesario para su curación y sometidos, con autorización del facultativo, a un régimen de trabajo.
-
-En igual forma procederán los tribunales con los procesados o condenados que se encuentren en alguno de los estados a que se refiere el párrafo que antecede, haciéndolo de acuerdo con lo que disponga el Código Procesal de la materia. Igualmente procederán también las autoridades encargadas de la ejecución de sentencias, en los casos en que los sentenciados enloquezcan durante el tiempo en que estén sujetos a una sanción privativa de libertad.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-86.- En los casos previstos en este Capítulo, las personas o enfermos a quienes se aplique reclusión podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por la cantidad de trescientas veces el salario mínimo general vigente en el momento y en el lugar en que se dicte el acuerdo respectivo, para garantizar el daño que aquellos pudieran causar por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez estime que ni aún con la garantía queda asegurado el interés de la sociedad, dichas personas seguirán en el establecimiento en que estuvieren recluidos.
-
-### CAPITULO VIII.
-
-Substitución y conmutación de sanciones.
-
-87.- La substitución se hará por los jueces o tribunales, al dictar la sentencia definitiva.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-88.- Los jueces y tribunales, apreciando las condiciones personales del sentenciado, los móviles de su conducta y las circunstancias del hecho, podrán a su prudente arbitrio, sustituir la pena de prisión que debiera imponerse, cuando ésta no exceda de dos años, por la de multa, que no será inferior a un día de salario por cada tres días de prisión.
-
-Para que el sentenciado pueda gozar de este beneficio deberá, en su caso, cubrir previamente el importe de la reparación del daño.
-
-El juez suspenderá la sustitución y ordenará que se ejecute la pena de prisión impuesta, si dentro del plazo de cinco días que le conceda, el sentenciado no cubre el importe de la reparación del daño o no paga la multa.
-
-El sentenciado conserva el derecho a exhibir el importe de la reparación del daño y la multa en cualquier momento; satisfechos el requisito, se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo pongan en libertad.
-
-89.- El Ejecutivo, tratándose de delitos políticos, podrá hacer la conmutación de sanciones, después de impuestas en sentencia irrevocable, conforme a las siguientes reglas:
-
-I.- Cuando la sanción impuesta sea la de prisión, se conmutará en confinamiento por un término igual al de los dos tercios del que debería durar la prisión;
-
-II.- Si fuere la de confinamiento, se conmutará en multa, computándose a razón de diez pesos como máximo por cada día.
-
-90.- Cuando el reo acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física el Ejecutivo del Estado podrá modificar aquélla, siempre que la modificación no sea esencial.
-
-91.- La substitución y la conmutación no eximen de la reparación del daño.
-
-92.- Las fianzas que se hagan efectivas, las multas y los intereses que se obtengan sobre las cantidades depositadas, con motivo de la libertad caucional, condena condicional o cualesquiera otras, servirán para formar, un fondo para la administración de justicia, conforme al artículo 24 de este propio Código en la forma y términos que establezca la Ley Reglamentaria correspondiente.
-
-### CAPITULO I.
-
-Sistema reformatorio.
-
-93.- Corresponde al Ejecutivo del Estado la ejecución de las sentencias definitivas dictadas por los tribunales en la forma y términos de la Ley Reglamentaria respectiva.
-
-94.- Cuando el sentenciado falleciere al estar cumpliendo una sanción privativa de libertad sin dejar herederos, cualquier cantidad de dinero y la que tuviere como producto de su trabajo, se aplicarán al fondo para la Administración de Justicia a que se refieren los artículos 24 y 92 de este propio Código.
-
-### CAPITULO II.
-
-De la libertad preparatoria y retención.
-
-95.- El beneficio de la libertad preparatoria al sentenciado se concederá en la forma y términos que establece la Ley Reglamentaria respectiva.
-
-96.- La libertad preparatoria no se concederá a los reincidentes ni a los habituales.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ## TITULO CUARTO.
 
-Ejecución de las sentencias.
+Punibilidades complementarias.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO I.
+
+Tentativa.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+57.- Al responsable de tentativa, se le aplicarán de las dos terceras partes del mínimo a las dos terceras partes del máximo de la sanción que se le debiera imponer, de haberse consumado el delito que quiso realizar, salvo disposición en contrario.
+
+Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por si mismos delitos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO II.
+
+Delito culposo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+58.- Cuando el delito culposo lesione un solo bien jurídico, se impondrá al sujeto activo de la cuarta parte del mínimo a la cuarta parte del máximo de la punibilidad, o medida de seguridad, asignada al tipo doloso, salvo disposición en contrario.
+
+Se aplicará de la mitad del mínimo a la mitad del máximo de la sanción del correspondiente tipo doloso en caso de homicidio o de lesiones previstas en los artículos 275 y 276, cuando el sujeto activo: a) fuere operador de un vehículo destinado al servicio público o de transporte escolar y con ocasión de alguno de estos servicios causare los daños aludidos; o b) Se hallare en estado de ebriedad o bajo el influjo de alguna droga.
+
+Se sancionará únicamente con multa hasta por el valor del daño y con la correspondiente reparación del daño: el delito de daño en propiedad ajena culposo, cuando su valor no sea mayor del equivalente a cien veces el salario; o, independientemente del valor, si es ejecutado en tránsito de vehículos.
+
+Si el delito culposo lesionare varios bienes jurídicos, se estará a lo dispuesto en el artículo 69; si fueren distintos los delitos culposos se aplicará el artículo 68.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+59.- El delito culposo se perseguirá a petición del ofendido o de su legítimo representante, con excepción del homicidio y de las lesiones previstas el los artículos 275 y 276; sin perjuicio de lo dispuesto en el artículo 173.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO III.
+
+Auxilio y Autoría indeterminada.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+60.- En los casos previstos por los artículos 11, fracciones VI y VII, y 13 se impondrán de dos terceras partes del mínimo a dos terceras partes del máximo de la punibilidad correspondiente al delito de que se trate y, en su caso de acuerdo con la modalidad respectiva.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO IV.
+
+Pandilla.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+61.- Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de uno a tres años de prisión.
+
+Se entiende por pandilla, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometan en común algún delito.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO V.
+
+Imputabilidad disminuida.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+62.- Si la capacidad del autor de comprender el carácter ilícito de hecho, o de determinarse de acuerdo con esa compresión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+63.- Cuando se cometa un delito y el sujeto activo se encontrare en extremo atraso cultural y aislamiento social, se le podrá imponer desde la tercera parte del mínimo y la tercera parte del máximo de la pena correspondiente al delito de que se trate. Esta facultad se apoyará en dictámenes periciales pertinentes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO VI.
+
+Error.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+64.- El error vencible sobre la materia: del inciso a) de la fracción VIII del artículo 14, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate; y del inciso b) de la mencionada fracción, la punibilidad va de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito doloso.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO VII.
+
+Delito continuado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará con la mitad de su mínimo a la mitad de su máximo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO VIII.
+
+Concurso de delitos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+66.- Existe concurso real cuando con pluralidad de acciones u omisiones se cometen varios delitos.
+
+Existe concurso ideal cuando con una sola acción u omisión se cometen varios delitos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+67.- No hay concurso de delitos:
+
+a).- En el caso de concurso de normas penales; y
+
+b).- Cuando las acciones u omisiones constituyen un delito continuado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+68.- En caso de concurso real de delitos, se sumarán las penas que correspondan a cada uno de los delitos cometidos sin que la suma exceda del doble de los máximos señalados en el Título Tercero de este Libro Primero.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+69.- En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse con los mínimos de las penas correspondientes a cada uno de los demás delitos sin que la suma exceda de los máximos señalados en el Título Tercero de este Libro Primero.
+
+En el caso del párrafo anterior y del artículo 68, el Juez señalará en la sentencia, la sanción correspondiente a cada uno de los delitos por los que se condena al agente.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO IX.
+
+Reincidencia y habitualidad.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+70.- Hay reincidencia siempre que el condenado por sentencia ejecutoria dictada por cualquier Tribunal competente cometa un nuevo delito, si no ha transcurrido, desde el cumplimiento de la condena o desde el indulto de la misma, un término igual al de la prescripción de la pena impuesta, salvo las excepciones fijadas en la Ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+71.- Si el reincidente en el mismo género de infracciones comete un nuevo delito procedente de la misma pasión o inclinación viciosa, será considerado como delincuente habitual, siempre que las tres infracciones se hayan cometido en un período que no exceda de diez años.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+72.- En las prevenciones de los dos artículos anteriores, se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
+
+72 A.- (N. DE E. EL CONTENIDO DEL PRESENTE ARTICULO HA QUEDADO SUBSUMIDO EN EL ARTICULO 64, CONFORME A LA EXPOSICION DE MOTIVOS DEL DECRETO PUBLICADO EN EL P.O. EL 3 DE OCTUBRE DE 1998)
+
+72 B.- (N. DE E. EL CONTENIDO DEL PRESENTE ARTICULO HA QUEDADO SUBSUMIDO EN EL ARTICULO 64, CONFORME A LA EXPOSICION DE MOTIVOS DEL DECRETO PUBLICADO EN EL P.O. EL 3 DE OCTUBRE DE 1998)
+
+72 C.- (N. DE E. EL CONTENIDO DEL PRESENTE ARTICULO HA QUEDADO SUBSUMIDO EN EL ARTICULO 64, CONFORME A LA EXPOSICION DE MOTIVOS DEL DECRETO PUBLICADO EN EL P.O. EL 3 DE OCTUBRE DE 1998)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO I.
+
+Graduación de la culpabilidad e individualización de la pena.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+73.- Dentro de los límites señalados por la ley para cada delito, el Juez individualizará la pena y medidas de seguridad con base en: a) La naturaleza de la acción u omisión, los medios empleados y la extensión del daño causado o no evitado; y b) El mayor o menor ámbito real de autodeterminación del agente en el contexto de comisión del delito.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+74.- Para explicitar y delimitar, con toda precisión, el ámbito real de autodeterminación del agente, el Juzgador deberá valorar:
+
+I.- La mayor o menor generosidad, altruismo, futilidad, egoísmo, o perversidad de los móviles determinantes;
+
+II.- Las circunstancias de tiempo, lugar, ambiente, modo, ocasión y otras relevantes en la realización del delito;
+
+III.- La calidad y número de las conductas alternativas que el activo tenía a su alcance en el tiempo de la comisión del delito;
+
+IV.- Los vínculos de parentesco o amistad nacidos de otras relaciones sociales entre el activo y el pasivo, y la calidad de las personas ofendidas;
+
+V.- Las específicas condiciones fisiológicas y psíquicas en que se encontraba el activo en el tiempo de la comisión del delito;
+
+VI.- El mayor o menor coeficiente intelectual del agente, su nivel educativo y cultural, y su grado de juventud, madurez, senectud o decrepitud; y
+
+VII.- La extracción urbana o rural del agente, la índole de su empleo o subempleo o desempleo, y su mayor o menor marginación o incorporación al desarrollo biológico, económico, político y cultural.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+75.- Para imponer la pena de la tentativa, el Juez tomará en cuenta, además de lo previsto en el artículo precedente, el mayor o menor grado de aproximación al momento consumativo del delito.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+76.- Para punir el delito culposo, el juzgador tomará en consideración las circunstancias señaladas en el artículo 74 y las siguientes:
+
+I.- La mayor o menor previsibilidad del daño que resultó;
+
+II.- El estado y funcionamiento mecánico del objeto que manipulaba el agente;
+
+III.- El estado del medio ambiente en el que actuaba;
+
+IV.- La aptitud orgánica, muscular, fisiológica y psíquica del agente y el tiempo que tuvo para poner el cuidado posible y adecuado para no producir el daño que produjo; y
+
+V.- El dolo, en los casos en que el activo pretendió realizar un delito menor y por descuido resultó uno mayor.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+77.- El aumento o la disminución de la pena, fundados en las calidades, en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no son aplicables a los demás sujetos que intervinieron en aquél.
+
+Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+78.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte motivando su resolución, podrá prescindir de ella o substituirla por una medida de seguridad. En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+79.- El juez deberá tener conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
+
+Cuando la ley permita sustituir la pena o la medida de seguridad por otra de menor gravedad, el juez deberá aplicar ésta de manera preferente; de no aplicarla deberá manifestar en la sentencia las razones que tuvo para no hacerlo.
+
+Si hubiere varias sanciones, el Juez determinará el momento a partir del cual debe correr la sanción accesoria. Para ello, indicará en la sentencia si ésta correrá al mismo tiempo que la principal y se extinguirán simultáneamente; comenzará conjuntamente con ella y la excederá durante determinado tiempo; o comenzará cuando concluya la principal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+## TITULO QUINTO.
+
+Aplicación de sanciones.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO II.
+
+Substitución de sanciones.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+80.- Los Jueces o tribunales al dictar sentencia definitiva, podrán substituir la prisión: a) Cuando no exceda de dos años por multa, que no será inferior a un día de salario por tres días de prisión; y b) Cuando no exceda de cinco años y se trate de delitos culposos cometidos con motivo de tránsito de vehículos, por semilibertad.
+
+La substitución no se otorgará a los reincidentes en delito doloso.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+81.- Para que la substitución surta efectos, el sentenciado: a) Dentro de un plazo de cinco días deberá cubrir el importe de la reparación del daño, de la multa directa y de la multa substitutiva, según el caso; y b) Protestar cumplir las obligaciones señaladas en la fracción III del artículo 85.
+
+El beneficiado que entre a compurgar la prisión conserva el derecho a exhibir los importes mencionados en el párrafo anterior en cualquier momento. Satisfecho el requisito, se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo ponga en libertad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+82.- El juez dejará sin efecto la sustitución y ordenará que se ejecute la prisión impuesta: a) Cuando al sentenciado se le condene por otro delito doloso; b) Cuando el sentenciado no cumpla con las condiciones que le fueron señaladas para tal efecto o incurra en delito culposo, salvo que el juzgador estime conveniente apercibirlo por una sola vez de que si incurre en nueva falta, se hará efectiva la sanción sustituida.
+
+En caso de substitución, el Juez descontará el tiempo que el reo hubiera estado recluido.
 
 ### CAPITULO III.
 
 De la condena condicional.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-97.- Queda a juicio de los Tribunales, salvo lo establecido en el Código Local de Procedimientos, respecto al procedimiento sumario, el suspender la ejecución de la pena impuesta en sus sentencias, siempre que concurran las siguientes circunstancias:
+83.- Los Tribunales, salvo disposición en contrario, suspenderán la ejecución de la prisión impuesta en sus sentencias, siempre que concurran las siguientes circunstancias:
 
-I.- Que la pena impuesta sea privativa de libertad por un tiempo que no exceda de tres años;
+I.- Que la privativa de libertad no exceda de tres años;
 
 II.- Que sea la primera vez que el sentenciado haya cometido o participado en la ejecución de algún delito doloso;
 
-III.- Que hasta que cometió el delito por el cual se le ha sentenciado, haya observado buena conducta;
+III.- Que hasta que cometió el delito por el cual se le ha sentenciado y durante el proceso, haya observado buena conducta; y
 
 IV.- Que tenga modo honesto de vivir y de sufragar sus necesidades y las de las personas que dependan de él económicamente.
 
-98.- La suspensión a que se refiere el artículo que antecede, no comprende a las demás penas impuestas en la sentencia, ni implica la no exigibilidad de la reparación del daño en los términos que no haya declarado la sentencia respectiva, o la acción para demandarla.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+84.- La suspensión, a que se refiere el artículo que antecede, no comprende a las demás penas impuestas en la sentencia, ni implica la no exigibilidad de la reparación del daño en los términos que lo haya declarado la sentencia respectiva, o la acción para demandarla.
 
-99.- Para que la suspensión de la ejecución de la sentencia surta sus efectos, el infractor deberá:
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-I.- Cubrir el importe de la reparación del daño; y
+85.- Para que la suspensión de la ejecución de la sentencia surta sus efectos, el infractor deberá:
 
-II.- Otorgar garantía bastante de que:
+I.- Cubrir el importe de la reparación del daño y de la multa si la hubiere;
 
-a).- Se presentará ante la autoridad cuantas veces sea requerido;
+II.- Quedar sujeto a la vigilancia de la Autoridad; y
 
-b).- Desempeñará una ocupación lícita;
+III.- Otorgar garantía bastante de que:
 
-c).- Residirá en determinado lugar, del cual no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia; y
+a).- Que cumplirá en su caso, con las demás penas que le fueren impuestas;
 
-d).- Observará buena conducta
+b).- Se presentará ante la autoridad cuantas veces sea requerido;
 
-En caso de que el sentenciado no pueda cubrir el importe de la reparación del daño o de garantía, el Juzgador le otorgará un plazo de cinco días. Si concluido el plazo no se satisface el requisito mencionado, se procederá a la ejecución de la sentencia.
+c).- Desempeñará una ocupación lícita;
 
-El beneficiado conserva el derecho a exhibir el importe de la reparación del daño y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que hará del conocimiento de la Dirección de Previsión y Readaptación Social para que lo ponga en libertad.
+d).- Residirá en determinado lugar, del cual no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia; y
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+e).- Observará buena conducta.
 
-100.- Si durante el plazo de cuatro años contados desde la fecha de la sentencia irrevocable, el sentenciado no diere lugar a un nuevo proceso por delito doloso que concluya con sentencia condenatoria, se considerará extinguida la pena fijada en aquella. En caso contrario se hará efectiva la primera sentencia, además de la segunda, en ésta el infractor será considerado como reincidente. Tratándose de delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse la sanción suspendida.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-101.- A los infractores a quienes se conceda el beneficio de la condena condicional, se les hará saber lo dispuesto en los artículos 98 y 100 de este Código, lo que se asentará en diligencia formal, sin que la falta de ésta formalidad, impida en su caso la aplicación de lo prevenido en dichos preceptos.
+86. El juzgador otorgará un plazo de cinco días para que el sentenciado cubra el importe de la reparación del daño, de la multa y de la garantía. Si concluido el plazo no se satisface el requisito mencionado, se procederá a la ejecución de la sentencia.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-102.- La garantía a que se refiere el artículo 99 se cancelará seis meses después de transcurridos los cuatro años señalados en el artículo 100.
+87.- El beneficiado conserva el derecho a exhibir el importe de la reparación del daño, de la multa y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo ponga en libertad.
 
-Si el infractor, durante el plazo a que se refiere el artículo 100, fuere sentenciado condenatoriamente por la comisión de un nuevo delito, se cancelará la garantía al ponerse en ejecución la sentencia que se hallaba suspendida.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+88.- A los sentenciados a quienes se conceda el beneficio de la condena condicional, se les hará saber lo dispuesto en los artículos 85 y 86 de este Código, lo que se asentará en diligencia formal, sin que la falta de esta formalidad, impida en su caso la aplicación de lo prevenido en dichos preceptos.
 
-103.- Para la recta aplicación de los artículos 100 y 102, se tendrá presente lo siguiente: Si el agraciado con la condena condicional fuere nuevamente procesado y, concluido el plazo de cuatro años a que dichos artículos se refiere, el nuevo proceso no estuviere terminado, el plazo de referencia se tendrá por prorrogado hasta que se pronuncie sentencia irrevocable.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+89.- Si durante el plazo de cuatro años contados desde la fecha de la sentencia irrevocable, el sentenciado no diere lugar a un nuevo proceso por delito doloso que concluya en sentencia condenatoria, se considerará extinguida la prisión suspendida; en caso contrario se harán efectivas ésta y la nueva pena y también la garantía al ponerse en ejecución la sentencia que se hallaba suspendida. Tratándose de delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse la prisión suspendida.
 
-104.- Cuando se haya otorgado fianza y el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Tribunal respectivo, a fin de que éste prevenga al sentenciado que presente nuevo fiador dentro del plazo máximo de tres meses, apercibiéndolo de que se hará efectiva la sentencia si no lo presenta.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a poner el hecho en conocimiento del Tribunal para el efecto y bajo el apercibimiento que se expresa en el párrafo anterior.
+90.- Si el agraciado con la condena condicional estuviere nuevamente procesado y el plazo de cuatro años a que se refiere el artículo 88 concluyere cuando el nuevo proceso no estuviere terminado, el plazo de referencia se tendrá por prorrogado hasta que se pronuncie sentencia irrevocable y prorrogada la vigencia de la garantía otorgada.
 
-105.- Los tribunales al pronunciar su sentencia definitiva declararán en su caso, si conceden o no el beneficio de la condena condicional. El acusado o su defensor podrán solicitarla al Tribunal de Segunda Instancia, mediante la interposición del recurso respectivo, en el caso de que en primera instancia no se hubiere resuelto sobre dicho beneficio.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-106.- En los casos en que la pena impuesta como principal, sea pecuniaria, no tendrá lugar la condena condicional, aún cuando la misma se sustituya en prisión por insolvencia del infractor.
+91.- Cuando se haya otorgado fianza y el fiador tenga motivos fundados para no continuar desempeñado el cargo, los expondrá al tribunal respectivo a fin de que éste prevenga al sentenciado para que presente nuevo fiador dentro del plazo máximo de tres meses, apercibiéndolo de que se hará efectiva la prisión suspendida, si no lo presenta.
 
-107.- Los sentenciados que disfruten del beneficio de la condena condicional, quedarán sujetos a la vigilancia de la policía.
+En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a poner el hecho en conocimiento del tribunal para los efectos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+92.- Los tribunales de primera instancia, al pronunciar sentencia definitiva declararán, en su caso, si conceden o no el beneficio de la condena condicional. En el caso de que en primera instancia no se hubiere resuelto sobre dicho beneficio el acusado o su defensor al interponer el recurso respectivo podrán solicitarlo al Tribunal de Segunda Instancia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
-Muerte del acusado o del delincuente.
+Del órgano ejecutor.
 
-108.- La muerte del acusado extingue la acción penal; la del delincuente extingue las sanciones que se le hubieren impuesto, a excepción de la reparación del daño, y la de decomiso de los instrumentos con que se cometió el delito.
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+93.- Corresponde al Ejecutivo del Estado la ejecución de las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+## TITULO SEXTO.
+
+Ejecución de sentencias.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO II.
+
+De la libertad preparatoria y la preliberación.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+94.- La libertad preparatoria y la preliberación se concederán al sentenciado en forma y términos de ley, pero no se concederá a los reincidentes ni a los habituales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO III.
+
+De la conmutación de sanciones.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+95.- El Ejecutivo, tratándose de delitos políticos, podrá hacer la conmutación de sanciones, después de impuestas en sentencia irrevocable, conforme a las siguientes reglas:
+
+I.- Cuando la sanción impuesta sea la de prisión, se conmutará en confinamiento por un término igual al de los dos tercios del que debería durar la prisión; y
+
+II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un día de salario por cada día de aquél.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+96.- Son delitos políticos los previstos en el artículo 151.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+97.- Cuando el reo acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, el Ejecutivo del Estado podrá modificar aquélla, siempre que la modificación no sea esencial.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+98.- La conmutación no exime de la reparación del daño.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO I.
+
+Muerte del sujeto activo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+99.- La muerte del sujeto activo extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad a excepción de la reparación del daño y del decomiso de los instrumentos del delito.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+## TITULO SEPTIMO.
+
+Extinción de la acción persecutoria y de la potestad de ejecutar penas y medidas de seguridad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
 Amnistía.
 
-109.- La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la Ley que se dictare concediéndola, y si no se expresaren, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-## TITULO QUINTO.
+100.- La amnistía extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad, excepto la reparación del daño y el decomiso de los instrumentos del delito, en los términos de la ley que la otorgue; si no se expresaren, se entenderá que la acción persecutoria y la potestad para aplicar penas y medidas de seguridad se extinguen con todos sus efectos, con relación a todos los sujetos activos.
 
-Extinción de la responsabilidad penal.
-
-### CAPITULO III.
-
-Perdón y consentimiento del ofendido.
-
-110.- El perdón o el consentimiento del ofendido extingue la acción penal, cuando concurran estos requisitos:
-
-I.- Que el delito no se pueda perseguir sin previa querella;
-
-II.- Que el perdón se conceda antes de formularse conclusiones por el Ministerio Público, o que, si fuere después pero antes de la sentencia, consintiere en aquél el procesado;
-
-III.- Que se otorgue por el ofendido o por la persona que reconozca éste ante la autoridad como su legítimo representante, o por quien acredite legalmente serlo; o, en su defecto, por tutor especial que designe el Juez que conoce del proceso.
-
-### CAPITULO IV.
-
-Indulto.
-
-111.- El indulto no puede considerarse, sino de sanción impuesta en sentencia irrevocable; nunca podrá tener carácter general.
-
-112.- No podrá concederse de la inhabilitación para ejercer una profesión, o alguno de los derechos civiles o políticos o para desempeñar determinado cargo o empleo, pues estas sanciones sólo se extinguirán por la amnistía o la rehabilitación.
-
-113.- Se concederá indulto, cualquiera que sea la sanción impuesta, cuando aparezca que el sentenciado es inocente; o en el caso del artículo 65 de éste Código. También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria, contra un menor de dieciséis años.
-
-114.- En los delitos políticos queda a la prudencia y discreción del Ejecutivo otorgar el indulto. Tratándose de delitos del orden común, podrá concederse el indulto cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado.
-
-115.- El indulto en ningún caso extinguirá la obligación de reparar el daño causado, excepto en el caso del artículo 113 de éste propio ordenamiento.
-
-### CAPITULO V.
-
-Rehabilitación.
-
-116.- La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso; o reintegrarlo en el desempeño de una profesión, cargo o empleo de que también hubiere sido privado o en cuyo ejercicio esté suspenso.
-
-## TITULO SEXTO.
-
-### CAPITULO VI.
-
-Prescripción.
-
-117.- La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la Ley.
-
-118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
-
-119.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito si fuere consumado; desde que cesó, si fuere permanente o continuo y, desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
-
-120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
-
-121.- La acción penal prescribe en un año, si el delito sólo mereciere multa. Si el delito mereciere, además de esta sanción, la corporal, se atenderá en todo caso a la prescripción de la pena corporal, y lo mismo se observará cuando corresponda alguna otra sanción accesoria.
-
-122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
-
-Si se tratare de delito al que le corresponda según éste Código, la pena de cuarenta años de prisión, la prescripción se consumará en ese plazo.
-
-123.- Si el delito solo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
-
-124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
-
-Pero si llenado el requisito inicial de la querella ya se hubiere deducido la acción ante los tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persigue de oficio.
-
-125.- Cuando haya acumulación de delitos, las acciones penales que de ellas resulten se prescribirán separadamente en el término señalado a cada uno.
-
-126.- Cuando para deducir una acción penal sea necesario que antes se termine un juicio diverso, civil o criminal, no comenzará a correr la prescripción sino hasta que en el juicio previo se haya pronunciado sentencia irrevocable.
-
-127.- La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y delincuentes, aunque, por ignorarse quienes sean éstos, no se practiquen las diligencias contra persona determinada.
-
-Si se dejare de actuar, la prescripción comenzará de nuevo desde el día siguiente a la última diligencia.
-
-128.- Las prevenciones contenidas en el artículo anterior no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino por la aprehensión del inculpado.
-
-129.- Si para deducir una acción penal exigiere la ley declaración previa de alguna autoridad, las gestiones que a ese fin se realicen interrumpirán la prescripción.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-130.- La multa prescribirá en un año.
-
-La reparación del daño prescribe en diez años.
-
-Las demás sanciones prescriben por el transcurso de un lapso igual al que debían durar.
-
-131.- Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
-
-132.- La prescripción de las sanciones corporales, sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso.
-
-La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
-
-133.- La privación de derechos civiles o políticos prescribirá en veinte años.
-
-134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
-
-135.- Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las sanciones, según el delito de que se trate.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 99.
 
@@ -2821,11 +2965,143 @@ Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigir
 
 Delitos contra la seguridad interior del Estado.
 
-### CAPITULO UNICO.
+### CAPITULO III.
 
-De los menores.
+Perdón.
 
-136.- Los menores de dieciséis años que hayan ejecutado hechos o incurrido en omisiones, tipificados como delito, serán internados por el tiempo que sea necesario para su corrección educativa en la forma y términos que establece la Ley reglamentaria respectiva.
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+101.- El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público, si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
+
+Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
+
+Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al sujeto activo del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorgue.
+
+El perdón sólo beneficia al inculpado en cuyo favor se otorga a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses ó derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
+
+El perdón del ofendido y del legitimado para otorgarlo también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se trate de los delitos mencionados en los párrafos primero y segundo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO IV.
+
+Reconocimiento de inocencia e indulto.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales y se estará a lo dispuesto en el artículo 50 de este Código.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+103.- El indulto es supresión de la prisión impuesta en sentencia irrevocable.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+104. El indulto es estrictamente personal y cada caso se tramitará ante el Ejecutivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+105.- El Ejecutivo podrá otorgar el indulto:
+
+I.- En los delitos políticos, según su prudencia y discreción; y
+
+II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva readaptación social.
+
+También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciséis años.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+106.- El indulto en ningún caso extinguirá la obligación de reparar el daño causado.
+
+107.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+108.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+109.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+110.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+111.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+112.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+113.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+114.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+115.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+
+## TITULO SEGUNDO.
+
+Delitos contra la seguridad publica.
+
+### CAPITULO V.
+
+Rehabilitación.
+
+116.- La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso; o reintegrarlo en el desempeño de una profesión, cargo o empleo de que también hubiere sido privado o en cuyo ejercicio esté suspenso.
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+
+### CAPITULO VI.
+
+Prescripción.
+
+117.- La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la Ley.
+
+118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
+
+119.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito si fuere consumado; desde que cesó, si fuere permanente o continuo y, desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
+
+120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
+
+121.- La acción penal prescribe en un año, si el delito sólo mereciere multa. Si el delito mereciere, además de esta sanción, la corporal, se atenderá en todo caso a la prescripción de la pena corporal, y lo mismo se observará cuando corresponda alguna otra sanción accesoria.
+
+122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
+
+Si se tratare de delito al que le corresponda según éste Código, la pena de cuarenta años de prisión, la prescripción se consumará en ese plazo.
+
+123.- Si el delito solo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
+
+124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
+
+Pero si llenado el requisito inicial de la querella ya se hubiere deducido la acción ante los tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persigue de oficio.
+
+125.- Cuando haya acumulación de delitos, las acciones penales que de ellas resulten se prescribirán separadamente en el término señalado a cada uno.
+
+126.- Cuando para deducir una acción penal sea necesario que antes se termine un juicio diverso, civil o criminal, no comenzará a correr la prescripción sino hasta que en el juicio previo se haya pronunciado sentencia irrevocable.
+
+127.- La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y delincuentes, aunque, por ignorarse quienes sean éstos, no se practiquen las diligencias contra persona determinada.
+
+Si se dejare de actuar, la prescripción comenzará de nuevo desde el día siguiente a la última diligencia.
+
+128.- Las prevenciones contenidas en el artículo anterior no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino por la aprehensión del inculpado.
+
+129.- Si para deducir una acción penal exigiere la ley declaración previa de alguna autoridad, las gestiones que a ese fin se realicen interrumpirán la prescripción.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+130.- La multa prescribirá en un año.
+
+La reparación del daño prescribe en diez años.
+
+Las demás sanciones prescriben por el transcurso de un lapso igual al que debían durar.
+
+131.- Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
+
+132.- La prescripción de las sanciones corporales, sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso.
+
+La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
+
+133.- La privación de derechos civiles o políticos prescribirá en veinte años.
+
+134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
+
+135.- Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las sanciones, según el delito de que se trate.
+
+136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ### CAPITULO I.
 
@@ -2872,10 +3148,6 @@ IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en l
 144.- Cuando en las rebeliones se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las sanciones que por los mismos y el de rebelión corresponda, según las reglas de acumulación.
 
 145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
-
-## TITULO SEGUNDO.
-
-Delitos contra la seguridad publica.
 
 ### CAPITULO II.
 
@@ -2953,9 +3225,11 @@ Asociaciones delictuosas.
 
 164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
 
-165.- Cuando se ejecuten uno o más delitos, por pandilla, se aplicará a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de seis meses a seis años de prisión.
+165.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
-Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos cometan en común algún delito.
+## TITULO TERCERO.
+
+Delitos en materia de vías de comunicación y correspondencia.
 
 ### CAPITULO I.
 
@@ -2995,9 +3269,17 @@ VII.- Al que destruya en todo o en parte, o paralice por otros medios de los esp
 
 Si en el vehículo que se incendie no se halla persona alguna, la sanción será de dos a seis años.
 
-173.- Se impondrá prisión hasta de seis meses y multa hasta de cien pesos; a los que dentro del término de un año violaren dos o más veces los reglamentos o disposiciones sobre Tránsito y circulación de vehículos en lo que se refiere al exceso de velocidad.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia la inhabilitación será definitiva.
+173.- Al que en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos y otras substancias que perturben las funciones psicofisiológicas, maneje un vehículo de motor con velocidad superior a la permitida, se le impondrá inhabilitación para manejar vehículos de motor de uno a tres años. Si el vehículo es de transporte público de pasajeros o de carga, la inhabilitación será de tres a cinco años, se decretará el decomiso del vehículo instrumento de delito en términos del artículo 37.
+
+Si el activo goza de licencia, el Juzgador la suspenderá por el tiempo de la inhabilitación dando aviso a la autoridad competente para el control respectivo.
+
+Si causare daños, el manejador responderá de los mismos, en los términos de este Código.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+173 Bis.- Al que fuera de los casos previstos por la ley intervenga la comunicación telefónica de terceras personas, se le aplicará prisión de uno a cinco años y de cien a doscientos días de multas.
 
 ### CAPITULO II.
 
@@ -3012,6 +3294,10 @@ II.- Al que indebidamente intercepte una comunicación escrita que no esté diri
 175.- No se considera que obran delictuosamente los padres que abran o intercepten las comunicaciones escritas dirigidas a sus hijos menores de edad, y los tutores respecto de las personas que se hallen bajo su dependencia, y los cónyuges entre sí.
 
 176.- La disposición del artículo 166 no comprende la correspondencia que circule por la estafeta, respecto de la cual se observará lo dispuesto en la legislación Federal.
+
+## TITULO CUARTO.
+
+Delitos contra la autoridad.
 
 ### CAPITULO I.
 
@@ -3028,10 +3314,6 @@ Desobediencia y resistencia de particulares.
 181.- Quien debiendo ser examinado en juicio y sin que le aprovechen las excepciones establecidas en este Código o por el de Procedimientos de la materia, se niegue a declarar o a otorgar la protesta de ley, pagará una multa de quinientos a dos mil pesos. En caso de reincidencia, se impondrá prisión de uno a seis meses.
 
 182.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
-
-## TITULO TERCERO.
-
-Delitos en materia de vías de comunicación y correspondencia.
 
 ### CAPITULO II.
 
@@ -3051,10 +3333,6 @@ Quebrantamiento de sellos.
 
 186.- Cuando de común acuerdo, quebrantaran las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de cincuenta a quinientos pesos.
 
-## TITULO CUARTO.
-
-Delitos contra la autoridad.
-
 ### CAPITULO IV.
 
 Delitos cometidos contra funcionarios públicos.
@@ -3062,6 +3340,10 @@ Delitos cometidos contra funcionarios públicos.
 187.- Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones, o con motivo de ella, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
 
 188.- Cuando se trate de ultrajes hechos al Congreso del Estado, a un Tribunal, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera Institución Pública, se aplicarán de un mes a un año de prisión y multa de cien a mil pesos.
+
+## TITULO QUINTO.
+
+Delitos contra la salud.
 
 ### CAPITULO I.
 
@@ -3099,9 +3381,9 @@ II.- Al que ejecute o haga ejecutar por otros, exhibiciones obscenas; y
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
-## TITULO QUINTO.
+## TITULO SEXTO.
 
-Delitos contra la salud.
+Delitos contra la moral pública.
 
 ### CAPITULO II.
 
@@ -3145,15 +3427,21 @@ o de algún vicio.
 
 202.- Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán (sic) prisión de tres días a un año y multa de cien a mil pesos, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-## TITULO SEXTO.
+## TITULO SEPTIMO.
 
-Delitos contra la moral pública.
+Revelación de secretos.
 
 ### CAPITULO UNICO.
 
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
 
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+
+## TITULO OCTAVO.
+
+Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
@@ -3295,10 +3583,6 @@ Se aplicará prisión de dos a siete años al que incurra en los delitos previst
 
 En todos los casos señalados anteriormente si resultare además cometido algún otro delito, se aplicarán las reglas de acumulación.
 
-## TITULO SEPTIMO.
-
-Revelación de secretos.
-
 ### CAPITULO III.
 
 Delitos cometidos en la administración de justicia.
@@ -3318,12 +3602,6 @@ V.- Cuando ordene indebidamente la libertad de alguna persona que se encuentre a
 VI.- Cuando se abstenga de promover por morosidad o por cualquiera otro motivo la investigación de los delitos de que tuviere conocimiento, si la ley le impone esa obligación; y
 
 VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente algún interés propio.
-
-## TITULO OCTAVO.
-
-Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO IV.
 
@@ -3477,6 +3755,10 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- El que a sabiendas hiciere uso de un documento falso, sea público o privado.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO III.
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
@@ -3521,9 +3803,9 @@ II.- Al que se atribuye el carácter de profesionista sin tener titulo legal y e
 
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
-## TITULO NOVENO.
+## TITULO DECIMO.
 
-Responsabilidad Profesional.
+Falsedad.
 
 ### CAPITULO VI.
 
@@ -3541,13 +3823,7 @@ Delitos contra la economía pública.
 
 Vagos y malvivientes.
 
-236.- Se aplicará prisión de seis meses a dos años, a los que reúnan las circunstancias siguientes:
-
-I.- No dedicarse a un trabajo honesto, sin causa justificada; y
-
-II.- Tener malos antecedentes, comprobados por datos de los archivos judiciales o de las oficinas policiacas.
-
-Se estimarán como malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual, o peligroso contra la propiedad, o explotador de prostitutas o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahúr o mendigo simulador.
+236.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ### CAPITULO II.
 
@@ -3578,10 +3854,6 @@ En todo caso, serán decomisadas las cantidades que se recojan.
 IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a locales de juegos prohibidos.
 
 239.- Para los efectos de este capítulo se consideran ilícitos los juegos, prohibidos por el artículo 151 de la Constitución Política Local y los que determinan los reglamentos respectivos expedidos por las Autoridades Administrativas Superiores del Estado.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO III.
 
@@ -3617,11 +3889,15 @@ Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
 Abuso y hostigamiento sexual, estupro y violación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+241.- Comete el delito de abuso sexual: el que realice un acto erótico sexual, que no sea la cópula, en persona menor de doce años o que no tenga la capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo. Al autor de tal hecho se le aplicará de uno a cuatro años de prisión y de cincuenta a ciento cincuenta días de multa.
+
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
-241.- El abuso sexual consiste en el acto erótico sexual realizado, sin el propósito de llegar a la cópula, con persona menor de 12 años de edad o que no tenga la capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo o a quien se obligue a ejecutarlo, aplicándose a quien ejecute tales actos la pena de uno a cuatro años de prisión y multa de 50 a 150 días de salario mínimo general vigente en la zona.
-
 Cuando el acto erótico sexual a que se refiere el párrafo anterior, se ejecute con cualquiera persona, sin el consentimiento de ésta, la pena será de uno a tres años de prisión y multa de quince a cincuenta días de salario mínimo general vigente en la zona.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 Si se hiciere uso de la violencia física o moral o participaren dos o más personas, la pena será de dos a siete años de prisión y multa de 150 a 300 días de salario mínimo general vigente en la zona.
 
@@ -3711,7 +3987,9 @@ Se aplicará esta misma pena en caso de incesto entre hermanos.
 
 Adulterio.
 
-256.- A los que estén casados civilmente y sostengan relaciones sexuales con otra persona distinta a su cónyuge, en el domicilio conyugal o con escándalo, se les sancionará con prisión de dos a seis años.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+256.- Cometen el delito de adulterio los que tengan entre sí relaciones sexuales, si uno de ellos o los dos están casados con otra persona siempre que el hecho se ejecute en el domicilio conyugal o con escándalo. A todo adúltero se le aplicará de uno a tres años de prisión.
 
 257.- No se podrá proceder contra los adúlteros sino a petición del cónyuge ofendido; pero cuando éste formule querella contra uno solo de los culpables, se procederá contra los dos que aparezcan como co-delincuentes.
 
@@ -3807,17 +4085,19 @@ Allanamiento de morada.
 
 Asalto.
 
-268.- Se impondrá la pena de treinta a cuarenta años de prisión al salteador de caminos que cometa robo, homicidio o violación: dé tormento a una persona, le infiera alguna lesión de la que resulte imposibilidad perpetua para trabajar, enajenación mental, o la pérdida de la vista o del habla, sea cual fuere el número de los salteadores y aunque vayan desarmados.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+268.- Al que sin motivo justificado haga uso de la violencia sobre una persona, se le aplicará prisión de uno a tres años.
+
+Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisión de tres a seis años.
+
+Si con el uso de la violencia resultaren cometidos otros delitos se estará a las reglas del concurso de delitos.
 
 269.- Si los salteadores, atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de diez a quince años a los demás, siempre que no se cometa alguno de los delitos señalados en el artículo anterior, pues entonces se aplicará la pena de treinta a cuarenta años.
 
-270.- Al que en despoblado o en paraje solitario haga uso de la violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su consentimiento para cualquier fin y cualquiera que sean los medios y el grado de violencia que se empleen, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de tres a seis años.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-Llámase (sic) paraje solitario no sólo al que está en despoblado, sino también al que se halle dentro de una población, si por la hora o por cualquier otra circunstancia, no encuentra el ofendido a quien pedir socorro.
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 1994)</small>
-
-La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
+270.- Se aplicará prisión de diez a treinta años al que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo particular o de transporte público.
 
 TITULO DECIMOSEXTO.
 
@@ -3830,6 +4110,10 @@ Lesiones.
 271.- Bajo el nombre de lesiones se comprenden, no solamente las heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, sino toda alteración en la salud y cualquier otro daño que deje huella material en el cuerpo humano, si esos efectos son producidos por una causa externa.
 
 272.- Al que infiera una lesión que no ponga en peligro la vida del ofendido y tarde en sanar quince días o menos se le impondrán de seis días a seis meses de prisión y además podrá imponerse multa de cincuenta a quinientos pesos según la gravedad del caso. Si el ofendido tardare en sanar más de quince días se impondrán de cuatro meses a tres años de prisión y multa de cien a mil pesos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Los delitos previstos en este artículo se perseguirán por querella.
 
 273.- Se impondrán de dos a cinco años de prisión y multa de doscientos a dos mil pesos, al que infiera una lesión que deje al ofendido cicatriz en la cara, perpetuamente notable o en uno o en ambos pabellones auriculares.
 
@@ -3903,7 +4187,9 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 
 289.- Al responsable de cualquier homicidio simple intencional y que no tenga señalada una sanción especial en este Código, se le impondrán de doce a veinticinco años de prisión.
 
-290.- Si el homicidio se cometiere en riña, se aplicará a su autor la pena de uno a siete años de prisión si es el provocado, y la de cinco a doce años de prisión si es el provocador.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+290.- Si el homicidio se cometiere en riña se aplicará al provocado de cuatro a ocho años de prisión; y de ocho a doce años al provocador.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4155,13 +4441,19 @@ Robo.
 
 349.- Comete el delito de robo: el que se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la Ley.
 
-350.- Se equiparan al robo y se castigarán como tal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+350.- Las penas de robo se aplicarán también:
 
 I.- La disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño, si la cosa se halla en poder de otro, a título de prenda o en depósito, decretado por una autoridad o hecho con su intervención, o mediante contrato público o privado.
 
-II.- El aprovechamiento de cualquier fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de él y que no sea materia de jurisdicción federal.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-III.- La sustracción, destrucción, mutilación o apoderamiento de unos autos civiles o penales, o de algún documento de protocolo, oficinas o archivos públicos, o que contengan obligación, liberación o transmisión de derechos.
+II.- El aprovechamiento de cualquier fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de él y que no sea materia de jurisdicción federal; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+III.- Al que, después de la ejecución del robo y sin haber participado en éste, posea, enajene o trafique de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del robo, a sabiendas de esta circunstancia o que el valor intrínseco de la adquisición de éstos sea desproporcionado o sumamente inferior al valor imperante en el mercado.
 
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
@@ -4185,9 +4477,17 @@ III.- La sustracción, destrucción, mutilación o apoderamiento de unos autos c
 
 356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de seis meses hasta cinco años.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-357.- Se aplicará prisión de seis meses a nueve años, al que sustraiga o inutilice, parcial o totalmente, un expediente perteneciente a una oficina pública o notaría; al que extraiga o destruya alguna de sus hojas, o parte de ellas, o las inutilice de cualquier manera; y también al que ejecute cualquiera de los actos enumerados en cualquier documento que se halle bajo la responsabilidad y dominio de alguna oficina pública o notaría. Si el delincuente fuere el propio notario quedará inhabilitado además de dos a diez años; y si fuere abogado o litigante, también se le inhabilitará por el mismo término.
+357.- Al que sin derecho y sin consentimiento de quien pueda otorgarlo, se apodere:
+
+I.- De un vehículo de motor, se le aplicara de seis a doce años de prisión y de doscientos a quinientos días multa.
+
+Se entiende por vehículo de motor, para los efectos de este artículo, los automóviles, camionetas, camiones y tractocamiones de cualquier tipo y autobuses;
+
+II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
+
+III.- De un expediente, total o parcialmente, perteneciente a una oficina pública o Notaría, se aplicará de tres a siete años de prisión y de cien a doscientos días multa. Si el activo fuere servidor público o notario, abogado o litigante se le inhabilitará, además, de dos a diez años para ejercer su cargo o profesión.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4257,15 +4557,9 @@ VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública
 
 IX.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público; y
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
+X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
-X.- Cuando se trate de partes de vehículos automotores, o de objetos que se encuentren en el interior de los mismos.
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-369 Bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 353 a 355 deben imponerse, se aplicarán de tres a seis años de prisión al que robe un vehículo automotor.
-
-Se entiende por vehículo, para los efectos de este artículo y del 369 de este Código, los automóviles, camionetas, camiones y tractocamiones de cualquier tipo, y autobuses.
+369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ### CAPITULO II.
 
@@ -4351,9 +4645,23 @@ II.- El hecho de disponer de la cosa depositada, o sustraerla, el depositario Ju
 
 III.- El hecho de que una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado o acusado del cual no le corresponda la propiedad.
 
-378.- No se juzgará como abuso de confianza la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela o de disponer de ella como dueño, siempre que al que la retenga la devuelva al primer requerimiento Judicial o notarial que le haga, o no la entregue a la autoridad, para que esta disponga de la misma conforme a la Ley.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+Los delitos previstos en este Capítulo se perseguirán por querella.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO III BIS.
+
+Retención.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+378.- Comete el delito de retención el que, teniendo una cosa mueble ajena recibida en tenencia y concluida la vigencia de su título precario, no la entrega al primer requerimiento notarial o judicial a quien tenga derecho de recibirla.
+
+La retención se perseguirá por querella y se sancionará con las penas del abuso de confianza previstas en el artículo 376.
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 
 379.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente las disposiciones del artículo 366 de este Código.
 
@@ -4407,9 +4715,9 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-383.- Es aplicable al fraude el artículo 366 de este Código.
+383. El fraude se perseguirá por querella de parte.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4451,25 +4759,27 @@ La pena será aplicable aún cuando la posesión de la cosa usurpada sea dudosa 
 
 386.- Cuando alguno de los delitos a que se refiere este Capítulo lo cometieren más de cinco individuos, se aumentará la prisión de uno a seis años.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ### CAPITULO VI.
 
-Daño en propiedad ajena.
+Daños.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
 387.- Se aplicarán las penas de robo simple al que por cualquier medio destruya o deteriore alguna cosa ajena o propia, en perjuicio de otro.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-388.- La pena se agravará con prisión de uno a tres años cuando el daño:
+388.- Al que causare daños mediante inundación, incendio, minas, bombas, o explosivos, o los causare de cualquier modo en bienes de valor científico, artístico, cultural o de utilidad pública, se le aplicará:
 
-I.- Recaiga en bienes de valor científico, artístico, cultural o de utilidad pública, o
+I.- De dos a cinco años de prisión y de treinta a doscientos días multa, si el monto del daño no excede de quinientos salarios; y
 
-II.- Se cometa por medio de inundación, incendio, minas, bombas o explosivos.
+II.- De cinco a doce años de prisión y de doscientos a quinientos días multa, si el monto excede de quinientos salarios.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-389.- Se aplicará prisión de uno a tres años al que mediante incendio, explosión o por cualquier otro medio creare un peligro común para las personas o para los bienes.
+389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
 
 ### CAPITULO I.
 
@@ -4729,7 +5039,7 @@ II.- Requerido por las autoridades, no dé auxilio para la averiguación de los 
 
 III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
 
-IV.- Compre dos o más veces cosas robadas. Lo anterior se podrá comprobar por cualquier medio de prueba.
+IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
@@ -4844,6 +5154,14 @@ P.O. 7 DE FEBRERO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
+
+P.O. 3 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
 
 ###### Artículo 10.
 
