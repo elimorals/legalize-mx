@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1993-12-31"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -397,6 +397,12 @@ En los términos previstos por los artículos 20 y 21 de la Ley de Catastro, dur
 
 En los Términos previstos por los Artículos 20 y 21 de la Ley del Catastro durante el año de 1994 se aplicará un incremento hasta del 20% en las bases generales de valores por unidades tipo y en los valores catastrales, sin que con ello se rebasen los valores actuales reales.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 16o.
+
+En los términos previstos por los artículos 20 y 21 de la Ley del Catastro del Estado durante el año de 1995 se aplicará un incremento del 10% en las bases generales de valores por unidades tipo y en los valores catastrales, sin perjuicio de los resultados de las revisiones que durante ese año se efectúen en los términos de esta Ley. En ningún caso los valores catastrales podrán rebasar los valores reales de los inmuebles.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
@@ -548,3 +554,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1993.
 P.O. 31 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día 1º. de Enero de 1994.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1995.
