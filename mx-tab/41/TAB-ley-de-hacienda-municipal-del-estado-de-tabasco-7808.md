@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1996-12-28"
+last_updated: "1998-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -71,9 +71,11 @@ La ignorancia de la Ley, Reglamentos y demás disposiciones fiscales de observan
 
 #### SECCION SEGUNDA. DEL SUJETO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 6.
 
-Son sujetos de esta Ley, las personas físicas o morales que habitual o accidentalmente llevan a cabo los actos previstos en esta Ley, en consecuencia:
+Son sujetos de esta Ley, las personas físicas o jurídicas colectivas que habitual o accidentalmente llevan a cabo los actos previstos en esta Ley, en consecuencia:
 
 I.- Nadie podrá ostentarse como Titular de Derechos irrevocables frente a los preceptos de esta Ley;
 
@@ -95,7 +97,9 @@ B) El lugar en que realicen actividades o tengan bienes que den lugar a obligaci
 
 C) A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en que se encuentren.
 
-II.- Tratándose de personas morales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+II.- Tratándose de personas jurídicas colectivas:
 
 A) El lugar en que esté establecida la administración del negocio.
 
@@ -105,7 +109,9 @@ C) El lugar en el que se hubiere realizado el hecho generador de la obligación 
 
 III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezcan, pero si varias son filiales de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz, y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, será cualquiera de las sucursales; y
 
-IV.- Tratándose de personas físicas o morales, residentes fuera del Municipio que realicen actividades gravadas en éste, a través de representantes, se considerará como su domicilio el del representante.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+IV.- Tratándose de personas físicas o jurídicas colectivas, residentes fuera del Municipio que realicen actividades gravadas en éste, a través de representantes, se considerará como su domicilio el del representante.
 
 #### SECCION CUARTA. DE LAS AUTORIDADES
 
@@ -159,7 +165,9 @@ Es obligación del Síndico de Hacienda:
 
 I.- Vigilar la actuación del Director de Finanzas o Tesorero Municipal, debiendo visitar la Dirección de Finanzas o Tesorería Municipal mensualmente;
 
-II.- Vigilar que el Director de Finanzas o Tesorero Municipal, cumpla con la obligación de remitir mensualmente a la Contaduría Mayor de Hacienda del Congreso la cuenta comprobada y documentada del movimiento habido en la Dirección de Finanzas o Tesorería Municipal a su cargo; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+II.- Supervisar que el Director de Finanzas o Tesorero Municipal, en representación del Ayuntamiento o Concejo Municipal, de cumplimiento a lo ordenado por los artículos 65, fracción VI, párrafos cuarto y quinto de la Constitución Política Local y 50, fracción VI de la Ley Orgánica de los Municipios del Estado de Tabasco; y
 
 III.- Los demás que señale la Ley Orgánica Municipal y disposiciones legales inherentes.
 
@@ -189,7 +197,11 @@ VI.- Implementar las tarjetas y registros que sean necesarios para la recaudaci�
 
 VII.- Cumplir oportunamente con las órdenes y demás instrucciones que le gire el Presidente o Concejo Municipal;
 
-VIII.- Enviar a la Contaduría Mayor de Hacienda del Congreso dentro de los primeros quince días de cada mes, la cuenta comprobada y debidamente documentada del mes anterior, debiendo dejar en su poder un duplicado de todos los documentos que remitan;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+VIII.- En representación del Ayuntamiento o Concejo Municipal, enviar mensualmente a la Contaduría Mayor de Hacienda, dentro de los quince días del mes siguiente que corresponda, los informes que acrediten las erogaciones y el avance de las metas propuestas en el Plan Municipal y en el Programa Operativo Anual. Asimismo, remitir trimestralmente a la mencionada Contaduría, dentro de los quince días siguientes del trimestre respectivo, la cuenta pública para su revisión y calificación trimestral.
+
+Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobado para dicho ejercicio fiscal. Los ajustes presupuestales autorizados deberán presentarse en el informe mensual correspondiente;
 
 IX.- Desempeñar las comisiones que le confiera el Ayuntamiento o Concejo Municipal en asuntos de su competencia;
 
@@ -261,9 +273,11 @@ El crédito fiscal debe ser pagado en el momento o plazo que señale la Ley, y c
 
 Los contribuyentes que por error de la liquidación o por cualquier otra causa, no paguen completo un Crédito Fiscal, están obligados a cubrir la diferencia, dentro de un término de quince días siguientes a la fecha en que se les notifique la observación respectiva.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 24.
 
-Sujeto deudor de un Crédito Fiscal, es la persona física o moral que está obligada directamente a su pago al fisco municipal conforme a las Leyes.
+Sujeto deudor de un crédito fiscal, es la persona física o jurídica colectiva que está obligada directamente a su pago al fisco municipal conforme a las leyes.
 
 ###### Artículo 25.
 
@@ -343,9 +357,11 @@ El término para que se consuma la prescripción, se interrumpe con cada gestió
 
 Toda promoción que se presente ante las autoridades fiscales municipales deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 42.
 
-En ningún trámite administrativo se admitirá la gestión de negocio; la representación de las personas físicas o morales ante las autoridades fiscales se acreditará en los términos de la legislación civil del Estado de Tabasco.
+En ningún trámite administrativo se admitirá la gestión de negocio; la representación de las personas físicas o jurídicas colectivas ante las autoridades fiscales se acreditará en los términos de la legislación civil del Estado de Tabasco.
 
 Los particulares o los representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones, la persona así autorizada podrá ofrecer pruebas o presentar promociones relacionadas con estos propósitos.
 
@@ -567,9 +583,11 @@ El Presidente o Concejo Municipal deberá dictar resolución en relación con lo
 
 ### CAPITULO UNICO. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 70.
 
-Los ingresos de los municipios del Estado de Tabasco, se establecerán cada año por la Ley de Ingresos que expida el Congreso del Estado.
+Los ingresos de los municipios del Estado de Tabasco, se establecerán en la Ley de Ingresos vigente.
 
 ###### Artículo 71.
 
@@ -589,9 +607,11 @@ IV.- Aprovechamientos; y
 
 V.- Participaciones.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 73.
 
-Son impuestos las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho previstas por la misma y que sean distintas a lo señalado en el Artículo 77 de esta Ley.
+Son impuestos las contribuciones establecidas en la ley, que deben pagar las personas físicas y jurídicas colectivas que se encuentren en la situación jurídica o de hecho previstas por la misma y que sean distintas a lo señalado en el Artículo 77 de esta Ley.
 
 ###### Artículo 74.
 
@@ -871,7 +891,9 @@ IV.- El Director del Registro Público de la Propiedad y del Comercio no podrá 
 
 V.- Los beneficiados de las exenciones a que se refiere el Artículo 104 de esta Ley, deberán manifestar cualquier modificación de las circunstancias que hubieren fundado las mismas;
 
-VI.- Las autoridades federales, estatales y municipales que realicen obras públicas tienen la obligación de comunicar a la Dirección de Finanzas o Tesorería Municipal y ésta a su vez a la Secretaría de Finanzas las fechas de terminación de construcciones o ampliaciones de obras y servicios; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+VI.- Las autoridades federales, estatales y municipales que realicen obras públicas, tienen la obligación de comunicar a la Dirección de Finanzas o Tesorería Municipal y ésta a la Secretaría de Planeación y Finanzas, las fechas de terminación de construcciones o ampliaciones de obras y servicios.
 
 Las comunicaciones a que se refieren las Fracciones II a la VI de este artículo, se harán por escrito dentro de los 15 días naturales siguientes a la fecha en que reciban las manifestaciones de terminación o ampliaciones que se presenten.
 
@@ -883,9 +905,11 @@ Las infracciones a la presente sección serán sancionadas de conformidad con lo
 
 #### SECCION PRIMERA. OBJETOS Y SUJETOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 108.
 
-Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en los municipios del Estado, así como los derechos relacionados con los mismos.
+Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles, las personas físicas o jurídicas colectivas que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en los municipios del Estado, así como los derechos relacionados con los mismos.
 
 Para el efecto de este artículo, se entiende por adquisición la que se derive de:
 
@@ -903,7 +927,9 @@ VI.- La dación en pago y la liquidación, la reducción de capital, pago en esp
 
 VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-VIII.- Prescripción positiva;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Usucapión;
 
 IX.- La cesión de derechos del heredero o legatario cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos. Así como en las sesiones que se efectúen entre copropietarios;
 
@@ -997,9 +1023,11 @@ V.- En los casos no previstos en las Fracciones anteriores, cuando los actos de 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 114.
 
-En las adquisiciones que se hagan constar en Escritura Pública, los notarios, jueces, corredores y demás federatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración con los datos que para el efecto exijan las formas aprobadas por el Departamento de Catastro e Impuesto Predial de la Secretaría de Finanzas, en la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
+En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás federatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración con los datos que para el efecto exijan las formas aprobadas por el Departamento de Catastro e Impuesto Predial de la Secretaría de Planeación y Finanzas, en la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante la Dirección de Finanzas o Tesorería Municipal que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
 
 Además de la citada declaración, deberá acompañarse la constancia de estar al corriente en el pago del Impuesto Predial y de todos los demás impuestos que al fisco municipal causen los bienes materia de este impuesto.
 
@@ -1011,17 +1039,23 @@ El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
 #### SECCION PRIMERA. OBJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 115.
 
-Es objeto del Impuesto sobre Espectáculos Públicos el ingreso que se origine con motivo de la celebración de obras de teatro y funciones de circo o cine.
+Es objeto del impuesto sobre espectáculos públicos el ingreso que se origine con motivo de la celebración, representación, función, acto, evento o exhibición artística musical, deportiva, taurina, cinematográfica, teatral o cultural, organizada por una persona física o jurídica colectiva en cualquier tiempo y en las que se convoca al público con fines culturales, entretenimiento, diversión o recreación, mediante el pago de una contraprestación en dinero.
 
 Ningún espectáculos (sic) público podrá verificarse dentro del territorio del Municipio, sin la autorización por escrito del Ayuntamiento o Concejo Municipal correspondiente, conforme a las Leyes o Reglamentos respectivos.
 
 #### SECCION SEGUNDA. SUJETOS
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 116.
 
-Son sujetos del Impuesto sobre Espectáculos Públicos las personas físicas, morales, o grupos organizados que perciban ordinaria u ocasionalmente los ingresos a que se refiere el párrafo del artículo anterior.
+Son sujetos del impuesto sobre espectáculos públicos las personas físicas, jurídicas colectivas o grupos organizados que perciban ordinaria u ocasionalmente los ingresos a que se refiere el párrafo primero del artículo anterior.
+
+Es obligación de las personas físicas o jurídicas colectivas que deseen presentar espectáculos públicos, exhibir ante el Ayuntamiento o Concejo Municipal, el boletaje que se pretende comerciar para efectos de su autorización y control.
 
 ###### Artículo 117.
 
@@ -1141,9 +1175,11 @@ Por la revalidación de licencia, permiso y alineamientos, se pagarán en cada c
 
 ### CAPITULO III. DE LAS LICENCIAS Y DE LOS PERMISOS PARA FRACCIONAMIENTOS, CONDOMINIOS Y LOTIFICACIONES, RELOTIFICACIONES, DIVISIONES Y SUBDIVISIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 129.
 
-Las licencias y permisos para fraccionamientos, condominios, lotificaciones, relotificaciones, divisiones y subdivisiones, que serán expedidos por las Direcciones de Obras Públicas Municipales, cumpliendo con la normatividad establecida por el Gobierno del Estado de Tabasco, por conducto de la Secretaría de Comunicaciones, Asentamientos y Obras Públicas, causarán los siguientes derechos:
+Las licencias y permisos para fraccionamientos, condominios, lotificaciones, relotificaciones, divisiones y subdivisiones, que serán expedidos por la Dirección de Obras Públicas Municipal, cumpliendo con la normatividad establecida por el Gobierno del Estado de Tabasco, por conducto de la Secretaría de Desarrollo Social y Protección Ambiental, causarán los derechos siguientes:
 
 I.- Fraccionamientos:
 
@@ -1259,9 +1295,11 @@ Por la expedición de títulos de terrenos Municipales, se pagarán los siguient
 
 ### CAPITULO VII. DE LOS SERVICIOS, REGISTROS E INSCRIPCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 133.
 
-Las personas físicas o morales que lleven a cabo los actos enumerados en este artículo, pagarán este servicio de acuerdo a la siguiente tarifa:
+Las personas físicas o jurídicas colectivas que lleven a cabo los actos enumerados en este artículo, pagarán este servicio de acuerdo a la siguiente tarifa:
 
 I.- Búsqueda de cualquier documento en
 
@@ -1363,9 +1401,11 @@ Se paga este derecho por el Servicio de Recolección y Transporte de basura, efe
 
 Los Ayuntamientos o Concejos Municipales con la autorización del H. Congreso, podrán concesionar la prestación de este Servicio, sin que ello los libere de la obligación de prestarlo.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 137.
 
-Pagarán este derecho las personas físicas y morales cuya basura o desechos sólidos sean recolectados y transportados por el Ayuntamiento o Concejo Municipal o el concesionario.
+Pagarán este derecho las personas físicas y jurídicas colectivas cuya basura o desechos sólidos sean recolectados y transportados por el Ayuntamiento o Concejo Municipal o el concesionario.
 
 ###### Artículo 138.
 
@@ -1401,9 +1441,11 @@ El pago deberá efectuarse en la Dirección de Finanzas o Tesorería Municipal c
 
 Se pagará este derecho por el servicio que efectúa el cuerpo de policía del Municipio, en forma exclusiva y a petición de parte, para proteger valores o proporcionar seguridad a establecimientos mercantiles, de espectáculos públicos, asociaciones civiles e instituciones particulares, realizando acciones de vigilancia que tiendan a ser permanentes o de periodicidad regular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 144.
 
-Pagarán este derecho las personas físicas o morales que soliciten el servicio de la policía municipal en forma exclusiva para la protección de valores, de establecimientos mercantiles o espectáculos públicos.
+Pagarán este derecho las personas físicas y jurídicas colectivas que soliciten el servicio de la policía municipal en forma exclusiva para la protección de valores, de establecimientos mercantiles o espectáculos públicos.
 
 La prestación de este servicio estará regulado por el reglamento que deba expedirse al respecto.
 
@@ -1415,7 +1457,7 @@ La tarifa se determinará en función del número de horas laborados por el cuer
 
 El pago se deberá efectuar, en la Dirección de Finanzas o Tesorería Municipal, previamente a la prestación del servicio, si éste es esporádico. En el caso de servicio permanente, se debe efectuar dentro de los cinco días siguientes al mes en que se prestó el servicio.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO IX. DE LAS AUTORIZACIONES PARA LA COLOCACION DE ANUNCIOS Y CARTELES O LA REALIZACION DE PUBLICIDAD
 
@@ -1473,15 +1515,21 @@ En los casos en que la base de la tarifa se refiera a metros cuadrados por día,
 
 El pago de los derechos especificados en la tabla anterior, se efectuará en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
 
-Los pagos a que se refiere este artículo serán cubiertos por las personas físicas o morales que utilicen los anuncios o la publicidad, así como las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+Los pagos a que se refiere este artículo serán cubiertos por las personas físicas o jurídicas colectivas que utilicen los anuncios o la publicidad, así como las empresas dedicadas al arrendamiento de espacios publicitarios cuyos productos, servicios o actividades sean objeto de anuncios, carteles o publicidad.
 
 Serán responsables solidarios los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios que lleven a cabo la publicidad.
 
-También serán responsables solidarios las personas físicas o morales que aparezcan en los anuncios, carteles o cualquier tipo de publicidad que sean fijados por terceros.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+También serán responsables solidarios las personas físicas o jurídicas colectivas que aparezcan en los anuncios, carteles o cualquier tipo de publicidad que sean fijados por terceros.
 
 Si en la fijación de anuncios o en la realización de la publicidad se utiliza la vía pública se deberán cubrir los derechos correspondientes.
 
-Estarán exentos del pago de estos derechos las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia pública y las de carácter cultural; así como las personas físicas o morales que para su funcionamiento o profesión necesitan identificarse y requieran de anuncios o carteles que pinten, adosen o adhieran en el inmueble en el que ejercen su actividad.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
+Estarán exentos del pago de estos derechos las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública y las de carácter cultural, así como las personas físicas o jurídicas colectivas que para su funcionamiento o profesión necesitan identificarse y requieran de anuncios o carteles que pinten, adosen o adhieran en el inmueble en el que ejercen su actividad.
 
 ## TITULO V. PRODUCTOS
 
@@ -1618,3 +1666,13 @@ P.O. 28 DE DICIEMBRE DE 1996.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 19 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones legales que se opongan a este Decreto.
