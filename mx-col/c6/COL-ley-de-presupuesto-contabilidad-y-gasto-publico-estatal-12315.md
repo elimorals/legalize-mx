@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-contabilidad-y-gasto-publico-estatal-12315"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-02"
-last_updated: "2002-06-15"
+last_updated: "2002-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "COL"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
 
-LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PUBLICO EN EL ESTADO DE COLIMA, SE DEROGAN LAS DISPOSICIONES DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL EN MATERIA DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS Y TODAS AQUELLAS QUE SE OPONGAN AL PRESENTE ORDENAMIENTO, P.O. 15 DE JUNIO DE 2002.</small>
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE COLIMA PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE DICIEMBRE DE 2002.</small>
 
-Ley publicada en el Periódico Oficial "El Estado de Colima" el sábado 2 de septiembre de 1995.
+Ley publicada en el Periódico Oficial del Estado de Colima,el sábado 2 de septiembre de 1995.
 
 CARLOS DE LA MADRID VIRGEN , Gobernador constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
@@ -36,6 +36,8 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 39, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y
+
+C O N S I D E R A N D O :
 
 ...
 
@@ -568,3 +570,9 @@ Los titulares de las dependencias constituirán los comités y expedirán los re
 Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
 
 Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, aprobada mediante Decreto número 117 de fecha 29 de agosto de 1995 y publicada el 2 de septiembre del mismo año, así como todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
