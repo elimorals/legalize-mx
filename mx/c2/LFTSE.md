@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1984-12-31"
+last_updated: "1987-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -256,9 +256,11 @@ Por cada seis días de trabajo disfrutará el trabajador de un día de descanso,
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 29.
 
-Serán días de descanso obligatorio los que señale el calendario oficial.
+Serán días de descanso obligatorio los que señale el calendario oficial y el que determinen las Leyes Federales y Locales Electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 ###### ARTICULO 30.
 
@@ -1597,3 +1599,9 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente 
 ###### ARTICULO QUINTO.
 
 El presente decreto entrará en vigor, el día primero de enero de mil novecientos ochenta y cinco.
+
+D.O.F. 22 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
