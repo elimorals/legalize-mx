@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2002-07-03"
+last_updated: "2002-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -3517,7 +3517,7 @@ A las penas que señala el artículo anterior se acumularán las que corresponda
 
 ### CAPITULO UNICO. DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 373.
 
@@ -3589,105 +3589,169 @@ Si los encubridores fuesen representantes legales de empresas pesqueras, congela
 
 Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 49, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV y V del artículo 376, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
-(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991) (F. DE E., P.O. 7 DE ENERO DE 1991)
+> <small>(ADICIONADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 TITULO VIGESIMOSEPTIMO
+
+DELITOS EN MATERIA ELECTORAL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991)</small>
 
 ###### Art. 379.
 
-Para los efectos de este capítulo se entiende por:
+Para los efectos de este Capítulo, se entiende por:
 
-I.- Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+I.- Servidores Públicos, las personas que se encuentren dentro de los supuestos establecidos por el artículo 186 de este Código;
 
-II.- Funcionarios partidistas, los dirigentes de los partidos políticos estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales o municipales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación estatal electoral; y
+II.- Funcionarios electorales, quienes en los términos del Código de Instituciones y Procedimientos Electorales para el Estado de Campeche integren los órganos que cumplen funciones electorales;
 
-III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado.
+III.- Funcionarios partidistas, los dirigentes de los Partidos Políticos y de las Agrupaciones Políticas, estatales y nacionales, y sus representantes ante los órganos electorales, en los términos del Código de Instituciones y Procedimientos Electorales para el Estado de Campeche;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+IV.- Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente;
+
+V.- Documentos públicos electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los Consejos General, Municipales y Distritales, y las de los cómputos de circunscripción plurinominal y, en general todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado de Campeche; y
+
+VI.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, tinta indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 380.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 381.
 
-Se impondrá multa de diez a cien días de salario mínimo diario vigente en el Estado o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+Se impondrán de diez a cien días multa y prisión de seis meses a tres años, a quien:
 
 I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
 
 II.- Vote más de una vez en una misma elección;
 
-III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes; o
+III.- Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+V.- Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
+
+VI.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
+
+VII.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
+
+VIII.- Vote o pretenda votar con una credencial para votar de la que no sea titular;
+
+IX.- El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+
+X.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+
+XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado Partido Político, Coalición o candidato;
+
+XII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o
+
+XIII.- Durante los quince días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda, por cualquier medio, los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 382.
 
-Se impondrá multa de hasta 500 días de salario mínimo vigente en el Estado, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+Se impondrán hasta quinientos días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato, Partido Político o Coalición, o a la abstención del ejercicio del derecho al voto.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002) (F. DE E., P.O. 28 DE OCTUBRE DE 2002)
 
 ###### Art. 383.
 
-Se impondrá multa de veinte a cien días de salario mínimo o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario electoral que:
+Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
 
-I.- Altere en cualquier forma, sustituya, destruya, o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
+I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
 
-II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
-IV.- Altere los resultados electorales, sustraiga o destruya boletas electorales;
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
 
-V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada; y
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 
-VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato, Partido Político o Coalición determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; y
+VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por el Código de Instituciones y Procedimientos Electorales para el Estado de Campeche, la instale en lugar distinto al legalmente señalado, o impida su instalación;
 
-VIII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
+VIII.- Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un Partido Político o Coalición o coarte los derechos que la ley les concede;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+IX.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
+
+X.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 384.
 
-Se impondrá multa de cincuenta a cien días de salario mínimo o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista o al candidato que:
 
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+I.- Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato, Partido Político o Coalición determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
 
-III.- Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
 
-IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
 
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
+V.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
 
-VI.- Impida con violencia la instalación; apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla; o
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+VII.- Obtenga y utilice a sabiendas y en su calidad de candidato, fondos o bienes provenientes de actividades ilícitas para su campaña electoral.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 385.
 
-Se impondrá multa de setenta a doscientos días de salario mínimo o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
 
-I.- Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un Partido Político, Coalición o candidato;
 
-II.- Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un Partido Político, Coalición o candidato;
 
-III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponderle por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un Partido Político, Coalición o candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado; o
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+IV.- Proporcione apoyo o preste algún servicio a los Partidos Políticos y Coaliciones, o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Art. 386.
 
-Se impondrá sanción de suspensión de sus derechos políticos por un año a quienes, habiendo sido electos diputados o presidente, regidor o síndico de un Ayuntamiento o Junta Municipal o comisario municipal, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado por la ley.
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos diputados o presidente, regidor o síndico de un Ayuntamiento o Junta Municipal no se presenten, sin causa justificada a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo que señale la ley de la materia.
+
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2002) (F. DE E., P.O. 28 DE OCTUBRE DE 2002)
+
+###### Art. 387.
+
+Se impondrán de veinte a cien días multa y prisión de tres meses a cinco años, a quien:
+
+I.- Proporcione documentos o información falsa al Registro Estatal de Electores para obtener la credencial de elector;
+
+II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la credencial que le expida el Registro Estatal de Electores; o
+
+III.- Altere las listas nominales de electores.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
+
+###### Art. 388.
+
+La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
+
+###### Art. 389.
+
+Se impondrá prisión de dos a nueve años, al funcionario partidista, o a los organizadores de actos de campaña, que a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 385 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2002)</small>
+
+###### Art. 390.
+
+Los responsables de los delitos contenidos en el presente Capítulo, por haber acordado o preparado su realización, no podrán gozar del beneficio de la libertad provisional.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3834,3 +3898,15 @@ Sexto.- Los procedimientos administrativos disciplinarios que se encuentren en t
 Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
+
+P.O. 30 DE SEPTIEMBRE DE 2002
+
+Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2002)</small>
+
+Segundo.- Se abrogan el Código Electoral del Estado expedido, bajo Decreto número 215, por la LIV Legislatura del Estado, publicado en el Periódico Oficial del Estado el 31 de diciembre de 1993; y sus modificaciones hechas por Decreto número 247, expedido por la LV Legislatura del Estado el 3 de enero de 1997, publicado en el Periódico Oficial del Estado el día 4 de ese mismo mes y año; Decreto número 212, expedido por la LVI Legislatura del Estado el 28 de septiembre de 1999, publicado en el Periódico Oficial del Estado el 29 de ese mismo mes y año; y Decretos números 39 y 165, expedidos por la LVII Legislatura del Estado, el 20 de diciembre de 2000 y el 28 de junio de 2002, respectivamente, publicados en el Periódico Oficial del Estado los días 21 de diciembre de 2000 y 3 de julio de 2002, también respectivamente, y se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
+
+Tercero.- Las funciones que competen a la Dirección Ejecutiva del Registro Estatal de Electores del Instituto Electoral del Estado quedan en suspenso, mientras se encuentre vigente el convenio celebrado por el Gobierno del Estado con el Instituto Federal Electoral para utilizar localmente el sistema y credencialización del Registro Federal de Electores.
+
+Cuarto.- Los actuales Consejeros Electorales del Consejo General del Instituto Electoral del Estado continuarán en el desempeño de sus cargos hasta la fecha de conclusión del período para el que resultaron electos.
