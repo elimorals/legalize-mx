@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2000-09-06"
+last_updated: "2000-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2425,9 +2425,27 @@ No se sancionará a quienes ejerzan la patria potestad, la tutela o la custodia 
 
 ###### ARTICULO 242.
 
-Al que realice cualquiera de las conductas previstas como delictuosas en la legislación federal sobre equilibrio ecológico y protección al ambiente, cuando dicha conducta corresponda a la jurisdicción del Estado de Morelos, se le aplicarán de tres meses a seis años de prisión y de cien a mil días multa.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-Si concurren las calificativas previstas en aquella legislación, las sanciones se podrán incrementar hasta en una mitad.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 242
+
+Bis.- Son delitos para los efectos de la presente Ley, los siguientes:
+
+I. Emitir contaminantes peligrosos, incendiar o provocar explosiones que deterioren la atmósfera o que provoquen o puedan provocar daños a la salud pública, la flora, la fauna o los ecosistemas;
+
+II. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+
+III. Descargar sin previo tratamiento, en los ríos, cuencas, vasos o demás depósitos de agua de jurisdicción local, incluyendo los sistemas de abastecimiento de agua o infiltre, en suelos o subsuelos, aguas residuales, desechos o contaminantes que causen o pueden causar daños graves a la salud pública, la flora, la fauna o a los ecosistemas;
+
+IV. Generar emisiones de energía térmica, ruido o vibraciones, que ocasionen daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+
+V. Fabricar, almacenar, comercializar, transportar, importar o disponer sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna a los ecosistemas; y,
+
+VI. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal, sin la autorización correspondiente.
+
+A quien por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de tres días a tres años de prisión y multa por el equivalente de cincuenta a cinco mil días de salario mínimo general vigente en el Estado de Morelos. Se impondrá pena de tres a ocho años de prisión y multa por el equivalente de quinientos a veinte mil días de salario mínimo general vigente en el Estado de Morelos, al que los cometa en forma dolosa.
 
 ## TITULO DECIMO SEPTIMO. DELITOS COMETIDOS EN EL EJERCICIO DE UNA ACTIVIDAD PROFESIONAL, ARTISTICA O TECNICA
 
@@ -3242,3 +3260,11 @@ P.O. 6 DE SEPTIEMBRE DE 2000.
 PRIMERO.- Túrnese al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículo (sic) 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 13 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- Remítase que sea el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Estado de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
