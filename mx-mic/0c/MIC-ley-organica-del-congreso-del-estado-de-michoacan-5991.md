@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "1986-07-28"
+last_updated: "1990-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1986
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1990
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -395,6 +395,8 @@ Las Comisiones de Investigación se constituyen con carácter transitorio; funci
 
 Las Comisiones de Dictamen y de Vigilancia se integrarán durante la segunda quincena del mes de septiembre del año en que se inicie la Legislatura.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1990)</small>
+
 ###### ARTICULO 41.
 
 Las Comisiones de dictamen legislativo serán de:
@@ -420,6 +422,8 @@ Para el Desarrollo Rural,
 Régimen, Reglamento y Prácticas Parlamentarias,
 
 Programación, Presupuesto y Cuenta Pública,
+
+Ecología,
 
 ###### ARTICULO 42.
 
@@ -768,3 +772,7 @@ Se derogan los artículos 77, 78, 79, 81, 83, 85, 86, 87, 88, 89, 90, 91, 92, 93
 ###### ARTÍCULO CUARTO.
 
 Este Decreto entrará en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 1990.
+
+UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
