@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1948-12-28"
+last_updated: "1949-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1949.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -909,11 +909,13 @@ Para los Magistrados Supernumerarios e Interinos, se requieren los mismos requis
 
 Los miembros del Supremo Tribunal de Justicia serán electos por el Congreso del Estado, en funciones de Colegio Electoral, y podrán ser reelectos. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de Diputados.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1949)</small>
+
 ###### Art. 99.
 
-Las faltas temporales de los Magistrados propietarios del Supremo Tribunal de Justicia, se cubrirán por los suplentes, y a falta de éstos, por los supernumerarios, unos y otros según su orden numérico. Agotados que fueren, por los interinos que nombre el Congreso o la Diputación Permanente.
+Las faltas temporales y las relativas a determinado negocio, de los Magistrados Propietarios del Supremo Tribunal de Justicia, se cubrirán por sus respectivos Suplentes, y a falta de éstos, por los Supernumerarios, según su orden numérico. Agotados que fueren, por los Interinos que nombre el Congreso o la Diputación Permanente.
 
-Las faltas absolutas de los Magistrados Propietarios, se cubrirán provisionalmente por los Suplentes, y a falta de éstos, por los supernumerarios, mientras el Congreso procede a hacer nueva elección. Si el Congreso no estuviere en sesiones, la Diputación permanente hará un nombramiento provisional, mientras se reúne aquel y hace la elección correspondiente.
+Las faltas absolutas de los Magistrados Propietarios se cubrirán provisionalmente por los Suplentes o por los Supernumerarios, en la forma estatuida en el párrafo anterior, mientras el Congreso procede a hacer nueva elección. Si el Congreso no estuviere reunido, la Diputación Permanente hará un nombramiento provisional en tanto se reúne aquél y hace la elección correspondiente.
 
 ###### Art. 100.
 
@@ -931,6 +933,8 @@ Los Magistrados del Supremo Tribunal de Justicia, los Jueces de 1ª Instancia y 
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1949)</small>
+
 ###### Art. 104.
 
 La Ley Orgánica del Poder Judicial reglamentará la administración de Justicia, conforme con las bases fijadas en esta Constitución, y correspondiendo exclusivamente al Supremo Tribunal:
@@ -947,7 +951,9 @@ V. Conocer en segunda instancia en los negocios que la tengan ante él conforme 
 
 VI. Conocer de las competencias entre los Jueces del Estado.
 
-VII. Llamar por el orden de su numeración a los Magistrados suplentes y supernumerarios, que deban cubrir las faltas de los propietarios, ya sean absolutas, temporales o relativas, a determinado negocio.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1949)</small>
+
+VII. Llamar a los Magistrados Suplentes y Supernumerarios que deban cubrir las faltas de los Propietarios.
 
 VIII. Nombrar los Jueces de 1ª Instancia y Menores y resolver sobre sus licencias o renuncias.
 
@@ -1654,3 +1660,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de 
 P.O. 28 DE DICIEMBRE DE 1948.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE MAYO DE 1949.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
