@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-division-para-las-comunidades-rurales-16159"
 country: "mx"
 rank: "ley"
 publication_date: "1930-05-31"
-last_updated: "1944-10-28"
+last_updated: "2004-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE DIVISION PARA LAS COMUNIDADES RURALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1944.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL DECRETO NO. 634, PUBLICADO EN EL PERIODICO OFICIAL EL 21 DE ABRIL DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 31 de mayo de 1930.
 
@@ -228,3 +230,9 @@ Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, 
 P.O. 28 DE OCTUBRE DE 1944
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
