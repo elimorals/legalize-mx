@@ -4,7 +4,7 @@ identifier: "COA-ley-de-camaras-de-agricultores-y-ganaderos-del-estado-de-9002"
 country: "mx"
 rank: "ley"
 publication_date: "1951-01-17"
-last_updated: "1951-01-17"
+last_updated: "1955-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE CAMARAS DE AGRICULTORES Y GANADEROS DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1955.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 17 de enero de 1951.
+Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles17 de enero de 1951.
 
 EL C. LIC. RAUL LOPEZ SANCHEZ, Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes sabed:
 
@@ -53,11 +53,11 @@ Solo podrán usar la denominación de Cámaras Agrícolas y Ganaderas del Estado
 
 La violación al presente artículo, será sancionada por el Departamento con multa de $100.00 (CIEN PESOS) a $500.00 (QUINIENTOS PESOS), que se impondrá a los dirigentes de las Instituciones que violen esta prohibición.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1955)</small>
+
 ###### ARTICULO 3o.
 
-En el Estado de Coahuila habrá cuatro Cámaras de Agricultores y Ganaderos, con residencia en la Ciudad de Saltillo, Torreón, Monclova y Allende.
-
-La Jurisdicción de estas Cámaras, se regirá por lo dispuesto en el Artículo 9o.
+En el Estado de Coahuila habrá cinco Cámaras de Agricultores y Ganaderos, con residencia en las ciudades de Saltillo, Torreón, Monclova, Allende y Parras. La jurisdicción de estas Cámaras se regirá por lo dispuesto en el Artículo 9o.
 
 ### CAPITULO SEGUNDO.
 
@@ -137,9 +137,11 @@ Los agricultores o ganaderos que cesen total o parcialmente en sus actividades, 
 
 La infracción de este precepto, será sancionado con una multa igual a la fijada en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1955)</small>
+
 ###### ARTICULO 9o.
 
-Las Cámaras se denominarán Cámaras de Agricultores y Ganaderos y tendrán las siguientes jurisdicciones: la de Saltillo: en los Municipios de Saltillo, Arteaga, Ramos Arizpe y General Cepeda; la de Torreón: en los Municipios de Torreón, Parras, San Pedro, Viesca, Francisco I. Madero y Matamoros; la de Monclova: en los Municipios de Monclova, Villa Frontera, Nadadores, San Buenaventura, Castaños, Lamadrid, Sacramento, Cuatro Ciénegas, Ocampo, Sierra Mojada, Abasolo, Candela y Escobedo; y la de Allende: en los Municipios de Allende, Múzquiz, Sabinas, San Juan de Sabinas, Villa Acuña, Juárez, Progreso, Morelos, Zaragoza, Nava, Guerrero, Piedras Negras, Villa Unión, Jiménez e Hidalgo.
+Las cámaras se denominarán Cámaras de Agricultores y Ganaderos y tendrán las siguientes jurisdicciones: La de Saltillo: en los Municipios de Saltillo, Arteaga, Ramos Arizpe y Gral Cepeda; la de Torreón: en los Municipios de Torreón, San Pedro, Viesca, Francisco I. Madero y Matamoros; la de Monclova: en los Municipios de Monclova, Villa Frontera, Nadadores, San Buenaventura, Castaños, Lamadrid, Sacramento, Cuatrociénegas, Ocampo, Sierra Mojada, Abasolo, Candela y Escobedo; la de Allende: en los Municipios de Allende, Múzquiz, Sabinas, San Juan de Sabinas, Ciudad Acuña, Juárez, Progreso, Morelos, Zaragoza, Nava, Guerrero, Piedras Negras, Villa Unión, Jiménez e Hidalgo; y la de Parras, que comprende el propio Municipio de Parras.
 
 ###### ARTICULO 10.
 
@@ -464,3 +466,9 @@ RAUL LOPEZ SANCHEZ.- Rúbrica.
 EL SECRETARIO DEL EJVO. DEL EDO.
 
 LIC. ARMIN VALDEZ GALINDO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ABRIL DE 1955.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
