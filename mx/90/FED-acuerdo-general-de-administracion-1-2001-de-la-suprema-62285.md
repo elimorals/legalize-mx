@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-1-2001-de-la-suprema-62285"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-01-22"
-last_updated: "2001-03-06"
+last_updated: "2001-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62285&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2001-01-22"
 
 ACUERDO GENERAL DE ADMINISTRACION 1/2001, POR EL QUE SE CREA LA DIRECCION GENERAL DE PUBLICACIONES Y DIVULGACION DE LA CULTURA JURIDICA Y SE MODIFICA LA DENOMINACION DE LA DIRECCION GENERAL DE COMUNICACION SOCIAL, AMBAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL CONJUNTO DE ADMINISTRACION 3/2001, PUBLICADO EN EL S.J.F.G., TOMO XIII, MARZO DE 2001, PAGINA 1841, SE DEROGA, EN LO QUE ATAÑE A LA COORDINACION GENERAL DE COMUNICACION SOCIAL DE LA S.C.J.N. Y AQUELLAS OTRAS DISPOSICIONES ADMINISTRATIVAS, EN LO QUE SE OPONGAN A LO SEÑALADO EN NUEVO ACUERDO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION 5/2001, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 807, SE DEROGAN TODAS AQUELLAS DISPOSICIONES DE LA PRESIDENCIA DE LA S.C.J.N., EN LO QUE SE REFIEREN A LA DIRECCION GENERAL DE PUBLICACIONES Y DIFUSION DE LA CULTURA JURIDICA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: TOMO XIII, MARZO DE 2001, PAGINA 1841.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: TOMO XIII, JUNIO DE 2001, PAGINA 807.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIII, Febrero de 2001, página 1853.
 
@@ -108,3 +108,19 @@ PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su aprobación.
 SEGUNDO.- Se deroga, en lo que atañe a la Coordinación General de Comunicación Social de la Suprema Corte de Justicia de la Nación, el Acuerdo General de Administración 1/2001 de veintidós de enero de dos mil uno y aquellas otras disposiciones administrativas, en lo que se opongan a lo señalado en este acuerdo.
 
 TERCERO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
+
+S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 807.
+
+PRIMERO.- Este acuerdo entrará en vigor el día primero de julio del año dos mil uno.
+
+SEGUNDO.- El titular de la Dirección General de Publicaciones y Difusión de la Cultura Jurídica informará a los titulares de la Coordinación General de Compilación y Sistematización de Tesis y de la Coordinación General de Comunicación Social, de manera inmediata, lo siguiente:
+
+a) Los programas previstos para desarrollarse durante el año dos mil uno y el grado de avance que presenten.
+
+b) Los asuntos urgentes o prioritarios, el estado que guardan, así como la solución planteada para su atención.
+
+c) Las actividades que se han desarrollado a la fecha de aprobación de este acuerdo.
+
+TERCERO.- Se derogan todas aquellas disposiciones del Acuerdo General de Administración 1/2001 de la Presidencia de la Suprema Corte de Justicia de la Nación, en lo que se refieren a la Dirección General de Publicaciones y Difusión de la Cultura Jurídica.
+
+CUARTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
