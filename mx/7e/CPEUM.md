@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1992-01-06"
+last_updated: "1992-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 1992.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -54,19 +54,29 @@ Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del 
 
 La educación que imparta el Estado -Federación, Estados, Municipios- tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
-I.- Garantizada por el artículo 24 la libertad de creencias, el criterio que orientará a dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+
+I.- Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
+
+II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
 a).- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
 b).- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
-II.- Los particulares podrán impartir educación en todos sus tipos y grados. Pero por lo que concierne a la educación primaria, secundaria y normal (y a la de cualquier tipo o grado, destinada a obreros y a campesinos) deberán obtener previamente, en cada caso, la autorización expresa del poder público. Dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno;
+c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-III.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la fracción anterior deberán ajustarse, sin excepción, a lo dispuesto en los párrafos inicial, I y II del presente artículo y, además, deberán cumplir los planes y los programas oficiales;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
 
-IV.- Las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que, exclusiva o predominantemente, realicen actividades educativas y las asociaciones o sociedades ligadas con la propaganda de cualquier credo religioso no intervendrán en forma alguna en planteles en que se imparta educación primaria, secundaria y normal y la destinada a obreros o a campesinos;
+III.- Los particulares podrán impartir educación en todos sus tipos y grados. Pero por lo que concierne a la educación primaria, secundaria y normal (y a la de cualquier tipo o grado, destinada a obreros y a campesinos) deberán obtener previamente, en cada caso, la autorización expresa del poder público. Dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno;
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+
+IV.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la fracción anterior, deberán impartir la educación con apego a los mismos fines y criterios que establecen el primer párrafo y la fracción II del presente artículo; además cumplirán los planes y programas oficiales y se ajustarán a lo dispuesto en la fracción anterior;
 
 V.- El Estado podrá retirar discrecionalmente, en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares;
 
@@ -80,11 +90,17 @@ VIII.- Las universidades y las demás instituciones de educación superior a las
 
 IX.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
 
 ###### Art. 4o.
 
+La Nación mexicana tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos agrarios en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
@@ -114,7 +130,9 @@ Nadie podrá ser obligado a prestar trabajos personales sin la justa retribució
 
 En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas y los jurados, así como el desempeño de los cargos concejiles y los de elección popular, directa o indirecta. Las funciones electorales y censales tendrán carácter obligatorio y gratuito, pero serán retribuidas aquéllas que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes. Los servicios profesionales de índole social serán obligatorios y retribuidos en los términos de la ley y con las excepciones que ésta señale.
 
-El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona, ya sea por causa de trabajo, de educación o de voto religioso. La ley en consecuencia, no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
+El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona por cualquier causa.
 
 Tampoco puede admitirse convenio en que la persona pacte su proscripción o destierro, o en que renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
 
@@ -292,11 +310,15 @@ Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a
 
 Ningún juicio criminal deberá tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
 ###### Art. 24.
 
-Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, en los templos o en su domicilio particular, siempre que no constituyan un delito o falta penados por la ley.
+Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley.
 
-Todo acto religioso de culto público, deberá celebrarse precisamente dentro de los templos, los cuales estarán siempre bajo la vigilancia de la autoridad.
+El Congreso no puede dictar leyes que establezcan o prohiban religión alguna.
+
+Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -372,9 +394,13 @@ I.- Sólo los mexicanos por nacimiento o por naturalización y las sociedades me
 
 El Estado de acuerdo con los intereses públicos internos y los principios de reciprocidad, podrá, a juicio de la Secretaría de Relaciones, conceder autorización a los Estados extranjeros para que adquieran, en el lugar permanente de la residencia de los Poderes Federales, la propiedad privada de bienes inmuebles necesarios para el servicio directo de sus embajadas o legaciones.
 
-II.- Las asociaciones religiosas denominadas iglesias, cualquiera que sea su credo, no podrán, en ningún caso, tener capacidad para adquirir, poseer o administrar bienes raíces, ni capitales impuestos sobre ellos; los que tuvieren actualmente, por sí o por interpósita persona, entrarán al dominio de la Nación, concediéndose acción popular para denunciar los bienes que se hallaren en tal caso. La prueba de presunciones será bastante para declarar fundada la denuncia. Los templos destinados al culto público son de la propiedad de la Nación, representada por el Gobierno Federal, quien determinará los que deben continuar destinados a su objeto. Los obispados, casas curales, seminarios, asilos o colegios de asociaciones religiosas, conventos o cualquier otro edificio que hubiere sido construído o destinado a la administración, propaganda o enseñanza de un culto religioso, pasarán desde luego, de pleno derecho, al dominio directo de la Nación, para destinarse exclusivamente a los servicios públicos de la Federación o de los Estados, en sus respectivas jurisdicciones. Los templos que en lo sucesivo se erigieren para el culto público serán propiedad de la Nación.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
 
-III.- Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él; pero podrán adquirir, tener y administrar, capitales impuestos sobre bienes raíces, siempre que los plazos de imposición no excedan de diez años. En ningún caso las instituciones de esta índole podrán estar bajo el patronato, dirección, administración, cargo o vigilancia de corporaciones o instituciones religiosas, ni de ministros de los cultos o de sus asimilados, aunque éstos o aquéllos no estuvieren en ejercicio.
+II.- Las asociaciones religiosas que se constituyan en los términos del artículo 130 y su ley reglamentaria tendrán capacidad para adquirir, poseer o administrar, exclusivamente, los bienes que sean indispensables para su objeto, con los requisitos y limitaciones que establezca la ley reglamentaria.
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+
+III.- Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados, o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él, con sujeción a lo que determine la ley reglamentaria.
 
 > <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1992)</small>
 
@@ -1768,19 +1794,37 @@ Las licencias de los ministros, cuando no excedan de un mes, serán concedidas p
 
 Los ministros de la Suprema Corte de Justicia, los magistrados de circuito, los jueces de distrito y los respectivos secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literiarias (sic) o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>N. DE E. EL CONTENIDO DEL ANTERIOR ARTICULO 102, PASA A SER EL APARTADO A DEL PROPIO ARTICULO Y SE ADICIONA A ESTE UN APARTADO B, D.O.F. 28 DE ENERO DE 1992.</small>
 
 ###### Art. 102.
 
-La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser ministro de la Suprema Corte de Justicia.
+> <small>(ADICIONADO [N. DE E. ANTES PRIMER PARRAFO], D.O.F. 28 DE ENERO DE 1992)</small>
+
+A. La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser ministro de la Suprema Corte de Justicia.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 Incumbe al Ministerio Público de la Federación, la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
 El Procurador General de la República intervendrá personalmente en las controversias que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 En todos los negocios en que la Federación fuese parte; en los casos de los diplomáticos y los cónsules generales y en los demás en que deba intervenir el Ministerio Público de la Federación, el Procurador General lo hará por sí o por medio de sus agentes.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
 El Procurador General de la República será el consejero jurídico del Gobierno. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
+B. El Congreso de la Unión y las legislaturas de los Estados en el ámbito de sus respectivas competencias, establecerán organismos de protección de los Derechos Humanos que otorga el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos. Formularán recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+Estos organismos no serán competentes tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+El organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes de los estados.
 
 ###### Art. 103.
 
@@ -2646,41 +2690,33 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
 
+(REFORMADO, D.O.F. 28 DE ENERO DE 1992)(REFORMADO, D.O.F. 28 DE ENERO DE 1992)
+
 ###### Art. 130.
 
-Corresponde a los Poderes Federales ejercer en materia de culto religioso y disciplina externa, la intervención que designen las leyes. Las demás autoridades obrarán como auxiliares de la Federación.
+El principio histórico de la separación del Estado y las iglesias orienta las normas contenidas en el presente artículo. Las iglesias y demás agrupaciones religiosas se sujetarán a la ley.
 
-El Congreso no puede dictar leyes estableciendo o prohibiendo religión cualquiera.
+Corresponde exclusivamente al Congreso de la Unión legislar en materia de culto público y de iglesias y agrupaciones religiosas. La ley reglamentaria respectiva, que será de orden público, desarrollará y concretará las disposiciones siguientes:
 
-El matrimonio es un contrato civil. Este y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+a) Las iglesias y las agrupaciones religiosas tendrán personalidad jurídica como asociaciones religiosas una vez que obtengan su correspondiente registro. La ley regulará dichas asociaciones y determinará las condiciones y requisitos para el registro constitutivo de las mismas;
 
-La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
+b) Las autoridades no intervendrán en la vida interna de las asociaciones religiosas;
 
-La ley no reconoce personalidad alguna a las agrupaciones religiosas denominadas iglesias.
+c) Los mexicanos podrán ejercer el ministerio de cualquier culto. Los mexicanos así como los extranjeros deberán, para ello, satisfacer los requisitos que señale la ley;
 
-Los ministros de los cultos serán considerados como personas que ejercen una profesión y estarán directamente sujetos a las leyes que sobre la materia se dicten.
+d) En los términos de la ley reglamentaria, los ministros de cultos no podrán desempeñar cargos públicos. Como ciudadanos tendrán derecho a votar, pero no a ser votados. Quienes hubieren dejado de ser ministros de cultos con la anticipación y en la forma que establezca la ley, podrán ser votados;
 
-Las Legislaturas de los Estados únicamente tendrán facultad de determinar, según las necesidades locales, el número máximo de ministros de los cultos.
-
-Para ejercer en México el ministerio de cualquier culto, se necesita ser mexicano por nacimiento.
-
-Los ministros de los cultos nunca podrán, en reunión pública o privada constituída en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades en particular, o en general del Gobierno; no tendrán voto activo ni pasivo, ni derecho para asociarse con fines políticos.
-
-Para dedicar al culto nuevos locales abiertos al público se necesita permiso de la Secretaría de Gobernación, oyendo previamente al Gobierno del Estado. Debe haber en todo templo un encargado de él, responsable ante la autoridad del cumplimiento de las leyes sobre disciplina religiosa, en dicho templo, y de los objetos pertenecientes al culto.
-
-El encargado de cada templo, en unión de diez vecinos más, avisará desde luego a la autoridad municipal, quién es la persona que esté a cargo del referido templo. Todo cambio se avisará por el ministro que cese, acompañado del entrante y diez vecinos más. La autoridad municipal, bajo pena de destitución y multa hasta de mil pesos por cada caso, cuidará del cumplimiento de esta disposición; bajo la misma pena llevará un libro de registro de los templos, y otro de los encargados. De todo permiso para abrir al público un nuevo templo, o del relativo a cambio de un encargado, la autoridad municipal dará noticia a la Secretaría de Gobernación, por conducto del Gobernador del Estado. En el interior de los templos podrán recaudarse donativos en objetos muebles.
-
-Por ningún motivo se revalidará, otorgará dispensa o se determinará cualquier otro trámite que tenga por fin dar validez en los cursos oficiales, a estudios hechos en los establecimientos destinados a la enseñanza profesional de los ministros de los cultos. La autoridad que infrinja esta disposición será penalmente responsable, y la dispensa o trámite referidos, será nulo y traerá consigo la nulidad del título profesional para cuya obtención haya sido parte la infracción de este precepto.
-
-Las publicaciones periódicas de carácter confesional, ya sea por su programa, por su título o simplemente por sus tendencias ordinarias, no podrán comentar asuntos políticos nacionales ni informar sobre actos de las autoridades del país, o de particulares, que se relacionen directamente con el funcionamiento de las instituciones públicas.
+e) Los ministros no podrán asociarse con fines políticos ni realizar proselitismo a favor o en contra de candidato, partido o asociación política alguna. Tampoco podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios.
 
 Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse en los templos reuniones de carácter político.
 
-No podrá heredar por sí ni por interpósita persona ni recibir por ningún título un ministro de cualquiera culto, un "inmueble", ocupado por cualquiera asociación de propaganda religiosa o de fines religiosos o de beneficencia. Los ministros de los cultos tienen incapacidad legal para ser herederos, por testamento, de los ministros del mismo culto o de un particular con quien no tengan parentesco dentro del cuarto grado.
+La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
 
-Los bienes muebles o inmuebles del clero o de asociaciones religiosas, se regirán, para su adquisición, por particulares, conforme al artículo 27 de esta Constitución.
+Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
 
-Los procesos por infracción a las anteriores bases, nunca serán vistos en jurado.
+Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+
+Las autoridades federales, de los estados y de los municipios tendrán en esta materia las facultades y responsabilidades que determine la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -2808,9 +2844,11 @@ Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la l
 
 El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
 ###### Art. 17.
 
-(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
+Los Templos y demás bienes que, conforme a la fracción II del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos que se reforma por este Decreto, son propiedad de la nación, mantendrán su actual situación jurídica.
 
 ###### Art. 18.
 
@@ -3692,7 +3730,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 7 DE ABRIL DE 1986.
 
-DECRETO QUE REFORMA LO ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
+DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
 
 ###### ARTICULO 1o.
 
@@ -3750,7 +3788,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Los Representantes a la Asamblea del Distrito Federal serán electos simultáneamente a los Diputados Federales que integrarán la LIV Legislatura del Congreso de la Unión, en la forma y términos que señale la ley respectiva.
 
-TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso a) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
+TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso A) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
 
 CUARTO.- En tanto se instala la Asamblea de Representantes del Distrito Federal, los nombramientos de Magistrado del Tribunal Superior de Justicia del Distrito Federal continuarán siendo sometidos por el Presidente de la República, a la aprobación de la Cámara de Diputados del Congreso de la Unión, o de la Comisión Permanente, en su caso.
 
@@ -3788,7 +3826,7 @@ SEGUNDO.- En tanto no se establezca el servicio del Registro Nacional Ciudadano,
 
 TERCERO.- Los diputados electos a la LIV Legislatura del Congreso de la Unión durarán en sus funciones hasta el 31 de octubre de 1991.
 
-CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
+CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a los LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
 
 QUINTO.- La Comisión Permanente se integra con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
 
@@ -3817,3 +3855,35 @@ La Secretaría de la Reforma Agraria, el Cuerpo Consultivo Agrario, las comision
 Los expedientes de los asuntos arriba mencionados, sobre los cuales no se haya dictado resolución definitiva al momento de entrar en funciones los tribunales agrarios, se pondrán en estado de resolución y se turnarán a éstos para que, conforme a su ley orgánica, resuelvan en definitiva, de conformidad con las disposiciones legales a que se refiere el párrafo anterior.
 
 Los demás asuntos de naturaleza agraria que se encuentren en trámite o se presenten a partir de la entrada en vigor de este Decreto, y que conforme a la ley que se expida deban pasar a ser de la competencia de los tribunales agrarios, se turnarán a éstos una vez que entren en funciones para que resuelvan en definitiva.
+
+D.O.F. 28 DE ENERO DE 1992.
+
+DECRETO QUE REFORMA LAS FRACCIONES I, II, III Y IV DEL ARTICULO 3; PARRAFO QUINTO DEL ARTICULO 5; ARTICULO 24; FRACCIONES II Y III DEL ARTICULO 27, EL ARTICULO 130 Y ADICIONA EL ARTICULO DECIMOSEPTIMO TRANSITORIO.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 1992.
+
+DECRETO QUE REFORMA EL ARTICULO 102.
+
+###### ARTICULO 1o.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO 2o.
+
+En tanto se establecen los organismos de protección de los derechos humanos en los Estados en los términos del presente Decreto, la Comisión Nacional de Derechos Humanos podrá seguir conociendo de las quejas que deban ser de competencia local.
+
+Los Estados que ya cuenten con dichos organismos, recibirán las quejas aún no resueltas que hayan sido presentadas ante la Comisión Nacional en un término de 30 días naturales contados a partir de la fecha de publicación del decreto en el Diario Oficial de la Federación.
+
+Las Legislaturas de los Estados dispondrán de un año a partir de la publicación de este Decreto para establecer los organismos de protección de los Derechos Humanos.
+
+D.O.F. 28 DE ENERO DE 1992.
+
+DECRETO QUE REFORMA EL ARTICULO 4.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
