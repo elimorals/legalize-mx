@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1984-12-24"
+last_updated: "1984-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1001,9 +1001,9 @@ Los actuarios son irrecusables.
 
 ACTOS PREJUDICIALES.
 
-### CAPITULO II
+### CAPITULO II. DE LA SEPARACION PROVISIONAL DE LOS CONYUGES
 
-DEL DEPOSITO DE PERSONAS COMO ACTO PREJUDICIAL.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 154.
 
@@ -1069,75 +1069,107 @@ Fuera de los casos señalados en el artículo 154 no se podrá antes de la deman
 
 No serán procedentes conforme a la fracción I del artículo 154, las declaraciones que no tengan por objeto exclusivo la personalidad o el título con que posea el declarante, sino que se extiendan a puntos diversos, de la cuestión litigiosa, a cuyo efecto el juez calificará previamente el interrogatorio presentado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
 ### CAPITULO III
 
 DE LOS PRELIMINARES DE LA CONSIGNACION.
 
 ###### Artículo 166.
 
-La mujer casada que viviendo al lado del marido intente demandarlo o acusarlo puede pedir su depósito.
+La persona que viviendo al lado de su cónyuge intente demandarlo o acusarlo puede pedir su separación provisional.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 167.
 
-El marido que viviendo con su mujer intente demandarla o acusarla, debe pedir previamente el depósito de aquélla.
+El domicilio conyugal será preferentemente, el que continúe habitando la persona que haya solicitado su separación provisional, pudiendo escoger en su derecho un lugar diferente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 168.
 
-Sólo los jueces de primera instancia pueden decretar los depósitos de que hablan los artículos anteriores a no ser que, por circunstancias especiales, no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde la cónyuge se encuentre podrá decretar el depósito provisionalmente remitiendo las diligencias al competente, poniendo a la persona a su disposición.
+Sólo los jueces de lo Familiar, pueden decretar la separación provisional de que hablan los artículos anteriores, a no ser que por circunstancias especiales, no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde el cónyuge se encuentre, podrá decretar la separación provisional, remitiendo las diligencias al competente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 169.
 
-La solicitud de la mujer puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+La solicitud de los cónyuges puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 170.
 
-Presentada la solicitud se trasladará el juez a la casa del marido, y, sin que se halle éste presente, hará comparecer a la mujer para que manifieste si ratifica o no el escrito en que hubiere pedido el depósito si por escrito se hubiere solicitado. Hecha la ratificación, el juez designará, desde luego, la persona que haya de encargarse del depósito y dispondrá que en acto se entreguen a la mujer la cama y toda su ropa.
+Presentada la solicitud se trasladará el juez al domicilio conyugal o lugar donde habiten los cónyuges con previa citación del otro cónyuge; si fuere la mujer quien hubiera solicitado la separación provisional, se le hará comparecer sin que se encuentre presente el marido, para que manifieste si ratifica o no su solicitud; hecha la ratificación en presencia de ambos cónyuges, el juez decretará la separación provisional, y en caso de no haber sido escogido el domicilio conyugal para dicha separación, dispondrá que en el acto se entreguen la cama y toda su ropa si se trata de la mujer, o únicamente los últimos efectos si se trata del marido.
 
-Si hubiere cuestión sobre cuales ropas deben entregarse, el juez sin ulterior recurso y teniendo en cuenta las circunstancias de las personas, determinará las que haya de llevar la interesada.
+Si hubiere cuestión sobre cuáles ropas deban entregarse, el juez sin ulterior recurso y teniendo en cuenta las circunstancias de las personas, determinará las que haya de llevar el interesado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 171.
 
-Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente extraerá a la mujer de la casa del marido y la llevará a la del depositario.
+Practicado todo lo que queda prevenido en los Artículos anteriores y en caso de no haberse señalado el domicilio conyugal para la separación, el juez personalmente extraerá al cónyuge de dicho domicilio y le llevará al señalado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 172.
 
-En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+En el mismo acto de la diligencia intimará el juez al otro cónyuge para que no moleste al que hubiere solicitado su separación provisional, ni a los menores o habitantes del domicilio señalado para que ésta se efectúe en caso de no ser el domicilio conyugal, apercibiéndolo de procederse en su contra a lo que hubiere lugar.
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime prudente a efecto de evitar las molestias contra la mujer y depositario.
+Independientemente de lo anterior, el juez puede decretar las medidas que estime procedentes a efecto de evitar molestias al solicitante y a los habitantes del domicilio señalado para la separación provisional.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 173.
 
-La casa donde se deposite la mujer casada será en todo caso designada por el juez y debe ser el depositario persona de notoria honorabilidad y buenas costumbres; pudiendo en su caso designarse una institución de asistencia social.
+La casa donde se encuentra el cónyuge que haya pedido su separación provisional, será preferente escogida por éste y en su defecto, el juez la designará, cuidando que si la mujer fue quien lo solicitó, continúe en el domicilio conyugal y de no ser posible esto, señalar la casa de personas de notoria honorabilidad y buenas costumbres, pudiendo inclusive designarse para dicho efecto a una institución de beneficencia o asistencia social.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 174.
 
-Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo el juez resolverá provisionalmente debiendo, en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
+Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo el juez resolverá provisionalmente, debiendo en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
 
 Cualquiera reclamación de los consortes sobre el cuidado de los hijos se substanciará incidentalmente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
 ###### Artículo 175.
 
-Al mismo tiempo de constituído el depósito mandará al juez intimar al marido o a la mujer en su caso, apercibiéndolos de que si dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituída la mujer a la casa de su marido. Esta providencia se notificará en forma legal a la mujer y al marido.
+Al mismo tiempo de decretada la separación provisional mandará el juez intimar al cónyuge que la hubiere solicitado, de que si dentro de 30 días no acredita haber intentado la demanda o la acusación, queda apercibido que la separación provisional queda sin efectos, pudiendo en ese caso el cónyuge que no la hubiere solicitado, hacer valer sus derechos correspondientes. Esta providencia se notificará a ambos cónyuges.
+
+Para presentar la demanda respectiva a que alude este artículo, el cónyuge que hubiera solicitado su separación provisional, podrá interponerla directamente ante el mismo juzgado que haya conocido del acto prejudicial.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 176.
 
-Al depositario se dará copia certificada de la constitución del depósito para su resguardo.
+Al responsable de la casa donde se encuentre el cónyuge que hubiere solicitado su separación provisional, se le hará entrega de las copias certificadas que contengan los proveídos en los que se decretó la separación provisional y el domicilio en donde ésta se lleve a efecto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 177.
 
-El término señalado para la duración del depósito podrá prorrogarse si se acredita que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
+El término señalado para la duración de la separación provisional podrá prorrogarse si se acredita que por causa no imputable al solicitante, ha sido imposible intentar la acción contra su cónyuge.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 178.
 
-Las pretensiones que puedan formularse por la mujer, o el marido o por el depositario sobre variación del depósito o cualquiera otra cuestión a que éste pueda dar lugar se substanciarán incidentalmente.
+Las pretensiones que puedan formular los cónyuges, sobre variación del domicilio en que se lleve a efecto la separación provisional, o cualquiera otra cuestión que pueda dar lugar, se substanciarán incidentalmente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 179.
 
-No acreditándose haberse intentado la demanda o acusación dentro del término señalado, levantará el juez el depósito y restituirá a la mujer a la casa del marido.
+No acreditándose haber intentado la demanda o acusación dentro del término señalado, a solicitud de la parte interesada, se decretará de plano sin efectos la separación provisional.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 180.
 
-Si el juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario o hará otro, siguiendo el juicio su curso legal.
+Si el juez que decretó la separación provisional no fuera el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuera competente, quien las confirmará o proveerá lo conducente.
 
 ### CAPITULO IV
 
@@ -3529,9 +3561,11 @@ Cuando ambos consortes convengan en divorciarse, en los términos del último p�
 
 Hecha la solicitud citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta, que se efectuará después de los ocho y antes de los quince días siguientes y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativo a la situación de los hijos menores o incapacitados y de la mujer y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
 ###### Artículo 605.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, tanto en el orden económico como en su salud física y mental, el Tribunal, oyendo el parecer del representante del Ministerio Público sobre estos puntos, al dictar su sentencia donde se disuelva el vínculo matrimonial y donde decida sobre el convenio presentado, decretará cuantas medidas sean necesarias para el bienestar de los menores.
 
 ###### Artículo 606.
 
@@ -3553,9 +3587,11 @@ En caso de que no las acepten, el tribunal resolverá en la sentencia lo que pro
 
 Cuando el convenio no puede aprobarse, no podrá decretarse la disolución del matrimonio.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
 ###### Artículo 610.
 
-La sentencia que decreta el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos.
+La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos. En el caso que en la misma se decrete el pago de alimentos, deberá observarse lo dispuesto por el artículo 727 de este mismo Código.
 
 ###### Artículo 611.
 
@@ -3995,9 +4031,11 @@ DEL JUICIO DE MENOR CUANTIA.
 
 Se llaman interdictos los juicios que tienen por objeto retener o recobrar la posesión interina de una cosa.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
 ###### Artículo 693.
 
-Los interdictos sólo proceden respecto de los bienes raíces y derechos reales constituídos sobre ellos, así como para los efectos que expresa el artículo 353 del Código Civil.
+Los interdictos sólo proceden respecto de los bienes raíces y derechos reales constituidos sobre ellos, así como para los efectos que expresa el artículo 353 del Código Civil. En este último supuesto, cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, o cuando tenga el hábito de embriaguez o el uso indebido y persistente de drogas enervantes, que amenace causar la ruina de los hijos.
 
 ###### Artículo 694.
 
@@ -4035,13 +4073,15 @@ En los interdictos no habrá artículos de previo y especial pronunciamiento. To
 
 Compete el interdicto al que teniendo la posesión de las cosas o derechos a que se refiere el artículo 693, haya sido perturbado en ella por actos que manifiesten la intención notoria o inequívoca de inquietarle o despojarle y al que ha sido ya despojado de dicha posesión. Procede contra el que esté ejecutando, ha ejecutado o mandado ejecutar, los actos que constituyen la perturbación o el despojo y será procedente aún entre comuneros, siempre que se compruebe de parte del quejoso que ha tenido la posesión de hecho con exclusción (sic) de sus demás copartícipes en la propiedad de la cosa común.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
 ###### Artículo 703.
 
-Puede usar del interdicto:
+Puede usar del interdicto, con las salvedades referidas en el artículo 693:
 
-I.- Todo el que ha poseído por más de un año en nombre propio o en nombre ajeno.
+I.- Todo el que ha poseído por más de un año en nombre propio o en nombre ajeno;
 
-II.- Todo el que haya poseído por menos de un año, cuando la perturbación o el despojo van acompañados de violencia o vías de hecho y salvo lo dispuesto en el artículo 804 del Código Civil.
+II.- Todo el que haya poseído por menos de un año, cuando la perturbación o el despojo van acompañados de violencia o vías de hecho y salvo lo dispuesto en el Art. 804 del Código Civil.
 
 ###### Artículo 704.
 
@@ -5285,7 +5325,7 @@ De la resolución que niegue la declaración solicitada puede apelar el promoven
 
 DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ###### Artículo 897.
 
@@ -5565,19 +5605,19 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ###### Artículo 935.
 
-El que pretenda adoptar a alguna persona deberá acreditar las exigencias del Artículo 390 del Código Civil.
+El que pretenda adoptar a alguna persona deberá acreditar las exigencias del artículo 390 del Código Civil.
 
-Además, en la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor o incapacitado, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o la institución de beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil domicilio del o de los adoptantes, y nombre, nacionalidad y domicilio de los padres del o de los adoptantes.
+En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor o incapacitado, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil, domicilio del o de los adoptantes, y nombre, nacionalidad y domicilio de los padres del o de los adoptantes. En caso de querer variar el nombre del adoptado, se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
 
-Si la adopción se hizo con anterioridad y faltaren datos del o de los adoptantes o padres de éstos, se acreditarán, por resolución pronunciada en Jurisdicción Voluntaria.
+Si la adopción se hizo con anterioridad y faltaren datos del o de los adoptantes o padres de éstos, se acreditarán, por resolución pronunciada en jurisdicción voluntaria, o en procedimiento administrativo ante la Dirección del Registro Civil.
 
-Cuando el menor hubiese sido acogido por un Institución Pública, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos de la Fracción IV del Artículo 444 del Código Civil.
+Cuando el menor hubiese sido acogido por Institución Pública o privada el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos de la Fracción IV del Artículo 444 del Código Civil.
 
 Si hubieren transcurrido menos de tres meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
 
-Si el menor abandonado tuviere padres conocidos y no hubiere sido acogido por Institución Pública, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
+Si el menor abandonado tuviere padres conocidos y no hubiere sido acogido por Institución Pública o Privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
 
-Cuando se trate de adopciones respecto a menores expuestos en Instituciones protectoras de la niñez, el trámite de las mismas se hará a través de las instituciones oficiales sin costo alguno para los interesados.
+Cuando se trate de adopciones respecto a menores expuestos en Instituciones protectoras de la niñez, el trámite de las mismas se hará a través de las Instituciones Oficiales sin costo alguno para los interesados.
 
 ###### Artículo 936.
 
@@ -6158,3 +6198,17 @@ P.O. 24 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1984.
+
+DECRETO NUM. 237, QUE REFORMA LOS ARTICULOS 166, 167, 168, 169....
+
+###### ARTICULO UNICO
+
+- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1984.
+
+DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
+
+UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
