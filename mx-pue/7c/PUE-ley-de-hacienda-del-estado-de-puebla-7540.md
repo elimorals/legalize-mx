@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1994-11-29"
+last_updated: "1996-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -349,9 +349,75 @@ IV.- Los funcionarios o empleados públicos que autoricen cualquier trámite rel
 
 Las infracciones a las disposiciones relativas al impuesto sobre adquisición de vehículos automotores usados, serán sancionadas de conformidad con lo previsto en el Código Fiscal del Estado y demás disposiciones jurídicas aplicables.
 
-### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE JUNIO DE 1996)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 A.- Es objeto del impuesto sobre servicios de hospedaje el pago por la prestación de servicios de hospedaje que realicen las personas físicas y las morales, siempre que los bienes materia de los servicios se encuentren en el Estado de Puebla, independientemente del lugar en que se realice el pago.
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de un pago dentro de los que quedan comprendidos, entre otros, los servicios prestados por hoteles, moteles, campamentos, paraderos de casas rodantes y de tiempo compartido.
+
+No se considerarán servicios gravados por este impuesto los de hospedaje, albergue o alojamiento prestados por hospitales, clínicas, así como los conventos asilos, seminarios e internados y casas de beneficencia o asistencia social.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 B.- Están obligados al pago del impuesto sobre servicios de hospedaje, las persona físicas y las morales que presten servicios de hospedaje en el Estado de Puebla.
+
+Los contribuyentes realizarán el traslado del impuesto en forma expresa y por separado, a las personas a quienes se presten servicios de hospedaje. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas en un monto equivalente al impuesto establecido en este Capítulo que se calcule conforme a la tasa que establezca la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 C.- Es base de este impuesto el monto total del pago por los servicios de hospedaje.
+
+Cuando los contribuyentes realicen la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de éstos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 D.- Los contribuyentes de este impuesto lo calcularán aplicando a la base a que se refiere el Artículo anterior, la tasa que se establezca en la Ley de Ingresos del Estado de Puebla vigente en el ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 E.- El impuesto a que se refiere este Capítulo se causará al momento en que se reciba el pago por los servicios de hospedaje y se pagará mediante declaración a más tardar el día diecisiete del mes siguiente al que se cause.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso el contribuyente queda relevado de cumplir con la obligación a que se refiere la Fracción I del Artículo 26 I de esta Ley.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 G.- Los contribuyentes presentarán sus declaraciones y efectuarán el pago del impuesto en la oficina recaudadora correspondiente a su domicilio fiscal en términos del Código Fiscal del Estado.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 H.- Las declaraciones deberán hacerse de acuerdo con las formas o sistemas oficiales aprobados, y en ellas se consignarán los datos que las mismas exijan.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 I.- Los contribuyentes de este impuesto están obligados a:
+
+I.- Inscribirse en el registro de contribuyentes de este impuesto ante la Oficina Recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente a la fecha en que se coloquen en las hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+
+Los obligados al pago de este impuesto que no se hubieran inscrito en el registro de contribuyentes, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquéllos a que se refiere el Artículo 26 F de esta Ley.
+
+II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal, el aviso respectivo de cambio de nombre o razón social, domicilio fiscal, actividad preponderante; así como la suspensión o reanudación de actividades y fusiones y los de cancelación del registro de contribuyentes de este impuesto, dentro del mismo plazo señalado en la Fracción anterior.
+
+III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
+
+IV.- Realizar el traslado del impuesto en forma expresa y por separado, a las personas a quienes se presten servicios de hospedaje.
+
+V.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 J.- Las Autoridades Fiscales podrán estimar la base gravable de este impuesto en los casos a que se refiere el Artículo 26 C de esta Ley y el Código Fiscal del Estado.
+
+> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 26 K.- Las infracciones al presente Capítulo serán sancionadas de conformidad a lo previsto por el Código Fiscal del Estado.
+
+### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
 
 ### CAPITULO UNICO
 
@@ -390,6 +456,8 @@ Los productos del patrimonio público y privado del Estado se aplicarán, pagar�
 Los contratos de arrendamiento de bienes muebles e inmuebles, propiedad del Gobierno del Estado, se darán a conocer a la Secretaría de Finanzas para que proceda a su cobro.
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 30.
 
@@ -480,3 +548,23 @@ El presente decreto surtirá sus efectos al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 4 DE JUNIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de entrará en vigor a partir del día primero de septiembre de mil novecientos noventa y seis.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos del Artículo 26 de la Ley de Hacienda del Estado de Puebla, a partir del inicio de la vigencia del presente Decreto y hasta el treinta y uno de diciembre de mil novecientos noventa y seis, se aplicará la tasa del 2 %, disposición que se considerará parte integrante de la Ley de Ingresos del Estado para el ejercicio fiscal de mil novecientos noventa y seis.
+
+###### ARTICULO TERCERO.
+
+Las personas físicas y morales que a la fecha de la entrada en vigor de este Decreto, se encuentren inscritas en el registro federal de contribuyentes de la Secretaría de Hacienda y Crédito Público por actividades a que se refiere el Artículo 26 A de la Ley de Hacienda del Estado, quedan relevadas de la obligación de presentar el aviso de inscripción al registro estatal del impuesto sobre servicios de hospedaje.
+
+La Secretaría de Finanzas del Gobierno del Estado de Puebla inscribirá en el registro estatal del impuesto sobre servicios de hospedaje a las personas físicas y morales que conforme a este artículo queden relevadas de la obligación de presentar el aviso de inscripción.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas y morales que a la fecha de la entrada en vigor de este decreto realicen las actividades a que se refiere Artículo 26 A de la Ley de Hacienda del Estado y que no se encuentren inscritas en el registro federal de contribuyentes de la Secretaría de Hacienda y Crédito Público, deberán presentar su aviso de inscripción al registro estatal del impuesto sobre servicios de hospedaje dentro de los quince días siguientes al inicio de la vigencia de este Decreto.
