@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1993-07-10"
+last_updated: "1994-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1994.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -65,7 +65,7 @@ II. Practicar la averiguación previa; y
 
 III. Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado.
 
-###### ARTICULO 3o
+###### ARTICULO 3o.
 
 Dentro del mismo período, el Ministerio Público deberá:
 
@@ -387,9 +387,11 @@ La resolución dictada por el tribunal requerido ordenando la práctica de las d
 
 Los exhortos a los tribunales extranjeros se remitirán por vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Gobernador del Estado y la de este funcionario por el Secretario de Relaciones Exteriores.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 57.
 
-En los exhortos y requisitorias que se libren para la aprehensión de un inculpado, a cualquier Estado de la República, se llenarán además, los requisitos que exija la Ley Reglamentaria del Artículo 119 Constitucional.
+En los exhortos y requisitorias que se libren para la aprehensión de un inculpado, a cualquier Estado de la República, se estará a lo dispuesto por el Artículo 119 de la Constitución Federal.
 
 ### CAPITULO VII. Cateos
 
@@ -817,11 +819,11 @@ III.- Cuando el detenido fuere indígena o extranjero que no hable castellano, s
 
 IV.- El Ministerio Público recibirá las pruebas que el detenido o su defensor aporten dentro de la averiguación previa y para los fines de ésta, que se tomarán en cuenta como legalmente corresponda en el acto de la consignación o de libertad del detenido, en su caso. Cuando no sea posible el desahogo de pruebas ofrecidas por el detenido o su defensor, el juzgador resolverá sobre la admisión y práctica de las mismas.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 122
 
-Bis.- En caso de que la detención de una persona exceda los términos señalados en los artículos 16 y 107 fracción XVIII de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que estuvo incomunicada, y las declaraciones que haya emitido el detenido no tendrán validez.
+Bis.- En caso de que la detención de una persona exceda los términos señalados en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que estuvo incomunicada, y las declaraciones que haya emitido el detenido no tendrán validez.
 
 ###### ARTICULO 123.
 
@@ -989,7 +991,9 @@ de Libertad por falta de Elementos para Procesar
 
 El auto de formal prisión se dictará de oficio cuando de lo actuado aparezcan llenados los requisitos siguientes:
 
-I.- Que esté comprobada la existencia del cuerpo de un delito que merezca sanción privativa de libertad;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+I.- Que existan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al inculpado y que éste merezca sanción privativa de libertad.
 
 II.- Que se haya tomado declaración preparatoria al inculpado, en la forma y con los requisitos que establece el Capítulo anterior;
 
@@ -1085,81 +1089,129 @@ DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA,
 
 AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
 
-### CAPITULO I. Comprobación del Cuerpo Del Delito
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
+
+### CAPITULO I. Comprobación de los Elementos del Tipo Penal
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 160.
 
-El funcionario de policía judicial y el tribunal, en su caso, deberán procurar ante todo que se compruebe el cuerpo del delito como base del procedimiento penal.
+El Ministerio Público y el Tribunal, en su caso, deberán procurar ante todo que se acrediten los elementos del tipo penal del delito que se impute al indiciado o inculpado como base del procedimiento penal.
 
-El cuerpo del delito se tendrá por comprobado cuando esté justificada la existencia de los elementos materiales que constituyen el hecho delictuoso, según lo determine la ley penal, salvo los casos en que tenga señalada una comprobación especial.
+Si para la comprobación de los elementos del tipo penal o de sus circunstancias, tuviese importancia el reconocimiento de un lugar cualquiera, se procederá a hacer constar en acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 161.
 
-Cuando se trate de lesiones externas se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hecha por el funcionario que hubiere practicado las diligencias de policía judicial o por el tribunal que conozca del caso, y con la descripción que de ellas hagan los peritos médicos.
+Tratándose de lesiones, el herido será atendido bajo la vigilancia de dos médicos legistas o, en su defecto, por algún médico de las instituciones de Salud Pública, quienes tendrán obligación de rendir al Ministerio Público o Juez en su caso, un informe detallado del estado en que hubieren recibido al paciente, el tratamiento a que se le sujete y el tiempo probable que dure su curación. Cuando ésta se logre rendirán un nuevo dictamen expresando con toda claridad las consecuencias últimas de las lesiones
+
+Los médicos deberán informar al Ministerio público o Juez tan luego como adviertan que peligra la vida del paciente, así como cuando acaezca su muerte.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 162.
 
-En el caso de lesiones internas, envenenamiento u otra enfermedad proveniente de delito, se tendrá por comprobado el cuerpo de éste, con la inspección hecha por el funcionario o tribunal a quienes se refiere el artículo anterior, de las manifestaciones exteriores que presentare la víctima y con el dictamen pericial en que se expresarán los síntomas que presente, si existen esas lesiones y si han sido producidas por una causa externa. En caso de no existir manifestaciones exteriores, bastará con el dictamen pericial.
+Cuando se trate de homicidio, la autoridad que practique las diligencias hará el reconocimiento y descripción del cadáver. Dos peritos médicos practicarán la autopsia, quienes con minuciosidad detallarán las causas que originaron la muerte y el estado que guarda el cadáver. Podrá dejarse de hacer la autopsia sólo cuando no haya delito que perseguir a juicio del Ministerio Público, estén de acuerdo los familiares de la víctima, y previo dictamen de los peritos médicos.
+
+En el supuesto de que no haya en el lugar dos peritos médicos bastará que emita el dictamen uno solo.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 163.
 
-Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver hecha en los términos de los dos artículos anteriores, y con el dictamen de los peritos médicos, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo.
+La identificación de los cadáveres se hará con el auxilio de testigos siempre que esto sea posible y se tomarán placas fotográficas que se agregarán a la averiguación.
 
-Solamente podrá dejarse de practicar la autopsia cuando tanto el funcionario que practique las diligencias como los peritos médicos estimen que no es necesario para determinar la causa de la muerte.
+Cuando el cadáver no se encuentre, se comprobará su existencia por medio de testigos y que hayan visto el cadáver, quienes harán la descripción de aquél y detallarán las lesiones o huellas exteriores de violencia que pudieran percibir, lugar en que estaba situado, sus dimensiones si es posible, así como el arma con que consideren fueron causadas y, si conocieron en vida al occiso, expresarán los hábitos y costumbres que aquél tenía, con todos los detalles que puedan ser útiles al esclarecimiento de los hechos.
+
+Los datos anteriores se proporcionarán a los peritos médicos para que estos emitan su dictamen sobre las causas de la muerte, bastando la opinión de éstos de que la muerte fue resultado de un delito para que se tengan por cumplidos los requisitos que refiere el Artículo 160 de este Código.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 164.
 
-Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos, en vista de los datos que obren en el expediente, declaren que la muerte fue resultado de las lesiones inferidas.
+Cuando el cadáver no se encuentre ni haya testigos que lo hubieren visto, pero existan datos suficientes para suponer que la muerte es consecuencia de un delito, se tendrán por comprobados los elementos del tipo penal con la preexistencia de la persona, sus costumbres, su carácter, su filiación, el último lugar y fecha en que se le vio y la posibilidad de que el cadáver hubiere podido ser ocultado o destruido. Los testigos expresarán con claridad y racionalmente los motivos que tengan para suponer la comisión de un delito.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 165.
 
-En los casos de aborto o de infanticidio, el cuerpo del delito, se tendrá por comprobado en los mismos términos que el de homicidio; pero en el primero además, reconocerán los peritos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En uno y otro caso, expresarán la edad de la víctima, si nació viable y todo aquello que pueda servir para fijar la naturaleza del delito.
+En los casos de aborto o de infanticidio, se procederá igual que como se establece para el homicidio, además reconocerán los peritos médicos a la madre y describirán las lesiones que presenta ésta, señalando si tales pudieran ser causa del aborto o del infanticidio; se realizará el reconocimiento de la víctima, se expresarán la edad de ésta y todos aquellos datos que puedan servir para determinar la naturaleza del delito. En el infanticidio se precisará si el producto nació viable.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 166.
 
-Los peritos médicos a que se refieren los artículos que anteceden deberán ser dos, sin embargo, en los lugares donde hubiere un solo médico bastará el dictamen de éste, salvo que el juez estime necesario oír la opinión de otro perito.
+En caso de delito (sic) sexuales, la exploración y atención médico psiquiátrica, ginecológica o cualquiera que se practique a la víctima deberá estar a cargo de personal facultativo de su mismo sexo, cuando así lo solicite la persona ofendida o su representante legal. De igual manera a petición de la parte ofendida, esta podrá ser atendida en su domicilio por facultativos particulares, pero siempre se actuará con intervención de los médicos legistas, o quienes hagan sus funciones, teniendo obligación todos los facultativos de rendir informes periódicos al Ministerio Público y al Juez del conocimiento.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 167.
 
-En los casos de robo, el cuerpo de delito podrá comprobarse siempre que no haya sido posible hacerlo en los términos del artículo 160, si se prueba que el inculpado ha tenido en su poder alguna cosa que, por circunstancias personales, no sea verosímil que haya podido adquirir legítimamente si no justifica la procedencia de aquélla y si hay, además, quien le impute el robo.
+En caso que haya sospecha que una enfermedad pudo haber sido ocasionada por una conducta delictuosa, el médico emitirá su opinión sobre sus causas, describirá minuciosamente todos los síntomas que el enfermo presenta y hará la clasificación legal correspondiente ante el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 168.
 
-Siempre que no fuere posible comprobar el cuerpo del delito de robo en la forma que determina el artículo anterior, se procurará desde luego investigar:
+En los casos de robo se harán constar en la indagatoria todos aquellos datos que puedan ser útiles para determinar el grado de culpabilidad del indiciado.
 
-I.- Si el inculpado ha podido adquirir legítimamente la cosa que se dice robada;
-
-II.- La preexistencia, propiedad y falta posterior de la cosa robada; y
-
-III.- Si la persona ofendida se hallaba en situación de poseer la cosa materia del delito y si es digna de fe y crédito.
-
-Si de la comprobación de todas esas circunstancias, así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, resultan indicios suficientes, a juicio del tribunal, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 169.
 
-Se dará por comprobado el cuerpo del delito a que se refiere la fracción II del artículo 352 del Código Penal, cuando sin previo contrato con una empresa de energía eléctrica, de gas o de cualquier fluido, se encuentre conectada una instalación particular a las tuberías o líneas de la empresa respectiva, o cualquiera tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa.
+En los casos de incendio, el Ministerio Público dispondrá que peritos determinen en cuanto fuera posible: El modo, lugar y tiempo en que se efectuó, la calidad de la materia que lo produjo; circunstancias por las cuales pueda conocerse la culpa o dolo y el grado de peligro mayor o menor para la vida de las personas.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 170.
 
-El cuerpo de los delitos de peculado, abuso de confianza, y fraude, si no hubiere sido posible comprobarlo en los términos del artículo 160, podrá tenerse por comprobado con la confesión del inculpado, siempre y cuando esté adminiculada con elementos que a juicio del tribunal la hagan verosímil, pero para el de peculado es necesario, además que se demuestre, por cualquier otro medio de prueba, los requisitos que acerca del sujeto activo prevenga la ley penal.
+Tratándose de falsificación de documentos se investigará necesariamente con ayuda de peritos.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 171.
 
-Cuando tratándose del delito de ataques a las vías de comunicación no fuere posible practicar inspección ocular, porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente su reparación, bastará para la comprobación del cuerpo del delito cualquier otra prueba plena.
+En todos los delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán adminiculadas las pruebas de inspección ministerial o judicial de peritos, sin perjuicio de las demás.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 172.
 
-Para la comprobación del cuerpo del delito, los funcionarios de policía judicial y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que esos medios no estén reprobado por ella.
+El Ministerio Público acreditará los elementos del tipo penal del delito de que se trate y la probable responsabilidad del indiciado como base del ejercicio de la acción penal. La autoridad judicial examinará si ambos requisitos se acreditan en la indagatoria, con los elementos siguientes:
+
+I.- La existencia de la correspondiente acción u omisión de la lesión, o en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
+
+II.- La forma de intervención de los sujetos activos; y
+
+III.- La realización dolosa, culposa o preterintencional la acción u omisión.
+
+Así mismo, se acreditarán, si el tipo lo requiere:
+
+a)Las calidades del sujeto activo y del pasivo;
+
+b)El resultado y su atribuibilidad a la acción u omisión;
+
+c)El objeto material;
+
+d)Los medios utilizados;
+
+e)Las circunstancias del lugar, tiempo, modo y ocasión;
+
+f)Elementos normativos;
+
+g)Los elementos subjetivos específicos; y
+
+h)Las demás circunstancias que la Ley prevea.
+
+Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquel alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 173.
 
-En los casos de manejo de vehículos en que el conductor se encuentre en estado de ebriedad o bajo la influencia de enervantes, el cuerpo del delito se comprobará con el examen médico que se practicará inmediatamente para determinar si el conductor se halla o no en alguno de los estados citados. En su caso, se dictaminará sobre el periodo o grado del mismo, indicando particularmente las alteraciones psíquicas y físicas producidas en el individuo y estableciendo el mayor o menor peligro que según su estado represente la circulación.
-
-En los casos dudosos el médico deberá mandar practicar las averiguaciones de laboratorio que creyere necesarias.
+Para la comprobación de los elementos del tipo y la probable o plena responsabilidad del inculpado, en su caso, el Ministerio Público y el Juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
 
 ### CAPITULO II. Huellas del Delito, y Aseguramiento de
 
@@ -1250,6 +1302,18 @@ II.- En caso de notoria urgencia, por existir temor fundado de que el inculpado 
 ###### ARTICULO 187.
 
 Para los efectos de la fracción l del artículo anterior, se entiende que el delincuente es aprehendido en flagrante delito, no sólo cuando es detenido en el momento de estarlo cometiendo, sino cuando después de ejecutado el hecho delictuoso, el inculpado es perseguido materialmente, o cuando en el momento de haberlo cometido, alguien lo señala como responsable del mismo delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+Se entiende por caso de notoria urgencia para efectos de la fracción II del Artículo anterior cuando:
+
+a)Se trate de delito grave a que se refiere el último párrafo del artículo 350 de este Código.
+
+b)Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
+
+c)Que el Ministerio Público no pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otras circunstancias a solicitar el libramiento de una orden de aprehensión.
+
+El Ministerio Público al ordenar la detención en caso de urgencia deberá hacerlo por escrito, acreditando debidamente los requisitos mencionados en los incisos anteriores. La orden administrativa será ejecutada por la Policía Judicial, la que deberá poner inmediatamente al detenido a disposición del Ministerio Público que la haya librado.
 
 ###### ARTICULO 188.
 
@@ -2173,23 +2237,43 @@ INCIDENTES
 
 ### CAPITULO I. Libertad Provisional Bajo Caución
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 350.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponde al delito imputado incluyendo sus modalidades. En caso de acumulación se atenderá al delito cuya pena sea mayor.
+Todo indiciado o inculpado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado y sus modalidades que a continuación se señalan:
 
-En los casos en que la pena del delito imputado rebase el término medio aritmético de cinco años de prisión y no se trate de los delitos señalados en los siguiente párrafos de este artículo, el juzgador concederá la libertad provisional en resolución fundada y motivada, siempre que se cumpla con los siguientes requisitos:
+REBELION.- En las hipótesis que previenen los Artículos 117 y 118.
 
-I.- Que garantice debidamente, a juicio del Juez, la reparación del daño;
+EVASION DE PRESOS.- A que se refiere el Artículo 130.
 
-II.- Que la concesión de la libertad no constituya un grave peligro social;
+ASOCIACION DELICTUOSA.- Prevista en el Artículo 141.
 
-III..- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia;
+ATAQUES A LAS VIAS DE COMUNICACION.- Prevista en el Artículo 152.
 
-IV.- Que no se trate de personas que por ser reincidentes o haber motrado habituaildad, la concesión de la libertad haga presumir fundadamente que evadirián la acción de la justicia.
+TERRORISMO.- Previsto en los Artículos 169 y 170.
 
-Para los efectos del párrafo anterior, no procederá la libertad provisional cuando se trate de los delitos previstos en los siguientes artículos del Código Penal del Estado 117, 118, 152, 169, 170, 235, 236, 237, 266, 293, en relación con el 297, 299, 306, 307, 317 en relación con el 320 fracción IV cuando se realice en cualquier de las circunstancias señaladas en los artículos 321 fracciones I, IV, V y VII.
+CORRUPCION DE MENORES.- Previsto en los Artículos 183 y 185.
+
+VIOLACION.- Previsto en los Artículos 235, 236 y 237.
+
+ASALTO.- Previsto en los Artículos 263 y 264.
+
+PLAGIO.- Previsto en el Artículo 266.
+
+HOMICIDIO DOLOSO.- Previsto en los Artículos 293 con relación al 297, 298 y 299.
+
+PARRICIDIO.- Previsto en el Artículo 306.
+
+INFANTICIDIO.- Previsto exclusivamente en el Artículo 307.
+
+ROBO.- Previsto en el Artículo 317 en relación con el 321 exclusivamente en sus fracciones I, IV, V y VII.
+
+ABIGEATO.- Cuando éste se ejecute con violencia en las personas o se cometa de noche previsto en el Artículo 330.
+
+TORTURA.- Previsto en los Artículos 371, 372 y 373.
+
+LESIONES DOLOSAS.- Graves en cuanto al daño causado por las circunstancias de su ejecución, previsto en el Artículo 285 en relación a la fracción V del Artículo 286 y a los Artículos 287, 289 y 290.
 
 ###### ARTICULO 351.
 
@@ -3181,11 +3265,11 @@ Lic. Alejandro Borrego Acuña.
 
 P.O. 20 DE AGOSTO DE 1986
 
-PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicacíon en el Periódico Oficial Organo del Gobierno del Estado.
+PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
 
 P.O. 1 DE MAYO DE 1991
 
-UNICO.- El presente Decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE JULIO DE 1993
 
@@ -3198,3 +3282,7 @@ TERCERO.- Se derogan los capítulos III, IV y V del Título Décimo Tercero del 
 CUARTO.- Constituidos los Consejos Técnicos Interdisciplinarios, de cada Centro Regional, dispondrán de noventa días naturales para la elaboración de su reglamento interno.
 
 QUINTO.- Se crea la Dirección de Prevención y de Readaptación Social dependiente de la Secretaría General de Gobierno, con las facultades y obligaciones que esta Ley otorga, funciones que desempeñará a partir del día de inicio de la vigencia de esta Ley. Consecuentemente, la Dirección de Gobernación cesará en las funciones que anteriormente desempeñaba relativas a la ejecución de sanciones privativas de la libertad.
+
+P.O. 6 DE AGOSTO DE 1994
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
