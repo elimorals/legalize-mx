@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-10-06"
+last_updated: "2004-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -68,7 +68,7 @@ ARTÍCULO 6 (Principio de la jurisdiccionalidad). Sólo podrán imponerse pena o
 
 ### CAPÍTULO I. APLICACIÓN ESPACIAL DE LA LEY
 
-ARTÍCULO 7 ( Principio de territorialidad). Este Código se aplicará en el Distrito Federal por los delitos del fuero común que se cometan en su territorio.
+ARTÍCULO 7 (Principio de territorialidad). Este Código se aplicará en el Distrito Federal por los delitos del fuero común que se cometan en su territorio.
 
 ARTÍCULO 8 (Principio de aplicación extraterritorial de la ley penal). Este Código se aplicará, asimismo, por los delitos cometidos en alguna entidad federativa, cuando:
 
@@ -2568,7 +2568,7 @@ Al que para hacer efectivo un derecho o pretendido derecho, que deba ejercitar, 
 
 En estos casos, sólo se procederá por querella de la parte ofendida.
 
-### CAPÍTULO I. FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO I. PRODUCCIÓN, IMPRESIÓN, ENAJENACIÓN, DISTRIBUCIÓN, ALTERACIÓN O FALSIFICACIÓN DE TÍTULOS AL PORTADOR, DOCUMENTOS DE CRÉDITO PÚBLICOS O VALES DE CANJE
 
 ###### ARTÍCULO 289.
 
@@ -2994,6 +2994,8 @@ A quien revele, divulgue utilice indebidamente, o en perjuicio de otro, informac
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA FE PÚBLICA
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 335.
 
 Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa, al que:
@@ -3019,6 +3021,10 @@ V. Acceda a los equipos electromagnéticos de las instituciones emisoras de tarj
 VI. Adquiera, utilice o posea equipos electromagnéticos o electrónicos para sustraer la información contenida en la cinta o banda magnética de tarjetas, títulos o documentos, para el pago de bienes o servicios o para disposición de efectivo, así como a quien posea o utilice la información sustraída, de esta forma; o
 
 VII. A quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios, o de los titulares de dichos instrumentos o documentos.
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2004)</small>
+
+VIII. Produzca, imprima, enajene, distribuya, altere, o falsifique vales utilizados para canjear bienes y servicios.
 
 Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
 
@@ -3092,7 +3098,7 @@ Las penas previstas en este artículo se aumentarán en una mitad cuando la ocup
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
-ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice el cambio del uso del suelo en:
+ARTÍCULO 343BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice el cambio del uso del suelo en:
 
 I.- Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -3543,3 +3549,7 @@ PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Los bienes asegurados de los que, a la fecha de entrada en vigor de este decreto, se carezca de datos para relacionarlos con una indagatoria, los vehículos ingresados a los depósitos de vehículos con fecha anterior al 31 de diciembre del año 2002 que no hayan sido recogidos por quien tiene derecho a ello, así como todos aquellos bienes que por su larga permanencia en los depósitos correspondientes se puedan considerar como desecho, quedarán a disposición de la Procuraduría General de Justicia del Distrito Federal para que, por conducto de la unidad administrativa que corresponda, proceda a su destrucción o enajenación. En este último caso, el producto que se obtenga se destinará de la siguiente manera: a).-Tratándose de bienes asegurados antes del 12 de noviembre de 2002, o de bienes respecto de los cuales no sea posible identificar la fecha en que fueron asegurados, el destino final será el mejoramiento de la Procuración de Justicia y b).-Tratándose de bienes asegurados a partir del 12 de noviembre 2002 se destinaran al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
 TERCERO.- Los particulares que se consideren con derechos respecto de los bienes a que se refiere el Artículo Segundo Transitorio de este Decreto, podrán hacer valer esos derechos ante la Procuraduría General de Justicia del Distrito Federal dentro del término de un año a partir de la fecha de entrada en vigor de este decreto.
+
+G.O. 20 DE DICIEMBRE DE 2004.
+
+Único.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
