@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2002-01-15"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -51,7 +51,9 @@ IV. Las obligaciones de las dependencias y entidades públicas, privadas y de la
 
 I. El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
 
-II. La protección y la prolongación de la vida humana así como el mejoramiento de su calidad;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+II. La protección, prolongación, mejoramiento de la calidad de la vida humana y el alivio del dolor evitable;
 
 III. La protección y el enriquecimiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
@@ -65,17 +67,19 @@ VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y
 
 VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 3.
 
-° En los términos de la Ley General de Salud y de la presente Ley:
+° En los términos de la Ley General de Salud y de la presente ley:
 
 A. Es materia de salubridad general:
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 I. La atención médica, preferentemente en beneficio de los grupos más vulnerables.
 
-Para los efectos de la presente Ley se entienden como grupos vulnerables los adultos mayores, las personas con discapacidad, las personas de escasos recursos, y en general todos aquellos que se encuentran en situación de extrema dificultad o incapacidad para satisfacer sus necesidades básicas.
+Para los efectos de la presente Ley, se entienden como grupos vulnerables los adultos mayores, los niños y las niñas desde su concepción, las personas con discapacidad, las personas de escasos recursos y, en general, todos aquellos que se encuentren en situación de extrema dificultad para satisfacer sus necesidades básicas;
 
 II. La atención materno-infantil;
 
@@ -445,6 +449,18 @@ IX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 X. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Art. 23 bis. Para prevenir y controlar el dolor se consideran servicios básicos los siguientes:
+
+I. La educación para la prevención y control del dolor;
+
+II. La atención médica;
+
+III. La atención sicológica a pacientes y familiares; y
+
+IV. La disponibilidad de medicamentos y demás insumos necesarios para la prevención y control del dolor.
+
 ### CAPITULO II. De la promoción de la salud
 
 #### SECCION PRIMERA. Clasificación
@@ -551,11 +567,49 @@ La Secretaría de Salud Jalisco ejercerá el control sanitario de los establecim
 
 El Gobierno del Estado, por conducto del Departamento de Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria, que permita prevenir, controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-#### SECCION PRIMERA. De las enfermedades transmisibles
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION SEXTA. De la prevención y control del dolor
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Art. 37-A.
+
+La Secretaría de Salud Jalisco, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud públicas y privadas, elaborará y desarrollará programas de capacitación y actualización de los recursos humanos para la salud en materia de prevención y control del dolor y medicina paliativa.
+
+La capacitación al personal sanitario deberá favorecer la corrección de actitudes negativas, tales como de antemano considerar como intratables o inevitables las manifestaciones de dolor o menospreciar su intensidad; fomentará el conocimiento de los fármacos disponibles y la valoración de su eficacia; y promoverá el suministro de apoyos psicológicos y afectivos al enfermo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Art. 37-B.
+
+La prevención y control del dolor tiene como objeto establecer las condiciones para evitar, suprimir o paliar el sufrimiento innecesario de los pacientes y propiciar en el individuo las actitudes, valores y conductas adecuadas para enfrentar su padecimiento dentro del tratamiento médico previsto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Art. 37-C.
+
+El control integral del dolor deberá considerar el apoyo farmacológico, psicológico, y afectivo al enfermo por parte del personal sanitario, familiares y de quienes tengan la capacitación adecuada para otorgarlo. Además, deberá incluir la información necesaria a enfermos y familiares propiciando en ellos la aceptación razonada y su colaboración en la aplicación de los fármacos y tratamientos prescritos.
+
+Como parte de la atención integral del dolor, también deberá facilitarse el acceso a aquellas personas dedicadas a otorgar apoyo espiritual.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Art. 37-D.
+
+En todos los casos el control del dolor deberá ser compatible con los tratamientos de curación indicados.
+
+En caso de síndrome de enfermedad terminal, el control del dolor, además del alivio del paciente, procurará dominar sus expresiones de ansiedad, depresión, temor e insomnio, facilitándole periodos de vigilia y lucidez mental para su comunicación y desempeño de sus actividades.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Art. 37-E.
+
+Las instituciones públicas y privadas cuya línea de acción sea la tanatología, el alivio al dolor y cuidados paliativos, deberán observar en lo conducente lo previsto en la presente sección. Atendiendo el derecho preferentemente a la niñez de acuerdo a los principios establecidos en el Código Civil del Estado de Jalisco.
 
 ### CAPITULO III. Prevención y control de enfermedades y accidentes
 
-#### SECCION SEGUNDA. De las enfermedades no transmisibles
+#### SECCION PRIMERA. De las enfermedades transmisibles
 
 ###### Art. 38.
 
@@ -673,7 +727,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deberá proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-#### SECCION TERCERA. De los accidentes
+#### SECCION SEGUNDA. De las enfermedades no transmisibles
 
 ###### Art. 54.
 
@@ -697,7 +751,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-#### SECCION PRIMERA. Disposiciones Generales
+#### SECCION TERCERA. De los accidentes
 
 ###### Art. 57.
 
@@ -737,9 +791,7 @@ Para la mayor eficacia de las acciones preventivas y de control de accidentes, c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-#### SECCION SEGUNDA. De la comisión de arbitraje médico del Estado de Jalisco
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+#### SECCION PRIMERA. Disposiciones Generales
 
 ### CAPITULO IV. De la atención médica
 
@@ -1007,7 +1059,9 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION PRIMERA. De los usuarios de los servicios de salud
+#### SECCION SEGUNDA. De la comisión de arbitraje médico del Estado de Jalisco
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 85.
 
@@ -1061,7 +1115,7 @@ II. Tarifas inferiores a las determinadas por la Secretaría de Comercio y Fomen
 
 III. Prestación de servicios subrogados de atención médica a población abierta, mediante el pago, por parte del Estado, de un subsidio.
 
-#### SECCION SEGUNDA. De la participación de la comunidad
+#### SECCION PRIMERA. De los usuarios de los servicios de salud
 
 ###### Art. 91-A.
 
@@ -1090,6 +1144,10 @@ II. Impulsar la formación y fortalecimiento de la cultura de respeto a los dere
 III. Recibir, atender e investigar las quejas que presenten los interesados, por la posible irregularidad o negativa injustificada en la prestación de servicios de atención médica;
 
 IV. Investigar la veracidad de los actos y omisiones que sean materia de las quejas planteadas, para lo cual, la Comisión podrá recibir toda la información y pruebas que aporten los profesionales, técnicos y auxiliares de la salud directamente involucrados, los usuarios y las instituciones prestadoras de servicio, y requerir aquellas otras que sean necesarias para dilucidar tales quejas, así como practicar las diligencias que correspondan;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Toda aquella persona que manifieste ante la Comisión ser profesional de la medicina, deberá acreditarlo presentando el original de la cédula profesional correspondiente. Si en la investigación que realiza la Comisión alguna de las partes que se ha presentado o se le esté señalando como profesionista técnico o auxiliar de salud y no sea acreditado esa profesión u oficio con documentos inobjetables, la Comisión deberá presentar denuncia de hechos ante la Procuraduría de Justicia del Estado a fin de que se investigue sobre la probable comisión de algún delito;
 
 V. Intervenir en amigable composición para conciliar conflictos derivados de la prestación de servicios médicos por alguna de las causas que se mencionan:
 
@@ -1305,9 +1363,7 @@ El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones 
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
-#### SECCION PRIMERA. Disposiciones Generales
-
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+#### SECCION SEGUNDA. De la participación de la comunidad
 
 ###### Art. 91.
 
@@ -1317,9 +1373,9 @@ La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la D
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
-#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
+#### SECCION PRIMERA. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 92.
 
@@ -1363,9 +1419,9 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los Agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-#### SECCION TERCERA. Del Registro Estatal de Donadores
+#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
 
 ###### Art. 99.
 
@@ -1435,9 +1491,9 @@ La acción popular podrá ejercitarse por cualquiera persona, bastando para darl
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION CUARTA. De la Participación Social
+#### SECCION TERCERA. Del Registro Estatal de Donadores
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-A.
 
@@ -1623,7 +1679,9 @@ Por cada vocal propietario, se designará a un suplente que lo sustituirá duran
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION PRIMERA. Del servicio social de los pasantes
+#### SECCION CUARTA. De la Participación Social
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 104-I.
 
@@ -1819,7 +1877,7 @@ Con el objeto de coordinar la participación y colaboración de la sociedad y de
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION SEGUNDA. Del servicio social profesional
+#### SECCION PRIMERA. Del servicio social de los pasantes
 
 ###### Art. 104-R.
 
@@ -1827,19 +1885,7 @@ El Patronato para la Donación y el Transplante de Organos y Tejidos, será pres
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION PRIMERA. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-Art. 126 bis. Los programas para la prevención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
-
-Dichos programas deberán incluir acciones de prevención, y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco y otras substancias susceptibles de crear adicción.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la prevención de las adicciones que tiene por objeto promover y apoyar las acciones de los sectores público social y privado tendientes a la prevención y combate de los problemas de salud pública, causados por las adicciones que regula el presente título.
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+#### SECCION SEGUNDA. Del servicio social profesional
 
 ###### Art. 104-S.
 
@@ -1917,9 +1963,31 @@ La asignación de los premios será determinada por la votación de jurados que 
 
 ### CAPITULO II. Del servicio social de pasantes y profesionales
 
-#### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
+#### SECCION PRIMERA. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 126 bis. Los programas para la prevención de las adicciones serán prioritarios, en los términos de las políticas que al efecto establezca la autoridad sanitaria.
+
+Dichos programas deberán incluir acciones de prevención, y atención integral de los problemas causados por el abuso en el consumo de bebidas alcohólicas, tabaco y otras substancias susceptibles de crear adicción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+En la implementación de los programas, se buscará la participación de grupos de autoayuda y de las empresas productoras y comercializadoras de bebidas alcohólicas y de tabaco, con las que se procurará establecer convenios de colaboración para la prevención y atención de las adicciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Las empresas que participen en dichos convenios, podrán acogerse a los beneficios fiscales que la ley les permita, en las (sic) medida de sus aportaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la prevención de las adicciones que tiene por objeto promover y apoyar las acciones de los sectores público social y privado tendientes a la prevención y combate de los problemas de salud pública, causados por las adicciones que regula el presente título.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El Consejo Estatal Para la Prevención de las Adicciones a través de la Secretaría, podrá establecer convenios de colaboración con los municipios de Jalisco para la instalación de consejos municipales contra las adicciones.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 110.
 
@@ -1943,9 +2011,9 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la Organización y operación de los Comités de Salud a que se refiere el Art. 102 de esta Ley.
 
-#### SECCION TERCERA. Del programa para la prevención del tabaquismo
+#### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 114.
 
@@ -2087,19 +2155,19 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
+#### SECCION TERCERA. Del programa para la prevención del tabaquismo
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION PRIMERA. Definición
+#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 127.
 
 El Gobierno del Estado, dentro de su jurisdicción territorial, se coordinará con las autoridades federales y municipales en la ejecución del programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas, en los términos y acciones que señalan las disposiciones aplicables de la Ley General de Salud.
 
 El programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas incluirá estrategias para la prestación de servicios de atención médica y psicológica a los alcohólicos y sus familiares.
-
-En la implementación del programa de referencia, se buscará la participación de grupos de autoayuda, y de las empresas productoras y comercializadoras de bebidas alcohólicas.
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2117,7 +2185,7 @@ Con el objeto de proteger la salud de las personas no fumadoras de los efectos d
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION SEGUNDA. Clasificación
+#### SECCION PRIMERA. Definición
 
 ###### Art. 129.
 
@@ -2139,9 +2207,7 @@ El Consejo Estatal para la Prevención de Adicciones, y las autoridades sanitari
 
 Las autoridades jurisdiccionales y administrativas del Gobierno del Estado darán apoyo institucional para propiciar la reinserción social integral de los adictos rehabilitados.
 
-#### SECCION TERCERA. Disposiciones comunes
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+#### SECCION SEGUNDA. Clasificación
 
 ###### Art. 130.
 
@@ -2157,23 +2223,29 @@ IV. Promover y llevar a cabo campañas permanentes de información y orientació
 
 A los establecimientos que vendan o utilicen substancias inhalantes que no se ajusten al control que disponga el Gobierno Estatal y los Ayuntamientos, así como los responsables de los mismos, se les aplicarán las sanciones administrativas (sic) correspondan en los términos de esta Ley.
 
-#### SECCION PRIMERA. Causas de revocación
+#### SECCION TERCERA. Disposiciones comunes
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ## TITULO OCTAVO
 
 ### CAPITULO UNICO. De los expendios de alimentos, bebidas no alcohólicas y alcohólicas
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 131.
 
 De conformidad con los criterios y lineamientos técnicos que expida la Secretaría de Salud Jalisco, autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas, y alcohólicas en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+En el caso de los establecimientos que expendan o suministren al público bebidas alcohólicas en estado natural, mezcladas preparadas o adicionadas, deberán cumplir con todas las medidas específicas impuestas por la Secretaría de Salud Jalisco con el acuerdo que emita, cuya observación será motivo de verificación constante por parte de las autoridades sanitarias competentes.
+
+La Secretaría de Salud Jalisco, podrá efectuar visitas de verificación a establecimientos de conformidad a lo dispuesto por la Ley General de Salud, efectuando revisión de los envases o empaques que contenían las bebidas a fin de corroborar si los sellos de seguridad con que cuentan presentan o no huellas de haber sido quebrantados y su contenido alterado substituido o mezclado, así como pruebas químicas a fin de comprobar la calidad y contenido de las mismas con muestreos para pruebas de laboratorio en cantidades estrictamente necesarias y que puedan ocasionar un daño a la salud.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 132.
 
-Los ayuntamientos, en el ámbito de su competencia, en coordinación con la Secretaría de Salud Jalisco, y en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este Capítulo.
+Los ayuntamientos, en el ámbito de su competencia, en coordinación con la Secretaría de Salud Jalisco y en los términos de esta ley, de los acuerdos que se llegaran a suscribir y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este capítulo.
 
 ###### Art. 133.
 
@@ -2183,37 +2255,41 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 134.
 
-Corresponde la regulación y el control sanitarios de las materias a que se refiere el Art. 3.º Apartado B de esta Ley, al Gobierno del Estado y a los Ayuntamientos, en el ámbito de sus respectivas competencias, en los términos de este ordenamiento, de las demás disposiciones legales aplicables y de los convenios que ambas entidades suscriban.
+Corresponde la regulación y el control sanitario de las materias a que se refiere el artículo 3, apartado B de esta Ley, al Gobierno del Estado y a los ayuntamientos, en el ámbito de sus respectivas competencias en los términos de este ordenamiento, de las disposiciones aplicables y de los convenios legales que dichos niveles de gobierno llegaran a suscribir.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Art. 134 bis. Para los efectos de este Título se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce la Secretaría de Salud Jalisco, con la participación de los productores, comercializadores y consumidores, en base a los acuerdos de coordinación celebrados con la Federación y a lo establecido en la normativa jurídica aplicable.
+Art. 134 bis.- Para los efectos de este Título, se entiende por "control sanitario", el conjunto de acciones de orientación educación, autorización, muestreo y, en su caso, aplicación de medidas de seguridad y sanciones que ejerce la Secretaría de Salud Jalisco y los ayuntamientos en el ámbito de sus respectivas competencias, con la participación de los productores, comercializadores, prestadores de servicio y consumidores, en base a los acuerdos de coordinación celebrados con la Federación y a lo establecido en la norma jurídica aplicable.
 
-El ejercicio del control sanitario se aplicará a todos los bienes, servicios, actividades, establecimientos y procesos que sean competencia de la autoridad sanitaria local, conforme a lo que dispone este ordenamiento.
+El ejercicio del control sanitario se aplicará a todos los bienes, servicios, actividades, establecimientos y procesos que sean competencia de la autoridad sanitaria municipal o estatal, conforme a lo que dispone este ordenamiento.
 
-El muestreo que se realice deberá cumplir con los requisitos que al efecto establece la Ley General de Salud, a efecto de garantizar la seguridad jurídica de los particulares.
+El muestreo que se realice deberá cumplir con los requisitos que al efecto establece la Ley General de Salud y sus reglamentos respectivos, así como las normas oficiales mexicanas aplicables, a fin de garantizar la seguridad jurídica de los particulares.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 135.
 
-La regulación y control sanitarios comprende la autorización, vigilancia, aplicación de sanciones y medidas de seguridad, de la salubridad local, a que alude el artículo anterior.
+La "regulación sanitaria" comprende la autorización, vigilancia, aplicación de sanciones y medidas de seguridad, relacionados con las materias competentes de la salubridad local a que alude el artículo anterior.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 136.
 
-La Secretaría de Salud y Bienestar Social del Estado emitará (sic) las normas oficiales a que quedará sujeto el control sanitario en materia de salubridad local.
+La Secretaría de Salud Jalisco emitirá los ordenamientos, criterios y lineamientos de carácter técnico para establecer normas oficiales a las que quedarán sujetos tanto el control sanitario como la regulación sanitaria en materia de salubridad local.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 137.
 
-Los establecimientos enunciados en el apartado B del artículo 3° fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XV, XVI, XVII y XVIII de esta ley, requieren para su operación:
+Los establecimientos enunciados en el apartado B del Artículo 3° fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XV, XVI, XVII y XVIII de esta Ley, requieren para su operación:
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-I. Licencia sanitaria, expedida por la autoridad competente de acuerdo a los convenios que se Celebren en los términos del Art. 4.° de esta Ley;
+I. Licencia sanitaria, expedida por la autoridad competente de acuerdo a los convenios que se celebren en los términos de los artículos 4 y 5, apartado C, ambos de esta ley;
 
 II. Contar, en su caso, con un responsable que reúna los requisitos que se establecen en esta Ley y en los Reglamentos respectivos; y
 
@@ -2231,13 +2307,17 @@ Todo cambio de propietario, de razón o denominación social de un establecimien
 
 Los criterios y lineamientos técnicos a que se refiere el artículo 136 y la información que se estime de interés general, serán publicadas en el Periódico Oficial El Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 140.
 
-El Gobierno del Estado y los Ayuntamientos, en los términos de las disposiciones legales respectivas y de los convenios que celebren darán prioridad, en su caso, a los siguientes servicios de salud:
+El Ejecutivo del Estado y los ayuntamientos, en los términos de las disposiciones legales respectivas y de los convenios que se celebraran o llegaran a celebrar, darán prioridad, en su caso, a los siguientes servicios de salud:
 
 I. Sanitarios.
 
-a) Agua potable y alcantarillado;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+a) Agua potable, alcantarillado, tratamiento y disposición final de aguas residuales;
 
 b) Aseo público;
 
@@ -2249,11 +2329,11 @@ e) Rastros.
 
 II. Asistencia Social.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 141.
 
-En todo lo no previsto en este título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
+En todo lo no previsto por este capítulo se estará a lo que disponga esta Ley y sus reglamentos respectivos, disposiciones legales aplicables y las normas oficiales mexicanas correspondientes así como los criterios y lineamientos de carácter técnico que se llegaran a expedir.
 
 ### CAPITULO II. De los mercados y centros de abasto
 
@@ -2425,45 +2505,57 @@ El sacrifico de animales en los rastros autorizados se efectuará en los días y
 
 El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, Reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
 
-### CAPITULO VII. Del agua potable y alcantarillado
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO VII. Del agua potable, alcantarillado, tratamiento y disposición final de aguas residuales
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 171.
 
-Los Gobiernos Estatal y Municipales procurarán, coordinadamente y de conformidad con la Ley Orgánica Municipal, que las poblaciones tengan servicio regular, de aprovisionamiento y distribución de agua potable.
+Los Gobiernos Estatal y Municipales procurarán, coordinadamente y de conformidad con las leyes en la materia, que las poblaciones tengan servicio regular, de aprovisionamiento, distribución de agua potable así como el tratamiento y disposición de aguas residuales.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 172.
 
-Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la Secretaría de Salud Jalisco, para el análisis de las aguas.
+Los proyectos de abastecimiento de agua potable y de las plantas de tratamiento de aguas residuales, deberán ser sometidos a la consideración y aprobación de la Secretaría de Salud Jalisco para el análisis de la calidad de las aguas potables que se proporcionan a la población y así como el análisis de las aguas residuales que se llegaran a descargar en la etapa de su disposición final.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 173.
 
-Las autoridades municipales o los sistemas estatal, municipales o intermunicipales de los servicios de agua potable y alcantarillado, en su caso, realizarán análisis periódicos para comprobar la potabilidad de las aguas destinadas al consumo humano, bajo la supervisión y de acuerdo al Reglamento de Control Sanitario de Productos y Servicios y las Normas Oficiales Mexicanas aplicables.
+Las autoridades municipales o los sistemas estatal, municipal o intermunicipales, así como los organismos operadores de servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, en su caso, realizarán análisis periódicos para comprobar la potabilidad de las aguas destinadas al consumo humano y la calidad de las que hayan sido tratadas para otro tipo de usos, bajo la supervisión de la Secretaría de Salud Jalisco y de acuerdo a los Reglamentos correspondientes, las normas oficiales mexicanas aplicables y los criterios y lineamientos de carácter técnico que hubiesen sido emitidos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 174.
 
-En las poblaciones sin sistema de agua potable no podrá utilizarse, para consumo humano, el agua de algún pozo o aljibe que no esté situado a una distancia conveniente de sanitarios, alcantarillados, estercoleros, depósitos de desperdicios, o cualquier otro que pueda ser contaminante.
+En las poblaciones sin sistema de agua potable no podrá utilizarse, para consumo humano, el agua de algún pozo o aljibe que no esté situado, según estudio técnico justificativo, a una distancia conveniente de sanitarios, alcantarillados, estercoleros, depósitos de desperdicios, lodos o basureros, plantas de tratamiento de aguas residuales o cualquier otro tipo que pueda ser contaminante.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 175.
 
-Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente, por medio de alcantarillado.
+Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de aguas residuales, preferentemente por medio de alcantarillado así como de plantas que proporcionan tratamiento de dichas aguas residuales antes de su disposición o descarga final.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 176.
 
-En las poblaciones donde no haya sistema de alcantarillado, en tanto se establece éste, se autorizará, por la autoridad municipal y previo control, la construcción de fosas sépticas de acuerdo a las normas oficiales mexicanas.
+En las poblaciones donde no haya sistema de alcantarillado y planta de tratamiento de aguas residuales, en tanto se introduce y construye esta infraestructura, es (sic) autorizará por la autoridad municipal, previo al estudio técnico justificativo que se elabore y previa supervisión de obra, la construcción de fosas sépticas de acuerdo a las normas oficiales mexicanas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 177.
 
-Los proyectos para la implantación del sistema de alcantarillado deberán ser destinados y aprobados por la autoridad municipal correspondiente, en coordinación con los sistemas de los servicios de Agua Potable y Alcantarillado, que podrán supervisar su construcción, a efecto de que se cumplan los requisitos necesarios para su buen funcionamiento.
+Los proyectos para la implantación de alcantarillado y de plantas de tratamiento de aguas residuales deberán ser destinados y aprobados por las autoridades estatales y municipales correspondientes, en coordinación con los sistemas de los servicios de agua potable y alcantarillado u organismos operadores, quienes podrán supervisar su construcción a fin que se cumpla con lo establecido en las normas oficiales mexicanas aplicables y demás requisitos necesarios para su buen funcionamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 178.
 
-Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
+Queda prohibido que los desechos, líquidos o lodos que conduzca el alcantarillado y que generen las plantas de tratamiento de aguas residuales sean vertidos directa o indirectamente, en forma continua o intermitente en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2699,13 +2791,15 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 ### CAPITULO I. De las autorizaciones
 
-#### SECCION SEGUNDA. Del procedimiento para la revocación
+#### SECCION PRIMERA. Causas de revocación
 
 ###### Art. 200.
 
 Las autorizaciones sanitarias son actos administrativos mediante los cuales la autoridad sanitaria estatal correspondiente permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, en los casos, con los requisitos y modalidades que determine esta Ley y demás disposiciones legales aplicables.
 
 Las autorizaciones sanitarias tendrán el carácter de licencias, permisos y tarjetas de control sanitario, en su caso.
+
+#### SECCION SEGUNDA. Del procedimiento para la revocación
 
 ###### Art. 201.
 
@@ -3448,3 +3542,7 @@ Noveno.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretar�
 P.O. 15 DE ENERO DE 2002.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
