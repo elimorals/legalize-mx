@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "1999-12-28"
+last_updated: "2004-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -469,57 +469,89 @@ Es competencia de las autoridades estatales el otorgamiento de las licencias y p
 
 Se exceptúan de lo dispuesto en el párrafo anterior, las personas que conduzcan bicicletas y vehículos de tracción no mecánica, que solamente requieran registros ante las autoridades municipales en los términos del reglamento o bando respectivo.
 
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 41.
 
-Para conducir vehículos automotores y motocicletas en el Estado, se requiere de licencia o permiso expedido por las autoridades de tránsito de esta Entidad, o de cualquiera otra de la Federación o del extranjero, conforme al tipo de vehículo que la misma señale, independientemente del lugar en que se haya registrado el vehículo, exceptuando los vehículos destinados al servicio público de transporte de pasajeros, los que solo podrán ser conducidos con licencia o permiso de las autoridades ante quienes se hubieren matriculado las unidades.
+Para conducir vehículos automotores y motocicletas en el Estado, se requiere de licencia o permiso expedido por las autoridades de Transporte de esta Entidad, o de cualquiera otra de la Federación o del extranjero, conforme al tipo de vehículo que la misma señale, independientemente del lugar en que se haya registrado el vehículo.
+
+Los vehículos destinados al servicio público de transporte, deberán ser conducidos con la licencia de chofer para servicio público y la tarjeta de identificación personal para operadores de transporte público, expedidas por el Gobierno del Estado de México a través de la Secretaría de Transporte.
 
 ### CAPITULO II
 
 DE LA EXPEDICION DE LICENCIAS Y PERMISOS PARA CONDUCIR.
 
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 42.
 
-Para los efectos de este reglamento las licencias que se expidan serán:
+Para los efectos de este Reglamento las licencias que se expidan serán y autorizan a manejar:
 
-I.- De motociclista;
+I.- Motociclista; autoriza a conducir motocicletas.
 
-II.- De automovilista;
+II.- Automovilista; autoriza a conducir automóviles particulares.
 
-> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+III.- Chofer para servicio particular; autoriza a conducir automóviles, camionetas y camiones de servicio particular.
 
-III. De chofer, tipos A y B; y
+> <small>(F. DE E., G.G. 10 AGOSTO DE 2004)</small>
 
-IV. De conductor de ómnibus.
+IV.- Chofer para servicio público y la tarjeta de identificación personal para operadores de transporte público; autoriza a conducir automóviles, camionetas y camiones y autobuses de servicio particular y público.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
-
-La licencia de motociclista, autoriza conducir motocicletas; la de automovilista, automóviles particulares; la de chofer A, automóviles y camiones de servicio particular y la de chofer tipo B, automóviles y camiones de servicio particular y de servicio público; la de conductor de ómnibus, autobuses de pasajeros, camiones, automóviles particulares y de servicio público.
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 43.
 
-Para obtener la licencia de conductor en cualquiera de sus diferentes clases, se requiere:
+Para la obtención de licencias y tarjeta de identificación personal se requiere lo siguiente:
 
-I.- Acreditar mediante copia certificada del acta de nacimiento haber cumplido 18 años, o exhibir documento reciente de la identificación personal que compruebe mayoría de edad, que contenga fotografía del titular del mismo;
+A) Motociclista y Automovilista:
 
-II.-Comprobar domicilio actual;
+I.- Pagar los derechos respectivos,
 
-> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+II.- Acta de nacimiento y demostrar ser mayor de 18 años de edad,
 
-III. Carta responsiva otorgada por el solicitante;
+III.- Identificación oficial vigente,
 
-> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+IV.- Comprobante de domicilio vigente,
 
-IV. Pagar los derechos respectivos; y
+V.- Si es extranjero deberá mostrar su Fórmula Migratoria, o documento que demuestre su legal estancia en el país,
 
-> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+VI.- Firmar el manifiesto.
 
-V. Aprobar el examen de conocimientos de este reglamento y de conducción únicamente para obtener licencia de chofer tipo B y de conductor de ómnibus.
+B) Chofer para servicio particular:
 
-VI.- Acreditar haber manejado cuando menos dos años con licencia de chofer y prueba de examen psicométrico, tratándose de licencia de conductor de ómnibus; y
+I.- Pagar los derechos respectivos,
 
-VII.- Pagar los derechos respectivos.
+II.- Acta de nacimiento y demostrar ser mayor de 18 años de edad,
 
-Se podrá expedir licencia a toda persona que padezca de incapacidad física para conducir normalmente, siempre que cuente, según la deficiencia, con anteojos, prótesis u otros aparatos que la permitan hacerlo sin riesgo alguno y que el vehículo que pretenda conducir esté provisto de los mecanismos idóneos para ello, previa demostración.
+III.- Identificación oficial vigente,
+
+IV.- Comprobante de domicilio vigente,
+
+V.- Aprobar el examen de conocimientos del Reglamento de Tránsito del Estado de México,
+
+VI.- Firmar el manifiesto.
+
+C) Chofer para servicio público y la tarjeta de identificación personal para operadores de transporte público:
+
+I.- Pagar los derechos respectivos,
+
+II.- Acta de nacimiento y demostrar ser mayor de 18 años de edad,
+
+III.- Identificación oficial vigente,
+
+IV.- Comprobante de domicilio vigente,
+
+V.- Aprobar el examen de conocimientos del Reglamento de Tránsito del Estado de México,
+
+VI.- Aprobar el examen Médico,
+
+VII.- Aprobar el examen Psicométrico,
+
+VIII.- Aprobar el examen Toxicológico,
+
+IX.- Firmar el manifiesto.
+
+Se podrá expedir licencia y/o permiso para conducir vehículos y así como la tarjeta de identificación personal para operadores de transporte público, a toda persona que padezca de incapacidad física, siempre y cuando demuestre mediante certificado medico expedido por instituciones públicas de salud autorizadas, estar apta para conducir vehículos automotores, igualmente el vehículo deberá estar provisto con los mecanismos apropiados para su manejo.
 
 > <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
@@ -527,37 +559,63 @@ Se podrá expedir licencia a toda persona que padezca de incapacidad física par
 
 Las licencias para conducir vehículos tendrán vigencia de cuatro años. Para su reposición y reexpedición será necesario entregar la licencia vencida, pagar los derechos y, en su caso, las multas.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 45.
 
-Para obtener un permiso para la conducción de automóvil o motocicleta, se requiere:
+Para la obtención del Permiso Provisional de Práctica “B" se requiere lo siguiente:
 
-I. Ser mayor de 16 años y menor de 18;
+I.- Pagar los derechos respectivos,
 
-II. Presentar copia certificada y fotostática del acta de nacimiento;
+II.- Acta de nacimiento y demostrar ser mayor de 16 y menor de 18 años de edad,
 
-III. Constancia de domicilio actual;
+III.- Comprobante de domicilio vigente,
 
-IV. Carta responsiva otorgada por los padres del solicitante o su tutor, que contenga la identificación y domicilio del aspirante;
+IV.- Aprobar el examen de conocimientos del Reglamento de Tránsito del Estado de México,
 
-V. Aprobar el examen de conocimiento de las disposiciones que establece este reglamento y de conducción; y
+V.- Firmar la carta responsiva el interesado y los padres o tutor,
 
-VI. Pagar los derechos.
+VI.- Identificación de los padres o tutor,
 
-Los permisos para conducir serán temporales con vigencia hasta de dos años, prorrogables a juicio de las autoridades y previa solicitud del interesado.
+VII.- Firmar el manifiesto.
+
+Los Permisos Provisionales de Práctica "B", serán temporales con vigencia de hasta 2 años, y cuando el menor tenga cumplidos los 16 años, el permiso con vigencia de un año será prorrogable a juicio de las autoridades y previa solicitud por escrito del interesado y sus padres o tutor.
+
+Los portadores de estos permisos, deberán ir acompañados en el vehículo por un responsable que cuente con licencia para conducir.
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 46.
 
-Podrán otorgarse permisos para aprendizaje hasta por seis meses, a las personas mayores de 15 años, prorrogables por una sola vez.
+Para la obtención del Permiso Provisional de Práctica "A" se requiere lo siguiente:
 
-El titular de este permiso siempre deberá ir acompañado en el vehículo por un responsable que cuente con licencia de conducir y sujetarse a los horarios y zonas que fijen las autoridades de tránsito para el aprendizaje.
+I.- Pagar los derechos respectivos,
+
+II.- Acta de nacimiento y demostrar tener 15 años de edad,
+
+III.- Comprobante de domicilio vigente,
+
+IV.- Aprobar el examen de conocimientos del Reglamento de Tránsito del Estado de México,
+
+V.- Firmar la carta responsiva el interesado y los padres o tutor,
+
+VI.- Identificación de los padres o tutor,
+
+VII.- Firmar el manifiesto.
+
+Los Permisos Provisionales de Practica "A", tendrán una vigencia de un año, y no serán prorrogables.
+
+Los portadores de estos permisos, deberán ir acompañados en el vehículo por un responsable que cuente con licencia para conducir.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 47.
 
-A ninguna persona se le expedirá o reexpedirá una licencia, cuando se encuentre en cualquiera de los siguientes casos:
+A ninguna persona se le expedirá o reexpedirá una licencia y/o permiso para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público, cuando se encuentre en cualquiera de los siguientes casos:
 
-I.- Cuando la licencia esté suspendida o cancelada;
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2004)</small>
+
+I.- Cuando la licencia y/o permiso para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público estén suspendidos o cancelados.
 
 II.- Cuando la autoridad compruebe que el solicitante es adicto a las bebidas alcohólicas o a los estupefacientes, psicotrópicos u otras substancias tóxicas;
 
@@ -567,25 +625,35 @@ IV.- Cuando la documentación exhibida sea falsa o se proporcionen informes fals
 
 V.- Cuando así lo ordene la autoridad competente.
 
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2004)</small>
+
+VI.- Cuando no apruebe el examen de conocimientos a este Reglamento.
+
 ### CAPITULO III
 
 DE LA SUSPENSION Y CANCELACION DE LICENCIAS Y PERMISOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 48.
 
-Son motivos de suspensión de la licencia o permiso hasta por seis meses:
+Son motivos de suspensión de la licencia y/o permiso para conducir vehículos y de la tarjeta de identificación personal para operadores de transporte público, hasta por seis meses:
 
 I.- Cuando el titular cometa en el término de un año, tres infracciones de las que se sancionen con más de tres días de salario mínimo;
 
-II.- Cuando el titular permita que su licencia o permiso sea utilizada por otras personas;
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2004)</small>
+
+II.- Cuando el titular permita que su licencia y/o permiso y tarjeta de identificación personal para operadores de transporte público, sea utilizada por otras personas;
 
 III.- Cuando el titular contraiga una enfermedad o le sobrevenga incapacidad que lo inhabilite temporalmente para conducir; y
 
 IV.- Cuando así lo determine la autoridad competente, por el tiempo que al efecto señale.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 49.
 
-Son causas de cancelación de la licencia o permiso:
+Son causas de cancelación de la licencia y/o permiso y tarjeta de identificación personal para operadores de transporte público:
 
 I.- Manejar bajo el efecto de drogas enervantes o psicotrópicos;
 
@@ -593,7 +661,9 @@ II.- Conducir en estado de ebriedad;
 
 III.- Cuando al titular le sobrevenga incapacidad o enfermedad alguna que lo imposibilite permanentemente para conducir;
 
-IV.- Cuando al titular se le sancione en dos ocasiones con la suspensión de la licencia o permiso;
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2004)</small>
+
+IV.- Cuando Al titular se le sancione en dos ocasiones con la suspensión de la licencia y/o permiso para conducir vehículos y tarjeta de identificación personal para operadores de transporte público.
 
 V.- Cuando se compruebe que la información proporcionada para su expedición sea falsa o que alguno de los documentos exhibidos sean falsos o apócrifos; y
 
@@ -1029,7 +1099,9 @@ I.- Manejar siempre con precaución, en uso de sus facultades físicas y mentale
 
 II.- Revisar las condiciones mecánicas de la unidad que manejen; comprobar el buen funcionamiento de las llantas, limpiadores, luces y frenos, así como verificar que se cuenta con llanta de refacción, extinguidor, y herramienta;
 
-III.- Traer consigo la licencia o el permiso vigente para conducir, así como la documentación que autorice la circulación del vehículo;
+> <small>(REFORMADA G.G. 9 DE AGOSTO DE 2004)</small>
+
+III.- Traer consigo la licencia y/o el permiso vigente para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público, expedida por la Secretaría de Transporte, así como la documentación que autorice la circulación del vehículo;
 
 IV.- Usar el cinturón de seguridad y, en su caso, obligar a usarlo a quien lo acompañe en el asiento delantero;
 
@@ -1059,7 +1131,9 @@ XVI.- Abstenerse, de conducir bajo el efecto de drogas o psicotrópicos;
 
 XVII.- Abstenerse de conducir en estado de ebriedad;
 
-XVIII.- En caso de infracción hacer entrega a los agentes de tránsito que lo soliciten de la licencia o permiso para conducir, de la tarjeta de circulación y, en su caso de la placa para que procedan a la formulación de la boleta correspondiente.
+> <small>(REFORMADA G.G. 9 DE AGOSTO DE 2004)</small>
+
+XVIII.- En caso de infracción hacer entrega a los agentes de tránsito que lo soliciten de la licencia y/o permiso para conducir vehículos, de la tarjeta de identificación personal para operadores de transporte público, de la tarjeta de circulación y, en su caso de la placa para que procedan a la formulación de la boleta correspondiente.
 
 XIX.- Abstenerse de retroceder en vías de circulación continua o intersecciones, excepto por una obstrucción en la vía que impida continuar la marcha;
 
@@ -1369,7 +1443,7 @@ DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACION.
 
 DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 116.
 
@@ -1381,11 +1455,15 @@ II.- Identificarse con nombre y número de placa;
 
 III.- Señalar al conductor la infracción que ha cometido, mostrando el artículo infringido en el presente reglamento, así como la sanción a que se hace acreedor;
 
-IV.- Indicar al conductor que muestre su licencia, tarjeta de circulación, y en su caso, permiso de ruta de transporte de carga riesgosa;
+> <small>(REFORMADA G.G. 9 DE AGOSTO DE 2004)</small>
+
+IV.- Indicar al conductor que muestre su licencia y/o permiso para conducir vehículos, tarjeta de identificación personal para operadores de transporte público, tarjeta de circulación, y en su caso permiso de ruta de transporte de carga riesgosa.
 
 V.- Una vez mostrados los documentos, levantar la boleta de infracción y entregar al infractor el ejemplar que corresponda;
 
-VI.- Se retendrá la tarjeta de circulación del vehículo con el que se cometa una infracción, para garantizar el pago de la sanción respectiva. A falta de este documento, se podrá retener la licencia del conductor y a falta de ambos una placa del vehículo; y
+> <small>(REFORMADA G.G. 9 DE AGOSTO DE 2004)</small>
+
+VI.- Se retendrá la tarjeta de circulación del vehículo con el que se cometa una infracción para garantizar el pago de una sanción respectiva. A falta de este documento se podrá retener la licencia y/o permiso para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público y a falta de los anteriores una placa del vehículo, y
 
 VII.- Desde la identificación del agente de tránsito, hasta el levantamiento de la boleta de infracción, se deberá proceder sin interrupción.
 
@@ -1405,7 +1483,9 @@ En los casos anteriores, cuando los conductores sean menores de edad, los agente
 
 Sólo procederá la retención de cualquier vehículo, remitiéndolo de inmediato al depósito mas cercano, en los siguientes casos:
 
-I.- Cuando al cometer una infracción al presente reglamento, su conductor carezca de licencia o permiso para manejar, y el vehículo no tanga tarjeta de circulación, o el documento que justifique la omisión;
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2004)</small>
+
+I.- Cuando al cometer una infracción al presente reglamento su conductor carezca de licencia y/o permiso para conducir vehículos, tarjeta de identificación personal para operadores de transporte público y el vehículo no tenga tarjeta de circulación, o el documento que justifique la omisión.
 
 II.- Cuando al vehículo le falten ambas placas, o el documento que justifique la omisión;
 
@@ -1459,13 +1539,13 @@ DE LOS MEDIOS DE IMPUGNACION.
 
 ###### Artículo 122.
 
-Únicamente en caso de flagrante infracción a las disposiciones de este reglamento, los agentes de tránsito podrán detener la marcha de un vehículo y exigir a su conductor la exhibición de su licencia o permiso para conducir, así como de la tarjeta o del permiso provisional que ampare la circulación de la unidad. Consecuentemente, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo.
+Únicamente en caso de flagrante infracción a las disposiciones de este reglamento, los agentes de tránsito podrán detener la marcha de un vehículo y exigir a su conductor la exhibición de su licencia y/o permiso para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público, expedida por la Secretaría de Transporte, así como de la tarjeta o el permiso provisional que ampare la circulación de la unidad. Consecuentemente, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo.
 
 Los infractores, serán sancionados de acuerdo a la falta cometida, conforme a la siguiente tabla de infracciones, sanciones y medidas de seguridad:
 
 > <small>N. DE E. VÉASE TABLA DE INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD EN LA G.G. DE 21 DE SEPTIEMBRE DE 1992, PÁGINAS DE LA 50 A LA 67.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4.</small>
 
 ###### Artículo 123.
 
@@ -1562,3 +1642,9 @@ G.G. 28 DE DICIEMBRE DE 1999.
 PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente acuerdo entrará en vigor el 1º de enero del año 2000.
+
+G.G. 9 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrara en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
