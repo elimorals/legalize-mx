@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "2004-04-12"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -1027,7 +1027,9 @@ XV.- Atender las quejas por actos u omisiones de las autoridades, en relación a
 
 XVI.- Atender, evaluar y analizar el contenido de las quejas que se presenten contra servidores públicos que (sic) la Institución por incumplimiento de sus obligaciones y someterlas a la consideración y resolución de la autoridad a quien competa;
 
-XVII.- Atender, evaluar y analizar las denuncias que presente la Contraloría del Gobierno del Estado contra Funcionarios y Servidores Públicos por el incumplimiento de sus obligaciones, dándole el seguimiento que merecen y sometiéndolas a la consideración y resolución de la autoridad competente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+XVII.- Atender, evaluar y analizar las denuncias que presente la Secretaría de la Contraloría del Gobierno del Estado contra Funcionarios y Servidores Públicos por el incumplimiento de sus obligaciones, dándole el seguimiento que merecen y sometiéndolas a la consideración y resolución de la autoridad competente;
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1598,3 +1600,7 @@ TERCERO.- El Titular de la Procuraduría, ordenará que los recursos que se menc
 P.O. 12 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
