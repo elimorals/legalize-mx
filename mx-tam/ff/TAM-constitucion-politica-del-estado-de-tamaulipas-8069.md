@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1926-09-29"
+last_updated: "1928-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1928.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -237,9 +237,11 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 26.
 
-El Congreso se compondrá de quince Diputados propietarios. Por cada Diputado propietario se eligirá un suplente.
+El Congreso se compondrá de siete Diputados propietarios, por cada Diputado Propietario se elegirá un suplente.
 
 ###### Art. 27.
 
@@ -299,9 +301,11 @@ Por muerte o imposibilidad calificada del Diputado propietario y del suplente de
 
 Entre tanto se verifique esta y si no pudiere integrarse el quorum legal, la Junta de Diputados llamará al suplente que a su juicio pueda concurrir con más prontitud, cesando este tan luego como se presente otro Diputado que complete el quorum.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 37.
 
-La Legislatura requiere para el ejercicio de sus funciones la asistencia de nueve Diputados por lo menos. No habiendo la mayoría referida, los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso, dentro del mismo término, que fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese sólo hecho que renuncian el cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados propietarios, serán citados los suplentes respectivos para integrarar el quorum, y si fenece el mencionado término sin obtenerse la comparecencia de los suplentes, se llamará nuevamente a estos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
+La Legislatura requiere para el ejercicio de sus funciones la asistencia de cinco diputados por lo menos. No habiendo la mayoría referida, los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso, dentro del mismo término, que fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese sólo hecho que renuncian el cargo y se convocará a nueva elección. Entre tanto transcurran los treinta días concedidos a los Diputados Propietarios, serán citados los suplentes respectivos para integrar el quorum, y si fenece el mencionado término sin obtenerse la comparecencia de los suplentes, se llamará nuevamente a estos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
 
 ###### Art. 38.
 
@@ -325,9 +329,11 @@ El día 5 de diciembre del año en que deba hacerse la elección, se reunirán e
 
 Concluidos los actos de que habla el artículo anterior, los nuevos Diputados otorgarán el día primero de enero siguiente la protesta de ley. Si no hubiere Diputación Permanente, los presuntos Diputados designarán en escrutinio una Comisión de tres miembros de su seno, para hacer las veces de aquella en lo que expresa el artículo anterior.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 43.
 
-En seguida se hará el nombramiento de un Presidente, un Vicepresidente, dos Secretarios propietarios y un Suplente; el Presidente del Congreso declarará a este legítimamente constituido y en aptitud de ejercer sus funciones.
+En seguida se hará el nombramiento de un Presidente, dos Secretarios y un suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra; el Presidente del Congreso declarará a esta legítimamente constituida y en aptitud de ejercer sus funciones.
 
 ###### Art. 44.
 
@@ -353,9 +359,11 @@ II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
 
 El Congreso tendrá sesiones todos los días hábiles, estas serán públicas, salvo las que según el Reglamento interior deban tener carácter de secretas.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 48.
 
-El Congreso, antes de cerrar cada período de sesiones, nombrará de su seno una Diputación Permanente compuesta de cinco miembros propietarios y un suplente, que funcionarán mientras no vuelva a reunirse el Congreso. El primer nombrado asumirá la Presidencia y los dos últimos actuarán de Secretarios.
+El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta de tres miembros propietarios y un suplente que funcionarán mientras no vuelva a reunirse el Congreso.- El primer nombrado asumirá la Presidencia y los dos últimos actuarán de Secretarios.
 
 ###### Art. 49.
 
@@ -491,7 +499,9 @@ XL. Conceder o negar al Gobernador licencia temporal para separarse de su puesto
 
 XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
 
-XLII. Ejercer las facultades propias de un cuerpo legislativo, en todo aquello que no le prohiba la Constitución General o la del Estado.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1928)</small>
+
+XLII. Conceder facultades extraordinarias al Ejecutivo en alguno o en todos los ramos de la Administración Pública cuando circunstancias apremiantes así lo exijan siendo necesario para ello los votos de cuatro de los Diputados presentes.
 
 XLIII. La facultad que le concede el artículo 24 de esta Constitución.
 
@@ -537,11 +547,13 @@ VI. Dispensar estudios para el efecto de otorgar títulos profesionales.
 
 VII. Hacer lo demás que prohibe esta Constitución.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ### CAPITULO IV. De la Diputación Permanente
 
 ###### Art. 60.
 
-El día anterior al de la clausura de cada período de sesiones ordinarias, el Congreso nombrará una Comisión que se dominará Diputación Permanente, compuesta de cinco Diputados: un Presidente, dos Vocales, un Secretario y un Suplente.
+El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
 
 ###### Art. 61.
 
@@ -619,9 +631,11 @@ Si al cerrarse el período de sesiones no se hubiere cumplido el término conced
 
 Si el Gobernador hace observaciones a algún proyecto, lo devolverá al Congreso dentro del término fijado, manifestando por escrito las razones que tenga que oponer. El Congreso discutirá por segunda vez el proyecto y el Ejecutivo podrá nombrar el representante que quiera para que asista con voz y sin voto a la discusión.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 72.
 
-Concluida esta se votará el proyecto en escrutinio secreto y se tendrá por aprobado con el voto de las dos terceras partes de los Diputados presentes.
+Concluída esta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de cinco de los Diputados presentes.
 
 ###### Art. 73.
 
@@ -689,13 +703,19 @@ El Congreso, dentro de los diez primeros días de sus sesiones ordinarias del a�
 
 La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 84.
 
-Si no hubiere habido elección de Gobernador, si se hubiere declarado nula o si por cualquier motivo esta no se hubiere hecho y publicado para el día cuatro de febrero, o el nuevamente electo no se presentare a tomar posesión de su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente, constituidos aquel o esta, en su caso, en sesión permanente y secreta; por las dos terceras partes del número total de sus miembros. Este nombramiento no podra recaer en el Gobernador saliente. El Gobernador interino nombrado durará en su puesto mientras se presente el electo. A este efecto el Congreso, calificando los motivos de la falta, señalará al Gobernador electo un plazo prudente, que no exceda de treinta días para que ocurra, y si no lo hiciere, previa nueva calificación de causa, resolverá el abandono, convocando a nuevas elecciones dentro de los diez días siguientes.
+Si no hubiere habido elección de Goberndor (sic), si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
 
 ###### Art. 85.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa, ocurridos durante los dos primeros años del período y que dejen acéfalo el Poder Ejecutivo, el Congreso, constituido en sesión permanente y secreta, nombrará, por las dos terceras partes del número total de sus miembros, un Gobernador interino, que promulgará el decreto que se expida conforme a la fracción XLIX del artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar durante los dos últimos años, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente procederá en los términos que se indican, convocando desde luego a sesiones extraordinarias para ratificar o revocar el nombramiento hecho por la Permanente.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ocurrida durante los dos primeros años del período y que dejan acéfalo el Poder Ejecutivo el Congreso constituido en sesión permanente y secreta nombrará por el voto cuando menos de cinco del número total de sus miembros un Gobernador Interino que promulgará el decreto que se expida conforme a la fracción XLII del artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falta para completar el período. Si los hechos tuvieren lugar dentro de los dos últimos años no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período.
+
+Si el Congreso está en receso, la Comisión Permanente por el voto de la mayoría de sus miembros en los términos que se indican convocando desde luego a sesiones extraordinarias para rectificar o revocar el nombramiento hecho por la Permanente.
 
 ###### Art. 86.
 
@@ -1197,9 +1217,15 @@ Del fuero de los altos funcionarios.
 
 El Gobernador del Estado, los Diputados al Congreso y los suplentes en ejercicio, son responsables de los delitos de orden común que cometan durante el desempeño del mismo.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
 ###### Art. 150.
 
-Cuando se acuse de un delito del orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso, erigido en Gran Jurado y a mayoría absoluta de votos de sus miembros presentes, declarará si ha lugar o no a proceder en contra del acusado. Si la declaración fuese negativa, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
+Cuando se acuse de un delito del orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso, erigido en Gran Jurado y a votación cuando menos de cinco de los miembros que concurran, declarará si ha lugar o no a proceder en contra del acusado. Si la declaración fuese negativa, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
+Art.- 151.- SI (sic) fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de cinco de los miembros presentes que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la autoridad competente para juzgarlo.
 
 ###### Art. 151.
 
@@ -1271,11 +1297,11 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ### CAPITULO I. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
 
 ###### Art. 165.
 
-Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de las dos terceras partes de los Diputados presentes y que sea aprobada por las dos terceras partes de los miembros del Congreso.
+Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por cinco de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -1374,3 +1400,9 @@ Este decreto comenzará a surtir sus efectos desde la fecha de su publicación e
 P.O. 29 DE SEPTIEMBRE DE 1926.
 
 TRANSITORIO. Comenzará a surtir sus efectos desde la fecha de su promulgación.
+
+P.O. 23 DE JUNIO DE 1928.
+
+###### ARTICULO UNICO.
+
+Este Decreto empezará a regir tan luego como sean debidamente sancionadas las reformas del artículo 115 de la Constitución General.
