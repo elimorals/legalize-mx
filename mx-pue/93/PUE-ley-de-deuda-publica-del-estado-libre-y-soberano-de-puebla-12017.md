@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-deuda-publica-del-estado-libre-y-soberano-de-puebla-1201
 country: "mx"
 rank: "ley"
 publication_date: "1977-11-15"
-last_updated: "2002-11-22"
+last_updated: "2003-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1977.
 
@@ -157,11 +157,15 @@ Las partidas destinadas anualmente para satisfacer los compromisos derivados de 
 
 Anualmente la Secretaría de Finanzas presentará para su aprobación por el Ejecutivo y la autorización del Congreso, el programa de inversiones a que se refiere la fracción V del Artículo cuarto de la presente ley.
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2002)</small>
-
 ARTICULO NOVENO BIS.- El Gobierno del Estado podrá celebrar los actos jurídicos y establecer los mecanismos financieros para que se administren y constituyan como fuente de garantía y pago de las obligaciones contraídas por el mismo y por sus entidades para inversiones públicas productivas, cuando se haya garantizado con la afectación de las participaciones que en ingresos federales le correspondan, de conformidad con las disposiciones federales y estatales aplicables en la materia.
 
-Para efectos del párrafo anterior, los Municipios, así como sus entidades, suscribirán convenios de adhesión y celebrarán los actos jurídicos que se requieran.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE OCTUBRE DE 2003)</small>
+
+Las Entidades públicas que habiendo sido autorizadas por el Congreso del Estado para endeudarse y tengan como aval al Gobierno Estatal, podrán solicitar al Titular del Ejecutivo, previa autorización de su órgano de gobierno, que someta a consideración del Legislativo, la autorización para efectuar reestructuraciones, refinanciamientos, modificaciones y novaciones, sobre las diversas operaciones que constituyan deuda pública; siempre y cuando se logren mejoras en las condiciones financieras sobre pasivos, considerando los principios de economía, eficiencia, calidad, imparcialidad y honradez.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE OCTUBRE DE 2003)</small>
+
+Para efectos de lo señalado en esta disposición, los Municipios, así como sus Entidades, suscribirán los respectivos convenios de adhesión y celebrarán los actos jurídicos que se requieran.
 
 ###### ARTICULO DECIMO.
 
@@ -218,3 +222,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Cuando en el presente ordenamiento se haga mención de la Secretaría de Finanzas, se entenderá que se refiere a la Secretaría de Finanzas y Desarrollo Social.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
