@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-pensiones-del-estado-de-jalisco-5860"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1986-12-30"
+last_updated: "1989-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PENSIONES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1989.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -59,7 +59,9 @@ Los mencionados en las tres fracciones anteriores, una vez incorporados, tendrá
 
 IV. Los que, de conformidad con esta Ley, adquieran el carácter de Pensionados por jubilación, edad avanzada o invalidez;
 
-V. Los derechohabientes del pensionado que, en los términos de la presente Ley, tengan derecho a recibir las prestaciones que la misma señala; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
+
+V. Los derechohabientes del pensionado o del afiliado;
 
 VI. Las Entidades Públicas siguientes:
 
@@ -91,7 +93,9 @@ c) Por invalidez;
 
 II. Servicio Médico a Pensionados y a sus beneficiarios;
 
-III. Prestaciones económicas derivadas de la muerte del pensionado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
+
+III. Prestaciones económicas derivadas de la muerte del pensionado o del afiliado;
 
 IV. Préstamos:
 
@@ -449,7 +453,17 @@ III. Por fallecimiento de los derechohabientes.
 
 Cuando fallezca un pensionado, la Dirección de Pensiones entregará a sus deudos, o a la persona que se hubiese hecho cargo de la inhumación, el importe de un mes de pensión por concepto de gastos funerarios, sin más trámites que la presentación del acta de defunción y la constancia de los gastos del sepelio.
 
-#### SECCION PRIMERA. De los Préstamos Hipotecarios
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 13 DE MAYO DE 1989)</small>
+
+#### SECCION TERCERA. Prestaciones Económicas Derivadas de la Muerte del Afiliado
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1989)</small>
+
+###### Artículo 60
+
+Bis.- En el caso de fallecimiento de un afiliado no pensionado, la Dirección de Pensiones del Estado entregará a los beneficiarios designados por el trabajador en activo, o en caso de no haberlos, a los dependientes económicos, y a falta de éstos, a los herederos legítimos, conforme a la resolución judicial, la prestación que al efecto, y en forma general, se haya determinado por el Consejo Directivo.
+
+Para que los beneficiarios puedan recibir lo anterior, será necesario que el afiliado en los términos del artículo 3.° fracs. I, II y III, haya cotizado hasta la fecha del fallecimiento, su aportación en los términos del Art. 13 de esta Ley.
 
 ### CAPITULO CUARTO. De los Préstamos a Corto Plazo y Préstamos para la Adquisición de Bienes de Consumo Duradero
 
@@ -493,7 +507,7 @@ La Institución podrá conceder préstamos para la adquisición de bienes de con
 
 ### CAPITULO QUINTO. De las Prestaciones en Materia Inmobiliaria
 
-#### SECCION SEGUNDA. De la Venta y Arrendamiento de Inmuebles
+#### SECCION PRIMERA. De los Préstamos Hipotecarios
 
 ###### Artículo 68.
 
@@ -532,6 +546,8 @@ IX. Se darán por vencidos anticipadamente, si los deudores enajenan las viviend
 ###### Artículo 70.
 
 Al afiliado que se separe definitivamente del servicio, la Dirección de Pensiones podrá concederle un plazo hasta de seis meses, sin causar intereses moratorios, para continuar el pago del préstamo hipotecario.
+
+#### SECCION SEGUNDA. De la Venta y Arrendamiento de Inmuebles
 
 ###### Artículo 71.
 
@@ -637,9 +653,17 @@ III. Un representante de los servidores públicos, nombrado por la Federación d
 
 IV. Un representante de los servidores públicos del magisterio, que designará la Sección Estatal del Sindicato Nacional de Trabajadores de la Educación.
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 1989)</small>
+
+V. El Director General.
+
 Por cada miembro del Consejo Directivo, las Entidades representadas deberán designar un Suplente. Los Consejeros durarán en su cargo tres años y podrán ser reelectos o removidos, libremente, por quien los hubiese nombrado.
 
 El Consejo Directivo designará un Secretario, quien tendrá voz informativa y levantará las actas de las sesiones. En ningún caso, el nombramiento podrá recaer en algún Consejero, en el Director General, ni en el Subdirector.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1989)</small>
+
+En ningún caso, el nombramiento podrá recaer en algún Consejero o en el Director General.
 
 ###### Artículo 80.
 
@@ -671,7 +695,15 @@ IX. Aprobar los reglamentos generales y particulares de la Institución, y de la
 
 X. Proponer al Ejecutivo del Estado los Anteproyectos de reformas a esta Ley;
 
-XI. Administrar los bienes y negocios de la Dirección de Pensiones, con plenas facultades de gestión, representación, administración y dominio, salvo su patrimonio inmobiliario el que no podrá ser enajenado, sino con autorización previa del Congreso del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
+
+XI. Administrar los bienes y negocios de la Dirección de Pensiones del Estado, con plenas facultades de gestión, representación, administración y dominio.
+
+El patrimonio inmobiliario será de dos tipos:
+
+a) El que la Institución destine para su uso, el cual no podrá ser enajenado, sino con autorización previa del Congreso del Estado; y
+
+b) El que la Dirección de Pensiones del Estado, por acuerdo del Consejo Directivo, adquiera para fines de vivienda, y así se haga constar en los títulos de adquisición correspondientes, que no requerirá para su enajenación, autorización previa del Congreso del Estado, pero sí requerirá de avalúo bancario, sin que, en ningún caso, el precio que se fije sea menor al valor real del bien, al momento de su enajenación;
 
 XII. Concertar las bases para la contratación de empréstitos y suscribir, por conducto de su Presidente, Tesorero y Director General, los contratos, títulos de crédito y documentos que se requieran para este fin;
 
@@ -713,9 +745,11 @@ XIV. Vigilar el estricto cumplimiento de lo preceptuado por esta Ley; y
 
 XV. Las demás que le fije esta Ley, su reglamento y el Consejo Directivo.
 
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
+
 ###### Artículo 83.
 
-El Director de Pensiones será suplido en sus ausencias por el Subdirector, quien será designado por el Titular del Poder Ejecutivo.
+El Director de Pensiones será suplido en sus ausencias por el responsable del Area Financiera y, a falta de éste, por el del Area Administrativa.
 
 ### CAPITULO TERCERO. Del Patrimonio
 
@@ -824,3 +858,9 @@ Lic. Enrique Alvarez del Castillo
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Héctor F. Castañeda Jiménez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE MAYO DE 1989.
+
+Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
