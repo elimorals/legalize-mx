@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-78-para-el-fomento-del-turismo-en-el-estado-de-6575"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-07"
-last_updated: "1990-07-07"
+last_updated: "1991-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY PARA EL FOMENTO DEL TURISMO EN EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 7 de julio de 1990.
 
@@ -35,7 +35,7 @@ Que la H. Legislatura del mismo, se ha servido expedir la siguiente
 
 LEY:
 
-Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.-Estado Libre y Soberano de Veracruz-Llave.
+Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en términos de lo dispuesto por los artículos 68, fracción I y 71, fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo y 57, 58, 59, 60, 61, 63 y 64 del Reglamento Interior del Poder Legislativo, y en nombre del pueblo expide la siguiente:
 
@@ -65,7 +65,7 @@ El Ejecutivo del Estado, en el ámbito de su competencia, será el responsable d
 
 ###### ARTICULO 5º.
 
-Ejecutivo Estatal convendrá con los municipios, el señalamiento de las áreas y lugares de interés prioritario para el fomento turístico de la Entidad, considerando la importancia del flujo de visitantes que reciben y el potencial de sus atractivos turísticos, así como el efecto social y económico de su desarrollo.
+El Ejecutivo Estatal convendrá con los municipios, el señalamiento de las áreas y lugares de interés prioritario para el fomento turístico de la Entidad, considerando la importancia del flujo de visitantes que reciben y el potencial de sus atractivos turísticos, así como el efecto social y económico de su desarrollo.
 
 Dichas áreas y lugares incluirán las zonas que para efectos de planeación turística nacional se convengan con el Gobierno Federal.
 
@@ -76,6 +76,10 @@ Las acciones de promoción, fomento y desarrollo del turismo que realicen el Gob
 ###### ARTICULO 7º.
 
 El Gobierno del Estado y los Ayuntamientos correspondientes, de manera conjunta, realizarán los estudios tendentes a crear las reservas territoriales para el crecimiento de la actividad turística.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
+
+Para los efectos de la Ley de Expropiación para el Estado, se considera como causa de utilidad pública, la constitución de las reservas territoriales a que se refiere el párrafo anterior.
 
 ### CAPITULO TERCERO. FOMENTO Y PROMOCION AL TURISMO
 
@@ -159,91 +163,179 @@ El Ejecutivo Estatal podrá suscribir convenios y establecer bases de cooperaci�
 
 El Gobernador podrá celebrar convenios con otras entidades federativas para coordinar e impulsar acciones de fomento y desarrollo turísticos.
 
-### CAPITULO SEXTO. FIDEICOMISO PARA EL FOMENTO DEL TURISMO
+> <small>(REFORMADA SU DENOMINACION, G.O. 23 DE JULIO DE 1991)</small>
 
-###### Artículo 17.
+### CAPITULO SEXTO. COMISION DE DESARROLLO TURISTICO PARA EL ESTADO DE VERACRUZ
 
-Se constituirá el Fideicomiso para el Fomento del Turismo que tendrá por objeto:
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
-I.- Promover, fomentar crear y comercializar zonas, centros y desarrollos turísticos en el Estado.
+###### ARTICULO 17.
 
-II.- Administrar las reservas territoriales que le sean asignadas para cumplir con lo dispuesto en la fracción anterior.
+Se crea la Comisión de Desarrollo Turístico del Estado de Veracruz, como un Organismo Descentralizado con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Xalapa-Enríquez, Veracruz.
 
-III.- Asignar recursos provenientes de los excedentes que se generen con la operación del fideicomiso para que se destinen a:
-
-A) Obras de inversión para el desarrollo urbano vinculadas con el fomento del turismo.
-
-B) Proyectos turísticos especiales.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 18.
 
-Para cumplir con su objeto, el fideicomiso realizará las siguientes funciones:
+La Comisión tendrá como objeto:
 
-I.- Fomentar, promover, efectuar y contratar estudios y proyectos, obras de Infraestructura y equipamiento urbanos, edificaciones e instalaciones que mejoren o incrementen la oferta turística.
+I.- Elaborar estudios y proyectos, ejecutar obras de infraestructura y organización y realizar edificaciones e instalaciones que incrementen la oferta turística nacional.
 
-II.- Adquirir, fraccionar, vender, arrendar, administrar y en general, realizar cualquier tipo de enajenación de bienes, muebles e inmuebles que contribuyan al fomento del turismo, evitando prácticas especulativas.
+II.- Dotar, fomentar y promover el equipamiento urbano para las zonas, centros y desarrollos turísticos.
 
-III.- Operar, administrar y mantener, por sí o a través de terceros, todo tipo de bienes relacionados con la actividad turística.
+III.- Adquirir, fraccionar, vender, arrendar, administrar, y en general realizar cualquier tipo de enajenación de bienes muebles e inmuebles que contribuyan al fomento del turismo y evitar la especulación de cualquier persona física o moral.
 
-IV.- Promover y dar publicidad de sus actividades.
+IV.- Operar, administrar y mantener por sí o a través de terceros, todo tipo de bienes relacionados con la actividad turística.
 
-V.- Gestionar y obtener los financiamientos que requiera para cumplir su objeto, otorgando las garantías necesarias.
+V.- Realizar la promoción y publicación de sus actividades.
 
-VI.- Operar con los valores derivados de su cartera.
+VI.- Participar con los sectores público, social y privado en la constitución, fomento, desarrollo y operación de empresas cualquiera que sea su naturaleza jurídica, siempre y cuando su giro corresponda a la actividad turística.
 
-VII.- Asesorar a los inversionistas turísticos de los sectores social y privado en sus gestiones ante los organismos federales, a efecto de obtener asistencia técnica y financiamiento.
+VII.- Participar con carácter temporal, como socio o accionista en empresas que desarrollan objetivos turísticos.
 
-VIII.- Coordinar sus acciones con las dependencias y entidades federales que atiendan al campo de la promoción turística.
+VIII.- Adquirir valores emitidos para el fomento al turismo por instituciones de crédito o empresas de actividad turística.
 
-IX.- Apoyar para que los desarrollos turísticos contribuyan a la protección del equilibrio ecológico y el medio ambiente.
+IX.- Gestionar y obtener financiamientos que se destinen para el logro de su objeto, otorgando las garantías necesarias.
 
-X.- Las que se requieran para lograr su objeto.
+X.- Operar con los valores derivados de su cartera.
+
+XI.- Otorgar todo tipo de créditos que se enfoquen a la actividad turística.
+
+XII.- Descontar a las instituciones de crédito, títulos generados por créditos para la actividad relacionada con el turismo.
+
+XIII.- Garantizar a las instituciones de crédito las obligaciones derivadas de los préstamos que otorguen para la inversión del turismo.
+
+XIV.- Garantizar la amortización de capital y el pago de intereses de obligaciones de valores que se emitan con intervención de las instituciones de crédito, con el propósito de destinar al fomento del turismo los recursos que de ellos se obtenga.
+
+XV.- Vender, ceder y traspasar derechos derivados de créditos otorgados.
+
+XVI.- Asesorar a los inversionistas de los sectores social y privado en sus gestiones ante los organismos federales, a efecto de obtener asistencia técnica, financiamiento y demás apoyos inherentes.
+
+XVII.- Coordinar sus acciones con las distintas entidades y dependencias federales relacionadas con la materia.
+
+XVIII.- Vigilar que los desarrollos turísticos contribuyan a la protección ecológica.
+
+XIX.- En general todas aquellas acciones que tiendan a la realización de su objeto.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 19.
 
-El patrimonio del fideicomiso se integrará con:
+El Patrimonio de la comisión se integrará con:
 
-I.- Subsidios, aportaciones o donaciones de los gobiernos Federal, Estatal y municipales.
+I.- Los recursos provenientes de los gobiernos Federal, Estatal o Municipal.
 
-II.- Las aportaciones que reciba de los particulares.
+II.- Las aportaciones que le hagan los particulares en calidad de donación o por cualquier otro título.
 
-III.- Los rendimientos que obtenga de su capital y los ingresos que obtenga por las actividades que desarrolle.
+III.- Los bienes muebles o inmuebles que le transmitan por cualquier medio los gobiernos Federal, Estatal o Municipal.
 
-IV.- Los derechos que adquiera por el otorgamiento de concesiones.
+IV.- Los beneficios o frutos que obtenga de su patrimonio.
 
-V.- Los recursos que obtenga por cualquier otro título.
+V.- Los financiamientos que obtengan para la realización de su objetivo.
+
+VI.- Los bienes o derechos que adquiera por cualquier otro título.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 20.
 
-El fideicomiso tendrá un Comité Técnico que se integrará de la siguiente manera:
+La Comisión quedará integrada por:
 
-I.- El Gobernador del Estado, quien lo presidirá y tendrá voto de calidad.
+I.- El Consejo de Administración.
 
-II.- Los Secretarios de Finanzas y Planeación y de Desarrollo Económico.
+II.- Un Vocal Ejecutivo.
 
-III. Previa invitación, un representante de las secretarías de Turismo, Desarrollo Urbano y Ecología, Comunicaciones y Transportes y del Fondo Nacional para los desarrollos Portuarios.
-
-IV.- Los representantes de los sectores privado y social, que determine el Gobernador del Estado.
-
-V.- El Director General del fideicomiso, quien asistirá a las sesiones con derecho a voz, pero no a voto.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 21.
 
-El Comité Técnico podrá consultar e invitar a sus sesiones a los Presidentes Municipales y solicitarles propuesta de asignación de recursos para el Desarrollo Urbano o el Fomento Turístico.
+El Consejo de Administración se integrará con:
+
+I.- El Gobernador del Estado, quien será el Presidente.
+
+II.- El Secretario de Desarrollo Económico, que fungirá con el cargo de Comisario Técnico.
+
+III.- El Secretario de Finanzas y Planeación, que tendrá el cargo de Comisario Financiero.
+
+IV.- El Secretario de Desarrollo Urbano.
+
+V.- Los Delegados de la Secretaría de Desarrollo Urbano y Ecología, de la Reforma Agraria y de la Comisión para la Regularización de la Tenencia de la Tierra, quienes serán invitados para este efecto y fungirán como vocales.
+
+VI.- Los representantes de los grupos y asociaciones integrados a los sectores privado y social, cuyas actividades estén vinculadas a la prestación de servicios turísticos, que sean invitados por el Gobernador del Estado.
+
+VII.- Con carácter de vocal, se invitará a las sesiones de consejo a los presidentes de los municipios donde se estén desarrollando los programas.
+
+VIII.- El Vocal Ejecutivo de la Comisión.
+
+Los integrantes del Consejo deberán designar un suplente para que, en los casos de ausencia, los represente en las mismas, el Gobernador del Estado, será suplido por el Secretario de Desarrollo Económico.
+
+El Consejo se reunirá en sesiones ordinarias bimestrales y extraordinarias, con la asistencia de la mayoría de sus integrantes. Las sesiones extraordinarias se llevarán a cabo cuando así lo estime conveniente el Presidente y se llevará un Libro de Actas en el que se consigne el resultado y acuerdo de las sesiones.
+
+Las decisiones del Consejo serán tomadas por la mayoría de sus miembros presentes. El Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 22.
 
-El Comité Técnico realizará sesiones ordinarias semestralmente y extraordinarias, cuando lo convoque el Gobernador del Estado.
+El Consejo de Administración tendrá las atribuciones siguientes:
 
-Las sesiones se llevarán a cabo con la asistencia de la mayoría de sus integrantes y sus decisiones serán tomadas por el voto mayoritario de quienes asistan.
+I.- Dictar las normas generales que establezcan los criterios que deban orientar las actividades de la Comisión.
+
+II.- Aprobar en su caso, los programas de trabajo, presupuestos, estados financieros y actividades propias de la Comisión.
+
+III.- Aprobar la estructura básica de la organización de la Comisión y las modificaciones que procedan a la misma.
+
+IV.- Aprobar la concertación de los préstamos para el financiamiento de la Comisión y establecer la política para el otorgamiento de créditos a los interesados.
+
+V.- Crear comités técnicos especializados para la realización de los fines de la Comisión.
+
+VI.- Las demás que le resulten de esta Ley, su reglamento y disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 23.
 
-El fideicomiso tendrá un Director General, que será propuesto a la Institución Financiera por el Gobernador del Estado.
+EL Vocal Ejecutivo será designado por el Gobernador del Estado y tendrá las siguientes atribuciones:
+
+I.- Representar a la Comisión de Desarrollo Turístico del Estado de Veracruz, como apoderado general, con todas las facultades generales y las particulares que requieran cláusula especial conforme a la Ley, sin limitación alguna y en los términos del artículo 2487, párrafo primero, segundo y tercero, del Código Civil vigente en el Estado.
+
+II.- Ejecutar por sí o por medio de las dependencias a su cargo, los acuerdos emanados del Consejo de Administración.
+
+III.- Realizar actos de administración, de dominio y lo relativo a pleitos y cobranzas, celebrar, otorgar y suscribir títulos de operaciones de crédito en términos de lo dispuesto por el artículo 9º de la Ley General de Títulos y Operaciones de Crédito.
+
+IV.- Presentar denuncias y querellas en materia penal, constituirse en coadyuvante del Ministerio Público y otorgar el perdón judicial, así como promover y desistirse en su caso, del Juicio de Amparo, cuando esto sea procedente y convenga a los intereses del organismo que representa.
+
+V.- Nombrar y remover al personal que integra la Comisión.
+
+VI.- Proponer al Consejo de Administración por conducto de su Presidente, los programas de trabajo y los medios necesarios para su realización.
+
+VII.- Formular y presentar al Consejo el informe de sus actividades semestralmente.
+
+VIII.- Desempeñarse como Secretario de Actas en las sesiones del Consejo de Administración y con tal carácter, convocar a las sesiones ordinarias y extraordinarias del mismo.
+
+IX.- Otorgar y revocar toda clase de poderes.
+
+X.- Las demás que le resulten del cumplimiento de esta Ley, su reglamento y otras disposiciones.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 24.
 
-El Director General del Fideicomiso tendrá las facultades que se le otorguen en el contrato de constitución.
+El Consejo de Administración vigilará las actividades de la Comisión por conducto de los comisarios, quienes tendrán las siguientes atribuciones:
+
+I.- El Comisario Técnico: Vigilará que los programas de la Comisión y su ejecución, se lleven a cabo en cumplimiento a las especificaciones y normas de carácter técnico aplicables.
+
+II.- El Comisario Financiero:
+
+a) Auditará los estados financieros de la Comisión.
+
+b) Supervisará los actos y documentos de carácter financiero.
+
+c) Vigilará que las operaciones financieras de la Comisión, se ejecuten de conformidad a las disposiciones legales aplicables y lineamientos del propio Consejo.
+
+d) Cuidará del correcto ejercicio presupuestal de la Comisión.
+
+e) Vigilará que los créditos financieros que se otorguen, se apliquen correctamente a las obras programadas y autorizadas por el Consejo, cuidando que no se desvíen hacia otros fines.
 
 ### CAPITULO SEPTIMO. DEL CONSEJO ESTATAL DE TURISMO
 
@@ -284,3 +376,15 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los cuatro días del mes de mayo de mil novecientos noventa.- Ing. ABEL RUIZ LOPART, Diputado Presidente.- Rúbrica.- Lic. ROBERTO ALVAREZ SALGADO, Diputado Secretario.- Rúbrica".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los cinco días del mes de junio de mil novecientos noventa.- DANTE DELGADO.- El Secretario General de Gobierno, Lic. MIGUEL ANGEL DIAZ PEDROZA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 23 DE JULIO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
