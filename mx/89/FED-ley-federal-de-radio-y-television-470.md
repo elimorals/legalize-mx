@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "1980-11-10"
+last_updated: "1982-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -111,13 +111,17 @@ Compete a la Secretaría de Gobernación:
 
 I.- Vigilar que las transmisiones de radio y televisión se mantengan dentro de los límites del respeto a la vida privada, a la dignidad personal y a la moral, y no ataquen los derechos de tercero, ni provoquen la comisión de algún delito o perturben el orden y la paz públicos;
 
-II.- Coordinar el funcionamiento de las estaciones de radio y televisión pertenecientes al Gobierno Federal;
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1982)</small>
 
-III.- Vigilar la eficacia de las transmisiones a que se refiere el artículo 59 de esta ley;
+II.- Vigilar que las transmisiones de radio y televisión dirigidos a la población infantil propicien su desarrollo armónico, estimulen la creatividad y la solidaridad humana, procuren la comprensión de los valores nacionales y el conocimiento de la comunidad internacional. Promuevan el interés científico, artístico y social de los niños, al proporcionar diversión y coadyuvar a su proceso formativo;
 
-IV.- Imponer las sanciones que correspondan a sus atribuciones y denunciar los delitos que se cometan en agravio de las disposiciones de esta ley, y
+III.- Coordinar el funcionamiento de las estaciones de radio y televisión pertenecientes al Gobierno Federal;
 
-V.- Las demás facultades que le confieren las leyes.
+IV.- Vigilar la eficacia de las transmisiones a que se refiere el artículo 59 de esta ley;
+
+V.- Imponer las sanciones que correspondan a sus atribuciones y denunciar los delitos que se cometan en agravio de las disposiciones de esta ley, y
+
+VI.- Las demás facultades que le confieren las leyes.
 
 ###### ARTICULO 11.
 
@@ -129,13 +133,17 @@ II.- Promover la transmisión de programas de interés cultural y cívico;
 
 III.- Promover el mejoramiento cultural y la propiedad del idioma nacional en los programas que difundan las estaciones de radio y televisión;
 
-IV.- Intervenir dentro de la radio y la televisión para proteger los derechos de autor;
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1982)</small>
 
-V.- Extender certificados de aptitud al personal de locutores que eventual o permanentemente participe en las transmisiones;
+IV.- Elaborar y difundir programas de carácter educativo y recreativo para la población infantil;
 
-VI.- Informar a la Secretaría de Gobernación los casos de infracción que se relacionen con lo preceptuado en este artículo, con excepción de la fracción IV, a fin de que imponga las sanciones correspondientes, y
+V.- Intervenir dentro de la radio y la televisión para proteger los derechos de autor;
 
-VII.- Las demás que le confiera la ley.
+VI.- Extender certificados de aptitud al personal de locutores que eventual o permanentemente participe en las transmisiones;
+
+VII.- Informar a la Secretaría de Gobernación los casos de infracción que se relacionen con lo preceptuado en este artículo, con excepción de la fracción IV, a fin de que imponga las sanciones correspondientes, y
+
+VIII.- Las demás que le confiera la ley.
 
 ###### ARTICULO 12.
 
@@ -461,6 +469,26 @@ El derecho de información, de expresión y de recepción, mediante la radio y l
 
 Las estaciones de radio y televisión deberán efectuar transmisiones gratuitas diarias, con duración hasta de 30 minutos continuos o discontinuos, dedicados a difundir temas educativos, culturales y de orientación social. El Ejecutivo Federal señalará la dependencia que deba proporcionar el material para el uso de dicho tiempo y las emisiones serán coordinadas por el Consejo Nacional de Radio y Televisión.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+###### ARTICULO 59 Bis.
+
+La Programación General dirigida a la población infantil que transmitan las estaciones de Radio y Televisión deberá:
+
+I.- Propiciar el desarrollo armónico de la niñez.
+
+II.- Estimular la creatividad, la integración familiar y la solidaridad humana.
+
+III.- Procurar la comprensión de los valores nacionales y el conocimiento de la comunidad internacional.
+
+IV.- Promover el interés científico, artístico y social de los niños.
+
+V.- Proporcionar diversión y coadyuvar el proceso formativo en la infancia.
+
+Los programas infantiles que se transmiten en vivo, las series radiofónicas, las telenovelas o teleteatros grabados, las películas o series para niños filmadas, los programas de caricaturas, producidos, grabados o filmados en el país o en el extranjero deberán sujetarse a lo dispuesto en las fracciones anteriores.
+
+La Programación dirigida a los niños se difundirá en los horarios previstos en el reglamento de esta Ley.
+
 ###### ARTICULO 60.
 
 Los concesionarios de estaciones radiodifusoras comerciales y los permisionarios de estaciones culturales y de experimentación, están obligados a transmitir gratuitamente y de preferencia:
@@ -493,6 +521,10 @@ II.- Asuntos que a juicio de la Secretaría de Comunicaciones y Transportes impl
 
 La retransmisión de programas desarrollados en el extranjero y recibidos por cualquier medio por las estaciones difusoras, o la transmisión de programas que patrocine un gobierno extranjero o un organismo internacional, únicamente podrán hacerse con la previa autorización de la Secretaría de Gobernación.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+En el caso de programas para niños deberá cumplirse con lo establecido en el Artículo 59-Bis de esta Ley.
+
 ###### ARTICULO 66.
 
 Queda prohibido interceptar, divulgar o aprovechar, los mensajes, noticias o informaciones que no estén destinados al dominio público y que se reciban por medio de los aparatos de radiocomunicación.
@@ -506,6 +538,10 @@ I.- Deberá mantener un prudente equilibrio entre el anuncio comercial y el conj
 II.- No hará publicidad a centros de vicio de cualquier naturaleza;
 
 III.- No transmitirá propaganda o anuncios de productos industriales, comerciales o de actividades que engañen al público o le causen algún perjuicio por la exageración o falsedad en la indicación de sus usos, aplicaciones o propiedades.
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1982)</small>
+
+IV.- No deberá hacer, en la programación referida por el Artículo 59 Bis, publicidad que incite a la violencia, así como aquélla relativa a productos alimenticios que distorsionen los hábitos de la buena nutrición.
 
 ###### ARTICULO 68.
 
@@ -822,3 +858,9 @@ Este decreto entrará en vigor 30 días después de su publicación en el "Diari
 ###### ARTICULO SEGUNDO.
 
 Los asuntos en trámite para su terminación deberán ajustarse a lo dispuesto en este decreto.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
