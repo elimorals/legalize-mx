@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-07-22"
+last_updated: "2004-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -201,9 +201,11 @@ Cuando la denuncia no sea ratificada dentro del plazo previsto, se tendrá como 
 
 Una vez ratificada la denuncia, no procede el desistimiento. El órgano técnico de Responsabilidades la remitirá al Pleno de la Asamblea para su conocimiento y para que, previo acuerdo, sea turnada a la Comisión de Responsabilidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 13.
 
-La Comisión de responsabilidades deberá, en un plazo de treinta días hábiles contados a partir de que le sea turnada la denuncia, emitir un dictamen en el que determine si es procedente la incoación del procedimiento o si debe desecharse de plano la denuncia.
+La Comisión de Responsabilidades deberá, en un plazo de cuarenta y cinco días hábiles contados a partir de que le sea turnada la denuncia, emitir un dictamen en el que determine si es procedente la incoación del procedimiento o si debe desecharse de plano la denuncia.
 
 Para que se declare la incoación del procedimiento de juicio político, se deberán reunir todas y cada una de las siguientes condiciones:
 
@@ -225,9 +227,11 @@ Si en el plazo otorgado el denunciante no cumple con las prevenciones que se le 
 
 En todo momento, la Comisión de Responsabilidades mediante acuerdo interno, tendrá la facultad de solicitar los informes que juzgue oportunos a toda clase de autoridades, así como copias certificadas de los documentos que obren en oficinas y archivos públicos, pudiendo además apersonarse en dichas oficinas, de manera colegiada o individual, para examinar expedientes, libros o constancias de cualquier especie, siempre y cuando tengan relación directa con los hechos controvertidos.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 16.
 
-Cuando por el cúmulo de diligencias que la Comisión de Responsabilidades deba practicar, para abrir un período de investigación o por falta de datos, no pudiere emitir el dictamen en el plazo señalado en el artículo 13 del presente ordenamiento, lo podrá ampliar mediante acuerdo interno y por el tiempo que estime necesario, sin que pueda exceder de noventa días contados a partir de la ratificación de la denuncia. De este trámite se dará aviso a la Asamblea del Congreso en Pleno.
+Cuando por el cúmulo de diligencias que la Comisión de Responsabilidades deba practicar, para abrir un periodo de investigación o por falta de datos, no pudiere emitir el dictamen en el plazo señalado en el artículo 13 del presente ordenamiento, lo podrá ampliar mediante acuerdo interno y por el tiempo que estime necesario, sin que pueda exceder de cuarenta y cinco días hábiles contados a partir del día hábil siguiente de que haya expirado el plazo inicial. De este trámite se dará aviso a la Asamblea del Congreso en Pleno.
 
 ###### Artículo 17.
 
@@ -1160,3 +1164,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE JULIO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
