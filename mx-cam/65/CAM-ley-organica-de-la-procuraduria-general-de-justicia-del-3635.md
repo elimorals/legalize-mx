@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-3635"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-05-29"
-last_updated: "1985-11-29"
+last_updated: "1986-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
 
-Ley publicada en el Periódico Oficial del Estado de Campeche el jueves 29 de mayo de 1980.
+Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 29 de mayo de 1980.
 
 ING. EUGENIO ECHEVERRIA CASTELLOT, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -337,7 +337,9 @@ Son facultades de la Policía Judicial, como órgano de apoyo del Ministerio Pú
 
 I.- Investigar los hechos delictuosos de que tenga conocimiento, en los términos de las disposiciones legales aplicables;
 
-II.- Recabar las pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participaron;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+II.- Con excepción de la declaración del inculpado, y bajo la estricta dirección del agente del Ministerio Público investigador, recabar las pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participaron;
 
 III.- Entregar las citas y presentar personas para la práctica de diligencias;
 
@@ -427,9 +429,11 @@ El Departamento de Servicios Periciales dependerá directamente de la Dirección
 
 El Departamento de Servicios Periciales cuidará que sus Peritos formulen los dictámenes conforme a lo establecido por el Código de Procedimientos Penales del Estado.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
-Los dictámenes se emitirán en las diversas especialidades, a petición del Ministerio Público, de la Policía Judicial, las demás unidades administrativas de la Procuraduría y de las autoridades judiciales del fuero común.
+###### Artículo 35.
+
+Los dictámenes se emitirán en las diversas especialidades, a petición del agente del Ministerio Público, de las demás unidades administrativas de la Procuraduría y de las autoridades judiciales del fuero común.
 
 ###### ARTICULO 36.
 
@@ -503,7 +507,9 @@ Son atribuciones y obligaciones de los Agentes Investigadores del Ministerio Pú
 
 I.- Recibir las denuncias y querellas que les sean presentadas, practicando las averiguaciones previas que procedan, para el ejercicio de la acción penal;
 
-II.- Recabar de las oficinas públicas correspondientes, federales o estatales, organismos descentralizados, desconcentrados, empresas de participación estatal y demás organismos del sector público, tanto federales como locales, así como de las personas privadas, físicas o morales, los documentos e informes indispensables para el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+III.- Recabar las pruebas, conforme a lo establecido por el Código de Procedimientos Penales del Estado, para acreditar el cuerpo del delito y la probable responsabilidad de los que participaron en su comisión; con la obligación especial, en la fase de averiguación previa, de recepcionar personalmente la declaración o declaraciones del inculpado, con la presencia obligatoria de un defensor de oficio, a quien para ello le dará el aviso correspondiente, y con las formalidades específicas previstas en el aludido Código Procesal Penal. La omisión de esas formalidades hará acreedor al agente del Ministerio Público a una sanción de seis meses a dos años de prisión y destitución de empleo;
 
 III.- Recabar la prueba, conforme a lo establecido por el Código de Procedimientos Penales del Estado, para acreditar el delito y la probable responsabilidad de los que en él participaron;
 
@@ -710,3 +716,9 @@ P.O. 29 DE NOVIEMBRE DE 1985.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 1986.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
