@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-11-03"
+last_updated: "2004-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -856,6 +856,10 @@ XIX.- De Atención al Adulto Mayor.
 > <small>(ADICIONADA, P.O. 12 DE ENERO DE 2002)</small>
 
 XX.- De Ecología y Medio Ambiente.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2004)</small>
+
+XXI. De Turismo.
 
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
@@ -1980,3 +1984,9 @@ Una vez iniciado el Periodo Ordinario de Sesiones, dentro del Primer Año de Eje
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
