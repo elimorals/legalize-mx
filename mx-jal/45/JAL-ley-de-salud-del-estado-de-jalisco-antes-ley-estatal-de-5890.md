@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1990-04-07"
+last_updated: "1999-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -861,6 +861,8 @@ La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la D
 
 #### SECCION SEGUNDA. Del programa contra el tabaquismo
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1999)</small>
+
 ###### Art. 92.
 
 Para los efectos de esta Ley, se considera usuario de los servicios de salud, a toda persona que requiera y obtenga, los que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que, para cada modalidad, se establezcan en esta Ley y demás disposiciones legales aplicables.
@@ -1151,7 +1153,13 @@ El Gobierno del Estado, dentro de su jurisdicción territorial, se coordinará c
 
 ###### Art. 128.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución, en el territorio del Estado, del programa contra el tabaquismo, en los términos y acciones que señalan los Arts. del 188 al 190 de la Ley General de Salud.
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución del programa contra el tabaquismo, en los términos y acciones que señalan los artículos del 188 al 190 de la Ley General de Salud.
+
+Dicha coordinación comprenderá entre otras acciones la educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos y la prohibición de fumar en lugares cerrados de los edificios públicos, con excepción de las áreas restringidas reservadas en ellos para los fumadores.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1999)</small>
+
+Art. 128 bis. El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco promoverá acuerdos de coordinación con los ayuntamientos para la ejecución de las acciones que se desprendan del programa contra el tabaquismo.
 
 ###### Art. 129.
 
@@ -2164,3 +2172,7 @@ Lic. Héctor F. Castañeda Jiménez
 P.O. 7 DE ABRIL DE 1990.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 12 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
