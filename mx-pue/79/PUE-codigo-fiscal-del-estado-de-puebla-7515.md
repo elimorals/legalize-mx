@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1991-08-02"
+last_updated: "1991-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1991.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -49,9 +49,11 @@ CODIGO FISCAL DEL ESTADO DE PUEBLA
 
 La Hacienda Pública para atender los gastos del Estado percibirá en cada ejercicio las contribuciones, productos, aprovechamientos y participaciones que determinen las leyes fiscales y en su caso las donaciones, legados, herencias y reintegros que se hicieren a su favor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 2.
 
-Los ingresos del Estado se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos y participaciones.
+Los ingresos del Estado y sus Organismos Auxiliares se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos y participaciones.
 
 Son ingresos extraordinarios aquellos cuya percepción se decreta excepcionalmente para proveer el pago de gastos e inversiones accidentales o especiales del Estado.
 
@@ -65,21 +67,35 @@ Los productos además de las leyes mencionadas, se regularán por lo que preveng
 
 Las contribuciones se clasifican en impuestos y derechos.
 
-Son impuestos las prestaciones en dinero que el Estado fija unilateralmente y con carácter general y obligatorio a todos aquellos sujetos cuya situación coincida con la que la ley señala como generado del crédito fiscal.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-Son derechos las contraprestaciones establecidas por el Poder Público, conforme a la Ley, en pago de servicios.
+Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho, prevista por la misma y que sean distintas a los derechos.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, incluso cuando se presten por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones a que se refiere el segundo párrafo del Artículo 33, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
 ###### ARTICULO 5.
 
 Son productos los ingresos que percibe el Estado por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, o por la explotación de sus bienes patrimoniales.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 6.
 
-Son aprovechamientos los recargos, las multas y los demás ingresos del Erario Estatal no clasificables como impuestos, derechos o productos.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados.
+
+Los recargos, las sanciones, los gastos de ejecución e indemnizaciones a que se refiere el segundo párrafo del Artículo 33 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 7.
 
-Son participaciones las cantidades que el Gobierno del Estado tiene derecho a percibir de los ingresos federales, en virtud de su adhesión al Sistema Nacional de Coordinación Fiscal.
+Son participaciones las cantidades que el Gobierno del Estado tiene derecho a percibir de los ingresos federales o municipales en virtud de su adhesión al Sistema Nacional de Coordinación Fiscal del Convenio de Colaboración Administrativa en Materia Fiscal Federal y Municipal.
 
 ###### ARTICULO 8.
 
@@ -167,9 +183,19 @@ Sólo podrá afectarse un ingreso estatal a un fin específico, cuando se cumpla
 
 Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico deberán ser autorizados por el Gobernador del Estado y dados a conocer a la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 16.
 
-Para efectos fiscales se consideran los plazos, días y horas hábiles así como la habilitación que de los mismos se haga, los que establece el Código Fiscal de la Federación.
+En los términos fijados en días, por disposición de la ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así aquéllos en que se encuentren abiertas al público, las oficinas durante el horario normal. En los términos fijados en períodos y aquellos en que se señala una fecha determinada para su extinción, se comprenderán para su cómputo los días inhábiles.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero, el 5 de febrero; el 21 de marzo; el 1o y el 5 de mayo; el 16 de septiembre; el 12 de octubre; el 1o y el 20 de noviembre; el 1o de Diciembre de cada 6 años cuando corresponda a la trasmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales, excepto cuando se trate de plazos para presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
@@ -199,15 +225,19 @@ III.- La vigencia y exigibilidad en cantidad líquida del derecho del crédito c
 
 ### CAPITULO I. DE LOS SUJETOS Y DE LOS RESPONSABLES SOLIDARIOS
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 19.
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral, mexicana o extranjera y las unidades económicas sin personalidad jurídica, que de acuerdo con las leyes está obligada al pago de una prestación determinada al fisco del Estado.
+Sujeto pasivo de un crédito fiscal, es la persona física o moral, mexicana o extranjera que de acuerdo con las leyes, está obligada al pago de un crédito fiscal determinado en favor del Erario Estatal.
 
 ###### ARTICULO 20.
 
 Son responsables solidarios:
 
-I. Quienes en los términos de las leyes están obligados al pago de una misma prestación fiscal.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+I.- Quienes en los términos de las leyes están obligados al pago de un crédito fiscal.
 
 II. Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
 
@@ -221,15 +251,21 @@ VI. Los terceros que para garantizar los créditos fiscales de otros, constituya
 
 VII. Los servidores públicos, notarios y corredores que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento en que se consignen actos, convenios, contratos u operaciones, si no se cercioran de que se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes.
 
-VIII. Las personas físicas o morales, o las unidades económicas que adquieran bienes o negociaciones que reporten créditos exigibles a favor del Estado y que correspondan a períodos anteriores a la adquisición.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-IX. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso, hasta donde alcancen los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los causantes con quienes operen en relación con dichos bienes fideicomitidos.
+VIII.- Las personas físicas o morales que adquieran bienes o negociaciones que reporten créditos exigibles a favor del Estado que correspondan a períodos anteriores a la adquisición, sin que la responsabilidad exceda del valor de la misma.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+IX.- Las Instituciones de Crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso, hasta donde alcancen los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen en relación con dichos bienes fideicomitidos.
 
 X. Los representantes de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos, dispongan de ellos antes de que transcurra el plazo de presentación.
 
 XI.- Las demás personas que señalen las leyes fiscales.
 
-En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales, por tanto, el fisco puede exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+La responsabilidad solidaria comprenderá la totalidad de los créditos fiscales con excepción de las multas, por tanto, el Fisco puede exigir de cualquiera de ellos, simultánea o separadamente el cumplimiento de las obligaciones fiscales. Lo dispuesto en este párrafo no impide que los responsables puedan ser sancionados por actos u omisiones propios.
 
 ###### ARTICULO 21.
 
@@ -247,9 +283,21 @@ a) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
 
 b) El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales, en todo lo que se relacione con éstas.
 
-c) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-II. En el caso de las personas morales y unidades económicas sin personalidad jurídica:
+c).- Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+d).- Cuando realicen la prestación de servicios personales independientes, el local que utilicen como base fija para el desempeño de sus labores.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+e).- A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+II.- En el caso de personas morales:
 
 a) El lugar en el que esté ubicado el negocio o donde se encuentre establecida la administración del mismo.
 
@@ -257,9 +305,9 @@ b) Si existen varios establecimientos, en donde se encuentre la administración 
 
 c) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-III.- Si se trata de Sucursales o Agencias de negociaciones radicadas fuera del territorio del Estado de Puebla, el lugar en el que se establezcan.
+III.- Si se trata de Sucursales o Agencias establecidas en territorio del Estado de Puebla, cuya matriz se localice fuera del mismo, el lugar en que se genere la obligación fiscal.
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
@@ -289,7 +337,9 @@ III.- Pagar las contribuciones que les correspondan en los términos que dispong
 
 IV.- Expedir documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, con los requisitos fiscales que las mismas señalan.
 
-V.- Conservar la documentación comprobatoria de las operaciones gravadas por las Leyes Fiscales del Estado.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+V.- Conservar la documentación comprobatoria de las operaciones gravadas por las Leyes Fiscales del Estado, durante un plazo de cinco años.
 
 VI.- Proporcionar a las Autoridades Fiscales los datos e informaciones que se le soliciten, dentro del plazo fijado para ello.
 
@@ -308,6 +358,10 @@ La modificación de las declaraciones a que se refiere el párrafo anterior, se 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
 Cuando en las disposiciones fiscales no se señalen plazos para la presentación de declaraciones, se tendrá por establecido el de 15 días el que se contará a partir del día siguiente a aquél en que se realice el hecho del que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Los avisos y documentos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
 
 ### CAPITULO IV. DE LAS PROMOCIONES
 
@@ -401,9 +455,11 @@ El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y n
 
 El pago de las contribuciones y sus accesorios se pagarán en las oficinas recaudadoras del domicilio fiscal del contribuyente o en las que autorice para tal efecto la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 35.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco del Estado por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 50% mayor de la tasa que mediante Ley fije anualmente el Congreso de la Unión.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco del Estado por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 100 % mayor a la tasa que mediante ley fije anualmente el Congreso de la Unión.
 
 Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
@@ -481,7 +537,9 @@ d) Contener la firma del servidor público competente que la emite y en su caso 
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará además, la causa legal de la misma.
 
-V.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las Autoridades Fiscales, así como imponer las sanciones que este Código señale.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+V.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales del Estado.
 
 VI.- Autorizar el pago en parcialidades de contribuciones omitidas y sus accesorios, bajo los requisitos siguientes:
 
@@ -497,15 +555,29 @@ Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluy
 
 Cesará la autorización para el pago en parcialidades y el crédito fiscal será inmediatamente exigible cuando deje de cubrirse alguna de las parcialidades.
 
-VII.- Verificar el cumplimiento de las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-VIII.- Determinar la existencia de un crédito fiscal, dar las bases de su liquidación o fijarlo en cantidad líquida.
+VII.- Comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como comprobar la comisión de infracciones y delitos fiscales y proporcionar información a otras autoridades; para tales efectos podrán:
 
-IX.- Practicar visitas en el domicilio de los sujetos, a fin de revisar los sistemas, libros, registros y demás documentación que integre su contabilidad.
+a).- Rectificar los errores aritméticos que aparezcan en las declaraciones.
 
-X.- Proceder a la verificación física, clasificación, valuación o comprobación de toda clase de bienes.
+b).- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran.
 
-XI.- Requerir a los sujetos toda clase de documentación relacionada con el cumplimiento de sus obligaciones fiscales.
+c).- Practicar actos de verificación y visitas a los contribuyentes, los responsables solidarios o terceros con ellos relacionados y revisar su contabilidad, bienes y mercancías.
+
+d).- Practicar u ordenar que se practique avalúo o verificación física de toda clase de bienes.
+
+e).- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales.
+
+Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+
+VIII.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
+
+IX.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
+
+X.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
+
+XI.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
 
 XII.- Recabar de los servidores públicos y de los fedatarios, los datos e informes que posean con motivo de sus funciones.
 
@@ -519,9 +591,7 @@ c) Denuncia por desobediencia a un mandato legítimo de Autoridad competente.
 
 XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1988)
 
-XV.- Recabar las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales.
-
-En todo caso las actuaciones que practique la Secretaría de Finanzas, tendrán pleno valor probatorio.
+XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
@@ -557,9 +627,11 @@ III.- Embargar precautoriamente, los bienes o la negociación, en términos de l
 
 Y FISCALIZACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 42.
 
-Para los efectos a que se refiere la fracción IX del Artículo anterior, se deberán observar las siguientes disposiciones:
+Para los efectos a que se refiere el artículo 41 fracción VII, inciso c, se deberán observar las siguientes reglas:
 
 I.- Los actos de verificación y las visitas domiciliarias deberán iniciarse mediante escrito debidamente fundado y motivado, emitido por Autoridad competente.
 
@@ -571,39 +643,95 @@ Cuando se ignore el nombre de la persona que deba ser visitada, se señalarán d
 
 IV.- Se deberá indicar el nombre de las personas que practicarán la diligencia, las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la Autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+
 V.- Se deberán indicar las contribuciones sujetas a revisión y en su caso los ejercicios a que deberá limitarse la visita.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 43.
 
-Las visitas domiciliarias se realizarán conforme a lo siguiente:
+En el inicio de la visita domiciliaria deberán acatarse las siguientes disposiciones:
 
 I.- Se realizarán en el lugar o lugares señalados en la orden de visita, entregando la misma al visitado o a su representante legal, si no estuvieran presentes a quien se encuentre en el lugar en que debe practicarse la diligencia.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Si el contribuyente presenta aviso de cambio de domicilio, después de recibida la orden, la visita podrá llevarse a cabo en el nuevo domicilio y en el anterior, cuando el visitado conserve el local de éste sin que para ello se requiera nueva orden o ampliación de la misma, haciendo constar tales hechos en el acta que levanten.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+La visita podrá llevarse a cabo en el lugar en que se encuentre el contribuyente cuando éste no ocupe el último domicilio fiscal manifestado.
+
 II.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta inicial que se levante, sin que esta circunstancia invalide los resultados de la visita.
 
-Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se está llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia, o por manifestar su deseo de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-III.- Las Autoridades Fiscales podrán solicitar el auxilio de otras Autoridades Fiscales que sean competentes, para que continúen una visita iniciada por aquellas notificando al visitado la sustitución de autoridad y de visitadores. También podrán solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar en el que se está llevando a cabo la visita, por ausentarse de él antes de que concluya el levantamiento del acta respectiva, o por manifestar el deseo de dejar de ser testigo, en tales circunstancias la persona con quien se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes que practiquen visitas, para comprobar hechos relacionados con las que aquéllas estén realizando.
 
 IV.- Los visitados, sus representantes o la persona con quien se entienda, la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las Autoridades Fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita.
 
-V.- La Autoridad Fiscal autorizará recoger la contabilidad y documentación relativa para examinarla en sus Oficinas, cuando al inicio y durante el transcurso de la visita, el visitado o con quien se entienda la diligencia se niegue a recibir la orden, les impida el acceso o realice cualquier maniobra que ponga en peligro el inicio, desarrollo y culminación de la visita.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-VI.- Cuando concurra el supuesto anterior los visitadores deberán levantar acta parcial circunstanciada, continuándose el ejercicio de las facultades de comprobación en las oficinas de las Autoridades Fiscales.
+V.- Los visitadores podrán recoger la contabilidad para examinarla en las oficinas de las autoridades fiscales cuando se dé algunos de los siguientes supuestos:
+
+a).- El visitado, su representante o con quien se entienda la diligencia se niegue a recibir la orden.
+
+b).- Existan dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados.
+
+c).- No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período a que se refiere la visita.
+
+d).- Se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+
+e).- Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
+
+f).- Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares en los que se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+
+En los supuestos a que se refieren los incisos anteriores, se entenderá que la contabilidad incluye, entre otros los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
+
+En el caso en que los visitadores recojan la contabilidad, deberán levantar acta parcial al respecto, con la que se terminará la visita domiciliaria en el domicilio o establecimiento del visitado, continuándose el ejercicio de las facultades de comprobación en las oficinas de las autoridades fiscales, donde se levantará el acta final.
+
+VI.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 44.
 
 La visita en el domicilio fiscal se desarrollará conforme a las reglas siguientes:
 
-I.- Del inicio y del desarrollo de la visita, se levantarán actas circunstanciadas y al concluirse la misma será formulada acta final en la que se harán constar los resultados en forma circunstanciada.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-II.- Las actas a que se refiere la fracción anterior, invariablemente deberán ser firmadas por el visitado o con quienes se hayan entendido las diligencias, los testigos y los visitadores. Si el visitado o los testigos se niegan a firmar así se hará constar, sin que esta circunstancia afecte el valor probatorio de las mismas.
+I.- De toda visita en el domicilio fiscal se levantarán actas en las que se harán constar de manera circunstanciada los hechos u omisiones que se hubieren conocido por los vsitadores. (sic). Asimismo, se determinarán las consecuencias legales de tales hechos u omisiones, las que se podrán hacer constar en las mismas actas o en documento por separado.
 
-III.- Durante la visita los visitadores a fin de asegurar la contabilidad y documentación relativa al cumplimiento de las obligaciones fiscales, podrán indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto se formule. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-IV.- La consignación de hechos u omisiones en las actas efectuados por los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado no producirán efectos de resolución fiscal.
+II.- Las actas a que se refiere la fracción anterior, invariablemente deberán ser fimadas (sic) por el visitado o con quienes se haya entendido la visita, los testigos y los visitadores. Si el visitado o los testigos se niegan a firmar así se hará constar, sin que esta circunstancia afecte el valor probatorio de las mismas.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+III.- Durante la visita los visitadores a fin de asegurar la contabilidad y documentación relativa al cumplimiento de las obligaciones fiscales, podrán indistintamente, sellar o colocar marcas en dichos documentos, bienes o muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto se formule. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores quienes podrán sacar copia del mismo.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+IV.- Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado.
 
 V.- Cuando al verificar el cumplimiento de las obligaciones fiscales de los sujetos sea necesario recabar de terceros datos, informes o documentos relacionados con los hechos que se deban comprobar, una vez realizada la compulsa, la Autoridad Fiscal hará saber los resultados a dichos sujetos, para que dentro de los quince días hábiles siguientes manifiesten lo que a su derecho corresponda.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+VI.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se harán constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida. Formulada la liquidación, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+VII.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal, podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entienda la diligencia.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+VIII.- Si en el levantamiento del acta final de la visita, no estuviere presente el visitado o su representante, se dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entienda la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmar, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
 ###### ARTICULO 45.
 
@@ -617,13 +745,39 @@ III.- Que los depósitos en la cuenta bancaria del contribuyente que no correspo
 
 IV.- Que son ingresos que forman parte de la base gravable del contribuyente los depósitos hechos en cuentas de cheques de terceros cuando éstos efectúan pasos a cuenta del contribuyente y este último no los registre en su contabilidad.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 46.
 
-Los contribuyentes que no estén conformes con el resultado de la visita, podrán inconformarse con los hechos contenidos en el acta final, mediante escrito que deberán presentar ante la Autoridad Fiscal dentro de los cuarenta y cinco días siguientes a aquel en que se cerró.
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
 
-Al escrito de inconformidad se acompañarán en todo caso las pruebas documentales pertinentes y vinculadas a los hechos que pretendan desvirtuarse, siempre que no le hubiesen solicitado su presentación durante el desarrollo de la visita.
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
 
-Los hechos con los cuales el contribuyente no se inconforme dentro del plazo legal o haciéndolo no los hubiera desvirtuado con las pruebas a que se refiere el párrafo anterior, se tendrán por consentidos.
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 46 A.- Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros; informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+
+I.- La solicitud se notificará en el domicilio manifestado ante la autoridad fiscal a la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar en que ésta se encuentre.
+
+II.- En la solicitud se indicará el lugar y el plazo en los cuales se deben proporcionar los informes o documentos.
+
+III.- Los informes, libros y documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
+
+IV.- La resolución que notifique las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+ARTICULO 46 B.- En caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, se estará a lo siguiente:
+
+Se tendrán los siguientes plazos para su presentación:
+
+a).- Los libros y registros que formen parte de la contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
+
+b).- Seis días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+
+c).- Quince días contados a partir del siguiente a aquél el en (sic) que se le notificó la solicitud respectiva, en los demás casos.
+
+Los plazos a que se refiere este inciso se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil proporcionar o de conseguir.
 
 ###### ARTICULO 47.
 
@@ -655,13 +809,23 @@ A la base gravable estimada por alguno de los procedimientos anteriores, se le a
 
 En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea diferente al ingreso, se procederá de la manera siguiente:
 
-I.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio se determina la base gravable de la contribución, a ésta se le aplicará la tasa o tarifa correspondiente:
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
-II.- Si en base en la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la Autoridad Fiscal podrá tomarla de expedientes o documentos que lleven o tengan en su poder cualquier Autoridad u Organismo.
+I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo personal previsto en la Ley de Ingresos del Estado, se considerará que los omitidos son los que resultan de aplicar la tasa correspondiente a la cantidad equivalente a cuatro veces el salario mínimo general diario vigente en la zona económica, elevado al período que se revisa, por cada trabajador a su servicio.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+II.- Si en base a la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la Autoridad Fiscal podrá tomarla del expediente o documentos que lleven o tengan en su poder cualquier Autoridad u Organismo Público.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 51.
 
-Los actos y resoluciones de las autoridades fiscales se presumirán legales; sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el obligado los niegue lisa y llanamente, a menos que la negativa implique la negación de otro hecho.
+Los actos y resoluciones de las autoridades fiscales se presumirán legales; sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el obligado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
+
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
+
+Las copias de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
 ###### ARTICULO 52.
 
@@ -1087,7 +1251,9 @@ El interventor con cargo a la caja, tendrá las obligaciones siguientes:
 
 I.- Recuperar el monto del crédito fiscal adeudado, de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, después de separar las cantidades que correspondan por concepto de salarios.
 
-II.- Rendir cuentas a la oficina ejecutora y enterarlas en la caja de la propia oficina, a medida que se efectúe la recuperación del crédito.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+II.- Enterar diariamente ante la Oficina Ejecutora, el monto de lo recaudado y rendir cuenta mensual comprobada ante dicha Oficina.
 
 El interventor no podrá enajenar los bienes del activo fijo.
 
@@ -1135,7 +1301,9 @@ Cuando el embargado o terceros acreedores no interpongan el recurso dentro del p
 
 Cuando el dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, la Autoridad Ejecutora designará dentro del término de seis días, un perito tercero valuador. El avalúo que se fije por este tercero será la base para el remate de los bienes.
 
-En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles y veinte días si son inmuebles, a partir de la fecha de su designación.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+En todos los casos previstos en este artículo los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles: veinte días si son inmuebles y treinta días cuando sean negociaciones, contados a partir de la fecha de su designación.
 
 ###### ARTICULO 107.
 
@@ -1281,6 +1449,10 @@ Contra los actos de las Autoridades Fiscales del Estado, el afectado sólo podr�
 
 El recurso administrativo de revocación deberá ser interpuesto ante la Autoridad Fiscal que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquel en que haya surtido efectos la notificación del mismo.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+El recurso Administrativo de Revocación a que se refiere este capítulo deberá agotarse previamente antes de acudir a los tribunales judiciales competentes.
+
 ###### ARTICULO 131.
 
 La tramitación del recurso administrativo de revocación se sujetará además de lo dispuesto en el artículo 26 de este Código, a lo siguiente:
@@ -1295,11 +1467,17 @@ IV.- Acompañar las pruebas y mencionar los hechos controvertidos de que se trat
 
 V.- Acreditar la personalidad del recurrente, cuando no se gestione a nombre propio.
 
-VI.- Acompañar copia de la resolución o de la notificación que se impugne.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+VI.- Acompañar copia del documento en que conste el acto impugnado; así como de la constancia de notificaciones de éste, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
 
 ###### ARTICULO 132.
 
 Para la substanciación del recurso administrativo de revocación serán admisibles toda clase de pruebas, excepto la testimonial y la confesional de la Autoridad Fiscal mediante absolución de posiciones.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Harán prueba plena la confesión expresa del recurrente, presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por la autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que ante la autoridad que los expidió se hicieron tales declaraciones o manifestaciones pero no prueban la verdad de lo declarado o lo manifestado.
 
 ###### ARTICULO 133.
 
@@ -1315,15 +1493,37 @@ II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento 
 
 III.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+IV.- Que sean conexos a otros que hayan sido impugnados a través del presente recurso u otro medio de defensa diferente.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+V.- Si son revocados los actos por la autoridad.
+
 ###### ARTICULO 135.
 
-La Autoridad Fiscal al recibir el escrito de interposición del recurso administrativo de revocación, deberá remitirlo al Secretario de Finanzas en el término de los diez días siguientes a aquel en que lo recibió; acompañándolo en todo caso, del informe que sustente la actuación impugnada.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 136.
 
-El Secretario de Finanzas deberá dictar resolución en un término que no excederá de cuatro meses contados a partir de la fecha de interposición del recurso.
+La autoridad fiscal deberá dictar resolución en un término que no excederá de cuatro meses contados a partir de la fecha de interposición del recurso.
+
+El silencio de la Autoridad significará que se ha confirmado el acto impugnado.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+La resolución del recurso se fundará en Derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios: pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de éste.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideran violados y examinará en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios formulados por el recurrente sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que considera ilegal el acto precisando el alcance de su resolución; pero de ninguna manera se podrán revocar los actos administrativos en la parte no impugnada por el recurrente.
 
 ###### ARTICULO 137.
 
@@ -1341,7 +1541,9 @@ III.- Mandar reponer el procedimiento administrativo.
 
 IV.- Dejar sin efectos el acto impugnado.
 
-V.- Modificar el acto impugnado o dictar uno nuevo que lo substituya.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+
+V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
 T R A N S I T O R I O S
 
@@ -1406,3 +1608,7 @@ A partir del inicio de la vigencia del presente Decreto, se derogan las disposic
 P.O. 2 DE AGOSTO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE DICIEMBRE DE 1991.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y dos.
