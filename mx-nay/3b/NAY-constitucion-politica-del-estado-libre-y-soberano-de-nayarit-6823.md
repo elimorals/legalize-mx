@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1976-08-28"
+last_updated: "1977-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -737,11 +737,13 @@ III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes 
 
 IV.- Presentar a la Legislatura dentro de los primeros diez días del primer período de sesiones de cada año, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
 
-V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales públicos, haciendo las consignaciones que procedan al Ministerio Público.
+V.- (A). Cuidar de la legal recaudación e inversión de los caudales públicos del Estado, haciendo las consignaciones que procedan al Ministerio Público.
 
-(B). Visitar o hacer visitar, cuando lo juzgue conveniente las Oficinas Municipales para los efectos del párrafo anterior, y para estudiar sus necesidades fin de dar cuenta de su resultado al Congreso.
+(B). (DEROGADO, P.O. 12 DE MARZO DE 1977)
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 (C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;
 
@@ -1530,3 +1532,7 @@ Por este solo año, el Gobernador rendirá el Informe que previene el Artículo 
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MARZO DE 1977
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
