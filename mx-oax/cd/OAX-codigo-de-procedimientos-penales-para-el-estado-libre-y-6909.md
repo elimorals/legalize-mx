@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1980-08-09"
+last_updated: "1986-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1986.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1063,13 +1063,21 @@ Son correcciones disciplinarias:
 
 I.- El apercibimiento;
 
-II.- Multa de cien a mil pesos;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1986)</small>
 
-III.- La suspensión hasta por un mes; y
+II.- La multa de uno a dos salarios mínimos;
 
-IV.- Arresto hasta por quince días.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1986)</small>
 
-La multa, tratándose de obreros y jornaleros, no deberá de exceder del importe de su jornal o sueldo en una semana. Si se trata de un funcionario o de un empleado público, la multa se calculará en días de sueldo, no debiendo exceder de quince días. Esto último tendrá también aplicación cuando se trate de empleados particulares.
+III.- La suspensión hasta por 10 días;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1986)</small>
+
+IV.- Arresto hasta por 36 horas.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1986)</small>
+
+La multa, tratándose de obreros y jornaleros, no podrá ser mayor del importe de su salario o jornal de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente de un día de su ingreso. Si se trata de un servidor público, la multa se calculará en días de sueldo, no debiéndose exceder de 5 días. Esto último también tendrá aplicación cuando se trate de empleados particulares.
 
 ###### Art. 180.
 
@@ -1083,11 +1091,15 @@ Cuando las correcciones disciplinarias consistan en multas y recaigan sobre pers
 
 Los Tribunales, para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio:
 
-I.- La multa de doscientos a dos mil pesos;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1986)</small>
+
+I.- La multa de uno a dos salarios mínimos;
 
 II.- El auxilio de la fuerza pública; y
 
-III.- Arresto hasta por quince días.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1986)</small>
+
+III.- Arresto hasta por 36 horas.
 
 Si fuere insuficiente el apremio, se procederá contra el rebelde por desobediencia a un mandato legítimo de la autoridad.
 
@@ -1095,7 +1107,9 @@ Si fuere insuficiente el apremio, se procederá contra el rebelde por desobedien
 
 Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá en audiencia al interesado, si lo solicita dentro de las veinticuatro horas siguientes a la en que tenga conocimiento de ella.
 
-En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto, resolverá sin más trámite lo que estime procedente. Contra esta resolución no cabrá recurso alguno.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1986)</small>
+
+En vista de lo que manifieste el interesado, el Servidor Público que la hubiere impuesto, resolverá sin más trámite lo que estime procedente. Contra esta resolución no cabrá recurso alguno.
 
 ### CAPITULO IX
 
@@ -2089,7 +2103,7 @@ IV.- Para que las presunciones puedan tener valor, se requiere: a).- Que esté p
 
 V.- Cuando la única prueba aportada en autos sea la testimonial, no podrá dársele valor probatorio pleno, sino cuando reúna los siguientes requisitos: a).- Que sean dos cuando menos los testigos que declaren; b).- Que éstos convengan no sólo en la substancia sino también en los accidentes del acto que refieren, o aún cuando no convengan en estos últimos, no modifiquen la esencia del hecho; c).- Que haya oído pronunciar palabras, presenciado el acto, o visto el hecho material sobre qué deponen; d).- Que tengan capacidad legal para declarar; e).- Que dén razón fundada de su dicho;
 
-VI.- Tanto en el caso del artículo anterior, como en cualquier otro, los Tribunales, para apreciar la declaración del testigo tendrán en consideración: a).- Que el testigo sea capaz de declarar; b).- Que por su edad, capacidades física e intelectual, e instrucción, tenga el criterio necesario para juzgar del hecho sobre que declara; c).- Que por su propiedad, independencia de su posición y sus antecedentes personales, tenga completa imparcialidad; d).- Que el hecho de que se trate sea susceptible de ser conocido por medio de los sentidos, y que el testigo lo haya percibido por él mismo y no por induciones (sic) ni referencias de otro; e).- Que la declaración sea clara y precisa, sin duda ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales; f).- Que el testigo no haya sido obligado a declarar, por fuerza o miedo, ni impulsado por error, engaño o soborno. El apremio judicial no se reputa como fuerza;
+VI.-Tanto en el caso del artículo anterior, como en cualquier otro, los Tribunales, para apreciar la declaración del testigo tendrán en consideración: a).- Que el testigo sea capaz de declarar; b).- Que por su edad, capacidades física e intelectual, e instrucción, tenga el criterio necesario para juzgar del hecho sobre que declara; c).- Que por su propiedad, independencia de su posición y sus antecedentes personales, tenga completa imparcialidad; d).- Que el hecho de que se trate sea susceptible de ser conocido por medio de los sentidos, y que el testigo lo haya percibido por él mismo y no por induciones (sic) ni referencias de otro; e).- Que la declaración sea clara y precisa, sin duda ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales; f).- Que el testigo no haya sido obligado a declarar, por fuerza o miedo, ni impulsado por error, engaño o soborno. El apremio judicial no se reputa como fuerza;
 
 VII.- Para que los documentos privados puedan tener valor probatorio, deberán ser reconocidos por su autor, o que éste no los haya objetado a pesar de saber que figuran en el proceso.
 
@@ -3338,3 +3352,11 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 3 de diciembre de 1979.- EL SECRETARIO GENERAL DEL DESPACHO,- LIC. ALBERTO CANSECO RUIZ.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 26 DE JULIO DE 1986.
+
+PRIMERO.- Se derogan todas las disposiciones que contravengan el contenido de este Decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
