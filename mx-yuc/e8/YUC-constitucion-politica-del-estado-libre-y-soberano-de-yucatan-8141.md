@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1995-05-31"
+last_updated: "1997-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 1997.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -66,6 +66,10 @@ II.- a contribuir para los gastos públicos de la manera que dispongan las Leyes
 III.- a desempeñar los cargos concejiles, y a prestar los otros servicios públicos que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra calamidad pública; y
 
 IV.- a inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan.
+
+> <small>(ADICIONADA, D.O. 12 DE DICIEMBRE DE 1997)</small>
+
+V.- A hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación primaria y secundaria.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -487,21 +491,25 @@ XIII.- conceder amnistías por los delitos cuyo conocimiento pertenezca exclusiv
 
 XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 1997)</small>
 
-XV.- expedir Leyes sobre Educación Pública, con sujeción a las bases siguientes:
+XV.- Expedir leyes sobre Educación Pública, con sujeción a las bases siguientes:
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+a) La educación que imparta el Estado será: nacionalista, democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la Nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y la continuidad y acrecentamiento de nuestra cultura y además será laica manteniéndose ajena a cualquier doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos; el criterio que orientará a esta educación se basará en los resultados del progreso científico y tecnológico y luchará contra la ignorancia y sus efectos;
 
-a) la educación que imparta el Estado será: Nacionalista, Democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y, la continudad (sic) y acrecentamiento de nuestra cultura y, además de excluir toda doctrina religiosa combatirá el fanatismo y los perjuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el artículo tercero de la Constitución General de la República.
+b) No podrán funcionar planteles particulares de Educación sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público.
 
-b) no podrán funcionar planteles particulares de educación sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público;
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares; en el caso de la educación primaria, secundaria y normal, los particulares deberán:
 
-c) la educación primaria será obligatoria y el Estado la impartirá gratuitamente;
+Impartir la educación con los mismos fines y criterios que establece la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, así como cumplir los planes y programas que la propia Constitución Federal establece en la fracción III de su Artículo 3o.
 
-d) la educación secundaria que imparta el Estado será gratuita; y
+c) El Estado impartirá educación preescolar, primaria y secundaria; la educación primaria y secundaria son obligatorias y el Estado las impartirá gratuitamente;
 
-e) la educación preparatoria y la profesional, serán o no gratuitas, según lo determinen las Leyes;
+d) La educación preparatoria y la profesional, serán o no gratuitas según lo determinen las leyes;
+
+e) Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la Educación Superior necesaria para el desarrollo de la Nación y el Estado, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura; y
+
+f) Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del Artículo 123 de la Constitución General de la República, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
 
 > <small>(ADICIONADA, D.O. 12 DE MARZO DE 1993)</small>
 
@@ -565,7 +573,7 @@ XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no 
 
 > <small>(ADICIONADA, D.O. 12 DE MARZO DE 1993)</small>
 
-XXIX Bis.- Determinar el ámbito territorial de los distritos electorales del estado;
+XXIX Bis.- determinar el ámbito territorial de los distritos electorales del estado;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -573,9 +581,7 @@ XXX.- nombrar el día anterior al de la clausura de cada período de sesiones or
 
 XXXI.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-XXXII.- determinar según las necesidades locales, el número máximo de Ministros de los cultos que puedan ejercer en el Estado;
+XXXII.- (DEROGADA, D.O. 12 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -617,7 +623,7 @@ XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
-XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva,
+XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva;
 
 > <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
@@ -1487,11 +1493,9 @@ La asistencia social de los niños desamparados y de los mayores física o intel
 
 El matrimonio es una institución jurídica dirigida a organizar la reproducción humana en el sentido de lograr generaciones física e intelectualmente capacitadas para la convivencia. El Estado reconoce que es de vital interés para la sociedad que en la unión de hombre y mujer para la procreación, se establezcan límites en cuanto a edad y salud física y psíquica, para evitar la degeneración de la especie. Se procurará la instalación de clínicas gratuitas para difundir los principios de la higiene sexual y para la esterilización voluntaria de quienes por sus antecedentes personales se reconozcan en peligro de engendrar seres débiles o anormales.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
-
 ###### Artículo 95.
 
-Son indeseables las instituciones religiosas que difunden, teorías de premios y castigos ultraterrenos, compensadores de las injusticias sociales, y conceptos tendientes a erigir el dolor en norma de conducta apropiada para un bienestar ulterior. El Estado combatirá el fanatismo religioso y evitará que se tome como pretexto la asistencia social dada a título de caridad religiosa, para atraer prosélitos a favor de algún credo.
+(DEROGADO, D.O. 12 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO, D.O. 31 DE MARZO DE 1988)</small>
 
@@ -2116,3 +2120,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O. 31 DE MAYO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 12 DE DICIEMBRE DE 1997.
+
+DECRETO 122 QUE REFORMA LOS ARTICULOS 3 Y 30.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 12 DE DICIEMBRE DE 1997.
+
+DECRETO 123 QUE DEROGA LA FRACCION XXXII DEL ARTICULO 30, Y EL ARTICULO 95.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
