@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-obras-publicas-del-estado-de-28524"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-27"
-last_updated: "1999-09-27"
+last_updated: "2002-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 27 de septiembre de 1999.
 
@@ -161,7 +161,7 @@ VIII. Testimonio de la Escritura Constitutiva y reformas en su caso;
 
 IX. Inscripción en el Registro Federal de Contribuyentes, registro en el Instituto Mexicano del Seguro Social (IMSS), así como en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT);
 
-X. Registro vigente de la Cámara a la que se encuentre afiliado de a cuerdo a la especialidad en que desee ser inscrito;
+X. (DEROGADA, P.O. 3 DE DICIEMBRE DE 2002)
 
 XI. Pago de los derechos correspondientes; y,
 
@@ -533,7 +533,7 @@ III. En las bases o invitaciones se indicarán, como mínimo, los aspectos que c
 
 IV. Los interesados que acepten participar lo manifestarán por escrito y quedarán obligados a presentar su proposición;
 
-IV. Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos; y,
+IV.- Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos; y,
 
 VI. A las demás disposiciones de la licitación pública que en lo conducente resulten aplicables.
 
@@ -615,7 +615,7 @@ La recepción de las obras corresponde a la Dependencia Entidad, Ayuntamiento o 
 
 ###### ARTICULO 51.
 
-Concluída la obra y no obstante su recepción formal, quedarán a salvo los derechos de las Dependencias, Entidades, Ayuntamientos o Entidades Paramunicipales, para exigir el pago de las cantidades no cubiertas de a (sic) indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a la Ley y este Reglamento.
+Concluida la obra y no obstante su recepción formal, quedarán a salvo los derechos de las Dependencias, Entidades, Ayuntamientos o Entidades Paramunicipales, para exigir el pago de las cantidades no cubiertas de a (sic) indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a la Ley y este Reglamento.
 
 ###### ARTICULO 52.
 
@@ -651,7 +651,7 @@ II. El programa de utilización de recursos humanos deberá consignar la especia
 
 III. El programa de utilización de la maquinaria y equipo de construcción, deberá consignar las características del mismo, capacidad, número de unidades y total de horas efectivas de utilización, calendarizadas por semana o mes.
 
-Los órganos de control interno de las Dependencias y Entidades, verificarán que se dé estricto cumplimiento a la realización de las acciones señaladas para las obras por administración directa.
+Los órganos de control interno de las Dependencias y Entidades, verificarán que se de estricto cumplimiento a la realización de las acciones señaladas para las obras por administración directa.
 
 ###### ARTICULO 58.
 
@@ -665,7 +665,7 @@ III. De las construcciones e instalaciones provisionales destinadas a servicios 
 
 El presupuesto a que se refiere este artículo no podrán incluirse cargos por imprevistos, erogaciones adicionales o de índole similar.
 
-Se entenderá por costo unitario, el correspondiente a la suma de cargos por concepto de materiales, mano de obra y utilización de maquinaria, así como equipo de construcción sea propio o rentado.
+Se entenderá por costo unitario, el correspondiente a la suma de cargos por concepto de materiales, mano de obra y utiIización de maquinaria, así como equipo de construcción sea propio o rentado.
 
 ### Capítulo VI. De las Inconformidades y del Recurso Administrativo de Revocación
 
@@ -689,4 +689,12 @@ SEGUNDO: Se derogan todas las disposiciones que se opongan al contenido del pres
 
 Morelia, Michoacán, a 26 de Agosto de 1999.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.- C.P. OSCAR MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATIVO.- (Firmados).
+SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARlClO MENDOZA.- SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.- C.P. OSCAR MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMlNlSTRATlVO.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2002.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones administrativas en lo que se opongan al presente Decreto.
