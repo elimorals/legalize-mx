@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2004-11-17"
+last_updated: "2004-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE DICIEMBRE DE 2004 Y EL 15 DE JUNIO DE 2005 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2004.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE DICIEMBRE DE 2004.</small>
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -2593,28 +2593,42 @@ DECRETO No. 314, POR EL QUE SE ADICIONA LA DENOMINACIÓN DEL CAPÍTULO TERCERO, 
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE DICIEMBRE DE 2004 Y EL 15 DE JUNIO DE 2005 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 17 DE NOVIEMBRE DE 2004.
 
 PRIMERO.- Publicado que sea el presente Decreto, por una sola vez, en el Periódico Oficial, Órgano del Gobierno del Estado, con las condiciones y los plazos que deberán cumplirse en su oportunidad y que están previstas en los siguientes artículos transitorios, entrará en vigor el día 1º de enero de 2005.
 
-SEGUNDO.- El Consejo (sic) Congregacional que en términos de la Ley Orgánica del Municipio se elija en el transcurso del presente año, concluirá sus funciones el 31 de diciembre de 2004.
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-TERCERO.- A más tardar el 25 de noviembre de 2004 la Legislatura del Estado elegirá un presidente, un síndico y diez regidores, con sus respectivos suplentes del Consejo (sic) Municipal. A más tardar el 18 de noviembre de 2004 las fracciones parlamentarias representadas en la Legislatura, harán las correspondientes propuestas al Pleno.
+SEGUNDO.- El Concejo Congregacional que en términos de la Ley Orgánica del Municipio se elija en el transcurso del presente año, concluirá sus funciones el 31 de diciembre de 2004.
 
-CUARTO.- Para ser miembro del Consejo (sic) Municipal deberán reunirse los requisitos previstos en el artículo 15 fracciones I, II, III, V, VI, VII, VIII y IX de la Ley Electoral del Estado.
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-QUINTO.- El Consejo (sic) Municipal de Santa María de la Paz, concluirá sus funciones el día 15 de septiembre del año 2007, fecha en que entrará en ejercicio el Ayuntamiento electo en el proceso comicial respectivo.
+TERCERO.- A más tardar el 25 de noviembre de 2004 la Legislatura del Estado elegirá un presidente, un síndico y diez regidores, con sus respectivos suplentes del Concejo Municipal. A más tardar el 18 de noviembre de 2004 las fracciones parlamentarias representadas en la Legislatura, harán las correspondientes propuestas al Pleno.
 
-SEXTO.- A partir del 1º de enero de 2005 no habrá ninguna autoridad intermedia entre el Consejo (sic) Municipal de Santa María de la Paz y el Gobierno del Estado.
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-SÉPTIMO.- Al aprobarse en el mes de Diciembre de 2004 las Leyes de Ingresos y el Presupuesto de Egresos, las instancias correspondientes harán las previsiones necesarias para que el Municipio de Santa María de la Paz cuente a partir del año 2005, con su propia Ley de ingresos y Presupuesto de Egresos que administrará el Consejo (sic) Municipal, el que deberá rendir cuentas en los términos que lo hacen los demás municipios.
+CUARTO.- Para ser miembro del Concejo Municipal deberán reunirse los requisitos previstos en el artículo 15 fracciones I, II, III, V, VI, VII, VIII y IX de la Ley Electoral del Estado.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+QUINTO.- El Concejo Municipal de Santa María de la Paz, concluirá sus funciones el día 15 de septiembre del año 2007, fecha en que entrará en ejercicio el Ayuntamiento electo en el proceso comicial respectivo.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+SEXTO.- A partir del 1º de enero de 2005 no habrá ninguna autoridad intermedia entre el Concejo Municipal de Santa María de la Paz y el Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+SÉPTIMO.- Al aprobarse en el mes de Diciembre de 2004 las Leyes de Ingresos y el Presupuesto de Egresos, las instancias correspondientes harán las previsiones necesarias para que el Municipio de Santa María de la Paz cuente a partir del año 2005, con su propia Ley de ingresos y Presupuesto de Egresos que administrará el Concejo Municipal, el que deberá rendir cuentas en los términos que lo hacen los demás municipios.
 
 OCTAVO.- Al inicio de vigencia del presente Decreto se convierten en patrimonio del Municipio de Santa María de la Paz, los bienes muebles, recursos financieros y pasivos, así como los inmuebles que localizados dentro del polígono referido en este Decreto, formaban parte de la propiedad raíz del Municipio de Teúl de González Ortega.
 
 NOVENO.- Los regímenes de propiedad derivados de resoluciones agrarias, o de cualquier otra modalidad de propiedad, localizadas dentro del polígono del Municipio de Santa María de la Paz conservarán su situación, de conformidad con el título legal que les dio origen.
 
-DÉCIMO.- En un plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, deberán hacerse las reformas necesarias a las leyes que así lo requieran. En el mismo plazo, el Consejo (sic) Municipal de Santa María de la Paz deberá expedir su Bando de Policía y Gobierno, y los reglamentos que se requieran. En tanto ello ocurre, continuará aplicándose en lo conducente, el Reglamento de la Congregación Municipal de Ignacio Allende.
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-DÉCIMO PRIMERO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Consejo (sic) Municipal de Santa María de la Paz elaborará el padrón de contribuyentes del Municipio.
+DÉCIMO.- En un plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, deberán hacerse las reformas necesarias a las leyes que así lo requieran. En el mismo plazo, el Concejo Municipal de Santa María de la Paz deberá expedir su Bando de Policía y Gobierno, y los reglamentos que se requieran. En tanto ello ocurre, continuará aplicándose en lo conducente, el Reglamento de la Congregación Municipal de Ignacio Allende.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+DÉCIMO PRIMERO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Concejo Municipal de Santa María de la Paz elaborará el padrón de contribuyentes del Municipio.
