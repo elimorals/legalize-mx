@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,25 +20,27 @@ abbreviation: "LCF"
 ---
 # LEY DE COORDINACION FISCAL
 
-LEY DE COORDINACION FISCAL
+LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICAD EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
 
-Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
+Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-DECRETO:
+CONSIDERANDO...
 
-"El Congreso de los Estados Unidos Mexicanos, decreta:
+Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57, 63 fracciones I y II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69 fracciones I y II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
-LEY DE COORDINACION FISCAL
+LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-### CAPITULO I. De las Participaciones de los Estados, Municipios y Distrito Federal en Ingresos Federales
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 1o.
 
@@ -236,21 +238,149 @@ La compensación entre el derecho de las Entidades y de los Municipios a recibir
 
 En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
 
-### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
+###### Artículo 1.
 
-###### ARTICULO 10.
+Las disposiciones de esta Ley son de orden público y de observancia general en el territorio del Estado de Puebla.
 
-Los Estados que deseen adherirse al Sistema Nacional de Coordinación Fiscal para recibir las participaciones que establezca esta Ley, lo harán mediante convenio que celebren con la Secretaría de Hacienda y Crédito Público, que deberá ser autorizado o aprobado por su Legislatura. También, con autorización de la Legislatura podrán dar por terminado el convenio.
+###### Artículo 2.
 
-La Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de que se trate, ordenarán la publicación en el "Diario Oficial" de la Federación y en el Periódico Oficial del Estado, respectivamente, del convenio celebrado, por el cual el Estado se adhiera; del acto por el que se separe del sistema; y de los decretos de la Legislatura del Estado por los cuales se autoricen o aprueben dichos actos, que surtirán efectos a partir del día siguiente a la publicación que se efectúe en último lugar.
+La presente Ley tiene por objeto:
 
-La adhesión al Sistema Nacional de Coordinación Fiscal deberá llevarse a cabo integralmente y no sólo en relación con algunos de los ingresos de la Federación.
+I. Normar la integración, organización y funcionamiento del catastro;
 
-El Distrito Federal queda incorporado al Sistema Nacional de Coordinación Fiscal.
+II. Establecer las autoridades catastrales en el Estado y sus atribuciones;
 
-Los Estados que no deseen adherirse al Sistema Nacional de Coordinación Fiscal, participarán en los impuestos especiales a que se refiere el inciso 5o. de la fracción XXIX, del artículo 73 constitucional, en los términos que establecen las leyes respectivas.
+III. Regular las acciones de coordinación entre los diversos niveles de gobierno, así como entre las Dependencias y Entidades de la Administración Pública Estatal en las que incida la función catastral;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+IV. Normar las obligaciones que en materia de Catastro les corresponden a los propietarios o poseedores de predios, así como a toda persona física o moral y demás obligados que realicen funciones relacionadas con la actividad catastral;
+
+V. Determinar y regular las formas, términos y procedimientos a que se sujetarán las operaciones catastrales que se realicen en el Estado;
+
+VI. Prever las infracciones a las disposiciones en materia catastral, así como sus sanciones; y
+
+VII. Establecer la aclaración y el recurso administrativo de revisión en materia catastral.
+
+###### Artículo 3.
+
+Para efectos de la presente Ley, el Catastro es el sistema de información territorial de uso multifinalitario; integrado por registros, tanto gráficos, geométricos, vectoriales y raster, así como numéricos o alfanuméricos, los cuales contienen datos referentes al inventario de los predios, así como de infraestructura y equipamiento urbano, su entorno y toda aquélla susceptible de ser inventariada, ubicada en el territorio del Estado.
+
+La formación y conservación del Catastro, es de interés y utilidad pública.
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 4.
+
+El Catastro, tiene los siguientes objetivos generales:
+
+I. Identificar en la cartografía catastral los predios ubicados en el territorio del Estado;
+
+II. Contener y mantener actualizada la información relativa a las características cuantitativas y cualitativas de los predios ubicados en el territorio del Estado;
+
+III. Servir de base para la determinación de los valores catastrales de los predios ubicados en el territorio del Estado, los cuales deben establecerse conforme a la zonificación catastral y a las tablas de valores unitarios de suelo y construcción autorizadas a los Municipios por el Congreso del Estado.
+
+Dichos valores servirán entre otros fines, para calcular las contribuciones sobre la propiedad inmobiliaria, fraccionamiento de ésta, división, consolidación, traslación, mejora y cualquier otra afectación que tenga como base el valor de los predios;
+
+IV. Integrar y mantener actualizada la cartografía catastral de los predios ubicados en el territorio del Estado;
+
+V. Integrar y mantener actualizado el inventario de la infraestructura y equipamiento urbano del Estado;
+
+VI. Compilar la información técnica para coadyuvar con las autoridades competentes en la definición y determinación de los límites del territorio del Estado y sus Municipios; y
+
+VII. Impulsar la aplicación multifinalitaria de la cartografía urbana y rústica de los Municipios, así como coadyuvar con éstos en su generación, actualización y procesamiento.
+
+###### Artículo 5.
+
+La información catastral podrá ser utilizada con fines fiscales, administrativos, urbanísticos, históricos, jurídicos, económicos, sociales, estadísticos, de planeación y de investigación geográfica, entre otros.
+
+###### Artículo 6.
+
+La aplicación de la presente Ley, corresponde al Gobierno del Estado y los Municipios a través de sus autoridades catastrales, en el ámbito de sus respectivas competencias.
+
+###### Artículo 7.
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Avalúo catastral.- El documento expedido por la autoridad catastral que consigna el valor catastral o catastral provisional de un predio, conforme a lo dispuesto en esta Ley;
+
+II. Avalúo comercial.- El documento que contiene el dictamen técnico que estima el precio y valor de un predio a una fecha determinada, conforme a las reglas del mercado inmobiliario y a lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
+III. Cédula catastral.- El documento con el que se comprueba la información con la que está registrado un predio en el catastro;
+
+IV. Clave catastral.- El conjunto de caracteres numéricos, que asigna la autoridad catastral de manera única a un predio para su identificación en el catastro, la cual se integrará de acuerdo con la normatividad que para tal efecto emita y publique el Instituto;
+
+V. Construcción.- La obra de cualquier tipo, destino o uso y que consta de cimientos o sin ellos, muros, paredes y techos, inclusive los equipos o instalaciones adheridas permanentemente y que forman parte integrante de ella;
+
+VI. Construcción provisional.- Edificación que por sus características sólo será registrada en la cartografía catastral;
+
+VII. Dependencias.- Las que con ese carácter se encuentran previstas en la Ley Orgánica de la Administración Pública del Estado;
+
+VIII. Entidades.- Las que conforman la Administración Pública Paraestatal a que se refieren la Ley de Entidades Paraestatales del Estado de Puebla y la Ley Orgánica de la Administración Pública del Estado de Puebla;
+
+IX. Gobierno del Estado.- La Administración Pública Estatal representada por el Poder Ejecutivo;
+
+X. Gobierno Municipal.- El Ayuntamiento del Municipio de que se trate;
+
+XI. Información territorial.- Conjunto de mapas, planos, documentos y bases de datos producto de la investigación científica del territorio, que contienen de manera pormenorizada sus aspectos geográficos, catastrales, topográficos, toponímicos, políticos, económicos, sociales y culturales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+XII. Instituto.- El Instituto Registral y Catastral del Estado de Puebla;
+
+XIII. Ley.- La Ley de Catastro del Estado de Puebla;
+
+XIV. Lote.- Superficie de terreno cuyos linderos forman un perímetro continuo, delimitado física o legalmente;
+
+XV. Manzana.- Superficie formada por uno o varios predios colindantes, delimitados por vías públicas;
+
+XVI. Municipio.- Los 217 Municipios que conforman la Entidad, previstos en la Ley Orgánica Municipal;
+
+XVII. Padrón catastral.- Base de datos que contiene información de los predios inscritos en los registros catastrales;
+
+XVIII. Predio.- Terreno o lote unitario, con o sin construcciones, cuyos linderos forman un perímetro;
+
+XIX. Predio rústico.- El que se ubica fuera de las zonas urbanas y suburbanas y se destina a uso agrícola, ganadero, minero, pesquero, forestal o de preservación ecológica, entre otros;
+
+XX. Predio suburbano.- El contiguo a las zonas urbanas, con factibilidad para uso habitacional, industrial o de servicios, de conformidad con lo que establezca la autoridad competente;
+
+XXI. Predio urbano.- El que se ubica en zonas que cuentan, total o parcialmente, con equipamiento urbano y servicios públicos y su destino es habitacional, industrial, comercial o de servicios;
+
+XXII. Perito valuador.- Profesional en valuación registrado en el Padrón de Peritos Valuadores de Predios del Estado de Puebla;
+
+XXIII. Perito topógrafo.- Profesional en Topografía registrado en el Padrón de Peritos Topógrafos del Estado de Puebla;
+
+XXIV. Región catastral.- División territorial de una localidad en atención al número de manzanas que contiene y para efectos de nomenclatura de la clave catastral;
+
+XXV. Sistema de información territorial.- Conjunto de procesos, planos, documentos y bases de datos del territorio, estructurados, mediante el uso de tecnologías de la información para su adquisición, almacenamiento, explotación y difusión;
+
+XXVI. Solicitud de inscripción.- Documento que se presenta ante la autoridad para el registro en el Padrón Catastral de un predio, manifestando sus características y modificaciones;
+
+XXVII. Valor catastral.- Valor de un predio, determinado a partir de los valores catastrales unitarios de suelo y construcción autorizados por el Congreso del Estado;
+
+XXVIII. Valor catastral provisional.- El establecido por las autoridades catastrales por un plazo determinado, cuando no exista valor unitario de suelo y/o construcción autorizado por el Congreso del Estado;
+
+XXIX. Valor catastral unitario.- Valor por metro cuadrado o hectárea para el suelo y las construcciones de una localidad, según las tablas de valores catastrales unitarios;
+
+XXX. Valor comercial.- Precio más probable en que se podría comercializar un predio en las circunstancias prevalecientes a la fecha del avalúo; y
+
+XXXI. Zona catastral.- Superficie del territorio de una localidad, compuesta por una o más regiones catastrales.
+
+###### Artículo 8.
+
+Para los efectos de esta Ley, los predios se clasifican en:
+
+I. Urbanos;
+
+II. Suburbanos, y
+
+III. Rústicos.
+
+###### Artículo 9.
+
+El Gobierno del Estado en coordinación con los Municipios y en el ámbito de sus respectivas competencias, realizarán actividades catastrales, y se proporcionarán mutua ayuda, cooperación e información, en términos de esta Ley y de los convenios que para tal efecto suscriban.
+
+###### Artículo 10.
+
+El Gobierno del Estado por conducto del Instituto, será el encargado de interpretar en el ámbito administrativo la presente Ley, así como de emitir las disposiciones que sean necesarias para su debida aplicación y cumplimiento, sin perjuicio de las facultades que correspondan a los Municipios en términos de esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 10-A.
 
@@ -318,79 +448,85 @@ La Secretaría de Hacienda y Crédito Público hará la declaratoria de los Esta
 
 Si posteriormente en la Entidad o en los Municipios se establecen derechos contrarios a lo dispuesto en el artículo que antecede, la citada Secretaría así lo declarará, dándolo a conocer mediante declaratoria que se publicará en el Diario Oficial de la Federación, la cual empezará a regir treinta días después de la fecha de esta publicación, quedando sin efectos la coordinación en materia de derechos; en el caso de que el Estado esté inconforme con esta declaratoria, se podrá ocurrir ante la Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-Cuando alguna entidad que se hubiera adherido al Sistema Nacional de Coordinación Fiscal viole lo previsto por los artículos 73 fracción XXIX, 117 fracciones IV a VII y IX o 118 fracción I, de la Constitución Política de los Estados Unidos Mexicanos o falte al cumplimiento del o de los convenios celebrados con la Secretaría de Hacienda y Crédito Público, ésta, oyendo a la entidad afectada y teniendo en cuenta el dictamen técnico que formule la Comisión Permanente de Funcionarios Fiscales, podrá disminuir las participaciones de la entidad en una cantidad equivalente al monto estimado de la recaudación que la misma obtenga o del estímulo fiscal que otorgue, en contravención a dichas disposiciones.
+A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la legislación fiscal estatal y municipal que corresponda y a falta de éstas, la de derecho común.
 
-La Secretaría de Hacienda y Crédito Público comunicará esta resolución a la entidad de que se trate, señalando la violación que la motiva, para cuya corrección la entidad contará con un plazo mínimo de tres meses. Si la entidad no efectuara la corrección, se considerará que deja de estar adherida al Sistema Nacional de Coordinación Fiscal. La Secretaría de Hacienda y Crédito Público hará la declaratoria correspondiente, la notificará a la entidad de que se trate y ordenará la publicación de la misma en el "Diario Oficial" de la Federación. Dicha declaratoria surtirá sus efectos 90 días después de su publicación.
+###### Artículo 12.
 
-Las cantidades en que se reduzcan las participaciones de una entidad, en los términos de este precepto, incrementarán el Fondo Financiero Complementario de Participaciones en el siguiente año.
+El cómputo de los términos y plazos a que se refiere la presente Ley, se realizará de conformidad con lo que establece el Código Fiscal del Estado, el Código Fiscal y Presupuestario del Municipio de Puebla y el Código Fiscal Municipal del Estado, según la autoridad que conozca del trámite o asunto de que se trate.
 
-###### ARTICULO 12.
+###### Artículo 13.
 
-El Estado inconforme con la declaratoria por la que se considera que deja de estar adherido al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado conforme al artículo anterior de esta Ley.
+La prestación de los servicios a que se refiere la presente Ley, proporcionados ya sea por la autoridad catastral estatal o la municipal, se realizará previo pago de los derechos previstos según corresponda, en las Leyes de Ingresos del Estado o del Municipio respectivo que para cada Ejercicio Fiscal apruebe el Congreso Estatal.
 
-El juicio deberá promoverse dentro de los 30 días siguientes a la fecha en que se hubiera publicado en el "Diario Oficial" de la Federación la citada declaratoria. Con la demanda se ofrecerán pruebas y se acompañarán las documentales de que disponga el Estado.
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES EN EL ESTADO Y SUS ATRIBUCIONES
 
-Se correrá traslado de la demanda al Ejecutivo Federal y a la Secretaría de Hacienda y Crédito Público, para que la contesten en el plazo de 30 días y ofrezcan pruebas, acompañando las documentales de que dispongan.
+###### Artículo 14.
 
-Al admitirse la demanda se señalará la fecha para la celebración de una audiencia, que habrá de verificarse antes de los 90 días siguientes y, dentro de este término, tanto el Estado que haya promovido el juicio, como el Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público podrán aportar las pruebas ofrecidas y que no hubieran presentado con la demanda o contestación. En la audiencia formularán alegatos y la Suprema Corte de Justicia de la Nación pronunciará su fallo.
+Son autoridades catastrales en el Estado:
 
-Desde la admisión de la demanda se suspenderán los efectos de la declaratoria impugnada, por 150 días. El fallo de la Suprema Corte de Justicia de la Nación producirá efectos 30 días después de su publicación en el "Diario Oficial" de la Federación.
+I. El Gobernador del Estado;
 
-La Suprema Corte de Justicia de la Nación ordenará la publicación en el "Diario Oficial" de la Federación, tanto de la suspensión de los efectos de la declaratoria impugnada, como de los puntos resolutivos del fallo de la Suprema Corte de Justicia de la Nación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En caso de que la Secretaría de Hacienda y Crédito Público infringiera las disposiciones legales y convenios relativos a la coordinación fiscal en perjuicio de una entidad federativa, ésta podrá reclamar su cumplimiento ante la Suprema Corte de Justicia de la Nación, siguiendo en lo aplicable el procedimiento establecido en este artículo.
+II. El Secretario de Finanzas y Administración;
 
-###### ARTICULO 13.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de los Estados que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de registro federal de contribuyentes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las entidades o de los Municipios cuando así se pacte expresamente.
+III. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el Periódico Oficial del Estado y en el “Diario Oficial” de la Federación, y surtirán sus efectos a partir del día siguiente de la publicación en este último.
+IV. El Director General del Instituto;
 
-La Federación o el Estado podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-El Ejecutivo Federal, mediante acuerdo, coordinará a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal, en las materias a que este precepto se refiere. Las facultades que se otorguen al Departamento del Distrito Federal serán ejercidas por las autoridades fiscales del mismo.
+V. El Director de Catastro;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-En los convenios y en el acuerdo señalado en este precepto, se fijarán las percepciones que recibirán las Entidades o sus Municipios, por las actividades de administración fiscal que realicen.
+VI. El Subdirector de Información Territorial;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 14.
+VII. El Subdirector de Gestión Catastral;
 
-Las autoridades fiscales de las entidades que se encuentren adheridas al Sistema Nacional de Coordinación Fiscal y las de sus Municipios, en su caso, serán consideradas, en el ejercicio de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales federales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes federales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar a las entidades y a sus Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos.
+VIII. Los Delegados Catastrales del Instituto;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 15.
+IX. Los Presidentes Municipales;
 
-La recaudación de los ingresos federales se hará por las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las entidades, según se establezca en los convenios o acuerdos respectivos.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Cuando la entidad recaude ingresos federales, los concentrará directamente a dicha Secretaría y rendirá cuenta pormenorizada de recaudación. La Secretaría, también directamente, hará el pago a las entidades de las cantidades que les correspondan en los fondos establecidos en el artículo 2o. y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
+X. Los Tesoreros Municipales;
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Como excepción a lo dispuesto en el párrafo anterior, las Entidades sin perjuicio de rendir su cuenta comprobada por la totalidad de la recaudación que efectúen sólo concentrarán a la Secretaría de Hacienda y Crédito Público:
+XI. El Director de Catastro Municipal o Titular de la Unidad Administrativa Municipal que ejerza facultades en materia de Catastro, cualquiera que sea su denominación;
 
-I.- Como mínimo el 70% del impuesto al valor agregado que recauden en los términos de la fracción I del artículo 2o. de esta Ley.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II.- El 20% del impuesto sobre tenencia o uso de vehículos, las Entidades coordinadas con la Federación en materia de Adquisición de Inmuebles.
+XII. Los Jefes del Departamento de Catastro Municipal o Titular del área equivalente a éste que ejerza facultades en materia de Catastro, cualquiera que sea su denominación, y
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-La falta de entero en los plazos establecidos dará lugar a que se causen, a cargo de la entidad o de la Federación, intereses a la tasa de recargos que establezca anualmente el Congreso de la Unión para los casos de autorizaciones de pago a plazos de contribuciones.
+XIII. Los demás servidores públicos a los que las leyes les otorguen facultades específicas en materia catastral y a los que mediante Acuerdo o Convenio debidamente publicados en el Periódico Oficial del Estado, les sean conferidas o delegadas atribuciones.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+###### Artículo 15.
 
-La Secretaría de Hacienda y Crédito Público podrá compensar las cantidades no concentradas por la entidad, con las cantidades que a ésta correspondan en los fondos de participaciones establecidos por esta Ley.
+Son atribuciones del Gobernador del Estado en materia Catastral:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+I. Establecer las políticas generales;
+
+II. Suscribir convenios y acuerdos de coordinación y colaboración con las Dependencias y Entidades de la Administración Pública Federal, así como con otras Entidades Federativas, en la materia y en las que se vinculen con ésta; y
+
+III. Las demás que le determine esta Ley y otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15-A.
 
@@ -400,135 +536,923 @@ Si el contribuyente acumula otros ingresos a los que obtenga por la realización
 
 Durante el periodo señalado, el total de la recaudación a que se refiere el párrafo primero se considerará dentro de los impuestos asignables a la entidad federativa de que se trate.
 
-### CAPITULO III. De la Colaboración Administrativa Entre las Entidades y la Federación
+### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS PROPIETARIOS O POSEEDORES DE PREDIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### Artículo 16.
 
-###### ARTICULO 16.
+Son atribuciones de las autoridades catastrales:
 
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los gobiernos de las entidades, por medio de su órgano hacendario, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema Nacional de Coordinación Fiscal, a través de:
+I. Integrar, administrar, conservar y mantener actualizada la información catastral del Estado con base en la que genere el Instituto y la que le proporcionen los municipios, fedatarios públicos, particulares y dependencias oficiales;
 
-I.- La Reunión Nacional de Funcionarios Fiscales.
+II. Integrar, administrar y actualizar los Padrones de Peritos Valuadores de Predios del Estado de Puebla y de Peritos Topógrafos del Estado de Puebla;
 
-II.- La Comisión Permanente de Funcionarios Fiscales.
+III. Suscribir y ejecutar los convenios y acuerdos de colaboración celebrados con las Dependencias o Entidades de la Administración Pública Federal, Estatal o Municipal, así como organizaciones vinculadas con los servicios catastrales, a efecto de difundir o mejorar la función catastral;
 
-III.- El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC).
+IV. Coadyuvar con los Ayuntamientos de la Entidad que lo soliciten en la determinación de los valores catastrales unitarios provisionales de suelo y construcción;
 
-###### ARTICULO 17.
+V. Recibir, clasificar, guardar, custodiar y depurar el archivo electrónico del Instituto, de conformidad con las disposiciones legales y normatividad aplicables;
 
-La Reunión Nacional de Funcionarios Fiscales se integrará por el Secretario de Hacienda y Crédito Público y por el titular del órgano hacendario de cada entidad. La Reunión será presidida conjuntamente por el Secretario de Hacienda y Crédito Público y el funcionario de mayor jerarquía presente en la Reunión, de la entidad en que ésta se lleve a cabo.
+VI. Notificar de conformidad con las disposiciones legales y normatividad aplicables los actos administrativos derivados de los procedimientos catastrales;
 
-El Secretario de Hacienda y Crédito Público podrá ser suplido por el Subsecretario de Ingresos, y los titulares del área hacendaria de las entidades por la persona que al efecto designen.
+VII. Vigilar en el ámbito de su competencia, que los sujetos obligados o responsables solidarios cumplan con las disposiciones fiscales;
 
-###### ARTICULO 18.
+VIII. Solicitar información a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, de los datos, documentos e informes que se consideren necesarios para el ejercicio de las funciones catastrales en el Estado;
 
-La Reunión Nacional de Funcionarios Fiscales sesionará, cuando menos, una vez al año en el lugar del territorio nacional que elijan sus integrantes. Será convocada por el Secretario de Hacienda y Crédito Público o por la Comisión Permanente de Funcionarios Fiscales.
+IX. Llevar a cabo, en el ámbito de su competencia, las acciones correspondientes al programa para la regularización de la propiedad inmobiliaria de predios rústicos en el Estado de Puebla;
 
-En la convocatoria se señalarán los asuntos de que deba ocuparse la Reunión.
+X. Cancelar en los casos que proceda y de conformidad con las disposiciones legales y normatividad aplicables, el registro catastral de los predios;
 
-###### ARTICULO 19.
+XI. Valuar y/o revaluar los predios del Estado de Puebla, de conformidad con las disposiciones legales y normatividad aplicables;
 
-Serán facultades de la Reunión Nacional de Funcionarios Fiscales:
+XII. Inscribir en el padrón Catastral los predios de los propietarios o poseedores, y en los casos que proceda, realizar su cancelación o modificación, en términos de esta Ley y demás disposiciones legales aplicables;
 
-I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión Permanente de Funcionarios Fiscales y del Instituto para el Desarrollo Técnico de las Haciendas Públicas.
+XIII. Actualizar la cartografía catastral del Estado;
 
-II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades, para el sostenimiento de los órganos citados en la fracción anterior.
+XIV. Realizar la inspección de los predios ubicados en la circunscripción territorial del Estado para efectos catastrales y de valuación comercial;
 
-III.- Fungir como asamblea general del Instituto para el Desarrollo Técnico de las Haciendas Públicas y aprobar sus presupuestos y programas.
+XV. Coadyuvar con los municipios de la Entidad que lo soliciten, en la elaboración de las propuestas de tablas de valores y de zonificación catastral, que les servirán de base para el cobro de las contribuciones a la propiedad inmobiliaria;
 
-IV.- Proponer al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público y a los gobiernos de los Estados, por conducto del titular de su órgano hacendario, las medidas que estime convenientes para actualizar o mejorar el Sistema Nacional de Coordinación Fiscal.
+XVI. Coadyuvar, en el ámbito de su competencia, con las instancias responsables para la definición y determinación de los límites del territorio del Estado y sus municipios;
 
-###### ARTICULO 20.
+XVII. Realizar los levantamientos prediales, fotogramétricos, geodésicos o cualquier otro mediante los que se efectúe la exploración y estudio del territorio del Estado que le sean requeridos por los propietarios o poseedores de los predios, por los particulares o por las Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal;
 
-La Comisión Permanente de Funcionarios Fiscales se integrará conforme a las siguientes reglas:
+XVIII. Realizar la investigación de los valores del mercado inmobiliario, así como de la infraestructura, equipamiento urbano y costos de construcción para la emisión de avalúos comerciales y propuesta de valores catastrales unitarios;
 
-I.- Estará formada por la Secretaría de Hacienda y Crédito Público y por ocho entidades. Será presidida conjuntamente por el Secretario de Hacienda y Crédito Público, que podrá ser suplido por el Subsecretario de Ingresos de dicha Secretaría, y por el titular del órgano hacendario que elija la Comisión entre sus miembros. En esta elección no participará la Secretaría de Hacienda y Crédito Público.
+XIX. Resolver las aclaraciones que promuevan los propietarios o poseedores de predios, en términos de lo previsto por esta Ley y demás disposiciones legales y normatividad aplicable;
 
-II.- Las entidades estarán representadas por las ocho que al efecto elijan, las cuales actuarán a través del titular de su órgano hacendario o por la persona que éste designe para suplirlo.
+XX. Resolver las consultas que sobre situaciones reales y concretas, formulen los interesados en materia catastral;
 
-III.- Las entidades que integren la Comisión Permanente serán elegidas por cada uno de los grupos que a continuación se expresan, debiendo representarlos en forma rotativa:
+XXI. Resolver de conformidad con la legislación aplicable, en el ámbito de sus respectivas competencias, el recurso administrativo de revisión catastral que se interponga en contra de los actos emitidos por las autoridades catastrales;
 
-GRUPO UNO: Baja California, Baja California Sur, Sonora y Sinaloa.
+XXII. Recibir los recursos administrativos de revisión catastral que se interpongan contra los actos emitidos por las autoridades catastrales, en los casos previstos en esta Ley y, turnarlos de manera inmediata con los antecedentes respectivos a la Unidad Administrativa competente para conocer y substanciar los mismos hasta dejarlos en estado de resolución;
 
-GRUPO DOS: Chihuahua. Coahuila, Durango y Zacatecas.
+XXIII. Imponer, de conformidad con los ordenamientos aplicables, los convenios y sus anexos suscritos entre el Estado con la Federación o con los municipios, las sanciones por el incumplimiento a las disposiciones en materia catastral, y
 
-GRUPO TRES: Hidalgo, Nuevo León, Tamaulipas y Tlaxcala.
+XXIV. Las demás que le señalen esta Ley, el Decreto de Creación del Instituto y el Reglamento Interior del Instituto, así como otras disposiciones legales y normatividad aplicables en la materia.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+Las atribuciones contenidas en este artículo, se podrán ejercer por las autoridades catastrales del Estado, en los términos que se establezcan en el Decreto de Creación del Instituto, en su Reglamento Interior y demás disposiciones legales aplicables en la materia.
 
-GRUPO CUATRO: Aguascalientes, Colima, Jalisco y Nayarit.
+Las autoridades catastrales municipales ejercerán sus atribuciones dentro de la circunscripción territorial de su propio Municipio, en los términos que establezca su respectiva legislación en la materia.
 
-GRUPO CINCO: Guanajuato, Michoacán, Querétaro y San Luis Potosí.
+###### Artículo 17.
 
-GRUPO SEIS: Distrito Federal, Guerrero, México y Morelos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-GRUPO SIETE: Chiapas, Oaxaca, Puebla y Veracruz.
+###### Artículo 18.
 
-GRUPO OCHO: Campeche, Quintana Roo, Tabasco y Yucatán.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-IV.- Las entidades miembros de la Comisión Permanente durarán en su encargo dos años y se renovarán anualmente por mitad; pero continuarán en funciones, aún después de terminado su período, en tanto no sean elegidas las que deban sustituirlas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-V.- La Comisión Permanente será convocada por el Secretario de Hacienda y Crédito Público, por el Subsecretario de Ingresos o por tres de los miembros de dicha Comisión. En la convocatoria se señalarán los asuntos que deban tratarse.
+###### Artículo 19.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría de Finanzas y Administración.
 
-###### ARTICULO 21.
+###### Artículo 20.
 
-Serán facultades de la Comisión Permanente de Funcionarios Fiscales:
+Son atribuciones de las autoridades catastrales municipales:
 
-I.- Preparar las Reuniones Nacionales de Funcionarios Fiscales y establecer los asuntos de que deban ocuparse.
+I. Integrar, administrar y mantener actualizado el padrón catastral de su Municipio, de conformidad con los procedimientos previstos en esta Ley y demás disposiciones aplicables;
 
-II.- Preparar los proyectos de distribución de aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades para el sostenimiento de los órganos de coordinación, los cuales someterá a la aprobación de la Reunión Nacional de Funcionarios Fiscales.
+II. Cancelar en los casos que proceda y de conformidad con las disposiciones aplicables, el registro catastral de los predios ubicados en su circunscripción territorial;
 
-III.- Fungir como consejo directivo del Instituto para el Desarrollo Técnico de las Haciendas Públicas y formular informes de las actividades de dicho Instituto y de la propia Comisión Permanente, que someterá a la aprobación de la Reunión Nacional.
+III. Inscribir en el padrón catastral del Municipio, los predios que se ubiquen dentro de su circunscripción territorial y asignarles la respectiva clave catastral;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+IV. Registrar los cambios que se operen en los predios ubicados en la circunscripción del Municipio y que por cualquier concepto modifiquen los datos contenidos en el Padrón Catastral;
 
-IV.- Vigilar la creación e incremento de los Fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos Fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley debe efectuar la Secretaría de Hacienda y Crédito Público y los Estados.
+V. Producir y conservar la información catastral con apego a la normatividad establecida por el Instituto; así como realizar, coordinar y supervisar las operaciones catastrales en el ámbito de su jurisdicción;
 
-V.- Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
+VI. Solicitar a las Dependencias y Entidades Federales, Estatales y Municipales, así como a los propietarios o poseedores de predios, los datos, documentos e informes que sean necesarios para coadyuvar a la integración y actualización del padrón catastral;
 
-VI.- Las demás que le encomienden la Reunión Nacional de Funcionarios Fiscales, la Secretaría de Hacienda y Crédito Público y los titulares de los órganos hacendarios de las entidades.
+VII. Recibir de los propietarios o poseedores, las solicitudes de inscripción de predios, que se realicen mediante la localización geográfica de éstos en la cartografía correspondiente;
 
-###### ARTICULO 22.
+VIII. Celebrar Convenios de Coordinación y Colaboración Administrativa con el Gobierno del Estado o con otros Municipios de la Entidad, de conformidad con las disposiciones aplicables, para el ejercicio de las atribuciones y competencias conferidas en esta Ley;
 
-El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC), es un organismo público, con personalidad jurídica y patrimonio propios, con las siguientes funciones:
+IX. Determinar los valores catastrales correspondientes a cada predio, con apego a la zonificación catastral y de valores unitarios vigentes al momento de su determinación, los que servirán, entre otros fines, para calcular las contribuciones sobre la propiedad inmobiliaria, fraccionamiento de ésta, división, consolidación, traslación, mejora y los que tengan como base el valor de los predios;
 
-I.- Realizar estudios relativos al sistema nacional de coordinación fiscal.
+X. Localizar cada predio mediante su deslinde y medida e incorporarlo a la cartografía catastral, con observancia de los métodos que determine el Instituto;
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+XI. Elaborar y actualizar permanentemente la cartografía catastral del territorio de su Municipio, conforme a lo dispuesto en esta Ley y las disposiciones aplicables;
 
-II.- Hacer estudios permanentes de la legislación tributaria vigente en la Federación y en cada una de las entidades, así como de las respectivas administraciones.
+XII. Llevar a cabo, de conformidad con las disposiciones aplicables, la inspección de los predios ubicados en la circunscripción territorial de su Municipio, con el objeto de obtener información para conformar y actualizar su catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria;
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+XIII. Efectuar la investigación de valores del mercado inmobiliario, así como de la infraestructura, equipamiento urbano y costos de construcción que servirán de base a la propuesta de zonas catastrales y tablas de valores unitarios de suelo y construcción;
 
-III.- Sugerir medidas encaminadas a coordinar la acción impositiva federal y local, para lograr la más equitativa distribución de los ingresos entre la Federación y las entidades.
+XIV. Solicitar al Instituto el apoyo y asesoría técnica que requieran, para la elaboración de su zonificación catastral, tablas de valores unitarios de suelo y construcción, propuestas de tasas y cuotas aplicables a los impuestos inmobiliarios, así como para la administración y gestión de la información catastral;
 
-IV.- Desempeñar las funciones de secretaría técnica de la Reunión Nacional y de la Comisión Permanente de Funcionarios Fiscales.
+XV. Presentar al Congreso del Estado, a través del Ejecutivo Estatal, previa autorización de cuando menos las dos terceras partes del Cabildo y en términos de las disposiciones aplicables, las propuestas de zonas catastrales y de las tablas de valores unitarios de suelo y construcción que sirvan de base para el cálculo y cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-V.- Actuar como consultor técnico de las haciendas públicas.
+XVI. Verificar que en la Iniciativa de la Ley de Ingresos del Municipio que habrá de enviarse al Congreso del Estado, se establezcan las tasas y cuotas para el cobro de las contribuciones sobre la propiedad inmobiliaria, las que deberán observar los principios de proporcionalidad y equidad;
 
-VI.- Promover el desarrollo técnico de las haciendas públicas municipales.
+XVII. Proponer al Ayuntamiento, la suscripción de convenios de coordinación, colaboración y asistencia técnica en materia catastral, con el Gobierno del Estado o con otros Municipios de la Entidad;
 
-VII.- Capacitar técnicos y funcionarios fiscales.
+XVIII. Verificar que los valores catastrales de suelo y construcción se elaboren y apliquen conforme a las normas técnicas y de actualización que para tal efecto emita el Instituto;
 
-VIII.- Desarrollar los programas que apruebe la Reunión Nacional de Funcionarios Fiscales.
+XIX. Valuar y revaluar los predios ubicados en su circunscripción territorial, conforme a las disposiciones contenidas en esta Ley y la normatividad que para tal efecto emita el Instituto;
 
-Para el desempeño de las funciones indicadas el Instituto podrá participar en programas con otras instituciones u organismos que realicen actividades similares.
+XX. Expedir avalúos catastrales, cédulas catastrales y constancias de información de los predios ubicados en su circunscripción territorial;
 
-###### ARTICULO 23.
+XXI. Promover la realización de las acciones que resulten necesarias para coadyuvar con el Instituto en el cumplimiento de sus objetivos y lograr la consolidación y desarrollo del Catastro del Estado;
 
-Los órganos del Instituto a que se refiere el artículo anterior, serán:
+XXII. Proporcionar al Instituto, en términos de esta ley, la información y documentación necesaria para integrar y mantener actualizado el Catastro del Estado, para efectos de planeación y programación;
 
-I.- El director general, que tendrá la representación del mismo.
+XXIII. Difundir y comercializar la información catastral y territorial de carácter público contenida en sus bases de datos que sea susceptible de tales acciones;
 
-II.- La asamblea general que aprobará sus estatutos, reglamentos, programas y presupuesto. La Reunión Nacional de Funcionarios Fiscales fungirá como asamblea general del Instituto.
+XXIV. Proporcionar información catastral a propietarios, poseedores, fedatarios públicos y particulares interesados, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables;
 
-III.- El consejo directivo que tendrá las facultades que señalen los estatutos. Fungirá como consejo directivo la Comisión Permanente de Funcionarios Fiscales.
+XXV. Certificar, a solicitud de los interesados, copias de los planos, y demás documentos relacionados con los predios inscritos en el Catastro de su Municipio;
 
-### CAPITULO IV. De los Organismos en Materia de Coordinación
+XXVI. Conocer de las aclaraciones que promuevan los propietarios o poseedores de predios, en términos de lo previsto por esta Ley;
+
+XXVII. Conocer y resolver los recursos administrativos de revisión que se interpongan en contra de los actos emanados por las autoridades catastrales municipales;
+
+XXVIII. Imponer las sanciones que procedan en los términos de la presente Ley; y
+
+XXIX. Las demás que en materia de su competencia les señalen esta Ley, los Convenios y sus Anexos y otras disposiciones aplicables en la materia.
+
+###### Artículo 21.
+
+Las autoridades catastrales, proporcionarán la información y documentación a que se refiere esta Ley, siempre y cuando no se trate de información y documentación clasificada como reservada o confidencial, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás disposiciones aplicables.
+
+## TÍTULO TERCERO. DE LAS OBLIGACIONES
+
+###### Artículo 22.
+
+Los propietarios o poseedores de predios están obligados a presentar la solicitud de inscripción de éstos ante la autoridad catastral municipal de la jurisdicción en que se encuentren ubicados los bienes, en un plazo que no excederá de treinta días contados a partir de la realización del acto jurídico o hecho en que se adquirió o transmitió el dominio de la propiedad o la posesión de los mismos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+En un plazo que no excederá de treinta días hábiles, contados a partir de la terminación de obras o de la realización de los actos o hechos que la originen, se deberá declarar la modificación de los datos asentados en el registro catastral del predio, en los siguientes casos:
+
+I. Nuevas construcciones, reconstrucciones o la demolición parcial o total del predio;
+
+II. La rectificación del área de la superficie de terreno;
+
+III. La fusión, división o fraccionamiento de terrenos; y
+
+IV. Cualquier otro cambio que modifique los datos contenidos en el registro catastral del predio.
+
+###### Artículo 23.
+
+Los propietarios o poseedores, sus representantes, administradores o cualquier otra persona encargada de un predio, están obligados a proporcionar a las autoridades catastrales o a los servidores públicos acreditados, los datos, títulos, planos, contratos o cualquier otra documentación e informes que en materia catastral les soliciten; permitiendo en su caso, el acceso al predio para efectuar la inspección y el levantamiento predial, de conformidad con lo dispuesto en esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 24.
+
+En caso de que el propietario o poseedor de algún predio no solicite la inscripción de éste, la autoridad catastral realizará de oficio el registro correspondiente, de conformidad con lo previsto en esta Ley y de resultar alguna erogación económica por esta actividad, será a costa del infractor, conforme a las contribuciones que establezca el Congreso del Estado para cada ejercicio fiscal, sin perjuicio de imponer las sanciones que procedan.
+
+###### Artículo 25.
+
+En caso de que el propietario o poseedor de algún predio solicite la inscripción de éste con información falsa o alterada, la autoridad catastral a través de la investigación directa y con sujeción a la presente Ley, suplirá dicha información y de resultar alguna erogación económica por esta actividad, será á costa del infractor, sin perjuicio de imponer las sanciones que procedan.
+
+###### Artículo 26.
+
+Las Dependencias y Entidades de la. Administración Pública Federal, Estatal y Municipal, encargadas de administrar los predios propiedad de sus respectivos gobiernos, deberán proporcionar a las autoridades catastrales la información de estos bienes, indicando su uso y destino.
+
+###### Artículo 27.
+
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
+
+###### Artículo 28.
+
+Las autoridades catastrales, estatales o municipales, comunicarán mediante oficio a los interesados la modificación del valor catastral, por incremento o disminución, como resultado de la valuación o revaluación de los predios, el cual se notificará de acuerdo con las formalidades de la notificación previstas en la legislación fiscal aplicable.
+
+###### Artículo 29.
+
+Las autoridades catastrales realizarán de oficio o a petición de parte interesada y de conformidad con lo previsto en esta Ley, la inspección de predios, el levantamiento predial y los censos catastrales, entre otras operaciones catastrales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 30.
+
+Las autoridades catastrales a solicitud de los propietarios, poseedores o sus representantes legales, expedirán en un plazo no mayor a quince días hábiles, contados a partir de la ejecución de las operaciones catastrales de que se trate, las cédulas catastrales, constancias y demás documentos que contengan la información catastral de los predios de su propiedad o posesión.
+
+A solicitud de los fedatarios públicos, la autoridad catastral deberá expedir, en términos de las disposiciones legales y la normatividad aplicables, los documentos respecto a bienes objeto de los actos jurídicos en que intervengan en ejercicio de sus funciones.
+
+###### Artículo 31.
+
+Las autoridades catastrales que lleven a cabo programas generales de regularización y actualización de los registros catastrales, difundirán su inicio a través de los medios masivos de comunicación, o por cualquier otro medio de que dispongan.
+
+###### Artículo 32.
+
+Para efectos de que el Instituto mantenga actualizado el padrón catastral, los Municipios coadyuvarán con éste proporcionándole bimestralmente a través de sus Delegaciones Catastrales del Instituto, la información siguiente:
+
+I. Informe de los programas de catastro que realicen;
+
+II. La de los registros catastrales efectuados, así como de las modificaciones que realicen a sus bases de datos y cartografía catastrales;
+
+III. El resultado de sus investigaciones de infraestructura, equipamiento y valores comerciales de suelo urbano; y
+
+IV. La (sic) demás que mediante convenio se determine.
+
+La información a que se refiere este artículo se proporcionará en la forma y términos en que el Instituto las dé a conocer a los Municipios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 33.
+
+Las oficinas estatales y municipales encargadas de otorgar licencias y permisos para construcción y demolición; así como, cuando otorguen autorizaciones para fraccionar predios urbanos, deberán destinar copia de dichos documentos a la Autoridad Catastral Municipal dentro de los treinta días siguientes a la fecha de expedición.
+
+Una vez que se haya realizado la manifestación o declaración de la modificación o cambio de las características físicas del predio ante el Instituto, éste emitirá al propietario o poseedor una constancia de actualización de características físicas del predio.
+
+###### Artículo 34.
+
+Para el otorgamiento de licencia o uso del suelo, construcción, reconstrucción, ampliación, remodelación o demolición, fusión, división o fraccionamiento de terrenos, las autoridades estatales y municipales en desarrollo urbano, requerirán al solicitante la constancia del registro catastral del predio.
+
+###### Artículo 35.
+
+Las autoridades competentes deberán informar a la autoridad catastral municipal, las instalaciones de servicios, la apertura de vías públicas y el cambio de nomenclatura de calles, así como de la ejecución de obras públicas o privadas y demás acciones que modifiquen las características de los predios ubicados en la circunscripción territorial del Municipio, dentro de los quince días siguientes a la fecha en que se concluya la realización de estas acciones.
+
+###### Artículo 36.
+
+Las autoridades municipales que instrumenten programas de desarrollo regional y urbano, deberán informar a la autoridad catastral municipal de su conclusión, dentro de los treinta días siguientes a ésta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 37.
+
+Las autoridades competentes en materia de regularización de la tenencia de la tierra, deberán proporcionar a la autoridad catastral, la cartografía o planos de los predios regularizados, dentro de los treinta días hábiles siguientes a la fecha de su inscripción en el Registro Público de la Propiedad, acompañando los datos de inscripción.
+
+### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y DEMÁS OBLIGADOS
+
+###### Artículo 38.
+
+Las autoridades municipales deberán proteger y resguardar la información catastral bajo su custodia, a fin de garantizar su entrega a la siguiente administración municipal y elaborarán el inventario de la cartografía, bases de datos y demás información catastral, remitiendo copia al Instituto al menos sesenta días antes de que concluya la administración.
+
+## TÍTULO CUARTO. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
+
+###### Artículo 39.
+
+Para que la autoridad municipal en desarrollo urbano otorgue licencia o autorización para fraccionar, subdividir, relotificar o fusionar un predio, requerirá al solicitante la cédula catastral del predio; asimismo, remitirá mensualmente a la autoridad catastral correspondiente, una relación de las autorizaciones otorgadas.
+
+###### Artículo 40.
+
+Las personas físicas o jurídicas que obtengan licencia o autorización para fraccionar, subdividir, relotificar o fusionar un predio, deberán presentarla a la autoridad catastral correspondiente, en un término no mayor de quince días hábiles, contados a partir de la fecha de su expedición; debiendo en su caso, informar en igual término, toda modificación que se realice a la licencia o autorización inicial.
+
+###### Artículo 41.
+
+La autoridad municipal en desarrollo urbano remitirá a la autoridad catastral correspondiente, copia del acta o documento en que conste la terminación de las obras de urbanización de los fraccionamientos, dentro de los treinta días siguientes a la fecha de su formalización.
+
+En aquellos casos en que la autoridad considere procedente la autorización para la venta de predios, sin estar terminada la totalidad de las obras de urbanización, remitirá a la autoridad catastral correspondiente copia del documento en que se otorgue dicha autorización, dentro de los treinta días siguientes a la fecha de su expedición.
+
+###### Artículo 42.
+
+En los casos de edificaciones construidas bajo el Régimen de Propiedad en Condominio, deberá fijarse valor a cada uno de los departamentos, despachos o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes, de conformidad a lo que establece esta Ley y demás disposiciones aplicables.
+
+En tales casos, a cada departamento, despacho o local, se le asignará registro Catastral por separado.
+
+## TÍTULO QUINTO. DE LAS OPERACIONES CATASTRALES
+
+###### Artículo 43.
+
+Para los efectos de esta Ley, se consideran operaciones catastrales las siguientes:
+
+I. Registro catastral de predios;
+
+II. Levantamiento predial;
+
+III. Inspección catastral;
+
+IV. Elaboración y actualización de la cartografía catastral;
+
+V. Valuación catastral;
+
+VI. Revaluación catastral;
+
+VII. Determinación de los valores catastrales unitarios provisionales;
+
+VIII. Zonificación catastral;
+
+IX. Determinación de tablas de valores unitarios; y
+
+X. Censo catastral.
+
+### CAPÍTULO II. DEL REGISTRO CATASTRAL
+
+###### Artículo 44.
+
+El Registro Catastral es aquél que contiene los datos gráficos, administrativos, estadísticos, legales y técnicos con que se inscribe un predio en el catastro.
+
+###### Artículo 45.
+
+Por cada predio se efectuará un solo registro catastral, identificado por la clave catastral única. El registro del predio en el catastro deberá hacerse a nombre de los propietarios o poseedores, en los términos que establece esta Ley y demás disposiciones aplicables.
+
+###### Artículo 46.
+
+La inscripción y el registro catastral, así como la actualización de la información catastral, se realizará de conformidad con lo previsto en la presente Ley.
+
+###### Artículo 47.
+
+Las autoridades catastrales verificarán la información contenida en las solicitudes de inscripción que le sean presentadas, y registrarán la que resulte de las operaciones catastrales que realicen para tales efectos, independientemente de la manifestada o de la prevista en el título de propiedad o constancia de posesión correspondiente.
+
+###### Artículo 48.
+
+Cuando en las solicitudes de inscripción previstas en esta Ley no se expresen los datos completos o no se acompañen los documentos que se requieran, los solicitantes dentro de los quince días siguientes a su presentación, subsanarán tales omisiones, de lo contrario, se tendrá por no presentada la solicitud, sin perjuicio de que se les impongan las sanciones que procedan.
+
+###### Artículo 49.
+
+Cuando se solicite la inscripción de un predio previamente registrado a nombre distinto al del solicitante, las autoridades catastrales deberán negar la inscripción y mantener inalterable el primer registro, dejando a salvo el derecho de las partes para que ejerzan las acciones que consideren pertinentes ante las autoridades competentes.
+
+###### Artículo 50.
+
+Las autoridades catastrales cancelarán los registros catastrales en los siguientes casos:
+
+I. Cuando se hayan concedido en contravención a lo dispuesto en el artículo anterior;
+
+II. Cuando el que se ostentó como propietario o poseedor no acredite la propiedad, o posesión del predio;
+
+III. Cuando se haya registrado un predio que no corresponde al descrito en el título de propiedad o constancia de posesión que sustentó la inscripción; y
+
+IV. Cuando lo determine la autoridad competente con fundamento en la legislación aplicable.
+
+Una vez hechas las cancelaciones a que se refiere este artículo, las autoridades realizarán las modificaciones correspondientes, en los términos de esta Ley.
+
+### CAPÍTULO III. DEL LEVANTAMIENTO PREDIAL
+
+###### Artículo 51.
+
+El levantamiento predial comprende la localización, precisión, medición y delimitación de los predios.
+
+### CAPÍTULO IV. DE LA INSPECCIÓN CATASTRAL
+
+###### Artículo 52.
+
+La inspección catastral comprende la constitución física en el predio con el fin de determinar y verificar sus características físicas, legales, socioeconómicas y administrativas, así como su valor catastral.
+
+###### Artículo 53.
+
+Al inicio de la inspección, el personal acreditado para llevarla a cabo, deberá identificarse con la credencial vigente que para tal efecto le expida la autoridad catastral, además de observar las disposiciones contenidas en el Capítulo XII de este Título que le resulten aplicables.
+
+### CAPÍTULO V. DE LA CARTOGRAFÍA CATASTRAL
+
+###### Artículo 54.
+
+Cartografía catastral es el conjunto de planos, mapas y bases de datos geográficas que contienen información relativa a los predios y su entorno. Su elaboración, clasificación, conservación y difusión, deberán sujetarse a las disposiciones que en la materia emita el Instituto.
+
+### CAPÍTULO VI. DE LA VALUACIÓN CATASTRAL
+
+###### Artículo 55.
+
+Valuación catastral es el procedimiento por medio del cual se determina el valor catastral de los predios, consistente en aplicar por separado, a la superficie de terreno y de construcción, los valores unitarios de suelo y construcción vigentes, o los provisionales que se determinen de conformidad con lo previsto en esta Ley y demás disposiciones que en la materia emita el Instituto.
+
+###### Artículo 56.
+
+Cuando por oposición de los propietarios o poseedores, la autoridad catastral competente, no se pueda allegar de la información necesaria para la realización de las operaciones catastrales a que se refiere la presente Ley, estimará el valor catastral del predio con los elementos de que disponga, debiendo considerar por lo menos, alguno de los factores siguientes:
+
+I. Uso de la construcción;
+
+II. Costo y calidad de los materiales de construcción utilizados; y
+
+III. Costo de la mano de obra empleada.
+
+Con la información resultante, la autoridad catastral procederá de oficio a realizar la inscripción o actualización de que se trate, sin perjuicio de aplicar las sanciones que correspondan.
+
+### CAPÍTULO VII. DE LA REVALUACIÓN CATASTRAL
+
+###### Artículo 57.
+
+Revaluación catastral es el procedimiento mediante el cual se asigna un nuevo valor catastral a un predio, si ocurre alguna de las causas siguientes:
+
+I. Construcciones omisas a la acción catastral, así como la modificación del predio como consecuencia de nuevas construcciones, reconstrucciones, remodelaciones o demoliciones;
+
+Il. Fusión, división, o fraccionamiento de predios;
+
+III. Realización de obras de infraestructura urbana;
+
+IV. Cambio de uso del suelo o de la clasificación del tipo de predio, de acuerdo con lo establecido en esta Ley;
+
+V. Cambio de situación jurídica o de propiedad;
+
+VI. Modificación o rectificación de las características que se tomaron como base para la valuación anterior, tanto del predio como de su entorno; y
+
+VII. La publicación de tablas de valores unitarios de suelo y construcción.
+
+La revaluación catastral motivada por la aprobación de nuevas tablas de valores, surtirá efectos a partir de que éstas entren en vigor.
+
+###### Artículo 58.
+
+Todos los predios de la Entidad, sin excepción, son susceptibles de valuación o revaluación por las autoridades catastrales, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.
+
+### CAPÍTULO VIII. DE LOS VALORES UNITARIOS
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 59.
+
+Los valores unitarios de suelo y construcción constituyen la única base de cálculo del valor catastral de un predio y deberán ser equiparables a los valores de mercado de la propiedad inmobiliaria.
+
+###### Artículo 60.
+
+Los valores unitarios de suelo y construcción contenidos en las tablas de valores que los Ayuntamientos presenten al Congreso del Estado, deberán determinarse observando los procedimientos, normas y lineamientos aplicables en la materia.
+
+###### Artículo 61.
+
+Las autoridades catastrales podrán determinar los valores unitarios provisionales que deberán aplicarse para obtener el valor catastral provisional de las zonas urbanas, suburbanas y rústicas, no incluidas en las tablas de valores unitarios de suelo autorizadas por el Congreso del Estado, así como para los tipos de construcción no contenidos en la tabla correspondiente o cuando hayan cambiado en sus características esenciales.
+
+Los valores catastrales provisionales regirán hasta que se incluyan en las tablas de valores unitarios de suelo y construcción aprobadas por el Congreso del Estado.
+
+La vigencia de los valores a que se refiere el párrafo anterior, no podrá exceder de dos años.
+
+El valor catastral o catastral provisional resultante de la valuación o reevaluación, surtirá sus efectos a partir del momento en que se realicen éstas.
+
+### CAPÍTULO IX. DE LA ZONIFICACIÓN CATASTRAL
+
+###### Artículo 62.
+
+Zonificación catastral es la delimitación de las localidades urbanas por zonas homogéneas en función de su uso, destino, infraestructura y equipamiento.
+
+### CAPÍTULO X. DE LAS TABLAS DE VALORES UNITARIOS
+
+###### Artículo 63.
+
+Las tablas de valores unitarios son los documentos, bases de datos y planos que contienen los valores por unidad de superficie para el suelo urbano, suburbano y rústico, así como para los diferentes tipos de construcción que se utilizan en la valuación catastral.
+
+### CAPÍTULO I. DE LAS OPERACIONES CATASTRALES
+
+###### Artículo 64.
+
+Las tablas de valores unitarios de construcción contendrán la tipología para la clasificación de las construcciones, formato y estructura, en términos de las disposiciones aplicables en la materia.
+
+El valor unitario de las construcciones se fijará con base en el valor por metro cuadrado de superficie cubierta, en atención a las características de los elementos constructivos.
+
+###### Artículo 65.
+
+Las tablas de valores unitarios de suelo urbano, suburbano y rústico, así como las de construcción, se elaborarán por los Ayuntamientos, de conformidad con las disposiciones aplicables en la materia y deberán presentarse al Congreso del Estado para su análisis y en su caso aprobación, en los términos a que se refiere la Ley Orgánica Municipal.
+
+Las tablas de valores a que se refiere este artículo, deberán presentarse en base de datos o planos originales impresos, con el contenido, estructura, formato y especificaciones previstas en esta Ley y demás disposiciones aplicables.
+
+###### Artículo 66.
+
+Las autoridades catastrales municipales en coordinación con el Instituto, establecerán los criterios para determinar el valor unitario de las construcciones que no admitan como unidad de medida el metro cuadrado.
+
+###### Artículo 67.
+
+Las tablas de valores tendrán vigencia del 1 de enero al 31 de diciembre de cada año.
+
+Si concluida la vigencia a que se refiere el párrafo anterior, el Gobierno Municipal respectivo no presenta ante el Congreso del Estado, propuesta de nuevas tablas de valores, se prorrogará la misma hasta en tanto sean presentadas las del siguiente año.
+
+### CAPÍTULO XI. DEL CENSO CATASTRAL
+
+###### Artículo 68.
+
+El censo catastral es el programa masivo de levantamiento e inspección predial llevado a cabo por las autoridades catastrales con objeto de actualizar la cartografía y bases de datos catastrales del territorio.
+
+###### Artículo 69.
+
+Las autoridades a que se refiere esta Ley, podrán llevar a cabo censos catastrales, a fin de actualizar el catastro del Estado, dar certeza jurídica a la propiedad y coadyuvar a mantener el orden territorial.
+
+###### Artículo 70.
+
+Previo al inicio de los censos, las autoridades deberán difundir masivamente entre la población el periodo en que éstos se llevarán al (sic) cabo.
+
+###### Artículo 71.
+
+Durante la práctica del censo catastral, los propietarios o poseedores de predios deberán proporcionar a las autoridades catastrales la información, documentación y datos previstos en el artículo 23 de esta Ley.
+
+###### Artículo 72.
+
+Las autoridades catastrales podrán efectuar el censo catastral a través de terceros autorizados para tal fin, quienes en todo momento se sujetarán a lo dispuesto por esta Ley.
+
+### CAPÍTULO XII. DE LAS DISPOSICIONES GENERALES
+
+DE LAS OPERACIONES CATASTRALES
+
+###### Artículo 73.
+
+Las autoridades catastrales que de oficio realicen operaciones catastrales que impliquen actos de molestia a los propietarios o poseedores de predios, deberán iniciarlas por mandamiento escrito debidamente fundado y motivado, emitido por la autoridad catastral competente.
+
+###### Artículo 74.
+
+La autoridad catastral municipal en los casos que proceda, deberá notificar a los propietarios o poseedores de predios, las operaciones catastrales que pretenda realizar.
+
+###### Artículo 75.
+
+Si por alguna circunstancia la autoridad no puede notificar a los propietarios o poseedores de predios, ya sea por ausencia o por que éstos se nieguen a recibir el documento, la notificación se realizará conforme lo dispone el Código Fiscal del Estado de Puebla o la legislación fiscal municipal que le resulte aplicable.
+
+###### Artículo 76.
+
+Cuando la autoridad catastral competente, a solicitud, practique actos de delimitación, de rectificación o de aclaración de linderos, deberá hacerlo en presencia de los propietarios o poseedores legítimos y de sus similares colindantes, o de sus representantes legales si estuvieren presentes, quienes deberán ser notificados previamente, para que manifiesten las aclaraciones o lo que a su derecho convenga. El solicitante pagará los derechos correspondientes a la operación catastral.
+
+De las actuaciones anteriores, se levantará acta circunstanciada, que firmarán quienes hubiesen intervenido, entregándose copia a cada uno de ellos para el ejercicio de sus derechos.
+
+###### Artículo 77.
+
+En los casos que proceda, las autoridades darán a conocer a los propietarios o poseedores de predios, por escrito debidamente fundado y motivado, el resultado de las operaciones catastrales que hayan realizado.
+
+###### Artículo 78.
+
+El resultado de las operaciones que realicen las autoridades catastrales, en ninguna forma acreditará la propiedad o posesión del predio de que se trate, por lo que no generará derecho alguno.
+
+## TÍTULO SEXTO. DE LOS PADRONES DE PERITOS VALUADORES Y PERITOS TOPÓGRAFOS
+
+### CAPÍTULO I. DEL PADRÓN DE PERITOS VALUADORES
+
+###### Artículo 79.
+
+Se establece el Padrón de Peritos Valuadores de Predios del Estado de Puebla, el cual estará integrado y administrado por el Instituto, como instrumento de consulta y apoyo a la sociedad en el ejercicio de la valuación comercial.
+
+###### Artículo 80.
+
+El ejercicio de la valuación en el Estado, por parte de los Peritos registrados en el Padrón a que se refiere este Capítulo, se regirá conforme a las disposiciones que establece esta Ley y demás que para tales efectos emita el Instituto.
+
+###### Artículo 81.
+
+Para los efectos de la presente Ley, la función de Perito Valuador consiste en determinar el valor comercial y la renta de predios, a través del avalúo o dictamen de arrendamiento correspondiente.
+
+###### Artículo 82.
+
+Los aspirantes a registrarse en el Padrón de Peritos Valuadores de Predios del Estado de Puebla, deberán presentar por escrito ante el Instituto la solicitud correspondiente y cumplir además los requisitos siguientes:
+
+l. Tener cédula profesional de valuador de predios, arquitecto, ingeniero civil, agrónomo u otra profesión afín, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública, y contar con la certificación del Instituto, asociación o colegio profesional de valuación comercial de predios al que pertenezca;
+
+II. Estar en ejercicio activo de su profesión y tener experiencia cuando menos de tres años, en materia de valuación comercial de predios; y
+
+III. Los demás que para tales efectos determine y emita el Instituto.
+
+Para efectos de la fracción II de este artículo, las personas morales deberán presentar el currículum de la empresa, así como copia simple del acta constitutiva con la que acrediten que dentro de su objeto se encuentra el de expedir avalúos comerciales.
+
+###### Artículo 83.
+
+El Instituto efectuará el registro en el Padrón correspondiente, una vez cumplidos los requisitos previstos en el artículo anterior y expedirá la constancia respectiva en un plazo que no excederá de 15 días.
+
+###### Artículo 84.
+
+Son obligaciones de los Peritos Valuadores registrados en el Padrón:
+
+I. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
+
+II. Asentar en los avalúos y en los dictámenes de arrendamiento, los datos que correspondan a la realidad, y determinar los valores de acuerdo a lo establecido por las disposiciones que para tales efectos emita el Instituto;
+
+III. Efectuar la inspección al predio objeto del avalúo;
+
+IV. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto; en los que exista interés por parte de alguno de sus parientes consanguíneos en línea recta sin limitación de grado, colateral dentro del cuarto grado, y por afinidad dentro del segundo grado; en los que tenga amistad o enemistad con las partes, así como relación civil o mercantil con alguna de ellas;
+
+V. Integrar los avalúos que expida, con los datos complementarios requeridos por la normatividad expedida por el Instituto; y
+
+VI. Las demás que les señalen esta Ley y las disposiciones aplicables.
+
+###### Artículo 85.
+
+Los Peritos Valuadores registrados, deberán estimar el valor comercial de los predios a la fecha de la emisión del avalúo; cuando se requiera y exista información suficiente, podrán referirlo a una época anterior.
+
+###### Artículo 86.
+
+Los Peritos Valuadores registrados en el Padrón, proporcionarán al Instituto los datos, documentos e información que éste les requiera.
+
+###### Artículo 87.
+
+Los avalúos comerciales y dictámenes de arrendamiento que se expidan conforme a las disposiciones de este Capítulo, tendrán vigencia de seis meses, contados a partir del día siguiente de la fecha de elaboración.
+
+###### Artículo 88.
+
+Las Dependencias del Gobierno del Estado, de los Municipios, sus organismos descentralizados y los fedatarios públicos, sólo admitirán los avalúos comerciales que se requieran para trámites ante dichas instancias que hubieran sido expedidos por Peritos Valuadores registrados en el Padrón.
+
+###### Artículo 89.
+
+Los Peritos Valuadores que funjan como servidores públicos en el Gobierno Federal, Estatal o Municipal, no podrán ser registrados en el Padrón durante el tiempo que presten dichos servicios. Para el caso de aquéllos que ya se encontraban registrados en el Padrón al momento de ingresar al servicio público, serán considerados como inactivos durante el tiempo que funjan como servidores públicos.
+
+### CAPÍTULO II. DEL PADRÓN DE LOS PERITOS TOPÓGRAFOS
+
+###### Artículo 90.
+
+Se establece el Padrón de Peritos Topógrafos del Estado de Puebla, el cual estará integrado y administrado por el Instituto, como instrumento de consulta y control.
+
+###### Artículo 91.
+
+El ejercicio de las actividades de los Peritos Topógrafos registrados en el Padrón a que se refiere este Capítulo, se regirá conforme a la práctica gremial, las disposiciones que establece esta Ley y demás que para tales efectos emita el Instituto.
+
+###### Artículo 92.
+
+Para los efectos de esta Ley, la función de Perito Topógrafo consiste en llevar a cabo levantamientos de predios.
+
+###### Artículo 93.
+
+Los aspirantes a registrarse en el Padrón de Peritos Topógrafos presentarán por escrito ante el Instituto, la solicitud correspondiente y deberán cumplir además los requisitos siguientes:
+
+I. Tener cédula profesional de Ingeniero Topógrafo o Ingeniero Civil expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+
+II. Estar en ejercicio activo de su profesión y tener experiencia cuando menos de tres años en materia topográfica; y
+
+III. Los demás que para tales efectos determine y emita el Instituto.
+
+###### Artículo 94.
+
+El Instituto efectuará el registro en el Padrón correspondiente, una vez cumplidos los requisitos previstos en el artículo anterior y expedirá la constancia respectiva en un plazo que no excederá de 15 días.
+
+###### Artículo 95.
+
+Son obligaciones de los Peritos Topógrafos registrados en el Padrón:
+
+I. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
+
+II. Elaborar los peritajes, planos y documentos de acuerdo a lo establecido por las disposiciones que para tales efectos emita el Instituto;
+
+III. Efectuar inspección al predio objeto del peritaje;
+
+IV. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto; en los que exista interés por parte de alguno de sus parientes consanguíneos en línea recta sin limitación de grado, colateral dentro del cuarto grado, y por afinidad dentro del segundo grado; en los que tenga amistad o enemistad con las partes, así como relación civil o mercantil con alguna de ellas;
+
+V. Integrar los peritajes que expida, con los datos complementarios requeridos por la normatividad expedida por el Instituto; y
+
+VI. Las demás que les señalen esta Ley y las disposiciones aplicables.
+
+###### Artículo 96.
+
+Los Peritos Topógrafos registrados en el Padrón, proporcionarán al Instituto los datos, documentos e información que les requiera.
+
+###### Artículo 97.
+
+Los Peritos Topógrafos que funjan como servidores públicos en el Gobierno Federal, Estatal o Municipal, no podrán ser registrados en el Padrón durante el tiempo que presten dichos servicios. Para el caso de aquéllos que ya se encontraban registrados en el Padrón al momento de ingresar al servicio público, serán considerados como inactivos durante el tiempo que funjan como servidores públicos.
+
+## TÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO I. DE LAS INFRACCIONES
+
+###### Artículo 98.
+
+Son infracciones a la presente Ley:
+
+I. No presentar en los plazos y términos establecidos la solicitud de inscripción y de modificación de datos en el Registro Catastral, los informes, avisos, licencias, autorizaciones y demás documentos y datos a que se refiere esta Ley;
+
+II. Proporcionar datos falsos o alterados en su solicitud de inscripción, avisos y demás documentos a que se refiere esta Ley;
+
+III. No proporcionar los datos, títulos, planos, contratos o cualquier otra documentación e informes que en materia catastral soliciten las autoridades o los servidores públicos acreditados, que sirvan para corroborar las declaraciones y conocer las características reales del predio;
+
+IV. Obstaculizar o no permitir el acceso al predio para efectuar la inspección, el levantamiento predial y demás operaciones catastrales a que se refiere esta Ley y otras disposiciones aplicables;
+
+V. Omitir comunicar o no inscribir ante la autoridad competente, la celebración de contratos que transmitan o modifiquen la propiedad inmobiliaria en los plazos y términos establecidos en esta Ley; y
+
+VI. Incurrir en cualquier otro acto u omisión, distinto de los enumerados en las fracciones anteriores, que en alguna forma infrinjan las disposiciones de esta Ley.
+
+### CAPÍTULO II. DE LAS SANCIONES
+
+###### Artículo 99.
+
+A quien cometa las infracciones a que se refiere el artículo anterior, la autoridad catastral impondrá las sanciones siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+I. Multa de $195.00 a $320.00, por infringir lo dispuesto en la fracción VI;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+II. Multa de $195.00 a $515.00, por infringir lo dispuesto en la fracción V;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+III. Multa de $195.00 a $640.00, por infringir lo dispuesto en la fracción I;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+IV. Multa de $320.00 a $960.00, por infringir lo dispuesto en la fracción III;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+V. Multa de $960.00 a $1,195.00, por infringir lo dispuesto en la fracción II, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VI. Multa de $1,280.00 a $1,915.00, por infringir lo dispuesto en la fracción IV.
+
+En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces al monto originalmente impuesto, sin exceder del doble del máximo permitido.
+
+Debe entenderse por reincidencia, la repetición de una infracción a las disposiciones de la presente Ley.
+
+###### Artículo 100.
+
+Las multas que se impongan con motivo de la aplicación de la presente Ley, se pagarán dentro del término de quince días hábiles siguientes a la fecha en que haya surtido efectos la notificación respectiva, ante la Secretaría de Finanzas y Administración o la Tesorería Municipal correspondiente, según sea la autoridad impositora; en caso de no ser cubiertas en dicho plazo y no haber interpuesto el Recurso Administrativo de Revisión, se constituirán en créditos fiscales que serán exigibles por dichas autoridades a través del Procedimiento Administrativo de Ejecución, en términos de la legislación fiscal aplicable.
+
+De haberse interpuesto el Recurso Administrativo de Revisión, las multas se constituirán en créditos fiscales una vez que se encuentre firme la resolución que ponga fin al mismo, en cuyo caso, deberán ser turnadas a la autoridad competente para su cobro en términos del párrafo anterior.
+
+###### Artículo 101.
+
+Las autoridades catastrales y servidores públicos estatales o municipales, que por cualquier circunstancia alteren o falsifiquen los datos contemplados dentro del registro de un predio, con el fin de favorecer o perjudicar al propietario o poseedor del mismo, o que imposibiliten, el cumplimiento de esta Ley, serán sancionados de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás ordenamientos aplicables.
+
+###### Artículo 102.
+
+Las sanciones por infracciones a lo dispuesto por esta Ley, se aplicarán independientemente de que se lleven a cabo las operaciones catastrales que se vinculen con éstas.
+
+###### Artículo 103.
+
+Para el caso de que en las disposiciones municipales en la materia, se prevean sanciones por infracciones a conductas similares a las sancionadas por esta Ley, prevalecerán estas últimas.
+
+## TÍTULO OCTAVO. DE LA ACLARACIÓN Y DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+
+### CAPÍTULO I. DE LA ACLARACIÓN
+
+###### Artículo 104.
+
+Los propietarios o poseedores de predios que así lo requieran, podrán en todo tiempo acudir ante las autoridades catastrales para solicitar la aclaración de los datos asentados en los registros correspondientes, en los siguientes casos:
+
+I. Cuando el nombre del propietario o poseedor del predio sea distinto al que aparezca inscrito en el Padrón Catastral;
+
+II. Cuando la clave catastral sea distinta a la que le corresponde al predio; y
+
+III. Cuando exista error o diferencia en la superficie y medidas del predio.
+
+###### Artículo 105.
+
+Para efectos de las aclaraciones a que se refiere el artículo anterior, los propietarios o poseedores de predios deberán presentar la documentación oficial en la que conste la información correcta.
+
+###### Artículo 106.
+
+La autoridad catastral estatal o municipal, atenderá y resolverá las aclaraciones de los propietarios o poseedores al momento de su recepción, salvo aquéllas que para substanciarlas requiera de la realización de alguna operación catastral, sin que ésta pueda exceder de un plazo de quince días, contados a partir de su admisión.
+
+###### Artículo 107.
+
+Las aclaraciones a que se refiere este Capítulo no constituyen instancia, ni interrumpen ni suspenden los plazos para que los propietarios o poseedores de predios puedan interponer el Recurso Administrativo de Revisión a que se refiere esta Ley.
+
+Las determinaciones que se tomen por la autoridad catastral con motivo de las aclaraciones, no podrán ser impugnadas.
+
+### CAPÍTULO II. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+
+###### Artículo 108.
+
+Los propietarios o poseedores y terceros afectados por los actos y resoluciones de las autoridades catastrales, podrán interponer el Recurso Administrativo de Revisión, el cual será substanciado y resuelto por el área que se determine en las disposiciones reglamentarias correspondientes o mediante acuerdo de la autoridad catastral competente.
+
+###### Artículo 109.
+
+El Recurso Administrativo de Revisión, deberá agotarse antes de acudir a los Tribunales Jurisdiccionales competentes.
+
+A falta de disposición expresa en esta Ley y en todo lo que no se oponga a la misma, para la substanciación y resolución del Recurso Administrativo de Revisión, será supletorio el Código Fiscal del Estado, el Código Fiscal Municipal del Estado y el Código Fiscal y Presupuestario para el Municipio de Puebla, según la autoridad que deba conocer del mismo y a falta de éstos, la legislación de derecho común.
+
+###### Artículo 110.
+
+El Recurso Administrativo de Revisión deberá ser presentado por escrito ante la autoridad catastral que emitió el acto o la resolución que se impugne, dentro del término de quince días hábiles siguientes a aquél en que se hubiere emitido o haya surtido efectos la notificación del mismo.
+
+###### Artículo 111.
+
+El escrito de interposición del Recurso Administrativo de Revisión, deberá estar firmado por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que deberá imprimir su huella digital. Además deberá señalar lo siguiente:
+
+I. La autoridad a quien va dirigido, así como el propósito del mismo;
+
+II. Nombre del recurrente;
+
+III. Domicilio para oír y recibir notificaciones, así como las personas autorizadas para tales efectos;
+
+IV. La resolución o el acto que se impugna;
+
+V. Los hechos controvertidos de que se trate;
+
+VI. Los agravios que le cause la resolución o el acto impugnado, incluyendo la disposición que considera violada y la fecha en que se le notificó o tuvo conocimiento del mismo, o en su caso, manifestación bajo protesta de decir verdad de la fecha en que tuvo conocimiento de éstos o de que no recibió notificación; y
+
+VII. Las pruebas.
+
+Cuando no se cumpla con los requisitos a que se refieren las fracciones anteriores, el área encargada de substanciar el recurso, requerirá al recurrente para que dentro del plazo de cinco días cumpla con dichos requisitos.
+
+Si dentro de dicho plazo no se cumplen los requisitos señalados en las fracciones I, II, III, IV y VI de este artículo, la autoridad desechará el recurso. Si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el recurrente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
+
+###### Artículo 112.
+
+El recurrente deberá acompañar al escrito en que interponga el recurso:
+
+I. Los documentos que acrediten su calidad de propietario, poseedor o tercero afectado;
+
+II. El documento que acredite su personalidad cuando actúe a nombre de otro o de una persona moral;
+
+II. El documento en que conste el acto impugnado;
+
+IV. Constancia de notificación del acto impugnado, o en su caso, la manifestación bajo protesta de decir verdad de que no recibió dicha notificación; y
+
+V. Las pruebas documentales que ofrezca, así como el cuestionario que debe desahogar el Perito en caso de prueba pericial, el cual deberá estar firmado por el recurrente.
+
+Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, salvo los previstos en las fracciones I y II, los cuales deberán presentarse en original o copia certificada.
+
+Cuando las pruebas documentales no obren en poder del recurrente, deberá señalar el archivo o lugar en que se encuentren para que la autoridad requiera su remisión cuando ésta le sea legalmente posible.
+
+Cuando no se acompañe alguno de los documentos a que se refieren las fracciones del presente artículo, la autoridad catastral requerirá al recurrente para que los presente dentro del término de cinco días. En caso de no presentarse los documentos a que se refieren las fracciones I a IV en el término señalado, se tendrá por no interpuesto el recurso y para el caso de la fracción V, las pruebas se tendrán por no ofrecidas.
+
+###### Artículo 113.
+
+Para la substanciación del Recurso Administrativo de Revisión, serán admisibles toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones.
+
+###### Artículo 114.
+
+El área encargada de substanciar el recurso, admitirá, desechará o tendrá por no ofrecidas las pruebas, mediante auto o acuerdo que se notifique personalmente al recurrente. Sólo podrá desechar las pruebas ofrecidas cuando su ofrecimiento no se haya efectuado conforme a derecho, no tengan relación con el fondo del asunto, sean inconducentes e innecesarias o contrarias a la moral y al derecho. Tal auto o acuerdo deberá estar debidamente fundado y motivado.
+
+###### Artículo 115.
+
+En el auto o acuerdo a que se refiere el artículo anterior, el área encargada de substanciar el recurso, señalará el plazo para el desahogo de las pruebas admitidas, salvo aquéllas que por su propia naturaleza no requieran mayor preparación, el cual no podrá ser menor a tres días ni mayor de quince, contados a partir del día siguiente a aquél en que surta efectos su notificación.
+
+Las pruebas supervenientes podrán ofrecerse en cualquier tiempo, siempre que no se haya emitido la resolución definitiva. En caso de que el área encargada de substanciar el recurso determine su admisión, serán aplicables las reglas a que se refiere el párrafo anterior, en cuyo caso el plazo para su desahogo no podrá ser menor de ocho ni mayor de quince días, contados a partir del día siguiente a aquél en que surta efectos la notificación respectiva.
+
+El área encargada de substanciar el recurso, valorará las pruebas y podrá ordenar la práctica de diligencias para mejor proveer.
+
+###### Artículo 116.
+
+En caso de que no exista prueba pendiente de desahogarse, el área encargada de substanciar el recurso, resolverá el mismo dentro del término que no excederá de dos meses, contados a partir de la fecha en que se desahogue la última de éstas.
+
+###### Artículo 117.
+
+La resolución será definitiva y se notificará personalmente al recurrente o a las personas que haya autorizado para tales efectos, a la autoridad que dictó el acto o la resolución impugnada y a las otras autoridades que deban conocerla conforme a sus atribuciones.
+
+###### Artículo 118.
+
+Durante la tramitación del Recurso Administrativo de Revisión y a petición de parte, el área encargada de substanciarlo, suspenderá los efectos del acto reclamado.
+
+###### Artículo 119.
+
+Se desechará por improcedente el recurso:
+
+I. Contra actos que sean materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y en contra del propio acto impugnado;
+
+II. Contra actos que no afecten los intereses jurídicos del recurrente;
+
+III. Contra actos consumados de un modo irreparable;
+
+IV. Contra actos consentidos, entendiéndose por consentimiento el de aquellos actos o resoluciones contra los que no se promovió el recurso en el plazo señalado al efecto;
+
+V. Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el recurrente, que pueda tener por efecto modificar, revocar o nulificar el acto o resolución respectivos; y
+
+VI. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley.
+
+Las causales de improcedencia, en su caso, deberán ser examinadas de oficio.
+
+###### Artículo 120.
+
+Procede el sobreseimiento en el recurso cuando:
+
+I. El recurrente se desista expresamente del recurso;
+
+II. El agraviado fallezca durante el procedimiento, si el acto respectivo sólo afecta su persona;
+
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+IV. Cuando hayan cesado los efectos del acto respectivo;
+
+V. Por falta de objeto o materia del acto correspondiente; y
+
+VI. No se probare la existencia del acto respectivo.
+
+###### Artículo 121.
+
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la facultad la autoridad resolutora de invocar hechos notorios; pero cuando se trate de agravios que se refieran al fondo de la cuestión controvertida, a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento.
+
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+
+###### Artículo 122.
+
+La resolución que ponga fin al recurso podrá:
+
+I. Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo;
+
+II. Confirmar el acto o resolución impugnada;
+
+III. Dejar sin efectos el acto o resolución impugnada;
+
+IV. Mandar a reponer el procedimiento de que se trate; y
+
+V. Modificar el acto o resolución impugnada, o dictar uno nuevo que lo sustituya.
+
+En el caso de que se ordene la reposición del procedimiento, la autoridad responsable, deberá informar al área encargada de substanciar y resolver el recurso, dentro de los siguientes quince días, sobre el cumplimiento que haya dado a la resolución dictada en revisión.
+
+Contra el acto o la resolución definitivos, emitidos en cumplimiento a una resolución que ordene reponer el procedimiento, procede el Recurso Administrativo de Revisión.
+
+###### Artículo 123.
+
+El área encargada de substanciar y resolver el recurso, declarará que un acto o resolución es ilegal, cuando se demuestre alguna de las siguientes causales:
+
+I. Incompetencia del funcionario que la haya dictado, ordenado o tramitado el procedimiento del que deriva dicha resolución;
+
+II. Omisión de los requisitos formales exigidos por las leyes, siempre que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso;
+
+III. Vicios del procedimiento siempre que afecten las defensas del particular y trasciendan al sentido de la resolución impugnada; y
+
+IV. Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas, en cuanto al fondo del asunto.
+
+El área a que se refiere este artículo mandará reponer el procedimiento, cuando se trate de lo previsto en las fracciones II y III antes señaladas.
 
 ## TRANSITORIOS
+
+Primero.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Se abroga la Ley de Catastro del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha veintidós de febrero de mil novecientos noventa y uno.
+
+Tercero.- Las disposiciones del Reglamento de la Ley de Catastro del Estado de Puebla, publicado en el Periódico Oficial del Estado el veintiuno de febrero de mil novecientos noventa y dos, serán aplicables, siempre y cuando no se opongan a la presente Ley y demás disposiciones que de ella deriven.
+
+Cuarto.- Se derogan todas aquellas disposiciones de carácter legal y administrativo que se opongan a la presente Ley.
+
+Quinto.- Los trámites administrativos iniciados por las autoridades catastrales y demás sujetos de esta Ley, antes de la entrada en vigor de la misma, serán resueltos con las disposiciones vigentes al momento en que se iniciaron.
+
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de julio de dos mil diez.- Diputado Presidente.- JOEL JAIME HERNÁNDEZ RUIZ.- Rúbrica.- Diputado Vicepresidente.- MANUEL FERNÁNDEZ GARCÍA.- Rúbrica.- Diputada Secretaria.- MARÍA ANGÉLICA HERNÁNDEZ HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ANDRÉS RICARDO MACIP MONTERROSAS.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las disposiciones reglamentarias que deriven de las presentes reformas se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
