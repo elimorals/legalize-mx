@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "1996-11-10"
+last_updated: "2003-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -41,13 +41,17 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 1o.
 
-Es objeto de esta Ley establecer las bases y requisitos para la contratación, regulación y control de créditos, empréstitos o préstamos que constituyan la Deuda Pública del Estado Libre y Soberano de Aguascalientes.
+Esta Ley es reglamentaria de la fracción IV del artículo 27, en relación con la fracción VIII del artículo 46, ambos de la Constitución Política del Estado de Aguascalientes, y tiene por objeto establecer las bases y requisitos para la contratación, regulación y control de financiamientos y empréstitos que constituyan la Deuda Pública del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 2o.
 
-La Deuda Pública del Estado está constituida por las obligaciones de pasivo directas o contingentes derivadas de financiamientos contraídos por:
+La Deuda Pública del Estado está constituida por las obligaciones de pasivo directas o contingentes derivadas de financiamientos y empréstitos a cargo de:
 
 I.- El Gobierno del Estado;
 
@@ -59,69 +63,71 @@ IV.- Las empresas de participación mayoritaria estatal o municipal; y
 
 V.- Los fideicomisos en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 3o.
 
-Se entiende por Deuda Pública del Estado los créditos, empréstitos o préstamos que contrate alguna de las Entidades señaladas en el artículo anterior, así como las que contraiga el Gobierno del Estado o el Gobierno Municipal en el ámbito de su competencia como avalista o deudor solidario de dichos sujetos.
+Se entiende por Deuda Pública del Estado, los financiamientos o empréstitos a cargo de alguna de las Entidades señaladas en el artículo anterior, así como las que contraiga el Gobierno del Estado o el Gobierno Municipal en el ámbito de su competencia como avalista o deudor solidario de dichos sujetos.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 4o.
 
-Para efectos de esta Ley, no se considerará Deuda Pública la apertura de líneas de créditos que contraten los sujetos señalados en el Artículo 2o. de la presente Ley, a excepción de las disposiciones monetarias que de ellas se deriven, de igual forma no se considerará Deuda Pública las pensiones de retiro, o cualquier otra manera de tener un adeudo que difiera de los conceptos contenidos en la presente Ley, así como las obligaciones directas a corto plazo que contraigan para solventar necesidades temporales de liquidez que se amorticen en el mismo ejercicio fiscal, de las cuales no será necesario obtener la autorización de la H. Legislatura y deberán incluirse en la Cuenta Pública.
+Para efectos de esta Ley, no se considerará Deuda Pública la apertura de líneas de crédito que contraten los sujetos señalados en el Artículo 2º de la presente Ley, así como las obligaciones directas a corto plazo que contraigan para solventar necesidades temporales de liquidez que se amorticen en el mismo ejercicio fiscal, de las cuales no será necesario obtener la autorización de la H. Legislatura y deberán incluirse en la Cuenta Pública.
 
-###### Articulo 5o.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+###### Artículo 5o.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- "Ayuntamiento". La Administración Pública de cada uno de los Municipios existentes en el Estado;
+I.- Ayuntamiento.- La Administración Pública de cada uno de los municipios existentes en el Estado;
 
-II.- "Contrato de Apertura de Crédito o de Líneas de Crédito". Contrato en virtud del cual una de las partes llamada acreditante se obliga a poner una suma de dinero a disposición de otra llamado acreditado, para que dicho acreditado haga uso del crédito concedido en la forma y términos pactados, quedando obligado a su vez el acreditado a devolver al acreditante las sumas de que disponga, los intereses que se generen, así como las comisiones, gastos y otras prestaciones que se estipulen;
+II.- Entidades.- Los sujetos señalados en el artículo 2º de la presente Ley;
 
-III.- "Crédito". Derecho que tiene una persona (acreedora) de recibir de otra (deudora), la prestación a que ésta se encuentra obligada;
+III.- Estado.- El Estado de Aguascalientes;
 
-IV.- "Empréstito". Operación financiera que realiza el Estado o los entes públicos, normalmente mediante la emisión de títulos de crédito, para atender sus necesidades u obligaciones;
+IV.- Gobierno del Estado.- La Administración Pública representada por el Poder Ejecutivo;
 
-V.- "Entidades". Los sujetos señalados en el Artículo 2o. de la presente Ley;
+V.- H. Legislatura.- El Congreso del Estado de Aguascalientes en los términos del Artículo 15 de la Constitución Política del Estado de Aguascalientes;
 
-VI.- "Estado". El Estado Libre y Soberano de Aguascalientes;
+VI. Municipio o Municipios.- El o los municipios que se encuentren dentro del territorio del Estado de Aguascalientes;
 
-VII.- "Financiamiento". La contratación de créditos, empréstitos o préstamos derivados de:
+VII.- Ley.- La Ley de Deuda Pública del Estado de Aguascalientes;
 
-a).- La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a cualquier plazo;
+VIII.- La Secretaría de Finanzas y Administración.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Aguascalientes.
 
-b).- La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se realice por medio de créditos, empréstitos o préstamos;
+IX.- Financiamiento.- La contratación de créditos y empréstitos motivados en:
 
-c).- Los pasivos contingentes relacionados con los actos mencionados en los incisos anteriores;
+a).- La suscripción o emisión de títulos de crédito, bonos de deuda, obligaciones bursátiles y valores afines;
 
-d).- Las disposiciones monetarias efectivas de las líneas de crédito que tengan contratadas las entidades señaladas en el Artículo 2o. de la presente Ley; y
+b.- La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se realice por medio de créditos, empréstitos o préstamos;
+
+c.- Los pasivos contingentes relacionados con los actos mencionados en los incisos anteriores;
+
+d).- Las disposiciones monetarias efectivas de las líneas de crédito que tengan contratadas las entidades señaladas en el artículo 2º de la presente Ley; y
 
 e).- La celebración de actos jurídicos análogos a los anteriores, contemplados en las diversas legislaciones aplicables a los créditos, empréstitos y préstamos;
 
-VIII.- "Gobierno del Estado". La Administración Pública representada por el Poder Ejecutivo;
+X.- Empréstito.- Operación financiera que realiza el Estado o los entes públicos, mediante la contratación de créditos instrumentados mediante la suscripción de contratos, títulos de crédito o la suscripción o emisión de bonos de deuda, obligaciones bursátiles y valores afines;
 
-IX.- "H. Legislatura". El Congreso del Estado de Aguascalientes, en los términos del Artículo 15 de la Constitución Política del Estado de Aguascalientes;
+IX.- Líneas de Crédito.- Los contratos de apertura de crédito o de apertura de Líneas de Crédito;
 
-X.- "Ley". La Ley de Deuda Pública del Estado de Aguascalientes;
+XII.- Obligaciones Contingentes.- Los financiamientos que contraten los organismos descentralizados estatales o municipales, las empresas de participación mayoritaria estatal o municipal y los fideicomisos cuando se otorgue aval por el Gobierno del Estado o de los municipios. Dichos financiamientos se incluirán en la Ley de Ingresos respectiva bajo el rubro de Cuentas de Orden y no formará parte del Programa de Financiamiento Neto;
 
-XI.- "Líneas de Crédito". Los contratos de apertura de crédito o de apertura de líneas de crédito;
+XIII.- Obligaciones de Pasivo Directas.- Los financiamientos que contrate el Gobierno del Estado o los gobiernos municipales; y
 
-XII.- "Municipio o Municipios". El o los municipios que se encuentren dentro del territorio del Estado de Aguascalientes;
-
-XIII.- "Obligaciones Contingentes". Los financiamientos que contraten los organismos descentralizados estatales o municipales, las empresas de participación mayoritaria estatal o municipal y los fideicomisos cuando se otorgue aval por el Gobierno del Estado o de los municipios. Dichos financiamientos se incluirán en la Ley de Ingresos respectiva bajo el rubro de Cuentas de Orden y no formarán parte del Programa de Financiamiento Neto;
-
-XIV.- "Obligaciones de Pasivo Directas". Los financiamientos que contrate el Gobierno del Estado o los Gobiernos Municipales;
-
-XV.- "Préstamo". Contrato en virtud del cual una persona, mediante intereses o sin ellos, transfiere a otra una suma de dinero o cosas fungibles, quedando ésta obligada a devolver otro tanto de la misma especie o calidad;
-
-XVI.- "Programa de Financiamiento Neto". La cantidad total estimada que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos.
+XIV.- Programa de Financiamiento Neto.- La cantidad total estimada, que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos.
 
 El pago de intereses no formará parte del Financiamiento Neto pero deberá incluirse en el Presupuesto de Egresos correspondiente e informarse en la Cuenta Pública para su revisión.
 
-El Programa de Financiamiento Neto del ejercicio fiscal en curso de que se trate no incluirá el monto disponible de las líneas de crédito y las conversiones de deuda; y
+El Programa de Financiamiento Neto del ejercicio fiscal en curso de que se trate no incluirá el monto disponible de las líneas de crédito y las conversiones de deuda.
 
-XVII.- "Secretaría". La Secretaría de Finanzas del Estado de Aguascalientes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 6o.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, estará facultado para proveer en la esfera administrativa las disposiciones que sean necesarias para asegurar el adecuado cumplimiento de la presente Ley. Tal atribución será ejercida con total respeto a la libertad municipal.
+El Ejecutivo del Estado, por conducto de la Secretaría, está facultado para proveer en la esfera administrativa las disposiciones que sean necesarias para asegurar cumplimiento de la presente Ley. Tal atribución será ejercida con total respeto a la autonomía municipal.
 
 Los titulares de las entidades serán responsables del estricto cumplimiento de las disposiciones de esta Ley. Las infracciones a la presente Ley y a los ordenamientos citados se sancionarán de conformidad al régimen de Responsabilidades de los Servidores Públicos.
 
@@ -139,19 +145,25 @@ I.- En ningún caso se podrán celebrar operaciones directas con gobiernos de ot
 
 II.- Los financiamientos no podrán pagarse en moneda extranjera o fuera del territorio nacional;
 
-III.- Los financiamientos sólo podrán destinarse a inversiones productivas, mismas que deberán cumplir con las disposiciones señaladas en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+III.- Los Financiamientos se destinarán invariablemente a inversiones públicas socio-económicamente productivas o recuperables;
 
 IV.- Los financiamientos deberán ser congruentes con los objetivos y previsiones contenidos en las Leyes de Ingresos, Presupuestos de Egresos, Ley de Coordinación Fiscal Estatal, Ley de Presupuesto, Contabilidad y Gasto Público y programas estatales, municipales e institucionales;
 
-V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los financiamientos se deberán ajustar a la capacidad de pago de las entidades;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría de Finanzas y Administración establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2º;
 
 VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obtener las condiciones mejores en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia; y
 
 VII.- Integrar los documentos necesarios en materia de control interno, a fin de que los procedimientos, actos o convenios sean susceptibles de auditoría o revisión por las instancias competentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 9o.
 
-Los financiamientos se destinarán invariablemente a inversiones públicas productivas o recuperables, entendiéndose como tales:
+Se entienden como inversiones públicas productivas o responsables:
 
 I.- Las que se destinen a la realización de obras públicas mediante el sistema de aportación a los programas de mejoras;
 
@@ -163,7 +175,17 @@ IV.- Las destinadas a la instalación, ampliación o mejoramiento de los servici
 
 V.- La reestructuración o conversión de la Deuda Pública; y
 
-VI.- Los análisis, estudios, adquisición de muebles o inmuebles de proyectos públicos así como las demás obras que sean necesarias para elevar el nivel de vida de la población, mismos que se incluirán en los presupuestos de egresos respectivos, así como en los Catálogos de Cuenta, bajo los rubros de Servicios Generales e Infraestructura y Desarrollo según sea el caso.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+VI.- Los análisis, estudios, para la sustitución de equipo de transporte destinado para el servicio público, obsoleto o de incosteable mantenimiento; adquisición de muebles de consumo duradero; o inmuebles de proyectos públicos, así como las demás obras que sean necesarias para elevar el nivel de vida de la población, mismos que se incluirán en los presupuestos de egresos respectivos, bajo los rubros de Gasto de Inversión y/o Capital.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+VII.- Las destinadas a realizar proyectos, actividades y empresas de participación estatal mayoritaria que apoyen los planes de desarrollo económico y social, y que generen ingresos directos o indirectos; y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+VIII.- Las destinadas a disminuir los gastos de operación del Estado mediante inversiones que posibiliten una mejora tecnológica, administrativa y operativa, que libere recursos aplicables a necesidades sociales.
 
 ###### Artículo 10.
 
@@ -205,7 +227,9 @@ Corresponde al Gobierno del Estado:
 
 I.- Otorgar en su caso, previa autorización de la H. Legislatura, el aval para los financiamientos en favor de las entidades; y
 
-II.- Autorizar a las entidades, dentro del ámbito de su competencia, a fin de que lleven a cabo la contratación de financiamientos.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+II.- Autorizar a las entidades, dentro del ámbito de su competencia, previo el cumplimiento de los requisitos previstos en el artículo 31 de la Ley de Control de Entidades Paraestatales, a fin de que lleven a cabo la contratación de Financiamientos.
 
 ###### Artículo 14.
 
@@ -221,9 +245,13 @@ IV.- Solicitar a la H. Legislatura la aprobación de montos adicionales al Progr
 
 V.- Cuidar que los recursos procedentes de financiamientos constitutivos de la Deuda Pública se destinen a la realización de proyectos, actividades o empresas que apoyen los planes de desarrollo económico y social y que generen ingresos directos o indirectos;
 
-VI.- Celebrar en el ámbito de su competencia los contratos y convenios para la obtención de financiamientos, suscribiendo los documentos y títulos de crédito requeridos para tales efectos, así como para las operaciones de reestructuración o de conversión de financiamientos adquiridos por el Estado y sus entidades dentro del ámbito de su competencia;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
 
-VII.- Afectar en garantía de pago de las obligaciones contraidas directamente o como aval, los ingresos estatales o las participaciones federales que le correspondan;
+VI.- Celebrar en el ámbito de su competencia los contratos, convenios, mandatos, fideicomisos de administración y pago, fideicomisos de garantía, excepto de inmuebles, así como otorgar el instrumento legal idóneo para la obtención de Financiamientos, suscribiendo los documentos y títulos de crédito requeridos para tales efectos; así como para las operaciones de reestructuración o de conversión de financiamientos adquiridos por el Estado y sus entidades dentro del ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+VII.- Amortizar obligaciones contraídas directamente o como aval, con los ingresos estatales o las participaciones federales que le correspondan, al sujeto pasivo respectivo, en ejercicio del mandato otorgado por éste a tal efecto;
 
 VIII.- Verificar, en caso de reclamo de algún acreedor, que se hayan cumplido oportunamente con las amortizaciones de capital y pago de intereses derivados de financiamientos, que constituyan la Deuda Pública;
 
@@ -231,7 +259,9 @@ IX.- Llevar el registro de las obligaciones de Deuda Pública derivadas de la co
 
 X.- Expedir por medio del Registro Estatal de Deuda Pública los certificados de afectación de los ingresos estatales, municipales o de fondos federales repartibles e ingresos coordinados cuando el Estado o los municipios los otorguen como garantía y pagar a los acreedores por el incumplimiento de las obligaciones a cargo de las entidades, de acuerdo al mecanismo establecido en el Artículo 30 de la presente Ley;
 
-XI.- Emitir bonos y otros títulos de deuda y demás títulos de crédito o documentos aplicables, en los términos de esta Ley y de la legislación de la materia.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+XI.- Emitir bonos, títulos de deuda e instrumentos bursátiles, en términos de lo dispuesto por el artículo 24 de esta Ley, y en ejercicio de las atribuciones que en la materia prevé la Ley Orgánica de la Administración Pública del Estado y el Reglamento Interior de la Secretaría de Finanzas y Administración; y
 
 XII.- Las demás facultades que le confieren la Constitución Política del Estado de Aguascalientes y otras disposiciones aplicables.
 
@@ -241,7 +271,9 @@ A los Ayuntamientos corresponde:
 
 I.- Solicitar a la H. Legislatura la aprobación de sus Programas de Financiamiento Neto;
 
-II.- Suscribir en el ámbito de su competencia los convenios, contratos y títulos de crédito necesarios para la obtención de financiamientos y demás operaciones de deuda;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+II.- Celebrar en el ámbito de su competencia los contratos, convenios, mandatos, fideicomisos de administración y pago, fideicomisos de garantía, excepto de inmuebles, así como otorgar el instrumento legal idóneo para la obtención de Financiamientos, suscribiendo los documentos y títulos de crédito requeridos para tales efectos; así como para las operaciones de reestructuración o de conversión de Financiamientos adquiridos por el Estado y sus entidades dentro del ámbito de su competencia;
 
 III.- Presentar mensualmente al Registro Estatal de Deuda Pública los informes en relación al estado de su Deuda Pública, con la finalidad de que dicho Registro cumpla con lo dispuesto en la fracción III del Artículo 14 de la presente Ley;
 
@@ -303,9 +335,11 @@ Los municipios y sus entidades al solicitar el aval del Gobierno del Estado, deb
 
 Los financiamientos que contraten los Municipios o sus entidades deberán estar incluidos en el Programa de Financiamiento Neto Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 24.
 
-El Estado solamente podrá emitir bonos y obligaciones de deuda pública previa autorización de la H. Legislatura y sujetos a los siguientes requisitos y previsiones:
+El Gobierno del Estado podrá emitir bonos, obligaciones bursátiles, títulos de crédito y varios valores afines, ya sea colocación privada o el mercado bursátil, previa autorización de la H. Legislatura y sujetos a los siguientes requisitos y previsiones:
 
 I.- Deberán ser pagaderos en México y nominados en moneda nacional;
 
@@ -315,9 +349,13 @@ III.- Que su fin sea para inversiones públicas productivas;
 
 IV.- En los títulos se deberá indicar que no serán negociables fuera del país o a entidades o personas extranjeras;
 
-V.- Deberán estar garantizados con las participaciones federales aplicables u otro tipo de garantías; y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
 
-VI.- Solamente podrán suscribirse bajo el concepto de renta fija.
+V.- Su pago se efectuará con las participaciones federales aplicables u otro tipo de garantías; y
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+
+VI.- Podrán suscribirse bajo el concepto de renta fija o variable, de acuerdo con las mejores condiciones del mercado financiero.
 
 Tanto los bonos como las obligaciones que emita el Estado, deberán sujetarse a lo dispuesto en la normatividad federal de la materia, así como a su calificación por la institución competente y publicarse en (sic) cuando menos en el Diario Oficial de la Federación, el Periódico Oficial del Estado, un periódico estatal y uno nacional de mayor circulación.
 
@@ -381,9 +419,11 @@ III.- Proporcionar al Registro Estatal de Deuda Pública la información que req
 
 IV.- Las entidades, dentro de los quince días siguientes a que se efectuó el pago parcial o total de los financiamientos, deberán comprobarlo ante el Registro Estatal de Deuda Pública, a fin de que éste proceda a la cancelación parcial o total de las inscripciones correspondientes.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 30.
 
-La inscripción en el Registro Estatal de Deuda Pública de las obligaciones directas o contingentes a cargo de las entidades, confiere a los acreedores, en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los diversos ingresos estatales, municipales, o participaciones e incentivos federales, según hayan sido garantizados o avalados, mediante un fideicomiso creado para tal efecto.
+La inscripción en el Registro Estatal de Deuda Pública de las obligaciones directas o contingentes a cargo de las entidades, confiere a los acreedores en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los diversos ingresos estatales, municipales o participaciones e incentivos federales según hayan sido garantizados o predeterminada su fuente de pago para que la Secretaría ejerza el mandato previamente otorgado, para amortizar las prestaciones exigibles, en ejecución del fideicomiso de garantía y fuente de pago.
 
 ###### Artículo 31.
 
@@ -494,3 +534,9 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
