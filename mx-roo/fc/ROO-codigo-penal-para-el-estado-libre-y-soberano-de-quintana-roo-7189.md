@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "1991-03-29"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -205,7 +205,7 @@ No hay delito cuando:
 
 I.- La actividad o inactividad del agente sean involuntarias;
 
-II.- Falte alguno de los elementos objetivos de la descripción legal;
+II. Falte alguno de los elementos objetivos de la descripción legal;
 
 III.- Se repela una agresión real actual o inminente, sin derecho en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad racional de la defensa empleada y no medie provocación suficiente o inmediata por parte del agredido o de la persona a quien se defiende; se presumirá como legítima defensa, salvo prueba en contrario, el hecho de causar un daño a quien, a través de la violencia o de cualquier medio trate de penetrar sin derecho al hogar del agente, al de su familia, a sus dependencias o a los de cualquier otra persona que tenga la obligación de defender, o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
 
@@ -439,7 +439,7 @@ La publicación se hará a costa del delincuente. Si ésto no es posible y lo so
 
 Si el delito por el que se impone la publicación de sentencia fue cometido a través de un medio de comunicación social, además de la publicación a que se refiere el artículo anterior, se hará también por el medio empleado al cometer el delito, con las mismas características que se hubieren utilizado.
 
-### CAPITULO XIII. TRATAMIENTO E INTERNAMIENTO O EN LIBERTAD DE IMPUTABLES O DE SUJETOS CON IMPUTABILIDAD DISMINUIDA
+### CAPITULO XIII. TRATAMIENTO E INTERNAMIENTO O EN LIBERTAD DE IMPUTABLES (SIC) O DE SUJETOS CON IMPUTABILIDAD DISMINUIDA
 
 ###### ARTICULO 43.
 
@@ -1385,6 +1385,10 @@ XIII.- El que hubiere vendido una cosa mueble o recibido su precio, si no la ent
 
 XIV.- El que venda a dos o más personas una misma cosa, sea mueble o inmueble y reciba el precio de una u otra venta o ambas o parte de él, con perjuicio del primer o siguientes compradores.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XV.- Al que por medio de tarjetas, títulos o documentos falsos relacionados con instituciones bancarias o comerciales, o bien auténticos, pero adquiridos indebidamente y sin autorización de quien está facultado para ello, haga el pago de cualquier bien o servicio u obtenga dinero en efectivo para sí o para otro. Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad más.
+
 ###### ARTICULO 154.
 
 Se impondrá de seis meses a diez años de prisión y hasta quinientos días multa, al que, causando daño o perjuicio, transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre un bien inmueble, sus instalaciones o parte de él, careciendo del previo permiso de la autoridad administrativa correspondiente, o cuando teniéndolo no cumpla con los requisitos.
@@ -1673,6 +1677,26 @@ Se impondrá prisión de seis meses a tres años y de quince a noventa días mul
 
 Las mismas penas se impondrá al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 189
+
+BIS.- Se impondrá hasta una mitad más de las penas previstas en el artículo anterior, al que:
+
+I.- Produzca, imprima, enajene aún gratuitamente, distribuya o altere tarjetas, títulos, documentos o instrumentos utilizados para el pago de bienes o servicios o para disposición en efectivo, sin consentimiento de quien esté facultado para ello.
+
+II.- Adquiera, posea o detente ilícitamente tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo a sabiendas de que son alterados o falsificados.
+
+III.- Copie o reproduzca, altere los medios de identificación electrónica, cintas o dispositivos magnéticos de documentos para el pago de bienes o servicios o para disposición en efectivo.
+
+IV.- Accese indebidamente los equipos y sistemas de cómputo o electromagnéticos de las instituciones emisoras de tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo.
+
+Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán hasta en una mitad más.
+
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
+
 ### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 ###### ARTICULO 190.
@@ -1801,7 +1825,7 @@ III.- Separar o impedir el desempeño de su cargo al Gobernador o alguno de los 
 
 IV.- Sustraer de la obediencia del Gobierno, toda o una parte de la población del Estado o algún cuerpo de Seguridad Pública de la Entidad.
 
-### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACION
+### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
 
 ###### ARTICULO 203.
 
@@ -1873,7 +1897,7 @@ Se impondrá de seis meses a cinco años de prisión y de treinta a doscientos c
 
 I.- En el desempeño de su empleo, cargo o comisión, otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, pariente por afinidad y por consanguinidad hasta el cuarto grado, o socios o sociedades de las que el servidor público o las personas antes referidas formen parte, o
 
-II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no sea materia de sus funciones y que no sea del conocimiento público hasta por sí o por interpósita persona, inversiones, enajenaciones, adquisicones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
+II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no sea materia de sus funciones y que no sea del conocimiento público hasta por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
 
 ### CAPITULO I. COHECHO
 
@@ -2305,7 +2329,7 @@ V.- En ejercicio de sus funciones, ejerza presión sobre los electores y los ind
 
 VI.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia; y
 
-VII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
+VIII.- Al que expulse de la casilla electoral sin causa justificada al representante de un partido político.
 
 ###### ARTICULO 265.
 
@@ -2366,3 +2390,9 @@ DR. MIGUEL BORGE MARTIN
 EL SECRETARIO DE GOBIERNO.
 
 ING. JUAN MANUEL MERCADER RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
