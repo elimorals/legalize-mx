@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1992-07-17"
+last_updated: "1993-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 1993.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -63,7 +63,9 @@ ARTICULO 2
 
 ARTICULO 3
 
-1. La aplicación de las normas de este Código corresponde al Instituto Federal Electoral, al Tribunal Federal Electoral y a los Colegios Electorales para la calificación de las elecciones de diputados y senadores, en sus respectivos ámbitos de competencia.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. La aplicación de las normas de este Código corresponde al Instituto Federal Electoral, al Tribunal Federal Electoral y a la Cámara de Diputados erigida en Colegio Electoral para la calificación de la elección de Presidente de los Estados Unidos Mexicanos, en sus respectivos ámbitos de competencia.
 
 2. La interpretación se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
 
@@ -77,11 +79,49 @@ ARTICULO 4
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Quedan prohibidos los actos que generen presión o coacción a los electores.
+
 ARTICULO 5
 
-1. Es derecho de los ciudadanos mexicanos constituir partidos políticos nacionales y pertenecer a ellos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Es derecho de los ciudadanos mexicanos constituir partidos políticos nacionales y pertenecer a ellos libremente.
 
 2. Es obligación de los ciudadanos mexicanos integrar las mesas directivas de casilla en los términos de este Código.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de las actividades electorales durante la jornada electoral, en la forma y términos que determine el Consejo General del Instituto Federal Electoral para cada proceso electoral, de acuerdo con las bases siguientes:
+
+a) Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral;
+
+b) Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopia de su Credencial para Votar con fotografía, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido u organización política alguna;
+
+c) La acreditación deberá solicitarse ante la Junta Local correspondiente a su domicilio dentro del plazo que para tal efecto establezca el Consejo General del Instituto Federal Electoral;
+
+d) Sólo se otorgará la acreditación a quien cumpla, además de los que señale la autoridad electoral, los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. No ser, ni haber sido miembro de dirigencias nacionales, estatales o municipales de organización o de partido político alguno en los últimos tres años anteriores a la elección;
+
+III. No ser, ni haber sido candidato a puesto de elección popular en los últimos tres años anteriores a la elección; y
+
+IV. Asistir a los cursos de preparación o información que a tal efecto acuerde la autoridad electoral.
+
+e) Los observadores se abstendrán de:
+
+I. Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de las mismas;
+
+II. Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
+
+III. Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y
+
+IV. Declarar el triunfo de partido político o candidato alguno; y
+
+f) Los observadores podrán presentar ante la autoridad electoral, informe sobre el desarrollo de la jornada en los términos y tiempos que para tal efecto determine el Consejo General. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
 ARTICULO 6
 
@@ -101,13 +141,17 @@ ARTICULO 7
 
 a) Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar;
 
-b) No ser consejero magistrado en el Consejo General del Instituto Federal Electoral;
+b) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
-c) No ser magistrado, juez instructor o secretario del Tribunal Federal Electoral;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) No ser magistrado, juez instructor o secretario del Tribunal Federal Electoral, salvo que se separe del cargo un año antes de la fecha de inicio del período de registro de candidatos;
 
 d) No pertenecer al personal profesional del Instituto Federal Electoral;
 
-e) No ser consejero en el Consejo General o consejero ciudadano ante los Consejos Locales o Distritales del Instituto, salvo que se separe seis meses antes de la elección;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) No ser consejero magistrado en el Consejo General o consejero ciudadano ante los Consejos Locales o Distritales del Instituto, ni Director General, Secretario General o Director Ejecutivo del mismo, salvo que se separe un año antes de la fecha de inicio del registro de la elección de que se trate;
 
 f) No ser presidente municipal o delegado político en el caso del Distrito Federal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo tres meses antes de la fecha de la elección;
 
@@ -117,7 +161,9 @@ h) No ser representante de partido político ante el Consejo General o ante los 
 
 ARTICULO 8
 
-1. A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral. Tampoco podrá ser candidato para un cargo federal de elección popular y simultáneamente para otro de los Estados o los municipios. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
 2. Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral, más de 30 candidatos a diputados federales por mayoría relativa y por representación proporcional distribuidos en sus cinco listas regionales.
 
@@ -137,7 +183,21 @@ ARTICULO 11
 
 1. La Cámara de Diputados se integra por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y 200 diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales votadas en circunscripciones plurinominales. La Cámara de Diputados se renovará en su totalidad cada tres años.
 
-2. La Cámara de Senadores se integra por dos miembros por cada Estado y dos por el Distrito Federal, electos por mayoría relativa y voto directo. La Cámara se renovará por mitad cada tres años.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Para integrar la Cámara de Senadores, en cada Estado y en el Distrito Federal se elegirán cuatro senadores, de los cuales tres serán electos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para cada entidad federativa, los partidos políticos deberán registrar una lista con tres fórmulas de candidatos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En la lista a que se refiere el párrafo anterior, los partidos políticos señalarán el orden en que deben aparecer las fórmulas de candidatos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. La Cámara se renovará en su totalidad, en elección directa, cada seis años.
 
 ### CAPITULO SEGUNDO. De la representación proporcional para la integración de la Cámara de Diputados y de las fórmulas de asignación
 
@@ -145,91 +205,99 @@ ARTICULO 12
 
 1. Para los efectos de la aplicación de la fracción II del artículo 54 de la Constitución, se entiende por votación emitida el total de los votos depositados en las urnas.
 
-2. En la aplicación de los incisos b), c) o d) de la fracción IV del artículo 54 de la Constitución, para la asignación de curules de representación proporcional se entenderá como votación nacional emitida y como votación nacional, la que resulte de deducir de la votación emitida los votos a favor de los partidos políticos que no hayan obtenido el 1.5% y los votos nulos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. En la aplicación de la fracción III del artículo 54 de la Constitución, para la asignación de diputados de representación proporcional, se entenderá como votación nacional emitida la que resulte de deducir de la votación total emitida, los votos a favor de los partidos políticos que no hayan obtenido el 1.5% y los votos nulos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En la aplicación de la fracción VII del artículo 54 de la Constitución, para la asignación de los diputados, se deducirá de la votación nacional emitida, los votos del partido político al que se le hubiese aplicado alguno de los límites establecidos en las fracciones IV, V y VI del propio artículo 54 de la Constitución.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 13
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1991)</small>
+1. Para la asignación de diputados de representación proporcional conforme a lo dispuesto en la fracción III del artículo 54 de la Constitución, se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
 
-1. El otorgamiento de constancias de asignación conforme al principio de representación proporcional de conformidad con la fracción III y en los casos comprendidos en la fracción IV, ambas del artículo 54 de la Constitución, se realizará como sigue:
+a) Cociente de unidad; y
 
-a) Si ningún partido político obtiene por lo menos el 35% de la votación nacional emitida y ninguno alcanza 251 o más constancias de mayoría relativa, a cada partido político le serán otorgados de las listas regionales el número de diputados que requiera, para que el total de miembros con que cuente en la Cámara corresponda al porcentaje de votos que obtuvo;
+b) Resto Mayor.
 
-b) Al partido político que obtenga el mayor número de constancias de mayoría y cuya votación sea equivalente al 35% de la votación nacional emitida, le serán asignados diputados de las listas regionales en número suficiente para alcanzar, por ambos principios, 251 curules; adicionalmente, le serán asignados dos diputados más por cada punto porcentual obtenido por encima del 35% de la votación y hasta menos del 60%; y
+2. Cociente de unidad: es el resultado de dividir la votación nacional emitida entre los 200 diputados de representación proporcional.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1991)</small>
+3. Resto mayor de votos: es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de diputados mediante el cociente de unidad. El resto mayor se utilizará cuando aún hubiese diputados por distribuir.
 
-c) Al partido político que haya obtenido 251 o más constancias de mayoría relativa y cuya votación sea equivalente o más del 35% y hasta menos del 60% de la votación nacional emitida, le serán asignados dos diputados adicionales de las listas regionales por cada punto porcentual de votación que hubiera alcanzado por encima del 35%. En este supuesto, el número total de diputados por ambos principios no podrá ser superior a la cantidad que resulte de sumar a 251, el número de diputados adicionales de las listas regionales que se le asignen por los puntos porcentuales de votación obtenida por encima del 35%.
-
-d) Al partido político cuya votación sea equivalente al 60% o más de la votación nacional emitida y menor del 70% y cuyas constancias de mayoría relativa no representen su porcentaje de votación, le serán asignados de las listas regionales el número de diputados necesario para que la suma de diputados obtenidos por ambos principios sea igual al porcentaje de votos que obtuvo.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 14
 
-1. Para la asignación de las curules de representación proporcional en el supuesto previsto por el inciso a) del artículo anterior se procederá como sigue:
+1. Para la aplicación de la fórmula prevista en el artículo anterior, se observará el procedimiento siguiente:
 
-a) Se determinará para cada partido político el número de curules por ambos principios que le correspondan, para que el total de miembros con que cuente en la Cámara sea igual a su porcentaje de votos;
+a) Primero se determinará si es el caso de aplicar a algún partido político el o los límites establecidos en las fracciones IV, V y VI del artículo 54 de la Constitución, para lo cual:
 
-b) Para determinar el número de diputados por el principio de representación proporcional que deben ser asignados a cada partido político, se restará del total de miembros que le correspondan según la operación descrita en el inciso anterior, el número de constancias de mayoría que hubiere obtenido;
+I.- Se determinarán los diputados que se le asignarían a cada partido político, conforme al número de veces que contenga su votación el cociente de unidad; y
 
-c) Para distribuir los diputados de representación proporcional que correspondan a cada partido político por circunscripción plurinominal, se dividirá su votación nacional entre el número de curules de representación proporcional que le correspondan para obtener su cociente de distribución; y
+II.- Los que se distribuirían por resto mayor si después de aplicarse el cociente de unidad quedaren diputados por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de diputados.
 
-d) La votación obtenida por cada partido político en cada una de las circunscripciones plurinominales, se dividirá entre su cociente de distribución, siendo el resultado de esta división el número de diputados que de cada circunscripción se le asignarán.
+b) Si no es el caso de aplicar alguno de los límites señalados en las fracciones IV, V y VI del artículo 54 de la Constitución, se hará la distribución de los diputados conforme lo establece el artículo siguiente; y
 
-2. En la asignación de diputados por el principio de representación proporcional se seguirá el orden que tuviesen los candidatos en las listas regionales respectivas.
+c) En el caso de que se diere el supuesto de la fracción VII del artículo 54 de la Constitución se estará a lo dispuesto por los artículos 16 y 17 de este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 15
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1991)</small>
+1. Para la distribución de los diputados de representación proporcional que correspondan a cada partido político por circunscripción plurinominal, una vez realizada la asignación a que se refiere el artículo anterior, se procederá como sigue:
 
-1. Para la distribución de curules de representación proporcional al partido político que se encuentre en alguno de los supuestos previstos por los incisos b), c) o d) del artículo 13 de este Código, se procederá, para ese partido político, en los mismos términos del artículo anterior.
+a) Se dividirá la votación nacional emitida, de cada partido político entre el número de diputados de representación proporcional que le corresponda, para obtener su cociente de distribución;
 
-2. Una vez realizada la distribución a que se refiere el párrafo anterior, se procederá a asignar a los restantes partidos políticos los diputados de representación proporcional que les correspondan, aplicando la fórmula de primera proporcionalidad.
+b) La votación obtenida por cada partido político en cada una de las circunscripciones plurinominales, se dividirá entre su cociente de distribución, siendo el resultado de esta división el número de diputados que en cada circunscripción plurinominal se le asignarán; y
+
+c) Si después de aplicarse el cociente de distribución quedaren diputados por distribuir, se utilizará el resto mayor de votos que cada partido político tuviere en cada circunscripción, hasta agotar las que le correspondan, en orden decreciente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 16
 
-1. La fórmula de primera proporcionalidad, se aplicará considerando que:
+1. Para la asignación de diputados de representación proporcional en el caso de que se diere el supuesto previsto por la fracción VII del artículo 54 de la Constitución, se procederá como sigue:
 
-a) Del número de diputados asignables en cada circunscripción deberá deducirse el número de diputados que ya fueron asignados a un partido político en los términos del párrafo 1 del artículo anterior; y
+a) Se determinará el número de diputados que corresponda asignar al partido político al que se tenga que aplicar cualquiera de los límites de las fracciones IV, V y VI del artículo 54 de la Constitución;
 
-b) De la parte de la votación nacional emitida que corresponda a cada circunscripción se deducirán los votos del partido al que primeramente se le asignaron diputados. La cifra que resulte de la deducción será la votación efectiva.
+b) Para la distribución de los diputados por circunscripción plurinominal a dicho partido político se procederá en los términos señalados en el artículo anterior; y
+
+c) Una vez realizada la distribución a que se refiere el inciso anterior, se procederá a asignar el resto de los diputados a los demás partidos políticos con derecho a ello en los términos del artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 17
 
-1. La fórmula de primera proporcionalidad consta de los siguientes elementos:
+1. Para la asignación de los diputados a que se refiere el inciso c) del artículo anterior, se procederá como sigue:
 
-a) Cociente rectificado;
+a) Se deducirán de la votación nacional emitida los votos del partido político al que se le hubiese aplicado alguno de los límites establecidos en las fracciones IV, V o VI del artículo 54 de la Constitución;
 
-b) Cociente de unidad; y
+b) Una vez obtenida la votación nacional ajustada a que se refiere el inciso anterior, se procederá a la asignación de diputados a cada partido político de acuerdo con su votación nacional, en los términos señalados por el artículo 13 de este Código. Para estos efectos, se entenderá como cociente de unidad el que resulte de dividir la votación nacional ajustada entre el número de diputados de representación proporcional pendientes de asignar; y
 
-c) Resto mayor.
+c) Para la distribución de los diputados por circunscripción plurinominal a cada partido político se procederá en los términos señalados en el artículo 15 de este Código.
 
-2. Cociente rectificado: es el resultado de dividir la votación efectiva de la circunscripción plurinominal, entre el número de sus curules pendientes de repartir multiplicado por dos.
-
-3. Cociente de unidad: es el resultado de dividir la votación efectiva, deducidos los votos utilizados mediante el cociente rectificado, entre las curules que no se han repartido.
-
-4. Resto mayor de votos: es el remanente más alto entre los restos de las votaciones de cada partido político, después de haber participado en las distribuciones de curules mediante el cociente rectificado y el cociente de unidad. El resto mayor deberá utilizarse cuando aun hubiese curules por distribuir.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 18
 
-1. Para la aplicación de la fórmula, se observará el procedimiento siguiente:
-
-a) Por el cociente rectificado se distribuirán sucesivamente la primera y segunda curules. A todo aquel partido político cuya votación contenga una o dos veces dicho cociente, le serán asignadas las curules correspondientes;
-
-b) Para las curules pendientes de distribuir se empleará el cociente de unidad. En esta forma, a cada partido político se le asignarán sucesivamente tantas curules como número de veces contenga su votación restante el cociente de unidad; y
-
-c) Si después de aplicarse el cociente rectificado y el cociente de unidad quedaran curules por repartir, éstas se distribuirán por el método del resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados para cada uno de los partidos políticos.
-
-2. En todo caso, en la asignación de diputados por el principio de representación proporcional se seguirá el orden que tuviesen en las listas regionales.
+1. En todos los casos, para la asignación de los diputados por el principio de representación proporcional, se seguirá el orden que tuviesen los candidatos en las listas regionales respectivas.
 
 ### CAPITULO TERCERO. Disposiciones complementarias
 
 ARTICULO 19
 
-1. Las elecciones ordinarias deberán celebrarse el tercer domingo de agosto del año que corresponda, para elegir:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Las elecciones ordinarias deberán celebrarse el primer domingo de julio del año que corresponda, para elegir:
 
 a) Diputados federales, cada tres años;
 
-b) Senadores, la mitad de los integrantes de la Cámara, cada tres años; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Senadores, cada seis años; y
 
 c) Presidente de los Estados Unidos Mexicanos, cada seis años.
 
@@ -237,7 +305,9 @@ c) Presidente de los Estados Unidos Mexicanos, cada seis años.
 
 ARTICULO 20
 
-1. Cuando se declare nula una elección, la convocatoria para la extraordinaria deberá emitirse dentro de los 45 días siguientes a la clausura del Colegio Electoral correspondiente.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Cuando se declare nula una elección o los integrantes de la fórmula triunfadora resultaren inelegibles, la convocatoria para la elección extraordinaria deberá emitirse dentro de los cuarenta y cinco días siguientes a la conclusión de la última etapa del proceso electoral.
 
 2. En el caso de vacantes de miembros del Congreso de la Unión electos por el principio de mayoría relativa, la Cámara de que se trate convocará a elecciones extraordinarias.
 
@@ -249,13 +319,19 @@ ARTICULO 21
 
 2. El Consejo General del Instituto Federal Electoral podrá ajustar los plazos establecidos en este Código conforme a la fecha señalada en la convocatoria respectiva.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En ningún caso podrá participar en elecciones ordinarias o extraordinarias el partido político que tuviere suspendido o hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el partido que hubiese perdido su registro, siempre y cuando hubiera participado con candidato en la elección ordinaria que fue anulada.
+
 # LIBRO SEGUNDO. De los partidos políticos
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
 ARTICULO 22
 
-1. La organización o agrupación política que pretenda participar en las elecciones federales deberá obtener el registro correspondiente ante el Instituto Federal Electoral. Para ello podrá optar por alguno de los procedimientos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. La organización o agrupación política que pretenda participar en las elecciones federales deberá obtener el registro correspondiente ante el Instituto Federal Electoral. Para la obtención del registro existirán dos procedimientos:
 
 a) Registro definitivo; o
 
@@ -263,7 +339,9 @@ b) Registro condicionado.
 
 2. La denominación de "partido político nacional" se reserva, para los efectos de este Código, a las organizaciones políticas con registro definitivo.
 
-3. Los partidos políticos nacionales y los partidos con registro condicionado tienen personalidad jurídica.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los partidos políticos con registro, tienen personalidad jurídica, gozan de los derechos y de las prerrogativas y quedan sujetos a las obligaciones que establecen la Constitución y este Código, según el tipo de registro que hayan obtenido.
 
 ARTICULO 23
 
@@ -291,7 +369,9 @@ a) La obligación de observar la Constitución y de respetar las leyes e institu
 
 b) Los principios ideológicos de carácter político, económico y social que postule;
 
-c) La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o en su caso rechazar toda clase de apoyo económico, político y propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión o secta; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión o secta, así como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que este Código prohíbe financiar a los partidos políticos; y
 
 d) La obligación de conducir sus actividades por medios pacíficos y por la vía democrática.
 
@@ -322,6 +402,10 @@ I.- Una asamblea nacional o equivalente;
 II.- Un comité nacional o equivalente, que sea el representante nacional del partido; y
 
 III.- Comités o equivalentes en las entidades federativas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+IV.- Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales y de campaña a que se refiere el párrafo 1 del artículo 49-A de este Código.
 
 d) Las normas para la postulación democrática de sus candidatos;
 
@@ -395,7 +479,9 @@ a) Contar con declaración de principios, programa de acción y estatutos en los
 
 b) Representar una corriente de opinión con base social; y
 
-c) Haber realizado actividades políticas durante los dos años anteriores a la solicitud de registro.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Haber realizado permanentemente actividades políticas propias y en forma independiente de cualquier otra organización o partido político, por lo menos durante los dos años anteriores a la solicitud de registro.
 
 4. La organización o agrupación interesada presentará, junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, se señalen en la convocatoria.
 
@@ -411,13 +497,29 @@ a) Contarán con un representante con derecho a voz en los Consejos y en las Com
 
 b) Se les aplicará el régimen fiscal y se les otorgarán las franquicias postales y telegráficas según lo dispuesto en los artículos del 50 al 55 de este Código;
 
-c) Tendrán acceso a la radio y televisión según lo previsto en los artículos del 42 al 45 de este Código, con excepción de lo dispuesto en el párrafo 2 del artículo 44;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Recibirán el 50% del financiamiento público señalado para cada partido político nacional por concepto de sus actividades generales, como se estipula en el inciso b) del párrafo 1 del artículo 49 de este Código;
+c) Tendrán acceso a la radio y televisión según lo previsto en los artículos del 42 al 45 y 48 de este Código, con excepción de los tiempos a que se refiere el párrafo 2 del artículo 44 y el inciso c) del párrafo 5 del artículo 48;
 
-e) Postular candidatos en las elecciones federales; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-f) Designarán representantes ante las casillas y representantes generales.
+d) Recibirán el 50% del financiamiento público, señalado para cada partido político con registro definitivo por concepto de sus actividades generales, conforme a lo establecido en el inciso b) del párrafo 7 del artículo 49 de este Código, así como el financiamiento para el desarrollo de los partidos políticos previsto en el inciso e) del párrafo 7 del mismo artículo 49;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Postular y registrar candidatos en las elecciones federales;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Designar representantes ante las mesas directivas de casilla y representantes generales;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) De acuerdo con los anteriores, los señalados en los incisos a), b), h) e i) del párrafo 1 del artículo 36 de este Código; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+h) Los demás que les confiere expresamente este Código.
 
 2. Los partidos políticos con registro condicionado no podrán coaligarse ni fusionarse entre sí o con los partidos políticos nacionales.
 
@@ -425,11 +527,21 @@ f) Designarán representantes ante las casillas y representantes generales.
 
 ARTICULO 35
 
-1. Un partido político con registro condicionado obtendrá el registro definitivo cuando haya logrado el 1.5% del total de la votación emitida en alguna de las elecciones en las que participe.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. El partido político que no obtenga el 1.5% perderá todos los derechos y prerrogativas que establece este Código.
+1. Un partido con registro condicionado obtendrá el registro definitivo cuando haya logrado el 1.5% del total de la votación emitida en alguna de las elecciones para diputados, senadores o Presidente de los Estados Unidos Mexicanos en las que participe.
 
-3. El hecho de que un partido político no obtenga el registro definitivo no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones nacionales según el principio de mayoría relativa.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. El partido político con registro definitivo que no obtenga el 1.5% de la votación en dos elecciones federales ordinarias consecutivas perderá todos los derechos y prerrogativas que establece este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. El partido político con registro definitivo que no obtenga el 1.5% de la votación emitida en alguna de las elecciones para diputados, senadores o Presidente de los Estados Unidos Mexicanos y cuya votación sea cuando menos del 1%, en tanto no se encuentre en el supuesto señalado en el párrafo anterior, seguirá ejerciendo sus derechos, gozando de sus prerrogativas y sujeto a sus obligaciones, con las salvedades contempladas en este Código.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. El hecho de que un partido político no obtenga el 1.5% de la votación emitida en alguna de las elecciones para diputados, senadores o Presidente de los Estados Unidos Mexicanos, no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones nacionales según el principio de mayoría relativa.
 
 ### CAPITULO TERCERO. De los derechos
 
@@ -441,7 +553,9 @@ a) Participar, conforme a lo dispuesto en la Constitución y en este Código, en
 
 b) Gozar de las garantías que este Código les otorga para realizar libremente sus actividades;
 
-c) Disfrutar de las prerrogativas y recibir el financiamiento público en los términos de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Disfrutar de las prerrogativas y recibir el financiamiento público en los términos del artículo 41 de la Constitución General de la República y de este Código, para garantizar que los partidos políticos promuevan la participación del pueblo en la vida democrática, contribuyan a la integración de la representación nacional y como organizaciones de ciudadanos, hagan posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo;
 
 d) Postular candidatos en las elecciones federales en los términos de este Código;
 
@@ -497,7 +611,7 @@ i) Sostener por lo menos un centro de formación política;
 
 j) Publicar y difundir en las demarcaciones electorales en que participen, así como en los tiempos oficiales que les corresponden en las frecuencias de radio y en los canales de televisión, la plataforma electoral que el partido y sus candidatos sostendrán en la elección de que se trate. En este caso, el tiempo que le dediquen a la plataforma no podrá ser menor del 50% del que les corresponda;
 
-k) Designar a los presuntos diputados que integrarán el Colegio Electoral y remitir la lista de los que les correspondan a la Comisión Instaladora de la Cámara de Diputados, dentro del plazo establecido en la Ley;
+k) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 l) Comunicar al Instituto Federal Electoral cualquier modificación a su declaración de principios, programa de acción o estatutos, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido. Las modificaciones no surtirán efectos hasta que el Consejo General del Instituto declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de 30 días contados a partir de la presentación de la documentación correspondiente;
 
@@ -507,13 +621,21 @@ n) Actuar y conducirse sin ligas de dependencia o subordinación con partidos po
 
 o) Abstenerse de cualquier expresión que denigre a los ciudadanos, a las instituciones públicas o a otros partidos políticos y sus candidatos; y
 
-p) Las demás que establezca este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+p) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+q) Las demás que establezca este Código.
 
 2. Las modificaciones a que se refiere el inciso 1) del párrafo anterior en ningún caso se podrán hacer una vez iniciado el proceso electoral.
 
 ARTICULO 39
 
-1. El incumplimiento de las obligaciones señaladas por el artículo anterior se sancionará en los términos de los artículos 342 y 343 de este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. El incumplimiento de las obligaciones señaladas por este Código se sancionará en los términos de los artículos 342 y 343 del presente ordenamiento.
 
 2. Las sanciones administrativas se aplicarán por el Tribunal Federal Electoral con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse en los términos de la ley a los partidos políticos, dirigentes y candidatos.
 
@@ -521,7 +643,11 @@ ARTICULO 40
 
 1. Un partido político, aportando elementos de prueba, podrá pedir al Consejo General del Instituto se investiguen las actividades de otros partidos políticos, cuando incumplan sus obligaciones de manera grave o sistemática.
 
-## TITULO TERCERO. De las prerrogativas de los partidos políticos nacionales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+## TITULO TERCERO. De las prerrogativas, acceso a la radio y televisión
+
+y financiamiento de los partidos políticos
 
 ARTICULO 41
 
@@ -535,7 +661,9 @@ c) Disfrutar de las franquicias postales y telegráficas que sean necesarias par
 
 d) Participar, en los términos del Capítulo Segundo de este Título, del financiamiento público correspondiente para sus actividades.
 
-### CAPITULO PRIMERO. De las prerrogativas en materia de radio y televisión
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO PRIMERO. De las prerrogativas y acceso a la radio y televisión
 
 ARTICULO 42
 
@@ -543,7 +671,9 @@ ARTICULO 42
 
 ARTICULO 43
 
-1. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos y la Comisión de Radiodifusión del Instituto Federal Electoral tendrán a su cargo la producción y difusión de los programas de radio y televisión de los partidos políticos y el trámite de las aperturas de los tiempos correspondientes.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos y la Comisión de Radiodifusión del Instituto Federal Electoral tendrán a su cargo la producción y difusión de los programas de radio y televisión de los partidos políticos, así como el trámite de las aperturas de los tiempos correspondientes, en los términos de los artículos 44 a 46 de este Código.
 
 2. La Comisión de Radiodifusión será presidida por el Director Ejecutivo de Prerrogativas y Partidos Políticos. Cada uno de los partidos políticos tendrá derecho de acreditar ante la Comisión, un representante con facultades de decisión sobre la elaboración de los programas de su partido.
 
@@ -581,63 +711,263 @@ ARTICULO 47
 
 ARTICULO 48
 
-1. La Dirección General del Instituto solicitará oportunamente a la Secretaría de Comunicaciones y Transportes su intervención, a fin de que los concesionarios de radio y televisión le proporcionen las tarifas que regirán para los tiempos que los partidos políticos pudiesen contratar a partir de la fecha de registro de sus candidatos. Dichas tarifas no serán superiores a las de la publicidad comercial.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-### CAPITULO SEGUNDO. Del financiamiento público
+1. Es derecho exclusivo de los partidos políticos contratar tiempos en radio y televisión para difundir mensajes orientados a la obtención del voto durante las campañas electorales, conforme a las normas y procedimientos que se establecen en el presente artículo. Los candidatos sólo podrán hacer uso de los tiempos que les asignen su partido político, o coalición, en su caso, de conformidad con lo previsto en el artículo 59, párrafo 1 inciso c).
+
+(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+2. La Dirección General del Instituto Federal Electoral solicitará oportunamente a la Secretaría de Comunicaciones y Transportes su intervención, a fin de que los concesionarios o permisionarios de radio y televisión, tanto nacionales como de cada entidad federativa, le proporcionen un catálogo de horarios y sus tarifas correspondientes, disponibles para su contratación por los partidos políticos para dos períodos, el primero del 15 de enero al 15 de abril del año de la elección; y el segundo, del 16 de abril y hasta tres días antes del señalado por este Código para la jornada electoral. Dichas tarifas no serán superiores a las de publicidad comercial.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. La Dirección General del Instituto, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, pondrá a disposición de los partidos políticos, en la primera sesión que realice el Consejo General en la primera semana de noviembre del año anterior al de la elección, el primer catálogo de los tiempos, horarios, canales y estaciones disponibles. El segundo catálogo será proporcionado en la sesión que celebre el Consejo General correspondiente al mes de enero.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Los partidos políticos deberán comunicar por escrito a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, las estaciones, canales y horarios en los que tengan interés de contratar tiempos, conforme al primer catálogo que les fue proporcionado, a más tardar el 15 de diciembre del año anterior al de la elección, por lo que hace a la campaña de Presidente de los Estados Unidos Mexicanos, y a más tardar el 31 de enero del año de la elección, para las campañas de senadores y diputados. Los partidos políticos deberán comunicar por escrito a la misma Dirección Ejecutiva, las estaciones, canales y horarios en los que tengan interés de contratar tiempos del segundo catálogo que les fue proporcionado, a más tardar el 28 de febrero del año de la elección por lo que hace a la campaña de Presidente de los Estados Unidos Mexicanos y a más tardar el 15 de marzo del mismo año para las campañas de senadores y diputados.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. En el evento de que dos o más partidos políticos manifiesten interés en contratar tiempos en un mismo canal o estación, en los mismos horarios, la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, aplicará, en su caso, el procedimiento siguiente:
+
+a) Se dividirá el tiempo total disponible para contratación del canal o estación por mitades;
+
+b) La primera mitad del tiempo disponible para contratación se dividirá por partes iguales entre el número de partidos políticos contendientes interesados en contratarlo; el resultante será el tiempo que cada partido político podrá contratar. Si hubiese tiempos no adquiridos, se acumularán para la segunda mitad;
+
+c) La segunda mitad de tiempo se pondrá a disposición de los partidos interesados en adquirirlo, el que contratarán en el orden que corresponda a su fuerza electoral y será proporcional a su porcentaje de votos obtenidos en la última elección de diputados de mayoría relativa. Si hubiese tiempos sobrantes volverán a estar a disposición de los concesionarios o permisionarios y no podrán ser objeto de contratación posterior por los partidos políticos o candidatos; y
+
+d) En las divisiones de los tiempos señaladas en los incisos anteriores, se procurará igualdad de horarios, canales y estaciones.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+6. En el caso de que sólo un partido político manifieste interés por contratar tiempo en un canal o estación, podrá hacerlo hasta por el límite que los concesionarios o permisionarios hayan dado a conocer como el tiempo disponible para efectos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+7. El reparto y asignación de los canales, estaciones y tiempos a contratar por cada partido político, del primer catálogo, deberá finalizar a más tardar el 15 de enero del año de la elección para la campaña de Presidente de los Estados Unidos Mexicanos y a más tardar el 28 de febrero del mismo año, para las campañas de senadores y diputados. Para el segundo catálogo, el reparto y asignación de los canales, estaciones y tiempos a contratar por cada partido político, para las elecciones de Presidente de los Estados Unidos Mexicanos, senadores y diputados, deberá concluir el 15 de abril del mismo año.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+8. Una vez concluido el procedimiento de reparto y asignación a que se refiere el párrafo anterior, el Instituto procederá, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, a dar a conocer los tiempos, canales y estaciones para cada uno de los partidos políticos, con el objeto de que lleven a cabo directamente la contratación respectiva. De igual manera, la propia Dirección Ejecutiva comunicará a cada uno de los concesionarios o permisionarios los tiempos y horarios que cada uno de los partidos políticos está autorizado a contratar con ellos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+9. En uso de los tiempos contratados por los partidos políticos en los términos de este Código en los medios de cobertura local, los mensajes alusivos a sus candidatos a diputados y senadores, sólo podrán transmitirse a partir de la fecha en que sean registrados.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+10. El Director Ejecutivo de Prerrogativas y Partidos Políticos se reunirá a más tardar el 15 de diciembre del año anterior al de la elección, con la Comisión de Radiodifusión y la Cámara Nacional de la Industria de Radio y Televisión, para sugerir los lineamientos generales aplicables en sus noticieros respecto de la información o difusión de las actividades de campaña de los partidos políticos.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO SEGUNDO. Del financiamiento de los partidos políticos
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 49
 
-1. Los partidos políticos nacionales, adicionalmente a los ingresos que perciban por las aportaciones de sus afiliados y organizaciones, tendrán derecho al financiamiento público de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
+1. El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
+
+a) Financiamiento público;
+
+b) Financiamiento por la militancia;
+
+c) Financiamiento de simpatizantes;
+
+d) Autofinanciamiento; y
+
+e) Financiamiento por rendimientos financieros, fondos y fideicomisos.
+
+2. No podrán realizar aportaciones o donativos a los partidos políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
+
+a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de los Estados, y los Ayuntamientos, salvo los establecidos en la ley;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+b) Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, centralizados o paraestatales, y los órganos de gobierno del Distrito Federal;
+
+c) Los partidos políticos, personas físicas o morales extranjeras;
+
+d) Los organismos internacionales de cualquier naturaleza;
+
+e) Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta;
+
+f) Las personas que vivan o trabajen en el extranjero; y
+
+g) Las empresas mexicanas de carácter mercantil.
+
+3. Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
+
+4. Las aportaciones que se realicen a los partidos políticos, no serán deducibles de impuestos.
+
+5. Los partidos políticos en los términos de la fracción IV del inciso c) del párrafo 1 del artículo 27 de este Código, deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere el artículo 49-A de este mismo ordenamiento. Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
+
+6. Para la revisión de los informes que los partidos políticos presenten sobre el origen y destino de sus recursos anuales y de campaña, se constituirá en los términos del artículo 49-B de este Código, una comisión de Consejeros que designará el Consejo General del Instituto Federal Electoral.
+
+7. Los partidos políticos tendrán derecho al financiamiento público de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
 
 a) Por actividad electoral:
 
-I.- El Consejo General del Instituto Federal Electoral determinará, con base en los estudios que le presente el Director General del propio Instituto, el costo mínimo de una campaña para diputado y el de una para senador. Cada una de estas cantidades será multiplicada, respectivamente, por el número de candidatos propietarios a diputados de mayoría relativa y por el número de candidatos propietarios a senadores registrados en los términos de este Código para cada elección. Para este cálculo, sólo se tomarán en cuenta los candidatos de los partidos políticos que hubieren conservado su registro;
+I. El Consejo General del Instituto Federal Electoral determinará, con base en los estudios que le presente el Director General del propio Instituto, el costo mínimo de una campaña para diputado y el de una para senador. Cada una de estas cantidades será multiplicada, respectivamente, por el número de candidatos propietarios a diputados de mayoría relativa y por el número de candidatos propietarios a senadores registrados en los términos de este Código para cada elección. Para este cálculo, sólo se tomarán en cuenta los candidatos de los partidos políticos que hubieren conservado su registro;
 
-II.- La cifra total obtenida por diputados según la fracción anterior, se dividirá entre la votación nacional emitida para la propia elección, determinándose así el valor unitario por voto;
+II. La cifra total obtenida por diputados según la fracción anterior, se dividirá entre la votación nacional emitida para la propia elección, determinándose así el valor unitario por voto;
 
-III.- A cada partido se le asignará la cantidad que resulte de multiplicar el valor unitario obtenido según la fracción anterior por el número de votos válidos que haya obtenido en la elección de diputados por mayoría relativa;
+III. A cada partido se le asignará la cantidad que resulte de multiplicar el valor unitario obtenido según la fracción anterior, por el número de votos válidos que haya obtenido en la elección de diputados por mayoría relativa;
 
-IV.- La cifra total obtenida por senadores, en los términos de la fracción I de este inciso, se dividirá entre la votación nacional emitida para la propia elección, determinándose así el valor unitario por voto;
+IV. La cifra total obtenida por senadores, en los términos de la fracción I de este inciso, se dividirá entre la votación nacional emitida para la propia elección, determinándose así el valor unitario por voto;
 
-V.- A cada partido político se le asignará la cantidad que resulte de multiplicar el valor unitario obtenido según la fracción anterior, por el número de votos válidos que haya obtenido en la elección de senadores;
+V. A cada partido político se le asignará la cantidad que resulte de multiplicar el valor unitario obtenido según la fracción anterior por el número de votos válidos que haya obtenido en la elección de senadores;
 
-VI.- El financiamiento a que se refieren las fracciones anteriores se determinará una vez que las elecciones hayan sido calificadas por los Colegios Electorales de las respectivas Cámaras;
+VI. El financiamiento a que se refieren las fracciones anteriores se determinará una vez que haya concluido el proceso electoral;
 
-VII.- Los partidos políticos recibirán el monto de su financiamiento en los tres años siguientes a la elección: En el primero por el 20% del total; en el segundo por el 30%, y en el último por el 50%. Cada monto será entregado en ministraciones conforme al calendario presupuestal que se apruebe anualmente; y
+VII. Los partidos políticos recibirán el monto de su financiamiento en los tres años siguientes a la elección: en el primero por el 20% del total; en el segundo por el 30%, y en el último por el 50%. Cada monto será entregado en ministraciones conforme al calendario presupuestal que se apruebe anualmente; y
 
-VIII.- Los montos correspondientes a la segunda y tercera anualidad a que se refiere la fracción anterior, podrán ser incrementados por acuerdo del Consejo General según lo estime necesario.
+VIII. Los montos correspondientes a la segunda y tercera anualidad a que se refiere la fracción anterior, podrán ser incrementados por acuerdo del Consejo General según lo estime necesario y tomando en consideración los índices de inflación que determine la autoridad competente.
 
 b) Por actividades generales como entidades de interés público:
 
-I.- Un monto adicional equivalente al 10% de la cantidad total que resulte según la fórmula de la fracción I del inciso anterior, se distribuirá anualmente por partes iguales a cada partido político para apoyar sus actividades generales; y
+I. Un monto adicional equivalente al 10% de la cantidad total que resulte según la fórmula de la fracción I del inciso anterior, se distribuirá anualmente por partes iguales a cada partido político para apoyar sus actividades generales; y
 
-II.- La cantidad a repartir conforme a la fracción anterior será entregada en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
+II. La cantidad a repartir conforme a la fracción anterior será entregada en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
 
 c) Por subrogación del Estado de las contribuciones que los legisladores habrían de aportar para el sostenimiento de sus partidos:
 
-I.- A cada partido político se le otorgará anualmente, una cantidad equivalente al 50% del monto anual del ingreso neto que por concepto de dietas hayan percibido en el año inmediato anterior los diputados y senadores integrantes de su grupo parlamentario; y
+I. A cada partido político se le otorgará anualmente, una cantidad equivalente al 50% del ingreso neto que por concepto de dietas hayan percibido en el año inmediato anterior los diputados y senadores integrantes de su grupo parlamentario; y
 
-II.- Las cantidades serán entregadas a cada partido político en ministraciones conforme al calendario presupuestal que se apruebe anualmente. Y
+II. Las cantidades serán entregadas a cada partido político en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
 
 d) Por actividades específicas como entidades de interés público:
 
-I.- La educación y capacitación política, investigación socioeconómica y política, así como tareas editoriales de los partidos políticos nacionales, podrán ser apoyadas mediante el financiamiento público en los términos del reglamento que, en su caso, expida el Consejo General del Instituto;
+I. La educación y capacitación política, investigación socioeconómica y política, así como tareas editoriales de los partidos políticos nacionales, podrán ser apoyadas mediante el financiamiento público en los términos del reglamento que, en su caso, expida el Consejo General del Instituto;
 
-II.- El Consejo General no podrá acordar apoyos en cantidad mayor al 50% anual, de los gastos comprobados que por las actividades a que se refiere este inciso hayan erogado los partidos políticos en el año inmediato anterior; y
+II. El Consejo General no podrá acordar apoyos en cantidad mayor al 50% anual, de los gastos comprobados que por las actividades a que se refiere este inciso hayan erogado los partidos políticos en el año inmediato anterior; y
 
-III.- Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
+III. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones conforme al calendario presupuestal que se apruebe anualmente; y
 
-2. No tendrán derecho a financiamiento público los partidos políticos que no hubieren obtenido el 1.5% de la votación emitida, independientemente de que sus candidatos hayan ganado elecciones para diputados de mayoría relativa o senador.
+e) Para el desarrollo de los partidos políticos:
 
-3. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a las siguientes bases:
+I. Un monto adicional equivalente al 5% de la cantidad total que resulte según la fórmula de la fracción I del inciso a) de este párrafo. Si el partido político que tenga derecho al financiamiento a que se refiere este párrafo, obtuvo la votación por sí mismo, se le incrementará el monto que le corresponda hasta en un tanto más. Ningún partido podrá recibir más de la quinta parte del porcentaje aludido, ni por más de tres años. Se distribuirá anualmente por partes iguales entre los partidos políticos que conserven su registro y cuya votación en la elección anterior de diputados de mayoría relativa quede comprendida entre el 1% y el 5% inclusive, del total de la votación emitida para esa elección y los que hubieren obtenido su registro definitivo o condicionado, con fecha posterior a la última elección; y
 
-a) A los que hubieren obtenido registro definitivo se les otorgará el financiamiento público previsto para cada partido político nacional por sus actividades generales y por las específicas como entidades de interés público; y
+II. La cantidad a repartir conforme a la fracción anterior será entregada en ministraciones de acuerdo al calendario presupuestal que se apruebe anualmente;
 
-b) A los que hubieren obtenido registro condicionado, se les otorgará el financiamiento público que corresponda a cada partido político nacional por sus actividades generales como entidades de interés público.
+8. No tendrán derecho al financiamiento público los partidos políticos que hubieren perdido su registro. El partido político que no hubiere obtenido el 1.5% de la votación emitida en cualquiera de las elecciones federales, pero que hubiere conservado su registro por encontrarse en el supuesto del párrafo 3 del artículo 35 de este Código, tendrá derecho a que se le otorgue financiamiento público de conformidad con lo siguiente:
 
-4. Las cantidades a que se refieren los incisos a) y b) del párrafo anterior serán entregadas por la parte proporcional que corresponda a la anualidad según la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.
+a) Se le otorgará el que corresponda, según lo dispone el inciso a) del párrafo 9 de este artículo; y
 
-5. Los partidos políticos informarán anualmente al Instituto Federal Electoral el empleo del financiamiento público.
+b) Si hubiere obtenido algún triunfo en la elección de diputados por mayoría relativa o de senadores, se le otorgará el que le corresponda de acuerdo con lo señalado por el inciso c) del párrafo 7 de este artículo.
+
+9. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a las siguientes bases:
+
+a) A los que hubieren obtenido registro definitivo se les otorgará el financiamiento público previsto para cada partido político por sus actividades generales, por las específicas como entidades de interés público, y para el desarrollo de los partidos políticos; y
+
+b) A los que hubieren obtenido registro condicionado se les otorgará el financiamiento público que les corresponde en términos de lo dispuesto en el inciso d) del párrafo 1 del artículo 34 por sus actividades generales y para el desarrollo de los partidos políticos.
+
+10. Las cantidades a que se refieren los incisos a) y b) del párrafo anterior serán entregadas por la parte proporcional que corresponda a la anualidad según la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.
+
+11. El financiamiento que no provenga del erario público tendrá las siguientes modalidades:
+
+a) El financiamiento general de los partidos políticos y para sus campañas que provenga de la militancia estará conformado por las cuotas obligatorias ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales y por las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas conforme a las siguientes reglas:
+
+I. El órgano interno responsable del financiamiento de cada partido deberá expedir recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para acreditar el monto ingresado;
+
+II. Cada partido político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; y
+
+III. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido.
+
+b) El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el país, que no estén comprendidas en el párrafo 2 de este artículo. Las aportaciones se deberán sujetar a las siguientes reglas:
+
+I. De las aportaciones en dinero deberán expedirse recibos foliados por los partidos en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no impliquen venta de bienes o artículos promocionales. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. No obstante lo anterior, los partidos políticos podrán recibir aportaciones de personas no identificadas cuyo monto total no exceda de una cantidad equivalente al 10% del financiamiento público total otorgado a los partidos;
+
+II. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
+
+III. Las aportaciones en dinero que realice cada persona física o moral facultada para ello, tendrán un límite anual para las primeras equivalente al 1% y para las segundas, al 5%, del monto total del financiamiento público otorgado a los partidos políticos en el año que corresponda;
+
+IV. Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física o moral no podrá rebasar, según corresponda los límites establecidos en la fracción anterior; y
+
+V. Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+
+c) El autofinanciamiento estará constituido por los ingresos que los partidos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para efectos de este Código, el órgano interno responsable del financiamiento de cada partido político reportará los ingresos obtenidos por estas actividades en los informes respectivos; y
+
+d) Para obtener financiamiento por rendimientos financieros los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento señaladas en el presente artículo. El financiamiento por rendimientos financieros se sujetará a las siguientes reglas:
+
+I. A las aportaciones que se realicen, a través de esta modalidad, les serán aplicables las disposiciones contenidas en los párrafos 2 y 3, y en la fracción III del inciso b) de este párrafo y demás disposiciones aplicables a este Código y las leyes correspondientes, atendiendo al tipo de operación realizada;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+II. Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, con excepción de la adquisición de acciones bursátiles; y
+
+III. Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 49
+
+ARTICULO 49-A
+
+1. Los partidos políticos deberán presentar ante la comisión del Instituto Federal Electoral a que se refiere el párrafo 6 del artículo anterior, los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
+
+a) Informes anuales:
+
+I. Serán presentados a más tardar dentro de los noventa días siguientes al último día de diciembre del año del ejercicio que se reporte; y
+
+II. En el informe anual serán reportados los ingresos totales y gastos ordinarios que los partidos hayan realizado durante el ejercicio objeto del informe.
+
+b) Informes de campaña:
+
+I. Deberán presentarse por los partidos políticos, por cada una de las campañas en las elecciones respectivas, especificando los gastos que el partido político y el candidato hayan realizado en el ámbito territorial correspondiente;
+
+II. Serán presentados dentro de los noventa días siguientes contados a partir del día de la jornada electoral; y
+
+III. En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros señalados en el artículo 182-A de este Código, así como el monto y destino de dichas erogaciones.
+
+2. El procedimiento para la presentación y revisión de los informes de los partidos políticos se sujetará a las siguientes reglas:
+
+a) El Consejo General del Instituto Federal Electoral acordará convocar a la comisión a que se refiere el párrafo 6 del artículo 49 de este Código, dentro de los quince días anteriores al período de presentación de los informes para que proceda a su recepción, revisión y dictamen;
+
+b) La comisión contará con sesenta días para revisar los informes anuales y con ciento veinte días para revisar los informes de campaña presentados por los partidos políticos. Tendrá en todo momento la facultad de solicitar a los órganos responsables del financiamiento de cada partido político, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
+
+c) Si durante la revisión de los informes la comisión advierte la existencia de errores u omisiones técnicas, notificará al partido político que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
+
+d) Al vencimiento del plazo señalado en el inciso b) de este párrafo, o en su caso, al concedido para la rectificación de errores u omisiones, la comisión dispondrá de un plazo de veinte días para elaborar un dictamen consolidado que deberá presentar al Consejo General dentro de los tres días siguientes a su conclusión;
+
+e) El dictamen deberá contener por lo menos:
+
+I. El resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos;
+
+II. En su caso, la mención de los errores o irregularidades encontradas en los mismos; y
+
+III. El señalamiento de las aclaraciones o rectificaciones que presentaron los partidos políticos, después de haberles notificado con ese fin.
+
+f) En el Consejo General se dará a conocer el dictamen que haya formulado la comisión, procediendo a informar, en su caso, a la Sala Central del Tribunal Federal Electoral, de las irregularidades señaladas en el dictamen para los efectos de la aplicación de las sanciones correspondientes;
+
+g) Los partidos políticos podrán impugnar ante la Sala Central del Tribunal Federal Electoral el dictamen a que se refiere el inciso d) de este párrafo, dentro de los tres días contados a partir del día siguiente al en que concluya la sesión respectiva; y
+
+h) El Consejo General del Instituto deberá:
+
+I. Remitir, a la Sala Central del Tribunal, cuando se hubiere interpuesto el recurso de apelación, junto con éste, el dictamen de la comisión y el informe respectivo;
+
+II. Remitir, una vez cumplido el plazo para la interposición del recurso, o presentado éste, habiendo sido resuelto por el Tribunal Federal Electoral, al Diario Oficial de la Federación el dictamen y, en su caso, la resolución recaída al recurso, para su publicación; y
+
+III. Acordar los mecanismos que considere convenientes para la difusión pública del dictamen y, en su caso, de las resoluciones. En la gaceta del Instituto Federal Electoral deberán publicarse los informes anuales de los partidos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 49
+
+B
+
+1. Para los efectos de la recepción, revisión y dictamen de los informes a que se refieren los incisos a) y b) del párrafo 1 del artículo anterior, la comisión de Consejeros a que se refiere el párrafo 6 del artículo 49 de este Código, contará con el apoyo y soporte de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos del Instituto Federal Electoral, cuyo titular fungirá como secretario técnico de la propia Comisión. Asimismo, para su desempeño, eficaz e imparcial, podrá contar con el personal técnico que autorice el Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 49
+
+CULO 49-C
+
+1. La comisión a que se refiere el párrafo 6 del artículo 49 de este Código, podrá proponer al Consejo General, acuerde el establecimiento de lineamientos o formatos para ser utilizados en los informes que presenten los partidos.
+
+2. Las quejas que cualquier órgano del Instituto reciba sobre el origen y la aplicación de los recursos derivados del financiamiento de los partidos políticos, serán turnadas a la comisión, a efecto de que las analice previamente a que rinda su dictamen.
 
 ### CAPITULO TERCERO. Del régimen fiscal
 
@@ -705,7 +1035,9 @@ ARTICULO 56
 
 1. Los partidos políticos nacionales podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
-2. Los partidos políticos, para fines electorales, podrán formar coaliciones a fin de presentar plataformas y postular el mismo candidato en las elecciones federales.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Los partidos políticos, para fines electorales, podrán formar coaliciones para postular los mismos candidatos en las elecciones federales, siempre que cumplan con los requisitos establecidos en este Código.
 
 3. Dos o más partidos políticos podrán fusionarse para constituir un nuevo partido o para incorporarse en uno de ellos.
 
@@ -745,65 +1077,103 @@ ARTICULO 58
 
 7. El convenio de coalición podrá celebrarse por dos o más partidos políticos.
 
-8. Para efecto de la identidad de los partidos políticos, concluida la calificación de las elecciones de diputados y senadores, terminará automáticamente la coalición.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+8. Concluida la etapa de resultados y de declaraciones de validez de las elecciones de senadores y diputados, terminará automáticamente la coalición en los casos señalados en los artículos 61 párrafo 1 inciso a) y 62 párrafo 1 inciso e), respectivamente, en cuyo caso los candidatos a senadores o diputados de la coalición que resultaren electos quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio de coalición.
 
 9. Los partidos políticos que se hubieren coaligado podrán conservar su registro al término de la elección, si la votación de la coalición es equivalente a la suma de los porcentajes del 1.5% de la votación emitida, que requiere cada uno de los partidos políticos coaligados.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 59
 
-1. La coalición por la que se postule candidato a Presidente de los Estados Unidos Mexicanos tendrá efectos en los 300 distritos electorales uninominales en que se divide el territorio nacional y se sujetará a lo siguiente:
+1. La coalición por la que se postule candidato a Presidente de los Estados Unidos Mexicanos tendrá efectos sobre las cinco circunscripciones plurinominales, las 32 entidades federativas y los 300 distritos electorales en que se divide el territorio nacional, para lo cual deberá postular y registrar a las respectivas fórmulas, y se sujetará a lo siguiente:
 
-a) Deberá acreditar ante los Consejos del Instituto Federal Electoral tantos representantes como correspondiera a cada uno de los partidos políticos coaligados en los términos de este Código. La coalición actuará como un solo partido y, por lo tanto, la representación de la misma sustituye a la de los partidos políticos coaligados;
+a) Deberá acreditar ante todos los Consejos del Instituto, en los términos de este Código, tantos representantes como correspondiera al partido político coaligado con mayor fuerza electoral de acuerdo con la última elección federal celebrada. La coalición actuará como un solo partido y, por lo tanto, la representación de la misma sustituye para todos los efectos a que haya lugar a la de los partidos políticos coaligados;
 
-b) Deberá acreditar tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla, y generales en el distrito. Lo dispuesto en éste y el anterior inciso se aplicará para todos los efectos, aún cuando los partidos políticos no se hubieren coaligado para otras elecciones en el mismo proceso electoral;
+b) Deberá acreditar tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla, y generales en el distrito;
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+c) Disfrutará de las prerrogativas en materia de radio y televisión y podrá contratar en estos medios como si se tratara de un solo partido. En los casos en que por disposición de este Código se tome en cuenta la fuerza electoral, se considerará la del partido coaligado que haya obtenido la mayor votación en la última elección federal; y
 
-c) Disfrutará de las prerrogativas en materia de radio y televisión que otorga este Código como si se tratara de un solo partido, salvo el tiempo proporcional a que se refiere el párrafo 2 del artículo 44 de este Código, que se calculará sumando el tiempo que le correspondería a cada uno de los partidos políticos coaligados de acuerdo con su fuerza electoral; y
+d) Participará en el proceso electoral con el emblema y color o colores del partido coaligado cuya declaración de principios, programa de acción y estatutos se hayan aprobado para la coalición; o con el emblema formado con los de los partidos políticos coaligados y bajo la declaración de principios, programa de acción y estatutos únicos para la coalición.
 
-d) Participará en el proceso electoral con el emblema y color o colores de uno de los partidos o con el emblema formado con los de los partidos políticos coaligados; en éste, podrán aparecer ligados o separados.
+2. Para el registro de la coalición los partidos políticos que pretendan coaligarse deberán:
 
-2. Para el registro de la coalición y, en su caso, de la candidatura, los partidos políticos que pretendan coaligarse deberán:
+a) Acreditar que la coalición fue aprobada por la Asamblea Nacional u órgano equivalente de cada uno de los partidos políticos coaligados y que dichos órganos expresamente aprobaron contender bajo la declaración de principios, programa de acción y estatutos de uno de los partidos políticos coaligados o bajo la declaración de principios, programas de acción y estatutos únicos de la coalición;
 
-a) Acreditar que la colición (sic) fue aprobada por la Asamblea Nacional u órgano equivalente, de cada uno de los partidos políticos coaligados; y
+b) Comprobar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados, aprobaron la plataforma electoral de la coalición de conformidad con la declaración de principios, programa de acción y estatutos de uno de ellos o los de la coalición;
 
-b) Comprobar que los órganos partidistas respectivos de cada partido político, aprobaron la plataforma electoral de la coalición y la candidatura para la elección presidencial.
+c) Comprobar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados, aprobaron la postulación y el registro de un determinado candidato para la elección presidencial;
+
+d) Que los órganos nacionales partidistas respectivos aprobaron, de acuerdo con la declaración de principios, programa de acción, estatutos y plataforma electoral adoptados por la coalición, el programa de gobierno al que se sujetará el candidato de la coalición de resultar electo; y
+
+e) Acreditar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados, aprobaron postular y registrar, como coalición, a todos los candidatos a los cargos de diputados por ambos principios y de senadores.
+
+3. Si una vez registrada la coalición para la elección de Presidente de los Estados Unidos Mexicanos, la misma no registrara a los candidatos a los cargos de Presidente, senadores y diputados, en los términos de los incisos c) y e) del párrafo 2 anterior, y dentro de los plazos señalados para tal efecto en el presente Código, la coalición y el registro del candidato para la elección de Presidente de los Estados Unidos Mexicanos quedarán automáticamente sin efectos.
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+4. A la coalición le serán asignados el número de diputados por el principio de representación proporcional que le correspondan, como si se tratara de un solo partido político.
 
 ARTICULO 60
 
 1. La coalición por la que se postulen candidatos a diputados por el principio de representación proporcional tendrá efectos en los 300 distritos electorales en que se divide el territorio nacional y se sujetará a lo señalado en los incisos a) al d) del párrafo 1 del artículo anterior.
 
-2. Para el registro de la coalición y, en su caso, de las candidaturas, los partidos políticos que pretendan coaligarse deberán cumplir con lo señalado en los incisos a) y b) del párrafo 2 del artículo anterior y, además, presentar las candidaturas de la coalición por el principio de mayoría relativa, de propietario y suplente, en los 300 distritos electorales uninominales.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-3. Si la coalición no registra en los términos de este Código las candidaturas a que se refiere el párrafo anterior, quedará automáticamente sin efectos.
+2. Para el registro de la coalición, los partidos que pretendan coaligarse deberán cumplir con lo señalado en los incisos a) al e) del párrafo 2 del artículo anterior, con la sola excepción de la referencia a la aprobación de la postulación del candidato para la elección presidencial, y además registrar las candidaturas de diputados de mayoría relativa en los 300 distritos electorales uninominales, así como las 32 listas de fórmulas de candidatos a senadores de las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Si la coalición no registra las fórmulas de candidatos a que se refiere el párrafo 2 anterior dentro de los plazos establecidos en este Código, la coalición y el registro de candidatos quedarán automáticamente sin efectos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. A la coalición le serán asignados el número de diputados por el principio de representación proporcional que le corresponda, como si se tratara de un solo partido y quedarán comprendidos en el partido político o grupo parlamentario que se haya señalado en el convenio de coalición.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 61
 
-1. La coalición por la que se postule candidatura de senador se sujetará a lo siguiente:
+1. La coalición por la que se postulen candidaturas de senadores se sujetará a lo siguiente:
 
-a) Deberá acreditar ante los órganos electorales del Instituto Federal Electoral en la entidad en que la coalición haya postulado candidatura, tantos representantes como correspondiera a cada uno de los partidos políticos coaligados en los términos de este Código. La coalición actuará como un solo partido y por lo tanto, la representación de la misma sustituye a la de los partidos políticos coaligados;
+a) Si postulase listas de fórmulas de candidatos a senadores en menos de 10 entidades federativas, participará en las campañas en las entidades correspondientes, con el emblema, color o colores del partido político cuya declaración de principios, programa de acción y estatutos se hayan adoptado para la coalición; o con el formado con todos los de los partidos políticos coaligados y bajo la declaración de principios, programa de acción y estatutos únicos para la coalición;
 
-b) Deberá acreditar tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla en la entidad, y generales en los distritos electorales de la misma. Lo dispuesto en este inciso y en el anterior, se aplicará para todos los efectos en la entidad, aun cuando los partidos políticos no se hubieren coaligado para otras elecciones en el mismo proceso electoral;
+b) En el supuesto del inciso anterior, deberá acreditar, en los términos de este Código, ante los órganos electorales del Instituto Federal Electoral en la entidad o entidades de que se trate, tantos representantes como correspondiera al partido político coaligado con más fuerza electoral. La coalición actuará como un solo partido y, por lo tanto, la representación de la misma sustituye a la de los partidos políticos coaligados en todos los órganos electorales en la entidad o entidades de que se trate. Asimismo, deberá acreditar tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla en la entidad o entidades de que se trate y los generales en los distritos electorales correspondientes. Lo dispuesto en este inciso se aplicará para todos los efectos en la entidad o entidades de que se trate, aun cuando los partidos políticos no se hubieren coaligado para otras elecciones en el mismo proceso electoral;
 
-c) Si postulase candidaturas de senadores en diez o más entidades, su representación ante todos los órganos electorales del Instituto y prerrogativas en materia de radio y televisión se sujetará a lo dispuesto por los incisos a), b) y c), respectivamente, del párrafo 1 del artículo 59 de este Código;
+c) Si postulase listas de fórmulas de candidatos a senadores en 10 o más entidades se sujetará a lo dispuesto en los incisos a) al d) del párrafo 1 del artículo 59 de este Código; y
 
-d) Participará en las campañas de senadores con el emblema y color o colores de uno de los partidos o con el emblema formado con los de los partidos políticos coaligados; en éste, podrán aparecer ligados o separados; y
+d) La coalición comprenderá siempre fórmulas de propietario y suplente.
 
-e) La coalición comprenderá siempre fórmulas de propietario y suplente.
+2. Para el registro de la coalición los partidos políticos que deseen coaligarse deberán:
 
-2. Para postular candidaturas de senadores la coalición deberá acreditar que:
+a) Acreditar si la coalición pretende postular listas de fórmulas de candidatos a senadores en 10 o más entidades, que tanto la coalición como las fórmulas de candidatos fueron aprobadas por la Asamblea Nacional u órgano equivalente, así como por las Asambleas Estatales o sus equivalentes, de cada uno de los partidos políticos coaligados;
 
-a) La coalición fue aprobada por las asambleas estatales, o equivalentes, correspondientes;
+b) Acreditar si la coalición pretende postular listas de fórmulas de candidatos a senadores en menos de 10 entidades, que tanto la coalición como las fórmulas de candidatos fueron aprobadas por las Asambleas Estatales correspondientes, o sus equivalentes;
 
-b) Los órganos partidistas correspondientes hayan, de conformidad con sus estatutos y métodos de selección de candidatos, aprobado las candidaturas para propietario y suplente de la coalición; y
+c) Comprobar, en todos los casos, que los órganos partidistas correspondientes aprobaron contender bajo la declaración de principios, programa de acción y estatutos que la coalición haya adoptado de conformidad con lo señalado en este artículo;
 
-c) Los órganos partidistas correspondientes aprobaron la plataforma electoral de la coalición.
+d) Comprobar, en todos los casos, que los órganos partidistas correspondientes aprobaron la plataforma electoral de la coalición, conforme a la declaración de principios, programa de acción y estatutos que se hayan adoptado para la misma;
+
+e) Comprobar si la coalición pretende postular listas de fórmulas de candidatos a senadores en 10 o más entidades, que los órganos nacionales y estatales respectivos de cada partido político aprobaron, de acuerdo con la declaración de principios, programa de acción, estatutos y plataforma electoral que se hayan adoptado para la coalición, el programa legislativo al cual se sujetarán sus candidatos en caso de resultar electos; y
+
+f) Comprobar si la coalición pretende postular listas de fórmulas de candidatos a senadores en 10 o más entidades, que los órganos nacionales y distritales de cada partido político coaligado aprobaron postular y registrar por la misma coalición a las 300 fórmulas de candidatos a diputados por el principio de mayoría relativa y las 200 fórmulas de candidatos por el principio de representación proporcional, en los términos señalados por este Código.
+
+3. Si una vez registrada la coalición no cumple con el registro de candidatos a diputados por ambos principios, de conformidad con lo señalado en el inciso f) del párrafo 2 anterior y dentro de los plazos señalados para tal efecto en el presente Código, la coalición y el registro de fórmulas de candidatos quedarán automáticamente sin efectos.
+
+4. En el convenio de coalición, cuando se postulen menos de 10 listas de fórmulas de candidatos a senadores, se deberá señalar, para el caso de que alguno o algunos resulten electos, a qué partido político representarán en la Cámara.
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+5. A la coalición que postule 10 o más listas de fórmulas de candidatos a senadores se le considerará como un solo partido, para todos los efectos de la asignación de diputados por el principio de representación proporcional.
 
 ARTICULO 62
 
 1. La coalición por la que se postule candidatura de diputado por el principio de mayoría relativa, se sujetará a lo siguiente:
 
-a) Deberá acreditar ante el Consejo del Instituto Federal Electoral en el distrito en el que la coalición haya postulado candidatura, tantos representantes como correspondiera a cada uno de los partidos políticos coaligados;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Deberá acreditar ante el Consejo del Instituto Federal Electoral en el distrito en el que la coalición haya postulado candidatos, tantos representantes como correspondiera al partido político coaligado con mayor fuerza electoral de acuerdo a la última elección federal celebrada. La coalición actuará como un solo partido y, por lo tanto, la representación de la misma sustituye para todos los efectos a que haya lugar a la de los partidos políticos coaligados en el distrito respectivo.
 
 b) Deberá acreditar tantos representantes como correspondiera a un solo partido político ante las mesas directivas de casilla, y generales en el distrito electoral;
 
@@ -813,21 +1183,55 @@ I.- No podrán registrarse más del 30% de las candidaturas en distritos de una 
 
 II.- Del número de candidaturas postuladas para una sola circunscripción, no se podrán registrar más de la mitad en distritos de una misma entidad federativa.
 
-d) Si registra 100 o más candidaturas por el principio de mayoría relativa, además de lo señalado en el inciso anterior, para la representación ante los órganos del Instituto y prerrogativas en radio y televisión se estará a lo dispuesto por los incisos a), b) y c) del párrafo 1 del artículo 59;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) Participarán en la elección con el emblema y color o colores de uno de los partidos o con el emblema formado con los de los partidos políticos coaligados; en éste, podrán aparecer ligados o separados; y
+d) Si postulase cien o más candidatos por el principio de mayoría relativa, además de cumplir con lo señalado en el inciso c) anterior, se sujetará a lo dispuesto en los incisos a) al d) del párrafo 1 del artículo 59 de este Código;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Si postulase candidaturas en menos de 100 distritos electorales uninominales, participará en las campañas en los distritos correspondientes con el emblema, color o colores del partido político cuya declaración de principios, programa de acción y estatutos se hayan adoptado para la coalición; o con el emblema formado con todos los de los partidos políticos coaligados y bajo la declaración de principios, programas de acción y estatutos únicos para la coalición; y
 
 f) La coalición comprenderá siempre fórmulas de propietario y suplente.
 
-2. Para que una coalición pueda postular candidatos a diputados de mayoría relativa deberá acreditar que los órganos partidistas correspondientes:
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-a) Aprobaron la coalición;
+2. Para el registro de la coalición los partidos políticos deberán:
 
-b) Aprobaron las candidaturas de las fórmulas de propietario y suplente de la coalición de conformidad con sus estatutos y métodos de selección de candidatos; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-c) Aprobaron la plataforma electoral de la coalición.
+a) Si la coalición pretende postular y registrar candidaturas de diputados en 100 o más distritos electorales uninominales, acreditar que tanto la coalición como las fórmulas de candidatos fueron aprobadas por la Asamblea Nacional así como las Asambleas distritales respectivas u órganos equivalentes, de cada uno de los partidos políticos coaligados;
 
-3. En el convenio de coalición para esta elección, deberá especificarse la forma para distribuir entre los partidos políticos coaligados, los votos para efectos de la elección por el principio de representación proporcional.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Si la coalición pretende postular candidaturas en menos de 100 distritos electorales uninominales, acreditar que tanto la coalición como las fórmulas de candidatos fueron aprobadas por las Asambleas distritales correspondientes o sus equivalentes de cada uno de los partidos políticos coaligados;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) En todos los casos comprobarán que los órganos partidistas correspondientes aprobaron contender bajo la declaración de principios, programa de acción y estatutos que la coalición haya adoptado, de conformidad con lo señalado en este artículo;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) También en todos los casos, comprobarán que los órganos partidistas correspondientes aprobaron la plataforma electoral de la coalición, conforme a la declaración de principios, programa de acción y estatutos que se hayan adoptado para la misma;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Si la coalición pretende postular y registrar fórmulas de candidatos en 100 o más distritos electorales uninominales, comprobará que los órganos nacionales respectivos de cada partido político aprobaron, de acuerdo con la declaración de principios, programa de acción, estatutos y plataforma electoral de la coalición, el programa legislativo al cual se sujetarán sus candidatos, de resultar electos; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Si la coalición pretende postular y registrar fórmulas de candidatos en 100 o más distritos electorales uninominales, comprobará que los órganos nacionales y estatales de cada partido político coaligado aprobaron postular y registrar por la misma coalición a las 32 listas de fórmulas de candidatos a senador y a las 200 fórmulas de candidatos a diputados por el principio de representación proporcional, en los términos señalados por este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Si una vez registrada la coalición no cumple con el registro de las fórmulas de candidatos a que se refiere el inciso f) del párrafo 2 anterior dentro de los plazos señalados para tal efecto en el presente Código, la coalición y el registro de fórmulas de candidatos quedarán automáticamente sin efectos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. En el convenio de coalición, cuando se postulen menos de cien fórmulas de candidatos, se deberá señalar para el caso de que alguno o algunos resulten electos, a qué grupo parlamentario quedarán incorporados. Asimismo, deberá especificarse la fórmula para distribuir entre los partidos coaligados, los votos para los efectos de la elección por el principio de representación proporcional.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. Cuando la coalición postule cien o más fórmulas de candidatos, le serán asignados a aquélla el número de diputados por el principio de representación proporcional que le correspondan como si se tratara de un solo partido político.
 
 ARTICULO 63
 
@@ -841,21 +1245,49 @@ c) Apellido paterno, apellido materno y nombre completo, edad, lugar de nacimien
 
 d) El cargo para el que se le o les postula;
 
-e) El emblema y el color o colores de uno de los partidos o el formado con los de los partidos políticos coaligados con el que se participará;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-f) En su caso, la forma de distribución del financiamiento público que les corresponda como coalición;
+e) El emblema y el color o colores, según proceda, del partido político cuya declaración de principios, programa de acción y estatutos se hayan adoptado para la coalición; el de uno de los partidos coaligados o el formado con los de los partidos políticos coaligados. En su caso, se deberá acompañar la declaración de principios, programa de acción y estatutos únicos de la coalición, así como los documentos en que conste su aprobación por los órganos partidistas correspondientes;
 
-g) La prelación para la conservación del registro de los partidos políticos, en el caso de que el porcentaje de la votación obtenida por la coalición no sea equivalente a 1.5% por cada uno de los partidos políticos coaligados; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-h) El señalamiento, por cada distrito electoral uninominal, entidad o circunscripción plurinominal, del partido político al que pertenece cada uno de los candidatos registrados por la coalición.
+f) El compromiso de sostener una plataforma electoral de acuerdo con la declaración de principios, programa de acción y estatutos adoptados por la coalición;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) En el caso de la coalición para la elección de Presidente de los Estados Unidos Mexicanos, de diputados por el principio de representación proporcional, o en aquellas por las que se postulen más de diez listas de fórmulas de candidatos a senadores o cien o más formulas de candidatos a diputados por el principio de mayoría relativa, se acompañarán, en su caso, el programa de gobierno al que se sujetará el candidato presidencial en el supuesto de resultar electo, y los documentos en los que conste que los órganos partidistas correspondientes, de cada uno de los partidos coaligados, los aprobaron;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+h) En su caso, la forma y términos de acceso y contratación de tiempos en radio y televisión y la forma de distribución del financiamiento público que les corresponda como coalición;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+i) La prelación para la conservación del registro de los partidos políticos, en el caso de que el porcentaje de la votación obtenida por la coalición no sea equivalente al 1.5% por cada uno de los partidos políticos coaligados; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+j) El señalamiento, por cada distrito electoral uninominal o entidad, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos en el caso de resultar electos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. En el convenio de coalición se deberá manifestar que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo partido.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En el caso de coaliciones, la modificación o la presentación de la declaración de principios, programa de acción y estatutos que se adopten, se acompañará al convenio de coalición, para su aprobación en los términos del inciso l) del párrafo 1 del artículo 38 de este Código. En este supuesto, no se aplicará lo previsto en el párrafo 2 del mismo artículo 38.
 
 ARTICULO 64
 
-1. El convenio de coalición deberá presentarse para su registro ante el Director General del Instituto Federal Electoral, a más tardar cinco días antes de que se inicie el registro de candidatos de la elección de que se trate. Durante las ausencias del Director General, el convenio se podrá presentar ante el Secretario General del Instituto.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. La solicitud de registro de convenio de coalición para la elección de Presidente de los Estados Unidos Mexicanos deberá presentarse al Director General del Instituto Federal Electoral a más tardar dentro de los diez días siguientes a aquel en que se haya iniciado el proceso electoral de que se trate, acompañado de la documentación pertinente. El convenio de coalición para la elección de diputados o senadores deberá presentarse para solicitar su registro ante el mismo funcionario, a más tardar treinta días antes de que se inicie el registro de candidatos de la elección de que se trate. Durante las ausencias del Director General el convenio se podrá presentar ante el Secretario General del Instituto.
 
 2. El Director General integrará el expediente e informará al Consejo General.
 
-3. El Consejo General resolverá sobre el registro en forma definitiva e inatacable.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. El Consejo General resolverá antes de que inicie el plazo para el registro de candidatos, según la elección de que se trate. Su resolución será definitiva e inatacable.
 
 4. Una vez registrado un convenio de coalición, el Instituto dispondrá su publicación en el Diario Oficial de la Federación.
 
@@ -875,27 +1307,37 @@ ARTICULO 65
 
 ## TITULO QUINTO. De la pérdida de registro
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 66
 
-1. Son causa de pérdida de registro de un partido político nacional:
+1. Son causa de pérdida de registro de un partido político:
 
-a) No obtener el 1.5% de la votación emitida, en ninguna de las elecciones federales;
+a) No participar en un proceso electoral federal ordinario;
 
-b) Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
+b) No obtener en dos elecciones federales ordinarias consecutivas, por lo menos el 1.5% de la votación emitida en alguna de las elecciones para diputados, senadores o Presidente de los Estados Unidos Mexicanos, si tiene registro definitivo, en los términos de los párrafos 2 y 3 del artículo 35 de este Código;
 
-c) Incumplir de manera grave y sistemática a juicio del Consejo General del Instituto Federal Electoral las obligaciones que le señala este Código;
+c) No obtener por lo menos el 1.5% de la votación emitida en alguna de las elecciones federales ordinarias para diputados, senadores o Presidente de los Estados Unidos Mexicanos, si participa coaligado o si tiene registro condicionado;
 
-d) Por no designar a los presuntos diputados que le corresponda para integrar el Colegio Electoral, o no comunicar su designación oportunamente o porque acuerde la no participación de los designados o éstos no cumplan sus funciones;
+d) Acordar la no participación de sus diputados cuando la Cámara se erija en Colegio Electoral para calificar la elección del Presidente de los Estados Unidos Mexicanos;
 
-e) Haber sido declarado disuelto por acuerdo de sus miembros, conforme a lo que establezcan sus estatutos; y
+e) Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
 
-f) Haberse fusionado con otro partido político, en los términos del artículo anterior.
+f) Incumplir de manera grave y sistemática a juicio del Consejo General del Instituto Federal Electoral las obligaciones que le señala este Código;
+
+g) Haber sido declarado disuelto por acuerdo de sus miembros conforme a lo que establezcan sus estatutos; y
+
+h) Haberse fusionado con otro partido político, en los términos del artículo anterior.
 
 ARTICULO 67
 
-1. Para la pérdida del registro a que se refiere el inciso a) del artículo anterior, la Junta General Ejecutiva del Instituto Federal Electoral emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados que determinen los Colegios Electorales respectivos una vez calificadas las elecciones, y solicitará su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. En los casos a que se refieren los incisos b) al f) del artículo anterior, la resolución del Consejo General del Instituto sobre la pérdida del registro de un partido político, se publicará en el Diario Oficial de la Federación.
+1. Para la pérdida del registro a que se refieren los incisos a) al c) del artículo anterior, la Junta General Ejecutiva del Instituto Federal Electoral emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los Consejos del Instituto, así como en las resoluciones del Tribunal Federal Electoral, debiéndola publicar en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. En los casos a que se refieren los incisos d) al h) del artículo anterior, la resolución del Consejo General del Instituto sobre la pérdida del registro de un partido político, se publicará en el Diario Oficial de la Federación. No podrá resolverse sobre la pérdida del registro en los supuestos previstos en los incisos d), e) y f) del mismo artículo, sin que previamente se oiga en defensa al partido político interesado.
 
 3. La pérdida del registro de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones según el principio de mayoría relativa.
 
@@ -945,7 +1387,9 @@ a) 32 Delegaciones, una en cada entidad federativa; y
 
 b) 300 Subdelegaciones, una en cada distrito electoral uninominal.
 
-2. Contará también con oficinas municipales en los lugares en que la Junta General Ejecutiva determine su instalación.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Contará también con oficinas municipales en los lugares en que el Consejo General determine su instalación.
 
 ## TITULO SEGUNDO. De los órganos centrales
 
@@ -1045,7 +1489,9 @@ ARTICULO 78
 
 1. El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le formule la mayoría de los representantes de los partidos políticos nacionales.
 
-2. Para la preparación del proceso electoral el Consejo General se reunirá dentro de la primera semana del mes de enero del año en que se celebren las elecciones federales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+2. Para la preparación del proceso electoral el Consejo General se reunirá dentro de la primera semana del mes de noviembre del año anterior a aquel en que se celebren las elecciones federales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
 
 ARTICULO 79
 
@@ -1075,15 +1521,23 @@ ARTICULO 82
 
 a) Expedir los reglamentos interiores necesarios para el buen funcionamiento del Instituto;
 
-b) Vigilar la oportuna integración, instalación y adecuado funcionamiento de los órganos del Instituto;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Vigilar la oportuna integración, instalación y adecuado funcionamiento de los órganos del Instituto y conocer de los informes específicos que el Consejo General estime necesario solicitarles;
 
 c) Designar al Director General del Instituto por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que presente el Presidente del propio Consejo. En caso de no obtenerse dicha mayoría, la designación se hará por insaculación de entre las propuestas que en terna presente el Presidente del Consejo;
 
-d) Designar al Secretario General del Instituto a propuesta del Presidente del propio Consejo;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) Designar, en el mes de enero del año de la elección, por mayoría absoluta de entre las propuestas que al efecto haga la Junta General Ejecutiva, a los consejeros ciudadanos de los Consejos Locales a que se refiere el párrafo 3 del artículo 102 de este Código;
+d) Designar al Secretario General y a los Directores Ejecutivos del Instituto por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que presente el Director General. En caso de no obtenerse dicha mayoría se presentará una propuesta en terna para el mismo efecto y si en este segundo caso tampoco se alcanzara la mayoría requerida, la designación se hará por insaculación de entre los integrantes de dicha terna;
 
-f) Resolver, en los términos de este Código, el otorgamiento del registro, así como sobre la pérdida del mismo por los partidos políticos en los casos previstos en los incisos b) al f) del artículo 66, emitir la declaratoria correspondiente y solicitar su publicación en el Diario Oficial de la Federación;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Designar, a más tardar el día 30 del mes de noviembre del año anterior al de la elección, por mayoría absoluta de entre las propuestas que al efecto haga la Junta General Ejecutiva, a los consejeros ciudadanos de los Consejos Locales a que se refiere el párrafo 3 del artículo 102 de este Código;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Resolver, en los términos de este Código, el otorgamiento del registro a los partidos políticos, así como sobre la pérdida del mismo en los casos previstos en los incisos d) al h) del artículo 66 de este Código, emitir la declaratoria correspondiente y solicitar su publicación en el Diario Oficial de la Federación;
 
 g) Resolver sobre los convenios de fusión, frente y coalición que celebren los partidos políticos nacionales;
 
@@ -1097,7 +1551,13 @@ k) Ordenar a la Junta General Ejecutiva hacer los estudios y formular los proyec
 
 l) Ordenar a la Junta General Ejecutiva hacer los estudios y formular los proyectos a fin de determinar para cada elección el ámbito territorial de las cinco circunscripciones electorales plurinominales y la capital de la entidad federativa que será cabecera de cada una de ellas, así como el número de diputados de representación proporcional que serán electos en cada una;
 
-m) Aprobar el modelo de la Credencial para Votar y los formatos de la documentación electoral;
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ll) Aprobar el modelo de la Credencial para Votar con fotografía, el de las actas de la jornada electoral y los formatos de la demás documentación electoral;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+m) Determinar el tope máximo de gastos de campaña que pueden erogar los partidos políticos en la elección de Presidente de los Estados Unidos Mexicanos, de conformidad con el inciso a) del párrafo 4 del artículo 182-A de este Código, así como determinar los valores que serán tomados en cuenta para la fijación del tope máximo de gastos de campaña para la elección de diputados de mayoría relativa, de conformidad con el inciso b) del párrafo 4 del mismo artículo 182-A, a propuesta del Director General;
 
 n) Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos en los términos de este Código;
 
@@ -1109,11 +1569,17 @@ p) Registrar las listas regionales de candidatos a diputados de representación 
 
 q) Registrar supletoriamente las fórmulas de candidatos a diputados por el principio de mayoría relativa y de senadores;
 
-r) Efectuar el cómputo total de la elección de todas las listas de diputados electos según el principio de representación proporcional y, de acuerdo con el cómputo de la votación efectiva de cada una de las circunscripciones plurinominales, determinar la asignación de diputados para cada partido político nacional y otorgar las constancias correspondientes en los términos de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-s) Dar cuenta al Colegio Electoral de la Cámara de Diputados sobre el otorgamiento de las constancias de asignación de diputados electos por el principio de representación proporcional;
+r) Efectuar el cómputo total de la elección de todas las listas de diputados electos según el principio de representación proporcional, hacer la declaración de validez de la elección de diputados por este principio, determinar la asignación de diputados para cada partido político y otorgar las constancias respectivas, en los términos de este Código, a más tardar el 23 de agosto del año de la elección;
 
-t) Informar a los Colegios Electorales de las Cámaras sobre el desarrollo de los trabajos realizados por el Instituto Federal Electoral en las elecciones que habrán de calificar;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+s) Informar a la Cámara de Diputados sobre el otorgamiento de las constancias de asignación de diputados electos por el principio de representación proporcional y de los recursos de inconformidad interpuestos;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+t) Informar a la Cámara de Diputados sobre el desarrollo de los trabajos realizados por el Instituto Federal Electoral y en su caso, de los recursos interpuestos, en la elección de Presidente de los Estados Unidos Mexicanos, para los efectos de su calificación;
 
 u) Conocer los informes trimestrales y anual que la Junta General Ejecutiva rinda por conducto del Director General del Instituto;
 
@@ -1141,7 +1607,7 @@ d) Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo;
 
 e) Proponer al Consejo General el nombramiento del Director General del Instituto, en los términos del inciso c) del párrafo 1 del artículo 82 de este Código;
 
-f) Proponer al Consejo General el nombramiento del Secretario General del Instituto;
+f) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 g) Proponer anualmente al Consejo General el anteproyecto de presupuesto del Instituto para su aprobación;
 
@@ -1165,7 +1631,9 @@ d) Dar cuenta con los proyectos de dictamen de las comisiones;
 
 e) Recibir y sustanciar los recursos de revisión que se interpongan en contra de los actos o resoluciones de los órganos locales del Instituto y preparar el proyecto correspondiente;
 
-f) Recibir y dar el trámite previsto en el Libro Séptimo de este Código a los recursos de apelación que se interpongan en contra de los actos o resoluciones del Consejo, informándole sobre los mismos en su sesión inmediata;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Recibir y dar el trámite previsto en el Libro Séptimo de este Código a los recursos que se interpongan en contra de los actos o resoluciones del Consejo, informándole sobre los mismos en su sesión inmediata;
 
 g) Informar al Consejo de las resoluciones que le competan dictadas por el Tribunal Federal Electoral;
 
@@ -1199,11 +1667,15 @@ e) Supervisar el cumplimiento de los programas de capacitación electoral y educ
 
 f) Seleccionar a los candidatos y someter a consideración del Consejo General las propuestas de consejeros ciudadanos a que se refiere el inciso e) del artículo 82, en la primera sesión que celebre para preparar el proceso electoral;
 
-g) Aprobar el establecimiento de oficinas municipales de acuerdo con los estudios que formule y la disponibilidad presupuestal;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) Proponer al Consejo General el establecimiento de oficinas municipales de acuerdo con los estudios que formule y la disponibilidad presupuestal;
 
 h) Desarrollar las acciones necesarias para asegurar que las comisiones de vigilancia nacional, locales y distritales se integren, sesionen y funcionen en los términos previstos por este Código;
 
-i) Hacer la declaratoria de pérdida del registro del partido político que se encuentre en el supuesto del inciso a) del artículo 66 de este Código, comunicarlo al Consejo General del Instituto y solicitar su publicación en el Diario Oficial de la Federación;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+i) Hacer la declaratoria de pérdida de registro del partido político que se encuentre en cualquiera de los supuestos de los incisos a) al c) del artículo 66 de este Código, a más tardar el último día del mes siguiente a aquel en que concluya el proceso electoral, comunicarlo al Consejo General del Instituto y solicitar su publicación en el Diario Oficial de la Federación;
 
 j) Resolver los recursos de revisión que se presenten, en los dos años anteriores al proceso electoral, en contra de los actos o resoluciones de los órganos locales del Instituto, en los términos establecidos en el Libro Séptimo de este Código; y
 
@@ -1219,15 +1691,41 @@ ARTICULO 87
 
 ARTICULO 88
 
-1. Para ser Director General del Instituto se requiere:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. El Director General deberá reunir los siguientes requisitos:
 
 a) Ser ciudadano mexicano por nacimiento;
 
 b) Estar en pleno ejercicio de sus derechos políticos;
 
-c) Tener como mínimo treinta años cumplidos; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Contar con grado académico de nivel profesional y los conocimientos que le permitan el desempeño de sus funciones.
+c) No tener más de sesenta y cinco años de edad ni menos de treinta, el día de la designación;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Poseer el día de la designación con antigüedad mínima de cinco años, grado académico de nivel profesional y los conocimientos que le permitan el desempeño de sus funciones;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+h) No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años anteriores a la designación; e
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cinco años anteriores a la designación.
 
 ARTICULO 89
 
@@ -1255,9 +1753,17 @@ j) Nombrar a los integrantes de las Juntas Locales y Distritales Ejecutivas, de 
 
 k) Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
 
-l) Establecer un mecanismo para la difusión inmediata en el Consejo General de los resultados preliminares de las elecciones de diputados, senadores y Presidente de los Estados Unidos Mexicanos; para este efecto se dispondrá de un sistema de informática para recabar la suma de los resultados preliminares provenientes de los Consejos Distritales, en los términos de los incisos a) y b) del párrafo I del artículo 243 de este Código; a este sistema tendrán acceso en forma permanente los partidos políticos;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-m) Dar a conocer la estadística electoral por sección, municipio, distrito, entidad federativa y circunscripción plurinominal, una vez calificadas las elecciones;
+l) Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones de diputados, senadores y Presidente de los Estados Unidos Mexicanos; para este efecto se dispondrá de un sistema de informática para recabar los resultados preliminares. En este caso se podrán transmitir los resultados en forma previa al procedimiento establecido en los incisos a) y b) del párrafo 1 del artículo 243 de este Código. Al sistema que se establezca tendrán acceso en forma permanente los consejeros y representantes de los partidos políticos acreditados ante el Consejo General;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ll) Ordenar, cuando lo estime conveniente, la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral. Los resultados de dichos estudios sólo podrán ser difundidos previo acuerdo del Consejo General;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+m) Dar a conocer la estadística electoral, por sección, municipio, distrito, entidad federativa y circunscripción plurinominal, una vez concluido el proceso electoral;
 
 n) Recibir, para efectos de información y estadísticas electorales, copias de los expedientes de todas las elecciones;
 
@@ -1299,9 +1805,13 @@ h) Las demás que le encomienden la Junta y el Director General.
 
 ARTICULO 91
 
-1. Al frente de cada una de las direcciones de la Junta General, habrá un Director Ejecutivo que será nombrado por el Director General.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. El Director General hará los nombramientos a que se refiere el párrafo anterior, en igualdad de circunstancias, preferentemente de entre los miembros del Servicio Profesional Electoral.
+1. Al frente de cada una de las direcciones de la Junta General, habrá un Director Ejecutivo que será nombrado por el Consejo General.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. El Consejo General hará los nombramientos a que se refiere el párrafo anterior, de conformidad con lo dispuesto en el inciso d) del párrafo 1 del artículo 82 de este Código.
 
 3. Los Directores deberán satisfacer los siguientes requisitos:
 
@@ -1369,17 +1879,27 @@ e) Llevar a cabo los trámites necesarios para que los partidos políticos pueda
 
 f) Apoyar las gestiones de los partidos políticos para hacer efectivas las prerrogativas que tienen conferidas en materia fiscal;
 
-g) Realizar las actividades para que los partidos políticos nacionales ejerzan las prerrogativas en materia de radio y televisión en los términos de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) Realizar las actividades para que los partidos políticos ejerzan sus prerrogativas y puedan acceder a la contratación de tiempos en radio y televisión, en los términos de este Código;
 
 h) Presidir la Comisión de Radiodifusión;
 
-i) Llevar el libro de registro de los representantes de los partidos políticos acreditados ante los órganos del Instituto a nivel nacional, local y distrital;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+i) Llevar el Libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante los órganos del Instituto a nivel nacional, local y distrital;
 
 j) Llevar los libros de registro de los candidatos a los puestos de elección popular;
 
 k) Acordar con el Director General los asuntos de su competencia; y
 
-l) Las demás que le confiera este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+l) Actuar como secretario técnico de la comisión de Consejeros a que se refiere el párrafo 6 del artículo 49 de este Código; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+m) Las demás que le confiera este Código.
 
 ARTICULO 94
 
@@ -1489,11 +2009,23 @@ b) Supervisar y evaluar el cumplimiento de los programas relativos al Registro F
 
 c) Informar mensualmente al Director General sobre el desarrollo de sus actividades;
 
-d) Someter a la consideración de los Consejos Locales correspondientes, en la primera sesión que celebren en el mes de febrero, las propuestas de consejeros ciudadanos para integrar los Consejos Distritales;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Someter a la consideración de los Consejos Locales correspondientes, en la primera sesión que celebren en el mes de diciembre del año anterior al de la elección, las propuestas de consejeros ciudadanos para integrar los Consejos Distritales;
 
 e) Recibir, sustanciar y resolver los recursos de revisión que se presenten durante los dos años anteriores al proceso electoral contra los actos o resoluciónes de los órganos distritales, en los términos establecidos en el Libro Séptimo de este Código; y
 
-f) Las demás que les encomiende este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Determinar el tope máximo de gastos que pueden erogar los partidos políticos en las campañas de cada fórmula de senadores de su entidad federativa, de conformidad con lo dispuesto en el artículo 182-A de este Código;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) Acreditar conforme al párrafo 3 del artículo 5 de este Código, a los ciudadanos mexicanos que hayan presentado su solicitud para participar como observadores durante la jornada electoral; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+h) Las demás que les confiera este Código.
 
 ### CAPITULO SEGUNDO. De los Vocales Ejecutivos de las Juntas Locales
 
@@ -1525,7 +2057,9 @@ i) Las demás que les señale este Código.
 
 ARTICULO 102
 
-1. Los Consejos Locales funcionarán durante el proceso electoral federal y se integrarán con cinco consejeros que serán los Vocales de la Junta Local Ejecutiva, seis consejeros ciudadanos y representantes de los partidos políticos nacionales.
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+1. Los Consejos Locales funcionarán durante el proceso electoral federal y se integrarán con dos consejeros que serán los Vocales Ejecutivo y Secretario de la Junta Local Ejecutiva; nueve consejeros ciudadanos y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local concurrirán a sus sesiones con voz pero sin voto.
 
 2. El Vocal Ejecutivo y el Vocal Secretario de la junta serán, respectivamente, Presidente y Secretario del Consejo Local.
 
@@ -1545,7 +2079,9 @@ b) Ser nativo o residente de la entidad respectiva;
 
 c) Contar con conocimientos para el desempeño adecuado de sus funciones;
 
-d) No desempeñar o haber desempeñado cargo de elección popular en los últimos seis años;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato para alguno de ellos, en los últimos seis años anteriores a la designación;
 
 e) No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos seis años; y
 
@@ -1559,13 +2095,19 @@ f) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo
 
 ARTICULO 104
 
-1. Los Consejos Locales iniciarán sesiones a más tardar el día último de enero del año de la elección ordinaria.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Los Consejos Locales iniciarán sus sesiones a más tardar el día 30 de noviembre del año anterior al de la elección ordinaria.
 
 2. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes.
 
-3. Para que los Consejos Locales puedan sesionar válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-4. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes que asistan, entre los que deberá estar el Presidente.
+3. Para que los Consejos Locales sesionen válidamente, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente, quien podrá ser suplido en sus ausencias temporales por el Secretario del propio Consejo. En este caso, las funciones del Secretario serán realizadas por cualquiera de los miembros del Servicio Profesional Electoral que designe el Consejo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los consejeros y representantes que asistan, entre los que deberá estar el Presidente o el Secretario.
 
 5. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el del Presidente.
 
@@ -1577,7 +2119,9 @@ a) Vigilar la observancia de este Código y los acuerdos y resoluciones de las a
 
 b) Vigilar que los Consejos Distritales se instalen en la entidad en los términos de este Código;
 
-c) Designar durante el mes de febrero del año de la elección, por mayoría absoluta, a los consejeros ciudadanos que integren los Consejos Distritales a que se refiere el párrafo 3 del artículo 113 de este Código, con base en las propuestas que al efecto haga la Junta Local Ejecutiva;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Designar en el mes de diciembre del año anterior al de la elección, por mayoría absoluta, a los consejeros ciudadanos que integren los Consejos Distritales a que se refiere el párrafo 3 del artículo 113 de este Código, con base en las propuestas que al efecto haga la Junta Local Ejecutiva;
 
 d) Publicar la integración de los Consejos Distritales por lo menos en uno de los diarios de mayor circulación en la localidad;
 
@@ -1585,7 +2129,9 @@ e) Registrar supletoriamente los nombramientos de los representantes generales o
 
 f) Registrar las fórmulas de candidatos a senadores;
 
-g) Realizar el cómputo total de la elección para senadores, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes y turnar el original y las copias certificadas del expediente en los términos señalados en el Capítulo Cuarto del Título Tercero del Libro Quinto de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) Efectuar el cómputo total y la declaración de validez de la elección de senadores, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes y turnar el original y las copias certificadas del expediente en los términos señalados en el Capítulo Cuarto del Título Tercero del Libro Quinto de este Código;
 
 h) Resolver los recursos de revisión que les competan en los términos de este Código; e
 
@@ -1611,17 +2157,33 @@ a) Convocar y conducir las sesiones del Consejo;
 
 b) Recibir por sí mismo o por conducto del Secretario las solicitudes de registro de candidaturas a senador que presenten los partidos políticos nacionales;
 
-c) Dar cuenta al Director General del Instituto de los cómputos relativos a las elecciones de senador dentro de los cinco días siguientes a la sesión de cómputo;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Vigilar la entrega a los Consejos Distritales de la documentación aprobada, útiles y elementos necesarios para el desempeño de sus tareas;
+c) Registrar conforme al párrafo 3 del artículo 5 de este Código, a los ciudadanos que hayan presentado su solicitud para participar como observadores durante la jornada electoral;
 
-e) Expedir la constancia de mayoría a la fórmula de candidatos a senadores que haya obtenido mayor número de votos e informar al Consejo General;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-f) Vigilar el cumplimiento de las resoluciones dictadas por el respectivo Consejo Local;
+d) Dar cuenta al Director General del Instituto de los cómputos y declaraciones de validez referentes a la elección de senadores, así como de los recursos de inconformidad interpuestos, dentro de los cinco días siguientes a la sesión respectiva;
 
-g) Recibir y turnar los recursos de revisión, apelación e inconformidad que se interpongan en contra de los actos o resoluciones del Consejo, en los términos del Libro Séptimo de este Código; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-h) Las demás que le sean conferidas por este Código.
+e) Vigilar la entrega a los Consejos Distritales, de la documentación aprobada, útiles y elementos necesarios para el desempeño de sus tareas;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Expedir la Constancia de Mayoría y Validez de la elección a las fórmulas de candidatos a senadores que hubiesen obtenido la mayoría de votos así como la Constancia de Asignación a la fórmula de primera minoría conforme al cómputo y declaración de validez del Consejo Local, e informar al Consejo General;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) Vigilar el cumplimiento de las resoluciones dictadas por el respectivo Consejo Local;
+
+(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+h) Recibir y turnar los recursos de revisión, apelación e inconformidad que se interpongan en contra de los actos o resoluciones del Consejo, en los términos del Libro Séptimo de este Código; e
+
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+i) Las demás que les sean conferidas por este Código.
 
 2. Los Presidentes serán auxiliados en sus funciones por los Secretarios de los Consejos. Los Secretarios tendrán a su cargo la sustanciación de los recursos de revisión que deba resolver el Consejo.
 
@@ -1649,7 +2211,9 @@ ARTICULO 109
 
 2. El Vocal Ejecutivo presidirá la Junta.
 
-3. El Vocal Secretario auxiliará al Vocal Ejecutivo en las tareas administrativas de la Junta y sustanciará los recursos de aclaración.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. El Vocal Secretario auxiliará al Vocal Ejecutivo en las tareas administrativas de la Junta.
 
 4. Las Juntas Distritales Ejecutivas estarán integradas invariablemente por funcionarios del Servicio Profesional Electoral.
 
@@ -1661,9 +2225,13 @@ a) Evaluar el cumplimiento de los programas relativos al Registro Federal de Ele
 
 b) Proponer al Consejo Distrital correspondiente el número y ubicación de las casillas que habrán de instalarse en cada una de las secciones comprendidas en su distrito de conformidad con el artículo 195 de este Código;
 
-c) Capacitar, seleccionar y designar a los ciudadanos que habrán de integrar las mesas directivas de casilla, en los términos del Título Quinto de este Libro;
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
-d) Resolver los recursos de aclaración que se presenten, durante los dos años anteriores al proceso electoral ordinario, contra los actos o resoluciones de las oficinas municipales en los términos establecidos en este Código; y
+c) Capacitar a los ciudadanos que habrán de integrar las mesas directivas de casilla, en los términos del Título Quinto de este Libro; y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Determinar el tope máximo de gastos de campaña que pueden erogar los partidos políticos en la elección de diputados de mayoría relativa en el distrito electoral uninominal, de conformidad con lo dispuesto en el artículo 182-A de este Código; y
 
 e) Las demás que le encomiende este Código.
 
@@ -1703,7 +2271,9 @@ ARTICULO 112
 
 ARTICULO 113
 
-1. Los Consejos Distritales funcionarán durante el proceso electoral federal y se integrarán con cinco consejeros miembros de la Junta Distrital Ejecutiva, seis consejeros ciudadanos y representantes de los partidos políticos nacionales.
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+1. Los Consejos Distritales funcionarán durante el proceso electoral federal y se integrarán con dos consejeros que serán los Vocales Ejecutivo y Secretario de la Junta Distrital Ejecutiva; nueve consejeros ciudadanos y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Distrital concurrirán a sus sesiones con voz pero sin voto.
 
 2. El Vocal Ejecutivo y el Vocal Secretario de la Junta Distrital Ejecutiva serán, respectivamente, Presidente y Secretario del Consejo Distrital.
 
@@ -1725,7 +2295,9 @@ c) Ser nativo o residente de la entidad que corresponda;
 
 d) Contar con conocimientos para el desempeño adecuado de sus funciones;
 
-e) No desempeñar o haber desempeñado cargo de elección popular en los últimos seis años;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato para alguno de ellos, en los últimos seis años anteriores a la designación;
 
 f) No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos seis años; y
 
@@ -1739,13 +2311,19 @@ g) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo
 
 ARTICULO 115
 
-1. Los Consejos Distritales iniciarán sesiones a más tardar el día último de febrero del año de la elección ordinaria.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Los Consejos Distritales iniciarán sus sesiones a más tardar el día 31 de diciembre del año anterior al de la elección ordinaria.
 
 2. A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes.
 
-3. Para que los Consejos Distritales puedan sesionar válidamente, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-4. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los consejeros y representantes que asistan, entre los que deberá estar el Presidente.
+3. Para que los Consejos Distritales sesionen válidamente, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente, quien podrá ser suplido en sus ausencias temporales por el Secretario del propio Consejo. En este caso, las funciones del Secretario serán realizadas por cualquiera de los miembros del Servicio Profesional Electoral que designe el Consejo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los consejeros y representantes que asistan, entre los que deberá estar el Presidente o el Secretario.
 
 5. Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el del Presidente.
 
@@ -1757,7 +2335,9 @@ a) Vigilar la observancia de este Código y de los acuerdos y resoluciones de la
 
 b) Determinar el número y la ubicación de las casillas conforme al procedimiento señalado en los artículos 195 y 197 de este Código;
 
-c) Vigilar que las mesas directivas de casilla se instalen en los términos de este Código;
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+c) Insacular a los funcionarios de casilla conforme al procedimiento previsto en el artículo 193 y vigilar que las mesas directivas de casilla se instalen en los términos de este Código;
 
 d) Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa;
 
@@ -1765,7 +2345,9 @@ e) Registrar los nombramientos de los representantes que los partidos políticos
 
 f) Expedir, en su caso, la identificación de los representantes de los partidos, en un plazo máximo de cuarenta y ocho horas a partir de su registro, y en todo caso, diez días antes de la jornada electoral;
 
-g) Realizar los cómputos distritales de las elecciones de diputados por los principios de mayoría relativa y de representación proporcional;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) Efectuar los cómputos distritales y la declaración de validez de las elecciones de diputados por el principio de mayoría relativa, y el cómputo distrital de la elección de diputados de representación proporcional;
 
 h) Realizar el cómputo distrital de la elección de senadores;
 
@@ -1789,13 +2371,17 @@ c) Dar cuenta al Director General del Instituto, de los cómputos correspondient
 
 d) Entregar a los Presidentes de las mesas directivas de casilla la documentación y útiles necesarios, así como apoyarlos, para el debido cumplimiento de sus funciones;
 
-e) Expedir las constancias de mayoría a la fórmula de candidatos a diputados que haya obtenido mayor número de votos en el cómputo distrital;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Expedir la Constancia de Mayoría y Validez de la elección a la fórmula de candidatos a diputados que haya obtenido la mayoría de votos conforme al cómputo y declaración de validez del Consejo Distrital;
 
 f) Dar a conocer mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos distritales;
 
 g) Turnar el original y las copias certificadas del expediente de los cómputos distritales relativo a las elecciones de diputados, senadores y Presidente de los Estados Unidos Mexicanos en los términos que fija el Capítulo Tercero del Título Cuarto del Libro Quinto;
 
-h) Custodiar la documentación de las elecciones de diputados por mayoría relativa y representación proporcional, de senadores y de Presidente de los Estados Unidos Mexicanos, hasta que concluya la calificación correspondiente;
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+h) Custodiar la documentación de las elecciones de diputados por mayoría relativa y representación proporcional, de senadores y de Presidente de los Estados Unidos Mexicanos, hasta que concluya el proceso electoral correspondiente;
 
 i) Recibir y turnar los recursos de revisión, apelación e inconformidad que se interpongan en contra de los propios actos o resoluciones del Consejo en los términos del Libro Séptimo de este Código;
 
@@ -1869,7 +2455,9 @@ a) Como autoridad electoral, presidir los trabajos de la mesa directiva y velar 
 
 b) Recibir de los Consejos Distritales la documentación, útiles y elementos necesarios para el funcionamiento de la casilla, y conservarlos bajo su responsabilidad hasta la instalación de la misma;
 
-c) Identificar a los electores de conformidad con lo señalado en los incisos a) y b) del artículo 217 de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Identificar a los electores en el caso previsto en el párrafo 4 del artículo 217 de este Código;
 
 d) Mantener el orden en la casilla y en sus inmediaciones, con el auxilio de la fuerza pública si fuese necesario;
 
@@ -1907,7 +2495,13 @@ a) Contar la cantidad de boletas depositadas en cada urna, y el número de elect
 
 b) Contar el número de votos emitidos en favor de cada candidato, fórmula, o lista regional; y
 
-c) Las demás que les confiera este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Auxiliar al Presidente o al Secretario en las actividades que les encomienden; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Las demás que les confiera este Código.
 
 ## TITULO SEXTO. Disposiciones Comunes
 
@@ -1973,6 +2567,10 @@ ARTICULO 133
 
 3. En idéntica forma procederán respecto de las subsecuentes sesiones.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. A solicitud de los representantes de los partidos políticos ante los Consejos General, Locales y Distritales, se expedirán copias certificadas de las actas de sus respectivas sesiones a más tardar a los cinco días de haberse aprobado aquéllas. Los Secretarios de los Consejos serán responsables por la inobservancia.
+
 ARTICULO 134
 
 1. Los Consejos Locales y Distritales determinarán sus horarios de labores, teniendo en cuenta que en materia electoral todos los días son hábiles.
@@ -1990,6 +2588,14 @@ ARTICULO 135
 1. El Instituto Federal Electoral prestará por conducto de la Dirección Ejecutiva competente y de sus Vocalías en las Juntas Locales y Distritales Ejecutivas, los servicios inherentes al Registro Federal de Electores.
 
 2. El Registro Federal de Electores es de carácter permanente y de interés público. Tiene por objeto cumplir con lo previsto en el artículo 41 constitucional sobre el Padrón Electoral.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los documentos, datos e informes que los ciudadanos proporcionen al Registro Federal de Electores, en cumplimiento de las obligaciones que les impone la Constitución y este Código, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer, salvo cuando se trate de juicios, recursos o procedimientos en que el Instituto Federal Electoral fuese parte, para cumplir con las obligaciones previstas por este Código en materia electoral y por la Ley General de Población en lo referente al Registro Nacional Ciudadano o por mandato de juez competente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Los miembros de los Consejos General, Locales y Distritales, así como de las Comisiones de Vigilancia, tendrán acceso a la información que conforma el padrón electoral, exclusivamente para el cumplimiento de sus funciones y no podrán darle o destinarla a finalidad u objeto distinto al de la revisión del padrón electoral y las listas nominales.
 
 ARTICULO 136
 
@@ -2047,7 +2653,9 @@ e) Ocupación; y
 
 f) En su caso, el número y fecha del certificado de naturalización.
 
-3. La información básica contendrá además la entidad federativa, el municipio, la localidad, el distrito electoral uninominal y la sección electoral correspondientes al domicilio, así como la fecha en que se realizó la visita y el nombre y la firma del entrevistador.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. La información básica contendrá además de la entidad federativa, el municipio, la localidad, el distrito electoral uninominal y la sección electoral correspondiente al domicilio, así como la fecha en que se realizó la visita y el nombre y la firma del entrevistador. En todos los casos se procurará establecer el mayor número de elementos para ubicar dicho domicilio geográficamente.
 
 4. Concluida la aplicación de la técnica censal total, la Dirección Ejecutiva del Registro Federal de Electores verificará que en el Catálogo General no existan duplicaciones, a fin de asegurar que cada elector aparezca registrado una sola vez.
 
@@ -2059,31 +2667,29 @@ ARTICULO 142
 
 1. Con base en el Catálogo General de Electores, la Dirección Ejecutiva del Registro Federal de Electores procederá a la formación del Padrón Electoral y, en su caso, a la expedición de las Credenciales para Votar.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 143
 
-1. Independientemente del registro en el Catálogo General de Electores, para la incorporación al Padrón Electoral se requerirá solicitud individual en que consten firma, huella digital y fotografía del ciudadano.
+1. Para la incorporación al Padrón Electoral se requerirá solicitud individual en que consten firma, huella digital y fotografía del ciudadano, en los términos del artículo 148 del presente Código.
 
-2. Con base en la solicitud a que se refiere el párrafo anterior, la Dirección Ejecutiva expedirá la correspondiente Credencial para Votar.
+2. Con base en la solicitud a que se refiere el párrafo anterior, la Dirección Ejecutiva del Registro Federal de Electores expedirá la correspondiente Credencial para Votar.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 144
 
-1. Para la entrega de las Credenciales para Votar se procederá como sigue:
+1. Los ciudadanos tendrán la obligación de acudir a las oficinas o módulos que determine el Instituto Federal Electoral, a fin de obtener su Credencial para Votar con fotografía.
 
-a) La Dirección Ejecutiva, por medio de entrevistadores, entregará a cada interesado, personalmente, y casa por casa, la credencial correspondiente;
+2. Para obtener la Credencial para Votar con fotografía el ciudadano deberá identificarse a través de los medios o procedimientos que determine la Comisión Nacional de Vigilancia del Registro Federal de Electores.
 
-b) Si en la primera visita no se encontrara el interesado, se le dejará aviso con quien se encuentre en el domicilio, sobre el día y la hora en que habrá de realizarse una segunda visita; si no hubiere quien reciba el aviso se fijará en la puerta del domicilio;
+3. En todos los casos, al recibir su credencial, el interesado deberá firmarla y poner su huella digital, previa identificación que haga a satisfacción del funcionario electoral que realice la entrega.
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+4. Se conservará la constancia de entrega de la credencial, con la referencia de los medios identificatorios.
 
-c) Realizada la segunda visita, si no se encuentra al interesado, se le notificará en la forma señalada en el inciso anterior de que deberá acudir a las oficinas que en el mismo se indiquen a recoger su Credencial para Votar;
+5. Los formatos de credencial que no hubiesen sido utilizados se relacionarán debidamente y serán depositados en un lugar que garantice su salvaguarda hasta la conclusión de la jornada electoral de que se trate. La Dirección Ejecutiva del Registro Federal de Electores, de acuerdo con el procedimiento que a tal efecto acuerde el Consejo General, tomará las medidas para su cumplimiento por parte de los Vocales Locales y Distritales, quienes podrán estar acompañados de los miembros de la Comisión de Vigilancia correspondiente, para que verifiquen que se cumpla con dicho procedimiento.
 
-d) Las oficinas tendrán a disposición de los ciudadanos las Credenciales para Votar hasta el día 31 de marzo del año de la elección;
-
-e) En todos los casos, al recibir su Credencial, el interesado deberá firmarla y poner su huella digital, previa identificación que haga a satisfacción del funcionario electoral que realice la entrega;
-
-f) Los ciudadanos que habiendo sido notificados para recoger su Credencial no lo hagan en el plazo establecido en el inciso d), no formarán parte de las listas nominales del Padrón Electoral; y
-
-g) Las credenciales que no hubiesen sido recogidas serán destruidas por la Dirección Ejecutiva ante la respectiva Comisión de Vigilancia, conservándose las relaciones de los nombres correspondientes a las credenciales destruidas, que se considerarán como no incluidos en las listas nominales del Padrón Electoral.
+6. Las oficinas del Registro Federal de Electores verificarán que los nombres de los ciudadanos que no hayan acudido a obtener su Credencial para Votar con fotografía, no aparezcan en las listas nominales de electores.
 
 ARTICULO 145
 
@@ -2091,7 +2697,9 @@ ARTICULO 145
 
 2. Los listados se formularán por distritos y por secciones electorales.
 
-3. Los listados anteriores se pondrán a disposición de los partidos políticos para su revisión y, en su caso, para que formulen las solicitudes de aclaración que estimen pertinentes.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los listados anteriores se pondrán a disposición de los partidos políticos para su revisión y, en su caso, para que formulen las observaciones que estimen pertinentes..
 
 4. La Dirección Ejecutiva del Registro Federal de Electores proveerá lo necesario para que las listas nominales se pongan en conocimiento de la ciudadanía en cada distrito.
 
@@ -2099,7 +2707,9 @@ ARTICULO 145
 
 ARTICULO 146
 
-1. A fin de actualizar el Catálogo General de Electores y el Padrón Electoral, el Instituto Federal Electoral, a través de la Dirección Ejecutiva del Registro Federal de Electores realizará anualmente, durante los meses de enero y febrero, una campaña intensa convocando y orientando a la ciudadanía a cumplir con las obligaciones a que se refieren los dos párrafos siguientes.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. A fin de actualizar el Catálogo General de Electores y el Padrón Electoral, el Instituto Federal Electoral, a través de la Dirección Ejecutiva del Registro Federal de Electores realizará anualmente, a partir del día 1o. de noviembre y hasta el 15 de enero siguiente, una campaña intensa para convocar y orientar a la ciudadanía a cumplir con las obligaciones a que se refieren los dos párrafos siguientes:
 
 2. Durante el periodo de actualización deberán acudir ante las oficinas de la Dirección Ejecutiva del Registro Federal de Electores, en los lugares que ésta determine, para ser incorporados al Catálogo General de Electores, todos aquellos ciudadanos:
 
@@ -2121,11 +2731,13 @@ d) Suspendidos en sus derechos políticos hubieren sido rehabilitados.
 
 5. Los partidos políticos nacionales y los medios de comunicación podrán coadyuvar con el Instituto en las tareas de orientación ciudadana.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 147
 
-1. Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción en el Padrón Electoral, en periodos distintos a los de actualización a que se refiere el artículo anterior, desde el día siguiente al de la elección, hasta el día 28 de febrero del año de la siguiente elección federal ordinaria.
+1. Los ciudadanos podrán solicitar su incorporación en el Catálogo General de Electores, o en su caso, su inscripción en el Padrón Electoral, en períodos distintos a los de actualización a que se refiere el artículo anterior, desde el día siguiente al de la elección, hasta el día 15 de enero del año de la elección federal ordinaria.
 
-2. Los mexicanos que en el año de la elección cumplan los 18 años entre el 1o. de marzo y el día de los comicios, deberán solicitar su inscripción a más tardar el último día de febrero de ese año.
+2. Los mexicanos que en el año de la elección cumplan los 18 años entre el 16 de enero y el día de los comicios, deberán solicitar su inscripción a más tardar el día 15 del citado mes de enero.
 
 ARTICULO 148
 
@@ -2163,19 +2775,33 @@ ARTICULO 150
 
 1. Es obligación de los ciudadanos inscritos en el Padrón Electoral dar aviso de su cambio de domicilio ante la oficina del Instituto Federal Electoral más cercana a su nuevo domicilio.
 
-2. En los casos en que un ciudadano solicite su alta por cambio de domicilio, deberá exhibir y entregar la Credencial para Votar correspondiente a su domicilio anterior, o aportar los datos de la misma en caso de haberla extraviado o haberle sido destruida en los términos del párrafo 1, inciso g) del artículo 144 de este Código, para que se proceda a cancelar tal inscripción, a darlo de alta en el listado correspondiente a su domicilio actual y expedirle su nueva Credencial para Votar. Las credenciales sustituidas por el procedimiento anterior serán destruidas de inmediato.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. En los casos en que un ciudadano solicite su alta por cambio de domicilio, deberá exhibir y entregar la Credencial para Votar con fotografía correspondiente a su domicilio anterior, o aportar los datos de la misma en caso de haberla extraviado, para que se proceda a cancelar tal inscripción, a darlo de alta en el listado correspondiente a su domicilio actual y expedirle su nueva Credencial para Votar con fotografía. Las credenciales sustituidas por el procedimiento anterior serán destruidas de inmediato.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 151
 
-1. Los ciudadanos que habiendo obtenido oportunamente su Credencial para Votar, no aparezcan incluidos en la lista nominal de electores de la sección correspondiente a su domicilio, así como aquéllos que consideren haber sido incluidos o excluidos indebidamente, podrán solicitar la rectificación ante la oficina del Instituto Federal Electoral responsable de la inscripción.
+1. Podrán solicitar la expedición de Credencial para Votar con fotografía o la rectificación ante la oficina del Instituto Federal Electoral responsable de la inscripción, aquellos ciudadanos que:
 
-2. La solicitud de rectificación a que se refiere el párrafo anterior se presentará durante los veinte días en que se exhiban públicamente las listas nominales de electores.
+a) Habiendo cumplido con los requisitos y trámites correspondientes no hubieren obtenido oportunamente su Credencial para Votar con fotografía;
 
-3. La oficina ante la que se haya solicitado la rectificación contará con un plazo de diez días naturales para resolver.
+b) Habiendo obtenido oportunamente su Credencial para Votar con fotografía, no aparezcan incluidos en la lista nominal de electores de la sección correspondiente a su domicilio; o
 
-4. La resolución a que se refiere el párrafo anterior o la falta de respuesta en tiempo, podrá recurrirse por el interesado ante el Consejo Distrital o Junta Distrital Ejecutiva, según sea el caso, mediante la interposición del recurso de revisión o del recurso de aclaración en los términos del Libro Séptimo de este Código.
+c) Consideren haber sido indebidamente incluidos o excluidos de la lista nominal de electores de la sección correspondiente a su domicilio.
 
-5. La resolución sobre la rectificación será notificada por correo certificado con acuse de recibo o por telegrama al ciudadano interesado.
+2. En los casos a que se refiere el párrafo anterior, la solicitud de expedición o de rectificación se presentará en cualquier tiempo durante los dos años previos al del proceso electoral.
+
+3. En el año de la elección los ciudadanos que se encuentren en el supuesto del inciso a) del párrafo 1 de este artículo, podrán presentar solicitud de expedición de Credencial para Votar con fotografía hasta el día 15 del mes de febrero. En los casos previstos en los incisos b) y c) del párrafo señalado, los ciudadanos podrán presentar solicitud de rectificación a más tardar el día 15 de marzo.
+
+4. En las oficinas del Registro Federal de Electores, existirán a disposición de los ciudadanos los formatos necesarios para la presentación de la solicitud respectiva.
+
+5. La oficina ante la que se haya solicitado la expedición de credencial o la rectificación resolverá sobre la procedencia o improcedencia de la misma dentro de un plazo de veinte días naturales.
+
+6. La resolución que declare improcedente la solicitud de expedición de Credencial o de rectificación o la falta de respuesta en tiempo, serán recurribles ante el Tribunal Federal Electoral. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del Registro Federal de Electores los formatos necesarios para la interposición del recurso respectivo.
+
+7. La resolución recaída a la solicitud de expedición de Credencial o de rectificación será notificada personalmente al ciudadano si éste comparece ante la oficina responsable de la inscripción o, en su caso, por telegrama o correo certificado.
 
 ARTICULO 152
 
@@ -2187,9 +2813,11 @@ ARTICULO 153
 
 1. Las Comisiones de Vigilancia podrán solicitar a la Dirección Ejecutiva del Registro Federal de Electores o a las Juntas Locales y Distritales Ejecutivas, según corresponda, sometan a consideración de la Junta General Ejecutiva el acuerdo para que se aplique en una sección o distrito electoral la técnica censal parcial.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 154
 
-1. Las Credenciales para Votar que se expidan conforme a lo establecido en el presente Capítulo estarán a disposición de los interesados hasta el 31 de marzo del año de la elección.
+1. Las Credenciales para Votar con fotografía que se expidan conforme a lo establecido en el presente Capítulo estarán a disposición de los interesados hasta el 15 de febrero del año de la elección.
 
 ### CAPITULO CUARTO. De las listas nominales de electores y de su revisión
 
@@ -2205,7 +2833,9 @@ ARTICULO 155
 
 ARTICULO 156
 
-1. La Dirección Ejecutiva del Registro Federal de Electores, por conducto de las Juntas Locales Ejecutivas entregará a las Juntas Distritales, las listas nominales de electores para que sean distribuidas, a más tardar el 1o. de abril, a las oficinas municipales correspondientes, a efecto de que sean exhibidas por veinte días naturales.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. La Dirección Ejecutiva del Registro Federal de Electores, por conducto de las Juntas Locales Ejecutivas entregará a las Juntas Distritales las listas nominales de electores, para que sean distribuidas, a más tardar el 15 de febrero, a las oficinas municipales correspondientes, a efecto de que sean exhibidas por veinte días naturales.
 
 2. La exhibición se hará en cada oficina municipal, fijando en un lugar público las listas nominales de electores ordenadas alfabéticamente y por secciones.
 
@@ -2215,33 +2845,55 @@ ARTICULO 156
 
 ARTICULO 157
 
-1. Una vez recibidas y acreditadas las observaciones pertinentes, las oficinas municipales devolverán a las Juntas Distritales Ejecutivas las listas nominales, sin que en ningún caso la entrega pueda exceder del 30 de abril de cada año.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. Las Juntas Distritales Ejecutivas remitirán a la Junta Local correspondiente las listas nominales, a más tardar el 5 de mayo.
+1. Una vez recibidas y acreditadas las observaciones pertinentes, las oficinas municipales devolverán a las Juntas Distritales Ejecutivas las listas nominales, sin que en ningún caso la entrega pueda exceder del 20 de marzo de cada año.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Las Juntas Distritales Ejecutivas remitirán a la Junta Local correspondiente las listas nominales, a más tardar el 24 de marzo.
 
 3. Las observaciones serán introducidas a las listas del Padrón Electoral, haciéndose las modificaciones del caso.
 
 ARTICULO 158
 
-1. Los partidos políticos nacionales tendrán a su disposición, para su revisión, las listas nominales de electores en las oficinas de la Dirección Ejecutiva del Registro Federal de Electores, durante veinte días naturales a partir del 1o. de abril de los dos años anteriores al de la celebración de elecciones.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Los partidos políticos tendrán a su disposición, para su revisión, las listas nominales de electores en las oficinas de la Dirección Ejecutiva del Registro Federal de Electores durante treinta días naturales a partir del 15 de febrero en cada uno de los dos años anteriores al de la celebración de elecciones.
 
 2. Los partidos políticos podrán formular por escrito a la Dirección Ejecutiva del Registro Federal de Electores, sus observaciones sobre los ciudadanos inscritos o excluidos indebidamente de las listas nominales durante el plazo señalado en el párrafo anterior.
 
 3. La Dirección Ejecutiva examinará las observaciones de los partidos políticos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar.
 
-4. De lo anterior se dará cuenta a la Comisión Nacional de Vigilancia a más tardar el 15 de julio.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. De lo anterior informará a la Comisión Nacional de Vigilancia y al Consejo General del Instituto a más tardar el 30 de abril.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. Los partidos políticos podrán impugnar ante la Sala Central del Tribunal Federal Electoral el informe a que se refiere el párrafo anterior. En el recurso que se interponga se deberá acreditar que se hicieron valer en tiempo y forma las observaciones a que se refiere el párrafo 2 de este artículo, señalándose hechos y casos concretos e individualizados, mismos que deben estar comprendidos en las observaciones originalmente formuladas. De no cumplirse con dichos requisitos, independientemente de los demás que señale el Código, el recurso será desechado por notoriamente improcedente. El recurso se interpondrá ante el Consejo General dentro de los tres días siguientes a aquel en que se dé a conocer el informe a los partidos políticos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 159
 
-1. El 1o. de abril del año en que se celebre el proceso electoral ordinario, la Dirección Ejecutiva del Registro Federal de Electores entregará a cada uno de los partidos políticos nacionales copia de las listas nominales de electores, ordenadas alfabéticamente y por secciones correspondientes a cada uno de los distritos electorales.
+1. El 15 de febrero del año en que se celebre el proceso electoral ordinario, la Dirección Ejecutiva del Registro Federal de Electores entregará a cada uno de los partidos políticos copia de las listas nominales de electores, ordenadas alfabéticamente y por secciones correspondientes a cada uno de los distritos electorales, de todos aquellos ciudadanos que hubiesen obtenido su Credencial para Votar con fotografía al día 15 de enero del año de la elección. Las listas nominales de los ciudadanos que hubiesen obtenido su credencial entre el 16 de enero y el 15 de febrero, en los términos de lo dispuesto por el artículo 154 de este Código, serán entregadas a los partidos políticos a más tardar el día último del propio mes de febrero del año de la elección.
 
-2. Los partidos políticos podrán formular observaciones dentro de los veinte días siguientes a la recepción de las listas.
+2. Los partidos políticos podrán formular observaciones a dichas listas, señalando hechos y casos concretos e individualizados, dentro de los treinta días siguientes a la recepción de las mismas.
 
-3. De las observaciones formuladas por los partidos políticos se harán las modificaciones a que hubiere lugar y se dará cuenta a la Comisión Nacional de Vigilancia a más tardar el 15 de julio.
+3. De las observaciones formuladas por los partidos políticos se harán las modificaciones a que hubiere lugar y se informará al Consejo General y a la Comisión Nacional de Vigilancia a más tardar el 30 de abril.
+
+4. Los partidos políticos podrán impugnar ante la Sala Central del Tribunal Federal Electoral el informe a que se refiere el párrafo anterior. La impugnación se sujetará a lo establecido en el párrafo 5 del artículo 158.
+
+5. Si no se impugna el informe o, en su caso, una vez que el Tribunal haya resuelto las impugnaciones, el Consejo General del Instituto sesionará para declarar que el Padrón Electoral y los listados nominales de electores son válidos y definitivos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 160
 
-1. Los partidos políticos contarán en la Comisión Nacional de Vigilancia con terminales de computación que les permitan tener acceso permanente a la información contenida en el Padrón Electoral y en las listas nominales de electores.
+1. Los partidos políticos contarán en la Comisión Nacional de Vigilancia con terminales de computación que les permitan tener acceso a la información contenida en el padrón electoral y en las listas nominales de electores. Igualmente y conforme a las posibilidades técnicas, los partidos políticos tendrán garantía de acceso permanente al contenido de la base de datos, base de imágenes, documentos fuente y movimientos del padrón.
+
+2. De igual manera, la Dirección Ejecutiva del Registro Federal de Electores instalará centros estatales de consulta del Padrón Electoral para su utilización por los representantes de los partidos políticos ante las comisiones locales de vigilancia, y establecerá además, mecanismos de consulta en las oficinas distritales del propio Registro, a los cuales tendrá acceso cualquier ciudadano para verificar si está registrado en el Padrón Electoral e incluido debidamente en la lista nominal de electores que corresponda.
 
 ARTICULO 161
 
@@ -2267,11 +2919,25 @@ c) Reciba renuncias a la nacionalidad.
 
 6. El Director General del Instituto podrá celebrar convenios de cooperación tendientes a que la información a que se refiere este artículo se proporcione puntualmente.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 163
 
-1. La Dirección Ejecutiva del Registro Federal de Electores sólo dará de baja del Padrón Electoral a los ciudadanos que hubiesen avisado su cambio de domicilio mediante solicitud en que conste la firma, huella digital y, en su caso, fotografía. En este supuesto la baja operará exclusivamente por lo que se refiere al registro del domicilio anterior. De igual manera se dará de baja a los ciudadanos que hubieren fallecido, cuando quede acreditado con la documentación de las autoridades competentes; o aquéllos que hubieren sido inhabilitados para el ejercicio de sus derechos políticos por resolución judicial.
+1. Las solicitudes de inscripción realizadas por los ciudadanos que no cumplan con la obligación de acudir a la oficina o módulo del Instituto Federal Electoral correspondiente a su domicilio a obtener su Credencial para Votar con fotografía, a más tardar el día 30 de septiembre del año siguiente a aquel en que solicitaron su inscripción en el Padrón Electoral, serán canceladas.
 
-2. La documentación relativa a las altas o bajas de ciudadanos en el Padrón Electoral quedará bajo la custodia y responsabilidad de la Dirección Ejecutiva del Registro Federal de Electores y sus Vocalías.
+2. En el supuesto a que se refiere el párrafo anterior, la Dirección Ejecutiva del Registro Federal de Electores elaborará relaciones con los nombres de los ciudadanos cuyas solicitudes hubiesen sido canceladas, ordenándolas por sección electoral y alfabéticamente, a fin de que sean entregadas a los representantes de los partidos políticos acreditados ante las Comisiones Distritales, Locales y Nacional de Vigilancia, en lo que corresponde, a más tardar el día 31 de octubre de cada año, para su conocimiento y observaciones.
+
+3. Dichas relaciones serán exhibidas entre el 1o. de noviembre del año anterior al de la elección y hasta el 15 de enero siguiente, en las oficinas o módulos del Instituto Federal Electoral y en los lugares públicos de las secciones electorales que previamente determinen las Comisiones Distritales de Vigilancia, a fin de que surtan efectos de notificación por estrados a los ciudadanos interesados y éstos tengan la posibilidad de solicitar nuevamente su inscripción en el Padrón Electoral durante el plazo para la campaña intensa a que se refiere el párrafo 1 del artículo 146 de este Código o, en su caso, de interponer el recurso previsto en el párrafo 6 del artículo 151 de este propio ordenamiento.
+
+4. Los formatos de las credenciales de los ciudadanos cuya solicitud haya sido cancelada en los términos de los párrafos precedentes, serán destruidos ante las respectivas Comisiones de Vigilancia, a más tardar el día 15 de enero de cada año.
+
+5. En todo caso, el ciudadano cuya solicitud de inscripción en el Padrón Electoral hubiese sido cancelada por omisión en la obtención de su Credencial para Votar con fotografía en los términos de los párrafos anteriores, podrá solicitar nuevamente su inscripción en el Padrón Electoral en los términos y plazos previstos en los artículos 143, 146 y 147 de este Código.
+
+6. Los formatos de las credenciales de los ciudadanos que solicitaron su inscripción al Padrón Electoral o efectuaron alguna solicitud de actualización durante el año anterior al de la elección, y no hubiesen sido recogidos por sus titulares dentro del plazo legalmente establecido para ello, serán resguardados según lo dispuesto por el párrafo 5 del artículo 144 de este Código.
+
+7. Asimismo, la Dirección Ejecutiva del Registro Federal de Electores dará de baja del Padrón Electoral a los ciudadanos que hubiesen avisado su cambio de domicilio mediante solicitud en que conste su firma, huella digital, y en su caso, fotografía. En este supuesto, la baja operará exclusivamente por lo que se refiere al registro del domicilio anterior. De igual manera se dará de baja a los ciudadanos que hubieren fallecido siempre y cuando quede acreditado con la documentación de las autoridades competentes; o aquellas que hubieren sido inhabilitadas para el ejercicio de sus derechos políticos por resolución judicial.
+
+8. La documentación relativa a la cancelación de solicitudes y a las altas o bajas de ciudadanos en el Padrón Electoral quedará bajo la custodia y responsabilidad de la Dirección Ejecutiva del Registro Federal de Electores y sus Vocalías.
 
 ### CAPITULO QUINTO. De la Credencial para Votar
 
@@ -2301,7 +2967,9 @@ b) Espacios necesarios para marcar año y elección de que se trate; y
 
 c) Firma impresa del Director General del Instituto Federal Electoral.
 
-3. A más tardar el día 31 de julio del año en que se celebren las elecciones, los ciudadanos cuya Credencial para Votar se hubiera extraviado o sufrido algún deterioro grave, deberán solicitar su reposición ante la oficina del Registro Federal de Electores correspondiente a su domicilio.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. A más tardar el día 30 de abril del año en que se celebren las elecciones, los ciudadanos cuya Credencial para Votar con fotografía se hubiera extraviado o sufrido algún deterioro grave, deberán solicitar su reposición ante la oficina del Registro Federal de Electores correspondiente a su domicilio.
 
 ### CAPITULO SEXTO. De las Comisiones de Vigilancia
 
@@ -2435,7 +3103,9 @@ ARTICULO 173
 
 ARTICULO 174
 
-1. El proceso electoral ordinario se inicia en el mes de enero del año en que deban realizarse elecciones federales y concluye en el mes de noviembre del mismo año.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. El proceso electoral ordinario se inicia en el mes de noviembre del año previo al de la elección y concluye con la calificación de la elección de Presidente de los Estados Unidos Mexicanos.
 
 2. Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -2443,17 +3113,33 @@ a) Preparación de la elección;
 
 b) Jornada electoral;
 
-c) Resultados de las elecciones; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Calificación de las elecciones.
+c) Resultados y declaraciones de validez de las elecciones; y
 
-3. La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto celebre durante la primera semana del mes de enero del año en que deban realizarse las elecciones federales ordinarias y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-4. La etapa de la jornada electoral se inicia a las 8:00 horas del tercer domingo de agosto y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y la remisión de la documentación y los expedientes electorales a los respectivos Consejos Distritales.
+d) Calificación de la elección de Presidente de los Estados Unidos Mexicanos.
 
-5. La etapa de resultados de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los Consejos Distritales y concluye con la instalación de los respectivos Colegios Electorales.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-6. La etapa de calificación se inicia con la instalación de los Colegios Electorales y concluye cuando éstos declaran, en su caso, la validez de las elecciones.
+3. La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto celebre durante la primera semana del mes de noviembre del año previo al en que deban realizarse las elecciones federales ordinarias y concluye al iniciarse la jornada electoral.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de julio y concluye con la clausura de casilla.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. La etapa de resultados y de declaraciones de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los Consejos Distritales y concluye con los cómputos y declaraciones que realicen los Consejos del Instituto, o las resoluciones que, en su caso, emita en última instancia el Tribunal Federal Electoral.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+6. La etapa de calificación de la elección de Presidente de los Estados Unidos Mexicanos, se inicia al erigirse la Cámara de Diputados en Colegio Electoral y concluye cuando ésta declara la validez de la elección.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+7. Atendiendo al principio de definitividad que rige en los procesos electorales, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, el Director General o el Vocal Ejecutivo de la Junta Local o Distrital del Instituto, según corresponda, podrá difundir su realización y conclusión por los medios que estime pertinentes.
 
 ## TITULO SEGUNDO. De los actos preparatorios de la elección
 
@@ -2463,25 +3149,41 @@ ARTICULO 175
 
 1. Corresponde exclusivamente a los partidos políticos nacionales el derecho de solicitar el registro de candidatos a cargos de elección popular.
 
-2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, así como las de senadores, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, así como las de senadores, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los partidos políticos promoverán, en los términos que determinen sus documentos internos, una mayor participación de las mujeres en la vida política del país, a través de su postulación a cargos de elección popular.
 
 ARTICULO 176
 
 1. Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de las campañas políticas.
 
-2. La plataforma electoral deberá presentarse para su registro ante el Consejo General, durante los últimos diez días del mes de febrero del año de la elección. Del registro se expedirá constancia.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. La plataforma electoral deberá presentarse para su registro ante el Consejo General, dentro de los quince primeros días del mes de enero del año de la elección. Del registro se expedirá constancia.
 
 ARTICULO 177
 
 1. Los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
-a) Para diputados electos por el principio de mayoría relativa, del 15 al 31 de mayo inclusive, por los Consejos Distritales correspondientes;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Para diputados electos por el principio de representación proporcional, del 1o. al 15 de junio inclusive, por el Consejo General;
+a) Para diputados electos por el principio de mayoría relativa, del 1o. al 15 de abril inclusive, por los Consejos Distritales;
 
-c) Para senadores, del 1o. al 15 de mayo inclusive, por los Consejos Locales correspondientes; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Para Presidente de los Estados Unidos Mexicanos, del 1o. al 15 de marzo inclusive, por el Consejo General.
+b) Para diputados electos por el principio de representación proporcional, del 15 al 30 de abril inclusive, por el Consejo General;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Para senadores, del 15 al 30 de marzo inclusive, por los Consejos Locales correspondientes; y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Para Presidente de los Estados Unidos Mexicanos, del 15 al 30 de enero inclusive, por el Consejo General.
 
 2. El Instituto Federal Electoral dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente Capítulo.
 
@@ -2505,7 +3207,13 @@ f) Cargo para el que se les postule.
 
 3. De igual manera el partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicita fueron seleccionados de conformidad con las normas estatutarias del propio partido político.
 
-4. La solicitud de registro de las listas completas de candidaturas a diputados por el principio de representación proporcional para las cinco circunscripciones plurinominales, deberá acompañarse, además de los documentos referidos en los párrafos anteriores, de la constancia de registro de por lo menos 200 candidaturas para diputados por el principio de mayoría relativa.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. La solicitud de cada partido político para el registro de las listas completas de candidaturas a diputados por el principio de representación proporcional para las cinco circunscripciones plurinominales, deberá acompañarse, además de los documentos referidos en los párrafos anteriores, de la constancia de registro de por lo menos 200 candidaturas para diputados por el principio de mayoría relativa.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. Para el registro de candidatos por coalición, deberá acreditarse que se cumplió con lo dispuesto en los artículos 59 al 62 de este Código, de acuerdo con la elección de que se trate.
 
 ARTICULO 179
 
@@ -2515,11 +3223,17 @@ ARTICULO 179
 
 3. Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 177 será desechada de plano y en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
-4. Al día siguiente de que se venzan los plazos a que se refiere el artículo 177, los Consejos General, Locales y Distritales, celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Dentro de los tres días siguientes al en que venzan los plazos a que se refiere el artículo 177, los Consejos General, Locales y Distritales celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan.
 
 5. Los Consejos Locales y Distritales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
 
 6. De igual manera, el Consejo General comunicará de inmediato a los Consejos Locales y Distritales, las determinaciones que haya tomado sobre el registro de las listas de candidatos por el principio de representación proporcional.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+7. Al concluir la sesión a la que se refiere el párrafo 4 de este artículo, el Director General o los Vocales Ejecutivos, Locales o Distritales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas, dando a conocer los nombres del candidato o fórmulas registradas y de aquellos que no cumplieron con los requisitos.
 
 ARTICULO 180
 
@@ -2537,6 +3251,10 @@ b) Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán 
 
 c) En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Sólo se podrán sustituir el o los candidatos registrados por una coalición por causas de fallecimiento o incapacidad total permanente. En estos casos, para la sustitución, se tendrá que acreditar que se cumplió con lo dispuesto en los artículos 59 al 62 de este Código, según corresponda.
+
 ### CAPITULO SEGUNDO. De las Campañas Electorales
 
 ARTICULO 182
@@ -2549,17 +3267,83 @@ ARTICULO 182
 
 4. Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 182
+
+ARTICULO 182-A
+
+1. Los gastos de cada campaña electoral que realicen los partidos políticos, las coaliciones y sus candidatos en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección determinen el Consejo General y las Juntas Ejecutivas correspondientes, en los términos de los artículos 82, 100 y 110 de este Código.
+
+2. Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
+
+a) Gastos de propaganda:
+
+I. Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
+
+b) Gastos operativos de la campaña:
+
+I. Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares; y
+
+c) Gastos de propaganda en prensa, radio y televisión:
+
+I. Comprenden los realizados en cualquiera de estos medios tales como mensajes, anuncios publicitarios y sus similares, tendientes a la obtención del voto.
+
+3. No se considerarán dentro de los topes de campaña los gastos que realicen los partidos por el siguiente concepto:
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+Para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
+
+4. El Consejo General y las Juntas Locales o Distritales, según corresponda, en la determinación de los topes de gastos de campaña, aplicarán las siguientes reglas:
+
+a) Para la elección de Presidente de los Estados Unidos Mexicanos, el Consejo General, previo al inicio de la campaña electoral, fijará el tope máximo de gastos para dicha elección, atendiendo a los siguientes criterios:
+
+I. El valor unitario del voto para diputado fijado para efectos del financiamiento público;
+
+II. Los índices de inflación que señale el Banco de México;
+
+III. El número de ciudadanos inscritos en el Padrón Electoral en todo el país, al 31 de octubre del año anterior al de la elección; y
+
+IV. La duración de la campaña.
+
+b) Para la elección de diputados por el principio de mayoría relativa, además de los elementos señalados en las fracciones I, II y IV del inciso a) anterior, se tomarán en cuenta las bases que fije el Consejo General previamente al inicio de las campañas, conforme a lo siguiente:
+
+I. Se considerarán variables por cada distrito electoral, que serán: área geográfica salarial, densidad poblacional y condiciones geográficas;
+
+II. Se aplicarán tres valores a cada variable, que serán fijados por el Consejo General de acuerdo con las condiciones de cada distrito, tomando en cuenta, respectivamente, las determinaciones de las autoridades competentes conforme a la ley laboral, el número de habitantes por kilómetro cuadrado, la extensión territorial y la facilidad o dificultad de acceso a los centros de población;
+
+III. Los valores de las variables determinados por el Consejo General, serán comunicados a las Juntas Distritales Ejecutivas a efecto de que determinen, de entre estos valores, los aplicables al distrito por cada una de las variables y obtendrán un factor que será el promedio de estos mismos valores; y
+
+IV. El factor obtenido en los términos de la fracción anterior, se aplicará a la cantidad que resulte de multiplicar el valor unitario del voto para diputado por el número de ciudadanos inscritos en el padrón electoral correspondiente al distrito de que se trate al día último de octubre del año previo al de la elección correspondiente al distrito.
+
+c) Para la elección de senadores:
+
+I. En cada entidad federativa habrá un tope diferente atendiendo a sus condiciones y características; y
+
+II. Cada Junta Local sumará la cantidad que se haya fijado como topes de gastos de campaña correspondientes a cada uno de los distritos en que se divida la entidad federativa. Esta cantidad constituirá el tope máximo de gastos de campaña para cada fórmula en la elección de senadores de la entidad de que se trate.
+
+5. El Consejo General determinará el tope de gastos de campaña a que se refiere el inciso a) del párrafo anterior, así como los valores que se señalan en el inciso b) del mismo párrafo, a más tardar el día último de noviembre del año anterior al de la elección.
+
+6. Las Juntas Distritales y Locales determinarán el tope de gastos de campaña, respectivamente, para diputados de mayoría relativa a más tardar el día 15 de enero y para senadores a más tardar el día 30 de enero del año de la elección.
+
 ARTICULO 183
 
 1. Las reuniones públicas realizadas por los partidos políticos y los candidatos registrados se regirán por lo dispuesto en el artículo 9o. de la Constitución y no tendrán más límite que el respeto a los derechos de terceros, en particular los de otros partidos y candidatos, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden público dicte la autoridad administrativa competente.
 
 2. En aquellos casos en los que las autoridades concedan gratuitamente a los partidos políticos o candidatos el uso de locales cerrados de propiedad pública, deberán estarse a lo siguiente:
 
-a) Solicitarlo por escrito, señalando la naturaleza del acto a realizar, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido, y el nombre del ciudadano autorizado por el partido político o el candidato en cuestión que se responsabiliza del buen uso del local y sus instalaciones; y
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
-b) El número de ciudadanos que se estima habrán de concurrir.
+a) Las autoridades federales, estatales y municipales deberán dar un trato equitativo en el uso de los locales públicos a todos los partidos políticos que participan en la elección; y
 
-3. El Presidente del Consejo General podrá solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Los partidos políticos deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de ciudadanos que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido, y el nombre del ciudadano autorizado por el partido político o el candidato en cuestión que se responsabilice del buen uso del local y sus instalaciones.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. El Presidente del Consejo General podrá solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran, así como a los candidatos a la Presidencia de los Estados Unidos Mexicanos, desde el momento en que de acuerdo con los mecanismos internos de su partido, se ostenten con tal carácter.
 
 ARTICULO 184
 
@@ -2595,7 +3379,9 @@ a) Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas s
 
 b) Podrá colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario.
 
-c) Podrá colgarse o fijarse en lugares de uso común que determinen las Juntas Locales y Distritales Ejecutivas del Instituto previo acuerdo con las autoridades correspondientes y conforme a las bases que las propias Juntas fijen durante el mes de febrero;
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+c) Podrá colgarse o fijarse en los lugares de uso común que determinen las Juntas Locales y Distritales Ejecutivas del Instituto, previo acuerdo con las autoridades correspondientes y conforme a las bases que las propias Juntas fijen durante el mes de diciembre del año previo al de la elección;
 
 d) No podrá fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico; y
 
@@ -2607,13 +3393,23 @@ ARTICULO 190
 
 1. Las campañas electorales de los partidos políticos se iniciarán a partir de la fecha de registro de candidaturas para la elección respectiva y concluirán tres días antes de la elección.
 
-2. Durante los tres días anteriores al de la jornada electoral no se permitirán la celebración de reuniones o actos públicos de campaña o de propaganda electorales.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-3. Durante los cinco días anteriores al de la jornada electoral, queda prohibido llevar a cabo o aplicar cualquier tipo de encuesta o sondeo que tenga por objeto conocer las preferencias electorales de los ciudadanos, así como publicar o difundir durante esos días, en cualquier medio de comunicación, los resultados de los que se hayan realizado.
+2. El día de la jornada electoral y durante los tres días anteriores no se permitirá la celebración de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, que se realice desde el inicio de las campañas hasta el cierre oficial de las casillas el día de la elección, deberá entregar copia del estudio completo al Director General del Instituto, si la encuesta o sondeo se difunde por cualquier medio. En todo caso, la difusión de los resultados de cualquier encuesta o sondeo de opinión estará sujeta a lo dispuesto en el párrafo siguiente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Durante los ocho días previos a la elección y hasta la hora del cierre oficial de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren, a las penas aplicables a aquellos que incurran en alguno de los tipos previstos y sancionados en el artículo 406 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 191
 
-1. Cualquier infracción a las disposiciones contenidas en el presente Capítulo será sancionada en los términos del artículo 342 de este Código.
+1. Cualquier infracción a las disposiciones contenidas en el presente capítulo será sancionada en los términos de este Código.
 
 ### CAPITULO TERCERO. De los procedimientos para la integración y ubicación de las mesas directivas de casilla
 
@@ -2639,17 +3435,27 @@ ARTICULO 193
 
 1. El procedimiento para integrar las mesas directivas de casilla será el siguiente:
 
-a) En el mes de abril del año en que deban celebrarse las elecciones, las Juntas Distritales Ejecutivas procederán a insacular de las listas nominales de electores a un 20% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Del 16 de febrero al 15 de marzo del año en que deban celebrarse las elecciones, las Juntas Distritales Ejecutivas procederán a insacular, de las listas nominales de electores formuladas con corte al 15 de enero del mismo año, a un 15% de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, las Juntas podrán apoyarse en los centros de cómputo del Instituto. En este último supuesto, podrán estar presentes en el procedimiento de insaculación, los miembros del Consejo Local y los de la Comisión Local de Vigilancia del Registro Federal de Electores de la entidad de que se trate, según la programación que previamente se determine;
 
 b) Las Juntas harán una evaluación objetiva para seleccionar de entre dichos ciudadanos a los que resulten aptos;
 
-c) A los ciudadanos seleccionados se les impartirá un curso de capacitación durante el mes de mayo del año de la elección;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Las Juntas Distritales harán durante el mes de junio siguiente una nueva evaluación objetiva con base en los resultados del curso de capacitación;
+c) A los ciudadanos seleccionados se les impartirá un curso de capacitación entre el 16 de marzo y el 15 de abril del año de la elección;
 
-e) Las Juntas Distritales integrarán las mesas directivas con los ciudadanos idóneos para el desempeño de las funciones en la casilla, a más tardar la última semana del mismo mes de junio;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-f) Realizada la integración de las mesas directivas, las Juntas Distritales ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada distrito, a más tardar el día 1o. de julio del año en que se celebre la elección, lo que comunicarán a los Consejos Distritales respectivos; y
+d) Las Juntas Distritales harán entre el 16 de abril y el 15 de mayo siguiente una relación de aquellos que, habiendo acreditado la capacitación correspondiente, no estén impedidos física o legalmente para el cargo en los términos de este Código. De esta relación, los Consejos Distritales insacularán a los ciudadanos que integrarán las mesas directivas de casilla;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Las Juntas Distritales integrarán las mesas directivas con los ciudadanos seleccionados, conforme al procedimiento descrito, y determinarán según su idoneidad las funciones a desempeñar en la casilla, a más tardar el 15 de mayo;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Realizada la integración de las mesas directivas, las Juntas Distritales ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada distrito, a más tardar el día 16 de mayo del año en que se celebre la elección, lo que comunicarán a los Consejos Distritales respectivos; y
 
 g) Los Consejos Distritales notificarán personalmente a los integrantes de la casilla su respectivo nombramiento y los citarán a rendir la protesta exigida por el artículo 125 de este Código.
 
@@ -2661,7 +3467,9 @@ ARTICULO 194
 
 a) Fácil y libre acceso para los electores;
 
-b) Propicien la instalación de mamparas que aseguren el secreto en la emisión del voto;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Propicien la instalación de canceles o elementos modulares que garanticen el secreto en la emisión del voto;
 
 c) No ser casas habitadas por servidores públicos de confianza, federales, estatales o municipales, ni por candidatos registrados en la elección de que se trate;
 
@@ -2675,15 +3483,27 @@ ARTICULO 195
 
 1. El procedimiento para determinar la ubicación de las casillas será el siguiente:
 
-a) Durante el mes de abril del año de la elección las Juntas Distritales Ejecutivas recorrerán las secciones de los correspondientes distritos con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Durante los primeros diez días de mayo, las Juntas Distritales Ejecutivas presentarán a los Consejos Distritales correspondientes una lista proponiendo los lugares en que habrán de ubicarse las casillas;
+a) Entre el 15 de febrero y el 15 de marzo del año de la elección las Juntas Distritales Ejecutivas recorrerán las secciones de los correspondientes distritos con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Entre el 10 y el 20 de marzo, las Juntas Distritales Ejecutivas presentarán a los Consejos Distritales correspondientes una lista proponiendo los lugares en que habrán de ubicarse las casillas;
 
 c) Recibidas las listas, los Consejos examinarán que los lugares propuestos cumplan con los requisitos fijados por el artículo anterior y, en su caso, harán los cambios necesarios;
 
-d) Los Consejos Distritales, en sesión que celebren a más tardar durante la última semana de junio, aprobarán la lista en que se contenga la ubicación de las casillas; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) El Presidente del Consejo Distrital ordenará la publicación de la lista de ubicación de casillas a más tardar el 1o. de julio.
+d) Los Consejos Distritales, en sesión que celebren a más tardar durante la segunda semana de mayo, aprobarán la lista en la que se contenga la ubicación de las casillas;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) El Presidente del Consejo Distrital ordenará la publicación de la lista de ubicación de casillas aprobadas, a más tardar el 15 de mayo del año de la elección; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) En su caso, el Presidente del Consejo Distrital ordenará una segunda publicación de la lista, con los ajustes correspondientes, entre el día 15 y el 25 de junio del año de la elección.
 
 ARTICULO 196
 
@@ -2751,13 +3571,19 @@ ARTICULO 201
 
 1. El registro de los nombramientos de los representantes ante las mesas directivas de casilla y de los representantes generales se hará ante el Consejo Distrital correspondiente, y se sujetará a las reglas siguientes:
 
-a) En la fecha de la publicación de la lista de casillas, el Presidente del Consejo Distrital proporcionará a los representantes de los partidos políticos acreditados ante el mismo, las formas por duplicado de los nombramientos en el número que corresponda a las casillas que se instalarán en el distrito electoral;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Los representantes de los partidos políticos deberán devolver al Presidente del Consejo Distrital, a más tardar diez días antes de la elección, los nombramientos por duplicado, con los datos de los representantes y, en su caso, la identificación de la casilla ante la que se les pretende acreditar; y
+a) Dentro de los diez días siguientes al de la publicación de las listas de casillas, los partidos políticos deberán registrar en su propia documentación y ante el Consejo Distrital correspondiente, a sus representantes generales y de casilla. La documentación de que se trata deberá reunir los requisitos que establezca el Consejo General;
 
-c) El Presidente del Consejo Distrital conservará un ejemplar de cada uno de los nombramientos y entregará a los representantes de los partidos políticos acreditados ante el mismo, a más tardar ocho días antes de la elección, los nombramientos debidamente registrados, sellados y firmados por el Presidente y el Secretario del Consejo Distrital.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. El Presidente del Consejo Distrital repondrá a los representantes partidistas, las formas de nombramientos de representantes generales o ante mesas directivas de casilla que hubiesen quedado inutilizadas, siempre que sea dentro del plazo señalado en el inciso b) del párrafo anterior de este artículo.
+b) Los Consejos Distritales devolverán a los partidos políticos el original de los nombramientos respectivos, debidamente sellado y firmado por el Presidente y el Secretario del mismo, conservando un ejemplar; y
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Los partidos políticos podrán sustituir a sus representantes hasta con diez días de anterioridad a la fecha de la elección, devolviendo con el nuevo nombramiento, el original del anterior.
+
+2. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ARTICULO 202
 
@@ -2813,7 +3639,9 @@ ARTICULO 204
 
 ARTICULO 205
 
-1. Para la emisión del voto se imprimirán las boletas electorales conforme al modelo que apruebe el Consejo General del Instituto.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Para la emisión del voto el Consejo General del Instituto, tomando en cuenta las medidas de certeza que estime pertinentes, aprobará el modelo de boleta electoral que se utilizará para la elección.
 
 2. Las boletas para la elección de Presidente de los Estados Unidos Mexicanos, senadores y diputados, contendrán:
 
@@ -2827,7 +3655,9 @@ d) Apellido paterno, apellido materno y nombre completo del candidato o candidat
 
 e) En el caso de la elección de diputados por mayoría relativa y representación proporcional, un solo círculo por cada partido político para comprender la fórmula de candidatos y la lista regional;
 
-f) En el caso de la elección de senador, un solo círculo para la fórmula de propietario y suplente postulada por un partido político;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) En el caso de la elección de senadores, un solo círculo para la lista de las tres fórmulas de propietarios y suplentes postuladas por cada partido político;
 
 g) En el caso de la elección de Presidente de los Estados Unidos Mexicanos, un solo círculo para cada candidato;
 
@@ -2877,15 +3707,27 @@ d) Las boletas para cada elección, en número igual al de los electores que fig
 
 e) Las urnas para recibir la votación, una por cada elección de que se trate;
 
-f) La tinta indeleble;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) El líquido indeleble;
 
 g) La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
 
 h) Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla; e
 
-i) Las mamparas que garanticen el secreto del voto.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+i) Los canceles o elementos modulares que garanticen que el elector pueda emitir su voto en secreto.
 
 2. A los Presidentes de mesas directivas especiales les será entregada la documentación y materiales a que se refiere el párrafo anterior, con excepción de la lista nominal de electores, en lugar de la cual recibirán las formas especiales para anotar los datos de los electores, que estando transitoriamente fuera de su sección, voten en la casilla especial. El número de boletas que reciban no será superior a 1,500.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. El Consejo General encargará a una institución académica o técnica de reconocido prestigio la certificación de las características y calidad del líquido indeleble que ha de ser usado el día de la jornada electoral. El líquido seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. La entrega y recepción del material a que se refieren los párrafos 1 y 2 anteriores se hará con la participación de los integrantes de los Consejos Distritales que decidan asistir.
 
 ARTICULO 209
 
@@ -2905,27 +3747,39 @@ ARTICULO 211
 
 ### CAPITULO PRIMERO. De la instalación y apertura de casillas
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 212
 
-1. El tercer domingo de agosto del año de la elección ordinaria, a las 8:00 horas, los ciudadanos Presidente, Secretario y Escrutadores de las mesas directivas de las casillas nombrados como propietarios procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurran.
+1. Durante el día de la elección se levantará el acta de la jornada electoral, que contendrá los datos comunes a todas las elecciones y las actas relativas al escrutinio y cómputo de cada una de las elecciones.
 
-2. A solicitud de un partido político, las boletas electorales podrán ser rubricadas o selladas por uno de los representantes partidistas ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta justificada de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos. Acto continuo se levantará el acta de instalación de la casilla.
+2. El primer domingo de julio del año de la elección ordinaria, a las 8:00 horas, los ciudadanos Presidente, Secretario y Escrutadores de las mesas directivas de las casillas nombrados como propietarios procederán a la instalación de la casilla en presencia de los representantes de partidos políticos que concurran.
 
-3. En el acta se hará constar:
+3. A solicitud de un partido político, las boletas electorales podrán ser rubricadas o selladas por uno de los representantes partidistas ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos. Acto continuo, se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose el apartado correspondiente a la instalación de la casilla.
+
+4. El acta de la jornada electoral constará de los siguientes apartados:
+
+a) El de instalación; y
+
+b) El de cierre de votación.
+
+5. En el apartado correspondiente a la instalación, se hará constar:
 
 a) El lugar, la fecha y la hora en que se inicia el acto de instalación;
 
-b) El nombre de las personas que actúan como funcionarios de la casilla;
+b) El nombre de las personas que actúan como funcionarios de casilla;
 
 c) El número de boletas recibidas para cada elección;
 
-d) Que las urnas se armaron o abrieron en presencia de los funcionarios, representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes de los partidos políticos; y
+d) Que las urnas se armaron o abrieron en presencia de los funcionarios, representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes de los partidos políticos;
 
-e) En su caso, una breve relación de los incidentes suscitados durante la instalación.
+e) Una relación de los incidentes suscitados, si los hubiere; y
 
-4. En ningún caso se podrá instalar casillas antes de las 8:00 horas.
+f) En su caso, la causa por la que se cambió de ubicación la casilla.
 
-5. Los miembros de la mesa directiva de la casilla no podrán retirarse sino hasta que ésta sea clausurada.
+6. En ningún caso se podrán instalar casillas antes de las 8:00 horas.
+
+7. Los miembros de la mesa directiva de la casilla no podrán retirarse sino hasta que ésta sea clausurada.
 
 ARTICULO 213
 
@@ -2935,9 +3789,13 @@ a) Si a las 8:15 horas no se presentara alguno o algunos de los funcionarios pro
 
 b) Si a las 8:30 horas no está integrada la mesa directiva conforme al inciso anterior, pero estuviera el Presidente o el suplente, cualquiera de los dos designará a los funcionarios necesarios para suplir a los ausentes y procederá a su instalación;
 
-c) En ausencia del Presidente y de su suplente, el Consejo Distrital tomará las medidas necesarias para la instalación de la casilla; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-d) Cuando por razones de distancia o dificultad en las comunicaciones no sea posible la intervención oportuna del Consejo Distrital, los representantes de los partidos políticos ante las casillas designarán, de común acuerdo, a los funcionarios necesarios para integrar la mesa directiva.
+c) En ausencia del Presidente y de su suplente, a las 8:45 horas, el Consejo Distrital tomará las medidas necesarias para la instalación de la casilla y designará al personal del Instituto Federal Electoral encargado de ejecutarlas y cerciorarse de su instalación; y
+
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+d) Cuando por razones de distancia o de dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Instituto Federal Electoral designado, a las 11:00 horas, los representantes de los partidos políticos ante las casillas designarán, por mayoría, a los funcionarios necesarios para integrar la mesa directiva de casilla de entre los electores de la sección electoral presentes.
 
 2. En el supuesto previsto en el inciso d) del párrafo anterior, se requerirá:
 
@@ -2947,9 +3805,11 @@ b) En ausencia del juez o notario público, bastará que los representantes expr
 
 3. Los nombramientos que se hagan conforme a los incisos b), c) y d) del párrafo 1 de este artículo, deberán recaer en electores que se encuentren en la casilla para emitir su voto; en ningún caso podrán recaer los nombramientos en los representantes de los partidos políticos.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 214
 
-1. De la instalación de la casilla se levantará acta, de acuerdo al modelo aprobado por el Consejo General, la que deberá ser firmada, sin excepción, por todos los funcionarios y representantes. En el acta se harán constar las incidencias ocurridas durante la instalación.
+1. Los funcionarios y representantes que actuaron en la casilla, deberán, sin excepción, firmar las actas.
 
 ARTICULO 215
 
@@ -2967,13 +3827,15 @@ e) El Consejo Distrital así lo disponga por causa de fuerza mayor o caso fortui
 
 2. Para los casos señalados en el párrafo anterior la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
-3. En el acta de instalación se anotará la causa por la que se cambió de ubicación la casilla.
+3. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ### CAPITULO SEGUNDO. De la votación
 
 ARTICULO 216
 
-1. Una vez formulada y firmada, el acta de instalación, el Presidente de la mesa anunciará el inicio de la votación.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Una vez llenada y firmada el acta de la jornada electoral en el apartado correspondiente a la instalación, el Presidente de la mesa anunciará el inicio de la votación.
 
 2. Iniciada la votación no podrá suspenderse sino por causa de fuerza mayor. En este caso, corresponde al Presidente dar aviso de inmediato al Consejo Distrital a través de un escrito en que se de cuenta de la causa de suspensión, la hora en que ocurrió y la indicación de los votantes que al momento habían ejercido su derecho de voto.
 
@@ -2983,11 +3845,13 @@ ARTICULO 216
 
 ARTICULO 217
 
-1. Los electores votarán en el orden en que se presenten ante la mesa directiva de la casilla, debiendo cumplir los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-a) Exhibir su Credencial para Votar; y
+1. Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla, debiendo exhibir su Credencial para Votar con fotografía.
 
-b) Identificarse por alguno de los siguientes medios:
+a) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+b) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 I.- El documento que acredite la ciudadanía que se expida en los términos del artículo 36 de la Constitución; o
 
@@ -2999,7 +3863,7 @@ IV.- Cotejo de la firma que conste en su Credencial para Votar, con la que escri
 
 V.- Por el conocimiento personal que de él tengan los miembros de la mesa directiva.
 
-2. En ningún caso podrá admitirse como identificación del elector credencial o documento expedido por algún partido político.
+2. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 3. Los Presidentes de casilla permitirán emitir su voto a aquellos ciudadanos que estando en la lista nominal de electores correspondientes a su domicilio, su Credencial para Votar contenga errores de seccionamiento.
 
@@ -3011,9 +3875,9 @@ V.- Por el conocimiento personal que de él tengan los miembros de la mesa direc
 
 ARTICULO 218
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-1. Una vez comprobado que el elector aparece inscrito en la lista nominal y que se ha identificado en los términos señalados en el artículo anterior, el Presidente le entregará las boletas de las elecciones para que libremente se dirija a la mampara de votación en el que en secreto, marque sus boletas en el círculo correspondiente al partido político por el que sufraga, o anote el nombre del candidato no registrado por el que desea emitir su voto.
+1. Una vez comprobado que el elector aparece en las listas nominales y que haya exhibido su Credencial para Votar con fotografía, el Presidente le entregará las boletas de las elecciones para que libremente y en secreto marque sus boletas en el círculo o cuadro correspondiente al partido político por el que sufraga, o anote el nombre del candidato no registrado por el que desea emitir su voto.
 
 2. Aquellos electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas de voto, podrán hacerse asistir por una persona de su confianza que les acompañe.
 
@@ -3021,9 +3885,13 @@ ARTICULO 218
 
 4. El Secretario de la casilla anotará la palabra "votó" en la lista nominal correspondiente y procederá a:
 
-a) Perforar la Credencial para Votar del elector que ha ejercido su derecho de voto;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Impregnar con tinta indeleble el dedo pulgar derecho del elector; y
+a) Marcar la Credencial para Votar con fotografía del elector que ha ejercido su derecho de voto;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Impregnar con líquido indeleble el dedo pulgar derecho del elector; y
 
 c) Devolver al elector su Credencial para Votar.
 
@@ -3107,19 +3975,25 @@ ARTICULO 225
 
 1. El Presidente declarará cerrada la votación al cumplirse con los extremos previstos en el artículo anterior.
 
-2. Acto seguido, el Secretario levantará el acta de cierre de votación de acuerdo con el modelo aprobado por el Consejo General y la pondrá a firma de los demás integrantes de la mesa directiva y los representantes de los partidos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-3. En todo caso el acta contendrá:
+2. Acto seguido, el secretario llenará el apartado correspondiente al cierre de votación del acta de la jornada electoral, el cual deberá ser firmado por los funcionarios y representantes.
 
-a) Horas de inicio y cierre de la votación; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Incidentes registrados durante la votación.
+3. En todo caso, el apartado correspondiente al cierre de votación contendrá:
+
+a) Hora de cierre de la votación; y
+
+b) Causa por la que se cerró antes o después de las 18:00 horas.
 
 ### CAPITULO TERCERO. Del escrutinio y cómputo en la casilla
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 226
 
-1. Una vez cerrada la votación y levantada el acta respectiva, los integrantes de la mesa directiva procederán al escrutinio y cómputo de los votos sufragados en la casilla.
+1. Una vez cerrada la votación y llenado y firmado el apartado correspondiente del acta de la jornada electoral, los integrantes de la mesa directiva procederán al escrutinio y cómputo de los votos sufragados en la casilla.
 
 ARTICULO 227
 
@@ -3132,6 +4006,14 @@ b) El número de votos emitidos en favor de cada uno de los partidos políticos 
 c) El número de votos anulados por la mesa directiva de la casilla; y
 
 d) El número de boletas sobrantes de cada elección.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Se entiende por voto nulo aquel expresado por un elector en una boleta que depositó en la urna, pero que no marcó un solo círculo o cuadro en el que se contenga el emblema de un partido político o coalición.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Se entiende por boletas sobrantes aquellas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
 
 ARTICULO 228
 
@@ -3147,7 +4029,9 @@ ARTICULO 229
 
 1. El escrutinio y cómputo de cada elección se realizará conforme a las reglas siguientes:
 
-a) El Secretario de la mesa directiva de casilla contará las boletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta y anotará el número de ellas que resulte, en el acta final de escrutinio y cómputo;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) El Secretario de la mesa directiva de casilla contará las boletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta, las guardará en un sobre especial el cual quedará cerrado y anotará en el exterior del mismo el número de boletas que se contienen en él;
 
 b) El primer escrutador contará el número de ciudadanos que aparezca que votaron conforme a la lista nominal de electores de la sección;
 
@@ -3167,7 +4051,9 @@ ARTICULO 230
 
 1. Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
 
-a) Se contará un voto válido por cada círculo o cuadro marcado por el elector, en el que se contenga el emblema del partido político o el de la coalición;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Se contará un voto válido por la marca que haga el elector en un solo círculo o en el cuadro en el que se contenga el emblema de un partido político o coalición;
 
 b) Se contará como nulo cualquier voto emitido en forma distinta a la señalada; y
 
@@ -3179,7 +4065,9 @@ ARTICULO 231
 
 ARTICULO 232
 
-1. El acta final de escrutinio y cómputo deberá contener por lo menos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Se levantará un acta de escrutinio y cómputo para cada elección. Cada acta contendrá, por lo menos:
 
 a) El número de votos emitidos a favor de cada partido político o candidato;
 
@@ -3187,15 +4075,23 @@ b) El número total de las boletas sobrantes que fueron inutilizadas;
 
 c) El número de votos nulos;
 
-d) La relación sucinta de los incidentes ocurridos durante el escrutinio y cómputo; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Una relación de los incidentes suscitados, si los hubiere; y
 
 e) La relación de escritos de protesta presentados por los representantes de los partidos políticos al término del escrutinio y cómputo.
 
 2. En todo caso se asentarán los datos anteriores en las formas aprobadas por el Consejo General del Instituto Federal Electoral.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En ningún caso se sumarán a los votos nulos las boletas sobrantes que fueron inutilizadas.
+
 ARTICULO 233
 
-1. Concluido el escrutinio y cómputo de cada una de las votaciones se levantará el acta final correspondiente, la que firmarán, sin hacer excepción, todos los funcionarios y representantes de los partidos políticos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Concluido el escrutinio y el cómputo de todas las votaciones se levantarán las actas correspondientes de cada elección, las que deberán firmar, sin excepción, todos los funcionarios y los representantes de los partidos políticos que actuaron en la casilla.
 
 2. Los representantes de los partidos políticos ante las casillas, tendrán derecho a firmar el acta bajo protesta, señalando los motivos de la misma.
 
@@ -3203,15 +4099,19 @@ ARTICULO 234
 
 1. Al término del escrutinio y cómputo de cada una de las elecciones, se formará un expediente de casilla con la documentación siguiente:
 
-a) Un ejemplar del acta de instalación;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Un ejemplar del acta de cierre de votación;
+a) Un ejemplar del acta de la jornada electoral;
+
+b) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 c) Un ejemplar del acta final de escrutinio y cómputo; y
 
 d) Los escritos de protesta que se hubieren recibido.
 
-2. Se remitirán también, en sobres por separado, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los votos nulos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Se remitirán también, en sobres por separado, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los votos nulos para cada elección.
 
 3. La lista nominal de electores se remitirá en sobre por separado.
 
@@ -3233,15 +4133,11 @@ ARTICULO 236
 
 ARTICULO 237
 
-1. Concluidas por la mesa directiva las operaciones establecidas en los artículos anteriores, el Secretario levantará un acta que deberán firmar los funcionarios de la mesa y los representantes de los partidos políticos que desearan hacerlo.
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
-2. En el acta se asentarán:
+1. Concluidas por los funcionarios de la mesa directiva de casilla las operaciones establecidas en los artículos anteriores, el Secretario levantará constancia de la hora de clausura de la casilla y el nombre de los funcionarios y representantes que harán la entrega del paquete que contenga los expedientes. La constancia será firmada por los funcionarios de la casilla y los representantes de los partidos que desearen hacerlo.
 
-a) Los nombres de los funcionarios de casilla que harán la entrega al Consejo Distrital respectivo del paquete que contiene los expedientes de las elecciones;
-
-b) Los representantes de los partidos políticos que, en su caso, los acompañarán; y
-
-c) La hora de clausura de la casilla.
+2. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ARTICULO 238
 
@@ -3255,7 +4151,9 @@ c) Hasta 24 horas cuando se trate de casillas rurales.
 
 2. Los Consejos Distritales, previamente al día de la elección, podrán determinar la ampliación de los plazos anteriores para aquellas casillas que lo justifiquen.
 
-3. Los Consejos Distritales adoptarán, previamente al día de la elección, las medidas necesarias para que los paquetes con los expedientes de las elecciones sean entregados dentro de los plazos establecidos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los Consejos Distritales adoptarán previamente al día de la elección, las medidas necesarias para que los paquetes con los expedientes de las elecciones sean entregados dentro de los plazos establecidos y para que puedan ser recibidos en forma simultánea.
 
 4. Los Consejos Distritales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesario en los términos de este Código. Lo anterior se realizará bajo la vigilancia de los partidos políticos que así desearen hacerlo.
 
@@ -3301,9 +4199,13 @@ ARTICULO 242
 
 1. La recepción, depósito y salvaguarda de los paquetes en que se contengan los expedientes de casilla por parte de los Consejos Distritales, se hará conforme al procedimiento siguiente:
 
-a) Se recibirán en el orden en que sean entregados por los Presidentes o integrantes de las mesas directivas de casilla con los representantes de los partidos políticos que los hubieren acompañado;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) El Presidente del Consejo Distrital extenderá el recibo señalando la hora en que fueron entregados;
+a) Se recibirán en el orden en que sean entregados por las personas facultadas para ello;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) El Presidente o funcionario autorizado del Consejo Distrital extenderá el recibo señalando la hora en que fueron entregados;
 
 c) El Presidente del Consejo Distrital dispondrá su depósito, en orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del Consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo distrital; y
 
@@ -3317,17 +4219,29 @@ ARTICULO 243
 
 1. Los Consejos Distritales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales, conforme a las siguientes reglas:
 
-a) El Presidente del Consejo Distrital recibirá las actas de escrutinio y cómputo, y de inmediato dará lectura en voz alta al resultado de la votación que aparezca en ellas, procediendo a ordenar la suma correspondiente para informar de inmediato a la Dirección General del Instituto;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) El Secretario anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y
+a) El Consejo Distrital autorizará al personal necesario para la recepción continua y simultánea de los paquetes electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
-c) Los representantes de los partidos políticos acreditados ante el Consejo, contarán con las formas adecuadas para anotar en ellos los resultados de la votación en las casillas.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Los funcionarios electorales designados, recibirán las actas de escrutinio y cómputo, y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar inmediatamente a la Dirección General del Instituto;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) El Secretario, o el funcionario autorizado para ello, anotará esos resultados en el lugar que les corresponda en la forma destinada para ello, conforme al orden numérico de las casillas; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
 
 ARTICULO 244
 
 1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 238 de este Código, el Presidente deberá fijar en el exterior del local del Consejo Distrital, los resultados preliminares de las elecciones en el Distrito.
 
-### CAPITULO TERCERO. De los cómputos distritales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO TERCERO. De los Cómputos Distritales y de la Declaración de Validez de la Elección de Diputados de Mayoría Relativa
 
 ARTICULO 245
 
@@ -3335,15 +4249,27 @@ ARTICULO 245
 
 ARTICULO 246
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 1. Los Consejos Distritales celebrarán sesión a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral, para hacer el cómputo de cada una de las elecciones, en el orden siguiente:
 
-a) El de la votación para diputados;
+a) El de la votación para Presidente de los Estados Unidos Mexicanos;
 
-b) El de la votación para senador; y
+b) El de la votación para diputados; y
 
-c) El de la votación para Presidente de los Estados Unidos Mexicanos.
+c) El de la votación para senadores.
 
-2. Cada uno de los cómputos a que se refiere el párrafo anterior se realizarán ininterrumpidamente hasta su conclusión.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Cada uno de los cómputos a los que se refiere el párrafo anterior se realizará sucesiva e ininterrumpidamente hasta su conclusión.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los Consejos Distritales, en sesión previa a la jornada electoral, podrán acordar que los miembros del Servicio Profesional Electoral puedan sustituirse o alternarse entre sí en las sesiones o que puedan ser sustituidos por otros miembros del Servicio Profesional Electoral de los que apoyen a la Junta Distrital respectiva y asimismo, que los consejeros ciudadanos y representantes de partidos políticos acrediten en sus ausencias a sus suplentes para que participen con voz y voto, de manera que se pueda sesionar permanentemente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Los Consejos Distritales, deberán contar con los elementos humanos, materiales, técnicos y financieros, necesarios para la realización de los cómputos en forma permanente.
 
 ARTICULO 247
 
@@ -3351,31 +4277,57 @@ ARTICULO 247
 
 a) Se abrirán los paquetes que contengan los expedientes de la elección que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado del acta de escrutinio y cómputo contenida en el expediente de casilla con los resultados que de la misma obre en poder del Presidente del Consejo Distrital. Si los resultados de ambas actas coinciden, se asentará en las formas establecidas para ello;
 
-b) Si los resultados de las actas no coinciden, o no existe acta final de escrutinio y cómputo en el expediente de la casilla ni obrase ésta en poder del Presidente del Consejo, se procederá a abrir el sobre en que se contengan las boletas para su cómputo, levantándose un acta individual de la casilla. Los resultados se asentarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-c) A continuación se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en los incisos anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva;
+b) Si los resultados de las actas no coinciden, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla ni obrare en poder del Presidente del Consejo, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente. Los resultados se anotarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se hará constar en dicha acta las objeciones que hubiese manifestado cualquiera de los representantes ante el Consejo, quedando a salvo sus derechos para impugnar ante el Tribunal Federal Electoral el cómputo de que se trate. En ningún caso se podrá interrumpir u obstaculizar la realización de los cómputos;
 
-d) La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirá el cómputo distrital de la elección de diputados de mayoría que se asentará en el acta correspondiente;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) Acto seguido, se abrirán los paquetes en que se contengan los expedientes de las casillas especiales, para extraer el de la elección de diputados y se procederá en los términos de los incisos a), b) y c) de este artículo;
+c) Cuando existan errores o alteraciones evidentes en las actas, el Consejo Distrital podrá acordar realizar nuevamente el escrutinio y cómputo en los términos señalados en el inciso anterior;
 
-f) El cómputo distrital de la elección de diputados por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas según los dos incisos anteriores, y se asentará en el acta correspondiente a la elección de representación proporcional; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-g) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren durante la misma.
+d) A continuación se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en los incisos anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirá el cómputo distrital de la elección de diputados de mayoría que se asentará en el acta correspondiente;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+f) Acto seguido, se abrirán los paquetes en que se contengan los expedientes de las casillas especiales, para extraer el de la elección de diputados y se procederá en los términos de los incisos a) al d) de este artículo;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+g) El cómputo distrital de la elección de diputados por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas según los dos incisos anteriores, y se asentará en el acta correspondiente a la elección de representación proporcional;
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+h) El Consejo Distrital verificará el cumplimiento de los requisitos formales de la elección y asimismo, que los candidatos de la fórmula que haya obtenido la mayoría de votos cumplan con los requisitos de elegibilidad previstos en el artículo 7 de este Código; e
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+i) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma y la declaración de validez de la elección y de elegibilidad de los candidatos de la fórmula que hubiese obtenido la mayoría de los votos.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 248
 
-1. Concluido el cómputo para la elección de diputados, el Presidente del Consejo Distrital expedirá la constancia de mayoría a la fórmula de candidatos que haya obtenido el mayor número de votos.
+1. Concluido el cómputo y emitida la declaración de validez para la elección de diputados, el Presidente del Consejo Distrital expedirá la Constancia de Mayoría y Validez a quien hubiese obtenido el triunfo, salvo el caso de que los integrantes de la fórmula, fueren inelegibles.
 
 ARTICULO 249
 
 1. El cómputo distrital de la votación para senador se sujetará al procedimiento siguiente:
 
-a) Se harán las operaciones señaladas en los incisos a), b) y c) del artículo 247 de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Se harán las operaciones señaladas en los incisos a) al d) del artículo 247 de este Código;
 
 b) Acto seguido, se procederá a extraer los expedientes de las casillas especiales relativos a la elección de senador y se realizarán las operaciones referidas en el inciso anterior;
 
-c) El cómputo distrital de la elección de senador será el resultado de sumar las cifras obtenidas según los dos incisos anteriores y se asentará en el acta correspondiente a esta elección; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) El cómputo distrital de la elección de senadores será el resultado de sumar las cifras obtenidas según los dos incisos anteriores y se asentará en el acta correspondiente a esta elección; y
 
 d) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren durante la misma.
 
@@ -3383,7 +4335,9 @@ ARTICULO 250
 
 1. El cómputo distrital de la votación para Presidente de los Estados Unidos Mexicanos se sujetará al procedimiento siguiente:
 
-a) Se harán las operaciones señaladas en los incisos a), b) y c) del artículo 247 de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Se harán las operaciones señaladas en los incisos a) al d) del artículo 247 de este Código;
 
 b) Acto seguido, se procederá a extraer los expedientes de las casillas especiales relativos a la elección de Presidente y se realizarán las operaciones referidas en el inciso anterior;
 
@@ -3403,7 +4357,9 @@ a) Integrar el expediente del cómputo distrital de la elección de diputados de
 
 b) Integrar el expediente del cómputo distrital de la elección de diputados por el principio de representación proporcional con una copia certificada de las actas de las casillas, el original del acta del cómputo distrital de representación proporcional, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral;
 
-c) Integrar el expediente del cómputo distrital de la elección de senador con las correspondientes actas de las casillas, el original del acta de cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Integrar el expediente del cómputo distrital de la elección de senadores con las correspondientes actas de las casillas, el original del acta de cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral; y
 
 d) Integrar el expediente del cómputo distrital de la elección de Presidente de los Estados Unidos Mexicanos con las correspondientes actas de las casillas, el original del acta de cómputo distrital, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral.
 
@@ -3411,25 +4367,37 @@ ARTICULO 253
 
 1. El Presidente del Consejo Distrital, una vez integrados los expedientes procederá a:
 
-a) Remitir a la Sala competente del Tribunal Federal Electoral, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, así como copia certificada del expediente del cómputo distrital de la elección de diputado de mayoría relativa o de Presidente de los Estados Unidos Mexicanos cuyos resultados hayan sido impugnados, en los términos previstos en el Título Segundo del Libro Séptimo de este Código;
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
-b) Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Oficialía Mayor de la Cámara de Diputados, los expedientes de los cómputos distritales que contienen las actas originales y cualquier otra documentación de las elecciones de diputados por mayoría relativa y de Presidente de los Estados Unidos Mexicanos. De la documentación contenida en el expediente de cómputo distrital enviará copia certificada al Director General del Instituto Federal Electoral. Cuando se interponga el recurso de inconformidad se enviará copia del mismo a sendas instancias;
+a) Remitir a la Sala competente del Tribunal Federal Electoral, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, así como copia certificada del expediente del cómputo distrital y declaración de validez de la elección de diputados de mayoría relativa y, en su caso, el expediente del cómputo distrital de la elección de Presidente de los Estados Unidos Mexicanos, cuyos resultados hubiesen sido impugnados, en los términos previstos en el Título Segundo del Libro Séptimo de este Código;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Oficialía Mayor de la Cámara de Diputados, el expediente del cómputo distrital que contenga las actas originales y cualquier otra documentación de la elección de Presidente de los Estados Unidos Mexicanos; copia certificada de la Constancia de Mayoría y Validez de la fórmula de candidatos a diputado de mayoría relativa que la hubiese obtenido; así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones. De la documentación contenida en el expediente de cómputo distrital enviará copia certificada al Director General del Instituto Federal Electoral. Cuando se interponga el recurso de inconformidad se enviará copia del mismo a sendas instancias;
 
 c) Remitir al Consejo Local de la entidad el expediente de cómputo distrital que contiene las actas originales y documentación de la elección de senador. De las actas y documentación contenida en dicho expediente enviará copia certificada al Director General del Instituto Federal Electoral; y
 
-d) Remitir al correspondiente Consejo Local con residencia en la cabecera de circunscripción el expediente del cómputo distrital que contiene las actas originales y copias certificadas, y demás documentos de la elección de diputados por el principio de representación proporcional. De las actas y documentación contenidas en dicho expediente enviará sendas copias certificadas a la Oficialía Mayor de la Cámara de Diputados y al Director General del Instituto Federal Electoral.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Remitir al correspondiente Consejo Local con residencia en la cabecera de circunscripción el expediente del cómputo distrital que contiene las actas originales y copias certificadas, y demás documentos de la elección de diputados por el principio de representación proporcional. De las actas y documentación contenidas en dicho expediente enviará copia certificada al Director General del Instituto Federal Electoral.
 
 ARTICULO 254
 
 1. Los Presidentes de los Consejos Distritales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales.
 
-2. Asimismo, los Presidentes tomarán las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de los sobres que contienen la documentación a que se refiere el artículo 234 de este Código hasta la calificación de todas las elecciones. Una vez realizada la calificación se procederá a su destrucción.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-### CAPITULO CUARTO. De los cómputos de entidad federativa para senador
+2. Asimismo, los Presidentes tomarán las medidas necesarias para el depósito en el lugar señalado para tal efecto, de los sobres que contengan la documentación a que se refiere el artículo 234 de este Código hasta la conclusión del proceso electoral. Una vez concluido el proceso electoral, se procederá a su destrucción.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO CUARTO. De los Cómputos de Entidad Federativa y de la Declaración de Validez de la Elección de Senadores
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 255
 
-1. Los Consejos Locales celebrarán sesión el domingo siguiente al día de la jornada electoral, para hacer el cómputo de entidad federativa correspondiente a la elección de senador.
+1. Los Consejos Locales celebrarán sesión el domingo siguiente al día de la jornada electoral, para efectuar el cómputo de entidad federativa correspondiente a la elección de senadores y la declaratoria de validez de la propia elección.
 
 ARTICULO 256
 
@@ -3439,23 +4407,35 @@ a) Se tomará nota de los resultados que consten en cada una de las actas de có
 
 b) La suma de esos resultados constituirá el cómputo de entidad federativa de la elección de senador; y
 
-c) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren durante la misma.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) El Consejo Local verificará el cumplimiento de los requisitos formales de la elección y asimismo, que los candidatos de las fórmulas para senador que hubiesen obtenido el triunfo por el principio de mayoría relativa y de la fórmula registrada en primer lugar por el partido que por sí mismo hubiese logrado obtener el segundo lugar en la votación, cumplan con los requisitos de elegibilidad previstos en el artículo 7 de este Código; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma y la declaración de validez de la elección y de elegibilidad de los candidatos de las fórmulas para senador que hubiesen obtenido el triunfo y de la fórmula registrada en primer lugar por el partido que por sí mismo hubiese obtenido el segundo lugar en la votación.
 
 ARTICULO 257
 
 1. El Presidente del Consejo Local deberá:
 
-a) Expedir, al concluir el cómputo de entidad federativa, la constancia de mayoría a los integrantes de la fórmula de candidatos a senador, que hubiesen obtenido la mayoría de votos;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Expedir, al concluir la sesión de cómputo de entidad federativa y de declaración de validez de la elección de senadores, las Constancias de Mayoría y Validez a las fórmulas para senador que hubiesen obtenido el triunfo, y la Constancia de Asignación a la fórmula registrada en primer lugar por el partido que por sí mismo hubiese logrado obtener el segundo lugar en la votación de la entidad. En el supuesto de que los integrantes de alguna de las fórmulas que hubiesen obtenido el triunfo fueren inelegibles, no se expedirá la Constancia de que se trate, sin perjuicio de otorgarla a las demás fórmulas registradas en la lista del partido que hubiera obtenido la mayoría de la votación. Si fueren inelegibles los integrantes de la fórmula registrada en primer lugar por el partido que por sí mismo hubiese obtenido el segundo lugar en la votación, la constancia se expedirá a la fórmula registrada en segundo término en la lista respectiva;
 
 b) Fijar en el exterior del local del Consejo los resultados del cómputo de entidad federativa;
 
-c) Integrar el expediente del cómputo de entidad de la elección de senador con el original de las actas de los cómputos distritales, el original del acta de cómputo de entidad federativa, el original del acta circunstanciada de la sesión de cómputo de entidad y el informe del propio Presidente sobre el desarrollo del proceso electoral;
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+c) Remitir a la Oficialía Mayor de la Cámara de Senadores, copia certificada de las constancias expedidas a las fórmulas para senador que hubiesen obtenido el triunfo de mayoría relativa; la de asignación expedida a la fórmula registrada en primer lugar por el partido que por sí mismo hubiese logrado obtener el segundo lugar en la votación de la entidad; así como un informe de los recursos de inconformidad interpuestos;
 
 d) Remitir a la Sala competente del Tribunal Federal Electoral, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, así como copia certificada de las actas cuyos resultados fueren impugnados y de las actas del cómputo de entidad, en los términos previstos en el Título Segundo del Libro Séptimo de este Código;
 
-e) Remitir, una vez transcurrido el plazo para la interposición del recurso de inconformidad, a la Legislatura correspondiente o a la Comisión Permanente del Congreso de la Unión en el caso del Distrito Federal, copias certificadas del cómputo de entidad y un informe, en su caso, de los recursos de inconformidad interpuestos para los efectos del artículo 56 de la Constitución; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-f) Remitir, una vez transcurrido el plazo para la interposición del recurso de inconformidad, al Director General del Instituto Federal Electoral, copia certificada del acta de cómputo de entidad, copias de los recursos interpuestos, del acta circunstanciada de la sesión y el informe del propio Presidente sobre el desarrollo del proceso electoral.
+e) Remitir, una vez transcurrido el plazo para la interposición del recurso de inconformidad, al Director General del Instituto Federal Electoral, copia certificada del acta de cómputo de entidad, copia de los recursos interpuestos, del acta circunstanciada de la sesión y el informe del propio Presidente sobre el desarrollo del proceso electoral; y
+
+f) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ### CAPITULO QUINTO. De los cómputos de representación proporcional en cada circunscripción
 
@@ -3463,9 +4443,11 @@ ARTICULO 258
 
 1. El cómputo de circunscripción plurinominal es la suma que realiza cada uno de los Consejos Locales con residencia en las capitales designadas cabecera de circunscripción, de los resultados anotados en las actas de cómputo distrital respectivas, a fin de determinar la votación obtenida en la elección de diputados por el principio de representación proporcional en la propia circunscripción.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 259
 
-1. El Consejo Local que resida en la capital cabecera de la circunscripción plurinominal, hará el domingo siguiente a la jornada electoral y una vez realizado el cómputo de entidad federativa para la elección de senador, el cómputo de la votación para las listas regionales de diputados electos según el principio de representación proporcional.
+1. El Consejo Local que resida en la capital cabecera de cada circunscripción plurinominal, el domingo siguiente a la jornada electoral y una vez realizado el cómputo a que se refiere el artículo 255 de este Código, procederá a realizar el cómputo de la votación para las listas regionales de diputados electos según el principio de representación proporcional.
 
 ARTICULO 260
 
@@ -3487,7 +4469,7 @@ b) Integrar el expediente del cómputo de circunscripción con los expedientes d
 
 c) Remitir a la Sala del Tribunal Federal Electoral, cuando se hubiere presentado el recurso de inconformidad, junto con éste, los escritos de protesta y el informe respectivo, copias certificadas de las actas que contengan los resultados impugnados, así como copia certificada del acta de cómputo de circunscripción y de la circunstanciada de la sesión del mismo, en los términos previstos por el Título Segundo del Libro Séptimo de este Código;
 
-d) Remitir, una vez transcurrido el plazo para la interposición del recurso de inconformidad, a la Oficialía Mayor de la Cámara de Diputados, copia certificada del acta del cómputo de circunscripción, del acta circunstanciada de la sesión y, en su caso, copia de los recursos interpuestos; y
+d) (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 e) Remitir, una vez transcurrido el plazo para la interposición del recurso de inconformidad, al Director General del Instituto Federal Electoral, una copia certificada del acta de cómputo de circunscripción y del acta circunstanciada de la sesión del mismo y, en su caso, copia de los recursos interpuestos, para que los presente al Consejo General del Instituto junto con las copias certificadas respectivas de los cómputos distritales.
 
@@ -3497,119 +4479,245 @@ ARTICULO 262
 
 1. En los términos del artículo 54 de la Constitución Política de los Estados Unidos Mexicanos, el Consejo General del Instituto procederá a la asignación de diputados electos por el principio de representación proporcional conforme a los artículos 12 al 18 de este Código.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. El Consejo General hará la asignación a que se refiere el párrafo anterior, una vez resueltos por el Tribunal Federal Electoral los recursos que se hayan interpuesto en los términos del Libro Séptimo de este Código y a más tardar el 23 de agosto del año de la elección.
+
 ARTICULO 263
 
 1. El Presidente del Consejo General expedirá a cada partido político las constancias de asignación proporcional, de lo que informará a la Oficialía Mayor de la Cámara de Diputados.
 
 ## TITULO PRIMERO. Disposiciones Preliminares
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 264
 
-1. El Tribunal Federal Electoral es el órgano jurisdiccional autónomo en materia electoral, que tiene a su cargo la sustanciación y resolución de los recursos de apelación y de inconformidad, a que se refiere el Título Segundo del Libro Séptimo de este Código, así como la imposición de las sanciones establecidas en el Título Tercero del propio Libro Séptimo.
+1. De conformidad con lo dispuesto en el párrafo decimotercero del artículo 41 de la Constitución, el Tribunal Federal Electoral es órgano autónomo y máxima autoridad jurisdiccional en materia electoral federal, que en los términos de este Código tiene a su cargo:
 
-2. En los términos del artículo 41 de la Constitución, el Tribunal al resolver los recursos de apelación y de inconformidad garantizará que los actos o resoluciones electorales se sujeten al principio de legalidad. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral sólo podrán ser revisadas y, en su caso, modificadas por los Colegios Electorales en los términos de los artículos 60 y 74 fracción I de la Constitución.
+a) Sustanciar y resolver en forma definitiva e inatacable, de conformidad con lo que señala el Libro Séptimo de este ordenamiento:
+
+I. Los recursos que se presenten durante el proceso electoral, en la etapa de preparación de la elección, en contra de los actos o resoluciones de los órganos electorales;
+
+II. Los recursos que se presenten de acuerdo con lo dispuesto en los párrafos segundo y tercero del artículo 60 de la Constitución;
+
+III. Los recursos que se presenten en procesos electorales federales extraordinarios;
+
+IV. Los recursos que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los órganos electorales;
+
+V. Las diferencias o conflictos laborales que surjan entre el Instituto Federal Electoral y sus servidores; y
+
+VI. Las diferencias o conflictos laborales que surjan entre el propio Tribunal y sus servidores;
+
+b) Expedir su Reglamento Interior;
+
+c) Realizar tareas de capacitación, investigación y difusión en materia de Derecho Electoral;
+
+d) Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño; y
+
+e) Las demás que sean necesarias para su correcto funcionamiento.
+
+2. El Tribunal Federal Electoral, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+3. El Tribunal Federal Electoral funcionará en Pleno y en Salas.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+### CAPITULO PRIMERO. Del Pleno del Tribunal
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 265
 
-1. El Tribunal Federal Electoral se integra por una Sala Central con sede en el Distrito Federal y cuatro Salas Regionales cuyas sedes serán, respectivamente, las de las cabeceras de las demás circunscripciones plurinominales.
+1. El Pleno del Tribunal se integra por los magistrados propietarios de las Salas Central y de las Regionales. Para que pueda sesionar válidamente se requiere la presencia de por lo menos las dos terceras partes de sus integrantes. Sus determinaciones serán válidas con el voto de la mayoría simple de los presentes.
 
-2. La Sala Central será permanente. Las cuatro Salas Regionales se instalarán a más tardar en la primera semana del mes de enero del año de la elección; una vez que se hayan determinado las sedes de las cabeceras de circunscripción, para concluir sus funciones y entrar en receso el día último del mes de noviembre del año de la elección.
+2. Son atribuciones del Pleno del Tribunal Federal Electoral las siguientes:
 
-3. La Sala Central se integrará con cinco magistrados y las cuatro Salas Regionales restantes con tres magistrados cada una.
+a) Elegir, de entre los magistrados de la Sala Central, a más tardar en el mes de agosto del año anterior al de la elección, al Presidente del Tribunal, quien una vez electo presidirá el Pleno;
 
-4. Para que sesione válidamente la Sala Central se requerirá la presencia de cuatro magistrados. Las resoluciones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+b) Designar o remover, a propuesta del Presidente del Tribunal, al Secretario General;
 
-5. Para que sesionen las Salas Regionales se requerirá que estén integradas con los tres magistrados y le serán aplicables las reglas sobre votación señaladas en el párrafo anterior.
+c) Resolver, en los términos del Libro Séptimo de este Código y del Reglamento Interior del Tribunal, las diferencias o conflictos con sus servidores cuando hayan sido suspendidos, removidos o cesados en sus funciones; y
 
-### CAPITULO PRIMERO. De la Sala Central
+d) Aprobar y, en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente una Comisión de siete magistrados que a ese efecto se integre, a propuesta del Presidente del Pleno.
 
-ARTICULO 266
-
-1. La Sala Central tendrá competencia para:
-
-a) Resolver los recursos de apelación y de inconformidad que se interpongan en contra de los actos, resoluciones o resultados consignados en las actas de cómputo distrital o local de los órganos electorales que correspondan a la circunscripción plurinominal a la que pertenezca el Distrito Federal;
-
-b) Resolver los recursos de apelación que se interpongan en los dos años anteriores al del proceso electoral, contra actos o resoluciones de los órganos del Instituto;
-
-c) Resolver los recursos de apelación e inconformidad que se interpongan en los procesos de elecciones extraordinarias;
-
-d) Designar de entre los magistrados de cada Sala Regional al que fungirá como Presidente para cada proceso electoral;
-
-e) Nombrar, a propuesta del Presidente del Tribunal, los jueces instructores de la Sala y al Secretario General;
-
-f) Elaborar el Reglamento Interior del Tribunal Federal Electoral;
-
-g) Definir los criterios de interpretación normativa que deben sostener las Salas del Tribunal, conforme al procedimiento establecido en los artículos 3o. y 337 de este Código; y
-
-h) Determinar, y en su caso aplicar, las sanciones previstas en el Título Tercero del Libro Séptimo de este Código.
-
-2. Fungirá como Presidente de la Sala Central el magistrado que designen sus integrantes en la primera sesión que celebren y durará en el cargo tres años pudiendo ser reelecto.
-
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
-
-3. La Sala Central tendrá a su cargo las funciones de Pleno y su Presidente lo será del Tribunal Federal Electoral.
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 # LIBRO SEXTO. Del Tribunal Federal Electoral
 
-## TITULO SEGUNDO. De las Salas y los Magistrados
+## TITULO SEGUNDO. Del Pleno, de las Salas y de los Magistrados del Tribunal
+
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ## TITULO TERCERO. De su funcionamiento
 
-### CAPITULO SEGUNDO. De las Salas Regionales
+(REUBICADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+### CAPITULO SEGUNDO. De la Sala Central
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 266
+
+1. La Sala Central es permanente, se integrará con cinco magistrados y tendrá su sede en el Distrito Federal.
+
+2. La Sala Central es competente para:
+
+a) Resolver durante los procesos electorales ordinarios los recursos de apelación, de inconformidad y, en su caso, los de revisión, que se interpongan en la circunscripción de su sede, así como los que se interpongan en contra de los actos o resoluciones del Consejo General del Instituto Federal Electoral, en los términos del Libro Séptimo de este Código;
+
+b) Resolver los recursos de apelación que se interpongan, en los términos del Libro Séptimo de este Código, durante el tiempo que transcurra entre dos procesos electorales ordinarios;
+
+c) Resolver los recursos de apelación, inconformidad y, en su caso, los de revisión que se interpongan, en los términos del Libro Séptimo de este Código, en los procesos de elecciones extraordinarias;
+
+d) Resolver las diferencias o conflictos a que se refiere la fracción V del inciso a) del artículo 264, de conformidad con lo dispuesto en el artículo 337-A de este Código;
+
+e) Desechar, sobreseer, tener por no interpuestos, o por no presentados, cuando proceda, los recursos, los escritos de terceros interesados o de coadyuvantes;
+
+f) Calificar y resolver sobre las excusas que presenten los magistrados;
+
+g) Encomendar a los jueces instructores, secretarios y actuarios de la Sala Central, la realización de diligencias que deban practicarse fuera del Tribunal;
+
+h) Determinar la fecha y hora de sus sesiones públicas;
+
+i) Elegir de entre los magistrados de cada Sala Regional, a propuesta del Presidente del Tribunal, al que fungirá como su Presidente para cada proceso electoral;
+
+j) Nombrar, a propuesta del Presidente de la Sala, a los jueces instructores y al secretario general de acuerdos;
+
+k) Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese del secretario general de acuerdos y de los jueces instructores de la Sala;
+
+l) Definir los criterios de jurisprudencia conforme a lo establecido en los artículos 3 y 337 de este Código; y
+
+m) Determinar y, en su caso, aplicar las sanciones previstas en el Título Tercero del Libro Séptimo de este Código.
+
+3. Electo el Presidente del Tribunal, el magistrado suplente que corresponda integrará la Sala Central hasta la conclusión del proceso electoral respectivo.
+
+4. Durante el proceso electoral fungirá como Presidente de la Sala Central el magistrado que elijan sus integrantes, a propuesta del Presidente del Tribunal, a más tardar en el mes de septiembre del año anterior al del proceso electoral ordinario y durará en el cargo hasta su conclusión.
+
+5. Concluido el proceso electoral, el Presidente del Tribunal integrará la Sala Central, la que presidirá hasta la conclusión de su encargo o hasta que se elija Presidente de la Sala Central para el siguiente proceso electoral ordinario. En el caso de elecciones extraordinarias, la Sala Central se integrará en los términos previstos en los dos párrafos anteriores, hasta la conclusión de las mismas.
+
+6. Para que sesione la Sala Central válidamente, se requerirá la presencia de cuatro magistrados. Las resoluciones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+### CAPITULO TERCERO. De las Salas Regionales
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 267
 
-1. Las Salas Regionales tendrán competencia para:
+1. Las cuatro Salas Regionales deberán quedar instaladas a más tardar en la semana en que inicie el proceso electoral ordinario y entrarán en receso en el mes de septiembre del año en que concluya, se integrarán con tres magistrados cada una y tendrán su sede, respectivamente, en las cuatro ciudades cabecera de circunscripción distintas al Distrito Federal.
 
-a) Resolver durante los procesos electorales ordinarios los recursos de apelación en la etapa preparatoria y los de inconformidad que se presenten en contra de los actos, resoluciones o resultados consignados en las actas de cómputo distrital o local de los órganos del Instituto que queden comprendidos dentro de la circunscripción plurinominal de su sede; y
+2. Las Salas Regionales son competentes para:
 
-b) Designar a propuesta de su Presidente a los jueces instructores de la Sala.
+a) Sustanciar y resolver durante los procesos electorales los recursos de apelación, inconformidad y, en su caso, los de revisión, que se interpongan en la circunscripción plurinominal de su sede, en los términos del Libro Séptimo de este Código;
 
-2. Fungirá como Presidente de cada Sala Regional el magistrado que designe el pleno de la Sala Central para cada proceso electoral ordinario.
+b) Desechar, sobreseer, tener por no interpuestos, o por no presentados, cuando proceda, los recursos, escritos de terceros interesados o de coadyuvantes;
 
-### CAPITULO TERCERO. De los Magistrados
+c) Designar, a propuesta del Presidente de la Sala, al secretario general de acuerdos y a los jueces instructores;
+
+d) Calificar y resolver sobre las excusas que presenten los magistrados de acuerdo con las disposiciones del Reglamento Interior del Tribunal;
+
+e) Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese del secretario general de acuerdos y de los jueces instructores de la Sala;
+
+f) Encomendar a los jueces instructores, secretarios y actuarios de la Sala, la realización de diligencias que deban practicarse fuera del Tribunal; y
+
+g) Determinar la fecha y hora de sus sesiones públicas.
+
+3. Para que sesionen las Salas Regionales válidamente, se requerirá la presencia de los tres magistrados y sus resoluciones se tomarán por mayoría de votos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO CUARTO. De la Sala de Segunda Instancia
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 268
 
-1. Los magistrados del Tribunal serán designados por la Cámara de Diputados a propuesta del Presidente de la República en los términos del artículo 41 de la Constitución.
+1. La Sala de Segunda Instancia deberá quedar integrada, en los términos del párrafo decimosexto del artículo 41 de la Constitución, a más tardar en la última semana del mes de octubre del año anterior al del proceso electoral. Se instalará para iniciar sus funciones en la tercera semana del mes de julio del año de la elección y las concluirá a más tardar el 30 del mes de septiembre. Su sede será la misma de la Sala Central.
 
-2. El Presidente de la República propondrá una lista de por lo menos dos candidatos para cada uno de los puestos de magistrados y se seguirá el procedimiento previsto en el párrafo 5 incisos b) y c) del artículo 74 de este Código.
+2. De conformidad con el párrafo tercero del artículo 60 de la Constitución, la Sala de Segunda Instancia es competente solamente para conocer y resolver los recursos de reconsideración que se interpongan de acuerdo con las disposiciones aplicables del Libro Séptimo de este Código.
 
-Las propuestas señalarán los candidatos para cada Sala.
+3. Para que sesione válidamente la Sala de Segunda Instancia deberán estar presentes por lo menos cuatro magistrados, entre los que deberá estar el Presidente del Tribunal. Sus resoluciones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad.
 
-3. Para cubrir las ausencias temporales o definitivas de los magistrados, serán electos seis suplentes de la lista adicional que para ese efecto presente el Presidente de la República. En este caso se aplicará lo dispuesto en el párrafo anterior. Las ausencias definitivas de los magistrados serán cubiertas en el orden que señale la Cámara de Diputados al elegir o insacular a los magistrados suplentes.
+4. Los jueces instructores, secretarios y demás personal jurídico y administrativo de las Salas Central y Regionales auxiliarán a la Sala de Segunda Instancia en sus funciones.
 
-4. Los magistrados del Tribunal deberán ser electos a más tardar el 30 de noviembre del año anterior al del proceso electoral federal ordinario correspondiente.
+5. En el caso de elecciones extraordinarias, la Sala de Segunda Instancia se instalará con los mismos miembros electos para el proceso electoral ordinario inmediato anterior, con la oportunidad necesaria para conocer de los recursos de reconsideración que se interpongan y concluirá sus funciones al resolver el último de los que se hayan interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO QUINTO. De los Magistrados
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 269
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+1. Los magistrados del Tribunal serán electos por la Cámara de Diputados o, en su caso, por la Comisión Permanente del Congreso de la Unión, a propuesta del Presidente de los Estados Unidos Mexicanos o de la Suprema Corte de Justicia de la Nación, según corresponda, en los términos de los párrafos decimoctavo y decimonoveno del artículo 41 de la Constitución.
 
-1. Los candidatos propuestos para magistrados deberán reunir los requisitos señalados para los consejeros magistrados en el artículo 76 de este Código.
+2. El Presidente de los Estados Unidos Mexicanos propondrá una lista de por lo menos dos candidatos para cada uno de los cargos de magistrados para las Salas Central y Regionales del Tribunal. En todo caso, se seguirá el procedimiento previsto en los incisos b) y c) del párrafo 5 del artículo 74 de este Código. Las propuestas señalarán los candidatos para cada Sala.
+
+3. Para cubrir las ausencias temporales o definitivas de los magistrados de las Salas Central y Regionales, serán electos seis suplentes de la lista adicional que para ese efecto presente el Presidente de los Estados Unidos Mexicanos. En este caso se aplicará lo dispuesto en el párrafo 2 anterior. Las ausencias definitivas de los magistrados serán cubiertas en el orden que señale la Cámara de Diputados o, en su caso, la Comisión Permanente del Congreso de la Unión al elegir o insacular a los magistrados suplentes.
+
+4. Los magistrados de las Salas Central y Regionales deberán ser electos a más tardar el día último de julio del año anterior al del proceso electoral federal ordinario correspondiente. Los candidatos propuestos para magistrados deberán reunir los requisitos señalados en el artículo 76 de este Código.
+
+5. Los magistrados de las Salas Central y Regionales serán electos para ejercer sus funciones durante ocho años y podrán ser reelectos. El Presidente de los Estados Unidos Mexicanos propondrá su ratificación o, en su caso, una nueva elección en los términos del párrafo 2 anterior.
+
+6. El Presidente de la Suprema Corte de Justicia de la Nación, hará llegar a la Cámara de Diputados o, en su caso, a la Comisión Permanente del Congreso de la Unión, una lista de por lo menos seis candidatos para los cuatro cargos de magistrados propietarios y para dos suplentes de la Sala de Segunda Instancia, para que sean electos por el voto de las dos terceras partes de sus miembros presentes. Si no se alcanza esta mayoría, se presentará otra lista con nuevas propuestas para el mismo efecto, y si en este segundo caso tampoco se alcanzará la votación requerida, procederá la Cámara a elegirlos de entre todos los propuestos, por mayoría simple de los diputados presentes. Los magistrados suplentes cubrirán las ausencias temporales o definitivas de los propietarios.
+
+7. Los cuatro magistrados de la Sala de Segunda Instancia serán electos para cada proceso electoral federal.
+
+8. La retribución que reciban los magistrados será la prevista en el Presupuesto de Egresos de la Federación.
+
+9. Los magistrados de las Salas de Segunda Instancia y Regionales serán retribuidos durante los procesos electorales federales ordinarios o durante el tiempo en que ejerzan su cargo, según lo dispuesto en el Presupuesto de Egresos de la Federación.
+
+10. Los magistrados electos para las Salas de Segunda Instancia y Regionales tendrán derecho a disfrutar de licencia en sus trabajos o empleos durante el tiempo del desempeño de su encargo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 270
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+1. Son atribuciones de los magistrados las siguientes:
 
-1. Los magistrados serán nombrados para ejercer sus funciones durante ocho años, pudiendo ser reelectos. El Presidente de la República propondrá a la Cámara de Diputados su ratificación o, en su caso, una nueva designación en los términos del artículo 268 de este Código.
+a) Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones privadas a las que sean convocados por el Presidente del Tribunal o los Presidentes de Sala;
 
-2. La retribución que reciban los magistrados será la prevista en el presupuesto de egresos de la Federación.
+b) Integrar las Salas para resolver colegiadamente los asuntos de su competencia;
 
-3. Los magistrados de las Salas Regionales serán retribuidos durante los procesos electorales federales ordinarios en los que ejerzan su cargo.
+c) Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto;
+
+d) Exponer en sesión pública, personalmente o por conducto de un secretario, sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
+
+e) Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
+
+f) Formular voto particular razonado en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue al expediente;
+
+g) Solicitar a la Sala que sus proyectos de resolución se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
+
+h) Realizar los engroses de los fallos aprobados por la Sala, cuando sean designados para tales efectos;
+
+i) Plantear la contradicción de criterios de acuerdo con lo dispuesto en el artículo 337 de este Código;
+
+j) Proponer, los de la Sala de Segunda Instancia y los de la Central, el texto y el rubro de la jurisprudencia definida de conformidad con lo dispuesto en el artículo 337 de este Código;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+k) Formar parte de la Comisión de Justicia cuando sean convocados para tal efecto por el Presidente del Tribunal, de conformidad con lo dispuesto en este Código y en el Reglamento correspondiente;
+
+l) Realizar tareas de docencia e investigación en el Tribunal; y
+
+m) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 271
 
-1. Los magistrados electos para las Salas Regionales tendrán derecho a disfrutar de licencia durante el tiempo del desempeño de su encargo, en sus trabajos o empleos.
+1. Durante el tiempo que ejerzan las funciones de su cargo, los magistrados no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados, municipios o de los particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia cuando sean compatibles con el ejercicio de la magistratura.
+
+2. Los magistrados del Tribunal Federal Electoral deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. La Sala del Tribunal calificará y resolverá de inmediato la excusa.
+
+3. Los magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 272
-
-1. Durante el tiempo que ejerzan las funciones de su cargo, los magistrados no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados, o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia cuando no sean incompatibles con el ejercicio de la magistratura.
-
-ARTICULO 273
-
-1. Los magistrados del Tribunal Federal Electoral deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. La Sala del Tribunal calificará y resolverá de inmediato la excusa.
-
-ARTICULO 274
 
 1. Cuando el Presidente del Consejo General del Instituto o el Presidente del Tribunal Federal Electoral estimen, respectivamente, que ha lugar a la remoción de alguno de los consejeros magistrados o magistrados, el Presidente del Tribunal procederá a integrar la Comisión de Justicia.
 
@@ -3627,79 +4735,151 @@ d) Dos magistrados del Tribunal Federal Electoral.
 
 4. La Comisión de Justicia observará el derecho de audiencia y sus resoluciones serán definitivas e inatacables.
 
+(REUBICADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
 ### CAPITULO PRIMERO. Del Presidente del Tribunal
 
-ARTICULO 275
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-1. Son facultades del Presidente del Tribunal Federal Electoral las siguientes:
+ARTICULO 273
 
-a) Representar al Tribunal ante toda clase de autoridades;
+1. El Presidente del Tribunal será electo por el Pleno en los términos del artículo 265 de este Código, durará en el cargo tres años y podrá ser reelecto.
 
-b) Presidir las sesiones de la Sala Central del Tribunal, dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
+2. El Presidente del Tribunal tendrá las siguientes atribuciones:
 
-c) Proponer al pleno de la Sala Central los nombramientos de los jueces instructores y del Secretario General y nombrar al Secretario Administrativo, así como a los secretarios y demás personal auxiliar y administrativo de la Sala Central;
+a) Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del Tribunal;
 
-d) Cubrir las ausencias temporales de los magistrados de la Sala Central o de las Salas Regionales con los magistrados suplentes, preferentemente en el orden señalado por la Cámara de Diputados;
+b) Presidir las sesiones del Pleno, de la Sala de Segunda Instancia y, en su caso, de la Sala Central, así como dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
 
-e) Vigilar que se cumplan las determinaciones de la Sala Central o de los jueces instructores;
+c) Proponer al Pleno el nombramiento del Secretario General y acordar con los Presidentes de las Salas Central y Regionales, las propuestas de jueces instructores y secretarios generales de acuerdos;
 
-f) Despachar la correspondencia del Tribunal y de la Sala Central;
+d) Designar al Secretario Administrativo, a los titulares y personal de las coordinaciones del Tribunal, al personal administrativo de servicios generales y, en su caso, al personal jurídico y administrativo de la Sala de Segunda Instancia;
 
-g) Vigilar que se notifiquen en forma y tiempo las resoluciones de la Sala Central;
+e) Cubrir las ausencias temporales de las Salas del Tribunal con los magistrados suplentes, o las definitivas, en el orden que haya señalado la Cámara de Diputados o la Comisión Permanente del Congreso de la Unión al momento de su elección o insaculación;
 
-h) Elaborar el proyecto de presupuesto del Tribunal en los términos de la ley de la materia y remitirlo a la consideración del titular del Poder Ejecutivo Federal, por conducto del Secretario de Gobernación;
+f) Vigilar que se cumplan, según corresponda, las determinaciones del Pleno, de la Sala de Segunda Instancia y de los jueces instructores;
 
-i) Vigilar que las Salas del Tribunal cuenten con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
+g) Despachar la correspondencia del Tribunal y de la Sala de Segunda Instancia;
 
-j) Rendir ante el Pleno de la Sala Central, un informe al término de cada proceso electoral, dando cuenta de la marcha del Tribunal y de los principales criterios adoptados en sus decisiones;
+h) Elaborar y enviar el proyecto de presupuesto anual del Tribunal directamente al titular del Poder Ejecutivo, o por conducto del funcionario que éste designe;
 
-k) Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
+i) Acordar con los Presidentes de las Salas Central y Regionales la designación de los secretarios, actuarios y personal jurídico de las Salas; y vigilar que las mismas cuenten con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
 
-l) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+j) Convocar a reuniones internas a los magistrados del Tribunal, a los jueces instructores y a los demás miembros del personal jurídico o administrativo;
+
+k) Tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de las Salas del Tribunal;
+
+l) Turnar a los magistrados de la Sala de Segunda Instancia, de conformidad con lo dispuesto en el Reglamento Interior del Tribunal, los expedientes para que formulen los proyectos de resolución;
+
+m) Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Federal Electoral o de las autoridades federales, estatales o municipales, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
+
+n) Ordenar, en casos extraordinarios, que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
+
+o) Rendir ante el Pleno y los miembros de la Sala de Segunda Instancia, un informe al término de cada proceso electoral, dando cuenta de la marcha del Tribunal, de los principales criterios adoptados en sus resoluciones y ordenar su publicación;
+
+p) Decretar, cuando proceda, la suspensión, remoción o cese del Secretario Administrativo, coordinadores, y demás personal jurídico y administrativo del Tribunal; de los jueces instructores o secretarios generales de acuerdos a petición de las Salas, o de los secretarios, actuarios y demás personal jurídico de las Salas a petición de sus Presidentes;
+
+q) Presidir e integrar la Comisión de Justicia de conformidad con lo dispuesto en este Código y en el Reglamento correspondiente;
+
+r) Tomar las medidas necesarias para la instalación y funcionamiento de un Centro de Capacitación Judicial Electoral;
+
+s) Acordar con el Secretario Administrativo, con el coordinador de capacitación y del Centro de Documentación y con el coordinador de comunicación social, los asuntos de su competencia;
+
+t) Fijar los lineamientos para la selección, capacitación, designación y promoción del personal del Tribunal, tomando en cuenta los principios de imparcialidad, objetividad y profesionalismo;
+
+u) Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
+
+v) Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+
+(REUBICADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+## TITULO PRIMERO. De las nulidades
+
+(REPUBLICADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ### CAPITULO SEGUNDO. De los Presidentes de Sala
 
-ARTICULO 276
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-1. Son facultades de los Presidentes de Sala del Tribunal Federal Electoral:
+¬ARTICULO 274
 
-a) Representar a la Sala ante las autoridades en el ámbito territorial que les corresponda;
+1. Son atribuciones de los Presidentes de las Salas Central y Regionales del Tribunal Federal Electoral:
+
+a) Representar a la Sala en el ámbito territorial de su jurisdicción y, con el acuerdo del Presidente del Tribunal, celebrar convenios y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento de la Sala;
 
 b) Presidir la Sala, dirigir los debates y conservar el orden durante los mismos. Cuando los asistentes no guarden la compostura debida, podrán ordenar el desalojo de la Sala y la continuación de la sesión en privado;
 
-c) Vigilar que se cumplan las determinaciones de la Sala o de los jueces instructores;
+c) Vigilar que se cumplan las determinaciones de la Sala y de los jueces instructores;
 
-d) Proponer al pleno de la Sala el nombramiento de los jueces instructores y designar a los secretarios, así como al demás personal auxiliar y administrativo de la Sala;
+d) Proponer a la Sala, previo acuerdo con el Presidente del Tribunal, la designación de los jueces instructores y del secretario general de acuerdos y designar, previo acuerdo con el Presidente del Tribunal, a los secretarios, actuarios y al demás personal jurídico y administrativo de la Sala;
 
 e) Tramitar ante el Presidente del Tribunal los requerimientos de recursos humanos, financieros y materiales necesarios para el buen funcionamiento de la Sala;
 
 f) Despachar la correspondencia de la Sala;
 
-g) Vigilar que se notifiquen en forma y tiempo las resoluciones que pronuncie la Sala;
+g) Vigilar que se dicten en tiempo y forma las resoluciones de la Sala;
 
-h) Informar permanentemente al Presidente del Tribunal, durante el proceso electoral, sobre el funcionamiento de la Sala, el número y tipo de recursos recibidos, y las resoluciones que les hubieren recaído;
+h) Informar al Presidente del Tribunal durante el proceso electoral, diariamente y por los medios idóneos, sobre el funcionamiento de la Sala, el número y tipo de recursos recibidos, los expedientes que se encuentren en etapa de sustanciación y los que estén para resolución, los magistrados ponentes y las resoluciones que les hubieren recaído. El Presidente de la Sala Central mantendrá informado al Presidente del Tribunal, permanentemente, de las actividades realizadas;
 
-i) Rendir oportunamente al Presidente del Tribunal un informe de las labores de la Sala y de las principales resoluciones dictadas por ella;
+i) Rendir a la Sala y al Presidente del Tribunal un informe de las labores y de las principales resoluciones dictadas por la Sala;
 
-j) Vigilar, en el ámbito de su competencia, que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
+j) Convocar, según corresponda, a sesión pública y a reuniones internas a los magistrados de la Sala;
 
-k) Las demás que sean necesarias para el correcto funcionamiento de la Sala.
+k) Informar al Presidente del Tribunal sobre las ausencias temporales o definitivas de los magistrados y de las excusas que presenten;
+
+l) Turnar a los magistrados de la Sala, de conformidad con lo dispuesto en el Reglamento Interior, los expedientes sustanciados para que formulen el proyecto de resolución;
+
+m) Requerir, si lo juzga conveniente, a petición de un juez instructor o magistrado, cualquier informe o documento que, obrando en poder de los órganos del Instituto Federal Electoral o de las autoridades federales, estatales o municipales, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
+
+n) Ordenar, en casos extraordinarios, que se realice alguna diligencia o perfeccione alguna prueba siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
+
+o) Solicitar al Presidente del Tribunal, cuando proceda, la suspensión, remoción o cese de los secretarios, actuarios y demás personal jurídico y administrativo de la Sala;
+
+p) Remitir al Presidente del Tribunal el archivo jurisdiccional de la Sala, cuando concluya el proceso electoral ordinario;
+
+q) Apoyar en la identificación y clasificación de los criterios sostenidos por la Sala;
+
+r) Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
+
+s) Las demás que sean necesarias para el correcto funcionamiento de la Sala.
+
+(REUBICADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ### CAPITULO TERCERO. De los jueces instructores
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 275
+
+1. Las Salas Central y Regionales del Tribunal contarán, cada una, por lo menos con ocho jueces instructores durante el proceso electoral.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 276
+
+1. Son atribuciones de los jueces instructores de las Salas:
+
+a) Admitir los recursos de apelación y de inconformidad, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en este Código;
+
+b) Someter a la Sala los acuerdos de desechamiento de los recursos de apelación y de inconformidad que sean notoriamente improcedentes o evidentemente frívolos;
+
+c) Someter a la consideración de la Sala el acuerdo de tener por no interpuestos los recursos de apelación y de inconformidad y por no presentados los escritos de los coadyuvantes y de los terceros interesados cuando no reúnan los requisitos establecidos en este Código;
+
+d) Someter a la Sala el acuerdo que ordene archivar como asuntos total y definitivamente concluidos, los recursos de revisión y apelación que hayan sido interpuestos cinco días antes de la elección y no guarden relación con uno de inconformidad;
+
+e) Determinar y acordar, cuando proceda, la acumulación de los recursos de apelación y de inconformidad, así como determinar la procedencia de la conexidad de la causa de acuerdo con lo dispuesto en el artículo 332 de este Código;
+
+f) Formular los requerimientos necesarios para la sustanciación de los expedientes en los términos del Libro Séptimo de este Código y solicitar al Presidente de la Sala que requiera, si lo juzga conveniente, cualquier informe o documento que, obrando en poder de los órganos del Instituto Federal Electoral o de las autoridades federales, estatales o municipales, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código;
+
+g) Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia o efectuar por sí mismos las que deban practicarse fuera de las Salas; y
+
+h) Desempeñar las demás tareas que les encomienden el Presidente del Tribunal, la Sala o el Presidente de la misma, en el ámbito de su competencia, para la buena marcha y funcionamiento del Tribunal.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 277
-
-1. Cada Sala del Tribunal Federal Electoral contará con cinco jueces instructores, por lo menos, durante el proceso electoral.
-
-2. Los jueces instructores tendrán a su cargo:
-
-a) Iniciar el trámite de los recursos de apelación y de inconformidad, una vez que la Sala los reciba de los órganos electorales competentes, y admitirlos si reúnen los requisitos, o someter a la Sala el acuerdo de desechamiento de plano por notoriamente improcedentes;
-
-b) Determinar la acumulación en los casos en que proceda; y
-
-c) Sustanciar los expedientes, requiriendo los documentos pertinentes para ponerlos en estado de resolución.
-
-ARTICULO 278
 
 1. Los jueces instructores deberán reunir los siguientes requisitos:
 
@@ -3715,45 +4895,117 @@ e) No ser o haber sido dirigente nacional, estatal o municipal de algún partido
 
 2. La retribución que reciban los jueces instructores será la prevista en el Presupuesto de Egresos de la Federación.
 
-## TITULO PRIMERO. De las nulidades
+3. Los jueces instructores tienen obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
-### CAPITULO CUARTO. Del Secretario General
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+### CAPITULO CUARTO. Del Secretario General del Tribunal y de los secretarios generales de acuerdos de las Salas
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 278
+
+1. El Secretario General del Tribunal Federal Electoral tendrá las siguientes atribuciones:
+
+a) Apoyar al Presidente del Tribunal en las tareas que le encomiende;
+
+b) Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno, de la Sala de Segunda Instancia y, en su caso, de la Sala Central;
+
+c) Revisar los engroses de las resoluciones de la Sala de Segunda Instancia y, en su caso, de la Sala Central;
+
+d) Llevar el control del turno de los magistrados de la Sala de Segunda Instancia y, en su caso, de la Sala Central;
+
+e) Llevar el registro de las sustituciones de los magistrados de las Salas;
+
+f) Supervisar el debido funcionamiento de las oficialías de partes de todas las Salas, de conformidad con lo dispuesto en el Reglamento Interior;
+
+g) Supervisar que se hagan en tiempo y forma las notificaciones de la Sala de Segunda Instancia y, en su caso, de la Sala Central;
+
+h) Supervisar el debido funcionamiento de los archivos jurisdiccionales del Pleno y de las Salas y, en su momento, su concentración y preservación;
+
+i) Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
+
+j) Autorizar con su firma las actuaciones del Pleno, las de la Sala de Segunda Instancia y, en su caso, las de la Sala Central;
+
+k) Expedir los certificados de constancias del Tribunal, del Pleno, de la Sala de Segunda Instancia y, en su caso, de la Sala Central, que se requieran;
+
+l) Llevar el registro de las tesis de jurisprudencia que se adopten; y
+
+m) Las demás que le encomiende el Pleno, el Presidente del Tribunal, la Sala de Segunda Instancia y, en su caso, la Sala Central.
+
+2. A la conclusión de los procesos electorales ordinarios, el Secretario General lo será de la Sala Central, salvo en los casos de elecciones extraordinarias.
+
+3. Son atribuciones de los secretarios generales de acuerdos de las Salas Central y Regionales las siguientes:
+
+a) Actuar en las sesiones de la Sala, tomar las votaciones de los magistrados y formular el acta respectiva;
+
+b) Dar cuenta en las sesiones públicas con los expedientes que no sean de ponencia de los magistrados;
+
+c) Revisar el engrose de las resoluciones aprobadas por la Sala;
+
+d) Llevar el control del turno a los magistrados que deban formular proyectos de resolución;
+
+e) Remitir a los jueces instructores los recursos de apelación, de inconformidad y, en su caso, los de revisión, de acuerdo con el turno que les corresponda, llevando el control respectivo;
+
+f) Coordinar, de conformidad con los lineamientos que dicten la Sala y su Presidente, a los jueces instructores;
+
+g) Vigilar el adecuado funcionamiento de la oficialía de partes de la Sala;
+
+h) Vigilar la correcta integración de los expedientes, de acuerdo con los lineamientos que señale el Secretario General del Tribunal;
+
+i) Vigilar, de acuerdo con lo dispuesto en el Reglamento Interior y con los lineamientos del Secretario General, el adecuado funcionamiento del archivo jurisdiccional y, en su momento, su envío al Presidente del Tribunal;
+
+j) Supervisar que se hagan en tiempo y forma las notificaciones;
+
+k) Autorizar con su firma las actuaciones de la Sala;
+
+l) Expedir los certificados y constancias que se requieran; y
+
+m) Las demás que le encomienden la Sala o su Presidente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 279
 
-1. La Sala Central contará con un Secretario General que tendrá las siguientes funciones:
+1. El Secretario General deberá satisfacer los requisitos que se exigen para ser juez instructor, y percibirá la remuneración prevista en el Presupuesto de Egresos de la Federación.
 
-a) Supervisar que se hagan en tiempo y forma las notificaciones que ordena el Libro Séptimo de este Código;
+2. Los secretarios generales de acuerdos de las Salas deberán satisfacer los mismos requisitos que se exigen para ser juez instructor, con excepción del de edad que deberá ser de por lo menos 28 años, y percibirán la remuneración prevista en el Presupuesto de Egresos de la Federación.
 
-b) Dar cuenta de las sesiones de la Sala Central, tomar las votaciones de los magistrados y formular el acta relativa;
+3. El Secretario General y los secretarios generales de acuerdos tendrán la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
-c) Apoyar al Presidente en las sesiones de la Sala Central;
+(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
-d) Autorizar con su firma las actuaciones de la Sala Central;
+### CAPITULO QUINTO. Del Secretario Administrativo y de las Coordinaciones del Tribunal
 
-e) Expedir los certificados de constancias que se requieran;
-
-f) Apoyar duante (sic) las sesiones a los magistrados que deban presentar los proyectos para resolución de la Sala Central;
-
-g) Apoyar a los jueces instructores en el desempeño de sus funciones; y
-
-h) Las demás que le encomiende el Presidente del Tribunal.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 280
 
-1. El Secretario General deberá satisfacer los requisitos que se exigen para ser juez instructor, y percibirá la remuneración prevista en el presupuesto de egresos de la Federación.
+1. El Secretario Administrativo dependerá directamente del Presidente del Tribunal y tendrá a su cargo la atención de todo lo relativo a los recursos humanos, financieros y materiales del Tribunal y sus Salas. Percibirá la remuneración fijada en el Presupuesto de Egresos de la Federación.
+
+2. En cada Sala habrá un responsable administrativo que apoyará al Secretario Administrativo del Tribunal en las funciones que tiene encomendadas.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 281
 
-1. En las Salas Regionales, su Presidente encomendará a uno de los secretarios la realización de las funciones a que se refiere el artículo 279 de este Código.
+1. Las Coordinaciones del Tribunal Federal Electoral tendrán a su cargo las tareas de capacitación, investigación, documentación y difusión, así como de comunicación social. Sus titulares dependerán directamente del Presidente del Tribunal y percibirán la remuneración prevista en el Presupuesto de Egresos de la Federación.
 
-### CAPITULO QUINTO. Del Secretario Administrativo, de los Secretarios y del
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-personal auxiliar y administrativo
+### CAPITULO SEXTO. Del Centro de Capacitación Judicial Electoral
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 282
 
-1. El Secretario Administrativo tendrá a su cargo la atención de todo lo relativo a los recursos humanos, financieros y materiales necesarios para el funcionamiento del Tribunal y sus Salas, y percibirá la remuneración prevista en el presupuesto de egresos de la Federación.
+1. El Centro de Capacitación Judicial Electoral tendrá a su cargo la impartición de cursos, seminarios y todo tipo de actividades académicas y de investigación sobre derecho electoral y sobre su rama procesal, de acuerdo con los recursos presupuestales del Tribunal.
+
+2. Los magistrados, jueces instructores, coordinadores, secretarios y demás personal jurídico deberán participar en las actividades del Centro, siempre que no sea en demérito de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO SEPTIMO. De los secretarios y del personal auxiliar y administrativo
 
 ARTICULO 283
 
@@ -3765,11 +5017,25 @@ b) Tener 25 años de edad por lo menos, al momento de la designación; y
 
 c) Tener título de licenciado en derecho.
 
-2. Los Secretarios percibirán la remuneración prevista en el presupuesto de egresos de la Federación.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Los secretarios y actuarios tendrán las atribuciones que les señale el Reglamento Interior del Tribunal y percibirán la remuneración prevista en el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los actuarios deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, gozar de buena reputación y tener, por lo menos, el documento que los acredite como pasantes de la carrera de Derecho.
 
 ARTICULO 284
 
 1. Los jueces instructores, los secretarios y demás personal auxiliar del Tribunal Federal Electoral se conducirán con imparcialidad y velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Los secretarios, los actuarios, el personal jurídico y el administrativo, tendrán la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Todos los servidores del Tribunal serán considerados de confianza. El Presidente del Tribunal establecerá los lineamientos para que previamente a la suspensión, remoción o cese de alguno de ellos, se le oiga en su defensa. Decretada la sanción, el servidor involucrado podrá inconformarse ante el Pleno del Tribunal en los términos del artículo 337-B de este Código.
 
 ARTICULO 285
 
@@ -3777,13 +5043,17 @@ ARTICULO 285
 
 2. También podrán desahogarse diligencias con el apoyo de los juzgados federales o locales.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ### CAPITULO PRIMERO. De los casos de nulidad
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 286
 
-1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una casilla, y en consecuencia, los resultados del cómputo distrital de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadores. Para la impugnación del cómputo de circunscripción plurinominal para las listas, se estará a lo dispuesto en los artículos 303 párrafo 1, inciso c) y 335 párrafo 1, inciso e) de este Código.
+1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una casilla y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadores por el principio de mayoría relativa o la asignación de primera minoría. Para la impugnación del cómputo de circunscripción plurinominal se estará a lo dispuesto en la fracción IV del inciso c) del párrafo 1 del artículo 295 y en el inciso d) del párrafo 2 del artículo 302 de este Código.
 
-2. Los efectos de las nulidades decretadas por el Tribunal Federal Electoral, respecto de la votación emitida en una casilla o de una elección en un distrito electoral uninominal, de una entidad federativa o de una circunscripción plurinominal se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
+2. Los efectos de las nulidades decretadas por el Tribunal Federal Electoral, respecto de la votación emitida en una casilla o de una elección en un distrito electoral uninominal o en una entidad federativa, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
 
 ARTICULO 287
 
@@ -3815,23 +5085,49 @@ a) Cuando alguna o algunas de las causas señaladas en el artículo anterior se 
 
 b) Cuando no se instalen las casillas en el 20% de las secciones y consecuentemente la votación no hubiere sido recibida.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Cuando los dos integrantes de la fórmula de candidatos sean inelegibles.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 289
 
-1. Son causas de nulidad de la elección de senador en una entidad federativa, cuando se den los supuestos del artículo 288 y se acrediten alguna o algunas de las causas señaladas en el artículo 287 de este Código, en por lo menos el 20% de las secciones en la entidad de que se trate.
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+1. Son causas de nulidad de una elección de senadores en una entidad federativa, las siguientes:
+
+a) Cuando alguna o algunas de las causales de nulidad previstas en el artículo 287 de este Código, se acrediten en por lo menos el 20% de las secciones en la Entidad de que se trate; o
+
+b) Cuando no se instale ninguna casilla en el 20% de las secciones en la entidad de que se trate y consecuentemente la votación no hubiere sido recibida; o
+
+c) Cuando los dos integrantes de una fórmula de candidatos fueren inelegibles. En este caso, la nulidad afectará a la elección únicamente por lo que hace a la fórmula o fórmulas de candidatos que resultaren inelegibles.
 
 ARTICULO 290
 
 1. Sólo podrá ser declarada nula la elección en un distrito electoral o en una entidad, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Las Salas del Tribunal Federal Electoral podrán declarar la nulidad de una elección de diputados o senadores cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral en el distrito o entidad de que se trate y se demuestre que las mismas son determinantes para el resultado de la elección, salvo que las irregularidades sean imputables al partido recurrente.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 291
 
-1. Ningún partido político podrá invocar como causa de nulidad hechos o circunstancias que el propio partido dolosamente, haya provocado.
+1. Los partidos políticos no podrán invocar en su favor, en ningún recurso, causas de nulidad o hechos o circunstancias que el propio partido, dolosamente, haya provocado.
+
+# LIBRO SEPTIMO. De las nulidades; del sistema de medios de impugnación y de las faltas y sanciones administrativas
+
+## TITULO SEGUNDO. Del sistema de medios de impugnación
 
 ### CAPITULO SEGUNDO. De los efectos de la declaración de nulidad
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 292
 
-1. La nulidad declarada por el Tribunal Federal Electoral con fundamento en los artículos 287, 288, 289 y 303 inciso c) de este Código, sólo podrá ser modificada por los colegios electorales de las Cámaras de Diputados y Senadores de conformidad con lo señalado en el artículo 60 de la Constitución Política de los Estados Unidos Mexicanos y por la Cámara de Diputados erigida en Colegio Electoral en los términos del artículo 74 fracción I de la propia Constitución.
+1. Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
 ARTICULO 293
 
@@ -3841,35 +5137,71 @@ ARTICULO 293
 
 ARTICULO 294
 
-1. En los dos años previos al proceso electoral los ciudadanos y los partidos políticos contarán con los siguientes medios de impugnación:
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-a) El recurso de aclaración que los ciudadanos podrán interponer en contra de los actos de las oficinas municipales del Instituto, una vez que hayan agotado la instancia a que se refiere el artículo 151 de este Código, que resolverá la Junta Ejecutiva Distrital que corresponda. Las resoluciones que recaigan al recurso de aclaración serán definitivas e inatacables;
+1. Durante el tiempo que transcurra entre dos procesos electorales federales ordinarios, los ciudadanos, los partidos políticos y las organizaciones o agrupaciones políticas contarán, en los términos señalados en este Título, con los siguientes medios de impugnación:
 
-b) El recurso de revisión, que los partidos políticos podrán interponer en contra de los actos o resoluciones de las Consejos, las Juntas y demás órganos distritales o locales del Instituto, que resolverán las Juntas Ejecutivas del Instituto, según corresponda, por ser el órgano jerárquicamente inmediato superior al que realizó el acto o dictó la resolución recurrida; y
+a) El recurso de revisión, que los partidos políticos podrán interponer en contra de los actos o resoluciones de los órganos distritales o locales del Instituto;
 
-c) El recurso de apelación, que los partidos políticos podrán interponer en contra de las resoluciones que recaigan a los recursos de revisión o en contra de actos o resoluciones de los órganos centrales del Instituto, que resolverá la Sala Central del Tribunal Federal Electoral.
+b) El recurso de apelación, que los ciudadanos podrán interponer en contra de los actos o resoluciones de las oficinas del Registro Federal de Electores, una vez que hayan agotado la instancia administrativa a que se refiere el artículo 151 de este Código;
 
-2. Para la sustanciación y resolución del recurso de aclaración se aplicarán, en lo conducente, las reglas señaladas en este Título para el recurso de revisión.
+c) El recurso de apelación, que los partidos políticos podrán interponer en contra de las resoluciones que recaigan a los recursos de revisión, en contra de actos o resoluciones de los órganos centrales del Instituto, en contra del dictamen a que se refiere el inciso g) del párrafo 2 del artículo 49-A y para impugnar el informe a que se refiere el párrafo 4 del artículo 158 de este Código, en los términos señalados por el párrafo 5 del mismo artículo; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) El recurso de apelación, que las organizaciones o agrupaciones políticas podrán interponer únicamente cuando se les haya negado el registro como partidos políticos.
+
+2. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ARTICULO 295
 
 1. Durante el proceso electoral, para garantizar la legalidad de los actos, resoluciones y resultados electorales, se establecen los siguientes medios de impugnación:
 
-a) Recurso de revisión, para objetar los actos o resoluciones de los órganos electorales, que resolverá el Consejo del Instituto jerárquicamente inmediato superior al que realizó el acto o dictó la resolución recurrida;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-b) Recurso de apelación, durante la etapa de preparación de la elección, para impugnar las resoluciones recaídas a los recursos de revisión o contra los actos y resoluciones del Consejo General del Instituto, que resolverá la Sala competente del Tribunal Federal Electoral;
+a) Recurso de revisión, que los partidos políticos podrán interponer en contra de los actos o resoluciones de los órganos distritales o locales del Instituto;
 
-c) Recurso de inconformidad, para objetar los resultados de los cómputos distritales o de entidad federativa por nulidad de la votación emitida en una o varias casillas o para solicitar la nulidad de las elecciones de diputados y senadores, o la nulidad de la votación en una circunscripción plurinominal que resolverá la Sala competente del Tribunal Federal Electoral en los términos de este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. Los recursos a que se refiere el presente artículo podrán ser interpuestos por los partidos políticos, y por los ciudadanos cuando sean incluidos o excluidos indebidamente en el listado nominal de electores, en los términos que señala este Código.
+b) Recurso de apelación, durante la etapa de preparación de la elección, que se podrá interponer:
 
-3. Los candidatos podrán participar como coadyuvantes del partido político al cual pertenezcan.
+I. Por los ciudadanos, para impugnar los actos de las oficinas del Registro Federal de Electores, una vez que hayan agotado la instancia administrativa a que se refiere el artículo 151 de este Código;
+
+II. Por los partidos políticos, para impugnar las resoluciones recaídas a los recursos de revisión, los actos o resoluciones del Consejo General del Instituto, el dictamen a que se refiere el inciso g) del párrafo 2 del artículo 49-A de este Código y para impugnar el informe a que se refiere el párrafo 3 del artículo 159 de este Código, en los términos del párrafo 4 del mismo artículo;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) Recurso de inconformidad, que los partidos políticos podrán interponer para impugar (sic):
+
+I. Por nulidad de la votación recibida en una o varias casillas, los resultados consignados en las actas de cómputo distrital de la elección presidencial;
+
+II. Por las causales de nulidad establecidas en este Código, la declaración de validez de la elección de diputados por el principio de mayoría relativa y por consecuencia, el otorgamiento de la Constancia de Mayoría y Validez respectiva;
+
+III. Por las causales de nulidad establecidas en este Código, la declaración de validez de la elección de senadores y por consecuencia, el otorgamiento de las Constancias de Mayoría y Validez, o la Constancia de Asignación de primera minoría, respectivas; y
+
+IV. Por error aritmético, los cómputos distritales de la elección presidencial y de diputados de mayoría relativa, los cómputos de entidad federativa de la elección de senadores y los cómputos de circunscripción plurinominal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) El recurso de reconsideración, en los términos del párrafo tercero del artículo 60 constitucional, que sólo podrán interponer los partidos políticos en los casos previstos en el párrafo 2 del artículo 323 de este Código, para impugnar:
+
+I. Las resoluciones de fondo de las Salas recaídas a los recursos de inconformidad, cuando se esgriman agravios en virtud de los cuales se pueda dictar una resolución por la que se pueda modificar el resultado de la elección; y
+
+II. La asignación de diputados por el principio de representación proporcional que realice el Consejo General del Instituto.
+
+2. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
+
+3. (DEROGADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)
 
 ARTICULO 296
 
-1. El escrito de protesta será requisito de procedencia del recurso de inconformidad, en los casos en que se impugnen los resultados consignados en el acta final de escrutinio y cómputo de las mesas de casilla, por irregularidades durante la jornada electoral.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. Para el supuesto de la nulidad de la votación recibida en una casilla a que se refiere el inciso b) del artículo 287 de este Código, no se requerirá el escrito de protesta.
+1. El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral y requisito de procedibilidad del recurso de inconformidad.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. No se requerirá la presentación del escrito de protesta cuando se impugne en los casos señalados en los incisos b) y c) del artículo 247, o se haga valer la causal de nulidad señalada por el artículo 287 párrafo 1 inciso b), ambos de este Código, o cuando se impugnen por error aritmético las actas de cómputo distrital de la elección presidencial y de diputados de mayoría relativa, de cómputo de entidad federativa de la elección de senadores o de cómputo de circunscripción plurinominal.
 
 3. El escrito de protesta deberá contener:
 
@@ -3879,13 +5211,17 @@ b) La mesa directiva de casilla ante la que se presenta;
 
 c) La elección que se protesta;
 
-d) La descripción sucinta de los hechos que se estiman violatorios de los preceptos legales que rigen el desarrollo de la jornada electoral;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+d) La causa por la que se presenta la protesta;
 
 e) Cuando se presente ante al Consejo Distrital correspondiente, se deberá identificar, además, individualmente cada una de las casillas que se impugnan cumpliendo con lo señalado en los incisos c) y d) anteriores; y
 
 f) El nombre, la firma y cargo partidario de quien lo presenta.
 
-4. El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital correspondiente, dentro de los tres días siguientes al día de la elección.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital correspondiente, antes de que se inicie la sesión a que se refiere el párrafo 1 del artículo 246 de este Código.
 
 5. De la presentación del escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito los funcionarios de la casilla o del Consejo Distrital ante el que se presentaron.
 
@@ -3895,73 +5231,207 @@ ARTICULO 297
 
 2. El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiera notificado el acto o la resolución correspondiente, salvo lo dispuesto en el artículo 307.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 298
 
-1. En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnadas.
+1. Los servidores del Instituto Federal Electoral podrán demandar en los términos señalados en el artículo 337-A de este Código, ante la Sala Central del Tribunal Federal Electoral, cuando hayan sido sancionados o destituidos de sus cargos.
 
-### CAPITULO SEGUNDO. De la competencia, de la capacidad y personalidad
+2. Los servidores del Tribunal Federal Electoral se podrán inconformar en los términos señalados en el artículo 337-B de este Código y de las disposiciones relativas del Reglamento Interior del propio Tribunal, cuando hayan sido sancionados, removidos o cesados de sus cargos.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+## TITULO TERCERO. De las faltas administrativas y de las sanciones
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 338
+
+1. El Instituto Federal Electoral conocerá de las infracciones que cometan los ciudadanos a lo previsto en el párrafo 3 del artículo 5 de este Código. La sanción consistirá en multa de cincuenta a doscientas veces el salario mínimo diario general vigente para el Distrito Federal. Será determinada y en su caso aplicada por la Sala Central del Tribunal Federal Electoral, conforme al procedimiento señalado en el artículo 343 de este Código.
+
+2. El Instituto Federal Electoral conocerá de las infracciones que se cometan a los artículos 131 y 326 de este Código, en los casos en que las autoridades no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del propio Instituto o por el Tribunal Federal Electoral.
+
+3. Igualmente el Instituto conocerá de las infracciones y violaciones que a las disposiciones de este Código cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo, en los términos que señale el Estatuto del Servicio Profesional Electoral.
+
+4. Conocida la infracción, el Instituto integrará un expediente, que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley.
+
+5. El superior jerárquico a que se refiere el párrafo anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso.
+
+ARTICULO 339
+
+1. El Instituto Federal Electoral conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que el presente Código les impone.
+
+2. Conocida la infracción, el Instituto integrará un expediente, que remitirá al Colegio de Notarios o autoridad competente, para que proceda en los términos de la legislación aplicable.
+
+3. El Colegio de Notarios o la autoridad competente deberá comunicar al Instituto las medidas que haya adoptado en el caso.
+
+ARTICULO 340
+
+1. El Instituto Federal Electoral conocerá de las infracciones en que incurran los extranjeros que por cualquier forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos.
+
+2. En el caso de que los mismos se encuentren en territorio nacional, procederá a informar de inmediato a la Secretaría de Gobernación para los efectos previstos por la ley.
+
+3. En el caso de que los mismos se encuentren fuera del territorio nacional, procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que hubiere lugar.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 341
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+1. El Instituto Federal Electoral informará a la Secretaría de Gobernación de los casos en los que ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta:
+
+a) Induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; o
+
+b) Realicen aportaciones económicas a un partido político o candidato.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 342
+
+1. Los partidos políticos, independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
+
+a) Con multa de 50 a 5 mil veces el salario mínimo general vigente para el Distrito Federal;
+
+b) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+
+c) Con la supresión total de la entrega de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+
+d) Con la suspensión de su registro como partido político; y
+
+e) Con la cancelación de su registro como partido político.
+
+2. Las sanciones a que se refiere el párrafo anterior les podrán ser impuestas a los partidos políticos cuando:
+
+a) Incumplan con las obligaciones señaladas en el artículo 38 y demás disposiciones aplicables de este Código;
+
+b) Incumplan con las resoluciones o acuerdos del Instituto Federal Electoral o del Tribunal Federal Electoral;
+
+c) Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por el artículo 49, párrafos 2 y 3 de este Código;
+
+d) Acepten donativos o aportaciones económicas superiores a los límites señalados en el artículo 49 párrafo 11, inciso b) fracción III de este Código;
+
+e) No presenten los informes anuales o de campaña en los términos y plazos previstos en el artículo 49-A de este Código;
+
+f) Sobrepasen durante una campaña electoral los topes a los gastos señalados en el artículo 182-A de este Código; y
+
+g) Incurran en cualquier otra falta de las previstas en este Código.
+
+3. Cuando la pérdida de registro obedezca a alguna de las causales previstas en el artículo 66, se estará a lo dispuesto en el artículo 67 de este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 343
+
+1. Para los efectos del artículo anterior, el Instituto Federal Electoral comunicará a la Sala Central del Tribunal Federal Electoral las irregularidades en que haya incurrido un partido político.
+
+2. Recibida la comunicación a que se refiere el párrafo anterior, la Sala Central emplazará al partido político para que en el plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes. Sólo se recibirán las pruebas autorizadas por el artículo 327 de este Código y, a juicio de la Sala, la pericial contable. Si la Sala pidiere la pericial, ésta será con cargo al partido político.
+
+3. En todos los casos en que se solicite la intervención de la Sala Central, el Consejo General del Instituto deberá remitirle la información y documentación que obre en su poder.
+
+4. Concluido el plazo a que se refiere el párrafo 2 de este artículo, la Sala resolverá dentro de los quince días siguientes, salvo que por la naturaleza de las pruebas se requiera de una prórroga.
+
+5. La Sala Central tomará en cuenta las circunstancias y la gravedad de la falta al resolver y de ser procedente, para fijar la sanción correspondiente. En caso de reincidencia se aplicará una sanción más severa.
+
+6. Las resoluciones de la Sala serán definitivas e inatacables.
+
+7. Las multas que fije la Sala Central del Tribunal deberán ser pagadas en la Tesorería de la Federación en un plazo improrrogable de quince días contados a partir de la notificación al partido político. En caso de oposición al pago por parte del responsable, se podrá solicitar a la autoridad competente la aplicación del procedimiento económico coactivo.
+
+8. Las sanciones previstas en los incisos b) al e) del párrafo 1 del artículo 342, serán notificadas al Consejo General del Instituto Federal Electoral para su ejecución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO SEGUNDO. De la competencia, de la legitimación y de la personería
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 299
 
-1. Son competentes para resolver el recurso de aclaración durante los dos años anteriores al proceso electoral ordinario, las Juntas Ejecutivas Distritales.
+1. Durante el tiempo que transcurre entre dos procesos electorales federales ordinarios, son competentes para resolver:
 
-2. Son competentes para resolver el recurso de revisión durante los dos años anteriores al proceso electoral, según el caso, las Juntas Ejecutivas Distritales, Locales o General del Instituto.
+a) El recurso de revisión, la Junta Ejecutiva jerárquicamente superior al órgano que haya dictado el acto o resolución impugnado; y
 
-3. Es competente para resolver el recurso de apelación durante los dos años anteriores al proceso electoral la Sala Central del Tribunal.
+b) El recurso de apelación, la Sala Central del Tribunal Federal Electoral.
+
+2. En cualquier tiempo, es competente para conocer de las diferencias o conflictos a que se refiere el párrafo 1 del artículo 298 de este Código, la Sala Central del Tribunal Federal Electoral.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 300
 
-1. Son competentes para resolver el recurso de revisión durante el proceso electoral:
+1. Durante el proceso electoral, son competentes para resolver:
 
-a) El Consejo General del Instituto, respecto de los interpuestos en contra de los actos o resoluciones de los órganos locales del Instituto;
+a) El recurso de revisión, el Consejo del Instituto jerárquicamente superior al órgano que haya dictado el acto o resolución impugnado;
 
-b) Los Consejos Locales del Instituto, respecto de los interpuestos en contra de los actos o resoluciones de los órganos distritales del Instituto; y
+b) Los recursos de apelación e inconformidad, la Sala Central o Regional del Tribunal Federal Electoral que ejerza su jurisdicción sobre la circunscripción plurinominal a la que pertenezca el órgano electoral responsable del acto o resolución impugnado; y
 
-c) Los Consejos Distritales del Instituto, respecto de los interpuestos en contra de los actos o resoluciones de las oficinas municipales del Instituto.
+c) El recurso de reconsideración, la Sala de Segunda Instancia del Tribunal Federal Electoral.
 
-2. Son competentes para resolver el recurso de apelación en la etapa de preparación de la elección, las Salas del Tribual Federal Electoral cuando se interpongan:
-
-a) Contra las resoluciones dictadas por el Consejo General o los Consejos Locales y Distritales del Instituto al decidir sobre los recursos de revisión de su competencia; y
-
-b) Contra actos o resoluciones del Consejo General del Instituto.
-
-3. Son competentes para resolver los recursos de inconformidad, las Salas del Tribunal Federal Electoral respecto de los interpuestos en contra de los resultados consignados en las actas de cómputo distrital por la nulidad de la votación emitida en una o varias casillas para la elección de diputados de mayoría, senador o Presidente de la República, o se solicite la nulidad en un distrito electoral uninominal para diputado de mayoría relativa, la nulidad de una elección en una entidad para senador o la nulidad del cómputo de circunscripción plurinominal para las listas.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 301
 
-1. La interposición de los recursos de revisión, apelación e inconformidad corresponde a los partidos políticos a través de sus representantes legítimos. Los ciudadanos podrán interponer el de revisión o apelación en los casos señalados en este Título.
+1. La interposición de los recursos de revisión, apelación e inconformidad corresponde a los partidos políticos a través de sus representantes legítimos. Las organizaciones o agrupaciones políticas podrán interponer el recurso de apelación a través de sus representantes legítimos sólo en los casos señalados en los artículos 31 párrafo 2, 33 párrafo 6 y 294 párrafo 1 inciso d) de este Código. Los ciudadanos podrán interponer el recurso de apelación en los casos previstos en este Título.
 
-2. La personalidad de los representantes de los partidos políticos se tendrá por acreditada cuando estén registrados formalmente ante los Consejos del Instituto Federal Electoral, para lo cual se acompañará copia del documento en que conste el registro.
+2. Para los efectos del párrafo anterior, son representantes legítimos de los partidos políticos:
 
-3. De igual manera, se considerarán representantes legítimos de los partidos políticos, para los efectos del presente artículo, los miembros de los Comités nacionales, estatales o municipales correspondientes a la cabecera distrital o sus equivalentes. En estos casos, a su primera promoción deberán acompañar documento en que conste su designación de conformidad con los Estatutos respectivos.
+a) Los registrados formalmente ante los órganos del Instituto. En este caso, sólo podrán actuar ante el órgano en el cual estén acreditados;
 
-### CAPITULO TERCERO. De los términos
+b) Los miembros de los comités nacionales, estatales o municipales correspondientes a la cabecera distrital, o sus equivalentes. En este caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido; y
+
+c) Los que estén autorizados para representarlos mediante poder otorgado en escritura pública por los funcionarios del partido facultados estatutariamente para ello.
+
+3. La interposición del recurso de reconsideración, corresponde exclusivamente a los partidos políticos por conducto de:
+
+a) El representante que interpuso el recurso de inconformidad al que le recayó la resolución impugnada;
+
+b) Sus representantes ante los Consejos locales del Instituto Federal Electoral que correspondan a la sede de la Sala del Tribunal cuya resolución se impugna; y
+
+c) Sus representantes ante el Consejo General del Instituto, para impugnar la asignación de diputados según el principio de representación proporcional.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+### CAPITULO TERCERO. De los plazos y de los términos
 
 ARTICULO 302
 
 1. Los recursos de revisión y apelación deberán interponerse dentro de tres días contados a partir del día siguiente en que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. El recurso de inconformidad deberá interponerse:
+
+a) Dentro de los cuatro días contados a partir del día siguiente de que concluya la práctica del cómputo distrital correspondiente, para objetar los resultados contenidos en el acta respectiva, para la elección presidencial, en los casos previstos en las fracciones I y IV del inciso c) párrafo 1 del artículo 295 de este Código;
+
+b) Dentro de los cuatro días contados a partir del día siguiente de que concluya la práctica del cómputo distrital correspondiente, para impugnar la elección de diputados de mayoría relativa, en los casos previstos en las fracciones II y IV del inciso c) del párrafo 1 del artículo 295 de este Código;
+
+c) Dentro de los cuatro días contados a partir del día siguiente de que concluyan los cómputos de entidad federativa, para impugnar la elección de senadores, en los casos previstos en las fracciones III y IV del inciso c) del párrafo 1 del artículo 295 de este Código; y
+
+d) Dentro de los cuatro días contados a partir del día siguiente de que concluyan los cómputos de circunscripción plurinominal, para solicitar la corrección de los resultados consignados en el acta respectiva, por haber mediado error aritmético en los mismos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En todos los casos se deberán identificar las impugnaciones que se formulen a los resultados consignados en las actas de cómputos distritales y de entidad federativa así como, individualmente, las votaciones de las casillas que se pretende sean anuladas de las elecciones de diputados de mayoría, senadores o Presidente de los Estados Unidos Mexicanos y, en su caso, el distrito al que pertenecen. Asimismo, deberá señalarse el error en el cómputo de circunscripción plurinominal.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. El recurso de apelación deberá interponerse por los ciudadanos, dentro de los tres días siguientes al en que se les notifique la determinación de la oficina del Registro Federal de Electores respectiva o al en que venza el plazo a que se refiere el párrafo 5 del artículo 151 de este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 303
 
-1. El recurso de inconformidad deberá interponerse:
+1. El recurso de reconsideración deberá interponerse:
 
-a) Dentro de los tres días contados a partir del día siguiente de que concluya la práctica del cómputo distrital correspondiente, para objetar los resultados contenidos en el acta respectiva por nulidad de la votación en casilla para la elección de diputados de mayoría relativa y de la presidencial o para solicitar la nulidad de la elección de diputado de mayoría relativa en un distrito electoral uninominal;
+a) Dentro de los tres días contados a partir del día siguiente al en que se haya notificado la resolución de fondo impugnada de la Sala Central o Regional; y
 
-b) Dentro de los tres días contados a partir del día siguiente de que concluyan los cómputos de entidad federativa, para impugnar los resultados consignados en el acta respectiva por nulidad de la votación en una o varias casillas de uno o varios distritos y para solicitar la nulidad de la elección de senador; y
+b) Dentro de las cuarenta y ocho horas siguientes, contadas a partir de la conclusión de la sesión en la que el Consejo General del Instituto haya realizado la asignación de diputados por el principio de representación proporcional.
 
-c) Dentro de los tres días contados a partir del día siguiente de que concluyan los cómputos de circunscripción plurinominal, para solicitar la nulidad de resultados consignados en el acta respectiva, por haber mediado dolo o error en el cómputo y esto sea determinante para el resultado de la elección de diputados por el principio de representación proporcional en la circunscripción.
-
-2. En todos los casos se deberán identificar las impugnaciones que se formulan a los resultados consignados en las actas de cómputos distritales y de entidad federativa así como, individualmente, las votaciones de las casillas que se pretende sean anuladas de las elecciones de diputado de mayoría, senador o Presidente de la República y en su caso, el distrito al que pertenecen.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 304
 
-1. En los dos años anteriores al proceso electoral el recurso de aclaración deberá interponerse dentro de los tres días siguientes al que surtió efectos el acto o resolución o del vencimiento del plazo a que se refiere el artículo 151 de este Código, sin que haya dado respuesta el órgano correspondiente del Instituto.
-
-2. En los dos años anteriores al proceso electoral, los recursos de revisión y apelación se regirán por las reglas que tienen establecidas para el proceso electoral.
-
-# LIBRO SEPTIMO. De las nulidades; del Sistema de Medios de Impugnación; y de las Sanciones Administrativas
-
-## TITULO SEGUNDO. Del sistema de medios de impugnación
+1. Durante el tiempo que transcurre entre dos procesos electorales ordinarios, los recursos de revisión y apelación que sean interpuestos se regirán por las reglas que tienen establecidas para el proceso electoral.
 
 ### CAPITULO CUARTO. De las notificaciones
 
@@ -4001,9 +5471,31 @@ ARTICULO 310
 
 1. Las resoluciones de las Salas del Tribunal Federal Electoral recaídas a los recursos de inconformidad, serán notificadas:
 
-a) Al partido político que interpuso el recurso y a los terceros interesados, mediante cédula colocada en los estrados de la Sala, a más tardar al día siguiente de que se dictó la resolución; la cédula se acompañará de copia simple de esta última; y
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
-b) Al Consejo General del Instituto, y a los Colegios Electorales respectivos por conducto de la autoridad competente, la notificación se hará mediante oficio, acompañado de copia certificada del expediente y de la resolución. Esta documentación se entregará a más tardar dentro de las 48 horas siguientes a la fecha de la resolución, en sus respectivos domicilios.
+a) Al partido político que interpuso el recurso y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio ubicado en la ciudad sede de la Sala de que se trate, o por estrados, en caso contrario o en el supuesto de que no se señale domicilio alguno. La notificación se hará a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución;
+
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+
+b) Al Consejo General del Instituto la notificación se hará por oficio, acompañado de copia certificada del expediente y de la resolución, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) En su caso, a la Oficialía Mayor de la Cámara del Congreso de la Unión que corresponda, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Las resoluciones de la Sala de Segunda Instancia del Tribunal Federal Electoral recaídas a los recursos de reconsideración, serán notificadas:
+
+a) Al partido político que interpuso el recurso y a los terceros interesados, personalmente, siempre y cuando hayan señalado domicilio ubicado en el Distrito Federal o en la ciudad sede de la Sala cuya resolución fue impugnada, o por estrados, en caso contrario o en el supuesto de que no se señale domicilio alguno. La notificación se hará a más tardar dentro de los dos días siguientes al en que se dictó la resolución;
+
+b) A la Oficialía Mayor de la Cámara del Congreso de la Unión que corresponda, a más tardar al día siguiente al en que se dictó la resolución; y
+
+c) Al Consejo General del Instituto Federal Electoral, a más tardar al día siguiente al en que se dictó la resolución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. El Tribunal Federal Electoral podrá notificar sus resoluciones a cualquier hora, de conformidad con lo previsto en el párrafo 1 del artículo 297 de este Código.
 
 ARTICULO 311
 
@@ -4021,79 +5513,63 @@ b) La autoridad, que será el órgano del Instituto que realice el acto o dicte 
 
 c) El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
 
-## TITULO TERCERO. De las faltas administrativas y de las sanciones
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-ARTICULO 338
+2. Los candidatos podrán participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
 
-1. El Instituto Federal Electoral conocerá de las infracciones que se cometan a los artículos 131 y 326 de este Código, en los casos en que las autoridades no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del propio Instituto o por el Tribunal Federal Electoral.
+a) Presentarán escritos en los que manifiesten lo que a su derecho convenga, pero no se tomarán en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el recurso o en el escrito que como tercero interesado haya presentado su partido;
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los recursos o, en su caso, para la presentación de los escritos de los terceros interesados;
 
-2. Igualmente el Instituto conocerá de las infracciones y violaciones que a las disposiciones de este Código cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa hasta de 100 días de salario mínimo, en los términos que señale el Estatuto del Servicio Profesional Electoral.
+c) Los escritos deberán ir acompañados del documento en el que conste el registro como candidato del partido político respectivo;
 
-3. Conocida la infracción, el Instituto integrará un expediente, que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley.
+d) Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en este Código, siempre y cuando estén relacionadas con los hechos y agravios invocados en el recurso interpuesto o en el escrito presentado por su partido político; y
 
-4. El superior jerárquico a que se refiere el párrafo anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso.
+e) Los escritos deberán estar firmados autógrafamente.
 
-ARTICULO 339
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-1. El Instituto Federal Electoral conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que el presente Código les impone.
+### CAPITULO SEXTO. De la improcedencia y del sobreseimiento
 
-2. Conocida la infracción, el Instituto integrará un expediente, que remitirá al Colegio de Notarios o autoridad competente, para que proceda en los términos de la legislación aplicable.
-
-3. El Colegio de Notarios o la autoridad competente deberá comunicar al Instituto las medidas que haya adoptado en el caso.
-
-ARTICULO 340
-
-1. El Instituto Federal Electoral conocerá de las infracciones en que incurran los extranjeros que por cualquier forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos.
-
-2. En el caso de que los mismos se encuentren en territorio nacional, procederá a informar de inmediato a la Secretaría de Gobernación para los efectos previstos por la ley.
-
-3. En el caso de que los mismos se encuentren fuera del territorio nacional, procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que hubiere lugar.
-
-ARTICULO 341
-
-1. El Instituto Federal Electoral pondrá en conocimiento de la Secretaría de Gobernación los casos de que tenga conocimiento, en los que ministros de culto religioso induzcan al electorado a votar en favor o en contra de un candidato o partido político, o la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley.
-
-ARTICULO 342
-
-1. Los partidos políticos podrán ser sancionados con multa de 50 a 5 mil veces el salario mínimo general diario vigente para el Distrito Federal cuando incumplan con las resoluciones o acuerdos de los órganos del Instituto Federal Electoral.
-
-ARTICULO 343
-
-1. El Instituto Federal Electoral comunicará a la Sala Central del Tribunal Federal Electoral las irregularidades en que haya incurrido un partido político, para los efectos de la imposición de la multa.
-
-2. La Sala Central emplazará al partido político para que en el plazo de tres días conteste por escrito lo que a su derecho convenga y aporte las pruebas documentales que considere pertinentes. Sólo en casos justificados, a juicio de la Sala, se podrán recibir otro tipo de pruebas.
-
-3. Concluido el plazo a que se refiere el párrafo anterior, la Sala resolverá dentro de los cinco días siguientes, salvo que por la naturaleza de las pruebas se requiera de una prórroga.
-
-4. La Sala Central tomará en cuenta las circunstancias y la gravedad de la falta para fijar el monto de la multa. En caso de reincidencia se aplicará el doble de la multa originalmente fijada.
-
-5. Las resoluciones de la Sala serán definitivas e inatacables.
-
-6. Las multas que fije la Sala Central del Tribunal deberán ser pagadas en la Tesorería de la Federación en un plazo improrrogable de quince días contados a partir de la notificación al partido político.
-
-### CAPITULO SEXTO. De la improcedencia
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 313
 
-1. Los órganos del Instituto que sean competentes y las Salas del Tribunal Federal Electoral podrán desechar de plano los recursos notoriamente improcedentes.
+1. El Secretario del órgano del Instituto que corresponda y la Sala competente del Tribunal Federal Electoral, podrán desechar de plano aquellos recursos que consideren evidentemente frívolos o cuya notoria improcedencia se derive de las disposiciones de este Código.
+
+2. En todo caso, los recursos se entenderán como notoriamente improcedentes, y deberán ser desechados de plano, cuando:
+
+a) No se interpongan por escrito ante el órgano del Instituto o la Sala del Tribunal que realizó el acto, dictó la resolución o realizó el cómputo que se impugna;
+
+b) No estén firmados autógrafamente por quien los promueva;
+
+c) Sean interpuestos por quien no tenga legitimación o interés jurídico en los términos de este Código;
+
+d) Sean presentados fuera de los plazos que señala este Código;
+
+e) No se aporten pruebas en los plazos establecidos en este Código, salvo que se señalen las razones justificadas por las que no obren en poder del promovente. No se requerirá de pruebas cuando el recurso verse en forma exclusiva sobre puntos de Derecho;
+
+f) No se hayan presentado en tiempo los escritos de protesta o no reúnan los requisitos que señala este Código para que proceda el recurso de inconformidad;
+
+g) No se señalen agravios o los que se expongan manifiestamente no tengan relación directa con el acto, resolución o resultado de la elección que se pretende combatir;
+
+h) Se impugne más de una elección con un mismo recurso; e
+
+i) En el recurso de reconsideración, no se hayan agotado previamente en tiempo y forma las instancias de impugnación señaladas en este Código, los agravios no estén debidamente fundados, no resulten determinantes, o no se modifique el resultado de la elección al no actualizarse los presupuestos señalados en el párrafo 2 del artículo 323 de este Código.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ARTICULO 314
 
-1. En todo caso se entenderán como notoriamente improcedentes, y por tanto serán desechados de plano todos aquellos recursos en que:
+1. Procede el sobreseimiento de los recursos:
 
-a) No conste la firma de quien los promueva;
+a) Cuando el promovente desista expresamente;
 
-b) Sean promovidos por quien no tenga personalidad o interés legítimo;
+b) Cuando durante el procedimiento de un recurso de apelación, el ciudadano recurrente fallezca o sea suspendido o privado de sus derechos políticos;
 
-c) Sean presentados fuera de los plazos que señala este Código;
+c) Cuando la autoridad electoral modifique o revoque el acto o la resolución impugnado de tal manera que quede sin materia el recurso; y
 
-d) No se ofrezcan las pruebas correspondientes, o no se aporten en los plazos señalados por este Código, salvo que por razones justificadas no obren en poder del promovente;
-
-e) No se hayan presentado en tiempo los escritos de protesta o no reúnan los requisitos que señala este Código para que proceda el recurso de inconformidad; y
-
-f) No se señalen agravios o los que expongan manifiestamente no tengan relación directa con el acto, resolución o resultado de la elección que se pretende combatir.
+d) Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia en los términos del artículo 313 de este Código.
 
 ### CAPITULO SEPTIMO. De la acumulación
 
@@ -4103,51 +5579,141 @@ ARTICULO 315
 
 2. Las Salas del Tribunal Federal Electoral podrán acumular los expedientes de recursos de inconformidad que a su juicio lo ameriten.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. La Sala de Segunda Instancia del Tribunal Federal Electoral deberá acumular los recursos de reconsideración que a su juicio lo ameriten.
+
 ### CAPITULO OCTAVO. Reglas de procedimiento para los recursos
 
 ARTICULO 316
 
 1. Para la interposición de los recursos se cumplirá con los requisitos siguientes:
 
-a) Deberán presentarse por escrito;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Deberán presentarse por escrito ante el órgano del Instituto o la Sala del Tribunal que realizó el acto o dictó la resolución;
 
 b) Se hará constar el nombre del actor y domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
 
 c) En caso de que el promovente no tenga acreditada la personalidad en el órgano del Instituto ante el que actúa, acompañará los documentos con los que la acredita;
 
-d) Se hará mención expresa del acto o resolución que se impugna y el órgano del Instituto responsable, así como los agravios que el mismo causa;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) Los preceptos legales supuestamente violados, y la relación sucinta de los hechos en que se basa la impugnación;
+d) Mencionar de manera expresa el acto o resolución impugnados y el órgano electoral del Instituto o la Sala del Tribunal que sea responsable;
 
-f) Relación de las pruebas que con la interposición de la impugnación se aportan, mención de las que se habrán de aportar dentro de los plazos legales y solicitud de las que la Sala habrá de requerir, cuando la parte oferente justifique que habiéndolas solicitado por escrito y oportunamente no le fueron entregadas; y
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-g) Todo escrito deberá estar firmado autógrafamente por quien lo promueve.
+e) Mencionar de manera expresa y clara los agravios que cause el acto o resolución impugnado, los preceptos presuntamente violados y los hechos en que se basa la impugnación;
 
-2. En el caso del recurso de inconformidad se deberá señalar claramente:
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-a) El cómputo distrital, de entidad federativa, o de circunscripción plurinominal que se impugna;
+f) Ofrecer las pruebas que junto con el escrito se aporten, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
 
-b) La elección que se impugna;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-c) La mención individualizada de las casillas cuya votación se solicite que se anule en cada caso; y
+g) Hacer constar el nombre y la firma autógrafa del promovente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. En el caso del recurso de inconformidad, además de los requisitos señalados en el párrafo anterior, deberán cumplirse los siguientes:
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) La elección que se impugna, señalando expresamente si se objeta el cómputo, la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas. En ningún caso se podrá impugnar más de una elección con un mismo recurso;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+b) La mención individualizada del acta de cómputo distrital, de entidad federativa o de cómputo de circunscripción plurinominal que se impugna;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+c) La mención individualizada de las casillas cuya votación se solicite que se anule en cada caso y la causal que se invoca para cada una de ellas; y
 
 d) La relación, en su caso, que guarde el recurso con otras impugnaciones.
 
-3. Cuando se omita alguno de los requisitos señalados en los incisos c) al f) del párrafo 1 de este artículo, el órgano del Instituto competente para resolver el recurso o el juez instructor de la Sala del Tribunal competente, requerirá por estrados al promovente para que lo cumpla en un plazo de veinticuatro horas contadas a partir de que se fije en los estrados el requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En el recurso de reconsideración, además de los requisitos señalados en los incisos a) al e) y g) del párrafo 1 de este artículo, se deberá señalar claramente el presupuesto y los razonamientos por los que se aduzca que la resolución puede modificar el resultado de la elección. En el caso del recurso de reconsideración, se entenderá que se modifica el resultado de una elección cuando la resolución que se dicte por la Sala de Segunda Instancia pueda tener por efecto:
+
+a) Anular la elección;
+
+b) Revocar la anulación de la elección;
+
+c) Otorgar el triunfo a un candidato o fórmula distintos;
+
+d) Asignar la senaduría de primera minoría a un candidato o fórmula distintos; o
+
+e) Corregir la asignación de diputados según el principio de representación proporcional realizada por el Consejo General del Instituto Federal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. En los recursos de revisión, apelación e inconformidad:
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+a) Cuando se omita alguno de los requisitos señalados en los incisos c) al e) del párrafo 1 y en los incisos a) al c) del párrafo 2, ambos de este artículo, el secretario del órgano del Instituto o el juez instructor de la Sala competente para resolver, requerirá por estrados al promovente para que lo cumpla en un plazo de cuarenta y ocho horas contadas a partir de la en que se fije en los estrados el requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso, a excepción hecha del supuesto señalado en el párrafo 5 de este artículo;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+b) Cuando se omita el requisito señalado en el inciso f) del párrafo 1 de este artículo, se aplicará la regla del inciso anterior, salvo cuando no habiéndose ofrecido ni aportado prueba alguna, se esté en el caso de que el recurso verse sobre puntos de Derecho;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+c) Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, el órgano del Instituto o la Sala del Tribunal, podrá resolver el recurso tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto; y
+
+d) Cuando exista deficiencia en la argumentación de los agravios pero éstos puedan ser deducidos claramente de los hechos expuestos en el recurso, la Sala no lo desechará y resolverá con los elementos que obren en el expediente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. En el recurso de reconsideración no se aplicarán las reglas establecidas en el párrafo anterior, ni se admitirá prueba alguna que no obre en el expediente respectivo.
 
 ARTICULO 317
 
 1. Los recursos de revisión, de apelación y el de inconformidad se interpondrán ante el órgano del Instituto que realizó el acto o dictó la resolución, dentro de los plazos señalados por este Código.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Los recursos de reconsideración se interpondrán dentro de los plazos señalados por este Código, ante la Sala del Tribunal Federal Electoral que dictó la resolución impugnada o ante el Consejo General del Instituto cuando se impugne la asignación de diputados por el principio de representación proporcional.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En los casos señalados en el inciso g) del párrafo 2 del artículo 49-A, en el párrafo 5 del artículo 158 y en el párrafo 4 del artículo 159, todos de este Código, el recurso de apelación se interpondrá ante el Consejo General del Instituto y se sujetará para su tramitación, sustanciación y resolución a las normas establecidas en este Título. El Secretario del Consejo General podrá solicitar a la comisión de Consejeros prevista en el párrafo 6 del artículo 49 de este Código, los datos o documentos necesarios para rendir el informe circunstanciado o para remitirlos a la Sala Central del Tribunal Federal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados.
+
 ARTICULO 318
 
 1. El órgano del Instituto que reciba un recurso de revisión, apelación o de inconformidad, lo hará de inmediato del conocimiento público mediante cédula que fijará en los estrados.
 
-2. Dentro de las 48 horas siguientes a su fijación, los representantes de los partidos políticos terceros interesados podrán presentar los escritos que consideren pertinentes. Estos escritos deberán cumplir con los requisitos señalados en los incisos a) al c) y g) del párrafo 1 del artículo 316 y deberán precisar la razón del interés jurídico en que se fundan y las pretensiones concretas del promovente.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. Dentro de las cuarenta y ocho horas siguientes a la de su fijación, los representantes de los partidos políticos terceros interesados podrán presentar los escritos que consideren pertinentes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los escritos a que se refiere el párrafo anterior deberán cumplir los requisitos siguientes:
+
+a) Hacer constar el nombre del partido político tercero interesado y el domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+
+b) Exhibir los documentos que acrediten la personería del promovente, cuando no la tenga reconocida ante el órgano electoral responsable;
+
+c) Precisar la razón del interés jurídico en que se fundan y las pretensiones concretas del promovente;
+
+d) Ofrecer las pruebas que junto con el escrito se aportan y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
+
+e) Hacer constar el nombre y la firma autógrafa del promovente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. En el caso del recurso de reconsideración, una vez recibido éste por la Sala cuya resolución hubiese sido impugnada o por el Consejo General del Instituto, se hará del conocimiento público mediante cédula que se fijará en los estrados. Los partidos políticos terceros interesados únicamente podrán formular por escrito los alegatos que consideren pertinentes dentro de las cuarenta y ocho horas siguientes contadas a partir de la fijación de la cédula. La Sala respectiva o el Consejo General, en caso de que se presenten, los turnará de inmediato a la Sala de Segunda Instancia y dará cuenta por la vía más rápida de la conclusión de dicho término.
 
 ARTICULO 319
 
-1. Una vez cumplido el plazo a que se refiere el artículo anterior, el órgano del Instituto que reciba un recurso de revisión, apelación o de inconformidad deberá hacer llegar al órgano del propio Instituto competente o a la Sala del Tribunal Federal Electoral que corresponda dentro de las 24 horas siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Una vez cumplido el plazo a que se refiere el párrafo 2 del artículo anterior, el órgano del Instituto que reciba un recurso de revisión, apelación o de inconformidad deberá hacer llegar al órgano competente del propio Instituto o a la Sala del Tribunal Federal Electoral que corresponda, dentro de las cuarenta y ocho horas siguientes:
 
 a) El escrito mediante el cual se interpone;
 
@@ -4155,41 +5721,89 @@ b) La copia del documento en que conste el acto o resolución impugnados o, si e
 
 c) Las pruebas aportadas;
 
-d) Los demás escritos aportados por terceros interesados;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) Un informe circunstanciado sobre el acto o resolución impugnados, en el que además expresará si el promovente tiene reconocida su personalidad ante el órgano del Instituto;
+d) Los demás escritos de los terceros interesados y de los coadyuvantes;
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+e) Un informe circunstanciado sobre el acto o resolución impugnado;
 
 f) En el caso del recurso de inconformidad, los escritos de protesta que obren en su poder; y
 
 g) Los demás elementos que se estimen necesarios para la resolución.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+2. El informe circunstanciado a que se refiere el inciso e) del párrafo anterior, será rendido por el Secretario de la Junta o por el Secretario del Consejo del Instituto correspondiente y deberá expresar:
+
+a) Si el promovente del recurso o del escrito del tercero interesado, tienen reconocida su personería; y
+
+b) Los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En el caso del recurso de reconsideración, la Sala del Tribunal cuya resolución haya sido impugnada o el Consejo General del Instituto, independientemente del término a que se refiere el párrafo 4 del artículo anterior, remitirá de inmediato a la Sala de Segunda Instancia, el escrito del recurso, sus anexos y el expediente completo en que se haya dictado la resolución respectiva.
+
 ARTICULO 320
 
-1. Recibido un recurso de revisión por el Consejo del Instituto competente, el Presidente lo turnará al Secretario para que certifique que se cumplió con lo establecido en los artículos 302 y párrafo 1 del 316 de este Código. En todo caso, se procederá conforme a lo establecido en la parte final del párrafo 3 del artículo 316 y párrafo 2 del artículo 318 de este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Recibido un recurso de revisión por el Consejo del Instituto competente, el Presidente lo turnará al Secretario para que certifique que se cumplió con lo establecido en los artículos 302 y 316 párrafo 1 de este Código. En todo caso, se procederá conforme a lo establecido en el párrafo 4 del mismo artículo 316.
 
 2. Si el recurso debe desecharse por notoriamente improcedente, o en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al Consejo en la primera sesión que celebre después de su recepción. En dicha sesión deberá dictarse la resolución, misma que será engrosada por el Secretario en los términos en que determine el propio Consejo.
 
 3. Si el órgano del Instituto remitente omitió algún requisito, el Secretario lo hará de inmediato del conocimiento de su Presidente para que éste requiera la complementación de él o los requisitos omitidos, procurando que se resuelva en el término del párrafo anterior. En todo caso, deberá resolverse con los elementos con que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 321
 
-1. Recibido un recurso de apelación por la Sala respectiva del Tribunal Federal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. El recurso de apelación será sustanciado por un juez instructor quien integrará el expediente, y lo turnará al magistrado que corresponda para que presente el proyecto de resolución en la sesión pública correspondiente.
+1. Recibido un recurso de apelación por la Sala respectiva del Tribunal Federal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. El recurso de apelación será sustanciado por un juez instructor quien integrará el expediente, el cual será turnado por el Presidente de la Sala al Magistrado que corresponda para que presente el proyecto de resolución en la sesión pública.
 
 ARTICULO 322
 
-1. El recurso de inconformidad, una vez recibido el expediente por la Sala Competente del Tribunal Federal Electoral será turnado de inmediato a un juez instructor, quien tendrá la obligación de revisar que reúna todos los requisitos señalados en el presente Libro y cumplir con lo dispuesto, en su caso, en el párrafo 3 del artículo 316 de este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Una vez recibido el recurso de inconformidad por la Sala competente del Tribunal Federal Electoral, será turnado de inmediato a un juez instructor, quien tendrá la obligación de revisar que reúna todos los requisitos señalados en el presente Libro y cumplir con lo dispuesto, en su caso, en el párrafo 4 del artículo 316 de este Código.
 
 2. En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o el vencimiento del plazo.
 
-3. Si de la revisión que realice el juez instructor encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 314 de este Código, o es evidentemente frívolo, someterá desde luego, a la consideración de la Sala del Tribunal, el acuerdo para su desechamiento de plano.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Si de la revisión que realice el juez instructor encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el artículo 313 de este Código, o es evidentemente frívolo, someterá desde luego, a la consideración de la Sala del Tribunal, el acuerdo para su desechamiento de plano. En los casos de recursos evidentemente frívolos, la Sala Central del Tribunal, podrá imponer una multa al partido político promovente, en los términos del inciso a) del párrafo 1 del artículo 342 de este Código. Las Salas de Segunda Instancia y Regionales comunicarán inmediatamente a la Sala Central aquellos casos en que, a su juicio, un partido político haya presentado un recurso frívolo.
 
 4. Si el recurso reúne todos los requisitos, el juez instructor dictará el auto de admisión correspondiente, ordenando se fije copia del mismo en los estrados de la Sala del Tribunal.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. El juez instructor realizará todos los actos y diligencias necesarias para la sustanciación de los expedientes de los recursos de inconformidad, de manera que los ponga en estado de resolución.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+6. Sustanciado el expediente del recurso de inconformidad por el juez instructor, será turnado por el Presidente de la Sala al magistrado que corresponda, para que formule el proyecto de resolución y lo someta a la consideración de la Sala.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 323
 
-1. El juez instructor realizará todos los actos y diligencias necesarios para la sustanciación de los expedientes de los recursos de inconformidad, de manera que los ponga en estado de resolución.
+1. Una vez recibido el recurso de reconsideración en la Sala de Segunda Instancia del Tribunal, será turnado al magistrado que corresponda, a efecto de que revise si se acreditan los presupuestos, si se cumplió con los requisitos de procedibilidad y si los agravios pueden traer como consecuencia que se modifique el resultado de la elección respectiva. De no cumplir con cualesquiera de ellos, el recurso será desechado de plano por la Sala. De lo contrario, el magistrado procederá a formular el proyecto de resolución que someterá a la consideración de la Sala en la sesión pública que corresponda.
 
-2. Sustanciado el expediente del recurso de inconformidad por el juez instructor, será turnado por el Presidente de la Sala al magistrado que corresponda, para que formule el proyecto de dictamen y lo someta a la decisión del Pleno de la Sala.
+2. Para el recurso de reconsideración, son presupuestos los siguientes:
+
+a) Que la resolución de la Sala Central o Regional del Tribunal:
+
+I. Haya dejado de tomar en cuenta causales de nulidad previstas por este Código, que hubiesen sido invocadas y debidamente probadas en tiempo y forma, por las cuales se hubiere podido modificar el resultado de la elección; o
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+II. Haya otorgado indebidamente la Constancia de Mayoría y Validez o asignado la primera minoría a una fórmula de candidatos distinta a la que originalmente se le otorgó o asignó; o
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+III. Haya anulado indebidamente una elección.
+
+b) Que el Consejo General del Instituto, haya asignado diputados por el principio de representación proporcional, sin tomar en cuenta las resoluciones que, en su caso, hubieren dictado las Salas del Tribunal; o lo haga contraviniendo las fórmulas establecidas para ello en la Constitución y en este Código.
 
 ARTICULO 324
 
@@ -4217,17 +5831,41 @@ ARTICULO 326
 
 2. Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
 
-3. En casos extraordinarios, el Presidente de la Sala podrá ordenar que se realice alguna diligencia o perfeccione una prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. En casos extraordinarios, el Presidente de la Sala podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Para hacer cumplir sus determinaciones, mantener el buen orden y exigir que se le guarde el respeto y la consideración debidos, el Tribunal Federal Electoral podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
+
+a) Apercibimiento;
+
+b) Amonestación;
+
+c) Multa hasta por cien veces el salario mínimo diario general vigente en el Distrito Federal; y
+
+d) Auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. Los medios de apremio serán aplicados por los Presidentes de las Salas del Tribunal.
 
 ### CAPITULO NOVENO. De las pruebas
 
 ARTICULO 327
 
-1. En materia electoral sólo podrán ser aportadas por las partes pruebas documentales.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. En materia contencioso electoral sólo podrán ser admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran de perfeccionamiento, presuncionales e instrumental de actuaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 2. Para los efectos de este Código serán documentales públicas:
 
-a) Las actas oficiales de los escrutinios y cómputos de las mesas directivas de casilla, así como las de los cómputos distritales y de entidad federativa. Serán actas oficiales las que consten en los expedientes de cada elección;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Las actas oficiales de las mesas directivas de casilla, así como las de los cómputos distritales, de entidad federativa y de circunscripción plurinominal. Serán actas oficiales las originales autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
 
 b) Los demás documentos originales expedidos por los órganos del Instituto o funcionarios electorales, dentro del ámbito de su competencia;
 
@@ -4237,11 +5875,23 @@ d) Los documentos expedidos por quienes estén investidos de fe pública de acue
 
 3. Serán documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y relacionándolos con sus pretensiones.
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Se considerarán pruebas técnicas todos aquellos medios de reproducción de imágenes y que tienen por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+5. Se entiende por prueba presuncional, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en acta levantada ante el fedatario público que las haya recibido directamente de los declarantes y siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 328
 
-1. Las documentales públicas harán prueba plena. Las documentales privadas podrán libremente ser tomadas en cuenta y valoradas por los órganos del Instituto y por las Salas del Tribunal Federal Electoral al resolver los recursos de su competencia, mediante la sana crítica.
+1. Los medios de prueba aportados y admitidos serán valorados por los órganos del Instituto y por las Salas del Tribunal Federal Electoral, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
 
-2. Las documentales privadas y los escritos de los terceros interesados serán estimados como presunciones. Sólo harán prueba plena cuando a juicio de la Sala, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el sano raciocinio de la relación que guardan entre sí, no deje dudas.
+2. Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+
+3. Las documentales privadas, las técnicas, las presuncionales y la instrumental de actuaciones, sólo harán prueba plena cuando a juicio de los órganos del Instituto o de las Salas del Tribunal Federal Electoral, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
 ARTICULO 329
 
@@ -4263,7 +5913,13 @@ ARTICULO 331
 
 2. Los recursos de apelación serán resueltos por mayoría simple de los integrantes de las Salas del Tribunal dentro de los seis días siguientes a aquel en que se admitan.
 
-3. Los recursos de inconformidad serán resueltos por la mayoría simple de los integrantes de las Salas del Tribunal, en el orden en que sean listados para cada sesión, salvo que la Sala acuerde su modificación. Los recursos de inconformidad deberán ser resueltos en su totalidad a más tardar seis días antes de la instalación de los colegios electorales respectivos.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+3. Los recursos de inconformidad serán resueltos por mayoría simple de los integrantes de las Salas del Tribunal, en el orden en que sean listados para cada sesión, salvo que la Sala acuerde su modificación. Todos los recursos deberán quedar resueltos a más tardar el día 10 de agosto del año del proceso electoral, pero los que se refieran a las elecciones de diputados deberán ser resueltos a más tardar el día 5 del mismo mes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+4. Los recursos de reconsideración serán resueltos por mayoría simple de los integrantes de la Sala de Segunda Instancia, en el orden en el que sean listados para cada sesión, salvo que la Sala acuerde su modificación. Los recursos de reconsideración que se refieran a elecciones de diputados por el principio de mayoría relativa o por los que se impugne un cómputo de circunscripción plurinominal deberán ser resueltos a más tardar el 19 de agosto del mismo año; los demás recursos deberán ser resueltos a más tardar tres días antes al en que se instalen las Cámaras del Congreso de la Unión.
 
 ARTICULO 332
 
@@ -4289,51 +5945,55 @@ f) Los puntos resolutivos; y
 
 g) En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 ARTICULO 334
 
-1. Las resoluciones que recaigan a los recursos de aclaración, revisión y apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+1. Las resoluciones que recaigan a los recursos de revisión y apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
 
-2. Las resoluciones que recaigan a los recursos de apelación serán definitivas e inatacables, salvo el caso previsto en el párrafo 1 del artículo 332 de este Código.
+2. Las resoluciones que recaigan a los recursos de apelación serán definitivas e inatacables.
 
 ARTICULO 335
 
 1. Las resoluciones de fondo del Tribunal Federal Electoral que recaigan a los recursos de inconformidad podrán tener los siguientes efectos:
 
-a) Confirmar los resultados consignados en las actas de cómputo distrital, local o de circunscripción plurinominal;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Confirmar el acto impugnado;
 
 b) Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en el artículo 287 de este Código y modificar, en consecuencia, el acta de cómputo distrital respectiva para la elección de diputado de mayoría; y en su caso, el o las actas de cómputo distrital y el acta de cómputo de entidad federativa para la elección de senadores;
 
 c) Revocar la constancia de mayoría expedida en favor de una fórmula de candidatos a diputados o senadores por los consejos distritales o locales competentes; otorgarla a la fórmula de candidatos que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas en uno o, en su caso, de varios distritos; y modificar, en consecuencia, las actas de cómputo distrital y de entidad federativa respectivas;
 
-d) Declarar la nulidad de la elección y revocar la constancia de mayoría expedida por el Consejo Distrital o Local, cuando se den los supuestos de nulidad previstos en los artículos 288 y 289 de este Código;
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-e) Declarar la nulidad del cómputo de circunscripción plurinominal de la elección de diputados por el principio de representación proporcional cuando se dé el supuesto previsto en el inciso c) del párrafo 1 del artículo 303 de este Código; y
+d) Revocar la constancia expedida en favor de una fórmula o candidato a diputado o senador por los Consejos Distritales o Locales competentes; otorgarla al candidato o fórmula de candidatos que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas en uno o, en su caso, de varios distritos; y modificar, en consecuencia, las actas de cómputo distrital y de entidad federativa respectivas;
 
-f) Declarar la nulidad de la votación emitida en una o varias casillas para la elección presidencial cuando se den los supuestos de nulidad previstos en el artículo 287 de este Código; y modificar, en consecuencia, el acta de cómputo distrital respectiva.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-ARTICULO 336
+e) Declarar la nulidad de la elección y revocar las constancias expedidas por los Consejos Distritales o Locales cuando se den los supuestos de nulidad previstos en los artículos 288, 289, o 290 párrafo 2 de este Código;
 
-1. La Salas del Tribunal Federal Electoral sólo pueden declarar la nulidad de la votación en una o varias casillas o la nulidad de una elección de diputado por mayoría relativa o de senador o la del cómputo de circunscripción plurinominal con fundamento en las causales señaladas en este Código.
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-ARTICULO 337
+f) Declarar la nulidad de la votación emitida en una o varias casillas para la elección presidencial cuando se den los supuestos de nulidad previstos en el artículo 287 de este Código y modificar, en consecuencia, el acta de cómputo distrital respectiva; y
 
-1. Los criterios fijados en las resoluciones de la Sala Central serán obligatorios en los siguientes casos:
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-a) Cuando se hayan resuelto tres recursos iguales en el mismo sentido; y
+g) Hacer la corrección de los cómputos distritales de la elección presidencial, de diputados de mayoría, de los cómputos de entidad federativa y de los cómputos de circunscripción plurinominal cuando sean impugnados por error aritmético.
 
-b) Cuando se resuelva en contradicción de criterios sustentados por dos o más Salas del Tribunal.
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-2. La contradicción de criterios podrá ser planteada por una Sala, por un magistrado de cualquier Sala o por las partes.
+2. En los supuestos a que se refieren los incisos b), c) y e) del párrafo anterior, las Salas del Tribunal podrán modificar el acta o las actas de cómputo respectivas en la sección de ejecución que para tal efecto abran al resolver el último de los recursos que se hubiere interpuesto en contra de la misma elección, en el mismo distrito electoral uninominal o entidad federativa.
 
-3. Recibida en la Sala Central la solicitud a que se refiere el párrafo anterior, el Presidente turnará el asunto al magistrado que corresponda, para que formule el proyecto de resolución sobre la contradicción de criterios, mismo que será presentado a discusión en sesión pública en la que se seguirán las reglas señaladas en el artículo 324 de este Código.
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-4. La contradicción de criterios podrá plantearse en cualquier momento y el que prevalezca será obligatorio a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad.
+3. Cuando en la sección de ejecución, por efecto de la acumulación de las resoluciones de los distintos recursos, se actualicen los supuestos de nulidad previstos en los artículos 288 ó 289 de este Código, la Sala competente del Tribunal decretará lo conducente, aun cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
 
-5. El Presidente del Tribunal Federal Electoral notificará a las Salas de inmediato los criterios definidos a que se refieren los incisos a) y b) del párrafo I de este artículo y los mandará publicar por estrados. Las Salas estarán obligadas a aplicarlos a partir del momento de su notificación.
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-6. Los criterios fijados por la Sala Central dejarán de tener carácter obligatorio, siempre que se pronuncie en contrario por mayoría de cuatro votos de los integrantes del Pleno de la Sala. En la resolución que modifique un criterio obligatorio se expresarán las razones en que se funde el cambio. El nuevo criterio será obligatorio si se da cualquiera de los supuestos señalados en los incisos a) y b) del párrafo 1 de este artículo.
+4. Las resoluciones que recaigan a los recursos de inconformidad que no sean impugnadas en tiempo y forma, serán definitivas e inatacables.
 
-7. La Sala Central hará la publicación de los criterios obligatorios que fije dentro de los seis meses siguientes a la conclusión de los procesos electorales federales ordinarios.
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 ### CAPITULO PRIMERO. De los Requisitos de Elegibilidad
 
@@ -4356,6 +6016,146 @@ f) No ser senador o diputado federal o local de alguna entidad federativa, a men
 ARTICULO 348
 
 1. Los candidatos a diputado federal, senador o Presidente de los Estados Unidos Mexicanos, no podrán ser registrados como candidatos a representantes a la Asamblea del Distrito Federal.
+
+###### ARTICULO 335
+
+ARTICULO 335-A
+
+1. Las resoluciones de fondo del Tribunal Federal Electoral que recaigan a los recursos de reconsideración podrán tener los siguientes efectos:
+
+a) Confirmar el acto o resolución impugnado;
+
+b) Modificar o revocar la resolución impugnada en los términos de los incisos b) al f) del párrafo 1 del artículo anterior, cuando se dé uno de los presupuestos previstos en el inciso a) del párrafo 2 del artículo 323 de este Código; y
+
+c) Modificar la asignación de diputados electos por el principio de representación proporcional que realice el Consejo General del Instituto de conformidad con los presupuestos previstos en el inciso b) del párrafo 2 del artículo 323 de este Código.
+
+2. Las resoluciones que recaigan a los recursos de reconsideración serán definitivas e inatacables.
+
+ARTICULO 336
+
+1. La Salas del Tribunal Federal Electoral sólo pueden declarar la nulidad de la votación en una o varias casillas o la nulidad de una elección de diputado por mayoría relativa o de senador o la del cómputo de circunscripción plurinominal con fundamento en las causales señaladas en este Código.
+
+ARTICULO 337
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+1. Los criterios fijados por las Salas de Segunda Instancia y Central sentarán jurisprudencia en los siguientes casos:
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+a) Cuando se sustenten en el mismo sentido en tres resoluciones; y
+
+b) Cuando se resuelva en contradicción de criterios sustentados por dos o más Salas del Tribunal.
+
+2. La contradicción de criterios podrá ser planteada por una Sala, por un magistrado de cualquier Sala o por las partes.
+
+3. Recibida en la Sala Central la solicitud a que se refiere el párrafo anterior, el Presidente turnará el asunto al magistrado que corresponda, para que formule el proyecto de resolución sobre la contradicción de criterios, mismo que será presentado a discusión en sesión pública en la que se seguirán las reglas señaladas en el artículo 324 de este Código.
+
+4. La contradicción de criterios podrá plantearse en cualquier momento y el que prevalezca será obligatorio a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad.
+
+5. El Presidente del Tribunal Federal Electoral notificará a las Salas de inmediato los criterios definidos a que se refieren los incisos a) y b) del párrafo I de este artículo y los mandará publicar por estrados. Las Salas estarán obligadas a aplicarlos a partir del momento de su notificación.
+
+6. Los criterios fijados por la Sala Central dejarán de tener carácter obligatorio, siempre que se pronuncie en contrario por mayoría de cuatro votos de los integrantes del Pleno de la Sala. En la resolución que modifique un criterio obligatorio se expresarán las razones en que se funde el cambio. El nuevo criterio será obligatorio si se da cualquiera de los supuestos señalados en los incisos a) y b) del párrafo 1 de este artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+7. Cuando un criterio sostenido por la Sala de Segunda Instancia sea contradictorio al establecido como obligatorio por la Sala Central, prevalecerá el de aquélla con carácter de jurisprudencia.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+8. La Sala Central hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+CAPITULO DECIMOPRIMERO
+
+De los Procedimientos Especiales
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 337
+
+ARTICULO 337-A
+
+1. Las diferencias o conflictos entre el Instituto Federal Electoral y sus servidores serán resueltas por la Sala Central del Tribunal Federal Electoral conforme al siguiente procedimiento:
+
+a) El servidor del Instituto Federal Electoral que hubiese sido sancionado o destituido de su cargo, podrá inconformarse mediante demanda que presente directamente ante la Sala Central del Tribunal Federal Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto Federal Electoral;
+
+b) Es requisito de procedibilidad en este caso, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca el Estatuto del Servicio Profesional Electoral;
+
+c) El escrito de demanda por el que se inconforme el servidor, deberá reunir los requisitos siguientes:
+
+I. Señalar nombre completo y domicilio para oír notificaciones;
+
+II. Señalar el acto o resolución que se impugna;
+
+III. Expresar los agravios causados por el acto o resolución que se impugna;
+
+IV. Expresar las consideraciones de hecho y de derecho en que se funda la impugnación;
+
+V. Ofrecer las pruebas en el escrito con el que se inconforme y acompañar las documentales; y
+
+VI. Asentar la firma autógrafa del promovente.
+
+d) Son partes en el procedimiento el servidor afectado por el acto o resolución y el Instituto Federal Electoral. El promovente deberá actuar personalmente o por conducto de apoderado y el Instituto Federal Electoral lo hará por conducto de sus representantes legales;
+
+e) Presentado el escrito a que se refiere el inciso c) anterior, se correrá traslado en copia certificada al Instituto Federal Electoral, dentro de los tres días hábiles siguientes al de su presentación;
+
+f) El Instituto Federal Electoral deberá contestar dentro de los diez días hábiles siguientes al en que se le notifique la presentación del escrito del promovente;
+
+g) Se celebrará una audiencia de conciliación, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes al en que se reciba la contestación del Instituto Federal Electoral;
+
+h) La Sala Central determinará libremente la admisión de las pruebas y su desahogo, y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
+
+i) La Sala Central resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el inciso g) de este artículo. En este caso, la Sala Central podrá sesionar en privado si la índole del conflicto planteado así lo amerita. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
+
+j) Los efectos de la resolución de la Sala Central podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnada. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Instituto Federal Electoral, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 337
+
+B
+
+1. Las diferencias o conflictos entre el Tribunal Federal Electoral y sus servidores se sujetarán al siguiente procedimiento y a lo que disponga el Reglamento Interior del Tribunal:
+
+a) El servidor sancionado, se podrá inconformar ante el Pleno del Tribunal, por escrito, dentro de los cinco días hábiles siguientes al en que se le notifique la sanción, remoción o cese;
+
+b) Se formará una Comisión instructora, integrada con dos magistrados y un juez instructor que serán nombrados cada tres años por el Pleno, la cual realizará todas las diligencias necesarias para poner el asunto en estado de resolución, en un plazo no mayor de quince días hábiles contados a partir del en que se le turne la documentación correspondiente;
+
+c) La Comisión instructora someterá al Pleno el proyecto de resolución en un plazo no mayor a cinco días hábiles contados a partir del día siguiente al en que venza el señalado en el inciso anterior; y
+
+d) El Pleno resolverá en la misma sesión en que conozca del proyecto de resolución, salvo que ordene que se realicen diligencias adicionales. La resolución será definitiva e inatacable.
+
+## TITULO PRIMERO. Disposiciones Preliminares
+
+ARTICULO 344
+
+1. La elección de los miembros de la Asamblea de Representantes del Distrito Federal, se rige por las disposiciones de este Código, en lo que no se opongan a lo dispuesto en el presente Libro.
+
+ARTICULO 345
+
+1. La Asamblea se integrará por 66 representantes electos en votación directa y secreta de los ciudadanos que residan en el Distrito Federal.
+
+2. El derecho de elegir representantes a la Asamblea corresponde a los ciudadanos residentes en el Distrito Federal.
+
+3. Es obligación de los ciudadanos residentes en el Distrito Federal desempeñar el cargo de miembros de la Asamblea para el que sean electos.
+
+ARTICULO 346
+
+1. La demarcación de los 40 distritos electorales uninominales para la elección de los miembros de la Asamblea, será la misma en que se divide el territorio del Distrito Federal para la elección de los diputados federales al Congreso de la Unión, electos por el principio de mayoría relativa.
+
+2. En caso de que el número de diputados federales a que se refiere el párrafo anterior no coincidiera con el número de representantes, el Consejo General de Instituto Federal Electoral, hará la revisión correspondiente.
+
+3. Para la elección de los 26 representantes de la Asamblea por el principio de representación proporcional, se constituye una circunscripción plurinominal que será el territorio del Distrito Federal.
+
+###### ARTICULO 343
+
+ARTICULO 343-A
+
+1. A quien viole las disposiciones de este Código sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se le podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más. En la determinación y, en su caso, aplicación de la multa, se seguirá en lo conducente el procedimiento señalado en el artículo 343 de este Código.
+
+# LIBRO OCTAVO. De la Elección e Integración de la Asamblea de Representantes del Distrito Federal
 
 ### CAPITULO SEGUNDO. De los Partidos Políticos
 
@@ -4535,30 +6335,6 @@ ARTICULO 371
 
 2. Dicha asignación se hará antes de atribuir representantes a los partidos que tuviesen derecho por la aplicación de la fórmula de proporcionalidad simple.
 
-## TITULO PRIMERO. Disposiciones Preliminares
-
-ARTICULO 344
-
-1. La elección de los miembros de la Asamblea de Representantes del Distrito Federal, se rige por las disposiciones de este Código, en lo que no se opongan a lo dispuesto en el presente Libro.
-
-ARTICULO 345
-
-1. La Asamblea se integrará por 66 representantes electos en votación directa y secreta de los ciudadanos que residan en el Distrito Federal.
-
-2. El derecho de elegir representantes a la Asamblea corresponde a los ciudadanos residentes en el Distrito Federal.
-
-3. Es obligación de los ciudadanos residentes en el Distrito Federal desempeñar el cargo de miembros de la Asamblea para el que sean electos.
-
-ARTICULO 346
-
-1. La demarcación de los 40 distritos electorales uninominales para la elección de los miembros de la Asamblea, será la misma en que se divide el territorio del Distrito Federal para la elección de los diputados federales al Congreso de la Unión, electos por el principio de mayoría relativa.
-
-2. En caso de que el número de diputados federales a que se refiere el párrafo anterior no coincidiera con el número de representantes, el Consejo General de Instituto Federal Electoral, hará la revisión correspondiente.
-
-3. Para la elección de los 26 representantes de la Asamblea por el principio de representación proporcional, se constituye una circunscripción plurinominal que será el territorio del Distrito Federal.
-
-# LIBRO OCTAVO. De la Elección e Integración de la Asamblea de Representantes del Distrito Federal
-
 ### CAPITULO SEXTO. Del Sistema de Medios de Impugnación
 
 ARTICULO 372
@@ -4684,3 +6460,151 @@ D.O.F. 17 DE JULIO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE SEPTIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, salvo lo dispuesto en el Decreto publicado en el Diario Oficial de la Federación de 17 de julio de 1992.
+
+###### ARTICULO TERCERO.
+
+En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría de las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 al 31 de agosto del año 2000. Para esta elección los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
+
+En la elección federal de 1997, se elegirá a la Legislatura LVII un senador según el principio de mayoría relativa, quien durará en funciones del 1o. de noviembre de 1997 al 31 de agosto del año 2000. Para esta elección los partidos políticos deberán registrar una lista con una fórmula de candidatos en cada entidad federativa.
+
+###### ARTICULO CUARTO.
+
+Los diputados que se elijan a la LVI Legislatura del Congreso de la Unión durarán en funciones del 1o. de noviembre de 1994 al 31 de agosto de 1997.
+
+###### ARTICULO QUINTO.
+
+La elección federal para integrar la LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión, se realizará con base en la distribución de los distritos uninominales y las cinco circunscripciones plurinominales en que se dividió el país para el proceso electoral federal de 1991. Para la elección federal de 1997, por la que se integrará la LVII Legislatura, se hará la nueva distribución de distritos uninominales con base en los resultados definitivos del censo general de población de 1990.
+
+###### ARTICULO SEXTO.
+
+Los partidos políticos deberán realizar la modificación a sus estatutos prevista en el artículo 27, inciso c) fracción IV, de este Código, a más tardar dentro de los ciento veinte días siguientes a que entre en vigor el presente Decreto.
+
+En tanto se modifican los estatutos de acuerdo con el párrafo anterior, los partidos políticos deberán notificar por escrito al Instituto Federal Electoral, dentro de los treinta días siguientes a que entren en vigor estas reformas, el nombre del órgano que provisionalmente se hará cargo de la administración de su patrimonio y recursos financieros.
+
+###### ARTICULO SEPTIMO.
+
+El financiamiento público a que se refiere el artículo 49, párrafo 7 inciso e), se entregará a los partidos políticos a partir del año de 1994. Los informes a que se refieren los incisos a) y b) del párrafo 1 del artículo 49-A de este Código, deberán ser presentados por los partidos políticos dentro de los plazos señalados a tal efecto, por las campañas del año de 1994, y el informe anual, a partir del propio año de 1994.
+
+###### ARTICULO OCTAVO.
+
+El proceso electoral federal del año de 1994 para diputados, senadores y Presidente de los Estados Unidos Mexicanos, iniciará en la primera semana del mes de enero de ese año, ajustándose las fechas que señala este Código para su desarrollo en dos meses con posterioridad a las señaladas en este propio ordenamiento.
+
+Quedan exceptuadas de la regla establecida en el párrafo anterior:
+
+I. La fecha señalada en el párrafo primero del artículo 19, corresponderá al tercer domingo de agosto;
+
+II. El plazo señalado en el párrafo 1 del artículo 146 de este Código; comprenderá los meses de enero y febrero;
+
+III. La fecha señalada en el párrafo 1 del artículo 147 de este Código, corresponderá al día último de febrero;
+
+IV. El plazo señalado en la parte primera del párrafo 2 del artículo 147 de este Código, comprenderá del 1o. de marzo al día en que se celebren los comicios; y la fecha señalada en la parte final de este propio párrafo, corresponderá al día último de febrero;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+V. La fecha señalada en la primera parte del párrafo 3 del artículo 151 de este Código corresponderá al último día de febrero; la fecha señalada en la parte final del propio párrafo, corresponderá al 1o. de mayo;
+
+VI. La fecha señalada en el párrafo 1 del artículo 154 de este Código, corresponderá al 17 de julio;
+
+VII. La fecha señalada en el párrafo 1 del artículo 156 de este Código, corresponderá al 1o. de abril;
+
+VIII. La fecha señalada en el párrafo 1 del artículo 157 de este Código, corresponderá al 5 de mayo;
+
+IX. La fecha señalada en el párrafo 2 del artículo 157 de este Código, corresponderá al 9 de mayo;
+
+X. La primera fecha señalada en el párrafo 1 del artículo 159 de este Código, corresponderá al 1o. de abril; la segunda fecha señalada en este propio párrafo, corresponderá al día último de febrero; el plazo señalado en la segunda parte de ese mismo párrafo, concluirá igualmente el último día de febrero; y finalmente, la última fecha señalada en el párrafo citado, corresponderá al 1o. de abril;
+
+XI. La fecha señalada en el párrafo 3 del artículo 159 de este Código, corresponderá al 15 de mayo;
+
+XII. La fecha señalada en el párrafo 3 del artículo 164 de este Código, corresponderá al 15 de junio;
+
+XIII. La fecha señalada en el párrafo 4 del artículo 174 de este Código, corresponderá al tercer domingo de agosto;
+
+XIV. El plazo señalado en el párrafo 2 del artículo 176 de este Código, comprenderá los últimos diez días del mes de febrero;
+
+XV. Los plazos señalados en el párrafo 1 del artículo 177 de este Código, comprenderán:
+
+a) Para el registro de diputados electos por el principio de mayoría relativa, del 15 al 31 de mayo inclusive;
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+b) Para diputados electos por el principio de representación proporcional, del 1o. al 15 de junio inclusive;
+
+c) Para senadores, del 1o. al 15 de mayo inclusive; y
+
+d) Para Presidente de los Estados Unidos Mexicanos, del 1o. al 15 de marzo inclusive;
+
+XVI. El plazo señalado en la primera parte del inciso a) del párrafo 1 del artículo 193 de este Código, comprenderá el mes de abril; y la fecha señalada en el propio inciso corresponderá el día último de febrero;
+
+XVII. El plazo señalado en el inciso c) del párrafo 1 del artículo 193 de este Código, comprenderá el mes de mayo;
+
+XVIII. El plazo señalado en el inciso d) del párrafo 1 del artículo 193 de este Código, comprenderá el mes de junio;
+
+XIX. La fecha señalada en el inciso e) del párrafo 1 de artículo 193 de este Código, corresponderá a la última semana del mes de junio;
+
+XX. La fecha señalada en el inciso f) del párrafo 1 del artículo 193 de este Código, corresponderá al 1o. de julio;
+
+XXI. La fecha señalada en el inciso e) del párrafo 1 del artículo 195 de este Código, corresponderá al 1o. de julio;
+
+XXII. El plazo señalado en el inciso f) del párrafo 1 de artículo 195 de este Código, comprenderá los diez primeros días de agosto;
+
+XXIII. La fecha señalada en el párrafo 1 del artículo 212 de este Código, corresponderá al tercer domingo de agosto; y
+
+XXIV. La semana señalada en el párrafo 1 del artículo 268 de este Código, para la instalación de la Sala de Segunda Instancia, corresponderá a la última semana de agosto.
+
+###### ARTICULO NOVENO.
+
+La Dirección Ejecutiva del Registro Federal de Electores deberá poner a disposición de los ciudadanos los formatos a que se refieren los párrafos 4 y 6 del artículo 151, a más tardar dentro de los treinta días siguientes a que entre en vigor el presente Decreto.
+
+###### ARTICULO DECIMO.
+
+Para los efectos del artículo 163 y por lo que se refiere a los ciudadanos que habiéndose inscrito en el Padrón Electoral durante los años de 1991 y 1992, no acudan a las oficinas o módulos del Instituto Federal Electoral a obtener su Credencial para Votar con fotografía, a más tardar el 30 de noviembre de 1993, la Dirección del Registro Federal de Electores procederá a cancelar las respectivas solicitudes conforme a lo siguiente:
+
+a) La Dirección Ejecutiva del Registro Federal de Electores elaborará las relaciones con los nombres de los ciudadanos cuya solicitud haya sido cancelada, ordenándolas por sección electoral y alfabéticamente, a fin de que sean entregadas a los representantes de los partidos políticos acreditados ante las Comisiones Distritales, Locales y Nacional de Vigilancia, según corresponda, a más tardar el día 31 de diciembre de 1993 para su conocimiento y observaciones;
+
+b) Dichas relaciones serán exhibidas del 1o. de enero al 28 de febrero de 1994, en las oficinas y módulos del Instituto Federal Electoral y en los lugares públicos de las secciones electorales que previamente determinen las Comisiones Distritales de Vigilancia, a fin de que surtan efectos de notificación por estrados a los ciudadanos interesados y éstos tengan la posibilidad de solicitar nuevamente su inscripción en el Padrón Electoral durante la campaña intensa a que se refiere el párrafo 1 del artículo 146 de este Código, o en su caso, de interponer el recurso previsto en el párrafo 6 del artículo 151 de este propio ordenamiento; y
+
+c) Los formatos de las credenciales de los ciudadanos cuya solicitud de inscripción en el Padrón Electoral sean cancelados en los términos de este artículo, serán destruidos ante las respectivas Comisiones de Vigilancia, a más tardar el día 28 de febrero de 1994. En todo caso, el ciudadano que se encuentre en el supuesto previsto en este artículo, podrá solicitar nuevamente su inscripción en el Padrón Electoral en los términos y plazos previstos en los artículos 146 y 147 de este Código.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Para efectos de la elección de los magistrados de la Sala de Segunda Instancia del Tribunal Federal Electoral a que se refiere el párrafo 3 del artículo 269, la Presidencia de la Suprema Corte de Justicia hará llegar a la Cámara de Diputados o a la Comisión Permanente del Congreso de la Unión, la lista de candidatos correspondiente, dentro de los treinta días siguientes a que entre en vigor el presente Decreto.
+
+> <small>(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Permanecerán en sus cargos los actuales magistrados del Tribunal Federal Electoral electos por la Cámara de Diputados del Congreso de la Unión, según Decreto publicado en el Diario Oficial de la Federación el 3 de octubre de 1990.
+
+###### ARTICULO DECIMO TERCERO.
+
+Los criterios obligatorios sostenidos por la Sala Central del Tribunal Federal Electoral, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en el presente Decreto.
+
+###### ARTICULO DECIMO CUARTO.
+
+El Reglamento Interior del Tribunal Federal Electoral deberá ser expedido a más tardar un día antes de que inicie el proceso electoral federal de 1994. En tanto, se observarán en lo conducente las disposiciones reglamentarias en vigor.
+
+###### ARTICULO DECIMO QUINTO.
+
+Continuarán vigentes en sus términos, los artículos transitorios decimoséptimo y decimoctavo de este Código, adicionados por Decreto publicado en el Diario Oficial de la Federación el 17 de julio de 1992.
+
+###### ARTICULO DECIMO SEXTO.
+
+Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de Hacienda y Crédito Público, se realicen las transferencias presupuestales necesarias, a efecto de que el Instituto Federal Electoral y el Tribunal Federal Electoral puedan cumplir con las obligaciones y llevar a cabo las nuevas actividades que las presentes reformas y adiciones les imponen.
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Por lo que se refiere a los requisitos que establecen los artículos 88, párrafo 1, incisos c) al i); 103 párrafo 1, inciso d) y 114 párrafo 1, inciso e), así como por cuanto a los supuestos previstos en los artículos 82 párrafo 1, incisos d) y e) y 105 párrafo 1 inciso c), éstos no serán aplicables a los actuales Director General, Secretario General, Directores Ejecutivos y consejeros ciudadanos de los Consejos Locales y Distritales del Instituto Federal Electoral. De igual forma, y para el proceso electoral federal de 1994, no se aplicará a estos funcionarios la hipótesis prevista en el inciso e) del párrafo 1 del artículo 7 de este Código.
+
+###### ARTICULO DECIMO OCTAVO.
+
+En cada uno de los Consejos Locales y Distritales quedarán vacantes, durante el proceso electoral de 1994, los cargos de tres consejeros ciudadanos de los nueve a que se refieren los párrafos 1 de los artículos 102 y 113.
