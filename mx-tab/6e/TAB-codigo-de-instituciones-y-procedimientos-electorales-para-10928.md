@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-instituciones-y-procedimientos-electorales-para-10928
 country: "mx"
 rank: "codigo"
 publication_date: "1996-12-28"
-last_updated: "2002-11-29"
+last_updated: "2002-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 28 de diciembre de 1996.
 
@@ -1373,9 +1373,11 @@ La retribución que reciban el Consejero Presidente y los Consejeros Electorales
 
 Durante el tiempo de su nombramiento el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo no podrán, en ningún caso aceptar o desempeñar empleo o cargo de la Federación, Estados, Municipios o partidos políticos. El Presidente y los Consejeros Electorales del Consejo Estatal, podrán recibir percepciones derivadas de la docencia, de la práctica libre de su profesión, de regalías, de derecho de autor o publicaciones, siempre y cuando no afecte la independencia, imparcialidad y equidad que deben regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, culturales, literarias, de investigación o de beneficencia.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 103.
 
-El Consejo Estatal se reunirá a más tardar la última semana del mes de marzo del año en que se lleven a cabo las elecciones estatales ordinarias, con el objeto de instalarse y convocar a los partidos políticos para que acrediten a sus representantes ante el mismo; a partir de esa fecha y hasta que termine el proceso, el Consejo sesionará por lo menos una vez al mes y posteriormente se reunirá cuando convoque el Presidente.
+El Consejo Estatal se reunirá el día 15 del mes de marzo del año en que se lleven a cabo las elecciones estatales ordinarias, con el objeto de instalarse y convocar a los partidos políticos para que acrediten a sus representantes ante el mismo; a partir de esa fecha y hasta que termine el proceso, el Consejo sesionará por lo menos una vez al mes y posteriormente se reunirá cuando convoque el Presidente.
 
 ###### Artículo 104.
 
@@ -2303,9 +2305,11 @@ El proceso electoral es el conjunto de actos previstos por la Constitución y es
 
 Previo a que se inicie el proceso electoral, el Consejo Estatal del Instituto, determinará el ámbito territorial de cada una de las circunscripciones plurinominales, el número de Diputados por el principio de representación proporcional, que deban elegirse en cada una de ellas, así como, en su caso, la demarcación territorial de los distritos uninominales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 168.
 
-El proceso electoral ordinario de las elecciones para Gobernador del Estado, Diputados, Presidentes Municipales y Regidores por ambos principios, se inicia en el mes de marzo del año de la elección ordinaria y concluye con la declaratoria de validez de las elecciones por los órganos electorales respectivos. En caso de promoverse recurso alguno, la conclusión será a partir de que la resolución respectiva hubiese causado ejecutoria.
+El proceso electoral ordinario de las elecciones para Gobernador del Estado, Diputados, Presidentes Municipales y Regidores por ambos principios, se inicia el día 15 de marzo del año de la elección ordinaria y concluye con la declaratoria de validez de las elecciones por los órganos electorales respectivos. En caso de promoverse recurso alguno, la conclusión será a partir de que la resolución respectiva hubiese causado ejecutoria.
 
 Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -4366,3 +4370,13 @@ Los archivos, bienes y recursos del actual Tribunal Electoral de Tabasco, serán
 ###### ARTÍCULO OCTAVO.
 
 Por esta única ocasión el Ejecutivo Estatal efectuará las previsiones presupuestales necesarias que le serán asignadas para el ejercicio de sus funciones correspondientes al año 2003, al Tribunal Electoral de Tabasco, tomando en cuenta que se trata de años electorales y las disposiciones conferidas en el presente decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
