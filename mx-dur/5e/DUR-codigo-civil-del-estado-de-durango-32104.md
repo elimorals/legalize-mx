@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1948-12-12"
+last_updated: "1969-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1969.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1225,7 +1225,7 @@ II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyend
 
 III.- Que el presunto padre tenga la edad exigida por el artículo 356.
 
-ART. 339.- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+ART. 339 .- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
 
 ART. 340.- No basta el dicho de la madre para excluir la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
 
@@ -1987,7 +1987,7 @@ ART. 553.- Si para hacer la imposición dentro del término señalado en el art�
 
 ART. 554.- El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
 
-ART. 555.- Mientras que hacen las imposiciones a que se refieren los artículos 552 y 553, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
+ART. 555.- Mientras que hacen las imposiciones a que se refieren los artículo 552 y 553, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
 
 ART. 556.- Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas la conformidad del curador y la autorización judicial.
 
@@ -4083,7 +4083,7 @@ ART. 1255.- No hay obligación de dar alimentos a las personas que tengan bienes
 
 ART. 1256.- Para tener derecho de ser alimentado se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1253 y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
 
-ART. 1257.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurara conforme a lo dispuesto en los artículos 303, 309, 311 y 312 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimum (sic) antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo II, Título VI, Libro I.
+ART. 1257.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurara conforme a lo dispuesto en los artículo 303, 309, 311 y 312 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimum (sic) antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo II, Título VI, Libro I.
 
 ART. 1258.- Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1253, se observarán las reglas siguientes:
 
@@ -4331,7 +4331,7 @@ ART. 1362.- Si los herederos instituídos en partes desiguales fueren substituí
 
 ART. 1363.- La nulidad de la substitución fideicomisaria no importa la de la institución, ni la del legado teniéndose únicamente por no escrita la cláusula fideicomisaria.
 
-ART. 1364.- No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo o (sic) otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+ART. 1364.- No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo o otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
 
 ART. 1365.- Puede el padre dejar una parte o la totalidad de sus bienes a su hijo, con la carga de transferirles al hijo o hijos que tuviere hasta la muerte del testador, teniéndose en cuenta lo dispuesto en el artículo 1200 en cuyo caso el heredero se considerará como usufructuario.
 
@@ -7157,7 +7157,7 @@ ART. 2327.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o m
 
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
-ART. 2328.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejorar (sic) de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrndamiento d (sic) la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2185 y 2186.
+ART. 2328.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejorar (sic) de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrndamiento d (sic) la finca . También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2185 y 2186.
 
 ### CAPITULO IV.
 
@@ -9039,7 +9039,9 @@ II.- Las sentencias y providencias judiciales certificadas legalmente;
 
 III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
 
-ART. 2890.- El interesado podrá presentar el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un plano o croquis de esas fincas.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1969)</small>
+
+ART. 2890.- El interesado deberá presentar el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de predios o fincas rústicos o urbanos, acompañará un plano de éstos. Presentará además dos ejemplares del título y del plano para el registro que se lleva en la Tesorería General del Estado y en la Dirección General de Catastro del mismo.
 
 ART. 2891.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2893. En caso contrario devolverá el título sin registrar, siendo necesaria resolución judicila (sic) para que se haga el registro.
 
@@ -9226,3 +9228,7 @@ P.O. 12 DE DICIEMBRE DE 1948.
 ###### ARTICULO UNICO.
 
 Esta reforma entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 1969.
+
+UNICO.- El presente Decreto surte sus efectos a los (15) quince días de la fecha de su publicación en el Periódico Oficial del Estado.
