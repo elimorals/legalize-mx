@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-3-2000-de-la-suprema-62325"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-05-30"
-last_updated: "2000-05-30"
+last_updated: "2003-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-05-30"
 
 ACUERDO GENERAL DE ADMINISTRACION 3/2000 QUE ESTABLECE LAS ATRIBUCIONES DE LA COORDINACION GENERAL DE ASUNTOS JURIDICOS DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION V/2003, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XII, Agosto de 2000, página 1311.
 
@@ -116,3 +118,15 @@ PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su aprobación.
 SEGUNDO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el señor Ministro Genaro David Góngora Pimentel, Presidente de la Suprema Corte de Justicia de la Nación, el día treinta de mayo de 2000, ante el coordinador general de Asuntos Jurídicos de la Presidencia, que da fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 21 DE MAYO DE 2003.
+
+PRIMERO. Este acuerdo entrará en vigor el dieciséis de abril de dos mil tres.
+
+SEGUNDO. A partir de la entrada en vigor de este Acuerdo se abrogan los Acuerdos Generales de Administración 1/99 y 3/2000, relativos a la creación y las atribuciones de la Coordinación General de Asuntos Jurídicos de la Presidencia de la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Las atribuciones que en los diversos ordenamientos administrativos se conferían a la Coordinación General de Asuntos Jurídicos de la Presidencia de la Suprema Corte de Justicia de la Nación, salvo disposición en contrario, serán de la competencia de la Dirección General creada en este Acuerdo y ésta podrá continuar en el desarrollo de cualquier procedimiento o juicio pendiente de concluir, en el que haya participado la referida Coordinación.
+
+CUARTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
