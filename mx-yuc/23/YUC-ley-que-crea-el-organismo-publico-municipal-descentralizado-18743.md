@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-organismo-publico-municipal-descentralizado-187
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-02"
-last_updated: "1991-12-02"
+last_updated: "1992-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 SE CREA UN ORGANISMO PUBLICO MUNICIPAL DESCENTRALIZADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIO, QUE SE DENOMINARA "SISTEMA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE PROGRESO, YUCATAN", CON LA FINALIDAD ESENCIAL DE CONSTRUIR, REHABILITAR, AMPLIAR, OPERAR, ADMINISTRAR, CONSERVAR Y MEJORAR EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE PROGRESO, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Diario Oficial el Lunes 2 de Diciembre de 1991.
 
@@ -157,6 +157,10 @@ Los superávit del Sistema se destinarán en la proporción que apruebe el Conse
 
 El Consejo Directivo implementará los medios de auditoría y vigilancia que juzgue necesarios para el buen desempeño de los objetivos y actividades del Sistema de Agua Potable y Alcantarillado del Municipio de Progreso, Yucatán.
 
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 1992)</small>
+
+Las cuentas del organismo público descentralizado serán enviadas para su revisión y glosa a la Contaduría Mayor de Hacienda del Estado.
+
 ###### ARTICULO 13.
 
 Las relaciones de trabajo entre el Sistema y sus trabajadores se regirán por las disposiciones contenidas en la Ley de los Trabajadores al Servicio del Estado y Municipios del Estado de Yucatán.
@@ -182,3 +186,9 @@ LIC. DULCE MARIA SAURI RIANCHO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 7 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
