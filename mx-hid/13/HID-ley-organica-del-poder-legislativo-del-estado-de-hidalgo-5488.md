@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-5488"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1983-12-03"
+last_updated: "1990-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1990.
 
 Ley publicada en el Alcance No. 2 del Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1982
 
@@ -757,13 +757,17 @@ La comisión permanente dará cuenta en la segunda sesión del Congreso, del uso
 
 El Congreso del Estado se constituirá en Colegio Electoral para calificar, además de sus propias elecciones, las de los ayuntamientos, como lo establecen los artículos 135 de la Constitución Política del Estado y 178 y demás relativos aplicables a la Ley de Organizaciones Políticas y Procesos Electorales de la Entidad.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1990)</small>
+
 ###### ARTICULO 134.
 
-Antes del tercer domingo de diciembre del año de elecciones municipales, deberán estar en poder del Congreso los paquetes electorales municipales a que se refiere el artículo 178 de la Ley de Organizaciones Políticas y Procesos Electorales.
+Antes del cuarto domingo de noviembre del año de elecciones municipales, deberán estar en poder del Congreso los paquetes electorales municipales a que se refiere el artículo 178 de la Ley de Organizaciones Políticas y Procesos Electorales.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 135.
 
-El mismo tercer domingo de diciembre del año de elecciones municipales, se constituirá la Cámara en colegio electoral bajo la misma directiva del Congreso correspondiente a ese mes, procediendo de inmediato a designar las comisiones de tres diputados cada una que sean posibles, dado el número de representantes presentes en la sesión, entre las cuales se distribuirá por orden alfabético los 84 expedientes formados con motivo de los paquetes electorales, remitidos por los respectivos comités municipales electorales, de la entidad, para su estudio y dictámenes que corresponda. Además de éstas comisiones, se integrará una más con el mismo número de diputados que las anteriores para que proceda a hacer la asignación de los regidores de representación minoritaria de acuerdo con las reglas contenidas en los artículos 182 y 183 de la Ley de Organizaciones Políticas y Procesos Electorales del Estado.
+El cuarto domingo de noviembre del año de elecciones municipales, se constituirá la Cámara en Colegio Electoral bajo la misma directiva del Congreso correspondiente a ese mes, procediendo de inmediato a designar las comisiones de tres diputados cada una que sean posibles, dado el número de representantes presentes en la sesión, entre las cuales se distribuirá por orden alfabético los 84 expedientes formados con motivo de los paquetes electorales, remitidos por los respectivos comités municipales electorales, de la Entidad, para su estudio y dictámenes que correspondan. Además de éstas comisiones, se integrará una más con el mismo número de diputados que las anteriores para que proceda a hacer la asignación de los regidores de representación minoritaria de acuerdo con las reglas contenidas en los artículos 182 y 183 de la Ley de Organizaciones Políticas y Procesos Electorales del Estado.
 
 ###### ARTICULO 136.
 
@@ -918,5 +922,9 @@ P.O. 24 DE MAYO DE 1982.
 UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 3 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 9 DE MAYO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
