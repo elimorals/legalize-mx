@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1998-10-03"
+last_updated: "1998-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1998.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -119,7 +119,9 @@ III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de condu
 
 I.- Existe consumación cuando el agente con su acción u omisión, lesiona el bien jurídico; y
 
-II.- Existe tentativa cuando la intención se exterioriza ejecutando la actividad que debía de producir el delito u omitiendo la que debería de evitarlo si, por causas ajenas a la voluntad del agente, no hay consumación pero sí puesta en peligro del bien jurídico.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+II. Existe tentativa, cuando la resolución de cometer un delito se exterioriza realizando en parte o totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo si por causas ajenas al agente, no hay consumación pero si puesta en peligro del bien jurídico.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1493,7 +1495,9 @@ I.- En caso de homicidio, el monto será la cantidad equivalente al importe de s
 
 Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
 
-II.- En casos de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple o el doble del salario mínimo vigente, atendiendo a la regla establecida en la fracción anterior;
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+II. En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
 
 Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
 
@@ -1517,7 +1521,9 @@ Si el beneficiario renuncia a la reparación del daño, el importe se aplicará 
 
 Si hubiere varios activos, la obligación de la reparación del daño es solidaria.
 
-La capacidad económica del obligado, únicamente se tomará en cuenta para la reparación del daño moral, salvo disposición en contrario.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+Para obtener el pago de la reparación del daño material y moral, no será necesario acreditar la capacidad económica del obligado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2303,15 +2309,31 @@ Delito culposo.
 
 58.- Cuando el delito culposo lesione un solo bien jurídico, se impondrá al sujeto activo de la cuarta parte del mínimo a la cuarta parte del máximo de la punibilidad, o medida de seguridad, asignada al tipo doloso, salvo disposición en contrario.
 
-Se aplicará de la mitad del mínimo a la mitad del máximo de la sanción del correspondiente tipo doloso en caso de homicidio o de lesiones previstas en los artículos 275 y 276, cuando el sujeto activo: a) fuere operador de un vehículo destinado al servicio público o de transporte escolar y con ocasión de alguno de estos servicios causare los daños aludidos; o b) Se hallare en estado de ebriedad o bajo el influjo de alguna droga.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
-Se sancionará únicamente con multa hasta por el valor del daño y con la correspondiente reparación del daño: el delito de daño en propiedad ajena culposo, cuando su valor no sea mayor del equivalente a cien veces el salario; o, independientemente del valor, si es ejecutado en tránsito de vehículos.
+Se aplicará de la tercera parte del mínimo a la tercera parte del máximo de la sanción del correspondiente tipo doloso, en caso de homicidio y lesiones de las previstas por los artículos 275 o 276 y el sujeto activo se encontrare en estado de ebriedad o bajo el influjo de alguna droga.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+Se sancionará con la mitad del mínimo a la mitad del máximo de la pena asignada al tipo doloso en los siguientes casos:
+
+a).- Cuando el sujeto activo fuere operador de un vehículo destinado al servicio público de pasajeros o de transporte escolar y con ocasión de alguno de éstos servicios causare homicidio o lesiones previstas en los artículos 275 o 276;
+
+b).- Al que encontrándose en estado de ebriedad o bajo el influjo de alguna droga, causare más de un homicidio o concurra éste con lesiones previstas en los artículos 275 o 276;
+
+c).- A quien en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión del delito de homicidio o lesiones graves, en grado culposo.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+No se impondrá pena alguna a quien por culpa en el manejo de vehículos en que viaje en compañía de alguno o algunos de sus descendientes, ascendientes, hermanos, cónyuge o concubina, ocasione lesiones u homicidio a uno o más de éstos.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
 Si el delito culposo lesionare varios bienes jurídicos, se estará a lo dispuesto en el artículo 69; si fueren distintos los delitos culposos se aplicará el artículo 68.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
-59.- El delito culposo se perseguirá a petición del ofendido o de su legítimo representante, con excepción del homicidio y de las lesiones previstas el los artículos 275 y 276; sin perjuicio de lo dispuesto en el artículo 173.
+59.- El delito culposo se perseguirá a petición del ofendido o de su legítimo representante, con excepción del homicidio y de las lesiones previstas en los Artículos 275 y 276.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2345,9 +2367,7 @@ Imputabilidad disminuida.
 
 62.- Si la capacidad del autor de comprender el carácter ilícito de hecho, o de determinarse de acuerdo con esa compresión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-63.- Cuando se cometa un delito y el sujeto activo se encontrare en extremo atraso cultural y aislamiento social, se le podrá imponer desde la tercera parte del mínimo y la tercera parte del máximo de la pena correspondiente al delito de que se trate. Esta facultad se apoyará en dictámenes periciales pertinentes.
+63.- (DEROGADO, P.O. 28 DE NOVIEMBRE DE 1998)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2417,12 +2437,6 @@ Reincidencia y habitualidad.
 
 72.- En las prevenciones de los dos artículos anteriores, se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
 
-72 A.- (N. DE E. EL CONTENIDO DEL PRESENTE ARTICULO HA QUEDADO SUBSUMIDO EN EL ARTICULO 64, CONFORME A LA EXPOSICION DE MOTIVOS DEL DECRETO PUBLICADO EN EL P.O. EL 3 DE OCTUBRE DE 1998)
-
-72 B.- (N. DE E. EL CONTENIDO DEL PRESENTE ARTICULO HA QUEDADO SUBSUMIDO EN EL ARTICULO 64, CONFORME A LA EXPOSICION DE MOTIVOS DEL DECRETO PUBLICADO EN EL P.O. EL 3 DE OCTUBRE DE 1998)
-
-72 C.- (N. DE E. EL CONTENIDO DEL PRESENTE ARTICULO HA QUEDADO SUBSUMIDO EN EL ARTICULO 64, CONFORME A LA EXPOSICION DE MOTIVOS DEL DECRETO PUBLICADO EN EL P.O. EL 3 DE OCTUBRE DE 1998)
-
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
@@ -2467,7 +2481,7 @@ III.- El estado del medio ambiente en el que actuaba;
 
 IV.- La aptitud orgánica, muscular, fisiológica y psíquica del agente y el tiempo que tuvo para poner el cuidado posible y adecuado para no producir el daño que produjo; y
 
-V.- El dolo, en los casos en que el activo pretendió realizar un delito menor y por descuido resultó uno mayor.
+V.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3269,13 +3283,7 @@ VII.- Al que destruya en todo o en parte, o paralice por otros medios de los esp
 
 Si en el vehículo que se incendie no se halla persona alguna, la sanción será de dos a seis años.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-173.- Al que en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos y otras substancias que perturben las funciones psicofisiológicas, maneje un vehículo de motor con velocidad superior a la permitida, se le impondrá inhabilitación para manejar vehículos de motor de uno a tres años. Si el vehículo es de transporte público de pasajeros o de carga, la inhabilitación será de tres a cinco años, se decretará el decomiso del vehículo instrumento de delito en términos del artículo 37.
-
-Si el activo goza de licencia, el Juzgador la suspenderá por el tiempo de la inhabilitación dando aviso a la autoridad competente para el control respectivo.
-
-Si causare daños, el manejador responderá de los mismos, en los términos de este Código.
+173.- (DEROGADO, P.O. 28 DE NOVIEMBRE DE 1998)
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -4091,7 +4099,7 @@ Asalto.
 
 Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisión de tres a seis años.
 
-Si con el uso de la violencia resultaren cometidos otros delitos se estará a las reglas del concurso de delitos.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
 269.- Si los salteadores, atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de diez a quince años a los demás, siempre que no se cometa alguno de los delitos señalados en el artículo anterior, pues entonces se aplicará la pena de treinta a cuarenta años.
 
@@ -4455,6 +4463,10 @@ II.- El aprovechamiento de cualquier fluido, ejecutado sin derecho y sin consent
 
 III.- Al que, después de la ejecución del robo y sin haber participado en éste, posea, enajene o trafique de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del robo, a sabiendas de esta circunstancia o que el valor intrínseco de la adquisición de éstos sea desproporcionado o sumamente inferior al valor imperante en el mercado.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+350 Bis.- Al que sin derecho y sin consentimiento se apodere de un expediente, total o parcialmente, perteneciente a una oficina pública o Notaría, se aplicará de tres a siete años de prisión y multa de cien a doscientos días de salario mínimo. Si el activo fuere servidor público o Notario, abogado o litigante, además se le inhabilitará, de dos a diez años para ejercer su cargo o profesión.
+
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
@@ -4487,7 +4499,23 @@ Se entiende por vehículo de motor, para los efectos de este artículo, los auto
 
 II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
 
-III.- De un expediente, total o parcialmente, perteneciente a una oficina pública o Notaría, se aplicará de tres a siete años de prisión y de cien a doscientos días multa. Si el activo fuere servidor público o notario, abogado o litigante se le inhabilitará, además, de dos a diez años para ejercer su cargo o profesión.
+III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+
+357 Bis.- Se sancionará con pena de dos a diez años de prisión y multa de doscientos a quinientos días de salario mínimo:
+
+I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
+
+II.- El que omitiendo realizar los actos tendientes a verificar y obtener la constancia que acredite la legal procedencia de un vehículo y la autenticidad de sus documentos ante la Procuraduría General de Justicia del Estado, detente, posea, enajene o trafique de cualquier forma un vehículo robado; y
+
+III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes.
+
+En el caso de que cualquiera de las conductas anteriores se realice sobre dos o más vehículos robados, la pena se incrementará de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, investigación, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad y se le inhabilitará para desempeñar cualquier empleo, cargo, o comisión públicos por un período de igual a la pena de prisión impuesta.
+
+Si con alguna de las conductas previstas en este Artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4715,9 +4743,9 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
-383. El fraude se perseguirá por querella de parte.
+383.- El fraude se perseguirá por querella. Excepción hecha cuando el activo tenga conducta precedente por el mismo delito o para el caso de que el pasivo sea un organismo o institución pública o descentralizada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -5162,6 +5190,16 @@ PRIMERO.- El presente decreto entrará en vigor diez días después de su public
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
 
 TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 1998.
+
+DECRETO NUM. 332, SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO PENAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado; a excepción de lo dispuesto en la Fracción II del artículo 357 BIS, del Código Penal del Estado, que entrará en vigor noventa días después de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente Decreto.
 
 ###### Artículo 10.
 
