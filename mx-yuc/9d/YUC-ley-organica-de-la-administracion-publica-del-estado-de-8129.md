@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "1990-07-06"
+last_updated: "1991-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -393,13 +393,13 @@ XXVIII.- Proponer al titular del Ejecutivo del Estado, la disolución, venta, tr
 
 XXIX.- Formar parte de los órganos de gobierno de las entidades paraestatales;
 
-XXX.- Autorizar, realizar, contratar y controlar adquisiciones de toda clase que se requieran para el funcionamiento de las dependencias de la administración pública, de conformidad con las disposiciones legales aplicables;
+XXX.- (DEROGADA, D.O. 16 DE JULIO DE 1991)
 
-XXXI.- Presidir los comités de adquisiciones que el Gobernador del Estado integre en las dependencias y entidades de la administración pública;
+XXXI.- (DEROGADA, D.O. 16 DE JULIO DE 1991)
 
-XXXII.- Proveer oportunamente a las dependencias del Ejecutivo del Estado de los elementos y materiales de trabajo necesarios para el desempeño de sus funciones.
+XXXII.- (DEROGADA, D.O. 16 DE JULIO DE 1991)
 
-XXXIII.- Administrar, controlar y vigilar almacenes generales del Estado;
+XXXIII.- (DEROGADA, D.O. 16 DE JULIO DE 1991)
 
 > <small>(REFORMADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
@@ -433,7 +433,7 @@ XLI.- Administrar los recursos que la Federación transfiera a través del Conve
 
 > <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
-XLII.- Las demás actividades que las leyes y reglamentos le señalen.
+LII.- Las demás actividades que las leyes y reglamentos le señalen.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
 
@@ -470,6 +470,14 @@ XII.- Coordinar con el Instituto de Servicios Sociales para los Trabajadores del
 > <small>(ADICIONADA, D.O. 27 DE NOVIEMBRE DE 1989)</small>
 
 XIII.- Las demás que le atribuyan otras leyes y reglamentos.
+
+> <small>(ADICIONADA, D.O. 16 DE JULIO DE 1991)</small>
+
+XIV.- Proveer oportunamente a las dependencias del Ejecutivo del Estado de los elementos y materiales de trabajo necesarios para el desempeño de sus funciones.
+
+> <small>(ADICIONADA, D.O. 16 DE JULIO DE 1991)</small>
+
+XV.- Administrar, controlar y vigilar almacenes generales del Estado.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
 
@@ -516,6 +524,14 @@ A) Coadyuvar con la Secretaría de Planeación y Presupuesto en la elaboración 
 B) Efectuar los pagos previstos en el Presupuesto de Egresos y formular trimestralmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado;
 
 C) Elaborar y pagar las nóminas de cada una de las Dependencias del Poder Ejecutivo del Gobierno del Estado;
+
+> <small>(ADICIONADO, D.O. 16 DE JULIO DE 1991)</small>
+
+D) Autorizar, realizar, contratar y controlar adquisiciones de toda clase que se requieran para el funcionamiento de las dependencias de la Administración Pública, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADO, D.O. 16 DE JULIO DE 1991)</small>
+
+E) Presidir los comités de adquisiciones que el Gobernador del Estado integre en las Dependencias y Entidades de la Administración Pública.
 
 IV.- En materia de control y vigilancia:
 
@@ -1090,3 +1106,7 @@ QUINTO.- Las disposiciones de las leyes vigentes que, sin oponerse a este Decret
 Se faculta al Gobernador del Estado, para resolver las cuestiones que puedan suscitarse con motivo de la aplicación de lo previsto en el párrafo anterior.
 
 SEXTO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 16 DE JULIO DE 1991.
+
+UNICO.- Las disposiciones contenidas en este Decreto surtirán sus efectos a partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
