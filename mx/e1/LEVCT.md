@@ -4,7 +4,7 @@ identifier: "LEVCT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-05-25"
-last_updated: "1974-01-08"
+last_updated: "1991-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=823&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEVCT"
 
 LEY SOBRE ELABORACION Y VENTA DE CAFE TOSTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 25 de mayo de 1972.
 
@@ -40,13 +40,13 @@ LEY SOBRE ELABORACION Y VENTA DE CAFE TOSTADO
 
 ###### ARTICULO 1o.
 
-Se entiende por café verde el producto obtenido de las semillas de diversas especies botánicas del género Coffea L, familia de las Rubiáceas, que han sido objeto de un proceso de desecación y descascarado; y por tostado, el café verde que ha sido sometido a una temperatura superior a los 150°. C.
+Se entiende por café verde el producto obtenido de las semillas de diversas especies botánicas del género Coffea L, familia de las Rubiáceas, que han sido objeto de un proceso de desecación y descascarado; y por tostado, el café verde que ha sido sometido a una temperatura superior a los 150°C.
 
 ###### ARTICULO 2o.
 
 Esta Ley regula la elaboración y venta de café tostado en:
 
-I.- Grano o molido
+I.- Grano o molido;
 
 II.- Instantáneo, granulado, pulverizado y otras formas solubles;
 
@@ -54,17 +54,13 @@ III.- Concentrados; y
 
 IV.- Infusiones.
 
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se considera café puro aquél que no lleve ninguna mezcla; café, aquel que lleve incorporado hasta un 10% de azúcar y café mezclado, el que incorpore de un 11% hasta un 30% de azúcar, previa determinación y verificación que el Instituto Mexicano del Café haga acerca de la calidad y proporción de la mezcla.
+Para los efectos de esta Ley, se considera café puro a aquel que no lleve ninguna mezcla.
 
-La Secretaría de Industria y Comercio, fijará los precios de venta del café tostado en función de su pureza o del porcentaje de azúcar que lleve incorporado y la calidad del grano, en la inteligencia de que en los envases respectivos se especificará visiblemente su pureza o el porcentaje de azúcar que contenga.
-
-Se entiende por café adulterado el que ha sido elaborado o envasado con mezcla de substancias extrañas, que alteren o reduzcan sus propiedades o que lleve un porcentaje de azúcar que exceda de los límites fijados en el primer párrafo de este artículo.
-
-No se considerará adulterado por la incorporación de los aditivos necesarios para conservarlos en los términos de los reglamentos o las normas técnicas que dicten las Secretaría de Salubridad y Asistencia y de Industria y Comercio, previa verificación que haga el Instituto Mexicano del Café.
+El café tostado sólo podrá ser mezclado si se observan rigurosamente las normas de información comercial sobre calidad de cumplimiento obligatorio que se elaboren y expidan conforme a la Ley Federal sobre Metrología y Normalización.
 
 ###### ARTICULO 4o.
 
@@ -78,11 +74,11 @@ III.- Cafés o cafeterías, los establecimientos que expenden al público la beb
 
 Un mismo establecimiento podrá tener a la vez el carácter de tostador, expendio y café o cafetería.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 5o.
 
-El café tostado, exceptuando el café en grano y el molido a la vista del consumidor, sólo podrá venderse en envases cerrados, sellados precintados que mencionen los siguientes datos:
+El café tostado, exceptuando el café en grano y el molido a la vista del consumidor sólo podrá venderse en envases cerrados, sellados o precintados que ostenten clara y verazmente los siguientes datos:
 
 I.- Nombre y dirección del titular y número del registro ante la Secretaría de Salubridad y Asistencia;
 
@@ -90,9 +86,9 @@ II.- Denominación y marca del producto;
 
 III.- Peso o volumen neto del producto que contiene el envase; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE JULIO DE 1991)</small>
 
-IV.- Porcentaje de azúcar que lleva incorporado, en su caso, y
+IV.- En el caso de mezclas, la información que requieran la o las normas de cumplimiento obligatorio a que se refiere el artículo 3o. de esta Ley, las cuales, por lo menos exigirán que se revele claramente el contenido de sustancias o materia extraña que contenga y su porcentaje respecto del contenido de café tostado; de su caso, la mención de los aditivos necesarios para conservar el producto que se le han incorporado y si se le han extraído parcial o totalmente las sustancias naturales;
 
 V.- Los demás que exijan las leyes y reglamentos aplicables.
 
@@ -104,19 +100,19 @@ Los expendios de café y los cafés o cafeterías autorizados para operar tostad
 
 Se prohibe:
 
-> <small>(REFORMADA D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
-I.- Elaborar o vender café tostado adulterado;
+I.- Adulterar el café puro y venderlo como si se tratara de café puro;
 
-> <small>(REFORMADA D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
-II.- Almacenar café adulterado o materias primas que se sirvan para adulterar el café en cualquier establecimiento de los señalados en el artículo 4o. o en los vehículos que sirven para su transporte, excepto en los casos autorizados por disposiciones legales aplicables;
+II.- Elaborar o vender café tostado sin cumplir estrictamente con la o las normas a que se refiere el artículo 3o. de esta Ley;
 
 III.- Elaborar o vender productos cuya forma de presentación al público, haga suponer que se trata de café e induzca al error;
 
-IV.- Utilizar la palabra café en el envasado, etiquetado y venta de cualquier producto distinto; y
+IV.- (DEROGADA, D.O.F. 22 DE JULIO DE 1991)
 
-V.- Vender café al que se le haya extraído parcial o totalmente la substancias que contiene. Se exceptúa de lo anterior la extracción de cafeína, en cuyo caso deberá indicarse en el envase que se trata de café descafeinado.
+V.- (DEROGADA, D.O.F. 22 DE JULIO DE 1991)
 
 > <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1974)</small>
 
@@ -124,13 +120,13 @@ V.- Vender café al que se le haya extraído parcial o totalmente la substancias
 
 El Instituto Mexicano del Café auxiliará a las Secretarías de Salubridad y Asistencia y de Industria y Comercio, conforme a las atribuciones de éstas, en la aplicación de la presente Ley. La Secretaría de Industria y Comercio, escuchando al Instituto, acreditará la calidad de las marcas, productos y tipos de café que se ajusten a las disposiciones de este ordenamiento y de sus reglamentos.
 
-> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 9o.
 
-La adulteración del café será sancionada en los términos del Artículo 253 Bis del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común, y para toda la República en materia del Fuero Federal.
+La venta o intención de venta de café puro que haya sido adulterado con sustancias o materias extrañas, exceptuando los aditivos para su conservación, y que se ofrezca como café puro será sancionada en los términos del artículo 253 del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal, además de las sanciones administrativas correspondientes.
 
-Las demás infracciones a la presente Ley se sancionarán conforme a las disposiciones del Código Sanitario de los Estados Unidos Mexicanos, de la Ley General de Normas y de Pesas y Medidas y sus Reglamentos.
+Las demás infracciones serán sancionadas conforme a la Ley Federal sobre Metrología y Normalización, la Ley General de Salud y la Ley Federal de Protección al Consumidor.
 
 ## TRANSITORIOS
 
@@ -157,3 +153,9 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 8 DE ENERO DE 1974.
 
 UNICO.- Estas reformas entrarán en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE JULIO DE 1991.
+
+PRIMERO.- Estas reformas entrarán en vigor precisamente a los 60 días hábiles de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Comercio y Fomento Industrial procederá a determinar las Organizaciones y organismos o entidades de productores, industriales, comercializadores y consumidores de café que, en los términos de la Ley Federal sobre Metrología y Normalización, procederán a constituir un Comité Consultivo de Normalización que se aboque a elaborar el o los proyectos de las normas a que se refiere esta Ley antes o coincidentemente con la entrada en vigor de esta Ley.
