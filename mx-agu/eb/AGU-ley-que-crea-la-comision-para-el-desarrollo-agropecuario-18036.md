@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-para-el-desarrollo-agropecuario-18036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-18"
-last_updated: "1996-01-21"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA LA COMISION PARA EL DESARROLLO AGROPECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 18 de marzo de 1990.
 
@@ -149,11 +149,13 @@ II.- La Dirección General; y
 
 III.- Consejo Consultivo.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 4o.
 
-El Consejo de Administración, es la máxima autoridad de la Comisión, ésta a su vez, se integrará por un Presidente, que será el Gobernador del Estado; un Vicepresidente que será el Coordinador General del Comité de Planeación para el Desarrollo del Estado; un Coordinador Ejecutivo que será el Director General de la Comisión para el Desarrollo Agropecuario del Estado; dos Vocales, que serán: el Delegado Estatal de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, y el Secretario de Finanzas del Gobierno del Estado; así como de un Secretario y un Comisario, que serán designados por el Ejecutivo del Estado.
+El Consejo de Administración es la máxima autoridad de la Comisión, ésta a su vez se integrará por un Presidente, que será el Gobernador del Estado; un Vicepresidente, que será el Secretario de Planeación del Estado; un Coordinador Ejecutivo que será el Director General de la Comisión para el Desarrollo Agropecuario del Estado; dos Vocales, que serán: el Delegado Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y el Secretario de Finanzas del Gobierno del Estado, así como de un Secretario y un Comisario, que serán designados por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1996)</small>
 
 El Consejo de Administración podrá contar con un Organo Auxiliar denominado Gabinete para el Desarrollo Agropecuario, cuyas funciones e integrantes serán designados por el propio Consejo.
 
@@ -334,3 +336,7 @@ Lic. Guillermo G. G. Ballesteros Guerra.
 P.O. 21 DE ENERO DE 1996.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrara en vigor a partir del 1o. de enero del año 2002.
