@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1974-12-31"
+last_updated: "1975-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -3236,7 +3236,7 @@ Los empresarios de transportes están obligados:
 
 I. A publicar en el periódico oficial del Estado, o del Distrito Federal, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
 
-II. A dar á los pasajeros billetes de asiento, y á los cargadores la carta de porte á que se refiere el art. 581;
+II. A dar á los pasajeros billetes de asiento, y á los cargadores la carta de porte á que se refiere el artículo 581;
 
 III. A emprender y concluir el viaje en los días y horas señalados en los anuncios, aunque no estén tomados todos los asientos y falten efectos para completar la cantidad de carga que sea posible conducir, llevando ésta el día fijado en el contrato;
 
@@ -5588,7 +5588,7 @@ Art. 1,090. Toda demanda debe interponerse ante juez competente.
 
 Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor.
 
-Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa o tácitamente.
+Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
 
 Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez á quien se someten.
 
@@ -6356,7 +6356,9 @@ II. Respecto de sentencias interlocutorias que resuelvan sobre personalidad, com
 
 En cualquiera otra resolución, que sea apelable, la alzada sólo se admitirá en el efecto devolutivo.
 
-Art. 1,340. La apelación sólo procede en los juicios mercantiles cuando su interés exceda de mil pesos.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+Art. 1,340. La apelación sólo procede en los juicios mercantiles cuando su interés exceda de cinco mil pesos.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -6999,3 +7001,11 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1975.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+###### ARTICULO SEPTIMO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
