@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1917-09-15"
+last_updated: "1923-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 1923.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -505,7 +505,9 @@ XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del
 
 XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos del Estado, que le presente el Ejecutivo, sin contravenir las disposiciones relativas de la Constitución General.
 
-XXIV. Para discutir, modificar, aprobar o reprobar anualmente, los Presupuestos de Egresos e Ingresos de los Ayuntamientos.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
+XXIV. Para discutir, modificar, aprobar y reprobar los Presupuestos de Ingresos y Egresos de los Ayuntamientos, cada vez que dichas Corporaciones lo propongan.
 
 XXV. Para examinar las cuentas de los gastos de la administración pública del Estado, que cada año y cuando el Congreso lo pida deberá presentarle el Gobernador, con objeto de determinar si las partidas gastadas concuerdan con las del Presupuesto, y si están debidamente justificadas las erogaciones.
 
@@ -532,6 +534,10 @@ XXXV. Para discutir, modificar, aprobar o reprobar, los Reglamentos que le prese
 XXXVI. Velar incesantemente por la conservación de los derechos civiles, políticos y naturales de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
 
 XXXVII. Para decretar las leyes concernientes a la Administración y Gobierno Interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas, y todas las demás que le confieran la Constitución General de la República, la presente y las leyes que de ellas emanen.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
+XXXVIII. Para calificar definitivamente las elecciones de Ayuntamiento y Comisarios de Policía cuando se pida la nulidad de tales elecciones.
 
 #### SECCION VI.
 
@@ -1043,9 +1049,11 @@ Cada Municipio será administrado por un Ayuntamiento nombrado en elección popu
 
 Los Municipios tendrán personalidad jurídica para todos los efectos legales.
 
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
 ###### Artículo 131.
 
-Los miembros de los Ayuntamientos durarán en su encargo un año y comenzarán a funcionar el diez y seis de Septiembre.
+Los miembros de los Ayuntamientos durarán, en su cargo dos años y comenzarán a funcionar el 16 de septiembre.
 
 ###### Artículo 132.
 
@@ -1059,9 +1067,11 @@ II. Ser vecino del Municipio que lo nombre.
 
 El cargo de Concejal de un Ayuntamiento será obligatorio pero no gratuito. Sólo será renunciable por causa justificada que calificará el mismo Ayuntamiento, quien deberá admitir o no dicha renuncia. Los Concejales no podrán ser reelectos en el período siguiente.
 
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
 ###### Artículo 134.
 
-De entre los Concejales de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal". Será designado por elección popular directa y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
+De entre los Concejales de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal". Será designado por la propia Corporación en escrutinio secreto cada seis meses, no podrá ser reelecto y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
 
 ###### Artículo 135.
 
@@ -1075,7 +1085,9 @@ Artículo. 137. Son facultades y obligaciones de los Ayuntamientos:
 
 I. Cuidar del orden público dentro de su jurisdicción. A este fin tendrán a su cargo la organización y mando de la Policía Municipal, sin perjuicio de las facultades concedidas al Gobernador, por la fracción XX del Artículo 79 de esta Constitución.
 
-II. Someter oportunamente al examen y aprobación del Congreso los Presupuestos de Egresos e Ingresos del Municipio.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
+II. Someter al examen y aprobación del Congreso los Presupuestos de Ingresos y Egresos del Municipio, cuando juzguen necesario reformarlos, adicionarlos o modificarlos, según sus necesidades.
 
 III. Administrar libremente su Hacienda, que se formará de las contribuciones aprobadas por el Congreso. Las cuentas de un Ayuntamiento serán glosadas por el entrante.
 
@@ -1099,7 +1111,9 @@ XII. Iniciar leyes ante el Congreso del Estado.
 
 XIII. Formar su Reglamento Interior.
 
-XIV. Calificar definitivamente las elecciones del nuevo Ayuntamiento, y en el caso de elecciones extraordinarias las de sus propios miembros.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
+XIV. Calificar las elecciones del nuevo Ayuntamiento y en caso de elecciones extraordinarias las de sus propios miembros, así como las de Comisarios de Policía, quedando sujeta a revisión y declaración definitiva del Congreso en los casos de petición de nulidad.
 
 XV. Rendir a los Poderes del Estado los informes que les pidan.
 
@@ -1249,9 +1263,11 @@ Los funcionarios y empleados del Estado y Municipales de las poblaciones fronter
 
 Reforma e inviolabilidad de esta Constitución.
 
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1923)</small>
+
 ###### Artículo 163.
 
-Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por igual número de miembros de otro posterior.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por la mayoría del número total de los Ayuntamientos del Estado.
 
 ###### Artículo 164.
 
@@ -1300,3 +1316,9 @@ C. G. Soriano.
 EL O. M. E. DEL D.,
 
 S. Sandoval.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+B.O. 19 DE DICIEMBRE DE 1923.
+
+Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
