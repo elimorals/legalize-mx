@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-junta-de-agua-potable-y-alcantarillado-12868
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1982-01-08"
+last_updated: "1983-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial el Viernes 8 de Enero de 1982.
 
@@ -39,9 +39,11 @@ Que el XLVIII Congreso Constitucional del Estado Libre y Soberano de Yucatán, d
 
 LEY ORGANICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATAN.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
 ###### ARTICULO 1.
 
-La Junta de Agua Potable y Alcantarillado de Yucatán, es un organismo público descentralizado, dotado de capacidad y personalidad jurídica propias, que tiene por objeto la A<dministración, Operación y Conservación del Sistema de Agua Potable y Alcantarillado en el Estado de Yucatán y sus disposiciones son de orden público y observancia general.
+La Junta de Agua Potable y Alcantarillado de Yucatán, es un organismo público descentralizado, dotado de capacidad y personalidad jurídica propias, que tiene por objeto la administración, operación, conservación, ampliación y construcción de los sistemas de agua potable y alcantarillado en el Estado de Yucatán y sus disposiciones son de orden público y observancia general.
 
 ###### ARTICULO 2.
 
@@ -53,7 +55,9 @@ Un Secretario que lo será el representante común de los Ayuntamientos de los M
 
 Y un Vocal que representará a los usuarios de estos servicios y que será designado por el Congreso del Estado.
 
-El Representante en el Estado de la Secretaría de Asentimientos Humanos y Obras Públicas, será el Asesor Técnico y Supervisor de la Junta.
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
+El Representante en el Estado de la Secretaría de Desarrollo Urbano y Ecología, será el Asesor Técnico de la Junta.
 
 ###### ARTICULO 3.
 
@@ -67,13 +71,17 @@ I.- Operar y vigilar la prestación de los servicios de Agua Potable y Alcantari
 
 II.- Revisar y autorizar los contratos para el funcionamiento y mejoramiento de los servicios y realizar todas las gestiones y actos jurídicos necesarios para los fines de la Junta.
 
-III.- Gestionar y contratar préstamos, tanto de Instituciones de Crédito Oficiales como privadas, a fin de destinarlos a la ejecución de obras para el mejoramiento y ampliación del Sistema de Agua Potable y Alcantarillado.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
+III.- Gestionar y contratar préstamos, tanto con Instituciones de crédito oficiales como privadas, a fin de destinarlos a la construcción, rehabilitación, ampliación u operación de los sistemas de agua potable y alcantarillado.
 
 IV.- Elaborar el proyecto de cobros por derechos de conexión y tarifas, por la prestación del servicio en los términos del artículo 24 de esta Ley, el cual deberá ser aprobado por el Ejecutivo del Estado, quien a su vez lo enviará al H. Congreso del Estado para el mismo fin.
 
 V.- Recaudar las cantidades que se causen por los servicios que preste la Junta, así como las demás aportaciones, derechos y cualquier otra obligación a cargo de los usuarios del Sistema de Agua Potable y Alcantarillado.
 
-VI.- Solicitar a la Dirección General de Hacienda del Estado el ejercicio de los procedimientos Económico Coactivos y de premio en contra de los usuarios morosos, previstos por el Código Fiscal del Estado para hacer efectivos los adeudos, multas, recargos y cualquier ingreso que le corresponda.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
+VI.- La JAPAY podrá ejercer acción legal, en contra de los usuarios morosos, para hacer efectivo los adeudos, multas, recargos y cualesquiera otros ingresos que legalmente le correspondan, con los procedimientos económico-coactivo y de apremio, previsto por el Código Fiscal del Estado, sin contravenir las disposiciones de la Secretaría de Finanzas y Tesorería del Estado.
 
 VII.- Llevar la contabilidad autorizada de la Junta por conducto del personal destinado a ese propósito.
 
@@ -131,7 +139,9 @@ IV.- Cumplir y hacer cumplir la presente Ley, los Reglamentos y realizar los pla
 
 El patrimonio de la Junta estará integrado por:
 
-I.- Los Derechos, Aprovechamientos, Cuotas de Servicios y cualquier otro ingreso que perciba la Junta, por la operación del Sistema de Agua Potable y Alcantarillado.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
+I.- Las cuotas de servicio y cualquier otro ingreso que perciba la Junta, por la construcción, ampliación y operación de los sistemas de agua potable y alcantarillado.
 
 II.- Los bienes muebles e inmuebles que pertenecieron a la Junta de Agua Potable de Yucatán.
 
@@ -195,9 +205,11 @@ Cuando tenga que ejecutarse obras de construcción o reconstrucción de una edif
 
 Si con la modificación no se infringen las disposiciones de esta Ley, o de los reglamentos se ordenará el cambio de la toma o de la descarga, el que se realizará con el personal autorizado de la Junta, con cargo al usuario, previo el pago correspondiente.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
 ###### ARTICULO 18.
 
-Los propietarios o poseedores de predios, negocios o establecimientos, deberán solicitar a la Junta los trabajos de reinstalación, reparación o resposición (sic) de tomas y descargas.
+Los propietarios o poseedores de predios, negocios o establecimientos, deberán solicitar a la Junta o esta podrá realizar cuando determine que ello sea necesario con cargo a los usuarios, los trabajos de reinstalación, reparación, reposición de tomas, descargas o aparatos de medición.
 
 ### CAPITULO III. DE LOS DERECHOS Y TARIFAS
 
@@ -207,9 +219,11 @@ Para los efectos de la presente Ley se consideran como usuarios a los propietari
 
 Los propietarios o poseedores de predios en los que se hayen (sic) negocios o establecimientos que reciban tales servicios, serán solidariamente responsables con los propietarios o poseedores de dichos negocios o establecimientos, del pago de cualquier adeudo por concepto de derechos o sanciones o por cualquier concepto que establezca la presente Ley.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
 ###### ARTICULO 20.
 
-Los propietarios o poseedores de predios, negocios o establecimientos, que soliciten o deban hacer uso de los servicios de agua potable y alcantarillado, cubrirán a la Junta, los derechos de conexión conforme a las tarifas aprobadas por el H. Congreso del Estado.
+Los propietarios o poseedores de predios, negocios o establecimientos que soliciten o deban hacer uso de los servicios de agua potable y alcantarillado, cubrirán a la Junta, los servicios que ésta preste, los trabajos que realice y las cuotas que se causen, de acuerdo a lo dispuesto en el Artículo Quinto del Decreto Número 21 del 3 de septiembre de 1982, publicado en el "Diario Oficial" del Gobierno del Estado de Yucatán, el 1º. de octubre de 1982.
 
 ###### ARTICULO 21.
 
@@ -225,7 +239,7 @@ En el caso de consumo mixto que implique uso doméstico y comercial, se aplicar�
 
 ###### ARTICULO 24.
 
-Los derechos de conexión y las tarifas por la prestación de los servicios de agua potable y alcantarillado que preste la Junta, se fijarán con base en estudios de carácter económico que se formularán anualmente o antes, si el autofinanciamiento del sistema lo requiere, o las condiciones socioeconómicas del País y particularmente las del Estado, lo hacen necesario, en todo caso deberá tomarse en cuenta el costo de las obras y el global del sistema construido, el mantenimiento el mejoramiento y ampliación de las redes de los mismos, las condiciones socioeconómicas de las poblaciones en las que se preste el servicio, así como el volumen del agua y el uso a que se destine.
+Los derechos de conexión y las tarifas por la prestación de los servicios de agua potable y alcantarillado que preste la Junta, se fijarán con base en estudios de carácter económico que se formularán anualmente o antes, si el autofinanciamiento del sistema lo requiere, o las condiciones socioeconómicas del País y particularmente las del Estado, lo hacen necesario, en todo caso deberá tomarse en cuenta: el costo de las obras y el global del sistema construido, el mantenimiento el mejoramiento y la ampliación de las redes de los mismos, las condiciones socioeconómicas de las poblaciones en las que se preste el servicio, así como el volumen del agua y el uso a que se destine.
 
 ###### ARTICULO 25.
 
@@ -267,7 +281,7 @@ Los fraccionadores, urbanizadores de conjuntos habitacionales, hoteles o edifici
 
 ###### ARTICULO 34.
 
-Se considerará como toma o descarga clandestina a la derivada para servir a otro predio, negocio o establecimiento distinto al que aparece registrado, que se haye (sic) conectado sin autorización de la Junta, así como las tomas y descargas no registradas. Conocida la irregularidad, se cancelarán desde luego las tomas y descargas, y el propietario o poseedor del predio, negocio o establecimiento en donde estén instaladas las tomas o descargas de las cuales se hace la derivación, será sancionado con multa de mil a cien mil pesos, según la gravedad de la infracción; aplicándose igual multa a quien se beneficie de la misma.
+Se considerará como toma o descarga clandestina a la derivada para servir a otro predio, negocio o establecimiento distinto al que aparece registrado, que se haye (sic) conectado sin autorización de la Junta, así como las tomas o descargas no registradas. Conocida la irregularidad, se cancelarán desde luego las tomas y descargas, y el propietario o poseedor del predio, negocio o establecimiento en donde estén instaladas las tomas o descargas de las cuales se hace la derivación será sancionado con multa de mil a cien mil pesos, según la gravedad de la infracción; aplicándose igual multa a quien se beneficie de la misma.
 
 ###### ARTICULO 35.
 
@@ -275,9 +289,11 @@ Cuando por cualquier motivo el usuario pase de la clasificación de doméstica a
 
 Igual multa se impondrá tanto al vendedor como al comprador de un predio, negocio o establecimiento que no haga ante la Junta el aviso respectivo de cambio de registro.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
 ###### ARTICULO 36.
 
-Se impondrá multa de ciento cincuenta a quince mil pesos, según la gravedad de la infracción:
+Se impondrá multa de mil a cien mil pesos según la gravedad de la infracción:
 
 I.- A los que impidan al personal autorizado de la Junta la lectura o el examen de los aparatos medidores.
 
@@ -285,9 +301,15 @@ II.- A los funcionarios o empleados públicos que concedan licencias para constr
 
 III.- A los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
 
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
+ARTICULO 36 BIS.- Se impondrá multa de cien mil a quinientos mil pesos, a quien utilice para otros fines, sin autorización de la Junta, agua de los hidrantes destinados al uso exclusivo del H. Cuerpo de Bomberos.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
 ###### ARTICULO 37.
 
-Se impondrá multa de quince mil a ciento cincuenta mil pesos, según la gravedad de la infracción a quien lleve a cabo trabajos o realice manipulaciones sin autorización de la Junta, para aprovechar el servicio de agua, en los casos de fraccionamientos y de compañías constructoras de infraestructura urbana.
+Se impondrá multa de quince mil a ciento cincuenta mil pesos, por cada lote o predio beneficiado, según la gravedad de la infracción a quien lleve a cabo trabajos sin autorización de la Junta, o realice manipulaciones para aprovechar el servicio de agua o alcantarillado los casos de fraccionamientos y de empresas constructoras de infraestructura urbana.
 
 ###### ARTICULO 38.
 
@@ -311,9 +333,11 @@ Las pruebas relativas al funcionamiento de un aparato medidor, se practicarán e
 
 En vista del resultado a que se refiere el artículo anterior, la Junta a través de la oficina o persona autorizada por el caso, determinará si el medidor ha funcionado normalmente y si por lo mismo debe regir o no los consumos registrados, aprobando o modificando, en su caso, el importe del consumo facturado. Dicha resolución deberá notificarse al interesado y tendrá el carácter de definitiva.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1983)</small>
+
 ###### ARTICULO 43.
 
-El usuario cubrirá a la Junta la suma de doscientos pesos en cada caso en que objete la medición del consumo, cuando una vez que desahogadas las pruebas correspondientes, se determine que el aparato medidor funcionaba correctamente.
+El usuario cubrirá a la Junta, la suma de mil quinientos pesos, en cada caso en que objete la medición del consumo, una vez que desahogadas las pruebas correspondientes, se determine que el aparato medidor funcionaba correctamente o marcaba un consumo menor al real.
 
 ###### ARTICULO 44.
 
@@ -335,7 +359,7 @@ IV.- La orden de trabajo la firmarán los peritos del laboratorio y los interesa
 
 ###### ARTICULO 46.
 
-Los créditos derivados por los derechos fijados en las tarifas por el consumo de agua potable, uso de alcantarillado, gastos hechos por cuenta de los usuarios, de sanciones pecuniarias, derechos de cooperación, recargos y honorarios y por cualquier otra obligación a cargo de los mismos, son equivalentes a créditos fiscales conforme al Código Fiscal del Estado de Yucatán y responderá de ellos el valor de los inmuebles servidos por el sistema.
+Los créditos derivados por los derechos fijados en las tarifas por el consumo de agua potable, uso de alcantarillado, gastos hechos por cuenta de los usuarios, de sanciones pecuniarias, derechos de cooperación, recargos, honorarios y por cualquier otra obligación a cargo de los mismos, son equivalentes a créditos fiscales conforme al Código Fiscal del Estado de Yucatán y responderá de ellos el valor de los inmuebles servidos por el sistema.
 
 ###### ARTICULO 47.
 
@@ -366,3 +390,11 @@ DR. FRANCISCO LUNA KAN
 El Secretario de Gobierno
 
 Lic. Mario A. Bolio Granja.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 30 DE SEPTIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
