@@ -4,7 +4,7 @@ identifier: "VER-ley-contra-el-lucro-inmoderado-12187"
 country: "mx"
 rank: "ley"
 publication_date: "1946-11-14"
-last_updated: "1946-11-14"
+last_updated: "1946-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY CONTRA EL LUCRO INMODERADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 1946.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de noviembre de 1946.
 
@@ -34,6 +34,8 @@ Que la H. Legislatura del mismo, se ha servido expedir la siguiente
 LEY:
 
 "Número 30.- La H. Legislatura del Estado Libre y Soberano de Veracruz-Llave, en nombre del pueblo, expide la siguiente:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO DEL DECRETO NUMERO 35 PUBLICADO EN LA G.O. DEL 21 DE NOVIEMBRE DE 1946.</small>
 
 LEY CONTRA EL LUCRO INMODERADO:
 
@@ -78,3 +80,23 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Jalapa-Enríquez, a 11 de noviembre de 1946.-
 
 ADOLFO RUIZ CORTINES.- El Sub-Secretario de Gobierno, Encargado de la Secretaría, LIC. FERNANDO ROMAN LUGO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 21 DE NOVIEMBRE DE 1946.
+
+###### ARTICULO 1°.
+
+Se suspende por el término de quince días, la vigencia de la Ley número 30, de fecha 7 del presente mes.
+
+###### Artículo 1°.
+
+Se aplicará sanción de uno a cinco años de prisión y multa de cincuenta a cinco mil pesos, a toda persona que almacene artículos de consumo necesario, incluyéndose toda clase de medicinas, combustibles, llantas o refacciones destinadas a usos domésticos, de turismo o de empresas de transporte por un período mayor de tres meses sin efectuar operaciones de venta de dichas mercancías, de acuerdo con los precios oficiales, a no ser que pruebe que existe alguna de las siguientes circunstancias:
+
+I.- Que a pesar de haberla ofrecido en venta al público a los precios oficiales, no tuvo compradores.
+
+II.- Que los artículos que almacene son para usos propios y en cantidad que no exceda a sus necesidades normales durante un mes.
+
+###### ARTICULO 2°.
+
+Este decreto surtirá sus efectos, a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
