@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1991-07-26"
+last_updated: "1992-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1992.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -361,13 +361,13 @@ III.- El tratamiento médico, cuidado y vigilancia de los mayores que se hallen 
 
 IV.- La guarda de sus bienes.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 45.
 
-La patria potestad, tutela, curaduría y adopción son Instituciones a las que corresponden la atención de los incapaces, por los ascendientes, tutores, curadores, adoptantes, funcionarios judiciales, administrativos y demás servidores públicos.
+A la patria potestad, tutela, curaduría y adopción, le corresponde la atención de los incapaces por los ascendientes, tutores, curadores, adoptantes, funcionarios judiciales, administrativos y demás servidores públicos.
 
-Cuando en este Código se usa la palabra D. I. F. se entenderá que se refiere al Sistema Estatal para el Desarrollo Integral de la Familia, y las facultades que el mismo Código le confiere serán ejercitadas por el Presidente del Patronato de esa Institución, quien podrá delegarlas.
+Cuando en este Código se usen las siglas D.I.F., se entenderá que se refiere al Sistema Estatal para el Desarrollo integral de la Familia y las facultades que el mismo Código le confiere, serán ejercitadas por el Presidente del Patronato de esa Institución, quien podrá delegarlas.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
@@ -2839,7 +2839,7 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 ###### Artículo 492.
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
 ###### Artículo 493.
 
@@ -3293,13 +3293,21 @@ En los juicios en que se ejerciten tales acciones no procede el sobreseimiento p
 
 ### CAPITULO NOVENO.- ADOPCION
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### Artículo 578.
 
-La adopción confiere al adoptado el estado de hijo de los adoptantes y a éstos los derechos y deberes inherentes a la filiación.
+La adopción confiere al adoptado el estado de hijo y el parentesco que surge, produce efectos legales iguales al consanguíneo.
+
+(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992) (F. DE E., P.O. 29 DE ENERO DE 1993)
 
 ###### Artículo 579.
 
-Los mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a un menor o a un mayor incapacitado, siempre que el adoptante tenga quince años más que el adoptado y que la adopción sea benéfica a éste.
+Pueden adoptar los mayores de edad, en pleno ejercicio de sus derechos, que satisfagan los requisitos que se señalan en el mismo Ordenamiento y que tengan más de 16 años que el menor sujeto de la adopción.
+
+Pueden ser adoptados los menores expósitos y los que legalmente sean declarados abandonados.
+
+Cuando los menores tengan más de 6 años deben ser informados ampliamente y obtener su consentimiento.
 
 ###### Artículo 580.
 
@@ -3333,11 +3341,15 @@ V.- El menor que se va a adoptar si tiene más de catorce años.
 
 Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el Juez, cuando la adopción sea conveniente para los intereses morales y materiales del adoptado.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 585.
 
-El procedimiento para hacer la adopción y para revocarla será fijado por el Código de Procedimientos Civiles. En estos procedimientos será parte el D.I.F. y se oirá al Ministerio Público.
+El procedimiento para la adopción será fijado por el Código de Procedimientos Civiles. En estos procedimientos será parte el D.I.F. y se oirá al Ministerio Público.
+
+La resolución judicial que apruebe la adopción, contendrá la orden al Juez del Registro del Estado Civil correspondiente, para que se haga la anotación marginal en el acta respectiva; asimismo, en dicha resolución, se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción, con la copia certificada de la misma, para que éste a su vez inscriba en el libro correspondiente la nueva acta en los términos que establece el Libro Segundo, del Capítulo Décimo Tercero, Sección Segunda de este Código, para lo cual deberán comparecer los adoptantes proporcionando los datos necesarios dentro del término de treinta días.
+
+El acta a que se refiere el párrafo anterior, no causará la multa que establece el artículo 875 fracción I de este Código.
 
 ###### Artículo 586.
 
@@ -3347,53 +3359,49 @@ El que adopta tendrá, respecto de la persona y bienes del adoptado, los mismos 
 
 El adoptado tendrá, para con la persona o personas que lo adopten, los mismos derechos y deberes que tiene un hijo.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### Artículo 588.
 
-Los derechos y deberes que resulten del parentesco de consanguinidad no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo, pero si éste está casado con uno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
+Los derechos y deberes que resulten del parentesco de consanguinidad se extinguen por la adopción. Cuando uno de los adoptantes está casado con uno de los progenitores del adoptado, el parentesco consanguíneo con éste y sus efectos permanecen vigentes en términos de Ley. La patria potestad se ejercerá por ambos.
+
+Los parientes consanguíneos, ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos.
 
 ###### Artículo 589.
 
 La adopción produce sus efectos aunque sobrevengan hijos al adoptante.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### Artículo 590.
 
-El menor o el mayor incapacitado adoptados, podrán impugnar la adopción dentro de los seis meses siguientes a la mayor edad, en el primer caso, o a la fecha en que haya sido revocada la declaración de incapacidad.
+El menor adoptado, podrá impugnar la adopción dentro de los doce meses siguientes al cumplir la mayoría de edad.
 
 ###### Artículo 591.
 
-La adopción puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 583;
-
-II.- Por ingratitud del adoptado;
-
-III.- Cuando el o los adoptantes no cumplan con los deberes que les impone la adopción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
 ###### Artículo 592.
 
-En el caso de la fracción I del artículo anterior, el Juez revocará la adopción, si encuentra que la revocación se solicitó espontáneamente y que es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
 ###### Artículo 593.
 
-La resolución judicial que revoque la adopción deja sin efecto ésta y restituye la situación de las partes al estado que guardaban antes de la adopción misma.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
 ###### Artículo 594.
 
-En el caso de la fracción II del artículo 591, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
 ###### Artículo 595.
 
-Se considera ingrato al adoptado:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión, contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si rehusa dar alimentos al adoptante que ha caído en pobreza.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 596.
 
-El Juez que decreta la adopción, o la revocación de ésta, o que aprueba la impugnación, remitirá copia de la resolución respectiva al Juez del Registro del Estado Civil del lugar, para que asiente el acta correspondiente.
+El Juez que apruebe la impugnación, remitirá copia de la resolución respectiva al Juez del Registro del Estado Civil del lugar, para que asiente el acta correspondiente.
 
 ### CAPITULO DECIMO.- PATRIA POTESTAD
 
@@ -3426,6 +3434,10 @@ Si el hijo es adoptivo, se aplicarán, en su caso, las siguientes disposiciones:
 I.- Cuando la adopción se hizo por un matrimonio, ambos cónyuges conjuntamente ejercerán la patria potestad.
 
 II.- Si el hijo sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
+III.- En la adopción, la patria potestad se ejercerá por el o los adoptantes y a falta de éstos por sus ascendientes en los términos señalados en este Código para los hijos consanguíneos.
 
 ###### Artículo 603.
 
@@ -3849,7 +3861,7 @@ II.- Cuando no hay tutor testamentario.
 
 III.- Cuando deba nombrarse tutor por causa de divorcio.
 
-((REFORMADO, P.O. 27 DE ABRIL DE 1990)
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
 ###### Artículo 677.
 
@@ -4627,7 +4639,7 @@ El acreedor alimentario que no pueda ser incorporado a la familia de su deudor d
 
 ###### Artículo 791.
 
-El derecho establecido en el artículo 788 es instransmisible, no estará sujeto a embargo ni a gravamen alguno y se extingue para el miembro de la familia del constituyente, que forme a su vez otra familia.
+El derecho establecido en el artículo 788 es instransmisible (sic), no estará sujeto a embargo ni a gravamen alguno y se extingue para el miembro de la familia del constituyente, que forme a su vez otra familia.
 
 ###### Artículo 792.
 
@@ -4841,9 +4853,11 @@ El Director del Registro del Estado Civil será abogado, procurándose que tambi
 
 El Secretario de Gobernación habilitará a una persona para sustituir al Juez del Registro Civil, cuando por cualquier circunstancia el titular no desempeñe su función. Este suplente no podrá ser el Director del Registro Civil.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 ###### Artículo 831.
 
-Los jueces del Registro del Estado Civil tendrán bajo su responsabilidad formas especiales, por cuadruplicado, en las que asentarán: "Actas de nacimiento", "Actas de Reconocimiento de hijos"; "Actas de tutela"; "Actas de matrimonio" "Actas de divorcio"; "Actas de inscripción de sentencias" y "Actas de defunción" y estas formas serán expedidas por el Director del Registro Civil, previa aprobación del Ejecutivo del Estado.
+Los jueces del Registro del Estado Civil tendrán bajo su responsabilidad formas especiales, por cuadriplicado en las que asentarán: "Actas de nacimiento", "Actas de Reconocimiento de hijos", "Actas de tutela", "Actas de matrimonio", "Actas de divorcio", "Actas de inscripción de sentencias" y "Actas de defunción" y estas formas serán expedidas por el Director del Registro del Estado Civil, previa aprobación del Ejecutivo del Estado.
 
 ###### Artículo 832.
 
@@ -4951,21 +4965,13 @@ Los actos del estado civil relativos a la misma persona, deberán anotarse, en e
 
 Los Juzgados del Registro del Estado Civil estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro Civil de acuerdo con las Leyes y Reglamentos aplicable.
 
-#### Sección Cuarta.- Actas de Adopción
+#### Sección Cuarta.- Actas de Adopción. Artículos 881.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
-Artículos 881.- Dictada la resolución judicial definitiva que autorice una adopción, el adoptante, dentro de treinta días, presentará al Juez del Registro del Estado Civil copia certificada de ella, para que se asiente el acta correspondiente.
+Artículos 882.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
-Artículos 882.- La falta del registro de la adopción no priva a ésta de sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 878.
+Artículos 883.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
-Artículos 883.- El acta de adopción contendrá:
-
-I.- Nombre, apellidos, sexo, lugar de nacimiento, edad, domicilio y nacionalidad del adoptado;
-
-II.- Nombre, apellidos, edad, estado civil, domicilio y nacionalidad del adoptante o adoptantes;
-
-III.- Los datos esenciales de la resolución judicial, puntos resolutivos de la misma, fecha en que causó ejecutoria y la autoridad que la dictó.
-
-Artículos 884.- El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro de ocho días copia certificada de su resolución al Juez del Registro del Estado Civil, para que cancele el acta de adopción y anote la de nacimiento.
+Artículos 884.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
 ###### Artículo 856.
 
@@ -5179,7 +5185,7 @@ Antes de remitir el acta al Juez, el del Registro del Estado Civil hará saber a
 
 ###### Artículo 900.
 
-La denuncias anónimas y las hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas y, en este caso, el Juez del Registro del Estado Civil turnará de inmediato la denuncia a la autoridad judicial que corresponda, suspendiendo todo procedimiento hasta que se resuelva ejecutoriamente el asunto.
+Las denuncias anónimas y las hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas y, en este caso, el Juez del Registro del Estado Civil turnará de inmediato la denuncia a la autoridad judicial que corresponda, suspendiendo todo procedimiento hasta que se resuelva ejecutoriamente el asunto.
 
 ###### Artículo 901.
 
@@ -5285,7 +5291,7 @@ Los dueños o habitantes de la casa en que se verificare un fallecimiento; los d
 
 ###### Artículo 917.
 
-Si el fallecimiento ocurriere en lugar o población en que no hubiere oficina del Registro, la autoridad municipal hará las veces de Juez del Registro del Estado Civil, y remitirá a éste copia del acta que haya formado, para que la asiente en la formas respectivas.
+Si el fallecimiento ocurriere en lugar o población en que no hubiere oficina del Registro, la autoridad municipal hará las veces de Juez del Registro del Estado Civil, y remitirá a éste copia del acta que haya formado, para que la asiente en las formas respectivas.
 
 ###### Artículo 918.
 
@@ -7283,7 +7289,7 @@ La cantidad de agua que puede hacerse pasar por un acueducto, a través de un pr
 
 ###### Artículo 1293.
 
-Si el que disfruta el acueducto necesitare ampliarlo, deberá costear las obras necesarias, y pagar, conforme a lo dispuesto en las fracción III y IV del artículo 1291, el terreno que nuevamente se ocupe y los daños que cause.
+Si el que disfruta el acueducto necesitare ampliarlo, deberá costear las obras necesarias, y pagar, conforme a lo dispuesto en las fracciones III y IV del artículo 1291, el terreno que nuevamente se ocupe y los daños que cause.
 
 ###### Artículo 1294.
 
@@ -7609,7 +7615,7 @@ En el caso del artículo anterior, el recuperante tiene derecho de repetir contr
 
 ###### Artículo 1360.
 
-Quien no haya promovido el interdicto de recuperar la posesión, o quien habiéndolo promovido no haya obtenido sentencia favorable, puede ejercitar la acción plenaria, contra aquél cuyo posesión no sea mejor.
+Quien no haya promovido el interdicto de recuperar la posesión, o quien habiéndolo promovido no haya obtenido sentencia favorable, puede ejercitar la acción plenaria, contra aquél cuya posesión no sea mejor.
 
 ###### Artículo 1361.
 
@@ -7847,7 +7853,7 @@ III.- La renuncia a la usucapión puede ser expresa o tácita, siendo ésta últ
 
 IV.- El que no puede enajenar no puede renunciar al plazo de la usucapión que ha comenzado ni a la usucapión consumada;
 
-V.- El acreedor del adquirente por usucapión quien tuviere legítimo interés en que esta adquisición subsista, pueden hacer valer la usucapión que aquél haya renunciado.
+V.- El acreedor del adquirente por usucapión y quien tuviere legítimo interés en que esta adquisición subsista, pueden hacer valer la usucapión que aquél haya renunciado.
 
 ###### Artículo 1399.
 
@@ -8405,7 +8411,7 @@ El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades d
 
 ###### Artículo 1502.
 
-Cuando fuere imposible resolver la dudas por las reglas establecidas en los artículos anteriores, y aquéllas recaen sobre circunstancias accidentales del contrato, se observarán las reglas siguientes:
+Cuando fuere imposible resolver las dudas por las reglas establecidas en los artículos anteriores, y aquéllas recaen sobre circunstancias accidentales del contrato, se observarán las reglas siguientes:
 
 I.- Si las circunstancias, aunque accidentales por la naturaleza del contrato, revelaren que sin ellas no se habría prestado el consentimiento de alguno de los contratantes, el contrato es inexistente;
 
@@ -10669,7 +10675,7 @@ I.- La restitución será absoluta, operando en forma retroactiva, integral, par
 
 II.- La restitución será parcial, respecto a los actos instantáneos o de tracto sucesivo, que no sean susceptibles de reponerse íntegramente;
 
-III.- La restitución es inoperante respecto a la partes en los actos que implican situaciones irreparablemente consumadas;
+III.- La restitución es inoperante respecto a las partes en los actos que implican situaciones irreparablemente consumadas;
 
 IV.- La restitución de las prestaciones no podrá hacerse en perjuicio de terceros de buena fe;
 
@@ -11121,7 +11127,7 @@ No podrá hacerse efectiva la pena cuando el obligado a ella no pudo cumplir el 
 
 ###### Artículo 2025.
 
-En las obligaciones solidaria con cláusula penal, se aplicarán las siguientes disposiciones:
+En las obligaciones solidarias con cláusula penal, se aplicarán las siguientes disposiciones:
 
 I.- Bastará la contravención de uno de los deudores para que se incurra en la pena;
 
@@ -12983,7 +12989,7 @@ Los administradores de bienes ajenos, no podrán dar en comodato, sin autorizaci
 
 ###### Artículo 2368.
 
-El comodatorio adquiere el uso; pero no los frutos y accesiones del bien.
+El comodatario adquiere el uso; pero no los frutos y accesiones del bien.
 
 ###### Artículo 2369.
 
@@ -13627,7 +13633,7 @@ IV.- Por incapacidad del mandante o del mandatario;
 
 V.- Por el vencimiento del plazo o conclusión del asunto para el que se concedió;
 
-VI.- En los casos de ausencia, conforme a la reglas de esta materia.
+VI.- En los casos de ausencia, conforme a las reglas de esta materia.
 
 ###### Artículo 2491.
 
@@ -13923,7 +13929,7 @@ Cuando la obra se contrató por honorarios que se estimen en un tanto por ciento
 
 I.- Si se rescinde el contrato por voluntad del empresario, éste tiene derecho de cobrar los honorarios de la porción concluida de la obra;
 
-II.- Si el contrato se rescinde por voluntad del dueño, éste debe pagar al empresario, además de lo honorarios a que se refiere la fracción anterior, el cincuenta por ciento de los honorarios que hubiere devengado si continuara la obra;
+II.- Si el contrato se rescinde por voluntad del dueño, éste debe pagar al empresario, además de los honorarios a que se refiere la fracción anterior, el cincuenta por ciento de los honorarios que hubiere devengado si continuara la obra;
 
 III.- El empresario, al rescindirse el contrato, deberá probar el costo de los materiales, el empleo de éstos en la obra y el importe de los gastos hechos;
 
@@ -15049,7 +15055,7 @@ Si son varios los fiadores de un deudor por una sola deuda, se aplicarán las si
 
 I.- Cuando no haya convenio en contrario, responderá cada uno de ellos por la totalidad de la deuda;
 
-II.- Si sólo uno de los fiadores es demandado, podrá llamar al juicio a los demás para que se defiendan juntamente y en la proporción debida, o de igual manera estén a la resultas del mismo.
+II.- Si sólo uno de los fiadores es demandado, podrá llamar al juicio a los demás para que se defiendan juntamente y en la proporción debida, o de igual manera estén a la (sic) resultas del mismo.
 
 ###### Artículo 2771.
 
@@ -16229,7 +16235,7 @@ Concurriendo diversos acreedores de la misma clase y orden, serán pagados segú
 
 ###### Artículo 2969.
 
-Los gastos judiciales hecho por un acreedor en lo particular, serán pagados en el orden en que deba serlo el crédito que los haya causado.
+Los gastos judiciales hechos por un acreedor en lo particular, serán pagados en el orden en que deba serlo el crédito que los haya causado.
 
 ###### Artículo 2970.
 
@@ -17643,7 +17649,7 @@ Sección Decimocuarta.- Legado para contraer matrimonio
 
 Si se lega alguna cantidad para cuando se tome estado, se entiende legada para contraer matrimonio y puede dejarse a alguno el usufructo total o parcial de uno o varios bienes o una pensión o prestación periódica por el tiempo que permanezca viudo o soltero.
 
-Sección Décimoquinta.- Legados alternativos
+Sección Decimoquinta.- Legados alternativos
 
 ###### Artículo 3217.
 
@@ -17669,7 +17675,7 @@ El Juez, a petición de parte hará elección, si en el término que él señale
 
 La elección hecha legalmente es irrevocable.
 
-Sección Décimosexta.- Legados de Usufructo, y servidumbre
+Sección Decimosexta.- Legados de Usufructo, y servidumbre
 
 ###### Artículo 3223.
 
@@ -19350,3 +19356,25 @@ TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publ
 P.O. 26 DE JULIO DE 1991.
 
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las personas que hayan adoptado en el Estado de Puebla, en los términos que marcaban los Códigos Civil y de Procedimientos Civiles, y que a la fecha los menores adoptados no hayan cumplido la mayoría de edad, podrán tramitar la adopción en los términos de las siguientes disposiciones transitorias cuya vigencia será de dos años, al cabo de las cuales quedarán abrogadas.
+
+###### ARTICULO TERCERO.
+
+Las gestiones a que se refiere el artículo anterior, se tramitarán en Jurisdicción Voluntaria y se le dará al Agente del Ministerio Público la intervención que le corresponde.
+
+###### ARTICULO CUARTO.
+
+Los Jueces de lo Familiar que conozcan de estas gestiones, ordenarán se hagan las anotaciones marginales correspondientes en las actas de nacimiento y de adopción; asimismo, procederán conforme a lo dispuesto por el artículo 585 del Código Civil.
+
+###### ARTICULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
