@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-turismo-29"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-02"
-last_updated: "1994-05-02"
+last_updated: "1999-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-04-29"
 
 REGLAMENTO DE LA LEY FEDERAL DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 1999.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 2 de mayo de 1994.
 
@@ -147,19 +147,25 @@ V.- Practicar las visitas de verificación, de conformidad con lo establecido en
 
 VI.- Participar en la integración del catálogo.
 
-### CAPITULO IV. DE LA PROMOCION Y EL FOMENTO AL TURISMO
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
-ART. 14.- La Secretaría suscribirá convenios para formalizar los compromisos que de manera conjunta asuma con personas nacionales y extranjeras, así como con los gobiernos estatales y municipales y del Distrito Federal, en los términos de los artículos 20 y 21 de la Ley.
+### CAPITULO IV. DE LA PROMOCION TURISTICA
 
-ART. 15.- Los convenios a que se refiere el artículo anterior, son instrumentos de derecho público y de cumplimiento obligatorio para las partes que lo celebren, debiendo preverse las consecuencias que se deriven de su incumplimiento, a fin de asegurar el interés general y garantizar su ejecución en tiempo y forma. Dichos convenios deberán prever los lineamientos para garantizar la debida y oportuna aplicación de recursos a los programas de promoción.
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
-ART. 16.- La Secretaría convendrá con los gobiernos de las entidades federativas, los municipios y el del Distrito Federal, satisfaciendo las formalidades que en cada caso procedan, la coordinación necesaria para dar efectividad a los programas de promoción conjunta previstos en la Ley.
+ART. 14.- El Consejo de Promoción Turística de México suscribirá convenios para formalizar los compromisos que de manera conjunta asuma con los gobiernos de las entidades federativas y de los municipios, así como con organismos mixtos, prestadores de servicios turísticos y particulares, en los términos del artículo 25, fracciones VI a VIII, de la Ley.
 
-Los prestadores de servicios turísticos participarán en los programas de promoción y fomento coordinados por la Secretaría, así como en los programas de capacitación turística que promueva o lleve a cabo.
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
-ART. 17.- La Secretaría y las dependencias u órganos estatales o municipales de turismo a que se refieren los artículos 17 y 18 de la Ley, recabarán la información para la elaboración del catálogo, el que será parte de los programas de promoción conjunta a que se refiere el artículo 21 de la Ley.
+ART. 15.- Los convenios que celebre el Consejo de Promoción Turística de México, en términos del artículo anterior, deberán prever los lineamientos para garantizar la debida y oportuna aplicación de recursos de los programas de promoción, así como las consecuencias que se deriven de su incumplimiento, con objeto de asegurar y garantizar su ejecución en tiempo y forma.
 
-Para la difusión y distribución del catálogo, la Secretaría contará con el apoyo de otras dependencias y entidades de la administración pública federal, así como de las dependencias u órganos estatales o municipales de turismo a que se refieren los artículos 17 y 18 de la Ley.
+ART. 16.- (DEROGADO, D.O.F. 9 DE NOVIEMBRE DE 1999)
+
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+
+ART. 17.- La Secretaría, el Consejo de Promoción Turística de México, y las demás dependencias u órganos de las entidades federativas y de los municipios, competentes en materia de turismo, recabarán la información para la elaboración del Catálogo Nacional Turístico.
+
+La Secretaría y el Consejo de Promoción Turística de México podrán convenir con las dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y de los municipios, su apoyo para la difusión y distribución del catálogo mencionado en el párrafo anterior.
 
 ART. 18.- Los prestadores de servicios turísticos, deberán aportar la información estadística que la autoridad les solicite, de conformidad con la ley de la materia.
 
@@ -261,7 +267,7 @@ Este tipo de agencias deberá integrar y publicar anualmente, cuando menos, dos 
 
 ART. 31.- La agencia de viajes minorista es aquella que ofrece y vende al público consumidor paquetes turísticos integrados por la operadora mayorista; servicios de otros prestadores de servicios turísticos o relacionados con ellos; y, a solicitud expresa del cliente, integra dos o más servicios turísticos o relacionados con éstos en un solo producto.
 
-El agente de viajes minorista para integrar paquetes turísticos, deberá dar aviso por escrito a la Secretaría, antes de iniciar su promoción y comercialización.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
 ART. 32.- La subagencia de viajes es la persona física o moral que ofrece y vende al público consumidor exclusivamente servicios turísticos o relacionados con ellos.
 
@@ -309,9 +315,9 @@ ART. 40.- Los agentes de viajes deberán tener a disposición del público en ge
 
 ART. 41.- Las agencias de viajes que integren paquetes o excursiones turísticos contratarán, en su caso, a aquellos guías que cuenten con la credencial de reconocimiento expedida por la Secretearía.
 
-ART. 42.- Para los efectos de la Ley y del presente Reglamento, las representaciones de hoteles y agentes generales de ventas de otros prestadores de servicios turísticos, se equiparan a las agencias de viajes en los términos de la fracción II del artículo 4o. de la Ley y estarán sujetas a los requisitos de operación que establecen los artículos 27, 30, 31, 34, 35, 37, 38, 39 y 40 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
-Quedan excluidos de lo aquí previsto, los centros de reservaciones de las empresas hoteleras.
+ART. 42.- Para efectos de la Ley y del presente Reglamento, las representaciones de hoteles y agentes generales de ventas de otros prestadores de servicios turísticos, se equiparan a las agencias de viajes en los términos de la fracción II del artículo 4o. de la Ley y estarán sujetas a los requisitos de operación que establecen los artículos 27, 30, 34, 35, 37, 38, 39 y 40 del presente Reglamento.
 
 ART. 43.- Toda empresa que intermedie servicios turísticos o integre paquetes turísticos, deberá actuar como agencia de viajes y cumplir con las disposiciones de la Ley y del presente ordenamiento.
 
@@ -321,7 +327,7 @@ ART. 44.- Los guías de turistas podrán prestar sus servicios bajo alguna de la
 
 I.- Guía general: Persona que cuenta con estudios de guía a nivel técnico, reconocidos en los términos de las leyes de la materia y que puede desempeñar esta actividad a nivel nacional con un dominio global de los atractivos turísticos del país;
 
-II.- Guía con licenciatura: Persona que cuenta con estudios de educación superior, vinculados con la actividad turística, y que estén reconocidos en los términos de las leyes de la materia;
+II.- (DEROGADA, D.O.F. 9 DE NOVIEMBRE DE 1999)
 
 III.- Guía especializado: Persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específicos.
 
@@ -335,17 +341,23 @@ I.- Demostrar conocimientos o experiencia en la actividad que como guía pretend
 
 II.- Acreditar la legal estancia en el país, en el caso de extranjeros.
 
-ART. 47.- Satisfechos los requisitos establecidos en el artículo anterior, la Secretaría expedirá la credencial que reconozca al guía de turistas, en un plazo máximo de 30 días hábiles contados a partir de la fecha de la presentación del aviso de cumplimiento de requisitos mínimos, la cual deberá portar a la vista al prestar sus servicios.
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE 1999)</small>
+
+ART. 47.- Satisfechos los requisitos establecidos en el artículo anterior, la Secretaría expedirá la credencial que reconozca al guía de turistas en un plazo máximo de diez días hábiles tratándose de guías generales, y de quince días hábiles en caso de guías especializados. Dichos plazos se contarán a partir de la fecha de presentación del aviso de cumplimiento de requisitos mínimos. El prestador de servicios deberá portar a la vista la credencial que se le expida.
+
+A petición del interesado, la Secretaría deberá reponer o canjear dicha credencial dentro de los cinco días hábiles siguientes a la presentación de la solicitud correspondiente. En el caso de reposición, el interesado deberá presentar acta levantada ante el ministerio público o autoridad competente que certifique el robo o extravío de la credencial, y en el supuesto de canje, bastará con la presentación de la credencial que se desea canjear. En ambos casos, se deberá presentar, además, siete fotografías tamaño pasaporte, a color, en fondo blanco.
 
 ART. 48.- La credencial deberá refrendarse cada cuatro años, para lo cual deberá cumplirse con los requisitos que la Secretaría establezca para comprobar la vigencia de los datos aportados en el aviso inicial, así como la actualización de conocimientos o experiencia.
 
 Para tal efecto, deberán presentar ante la Secretaría la solicitud de refrendo en los formatos que le proporcione, dentro de los 30 días hábiles anteriores a la fecha de vencimiento y cumplir con los requisitos señalados en este Reglamento.
 
-ART. 49.- Presentada la solicitud y cubiertos los requisitos, la Secretaría contará con un plazo de 30 días hábiles para entregar al guía de que se trate, el comprobante de que se ha efectuado el refrendo.
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+
+ART. 49.- Presentada la solicitud y cubiertos los requisitos, la Secretaría contará con un plazo de diez días hábiles para entregar al guía de que se trate el comprobante de que ha efectuado el refrendo.
 
 ART. 50.- La Secretaría otorgará credencial de reconocimiento permanente a los guías que hayan cumplido con todas las disposiciones del presente Reglamento y que, a juicio de la misma, hayan realizado una labor satisfactoria, de manera ininterrumpida, durante doce años de servicios.
 
-Una vez obtenida la credencial de reconocimiento permanente, bastará con informar a la Secretaría cada cuatro años que continuan prestando el servicio de guías, sin que sea necesario el refrendo.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
 ART. 51.- La Secretaría podrá verificar directamente o en coordinación con las dependencias u órganos estatales o municipales de turismo a que se refieren los artículos 17 y 18 de la Ley, la veracidad de la información proporcionada por los guías de turistas.
 
@@ -479,6 +491,10 @@ ART. 81.- En el procedimiento de infracción serán admisibles toda clase de pru
 
 El prestador deberá ofrecer sus pruebas al momento de comparecer ante la Secretaría. En su caso, ésta dispondrá su desahogo dentro de los 15 días siguientes a su ofrecimiento.
 
+> <small>(ADICIONADO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+
+La Secretaría dictará la resolución dentro de los diez días hábiles siguientes al desahogo de pruebas o, en caso de que éste no se requiera, al día en que el interesado manifieste lo que a su derecho convenga.
+
 ART. 82.- En las resoluciones impositivas de sanciones, se analizarán y valorarán las pruebas que hayan sido aportadas por el prestador del servicio, con base en los artículos 52 y 53 de la Ley.
 
 ART. 83.- La sanción será notificada personalmente al infractor o a su representante legal, observando al efecto las formalidades del caso.
@@ -499,7 +515,9 @@ ART. 88.- En el envío del recurso por correo certificado con acuse de recibo, s
 
 ART. 89.- El recurso de revisión se tendrá por no interpuesto cuando se presente fuera del término que dispone la Ley y cuando el promovente no acredite la personalidad o legitimación con la cual se ostente.
 
-ART. 90.- La Secretaría dictará resolución dentro de los 90 días hábiles siguientes, a partir de la fecha de presentación del recurso.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+
+ART. 90.- La Secretaría dictará la resolución dentro de los treinta días hábiles siguientes a la fecha de presentación del recurso.
 
 Transcurrido dicho plazo sin que se resuelva el recurso, se considerará resuelto negativamente.
 
@@ -522,3 +540,9 @@ Los guías de turistas podrán optar por la expedición de la credencial a que s
 QUINTO.- Los prestadores de servicios turísticos que se encuentren inscritos en el Registro Nacional de Turismo con anterioridad a la fecha de entrada en vigor del presente Reglamento, gozarán de los beneficios a que se refiere el artículo 24 de este ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de abril, de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Desarrollo Social, Carlos Rojas Gutiérrez.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Turismo, Jesús Silva Herzog.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE NOVIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
