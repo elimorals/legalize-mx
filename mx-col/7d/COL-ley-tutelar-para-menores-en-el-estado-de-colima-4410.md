@@ -4,7 +4,7 @@ identifier: "COL-ley-tutelar-para-menores-en-el-estado-de-colima-4410"
 country: "mx"
 rank: "ley"
 publication_date: "1980-03-15"
-last_updated: "1980-03-15"
+last_updated: "1983-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY TUTELAR PARA MENORES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 15 de marzo de 1980.
 
@@ -142,6 +142,14 @@ XIII.- En general, la elaboración, ejecución y coordinación de programas y ac
 ###### ARTICULO 11o.
 
 La prevención de conductas antisociales es tarea prioritaria del Ejecutivo del Estado. Para tal objeto, deberá implementar un programa permanente que comprenda la participación de todos los sectores públicos y sociales y la realización de medidas y acciones encaminadas a detectar, investigar y combatir las situaciones familiares, sociales o morales negativas para el sano desarrollo integral de los menores.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1983)</small>
+
+Queda estrictamente prohibido a los encargados o responsables de todos los establecimientos que expendan al público substancias inhalantes, en sus formas de thinner, resistol 5,000 u otras similares, vender tales productos a menores de 18 años, o a personas notoriamente drogadictas. Corresponderá a los Ayuntamientos del Estado reglamentar debidamente su venta, y establecer las sanciones a que se harán acreedores los infractores a esta disposición.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1983)</small>
+
+Queda estrictamente prohibido a los propietarios encargados de cantinas, bares, centros botaneros, prostíbulos o casas de cita, permitir el acceso de menores de 18 años a sus establecimientos. En la misma forma queda prohibida la venta a menores de 18 años de toda clase de bebidas embriagantes. Corresponderá a los Ayuntamientos proceder a la reglamentación respectiva y fijar las sanciones a que se hagan acreedores los infractores.
 
 ## TITULO SEGUNDO. Del Consejo Tutelar para Menores
 
@@ -333,11 +341,29 @@ Cualquier autoridad ante la que sea presentado un menor en los casos a que se re
 
 Si el menor no hubiese sido presentado, la autoridad que tome conocimiento de los hechos informará sobre ellos al Consejo Tutelar. El Instructor a quien se turnare el asunto, citará a aquél y a sus familiares, de ser necesario, y en su caso dispondrá la presentación del mismo por conducto del personal que para esos fines cuente el Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 1983)</small>
+
 ###### ARTICULO 36o.
 
-Al ser presentado el menor, el Consejero Instructor de turno procederá a escucharlo por medio de un interrogatorio sencillo y amistoso, en presencia del Procurador o del Promotor comisionado y establecerá en forma sumaria las causas de su ingreso y las circunstancias personales del menor, con el propósito de acreditar los hechos y la conducta que se le atribuya.
+Al ser presentado el menor el Consejero Instructor de turno procederá a escucharlo por medio de un interrogatorio sencillo y amistoso, en presencia del Procurador o del Promotor comisionado y establecerá en forma sumaria las causas de su ingreso y las circunstancias personales del menor, con el propósito de acreditar los hechos y la conducta que se le atribuya.
 
 Con base en los elementos reunidos, el Instructor resolverá de plano, a más tardar dentro de las 72 horas siguientes a la recepción del menor: si éste queda en libertad incondicional; si se entrega a quien ejerza la patria potestad o la tutela o a quienes, a falta de aquéllos, lo tengan bajo su guarda; si debe ser internado en el Centro de Observación y Orientación, quedando sujeto en los dos últimos supuestos al Consejo Tutelar para la continuación del procedimiento. En todo caso la resolución que se emita deberá contener los fundamentos legales y técnicos en que se apoye.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1983)</small>
+
+En aquellos casos en que el Consejo lo juzgue conveniente y cuando los menores sujetos a tratamiento posterior sean entregados para su custodia a quienes ejercen la patria potestad o la tutela, se podrá fijar fianza con el exclusivo objeto de garantizar la presentación periódica de los menores con el personal especializado del Consejo o del Centro Estatal de Menores, para su tratamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1983)</small>
+
+Dichas fianzas se fijarán tomando en cuenta tanto el grado de o los ilícitos cometidos, como de la situación económica de sus padres o tutores, y se reintegrarán tan pronto el Consejero Instructor considere terminado el tratamiento prescrito.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1983)</small>
+
+Las fianzas se perderán únicamente en los casos siguientes: Por no presentar al menor por tres veces consecutivas sin causa justificada a su tratamiento o por reincidir en el mismo o en otro delito.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1983)</small>
+
+En tal caso las fianzas perdidas se incorporarán al presupuesto de gastos del Centro Estatal de Menores.
 
 ###### ARTICULO 37o.
 
@@ -536,3 +562,9 @@ Dado en el Recinto del Poder Legislativo a los trece días del mes de marzo de m
 Por tanto mando se imprima, publique circule y observe.
 
 Palacio de Gobierno, Colima, Col., 14 de marzo de 1980.- LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno.- LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE MARZO DE 1983.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
