@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2000-10-03"
+last_updated: "2002-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2002.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -127,23 +127,31 @@ El nombre propio, será impuesto por quien declare el nacimiento de una persona,
 
 ART. 19.1.- Si al hacer el registro no se sabe quienes son los padres, el nombre propio y los apellidos serán puestos por quien lo presenta o en su defecto por el Oficial del Registro Civil.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 19.2.- (DEROGADO, P.O. 4 DE MAYO DE 2002)
 
-ART. 19.2.- No estará permitido el cambio de nombre a persona alguna.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 19.3.- No estará permitido el cambio de nombre a persona alguna, salvo en los siguientes casos:
 
-ART. 19.3.- Se exceptúa de lo dispuesto en el artículo que antecede:
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 I.- Cuando el nombre propio puesto a una persona le cause afrenta;
 
-II.- En los casos de desconocimiento, reconocimiento de la paternidad o maternidad y de adopción;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2002)</small>
 
-III.- En el caso de homonimia, que le cause un perjuicio, podrá pedirse al juez competente del lugar donde esté asentada el acta de nacimiento, se autorice transformar el primero de los apellidos de simple a compuesto o de compuesto a simple, y
+II.- En los casos de desconocimiento, reconocimiento de la paternidad o maternidad, o de la adopción;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2002)</small>
+
+III.- En los casos de homonimia que le cause perjuicio, pudiendo variar el primero de los apellidos de simple a compuesto, o de compuesto a simple, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 IV.- Cuando alguien hubiere sido conocido con nombre diferente al que aparece en su acta de nacimiento.
 
-Declarado el cambio de nombre por sentencia ejecutoriada, se asentará el mismo en el acta de nacimiento, subsistiendo en los libros del Registro Civil, el nombre de la persona que primeramente se haya asentado.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2002)</small>
+
+Declarado el cambio de nombre en los casos que establece el Código Civil y ordenamientos complementarios, por sentencia ejecutoriada, o realizada la enmienda del mismo por resolución administrativa en los casos en que lo establece la ley, se asentará el mismo en el acta de nacimiento, subsistiendo en los libros del Registro Civil nombre de la persona que primeramente se haya asentado.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -279,35 +287,35 @@ ART. 38.- Cada Oficialía tendrá su propio apéndice del archivo, que estará i
 
 ART. 39.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2002)</small>
 
-ART. 40.- Los vicios o defectos que por error u omisión, existan en las actas y de ellos sean atribuibles al Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; pero cuando no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+ART. 40.- Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 2000)</small>
+Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán ser aclaradas ante el propio Oficial del Registro Civil, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y en su caso de los demás actos del registro civil relacionados, previa revisión y autorización de la Dirección del Registro Civil, para la anotación marginal respectiva en el acta de que se trate.
 
-Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán ser aclaradas ante el propio oficial del Registro Civil, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y de los demás actos del Registro Civil relacionados.
+En todos los casos en los que la enmienda sea mayor a la corrección de un error mecanográfico u ortográfico, se dará vista al Ministerio Público; en caso de que éste se oponga, cesará el procedimiento administrativo.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+La infracción de lo antes previsto se sancionará conforme a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios del Estado, sin perjuicio de la responsabilidad civil y penal en que se incurra.
 
-La aclaración se hará previa autorización por escrito otorgada por el Director del Registro con vista al Ministerio Público, debiendo hacerse la anotación marginal en el acta de que se trate. Si el Ministerio Público se opone cesará el procedimiento administrativo.
+El Director del Registro Civil y el Oficial de la adscripción, podrán utilizar un libro auxiliar de márgenes.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2002)</small>
 
-La infracción de lo antes previsto se sancionará con la destitución del Oficial del Registro Civil, sin perjuicio de la responsabilidad civil y penal en que se incurra.
+ART. 41.- Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto y previo el trámite administrativo o judicial, según corresponda, se hará la inscripción respectiva.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+Los registros extemporáneos de nacimientos podrán hacerse por los Oficiales del Registro Civil, únicamente en los siguientes casos:
 
-El Director del Registro Civil o el oficial del mismo, podrán utilizar un libro auxiliar de márgenes.
+I.- Si el menor no excede de los siete años, debiendo al efecto exhibir quien lo presenta, el certificado o constancia médica de nacimiento que así lo acredite, y
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+II.- Tratándose de mayores de siete años de edad, una vez constatada la inexistencia del acta respectiva, cuando el Director del Registro Civil lo autorice por motivos graves, urgentes, causas de fuerza mayor o en campañas de beneficio social, debiéndose acompañar a la solicitud los siguientes requisitos:
 
-ART. 41.- Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto, y previo el trámite judicial correspondiente, se hará la inscripción respectiva.
+a) Fe de bautismo o dos cartas de conocimiento de personas públicas, o de dos personas que se acrediten fehacientemente, o dos identificaciones con que cuente el interesado, y
 
-Tratándose de nacimientos no registrados, el oficial del Registro Civil hará la inscripción si el menor no excede de los siete años, debiendo al efecto exhibirse el certificado médico legal.
+b) Comprobante de domicilio, o en su defecto, carta de vecindad expedida por el ayuntamiento que corresponda.
 
-El titular del Ejecutivo del Estado, por medio del Registro Civil, podrá autorizar la inscripción de nacimientos hasta la edad de catorce años por motivos graves, causas de fuerza mayor o en campañas de beneficio social, debiéndose acreditar esa edad mediante la exhibición del certificado médico legal.
+En todos los casos, previo al registro y expedición del acta respectiva, deberá seguirse el procedimiento administrativo que establece el reglamento correspondiente.
 
-Tratándose de personas mayores de esa edad, el registro del nacimiento se regirá por las disposiciones contenidas en éste Código y ordenamientos complementarios.
+Fuera de los casos anteriores, sólo se inscribirán los registros previa sentencia judicial ejecutoriada.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -707,11 +715,15 @@ ART. 124.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ### CAPITULO XI. De la rectificación de las Actas del Registro Civil
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2002)</small>
+
+ART. 125.- La cancelación y nulidad de una acta del estado civil, procederá únicamente por sentencia judicial ejecutoriada.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 125.- La cancelación, rectificación o modificación de una acta del estado civil, no puede hacerse sino en virtud de resolución pronunciada por autoridad judicial en el procedimiento que corresponda.
-
 Lo dispuesto en este artículo, no es aplicable a los casos de reconocimiento voluntario de un hijo, el cual se sujetará a las prescripciones de este Ordenamiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 No obstante lo anterior, podrá modificarse una acta por enmienda administrativa en los casos a que se refieren este código y las demás disposiciones legales aplicables.
 
@@ -1343,6 +1355,28 @@ ART. 252.- Ejecutoriada una sentencia de divorcio, el juez de primera instancia 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
 
+### CAPITULO IX. De la disolución del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.8.- El concubinato se termina por las siguientes causas:
+
+I.- Por acuerdo mutuo entre las partes;
+
+II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
+
+III.- Por muerte de alguno de los concubinos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
+
+Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
+
+En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
 ### CAPITULO VIII. Del concubinato
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
@@ -1386,28 +1420,6 @@ ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en e
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO IX. De la disolución del concubinato
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.8.- El concubinato se termina por las siguientes causas:
-
-I.- Por acuerdo mutuo entre las partes;
-
-II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
-
-III.- Por muerte de alguno de los concubinos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
-
-Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
-
-En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -5729,48 +5741,6 @@ ART. 1633.2.- Si en cualquier momento de la ejecución de los contratos a que se
 
 ART. 1633.3.- Se entiende por acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevengan por hechos o circunstancias que alteren la situación económica del país o del Estado de San Luis Potosí, de tal manera que de haber sabido el deudor se iban a manifestar en perjuicio de lo pactado por él, no se habría obligado, ni convenido en la forma y términos en que lo hizo.
 
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
 Del Consentimiento
 
 ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
@@ -5790,42 +5760,6 @@ ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin 
 ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
-Del objeto y del motivo o fin de los Contratos
-
-ART. 1660.- Son objeto de los contratos:
-
-I.- La cosa que el obligado debe dar;
-
-II.- El hecho que el obligado debe hacer o no hacer.
-
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
-
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
-
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
-
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 División de los Contratos
 
@@ -5892,6 +5826,84 @@ Disposiciones Finales
 ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
 
 ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+Vicios del Consentimiento
+
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Del objeto y del motivo o fin de los Contratos
+
+ART. 1660.- Son objeto de los contratos:
+
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
+
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -9684,3 +9696,27 @@ P.O. 3 DE OCTUBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE MAYO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Hasta en tanto se reforme el reglamento que corresponde, para la tramitación de los registros extemporáneos de nacimientos a que se refiere la fracción II del artículo 41 de este Decreto, deberá seguirse el siguiente procedimiento:
+
+I. Recibida la solicitud acompañada de los documentos a que se refieren los incisos a) y b) de la fracción II del artículo 41 del Código Civil que se reforma con este Decreto, se citará al interesado a una audiencia que deberá celebrarse dentro de los tres días hábiles contados a partir del siguiente al en que se reciba la solicitud de registro extemporáneo y en la que deberá estar presente asimismo, un agente del Ministerio Público al que deberá citarse legalmente.
+
+En los municipios en los que no exista un agente del Ministerio Público, la citación para la audiencia a que se refiere el párrafo anterior, se hará al síndico municipal quien fungirá como agente del ministerio público, debiendo informar éste del resultado de la audiencia a la Procuraduría General de Justicia del Estado, dentro de los cinco días hábiles siguientes;
+
+II. El interesado deberá presentarse a la audiencia a que se refiere la fracción anterior, acompañado de sus padres si los tuviera, o de dos familiares que cuenten con alguna identificación y que no sean sus descendientes, o en su defecto, de tres testigos que cuenten con alguna identificación y puedan dar fe del lugar y fecha de nacimiento, identidad y filiación del interesado.
+
+Tratándose de personas indígenas o habitantes del medio rural, podrán acreditar su identidad, fecha y lugar de nacimiento y filiación, con acta expedida por la autoridad que corresponda, por acuerdo de la asamblea de la comunidad a que pertenezca;
+
+III. Iniciada la audiencia, el Oficial hará a los familiares o testigos según sea el caso, las preguntas que considere pertinentes para determinar el lugar y fecha de nacimiento, identidad y filiación del interesado. El Agente del Ministerio público podrá también interrogar a los familiares o testigos si lo considera necesario, y
+
+IV. Concluido el interrogatorio, el Ministerio Público deberá manifestar si tuviere oposición al registro, de no ser así, se ordenará el registro en el libro respectivo y se expedirá al interesado el acta de nacimiento correspondiente. Si el Ministerio Público tuviese oposición fundada, cesará el procedimiento administrativo.
+
+En todo lo no previsto, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+TERCERO. La vista que se de al Ministerio Público tratándose de rectificación de actas del registro civil, conforme lo dispone el artículo 40 tercer párrafo del Código Civil que se reforma con este Decreto, deberá ser desahogada por éste en un término no mayor de tres días hábiles contados a partir del siguiente al en que la reciba; de no hacerlo, se le tendrá por manifestando (sic) su conformidad con la rectificación respectiva.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
