@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2003-10-23"
+last_updated: "2004-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO DE 2004.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -847,7 +847,7 @@ Son Comités Permanentes de la Legislatura, los siguientes:
 
 - Administración;
 
-- Información y Seguimiento Presupuestal;
+- (DEROGADO TERCER PARRAFO, G.G. 9 DE ENERO DE 2004)
 
 - Estudios Legislativos;
 
@@ -861,7 +861,7 @@ La Asamblea podrá integrar otros comités que considere necesarios con el cará
 
 Los comités se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
 
-El Comité de Información y Seguimiento Presupuestal, se integrará por los presidentes de las comisiones legislativas de Planeación y Finanzas Públicas; y de Inspección de la Contaduría General de Glosa.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 9 DE ENERO DE 2004)</small>
 
 ###### Artículo 77.
 
@@ -1184,3 +1184,9 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación.
 
 TERCERO.- A más tardar quince días después de la fecha de inicio de vigencia de este decreto, la Gran Comisión propondrá la integración de la Comisión Legislativa de Equidad y Género en sustitución del Comité Permanente de la Mujer, procurando preservar su actual conformación.
+
+G.G. 9 DE ENERO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente de su publicación.
