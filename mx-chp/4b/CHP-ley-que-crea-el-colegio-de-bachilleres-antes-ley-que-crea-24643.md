@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-colegio-de-bachilleres-antes-ley-que-crea-24643
 country: "mx"
 rank: "ley"
 publication_date: "1978-08-09"
-last_updated: "1978-08-09"
+last_updated: "1990-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1990.
 
 Ley Publicada en Alcance al No. 32 del Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 9 de agosto de 1978.
 
@@ -87,7 +87,9 @@ V.- Los directores de cada uno de los planteles que establezca el Colegio.
 
 ARTICULO 6/o.- Los acuerdos de los órganos colegiados de la Institución se tomarán por mayoría de votos y el quórum se integrará con la asistencia de la mitad más de uno de sus miembros. En caso de empate el Presidente. Tendrá voto de calidad.
 
-ARTICULO 7/o.- La Junta Directiva estará integrada por el Secretario de Educación Pública del Estado, el Delegado General de la Secretaría de Educación Pública en la Entidad y tres miembros nombrados por el Gobernador del Estado. Será presidida permanentemente por el que éste designe.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+
+ARTICULO 7/o.- La Junta Directiva estará integrada por el Secretario de Educación, Cultura y Salud del Estado, el Secretario de Programación y Presupuesto, el Director General de los Servicios Coordinados de Educación Pública en la Entidad y dos miembros nombrados por el Gobernador del Estado, será presidida permanentemente por el que éste designe.
 
 ARTICULO 8/o.- Los miembros que designe el Ejecutivo del Estado, podrán ser removidos libremente por éste, y deberán satisfacer los siguientes requisitos:
 
@@ -208,3 +210,9 @@ Dado en el Salón de Sesiones del Palacio del H. Poder Legislativo del Estado, e
 De conformidad con la Fracción I del Artículo 47 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los treinta y un días del mes de julio de mil novecientos setenta y ocho.
 
 EL GOBERNADOR DEL ESTADO.- LIC. SALOMON GONZALEZ BLANCO.- EL SECRETARIO GRAL. DE GOB. DR. JESUS CANCINO CASAHONDA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE OCTUBRE DE 1990.
+
+PRIMERO.- ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
