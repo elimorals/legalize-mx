@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1977-03-07"
+last_updated: "1981-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1981.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -687,17 +687,21 @@ Si no cumplen con la última prevención, no se hará notificación alguna a la 
 
 La primera notificación se hará personalmente al interesado o interesados, en su caso a sus representantes o procuradores, por el Secretario o actuario del Juzgado que lo ordene, en su casa habitación o en el lugar donde el destinatario desempeñe su trabajo y finalmente donde se encuentre al interesado, si no obstante no se encontrare a éste, y cerciorado el notificador, bajo su responsabilidad, que la casa señalada como domicilio del destinatario es realmente su habilitación (sic), le dejará instructivo en el que hará constar: el nombre y apellido del promovente, el Juez o Tribunal que manda practicar la diligencia, la determinación que se manda notificar, la fecha y hora en que se deja y el nombre y apellido de la persona a quien se entrega, recogiéndole su firma en la razón que se levantará del acto que se agregará a las diligencias. La notificación de que se trata, en el caso de Personas Jurídicas, se entenderá con sus Gerentes.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1981)</small>
 
 ###### Artículo 114.
 
-Si se tratara de notificación con emplazamiento para contestar demanda, y a la primera búsqueda no se encontrara al destinatario en los lugares señalados en la primera parte del artículo anterior, el notificador no le dejará instructivo, sino que en la casa señalada como su habitación, le dejará citatorio para hora fija del día siguiente y si no lo esperara el interesado le hará la notificación por cédula. La cédula en los casos de este artículo, se entregará a un familiar o trabajador del demandado, que no esté incapacitado y sea mayor de diez y seis años, que vivan en la casa del destinatario, la que será identificada bajo la responsabilidad del notificador, sólo en el caso de que no se encontrare a ninguna de las personas señaladas, se entenderá el acto con el vecino más inmediato o con el policía de punto, debiendo siempre el notificador advertir a todas las personas señaladas, que en caso de no dar cuenta al interesado con el encargo que se les encomienda, se harán acreedoras a las sanciones previstas en el Código Penal, para aquellas personas y testigos que se conducen con falsedad en declaraciones judiciales.
+Si se tratare de notificación de la demanda y a la primera búsqueda no se encontrare al destinatario, se le dejará citatorio con las personas a las que luego se refiere este Artículo, para hora hábil del día siguiente, y si no espera, se le hará la notificación por cédula.
 
-La cédula contendrá una relación suscinta de la demanda, cuando no sea forzoso entregar las copias de traslado.
+La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado, o a cualquier otra persona que viva en el domicilio señalado, después que el notificador se haya cerciorado de que ahí tiene su domicilio la persona que se busca y exponiendo siempre, el propio notificador, los medios por los cuales se enteró de dicha circunstancia.
 
-En los casos señalados, será obligación del notificador, fijar un aviso de la entrega de la cédula, en la puerta de la residencia del destinatario, enviándole copia de la misma por pieza postal certificada con acuse de recibo y otro ejemplar de la cédula la depositará en la Secretaría del H. Ayuntamiento del Municipio donde deba ejecutarse la notificación. Además el notificador interrogará a las terceras personas con quienes entienda la notificación, por el lugar donde se encuentra el demandado, si se espera su regreso y en que fecha; dejando constancia de las respuestas en las diligencias, con que dará cuenta al Juez o Funcionario respectivo, para que éste dicte las providencias que estime conducentes.
+La cédula, que contendrá los requisitos del instructivo a que se refiere el artículo anterior, se entregará a la persona con quien se entienda la diligencia, así como copia simple de la demanda debidamente cotejada y sellada y, en su caso, copia simple de los demás documentos que el actor haya exhibido con la demanda, agregándose a los autos una copia del citatorio y de la cédula.
 
-Agotadas todas las exigencias señaladas, sin obtener resultados positivos, el actor podrá pedir y el Juez acordar, que se tenga la notificación por hecha bajo la responsabilidad de aquél.
+Si en la casa designada para la notificación, se negasen a recibir la cédula o no se encontrase persona que la reciba, el notificador la fijará a los estrados del Juzgado y en la puerta de la casa, y además deberá enviar al destinatario de la demanda, copia de la cédula por pieza postal certificada con acuse de recibo que agregará al expediente y otro ejemplar de la misma la depositará en la Secretaría del H. Ayuntamiento donde deba ejecutarse la notificación.
+
+La notificación de la demanda a las personas morales, se hará por conducto de su legítimo representante.
+
+Las notificaciones personales subsiguientes se harán conforme a lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
@@ -6542,3 +6546,9 @@ El presente decreto entrará en vigor a los treinta días de su publicación en 
 Los Juzgados de Primera Instancia seguirán conociendo de los negocios de cuantía hasta de dos mil quinientos pesos, que ante ellos se hayan iniciado con anterioridad a la vigencia del presente decreto, hasta su total conclusión, incluyéndose el procedimiento de ejecución.
 
 Los negocios a que se refiere el párrafo que antecede, serán considerados como de primera instancia hasta su total conclusión, aún cuando ya esté vigente la presente reforma.
+
+P.O. 12 DE AGOSTO DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
