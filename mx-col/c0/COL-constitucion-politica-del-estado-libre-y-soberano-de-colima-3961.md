@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1949-01-08"
+last_updated: "1949-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1949.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -691,11 +691,11 @@ Del Poder Judicial.
 
 El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Tribunal para Menores y demás Autoridades que designe la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1949)</small>
 
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia se compone de un Magistrado Propietario, un Supernumerario y un Suplente del primero.
+El Supremo Tribunal de Justicia se compone de dos Magistrados Propietarios, un Supernumerario y dos Suplentes de los primeros.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -1532,3 +1532,7 @@ P.O. 8 DE ENERO DE 1949.
 ###### Artículo 2°.
 
 Este Decreto surtirá sus efectos a partir del día de su publicación en el periódico oficial.
+
+P.O. 5 DE NOVIEMBRE DE 1949.
+
+Este Decreto empezará a surtir sus efectos desde el día quince del presente mes.
