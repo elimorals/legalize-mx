@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1989-12-30"
+last_updated: "1993-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1993.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -493,11 +493,7 @@ La autoridad ejecutora podrá resolver sobre la modificación o conclusión de l
 
 ### CAPITULO VII. CONMUTACION DE SANCIONES
 
-72.- El Ejecutivo, tratándose de delitos políticos, podrá hacer la conmutación de sanciones, impuestas en sentencia irrevocable, conforme a las siguientes reglas:
-
-I.- Cuando la sanción impuesta sea privativa de libertad, se conmutará por confinamiento durante un término igual al de los dos tercios del que debía durar la prisión; y
-
-II.- Si fuere la de confinamiento, se conmutará en multa, computándose a razón de una cuota como máximo por cada día, atendiendo a la situación del reo.
+72.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
 73.- Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las demás circunstancias del hecho, según lo dispuesto por el artículo 52, podrán, a su prudente arbitrio, sustituir la sanción de prisión que debiera imponerse, cuando ésta no exceda de dos años, y se pague o se garantice la reparación de los daños causados, por la de multa o trabajo en favor de la comunidad.
 
@@ -521,63 +517,35 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 ### CAPITULO I. EJECUCION DE LAS SANCIONES
 
-77.- Corresponde al Ejecutivo del Estado la ejecución de las sanciones, previa consulta al Supremo Tribunal de Justicia y al Procurador de Justicia.
+77.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-78.- En la ejecución de las sanciones y medidas preventivas o de seguridad, dentro de los términos que en la sentencia se señalen y atentas las condiciones materiales existentes, el Ejecutivo aplicará al delincuente los procedimientos que se estimen conducentes para su corrección, educación, instrucción y adaptación social, tomando como bases de tales procedimientos, las siguientes:
+78.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-I.- Los establecimientos de reclusión, los especiales donde deban cumplirse las detenciones preventivas, y las colonias penales, deberán estar organizadas sobre la base del trabajo como medio de regeneración, procurando la industrialización de aquéllos y el desarrollo del espíritu de cooperación entre los reclusos.
-
-Dentro de los principios generales consignados en el párrafo que antecede, el Ejecutivo podrá establecer, con carácter permanente o transitorio, campamentos de trabajo, industriales o agrícolas, a cuyos lugares se trasladarán los reos que se destinen a trabajos que exijan esa forma de organización, sin que se vulneren garantías constitucionales;
-
-II.- Aparte de la separación de sexos, se procurará la separación de los infractores que revelen diversas tendencias antisociales, teniendo en cuenta las especies de las infracciones cometidas y las causas y móviles que se hubieren averiguado en los procesos, además de las condiciones personales del infractor;
-
-III.- La diversificación del tratamiento durante el cumplimiento de la sanción para cada clase de delincuentes, procurando llegar, hasta donde sea posible, a la individualización de aquélla;
-
-IV.- La elección de medios adecuados para combatir los factores biológicos, psíquicos y sociales que más directamente hubieren concurrido a la realización del delito, y de aquellas providencias que desarrollen los elementos antitéticos a dichos factores;
-
-V.- La orientación del tratamiento en vista de la mejor readaptación del delincuente y de la posibilidad para éste, de subvenir a sus necesidades;
-
-VI.- Se procurará la práctica de los deportes, de la lectura y de la higiene personal, en las condiciones más apropiadas para cada recluso;
-
-VII.- Se procurará que los reclusos puedan contar con una biblioteca y disfruten de conferencias, pláticas y actos culturales en general;
-
-VIII.- Los reclusos enfermos estarán sujetos a tratamiento médico, y en los casos que lo requieran, a tratamiento especial; y,
-
-IX.- Se organizarán patronatos de exreclusos.
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO II. TRABAJO DE LOS PRESOS
 
-79.- Todo reo privado de su libertad y que no se encuentre enfermo o inválido, se ocupará en el trabajo que se le designe, de acuerdo con los reglamentos interiores del establecimiento donde se encuentre y con sus aptitudes personales, estando obligado a pagar del producto de ese trabajo su alimentación y vestido y, además, la multa que se le hubiere impuesto.
+79.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-80.- El resto del producto del trabajo de los condenados a sanciones privativas de libertad, se distribuirá, por regla general, del modo siguiente:
+80.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-I.- Un treinta por ciento para la reparación del daño;
+81.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-II.- Un cuarenta por ciento para la familia del reo, cuando lo necesite; y
-
-III.- Un treinta por ciento para formar el reo un fondo de reserva.
-
-81.- Si la reparación del daño hubiere sido cubierta, las cuotas respectivas se aplicarán por partes iguales a los demás fines señalados en el artículo anterior.
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
 
 ## TITULO CUARTO. CUMPLIMIENTO DE LAS SANCIONES
 
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
+
 ### CAPITULO III. LIBERTAD CONDICIONAL
 
-82.- El condenado a sanción privativa de la libertad, que hubiere cumplido los dos tercios de su condena observando con regularidad los reglamentos respectivos, podrá obtener su libertad condicional por resolución del Ejecutivo, previos los informes de las comisiones unitarias que establece el Código de Procedimientos Penales, bajo las siguientes condiciones:
+82.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-I.- Que alguna persona solvente, honrada y de arraigo se obligue a vigilar la conducta del reo e informar mensualmente acerca de ella, presentándolo siempre que para ello fuere requerido y a pagar, si no cumple, en los términos que prevenga el respectivo reglamento, la cantidad que se hubiere fijado al conceder la libertad, la cual será de cinco cuotas como mínimo;
+83.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-II.- Que el reo liberado adopte, en el plazo que la resolución determine, oficio, arte, industria o profesión, si no tuviere medios propios de subsistencia;
+84.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-III.- Que el agraciado con la libertad condicional resida en el lugar que se determine, del cual no podrá ausentarse sino con permiso del Ejecutivo. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para la enmienda; y,
-
-IV.- Que a juicio del juez, el reo garantice el pago de la reparación del daño, para el caso de que fuere condenado a ella, o no la hubiere cubierto.
-
-83.- La libertad condicional no se concederá a los reincidentes.
-
-84.- Siempre que el agraciado con la libertad condicional observe durante ella mala conducta, o deje de cumplir con alguna de las condiciones expresadas en el artículo 82, se le privará nuevamente de la libertad para que extinga toda la parte de la sanción de que se le había hecho gracia y la retención correspondiente, sea cual fuere el tiempo que lleve de estar disfrutando del beneficio.
-
-85.- Los reos que disfruten de la libertad condicional, quedarán bajo el cuidado y vigilancia de la policía.
+85.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
 ### CAPITULO IV. SUSPENSION CONDICIONAL DE LA CONDENA
 
@@ -1373,7 +1341,7 @@ IV.- Al que por cualquier medio manifieste ante la autoridad una nacionalidad fa
 
 I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
-II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º. Constitucional:
+II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º, Constitucional:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -1656,6 +1624,10 @@ Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusars
 Cuando la querella fuere por calumnia, se permitirán al inculpado pruebas de su imputación y si ésta quedare probada se librará a aquél de toda sanción, excepto en el caso del artículo 275.
 
 284.- No servirá de excusa de la difamación, ni de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+
+TITULO DECIMOSEPTIMO
+
+DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
 ### CAPITULO I. LESIONES
 
@@ -1961,7 +1933,7 @@ III.- El hecho de que una persona haga aparecer como suyo el depósito que garan
 
 338.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente los artículos 325 y 329 de este Código.
 
-## TITULO DECIMO SEPTIMO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO IV. FRAUDE
 
@@ -2189,9 +2161,9 @@ c) Los que estén ligados con el delincuente por amor, y respeto, gratitud o est
 
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
 
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
-
 ## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
+## TITULO VIGESIMO
 
 ## TITULO VIGESIMO
 
@@ -2230,3 +2202,11 @@ P.O. 30 DE DICIEMBRE DE 1989.
 DECRETO No. 84
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- Se derogan los capítulos I, II y III del Título Cuarto del libro Primero del Código Penal del Estado, así como el Artículo 72 del Capítulo VII del Título Tercero del Ordenamiento antes Invocado.
