@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-servicio-publico-de-transporte-de-9413"
 country: "mx"
 rank: "reglamento"
 publication_date: "1960-06-15"
-last_updated: "1960-06-15"
+last_updated: "1970-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 REGLAMENTO PARA EL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1970.
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 15 de junio de 1960.
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 15 de junio de 1960.
 
 Al margen izquierdo un Sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos".- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 
@@ -95,9 +95,13 @@ c).- Servicio mixto.
 
 Las concesiones para la explotación de caminos y para la prestación del servicio público de transporte de pasajeros en la Entidad, se otorgarán en los términos de la Ley de Tránsito y de los Transportes del Estado, por el término que se considere necesario para recuperar la inversión que tengan que efectuar las personas a quienes se concesione el servicio, pero no podrá execeder (sic) de 10 años, y podrán prorrogarse en los términos de este Reglamento, si los concesionarios hubieren cumplido con las obligaciones específicas a su calidad de tales y con las disposiciones de la Ley de Transito y de ]os Transportes y sus Reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1970)</small>
+
 ###### ARTICULO 10o.
 
-Tendrán derecho para solicitar, y obtener en su caso, los permisos y concesiones de explotación del servicio público de transporte de pasajeros en el Estado de Morelos, las personas que cubran los siguientes requisitos:
+Tendrán derecho para solicitar y obtener en su caso, las concesiones de explotación del Servicio Público de Transporte de Pasajeros en el Estado de Morelos, las personas que cubran los siguientes requisitos:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE OCTUBRE DE 1970)</small>
 
 I. En caso de personas físicas:
 
@@ -113,13 +117,43 @@ e).- Cubrir todos y cada uno de los requisitos y condiciones que estatuye este R
 
 II. En caso de personas morales:
 
-a).- Comprobar que estén constituidas conforme a las Leyes del País, acompañando a su petición los justificantes respectivos.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1970)</small>
 
-b).- Comprobar poser (sic) la capacidad económica necesaria para satisfacer las exigencias derivadas del servicio cuya explotación pretenda obtener.
+a).- Comprobar que estén constituidas conforme a las leyes del País, acompañando a su petición los justificantes respectivos.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1970)</small>
+
+b).- Comprobar poseer la capacidad económica necesaria para satisfacer las exigencias derivadas del servicio cuya explotación pretenda obtener.
 
 c).- No ser sociedad en la cual el capital se represente por certificado o acciones impersonales.
 
 d).- Cumplir con todos y cada uno de los requisitos y condiciones que señala la Ley de Tránsito y de los Transportes de la Entidad, y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 1970)</small>
+
+###### ARTICULO 10o.
+
+BlS.-Tendrán derecho para solicitar y obtener en su caso los permisos de explotación del Servicio Público de Transporte de Pasajeros sin itinerario fijo en el Estado de Morelos, las personas que cubran los siguientes requisitos:
+
+I.- En caso de personas físicas:
+
+a).- Ser mexicano por nacimiento.
+
+b).- Mayor de edad.
+
+c).- Haber trabajado como Chofer cuando menos un año con anterioridad a la fecha.
+
+d).- Pertenecer a una Unión o Agrupaci6n de Choferes.
+
+e).- Estar en plenitud del goce de sus derechos, teniendo capacidad jurídica para contratar y obligarse.
+
+f).- Comprobar poseer la capacidad económica suficiente para satisfacer las exigencias originadas por el servicio, cuya explotación trate de obtener.
+
+g) Cubrir todos y cada uno de los requisitos y condiciones que estatuye este Reglamento y la Ley de Tránsito y de los Transportes del Estado.
+
+II.- En caso de personas morales:
+
+Los requisitos serán los mismos a que se refiere la Fracción II del Artículo 10o. de este Reglamento.
 
 ###### ARTICULO 11o.
 
@@ -131,7 +165,7 @@ Se creará una comisión técnica, la que se encargará de realizar los estudios
 
 ###### ARTICULO 13o.
 
-La Comisión Técnica que se menciona en el artículo anterior, tendrá la obligación, al realizar sus estudios, de hacerlos del conocimiento de los usuarios de los sistemas en explotación y de los propios concesionarios de los sistemas, los cuales darán sus puntos de vista que deberán ser examinados, necesariamente, en los dictámenes que emita el cuerpo técnico.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 1970)
 
 ###### ARTICULO 14o.
 
@@ -165,9 +199,11 @@ e).- Si a la insuficiencia en la capacidad del servicio en alguna línea, indica
 
 II.- Si se propone cubrir las necesidades de comunicación por ampliación de las líneas existentes, por el establecimiento de nuevas líneas, o por el establecimiento de nuevo sistema de transporte.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1970)</small>
+
 ###### ARTICULO 17o.
 
-En los casos de los incisos a), b), c) y d) de la fracción I del artículo anterior, se podrán otorgar concesiones para el establecimiento de nuevas líneas o sistemas de explotación, pero siempre adoptándose las medidas necesarias tendientes a evitar la lesión a los intereses de los permisionarios que presten el servicio, y causándola, solamente, en caso de verdadera necesidad; evitando, en lo posible, el crear una competencia ruinosa.
+En los casos de los incisos a), b), c) y d) de la Fracción I del Artículo anterior, se podrán otorgar concesiones para el establecimiento de nuevas líneas o sistemas de explotación, pero siempre adoptándose las medidas necesarias tendientes a evitar competencias ruinosas.
 
 ###### ARTICULO 18o.
 
@@ -245,7 +281,7 @@ En el caso de que transcurrido el término mencionado en el artículo anterior, 
 
 ###### ARTICULO 27o.
 
-Tendrán preferencia para obtener las concesiones o permisos, aquellos que, aunque sea de manera irregular, presten servicio en la ruta cuya concesión motive la declaratoria de necesidad.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 1970)
 
 ###### ARTICULO 28o.
 
@@ -255,9 +291,11 @@ En caso de que ocurran varios solicitantes interesados en obtener una concesión
 
 En igualdad de condiciones, se dará preferencia, invariablemente, a los solicitantes por el orden cronológico en que hayan presentado su solicitud.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1970)</small>
+
 ###### ARTICULO 30o.
 
-El número de permisos o concesiones que válidamente pueden otorgarse a una misma persona, no podrá exceder de tres.
+El número de permisos o concesiones que válidamente pueden otorgarse a una misma persona no podrán exceder de uno.
 
 ###### ARTICULO 31o.
 
@@ -267,7 +305,9 @@ Las solicitudes presentadas en los términos de los artículos que anteceden, se
 
 Serán declaradas como improcedentes las solicitudes de permisos o concesiones en los siguientes casos:
 
-I.- Cuando el solicitante tenga los tres permisos autorizados por este Reglamento.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1970)</small>
+
+I.- Cuando el solicitante, pretenda obtener un permiso o concesión más del que autoriza este Reglamento.
 
 II.- Cuando el solicitante sea extranjero.
 
@@ -311,7 +351,7 @@ IX.- Servicio a que se destine.
 
 X.- Nombre de la ruta con especificación de puntos a tocar en su recorrido.
 
-XI.- Capacidad del vehículo.
+Xl.- Capacidad del vehículo.
 
 XII.- Número de ruedas.
 
@@ -465,13 +505,17 @@ Para la modificación de los horarios y tarifas, la cual podrá efectuarse por l
 
 Cuando a juicio de las Autoridades del Estado el número de unidades sea suficiente para cubrir las necesidades de una línea, hará la declaratoria de que queda cerrada, con expresión del servicio de que se trata.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1970)</small>
+
 ###### ARTICULO 59o.
 
-Cuando en una línea cerrada para un servicio se presente alguna vacante, se dará preferencia para cubrirla a los permisionarios de la misma línea que no tenga el número de permisos autorizados por la Ley, y de entre ellos a los que tengan uno.
+Cuando en una línea cerrada para un servicio se presente alguna vacante, se dará preferencia para cubrir a los concesionarios de la misma línea que no tenga el número de permisos autorizados por la Ley, y entre ellos a los que tengan uno.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1970)</small>
 
 ###### ARTICULO 60o.
 
-Cuando en una línea cerrada para un servicio se requiera aumentar el número de vehículos el Gobierno del Estado resolverá lo conducente, previa inspección y estudio. En caso de aumento, tendrán preferencias los permisionarios de la propia línea que no tengan el número de permisos autorizados por la Ley, y de entre ellos los que tengan uno.
+Cuando en una línea cerrada para un servicio se requiera aumentar el número de vehículos el Gobierno del Estado resolverá lo conducente, previa inspección y estudio. En caso de aumento, tendrán preferencias los concesionarios autorizados por la Ley, y entre ellos los que tengan uno.
 
 ###### ARTICULO 61o.
 
@@ -586,3 +630,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Antonio Riva Palacio L.
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE OCTUBRE DE 1970.
+
+PRIMERO.- Las presentes reformas y adición al Reglamento para el Servicio Público de Transporte de Pasajeros, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los permisos o concesiones otorgadas con anterioridad, se regirán por las disposiciones vigentes en la fecha en que se concedieron.
