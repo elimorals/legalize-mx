@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "1994-12-28"
+last_updated: "1995-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO FISCAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -579,6 +579,68 @@ Las autoridades fiscales podrán compensar de oficio las cantidades que los cont
 
 Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro estatal de contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Hacienda Pública y Tesorería dentro del mes siguiente a la autorización de la escritura.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 72 BIS-A.- Las personas físicas y morales, obligadas al pago de las contribuciones establecidas en la Ley de Hacienda del Estado de Sinaloa, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales estatales en los términos de este Código.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTÍCULO 72 BIS-B.- Los contribuyentes que opten por dictaminar el cumplimiento de sus obligaciones fiscales deberán presentar, dentro de los tres o cuatro meses siguientes según corresponda a personas morales o físicas a la fecha de terminación del período a dictaminar, el aviso a las autoridades fiscales en la forma oficial aprobada. En caso de que dicho aviso se presente con posterioridad a la fecha establecida, las autoridades fiscales, previo análisis de las causales que motivaron el retraso, podrán autorizar la procedencia del dictamen.
+
+El período del dictamen deberá de comprender las contribuciones causadas durante un año de calendario, excepto en el ejercicio de fusión, liquidación y escisión.
+
+El aviso deberá ser suscrito por el contribuyente y por el Contador Público que vaya a dictaminar, y sólo será válido por el periodo que se indique.
+
+Los contribuyentes podrán modificar el aviso originalmente presentado, cuando se sustituya el dictaminador designado, siempre y cuando lo comunique a las autoridades fiscales dentro de los dos meses siguientes a la fecha de presentación del aviso, justificando los motivos que para ello tuviere.
+
+Cuando el Contador Público señalado en el aviso no pueda formular el dictamen por incapacidad física o impedimento legal debidamente probado, el aviso para sustituirlo se podrá presentar en cualquier tiempo hasta antes de que concluya el plazo para la presentación del dictamen.
+
+En estos casos las autoridades fiscales podrán conceder una prórroga para la presentación del dictamen, de acuerdo al análisis que al efecto se realice.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 72 BIS-C.- El dictamen sobre el cumplimiento de las obligaciones fiscales se presentará dentro de los siete meses siguientes al cierre del ejercicio fiscal a dictaminar.
+
+Las autoridades fiscales podrán conceder prórroga hasta por un mes, para la presentación del dictamen, si existen causas comprobadas que impidan el cumplimiento dentro del plazo establecido.
+
+Los contribuyentes que opten por dictaminar el cumplimiento de sus obligaciones fiscales deberán exhibir la siguiente documentación:
+
+1.- Carta de presentación del dictamen.
+
+2.- El dictamen.
+
+3.- El informe.
+
+4.- Los anexos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 72 BIS-D.- El dictamen deberá contener la opinión respecto del cumplimiento de las disposiciones fiscales establecidas en la Ley de Hacienda del Estado de Sinaloa, con apego a las normas de auditoría generalmente aceptadas y procedimientos de auditoría que se considere necesarios para conocer la situación del contribuyente.
+
+Para los efectos del párrafo anterior las normas de auditoría se consideran cumplidas en la forma siguiente:
+
+I.- Las relativas a la capacidad, independencia e imparcialidad profesionales, cuando su registro se encuentre vigente y no tenga impedimento para dictaminar.
+
+II.- Las relativas al trabajo profesional, cuando:
+
+a).- La planeación del trabajo y la supervisión de sus auxiliares le permitan allegarse de elementos de juicio suficientes para fundar su dictamen.
+
+b).- El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría que habrán de emplearse.
+
+En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en que consisten y su efecto sobre el dictamen, emitiendo, en consecuencia, un dictamen con salvedades o un dictamen negativo, según sea el caso:
+
+III.- El informe que se emitirá conjuntamente con el dictamen se integra en la forma siguiente:
+
+a).- Se declarará, bajo protesta de decir verdad, que se emite el informe con base en la revisión practicada conforme a las normas de auditoría y al instructivo, por el periodo correspondiente.
+
+b).- Se manifestará que dentro de las pruebas llevadas a cabo, en cumplimiento de las normas y procedimientos de auditoría, se examinó la situación fiscal del contribuyente por el período dictaminado. En caso de haber observado cualquier omisión respecto al cumplimiento de sus obligaciones fiscales ésta se mencionará en forma expresa; de lo contrario se señalará que no se observó omisión alguna.
+
+c).- Se hará mención expresa de que se verificó el cálculo y entero de las contribuciones establecidas en la Ley de Hacienda del Estado de Sinaloa.
+
+IV.- Se deberán presentar anexos en las formas oficiales aprobadas respecto de cada contribución a que esté sujeto el contribuyente, y
+
+V.- Las omisiones conocidas en la revisión, efectuada por el Contador Público, deberán pagarse antes de la entrega del dictamen o, en su caso informar de las mismas a las autoridades fiscales.
+
 ## TITULO CUARTO. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES FISCALES
 
 ### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
@@ -732,6 +794,42 @@ VIII- Si en el cierre del acta final de la visita no estuviese presente el visit
 IX.- Dentro del acta final se le dará al contribuyente un termino de 15 días hábiles para que proceda a hacer las observaciones que estime pertinentes sobre los hechos consignados en las actas de visita.
 
 X.- Transcurrido el término de 15 días a que se refiere la fracción anterior la autoridad tendrá un termino de 100 días naturales para emitir la determinación del crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 78 BIS-A.- Los hechos afirmados por Contadores Públicos en los dictámenes formulados en relación al cumplimento de las obligaciones fiscales, así como en las aclaraciones respecto a dichos dictámenes, se presumirán ciertos, salvo prueba en contrario, si reúnen los siguientes requisitos:
+
+I.- Que el Contador Público que dictamine cuente con registro actualizado para dictaminar contribuciones federales.
+
+II.- Que el dictamen se formule de acuerdo a las disposiciones de este Código y del instructivo que al efecto se publique.
+
+III.- Que el Contador Público emita, conjuntamente con su dictamen, un informe sobre la revisión fiscal en el que se consigne, bajo protesta de decir verdad, los datos que señale este Código y el instructivo que al efecto se publique.
+
+Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir las liquidaciones de contribuciones omitidas que correspondan.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 78 BIS-B.- Las autoridades fiscales, estarán facultadas para revisar los dictámenes presentados por los contribuyentes, de acuerdo a lo siguiente:
+
+I.- Requerirán al Contador Público, por escrito, con copia al contribuyente.
+
+a).- Los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del Contador Público que dictamine.
+
+b).- Información y documentos que se consideren pertinentes para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+II.- Concederán al Contador Público, un plazo máximo de quince días hábiles contados a partir de la notificación del requerimiento, para que le proporcione la documentación o información requerida.
+
+III.- Podrán requerir al contribuyente para que exhiba la documentación o informes requeridos, cuando ésta no sea proporcionada por el Contador Público en el plazo previsto en la fracción anterior.
+
+Una vez realizado lo anterior, si a juicio de las autoridades fiscales no satisface los requisitos establecidos en este Código, dicha circunstancia se hará del conocimiento del Contador Público y del contribuyente, procediendo a ejercer directamente las facultades de comprobación.
+
+Cuando la autoridad fiscal al revisar el Dictamen del Contador público tenga plena certeza de la omisión, en el pago de alguna contribución establecida en la Ley de Hacienda del Estado de Sinaloa, podrá requerir directamente al contribuyente.
+
+Respecto de la revisión efectuada las autoridades fiscales deberán levantar una última acta final, contando al contribuyente con un plazo de 15 días a partir de su notificación, para desvirtuar los hechos u omisiones observados.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 78 BIS-C.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en el instructivo que al efecto se publique, las autoridades fiscales estarán facultadas para rechazar durante un período de tres años los dictámenes formulados por él. En caso de reincidencia, no se volverá a aceptar ningún dictamen.
 
 ###### ARTICULO 79.
 
@@ -1274,6 +1372,18 @@ Contra los actos administrativos dictados en materia fiscal en el Estado de Sina
 I.- El de revocación.
 
 II.- El de oposición al procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+Además de estos recursos administrativos el contribuyente contará con un procedimiento denominado "Justicia de Ventanilla" que no constituirá instancia pero sí suspenderá por el tiempo que dure el trámite y resolución de este escrito el procedimiento administrativo de ejecución y los efectos de cualquier juicio de índole fiscal y administrativo que tenga relación directa e indirecta con el crédito fiscal o contra los actos administrativos dictados en materia fiscal por las autoridades competentes sin necesidad de otorgar fianza.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+El contribuyente podrá interponer en cualquier tiempo, escrito, sin más requisito que su nombre completo, domicilio fiscal y el planteamiento del problema en forma sencilla ante el Procurador Fiscal, quien resolverá en la misma forma en un plazo no mayor de diez días contados a partir de la fecha de interposición del escrito correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+En contra de la resolución de la Justicia de Ventanilla no procederá medio de defensa alguno.
 
 ###### ARTICULO 119.
 
@@ -1963,6 +2073,12 @@ Los recursos administrativos que se hayan interpuesto durante la vigencia de las
 
 Las infracciones y delitos cometidos durante la vigencia de las disposiciones fiscales que deroga este Decreto, se sancionarán en los términos de dichas disposiciones, a menos que el interesado manifieste su voluntad de acogerse al presente Código por considerarlo más favorable.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO SEXTO.
+
+Para efectos de este Código Fiscal, lo relacionado con el instructivo para el dictamen de impuestos estatales que se señala en el Artículo 78-Bis-C del mismo obligará a los particulares a partir del día siguiente de la publicación del instructivo en el Periódico Oficial "El Estado de Sinaloa".
+
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los catorce días del mes de diciembre de mil novecientos noventa y cuatro.
 
 C. Armando Zamora Canizalez
@@ -1992,3 +2108,11 @@ Francisco C. Frías Castro
 EL SECRETARIO DE HACIENDA PUBLICA Y TESORERIA
 
 Marco Antonio Fox Cruz
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
