@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1938-06-15"
+last_updated: "1939-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1939.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -190,7 +190,7 @@ II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejer
 
 ###### Artículo 20.
 
-El ejercicio de los derechos de ciudadanos coahuilenses se suspenden:
+El ejercicio de los derechos de ciudadanos coahuilense (sic) se suspenden:
 
 I. Por sentencia ejecutoria que condene a la suspensión de esos derechos, por el tiempo que ella fije.
 
@@ -1042,6 +1042,8 @@ La organización y conducción de la función social educativa, estará a cargo 
 
 ### CAPITULO I.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+
 ###### Artículo 122.
 
 El territorio del Estado se divide en Distritos y Municipalidades conforme se expresa en el artículo 6°. La división del Estado en Distritos tiene por objeto expeditar la Administración de justicia.
@@ -1138,9 +1140,11 @@ Poder Judicial.
 
 Jueces de Primera Instancia, Locales y Auxiliares.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+
 ###### Artículo 135.
 
-El poder Judicial se deposita, para su ejercicio, en el Supremo Tribunal de Justicia y en los Jueces de Primera Instancia, Jueces Locales y Auxiliares que establezca la ley.
+El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Jueces Locales Letrados, en los Jueces Locales Legos y en los Jueces Auxiliares, que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 1938)</small>
 
@@ -1218,7 +1222,9 @@ VI. Dirimir las competencias que se susciten entre los Jueces de Primera Instanc
 
 VII. Conceder licencias con o sin goce de sueldo a los Magistrados y Jueces de Primera Instancia, siendo las primeras por causa justificada a juicio del Tribunal.
 
-VIII. Nombrar a los Jueces de Primera Instancia.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1939)</small>
+
+VIII. Nombrar a los Jueces de Primera Instancia y a los Jueces Locales Letrados, designar el Distrito Judicial en que han de ejercer su encargo, cambiar la designación de Distrito Judicial cuando lo estime conveniente para la Administración de Justicia y aceptar las renuncias de los expresados Jueces.
 
 IX. Conocer de las recusaciones o excusas de los Magistrados que formen el Tribunal.
 
@@ -1226,13 +1232,17 @@ X. Nombrar y remover al Secretario y demás empleados subalternos del Tribunal.
 
 XI. Formar su reglamento interior, pasándolo al Congreso para su aprobación.
 
-XII. Suspender hasta por un mes por causa justificada a los Jueces de Primera Instancia.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1939)</small>
+
+XII. Suspender hasta por tres meses, por causa justificada, a los Jueces de Primera Instancia y a los Jueces Locales.
 
 XIII. Remitir al Ejecutivo y al Congreso, los informes que pidan sobre la Administración de justicia.
 
 XIV. Apoyar o contradecir las peticiones de indulto.
 
-XV. Ordenar visitas a los Juzgados de Primera Instancia, y de Cárceles.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1939)</small>
+
+XV. Ordenar visitas de los Juzgados de Primera Instancia, de los Juzgados Locales y de Cárceles.
 
 XVI. Fijar los emolumentos que deban percibir los Magistrados Supernumerarios, cuando conozcan de asuntos del Tribunal.
 
@@ -1264,7 +1274,7 @@ Reglas Generales sobre Administración de Justicia.
 
 ###### Artículo 148.
 
-Los Jueces de Primera Instancia serán nombrados cada dos años por el Supremo Tribunal, y podrán desempeñar el cargo en períodos sucesivos.
+Los Jueces de Primera Instancia y los Jueces Locales Letrados serán nombrados cada dos años por el Supremo Tribunal de Justicia y podrán desempeñar el cargo en períodos sucesivos.
 
 ###### Artículo 149.
 
@@ -1278,21 +1288,29 @@ II. Tener título oficial de abogado.
 
 III. Ser de buenos antecedentes de moralidad.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+
 ###### Artículo 150.
 
-Los Jueces Locales y Auxiliares serán nombrados cada dos años por los Jueces de Primera Instancia a propuesta en terna de los Ayuntamientos respectivos, y podrán desempeñar sus cargos en períodos sucesivos.
+Los Jueces Locales Legos y los Jueces Auxiliares serán nombrados cada dos años por los Jueces de Primera Instancia a propuesta en terna de los Ayuntamientos respectivos y podrán desempeñar sus cargos en períodos sucesivos.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
 
 ###### Artículo 151.
 
-Para ser Juez Local o Auxiliar se requieren los mismos requisitos que para ser Primera Instancia, con excepción del relativo al título de Abogado.
+Para ser Juez Local Letrado se necesitan los mismos requisitos que para ser Juez de Primera Instancia, con excepción del relativo a los dos años cuanto menos del ejercicio de la profesión de abogado, y para ser Juez Local Legos y Juez Auxiliar se requieren únicamente los requisitos a que se refieren las Fracciones I y III del Artículo 149.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
 
 ###### Artículo 152.
 
-Los Jueces de Primera Instancia, Locales y Auxiliares, conocerán de los asuntos que respectivamente les encomienden las leyes.
+Los Jueces de Primera Instancia, Locales Letrados, Locales Legos y Auxiliares conocerán de los asuntos que respectivamente les encomienden las leyes.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
 
 ###### Artículo 153.
 
-Los Jueces de Primera Instancia, residentes en la Capital del Estado, otorgarán la protesta de ley ante el Supremo Tribunal de Justicia; los foráneos, los Jueces Locales y los Auxiliares, protestarán ante el Ayuntamiento del Municipio donde residan.
+Los Jueces de Primera Instancia y Locales Letrados residentes en la Capital del Estado otorgarán la protesta de Ley ante el Supremo Tribunal de Justicia; los Jueces de Primera Instancia y los Locales Letrados foráneos, los Jueces Locales Legos y los Auxiliares protestarán ante el Ayuntamiento del Municipio donde residen.
 
 ### CAPITULO UNICO.
 
@@ -1659,3 +1677,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 15 DE JUNIO DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 23 DE DICIEMBRE DE 1939.
+
+UNICO.- A partir de la vigencia de la presente reforma, el Tribunal Superior de Justicia del Estado procederá a hacer los nombramientos de Jueces Locales Letrados que establezcan las Leyes, de manera que el período del funcionamiento de estos Jueces coincida con el de los de Primera Instancia, aunque por esta vez sea necesario para tal efecto, que se designe un período menor para los Jueces Locales Letrados.
