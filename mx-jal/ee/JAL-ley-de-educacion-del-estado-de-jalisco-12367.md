@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-10-02"
+last_updated: "2004-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -57,11 +57,11 @@ La función social educativa de las universidades y demás instituciones de educ
 
 Todos los habitantes del Estado tienen derecho a recibir educación con las mismas oportunidades de acceso, calidad, permanencia y pertinencia, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación es medio fundamental para adquirir, trasmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 3o.
 
-La educación es un derecho fundamental del ser humano que tiene como propósito su desarrollo integral. La educación primaria, secundaria y media superior tienen carácter obligatorio y gratuito, en los términos de la presente ley y las demás disposiciones aplicables. Atendiendo al derecho que tienen de educar a sus hijos o pupilos, los padres o tutores están obligados a hacer que cursen la educación correspondientes (sic) a estos niveles.
+La educación es un proyecto fundamental del ser humano que tiene como propósito su desarrollo integral. La educación preescolar, primaria, secundaria y media superior tienen carácter obligatorio y gratuito, en los términos de la presente ley y las demás disposiciones aplicables. Atendiendo al derecho que tienen de educar a sus hijos o pupilos, los padres o tutores están obligados a hacer que cursen la educación correspondiente a estos niveles.
 
 ###### ARTICULO 4o.
 
@@ -73,9 +73,11 @@ II.- Laica, por lo tanto se mantendrá por completo ajena a cualquier doctrina r
 
 III.- La educación que impartan el Estado y sus organismos descentralizados es un servicio público.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 5o.
 
-La educación primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
+La educación preescolar, primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -449,9 +451,9 @@ El sistema educativo estatal se compone con los tipos, los niveles y las modalid
 
 I.- El tipo básico comprende los niveles de preescolar con tres grados, la primaria, con seis grados y la secundaria, con tres grados.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-a) La educación preparatoria, el bachillerato tecnológico o el bachillerato pedagógico, son antecedentes obligatorios de la educación superior;
+a) La educación preescolar es antecedente obligatorio de la primaria;
 
 b) La educación primaria es antecedente obligatorio de la secundaria.
 
@@ -493,11 +495,13 @@ El personal que atienda a los niños en este nivel de educación deberá ser egr
 
 DE LA EDUCACION BASICA.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 29.
 
-La educación preescolar es la destinada a los menores de entre tres y cinco años once meses, y tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
+La educación preescolar es obligatoria para todos los habitantes del estado. Es la destinada a los menores de entre tres y cinco años once meses, y tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
 
-Se impartirá en estancias infantiles, casas hogar, jardines de niños e instituciones análogas. No es antecedente obligatorio de la primaria.
+Se impartirá en estancias infantiles, casas hogar, jardines de niños e instituciones análogas. Es antecedente obligatorio de la primaria.
 
 ###### ARTICULO 30.
 
@@ -1696,3 +1700,9 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar, a partir del ciclo 2004 - 2005; el segundo año de preescolar, a partir del ciclo 2005 - 2006; el primer año de preescolar, a partir del ciclo 2008 - 2009.
