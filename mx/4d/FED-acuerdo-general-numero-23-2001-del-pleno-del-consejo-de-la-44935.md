@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-10-26"
+last_updated: "2001-10-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -123,9 +123,13 @@ II.- SEGUNDO CIRCUITO:
 
 III.- TERCER CIRCUITO:
 
-1.- Diez tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, cuatro en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
 
-2.- Tres tribunales unitarios con residencia en Guadalajara.
+1.- Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
+
+2.- Cuatro tribunales unitarios con residencia en Guadalajara.
 
 3.- Dieciséis juzgados de distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; tres en materia administrativa y cuatro en materia civil, todos con residencia en Guadalajara.
 
@@ -766,3 +770,27 @@ D.O.F. 26 DE OCTUBRE DE 2001.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2001.
+
+ACUERDO 68/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO III.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2001.
+
+ACUERDO 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO III.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2001.
+
+ACUERDO 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 2 APARTADO III.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
