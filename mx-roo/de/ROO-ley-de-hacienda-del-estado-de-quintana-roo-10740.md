@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2002-12-30"
+last_updated: "2003-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -2009,9 +2009,9 @@ Están obligadas al pago del impuesto, las personas físicas y morales que en el
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
-#### SECCION TERCERA. DE LA TASA
+#### SECCION CUARTA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 168-F.
 
@@ -2057,11 +2057,9 @@ Para determinar el impuesto del ejercicio, se aplicará la tasa del impuesto al 
 
 Los contribuyentes presentarán declaración anual, dentro de los cuatro meses siguientes al cierre del ejercicio, ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, utilizando las formas oficiales aprobadas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+#### SECCION TERCERA. DE LA TASA
 
-#### SECCION CUARTA. DE LAS OBLIGACIONES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 168-K.
 
@@ -2104,6 +2102,8 @@ Los sujetos de este impuesto que tengan dos o más establecimientos dentro del E
 En las declaraciones que se presenten en los términos del párrafo anterior, deberán consignarse los datos concernientes al número de establecimientos por los que se declara, la ubicación de los mismos, el valor de las contraprestaciones por los servicios prestados en cada establecimiento y los demás datos señalados en las mismas.
 
 Los contribuyentes que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
 ### CAPITULO I. DEL CONCEPTO
 
@@ -5919,9 +5919,9 @@ I.- Se tendrá como valor para los efectos de la aplicación de las tasas, en lo
 
 a).- Tratándose de patrimonio familiar, el de la zona en que se encuentren los bienes que lo constituyan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2003)</small>
 
-b).- Para la aplicación de la tasa a que se refiere la fracción II del artículo 201 de esta ley, será base para la determinación de los derechos a pagar, el valor mayor entre el avalúo catastral, el avalúo bancario o de un perito autorizado por la Comisión Nacional Bancaria y de Valores y la cantidad que resulte de actualizar el precio pactado de los bienes aplicando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se otorga el servicio, entre el índice del mes anterior al que se efectuó la operación.
+b).- Para la aplicación de la tasa a que se refiere la fracción II del artículo 201 de esta ley, será base para la determinación de los derechos a pagar, el valor mayor entre el avalúo catastral, el avalúo bancario, el avalúo de un perito autorizado por la Comisión Nacional Bancaria y de Valores o el avalúo practicado por personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública y que se encuentren inscritos en el Registro Estatal de Peritos Valuadores y la cantidad que resulte de actualizar el precio pactado de los bienes aplicando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se otorga el servicio, entre el índice del mes anterior al que se efectuó la operación;
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -6135,9 +6135,9 @@ VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Públ
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION Y CULTURA, A TRAVES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 206.
 
@@ -6195,9 +6195,9 @@ c).- Por concepto de verificación de áreas, predios y obras: 54 S.M.G.
 
 d).- Por concepto de explotación y aprovechamiento de material pétreo: 0.1 S.M.G. por metro cúbico.
 
-### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION Y CULTURA, A TRAVES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
+### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 207.
 
@@ -6257,7 +6257,7 @@ b).- Por el servicio de 24 horas de labores por 24 horas de descanso que preste 
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las oficinas recaudadoras indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
@@ -6385,6 +6385,8 @@ XXVII (SIC).- Reconocimiento de validez oficial de estudios a particulares para 
 
 XXVIII (SIC).- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno. 1.20 S.M.G.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
 ### CAPITULO III. MULTAS
@@ -6392,8 +6394,6 @@ XXVIII (SIC).- Expedición de diplomas de educación técnica o capacitación pa
 ###### ARTICULO 207-I.
 
 Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
@@ -6589,15 +6589,15 @@ El Gobierno del Estado percibirá las participaciones establecidas en las leyes 
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -6880,3 +6880,13 @@ Por lo anterior, todos los contribuyentes quedaron obligados a la renovación de
 Sexto.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
 Séptimo.- El presente decreto entrará en vigor a partir del 1º de enero de 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE ABRIL DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Se dejan sin efectos todas las disposiciones legales que se opongan al presente Decreto.
