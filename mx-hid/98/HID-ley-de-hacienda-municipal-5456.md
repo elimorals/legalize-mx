@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1996-10-21"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 21 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -35,7 +35,7 @@ D E C R E T O Núm. 89
 
 QUE CONTIENE LA LEY DE HACIENDA MUNICIPAL;
 
-.
+...
 
 POR TODO LO ANTERIORMENTE EXPUESTO ESTE H. CONGRESO, HA TENIDO HA BIEN EXPEDIR EL SIGUIENTE:
 
@@ -1263,7 +1263,7 @@ Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para 
 
 ###### ARTICULO 127.
 
-Es objeto de este derecho las licencias para la contruccion de guarniciones.
+Es objeto de este derecho las licencias para la construcción de guarniciones.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1721,6 +1721,8 @@ VII.- Otras exportaciones extraordinarias.
 
 Los ayuntamientos del estado percibirán sus ingresos, por los conceptos que se señalen en sus leyes de ingresos, de conformidad con las cuotas y tarifas que apruebe el H. Congreso del Estado, en los términos de este ordenamiento.
 
+> <small>N. DE E. CONFORME AL ARTICULO TERCERO DEL DECRETO 248, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2003, SE ADICIONAN AL PRESENTE ARTICULO LAS CUOTAS Y TARIFAS QUE PARA CADA MUNICIPIO SE APLICARAN DURANTE EL AÑO 2004 (PARA SU CONSULTA REMITASE AL P.O. EN CITA).</small>
+
 T R A N S I T O R I O S:
 
 ###### ARTICULO 1o.
@@ -1848,3 +1850,7 @@ P.O. 21 DE OCTUBRE DE 1996.
 ###### ARTICULO UNICO.
 
 Una vez aprobado el decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+UNICO.- PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO. ESTE DECRETO ENTRARA EN VIGOR EL DIA 1º DE ENERO DEL AÑO 2004.
