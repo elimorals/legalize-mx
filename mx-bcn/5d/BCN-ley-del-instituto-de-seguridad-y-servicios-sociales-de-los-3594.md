@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1971-12-31"
+last_updated: "1976-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1976.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -341,19 +341,23 @@ Seguro de Maternidad.
 
 La mujer trabajadora, la esposa del trabajador o del pensionista, o a falta de la esposa, la concubina de uno u otro, tendrán derecho a asistencia obstétrica necesaria a partir del día en que los Servicios Médicos del Instituto certifiquen el estado de embarazo.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 28.
 
-Para que la trabajadora, la esposa o concubina derechohabiente tengan derecho a la prestación que establece el artículo anterior, será necesario que, durante los seis meses anteriores al parto, se hayan mantenido vigentes los derechos de la trabajadora asegurada o del trabajador del que se deriven estas prestaciones.
+Para que la trabajadora, la esposa o concubina derechohabiente tengan derecho a la prestación que establece el Artículo anterior, bastará que se encuentren vigentes los derechos de la trabajadora o de cualquiera de las derechohabientes mencionadas.
 
 #### SECCION III
 
 Conservación de Derechos.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 29.
 
 El trabajador dado de baja por cese o renuncia, pero que haya prestado servicios ininterrumpidos inmediatamente antes de la separación durante un mínimo de seis meses, conservará durante los dos meses siguientes a la misma, el derecho de recibir las prestaciones establecidas en este capítulo.
 
-Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes.
+Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes, pero tratándose de un trabajador fallecido, el término se prorroga hasta seis meses.
 
 ### CAPITULO CUARTO
 
@@ -497,9 +501,13 @@ Los pensionistas gozarán de los beneficios que establece este artículo, con su
 
 Los préstamos hipotecarios se sujetarán en lo conducente a las condiciones y facilidades que establece el Artículo 40 y se cubrirán mediante amortizaciones mensuales que incluirán capital e intereses.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 45.
 
-El Instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base, que las amortizaciones mensuales no deban sobrepasar del 25% del sueldo o sueldos que el trabajador disfrute y por lo cuales se le practique descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar, el máximo fijado para su sueldo en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios aún tratándose de préstamos mancomunados será de $85,000.00 (OCHENTA Y CINCO MIL PESOS).
+El instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base, que las amortizaciones mensuales no deban sobrepasar del 25 por ciento del sueldo o sueldos que el trabajador disfrute y por lo (sic) cuales se le practique descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional.
+
+En todo caso, el límite máximo para los créditos hipotecarios, aún tratándose de préstamos mancomunados, será de $150,000.00 (CIENTO CINCUENTA MIL PESOS MONEDA NACIONAL), excepción hecha de los casos de terminación, ampliación o reparación de casas y de redención de gravámenes sobre las mismas, en que el crédito se otorgará por las cantidades que sean necesarias, siempre que el valor del inmueble, sumado al importe del crédito no exceda la suma señalada.
 
 ###### ARTICULO 46.
 
@@ -533,15 +541,17 @@ Las casas adquiridas o construídas por los trabajadores con fondos suministrado
 
 De los Préstamos a Corto Plazo.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 51.
 
 Los préstamos a corto plazo se harán a los trabajadores de base que hayan cubierto al Instituto las aportaciones a que se refiere el Artículo 16 cuando menos por seis meses conforme a las reglas siguientes:
 
-I.- Hasta el importe de cuatro meses de sueldo básico del solicitante, si la aportación con derecho a que se refiere el Artículo 88, es igual o mayor que el monto del préstamo;
+I.- Hasta el importe de cuatro meses de sueldo básico del asegurado solicitante.
 
-II.- Cuando el préstamo solicitado sobrepase el monto de la aportación a que se refiere la Fracción anterior, se autorizará solamente hasta el importe de tres meses de sueldo y el excedente se garantizará con el fondo especial que deberá crearse por acuerdo de la Junta Directiva mediante el pago de primas en los términos que ésta fije. Estas primas en ningún caso tendrán carácter devolutivo.
+II.- Cuando el préstamo solicitado sobrepase el monto de la aportación con derecho a retiro en caso de la indemnización global a que se refiere el Artículo 88, el excedente se garantizará con el fondo especial creado por acuerdo de la Junta Directiva, mediante el pago de primas en los términos que ésta fije. Estas primas, en ningún caso tendrán carácter devolutivo.
 
-Los pensionistas gozarán de los beneficios que establece este artículo con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
+Los pensionistas gozarán de los beneficios que establece este Artículo con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
 
 ###### ARTICULO 52.
 
@@ -851,9 +861,11 @@ Las obligaciones que en favor del Instituto señala la presente Ley a cargo del 
 
 Pago Póstumo.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 94.
 
-El Instituto tendrá a su cargo el pago póstumo de la cantidad de $50,000.00 (CINCUENTA MIL PESOS MONEDA NACIONAL), que se entregará a la muerte de los trabajadores incorporados al propio Instituto o a los beneficiarios que éstos designen y a falta de designación, a sus herederos legítimos. Si la muerte ocurre por accidente, ésta suma se duplicará.
+El Instituto tendrá a su cargo el pago póstumo de la cantidad de $75,000.00 (SETENTA Y CINCO MIL PESOS MONEDA NACIONAL), que se entregará a la muerte de los trabajadores incorporados al propio Instituto o a los beneficiarios que éstos designen y a falta de designación, a sus herederos legítimos. Si la muerte ocurre por accidente, ésta suma se duplicará.
 
 ###### ARTICULO 95.
 
@@ -887,9 +899,11 @@ CAPITULO DECIMOPRIMERO
 
 Del Pago de los Funerales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+
 ###### ARTICULO 99.
 
-Cuando fallezca un trabajador que tuviere seis meses de servicio como mínimo, un jubilado o un pensionado por vejez o invalidez, sus deudos tendrán derecho a recibir por parte del Instituto, la percepción denominada pago de funerales, la que consistirá para el primer caso señalado en el importe de tres meses de sueldo básico percibido por el trabajador en el momento del deceso y para los restantes en noventa días de la jubilación o pensión disfrutada por el extinto, incluyendo además gastos de funeral hasta por la cantidad de $5,000.00 (CINCO MIL PESOS MONEDA NACIONAL) y fosa a perpetuidad, sin más trámites que la presentación del certificado de defunción y la constancia de los gastos de sepelio.
+Cuando fallezca un trabajador que tuviere seis meses de servicio como mínimo, un jubilado o un pensionado por vejez o invalidez, sus deudos tendrán derecho a recibir por parte del Instituto, la percepción denominada pago de funerales, la que consistirá para el primer caso señalado en el importe de tres meses de sueldo básico percibido por el trabajador en el momento del deceso y para los restantes, en noventa días de la jubilación o pensión disfrutada por el extinto, incluyendo además para gastos de funeral y de la fosa a perpetuidad hasta la cantidad de $15,000.00 (QUINCE MIL PESOS MONEDA NACIONAL), sin más trámite que la presentación del certificado de defunción y la constancia de lo erogado.
 
 ###### ARTICULO 100.
 
@@ -1326,3 +1340,7 @@ DR. FEDERICO MARTINEZ MANAUTOU.
 P.O. 31 DE DICIEMBRE DE 1971.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 1976.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
