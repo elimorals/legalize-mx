@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1996-12-24"
+last_updated: "1997-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -1245,9 +1245,9 @@ c).- Productos por ingresos obtenidos en la enajenación de bienes muebles e inm
 
 II.- 7.5% adicional sobre impuesto predial.
 
-## TITULO TERCERO
+> <small>(DEROGADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1997)</small>
 
-DERECHOS.
+## TITULO TERCERO
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
@@ -2137,7 +2137,9 @@ Agropecuario 40
 
 De servicio 30
 
-### CAPITULO IX. DERECHOS POR LA EXPEDICION DE LICENCIAS DE DEMOLICION DE EDIFICACIONES
+> <small>(DEROGADA SU DENOMINACIÓN, G.O. 1 DE FEBRERO DE 1997)</small>
+
+### CAPITULO XIX
 
 ###### ARTICULO 123.
 
@@ -3025,245 +3027,87 @@ Las autoridades municipales no autorizarán el traspaso o traslado de un giro me
 
 DERECHOS POR LA EXPEDICIÓN DE LICENICAS, PERMISOS O AUTORIZACIONES PARA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS O PRESTACIÓN DE SERVICIOS QUE INCLUYAN EL EXPENDIO DE DICHAS BEBIDAS
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 149-A.
 
-Es objeto de este derecho la expedición de licencias, permisos, autorizaciones o el refrendo anual de cualquiera de ellos para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación, ya sea de manera permanente o temporal en botella cerrada o abierta, al mayoreo, menudeo o copeo, de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general dentro del territorio del Estado.
-
-Para efectos de este Capítulo se consideran bebidas alcohólicas las señaladas en el artículo 173 de la Ley de Salud del Estado de Veracruz-Llave
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-B.
 
-Son sujetos de este derecho, las personas físicas o morales que enajenen bebidas alcohólicas o presten servicios en los términos mencionados en el artículo anterior.
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-C.
 
-Por la expedición de licencias, permisos o autorizaciones para el funcionamiento a que se refiere el artículo 149-A de esta Ley se causarán los derechos que establece la siguiente:
-
-TARIFA
-
-I.- Los establecimientos que expendan bebidas alcohólicas en botella cerrada, abierta, al menudeo o copeo, pagarán en cada caso, los derechos que a continuación se mencionan:
-
-a).- Cabarets, centros nocturnos, discotecas, salones de baile, palenques o lugares de reunión con o sin variedad artística y similares: de 200 hasta 300 salarios mínimos.
-
-b).- Restaurantes, taquerías, loncherías, marisquerías, fondas, pizzerías, torterías y cualquier otro de naturaleza análoga: de 50 hasta 200 salarios mínimos.
-
-c).- Billares, boliches o casinos y similares con expendio de bebidas alcohólicas: de 100 hasta 250 salarios mínimos.
-
-d).- Cantinas, pulquerías, depósitos, tabernas, bares, video-bares, ladies-bar, restaurant-bar y cualquier otro similar de hasta 120 m2 de superficie: de 50 hasta 300 salarios mínimos.
-
-e).- Cantinas, pulquerías, depósitos, tabernas, bares, video-bares, ladies-bar, restaurant-bar y cualquier otro similar de más de 120 m2 de superficie: de 150 hasta 500 salarios mínimos.
-
-f).- Centros y clubes sociales cualquiera que sea su denominación con expendio o consumo de bebidas alcohólicas: de 150 hasta 300 salarios mínimos.
-
-g).- Hoteles, casas de huéspedes, hoteles de paso, moteles o cualquier otro similar: de 150 hasta 300 salarios mínimos.
-
-h).- Cualquier otro de los no señalados anteriormente; de 50 hasta 500 salarios mínimos.
-
-II.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
-
-a).- Tiendas de abarrotes o de autoservicio, supermercados, ultramarinos, depósitos o licorerías de venta de vinos y licores, con menos de 1 00 M2 de superficie de atención al público: de 50 hasta 150 salarios mínimos.
-
-b).- Tiendas de abarrotes o de autoservicio, supermercados, depósitos o licorerías de venta de vinos y licores de más de 100 M2 y hasta 150 M2 de superficie de atención al público: de 100 hasta 200 salarios mínimos.
-
-c).- Tiendas de abarrotes o de autoservicio, supermercados, depósitos o licorerías de venta de vinos y licores de más de 150 M2 de superficie de atención al público; de 150 hasta 250 salarios mínimos.
-
-d).- Establecimientos que expendan al mayoreo, y con servicio de distribución de bebidas alcohólicas en botella cerrada; de 300 hasta 400 salarios mínimos.
-
-e).- Establecimientos que distribuyan aguardiente al mayoreo; y de 200 hasta 300 salarios mínimos.
-
-f).- Cualquier otro no considerado en los incisos anteriores de esta fracción, de 100 hasta 400 salarios mínimos.
-
-Tratándose de la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, en botella cerrada, abierta, al menudeo o copeo que sea en forma temporal sin que exceda de un plazo de treinta días naturales, cubrirán únicamente el importe equivalente al 15% de la tarifa que les corresponda en cada caso.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-D.
 
-Por el refrendo o revalidación de las licencias, permisos o autorizaciones contenidos en el artículo que antecede, se pagarán anualmente en cada caso el impone equivalente al 50% de las tarifas señaladas.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-E.
 
-Las personas que soliciten licencias, permisos, autorizaciones o la revalidación o refrendo de cualquiera de ellas para la enajenación de bebidas alcohólicas en botella cerrada, abierta, al menudeo o copeo al público en general, deberán efectuar el pago de los derechos a que se refiere este Capítulo, en la Tesorería Municipal del lugar donde se realizará la actividad.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-F.
 
-Los obligados al pago de estos derechos solicitarán a la Autoridad Fiscal Municipal de su jurisdicción, previamente a la iniciación de sus actividades, la expedición de la licencia, permiso o autorización para el funcionamiento del establecimiento o local, así como también la revalidación o refrendo anual de cualquiera de ellos dentro del mes de enero de cada año.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-G.
 
-Queda prohibida la transferencia de los derechos derivados de la expedición, revalidación o refrendo de licencias, permisos o autorizaciones a que se refiere el Artículo 149-A de esta Ley.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-H.
 
-Son obligaciones de los sujetos de este derecho:
-
-I.- Presentar ante la Autoridad Fiscal Municipal correspondiente, la licencia sanitaria, simultáneamente con la solicitud de licencia, autorización o permiso para la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan la expedición de dichas bebidas;
-
-II.- Exhibir o solicitar la revalidación anual a la Autoridad Fiscal Municipal correspondiente de la licencia para el funcionamiento del establecimiento o local;
-
-III.- Manifestar oportunamente en las formas autorizadas para ello, el aviso de suspensión, baja, conclusión o cualquier modificación en su caso de las actividades, así como el cambio de domicilio o de las características del local o establecimiento autorizado para la enajenación de bebidas alcohólicas;
-
-IV.- Exhibir ante la Autoridad Fiscal Municipal correspondiente copia de su inscripción al Registro Federal de Contribuyentes, y de los avisos de modificación hechos al mismo; y
-
-V.- Cumplir con los requisitos que señalen los Reglamentos Municipales vigentes.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-I.
 
-Las Autoridades Fiscales Municipales están facultadas para:
-
-I.- Autorizar o negar el funcionamiento de establecimientos para enajenar bebidas alcohólicas, tomando en cuenta su ubicación, el número de los existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad aplicables;
-
-II.- Cancelar la licencia correspondiente de aquellos establecimientos que por su funcionamiento o su ubicación ofendan la moral y las buenas costumbres; y
-
-III.- Cancelar la licencia, permiso o autorización cuando no se solicite oportunamente su revalidación anual, tratándose de establecimientos permanentes.
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-J.
 
-No se efectuará el pago de este derecho tratándose de recepciones particulares, en donde el consumo de bebidas alcohólicas no constituya un fin lucrativo.
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1997)</small>
 
-### CAPITULO XX. DERECHOS POR LA EXPEDICIÓN DE LICENCIAS, PERMISOS O AUTORIZACIONES PARA LA COLOCACIÓN DE ANUNCIOS, CARTELES Y REALIZACIÓN DE PUBLICIDAD
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+### CAPITULO XX
 
 ###### ARTICULO 149-K.
 
-Es objeto de este derecho, la expedición de licencias, permisos o autorizaciones para la colocación de anuncios, carteles o la realización de publicidad en la vía pública o lugares visibles en la misma.
-
-Para efectos de este derecho, se entiende por anuncios en la vía pública, a todo medio de publicidad, que proporcione información, orientación e identifique un servicio profesional, marca, producto o establecimiento, con fines de venta de bienes o servicios, con excepción de los colocados en el establecimiento en los que se anuncie la profesión o razón social del anunciante.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-L.
 
-Son sujetos de este derecho, las personas físicas o morales que utilicen los medios de publicidad para los fines a que se refiere el artículo anterior.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-M.
 
-Por la expedición de las licencias, permisos o autorizaciones para el funcionamiento a que se refiere este Capítulo, se causarán los derechos que establece la siguiente:
-
-TARIFA
-
-I.- Por los anuncios señalados a continuación, se cobrará mensualmente en cada caso:
-
-a).- Los pintados o adosados a fachadas, muros o marquesinas 60 salarios mínimos por M2
-
-b).- Los colocados en azoteas, vías públicas o lugares visibles:
-
-1.- No luminosos .70 salarios mínimos por M2
-
-2.- Luminosos .85 salarios mínimos por M2
-
-3.- Eléctricos .85 salarios mínimos por M2
-
-4.- Gas Neón o Fluorescentes .90 salarios mínimos por M2
-
-5.- Cualquier otro .80 salarios mínimos por M2
-
-c).- Los colocados en predios rústicos o urbanos:
-
-1.- No luminosos .60 Salarios mínimos por M2
-
-2.- Luminosos .75 Salarios mínimos por M2
-
-3.- Eléctricos .75 Salarios mínimos por M2
-
-4.- Gas Neón o Fluorescentes .80 Salarios mínimos por M2
-
-5.- Cualquier otro .70 Salarios mínimos por M2
-
-II.- Por la publicidad o carteles señalados a continuación, se cobrará diariamente en cada caso lo siguiente:
-
-a).- En cine .30 Salarios Mínimos
-
-b).- Altoparlantes sonoros:
-
-1).- Fijos .40 Salarios Mínimos
-
-2.- Móviles .50 Salarios Mínimos
-
-c).- En carteles, madera, manteados, plásticos o cualquier otro medio .17 Salarios Mínimos
-
-III.- Volantes (por cada mil) .40 Salarios Mínimos
-
-La obligación del pago de este derecho nace desde el momento en que las personas físicas o morales realicen cualquiera de los actos señalados en este Título.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-N.
 
-Las personas que soliciten licencias, permisos o autorizaciones a que se refiere el Artículo anterior, deberán acreditar el pago de los derechos previamente a la realización del acto publicitario.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149
 
-Ñ.- Son solidariamente responsables:
-
-I.- Los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios o carteles en los que se lleve a cabo la publicidad, hasta por el tanto que corresponda a la tarifa del tipo de anuncio de que se trate; y
-
-II.- Las personas físicas o morales que sean contratadas para la realización de anuncios, carteles o publicidad por la tarifa que corresponda en cada caso, cuando el anunciante no acredite el pago del derecho a que se refiere este Capítulo.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+Ñ.-DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-O.
 
-Las autoridades fiscales municipales establecerán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de las licencias, permisos o autorizaciones de anuncios, carteles o publicidad; así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción y su vigencia.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-P.
 
-No se causarán (sic) este derecho cuando se trate de la siguiente publicidad:
-
-I.- La que se realice por medio de televisión, radio, periódicos o revistas; y
-
-II.- La que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia pública y las iglesias o asociaciones religiosas.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-Q.
 
-Son obligaciones de las personas físicas o morales que soliciten licencias o permisos para la colocación de publicidad:
-
-I.- lnscribirse en la Tesorería Municipal del lugar donde se vaya a llevar a cabo la instalación o colocación de los anuncios, carteles o publicidad;
-
-II.- Cumplir con todos los requisitos que, para tal efecto, señale la autoridad municipal;
-
-III.- Cubrir previamente el pago de los derechos a que se refiere este Capítulo; y
-
-IV.- Las demás que señalen las disposiciones fiscales municipales.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 149-R.
 
-Son obligaciones de los responsables solidarios:
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
-I.- Solicitar al anunciante el número de la licencia, permiso o autorización del anuncio, cartel o publicidad que expida la autoridad municipal;
-
-II.- Señalar en la publicidad escrita su nombre, denominación o razón social, domicilio, teléfono; y
-
-III.- Insertar o anunciar el número de permiso a que se refiere la fracción I de este Artículo.
-
-> <small>(ADICIONADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO CUARTO. DE LAS CONTRIBUCIONES POR MEJORAS
 
@@ -3435,109 +3279,49 @@ Los notarios, corredores y funcionarios con fe pública, no autorizarán ningún
 
 Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos del pago de las contribuciones por mejoras.
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1997)</small>
 
-### CAPITULO II. CONTRIBUCIONES PARA EL FOMENTO AL TURISMO MUNICIPAL
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 159-A.
 
-Es objeto de esta contribución la prestación de servicios de hospedaje proporcionados en territorio del estado, ya sea de manera permanente o temporal.
-
-Para efectos de esta contribución se considera prestación de servicios de hospedaje los de alojamiento o albergue temporal de personas, a cambio de una contraprestación en dinero o especie, dentro de los cuales quedan comprendidos los prestados por hoteles, moteles, campamentos, paraderos de casas rodantes, incluyendo los otorgados bajo la modalidad de tiempo compartido, seminarios y cualquier otro que se les asemeje sin importar la denominación que se le dé.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-B.
 
-Son sujetos de esta contribución las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, incluyendo las agencias, sucursales o cualquiera que sea la denominación que se le dé aun cuando tengan su domicilio fiscal en lugar distinto al de la prestación del servicio.
-
-Los contribuyentes realizarán el traslado de la contribución en forma expresa y por separado, a las personas a quienes se presten los servicios de hospedaje. Se entenderá por traslado de la contribución, el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente a la contribución establecida en este capítulo.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-C.
 
-Es base de esta contribución el monto total de las contraprestaciones causadas por los servicios de hospedaje.
-
-Cuando los contribuyentes convengan en la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
-
-En ningún caso se considerará que el Impuesto al Valor Agregado forma parte de la base.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-D.
 
-Esta contribución se determinará y pagará aplicando la tasa del 2% a la base gravable a que se refiere el artículo anterior.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-E.
 
-El ingreso que perciba el Municipio de la contribución señalada en este capítulo, se aplicará íntegramente al Fondo para el Fomento al Turismo Municipal, mismo que será aportado al fideicomiso público que los Municipios constituyan.
-
-Para los efectos del párrafo anterior, cada Ayuntamiento expedirá un reglamento en que se indique el funcionamiento del Comité de Desarrollo Turístico Municipal encargado de programar actividades y proyectos de acuerdo a la Ley de Fomento al Turismo del Estado, así como del fideicomiso que administre el fondo.
-
-El Comité Municipal se encargará de promover acciones que se traduzcan en beneficio para el sector turístico, y determinará los proyectos que serán financiados con cargo al fondo del fideicomiso.
-
-En dicho Comité participarán las autoridades municipales, la Junta de Mejoramiento Moral, Cívico y Material y mayoritariamente representantes de las asociaciones y cámaras que agrupe a los prestadores de servicio de hospedaje.
-
-En los municipios en donde no se encuentre integrada la Junta de Mejoramiento Moral, Cívico y Material, formará parte del comité una persona de reconocido prestigio y honorabilidad en la localidad.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-F.
 
-La contribución a que se refiere este capítulo se causará al momento en que se hagan exigibles las contraprestaciones por los servicios de hospedaje. Los prestadores de servicios de hospedaje, deberán calcularla, retenerla y enterarla mediante declaración mensual ante la Tesorería Municipal correspondiente a la jurisdicción en donde se encuentren los inmuebles dedicados a la prestación de los servicios, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-G.
 
-Son responsables solidarios de esta contribución las personas físicas o morales, cualquiera que sea la denominación, razón social o nombre que se les dé, que dirijan, administren, sean propietarios o accionistas, gerentes, directores, de los establecimientos que presten los servicios a que se refiere este capítulo hasta por el monto total de las contribuciones no enteradas, incluyendo sus accesorios.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-H.
 
-Son obligaciones de los prestadores de servicios de hospedaje:
-
-I.- Inscribirse en la Tesorería Municipal del lugar donde se llevan a cabo los servicios de hospedaje descritos en el presente capítulo;
-
-II.- Retener y enterar mensualmente el pago de la contribución correspondiente, aplicable al establecimiento;
-
-III.- Obtener el permiso respectivo de la autoridad sanitaria; y
-
-IV.- Cumplir con los demás requisitos que establezcan las disposiciones legales aplicables a la materia.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-I.
 
-Las autoridades fiscales de los municipios, podrán estimar los ingresos de esta contribución, en los siguientes casos:
-
-I.- Cuando los prestadores del servicio no presenten sus declaraciones, las presenten incompletas, se detecten alteraciones en la contabilidad tendientes a evadir el exacto cumplimiento de sus obligaciones fiscales, no lleven o no presenten sus libros o registros de contabilidad, no expidan recibos, facturas o cualquier otro documento que señalen las leyes fiscales aplicables;
-
-II.- Se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales; y
-
-III.- Exista discrepancia superior al 5% entre los datos asentados en las declaraciones y los de la contabilidad.
-
-Para realizar la determinación presuntiva a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el prestador del servicio y los datos proporcionados por los beneficiarios del mismo.
-
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO 159-J.
 
-Se considerarán exentos de esta contribución a los que realicen las siguientes actividades:
-
-I.- La prestación de servicios de hospedaje para estudiantes, cuyo servicio derive de contratos de habitación con una duración no menor de seis meses;
-
-II.- El albergue prestado en hospitales, clínicas, asilos, conventos e internados; y
-
-III.- El que se otorgue a personas damnificadas por catástrofes naturales.
-
-Cuando los inmuebles incorporados al patrimonio de las personas que gozan del beneficio de la exención de esta contribución, modifiquen la naturaleza de la prestación del servicio o pasen por cualquier título a manos de particulares dedicados a la prestación del servicio de hospedaje, deberán dar aviso a la Tesorería Municipal correspondiente en un plazo no mayor de diez días.
+(DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ## TITULO QUINTO. PRODUCTOS
 
@@ -4047,18 +3831,16 @@ G.O. 24 DE DICIEMBRE DE 1996.
 
 La presente Ley entrará en vigor el día 1° de enero de 1997, previa su publicación en la 'Gaceta Oficial', Organo del Gobierno del Estado de Veracruz-Llave.
 
-###### ARTICULO SEGUNDO.
+ARTICULO SEGUNDO TRANSITORIO.- (DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
-Las personas obligadas al pago de los derechos previstos en el Capítulo XIX de la Ley de Hacienda Municipal, deberán solicitar la licencia, permiso o autorización a la Autoridad Fiscal Municipal correspondientes en un término no mayor de 30 días naturalez contados a partir de la vigencia de la presente Ley.
+ARTICULO TERCERO TRANSITORIO.- (DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
-###### ARTICULO TERCERO.
-
-Las personas que cuentesn con licencia, permiso o autorización al entrar en vigor la presente Ley, únicamente pagarán la revalidación o el refrendo correspondiente.
-
-###### ARTICULO CUARTO.
-
-Las personas que tengan colocados anuncios, carteles o publicidad a que se refiere la presente Ley, deberán incribirse en la Tesorería Municipal del lugar donde se encuentre instyalado o colocado el anuncioen untérmino no mayor de 30 días contados a partir de que entre en vigor esta Ley.
+ARTICULO CUARTO TRANSITORIO.- (DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 
 ###### ARTICULO QUINTO.
 
-Las personas que presten servicios de hospedaje a que se refiere el Capítulo Segundo del Título Cuarto del presente ordenamiento legal, deberán inscribirse en la Tesorería Municipal de su jurisdicción en un término no mayor de 30 días contados a partir de la fecha en que entre en vigor esta Ley.
+TRANSITORIO.- (DEROGADO, G.O. 1 DE FEBRERO DE 1997)
+
+G.O. 1 DE FEBRERO DE 1997.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
