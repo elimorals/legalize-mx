@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "1999-06-24"
+last_updated: "2001-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -43,27 +43,45 @@ Lineamientos Generales.
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 1º.
 
-El presente ordenamiento es de orden público e interés social; sus disposiciones son de observancia general para todas las personas que se encuentren en el Estado de Jalisco. Tiene por objeto establecer la forma de integración, atribuciones, organización y competencia de la Comisión Estatal de Derechos Humanos, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+La presente ley es de orden público e interés social; sus disposiciones son de observancia general para todas las personas que se encuentren en el Estado de Jalisco. Tiene por objeto establecer la forma de Integración, atribuciones, organización y competencia de la Comisión de Derechos Humanos, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 2º.
 
-Para los efectos del presente ordenamiento, se consideran derechos humanos:
+Para los efectos de la presente ley, se consideran derechos humanos:
 
 I. Las garantías individuales y sociales enunciadas en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Jalisco, así como de las leyes secundarias y reglamentos que de ellas emanen;
 
 II. Los contenidos en la Declaración Universal de los Derechos Humanos; y
 
-III. Los contenidos en los tratados, convenios y acuerdos internacionales que en esta materia México forme parte.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+III. Los contenidos en los tratados, convenios y acuerdos internacionales de los que en esta materia México forme parte; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+IV. Los derechos de los grupos vulnerables.
+
+Se entiende por grupo vulnerable el conjunto de personas cuyas condiciones físicas, psíquicas, históricas, económicas, sociales o culturales, son tomadas como motivos discriminatorios que hacen probable la existencia de ataques reiterados a sus derechos humanos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 3º.
 
-La Comisión Estatal de Derechos Humanos es un organismo público, dotado de plena autonomía, con personalidad jurídica y patrimonio propio, de carácter permanente, de participación ciudadana y de servicio gratuito. Ejercerá de manera libre el presupuesto que le asigne la ley.
+La Comisión Estatal de Derechos Humanos es un organismo público, dotado de plena autonomía, con personalidad jurídica y patrimonio propio, de carácter permanente, de participación ciudadana y de servicio gratuito.
 
 La Comisión Estatal de Derechos Humanos tiene como finalidad esencial la defensa, protección, estudio y divulgación de los derechos humanos.
 
 En lo sucesivo, cuando en el presente ordenamiento se mencione a la Comisión, deberá entenderse que se trata de la Comisión Estatal de los Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+Para el cumplimiento de sus atribuciones, ejercerá de manera libre el presupuesto que le asigne el Congreso del Estado, para lo cual se procurará que sea superior al ejercicio anterior.
 
 ## Título Segundo. De la Comisión
 
@@ -75,11 +93,13 @@ De la Competencia y atribuciones de la Comisión.
 
 La Comisión tendrá competencia para conocer de oficio o a petición de parte respecto de las quejas que le presenten los particulares en relación con:
 
-I. Presuntas violaciones de los derechos humanos por parte de las autoridades estatales o municipales en la realización de actos materialmente administrativos;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-II. Presuntas violaciones a los derechos humanos por la omisión de actos materialmente administrativos cometidos por autoridades, ya sea estatales o municipales;
+I. Presuntas violaciones de los derechos humanos por parte de los servidores públicos, autoridades estatales o municipales en la realización de actos u omisiones de naturaleza administrativa.
 
-III. Presuntas violaciones a los derechos humanos en materia laboral, cometidas por actos u omisiones que afecten a los empleados que laboren en empresas y asociaciones de participación estatal o municipal mayoritaria;
+II. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+
+III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
 IV. Presuntas violaciones de derechos humanos, que deriven del ejercicio de las facultades discrecionales que no tengan el carácter de jurisdiccionales; y
 
@@ -89,49 +109,61 @@ Tratándose del Poder Judicial del Estado, la Comisión sólo tendrá facultades
 
 ###### Artículo 5º.
 
-Se entenderá por asuntos laborales, aquellos conflictos que se susciten entre una autoridad o dependencia estatal o municipal, que actúe con carácter de patrón, y uno o más de sus trabajadores.
+(DEROGADO, P.O. 13 DE FEBRERO DE 2001)
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 6º.
 
-Por ningún motivo, la Comisión podrá conocer y examinar de asuntos jurisdiccionales de fondo, ni tendrá facultades para otorgar asesoría sobre la interpretación de leyes a autoridades o particulares.
+Por ningún motivo, la Comisión será competente tratándose de asuntos electorales, laborales, o jurisdiccionales, ni tendrá facultades para otorgar asesoría sobre la interpretación de leyes a autoridades o particulares.
 
-Se entienden como asuntos jurisdiccionales:
+Tratándose de quejas que involucren a servidores públicos de la federación o de otras entidades federativas, la Comisión enviará copia de la misma a la Comisión Nacional o a su homóloga estatal según corresponda para su conocimiento.
 
-I. Las sentencias o laudos definitivos que concluyan el juicio, ya sea en primera o segunda instancia;
-
-II. Las sentencias interlocutorias que se emitan durante el proceso;
-
-III. Los autos o acuerdos dictados por órganos del Poder Judicial del Estado, en cuya expedición se haya realizado una valoración y determinación jurídica o legal.
-
-Se consideran materias concurrentes entre la Comisión Nacional de Derechos Humanos y la Comisión Estatal: salud pública, educación, sistema penitenciario, áreas de confinamiento, personas ausentes o desaparecidas, aquéllas en las que se desconozca qué tipo de autoridades son las presuntas responsables, así como el seguimiento de las recomendaciones de la Comisión Nacional, dirigidas a las autoridades del Estado, en los términos de las leyes en la metaria (sic).
+La comisión Estatal podrá solicitar la coadyuvancia de la Comisión Nacional tratándose de asuntos de salud pública, educación, sistema penitenciario, áreas de confinamiento, personas ausentes o desaparecidas, aquellas en las que se desconozca a la autoridad responsable, así como el seguimiento de las recomendaciones de la Comisión Nacional, dirigidas a las autoridades del Estado en los términos de las leyes de la materia.
 
 ###### Artículo 7º.
 
 Son atribuciones de la Comisión:
 
-I. Investigar, estudiar, analizar y determinar la existencia de violación a los derechos humanos en la comisión de actos u omisiones realizados por las autoridades estatales y municipales;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-II. Admitir las quejas que le presente cualquier ciudadano respecto de presuntas violaciones a los derechos humanos causadas por actos u omisiones de los servidores públicos estatales o municipales;
+I. Investigar, estudiar, analizar y determinar la existencia de violación a los derechos humanos por actos u omisiones de los servidores públicos, autoridades estatales o municipales.
 
-III. Atender las quejas y denuncias que presente cualquier ciudadano e investigar los actos u omisiones en ellas descritos, para determinar la existencia o inexistencia de violaciones a los derechos humanos;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-IV. Formular propuestas de conciliación entre el particular quejoso y las autoridades o servidores públicos presuntamente responsables de la violación a los derechos humanos, de manera que se solucione inmediatamente el conflicto planteado y se restituya en el goce de sus derechos a la persona agraviada, siempre que la naturaleza del caso lo permita;
+II. Admitir o desechar en su caso, las quejas que le presente cualquier persona respecto de presuntas violaciones a los derechos humanos causadas por actos u omisiones de servidores públicos, autoridades estatales o municipales, o bien iniciarlas de oficio;
 
-V. Proponer y vigilar los lineamientos estatales en materia de derechos humanos, así como diseñar y establecer los mecanismos de coordinación que aseguren su adecuada observancia y ejecución;
+III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
-VI. Impulsar la vigencia y difusión de la cultura de los derechos humanos en el Estado;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-VII. Elaborar y ejecutar los programas de atención y seguimiento de las quejas que se le presenten;
+IV. Formular propuestas de conciliación buscando la amigable composición entre el agraviado y las autoridades o servidores públicos presuntamente responsables de la violación de los derechos humanos, de manera que se solucione inmediatamente el conflicto planteado y se restituya en el goce de sus derechos a la persona agraviada, siempre que la naturaleza del caso lo permita;
 
-VIII. Promover la divulgación de la cultura de los derechos humanos en todos los niveles de gobierno y entre la población, por medio de programas de capacitación en la profesionalización del servicio público, en el sistema educativo, de los medios de comunicación masiva y de la publicación de los textos que elabore;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+V. Proponer las políticas estatales en materia de derechos humanos a través de pronunciamientos, así como diseñar y establecer los mecanismos de coordinación entre la Comisión, las dependencias de gobierno y la sociedad civil que aseguren su adecuada observancia y ejecución;
+
+VI. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VII. Elaborar y ejecutar los programas de atención y seguimiento de las quejas que se le presenten, así como de los acuerdos, conciliaciones, orientaciones, peticiones o recomendaciones de la Comisión;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VIII. Promover la divulgación de la cultura de los derechos humanos en todos los niveles de gobierno y entre la población, por medio entre otros, de programas de capacitación en la profesionalización del servicio público, en el sistema educativo, a través de los medios de comunicación masiva y de la publicación de los textos que elabore;
 
 IX. Prestar apoyo y asesoría técnica en materia de divulgación de los derechos humanos, cuando le sea solicitado por organismos públicos y privados, o por cualquier particular;
 
 X. Formular y presentar propuestas ante las autoridades competentes respecto de cambios y modificaciones al sistema jurídico estatal o municipal o de práctica administrativa, que redunden en una mejor protección y defensa de los derechos humanos;
 
-XI. Promover la participación de los distintos sectores públicos y privados, en la formulación y ejecución de los programas destinados a la divulgación y respeto de los derechos humanos y a la prevención de las posibles violaciones a los mismos;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-XII. Constituir la instancia de coordinación, seguimiento y concertación entre los sectores público y privado en materia de derechos humanos;
+XI. Promover la participación de los distintos sectores públicos, sociales y privados, en la formulación y ejecución de los programas destinados a la divulgación y respeto de los derechos humanos, así como en la prevención de las posibles violaciones de los mismos;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XII. Constituir la instancia de coordinación, seguimiento y concertación entre el sector público y la sociedad civil, en materia de derechos humanos;
 
 XIII. Ser el órgano de vinculación con la Comisión Nacional de Derechos Humanos, procurando la adecuada coordinación entre ambos organismos, en las materias que les son concurrentes;
 
@@ -157,23 +189,49 @@ XXII. Expedir y modificar su reglamento interior;
 
 XXIII. Realizar visitas periódicas a:
 
-a) Los pueblos indígenas, con la finalidad de verificar el irrestricto respeto a los derechos humanos y sociales que les reconoce la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como las leyes y reglamentos que de ambas emanan;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-b) Los orfanatos, asilos, hospicios instituciones y organismos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los infantes contenidos en el Código Civil del Estado de Jalisco y la declaración de la Organización de las Naciones Unidas sobre los Derechos de la Infancia, así como los derechos de la educación y la salud que establece la Constitución Política de los Estados Unidos Mexicanos;
+a) Los pueblos, albergues o zonas de concentración indígena, con la finalidad de verificar el irrestricto respeto a los derechos humanos y sociales que les reconoce la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, las leyes y reglamentos que de ambas emanan, así como los instrumentos internacionales que México haya ratificado sobre derechos de los pueblos indígenas;
 
-c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados, ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad, ya sea estatal o municipal, para cerciorarse del absoluto respeto a los derechos humanos de los internos;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y
+b) Los orfanatos, asilos, hospicios, instituciones y organismos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los niños contenidos en las leyes federales, locales y los instrumentos internacionales sobre los Derechos de la Infancia que hayan sido ratificados por México o de los que formen parte, así como los derechos de la educación y la salud que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-XXV. Las demás que se establezcan en el presente ordenamiento, su reglamento interior, y las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad estatal o municipal, para cerciorarse del absoluto respecto (sic) a los derechos humanos de las personas que son atendidas en esas instituciones.
+
+XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y (sic)
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXV. Formular recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, demostrada la existencia de violaciones a los derechos humanos, cuando no se hubiere logrado conciliación, haya sido parcial o no se haya cumplido ésta, seguido que sea el procedimiento hasta su culminación;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXVI. Hacer del conocimiento público las recomendaciones que emita y los informes especiales a que se refiere la presente ley;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXVII. Solicitar a la autoridad correspondiente la amonestación o el inicio de procedimiento administrativo en los casos en que un servidor público oculte o retrase injustificadamente la información que se le solicite con motivo del trámite de las quejas y en lo que obstruya el trabajo de la Comisión;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXVIII. Fomentar la investigación científica en el área de los derechos humanos; y
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXIX. Las demás que se establezcan en la presente ley, su reglamento interior y las disposiciones legales aplicables.
 
 ###### Artículo 8º.
 
 La Comisión no tendrá más restricciones a sus atribuciones, facultades y competencias, que las que de manera expresa señale la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás disposiciones en la materia.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 9º.
 
-La Comisión contará con unidades desconcentradas para la atención y seguimiento de los asuntos de su competencia en los lugares que considere pertinente, de conformidad a lo que establezca su reglamento interior.
+La Comisión contará con unidades desconcentradas para recibir quejas, atender y dar seguimiento a los asuntos de su competencia en los lugares que considere pertinente, de conformidad a lo que establezca su reglamento interior.
 
 ### Capítulo II
 
@@ -183,211 +241,137 @@ De la Integración de la Comisión.
 
 La Comisión se integra por:
 
-I. El Presidente;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-II. El Consejo General;
+I. El Consejo Ciudadano y su Secretario Técnico;
 
-III. El Secretario Técnico del Consejo General;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-IV. El Secretario Ejecutivo;
+II. El Presidente;
 
-V. Los visitadores generales;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-VI. Los visitadores adjuntos; y
+III. El Secretario Ejecutivo;
 
-VII. El Consejo Editorial.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+IV. Los visitadores generales;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+V. Los visitadores adjuntos;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VI. El Director de Orientación, Quejas y Seguimiento;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VII. El Director de Comunicación Social;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VIII. El Director Administrativo; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+IX. El Contralor Interno.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo III
 
-Del Presidente, requisitos y facultades.
+Del Consejo Ciudadano.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Primera
 
 De su integración.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 11.
 
-El Presidente es la primera autoridad de la Comisión. Será designado para promover y garantizar los derechos humanos de cualquier persona que se encuentre en el Estado; durará en su encargo cuatro años y exclusivamente podrá ser designado para un segundo período, respetando el procedimiento realizado para la designación inicial.
+El Consejo Ciudadano es un órgano de participación civil integrado por el Presidente y ocho consejeros ciudadanos propietarios e igual número de suplentes. Los consejeros ciudadanos, durarán cinco años en su cargo, el cual tendrá carácter honorífico.
+
+El Consejo Ciudadano de la Comisión deberá integrarse en forma diversificada de manera que se logre la mayor representatividad social.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Segunda
 
 De la designación de los consejeros ciudadanos.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 12.
-
-Para la designación del Presidente de la Comisión, se estará al siguiente procedimiento:
-
-I. El titular del Poder Ejecutivo expedirá una convocatoria pública dirigida a los organismos sociales, colegios de profesionistas, universidades, y a la sociedad en general, con la finalidad de allegarse propuestas de candidatos;
-
-II. De los candidatos propuestos por la ciudadanía, nombrará al ciudadano que fungirá como Presidente de la Comisión y lo someterá a la aprobación del Congreso del Estado; y
-
-III. El Congreso del Estado, en los términos que establezca la Ley Orgánica del Poder Legislativo, con la aprobación de las dos terceras partes de los diputados presentes, aprobará o rechazará dicha designación.
-
-###### Artículo 13.
-
-El Presidente de la Comisión deberá comparecer ante el Congreso del Estado, cuando el Pleno de la Legislatura lo requiera, a fin de presentar un informe respecto de los asuntos más relevante de sus funciones. Los diputados no podrán establecer directrices a su actuación.
-
-###### Artículo 14.
-
-El Presidente de la Comisión deberá reunir los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
-
-II. Ser originario del Estado o haber residido en él durante los últimos cinco años;
-
-III. No haber desempeñado cargo dentro de la administración pública estatal o municipal durante los dos últimos años anteriores al día de la designación, siempre que pueda lesionar la imparcialidad en el desempeño de su encargo;
-
-IV. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
-
-V. No ser ministro de culto religioso alguno, ni haber desempeñado cargo o dirigencia estatal o municipal de algún partido político dentro de los dos años anteriores al día de la designación;
-
-VI. Tener título de abogado, licenciado en derecho o carrera afín o, en su caso, tener conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el Estado de Jalisco;
-
-VII. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad; y
-
-VIII. No haber sido sentenciado por delito intencional.
-
-#### Sección Tercera
-
-Facultades y funciones del Consejo General.
-
-###### Artículo 15.
-
-El Presidente de la Comisión no podrá en ningún momento de su gestión desempeñarse como ministro de algún culto religioso, desempeñar cargo de dirigencia estatal o municipal dentro de algún partido político ni realizar cualquier acto de proselitismo.
-
-Asimismo, no podrá desempeñar cargos, empleos o comisiones dentro de la administración pública estatal o municipal, con excepción de los de elección popular, siempre que pueda implicar una influencia en la imparcialidad de los servidores públicos que laboran en la Comisión.
-
-#### Sección Cuarta
-
-De las sesiones del Consejo General.
-
-###### Artículo 16.
-
-El Presidente de la Comisión no tendrá, con motivo de sus funciones, subordinación de autoridad alguna y desempeñará su cargo con plena autonomía.
-
-Sólo podrá ser privado de su cargo por causa justificada prevista en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
-
-En caso de falta temporal, el Presidente será substituido por el Primer Visitador General, en los términos que para tal efecto prevea el Reglamento Interior. Cuando la ausencia fuere definitiva, lo suplirá dicho Visitador, en tanto se designa al nuevo titular en un plazo no mayor de treinta días y conforme al presente ordenamiento.
-
-#### Sección Quinta
-
-De las facultades y obligaciones de los consejeros ciudadanos.
-
-###### Artículo 17.
-
-Son facultades y atribuciones del Presidente de la Comisión:
-
-I. Ejercer la representación legal de la Comisión y promover la divulgación de la cultura de respeto de los derechos humanos ante los distintos niveles de gobierno;
-
-II. Presidir el Consejo General y el Consejo Editorial de la Comisión;
-
-III. Aprobar y emitir recomendaciones públicas, autónomas y no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los visitadores, con motivo de las investigaciones que practiquen;
-
-IV. Dirigir, planear y coordinar los trabajos de la Comisión, distribuyendo y delegando funciones a los visitadores en los términos que para tal efecto establezca el Reglamento Interior;
-
-V. Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar al personal técnico y administrativo del organismo que contemple el presupuesto de egresos;
-
-VI. Enviar al Congreso del Estado, durante el mes de febrero, un informe anual de las actividades realizadas por la Comisión, mismo que deberá contener, las sugerencias que considere pertinentes y que redunden en beneficio y promoción de la cultura de los derechos humanos;
-
-VII. Presentar un informe semestral ante el Consejo General de la Comisión, conforme a los lineamientos que se establezcan en el Reglamento Interior;
-
-VIII. Solicitar al Congreso del Estado comparecer ante éste, para presentar sugerencias en los casos que a su parecer alguna ley o reforma específica afecte la vigencia de los derechos humanos individuales y sociales;
-
-IX. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Comisión; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando al órgano técnico de inspección y vigilancia del Congreso del Estado, la información que le solicite en el ejercicio de sus funciones;
-
-X. Enviar a cualquier poder del Estado, dependencia u organismo descentralizado de la administración pública estatal o municipal, si así lo considera conveniente, un informe anual especial sobre el comportamiento de sus instituciones en cuanto al respeto a los derechos humanos, haciendo las observaciones y recomendaciones que incidan en la observancia de los derechos humanos;
-
-XI. Celebrar convenios de colaboración con autoridades y organismos públicos y privados interesados en la defensa de los derechos humanos, así como con las instituciones académicas, asociaciones culturales y medios de comunicación masivos para el mejor cumplimiento de sus fines;
-
-XII. Elaborar con el Consejo General, el proyecto del Presupuesto de Egresos de la Comisión y el informe respectivo sobre su ejercicio, para que sea presentado al Congreso del Estado, a más tardar el primer día hábil del mes de noviembre;
-
-XIII. Dictar las disposiciones que estime convenientes y establecer la creación de las dependencias que le auxilien en su trabajo y hagan eficiente la función de la Comisión;
-
-XIV. Nombrar y remover libremente al Secretario Ejecutivo, visitadores y demás personal, con excepción del Secretario Técnico del Consejo, en los términos de la Ley de los Servidores Públicos del Estado Jalisco y sus Municipios, y demás disposiciones legales aplicables;
-
-XV. Otorgar licencias y permisos al personal de la Comisión en los términos del reglamento interior;
-
-XVI. Distribuir y delegar funciones a los visitadores y demás personal;
-
-XVII. Instaurar el procedimiento administrativo interno, cuando alguno de los servidores públicos de la Comisión incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
-
-XVIII. Proponer al Consejo General el proyecto de reglamento interior, los manuales de organización de la Comisión, de procedimientos y de servicios al público, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de la Comisión; y
-
-XIX. Las demás que le otorguen la presente ley, su reglamento y demás ordenamientos aplicables.
-
-###### Artículo 18.
-
-El Presidente rendirá un informe anual al Congreso del Estado, sobre las actividades que haya realizado. Dicho informe se difundirá en la forma más amplia posible para conocimiento de la sociedad a través del Boletín de la Comisión y de los medios de comunicación masiva.
-
-###### Artículo 19.
-
-El informe anual de actividades deberá contener una descripción del número y características de las quejas interpuestas, los resultados de su labor de conciliación; las investigaciones realizadas, las recomendaciones, peticiones y los acuerdos de no violación a los derechos humanos que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
-
-El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados, con la consecuente eficacia en la prestación de los servicios públicos.
-
-###### Artículo 20.
-
-Cuando persistan actitudes u omisiones que impliquen evasivas o entorpecimiento en las investigaciones que realice la Comisión, por parte de las autoridades o servidores públicos estatales o municipales que deban intervenir o colaborar con los visitadores, no obstante los requerimientos que se les hubiesen formulado, se deberá rendir un informe especial al respecto.
-
-#### Sección Sexta
-
-Del Secretario Técnico del Consejo General.
-
-###### Artículo 21.
-
-El Consejo General es un órgano de participación ciudadana integrado por el Presidente y ocho consejeros ciudadanos propietarios e igual número de suplentes. Los consejeros ciudadanos, durarán cuatro años en su cargo, el cual tendrá carácter de honorífico.
-
-El Consejo General de la Comisión deberá integrarse en forma diversificada de manera que se logre la mayor representatividad social.
-
-### Capítulo IV
-
-De los informes del Presidente.
-
-###### Artículo 22.
 
 Los consejeros ciudadanos deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Ser originario del Estado o haber residido en la entidad durante los últimos dos años;
+II. Ser originario del Estado o haber residido en la entidad durante los últimos cinco años;
 
-III. No desempeñar cargo dentro de la administración pública federal, estatal o municipal, partido u organización política, a la fecha de su propuesta, con excepción de los cargos o empleos de docencia e investigación;
+III. No desempeñar simultáneamente, ni haberse desempeñado durante los últimos tres años, dentro de la administración pública federal, estatal o municipal, partido u organización política, con excepción de los cargos o empleos de docencia e investigación;
 
-IV. Tener cuando menos treinta años de edad el día de su nombramiento; y
+IV. Tener cuando menos treinta años de edad el día de su nombramiento; y (sic)
 
-V. Gozar de buena reputación y no haber sido sentenciado por delito intencional.
+V. Gozar de buena reputación y no haber sido sentenciado por delito intencional; y
 
-###### Artículo 23.
+VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 13.
 
 La designación de los consejeros ciudadanos se realizará de conformidad con el procedimiento establecido para la designación del Presidente de la Comisión.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-Cada dos años deberán ser sustituidos cuatro consejeros ciudadanos que tengan mayor antigüedad, con sus respectivos suplentes.
+###### Artículo 14.
 
-###### Artículo 25.
+Cada dos años y medio deberán ser substituidos cuatro consejeros ciudadanos que tengan mayor antigüedad, con sus respectivos suplentes.
 
-El Consejo General tendrá las siguientes facultades:
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
-I. Establecer los lineamientos generales de actuación de la Comisión;
+#### Sección Tercera
+
+Facultades y funciones del Consejo Ciudadano.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 15.
+
+El Consejo Ciudadano tendrá las siguientes facultades:
+
+I. Establecer los criterios generales de actuación de la Comisión;
 
 II. Aprobar el reglamento interior de la Comisión y sus reformas, así como ejercer las funciones de órgano normativo interno;
 
-III. Opinar sobre los proyectos de los informes que presente el Presidente, así como de los asuntos que sean sometidos a su consideración por el Presidente;
+III. Opinar sobre los proyectos de los informes del Presidente, así como de los asuntos que le sean sometidos a su consideración por el mismo;
 
-IV. Conocer, modificar, aprobar o, en su caso, rechazar el proyecto de Presupuesto de Egresos de la Comisión;
+IV. Proponer al Ejecutivo del Estado, el proyecto de Presupuesto de Egresos de la Comisión;
 
-En caso de que el Consejo General no apruebe parcial o totalmente el Presupuesto de Egresos de la Comisión, será el Congreso del Estado, el que determine el proyecto definitivo;
+En caso de que el Consejo General no proponga parcial o totalmente el proyecto de Presupuesto de Egresos de la Comisión, será el Congreso del Estado, el que determine el presupuesto definitivo;
 
-V. Nombrar y remover libremente al Secretario Técnico del Consejo General;
+V. Nombrar al Secretario Técnico del Consejo Ciudadano;
 
 VI. Proponer al Presidente, todas aquellas acciones y medidas que sirvan para una mejor observancia y tutela de los derechos humanos en el Estado;
 
-VII. Aprobar los lineamientos generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos gubernamentales estatales y municipales, así como con los organismos sociales y la población; y
+VII. Aprobar los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos gubernamentales estatales y municipales, así como con los organismos sociales y la población; y
 
 VIII. Las demás que le confiere la presente ley, su reglamento interior y los ordenamientos aplicables.
 
-###### Artículo 26.
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+
+#### Sección Cuarta
+
+De las sesiones del Consejo Ciudadano.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 16.
 
 El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos.
 
@@ -395,65 +379,239 @@ Las sesiones ordinarias se verificarán cuando menos una vez al mes.
 
 Las sesiones extraordinarias serán convocadas por el Presidente o a solicitud de por lo menos tres consejeros ciudadanos propietarios cuando consideren que hay razones para ello.
 
-Los suplentes podrán asistir a las sesiones del Consejo únicamente con voz pero sin derecho a voto, salvo que se encuentren en funciones.
+Los suplentes podrán asistir a las sesiones del Consejo únicamente con voz, pero sin derecho a voto, salvo que se encuentren en funciones de titulares.
 
-Las ausencias temporales y definitivas de los consejeros ciudadanos propietarios, serán cubiertas por los suplentes, en el orden de la lista nominal en la que éstos últimos aparezcan.
+Las ausencias temporales de los consejeros ciudadanos propietarios, serán cubiertas por los suplentes en forma rotativa en el orden de la lista nominal en la que éstos aparezcan.
 
-###### Artículo 27.
+En casos de ausencia definitiva de un consejero propietario, el resto del Consejo Ciudadano elegirá, entre los consejeros suplentes, mediante voto secreto y directo, a quien deberá ocupar el cargo.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
+
+#### Sección Quinta
+
+De las facultades y obligaciones de los consejeros ciudadanos.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 17.
 
 Los consejeros ciudadanos tendrán las siguientes facultades:
 
-I. Participar con voz y voto en las sesiones del Consejo en los términos que establece la presente ley. En caso de no poder asistir a sesión del Consejo General, deberán dar aviso con anticipación al Presidente de la Comisión a efecto de que el consejero suplente que corresponda a la lista nominal, asista en su lugar;
+I. Participar con voz y voto en las sesiones del Consejo en los términos que establece la presente Ley. En caso de no poder asistir a la sesión del Consejo Ciudadano, deberán dar aviso con anticipación al Secretario Técnico del Consejo Ciudadano de la Comisión a efecto de que el consejero suplente que corresponda, asista en su lugar;
 
 II. Integrar los comités permanentes o temporales que el Consejo determine; y
 
 III. Tener acceso a la información de los proyectos y programas relacionados con las áreas de investigación y de procedimientos, así como a las de promoción y difusión cultural de los derechos humanos.
 
-###### Artículo 28.
+Los consejeros suplentes asistirán a las sesiones del Consejo Ciudadano y tendrán derecho a voz pero no a voto y a lo dispuesto por las fracciones II y III de este artículo.
 
-Los consejeros ciudadanos no podrán solicitar información a ningún organismo o servidor público, estatal o municipal, sino es mediante acuerdo del Consejo General.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### Capítulo V
+###### Artículo 18.
 
-Del Consejo General.
+Los consejeros ciudadanos, previo acuerdo del Consejo, podrán solicitar información a los servidores públicos o autoridades de organismos estatales o municipales, sobre asuntos de derechos humanos en la entidad.
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-Los consejeros ciudadanos no podrán arrogarse la representación del Consejo General de la Comisión, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las denuncias que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
+###### Artículo 19.
 
-###### Artículo 30.
+Los consejeros ciudadanos no podrán arrogarse la representación del Consejo Ciudadano, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las denuncias que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 20.
 
 Los consejeros ciudadanos sólo podrán ser privados de su cargo por causa prevista en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
-Los consejeros ciudadanos que por alguna causa no hayan terminado el período de su nombramiento, serán sustituidos por los consejeros ciudadanos suplentes, debiendo rendir protesta de ley ante el Consejo General, y éste a su vez, dará aviso al Congreso del Estado.
+Los consejeros ciudadanos que por alguna causa no hayan terminado el período de su nombramiento, serán sustituidos por los consejeros ciudadanos suplentes, quienes deberán rendir protesta de ley ante el Consejo Ciudadano, y éste a su vez, dará el aviso correspondiente al Congreso del Estado.
 
-###### Artículo 31.
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
-El Secretario Técnico del Consejo es el servidor público encargado de auxiliar a los consejeros ciudadanos en el desempeño de sus funciones. Dependerá únicamente de los consejeros ciudadanos quedando, sin embargo, sujeto a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y al Reglamento Interno de la Comisión.
+#### Sección Sexta
 
-La designación del Secretario Técnico será realizada por el Consejo General de entre una terna que presente el Presidente de la Comisión y tendrá las siguientes atribuciones:
+Del Secretario Técnico del Consejo Ciudadano.
 
-I. Levantar las actas de sesiones del Consejo General;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 21.
+
+El Secretario Técnico del Consejo es el servidor público encargado de auxiliar a los consejeros ciudadanos y al Presidente en el desempeño de sus funciones.
+
+Deberá contar con título a nivel licenciatura legalmente expedido, tener como mínimo treinta años de edad y reunir los demás requisitos que establezca el Consejo Ciudadano; dependerá únicamente de los consejeros, quedando sujeto a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y al reglamento interno de la Comisión.
+
+La designación del Secretario Técnico será realizada por el Consejo Ciudadano de una terna propuesta por el Presidente de la Comisión, durará en su cargo cinco años, podrá ser ratificado cuantas veces se crea conveniente y tendrá las siguientes atribuciones:
+
+I. Levantar las actas de sesiones del Consejo Ciudadano;
 
 II. Proporcionar los informes que le soliciten los consejeros ciudadanos;
 
-III. Dar el seguimiento a los acuerdos, declaraciones y decisiones que emita el Consejo General;
+III. Dar el seguimiento a los acuerdos, declaraciones y decisiones que emita el Consejo Ciudadano;
 
-IV. Realizar los estudios y las opiniones que le pida el Consejo General;
+IV. Realizar los estudios que le pida el Consejo Ciudadano;
 
-V. Trabajar en coordinación con el Presidente apoyándolo en todo lo que sea necesario para el buen funcionamiento del Consejo General; y
+V. Trabajar en coordinación con el Presidente apoyándolo en todo lo que sea necesario para el buen funcionamiento del Consejo Ciudadano y de la Comisión;
 
-VI. Las demás que establezca el reglamento interior.
+VI. Participar en la elaboración de los informes anuales así como los especiales que sean necesarios;
 
-El Secretario Técnico del Consejo General, contará con los recursos materiales, financieros y profesionales necesarios para el desempeño de sus funciones.
+VII. Participar en la elaboración y presentación del proyecto de Presupuesto de Egresos; y
+
+VIII. Las demás que establezca el reglamento interior.
+
+El Secretario Técnico del Consejo Ciudadano, contará con los recursos profesionales, materiales y financieros necesarios para el desempeño de sus funciones.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo IV
+
+Del Presidente de la Comisión.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 22.
+
+El Presidente es la primera autoridad de la Comisión. Será designado para promover y garantizar los derechos humanos de cualquier persona que se encuentre en el Estado; durará en su cargo cinco años y exclusivamente podrá ser designado para un segundo período, respetando el procedimiento realizado para la designación inicial.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 23.
+
+Para la designación del Presidente de la Comisión, se seguirá el siguiente procedimiento:
+
+I. El Congreso del Estado expedirá una convocatoria pública dirigida a los organismos sociales, colegios de profesionistas, universidades, y a la sociedad en general, con la finalidad de allegarse propuestas de candidatos; y
+
+II. De los candidatos propuestos por la sociedad, el Congreso del Estado nombrará al ciudadano que fungirá como Presidente de la Comisión, con la aprobación de las dos terceras partes de los diputados presentes;
+
+III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 24.
+
+El Presidente de la Comisión deberá comparecer ante el Congreso del Estado, cuando el Pleno de la Legislatura lo requiera, a fin de presentar los Informes que se le soliciten respecto de los asuntos más relevantes de sus funciones.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 25.
+
+El Presidente de la Comisión deberá reunir los siguientes requisitos:
+
+IV (sic). Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+V. Ser originario del Estado o haber residido en él durante los últimos cinco años;
+
+VI. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
+
+VII. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
+
+VIII. No haber sido sentenciado por delito intencional, ni haber resultado responsable por violaciones a los derechos humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos;
+
+IX. Tener título preferentemente de abogado o licenciado en derecho, o en su caso de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el Estado de Jalisco;
+
+X. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad; y
+
+XI. No haber sido sentenciado por delito intencional.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 26.
+
+El Presidente de la Comisión no podrá en ningún momento de su gestión desempeñarse como ministro de algún culto religioso, desempeñar cargo de dirigencia estatal o municipal dentro de algún partido político ni realizar actos de proselitismo.
+
+Asimismo, no podrá ejercer su profesión en forma privada, excepto en causa propia o en la docencia, ni desempeñar cargos, empleos o comisiones dentro de la administración pública federal, estatal o municipal durante su encargo.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 27.
+
+El Presidente de la Comisión no estará subordinado con motivo de sus funciones, a institución o autoridad alguna y desempeñará su cargo con plena autonomía.
+
+Sólo podrá ser privado de su cargo por causa justificada prevista en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+En caso de falta temporal, el Presidente será substituido por el Primer Visitador General, en los términos que para tal efecto prevea el Reglamento Interior. Cuando la ausencia fuere definitiva, lo suplirá dicho Visitador, en tanto se designa al nuevo titular en un plazo no mayor de treinta días y conforme al presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 28.
+
+Son facultades y atribuciones del Presidente de la Comisión:
+
+I. Ejercer la representación legal de la Comisión y promover la divulgación de la cultura de respeto de los derechos humanos ante los distintos niveles de gobierno;
+
+II. Presidir el Consejo Ciudadano;
+
+III. Aprobar y emitir recomendaciones públicas, autónomas, no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los visitadores, con motivo de las investigaciones que practiquen;
+
+IV. Dirigir, planear y coordinar los trabajos de la Comisión, distribuyendo y delegando funciones a los visitadores en los términos que para tal efecto establezca el Reglamento Interior;
+
+V. Formular los criterios generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar al personal técnico y administrativo del organismo que establezca el presupuesto de egresos;
+
+VI. Enviar al Congreso del Estado, durante el mes de febrero, un informe anual de las actividades realizadas por la Comisión, mismo que deberá contener, las sugerencias que considere pertinentes y que redunden en beneficio y promoción de la cultura de los derechos humanos;
+
+VII. Presentar un informe mensual ante el Consejo Ciudadano de la Comisión, conforme a los lineamientos que se establezcan en el reglamento interior;
+
+VIII. Solicitar al Congreso del Estado por conducto de la Comisión Legislativa de Derechos Humanos la revisión de la legislación cuando a su juicio algún ordenamiento legal contravenga disposiciones relativas a derechos humanos;
+
+IX. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Comisión; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando al órgano técnico de inspección y vigilancia del Congreso del Estado, la información que le solicite en el ejercicio de sus funciones;
+
+X. Enviar a cualquier poder del Estado, dependencia u organismo descentralizado de la administración pública estatal o municipal, si así lo considera conveniente, un informe anual especial sobre el comportamiento de sus instituciones en cuanto al respeto a los derechos humanos, haciendo las observaciones y recomendaciones que incidan en la observancia de los derechos humanos;
+
+XI. Celebrar convenios de colaboración con autoridades y organismos públicos y privados interesados en la defensa de los derechos humanos, así como con las instituciones académicas, asociaciones culturales y medios de comunicación masivos para el mejor cumplimiento de sus fines;
+
+XII. Elaborar con la aprobación del Consejo Ciudadano, el proyecto del Presupuesto de Egresos de la Comisión y el informe respectivo sobre su ejercicio, para que sean presentados al Ejecutivo del Estado, a más tardar el primer día hábil del mes de noviembre;
+
+XIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión;
+
+XIV. Nombrar y remover libremente al Secretario Ejecutivo, visitadores y demás personal, con excepción del Secretario Técnico del Consejo, en los términos de la Ley de los Servidores Públicos del Estado (sic) Jalisco y sus Municipios, y demás disposiciones legales aplicables;
+
+XV. Otorgar licencias y permisos al personal de la Comisión en los términos del reglamento interior;
+
+XVI. Distribuir y delegar funciones a los visitadores y demás personal;
+
+XVII. Instaurar a través de la Contraloría de la Comisión, el procedimiento administrativo interno, cuando alguno de sus servidores públicos de la Institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+
+XVIII. Proponer al Consejo Ciudadano el proyecto de reglamento interior, los manuales de organización de la Comisión, de procedimientos y de servicios al público, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de la institución;
+
+XIX. Informar a la sociedad sobre el estado, avances o retrocesos que en materia de derechos humanos observen las autoridades;
+
+XX. Prevenir la violación a los derechos humanos o la continuación de la misma mediante la emisión de pronunciamientos y recomendaciones; y
+
+XXI. Las demás que le otorguen la presente ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo V
+
+De los informes del Presidente.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 29.
+
+El Presidente rendirá un informe anual a la sociedad y los titulares de los tres poderes del Estado, sobre las actividades que haya realizado. Dicho informe se difundirá en la forma más amplia posible para conocimiento de la sociedad a través de las publicaciones de la Comisión y de los medios de comunicación masiva.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 30.
+
+El informe anual de actividades deberá contener un diagnóstico general de la situación de los derechos humanos en el Estado y las causas estructurales de su violación; una descripción del número y características de las quejas interpuestas, los resultados de su labor de conciliación; las investigaciones realizadas, las recomendaciones, peticiones y los acuerdos de no violación a los derechos humanos que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+
+El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados, con la consecuente eficacia en la prestación de los servicios públicos.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 31.
+
+Cuando persistan actitudes u omisiones que impliquen evasivas o entorpecimiento en las investigaciones que realice la Comisión, por parte de las autoridades o servidores públicos estatales o municipales que deban intervenir o colaborar con los visitadores, no obstante los requerimientos que se les hubiesen formulado, se deberá rendir un informe especial al respecto.
 
 ### Capítulo VI
 
 Del Secretario Ejecutivo de la Comisión.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 32.
 
-El Secretario Ejecutivo de la Comisión es el servidor público encargado de auxiliar al Presidente de la Comisión en el desempeño de sus funciones.
+El Secretario Ejecutivo de la Comisión es el servidor público encargado del enlace entre la Comisión y los organismos y asociaciones civiles y gubernamentales; estará encargado de difundir la cultura, trabajo y propuestas emprendidos por la institución ante la sociedad y ante los diversos poderes del Estado y tendrá las demás funciones que se señalen en la presente ley o le sean encomendadas por el Presidente de la Comisión.
 
 Para desempeñar el cargo de Secretario Ejecutivo, se deberán reunir los siguientes requisitos:
 
@@ -467,53 +625,91 @@ IV. Tener treinta años de edad el día de la designación; y
 
 V. Gozar de buena reputación y no haber sido sentenciado por delito intencional.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 33.
 
 Son atribuciones y obligaciones del Secretario Ejecutivo:
 
-I. Proponer al Consejo General y al Presidente, los lineamientos generales que en materia de derechos humanos habrá de seguir la Comisión ante la población, los organismos intermedios, autoridades estatales o municipales y las universidades;
+I. Proponer al Consejo Ciudadano y al Presidente, los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante la población, los organismos civiles, autoridades estatales o municipales y las universidades;
 
 II. Promover y fortalecer las relaciones de la Comisión con los ciudadanos, organismos públicos, sociales o privados, en materia de derechos humanos;
 
 III. Formular los anteproyectos de propuestas y consideraciones a las leyes y reglamentos que la Comisión haya de entregar a los órganos competentes y estudios que los sustenten;
 
-IV. Colaborar en la elaboración de los informes anuales y semestrales, así como de los especiales que envíe la Comisión a las dependencias de gobierno y el que se rinda al Consejo General;
+IV. Elaborar los informes anuales y mensuales, así como de los especiales que envíe la Comisión a las dependencias de gobierno y los que se rindan al Consejo Ciudadano;
 
-V. Promover y mantener la biblioteca y el acervo documental de la Comisión; y
+V. Promover y mantener la biblioteca y el acervo documental de la Comisión; y (sic)
 
-VI. Las demás que le sean conferidas por la presente ley, el Reglamento Interior y demás ordenamientos aplicables.
+VI. Coordinar y ejecutar los programas y acciones que le sean encomendados por el Presidente;
+
+VII. Programar, planear, organizar, coordinar y ejecutar cursos de capacitación que tengan por objeto la promoción y difusión de la cultura de los derechos humanos;
+
+VIII. Apoyar al Presidente y a los visitadores generales cuando del trámite de las quejas se desprenda la necesidad de emitir un pronunciamiento; y
+
+IX. Las demás que le sean conferidas por la presente ley, el Reglamento Interior y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 33 Bis.
+
+El Secretario Ejecutivo coordinará a los capacitadores e investigadores de la institución, los que tendrán las siguientes funciones:
+
+I. Dar y ofrecer apoyo técnico y de capacitación en materia de derechos humanos, a los miembros de la Comisión, a los organismos civiles y dependencias gubernamentales, así como instituciones educativas, a los particulares, y en general, a quien lo solicite;
+
+II. Investigar y difundir estudios en materia de derechos humanos;
+
+III. Analizar situaciones concretas con relación a los derechos humanos y sus planteamientos de solución;
+
+IV. Realizar actividades para divulgar la cultura de los derechos humanos; y
+
+V. Las demás que establezca el reglamento interior.
 
 ### Capítulo VII
 
 De los Visitadores.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 34.
 
-Los visitadores generales y los adjuntos "A", deberán reunir los mismos requisitos que se establecen para desempeñar el cargo de Secretario Ejecutivo.
+Los visitadores generales así como los visitadores adjuntos "A" y "B" deberán reunir los mismos requisitos que se establecen para desempeñar el cargo de Secretario Ejecutivo, con excepción de la edad que será para los generales de 35 años, para los adjuntos "A" de 28 años, para los adjuntos "B" de veinticinco años y además les será obligatorio a éstos últimos acreditar un año de práctica profesional.
 
-A los visitadores adjuntos "B", no les será obligatorio acreditar tres años de práctica profesional y su edad mínima deberá ser de veinticinco años.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 35.
 
 Son facultades y obligaciones de los visitadores generales:
 
-I. Admitir o rechazar, de manera fundada y motivada, las quejas presentadas ante la Comisión;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-II. Dar cuenta al Presidente de cualquier violación de los derechos humanos;
+I. Admitir o rechazar, de manera fundada y motivada, las quejas presentadas ante la Comisión que le hubieran sido turnadas por el Director de Quejas, Orientación y Seguimiento;
 
-III. Discrecionalmente, iniciar por moción propia la investigación de las denuncias de presuntas violaciones a los derechos humanos que sean de interés social o las de dominio público;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+II. Informar al Presidente de las quejas que sean recibidas en su visitaduría o iniciadas de oficio y del trámite de las mismas;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+III. En coordinación con el Director de Quejas, Orientación y Seguimiento, iniciar de oficio la investigación de las denuncias de presuntas violaciones a los derechos humanos que sean de interés social o las de dominio público;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
 IV. Realizar las actividades necesarias para lograr, por medio de la conciliación o de la petición, el cese inmediato de las violaciones de los derechos humanos;
 
-V. Practicar las investigaciones y estudios necesarios para formular los proyectos de recomendación, acuerdo o petición, que se someterán a consideración del Presidente para su análisis, y en su caso, aprobación;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+V. Practicar las investigaciones y estudios necesarios para formular los proyectos de resolución, acuerdos o peticiones, los que se someterán a consideración del Presidente para su análisis y, en su caso, aprobación;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
 VI. Cuando se requiera realizar acciones de investigación para poder estar en aptitud de emitir resoluciones, tendrán las siguientes facultades:
 
-a) Solicitar a cualquier dependencia, autoridad o servidor público la presentación de informes o documentos que ayuden al esclarecimiento de los hechos en investigación;
+a) Solicitar a cualquier dependencia, autoridad o servidor público estatal o municipal la presentación de informes o documentos que ayuden al esclarecimiento de los hechos en investigación;
 
 b) Practicar las visitas e inspecciones a las dependencias públicas, para el esclarecimiento de los hechos que se investigan, ya sea directamente o por medio del personal técnico o profesional bajo su dirección, en los términos de la presente ley y su reglamento interior;
 
-c) Sugerir sanciones y penas administrativas a los superiores jerárquicos de los funcionarios que obstaculicen la investigación; y,
+c) Sugerir que a través de los procedimientos administrativos o penales, se analice la posible responsabilidad de las autoridades o servidores públicos que obstaculicen la investigación; y,
 
 d) Efectuar las demás acciones que conforme a derecho juzguen convenientes para el mejor conocimiento de los asuntos;
 
@@ -531,123 +727,205 @@ Los visitadores adjuntos auxiliarán en sus funciones a los visitadores generale
 
 El Primer Visitador General sustituirá al Presidente en sus ausencias, conforme lo establece esta ley y su reglamento interior.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ### Capítulo VIII
 
-Disposiciones comunes.
+De la Dirección de Quejas, Orientación y Seguimiento.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 38.
 
-El Presidente, los consejeros ciudadanos y los visitadores generales y adjuntos, no podrán ser detenidos, ni sujetos de responsabilidad civil, penal o administrativa por las opiniones o recomendaciones que formulen o por los actos que realicen conforme a derecho y en ejercicio de las funciones propias de sus cargos.
+El Director de Quejas, Orientación y Seguimiento tendrá las siguientes facultades:
 
-Las funciones del Presidente, del Secretario Ejecutivo, Secretario Técnico, los visitadores generales y adjuntos, serán incompatibles con cualquier otro cargo, empleo o comisión en organismos públicos, dirigencia en partidos u organizaciones políticas, sin embargo, podrán desempeñar cualquier empleo relacionado con la docencia, la investigación científica o tecnológica.
+I. Recibir y registrar las quejas por presuntas violaciones a los derechos humanos que se denuncien, acusar recibo de su recepción y turnarlas a los visitadores generales;
 
-El resto del personal no podrá trabajar en actividades que sean incompatibles con las tareas de la Comisión, por lo que el reglamento interior, especificará en qué otros casos, el personal de la Comisión, estarán impedidos a ejercer otras actividades en los términos del presente artículo.
+II. Cuando se trate de asuntos urgentes o graves, inmediatamente lo hará del conocimiento del Visitador General o, en su caso, del Presidente de la Comisión;
+
+III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les hayan formulado recomendaciones;
+
+IV. Informar a los quejosos los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones, realizando tal función en coordinación con los visitadores;
+
+V. Coordinar su trabajo de evaluación del cumplimiento de las recomendaciones con los visitadores generales o adjuntos que hubiesen preparado los proyectos respectivos.
+
+VI. Coordinar el trabajo de las áreas de guardia y médico psicológica de la Comisión;
+
+VII. Analizar las quejas que se presenten por cualquier medio, y en caso de ser procedentes aceptarlas como posibles violaciones a los derechos humanos. En caso contrario, dar orientación a los quejosos para que acudan ante la instancia correspondiente;
+
+VIII. Turnar las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
+
+IX. Turnar a la dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
+
+X. Las demás que le otorguen la presente Ley, su reglamento interior y los demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo IX
 
-De la fe pública.
+De la Dirección de Comunicación Social.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 39.
 
-El Presidente, el Secretario Ejecutivo, los visitadores generales y visitadores adjuntos, tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas presentadas ante la Comisión.
+Son facultades del Director de Comunicación Social:
 
-### Capítulo X
+I. Definir e integrar las distintas publicaciones que realice la Comisión, con la aprobación del Presidente;
 
-Del Consejo Editorial.
+II. Ser el medio de difusión de la Comisión, para promover y divulgar la cultura de los derechos humanos en el Estado de Jalisco;
 
-#### Sección Primera
+III. Informar a la sociedad los objetivos y programas de trabajo del organismo mediante la puesta en práctica de diversas estrategias, planes de comunicación y campañas de difusión, así como dar a conocer a la opinión pública las recomendaciones, pronunciamientos emitidos, conciliaciones y acuerdos de no violación, que sean pertinentes y el Presidente los apruebe;
 
-Del Consejo Editorial y su integración.
+IV. Gestionar la concesión de tiempos oficiales en el Sistema Jalisciense de Radio y Televisión;
+
+V. Producir material de propaganda para la difusión de los derechos humanos, así como la gaceta del organismo; y
+
+VI. Las demás que le otorguen la presente ley, su reglamento interior y demás ordenamientos aplicables.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### CAPITULO X
+
+Del Director Administrativo.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 40.
 
-Para los efectos de esta ley, se entenderá por fe pública, la facultad de autentificar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que se les atribuya, en los términos de este ordenamiento y otras leyes aplicables.
+Son facultades del Director Administrativo:
 
-Las declaraciones y hechos a que se refiere el párrafo anterior, se harán constar en el acta circunstanciada que al efecto levantará el servidor público correspondiente.
+I. Supervisar la correcta aplicación de los recursos financieros de la Comisión, ejerciendo un estricto control presupuestal;
+
+II. Establecer y controlar el sistema de informática de la Comisión;
+
+III. Elaborar el anteproyecto de presupuesto anual de la Comisión, en coordinación con las distintas áreas de la Comisión;
+
+IV. Presentar a la Presidencia periódicamente y en forma oportuna, los informes de carácter financiero de la institución;
+
+V. Encargarse de los recursos humanos de la institución;
+
+VI. Proporcionar los insumos para la adecuada operación de las distintas áreas de la Comisión;
+
+VII. Controlar la adquisición de los bienes autorizados en el presupuesto de egresos de la Comisión;
+
+VIII. Dar mantenimiento a los bienes de la Comisión; y
+
+IX. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo XI
 
-De la función de capacitación e investigación de la Comisión.
+Del Contralor Interno.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 41.
 
-El Consejo Editorial es el órgano consultivo, conformado por el Presidente y demás miembros que establezca el reglamento interior.
+Son facultades del Contralor Interno:
 
-El Presidente tiene el voto de calidad en el Consejo Editorial.
+I. Dar trámite a las quejas relativas al desempeño de los servidores públicos de la Comisión, practicar las investigaciones necesarias y, cuando exista responsabilidad, instaurar los procedimientos administrativos, aplicando en su caso, las sanciones conducentes;
 
-#### Sección Segunda
+II. Realizar auditorías periódicas, visitas de inspección y reuniones de evaluación en todas las áreas del organismo, verificando el cumplimiento de los criterios generales y de los procedimientos;
 
-Facultades y funciones del Consejo Editorial.
+III. Vigilar que las erogaciones del organismo se ajusten a los presupuestos autorizados;
+
+IV. Vigilar el cumplimiento de las normas de control, fiscalización y evaluación por parte de los servidores públicos de la Institución; y
+
+V. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo XII
 
-Del personal auxiliar de la Comisión.
+Disposiciones comunes.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 42.
 
-Son facultades del Consejo Editorial:
+El Presidente, los consejeros ciudadanos, los secretarios Técnico y Ejecutivo, los visitadores generales y adjuntos, así como el Director de Quejas, Orientación y Seguimiento, no podrán ser detenidos, ni sujetos de responsabilidad civil, penal o administrativa por las opiniones o recomendaciones que formulen o por los actos que realicen conforme a derecho y en ejercicio de las funciones propias de sus cargos.
 
-I. Definir y estructurar las distintas publicaciones que realice la Comisión, entre ellas el Boletín de la Comisión;
+Las funciones del Presidente, de los secretarios Ejecutivo y Técnico, de los visitadores generales y adjuntos, así como de los directores, serán incompatibles con cualquier otro cargo, empleo o comisión en organismos públicos, militancia en partidos u organizaciones políticas. Tampoco podrán ejercer en forma privada su profesión, ni otras actividades remuneradas, si éstas tienen relación con las funciones y competencia de la Comisión. Podrán desempeñar cualquier empleo relacionado con la docencia, la investigación científica o tecnológica que no les impidan el correcto desempeño de su cargo.
 
-II. Difundir y promover los trabajos de la Comisión, a través de sus publicaciones; y
+El resto de los servidores públicos que laboren en la Comisión, no podrán trabajar en actividades que sean incompatibles con las tareas de la misma, por lo que el reglamento interior especificará en qué otros el personal, está impedido para ejercer otras actividades en los términos de este artículo.
 
-III. Las demás que señale el reglamento interior.
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### Capítulo I
+### Capítulo XIII
 
-Generalidades.
+De la fe pública.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 43.
 
-La Comisión contará con personal profesional que estará a cargo de la elaboración, publicación y difusión del Boletín de la Comisión; de la publicación de las investigaciones que se realicen, así como dar a conocer a la opinión pública las actividades de la Comisión.
+El Presidente, el Secretario Ejecutivo, el Secretario Técnico, el Director de Orientación, Quejas y Seguimiento, así como los visitadores generales y visitadores adjuntos, tendrán fe pública en sus actuaciones para autentificar documentos, declaraciones y hechos en relación con sus funciones.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 44.
 
-El Boletín de la Comisión se publicará cada dos meses y contendrá los resúmenes de las recomendaciones de mayor importancia e interés público, así como ensayos relativos a los derechos humanos y demás temas de interés.
+Para los efectos de esta ley, se entenderá por fe pública, la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que se les atribuya, en los términos de este ordenamiento y otras leyes aplicables.
 
-### Capítulo II
+Las declaraciones y hechos a que se refiere el párrafo anterior, se harán constar en el acta circunstanciada que al efecto levantará el servidor público correspondiente.
 
-Del trámite de la queja.
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo XIV
+
+Del personal auxiliar de la Comisión.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 45.
 
-La Comisión contará con capacitadores e investigadores y tendrán las siguientes funciones:
+Son auxiliares del organismo el personal profesional, técnico y administrativo. El Secretario Ejecutivo, los directores, visitadores generales, y visitadores adjuntos, podrán ser designados libremente por el Presidente y removidos de conformidad con lo establecido por las leyes aplicables.
 
-I. Dar y ofrecer el apoyo técnico y de capacitación en materia de derechos humanos, a los miembros de la Comisión, a las organizaciones sociales y dependencias gubernamentales, así como instituciones educativas, a los particulares, y en general, a quien solicite capacitación;
-
-II. Investigar y difundir estudios en materia de derechos humanos;
-
-III. Analizar situaciones concretas con relación a los derechos humanos y sus planteamientos de solución;
-
-IV. Realizar actividades para divulgar la cultura de los derechos humanos; y
-
-V. Las demás que establezca el reglamento interior.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 46.
 
-Son auxiliares del organismo: el personal profesional, técnico y administrativo. El Secretario Ejecutivo, visitadores generales, y visitadores adjuntos, quienes podrán ser designados y removidos libremente por el Presidente, en los términos de la ley.
+El reglamento interior determinará las áreas y unidades administrativas y técnicas, así como las funciones y facultades que deberá ejercer el personal de cada una de las áreas, de acuerdo con las necesidades institucionales, y conforme se autorice en su Presupuesto de Egresos.
+
+El personal de confianza se determinará por las funciones que establece la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la presente ley, su reglamento interior y los demás ordenamientos aplicables.
+
+(REUBICADO, P.O. 13 DE FEBRERO DE 2001)
 
 ## Título Tercero
 
 Del Procedimiento.
 
-### Capítulo III
+(REUBICADO, P.O. 13 DE FEBRERO DE 2001)
 
-De los informes de las autoridades o servidores públicos.
+### Capítulo I
+
+Generalidades.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 47.
 
-El reglamento interior determinará las áreas y unidades administrativas y técnicas, así como las funciones y facultades que deberán ejercer sus directores y el personal de cada una de ellas, de acuerdo a las necesidades de la Comisión, y conforme se autorice en su Presupuesto de Egresos.
+El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gratuito; sólo estará sujeto a las mínimas formalidades que se requieran en la investigación de los hechos buscando siempre la conciliación. Se tramitará además, de acuerdo con los principios de inmediatez, concentración y rapidez, procurando el contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
 
-El personal de confianza se determinará por la (sic) funciones que establece la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y su reglamento interior.
+El principio de concentración abarcará no solo la acumulación del trámite de los expedientes de queja, sino también, a través de su resolución, violaciones reiteradas por parte de los servidores públicos de las diversas instituciones de gobierno que hacen probable la existencia de violaciones a los derechos humanos.
+
+El principio de concentración se aplicará también cuando los patrones definidos de transgresión se deriven de la actuación de servidores públicos que pertenezcan a una misma dependencia.
+
+Sin perjuicio de analizar cada caso particular y recomendar sanciones individuales, la Comisión revisará los patrones de violación a los derechos humanos imputables a autoridades y servidores públicos cuando acumule quejas bajo este principio.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 48.
 
-El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gratuito; sólo estará sujeto a las mínimas formalidades que se requieran en la investigación de los hechos, buscando siempre la conciliación. Se tramitará además, de acuerdo con los principios de inmediatez, concentración, rapidez y deberá, en la medida de lo posible, estar en contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
+Cuando se presenten distintas quejas por supuestas violaciones a los derechos humanos de los grupos vulnerables radicados dentro del Estado, que evidencien patrones definidos de transgresión de sus derechos, la Comisión concentrará los expedientes y emitirá la resolución correspondiente. Independientemente de ello, cualquiera que sea la etapa del procedimiento, podrá expedir un pronunciamiento al respecto.
 
-### Capítulo IV
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-De la investigación.
+### Capítulo II
+
+De la presentación de las quejas.
 
 ###### Artículo 49.
 
@@ -677,27 +955,47 @@ La queja sólo podrá presentarse dentro del plazo de un año, contado a partir 
 
 En casos excepcionales, tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante resolución razonada.
 
-No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones a la integridad personal, ya sea física o moral.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+No contará plazo alguno cuando se trate de hechos que puedan ser considerados violaciones graves a la integridad personal, ya sea física o moral.
 
 ###### Artículo 54.
 
 Las quejas que se presenten ante la Comisión, así como los acuerdos, peticiones y recomendaciones que ésta dicte, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá hacerse del conocimiento de los quejosos en el acuerdo de admisión de la instancia.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 55.
 
-El Visitador General tendrá la facultad de solicitar en cualquier momento a las autoridades competentes, que se tomen todas las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones a los derechos humanos reclamados, o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
+Los visitadores generales y adjuntos, así como el Director de Quejas, Orientación y Seguimiento deberán solicitar a las autoridades competentes, en forma inmediata cuando lo estimen necesario, que se tomen todas las medidas precautorias y cautelares necesarias para evitar la consumación irreparable de las violaciones a los derechos humanos reclamados o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
 
 Dichas medidas pueden ser de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
-### Capítulo V
+Son medidas de conservación las que pretenden que se mantenga una situación jurídica y que ésta no cambie con la intervención de la autoridad.
 
-De las pruebas.
+Son medidas restitutorias aquellas tendientes a devolver una situación al estado en que se encontraban antes de la intervención de la autoridad.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 55 Bis.
+
+Si en la presentación de la queja, investigación y tramitación existe presunción de la comisión de un delito, la institución deberá presentar la denuncia penal correspondiente ante el agente del Ministerio Público. De igual forma procederá en el caso de presunciones sobre infracciones y faltas que den origen a responsabilidades administrativas para efecto de que inicie el procedimiento correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo III
+
+Del trámite de la queja.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 56.
 
-El quejoso o en su caso la Comisión, integrará la queja con los siguientes datos:
+El quejoso, o en su caso la Comisión, integrará la queja con los siguientes datos:
 
-I. El nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio y firma de la persona que la promueva, en el caso de no saber firmar, estampará su huella digital y otra persona lo hará a su ruego;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+I. El nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico en su caso, y firma de la persona que la promueva. En el caso de no saber firmar, estampará su huella digital y otra persona lo hará a su ruego;
 
 II. De ser posible, una breve relación de los hechos motivo de la queja, especificando circunstancias de tiempo, modo y lugar;
 
@@ -705,13 +1003,19 @@ III. El nombre y cargo del servidor o servidores públicos que intervinieron o, 
 
 IV. Las pruebas que estén a su disposición, tendientes a comprobar las imputaciones vertidas en contra de los servidores públicos.
 
-Cuando la queja no sea presentada por el directamente afectado, se deberá indicar cuando menos su nombre y demás datos que se tengan.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+Cuando la queja sea presentada por una persona distinta al directamente agraviado, se deberá indicar cuando menos el nombre y demás datos que se tengan, de este último, los que se complementarán una vez que se lleve a cabo la ratificación de la inconformidad.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 57.
 
-Cuando se considere que la instancia es inadmisible por ser manifiestamente improcedente, se deberá rechazar mediante acuerdo fundado y motivado, dentro de un plazo máximo de cinco días naturales, el cual se le notificará al quejoso. No se admitirán en ningún caso y bajo ninguna circunstancia, quejas anónimas.
+Cuando se considere que la queja es inadmisible por ser manifiestamente improcedente, el Director de Quejas, Orientación y Seguimiento deberá rechazarla mediante acuerdo fundado y motivado, dentro de un plazo máximo de cinco días hábiles, lo cual se notificará al quejoso. No se admitirán en ningún caso y bajo ninguna circunstancia, quejas anónimas.
 
-Las quejas presentadas ante la Comisión cuyo conocimiento competa a otra Comisión Estatal o a la Comisión Nacional, por razón del territorio, materia o servidores públicos involucrados, serán enviadas mediante acuerdo al organismo que corresponda, dentro de un plazo máximo de diez días, a partir del cual se notificará de ello a los quejosos.
+> <small>(F. DE E., P.O. 8 DE ABRIL DE 2003)</small>
+
+Las quejas presentadas en la Comisión cuyo conocimiento competa a otra Comisión Estatal o a la Comisión Nacional, por razón del territorio, materia o servidores públicos involucrados, serán enviadas mediante oficio al organismo que corresponda, dentro de un plazo máximo de diez días, a partir del cual se notificará de ello a los quejosos.
 
 ###### Artículo 58.
 
@@ -721,13 +1025,17 @@ La Comisión registrará las quejas que se presenten y extenderá acuse de recib
 
 Si de la presentación de la queja no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que haga las aclaraciones pertinentes. Si después de este requerimiento, el quejoso no contesta en un término de cinco días, se enviará al archivo por falta de interés. No obstante, en cualquier momento, teniéndose los datos necesarios, se continuará con el trámite respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 60.
 
-Una vez admitida la queja, la Comisión deberá hacerla del conocimiento de las autoridades o servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación, solicitándoles un informe sobre los actos u omisiones que se les atribuyen. Para tal efecto, les remitirá copia de la queja y del acuerdo admisorio, omitiendo los datos del domicilio del particular, de su trabajo, número telefónico o cualquier dato que permita localizarlo.
+Una vez admitida la queja, la Comisión deberá hacerla del conocimiento de las autoridades o servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación, solicitándoles un informe específico sobre los actos u omisiones que se les atribuyen. Para tal efecto, se les remitirá copia de la queja y del acuerdo admisorio, omitiendo los datos del domicilio del particular, de su trabajo, número telefónico o cualquier dato que permita localizarlo.
 
-### Capítulo VI
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-De la conciliación.
+### Capítulo IV
+
+De los informes de las autoridades o servidores públicos.
 
 ###### Artículo 61.
 
@@ -735,15 +1043,19 @@ El informe de las autoridades o servidores públicos deberá rendirse dentro de 
 
 En el caso de privación ilegal de la libertad o peligro inminente de la integridad corporal, el informe deberá rendirse en un plazo que no deberá exceder de doce horas, el cual se podrá realizar en forma verbal de inmediato y, posteriormente, por escrito, sin que exceda del término de veinticuatro horas.
 
-A la falta del informe que deben rendir las autoridades, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva en que incurran, se tendrán por ciertos los hechos motivo de la queja, salvo prueba en contrario.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+A la falta del informe que deben rendir las autoridades, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva en que incurran, se tendrán por ciertos los hechos motivo de la queja, en el momento de la resolución, salvo que exista prueba en contrario recabada durante el procedimiento.
 
 ###### Artículo 62.
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que sea considerada de carácter reservado, lo comunicarán a la Comisión y expresarán las razones para considerarla de esa naturaleza. En ese supuesto, los visitadores generales tendrán la facultad de hacer la calificación definitiva sobre la reserva y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
-### Capítulo VII
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-De los acuerdos, peticiones y recomendaciones.
+### Capítulo V
+
+De la investigación.
 
 ###### Artículo 63.
 
@@ -755,59 +1067,77 @@ En la realización de las investigaciones, se observarán los principios legales
 
 En todos los casos que se requiera, la Comisión levantará acta circunstanciada de sus actuaciones.
 
-### Capítulo Único
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-De los recursos de exhibición de persona, de queja e impugnación.
+### Capítulo VI
+
+De las pruebas.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 64.
 
-La Comisión podrá solicitar la presentación y desahogo de todas aquellas pruebas que a juicio del Visitador o del Presidente resulten indispensables.
+La Comisión deberá recabar los elementos probatorios necesarios para resolver el expediente de queja.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 65.
 
-Una vez recibido el informe, se abrirá el período probatorio cuya duración será determinada por la Comisión de acuerdo al caso, tomándose en cuenta la gravedad y dificultad para allegarse de los elementos probatorios.
+Una vez recibido el informe, se abrirá el período probatorio cuya duración será determinada por la Comisión de acuerdo al caso, tomándose en cuenta la gravedad y dificultad para allegarse las pruebas.
 
-Se admitirán pruebas de toda índole y naturaleza, siempre y cuando no vayan en contra de la moral o del derecho, pudiéndose recabar de oficio cualquier probanza.
+Se admitirán pruebas de toda índole y naturaleza, siempre y cuando no vayan en contra de la moral o del derecho, y se deberán recabar de oficio aquellas que puedan ayudar a la aclaración de los hechos materia de la queja.
 
 ###### Artículo 66.
 
 El Visitador General, valorará las pruebas en su conjunto, de conformidad con los principios de lógica, experiencia y legalidad, a fin de que pueda producir convicción sobre los hechos materia de la queja.
 
-### Capítulo I
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-De las obligaciones y colaboración de las autoridades y servidores públicos con la Comisión.
+### Capítulo VII
+
+De la conciliación.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 67.
 
-Cuando en una queja no se contemplen actos u omisiones que impliquen violaciones a los derechos de la vida o a la integridad física, psíquica, y a otras que se consideren especialmente graves por el número de afectados o sus posibles consecuencias, la misma podrá sujetarse a un procedimiento de conciliación con las autoridades señaladas como presuntas responsables.
+La conciliación es el procedimiento por el cual la Comisión en cualquier momento, escuchando las posturas del agraviado y de la autoridad o servidor público presunto responsable, gestiona un acuerdo entre ellos para terminar con el conflicto planteado, siempre que no se trate de violaciones graves a los derechos humanos o que afecten intereses de terceros.
 
-La Comisión deberá formular una propuesta de conciliación que, de manera breve y sencilla, presentará por escrito a la autoridad o servidor público, con el fin de lograr una solución inmediata a la violación. Para este efecto, el Visitador deberá escuchar al quejoso y le hará de su conocimiento este proyecto, aclarándole en qué consiste. Asimismo, lo mantendrá informado del avance del trámite hasta su total conclusión.
-
-La autoridad o servidor público a quien se envíe una propuesta de conciliación, dispondrá de quince días naturales para responderla por escrito y enviar las pruebas que considere pertinentes.
-
-Si durante los quince días siguientes a la aceptación de la propuesta, la autoridad no la hubiere cumplido totalmente, el quejoso lo hará saber a la Comisión para que ésta, en su caso, dentro de las setenta y dos horas hábiles siguientes, contadas a partir de la interposición del escrito del quejoso, se allegue del informe de la autoridad y resuelva sobre la reapertura del expediente, además de determinar las acciones que correspondan.
-
-Cuando la autoridad o servidor público correspondiente no acepte la propuesta formulada por la Comisión, la consecuencia inmediata será que el Visitador General elaborará el proyecto de recomendación que corresponda.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 68.
 
-En cualquier estado del procedimiento, la Comisión procurará la conciliación de las partes que, de lograrse, dará origen a la conclusión del expediente, siempre que la autoridad o servidor público le acrediten, dentro del término de quince días naturales, haber dado cumplimiento a las medidas conciliatorias. Dicho plazo podrá ser ampliado cuando así lo requiera la naturaleza del asunto.
+Se consideran violaciones graves a los derechos humanos los actos u omisiones que impliquen ataques al derecho a la vida o a la integridad física o psíquica de las personas, a la libertad, así como las conductas que se consideren especialmente graves por el número de afectados o sus posibles consecuencias.
+
+Cualquiera que sea la etapa del procedimiento, la Comisión podrá realizar acciones de conciliación con la autoridad o servidor público, con el fin de lograr una solución inmediata a la violación haciendo de su conocimiento en que consiste el procedimiento de conciliación a través de la dirección de Quejas, Orientación y Seguimiento o de las visitadurías.
+
+Asimismo, lo mantendrá informado del avance del trámite hasta su total conclusión.
+
+La autoridad o servidor público que participe en una conciliación dispondrá de quince días naturales a partir de la recepción de la propuesta de la Comisión, para responderla por escrito mediante informe y enviar las pruebas que considere pertinentes.
+
+Si la autoridad o servidor público acepta la conciliación, se concluirá el expediente siempre que acredite, dentro del término de diez días naturales a partir de la recepción de su informe, haber dado cumplimiento a la misma. Dicho plazo podrá ser ampliado cuando así lo requiera la naturaleza del asunto.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 69.
 
-En el caso de que la autoridad o servidor público no cumpla con las medidas conciliatorias acordadas en el plazo establecido, el quejoso lo hará del conocimiento de la Comisión para que ésta reabra el expediente y, de estimarlo pertinente, emita la recomendación.
+Si la autoridad no cumple en los términos pactados, no acepta la propuesta, o si la Comisión las desaprueba, continuará con el trámite de la queja dentro de las setenta y dos horas hábiles siguientes, contadas a partir de que tenga conocimiento de ello, asentando razón de lo ocurrido.
 
-### Capítulo II
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-De las responsabilidades y sanciones.
+### Capítulo VIII
+
+De los acuerdos, peticiones y recomendaciones.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 70.
 
-La Comisión puede dictar acuerdos de trámite y peticiones en el curso de las investigaciones que realice.
+El Presidente, el Director de Quejas, Orientación y Seguimiento y los visitadores generales y adjuntos podrán dictar acuerdos de trámite y peticiones en el curso de las investigaciones que realicen con motivo de las mismas.
 
-Los acuerdos serán obligatorios para los particulares, autoridades y servidores públicos que deban aportar información o documentos y su incumplimiento traerá aparejadas las sanciones y responsabilidades señaladas en el Capítulo II del Título Sexto del presente ordenamiento legal.
+Las peticiones deberán ser atendidas por las autoridades y servidores públicos a los que se solicite aportar información o documentos y su incumplimiento dará lugar a que el Presidente o el Visitador General requiera a la autoridad correspondiente la aplicación de las sanciones respectivas, de acuerdo con lo establecido en la presente ley.
 
-Igualmente, en el caso de que no se comprueben los actos u omisiones que se le imputen al servidor público o autoridad, se dictará acuerdo de no violación a los derechos humanos.
+Cuando se compruebe que no existieron los actos u omisiones imputados al servidor público o autoridad, se dictará acuerdo de no violación de los derechos humanos.
 
 ###### Artículo 71.
 
@@ -833,13 +1163,13 @@ La recomendación no tendrá carácter vinculatorio o imperativo para la autorid
 
 Una vez recibida por la autoridad o servidor público de que se trate, deberá informar, dentro de los diez días siguientes a su notificación, si acepta dicha recomendación. En su caso, deberá acreditar dentro de los quince días siguientes, que ha cumplido con la misma. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 73.
 
-La Comisión, una vez habiendo agotada la etapa de conciliación, deberá elaborar un proyecto de recomendación, en el cual se analizarán los hechos, argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores, han violado o no los derechos humanos de los afectados.
+Una vez agotadas las etapas de integración del expediente de queja, el visitador general deberá elaborar un proyecto de resolución, en el cual se analizarán los hechos, argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores, han violado o no los derechos humanos de los afectados.
 
-Cuando del resultado de las investigaciones exista presunción de la comisión de un delito, la Comisión presentará la denuncia penal correspondiente ante el Ministerio Público.
-
-El proyecto de recomendación o, en su caso, acuerdo de no violación a los derechos humanos, contendrá un capítulo de resultandos, una parte considerativa y concluirá con proposiciones concretas que deberán señalar las medidas que procedan para la efectiva restitución de los derechos fundamentales de los afectados y, en su caso, la reparación de los daños y perjuicios que se hubiesen ocasionado.
+El proyecto de recomendación o, en su caso, el acuerdo de no violación a los derechos humanos, contendrá un capítulo relativo a los antecedentes y hechos; una sección de evidencias, la motivación y fundamentación; y la conclusión que consistirá en las proposiciones concretas que deberán señalar las medidas que procedan para la efectiva restitución de los derechos fundamentales de los afectados, y, en su caso, la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
 Los proyectos antes referidos serán sometidos al Presidente para su consideración, quien estará facultado para hacer las modificaciones y observaciones que estime convenientes y emitirá la resolución final.
 
@@ -847,9 +1177,11 @@ Los proyectos antes referidos serán sometidos al Presidente para su consideraci
 
 El acuerdo de no violación a los derechos humanos tiene como finalidad, deslindar la responsabilidad de aquel servidor público señalado como presunto violador de los derechos humanos en la queja respectiva.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 75.
 
-Las recomendaciones y los acuerdos de no violación a los derechos humanos, se referirán a casos concretos; las autoridades no podrán aplicarlos a otros por analogía o mayoría de razón.
+Las recomendaciones y los acuerdos de no violación a los derechos humanos se referirán a casos concretos; la Comisión no podrá aplicarlos a otros por analogía o por mayoría de razón. Sin embargo, los criterios éticos contenidos en una recomendación deberán ser tomados en cuenta por las autoridades en actuaciones de la misma naturaleza.
 
 ###### Artículo 76.
 
@@ -859,33 +1191,45 @@ La Comisión deberá notificar, fehaciente e inmediatamente a los quejosos, los 
 
 Corresponde a la Comisión comprobar o cerciorarse que se haya cumplido con la recomendación, para lo cual, podrá realizar toda clase de diligencias, pudiendo actuar por moción propia o a petición de parte.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 78.
 
-La Comisión no estará obligada a entregar ninguna de las pruebas o copias certificadas de sus actuaciones a la autoridad o servidor público, a los cuales dirigió alguna recomendación o a algún particular. Si dichas pruebas le son solicitadas, discrecionalmente determinará si son de entregarse o no.
+La Comisión no estará obligada a entregar ninguna de las pruebas o copias certificadas de sus actuaciones a la autoridad o servidor público a los cuales dirigió alguna recomendación o a algún particular. Si dichas pruebas le son solicitadas, el Visitador General o el Director que conozca del caso, discrecionalmente determinará si son de entregarse a (sic) no.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 79.
 
-El Presidente publicará en los medios de comunicación que estime pertinentes, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no violación a los derechos humanos. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados, de conformidad con las circunstancias del caso concreto.
+El Presidente deberá hacer públicas, en su totalidad o en extracto, las recomendaciones y los acuerdos de no violación a los derechos humanos. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados, de conformidad con las circunstancias del caso concreto.
 
 ## Título Cuarto
 
 De los Recursos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ### Capítulo Único
 
-Del patrimonio de la Comisión.
+De los recursos de queja e impugnación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 80.
 
-En caso de desaparición o detención ilegal, cualquier persona o el propio quejoso, cuando lo pueda hacer, podrá interponer ante la Comisión el recurso extraordinario de exhibición de persona en cuyo caso, el Presidente, Secretario Ejecutivo o los visitadores, tendrán facultades para inspeccionar o buscar en las oficinas, separos, centros de detención, de prisión o cualquier otro lugar en donde se presuma que se encuentra ilegalmente detenido el afectado.
+En caso de desaparición o detención ilegal, cualquier persona o el propio quejoso, cuando lo pueda hacer, podrá interponer ante la Comisión el recurso extraordinario de exhibición de persona, en cuyo caso, los visitadores generales o adjuntos, el Director de Quejas, Orientación y Seguimiento y el personal de guardia, tendrán facultades para inspeccionar o buscar en las oficinas, separos, centros de detención, de prisión o cualquier otro lugar en donde se presuma que se encuentra ilegalmente detenido el afectado.
 
 Las autoridades estatales y municipales de dependencias administrativas, de procuración de justicia, de seguridad pública y de vialidad o cualquier otro servidor público que hubiese ordenado una detención presumiblemente ilegal, deberán dar las facilidades correspondientes para que la Comisión pueda garantizar el cese a dichas violaciones.
 
 El recurso de exhibición de persona no prejuzga sobre la responsabilidad penal ni administrativa del detenido.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 81.
 
-El Presidente, Secretario Ejecutivo o visitadores, podrán solicitar a las autoridades administrativas señaladas en el artículo que antecede, le exhiba o presente físicamente a la persona que mantenga privada de su libertad, en cuyo caso, la presunta autoridad responsable deberá justificar la detención de quien se trate y garantizar la preservación de su vida e integridad corporal, así como su salud física y mental.
+Los visitadores generales o adjuntos, el Director de Quejas, Orientación y Seguimiento y los secretarios de guardia, podrán solicitar a las autoridades administrativas señaladas en el artículo que antecede, le exhiba o presente físicamente a la persona que mantenga privada de su libertad, en cuyo caso, la presunta autoridad responsable deberá justificar la detención de quien se trate y garantizar la preservación de su vida e integridad corporal, así como su salud física y mental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 82.
 
@@ -893,15 +1237,21 @@ El recurso de exhibición de persona se podrá hacer valer ante la Comisión en 
 
 La Comisión resolverá de inmediato la procedencia o improcedencia del citado recurso. Su resolución será inatacable.
 
-En caso de que la Comisión resuelva procedente la solicitud del recurso de exhibición de persona, se trasladará al sitio en donde la denuncia afirme que se encuentra detenida ilegalmente una persona, a fin de dar cumplimiento a su resolución. Al efecto, se hará acompañar del solicitante o de quien conozca al detenido, para que, en su caso, pueda certificar la identidad del presentado, así como el estado físico en que se encuentra o bien, de que no se encontraba dicha persona en el lugar descrito.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+En caso de que la Comisión resuelva procedente la solicitud del recurso de exhibición de persona, se trasladará al sitio en donde la denuncia afirme que se encuentra detenida ilegalmente una persona, a fin de dar cumplimiento a su resolución. Al efecto, se hará acompañar del solicitante o de quien conozca al detenido y de un médico, para que, en su caso, pueda certificar la identidad del presentado, así como el estado físico en que se encuentra o bien, de que no se encontraba dicha persona en el lugar descrito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 83.
 
-Si la autoridad responsable exhibiera a la persona agraviada, el Presidente podrá disponer la no incomunicación y la imposibilidad de cambiarla de lugar sin autorización. Asimismo, si no estuviere a disposición del Ministerio Público, o de la autoridad administrativa competente, podrá solicitar que se ponga de inmediato a disposición ésta y si ya estuviere, podrá disponer que ésta resuelva sobre la detención de la persona en los plazos y términos constitucionales, lo anterior en cuanto no interviniere la autoridad federal por medio del juicio de amparo y cuando se trate de casos de extrema urgencia.
+Si la autoridad responsable exhibiera a la persona agraviada, los visitadores generales o el Director de Quejas, Orientación y Seguimiento, así como el personal de guardia podrán disponer la no incomunicación y la imposibilidad de cambiarla de lugar sin autorización. Asimismo, si no estuviere a disposición del Ministerio Público, o de la autoridad administrativa competente, podrá solicitar que se ponga de inmediato a disposición ésta y si ya estuviere, podrá disponer que ésta resuelva sobre la detención de la persona en los plazos y términos constitucionales, lo anterior en cuanto no interviniere la autoridad federal por medio del juicio de amparo y cuando se trate de casos de extrema urgencia.
 
 En su caso, podrá solicitar a la autoridad señalada como responsable, un informe por escrito con relación al recurso promovido, el cual deberá rendirse en un plazo no mayor de cuarenta y ocho horas a partir de que se le haya notificado a dicha autoridad.
 
-El desacato a las resoluciones que emita el Presidente con relación a este recurso, así como los informes falsos o incompletos que rindan las autoridades señaladas como responsables, se sancionará conforme las leyes en la materia.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+El desacato a las resoluciones que emitan los visitadores, el Director de Quejas, Orientación y Seguimiento y los secretarios de guardia con relación a este recurso, así como los informes falsos o incompletos que rindan las autoridades señaladas como responsables, se sancionará conforme las leyes en la materia.
 
 ###### Artículo 84.
 
@@ -911,27 +1261,43 @@ Proceden los recursos de queja e impugnación, en los casos y términos establec
 
 De las autoridades y Servidores Públicos.
 
+### Capítulo I
+
+De las obligaciones y colaboración de las autoridades y servidores públicos con la Comisión.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 85.
 
-Todas las autoridades, dependencias y entidades de los poderes estatales y gobiernos municipales, deberán proporcionar, veraz y oportunamente, la información y documentación que solicite la Comisión. El incumplimiento de esta obligación, faculta para fincar la responsabilidad a que hubiere lugar, de conformidad con las disposiciones contenidas en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos.
+Todas las autoridades, dependencias y entidades de los poderes estatales y gobiernos municipales deberán proporcionar veraz y oportunamente, la información y documentación que solicite la Comisión. El incumplimiento de esta obligación faculta a ésta para solicitar a los superiores jerárquicos o a la Contraloría del Estado, fincar la responsabilidad a que hubiere lugar, de conformidad con las disposiciones contenidas en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 86.
 
 Todas las autoridades y servidores públicos estatales y municipales, incluso aquéllas que no hubieren intervenido en los actos u omisiones materia de la investigación, pero que por razón de sus funciones o actividades puedan proporcionar información, deberán cumplir con los requerimientos que les dirija la Comisión en tal sentido.
 
+### Capítulo II
+
+De las responsabilidades y sanciones.
+
 ###### Artículo 87.
 
 Los servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas ante la Comisión, de conformidad con lo establecido en las disposiciones constitucionales y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 88.
 
-La Comisión podrá solicitar a las autoridades competentes, la imposición de las sanciones administrativas correspondientes a las infracciones en que incurran servidores públicos, bien sea por los actos u omisiones materia de las quejas o por los actos u omisiones que entorpezcan las investigaciones que realice dicha Comisión.
+La Comisión podrá solicitar a las autoridades competentes la imposición de las sanciones administrativas correspondientes a través de los medios y procedimientos legales, por las infracciones en que incurran servidores públicos, bien sea por los actos u omisiones materia de las quejas o por los actos u omisiones que entorpezcan las investigaciones que realice dicha Comisión.
 
 Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir los servidores públicos en el curso de las investigaciones seguidas por la Comisión, se podrá solicitar la amonestación pública o privada, según el caso, al titular de la dependencia de que se trate.
 
 ## Título Sexto
 
 Del Patrimonio.
+
+### Capítulo Único
+
+Del patrimonio de la Comisión.
 
 ###### Artículo 89.
 
@@ -942,6 +1308,10 @@ I. Los bienes muebles o inmuebles que le sean destinados o adquiera para el cump
 II. Los recursos que por otros medios legales pueda obtener; y
 
 III. Los recursos que le asigne el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+En el caso de la fracción II de este artículo, la Comisión deberá informar de dichas percepciones al Congreso del Estado, las cuales podrá aceptar siempre y cuando no comprometan de manera alguna su autonomía y su actuación.
 
 ## TRANSITORIOS
 
@@ -986,3 +1356,11 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 24 DE JUNIO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- En tanto no se lleve a cabo la reforma constitucional para el nombramiento del Presidente de la Comisión Estatal de Derechos Humanos y de los consejeros ciudadanos, se aplicará el procedimiento anterior, debiendo entrar en vigor el procedimiento contenido en el presente decreto al día siguiente de su iniciación de la vigencia de la reforma constitucional.
+
+TERCERO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
