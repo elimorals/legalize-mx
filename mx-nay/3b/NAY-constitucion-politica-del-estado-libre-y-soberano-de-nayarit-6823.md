@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1930-06-15"
+last_updated: "1934-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1934.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -321,9 +321,11 @@ Durante el primer período de sesiones, se ocupará la Legislatura de discutir y
 
 El segundo periodo de sesiones se destinará de toda preferencia, al examen y votación de los presupuestos, a decretar las contribuciones para cubrirlos, y a la revisión de la cuenta anterior que habrá de presentar el Ejecutivo dentro de los primeros treinta días.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1934)</small>
+
 ###### Art. 39.
 
-Ocho días antes de cerrarse las sesiones ordinarias, se nombrará por el Congreso, una Diputación Permanente compuesta de cinco Diputados, de los cuales funcionarán: tres como Propietarios y dos como Suplentes.
+Ocho días antes de cerrarse el periodo de sesiones ordinarias se nombrará por el Honorable Congreso una Diputación Permanente compuesta de tres Ciudadanos Diputados, siendo el primero de los designados Presidente, el segundo Primer Secretario y el tercero Segundo Secretario, pudiendo el Primer Secretario substituir las faltas del Ciudadano Presidente.
 
 ###### Art. 40.
 
@@ -1264,3 +1266,9 @@ Entre tanto se fijan los porcentajes adicionales a que se refiere la presente Le
 ###### ARTICULO SEGUNDO.
 
 Las reformas a este decreto surten sus efectos desde la fecha de su promulgación, y deroga las disposiciones de la Ley de Hacienda Municipal, Leyes Decretos y demás ordenamientos que se opongan al presente decreto, a partir del día en que se fijen los adicionales.
+
+P.O. 14 DE MARZO DE 1934.
+
+Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
