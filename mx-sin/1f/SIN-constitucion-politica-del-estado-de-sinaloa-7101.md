@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2004-08-25"
+last_updated: "2004-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2004.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -587,13 +587,25 @@ XX. Conocer de las imputaciones formuladas mediante juicio político en contra d
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2004)</small>
 
-XXII. Revisar y fiscalizar por medio de la Contaduría Mayor de Hacienda, la documentación comprobatoria y justificativa de los movimientos contables realizados por el Gobierno del Estado y por los Municipios. Para tal efecto, dicha documentación deberá mantenerse en todo momento a disposición del Congreso del Estado. La revisión y fiscalización de dichas cuentas no se limitará a precisar el ingreso y a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables, y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las Tesorerías Municipales.
+XXII. Revisar y fiscalizar, por medio de la Auditoría Superior del Estado, las cuentas públicas del Gobierno del Estado y de los Municipios y la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes, y verificar los resultados de su gestión financiera, la utilización del crédito y el cumplimiento de las metas fijadas en los programas y proyectos de presupuestos de egresos.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+La revisión y fiscalización no se limitará a precisar en la documentación comprobatoria de sus movimientos contables, que sus ingresos y egresos sean los autorizados, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades a quienes les sean imputables, y a efectuarles visitas de inspección cuando menos una vez al año.
 
-XXII BIS. Revisar y fiscalizar el informe que rinda la Contaduría Mayor de Hacienda sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes.
+Si del examen que ésta realice aparecieren discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. El mismo procedimiento se seguirá cuando se revisen las cuentas públicas de organismos autónomos, organismos públicos descentralizados, empresas de participación estatal y municipal; así como las demás personas de derecho público de carácter estatal y municipal;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2004)</small>
+
+XXII Bis. Revisar y fiscalizar el informe que rinda la Auditoría Superior del Estado sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados o de participación estatal o municipal, en los términos previstos en las leyes;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2004)</small>
+
+XXII Bis A. Expedir la ley que regule la organización de la Auditoría Superior del Estado y demás que normen la gestión, control y evaluación de los Poderes del Estado, municipios y sus respectivos entes públicos;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2004)</small>
+
+XXII Bis B. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en términos de la ley;
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2003)</small>
 
@@ -621,7 +633,7 @@ XXIX. Conceder amnistía por delitos políticos, cuyo conocimiento pertenezca a 
 
 XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
-XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la ley.
+XXXI. Habilitar de edad a los menores que reúnan los requisitos exigidos por la ley.
 
 XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en los casos que no haya una ley especial que las determine.
 
@@ -753,25 +765,45 @@ La Diputación Permanente presentará en la primera sesión del período inmedia
 
 Cuando por cualquiera causa no pudiere una Legislatura inaugurar un período de ejercicios en el día que la ley determina, la Diputación Permanente continuará en funciones hasta la definitiva instalación de la Cámara.
 
-#### SECCION V. DE LA CONTADURIA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+#### SECCION V. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2004)</small>
 
 ###### Art. 53.
 
-Para los efectos de la fracción XXII del artículo 43 de esta Constitución, habrá una Contaduría Mayor de Hacienda, bajo la inmediata y exclusiva dependencia del Congreso, a través de una Comisión de Vigilancia, en los términos precisados en la Ley.
+Para dar cumplimiento a sus atribuciones en materia de revisión de cuentas públicas el Congreso del Estado se apoyará en la entidad denominada Auditoría Superior del Estado.
 
-La Contaduría Mayor de Hacienda es el órgano técnico cuya función es la revisión de las cuentas públicas del Gobierno del Estado y de los Municipios. Para tal efecto gozará de plena independencia y autonomía y deberá contar con las áreas, departamentos, equipo profesional y personal suficiente para que cumpla de manera eficaz sus atribuciones; debiendo utilizar para el ejercicio de sus facultades todos los adelantos tecnológicos, profesionales y científicos que se requieran, contando para ello con las partidas presupuestales correspondientes que le asigne el Congreso.
+La Auditoría Superior del Estado es el órgano técnico de fiscalización general en la Entidad, bajo la coordinación del Congreso del Estado, cuya función es la revisión y fiscalización de las cuentas públicas del Gobierno del Estado y de los Municipios y de los informes financieros de los organismos descentralizados o de participación estatal o municipal. Para tal efecto gozará de plena independencia y autonomía técnica y de gestión y deberá contar con las áreas, departamentos, equipo profesional y personal suficiente para que cumpla de manera eficaz sus atribuciones; debiendo utilizar para el ejercicio de sus facultades todos los adelantos tecnológicos, profesionales y científicos que se requieran, contando para ello con las partidas presupuestales correspondientes que le asigne el Congreso del Estado. En el desempeño de sus atribuciones, la legalidad, la objetividad, la imparcialidad y el profesionalismo serán principios rectores.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2004)</small>
 
 ###### Art. 54.
 
-La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa del Congreso, hará la revisión de todas las cuentas públicas que el Gobierno del Estado y los Municipio (sic) presenten a la Cámara; establecerá normas y sistemas de información uniformes y obligatorios para la presentación de las cuentas públicas y resolverá todas las consultas, en el área de su competencia, que le hagan a la misma.
+La Auditoría Superior del Estado hará la revisión y fiscalización de todas las cuentas públicas que el Gobierno del Estado y los Municipios presenten a la Cámara; establecerá normas, procedimientos, métodos y sistemas de información uniformes y obligatorios para la presentación de las cuentas públicas y resolverá todas las consultas, en el área de su competencia, que le hagan a la misma. Una ley especial reglamentará su organización y funciones.
 
-Asimismo hará la revisión de los informes financieros de los organismos públicos descentralizados y de participación estatal o municipal, en los términos que prevengan las leyes.
+En el cumplimiento de sus funciones, fiscalizará en forma simultánea y posterior los ingresos y los egresos, el manejo, la custodia y la aplicación de los fondos y los recursos de los poderes del Estado y municipios y sus entes públicos paraestatales y paramunicipales, así como el cumplimiento de los objetivos contenidos en los planes y programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la ley.
 
-Una ley especial reglamentará la organización y funciones de la Contaduría Mayor de Hacienda.
+Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la ley, podrá requerir a los sujetos de fiscalización la presentación de la documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo.
+
+Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de la responsabilidad que corresponda.
+
+Así mismo entregará el informe final del resultado de la revisión de las cuentas públicas al Congreso del Estado, en los términos previstos en esta Constitución. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados. Dicho informe final tendrá carácter público.
+
+La Auditoría Superior del Estado, deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+También investigará los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos y efectuará visitas domiciliarias, únicamente para exigir la exhibición de libros, base de datos, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en la ley.
+
+Igualmente determinará los daños y perjuicios que afecten a las haciendas públicas estatal y municipal, al patrimonio de las entidades descentralizadas y al de los organismos autónomos del Estado y fincará directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes. Así mismo, promoverá ante las autoridades competentes el fincamiento de otras responsabilidades, promoverá las acciones de responsabilidad a que se refiere el Título VI de esta Constitución, y podrá formular denuncias, querellas o hacer las promociones que las leyes determinen, en cuyos procedimientos tendrá la intervención que señala la ley.
+
+El Titular de la Auditoría Superior del Estado, será nombrado por el Pleno del Congreso, en la forma prevista por la ley. Durará en su encargo siete años y podrá ser nombrado nuevamente para un periodo más, por una sola vez. Podrá ser removido por el Pleno, exclusivamente, por las causas graves que la ley señale, o por las causas y conforme a los procedimientos previstos en el Título VI de esta Constitución.
+
+Para ser titular de la Auditoría Superior del Estado se requiere ser mexicano por nacimiento, en pleno ejercicio de sus derechos; tener al menos treinta y cinco años de edad; haber residido en el Estado de Sinaloa durante los últimos cinco años; gozar de buena reputación y no haber sido condenado por delito doloso; y cumplir los requisitos establecidos en la ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los docentes y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+Los Poderes del Estado, los Municipios y los sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
+
+El Poder Ejecutivo del Estado o el Ayuntamiento en su caso, aplicarán el procedimiento administrativo de ejecución, para el cobro de indemnizaciones y sanciones pecuniarias que se establezcan por la Auditoría Superior del Estado en los términos de la ley.
 
 ### CAPITULO III. DEL PODER EJECUTIVO
 
@@ -3005,329 +3037,35 @@ P.O. 25 DE AGOSTO DE 2004.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Sinaloa".
 
-###### ARTÍCULO CUARTO.
+P.O. 27 DE OCTUBRE DE 2004.
 
-La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, dentro de los noventa días siguientes a la entrada en vigor de la presente reforma, expedirá la ley reglamentaria de la Auditoría Superior del Estado.
+
+###### ARTÍCULO TERCERO.
+
+La revisión de las cuentas públicas y las funciones de fiscalización que se le confieren en el presente decreto, se llevarán a cabo de conformidad con lo que disponga la ley, a partir de la revisión de la cuenta pública correspondiente al año 2004.
+
+La Auditoría Superior del Estado revisará las cuentas públicas del año 2003, conforme a las disposiciones vigentes antes de la entrada en vigor de este decreto.
+
+Las referencias que se hacen de la Contaduría Mayor de Hacienda del Congreso del Estado, en los ordenamientos jurídicos vigentes, se entenderán hechas a la Auditoría Superior del Estado.
+
+###### ARTICULO CUARTO.
+
+En tanto la Auditoría Superior del Estado no se organice debidamente, el ejercicio de las atribuciones a que se refiere este decreto y la ley, las continuará ejerciendo con las atribuciones que actualmente tiene la Contaduría Mayor de Hacienda, conforme a su ley orgánica y demás disposiciones aplicables vigentes hasta antes de la entrada en vigor del presente decreto.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este decreto y de las leyes que en consecuencia se emitan.
+
+Una vez creada la Auditoría Superior del Estado, todos los recursos humanos, materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicha entidad.
 
 ###### ARTÍCULO QUINTO.
 
-El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
-
-G.G. 26 DE OCTUBRE DE 2011.
-
-DECRETO NÚMERO 363 POR EL QUE SE REFORMA EL ARTÍCULO 4 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 9 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
-
-CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
-
-G.G. 20 DE DICIEMBRE DE 2011.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Las autoridades competentes tomarán las medidas necesarias en materia penitenciaria para atender los requerimientos que resulten de la adopción de las penas contempladas en el presente decreto.
-
-G.G. 6 DE ENERO DE 2012.
-
-DECRETO NÚMERO 404, POR EL QUE SE ADICIONA EL CAPÍTULO VII Y LOS ARTÍCULOS 166 BIS Y 166 TER AL SUBTÍTULO TERCERO, TÍTULO PRIMERO, LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 6 DE ENERO DE 2012.
-
-DECRETO NÚMERO 405, POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 Y 253 FRACCIÓN PRIMERA Y SEGUNDO PÁRRAFO, ADICIONANDO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 6 DE ENERO DE 2012.
-
-DECRETO NÚMERO 406, POR EL QUE SE ADICIONA EL CAPITULO XI IRRUPCIÓN DE EVENTO PUBLICO Y EL ARTICULO 268 QUATER, AL SUBTITULO TERCERO, TITULO TERCERO, LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 24 DE ABRIL DE 2012.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno''.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 3 DE MAYO DE 2012.
-
-DECRETO NÚMERO 440, POR EL QUE SE ADICIONAN EL TERCER Y CUARTO PÁRRAFOS, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 268 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 3 DE MAYO DE 2012.
-
-DECRETO NÚMERO 441, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 292 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 9 DE AGOSTO DE 2012.
-
-DECRETO NÚMERO 460 POR EL QUE SE DEROGAN LOS ARTÍCULOS 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285 Y 286 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 9 DE AGOSTO DE 2012.
-
-DECRETO NÚMERO 461 POR EL QUE SE ADICIONA UN ARTÍCULO 136 BIS AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 10 DE AGOSTO DE 2012.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 24 DE AGOSTO DE 2012.
-
-DECRETO No. 490, POR EL QUE SE REFORMA EL ARTÍCULO 38 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
-
-CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
-
-QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
-
-SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
-
-SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
-
-OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
-
-NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
-
-G.G. 24 DE AGOSTO DE 2012.
-
-DECRETO No. 499, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV Y EL ARTÍCULO 211 DEL SUBTÍTULO CUARTO, TÍTULO SEGUNDO, LIBRO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN Y NUMERACIÓN EL ACTUAL CAPÍTULO Y ARTÍCULO PARA SER CAPÍTULO V Y ARTÍCULO 211 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 31 DE AGOSTO DE 2012.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, dispondrán lo necesario para que los agentes de tránsito sean mujeres.
-
-CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
-
-QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
-
-SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-G.G. 21 DE FEBRERO DE 2013.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-G.G. 22 DE FEBRERO DE 2013.
-
-DECRETO NÚMERO 53, POR EL QUE SE REFORMA EL ARTÍCULO 204 EN SU FRACCIÓN I; Y SE ADICIONA EL ARTÍCULO 136 TER, EL CAPÍTULO XIX DENOMINADO VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS, AL SUBTITULO SEGUNDO INTITULADO DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA, DEL TÍTULO PRIMERO DENOMINADO DELITOS CONTRA EL ESTADO, DEL LIBRO SEGUNDO, EL ARTÍCULO 148 BIS Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
-
-CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril de 2013, en el cual, autorizarán el horario de funcionamiento en los términos de este Decreto, únicamente por lo que corresponde a este año, ya que los subsecuentes años deberá de hacerse dentro de los primeros tres meses.
-
-QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y ll del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
-
-SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
-
-G.G. 22 DE FEBRERO DE 2013.
-
-DECRETO NÚMERO 55, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 166 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 25 DE FEBRERO DE 2013.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
-
-G.G. 3 DE MAYO DE 2013.
-
-PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Decreto.
-
-G.G. 17 DE JULIO DE 2013.
-
-DECRETO NÚMERO 108, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 229 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 17 DE JULIO DE 2013.
-
-DECRETO NÚMERO 110, POR EL QUE SE ADICIONA EL CAPÍTULO XX DENOMINADO "IMPARTICIÓN ILÍCITA DE EDUCACIÓN" AL LIBRO SEGUNDO, TÍTULO PRIMERO DE LOS DELITOS CONTRA EL ESTADO, SUBTÍTULO SEGUNDO INTITULADO DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA, EL ARTÍCULO 148 TER Y AL ARTÍCULO 176 UNA FRACCIÓN IV AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 18 DE JULIO DE 2013.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor a los treinta días naturales, siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 20 DE AGOSTO DE 2013.
-
-DECRETO NÚMERO 124 POR LO QUE SE REFORMAN LOS ARTÍCULOS 69 EN SU PÁRRAFO PRIMERO Y 289 EN SUS FRACCIONES I, II, III, IV Y V DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 20 DE AGOSTO DE 2013.
-
-DECRETO NÚMERO 125 POR LO QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 242; EL ARTÍCULO 266; EL PÁRRAFO PRIMERO DEL ARTÍCULO 273; LA FRACCIÓN I DEL ARTÍCULO 274 Y LA FRACCIÓN IV DEL ARTÍCULO 290. SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 242 Y UNA FRACCIÓN V AL ARTÍCULO 245, TODOS DEL CÓDIGO PENAL DE ESTADO DE MÉXICO.
-
-Primero.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 20 DE AGOSTO DE 2013.
-
-DECRETO NÚMERO 126 POR LO QUE SE REFORMAN EL ARTÍCULO 152, EL PÁRRAFO CUARTO DEL ARTÍCULO 292 Y SE DEROGAN EL PÁRRAFO QUINTO DEL ARTÍCULO 292 Y LA FRACCIÓN IV DEL ARTÍCULO 293 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- A las conductas realizadas con anterioridad al presente Decreto se aplicarán las disposiciones que en su momento estaban en vigor.
-
-CUARTO.- El Ejecutivo del Estado, a través del Centro de Prevención del Delito, dará la más amplia difusión posible a lo contenido en el presente Decreto.
-
-G.G. 12 DE NOVIEMBRE DE 2013.
-
-DECRETO NÚMERO 155 POR LO QUE SE DEROGAN EL CAPÍTULO IX Y SU DENOMINACIÓN, DEL SUBTÍTULO QUINTO, DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 222 Y 223 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 12 DE NOVIEMBRE DE 2013.
-
-DECRETO NÚMERO 158 POR LO QUE SE ADICIONAN EL CAPÍTULO XV BIS DENOMINADO DE LOS DELITOS CONTRA EL SERVICIO PÚBLICO Y DISTRIBUCIÓN DEL AGUA, AL SUBTÍTULO SEGUNDO DEL TÍTULO PRIMERO DEL LIBRO SEGUNDO CON LOS ARTÍCULOS 145 BIS, 145 TER, 145 QUATER Y 145 QUINQUIES AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
-
-TERCERO.- Las autoridades en materia de agua, entregarán conjuntamente con el permiso, la tarifa autorizada para el año correspondiente a los permisionarios.
-
-CUARTO.- Dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades en materia de agua entregarán a los permisionarios de distribución de agua las tarifas autorizadas por el resto del año 2013, para ser exhibidas al consumidor en el camión cisterna.
-
-QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa de su competencia, proveerán lo necesario para el debido cumplimiento del presente Decreto.
-
-SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
-
-SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
-
-G.G. 10 DE DICIEMBRE DE 2013.
-
-PRIMERO. Publíquese la (sic) presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. Las instituciones estatales y municipales encargadas de brindar atención a las emergencias difundirán, ampliamente, el contenido del presente Decreto a efecto de fomentar el uso responsable de la ciudadanía en la atención a las contingencias que generan emergencias e inhibir el abuso de dichos medios.
-
-CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-G.G. 22 DE ENERO DE 2014.
-
-DECRETO NO. 185 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 70 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 22 DE ENERO DE 2014.
-
-DECRETO NO. 186 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 Y SE ADICIONA EL ARTÍCULO 137 BIS, AMBOS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
-
-CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-G.G. 22 DE ENERO DE 2014.
-
-DECRETO NO. 196 POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 EN SU PRIMER PÁRRAFO, 30, 136 EN SU ÚLTIMO PÁRRAFO, 240 EN SU INCISO A), 242 BIS, 274 EN SU FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 136, EL CAPÍTULO II BIS DENOMINADO FEMINICIDIO, AL SUBTÍTULO PRIMERO DEL TÍTULO TERCERO DEL LIBRO SEGUNDO, LA FRACCIÓN VII AL ARTÍCULO 274 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 24 DE ENERO DE 2014.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 14 DE MAYO DE 2014.
-
-DECRETO NÚMERO 219, POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 254 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
-
-CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
-
-G.G. 14 DE MAYO DE 2014.
-
-DECRETO NÚMERO 220, POR EL QUE SE REFORMA EL ARTÍCULO 30 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+La Auditoría Superior del Estado, expedirá su Reglamento Interior en un período no mayor de noventa días a partir de su constitución.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
