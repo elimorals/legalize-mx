@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "1996-08-31"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -87,7 +87,7 @@ II.- La adquisición de bienes o contratación de obras o servicios con el cará
 
 III.- Pasivos contingentes, según sea el caso, relacionados con las fracciones I y II del presente Artículo; y
 
-IV.- Todas la operaciones de endeudamiento que impliquen obligaciones a plazo, así como las de naturaleza contingente derivadas de actos jurídicos independientemente de la forma en que se les documente.
+IV.- Todas las operaciones de endeudamiento que impliquen obligaciones a plazo, así como las de naturaleza contingente derivadas de actos jurídicos independientemente de la forma en que se les documente.
 
 ###### Artículo 5.
 
@@ -167,7 +167,7 @@ I.- Concertar y contratar los financiamientos y demás operaciones financieras p
 
 II.- Formular el capítulo de endeudamiento en el proyecto de Ley de Ingresos del Estado y presentarlo para su autorización al Titular del Ejecutivo a más tardar el 1o. de diciembre de cada año;
 
-III.- Formular el capitulo de deuda pública que se incluirá en el Presupuesto Anual de Egresos del Estado;
+III.- Formular el capítulo de deuda pública que se incluirá en el Presupuesto Anual de Egresos del Estado;
 
 IV.- Celebrar los convenios y suscribir los documentos o títulos de crédito necesarios para formalizar las operaciones de reestructuración de los financiamientos adquiridos directa, indirecta o contingentemente;
 
@@ -229,7 +229,7 @@ El Ejecutivo del Estado a través de la Secretaría de Finanzas, los Municipios,
 
 ###### Artículo 14.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas y los Municipios, a través de su Unidad Administrativa representativa, en cumplimiento a los dispuesto por el Artículo 117, Fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, sólo podrán emitir valores, bonos u otros títulos de deuda, pagaderos en moneda nacional y dentro del territorio nacional, previa autorización de la Legislatura del Estado. En los contratos, valores, bonos o títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta, a extranjeros. Sin estos requisitos, los documentos citados no tendrán validez.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas y los Municipios, a través de su Unidad Administrativa representativa, en cumplimiento a lo dispuesto por el Artículo 117, Fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, sólo podrán emitir valores, bonos u otros títulos de deuda, pagaderos en moneda nacional y dentro del territorio nacional, previa autorización de la Legislatura del Estado. En los contratos, valores, bonos o títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta, a extranjeros. Sin estos requisitos, los documentos citados no tendrán validez.
 
 ###### Artículo 15.
 
@@ -315,9 +315,11 @@ n).- Cualquier otro documento o información complementaria del financiamiento.
 
 Las operaciones de deuda pública autorizadas a que se refiere esta Ley, sólo se podrán modificar siempre y cuando, no excedan el monto aprobado por la Legislatura y se cumpla con los requisitos y formalidades del Registro Único de Obligaciones y Financiamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 21.
 
-Los recursos obtenidos de operaciones de deuda pública, deberán aplicarse concretamente al fin propuesto, salvo que se requiera satisfacer otras necesidades emergentes que, por su gravedad, afecten a la población en el Estado. En estos casos, los entes públicos que se vean obligados a distraer dichos recursos, deberán informar lo conducente a la Secretaría de Finanzas, quien, con la Contraloría General del Estado, otorgarán la autorización respectiva; dependencias que a su vez, justificarán la aplicación y destino de los recursos ante la Legislatura del Estado.
+Los recursos obtenidos de operaciones de deuda pública, deberán aplicarse concretamente al fin propuesto, salvo que se requiera satisfacer otras necesidades emergentes que, por su gravedad, afecten a la población en el Estado. En estos casos, los entes públicos que se vean obligados a distraer dichos recursos, deberán informar lo conducente a la Secretaría de Finanzas, quien, con la Secretaría de la Contraloría del Estado, otorgarán la autorización respectiva, dependencias que a su vez justificarán la aplicación y destino de los recursos ante la Legislatura del Estado.
 
 La desviación de los recursos crediticios obtenidos, sin la respectiva justificación y autorización, se sancionará de conformidad con las Leyes que resulten aplicables al caso concreto.
 
@@ -333,7 +335,7 @@ El Ejecutivo del Estado a través de la Secretaría de Finanzas, los Municipios 
 
 ###### Artículo 24.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los Municipios a través de la Unidad Administrativa representativa, podrán afectar en garantía las participaciones que en ingresos federales les correspondan, así como aquellos bienes del dominio privado de su propiedad, siempre y cuando se cumplan lo requisitos que señala la presente Ley y demás disposiciones aplicables. Asimismo, deberán inscribir dichas obligaciones en el Registro Único de Obligaciones y Financiamientos de la Secretaría de Finanzas.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los Municipios a través de la Unidad Administrativa representativa, podrán afectar en garantía las participaciones que en ingresos federales les correspondan, así como aquellos bienes del dominio privado de su propiedad, siempre y cuando se cumplan los requisitos que señala la presente Ley y demás disposiciones aplicables. Asimismo, deberán inscribir dichas obligaciones en el Registro Único de Obligaciones y Financiamientos de la Secretaría de Finanzas.
 
 ###### Artículo 25.
 
@@ -419,7 +421,7 @@ LUISA CORTES CARRILLO.
 
 DIPUTADA SECRETARIA.
 
-Por tanto, mando que se imprima, públique (sic), circule y se le dé el debido cumplimiento.
+Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Oaxaca de Juárez, a 25 de junio de 1996.
 
@@ -444,3 +446,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
