@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-del-estado-de-jalisco-38881"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-07"
-last_updated: "2004-02-07"
+last_updated: "2005-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1323,7 +1323,9 @@ Los sobres de las proposiciones deben entregarse en el lugar y dentro del plazo 
 
 Los licitantes deben firmar todos los documentos de sus proposiciones. En caso de ser enviadas a través de medios remotos de comunicación electrónica, debe emplearse medios de identificación electrónica, los cuales producen los mismos efectos que los documentos correspondientes y tienen el mismo valor probatorio.
 
-La propuesta técnica debe firmarse por un ingeniero civil o arquitecto con cédula legalmente expedida o su representante legal.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2005)</small>
+
+La propuesta técnica debe firmarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obras de infraestructura, servicios y equipamiento, con cédula legalmente expedida o su representante legal.
 
 ###### Artículo 146.
 
@@ -2358,3 +2360,9 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 10 DE MARZO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
