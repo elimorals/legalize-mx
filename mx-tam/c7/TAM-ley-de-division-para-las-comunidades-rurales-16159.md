@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-division-para-las-comunidades-rurales-16159"
 country: "mx"
 rank: "ley"
 publication_date: "1930-05-31"
-last_updated: "1930-05-31"
+last_updated: "1944-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DIVISION PARA LAS COMUNIDADES RURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1944.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 31 de mayo de 1930.
 
@@ -59,13 +59,15 @@ Si al estarse practicando las operaciones a que se refiere el artículo 2o. un t
 
 Transcurrido el plazo de que habla el artículo 2o. sin que haya habido acuerdo entre los comuneros, cualquiera de ellos puede ocurrir a la Autoridad Judicial para que ésta de acuerdo con la presente Ley, verifique el apeo, división y planificación del inmueble. A este efecto, se concede el plazo improrrogable de un mes para hacer la solicitud a la autoridad Judicial.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1944)</small>
+
 ###### Art. 6o.
 
-Transcurridos los plazos señalados en el artículo 2° y el anterior, sin que se haya practicado el apeo, planificación y división de las tierras de comunidad, por este solo hecho se duplicarán las contribuciones señaladas en la Ley de Hacienda vigente, mientras permanezca indivisa la propiedad. En este caso el Estado mandará hacer la subdivisión con cargo a los comuneros, por conducto de su Representante, previos los informes que tome en cada caso. El cobro del importe de dichos trabajos lo hará efectivo el Estado por conducto de sus Colecturías, cuyas oficinas lo cargarán en los recibos que trimestralmente extienden por pago de contribuciones, en la forma siguiente: Los que adeuden una suma hasta de cien pesos, pagarán en el término de un año; entre cien y quinientos, en el término de dos años; y desde mil en adelante, en tres años.
+Transcurridos los plazos señalados en el artículo 2o. y el anterior, sin que se haya practicado el apeo, planificación y división de las tierras de comunidad, por este solo hecho se duplicarán las contribuciones señaladas en la Ley de Hacienda vigente, mientras permanezca indivisa la propiedad. En este caso el Estado mandará hacer la subdivisión con cargo a los comuneros, por conducto de su representante, previos los informes que tome en cada caso. El cobro del importe de dichos trabajos lo hará efectivo el Estado por conducto de sus Oficinas Fiscales en el plazo máximo de un año, distribuyéndose proporcionalmente en seis bimestres que se hará efectivo simultáneamente con las contribuciones prediales correspondientes cuando los beneficiarios con la subdivisión comprueben su insolvencia económica y, en caso contrario, inmediatamente, a juicio del Ejecutivo.
 
 ###### Art. 7o.
 
-El Ejecutivo nombrará su Representante de que habla el artículo 2o. para que intervenga en la división de comunidades en los términos en dicho artículo expresados; para que si los comuneros no activan los trabajos de subdivisión, puede dicho Representante continuarlos; y para que si los comuneros en uso de la facultad que les otorga el artículo 6o. no solicitan el apeo, planificación y fraccionamiento de los terrenos, pueda el citado Representante promover dicho juicio ante el respectivo Juez de Primer Instancia, y continuarlo hasta su legal expiración.
+El Ejecutivo nombrará su Representante de que habla el artículo 2o. para que intervenga en la división de comunidades en los términos en dicho artículo expresados; para que si los comuneros no activan los trabajos de subdivisión, puede dicho Representante continuarlos; y para que si los comuneros en uso de la facultad que les otorgue el artículo 6o. no solicitan el apeo, planificación y fraccionamiento de los terrenos, pueda el citado Representante promover dicho juicio ante el respectivo Juez de Primer Instancia, y continuarlo hasta su legal expiración.
 
 Además de las facultades que la presente Ley otorga al Representante del Ejecutivo, podrá este recabar de los propietarios o cooposedores, para la debida formación de los árboles genealógicos, los títulos escritos que amparen derechos en el predio que pretende subdividirse, señalándoles para su presentación el plazo de diez días, apremiando por los medios legales al interesado o interesados que se rehusaren a cumplir con tal determinación.
 
@@ -79,13 +81,13 @@ Las comunidades que para la fecha hayan practicado el apeo y planificado sus ter
 
 Desde la fecha de la promulgación de esta Ley, ninguna persona podrá acotar terrenos, levantar construcciones o mejorar, establecer nuevas posesiones, ensanchar las existentes, ni introducir ninguna innovación que de cualquiera manera altere el estado actual de las tierras de comunidad. Toda posesión de esta clase será nula y de ningún valor ni efectos legales.
 
-La infracción de este precepto produce acción popular la que se ejercitara por escrito ante los Presidentes Municipales, quienes tienen obligación de obrar de acuerdo con lo que dispone el Artículo 1,196 del Código de Procedimientos Civiles.
+La infracción de este precepto produce acción popular la que se ejercitara por escrito ante los Presidentes Municipales, quienes tienen obligación de obrar de acuerdo con lo que dispone el Artículo 1, 196 del Código de Procedimientos Civiles.
 
 ### CAPITULO II. Del Apeo
 
 ###### Art. 10.
 
-Son competentes para conocer de las solicitudes de apeo o deslinde a que diere lugar la aplicación de esta Ley, los Jueces de Primera Instancia de la jurisdicción del predio que motiva la solicitud. En los lugares donde no hubiere Jueces de Instancia, los Jueces Menores o de Paz practicarán todas las diligencias de apeo, hecho lo cual remitirán el expediente al Juez de Primera Instancia de su Distrito Judicial para que este dicte la sentencia correspondiente.
+Son competentes para conocer de las solicitudes de apeo o deslinde a que diera lugar la aplicación de esta Ley, los Jueces de Primera Instancia de la jurisdicción del predio que motiva la solicitud. En los lugares donde no hubiere Jueces de Instancia, los Jueces Menores o de Paz practicarán todas las diligencias de apeo, hecho lo cual remitirán el expediente al Juez de Primera Instancia de su Distrito Judicial para que este dicte la sentencia correspondiente.
 
 ###### Art. 11.
 
@@ -101,7 +103,7 @@ Las demás partes que legalmente intervenga eo (sic) en apeo, nombrarán tambié
 
 ###### Art. 14.
 
-En ningún caso se suspenderán las diligencias de apeo. Los Jueces se limitarán a hacer constar las peticiones de las partes, y los peritos al levantar la planificación, señalarán con toda precisión el terreno en disputa.
+En ningún caso se suspenderán las diligencias de apeo. Los jueces se limitarán a hacer constar las peticiones de las partes, y los peritos al levantar la planificación, señalarán con toda precisión el terreno en disputa.
 
 ###### Art. 15.
 
@@ -109,11 +111,11 @@ Los Jueces de Primera Instancia aprobarán el apeo practicado en todos los casos
 
 ###### Art. 16.
 
-En caso de que los interesados en un apeo, no nombren sus peritos, el Juez deberá nombrarlos de oficio. Los juicios de apeo, una vez iniciados se seguirán de oficio o a petición del Ejecutivo del Estado por medio de su representante, hasta su legal expiración. Los Jueces cuidaran de que no queden paralizados dichos juicios, proveyendo al efecto lo que corresponda y continuándolo hasta su finalidad hasta aprobar el apeo; apremiando a las partes por medios legales, a cumplir con sus determinaciones.
+En caso de que los interesados en un apeo, no nombren sus peritos, el Juez deberá nombrarlos de oficio. Los juicios de apeo, una vez iniciados se seguirán de oficio o a petición del Ejecutivo del Estado por medio de su representante, hasta su legal expiración. Los Jueces cuidaran de que no queden paralizados dichos juicios, proveyendo al efecto lo que corresponda y continuándola hasta su finalidad hasta aprobar el apeo; apremiando a las partes por medios legales, a cumplir con sus determinaciones.
 
 ###### Art. 17.
 
-Aprobado al apeo, los Jueces remitirán una copia íntegra del juicio, autorizada con su firma y la del Secretario, a la Secretaría General de Gobierno. Para este fin, los peritos presentarán sus planos por duplicado. Iguales copias pueden expedirse por los Jueces a los interesados que lo soliciten.
+Aprobado al apeo, los Jueces remitirán una copia íntegra del juicio, autorizada con su firma y la del Secretario, a la Secretaría General de Gobierno. Para su fin, los peritos presentarán sus planos por duplicado. Iguales copias pueden expedirse por los Jueces a los interesados que lo soliciten.
 
 ###### Art. 18.
 
@@ -127,11 +129,11 @@ Si durante el plazo señalado en el Artículo 2o. de esta Ley, ningún comunero 
 
 ###### Art. 20.
 
-Son competentes para conocer de la división de las comunidades en el Estado, los Jueces de Primera Instancia y los Menores y de Paz en la extensión que les demarca el artículo 10 de la presente Ley.
+Son competentes para conocer de la división de las comunidades en el Estado, los Jueces de Primera Instancia y los Menores y de Paz en la extensión que les demarca el artículo 1o. de la presente Ley.
 
 ###### Art. 21.
 
-Los coopropietarios o cooposedores de una comunidad, que funden sus derechos en títulos escritos, deberán ocurrir al Juez respectivo solicitando la división de la Comunidad. En caso de acuerdo de los coopropietarios el Juez no practicará otra diligencia que sancionarlo y mandará levantar los planos respectivos, a cuyo efecto concederá el plazo de un mes para su presentación, a las partes; transcurrido el cual los mandará levantar de oficio, a costa de los interesados, quienes cubrirán su costo en la forma determinada por el artículo 6o. de esta Ley.
+Los coopropietarios o cooposedores de una comunidad, que funden sus derechos en títulos escritos deberán ocurrir al Juez respectivo solicitando la división de la Comunidad. En caso de acuerdo de los coopropietarios el Juez no practicará otra diligencia que sancionarlo y mandará levantar los planos respectivos, a cuyo efecto concederá el plazo de un mes para su presentación, a las partes; transcurrido el cual los mandará levantar de oficio, a costa de los interesados, quienes cubrirán su costo en la forma determinada por el artículo 6o. de esta Ley.
 
 ###### Art. 22.
 
@@ -143,7 +145,7 @@ En todo caso la propiedad de las mejores o construcciones habidas en los terreno
 
 ###### Art. 24.
 
-Cuando los coopropietarios o cooposedores no tengan titulo escrito que acredite sus derechos, y éstos sean reconocidos por los demás coopropietarios en el predio que pretende subdividirse, en el terreno convencional, no necesitara de ninguna información. Si el fraccionamiento del predio pretende hacerse judicialmente, entonces todos los coopropietarios y cooposedores que no tengan titulo escrito, promoverán ante el propio Juez una simple información para acreditar; ya sus derechos hereditarios, o ya su posesión.
+Cuando los coopropietarios o cooposedores no tengan titulo escrito que acredite sus derechos, y éstos sean reconocidos por los demás coopropietarios en el predio que pretende subdividirse, en el terreno convencional, no necesitara, de ninguna información. Si el fraccionamiento del predio pretende hacerse judicialmente, entonces todos los coopropietarios y cooposedores que no tengan titulo escrito, promoverán ante el propio Juez una simple información para acreditar; ya sus derechos hereditarios, o ya su posesión.
 
 ###### Art. 25.
 
@@ -155,11 +157,11 @@ En las resoluciones de los Jueces en materia de división no cabe más recurso q
 
 ###### Art. 27.
 
-Todos los expedientes que tramiten y terminen los Jueces serán remitidos a la Secretaría de Gobierno, a fin de que el Ejecutivo con vista de ellos pueda expedir los títulos correspondientes.
+Todos los expedientes que tramiten y terminen los Jueces serán remitidos a la Secretaría de Gobierno a fin de que el Ejecutivo con vista de ellos pueda expedir los títulos correspondientes.
 
 ###### Art. 28.
 
-En los casos en que terminado el apeo de una comunidad por los interesados, o por el Estado por conducto de su Representante, no concurriere ningún interesado ante el Juez a solicitar la división de la comunidad, dicho Juez o el Representante del Ejecutivo recabarán de oficio los datos respectivos del Registro Público de la Propiedad y de las Colecturías de Rentas y convocarán por medio de un edicto que deberá publicarse por tres veces consecutivas en el Periódico Oficial del Estado, para que se presenten a ejercitar sus derecho (sic), concediéndoles para tal fin el plazo de treinta días a contar de la fecha de la publicación del último edicto. Presentados los propietarios o poseedores se obrará de acuerdo con lo dispuesto en el presente Capítulo, (sic) Si no hubiere quien se presentare, el terreno se reputara vacante.
+En los casos en que terminado el apeo de una comunidad por los interesados, o por el Estado por conducto de su Representante, no concurriere ningún interesado ante el juez a solicitar la división de la comunidad, dicho Juez o el Representante del Ejecutivo recabarán de oficio los datos respectivos del Registro Público de la Propiedad y de las Colecturías de Rentas y convocarán por medio de un edicto que deberá publicarse por tres veces consecutivas en el Periódico Oficial del Estado, para que se presenten a ejercitar sus derecho (sic) concediéndoles para tal fin el plazo de treinta días a contar de la fecha de la publicación del último edicto. Presentados los propietarios o poseedores se obrará de acuerdo con lo dispuesto en el presente Capítulo, Si no hubiere quien se presentare, el terreno se reputara vacante.
 
 ###### Art. 29.
 
@@ -173,7 +175,7 @@ Las tierras adjudicadas en propiedad conforme a esta Ley, seguirán sufriendo la
 
 ###### Art. 31.
 
-Los gravámenes reales que afecten las tierras de que trata la presente Ley, seguirán afectándolas en lo que corresponda en propiedad al deudor.
+Los gravámenes reales que afecten las tierras de que trata la presente Ley seguirán afectándolas en lo que corresponda en propiedad al deudor.
 
 ###### Art. 32.
 
@@ -199,15 +201,15 @@ Para la debida aplicación de esta Ley, los Ingenieros encargados del deslinde, 
 
 ###### Art. 1.
 
-Quedan derogadas todas las disposiciones anteriores que se opongan a la presente ley.
+Quedan derogadas las disposiciones anteriores que se opongan a esta ley
 
 ###### Art. 2.
 
-Queda a juicio del Ejecutivo: Establecer la Sección Especial dependiente de la Secretaría General de Gobierno, con el personal necesario para los efectos de la presente Ley, y nombrar su Representante y establecer las oficinas de su Representación, con el personal suficiente para lo que concierne a las funciones que le competen de acuerdo a la presente Ley.
+Queda a juicio del Ejecutivo: Establecer la Sección Especial Dependiente de la Secretaría General de Gobierno, con el personal necesario para los efectos de la presente Ley, y nombrar su Representante y establecer las oficinas de su Representación, con el personal suficiente para lo que concierne a las funciones que le competen de acuerdo a la presente Ley.
 
 ###### Art. 3.
 
-El plazo de que habla en artículo 2º. de la presente Ley, podrá ser ampliado por el Ejecutivo en los casos que lo estime necesario.
+El plazo de que habla en artículo 2º. De la presente Ley, podrá ser ampliado por el Ejecutivo en los casos que lo estime necesario.
 
 ###### Art. 4.
 
@@ -215,8 +217,14 @@ Queda facultado el Ejecutivo para formular y expedir el Reglamento de la present
 
 Salón de Sesiones de H. Congreso del Estado.
 
-C. Victoria, Tamps., a 30 de abril de 1930.- Diputado Presidente Sup., Amado González Palacios.- Diputado Secretario, Francisco Garza.- Diputado Secretario, José R. Puente.- Rúbricas.
+C. Victoria, Tamps., a 30 de abril de 1930.- Diputado Presidente Sup., Amado González Palacio.- Diputado Secretario, Francisco Garza.- Diputado Secretario, José R. Puente.- Rúbricas.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento:
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dieciséis días del mes de mayo de mil novecientos treinta.- LIC. FRANCISCO CASTELLANOS, Jr.- El Srio. Gral. de Gobierno, LIC. ZEFERINO FAJARDO.- Rúbricas.
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dieciséis días del mes de mayo de mil novecientos treinta.- LIC. FRANCISCO CASTELLANOS. Jr.- El Srio. Gral. de Gobierno, LIC. ZEFERINO FAJARDO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE OCTUBRE DE 1944
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
