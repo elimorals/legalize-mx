@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1997-01-03"
+last_updated: "1998-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1998.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -13811,9 +13811,11 @@ También pueden darse en prenda los frutos pendientes de los bienes raíces que 
 
 El que dé los frutos en prenda se considerará como depositario de ellos, salvo convenio en contrario.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 2730.
 
-Para que se tenga por constituída la prenda, deberá ser entregada al acreedor, real o jurídicamente.
+Para que se tenga por constituida la prenda, el deudor deberá previamente acreditar la propiedad de la cosa, cuando por su naturaleza contenga datos propios que la identifiquen, o el derecho que tiene para disponer de la misma, con documentos idóneos; y entregarla real o jurídicamente al acreedor, según se estipule o por disposición de la Ley.
 
 ###### ARTICULO 2731.
 
@@ -13881,7 +13883,15 @@ El acreedor está obligado:
 
 I.- A conservar la cosa empeñada como si fuera propia, y a responder de los deterioros y perjuicios que sufra por su culpa o negligencia;
 
-II.- A restituir la prenda luego que estén pagados íntegramente la deuda, sus intereses y los gastos de conservación de la cosa, si se han estipulado los primeros y hecho los segundos.
+II.- A restituir la prenda luego que estén pagados íntegramente la deuda, sus intereses y los gastos de conservación de la cosa, si se han estipulado los primeros y hecho los segundos;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+
+III.- A constatar la legítima propiedad de la cosa, cuando por su naturaleza contenga datos propios que la identifiquen, o el derecho que tiene para disponer de la misma, con documentos idóneos;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- A verificar la identidad y el domicilio del deudor mediante documento idóneo, y asimismo, asentar los datos de la identificación respectiva.
 
 ###### ARTICULO 2744.
 
@@ -15076,3 +15086,9 @@ Las disposiciones de este Decreto regirán los efectos jurídicos de los actos a
 ###### ARTICULO TERCERO.
 
 El presente Decreto deroga cualquier disposición legal que se oponga y contravenga al contenido del mismo.
+
+P.O. 25 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas a los Códigos Penal y Civil, ambos para el Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
