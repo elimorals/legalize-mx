@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-02-15"
+last_updated: "2003-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -611,9 +611,11 @@ XL.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 29.
 
-El Presidente Municipal tendrá las siguientes facultades y obligaciones:
+El presidente Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
@@ -631,7 +633,9 @@ VII.- Tomar la protesta legal, a los funcionarios municipales que conforme a la 
 
 "¿protesta usted desempeñar con eficiencia, lealtad y patriotismo, el cargo de . . . que en este acto le confiero, cumpliendo para ello todas las disposiciones legales que nos rigen, si así no lo hiciera, que el estado y el municipio os lo demanden";
 
-VIII.- Conceder licencias por causa justificada y con goce de sueldo, a los funcionarios y empleados al servicio del Municipio, hasta por el término de diez días; y sin goce de sueldo hasta por treinta días;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+
+VIII.- Conceder licencias por causa justificada y con goce de sueldo por una vez al año, a los funcionarios y empleados al servicio del municipio, hasta por diez días hábiles y sin goce de sueldo, por una vez al año, hasta por sesenta días, pudiendo el mismo servidor gozar de las dos licencias;
 
 IX.- Con respeto de la garantía de audiencia, imponer a los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
 
@@ -2329,9 +2333,9 @@ XII.- La permuta, en cuyo caso, se considerará que se efectúan dos adquisicion
 
 Será base gravable del impuesto, lo que resulte mayor de:
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
 
-I.- El valor del inmueble cuyo dominio se adquiera y se determine por medio del avalúo que practique la Tesorería Municipal o avalúo bancario en base al valor físico del inmueble. El avalúo que se considerará para determinar la base del impuesto, no deberá tener en ningún caso, una antigüedad de un año entre la fecha en que se practique y la fecha en que se realice el entero del impuesto;
+I.- El valor del inmueble cuyo dominio se adquiera y se determine por medio del avalúo que practique la Tesorería Municipal, una institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones, en base al valor físico del inmueble. El avalúo que se considerará para determinar la base del impuesto, no deberá tener en ningún caso, una antigüedad de un año entre la fecha en que se practique y la fecha en que se realice el entero del impuesto;
 
 II.- El valor catastral; y
 
@@ -3213,9 +3217,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Corareachi, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
-P.O. 20 DE JULIO DE 2002.
-
-REPUBLICADO, P.O. 31 DE JULIO DE 2002.
+P.O. 20 DE JULIO DE 2002 (REPUBLICADO, P.O. 31 DE JULIO DE 2002).
 
 DECRETO No. 315 /02 II P.O.
 
@@ -3276,3 +3278,23 @@ P.O. 15 DE FEBRERO DE 2003.
 PRIMERO.- Los Procedimientos en trámite relativos a la desafectación de bienes, se sujetarán a las disposiciones legales vigentes.
 
 SEGUNDO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2003.
+
+DECRETO No. 573/02 I. P.O.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
+
+P.O. 8 DE MARZO DE 2003.
+
+DECRETO No. 606/03 VI P.E.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
