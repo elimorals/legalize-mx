@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2004-06-04"
+last_updated: "2004-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -94,11 +94,19 @@ VI. Pedir al juez la aplicación de la sanción que en el caso concreto estime a
 
 VII. Pedir la libertad del detenido cuando ésta proceda.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2004)</small>
 
-###### ARTICULO 3º Bis.
+###### Artículo 3º Bis.
 
-En las averiguaciones previas en que se demuestre plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal, previo acuerdo del Procurador General de Justicia del Distrito Federal, el Ministerio Público lo pondrá en libertad y no ejercitará acción penal.
+En las averiguaciones previas en que se demuestre plenamente que el inculpado actuó en circunstancias que excluyen la responsabilidad penal, se actuará de conformidad con lo siguiente:
+
+I.- Siempre que se trate de la integración de una averiguación previa con detenido, dentro del plazo a que se refiere el artículo 268 Bis de este Código, el Ministerio Público, previa autorización del Procurador General de Justicia del Distrito Federal, determinará el no ejercicio de la acción penal y ordenará la libertad inmediata del detenido.
+
+Si para integrar la averiguación previa fuese necesario mayor tiempo del señalado en el párrafo anterior, el detenido será puesto en libertad bajo las reservas de ley, sin perjuicio de que la indagatoria continué sin detenido.
+
+II.- Siempre que se trate de la integración de una averiguación previa sin detenido, se seguirán los plazos y formalidades a que se refiere este Código para la integración de las averiguaciones previas en general.
+
+En cualquiera de los casos a que se refiere este artículo, la determinación del no ejercicio de la acción penal se notificará al querellante, denunciante u ofendido, mediante notificación personal, para el ejercicio, en su caso, del derecho a que alude el cuarto párrafo del artículo 21 Constitucional.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2166,7 +2174,7 @@ Cuando se señalen penas en proporción a las previstas para el delito doloso co
 
 ###### ARTICULO 268 Bis.
 
-En los casos de delito flagrante y en los urgentes, ningún indicado (sic)podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada a que se refiere el artículo 254 del Nuevo Código Penal para el Distrito Federal.
+En los casos de delito flagrante y en los urgentes, ningún indicado (sic) podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada a que se refiere el artículo 254 del Nuevo Código Penal para el Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5529,3 +5537,7 @@ G.O. 4 DE JUNIO DE 2004.
 PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE SEPTIEMBRE DE 2004.
+
+Único.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
