@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1979-01-13"
+last_updated: "1979-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JULIO DE 1979.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -449,7 +449,9 @@ Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebran
 
 El día 13 del mes de octubre de cada año, con la exclusión del inmediato siguiente a la fecha del inicio de su ejercicio constitucional, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso ante quien rendirá, en el acto, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
 
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere el día trece de septiembre en el acto de la toma de posesión del Gobernador electo para el siguiente período.
+> <small>(REFORMADO, B.O. 28 DE JULIO DE 1979)</small>
+
+El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere, el día veintiséis de agosto.
 
 ###### Artículo 47.
 
@@ -907,7 +909,7 @@ XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de a
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
-XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de autonomía municipal.
+XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía municipal.
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
@@ -2040,6 +2042,10 @@ UNICO.- La presente ley entrará en vigor tres días después de su publicación
 B.O. 13 DE ENERO DE 1979.
 
 UNICO.- La presente ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 28 DE JULIO DE 1979.
+
+UNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
