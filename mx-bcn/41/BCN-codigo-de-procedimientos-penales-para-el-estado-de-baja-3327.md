@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2000-02-18"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -225,7 +225,19 @@ VIII.- Promover la conciliación de las partes en los delitos perseguibles por q
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
-IX.- Sancionar los convenios a que se refiere la fracción anterior.
+IX.- Sancionar los convenios a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+X.- Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas, cuando con motivo de una averiguación previa se encuentren a su disposición, siempre que se reúnan los siguientes requisitos:
+
+a) Se compruebe la pérdida de la vida del donador, en los términos de la Ley General de Salud, por dos peritos médicos distintos a los que intervendrán en el trasplante o en la obtención de órganos y tejidos.
+
+b) Se verifique la existencia del consentimiento expreso del donante o, a falta de éste, de quien compruebe fehacientemente ser el o la cónyuge, el concubinario, la concubina, los descendientes, ascendiente, hermanos, el adoptado, o el adoptante, conforme a la prelación señalada;
+
+c) La autorización deberá otorgarse con la mayor inmediatez posible, misma que no podrá exceder de las 72 horas siguientes a la hora en que se dé fe de la pérdida de la vida.
+
+La autorización procederá siempre y cuando el médico forense determine que la sustracción del órgano o tejido de que se trate, no afecta la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para trasplante, cuenten con la autorización correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3364,3 +3376,7 @@ P.O. 18 DE FEBRERO DE 2000.
 DECRETO NUMERO 169
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2001.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
