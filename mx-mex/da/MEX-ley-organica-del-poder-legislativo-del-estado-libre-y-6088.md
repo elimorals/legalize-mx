@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2002-12-11"
+last_updated: "2003-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DEL 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DEL 2003.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -163,9 +163,9 @@ Los diputados no podrán invocar o hacer uso de su condición de legisladores pa
 
 Compete a la Legislatura o a la Diputación Permanente, conocer de las excusas, incapacidades, licencias temporales o absolutas que presenten los diputados electos o en funciones, para desempeñar el cargo.
 
-> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
 
-El Presidente de la Legislatura turnará el escrito respectivo a la Comisión de Asuntos Constitucionales para su estudio y dictamen; en los recesos el Presidente de la Diputación Permanente procederá de manera similar o a una comisión creada para tal efecto.
+El Presidente de la Legislatura turnará el escrito respectivo a la Comisión de Gobernación y Puntos Constitucionales para su estudio y dictamen; en los recesos el Presidente de la Diputación Permanente procederá de manera similar o a una comisión creada para tal efecto.
 
 ###### Artículo 25.
 
@@ -199,7 +199,9 @@ VI. Contar con la documentación que les acredite como diputados;
 
 VII. Percibir una remuneración que se denominará dieta, así como las demás prestaciones de ley que les permitan desempeñar adecuadamente sus funciones;
 
-VIII. Formar parte de una fracción legislativa;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+VIII. Formar parte de un grupo parlamentario;
 
 IX. Ser integrante de comisiones o comités o bien, asociarse a sus trabajos;
 
@@ -235,13 +237,19 @@ XII. Presentar declaración patrimonial en los casos, términos y condiciones qu
 
 XIII. Abstenerse de introducir armas al recinto legislativo;
 
-XIV. Las demás que les señale la Constitución, la ley y el reglamento.
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+XIV. Abstenerse de hacer uso de recursos públicos para fines proselitistas;
+
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+XV. Las demás que les señale la Constitución, la ley y el reglamento.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES DE LA LEGISLATURA
 
 ###### Artículo 30.
 
-(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2000)
+(DEROGADO, G.G. 12 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 31.
 
@@ -321,11 +329,13 @@ III. La Gran Comisión;
 
 IV. Las comisiones y los comités.
 
-Los órganos de la Legislatura serán integrados por diputados de diversas fracciones legislativas.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Los órganos de la Legislatura serán integrados por diputados de diversos grupos parlamentarios.
 
 ### CAPITULO IV. DE LA GRAN COMISION
 
-> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 42.
 
@@ -445,19 +455,71 @@ XI. Cuidar que se redacten las actas de las sesiones en forma fidedigna y asenta
 
 XII. Expedir y certificar copia de documentos que obren en el archivo de la Legislatura;
 
-XIII. Supervisar las funciones de la Oficialía Mayor en cuanto a la secretaría se refiere;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+XIII. Supervisar las funciones del Secretario de Asuntos Parlamentarios en cuanto a la secretaría se refiere;
 
 XIV. Proporcionar la documentación necesaria para la edición del Diario de Debates;
 
 XV. Las demás que se deriven de las disposiciones legales o acuerdos de la Asamblea o del Presidente de la Legislatura.
 
-### CAPITULO V. DE LAS COMISIONES Y COMITES
+### CAPITULO V. DE LOS GRUPOS PARLAMENTARIOS
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
+
+(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+
+Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
+
+a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
+
+b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-4.- El coordinador propondrá a la Gran Comisión el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones y comités legislativos y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Gran Comisión y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Gran Comisión acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Gran Comisión dispondrá el presupuesto para cada Grupo Parlamentario.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
+
+(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+
+Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y a la Contaduría General de Glosa.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 51.
 
 La Diputación Permanente funcionará durante los recesos de la Legislatura, representándola en los términos previstos por la Constitución, la ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DEL 2002)</small>
 
 Durante los recesos las Comisiones de Dictamen y Comités funcionarán cuando el Presidente de la Diputación Permanente les turne para su estudio una iniciativa o asunto.
 
@@ -501,7 +563,7 @@ VIII. Las demás que le confieran la Constitución, la ley y otros ordenamientos
 
 Cuando la Legislatura se encuentre en período extraordinario, la Diputación Permanente seguirá conociendo y despachando los asuntos de su competencia, si éstos no fueron incluidos en la convocatoria respectiva.
 
-> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DEL 2002)</small>
 
 ###### Artículo 57.
 
@@ -515,17 +577,23 @@ En la segunda sesión de los períodos ordinarios, se dará cuenta con los dict�
 
 En el ejercicio de sus funciones, la Directiva de la Diputación Permanente observará en lo conducente las normas que rigen para la Directiva de la Legislatura.
 
-### CAPITULO VI. DEL PROCESO LEGISLATIVO
+### CAPITULO VI. DE LAS COMISIONES Y COMITÉS
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 60.
 
-La Gran Comisión funcionará para todo el ejercicio constitucional y estará integrada por un Presidente, un Secretario y diez vocales.
+La Gran Comisión se constituye como el órgano colegiado facultado para desempeñar la tarea de concertación política de las fuerzas representadas en el Poder Legislativo.
 
-> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
+La Gran Comisión funcionará para todo el ejercicio constitucional y estará integrada por los coordinadores de los grupos parlamentarios reconocidos y autorizados en términos de esta ley, los cuales gozarán de voz y voto ponderado a su representación proporcional dentro de la Cámara.
+
+La Gran Comisión propondrá la integración de las comisiones y comités a la aprobación de la Asamblea.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 61.
 
-En la segunda sesión del primer período de sesiones ordinarias de su ejercicio constitucional, la Legislatura elegirá en votación nominal y por mayoría simple de votos a los integrantes de la Gran Comisión. El Presidente y el Secretario durarán en su encargo un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer período de sesiones del año que corresponda, de entre los integrantes de la Gran Comisión, a quienes deberán ocupar dichos cargos.
+El Presidente y el Secretario durarán un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer periodo de sesiones del año que corresponda, de entre los integrantes de la Gran Comisión a quienes deberán ocupar dichos cargos.
 
 ###### Artículo 62.
 
@@ -533,13 +601,17 @@ Son atribuciones de la Gran Comisión:
 
 I.- Proponer a la Asamblea los integrantes de las comisiones y de los comités, así como su sustitución cuando exista causa justificada para ello;
 
-II.- Proponer a la Asamblea la integración de nuevas comisiones de dictamen, especiales, o de comités, así como a los diputados que deban integrarlas;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+II. Proponer a la Asamblea la integración de nuevas comisiones legislativas, especiales, o de comités, así como a los diputados que deban integrarlas;
 
 III.- Apoyar en el desarrollo de sus trabajos a las comisiones y comités;
 
 IV.- Supervisar la edición del Diario de Debates;
 
-V.- Proponer a la Asamblea la designación del Oficial Mayor, del Contador General de Glosa, del Contralor y del Director General de Administración; asimismo, informarle sobre la renuncia, remoción o licencia de éstos;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+V. Proponer a la Asamblea la designación del Contador General de Glosa, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto de Estudios Legislativos así mismo, informarle sobre la renuncia, remoción o licencia de éstos.
 
 VI.- Establecer las bases para la elaboración y aplicación del presupuesto anual del Poder Legislativo;
 
@@ -551,17 +623,39 @@ IX.- Conocer y resolver sobre las responsabilidades administrativas en que incur
 
 X.- Las demás que le confieran la ley, el reglamento o la Asamblea.
 
-> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 62 BIS.- La Gran Comisión se constituirá en Conferencia para la Dirección y Programación de los Trabajos Legislativos, con la finalidad de desarrollar ordenadamente el trabajo de los legisladores. Se integrará con los miembros de la Gran Comisión y con el Presidente de la Directiva que tendrá voz pero sin voto.
+
+A sus reuniones podrán ser convocados los presidentes de las comisiones legislativas, cuando exista un asunto de su competencia con voz pero sin voto.
+
+La Conferencia para la Dirección y Programación de los Trabajos Legislativos estará sujeta a las siguientes reglas:
+
+1. El Presidente de la Gran Comisión presidirá la Conferencia para la Dirección y Programación de los Trabajos Legislativos y supervisará el cumplimiento de sus acuerdos a través de la Secretaría de Asuntos Parlamentarios.
+
+2. La Conferencia para la Dirección y Programación de los Trabajos Legislativos deberá sesionar por lo menos cada 15 días en periodos ordinarios de sesiones y cuando así lo determine durante los recesos; en ambos casos, a convocatoria de su Presidente o a solicitud de por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios.
+
+3. La Conferencia para la Dirección y Programación de los Trabajos Legislativos adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría absoluta mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios. El Presidente tendrá voto de calidad en caso de empate.
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+4. El Secretario de Asuntos Parlamentarios del Poder Legislativo actuará como secretario técnico de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, quien asistirá a las reuniones con voz pero sin voto, preparará los documentos necesarios, levantará el acta correspondiente y llevará el registro y seguimiento de los acuerdos.
+
+La Conferencia para la Dirección y Programación de los Trabajos Legislativos tendrá las atribuciones que le marque esta ley y las que le señale la Gran Comisión.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 63.
 
-La Gran Comisión se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar presentes cuando menos siete de sus integrantes, entre quienes deberá estar el presidente. Sus acuerdos se tomarán por mayoría de votos de los presentes; el presidente tendrá voto de calidad.
+La Gran Comisión se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que las resoluciones sean válidas deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
-> <small>(REFORMADO, G.G. 12 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 64.
 
-En las faltas temporales del presidente, lo sustituirá el secretario. Las faltas del secretario serán cubiertas por los vocales en su orden. Si la falta de cualquiera de los integrantes fuere definitiva se procederá a nueva elección, por mayoría simple de la Asamblea, de entre los miembros de la fracción legislativa de la cual el diputado formara parte.
+En las faltas temporales del Presidente, lo sustituirá el secretario. Las faltas temporales del Secretario serán cubiertas por los vocales en su orden.
+
+En los casos en que los titulares se ausenten de manera definitiva, serán sustituidos ante la Gran Comisión por los coordinadores de los Grupos Parlamentarios respectivos, según la afiliación del diputado que corresponda.
 
 ###### Artículo 65.
 
@@ -595,7 +689,17 @@ XIII. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta
 
 XIV. Informar anualmente a la Asamblea de las actividades de la Gran Comisión;
 
-XV. Las demás que le confieran la ley, otras disposiciones legales, la Asamblea o la Gran Comisión.
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+XV. Emitir la convocatoria para la selección de secretarios técnicos, misma que se publicará con 30 días hábiles de anticipación al inicio de la Legislatura que corresponda.
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+El proceso de selección de candidatos a secretarios técnicos se realizará conforme al procedimiento señalado en el reglamento.
+
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+XVI. Las demás que le confieran la ley, otras disposiciones legales, la Asamblea o la Gran Comisión.
 
 ###### Artículo 66.
 
@@ -621,93 +725,105 @@ I. Auxiliar al secretario en el despacho de los asuntos a su cargo;
 
 II. Las que les encomiende la Gran Comisión o su presidente.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DEL 2003)</small>
+
+### CAPITULO VII. DEL PROCESO LEGISLATIVO
+
 ### CAPITULO UNICO. DE LAS BASES PARA SU ORGANIZACIÓN Y FUNCIONAMIENTO
 
 > <small>(REFORMADO, G.G. 9 DE MARZO DE 1999)</small>
 
-### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
-
 ###### Artículo 68.
 
-La Legislatura para el ejercicio de sus funciones, contará con comisiones de dictamen, especiales, jurisdiccionales y comités. En el reglamento se regulará la organización y funcionamiento de dichos órganos.
+La Legislatura para el ejercicio de sus funciones, contará con comisiones legislativas, especiales, jurisdiccionales y comités. En el reglamento se regulará la organización y funcionamiento de dichos órganos.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 69.
 
-En la tercera sesión del primer período de sesiones ordinarias, a propuesta de la Gran Comisión y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional, la integración de las comisiones de dictamen siguientes:
+A más tardar, en la tercera sesión del primer período de sesiones ordinarias, a propuesta de la Gran Comisión y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional, la integración de las comisiones legislativas siguientes:
 
-- Asuntos Constitucionales;
+· Gobernación y Puntos Constitucionales
 
-- Legislación;
+· Legislación y Administración Municipal
 
-- Gobernación;
+· Procuración y Administración de Justicia
 
-- Administración de Justicia;
+· Planificación y Finanzas Públicas
 
-- Finanzas Públicas;
+· Trabajo, Previsión y Seguridad Social
 
-- Planeación y Gasto Público;
+· Educación, Cultura, Ciencia y Tecnología
 
-- Trabajo, Previsión y Seguridad Social;
+· Desarrollo Urbano
 
-- Educación, Cultura, Ciencia y Tecnología;
+· Planificación Demográfica
 
-- Desarrollo Urbano y Obras Públicas;
+· Desarrollo Agropecuario y Forestal
 
-- Desarrollo Agropecuario y Forestal;
+· Protección Ambiental
 
-- Desarrollo Económico, Industrial, Comercial y Minero;
+· Desarrollo Económico, Industrial, Comercial y Minero
 
-- Comunicaciones y Transportes;
+· Comunicaciones y Transportes
 
-- Ecología y Protección al Ambiente;
+· Derechos Humanos
 
-- Derechos Humanos;
+· Salud, Asistencia y Bienestar Social
 
-- Procuración de Justicia;
+· Seguridad Pública y Tránsito
 
-- Salud, Asistencia y Bienestar Social;
+· Asuntos Electorales
 
-- Aprovechamiento de Recursos Acuíferos;
+· Patrimonio Estatal y Municipal
 
-- Seguridad Pública y Tránsito;
+· Desarrollo Turístico y Artesanal
 
-- Asuntos Electorales;
+· Asuntos Metropolitanos
 
-- Patrimonio Estatal y Municipal;
+· Inspección de la Contaduría General de Glosa
 
-- Legislación y Administración Municipal;
+· Asuntos Indígenas
 
-- Desarrollo y Planificación Demográfica;
+· Protección Civil
 
-- Desarrollo Turístico y Artesanal;
+· Para la Protección e Integración al Desarrollo de las Personas con Discapacidad
 
-- Asuntos Metropolitanos;
+· Seguimiento de Programas de Apoyo Social del Estado y Municipios del Estado de México
 
-- Inspección de la Contaduría General de Glosa.
+· De Límites Territoriales del Estado de México y sus Municipios
 
-La Asamblea podrá determinar la creación de otras comisiones de dictamen, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
+La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 70.
 
-Las comisiones de dictamen se integrarán cuando menos por siete diputados. Para su organización interna, cada comisión contará con un presidente, un secretario y un prosecretario. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, quien presida tendrá voto de calidad.
+Las comisiones legislativas se integrarán cuando menos por nueve diputados. Para su organización interna, cada comisión cantará con un presidente, un secretario y un prosecretario. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, quien presida tendrá voto de calidad.
+
+Asimismo, contarán con un secretario técnico, quien será designado conforme al procedimiento señalado en el reglamento.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 71.
 
-Los diputados podrán ser miembros de hasta cuatro comisiones y comités, pudiendo integrarse a otros como asociados; en este último caso, tendrán voz pero no voto. Preferentemente los diputados presidirán una sola comisión de dictamen.
+Los diputados podrán ser miembros de hasta cuatro comisiones legislativas y de cuatro comités, pudiendo integrarse a otros como asociadas; en este último caso, tendrán voz pero no voto. Los diputados presidirán una sola comisión legislativa.
 
-> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 72.
 
-Las Comisiones de Dictamen tendrán como funciones estudiar y analizar los proyectos de ley o decreto y los asuntos que les sean turnados con el objeto de elaborar los dictámenes o informes, debiendo dar cuenta de ellos al Presidente de la Legislatura o de la Diputación Permanente en los plazos establecidos por la ley y el reglamento.
+Las comisiones legislativas tendrán como funciones estudiar y analizar los proyectos de ley o decreto y los asuntos que les sean turnados con el objeto de elaborar los dictámenes o informes, debiendo dar cuenta de ellos al Presidente de la Legislatura en los plazos establecidos por la ley y el reglamento.
 
 ###### Artículo 73.
 
 El Presidente de la Legislatura, durante el tiempo de su gestión, estará impedido para participar en cualquier comisión.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 ###### Artículo 74.
 
-Las comisiones especiales serán integradas en forma similar a las de dictamen. Conocerán de los asuntos que les asigne la Asamblea o los que expresamente les encomiende el Presidente de la Legislatura o de la Diputación Permanente. Estas comisiones tendrán el carácter de transitorias y al término de su encomienda deberán rendir informe del resultado de su gestión.
+Las comisiones especiales serán integradas en forma similar a las legislativas. Conocerán de los asuntos que les asigne la Asamblea o los que expresamente les encomiende el Presidente de la Legislatura o de la Diputación Permanente. Estas comisiones tendrán el carácter de transitorias y al término de su encomienda deberán rendir informe del resultado de su gestión.
 
 ###### Artículo 75.
 
@@ -721,43 +837,37 @@ Las comisiones jurisdiccionales serán las siguientes:
 
 Su integración, atribuciones y funcionamiento se regirán por lo previsto en la ley y en las disposiciones legales relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 76.
 
 Son Comités Permanentes de la Legislatura, los siguientes:
 
-Administración;
+- Administración;
 
-Biblioteca y Asuntos Editoriales;
+- Información y Seguimiento Presupuestal;
 
-Gestoría y Quejas;
+- Estudios Legislativos;
 
-Corrección de Estilo;
+- De la Mujer;
 
-Estudios Legislativos;
+- De la Juventud y el Deporte;
 
-De la Mujer;
-
-De la Juventud y el Deporte;
-
-De Comunicación Social;
-
-De información y Seguimiento Presupuestal.
+- De Comunicación Social;
 
 La Asamblea podrá integrar otros comités que considere necesarios con el carácter de permanentes o transitorios.
 
-Los comités se integrarán en forma similar a las comisiones de dictamen y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
+Los comités se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
-El Comité de Información y Seguimiento Presupuestal, se integrará por los presidentes de las comisiones de dictamen de Finanzas Públicas, de Planeación y Gasto Público y de Inspección de la Contaduría General de Glosa.
+El Comité de Información y Seguimiento Presupuestal, se integrará por los presidentes de las comisiones legislativas de Planeación y Finanzas Públicas; y de Inspección de la Contaduría General de Glosa.
 
 ###### Artículo 77.
 
 Los integrantes de las comisiones o comités sólo podrán ser sustituidos por causa justificada mediante determinación de la Asamblea, de conformidad con lo previsto en el reglamento.
 
-### CAPITULO II. DEL JURADO DE PROCEDENCIA
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
+
+### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
 
 ###### Artículo 78.
 
@@ -775,7 +885,9 @@ Las iniciativas de ley o decreto, o cualquier otra propuesta dictaminada como no
 
 Las iniciativas de ley o decreto deberán cubrir los siguientes requisitos:
 
-I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Secretaría de la Legislatura o de la Diputación Permanente, a la Oficialía Mayor o a quien esté legitimado para ello;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Secretaría de Asuntos Parlamentarios, a la Secretaría de la Legislatura o de la Diputación Permanente, la Presidencia de la Gran Comisión, o a quien esté legitimado para ello;
 
 II. Contener exposición de motivos, en la que se expresará el objeto, utilidad, oportunidad y demás elementos que las sustenten y de ser posible, las consideraciones jurídicas que las fundamenten;
 
@@ -845,7 +957,7 @@ La falta de respuesta de los ayuntamientos en el término indicado, será consid
 
 ## TITULO TERCERO. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
 
-### CAPITULO UNICO. DE LA COMISION DE INSTRUCCIÓN Y DICTAMEN
+### CAPITULO II. DEL JURADO DE PROCEDENCIA
 
 ###### Artículo 94.
 
@@ -853,13 +965,21 @@ Para el ejercicio de sus funciones, la Legislatura contará con las Dependencias
 
 I. Contaduría General de Glosa;
 
-II. Oficialía Mayor;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+II. Secretaría de Asuntos Parlamentarios;
 
 III. Contraloría;
 
-IV. Dirección General de Administración;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+IV. Secretaría de Administración y Finanzas;
 
 V. Dirección General de Comunicación Social;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+VI. Instituto de Estudios Legislativos.
 
 Asimismo, podrá disponer la creación de otras que sean necesarias.
 
@@ -867,13 +987,15 @@ Asimismo, podrá disponer la creación de otras que sean necesarias.
 
 Para el control, fiscalización, revisión y calificación del ingreso y del gasto público del Estado y municipios y de los organismos auxiliares, la Legislatura dispondrá de la Contaduría General de Glosa, cuya organización y funcionamiento se regirán por su ley orgánica y su reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 9 DE MARZO DE 1999)</small>
+(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
 
 ###### Artículo 96.
 
-Las atribuciones y funcionamiento de la Oficialía Mayor, la Contraloría, la Dirección General de Administración y la Dirección General de Comunicación Social serán reguladas por el Reglamento.
+Las atribuciones y funcionamiento de la Secretaría de Asuntos Parlamentarios, la Contraloría, la Secretaría de Administración y Finanzas, la Dirección General de Comunicación Social y el Instituto de Estudios Legislativos, serán regulados por el Reglamento correspondiente.
 
 La organización administrativa de las dependencias será acordada por la Gran Comisión a propuesta de su presidente.
+
+### CAPITULO UNICO. DE LA COMISION DE INSTRUCCIÓN Y DICTAMEN
 
 ## TITULO CUARTO. DEL JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
@@ -881,11 +1003,11 @@ La organización administrativa de las dependencias será acordada por la Gran C
 
 La Legislatura del Estado, actuará como Gran Jurado de Sentencia respecto de los sujetos a juicio político, en los términos de la Constitución, de la ley y demás disposiciones relativas.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 98.
 
-Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por seis diputados que serán los presidentes de las comisiones de Asuntos Constitucionales, Gobernación, Derechos Humanos, Administración de Justicia, Procuración de Justicia y Legislación.
+Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por tres diputados que serán los presidentes de las comisiones de Gobernación y Puntos Constitucionales, Derechos Humanos, y Procuración y Administración de Justicia.
 
 ###### Artículo 99.
 
@@ -915,9 +1037,11 @@ SUSPENSION O REVOCACION DEL MANDATO DE SUS MIEMBROS
 
 Para los casos de suspensión de ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros, se integrará la Comisión de Instrucción y Dictamen.
 
+(REFORMADO, P.O. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+
 ###### Artículo 104.
 
-La Comisión de Instrucción y Dictamen se integrará por ocho diputados que serán dos de la Gran Comisión, los presidentes de las comisiones de Asuntos Constitucionales, Administración de Justicia, Gobernación, Procuración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de las fracciones legislativas respectivas.
+La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Gran Comisión, los presidentes de las comisiones de Gobernación y Puntos Constitucionales, Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
 ###### Artículo 105.
 
@@ -1038,3 +1162,15 @@ G.G. 11 DE DICIEMBRE DEL 2002.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 19 DE AGOSTO DEL 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día cinco de septiembre del año dos mil tres, salvo las reformas y adiciones correspondientes a los grupos parlamentarios y secretarios técnicos, y las derogaciones relacionadas con las fracciones legislativas que entrarán en vigor al día siguiente de la publicación del presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando se haga referencia en un ordenamiento legal a la Oficialía Mayor o a la Dirección General de Administración del Poder Legislativo se entenderá que se hace a la Secretaría de Asuntos Parlamentarios y a la Secretaría de Administración y Finanzas, respectivamente.
+
+CUARTO.- El Oficial Mayor y el Director General de Administración desempeñarán, el cargo de Secretario de Asuntos Parlamentarios y Secretario de Administración y Finanzas, respectivamente, de manera provisional, adecuando su denominación.
+
+QUINTO.- La convocatoria para nombrar Secretarios Técnicos de las comisiones y de los comités de la "LV" Legislatura será publicada el jueves veintiocho de agosto del dos mil tres.
