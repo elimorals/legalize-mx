@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2004-08-27"
+last_updated: "2004-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -37,7 +37,7 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTICULOS 33 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; 44 DE LA LEY ORGANICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
 
 LEY Núm. 65
 
@@ -573,9 +573,9 @@ III. Designar como su representante para asuntos concretos a otro Magistrado o s
 
 IV. Celebrar, por acuerdo del Pleno, convenios y contratos en la esfera de su competencia;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2004)</small>
 
-V. Presentar ante el Pleno del Tribunal Superior y del Consejo de la Judicatura, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el tribunal que preside. Este informe se entregará al Congreso del Estado;
+V. Presentar ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el Tribunal y el Consejo que preside, de sus organismos y el de los juzgados. Este informe se entregará al Congreso del Estado;
 
 VI. Dar cuenta al Pleno de las demandas instauradas en contra de los servidores públicos a que se refiere el artículo 77 de la Constitución Política local;
 
@@ -2270,3 +2270,9 @@ TERCERO.- Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judic
 CUARTO.- El personal y los recursos materiales con que actualmente cuenta la Dirección de Administración y Personal del Tribunal Superior de Justicia pasarán a formar parte del Consejo de la Judicatura.
 
 QUINTO.- En un plazo de treinta días, contado a partir de la entrada en vigor del presente Decreto, el Consejo de la Judicatura nombrará a su Director General de Administración.
+
+G.O. 1 DE NOVIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
