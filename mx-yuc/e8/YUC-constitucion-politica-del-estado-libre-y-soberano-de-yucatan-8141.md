@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1924-10-02"
+last_updated: "1925-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE OCTUBRE DE 1924.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MAYO DE 1925.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -301,7 +301,7 @@ XV.- expedir las Leyes sobre Instrucción Pública, que serán uniformes en todo
 
 (D) La Enseñanza Superior y la profesional serán o no gratuitas, según lo determinen las leyes.
 
-XVI.- prorrogar el período de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
+XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
 
 XVII.- formar su Reglamento interior;
 
@@ -473,7 +473,9 @@ Para ser Gobernador Constitucional del Estado, se requiere:
 
 I.- ser ciudadano mexicano por nacimiento, en el pleno goce de sus derechos;
 
-II.- ser nativo del Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección. La vecindad no se pierde por desempeñar comisiones oficiales procedentes del Gobierno del Estado o de las Instituciones dependientes de éste. Tampoco se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador;
+> <small>(REFORMADA, D.O. 28 DE MAYO DE 1925)</small>
+
+II.- ser nativo del Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección.- La vecindad no se pierde por desempeñar comisiones o empleos oficiales procedentes del Gobierno Federal, del Estado o de las Instituciones dependientes de éstos. Tampoco se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador;
 
 III.- en casso (sic) de no ser nativo del Estado, tener vecindad no menor de cinco años inmediatamente anteriores al día de la elección.
 
@@ -1004,6 +1006,12 @@ D.O. 27 DE SEPTIEMBRE DE 1924.
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
 D.O. 2 DE OCTUBRE DE 1924.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 28 DE MAYO DE 1925.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
 ###### ARTICULO UNICO.
 
