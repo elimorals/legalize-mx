@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "1954-05-08"
+last_updated: "1954-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1954.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -75,7 +75,7 @@ El cargo de Oficial del Registro Civil será incompatible con cualquier otro de 
 
 ###### Art. 8°.
 
-Las faltas obsolutas de los Oficiales y Secretarios de las Oficinas del Registro Civil, serán suplidas por el substituto que designe el Ejecutivo. Las faltas temporales del Jefe de la Oficina, cuando no excedan de treinta días, serán suplidas por el Presidente Municipal o por quien legalmente ejerza sus funciones. Para las ausencias que duren más de treinta días, deberá nombrarse substituto. Las faltas del Secretario, cuando no excedan de quince días, serán suplidas por dos personas de la localidad que intervenga como testigos de asistencia. Para ausencias de mayor duración deberá nombrarse substituto.
+Las faltas obsolutas (sic) de los Oficiales y Secretarios de las Oficinas del Registro Civil, serán suplidas por el substituto que designe el Ejecutivo. Las faltas temporales del Jefe de la Oficina, cuando no excedan de treinta días, serán suplidas por el Presidente Municipal o por quien legalmente ejerza sus funciones. Para las ausencias que duren más de treinta días, deberá nombrarse substituto. Las faltas del Secretario, cuando no excedan de quince días, serán suplidas por dos personas de la localidad que intervenga como testigos de asistencia. Para ausencias de mayor duración deberá nombrarse substituto.
 
 ###### Art. 9°.
 
@@ -109,9 +109,13 @@ III.- Autorizar actas o extender certificados sin que se hayan pagado previament
 
 IV.- Cobrar por la autorización de actas o por la expedición de certificados, cuotas mayores que las autorizadas por la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1954)</small>
+
 ###### Art. 11.
 
-Serán días hábiles para el despacho de los asuntos del servicio, todos los del año, excepto los domingos, 1º. de enero, 5 de febrero, 1º. y 5 de mayo, 16 de septiembre, 20 de noviembre y 25 de diciembre.- Serán horas diarias para el desempeño de su cometido. 7 horas distribuidas a juicio del Ejecutivo.
+El despacho ordinario de los asuntos del Registro Civil, se hará todos los días durante las horas que previamente haya determinado el Ejecutivo del Estado, con excepción de los domingos, el primero de enero, cinco de febrero, primero y cinco de mayo, quince y dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre.
+
+El Ejecutivo del Estado, en los casos que estime prudente, podrá autorizar la celebración de matrimonios en días y horas inhábiles, previa solicitud de los interesados.
 
 ###### Art. 12.
 
@@ -127,7 +131,7 @@ Los Oficiales del Registro Civil estarán obligados a proporcionar a la Direcci�
 
 ###### Art. 15.
 
-Los Oficiales del Registro Civil estarán facultados para imponer al Secretario de la Oficina y a los empleados subalternos, por vía de corrección disciplinaria y con acuerdo del Ejecutivo, suspención de trabajo hasta por diez días sin goce de sueldo.
+Los Oficiales del Registro Civil estarán facultados para imponer al Secretario de la Oficina y a los empleados subalternos, por vía de corrección disciplinaria y con acuerdo del Ejecutivo, suspención (sic) de trabajo hasta por diez días sin goce de sueldo.
 
 ###### Art. 16.
 
@@ -147,31 +151,29 @@ T A R I F A S:
 
 I.- NACIMIENTOS
 
-1.- Por registrar acta de nacimiento ....................................................................... $ 1.00
+1.- Por registrar acta de nacimiento.......................................................................$ 1.00
 
-2.- Por registrar acta de nacimiento de gemelos, triates o más .......................... " 2.00
+2.- Por registrar acta de nacimiento de gemelos, triates o más..........................2.00
 
 3.- Por registrar informaciones testimoniales de nacimiento, a razón de $ 1.00 (un peso), por cada hoja.
 
 II.- M A T R I M O N I O S
 
-1.- Acto de presentación ......................................................................................... $ 2.00
+1.- Acto de presentación.........................................................................................$ 2.00
 
-2.- Acto de matrimonio en la Oficina del Registro Civil, en horas ordinarias ...." 10.00
+2.- Acto de matrimonio en la Oficina del Registro Civil, en horas ordinarias ....10.00
 
 3.- Acto de matrimonio en la Oficina del Registro Civil en horas
 
-extraordinarias.........................................................................................................." 15.00
+extraordinarias..........................................................................................................15.00
 
-4.- Acto de matrimonio fuera de la Oficina del Registro Civil, en horas ordinarias...................................................................................................................." 50.00
+4.- Acto de matrimonio fuera de la Oficina del Registro Civil, en horas ordinarias....................................................................................................................50.00
 
-5.- En horas extraordinarias....................................................................................." 60.00
+5.- En horas extraordinarias.....................................................................................60.00
 
 6.- Todos aquellos actos que se verifiquen fuera de la localidad de la residencia del Oficial, causarán además un recargo de: $ 0.50 (cincuenta centavos) por cada kilómetro de ida y vuelta.
 
-7.- Por registrar informaciones testimoniales de matrimonio, a razón de: $ 1.00
-
-(un peso) por hoja.
+7.- Por registrar informaciones testimoniales de matrimonio, a razón de: $ 1.00 (un peso) por hoja.
 
 III.
 
@@ -179,11 +181,11 @@ D I V O R C I O S
 
 1.- Por registrar actas de divorcios relativos a matrimonios celebrados
 
-dentro del territorio del Estado...................................................................... $10.00
+dentro del territorio del Estado......................................................................$10.00
 
 2.- Por registrar actas de divorcio relativos a matrimonios celebrados
 
-fuera del territorio del Estado........................................................................ " 30.00
+fuera del territorio del Estado........................................................................30.00
 
 IV.
 
@@ -207,13 +209,13 @@ VII.
 
 CERTIFICACIONFS (sic)
 
-1.- Certificaciones de constancias que obren en los libros del Registro Civil, siempre que consten de una sola hoja de papel especial (forma No. 86) y que se soliciten dentro de los treinta días siguientes a partir de la fecha en que se haya autorizado el acto de que se trate, por cada una......................................................................................... $ 1.00
+1.- Certificaciones de constancias que obren en los libros del Registro Civil, siempre que consten de una sola hoja de papel especial (forma No. 86) y que se soliciten dentro de los treinta días siguientes a partir de la fecha en que se haya autorizado el acto de que se trate, por cada una.........................................................................................$ 1.00
 
-2.- Certificados que se soliciten después de un mes de autorizado el acto de que se trate y dentro de un año, por cada uno........................................................" 2.00
+2.- Certificados que se soliciten después de un mes de autorizado el acto de que se trate y dentro de un año, por cada uno........................................................2.00
 
-3.- Certificados que se soliciten después de un año de autorizado el acto de que se trate, por cada uno ..................................................................................." 3.00
+3.- Certificados que se soliciten después de un año de autorizado el acto de que se trate, por cada uno ...................................................................................3.00
 
-4.- Certificados que se soliciten sin dar la fecha exacta en que se autorizó el acto de que se trate, teniendo derecho el interesado a que se haga la búsqueda en los libros de un quinquenio, por cada uno.................................................................................... " 5.00
+4.- Certificados que se soliciten sin dar la fecha exacta en que se autorizó el acto de que se trate, teniendo derecho el interesado a que se haga la búsqueda en los libros de un quinquenio, por cada uno....................................................................................5.00
 
 5.- No causarán más derechos que los del papel especial para certificaciones (Forma No. 86), los certificados que se expidan para acreditar su estado civil a viudas pensionistas de empleados de la Federación o del Estado, con sueldo menor de $150.00 mensuales.
 
@@ -231,7 +233,7 @@ LEGALIZACION DE FIRMAS
 
 1.- Por ratificación de firmas en documentos privados, presentados ante los Oficiales del Registro Civil, en los términos que autoriza el artículo 2166, reformado, del Código Civil vigente en el Estado por cada documento presentado en horas ordinarias.......................$ 5.00
 
-2.- Por ratificación de firmas en documentos privados presentados ante los Oficiales del Registro Civil en los términos que autoriza el artículo 2166 del Código Civil reformado, por cada documento presentado en horas extraordinarias .............................................$ 10.00
+2.- Por ratificación de firmas en documentos privados presentados ante los Oficiales del Registro Civil en los términos que autoriza el artículo 2166 del Código Civil reformado, por cada documento presentado en horas extraordinarias.............................................$ 10.00
 
 ###### Art. 19.
 
@@ -349,11 +351,11 @@ El Oficial recibirá la formal declaración que hagan los contrayentes de ser su
 
 Los que contraigan matrimonio gozarán de todos los derechos y prerrogativas que las leyes civiles les conceden a los casados.
 
-El matrimonio civil no podrá celebrarse mas que por un sólo hombre con una sola mujer. La bigamia y la poligamia son reprobadas por la sociedad.
+El matrimonio civil no podrá celebrarse más que por un sólo hombre con una sola mujer. La bigamia y la poligamia son reprobadas por la sociedad.
 
 El matrimonio podrá disolverse por mutuo consentimiento y por divorcio declarado en la forma que previene la ley.
 
-El matrimonio es el único medio moral de fundar la familia, de conservar la especie y de suplir las imperfecciones del individuo que no puede bastarse a sí mismo para llegar a la perfección del género humano. Que éste no existe en la persona, sino en la dualidad conyugal. Que los casados deben ser y serán sagrados el uno para el otro, aún más de lo que es cada uno para sí. Que el hombre, cuyas dotes sexuales son principalmente el valor y la fuerza, debe dar y dará a la mujer protección, alimento y dirección, tratándola siempre como la parte más delicada, sensible y fina de sí mismo, y con la magnanimidad y benevolencia generosa que el fuerte debe al débil, esencialmente cuando éste débil se entrega a él, y cuando por la sociedad se le ha confiado. Que la mujer, cuyas principales dotes son la abnegación, la belleza, la compasión, la perspicacia y la ternura, debe dar y dará al marido obediencia, agrado, asistencia, consuelo y consejo, tratándolo siempre con la veneración que se debe a la persona que nos apoya y defiende, y con la delicadeza de quien no quiere exasperar la parte brusca, irritable y dura de sí mismo. Que el uno y el otro se deben y tendrán respeto, deferencia, fidelidad, constancia y ternura, y ambos procurarán que lo que el uno se esperaba del otro al unirse con él, no vaya a desmentirse con la unión. Que ambos deben prudenciar y atenuar sus faltas. Que nunca se dirán injurias, porque las injurias entre los casados, deshonran al que las vierte y prueban su falta de tino o de cordura en la elección, ni mucho menos se maltratarán de obra, por que es villano y cobarde abusar de la fuerza. Que ambos deben prepararse con el estudio y amistosa y mutua corrección de sus defectos, a la suprema magistratura de padres de familia, para que cuando lleguen a serlo, sus hijos encuentren en ellos buen ejemplo y una conducta digna de servirles de modelo. Que la doctrina que inspiren a estos tiernos y amados lazos de su afecto, hará su suerte próspera o adversa; y la felicidad o desventura de los hijos, será la recompensa o el castigo, la aventura o la desdicha de los padres. Que la sociedad bendice, considera y alaba a los buenos padres, por el gran bien que le hacen dándole buenos y cumplidos ciudadanos; y la misma, censura y desprecia debidamente a los que por abandono, por mal entendido cariño o por su mal ejemplo, corrompen el depósito sagrado que la Naturaleza les confió concediéndoles tales hijos. Y por último, que cuando la sociedad ve que tales personas no merecían ser elevadas a la dignidad de padres, si no que sólo debían haber vivido sujetas a tutela, como incapaces de conducirse dignamente, se duele de haber consagrado con su autoridad, la unión de un hombre y de una mujer que no han sabido ser libres ni dirigirse por sí mismos hacia el bien".
+El matrimonio es el único medio moral de fundar la familia, de conservar la especie y de suplir las imperfecciones del individuo que no puede bastarse a sí mismo para llegar a la perfección del género humano. Que éste no existe en la persona, sino en la dualidad conyugal. Que los casados deben ser y serán sagrados el uno para el otro, aún más de lo que es cada uno para sí. Que el hombre, cuyas dotes sexuales son principalmente el valor y la fuerza, debe dar y dará a la mujer protección, alimento y dirección, tratándola siempre como la parte más delicada, sensible y fina de sí mismo, y con la magnanimidad y benevolencia generosa que el fuerte debe al débil, esencialmente cuando éste débil se entrega a él, y cuando por la sociedad se le ha confiado. Que la mujer, cuyas principales dotes son la abnegación, la belleza, la compasión, la perspicacia y la ternura, debe dar y dará al marido obediencia, agrado, asistencia, consuelo y consejo, tratándolo siempre con la veneración que se debe a la persona que nos apoya y defiende, y con la delicadeza de quien no quiere exasperar la parte brusca, irritable y dura de sí mismo. Que el uno y el otro se deben y tendrán respeto, deferencia, fidelidad, constancia y ternura, y ambos procurarán que lo que el uno se esperaba del otro al unirse con él, no vaya a desmentirse con la unión. Que ambos deben prudenciar y atenuar sus faltas. Que nunca se dirán injurias, porque las injurias entre los casados, deshonran al que las vierte y prueban su falta de tino o de cordura en la elección, ni mucho menos se maltratarán (sic) de obra, porque es villano y cobarde abusar de la fuerza. Que ambos deben prepararse con el estudio y amistosa y mutua corrección de sus defectos, a la suprema magistratura de padres de familia, para que cuando lleguen a serlo, sus hijos encuentren en ellos buen ejemplo y una conducta digna de servirles de modelo. Que la doctrina que inspiren a estos tiernos y amados lazos de su afecto, hará su suerte próspera o adversa; y la felicidad o desventura de los hijos, será la recompensa o el castigo, la aventura o la desdicha de los padres. Que la sociedad bendice, considera y alaba a los buenos padres, por el gran bien que le hacen dándole buenos y cumplidos ciudadanos; y la misma, censura y desprecia debidamente a los que por abandono, por mal entendido cariño o por su mal ejemplo, corrompen el depósito sagrado que la Naturaleza les confió concediéndoles tales hijos. Y por último, que cuando la sociedad ve que tales personas no merecían ser elevadas a la dignidad de padres, si no que sólo debían haber vivido sujetas a tutela, como incapaces de conducirse dignamente, se duele de haber consagrado con su autoridad, la unión de un hombre y de una mujer que no han sabido ser libres ni dirigirse por sí mismos hacia el bien".
 
 ###### Art. 44.
 
@@ -625,7 +627,7 @@ Los Oficiales del Registro Civil tendrán los honorarios que marque el Presupues
 
 Los Oficiales del Registro Civil deberán fijar, en lugar visible de su Oficina, la Tarifa de Honorarios.
 
-TRANSITORIO.- UNICO.- Se derogan todas las disposiciones reglamentarias anteriores y sus sus tarifas. Este Reglamento entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+TRANSITORIO.- UNICO.- Se derogan todas las disposiciones reglamentarias anteriores y sus tarifas. Este Reglamento entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- C. Victoria, Tamps., agosto 6 de 1940.- Diputado Presidente, Vicente Ruiz.- Diputado Secretario, Melquiades Tobías.- Diputado Secretario, Leopoldo Guerra.- Rúbricas."
 
@@ -652,3 +654,7 @@ Se abrogan la Tarifa VI del Artículo 18 y las disposiciones del Capítulo Sexto
 P.O. 8 DE MAYO DE 1954.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 1954.
+
+UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
