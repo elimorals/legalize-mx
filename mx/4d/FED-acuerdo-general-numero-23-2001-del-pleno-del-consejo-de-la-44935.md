@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-10-15"
+last_updated: "2004-10-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE OCTUBRE DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -343,9 +343,9 @@ XVIII.- DECIMOCTAVO CIRCUITO:
 
 XIX.- DECIMONOVENO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 62/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F.29 DE OCTUBRE DE 2004)</small>
 
-1.- Cinco tribunales colegiados: cuatro con residencia en Ciudad Victoria y uno con sede en Reynosa.
+1.- Cinco tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como uno mixto, con sede en Reynosa, Tamaulipas.
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
@@ -383,7 +383,9 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 2.- Un Tribunal Unitario con sede en Querétaro.
 
-3.- Tres Juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 64/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F.29 DE OCTUBRE DE 2004)</small>
+
+3.- Cuatro juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
@@ -1384,5 +1386,21 @@ D.O.F. 15 DE OCTUBRE DE 2004.
 ACUERDO 60/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XIV, NUMERO 1.
 
 PRIMERO.- Este acuerdo entrará en vigor el dieciocho de octubre de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE OCTUBRE DE 2004.
+
+ACUERDO 62/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XIX, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el quince de noviembre de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE OCTUBRE DE 2004.
+
+ACUERDO 64/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XXII, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el siete de noviembre de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
