@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1975-11-02"
+last_updated: "1977-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 1975.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -275,17 +275,17 @@ La infracción de esta disposición será sancionada con la pérdida de la inves
 
 El Congreso se instalará cada tres años, el dieciséis de septiembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1957)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
 ###### Artículo 24.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, uno del dieciséis de septiembre al treinta y uno de diciembre y el otro del primero de abril al treinta de junio.
+El Congreso tendrá cada año un período ordinario de sesiones que comprenderá del 16 de septiembre al 31 de enero.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
 ###### Artículo 25.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente; pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
+El Congreso, fuera del período ordinario que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente, pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
@@ -377,11 +377,11 @@ XXX.- Citar a los funcionarios del Poder Ejecutivo del Estado cuantas veces fuer
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
 ###### Artículo 28.
 
-Durante los recesos del Congreso funcionará una Diputación Permanente, integrada por tres Diputados con carácter de Propietarios y uno como Suplente, nombrados la víspera de la clausura de los períodos ordinarios, en la forma y términos que fije el Reglamento Interior.
+Durante el receso del Congreso funcionará una Diputación Permanente, integrada por tres Diputados con carácter de propietarios y uno como suplente, nombrados la víspera de la clausura del período ordinario, en la forma y términos que fije el Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -799,11 +799,11 @@ El Municipio es libre en su régimen interior. Será administrado por un Ayuntam
 
 Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien a la vez tendrá el carácter de Presidente Municipal. Este funcionario es política y administrativamente el representante del Ayuntamiento y del Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1977)</small>
 
 ###### Artículo 68.
 
-Para ser regidor o síndico de un ayuntamiento se requiere:
+Para ser Regidor o Síndico de un Ayuntamiento se requiere:
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -821,9 +821,9 @@ III.- Haber terminado la instrucción primaria.
 
 IV.- Ser originario del municipio o tener una residencia en él no menor de dos años inmediatamente anteriores a la elección.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
-No podrán ser electas regidores o síndicos, las personas que se encuentren comprendidas en los casos a que se refiere el artículo 20 de esta Constitución.
+No podrán ser electas Regidores o Síndicos las personas que se encuentren comprendidas en los casos a que se refiere el Artículo 20 de esta Constitución, salvo aquellas que se encuentren dentro de la excepción prevista en el párrafo último del mismo artículo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1260,3 +1260,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 2 DE NOVIEMBRE DE 1975.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 17 DE ABRIL DE 1977.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
