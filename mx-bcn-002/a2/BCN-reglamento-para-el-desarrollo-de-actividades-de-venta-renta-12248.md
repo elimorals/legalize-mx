@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-desarrollo-de-actividades-de-venta-renta-122
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-06-19"
-last_updated: "1998-06-19"
+last_updated: "2001-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12248&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL DESARROLLO DE ACTIVIDADES DE VENTA, RENTA, MANTENIMIENTO Y RECARGA DE EXTINTORES PORTATILES DE INCENDIOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2001
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de junio de 1998.
 
@@ -111,6 +111,10 @@ La Dirección recibirá las solicitudes de registro que presenten los particular
 
 Asimismo, integrará, actualizará y dará a conocer anualmente, el Padrón de Empresas autorizadas para realizar las actividades que regula el presente Reglamento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+Para tal efecto, lo publicará en un diario de mayor circulación en el Municipio y lo comunicará por escrito a las cámaras de comerciantes, industriales y empresarios.
+
 ###### Artículo 7.
 
 Las Empresas inscritas en el Padrón, deberán revalidar su registro durante el primer bimestre de cada año.
@@ -153,9 +157,11 @@ Los extintores que las Empresas certificadas por la Dirección, vendan, concedan
 
 Las Empresas no podrán remover de su sitio, para su reparación o mantenimiento y recarga, los extintores portátiles de incendio, sin el consentimiento de la persona que contrate sus servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 14.
 
-Los servicios de mantenimiento o recarga de extintores portátiles de incendio, se prestarán cada seis meses, término que podrá ser reducido en los siguientes casos:
+Los servicios de mantenimiento o recarga de extintores portátiles de incendio se prestarán cada 12 meses, término que podrá ser reducido en los siguientes casos:
 
 I.- Cuando así lo solicite el propietario o arrendatario de los extintores;
 
@@ -191,13 +197,17 @@ La Dirección podrá realizar verificaciones aleatorias de extintores, a los cua
 
 La verificación a que se refiere este artículo, se realizará sin pérdida del agente extintor.
 
-Cuando la verificación se lleve a cabo en el local de los usuarios, ésta se practicará en presencia de los mismos, quedando en su caso, bajo la responsabilidad de la Dirección, los daños que se ocasionen al equipo, por el mal manejo del mismo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+Cuando la verificación se lleve a cabo en el local de los usuarios, ésta se practicará en presencia de los mismos y de los representantes de la Empresa, quedando en su caso, bajo la responsabilidad de la Dirección, los daños que se ocasionen al equipo, por el mal manejo del mismo, y bajo la responsabilidad de la empresa prestadora del servicio, en su caso, la reactivación del equipo verificado aleatoriamente.
 
 De la verificación que se realice, la Dirección levantará una acta en la que se harán constar las observaciones que se detecten con motivo de la misma, para efectos de la aplicación de sanciones. La Dirección podrá proporcionar al usuario, una copia de dicha acta, si éste la solicita.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
 ###### Artículo 19.
 
-Las Empresas deberán realizar pruebas hidrostáticas y de presurización a los extintores portátiles del usuario, de conformidad con lo dispuesto por las Normas Oficiales Mexicanas y abstenerse de dar mantenimiento al equipo que no cumpla con estos requisitos.
+Las Empresas deberán realizar pruebas hidrostáticas y de presurización a los extintores portátiles del usuario, de conformidad con los procedimientos y plazos dispuestos por las Normas Oficiales Mexicanas, abstenerse de dar mantenimiento al equipo que no cumpla con estos requisitos e inutilizar el equipo que no pase las pruebas respectivas mediante la perforación del cuerpo del extintor con taladro, levantando un acta del proceso y resultados para hacer entrega del equipo a su propietario.
 
 ###### Artículo 20.
 
@@ -245,7 +255,25 @@ V.- Por no contar en las instalaciones de la negociación, con el Registro corre
 
 VI.- Por proporcionar los servicios de mantenimiento y recarga, en contravención a lo que dispongan las Normas Oficiales Mexicanas;
 
-VII.- Las que resulten de naturaleza análoga a las anteriormente descritas.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Por no inutilizar el equipo que no haya pasado las pruebas hidrostáticas y de presurización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- Por prestar o arrendar equipo en mal estado o inadecuado para el tipo de riesgo o proteger.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+IX.- Por ostentarse, el titular de la empresa o alguno de sus empleados, como inspectores de bomberos o como bombero para ofrecer sus servicios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+X.- Las que resulten de naturaleza análoga a las anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+Además de la sanción administrativa será motivo de arresto y presentación ante la autoridad correspondiente, en el caso de que cualquier persona se ostente como Inspector de la Dirección para engañar, amenazar, o presionar al propietario o empleado de algun establecimiento para que acepte sus servicios de renta, venta o mantenimiento de equipo contra incendios.
 
 ###### Artículo 26.
 
@@ -275,6 +303,10 @@ Las personas físicas o morales que contraten los bienes o servicios de Empresas
 
 En ambos casos, la Dirección les proporcionará el listado de las Empresas que aparecen registradas en el Padrón, a efecto de que en el término de un mes, contraten los servicios de cualquiera de estas, apercibidas sobre la aplicación de una multa hasta de diez salarios mínimos, en caso de incumplimiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2001)</small>
+
+Asimismo, si durante las visitas de inspección para vigilar el cumplimiento del Reglamento de Seguridad Civil y Prevención de Incendios para el Municipio de Mexicali, Baja California, se detectara que el establecimiento no cuenta con extintores; deberá entregarse el mismo listado a efecto de que contraten los servicios con las Empresas certificadas.
+
 ###### Artículo 29.
 
 En caso de que el titular de la negociación, o cualquiera de sus empleados, se desempeñe como inspector, o pertenezca al Departamento Técnico de la Dirección, tal circunstancia se hará del conocimiento de la Sindicatura Municipal; para efectos de la aplicación de las sanciones correspondientes.
@@ -288,3 +320,9 @@ Las resoluciones que se emitan por la aplicación del presente Reglamento, podr�
 TRANSITORIOS (SIC)
 
 UNICO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2001.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
