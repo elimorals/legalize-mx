@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-de-avaluos-de-bienes-nacionales-15327
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-06"
-last_updated: "1999-12-06"
+last_updated: "2004-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15327&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE LA COMISION DE AVALUOS DE BIENES NACIONALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA COMISION DE AVALUOS DE BIENES NACIONALES, PUBLICADO EN EL PERIODICO OFICIAL EL 26 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 6 de diciembre de 1999.
 
@@ -638,3 +640,15 @@ TERCERO.- En tanto la Secretaría de Contraloría y Desarrollo Administrativo ex
 CUARTO.- Para efectos de lo dispuesto por el artículo 19 de este Reglamento, dentro de los sesenta días siguientes a la fecha en que este ordenamiento entre en vigor, el Presidente de la CABIN seleccionará al banco de desarrollo y a los colegios de profesionistas a los que invitará para acreditar un representante ante el Cuerpo Colegiado de Avalúos de las Oficinas Centrales y de las Delegaciones Regionales de la CABIN. En el momento en que tomen posesión de su encargo los representantes acreditados, quedarán sin efectos las designaciones expedidas con anterioridad por el Banco Nacional de Obras y Servicios Públicos, S.N.C. y por los colegios de profesionistas a favor de sus actuales representantes. No será impedimento para ser acreditado como representante de un banco de desarrollo o de un colegio de profesionistas, el haber formado parte de un Cuerpo Colegiado de Avalúos de la CABIN, con anterioridad.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de noviembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Arsenio Farell Cubillas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 26 DE ENERO DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Comisión de Avalúos de Bienes Nacionales publicado en el Diario Oficial de la Federación el 6 de diciembre de 1999, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- En tanto la Secretaría de la Función Pública expide las normas, lineamientos, políticas, criterios técnicos, metodologías y procedimientos a que se refiere este Reglamento, continuarán vigentes los emitidos con anterioridad.
+
+CUARTO.- Para efectos de lo dispuesto por el artículo 20 del presente Reglamento, dentro de los sesenta días siguientes a la fecha en que este ordenamiento entre en vigor, el Presidente de la CABIN seleccionará a los colegios de profesionistas a los que invitará para acreditar un representante ante los cuerpos colegiados de avalúos de las oficinas centrales y de las delegaciones regionales de la propia CABIN. En el momento en que tomen posesión de su encargo los representantes acreditados, quedarán sin efectos las acreditaciones expedidas con anterioridad por las instituciones nacionales de crédito. No será impedimento para ser acreditado como representante de un colegio de profesionistas, el haber formado parte con anterioridad de un cuerpo colegiado de avalúos.
