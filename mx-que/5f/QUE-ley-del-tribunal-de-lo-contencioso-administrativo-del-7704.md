@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-tribunal-de-lo-contencioso-administrativo-del-7704"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1985-12-26"
+last_updated: "1988-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 26 de diciembre de 1985
 
@@ -41,9 +41,13 @@ DE QUERÉTARO
 
 DE LA ORGANIZACIÓN Y COMPETENCIA
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 1.
 
-Se instituye un Tribunal Unitario de lo Contencioso Administrativo del Estado de Querétaro, dotado de plena autonomía para dictar sus fallos e independiente de cualquier autoridad administrativa. Tiene a su cargo dirimir las controversias de carácter administrativo que se susciten entre los órganos del Estado, como autoridad local; los municipios y los organismos descentralizados de ambos y los particulares. Tendrá la organización, jurisdicción y competencia que esta Ley le atribuye.
+La Justicia Administrativa en el Estado de Querétaro se impartirá a través de un Tribunal de lo Contencioso Administrativo, con jurisdicción en todo el territorio estatal, siendo este un órgano autónomo e independiente de cualquier autoridad administrativa, dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+
+Asimismo tiene a su cargo dirimir las controversias de carácter administrativo que se susciten entre la Administración Pública del Estado, los municipios y los organismos descentralizados en funciones de autoridad, y los particulares; así como las responsabilidades administrativas en que incurran los servidores públicos.
 
 ###### ARTICULO 2.
 
@@ -55,9 +59,21 @@ Los Magistrados propietarios y Supernumerarios durarán en sus funciones tres a�
 
 El Magistrado Propietario no podrá ser removido sino en los casos y de acuerdo con el procedimiento aplicable para los Magistrados del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 3.
 
-Para ser magistrado del Tribunal de lo Contencioso Administrativo, Propietario o Supernumerario, se necesita satisfacer los mismos requisitos que para ser magistrado del Tribunal Superior de Justicia del Estado; y percibirán iguales emolumentos que éstos.
+Para ser magistrado del Tribunal de lo Contencioso Administrativo se requiere:
+
+I.- Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles, y haber residido efectivamente en el estado durante los últimos cinco años;
+
+II.- No tener menos de treinta y cinco años ni más de sesenta y cinco el día de su designación;
+
+III.- Ser Licenciado en Derecho con Título Profesional legalmente registrado, con cinco años de antigüedad, al día de su designación, acreditando amplia capacidad profesional;
+
+IV.- Ser de notoria buena conducta y honorabilidad manifiesta;
+
+V.- No haber sido condenado en sentencia ejecutoria por delito intencional.
 
 ###### ARTICULO 4.
 
@@ -71,9 +87,11 @@ Las faltas temporales del Magistrado Propietario y las definitivas, entre tanto 
 
 Las licencias del Magistrado Propietario por un término que exceda de un mes por año con goce de sueldo o de tres meses sin sueldo, solamente podrá concederlas el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 7.
 
-El Tribunal, para el despacho de los negocios, tendrá un Secretario, un Oficial Mayor y el personal auxiliar que determine anualmente el Presupuesto de Egresos del Estado, el Oficial Mayor suplirá al Secretario en sus faltas temporales.
+El Tribunal para el despacho de los negocios, tendrá un Secretario, un Oficial Mayor y defensores jurídicos gratuitos y el personal auxiliar que determine anualmente el Presupuesto de Egresos del Estado, el Oficial Mayor suplirá al Secretario en sus faltas temporales.
 
 ###### ARTICULO 8.
 
@@ -203,23 +221,23 @@ Las cuestiones que surjan dentro del procedimiento se decidirán de plano y sin 
 
 DE LAS PARTES
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 23.
 
 Serán partes en el procedimiento:
 
 I.- El actor;
 
-II.- El demandado, tendrá este carácter;
+II.- El demandado, tendrá este carácter:
 
-A).- La Autoridad, tanto ordenadora como ejecutora de las resoluciones o actos administrativos que se impugnen.
+a).- Las Autoridades del Poder Ejecutivo, de los municipios o de los organismos con funciones administrativas de autoridad de carácter estatal o municipal que dicten, ordenen, ejecuten o traten de ejecutar la resolución o acto administrativo que se impugne.
 
-B).- El Ayuntamiento o el Titular de la Dependencia Estatal o del organismo descentralizado a quien se encuentre subordinada la autoridad mencionada en el inciso A).
+b).- La Secretaría de Finanzas, aunque no sea actora o demanda, siempre que se trate de asuntos de materia fiscal estatal. Su representación estará a cargo del Secretario de Finanzas o, en su caso, de la Tesorería municipal, los cuales podrán delegar la representación en agentes hacendarios los que estarán adscritos al Tribunal.
 
-C).- La Secretaría de Finanzas, aunque no sea actora ni demandada, siempre que se trate de asuntos de materia fiscal estatal, su representación estará a cargo del C. Secretario de Finanzas o, en su caso, la Tesorería Municipal, los cuales podrán delegar la representación de Agentes Hacendarios, los que estarán adscritos al Tribunal.
+c).- El particular a quien favorezca la resolución cuya nulidad pida la autoridad administrativa conforme a lo dispuesto en el artículo 14, fracción IV de esta ley, y
 
-D).- El particular a quien favorezca la resolución cuya nulidad pida la autoridad administrativa conforme con lo dispuesto en el artículo 14, fracción V de esta ley, y
-
-III.- El tercero perjudicado que será cualquier persona cuyos intereses puedan verse afectados por las resoluciones del Tribunal.
+III.- El tercero perjudicado, o sea cualquier persona cuyos intereses puedan verse afectados por las resoluciones del Tribunal.
 
 ###### ARTICULO 24.
 
@@ -367,19 +385,25 @@ DE LA SUSPENSIÓN
 
 La suspensión de los actos impugnados podrá concederse por el Magistrado en el mismo auto en que admita la demanda, haciéndolo saber sin demora a la autoridad demandada para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 42.
 
-La suspensión podrá solicitarla el actor en cualquier momento del juicio y tendrá por efecto mantener las cosas en el estado en que se encuentran, en tanto se pronuncie sentencia.
+La suspensión podrá solicitarla el actor en cualquier momento del juicio y tendrá por efecto mantener las cosas en el estado en que se encuentran, en tanto se pronuncie la sentencia.
 
-No se otorgará la suspensión si se sigue perjuicio a un evidente interés social, se contravienen disposiciones de orden público o se deja sin materia el juicio.
+La suspensión podrá concederse con efectos restitutorios únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad administrativa, o bien cuando a juicio del magistrado sea necesario otorgarle estos efectos con el objeto de conservar la materia de litigio o impedir perjuicios irreparables al propio particular.
 
-Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia y entre tanto se pronuncie la resolución que corresponda, el magistrado podrá dictar las medidas cautelares que estime pertinentes para preservar el medio de la subsistencia del quejoso.
+No se otorgará la suspensión si se sigue en perjuicio de un evidente interés social, se contravienen disposiciones de orden público o se deja sin materia el juicio.
+
+Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia y entre tanto se pronuncie la resolución que corresponda, el magistrado podrá dictar las medidas cautelares que estime pertinentes para preservar el medio de la subsistencia del quejoso, siempre que no se lesionen derechos de terceros.
 
 La suspensión será revocable en cualquier momento del juicio si varían las condiciones en las cuales se otorgó.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 43.
 
-Tratándose de multas, impuestos, derechos o cualquier otro crédito fiscal, se concederá la suspensión si quien la solicita garantiza su importe ante las oficinas exactoras correspondientes en algunas de las formas siguientes:
+Cuando a juicio del magistrado fuera necesario garantizar los intereses del fisco, la suspensión del acto reclamado se concederá, previo aseguramiento de los mismos en cualquiera de las formas siguientes:
 
 I.- Depósito en efectivo;
 
@@ -389,9 +413,11 @@ III.- Embargo de bienes, o
 
 IV.- Fianza de compañía autorizada o de persona que acredite su solvencia con bienes raíces inscritos en el Registro Público de la Propiedad. Los fiadores deberán renunciar expresamente a los beneficios de orden y excusión y someterse también expresamente al procedimiento administrativo de ejecución.
 
-La suspensión dejará de surtir efectos si la garantía no se otorga dentro de los cinco días siguientes al en que queda notificado el auto que la hubiere concedido.
+Tratándose de multas, impuestos, derechos o cualquier otro crédito fiscal, el magistrado discrecionalmente podrá conceder la suspensión sin necesidad de que se garantice su importe.
 
-Si se tratara de algún cobro que por su cuantía pudiera afectar el equilibrio del Presupuesto Público, se podrá ordenar que el aseguramiento se haga precisamente mediante pago bajo protesta.
+La suspensión dejará de surtir efectos si la garantía no se otorga dentro de los ocho días siguientes al en que queda notificado el auto que la hubiere concedido.
+
+Si se trata de algún cobro que por su cuantía pudiera afectar el equilibrio del presupuesto público, se podrá ordenar que el aseguramiento se haga precisamente mediante pago bajo protesta.
 
 ###### ARTICULO 44.
 
@@ -551,7 +577,9 @@ I.- La fijación clara y precisa de los puntos controvertidos, así como el exam
 
 II.- Los fundamentos legales en que se apoyen para dictar la resolución definitiva, y
 
-III.- Los puntos resolutivos, en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; el plazo que se de a la autoridad para contestar una petición de acuerdo con la naturaleza del asunto, o bien, la orden de reponer el procedimiento. El Tribunal deberá, al pronunciar sentencia, suplir las deficiencias de la demanda, con excepción de los asuntos de materia fiscal pero, en todo caso, se ceñirán a los puntos de la litis planteada.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1988)</small>
+
+III.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; el plazo que se de a la autoridad para contestar una petición de acuerdo con la naturaleza del asunto, los términos de la modificación del acto impugnado, el sentido de la resolución que deba dictar la autoridad responsable, la condena que se decrete en su caso, o bien la orden de reponer el procedimiento. El Tribunal deberá, al pronunciar sentencia, suplir las deficiencias de la demanda, con excepción de los asuntos de materia fiscal, pero en todo caso, se ceñirán a los puntos de la litis planteada.
 
 ###### ARTICULO 63.
 
@@ -563,17 +591,25 @@ Las sentencias definitivas del Tribunal causarán ejecutoria sin necesidad de de
 
 CUMPLIMIENTO DE LA SENTENCIA
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 65.
 
-El actor podrá acudir en queja ante el Tribunal en caso de incumplimiento de la sentencia; con el escrito respectivo se dará vista a la autoridad responsable por el término de tres días para que manifieste lo que a su derecho convenga.
+Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal la comunicará por oficio y sin demora alguna, a las autoridades y organismos demandados para su cumplimiento.
 
-En vista de la contestación, el Tribunal resolverá si la autoridad ha cumplido con los términos de la sentencia; de no haberlo hecho la requerirá para que la cumpla, amonestándola y previniéndola de que, en caso de renuncia, se le impondrá una multa hasta por el importe de diez veces el salario mínimo vigente en la localidad.
+En el propio oficio en que se haga la notificación a las autoridades u organismos demandados, se les prevendrá para que informen sobre el cumplimiento que se de a la sentencia respectiva.
 
-Si la autoridad persistiera en su actitud, el Magistrado solicitará del superior Jerárquico respectivo que conmine al funcionario responsable para que dé cumplimiento a las determinaciones del Tribunal de lo Contencioso Administrativo, sin perjuicio de que se reitere, cuantas veces sea necesario, la multa impuesta.
+Dentro de los tres días siguientes, a la notificación a la autoridad u organismos demandados, si la sentencia no quedara cumplida, el Tribunal, de oficio o a petición de parte, dará vista a dichas autoridades u organismos para que manifiesten lo que a su derecho convenga.
 
-El Tribunal hará del conocimiento del Gobernador Constitucional del Estado o de los Ayuntamientos aquellos casos en los que el superior Jerárquico de la autoridad responsable no dé cumplimiento a las resoluciones del Tribunal, a efecto de que le ordene que las acate.
+El Tribunal resolverá si la autoridad o servidor público ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que la cumpla, amonestándola y previniéndola de que, en caso de renuncia, se le impondrá una multa hasta por la cantidad equivalente a sesenta días de salario mínimo vigente en la jurisdicción correspondiente.
 
-Las sanciones antes mencionadas también serán procedentes cuando no se cumplimente, en sus términos, la suspensión del acto reclamado que se decrete en el juicio.
+En el supuesto de que la autoridad o servidor público persistiere en su actitud, el Tribunal solicitará del titular de la dependencia estatal, municipal u organismo descentralizado con funciones de autoridad a quien se encuentre subordinado, ordene al funcionario responsable para que se de cumplimiento a las determinaciones del Tribunal, sin perjuicio de que se reitere cuantas veces sea necesario la multa impuesta.
+
+Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, el Tribunal podrá decretar la destitución del Servidor Público responsable, excepto que goce de fuero Constitucional.
+
+Si la autoridad demandada goza de fuero Constitucional, el Tribunal formulará ante la Legislatura del Estado, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, la excitativa de declaración de procedencia correspondiente.
+
+Las sanciones mencionadas en este capítulo también serán procedentes cuando no se cumplimente en sus términos la suspensión que se hubiere decretado respecto al acto reclamado en el juicio.
 
 T R A N S I T O R I O S:
 
@@ -618,3 +654,11 @@ LIC. MARIANO PALACIOS ALCOCER.
 EL C. SECRETARIO DE GOBIERNO,
 
 LIC. JOSÉ MARIA HERNANDEZ SOLIS.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 27 DE OCTUBRE DE 1988
+
+###### ARTICULO UNICO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", la cual entrará en vigor al día siguiente de su publicación.
