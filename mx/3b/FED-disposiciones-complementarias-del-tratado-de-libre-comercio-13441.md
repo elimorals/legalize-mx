@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-11-01"
+last_updated: "2000-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,23 +18,225 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCÍA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
+RESOLUCION DE MODIFICACIONES A LA RESOLUCION POR LA QUE SE ESTABLECEN LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE Y SU ANEXO 1
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de noviembre de 2000.
+Resolución publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 5o. fracción X de la Ley de Comercio Exterior; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y 8 del Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, y
+Con fundamento en los artículos 31 de la Ley Orgánica de la Administración Pública Federal; 511 del Tratado de Libre Comercio de América del Norte, 1o. y 144, fracción XXIII de la Ley Aduanera; 1o. y 6o., fracción XXXIV del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, esta Secretaría resuelve expedir la:
 
-CONSIDERANDO
+RESOLUCION DE MODIFICACIONES A LA RESOLUCION POR LA QUE SE ESTABLECEN LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE Y SU ANEXO 1
 
-Que el Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, dispone en su artículo 8 que se aplicará la tasa prevista en el Apéndice a ese Decreto, a las mercancías identificadas con el código "S", siempre y cuando no se rebase el cupo mínimo de importación especificado para cada fracción en la lista de México, contenida en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte;
+Primero. Se realizan las siguientes reformas, adiciones y derogaciones a la Resolución por la que se establecen las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio de América del Norte, publicada en el Diario Oficial de la Federación el 15 de septiembre de 1995.
 
-Que conforme a los registros estadísticos de las autoridades aduaneras, la importación de algunas mercancías originarias de los Estados Unidos de Norteamérica, comprendidas en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte, ha rebasado el volumen total de importación de cupo mínimo fijado en dicho tratado, y
+A. Se reforman las reglas:
 
-Que para el efecto de que el arancel preferencial aplicable sea el listado en el artículo 8 del referido Decreto, corresponde a la Secretaría de Comercio y Fomento Industrial publicar en el Diario Oficial de la Federación que se ha rebasado el cupo mínimo; por lo que he tenido a bien expedir el siguiente:
+- 8
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCIA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
+- 16
+
+B. Se adicionan las reglas:
+
+- 1, con las fracciones XII, XIII, XIV, XV y XVI.
+
+- 8.1.
+
+- 8.2.
+
+- 8.3.
+
+- 8.4.
+
+- 8.5.
+
+- 8.6.
+
+- 8.7.
+
+- 8.8.
+
+- 16.1.
+
+- 16.2.
+
+- 16.3.
+
+- 16.4.
+
+C. Se derogan las reglas:
+
+- 12
+
+- 13
+
+Las modificaciones anteriores quedan como sigue:
+
+1.-
+
+XII.- “Maquiladoras”, las personas morales que tributen bajo el Título II de la Ley del Impuesto Sobre la Renta, que cuenten con programa autorizado por la Secretaría de Comercio y Fomento Industrial, en los términos del Decreto para el fomento y operación de la industria maquiladora de exportación, publicado en el Diario Oficial de la Federación el 1 de junio de 1998, reformado mediante Decretos publicados en el mismo órgano informativo el 13 de noviembre de 1998 y el 30 de octubre de 2000.
+
+XIII.- “PITEX”, las personas morales que tributen bajo el Título II de la Ley del Impuesto Sobre la Renta, que cuenten con programas autorizados por la Secretaría de Comercio y Fomento Industrial, en los términos del Decreto que establece programas de importación temporal para producir artículos de exportación, publicado en el Diario Oficial de la Federación el 3 de mayo de 1990, reformado mediante Decretos publicados en el citado órgano informativo el 11 de mayo de 1995, el 13 de noviembre de 1998 y el 30 de octubre de 2000.
+
+XIV.- “ECEX”, las empresas de comercio exterior autorizadas por la Secretaría de Comercio y Fomento Industrial, en los términos del Decreto para el establecimiento de Empresas de Comercio Exterior, publicado en el Diario Oficial de la Federación el 17 de abril de 1997.
+
+XV.- “Empresa de la industria automotriz terminal”, las empresas de la industria automotriz terminal o manufacturera de vehículos de autotransporte, en los términos del Decreto para el Fomento y Modernización de la Industria Automotriz, publicado en el Diario Oficial de la Federación el 11 de diciembre de 1989, reformado mediante Decretos publicados en el mismo órgano informativo el 8 de junio de 1990, el 31 de mayo de 1995 y el 12 de febrero de 1998; y del Decreto para el Fomento y Modernización de la Industria Manufacturera de Vehículos de Autotransporte publicado en el Diario Oficial de la Federación el 11 de diciembre de 1989.
+
+XVI.- “Código”, al Código Fiscal de la Federación.
+
+8.- Para los efectos de este Título y de conformidad con lo dispuesto en el artículo 318 del Tratado, se entiende por "programas de diferimiento de aranceles", los regímenes de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal; y de elaboración, transformación o reparación, en recinto fiscalizado; y se entiende por “programa de devolución de aranceles”, el régimen de importación definitiva, para su posterior exportación.
+
+8.1.- De conformidad con lo dispuesto en el artículo 303(1) del Tratado, la introducción de un bien a territorio nacional bajo un programa de diferimiento o devolución de aranceles, podrá ser objeto de exención o devolución del impuesto general de importación, en los términos de la regla 8.2. de la presente Resolución, a condición de que dicho bien sea:
+
+I. Posteriormente retornado o exportado a los Estados Unidos de América o Canadá;
+
+II. Utilizado como material en la producción de otro bien posteriormente retornado o exportado a los Estados Unidos de América o Canadá; o
+
+III. Sustituido por un bien idéntico o similar utilizado como material en la producción de otro bien posteriormente retornado o exportado a los Estados Unidos de América o Canadá.
+
+Lo dispuesto en esta regla, sólo será aplicable cuando el retorno o exportación sea efectuado directamente por la persona que haya introducido los bienes a territorio nacional bajo algún programa de diferimiento o devolución de aranceles.
+
+8.2.- De conformidad con el artículo 303(1) del Tratado, la exención o devolución a que se refiere la regla 8.1. de esta Resolución, será por un monto igual al menor entre los dos siguientes:
+
+I. El monto que resulte de sumar el impuesto general de importación correspondiente a los bienes que se hayan introducido a territorio nacional, bajo un programa de diferimiento o devolución de aranceles, actualizando dicho impuesto de conformidad con el artículo 17-A del Código, desde el mes en se hayan dado los supuestos a que se refiere el artículo 56, fracción I de la Ley Aduanera, hasta el mes en que se efectúe el pago del impuesto a que se refiere el segundo párrafo de esta regla, o hasta el mes en que se efectúe la determinación de los impuestos, en el caso previsto en el tercer párrafo de esta regla.
+
+II. El monto total del impuesto pagado por la importación definitiva en los Estados Unidos de América o Canadá, del bien que se haya exportado o retornado posteriormente, aplicando el tipo de cambio en los términos del artículo 20 del Código, vigente en la fecha en que se efectúe el pago del impuesto a que se refiere el segundo párrafo de esta regla, o en la fecha en que se efectúe la determinación de los impuestos, en el caso previsto en el tercer párrafo de esta regla.
+
+Cuando el monto del impuesto determinado conforme a la fracción I sea mayor que el determinado conforme a la fracción II de esta regla, la diferencia será el monto del impuesto general de importación a pagar.
+
+Cuando el monto del impuesto determinado conforme a la fracción I sea igual o menor que el determinado conforme a la fracción II de esta regla, no habrá impuesto general de importación a pagar.
+
+8.3.- Para efectos del artículo 303(1) del Tratado, la exención a que se refiere la regla 8.2. de esta Resolución, sólo procederá cuando se cumpla con lo siguiente:
+
+I. Tratándose del supuesto a que se refiere el segundo párrafo de dicha regla, siempre que se efectúe la determinación y pago del impuesto que corresponda mediante pedimento y se compruebe en los términos de la regla 8.7. de esta Resolución, el impuesto de importación pagado en los Estados Unidos de América o Canadá, a que se refiere la fracción II de la regla 8.2. de esta Resolución, dentro de los 60 días naturales siguientes a la fecha en que se haya realizado la exportación o retorno.
+
+II. Tratándose del supuesto a que se refiere el tercer párrafo de dicha regla, siempre que se determinen mediante pedimento los montos de los impuestos a que se refieren las fracciones I y II de la regla 8.2. de esta Resolución y se compruebe en los términos de la regla 8.7. de esta Resolución, el impuesto de importación pagado en los Estados Unidos de América o Canadá, a que se refiere la fracción II de la regla 8.2. de esta Resolución, dentro de los 60 días naturales siguientes a la fecha en que se haya realizado la exportación o retorno.
+
+Cuando no se cumpla con lo dispuesto en esta regla, se deberá pagar el impuesto general de importación correspondiente a los bienes que se hayan introducido bajo un programa de diferimiento de aranceles, con actualización y recargos, calculados de conformidad con los artículos 17-A y 21 del Código, desde el mes en que se hayan dado los supuestos a que se refiere el artículo 56, fracción I de la Ley Aduanera para cada uno de los bienes que se hayan introducido bajo el programa de diferimiento de aranceles, hasta el mes en que se efectúe el pago del impuesto.
+
+No obstante lo anterior, cuando con posterioridad al plazo a que se refieren las fracciones I y II de esta regla, se obtenga la documentación a que se refiere la regla 8.7., de esta Resolución para comprobar el impuesto de importación pagado en los Estados Unidos de América o Canadá a que se refiere la fracción II de la regla 8.2. de esta Resolución, se podrá solicitar la devolución o efectuar la compensación del monto del impuesto general de importación que corresponda en los términos de la regla 8.2. de esta Resolución, actualizado desde el mes en que se efectuó el pago y hasta que se efectúe la devolución o compensación, siempre que el trámite se efectúe en un plazo no mayor a cuatro años contados a partir de la fecha en que se haya efectuado la exportación o retorno.
+
+8.4.- Para efectos de las reglas 8.2., fracción I, 8.3., penúltimo párrafo y 16.3., último párrafo de esta Resolución, en lugar de efectuar la actualización del impuesto general de importación se podrá optar por determinar dicho impuesto considerando el valor de los bienes, determinado en moneda extranjera, al tipo de cambio vigente en la fecha en que se efectúe el pago del impuesto a que se refiere el segundo párrafo de la regla 8.2. y el penúltimo párrafo de la regla 8.3. de esta Resolución; en la fecha en que se efectúen las determinaciones de impuestos, en el caso previsto en el tercer párrafo de la regla 8.2.; o en la fecha en que se efectúe la transferencia de los bienes, en el caso previsto en la regla 16.3., último párrafo de esta Resolución.
+
+Quienes se sujeten a lo dispuesto en esta regla, deberán aplicar dicha opción en todas las operaciones que efectúen durante un plazo de cinco años. En caso de que cambie la opción antes de que concluya dicho plazo, deberán recalcular el impuesto general de importación actualizado en los términos de las reglas 8.2., fracción I, 8.3., penúltimo párrafo y 16.3., último párrafo de esta Resolución, por los ejercicios en que se haya aplicado la opción a que se refiere el primer párrafo de esta regla. En caso de que existan diferencias del impuesto a cargo del contribuyente, éstas se deberán pagar con actualizaciones y recargos, desde la fecha en que se haya efectuado el pago del impuesto general de importación o la determinación de los impuestos en el caso previsto en el párrafo tercero de la regla 8.2. de esta Resolución y hasta que se paguen las diferencias.
+
+8.5. Para efectos del artículo 303(1) del Tratado, para determinar el impuesto a que se refiere la regla 8.2. fracción I de esta Resolución, en lugar de la tasa del impuesto general de importación, se podrá aplicar la tasa que corresponda de acuerdo con lo siguiente:
+
+I. La que corresponda de acuerdo con el Decreto por el que se establecen Diversos Programas de Promoción Sectorial, siempre que el importador cuente con el Registro para operar dichos programas;
+
+II. La que corresponda cuando se trate de bienes que se importen al amparo de la Regla 8a. de las complementarias para la interpretación y aplicación de la Tarifa de la Ley del Impuesto General de Importación; o
+
+III. La tasa arancelaria preferencial aplicable de conformidad con otros acuerdos comerciales suscritos por México para los bienes que cumplan con las reglas de origen y demás requisitos previstos en dichos acuerdos, siempre que se cuente con el documento que compruebe el origen del bien y se declare, a nivel de fracción arancelaria, que el bien califica como originario de conformidad con el acuerdo de que se trate, anotando las claves que correspondan en los términos del Anexo 22 de la Resolución Miscelánea de Comercio Exterior, en el pedimento correspondiente.
+
+La tasa aplicable será la vigente en el momento en que se hayan dado los supuestos a que se refiere el artículo 56, fracción I de la Ley Aduanera.
+
+Para estos efectos, en ningún caso procederá la aplicación de la tasa correspondiente a la franja o región fronteriza, de conformidad con el Decreto por el que se establece el esquema arancelario de transición al régimen comercial general del país, para el comercio, restaurantes, hoteles y ciertos servicios, ubicados en la franja fronteriza norte del país; el Decreto por el que se establece el esquema arancelario de transición al régimen comercial general del país, para el comercio, restaurantes, hoteles y ciertos servicios, ubicados en la región fronteriza; y el Decreto por el que se establece el esquema arancelario de transición al régimen comercial general del país, para la industria, construcción, pesca y talleres de reparación y mantenimiento ubicados en la región fronteriza, publicados en el Diario Oficial de la Federación el 31 de diciembre de 1998.
+
+8.6.- Para efectos del artículo 303(1) del Tratado, cuando el monto del impuesto de importación pagado en los Estados Unidos de América o Canadá a que se refiere la regla 8.2., fracción II de esta Resolución, se modifique con posterioridad a la importación, el exportador deberá volver a determinar el monto de la exención o devolución a que se refiere la misma regla, considerando las modificaciones en el monto total del impuesto de importación pagado por la importación definitiva en los Estados Unidos de América o Canadá, utilizando el tipo de cambio que se hubiera aplicado en la fecha a que se refiere la regla 8.2., fracción II de esta Resolución. En este caso se deberán efectuar las rectificaciones procedentes mediante pedimento, en un plazo no mayor a 20 días naturales a partir de la fecha en que se realice la modificación del impuesto pagado en los Estados Unidos de América o Canadá. En caso de no efectuarse las rectificaciones a que se refiere esta regla, se deberán pagar recargos calculados de conformidad con el artículo 21 del Código, desde el mes en que se haya efectuado el pago del impuesto a que se refiere el segundo párrafo de la regla 8.2. o desde el mes en que se haya efectuado la determinación de los impuestos, en el caso previsto en el tercer párrafo de dicha regla y hasta el mes en que éste se efectúe.
+
+En el caso de que exista diferencia del impuesto general de importación a pagar, el monto se deberá actualizar de conformidad con el artículo 17-A del Código, desde el mes en que se haya efectuado el pago del impuesto a que se refiere el segundo párrafo de la regla 8.2. o desde el mes en que se haya efectuado la determinación de los impuestos, en el caso previsto en el tercer párrafo de dicha regla y hasta que se efectúe el pago de la diferencia. En caso de que exista saldo a favor, se podrá solicitar la devolución o compensar contra el impuesto general de importación a pagar en futuras importaciones.
+
+8.7.- Para efectos de los artículos 303(4) y 318 del Tratado, para que proceda la exención o devolución prevista en la regla 8.2. de esta Resolución, quien efectúe el retorno o exportación deberá comprobar el monto del impuesto de importación pagado en los Estados Unidos de América o Canadá a que se refiere la fracción II de la misma regla, para lo cual deberá contar con alguno de los siguientes documentos y ponerlos a disposición de las autoridades aduaneras en caso de ser requerido:
+
+I. Copia del recibo que compruebe el pago del impuesto de importación en los Estados Unidos de América o Canadá;
+
+II. Copia del documento de importación en que conste que éste fue recibido por la autoridad aduanera de los Estados Unidos de América o Canadá;
+
+III. Copia de una resolución definitiva de la autoridad aduanera de los Estados Unidos de América o Canadá, respecto del impuesto correspondiente a la importación de que se trate; o
+
+IV. Un escrito firmado por el importador en los Estados Unidos de América o Canadá o por su representante legal.
+
+8.8.- La documentación a que se refiere la regla 8.7. de esta Resolución, deberá contener la siguiente información:
+
+I. Número del documento de importación que ampare cada bien en los Estados Unidos de América o Canadá.
+
+II. Fecha de la importación de cada bien en los Estados Unidos de América o Canadá.
+
+III. Clasificación arancelaria de cada bien en los Estados Unidos de América o Canadá.
+
+IV. Tasa del impuesto de importación aplicada a cada bien por su importación a los Estados Unidos de América o Canadá.
+
+V. Monto del impuesto pagado por la importación definitiva de cada bien en los Estados Unidos de América o Canadá. Este monto podrá señalarse en la moneda del país de importación.
+
+12.- Se deroga.
+
+13.- Se deroga.
+
+16.- De conformidad con el artículo 303(6)(b) del Tratado, lo dispuesto en el artículo 303 no será aplicable a los bienes que se retornen a los Estados Unidos de América o Canadá en la misma condición en que se hayan importado.
+
+Para tales efectos se considerará que un bien se encuentra en la misma condición, cuando se retorne en el mismo estado sin haberse sometido a ningún proceso de elaboración, transformación o reparación en los términos de la Ley Aduanera o cuando se sujete a operaciones que no alteren materialmente las características del bien, tales como:
+
+I.- La simple dilución en agua o en otra sustancia.
+
+II.- La limpieza, incluyendo la remoción de óxido, grasa, pintura u otros recubrimientos.
+
+III.- La aplicación de conservadores, incluyendo lubricantes, encapsulación protectora o pintura para conservación.
+
+IV.- El ajuste, limado o corte.
+
+V.- El acondicionamiento en dosis, o el empacado, reempacado, embalado o reembalado.
+
+VI.- La prueba, marcado, etiquetado, clasificación o mezcla.
+
+VII.- Las operaciones de carga, descarga, recarga, cualquier movimiento necesario para mantenerlo en buenas condiciones o para transportarlo.
+
+16.1.- De conformidad con el artículo 307(2) del Tratado, cuando un bien procedente de los Estados Unidos de América o Canadá se importe en forma temporal y después de haberse sometido a un proceso de reparación o alteración, de conformidad con los artículos 307(1) y 318 del Tratado, se retorne a los Estados Unidos de América o Canadá o se transfiera en territorio nacional entre maquiladoras y PITEX, no será aplicable lo dispuesto en el artículo 303 del Tratado.
+
+16.2.- De conformidad con lo dispuesto en el artículo 303(6)(e) del Tratado, lo dispuesto en el artículo 303 del Tratado, no será aplicable a un bien que sea originario de conformidad con el Tratado, que se introduzca bajo un programa de diferimiento o devolución de aranceles, cuando dicho bien sea:
+
+I. Posteriormente retornado o exportado a los Estados Unidos de América o Canadá;
+
+II. Utilizado como material en la producción de otro bien posteriormente retornado o exportado a los Estados Unidos de América o Canadá; o
+
+III. Sustituido por un bien idéntico o similar utilizado como material en la producción de otro bien posteriormente retornado o exportado a los Estados Unidos de América o Canadá.
+
+Para los efectos de esta regla, se deberá cumplir con lo siguiente:
+
+I. Que el bien cumpla con la regla de origen prevista en el Tratado al momento de su ingreso al territorio nacional.
+
+II. Que se declare a nivel de fracción arancelaria, que el bien califica como originario de conformidad con el Tratado, anotando en el pedimento las claves que correspondan al país de origen en los términos del Anexo 22 de la Resolución Miscelánea de Comercio Exterior.
+
+III. Que se cuente con el certificado de origen válido que ampare el bien.
+
+IV. Tratándose del programa de devolución de aranceles, que se aplique el arancel preferencial del Tratado.
+
+Cuando al momento en que se efectúe el pago del impuesto a que se refiere el segundo párrafo de la regla 8.2. o cuando al momento en que se efectúe la determinación de los impuestos, en el caso previsto en el tercer párrafo de dicha regla, no se cumpla con cualquiera de las condiciones previstas en esta regla, los bienes deberán considerarse no originarios para efectos de lo dispuesto en las reglas 8.2. y 16.3. de esta Resolución.
+
+No obstante lo anterior, si en un plazo no mayor a un año contado a partir de la fecha de la introducción del bien bajo algún programa de diferimiento o devolución de aranceles se cumple con lo dispuesto en esta regla, en los términos del artículo 502(3) del Tratado, se podrá volver a determinar el monto de la devolución a que se refiere la regla 8.2. de esta Resolución, considerando los bienes como originarios, para solicitar la devolución o efectuar la compensación del monto del impuesto general de importación que corresponda, en los términos de la citada regla 8.2. de esta Resolución, siempre que el trámite se efectúe en un plazo no mayor a un año contado a partir de la fecha en que se haya efectuado la exportación o retorno.
+
+16.3.- Los bienes a que se refiere la regla 16.2. de esta Resolución, que se hayan importado temporalmente por una maquiladora o PITEX, podrán sujetarse a la exención del impuesto general de importación en los términos de dicha regla, cuando hayan sido:
+
+I. Transferidos a una maquiladora, PITEX, ECEX o empresa de la industria automotriz terminal;
+
+II. Transferidos por una empresa comercializadora de insumos para la industria maquiladora de exportación a una maquiladora o PITEX;
+
+III. Transferidos por una empresa de la industria automotriz terminal a una PITEX;
+
+IV. Utilizados como material en la producción de otro bien transferido a una maquiladora, PITEX, ECEX o empresa de la industria automotriz terminal; o
+
+V. Sustituidos por bienes idénticos o similares utilizados como material en la producción de otro bien transferido a una maquiladora, PITEX, ECEX o empresa de la industria automotriz terminal.
+
+Lo dispuesto en esta regla será aplicable siempre que se tramiten simultáneamente en la misma aduana los pedimentos correspondientes y se cumplan los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+Cuando los bienes transferidos conforme a las fracciones I, II y III del primer párrafo de esta regla sean no originarios del TLCAN o cuando en la producción de los bienes transferidos conforme a las fracciones IV y V del primer párrafo de esta regla se hayan utilizado bienes no originarios, se deberá determinar y pagar mediante pedimento, el impuesto general de importación correspondiente a los bienes no originarios, actualizado de conformidad con el artículo 17-A del Código, desde el mes en que se haya efectuado la importación temporal de los bienes y hasta el mes en que se efectúe el pago. Lo previsto en esta regla se aplicará sin perjuicio de lo dispuesto en la regla 16.4. de esta Resolución.
+
+16.4.- Las maquiladoras o PITEX, que transfieran bienes importados temporalmente a otras maquiladoras, PITEX o ECEX, podrán pagar el impuesto general de importación correspondiente a los bienes no originarios importados temporalmente, en la proporción en la que las maquiladoras, PITEX o ECEX que reciban los bienes transferidos, los hubieran exportado o retornado a los Estados Unidos de América o Canadá, en el semestre inmediato anterior, siempre que estas últimas presenten a la autoridad aduanera, antes de efectuar la primera transferencia al amparo de esta regla, un aviso en el que manifiesten su intención de ejercer la opción a que se refiere esta regla, asumiendo la responsabilidad solidaria en los términos del artículo 26, fracción VIII del Código, por el pago de las contribuciones que se pudieran causar, incluyendo los accesorios y las multas, por las diferencias entre la proporción manifestada a las empresas maquiladoras o PITEX que efectúen la transferencia y la proporción real y siempre que emita a la maquiladora o PITEX que efectúa la transferencia, el “Reporte de exportaciones a los Estados Unidos de América o Canadá”.
+
+La proporción a que se refiere el párrafo anterior, se obtendrá dividiendo el número de unidades retornadas o exportadas en el semestre inmediato anterior a los Estados Unidos de América y Canadá por la empresa que haya recibido los bienes, entre el número total de unidades retornadas, exportadas, transferidas o destinadas al mercado nacional en el mismo periodo.
+
+Cuando las maquiladoras o PITEX que recibieron los bienes transferidos a su vez los transfieran a otras maquiladoras PITEX o ECEX, deberán considerarlos como retornados o exportados a los Estados Unidos de América o Canadá, en la proporción en la que estas últimas hubieran retornado o exportado dichos bienes en el semestre inmediato anterior, a los Estados Unidos de América o Canadá. La proporción se calculará en los términos del párrafo anterior.
+
+Las maquiladoras o PITEX que transfieran los bienes importados temporalmente sólo podrán aplicar lo dispuesto en esta regla, cuando conserven el “Reporte de exportaciones a los Estados Unidos de América o Canadá”, emitido por la maquiladora, PITEX o ECEX que recibe los bienes. Cuando la maquiladora o PITEX que transfiera los bienes no cuente con el reporte mencionado, se considerará que los bienes transferidos fueron retornados o exportados en su totalidad a los Estados Unidos de América o Canadá.
+
+La proporción a que se refiere esta regla, se deberá calcular por cada tipo de bien.
+
+Para los efectos de esta regla, los semestres comprenden los meses de enero a junio y de julio a diciembre de cada año de calendario.
+
+Cuando no se puedan calcular la proporción de los bienes transferidos debido a que no fueron objeto de transferencia, exportación o retorno, en el semestre inmediato anterior, podrán determinar la proporción a que se refiere esta regla con base en los datos de las proyecciones del volumen de exportación para el semestre de que se trate. En este caso, la empresa que recibe el bien deberá entregar a la empresa que efectúa la transferencia, a más tardar dentro de los primeros diez días del mes inmediato posterior al semestre de que se trate, un reporte en el que indique la proporción real de exportaciones a los Estados Unidos de América o Canadá del semestre.
+
+La maquiladora o PITEX que reciba el reporte a que se refiere el párrafo anterior, deberá pagar el impuesto general de importación que corresponda a los bienes no originarios transferidos, considerando la proporción real, mediante pedimento que ampare la rectificación, actualizado de conformidad con el artículo 17-A del Código, desde el mes en que se haya efectuado la importación temporal de los bienes y hasta el mes en que se efectúe el pago.
+
+Segundo. Se adiciona el “Reporte de exportaciones a los Estados Unidos de América o Canadá”, al Anexo 1 de la Resolución por la que se establecen las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio de América del Norte, publicada en el Diario Oficial de la Federación el 15 de septiembre de 1995.
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -584,8 +786,88 @@ Se adicionan al Apéndice del Decreto que establece la tasa aplicable para 2000 
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## Artículos Transitorios
 
-UNICO.- El presente Acuerdo tendrá vigencia a partir del día siguiente al de su publicación en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2000.
+Primero. La presente Resolución entrará en vigor el 20 de noviembre de 2000.
 
-México, D.F., a 27 de octubre de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+Segundo. Las modificaciones previstas en la presente Resolución y las reglas 9, 10, 11, 14 y 15 de la Resolución por la que se establecen las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio de América del Norte, publicada en el Diario Oficial de la Federación el 15 de septiembre de 1995, serán aplicables a los bienes que se introduzcan bajo algún programa de diferimiento o de devolución de aranceles, a partir del 20 de noviembre de 2000 y se exporten, retornen o transfieran a partir del 1 de enero de 2001.
+
+Tercero. Para los efectos de la regla 8.5., fracción I de esta Resolución, tratándose de los bienes que se introduzcan a territorio nacional entre el 20 de noviembre de 2000 y el 31 de enero de 2001, cuando al momento en que se den los supuestos a que se refiere el artículo 56, fracción I de la Ley Aduanera, no se hayan establecido las tasas del Programa de Promoción Sectorial o el interesado no haya obtenido el registro para operar el Programa correspondiente, se podrá aplicar la tasa vigente en la fecha en que se efectúe el pago del impuesto a que se refiere el segundo párrafo de la regla 8.2. de esta Resolución o la determinación de los impuestos en el caso previsto en el tercer párrafo de dicha regla, siempre que en esa fecha se encuentren publicadas las tasas respectivas y el interesado cuente con el registro correspondiente.
+
+Atentamente
+
+Sufragio Efectivo. No Reelección.
+
+México, D.F., a 15 de noviembre de 2000.- El Secretario de Hacienda y Crédito Público, José Angel Gurría Treviño.- Rúbrica.
+
+ANEXO 1 DE LA RESOLUCION QUE ESTABLECE LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DAN A CONOCER LOS FORMATOS OFICIALES APROBADOS EN MATERIA DEL TRATADO
+
+FORMATO 7 (ANVERSO Y REVERSO)
+
+“Reporte de exportaciones a los Estados Unidos de América o Canadá”.
+
+“Reporte de Exportaciones a Estados Unidos de América o Canadá”.
+
+(VEASE ARCHIVO ANEXO)
+
+Manifiesto bajo protesta de decir verdad que la información contenida en este documento es verdadera y exacta. En caso de que los datos contenidos en la presente se modifiquen, me obligo a comunicar dicha situación al contribuyente que transfiere las mercancías. La falsedad o inexactitud de la información contenida en la presente, se sancionará de conformidad con las disposiciones fiscales aplicables.
+
+(VEASE ARCHIVO ANEXO)
+
+“Instructivo de Llenado del Reporte de Exportaciones a Estados Unidos de América o Canadá”.
+
+-- Este reporte será llenado a máquina o con letra de molde, con bolígrafo a tinta negra o azul y las cifras no deberán invadir los límites de los recuadros.
+
+-- Se deberá presentar en original y una copia, el original se entregará a la empresa que transfiere la mercancía y la copia la mantendrá la empresa que recibe las mercancías.
+
+-- Número de folio: La empresa anotará el número de folio consecutivo que corresponda.
+
+-- Lugar de expedición: Lugar en donde se genera el presente reporte, (Estado, Capital, Ciudad o Municipio).
+
+-- Fecha de expedición: Se deberá anotar la fecha de llenado del reporte, utilizando 2 números arábigos para el día, 2 para el mes y 4 para el año, como sigue: 20 de noviembre del 2000 ejem: 08 11 2000.
+
+1. Datos del contribuyente que emite el reporte
+
+-- Denominación o Razón Social: Anotará la razón social de la empresa que recibe las mercancías de transferencia.
+
+-- Registro Federal de Contribuyentes: Se anotará la clave a doce posiciones.
+
+-- Señalar con una “X” si se trata de una Maquiladora, Pitex o Empresa de Comercio Exterior.
+
+-- Número de Registro: El número asignado por la Secretaría de Comercio y Fomento Industrial al programa de la Maquiladora, Pitex o Empresa de Comercio Exterior, con el cual opera.
+
+-- Domicilio: Anotará los datos relativos al domicilio fiscal; nombre de la calle, número y/o letra exterior, número y/o letra interior, nombre de la colonia, código postal, entidad federativa, número telefónico y número de fax.
+
+-- Señalar con una “X” si la proporción corresponde al primer o segundo semestre.
+
+2. Datos del contribuyente que transfiere las mercancías
+
+-- Denominación o Razón Social: Anotará la razón social de la empresa que recibe las mercancías de transferencia.
+
+-- Registro Federal de Contribuyentes: Se anotará la clave a doce o trece posiciones según corresponda.
+
+-- Señalar con una “X” si se trata de una Maquiladora o Pitex.
+
+-- Número de Registro: El número asignado por la Secretaría de Comercio y Fomento Industrial al programa de la Maquiladora o Pitex, con el cual opera.
+
+-- Domicilio: Anotará los datos relativos al domicilio fiscal; nombre de la calle, número y/o letra exterior, número y/o letra interior, nombre de la colonia, código postal, entidad federativa, número telefónico y número de fax.
+
+3. Proporción de exportación o retorno a los Estados Unidos de América o Canadá
+
+-- Descripción de la mercancía transferida: Se manifestará la descripción detallada de la mercancía que le transfiere la Maquiladora, Pitex o Empresa de Comercio Exterior.
+
+-- Fracción arancelaria de la mercancía transferida: Anotará la fracción arancelaria que corresponda a la Tarifa de la Ley del Impuesto General de Importación de la mercancía que le transfiere la Maquiladora, Pitex o Empresa de Comercio Exterior.
+
+-- Fracción arancelaria del bien final: Anotará la fracción arancelaria que corresponda a la Tarifa de la Ley del Impuesto General de Importación del bien final al que se incorpora la mercancía transferida por la Maquiladora, Pitex o Empresa de Comercio Exterior.
+
+-- Descripción del bien final: Se manifestará la descripción detallada del bien final al que se incorpora la mercancía transferida por la Maquiladora, Pitex o Empresa de Comercio Exterior.
+
+-- Proporción de exportación: Indicar la proporción que determine conforme a lo dispuesto en la Resolución por la que se establecen las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio de América del Norte, misma que se obtendrá por producto, dividiendo el número de unidades retornadas o exportadas del bien final a los Estados Unidos de América o Canadá, en las que se incorporen las mercancías transferidas en el semestre inmediato anterior, entre el número total de unidades retornadas, exportadas, transferidas y destinadas a mercado nacional, en el mismo periodo.
+
+4. Datos del Representante Legal.
+
+-- Anotará el apellido paterno, materno y nombre(s) del representante legal.
+
+-- RFC: Se anotará la clave del Registro Federal de Contribuyentes a trece posiciones.
+
+-- CURP: Se anotará la clave Unica del Registro de Población, en caso de que se cuente con ésta.
