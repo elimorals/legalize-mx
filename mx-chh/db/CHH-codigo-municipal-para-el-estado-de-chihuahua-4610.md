@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-06-11"
+last_updated: "2003-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -495,7 +495,9 @@ V.- Asignar a cada Regidor, los ramos que considere convenientes para su mejor a
 
 VI.- Nombrar Presidente Sustituto, de entre sus miembros, en caso de falta definitiva del propietario y el suplente;
 
-VII.- Conceder permiso al Presidente Municipal para ausentarse del territorio del Municipio por más de diez días o licencia para separarse de su cargo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2003)</small>
+
+VII.- Conceder licencia al Presidente Municipal para separarse de su cargo;
 
 VIII.- Proponer al Congreso del Estado, cuando sea necesario, el establecimiento de nuevas secciones municipales o la supresión de las existentes;
 
@@ -1643,6 +1645,8 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 ### CAPITULO I. FALTAS Y LICENCIAS DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 92.
 
 Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos del Municipio:
@@ -1703,23 +1707,29 @@ Son aplicables supletoriamente al presente titulo, las disposiciones de la Ley d
 
 ###### ARTICULO 99.
 
-Los servidores públicos municipales, necesitan licencia del Ayuntamiento para separarse del ejercicio de sus funciones cuando hayan sido nombrados por el mismo.
+Las faltas de los servidores públicos municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de seis meses, salvo en los casos debidamente justificados.
 
-Las faltas de los servidores públicos municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de quince días.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 100.
 
-El Presidente Municipal no podrá ausentarse del territorio del municipio por más de diez días sin permiso del Ayuntamiento; cuando deba ausentarse por un término de hasta diez días, bastará con que dé aviso de su salida, con el objeto de que el propio Ayuntamiento designe de entre sus regidores, al que deba atender los asuntos de carácter administrativo, hasta el regreso del Presidente Municipal.
+En ejercicio de sus funciones, el Presidente Municipal no podrá ausentarse del territorio del municipio por más de diez días.
 
-Cuando el Presidente Municipal salga del territorio municipal dos días o menos o en días inhábiles para la administración, bastará con que dé aviso al Secretario para que éste se encargue de atender los asuntos de carácter administrativo, sujetándose a las atribuciones que le otorga la propia ley, sin invadir las facultades que le corresponden al Presidente Municipal. En caso de ser necesario, el Ayuntamiento designará al regidor que se encargue de presidir las sesiones de aquél.
+Cuando deba ausentarse por un término de diez días o menos, bastará con que dé aviso de su salida al Ayuntamiento, con el objeto de que este último designe de entre sus regidores, al que deba encargarse del despacho de los asuntos de la Presidencia, hasta el regreso del Presidente Municipal.
+
+Cuando el Presidente Municipal salga del territorio de su municipio por dos días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que de aviso al Secretario del mismo para que éste se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden al Presidente Municipal.
+
+Si el Presidente Municipal requiere ausentarse por más de diez días, deberá solicitar licencia en los términos del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 101.
 
-El Presidente Municipal no podrá separarse por tiempo alguno del ejercicio de sus funciones sin licencia del Ayuntamiento.
+El Presidente Municipal, los regidores y el síndico no podrán separarse del ejercicio de sus funciones sin licencia del Ayuntamiento. El resto de los servidores públicos municipales tampoco podrán hacerlo sin licencia del Presidente Municipal.
 
-En caso de licencia se llamará al suplente quien estará obligado a desempeñar el cargo o a justificar su negativa ante el Ayuntamiento; aceptada la justificación, el propio Ayuntamiento designará entre sus miembros al que deba desempeñarlo.
+En caso de falta temporal o definitiva del Presidente Municipal se llamará al suplente, quien estará obligado a desempeñar el cargo o a justificar su negativa ante el Ayuntamiento; aceptada la justificación, el propio Ayuntamiento designará de entre sus miembros al que deba desempeñarlo.
+
+En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley, el Secretario del Ayuntamiento quedará encargado del despacho de los asuntos de la Presidencia, siempre que entre la falta y la protesta no transcurran más de dos días. Si en la rendición de protesta se prolongara por más de dos días, contados a partir de la fecha en que el Presidente Municipal se hubiera separado de su encargo, o cuando la falta sea definitiva, el despacho de los asuntos quedará a cargo del Regidor de Gobernación, hasta el momento en que rinda protesta el suplente o el regidor que sea designado para desempeñar el cargo.
 
 ###### ARTICULO 102.
 
@@ -3324,6 +3334,12 @@ P.O. 16 DE ABRIL DE 2003.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 11 DE JUNIO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2003.
 
 ###### ARTICULO UNICO.
 
