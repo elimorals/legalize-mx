@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1938-05-12"
+last_updated: "1941-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 1941.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -2276,103 +2276,85 @@ Todos los que no intervinieren oficialmente en el juicio, cualquiera que sea su 
 
 En todo lo demás relativo a la policía de la audiencia, se observarán las disposiciones conducentes de este Código.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
+
 ### CAPITULO V. Procedimientos para el juicio de responsabilidades
 
 ###### ARTICULO 389.
 
-Cuando se consigne a un menor al Tribunal para Menores, éste designará de entre sus miembros al que, por su sexo y condiciones personales, sea el más indicado para instruir el expediente respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 390.
 
-El instructor nombrado practicará las diligencias que, a su juicio, sean necesarias para comprobar los hechos base de la consignación y la participación que en ellos haya tenido el menor, e investigar cuál ha sido la educación de éste, su instrucción, sus condiciones físicas y mentales y si ha estado física o moralmente abandonado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 391.
 
-La ley deja al recto criterio y a la prudencia del Instructor, la forma de practicar las diligencias a que se refiere el artículo anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 392.
 
-Terminada la investigación, el Tribunal se instalará en pleno y dictará la resolución correspondiente. A la audiencia sólo podrán concurrir, por medio de tarjeta, las personas mayores de edad, a quienes el Tribunal entregue dicha tarjeta.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 393.
 
-Los incidentes se substanciarán conforme a las reglas que este Código fija.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 394.
 
-El Tribunal sólo podrá fijar en sus resoluciones las medidas señaladas en el artículo 120 del Código Penal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 395.
 
-Cuando un menor de dieciocho años cometa una infracción, será entregado al Tribunal para Menores, el que decidirá si ha lugar a aplicarle una medida tutelar y la clase de ésta, de acuerdo con las disposiciones siguientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 396.
 
-Si el menor se encontrare moralmente abandonado, pervertido o en peligro de serlo y fuere menor de doce años, el Tribunal de Menores lo entregará a un establecimiento de educación o a una familia digna de confianza, donde pueda educársele y ser vigilado por la persona que designe el Departamento de Prevención Social.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-Cuando el Tribunal lo estime procedente, podrá dejar el menor a su familia, pero vigilando su educación.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 397.
 
-Si el estado del menor de doce años exigiere un tratamiento especial, por ser enfermo mental, ciego, sordomudo o epiléptico, el Tribunal prescribirá, previo dictamen médico, el tratamiento apropiado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 398.
 
-Si el menor de doce años no estuviere moralmente abandonado, ni pervertido, ni en peligro de estarlo, y si su estado no exigiere un tratamiento especial, el Tribunal lo amonestará o le aplicará arrestos escolares. En este caso, advertirá y aconsejará a los padres del menor del modo más conveniente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 399.
 
-Si el menor de dieciocho años, pero mayor de doce, estuviere moralmente abandonado, pervertido, o en peligro de estarlo, el Tribunal ordenará su envío a una casa de corrección, en donde permanecerá el tiempo necesario para su educación.
-
-Cuando lo estime conveniente el Tribunal podrá entregar al menor a una familia digna de confianza en donde se vigilará su educación. Si esta providencia fuere insuficiente, a juicio del Departamento de Prevención Social, el Tribunal decretará el ingreso del menor a una casa de corrección o establecimiento adecuado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 400.
 
-El menor podrá disfrutar condicionalmente de libertad, siempre que hubiere demostrado una enmienda efectiva. El Tribunal de Menores decretará dicha libertad.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-El Departamento de Prevención Social cuidará del sostenimiento, de la educación y de la vigilancia del libertado, cuando así proceda, fijando las reglas de conducta que estime convenientes, como la obligación de aprender un oficio, la de permanecer en determinado lugar, o la de abstenerse de bebidas alcohólicas. Si dentro de un año, a contar de la libertad, infringiere el menor las reglas de conducta impuesta, o si, de cualquier otro modo, abusare de su libertad, el Departamento de Prevención Social ordenará su reingreso a un establecimiento correccional. En caso contrario, la libertad será definitiva.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 401.
 
-Si el estado del menor de dieciocho años, pero mayor de doce, exigiere un tratamiento especial, por ser enfermo mental.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 402.
 
-Durante el tiempo de su reclusión, el menor estará obligado a trabajar de acuerdo con sus facultades.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 403.
 
-El Tribunal podrá pedir al Departamento de Prevención Social suspenda la duración de la reclusión y fije un término de prueba de seis meses a un año, si el carácter del menor y su anterior conducta dan esperanza de que esta medida lo enmendará y lo apartará de la comisión de nuevos delitos. El Departamento podrá imponer las reglas de conducta que estime conducentes a la enmienda.
-
-Si durante el periodo de prueba el menor quebrantare las reglas de conducta impuestas, o si, de cualquier otro modo faltare a la confianza en él depositada, el Departamento de Prevención Social hará efectiva la reclusión. En caso contrario, la condena se tendrá por no impuesta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 404.
 
-Si el menor de dieciocho años, pero mayor de doce, cometiere una grave infracción o demostrare alguna temibilidad, se le aplicará la sanción correspondiente, con las atenuaciones que procedan, a juicio del Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 405.
 
-En los delitos cometidos por mayores y menores de edad, conjuntamente, los procesos se seguirán por separado, y los Tribunales se remitirán, recíprocamente, copia de lo actuado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 406.
 
-El Departamento de Prevención Social cuidará de que los infractores menores de dieciocho años se encuentren siempre separados de los delincuentes adultos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 407.
 
-Contra las resoluciones dictadas por el Tribunal de Menores no se da recurso alguno. El Tribunal remitirá copia de sus resoluciones, y a los menores, al Departamento de Prevención Social, para que ejecute las medidas dictadas, archivando el expediente original.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ### CAPITULO I. Reglas generales
 
@@ -3950,49 +3932,41 @@ Los Presidentes de Debates de la ciudad de México, tendrán bajo sus órdenes u
 
 Cuando se efectúe un jurado de algún otro Partido Judicial, del Distrito Federal o de un Territorio, el tribunal correspondiente dispondrá la manera de atender el servicio taquigráfico de aquél.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
+
 ### CAPITULO X. Del Departamento de Prevención Social y otras dependencias
 
 ###### ARTICULO 660.
 
-Habrá en la ciudad de México, con jurisdicción en todo el Distrito Federal, dos Tribunales para Menores, cada uno de los cuales se compondrá de tres miembros, abogado, médico y educador, respectivamente. Cuando las necesidades lo ameriten, el Departamento de Prevención Social creará nuevos tribunales que se integrarán como antes se expresa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 661.
 
-Los jueces de los Tribunales para Menores, serán nombrados por el Departamento de Prevención Social. Los miembros del Tribunal serán inamovibles, a no ser por causa de responsabilidad en los términos de ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 662.
 
-Para ser miembro del Tribunal, se requiere:
-
-I.- Ser mexicano en el pleno goce de sus derechos civiles y políticos;
-
-II.- Tener treinta años cumplidos y gozar de notoria reputación y buena conducta;
-
-III.- Haber hecho trabajos de investigación especialista sobre la delincuencia juvenil; y
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-IV.- Tener el título de la especialidad a que se refiere el artículo 660.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 663.
 
-El Tribunal tendrá el personal que señale su Reglamento aprobado por el Departamento de Prevención Social y los presupuestos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 664.
 
-El Tribunal para Menores será competente para conocer de todos los casos que señale el Código Penal respecto a menores. En los delitos cometidos por mayores y menores de edad conjuntamente, los Tribunales Ordinarios no podrán, en ningún caso, ni por ningún motivo, extender su jurisdicción sobre el menor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 665.
 
-El Tribunal podrá comisionar a sus delegados para que lo auxilien en las primeras investigaciones cuando las infracciones se cometan en las Delegaciones o en los Municipios foráneos. Podrá también facultarlos para conocer de aquellos casos que sólo ameriten una amonestación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 666.
 
-Las resoluciones del Tribunal que impliquen prevención general, una corrección o un tratamiento de los menores, se comunicarán al Departamento de Prevención Social para su ejecución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 667.
 
-En cada Territorio habrá un Tribunal para Menores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 668.
 
@@ -4072,7 +4046,7 @@ XIV.- Formar listas de Jurados para el Distrito y Territorios Federales;
 
 XV.- Formular el reglamento interior del Departamento y someterlo a la aprobación del C. Secretario de Gobernación; y
 
-XVI.- Nombrar el personal del Tribunal de Menores y vigilar el funcionamiento de esta institución.
+XVI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
 
 ###### ARTICULO 675.
 
@@ -4187,3 +4161,15 @@ SE TRANSCRIBE EL PUNTO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
 ###### ARTICULO 4°.
 
 Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 26 DE JUNIO DE 1941.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente ley comenzará a regir a partir de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan los Capítulos IV Título Tercero y VIII Título Séptimo, y fracción XVI del artículo 674 del Código de Procedimientos Penales para el Distrito y Territorios Federales.
