@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "2001-11-01"
+last_updated: "2003-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2001.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 25 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -1626,3 +1628,35 @@ SEGUNDO. Las referencias que (sic) ordenamientos administrativos hagan a la Dire
 Las referencias que el Reglamento de la Ley Orgánica de la Procuraduría General de la República y otros ordenamientos administrativos hagan a la Policía Judicial Federal, se entenderán hechas al personal policial integrado en la Agencia Federal de Investigación.
 
 TERCERO. El Procurador dispondrá la transferencia de los recursos humanos, financieros y materiales necesarios para la operación de la Agencia Federal de Investigación y las unidades administrativas que se crean por virtud de este Decreto, de conformidad con el Presupuesto de la Procuraduría General de la República y las disposiciones aplicables.
+
+D.O.F. 25 DE JUNIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente ordenamiento quedará abrogado el Reglamento de la Ley Orgánica de la Procuraduría General de la República, publicado el veintisiete de agosto de mil novecientos noventa y seis, y se derogarán todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que a la entrada en vigor de este Reglamento se estén tramitando en las Subprocuradurías de Procedimientos Penales "A", "B" y "C" y las Direcciones Generales de Control de Procedimientos Penales "A", "B", "C", y del Ministerio Público Especializado "A", "B" y "C", pasarán al conocimiento de las unidades administrativas que asuman sus atribuciones, salvo lo que disponga el Procurador mediante Acuerdo. Las demás áreas deberán entregar los asuntos a su cargo a aquéllas a las que se les hayan atribuido las funciones correspondientes.
+
+Los órganos colegiados que al momento de la entrada en vigor del presente Reglamento continúen en funciones, se conformarán por las unidades administrativas y órganos que asuman las atribuciones de los integrantes anteriores. Dichos colegios serán presididos por el servidor público que forme parte del órgano colegiado, en el orden previsto en el artículo 2 de este Reglamento, salvo disposición específica del presente ordenamiento o del Procurador.
+
+###### ARTÍCULO CUARTO.
+
+La Oficialía Mayor de la Procuraduría, previo acuerdo del Procurador, realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestal.
+
+###### ARTÍCULO QUINTO.
+
+Las fiscalías especiales creadas mediante Acuerdo del Procurador, antes de la entrada en vigor del presente Reglamento, continuarán realizando sus funciones hasta el momento en que concluyan el objeto para el que fueron establecidas.
+
+###### ARTÍCULO SEXTO.
+
+La Coordinación General de Investigación que venía formando parte de la plantilla orgánica de la Subprocuraduría de Coordinación General y Desarrollo, subsistirá en sus funciones adscrita a la unidad administrativa que determine el Procurador, con las facultades previstas en el artículo 4 fracciones I, IV, V y VI de la Ley Orgánica, y continuará conociendo de las averiguaciones previas y procesos penales relacionados con los homicidios de José Francisco Ruiz Massieu y Juan Jesús Posadas Ocampo hasta su conclusión. Las averiguaciones previas y procesos penales relacionados con el homicidio de Luis Donaldo Colosio Murrieta igualmente pasarán al conocimiento de la Coordinación de referencia hasta su conclusión.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto entren en vigor las normas reglamentarias de la Secretaría de la Función Pública, las menciones que en el presente Reglamento se hagan a dichas normas, se entenderán referidas al Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
