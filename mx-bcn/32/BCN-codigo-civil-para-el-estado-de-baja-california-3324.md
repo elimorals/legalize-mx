@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1987-07-31"
+last_updated: "1992-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2423,19 +2423,15 @@ Los derechos y obligaciones que resultan del parentesco natural, no se extinguen
 
 La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 402.
 
 La adopción puede revocarse:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
-
 I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 394, cuando fueren de domicilio conocido, y a falta de ellas, al Ministerio Público y al Sistema Para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
-
 II.- Por ingratitud del adoptado; oyendo al Sistema Para el desarrollo Integral de la Familia.
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1987)</small>
 
 III.- Cuando dejare de reunirse los requisitos a que se refieren los Artículo 387 de este Código y 908 del Código de Procedimientos Civiles, a juicio del sistema Para el Desarrollo Integral de la Familia.
 
@@ -4061,13 +4057,27 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 715.
 
 Son objeto del patrimonio de la familia:
 
 I.- La casa habitación de la familia;
 
-II.- En algunos casos, una parcela cultivable.
+II.- El terreno a su alrededor;
+
+III.- Los muebles y útiles de uso ordinario de la familia no siendo de lujo, a juicio del juez;
+
+IV.- Los libros, aparatos, instrumentos y útiles que sirvan para el ejercicio de la profesión u oficio;
+
+V.- Los animales domésticos, siempre que no constituyan en si un negocio independiente;
+
+VI.- Las provisiones y forrajes;
+
+VII.- En algunos casos, una parcela cultivable;
+
+VIII.- La maquinaria e instrumentos propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca y estén en relación con la extensión del cultivo, a juicio del juez.
 
 ###### ARTICULO 716.
 
@@ -4095,11 +4105,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 722.
 
-El valor máximo de los bienes afectos al patrimonio familiar será de cuatro veces el salario mínimo general elevado al año en Baja California.
+El valor máximo de los bienes afectados al patrimonio de familia conforme al Artículo 715, será la cantidad que resulte de multiplicar por 4,550 el importe del salario mínimo general diario vigente en el Estado de Baja California, en la época en que se constituya el patrimonio.
 
 ###### ARTICULO 723.
 
@@ -14607,7 +14617,7 @@ XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
 ###### ARTICULO 2870.
 
-Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
+Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuánto le fueren favorables.
 
 ###### ARTICULO 2871.
 
@@ -15016,3 +15026,9 @@ P.O. 31 DE JULIO DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, treinta días después al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano informativo del Gobierno del Estado.
