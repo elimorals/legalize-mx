@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1981-04-08"
+last_updated: "1981-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1981.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -5545,7 +5545,7 @@ I.- A formar a sus expensas, con citación del dueño, un inventario de todos el
 
 > <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
 
-II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 435.
+II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 435.
 
 ###### Artículo 1005.
 
@@ -9445,19 +9445,25 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin empleo de mecanismos, instrumentos, etc., a que se refiere el Artículo anterior, y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1981)</small>
+
 ###### Artículo 1799.
 
-La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello no sea posible, en el pago de daños y perjuicios:
+La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello no sea posible, en el pago de daños y perjuicios.
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando por base la utilidad o salario que percibe.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total, permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará en cuenta el salario que perciba la víctima y se extenderá el número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo, en la inteligencia de que, para estos efectos, al (sic) cantidad que se tome como base no podrá ser inferior del salario mínimo general, vigente en el lugar en que se realice el daño, ni exceder del cuádruplo de dicho salario.
 
-II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización.
+Si la víctima no percibe utilidad o salario o no pudiere determinarse éste, el pago se acordará tomando como base el salario mínimo.
 
-III.- Si la víctima no percibe utilidad o salario o no pudiere determinarse éste, el pago se acordará tomando como base el salario mínimo.
+En caso de muerte, tienen derecho a la indemnización quienes hubieren dependido económicamente de la víctima o aquellos que quienes ésta dependía, y a falta de unos y otros, los herederos de la propia víctima.
 
-IV.- Los créditos por indemnización cuando la víctima fuere un asalariado, son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos.
+Además de la indemnización por causa de muerte o incapacidad para el trabajo, si el daño se causa a la persona, deben pagarse a ésta o a quien los haya efectuado, los gastos médicos y de medicina realizados con motivo del daño.
 
-V.- Las anteriores disposiciones se observarán en el caso del artículo 2499 de este Código.
+Deben pagarse también, en su caso, a quien los haya erogado, los gastos funerarios, los cuales deben estar en relación a las posibilidades que hubiere tenido la víctima.
+
+Los créditos por indemnización, cuando la víctima fuere un asalariado, son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
+
+Las anteriores disposiciones se observarán en el caso del artículo 2529 de este Código.
 
 ###### Artículo 1800.
 
@@ -11969,7 +11975,7 @@ Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, p
 
 ###### Artículo 2303.
 
-El arrendador responde de los vicios ó defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la disminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento, antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
+El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la disminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento, antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
 
 ###### Artículo 2304.
 
@@ -14741,7 +14747,7 @@ El descubrimiento de nuevos títulos o documentos, no es causa para anular o res
 
 ###### Artículo 2839.
 
-Es nula la transación sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
+Es nula la transacción sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
 
 ###### Artículo 2840.
 
@@ -14993,7 +14999,7 @@ De las Oficinas del Registro.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que ha (sic) habla anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO II.
 
@@ -15175,7 +15181,7 @@ Si el documento en que conste alguna de las operaciones que se mencionan en el p
 
 ###### Artículo 2900.
 
-Los encargados del Registro son responsables, además de las penas en que pueden incurrir, de los daños y pefijuicios a que dieren lugar:
+Los encargados del Registro son responsables, además de las penas en que pueden incurrir, de los daños y perjuicios a que dieren lugar:
 
 I.- Si rehúsan sin motivo legal o retardan sin causa justificada la inscripción de los documentos que les sean presentados;
 
@@ -15498,3 +15504,9 @@ P.O. 8 DE ABRIL DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia diez días después de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE AGOSTO DE 1981.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
