@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2003-05-26"
+last_updated: "2004-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 26 de mayo de 2003.
 
@@ -167,7 +169,7 @@ f). Seguridad, protección y vigilancia interna.
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
-III. Anexar a la solicitud:
+III. Anexar le solicitud:
 
 a). Copia Certificada del acta de nacimiento, o acta constitutiva así como de las modificaciones a sus estatutos, si es persona moral;
 
@@ -221,7 +223,7 @@ En caso de resultar procedente la expedición de la autorización, la Secretarí
 
 ###### Artículo 11.
 
-La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los limites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
+La autorización que se otorgue es intransferible y especificará los datos generales del titular tales como nombre o razón social, en su caso, el nombre del representante del y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los límites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
 
 La vigencia de la autorización será de un año, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
 
@@ -383,7 +385,9 @@ II. Hacer constar en su papelería y documentación el número de autorización 
 
 III. Permitir y facilitar las visitas de verificación y demás actuaciones que efectúe la Secretaria;
 
-IV. Informar a la autoridad competente los hechos de que tenga conocimiento su personal, de los cuales se pueda desprender la comisión de un delito;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+IV. Informar a la autoridad competente los hechos de que tenga conocimiento su personal, de los cuales se pueda desprender la comisión de un delito, sin que ello demerite sus funciones y su ejecución a la potestad y vigilancia del Ministerio Público;
 
 V. Presentar ante la Secretaría los planes, programas y manuales, de capacitación de su personal operativo, previamente certificados por el Instituto;
 
@@ -610,3 +614,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
