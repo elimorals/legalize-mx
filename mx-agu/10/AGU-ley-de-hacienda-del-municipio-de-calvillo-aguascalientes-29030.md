@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-calvillo-aguascalientes-29030"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1994-06-12"
+last_updated: "1995-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
 
 Ley publicada en la Sección Cuarta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -229,41 +229,47 @@ Si transcurrido dicho plazo no se expresan los datos o no se presentan los docum
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 22.
 
-Es objeto de este impuesto:
+El valor del inmueble será el que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+Para los efectos de esta Ley se entiende por adquisición la que se derive de:
 
-II.- La compra-venta en la que el vendedor se reserve la propiedad, aun cuando la transferencia de ésta opere con posterioridad;
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
+
+II.- La compra-venta en la que el vendedor se reserva la propiedad aun cuando la transferencia de ésta opere con posterioridad;
 
 III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
 IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
 
-V.- Fusión de sociedades;
+V.- Fusión y escisión de propiedades;
 
 VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+VII.- Constitución del usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
 VIII.- Prescripción positiva;
 
-IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles;
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
 
-X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación; y
+X.- Enajenación a través de fideicomiso; y
 
-XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge.
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al propietario o cónyuge.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>N. DE E. EL PRESENTE ARTICULO NO SE MENCIONA EN EL DECRETO NUMERO 111, PUBLICADO EN EL P.O. DE FECHA 11 DE AGOSTO DE 1991; POR TAL MOTIVO, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-ARTICULO 22 BIS.- En la transmisión de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante dentro de los sesenta días naturales siguientes al otorgamiento del contrato, no se cobrará el impuesto.
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este artículo.
+
+###### ARTICULO 22 Bis.
+
+(DEROGADO, P.O. 4 DE JUNIO DE 1995)
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -343,15 +349,23 @@ No se pagará el impuesto establecido en esta ley:
 
 DE LA RESPONSABILIDAD SOLIDARIA
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 28.
 
-En las adquisiciones que se hagan constar en Escritura pública los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, harán constar el impuesto en la Escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda en el domicilio de la ubicación del inmueble. Se presentará declaración por todas las adquisiciones aun cuando no haya impuesto a enterar.
+El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en el que se realice cualquiera de los supuestos que a continuación se señalan:
 
-Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en Escritura pública operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectuó dicho pago.
+I.- Cuando se constituya o se adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
-El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios, o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V.- En los casos no previstos en las fracciones anteriores cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -393,7 +407,7 @@ Los notarios o quienes hagan sus veces, los registradores y las autoridades comp
 
 En todo caso, al margen de la matriz y en los testimonios deberá asentarse la constancia de pago o la de que éste no se causa.
 
-#### SECCION SEPTIMA. De las Obligaciones de los Contribuyentes
+#### SECCION SEPTIMA (SIC). De las Obligaciones de los Contribuyentes
 
 ###### ARTICULO 33.
 
@@ -427,19 +441,15 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
-> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 111, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 104, PUBLICADO EN EL P.O. DE 12 DE JUNIO DE 1994, ES ADICIONADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 40.
 
-Se exceptúa del pago del pago de este impuesto:
+No se pagará el impuesto establecido en esta Ley:
 
-I.- (DEROGADA, P.O. 11 DE AGOSTO DE 1991)
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 1994)</small>
-
-II.- Las Asociaciones constituidas conforme a la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
+II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
 ### CAPITULO III. Del Impuesto Sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -824,3 +834,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 12 DE JUNIO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
