@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1994-12-17"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -175,25 +175,27 @@ I.-Empadronarse en la Oficina de Hacienda de su jurisdicción, dentro de los die
 
 II.- Dar aviso a la Secretaría de Finanzas y Planeación, por conducto de la Oficina de Hacienda correspondiente, en los casos de cambio de su domicilio así como en los de suspensión o cambio de la actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contando a partir del día en que ocurra el cambio.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-III.- Llevar un libro de ingresos y egresos donde consten sus actividades, debidamente sellado y autorizado por la oficina de hacienda del estado.
+III.-Llevar libro de ingresos y egresos o sistemas de contabilidad donde consten sus actividades
 
-IV.-Llevar talonarios de recibos autorizados por las Oficinas de Hacienda del Estado
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-V.-Expedir recibos a sus clientes, conservando los talonarios correspondientes; y
+IV.-Expedir recibos de honorarios que reúnan los requisitos fiscales, conservando los talonarios correspondientes;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+V.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
-VI.- Presentar declaracion mensual ante la oficina de hacienda del estado de su domicilio fiscal:
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+VI.-Presentar declaración mensual ante la Oficina de Hacienda del Estado de su domicilio fiscal, aun en los casos en que no se determine impuesto a pagar;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 VII.- Presentar durante el mes de abril, copia de la declaración anual (año de calendario) del Impuesto al Ingreso de las Personas Físicas de la Ley del Impuesto Sobre la Renta; y
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-VIII.- Presentar los documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este Impuesto.
+VIII.-Presentar los avisos, declaraciones, solicitudes, datos o informes, copias, libros, documentos o dispositivos magnéticos que le soliciten las Autoridades Fiscales Estatales en ejercicio de sus facultades de comprobación respecto a este impuesto.
 
 ###### ARTICULO 15.
 
@@ -207,17 +209,27 @@ II.-Proporcionar los datos y documentos que les sean solicitados por autoridades
 
 (DEROGADO, G.O. 31 DE DICIEMBRE DE 1985)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 17.
 
-La Secretaría de Finanzas y Planeación, podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+Las Autoridades Fiscales, podrán determinar presuntivamente los ingresos de los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
-I.-Cuando no presenten sus declaraciones y no lleven los libros o registros, o no expidan la documentación comprobatoria a que están obligados; y
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+I.-Cuando no presenten sus declaraciones, se detecten alteraciones en la contabilidad tendientes a evadir el exacto cumplimiento de sus obligaciones fiscales, no lleven o no presenten sus libros y registros de contabilidad , no expidan recibos, facturas o cualquier otro documento que señalen las leyes fiscales del Estado.
 
 II.-Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingreso superior, cuando menos de un 10% al declarado por el causante.
 
-Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+III.-Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las Autoridades Fiscales.
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Para realizar la determinación presuntiva a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE DIVERSIONES Y
 
@@ -225,7 +237,7 @@ ESPECTACULOS PUBLICOS PARA LA
 
 ASISTENCIA PUBLICA
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS
 
@@ -239,7 +251,7 @@ DE LA EDUCACION
 
 ###### ARTICULO 18.
 
-Son objeto de este impuesto las erogaciones realizadas por la asistencia a diversiones y espectáculos públicos, celebrados dentro del territorio del Estado, así como por el uso en lugares públicos de aparatos electrónicos, mecánicos o electromecánicos con el propósito de diversión.
+Son objeto de este impuesto la erogación que realicen personas que adquieran boletos para la asistencia a espectáculos públicos celebrados en territorio del Estado, así como por el uso en lugares públicos de aparatos electrónicos, mecánicos o electromecánicos con el propósito de diversión.
 
 ###### ARTICULO 19.
 
@@ -249,11 +261,11 @@ Son sujetos de este impuesto, quienes efectúen las erogaciones a que se refiere
 
 La base del impuesto, será el importe total del boletaje adquirido o de la cuota pagada o que deba pagarse.
 
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 21.
 
-Este impuesto se causará, liquidará y pagará sobre la base que en cada caso se determine, conforme a la siguiente:
+Este impuesto se retendrá, liquidará y pagará conforme a la siguiente:
 
 T A R I F A
 
@@ -375,11 +387,13 @@ Para el cumplimiento de las disposiciones de este Capítulo, los Inspectores o I
 
 Las autoridades municipales deberán dar aviso con la anticipación necesaria a la Oficina de Hacienda del Estado de su jurisdicción, de los permisos que otorguen para la celebración de diversiones y espectáculos públicos.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 32.
 
-La Secretaría de Finanzas y Planeación del Estado, tendrá la facultad de fijar cuotas mínimas para el pago de este impuesto, pero en los siguientes casos, la cantidad a pagar que resulte de la aplicación de las tasa establecida en el artículo 21 párrafo primero, no podrá ser inferior a las consignadas en la siguiente:
+Tratándose de diversiones, la Secretaría de Finanzas y Planeación del Estado podrá fijar cuotas mínimas cuando la cantidad retenida a pagar, al aplicar la tasa a que se refiere el artículo 21 fracción VIII de esta Ley, resulte inferior a la establecida en la siguiente:
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 T A R I F A :
 
@@ -723,19 +737,31 @@ De 10 años en adelante. 05
 
 Para los efectos de aplicación de este Impuesto se consideran:
 
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+I.-VEHICULOS COMPACTOS.-Todos los automóviles que cuentan con 4 cilindros o menos.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+II.-VEHICULOS MEDIANOS.-Todos los automóviles que cuentan con 6 cilindros.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+III.-VEHICULOS GRANDES.-Todos los automóviles que cuentan con 8 cilindros o más.
+
 VEHICULOS COMPACTOS.-Tales como los de la Marca Volkswagen tipo: Sedan, Caribe, Golf, Brasilia; Marca Datsun tipo: Sedan, Guayin, Samurai, Ninja, Hatch-Back, Tsuru; Marca Renault tipo: Encore, Aliance, Renault 5 Mirage, Renault 12 Guayin, Renault 12 Routier, Renault 12 Routier Guayin, Renault 4, Renault 8 s, Renault 10 y Renault 12; y demás equiparables.
 
 VEHICULOS MEDIANOS.-Tales como los de Marca Volkswagen tipo: Combi, Atlantic, Corsar, Jetta; Marca Datsun tipo: Hicari Coupe, Ichi Van, Samurai-Tsuru; Marca Chrysler de México, S.A. tipo Shadow, Dart, Dart K., Volare, Dart Guayin; Marca Vehículos Automotores de México, S.A. tipo: Gremlin, AMX, Rally; Marca General Motors de México, S.A. de C.V. tipo: Citation Sedan; Marca Ford Motor Company, S.A. tipo: Topaz; y demás equiparables.
 
 VEHICULOS GRANDES.-Tales como los de la marca Chrysler de México, S.A. tipo: Spirit, Phantom, Ram Charger, Le Baron, Magnun, New Yorker, Córdoba; marca Vehículos Automotores de México, S.A. tipo: Lerma Lift Back; Marca General Motors, S.A. de C.V. tipo: Cutlass, Celebrity, Century, Citation Coupe, Montecarlo, Caprice, Malibu; Marca Ford Motor Company, S.A. tipo: Taurus, Thunderbid, Cougar, Mustang, Gran Marquis, Galaxie, Cuayin 8 Cil. y Fairmont; y demás equiparables.
 
-CATEGORIA A
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Camiones (Pick-Ups, Estacas, Plataformas, Panel, Hormiga, etc.) Cualquiera que sea su marca, cuyo peso vehicular sea hasta 8,000 Kgs., Jeep Civil Universal tracción sencilla o doble y Cherokes Vagoneta 4 ptas. 6 y 8 Cil. (doble tracción); Ford Bronco, Club Vagoneta de pasajeros; Chevrolet C. 10703 y Chevy Blazer Van 10, 20 y 30 y Dodge D-100 Van y Sportman Vagoneta, Jeep y Vagoneta Ford Chateau Econoline; y demás equiparables.
+a).-CATEGORIA A.-Camiones Pick-Up, estacas, Plataformas, Panel, hormiga, cualesquiera que sea su Marca, cuyo peso vehicular sea hasta 8,000 kgs., y además equiparables.
 
-CATEGORIA B
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Camiones de cualquiera que sea su Marca y tipo cuyo peso vehicular sea mayor de 8,000 Kgs.; excepto Pick-Ups, Panels y Jeep; y demás equiparables.
+b).-CATEGORIA B.-Camiones de cualesquiera que sea su Marca y tipo cuyo peso vehicular sea mayor de 8,000 Kgs., y demás equiparables.
 
 CATEGORIA C
 
@@ -775,7 +801,9 @@ ARTICULO-33-J.-Son sujetos responsables solidarios de este Impuesto:
 
 I.-Los Funcionarios o Empleados Públicos que autoricen cualquier trámite relacionado con los vehículos de motor gravados por este Impuesto, sin haberse cerciorado de su pago.
 
-II.-El adquirente de vehículos de motor por los endosos anteriores.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+II.-El adquiriente o enajenante de vehículos a que se refiere el artículo 33-A de esta Ley, por endosos anteriores; y
 
 III.-Los comisionistas o intermediarios que intervengan en las adquisiciones.
 
@@ -821,7 +849,7 @@ a).-Dotación de placas, calcomanías y expedición de tarjetas de circulación 
 
 b).-Expedición de licencia para conducir vehículos de motor;
 
-c).-Otros servicios cualquiera que sea su naturaleza, que tengan como causa los vehículos de motor; y
+c) (DEROGADO, G.O. 28 DE DICIEMBRE DE 1995)
 
 III.-Las contribuciones por mejoras.
 
@@ -893,11 +921,11 @@ No causarán los derechos a que se refiere este Artículo, la legalización de f
 
 Por los servicios prestados por la Secretaría General de Gobierno, a través del Registro Público de la Propiedad, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-I.- Por la inscripción de documentos que contengan datos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada N$ 10.00 o fracción;
+I.-Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base al mayor valor que resulte de comparar el valor catastral asignado por la Oficina correspondiente con el consignado en la operación. Por cada $ 10.00 o fracción:
 
-N$0.04
+$ 0.04
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -927,39 +955,39 @@ d) Por la inscripción de constitución de régimen de propiedad de condominio.
 
 Por cada vivienda o local: 2 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-II.-Por la inscripción de documentos relativos a fianzas hipotecas, reconocimientos, de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero garantizados con prenda e hipoteca, en el Registro Público de la Propiedad y del Comercio, por cada N$ 10.00 o fracción.
+II.-Por la inscripción de documentos relativos a fianza, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad y del Comercio, por cada $ 10.00 o fracción.
 
-N$0.02
+$ 0.02
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 500 salarios mínimos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-III.- Por el registro de catas y demás diligencias relativas a embargos o cédulas hipotecarias decretadas por la unidad judicial o administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 100.00 o fracción.
+III.-Por el registro de actas y demás diligencias relativas a embargos definitivos o cédulas hipotecarias decretadas por la Autoridad Judicial o Administrativo sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 10.00 o fracción.
 
-$ 0.50
+$ 0.06
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-IV.- Por la inscripción de arrendamientos hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada N$10.00 o fracción.
+IV.-Por la Inscripción de arrendamiento hasta por cinco años, sobre el importe total de la renta durante el tiempo estipulado en el contrato, por cada $ 10.00 o fracción.
 
-N$0.10
+$ 0.10
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-a).- Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes, por cada N$10.00 o fracción.
+a).-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes, por cada $ 10.00 o fracción.
 
-N$0.05
+$ 0.06
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O 28 DE DICIEMBRE DE 1995)</small>
 
-b).- Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años por cada N$10.00 o fracción.
+b).-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años, por cada $10.00 o fracción.
 
-N$0.20
+$ 0.20
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -977,17 +1005,23 @@ VI.- Por la inscripción de cualquier tipo de testamentos, contratos de depósit
 
 VII.- Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-a).-Hasta N$1,000.00 6 Salarios Mínimos.
+a).-Hasta $ 1,000.00
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+6 salarios mínimos.
 
-b).-Por lo que exceda de N$1,000.00 por cada N$100.00 o fracción. N$0.02
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+b).-Por lo que excede de $ 1,000.00 por cada $ 100.00 o fracción.
 
-c).- Inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada N$10.00 o fracción. N$0.015
+$ 0.02
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+c).-Por la inscripción de actas y estatutos, de sociedades cooperativas, cualesquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada $10.00 o fracción.
+
+$ 0.16
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -995,9 +1029,11 @@ d).- Por la inscripción de documentos cuando se modifique el capital de socieda
 
 6 salarios mínimos.
 
-Además sobre el monto de capital variable, por cada N$10.00 o fracción:
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-N$0.005
+Además sobre el monto de capital variable, por cada $10.00 o fracción.
+
+$ 0.006
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1023,23 +1059,27 @@ h).-Por la inscripción de poderes y su cancelación.
 
 4 salarios mínimos
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $ 100.00 o fracción.
+i).-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $10.00 o fracción.
 
-$ 0.45
+$ 0.045
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 Si no tienen valor señalado y éste no puede determinarse se causará. 4 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O 28 DE DICIEMBRE DE 1995)</small>
 
-VIII.- Por la inscripción de la constitución de fideicomiso traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada N$10.00 o fracción. N$0.075
+VIII.-Por la inscripción de la constitución de un fideicomiso, traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $10.00 o fracción.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+$ 0.075
 
-Por la inscripción de la constitución del fideicomiso no traslativo de dominio cuando se determine su valor por cada N$10.00 o fracción. N$0.035
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Por la inscripción de la constitución del fideicomiso no traslativo de dominio cuando se determine su valor por cada $10.00 o fracción.
+
+$ 0.035
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -1167,9 +1207,11 @@ I.- Publicaciones:
 
 a).-Edicto de interés pecuniario, como las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos.
 
-> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Palabra por inserción: N$ 0.75
+Palabra por inserción:
+
+$ 0.75
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -1177,9 +1219,11 @@ b).- Palabra por inserción N$ 1.00
 
 Edicto de interés social, como cambio de nombre, póliza de defunción.
 
-> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Palabra por inserción: N$ 0.50
+Palabra por inserción:
+
+........$ 0.50
 
 > <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -1187,89 +1231,65 @@ c) Cortes de caja, balances o cualquier documento de formación especial. Por pl
 
 6 salarios mínimos
 
-> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Por Plana: N$ 150.00
+Por plana.
+
+$ 150.00
 
 II.-Ventas:
 
-a).-Gaceta extraordinaria de 1 a 24 planas.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-1 salario mínimo
+a).-Gaceta extraordinaria de0 1 a 24 planas. $26.00
 
-N$25.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-b).-Número extraordinario.
+b).-Número extraordinario. $60.00
 
-2.5 salarios mínimos
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-N$60.00
+c).-Alcances de 1 a 24 planas. $56.00
 
-c).-Alcances de 1 a 24 planas.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-1 salario mínimo
+d).-Alcances de 24 a 72 planas. $120.00
 
-N$50.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-d).-Alcances de 24 a 72 planas.
+e).-Alcances de 72 a 216 planas. $ 160.00
 
-1.5 salarios mínimos
+> <small>(REFORMADO, G.O 28 DE DICIEMBRE DE 1995)</small>
 
-N$120.00
+f).-Por copia de Gaceta. $100.00
 
-e).-Alcances de 72 a 216 planas.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-2 salarios mínimos
+g) Por un año de suscripción. $300.00
 
-N$150.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-f).-Por copia de Gaceta.
+h).-Por un año de suscripción foránea. $350.00
 
-0.10 de salario mínimo
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-N$100.00
+i).-Por un semestre de suscripción. $150.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-g).-Por un año de suscripción
+j).-Por un semestre de suscripción foránea. $200.00
 
-N$300.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+k).-Por ejemplar. $3.00
 
-h).- Por un año de suscripción foranea.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-N$350.00
+l).-Por un ejemplar atrasado. $16.00
 
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-i).- Por un semestre de suscripción.
-
-N$150.00
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-j).- Por un semestre de suscripción foranea.
-
-N$200.00
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-k).- Por un ejemplar.
-
-N$3.00
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-l).- Por un ejemplar atrasado.
-
-N$15.00
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
-
-m).-Sentencias, resoluciones, deslindes de caracter agrerio y acuerdo de licitación de obra pública, una plan.
-
-N$50.00
+m).-Sentencias, resoluciones, deslindes de carácter agrario y acuerdo de licitación de obra pública, una plana. $60.00
 
 > <small>(REFORMADA SU DENOMINACION. G.O. 24 DE DICIEMBRED E 1991)</small>
 
@@ -1297,13 +1317,33 @@ c).-Firmas de funcionarios de Gobierno del Estado.
 
 1 salario mínimo
 
-II.-Por registro de exhortos de trámite.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-1 salario mínimo
+II.-Por registro y diligenciación de exhortos de trámite.
 
-III.-Por diligenciación de exhortos de trámite.
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-2 salarios mínimos
+a).-Registro 1 salario mínimo
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+b) Diligenciación 2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+III.-Por actos realizadas por el Departamento Central del Registro Civil del Estado, como son:
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+a).-Expedición de copia certificada del estado civil de las personas.
+
+0.50 salario mínimo
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+b).-Expedición de constancias o certificaciones.
+
+0.50 salario mínimo
 
 IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero Judicial.
 
@@ -1322,6 +1362,12 @@ B).-El establecimiento de clubes de caza, tiro y otros de naturaleza similar.
 C).-El uso y almacenamiento de explosivos.
 
 30 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+VI.-Por Adhesión de "Apostilla" en un documento que deba surtir efectos en un País afiliado a la Convención de la Haya de 1981.
+
+6 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -1461,9 +1507,9 @@ B).-Reposición de una placa.
 
 4 salarios mínimos
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-C).-Canje anual de calcomanía y tarjeta de circulación:
+C).-Canje anual de calcomanía y tarjeta de circulación, el cual deberá hacerse dentro de los primeros tres meses de cada año.
 
 4 salarios mínimos
 
@@ -1579,35 +1625,35 @@ E).-Por la utilización de servicio oficial de depósito y custodia de vehículo
 
 Por día 0.20 salario mínimo
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-X.-Por el otorgamiento de concesión para prestar el servicio publico de transporte.
+X.-Por el otorgamiento de una concesión para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
 
-De 150 a 1000 salarios mínimos
+De 150 a 1000 Salarios Mínimos
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-XI.- Por la transmision por sucesion de los derechos de concesion para prestar el servicio publico en la modalidad de taxi y colectivo:
+XI.-Por la transmisión por sucesión de los derechos de una concesión para prestar el Servicio Público en cualquiera de sus modalidades.
 
 De 100 a 1000 Salarios Mínimos
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
-
-XII.-Por el otorgamiento de concesión para prestar el servicio público de grúas:
-
-Por grúa. 150 salarios mínimos
-
-Revalidación anual: 60 salarios mínimos
+XII.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
 > <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
 XIII.-Por la autorización para prestar el servicio público de déposito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte:
 
-150 salarios mínimos
+150 salarios mínimos;
 
 Revalidación anual:
 
 100 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XIV.-Por la transmisión por cesión de los derechos de una concesión para prestar el Servicio Público de Transporte de carga y de pasajeros en las modalidades de urbano, suburbano y foráneo, con ruta o itinenario fijo, con ruta fija, servicio "A" y "B", taxi, colectivo en automóvil, turismo, escolar, de personal de empresas y rural mixto carga pasaje.
+
+De 100 a 1,000 días de salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1623,15 +1669,21 @@ Por los servicios prestados por la Secretaría de Finanzas y Planeación del Est
 
 I.-Del Departamento de Catastro.
 
-a).-Por la expedición de certificados de valor catastral vigente.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+a).-Por la inscripción de la propiedad o posesión de bienes inmuebles en el catastro o la actualización de los datos ya inscritos, a solicitud del interesado.
 
 3 salarios mínimos
 
-b).-Por la expedición de constancias no especificadas.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+b).-Por la expedición de certificados de valor catastral provisional.
 
 3 salarios mínimos
 
-c).-.Por la certificación de planos expedidos por el Departamento independientemente del precio que señale por la venta del mismo.
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+c).-Por la expedición de constancias de inscripción en el Catastro.
 
 3 salarios mínimos
 
@@ -1645,7 +1697,7 @@ II.-Por la certificación de documentos públicos que hayan sido expedidos por l
 
 DE ENSEÑANZA MEDIA
 
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 50.
 
@@ -1657,25 +1709,31 @@ I.- Conferencias telefónicas:
 
 a).- Casetas telefónicas en un hilo.
 
-3 Minutos N$0.30
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Minuto excedente N$0.15
+3 Minutos $0.35
+
+Minuto excedente $0.15
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 b).- Castas telefónicas en dos hilos.
 
-3 Minutos N$0.60
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Minuto excedente N$0.20
+3 Minutos $0.60
+
+Minuto excedente $0.20
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 c).- Caseta radiotelefónica de Gobierno.
 
-3 Minutos N$0.75
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Minuto excedente N$0.25
+3 Minutos $0.75
+
+Minuto excedente $0.25
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1691,17 +1749,21 @@ II.-Telegramas:
 
 a).- Ordinarios y urbanos.
 
-10 Palabras N$1.50
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Palabra excedente N$0.15
+10 Palabras $1.50
+
+Palabra excedente $0.15
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 b).- Urgentes.
 
-10 Palabras N$3.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Palabra excedente N$0.30
+10 Palabras $3.00
+
+Palabra excedente $0.30
 
 III.-Abonados:
 
@@ -1709,31 +1771,39 @@ III.-Abonados:
 
 a).- Telefónicos en un hilo comunal, mensualmente:
 
-Oficina N$3.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Particular N$4.00
+Oficina $3.00
+
+Particular $4.00
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 b).- Telefónico de dos hilos comunal, mensualmente:
 
-Oficina N$5.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
-Particular N$7.00
+Oficina $5.00
+
+Particular $7.00
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 c).- Telefónicos en dos hilos directo:
 
-Mensualmente N$8.00
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE1995)</small>
+
+Mensualmente $8.00
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 d).- Suscriptores urbanos:
 
-Anualmente N$24.00
+> <small>(REFORMADO, G.O.28 DE DICIEMBRE DE 1995)</small>
 
-Depósito N$10.00
+Anualmente $24.00
+
+Depósito $10.00
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
@@ -1753,7 +1823,7 @@ LA SECRETARIA DE DESARROLLO URBANO
 
 ###### ARTICULO 52.
 
-Por los servicios prestados por la Dirección General de Enseñanza Media, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Educación y Cultura a través de la Dirección General de Educación Secundaria y la Dirección General de Educación Media Superior y Superior.
 
 I.-Inscripción 0.25 salario mínimo
 
@@ -3193,17 +3263,25 @@ V.-Los bienes de beneficencia;
 
 VI.-Los establecimientos y empresas del Estado;
 
-VII.-Los productos provenientes de la 'Gaceta Oficial' del Gobierno del Estado y publicaciones de la misma;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+VII.-Los productos provenientes de la "Gaceta Oficial" del Gobierno del Estado y Publicaciones de las mismas diferentes a los señalados en el artículo 46-B.
 
 VIII.-Los productos provenientes de la venta de impresos y papel especial;
 
 IX.-Almacenaje o guarda de bienes; y
 
-X.-Productos de archivo y productos diversos.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+X.-Provenientes de archivo.
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 XI.- LOS PRODUCTOS PROVENIENTES DEL DEPARTAMENTO DE CATASTRO.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XII.-Diversos.
 
 ###### ARTICULO 68.
 
@@ -3233,13 +3311,19 @@ VI.-Bienes y Herencias vacantes, Tesoros ocultos, herencias, legados, donaciones
 
 VII.-Honorarios;
 
-VIII.-Esquilmos;
+VIII.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
 IX.-Aportaciones del Gobierno Federal y de terceros para obras y servicios públicos a cargo del Gobierno del Estado para obras de beneficio social;
 
 X.-Los honorarios de ejecución, en los términos del inciso b) del artículo 33, del Reglamento para el cobro y aplicación de gastos de ejecución y pago de honorarios por notificación de créditos; y
 
-XI.-Aprovechamientos diversos.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XI.-Ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación o de pago.
+
+> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XII.-Aprovechamiento diversos.
 
 ## TITULO SEXTO. DISPOSICIONES GENERALES
 
@@ -3394,3 +3478,13 @@ G.O. 17 DE DICIEMBRE DE 1994.
 PRIMERO.-El presente ordenamiento entrará en vigor el día 1° de enero de 1995, previa su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
 
 SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 28 DE DICIEMBRE DE 1995.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1° de enero de 1996, previa su publicación en la "Gaceta Oficial", Organo del Gobierno del Estado de Veracruz.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de la disposición del Banco de México publicado en el Diario Oficial de la Federación del 6 de enero de 1994 todas las sumas en moneda nacional que en las disposiciones fiscales del Estado se encuentran expresados en "Nuevos Pesos" y su abreviatura "N$", a partir del 1° de enero de 1996 deberán entenderse como "Pesos" y su símbolo "$".
