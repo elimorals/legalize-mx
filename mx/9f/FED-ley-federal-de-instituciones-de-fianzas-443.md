@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1984-12-31"
+last_updated: "1988-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1988.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -977,7 +977,7 @@ Las instituciones de fianzas deberán rendir a la Secretaría de Hacienda y Cré
 
 Serán facultades ydeberes (sic) de la Comisión Nacional Bancaria y de Seguros, además de las que se le atribuyen en otros artículos de la presente Ley, las siguientes:
 
-I.- Actuar como cuerpo de consulta de la Secretaría de Hacienda y Crédito Público en los casos que se refieran al régimen afianzador y en los demás que la ley determine.
+I.- Actuar como cuerpo de consulta de la Secretaría de Hacienda y Crédito Público en los casos que se refieran al régimen afianzador y en los demás que la ley determine;
 
 II.- Hacer los estudios que se le encomienden y presentar a la Secretaría de Hacienda y Crédito Público, las sugestiones que estime adecuadas para perfeccionarlos; así como cuantas mociones o ponencias relativas al régimen afianzador estime procedente elevar a dicha Secretaría;
 
@@ -1281,11 +1281,11 @@ VII.- Los particulares podrán elegir libremente jueces federales o locales para
 
 VIII.- Las disposiciones de este artículo y del anterior, sólo serán aplicables a las fianzas otorgadas a favor de particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 95.
 
-Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito Federal, de los Estados y de los municipios, se harán efectivas conforme a las siguientes reglas:
+Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, se harán efectivas conforme a las reglas que a continuación se señalan, excepto las que se otorguen a favor de la Federación para garantizar obligaciones fiscales a cargo de terceros, caso en que se estará a lo dispuesto por el Código Fiscal de la Federación:
 
 (REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 19 DE MARZO DE 1954)
 
@@ -2090,3 +2090,17 @@ Las disposiciones administrativas vigentes que se hubiesen dictado anteriormente
 ###### ARTICULO SEXTO.
 
 Para el trámite de las infracciones cometidas antes de la vigencia del presente Decreto, se seguirá observando lo dispuesto por los textos anteriormente aplicables de esta Ley.
+
+D.O.F. 5 DE ENERO DE 1988.
+
+Disposición Transitoria
+
+Para efectos de lo dispuesto por este Artículo, se estará a la siguiente disposición transitoria:
+
+UNICA.- Los procedimientos de ejecución de fianzas otorgadas a favor de la Federación para garantizar obligaciones fiscales a cargo de terceros, que se hubieren iniciado antes de la vigencia de este Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por el artículo 95 de la Ley Federal de Instituciones de Fianzas.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrará en vigor el 30 de junio de 1988.
