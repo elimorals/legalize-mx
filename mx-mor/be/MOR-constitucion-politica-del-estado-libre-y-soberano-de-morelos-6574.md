@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2000-06-14"
+last_updated: "2000-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -122,11 +122,11 @@ II.- Los mexicanos nacidos fuera del territorio estatal, hijos de padre o madre 
 
 La adopción no producirá efectos en esta materia.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 11.
 
-Son morelenses por residencia los originarios de otras Entidades Federativas Mexicanas que residan habitualmente en el Estado por más de cinco años, a no ser que manifiesten ante la autoridad municipal sus deseos de conservar su calidad de origen.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+Son morelenses por residencia los originarios de otras entidades federativas que tengan residencia habitual en el Estado por más de cinco años, y que además, durante ese tiempo, hayan desarrollado su vida productiva y social en la entidad; salvo los que por cualquier circunstancia hayan manifestado a la autoridad municipal su deseo de conservar su calidad de origen.
 
 ###### Artículo 12.
 
@@ -212,13 +212,17 @@ Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ci
 
 La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 19.
 
-El varón y la mujer son iguales ante la Ley. Esta protegerá la organización y desarrollo de la familia, dentro de la cual tiene preferencia la atención del menor de edad y el anciano. La protección familiar se dará conforme a las bases siguientes:
+El varón y la mujer son iguales ante la ley. Esta protegerá la organización y desarrollo de la familia, dentro de la cual tiene preferencia la atención del menor de edad, la mujer, los discapacitados y los ancianos. La protección familiar se dará conforme a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 II.- El menor de edad tiene derecho:
 
@@ -226,11 +230,23 @@ a).- A conocer a sus padres y ser respetado en su integridad física y psíquica
 
 b).- A que se le proporcione alimentación, a la educación básica, a la especial en los casos que se requieran y a la superior de ser posible. Tendrá derecho a la protección y conservación de su salud, todo ello respetando su derecho a la libertad;
 
-c).- A que se le proteja con medidas de seguridad o que garanticen su readaptación social;
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-d).- A no ser explotado en el trabajo;
+c).- Al sano esparcimiento para su desarrollo integral;
 
-e).- A no ser separado del seno de la familia sino en los casos excepcionales que las Leyes secundarias determinen.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+
+d).- A que se le proteja con medidas de seguridad o que garanticen su readaptación social;
+
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+
+e).- A que se le proteja en su caso, con medidas de seguridad y se le garantice su readaptación social;
+
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+
+f).- A no ser utilizado en el trabajo, sino hasta haber cumplido catorce años de edad; los menores de dieciséis tendrán como jornada máxima la de seis horas y no podrán ser utilizados en labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 III.- Los ancianos tienen derecho de acuerdo con la dignidad humana a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
 
@@ -242,7 +258,9 @@ DE LA PARTICIPACION CIUDADANA.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
-Artículo 19 bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular.
+###### Artículo 19
+
+BIS.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular.
 
 I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su previa aprobación o rechazo a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los Municipios.
 
@@ -266,13 +284,21 @@ c) Podrán solicitar que se convoque a Plebiscito:
 
 1.- El titular del Poder Ejecutivo;
 
-2. El diez por ciento de los ciudadanos inscritos en el padrón electoral;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)</small>
+2. El cinco por ciento de los ciudadanos inscritos en el padrón electoral;
 
-3. El Congreso del Estado, a solicitud de las dos terceras partes de sus integrantes; y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-4. Los Ayuntamientos, en el ámbito de su competencia.
+3. El Congreso del Estado, a solicitud de uno de sus grupos parlamentarios; y
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+4. Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será valida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
 
 II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
 
@@ -296,19 +322,33 @@ b) El Referéndum podrá ser promovido por:
 
 1.- El Titular del Poder Ejecutivo;
 
-2.- El quince por ciento de los ciudadanos inscritos en el Padrón Electoral, en tratándose de la Constitución Política Estatal; el diez por ciento en tratándose de leyes estatales y reglamentos municipales;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)</small>
+2.- El diez por ciento de los ciudadanos inscritos en el padrón electoral, tratándose de la Constitución Política del Estado y fuera de los casos previstos en el inciso a) de esta fracción; y el cinco por ciento tratándose de leyes estatales y reglamentos municipales;
 
-3.- El Congreso del Estado, a solicitud de las dos terceras partes de sus integrantes;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-4.- Los Ayuntamientos, en el ámbito de su competencia.
+3.- El Congreso del Estado, a solicitud de un grupo parlamentario; y
 
-Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el treinta por ciento de los ciudadanos inscritos en el Padrón Electoral.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-III.- La Iniciativa Popular es el medio por el cual los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado o a los Ayuntamientos, proyectos de creación, reforma, adición, derogación o abrogación de leyes o reglamentos respecto de materias de su competencia y que corresponda a éstos expedir.
+4.- La mayoría de los integrantes del Ayuntamiento, en el ámbito de su competencia.
 
-La Iniciativa Popular deberá ser promovida por el veinte por ciento de los ciudadanos inscritos en el Padrón Electoral del Estado o del Municipio, según sea el caso.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el quince por ciento de los ciudadanos inscritos en el Padrón Electoral.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+El referéndum deberá realizarse hasta antes de la publicación e inicio de vigencia de cualquier reforma, adición o derogación a la Constitución Política del Estado de Morelos y a las leyes, decretos o acuerdos que expida el Congreso del Estado y a los acuerdos, reglamentos y demás disposiciones gubernativas que expida el Poder Ejecutivo del Estado o los Ayuntamientos, incluyendo los que sean de nueva creación; si la proporción de los ciudadanos requerida en esta Constitución manifiesta su consentimiento, el trámite administrativo o el proceso legislativo continuarán de manera legítima; en el caso de no aprobarse, el trámite administrativo o el proceso legislativo se extinguirá.
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado, al titular del Poder Ejecutivo o a los Ayuntamientos; en el primer caso, proyectos de modificación a la Constitución Política del Estado en los casos establecidos en este artículo, así como de leyes o decretos para la creación, reforma, adición, derogación o abrogación de disposiciones normativas en el ámbito estatal; en los dos últimos casos, para la presentación de proyectos que creen, reformen, adicionen, deroguen o abroguen decretos, acuerdos, reglamentos y demás disposiciones gubernativas en las materias de su respectiva competencia. En todos los casos la autoridad ante la que se promueva la iniciativa popular, estará obligada invariablemente a dar respuesta a los solicitantes, en un plazo no mayor de sesenta días hábiles, contados a partir de la recepción de la iniciativa.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+La iniciativa popular deberá ser suscrita por al menos el tres por ciento de los ciudadanos inscritos en el padrón electoral del Estado o el diez por ciento del padrón electoral que corresponda al Municipio, según sea el caso.
 
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
 
@@ -320,17 +360,25 @@ Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativ
 
 El Consejo Estatal de Participación Ciudadana se instalará expresamente para llevar a cabo los procesos de Plebiscito y Referéndum, estará conformado de la siguiente manera:
 
-a). El Secretario General de Gobierno;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+a). El Secretario de Gobierno;
 
 b).Un Diputado por Grupo o Fracción Parlamentaria que integren el Congreso del Estado;
 
-c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por el Congreso del Estado o la Diputación Permanente, a propuesta del Titular del Poder Ejecutivo, de al menos el triple de éstos, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro período igual; y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+c). Tres ciudadanos de reconocido prestigio y solvencia moral, designados por las dos terceras partes de los integrantes el (sic) Congreso del Estado, a propuesta de la Comisión de Régimen Interno y Concertación Política, mismos que durarán en su cargo tres años, pudiendo ser reelectos hasta por otro periodo igual; y
 
 d).Un Secretario de actas, propuesto por los miembros del propio Consejo, con voz, pero sin voto.
 
 Cada uno de los integrantes del Consejo de Participación Ciudadana tendrá un suplente.
 
 En la sesión de instalación el Consejo de Participación Ciudadana elegirá a su Presidente, por el voto de las dos terceras partes de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+El Congreso del Estado deberá expedir la Ley que regule el Consejo de Participación Ciudadana y su vinculación con el Instituto Estatal Electoral, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación ciudadana establecidas en este Artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
 
 ## TITULO SEGUNDO.
 
@@ -382,9 +430,13 @@ B).- La ley fijará los criterios para determinar los límites a las erogaciones
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum, estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. El Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten.
+III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum estarán a cargo de un organismo público autónomo denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan los Poderes Ejecutivo y Legislativo del Estado, los Partidos Políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley. El Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten.
 
 El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Los Partidos Políticos con registro en el Estado, podrán solicitar el auxilio y colaboración del Instituto Estatal Electoral para llevar a cabo sus procesos de selección interna; el Convenio que se celebre para tal efecto, determinará el modo, tiempo y recursos que en su caso se requieran para ello, sin considerar la infraestructura del propio Instituto que en ningún momento perseguirá lucro alguno.
 
 IV.- El órgano superior de dirección del Instituto Estatal Electoral, se denominará Consejo Estatal Electoral y se integrará de la siguiente forma:
 
@@ -432,9 +484,9 @@ Los Magistrados del Tribunal Estatal Electoral durarán en su encargo un períod
 
 Los Magistrados del Tribunal Estatal Electoral, serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de los Diputados que integren la Legislatura.
 
-(F. FE E., P.O. 24 DE NOVIEMBRE DE 1999)
+(REFORMADO, P. O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P. O. 29 DE NOVIEMBRE DE 2000)
 
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el Congreso del Estado; los Poderes Ejecutivo y Judicial, estarán representados en la Comisión en igual número al de los Diputados. Esta Comisión emitirá una convocatoria pública y en su caso, previo el análisis que haga de los aspirantes remitirá la propuesta correspondiente al Congreso.
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el Congreso del Estado; esta Comisión emitirá una convocatoria pública y previo el análisis que haga de los aspirantes remitirá la propuesta al pleno del Congreso.
 
 VIII. Quienes hubieren ejercido los cargos de Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
 
@@ -566,33 +618,33 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 32.
 
-El Congreso del Estado tendrá cada año dos periodos de sesiones ordinarias, el primero se iniciará el 1º de septiembre y terminará el 31 de enero; el segundo empezará el 1º de abril y concluirá el 31 de julio. El Congreso se ocupará invariablemente del examen, discusión y aprobación de la cuenta pública del Estado, de los trimestres comprendidos de enero a marzo; abril a junio; julio a septiembre y octubre a diciembre del año que corresponda. Para este efecto el Ejecutivo presentará al Congreso la cuenta general de gastos conforme a lo dispuesto en la fracción XIX del artículo 70 de esta Constitución.
+El Congreso del Estado tendrá cada año dos periodos de sesiones ordinarias, el primero se iniciará el primer día de septiembre y terminará el treinta y uno de enero; el segundo empezará el primero de abril y concluirá el treinta y uno de julio. El Congreso se ocupará del examen, y la revisión de la cuenta pública del Estado, en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, y del programa financiero.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+En el primer periodo ordinario de sesiones se ocupará invariablemente del examen, discusión y aprobación de las leyes de Ingresos del Estado y de los Ayuntamientos, así como del Presupuesto de Egresos del Estado; para tal efecto las iniciativas correspondientes deberán presentarse al Congreso a más tardar el treinta de noviembre de cada año.
 
-En le primer periodo ordinario de sesiones se ocupará invariablemente del examen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Ayuntamientos, así como de los proyectos de Presupuesto de Egresos y del Programa Financiero que presente el Ejecutivo Estatal; para el efecto anterior las iniciativas correspondientes deberán presentarse al Congreso a más tardar el 15 de noviembre de cada año. En el año en que el Ejecutivo inicie su encargo, la iniciativa de Ley de Ingresos del Estado se presentará dentro de los primeros quince días del mes de diciembre.
+En el segundo periodo ordinario de sesiones se ocupará invariablemente del examen y la revisión de la cuenta pública del año anterior de los Ayuntamientos. Para este efecto, los Ayuntamientos presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año la cuenta correspondiente al año anterior, a excepción del año en que concluyan un periodo constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública la hará cada uno por el periodo a su cargo.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, podrán ampliarse los plazos de presentación de la de Ley de Ingresos, cuentas públicas, Presupuesto de Egresos y programa financiero, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso; pero será obligación de la Secretaría de Hacienda comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales y comparecerá, en su caso, la persona que designe el Presidente Municipal.
 
-En el segundo periodo ordinario de sesiones se ocupará invariablemente del examen, discusión y aprobación en su caso, de la cuenta pública del año anterior de los Ayuntamientos del Estado. Para este efecto, los Ayuntamientos presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año la cuenta correspondiente al año anterior.
+En ningún caso las transferencias que autorice el Presupuesto de Egresos del Gobierno del Estado rebasarán las determinaciones que en tal sentido establezca el propio Presupuesto autorizado por el poder Legislativo. En el caso de que dicha transferencia o transferencias no se encuentren previstas, y antes del ejercicio de los recursos, se solicitará la aprobación de las dos terceras partes de los integrantes del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1996)</small>
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-A solicitud del Ejecutivo del Estado, podrán ampliarse los plazos de presentación de la Ley de Ingresos, Cuentas Públicas, Presupuesto de Egresos y Programa Financiero, a que se refiere este artículo, cuando haya causas plenamente justificadas, a juicio del Congreso o de la Diputación Permanente; pero será obligación de la Secretaría de Hacienda comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales y comparecerán, en su caso, los Regidores de Hacienda.
+La falta de presentación oportuna, en los términos que establece esta Constitución, de las iniciativas de Leyes de Ingresos, Presupuesto de Egresos y en su caso del Programa Financiero del Poder Ejecutivo Estatal, y de las iniciativas de leyes de ingresos de los Ayuntamientos, dará como consecuencia que los ordenamientos en vigor para el ejercicio fiscal en curso continúen vigentes para el ejercicio fiscal siguiente. Independientemente de la responsabilidad directa de los iniciadores. En esta misma hipótesis si la contumacia persiste para un nuevo ejercicio fiscal, el Congreso por acuerdo de las dos terceras partes de sus integrantes, procederá a la elaboración, discusión y aprobación de la Ley de Ingresos y del Decreto de Presupuesto de Egresos para el Gobierno del Estado de Morelos, y de la Ley o Leyes de ingresos de los Municipios correspondientes, casos en los cuales, iniciarán su validez y vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado o bien de su publicación en la Gaceta Oficial del Poder Legislativo y en uno de los periódicos de mayor circulación en el Estado de Morelos, si también se aprecia la negativa del Poder Ejecutivo para ordenar la publicación de los mismos. La contumacia en estos términos, dará motivo a la aplicación de las responsabilidades establecidas en esta Constitución y la ley de la materia.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1986)</small>
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
-Los plazos de presentación de las Leyes de Ingresos y Cuentas Públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación del Secretario de Hacienda o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
+La falta de presentación oportuna, en los plazos que señala esta Constitución, de las cuentas públicas trimestrales del Poder Ejecutivo del Estado y las mensuales de los Ayuntamientos, dará lugar a la aplicación de las sanciones previstas en la ley de la materia; independientemente de las revisiones e inspecciones que realice la Contaduría Mayor de Hacienda del Congreso del Estado y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado podrá concurrir a la apertura de ambos periodos de sesiones del Congreso. El cuarto domingo de septiembre de cada año, el Ejecutivo presentará informe acerca de la situación que guarda la administración pública estatal. El presidente del Congreso dará contestación oportuna a dicho informe.
+El Gobernador del Estado deberá concurrir a la apertura de ambos periodos de sesiones del Congreso. El cuarto domingo de septiembre de cada año, el Ejecutivo presentará informe acerca de la situación que guarda la administración pública estatal; informe que, debidamente firmado por el Gobernador, formará parte de la glosa respectiva de la Contaduría Mayor de Hacienda del Poder Legislativo. El Presidente del Congreso, en la misma sesión, dará contestación a dicho informe.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -644,7 +696,9 @@ II.- Expedir, aclarar, reformar, derogar o abrogar las leyes, decretos y acuerdo
 
 III.- Iniciar ante el Congreso de la Unión las leyes que estime convenientes, así como la reforma o derogación de las leyes Federales existentes.
 
-IV.- Crear o suprimir comisiones, empleos o cargos públicos en el Estado y señalar dotaciones.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+IV.- Crear o suprimir comisiones, empleos o cargos públicos en el Estado y señalar las dotaciones presupuestales que correspondan.
 
 V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para cubrirlos.
 
@@ -684,13 +738,13 @@ XII.- Suprimir alguno o algunos de los Municipios existentes, incorporándolos a
 
 XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las que deben ser bastantes para cubrir las necesidades de los Municipios.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces del Estado, o de los Municipios, así como todos los actos o contratos que comprometan dichos bienes en uso o concesión en favor de particulares y de organismos públicos. Los actos o contratos que en esos supuestos realicen los Municipios deberán ser aprobados previamente por el Ayuntamiento en Sesión de Cabildo.
+XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces del Estado, así como todos los actos o contratos que comprometan dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XV.- Establecer las bases normativas sobre las que los Municipios podrán expedir sus Bandos de Policía y Buen Gobierno, así como los Reglamentos, Circulares y demás disposiciones administrativas de observancia general en el ámbito de sus jurisdicciones.
+XV.- Expedir las leyes en materia municipal de conformidad a las bases establecidas en los artículos 115 y 116 de la Constitución General de la República.
 
 XVI.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
 
@@ -712,11 +766,13 @@ a).- La jornada diaria máxima de trabajo diurna y nocturna, será de ocho y sie
 
 b).- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
 
-c).- Los Trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-d).- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
+c).- Los trabajadores gozarán anualmente de dos períodos vacacionales de diez días hábiles y de noventa días de salario como aguinaldo.
 
-En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Estado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+d).- Los salarios, emolumentos y demás prestaciones para los trabajadores o servidores públicos del Estado, sean sindicalizados, supernumerarios o de confianza, serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos. En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general del Estado.
 
 e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
@@ -726,7 +782,7 @@ g).- La designación del personal se hará mediante sistemas que permitan apreci
 
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
-i).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley.
+i).- Los trabajadores sólo podrán ser suspendidos a cesados por causa justificada, en los términos que fije la Ley.
 
 En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal.
 
@@ -758,9 +814,9 @@ XXI.- Dictar las leyes que estime pertinentes para combatir el alcoholismo y el 
 
 XXII.- Conceder premios por servicios hechos a la nación, al Estado o a la Humanidad.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXIII.- Rehabilitar en sus derechos de ciudadano del Estado.
+XXIII.- Rehabilitar en sus derechos cívico políticos a los ciudadanos del Estado, que les hayan sido suspendidos.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -774,41 +830,39 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
+XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, la protesta a que se refiere el artículo 133 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXVIII.- Examinar y calificar la Cuenta Pública del Trimestre anterior que oportunamente deberá presentarle el Ejecutivo.
+XXVIII.- Examinar la cuenta pública del trimestre anterior que oportunamente deberá presentarle el Ejecutivo del Estado, misma que turnará a las Comisiones correspondientes con la intervención de la Contaduría Mayor de Hacienda, en la que se revisarán la aplicación de los recursos, se verificará su congruencia con el Plan Estatal de Desarrollo, los Programas Operativos Anuales Sectorizados y por dependencia u organismo auxiliar, en su caso, con el Programa financiero y los informes de Gobierno, procediendo a las revisiones respectivas por conducto de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+Así mismo, examinar la cuenta pública del año anterior que deberán presentar los Ayuntamientos en los primeros quince días del mes de marzo de cada año; en la que se revisarán la aplicación de los recursos, se verificará su congruencia con el Plan Municipal de Desarrollo, en su caso con el Programa financiero y los informes de gobierno; estas últimas acciones por conducto de la Contaduría Mayor de Hacienda.
 
-Asimismo, examinar y aprobar en su caso la cuenta pública del año anterior que deberán presentar los Ayuntamientos en los primeros quince días del mes de marzo de cada año.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+XXIX.- Analizar y en su caso, aprobar la iniciativa de Ley de Ingresos Municipales acordada en la sesión de cabildo de cada Ayuntamiento, misma que deberá presentarse a más tardar el primero de octubre del ejercicio fiscal anterior, en términos del artículo 32, párrafo segundo de esta Constitución.
 
-XXIX.- Aprobar la iniciativa de Ley de Ingresos Municipales autorizada en Sesión de Cabildo, y que cada año deben remitirle con toda oportunidad los Ayuntamientos en los términos del Artículo 32 Párrafo Tercero de esta Constitución.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+XXX.- Conceder licencias para separarse de sus respectivos cargos a los funcionarios del H. Congreso del Estado, quienes, a su vez, podrán otorgar las mismas a sus subordinados en los términos que disponga la propia Ley Orgánica, la Ley del Servicio Civil y los reglamentos respectivos.
 
-XXX.- Conceder licencias para separarse de sus respectivos cargos a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
+XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de quince días por causa justificada y a satisfacción del H. Congreso.
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
 XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y al Procurador General de Justicia, siempre que su duración exceda de 30 días.
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo y al Procurador General de Justicia, siempre que su ausencia exceda de treinta días.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXXIV.- Convocar a Elecciones de Gobernador y de Congreso del Estado, salvo lo dispuesto en el artículo 56, fracción IV de esta Constitución.
+XXXIV.- Convocar a elecciones de Gobernador, de los integrantes del Congreso del Estado, y de Ayuntamientos en los casos previstos por esta Constitución.
 
 XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
@@ -820,6 +874,10 @@ XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta
 
 XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral de conformidad con lo previsto en esta Constitución; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado y por el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura.
 
+(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., 29 DE NOVIEMBRE DE 2000)
+
+Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el Artículo 44 de la presente Constitución.
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXXVIII.- Nombrar a los Diputados que deben integrar la Diputación permanente, conforme el Artículo 53 de esta Constitución.
@@ -830,9 +888,9 @@ XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al E
 
 XL.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador, Secretarios de Despacho, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, los integrantes del Consejo de la Judicatura Estatal y los miembros de los Ayuntamientos.
+XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y los miembros de los Ayuntamientos.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -848,13 +906,13 @@ XLIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 XLV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XLVI.- Para expedir Leyes a fin de crear organismos descentralizados y Empresas de participación Estatal. Asimismo para integrar a solicitud de las dos terceras partes de sus miembros, comisiones que procedan a la investigación del funcionamiento de los organismos descentralizados y empresas de participación estatal, haciendo del conocimiento del Ejecutivo los resultados.
+XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar, con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno, dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XLVII.- Revisar las cuentas públicas del Gobierno del Estado y de los Municipios, cuando así lo aprueben las dos terceras partes de los miembros reunidos en la asamblea que lo determine.
+XLVII.- Por conducto de la Contaduría Mayor de Hacienda, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo, en su caso con los programas financieros o de deuda pública, determinando las responsabilidades que en su caso procedan.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 1988)</small>
 
@@ -864,9 +922,9 @@ XLVIII.- Legislar dentro del ámbito de su competencia sobre la materia de Asent
 
 XLIX.- Expedir las Leyes Orgánicas y la de División Territorial Municipal con sujeción a lo establecido por esta Constitución.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-L.- Expedir Leyes, en el ámbito de su competencia, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, previendo la concurrencia con los Municipios y el Gobierno Federal.
+L.- Expedir leyes en el ámbito de su competencia, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico; así como de protección civil, previendo la concurrencia y coordinación de los Municipios con el Gobierno del Estado y la Federación.
 
 > <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 1989)</small>
 
@@ -880,21 +938,35 @@ LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declarac
 
 LIII.- Aprobar por mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Procurador General de Justicia que presente el Titular del Poder Ejecutivo del Estado.
 
-(ADICIONADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de Referéndum y Plebiscito; por acuerdo de las dos terceras partes del total de los Diputados; y
+LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de referéndum y plebiscito.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+LV.- Incoar el procedimiento sobre responsabilidades políticas y de declaración de procedencia a los servidores públicos señalados en los artículos 136 y 137 de esta Constitución; determinar las responsabilidades administrativas a que alude el artículo 141 de este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a los servidores públicos estatales y municipales, sea que presten sus servicios en la Administración Central o en cualquier organismo auxiliar, cuando éstas se deriven de los actos de fiscalización a los recursos humanos, materiales y financieros, plan o planes, y programas tanto del erario público estatal como de los municipales, así como de las quejas y denuncias ciudadanas que se presenten por violación a los principios de imparcialidad, probidad, profesionalismo, honestidad, eficiencia, lealtad y austeridad en el servicio público y en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado e iniciar los juicios civiles o las querellas o denuncias respectivas, considerando la excepción prevista en el artículo 145 de esta Constitución.
+
+Esta atribución podrá ser ejercida por la Contaduría Mayor de Hacienda del Poder Legislativo o por la Comisión, órgano o dependencia que el mismo determine.
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+LVI.- Administrar, programar y difundir a través de los medios electrónicos del estado, las acciones del Poder Legislativo y todas aquellas actividades que den a conocer el diario acontecer de la entidad, que fomenten entre los ciudadanos la cultura política y democrática.
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-LV.- Las demás que expresamente le confiera esta Constitución.
+LVII.- Las demás que expresamente le confiera esta Constitución.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 41.
 
-El congreso del Estado, por acuerdo cuando menos de las dos terceras partes de sus integrantes podrá declarar la desaparición de Ayuntamientos, suspenderlos en su totalidad, suspender a alguno de los integrantes de los propios Municipios, siempre y cuando los afectados hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga en los siguientes casos:
+El Congreso del Estado, por acuerdo de cuando menos las dos terceras partes de sus integrantes, podrá declarar, a petición del Gobernador del Estado o de cuando menos el cincuenta por ciento más uno de los Diputados del Congreso, la desaparición de un Ayuntamiento, la revocación del mandato de alguno de sus miembros, la suspensión de la totalidad de sus integrantes; o la suspensión de alguno de ellos, concediéndoles previamente a los afectados la oportunidad suficiente para rendir pruebas y alegar lo que a su derecho convenga, conforme a lo siguiente:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 I.- Declarará la desaparición de Ayuntamientos cuando se hayan presentado previamente circunstancias de hecho como la desintegración del Cuerpo Edilicio o que éste se encuentre imposibilitado para el ejercicio de sus funciones conforme al orden Constitucional tanto Federal como Estatal;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 III (sic) .- Podrá dictar la suspensión definitiva de un Ayuntamiento en su totalidad, en los siguientes casos:
 
@@ -904,6 +976,8 @@ b).- Cuando el Ayuntamiento como tal, haya violado reiteradamente la Legislació
 
 c).- Cuando todos los integrantes del Ayuntamiento se encuentren en el caso de que proceda su suspensión en lo particular.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 III.- Ordenará la suspensión definitiva de uno de los miembros del Ayuntamiento en lo particular, cuando el Munícipe de que se trate se coloque en cualquiera de los siguientes supuestos:
 
 a).- Quebrante los principios jurídicos del régimen Federal o de la Constitución Política del Estado de Morelos;
@@ -912,7 +986,7 @@ b).- Cuando abandone sus funciones por un lapso de quince días consecutivos sin
 
 c).- Cuando deje de asistir consecutivamente a cinco Sesiones de Cabildo sin causa justificada;
 
-d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento;
+d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento,
 
 e).- Por omisión reiterada en el cumplimiento de sus funciones;
 
@@ -920,7 +994,11 @@ f).- Cuando se le dicte auto de formal prisión por delito doloso, y,
 
 g).- En los casos de incapacidad física o legal permanente.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 IV.- Acordará la revocación del mandato a alguno de los integrantes del Ayuntamiento, en el supuesto de que éste no reúna los requisitos de eligibilidad (sic) previstos para el caso.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros cuando no procediere que entraren en funciones los Suplentes ni que se celebrasen nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos. Cuando el Congreso se encuentre en receso, la Diputación Permanente lo convocará a fin de verificar que se han cumplido las condiciones establecidas por esta Constitución.
 
@@ -928,7 +1006,7 @@ En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta ab
 
 DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., 29 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 42.
 
@@ -942,17 +1020,21 @@ III.- Al Tribunal Superior de Justicia, en asuntos relacionados con la organizac
 
 IV.- A los Ayuntamientos.
 
-(REFORMADO, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+V.- A los ciudadanos morelenses de conformidad con el artículo 19 bis de esta constitución.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 43.
 
-Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, por los Ayuntamientos o las signadas por uno o más Diputados, pasarán desde luego a la comisión respectiva.
+Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, por los Ayuntamientos o las signadas por uno o más diputados y por los ciudadanos, pasarán desde luego a la comisión respectiva del Congreso.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 44.
 
-Para que una iniciativa tenga el carácter de ley o decreto de ley, necesita en votación nominal la aprobación de la mayoría absoluta de los Diputados integrantes de la legislatura; la sanción del Ejecutivo y su publicación en el órgano oficial del Estado.
+Para que una iniciativa tenga el carácter de ley o decreto, necesita en votación nominal de las dos terceras partes de los diputados integrantes de la legislatura; la sanción y promulgación del Ejecutivo y su publicación en el órgano oficial del Estado; excepto en los casos expresamente determinados por esta Constitución.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
@@ -960,9 +1042,11 @@ Para que una iniciativa tenga el carácter de ley o decreto de ley, necesita en 
 
 El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal a cualquiera de sus Sesiones secretas o públicas, para pedirle los informes verbales que necesiten sobre asuntos de la Administración y estos funcionarios deberán presentarse a ministrarlos.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 46.
 
-También podrán llamar a uno o dos Magistrados del Tribunal Superior de Justicia, al discutirse los dictámenes sobre iniciativas de leyes, para ilustrar la materia de que se trate.
+El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Magistrados del Tribunal Estatal Electoral, al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
 ###### Artículo 47.
 
@@ -980,9 +1064,11 @@ El Proyecto de Ley o Decreto observado en todo o en parte por el Ejecutivo, ser�
 
 En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites que para su formación.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 51.
 
-Todo Proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá volver a presentarse en las sesiones del año.
+Todo proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá volver a presentarse en las sesiones del año; a menos que lo acuerde la mayoría simple de sus integrantes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -1000,15 +1086,17 @@ DEL GOBERNADOR.
 
 ###### Artículo 53.
 
-Durante el receso del Congreso, habrá una Diputación Permanente compuesta de cinco Diputados, nombrados por el Congreso en la Sesión de la Clausura del Período Ordinario, se instalará el mismo día y durará todo el tiempo del receso, aún cuando haya Sesiones Extraordinarias.
+Durante el receso del Congreso, habrá una diputación permanente compuesta de cinco diputados propietarios y sus respectivos suplentes, nombrados por el Congreso en la sesión de la clausura del período ordinario; misma que se instalará el mismo día y durará todo el tiempo de receso, aun cuando haya sesiones extraordinarias.
 
 ###### Artículo 54.
 
 Las resoluciones de la Diputación Permanente se tomarán por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 55.
 
-En caso de falta de alguno o algunos de los Diputados que integran la Diputación Permanente, los restantes podrán llamar a los demás Diputados, como suplentes, por orden numérico de su respectivos Distritos Electorales.
+En caso de falta de alguno o algunos de los diputados que integren la diputación permanente, los restantes podrá (sic) llamar a los diputados designados como suplentes.
 
 ###### Artículo 56.
 
@@ -1018,9 +1106,9 @@ I.- Vigilar sobre la observancia de la Constitución y de las leyes y dar cuenta
 
 II.- Tramitar todos lo asuntos que quedaren pendientes al cerrarse las sesiones del Congreso y los que se reciban durante el receso, hasta dejarlos en estado de resolución.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-III.- Conceder licencia al Gobernador para separarse de sus funciones o salir del territorio del Estado, por un término mayor de treinta días, pero que no exceda de dos meses.
+III.- Conceder licencia al Gobernador para separarse de sus funciones o salir del territorio del Estado, por un término mayor de quince días, pero que no exceda de un mes.
 
 IV.- Nombrar Gobernador Interino en el caso de la fracción anterior.
 
@@ -1030,27 +1118,29 @@ A.- Cuando a su juicio lo exija el interés público.
 
 B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
-C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separarse de sus funciones por más de un mes
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 D.- Cuando alguno de los funcionarios a que se refiere el Artículo 40 Fracción XLI, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
 
-E.- Cuando lo pida el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-F.- Para conocer la legalidad de elecciones en todos los casos.
+E.- Cuando lo pida el Ejecutivo del Estado con causa justificada a satisfacción de la mayoría de los integrantes de la Diputación Permanente.
+
+F.- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic) por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
 
 VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
 
-VIII.- Recibir los testimonios de las actas de elecciones de Diputados y de Gobernador del Estado, para entregarlos al Congreso, en sus respectivos casos.
+VIII.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XLV y LII del artículo 40 de esta Constitución.
-
-Para el caso particular de la atribución a que se refiere la fracción XXXVII del artículo 40 antes citado, quedará exceptuada como atribución de la Diputación Permanente la designación del Procurador General de Justicia.
+IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV y LV del artículo 40 de esta Constitución.
 
 X.- Las demás que le confiere expresamente esta misma Constitución.
 
@@ -1136,11 +1226,13 @@ El día y hora señalados para la toma de posesión, el Gobernador saliente har�
 
 El cargo de Gobernador sólo es renunciable por causa grave calificada por el Congreso, ante quien se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 63.
 
-Las faltas del Gobernador hasta por treinta días serán cubiertas por el Secretario de Gobierno. Si la falta fuera por mayor tiempo, será cubierta por un Gobernador Interino que nombrará el Congreso o en los recesos de éste, la Diputación Permanente, siempre que la falta no exceda de dos meses. Si excediere de este término y el Congreso no estuviera reunido la Diputación Permanente convocará a Período de Sesiones Extraordinarias para que se haga la designación.
+Las faltas del Gobernador hasta por quince días, serán cubiertas por el Secretario de Gobierno. Si la falta fuera por mayor tiempo, requerirá previa aprobación del Congreso, quien valorará las razones, motivos y en su caso, los proyecto (sic) de beneficio social que exprese el Titular del Poder Ejecutivo para sustentar su salida del territorio estatal.
+
+Las ausencias o faltas del Gobernador hasta por quince días, en los términos previstos en esta Constitución, en ningún caso podrán ser continuas o discontinuas en un mismo semestre; caso en el cual, también, requerirá invariablemente de autorización del Congreso, con los requisitos que este ordenamiento impone.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 1988)</small>
 
@@ -1164,9 +1256,11 @@ Si el Congreso no estuviere reunido al ocurrir cualquiera de los casos a que se 
 
 Los ciudadanos nombrados por el Congreso, conforme al artículo 65 de esta Constitución, no podrán ser electos para Gobernador Constitucional del Estado, para el período inmediato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 68.
 
-Cuando la falta absoluta del Gobernador ocurra sin estar integrado el Congreso para que pueda proceder con arreglo a los artículos 64 y 65, será cubierta por el Presidente del Tribunal Superior de Justicia, y en defecto de éste, por el Presidente Municipal del Municipio que, en el orden numérico que establece la Ley Orgánica Municipal, se encuentre en funciones por elección directa.
+Cuando la falta absoluta del Gobernador ocurra sin estar integrado el Congreso para que pueda proceder con arreglo a los Artículos 64, 65 y 66 de esta Constitución, será cubierta por el Presidente del Tribunal Superior de Justicia, y en defecto de éste, por el Presidente Municipal que se encuentre en funciones por elección directa, en el siguiente orden de prelación: en el Municipio en que residan los Poderes del Estado, y sucesivamente conforme al del Municipio con mayor población en la entidad.
 
 En este caso, el funcionario que asuma el Poder Ejecutivo, lo hará con el carácter de Gobernador Provisional y procederá en el término improrrogable de sesenta días, a expedir la convocatoria que corresponda, para la elección de nuevo Congreso del Estado; y hecha la elección, éste procederá a hacer la designación de Gobernador conforme a dichos artículos, en sus respectivos casos.
 
@@ -1184,7 +1278,7 @@ En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la p
 
 DE LOS SECRETARIOS Y DEMAS SERVIDORES PUBLICOS.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 70.
 
@@ -1202,13 +1296,13 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal. Así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las Leyes a que se refiere la Fracción XX del Artículo 40 de la Constitución Política del Estado.
+IV.- Nombrar, remover y conceder licencias a los servidores públicos, así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XX del Artículo 40 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-V.- Cuidar de la legal recaudación e inversión de los caudales públicos.
+V.- Como responsable de la administración pública y de la hacienda pública, cuidar de la legal recaudación e inversión de los caudales públicos.
 
 VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
 
@@ -1216,11 +1310,13 @@ VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
 
-VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas;
+VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-IX.- Visitar el Estado en sus correspondientes Municipios, ya sea personalmente o por medio de Servidores Públicos en los que delegue su representación, realizando acciones de consulta popular dentro del sistema de Planeación democrática del Desarrollo Estatal, previsto en la Fracción III, del Artículo 119, de ésta Constitución. Los recursos que el Estado asigne para beneficio Municipal, serán manejados conforme a las Leyes aplicables; los recursos propios del Municipio se administrarán de acuerdo con lo que dispone la Fracción VI, del Artículo 115, de la presente Constitución.
+IX.- Visitar el Estado en sus correspondientes municipios, ya sea personalmente o por medio de servidores públicos en los que delegue su representación.
+
+Dentro del proceso de la planeación y programación democrática, así como de las acciones de evaluación y los ajustes que de ello puedan derivarse, las visitas y en general todas las acciones deberán considerar invariablemente la presencia y participación del Presidente Municipal del lugar al que corresponda, del diputado local del distrito respectivo y de la Comisión que del H. Congreso del Estado corresponda.
 
 X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
 
@@ -1230,11 +1326,13 @@ XI.- Conceder licencia a los funcionarios y empleados cuyo nombramiento y remoci
 
 XII.- Excitar a los Poderes de la Unión para que presten protección al Estado, conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
-XIII.- Todas las demás que expresamente le conceden las leyes, como Jefe de la Administración, de la Fuerza Pública y de la Hacienda del Estado.
+XIII.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 XIV.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere.
 
-XV.- Expedir títulos profesionales de acuerdo con los requisitos que establezcan las leyes respectivas.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+XV.- En el ámbito de su competencia, expedir y certificar títulos profesionales de acuerdo con los requisitos que establezcan las leyes respectivas.
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1244,41 +1342,55 @@ XVI.- Publicar y hacer publicar las leyes federales.
 
 XVII.- Promulgar y hacer cumplir las leyes o decretos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia, así como expedir los reglamentos autónomos necesarios para la buena marcha de los asuntos estatales.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XVIII.- Someter a la aprobación del Congreso los proyectos de Ley de Ingresos y Presupuesto de Egresos para el año fiscal siguiente, así como los proyectos de modificaciones a éste durante el ejercicio fiscal en curso.
+XVIII.- Remitir al Congreso:
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 1986)</small>
+Para su revisión:
 
-XIX.- Rendir al Congreso la Cuenta General de Gastos por trimestre durante los 30 días posteriores al cierre de cada una de las mismas, a excepción del último trimestre de cada año, cuya cuenta se presentará en los primeros diez días del mes de enero.
+a).- Durante el primer año de gobierno y dentro del primer cuatrimestre el Plan Estatal de Desarrollo, así como sus propuestas de modificación;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+b).- Los Programas Operativos anuales sectoriales y por dependencia u organismo auxiliares, mismos que deberán ser presentados durante el primer año de gobierno dentro del primer cuatrimestre; y en los subsecuentes a más tardar el primero de octubre de cada año fiscal anterior. Las modificaciones que a los mismos proponga, con toda oportunidad serán sometidos a la consideración del Congreso;
 
-XX.- Velar por la conservación del orden público y por la seguridad interior y exterior del Estado.
+Para su aprobación:
+
+c).- Las iniciativas de Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, que deberá entregarse el día primero de octubre anterior al ejercicio fiscal de que se trate; con las excepciones previstas en esta Constitución:
+
+Las iniciativas de modificación a la Ley de Ingresos, deberán ser presentadas a la consideración del Congreso, aprobadas que sean, iniciarán su vigencia el día que lo señale el decreto correspondiente. En el caso de modificaciones al presupuesto de egresos, el Titular del Poder Ejecutivo deberá presentar la iniciativa de modificación dentro de los quince días siguientes en que se originó la causa de la solicitud.
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+XIX.- Rendir al Congreso la cuenta general de gastos en unión y concordancia con el avance del Plan Estatal de Desarrollo y los avances de los Programas Operativos anuales por Sector, dependencia u organismo auxiliar durante cada trimestre del ejercicio fiscal y en los treinta días posteriores al cierre de cada una de los mismos, a excepción del último trimestre de cada año en que deberán presentarse en los primeros 10 días del mes de enero del año siguiente.
+
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+
+XX.- Como jefe de la Fuerza Pública Estatal, velar por la conservación del orden público y por la seguridad interior y exterior del Estado.
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 XXI.- Cuidar de la disciplina de la Guardia Nacional.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXII.- Fomentar la educación pública en todos sus grados.
+XXII.- Ejecutar y vigilar el cumplimiento y obligación del Gobierno con la educación pública del Estado para que esta permanezca laica, gratuita y obligatoria desde el nivel preescolar, hasta el nivel de secundaria, aportando en forma gratuita los libros de texto correspondientes a cada nivel escolar.
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 XXIII.- Proporcionar a los Tribunales el auxilio necesario para el ejercicio de sus funciones y cumplimiento de las resoluciones que dicten.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-XXIV.- Velar por el libre ejercicio ciudadano del voto.
+XXIV.- Coadyuvar y vigilar al cumplimiento del libre ejercicio ciudadano del voto, sea en los procesos electorales, o en las demás formas de participación ciudadana establecidas en el artículo 19 bis de esta Constitución, apoyando a los organismos electorales con los recursos y la infraestructura necesaria para el pleno desarrollo de sus funciones.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+El apoyo de recursos financieros adicionales, invariablemente requerirá aprobación del Congreso del Estado.
 
-XXV.- Salir del territorio del Estado o separarse de sus funciones, sin autorización del Congreso, hasta por treinta días.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1988)</small>
+XXV.- Administrar y controlar los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia; y
 
-XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la Administración y tener en forma exclusiva la Iniciativa de Leyes para crear los organismos descentralizados y empresas de participación estatal. Asimismo, conducir la Planeación Estatal del Desarrollo Económico y Social del Estado y realizar las acciones conducentes a la Formulación, Instrumentación, Ejecución, Control y Evaluación de los planes y programas de desarrollo.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la administración estatal. Así mismo, conducir la planeación estatal del desarrollo económico y social del Estado y realizar las acciones conducentes a la formulación, instrumentación, ejecución, control y evaluación de los planes y programas de desarrollo.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1288,9 +1400,9 @@ XXVII.- Solicitar al Congreso del Estado la declaración de desaparición de Ayu
 
 XXVIII.- Ejercer todos los derechos y facultades concurrentes que el artículo 27 de la Constitución Federal no reserve a la Nación o a los municipios;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-XXXIX (sic) .- El Gobernador del Estado tendrá el mando de la Fuerza Pública en el Municipio donde resida habitual o temporalmente, pero asumirá éste transitoriamente en cualquier Municipio cuando se den circunstancias o hechos que hagan peligrar la tranquilidad social.
+XXIX.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las ordenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 1988)</small>
 
@@ -1302,45 +1414,31 @@ XXXI.- Intervenir en todos los negocios en que el Estado sea parte o en los que 
 
 (ADICIONADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-XXXII.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral inicien los procesos de Plebiscito y Referéndum, en los términos que disponga la Constitución y la Ley de la Materia;
+XXXII.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral inicien los procesos de Plebiscito y Referéndum, en los términos que disponga la Constitución y la Ley de la Materia.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-XXXIII.- Las demás que otorgue la presente ley.
+XXXIII.- Presentar su declaración patrimonial de bienes en los términos que determine esta Constitución.
 
-(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+XXXIV.- Presentar al Congreso para su aprobación y en el primer cuatrimestre del inicio de su gestión, el Plan Estatal de Desarrollo; anualmente y el primero de octubre de cada ejercicio fiscal anterior, los Programas Operativos anuales sectorizados y por dependencia u organismo auxiliar, que serán el sustento para la Ley de Ingresos y el Presupuesto de Egresos respectivos.
+
+(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+
+XXXV.- Administrar y controlar los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia; y
+
+(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+
+XXXVI.- Las demás que otorgue la presente Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 71.
 
-El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la Entidad.
+El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la entidad. Podrá inclusive convenir en los términos de ley, con la federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquella; de igual manera estará facultado para celebrar convenios con sus municipios para que estos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario. Sujetándose en todo momento a lo previsto en las leyes que al efecto expida el Congreso y en su caso la normatividad federal aplicable. Celebrado que fueren los convenios en los términos de ley. El Ejecutivo del Estado y los Ayuntamientos informarán al Congreso del Estado, del ejercicio de esta facultad, anexando los documentos respectivos en cada caso.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-Podrá inclusive convenir en los términos de Ley, con la Federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquélla, de igual manera está facultado para celebrar convenios con sus Municipios para que éstos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario.
-
-I.- Promulgar, cumplir, hacer cumplir y ejecutar las leyes, decretos y acuerdos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
-
-II.- Publicar y hacer cumplir las leyes federales.
-
-III.- Expedir los reglamentos que fueren necesarios, para la observancia y ejecución de las Leyes del Estado.
-
-IV.- Presentar al Congreso, en los primeros quince días del segundo período de sus sesiones ordinarias, el proyecto de presupuestos de ingresos y egresos para el año fiscal siguiente.
-
-V.- Presentar dentro de igual término, en el primer período de sesiones del Congreso, la cuenta general de gastos del año fiscal anterior.
-
-VI.- Velar por la conservación del orden público en el interior y por la seguridad exterior del Estado.
-
-VII.- Cuidar de la legal recaudación e inversión de las caudales públicos.
-
-VIII.- Cuidar de la disciplina de la Guardia Nacional.
-
-IX.- Visitar una vez, en el primer año de su ejercicio, todos los Municipios del Estado, sin perjuicio de la facultad que le confiere la fracción, IX del artículo anterior. Esta visita sólo podrá hacerse durante el receso del Congreso.
-
-X.- Fomentar la Educación Pública, procurando de preferencia la difusión de la instrucción primaria y el establecimiento de escuelas rurales y nocturnas en todo el Estado.
-
-XI.- Facilitar a los Tribunales el auxilio que necesiten para el expedito ejercicio de sus funciones.
-
-XII.- Impedir que las Autoridades Administrativas subalternas, se arroguen el conocimiento de asuntos o negocios judiciales de carácter civil o penal, salvo la excepción establecida por el artículo 16 de la Constitución General de la República.
+En el ámbito municipal y en el caso en que no exista el convenio respectivo, el Congreso del Estado, a solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, valorará la conveniencia de que el Estado asuma funciones o servicios municipales, cuando se considere que el Gobierno Municipal se encuentra imposibilitado para ejercerlos o prestarlos, determinando en estos casos el procedimiento y las condiciones para que el Gobierno Estatal las asuma.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1350,7 +1448,9 @@ El Gobernador en ningún caso podrá celebrar convenios:
 
 I.- Para que a título oneroso o gratuito conceda a los particulares la recaudación o administración de los ingresos.
 
-II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterior. Cuando el interés público demande lo contrario toca al Congreso del Estado la aprobación previa de la medida, debiendo el Congreso valorar prudentemente la necesidad de su adopción y las repercusiones de la misma.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterior. Cuando el interés público demande lo contrario, toca al Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, la aprobación previa de la medida, cuidando en todo momento que las obligaciones o empréstitos se destinen invariablemente a inversiones publicas productivas, inclusive los que contraigan organismos descentralizados, empresas o fideicomisos públicos, por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos de egresos. En estos casos el Ejecutivo deberá informar a detalle su ejercicio al rendir cada cuenta pública.
 
 ###### Artículo 73.
 
@@ -1366,21 +1466,37 @@ DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario General de Gobierno, un Consejero Jurídico, los Secretarios de Despacho y los Servidores Públicos que establezca la Ley Orgánica de la Administración Pública Estatal, la que determinará su competencia y atribuciones.
+Para el despacho de las facultades encomendadas al Ejecutivo, habrá Secretarios de Despacho, un Consejero Jurídico y los servidores públicos que establezca la ley, la que determinará su competencia y atribuciones.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+Se consideran Secretarios de Despacho, el Secretario de Gobierno, el Procurador General de Justicia del Estado y los demás funcionarios públicos que con ése carácter determine la Ley.
+
+El Consejero Jurídico estará sujeto a las responsabilidades que determina el Título Séptimo de esta Constitución.
+
+La creación, fusión, modificación o extinción de las Secretarías de Despacho del Poder Ejecutivo, estarán regidas bajo los principios de austeridad y racionalidad presupuestal, eficiencia, simplificación administrativa, legalidad, honradez y transparencia; evitando en todo momento duplicidad o multiplicidad de funciones, la creación de estructuras paralelas a la misma administración central, el incremento injustificado del gasto corriente presupuestal, vigilando siempre su congruencia con los objetivos y metas autorizados en el plan estatal de desarrollo, los programas operativos anuales y el presupuesto de egresos respectivos.
+
+Las funciones de apoyo interno del Poder Ejecutivo, tales como: La de servicios jurídicos de cualquier naturaleza, sean de asesoría, consultoría o contencioso administrativo o jurisdiccional, entre otras; así como las de administración de recursos materiales y financieros y en su caso las de evaluación, control y seguimiento o sus equivalentes, sea cual sea su denominación, no podrán recibir el rango jurídico, presupuestal ni operativo de secretarías de despacho. El Congreso valorará y vigilará en todos los casos el cumplimiento de esta disposición.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 75.
 
-Para ser Secretario General del Gobierno ó Secretario de Despacho se requiere:
+Para ser Secretario de Despacho se requiere:
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
 I.- Ser ciudadano morelense por nacimiento ó por residencia, debiendo en éste último caso, tener un mínimo de 10 años de residencia en el Estado.
 
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
 II.- Ser mayor de 25 años.
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
 III.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión.
 
-Para ser Consejero Jurídico se deberán reunir los mismos requisitos que esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Para ser Consejero Jurídico, se deberá reunir los mismos requisitos que esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1396,17 +1512,19 @@ Los Secretarios de Despacho serán los órganos de comunicación por cuyo conduc
 
 En cualquier tiempo, el Congreso o la Diputación Permanente, en su caso, podrá citar al Procurador General de Justicia o a los Titulares de las Secretarías para informar del estado que guarde la administración de la dependencia a su cargo, o para explicar y asesorar cuando se discuta un proyecto legislativo, o se estudie un asunto relacionado con sus atribuciones.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 78.
 
-Los Secretarios del Despacho serán responsables de las resoluciones del Gobernador que autoricen con su firma, contrarias a la Constitución y Leyes Federales o a la Constitución y Leyes del Estado, sin perjuicio de las responsabilidades que correspondan al Gobernador.
+Los Secretarios de despacho serán responsables de las resoluciones del Gobernador que autoricen con su firma, contrarias a la Constitución y leyes federales o a la Constitución y leyes del Estado; sin excluir la responsabilidad directa del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 79.
 
-Los servidores públicos a que se refiere el Artículo 74, de ésta Constitución no podrán desempeñar ningún otro puesto, cargo ó comisión, salvo la docencia, ó aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la ley.
+Los Servidores Públicos a que se refiere el artículo 74 de esta Constitución, no podrán desempeñar ningún otro puesto, cargo o comisión de la Federación, de los Estados o de los Municipios, salvo la docencia y los relacionados a la beneficencia pública, o aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la Ley, y en este último caso, serán siempre de carácter honorífico.
+
+Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán entregar al Congreso del Estado, las declaraciones patrimoniales de bienes que establece el Artículo 133 bis de la presente Constitución.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
@@ -1422,9 +1540,9 @@ El Ministerio Público tiene las atribuciones fundamentales siguientes:
 
 I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del tipo penal del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados.
+II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del cuerpo del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -1454,7 +1572,9 @@ El Procurador General de Justicia será designado en términos de lo dispuesto p
 
 Para dar cumplimiento a lo que se refiere el párrafo anterior, el Gobernador del Estado deberá presentar al Congreso del Estado la terna de ciudadanos en un plazo máximo de 30 días.
 
-En caso de falta absoluta del Procurador General o en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo.
+(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., 29 DE NOVIEMBRE DE 2000)
+
+En caso de falta absoluta del Procurador General y en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo; temporalidad que no podrá exceder de cuarenta y cinco días naturales; el encargado deberá cumplir los mismos requisitos que para ser Procurador esta Constitución establece.
 
 Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su Titular podrá solicitar al Poder Legislativo la designación de un nuevo Procurador.
 
@@ -1506,9 +1626,11 @@ Es obligación del Secretario de Despacho correspondiente, vigilar el cumplimien
 
 No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de este artículo constituye responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 84.
 
-Las cuentas de recaudación e inversión de toda clase de fondos públicos, serán glosadas definitivamente por la Contaduría Mayor de Hacienda, que dependerá del Congreso, la cual exigirá las responsabilidades a que aquellas dieren lugar.
+Las cuentas de recaudación e inversión de toda clase de fondos públicos, los informes de gobierno, los Programas Operativos Anuales, y los Programas financieros del Estado y de los Municipios, serán glosados definitivamente por la Contaduría Mayor de Hacienda, que dependerá del Congreso. Este órgano de fiscalización está facultado para realizar todo tipo de visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, evaluación de gestión social a las dependencias o entidades del Sector Paraestatal, del Poder Ejecutivo, del Poder Judicial en cualesquiera de los Tribunales Estatales, del propio Poder Legislativo, y del Consejo Estatal Electoral, en los términos de su propia Ley Orgánica. En su caso determinar las responsabilidades administrativas en que incurran los servidores públicos estatales y municipales, tanto de la administración centralizada, como del sector paraestatal o paramunicipal, con la excepción prevista en el artículo 145 de esta Constitución; promover juicios civiles y presentar denuncias o querellas en representación del Congreso y actuar como coadyuvante del Ministerio Público en esos casos.
 
 ###### Artículo 85.
 
@@ -1536,7 +1658,7 @@ El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centr
 
 DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 85-C.
 
@@ -1548,11 +1670,11 @@ El Congreso del Estado establecerá un organismo autónomo de protección de los
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 85-D.
 
-El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
+El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integral y sustentable, para este efecto, también garantizará la conservación del patrimonio natural del Estado, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
 
 ### CAPITULO II.
 
@@ -1570,7 +1692,9 @@ DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en el Tribunal Estatal Electoral, en los juzgados que establezca la ley y en el Consejo de la Judicatura Estatal. La representación del Poder Judicial corresponderá siempre al Tribunal Superior.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en los Juzgados que establezca la ley; en el Consejo de la Judicatura Estatal, en el Tribunal Estatal Electoral y en el Tribunal de lo Contencioso Administrativo, cada uno en el ámbito de competencia que les corresponde.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 El Consejo de la Judicatura tendrá las atribuciones que se señalan en el artículo 92-A de esta Constitución.
 
@@ -1812,15 +1936,29 @@ La Ley determinará los asuntos de la competencia de los Jueces de Primera Insta
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
+### CAPITULO VI.
+
+DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ### CAPITULO I.
 
-DE LA ORGANIZACION DE LOS MUNICIPIOS.
+DE SU ORGANIZACION POLITICA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO II.
 
-PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
+DE SU INTEGRACIÓN Y ELECCION.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPÍTULO III.
+
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 106.
 
@@ -1830,211 +1968,295 @@ PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 (DEROGADO, P.O. 7 DE JULIO DE 1988)
 
+### CAPITULO IV.
+
+DE LOS SERVICIOS QUE PRESTAN.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 108.
 
 La Defensoría Pública ejercerá las funciones que en materia penal le atribuye el Artículo 20, Fracción IX, de la Constitución General de la República y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 109.
 
-El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario General de Gobierno.
+El personal de la defensoría pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario de Gobierno.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO V.
+
+DE SU HACIENDA.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 109
+
+BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Órgano jurisdiccional que conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Contaduría Mayor de Hacienda del Congreso del Estado.
+
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado conforme a lo establecido en esta Constitución y la Ley de Justicia Administrativa del Estado. Durarán en su cargo 6 años, si concluido dicho término fueren ratificados serán inamovibles y sólo podrán ser removidos en los términos del título séptimo de esta Constitución. La ratificación sólo procederá, de los resultados que arroje la evaluación del desempeño que realice el propio Congreso. El Tribunal de lo Contencioso Administrativo propondrá al Poder Legislativo los mecanismos, procedimientos e indicadores de gestión para dicha evaluación, caso en el que, el Congreso podrá aprobarlo, modificarlo o en su caso determinar otro.
+
+La Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. Por lo que hace a su Presupuesto de Egresos, el Tribunal deberá elaborar el proyecto respectivo y remitirlo con toda oportunidad para su integración al del Tribunal Superior de Justicia del Estado.
+
+Los Magistrados deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales de bienes en los términos del Artículo 133-bis de esta Constitución.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VI.
+
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ## TITULO SEXTO.
 
-DEL GOBIERNO Y DE LA ADMINISTRACION INTERIOR DEL ESTADO.
+DEL MUNICIPIO LIBRE.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VII.
+
+DE LOS REQUISITOS DE ELEGIBILIDAD.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 110.
 
-El Estado de Morelos, para su régimen interior, se divide en los siguientes Municipios Libres:
+De conformidad a lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa al Municipio libre.
 
-Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 111.
 
-Los Municipios citados se agruparán en Distritos Judiciales y Rentísticos, para la mejor administración de justicia y la fácil recaudación de las rentas generales del Estado, en la forma que la Ley determine.
+El Estado de Morelos, para su régimen interior, se divide en los siguientes municipios libres:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+
+Los Municipios citados se agruparán en Distritos Judiciales para la mejor administración de justicia. La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VIII.
+
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 112.
 
-Los Municipios libres constituyen Entidades con personalidad jurídica y por consiguiente son susceptibles de derechos y obligaciones, debiendo manejar su patrimonio.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y el número de Regidores que la ley determine, debiendo ser para cada Municipio proporcional al número de sus habitantes y nunca menor de tres Regidores.
 
-Los Ayuntamientos están facultados para expedir los Bandos de Policía y Buen Gobierno, así como los Reglamentos, Circulares y otras disposiciones de carácter administrativo y de observancia general en el ámbito de sus jurisdicciones; los ordenamientos antes señalados se expedirán conforme a las bases normativas que establezca el Congreso del Estado en los términos del Artículo 40 Fracción XV de esta Constitución.
+El Presidente Municipal y el Síndico serán electos conforme al principio de mayoría relativa; y los Regidores serán electos por el principio de representación proporcional.
+
+Por cada Presidente Municipal, Síndico y Regidores propietarios, se elegirá un suplente.
+
+Los Partidos Políticos para participar en la integración del Ayuntamiento, deberán postular planilla de candidatos a Presidente y Síndico, así como la lista de Regidores en número igual al previsto para ese municipio en la Ley respectiva.
+
+Para la asignación de Regidores se estará al principio de cociente natural y resto mayor, de conformidad como lo establezca la ley electoral.
+
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
+
+El ejercicio de los Ayuntamientos electos será de tres años y se iniciará el primero de noviembre del año que corresponda a la elección, salvo lo que disponga esta Constitución y la Ley respectiva para el caso de elecciones extraordinarias.
+
+Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás servidores públicos municipales que determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales ante el Congreso del Estado, en los términos del Artículo 133-bis de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO IX.
+
+DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 113.
 
-Los Poderes del Estado son los únicos superiores jerárquicos de los Municipios, sin coartar ni limitar las libertades que les concede la Constitución General de la República y la particular del Estado.
+Los Municipios están investidos de personalidad jurídica y administrarán su patrimonio conforme a las leyes respectivas.
+
+La facultad ejecutiva del régimen jurídico municipal y de las resoluciones tomadas por el Ayuntamiento en Cabildo, la tendrá originalmente el Presidente Municipal y en su caso las comisiones de Regidores que así determine el propio cabildo en términos de la ley respectiva.
+
+La ley determinará la competencia del Ayuntamiento en funciones de cabildo y las facultades expresas del Presidente Municipal.
+
+La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
 ###### Artículo 114.
 
 Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO X.
+
+PRINCIPIOS GENERALES DE LA ADMINISTRACION PUBLICA.
+
+###### Artículo 114
+
+BIS.- Los Ayuntamientos tendrán a su cargo las funciones y servicios públicos siguientes:
+
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
+
+II.- Alumbrado público.
+
+III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
+
+IV.- Mercados y centrales de abasto.
+
+V.- Panteones.
+
+VI.- Rastro.
+
+VII.- Calles, parques y jardines y su equipamiento.
+
+VIII.- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, de la presente Constitución y de las leyes que de ambas emanen; así como la policía preventiva municipal y de tránsito.
+
+La policía preventiva municipal estará al mando del Presidente Municipal, en los términos de la normatividad correspondiente. Aquélla acatará las órdenes que el Gobernador le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
+
+IX.- Los demás que la ley determine, según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.
+
+Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO XI.
+
+DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 115.
 
-El Congreso del Estado expedirá las Leyes Orgánicas y la de División Territorial Municipal con sujeción a las siguientes bases:
+Los Ayuntamientos administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+I.- Adquirirán bienes inmuebles o ejercerán actos de administración y en su caso, de dominio sobre sus bienes raíces, siempre que así lo acuerden las dos terceras partes de sus integrantes.
 
-I.- La circunscripción geográfica de cada Municipio deberá establecerse de tal manera que la propia comunicación entre los poblados que lo compongan se integren de tal manera que formen una corporación con potencialidad económica y capacidad financiera suficientes para el mantenimiento del Gobierno propio y de los servicios públicos a su cargo.
+II.- Percibirán las contribuciones, incluyendo las tasas adicionales, que establezca el Gobierno del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas a la administración de esas contribuciones, en los términos que fije la normatividad aplicable.
 
-Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
+III.- Las participaciones federales, que serán remitidas a los municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
 
-a).- Agua Potable y Alcantarillado;
+IV.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-b).- Alumbrado Público;
+Las leyes estatales no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-c).- Limpia;
+Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-d).- Mercados y Centrales de Abastos;
+Los gobiernos municipales para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento, requerirán de la previa aprobación del Congreso del Estado, vigilando en los casos de obligaciones o empréstitos, que éstos se destinen a inversiones públicas productivas, inclusive los que contraigan los organismos descentralizados, las empresas y fideicomisos públicos, con sujeción a las normas aplicables y por los conceptos y hasta por los montos que el Poder Legislativo fije anualmente. Los Ayuntamientos informarán de su ejercicio al rendir la cuenta pública.
 
-e).- Panteones;
+El Poder Legislativo del Estado aprobará las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas en los términos previstos en esta Constitución.
 
-f).- Rastros;
+Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Las modificaciones que se incorporen a dichos Presupuestos de Egresos, serán siempre antes del ejercicio de los recursos.
 
-g).- Calles, Parques y Jardines;
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, en términos de la normatividad aplicable.
 
-h).- Seguridad Pública y Tránsito; y,
-
-i).- Las demás que la Legislatura Local determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz presentación de los servicios públicos que les correspondan.
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
-
-II.- Cada Municipio deberá tener una población mayor de 30 mil habitantes que pueda llenar las condiciones a que se refiere la fracción XI del Artículo 40 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1990)</small>
-
-III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de Elección Popular Directa, que se renovará cada tres años.
-
-Los Ayuntamientos se integrarán con un Presidente Municipal y un Síndico; además con los Regidores electos en el número que determine la Ley, debiendo ser para cada Municipio proporcional al número de sus habitantes y nunca menor de tres.
-
-Por cada Regidor propietario y Síndico, así como por el Presidente Municipal se elegirá un suplente.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
-
-El ejercicio de los Ayuntamientos electos se iniciará el 1º de noviembre del año que corresponda a la elección, salvo lo que disponga la Ley para el caso de elecciones extraordinarias.
-
-El Presidente Municipal y el Síndico de los Ayuntamientos serán electos conforme al principio de mayoría relativa; y los Regidores serán electos por el principio de representación proporcional.
-
-Los Partidos Políticos para participar en la integración del Ayuntamiento, deberán postular Planilla de Candidatos a Presidente y Síndico, así como lista de Regidores en número igual al previsto para ese Municipio.
-
-Para la asignación de Regidores se sumarán los votos de los Partidos que hayan obtenido cuando menos el 1.5% del total de los sufragios emitidos en el Municipio correspondiente, el resultado se dividirá entre el número de Regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, el riguroso orden decreciente, tantas Regidurías como número de factores alcance hasta completar las Regidurías previstas.
-
-Si aplicado el factor de distribución quedan regidurías por atribuir, éstas se asignarán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes como con los porcentajes excedentes de aquellos que obtuvieron Regidurías con la aplicación del factor común.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-IV.- La facultad ejecutiva del régimen jurídico municipal, y de las resoluciones tomadas por el Ayuntamiento en Cabildo, la tendrá el Presidente Municipal que será electo directamente por el pueblo.
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-V.- El presidente Municipal y los demás miembros del Ayuntamiento no podrán ser reelectos para el período inmediato.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-VI.- Los Ayuntamientos administrarán libremente su Hacienda, la que se integrará con las contribuciones y demás ingresos que en su favor establezca el Congreso del Estado, con las participaciones y subsidios que les otorguen la Federación y el Estado, así como con los rendimientos de los Bienes que les pertenezcan estando además facultados para:
-
-a).- Adquirir y enajenar sus bienes inmuebles previa aprobación del Congreso, así como otorgarlos para su uso, administración, fideicomiso o para garantizar créditos autorizados, y en general realizar con dichos bienes todos los actos que tiendan a incrementar el Patrimonio Municipal.
-
-b).- Percibir las contribuciones, incluyendo las tasas adicionales que fije el Congreso del Estado sobre la propiedad o posesión de inmuebles comprendidos dentro de sus respectivas circunscripciones territoriales y las relativas a la traslación de dominio, Fraccionamientos, Conjuntos Habitacionales, Condominios, División, Fusión y demás formas de desmembramiento de los predios; asimismo, las mejoras, la realización de obras y servicios públicos, y cualquier otra actividad que produzca un incremento en el valor de los inmuebles.
-
-Los Ayuntamientos podrán celebrar convenios con el Estado para que éste se haga cargo de algunas funciones relacionadas con las contribuciones a que se refiere el párrafo anterior.
-
-c).- Percibir las aportaciones que serán cubiertas por la Federación y por el Estado con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura Local.
-
-d).- Percibir los ingresos por los servicios públicos que presten.
-
-Las Leyes Locales no establecerán exenciones o subsidios en favor de personas físicas o morales, ni de instituciones oficiales o privadas respecto de las contribuciones Municipales. Sólo los bienes de dominio público de la Federación, del Estado o de los Municipios estarán exentos del pago de dichas contribuciones.
-
-El Congreso del Estado deberá aprobar las Leyes de Ingresos de los Municipios las que deberán presentarse ante éste en el plazo previsto por el Artículo 32 Tercer Párrafo de esta Constitución. Los presupuestos de egresos Municipales serán aprobados por los Ayuntamientos de acuerdo con sus ingresos disponibles.
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
-
-VII.- La justicia en el Municipio estará a cargo de los Jueces Municipales de Paz que señale la Ley Orgánica del Poder Judicial.
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-VIII.- La Ley de División Territorial Municipal fijará el número de Municipios y sus respectivos límites, así como las poblaciones que tendrán la calidad de cabeceras municipales en las que residirán los Ayuntamientos. La misma Ley señalará los requisitos para la creación de las subdivisiones territoriales de los propios Municipios, que se denominarán Secciones Municipales dentro de la zona urbana y Ayudantías Municipales en los poblados foráneos.
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-IX.- La Ley Orgánica Municipal determinará la competencia del Ayuntamiento en funciones de Cabildo y las facultades del Presidente Municipal.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-X.- Si por imposibilidad física o legal, por licencia o por cualquier otra causa justificada, la totalidad de los miembros propietarios y suplentes de un Ayuntamiento, dejaren de ejercer sus funciones, la Legislatura local procederá en términos de lo dispuesto por el Artículo 41 de la presente Constitución.
-
-Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su Suplente, o se procederá según lo disponga la Ley.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XI.- Los Ayuntamientos, en los términos de las Leyes Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano Municipal: Participar en la creación y administración de sus reservas territoriales; controlar y vigilar la optimización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones; y participar en la creación y administración de zonas de reservas ecológicas.
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 1989)</small>
-
-XII.- Los Ayuntamientos coordinarán sus acciones con el Gobierno del Estado, dentro del marco del desarrollo Estatal establecido en el Artículo 119, Fracción III, de ésta Constitución. Los recursos asignados por el Gobierno del Estado para la realización de Programas de beneficio Municipal serán manejados conforme a las Leyes aplicables; los recursos propios de los Municipios se administrarán de acuerdo con lo que dispone la Fracción VI, del presente Artículo.
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 116.
 
-Para ser miembro de un Ayuntamiento o Ayudante Municipal, se requiere:
+La Ley de División Territorial Municipal fijará los límites de cada Municipio, así como las poblaciones que tendrán la calidad de cabeceras municipales en las que residirán los Ayuntamientos. La misma ley señalará los requisitos para la creación de las subdivisiones territoriales de los propios Municipios, que se denominarán secciones municipales dentro de la zona urbana y Ayudantías Municipales en los poblados foráneos.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1991)</small>
+Los Ayuntamientos en los términos de las leyes Federales y Estatales relativas, estarán facultados para:
 
-I.- Ser morelense por nacimiento, o ser morelense por residencia con antiguedad mínima de diez años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del Estado.
+I.- Formular, aprobar y administrar la zonificación y planes de desarrollo municipal.
 
-II.- Tener dos años de residencia en el Municipio o en la población en que deban ejercer su encargo, respectivamente.
+II.- Participar en la creación y administración de sus reservas territoriales.
 
-III.- Saber leer y escribir.
+III.- Participar en la formulación de los planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional, de entre los establecidos en la fracción XXVI del Artículo 70 de esta Constitución, deberán asegurar la participación de los municipios.
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+IV.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales.
 
-IV.- Los Presidentes Municipales regidores y síndicos del Ayuntamiento, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+V.- Intervenir en la regularización de la tenencia de la tierra urbana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1992)</small>
+VI.- Otorgar licencias y permisos para construcciones.
+
+VII.- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia.
+
+VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito municipal.
+
+IX.- Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios; y
+
+X.- Cuando dos o más centros urbanos situados en territorios municipales del Estado u otras Entidades Federativas, formen o tiendan a formar una continuidad demográfica, la federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 117.
 
-No podrán ser miembros de un Ayuntamiento o Ayudantes Municipales:
+Los requisitos de elegibilidad para ser miembro de un Ayuntamiento o Ayudante Municipal son:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
+I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad mínima de diez años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del Estado.
 
-I.- Los Ministros de algún culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
+II.- Tener cinco años de residencia en el Municipio o en la población en la que deban ejercer su cargo, respectivamente.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+III.- Saber leer y escribir.
 
-II.- Los empleados de la federación, del Estado o de los Municipios si no se separan de sus respectivos cargos 90 días antes del día de la elección.
+IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley reglamentaria del Artículo 130 de la Constitución Federal.
 
-El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del artículo 23 de la presente Constitución.
+V.- No ser funcionario o empleado de la Federación, del Estado o de los Municipios si no se separan de sus respectivos cargos noventa días antes del día de la elección.
 
-III.- Los que tuvieren mando de fuerza pública, si no lo dejaren cuarenta y cinco días antes de la elección.
+El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del Artículo 23 de la presente Constitución.
 
-IV.- El padre en concurrencia con el hijo; el hermano con la del hermano; el socio con su consocio y el patrón son su dependiente.
+VI.- Tampoco podrán ser, los que tuvieren mando de fuerza pública, si no se separan de su cargo o puesto noventa días antes del día de la elección; y
+
+VII.- El padre en concurrencia con el hijo; el esposo o esposa con el cónyuge, el hermano con la del hermano, el primo con el primo, el socio con su consocio y el patrón con su dependiente.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 118.
 
-Las diferencias que se susciten entre los Municipios, siempre que no tengan carácter contencioso, serán subsanadas en la vía administrativa por el Ejecutivo del Estado.
+El Congreso del Estado expedirá las leyes bajo las cuales, los Ayuntamientos aprueben los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+Dichas leyes tendrán por objeto:
+
+I.- Determinar las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+II.- Las normas de aplicación general para celebrar los convenios relativos a la coordinación o asociación con otros Municipios del Estado, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; así como, cuando a juicio del Ayuntamiento sea necesaria la celebración de convenios con el Poder Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
+
+III.- El modo y términos en que se autorice la asunción de algunas de las funciones relacionadas a la administración de alguno de los ingresos públicos municipales, por el Ejecutivo del Estado; o bien, las funciones relacionadas a la administración de alguno de los ingresos estatales por el Ayuntamiento en el ámbito territorial y jurisdiccional del municipio,
+
+IV.- El modo y términos en que el Ayuntamiento puede celebrar con el Poder Ejecutivo del Estado, a efecto de que éste último asuma la prestación de alguna de sus funciones, la ejecución y operación de obras; incluida la asunción del Ayuntamiento de alguna de las funciones del Poder Ejecutivo del Estado o la ejecución y operación de obras Estatales en el ámbito territorial del Municipio;
+
+V.- El procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Ayuntamiento de que se trata está imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
+
+VI.- Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+
+VII.- Los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de las fracciones II, III, IV y V de este Artículo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 118
 
-BIS.- Los Ayuntamientos expedirán los reglamentos y disposiciones administrativas necesarios para el buen desarrollo de las funciones que establece la Fracción XI del Artículo 115 de esta Constitución.
+BIS.- Con el fin de brindar asesoría técnica y jurídica en las materias que por mandato constitucional están a cargo de los Ayuntamientos, se crea el Instituto de Desarrollo y Fortalecimiento Municipal, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios.
+
+Dicho Instituto tendrá, entre otras, las siguientes atribuciones:
+
+I.- Proporcionar asesoría y asistencia técnica a los Municipios que lo soliciten.
+
+II.- Brindar capacitación permanente a los miembros de los Ayuntamientos que así lo demanden; con el fin de impulsar el servicio civil en el ámbito municipal.
+
+III.- Proporcionar asistencia técnica en materias administrativa, de planeación y de hacienda en las áreas en que estas materias sean competencia de los Ayuntamientos.
+
+IV.- Coadyuvar con los Ayuntamientos en la formulación de proyectos de carácter reglamentario o en manuales administrativos, que busquen la organización óptima de la administración pública municipal; y
+
+V.- Las demás que acuerde la Junta de Gobierno.
+
+El Instituto contará con una Junta de Gobierno, la cual estará integrada por los Presidentes Municipales de la entidad o quienes ellos designen.
+
+El Instituto de Desarrollo y Fortalecimiento Municipal estará a cargo de un Director General, que será designado por la Junta de Gobierno y durará en su cargo tres años, pudiendo ser reelecto para un período más; asimismo, a las reuniones de la Junta de Gobierno asistirá el Director General, quien tendrá voz, pero no voto.
+
+El Congreso del Estado expedirá la Ley o Decreto de Ley respectiva, en la que se determinarán la estructura orgánica básica del Instituto y sus atribuciones; por ningún motivo el Instituto estará sectorizado o integrado a los Poderes Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ## TITULO SEPTIMO.
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 119.
 
@@ -2042,7 +2264,7 @@ La Administración Pública se guiará por los siguientes principios:
 
 I.- El derecho de asociación se reconoce para proteger y mejorar las condiciones económicas de obreros, campesinos y empleados, ejerciendo el Estado la defensa contra todos los actos de individuos o de asociaciones que menoscaben ese derecho.
 
-II.- Se fundará una escuela de agricultura para impartir la enseñanza agrícola a los jóvenes que deseen dedicarse a dicho ramo. A su tiempo se establecerán campos de experimentación en algunas regiones del Estado para la instrucción práctica de los agricultores.
+II.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 1988)</small>
 
@@ -2134,6 +2356,18 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 133
+
+BIS.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos, los integrantes y funcionarios del Instituto Estatal Electoral, en los términos que disponga la ley de la materia.
+
+Dichas declaraciones serán: de situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
+
+Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+
+La presentación se hará ante el propio Congreso del Estado.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 1983)</small>
 
 ## TITULO OCTAVO.
@@ -2144,11 +2378,9 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
 ###### Artículo 134.
 
-Para los efectos de las responsabilidades a que se refiere este Título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Magistrados Electorales y en general todo aquel que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la administración pública estatal o paraestatal o en las entidades mencionadas con anterioridad.
+Para los efectos de las responsabilidades a que se refiere este título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Magistrados Electorales, los Magistrados del Tribunal de lo Contencioso Administrativo y en general todo aquél que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la administración pública estatal o paraestatal o en las entidades mencionadas con anterioridad.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
-
-Al Gobernador sólo se le podrá exigir responsabilidad durante su encargo por violación expresa a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+Al Gobernador del Estado se le podrá exigir responsabilidad durante su cargo, mediante Juicio Político, por violación expresa a esta Constitución, ataques a la libertad electoral y de participación ciudadana, delitos graves del orden común, desatención de sus funciones, perjuicio a los intereses públicos o de su buen despacho y desviación de los recursos del erario público, sea por el ejercicio o aplicación de recursos en partidas presupuéstales no autorizadas, falta de comprobación de los recursos o el desvío de los mismos.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2156,21 +2388,21 @@ Al Gobernador sólo se le podrá exigir responsabilidad durante su encargo por v
 
 El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 136.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente, y los Consejeros Estatales Electorales del Instituto Estatal Electoral por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a la formación de causa.
+Para proceder penalmente contra (sic) de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral y los Presidentes Municipales por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a la formación de causa.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a Juicio Político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados del Congreso del Estado, los Secretarios de despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos y los miembros de los Ayuntamientos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -2178,13 +2410,17 @@ Son responsables y serán sometidos a Juicio Político por actos y omisiones en 
 
 En los casos del Artículo anterior, el Congreso erigido en Jurado de declaración oirá al acusado, a su defensor o a ambos si quisieren, y previa lectura del expediente respectivo decidirá si es o no responsable. Si la declaración fuere absolutoria el Servidor Público continuará en el ejercicio de su encargo. Si fuere condenatorio, quedará suspenso y a disposición del Tribunal Superior de Justicia para los efectos del Artículo siguiente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 139.
 
-El Tribunal Superior de Justicia como Jurado de sentencia, previa audiencia del acusador, del Procurador de Justicia y del Acusado, su defensor o de ambos, procederá a mayoría absoluta de votos, a aplicar la sanción que la Ley señale. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la Ley, el responsable quedará a disposición de la Autoridad competente para que se le instruya el proceso respectivo.
+El Tribunal Superior de Justicia como jurado de sentencia, previa audiencia del acusador, del Procurador de Justicia y del acusado, su defensor o de ambos, procederá por mayoría absoluta de votos, a dictar la resolución que en derecho proceda. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la ley, el responsable quedará a disposición de la autoridad competente para que se le instruya el proceso respectivo.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 Cuando el Acusado sea el Procurador de Justicia ejercerá las funciones de tal el que designe el Ejecutivo o el Servidor Público que deba suplirlo con arreglo a la Ley.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
 Tanto la declaración del Congreso como la resolución del Tribunal Superior de Justicia son inatacables.
 
@@ -2218,11 +2454,11 @@ La responsabilidad que dé origen a Juicio Político sólo podrá exigirse contr
 
 La Responsabilidad Penal de los Servidores Públicos no comprendidos en el Artículo 136 y 145 se exigirá ante las Autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 145.
 
-La responsabilidad administrativa en que incurran los jueces de primera instancia y los que con cualquier otra denominación se designen, serán del conocimiento y resolución del Consejo de la Judicatura Estatal. Cuando dichos jueces incurran en la comisión de delito serán juzgados en la forma que establecen las leyes respectivas, previa solicitud del Consejo de la Judicatura Estatal para que suspenda en sus funciones al presunto responsable.
+La responsabilidad administrativa en que incurran los Secretarios de las Salas, de Acuerdos, de estudio y cuenta; los jueces de primera instancia o los que con cualquier otra denominación se designen, así como los demás funcionarios y empleados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo del Estado de Morelos, realicen funciones jurisdiccionales o auxilien en éstas, o desempeñen funciones administrativas, serán del conocimiento y resolución de cada órgano jurisdiccional en el ámbito de su competencia, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos; si alguno de dichos funcionarios o empleados incurre en la comisión de delito, serán juzgados en la forma que establecen las leyes respectivas, pudiendo quedar suspendido el presunto responsable en el ejercicio de sus funciones, en los términos que señale dicha Ley de Responsabilidades de los Servidores Públicos del Estado. Las responsabilidades en que incurran los Magistrados Numerarios, supernumerarios o interinos de los citados órganos jurisdiccionales serán de la competencia del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -2252,7 +2488,7 @@ En caso de invasión o perturbación grave de la paz o del orden público, el Ej
 
 Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
-T R A N S I T O R I O S .
+T R A N S I T O R I O S.
 
 Artículo Primero.- Esta Constitución se publicará por bando solemne en la Capital del Estado y en las Cabeceras de los Municipios, el día veinte del mes de noviembre, y entrará en vigor inmediatamente.
 
@@ -2735,3 +2971,41 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTICULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO NUMERO 1234
+
+PRIMERO.- El Presente Decreto de reformas, adiciones y derogaciones a diversas disposiciones de la Constitución Política del Estado de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos; por tanto se dejan sin efectos jurídicos el artículo tercero transitorio de la reforma a esta Constitución, aprobado en el Decreto Número 789 de fecha 30 de octubre de 1996, y publicado en el Periódico Oficial Tierra y Libertad número 3824, con la misma fecha.
+
+SEGUNDO.- A la vigencia de este Decreto, la Oficialía Mayor y la Contaduría Mayor de Hacienda del Congreso del Estado, serán las dependencias encargadas de recibir, a través de acta de entrega-recepción los recursos financieros, materiales, jurídicos y en su caso, humanos del organismo público descentralizado del Poder Ejecutivo del Estado, denominado Sistema Morelense de Radio y Televisión, cuya desincorporación del Poder Ejecutivo no rebasará un plazo mayor de veinte días naturales, contados a partir de la vigencia de esta reforma. Adicionalmente, el Congreso del Estado, procederá a emitir el Decreto correspondiente por el que se adecue la naturaleza jurídica, estructura orgánica y funciones de dicho organismo en el Poder Legislativo y emitirá la reforma respectiva al Presupuesto de Egresos, a efecto de que las partidas financieras respectivas pasen a integrarse al presupuesto de egresos del Congreso del Estado.
+
+La Entrega recepción de dicho organismo, no excluye la facultad de la Contaduría Mayor para hacer las revisiones que procedan y determinar en su caso las responsabilidades jurídicas durante el período de gestión anterior a la recepción del organismo por el Poder Legislativo.
+
+> <small>(F. DE E., 29 DE NOVIEMBRE DE 2000)</small>
+
+TERCERO.- El Congreso del Estado, aprobado que fuere el presente Decreto por el Constituyente Permanente y previa publicación respectiva e inicio de su vigencia, procederá, a la reforma y adecuaciones necesarias a la Ley Estatal de Planeación, a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a la Ley Orgánica de la Administración Pública del Estado de Morelos, Ley Orgánica del Poder Judicial, Ley de Justicia Administrativa del Estado de Morelos, Ley Orgánica Municipal del Estado de Morelos, al Código Electoral para el Estado de Morelos, y a los demás ordenamientos que resulten necesarios, así como aquellos de nueva creación en los términos de este Decreto.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+> <small>(F. DE E., 29 DE NOVIEMBRE DE 2000)</small>
+
+QUINTO.- Lo dispuesto por los artículos 33, 19-bis en su apartado de reforma, 63, 74 y 109 de este Decreto, tendrán vigencia a partir del primero de octubre del año dos mil.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO NUMERO 1235
+
+PRIMERO.- El presente Decreto de reformas y adiciones a diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día en que el Congreso del Estado haga el cómputo de los Ayuntamientos, siempre que resulte favorable, emitirán también la declaratoria correspondiente, el Decreto será publicado en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+> <small>(F. DE E., 29 DE NOVIEMBRE DE 2000)</small>
+
+SEGUNDO.- El Congreso del Estado, aprobado que fuere el presente Decreto por el Constituyente Permanente y previa publicación respectiva e inicio de su vigencia, procederá, a la reforma y adecuaciones necesarias a la Ley Estatal de Planeación, a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a la Ley Orgánica de la Administración Pública del Estado de Morelos, Ley Orgánica del Poder Judicial, Ley de Justicia Administrativa del Estado de Morelos, Ley Orgánica Municipal del Estado de Morelos, al Código Electoral para el Estado de Morelos, y a los demás ordenamientos que resulten necesarios, así como aquellos de nueva creación en los términos de este Decreto.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+CUARTO.- El Congreso del Estado deberá expedir la Ley o Decreto de Ley, que regule el funcionamiento del Instituto de Desarrollo y Fortalecimiento Municipal, en un término no mayor de sesenta días, contados a partir de la iniciación de la vigencia del presente Decreto.
+
+> <small>(F. DE E., 29 DE NOVIEMBRE DE 2000)</small>
+
+QUINTO.- Las disposiciones contenidas en el artículo 19-bis, en su apartado de adición, iniciará su vigencia el día primero de octubre del año dos mil.
