@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1953-11-24"
+last_updated: "1953-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -146,6 +146,10 @@ P.O. 8 DE OCTUBRE DE 1953.
 P.O. 24 DE NOVIEMBRE DE 1953.
 
 Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1953.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -753,9 +757,9 @@ VI. Acordar por sí o a propuesta del Ejecutivo el cambio de los Jueces de Prime
 
 VII.- Conceder licencias hasta por tres meses a los Jueces de Primera Instancia.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 1953)</small>
+> <small>(N. DE E. CONFORME CON EL DECRETO NO. 82 PUBLICADO EN EL P.O. EL 24 DE DICIEMBRE DE 1953, SE SUSPENDEN LOS EFECTOS DEL DECRETO NO. 10, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 1953; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO REFORMADO Y PUBLICADO EN EL P.O. EL 24 DE FEBRERO DE 1948, QUE SE CONTEMPLABA ANTES DEL DECRETO QUE QUEDA EN SUSPENSO)</small>
 
-VIII. Formular las ternas que deben de enviarse a las Asambleas Municipales para designar Jueces Conciliadores y nombrar y remover a los empleados de dichos Juzgados. Formular las ternas que deban de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, a que se refiere la Fracción XIV del Artículo 53 de la propia Constitución; y formar su reglamento interior.
+VIII. Formular las ternas que deben de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, y a que se refiere la fracción XIV del artículo 53 de la propia Constitución; y formar su Reglamento Interior.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
@@ -865,17 +869,17 @@ VIII. Designar de entre sus miembros y en la forma que establezca la ley, a los 
 
 IX. Calificar la elección de los Municipios y del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1953)</small>
+> <small>(N. DE E. CONFORME CON EL DECRETO NO. 82 PUBLICADO EN EL P.O. EL 24 DE DICIEMBRE DE 1953, SE SUSPENDEN LOS EFECTOS DEL DECRETO NO. 10, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 1953; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO VIGENTE DE LA PRESENTE FRACCION, QUE SE CONTEMPLABA ANTES DEL DECRETO QUE QUEDA EN SUSPENSO)</small>
 
-X. Admitir o desechar la renuncia que hicieren los Munícipes o el Presidente Municipal.
+X. Admitir o desechar la renuncia que hicieren los Munícipes, los Jueces Conciliadores o el Presidente Municipal.
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
 
 XI. Nombrar y remover libremente al Oficial Mayor y demás Empleados de la Asamblea.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1953)</small>
+> <small>(N. DE E. CONFORME CON EL DECRETO NO. 82 PUBLICADO EN EL P.O. EL 24 DE DICIEMBRE DE 1953, SE SUSPENDEN LOS EFECTOS DEL DECRETO NO. 10, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 1953; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO REFORMADO Y PUBLICADO EN EL P.O. EL 8 DE SEPTIEMBRE DE 1946, QUE SE CONTEMPLABA ANTES DEL DECRETO QUE QUEDA EN SUSPENSO)</small>
 
-XII. Conceder licencia a los Munícipes, Presidentes Municipales y Jueces Auxiliares, así como al Oficial Mayor y demás empleados de la Asamblea.
+XII. Conceder licencia a los Munícipes, Presidentes Municipales, Jueces Conciliadores y Auxiliares, así como al Oficial Mayor y demás Empleados de la Asamblea.
 
 XIII. Formar su reglamento interior.
 
