@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1987-11-16"
+last_updated: "1989-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE AGOSTO DE 1989.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -93,9 +93,11 @@ Los Municipios en todos aquellos asuntos que deban tratarse y resolverse con el 
 
 Las Autoridades Municipales tiene competencia plena sobre su territorio y población, así como en su organización administrativa con las limitaciones que establezcan las leyes.
 
+> <small>(ADICIONADO, B.O. 21 DE AGOSTO DE 1989)</small>
+
 ###### ARTICULO 9o.
 
-El Estado se integra con los siguientes Municipios: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Atil, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bácum, Banámichi, Baviácora, Bavispe, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, La Colorada, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Moctezuma, Naco, Nácori Chico, Nacozari de García, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Puerto Peñasco, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Luis Río Colorado, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Sáric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
+El Estado se integra con los siguientes Municipios: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Atil, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bácum, Banámichi, Baviácora, Bavispe, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, La Colorada, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, General Plutarco Elías Calles, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Moctezuma, Naco, Nácori Chico, Nacozari de García, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Puerto Peñasco, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Luis Río Colorado, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Sáric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
 
 ###### ARTICULO 10.
 
@@ -1488,3 +1490,17 @@ B.O. 16 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE AGOSTO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+SE ADICIONA EL ARTICULO 9º, DE LA LEY NUMERO 43 ORGANICA DE ADMINISTRACION MUNICIPAL, PARA INCLUIR EL NOMBRE DEL MUNICIPIO GENERAL PLUTARCO ELIAS CALLES, ENTRE LOS MUNICIPIOS DE FRONTERAS Y GRANADOS, QUEDANDO EL RESTO DE SU TEXTO EN LOS MISMOS TERMINOS QUE ACTUALMENTE APARECE VIGENTE.
+
+###### ARTICULO SEGUNDO.
+
+EL EJECUTIVO DEL ESTADO PROCEDERA EN LA FECHA EN QUE ENTRE EN VIGOR LA PRESENTE LEY A NOMBRAR UN CONCEJO MUNICIPAL, QUE DURARA EN FUNCIONES HASTA EN TANTO SE REALICEN LAS PROXIMAS ELECCIONES ORDINARIAS DEL ESTADO DE SONORA, EN EL CITADO MUNICIPIO GENERAL DE PLUTARCO ELIAS CALLES.
+
+###### ARTICULO TERCERO.
+
+ESTA LEY ENTRARA EN VIGOR TREINTA DIAS DESPUES DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
