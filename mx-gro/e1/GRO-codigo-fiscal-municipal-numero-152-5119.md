@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1987-12-30"
+last_updated: "1988-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -71,7 +71,13 @@ c).- El Presupuesto de Egresos Municipal.
 
 d).- La Ley de Hacienda Municipal del Estado de Guerrero.
 
-e).- Los demás ordenamientos que contengan disposiciones de orden Hacendario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+e).- La Ley de Catastro.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+f).- Los demás ordenamientos que contengan disposiciones de orden hacendario.
 
 La aplicación de los ordenamientos legales a que se refiere este artículo le corresponderá al Ayuntamiento por conducto del Presidente Municipal y demás autoridades fiscales señaladas en el presente Código.
 
@@ -289,7 +295,9 @@ Pago o entero es el cumplimiento de una obligación fiscal determinada en cantid
 
 I. Si es a las autoridades a las que corresponde hacer la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efectos la notificación de la misma.
 
-II. Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los veinte días siguientes a la fecha de su celebración u otorgamiento.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+II. A los sujetos pasivos o responsables solidarios les corresponde determinar en cantidad líquida la prestación fiscal, dentro de los diez días siguientes a la fecha de su causación en tratándose de personas físicas y quince días en el caso de las personas morales.
 
 ###### ARTICULO 31o.
 
@@ -551,6 +559,22 @@ Por los incapacitados, los concursados, los ausentes y las sucesiones, comparece
 
 Los poderes se sujetarán a los requisitos y forma establecidos por las Leyes Civiles del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 68 BIS.- Toda promoción que se presente ante las autoridades fiscales deberá contener los siguientes requisitos:
+
+I.- Constar por escrito.
+
+II.- Nombre, denominación o razón social y el domicilio fiscal manifestado al Registro de Contribuyentes Municipal.
+
+III.- Señalar la autoridad a la que se dirige y el propósito de la promoción.
+
+IV.- En su caso, el domicilio para oír y recibir notificaciones dentro de la jurisdicción municipal y el nombre de la persona autorizada para recibirlas.
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días, cumpla con el requisito omitido, de lo contrario se tendrá por no interpuesta dicha promoción.
+
+Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
+
 ###### ARTICULO 69o.
 
 Los interesados directamente en situaciones reales y concretas que planteen consultas sobre aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que las autoridades dicten resolución sobre tales consultas.
@@ -560,6 +584,10 @@ Las autoridades se abstendrán de resolver consultas relativas a la interpretaci
 ###### ARTICULO 70o.
 
 Las consultas o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en el término que la Ley fija, a falta de término establecido en noventa días. El silencio de las autoridades fiscales se considera como resolución negativa cuando no den respuesta en el término que corresponde.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+Transcurrido los plazos establecidos para ello, el recurrente podrá decidir entre esperar la resolución expresa o promover el juicio de nulidad en contra de la negativa ficta ante el Tribunal de lo Contencioso Administrativo.
 
 ###### ARTICULO 71o.
 
@@ -761,7 +789,9 @@ I. Faltar en todo o en parte al pago de cualesquiera de los gravámenes o derech
 
 II. No hacer el pago de las prestaciones fiscales cuando la omisión se realice por medios diversos de los señalados en la fracción anterior.
 
-III. Incurrir en cualquiera otra forma al cumplimiento de las obligaciones que esta Ley y la de Ingresos imponen.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+III.- Incurrir en cualquiera otra forma al incumplimiento de las obligaciones que este Código, las leyes de hacienda y de ingresos imponen.
 
 ###### ARTICULO 82o.
 
@@ -792,6 +822,10 @@ V. En el caso de infracciones continuas y que no sea posible determinar el monto
 VI. Cuando las infracciones no se estimen leves y consistan en hechos, omisiones o falta de requisitos semejantes en documentos o libros y siempre que no traigan o puedan traer como consecuencia la evasión del impuesto, se impondrá solamente una multa que no excederá del límite que fija este Código para sancionar cada hecho, omisión o falta de requisitos;
 
 VII. Cuando se estime que la infracción cometida es leve y que no se ha tenido como consecuencia la evasión del impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviera a incurrir en la infracción;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+En tratándose de aviso de movimiento de propiedad de inmuebles presentado fuera del plazo, cuando no se cause el impuesto sobre adquisición de bienes inmuebles, se impondrá la sanción que establece la fracción XIII del artículo 86 de este Código.
 
 VIII. Cuando se omita una prestación fiscal que corresponda a los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante el Notario o Corredor titulado, la sanción se impondrá exclusivamente a los Notarios o Corredores y los otorgantes solo quedarán obligados a pagar los impuestos omitidos;
 
@@ -833,7 +867,9 @@ XI. No devolver oportunamente a las autoridades los comprobantes de pago de las 
 
 XII. Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma; de uno a noventa días del salario mínimo vigente en el Municipio.
 
-XIII. No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias, libros, documentos que exijan las disposiciones fiscales; no comprobarlos o no aclararlos, cuando las autoridades fiscales lo soliciten; hasta un día de salario mínimo vigente en el Municipio.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+XIII. No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias, libros, documentos que exijan las disposiciones fiscales no comprobarlos o no aclararlos, cuando las autoridades fiscales lo soliciten; de uno hasta diez días de salario mínimo vigente en el municipio.
 
 XIV. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal; de uno hasta noventa días de salario mínimo vigente en el Municipio.
 
@@ -1077,7 +1113,9 @@ En el momento de la notificación se entregará al notificado o, a la persona co
 
 Las notificaciones practicadas en los términos de los párrafos anteriores se tendrán por hechas en forma legal.
 
-b).- Por edicto que se publique dos veces, de tres en tres días, en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la entidad, se encuentre en el extranjero sin haber dejado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+b).- Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la Entidad, se encuentre en el extranjero sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión.
 
 c).- En los demás casos por medio de oficios o telegramas.
 
@@ -1141,9 +1179,13 @@ En el caso del artículo 113, se procederá como sigue:
 
 I. Si la exigibilidad se origina por situaciones previstas en el artículo 39 se ordenará requerir al deudor para que efectúe el pago dentro de los cinco días hábiles siguientes a la fecha en que surta efectos dicho requerimiento, apercibido que de no hacerlo se le embargarán bienes de su propiedad suficientes para hacer efectivo el crédito fiscal y sus accesorios.
 
-II. Transcurridos cinco días a partir de la exigibilidad del crédito fiscal respectivo, la dependencia recaudadora donde radique el cobro, formulará la liquidación del adeudo e iniciará el procedimiento administrativo de ejecución, con mandamiento debidamente motivado y fundado ordenando que se notifique al deudor el crédito determinado a su cargo, para que se efectúe el pago en la caja de la propia dependencia dentro de los diez días siguientes al de la notificación.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
-III. Para el caso de que se hubiese celebrado convenio con el deudor para el pago a plazos de un crédito vencido y dos de ellos no sean cubiertos oportunamente, se dará por terminado el convenio y se hará exigible la totalidad del crédito, procediéndose a su cobro como lo señalan las fracciones precedentes.
+II. Al día siguiente de vencido el plazo para el pago del crédito fiscal respectivo, la dependencia recaudadora donde radique el cobro, formulará la liquidación del adeudo e iniciará el procedimiento administrativo de ejecución, con mandamiento debidamente motivado y fundado ordenando que se notifique al deudor el crédito determinado a su cargo, para que se efectúe el pago en la caja de la propia dependencia dentro de los cinco días siguientes al que surta efecto la notificación.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+III. Para el caso de que se hubiere celebrado convenio con el deudor para el pago a plazos de un crédito vencido y uno de ellos no sea cubierto oportunamente, se dará por terminado el convenio procediéndose a su cobro como lo señalan las fracciones precedentes.
 
 IV. Transcurrido el término que señala la fracción anterior, se ordenará requerir al deudor para que se efectúe el pago y en caso de no hacerlo en la misma diligencia se le embargarán bienes de su propiedad suficientes para garantizar el crédito fiscal y sus accesorios.
 
@@ -1183,7 +1225,9 @@ II. La resolución de la que se derive el crédito fiscal y el monto de este;
 
 III. Los motivos y fundamentos por los que se considere responsable del crédito; y
 
-IV. El plazo para el pago, el cual será de diez días salvo que la Ley señale otro.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+IV. El plazo para el pago, el cual será de cinco días salvo que la Ley señale otro.
 
 #### SECCION SEGUNDA. DEL EMBARGO PRECAUTORIO
 
@@ -1201,9 +1245,11 @@ Una vez determinado el crédito fiscal, el embargo precautorio se convertirá en
 
 Si el crédito fiscal se cubre dentro de los plazos legales, el deudor no estará obligado a cubrir recargos ni gastos de ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 121o.
 
-Las autoridades fiscales, una vez que haya transcurrido el término de diez días de la notificación del crédito fiscal sin haber realizado el pago, procederá a requerir el pago del mismo al deudor y, en caso de no hacerlo en el acto, procederán como sigue:
+Las autoridades fiscales, una vez que haya transcurrido el término de cinco días de la notificación del crédito fiscal sin que se haya realizado el pago, procederán a requerir al deudor, y en caso de no efectuar el pago en el acto, procederán como sigue:
 
 I. A embargar bienes suficientes para en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco;
 
@@ -1395,7 +1441,9 @@ DE LOS REMATES.
 
 La venta de bienes embargados procederá:
 
-I.- Al vigésimo primer día de practicado el embargo, si en contra de éste no se hace objeción o cuando quedare firme, al resolverse la que se hubiere hecho valer; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+I.- A partir del día siguiente a aquel en que se hubiese fijado la base para el remate en términos del artículo 143 de este Código.
 
 II.- En los casos de las fracciones I y II del artículo 120, cuando los créditos se hagan exigibles y no se paguen dentro del término del requerimiento.
 
@@ -1415,6 +1463,10 @@ II.- El deudor deberá ponerse de acuerdo con la Tesorería sobre el nombramient
 
 III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la Tesorería Municipal, ésta nombrará perito tercero, escogiéndolo dentro de los de institución bancaria.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+IV.- Los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles; diez días si son inmuebles y veinte días cuando sean negociaciones, a partir de la fecha de su designación.
+
 ###### ARTICULO 144o.
 
 El remate deberá ser convocado para una fecha fijada dentro de treinta días siguientes a la determinación del precio que debe servir de base.
@@ -1423,7 +1475,9 @@ La publicación de la convocatoria se hará cuando menos diez días antes de la 
 
 La convocatoria se fijará en un sitio visible y usual de la Tesorería Municipal y en los lugares Públicos que se juzgue conveniente.
 
-Cuando el valor de los muebles o inmuebles excedan dos veces el salario mínimo vigente en el municipio la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación si lo hubiere, donde resida la Tesorería Municipal, dos veces con intermedio de diez días.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+Cuando el valor de los muebles o inmuebles exceda cinco veces el salario mínimo elevado al año en la zona que le corresponda, la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación si lo hubiere, donde resida la Tesorería Municipal, dos veces de siete en siete días.
 
 En todo caso a petición del deudor y previo pago del costo, la Tesorería puede ordenar una publicidad más amplia, dentro del plazo señalado en el 1er. párrafo de este artículo.
 
@@ -1479,13 +1533,17 @@ Fincado el remate de bienes muebles se aplicará el depósito constituido y el p
 
 Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Tesorería Municipal si este requisito fuere necesario conforme al artículo siguiente, la Tesorería Municipal procederá a entregar los bienes que le hubiere adjudicado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 154o.
 
-Si los bienes rematados fueran raíces o muebles cuyo valor exceda de 15 días de salario mínimo vigente en el Municipio, la oficina ejecutora, dentro de un plazo de cinco días enviará el expediente a la Tesorería Municipal para que previa revisión, apruebe el remate, si se encuentra ajustado a las normas que lo rigen.
+Si los bienes rematados fueran raíces o muebles cuyo valor exceda de cien días de salario mínimo vigente en el Municipio, la oficina ejecutora, dentro de un plazo de cinco días enviará el expediente al Tesorero Municipal para que previa revisión, apruebe el remate si se encuentra ajustado a las normas que lo rigen.
 
 Si la resolución es negativa, el fincamiento de remate que haya hecho la oficina ejecutora quedará sin efectos y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituído.
 
-Aprobado el remate de bienes raíces, se le comunicará al postor para que dentro del plazo de los 10 días entere a la caja de la Tesorería Municipal la cantidad de contado ofrecida en su postura aceptada.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+Aprobado el remate de bienes raíces, se le comunicará al postor para que dentro del plazo de cinco días entere a la caja de la Tesorería Municipal la cantidad de contado ofrecida en su postura aceptada.
 
 Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado el notario por el postor, se citará al deudor para que, dentro del plazo de tres días otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Tesorero Municipal la otorgará y firmará en su rebeldía.
 
@@ -1559,9 +1617,11 @@ La base para el remate de la segunda almoneda, se determinará deduciendo un 20%
 
 Si tampoco se fincare el remate en la segunda almoneda, se considerará que el bien fue enajenado en un 50% del valor de avalúo, asentándose como dación en pago para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
 
-###### ARTICULO 162.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
-Las Tesorerías Municipales podrán vender en subasta cuando se trate de bienes de fácil descomposición o deterioro, de materias inflamables o de semovientes y, cuando después de celebrar una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la última almoneda.
+###### ARTICULO 162o.
+
+Las Tesorerías Municipales podrán vender fuera de subasta cuando se trate de bienes de fácil descomposición o deterioro, de materias inflamables o de semovientes y, cuando después de celebrar una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la última almoneda.
 
 Cuando se trate de bienes raíces o de bienes inmuebles que habiendo salido a subasta por lo menos en una almoneda y no se hubiere presentado postores, las Tesorerías Municipales solicitarán al Ayuntamiento autorización para su venta, al nuevo comprador.
 
@@ -1665,6 +1725,20 @@ V.- La nulidad de notificaciones.
 
 Estas defensas no podrán ser ejercitadas en contra de resoluciones o actos que sean consecuencia de recursos, establecidos en otras leyes fiscales.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 171 BIS.- Son improcedentes los recursos cuando se hagan valer contra actos administrativos:
+
+I.- Que no afecten el interés jurídico del recurrente.
+
+II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias.
+
+III.- Que hayan sido impugnadas ante el Tribunal de lo Contencioso Administrativo.
+
+IV.- Que se haya consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
+
+V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
+
 ###### ARTICULO 172o.
 
 Contra las resoluciones dictadas en materia fiscal municipal, se podrán interponer los recursos administrativos determinados en el artículo 171.
@@ -1677,13 +1751,71 @@ Las resoluciones que se dicten como consecuencia de recursos no establecidos leg
 
 La tramitación de los recursos administrativos establecidos en este Código y la de los instituidos en las demás leyes fiscales que no tengan señalado trámite especial, se sujetará a las normas siguientes:
 
-I. Se interpondrá por el recurrente mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos su notificación, expresando los agravios que aquel le cause, ofreciendo las pruebas que se propongan rendir y acompañando copia de la resolución combatida, (así como la constancia de la notificación de ésta última, excepto si la notificación se hizo por correo).
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+I.- Se interpondrá por el recurrente mediante escrito el cual deberá satisfacer los requisitos del artículo 68-BIS, mismo que se presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos su notificación, expresando los agravios que aquél le cause y ofreciendo las pruebas que se propongan rendir.
+
+Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días lo indique, en caso de incumplimiento, se tendrá por no presentado el recurso.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+II.- El promovente deberá acompañar al escrito en que se interponga el recurso:
+
+a).- Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales.
+
+b).- El documento en que conste el acto impugnado.
+
+c).- Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edicto, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
+
+d).- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
+
+Cuando no se acompañe alguno de los documentos a que se refiere esta fracción, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente y, en caso de que no lo haga, se tendrá por no ofrecidas las pruebas; en ningún caso serán recabadas por la autoridad, salvo que obre en el expediente en que se haya originado la resolución combatida, y si se trata de los documentos mencionados en los incisos a), b) y c), se tendrá por no interpuesto el recurso.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+III.- En los recursos administrativos se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades. Si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se admitirán en el recurso las que hubieren sido rendidas en tal oportunidad.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+IV.- Las pruebas que ofrezca el recurrente, deberá relacionarlas con cada uno de los hechos controvertidos, sin el cumplimiento de este requisito serán desechadas de plano.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+V.- La prueba pericial se desahogará con la presentación del dictamen dentro del plazo de ley, de lo contrario, la prueba será declarada desierta.
+
+(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988) (F. DE E., P.O. 7 DE FEBRERO DE 1989)
+
+VI.- Las autoridades fiscales podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+VII.- La autoridad encargada de resolver el recurso, acordará lo que proceda sobre la admisión de las pruebas que el recurrente hubiera ofrecido, que fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+VIII.- La autoridad dictará resolución en un término que no excederá de treinta días. En caso contrario, se estará a lo que dispone al artículo 70 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 174 BIS.- Las resoluciones que pongan fin a los recursos podrán:
+
+I.- Desecharlo por improcedente o sobreseerlo en su caso.
+
+II.- Confirmar el acto impugnado.
+
+III.- Mandar reponer el procedimiento administrativo.
+
+IV.- Dejar sin efecto el acto impugnado.
+
+V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
 ###### ARTICULO 175o.
 
 La revocación procederá contra resoluciones definitivas en que se determinen créditos fiscales; se nieguen la devolución de las cantidades pagadas indebidamente o de las que procedan conforme a las Leyes Fiscales; se imponga una sanción por la infracción a las citadas Leyes Fiscales; y contra los dictámenes emitidos en Materia de Catastro.
 
-El afectado por las resoluciones administrativas a que se refiere el párrafo anterior, podrá optar entre interponer el recurso de revocación o promover el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, pero deberá intentar la misma vía cuando se trate de créditos fiscales conexos; por lo tanto, será improcedente este recurso contra resoluciones administrativas que determinan créditos fiscales conexos a otro directamente impugnado en juicio de nulidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+El afectado por las resoluciones administrativas a que se refiere el párrafo anterior, podrá optar entre interponer el recurso de revocación o promover el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, pero deberá intentar la misma vía cuando se trate de créditos fiscales conexos.
 
 La resolución que se dicte en el recurso de revocación, también será impugnable ante dicho Tribunal.
 
@@ -1792,3 +1924,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día primero de enero de mil novecientos ochenta y nueve.
