@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1965-12-30"
+last_updated: "1974-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -1837,9 +1837,9 @@ II.- Impuestos y derechos de carácter municipal que causen dichos inmuebles, po
 
 III.- Los de patente o sobre giros comerciales, en la inteligencia de que este impuesto lo pagarán en el lugar de su domicilio y no en las agencias o sucursales que tengan en otros lugares.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1974)</small>
 
-IV.- El Impuesto Federal sobre Primas y el del Timbre establecido por las fracciones II y VII inciso C de la Tarifa contenida en el artículo 4o., de la Ley General del Timbre, en los términos de las leyes respectivas.
+IV.- El Impuesto Federal sobre Primas Pagadas a Instituciones de Seguros y los impuestos y derechos establecidos por la Ley General del Timbre, en los términos de las leyes respectivas.
 
 > <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -1861,17 +1861,17 @@ c). El 20% restante, en relación con las utilidades y las instituciones naciona
 
 d). Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A., y el fondo que con ellas se forme, será manejado por la Secretaría de Hacienda y Crédito Público en los términos del reglamento respectivo.
 
-(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
-
 ###### ARTICULO 133.
 
-No causan el impuesto del timbre los libros de contabilidad de las instituciones a que se refiere el artículo anterior, ni los contrato que ellas celebren, ni los títulos o documentos que ellas expidan, cualquiera que sea su carácter y siempre que tales contratos, títulos o documentos sean propios de los servicios que la institución está autorizada a prestar, salvo los señalados en la fracción IV del artículo anterior. La exención señalada comprende a todas las partes que intervengan en los contratos, títulos o documentos para los que la misma se concede.
+(DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1974)
 
 ###### ARTICULO 134.
 
 Ni la Federación, ni los Estados ni los Municipios, podrán gravar con otros impuestos el capital de las instituciones de seguros a que se refiere el artículo 132 ni las operaciones propias de su objeto que dichas instituciones practiquen, con excepción de los créditos hipotecarios en los cuales el monto del impuesto no exederá de 0.25% sobre el importe de la operación por una vez, como derecho de inscripción en el Registro, sea de la Propiedad, de Hipotecas, de Comercio o de Crédito. La cancelación de las inscripciones no causará derecho alguno. Para los efectos de este artículo, el Distrito y los Territorios Federales se equiparán a los Estados.
 
-Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y a las personas que con ellos contraten. Los derechos de registro que en él se autorizan deberán ser cubiertos por quien solicite la inscripción.
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1974)</small>
+
+Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y a las personas que con ellos celebren contratos de seguros. Los derechos de registro que en él se autorizan deberán ser cubiertos por quien solicite la Inscripción.
 
 ###### ARTICULO 135.
 
@@ -2270,3 +2270,19 @@ En caso de violación a este precepto la institución de que se trate deberá re
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 19 DE NOVIEMBRE DE 1974.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día de su publicación en el "Diario Oficial" de la Federación, salvo las reformas a la Ley del Impuesto sobre Producción y Consumo de Cerveza y las reformas, adiciones y derogaciones de los artículos relativos al "Título Tercero" de la Ley del Impuesto sobre la Renta, que se aplicarán a partir del 1o. de diciembre de 1974 y del 1o. de enero de 1975, respectivamente. Las disposiciones contenidas en el artículo 19 fracción VI inciso h) y artículo 21 fracción XII de dicha ley no se aplicarán a los ingresos o erogaciones que deriven de contratos celebrados con anterioridad a la vigencia de estas reformas, aun cuando se obtengan o efectúen con posterioridad a las mismas.
+
+...
+
+ARTICULO DECIMOTERCERO.- Se derogan los artículos 133 de la Ley General de Instituciones de Seguros y 155, 158 y 159 de la Ley General de Instituciones de Crédito.
+
+...
+
+ARTICULO DECIMOQUINTO.- Se derogan todas las disposiciones que se opongan a la reforma contenida en el Artículo Decimotercero de esta ley.
