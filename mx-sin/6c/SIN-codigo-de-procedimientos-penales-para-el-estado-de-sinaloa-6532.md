@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "1995-04-05"
+last_updated: "1998-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1998.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -133,7 +133,13 @@ IV.- Recibir la asistencia médica de urgencia y psicológica cuando lo requiera
 
 V.- Los demás que señalen las leyes.
 
-En virtud de lo anterior, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquel, todos los datos o elementos de prueba con que cuente, que conduzcan a acreditar los elementos del tipo penal y a establecer la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+La asistencia jurídica será proveída por el Estado, por conducto de la Procuraduría de Justicia, en forma oportuna, competente y gratuita, a partir del inicio de la averiguación previa y hasta que cause ejecutoria la sentencia que afecte sus intereses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 1998)</small>
+
+En cuanto a la fracción II, la víctima o el ofendido, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba con que cuente, que conduzcan a acreditar los elementos del tipo penal y a establecer la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
 
 En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por el delito para que comparezca por sí o por su representante designado en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
 
@@ -791,7 +797,9 @@ Sólo podrán perseguirse a petición de parte ofendida, los delitos que así de
 
 Cuando el ofendido sea menor de edad, puede querellarse por sí mismo, y si a su nombre lo hace otra personas, (sic) surtirá sus efectos la querella, si no hay oposición del ofendido.
 
-Cuando para la persecución de los delitos se haga necesaria la querella de la parte ofendida, bastará que ésta, aunque sea menor de edad, manifieste verbalmente su queja, para que se proceda en los términos de los Artículos 112 y 113. Se reputará parte ofendida para tener por satisfecho el requisito de la querella necesaria, a toda persona que haya sufrido algún perjuicio con motivo del delito y, tratándose de incapaces, a los ascendientes, y a falta de éstos, a los hermanos o los que representen a aquéllas legalmente.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Cuando para la persecución de los delitos se haga necesaria la querella de la parte ofendida, bastará que ésta, aunque sea menor de edad, manifieste verbalmente su queja y su petición de que se proceda contra los responsables, sin necesidad de que la enderece contra persona determinada, para que se proceda en los términos de los artículos 112 y 113. Se reputará parte ofendida para tener por satisfecho el requisito de la querella necesaria, a toda persona que haya sufrido algún perjuicio con motivo del delito y, tratándose de incapaces, a los ascendientes, y a falta de éstos, a los hermanos o los que representen a aquéllas legalmente.
 
 Las querellas presentadas por las personas morales, podrán ser formuladas por su legítimo representante, conforme a la Ley y sus Estatutos, sin que sea necesario acuerdo previo o ratificación del Consejo de Administración o de la Asamblea de Socios o Accionistas ni poder especial para el caso concreto.
 
@@ -807,7 +815,15 @@ Al iniciar el procedimiento el Ministerio Público o la Policía Judicial, se tr
 
 En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
 
-Se considerará que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, o si inmediatamente después de ejecutado el hecho delictuoso: a) aquél es perseguido materialmente; o b) alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su intervención en la comisión de delito.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Se considerará que hay delito flagrante cuando el indiciado:
+
+A).- Es detenido en el momento de estarlo cometiendo;
+
+B).- Es perseguido material e inmediatamente después de ejecutado el delito; o
+
+C).- Es señalado como responsable por la víctima, algún testigo presencial de los hechos o quien hubiere participado con él en la comisión del delito, y se encuentre en su poder, el objeto, instrumento o producto del delito, o bien aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito; siempre y cuando se trate de un delito grave, así calificado por este Código, y no hayan transcurrido setenta y dos horas, contadas a partir de la comisión de los hechos delictivos.
 
 En esos casos, el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según procediere, decretará la retención del indiciado si el delito es perseguible de oficio o perseguible previa querella u otro requisito equivalente que ya se encuentre satisfecho, o bien, ordenará la libertad del detenido.
 
@@ -827,9 +843,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en el artículo 139; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168; rapto con violencia previsto en el artículo 169; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179,180 y 181; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en el artículo 207; robo bancario previsto en el artículo 210; abigeato en los artículos 220 y 224; ataques a los medios de transporte previsto en el 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; el de tortura previsto en el artículo 328; y los delitos electorales previstos en los artículos 357 fracción III y 359.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en el artículo 139; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en el artículo 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; el de extorsión previsto en el artículo 231; ataques a los medios de transporte previsto en el 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; el de tortura previsto en el artículo 328; y los delitos electorales previstos en los artículos 357 fracción III y 359.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -963,9 +979,11 @@ II.- Las pruebas que suministren las personas que rindan el parte o hagan la den
 
 III.- Las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; evitando que el delito se siga cometiendo, y en general, todas aquellas que contribuyan a complementar la investigación.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
-ARTICULO 128 BIS.- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+###### ARTICULO 128 Bis.
+
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado o la prohibición de abandonar una determinada circunscripción, tomando en cuenta las características del hecho imputado y las circunstancias personas de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares o la prohibición de abandonar una determinada circunscripción territorial. El arraigo o, en su caso, la prohibición de abandonar una determinada circunscripción territorial se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al indiciado, sobre la subsistencia o levantamiento del arraigo o la prohibición de abandonar una determinada circunscripción territorial.
 
 ###### ARTICULO 129.
 
@@ -2871,6 +2889,10 @@ I.- Cuando el respnsable (sic) se hubiere substraído a la acción de la justici
 
 II.- Cuando después de incoado el procedimiento se descubriere que el delito es de aquéllos respecto de los cuales, conforme a la ley, no se puede proceder sin que sean llenados determinados requisitos y éstos no se hubieren cumplido; y
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Los requisitos omitidos podrán ser subsanados en cualquier momento por quién en su oportunidad debió cumplirlos, pero si el procedimiento estuviere en cualquiera de las fases previstas en las fracciones II, III y IV del artículo primero de este Código, la presentación de las pruebas que acrediten dicho cumplimiento se hará por conducto del Ministerio Público. Una vez que se cumplan tales requisitos continuará el procedimiento en la forma establecida por la ley;
+
 III.- Cuando durante el juicio enloqueciera el procesado, debiendo reanudarse de inmediato el procedimiento tan pronto desaparezca dicha causa.
 
 ###### ARTICULO 439.
@@ -3189,6 +3211,12 @@ IV.- Que no se trate de alguno de los delitos señalados como graves en el artí
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II podrán consistir en lo que señala el artículo 498 de este Código.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 492 Bis.
+
+En casos de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional bajo caución, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
 ###### ARTICULO 493.
 
 La libertad bajo caución podrá pedirse en cualquier tiempo por el acusado o por su defensor.
@@ -3300,6 +3328,10 @@ IV.- En los casos del Artículo 509 de este Código.
 ###### ARTICULO 506.
 
 En los casos de las fracciones I, II, III y VII del Artículo 504, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el Tribunal enviará el certificado de depósito al Fondo Auxiliar para la administración de Justicia del Estado, y en su caso el testimonio de la hipoteca a la Oficina Administrativa correspondiente, para que ejercite las acciones del caso a fin de hacer efectivo el crédito hipotecario.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Se procederá en la misma forma cuando fuere el Ministerio Público quien hubiese otorgado la libertad provisional bajo caución, en cuyo caso, enviará el certificado de depósito al Fondo de Apoyo a la Procuración de Justicia del Estado, y en su caso, el testimonio de la hipoteca a la dependencia competente para que ejercite las acciones tendientes a hacer efectivo el crédito hipotecario.
 
 ###### ARTICULO 507.
 
@@ -3644,3 +3676,7 @@ P.O. 5 DE ABRIL DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+P.O. 21 DE OCTUBRE DE 1998.
+
+ÚNICO.- El presente decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial El Estado de Sinaloa.
