@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-el-colegio-de-bachilleres-y-su-ley-organica-54
 country: "mx"
 rank: "decreto"
 publication_date: "1984-09-24"
-last_updated: "1991-05-09"
+last_updated: "1998-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO Y SU LEY ORGANICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1998.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de septiembre de 1984.
 
@@ -57,11 +57,11 @@ IV.- Otorgar o retirar reconocimiento de validez a los estudios realizados en lo
 
 V.- Ejercer las demás que sean afines con las anteriores.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998.)</small>
+
 ###### ARTICULO 3°.
 
-El Colegio de Bachilleres del Estado de Hidalgo, se regirá por lo dispuesto en La Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado, La Ley Federal de Educación y La Legislación Local en la Materia, y se ajustará a las normas que rijan los planteles de organización académica y programas de estudios del Colegio de Bachilleres de la ciudad de México.
-
-Para la coordinación académica de los planteles del Colegio de Bachilleres de Hidalgo, este celebrará un convenio con el Colegio de Bachilleres de la ciudad de México en el que se fijarán las áreas de asesoría.
+El Colegio de Bachilleres del Estado de Hidalgo, se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado; la Ley General de Educación y demás ordenamientos emanados del Congreso de la Unión y del Congreso del Estado.
 
 ###### ARTICULO 4°.
 
@@ -93,27 +93,17 @@ V.- Los directores de cada uno de los planteles que establezca el Colegio.
 
 En la Junta Directiva, como órgano colegiado de la institución, los acuerdos se tomarán por mayoría de votos y el Quórum se integrará con la asistencia de la mitad más uno de sus miembros y en caso de empate el presidente tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 7°.
 
-La Junta Directiva será el órgano supremo y estará integrado por:
+La máxima autoridad del Colegio de Bachilleres del Estado de Hidalgo, será la Junta Directiva, la cual estará integrada en la siguiente forma:
 
-I.- El Secretario de Desarrollo Social;
+I.- Tres representantes del Gobierno Estatal, que serán designados por el Gobernador Constitucional del Estado; uno de los cuales la presidirá.
 
-II.- El Secretario de Planeación;
+II.- Un representante del sector empresarial, designado por el Consejo Coordinador Empresarial y aprobado por el Gobernador Constitucional del Estado.
 
-III.- El Secretario de Finanzas;
-
-IV.- El Director General de Servicios Coordinados de Educación Pública en el Estado;
-
-V.- El Director General de Desarrollo Educativo; y
-
-VI.- El Sub-Director General de Planeación Educativa de la Dirección General de Servicios Coordinados de Educación Pública.
-
-Los nombramientos serán con carácter exclusivamente honoríficos.
-
-La Junta Directiva será presidida por uno de los funcionarios que se mencionan, mediante designación hecha por sus miembros y durará en su cargo dos años pudiendo ser reelectos.
+III.- Un representante del Gobierno Federal que será designado por el Secretario de Educación Publica.
 
 ###### ARTICULO 8°.
 
@@ -145,21 +135,21 @@ XII.- Conocer y resolver los asuntos que no sean de la competencia de ningún ot
 
 XIII.- Ejercer las demás facultades que le confiere esta ley y las normas y disposiciones reglamentarias del Colegio.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 9°.
 
-El Director General será el representante legal del Colegio y deberá llenar los requisitos siguientes:
+El Director General será el representante legal del Colegio y deberá llenar los requisitos siguientes;
 
-I.- Ser ciudadano hidalguense;
+I.- Ser ciudadano Hidalguense.
 
-II.- Tener la Mayoría de edad;
+II.- Derogado;
 
-III.- Poseer título a nivel licenciatura o su equivalente;
+III.- Poseer título a nivel licenciatura ó su equivalente;
 
-IV.- Tener experiencia académica, y
+IV.- Tener como mínimo cinco años de experiencia académica o profesional; y
 
 V.- Ser de reconocida solvencia moral.
-
-Durará en su desempeño cuatro años, pudiendo ser reelecto una vez.
 
 ###### ARTICULO 10°.
 
@@ -171,9 +161,11 @@ II.- Organizar planes para incrementar fondos del Colegio;
 
 III.- Ejercer las demás facultades que le confiere este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 11°.
 
-El Patronato estará integrado por un Presidente, un Vice-Presidente, un Secretario y tres vocales, los miembros del patronato serán de reconocida solvencia moral, se les designará por tiempo indefinido y desempeñarán su cargo con carácter honorario.
+El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario y los vocales necesarios para cumplir su fin. Los miembros del patronato serán de reconocida solvencia moral, se les designará por tiempo indefinido y desempeñarán su cargo con carácter honorífico.
 
 ###### ARTICULO 12°.
 
@@ -213,13 +205,11 @@ IV.- Ejercer las atribuciones que le señale este ordenamiento y las normas y di
 
 En las normas y disposiciones reglamentarias que expida la Junta Directiva, se establecerán las facultades y obligaciones de los directores de planteles, los cuales deberán reunir los requisitos señalados en el Artículo 9o. y durar en su desempeño cuatro años.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 16°.
 
-Al Colegio de Bachilleres del Estado de Hidalgo, corresponde fijar los términos de ingreso, promoción y permanencia de su personal académico, que deberá reunir los requisitos del Artículo 9º y prestará sus servicios mediante nombramiento, con carácter definitivo o interino; los nombramientos interinos deberán hacerse por un plazo no mayor de un periodo lectivo. La Junta Directiva podrá dispensar alguno o algunos de dichos requisitos.
-
-Los nombramientos definitivos se obtendrán mediante concurso de oposición o por procedimientos igualmente idóneos para comprobar la capacidad académica de los candidatos debiendo cumplir como requisito mínimo el de poseer título a nivel de licenciatura y haber cubierto el número de créditos que al efecto se señalen de acuerdo con la fracción III del Artículo 14º.
-
-Cuando por los programas de trabajo se requiera aumento de personal académico, o sea declarado desierto un concurso de oposición, el Director General podrá proponer el nombramiento de personal para la prestación de esos servicios.
+Al Colegio de Bachilleres del Estado de Hidalgo, corresponde fijar los términos de ingreso, promoción y permanencia de su personal académico. El cual deberá reunir los requisitos de: ser ciudadano mexicano, poseer título a nivel licenciatura ó su equivalente, tener experiencia académica, y ser de reconocida solvencia moral. Prestará sus servicios mediante nombramiento, con carácter definitivo ó interino; los nombramientos interinos deberán hacerse con un plazo no mayor de un período lectivo. La Junta Directiva podrá dispensar alguno a (sic) algunos de dichos requisitos.
 
 ###### ARTICULO 17°.
 
@@ -262,3 +252,7 @@ El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL.- El Secretario Gene
 P.O. 9 DE MAYO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE DICIEMBRE DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
