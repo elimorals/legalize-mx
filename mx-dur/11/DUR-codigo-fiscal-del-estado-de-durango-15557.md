@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2003-05-25"
+last_updated: "2003-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -109,7 +109,9 @@ Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstan
 
 La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
 
-Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad, de bienes del particular o la conclusión de la visita domiciliaria.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad, de bienes del particular o la conclusión de la visita domiciliaria.
 
 ###### ARTICULO 8.
 
@@ -149,9 +151,15 @@ Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante s
 
 Si el avalúo debe realizarse en poblaciones donde no se cuente con los servicios de instituciones de crédito o de corredor público, la Secretaría de Finanzas y de Administración podrá designar a personas u organismos versados en la materia. En cualquier caso, los avalúos estarán sujetos a la revisión y aceptación por parte de las autoridades fiscales.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 10.
 
-Para los efectos fiscales se entiende por salario, el salario mínimo general diario vigente que corresponda al área geográfica del Estado.
+Para efectos fiscales se entiende:
+
+I. Por salario, el salario mínimo general diario vigente que corresponda al área geográfica del Estado.
+
+II. Por ejercicio fiscal, el período comprendido del 1° de enero al 31 de diciembre.
 
 ### CAPÍTULO II. DE LOS INGRESOS
 
@@ -471,6 +479,10 @@ II. Los liquidadores y síndicos, por las contribuciones que debieron pagar a ca
 
 III. Los adquirientes de negociaciones, respecto de las contribuciones que se hubieren causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otras personas, sin que la responsabilidad exceda del valor de la misma.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Así mismo, los adquirientes de vehículos, por las contribuciones que se hubieren causado en relación con dicho vehículo.
+
 IV. Los representantes, sea cual fuere el nombre con que se le designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de las mismas.
 
 V. Los representantes legales y mandatarios, por los créditos fiscales que dejen de pagar por sus representados.
@@ -771,19 +783,27 @@ II. Nombrar y remover libremente al personal de la Secretaría de Finanzas y de 
 
 III. Expedir el Reglamento interior de la Secretaría de Finanzas y de Administración del Estado.
 
-IV. Conceder a los causantes esperas para el pago de los créditos fiscales.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-V. Condonar total o parcialmente los impuestos, derechos, productos y aprovechamientos, cuando la falta de pago o las infracciones cometidas obedezcan a causas involuntarias o de fuerza mayor, o a la situación económica de los causantes.
+IV.- Conceder a los contribuyentes esperas para el pago de los créditos fiscales.
 
-VI. Resolver en definitiva las bases que deban fijarse para la determinación de las prestaciones fiscales en cantidad líquida.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+V.- Condonar total o parcialmente los impuestos, derechos, productos y aprovechamientos, cuando la falta de pago o las infracciones cometidas obedezcan a causas involuntarias o de fuerza mayor, a la situación económica de los contribuyentes.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+VI.- Resolver en definitiva las bases que deban fijarse para la determinación de los créditos fiscales en cantidad líquida.
 
 VII. Fijar los métodos que deban seguirse en la contabilidad fiscal del Estado.
 
 VIII. Resolver las solicitudes de franquicias fiscales.
 
-IX. Celebrar convenios con los causantes respecto al pago de las prestaciones fiscales a su cargo, sin que el plazo de dichos convenios exceda del tiempo que falte para determinar su periodo constitucional, salvo los casos de que la ley autorice plazos mayores.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-X. Conceder subsidios a los contribuyentes respecto a las obligaciones fiscales a su cargo.
+IX.- Celebrar convenios con los contribuyentes respecto al pago de los créditos fiscales a su cargo, sin que el plazo de dichos convenios exceda del tiempo que falte para el término de su mandato constitucional, salvo aquellos casos en que la ley autorice plazos mayores.
+
+X.- Conceder subsidios o estímulos fiscales a los contribuyentes respecto a las obligaciones fiscales a su cargo.
 
 XI. Conceder prórrogas para el pago de los créditos fiscales, o para que los mismos sean cubiertos en parcialidades cuando las circunstancias generales o particulares de los documentos así lo ameriten.
 
@@ -1233,9 +1253,11 @@ V. Cuando se omita el pago de una contribución que corresponda a los actos o co
 
 VI. En el caso de que la multa se pague dentro de los quince días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 101.
 
-Cuando la comisión de una o varias infracciones originen la omisión total o parcial en el pago de contribuciones incluyendo las recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
+Cuando la comisión de una o varias infracciones originen la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
 
 I. 50% de las contribuciones omitidas, actualizadas, cuando el infractor las pague junto con sus accesorios antes de la resolución que determine el monto de la contribución que omitió.
 
@@ -1291,7 +1313,9 @@ III. No pagar las contribuciones dentro del plazo que establecen las disposicion
 
 IV. Presentar declaraciones o solicitudes que sin derecho den lugar a una devolución.
 
-V. Omitir el entero de contribuciones que se hubieran retenido o de los contribuyentes, dentro de los plazos señalados por las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+V. Omitir el entero de contribuciones, incluyendo las retenidas o recaudadas, dentro de los plazos señalados por las disposiciones fiscales.
 
 ###### ARTICULO 106.
 
@@ -1305,11 +1329,17 @@ b) Por presentar una declaración, solicitud, aviso o constancia, fuera del plaz
 
 II. Respecto de la señalada en la fracción II, de dos a cuatro salarios por cada dato incompleto, con error, en forma distinta a lo señalado por las disposiciones fiscales o suministrar datos falsos; caso este último al cual se aplicará la multa más alta.
 
-III. Tratándose de la señalada en las (sic) fracción III, un tanto de la contribución.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-IV. Para la señalada en la fracción V, de la multa será del 10% al 30% por ciento de la devolución indebida.
+III. Tratándose de la señalada en la fracción III, del 50% al 70% de la contribución omitida.
 
-V. Para la señalada en la fracción VI, la multa será de quinientos a mil salarios.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+IV. Para la señalada en la fracción IV, la multa será del 10% al 30% por ciento de la devolución indebida.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+V. Para la señalada en la fracción V, la multa será de veinticinco a treinta salarios.
 
 ###### ARTICULO 107.
 
@@ -2059,6 +2089,10 @@ La responsabilidad de los depositarios cesará con la entrega de los bienes emba
 
 El depositario será designado por el ejecutor cuando no lo hubiere hecho el Recaudador de Rentas pudiendo recaer el nombramiento en el ejecutado.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+ARTICULO 182 BIS.- El embargo, podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales.
+
 #### SECCIÓN TERCERA. DE LA INTERVENCIÓN
 
 ###### ARTICULO 183.
@@ -2312,6 +2346,36 @@ Las autoridades no fiscales del Estado y las municipales, en ningún caso podrá
 Las remates que se lleven a cabo en contravención a lo dispuesto en el párrafo anterior, serán nulos de pleno derecho y las adjudicaciones que en ellos se hagan carecerán de todo valor y eficacia jurídica.
 
 Las citadas autoridades no fiscales del Estado y municipales, podrán embargar el remanente que resulte del producto del remate, después de que se hubiere cubierto el crédito fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+ARTICULO 219 A.- Causarán abandono a favor del Fisco Estatal los bienes embargados por las autoridades fiscales, en los siguientes casos:
+
+I. Cuando habiendo sido enajenados o adjudicados los bienes al adquiriente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se ponga a disposición del interesado.
+
+III. Cuando se trate de bienes muebles que no hubieren sido rematados después de transcurrido dieciocho meses de practicado el embargo y respecto de los cuales no se hubieren interpuesto ningún medio de defensa.
+
+IV. Cuando se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se ponga a su disposición.
+
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución.
+
+Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que nos (sic) se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+
+Los bienes que pasen a ser propiedad del Fisco Estatal conforme a este articulo, podrán ser enajenados en los términos del artículo 198 de este Código o donarse para obras o servicios públicos, a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
+
+El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y de Administración.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+ARTICULO 219 B.- Los plazos de abandono a que se refiere el artículo 219-A de este Código se interrumpirán:
+
+I. Por la Interposición del recurso administrativo ó la presentación de la demanda en el juicio que proceda.
+
+El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando la resolución definitiva que recaiga no confirme, en todo o en parte, la que se impugnó.
+
+II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
 ###### ARTICULO 220.
 
@@ -2618,3 +2682,7 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que contravengan al presente decreto.
+
+P.O. 8 DE JUNIO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
