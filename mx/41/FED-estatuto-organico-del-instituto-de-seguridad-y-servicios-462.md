@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2002-02-12"
+last_updated: "2002-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MARZO DE 2002.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -110,9 +110,9 @@ A. Subdirección General Médica
 
 B. Subdirección General de Prestaciones Económicas, Sociales y Culturales
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
-C. Subdirección General Jurídica y de Relaciones Laborales
+C. Subdirección General Jurídica.
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -122,17 +122,17 @@ D. Subdirección General de Obras y Mantenimiento
 
 E. Subdirección General de Finanzas
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
-F. Subdirección General de Abasto y Servicios Generales
+F. Subdirección General de Administración.
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
 G. Coordinación General de Comunicación Social
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
-H. Coordinación General de Delegaciones
+H. Coordinación General de Desarrollo Delegacional, e
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -142,7 +142,9 @@ J. Coordinación General de Delegaciones
 
 K. Coordinación General de Atención al Derechohabiente
 
-El Instituto contará con una Contraloría General, órgano de control interno, que se regirá conforme al artículo 52 de este Estatuto Orgánico.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
+
+El Instituto cuenta con órganos internos de control que se regirán conforme al artículo 52 de este Estatuto Orgánico.
 
 II. Unidades administrativas desconcentradas:
 
@@ -156,13 +158,15 @@ D. Hospitales Regionales
 
 E. Sistema Integral de Tiendas y Farmacias
 
-F. Gerencias Regionales
+F. (DEROGADO, D.O.F. 18 DE MARZO DE 2002)
 
 G. Escuela de Dietética y Nutrición
 
 H. Sistema de Agencias Turísticas TURISSSTE
 
-Asimismo, el Fondo de la Vivienda y el Sistema Integral de Tiendas y Farmacias del Instituto contarán, respectivamente, con una Contraloría Interna, órgano de control interno, que se regirá conforme al artículo 52 A de este Estatuto Orgánico.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
+
+Asimismo, el Fondo de la Vivienda y el Sistema Integral de Tiendas y Farmacias del Instituto, contarán respectivamente con un órgano interno de control, que se regirá conforme al artículo 52 A, del presente ordenamiento.
 
 III. Comisión Interna de Administración y Programación.
 
@@ -434,9 +438,17 @@ XI.- Firmar las escrituras públicas y títulos de crédito en que el Instituto 
 
 XII.- Presidir las sesiones de la Comisión Interna de Administración y Programación;
 
-XIII.- Las facultades que mediante acuerdos y disposiciones generales le delegue la Junta para la mejor conducción del Instituto; y
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-XIV.- Las demás que señalen otras disposiciones aplicables.
+XIII.- Operar por sí mismo o por el funcionario que él designe, las relaciones interinstitucionales e intersectoriales.
+
+XIV.- Las facultades que mediante acuerdos y disposiciones generales le delegue la Junta para la mejor conducción del Instituto; y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XV.- Emitir pliegos preventivos de responsabilidades, en los términos de las disposiciones legales aplicables, a los Subdirectores Generales, Coordinadores Generales, Delegados Estatales y Regionales y Titulares de las Unidades Administrativas Desconcentradas del Instituto, que incurran en alguna irregularidad con motivo de sus funciones, y que causen un daño al patrimonio del Instituto. Esta facultad podrá ser delegada en el Funcionario de primer nivel que al efecto designe el propio Director General, y
+
+XVI.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
 
@@ -810,7 +822,17 @@ X.- Establecer las políticas en materia de administración y asignación de rec
 
 XI.- Determinar, establecer y gestionar las necesidades de insumos para la salud que requieran las unidades médicas;
 
-XII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XII.- Coordinar, en los términos de lo que establezca este Estatuto, la operación de las siguientes unidades desconcentradas:
+
+a) Centro Médico Nacional "20 de Noviembre";
+
+b) Hospitales Regionales, y
+
+c) Escuela de Dietética y Nutrición.
+
+XIII.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -882,19 +904,27 @@ XXVIII.- Las demás que señalen otras disposiciones aplicables.
 
 (DEROGADO, D.O.F. 23 DE AGOSTO DE 1999)
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 49.
 
-La Subdirección General Jurídica y de Relaciones Laborales, tendrá las funciones siguientes:
+La Subdirección General Jurídica tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones jurídicas relacionadas con el Instituto así como las funciones de administración de recursos humanos, capacitación y desarrollo organizacional;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-II.- Representar al Instituto para su defensa jurídica en las gestiones judiciales, extrajudiciales y administrativas, en los términos de los poderes otorgados; en las Delegaciones del Instituto, dicha defensa jurídica estará a cargo del titular de la Unidad Jurídica respectiva;
+I.- Planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones jurídicas relacionadas con el Instituto;
 
-III.- Interponer las demandas judiciales, formular los informes previo y justificado en los juicios de amparo, y promover los recursos de revisión, queja y reclamación de los casos donde el Instituto sea parte;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-IV.- Asesorar a los servidores públicos del Instituto en las audiencias donde hayan sido señalados como autoridades responsables;
+II.- Representar al Instituto para su defensa jurídica en todo tipo de gestiones judiciales, extrajudiciales y administrativas, y ante todo tipo de autoridades federales, estatales y municipales, en los términos de los poderes otorgados. En las Delegaciones del Instituto dicha defensa estará a cargo del titular de la Unidad Jurídica respectiva, sin perjuicio de que el área central lo haga cuando así lo considere conveniente;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+III.- Interponer las demandas judiciales, denuncias penales, formular los informes previo y justificado en los juicios de amparo, y promover los recursos de revisión, queja y reclamación en los casos donde el Instituto sea parte;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+IV.- Asesorar a los servidores públicos de mando del Instituto en las instancias judiciales o extrajudiciales en las que hayan sido señalados como autoridades responsables, con la salvedad de aquellos asuntos en los que el Instituto sea la contraparte;
 
 V.- Establecer los mecanismos de comunicación y coordinación con las unidades administrativas del Instituto, para apoyarlas en el cumplimiento de las resoluciones judiciales o extrajudiciales;
 
@@ -926,15 +956,59 @@ XVIII.- Promover el desarrollo de las relaciones institucionales en el ámbito n
 
 XIX.- Supervisar y evaluar las actividades y procedimientos que realicen las Unidades Jurídicas Delegacionales;
 
-XX.- Proponer Políticas en materia de personal en Coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
+XX.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
-XXI.- Diseñar y operar el sistema de capacitación interna para los trabajadores del Instituto;
+XXI.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
-XXII.- Proporcionar y difundir programas de capacitación para los derechohabientes del Instituto;
+XXII.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
-XXIII.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido en favor de los trabajadores del Instituto; y
+XXIII.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
-XXIV.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXIV.- Coordinar estudios y proyectos de soporte a la reforma del Instituto, integrando el plan maestro de la misma, analizando y diseñando nuevos modelos de gestión de los fondos que se reportan al Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXV.- Planear, programar, organizar, normar, coordinar, controlar y evaluar las actividades dirigidas a la modernización, simplificación administrativa e innovación de los sistemas y procesos sustantivos y de apoyo del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXVI.- Realizar estudios para la evaluación de los procesos y funciones a cargo de las diferentes áreas de la institución y diseñar e instrumentar proyectos de reingeniería, cambio e innovación tecnológica;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXVII.- Coordinar el diseño e implantación de las políticas, normas y estándares de calidad que deban ser establecidos para los servicios que otorga el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXVIII.- Realizar en coordinación con las áreas del Instituto, los programas, proyectos y acciones que se establezcan para el aseguramiento y certificación de la calidad de los servicios, así como para el desarrollo organizacional;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXIX.- Realizar y apoyar acciones y proyectos para la desconcentración de facultades y procesos a las delegaciones del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXX.- Coordinar y controlar el diseño y registro de las estructuras de organización de las diferentes áreas del Instituto, así como desarrollar las acciones correspondientes con las dependencias globalizadoras;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXXI.- Normar y apoyar a las áreas del Instituto en la formulación de sus manuales de procedimientos, incluyendo los instrumentos y manuales dirigidos a normalizar la calidad de los servicios, y otros instrumentos de apoyo administrativo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXXII.- Promover y gestionar ante las instancias internas y las externas al Instituto, medidas para la desregulación de trámites, normas y demás disposiciones que limiten el desempeño de las áreas y los servicios a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXXIII.- Coordinar al interior del Instituto las acciones del Sistema de Evaluación de Metas y Compensación por Resultados, así como los informes de cumplimiento que sobre el particular se establezcan;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+XXXIV.- Desarrollar los proyectos especiales que sobre innovación, calidad y organización, le sean encomendados por el Director General del Instituto, y
+
+XXXV.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 50.
 
@@ -976,7 +1050,9 @@ IX.- Las demás que señalen otras disposiciones aplicables.
 
 ARTICULO 51 A.- La Subdirección General de Finanzas, tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería, planeación financiera y evaluación programática;
 
 II.- Coordinar la formulación, implantación y evaluación del programa institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
 
@@ -984,7 +1060,9 @@ II.- Coordinar la formulación, implantación y evaluación del programa institu
 
 III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática; sin perjuicio de aquellos asuntos que competan directamente al Fondo de la Vivienda, manteniendo permanentemente informado del resultado de sus gestiones al Director General del ISSSTE;
 
-IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2002)</small>
+
+IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
 
 V.- Realizar de manera sistemática y permanente los estudios actuariales y financieros sobre el manejo de las reservas del Instituto, con objeto de definir las bases cuantitativas de la suficiencia de recursos y facilitar la programación institucional;
 
@@ -1008,7 +1086,7 @@ XIV.- Promover el establecimiento de sistemas para captar, procesar, analizar y 
 
 XV.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
 
-XVI.- Promover, coordinar y vigilar las acciones de mejoramiento, modernización y simplificación administrativa, y
+XVI.- (DEROGADA, D.O.F. 18 DE MARZO DE 2002)
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
 
@@ -1016,53 +1094,63 @@ XVII.- Formular, en términos de lo dispuesto por la Ley de Presupuesto, Contabi
 
 XVIII.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
-ARTICULO 51 B.- La Subdirección General de Abasto y Servicios Generales, tendrá las funciones siguientes:
+ARTICULO 51 B.- La Subdirección General de Administración, tendrá las siguientes funciones:
 
-I.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
+I.- Proponer políticas en materia de personal en coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación, así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
 
-II.- Planear, organizar, normar, coordinar y controlar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil, y vigilar la observancia de las normas técnicas aplicables en cada caso;
+II.- Diseñar, proporcionar, difundir y operar el sistema de capacitación interna para los trabajadores del Instituto;
 
-III.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y en los contratos o convenios de suministros respectivos;
+III.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido a favor de los trabajadores del Instituto;
 
-> <small>(REFORMADA, D.O.F. 22 DE FEBRERO DE 2001)</small>
+IV.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de informática;
 
-IV. Normar, coordinar y evaluar la operación de los almacenes regionales; almacenar, custodiar y proporcionar a los diversos centros de trabajo y unidades médicas del Instituto, los bienes, servicios e insumos médicos que requieran para su funcionamiento, así como establecer el control de inventarios, conforme a las disposiciones relativas.
+V.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática;
 
-V.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
+VI.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
 
-VI.- Formular y operar el programa de mantenimiento de vehículos propiedad del Instituto y proponer la baja o reemplazos de los mismos;
+VII.- Planear, organizar, normar, coordinar y controlar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil y vigilar la observancia de las normas técnicas aplicables en cada caso;
 
-VII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
+VIII.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento, e intervenir en los concursos relacionados con la adquisición de bienes y servicios, y en los contratos o convenios de suministro respectivos;
 
-VIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, y
+IX.- Normar, coordinar y evaluar la operación de los almacenes regionales; almacenar, custodiar y proporcionar a los diversos centros de trabajo y unidades médicas del Instituto, los bienes, servicios e insumos médicos que requieran para su funcionamiento, así como establecer el control de inventarios, conforme a las disposiciones relativas;
 
-IX.- Las demás que señalen otras disposiciones aplicables.
+X.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
+
+XI.- Formular y operar el programa de mantenimiento de vehículos propiedad del Instituto y proponer la baja o reemplazos de los mismos;
+
+XII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
+
+XIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, y
+
+XIV.- Las demás que señalen otras disposiciones aplicables.
 
 ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MARZO DE 2002)</small>
 
-#### SECCION TERCERA. DE LA CONTRALORIA GENERAL Y DE LAS CONTRALORIAS INTERNAS
+#### SECCION TERCERA. DE LOS ORGANOS INTERNOS DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 52.
 
-El Instituto cuenta con una Contraloría General, órgano de control interno, al frente de la cual el Contralor General, designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
+El Instituto cuenta con un Organo Interno de Control, al frente del cual se encuentra el Titular de éste, quien en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, será designado por la Secretaría de Contraloría y Desarrollo Administrativo, de la que dependerá jerárquica y funcionalmente. El Titular del Organo Interno de Control se auxiliará para el ejercicio de sus atribuciones de los Titulares de las Areas de Responsabilidades, de Auditoría Interna, de Auditoría de Control y Evaluación y de Quejas, quienes serán designados en los mismos términos que el Titular del Organo Interno de Control e igualmente, dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-Con sujeción a su presupuesto autorizado, las unidades administrativas desconcentradas podrán contar, en su caso, con una Contraloría Interna, en los términos del párrafo anterior. En el supuesto de que algunas de estas unidades no cuenten con dicha Contraloría, las facultades a que se refiere este artículo se ejercerán por la Contraloría General en el Instituto.
+Los Titulares señalados en el párrafo precedente, tendrán las facultades estatuidas en el artículo 47, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, así como las previstas por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y por los demás ordenamientos legales y administrativos aplicables.
 
-Los servidores públicos a que se refieren los párrafos anteriores, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Asimismo, el Titular del Organo Interno de Control se auxiliará para el ejercicio de sus funciones, de los Titulares de los Organos Internos de Control en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado en sus Delegaciones, quienes serán designados por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos previstos por el artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, los cuales ejercerán las facultades establecidas por el artículo 47 fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, con la restricción de emitir resoluciones en términos de la Ley Federal de Responsabilidades de los Servidores Públicos, por lo que en ese sentido, tampoco podrán ejercer las facultades atribuidas dentro de los puntos 1, segundo párrafo 2, 3, 6, 7 y 9 del artículo 47 fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, toda vez que éstas únicamente podrán ser ejercidas por el Titular del Organo Interno de Control en el ISSSTE o el Titular del Area de Responsabilidades de éste.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 1999)</small>
+Con sujeción a su presupuesto autorizado, las unidades administrativas desconcentradas podrán contar, en su caso, con un Organo Interno de Control, en los términos señalados en el primer párrafo del presente artículo. En el supuesto de que algunas de estas unidades no cuenten con dicho Organo, las facultades a que se refiere este artículo se ejercerán por el Organo Interno de Control en el ISSSTE, a través de los diferentes Titulares que lo conforman.
 
-ARTICULO 52 A.- Las unidades administrativas desconcentradas Fondo de la Vivienda y Sistema Integral de Tiendas y Farmacias del Instituto contarán, cada una de ellas, con su respectiva Contraloría Interna.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
-Al frente de la Contraloría Interna, órgano de control interno, de cada una de las unidades administrativas desconcentradas señaladas en este artículo, el Contralor Interno designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades del órgano de control interno correspondiente, designados en los mismos términos.
+ARTICULO 52 A.- Las unidades administrativas desconcentradas Fondo de la Vivienda y Sistema Integral de Tiendas y Farmacias del Instituto contarán, cada una de ellas, con su respectivo Organo Interno de Control.
 
-Dichos servidores públicos ejercerán las atribuciones a que se refiere el artículo 52 de este Estatuto Orgánico, en el ámbito de competencia de la unidad administrativa desconcentrada respectiva.
+Al frente del Organo Interno de Control de cada una de las unidades administrativas desconcentradas señaladas en este artículo, se encontrará el Titular de éstos, quienes en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal serán designados por la Secretaría de Contraloría y Desarrollo Administrativo, de la que dependerán jerárquica y funcionalmente. Los titulares de los Organos Internos de Control se auxiliarán para el ejercicio de sus atribuciones de los Titulares de las áreas de Responsabilidades, de Auditoría Interna, de Control y Evaluación, y de Quejas, quienes serán designados en los mismos términos que los Titulares de los Organos Internos de Control e igualmente dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+Los servidores públicos señalados en el párrafo anterior, ejercerán las atribuciones a que se refiere el segundo párrafo del artículo 52 de este ordenamiento, en el ámbito de competencia de la unidad administrativa desconcentrada respectiva.
 
 #### SECCION CUARTA. DE LAS COORDINACIONES GENERALES
 
@@ -1226,7 +1314,9 @@ Su integración, organización y funcionamiento será de conformidad con el Regl
 
 ARTICULO 59 A.- El Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, como unidades administrativas desconcentradas del Instituto, tienen por objeto, el primero, otorgar atención médica integral de alta especialidad, y los segundos, atención médica del tercer nivel a los trabajadores y derechohabientes del mismo, para cuyo efecto contarán con los recursos técnicos y científicos más avanzados acorde a su nivel, que permitan otorgar servicios médicos de excelencia con eficiencia y calidad. La organización, integración y funcionamiento del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, se establecerá conforme a lo que se disponga en los respectivos manuales de organización que al efecto expida el Director General.
 
-Para su administración y funcionamiento, el Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, contarán, respectivamente, con un Consejo Directivo, presidido, en el Centro Médico Nacional "20 de Noviembre", por el Director General, y en los Hospitales Regionales, por el servidor público que designe el Director General. Asimismo, se auxiliarán de Consejos Consultivos que, en el Centro Médico Nacional "20 de Noviembre", presidirá el Subdirector General Médico del Instituto, y en los Hospitales Regionales los Subdelegados Médicos.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
+
+Para su administración y funcionamiento, el Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, contarán respectivamente, con un Consejo Directivo, presidido, en el Centro Médico Nacional "20 de Noviembre", por el Subdirector General Médico, y en los Hospitales Regionales, por el servidor público que designe el propio Subdirector General Médico. Asimismo, se auxiliarán de Consejos Consultivos que, en el Centro Médico Nacional "20 de Noviembre", presidirá el funcionario que designe el Subdirector General Médico del Instituto, y en los Hospitales Regionales, los Subdelegados Médicos correspondientes a la Entidad Federativa en que esté ubicado.
 
 A) Los Consejos Directivos del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, tendrán respecto de dichas unidades administrativas desconcentradas, las siguientes funciones:
 
@@ -1588,17 +1678,21 @@ Por cada Vocal propietario de la Comisión Ejecutiva se nombrará un suplente qu
 
 Por cada miembro de la Comisión de Vigilancia se nombrará un suplente que actuará en caso de faltas temporales del titular.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 67.
 
-Los Subdirectores Generales, Coordinadores Generales, Vocal Ejecutivo, Delegados Estatales y Regionales, Director del Sistema Integral de Tiendas y Farmacias, Director de la Escuela de Dietética y Nutrición, Director del Sistema de Agencias Turísticas TURISSSTE, y el Director del Centro Médico Nacional "20 de Noviembre", serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
+Los Subdirectores Generales, Coordinadores Generales, Vocal Ejecutivo del Fondo de la Vivienda, Delegados Estatales y Regionales, Director del Sistema Integral de Tiendas y Farmacias, y Director del Sistema de Agencias Turísticas TURISSSTE, serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2002)</small>
+
+###### ARTICULO 67 Bis.
+
+El Director del Centro Médico Nacional "20 de Noviembre", los Directores de Hospitales Regionales y el Director de la Escuela de Dietética y Nutrición, serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Subdirector General Médico, previo acuerdo con el Director General.
 
 ###### ARTICULO 68.
 
-Las ausencias del Contralor General, de los Contralores Internos de las unidades administrativas desconcentradas, así como las de los respectivos titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 33, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+(DEROGADO, D.O.F. 18 DE MARZO DE 2002)
 
 ## TRANSITORIOS
 
@@ -1795,3 +1889,13 @@ D.O.F. 12 DE FEBRERO DE 2002.
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Inscríbanse las presentes modificaciones en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 18 DE MARZO DE 2002.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del ISSSTE, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbanse las presentes adecuaciones en el registro público de organismos descentralizados.
+
+TERCERO.- Los manuales de organización y de procedimientos deberán expedirse en un plazo que no excederá de 180 días naturales, a partir de la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+CUARTO.- Se abroga el acuerdo 32.1268.2001, de fecha 16 de agosto del año 2001."Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
