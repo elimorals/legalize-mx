@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-para-el-estado-de-baja-california-8988"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "1996-05-15"
+last_updated: "2000-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DEL 2000.
 
-Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el miércoles 15 de mayo de 1996.
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 15 de mayo de 1996.
 
 GUILLERMO MERCADO ROMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -41,23 +41,19 @@ LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, interés social y observancia general, teniendo por objeto:
+Las disposiciones de la presente ley son de orden público, interés social y observancia general y tiene por objeto; promover y regular las acciones en materia de protección civil en el Estado.
 
-I.- Establecer los principios básicos y las normas, conforme a los cuales se llevarán a cabo las acciones de protección civil en el Estado de Baja California Sur.
+Será propósito fundamental de esta ley, fomentar la participación ciudadana junto con el gobierno y municipios a fin de establecer las condiciones adecuadas para vivir con mayor seguridad y mejor protección, ante las amenazas de riesgo geológico; químico, sanitario, hidrometeorológico y sociorganizativo (sic).
 
-II.- Determinar las bases para la prevención y mitigación ante las amenazas de riesgo Geológico, Químico, Sanitario, Hidrometeorológico y Sociorganizativo (sic).
-
-III.- Implementar los mecanismos mediante los cuales se determinen las acciones de mitigación, auxilio y restablecimiento, para la salvaguarda de las personas, sus bienes, el entorno y el funcionamiento de los servicios vitales y sistemas estratégicos, en los casos de emergencia, siniestro o desastre.
-
-IV.- Integrar el sistema de protección civil del Estado de Baja California Sur.
-
-V.- Promover la participación ciudadana en la elaboración, ejecución y evaluación de los programas de protección civil para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades establecidos en esta Ley.
-
-VI.- Fomentar la cultura de protección civil y autoprotección en los habitantes del Estado de Baja California Sur.
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
 
 ###### Artículo 2.
+
+La protección civil comprende el conjunto de acciones encaminadas a salvaguardar la vida de las personas, sus bienes y su entorno, así como el buen funcionamiento de los servicios públicos y equipamiento estratégico, ante cualquier evento destructivo de origen natural o generado por la actividad humana a través de la capacitación, prevención, auxilio, recuperación y apoyo para el establecimiento de los servicios públicos vitales, en el marco de los objetivos nacionales y de acuerdo al interés general del Estado y sus Municipios, por lo que se establecen como atribuciones legales en el ámbito de competencia a la Unidad Estatal de Protección Civil, todo lo que implique riesgos generales en la materia, para la población.
 
 Para los efectos de esta ley se entenderá por:
 
@@ -107,6 +103,12 @@ XXII.- Agente perturbador de origen sanitario: Desastre que se genera por la acc
 
 XXIII.- Agente perturbador de origen socio-organizativo: Desgracia generada por motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
+XXIV.- Unidad Interna de Protección Civil.- Son aquellas unidades formadas por el personal de las empresas, industrias comerciales o de servicios, que previa capacitación atenderá las demandas propias de prevención y atención de riesgos.
+
+En el presupuesto de egresos del Gobierno del Estado se asignará a la Unidad Estatal de Protección Civil la partida presupuestal correspondiente a fin de dar cumplimiento a las acciones que se indican en este artículo, las que no podrán ser reducidas, ni transferidas en ningún caso y por ningún motivo y si en cambio podrán incrementarse con base en los programas de prevención, auxilio y recuperación elaborados y presentados por la Unidad Estatal.
+
 ### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL
 
 ###### Artículo 3.
@@ -133,9 +135,47 @@ V. Los Grupos Voluntarios.
 
 VI. Los Sectores Social y Privado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
 ###### Artículo 6.
 
-Deberán crear su propia unidad interna de protección civil los hospitales, sanatorios, fábricas, industrias, comercios, oficinas, unidades habitacionales, clubes sociales, deportivos y de servicios, centros educativos, terminales y estaciones de transporte de pasajeros y carga, centrales de abasto, gaseras, gasolineras, almacenes, bodegas y talleres que manejen substancias peligrosas, así como otros establecimientos públicos o privados en los que haya afluencia de personas.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones públicas o privadas que por su uso o destino, reciban afluencia masiva de personas, están obligadas a celebrar y cumplir un programas (sic) específico de protección civil, contando para ello con la asesoría técnica de la unidad municipal si la hubiere y de la Unidad Estatal en su caso.
+
+Las Unidades de protección señaladas en el párrafo anterior, podrán señalar quien de las personas indicadas en este artículo deberá cumplir con la preparación y aplicación del programa específico.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
+###### Artículo 6-A.
+
+En todas las edificaciones, excepto casas habitación unifamiliares, se deberán colocar, en lugares visibles la señalización adecuada e instructivos para casos de emergencias, en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre; Así (sic) mismo deberán señalarse las zonas de seguridad, rutas de evacuación, salidas de emergencias que imprescindiblemente deberán tener y las cuales bajo ninguna circunstancia deberán estar obstaculizadas.
+
+La presente disposición se regulará en los reglamentos de construcción y se hará efectiva por las autoridades municipales y por la Unidad Estatal de Protección Civil al autorizar los proyectos de construcción y expedir las licencias que correspondan. Su incumplimiento dará lugar a las sanciones que a juicio de la autoridad le correspondan, tomando en cuenta la gravedad del riesgo que señale esta ley y los reglamentos aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
+###### Artículo 6-B.
+
+Es obligación de las empresas, ya sean industriales, comerciales o de servicios, la capacitación de su personal en materia de protección civil e implementar la (sic) Unidades Internas de Protección Civil en los casos que se determine, para que atiendan las demandas propias en materia de prevención y atención de riesgos, debiendo existir la acreditación por parte de la Unidad Estatal.
+
+La capacitación previa para la integración de las Unidades Internas de Protección Civil serán coordinadas por las Unidades Estatal y Municipales. Estas deberán contar con el registro y autorización de la Unidad Estatal de Protección Civil.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
+###### Artículo 6-C.
+
+Los reglamentos que se expidan para regular las acciones de prevención, determinarán los casos en que las empresas deberán organizar su Unidad Interna y deberán elaborar un programa específico de protección civil y obtener autorización de la Unidad Estatal.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
+###### Artículo 6-D.
+
+Los prestadores de servicios que cuenten con hoteles con playa y concesiones de Zona Federal Marítimo Terrestre estarán obligados a organizarse y contar con elementos especializados en labores de salvamento frente a sus concesiones o edificios, así como coordinarse con autoridades municipales para brindar protección a los usuarios sobre todo en épocas de ciclones, huracanes, ventiscas y cualquier fenómeno hidrometereológico.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+
+###### Artículo 6-E.
+
+Por la naturaleza de las acciones de protección civil principalmente en casos de emergencia, los medios de comunicación social, conforme a las disposiciones que regulan sus actividades, deberán colaborar con las autoridades competentes respecto a la divulgación de información veraz y oportuna dirigida a la población, apegándose en todo momento a las prioridades establecidas por la Unidad Estatal de Protección Civil.
 
 ### CAPITULO TERCERO. DEL CONSEJO ESTATAL
 
@@ -740,3 +780,11 @@ LIC. GUILLERMO MERCADO ROMERO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DEL 2000.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente decreto.
