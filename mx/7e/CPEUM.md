@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1938-12-31"
+last_updated: "1940-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE SEPTIEMBRE DE 1940.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1174,27 +1174,29 @@ V.- Haber residido en el país durante los últimos cinco años, salvo el caso d
 
 Los nombramientos de los Ministros de la Suprema Corte, serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Senadores, la que otorgará o negará esa aprobación, dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Senado, no podrán tomar posesión los Magistrados de la Suprema Corte nombrados por el Presidente de la República. En el caso de que la Cámara de Senadores no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicha Cámara, en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, el Senado deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Senado desecha el nombramiento, cesará desde luego en sus funciones el Ministro provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación del Senado, en los términos señalados.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
 
 ###### Art. 97.
 
-Los Magistrados de Circuito y los Jueces de Distrito, serán nombrados por la Suprema Corte de Justicia de la Nación y tendrán los requisitos que exija la ley.
+Los Magistrados de Circuito y los Jueces de Distrito, serán nombrados por la Suprema Corte de Justicia de la Nación y tendrán los requisitos que exija la Ley.
 
-La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un Distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
+La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
 
-Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios que auxilien las labores de los Tribunales o Juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrará alguno o algunos de sus miembros, o algún Juez de Distrito o Magistrado de Circuito, o designará uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe la conducta de algún Juez o Magistrado federal, o algún hecho o hechos que constituyan la violación de alguna garantía individual, o la violación del voto público, o algún otro delito castigado por la ley federal.
+Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios que auxilien las labores de los Tribunales o Juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrará a alguno o algunos de sus miembros, o a algún Juez de Distrito o Magistrado de Circuito o designará uno o varios Comisionados Especiales, cuando así lo juzgue conveniente, o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión, o el Gobernador de algún Estado, únicamente para que averigue la conducta de algún Juez o Magistrado Federal, o algún hecho o hechos que constituyan la violación de alguna garantía individual, o la violación del voto público, o algún otro delito castigado por la Ley Federal.
 
-Los Tribunales de Circuito y Juzgados de Distrito serán distribuídos entre los Ministros de la Suprema Corte, para que éstos los visiten periódicamente, vigilen la conducta de los Magistrados y Jueces que los desempeñen, reciban las quejas que hubiere contra ellos y ejerzan las demás atribuciones que señala la ley. La Suprema Corte de Justicia nombrará y removerá libremente a su Secretario y demás empleados que fije la planta respectiva aprobada por la ley. Los Magistrados de Circuito y Jueces de Distrito nombrarán y removerán también a sus respectivos secretarios y empleados.
+Los Tribunales de Circuito y Juzgados de Distrito serán distribuídos entre los Ministros de la Suprema Corte, para que éstos los visiten periódicamente, vigilen la conducta de los Magistrados y Jueces que los desempeñen, reciban las quejas que hubiere contra ellos y ejerzan las demás atribuciones que señala la Ley. La Suprema Corte de Justicia nombrará y removerá a su Secretario y demás empleados que le corresponda, con estricta observancia de la ley respectiva. En igual forma procederán los Magistrados de Circuito y Jueces de Distrito, por lo que se refiere a sus respectivos Secretarios y empleados.
 
 La Suprema Corte de Justicia cada año designará uno de sus miembros como Presidente, pudiendo éste ser reelecto.
 
-Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado y en sus recesos, ante la Comisión Permanente, en la siguiente forma: Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión?"
+Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado, y en sus recesos, ante la Comisión Permanente, en la siguiente forma:
 
-Ministro: "Sí protesto."
+Presidente: “Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión? (sic)”.
 
-Presidente: "Si no lo hiciereis así, la Nación os lo demande."
+Ministro: “Sí protesto”.
 
-Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte o ante la autoridad que determine la ley.
+Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
+
+Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte y ante la autoridad que determina la Ley.
 
 > <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1220,15 +1222,17 @@ Las licencias de los Ministros, cuando no excedan de un mes, serán concedidas p
 
 Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito y los respectivos Secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
 
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+
 ###### Art. 102.
 
-La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos libremente por el Ejecutivo, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser Magistrado de la Suprema Corte.
+La Ley organizará al Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser Magistrado de la Suprema Corte de Justicia.
 
-Estará a cargo del Ministerio Público de la Federación la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los reos; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la misma ley determinare.
+Estará a cargo del Ministerio Público de la Federación la persecución, ante los Tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los reos; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la misma ley determinare.
 
-El Procurador General de la República intervendrá personalmente en todos los negocios en que la Federación fuese parte; en los casos de los Ministros, Diplomáticos y Cónsules Generales, y en aquellos que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado. En los demás casos en que deba intervenir el Ministerio Público de la Federación, el Procurador General podrá intervenir por sí o por medio de alguno de sus agentes.
+El Procurador General de la República intervendrá personalmente en todos los negocios en que la Federación fuese parte; en los casos de los Ministros, Diplomáticos y Cónsules Generales, y en aquellos que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado. En los demás casos en que deba intervenir el Ministerio Público de la Federación, el Procurador General podrá intervenir por sí o por medio de alguno de sus Agentes.
 
-El Procurador General de la República será el consejero jurídico del Gobierno; tanto él como sus agentes se someterán estrictamente a las disposiciones de la ley, siendo responsables de toda falta u omisión o violación en que incurran con motivo de sus funciones.
+El Procurador General de la República será el Consejero Jurídico del Gobierno. Tanto él como sus Agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
 ###### Art. 103.
 
@@ -1935,3 +1939,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 31 DE DICIEMBRE DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 11 DE SEPTIEMBRE DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
