@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1959-01-13"
+last_updated: "1960-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 1959.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 1960.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3413,11 +3413,41 @@ ARTICULO 655
 
 El Registro Civil estará a cargo de los Ayuntamientos de los Municipios del Estado, y las Oficinas serán llevadas por los Presidentes Municipales o por las personas que legalmente los substituyan.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 1960)</small>
+
 ARTICULO 656
 
-Los Encargados del Registro Civil llevarán, por duplicado, siete libros que se denominarán "Registro Civil" y contendrán: el primero, "Actas de nacimiento y reconocimiento de hijos"; el segundo, "Actas de adopción"; el tercero, "Actas de tutela, emancipación y habilitación de edad"; el cuarto, "Actas de matrimonio"; el quinto, "Actas de divorcio"; el sexto, "Actas de defunción", y el séptimo, "Actas de incapacidad y ausencia". En el principal de estos libros, se asentarán las actas relativas de cada ramo, y en el duplicado se irán haciendo inmediatamente copias de dichas actas, las cuales serán autorizadas por el Encargado del Registro Civil.
+Los Encargados del Registro Civil llevarán, por duplicado, nueve libros que se denominarán "Registro Civil" y contendrán:
 
-También llevarán un libro de registro de resoluciones que signifiquen cambio, retención o modificación de nombre de personas físicas, y otro para anotar los seudónimos que ante ellos se registren.
+El Primero, actas de nacimiento, y de reconocimiento de hijos, cuando tal acto se haga en el momento de asentar el nacimiento y dentro del término establecido en el artículo 681 reformado de este Código.
+
+El Segundo, actas de reconocimiento de hijos, cuando se pretendan hacer en acto posterior al registro de nacimiento y, actas de adopción.
+
+El Tercero, actas de tutela, emancipación y habilitación de edad.
+
+El Cuarto, actas de matrimonio.
+
+El Quinto, actas de divorcio.
+
+El Sexto, actas de defunción.
+
+El Séptimo, actas de incapacidad y ausencia.
+
+El Octavo, actas en las que haya necesidad de insertar resoluciones que signifiquen cambio, retención o modificación de nombre de personas físicas.
+
+Y, el Noveno, actas de seudónimos que ante ellos se registren.
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 1960)</small>
+
+###### ARTICULO 656
+
+BIS
+
+Cuando el Ejecutivo del Estado lo estime necesario, podrá autorizar que los libros a que se refiere el artículo anterior, se lleven en varios volúmenes, numerados éstos progresivamente del uno en adelante, con sus respectivos duplicados y, con especificación, en todos ellos, del número del libro al que correspondan.
+
+Los volúmenes deberán usarse por orden riguroso de la numeración de actas, yendo de uno al otro por cada acta, hasta llegar al último y volviendo de éste al primero, y, así sucesivamente hasta cerrarse el libro, bien por haberse terminado éste o finalizado el año.
+
+Toda acta deberá asentarse en los dos ejemplares del Registro.
 
 ARTICULO 657
 
@@ -15008,3 +15038,7 @@ G.O. 13 DE ENERO DE 1959.
 ###### ARTICULO UNICO.
 
 Esta Ley comenzará a surtir sus efectos legales, a partir del día siguiente de su publicación, en la "Gaceta Oficial" del Estado.
+
+G.O. 8 DE DICIEMBRE DE 1960.
+
+UNICO.- Esta Ley comenzará a surtir sus efectos a partir del 1° de marzo de 1961.
