@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1943-08-25"
+last_updated: "1945-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1945.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -443,9 +443,9 @@ VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las
 
 VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1945)</small>
 
-IX. Constituirse en Colegio Electoral para elegir Magistrados Propietario y Suplentes del Supremo Tribunal de Justicia en el Estado, de las ternas respectivas que deberá enviarle el Ejecutivo del Estado. Si dentro del término de cinco días el Congreso no hiciere la designación, entrará en funciones de Magistrado la persona que figure en primer término en la terna correspondiente, entre tanto el Congreso hiciere la designación en la forma señalada.
+IX. Aprobar los nombramientos de los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia del Estado, que hará el Gobernador en los términos del artículo 83, de esta Constitución. Si el Congreso no resolviere dentro del improrrogable término de tres días, se tendrán por aprobados los nombramientos y en caso de que alguno o algunos de los nombramientos no sean aprobados dentro del citado término, el Gobernador hará un segundo nombramiento que surtirá sus efectos desde luego, con el carácter de provisional y que, será sometido a la aprobación de la Legislatura en el siguiente Periodo Ordinario de Sesiones, en el que si no lo aprueba o nada resuelve, el Magistrado o Magistrados provisionales, continuarán en sus funciones con el carácter de definitivos.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -885,23 +885,23 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 El ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supremo Tribunal de Justicia del Estado, en Jueces de Primera Instancia, Menores, de Paz y Tribunal para Menores e Incapacitados.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1945)</small>
 
 ###### Art. 82.
 
-El Supremo Tribunal de Justicia del Estado, se compondrá de un Magistrado Propietario y dos Suplentes o Supernumerarios.
+El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y tres Suplentes o Supernumerarios.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1945)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, en los términos de la fracción IX del artículo 47º de esta Constitución, con asistencia cuando menos de cinco Diputados a la sesión en que se haga la elección.
+Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán nombrados por el Gobernador del Estado, el día primero de enero de los años respectivos y los nombramientos serán sometidos a la aprobación del Congreso en los términos de la Fracción IX del artículo 47 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1945)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Supremo Tribunal de Justicia, serán electos dentro de los noventa días siguientes al de la instalación del Congreso Constitucional, y durarán en sus funciones seis años, pudiendo ser reelectos y no podrán ser removidos sin previo juicio de responsabilidad en el que se pronuncie sentencia condenatoria ejecutoriada.
+Los Magistrados del Supremo Tribunal de Justicia, durarán en sus funciones seis años, no pudiendo ser movidos sin previo juicio de responsabilidad, en el que se pronuncie sentencia condenatoria. Tomarán posesión el día cinco del mismo mes de enero en que se inicie el ejercicio Constitucional del Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1418,3 +1418,7 @@ UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su prom
 P.O. 25 DE AGOSTO DE 1943
 
 UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1945
+
+UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos cuarenta y seis.
