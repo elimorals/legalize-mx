@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-y-consumo-de-bebidas-9417"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-31"
-last_updated: "1994-01-01"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:.1° DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:31 DE DICIEMBRE DE 1996.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 31 de Diciembre de 1991
 
@@ -95,29 +95,59 @@ El almacenaje, venta y consumo de bebidas alcohólicas en el Estado de Querétar
 
 REGULADOS.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 7.
 
 Los establecimientos y lugares mencionados en esta ley se clasifican de la siguiente manera:
 
-TIPO I.- Establecimientos destinados específicamente a la venta y consumo de bebidas alcohólicas: bares, cantinas, cervecerías y pulquerías.
+TIPO I.- Pulquería, cervecería y cantina
 
-TIPO II. Establecimiento donde en forma accesoria pueden venderse y consumirse bebidas alcohólicas; centros turísticos, balnearios, hoteles, baños, restaurantes, centros nocturnos, casinos, discotecas, centros sociales, fondas, cenadurias, loncherias, ostionerias, cafés cantantes, peñas, taquerias y otros establecimientos similares.
+TIPO II. Bar, Restaurantes, Restaurantes- Bar, fondas, Cenadurías, Loncherías, Ostionerías, Cafés cantantes, Peñas, Centros Turísticos, Balnearios, Centros sociales, Centros Nocturnos y discotecas.
 
-TIPO III.- Establecimientos en donde pueden venderse en envase cerrado, pero no consumirse, bebidas alcohólicas: vinaterías, depósitos de cervezas, bodega de vinos y licores, tiendas de autoservicio, tiendas de abarrotes, misceláneas, y otros establecimientos similares; y
+TIPO III.- Tiendas de Autoservicio, Abarrotes, Misceláneas, Vinaterías, Depósitos de Cerveza, y bodegas de Vinos y Licores.
 
-TIPO IV. Lugares en donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas: Bailes Públicos, Kermesses, Plazas de Toros, Lienzo charro, Estudios, Arenas de Box y Lucha y otros lugares en que se presenten espectáculos artísticos o deportivos
+TIPO IV. Lugares en donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas: Bailes Públicos, Kermesses, Plazas de Toros, Lienzos charros, Estudios, Arenas de Box y Lucha y otros lugares en que se presenten espectáculos artísticos o deportivos.
 
-La venta de bebidas alcohólicas en estos lugares , deberá efectuarse en envase de cartón cerrado, material plástico o cualquier otro material blando o ligero.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 8.
 
-Cantina es el establecimiento en el que preponderantemente expende bebidas alcohólicas al copeo, para consumirse en el mismo lugar.
+Para los efectos del articulo anterior, los establecimientos y lugares donde se realice el almacenaje, venta y consumo de bebidas alcohólicas en cualquiera de sus presentaciones, se clasifican en categorías para determinar el pago de los derechos por la expedición, regularización o refrendo de la licencia, tomándose, en cuenta el Giro, Lugar de Ubicación y Capital Social.
 
-Bar es el establecimiento que tiene por objeto descrito en el párrafo anterior y se encuentra anexo o dentro de instalaciones destinadas a otros giros.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 9.
 
-Cervecería es el establecimiento dedicado exclusivamente a la venta de cerveza al menudeo de cualquier tipo y forma de envase, para consumirse en el interior de dicho establecimiento.
+Para el caso de los establecimientos contemplados en el articulo 7 de la presente Ley, se entenderán por:
+
+I.- Bar.- Es el establecimiento que de manera independiente o anexo o dentro de las instalaciones destinadas a otro giro, vende preponderantemente, bebidas alcohólicas al copeo para su consumo en el mismo local, excepto alcohol, pudiendo de manera complementaria presentar música viva, grabada o videograbada;
+
+II.- Cantina.- Establecimiento en el que preponderantemente se expenden bebidas alcohólicas, al copeo para consumirse en el mismo lugar;
+
+III.- Cervecería.- establecimiento dedicado exclusivamente a la venta de cerveza al menudeo de cualquier tipo y forma de envase, para consumirse en el interior de dicho establecimiento;
+
+IV.- Centros Turísticos y Balnearios.- Lugares de recreación en donde se autoriza en forma moderada, la venta de bebidas alcohólicas en envase abierto, cualquiera que sea su presentación;
+
+V.- Restaurante o Restaurante- Bar.- Establecimientos autorizados para expender en forma accesoria bebidas alcohólicas, con alimentos, en envase abierto, debiendo contar con las instalaciones necesarias de cocina para la preparación de los alimentos;
+
+VI.- Centro Nocturno o Centro Social.- Establecimiento en donde se presentan espectáculos o variedades, y cuenta con pista de baile, música en vivo o grabada y se expenden bebidas alcohólicas en envase abierto o al copeo, con acceso restringido únicamente para mayores de 18 años;
+
+VII.- Discoteca.- Establecimiento que cuenta con pista para bailar y ofrecer música grabada o en vivo, con música continua desde su inicio y autorización para expender bebidas alcohólicas;
+
+VIII.- Fondas, Cenadurías, Loncherías, Ostionerías, o Marisquerías y Taquerías.- Son los establecimientos autorizados para vender en forma accesoria bebidas alcohólicas, en envase abierto, con alimentos;
+
+IX.- Cafés Cantantes.- Son los establecimientos autorizados para la venta de bebidas alcohólicas en envase abierto, excepto alcohol, con o sin alimentos, y que cuenten con música en vivo o grabada, espectáculos artísticos, o pista de baile;
+
+X.- Peña.- Establecimiento que proporciona servicio de restaurante con venta de bebidas alcohólicas en forma accesoria y en el que ejecutan música local, regional o folklórica, por conjuntos o solistas;
+
+XI.- Vinatería.- Establecimiento donde se venden bebidas alcohólicas exclusivamente en envase cerrado, no autorizándose la venta de alcohol;
+
+XII.- Deposito de cerveza. Establecimiento donde se expende exclusivamente cerveza en envase cerrado;
+
+XIII.- Bodega o Almacén de Vinos y Licores.- Establecimiento autorizado para guardar bebidas alcohólicas y realizar la venta de las mismas al mayoreo, considerándose como tal, cuando la venta se realice por una caja o mas;
+
+XIV.- Tienda de Autoservicio, Abarrotes, Misceláneas y Similares.- Establecimientos que vender al publico bebidas alcohólicas en envase cerrado como actividad integrante a otro giro o servicio.
 
 ###### ARTICULO 10.
 
@@ -159,15 +189,19 @@ En los Hoteles se podrán instalar como servicios complementarios, previa autori
 
 Podrán funcionar como anexo o servicio complementario de bar, en los establecimientos mencionados en el presente artículo, siempre y cuando se encuentren sus instalaciones debidamente separadas de su actividad principal y su funcionamiento sea independiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 15.
 
-En los casinos, clubes sociales, círculos sociales, u otros lugares semejantes, podrá autorizarse el funcionamiento de un departamento de bar, siempre que este servicio se preste únicamente a los socios y a sus invitados dentro de los días y horas en que se les proporcionen los demás servicios propios de esos establecimientos.
+En los clubes sociales u otros lugares semejantes, podrá autorizarse el funcionamiento de un departamento de bar, siempre que este servicio se preste únicamente a los socios y a sus invitados dentro de los días y horas en que se les proporcionen los demás servicios propios de esos establecimientos.
 
 Los establecimientos a que se refiere este artículo podrán permitir la celebración de baquetes(sic) en sus salones donde se haga consumo de bebidas alcohólicas sin autorización previa, cuando intervengan personas que no sean socios, siempre que se trate de eventos sin costo para los asistentes.
 
+> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Para los efectos del artículo anterior se entenderá por casinos, clubes sociales, círculos sociales u otro similares, exclusivamente aquellos establecimientos que se sostengan con la cooperación de sus socios y para la recreación de los mismos.
+Para los efectos del artículo anterior se entenderá por clubes sociales u otros similares, exclusivamente aquellos establecimientos que se sostengan con la cooperación de sus socios y para la recreación de los mismos.
 
 ###### ARTICULO 17.
 
@@ -211,15 +245,23 @@ a).- LICENCIA DE OPERACION: El documento expedido por la Secretaría de Gobierno
 
 b).- AUTORIZACION: El documento expedido con carácter provisional para persona física o moral específica, y en sitio inamovible; podrá ser revocado por violaciones a este ordenamiento o los reglamentos que de ella emanen o porque así lo requiera el interés público.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+c).- REFRENDO.- Es el acto por el cual se autoriza la vigencia de la licencia por un año, que corresponde del 1ªde enero al 31 de diciembre del ejercicio en el que se solicita.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+d).- REGULARIZACION.- Acto por el cual se autoriza la contribuyente a realizar modificaciones de la licencia de operación, previa solicitud que haga a la autoridad, quien determinara sobre su procedencia.
+
 ###### ARTICULO 20.
 
 Las licencias y autorizaciones a que se refiere esta ley son actos administrativos subordinados al interés público y se otorga con el carácter de personales, por tanto, en ningún caso podrán ser objeto de cesión, arrendamiento o gravamen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO ,P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 21.
 
-Los interesados en obtener la licencia o autorización de Almacenaje, Venta y Consumo para los establecimientos a los que se refiere esta Ley, deberán presentar solicitud por escrito ante la Secretaría de Gobierno, con los siguientes datos o documentos:
+Los interesados en obtener licencia o autorización de almacenaje, distribución, venta y consumo para los establecimientos a los que se refiere esta Ley, deberán presentar solicitud por escrito ante la Secretaría de Gobierno, con los siguientes datos o documentos:
 
 I. Nombre, razón o denominación social, denominación y nacionalidad del solicitante. Se prohibe emplear nombres de héroes o pronombres, así como denominaciones que lesionen la moral o las buenas costumbres. Si el solicitante es extranjero, deberá comprobar que está autorizado por la Secretaría de Gobernación para dedicarse a esa actividad en los términos de la Ley General de Población;
 
@@ -233,6 +275,14 @@ V. Dictamen de uso de suelo expedido por la autoridad competente;
 
 VI. La autorización de la Dirección de Salud del Estado respecto a las condiciones sanitarias del mismo.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VII.- Autorización del Ayuntamiento del Municipio que corresponda.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Visto bueno de la Unidad Estatal de Protección civil, en su caso.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 Los requisitos a lo que se refieren las fracciones V y VI, solo serán exigibles tratándose de licencia de operación.
@@ -245,11 +295,11 @@ Satisfechos los requisitos del artículo anterior, el Ejecutivo del Estado discr
 
 El refrendo de las licencias a que se refiere esta ley se sujetará en lo conducente a las mismas disposiciones de su expedición.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 24.
 
-El refrendo de las licencias establecidas por esta ley deberá tramitarse o solicitarse anualmente, de acuerdo al calendario que establezca la autoridad competente.
+El refrendo de las licencias establecidas por esta Ley deberá pagarse anualmente, durante los meses de enero, febrero, marzo.
 
 ###### ARTICULO 25.
 
@@ -546,3 +596,9 @@ SEXTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los inmuebles a
 SÉPTIMO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, en las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en la Ley General de Hacienda de los Municipios, se concederá una deducción de 15 veces el salario mínimo general vigente elevado al año, en la base del impuesto de los inmuebles de interés social o popular, en favor del primer adquirente de los inmuebles.
 
 OCTAVO.- Para los efectos de las Leyes Generales de Hacienda del Estado así como la de los Municipios, se consideran inmuebles de interés social, aquellos cuyo valor total no excede de quince veces el salario mínimo general vigente elevado al año, y popular aquellos cuyo valor total no excedan de veinticinco veces el salario mínimo vigente elevado al año.
+
+P.O. 31 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día 1º de enero de 1997.
