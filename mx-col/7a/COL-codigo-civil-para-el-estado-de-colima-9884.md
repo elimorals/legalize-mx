@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1962-12-29"
+last_updated: "1965-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1965.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -3551,15 +3551,13 @@ ART. 945.- Cuando parte de la cosa perteneciere exclusivamente a un copropietari
 
 ART. 946.- Todo condueño tiene la plena propiedad de la parte alícuota que le corresponda y la de sus frutos y utilidades pudiendo en consecuencia, enajenarla, cederla o hipotecarla, y aún sustituir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños estará limitado a la porción que se le adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
-ART. 947.- Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios, si los títulos de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1965)</small>
 
-I.- Las paredes maestras, el tejado o azotea, y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso;
+ART. 947.- Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquel o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda o local y además un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosas, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbres, etc.
 
-II.- Cada propietario costeará el suelo de su piso;
+El derecho de copropiedad sobre los elementos comunes del edificio sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes del edificio no es susceptible de división.
 
-III.- El pavimento del portal, puerta de entrada, patio, común y obras de policía, comunes a todos, se costearán a prorrata por todos los propietarios;
-
-IV.- La escalera que conduce al piso primero se costeará a prorrata entre todos, excepto el dueño del piso bajo; la que desde el primer piso conduce al segundo se costeará por todos excepto los dueños del piso bajo y del primero y así sucesivamente.
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que hubiere establecido el régimen de propiedad, por las de compra-venta correspondientes, por el Reglamento del Condominio y Administración y, en su caso, por la Ley Reglamentaria de este artículo.
 
 ART. 948.- Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si consta que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
 
@@ -9572,3 +9570,7 @@ Secretario Gral. de Gobierno.
 P.O. 29 DE DICIEMBRE DE 1962.
 
 Este decreto empezará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 1965.
+
+Este Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
