@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-14391
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-23"
-last_updated: "2000-03-03"
+last_updated: "2002-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-06-18"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA.
+REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2000.
+N. DE E.: EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 20 DE DICIEMBRE DE 2002.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de junio de 1999.
 
@@ -1476,3 +1478,25 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 3 DE MARZO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Educación Pública publicado en el Diario Oficial de la Federación el 23 de junio de 1999 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Acuerdo por el que se establece la Coordinación General de Educación Intercultural Bilingüe, publicado en el citado órgano informativo el 22 de enero de 2001.
+
+CUARTO.- Continuarán en vigor los acuerdos secretariales de delegación de facultades, desconcentración de funciones y demás que hayan sido expedidos por el Titular de la Secretaría y que se encuentren actualmente vigentes, en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto dicho servidor público no los modifique o deje sin efectos.
+
+QUINTO.- Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+SEXTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las unidades que asumen las correspondientes atribuciones, con la intervención de la Oficialía Mayor y de conformidad a las instrucciones que al efecto imparta el Titular del Ramo.
+
+SÉPTIMO.- Cuando en este Reglamento se dé una denominación distinta a alguna unidad administrativa establecida con anterioridad al inicio de la vigencia del mismo, los asuntos en trámite serán atendidos por la unidad administrativa con la nueva denominación.
+
+OCTAVO.- Cuando en las diversas disposiciones se haga mención a la Comisión Interna de Administración y Programación, se entenderán referidas y atendidas por la Dirección General de Innovación, Calidad y Organización.
+
+NOVENO.- El ejercicio de las atribuciones a que se refieren los artículos 40, 41, 42 y 43 del presente Reglamento se hará en los términos que establecen los artículos 16 y Cuarto Transitorio de la Ley General de Educación.
+
+DÉCIMO.- Los derechos de los trabajadores serán respetados conforme a la ley.
