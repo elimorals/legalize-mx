@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-de-deberes-militares-931"
 country: "mx"
 rank: "reglamento"
 publication_date: "1937-03-26"
-last_updated: "1937-03-26"
+last_updated: "1943-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1936-11-10"
 
 REGLAMENTO GENERAL DE DEBERES MILITARES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1943.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 26 de marzo de 1937.
 
@@ -169,9 +169,13 @@ Los militares, de cualquier graduación, no intervendrán jamás en asuntos de l
 
 Queda estrictamente prohibido desempeñar el servicio de otro, por retribución alguna o convenio previo, sin que exista motivo legal poderoso que el superior calificará, pues el servicio militar no debe ser motivo de comercio. Las causas para que un militar sea relevado del servicio que le corresponde desempeñar son: enfermedad grave que le imposibilite, inutilidad pasajera o definitiva para desempeñarlo; ser citado a diligencias judiciales u otros motivos a juicio del superior.
 
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1943)</small>
+
 ###### ARTICULO 31.
 
-Todos militares tienen el derecho de expresar sus ideas en libros y artículos de prensa, siempre que no se trate en ellos de asuntos políticos o que afecten a la moral, la disciplina o a los derechos de tercera persona.
+Todos militares tienen el derecho de expresar sus ideas en los libros y artículos de prensa, siempre que no se trate en ellos de asuntos políticos y religiosos o que afecten a la moral, la disciplina o a los derechos de tercera persona.
+
+Podrán asimismo, de acuerdo con las prescripciones constitucionales, profesar la creencia religiosa que más les agrade; pero queda prohibida su asistencia, portando uniforme, a los templos o lugares donde se practiquen ceremonias religiosas de cualquier índole.
 
 ###### ARTICULO 32.
 
@@ -1804,3 +1808,9 @@ Para la entrega de cargos no incluídos en los artículos anteriores, se nombrar
 Este Reglamento comenzará a regir desde la fecha de su publicación, quedando derogadas todas las disposiciones en vigor que a él se opongan.
 
 En cumplimiento a lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, expido el presente en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los diez días del mes de noviembre de mil novecientos treinta y seis. - El Presidente Constitucional de los Estados Unidos Mexicanos, Lázaro Cárdenas.- Rúbrica.- El Subsecretario, Encargado del Despacho de Guerra y Marina, General de Brigada, Manuel Avila Camacho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 1943.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, el cual entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
