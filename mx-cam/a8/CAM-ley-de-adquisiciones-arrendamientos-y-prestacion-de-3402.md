@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-adquisiciones-arrendamientos-y-prestacion-de-3402"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1990-12-29"
+last_updated: "2001-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DEL 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 29 de diciembre de 1990.
 
@@ -50,6 +50,12 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 I.- La planeación, programación, presupuestación y control de las adquisiciones de bienes muebles, arrendamientos de bienes y de prestación de servicios relacionados con los mismos; que realicen las Dependencias y Entidades;
 
 II.- Los actos y contratos relacionados con las materias a que se refiere la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DEL 2001)</small>
+
+###### ARTICULO 1° Bis.
+
+Las disposiciones de esta ley son de observancia obligatoria para las dependencias y órganos de los Poderes Legislativo y Judicial, así como de los Gobiernos Municipales, sin perjuicio de lo dispuesto en sus respectivas leyes orgánicas, así como para todos aquellos organismos que manejen o apliquen recursos provenientes de los erarios estatal o municipal. Las atribuciones que en esta ley se confieren al titular del Poder Ejecutivo y a dependencias de la Administración Pública del Estado se ejercerán, en la esfera de competencia de los Poderes Legislativo y Judicial, Gobiernos Municipales y organismos en mención, por las dependencias y órganos de éstos homólogos de aquéllos.
 
 ###### ARTICULO 2º.
 
@@ -509,6 +515,10 @@ Las Dependencias y Entidades responsables de la recepción de los bienes y servi
 
 Las Dependencias y Entidades conservarán los bienes en condiciones óptimas de operación, vigilarán el uso oficial de los mismos y promoverán la capacitación de que requiera para su adecuado manejo.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DEL 2001)</small>
+
+Todo vehículo automotor que se adquiera conforme a los términos de esta ley, deberá ostentar, en lugar visible de su parte exterior, un rótulo o leyenda, pintado o adherido, que permita identificar a que dependencia, entidad u organismo se encuentra asignado y sólo podrá ser utilizado para los fines a que se haya destinado. La infracción de las disposiciones anteriores será motivo de responsabilidad administrativa conforme a lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado. Cuando por razones de seguridad o por las necesidades del servicio se justifique, la correspondiente unidad de contraloría podrá dispensar el cumplimiento de lo dispuesto en la primera parte de este párrafo.
+
 ###### ARTICULO 60º.
 
 El pago de los bienes adquiridos o arrendados y de los servicios contratados se efectuará por Finanzas, o la Entidad correspondiente, dentro de un plazo máximo de veinte días hábiles, contado a partir de la fecha de recepción, por la Oficialía, de la documentación comprobatoria de la entrega o de la prestación de los bienes o servicios, conforme a las modalidades que se pacten en función de las características de la operación.
@@ -676,3 +686,23 @@ C. ABELARDO CARRILLO ZAVALA
 EL SECRETARIO DE GOBIERNO
 
 LIC. MANUEL FLORES HERNANDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DEL 2001.
+
+DECRETO No. 60
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- La rotulación a que se contrae la adición hecha al artículo 59° de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado, se llevará a cabo conforme lo permitan las previsiones presupuestales respectivas.
+
+P.O. 30 DE JUNIO DEL 2001.
+
+DECRETO No. 61
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
