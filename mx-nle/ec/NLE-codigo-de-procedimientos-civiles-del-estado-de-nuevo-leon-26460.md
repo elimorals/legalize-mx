@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1979-12-31"
+last_updated: "1981-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: LUNES 2 DE MARZO DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -607,9 +607,11 @@ La competencia de los tribunales se determinará por la materia, la cuantía, el
 
 Sin perjuicio del derecho sobre recusación y de la obligación de excusarse; de la acumulación; de la competencia por prevención, para el supuesto de promociones relativas a actos prejudiciales o a interposición de tercerías, cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicción voluntaria o mixta hubiere varios Jueces competentes, conocerá del negocio aquél a quien se aplique el mismo en los términos que dispon (sic) la Ley Orgánica del Poder Judicial del Estado.
 
-###### Artículo 101.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Si el juez deja de conocer por recusación o excusa, conocerá el que señale la Ley Orgánica del Poder Judicial.
+###### ARTICULO 101.
+
+Si el Juez deja de conocer por recusación o excusa, la substitución operará de acuerdo a lo previsto en la Ley Orgánica del Poder Judicial.
 
 ###### Artículo 102.
 
@@ -625,9 +627,11 @@ Si el acto de reconocimiento consiste sólo en la cumplimentación de un exhorto
 
 Las partes pueden desistirse de seguir sosteniendo la competencia de un tribunal, antes o después de la remisión de los autos al superior, si se trata de jurisdicción territorial.
 
-###### Artículo 105.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-La jurisdicción por razón del territorio, es la única que se puede prorrogar.
+###### ARTICULO 105.
+
+La competencia por razón del Territorio es la única que se puede prorrogar, con excepción de la correspondiente a los Distritos Segundo, Tercero y Cuarto, en relación con el Primer Distrito Judicial, previstos en la Ley Orgánica del Poder Judicial. En estos casos y únicamente cuando la Autoridad Judicial se inhiba de conocer por su incompetencia, las actuaciones que se hubieren practicado serán válidas.
 
 ###### Artículo 106.
 
@@ -655,7 +659,9 @@ Es nulo lo actuado por el juez que fuere declarado incompetente, salvo:
 
 I.- Lo dispuesto en el artículo 119 in fine;
 
-II.- Cuando la incompetencia sea por razón del territorio y convengan las partes en la validez;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+
+II.- Cuando la incompetencia sea por razón del territorio y convengan las partes en la validez, debiéndose observar lo dispuesto en el Artículo 105.
 
 III.- Si se trata de incompetencia sobrevenida, y
 
@@ -677,7 +683,11 @@ Es juez competente:
 
 I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
-II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el anterior, surte el fuero no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+
+II.- El del lugar señalado en el contrato para el cumplimiento de la obligación.
+
+Tanto en este caso como en el de la fracción anterior, se surte la competencia no solo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad, debiéndose observar lo dispuesto en el artículo 105.
 
 III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será a prevención;
 
@@ -703,17 +713,23 @@ VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promuev
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
-XI.- (sic) En los negocios reativos (sic) a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
+
+X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
-VII.- (sic) En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 1981)</small>
 
-###### Artículo 112.
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
 
-Para determinar la competencia por razón de la cuantía del negocio se tendrá en cuenta lo que demanda el actor. Los réditos, daños o perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
+###### ARTICULO 112.
+
+Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demanda el actor. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
+
+Cuando se trate del ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, se computará el monto anual de éstas. En los casos en que se demande solamente el pago o cumplimiento de las prestaciones adeudadas, o del capital o gravamen por las que éstas se adeuden, se estará a lo dispuesto en la primera parte de este artículo.
 
 ###### Artículo 113.
 
@@ -2497,9 +2513,11 @@ Los autos sólo son apelables cuando la ley lo disponga expresamente y además c
 
 Las interlocutorias son apelables cuando esta ley lo disponga expresamente o cuando lo fuere la sentencia definitiva del juicio en que se dicten.
 
-###### Artículo 432.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Las sentencias definitivas en los negocios cuyo interés exceda de dos mil quinientos pesos serán apelables, también tratándose del cumplimiento de obligaciones consistentes en prestaciones periódicas.
+###### ARTICULO 432.
+
+La apelación contra las sentencias definitivas, procederá en los negocios de la competencia de los Jueces de Primera Instancia.
 
 ###### Artículo 433.
 
@@ -3975,6 +3993,8 @@ Si se declare infundada la oposición, el opositor será condenado en las costas
 
 DEL JUICIO DE MENOR CUANTIA.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
+
 ###### Artículo 692.
 
 Se llaman interdictos los juicios que tienen por objeto retener o recobrar la posesión interina de una cosa.
@@ -4263,17 +4283,19 @@ Al hacer el requerimiento que se dispone en el artículo 734 se embargarán y de
 
 DE LAS TESTAMENTARIAS.
 
-###### Artículo 743.
+###### ARTICULO 743.
 
-Serán objeto de juicio de menor cuantía:
+Serán objeto del juicio de menor cuantía:
 
-I.- Los negocios cuyo interés no exceda de cinco mil pesos;
+I.- Los negocios cuyo interés no exceda de CINCUENTA MIL PESOS.
 
-II.- Los que tengan por objeto el cobro de pensiones, cualquiera que sea el título de que procedan excepto los que provengan de alimentos, con tal de que el monto de las prestaciones en un año no exceda de dos mil quinientos pesos, y siempre que el negocio no verse sobre el capital o gravamen por los que las pensiones se adeuden.
+II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, excepto las que provengan de alimentos, con tal de que el monto anual de aquéllas no excedan de VEINTICINCO MIL PESOS. En los casos en que se demande solamente el pago o cumplimento de las prestaciones adeudadas, o del capital o gravamen por los que éstas se adeuden, se estará a lo dispuesto en la fracción I de este artículo.
 
-###### Artículo 744.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Para los efectos del artículo anterior se observará lo dispuesto por el artículo 112.
+###### ARTICULO 744.
+
+Para determinar la cuantía de los negocios a que se refiere la fracción I del Artículo anterior, se observará lo dispuesto en la primera parte del Artículo 112.
 
 ###### Artículo 745.
 
@@ -4283,9 +4305,11 @@ Si al entablarse demanda ante un alcalde judicial se opusieren excepciones que f
 
 Los juicios de menor cuantía se ventilarán con el procedimiento y términos de los de mayor cuantía, salvo los casos expresamente determinados por la Ley.
 
-###### Artículo 747.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Los alcaldes judiciales letrados conocerán de negocios cuyo interés no exceda de las cantidades que se fijan en el artículo 743, salvo en lals (sic) fracciones judiciales donde no los hubiere, caso en el cual conocerán los jueces de letras.
+###### ARTICULO 747.
+
+De los negocios señalados en el Artículo 743, conocerán los Alcaldes Judiciales de los Municipios mencionados en la fracción II del Artículo 55 de la Ley Orgánica del Poder Judicial. Fuera de estos casos, dichos negocios serán conocidos por los Jueces de Primera Instancia del Distrito Judicial correspondiente.
 
 ###### Artículo 748.
 
@@ -5116,6 +5140,10 @@ Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores ofic
 IV.- Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado que se hará con copia para dar aviso al Fisco;
 
 V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 1981)</small>
+
+VI.- Tratándose de la sucesión del patrimonio familiar, formado con los bienes a que se refiere el Artículo 734 del Código Civil del Estado, con la certificación de la defunción del autor de la herencia se acompañará el título que acredita la constitución del patrimonio de familia; y el Juez, de Oficio y sin más trámites que oír el parecer del Ministerio Público, dictará resolución en la que reconozca la calidad al heredero designado en la cláusula testamentaria y decrete la adjudicación en su favor de los bienes materia del patrimonio de familia. Dicha resolución servirá de título de propiedad al heredero y adjudicatario testamentario, ordenándose por la propia Autoridad Judicial su inscripción en el Registro Público de la Propiedad con las anotaciones que correspondan en el Título antecedente, todo lo cual se deberá efectuar en un plazo que nunca exceda de treinta días.
 
 ### CAPITULO I
 
@@ -5954,3 +5982,21 @@ QUINTO.- Se derogan todas las disposiciones que se opongan a las presentes refor
 P.O. 31 DE DICIEMBRE DE 1979.
 
 ÚNICO.- El presente Decreto entrará en vigor, al siguiente día después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 1981.
+
+DECRETO 110, QUE REFORMA Y ADICIONAN LOS ARTICULOS 101, 109 ...
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día primero de abril de mil novecientos ochenta y uno.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 2 DE MARZO DE 1981.
+
+DECRETO 111, QUE REFORMA EL ARTÍCULO 880.
+
+Único:- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
