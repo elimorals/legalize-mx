@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1935-06-26"
+last_updated: "1938-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1938.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -163,7 +163,7 @@ La forma de Gobierno del Estado es la Republicana, representativa y popular.
 
 De la división del Poder Público.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1938)</small>
 
 ###### Artículo 15.
 
@@ -261,9 +261,7 @@ La formación de los quince Distritos enumerados en el artículo anterior, tiene
 
 ###### Artículo 24.
 
-El Poder Público del Estado se divide para su ejercicio: en Legislativo, Ejecutivo y Judicial.
-
-No podrán reunirse dos o más de estos Poderes en una sola persona o Corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias que para legislar se concedan al Ejecutivo conforme a la fracción XVII del artículo 45 de esta Constitución.
+El Poder Público del Estado se divide para su ejercicio en: Legislativo, Ejecutivo y Judicial.
 
 ###### Artículo 25.
 
@@ -279,7 +277,7 @@ La Ley Orgánica Electoral, reglamentará la materia relativa a elecciones de fu
 
 ###### Artículo 27.
 
-Para ser Diputado, se requiere; ser ciudadano mexicano por nacimiento, originario del Estado, no ser menor de 21 años de edad, estar en el goce de sus derechos, tener la instrucción primaria Elemental y Superior, y haber residido cinco años anteriores a la fecha de la Elección en el Distrito que lo elija, o ser originario del mismo con residencia de un año, también inmediatamente anterior a la fecha de la elección.
+Para ser Diputado se requiere: Ser ciudadano mexicano por nacimiento e hijo de padres mexicanos también por nacimiento, originario del Estado, no ser menor de 21 años de edad, estar en el goce de sus derechos políticos, tener la instrucción primaria elemental y superior, ser nativo del Distrito que lo elija o ser vecino de él con residencia de seis meses inmediatamente anteriores al día de la elección.
 
 ###### Artículo 28.
 
@@ -445,9 +443,7 @@ XV. Resolver sobre la validez o nulidad de las elecciones de Ayuntamientos, cuan
 
 XVI. Habilitar a los menores de edad, en quienes concurran los requisitos necesarios, para que administren libremente sus bienes.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
-
-XVII. Conceder al Ejecutivo facultades extraordinarias para legislar en algunos de los ramos de la Administración Pública, por tiempo limitado y cuando las circunstancias lo exijan, a juicio de las dos terceras partes de los miembros de la Cámara.
+XVII. (DEROGADA, P.O. 29 DE JUNIO DE 1938)
 
 XVIII. Dictar las disposiciones necesarias a efecto de que se verifiquen las elecciones de miembros de la Cámara que hubieran dejado de hacerse.
 
@@ -455,11 +451,11 @@ XVIII. Dictar las disposiciones necesarias a efecto de que se verifiquen las ele
 
 XIX. Nombrar Gobernador Interino, cuando la falta temporal del Constitucional sea mayor de diez días o en los casos previstos por los artículos 61 y 62 de esta Constitución. Igualmente nombrar Gobernador Substituto en las faltas absolutas del Constitucional, en la forma y términos prescritos en el artículo 61 de la propia Codificación.
 
-XX. Conceder amnistías por delitos políticos de la competencia del Estado.
+XX. (DEROGADA, P.O. 29 DE JUNIO DE 1938)
 
 XXI. Dictar las disposiciones relativas a la organización y disciplina de las fuerzas de policía y de seguridad pública del Estado.
 
-XXII. Conceder o negar indultos por delitos que sean de la jurisdicción de los Tribunales del Estado.
+XXII. (DEROGADA, P.O. 29 DE JUNIO DE 1938)
 
 XXIII. Conceder jubilaciones a los empleados inutilizados en el servicio del mismo, en los términos y bajo las condiciones que determine la ley.
 
@@ -663,9 +659,7 @@ XII. Resolver las dudas que se presenten a los funcionarios o empleados de la ad
 
 XIII. Dar informes al Congreso, cuando ésto lo pidiere, sobre cualquier ramo de la Administración.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 1930)</small>
-
-XIV. Dar cuenta del uso que haga de las facultades extraordinarias que se le concedan, conforme al artículo 45, fracción XVII en la tercera sesión del siguiente período ordinario de sesiones del Congreso.
+XIV. (DEROGADA, P.O. 29 DE JUNIO DE 1938)
 
 ###### Artículo 65.
 
@@ -683,7 +677,7 @@ V. Expedir los títulos profesionales con arreglo a la ley.
 
 VI. Mandar ejecutar, sin modificación, las sentencias de los tribunales del Estado, en las personas de los reos que al efecto se le consignen.
 
-VII. Reducir y conmutar penas en los casos y términos que señala el Código Penal y de Procedimientos en dicho ramo.
+VII. (DEROGADA, P.O. 29 DE JUNIO DE 1938)
 
 VIII. Dirigir, como Jefe de la Hacienda Pública la administración de ella, y cuidar de que los caudales públicos, estén siempre bien asegurados, se recauden o inviertan con arreglo a las leyes, ordenando al efecto la práctica de visitar a las oficinas rentísticas del Estado, para corregir los males e irregularidades que se notaren.
 
@@ -865,13 +859,17 @@ Los miembros del Tribunal Superior de Justicia y los Jueces de 1ª. instancia de
 
 Habrá en el Tribunal Superior de Justicia un Defensor de oficio, cuyas labores serán las que determine la ley, y su nombramiento lo hará dicho Tribunal.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1938)</small>
+
 ###### Artículo 84.
 
 Los Tribunales inferiores son:
 
-I. Los Juzgados de primera instancia.
+I. El Tribunal para Menores.
 
-II. Los Juzgados menores.
+II. Los Juzgados de Primera Instancia.
+
+III. Los Juzgados Menores.
 
 ###### Artículo 85.
 
@@ -953,9 +951,7 @@ No podrá hacerse pago alguno que no esté comprendido en el Presupuesto, o dete
 
 Los Presidentes de los Ayuntamientos y Jueces Menores serán remunerados por sus servicios. Dicha remuneración les será señalada por las Corporaciones antedichas, y pagada por el Erario Municipal respectivo.
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 1933)</small>
-
-Artículo 102 bis. Los Presidentes Municipales desempeñarán además de las funciones inherentes a su cargo, las de Jueces del Estado Civil, con las facultades y obligaciones que las Leyes les señalan.
+Artículo 102 bis. (DEROGADO, P.O. 29 DE JUNIO DE 1938)
 
 ###### Artículo 103.
 
@@ -1059,7 +1055,7 @@ De los Distritos.
 
 Cualidades, requisitos y prerrogativas de los Diputados.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1938)</small>
 
 ### CAPITULO III.
 
@@ -1284,3 +1280,7 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 P.O. 26 DE JUNIO DE 1935.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 1938.
+
+Este Decreto surtirá sus efectos desde su publicación en el Periódico Oficial del Estado.
