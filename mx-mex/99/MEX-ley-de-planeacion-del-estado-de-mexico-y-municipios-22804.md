@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2001-12-21"
+last_updated: "2003-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2003.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -423,6 +423,10 @@ El Gobierno del Estado de México y los ayuntamientos, en el ámbito de su compe
 
 El Ejecutivo del Estado podrá celebrar convenios de coordinación con el Ejecutivo Federal y los ayuntamientos; así como convenios de participación con particulares, grupos y organizaciones sociales y privados.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2003)</small>
+
+Tratándose de convenios de coordinacion que involucren recursos del gasto de inversión pública, los Ayuntamientos deberán cumplir con los requisitos que en esta materia señala el Código Financiero del Estado de México y Municipios, a fin de fortalecer el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios.
+
 ###### Artículo 41.
 
 Con el propósito de asegurar el cumplimiento de las obligaciones consignadas en los convenios de coordinación y de participación, serán las unidades de información, planeación, programación y evaluación de las dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos involucrados en los convenios respectivos, las encargadas de dar seguimiento y evaluar la ejecución de las acciones derivadas de los mismos.
@@ -564,3 +568,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 7 DE AGOSTO DE 2003
+
+PRIMERO.- PUBLIQUESE EL PRESENTE DECRETO EN EL PERIODICO OFICIAL "GACETA DEL GOBIERNO".
+
+SEGUNDO.- ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL "GACETA DEL GOBIERNO".
