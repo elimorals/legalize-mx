@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1986-04-05"
+last_updated: "1987-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -361,7 +361,7 @@ La elección de los diputados según el principio de representación proporciona
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1986)</small>
 
-a) Que los Partidos Políticos que los postulen obtengan cuando, menos el 5 por ciento de la votación total del Estado;
+a).- Que los Partidos Políticos que los postulen obtengan cuando menos el 5 por ciento de la votación total del Estado;
 
 b) Que los mismos partidos hayan postulado también candidatos en seis distritos electorales, cuando menos, y
 
@@ -999,11 +999,19 @@ El Procurador General de Justicia será el consejero jurídico del gobierno. Int
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en juzgados de primera instancia y menores, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 1985)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo que dure su encargo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 78.
 
-El Tribunal Superior de Justicia del Estado se compondrá de ocho Magistrados, siete numerarios y un Supernumerario, y funcionará en Pleno o en Salas como lo establezca la Ley Orgánica del Poder Judicial del Estado.
+El Tribunal Superior de Justicia del Estado funcionará en acuerdo Pleno o en salas, y estará integrado con el número de magistrados numerarios y supernumerarios que determine la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1013,19 +1021,21 @@ Los nombramientos de los Magistrados serán hechos por el Gobernador y sometidos
 
 Los Magistrados durarán en sus cargos seis años, a cuyo término si fueren confirmados sus nombramientos, serán inamovibles y sólo podrán ser removidos cuando faltaren al cumplimiento de sus deberes oficiales o violaren notoriamente las buenas costumbres, de acuerdo con lo dispuesto por el artículo 86 o previo el juicio de responsabilidad correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 79.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+I.- Ser ciudadano campechano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Tener 30 años de edad cumplidos, el día de la designación;
+II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento;
 
-III.- Poseer título profesional de abogado, expedido por autoridad o corporación legalmente facultada para ello;
+III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro ilícito que lesione seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+V.- Haber residido en el Estado durante los últimos cinco años.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1137,7 +1147,11 @@ VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, acep
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
-IX.- Remover a los empleados de los juzgados de primera instancia y menores.
+IX.- Remover a los empleados de los juzgados de primera instancia y menores;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de la Ley Orgánica respectiva.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1253,13 +1267,13 @@ I.- Cada Municipio será administrado por un Ayuntamiento de elección popular d
 
 II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1986)</small>
 
-b) Que alcance por lo menos el 5 por ciento del total de la votación emitida en el municipio correspondiente.
+b).- Que alcance por lo menos el 5 por ciento del total de la votación emitida en el municipio correspondiente.
 
 La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
 
@@ -1645,7 +1659,7 @@ UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en "
 
 P.O. 3 DE MAYO DE 1956.
 
-POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO.
+POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO.
 
 Artículo Primero.- Para las elecciones de Diputados al H. Congreso del Estado, de conformidad con lo dispuesto por el artículo 19 de la Constitución Política del Estado, reformado por Decreto de 28 de marzo del año en curso, queda sin efecto dicha modificación, estableciéndose definitivamente dividido el Territorio del Estado, en ocho distritos electorales, cuyas demarcaciones y cabeceras se expresan a continuación:
 
@@ -1681,7 +1695,7 @@ Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) s
 
 Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
 
 P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
 
@@ -1697,13 +1711,13 @@ La presente Constitución deroga todas las disposiciones anteriores que se opong
 
 El próximo día 7 de agosto serán nombrados los magistrados del Tribunal Superior de Justicia que tendrán, desde luego, el carácter de inamovibles.
 
-P.O. 5 DE OCTUBRE DE 1961.
-
-ART. UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
 P.O. 23 DE DICIEMBRE DE 1961.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1961.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
 
 P.O. 14 DE JULIO DE 1964.
 
@@ -1766,3 +1780,7 @@ TERCERO.- Queda facultado el Tribunal Pleno para emitir las disposiciones necesa
 P.O. 5 DE ABRIL DE 1986.
 
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 1987.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
