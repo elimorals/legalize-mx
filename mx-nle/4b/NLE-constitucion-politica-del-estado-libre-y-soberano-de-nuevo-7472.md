@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2003-10-31"
+last_updated: "2004-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -251,11 +251,11 @@ El organismo electoral competente con la participación del Gobierno del Estado,
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2004)</small>
 
 ###### Art. 46.
 
-Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, iniciando su mandato el 20 de septiembre del año de la elección.
+Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, iniciando su mandato el 1° de septiembre del año de la elección.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
 
@@ -355,13 +355,15 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. DECRETO NO. 65], P.O. 23 DE FEBRERO DE 2004)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 20 de Septiembre y terminará el día 20 de Diciembre; el segundo comenzará el día 30 de Abril y terminará el día 30 de Junio; ambos períodos podrán ser prorrogados hasta por treinta días.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 1° de septiembre y terminará el día 20 de diciembre; el segundo comenzará el día 30 de marzo y terminará el día 30 de junio; ambos períodos podrán ser prorrogados hasta por treinta días.
 
-En el año de la elección del Titular del Poder Ejecutivo, el Congreso celebrará, el día 4 de octubre, Sesión Solemne en la cual se atenderá primordialmente la toma de protesta de Ley al Gobernador que resulte electo.
+> <small>(REFORMADO [N. DE E. DECRETO NO. 67], P.O. 23 DE FEBRERO DE 2004)</small>
+
+En el año de la elección del Titular del Poder Ejecutivo, el Congreso celebrará, el día 3 de octubre, sesión solemne en la cual se atenderá primordialmente la toma de protesta de Ley al Gobernador que resulte electo. Éste tomará posesión de su cargo el día que para ese efecto establece esta Constitución.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -441,9 +443,9 @@ VII.- Examinar y aprobar anualmente, a propuesta del Gobernador, la Ley de Ingre
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Ingresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2004)</small>
 
-VIII.- Aprobar a instancia del Titular del Ejecutivo Estatal, la Ley Orgánica que establezca la estructura fundamental de la organización de la Administración Pública, señalando los ramos que la integran y sus respectivas competencias.
+VIII.- Aprobar la Ley Orgánica que establezca la estructura fundamental de la organización de la Administración Pública, señalando los ramos que la integran y sus respectivas competencias.
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
@@ -457,7 +459,9 @@ X .- Fijar anualmente, a propuesta del Ejecutivo Estatal o de los Ayuntamientos,
 
 XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado.
 
-XII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2004)</small>
+
+XII.- Gestionar la solución de las demandas de los nuevoleoneses;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -983,7 +987,7 @@ Si la licencia fuere por más de treinta días o en caso de impedimento del Gobe
 
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -2593,7 +2597,7 @@ P.O. 24 DE MAYO DE 1995.
 
 DECRETO NUMERO 53, QUE DEROGA EL ARTICULO 51.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 22 DE NOVIEMBRE DE 1995.
 
@@ -2772,5 +2776,35 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NUMERO 13, QUE REFORMA EL ARTICULO 86.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 65, QUE REFORMA LOS ARTICULOS 46 Y 55.
+
+Articulo Primero.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado.
+
+Articulo Segundo.- El Segundo Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional iniciará el 30 de abril de 2004 y concluira el 30 de junio de 2004, pudiendose prorrogar hasta por un mes, y los subsecuentes Periodos Ordinarios de la LXX Legislatura al Congreso del Estado de Nuevo Leon, se regirán por lo dispuesto en el presente Decreto.
+
+Articulo Tercero.- El Período de Ejercicio Constitucional de la Legislatura LXXI de este H. Congreso comprendera del 20 de septiembre del año 2006 al 31 de Agosto del año 2009.
+
+Articulo Cuarto.- Los Diputados integrantes de la LXXII Legislatura de este H. Congreso del Estado iniciarán su Período de Ejercicio Constitucional el dia 1° de septiembre del año 2009, debiendo concluirlo el dia 31 de agosto del año 2012.
+
+P.O. 23 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 66, QUE REFORMA EL ARTICULO 63.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 67, QUE REFORMA EL ARTICULO 55.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2004.
+
+DECRETO NUMERO 68, QUE REFORMA EL ARTICULO 63.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
