@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "1992-01-03"
+last_updated: "1994-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -79,6 +79,10 @@ XI. Los muebles de propiedad federal que por su naturaleza no sean normalmente s
 > <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
 
 XII. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles de la Federación o del patrimonio de los organismos descentralizados, cuya conservación sea de interés nacional.
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 1994)</small>
+
+XIII.- Las meteoritas o aerolitos y todos los objetos minerales, metálicos, pétreos, o de naturaleza mixta, procedentes del espacio exterior, caídos y recuperados en el territorio mexicano, en los términos del reglamento respectivo.
 
 ###### ARTICULO 3o.
 
@@ -1231,3 +1235,9 @@ D.O.F. 3 DE ENERO DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Desarrollo Urbano y Ecología proveerá lo necesario para adecuar la zona federal marítimo terrestre a lo dispuesto por este Decreto.
+
+D.O.F. 29 DE JULIO DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
