@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2002-08-17"
+last_updated: "2002-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -725,7 +725,7 @@ El Presidente del Consejo, por conducto del Secretario Técnico, convocará a la
 
 ###### ARTÍCULO 30.
 
-En los Municipios en donde no existan los organismos, dependencias y grupos organizados previstos en el artículo anterior, El Presidente del Consejo solicitará a las dependencias o instituciones sociales y privadas correspondientes acreditadas o registradas ante el Estado, que nominen a un agremiado de su localidad como su representante. En caso de no hacer la designación, la representación se declarará vacante.
+En los Municipios en donde no existan los organismos, dependencias y grupos organizados previstos en el artículo anterior. El Presidente del Consejo solicitará a las dependencias o instituciones sociales y privadas correspondientes acreditadas o registradas ante el Estado, que nominen a un agremiado de su localidad como su representante. En caso de no hacer la designación, la representación se declarará vacante.
 
 ###### ARTÍCULO 31.
 
@@ -1031,7 +1031,7 @@ Transcurrido el plazo anterior, la Secretaría, con la opinión de la Comisión 
 
 Los Planes Municipales de Desarrollo Urbano, los de Centros de Población y los que de éstos se deriven serán elaborados, aprobados, ejecutados, controlados y evaluados por los Ayuntamientos correspondientes, atendiendo la opinión del Consejo Consultivo Municipal de Desarrollo Urbano respectivo, y en su caso, las observaciones técnicas de las autoridades competentes de los gobiernos del Estado y la Federación. El Ayuntamiento aprobará formalmente el respectivo plan en sesión de cabildo y lo someterá con todos sus antecedentes a la aprobación definitiva de la Legislatura, con excepción de los programas parciales de desarrollo, que bastará la aprobación de Cabildo, para su publicación e inscripción, remitiendo la copia respectiva al Congreso para su conocimiento.
 
-###### ARTÍCULO 52
+###### ARTÍCULO 52.
 
 Para elaborar y aprobar los Planes Municipales de Desarrollo Urbano, de Centros de Población y los que de éstos se deriven, se seguirá el procedimiento siguiente:
 
@@ -2453,7 +2453,7 @@ Son obligaciones de los titulares de un fraccionamiento respecto del mismo, las 
 
 I. Ceder a título gratuito al Ayuntamiento, las superficies de terreno determinadas como vías públicas en el Proyecto de fraccionamiento;
 
-II. Ejecutar las obras de urbanización y equipamiento conforme a las características, especificaciones y calidad que se autoricen en el Proyecto definitivo aprobado, y dentro del plazo que fije el respectivo acuerdo de autorización, incluyendo las complementarias y la plantación de arbolado:
+II. Ejecutar las obras de urbanización y equipamiento conforme a las características, especificaciones y calidad que se autoricen en el Proyecto definitivo aprobado, y dentro del plazo que fije el respectivo acuerdo de autorización, incluyendo las complementarias y la plantación de arbolado;
 
 III. Otorgar las garantías conducentes a efecto de asegurar la ejecución adecuada de las obras de urbanización y el cumplimiento de cada una de las obligaciones que le correspondan. El fraccionador otorgará a favor del Ayuntamiento la correspondiente garantía o fianza con un monto del 10% del presupuesto total de las obras;
 
@@ -3201,13 +3201,9 @@ DIP. PRESIDENTE
 
 HECTOR MEDINA RODRIGUEZ
 
-DIP. SECRETARIO
+DIP. SECRETARIO DIP. SECRETARIO,
 
-J.- BELEM MONTES BALDERAS
-
-DIP. SECRETARIO,
-
-JORGE A. MONDRAGON GLEZ.
+J.- BELEM MONTES BALDERAS JORGE A. MONDRAGON GLEZ.
 
 Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital a los cuatro días del mes de mayo de mil novecientos noventa y nueve.
 
@@ -3227,23 +3223,31 @@ Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su 
 
 P.O. 17 DE AGOSTO DE 2002
 
-Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el tres de marzo del año 2003.
 
-Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el tres de marzo del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
 
-Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+Segundo.- El Gobernador dentro de los primeros diez días del mes de noviembre siguientes a la entrada en vigor del presente decreto, en los términos a que hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
 
-El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de febrero del año 2003 preverán lo conducente a efecto de elegir a su presidente; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día tres de marzo del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día tres de marzo del año 2003.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+Cuarto.- El Gobernador del Estado y el Congreso del Estado preverán lo conducente a efecto de incluir dentro del presupuesto de egresos del año 2003 las partidas suficientes que garanticen el adecuado funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit a partir de la fecha en que este mismo decreto se señalan
 
 Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
 
-Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
 
 Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
 
@@ -3252,3 +3256,7 @@ Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en
 Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
 
 En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
+
+P.O. 28 DE SEPTIEMBRE DE 2002
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
