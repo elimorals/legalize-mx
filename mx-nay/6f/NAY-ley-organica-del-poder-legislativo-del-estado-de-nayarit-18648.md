@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2004-09-22"
+last_updated: "2005-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2005.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -417,11 +417,11 @@ Será Presidente de la Comisión de Gobierno Legislativo, por el término de la 
 
 El Presidente del Congreso hará la declaratoria de constitución de la Comisión de Gobierno Legislativo, la cual a partir de ese momento ejercerá sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2005)</small>
 
 ###### Artículo 41.
 
-La Comisión de Gobierno Legislativo fungirá como Órgano de Gobierno a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión serán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada partido, respecto del total de la Asamblea; y tendrá las siguientes atribuciones:
+La Comisión de Gobierno Legislativo fungirá como órgano de gobierno a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión serán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada partido, respecto del total de la Asamblea; y tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
@@ -433,9 +433,11 @@ III.- Impulsar la conformación de acuerdos relacionados con el contenido de las
 
 IV.- Decidir acerca del Proyecto de Presupuesto anual del Congreso y presentarlo al titular del Poder Ejecutivo para su integración en el Proyecto del Presupuesto de Egresos del Estado;
 
-> <small>(REFORMADA, P.O. 05 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2005)</small>
 
-V.- Proponer al Pleno de la Cámara la designación del Secretario General y del Oficial Mayor.
+V.- Proponer al pleno del Congreso la designación del Secretario General, del Oficial Mayor y del Contralor Interno.
+
+> <small>(REFORMADO, P.O. 05 DE MAYO DEL 2001)</small>
 
 En el caso de la designación del Auditor General, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
@@ -795,11 +797,29 @@ De no encontrarse en funciones la Legislatura, la Diputación Permanente convoca
 
 La estructura técnica y administrativa del Congreso se organiza en la Secretaría General, la Oficialía Mayor y el Órgano de Fiscalización Superior, las cuales estarán bajo la autoridad inmediata de la Comisión de Gobierno.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 86.
 
-El secretario general y el oficial mayor serán nombrados, a propuesta de la Comisión de Gobierno, por la asamblea con el voto de la mayoría absoluta de los diputados integrantes de la legislatura, y durarán en sus cargos 4 años, pudiendo ser ratificados por una sola vez.
+El Proceso Legislativo y los Asuntos Jurídicos del Congreso se ejercerán a través de la Secretaría General y su titular se denominará Secretario General.
+
+Las atribuciones del Congreso en materia de vigilancia y fiscalización de los caudales públicos se ejercerán con el auxilio del Órgano de Fiscalización Superior de acuerdo a lo dispuesto en el Título Noveno de la presente ley.
+
+La gestión administrativa interna del Congreso se ejercerá por la Oficialía Mayor, y contará con la siguiente estructura:
+
+I.- Dirección de Administración;
+
+II.- Tesorería;
+
+III.- Departamento de Recursos Humanos; y
+
+IV.- Departamento de Recursos Materiales y Servicios Generales.
+
+La administración y ejercicio de los recueros financieros se ejercerá por conducto de la Tesorería la cual deberá dar cuenta comprobada de su aplicación, dentro de los veinte días del mes siguiente al que corresponda su ejercicio, a la Comisión de Hacienda, Cuenta Pública y Presupuesto.
+
+La recepción de quejas, la realización de investigaciones, auditorías y la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, se realizará por la Contraloría Interna. La Contraloría dependerá administrativamente de la Comisión de Gobierno Legislativo; y técnicamente de la Comisión de Hacienda, Cuenta Pública y Presupuesto, en los términos de esta ley, debiendo presentarles un informe trimestral sobre el cumplimiento de sus funciones. Su titular será nombrado de conformidad a lo que dispone esta ley y su reglamento por el voto de al menos las dos terceras partes de los integrantes de la Asamblea legislativa por un periodo de cuatro años, y podrá ser ratificado por una sola vez; la ratificación, remoción o sustitución en su caso, deberá ser aprobada con la misma votación.
+
+La difusión de actividades del Congreso se llevará a cabo por la Coordinación de Comunicación Social. La gestión social estará a cargo de la Unidad de Gestoría Social y su funcionamiento será conforme a lo establecido en el Reglamento para el Gobierno Interior.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
@@ -1224,3 +1244,7 @@ Artículo Primero.- El presente decreto entrará en vigor a partir del día sigu
 Articulo Segundo.- Se deberán tomar las previsiones presupuestales a efecto de que la Fiscalía contra Delitos Electorales inicie sus funciones el día uno de enero del año dos mil cinco.
 
 Artículo Tercero.- El Honorable Congreso del Estado de Nayarit hará la designación del titular de la Fiscalía contra Delitos Electorales a más tardar el día 30 de noviembre de 2004.
+
+P.O. 19 DE MARZO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit; y publíquese de conformidad con lo establecido en el artículo 58 de la Constitución Política del Estado de Nayarit.
