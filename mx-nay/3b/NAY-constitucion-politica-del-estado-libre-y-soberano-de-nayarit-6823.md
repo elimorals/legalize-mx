@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1922-01-15"
+last_updated: "1924-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -765,17 +765,17 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 El ejercicio del Poder Judicial se deposita en un Cuerpo que se denominará "SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO", en Jueces de Primera Instancia, Menores y de Paz.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1922)</small>
+(EN VIGOR TEXTO ORIGINAL, POR DEROGACION DE DECRETO No. 125, P.O. 14 DE AGOSTO DE 1924)
 
 ###### Art. 82.
 
-El Supremo Tribunal de Justicia del Estado, se compondrá de un Magistrado Propietario y tres Suplentes o supernumerarios.
+El Supremo Tribunal de Justicia del Estado, constará de tres Magistrados Propietarios y tres Suplentes, siendo uno de ellos el Presidente del Tribunal Pleno.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1922)</small>
+(EN VIGOR TEXTO ORIGINAL, POR DEROGACION DE DECRETO No. 125, P.O. 14 DE AGOSTO DE 1924)
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto.
+Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán electos por el Congreso del mismo, constituido en Colegio Electoral, debiendo concurrir por lo menos a la sesión en que deba hacerse la elección, las dos terceras partes del número total de sus miembros y siendo indispensable que el electo obtenga mayoría absoluta de votos. La elección se hará en escrutinio secreto y la misma Legislatura designará al Presidente del Tribunal.
 
 ###### Art. 84.
 
@@ -1011,11 +1011,11 @@ En los delitos del orden común que cometieren los Diputados, el Gobernador, los
 
 En caso afirmativo, el acusado, queda por el mismo hecho separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado, pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1922)</small>
+(EN VIGOR TEXTO ORIGINAL, POR DEROGACION DE DECRETO No. 125, P.O. 14 DE AGOSTO DE 1924)
 
 ###### Art. 124.
 
-De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia el mismo Tribunal Superior integrado en los términos de la ley.
+De los delitos y faltas oficiales en que incurran los altos funcionarios a que se refiere el artículo anterior, conocerán: el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia en acuerdo pleno como Jurado de Sentencia; y tratándose de responsabilidad oficial de los Magistrados del Supremo Tribunal de Justicia, será Jurado de Sentencia, el mismo Tribunal Superior integrado en los términos de la ley.
 
 ###### Art. 125.
 
@@ -1116,6 +1116,10 @@ Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 P.O. 15 DE ENERO DE 1922
 
 El presente Decreto deroga todas las disposiciones que a él se opongan y empezará a surtir sus efectos legales, desde la fecha en que el Congreso del Estado tiene que elegir de acuerdo con la Ley, nuevo Tribunal, y desde la fecha en que el Tribunal actual cumpla el periodo de sus funciones y deba hacer entrega al Tribunal nuevamente electo.
+
+P.O. 14 DE AGOSTO DE 1924
+
+Por esta sola vez, y de acuerdo con lo que estatuye el Reglamento Interior del H. Congreso en su artículo 5o, el día 15 de diciembre del año en curso, se hará la elección de los C.C. Magistrados Propietarios que faltan para que sea integrado el Tribunal Trinitario (sic); a cuyo efecto, la Comisión Permanente que funcione en aquella fecha, se encargará de hacer la convocatoria que procede. Los Ciudadanos electos rendirán la protesta de ley, el día 27 del propio diciembre ante la Diputación Permanente y se harán cargo de sus puestos, el 1o. de enero próximo.
 
 ###### Art. 1o.
 
