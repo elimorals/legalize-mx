@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1994-07-29"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1145,9 +1145,11 @@ Es base de este impuesto, el monto total de los pagos a que se refiere el Artíc
 
 Este impuesto se causará con tasa del 2% sobre la base a que se refiere el Artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 158.
 
-El pago del impuesto deberá efectuarse, dentro de los quince primeros días del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
+El pago del impuesto deberá efectuarse a más tardar el día quince del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1189,9 +1191,9 @@ f).- Gastos de representación y viáticos efectivamente erogados por cuenta del
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-a) La Federación, Estados y Municipios;
+a).- La Federación, Estados y Municipios. Los organismos descentralizados, fideicomisos y demás entidades paraestatales, deberán cubrir el impuesto a su cargo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -1845,7 +1847,9 @@ II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos e
 
 Este derecho deberá ser cubierto durante los meses de Enero y Febrero de cada año.
 
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1986)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+III.- Por inscripción y revalidación de fierros y señales de ganado, por cada uno N$15.00.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1873,13 +1877,25 @@ III.- Inscripción de sentencias de divorcio N$100.00
 
 IV.- Expedición de copias certificadas de las actas del estado civil, cada una N$10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o un lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos de traslado, la cantidad de N$100.00
+V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en lugar distinto a la sede de la Oficialía, se causará una cuota de dos tantos más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en horas o días inhábiles o en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos, una cantidad de hasta N$100.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 VI.- Las anotaciones marginales N$30.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+VII.- Por la inscripción de actos o hechos realizados en el extranjero N$100.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Por la tramitación del procedimiento de aclaración o rectificación de actas N$30.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+IX.- Por servicio de información de inscripciones de Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta N$50.00
 
 Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
 
@@ -1987,9 +2003,9 @@ En ningún caso la cantidad a pagar será inferior a ….. N$75.00
 
 IX.- Por certificado de no inscripción de inmuebles ….. N$30.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-X.- Por certificado de gravámenes o de libertad de gravámenes ….. N$40.00
+X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote ..... N$40.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1997,9 +2013,9 @@ XI.- Por acreditación o rectificación de medidas, según el valor de la superf
 
 En ningún caso la cantidad a pagar será menor a ….. N$110.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-XII.- Por inscripción de avisos preventivos, por cada uno ….. N$55.00
+XII.- Por inscripción de avisos preventivos, por cada uno ….. N$57.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2022,6 +2038,14 @@ c) Información de datos de antecedentes registrales ….. N$15.00
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. N$50.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Por la presentación de aviso testamentario ….. N$55.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+XVIII.- Por la expedición de informes sobre la existencia o inexistencia de testamentos ….. N$50.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2311,9 +2335,9 @@ f) Hoteles de paso N$8,500.00
 
 Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-II.- Por registro de contratos de arrendamiento de bienes inmuebles, cada uno:
+II.- Por la inscripción de contratos de arrendamiento de bienes inmuebles, a solicitud del particular, cada uno:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -2327,6 +2351,14 @@ b) Si el importe de la renta calculado al mes excede de N$500.00 ..... N$30.00
 
 III.- Por expedición de certificado de valor actual real, según el valor determinado en el avalúo, se pagarán por cada millar o fracción N$2.00
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+En ningún caso la cantidad a pagar será inferior a ….. N$50.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+Tratándose de consulta de valor actual real ….. N$50.00
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 IV.- Por expedición de certificado de no inscripción catastral N$30.00
@@ -2339,9 +2371,9 @@ V.- Por expedición de constancias catastrales sin certificar, cada una N$17.00
 
 VI.- Por expedición de constancias catastrales certificadas, cada una N$33.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VII.- Por registro de subdivisión, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote N$17.00
+VII.- Por la inscripción de subdivisiones, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote resultante N$17.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2369,19 +2401,25 @@ c) Lote N$20.00
 
 d) Lote certificado N$40.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-XII.- Por registro y revalidación de fierros y señales de ganado, por cada uno N$15.00
+XII.- Por asignación de número de expediente catastral a planos de fraccionamientos N$50.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Por servicios de control vehicular:
 
-a) Para vehículos de motor, excepto motocicletas, anualmente N$325.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+a) Para vehículos de motor, excepto motocicletas, anualmente N$335.00
 
 b) Para remolques, anualmente N$130.00
 
 c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo el alta en el padrón, anualmente N$50.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+d) Por placas de demostración, semestralmente N$200.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2441,7 +2479,9 @@ T A R I F A
 
 Concepto: Tasa:
 
-I.- Registro de Títulos Profeisonales (sic):
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+I.- Por inscripción de títulos profesionales:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -2551,21 +2591,29 @@ ARTICULO 276 bis.- Por los servicios prestados por la Secretaría de Desarrollo 
 
 I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante N$500.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-Por regularización de predios de hasta 200 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de N$50,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, pagarán por cada lote o fracción resultante N$50.00
+Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$250,000.00, se pagarán por cada lote o fracción resultante N$50.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por el inicio de trámite de licencia de uso de suelo o de edificación N$500.00
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota de N$9.50 por metro cuadrado de construcción, excluyendo los estacionamientos.
+III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
 
-La cuota prevista en el párrafo anterior será de N$6.50 para las edificaciones habitacionales multifamiliares. Las casas-habitación estarán exentas del pago de este derecho.
+a) Hasta 100 M2 ..... N$2.00
 
-Tratándose de construcciones que no excedan de 100 metros cuadrados de superficie de construcción, cuyo valor catastral sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por el inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos. Si la superficie de construcción no excede de 50 metros cuadrados, se cubrirá el 25% de los derechos establecidos en las fracciones II y III.
+b) Mayor de 100 M2 y hasta 250 M2 ..... N$4.00
+
+c) Mayor de 250 M2 y hasta 500 M2 ..... N$6.00
+
+d) Mayor de 500 M2 y hasta 1,000 M2 ..... N$8.00
+
+e) Mayor de 1,000 M2 ..... N$9.50
+
+La cuota prevista en el párrafo anterior no excederá de N$6.50 por metro cuadrado, para las edificaciones habitacionales multifamiliares. Las casas habitación estarán exentas del pago de este derecho.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2605,7 +2653,9 @@ C) Lotes con superficie mayor de 300 metros cuadrados N$5.00
 
 c) Proyecto Ejecutivo N$2,000.00
 
-d) Autorización de ventas N$2,000.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+d) Certificación del cumplimiento de requisitos para ventas N$2,000.00
 
 e) Prórroga N$1,000.00
 
@@ -2615,9 +2665,9 @@ g) Modificaciones N$1,000.00
 
 h) Recepción de obra N$10,000.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, N$18,000.00 por trámite, más las cuotas previstas en este artículo en las fracciones III y V.
+VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, se cubrirán las cuotas previstas en este artículo en las fracciones III y V, con un incremento del 75%.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2627,9 +2677,7 @@ VII.- Por expedición de copias certificadas de planos N$60.00
 
 VIII.- Por la expedición de diversas constancias y certificaciones N$40.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-Tratándose del derecho a que se refiere la fracción II y el inciso a) de la fracción III, se cubrirá tan solo un 50%, cuando el contribuyente sea persona jubilada, pensionada, discapacitada o viuda y que el destino sea comercial siempre y cuando comprueben ante la autoridad correspondiente su condición y que sus ingresos mensuales no excedan del importe equivalente a tres salarios mínimos diarios elevados al mes.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 (REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
@@ -2651,9 +2699,11 @@ VI.- Venta de impresos y papel especial; y,
 
 VII.- Diversos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 279.
 
-Los productos, por conceptos diversos a los señalados en el Artículo anterior, se cobrarán de acuerdo con los contratos, o en los términos de las concesiones de conformidad con las leyes o disposiciones aplicables.
+Los productos se cobrarán de acuerdo con los contratos, o en los términos de las concesiones, de conformidad con las leyes o disposiciones aplicables.
 
 ## TITULO QUINTO. De los Aprovechamientos
 
@@ -2691,7 +2741,7 @@ XI.- Accesorios y Rezagos; y,
 
 XII.- Otros no especificados.
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ## TITULO SEXTO. Tasas Adicionales
 
@@ -2703,17 +2753,23 @@ XII.- Otros no especificados.
 
 ###### ARTICULO 281.
 
-Los organismos descentralizados y los fideicomisos en los que el Gobierno del Estado sea fideicomitente único, cubrirán el 15% de los ingresos que obtengan en 1994, excluyendo los que deriven del otorgamiento de créditos y transferencias.
+Los organismos descentralizados del Estado y los fideicomisos en los que el Estado sea fideicomitente único, cubrirán el 10% de los ingresos que obtengan, excluyendo los que deriven del otorgamiento de créditos y transferencias.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 Dicha aportación la realizarán a más tardar el día 7 del mes siguiente a aquél al que se hayan percibido los ingresos.
 
-(ADICIONADO Y REUBICADO, P.O. DE 31 DE DICIEMBRE DE 1993).
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 282.
 
-Las personas físicas o morales, públicas o privadas, que se les haya otorgado el aval del Estado para la contratación de créditos y durante 1994 mantengan saldos ejercidos, están obligadas al pago anual del 2% sobre el promedio diario de los pasivos adeudados durante el año, incluyendo intereses.
+Los Organismos Paraestatales del Gobierno del Estado, que se les haya otorgado el aval del Estado para la contratación de créditos y mantengan saldos ejercidos, están obligados al pago anual del 2% sobre el promedio diario de los pasivos adeudados durante el año, incluyendo intereses.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 Las personas a que se refiere el párrafo anterior, efectuarán pagos provisionales, los cuales se obtendrán aplicando la tasa del 2% al resultado que se obtenga de sumar los saldos diarios de los pasivos del mes respecto del cual se calcula, dividiéndolo entre los días del año.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 El pago provisional será enterado a más tardar el día siete del mes siguiente a aquél respecto del cual se calcula el pago.
 
@@ -3010,3 +3066,9 @@ Si se da por terminada la Adhesión del Estado de Nuevo León, al Sistema Nacion
 ###### ARTICULO TERCERO.
 
 Durante 1994 el Estado garantizará a los Municipios el pago de las diferencias que resulten entre el importe de la recaudación de los derechos suspendidos con motivo de este Decreto, ocurrida en 1993, respecto de la recaudación de los citados derechos, ocurrida en 1994, adicionada con el incrementó en las participaciones que en 1994 obtenga cada uno de ellos, siempre que la suma de la recaudación de estos derechos ocurrida en 1994 y el incremento en las participaciones, sea menor al monto de la recaudación en 1993 de los derechos suspendidos. Para estos efectos, a la recaudación de 1993 se le aplicará el factor de 1.05.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1° de Enero de 1995.
