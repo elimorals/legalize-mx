@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1995-06-12"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1111,15 +1111,19 @@ IV.- Parentesco de consanguinidad o de afinidad hasta el segundo grado con algú
 
 Si estando en funciones surgiere algún motivo superveniente de impedimento o perdiesen alguno de los requisitos indispensables para ejercer su encargo, quedarán obligados a separarse del mismo y a presentar en consecuencia la renuncia correspondiente, debiendo el Ayuntamiento nombrar dentro de los suplentes al que deba ocupar dicho cargo.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 33.
 
-Integrarán los Ayuntamientos, las personas cuyos nombres aparezcan en el Decreto el Congreso del Estado, que declare válidas las elecciones y se publique en el Diario Oficial del Gobierno del Estado, mismo que deberá ser leído en la sesión solemne de instalación, en la cual deberán identificarse los designados.
+Integrarán los Ayuntamientos, las personas que resulten electas de conformidad con la resolución firme que emita la Autoridad Electoral competente y sea publicada en el Diario Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 34.
 
-El día primero de Enero del primer año del ejercicio, el Ayuntamiento se constituirá en sesión solemne en la que el Presidente Municipal electo deberá rendir la protesta y a la vez la tomará a los demás miembros propietarios del Ayuntamiento electo.
+El día primero de julio del primer año del Ejercicio Constitucional, el Ayuntamiento se constituirá en sesión solemne en la que el Presidente Municipal electo deberá rendir la protesta y a la vez la tomará a los demás miembros propietarios del Ayuntamiento electo.
 
-En dicha sesión solemne, puestos de pie los regidores y los asistentes; el Presidente electo dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos la particular del Estado de Yucatán y las demás leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo del Presidente Municipal que el pueblo me ha conferido, mirando ante todo por el bien y prosperidad de la Nación, del Estado y del Municipio, si así no lo hiciere, que la Nación, el Estado y el Municipio me lo demanden".
+En dicha sesión solemne, puestos de pie los regidores y los asistentes; el Presidente electo dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Yucatán y las demás leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo del Presidente Municipal que el pueblo me ha conferido, mirando ante todo por el bien y prosperidad de la Nación, del Estado y del Municipio, si así no lo hiciere, que la Nación, el Estado y el Municipio me lo demanden".
 
 Enseguida, el Presidente Municipal preguntará a los demás miembros del Ayuntamiento que permanecerán de pie: "Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempañar leal y patrióticamente el cargo de regidor propietario que el pueblo les ha conferido, mirando ante todo por el bien y la prosperidad de la Nación, del Estado y del Municipio".
 
@@ -1127,7 +1131,7 @@ Los interrogados deberán contestar: "Sí protesto", el Presidente Municipal dir
 
 Igual protesta están obligados a rendir los regidores que se presenten después y cualquiera que sea llamado para suplir a un propietario.
 
-Inmediatamente después, el nuevo Presidente hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de (nombre del Municipio).
+Inmediatamente después el nuevo Presidente hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de (nombre del Municipio).
 
 Por el período de (período del Ayuntamiento)". Una vez que esté debidamente instalado el Ayuntamiento, sesionará para designar al Secretario de entre sus miembros a propuesta del Presidente y asignar las comisiones a cada uno de los regidores del Ayuntamiento.
 
@@ -1361,7 +1365,9 @@ XIII.- Autorizar las órdenes de pago de la Tesorería Municipal, que sea confor
 
 XIV.- Cumplimentar los acuerdos del Ayuntamiento e informarles al respecto;
 
-XV.- Informar al Ayuntamiento dentro de los últimos quince días del mes de diciembre de cada año en sesión solemne de Cabildo, sobre el estado que guarda la administración Municipal, los avances logrados en el Plan Municipal de Desarrollo y de las labores realizadas durante el año inmediato anterior;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XV.- Informar al Ayuntamiento dentro de los últimos quince días del mes de junio de cada año en sesión solemne de Cabildo, sobre el estado que guarda la administración municipal, los avances logrados en el Plan Municipal de Desarrollo y de las labores realizadas durante el año inmediato anterior;
 
 XVI.- Nombrar y remover al personal administrativo cuando así se requiera;
 
@@ -2320,3 +2326,7 @@ D.O. 12 DE JUNIO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 28 DE DICIEMBRE DE 1995.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
