@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1994-01-31"
+last_updated: "1995-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -195,9 +195,13 @@ Las Tesorerías Municipales, dentro de los diez días siguientes a la fecha de p
 
 Las Licencias, Permisos, Registros o Placas que se expidan por la Autoridad Municipal, serán válidas por el Año Fiscal correspondiente, y con exclusividad para las personas, lugares, giros o actividad para las cuales se hubieran concedido. Las Autoridades Municipales quedan facultadas para revocarlas por causa de utilidad pública, interés social o causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 18.
 
-Todos los contribuyentes habituales a que se refiere esta Ley, con excepción de los del Impuesto Predial, tienen la obligación de refrendar cada año su empadronamiento, a efecto de obtener su cédula y autorización respectivas dentro de los primeros quince días de cada año. Las Cédulas de Empadronamiento no serán transferibles.
+Los propietarios a que se refiere el artículo 16 de esta ley, tienen la obligación de refrendar cada año su empadronamiento, a efecto de obtener su cédula y autorización respectivas dentro de los primeros quince días de cada año.
+
+Las cédulas de empadronamiento no serán transferibles.
 
 ###### ARTICULO 19.
 
@@ -387,153 +391,143 @@ El incumplimiento de las obligaciones a que se refieren los párrafos anteriores
 
 DE LAS EXENCIONES
 
-### CAPITULO SEGUNDO. IMPUESTO SOBRE RIFAS, SORTEOS Y LOTERÍAS
+(DEROGADO SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1995).
+
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 44.
 
-Están exentos del pago de este impuesto los bienes de dominio público de la Federación, del Estado y de los Municipios.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995).
 
 ###### ARTICULO 45.
 
-Es objeto de este impuesto, la realización de rifas, sorteos y loterías de especulación, que se realicen en el territorio de cada Municipio.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995).
 
 ###### ARTICULO 46.
 
-Son sujetos de este impuesto, las personas físicas o morales que con fines de lucro, realicen los actos a que se refiere este capítulo.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995).
 
 ###### ARTICULO 47.
 
-La base de este impuesto será el monto total de los premios, o en su caso, el valor nominativo del boletaje.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995).
 
 ###### ARTICULO 48.
 
-Este impuesto, deberá pagarse a más tardar al día siguiente de la celebración de la rifa, sorteo o lotería, aplicándose las cuotas o tasas que establezcan las Leyes de Ingresos Municipales.
-
-Las Tesorerías Municipales podrán celebrar convenios con los contribuyentes de este impuesto para efectos del pago correspondiente.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995).
 
 ###### ARTICULO 49.
 
-Estarán exentos del pago de este impuesto las Instituciones de Seguridad Social, la Universidad Autónoma de San Luis Potosí y las demás Instituciones Educativas, siempre que acrediten que la totalidad de los ingresos obtenidos se destinará a cumplir con los fines para las que fueron creados.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995).
 
 ### CAPITULO TERCERO. IMPUESTO SOBRE ADQUISICIÓN DE INMUEBLES Y OTROS DERECHOS
 
 REALES
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 50.
 
-Están obligados al pago de este impuesto las personas físicas o las morales que adquieran inmuebles consistentes en el suelo o subsuelo y las construcciones adheridas a él, así como los derechos relacionalos (sic) con los mismos inmuebles.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta ley, las personas físicas y las morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él, ubicados en los municipios, así como los derechos relacionados con los mismos. El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
 
-El impuesto se determinará aplicando la tasa y el procedimiento para su cáulculo, (sic) conforme al valor del inmueble, tal y como lo señalen las Leyes de Ingresos Municipales.
+Para los efectos del cálculo el impuesto a que se refiere el párrafo anterior, deberá utilizarse un avalúo catastral cuya antigüedad no exceda de seis meses con respecto a la fecha de la operación.
 
-(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992) (N. DE E. EL TERCER PARRAFO FUE ELIMINADO TÁCITAMENTE EN EL P.O. DE FECHA 30 DE DICIEMBRE DE 1988)
+La base gravable de este impuesto será la que resulte mayor entre el valor de avalúo catastral del inmueble y el valor declarado de la operación.
+
+No se pagará el impuesto establecido en esta ley en las adquisiciones de inmuebles que hagan la federación, el estado y municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+
+Para efectos de vivienda de interés social y vivienda popular se deducirá de la base gravable el importe de 10 salarios diarios mínimos generales vigentes en la zona elevados al año y del impuesto a pagar resultante se deducirá el 50% en atención al acuerdo de coordinación para el fomento de la vivienda, publicado en el Diario Oficial de la Federación el 20 de diciembre de 1992.
+
+Se considerará vivienda de interés social aquella cuyo valor global al término de la construcción no exceda de 15 salarios mínimos diarios generales vigentes en la zona elevados al año y se considerará vivienda de interés popular aquella cuyo valor global al término de la construcción no exceda de 25 salarios mínimos diarios generales vigentes en la zona elevados al año.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 51.
 
-Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
+Para los efectos de esta ley, se entiende por adquisición la que derive de:
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, y a excepción también de las que se refieren a donativos, herencias y legados, entre cónyuges o entre ascendientes o descendientes en línea recta;
 
-I.- Todo acto por el que transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociación y Sociedad, en los términos que se contemplan en las Leyes de Ingresos Municipales.
+II.- La compra venta en la que el vendedor se reserve la propiedad, aun cuando la transferencia de ésta opere con posterioridad;
 
-II.- La compra-venta en la que el vendedor se reserve el dominio, aún cuando la transferencia de este opere con posterioridad.
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
-III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes, o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
 
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III.- que anteceden, respectivamente.
+V.- La fusión y la escisión de sociedades;
 
-V.- Fusión de Sociedades.
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
+VII.- La constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la consolidación de aquel con ésta.
+VIII.- La prescripción positiva;
 
-VIII.- Prescripción positiva, o informaciones ad perpetuam.
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-IX.- La cesión de derechos del heredero o legatario cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a ésta.
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaración de herederos o legatarios;
 
-X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+X.- La enajenación a través de fideicomisos, en los términos del Código Fiscal;
 
-En las permutas se considerará que se efectúan dos adquisiciones.
+XI.- La división de copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+XII.- En las permutas se considerará que se efectúan dos adquisiciones.
 
-XI.- En las permutas se considerará que se efectúan dos adquisiciones.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-XII.- La adquisición de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-XIII.- La readquisición de la propiedad de bienes inmuebles a consecuencia de la rescisión voluntaria del contrato que hubiere generado la adquisición original.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-XIV.- La renuncia o repudiación de la herencia cuando se acrezcan las porcionse (sic) de los coherederos, si se hace después de la declaración de herederos y antes de la adjudicación de bienes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52.
 
-El valor del inmueble que se considerará para los efectos del Artículo 50 de esta Ley, será el que resulte mayor entre el precio pactado y el avalúo catastral del inmueble.
+El valor del inmueble que se considerará para los efectos de esta Ley, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se efectuó la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo de inmueble, referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
 
-En la constitución, adquisición o extinción del usufructo, de la nuda propiedad y en la adquisición de bienes en remate no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo a que se refiere este artículo.
+Cuando, con motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-Cuando por motivo de adquisición, el adquirente asuma la obligación de pagar una o más deudas o de hacer remisión de ellas, su importe se considerará parte del precio pactado.
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Dirección de Catastro del Estado. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino del avalúo a que se refiere este párrafo.
 
-Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% del valor total del inmueble.
+Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 53.
 
-El pago del impuesto deberá hacerse dentro de los diez días hábiles siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
 
-I.- Cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efectos ante terceros en los términos del Derecho Común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga;
 
-II.- Cuando se constituya o adquiera el usufructo o la nuda propiedad y cuando aquel se consolide con ésta.
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o enajenación, independientemente del que se cause por el cesionario o por el adquirente;
 
-III.- A la adjudicación de los bienes de la sucesión al cederse los derechos hereditarios o al enajenarse los bienes relictos. En éstos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal;
 
-IV.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva; y
 
-V.- Al protocolizarse o inscribirse la resolución judicial de la prescripción positiva o de la información ad perpetuam.
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público de la Propiedad, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
-El contribuyente podrá pagar el impuesto por anticipado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 54.
 
-En las adquisiciones que se consignen en Escritura Pública; los Notarios, Jueces de Primera Instancia, Corredores y demás Fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y serán responsables solidarios del entero del mismo, haciéndolo constar en la escritura.
+El contribuyente podrá pagar el impuesto por anticipado.
 
-En los demás casos los contribuyentes pagarán el impuesto mediante declaración bajo protesta de decir verdad ante la Oficina autorizada que corresponda a su domicilio fiscal.
-
-Se presentará declaración bajo protesta de decir verdad por todas las adquisiciones aún cuando no haya impuesto a enterar.
-
-Los Fedatarios no están obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiere pagado el impuesto y acompañen a su declaración, copia de aquélla con la que se efectuó dicho pago.
-
-El enajenante responde solidariamente del impuesto que deba pagar el adquiriente.
-
-Los Fedatarios se harán acreedores a la sanción que establece el Código Fiscal de Estado, por la falta de entero del impuesto en el plazo que establece el Artículo 53 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 55.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1991)
+En las adquisiciones que se hagan constar en escritura pública; los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aun cuando no haya impuesto a enterar.
+
+Los fedatarios no están obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
 
 ###### ARTICULO 56.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 57.
 
-No se pagará este impuesto en las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como el acto en que se cambien las capitulaciones matrimoniales, excepto en la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-Tampoco se pagará el impuesto establecido en esta Ley, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 58.
 
-Están exentos del pago de este impuesto los bienes de dominio público de la Federación, del Estado y de los Municipios.
+Cuando por el avalúo practicado, ordenado o tomado en consideración por la autoridad fiscal correspondiente, resulte liquidación de diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas.
 
 ### CAPITULO CUARTO. IMPUESTO DE PLUSVALÍA
 
@@ -569,11 +563,11 @@ DISPOSICIONES GENERALES
 
 Por lo que respecta al impuesto sobre Diversiones Públicas, en tanto el Estado se encuentre adherido al Sistema Nacional de Coordinación Fiscal no se hará efectivo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 65.
 
-Son objeto de este impuesto los ingresos que se obtengan por la presentación de los espectáculos públicos que habitual o accidentalmente se exploten con fines lucrativos en el territorio del Estado, mediante el pago de cuotas, cooperaciones o cualesquiera otras prestaciones similares; con excepción de los presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+Son objeto de este impuesto los ingresos que se obtengan por la presentación de los espectáculos públicos que habitual o accidentalmente se exploten con fines lucrativos en el territorio del Estado, mediante el pago de cuotas, cooperaciones o cualesquiera otras prestaciones similares; con excepción de los presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, siempre y cuando el propietario del establecimiento sea el contratante del espectáculo, lo que deberá acreditarse previamente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -607,9 +601,11 @@ Están exentos de pago los espectáculos públicos organizados directamente por 
 
 Para tal efecto el organizador deberá solicitar previamente, declaración de la exención a la Presidencia Municipal correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 71.
 
-Las Presidencias Municipales podrán celebrar convenios con los contribuyentes de este impuesto.
+Las presidencias municipales no podrán celebrar convenio con los contribuyentes de este impuesto.
 
 ### CAPITULO SEXTO. PAGO, OBLIGACIONES DE LOS CONTRIBUYENTES Y TERCEROS
 
@@ -821,6 +817,14 @@ Las Presidencias Municipales quedan facultadas para aplicar a los propietarios o
 
 A los propietarios, poseedores o responsables de obras, negocios, construcciones o demoliciones o cualquier actividad que ocasione una obstrucción u obstáculo a la vialidad de las calles o lugares públicos, se les aplicará la misma sanción a que se refiere el artículo que antecede, en caso de no solicitar el permiso correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Los particulares que, con motivo de la realización de alguna obra o su reconstrucción o remodelación, rompan, alteren, levanten, remuevan o modifiquen en forma alguna el pavimento o banqueta de cualquier vía pública, independientemente de la obligación de su recolocación o reposición, deberán cubrir los derechos que determine la ley de ingresos de cada municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Las empresas publicas o privadas, que con el objeto de introducir, reparar, ampliar o reponer redes de infraestructura, incurran en el supuesto del párrafo anterior, cubrirán este derecho en la misma proporción que las leyes de ingresos establezcan para el cobro de derechos por servicios de planificación y licencias de construcción.
+
 ### CAPITULO OCTAVO. SERVICIO DE REGISTRO Y REFRENDO DE FIERROS
 
 ###### ARTICULO 104.
@@ -844,6 +848,12 @@ Estos derechos se causarán conforme a lo establecido en la Ley de Ingresos Muni
 ###### ARTICULO 108.
 
 A los propietarios de establecimientos comerciales, industriales, agrícolas, ganaderos y artesanales que inicien operaciones sin tener la autorización de la Autoridad Municipal correspondiente, se les aplicará una sanción de diez veces el salario mínimo de la zona de que se trate, pudiendo en su caso, las Autoridades Municipales, clausurar los negocios, si no regularizan su situación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 108-A.
+
+Las autoridades municipales podrán expedir y refrendar anualmente licencias para la venta de bebidas de contenido alcohólico no mayor a 6 grados Gay Lussac, siempre y cuando hayan celebrado un Convenio de Colaboración con el Estado en términos del artículo 8o. de la Ley de Bebidas Alcohólicas y cuando compruebe que los establecimientos cumplen con los requisitos que marca dicha ley. Los montos de los derechos por la expedición de la licencia y su refrendo anual se fijarán en la ley de ingresos de cada municipio.
 
 ### CAPITULO DECIMO. REGISTRO COMERCIAL E INDUSTRIAL
 
@@ -1043,9 +1053,47 @@ La venta de lotes en panteones se hará de acuerdo con lo establecido en las Ley
 
 ## TITULO SEXTO. APROVECHAMIENTOS
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 134.
 
-Constituyen los ingresos de este ramo, las multas impuestas por infracciones a las Leyes Fiscales Municipales; las impuestas por los Alcaldes Constitucionales y los provenientes de infracciones al Bando y demás reglamentos de carácter municipal, así como los recargos y gastos de ejecución.
+Son aprovechamientos las multas que impongan las autoridades municipales por infracciones a las leyes, reglamentos, bandos, las que se determinarán en las leyes de ingresos respectivas y se fincarán atendiendo a los siguientes criterios:
+
+I.- La situación económica del infractor;
+
+II.- El daño o perjuicio causado a la ciudadanía y/o a la Administración Municipal; y
+
+III.- La reincidencia, en su caso.
+
+Las resoluciones que impongan multas deberán estar fundadas y motivadas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 134-A.
+
+Las multas administrativas que impongan los municipios, podrán corresponder a los siguientes rubros:
+
+I.- Policía, Tránsito y Vialidad;
+
+II.- Actividades comerciales, industriales o de servicio;
+
+III.- Espectáculos públicos;
+
+IV.- Publicidad y Anuncios;
+
+V.- Obstaculizar las vías públicas;
+
+VI.- Construcción y fraccionamientos;
+
+VII.- Aseo público; y
+
+VIII.- Rastro municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 134-B.
+
+Las multas fiscales son accesorios de las contribuciones y se determinarán y aplicarán de conformidad con el Código Fiscal del Estado.
 
 ###### ARTICULO 135.
 
@@ -1060,6 +1108,16 @@ I.- Sobre el importe del adeudo fiscal por las diligencias de notificación.
 II.- Sobre el importe del adeudo fiscal por las diligencias de embargo.
 
 III.- Por los demás gastos que se eroguen hasta la conclusión del procedimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 136-A.
+
+Los impuestos y derechos que no sean pagados en el plazo que corresponda, se actualizarán en los términos del artículo 57 del Código Fiscal del Estado.
+
+Además causarán recargos de conformidad con el mismo precepto.
+
+Las multas y los productos no causan recargos.
 
 ## TITULO SEXTO (SIC). CONTRIBUCIONES DE MEJORAS
 
@@ -1412,3 +1470,7 @@ A partir de la fecha en que se encuentren en vigor estas reformas, se abrogan la
 P.O. 31 DE ENERO DE 1994.
 
 UNICO.- No se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que realicen durante el año de 1994 las Asociaciones Religiosas constituidas en los términos de la Ley de la materia.
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
