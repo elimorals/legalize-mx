@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-seguridad-publica-del-estado-de-michoacan-de-ocampo-2631
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2002-09-18"
+last_updated: "2004-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el miércoles 18 de septiembre de 2002.
 
@@ -67,7 +67,9 @@ I. Ley: La Ley de Seguridad Pública del Estado de Michoacán de Ocampo;
 
 II. Gobernador del Estado: El Titular del Poder Ejecutivo;
 
-III. Secretaría: La Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+III. Secretaría: La Secretaría de Seguridad Pública;
 
 IV. Procuraduría: La Procuraduría General de Justicia;
 
@@ -75,7 +77,7 @@ V. Municipios: Los municipios del Estado;
 
 VI. Ayuntamientos: Las autoridades municipales;
 
-VII. Subsecretaría: La Subsecretaría de Seguridad Pública y Protección Civil;
+VII. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2004)
 
 VIII. Programa: El Programa Estatal de Seguridad Pública;
 
@@ -113,11 +115,13 @@ Son autoridades estatales en materia de seguridad pública:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+II. El Secretario de Seguridad Pública;
 
 III. El Procurador General de Justicia;
 
-IV. El Subsecretario de Seguridad Pública y Protección Civil;
+IV. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2004)
 
 V. El Director de Seguridad Pública y Tránsito;
 
@@ -133,7 +137,9 @@ El Gobernador del Estado tendrá las atribuciones siguientes:
 
 I. Mantener el orden público, preservar la paz social y la seguridad en el Estado;
 
-II. Ejercer el mando de los cuerpos de seguridad pública del Estado, por sí, o a través del Secretario de Gobierno, del Subsecretario de Seguridad Pública y Protección Civil, del Director de Seguridad Pública y Tránsito o del Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+II. Ejercer el mando de los cuerpos de seguridad pública del Estado, por sí, o a través del Secretario de Seguridad Pública, del Director de Seguridad Pública y Tránsito o del Procurador General de Justicia;
 
 III. Celebrar convenios en materia de seguridad pública con la Federación, las Entidades Federativas, los Municipios y organismos e instituciones de los sectores público, privado y social;
 
@@ -157,9 +163,11 @@ XII. Autorizar, vigilar y controlar, por conducto de la Secretaría, la prestaci
 
 XIII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 11.
 
-El Secretario de Gobierno tendrá las atribuciones siguientes:
+El Secretario de Seguridad Pública tendrá las atribuciones siguientes:
 
 I. Vigilar el estricto cumplimiento de esta Ley y sus reglamentos;
 
@@ -173,49 +181,39 @@ V. Elaborar y presentar el Programa en coordinación con la Procuraduría;
 
 VI. Evaluar el cumplimiento del Programa;
 
-VII. Vigilar y controlar, por conducto de la Subsecretaría, la prestación de los servicios privados de seguridad; y,
+VII. Organizar, dirigir, controlar y evaluar el desempeño de la Policía Estatal Preventiva;
 
-VIII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+VIII. Presidir la Comisión de Honor y Justicia de las corporaciones estatales de seguridad pública y de la Policía Auxiliar;
+
+IX. Coordinarse con autoridades y corporaciones federales, estatales y municipales, en acciones de seguridad pública, encomendadas por el Gobernador del Estado o el Consejo;
+
+X. Controlar y supervisar los servicios privados de seguridad que presten las personas físicas y morales autorizadas;
+
+XI. Analizar en coordinación con los ayuntamientos la problemática en materia de seguridad pública, a fin de elaborar el proyecto de los programas estatal, municipal y regional de seguridad pública;
+
+XII. Fomentar entre el personal de las corporaciones estatales de seguridad pública, el respeto a las garantías individuales y ejercer sus funciones con estricto apego a los principios de legalidad, eficiencia, profesionalismo y honradez;
+
+XIII. Llevar el control de las licencias oficiales colectivas de portación de armas de fuego;
+
+XIV. Supervisar el uso de las armas de fuego a cargo de las corporaciones de seguridad pública;
+
+XV. Vigilar que las corporaciones de seguridad pública utilicen armas e instrumentos permitidos por la ley;
+
+XVI. Integrar, coordinar y supervisar el banco de municiones y armamentos de las corporaciones estatales;
+
+XVII. Vigilar que sean puestas a disposición de las autoridades competentes, las personas, armas y objetos asegurados por las corporaciones estatales de seguridad pública;
+
+XVIII. Presidir el Consejo Técnico del Instituto;
+
+XIX. Evaluar, supervisar y ordenar la actuación de las corporaciones de seguridad pública en el Estado;
+
+XX. Las que le delegue o designe el Gobernador del Estado; y,
+
+XXI. Las que le confieran esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 12.
 
-El Subsecretario de Seguridad Pública y Protección Civil tendrá las atribuciones siguientes:
-
-I. Vigilar el estricto cumplimiento de esta Ley y sus reglamentos;
-
-II. Ser el conducto por el cual el Gobernador del Estado y el Secretario de Gobierno ejercerán su autoridad y mando en materia de seguridad pública;
-
-III. Organizar, dirigir, controlar y evaluar el desempeño de la Policía Estatal Preventiva;
-
-IV. Asistir a las reuniones del Consejo y cumplir los lineamientos y acuerdos que éste emita;
-
-V. Presidir la Comisión de Honor y Justicia de las corporaciones estatales de seguridad pública y de la Policía Auxiliar;
-
-VI. Coordinarse con autoridades y corporaciones federales, estatales y municipales, en acciones de seguridad pública, encomendadas por el Gobernador del Estado, el Secretario de Gobierno o el Consejo;
-
-VII. Controlar y supervisar el servicio privado de seguridad que presten las personas físicas y morales autorizadas;
-
-VIII. Analizar en coordinación con los ayuntamientos la problemática en materia de seguridad pública, a fin de elaborar el proyecto de los programas estatal, municipal y regional de seguridad pública;
-
-IX. Fomentar entre el personal de las corporaciones estatales de seguridad pública, el respeto a las garantías individuales y ejercer sus funciones con estricto apego a los principios de legalidad, eficiencia, profesionalismo y honradez;
-
-X. Llevar el control de las licencias oficiales colectivas de portación de armas de fuego;
-
-XI. Supervisar el uso de las armas de fuego a cargo de las corporaciones de seguridad pública;
-
-XII. Vigilar que las corporaciones de seguridad pública utilicen armas e instrumentos permitidos por la ley;
-
-XIII. Integrar, coordinar y supervisar el banco de municiones y armamentos de las corporaciones estatales;
-
-XIV. Vigilar que sean puestas a disposición de las autoridades competentes, las personas, armas y objetos asegurados por las corporaciones estatales de seguridad pública;
-
-XV. Presidir el Consejo Técnico del Instituto;
-
-XVI. Evaluar, supervisar y ordenar la actuación de las corporaciones de seguridad pública en el Estado;
-
-XVII. Las que le delegue o designe el Gobernador del Estado o el Secretario de Gobierno; y,
-
-XVIII. Las que le confieran esta Ley y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 13.
 
@@ -235,7 +233,9 @@ VI. Auxiliar en el control de la Licencia Oficial Colectiva de portación de arm
 
 VII. Auxiliar al Ministerio Público, a funcionarios del Poder Judicial o a cualquier autoridad, cuando éstas se lo requieran para el desempeño de sus funciones;
 
-VIII. Aplicar, previo acuerdo con el Subsecretario, las normas y políticas relacionadas con la depuración, ingreso, capacitación, desarrollo y sanción del personal de seguridad pública;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Aplicar, previo Acuerdo con el Secretario de Seguridad Pública, las normas y políticas relacionadas con la depuración, ingreso, capacitación, desarrollo y sanción del personal de seguridad pública;
 
 IX. Autorizar altas y bajas del personal, cambios de plaza, adscripción o rotación territorial de los elementos de la Policía Estatal Preventiva, informando de cualquier movimiento a la Unidad Interna de Control y Evaluación y aplicar las sanciones administrativas por faltas a la presente Ley y sus reglamentos;
 
@@ -243,7 +243,9 @@ X. Coordinar con la Dirección de Protección Civil y demás autoridades o corpo
 
 XI. Investigar y analizar elementos criminógenos, a fin de evitar conductas antisociales y propiciar detenciones en flagrancia;
 
-XII. Proponer al Gobernador del Estado, las medidas tendientes a mejorar los servicios de seguridad pública;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+XII. Proponer al Secretario de Seguridad Pública, las medidas tendientes a mejorar los servicios de seguridad pública;
 
 XIII. Establecer, previo acuerdo con su inmediato superior, las normas y lineamientos a que se sujeta la organización y funcionamiento de los servicios de seguridad pública de su competencia en el Estado, y coadyuvar, en las actividades de las policías preventivas municipales, proponiendo a los presidentes municipales y directores de las corporaciones, las recomendaciones que estime pertinentes para el mejor desempeño de sus funciones; y,
 
@@ -319,7 +321,9 @@ XI. Ejecutar el Programa Municipal de Seguridad Pública;
 
 XII. Ejecutar los acuerdos y convenios que celebre el municipio en materia de seguridad pública;
 
-XIII. Autorizar altas y bajas del personal de las corporaciones municipales de seguridad pública, aplicar sanciones administrativas por faltas a esta Ley y reglamentos respectivos, informando de cualquier movimiento a la Subsecretaría y a los Registros Nacional y Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+XIII. Autorizar altas y bajas del personal de las corporaciones municipales de seguridad pública, aplicar sanciones administrativas por faltas a esta Ley y reglamentos respectivos, informando de cualquier movimiento a la Secretaría y a los Registros Nacional y Estatal de Seguridad Pública;
 
 XIV. Establecer el Registro del Personal de Policía Preventiva o su equivalente;
 
@@ -337,7 +341,9 @@ XX. Auxiliar a las autoridades federales y estatales de seguridad pública en el
 
 XXI. Opinar sobre las autorizaciones de servicios privados de seguridad en el ámbito de su competencia;
 
-XXII. Atender las recomendaciones de los programas, que en materia de seguridad pública, le formule el Secretario de Gobierno o el Subsecretario de Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+XXII. Atender las recomendaciones de los programas, que en materia de seguridad pública le formule el Secretario de Seguridad Pública;
 
 XXIII. Integrar el Comité de Participación Ciudadana y proponer acciones que fomenten la organización de los habitantes del municipio;
 
@@ -363,11 +369,13 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. Los titulares de las siguientes dependencias del Poder Ejecutivo del Estado:
 
-a) El Secretario de Gobierno;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+a) El Secretario de Seguridad Pública;
 
 b) El Procurador General de Justicia;
 
-c) El Subsecretario de Seguridad Pública y Protección Civil;
+c) (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2004)
 
 d) El Director de Seguridad Pública y Tránsito;
 
@@ -747,9 +755,11 @@ En el caso de que las corporaciones de seguridad pública aseguren armas o munic
 
 Las autoridades en materia de seguridad pública, deberán proporcionar al Consejo, la información necesaria impresa o en medios magnéticos sobre los vehículos registrados, licencias de conducir, placas vehiculares expedidas y las demás que deban ser incorporadas al Registro Estatal de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 47.
 
-Las personas que presten servicios privados de seguridad, y otros auxiliares, además de aportar información al Registro Estatal de Seguridad Pública, deberán presentar en forma bimestral un informe de actividades a la Secretaría a través de la Subsecretaría.
+Las personas que presten servicios privados de seguridad y otros auxiliares, además de aportar información al Registro Estatal de Seguridad Pública, deberán presentar en forma bimestral un informe de actividades a la Secretaría.
 
 El incumplimiento de esta disposición será causa de cancelación de la autorización y registro para funcionar como prestadores del servicio.
 
@@ -879,7 +889,9 @@ b) Parques, espacios urbanos considerados como zonas estatales, inmuebles, insta
 
 c) Todos aquellos espacios, zonas o lugares del territorio estatal sujetos a la jurisdicción local, conforme a lo establecido por las leyes respectivas.
 
-II. Cumplir los programas y acciones que en materia de prevención de delitos y combate a la delincuencia organizada determinen: el Gobernador del Estado, el Secretario de Gobierno y los que se deriven de convenios o acuerdos celebrados con la Federación o los municipios;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+II. Cumplir los programas y acciones que en materia de prevención de delitos y combate a la delincuencia organizada determinen el Gobernador del Estado, el Secretario de Seguridad Pública y los que se deriven de convenios o acuerdos celebrados con la Federación o los municipios;
 
 III. Establecer dispositivos de seguridad sobre tráfico vehicular en los caminos y tramos carreteros estatales;
 
@@ -889,7 +901,9 @@ V. Vigilar y patrullar lugares estratégicos para la seguridad pública de la En
 
 VI. Obtener, analizar, estudiar y procesar información, instrumentando métodos para la prevención de delitos, directamente o en coordinación con autoridades o corporaciones de seguridad pública;
 
-VII. Participar en operativos conjuntos con corporaciones policiales federales, estatales o municipales, que determine el Consejo, que instruya el Gobernador del Estado o el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+VII. Participar en operativos conjuntos con corporaciones policiales federales, estatales o municipales, que determine el Consejo, que instruya el Gobernador del Estado o el Secretario de Seguridad Pública;
 
 VIII. Practicar detenciones o aseguramientos en casos de flagrancia, poniendo a disposición de las autoridades competentes a las personas detenidas, los bienes asegurados, en los términos y plazos constitucionales;
 
@@ -1029,13 +1043,17 @@ VI. Mandos medios y superiores: El que tiene por objeto desarrollar integralment
 
 Los programas de formación policial en sus diferentes niveles, además de las materias propias de la función policial, tenderán a mantener actualizados en materias legislativas y científicas a los elementos de los cuerpos de seguridad pública. La formación será teórica y práctica.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 75.
 
-El Gobernador del Estado a propuesta de la Procuraduría o de la Subsecretaría o de los ayuntamientos en el ámbito de su competencia, expedirá los reglamentos de promociones, ascensos y reconocimientos que se concederán a los elementos de seguridad pública, tomando en cuenta factores como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de su función, para efectos escalafonarios.
+El Gobernador del Estado, a propuesta de la Secretaría, de la Procuraduría o de los ayuntamientos en el ámbito de sus respectivas competencias; expedirá los reglamentos de promociones, ascensos y reconocimientos que se concederán a los elementos de seguridad pública, tomando en cuenta factores como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de su función, para efectos escalafonarios.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 76.
 
-Para motivar la profesionalización y para el mejor desempeño de los elementos de seguridad pública, la Subsecretaría y los ayuntamientos deberán establecer un escalafón salarial acorde al desempeño de sus funciones.
+Para motivar la profesionalización y para el mejor desempeño de los elementos de seguridad pública, la Secretaría y los ayuntamientos deberán establecer un escalafón salarial acorde al desempeño de sus funciones.
 
 ###### Artículo 77.
 
@@ -1061,17 +1079,23 @@ IX. Aprobar los exámenes físicos y de conocimientos mínimos de admisión.
 
 Los aspirantes que resulten seleccionados cursarán en el Instituto, el Programa General de Formación Policial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 78.
 
-La Subsecretaría y los ayuntamientos, en el ámbito de sus competencias, de acuerdo a sus necesidades y en coordinación con el Instituto o las instituciones municipales, realizarán las convocatorias para los aspirantes a cursar el Programa General de Formación Policial, a efecto de cubrir las plazas vacantes.
+La Secretaría y los ayuntamientos, en el ámbito de sus competencias, de acuerdo a sus necesidades y en coordinación con el Instituto o las instituciones municipales, realizarán las convocatorias para los aspirantes a cursar el Programa General de Formación Policial, a efecto de cubrir las plazas vacantes.
 
 Los egresados aprobados del Instituto, tendrán preferencia para cubrir las vacantes y plazas de nueva creación en los cuerpos de seguridad pública del Estado.
 
-La Subsecretaría y los ayuntamientos, con base en su reglamento de promociones, ascensos y reconocimientos, promoverán y concederán lo correspondiente tomando en cuenta factores como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de su función, para efectos escalafonarios
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+La Secretaría y los ayuntamientos, con base en sus reglamentos de promociones, ascensos y reconocimientos, promoverán y concederán lo correspondiente, tomando en cuenta factores como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de su función, para efectos escalafonarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 79.
 
-La Subsecretaría y los ayuntamientos, deberán evaluar periódicamente a los elementos de seguridad pública y registrar en sus expedientes y hojas de servicio, lo siguiente:
+La Secretaría y los ayuntamientos, deberán evaluar periódicamente a los elementos de seguridad pública y registrar en sus expedientes y hojas de servicio, lo siguiente:
 
 I. Los requisitos de ingreso;
 
@@ -1143,11 +1167,17 @@ Esta Comisión gozará de amplias facultades para examinar los expedientes y hoj
 
 La Comisión se integrará por:
 
-I. El Subsecretario de Seguridad Pública y Protección Civil, que la presidirá;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
-II. El Director de Seguridad Pública y Tránsito, que será el Secretario Técnico; y,
+I. El Secretario de Seguridad Pública, que la presidirá;
 
-III. El Director de Prevención y Readaptación Social, el Director de la Policía Auxiliar, el Subdirector de la Policía Estatal Preventiva y el Subdirector de Tránsito del Estado, como vocales.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+II. Un Secretario Técnico, designado por el Secretario de Seguridad Pública; y,
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+III. El Director de Prevención y Readaptación Social, el Director de Seguridad Pública y Tránsito, el Titular de la Policía Auxiliar, el Subdirector de la Policía Estatal Preventiva y el Subdirector de Tránsito del Estado, como vocales.
 
 El funcionamiento de la Comisión de Honor y Justicia, se regirá conforme a lo establecido en el reglamento de esta Ley.
 
@@ -1299,8 +1329,16 @@ En tanto se expida la Ley reglamentaria en materia de Seguridad Privada continua
 
 PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán, a 23 de agosto de 2002.
 
-DIPUTADO PRESIDENTE.- CUAHUTEMOC RAMÍREZ ROMERO.- DIPUTADO SECRETARIO.- RAYMUNDO ARREOLA ORTEGA.- DIPUTADO SECRETARIO.-ELESBAN APARICIO CUIRIZ. (Firmados)
+DIPUTADO PRESIDENTE.- CUAHUTEMOC (SIC) RAMÍREZ ROMERO.- DIPUTADO SECRETARIO.- RAYMUNDO ARREOLA ORTEGA.- DIPUTADO SECRETARIO.- ELESBAN APARICIO CUIRIZ. (Firmados)
 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 23 veintitrés días del mes de agosto del año 2002 dos mil dos.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
