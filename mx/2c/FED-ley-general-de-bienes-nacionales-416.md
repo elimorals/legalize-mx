@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "1987-05-25"
+last_updated: "1988-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -990,13 +990,13 @@ Si el valor de los bienes excede de la cantidad mencionada, se requerirá de la 
 
 El Gobierno Federal podrá donar bienes muebles a gobiernos e instituciones extranjeras o a organizaciones internacionales, mediante Acuerdo presidencial refrendado por las Secretarías de Relaciones Exteriores y de Programación y Presupuesto, y por el Titular de la Dependencia en cuyos inventarios figure el bien.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 82.
 
-Con excepción de lo dispuesto por el Articulo 80, las disposiciones sobre bienes muebles de dominio privado a que se contrae el presente Capítulo, regirán para los actos de transmisión de dominio, destino y baja de bienes muebles que realicen las entidades paraestatales, siempre que dichos bienes estén al servicio de las entidades o formen parte de sus activos fijos.
+Con excepción del aviso de baja a que se refiere el penúltimo párrafo del artículo 79 y de lo establecido en el artículo 80, las disposiciones sobre bienes muebles de dominio privado a que se contrae el presente capítulo, regirán para los actos de transmisión de dominio, destino y baja de bienes muebles que realicen las entidades paraestatales, siempre que dichos bienes estén al servicio de las entidades o formen parte de sus activos fijos.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto emitirá los criterios que se requieran para la correcta aplicación de lo dispuesto por este Artículo.
+Los órganos de gobierno de las entidades paraestatales de conformidad con la legislación aplicable, dictarán las normas o bases generales que deberán observar los directores generales o sus equivalentes para la correcta aplicación de lo dispuesto por este artículo.
 
 ### CAPITULO VII. Del Registro Público de la Propiedad Federal
 
@@ -1191,3 +1191,19 @@ SEGUNDO.- Para los efectos de la adecuada aplicación de las reformas a los art�
 Respecto a los inmuebles que por virtud de las reformas a que se refiere el párrafo anterior dejan de considerarse de dominio público de la Federación, y por ello quedan afectos al pago en las contribuciones municipales, los organismos descentralizados, tomando en cuenta sus previsiones presupuestales, dentro del plazo a que se refiere el párrafo anterior, con la intervención de los gobiernos Federal y de las entidades federativas, celebrarán convenios con los municipios sobre los términos y condiciones para proceder a dicho pago.
 
 TERCERO.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 7 DE ENERO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan:
+
+III.- Las demás disposiciones que se opongan a lo establecido por este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Al entrar en vigor este Decreto, el Ejecutivo Federal procederá a revisar las normas reglamentarias y administrativas que se hubieren expedido con anterioridad sobre las materias a que se refiere este ordenamiento, y realizará respecto de dichas normas, las adecuaciones y derogaciones que resulten pertinentes, las cuales surtirán efectos, en lo que hace a las entidades paraestatales, una vez que los órganos de gobierno de éstas hayan expedido las políticas, bases y lineamientos a que se refiere este Decreto, para lo cual el Ejecutivo Federal establecerá el plazo necesario.
