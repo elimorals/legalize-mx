@@ -4,7 +4,7 @@ identifier: "AGU-decreto-que-establece-la-pension-de-viudez-24536"
 country: "mx"
 rank: "decreto"
 publication_date: "1987-12-06"
-last_updated: "1987-12-06"
+last_updated: "2005-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,78 +21,64 @@ state: "AGU"
 ---
 # DECRETO QUE ESTABLECE LA PENSION DE VIUDEZ
 
-DECRETO QUE ESTABLECE LA PENSION DE VIUDEZ
+LEY NÚMERO 123 DE INGRESOS DEL MUNICIPIO DE MECAYAPAN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2017.
 
-Decreto publicado en el Periódico Oficial del Estado de Aguascalientes, el 6 de diciembre de 1987.
+Ley publicada en el Número Extraordinario 522 Tomo IX de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 30 de diciembre de 2016.
 
-MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+###### Artículo 20.
 
-"NUMERO 34
+Los derechos por los servicios del Registro Civil se causarán y pagarán, en Unidades de Medida y Actualización, del acuerdo a las cuotas siguientes:
 
-La H. LIII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, en nombre del Pueblo, decreta:
+[...]
 
-###### ARTICULO PRIMERO.
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
 
-Se establece la pensión de viudez en favor de quienes tengan el carácter de cónyuges supérstites de aquellos ciudadanos que hayan desempeñado el cargo de Gobernador del Estado.
+II. Registros ordinarios y extemporáneos de nacimiento, cero;
 
-###### ARTICULO SEGUNDO.
+[...]
 
-La pensión anterior, tendrá un monto diario igual a cuatro veces el salario mínimo general, pagadera en exhibiciones mensuales y en forma vitalicia.
+> <small>(F. DE E., G.O. 18 DE ENERO DE 2017)</small>
 
-###### ARTICULO TERCERO.
+T R A N S I T O R I O S
 
-La interesada gestionará la asignación de pensión de viudez ante el Secretario de Administración del Gobierno del Estado, de acuerdo al siguiente procedimiento:
+> <small>(F. DE E., G.O. 18 DE ENERO DE 2017)</small>
 
-a).- Presentar solicitud por escrito;
+Artículo primero. La presente Ley entrará en vigor el día 1° de enero de 2017, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-b).- Acreditar su personalidad con copias certificadas de las actas de matrimonio y defunción del Gobernador del que sea viuda.
+> <small>(F. DE E., G.O. 18 DE ENERO DE 2017)</small>
 
-c).- Aportar satisfactoriamente, los elementos que justifiquen su estado de necesidad.
+Artículo segundo. La Unidad de Medida Actualización sustituye al salario mínimo en todas las referencias que éste se hagan en la presente Ley.
 
-###### ARTICULO CUARTO.
+El valor de la Unidad de Medida y Actualización que se aplicará para el mes de enero de 2017 será el empleado durante el Ejercicio Fiscal 2016.
 
-Una vez satisfechos los requisitos anteriores, el Secretario de Administración hará el trámite ante la Tesorería General del Estado para que ésta, proceda al pago de la pensión.
+A partir del 1° de febrero de 2017 el valor de la Unidad de Medida y Actualización será el determinado por el Instituto Nacional de Geografía y Estadística que se publique en el Diario Oficial de la Federación en los primeros diez días del mes de enero, en términos del artículo 5 de la Ley para determinar el Valor de la Medida y Actualización.
 
-###### ARTICULO QUINTO.
+DADO EN EL SALÓN DE SESIONES DE LA LXIV LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA - ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECISEIS.
 
-Se autoriza a la Tesorería General del Estado a que el pago anterior se haga con cargo a la partida de servicios sociales denominada "Pensiones y Jubilaciones" del Presupuesto de Egresos.
+MARÍA ELISA MANTEROLA SÁINZ
 
-## TRANSITORIO
+DIPUTADA PRESIDENTA
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+RÚBRICA.
 
-Al Ejecutivo para su sanción.
+REGINA VÁZQUEZ SAUT
 
-Dado en el Salón de Sesiones del H. Congreso del Estado, el día primero de diciembre de mil novecientos ochenta y siete.- D.P.-, Lic. Armando López Campa.- D.P.S., Lic. y Profra. Ludivina García Cajero.- D.S., Lic. Edmundo Becerril de Haro.- Rúbricas".
+DIPUTADA SECRETARIA
 
-Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+RÚBRICA.
 
-SUFRAGIO EFECTIVO. NO REELECCION
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-DIPUTADO PRESIDENTE,
+G.O. 6 DE NOVIEMBRE DE 2017.
 
-Lic. Armando López Campa.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 307 QUE REFORMA LAS LEYES DE INGRESOS PARA EL EJERCICIO 2017, DE 58 MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-DIPUTADA SECRETARIA,
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Lic. y Profra. Ludivina García Cajero.
-
-DIPUTADO SECRETARIO,
-
-Lic. Edmundo Becerril de Haro.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Aguascalientes, Ags., 4 de diciembre de 1987
-
-Ing. Miguel Angel Barberena Vega.
-
-EL SECRETARIO GENERAL DE GOBIERNO,
-
-Lic. Héctor Valdivia Carreón.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
