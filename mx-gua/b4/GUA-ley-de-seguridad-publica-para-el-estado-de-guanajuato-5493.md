@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-publica-para-el-estado-de-guanajuato-5493"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-15"
-last_updated: "1999-12-21"
+last_updated: "2002-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 5 DE ABRIL DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 15 de agosto de 1995.
 
@@ -1075,8 +1077,14 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. RAMON MARTIN HUERTA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
 P.O. 21 DE DICIEMBRE DE 1999.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
 Artículo único.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ABRIL DE 2002.
+
+Artículo Primero.- El presente decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Seguridad Pública para el Estado de Guanajuato, contenida en el decreto número 105, aprobado por la Quincuagésima Sexta Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado, número 65, del 15 de agosto de 1995 al entrar en vigencia la presente Ley.
