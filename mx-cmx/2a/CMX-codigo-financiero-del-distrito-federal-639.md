@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2003-12-26"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -35,8 +35,6 @@ Que la H. Asamblea de Representantes del Distrito Federal, se ha servido dirigir
 DECRETO
 
 "LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS POR EL DECRETO PUBLICADO EN LA G.O. DE 26 DE DICIEMBRE DE 2003, DIVERSOS ARTICULOS FUERON REUBICADOS, RESULTANDO UN TEXTO DIFERENTE AL ORIGINAL.</small>
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
@@ -1070,7 +1068,7 @@ d). Obtener la contestación de las consultas que sobre situaciones reales y con
 
 e). Autodeterminar el valor de los inmuebles destinados a vivienda para efectos del Impuesto Sobre Adquisición de Inmuebles;
 
-f). Optar por autodeterminar el consumo de agua y los derechos correspondientes;
+f). (DEROGADO, G.O. 29 DE ENERO DE 2004)
 
 g). Autocorregir su situación fiscal, una vez iniciada la visita domiciliaria por parte de la autoridad fiscal, siempre y cuando no se haya determinado crédito fiscal alguno, y
 
@@ -4440,8 +4438,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
@@ -4469,6 +4465,8 @@ El pago de estos derechos se hará previamente a la recolección o a la recepci�
 En el caso en que el monto de los derechos causados resulte superior al efectuado conforme a las estimaciones realizadas por el contribuyente, se pagarán las diferencias con los recargos que correspondan conforme al artículo 64 de este Código, dentro de los primeros cinco días siguientes al mes de causación del derecho.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -4786,7 +4784,7 @@ El pago de estos servicios será anual y los montos recibidos serán destinados 
 
 #### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -4798,9 +4796,13 @@ El pago de estos servicios será anual y los montos recibidos serán destinados 
 
 ###### ARTICULO 278.
 
-Por el estacionamiento de vehículos en la vía pública se pagará el derecho de estacionamiento conforme a una cuota de $2.00 por diez minutos.
+257282280.257282280. (SIC) Por el estacionamiento de vehículos en la vía pública se pagará el derecho de estacionamiento conforme a una cuota de $21.001.04.00 (sic) por quince minutos.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 El pago de este derecho se hará mediante relojes marcadores, tarjetas o cualquier otro sistema que determinen las autoridades fiscales.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 El horario de funcionamiento de los parquímetros será de Lunes a Viernes de 8:00 a 20:00 hrs.
 
@@ -10350,9 +10352,9 @@ Las tarifas de los Derechos por el Suministro de Agua para los bimestres cuarto 
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO a), VIGENTE PARA EL CUARTO BIMESTRE DE 1995
 
-CONSUMO POR METROS CUOTA POR METRO
+CONSUMO POR CUOTA POR METRO
 
-CUBICOS CUBICO
+METROS CUBICOS CUBICO
 
 DE 00.1 A 10.0 EXENTO
 
@@ -10374,11 +10376,11 @@ DE 660.1 A 960.0 4.25
 
 MAS DE 960.0 4.75
 
-TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO a), VIGENTE PARA EL QUINTO BIMESTRE DE 1995 CONSUMO
+TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO a), VIGENTE PARA EL QUINTO BIMESTRE DE 1995
 
-POR METROS CUOTA POR METRO
+CONSUMO POR CUOTA POR METRO
 
-CUBICOS CUBICO
+METROS CUBICOS CUBICO
 
 DE 00.1 A 10.0 EXENTO
 
@@ -10402,9 +10404,9 @@ MAS DE 960.0 5.00
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO a), VIGENTE PARA EL SEXTO BIMESTRE DE 1995
 
-CONSUMO POR METROS CUOTA POR METRO
+CONSUMO POR CUOTA POR METRO
 
-CUBICOS CUBICO
+METROS CUBICOS CUBICO
 
 DE 00.1 A 10.0 EXENTO
 
@@ -10428,9 +10430,9 @@ MAS DE 960.0 5.20
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO b), VIGENTE PARA EL CUARTO BIMESTRE DE 1995
 
-CONSUMO POR METROS CUOTA POR METRO
+CONSUMO POR CUOTA POR METRO
 
-CUBICOS CUBICO
+METROS CUBICOS CUBICO
 
 DE 00.1 A 30.0 N$1.80
 
@@ -10450,9 +10452,9 @@ MAS DE 960.0 8.45
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO b), VIGENTE PARA EL QUINTO BIMESTRE DE 1995
 
-CONSUMO POR METROS CUOTA POR METRO
+CONSUMO POR CUOTA POR METRO
 
-CUBICOS CUBICO
+METROS CUBICOS CUBICO
 
 DE 00.1 A 30.0 N$1.90
 
@@ -10472,9 +10474,9 @@ MAS DE 960.0 8.95
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION I, INCISO b), VIGENTE PARA EL SEXTO BIMESTRE DE 1995
 
-CONSUMO POR METROS CUOTA POR METRO
+CONSUMO POR CUOTA POR METRO
 
-CUBICOS CUBICO
+METROS CUBICOS CUBICO
 
 DE 00.1 A 30.0 N$1.95
 
@@ -10528,7 +10530,7 @@ establecida en la fracción
 
 I del artículo 152 de este
 
-Código. N$509.85
+Código N$509.85
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION II, INCISO a), VIGENTE PARA EL QUINTO BIMESTRE DE 1995
 
@@ -10566,7 +10568,7 @@ establecida en la fracción
 
 I del artículo 152 de este
 
-Código. N$540.40
+Código N$540.40
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION II, INCISO a), VIGENTE PARA EL SEXTO BIMESTRE DE 1995
 
@@ -10602,7 +10604,7 @@ establecida en la fracción I
 
 del artículo 152 de este
 
-Código . N$562.05
+Código N$562.05
 
 TARIFA PREVISTA EN EL ARTICULO 196, FRACCION II, INCISO b), VIGENTE PARA EL CUARTO BIMESTRE DE 1995
 
@@ -11258,7 +11260,7 @@ Dicha clasificación es la siguiente:
 
 3: Colonia catastral que corresponde a áreas intermedias de valor medio con cierto proceso de transición o en consolidación, con usos del suelo eminentemente habitacionales y/o mezcla de usos y con equipamientos y servicios semiconcentrados y de regular escala.
 
-4: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, con usos de suelo habitacional y/o mixtos y nivel socioeconómico de medio a medio alto.
+4: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, con usos de suelo habitacional y/o mixtos y nivel socieconómico de medio a medio alto.
 
 5: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacional y/o mixtos y nivel socioeconómico de medio alto a alto.
 
@@ -12334,7 +12336,7 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia
 
 Para la presentación de los dictámenes para el cumplimiento de obligaciones fiscales relativos al ejercicio fiscal de 2001, el valor catastral a considerar será el que se indica en el artículo 64, fracción I Bis del Código Financiero del Distrito Federal, vigente a partir del 1° de enero del año 2001, y para los ejercicios subsecuentes el valor catastral será el que se establezca en dicho artículo, a partir del 1° de enero del año 2002.
 
-Para obtener el valor catastral a que se refiere el párrafo anterior, deberá atenderse a los valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el artículo 151 del Código Financiero del Distrito Federal. vigentes en el ejercicio fiscal que sea objeto del dictamen de cumplimiento de obligaciones fiscales.
+Para obtener el valor catastral a que se refiere el párrafo anterior, deberá atenderse a los valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el artículo 151 del Código Financiero del Distrito Federal vigentes en el ejercicio fiscal que sea objeto del dictamen de cumplimiento de obligaciones fiscales.
 
 ###### ARTICULO CUARTO.
 
@@ -12362,11 +12364,11 @@ A partir de la fecha en que entre en vigor el presente Decreto, quedan sin efect
 
 ###### ARTICULO NOVENO.
 
-Para establecer los criterios de la formación y distribución de los fondos a que se refiere el articulo 515, de este Código, la Secretaría de Finanzas, deberá publicar en la Gaceta Oficial del Distrito Federal, los acuerdos de carácter administrativo que correspondan, dentro de los 20 días hábiles siguientes a la fecha de publicación del presente Decreto.
+Para establecer los criterios de la formación y distribución de los fondos a que se refiere el artículo 515, de este Código, la Secretaría de Finanzas, deberá publicar en la Gaceta Oficial del Distrito Federal, los acuerdos de carácter administrativo que correspondan, dentro de los 20 días hábiles siguientes a la fecha de publicación del presente Decreto.
 
 ###### ARTICULO DECIMO.
 
-Los montos que se establezcan en el articulo 211 serán aplicables hasta la publicación en la Gaceta Oficial de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, en tanto serán aplicables los montos establecidos para el presente ejercicio fiscal.
+Los montos que se establezcan en el artículo 211 serán aplicables hasta la publicación en la Gaceta Oficial de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, en tanto serán aplicables los montos establecidos para el presente ejercicio fiscal.
 
 ###### ARTICULO UNDECIMO.
 
@@ -12915,3 +12917,15 @@ c. cuando el inmueble cumpla con lo establecido en el numeral 3 se incrementará
 7. El valor catastral determinado mediante avalúo comprenderá la suma de los valores de suelo del inmueble, de sus construcciones, instalaciones especiales, elementos accesorios u obras complementarias, según sea el caso.
 
 > <small>N. DE E. VER TABLAS ANEXAS PUBLICADAS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE 26 DE DICIEMBRE DE 2003, PAGINAS 210-360.</small>
+
+> <small>N. DE E. VER REFORMAS A VALORES UNITARIOS PUBLICADAS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE 29 DE ENERO DE 2004, PAGINAS 55-56.</small>
+
+G.O. 29 DE ENERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+EL presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
