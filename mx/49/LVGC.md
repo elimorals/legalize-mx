@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1941-07-03"
+last_updated: "1941-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JULIO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1941.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -118,37 +118,11 @@ II.- Los terrenos y aguas que sean necesarias para el derecho de vía y para el 
 
 ### CAPITULO II. Jurisdicción
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1941)</small>
+
 ###### ARTICULO 3o.
 
-Las vías generales de comunicación y los medios de transporte que operen en ellas, quedan sujetos exclusivamente a los Poderes Federales. El Ejecutivo ejercitará sus facultades por conducto de la Secretaría de Comunicaciones y Obras Públicas, en los siguientes casos y sin perjuicio de lo que establece la Ley de Secretarías de Estado y Departamentos Autónomos:
-
-I.- Construcción, mejoramiento, conservación y explotación de vías generales de comunicación;
-
-II.- Inspección y vigilancia;
-
-III.- Otorgamiento, interpretación y cumplimiento de concesiones;
-
-IV.- Celebración de contratos con el Gobierno Federal;
-
-V:- Caducidad, rescisión y modificación de concesiones y contratos celebrados con el Gobierno Federal;
-
-VI.- Otorgamiento y revocación de permisos;
-
-VII.- Epropiación (sic);
-
-VIII.- Aprobación, revisión o modificación de tarifas, circulares, horarios, tablas de distancia, clasificaciones y, en general, todos los documentos relacionados con la explotación;
-
-IX.- Registro;
-
-X.- Venta de las vías generales de comunicación y medios de transporte, así como todas las cuestiones que afecten a su propiedad;
-
-XI.- La vigilancia de los Derechos de la Nación, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de esta ley o de las concesiones respectivas;
-
-XII.- Infracciones a esta ley o a sus reglamentos;
-
-XIII.- Toda cuestión de carácter administrativo relacionada con las vías generales de comunicación y medios de transporte.
-
-En los casos de las fracciones IV y V será indispensable la aprobación previa de la Secretaría de Hacienda y Crédito Público, siempre que los actos ejecutados en uso de esas facultades impliquen el gasto de fondos públicos, comprometan el crédito público o afecten bienes federales o que estén al cuidado del Gobierno.
+Las empresas de comunicaciones marítimas que exploten servicio público de pasajeros y carga en la fecha de la publicación de esta Ley, están obligadas a presentar a la Secretaría de Comunicaciones, para su revisión, las tarifas respectivas dentro de un plazo que no excederá de tres meses, contados a partir de la fecha misma de su publicación.
 
 ###### ARTICULO 4o.
 
@@ -180,9 +154,11 @@ Las vías generales de comunicación, los servicios públicos que en ellas se es
 
 ### CAPITULO III. Concesiones, permisos y contratos
 
-###### ARTICULO 8o.
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1941)</small>
 
-Para construir, establecer y explotar vías generales de Comunicación, será necesario obtener concesión o permiso del Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones, con sujeción a los preceptos de esta ley y sus reglamentos.
+###### ARTICULO 8.
+
+Para construir, establecer y explotar vías generales de comunicación, o cualquiera clase de servicios conexos a éstas, será necesario el tener concesión o permiso del Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones y con sujeción a los preceptos de esta Ley y sus Reglamentos.
 
 La construcción, establecimiento, o explotación de vías generales de comunicación, se sujetará a un plan general que responda a las necesidades de la economía nacional y que deberá hacerse del conocimiento del público, a cuyo efecto la Secretaría de Comunicaciones publicará, dentro de los primeros quince días del mes de enero de cada año, el programa de trabajos correspondientes, debiendo ajustarse el referido plan a las siguientes bases generales:
 
@@ -211,6 +187,10 @@ IV.- La Federación realizará con la oportunidad debida las obras necesarias de
 Para la mejor observancia y fines que se propone este artículo, se formará una Comisión Técnica Consultiva, compuesta de los representantes oficiales, de los trabajadores y de las empresas, que fije el Reglamento que al efecto se expida.
 
 Está comisión tendrá, asimismo, a su cargo, el estudio del número de vehículos que deben prestar el servicio en cada ruta, con el objeto de que no sea mayor de la capacidad de ésta, ni menor del que los intereses generales requieran.
+
+###### ARTICULO 8o.
+
+Mientras se expide una ley sobre ferrocarriles que estén en el Distrito o Territorios Federales y otras vías federales de comunicación que no tengan el carácter de generales, dichos ferrocarriles y vías estarán sujetos a la presente Ley por conducto de la autoridad que corresponda.
 
 ###### ARTICULO 9o.
 
@@ -506,17 +486,19 @@ No deberá explotarse una vía general de comunicación, objeto de concesión o 
 
 Llenados los requisitos exigidos para la explotación, se otorgará desde luego la autorización para su funcionamiento.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1941)</small>
+
 ###### ARTICULO 49.
 
-Compete exclusivamente a la Secretaría de Comunicaciones el estudio y aprobación, revisión o modificación, en su caso, de itinerarios, horarios, reglamentos de servicio, tarifas y sus elementos de aplicación, y de los demás documentos que las empresas de vías generales de comunicación sometan a su estudio, en cumplimiento de esta ley y de sus reglamentos. Sólo podrán intervenir otras autoridades en dichos estudios, cuando la misma Secretaría lo solicite.
+Compete exclusivamente a la Secretaría de Comunicaciones el estudio y aprobación, revisión o modificación, en su caso, de itinerarios, honorarios, reglamentos de servicio, tarifas y sus elementos de aplicación, y los demás documentos que las empresas de vías generales de comunicación sometan a su estudio, en cumplimiento de esta Ley y de sus Reglamentos. Sólo podrán intervenir otras autoridades en dichos estudios, cuando la misma lo solicite.
 
-Para la aprobación, revisión o modificación de tarifas, se integrará una Comisión Consultiva de Tarifas, con técnicos representantes de las Secretarías de Comunicaciones y Obras Públicas, de la Economía Nacional, de Agricultura y Fomento, y de Hacienda y Crédito Público; así como un representante de las empresas y otro de los trabajadores en cada uno de los ramos de comunicaciones a que se refiere esta Ley.
+Para la aprobación, revisión o modificación de tarifas, se integrará una Comisión Consultiva de Tarifas, con cinco representantes de la Secretaría de Comunicaciones, tres de la de la (sic) Economía Nacional, dos de la de Agricultura y Fomento, uno de la de Hacienda y Crédito Público y uno de la Marina Nacional; así como un representante de las empresas y otro de los trabajadores en cada uno de los ramos de comunicaciones a que se refiere esta Ley.
 
-Esta Comisión dictaminará en cada caso, resolviendo por mayoría de votos y en sesión formal, debiendo oír previamente a los interesados. El Presidente de la Comisión será el Secretario de Comunicaciones y Obras Públicas.
+Esta Comisión dictaminará en cada caso, resolviendo por mayoría de votos y en sesión formal, debiendo oír previamente a los interesados. El Presidente de la Comisión, será el Secretario de Comunicaciones y Obras Públicas.
 
-Los dictámenes de la Comisión se harán del conocimiento de la Secretaría de Comunicaciones, la que resolverá en definitiva en cada caso.
+Los dictámenes de la Comisión, se harán del conocimiento de la Secretaría de Comunicaciones, la que resolverá en definitiva en cada caso.
 
-Todo asunto entre autoridades y empresas, relacionado con los servicios de las vías generales de comunicación y medios de transporte, será tratado por la Secretaría de Comunicaciones, sin perjuicio de lo que dispongan otras leyes.
+Todo asunto entre autoridades y empresas, delacionado (sic) con los servicios de las vías generales de comunicación y medios de transporte, será tratado por la Secretaría de Comunicaciones, sin perjuicio de lo que dispongan otras leyes.
 
 ###### ARTICULO 50.
 
@@ -626,9 +608,11 @@ VI.- El transporte de mercancías y personas hacia regiones pobres o poca poblad
 
 VII.- Las tarifas para servicios especiales, tales como carga o descarga, transbordo, almacenaje, limpia, demoras, arrastres, alquileres de carros, trenes y coches especiales, coches salones, dormitorios y comedores, exceso de equipaje, transporte de artículos inflamables y explosivos y para aquéllos efectos y objetos que no pudiendo sujetarse a peso o medida, debido a su naturaleza, tengan que pagar fletes distintos a los de la tarifa general, como transporte de cadáveres y otros, y
 
-VIII.- Tarifas reducidas a base de por cientos de la general para el transporte de mercancías destinadas a la exportación, consumo fronterizo o cabotaje de entrada y salida, exclusivamente en los casos excepcionales que autorice la Secretaría de Comunicaciones.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE AGOSTO DE 1941)</small>
 
-Las tarifas especiales a que se refiere este artículo sólo podrán ser canceladas por disposición de la Secretaría de Comunicaciones o mediante la autorización de ésta, cuando así lo juzgue conveniente.
+VIII.- Tarifas reducidas a base de por cientos de la general para el transporte de mercancías destinadas a la exportación, consumo fronterizo, cabotaje de entrada y salida o de competencia de mercados, exclusivamente en los casos excepcionales que autorice la Secretaría de Comunicaciones y Obras Públicas, de acuerdo con el estudio y opinión respectivos de la Secretaría de la Economía Nacional.
+
+Las tarifas especiales a que se refiere este artículo, sólo podrán ser canceladas por disposición de la Secretaría de Comunicaciones o mediante la autorización de esta, cuando así lo juzgue conveniente.
 
 ###### ARTICULO 59.
 
@@ -4125,3 +4109,41 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 3 DE JULIO DE 1941.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+
+D.O.F. 20 DE AGOSTO DE 1941.
+
+PRIMERO.- Entretanto se expide el Reglamento de la Comisión Consultativa de Tarifas, continuarán en vigor las disposiciones del Reglamento de fecha 7 de septiembre de 1940, en lo que no se oponga a las reformas de este decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 3.
+
+Las Vías Generales de Comunicació (sic) y los medios de transporte que operen en ellas, quedan sujetos exclusivamente a los Poderes Federales. El Ejecutivo ejercitará sus facultades por conducto de la Secretaría de Comunicaciones y Obras Públicas, en los siguientes casos y sin perjuicio de lo que establece la Ley de Secretarías de Estado y Departamento Autónomos, o de las facultades expresas que otros ordenamientos legales, concedan a la de la Economía Nacional.
+
+I.- Construcción, mejoramiento, conservación y explotación de vías generales de comunicación;
+
+II.- Inspección y vigilancia;
+
+III.- Otorgamiento, interpretación y cumplimiento de concesiones;
+
+IV.- Celebración de contratos con el Gobierno Federal;
+
+V:- Caducidad, rescisión y modificación de concesiones y contratos celebrados con el Gobierno Federal;
+
+VI.- Otorgamiento y revocación de permisos;
+
+VII.- Epropiación (sic);
+
+VIII.- Aprobación, revisión o modificación de tarifas, circulares, horarios, tablas de distancia, clasificaciones y, en general, todos los documentos relacionados con la explotación;
+
+IX.- Registro;
+
+X.- Venta de las vías generales de comunicación y medios de transporte, así como todas las cuestiones que afecten a su propiedad;
+
+XI.- La vigilancia de los Derechos de la Nación, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de esta ley o de las concesiones respectivas;
+
+XII.- Infracciones a esta ley o a sus reglamentos;
+
+XIII.- Toda cuestión de carácter administrativo relacionada con las vías generales de comunicación y medios de transporte.
+
+En los casos de las fracciones IV y V será indispensable la aprobación previa de la Secretaría de Hacienda y Crédito Público, siempre que los actos ejecutados en uso de esas facultades impliquen el gasto de fondos públicos, comprometan el crédito público o afecten bienes federales o que estén al cuidado del Gobierno.
