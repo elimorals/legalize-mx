@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1988-12-31"
+last_updated: "1989-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1989.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -43,7 +43,9 @@ CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
 2o.- Todas las Dependencias del Gobierno del Estado, las oficinas o servicios sujetos a convenios de coordinación y en general todas las Instituciones cuyo sostenimiento permanente dependa en forma total del Gobierno del Estado, deberán enviar al Gobernador por conducto de la Tesorería General a más tardar el 15 de octubre de cada año, un Proyecto de su Presupuesto de Egresos para el siguiente año, exponiendo el programa de trabajos que vaya a realizarse y las razones que en su concepto justifiquen su proyecto.
 
-3o.- El Tesorero General dará cuenta al Gobernador de todos los proyectos de presupuestos a que se refiere el artículo anterior y de conformidad con las instrucciones del Jefe del Ejecutivo formulará el Presupuesto de Egresos, que será enviado antes del 30 de noviembre de cada año a la Legislatura del Estado para su estudio y aprobación en su caso.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1989)</small>
+
+3o.- El Director General de Finanzas dará cuenta al Gobernador de todos los proyectos de presupuestos a que se refiere el artículo anterior y de conformidad con las instrucciones del Jefe del Ejecutivo formulará el Presupuesto de Egresos, que será enviado antes del 10 de diciembre de cada año a la Legislatura del Estado, para su estudio y aprobación en su caso.
 
 4o.- Si el Congreso dejare de expedir oportunamente el presupuesto de Egresos o la Ley de Ingresos, continuarán rigiendo en esta materia la ley y el presupuesto que hubieren estado vigentes el año anterior.
 
@@ -1607,7 +1609,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -4464,3 +4466,9 @@ P.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor en todo el Estado a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
