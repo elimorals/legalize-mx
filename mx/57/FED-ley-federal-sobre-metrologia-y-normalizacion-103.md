@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "1997-05-20"
+last_updated: "1999-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-30"
 
 LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -205,9 +205,11 @@ Para efectos de lo anterior, la Secretaría publicará en el Diario Oficial de l
 
 La Secretaría, así como las personas acreditadas por la misma, al verificar los instrumentos para medir, dejarán en poder de los interesados los documentos que demuestren que dicho acto ha sido realizado oficialmente. Esta verificación comprenderá la constatación de la exactitud de dicho instrumento dentro de las tolerancias y demás requisitos establecidos en las normas oficiales mexicanas y, en su caso, el ajuste de los mismos cuando cuenten con los dispositivos adecuados para ello.
 
-###### ARTICULO 13.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1999)</small>
 
-Los recipientes que, no siendo instrumentos para medir, se destinen reiteradamente a contener o transportar materias objeto de transacciones cuya masa se determine midiendo simultáneamente el recipiente y la materia, deberán ostentar visible e indeleblemente con caracteres legibles su tara, la que podrá verificarse en la forma y lugares que fije la Secretaría.
+###### ARTÍCULO 13.
+
+Los recipientes que, no siendo instrumentos para medir, se destinen reiteradamente a contener o transportar materias objeto de transacciones cuya masa se determine midiendo simultáneamente el recipiente y la materia, deberán ostentar visible e indeleblemente con caracteres legibles su tara, la que podrá verificarse en la forma y lugares que fije la Secretaría; así también, cuando su llenado reiterado y sistemático lo permita y requiera, previa expedición de la Norma Oficial Mexicana que corresponda, deberán contar en cada ocasión al llenado, con el sello de inviolabilidad que garantice la cantidad, cualidad y calidad de la materia.
 
 ###### ARTICULO 14.
 
@@ -1085,7 +1087,7 @@ La Secretaría mantendrá a disposición de cualquier interesado el listado de l
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
 
-### CAPÍTULO II. De los Procedimientos para la Evaluación de la Conformidad
+### CAPITULO II. De los Procedimientos para la Evaluación de la Conformidad
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
@@ -1201,7 +1203,7 @@ Las dependencias podrán solicitar el auxilio de las unidades de verificación p
 
 ###### ARTICULO 87.
 
-El resultado de las operaciones que realicen las unidades de verificación se hará constar en un acta que será firmada, bajo su responsabilidad, por el acreditado en el caso de la(sic) personas físicas y por el propietario del establecimiento o por el presidente del consejo de administración, administrador único o director general de la propia unidad de verificación reconocidos por las dependencias, y tendrá validez una vez que haya sido reconocido por la dependencia conforme a las funciones que hayan sido específicamente autorizadas a la misma.
+El resultado de las operaciones que realicen las unidades de verificación se hará constar en un acta que será firmada, bajo su responsabilidad, por el acreditado en el caso de la (sic) personas físicas y por el propietario del establecimiento o por el presidente del consejo de administración, administrador único o director general de la propia unidad de verificación reconocidos por las dependencias, y tendrá validez una vez que haya sido reconocido por la dependencia conforme a las funciones que hayan sido específicamente autorizadas a la misma.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
 
@@ -1692,3 +1694,7 @@ OCTAVO. Los plazos de revisión y actualización de las normas oficiales mexican
 NOVENO. La publicación de los procedimientos a que se refiere el artículo 73 de la Ley deberá realizarse dentro de los 6 meses siguientes a la entrada en vigor del presente decreto. En tanto se publican tales procedimientos, las dependencias continuarán determinando el cumplimiento con las normas oficiales mexicanas conforme a las disposiciones aplicables con anterioridad de la entrada en vigor del presente decreto.
 
 DÉCIMO. Las infracciones cometidas con anterioridad a la entrada en vigor del presente decreto se sancionarán conforme a lo establecido al momento de su comisión, salvo que el particular opte por someterse a lo dispuesto en el presente decreto.
+
+D.O.F. 19 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
