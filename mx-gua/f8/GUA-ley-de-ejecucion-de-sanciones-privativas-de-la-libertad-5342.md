@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-5342"
 country: "mx"
 rank: "ley"
 publication_date: "1983-11-04"
-last_updated: "1983-11-04"
+last_updated: "1992-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 4 de noviembre de 1983.
 
@@ -43,21 +43,31 @@ LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJ
 
 ### CAPITULO UNICO. DEL OBJETO Y APLICACION DE LA LEY
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto:
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto:
 
-I.- Regular la ejecución de las sanciones privativas de la libertad que se impongan por las autoridades jurisdiccionales de acuerdo a las leyes.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+I.- Establecer las normas relativas a la ejecución de las sanciones privativas de la libertad, que se impongan por las autoridades jurisdiccionales de acuerdo a las leyes.
 
 II.- Facultar a las autoridades competentes, para que vigilen y controlen todo acto relativo a la reclusión de los internos en los Centros de Readaptación Social.
 
-III.- Fijar, de manera general, las atribuciones y obligaciones de los órganos de ejecución y del personal directivo, administrativo, técnico y de custodia de las Instituciones de Readaptación Social, y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
 
-IV.- Establecer, de manera general, el régimen al que habrán de sujetarse los internos de las Instituciones de Readaptación Social.
+III.- Fijar, de manera general, las atribuciones y obligaciones de las autoridades estatales y municipales que participen en la ejecución de las sanciones privativas de libertad; y,
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+IV.- Establecer el tratamiento al que habrán de sujetarse los internos de los Centros de Readaptación Social.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 2o.
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado, por medio de la Dirección de Prevención y Readaptación Social dependiente de la Secretaría General del Gobierno.
+La aplicación de esta Ley corresponde al Ejecutivo del Estado por conducto de la Secretaría de Gobierno y la Dirección de Prevención y Readaptación Social, así como a las autoridades municipales competentes.
 
 ###### ARTICULO 3o.
 
@@ -71,23 +81,33 @@ El Ejecutivo del Estado podrá celebrar con los Gobiernos de la Federación, de 
 
 La Dirección de Prevención y Readaptación Social tendrá las siguientes atribuciones:
 
-I.- Organizar, administrar y dirigir los Centros de Readaptación Social.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+I.- Organizar, administrar y dirigir los Centros de Readaptación Social en el ámbito de su competencia.
 
 II.- Planificar y aplicar, sobre las bases de esta Ley y conforme a las normas técnicas que estime pertinentes, los regímenes de estudio y diagnóstico, trabajo, educación y capacitación, tendientes a lograr la readaptación social de los internos.
 
-III.- Proponer al Ejecutivo del Estado los nombramientos, remociones y demás movimientos de personal de los Centros de Readaptación Social.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
 
-IV.- Distribuir en los Centros de Readaptación Social del Estado a los internos que se encuentren privados de su libertad y a disposición del Ejecutivo del Estado.
+III.- Proponer al Ejecutivo del Estado los nombramientos, remociones y demás movimientos de los directores y del personal de los Centros de Readaptación Social Estatales.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+IV.- Distribuir en los Centros de Readaptación Social del Estado a los internos que se encuentran privados de su libertad y a disposición del Ejecutivo del Estado y del Ejecutivo Federal, de conformidad con esta Ley y los convenios relativos celebrados entre el Estado, la Federación y otras Entidades Federativas.
 
 V.- Recibir, investigar y resolver las quejas que presenten los internos, respecto al trato de que fueren objeto.
 
-VI.- Aplicar el tratamiento de preliberación que, en su caso, corresponda al interno.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+VI.- Someter a la aprobación y firma del Secretario de Gobierno del Estado, los expedientes de preliberación que se integren.
 
 VII.- Someter a la consideración del Gobernador del Estado, para su resolución, los expedientes que integre con motivo de las solicitudes de indulto, de libertad anticipada, de remisión parcial y de reducción de la sanción.
 
-VIII.- Someter a la consideración del Gobernador del Estado, para su resolución, los expedientes que integre con motivo de la retención, en los casos que proceda.
+VIII.- (DEROGADA, P.O. 18 DE AGOSTO DE 1992)
 
-IX.- Organizar el Patronato de Asistencia para la Reincorporación Social.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+IX.- Organizar y promover el patronato para la reincorporación social por el empleo.
 
 X.- Crear, organizar y conservar el registro de procesados y sentenciados.
 
@@ -101,17 +121,45 @@ a) Libertad anticipada.
 
 b) Fase de preliberación.
 
-XIV.- Las demás que señalen las leyes.
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+XIV.- Señalar, previo estudio de personalidad de los sentenciados, el lugar donde deben cumplir sus penas y vigilar:
+
+a) Que todo interno participe en las actividades terapéuticas, laborales y educativas.
+
+b) Que se le practiquen estudios interdisciplinarios que evalúen la evolución de su tratamiento; y,
+
+c) Que mantenga relaciones con sus familiares.
+
+(AIDICIONADA, P.O. 18 DE AGOSTO DE 1992)
+
+XV.- Tramitar la revocación de la preliberación, remisión parcial de la sanción y libertad anticipada, en los casos y conforme al procedimiento dispuesto.
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+XVI.- Coordinar acciones con las instituciones que, dentro del ámbito de su competencia, puedan apoyar la realización de las tareas de prevención de conductas delictivas; y,
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+XVII.- Las demás que señalen las Leyes.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 5o.
 
-La Dirección de Prevención y Readaptación Social se integrará con un Director y un Sub Director, quienes deberán ser Licenciados en Derecho, preferentemente especializados en las ciencias criminológica y penitenciaria, y el personal técnico, administrativo y de vigilancia que determine el Presupuesto de Egresos del Estado.
+La Dirección de Prevención y Readaptación Social se integrará con un Director, quien deberá ser Licenciado en Derecho o en Ciencias Criminológicas y Penitenciarias y además, con las unidades técnicas, administrativas y de vigilancia que requiera para el desempeño de sus funciones y permita el presupuesto.
 
 ### CAPITULO SEGUNDO. DE LOS CENTROS DE READAPTACION SOCIAL
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 6o.
 
-Los Centros de Readaptación Social se destinarán al internamiento de quienes se encuentren sujetos a custodia preventiva y a los condenados.
+Los Centros de Readaptación Social se destinarán al internamiento de quienes se encuentren sujetos a proceso penal y de los sentenciados que extingan las penas impuestas.
+
+El sitio en que se encuentren los procesados será distinto al en que se encuentren los sentenciados y estarán completamente separados.
+
+Los menores infractores serán internados en instituciones diferentes a las asignadas a los adultos.
 
 ###### ARTICULO 7o.
 
@@ -133,17 +181,27 @@ En todos los Centros de Readaptación se proporcionará a los internos los servi
 
 ### CAPITULO PRIMERO. DEL REGIMEN EN GENERAL
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 11.
 
-En todos los Centros de Readaptación Social se implantará un régimen readaptativo basado en un sistema progresivo, técnico e individualizado, que tendrá como base la disciplina, el trabajo, la capacitación para el mismo y la educación.
+En todos los Centros de Readaptación Social se establecerá un régimen readaptativo basado en un sistema progresivo, técnico e individualizado, que tendrá como base la disciplina, el trabajo, la capacitación para el mismo y la educación.
+
+Dicho régimen se aplicará a los internos en forma periódica por el Consejo Técnico Interdisciplinario, y constará de etapas de diagnóstico, clasificación, tratamiento y reincorporación social.
+
+El tratamiento se fundará en los resultados de los estudios de personalidad, el tipo de delito, si fue realizado por un grupo de personas, la relación con la víctima y la edad de ésta. Estos criterios darán la pauta de los aspectos de patología del individuo y por consiguiente determinarán la estructura del tratamiento.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 12.
 
-La finalidad del régimen readaptativo será la de eliminar las inclinaciones anti-sociales de los internos y proporcionarles conocimientos que puedan serles útiles en su vida libre.
+La finalidad del régimen readaptativo será la de eliminar las inclinaciones antisociales de los internos, fomentar en ellos el estudio de alguna ciencia, arte u oficio, prepararlos para una vida productiva y digna en libertad, cultivando en ellos los valores humanos en general.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 13.
 
-El tratamiento que se aplique a los condenados estará exento de toda violencia, tortura o mal trato.
+El tratamiento que se aplique a los internos estará exento de cualquier acto de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, como son la violencia, la tortura o el maltrato.
 
 ### CAPITULO SEGUNDO. DEL REGIMEN EDUCATIVO
 
@@ -151,11 +209,15 @@ El tratamiento que se aplique a los condenados estará exento de toda violencia,
 
 La educación que se imparta a los internos como parte de su tratamiento, deberá adecuarse a los programas oficiales. Los certificados respectivos no harán mención de haber sido expedidos en el Centro de Readaptación Social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 15.
 
-La enseñanza que se imparta deberá orientarse hacía la readaptación social de los internos, procurando afirmar en ellos el respeto a los valores humanos y a las instituciones sociales.
+La educación que se imparta a los internos comprenderá aspectos éticos, cívicos, sociales, culturales, higiénicos y físicos, los cuales deberán orientarse a su resocialización, procurando afirmar en ellos el respeto a los valores humanos y a las instituciones sociales.
 
-A través de la educación se combatirá la toxicomanía, el alcoholismo y los vicios que degradan al individuo.
+Los resultados de las pruebas psicológicas y de los exámenes médicos completarán el diagnóstico pedagógico, para efecto de situar al interno en el área de alfabetización o en el nivel educativo que le corresponda.
+
+Mediante la educación se combatirá la toxicomanía, el alcoholismo y los vicios que degradan al individuo.
 
 ###### ARTICULO 16.
 
@@ -163,39 +225,69 @@ Se impartirá educación física a los internos que sean aptos para ello, de acu
 
 ### CAPITULO TERCERO. DEL REGIMEN OCUPACIONAL
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 17.
 
-La organización y administración del trabajo en los Centros de Readaptación Social corresponderá directamente a la Autoridad encargada de cada uno de ellos, en coordinación con la Dirección de Prevención y Readaptación Social. Se procurará que los internos se dediquen al trabajo, de acuerdo con sus condiciones personales.
+La organización, administración y vigilancia del trabajo en los Centros de Readaptación Social, corresponde directamente al director del Centro y a los subdirectores en sus respectivas áreas, en coordinación con la Dirección de Prevención y Readaptación Social.
+
+Se procurará que los internos se dediquen al trabajo según sus deseos, aptitudes, capacidades y necesidades. El trabajo tendrá un fin de tratamiento formativo y social.
+
+Cuando el trabajo que realice el interno, sea en beneficio del Centro de Readaptación Social, percibirá una remuneración en función de la partida presupuestal que se asigne para tal efecto.
+
+En el supuesto del artículo siguiente, la remuneración estará en función del contrato de trabajo y el Reglamento Interior para los Centros de Readaptación Social.
+
+Si además de lo señalado en este artículo, el interno produce artículos artesanales o bienes susceptibles de ser comercializados, se atenderá a lo dispuesto por el Reglamento para los Centros de Readaptación Social.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 18.
 
-La Dirección del Centro de Readaptación Social que corresponda, discrecionalmente autorizará contratos de trabajo que pretendan celebrar los internos con los particulares.
+La Dirección del Centro de Readaptación Social que corresponda, en coordinación con la dirección de Prevención y Readaptación Social, autorizará los contratos de trabajo que pretendan celebrar los internos con los particulares.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 19.
 
-En el supuesto del artículo anterior, los particulares estarán obligados a organizar el trabajo, en coordinación con la Dirección del Centro respectivo, con estricto apego a las normas contenidas en este Capítulo.
+En el supuesto del artículo anterior, los particulares deberán organizar el trabajo, y, en su caso, suministrar la maquinaria, materia prima y colocación del producto, en coordinación con la dirección del centro respectivo, con estricto apego a las disposiciones contenidas en este capítulo y en el Reglamento Interior para los Centros de Readaptación Social del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 20.
 
-Las condiciones de trabajo en los Centros de Readaptación Social se sujetarán a lo que establezcan los Reglamentos respectivos.
+Las condiciones de trabajo en los Centros de Readaptación Social se sujetarán a lo que establezca esta Ley, el Reglamento Interior para los Centros de Readaptación Social del Estado y los dictámenes emitidos por el Consejo Técnico Interdisciplinario.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 21.
 
-Todo reo privado de su libertad y que no se encuentre enfermo o inválido, desempeñará el trabajo que se le asigne, de acuerdo con los Reglamentos del Establecimiento en donde se encuentre.
+Todo interno privado de su libertad y que no se encuentre enfermo, inválido o que su edad no se lo impida, participará en las actividades laborales con fines de tratamiento que se le asignen, de acuerdo con lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 22.
 
 El producto del trabajo se distribuirá del modo siguiente:
 
-I.- Un treinta por ciento para el pago de la reparación del daño.
+I.- Un 30% para el pago de la reparación del daño.
 
-II.- Un cincuenta por ciento para el interno y su familia, y
+II.- Un 40% para los dependientes del interno.
 
-III.- Un veinte por ciento para formar un Fondo de Reserva a favor del interno.
+III.- Un 20% para formar un fondo de ahorro a favor del interno.
+
+IV.- Un 10% para gastos menores del interno.
+
+Si no hubiese condena a reparación del daño o ésta ya hubiera sido cubierta, o si los dependientes del interno no están necesitados, las cuotas respectivas se aplicarán por partes iguales a los fines señalados, con excepción del indicado en la fracción IV de este artículo.
+
+El fondo de ahorro deberá ser depositado en una institución bancaria y le será entregado al interno en su totalidad, con sus respectivos intereses, cuando salga del Centro, o bien, en caso de necesidad, de acuerdo al criterio de las autoridades penitenciarias.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 23.
 
-Ningún interno podrá desempeñar funciones de Autoridad dentro de los Centros de Readaptación. El desarrollo de actividades comerciales en los mismos será facultad exclusiva de la Dirección, y los beneficios económicos de dichas actividades se aplicarán en favor de la propia Institución.
+Ningún interno podrá desempeñar funciones de autoridad dentro de los Centros de Readaptación Social.
+
+El control de las áreas comerciales y productivas en los Centros de Readaptación Social será facultad de la dirección, y los beneficios económicos de dichas actividades se aplicarán para el pago de la remuneración que reciban los internos por su trabajo y en favor del propio Centro.
 
 ### CAPITULO CUARTO. DEL REGIMEN DISCIPLINARIO
 
@@ -207,17 +299,11 @@ Los internos acatarán el régimen que procure su readaptación y tienda a logra
 
 Se prohibe todo castigo consistente en torturas o tratos crueles, físicos o mentales, o cualquier otro que menoscabe la dignidad humana.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 26.
 
-Las medidas disciplinarias serán impuestas por la Dirección de la Institución, previa consulta con el Consejo Técnico Interdisciplinario, y podrán ser las siguientes:
-
-I.- Pérdida total o parcial de estímulos adquiridos conforme al Artículo 28.
-
-II.- Privación, hasta por dos meses, de actividades de entretenimiento.
-
-III.- Traslado, hasta por diez días, a otra Sección del establecimiento, y
-
-IV.- Suspensión, hasta por quince días, de la visita familiar.
+Las correcciones disciplinarias serán impuestas por el Director del Centro de Readaptación Social, de conformidad con los lineamientos que se establecen en esta Ley, en el Reglamento Interior para los Centros de Readaptación Social del Estado y con base en el dictamen del Consejo Técnico Interdisciplinario.
 
 ###### ARTICULO 27.
 
@@ -225,31 +311,33 @@ Los Directores de los Centros de Readaptación Social podrán imponer, en tanto 
 
 I.- Amonestación, y
 
-II.- Aislamiento o segregación, que no exceda de 5 días.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+II.- Reclusión en el área de máxima seguridad que no excederá de 5 días.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 28.
 
-Los hechos meritorios de los internos se premiarán con los siguientes estímulos:
-
-I.- Concesión extraordinaria de visitas.
-
-II.- Desempeño de cargos o comisiones de confianza, y
-
-III.- Anotaciones meritorias en su expediente.
+Los hechos meritorios de los internos serán premiados por el Consejo Técnico Interdisciplinario, siguiendo los lineamientos establecidos en el Reglamento Interior para los Centros de Readaptación Social del Estado.
 
 ## TITULO TERCERO
 
 ### CAPITULO PRIMERO. DE LA PRELIBERACION
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 29.
 
-Se entiende por preliberación el régimen encaminado a preparar al interno para su reintegración a la vida en libertad.
+Se entiende por preliberación el tratamiento encaminado a preparar paulatinamente al interno para su reintegración a la vida en libertad.
 
 ###### ARTICULO 30.
 
 La preliberación sólo podrá concederse un año antes a la fecha en que el interno tenga eventualmente derecho a la libertad anticipada o a la remisión parcial de la sanción.
 
-En cada caso, el Consejo Técnico Interdisciplinario determinará el momoento (sic), dentro del término fijado, en que se deba iniciar esta fase del tratamiento de reintegración social.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+En este supuesto y teniendo como base los estudios de personalidad, el Consejo Técnico Interdisciplinario determinará el momento, dentro del término fijado, en que se deba iniciar esta fase del tratamiento de reintegración social.
 
 ###### ARTICULO 31.
 
@@ -269,29 +357,71 @@ a) De fin de semana.
 
 b) Diaria, con regreso nocturno, y
 
-c) En días hábiles, con reclusión de fin de semana.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+c) De lunes a viernes, con reclusión de fin de semana.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+d) De lunes a domingo, con firma el fin de semana los primeros seis meses, los subsecuentes tres meses con firma cada quince días y los últimos tres meses de periodo preliberacional con firma cada mes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+e) De 30 días naturales, con firma al término de los mismos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+f) De 90 días naturales, con firma al término de los mismos; y,
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+g) De 180 días naturales, con firma al término de los mismos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+El Consejo Técnico Interdisciplinario podrá proponer y aprobar las combinaciones de permisos de salida que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 32.
 
-La Dirección de Prevención y Readaptación Social podrá conceder, al interno que lo solicite, la aplicación del régimen preliberacional, previo dictamen del Consejo Técnico Interdisciplinario.
+La Dirección de Prevención y Readaptación Social tramitará oficiosamente la aplicación del tratamiento preliberacional, previo estudio, dictamen y acta del Consejo Técnico Interdisciplinario, y someterá el proyecto de resolución correspondiente al Secretario de Gobierno para su firma.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 33.
 
-El incumplimiento de las obligaciones de presentación que se derivan de la Fracción V del Artículo 31 de la presente Ley, se sancionará con la revocación del beneficio de preliberación y se reputará como mala conducta, para los efectos de la libertad anticipada y de la remisión parcial de la sanción corporal.
+El interno beneficiado con la Libertad preliberacional deberá cumplir con las obligaciones de presentación a que se refiere la fracción V del artículo 31 de esta Ley, y hacer del conocimiento del Director del Centro respectivo, el domicilio en donde residirá, así como también los cambios de domicilio que se susciten.
+
+Si el beneficiado con la libertad preliberacional deja de cumplir con las obligaciones a que queda sujeto en cualquiera de las etapas del tratamiento, se le revocará el beneficio para que extinga la parte de la pena que le falte por compurgar, y dicho incumplimiento se reputará como mala conducta para los efectos de la libertad anticipada y de la remisión parcial de la sanción corporal.
+
+La Dirección de Prevención y Readaptación Social conocerá del trámite de revocación del tratamiento preliberacional y, previo dictamen y acta que levante el Consejo Técnico Interdisciplinario, se someterá al Secretario de Gobierno el proyecto de resolución correspondiente para su firma.
 
 ### CAPITULO SEGUNDO. DE LA LIBERTAD ANTICIPADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 34.
 
-El condenado a sanción privativa de libertad, tendrá derecho a la libertad anticipada, por resolución del Ejecutivo, bajo las condiciones siguientes:
+El condenado por sentencia ejecutoria a sanción privativa de libertad, tendrá derecho a la libertad anticipada, por resolución del Ejecutivo, bajo las condiciones siguientes:
 
-I.- Que haya cumplido las tres quintas partes de su condena, si es delincuente primario, o dos tercios si no lo es.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
 
-II.- Que se haya reparado el daño, y
+I.- Que se haya cumplido el 50% de su condena.
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+II.- Que se haya reparado el daño, o que se encuentre en el supuesto previsto por el artículo 129 del Código Penal del Estado.
 
 III.- Que haya observado buena conducta durante su reclusión.
 
-El agraciado con la libertad anticipada deberá residir en el lugar que se le determine, del cual sólo podrá ausentarse con permiso del Ejecutivo del Estado.
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+IV.- Que se haya alcanzado un adecuado grado de readaptación social, de acuerdo al dictamen y acta que realice el Consejo Técnico Interdisciplinario.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+El agraciado con la libertad anticipada deberá residir en el lugar que se le determine, del cual sólo podrá ausentarse con permiso de la Dirección de Prevención y Readaptación Social.
 
 La libertad anticipada no se concederá a los delincuentes habituales.
 
@@ -301,19 +431,37 @@ Si el beneficiado con la libertad anticipada delinque durante su disfrute, o bie
 
 ### CAPITULO TERCERO. DE LA REMISION PARCIAL DE LA SANCION
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 36.
 
-Al interno que reúna los requisitos para obtener la libertad anticipada y que, además, haya trabajado habitualmente durante su reclusión y, en su caso, en el tiempo que dure el tratamiento preliberacional y que, a juicio del Consejo Técnico Interdisciplinario hubiere alcanzado un adecuado grado de readaptación social, se le remitirá la parte de su pena que le falte por compurgar.
+Al interno que reúna los requisitos para obtener la libertad anticipada y que, además, haya trabajado habitualmente durante su reclusión y, en su caso, en el tiempo que dure el tratamiento preliberacional y que, a juicio del Consejo Técnico Interdisciplinario hubiese alcanzado un adecuado grado de readaptación social de acuerdo al dictamen y acta que realice, se le remitirá la parte de su pena que le falte por compurgar.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 37.
 
 El interno que se crea con derecho al beneficio de la remisión parcial de la sanción corporal, la solicitará al Consejo Técnico Interdisciplinario del Centro de Readaptación donde se encuentre.
 
-La remisión parcial de la sanción no se concederá a los delincuentes habituales.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
 
 ###### ARTICULO 38.
 
-La Dirección de Prevención y Readaptación Social tomará en consideración el informe suministrado por el Consejo Técnico Interdisciplinario. Una vez integrado el expediente respectivo, lo someterá a la consideración del Gobernador del Estado, quién dictará la resolución que corresponda.
+La Dirección de Prevención y Readaptación Social tomará en consideración el dictamen emitido por el Consejo Técnico Interdisciplinario, y una vez integrado el expediente respectivo, lo someterá a la consideración del Gobernador del Estado, quién dictará la resolución que corresponda.
+
+La Dirección de Prevención y Readaptación Social conocerá también del trámite de revocación de la remisión parcial de la sanción, y ésta procederá cuando apareciere posteriormente un error, omisión y/o alteración de los datos proporcionados en los documentos que integren el expediente, y someterá al Gobernador el proyecto de resolución, para su firma, procediéndose contra quién resulte responsable conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 38 Bis.
+
+El Ejecutivo del Estado, por conducto de la Dirección de Prevención y Readaptación Social, solicitará a la autoridad competente, de conformidad con los procedimientos legales establecidos, la captura del interno al que se le haya concedido alguno de los beneficios que señala la presente Ley con motivo de su revocación, para que extinga la parte de la pena privativa de libertad que le falte por compurgar.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+ARTICULO 38 Tris.- No se concederán los beneficios de preliberación, remisión parcial de la sanción y libertad anticipada, a aquellos internos que participen en una fuga o motín en cualquiera de sus modalidades.
+
+Tratándose de una fuga, el Director del Centro del lugar en donde se produzca, inmediatamente que tenga conocimiento de la misma, dará aviso al Director de Prevención y Readaptación Social cualquiera de dichos funcionarios solicitará a la autoridad competente, de conformidad con los procedimientos legales establecidos, la captura del interno que se hubiese fugado.
 
 ### CAPITULO CUARTO. DEL INDULTO
 
@@ -345,19 +493,41 @@ d) El grado de instrucción y educación adquiridas.
 
 ### CAPITULO UNICO. DEL CONSEJO TECNICO INTERDISCIPLINARIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 42.
 
-En cada Centro de Readaptación Social, se creará un Consejo Técnico Interdisciplinario que, además de las atribuciones que le señalen las leyes, tendrá a su cargo las funciones consultivas necesarias, para:
+En cada Centro de Readaptación Social, se creará un Consejo Técnico Interdisciplinario que, además de las atribuciones que le señalen esta Ley y el Reglamento Interior para los Centros de Readaptación Social del Estado, tendrá a su cargo las funciones consultivas necesarias para:
 
-a) La aplicación individual del sistema progresivo.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1992)</small>
+
+a) La aplicación individual de los tratamientos.
 
 b) La ejecución de medidas preliberacionales.
 
 c) La concesión del beneficio de la libertad anticipada y el de la remisión parcial de la sanción corporal.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+d) La aplicación de correcciones disciplinarias a los internos que transgredan la presente Ley o el Reglamento citado.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+e) Dictaminar respecto de la revocación de los beneficios de libertad.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+f) Otorgar incentivos a los internos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+g) Ejercer otras que le señale esta Ley y el Reglamento mencionado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 43.
 
-El Consejo se integrará por una persona designana (sic) por la Dirección de Prevención y Readaptación Social; con otra designada por el Ayuntamiento que corresponda; por el médico y el maestro adscritos al Centro, por el Director del mismo, que será quien lo presida.
+En función de la partida presupuestal que se asigne a los Centros de Readaptación Social, se procurará que su Consejo Técnico Interdisciplinario se integre por el Director del Centro, quién lo presidirá, el Subdirector Jurídico, quien fungirá como Secretario del Consejo, el Subdirector Técnico y sus coordinadores auxiliares, el Subdirector Administrativo, el Jefe de Seguridad, un representante de la Dirección de Prevención y Readaptación Social del Estado, un representante de la Comisión Nacional de Derechos Humanos, un representante del Organismo Estatal de Protección de los Derechos Humanos, un representante del Consejo Ciudadano de Vigilancia y un especialista en alguna rama del conocimiento.
 
 Cuando no haya médico o maestros adscritos a la Institución, las funciones correspondientes a ellos las desempeñarán el Director del Centro de Salud o el Director de la Escuela Estatal o Federal de la localidad, y, a falta de éstos, con quienes designe la Dirección de Prevención y Readaptación Social.
 
@@ -373,9 +543,51 @@ De cada sesión del Consejo se levantará acta, que deberá ser firmada por los 
 
 ### CAPITULO UNICO. DE LOS PATRONATOS DE ASISTENCIA PARA LA REINCORPORACION SOCIAL
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 46.
 
-El Patronato de Asistencia para la Reincorporación Social, tiene por objeto prestar auxilio a los liberados, orientarlos y protegerlos, a fin de lograr su reincorporación al medio social. Su funcionamiento, organización y administración, se regirán por el Reglamento respectivo.
+Los patronatos para la reincorporación social por el empleo, se ajustarán en su organización y funciones a lo dispuesto por esta Ley y sus propios reglamentos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 47.
+
+Para el debido desempeño de sus funciones, los patronatos para la reincorporación social por el empleo, deberán coordinar sus acciones con la Dirección de Prevención y Readaptación Social del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 48.
+
+Los sujetos que serán atendidos por los patronatos para la reincorporación social por el empleo, serán los liberados tanto por haber cumplido su condena, como por haber obtenido su libertad por cualesquiera de las formas previstas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 49.
+
+Los patronatos para la reincorporación social por el empleo, tendrán por objeto apoyar la reintegración social y la prevención de conductas antisociales, mediante la gestión ante los sectores público, social y privado, para conseguir:
+
+I.- La incorporación de liberados en actividades socialmente productivas; y,
+
+II.- La continuación de la capacitación y adiestramiento iniciados en los Centros de Readaptación Social.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 50.
+
+La intervención de los patronatos para la reincorporación social por el empleo, se iniciará a partir de la fecha de liberación o externamiento y hasta que el libertado esté encausado en su trabajo y familia.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 51.
+
+Para el cumplimiento de sus objetivos, los patronatos para la reincorporación social por el empleo, constituirán su propio patrimonio, buscando en todo momento su autosuficiencia y procurando limitar su dependencia de recursos públicos.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 1992)</small>
+
+###### ARTICULO 52.
+
+Los patronatos para la reincorporación social por el empleo, se integrarán por un consejo de patronos, un comité de patrocinadores y las unidades administrativas que sean necesarias.
 
 T R A N S I T O R I O S :
 
@@ -400,3 +612,13 @@ ENRIQUE VELASCO IBARRA.
 El Secretario General del Gobierno.
 
 MAURICIO CLARK OVADIA.
+
+P.O. 18 DE AGOSTO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas y adiciones entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Sigue vigente el Reglamento Interior para los Centros de Readaptación Social del Estado de Guanajuato, expedido el 20 de Abril de 1992, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 21 de los mismos mes y año.
