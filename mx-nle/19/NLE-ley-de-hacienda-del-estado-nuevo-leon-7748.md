@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1975-12-27"
+last_updated: "1976-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1976.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -247,15 +247,17 @@ Mientras se practique la valuación correspondiente a cada porción del predio d
 
 La tasa del impuesto es anual, y su pago deberá hacerse como sigue:
 
-a) Cuando el valor real catastral sea hasta de $4,000.00 (cuatro mil pesos) por anualidades adelantadas, dentro de los primeros veinticinco días del mes de enero de cada año.
+a).- Cuando el valor real catastral sea hasta de $4,000.00 (cuatro mil pesos) por anualidades adelantadas, dentro de los primeros veinticinco días del mes de enero de cada año.
 
-b) Si el valor real catastral excede de $4,000.00 (cuatro mil pesos) pero no de $10,000.00 (diez mil pesos), por semestre adelantados, dentro de los primeros veinticinco días de los meses de enero y julio de cada año.
+b).- Si el valor real catastral excede de $4,000.00 (cuatro mil pesos), pero no de $10,000.00 (diez mil pesos), por semestres adelantados, dentro de los primeros veinticinco días de los meses de enero y julio de cada año.
 
-c) Cuando el valor real catastral exceda de $10,000.00 (diez mil pesos) por bimestre adelantados que se pagarán dentro de los primeros veinticinco días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+c).- Cuando el valor real catastral exceda de $10,000.00 (diez mil pesos) por bimestres adelantados que se pagarán dentro de los primeros veinticinco días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-Los causantes podrán hacer pagos anticipados de este impuesto, respecto a todo o parte del año. El pago anticipado del impuesto, no impide el cobro de diferencias que deba hacer la Tesorería General por cambios de las bases gravables o variación de las tasas del impuesto.
+Los causantes indicados en los incisos b) y c) de este precepto, podrán pagar el Impuesto por anualidad anticipada, en cuyo caso gozarán de una deducción del diez por ciento de dicha anualidad, debiendo cubrir el pago a más tardar el último día hábil del mes de enero.
 
-Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o compensarán las diferencias que resulten.
+El pago anticipado del Impuesto Predial no impide el cobro de diferencias que deba hacer la Secretaría de Finanzas y Tesorería General del Estado, por cambio de las bases gravables o modificación de la tasa del impuesto.
+
+Cuando se haya establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o compensarán las diferencias que resulten.
 
 ###### ARTICULO 23.
 
@@ -418,6 +420,8 @@ Se considera que los vendedores ambulantes no eximidos del pago del impuesto, ti
 El impuesto se causará a razón del 12 al millar sobre el monto total de los ingresos gravables percibidos por los causantes de los Municipios de Monterrey, Allende, Apodaca, Cadereyta, Garza García, General Escobedo, Guadalupe, Linares, Montemorelos, Sabinas Hidalgo, San Nicolás de los Garza, Santa Catarina y Santiago. En los demás Municipios del Estado, la tasa será del 9 al millar sobre el monto total de los ingresos gravables.
 
 #### SECCION SEXTA. Del Pago del Impuesto
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
 ###### ARTICULO 47.
 
@@ -2227,49 +2231,49 @@ c) Pasaportes en grupo, no familiar, por persona ............ $150.00
 
 Por los servicios prestados por la Tesorería General del Estado a sus Dependencias, se causarán los siguientes Derechos:
 
-I.- Por empadronamiento y refrendo anual de expendios de debidas alcohólicas: ............ $500.00
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
-Tratndose (sic) de cabarets, prostíbulos, casas de asignación o lugares semejantes, la tasa anual será:
+I.- Por empadronamiento y refrendo anual:
 
-a) Primera categoría ............ $18,000.00
+a).- Expendios de bebidas alcohólicas $1,000.00
 
-b) Segunda categoría ............ $10,000.00
+b).- Expendios de bebidas alcohólicas con servicio de variedad artística o musical $10,000.00
 
-c) Tercera categoría ............ $6,000.00
+c).- Hoteles de paso, cabarets, prostíbulos, casa de asignación o lugares semejantes $18,000.00
 
-II.- Por empadronamiento y refrendo anual de empresas porteadoras de personas o cosas, de ............ $100.00 a $2,000.00
+II.- Por empadronamiento y refrendo anual de empresas porteadoras de personas o cosas, de $100.00 a $2,000.00
 
-III.- Por la expedición de constancias y certificados que extiendan las Dependencias de la Secretaría de Finanzas y Tesorería General ............ $50.00
+III.- Por la expedición de constancias y certificados que extiendan las Dependencias de la Secretaría de Finanzas y Tesorería General $50.00
 
-IV.- Por registro de contratos de arrendamiento de bienes inmuebles para casa-habitación, cada uno ............ $50.00
+IV.- Por registro de contratos de arrendamiento de bienes inmuebles para casa-habitación, cada uno $50.00
 
-V.- Por inspección y vigilancia a industrias que gocen de franquicias fiscales, de conformidad con la Ley de Fomento Industrial y Desarrollo Económico y acuerdos que les sean relativos ............ 5%
+V.- Por inspección y vigilancia a industrias que gocen de franquicias fiscales, de conformidad con la Ley de Fomento Industrial y Desarrollo Económico y acuerdos que les sean relativos 5%
 
-VI.- Por registro de contratos afectos al Impuesto sobre capitales invertidos con garantía de inmuebles, o sus modificaciones ............ $200.00
+VI.- Por registro de contratos afectos al Impuesto sobre capitales invertidos con garantía de inmuebles, o sus modificaciones $200.00
 
-VII.- Por expedición de placas y tarjetas de circulación para vehículos de motor, excepto motocicletas y motonetas, anualmente ............ $100.00
+VII.- Por expedición de placas y tarjetas de circulación para vehículos de motor, excepto motocicletas y motonetas, anualmente $100.00
 
-VIII.- Por expedición de placas y tarjetas de circulación paar (sic) motocicletas y motonetas, anualmente ............ $50.00
+VIII.- Por expedición de placas y tarjetas de circulación paar (sic) motocicletas y motonetas, anualmente $50.00
 
-IX.- Por expedición de placas para bicicletas anualmente ............ $10.00
+IX.- Por expedición de placas para bicicletas anualmente $10.00
 
 X.- Por expedición de placas para vehículos de tracción animal, anualmente:
 
-a) En los Municipios de Monterrey, San Nicols (sic) de los Garza, Guadalupe, Garza García, Santa Catarina y Apodaca ............ $12.00
+a) En los Municipios de Monterrey, San Nicols (sic) de los Garza, Guadalupe, Garza García, Santa Catarina y Apodaca $12.00
 
-b) En los demás Municipios ............ $3.00
+b) En los demás Municipios $3.00
 
-XI.- Por expedición de plcas (sic) para remolques destinados a ser accionados por automóviles, anualmente ............ $50.00
+XI.- Por expedición de plcas (sic) para remolques destinados a ser accionados por automóviles, anualmente $50.00
 
-XII.- Por expedición de placas para remolques destinados a ser accionados por camiones o tractores, anualmente ............ $100.00
+XII.- Por expedición de placas para remolques destinados a ser accionados por camiones o tractores, anualmente $100.00
 
-XIII.- Por expedición de placas para demostración y prueba de vehículos anualmente ............ $100.00
+XIII.- Por expedición de placas para demostración y prueba de vehículos anualmente $100.00
 
-XIV.- Por expedicin (sic) de duplicados o reposición de tarjetas de circualción (sic) ............ $25.00
+XIV.- Por expedicin (sic) de duplicados o reposición de tarjetas de circualción (sic) $25.00
 
-XV.- Por evpedición (sic) de licencia para manejar, o sus duplicados ............ $25.00
+XV.- Por evpedición (sic) de licencia para manejar, o sus duplicados $25.00
 
-XVI.- Por baja de vehículos de motor ............ $15.00
+XVI.- Por baja de vehículos de motor $15.00
 
 Tratándose de vehículos por los cuales deba pagarse el Impuesto sobre Tenencia o Uso de Automóviles, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violaciones al Reglamento de Tránsito en vigor.
 
@@ -2356,6 +2360,10 @@ VII.- Por la expedición de constancias y certificados diversos de los enunciado
 VIII.- Por registro de fierros y señales de ganado, por cada uno .........$50.00
 
 IX.- Por la expedición de constancias y certificados, que expidan las Dependencias de Gobierno del Estado, no mencionadas en las disposiciones de este Título ........$50.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+ARTICULO 277 bis.- Los derechos que causen las fábricas, agencias, depósitos o expendios de cerveza, no excederán en su totalidad de $200.00 anuales, incluyendo adicionales, por el desarrollo de su actividad de elaboración o venta de cerveza.
 
 ### CAPITULO QUINTO. De los Derechos por Servicios Prestados por Diversas Dependencias
 
@@ -2530,6 +2538,16 @@ P.O. 27 DE DICIEMBRE DE 1975.
 ###### ARTICULO PRIMERO
 
 - El presente Decreto entrará en vigor el 1o. de Enero de 1976.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 29 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO
+
+- Esta Ley entrará en vigor el día 1o. de Enero de 1977.
 
 ###### ARTICULO SEGUNDO
 
