@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1977-06-04"
+last_updated: "1977-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE JULIO DE 1977.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -65,9 +65,11 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 #### Sección Primera. Objeto del Impuesto
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
+
 ###### Artículo 5o.
 
-Es objeto del Impuesto Predial:
+Es objeto del impuesto predial:
 
 I.- La propiedad de predios urbanos o rústicos y las construcciones permanentes en ellos existentes;
 
@@ -81,7 +83,9 @@ c) Cuando los predios que menciona el Artículo 12 en su fracción I se den en e
 
 d) Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo;
 
-III. La propiedad Ejidal; y
+> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
+
+III.- La propiedad o posesión de predios ejidales y comunales;
 
 IV. La propiedad de Plantas de Beneficio y Establecimientos Metalúrgicos.
 
@@ -91,7 +95,7 @@ Tratándose de predios rústicos, sólo deberá incluirse la propiedad o posesi�
 
 ###### Artículo 10.
 
-El Impuesto se causará:
+El Impuesto se causará aplicando las bases mencionadas en el artículo anterior, la siguiente tarifa:
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -143,7 +147,9 @@ En ningún caso el impuesto será menor de $20.00 al año.
 
 IV.- Sobre los predios no edificados, se aplicarán las tasas de la fracción II correspondientes, con aumento de 25%
 
-V.- Tratándose de predios ejidales y comunales se causará el impuesto predial que corresponda a razón del 3% sobre el valor de la producción comercializada en los términos del Artículo 106 y en concordancia con el Artículo 108, ambos de la Ley Federal de Reforma Agraria; y
+> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
+
+V.- Tratándose de predios rústicos, ejidales, comunales, aprovechados para la producción agropecuaria, la tarifa será del 3% en los casos de posesión provisional se estará a lo dispuesto por la fracción IV del artículo 106 de la Ley Federal de Reforma Agraria. Cuando se desconozcan precios rurales de ventas, éstos serán fijados por el Ejecutivo a través de la Tesorería General del Estado;
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -183,9 +189,11 @@ En tratándose de los predios y edificaciones comprendidos en las Fracciones IV 
 
 #### Sección Segunda. Sujeto del Impuesto
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
+
 ###### Artículo 7o.
 
-Son sujetos del Impuesto:
+Son sujetos del impuesto:
 
 I.- Los propietarios de predios a que se refiere la fracción I del Artículo 5o.;
 
@@ -193,7 +201,9 @@ II.- Los poseedores de predios a que se refieren la fracción II del Artículo 5
 
 III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad, o los terceros adquirentes por cualquier acto derivado de un fideicomiso.
 
-IV.- Los ejidatarios; y
+> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
+
+IV.- Los ejidatarios y comuneros si el aprovechamiento de los predios es individual y los núcleos de población ejidal o comunal, si es colectivo;
 
 V.- Los propietarios de Plantas de Beneficio y Establecimientos Metalúrgicos.
 
@@ -205,15 +215,17 @@ I.- Los adquirentes, por cualquier título, de predios a que aluden las fraccion
 
 II.- Los propietarios de predios que hubiesen prometido en ventao (sic) hubieran vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción II del Artículo 5o.;
 
-III.- Los núcleos de población ejidal y los ejidatarios, los integrantes de colonias agrícolas y sociedades de créditos agrícolas, en lo que respecta a los terrenos que posean mancomunadamente;
+> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
+
+III.- Los núcleos de población ejidal o comunal y los ejidatarios o comuneros, los comisariados ejidales y de bienes comunales, los integrantes de colonias agrícolas, sociedades de crédito agrícola o ejidal y otras agrupaciones de ejidatarios, comuneros o colonos, respecto de los bienes que posean mancomunadamente;
 
 IV.- Los adquirentes de plantas de Beneficio y Establecimientos Metalúrgicos; y
 
 V.- Los empleados de la Tesorería General del Estado que dolosamente expidan certificados de no adeudo del Impuesto Predial.
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, B.O. 27 DE JULIO DE 1977)</small>
 
-VI.- Los adquirientes de productos ejidales.
+VI.- Los adquirentes de productos ejidales o comunales y los intermediarios entre adquirentes productores de los mismos. En lo conducente les son aplicables las disposiciones del artículo 159 de ley.
 
 ###### Artículo 14.
 
@@ -271,7 +283,9 @@ XIV.- Manzana, la superficie de terreno delimitada por la vía pública.
 
 El valor catastral será determinado por la Tesorería General del Estado, el cual podrá ser provisional o definitivo.
 
-Todos los predios del Estado, aún los que estén beneficiados por exenciones, deberán ser objeto del avalúo.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE JULIO DE 1977)</small>
+
+Todos los predios del Estado, aún los que estén beneficiados por las exenciones, deberán ser objeto del avalúo; excepto los predios rústicos ejidales aprovechados para la producción agropecuaria.
 
 ###### Artículo 17.
 
@@ -311,9 +325,21 @@ Si la fusión comprende parte de predios, mientras se practica la valuación cor
 
 #### Sección Tercera. Base, Tasas, Exenciones y Reducciones
 
+> <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
+
 ###### Artículo 9o.
 
-La Base del Impuesto es el valor catastral de los predios objeto del mismo.
+La base del impuesto será:
+
+I.- Tratándose de predios, urbanos, el valor catastral.
+
+II.- Tratándose de predios rústicos:
+
+a).- El valor de la producción anual comercializada, si se trata de terrenos ejidales o comunales aprovechados para la producción agropecuaria.
+
+b).- El valor catastral, en los demás casos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JULIO DE 1977)</small>
 
 #### Sección Cuarta. Definiciones
 
@@ -590,6 +616,10 @@ La cuota del impuesto predial es anual de acuerdo con lo dispuesto en el Artícu
 El pago por anualidad anticipada del Impuesto predial no impide el cobro de diferencias que deba hacer la Tesorería General del Estado, por cambio de las bases gravables o alteración de las cuotas del Impuesto.
 
 No obstante lo dispuesto el primer párrafo de este artículo, el pago de la cuota mínima que señala la Fracción III del artículo 10, se hará en una sola exhibición en el mes de enero de cada año.
+
+> <small>(ADICIONADO, B.O. 27 DE JULIO DE 1977)</small>
+
+Tratándose de predios ejidales aprovechados para la producción agropecuaria, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los treinta días siguientes a la fecha en que éstos se hubieren cosechado.
 
 ###### Artículo 53.
 
@@ -1265,15 +1295,19 @@ b).- Cantinas, en que solamente se expendan bebidas tales como vermouth, aperita
 
 c).- Cantinas, anexas a restaurantes, que expendan bebidas tales como vemouth, aperitales, anizados, vinos generosos, cremas, sidras, vinos de uva para mesa, tintos, rosados y blancos de $1,000.00 a $2,500.00;
 
-d).- Venta de vinos y licores en restaurante, de $1,625.00 a $12,500.00.
+> <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
 
-En estos establecimientos únicamente debe darse servicio de vinos y licores en el restaurante, sin poseer barra adicional para servicio al público.
+d).- Venta de vinos y licores en restaurante, de $250.00 a $12,500.00.
 
-e).- Cantina anexa a restaurantes, de $1,625.00 a $12,500.00;
+En estos establecimientos únicamente debe darse servicio de vinos y licores en el restaurante, sin poseer barra adicional para servicio al público;
 
-f).- Venta de vino de mesa nacionales, en restaurantes, de $250.00 a $940.00;
+> <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
 
-g).- Cantinas anexas a restaurantes, en donde sólo se expendan vinos de mesa nacionales, de $375.00 a $1,250.00;
+e).- Cantinas anexas a restaurante de $375.00 a $12,500.00;
+
+f).- (DEROGADO, B.O. 27 DE JULIO DE 1977)
+
+g).- (DEROGADO, B.O. 27 DE JULIO DE 1977)
 
 h).- Cabarets y cantinas, dentro de hoteles y centros de turismo de $2,450.00 a $12,500.00;
 
@@ -2739,11 +2773,11 @@ III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecina
 
 IV.- Lo señalado en la fracción IV, a la Unión Ganadera Regional de Sonora.
 
-> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, B.O. 27 DE JULIO DE 1977)</small>
 
 ###### Artículo 295.
 
-Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado, por cabeza de ganado que se movilice a otras entidades o se sacrifique en el interior del Estado, $50.00, de acuerdo al convenio celebrado por el Gobierno del Estado y la Unión Ganadera Regional, que fenece el 31 de agosto de 1979.
+Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado por cabeza de ganado que se sacrifique $50.00 moneda nacional, de acuerdo con el Convenio celebrado por el Gobierno del Estado y la Unión Ganadera Regional de Sonora, que fenece el 31 de agosto de 1979. Idéntica cuota se cubrirá por una sola vez, por cada cabeza que salga del predio, en los eventos a que se refiere el convenio de referencia.
 
 ###### Artículo 296.
 
@@ -3676,5 +3710,9 @@ B.O. 19 DE FEBRERO DE 1977.
 UNICO.- Esta ley entrará en vigor el día de su publicación en el Boletín Oficial del Estado.
 
 B.O. 4 DE JUNIO DE 1977.
+
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 27 DE JULIO DE 1977.
 
 UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
