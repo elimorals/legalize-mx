@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1938-12-30"
+last_updated: "1943-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1926-04-05"
 ---
 # LEY FORESTAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA DEROGADO POR EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY FORESTAL DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADA EL 17 DE MARZO DE 1943; ÚLTIMO ORDENAMIENTO QUE COMENZARÁ A SURTIR SUS EFECTOS DIEZ DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL "DIARIO OFICIAL" DE LA FEDERACIÓN]</small>
 
 LEY FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE MARZO DE 1943 (DEROGADA).
 
 Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
@@ -556,3 +556,27 @@ Se deroga el Decreto de 24 de noviembre de 1937, que derogó el artículo 69 de 
 Se restablece la vigencia del artículo 69 de la Ley Forestal de 5 de abril de 1926.
 
 > <small>[N. DE E. EL "DECRETO QUE RESTABLECE LA VIGENCIA DEL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.]</small>
+
+D.O. 17 DE MARZO DE 1943.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY FORESTAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+###### ARTICULO PRIMERO.
+
+Se derogan la ley de 5 de abril de 1926 y las disposiciones que se opongan a la presente ley.
+
+###### ARTICULO SEGUNDO.
+
+Esta ley comenzará a surtir sus efectos diez días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO TERCERO.
+
+Todas las concesiones y permisos otorgados conforme a la Ley Forestal de 5 de abril de 1926, subsistirán hasta la expiración de sus plazos, pero deberán sujetarse en su régimen interno a las prescripciones de la presente ley. Par el efecto, se les da un plazo de 180 días.
+
+###### ARTICULO CUARTO.
+
+En los casos de expropiación para la formación de Parques Nacionales, la Secretaría de Agricultura y Fomento podrá autorizar una moderada explotación del predio afectado, exclusivamente hasta lograr, con los productos forestales, el pago de la indemnización.
+
+###### ARTICULO QUINTO.
+
+Los propietarios, poseedores o explotadores, a cualquier título, de terrenos con vegetación forestal que estén ya amparados con permisos concedidos con anterioridad por las autoridades forestales, estarán obligados a registrar sus propiedades y permisos de explotación en el Registro Público Forestal, dentro de un plazo que no excederá de seis meses a contar de la fecha de la vigencia de la presente ley.
