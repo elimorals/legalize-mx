@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "1983-10-29"
+last_updated: "1987-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -55,11 +55,11 @@ III.- Sociales.
 
 IV.- Literarias.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1983)</small>
+(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 1987)
 
 ###### ARTICULO 3°.
 
-El Premio consistirá en la suma de $200,000.00 (DOSCIENTOS MIL PESOS 00/100) y diploma alusivo, que se entregará por cada área.
+El premio consistirá en la entrega en efectivo de la cantidad que resulte de multiplicar el salario mínimo vigente en la capital del Estado, a la fecha de la emisión de la Convocatoria respectiva, por ciento cincuenta veces.
 
 ###### ARTICULO 4°.
 
@@ -69,9 +69,11 @@ Los trabajos que se presenten deberán ser inéditos y contener una aportación 
 
 Sólo podrán concursar las personas que tengan su domicilio y radiquen habitualmente en el Estado.
 
+(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 1987)
+
 ###### ARTICULO 6°.
 
-Los trabajos se presentarán en la Secretaría General de Gobierno, a más tardar durante el mes de agosto de cada año, sujetándose a lo siguiente:
+Los trabajos se presentarán en la Dirección General de Desarrollo Social del Gobierno del Estado, a más tardar durante el mes de Agosto de cada año, sujetándose a lo siguiente:
 
 I.- Se presentarán por escrito, por quintuplicado, en castellano y en un mínimo de veinticinco cuartillas a doble espacio.
 
@@ -87,7 +89,9 @@ El jurado calificador se integrará de la siguiente manera:
 
 I.- Un representante del Gobernador del Estado, que será el Presidente.
 
-II.- El Director de Educación del Estado, que será el Secretario.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1987)</small>
+
+II.- El Jefe del Departamento de Educación del Estado, que será el Secretario.
 
 III.- Los Rectores de las Universidades Autónomas de Chihuahua y Ciudad Juárez, y
 
@@ -130,3 +134,7 @@ El Gobernador Constitucional, LIC. OSCAR ORNELAS K.; El Secretario General de Go
 P.O. 29 DE OCTUBRE DE 1983.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 1987.
+
+UNICO:- Las presentes reformas a la Ley que crea el "PREMIO CHIHUAHUA", entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
