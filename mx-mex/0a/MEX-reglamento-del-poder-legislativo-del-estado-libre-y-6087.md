@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2003-08-19"
+last_updated: "2004-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -49,9 +49,11 @@ Para los efectos de este reglamento se entenderá por: "Constitución" a la Cons
 
 La Legislatura sesionará en el recinto legislativo o en el que por decreto así se declare.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 4.
 
-La Legislatura, a propuesta de cuando menos la tercera parte de sus integrantes, elegirá en la segunda sesión del primer período ordinario a los integrantes de la Gran Comisión.
+La Legislatura, en la segunda sesión del primer período ordinario integrará a la Junta de Coordinación Política.
 
 ###### Artículo 5.
 
@@ -113,11 +115,13 @@ Los diputados electos que no hubieren asistido a la junta, rendirán protesta co
 
 ### CAPITULO III. DE LAS COMISIONES Y COMITES
 
-(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 13.
 
-Los cargos de los miembros de las comisiones legislativas, se incluirán en la propuesta de integración que formule la Gran Comisión, y serán un presidente, un secretario, un prosecretario y seis miembros.
+Los cargos de los miembros de las comisiones legislativas, se incluirán en la propuesta de integración que formule la Junta de Coordinación Política, y serán un presidente, un secretario, un prosecretario y seis miembros.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 Para su integración se considerará a los diputados de los diferentes grupos parlamentarios.
 
@@ -129,15 +133,19 @@ Al conocer de un asunto dos o más comisiones, los cargos de presidente, secreta
 
 Los presidentes de las comisiones conducirán los trabajos de estudio y dictamen y serán responsables de los documentos y expedientes que les sean entregados.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 16.
 
-Las reuniones de las comisiones no serán públicas, salvo que por acuerdo de sus integrantes puedan tener ese carácter.
+Las reuniones de las comisiones serán públicas, salvo que por acuerdo de sus integrantes no deban tener ese carácter.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 17.
 
-Para el mejor desempeño de sus trabajos, las comisiones podrán invitar por conducto del Presidente de la Gran Comisión, a servidores públicos del Estado y de los municipios cuyos conocimientos o información favorezcan el estudio del asunto a dictaminar.
+Para el mejor desempeño de sus trabajos, las comisiones podrán invitar por conducto del Presidente de la Junta de Coordinación Política, a servidores públicos del Estado y de los municipios cuyos conocimientos o información favorezcan el estudio del asunto a dictaminar.
 
-Asimismo, podrán solicitar a la Gran Comisión que se invite a personas y a los representantes de instituciones públicas o privadas para proveerse de elementos de juicio para dictaminar.
+Asimismo, podrán solicitar a la Junta de Coordinación Política que se invite a personas y a los representantes de instituciones públicas o privadas para proveerse de elementos de juicio para dictaminar.
 
 ###### Artículo 18.
 
@@ -147,11 +155,15 @@ Las reuniones de trabajo de las comisiones, a las que concurran servidores públ
 
 Las comisiones de dictamen, cuando lo estimen necesario para la mejor comprensión y estudio de las iniciativas de que conozcan podrán:
 
-I.- Por conducto de sus presidentes, pedir al Presidente de la Gran Comisión que solicite la información, datos o copias de documentos que estimen necesarios para el estudio de los asuntos a su cargo;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+I.- Por conducto de sus presidentes, pedir al Presidente de la Junta de Coordinación Política que solicite la información, datos o copias de documentos que estimen necesarios para el estudio de los asuntos a su cargo;
 
 II.- Proponer que la Legislatura acuerde solicitar al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia o a los presidentes municipales, la comparecencia ante la Asamblea, de servidores públicos en cuanto sea necesaria para el estudio de iniciativas de ley o decreto relacionados con el despacho de sus respectivas competencias;
 
-III.- Solicitar los servicios de asesoría profesional del sector público o privado, cuando se considere conveniente y previa aprobación del Presidente de la Gran Comisión.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III.- Solicitar los servicios de asesoría profesional del sector público o privado, cuando se considere conveniente y previa aprobación del Presidente de la Junta de Coordinación Política.
 
 ###### Artículo 20.
 
@@ -187,9 +199,15 @@ En las reuniones de trabajo de las comisiones se estudiarán los asuntos, primer
 
 Para que una comisión pueda realizar reuniones de trabajo deberán asistir la mayoría de sus integrantes, entre los que deberá estar quien la presida.
 
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Tratándose de comisiones unidas, para realizar sus reuniones se requerirá de la mitad más uno del total de los integrantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 25.
 
-La sustitución de algunos de los integrantes de las comisiones o comités, sólo será acordada por la Asamblea cuando de la motivación expresada en la propuesta de la Gran Comisión se desprenda la existencia de causa justificada.
+La sustitución de algunos de los integrantes de las comisiones o comités, sólo será acordada por la Asamblea cuando de la motivación expresada en la propuesta de la Junta de Coordinación Política se desprenda la existencia de causa justificada.
 
 Salvo que se trate de falta absoluta o licencia definitiva, el diputado a sustituir podrá expresar lo que a su interés convenga.
 
@@ -242,6 +260,10 @@ Los grupos parlamentarios coadyuvarán al mejor desarrollo del proceso legislati
 ###### Artículo 35.
 
 Durante los períodos ordinarios, la Legislatura sesionará por lo menos una vez por semana o cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes.
 
 ###### Artículo 36.
 
@@ -457,6 +479,14 @@ Durante las sesiones, los diputados podrán inconformarse con los acuerdos que d
 
 Antes de la clausura de los períodos ordinarios, la secretaría dará cuenta de los asuntos que hubiera en cartera y serán resueltos los que hayan sido dictaminados y aquellos que sean declarados de obvia o urgente resolución; los demás serán remitidos a la Diputación Permanente para que continúe su trámite.
 
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Las comisiones legislativas y los comités continuarán sus trabajos de estudio respecto de las iniciativas o asuntos que les hayan sido turnados y que se encuentren pendientes de resolución.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Darán cuenta de los dictámenes al Presidente de la Legislatura o de la Diputación Permanente de conformidad con los términos establecidos en la ley.
+
 ###### Artículo 67.
 
 Las determinaciones de la Diputación Permanente se tomarán por mayoría de votos, teniendo el presidente o quien lo supla, en caso de empate, voto de calidad.
@@ -473,9 +503,11 @@ El diputado que presente una iniciativa se denominará diputado presentante.
 
 Las iniciativas que no provengan de los diputados, serán leídas por uno de los secretarios, sin perjuicio de que puedan darle lectura los dos, o inciuso (sic) los prosecretarios, siempre que sea recomendable por la extensión de aquéllas.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 70.
 
-Las iniciativas de ley o decreto que sean presentadas a la Legislatura, pasarán desde luego a las comisiones de dictamen correspondientes.
+Las iniciativas de ley o decreto que sean presentadas a la Legislatura, pasarán desde luego a la comisión o a las comisiones legislativas correspondientes.
 
 ###### Artículo 71.
 
@@ -493,9 +525,11 @@ III.- Agotadas las intervenciones se preguntará a la Asamblea si se admite o no
 
 Si los firmantes constituyeren mayoría, el presidente acordará el trámite que corresponda.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 73.
 
-Los asuntos serán turnados por lo menos a dos comisiones, salvo que el presidente considere que deba ser una sola.
+Los asuntos serán turnados a la comisión que le corresponda en razón del tema a tratar, pudiendo ser turnados a dos y en su caso recabarse la opinión de una tercera comisión cuando el asunto de que se trate sea también de su competencia.
 
 ###### Artículo 74.
 
@@ -503,9 +537,11 @@ La dispensa de trámites a que se refiere la Constitución y la ley, será solic
 
 ### CAPITULO VII. DE LOS DICTAMENES
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 75.
 
-Cuando un asunto sea turnado a varias comisiones, éstas trabajarán unidas y emitirán un solo dictamen por mayoría de votos de sus integrantes. Los dictámenes serán aprobatorios o desaprobatorios.
+Cuando un asunto sea turnado a varias comisiones, éstas trabajarán unidas y emitirán un solo dictamen por mayoría de votos de los integrantes de cada una de las comisiones. Los dictámenes serán aprobatorios o desaprobatorios.
 
 ###### Artículo 76.
 
@@ -935,7 +971,9 @@ Las comisiones de protocolo serán integradas por uno de los miembros de la dire
 
 En la última sesión de cada período de sesiones, el presidente designará comisiones protocolarias para informar al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia de la clausura del período.
 
-### CAPITULO XIII. DEL REGISTRO LEGISLATIVO Y DEL DIARIO DE DEBATES
+> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE ABRIL DE 2004)</small>
+
+### CAPITULO XIII. DEL REGISTRO LEGISLATIVO, DEL DIARIO DE DEBATES Y DE LA GACETA PARLAMENTARIA
 
 ###### Artículo 142.
 
@@ -955,15 +993,45 @@ La Legislatura contará con un órgano oficial de difusión denominado "Diario d
 
 El contenido del "Diario de Debates", deberá ser recopilado para su publicación oficial al término de cada período ordinario, debiendo editarse en un plazo no mayor de seis meses.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
 ###### Artículo 146.
 
-La Gran Comisión dará la difusión necesaria al "Diario de Debates", disponiendo al efecto su distribución, debiendo conservar ejemplares para la biblioteca del Poder Legislativo. Los diputados recibirán un ejemplar.
+La Junta de Coordinación Política dará la difusión necesaria al "Diario de Debates" y a la "Gaceta Parlamentaria", disponiendo al efecto su distribución, debiendo conservar ejemplares para la biblioteca del Poder Legislativo. Los diputados recibirán un ejemplar de la Gaceta Parlamentaria, cuando menos, previamente a cada sesión de la Legislatura o de la Diputación Permanente.
 
-(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2004)
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 147.
 
-Las características y formas del "Diario de Debates", serán fijadas por el Presidente de la Gran Comisión, con la previa opinión de la Secretaría de Asuntos Parlamentarios.
+Las características y formas del "Diario de Debates" y de la "Gaceta Parlamentaria", serán fijadas por el Presidente de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+###### Artículo 147 Bis.
+
+La Gaceta Parlamentaria es un órgano de difusión interna, podrá publicar lo siguiente:
+
+a) El acta de la sesión anterior;
+
+b) Los Acuerdos del Pleno de la Legislatura y de Comisiones y Comités, así como sus informes;
+
+c) Minutas enviadas por el H. Congreso de la Unión;
+
+d) Los puntos de acuerdo y el contenido de los asuntos que se trataron en el Pleno y en Comisiones Legislativas y Comités;
+
+e) Comunicaciones de los Poderes de la Unión, de los Poderes Ejecutivo y Judicial del Estado, de los ayuntamientos, así como de las Legislaturas de los demás Estados;
+
+f) Las iniciativas de ley o decreto que se presenten a la Legislatura;
+
+g) Los dictámenes emitidos por las comisiones y los votos particulares que sobre los mismos se presenten;
+
+h) Las proposiciones y los acuerdos de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, cuando lo estimen necesario;
+
+i) Las convocatorias y el orden del día de las reuniones de las Comisiones Legislativas y los Comités de la Legislatura;
+
+j) Los informes que comunique por escrito a la Legislatura el Gobernador del Estado de su salida al extranjero o su ausencia de la entidad hasta por quince días, en donde informe de las acciones realizadas;
+
+k) Los demás documentos que envíen a la Directiva de la Legislatura, cuando lo estime necesario.
 
 ### CAPITULO XIV. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
 
@@ -971,11 +1039,11 @@ Las características y formas del "Diario de Debates", serán fijadas por el Pre
 
 La Contaduría General de Glosa se regirá por lo dispuesto en su ley orgánica y su reglamento.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 149.
 
-La Secretaría de Asuntos Parlamentarios estará a cargo de un titular denominado Secretario de Asuntos Parlamentarios que será nombrado por la Legislatura a propuesta de la Gran Comisión.
+La Secretaría de Asuntos Parlamentarios estará a cargo de un titular denominado Secretario de Asuntos Parlamentarios que será nombrado por la Legislatura a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del Presidente de la misma y por lo que hace a las funciones del proceso legislativo, del Presidente de la Directiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -989,11 +1057,11 @@ II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o d
 
 III.- Poseer título de licenciado en derecho, con antigüedad mínima de tres años.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 151.
 
-La organización administrativa de la Secretaría de Asuntos Parlamentarios será la que determine la Gran Comisión y la establecida en el manual de organización.
+La organización administrativa de la Secretaría de Asuntos Parlamentarios será la que determine la Junta de Coordinación Política y la establecida en el manual de organización.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1001,29 +1069,37 @@ La organización administrativa de la Secretaría de Asuntos Parlamentarios ser�
 
 Corresponden a la Secretaría de Asuntos Parlamentarios, las siguientes atribuciones:
 
-I.- Auxiliar a los secretarios de la directiva de la Legislatura en el ejercicio de sus funciones;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+I.- Auxiliar al Presidente y a los secretarios de la directiva de la Legislatura en el ejercicio de sus funciones;
 
 II.- Coordinar las actividades de las áreas administrativas a su cargo;
 
-III.- Acordar con el Presidente de la Gran Comisión el despacho de los asuntos de su competencia;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-IV.- Proporcionar los servicios de apoyo necesarios para la celebración de sesiones de la Legislatura, de la Diputación Permanente, de la Gran Comisión y de las reuniones de trabajo de las comisiones y comités;
+III.- Acordar con el Presidente de la Junta de Coordinación Política el despacho de los asuntos de su competencia;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+IV.- Proporcionar los servicios de apoyo necesarios para la celebración de sesiones de la Legislatura, de la Diputación Permanente, de la Junta de Coordinación Política y de las reuniones de trabajo de las comisiones y comités;
 
 V.- Formular y preparar la documentación que se requiera para el funcionamiento del proceso legislativo;
 
 VI.- Presentar para su firma las resoluciones y correspondencia del presidente y secretarios de la Legislatura y de la Diputación Permanente, así como remitir en tiempo y forma las leyes, decretos o acuerdos para su promulgación y publicación;
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-VII.- Proporcionar a las comisiones, comités, grupos parlamentarios y diputados en particular, los apoyos y atención que requieran, para el adecuado cumplimiento de sus funciones legislativas;
+VII.- Proporcionar a las comisiones, comités, grupos parlamentarios y diputados en particular, los apoyos, atención y documentación que requieran, para el adecuado cumplimiento de sus funciones legislativas;
 
 VIII.- Atender los servicios de estenografía y/o taquigrafía, grabación, sonido y cualquier otro mecanismo técnico autorizado;
 
 IX.- Cuidar y conservar el archivo histórico y biblioteca de la Legislatura;
 
-X.- Coadyuvar en la vigilancia de la impresión, publicación y distribución del "Diario de Debates";
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XI.- Ejercer el control y supervisión del personal de seguridad y vigilancia de la Legislatura;
+X.- Coadyuvar en la vigilancia de la impresión, publicación y distribución del "Diario de Debates" y de la "Gaceta Parlamentaria";
+
+XI.- (DEROGADA, G.G. 30 DE ABRIL DE 2004)
 
 XII.- Llevar libros de control para el despacho de los asuntos de recepción y remisión de documentos, en los que se asienten los documentos recibidos por la Oficialía de Partes;
 
@@ -1041,11 +1117,15 @@ XVI.- Coordinar y supervisar las actividades realizadas por los secretarios téc
 
 XVII.- Coordinar y supervisar las actividades realizadas por la Coordinación Jurídica de la Legislatura; y
 
-XVIII.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente y la Gran Comisión.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XVIII.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente, la Junta de Coordinación Política y la Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 153.
 
-La Contraloría es la dependencia de control de la Legislatura y estará a cargo de un titular denominado Contralor, quien será nombrado por la Asamblea a propuesta de la Gran Comisión y dependerá jerárquicamente del presidente de la misma.
+La Contraloría es la dependencia de control de la Legislatura y estará a cargo de un titular denominado Contralor, quien será nombrado por la Asamblea a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del presidente de la misma.
 
 ###### Artículo 154.
 
@@ -1055,11 +1135,17 @@ Para ser Contralor se requieren los mismos requisitos que para Oficial Mayor, ex
 
 La Contraloría tendrá las siguientes atribuciones:
 
-I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, tratándose de los diputados, los demás servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, poniéndolos en estado de resolución para someterlos a la Gran Comisión;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-II.- Fincar las responsabilidades administrativas e imponer las sanciones que corresponden haciéndolas efectivas cuando así lo acuerde la Gran Comisión;
+I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, tratándose de los diputados, los demás servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, poniéndolos en estado de resolución para someterlos a la Junta de Coordinación Política;
 
-III.- Ejecutar, por acuerdo de la Gran Comisión, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+II.- Fincar las responsabilidades administrativas e imponer las sanciones que correspondan haciéndolas efectivas cuando así lo acuerde la Junta de Coordinación Política;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III.- Ejecutar, por acuerdo de la Junta de Coordinación Política, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
 
 IV.- Vigilar que los servidores públicos cumplan con la obligación de presentar su Manifestación de Bienes, de conformidad con la ley de la materia, debiendo recibirlas, registrarlas y custodiarlas, dando seguimiento a su evolución patrimonial;
 
@@ -1067,7 +1153,9 @@ V.- Contar con un sistema de atención de quejas y denuncias, respecto de la act
 
 VI.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
 
-VII.- Establecer dentro del ámbito de su competencia, los criterios de control y evaluación para optimizar la función de las dependencias administrativas de la Legislatura;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VII.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
 
 VIII.- Asesorar en el ámbito de su competencia a los órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
 
@@ -1077,15 +1165,21 @@ X.- Participar en los procesos de licitaciones para adquisiciones, arrendamiento
 
 XI.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
 
-XII.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Gran Comisión, así como de las dependencias del Poder Legislativo;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XII.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Junta de Coordinación Política, así como de las dependencias del Poder Legislativo;
 
 XIII.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como de recursos materiales y financieros del Poder Legislativo;
 
 XIV.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
 
-XV.- Informar anualmente a la Asamblea, por conducto del Presidente de la Gran Comisión, de las labores desarrolladas;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XVI.- Las demás que le señalen los ordenamientos legales o que determine la Gran Comisión o su presidente.
+XV.- Informar anualmente a la Asamblea, por conducto del Presidente de la Junta de Coordinación Política, de las labores desarrolladas;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XVI.- Las demás que le señalen los ordenamientos legales o que determine la Junta de Coordinación Política o su presidente.
 
 ###### Artículo 156.
 
@@ -1097,11 +1191,11 @@ La Contraloría contará con las unidades administrativas y el presupuesto neces
 
 La Secretaría de Administración y Finanzas, es la dependencia del Poder Legislativo encargada de la administración de la Legislatura.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 158.
 
-La Secretaría de Administración y Finanzas, tendrá como titular un Secretario, nombrado por la Legislatura a propuesta de la Gran Comisión.
+La Secretaría de Administración y Finanzas, tendrá como titular un Secretario, nombrado por la Legislatura a propuesta de la Junta de Coordinación Política.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1127,13 +1221,21 @@ II.- Definir y establecer objetivos, políticas y procedimientos en materia de a
 
 III.- Brindar apoyo a las dependencias del Poder Legislativo para su óptimo funcionamiento;
 
-IV.- Elaborar el proyecto de presupuesto anual de egresos del Poder Legislativo de acuerdo a los lineamientos de la Gran Comisión;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-V.- Vigilar que se ejerza el presupuesto de acuerdo a la programación y calendarización aprobadas;
+IV.- Elaborar el proyecto de presupuesto anual de egresos del Poder Legislativo de acuerdo a los lineamientos de la Junta de Coordinación Política;
 
-VI.- Realizar y tramitar con la autorización del Presidente de la Gran Comisión, las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-VII.- Informar periódicamente a la Gran Comisión y al Comité de Administración del ejercicio y desarrollo del presupuesto y programas;
+V.- Realizar y tramitar con la autorización del Presidente de la Junta de Coordinación Política, las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VI.- Dar a conocer al Comité de Administración las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VII.- Informar periódicamente a la Junta de Coordinación Política del ejercicio y desarrollo del presupuesto y programas;
 
 VIII.- Administrar la aplicación de los recursos y efectuar las comprobaciones, para efectos de la contabilidad pública;
 
@@ -1161,13 +1263,19 @@ XIX.- Desarrollar permanentemente programas de modernización y simplificación 
 
 XX.- Elaborar los instrumentos técnico administrativos que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
 
-XXI.- Las demás que le señalen los ordenamientos legales aplicabies (sic) y las que determine la Gran Comisión o su presidente.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+XXI.- Ejercer el control y supervisión del personal de seguridad y vigilancia de la Legislatura;
+
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XXII.- Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política o su presidente.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 161.
 
-La Secretaría de Administración y Finanzas, contará con las unidades administrativas que determine la Gran Comisión y que serán las necesarias para cumplir con sus funciones y se establecerán en el respectivo manual de organización.
+La Secretaría de Administración y Finanzas, contará con las unidades administrativas que determine la Junta de Coordinación Política y que serán las necesarias para cumplir con sus funciones y se establecerán en el respectivo manual de organización.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1207,21 +1315,21 @@ I. Organizar, coordinar y controlar el desarrollo del Proceso de Comunicación e
 
 II. Proponer las subdirecciones, jefaturas, departamentos y personal requerido para el cumplimiento de sus actividades;
 
-> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-III. Definir y establecer objetivos, políticas y procedimientos en materia de comunicación;
+III. Definir y establecer objetivos, políticas y procedimientos en materia de comunicación, en coordinación con el comité de Comunicación Social;
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
 
 IV. Administrar en coordinación con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
 
-> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-V. Brindar apoyo a las Dependencias del Poder Legislativo para la difusión de actividades legislativas;
+V. Brindar apoyo a las Dependencias del Poder Legislativo para la difusión de actividades legislativas, previo acuerdo del Comité de Comunicación Social;
 
-> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-VI. Apoyar a la Gran Comisión en el acopio y difusión de información legislativa;
+VI. Apoyar a la Junta de Coordinación Política en el acopio y difusión de información legislativa;
 
 > <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
@@ -1253,7 +1361,9 @@ VI. Revisar los proyectos de iniciativa de ley y reglamentos que le someta a con
 
 VII. Brindar asesoría y apoyo técnico a los órganos de gobierno y de dirección que el Secretario de Asuntos Parlamentarios le instruya; y
 
-VIII. Las demás que le señalen los ordenamientos legales aplicables y las que determine la Gran Comisión, su presidente o el Secretario de Asuntos Parlamentarios.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VIII. Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política, su presidente o el Secretario de Asuntos Parlamentarios.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1299,7 +1409,9 @@ l. La documentación para ocupar el puesto de secretario técnico, se recibirá 
 
 II. El Secretarlo de Asuntos Parlamentarios recibirá las solicitudes y documentación correspondiente y, en un plazo no mayor de 15 días hábiles, aplicará los exámenes de selección;
 
-III. Analizados los perfiles de cada aspirante, el Secretario de Asuntos Parlamentarios, propondrá al Presidente de la Gran Comisión, una terna para que los Presidentes de las Comisiones respectivas los entrevisten y designen a la persona que ocupará el cargo de secretario técnico;
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III. Analizados los perfiles de cada aspirante, el Secretario de Asuntos Parlamentarios, propondrá al Presidente de la Junta de Coordinación Política, una terna para que los Presidentes de las Comisiones respectivas los entrevisten y designen a la persona que ocupará el cargo de secretario técnico;
 
 IV. En un plazo que no deberá exceder de 3 días hábiles, el Presidente de la Comisión formulará su designación y, una vez electos, se procederá a darlos de alta y a tomarles protesta;
 
@@ -1319,11 +1431,15 @@ II. Elaborar los proyectos legislativos que les instruyan las comisiones y en su
 
 III. Informar al Secretario de Asuntos Parlamentarios de los acuerdos recaídos en las sesiones de las comisiones legislativas o comités según corresponda; así como los proyectos legislativos o de estudio que tengan a su cargo;
 
-IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y
+IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y (sic)
 
-> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G 30 DE ABRIL DE 2004)</small>
 
-V. Las demás que le señale la Ley Orgánica del Poder Legislativo, el reglamento, el presidente de la comisión o comité respectivo y el Secretario de Asuntos Parlamentarios.
+V. Llevar un control de los asuntos que les sean encomendados con sus respectivos expedientes y mantenerlo actualizado para ser entregado al término de la Legislatura que corresponda al Pleno de la nueva Comisión;
+
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VI. Las demás que le señale la Ley Orgánica del Poder Legislativo, el reglamento, el presidente de la comisión o comité respectivo y el Secretario de Asuntos Parlamentarios.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1333,39 +1449,65 @@ Los secretarios técnicos seleccionados, podrán ser removidos a propuesta del p
 
 La propuesta de remoción deberá ser suscrita por todos los integrantes de la comisión o comité respectivo, y dirigida al Secretario de Asuntos Parlamentarios.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 172.
 
-El Secretario de Asuntos Parlamentarios turnará la promoción a la Gran Comisión para su sustanciación, dentro de los tres días hábiles siguientes a su recepción.
+El Secretario de Asuntos Parlamentarios turnará la promoción a la Junta de Coordinación Política para su sustanciación, dentro de los tres días hábiles siguientes a su recepción.
 
-La Gran Comisión, a través de su secretario, notificará al presidente de la comisión o comité respectivo y al secretario técnico que se pretenda remover, que tienen un plazo de cinco días hábiles para que aleguen por escrito, lo que a su derecho convenga, a efecto de que la Gran Comisión emita la resolución definitiva al término del plazo señalado.
+La Junta de Coordinación Política, a través de su secretario, notificará al presidente de la comisión o comité respectivo y al secretario técnico que se pretenda remover, que tienen un plazo de cinco días hábiles para que aleguen por escrito, lo que a su derecho convenga, a efecto de que la Junta de Coordinación Política emita la resolución definitiva al término del plazo señalado.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 173.
 
-En caso de que el fallo de la Gran Comisión determine la remoción del secretario técnico, el Secretario de Asuntos Parlamentarios cumplimentará la resolución de la Gran Comisión para buscar de entre el directorio de candidatos al puesto de secretario técnico, una terna que contenga el nombre de los aspirantes que hubieren obtenido las mejores puntuaciones para suplir a aquel que fue removido. El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
+En caso de que el fallo de la Junta de Coordinación Política determine la remoción del secretario técnico, el Secretario de Asuntos Parlamentarios cumplimentará la resolución de la Junta de Coordinación Política para buscar de entre el directorio de candidatos al puesto de secretario técnico, una terna que contenga el nombre de los aspirantes que hubieren obtenido las mejores puntuaciones para suplir a aquel que fue removido. El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 174.
 
-En caso de no existir candidatos para constituir la terna a la que se refiere el artículo anterior el Secretario de Asuntos Parlamentarios preparará el proyecto de convocatoria extraordinario para que el presidente de la Gran Comisión la revise y en su caso la publique en la gaceta del gobierno.
+En caso de no existir candidatos para constituir la terna a la que se refiere el artículo anterior el Secretario de Asuntos Parlamentarios preparará el proyecto de convocatoria extraordinario para que el presidente de la Junta de Coordinación Política la revise y en su caso la publique en la gaceta del gobierno.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 El procedimiento de selección para nuevos candidatos se ajustará a un plazo de ocho días hábiles, contados a partir de la publicación de la convocatoria.
 
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 175.
 
-Los secretarios técnicos de las comisiones o de los comités, tendrán derecho de preferencia para continuar en su cargo, cuando el presidente de la comisión legislativa o comité respectivo aproveche su experiencia y los propongan ante la Gran Comisión, y ésta los ratifique.
+Los secretarios técnicos de las comisiones o de los comités, tendrán derecho de preferencia para continuar en su cargo, cuando el presidente de la comisión legislativa o comité respectivo aproveche su experiencia y los propongan ante la Junta de Coordinación Política, y ésta los ratifique.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 176.
+
+El Instituto de Estudios Legislativos, es un órgano administrativo del Poder Legislativo del Estado de México, cuyo propósito es la investigación y difusión de los temas relacionados con el estudio de la historia, funciones, actividad y prácticas parlamentarias del Estado, así como coadyuvar tanto a los legisladores y demás servidores públicos de la Asamblea en el perfeccionamiento de los instrumentos jurídicos legislativos que se elaboren en la misma.
+
+El Instituto sin exclusión de otros propósitos, clasificará la información que en su caso suministra el Congreso de la Unión y los estatales, realizando investigaciones sobre los temas que atañen al Estado de México.
+
+> <small>(ADICIONADO, G.G. 30 ABRIL DE 2004)</small>
+
+###### Artículo 177.
+
+Para ser Vocal Ejecutivo del Instituto de Estudios Legislativos de la Legislatura, se requiere:
+
+l. Tener cuando menos 30 años cumplidos el día de su designación;
+
+Il. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
+
+III. Ser designado por el pleno de la Legislatura, a propuesta de la Junta de Coordinación Política contando con la aprobación del Comité de Estudios Legislativos;
+
+IV. Ser mexiquense, en los términos de lo establecido por el artículo 23 de la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+###### Artículo 178.
 
 El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su reglamento.
 
@@ -1422,3 +1564,17 @@ TERCERO.- Cuando se haga referencia en un ordenamiento legal a la Oficialía May
 CUARTO.- El Oficial Mayor y el Director General de Administración desempeñarán, el cargo de Secretario de Asuntos Parlamentarios y Secretario de Administración y Finanzas, respectivamente, de manera provisional, adecuando su denominación.
 
 QUINTO.- La convocatoria para nombrar Secretarios Técnicos de las comisiones y de los comités de la "LV" Legislatura será publicada el jueves veintiocho de agosto del dos mil tres.
+
+G.G. 30 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", o se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
+
+CUARTO.- La Gaceta Parlamentaria establecida en el presente Decreto, es de naturaleza distinta a la señalada en el Reglamento Interno del Instituto de Estudios Legislativos del Poder Legislativo. Para evitar confusiones, en el próximo período ordinario de sesiones de la Legislatura, se modificará la denominación de la editada por el Instituto de Estudios Legislativos.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+SEXTO.- Las disposiciones concernientes a la integración y período de duración de la Directiva, así como a la denominación del órgano Junta de Coordinación Política, serán vigentes hasta en tanto entren en vigor las reformas a la Constitución Política del Estado Libre y Soberano de México, aprobadas por esta Legislatura.
