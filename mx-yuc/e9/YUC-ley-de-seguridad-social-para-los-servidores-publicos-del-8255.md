@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1989-11-09"
+last_updated: "1991-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -99,17 +99,19 @@ En casos especiales el Instituto podrá celebrar convenios con las Entidades Pú
 
 En todo momento el Instituto podrá contratar o subrogar los servicios con otras Instituciones o personas cuando esté en imposibilidad de prestarlos directamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 8o.
 
 Para cubrir las obligaciones y compromisos del Instituto, así como para satisfacer los gastos de administración, se constituye su patrimonio, con los siguientes bienes, derechos y privilegios:
 
-I.- Un fondo social permanente de $ 1 000,000.00 UN MILLON DE PESOS.
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 1979)</small>
+I.- Un fondo parcial permanente de un millón de pesos.
 
-II.- Las aportaciones ordinarias a título de cuotas a cargo de los servidores públicos en los siguientes términos: un 2 por ciento de su sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir los seguros de enfermedades y de maternidad; y un 6 por ciento para tener derecho a las demás prestaciones;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1991)</small>
+
+II.- Las aportaciones ordinarias a título de cuotas a cargo de los servidores públicos en los siguientes términos: un dos por ciento de su sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir los seguros de enfermedades y de maternidad; y un 6 por ciento para tener derecho a las demás prestaciones. Los servidores públicos que perciban por jornada normal de trabajo únicamente el salario mínimo o menos de esa cantidad, quedan relevados del pago de las aportaciones ordinarias que se fijan en esta fracción, mismas que estarán a cargo exclusivo de las entidades públicas estatales. No disfrutarán de este derecho, los servidores públicos cuyo salario se determinen por horas de trabajo.
 
 (REFORMADA, D.O. 2 DE ENERO DE 1979) (F. DE E., D.O. 8 DE ENERO DE 1979)
 
@@ -159,11 +161,13 @@ En ningún caso y por autoridad alguna se podrá disponer de los fondos del Inst
 
 Tienen el carácter de obligatorias las aportaciones a cargo de los servidores públicos, los jubilados y los pensionados. Por consiguiente, quedan obligados a consentir los descuentos que realice su pagaduría sobre sus sueldos, pensiones y salarios, en los términos que señala el artículo anterior.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 10.
 
-La mora en el pago de todas o de una de las aportaciones a cargo de los obligados por esta Ley, será causa para la suspensión inmediata de los derechos que la misma les confiere. Tan pronto como se cubra el adeudo se reanudarán los servicios y obligaciones correspondientes. El Consejo Directivo dictará en cada caso resoluciones fundadas al respecto.
+La mora en el pago de todas o de una de las aportaciones a cargo de los obligados por esta Ley, será causa de la suspensión inmediata de los derechos que la misma les confiere. Tan pronto como se cubra el adeudo se reanudarán los servicios y obligaciones correspondientes. El Consejo Directivo dictará en cada caso resoluciones fundadas al respecto.
+
+Si la mora en el pago de las aportaciones, es imputable únicamente a la Entidad Pública Estatal, los servidores públicos no serán afectados por la suspensión de sus derechos.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -309,9 +313,13 @@ f).- El plan de prestación de servicios y ministraciones no comprendidos espec�
 
 ### CAPITULO CUARTO. Seguro de Cesantía o Separación
 
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 29.
 
-Se establece el Seguro de Cesantía o Separación para el servidor público, que sin derecho a pensión, deje definitivamente el servicio por cualquier causa. El importe del Seguro será igual al total de sus aportaciones del seis por ciento para prestaciones generales a que se refiere la parte final de la fracción II del artículo 8o. de esta Ley. El Seguro lo cubrirá el Instituto dentro de los treinta días siguientes a la fecha de la solicitud respectiva. Con su pago se extinguirán los derechos y obligaciones del afectado.
+Se establece el Seguro de Cesantía o Separación para el servidor público, que sin derecho a pensión, deje definitivamente el servicio por cualquier causa. El importe del Seguro será igual al total de sus aportaciones del 6 por ciento para prestaciones generales a que se refiere la fracción II del Artículo 8 de esta Ley. El Seguro lo cubrirá el Instituto dentro de los 30 días siguientes a la fecha de la solicitud respectiva. Con su pago se extinguirán los derechos y obligaciones del afectado.
+
+Los servidores públicos que sean jubilados o pensionados por el Gobierno del Estado, el Instituto o las Entidades Públicas Estatales, a partir de la fecha en que entre en vigor la modificación a este artículo, disfrutarán de este derecho, pero el importe del seguro a cobrar, será el 50% del total de las aportaciones ordinarias a que este artículo se refiere. Su pago no extinguirá los derechos y obligaciones que como jubilados y pensionados les otorga o impone esta Ley.
 
 ###### Artículo 30.
 
@@ -327,11 +335,13 @@ Del importe del seguro se deducirán los adeudos por préstamos a corto plazo en
 
 Si el servidor público que hubiere hecho efectivo el Seguro de Cesantía o Separación reingresa al servicio antes de diez años a contar de la fecha de su separación, tendrá derecho para los efectos de esta Ley, a que se le acrediten los años de servicios comprendidos en aquel seguro, siempre que pague al Instituto el importe del seguro cobrado, más el interés del nueve por ciento anual, por el período comprendido entre la fecha en que se hizo efectivo el seguro y la de su reingreso.- (sic) El Consejo podrá conceder un préstamo especial para este caso.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 33.
 
-Cuando un servidor público con quince o más años de servicios e igual tiempo de aportaciones al patrimonio del Instituto, pero con menos de cincuenta y cinco años de edad, deje de ser sujeto de esta Ley, podrá optar por el Seguro de Cesantía o Separación, o bien dejar su importe en poder del Instituto para que tan pronto como cumpla aquella edad ejercite su derecho de jubilación. En este caso deberá manifestar su reserva por escrito, dentro del término de treinta días a contar del día en que deje de ser sujeto a esta Ley. Si fallece antes de haber alcanzado la edad de cincuenta y cinco años, sus familiares o dependientes económicos tendrán derecho a recibir el seguro no cobrado.
+Cuando un servidor público con quince o más años de servicios e igual tiempo de aportaciones al patrimonio del Instituto, pero con menos de 55 años de edad, deje de ser sujeto de esta Ley, podrá optar por el Seguro de Cesantía o Separación, o bien dejar su importe en poder del Instituto para que tan pronto como se cumpla aquella edad ejercite su derecho de jubilación. En este caso, deberá manifestar su reserva por escrito, dentro del término de 30 días a contar de la fecha en que deje de ser sujeto de esta Ley. Si fallece antes de haber alcanzado la edad de 55 años, sus familiares y dependientes económicos que hubiere designado expresamente, tendrán derecho a recibir el Seguro no cobrado, cuyo importe generará intereses a favor de los beneficiarios, a la tasa del 12% anual, a partir del día en que se efectuó la reserva. Este beneficio será también concedido al servidor público que antes de cumplir 55 años, opte por cobrar el Seguro de Cesantía, sobre cuyo monto manifestó su reserva.
+
+Para efectos de este artículo, la pensión a pagar se calculará en la forma siguiente: El día que se constituya la reserva, se determinará la pensión que correspondería en esa fecha y el porciento que representa, en relación al salario mínimo general vigente en la ciudad de Mérida. Cumplido el tiempo y ejercitado el derecho a la jubilación, se determinará el importe de la pensión a pagar, con base en el salario mínimo general vigente en esta ciudad, aplicándole el porciento que resultó el día de constituirse la reserva.
 
 ### CAPITULO QUINTO. Seguro de Fallecimiento
 
@@ -347,11 +357,13 @@ Se establece un seguro por fallecimiento del servidor público o del jubilado, s
 
 Tendrán derecho a recibir este seguro los familiares o dependientes económicos del servidor público o del jubilado, fallecidos, en el orden y la cuantía en que aparezcan designados como beneficiarios en carta testamentaria. Cuando no exista la carta testamentaria correspondiente, se tendrán como familiares o dependientes económicos del fallecido, con derecho a recibir este seguro, a las personas consideradas como tales en la presente Ley.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 36.
 
-Cuando no existan familiares o dependientes económicos del servidor público o del jubilado con derecho a recibir este seguro, el Instituto queda autorizado para ordenar que se cubran los gastos de defunción con tope hasta la cantidad de $ 5,000.00. El Consejo Directivo podrá aumentar el alcance de estos gastos por causa justificada hasta $10,000.00.
+Cuando no existan familiares o dependientes económicos del servidor público o del jubilado con derecho a recibir este seguro, el Instituto, queda autorizado para ordenar se cubran los gastos de defunción con tope hasta una cantidad igual a 5 meses del salario mínimo general vigente que rija en la Capital del Estado, en la fecha del fallecimiento.
+
+El Consejo Directivo podrá aumentar el pago de estos gastos, por causa justificada, hasta el doble de la cantidad anteriormente determinada.
 
 > <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
 
@@ -389,37 +401,47 @@ El Consejo Directivo del Instituto considerará en su presupuesto anual de egres
 
 ### CAPITULO SEPTIMO. Préstamos
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 42.
 
-El Instituto concederá a los servidores públicos y a los jubilados, préstamos a corto plazo, especiales e hipotecarios, utilizando a título de inversión los fondos y las reservas de su patrimonio. Los tipos de interés los fijará anualmente el Consejo Directivo, respetando el tope del 12 % anual. El interés se elevará automáticamente al 15 % anual a partir de la fecha en que el deudor deje de ser sujeto de esta Ley.
+El Instituto concederá a los servidores públicos y a sus jubilados, préstamos a corto plazo, especiales e hipotecarios, utilizando a título de inversión los fondos y las reservas de su patrimonio.
+
+Los jubilados y pensionados por el Gobierno del Estado o las Entidades Públicas Estatales, tendrán derecho a que se les conceda préstamos a corto plazo y especiales, con las modalidades y condiciones que se fijan en esta Ley.
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 43.
 
-En toda clase de préstamos se considerará que los abonos periódicos a que quede obligado el deudor no sobrepasen al 33% de sus percepciones mensuales, computables en los términos de la presente Ley o del alcance de la pensión jubilatoria.
+En toda clase de préstamos se considerará que los abonos periódicos a que quede obligado el deudor no sobrepasen el 40% de sus percepciones mensuales, computables en los términos de la presente Ley o del alcance de la pensión jubilatoria.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 44.
 
-Tendrá derecho a préstamos a corto plazo, el servidor público con más de un año de servicios. El importe del préstamo que se le conceda estará en relación directa con sus años de servicios, el monto de sus percepciones y el total de las aportaciones que acredite haber efectuado al Instituto. Cuando haya alcanzado veinticinco años o más de servicios, e igual tiempo de cotizaciones al Instituto, tendrá derecho a obtener un préstamo hasta por la suma de sus percepciones correspondientes a ocho meses. En todo caso deberá acreditar haber contribuido al patrimonio del Instituto con aportaciones por un período mínimo de un año.
+Tendrá derecho a préstamos a corto plazo, el servidor público con más de un año de servicios. El importe del préstamo, que se le conceda, estará en relación directa con sus años de servicios, el monto de sus percepciones y el total de las aportaciones que acredite haber efectuado el Instituto, con base en el 6% fijado en la fracción II del Artículo 8o. de esta Ley. Cuando haya alcanzado veinticinco años o más de servicios, e igual tiempo de cotizaciones al Instituto, tendrá derecho a obtener un préstamo hasta por la suma de sus percepciones correspondientes a ocho meses. En todo caso se deberá acreditar haber contribuido al patrimonio del Instituto con aportaciones por un período mínimo de un año.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 45.
 
-Las personas jubiladas por el Instituto gozarán también de los derechos señalados en el artículo anterior, pero el monto del préstamo no será mayor del saldo que resulte del seguro por fallecimiento, descontada la cantidad de $ 5,000.00 a que se refiere el artículo 36 de eta Ley; excepcionalmente el Consejo Directivo podrá ampliar el importe del préstamo cuando estime que la cuantía de la jubilación garantiza el pago del crédito. En ningún caso excederá de la suma de ocho meses de pensión.
+Las personas jubiladas por el Instituto gozarán también de los derechos señalados en el Artículo anterior pero el monto del préstamo será igual al importe del Seguro por fallecimiento. Excepcionalmente el Consejo Directivo podrá ampliar el importe del préstamo, cuando estime que la cuantía de la jubilación garantiza el pago del crédito, pero en ningún caso excederá del importe de ocho meses de pensión.
+
+El monto del préstamo que se otorgue a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales, será igual al importe de 3 meses de su pensión.
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 46.
 
-Los préstamos a corto plazo y sus intereses los cubrirá el deudor en abonos iguales, quincenales, en un plazo no mayor de 11 meses, y sólo se concederá un nuevo préstamo de esta clase cuando se encuentre liquidado el anterior. Sin embargo, podrá renovarse o ampliarse en su monto o plazo, si han transcurrido seis quincenas a partir de la fecha en que fue concedido y se está al corriente en los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que devengue el préstamo renovado o ampliado.
+Los préstamos a corto plazo y sus intereses los cubrirá el deudor en abonos iguales, quincenales, en un plazo no mayor de 12 meses; sólo se concederá un nuevo préstamo de esta clase, cuando se encuentre liquidado el anterior. Sin embargo, podrán renovarse o ampliarse en su monto y plazo, si ya transcurrieron seis quincenas a partir de la fecha de su otorgamiento y si está al corriente en el pago de los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que cause el préstamo renovado o ampliado.
 
-> <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 47.
 
-El préstamo a corto plazo y sus intereses quedan garantizados con el importe del seguro de cesantía o separación a que tenga derecho el deudor. Esta disposición no concede ni supone quita ni espera en favor del moroso. El Instituto deberá hacer efectivo el adeudo en los términos legales que procedan.
+El préstamo a corto plazo que se conceda a los Servidores Públicos y sus intereses, quedan garantizados con el importe del Seguro de Cesantía o Separación a que tenga derecho el deudor. El que se conceda a los jubilados por el Instituto y sus intereses, quedan garantizados con el importe del Seguro de Fallecimiento. El que se conceda a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales y sus intereses quedan garantizados, con el importe de la ayuda que para gastos funerarios les otorgue el Gobierno del Estado o las Entidades Públicas Estatales. En estos dos últimos casos, al documentarse el préstamo, el jubilado deberá manifestar expresamente su conformidad.
+
+Las anteriores disposiciones, no conceden ni suponen quita ni espera en favor del moroso. El Instituto deberá hacer efectivo el adeudo, en los términos legales que procedan.
 
 > <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
 
@@ -433,11 +455,17 @@ Todo préstamo a corto plazo se considera insoluto cuando el deudor deje definit
 
 El préstamo especial con garantía colateral será aquél que llene tal requisito a satisfacción del Director General. Estará destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación económica del servidor público y de su familia. El Director General calificará su procedencia y señalará los términos de la garantía colateral.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 50.
 
-El préstamo especial con garantía colateral deberá cubrirse dentro de un plazo o mayor de 24 meses, con intereses del 12 %, mediante pagos periódicos iguales o en una sola exhibición. Se documentará con arreglo a los títulos ejecutivos mercantiles y en ningún caso se hará la renovación o ampliación de esta clase de préstamos.
+El monto máximo del préstamo especial con garantía colateral que se otorgue al servidor público o al jubilado por el Instituto, será la cantidad que resulte de multiplicar por 24, el 40% de su sueldo o pensión mensual; causará interés del 12% anual y su pago se efectuará en un plazo máximo de 30 meses, mediante pagos periódicos iguales o en una sola exhibición.
+
+El monto máximo del préstamo especial con garantía colateral, que se otorgue a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales, será el importe de 5 meses de su pensión; causará interés del 12% anual y será cubierto en un plazo de 24 meses, mediante pagos periódicos iguales o en una sola exhibición.
+
+Todo préstamo especial se documentará con arreglo a los títulos ejecutivos mercantiles.
+
+En ningún caso se hará renovación o ampliación de esta clase de préstamos.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -531,39 +559,41 @@ b).- Por causas ajenas al servicio, en cuyo caso el derecho a pensión se adquie
 
 La cuota de la pensión que se pague al servidor público, a título de jubilación, se fijará como sigue:
 
-I.- Por jubilación necesaria o voluntaria, el tanto por ciento del sueldo último, en relación con los años de servicios, conforme a la tabla siguiente:
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
-15 años de servicios 40 %;
+I.- Por jubilación necesaria o voluntaria, el tanto por ciento del sueldo último, en relación con los años de servicio, conforme a la tabla siguiente:
 
-16 años de servicios 42.5 %;
+15 años de servicios.......... 50 %
 
-17 años de servicios 45 %;
+16 años de servicios.......... 52.5 %
 
-18 años de servicios 47.5 %;
+17 años de servicios.......... 55 %
 
-19 años de servicios 50 %;
+18 años de servicios.......... 57.5 %
 
-20 años de servicios 52.5 %;
+19 años de servicios.......... 60 %
 
-21 años de servicios 55 %;
+20 años de servicios.......... 62.5 %
 
-22 años de servicios 60 %;
+21 años de servicios.......... 65 %
 
-23 años de servicios 65 %;
+22 años de servicios.......... 67.5 %
 
-24 años de servicios 70 %;
+23 años de servicios.......... 70 %
 
-25 años de servicios 75 %;
+24 años de servicios.......... 72.5 %
 
-26 años de servicios 80%;
+25 años de servicios.......... 77.5 %
 
-27 años de servicios 85 %;
+26 años de servicios.......... 82.5 %
 
-28 años de servicios 90 %;
+27 años de servicios.......... 87.5 %
 
-29 años de servicios 95 %;
+28 años de servicios.......... 90 %
 
-30 o más años de servicios 100 por ciento.
+29 años de servicios.......... 95 %
+
+30 años de servicios..........100 %
 
 II.- Por inhabilitación parcial a causa o consecuencia del servicio; se tomará como base el sueldo último del servidor público y se aplicará al porcentaje fijado en la tabla de valuación de incapacidades de la Ley Federal del Trabajo;
 
@@ -971,11 +1001,11 @@ XI.- Proponer al Ejecutivo del Estado los proyectos de Reforma de esta Ley;
 
 XII.- En general, realizar todos aquellos actos y operaciones autorizadas por esta Ley y que fuesen necesarios para la mejor administración o gobierno del Instituto y prestación de sus servicios.
 
-> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 118.
 
-El Consejo Directivo sesionará cuantas veces lo estime necesario pero en ningún caso menos de cuatro veces al año. Las sesiones serán válidas con asistencia de cuando menos cuatro consejeros, tres de los cuales deberán ser representantes del Estado. La convocatoria a las sesiones será formulada por el Secretario del Consejo y deberá acompañar el orden del día sugerido y los documentos necesarios para su desahogo, que para tal efecto remita la Dirección General.
+El Consejo Directivo sesionará cuantas veces lo estime necesario, pero en ningún caso menos de dos veces al año. Las sesiones serán válidas con asistencia de cuando menos cuatro Consejeros, tres de los cuales deberán ser representantes del Estado. La convocatoria a las sesiones será formulada por el Secretario del Consejo y deberá acompañar el orden del día sugerido y los documentos necesarios para su desahogo, que para tal efecto remita la Dirección General.
 
 ###### Artículo 119.
 
@@ -1120,3 +1150,7 @@ D.O. 9 DE NOVIEMBRE DE 1989.
 PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 16 DE DICIEMBRE DE 1991.
+
+UNICO.- Este Decreto entrará en vigor el día 1º. de enero de 1992, previa su publicación en el Diario Oficial del Gobierno del Estado.
