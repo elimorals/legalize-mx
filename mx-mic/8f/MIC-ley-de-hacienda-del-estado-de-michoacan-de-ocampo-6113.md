@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1996-12-30"
+last_updated: "1999-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -207,7 +207,7 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 Es objeto del impuesto sobre Loterías, Rifas, Sorteos y Concursos, la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública. Para los efectos de este Impuesto, no se considera como premio el reintegro correspondiente al billete que permitió participar en loterías.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Segunda. Del Sujeto
 
@@ -307,7 +307,7 @@ Es objeto del Impuesto adicional para carreteras y construcción de edificios es
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 29.
 
@@ -319,7 +319,7 @@ De las Exenciones.
 
 ###### ARTICULO 30.
 
-La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el importe de los pagos por concepto de impuestos y derechos, excepto del Impuesto sobre Loterías, Rifas, Sorteos y Concursos y de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por inscripción de nacimientos, defunciones y autorización de matrimonios celebrados en las oficinas del registro civil en horas hábiles, así como, aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo vigente en el Estado de Michoacán, en la Ley de Ingresos del Estado.
+La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el importe de los pagos por concepto de impuestos y derechos, excepto del Impuesto sobre Loterías, Rifas, Sorteos y Concursos y de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por servicios de comunicaciones, por inscripción de nacimientos, defunciones y autorización de matrimonios celebrados en las oficinas del Registro Civil en horas hábiles, así como, aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo general vigente en el Estado de Michoacán, en la Ley de Ingresos del Estado.
 
 ###### ARTICULO 31.
 
@@ -705,7 +705,7 @@ III. Prestación de servicios, aquéllas que sea de índole mercantil, y
 
 IV. Comisión mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comitente; y mediación mercantil, la actividad que desarrolla el mediador para relacionar a los contratantes.
 
-Quedan comprendidas en esta fracción entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
+Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
 
 #### Sección Séptima. De las Rectificaciones
 
@@ -1203,9 +1203,7 @@ Las infracciones al presente capítulo se sancionarán de acuerdo con lo dispues
 
 Es objeto de este impuesto la producción o elaboración, la destilación, ampliación, mezcla o transformación de alcohol, aguardiente y otras bebidas alcohólicas, excepto cerveza.
 
-#### Sección Séptima
-
-De las Infracciones y Sanciones.
+#### Sección Séptima. De las Infracciones y Sanciones
 
 ###### ARTICULO 112.
 
@@ -1857,6 +1855,10 @@ A) Cambio de propietario respecto del registrado, cuando el nuevo propietario te
 
 B) Cambio de domicilio a una, población ubicada en circunscripción territorial distinta, a aquella que corresponda a la oficina recaudadora que haya expedido las placas que porte el vehículo de que se trate. Cuando el cambio de domicilio corresponda a la misma circunscripción territorial referida, únicamente solicitará la reposición de la tarjeta de circulación.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+C) Por perdida de una o ambas placas, por robo o destrucción total de vehículos por cambio de servicio y por restricción de circulación en otra entidad federativa.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 Para la dotación de placas a los vehículos a que se refieren los supuestos de los incisos anteriores, la documentación que se solicite como requisito por la autoridad fiscal estatal, será únicamente para efectos de inscripción de los vehículos, en el << Registro Estatal Vehicular >>, sin que dicho registro implique el reconocimiento de la autenticidad de los documentos, siendo responsabilidad de los particulares demostrar la misma, ante las autoridades competentes.
@@ -2071,9 +2073,9 @@ f) Los obreros, para asuntos laborales.
 
 ## TITULO CUARTO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO UNICO
+### CAPITULO I. FONDOS DE APORTACIONES FEDERALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 217.
 
@@ -2081,9 +2083,9 @@ Las contribuciones especiales que se establezcan a cargo de las personas que se 
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO. DE LAS APORTACIONES DE PARTICULARES Y APOYOS FEDERALES
+### CAPITULO II. TRANSFERENCIAS POR CONVENIO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 218.
 
@@ -2115,17 +2117,53 @@ Estarán exentos del pago las inserciones en el Periódico Oficial ordenadas por
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 221.
 
 Son participaciones los ingresos que sobre determinadas contribuciones federales o municipales reciba el Estado en virtud de leyes, decretos o convenios establecidos.
 
 Las participaciones concedidas al Estado en ingresos federales o municipales por las leyes respectivas, serán recaudadas por las autoridades fiscales competentes y con sujeción a lo que las mismas leyes prevengan.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+## TITULO SEXTO BIS. INGRESOS POR TRANSFERENCIAS DE LA FEDERACION DESTINADAS A FINES ESPECIFICOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO I. DE LAS APORTACIONES PARA OBRAS O SERVICIOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 221-A.
+
+Los ingresos del Estado provenientes de los Fondos de Aportaciones Federales, se percibirán conforme a lo que disponga la Ley de Coordinación Fiscal y en su caso, el Presupuesto de Egresos de la Federación para el año de que se trate.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO II. DE OTROS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 225 Se consideran otros ingresos, adicionales a los que se refiere el artículo anterior, los siguientes:
+
+I.- Los que perciba el Estado por concepto de empréstitos de conformidad con el decreto de autorización correspondiente;
+
+II.- Los reintegros de recursos otorgados por el Estado para financiar la operación de las entidades a que se refieren las fracciones V y VI del artículo 2° de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, que no hayan sido ejercidos al 31 de diciembre del año de que se trate;
+
+III.- Apoyos extraordinarios o subsidios que otorgue la Federación; y,
+
+IV.- Cualquier otro concepto distinto a los regulados en la presente Ley.
+
+T R A N S I T O R I O S
+
+###### ARTICULO 221-B.
+
+Los ingresos que se transfieran al Estado, derivados de reasignaciones del Presupuesto de Egresos de la Federación para el año de que se trate, para financiar programas coordinados, se percibirán conforme a los convenios respectivos.
+
 ## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
-
-## TITULO OCTAVO. DE OTROS INGRESOS
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 222.
 
@@ -2177,13 +2215,19 @@ Cuando se trate de transmisiones que se hagan al Gobierno del Estado, en los té
 
 Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo a la naturaleza y origen del crédito por medio del procedimiento de ejecución o por la vía judicial.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1989)</small>
+## TITULO OCTAVO. DE OTROS INGRESOS
+
+> <small>(REFORMADO SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 224.
 
-El Estado percibirá por concepto de aportaciones de particulares para la ejecución de obras públicas, los importes que se convengan por la Tesorería General del Estado, la unidad ejecutora correspondiente y los particulares, así como, las aportaciones y apoyos federales que se obtengan.
+El Estado percibirá los importes que, por concepto de aportaciones de particulares para la ejecución de obras públicas, se concierten por las dependencias o entidades ejecutoras con los particulares beneficiarios o interesados.
 
-T R A N S I T O R I O S
+De los acuerdos referidos en el párrafo anterior, deberá proporcionarse copia a la Tesorería General del Estado dentro de los 15 días siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las aportaciones concertadas.
+
+Asimismo, el Estado percibirá las aportaciones de los municipios o de la Federación, para la ejecución de obras o la prestación de servicios públicos, conforme a los convenios respectivos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -2258,3 +2302,13 @@ P.O. 30 DE DICIEMBRE DE 1996.
 PRIMERO. El presente decreto entrará en vigor el primero de enero de 1997, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia el día siguiente al de su publicación en le Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan aquellas disposiciones en lo que se opongan al presente Decreto.
