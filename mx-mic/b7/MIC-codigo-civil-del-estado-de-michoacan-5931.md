@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1998-12-07"
+last_updated: "1998-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1998.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -13791,6 +13791,18 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los institutos de seguridad social podrán ceder sus créditos con garantía hipotecaria constando por escrito sin necesidad de notificación al deudor, ni de escritura pública ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+En los supuestos previstos en los párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor del o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+En el caso de que se realice la cesión de la cartera hipotecaria, el deudor tendrá los mismos derechos y obligaciones contemplados en el contrato original.
+
 ###### Artículo 2753.
 
 La hipoteca generalmente durar por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
@@ -14459,7 +14471,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto por el artículo 2177;
 
-VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2857.
 
@@ -14718,3 +14730,17 @@ P.O. 7 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto no será aplicable a los asuntos iniciados antes de su entrada en vigor, así como a los contratos de hipoteca celebrados con anterioridad, por lo tanto, la substanciación de los juicios hipotecarios que se encuentren en trámite o que se inicien en relación a estos contratos, continuarán de conformidad a los preceptos que dejen de tener vigencia.
+
+###### ARTICULO TERCERO.
+
+Para los efectos procedentes de las reformas contenidas en este decreto, se entenderán por derogadas las disposiciones que se opongan al mismo.
