@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1982-12-31"
+last_updated: "1983-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE ABRIL DE 1983.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -245,21 +245,27 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE ABRIL DE 1983)</small>
 
-41.- El Congreso del Estado de Baja California Sur se integrará con ocho diputados de mayoría relativa electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales uninominales y hasta con dos diputados electos mediante el principio de representación proporcional, apegándose, en ambos casos, a las reglas siguientes:
+41.- El Congreso del Estado de Baja California Sur se integrará con diez Diputados de Mayoría Relativa electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales uninominales y hasta con tres Diputados electos mediante el principio de Representación Proporcional, apegándose, en ambos casos, a las reglas siguientes:
 
-I.- La base para realizar la demarcación territorial de los ocho Distritos Electorales, será la resultante de dividir la población total del Estado conforme al último censo general de población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socio-económico.
+> <small>(REFORMADA, B.O. 25 DE ABRIL DE 1983)</small>
 
-II.- La elección de diputados por el principio de representación proporcional se efectuará mediante el sistema de listas de candidatos que presenten los partidos políticos y se sujetará a las siguientes bases:
+I.- La base para realizar la demarcación territorial de los diez Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
 
-a).- Se constituirá una sola circunscripción plurinominal, que comprenderá todo el Estado.
+> <small>(REFORMADA, B.O. 25 DE ABRIL DE 1983)</small>
 
-b).- Los partidos políticos tendrán derecho a postular candidatos por el principio de representación proporcional, siempre y cuando hayan registrado candidatos por lo menos en tres Distritos Electorales uninominales.
+II.- La elección de Diputados por el principio de Representación Proporcional se efectuará mediante el sistema de listas de candidatos que presenten los Partidos Políticos y se sujetará a las siguientes bases:
 
-c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberán alcanzar por lo menos el tres por ciento del total de la votación emitida en el Estado para todas las listas y siempre que no haya logrado ningún diputado de mayoría relativa; se tomará en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
+a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
+
+b).- Los Partidos Políticos tendrán derecho a postular candidatos por el principio de Representación Proporcional, siempre y cuando hayan registrado candidatos por lo menos en cinco distritos electorales uninominales.
+
+c).- Para que un Partido Político tenga derecho a que le sean acreditados de entre sus candidatos, Diputados de Representación Proporcional, deberán alcanzar por lo menos el cinco por ciento del total de la votación emitida en el Estado para todas las listas y siempre que no haya logrado ningún Diputado de Mayoría Relativa; se tomará en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
 
 La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1978)</small>
 
 III.- Si un partido político logra mayoría relativa en la elección directa, en uno o más Distritos Electorales mediante el sistema electoral uninominal, no tendrá derecho a diputado de representación proporcional.
 
@@ -1059,31 +1065,25 @@ CONCEPTO E INTEGRACION
 
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)</small>
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1983)</small>
 
-135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y siete Regidores, electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde el Ayuntamiento se complementará con dos Regidores electos por el principio de representación proporcional, en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
+135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y siete Regidores, electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el sistema de Representación Proporcional, con excepción del Ayuntamiento de la Capital del Estado, el cual se integrará con un Presidente, un Síndico y diez Regidores electos por el sistema de Mayoría Relativa y hasta con dos Regidores electos por el principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un Suplente.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+El Partido Político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique el Regidor de Representación Proporcional en el Ayuntamiento respectivo siempre y cuando satisfaga los siguientes requisitos:
 
-El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique un Regidor, siempre y cuando satisfaga los siguientes requisitos:
-
-a).- Que hubiere registrado candidatos propietarios y suplentes, en la elección municipal respectiva.
+a).- Que hubiere registrado candidatos propietarios y suplente en la elección municipal respectiva.
 
 b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
 
-c).- Que alcance, por lo menos, el tres por ciento del total de la votación emitida en el Municipio respectivo.
+c).- Que alcance, por lo menos, el cinco por ciento del total de la votación emitida en el Municipio correspondiente.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+En el Ayuntamiento de la Capital del Estado, la primera asignación se hará en favor del Partido que habiendo cumplido los anteriores requisitos, haya obtenido el mayor porcentaje de votación minoritaria.
 
-Un segundo Regidor podrá ser adjudicado al partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos la mitad de los sufragios que el partido triunfador minoritario haya alcanzado. De no darse este mínimo de proporción, se le adjudicará este segundo Regidor al partido triunfador minoritario.
+La segunda Regiduría se adjudicará a aquel Partido que habiendo reunido todos los requisitos señalados en esta misma disposición, haya obtenido el segundo porcentaje de la votación minoritaria.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+La Ley Reglamentaria determinará los procedimientos que se observarán para dichas asignaciones.
 
-La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
-
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
-
-Los miembros de los Ayuntamientos durarán en su encargo tres años a partir de la fecha en que tomen posesión del mismo.
+Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 
@@ -1279,7 +1279,9 @@ Todo cargo o empleo público de la entidad es incompatible con cualquier otro de
 
 ## TITULO UNDECIMO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
-166.- Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por tres diputados o iniciadas por el Gobernador, el Tribunal Superior de Justicia y los ayuntamientos. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de las leyes en los artículos 57 al 63; pero requieren la aprobación de más de los dos tercios del número total de diputados.
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1983)</small>
+
+166.- Esta Constitución Política puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por cuatro Diputados o iniciadas por el Gobernador. el Tribunal Superior de Justicia o los Ayuntamientos. Estas Iniciativas se sujetarán a los trámites establecidos para la expedición de las Leyes en los Artículos 57 al 63, pero requieren de la aprobación de cuando menos los dos tercios del número total de Diputados que integran la Legislatura.
 
 167.- Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el gobierno de la rebelión como los que hubieren cooperado a ésta.
 
@@ -1502,3 +1504,9 @@ B.O. 31 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE B. C. SUR.
+
+B.O. 25 DE ABRIL DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
