@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1975-12-27"
+last_updated: "1976-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1976.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -341,17 +341,17 @@ Si una vez instalado el Congreso o abierto su período de sesiones, no pudiere e
 
 El Diputado que sin causa justificada faltare diez días consecutivos, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
 
 ###### Art. 35.
 
-El Congreso del Estado se renovará totalmente cada tres años, contados desde el primero de diciembre, hasta el treinta de noviembre de los años respectivos.
+El Congreso del Estado se renovará cada tres años contados desde el 15 de octubre hasta el 14 de octubre de los años respectivos.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1925)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
 
 ###### Art. 36.
 
-La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: Uno que contará desde el primero de diciembre hasta el día último de febrero y otro que comenzará el primero de junio, terminando el treinta y uno de agosto. Cada uno de estos periodos podrá prorrogarse hasta por un mes, si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes del número total de los Ciudadanos Diputados.
+La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: uno que contará desde el 15 de octubre hasta el día 14 de enero, y otro que comenzará el 15 de abril terminando el 14 de Julio. Cada uno de estos períodos podrá prorrogarse hasta por un mes, si así lo exige la importancia de los asuntos pendientes de resolución y lo juzga necesario las dos terceras partes de los CC. Diputados.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -391,13 +391,11 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+
 ###### Art. 42.
 
-El Gobernador asistirá a la apertura del primer periodo de sesiones ordinarias, de cada año, y presentará un informe por escrito en el que exponga suscintamente el estado de todos los ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1958)</small>
-
-Cuando la fecha anterior coincida con aquella en que el Señor Presidente de la República entre a ejercer su Encargo, se cambiará al día 20 del mismo mes de Diciembre.
+El Gobernador asistirá a la apertura del Primer Periodo de Sesiones Ordinarias de cada año y presentará un informe por escrito, en el que se exponga suscintamente, el estado de todos los Ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -675,13 +673,11 @@ V. No haber sufrido condena alguna impuesta por los Tribunales que hubiere exced
 
 VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
 
 ###### Art. 63.
 
-El Gobernador será electo popular y directamente cada seis años.
-
-Empezará a ejercer sus funciones el primero de enero posterior a la elección, protestando ante el Congreso del Estado, y en ningún caso, ni por motivo alguno podrá ser reelecto.
+El Gobernador será electo popular y directamente cada seis años. Empezará a ejercer sus funciones el quince de noviembre posterior a la elección, protestando ante el Congreso del Estado, y en ningún caso ni por motivo alguno, podrá ser reelecto.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -705,9 +701,11 @@ a). El Gobernador substituto Constitucional o el designado para concluir el per�
 
 b). El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+
 ###### Art. 66.
 
-Si al comenzar el período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha ni declarada el primero de enero, cesará, sin embargo, el Gobernador cuyo período hubiere terminado y entonces, como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo con el carácter de Interino, el ciudadano que la Legislatura designe, si ésta estuviere en funciones; en caso contrario lo designará la Diputación Permanente en los términos establecidos en esta misma Constitución.
+Si al comenzar el período Constitucional no se presentare el Gobernador Electo, o la elección no estuviere hecha ni declarada el 15 de noviembre, cesará sin embargo, el Gobernador cuyo período hubiere terminado y entonces, como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo con el carácter de interino, el Ciudadano que la Legislatura designe, si ésta estuviere en funciones, en caso contrario lo designará la Diputación Permanente en los términos establecidos en esta misma Constitución.
 
 ###### Art. 67.
 
@@ -735,9 +733,9 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1976)</small>
 
-IV.- Presentar a la Legislatura dentro de los primeros diez días del primer período ordinario de sesiones de cada año, o sea del primero al diez de diciembre, el Presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+IV.- Presentar a la Legislatura dentro de los primeros diez días del primer período de sesiones de cada año, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -927,17 +925,17 @@ El ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supr
 
 El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y tres Suplentes o Supernumerarios.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1945)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
 
 ###### Art. 83.
 
-Los Magistrados del Supremo Tribunal de Justicia en el Estado, serán nombrados por el Gobernador del Estado, el día primero de enero de los años respectivos y los nombramientos serán sometidos a la aprobación del Congreso en los términos de la Fracción IX del artículo 47 de esta Constitución.
+Los Magistrados del Supremo Tribunal de Justicia del Estado, serán nombrados por el Gobernador el día dieciséis de noviembre de los años respectivos, y los nombramientos serán sometidos a la aprobación del Congreso, en los términos de la Fracción IX del Artículo 47 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1945)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
 
 ###### Art. 84.
 
-Los Magistrados del Supremo Tribunal de Justicia, durarán en sus funciones seis años, no pudiendo ser movidos sin previo juicio de responsabilidad, en el que se pronuncie sentencia condenatoria. Tomarán posesión el día cinco del mismo mes de enero en que se inicie el ejercicio Constitucional del Gobernador del Estado.
+Los Magistrados del Supremo Tribunal de Justicia, durarán en sus funciones seis años, no pudiendo ser movidos sin previo juicio de responsabilidades, en el que se pronuncie sentencia condenatoria. Tomarán posesión el día veinte del mismo mes de noviembre, en que se inicie el ejercicio constitucional del Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1522,3 +1520,13 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de
 P.O. 27 DE DICIEMBRE DE 1975
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 1976
+
+###### ARTICULO PRIMERO.
+
+Por este solo año, el Gobernador rendirá el Informe que previene el Artículo 42 de la Constitución Política Local, ante el H. Congreso del Estado, el día diecinueve de diciembre.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
