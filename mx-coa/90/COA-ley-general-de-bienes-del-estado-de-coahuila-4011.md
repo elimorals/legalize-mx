@@ -4,7 +4,7 @@ identifier: "COA-ley-general-de-bienes-del-estado-de-coahuila-4011"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-09-04"
-last_updated: "1974-09-04"
+last_updated: "1977-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DE BIENES DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el miércoles 4 de septiembre de 1974.
 
@@ -383,7 +383,7 @@ La adquisición y enajenación de los bienes muebles propiedad del Estado, corre
 
 Respecto a los muebles de dominio privado, regirá lo establecido en preceptos anteriores sobre prescripción en favor de particulares, retención de la posesión y recuperación interina o definitiva de la misma.
 
-Los muebles del dominio público del Estado serán inalineables, imprescriptibles e inembargables, a menos que sean desafectados del servicio público a que están destinados, mediante acuerdo del Gobernador del Estado.
+Los muebles del dominio público del Estado serán inalienables, imprescriptibles e inembargables, a menos que sean desafectados del servicio público a que están destinados, mediante acuerdo del Gobernador del Estado.
 
 ###### ARTICULO 50.
 
@@ -403,19 +403,23 @@ La donación en un solo acto a alguna de las instituciones mencionadas, no podr�
 
 DEL REGISTRO DE LA PROPIEDAD ESTATAL.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
+
 ###### ARTICULO 53.
 
-La Secretaría General de Gobierno llevará un registro de la propiedad estatal.
+Los bienes de dominio del poder público del Estado se inscribirán en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
 
 ###### ARTICULO 54.
 
-El Registro de la Propiedad Estatal será pública y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existan en los libros respectivos y de los documentos relacionados con las inscripciones que estén archivadas en sus apéndices.
+La Ley Reglamentaria del Registro Público de la Propiedad del Estado de Coahuila de Zaragoza determinará la forma de llevar el Registro de la Propiedad Estatal y la obligación de los encargados de llevarlo de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros respectivos y de los documentos relacionados con las inscripciones que estén archivadas en sus apéndices.
 
-A petición y costa de parte interesada y de conformidad con las disposiciones legales aplicables, se expedirán copias certificadas de las inscripciones, constancias y documentos que obren en el Registro.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
 
 ###### ARTICULO 55.
 
-Se inscribirán en el Registro de la Propiedad Estatal:
+Se inscribirán en el Registro Público de la Propiedad:
 
 I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales sobre bienes inmuebles pertenecientes al Estado de Coahuila;
 
@@ -431,19 +435,21 @@ VI.- Los decretos que incorporen o desincorporen del dominio público los bienes
 
 VII.- Los demás títulos que, conforme a la Ley, deban ser registrados.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
+
 ###### ARTICULO 56.
 
-Los documentos a que se refiere el artículo 55 se inscribirán, además, en el Registro Público de la Propiedad que corresponda al lugar de ubicación de los bienes de que se trate y conforme a lo establecido por el Código Civil.
+Los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre bienes inmuebles del Estado de Coahuila; y la inscripción de los demás actos, documentos, contratos, resoluciones y diligencias judiciales a que se refiere el artículo anterior, sólo se inscribirán a petición del Estado, o de la persona física o moral que tenga interés legítimo en asegurar el derecho que se va a inscribir.
 
-En el caso de oposición entre los datos del Registro de la Propiedad Estatal y el de la ubicación de los bienes, en las relaciones con terceros, se dará preferencia al primero si se trata de bienes de dominio público y al segundo si de (sic) bienes de dominio privado.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
 
 ###### ARTICULO 57.
 
-En las inscripciones del Registro de la Propiedad Estatal se expresará la procedencia de los bienes, su naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas como pasivas, así como sus referencias en relación con los expedientes respectivos.
+En las inscripciones del Registro Público de la Propiedad relativas a los bienes del Estado se expresará la procedencia de éstos, su naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas como pasivas, así como sus referencias en relación con los expedientes respectivos.
 
 ###### ARTICULO 58.
 
-Las constancias del Registro de la Propiedad Estatal, probarán la autenticidad de las actas a que se refieren.
+(DEROGADO, P.O. 8 DE ABRIL DE 1977)
 
 ###### ARTICULO 59.
 
@@ -461,7 +467,7 @@ En la cancelación de las inscripciones se asentarán los datos necesarios, a fi
 
 ###### ARTICULO 61.
 
-Un reglamento determinará las secciones de que habrá de componerse el Registro, los libros que debe llevar y los requisitos de éstos.
+(DEROGADO, P.O. 8 DE ABRIL DE 1977)
 
 ### CAPITULO VI.
 
@@ -532,3 +538,15 @@ EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 LIC. OSCAR VILLEGAS RICO.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 1977.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+...
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
