@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1999-12-31"
+last_updated: "2000-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -5137,11 +5137,15 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 31 DE DICIEMBRE DE 1999.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 
-El Capítulo Decimoséptimo a que se refiere este Decreto iniciará su vigencia el día primero de enero del año dos mil.
+El capítulo Decimoséptimo a que se refiere este Decreto iniciará su vigencia el día primero de abril del año dos mil.
+
+Se suspenden los efectos del Impuesto sobre la Prestación de Servicios de Hospedaje durante el período comprendido del primero de enero al treinta y uno de marzo del año dos mil.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -5154,3 +5158,11 @@ A los contribuyentes tenedores de licencias para conducir expedidas con anterior
 ###### ARTÍCULO CUARTO.
 
 A los contribuyentes tenedores de licencias para conducir expedidas con anterioridad que presenten adeudos en el pago de los resellos respectivos, deberán cubrir el importe de los resellos adeudados de conformidad a las tarifas existentes en los ejercicios correspondientes, sin ninguna sanción o accesorios siempre y cuando cubran el importe antes del 22 de diciembre del año 2000. Estos contribuyentes deberán solicitar la expedición de una licencia nueva con el costo de las tarifas que establece este Decreto.
+
+P.O. 29 DE MARZO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos que señala la fracción XVII del artículo 70 de la Constitución Política del Estado de Morelos.
+
+TERCERA (SIC).- Se derogan todas las disposiciones que se opongan al presente Decreto.
