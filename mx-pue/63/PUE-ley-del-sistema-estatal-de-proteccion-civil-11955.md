@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-11955"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-18"
-last_updated: "2000-06-21"
+last_updated: "2003-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2000.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL, PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 18 de diciembre de 1992.
 
@@ -271,7 +273,7 @@ XI.- Las demás que le confieren el Consejo y el Presidente.
 
 Corresponde al Secretario Técnico:
 
-I.- Formular el orden del día para cada sesión y someterla a la consideración del Presidente;
+I.- Formular el orden del día para cada sesión y someterla a la consideración del Presidente.
 
 II.- Asistir con voz pero sin voto a las sesiones del Consejo y redactar las actas respectivas;
 
@@ -554,3 +556,25 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2003.
+
+LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Protección Civil, aprobada el diez de diciembre de mil novecientos noventa y dos, y publicada en el Periódico Oficial del Estado el día dieciocho de diciembre de mil novecientos noventa y dos.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley dentro de los noventa días naturales siguientes a su entrada en vigor.
+
+En tanto se expide el Reglamento a que se refiere el párrafo anterior, continuará aplicándose, en lo conducente, el Reglamento de la Ley del Sistema de Protección Civil para el Estado de Puebla, publicado en el Periódico Oficial del Estado el día primero de julio de mil novecientos noventa y ocho.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite o en proceso ante las instancias competentes en materia de protección civil al entrar en vigor esta Ley, continuarán tramitándose hasta su terminación en los términos de las disposiciones legales vigentes al momento de inicio de los mismos.
