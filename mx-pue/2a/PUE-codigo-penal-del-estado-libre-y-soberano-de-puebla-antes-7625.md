@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1994-07-01"
+last_updated: "1995-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2087,6 +2087,10 @@ La reparación del daño en los casos de estupro, violación o rapto comprender�
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
+### CAPITULO VIGESIMO.- DELITOS ELECTORALES
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
+
 #### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
@@ -2654,6 +2658,10 @@ III.- Al autor de un escrito o de un alegato, presentado en los tribunales, que 
 ###### Artículo 361.
 
 Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o contenga hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
+
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 362.
 
@@ -3309,6 +3317,98 @@ Las sanciones de los delitos cometidos por servidores públicos que presten el s
 
 Los delitos a que se refiere este Capítulo producen acción popular.
 
+> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
+
+###### Artículo 441.
+
+Para los efectos de este Capítulo se entiende por:
+
+I.- Funcionarios Electorales, quienes en términos de la legislación aplicable, integren los organismos electorales;
+
+II.- Funcionarios Partidistas, los dirigentes de los partidos políticos, los candidatos y los ciudadanos a quienes los propios partidos, otorguen representación durante el proceso electoral;
+
+III.- Documentos Públicos Electorales, todas las boletas, actas oficiales de los organismos electorales, del Tribunal Estatal Electoral y del Colegio Electoral en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+
+###### Artículo 442.
+
+Se impondrá multa equivalente al importe de diez a cien días de salario y prisión de seis meses a un año y suspensión de derechos políticos por un año, a quien:
+
+I.- Vote o intente votar, estando impedido legalmente para ello;
+
+II.- Vote más de una vez en la misma elección;
+
+III.- Obstaculice o interfiera el desarrollo normal del proceso electoral;
+
+IV.- Se niegue a desempeñar las funciones electorales que se le encomienden, sin causa justificada;
+
+V.- Dentro de los tres días anteriores o el día de la elección, haga propaganda política en favor de algún partido político o candidato;
+
+VI.- A quien se presente a votar portando armas;
+
+VII.- Falsifique, altere, robe o destruya documentos públicos electorales;
+
+VIII.- Viole de cualquier manera el secreto del voto;
+
+IX.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+
+###### Artículo 443.
+
+Se impondrá multa de cincuenta a cien días de salario y prisión de uno a tres años al funcionario electoral que:
+
+I.- Se abstenga de cumplir con sus obligaciones electorales, sin causa justificada, con perjuicio del proceso electoral;
+
+II.- Obstaculice o interfiera el desarrollo legal de la jornada electoral;
+
+III.- En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido político determinado, en el interior de la casilla o en el lugar donde los electores se encuentren formados;
+
+IV.- Al que impida, instale, abra o cierre dolosamente una casilla, fuera de los tiempos y formas previstas por la Ley;
+
+V.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la Ley les conceda;
+
+VI.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y secreto del voto, no tome las medidas conducentes para que cese;
+
+VII.- Difunda dolosamente información antes, durante o después del desarrollo de la jornada electoral o respecto de sus resultados que tiendan a confundir a la opinión pública;
+
+VIII.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
+
+IX.- Permita votar a quien no tenga derecho para ello;
+
+X.- Propale o difunda dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+
+###### Artículo 444.
+
+Se impondrá multa de cincuenta a cien días de salario y prisión de uno a tres años al servidor público que:
+
+I.- No preste con la debida oportunidad la ayuda solicitada por las autoridades electorales;
+
+II.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato determinado;
+
+III.- Condicione la prestación de un servicio público al cumplimiento de programas o la realización de obras públicas a la emisión del sufragio a favor de un partido político o candidato determinado;
+
+IV.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, sin perjuicio de las penas que le puedan corresponder por el delito de peculado, al apoyo de un partido político o candidato determinado;
+
+V.- Impida ilegalmente reuniones, asambleas o manifestaciones pacíficas o cualquier otro acto de propaganda electoral;
+
+VI.- Se niegue a dar fe de los actos en que deban intervenir en los términos del Código Electoral.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+
+###### Artículo 445.
+
+Se impondrá prisión de uno a tres años y multa de cincuenta a cien días de salario, al funcionario partidista que aproveche ilícitamente fondos, bienes o servicios en los términos de la Fracción IV del Artículo anterior, así como al que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+III.- Impida con violencia la instalación, apertura o cierre de una casilla.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO 1º.
@@ -3338,6 +3438,16 @@ P.O. 21 DE DICIEMBRE DE 1990.
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 1995.
 
 ###### ARTICULO PRIMERO.
 
