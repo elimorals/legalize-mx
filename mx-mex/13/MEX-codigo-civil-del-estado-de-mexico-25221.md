@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2003-07-17"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DEL 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DEL 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -15715,17 +15715,17 @@ Inscripción de la cancelación de una obligación hipotecaria
 
 Cesión del crédito garantizado con hipoteca
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DEL 2004)</small>
+
 ###### Artículo 7.
 
-1132.- El crédito garantizado con hipoteca, puede cederse en todo o en parte, siempre que la cesión se haga en escritura pública, se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
+1132.- El crédito garantizado con hipoteca, puede cederse en todo o en parte, sin modificar las condiciones contractuales originales, siempre que la cesión se haga en escritura pública, se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2003)</small>
+Se exceptúan de lo dispuesto en el párrafo anterior las instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciaria, las demás entidades financieras, y los institutos de seguridad social, quienes podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente mantenga la administración de los créditos.
 
-Las instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social podrán ceder sus créditos con garantía hipotecaria, sin modificar las condiciones contractuales originales y sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente mantenga la administración de los créditos.
+En caso de la cesión de la administración del crédito, el cedente deberá otorgar poder al cesionario para la cancelación de la hipoteca y notificar al deudor, sin modificar las condiciones originales del crédito.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2003)</small>
-
-En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor e inscribirla en el Registro Público de la Propiedad.
+En caso de variarse las condiciones originales del crédito, deberán observarse los requisitos de existencia y validez del acto jurídico, debiendo hacer la cesión en escritura pública e inscribirla en el Registro Público de la Propiedad.
 
 Duración de la hipoteca
 
@@ -16610,6 +16610,12 @@ MANUEL CADENA MORALES
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 G.G. 17 DE JULIO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DEL 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
