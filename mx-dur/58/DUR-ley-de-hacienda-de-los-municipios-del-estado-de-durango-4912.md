@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1993-01-03"
+last_updated: "1993-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1993.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -2881,7 +2881,7 @@ Tendrán carácter de productos los ingresos que se obtengan por la venta de bie
 
 POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 229.
 
@@ -2893,19 +2893,19 @@ APROVECHAMIENTOS.
 
 ###### ARTICULO 230.
 
-En aquéllos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada 2 horas o fracción menor de tiempo, se cobrarán por servicios de estacionamiento público .50 centavos (Nuevos Pesos), al infractor de esta obligación se le aplicará una sanción equivalente a un 20% de incremento a la tarifa actual de 1992, sujetándose a las siguientes reglas:
+En aquellos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo, se cobrará por servicios de estacionamiento público N$0.50 (cincuenta centavos); al infractor de esta obligación se le aplicará una sanción equivalente a un día de salario mínimo general vigente en el Estado, sujetándose a las siguientes reglas:
 
-a).- Si cubre la infracción dentro de los 3 días hábiles siguientes a la infracción incurrida, se le descontará el 30% de la cantidad a pagar.
+a).- Si cubre la sanción dentro de los 3 días hábiles siguientes a la infracción incurrida, se le descontará el 30% de la cantidad a pagar;
 
-b).- Si cubre la infracción después del 3er. día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos, desde que se cometió la infracción no tendrá derecho a descuento alguno; y
+b).- Si cubre la infracción después del 3er. día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos desde que se cometió la infracción, no tendrá derecho a descuento alguno; y
 
-c).- si paga después de 30 días de haber cometido la infracción, pero antes de 45 días, se duplicará la multa; si después de ese período no se hace efectivo, dará inicio el procedimiento de ejecución contra el deudor.
+c).- Si paga después de 30 días de haber cometido la infracción, pero antes de 45 días, se duplicará la multa; si después de ese periodo no se hace efectivo tal adeudo, dará inicio el procedimiento de ejecución contra el deudor.
 
-Se aplicará una multa equivalente a 15 días de salario mínimo general vigente en el estado a quienes insulten o agredan a las personas encargadas de la vigilancia de los estacionómetros, con motivo del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que le resultaren.
+Se podrán emitir, por la Autoridad competente, engomados para su uso en zonas marcadas con estacionómetros por un valor equivalente a cuarenta días de salario mínimo vigente en el Estado, con vigencia para un periodo de 6 meses. Su adquisición durante los primeros 30 días de su puesta a la venta tendrá un descuento de un 25% del total de su costo.
 
-Las personas que opten por adquirir calcomanías semestrales por el uso de zonas marcadas con estacionómetros, deberá cubrir una cantidad equivalente a 10 días de salario mínimo general vigente en el Estado; si la adquisición se hace durante los primeros 15 días de su puesta en venta, se descontará un 25% del costo total de dicha calcomanía
+Las personas que para maniobras de carga y descarga frente a sus domicilios, requieran de cajones de estacionamiento, deberán cubrir una cuota semestral equivalente a cincuenta días de salario mínimo general vigente en el Estado por cada espacio que corresponda a un aparato medidor de tiempo y tomando en cuenta las disposiciones de la Ley de Tránsito y Transportes y su Reglamento.
 
-Las personas que para maniobras de carga y descarga frente a sus domicilios, requieran de cajones de estacionamiento, deberán cubrir una cuota semestral equivalente a un 20% de incremento a la tarifa actual de 1992, por cada espacio que corresponda a un aparato medidor de tiempo y tomando en cuenta las disposiciones de la Ley de Tránsito y Transportes y su Reglamento.
+Se aplicará una multa equivalente a 15 días de salario mínimo general vigente en el Estado a quien insulte o agreda a las personas encargadas de la vigilancia de los aparatos estacionómetros, con motivo del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que le resultaren.
 
 ## TITULO QUINTO
 
@@ -3108,3 +3108,7 @@ DECRETO No. 77.
 ###### ARTICULO SEGUNDO
 
 - Se derogan todas las disposiciones legales que se opongan a la presente.
+
+P.O. 20 DE JUNIO DE 1993.
+
+UNICO:- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
