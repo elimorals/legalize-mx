@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "1998-07-21"
+last_updated: "2005-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -55,7 +55,9 @@ III. La protección y el acrecentamiento de los valores que coadyuven a la creac
 
 IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2005)</small>
+
+V. El disfrute de servicios de salud que satisfagan eficaz y oportunamente las necesidades de la población;
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
 
@@ -107,7 +109,7 @@ XIV. La prevención y el control de las enfermedades no transmisibles y accident
 
 XV. La prevención de la invalidez y la rehabilitación de los inválidos;
 
-XVI. La asistencia social;
+XVI. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
 XVII. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
@@ -167,7 +169,7 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-III. Colaborar al bienestar social de la población del Estado de Coahuila, mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+III. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -363,7 +365,7 @@ I. De atención médica;
 
 II. De salud pública, y
 
-III. De asistencia social.
+III. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 27.
 
@@ -395,7 +397,7 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-X. La asistencia social a los grupos más vulnerables, y
+X. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
 XI. Las demás que establezca esta Ley o disposiciones legales aplicables.
 
@@ -517,7 +519,9 @@ I. La promoción de hábitos de conducta que contribuyan a proteger la salud o a
 
 II. Colaboración en la prevención o tratamiento de problemas ambientales y vinculados a la salud;
 
-III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2005)</small>
+
+III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
 
 IV. Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por si mismas;
 
@@ -1105,7 +1109,9 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2005)</small>
+
+## TITULO NOVENO. PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
 ### CAPITULO UNICO
 
@@ -1121,41 +1127,19 @@ Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 ###### Artículo 126.
 
-Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física, mental, hasta lograr su incorporación a una vida plena y productiva.
-
-Serán objeto de esta Ley los servicios asistenciales que presten tanto las instituciones públicas como las privadas.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 127.
 
-Son actividades básicas de asistencia social:
-
-I. La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
-
-II. La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
-
-III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
-
-IV. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
-
-V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
-
-VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
-
-VII. La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
-
-VIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas, y
-
-IX. La prestación de servicios funerarios.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 128.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado promoverá la canalización de recursos y de apoyo técnico necesario.
-
-Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 129.
 
-Los menores, los ancianos y los incapacitados, en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 130.
 
@@ -1165,9 +1149,7 @@ En estos casos, las Instituciones de Salud del Estado, podrán tomar las medidas
 
 ###### Artículo 131.
 
-El Gobierno del Estado contará con un organismo que se denominará Sistema para el Desarrollo Integral de la Familia en el Estado de Coahuila. Que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que en la materia lleven a cabo las instituciones públicas en el Estado.
-
-Las atribuciones y funciones se regirán por las disposiciones legales que para tal efecto se expidan.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 132.
 
@@ -1175,39 +1157,39 @@ El Gobierno del Estado y los municipios promoverán la creación de establecimie
 
 ###### Artículo 133.
 
-El Gobierno del Estado y los municipios en coordinación con las dependencias y entidades públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socioeconómico o en las que se padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 134.
 
-El Gobierno del Estado podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 135.
 
-Serán consideradas instituciones de asistencia privada las que se constituyan conforme a esta Ley, al reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 136.
 
-Se crea la Junta de Asistencia Privada como órgano desconcentrado, jerárquicamente subordinado al Sistema para el Desarrollo Integral de la Familia en el Estado de Coahuila, a través del cual se ejercerá la vigilancia y promoción de las instituciones de asistencia privada.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 137.
 
-Serán consideradas instituciones de asistencia privada los asilos, los hospicios, las casas de cuna y las demás que determinen otras disposiciones legales aplicables.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 138.
 
-La integración, funcionamiento y facultades de la Junta de Asistencia Privada, será determinada por las disposiciones legales aplicables que se expidan para tal efecto.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 139.
 
-Las Instituciones de Asistencia Privada se consideran de interés público.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 140.
 
-Las reglas de constitución, operación, organización, liquidación y demás aspectos concernientes a las instituciones de asistencia privada, serán establecidos en la ley específica que al efecto se expida.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 141.
 
-Los servicios y acciones que presten y realicen las instituciones de asistencia privada se someterán a las disposiciones de esta Ley, a los Programas Nacional y Estatal de Salud, y a las demás disposiciones legales aplicables.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 142.
 
@@ -1219,9 +1201,7 @@ La Secretaría de Salud del Estado, en coordinación con otras instituciones pú
 
 ###### Artículo 144.
 
-El patrimonio de la beneficencia pública será administrado por el Sistema para el Desarrollo Integral de la Familia en el Estado de Coahuila.
-
-Al respecto, a este organismo corresponderá, entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y de distribuir los recursos que a la misma se le destinen.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 145.
 
@@ -1245,9 +1225,11 @@ VI. Promoción para adecuar facilidades urbanísticas y arquitectónicas a las n
 
 VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 147.
 
-Los servicios de rehabilitación que proporcionen los establecimientos del Sector Salud del Estado, estarán vinculados lados (sic) sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el Artículo 131 de esta Ley.
+Los servicios de rehabilitación que proporcionen los establecimientos del Sector Salud del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Sistema para el Desarrollo Integral de la Familia en el Estado de Coahuila.
 
 ## TITULO DECIMO PRIMERO
 
@@ -1257,11 +1239,11 @@ DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
 
 ###### Artículo 148.
 
-El Gobierno del Estado, a través del organismo a que se refiere el Artículo 131 de esta Ley, y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y demás ayudas funcionales.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ###### Artículo 149.
 
-El organismo del Gobierno Estatal previsto en el Artículo 131 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+(DEROGADO, P.O. 15 DE FEBRERO DE 2005)
 
 ### CAPITULO VI. RASTROS
 
@@ -2199,7 +2181,7 @@ III. Eficacia;
 
 IV. Economía;
 
-V. Providad;
+V. Probidad;
 
 VI. Participación;
 
@@ -2378,3 +2360,9 @@ P.O. 21 DE JULIO DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor el día siguiente al que se publique en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
