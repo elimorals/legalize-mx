@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2003-12-24"
+last_updated: "2004-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2004.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -124,6 +124,10 @@ ARTICULO 7 BIS.- Los titulares de las dependencias y entidades de la Administrac
 El incumplimiento de esta obligación constituye una falta administrativa que acarreará las responsabilidades y sanciones que resulten conforme a los procedimientos previstos por la Ley de Responsabilidades de los Servidores Públicos, salvo en el caso de la excepción prevista en el siguiente párrafo.
 
 Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2004)</small>
+
+En caso que la información solicitada por el Congreso estuviere disponible en otros medios, se le proporcionarán por escrito los datos suficientes que le permitan obtener dicha información.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1224,3 +1228,9 @@ El presente Decreto entrará en vigor el día primero de enero del año dos mil 
 ###### ARTICULO SEGUNDO.
 
 Cuando en otras disposiciones normativas se haga referencia a las funciones que en virtud del presente Decreto son asumidas por la Coordinación de Desarrollo Administrativo y Modernización, se entenderá referida ésta para efectos del desempeño de aquéllas.
+
+P.O. 14 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
