@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1992-12-30"
+last_updated: "1993-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1149,7 +1149,9 @@ Este impuesto se causará con tasa del 2% sobre la base a que se refiere el Art�
 
 El pago del impuesto deberá efectuarse, dentro de los quince primeros días del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
 
-La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas, excepto cuando el contribuyente presente el aviso de suspensión respectivo.
 
 ###### ARTICULO 159.
 
@@ -1203,7 +1205,11 @@ d).- Instituciones educativas;
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-e) Clubes de servicio a la comunidad, sin fines de lucro.
+e) Clubes de servicio a la comunidad, sin fines de lucro;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+f) Las asociaciones religiosas.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
@@ -1757,6 +1763,10 @@ Del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad.
 
 Los Derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el particular reciba la prestación del servicio, o en el momento en que se provoque, por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la Ley señale fecha distinta.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Todas las personas físicas o morales, públicas o privadas, están obligadas al pago de derechos estatales, aún cuando otras leyes las exenten. Unicamente estarán exentos el Gobierno del Estado y las personas que esta Ley exente de manera expresa.
+
 ###### ARTICULO 262.
 
 El importe de las tasas, que para cada derecho señalan los siguientes Capítulos, deberá ser cubierto en las Oficinas Recaudadoras de la jurisdicción donde se preste el servicio.
@@ -1781,11 +1791,11 @@ Estos servicios podrán ser prestados por profesionistas independientes con tít
 
 El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 267.
 
-Por inspección de calderas, inicial y semestral, realizada con base en el "Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetos a Presión", de fecha 13 de Agosto de 1936, se pagarán N$1.20 por metro cuadrado de superficie de calefacción, sin que en ningún caso la cantidad a pagar sea menor de N$100.00 ni mayor de N$750.00 pesos.
+Por inspección de calderas, inicial y semestral, realizada con base en el "Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetos a Presión", de fecha 13 de agosto de 1936, se pagarán N$1.30 por metro cuadrado de superficie de calefacción, sin que en ningún caso la cantidad a pagar sea menor de N$100.00 pesos, ni mayor de N$850.00 pesos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1795,15 +1805,15 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros quince días de los meses de enero y julio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$ 50.00.
+Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$55.00.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 268.
 
-Por inspección de motores, inicial y semestral, realizada con base en el "Reglamento de Medidas Preventivas y Accidentes de Trabajo", de fecha 23 de Noviembre de 1934, se pagarán N$1.20 por caballo de fuerza, sin que en ningún caso la cantidad a pagar sea menor de N$100.00.
+Por inspección de motores, inicial y semestral, realizada con base en el "Reglamento de Medidas Preventivas y Accidentes de Trabajo", de fecha 23 de Noviembre de 1934, se pagarán N$1.30 por caballo de fuerza, sin que en ningún caso la cantidad a pagar sea menor de N$100.00.
 
 Para la aplicación de esta Tarifa se tomará en cuenta la capacidad total en caballos de fuerza, de potencia generada por todos los motores que se tengan instalados en cada establecimiento, sin importar el número de ellos.
 
@@ -1821,13 +1831,15 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-I.- Por autorización a las sociedades comerciales para la adquisición de terrenos necesarios para su objeto, en los términos de la fracción IV del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos N$800.00
+I.- Por el examen para el otorgamiento de la patente de Notario Público, ya sea titular o suplente N$3,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- Por expedición de constancias y certificados que extiendan las dependencias de la Secretaría General de Gobierno N$15.00
+II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos en funciones anualmente N$1,500.00
+
+Este derecho deberá ser cubierto durante los meses de Enero y Febrero de cada año.
 
 III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1986)
 
@@ -1867,7 +1879,7 @@ VI.- Las anotaciones marginales N$30.00
 
 Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
 
-> <small>(ADICIONADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 270 Bis.
 
@@ -1893,13 +1905,13 @@ a) Hasta N$ 50,000.00, por cada millar o fracción ….. N$ 4.00
 
 b) Por el excedente de N$ 50,000.00, por cada millar o fracción ….. N$ 5.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ….. N$ 10.00
+c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ….. N$11.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-d) En ningún caso la cantidad a pagar será menor a ….. N$ 50.00
+d) En ningún caso la cantidad a pagar será menor a ….. N$55.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -1919,77 +1931,93 @@ Tratándose de documentos o contratos que consignen prestaciones periódicas, si
 
 Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley N$.50
+II.- Por la expedición de copias, por cada hoja, sin perjuicio del derecho establecido por esta Ley ….. N$.50
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de N$ 50.00 ni mayor de N$400.00
+III.- Por certificación de copias, por cada documento ….. N$50.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-IV.- Por cualquier rectificación de inscripciones N$50.00
+IV.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de ….. N$55.00 ni mayor de ….. N$450.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-V.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad N$50.00
+V.- Por cualquier rectificación de inscripciones ….. N$60.00
 
-VI.- Por el Registro de Planos de Fraccionamientos, por cada lote vendible:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-A.- Fraccionamientos habitacionales.
+VI.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad ….. N$60.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados N$10.00
+VII.- Por el registro de subdivisiones de predios, por cada lote resultante ….. N$12.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados N$5.00
+VIII.- Por el registro de planos de fraccionamientos, por cada lote vendible:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+A.- Fraccionamientos habitacionales:
 
-B) Fraccionamientos comerciales, industriales y campestres N$15.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados ….. N$11.00
 
-C) Cementerios N$5.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-D.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados ….. N$6.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VII.- Por certificado de no inscripción de inmuebles N$30.00
+B) Fraccionamientos comerciales, industriales y campestres ….. N$17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VIII.- Por certificado de gravámenes o de libertad de gravámenes N$35.00
+C) Cementerios ….. N$5.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+En ningún caso la cantidad a pagar será inferior a ….. N$75.00
 
-IX.- Por acreditación o rectificación de medidas N$100.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+IX.- Por certificado de no inscripción de inmuebles ….. N$30.00
 
-X.- Por inscripción de aviso preventivo N$50.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+X.- Por certificado de gravámenes o de libertad de gravámenes ….. N$40.00
 
-XI.- Por la utilización de sistemas digitalizados:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Por búsqueda de antecedentes registrales, por cada folio N$20.00
+XI.- Por acreditación o rectificación de medidas, según el valor de la superficie adicional, determinado por la Dirección de Catastro, por cada millar o Fracción ….. N$5.00
 
-b) Por búsqueda de antecedentes registrales respecto de condominios,
+En ningún caso la cantidad a pagar será menor a ….. N$110.00
 
-fraccionamientos o programas de regularización N$150.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-c) Expedición de copias de registros de antecedentes, por cada una N$15.00
+XII.- Por inscripción de avisos preventivos, por cada uno ….. N$55.00
 
-d) Información de datos de antecedentes registrales N$15.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+XIII.- Por la búsqueda de antecedentes registrales ….. N$20.00
 
-XII.- Por expedición de constancias no incluidas en las fracciones anteriores N$50.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XIV.- Por expedición de constancias registrales de delegaciones ubicadas fuera del Area Metropolitana de la Ciudad de Monterrey, por hoja ….. N$50.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XV.- Por la utilización de sistemas digitalizados:
+
+a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización ….. N$150.00
+
+b) Expedición de copias de registro de antecedentes, por cada una ….. N$15.00
+
+c) Información de datos de antecedentes registrales ….. N$15.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. N$50.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1999,27 +2027,27 @@ Por autorización de apertura de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Para notarías públicas ubicadas en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado N$300.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, por cada libro autorizado N$330.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$100.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$110.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Para notarías públicas ubicadas en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado N$300.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, y Santa Catarina, por cada libro autorizado N$330.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$100.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$110.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos N$500.00
+III.- Por cada Libro de Registro de Corredores Públicos N$550.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2029,33 +2057,63 @@ Por autorización de cierre de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado N$150.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, y Santa Catarina, por cada libro autorizado N$165.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$60.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$66.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Para notarías públicas ubicadas en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado N$150.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, y Santa Catarina, por cada libro autorizado N$165.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$60.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado N$66.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos N$300.00
+III.- Por cada Libro de Registro de Corredores Públicos N$330.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 273.
 
-Por legalización de firmas N$15.00
+Por legalización de firmas:
+
+I.- Documentos escolares:
+
+a) Certificados de estudios de educación media superior N$40.00
+
+b) Actas de examen profesional N$200.00
+
+c) Constancias de titulación N$200.00
+
+d) Cartas de pasante N$200.00
+
+e) Certificados de estudios superiores N$200.00
+
+f) Títulos profesionales N$300.00
+
+g) Títulos de técnicos medios N$100.00
+
+II.- Documentos judiciales:
+
+a) Exhortos N$75.00
+
+b) Cartas de no antecedentes penales N$40.00
+
+III.- Actas del Registro Civil N$40.00
+
+IV.- Notariales N$100.00
+
+V.- Otros N$18.00
+
+En caso de que se hayan cubierto los derechos previstos en el artículo 275 bis, fracción I, de esta Ley, no se pagarán los derechos establecidos en la fracción I de este artículo, correspondientes al mismo trámite.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -2063,19 +2121,19 @@ Por legalización de firmas N$15.00
 
 Por los siguientes servicios prestados por las Corporaciones Policiacas.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 I.- Por registro y refrendo anual de vigilantes privados que presten sus servicios en forma independiente N$20.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- Por registro y refrendo anual de vigilantes privados que presten sus servicios bajo una relación de subordinación a un patrón, aún cuando el servicio sea prestado a terceras personas, por cada uno de ellos N$40.00
+II.- Por registro y refrendo anual de vigilantes privados que presten sus servicios bajo una relación de subordinación a un patrón, aún cuando el servicio sea prestado a terceras personas, por cada uno de ellos N$50.00
 
 Estos derechos deberán ser cubiertos por el patrón.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por registro y atención de alarmas, por cada establecimiento o local que reciba el servicio, semestralmente N$500.00
+III.- Por registro y atención de alarmas, por cada establecimiento o local que reciba el servicio, semestralmente N$550.00
 
 Estos derechos deberán ser cubiertos dentro del primer mes del período correspondiente. En caso de incumplimiento, la Dirección de Seguridad Pública del Estado impondrá una multa equivalente a dos tantos de los derechos omitidos.
 
@@ -2089,19 +2147,123 @@ Por los siguientes servicios prestados por la Dirección de Archivo General de N
 
 I.- Por certificación de constancia N$50.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- Por expedición de Segundos Testimonios, por hoja N$10.00
+II.- Por expedición de Segundos Testimonios, por hoja N$11.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por presentación de aviso testamentario N$50.00
+III.- Por presentación de aviso testamentario N$55.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- Por la expedición de informes sobre la existencia o inexistencia de testamentos N$50.00
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
 
 ###### ARTICULO 275 Bis.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
+Por los servicios prestados por la Secretaría de Educación.
+
+I.- Constancias de Estudios:
+
+a) Por la legalización de certificados de escuelas técnicas y comerciales N$25.00
+
+b) Por la legalización de certificados o expedición de duplicados de nivel medio superior N$40.00
+
+c) Por la revalidación y equivalencia de estudios de nivel medio superior y profesional, por materia N$10.00
+
+En ningún caso, la cantidad a pagar será inferior a N$50.00
+
+d) Por la legalización y registro de certificados de estudios de nivel medio superior N$40.00
+
+e) Por la legalización y registro de certificados de estudios profesionales N$200.00
+
+f) Por el registro y legalización de títulos profesionales N$300.00
+
+g) Por el registro y legalización de títulos técnicos medios N$100.00
+
+h) Por el trámite para cédula profesional N$100.00
+
+II.- Instituciones Educativas:
+
+1.- Por el inicio de trámite de incorporación, entrega de folleto-instructivo, por nivel específico y de paquete de formularios para el trámite N$80.00
+
+2.- Por los estudios y análisis de los siguientes programas oficiales:
+
+a) Educación inicial y preescolar N$100.00
+
+b) Primaria N$200.00
+
+c) Secundaria N$400.00
+
+d) Capacitación para el trabajo N$500.00
+
+e) Preparatoria general y técnica N$1,000.00
+
+f) Técnico Profesionista N$2,000.00
+
+g) Educación superior y especialización N$2,000.00
+
+h) Maestrías y doctorados N$5,000.00
+
+i) Modificación de programa N$1,000.00
+
+3.- Por incorporación:
+
+a) Educación inicial y preescolar N$1,000.00
+
+b) Primaria N$2,000.00
+
+c) Secundaria N$4,000.00
+
+d) Capacitación para el trabajo N$3,000.00
+
+e) Preparatoria general y técnica N$5,000.00
+
+f) Técnico profesional N$7,000.00
+
+g) Educación superior y especialización N$8,000.00
+
+h) Maestrías y doctorados N$10,000.00
+
+4.- Por el refrendo anual:
+
+a) Educación inicial y preescolar N$1,000.00
+
+b) Primaria N$2.000.00
+
+c) Secundaria N$4,000.00
+
+d) Capacitación para el trabajo N$3,000.00
+
+e) Preparatoria general y técnica N$5,000.00
+
+f) Técnica profesional N$7,000.00
+
+g) Educación superior y especialización N$8,000.00
+
+h) Maestrías y doctorados N$10,000.00
+
+5.- Por la actualización de datos:
+
+a) Cambio de nombre N$400.00
+
+b) Cambio de domicilio N$400.00
+
+c) Cambio de director N$400.00
+
+d) Cambio de representante legal N$400.00
+
+e) Cambio de personal docente N$400.00
+
+f) Cambio de persona física a personal moral N$1,000.00
+
+Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse durante el mes de Marzo de cada año.
+
+(REUBICADO [N. DE E. ANTES CAPITULO CUARTO] Y REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -2113,29 +2275,29 @@ Por los servicios prestados por la Secretaría de Finanzas y Tesorería General 
 
 I.- Por empadronamiento y refrendo anual de los establecimientos ubicados en los municipios de Apodaca, Escobedo, García, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Expendio de bebidas alcohólicas botella cerrada N$200.00
+a) Expendio de bebidas alcohólicas en botella cerrada N$220.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) Expendio de bebidas alcohólicas al copeo N$400.00
+b) Expendio de bebidas alcohólicas al copeo N$440.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-c) Expendio de bebidas alcohólicas, restaurantes con variedad artística o musical N$1,500.00
+c) Expendio de bebidas alcohólicas, restaurantes con variedad artística o musical N$1,700.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-d) Discotecas y salones de baile en donde se expendan bebidas alcohólicas N$3,000.00
+d) Discotecas y salones de baile en donde se expendan bebidas alcohólicas N$3,500.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-e) Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística y similares N$7,500.00
+e) Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística y similares N$8,500.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-f) Hoteles de paso N$7,500.00
+f) Hoteles de paso N$8,500.00
 
 Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
 
@@ -2151,73 +2313,103 @@ a) Si el importe de la renta calculado al mes no excede de N$500.00 ..... N$15.0
 
 b) Si el importe de la renta calculado al mes excede de N$500.00 ..... N$30.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por expedición de certificado de valor actual real, según el valor determinado en el avalúo, se pagarán por cada millar o fracción N$1.50
+III.- Por expedición de certificado de valor actual real, según el valor determinado en el avalúo, se pagarán por cada millar o fracción N$2.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 IV.- Por expedición de certificado de no inscripción catastral N$30.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-V.- Por expedición de constancias catastrales certificadas N$30.00
+V.- Por expedición de constancias catastrales sin certificar, cada una N$17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VI.- Por registro y revalidación de fierros y señales de ganado, por cada uno N$15.00
+VI.- Por expedición de constancias catastrales certificadas, cada una N$33.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VII.- Por servicios de control vehicular:
+VII.- Por registro de subdivisión, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote N$17.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Para vehículos de motor, excepto motocicletas, anualmente N$200.00
+VIII.- Por información y ubicación de predios N$17.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) En el caso del inciso anterior, si se proporcionan placas de circulación, adicionalmente N$75.00
+IX.- Por duplicados de certificado de valor actual real, por cada millar o fracción N$2.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+En ningún caso la cantidad a pagar será inferior a N$ 50.00 ni mayor de N$350.00
 
-c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo la placa de circulación anualmente N$45.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+X.- Por duplicado de tarjetones de Impuesto Predial N$17.00
 
-d) Por servicios de control vehicular para remolques, anualmente N$100.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-Si se proporcionan placas de circulación, adicionalmente N$40.00
+XI.- Por expedición de planos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+a) Manzaneros o de región N$40.00
 
-VIII.- Por reposición de tarjeta de circulación N$30.00
+b) Manzaneros o de región, certificados N$60.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+c) Lote N$20.00
 
-IX.- Por expedición de licencia de manejar o su reposición por bienio N$30.00
+d) Lote certificado N$40.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.0. 31 DE DICIEMBRE DE 1993)</small>
 
-X.- Por baja de vehículos del padrón vehicular N$40.00
+XII.- Por registro y revalidación de fierros y señales de ganado, por cada uno N$15.00
 
-XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
+> <small>(ADICIONADA, P.0. 31 DE DICIEMBRE DE 1993)</small>
 
-XII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
+XIII.- Por servicios de control vehicular:
 
-XIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1991)
+a) Para vehículos de motor, excepto motocicletas, anualmente N$325.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+b) Para remolques, anualmente N$130.00
 
-Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violación al Reglamento de Tránsito en vigor.
+c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo el alta en el padrón, anualmente N$50.00
 
-Quienes se encuentren obligados legalmente a solicitar los servicios a que se refiere este artículo, deberán hacerlo dentro del término que se señale al efecto.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+XIV.- Por reposición de tarjetas de circulación N$35.00
+
+> <small>(ADICIONADA, 31 DE DICIEMBRE DE 1993)</small>
+
+XV.- Por expedición de licencia de manejar o su reposición:
+
+a) Con vigencia anual N$30.00
+
+b) con vigencia de tres años N$90.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XVI.- Por alta en el padrón vehicular, a los vehículos mencionados en la fracción XIII en los incisos a) y b) N$50.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+XVII.- Por baja de vehículos del padrón vehicular N$45.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+El Estado y los Municipios podrán coordinarse en materia de control vehicular, debiendo para tales efectos celebrar los convenios respectivos, en los que se establecerán los términos y condiciones, a fin de llevar a cabo las acciones necesarias y ejercer las funciones inherentes al control vehicular, a la verificación del cumplimiento de obligaciones fiscales y de tránsito, así como las demás funciones relacionadas con esta materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Quienes se encuentren obligados legalmente a solicitar los servicios a que se refiere la fracción XIII de este artículo, deberán hacerlo a más tardar el último día del mes de marzo. De no ser así, se les aplicará una multa hasta del 100% de los derechos omitidos. El plazo a que se refiere este párrafo, podrá ser prorrogado por la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 La vigencia de las licencias de manejar expirará el último día del mes de nacimiento del conductor.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría del Trabajo
 
@@ -2227,9 +2419,9 @@ La vigencia de las licencias de manejar expirará el último día del mes de nac
 
 > <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
+### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 277.
 
@@ -2245,13 +2437,13 @@ I.- Registro de Títulos Profeisonales (sic):
 
 a) De maestros ….. N$20.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-b) De Corredor Público o de las Patentes de Notario Público ….. N$1,000.00
+b) De Corredor Público o de las Patentes de Notario Público ….. N$1,100.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-c) De los demás profesionistas ….. N$40.00
+c) De los demás profesionistas ….. N$45.00
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -2263,99 +2455,125 @@ En caso de que estos servicios sean prestados a trabajadores de patrones con má
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-III.- Por registro y refrendo anual del padrón del Gobierno del Estado, anualmente:
+III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Contratistas ….. N$400.00
+IV.- Por registro y refrendo anual del padrón del Gobierno del Estado, anualmente:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+a) Contratistas N$440.00
 
-b) Proveedores ….. N$200.00
+b) Proveedores N$220.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-IV.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción ….. N$5.00
+V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-V.- Por la expedición de constancias y certificados que expidan las Dependencias del Gobierno del Estado, no mencionados en las disposiciones de este Título ….. N$15.00
+VI.- Por la expedición de constancias y certificados, que expidan las Dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título N$18.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VI.- Por incorporación a las redes de agua y drenaje, por metro cuadrado del área vendible:
+VII.- Por incorporación a las redes de agua y drenaje, por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados N$2.40
 
-a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados ..... N$2.00
+b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados N$1.70
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados N$1.10
 
-b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados ..... N$1.50
+d) Fraccionamientos comerciales por metro cuadrado N$2.50
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+e) Fraccionamientos industriales N$2.75
 
-c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados ..... N$1.00
+f) Fraccionamientos campestres N$2.40
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+g) Fraccionamientos funerarios N$3.00
 
-d) Fraccionamientos industriales ..... N$2.50
+h) Predios que no formen parte de un fraccionamiento autorizado por las autoridades competentes, por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+1.- Por incorporación a las redes de agua N$1.00
 
-e) Fraccionamientos campestres ..... N$2.00
+2.- Por incorporación a las redes de drenaje N$1.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-f) Fraccionamientos funerarios ..... N$3.00
+VIII.- Por clasificación de carne de res, por canal N$3.80
 
-g) Predios que no formen parte de un fraccionamiento autorizado por las autoridades competentes, por metro cuadrado:
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+IX.- Por expedición de certificados a establecimientos para expender carne clasificada:
 
-1.- Por incorporación a las redes de agua ..... N$1.00
+a) Carnicerías N$200.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+b) Tiendas de autoservicio N$400.00
 
-2.- Por incorporación a las redes de drenaje ..... N$1.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
-
-VIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
+X.- Por expedición de certificaciones relativas a los derechos patrimoniales del Estado sobre un inmueble N$100.00
 
 ###### ARTICULO 277 Bis.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-### CAPITULO QUINTO
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
 
-De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-> <small>(ADICIONADO, P.0. 30 DE DICIEMBRE DE 1992)</small>
+## TITULO CUARTO. De los Productos
+
+### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ARTICULO 276 bis.- Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, se causarán los siguientes derechos:
 
 I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante N$500.00
 
-II.- Por licencia de uso de suelo o de edificaciones, N$1,000.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-a) Comercial, oficinas y servicios N$19.50
+Por regularización de predios de hasta 200 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de N$50,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, pagarán por cada lote o fracción resultante N$50.00
 
-b) Bodegas N$9.50
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-c) Industrial N$9.50
+II.- Por el inicio de trámite de licencia de uso de suelo o de edificación N$500.00
 
-d) Hospitales y escuelas privados N$6.50
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-e) Edificaciones habitacionales multifamiliares N$6.50
+III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
 
-f) Otros, excepto casa-habitación N$6.50
+a) Comercial N$19.50
 
-III.- Por factibilidad y autorización de regímenes en condominio, por metro cuadrado de construcción, excluyendo estacionamientos N$3.00
+b) Oficinas y servicios N$19.50
 
-IV.- Por autorización de fraccionamientos:
+c) Bodegas N$9.50
+
+d) Industrial N$9.50
+
+e) Hospitales y escuelas privados N$6.50
+
+f) Edificaciones habitacionales multifamiliares N$6.50
+
+g) Otros, excepto casa-habitación N$6.50
+
+Tratándose de locales comerciales, que no excedan de 100 metros cuadrados de superficie de construcción, no se encuentren en centros comerciales y que el valor catastral del mismo sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- Por factibilidad y autorización de regímenes en condominio:
+
+a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos N$3.00
+
+b) Horizontal, por metro cuadrado de terreno, conforme a la tarifa señalada en la fracción V.
+
+c) Mixto, le serán aplicables los derechos previstos en los incisos a) y b).
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+V.- Por autorización de fraccionamientos:
 
 a) Por factibilidad y lineamientos N$2,000.00
 
@@ -2363,23 +2581,23 @@ b) Por proyecto urbanístico, por metro cuadrado de área vendible:
 
 1.- Habitacionales o industriales, exceptuando los predios reservados para equipamientos comerciales y de servicios de acuerdo a lo siguiente:
 
-A) Lotes con superficie desde 85 metros cuadrados hasta 150 metros cuadrados N$3.00
+A) Lotes con superficie hasta 150 metros cuadrados N$3.00
 
 B) Lotes con superficie de más de 150 metros cuadrados hasta 300 metros cuadrados N$4.00
 
 C) Lotes con superficie mayor de 300 metros cuadrados N$5.00
 
-2.- Industriales ubicados en los municipios de Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina N$3.00
+2.- Industriales ubicados en los Municipios de Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina N$3.00
 
-3.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe y Juárez N$1.50
+3.- Industriales ubicados en los Municipios de Apodaca, Escobedo, Guadalupe y Juárez N$1.50
 
-4.- Campestres, ubicados en los municipios de San Pedro Garza García, Monterrey y Santiago N$3.00
+4.- Campestres ubicados en los Municipios de San Pedro Garza García, Monterrey y Santiago N$3.00
 
 5.- Campestres ubicados en el resto del Estado N$.20
 
 6.- Otros N$3.00
 
-c) Proyecto ejecutivo N$2,000.00
+c) Proyecto Ejecutivo N$2,000.00
 
 d) Autorización de ventas N$2,000.00
 
@@ -2391,13 +2609,23 @@ g) Modificaciones N$1,000.00
 
 h) Recepción de obra N$10,000.00
 
-V.- Por regularización y ordenamiento urbano en fraccionamientos, licencia de uso de suelo y edificaciones, N$18,000.00 por trámite, más las cuotas previstas en este artículo en las fracciones II y IV.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 30 DE DICIEMBRE DE 1992)
+VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, N$18,000.00 por trámite, más las cuotas previstas en este artículo en las fracciones III y V.
 
-## TITULO CUARTO. De los Productos
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO SEXTO. De los Derechos por Servicios Prestados por Diversas Dependencias
+VII.- Por expedición de copias certificadas de planos N$60.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VIII.- Por la expedición de diversas constancias y certificaciones N$40.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Tratándose del derecho a que se refiere la fracción II y el inciso a) de la fracción III, se cubrirá tan solo un 50%, cuando el contribuyente sea persona jubilada, pensionada, discapacitada o viuda y que el destino sea comercial siempre y cuando comprueben ante la autoridad correspondiente su condición y que sus ingresos mensuales no excedan del importe equivalente a tres salarios mínimos diarios elevados al mes.
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P. O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -2425,9 +2653,9 @@ Los productos, por conceptos diversos a los señalados en el Artículo anterior,
 
 ### CAPITULO UNICO
 
-### CAPITULO UNICO
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias
 
 ###### ARTICULO 280.
 
@@ -2457,7 +2685,11 @@ XI.- Accesorios y Rezagos; y,
 
 XII.- Otros no especificados.
 
+> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ## TITULO SEXTO. Tasas Adicionales
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -2465,11 +2697,19 @@ XII.- Otros no especificados.
 
 ###### ARTICULO 281.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Los organismos descentralizados y los fideicomisos en los que el Gobierno del Estado sea fideicomitente único, cubrirán el 15% de los ingresos que obtengan en 1994, excluyendo los que deriven del otorgamiento de créditos y transferencias.
+
+Dicha aportación la realizarán a más tardar el día 7 del mes siguiente a aquél al que se hayan percibido los ingresos.
+
+(ADICIONADO Y REUBICADO, P.O. DE 31 DE DICIEMBRE DE 1993).
 
 ###### ARTICULO 282.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Las personas físicas o morales, públicas o privadas, que se les haya otorgado el aval del Estado para la contratación de créditos y durante 1994 mantengan saldos ejercidos, están obligadas al pago anual del 2% sobre el promedio diario de los pasivos adeudados durante el año, incluyendo intereses.
+
+Las personas a que se refiere el párrafo anterior, efectuarán pagos provisionales, los cuales se obtendrán aplicando la tasa del 2% al resultado que se obtenga de sumar los saldos diarios de los pasivos del mes respecto del cual se calcula, dividiéndolo entre los días del año.
+
+El pago provisional será enterado a más tardar el día siete del mes siguiente a aquél respecto del cual se calcula el pago.
 
 ###### ARTICULO 283.
 
@@ -2706,3 +2946,9 @@ El presente Decreto entrará en vigor al día 1º de Enero de 1993, con excepci�
 ###### ARTICULO SEGUNDO.
 
 Las cantidades monetarias expresadas en esta Ley, se entienden referidas a la unidad a que hace referencia el artículo 1º del Decreto por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos, expedido por el Congreso de la Unión el día 18 de Junio de 1992 y publicado en el Diario Oficial de la Federación el día 22 del mismo mes y año.
+
+P.O. 30 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1o. de Enero de 1994.
