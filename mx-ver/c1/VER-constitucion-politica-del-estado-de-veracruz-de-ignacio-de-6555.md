@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1944-11-21"
+last_updated: "1947-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 Y 23 DE NOVIEMBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE DICIEMBRE DE 1947.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -106,6 +106,10 @@ II.- Al concluir el 30 de noviembre de 1946 el período para el cual fueron desi
 III.- Los actuales Jueces de Primera Instancia cesarán en sus funciones el 30 de noviembre de 1944, siempre que no hubieren sido removidos antes por el Tribunal Superior, de acuerdo con sus facultades.
 
 IV.- Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado, señalándose al efecto para tal acto el día 26 del mes en curso.
+
+G.O. 13 DE DICIEMBRE DE 1947.
+
+UNICO. La presente Ley surtirá sus efectos a partir de la fecha de su publicación por Bando Solemne.
 
 ### CAPITULO II.
 
@@ -629,9 +633,9 @@ VI. Usurpar las facultades de los Poderes Ejecutivo y Judicial, y mezclarse en e
 
 VII. Otorgar dispensas por revalidación en los estudios que determinen las leyes sobre enseñanza pública, para el efecto de obtener títulos profesionales;
 
-> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 1947)</small>
 
-VIII. Condonar los impuestos causados en favor de los Municipios, a no ser en el caso de que los Ayuntamientos interesados lo soliciten o expresen su conformidad.
+VIII. Condonar los impuestos causados a favor de los Municipios.
 
 ###### Artículo 70.
 
@@ -670,6 +674,10 @@ La base de la división territorial y de la organización política del Estado e
 ###### Artículo 111.
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(ADICIONADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
+
+En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
 
 ###### Artículo 112.
 
@@ -767,7 +775,9 @@ VI. No haber sido condenado por sentencia ejecutoria, dictada por los Tribunales
 
 Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos directamente por el Gobernador, quedando encomendados los trámites relativos a la Secretaría de Gobierno.
 
-Las designaciones de Magistrados serán sometidas a la aprobación de la Legislatura, la que otorgará o denegará esa aprobación dentro del improrrogable término de diez días. Si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación expresa o tácita de la Legislatura, no podrán tomar posesión de sus cargos los Magistrados nombrados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un nombramiento, que surtirá efectos desde luego, como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Legislatura deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones el Magistrado y el Gobernador hará nueva proposición en los términos señalados.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
+
+Las designaciones de Magistrados serán sometidas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, la que otorgará o denegará esa aprobación dentro del improrrogable término de diez días. Si no se objetare la designación dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación expresa o tácita de la Legislatura, o en su caso, de la Diputación Permanente, no podrán tomar posesión de sus cargos los Magistrados nombrados por el Gobernador. En el caso de que no se aprueben dos nombramientos sucesivos respecto de la misma vacante, el Gobernador, hará un nombramiento, que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período, dentro de los primeros diez días, la Legislatura deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones de Magistrado y el Gobernador hará una nueva proposición en los términos señalados.
 
 Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
 
@@ -1169,9 +1179,9 @@ I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la mis
 
 II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 1947)</small>
 
-III. Otorgar o negar su aprobación a los nombramientos de Magistrados, así como a las solicitudes de licencias de los mismos, que le someta el Gobernador. Ejercer las mismas funciones que la Legislatura, en los casos de las fracciones IX y X del artículo 68;
+III. Otorgar o negar su aprobación a los nombramientos de Magistrados, así como a las solicitudes de licencia de los mismos, que le someta el Gobernador. Ejercer las mismas funciones que la Legislatura en los casos de las fracciones VII, IX y X del artículo 68;
 
 IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
 
@@ -1219,13 +1229,17 @@ El Gobernador, en cada período constitucional, tomará posesión de su encargo 
 
 El Gobernador durará seis años en su cargo y en ningún caso, ni por ningún motivo podrá volver a ocupar ese puesto, ni aun con el carácter de Interino, Provisional, Substituto o Encargado del Despacho.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE DICIEMBRE DE 1947)</small>
+
 ###### Artículo 86.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en funciones, se constituirá en Colegio Electoral inmediatamente; y concurriendo, cuando menos, las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador; la misma Legislatura expedirá la convocatoria a elecciones, procurando que la fecha señalada, coincida, en lo posible, con la de las próximas elecciones de Diputados.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en funciones, se constituirá en Colegio Electoral inmediatamente; y concurriendo, cuando menos, las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador; la misma Legislatura expedirá la convocatoria a elecciones, procurando que la fecha señalada, coincida si es posible, con la de las próximas elecciones a Diputados.
 
 Si la Legislatura no estuviere en sesiones, la Diputación permanente, nombrará, desde luego, un Gobernador Provisional, y convocará a sesiones extraordinarias, para que la Legislatura expida la convocatoria a elecciones de Gobernador, en los mismos términos del párrafo anterior.
 
-Cuando la falta de Gobernador ocurriese en los dos últimos años del período respectivo, si la Legislatura se encontrase en sesiones, elegirá al Gobernador substituto que deberá concluir el período; si la Legislatura no estuviere reunida, la Diputación permanente nombrará un Gobernador Provisional y convocará a la Legislatura a sesiones extraordinarias, para que, erigiéndose en Colegio Electoral, haga la elección de Gobernador substituto.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
+
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si la Legislatura se encontrase en sesiones, elegirá al Gobernador substituto, que deberá concluir el período; si la Legislatura no estuviere reunida, la Diputación Permanente nombrará un Gobernador provisional y convocará a la Legislatura a sesiones extraordinarias, para que, erigida en Colegio Electoral, haga la elección de Gobernador substituto.
 
 El Gobernador Provisional podrá ser electo por la Legislatura como substituto.
 
@@ -1275,9 +1289,9 @@ XIV. Nombrar y remover libremente al Secretario de Gobierno, al Tesorero General
 
 XV. Nombrar y remover libremente al Procurador General de Justicia, al Director de Educación, al Director General de Salubridad y a todos los Funcionarios y empleados dependientes del Poder Ejecutivo;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 1947)</small>
 
-XVI. Proponer Magistrados del Tribunal Superior de Justicia a la Legislatura o a la Diputación Permanente en su caso;
+XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia, sometiéndola a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
