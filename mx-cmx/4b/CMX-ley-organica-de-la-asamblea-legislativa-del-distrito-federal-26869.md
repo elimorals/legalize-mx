@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2003-09-23"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -250,7 +250,7 @@ II.- Formar parte de hasta cuatro comisiones y/o comités de la Asamblea;
 
 III.- Cumplir con diligencia los trabajos que les sean encomendados por el Pleno, La Diputación Permanente, la Comisión de Gobierno, las comisiones y los comités;
 
-IV. - Observar las normas de la Constitución Política de los Estados Unidos Mexicanos, del Estatuto, de la presente ley y del Reglamento para el Gobierno Interior de la Asamblea Legislativa y el Reglamento Interior para comisiones de esta Asamblea;
+IV.- Observar las normas de la Constitución Política de los Estados Unidos Mexicanos, del Estatuto, de la presente ley y del Reglamento para el Gobierno Interior de la Asamblea Legislativa y el Reglamento Interior para comisiones de esta Asamblea;
 
 V.- Observar en el ejercicio de sus funciones, en el recinto una conducta y comportamiento en congruencia con la civilidad política, tolerancia y respeto en su carácter de representante ciudadano;
 
@@ -866,17 +866,19 @@ d).- Regulación interna de los tribunales de justicia del fuero común del Dist
 
 e).- Las demás que señalen las leyes.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 84.
 
-Las iniciativas presentadas por los Diputados y por el Jefe de Gobierno pasarán de inmediato a la comisión o a las comisiones respectivas para que se dictamine.
+Las iniciativas presentadas por los Diputados y por el Jefe de Gobierno pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictamine.
 
-Los proyectos de iniciativa de leyes o decretos que se presenten ante la Asamblea deberán ir acompañados de una exposición de motivos en la cual se fundamente y motive las razones del proyecto, así como de los antecedentes necesarios para poder pronunciarse sobre ellos, firmados cuando menos por su proponente.
+Los proyectos de iniciativa de Leyes o Decretos que se presenten ante la Asamblea deberán ir acompañados de una exposición de motivos en la cual se fundamente y motive las razones del proyecto, así como de los antecedentes necesarios para poder pronunciarse sobre ellos, firmados cuando menos por su proponente. El tiempo para hacer uso de la tribuna con tal efecto, será no mayor a los treinta minutos, salvo acuerdo en contrario del Pleno de la Asamblea.
 
-Las iniciativas populares será (sic) turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia de la propuesta, para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada.
+Las iniciativas populares serán turnadas a una Comisión Especial integrada por miembros de las Comisiones competentes en la materia de la propuesta para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada.
 
-Las iniciativas desechadas por la Asamblea, no podrán volver a discutirse sino en el siguiente período de sesiones ordinarias.
+Las iniciativas desechadas por la Asamblea no podrán volver a discutirse sino en el siguiente periodo de Sesiones Ordinarias.
 
-En la interpretación, reforma o derogación de las leyes, se observarán los mismos trámites establecidos para su formación.
+En la interpretación, reforma o derogación de las Leyes, se observarán los mismos trámites establecidos para su formación.
 
 ### CAPITULO ÚNICO. DEL PROCEDIMIENTO LEGISLATIVO
 
@@ -1053,3 +1055,9 @@ G.O. 23 DE SEPTIEMBRE DE 2003.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente a su aprobación por el Pleno de la Asamblea.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su publicación en la Gaceta Oficial del Distrito Federal.
