@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-crea-el-consejo-estatal-de-archivos-historicos-25620"
 country: "mx"
 rank: "ley"
 publication_date: "1955-04-17"
-last_updated: "1955-04-17"
+last_updated: "1978-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ARCHIVOS HISTORICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el 17 de abril de 1955.
 
@@ -45,6 +45,8 @@ Se crea el CONSEJO ESTATAL DE ARCHIVOS HISTÓRICOS, encargado de velar por la co
 
 EL CONSEJO ESTATAL DE ARCHIVOS HISTORICOS, es una Institución descentralizada, con personalidad jurídica para todos los sefectos (sic) legales.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1978)</small>
+
 ###### ARTICULO 3o.
 
 EL CONSEJO ESTATAL DE ARCHIVOS HISTORICOS quedará integrado por nueve miembros, en la forma siguiente:
@@ -59,13 +61,13 @@ Un Representante del H. Ayuntamiento de la Capital, con representación de los A
 
 Un Representante del Gobierno Federal,
 
-Un Representante de Protocolos,
+Un Representante de la Academia de Historia Potosina,
 
 Un Representante de las Autoridades Eclesiásticas,
 
 Un Representante de la Universidad Autónoma de San Luis Potosí, y
 
-Un Representante del Instituto Nacional de Antropología e Historia.
+Un Representante de la Sociedad Potosina de Estudios Históricos.
 
 ###### ARTICULO 4o.
 
@@ -120,3 +122,9 @@ ISMAEL SALAS
 El Secretario General de Gobierno,
 
 Lic. PEDRO PABLO GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 1978.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
