@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-de-transporte-colectivo-de-la-zona-625
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-03-16"
-last_updated: "1981-01-06"
+last_updated: "1990-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de marzo de 1978.
 
@@ -73,35 +73,35 @@ b).- Un Director General.
 
 El Consejo de Administración de "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA" estará integrado por los Consejeros Propietarios a que se refiere el Artículo siguiente, debiendo haber por cada uno, un Consejero Suplente.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL 1990)</small>
 
 ###### ARTICULO 6o.
 
-Los miembros Consejeros serán:
+Los miembros consejeros serán:
 
-El Representante del Gobernador del Estado, que será el Presidente del Consejo.
+I.- El representante del Gobernador del Estado, quien será el Presidente del Consejo;
 
-El Presidente Municipal de Guadalajara.
+II.- El Presidente Municipal de Guadalajara;
 
-El Presidente Municipal de Zapopan.
+III.- El Presidente Municipal de Zapopan;
 
-El Presidente Municipal de Tlaquepaque.
+IV.- El Presidente Municipal de Tlaquepaque;
 
-El Presidente de la Cámara Nacional de Comercio de Guadalajara.
+V.- El Presidente de la Cámara Nacional de Comercio de Guadalajara;
 
-El Tesorero General del Estado quien tendrá el carácter de Tesorero del Consejo.
+VI.- El Secretario de Finanzas del Estado, quien tendrá el carácter de Tesorero del Consejo;
 
-El Jefe del Departamento de Tránsito del Estado.
+VII.- El Secretario de Vialidad y Transporte del Estado;
 
-El Jefe del Departamento de Planeación y Urbanización del Estado.
+VIII.- El Secretario de Desarrollo Urbano y Rural del Estado;
 
-El Jefe del Departamento de Programación y Desarrollo del Estado.
+IX.- El Secretario de Promoción y Desarrollo Económico del Estado;
 
-El Secretario General de la Federación de Trabajadores de Jalisco.
+X.- El Secretario General de la Federación de Trabajadores de Jalisco;
 
-El Secretario General de la Confederación Revolucionaria de Obreros y Campesinos de Jalisco.
+XI.- El Secretario General de la Confederación Revolucionaria de Obreros y Campesinos de Jalisco, y
 
-El Secretario General del Sindicato de Trabajadores de "Sistema de Transporte Colectivo de la Zona Metropolitana".
+XII.- El Secretario General del Sindicato de Trabajadores de "Sistema de Transporte Colectivo de la Zona Metropolitana".
 
 ###### ARTICULO 7o.
 
@@ -181,7 +181,9 @@ I.- Representar al "Sistema" ante las Autoridades Administrativas, Judiciales y 
 
 II.- Designar al personal de confianza, de acuerdo a las disposiciones relativas;
 
-III.- Designar a los demás empleados que la administración requiera, en los términos de esta Ley y de la Ley de Servidores Públicos del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1990)</small>
+
+III.- Designar a los demás empleados que la administración requiera, en los términos de esta Ley y de la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
 
 IV.- Formular el presupuesto anual de egresos y de ingresos, que presentará al Consejo de Administración, durante el mes de noviembre del año anterior a su ejercicio;
 
@@ -215,9 +217,11 @@ En las controversias en que sea parte el organismo la misma quedará exceptuada 
 
 El personal de dirección, administración e inspección que tenga responsabilidad directa o indirecta en el manejo de fondos y valores de "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA", deberá caucionar debidamente su manejo, mediante fianza otorgada por Instituciones de Fianza legalmente autorizada, por el monto que fije el Consejo de Administración.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 1990)</small>
+
 ###### ARTICULO 18.
 
-Las relaciones de trabajo entre "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA" y sus trabajadores de base, se regirán por la Ley para los Servidores Públicos del Estado.
+Las relaciones de trabajo entre "Sistema de Transporte Colectivo de la Zona Metropolitana" y sus trabajadores de base, se regirán por la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
 
 Las relaciones de trabajo entre "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA" y sus trabajadores de confianza, se regirán, por el Reglamento del artículo 69 de la Ley Orgánica del Poder Ejecutivo.
 
@@ -278,3 +282,7 @@ P.O. 6 DE ENERO DE 1981.
 Primero. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Segundo. Este Decreto comenzará a surtir sus efecto el día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 14 DE ABRIL DE 1990.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial El Estado de Jalisco.
