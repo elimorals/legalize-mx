@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-mercados-del-municipio-de-gral-escobedo-nuevo-418
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-02"
-last_updated: "1992-03-02"
+last_updated: "1999-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE MERCADOS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de marzo de 1992.
 
@@ -40,9 +40,11 @@ REGLAMENTO DE MERCADOS
 
 Las disposiciones contenidas en el presente Reglamento son de orden público y se expiden con fundamento en lo previsto por los Artículos 115, fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 131, fracciones I y II, inciso H de la Constitución Política del Estado de Nuevo León; 26, Inciso A, fracción IV, 160, 161 y 162 de la Ley Orgánica de la Administración Pública Municipal y 4, inciso F) del Reglamento Interior del Municipio de General Escobedo, Nuevo León y tiene como objeto la organización y administración de los Mercados Públicos Municipales, así como la vigilancia sobre el funcionamiento de los mercados públicos particulares.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### Artículo 2°.
 
-El servicio que se presta a través del funcionamiento de los Mercados Públicos corresponde a la Autoridad Municipal, quién podrá en todo tiempo concesionarlo o autorizar a particulares para que lo presten.
+El servicio que se presta a través del funcionamiento de los Mercados Públicos corresponde a la Autoridad Municipal, quién podrá en todo tiempo concesionarlo o autorizar a particulares para que lo presten. Las concesiones que se otorguen a particulares en relación a los mercados municipales se regularán por las disposiciones a la Ley Orgánica de la Administración Pública Municipal.
 
 ###### Artículo 3°.
 
@@ -184,13 +186,31 @@ VIII. Efectuar cambios de giro sin autorización, la Jefatura de Mercados o la t
 
 IX. Utilizar los salones administrativos o de actos como bodegas o dormitorios;
 
-X. Remodelar o modificar los locales concesionados, en su estructura original; y
+X. Remodelar o modificar los locales concesionados, en su estructura original; y (sic)
 
-XI. Contar con más de un local concesionado.
+XI. Contar con más de un local concesionado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XII. Emprender o realizar obra alguna sobre los locales sin el permiso previo de la Jefatura de Mercados o Tesorería Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XIII. Tener veladoras y velas encendidas que puedan constituir un peligro para la seguridad del mercado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XIV. Tener en funcionamiento radios, televisores o aparatos fonoelectromecánicos cuyo volumen cause molestias-a los locatarios y al público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XV. Queda estrictamente prohibido por razones de seguridad el uso de tanques de gas butano, al interior de las instalaciones de los mercados municipales, El locatario que sea sorprendido con algunos de ellos, será sancionado con la cancelación del permiso y la clausura inmediata del local inscrito a su nombre.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### Artículo 26°.
 
-Además de las prohibiciones a que se hace referencia el artículo anterior, los comerciantes se obligan a cumplir con lo siguiente:
+Además de las prohibiciones a que se hace referencia el artículo anterior, los comerciantes se obligan a cumplir lo siguiente:
 
 I. Destinar el local al comercio directo y al menudeo de productos básicos, manteniéndolo en buen estado y observando las normas de higiene, aseo, limpieza y seguridad impuestas por las Autoridades competentes y la Jefatura de Mercados;
 
@@ -210,9 +230,29 @@ VIII.- Pagar oportunamente las cuotas por concesión de locales, gozando de hast
 
 IX.- Realizar en forma personal las gestiones relacionadas con los locales que se ocupen y refrendar su permiso en las fechas que señale la Autoridad;
 
-X.- Dejar de observar el Reglamento de Policía y Buen Gobierno en el interior de los merados; y
+X.- Dejar de observar el Reglamento de Policía y Buen Gobierno en el interior de los merados; y (sic)
 
-XI.- Observar el buen manejo y cuidado del patrimonio municipal y el local concesionado.
+XI.- Observar el buen manejo y cuidado del patrimonio municipal y el local concesionado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XII.- Operar exclusivamente conforme al giro autorizado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XIII.- Permanecer en los locales dentro de los horarios marcados por la Jefatura de Mercados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XIV.- Inscribir a quienes presten el servicio personal bajo su subordinación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XV.- La denominación del giro así como la propaganda comercial deberá hacerse exclusivamente en idioma castellano con apego a la moral y a las buenas costumbres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 1999)</small>
+
+XVI.- Cumplir con las disposiciones fiscales, del Seguro Social, Infonavit, de Salud, tanto de carácter Federal, Estatal como Municipal.
 
 ### CAPITULO CUARTO. MERCADOS PUBLICOS PARTICULARES
 
@@ -226,9 +266,25 @@ II. Manifestar por escrito ante la Tesorería Municipal, el giro comercial y el 
 
 ### CAPITULO QUINTO. DEL EMPADRONAMIENTO
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### Artículo 28°.
 
 Los comerciantes permanentes y temporales de los Mercados Públicos Municipales, tienen la obligación de empadronarse ante la Jefatura de Mercados Municipales y la Tesorería Municipal.
+
+Para obtener el empadronamiento a que se refiere el párrafo anterior, se requiere:
+
+a) Presentar ante la Jefatura de mercados municipales y la tesorería municipal, una solicitud, en las formas aprobadas por el municipio, cumpliendo con la manifestación verídica y exacta de los datos que se exigen en la misma.
+
+b) Comprobar ser mexicano por nacimiento y haber cumplido 16 años.
+
+c) Demostrar ser residente del área metropolitana.
+
+d) Presentar constancia de no infracciones administrativas.
+
+e) Estar en pleno goce de los derechos civiles y políticos.
+
+f) Someterse a estudios socioeconómicos.
 
 ###### Artículo 29°.
 
@@ -241,6 +297,20 @@ La solicitud señalada, deberá ir acompañada de tarjeta de salud, constancia d
 ###### Artículo 31°.
 
 La Jefatura de Mercados Municipales o la Tesorería Municipal otorgará respuesta en un plazo de siete días naturales, a la solicitud a que se refiere el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo 35° (SIC) Bis.- Para obtener la autorización de traspaso se requiere:
+
+a) Presentar solicitud por escrito tanto del cedente como del cesionario.
+
+b) Demostrar que el cesionario tiene capacidad jurídica, es de nacionalidad mexicana, reside en el área Metropolitana.
+
+c) Acompañar a la solicitud la cédula de empadronamiento que se expidió así como los comprobantes de pagos, al corriente, de las obligaciones contractuales, reglamentarías y legales.
+
+d) Obtener la autorización sanitaria o tarjeta de salud.
+
+e) Presentar tres fotografías.
 
 Artículo 39° (SIC).- Si durante el trámite que se indica en el artículo anterior, se suscitare alguna controversia entre el solicitante y un tercero, se suspenderá el procedimiento de trámite, dejando a salvo los derechos de las partes que promuevan el juicio respectivo, sin obligación para la autoridad de mantener inactivo algún local por el tiempo que llegare a durar el conflicto citado.
 
@@ -400,6 +470,168 @@ En caso de reincidencia, o que resultaren insuficientes las sanciones impuestas,
 
 A falta de disposición expresa en este Reglamento, se observarán y se aplicarán de manera supletoria las disposiciones de la Ley Estatal de Salud y su Reglamento, el Reglamento de Cierre Comercial, el Reglamento de Limpia Municipal, las disposiciones de las Tesorerías tanto Estatal como Municipal y cuanto Reglamento se encuentra en vigor en el Estado y el Municipio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1999)</small>
+
+### CAPITULO DECIMO. DE LAS ACTIVIDADES DE COMERCIALIZACION
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 64°.- Los giros comerciales en los mercados municipales deberán ser autorizados por la Jefatura de Mercados Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 65°.- Las actividades de comercialización permitidas en los mercados municipales serán:
+
+a) Frutas y legumbres.
+
+b) Carnicerías.
+
+c) Mariscos.
+
+d) Hierberías.
+
+e) Especies, chiles, condimentos, granos y semillas.
+
+f) Alfarerías.
+
+g) Artesanías.
+
+h) Comidas.
+
+i) Revisterías.
+
+j) Florerías.
+
+k) Cristalerías
+
+l) Dulcerías.
+
+m) Sombrererías.
+
+n) Joyerías.
+
+ñ) Expendios de lotería.
+
+o) Refresquerías.
+
+p) Discos y cassettes.
+
+q) Artículos religiosos.
+
+r) Ventas de aves.
+
+s) Jugueterías.
+
+t) Plantas de ornato.
+
+u) Ferretería.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 66°.- En la solicitud que formule el comerciante, deberá señalar el giro comercial, para guardar el orden correspondiente que quedará debidamente determinado en la autorización, reservándose la Jefatura de Mercados Municipales el señalar el lugar, dentro del mercado municipal, dentro del cual se pueda operar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 67°.- Toda suspensión temporal de actividades por el comerciante a quien se le haya concedido autorización, deberá ser avisada con oportunidad a la Jefatura de Mercados Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 68°.- Los comerciantes deberán refrendar el empadronamiento durante el mes de Enero de cada año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 69°.- La Jefatura de Mercados Municipales expedirá credencial, con fotografía en la que se identifique el titular del permiso y giro al que se dedica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1999)</small>
+
+CAPITULO ONCEAVO
+
+DE LAS AUTORIDADES MUNICIPALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 70°.- Son autoridades competentes para la aplicación del presente reglamento:
+
+a) El Presidente Municipal.
+
+b) El Secretario del R. Ayuntamiento.
+
+c) El Tesorero Municipal.
+
+d) El Jefe de Mercados Municipales.
+
+e) El Síndico Segundo en ejercicio de las 'atribuciones que señalan en la Ley Orgánica de la Administración Pública Municipal, o como representante legal del Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 71°.- Compete al Presidente Municipal:
+
+I). Formular ante el R. Ayuntamiento la iniciativa para la concesión, a particulares del servicio público de Mercados Municipales.
+
+II). Someter a la aprobación del Ayuntamiento las disposiciones de carácter general que tiendan a regular el funcionamiento administrativo de los Mercados Municipales.
+
+III). Cumplir y hacer cumplir las disposiciones legales, reglamentarias y las emanadas del R. Ayuntamiento en relación al servicio público de Mercados Públicos Municipales.
+
+IV). Todas las demás que se desprenden de éste reglamento y las que se deriven de la Ley 0rgánica de la Administración Pública Municipal y demás disposiciones relacionadas con el servicio público de Mercados Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 72°.- El Secretario del R. Ayuntamiento tendrá las siguientes atribuciones:
+
+I). Firmar los actos, acuerdos, disposiciones y comunicaciones que el Presidente Municipal expida en relación al funcionamiento y organización del servicio público de Mercados Municipales.
+
+II). Autorizar el auxilio de la fuerza pública para hacer cumplir las resoluciones del R. Ayuntamiento, del Presidente Municipal y demás Autoridades Competentes en la operación y funcionamiento de servicios públicos Municipales.
+
+III). Las demás que se desprenden del presente reglamento, de la Ley Orgánica de la Administración Pública Municipal y demás normas que tengan relación con el servicio público de Mercados Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 73°.- Compete al Tesorero Municipal:
+
+I). La recaudación de las cuotas, rentas, primas, que deben cubrir los locatarios de los Mercados Municipales.
+
+II). Determinar y liquidar las obligaciones de carácter tributario a cargo de quienes operan los Mercados Municipales.
+
+III). Requerir de pago e -iniciar y continuar el procedimiento' administrativo de ejecución en contra de quien incumpla con las obligaciones a que se refiere el inciso anterior.
+
+IV). Expedir la cédula de empadronamiento o número de cuenta a los locatarios u ocupantes de los Mercados Municipales.
+
+V). Las demás que se desprendan de la Ley Orgánica de la Administración Pública Municipal y el presente reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 74°.- La Jefatura de Mercados Municipales tendrá las siguientes atribuciones:
+
+I). Llevar el padrón de los comerciantes que acudan u ocupen los mercados municipales.
+
+II). Administrar el funcionamiento de los mercados municipales.
+
+III). Ordenar la instalación, alineamiento, reparación, pintura y modificación de los locales.
+
+IV). Expedir los mandamientos para el desalojo o retiro de los ocupantes de uno u otros de los locales de los mercados municipales.
+
+V). Cancelar o retirar, previo el derecho de audiencia, el permiso o licencia, otorgada a los ocupantes de los locales de los mercados municipales, cuando existan violaciones al contrato y al presente reglamento.
+
+VI). Las demás que se desprendan del presente reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 75°.- Las actuaciones de las autoridades a que se refiere el artículo anterior, será mediante mandamientos u ordenes debidamente motivadas y fundadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1999)</small>
+
+CAPITULO DOCEAVO
+
+PROCEDIMIENTO DE REVISION Y CONSULTA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 76°.- En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+Artículo. 77°.- Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del R. Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -477,3 +709,11 @@ Sr. Santos Villarreal Rodríguez.
 El C. Segundo Síndico.
 
 Sr. Carlos Medina Román.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MAYO DE 1999.
+
+PRIMERO: Las presentes reformas al Reglamento de Mercados en el Municipio de General Escobedo, Nuevo León, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Envíese al Periódico Oficial del Estado por conducto de la Secretaría General de Gobierno, para su promulgación y publicación.
