@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2002-01-02"
+last_updated: "2002-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -987,7 +987,7 @@ I. Calificación Registral, por testimonio o documento ½ cuota
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, [N. DE E. REFORMADO] P.O. 2 DE ENERO DE 2002)</small>
 
 a) Tratándose de inmuebles con valor de hasta siete veces el salario
 
@@ -995,7 +995,7 @@ mínimo vigente elevado al año, se cubrirá la tarifa mínima general por
 
 inmueble equivalente a: 12 cuotas
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, [N. DE E. REFORMADO] P.O. 2 DE ENERO DE 2002)</small>
 
 b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y 14.0 veces el
 
@@ -1261,7 +1261,9 @@ a) Rústicos:
 
 2.- De 1-00-01 Has; en adelante, se aumentará por hectárea o fracción 4.5 cuotas.
 
-b) Urbano, por m2 1.5 cuotas;
+> <small>(REFORMADO P.O. 14 DE DICIEMBRE DE 2002)</small>
+
+b) Urbano, por m2 $1.50;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1916,3 +1918,9 @@ P.O. 2 DE ENERO DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
+
+P.O. 14 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
