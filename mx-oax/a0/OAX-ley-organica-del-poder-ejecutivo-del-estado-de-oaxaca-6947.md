@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "1996-05-28"
+last_updated: "1999-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -145,6 +145,10 @@ XI.- SECRETARIA DE SALUD.
 
 XII.- SECRETARIA TECNICA.
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1999)</small>
+
+XIII.- SECRETARIA DE TRANSPORTE.
+
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
 
 Al frente de cada una de las Dependencias a que se refiere este artículo habrá un servidor público que será su Titular y se denominará respectivamente Secretario, Procurador General de Justicia y Contralor General. Para el despacho de los asuntos de la competencia de sus respectivas Dependencias los Secretarios, el Procurador General de Justicia y el Contralor General se auxiliarán de Directores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
@@ -203,9 +207,7 @@ X.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)(REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
 XI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1994)</small>
-
-XII.- Otorgar concesiones y permisos para la explotación de servicios de autotransporte en las poblaciones, carreteras y caminos de jurisdicción estatal, sujetándose a lo dispuesto por la Ley y Reglamento de la materia.
+XII.- (DEROGADA, P.O. 5 DE JULIO DE 1999)
 
 XIII.- Organizar y dirigir el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio.
 
@@ -271,7 +273,7 @@ III.- Implantar programas permanentes de protección civil, vigilancia del orden
 
 IV.- Coordinar e implantar todas las acciones relacionadas con la protección civil para casos de emergencia y de desastres;
 
-V.- Reglamentar y aplicar normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos de jurisdicción estatal;
+V.- (DEROGADA, P.O. 5 DE JULIO DE 1999)
 
 VI.- Elaborar y ejecutar los programas de readaptación social de los infractores;
 
@@ -661,6 +663,36 @@ XXII.- Vigilar que los programas que se realicen en materia Agrícola, Ganadera 
 
 XXIII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 1999)</small>
+
+ARTICULO 27 BIS.- A la Secretaría de Transporte corresponde el despacho de los siguientes asuntos:
+
+I.- Formular, organizar y ejecutar los planes, programas y acciones en materia de tránsito vehicular y transportes terrestres, privados y públicos, de pasaje o carga, en las vías de jurisdicción estatal, con la intervención de los Municipios;
+
+II.- Desahogar los procedimientos jurídicos de todos aquellos asuntos que conforme a las disposiciones legales y reglamentarias demanden la aprobación o decisión del Ejecutivo del Estado, en materia de transporte;
+
+III.- Coordinar y promover la celebración de convenios de coordinación y colaboración con los Municipios del Estado, en los términos del artículo 115 de la Constitución Federal;
+
+IV.- Coordinarse con otras Entidades Federativas y las Autoridades Federales, previo acuerdo del Ejecutivo Estatal, con la finalidad de lograr eficiencia y seguridad en los servicios de tránsito y transportes públicos;
+
+V.- Elaborar y proponer, a las autoridades competentes, estudios y proyectos de infraestructura vial que se requieran en el Estado;
+
+VI.- Formular en el ámbito de su competencia, la reglamentación en materia de tránsito y transportes, así como aplicar las normas técnicas y operativas que de éstos emanen;
+
+VII.- Supervisar la correcta explotación de las concesiones y permisos de transporte público, de pasaje o carga, en cualquiera de sus modalidades, vigilando su funcionamiento y operación;
+
+VIII.- Instruir los procedimientos de revocación o suspención temporal de las concesiones y de transporte público de pasaje o carga en cualquiera de sus tipos y modalidades, así como para la aplicación de las sanciones correspondientes en los términos de la ley respectiva;
+
+IX.- Vigilar que los vehículos particulares y los destinados al servicio público de transporte de pasaje o carga, cumplan con las medidas y dispositivos que en materia ecológica dispongan las autoridades competentes, para la preservación del medio ambiente;
+
+X.- Aprobar las tarifas aplicables de los servicios públicos de transporte en el Estado;
+
+XI.- Ejercer la conducción y administración de la Dirección de Tránsito del Estado;
+
+XII.- Integrar, con la participación de los sectores público, social y privado, órganos colegiados de apoyo y asesoría técnica en materia de transporte, coordinando su funcionamiento; y
+
+XIII.- Las demás que le confieran las Leyes, Decretos y Reglamentos.
+
 ###### ARTICULO 28.
 
 A la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
@@ -976,3 +1008,17 @@ De esta transferencia queda excluida la Dirección de Relaciones Públicas.
 CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de la Secretaría de Administración, a la Contraloría General y de la Coordinación General de Comunicación Social y Relaciones Públicas y de la Secretaría Técnica del C. Gobernador a la Secretaría Técnica del Poder Ejecutivo, se respetarán conforme la Ley.
 
 QUINTO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 1999.
+
+PRIMERO.- El Ejecutivo Estatal tendrá un plazo de seis meses, contados a partir de la vigencia de este Decreto, para elaborar y publicar los Reglamentos respectivos acordes con estas reformas legales.
+
+SEGUNDO.- Continuarán aplicándose las disposiciones legales y reglamentarias vigentes hasta antes de la entrada en vigor del presente Decreto, en todos aquellos procedimientos administrativos y jurídicos que hayan iniciado antes de la publicación del mismo, hasta su resolución.
+
+TERCERO.- Las funciones que venía desempeñando la Coordinación de Servicios de Gobernación, de la Secretaría General de Gobierno, en materia de concesiones de servicios de transporte público de pasaje y de carga, serán asumidas por el área administrativa que determine la Secretaría de Transporte.
+
+Los recursos humanos, presupuestales y materiales adscritos a las dependencias que ejercían las funciones otorgadas a la Secretaría de Transporte, pasarán íntegramente a esta última.
+
+CUARTO.- El personal de las dependencias que en la aplicación de este Decreto sea transferido a la Secretaría de Transporte, se le respetarán íntegramente sus derechos laborales.
+
+QUINTO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
