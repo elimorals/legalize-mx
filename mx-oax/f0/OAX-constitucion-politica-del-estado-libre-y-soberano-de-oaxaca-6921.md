@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1995-09-14"
+last_updated: "1997-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1997.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -437,13 +437,19 @@ Las elecciones son actos de interés público. Su organización y desarrollo es 
 
 En la integración del Instituto Estatal Electoral participan el Poder Legislativo, los partidos políticos y la ciudadanía, en los términos que dispone la ley aplicable.
 
-El Instituto Estatal Electoral será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección y órganos ejecutivos. El órgano superior de dirección es el Consejo General, el cual estará integrado por un Consejero Presidente y Consejeros Ciudadanos propuestos por las fracciones parlamentarias y designados por el Congreso del Estado, así como por representantes nombrados por los partidos políticos, en los términos que disponga la Ley. Los órganos ejecutivos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las mesas directivas de casilla estarán integradas por ciudadanos.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+
+El Instituto Estatal Electoral será autoridad de la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Organo Superior de dirección es el Consejo General, el cual estará integrado por un consejero presidente y consejeros electorales propuestos por las fracciones parlamentarias y designados por el Congreso del Estado, así como representantes nombrados por los partidos políticos, en los términos que disponga la ley. Los órganos ejecutivos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las mesas directivas de casilla estarán integradas por ciudadanos. Los órganos de vigilancia se integrarán mayoritariamente por los representantes de los partidos políticos.
 
 El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las facultades relativas a la preparación de la jornada electoral, la realización de cómputos y el otorgamiento de constancias, la capacitación electoral, educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán el Instituto Estatal Electoral, el Tribunal Estatal Electoral y el Congreso del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
 
-El Tribunal Estatal Electoral es un órgano público dotado de plena autonomía y máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
+La ley establecerá un sistema de medios de impugnación de los que conocerán el Instituto Estatal Electoral, el Tribunal Estatal Electoral y el Congreso del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. La ley fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad, en las etapas de los procesos electorales.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+
+El Tribunal Estatal Electoral es un órgano público dotado de plena autonomía en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; y es máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
 
 El Tribunal Estatal Electoral tendrá la competencia que determine la Ley y conocerá de los recursos y medios de impugnación que en materia electoral se encuentren previstos en esta Constitución y en la Ley. Las resoluciones del Tribunal serán obligatorias y definitivas.
 
@@ -451,13 +457,25 @@ El Tribunal Estatal Electoral se integrará con tres magistrados numerarios y tr
 
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos públicos de elección del Estado de Oaxaca y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
 
-Los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular. La ley establecerá las reglas a que se sujetarán su financiamiento, su acceso a los medios de comunicación social y sus campañas electorales.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos públicos de elección del Estado de Oaxaca y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+
+Los partidos políticos recibirán, de acuerdo con las disponibilidades presupuestales, en forma equitativa, financiamiento público para su sostenimiento y contarán durante los procesos electorales con apoyos para sus actividades tendientes a la promoción del sufragio popular. La ley establecerá las reglas a que sujetarán su financiamiento, su acceso a los medios de comunicación social en condiciones de equidad y sus campañas electorales.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1997)</small>
+
+La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; establecerá, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
 
 La elección del Poder Legislativo, así como la de los Ayuntamientos, tendrá lugar en la fecha que determine la ley electoral respectiva.
 
 La ley protegerá las tradiciones y prácticas democráticas de las comunidades indígenas, que hasta ahora han utilizado para la elección de sus Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1997)</small>
+
+La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
 
@@ -551,9 +569,9 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna Autoridad intermedia entre éste y el Gobierno del Estado.
+La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por el sistema de usos y costumbres, se observará lo dispuesto por el penúltimo párrafo del artículo 25 de esta Constitución y la Legislación Reglamentaria. No habrá autoridad intermedia entre éstos y el Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
@@ -569,11 +587,11 @@ El Poder Público del Estado se divide, para el ejercicio de sus funciones en Le
 
 #### SECCION PRIMERA. De la Legislatura
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 31.
 
-El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por Diputados que serán electos cada tres años por los ciudadanos Oaxaqueños; por cada Diputado Propietario se elegirá un suplente.
+El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por diputados que serán electos cada tres años por los ciudadanos oaxaqueños, mediante sufragio universal, libre, secreto y directo; por cada diputado propietario se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -1035,11 +1053,11 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 67.
 
-La elección del Gobernador será directa, por voto secreto, uninominal y por mayoría relativa, en todo el territorio del Estado, en los términos de la Ley Electoral. La Legislatura del Estado hará la computación de votos y su calificación y declarará electo al ciudadano que hubiere obtenido el mayor número de votos, haciéndolo saber al pueblo del Estado por medio de un decreto.
+La elección del Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del estado, en los términos de la Ley Electoral. La Legislatura del Estado hará la computación de votos y su calificación y declarará electo al ciudadano que hubiere obtenido el mayor número de votos, haciéndolo saber al pueblo del estado por medio de un decreto, mediante Bando Solemne.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -1569,11 +1587,13 @@ Los Municipios tienen personalidad jurídica propia; pero la política y adminis
 
 La Administración interior de los Municipios se hará por los Ayuntamientos: El Presidente Municipal dirigirá las deliberaciones y será el ejecutor de los Acuerdos.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 98.
 
-Los Ayuntamientos serán asambleas electas por el voto popular y directo de los ciudadanos de cada Municipio. Se integrarán de la siguiente forma:
+Los ayuntamientos serán asambleas electas mediante sufragio universal, libre, secreto y directo de los ciudadanos de cada municipio. Se integrará de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 I.- Un Presidente Municipal que representará al Ayuntamiento en el orden político y lo dirigirá en lo administrativo y será quien esté en primer lugar de la lista de Concejales registrada ante la Comisión Estatal Electoral.
 
@@ -1600,6 +1620,10 @@ VI.- En los Municipios que tengan menos de 15 mil habitantes, el Ayuntamiento se
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 1989)</small>
 
 Los Concejales que integren los Ayuntamientos a que se refiere las fracciones anteriores tomarán posesión del día primero de Enero del año siguiente al de su elección y durarán en su encargo tres años, no pudiendo ser reelectos para el período inmediato.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1997)</small>
+
+Los Concejales electos por el sistema de usos y costumbres también tomarán posesión en la fecha que refiere el párrafo anterior y desempeñarán el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen, pero que no podrá exceder de tres años.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
 
@@ -2686,6 +2710,10 @@ PRIMERO.- La reforma a los artículos 41 y 42 de la Constitución Política del 
 SEGUNDO.- La reforma a la fracción XXII del artículo 59 de la Constitución Política del Estado Libre y Soberano de Oaxaca, entrará en vigor, a partir de la aprobación de este decreto.
 
 TERCERO.- Se autoriza a los integrantes de la Quincuagésima Sexta Legislatura del Estado, a que, para su período constitucional, amplíen el término del mismo, venciendo su período el día 15 de noviembre de 1998.
+
+P.O. 8 DE MARZO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
