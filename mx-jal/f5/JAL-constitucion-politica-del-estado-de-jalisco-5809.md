@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2003-08-05"
+last_updated: "2004-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -73,13 +73,71 @@ El territorio del Estado es el que por derecho le corresponde.
 
 ### CAPITULO III. De los derechos y obligaciones fundamentales
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2004)</small>
 
 ###### Art. 4º.
 
-Toda persona, por el solo hecho de encontrarse en el territorio del Estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento.
+Toda persona, por el sólo hecho de encontrarse en el territorio del Estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento.
 
 Se reconocen como derechos de los individuos que se encuentren en el territorio del Estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte.
+
+El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
+
+A.- Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes;
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía de los estados;
+
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad;
+
+V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en esta Constitución;
+
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos las comunidades podrán asociarse en términos de ley;
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos;
+
+Las leyes reglamentarias reconocerán y regularán estos derechos en los municipios del Estado, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas;
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+Las leyes reglamentarias establecerán las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada entidad, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
+
+B.- El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos;
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas;
+
+Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación;
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos;
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+
+VI. Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen;
+
+VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas en el territorio del Estado, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas; y
+
+IX. Consultar a los pueblos indígenas en la elaboración de los planes Estatal y Municipales de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, el Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -299,9 +357,7 @@ I. Las autoridades estatales y municipales colaborarán con la familia para su f
 
 II. Se establecerá un sistema que coordine las acciones de apoyo e integración social de las personas de edad avanzada para facilitarles una vida digna, decorosa y creativa; y se promoverá el tratamiento, rehabilitación e integración a la vida productiva de las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
-
-III. Las leyes propiciarán del (sic) desarrollo social, económico, político y cultural de las comunidades a que se refiere el párrafo primero del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, sobre la base del respeto a sus tradiciones, costumbres, usos, lenguas, recursos y entorno ambiental, valores y formas específicas de organización social, atendiendo a la composición pluricultural de la Nación Mexicana, sustentada originalmente en sus pueblos indígenas;
+III. (DEROGADA, P.O. 29 DE ABRIL DE 2004)
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
 
@@ -323,7 +379,7 @@ VII. Las autoridades estatales y municipales para la preservación de los derech
 
 VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal, deberán publicar mensualmente en forma pormenorizada sus estados financieros.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
 ## TITULO CUARTO
 
@@ -467,7 +523,7 @@ Para obtener esta concurrencia, los diputados presentes deberán reunirse el dí
 
 No se necesita esta declaración para los diputados que no hayan rendido la protesta de ley.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO II. De la iniciativa y formación de las leyes
 
@@ -1203,7 +1259,7 @@ El pleno del Tribunal elegirá, de entre sus miembros, en los términos y bajo l
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Del gobierno municipal
+### CAPITULO III. De la hacienda y del patrimonio municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1283,9 +1339,9 @@ Una vez decretada la conclusión de algún proceso electoral, el Tribunal Electo
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
+### CAPITULO I. Del gobierno municipal
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 72.
 
@@ -1297,9 +1353,9 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 ## TITULO SEPTIMO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la hacienda y del patrimonio municipal
+### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 73.
 
@@ -1387,7 +1443,7 @@ Los concejos municipales y sus integrantes tendrán las mismas facultades y obli
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO II. Del juicio político
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1527,6 +1583,10 @@ Los Municipios, previo acuerdo entre los ayuntamientos, podrán coordinarse y as
 
 El Congreso del Estado emitirá las normas de aplicación general para la celebración de estos convenios y los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre el municipio y el gobierno del Estado o entre aquellos, con motivo de los convenios de coordinación.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2004)</small>
+
+Las comunidades indígenas dentro del ámbito municipal, podrán coordinarse y asociarse en los términos y para los efectos que prevenga la legislación en la materia.
+
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 82.
@@ -1593,7 +1653,7 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. Del juicio político
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1633,7 +1693,7 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 ## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1685,7 +1745,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 En los juicios del orden civil no hay fuero ni inmunidad.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO IV. Del procedimiento administrativo
 
@@ -1797,7 +1857,7 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ### CAPITULO I. Prevenciones generales
 
@@ -1821,11 +1881,11 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1923,13 +1983,13 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
-
 ###### Art. 119.
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2404,3 +2464,13 @@ SEXTO. La adición del párrafo octavo del artículo 33 de la Constitución Pol�
 SÉPTIMO. Por única y excepcionalmente, el Contador Mayor de Hacienda que se encuentre en funciones a la entrada en vigor de la presente reforma, durará en su cargo en la calidad de Auditor Superior del Estado hasta el 31 de julio de 2004.
 
 OCTAVO. Remítase íntegramente copia certificado (sic) del expediente que se integre con motivo de la presente iniciativa a los 124 ayuntamientos del estado, para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
+
+P.O. 29 DE ABRIL DE 2004.
+
+PRIMERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado para su promulgación de conformidad a lo establecido por el artículo 118 de la Constitución Política del Estado de Jalisco.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO.- Con el objetivo de dar conocimiento de estas reformas a las comunidades indígenas, el titular del Poder Ejecutivo Estatal dispondrá que el texto íntegro de este decreto se traduzca a las lenguas de los pueblos indígenas radicados en el Estado, al igual que se establezcan los mecanismos para su plena difusión.
+
+CUARTO.- Los Poderes del Estado y sus ayuntamientos, deberán realizar las adecuaciones necesarias a las leyes y reglamentos para el cumplimiento de lo establecido en el presente decreto.
