@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1992-07-20"
+last_updated: "1993-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -486,9 +486,9 @@ XIV.- Los servicios profesionales de medicina, cuando su prestación requiera t�
 
 XV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-XVI.- Los prestados por los autores a que se refiere el artículo 141-B de la Ley del Impuesto sobre la Renta.
+XVI.- Por los que deriven ingresos de los comprendidos en los artículos 77, fracción XXX, y 141-C de la Ley del Impuesto sobre la Renta.
 
 ###### ARTICULO 16.
 
@@ -1331,3 +1331,9 @@ Lo dispuesto en el ARTICULO UNICO de las DISPOSICIONES DE VIGENCIA ANUAL del Dec
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
