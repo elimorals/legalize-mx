@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-asentamientos-humanos-70"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-21"
-last_updated: "1993-07-21"
+last_updated: "1994-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-07-19"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 21 de julio de 1993.
 
@@ -136,6 +136,10 @@ XVI. La regulación del mercado de los terrenos y el de la vivienda de interés 
 XVII. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano, y
 
 XVIII. La participación social en la solución de los problemas que genera la convivencia en los asentamientos humanos.
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 1994)</small>
+
+XIX.- El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad.
 
 ###### ARTICULO 4o.
 
@@ -489,9 +493,13 @@ VI. La prevención, control y atención de riegos y contingencias ambientales y 
 
 VII. La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos que tiendan a integrar a la comunidad;
 
-VIII. La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública, y
+VIII. La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública, y (sic)
 
-IX.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 1994)</small>
+
+IX.- La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta a los discapacitados sobre las características técnicas de los proyectos.
+
+X.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
 
 ###### ARTICULO 34.
 
@@ -693,6 +701,10 @@ XI. El impulso a la educación, la investigación y la capacitación en materia 
 
 XII. La aplicación de tecnologías que protejan al ambiente, reduzcan los costos y mejoren la calidad de la urbanización.
 
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 1994)</small>
+
+XIII.- Promover la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos que requiera la población con discapacidad.
+
 ###### ARTICULO 52.
 
 La Secretaría de Hacienda y Crédito Público en coordinación con la Secretaría, tomará las medidas necesarias para que las instituciones de crédito no autoricen operaciones contrarias a la legislación y a los planes o programas de desarrollo urbano.
@@ -750,3 +762,15 @@ CUARTO.- Las declaratorias de conurbación expedidas por el Ejecutivo Federal ha
 México, D.F., a 9 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Alicia Montaño Villalobos, Secretaria.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 5 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se deberá adecuar la legislación en materia de desarrollo urbano de las entidades federativas en un plazo no mayor de un año contado a partir de la entrada en vigor de este decreto.
