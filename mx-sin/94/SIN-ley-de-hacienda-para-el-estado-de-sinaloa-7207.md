@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1991-12-30"
+last_updated: "1994-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1994.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1771,25 +1771,119 @@ ART. 150.- Están obligados al pago de este impuesto, quienes por cualquier tít
 
 Para los efectos de este Capítulo, se entiende por vehículos de motor usado aquel cuya propiedad sea transferida por segunda o ulteriores manos.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
 
 ART. 151.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1990)</small>
-
-Para vehículos cuyo modelo corresponda al año en curso, se tomará como base para el cálculo del impuesto el 90% del importe de la primera facturación, incluyendo dentro de ésta el equipo opcional común o de lujo, así como el monto de los impuestos que hayan sido efectivamente pagados por el primer propietario del vehículo.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1990)</small>
-
-El avalúo pericial a que se refiere el primer párrafo de este Artículo, deberá ser practicado considerando el valor real del vehículo en la fecha en que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ART. 152.- Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquier parte del territorio de la entidad.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
 
-ART. 153.- Este impuesto se causará y pagará con una tasa del 5% aplicable sobre la base gravable a que se refiere el Artículo 151 de esta Ley.
+ART. 153.- Este impuesto se causará aplicando sobre la base gravable a que se refiere el Artículo 151 de esta Ley, la siguiente:
+
+T A R I F A:
+
+CLASE Y
+
+MODELO DE
+
+VEHICULO TASA %
+
+I.- Automóviles de modelo hasta cinco años anteriores al año
+
+en curso incluyendo este último:
+
+a)- De 8 cilindros 4.0
+
+b)- De 6 cilindros 3.5
+
+c)- De 4 cilindros 3.0
+
+II.- Automóviles de modelo entre 6 y 10 años anteriores al año
+
+en curso:
+
+a)- De 8 cilindros 3.5
+
+b)- De 6 cilindros 3.0
+
+c)- De 4 cilindros 2.5
+
+III.- Automóviles de modelo superior a los 10 años anteriores al año
+
+en curso:
+
+a)- De 8 cilindros 3.0
+
+b)- De 6 cilindros 2.5
+
+c)- De 4 cilindros 2.0
+
+IV.- Unidades de carga y pasaje modelo hasta 5 años anteriores al
+
+año en curso incluyendo este último:
+
+a)- Tracto Camiones
+
+y Volteo 4.0
+
+b)- Ómnibus y Minibus 3.5
+
+c)- Chasis todas
+
+modalidades 3.0
+
+d)- Estacas, Pic-Up, Panel,
+
+Van, Maxi y Club-Cab 2.5
+
+V.- Unidades de carga y pasaje modelo entre 6 y 10 años anteriores
+
+al año en curso:
+
+a)- Tracto Camiones
+
+y Volteo 3.5
+
+b)- Ómnibus y Minibus 3.0
+
+c)- Chasis todas
+
+modalidades 2.5
+
+d)- Estacas, Pic-Up, Panel,
+
+Van, Maxi y Club-Cab 2.0
+
+VI.- Unidades de carga y pasaje modelo superior a los 10 años
+
+anteriores al año en curso:
+
+a)- Tracto Camiones
+
+y Volteo 3.0
+
+b)- Ómnibus y Minibus 2.5
+
+c)- Chasis todas
+
+modalidades y estacas,
+
+Pich-Up (sic), Panel, Van,
+
+Maxi y Club-Cab 2.0
+
+VII.- Motocicletas:
+
+a)- De 1,500 a 950 Cm3 3.0
+
+b)- De 900 a 500 Cm3 2.5
+
+c)- De 490 a 400 Cm3 2.0
+
+d)- De 350 a 100 Cm3 1.5
 
 > <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
@@ -1808,6 +1902,16 @@ ART. 156.- Las autoridades correspondientes del Estado, no darán trámite a nin
 Las empresas dedicadas a la compraventa de vehículos de motor usados, deberán llevar un libro autorizado por la oficina recaudadora correspondiente, en el que anotarán en el acto de recibir cada vehículo las características del mismo, el nombre y domicilio del propietario anterior, o el del comitente o consignante.
 
 Son solidariamente responsables del pago de este impuesto los enajenantes y las demás personas que intervengan en las operaciones.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+
+ART. 156 Bis.- Están exentas del pago de este Impuesto:
+
+I.- Las operaciones de compra-venta de vehículos usados por cuya enajenación deba pagarse el Impuesto al Valor Agregado;
+
+II.- Las adquisiciones entre cónyuges o entre ascendientes o descendientes en línea recta en primer grado; y,
+
+III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios, a menos que su actividad no corresponda a funciones del servicio público.
 
 (ABROGADO [N. DE E. DEROGADO] CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
 
@@ -5828,6 +5932,12 @@ P.O. 30 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE JULIO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial " El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
