@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1974-09-30"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -2576,7 +2576,7 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 
 ###### Artículo 343.
 
-El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con los dispuesto en los artículos 49, fracción IV, y 50.
+El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
 
 ### CAPITULO XV. Industria Familiar
 
@@ -4048,9 +4048,11 @@ II. Interponer los recursos ordinarios y extraordinarios procedentes, para la de
 
 III. Proponer a las partes interesadas soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 531.
 
-La Procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados y Territorios o por el Jefe del Departamento del Distrito Federal.
+La procuraduría de la Defensa del Trabajo se integrará con un Procurador General y con el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores. Los nombramientos se harán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe del Departamento del Distrito Federal.
 
 ###### Artículo 532.
 
@@ -4412,6 +4414,8 @@ IV. Los demás que le confieran las leyes.
 
 ### CAPITULO XI. Juntas Locales de Conciliación
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 564.
 
 Las Comisiones Regionales de los Salarios Mínimos funcionarán en cada una de las zonas económicas en que se divida el territorio nacional.
@@ -4770,7 +4774,7 @@ VI. Las demás que les confieran las leyes.
 
 ###### Artículo 601.
 
-En los Estados y Territorios funcionarán Juntas Locales de Conciliación, que se instalarán en los Municipios o zonas económicas que determine el Gobernador.
+En las Entidades Federativas funcionarán Juntas Locales de Conciliación, que se instalarán en los Municipios o zonas económicas que determine el Gobernador.
 
 ###### Artículo 602.
 
@@ -4984,13 +4988,17 @@ III. Para la audiencia de discusión y votación del laudo, será necesaria la p
 
 Las Juntas Locales de Conciliación y Arbitraje funcionarán en cada una de las Entidades Federativas. Les corresponde el conocimiento y resolución de los conflictos de trabajo que no sean de la competencia de la Junta Federal de Conciliación y Arbitraje.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 622.
 
-El Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer una o más Juntas de Conciliación y Arbitraje, fijando el lugar de su residencia y su competencia territorial.
+El Gobernador del Estado o el Jefe del Departamento del Distrito Federal, cuando lo requieran las necesidades del trabajo y del capital, podrá establecer una o más Juntas de Conciliación y Arbitraje fijando el lugar de su residencia y su competencia territorial.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 623.
 
-La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y Territorios y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe del Departamento del Distrito Federal, respectivamente.
+La integración y funcionamiento de las Juntas Locales de Conciliación y Arbitraje se regirán por las disposiciones contenidas en el capítulo anterior. Las facultades del Presidente de la República y del Secretario del Trabajo y Previsión Social se ejercerán por los Gobernadores de los Estados y en el caso del Distrito Federal, por el propio Presidente de la República y por el Jefe del Departamento del Distrito Federal, respectivamente.
 
 ###### Artículo 624.
 
@@ -5060,9 +5068,11 @@ Los Presidentes de las Juntas Especiales de la Federal de Conciliación y Arbitr
 
 Los Actuarios, Secretarios, Auxiliares y Presidentes de las Juntas Especiales no podrán ejercer la profesión de abogados en asuntos de trabajo.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 633.
 
-Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o Territorio o por el Jefe del Departamento del Distrito Federal.
+Los Presidentes de las Juntas Especiales serán nombrados cada seis años por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe del Departamento del Distrito Federal.
 
 ###### Artículo 634.
 
@@ -5082,7 +5092,9 @@ En la imposición de las sanciones a que se refiere el artículo anterior se obs
 
 I. El Presidente de la Junta practicará una investigación con audiencia del interesado, e impondrá la sanción que corresponda a los Actuarios, Secretarios y Auxiliares; y
 
-II. Cuando se trate de los Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe del Departamento del Distrito Federal, quienes, después de oír al interesado, dictarán la resolución correspondiente.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Cuando se trate de los Presidentes de las Juntas Especiales, el Presidente de la Junta dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal, quienes, después de oir al interesado, dictarán la resolución correspondiente.
 
 ###### Artículo 638.
 
@@ -5220,9 +5232,11 @@ Los representantes de los trabajadores y de los patrones en las Juntas Federal y
 
 Se celebrarán tantas convenciones como Juntas Especiales deban funcionar en la Junta de Conciliación y Arbitraje.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 650.
 
-El día primero de octubre del año par que corresponda, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, publicarán en el Diario Oficial de la Federación o en el periódico oficial de la Entidad Federativa y en uno de los periódicos de mayor circulación, la convocatoria para la elección de representantes.
+El día primero de octubre del año par que corresponda, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, publicarán en el "Diario Oficial" de la Federación o en el periódico oficial de la Entidad Federativa y en uno de los periódicos de mayor circulación, la convocatoria para la elección de representantes.
 
 ###### Artículo 651.
 
@@ -5294,9 +5308,11 @@ II. Nombres, nacionalidad, edad, sexo y empresa o establecimiento en que presten
 
 III. Nombres del patrón o patrones, domicilio y rama de la industria o actividad a que se dediquen.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 656.
 
-Los padrones se presentarán a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe del Departamento del Distrito Federal, el día 20 de octubre del año de la Convocatoria a más tardar.
+Los padrones se presentarán a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal, el día 20 de octubre del año de la Convocatoria a más tardar.
 
 ###### Artículo 657.
 
@@ -5308,9 +5324,11 @@ Las credenciales deberán registrarse ante la Secretaría del Trabajo y Previsi�
 
 La autoridad registradora certificará, con vista de los datos del Inspector del Trabajo, el número de votos que corresponda a cada credencial.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 659.
 
-Las convenciones se celebrarán el día cinco de diciembre de los años pares que correspondan, en las capitales de la República, de los Estados y de los Territorios, o en el lugar de residencia de la Junta.
+Las convenciones se celebrarán el día cinco de diciembre de los años pares que correspondan, en las capitales de la República, de los Estados, o en el lugar de residencia de la Junta.
 
 ###### Artículo 660.
 
@@ -5324,27 +5342,35 @@ III. Las convenciones funcionarán con el número de delegados y patrones indepe
 
 IV. Los delegados y los patrones independientes, tendrán en las convenciones un número de votos igual al de los trabajadores que aparezca certificado en sus credenciales;
 
-V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o Territorio o por el Jefe del Departamento del Distrito Federal, o por la persona que éstos designen;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+V.- Las convenciones serán instaladas por el Secretario del Trabajo y Previsión Social, por el Gobernador del Estado o por el Jefe del Departamento del Distrito Federal o por la persona que éstos designen;
 
 VI. Instalada la convención, se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con un Presidente, dos Secretarios y dos Vocales. Tomarán parte en la elección, con el número de votos que les corresponda, los delegados y los patrones independientes cuyas credenciales hubiesen quedado registradas. El cómputo se hará por dos de las personas asistentes, designadas especialmente;
 
-VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículo 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
+VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículos 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
 
 VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y
 
-IX. Concluida la elección, se levantará un acta; un ejemplar se depositará en el archivo de la Junta, otro se remitirá a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe del Departamento del Distrito Federal, y dos se entregarán a los representantes electos, propietario y suplente, a fin de que les sirvan de credencial.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+IX.- Concluida la elección, se levantará un acta; un ejemplar se depositará en el archivo de la Junta, otro se remitirá a la Secretaría del Trabajo y Previsión Social, al Gobernador del Estado o Territorios o al Jefe del Departamento del Distrito Federal, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 661.
 
-Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes el día cinco de diciembre, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social, en el Gobernador del Estado o Territorio o en el Jefe del Departamento del Distrito Federal.
+Si ningún delegado o patrón independiente concurre a la convención o ésta no hace la elección de representantes el día cinco de diciembre, se entenderá que los interesados delegan la facultad en el Secretario del Trabajo y Previsión Social, en el Gobernador del Estado o en el Jefe del Departamento del Distrito Federal.
 
 ###### Artículo 662.
 
 Los representantes electos, provistos de sus credenciales, se presentarán desde luego a la Secretaría del Trabajo y Previsión Social, o a la Dirección o Departamento del Trabajo de la Entidad Federativa, para la revisión de las mismas y para su identificación personal.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 663.
 
-El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituida la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
+El primer día hábil del mes de enero siguiente, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, tomarán a los representantes electos la protesta legal y después de exhortarlos para que administren una justicia pronta y expedita, declararán constituída la Junta Federal o Local de Conciliación y Arbitraje y la de Conciliación Permanente.
 
 ###### Artículo 664.
 
@@ -5376,9 +5402,11 @@ Los representantes percibirán las retribuciones que les asignen los presupuesto
 
 Los representantes de los trabajadores y de los patrones durarán en su encargo seis años.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 668.
 
-El Secretario del Trabajo y Previsión Social, los Gobernadores de los Estados o Territorios y el Jefe del Departamento del Distrito Federal, conocerán de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
+El Secretario del Trabajo y Previsión Social, los Gobernadores de los Estados y el Jefe del Departamento del Distrito Federal, conocerán de las renuncias de los representantes, aceptándolas o desechándolas, previa calificación de la causa.
 
 ###### Artículo 669.
 
@@ -5386,15 +5414,19 @@ El cargo de representante es revocable de conformidad con las normas siguientes:
 
 I. Podrán solicitar la revocación las dos terceras partes de los trabajadores de las ramas de la industria o actividades representadas en la Junta Especial o los patrones que tengan a su servicio dicha mayoría de trabajadores;
 
-II. La solicitud se presentará al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o Territorio o al Jefe del Departamento del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- La solicitud se presentará al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal;
 
 III. La autoridad que reciba la solicitud, después de verificar el requisito de la mayoría, hará la declaratoria correspondiente y llamará al suplente, a fin de que rinda la protesta legal; y
 
 IV. A falta de suplente o cuando la revocación del nombramiento le afecte, al hacerse la solicitud de revocación, deberán señalarse los nombres de los substitutos.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 670.
 
-Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos o si llamados por el Presidente de la Junta no se presentan dentro de los diez días siguientes al requerimiento, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
+Las faltas temporales o definitivas de los representantes serán cubiertas por los suplentes. A falta de éstos o si llamados por el Presidente de la Junta no se presentan dentro de los diez días siguientes al requerimiento, el Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, hará la designación del substituto, que deberá recaer en un trabajador o patrón.
 
 ###### Artículo 671.
 
@@ -5446,7 +5478,9 @@ III. La negativa a votar tres resoluciones o la comisión de cinco faltas distin
 
 Las sanciones a los representantes de los trabajadores y de los patrones se impondrán por el Jurado de Responsabilidades de los Representantes, que se integrará:
 
-I. Con un representante del Secretario del Trabajo y Previsión Social, del Gobernador del Estado o Territorio o del Jefe del Departamento del Distrito Federal; y
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+I.- Con un representante del Secretario del Trabajo y Previsión Social, del Gobernador del Estado o del Jefe del Departamento del Distrito Federal; y
 
 II. Con un representante propietario de los trabajadores y otro de los patrones, y sus respectivos suplentes, elegidos cada seis años en las convenciones a que se refiere este capítulo.
 
@@ -5892,7 +5926,9 @@ I. Las instruirán y decidirán:
 
 a) El Presidente de la Junta cuando el recusado sea el Presidente de una Junta Especial, el Auxiliar o un representante de los trabajadores o de los patrones.
 
-b) El Secretario del Trabajo y Previsión Social, el Gobernador del Estado o Territorio o el Jefe del Departamento del Distrito Federal, cuando el recusado sea el Presidente de la Junta;
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+b).- El Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, cuando el recusado sea el Presidente de la Junta;
 
 II. La recusación debe proponerse al concluir la audiencia de demanda y excepciones. Cuando la causa sea posterior a ésta o no se tuviese conocimiento de ella, dentro de los tres días siguientes al en que se tenga noticia de su existencia;
 
@@ -6916,9 +6952,11 @@ Las violaciones a las normas de trabajo no previstas en este capítulo o en algu
 
 Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el último párrafo del artículo 21 constitucional.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 887.
 
-Las sanciones se impondrán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados y Territorios y por el Jefe del Departamento del Distrito Federal.
+Las sanciones se impondrán por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados y por el Jefe del Departamento del Distrito Federal.
 
 ###### Artículo 888.
 
@@ -7047,3 +7085,7 @@ IV.- Transcurridos ocho días de vigencia del presente Decreto y si la Comisión
 V.- El Presidente de la Comisión Nacional de los Salarios Mínimos enviará para su publicación en el "Diario Oficial" de la Federación las resoluciones a las que se refieren las Fracciones III y IV. La publicación deberá hacerse a más tardar el siete de octubre de 1974.
 
 CUARTO.- El presente Decreto entrará en vigor al día siguiente al de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
