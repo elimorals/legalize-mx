@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-2595"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-04-12"
-last_updated: "2001-11-26"
+last_updated: "2002-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2002.
 
 Código publicado en el Suplemento al Número 15, del Periódico Oficial del Estado de Aguascalientes, el 12 de abril de 1992.
 
@@ -1929,13 +1929,13 @@ El servidor público que practique las diligencias podrá hacer a los peritos to
 
 Los peritos practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera y expresarán los hechos y circunstancias que sirvan de fundamento a su dictamen, pudiendo utilizarse los sistemas y programas de informática idóneos para el efecto.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 253.
 
-Los peritos emitirán su dictamen. Los peritos oficiales no necesitarán ratificar dictámenes sino cuando el ya sea por escrito que ratificarán en diligencia especial o bien compareciendo directamente ante quien practique las diligencias, levantándose en este caso, el acta correspondiente, en la que se observará lo dispuesto en el Artículo 252 funcionario que practique las diligencias lo estime necesario. (sic)
+Los peritos emitirán su dictamen, ya sea por escrito que ratificarán en diligencia especial o bien, compareciendo directamente ante quien practique las diligencias, levantándose en este caso, el acta correspondiente, en la que se observará lo dispuesto por el Artículo 252. Los peritos oficiales no necesitarán ratificar sus dictámenes sino cuando el funcionario que practique las diligencias lo estime necesario.
 
-Las partes estarán facultadas para preguntar a los peritos en las diligencias correspondientes, respecto de las opiniones vertidas por aquellos en sus dictámenes.
+Las partes estarán facultadas para preguntar a los peritos en las diligencias en que ratifiquen sus dictámenes, respecto de las opiniones vertidas en éstos. Dicha diligencia se practicará asistan o no las partes.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
 
@@ -3816,3 +3816,7 @@ P.O. 26 DE NOVIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
