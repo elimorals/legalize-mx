@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2000-06-26"
+last_updated: "2000-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,87 +21,97 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
+CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
 
-Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
-ADOLFO RUIZ CORTINES, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
+CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-Que la H. Legislatura del Estado me ha dirigido para su promulgación el Ordenamiento Legal que sigue:
+EL CIUDADANO LICENCIADO LUIS M. FARIAS, GOBERNADOR CONSTITUCIONAL SUBSTITUTO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A LOS HABITANTES DEL MISMO HACE SABER:
 
-La H. Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción XLVII del artículo 68 de la Constitución Política local, expide el siguiente:
+Que el H. Congreso del Estado Libre y Soberano de Nuevo León, LIX Legislatura, en uso de las facultades que le conceden el Artículo 63 de la Constitución Política Local, expide el siguiente:
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
+DECRETO NUMERO 160
+
+CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
 ## TITULO PRELIMINAR
 
-### CAPITULO I. Competencia
+### CAPITULO UNICO
 
-###### ARTICULO 1º.
+DE LAS ACCIONES Y DE LAS EXCEPCIONES.
 
-El procedimiento en Materia Penal tiene cuatro períodos:
+###### Artículo 1o.
 
-I.- El de averiguación previa a la consignación ante los tribunales, que comprende las diligencias legalmente necesarias para que el Ministerio Público pueda resolver si ejercita la acción penal;
+Las acciones civiles se harán valer ante los tribunales conforme a las reglas establecidas en el presente Código.
 
-II.- El de instrucción que comprende las diligencias practicadas por los tribunales con el fin de averiguar la existencia de los delitos, las circunstancias en que hubieren sido cometidos, y la responsabilidad o irresponsabilidad de los inculpados;
+###### Artículo 2o.
 
-III.- El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa ante los tribunales, y éstos valoran las pruebas y pronuncian sentencia definitiva; y
+Ninguna acción puede intentarse si no se acompaña el título legal que la acredite en todos los casos en que las leyes exigen para la validez de los actos o Contratos que consten en instrumento público o en escrito privado. Los jueces desecharán de plano toda acción de esta clase que se intente sin ese requisito, bajo pena de suspensión de uno a seis meses.
 
-IV.- El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales, hasta la extinción de las sanciones aplicadas.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 2º.
+###### Artículo 3o.
 
-Dentro del período de averiguación previa, la Policía Judicial deberá, en ejercicio de sus facultades:
+Intentada una acción y hecho el emplazamiento, la demanda no podrá modificarse. El desistimiento de la demanda sólo importa la pérdida de la instancia; pero si ha sido hecho el emplazamiento, se requerirá el consentimiento del demandado, pues de otro modo, el desistimiento extingue la acción y se condenará a la actora a pagar las costas del proceso. El desistimiento de la acción posterior al emplazamiento, obliga al que lo hizo a pagar costas, daños y perjuicios a la contraparte, salvo convenio en contrario.
 
-I.- Recibir las denuncias y querellas de los particulares o de cualquiera autoridad, sobre hechos que puedan constituir delitos;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-II.- Practicar la averiguación previa; y
+En los Juicios Contenciosos la instancia caducará cualquiera que sea el estado en que se encuentre, cuando de no mediar un impedimento procesal que suspenda la caducidad, las partes se abstengan de promover el curso del juicio, en única o en la primera instancia durante un lapso de ciento veinte días; en la segunda instancia de sesenta días, y en los incidentes y recursos de revocación treinta días. Los términos comprenderán tanto días hábiles como inhábiles y empezarán a contar a partir del día siguiente al de la última resolución o actuación judicial.
 
-III.- Recabar las pruebas de la existencia de los delitos y de la responsabilidad de quienes en ellos hubieren participado.
+El auto que ordena dictar sentencia extingue la posibilidad de la caducidad de la instancia. El auto que ordene dictar la sentencia interlocutoria en un incidente o la resolución de un recurso de revocación, impide la caducidad de los mismos.
 
-###### ARTICULO 3º.
+El auto que decreta la caducidad de la primera instancia será apelable en ambos sentidos; el que la niegue será en el efecto devolutivo. Los autos que decreten o nieguen la caducidad de un incidente o de un recurso de revocación, tramitados en primera instancia no admiten recurso alguno.
 
-Dentro del mismo período el Ministerio Público deberá:
+Los autos que decreten o nieguen la caducidad de la segunda instancia y los autos que nieguen o decreten la caducidad de un incidente o recurso de revocación tramitado ante un magistrado, no admiten recurso alguno.
 
-I.- Ejercitar por sí mismo, en caso necesario, las funciones expresadas en el artículo anterior, teniendo bajo su dirección y mando a todas las autoridades que conforme a la ley ejerzan funciones de policía judicial;
+Ningún acto judicial podrá reactuar el proceso, operado que haya la caducidad de la instancia, de un incidente o de un recurso de revocación.
 
-II.- Ejercitar la acción penal.
+El Juez o Tribunal, de oficio o a petición de parte, declarará en su caso la caducidad conforme a lo establecido en los párrafos anteriores. Cuando se trate de la primera instancia no se extingue la acción que podrá ejercitarse de nuevo en el juicio correspondiente mediante nueva demanda, si no hubiera prescrito con arreglo a derecho.
 
-###### ARTICULO 4º.
+Las actuaciones de la primera instancia declarada caduca serán nulas y de ningún valor para los efectos y en los términos de la fracción II del artículo 1165 del Código Civil.
 
-Los períodos de instrucción y juicio, constituyen el procedimiento judicial, dentro del cual corresponde exclusivamente a los tribunales, resolver si un hecho es o no delito; determinar la responsabilidad o irresponsabilidad de las personas acusadas ante ellos e imponer las sanciones que procedan con arreglo a la ley.
+La caducidad no operará en las diligencias de ejecución de sentencia ejecutoria, en las de jurisdicción mixta, voluntaria, ni en los juicios de alimentos.
 
-Dentro de este procedimiento, la Policía Judicial y el Ministerio Público, en su caso, ejercitarán también las funciones que les encomienda la fracción III del Artículo 2o; y el Ministerio Público cuidará de que los tribunales apliquen estrictamente las leyes relativas, y de que las resoluciones de aquéllos se cumplan debidamente.
+###### Artículo 4o.
 
-###### ARTICULO 5º.
+Cuando haya varias acciones contra una misma persona respecto de una misma cosa y provengan de una misma causa, deben intentarse en una sola demanda. Por el ejercicio de una o más quedan extinguidas las otras.
 
-En el período de ejecución el Gobernador del Estado, por conducto del órgano correspondiente, ejecutará las sentencias de los tribunales hasta la extinción de las sanciones; y el Ministerio Público cuidará de que se cumplan debidamente las sentencias judiciales.
+Queda abolida la práctica de deducir simultánea o subsidiariamente acciones contrarias o contradictorias. En caso de que esto sucediera, el Juez deberá requerir al promovente para que precise cuál es la que deduce.
 
-###### ARTICULO 6º.
+###### Artículo 5o.
 
-La Justicia en Materia Penal, en el Estado, se administrará:
+A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
 
-I.- Por los Jueces Auxiliares;
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-II.- Por los Jueces Municipales;
+I.- Cuando alguno se jacta públicamente de que otro es su deudor o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquél de quien se dice que es deudor, puede ocurrir al juez de primera instancia del domicilio del jactancioso, pidiendo que le señale un término para que deduzca la acción que afirma tener, apercibido que de no hacerlo en el plazo designado, se tendrá por desistido de la acción que haya sido objeto de la jactancia. Las cuestiones sobre jactancia se ventilarán en la forma que para los incidentes establece este Código. No se reputa jactancioso al que en un acto judicial administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa.
 
-III.- Por los Jueces de Primera Instancia;
+La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieren lugar los dichos y hechos que la originen;
 
-IV.- Por las Salas del Tribunal Superior de Justicia; y
+II.- Cuando por haberse interpuesto tercería ante un juez menor por cuantía mayor que la que fije la Ley para los negocios de su competencia, se hayan remitido los autos a otro juzgado y el tercero opositor no concurra a continuar la tercería, y si requerido para ello no lo hace, se le tendrá por desistido de su acción a petición de parte interesada.
 
-V.- Por el Tribunal Superior de Justicia en pleno.
+III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, a quien pueda exigir que la deduzca, oponga o continúe desde luego; y si excitado para ello se rehusare, lo podrá hacer aquel;
 
-###### ARTICULO 7º.
+###### Artículo 6o.
 
-Los Jueces Auxiliares sólo tienen facultad para practicar las diligencias que les encomienden los de Primera Instancia y los Municipales de su jurisdicción y para recoger las pruebas urgentes y asegurar a los responsables cuando se cometa un delito en su territorio jurisdiccional.
+El ejercicio de la acción motiva la iniciación del procedimiento aún cuando en la demanda no se mencione el nombre de aquélla siempre que se determine con claridad la prestación que se exige del demandado y el título o la causa en que se funde.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+La defensa procede también aún cuando la excepción opuesta no sea señalada por su nombre.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Los jueces municipales son competentes para conocer los delitos que se cometan en el territorio de la jurisdicción donde ejerzan sus funciones y tengan como sanción: amonestación, apercibimiento, caución de no ofender, multa que no exceda de tres mil pesos y prisión hasta de dos años, aun cuando por ser el reo reincidente la sanción que se le aplique resulte mayor a la pecuniaria y a la privativa de libertad señaladas.
+###### Artículo 7o.
+
+El demandado al contestar la demanda, opondrá todas las excepciones o defensas que le asistan, ya sea para impedir el curso de la acción o para destruirla.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 8o.
+
+Todas las excepciones se resolverán en la sentencia, menos la de incompetencia y falta de personalidad en el actor o en el demandado, por no tener éstos el carácter o representación con que comparecen, que se decidirán previamente en vía incidental y sin suspender el procedimiento.
 
 ###### Artículo 8.
 
@@ -117,981 +127,1319 @@ III.- La finca o departamento arrendado cuando se trate de desocupación.
 
 DISPOSICIONES COMUNES A LA JURISDICCION CONTENCIOSA, A LA VOLUNTARIA Y A LA MIXTA.
 
-## TITULO PRIMERO. REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
+## TITULO PRIMERO
 
-### CAPITULO II. Formalidades
+REGLAS GENERALES.
 
-###### ARTICULO 9º.
+### CAPITULO I
 
-Los Jueces de Primera Instancia conocerán como instructores y sentenciadores de los delitos cometidos en el territorio de su jurisdicción, no comprendidos en el artículo anterior, salvo los casos en que la ley disponga otra cosa.
+DE LA PERSONALIDAD DE LOS LITIGANTES.
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Para fijar la competencia cuando deba de tener por base la sanción que la ley señala, se atenderá:
+###### Artículo 9o.
 
-I.- A la sanción correspondiente al delito mayor en caso de acumulación;
+Todo el que, conforme a la Ley, esté en pleno ejercicio de sus derechos civiles, puede comparecer en juicio. Por los que no se hallen en el caso anterior, comparecerán sus representantes legítimos, con excepción de los casos específicos que el Código Civil contempla, en los negocios de menores, ausentes o incapaces.
 
-II.- A la suma de los máximos de las sanciones privativas de la libertad, cuando la ley disponga que a la correspondiente a determinado delito, se agreguen otra u otras de la misma naturaleza; y
+El Juez examinará de oficio la personalidad de las partes, y ordenará en su caso corregir cualquier deficiencia que sea subsanable al respecto, para lo cual otorgará un plazo improrrogable de seis días a las partes para que la subsanen. Cuando no se acredite la personalidad del demandado, se continuará el juicio aun en rebeldía de éste. Si no se subsanare la del actor, el Juez sobreseerá el juicio y devolverá los documentos.
 
-III.- A la sanción privativa de la libertad, cuando la ley imponga varias de distinta naturaleza.
+###### Artículo 10.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+El que no estuviere presente en el lugar del juicio, ni tuviere persona que legítimamente lo represente, será citado en la forma prescrita en el Capítulo V de este Título, pero si la diligencia de que se trate fuere urgente o perjudicial la dilación a juicio del tribunal, el ausente será representado por el Ministerio Público.
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-En materia penal no cabe prórroga ni renuncia de jurisdicción, pero cuando el tribunal que sea competente para conocer de un proceso se encuentre impedido de hecho y de derecho para llenar su misión en un caso particular o cuando la apertura y continuación del proceso ante ese tribunal presente peligros para la seguridad y el orden públicos, o para la vida del propio acusado, podrá el Tribunal Superior de Justicia acordar que las actuaciones de que se trata se remitan a un juzgado diferente, de la misma jerarquía del impedido, prorrogando, al efecto, la jurisdicción.
+En el caso del artículo anterior si se presentare por el ausente una persona que pueda comparecer en juicio, será admitida como gestor judicial.
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-Es competente para conocer de un delito la autoridad judicial del lugar en que se comete.
+La gestión judicial es admisible para representar al actor o al demandado.
 
-Es competente para conocer de los delitos continuos, cualquiera de las autoridades judiciales en cuya jurisdicción se hayan ejecutado actos que por sí solos constituyan el o los delitos imputados.
+El gestor debe sujetarse a las disposiciones de los artículos 1793 a 1806 del Código Civil y gozará de los derechos y facultades de un procurador.
 
-Un solo juez de los que sean competentes conocerá de los delitos conexos, conforme a las disposiciones legales relativas.
+###### Artículo 13.
 
-###### ARTICULO 13.
+El gestor judicial antes de ser admitido debe dar fianza de que el interesado pasará por lo que él haga, y de pagar lo juzgado y sentenciado e indemnizar los perjuicios y gastos que se causen. La fianza será calificada por el tribunal, sin más recurso que el de responsabilidad.
 
-Cuando no conste el lugar donde se cometió el delito serán competentes, en el orden siguiente:
+###### Artículo 14.
 
-I.- El juez de la jurisdicción en que se descubran pruebas materiales del delito;
+El fiador del gestor judicial renunciará todos los beneficios legales, observándose en este caso lo dispuesto en los artículos 2742 a 2747 del Código Civil.
 
-II.- El de la jurisdicción donde el reo presunto sea aprehendido;
+###### Artículo 15.
 
-III.- El de la residencia del reo presunto; y
+Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar unidas y bajo una misma representación. A este efecto deberán, dentro de tres días, nombrar un Procurador Judicial que los represente a todos, con las facultades necesarias para la continuación del juicio, o elegir de entre ellos mismos un representante común. Si no nombraren procurador ni hicieren la elección de representante, o no se pusieren de acuerdo en ella, el juez nombrará al representante común escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados. El procurador nombrado tendrá las facultades que en su poder le hayan concedido. El representante común tendrá las mismas facultades que si litigara exclusivamente por su propio derecho, excepto la de transigir, a menos que expresamente le fuere también concedida por los interesados.
 
-IV.- Cualquier juez que tenga noticia del delito.
+###### Artículo 16.
 
-Tan luego como conste el lugar de la comisión del delito, se remitirán las actuaciones al juez respectivo, así como los acusados y los objetos recogidos.
+Mientras continúe el procurador o representante común en su encargo, los emplazamientos, notificaciones y citaciones de toda clase que se les haga, tendrán la misma fuerza que si se hicieren a los representados, sin que Les (sic) sea permitido pedir que se entiendan con éstos.
 
-Cuando se trate de delitos cometidos fuera del territorio del Estado y comprendidos en los artículos 2º. y 3º. del Código Penal, se observarán las fracciones II, III y IV de este artículo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 14.
+###### Artículo 17.
 
-En el caso del párrafo final del artículo anterior, dejarán de ser competentes las autoridades judiciales del Estado, si el delincuente hubiere sido declarado inocente o amnistiado, o si hubiere obtenido su extradicción por las autoridades del lugar en que fue cometido el delito.
+Si durante el juicio falleciere alguna de las partes, se suspenderá el procedimiento a petición de cualquiera persona que justifique la defunción, hasta en tanto se designe albacea.
 
-###### ARTICULO 15.
+Transcurridos cuarenta y cinco días a partir de la fecha del auto que decrete la suspensión, sin que se acredite la designación de albacea, el Juez o Tribunal nombrará un interventor que represente la sucesión, quien deberá reunir los requisitos establecidos por las tres primeras fracciones del artículo 789 de éste Código.
 
-El juez que con arreglo a este Código fuere competente para conocer de un proceso, lo será también para conocer de todos los incidentes.
+### CAPITULO II
 
-###### ARTICULO 16.
+DE LAS ACTUACIONES JUDICIALES.
 
-En los casos de acumulación será competente el juez que conozca del proceso en que se hubiese dictado primeramente el auto de inicio.
+###### Artículo 18.
 
-###### ARTICULO 17.
+Para la tramitación y resolución de los asuntos ante los tribunales ordinarios se estará a lo dispuesto por este Código, sin que por convenio de los interesados puedan renunciarse los recursos, ni el derecho de recusación, ni alterarse, modificar o renunciarse las normas del procedimiento.
 
-En los delitos comunes y oficiales cometidos por los altos funcionarios del Estado, la competencia se regirá por lo que disponen los artículos 123 y 124 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO III. Intérpretes
+###### Artículo 19.
 
-###### ARTICULO 18.
+Las actuaciones judiciales y los ocursos deberán escribirse en castellano, éstos últimos deberán contener el número de expediente, tipo de juicio y nombre de las partes, sin cuyo requisito no se les dará el trámite correspondiente, hasta en tanto no se proporcionen dichos datos de identificación. Los documentos redactados en idiomas extranjeros deberán acompañarse con la correspondiente traducción al castellano realizada por perito oficial. Las fechas y cantidades se escribirán con letra.
 
-El juez o tribunal que se considere incompetente para conocer de una causa, enviará de oficio las actuaciones a la autoridad que juzgue competente, después de haber practicado las diligencias más urgentes y de haber dictado auto de formal prisión, de sujeción a proceso, o, en su caso, auto de libertad por falta de elementos para procesar.
+Todas las promociones de las partes deben ser firmadas por éstas o por sus representantes legales. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
 
-Si la autoridad a quien se remitan las actuaciones estima a su vez que es incompetente, elevará las diligencias practicadas al Tribunal Superior de Justicia, para que éste dicte la resolución que corresponda.
+###### Artículo 20.
 
-###### ARTICULO 19.
+En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido.
 
-Cuando las partes en el juicio estimen que no es competente el juez que conoce del proceso, podrán pedirle que se inhiba del conocimiento.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-El auto en que el juez acepte o niegue la inhibición será apelable en efecto devolutivo y el tribunal de segunda instancia resolverá en definitiva lo que corresponda.
+###### Artículo 21.
 
-###### ARTICULO 20.
+Las actuaciones judiciales deberán ser firmadas bajo pena de nulidad por el servidor público a quien corresponda dar fe o certificar el acto.
 
-Las actuaciones podrán practicarse a toda hora y aun en los días inhábiles, sin necesidad de previa habilitación y en cada una de ellas se expresará el día, mes y año en que se practiquen, así como la hora en los casos en que este requisito sea indispensable.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 21.
+###### Artículo 22.
 
-El juez, el agente del Ministerio Público que actúe y los miembros de la policía judicial, estarán acompañados, en todas las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia que darán fe de todo lo actuado.
+Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio, adopción y las demás en que a juicio del Tribunal, convengan que sean secretas. Todos los que asistan a la audiencia estarán con la cabeza descubierta, con respeto y en silencio. Las partes o sus representantes legítimos tendrán las facultades procesales que les concede este Código, pero no se permitirá interrupción de la audiencia por persona alguna, sea de los que intervengan en ella o de terceros ajenos a la misma. El Juez queda facultado para impedir los hechos de interrupción con medios de apremio o correcciones disciplinarias además de ordenar la expulsión con uso de la fuerza pública de aquél o aquéllos que intenten interrumpirla. Los testigos, peritos o cualquiera otros que, como partes o representándolas, faltaren en las vistas y actos solemnes judiciales, de palabra o de obra o por escrito, a la consideración, respeto y obediencia debidos a los Tribunales, serán corregidos en los términos de la disposición 29 fracción IV de éste Código.
 
-En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos y el medio empleado se hará constar en el acta respectiva.
+###### Artículo 23.
 
-###### ARTICULO 22.
+Los magistrados, jueces o secretarios presidirán todos los actos de prueba, bajo pena de nulidad y responsabilidad del funcionario que infrinja esta disposición.
 
-En las actuaciones no se emplearán abreviaturas, ni se rasparán las palabras equivocadas, sobre las que sólo se pondrá una línea delgada que permita su lectura, salvándose con toda precisión, antes de las firmas, el error cometido. En la misma forma se salvarán las palabras que se hubieren entrerrenglonado.
+###### Artículo 24.
 
-Todas las fechas y cantidades se escribirán precisamente con letra.
+Los magistrados, sin embargo, podrán cometer a los jueces de primera instancia, y éstos a los menores o locales, la práctica de las diligencias expresadas en el artículo anterior, cuando deban tener lugar en población o lugar que no sea de su residencia.
 
-###### ARTICULO 23.
+###### Artículo 25.
 
-Inmediatamente después de que se hayan asentado las actuaciones del día o agregado los documentos recibidos, el secretario foliará y rubricará las hojas respectivas y pondrá el sello del tribunal en el fondo del cuaderno, de manera que abrace las dos caras.
+Todas las diligencias que hayan de practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina se ejecutarán siempre que los interesados proporcionen los medios de conducción. Mientras no sean proporcionados tales medios de conducción no les correrán los términos legales para las respectivas diligencias.
 
-###### ARTICULO 24.
+###### Artículo 26.
 
-Las actuaciones se asentarán en los expedientes en forma continua, sin dejar hojas o espacios en blanco; y cuando haya que agregar documentos, se hará constar cuáles son las fojas que les corresponden.
+Las actuaciones que hayan de efectuarse fuera de la jurisdicción del tribunal que conozca del negocio, deberán cometerse precisamente a la autoridad de aquélla en que deban tener lugar.
 
-###### ARTICULO 25.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Las promociones que se hagan por escrito deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario; pero deberán ser siempre ratificadas, si el que las hace no las firma por cualquier motivo.
+###### Artículo 27.
 
-###### ARTICULO 26.
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y consideración debidos a los servidores públicos del Poder Judicial, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar en los juzgados menores o de paz de sesenta cuotas; en los de primera instancia de ciento veinte cuotas; y en el Tribunal Superior, ciento ochenta cuotas.
 
-Los secretarios deberán dar cuenta, dentro del término de veinticuatro horas, con las promociones que se hicieren. Para el efecto, se hará constar en los expedientes el día y hora en que se presenten las promociones por escrito y se hagan las verbales.
+Una cuota será el salario mínimo general diario que rija en la zona económica en que se ubique el Juzgado o Tribunal.
 
-###### ARTICULO 27.
+Pueden emplear también el uso de la fuerza pública.
 
-Cada diligencia se asentará en acta por separado.
+Si las faltas llegaren a constituir delitos, se procederá contra quienes los cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
 
-El inculpado, el ofendido, los peritos y los testigos firmarán al calce del acta en que consten las diligencias en que tomaron parte y al margen de cada una de las hojas donde se asiente aquélla. Si no supieren firmar imprimirán, también al calce y al margen, la huella de alguno de los dedos de la mano, debiéndose indicar en el acta cuál de ellos fue.
+###### Artículo 28.
 
-Si no quisieren o no pudieren firmar ni imprimir la huella digital, se hará constar el motivo.
+También podrá el Superior Tribunal y los jueces imponer, por resolución escrita y fundada, correcciones disciplinarias a los abogados, apoderados, directores, secretarios y dependientes de los tribunales y juzgados; por las faltas que cometan en el desempeño de sus funciones.
 
-El Agente del Ministerio Público firmará al calce y, si lo estima conveniente, también al margen.
+###### Artículo 29.
 
-Si antes de que se pongan las firmas o huellas los comparecientes hicieren alguna modificación, o rectificación, se hará constar inmediatamente, expresándose los motivos que dijeron tener para hacerla. Si fuere después, pero antes de retirarse los interesados, se asentará la modificación o rectificación en acta que se levantará inmediatamente después de la anterior y que firmarán los que hayan intervenido en la diligencia.
+Se entenderá por corrección disciplinaria:
 
-###### ARTICULO 28.
+I.- El apercibimiento o prevención.
 
-Podrán entregarse al Ministerio Público los expedientes para que los estudie fuera del local del tribunal, pero no a las demás partes que intervengan en ellos. Estas y el ofendido podrán imponerse de los autos en la secretaría del tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
+II.- La multa que se duplicará en caso de reincidencia y cuyo monto se fijará de acuerdo con el artículo 27 de este Código.
 
-###### ARTICULO 29.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Si se perdiere algún expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida y además, se hará la consignación correspondiente al Ministerio Público.
+III.- La suspensión sin goce de sueldo por un término de quince días a tres meses, tratándose de servidores públicos del Poder Judicial;
 
-Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita que de ellas se haga.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 30.
+IV.- Arresto hasta por un término de seis horas.
 
-Los secretarios de los tribunales cotejarán las copias o testimonios de constancias que se mandaren expedir, y las autorizarán con su firma y el sello correspondiente.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 31.
+###### Artículo 30.
 
-Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a quienes corresponda firmar, dar fe o certificar el acto.
+Dentro de los tres días contados a partir del que se hubiere hecho saber una corrección disciplinaria a la persona a quien se le impuso, ésta podrá pedir al Juez o Magistrado que se le oiga en justicia, sin substanciación especial, y al efecto, se le citará para una audiencia, en la que se resolverá confirmar, modificar o dejar sin efecto la corrección. Contra la determinación que se adopte no procederá ningún recurso. En el caso de la fracción IV del artículo anterior, previa audiencia, el juez o magistrado resolverá de inmediato.
 
-###### ARTICULO 32.
+###### Artículo 31.
 
-La infracción de las disposiciones contenidas en los artículos 22, 23, 24, 26, 27, 28, 30 y 31, se sancionará con una corrección disciplinaria sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
+Las actuaciones judiciales se practicarán en días y horas hábiles.
 
-###### ARTICULO 33.
+(REFORMADO, P.O. 21 DE JULIO DE 1997
 
-Cuando el inculpado, el ofendido, los testigos o los peritos no hablen el idioma castellano, se le nombrará de oficio uno o más intérpretes, mayores de edad, quienes deberán traducir fielmente las preguntas y contestaciones que hayan de transmitir. Cuando lo solicite cualquiera de las partes podrá escribirse la declaración en el idioma del declarante, sin que esto obste para que el intérprete haga la traducción.
+Son días hábiles todos los del año, menos el sábado, domingo y aquéllos que las leyes declaren festivos o vacacionales o cuando de hecho se suspendan las labores por orden del Tribunal Superior de Justicia.
 
-Cuando no pudiere ser habido un intérprete mayor de edad, podrá nombrarse un menor que haya cumplido catorce años.
+(REFORMADO, P.O. 21 DE JULIO DE 1997
 
-###### ARTICULO 34.
+Se entienden por horas hábiles las que medien desde las siete a las diecinueve. Principiada una diligencia en horas hábiles, deberá concluirse y será válida, aún cuando se actúe en horas inhábiles, sin necesidad de determinación especial del juez.
 
-Las partes podrán recusar al intérprete fundando la recusación; y el funcionario que practique las diligencias resolverá de plano y sin recurso.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-###### ARTICULO 35.
+El Juez podrá habilitar los días y las horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que las amerite, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
-Los testigos no podrán ser intérpretes.
+###### Artículo 32.
 
-###### ARTICULO 36.
+Los documentos que presenten las partes podrán devolvérseles, vencido el término para alegar su falsedad, siempre que presenten copia simple de los mismos, la que confrontará el Secretario o quien haga sus veces, y sellada y rubricada se agregará a los autos.
 
-Si el inculpado, el ofendido o algún testigo fuere sordomudo, se le nombrará como intérprete a una persona mayor de edad que pueda comprenderlo; y cuando no pudiere ser habido, podrá nombrarse a una de menor edad que haya cumplido catorce años; y en todo caso se observará lo dispuesto en los artículos anteriores.
+Los poderes podrán devolverse luego sin necesidad de que transcurra este término.
 
-###### ARTICULO 37.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-A los sordos y a los mudos que sepan leer y escribir, se les interrogará por escrito o por medio de intérprete.
+###### Artículo 33.
 
-###### ARTICULO 38.
+Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el Secretario o por el empleado que lo reciba en el Tribunal.
 
-Los tribunales tienen el deber de mantener el buen orden y de exigir que se les guarde, tanto a ellos como a las demás autoridades, el respeto y la consideración debidos, aplicando en el acto, por las faltas que se cometan, las correcciones disciplinarias que este Código señala.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 39.
+###### Artículo 34.
 
-Las fianzas que deban otorgarse ante los tribunales, se sujetarán a las disposiciones especiales de este Código y, en su defecto, a las del Código Civil.
+El Secretario dará cuenta de los escritos recibidos a más tardar dentro de veinticuatro horas, bajo pena de cubrir por concepto de multa hasta quince cuotas, sin perjuicio de las demás que merezca conforme a las leyes.
 
-###### ARTICULO 40.
+Los Magistrados y Jueces, antes de acordar lo solicitado, tendrán la facultad de exigir la ratificación de firma y, en su caso, de la huella digital, que calcen los ocursos presentados, cuando se dude de su autenticidad. La falta de ratificación o la manifestación del interesado, de que la firma no es de puño y letra, o de que él no estampó su huella digital, originará que, además de que se tenga por no presentado el escrito, se proceda en los términos del Código Penal.
 
-En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 41.
+###### Artículo 35.
 
-Todos los gastos que se originen en las diligencias de policía judicial, en las acordadas por los tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por los tribunales serán cubiertos por el Erario del Estado.
+Los secretarios y testigos de asistencia, en su caso, foliarán los autos, rubricarán todas las hojas al margen de lo escrito, pondrán el sello del juzgado o tribunal en el fondo o centro del cuaderno, de manera que queden selladas las dos caras, dando cuenta al juez o magistrado de las faltas que observaren, para que disponga lo conveniente.
 
-Los gastos de las diligencias solicitadas por el inculpado o la defensa serán cubiertos por quienes las promuevan. En el caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá éste hacer suya la petición de esas diligencias y entonces quedarán también a cargo del Erario del Estado.
+###### Artículo 36.
 
-###### ARTICULO 42.
+Por ningún motivo se entregarán los autos a las partes, sus representantes o abogados, para llevarlos fuera de los tribunales.
 
-Cuando cambiare el personal de un tribunal, no se proveerá auto alguno, haciendo saber el cambio, sino que en el primero que proveyere el nuevo funcionario se insertará su nombre completo; y en los tribunales colegiados, se pondrán al margen de los autos los nombres y apellidos de los funcionarios que los firmen.
+El examen de expedientes, ya sea para tomar apuntes o para cualquier otro objeto propio de la actividad de los interesados, será bajo la vigilancia del personal del juzgado o tribunal.
 
-Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 43.
+###### Artículo 37.
 
-Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del ofendido, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
 
-###### ARTICULO 44.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando durante el procedimiento judicial se encontrare que el hecho que se averigua tiene ramificaciones, o que se siguen otros con los que tuviere conexión, se dará conocimiento de ello al Ministerio Público para que promueva lo que corresponda.
+Sin necesidad de acuerdo judicial, el secretario o quien haga sus veces, hará constar desde luego la existencia anterior y falta posterior del expediente. Esto bastará para decretar de plano su reposición cuando el demandado no haya sido emplazado a juicio. En caso contrario, la reposición se substanciará con un escrito de cada parte, resolviendo dentro del tercer día. Contra esta decisión no existirá recurso alguno.
 
-###### ARTICULO 45.
+Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 
-Toda incoación de procedimiento judicial, será comunicada al tribunal de apelación respectivo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 46.
+###### Artículo 38.
 
-Los tribunales pueden dictar de oficio los trámites y providencias encaminadas a que la justicia sea pronta y expedita.
+Nunca, por ningún motivo, se entregarán los autos en confianza.
 
-###### ARTICULO 47.
+El Magistrado, Juez, Secretario o cualquier servidor público que infrinja este artículo sufrirá una multa de cincuenta a doscientas cuotas; y serán responsables de todos los daños y perjuicios que se causaren y si reinciden en dicha falta, serán destituidos del empleo u oficio. Dicha sanción será impuesta en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-Son correcciones disciplinarias:
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-I.- Apercibimiento;
+###### Artículo 39.
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+Para sacar copia o testimonio de cualquier documento que exista en los archivos o expedientes se requiere decreto judicial, que no se dictará sino con conocimiento de causa y a petición de parte legítima, si se trata de copia simple se expedirá sin requisito alguno, quedando razón y constancia de su recibo en el que se señale las copias que reciba.
 
-II.- Multa de cincuenta a mil pesos;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-III.- Arresto hasta de quince días; y
+###### Artículo 40.
 
-IV.- Suspensión hasta por un mes.
+Las copias certificadas de constancias judiciales serán autorizadas por el secretario que las expida.
 
-La suspensión sólo se podrá aplicar a funcionarios o a empleados judiciales.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 48.
+###### Artículo 41.
 
-Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá al interesado, si lo solicita dentro de las veinticuatro horas siguientes a la en que tenga conocimiento de ella.
+Los tribunales no admitirán recursos ni promociones notoriamente frívolos e improcedentes. Deberán desecharlos de plano e imponer a los promoventes una multa de veinticinco a cien cuotas, la que se duplicará en caso de reincidencia y de la que serán responsables solidariamente la parte y su apoderado o director, procediéndose en su caso en los términos del Código Penal.
 
-En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
+Para la imposición de la multa se observará lo dispuesto por el artículo 30 de este Código y contra la resolución adoptada no cabe recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 1980)</small>
+###### Artículo 42.
 
-###### ARTICULO 49.
+Los magistrados y los jueces para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio:
 
-El Ministerio Público en la averiguación previa y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+I.- Multa hasta por las cantidades a que se refiere el artículo 27 de éste Código, que se duplicará en caso de reincidencia;
 
-I.- Multa de cincuenta a mil pesos;
+II.- Auxilio de la fuerza pública.
 
-II.- Auxilio de la fuerza pública; y
+III.- Cateo por orden escrita;
 
-III.- Arresto hasta de quince días.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 50.
+IV.- Arresto hasta por treinta y seis horas.
 
-Las diligencias de policía judicial que deban practicarse fuera del lugar en que se esté tramitando alguna averiguación, se encargarán a quien toque desempeñar esas funciones en el lugar donde deban practicarse, enviándole la averiguación original o un oficio con las inserciones necesarias.
+Si el caso exigiere mayor pena, se consignará al Ministerio Público para los efectos legales.
 
-Cuando tuviere que practicarse una diligencia judicial fuera del lugar del juicio, se encargará su cumplimiento, por medio de exhorto o requisitoria, al juez de la localidad en que dicha diligencia deba practicarse.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Se empleará la forma de exhorto, cuando se dirija a un tribunal o juez igual o superior en categoría, y la de requisitoria, cuando se dirija a un inferior.
+###### Artículo 43.
 
-### CAPITULO IV. Despacho de los Asuntos
+La nulidad de una actuación debe reclamarse en la actuación subsecuente, pues de lo contrario aquélla queda revalidada de pleno derecho.
 
-###### ARTICULO 51.
+###### Artículo 44.
 
-Se dará entera fe y crédito a los exhortos y a las requisitorias que libren los tribunales y jueces de la República, debiendo, en consecuencia, cumplimentarse, siempre que llenen las condiciones fijadas por este Código.
+Los magistrados, Procurador de Justicia en el Estado y jueces propietarios en ejercicio, y los interinos y suplentes cuando lo sean por más de tres meses, no podrán ser apoderados judiciales, albaceas, tutores, curadores, ni ejercer la abogacía sino en causa propia. Lo mismo se entenderá para cualesquiera otros empleados de la administración de justicia.
 
-###### ARTICULO 52.
+###### Artículo 45.
 
-Los exhortos y las requisitorias contendrán las inserciones necesarias, según la naturaleza de la diligencia que se haya de practicar. Irán firmados por el funcionario correspondiente y por el secretario respectivo o por testigos de asistencia, y llevarán, además, el sello del tribunal.
+Los exhortos que se reciban en el Estado, se proveerán dentro de las cuarenta y ocho horas siguientes a su recepción, y se despacharán dentro de los seis días que sigan a ésta, a no ser que las diligencias que hayan de practicarse exijan necesariamente mayor tiempo.
 
-###### ARTICULO 53.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-En casos urgentes, se podrá usar del telégrafo, expresándose con toda claridad la diligencia que haya de practicarse, la parte que la solicitó, el nombre de los que en ella deban participar, el delito de que se trate y el fundamento de la providencia. Si lo estimare prudente el tribunal requeriente, mandará con posterioridad por correo el exhorto o requisitoria en forma.
+###### Artículo 46.
 
-###### ARTICULO 54.
+En los despachos o exhortos no se requiere la legalización de las firmas del tribunal que los expida, a menos que lo exija el tribunal requerido, por ordenarla la Ley de su jurisdicción, como requisito para obsequiarlos.
 
-Los exhortos a los tribunales extranjeros, se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Gobernador del Estado, y la de este funcionario por el Secretario de Relaciones Exteriores.
+Para que los exhortos de los tribunales de los Estados, de la Federación y del Distrito Federal sean diligenciados por los del Estado, no será necesaria la legalización de las firmas de los servidores públicos que los expidan.
 
-###### ARTICULO 55.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-No será necesaria la legalización, si las leyes o prácticas del país, a cuyo tribunal se dirija el exhorto, no establecen ese requisito para los documentos de igual clase.
+###### Artículo 47.
 
-### CAPITULO V. Correcciones Disciplinarias y Medios de Apremio
+Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas al Código Federal de Procedimientos Civiles, los tratados y los convenios internacionales en los que los Estados Unidos Mexicanos sea parte.
 
-###### ARTICULO 56.
+Si el demandado fuera extranjero, las copias de la demanda y de los documentos irán redactados en español con su traducción al idioma del país de residencia de la autoridad exhortada hecha por perito oficial, a costa del interesado, quien deberá presentarlas en el término que fije el Tribunal; en caso contrario no se enviará el exhorto, en perjuicio del solicitante.
 
-Respecto de las naciones, cuya legislación lo autorice, el exhorto se remitirá directamente por el tribunal o juez exhortante del Estado, al exhortado, sin más legalización que la exigida por las leyes del país en el cual deba cumplirse.
+Estas reglas se observarán para dar cumplimiento en el Estado a los exhortos de tribunales extranjeros que requieran a las autoridades judiciales locales, la práctica de alguna diligencia de su competencia.
 
-Los exhortos que de esas naciones se dirijan a los tribunales del Estado, podrán también enviarse directamente por el tribunal o juez exhortante al exhortado, y bastará que sean legalizados por el ministro o cónsul mexicano residente en la nación o lugar del tribunal exhortante.
+###### Artículo 48.
 
-###### ARTICULO 57.
+Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
 
-Los exhortos que se reciban en el Estado, se proveerán dentro de las veinticuatro horas siguientes a que se reciban, y se despacharán dentro de tres días, a no ser que las diligencias que se hayan de practicar exijan necesariamente mayor tiempo, en cuyo caso el juez fijará el que crea conveniente, con audiencia del Ministerio Público.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 58.
+###### Artículo 49.
 
-Los exhortos que se dirijan a tribunales de otras Entidades, serán legalizados por el Gobernador del Estado, quien los enviará directamente al requerido por conducto del Tribunal Superior respectivo.
+Para la consecución de la verdad y de la justicia, que constituyen interés fundamental y común de las partes y de la autoridad judicial ante quien se tramitan los procedimientos, los Magistrados y Jueces en todo tiempo podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el efecto de regularizar el procedimiento, asimismo y con independencia de los elementos de convicción que rindan las partes, decretarán la práctica de cualquiera diligencia, la aportación o la ampliación de pruebas, que se estimen necesarias y conducentes a aquellos objetivos, sin más limitación que sean de las reconocidas por la Ley y que tengan relación con los hechos controvertidos.
 
-###### ARTICULO 59.
+Para el desahogo de la determinación que se adopte conforme al párrafo anterior, los jueces procederán de la manera más pertinente para lograr el propósito mencionado, cuidando siempre de conservar la igualdad de las partes y de no lesionar sus derechos.
 
-Cuando hubieren de ser examinados miembros del cuerpo diplomático mexicano que se encuentren en el extranjero ejerciendo sus funciones, se dirigirá oficio por conducto de la Secretaría de Relaciones al Ministro Diplomático respectivo, para que si se trata de él mismo, informe bajo protesta y si no, examine en la misma forma al que deba declarar.
+Contra la decisión que se tome con base en este artículo, no procede recurso alguno.
 
-###### ARTICULO 60.
+REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)
 
-Si el juez exhortado creyere que no debe cumplimentarse el exhorto, por interesarse en ello su jurisdicción, o por cualquier otro motivo legal, o si tuviere duda sobre este punto, oirá al Ministerio Público y resolverá dentro de tres días, promoviendo, en su caso, la competencia, conforme a las reglas establecidas en este Código.
+###### Artículo 50.
 
-La resolución dictada por el juez requerido, negando la práctica de la diligencia, será apelable.
+En los casos del artículo anterior, si el negocio se encuentra ya en estado de sentencia, el plazo para pronunciar ésta correrá de nuevo desde el siguiente día al en que se desahogue lo decretado.
 
-###### ARTICULO 61.
+### CAPITULO III
 
-Cuando el tribunal o juez no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, podrá encomendar su ejecución al juez local, remitiéndole el exhorto original o un oficio con las indicaciones necesarias, si aquel no pudiere mandarse.
+DE LAS RESOLUCIONES JUDICIALES.
 
-###### ARTICULO 62.
+###### Artículo 51.
 
-Cuando el juez no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otra jurisdicción las personas o los bienes que sean objeto de las diligencias, lo remitirá al juez del lugar en que aquéllas o éstos se encuentren y lo hará saber al requeriente.
+Las resoluciones son:
 
-###### ARTICULO 63.
+I.- Simples determinaciones de trámite y entonces se llamarán decretos;
 
-No se notificarán las providencias que se dicten para el cumplimiento de un exhorto o de una requisitoria, sino cuando se prevenga así en el mismo despacho.
+II.- Decisiones sobre materia, que se llamarán autos, debiendo contener los fundamentos legales en que se apoyan, y
 
-###### ARTICULO 64.
+III.- Sentencias definitivas o interlocutorias.
 
-Cuando se demore el cumplimiento de un exhorto, se recordará su despacho por medio de oficio. Si a pesar de esto continuare la demora, el juez requeriente lo pondrá en conocimiento del superior inmediato del requerido; dicho superior apremiará al moroso, lo obligará a devolver el exhorto y le exigirá la responsabilidad en que hubiere incurrido.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO VI. Requisitorias y exhortos
+Todas estas resoluciones deberán ser firmadas por el magistrado o juez que las dicte, y por el Secretario o quien haga sus veces.
 
-###### ARTICULO 65.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Fuera de los casos señalados en los artículos anteriores, los tribunales o jueces, al dirigirse a autoridades o funcionarios que no sean judiciales, lo harán por medio de oficio.
+###### Artículo 52.
 
-###### ARTICULO 66.
+Los autos y decretos deben dictarse dentro de cuarenta y ocho horas después de que tenga conocimiento el Juez o Magistrado, y las sentencias dentro de los quince días, salvo los casos en que la Ley fije otros términos. Sólo cuando hubiere necesidad de que el Juez o Magistrado examinen expedientes que excediere de cien fojas, al resolver en sentencia podrá disfrutar de un término de hasta otros quince días adicionales.
 
-Cuando durante las diligencias de policía judicial el Ministerio Público estime necesaria la práctica de un cateo, acudirá al tribunal respectivo, ejercitando la acción penal correspondiente y solicitando la diligencia, debiendo expresar el objeto de ella y los datos que la justifiquen.
+###### Artículo 53.
 
-No será necesario el mandamiento judicial, cuando el ocupante o encargado de la casa o lugar cerrado, pidiere la visita del Ministerio Público o de un funcionario de la policía judicial, o manifestare expresamente su conformidad en que se lleve a efecto desde luego.
+Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
-###### ARTICULO 67.
+###### Artículo 54.
 
-Las diligencias de cateo se practicarán por el tribunal que las decrete o por el secretario del mismo, o por los funcionarios o agentes de la policía judicial, según se designen en el mandamiento. Si alguna autoridad hubiere solicitado del Ministerio Público la promoción del cateo, podrá asistir a la diligencia.
+Los autos y las sentencias serán pronunciadas necesariamente dentro del término que para cada uno de ellos establece la ley.
 
-###### ARTICULO 68.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Para decretar la práctica de un cateo, bastará la existencia de indicios o datos que hagan presumir, fundadamente, que el inculpado a quien se trate de aprehender, se encuentra en el lugar en que deba efectuarse la diligencia; o que se encuentran en él los objetos materiales del delito, el instrumento del mismo, libros, papeles u otros objetos, que puedan servir para la comprobación del delito o de la responsabilidad del inculpado.
+Si transcurren más de treinta días de la fecha en que deba dictarse una sentencia sin que ésta se pronuncie, con sólo esta circunstancia y el hecho de pedirlo cualquiera de las partes, se tendrá por impedido al servidor público para seguir conociendo del negocio, quien lo remitirá inmediatamente al Tribunal Pleno, para que éste a su vez lo turne al Magistrado o Juez que corresponda conforme a las reglas establecidas para las recusaciones.
 
-###### ARTICULO 69.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Los cateos deberán practicarse entre las seis y dieciocho horas, pero si llegada esta hora, no se han terminado, podrán continuarse hasta su conclusión.
+El Pleno acordará en la misma resolución que al servidor público negligente se le deduzca de su sueldo la cantidad equivalente hasta treinta cuotas, que se aplicará como sobresueldo al que lo substituya en el conocimiento del negocio, comunicando la resolución al Secretario de Finanzas y Tesorero General del Estado, para que proceda a hacerla efectiva.
 
-###### ARTICULO 70.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando la urgencia del caso lo requiera, podrán practicarse los cateos a cualquier hora, debiendo expresarse esta circunstancia en el mandamiento judicial.
+Si el servidor público que substituya al Magistrado o Juez negligente, no pronunciare sentencia dentro de igual término deberá seguirse el mismo procedimiento.
 
-###### ARTICULO 71.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Si al practicarse un cateo resultare casualmente el descubrimiento de un delito distinto del que lo haya motivado, se hará constar en el acta correspondiente, siempre que el delito descubierto sea de los que se persiguen de oficio.
+Lo dispuesto en este artículo se entiende sin perjuicio de la responsabilidad civil en que incurra el servidor público conforme a la Ley.
 
-###### ARTICULO 72.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Para la práctica de un cateo en la residencia o despacho de cualquiera de los Organos de los Poderes, el tribunal recabará la autorización correspondiente.
+###### Artículo 55.
 
-###### ARTICULO 73.
+Queda expresamente prohibido dictar otros trámites que los que para cada caso determina este Código. Queda igualmente prohibido dictar determinaciones mandando agregar un escrito a sus antecedentes cuando no fuere eso lo pedido, dar cuenta con él, sentar certificaciones que no sean las prevenidas por la Ley y, en general, toda tramitación que obstaculice la substanciación de los juicios.
 
-Al practicarse un cateo se recogerán los instrumentos y objetos del delito, así como los libros, papeles o cualesquiera otras cosas que se encuentren, si fueren conducentes al éxito de la investigación o estuvieren relacionados con el nuevo delito, en el caso previsto en el artículo 71.
+Todas las resoluciones sean decretos, autos o sentencias interlocutorias, deben ser claras, precisas y congruentes con las promociones de las partes, resolviendo sobre todo lo que éstas hayan pedido. Cuando el Tribunal sea omiso en resolver todas las peticiones planteadas por el promovente, de oficio o a simple instancia verbal del interesado, deberá dar nueva cuenta y resolver las cuestiones omitidas dentro del día siguiente.
 
-Se formará un inventario de los objetos que se recojan relacionados con el delito que motive el cateo y, en su caso, otro por separado con los que se relacionen con el nuevo delito.
+Los Magistrados o Jueces que infrinjan este artículo sufrirán una multa de hasta treinta cuotas que aplicará, mediante queja de alguna de las partes, el superior jerárquico en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, comunicando la resolución que al efecto se dicte al Secretario de Finanzas y Tesorero General del Estado para que la haga efectiva.
 
-###### ARTICULO 74.
+### CAPITULO IV
 
-Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y ponga en ellos su firma o rúbrica, si fueren susceptibles de ello; si no supiere firmar, sus huellas digitales. En caso contrario, se unirá a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esa circunstancia, así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
+DE LOS TERMINOS JUDICIALES.
 
-###### ARTICULO 75.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Los términos son improrrogables y empezarán a correr desde el día siguiente al de la fecha de la notificación, salvo los casos que este Código señala expresamente.
+###### Artículo 56.
 
-No se incluirán en los términos los domingos ni los días inhábiles, a no ser que se trate de poner al inculpado a disposición de los tribunales, de tomarle su declaración preparatoria, o de resolver sobre la procedencia de su formal prisión, sujeción a proceso o libertad.
+Los términos judiciales empezarán a correr el día siguiente al en que quedare legalmente hecha la notificación, y se contará en ellos el día del vencimiento.
 
-###### ARTICULO 76.
+###### Artículo 57.
 
-Los términos se contarán por días naturales, excepto los que se refieren a los tres casos mencionados en la segunda parte del artículo anterior, y a cualquier otro que deba computarse por horas, pues éstos se contarán de momento a momento, a partir de la hora en que corresponda conforme a la ley.
+Cuando fueren varias las partes y el término fuere común a todas ellas, éste se contará desde el día siguiente al de la última notificación.
 
-###### ARTICULO 77.
+###### Artículo 58.
 
-Con excepción de los altos funcionarios del Estado y de la Federación, toda persona está obligada a presentarse ante los tribunales y oficinas de policía judicial cuando sea citada, a menos que no pueda hacerlo porque padezca alguna enfermedad que se lo impida, o tenga alguna otra imposibilidad para presentarse.
+En ningún término se contarán los días en que no puedan practicarse actuaciones judiciales.
 
-###### ARTICULO 78.
+###### Artículo 59.
 
-Las citaciones podrán hacerse verbalmente, o por cédula, o por telégrafo, anotándose en cualquiera de esos casos la constancia respectiva en el expediente.
+Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se perderá el derecho que, dentro de ellos, debió ejercitarse, salvo los casos en que la ley disponga otra cosa.
 
-###### ARTICULO 79.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-La cédula y el telegrama contendrán:
+###### Artículo 60.
 
-I.- La designación legal de la autoridad ante la que deba presentarse el citado;
+Todos los términos judiciales señalados en éste Código son improrrogables, salvo disposición de este Código, y siempre serán comunes a las partes.
 
-II.- El nombre, apellido y domicilio del citado si se supiere o, en caso contrario, los datos de que se disponga para identificarlo;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-III.- El día, hora y lugar en que debe comparecer;
+###### Artículo 61.
 
-IV.- El medio de apremio que se empleará si no compareciere; y
+Si se emplaza a un demandado por edicto y se sacaren las copias del traslado después de que haya comenzado a correr el término, éste sólo durará el tiempo que falte para completar el término legal. Lo mismo se observará cuando se cite a cualquier persona por los periódicos y se haya ordenado darle vista de la promoción.
 
-V.- La firma o la transcripción de la firma del funcionario que ordene la citación.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 80.
+###### Artículo 62.
 
-Cuando se haga la citación por cédula, deberá acompañarse a ésta un duplicado, en el cual firme el interesado o cualquiera otra persona que la reciba.
+Siempre que la práctica de un acto judicial requiera citación de personas que estén fuera del lugar del juicio, para que concurran ante el tribunal, se debe fijar un término en el que se aumente al fijado por la Ley un día más por cada cien kilómetros de distancia o fracción que exceda de la mitad, salvo que la Ley disponga otra cosa.
 
-###### ARTICULO 81.
+Si el demandado residiere en el extranjero, el Juez ampliará el término del emplazamiento a todo el que considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones.
 
-Cuando la citación se haga por telégrafo, se enviará por duplicado a la oficina que haya de transmitirla la cual devolverá, con su constancia de recibo uno de los ejemplares que se agregará al expediente.
+###### Artículo 63.
 
-###### ARTICULO 82.
+Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contados de las cero a las veinticuatro horas.
 
-En caso de urgencia podrá hacerse la citación por telefonema, que transmitirá el funcionario de la policía judicial que practique las diligencias o el secretario respectivo del tribunal que corresponda, quienes harán la citación con las indicaciones a que se refieren las fracciones I y III del artículo 79, asentando constancia en el expediente.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Asimismo podrá ordenarse por teléfono a la policía que haga la citación, cumpliéndose con los requisitos del mismo artículo 79.
+###### Artículo 64.
 
-###### ARTICULO 83.
+Cuando la Ley no señale término para la práctica de un acto judicial o para el ejercicio de algún derecho durante el juicio, se tendrá por señalado el de tres días.
 
-También podrá citarse por teléfono a la persona que haya manifestado expresamente su voluntad, para que se le cite por ese medio, dando el número del aparato al cual debe hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
+### CAPITULO V
 
-###### ARTICULO 84.
+DE LAS NOTIFICACIONES.
 
-Cuando no se pueda hacer la citación verbalmente se hará por cédula, la cual podrá entregarse por conducto de la policía, de los interesados o de los empleados de la autoridad que haga la citación, dondequiera que se encuentre la persona a quien deba citarse, recogiéndole su firma en el duplicado o su huella digital en el caso de que no sepa firmar, o si se niega a hacerlo, asentando este hecho y el motivo que expresare tener para ello.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-También podrá enviarse la cédula por correo, en sobre cerrado y sellado con acuse de recibo.
+###### Artículo 65.
 
-###### ARTICULO 85.
+Las notificaciones, citaciones y emplazamientos, se efectuarán lo más tarde al día siguiente al en que se dicten las resoluciones que las prevengan, cuando el Juez o la Ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa hasta de diez cuotas.
 
-En el caso de citación por cédula, cuando no se encuentre a quien va destinada, se entregará en su domicilio o en el lugar en que trabaje, y en el duplicado, que se agregará al expediente, se recogerá la firma o huella digital de la persona que la reciba, o su nombre y la razón de por qué no firmó o no puso su huella.
+###### Artículo 66.
 
-Si la persona que recibiere la citación manifestare que el interesado está ausente, dirá dónde se encuentra y, desde cuándo se ausentó, así como la fecha en que se espera su regreso, y todo esto se hará constar, para que el funcionario respectivo dicte las providencias que fueren procedentes.
+Para la validez de la notificación no se requiere el consentimiento del notificado.
 
-###### ARTICULO 86.
+###### Artículo 67.
 
-La citación a los militares y empleados oficiales, o particulares en alguna rama del servicio público, se hará por conducto del superior jerárquico respectivo, a menos que el éxito de la tramitación requiera que no se haga así.
+El auto en que se mande hacer la notificación expresará la materia u objeto de la diligencia y la persona o personas con quienes ésta debe practicarse.
 
-###### ARTICULO 87.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando se ignorare la residencia de la persona que deba ser citada, se encargará a la policía que averigüe su domicilio y lo proporcione. Si esta averiguación no tuviere éxito y quien ordene la citación lo estimare conveniente, podrá hacerlo por medio de un periódico de los de mayor circulación, o por cualquier otro medio que juzgue conveniente.
+###### Artículo 68.
 
-### CAPITULO VII. C a t e o s
+Todos los litigantes en el primer escrito que presenten o en la primera diligencia judicial en que intervengan, deben designar domicilio ubicado en el lugar del juicio para que se les hagan notificaciones y se practiquen las diligencias que sean necesarias. Tratándose de procedimientos instaurados en el Primer Distrito Judicial, el domicilio que se designe para oír notificaciones puede estar ubicado en cualquiera de los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina.
 
-###### ARTICULO 88.
+También harán esa designación al notificárseles la determinación relativa, para el nuevo lugar a donde por cualquier motivo se mande pasar el negocio. Si durante el Juicio varían de domicilio deberán dar aviso al Juzgado o Tribunal. Igualmente deben designar el domicilio en que haya de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo y por su defensor, siempre que pueda hacerlo comparecer sin entorpecer la audiencia.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-El Ministerio Público podrá replicar cuantas veces quisiere, pudiendo la defensa contestar en cada caso.
+Cuando un litigante no cumpla con las tres primeras prevenciones de este artículo, las notificaciones que conforme a las reglas generales deben hacerse personalmente, se le harán por medio de Instructivo que se fijará en la Tabla de Avisos del Juzgado; Instructivo que contendrá los requisitos fijados en el segundo párrafo del artículo 69. Si no cumple con la última prevención no se hará notificación alguna a la persona contra quien se promueva hasta que se subsane la omisión.
 
-Si el acusado tuviere varios defensores, no se oirá más que a uno de ellos en cada vez que toque hablar a la defensa. Lo mismo se hará cuando intervinieren varios Agentes del Ministerio Público.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 89.
+###### Artículo 69.
 
-Las audiencias se llevarán a cabo, concurran o no las partes; salvo el Ministerio Público que no podrá dejar de asistir a ellas.
+El emplazamiento del demandado, y salvo los casos determinados en la Ley, deberá hacérsele personalmente en el domicilio designado al efecto, por el Actuario o por el Secretario. También se hará personalmente la primera notificación en el procedimiento de actos prejudiciales o de jurisdicción voluntaria en que se deba hacer saber de los mismos a las partes.
 
-###### ARTICULO 90.
+Si no se encontrare presente la persona interesada y después de que el notificador se cerciore, por el informe de dos vecinos, de que la persona de que se trata, vive ciertamente en el lugar designado, de todo lo que tomará razón pormenorizada en los autos, suscribiendo el acta los vecinos, si quisieren y supieren hacerlo; la notificación se llevará a efecto por medio de un instructivo en el que se hará constar el número de expediente, el nombre y apellidos del promovente, el objeto y naturaleza de la promoción, el del juez o tribunal que mande practicar la diligencia, copia íntegra de la determinación que se mande notificar, la fecha y hora en que se entregue el instructivo y el nombre y apellido de la persona a quien se entrega.
 
-En las audiencias a que se refieren los artículos 284 y 286, si el defensor fuere particular y no asistiere o se ausentare de ellas, sin autorización expresa del acusado, se le impondrá una corrección disciplinaria y se nombrará a éste un defensor de oficio que será designado por el mismo acusado, si estuviere presente. Si el faltista fuere defensor de oficio, se comunicará la falta a su superior inmediato y se le hará comparecer por la fuerza pública o se le substituirá por otro.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Lo dispuesto en este artículo será sin perjuicio del derecho que tiene el acusado, si estuviere presente, de nombrar para que lo defienda a cualquiera persona de las que se encuentren en la audiencia y que no tuviere impedimento legal.
+###### Artículo 70.
 
-###### ARTICULO 91.
+El instructivo a que se refiere el artículo anterior se entregará a los parientes, domésticos o a cualquiera otra persona capaz que se encuentre en la casa donde se practique la diligencia. Si no se encontrare persona alguna, si las presentes se negaren a recibirlos o si por cualquier otro motivo no se pudiere cumplir con lo dispuesto anteriormente, el instructivo se entregará al Juez auxiliar de la sección respectiva, fijándose una copia del instructivo en la puerta o lugar más visible del domicilio del interesado.
 
-Durante la audiencia el inculpado podrá comunicarse con sus defensores, pero no con el público.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Si infringe esta disposición, se le impondrá una corrección disciplinaria.
+###### Artículo 71.
 
-Si alguna persona del público se comunica o intenta comunicarse con el inculpado, será retirada de la audiencia y se le impondrá una corrección disciplinaria, si se estima conveniente.
+También se harán personalmente, las notificaciones de los autos en que se desecha o mande aclarar una demanda o una solicitud de jurisdicción voluntaria; los autos en que se cite para absolver posiciones o para reconocimiento de firma; la del primer auto dictado por el nuevo Juez o Tribunal, en caso de excusa, recusación o apelación; la primera resolución que se dicte cuando se ha dejado de actuar por más de dos meses consecutivos; los autos que conceden el término probatorio o señalan día y hora para la audiencia de pruebas y alegatos; las de las sentencias definitivas o interlocutorias y cuando se trate de casos urgentes o el Juez o la Ley así lo ordenan.
 
-###### ARTICULO 92.
+En todos los casos anteriores el actuario o quien haga la notificación ya no se cerciorará de la autenticidad del domicilio del notificado, sino que se limitará a efectuarla en los términos de los artículos 69 y 70 de este Código.
 
-Antes de cerrarse el debate, el funcionario que presida la audiencia preguntará al inculpado si quiere hacer uso de la palabra, concediéndosela en caso afirmativo.
+De las sentencias, en vez de copia íntegra, se insertarán sólo sus puntos resolutivos.
 
-###### ARTICULO 93.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Si el inculpado altera el orden de una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor. Todo esto sin perjuicio de aplicarle la corrección disciplinaria que el tribunal estime pertinente.
+###### Artículo 72.
 
-###### ARTICULO 94.
+Si se probare que quien debió hacer la notificación no la hizo personalmente, encontrándose presente la persona interesada en el domicilio designado, será responsable de los daños y perjuicios y se le impondrá una multa por la autoridad competente de cincuenta hasta cien cuotas, mediante queja del interesado.
 
-Si es el defensor quien altera el orden se le apercibirá, y si continúa en la misma actitud se le expulsará del local, pudiendo imponérsele, además, una corrección disciplinaria. Para que el inculpado no carezca de defensor, se procederá de acuerdo con lo dispuesto en la parte final del artículo 90.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
-###### ARTICULO 95.
+###### Artículo 73.
 
-En las audiencias la policía estará a cargo del funcionario que presida.
+La primera notificación a la persona cuyo lugar de residencia o habitación se ignore, se le hará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial y en algún periódico de los que tenga mayor circulación a juicio del Juez. Publicación que igualmente se hará en el Boletín Judicial en los lugares en que este se edite. La notificación hecha de esta manera surtirá sus efectos a los diez días contados desde el siguiente al de la última publicación. Si el notificado no compareciera, se le harán las demás notificaciones que sean personales por medio de instructivo en los términos del último párrafo del Artículo 69 de este Código, fijándose dicho instructivo en la tabla de avisos del Juzgado o Tribunal.
 
-###### ARTICULO 96.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-Las resoluciones judiciales son: sentencias, si terminan la instancia resolviendo el asunto en lo principal; y autos en cualquier otro caso.
+###### Artículo 74.
 
-Toda resolución expresará la fecha en que se pronuncie.
+Cuando haya que notificarse por primera vez a una persona residente en otro lugar comprendido dentro del Distrito Judicial en que tiene competencia el Juez que lo manda notificar, la diligencia podrá practicarse por medio del servidor público encargado o por despacho dirigido al Juez Menor de la población o lugar donde residiera, quien la llevará a efecto, de conformidad con los artículos 69 y 70. Si el interesado residiere fuera del Distrito Judicial, pero dentro del Estado, la notificación se hará por medio del exhorto, dirigido a la primera autoridad judicial competente quien en su caso, observará lo dispuesto en la primera parte de este artículo.
 
-###### ARTICULO 97.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Las sentencias contendrán:
+Cuando la persona que se va a notificar resida fuera del Estado, se hará por medio de exhorto que se enviará a la autoridad judicial competente con residencia en aquel lugar, quien actuará conforme lo ordene su legislación.
 
-I.- El lugar en que se pronuncien;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-II.- La designación del tribunal que las dicte;
+Cuando la notificación deba practicarse en el Estado a virtud de exhorto proveniente de otro Estado de la República o del Distrito Federal, la misma se hará conforme a las prescripciones de este Código.
 
-III.- Los nombres y apellidos del acusado, su sobrenombre si lo tuviere, el lugar de su nacimiento, su edad, su estado civil, su residencia o domicilio y su ocupación, oficio o profesión;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-IV.- Un extracto breve de los hechos conducentes a la resolución;
+Si la notificación debe hacerse en el extranjero, se estará a lo ordenado por el artículo 47 de este Código.
 
-V.- Sus consideraciones y fundamentos legales; y
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
 
-VI.- La condenación o absolución que proceda, y los demás puntos resolutivos correspondientes.
+###### Artículo 75.
+
+Practicada la primera notificación en la forma prevenida por los Artículos anteriores, todas las ulteriores procedentes en el mismo juicio, o en sus incidentes, en cuanto afecten a las mismas personas litigantes y salvo los casos de excepción establecidos por la Ley, sólo se les harán personalmente si los interesados concurren al Juzgado o Tribunal en el mismo día en que se dicte la resolución que deba notificarse, y así lo soliciten, o dentro de los dos días siguientes entre las nueve y quince horas.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
+###### Artículo 76.
+
+Si las partes o sus representantes no concurren al Juzgado o Tribunal en los días y horas a que se refiere el Artículo 75, la notificación se dará por hecha y surtirá sus efectos a las quince horas del segundo día que siga a la fecha en que se haya editado el Boletín Judicial a que se refiere el Artículo siguiente y en el que aparezca publicado el negocio relativo o en la lista de Acuerdos donde aquel no se publique.
+
+El Secretario o el Juez, en su caso, asentarán en autos la razón que corresponda a esta clase de notificaciones que incluirá, en todo caso, fecha y número del Boletín Judicial.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1987)</small>
+
+###### Artículo 77.
+
+Es obligación de los Secretarios o de los Jueces cuando actúen con testigos de asistencia, entregar para su publicación en el Boletín Judicial una lista de los negocios acordados o resueltos en ese mismo día, designándose en éste solamente el número de expediente o toca, la naturaleza del Juicio, los nombres y apellidos de las partes o interesados, salvo que el Juez estime publicación reservada por tratarse de decisiones que impliquen ejecución, pero asentándose en todo caso número de expediente y naturaleza del Juicio. La lista se hará por duplicado quedando uno de los ejemplares en el Archivo de la oficina para resolver cualquier duda que se suscite e irá autorizada con sello y firma del Juez o Magistrado en todo caso. Además se formarán dos colecciones del Boletín Judicial, una de las cuales estará siempre a disposición de los interesados en la Secretaría y otro será para el archivo. En los lugares en donde no se publique el Boletín es obligación de los funcionarios indicados publicar todos los días en la tabla de avisos de los locales que ocupan sus oficinas, antes de las quince horas la lista de Acuerdos referida.
+
+Por errores y omisiones que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por el Boletín Judicial, así como respecto a la fecha en que surta efecto la notificación si el Boletín no se publicó en ese día. La nulidad se tramitará en la vía incidental conforme al Artículo 81 de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 78.
+
+Las notificaciones o citaciones se entenderán directamente con las personas interesadas o con sus representantes legítimos, mandatarios o apoderados legalmente acreditados en autos.
+
+No obstante lo anterior, las partes podrán autorizar para oír y recibir notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, intervenir en la diligenciación de exhortos, alegar en las audiencias, pedir se dicte sentencia o hacer promociones para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrán substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de Abogado o Licenciado en Derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y exhibir su cédula profesional en la primera diligencia en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
+
+Las personas autorizadas en los términos de este artículo serán responsables, ante quien las autorice, de los daños y perjuicios que causen de acuerdo a las disposiciones aplicables del Código Civil para el mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal, haciendo saber las causas de la renuncia.
+
+Los tribunales llevarán un libro de registro de cédulas profesionales, en donde podrán registrarse los profesionistas autorizados.
+
+Las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quien no gozará de las demás facultades a que se refieren los párrafos anteriores.
+
+El Juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 79.
+
+Cuando se trate de citar a peritos, terceros que sirvan de testigos y personas que no sean parte en el juicio, se puede hacer por cédula en sobre cerrado y sellado conteniendo la determinación del Juez o Magistrado que mande practicar la diligencia. Estas cédulas pueden entregarse por conducto de la policía o de los actuarios.
+
+En el expediente se pondrá razón de la expedición y entrega de la cédula.
+
+###### Artículo 80.
+
+Cuando se trate de citar testigos, peritos o terceros que no constituyan parte, pueden ser citados también por correo certificado o por telégrafo, en ambos casos a costa del promovente.
+
+Cuando se haga por telegrama se enviará por duplicado a la oficina que haya de transmitirlo la cual devolverá con el correspondiente recibo uno de los ejemplares, que se agregará al expediente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 81.
+
+Las notificaciones que se hicieren en forma distinta a la prevenida en este Capítulo serán anulables. La parte agraviada, antes de que se pronuncie sentencia definitiva y precisamente dentro de los cinco días siguientes al en que tenga conocimiento de la notificación mal hecha, podrá promover ante el mismo Juez o Tribunal que conozca del negocio, el correspondiente incidente sobre nulidad de la notificación y de todo lo actuado desde la notificación hecha indebidamente.
+
+Este incidente se tramitará por separado, sin suspender el procedimiento del juicio en que se promueva.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 82.
+
+Promovido el incidente se correrá traslado al colitigante por el término de tres días. Si la parte contraria estuviere conforme se declarará de plano la nulidad en los términos solicitados. En caso contrario se citará a una audiencia en la que los interesados pueden presentar las pruebas que tuvieren, alegando lo que a sus derechos convenga, y en la misma audiencia se dictará la resolución.
+
+###### Artículo 83.
+
+Se entienden tácitamente consentidas las notificaciones indebidamente hechos (sic): cuando el agraviado reciba con posterioridad, personalmente, una notificación; haga alguna promoción en el juicio o asista a cualquier acto o diligencia del mismo, si no se promueve el incidente de nulidad dentro de los cinco días siguientes.
+
+###### Artículo 84.
+
+Las resoluciones judiciales no se tendrán por consentidas, sino cuando notificada la parte interesada conteste expresamente de conformidad, o cuando transcurridos los términos legales no se haya interpuesto el recurso que corresponda.
+
+###### Artículo 85.
+
+Por el sólo hecho de oír la notificación no se pierde el derecho de interponer dentro del término legal el recurso que proceda.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 86.
+
+Las infracciones cometidas al realizar notificaciones se castigarán con una multa de diez a cincuenta cuotas, que impondrá a petición de parte, sin perjuicio del derecho de la agraviada para reclamar los daños y perjuicios que se le ocasionen y de que, en su caso, se exija al infractor la responsabilidad criminal en que hubiere incurrido.
+
+###### Artículo 87.
+
+Lo prevenido en este Capítulo se observará siempre que la ley no disponga expresamente otra cosa.
+
+### CAPITULO VI
+
+DE LAS COSTAS.
+
+###### Artículo 88.
+
+Por ningún acto judicial se cobrarán costas, ni aún cuando se actuare con testigos de asistencia o se practicaren diligencias fuera del lugar del juicio.
+
+###### Artículo 89.
+
+Cada parte será inmediatamente responsable de las costas que originen las diligencias que promueva; en caso de condenación en costas, la parte condenada indemnizará a la otra de todas las que hubiere anticipado. La condenación no comprenderá la remuneración del procurador, ni la del patrono, sino cuando justifique que su título de abogado se encuentra registrado legalmente en el Tribunal Superior de Justicia del Estado.
+
+Los abogados extranjeros no podrán cobrar costas sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen en el ejercicio de la abogacía.
+
+###### Artículo 90.
+
+En toda sentencia definitiva o interlocutoria dictada en asuntos de carácter contencioso, se hará forzosamente condenación en costas, determinando cuál de las partes debe pagar a la parte contraria las costas que se le hayan causado en el juicio.
+
+###### Artículo 91.
+
+Siempre serán condenados en costas: el litigante que no obtenga resolución favorable sobre ninguno de los puntos de su demanda y el que fuere condenado en absoluta conformidad con la reclamación formulada en su contra.
+
+###### Artículo 92.
+
+Si sólo se obtuviere parte de lo demandado y sólo hubiere, en consecuencia, condenación parcial, el pago de las costas se decretará a cargo del litigante que, a juicio del juez o tribunal, hubiere obrado con mayor malicia o temeridad al sostener sus pretensiones.
+
+###### Artículo 93.
+
+El Superior Tribunal de Justicia al confirmar, revocar o reformar las resoluciones de primera instancia hará la condenación en costas que corresponda, conforme a los artículos anteriores.
+
+###### Artículo 94.
+
+La condenación en costas no comprenderá los honorarios y gastos ocasionados por gestiones, pruebas y actuaciones que hayan resultado inútiles, supérfluas o improcedentes.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 95.
+
+Sean cuales fueren los trabajos ejecutados y los gastos expensados en el negocio, las costas no podrán exceder del treinta porciento del valor del negocio en los juicios cuya cuantía fuere inferior a doscientas cuotas; del veinticinco porciento en los que el interés cuestionado no exceda de cuatrocientas cuotas y del veinte porciento en los que el interés del negocio exceda de esta última cantidad. Los jueces y magistrados deberán, de oficio, reducir a dichas proporciones la cantidad que importe la regulación, haciendo valuar por peritos, las cosas u obligaciones reclamadas, si éstas no constituyeren una cantidad precisa de dinero.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 96.
+
+Las costas por honorarios serán reguladas conforme al arancel respectivo. Cuando fueren impugnados, se fijarán por peritos nombrados por el Juez o Tribunal que conozca del incidente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 97.
+
+Las costas serán reguladas por la parte a cuyo favor se hubieren declarado, y se substanciará el procedimiento con un escrito de cada parte, resolviéndose dentro del tercer día.
+
+De esta decisión no habrá recurso alguno.
 
 ## TITULO SEGUNDO
 
-AVERIGUACION PREVIA.
+DE LAS COMPETENCIAS.
 
-### CAPITULO VIII. Términos
+### CAPITULO I
 
-###### ARTICULO 98.
+DISPOSICIONES GENERALES.
 
-Con excepción de los de mero trámite, los autos contendrán una breve exposición del punto de que se trate y la resolución que corresponda, precedida de sus fundamentos legales.
+###### Artículo 98.
 
-###### ARTICULO 99.
+Toda demanda o gestión debe interponerse ante juez competente.
 
-Los autos que contengan resoluciones de mero trámite deberán dictarse dentro de veinticuatro horas, contadas desde aquella en que se haga la promoción; los demás autos, salvo lo que la ley disponga para casos especiales, dentro de tres días, y las sentencias dentro de quince días, a partir del siguiente al de la terminación de la audiencia; pero si el expediente excediere de quinientas fojas, a este término se aumentará un día por cada cincuenta de exceso.
+###### Artículo 99.
 
-###### ARTICULO 100.
+La competencia de los tribunales se determinará por la materia, la cuantía, el grado y el territorio.
 
-Las resoluciones judiciales se dictarán por los jueces o Magistrados y serán firmadas por ellos y por el secretario que corresponda.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+###### Artículo 100.
+
+Cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicción voluntaria o mixta hubiere varios jueces competentes, conocerá del negocio aquél a quién se aplique el mismo en los términos que disponga la Ley Orgánica del Poder Judicial del Estado; con excepción del derecho sobre recusación y de la obligación de excusarse; de la acumulación; de la competencia por prevención, para el supuesto de promociones relativas a actos prejudiciales, diligencias de jurisdicción voluntaria, o a interposición de tercerías.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
+
+Artìculo 101.- Si el Juez deja de conocer por recusación o excusa, la substitución operará de acuerdo a lo previsto en la Ley Orgánica del Poder Judicial.
 
 ###### ARTICULO 101.
 
 Para la validez de las sentencias y de los autos que no sean de mero trámite, dictados por un tribunal colegiado se requerirá, cuando menos, el voto de la mayoría de sus miembros.
 
-###### ARTICULO 102.
+###### Artículo 102.
 
-Cuando alguno de los componentes de un tribunal colegiado no estuviere conforme con la resolución de la mayoría, expresará sucintamente las razones de su inconformidad en voto particular que se agregará al expediente.
+Ningún juez puede sostener competencia con un tribunal superior bajo cuya jurisdicción se halle, pero sí con otro tribunal que, aunque sea superior en su clase, no ejerza jurisdicción sobre él.
 
-###### ARTICULO 103.
+###### Artículo 103.
 
-Los tribunales unitarios no podrán modificar ni variar sus sentencias después de firmadas, ni los colegiados después de haberlas votado. Esto se entiende sin perjuicio de la aclaración de sentencia.
+El tribunal que reconozca la jurisdicción de otro por providencia expresa, no puede sostener su competencia.
 
-###### ARTICULO 104.
+Si el acto de reconocimiento consiste sólo en la cumplimentación de un exhorto, el tribunal exhortado no estará impedido para sostener su competencia.
 
-Las resoluciones judiciales no se tendrán por consentidas, sino cuando notificada la parte conteste expresamente de conformidad o deje pasar el término señalado para interponer el recurso que proceda.
+###### Artículo 104.
 
-###### ARTICULO 105.
+Las partes pueden desistirse de seguir sosteniendo la competencia de un tribunal, antes o después de la remisión de los autos al superior, si se trata de jurisdicción territorial.
 
-Las notificaciones se harán a más tardar el día siguiente al en que se dicten las resoluciones que las motiven.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 106.
+###### Artículo 105.
 
-Las resoluciones contra las cuales proceda el recurso de apelación se notificarán personalmente a las partes.
+La competencia por razón del territorio es la única que se puede prorrogar.
 
-Las demás resoluciones —con excepción de los autos que ordenen aprehensiones, cateos, providencias precautorias, aseguramientos y otras diligencias análogas respecto de las cuales el tribunal estime que deba guardarse sigilo para el éxito de la investigación— se notificarán al detenido o al procesado personalmente, y a los otros interesados en la forma señalada en el artículo 109 de este Código.
+###### Artículo 106.
 
-###### ARTICULO 107.
+Es juez competente aquél al que los litigantes se hubieren sometido expresa o tácitamente, cuando se trate del fuero renunciable.
 
-En los casos a que se refiere la segunda parte del artículo anterior, las resoluciones que deban guardarse en sigilo, solamente se notificarán al Ministerio Público. En las demás no será necesaria la notificación personal al inculpado, cuando éste haya autorizado a algún defensor para que reciba las notificaciones que deban hacérsele.
+###### Artículo 107.
 
-###### ARTICULO 108.
+Hay sumisión expresa cuando los interesados renuncian clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez a quien se someten.
 
-Cuando el inculpado tenga varios defensores designará a uno de ellos para que reciba las notificaciones que correspondan a la defensa, sin perjuicio de que sean notificados alguno o algunos de los demás, si lo solicitare del tribunal.
+###### Artículo 108.
 
-Si no se hace esa designación, bastará notificar a cualquiera de los defensores.
+Se entienden sometidos tácitamente:
 
-###### ARTICULO 109.
+I.- El demandante por el hecho de ocurrir al juez entablando su demanda, tanto por ejercitar su acción cuanto por contestar la reconvención que se le opusiere;
 
-El funcionario a quien corresponda hacer las notificaciones que no sean personales, fijará diariamente en la puerta del tribunal una lista de los asuntos acordados, expresando únicamente el número del expediente y el nombre del inculpado, y asentará constancia de este hecho en los expedientes respectivos.
+II.- El demandado, por oponer excepciones dilatorias, por contestar la demanda en cuanto al fondo y por reconvenir a su colitigante;
 
-Si alguno de los interesados desea que se le haga notificación personal, podrá ocurrir a más tardar al día siguiente al en que se fije la lista, solicitándola del funcionario encargado de hacerla. Si dentro de ese término no se presentaren los interesados, la notificación se tendrá por hecha por la simple publicación de la lista.
+III.- El que habiendo promovido la incompetencia del juez se desista de ella.
 
-###### ARTICULO 110.
+IV.- El tercero opositor o el que por cualquier motivo viniere al juicio en virtud de incidente.
 
-Las personas que intervengan en un proceso designarán en la primera diligencia un domicilio ubicado en el lugar, para recibir notificaciones. Si por cualquiera circunstancia no hacen la designación, cambian de domicilio sin dar aviso al tribunal o señalan uno falso, la notificación se les hará, aun cuando deba ser personal, en la forma que establece el artículo anterior.
+###### Artículo 109.
 
-### CAPITULO IX. Citaciones
+Es nulo lo actuado por el juez que fuere declarado incompetente, salvo:
 
-###### ARTICULO 111.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Las notificaciones personales se harán en el tribunal o en el domicilio designado. Si no se encuentra al interesado en el domicilio, se le dejará con cualquiera de las personas que allí residan, una cédula que contendrá: nombre del tribunal que la dicte, causa en la cual se dicta, transcripción, en lo conducente, de la resolución que se le notifique, día y hora en que se hace dicha notificación y persona en poder de la cual se deja, expresándose además el motivo por el cual no se hizo en persona al interesado.
+I.- Lo dispuesto en la parte final del artículo 119;
 
-Si el que deba ser notificado se niega a recibir al funcionario encargado de hacer la notificación, o las personas que residan en el domicilio se rehusan a recibir la cédula, o no se encuentra a nadie en el lugar, se fijará la cédula en la puerta de entrada.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 112.
+II.- Cuando la incompetencia sea por razón del territorio y convengan las partes en la validez.
 
-Si se probare que no se hizo una notificación decretada, o que se hizo en contravención de lo dispuesto en este capítulo, el encargado de hacerla será responsable de los daños y perjuicios que ocasione la falta y se le juzgará con arreglo a la ley si obró con dolo. En caso contrario, se le impondrá alguna corrección disciplinaria.
+III.- Si se trata de incompetencia sobrevenida, y
 
-###### ARTICULO 113.
+IV.- En los casos que la Ley lo exceptúe.
 
-Si a pesar de no haberse hecho la notificación en la forma que este Código previene, la persona que debe ser notificada se muestra sabedora de la providencia, se tendrá por hecha la notificación.
+###### Artículo 110.
 
-###### ARTICULO 114.
+La nulidad a que se refiere el artículo anterior es de pleno derecho y, por tanto, no requiere declaración judicial.
 
-Las notificaciones hechas contra lo dispuesto en este capítulo, serán nulas, excepto en el caso del artículo anterior.
+Los tribunales declarados competentes harán que las cosas se restituyan al estado que tenían antes de practicarse las actuaciones nulas; salvo que la ley disponga lo contrario.
 
-###### ARTICULO 115.
+### CAPITULO II
 
-Los funcionarios y agentes de la policía judicial están obligados a proceder de oficio a la investigación de los delitos de que tengan noticia, excepto en los casos siguientes:
+REGLAS PARA LA FIJACION DE LA COMPETENCIA.
 
-I.- Cuando se trate de delitos en los que solamente se pueda proceder por querella necesaria, si ésta no se ha presentado;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1982)</small>
 
-II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
+###### Artículo 111.
 
-Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediatamente cuenta al que corresponda legalmente practicarla.
+Es Juez competente:
 
-###### ARTICULO 116.
+I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
-Cuando el ofendido sea menor de edad, puede querellarse por sí mismo, a reserva de que el tribunal le designe tutor especial si careciere de representantes legítimos o éstos no presentaren la querella.
+II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el de la fracción anterior, se surte la competencia no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad, debiéndose observar lo dispuesto en el Artículo 105;
 
-###### ARTICULO 117.
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Toda persona que tenga conocimiento de la comisión de un delito que deba perseguirse de oficio, está obligada a denunciarlo ante el Ministerio Público y en caso de urgencia ante cualquier funcionario o agente de policía.
+Tanto en este caso como en el de la fracción anterior, se surte la competencia no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad.
 
-###### ARTICULO 118.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Toda persona que en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un delito, que deba perseguirse de oficio, está obligada a participarlo inmediatamente al Ministerio Público, transmitiéndole todos los datos que tuviere, poniendo a su disposición desde luego a los inculpados, si hubieren sido detenidos.
+III.- El de la ubicación de la cosa si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más distritos, será a prevención;
 
-### CAPITULO X. Audiencias de Derecho
+IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil, siempre que en este último caso no se trate de la rectificación o modificación de una acta del estado civil, porque entonces se estará a lo dispuesto en el artículo 957.
 
-###### ARTICULO 119.
+Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor;
 
-Las denuncias y las querellas pueden formularse verbalmente o por escrito.
+V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia y si estuvieren en varios lugares el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
-En el primer caso, se harán constar en acta que levantará el funcionario que las reciba. En el segundo deberán contener la firma o huella digital del que las presente y su domicilio.
+VI.- Aquél en cuyo territorio radica un juicio sucesorio para conocer:
 
-###### ARTICULO 120.
+a) De las acciones de petición de herencia;
 
-Cuando se presente la querella o la denuncia por escrito, deberá ser ratificada por el que la formule, el que proporcionará los datos que se considere oportuno pedirle.
+b) De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-Las personas a que se refiere el artículo 118 no están obligadas a hacer esa ratificación, pero el funcionario que reciba la denuncia, deberá asegurarse de la personalidad de aquéllas y de la autenticidad del documento en que se haga la denuncia, si tuviere duda sobre ellas.
+c) De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
 
-###### ARTICULO 121.
+VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
-No se admitirá la intervención de apoderado jurídico para la presentación de denuncias. Para la de querellas sólo se admitirá cuando el apoderado tenga poder con cláusula especial o instrucciones concretas de sus mandantes para el caso.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
-###### ARTICULO 122.
+VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se trata de bienes raíces será el del lugar en que estén ubicados.
 
-Cuando en un negocio judicial se arguya de falso un documento o el tribunal tenga duda fundada sobre su autenticidad, se dará vista al Agente del Ministerio Público adscrito y si éste lo solicita, se desglosará de los autos, dejando en ellos copia fotostática, y si no fuere posible ésta, copia certificada. El original del documento que deberá firmar el juez o magistrado y el secretario, y el testimonio de las constancias conducentes, se remitirá al Ministerio Público.
+En todo lo relativo a la adopción, el juez del domicilio del menor que se pretende adoptar;
 
-###### ARTICULO 123.
+IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
-En los casos del artículo anterior se requerirá a quien haya presentado el documento para que diga si insiste en que se tome en consideración o no; si contestare afirmativamente y siempre que la falsedad sea de tal naturaleza, a juicio del tribunal, que si llegare a dictarse sentencia influiría substancialmente en ella, éste ordenará, a petición del Ministerio Público, que suspenda el procedimiento civil a partir de la citación para sentencia, hasta en tanto se declare que no ha lugar a intentarse la acción penal, o si se intenta, hasta que se pronuncie resolución definitiva. Si no se insistiere en que se tome en consideración el documento, no se suspenderá el procedimiento civil, sin perjuicio de que las investigaciones sobre la falsedad denunciada se continúen.
+X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
-Este artículo se aplicará también, en lo conducente, cuando se tache de falso a un testigo.
+XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
-###### ARTICULO 124.
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
 
-Tan luego como los funcionarios encargados de practicar diligencias de policía judicial tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las providencias necesarias para proporcionar seguridad y auxilio a las víctimas; para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas objeto o efecto del mismo; para saber qué personas fueron testigos del hecho y en general impedir que se dificulte la averiguación; y en los casos de flagrante delito, para asegurar a los responsables.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando el instrumento del delito lo sea un vehículo de motor, éste no será devuelto a su propietario, aunque resulte ser un tercero, hasta que el Ministerio Público determine en definitiva que no es de ejercitar la acción penal o se acredite fehacientemente, que el daño que tenga fuente en el delito ha sido reparado.
+XIII.- En la acción de alimentos, el Juez del domicilio del acreedor.
 
-Las reglas anteriores también deberán observarse tratándose de delitos que solamente pueden perseguirse por querella, si ésta ha sido formulada.
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
-###### ARTICULO 125.
+XIV.- En los juicios especiales sobre pérdida de la patria potestad, el juez del domicilio de la Institución Pública de Asistencia Social que haya acogido al menor.
 
-En el caso del artículo anterior, se procederá a levantar el acta correspondiente que contendrá: la hora, fecha y modo en que se tenga conocimiento de los hechos; el nombre y carácter de la persona que dio noticias de ellos, y su declaración así como la de los testigos cuyos dichos sean más importantes, y la del inculpado si se encontrare presente; la descripción de lo que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; y las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 1981)</small>
 
-###### ARTICULO 126.
+###### Artículo 112.
 
-Los funcionarios de policía judicial podrán citar para que declaren sobre los hechos que se averiguen, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos. En el acta se hará constar quién mencionó a la persona que haya de citarse o por qué motivo el funcionario que practique las diligencias estimó conveniente hacer la citación.
+Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demanda el actor. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
 
-###### ARTICULO 127.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-Cuando una autoridad distinta del Ministerio Público practique diligencias de policía judicial, remitirá a éste, dentro de tres días de haberlas iniciado, el acta o actas levantadas y todo lo que con ellas se relacione. Si hubiere detenidos, la remisión se hará dentro de las veinticuatro horas siguientes a la detención.
+Cuando se trate del ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, se computará el monto anual de éstas. En los casos en que se demande solamente el pago o cumplimiento de las prestaciones adeudadas, o del capital o gravamen por las que éstas se adeuden, se estará a lo dispuesto en la primera parte de este artículo.
 
-###### ARTICULO 128.
+###### Artículo 113.
 
-Cuando se presentare al funcionario o agente que hubiere iniciado una averiguación, un funcionario del Ministerio Público, éste continuará por sí mismo la averiguación, en cuyo caso el primero cerrará el acta en el estado en que se encuentre, y la entregará a dicho funcionario, así como los detenidos y los objetos que se hayan recogido, comunicándole todos los demás datos de que tenga noticia; pero si el Ministerio Público lo estima conveniente para el éxito de la averiguación, podrá encomendar a quien la haya iniciado, que la continúe bajo su dirección, debiendo el funcionario o agente comisionado acatar sus instrucciones y hacer constar esa intervención en el acta.
+En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que tenga. Si se trata de un usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma. Pero de los interdictos conocerán siempre los jueces de primera instancia de la ubicación de la cosa.
 
-###### ARTICULO 129.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Los funcionarios que practiquen diligencias de policía judicial, determinarán en cada caso qué personas quedarán en calidad de detenidas y en qué lugar, haciéndolo constar en el acta respectiva.
+###### Artículo 114.
 
-###### ARTICULO 130.
+De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare conocerán los jueces de primera instancia, con excepcion de lo dispuesto por el artículo 957 de éste Código.
 
-Cuando se determine la internación de alguna persona en un hospital u otro establecimiento similar, deberá indicarse el carácter con que sea su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
+###### Artículo 115.
 
-### CAPITULO XI. Resoluciones Judiciales
+En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero no a la inversa.
+
+###### Artículo 116.
+
+Las cuestiones de tercería deben substanciarse y decidirse por el juez que sea competente para conocer del asunto principal. Cuando el interés de la tercería que se interponga exceda del que la ley somete a la competencia del juez que está conociendo del negocio principal, se remitirá lo actuado en éste y la tercería al que designe el tercer opositor y sea competente para conocer de la cuestión por razón de la materia, del interés mayor y del territorio.
+
+###### Artículo 117.
+
+Para los actos preparatorios del juicio, será competente el juez que lo fuere para el negocio principal.
+
+En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria, el juez que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se hallen las personas o la cosa objeto de la providencia y efectuado se remitirán las actuaciones al competente.
+
+###### Artículo 118.
+
+Cualquier cuestión jurisdiccional no comprendida en el presente Capítulo o en algún artículo de este Código o del Civil, se decidirá conforme a lo dispuesto en el artículo 111.
+
+### CAPITULO III
+
+DE LA SUSTANCIACION Y DECISION DE LAS COMPETENCIAS.
+
+###### Artículo 119.
+
+Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria.
+
+La inhibtoria (sic) se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que se estime no serlo, para que se inhiba y remita los autos.
+
+La declinatoria se propondrá ante el juez a quien se considere incompetente pidiéndole que se abstenga del conocimiento del negocio y remita los outos (sic) al considerado competente.
+
+En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+La inhibitoria se sujetará a lo dispuesto en este capítulo. La declinatoria se decidirá en vía incidental, estando obligado el Juez de la causa a remitir de inmediato, testimonio de todo lo actuado al Tribunal Pleno, el cual previa la tramitación del procedimiento, resolverá lo conducente.
+
+###### Artículo 120.
+
+Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
+
+También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el juez o tribunal que deba conocer de un asunto.
+
+###### Artículo 121.
+
+Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá al superior a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Una vez recibidos los autos por dicho tribunal, citará a las partes a una audiencia de pruebas y alegatos, en la que se pronunciará resolución.
+
+###### Artículo 122.
+
+El juez ante quien se promueva la inhibitoria mandará librar oficio requiriendo al juez que estime incompetente para que se abstenga de conocer del negocio y remitirá desde luego las actuaciones respectivas al superior, haciéndolo saber al interesado.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+Luego que el Juez requerido reciba el oficio inhibitorio remitirá, a su vez, testimonio de los autos al superior con citación de las partes.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+Recibido el testimonio de los autos en el Tribunal que debe decidir la competencia, citará a las partes a una audiencia verbal en la que se recibirán pruebas y alegatos, y se pronunciará la resolución.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
+Decidida la competencia el Tribunal ordenará que se envíen los autos originales al Juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al Juez contendiente.
+
+###### Artículo 123.
+
+El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir a otro, tampoco podrá emplearlos sucesivamente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Cuando no proceda la incompetencia planteada, debe pagar las costas el que la promovió y una multa que fijará el superior hasta de sesenta cuotas, según la importancia del negocio, comunicando la resolución al Secretario de Finanzas y Tesorero General del Estado, para que la haga efectiva.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 124.
+
+Las cuestiones de competencia no suspenden el procedimiento principal.
+
+###### Artículo 125.
+
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
+
+###### Artículo 126.
+
+Las competencias que se susciten entre dos de las Salas del Tribunal Superior, o entre Jueces de Primera Instancia, se dirimirán por el Tribunal Pleno.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 127.
+
+Las competencias suscitadas entre un Juez de Primera Instancia y otro menor o local de diferente distrito judicial, o entre estos últimos cuando fueren también de distrito judicial diverso, se dirimirán por el Tribunal Pleno.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 128.
+
+Las competencias entre los jueces menores o locales de las municipalidades pertenecientes a un mismo distrito judicial, se dirimirán por el Tribunal Pleno.
+
+###### Artículo 129.
+
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
+
+###### Artículo 130.
+
+Contra la resolución que decida toda competencia no habrá recurso alguno.
+
+### CAPITULO I
+
+DE LOS IMPEDIMENTOS Y EXCUSAS.
 
 ## TITULO TERCERO
 
-### CAPITULO XII. Notificaciones
+DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS.
 
-###### ARTICULO 131.
+### CAPITULO II
 
-El Ministerio Público dictará las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de policía judicial no estuvieren en estado de consignarse desde luego a los tribunales.
+DE LA RECUSACION.
 
-Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito y por lo mismo no procediere ejercitar la acción penal las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver, se darán por el Ministerio Público.
+###### Artículo 131.
 
-###### ARTICULO 132.
+Todo magistrado, juez o secretario, se tendrá por forzosamente impedido para conocer en los casos siguientes:
 
-Si de las diligencias practicadas no resultan elementos bastantes para hacer la consignación a los tribunales y no aparece que se puedan practicar otras, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos y entretanto se ordenará a la policía que haga investigaciones tendientes a lograr el esclarecimiento de los hechos.
+I.- En negocio en que tenga interés directo o indirecto;
 
-### CAPITULO I. Iniciación del Procedimiento
+II.- En los negocios que interesen de la misma manera a su cónyuge o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo;
 
-###### ARTICULO 133.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-En la práctica de las diligencias de policía judicial, se aplicarán en lo conducente las disposiciones del Título Sexto de este Código.
+III.- Siempre que entre los servidores públicos de que se trata, su cónyuge o sus hijos y algunos de los interesados, haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre;
 
-###### ARTICULO 134.
+IV.- Si fuere pariente por consanguinidad o afinidad del abogado o procurador de alguna de las partes, en los mismos grados a que se refiere la fracción II de este artículo;
 
-Cuando en vista de la averiguación previa el Agente del Ministerio Público a quien la ley faculte para hacerlo, determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días, para que el titular, oyendo el parecer de sus agentes auxiliares, decida en definitiva si debe o no ejercitarse la acción penal.
+V.- Cuando él, su cónyuge o alguno de sus hijos, haya sido declarado heredero o legatario, o sea donante, donatorio (sic), socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de las partes, o administrador actual de sus bienes siempre que en el primer caso no haya repudiado la herencia.
 
-Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de la responsabilidad en que incurra.
+VI.- Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguno de los litigantes;
 
-###### ARTICULO 135.
+VII.- Si asiste o ha asistido a convites que especialmente para él diere o costeare alguno de los litigantes, después de comenzado el pleito, o si tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, en una misma casa;
 
-Tan luego como aparezca de la averiguación previa que se han llenado los requisitos que exige el artículo 16 de la Constitución General de la República, para que pueda procederse a la detención de una persona, se ejercitará la acción penal, señalando los delitos que la motiven.
+VIII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
 
-No será necesario que se llenen los requisitos que exige el precepto constitucional citado, cuando el delito no merezca sanción privativa de libertad o el Ministerio Público estime conveniente ejercitar desde luego la acción.
+IX.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate;
 
-También hará consignación el Ministerio Público ante los tribunales, siempre que de la averiguación previa resulte necesaria la práctica de un cateo.
+X.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún punto que afecte a la substancia de la cuestión, en la misma instancia o en otra;
 
-###### ARTICULO 136.
+XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no haya pasado un año de haber seguido un juicio civil o una causa criminal, como acusador, querellante o denunciante, o se haya constituído parte civil en causa criminal seguida contra cualquiera de ellas;
 
-Al recibir el Ministerio Público diligencias de policía judicial, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales. Si fuere injustificada, ordenará que los detenidos queden en libertad.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 137.
+XII.- Cuando alguno de los litigantes o de sus abogados, es o ha sido denunciante, querellante o acusador del servidor público de que se trate, de su cónyuge o de alguno de los expresados parientes, o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos siempre que se haya dictado auto de proceder en su contra por la autoridad que corresponda;
 
-El ejercicio de la acción penal corresponde al Ministerio Público:
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-I.- Promover la incoación del procedimiento judicial;
+XIII.- Cuando el servidor público de que se trate, su cónyuge o alguno de sus expresados parientes, sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 
-II.- Solicitar las órdenes de comparecencia para preparatoria y las de aprehensión que sean procedentes;
+XIV.- Si él, su cónyuge o alguno de sus expresados parientes, sigue algún proceso civil o criminal en que sea juez o Agente del Ministerio Público, alguno de los litigantes.
 
-> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
-III.-En todo caso y bajo su más estricta responsabilidad pedir el aseguramiento de bienes para los efectos de la reparación del daño y, de ser ésta a cargo de terceros, en términos de lo dispuesto en el artículo 45 del Código Penal, deducir en representación de los que tengan derecho a dicha reparación el incidente que previene el artículo 412 de este Código hasta la comparecencia de los legitimados, a los que deberá llamar para que continúen la secuela;
+###### Artículo 132.
 
-IV.- Rendir las pruebas de la existencia de los delitos y de la responsabilidad de los inculpados;
+Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en el artículo anterior o cualquiera otra análoga, indicándola, aun cuando las partes no los recusen.
 
-V.- Pedir la aplicación de las sanciones respectivas; y
+Sin perjuicio de las providencias que conforme a este Código deben dictar, tienen la obligación de inhibirse inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o de que tenga conocimiento de él.
 
-VI.- En general, hacer todas las promociones que sean conducentes a la tramitación regular de los procesos.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de policía judicial
+Cuando un Juez o Magistrado se excusa sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+### CAPITULO III
 
-###### ARTICULO 138.
+NEGOCIOS EN QUE NO TIENE LUGAR LA RECUSACION.
 
-El Ministerio Público no ejercitará la acción penal:
+###### Artículo 133.
 
-I.- Cuando los hechos de que conozca, no sean constitutivos de delito;
+Cuando los magistrados, jueces o secretarios, no se inhibieren a pesar de existir alguno de los impedimentos expresados, en el capítulo anterior, procede la recusación, que siempre se fundará en causa legal.
 
-II.- Cuando, aun pudiendo serlo, resulta imposible la prueba de la existencia de los hechos; y
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-III.- Cuando esté extinguida legalmente.
+###### Artículo 134.
 
-### CAPITULO III. Consignación ante los tribunales
+En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación, pero el Juez no quedará inhibido, mas que en el punto de que se trate. Resuelta la cuestión se reintegra al principal.
 
-###### ARTICULO 139.
+###### Artículo 135.
 
-El Ministerio Público solamente puede desistirse de la acción penal:
+En los juicios hereditarios sólo podrá hacer uso de la recusación el interventor o el albacea.
 
-I.- Cuando apareciere plenamente comprobado en autos que se está en alguno de los casos mencionados en el artículo anterior; y
+###### Artículo 136.
 
-II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna causa excluyente de incriminación; pero solamente por lo que se refiere a quienes se encuentran en estas circunstancias.
+Cuando en un negocio intervengan varias personas antes de haber nombrado representante común, conforme al artículo 15, se tendrán por una sola para el efecto de la recusación. En este caso se admitirá la recusación cuando la proponga la mayoría de los interesados en cantidades.
 
-###### ARTICULO 140.
+###### Artículo 137.
 
-Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir definitivamente el ejercicio de la acción penal respecto de los hechos que la motiven.
+En el Tribunal Pleno, la recusación sólo importa la de los magistrados expresamente recusados.
 
-### CAPITULO UNICO. Acción Penal
+### CAPITULO IV
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+DEL TIEMPO EN QUE DEBE PROPONERSE LA RECUSACION.
 
-###### ARTICULO 141.
+###### Artículo 138.
 
-Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente y de acuerdo con los requisitos fijados en este Código y en la Ley Orgánica del Ministerio Público.
+No se admitirá recusación:
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+I.- En los actos prejudiciales;
 
-###### ARTICULO 142.
+II.- Al cumplimentar exhortos o despachos;
 
-La persona ofendida por un delito no es parte en el procedimiento penal, pero podrá proporcionar al Ministerio Público, por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del delito, la responsabilidad del inculpado y la procedencia y monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal, los ministre a los tribunales.
+III.- En las demás diligencias cuya práctica se encomiende por otros jueces o tribunales;
 
-La parte ofendida, también podrá proporcionar directamente al Juez respectivo, por sí o por apoderado, las pruebas que en su caso permitan al tribunal fijar el monto de la reparación y reconocer su derecho a recibirla.
+IV.- En las diligencias de mera ejecución; más si en las de ejecución mixta, o sea cuando el juez ejecutor deba de resolver sobre las excepciones que se opongan;
 
-###### ARTICULO 143.
+V.- En los demás actos que no radiquen jurisdicción, ni importen conocimiento de causa.
 
-El tribunal ante el cual se ejercite la acción penal practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
+### CAPITULO V
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+DE LOS EFECTOS DE LA RECUSACION.
 
-###### ARTICULO 144.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Durante la instrucción el tribunal que conozca del proceso deberá, de acuerdo con lo establecido en el artículo 65 del Código Penal, observar las circunstancias peculiares del delincuente, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor peligrosidad.
+###### Artículo 139.
 
-El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
+En las diligencias precautorias, en los juicios ejecutivos y en los procedimientos de apremio no se dará curso a ninguna recusación, sino practicado el aseguramiento y hecho el embargo o desembargo en su caso.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+###### Artículo 140.
 
-### CAPITULO I. Reglas generales de la instrucción
+Ninguna recusación es admisible antes de contestada la demanda, desde que se abra hasta que termine la dilación probatoria y después de comenzada la vista o audiencia en los negocios en que ésta deba tener lugar, y en los demás después de que el negocio quede en estado de sentencia, a menos de cambio en el personal del juzgado o tribunal. En este caso la recusación será admisible si se hace dentro de los tres días siguientes a la notificación del primer auto proveído por el nuevo personal.
 
-###### ARTICULO 145.
+### CAPITULO VI
 
-La instrucción deberá terminarse en el menor tiempo posible. Cuando el delito tenga señalada una sanción máxima que exceda de dos años de prisión, se terminará dentro de seis meses; si la sanción máxima es de dos años de prisión, la instrucción deberá terminarse dentro de un mes.
+DE LA SUSTANCIACION Y DECISION DE LA RECUSACION.
 
-Los términos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del sujeción a proceso, y podrán ampliarse por el juez hasta por dos meses más cuando el acusado lo solicite por considerarlo necesario a su defensa.
+###### Artículo 141.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+Entre tanto se califica o decide la recusación no se suspende la jurisdicción del Tribunal o del Juez, por lo que se continuará con la tramitación del procedimiento, pero no podrá dictar sentencia. Si la recusación se declara fundada, será nulo lo actuado a partir de la fecha en que se interpuso la recusación.
 
-###### ARTICULO 146.
+###### Artículo 142.
 
-Cuando haya temor fundado de que el inculpado oculte o enajene los bienes en que pueda hacerse efectiva la reparación del daño, el Juez a petición del Ministerio Público o de quien tenga derecho a la reparación, decretará el embargo precautorio de dichos bienes, el que se practicará con sólo esta petición y la prueba de la necesidad de la medida; pero si el inculpado otorga fianza bastante, a juicio del tribunal, podrá no acordarse el embargo o levantarse el que se haya efectuado.
+Declarada procedente la recusación termina la jurisdicción del magistrado o juez, o la intervención del secretario en el negocio de que se trata.
 
-###### ARTICULO 147.
+###### Artículo 143.
 
-Cuando el tribunal considere agotada la averiguación, mandará poner el proceso a la vista del Ministerio Público por tres días y por otros tres a la del acusado y su defensor, para que promuevan las pruebas que estimen pertinentes y que puedan practicarse dentro de los quince días siguientes al en que se notifique el auto que recaiga a la solicitud de la prueba.
+Una vez interpuesta la recusación, la parte recusante no podrá alzarla en ningún tiempo, ni variar la causa.
 
-Transcurridos o renunciados los plazos a que se refiere este artículo, o si no se hubiere promovido prueba, el tribunal, de oficio, declarará cerrada la instrucción.
+###### Artículo 144.
 
-###### ARTICULO 148.
+Si se declarare improcedente o no probada la causa de recusación que se hubiere alegado, no se volverá a admitir otra recusación, aunque el recusante proteste que la causa es superviniente o que no había tenido conocimiento de ella, salvo cuando hubiere variación en el personal, en cuyo caso podrá hacerse valer la recusación respecto al nuevo magistrado, juez o secretario.
 
-Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará esto por cualquier medio de prueba en el curso de la instrucción.
+### CAPITULO I
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+MEDIOS PREPARATORIOS DEL JUICIO.
 
-###### ARTICULO 149.
+###### Artículo 145.
 
-En los casos de delito cuya sanción no exceda de dos años de prisión o la aplicable no sea privativa de libertad, después de dictado el auto de formal prisión o el de sujeción a proceso, deberá agotarse la averiguación dentro de treinta días. Una vez que el tribunal la estime agotada dictará resolución, citando a la audiencia a que se refiere el artículo 286.
+Los tribunales desecharán de plano toda recusación:
 
-###### ARTICULO 150.
+I.- Cuando no estuviere hecha en tiempo;
 
-La declaración preparatoria se recibirá en local al que tenga acceso el público, sin que puedan estar presentes los testigos que deban ser examinados con relación a los hechos que se averigüen.
+II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 131.
 
-###### ARTICULO 151.
+###### Artículo 146.
 
-La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Se le impondrá del motivo de su detención y se le hará conocer la querella si la hubiere, así como los nombres de las personas que le imputen la comisión del delito. Se le examinará sobre los hechos que motiven la averiguación, para lo cual se adoptará la forma que se estime conveniente y adecuada al caso, a fin de esclarecer el delito y las circunstancias en que se concibió y llevó a término y las peculiares del inculpado. Además se le harán saber las garantías que le otorga la fracción I del artículo 20 constitucional y, en su caso, el derecho y forma de solicitar su libertad provisional.
+Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde y las pruebas que se ofrezcan.
 
-###### ARTICULO 152.
+###### Artículo 147.
 
-Las contestaciones del inculpado podrán ser redactadas por él; si no lo hace, las redactará con la mayor exactitud posible, el funcionario que practique la diligencia.
+La recusación debe decidirse sin audiencia de la parte contraria, y se tramita en forma de incidente en el que se recibirán las pruebas, dictándose en seguida la resolución.
 
-###### ARTICULO 153.
+###### Artículo 148.
 
-Tanto la defensa como el Agente del Ministerio Público, a quien se citará para la diligencia, tendrán el derecho de interrogar al inculpado. El tribunal podrá disponer que los interrogatorios se hagan por su conducto cuando lo estime necesario, y tendrá la facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes.
+En el incidente de recusación son admisibles todos los medios de prueba establecidos por este Código y, además, la confesión del funcionario recusado y la de la parte contraria.
 
-## TITULO CUARTO. INSTRUCCION
+###### Artículo 149.
 
-### CAPITULO II. Declaración Preparatoria del Inculpado y Nombramiento de Defensor
+Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-###### ARTICULO 154.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-En los casos en que por sancionarse el delito con pena alternativa o distinta a la de prisión no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su preparatoria, siempre que existan elementos que permitan presumir la existencia del delito y la responsabilidad del mismo inculpado.
+###### Artículo 150.
 
-###### ARTICULO 155.
+Si se declarare improcedente o no probada la causa de recusación se impondrá al recusante una multa de cincuenta a quinientas cuotas. No se dará curso a ninguna recusación si no exhibe el recusante al interponerla el certificado de depósito expedido por la Secretaría de Finanzas y Tesorería General del Estado por el máximo de la multa, la que en su caso se aplicará al colitigante, si lo hubiere, por vía de indemnización y, en caso contrario al Fisco.
 
-Si contra una orden de aprehensión no ejecutada o de comparecencia para preparatoria, se concede la suspensión definitiva por haber pedido amparo el inculpado, el tribunal que libró dicha orden procederá desde luego a solicitar del que concedió la suspensión que lo haga comparecer a su presencia dentro de tres días, para que rinda su declaración preparatoria y para los demás efectos del procedimiento.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+###### Artículo 151.
 
-###### ARTICULO 156.
+De la recusación de un Magistrado, Juez de Primera Instancia o Menor Letrado, conocerá el Tribunal Pleno.
 
-No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en los capítulos I, II y III, título XV del libro segundo del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que deba hacerse saber su nombramiento a todo defensor.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 157.
+###### Artículo 152.
 
-El auto de formal prisión se dictará de oficio cuando de lo actuado aparezcan llenados los requisitos siguientes:
+Si en la sentencia se declara que procede la recusación se remitirá al Juez o Magistrado recusado testimonio de dicha sentencia para que éste, a su vez remita los autos al Juez que corresponda. En el Tribunal queda el Magistrado recusado separado del conocimiento del negocio del cual conocerá el magistrado que indique la Ley Orgánica del Poder Judicial, integrándose el Pleno en su caso en la forma que determine la misma Ley. Si se declara no ser bastante la causa, se remitirá testimonio de la resolución al Luez o Magistrado para que continúe conociendo del negocio.
 
-I.- Que esté comprobada la existencia del cuerpo de un delito que merezca sanción privativa de libertad;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-II.- Que se haya tomado declaración preparatoria al inculpado, en la forma y con los requisitos que establece el Capítulo anterior;
+###### Artículo 153.
 
-III.- Que contra el mismo inculpado existan datos suficientes, a juicio del tribunal, para suponerlo responsable del delito; y
+Las recusaciones de los secretarios del Tribunal Superior, de los Juzgados de Primera Instancia y de los Juzgados Menores o de Paz, se substanciará ante los Jueces o Magistrados con quienes actúen.
 
-IV.- Que no esté plenamente comprobada a favor del inculpado alguna causa que excluya la incriminación, o que extinga la acción penal.
+## TITULO CUARTO
 
-###### ARTICULO 158.
+ACTOS PREJUDICIALES.
 
-Cuando el delito cuya existencia se haya comprobado no merezca sanción privativa de libertad, o esté sancionado con pena alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de seguir el proceso.
+### CAPITULO II. DE LA SEPARACION PROVISIONAL DE LOS CONYUGES
 
-###### ARTICULO 159.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Los autos a que se refieren los dos artículos anterior (sic), se dictarán por el delito que aparezca comprobado, aun cuando con ellos se cambie la apreciación legal que de los hechos se haya expresado en promociones o resoluciones anteriores.
+###### Artículo 154.
 
-###### ARTICULO 160.
+El juicio podrá prepararse pidiendo:
 
-El auto de formal prisión se comunicará al jefe del establecimiento donde se encuentre el detenido, por medio de copia autorizada.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Este auto y el de sujeción a proceso, se comunicarán en la misma forma al superior jerárquico del procesado, en su caso.
+I.- Que la persona contra quien se pretende entablar la demanda declare bajo protesta acerca de un hecho relativo a su personalidad, o a la calidad de su posesión o tenencia;
 
-###### ARTICULO 161.
+II.- La exhibición de la cosa mueble que haya de ser objeto de la acción real que se trate de entablar;
 
-Dictado el auto de formal prisión o el de sujeción a proceso, se identificará al procesado por el sistema adoptado administrativamente. En todo caso, se comunicarán a las oficinas de identificación las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, para que se hagan las anotaciones correspondientes.
+III.- Pidiendo el legatario o cualquiera otra persona que tenga el derecho de elegir una o más cosas, entre varias, la exhibición de ellas;
 
-###### ARTICULO 162.
+IV.- La exhibición de un testamento pedida por quien, fundado en él, tenga que deducir alguna acción como heredero, legatario o por cualquier otro título;
 
-El auto de formal prisión no revoca la libertad provisional concedida, excepto cuando así se determine expresamente en el propio auto.
+V.- La exhibición de títulos u otros documentos referentes a la cosa vendida que se pida por el comprador al vendedor o por el vendedor al comprador, en el caso de evicción, así como la presentación de documentos y cuentas de alguna sociedad o comunidad, pedida por un socio o comunero al consocio o condueño que los tenga en su poder;
 
-###### ARTICULO 163.
+VI.- Las declaraciones de testigos cuando éstos sean de edad avanzada o se hallen en peligro de perder la vida o próximos a ausentarse a un lugar con el que sean tardías o difíciles las comunicaciones y no pueda deducirse aún la acción por depender su ejercicio de un plazo o de una condición que no se hayan cumplido todavía;
 
-Si dentro del término legal no se reunen los requisitos necesarios para dictar el auto de formal prisión o el de sujeción a proceso, se dictará auto de libertad por falta de elementos para procesar, o de no sujeción a proceso, en su caso, sin perjuicio de que por datos posteriores de prueba se proceda nuevamente en contra del mismo inculpado.
+VII.- La inspección judicial en los casos en que hubiere temor de que desaparezcan las huellas materiales, objetos, situaciones de lugar u otros indicios a que se refiere la diligencia, pudiendo practicarse ésta con intervención de peritos.
 
-###### ARTICULO 164.
+###### Artículo 155.
 
-El funcionario de policía judicial y el tribunal, en su caso, deberán procurar, ante todo, que se compruebe el cuerpo del delito como base del procedimiento penal.
+Las diligencias preparatorias podrán promoverse, también, por el que tema ser demandado para preparar sus excepciones en los casos de que hablan las tres últimas fracciones del artículo anterior.
 
-El cuerpo del delito se tendrá por comprobado cuando esté justificada la existencia de los elementos materiales que constituyen el hecho delictuoso, según lo determine la ley penal, salvo los casos en que tenga señalada una comprobación especial.
+###### Artículo 156.
 
-###### ARTICULO 165.
+Al pedirse la diligencia preparatoria debe expresarse el motivo por qué se solicita y el litigio que se trata de seguir o que se teme.
 
-Cuando se trate de lesiones externas se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hecha por el funcionario que hubiere practicado las diligencias de policía judicial o por el tribunal que conozca del caso, y con la descripción que de ellas hagan los peritos médicos titulados o prácticos.
+###### Artículo 157.
 
-### CAPITULO III. Autos de formal prisión, de sujeción a proceso y libertad por falta de elementos para procesar
+El juez puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita la diligencia preparatoria, ya de la urgencia de examinar a los testigos.
 
-###### ARTICULO 166.
+Contra la resolución que conceda la diligencia preparatoria no habrá ningún recurso. Contra la resolución que la niegue habrá el de apelación en ambos efectos, si fuere apelable la sentencia del juicio que se prepara o que se teme.
 
-En el caso de lesiones internas, se tendrá por comprobado el cuerpo del delito, con la inspección hecha por el funcionario o tribunal a quienes se refiere el artículo anterior, de las manifestaciones exteriores que presentare la víctima y con el dictamen pericial en que se expresarán los síntomas que presente, si existen esas lesiones y si han sido producidas por una causa externa. En caso de no existir manifestaciones exteriores, bastará con el dictamen pericial.
+###### Artículo 158.
 
-###### ARTICULO 167.
+La acción que puede ejercitarse conforme a las fracciones II, III y IV del artículo 154 procede contra cualquiera persona que tenga en su poder las cosas que en ellas se menciona.
 
-Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver, hecha en los términos de los dos artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo, para los efectos expresados.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Solamente podrá dejarse de practicar la autopsia cuando tanto el tribunal como los peritos estimen que no es necesaria.
+###### Artículo 159.
 
-###### ARTICULO 168.
+Cuando se pida la exhibición de un protocolo o de cualquier otro documento archivado, la diligencia se practicará en el despacho del Notario o en la oficina respectiva, sin que en ningún caso salgan de ellos los documentos originales.
 
-Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos, con vista de los datos que obren en el expediente, declaren que la muerte fue resultado de las lesiones inferidas.
+###### Artículo 160.
 
-###### ARTICULO 169.
+Las diligencias preparatorias de que se trata en las fracciones II a IV y VI del artículo 154 y a que se refiere el 155, se practicarán con citación de la parte contraria a quien se correrá traslado de la solicitud por el término de tres días y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
 
-En los casos de aborto, el cuerpo del delito se tendrá por comprobado en los mismos términos que el de homicidio; pero, además, reconocerán los peritos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. Expresarán la edad de la víctima y todo aquello que pueda servir para fijar la naturaleza del delito.
+###### Artículo 161.
 
-###### ARTICULO 170.
+Promovido el juicio, el tribunal, a solicitud del que hubiere pedido la preparación, mandará agregar las diligencias practicadas para que surtan sus efectos.
 
-En los casos de robo el cuerpo del delito podrá comprobarse por alguno de los medios siguientes, siempre que no haya sido posible hacerlo en los términos del artículo 164:
+###### Artículo 162.
 
-I.- Cuando el inculpado confiese el robo que se le imputa, aun cuando se ignore quién sea el dueño de la cosa objeto del delito;
+Si el tenedor del documento o cosa mueble, sin causa alguna se negase a exhibirlos, se le apremiará por los medios legales; y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando además sujeto a la responsabilidad criminal en que hubiere incurrido.
 
-II.- Cuando además de haber quien le impute el robo, existe prueba de que el inculpado ha tenido en su poder alguna cosa que por sus circunstancias personales no sea verosímil que haya podido adquirir legítimamente, si no justifica su procedencia.
+###### Artículo 163.
 
-###### ARTICULO 171.
+Si el tenedor de quien se habla en el artículo precedente alegare alguna causa para no exhibir las cosas a que se refiere, se tramitará la oposición como los incidentes.
 
-Siempre que no fuere posible comprobar el cuerpo del delito del robo en la forma que determina el artículo anterior, se procurará desde luego investigar:
+###### Artículo 164.
 
-I.- Si el inculpado ha podido adquirir legítimamente la cosa que se dice robada;
+Fuera de los casos señalados en el artículo 154 no se podrá antes de la demanda articular posiciones, ni pedir declaraciones de testigos, ni otra alguna diligencia de prueba; las que se pidan deberán desecharse de plano, y si alguna se practicare no tendrá ningún valor en juicio.
 
-II.- La preexistencia, propiedad y falta posterior de la cosa robada; y
+###### Artículo 165.
 
-III.- Si la persona ofendida se hallaba en situación de poseer la cosa materia del delito y si es digna de fe y crédito.
+No serán procedentes conforme a la fracción I del artículo 154, las declaraciones que no tengan por objeto exclusivo la personalidad o el título con que posea el declarante, sino que se extiendan a puntos diversos, de la cuestión litigiosa, a cuyo efecto el juez calificará previamente el interrogatorio presentado.
 
-Si de la comprobación de todas estas circunstancias así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, resultan indicios suficiente, a juicio del tribunal, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
-###### ARTICULO 172.
+### CAPITULO II BIS
 
-El cuerpo de los delitos de peculado, abuso de confianza y fraude, si no hubiere sido posible comprobarlo en los términos del artículo 164, podrá tenerse por comprobado en la forma que establece la fracción I del artículo 170.
+DE LA SEPARACIÓN CAUTELAR DE PERSONAS Y DEL DEPOSITO DE MENORES.
 
-###### ARTICULO 173.
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-Para la comprobación del cuerpo del delito, los funcionarios de policía judicial y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no estén reprobados por ella.
+Artículo 180 Bis I.- Toda persona que vaya a presentar demanda, denuncia o querella, por conductas que constituyan violencia familiar, puede pedir al juez que lo separe cautelarmente del presunto agresor a quien demandará o acusará.
 
-###### ARTICULO 174.
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-Los instrumentos del delito y las cosas objeto o efecto de él, así como aquéllos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados, ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan.
+Artículo 180 Bis II.- La separación cautelar de personas y el depósito de menores, tiene por objeto tutelar la seguridad de las personas sujetas a violencia familiar. Toda separación cautelar decretada con fundamento en este Capítulo, tendrá un carácter prejudicial y provisional, en los siguientes términos:
 
-De todas las cosas aseguradas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+I.- Será autorizada para tutelar la seguridad de las personas receptoras de violencia familiar, en tanto preparan y presentan las acciones legales que correspondan en contra de su agresor;
 
-Si con un vehículo de motor se causó la muerte de una persona o ésta sufrió lesiones, sin perjuicio de lo previsto en el artículo 124 se decretará el secuestro del mismo para procurar, en su caso, el pago de la reparación del daño y no se levantará el embargo hasta que la reparación sea satisfecha o se otorgue garantía bastante, a juicio del juez y bajo su responsabilidad, al fin indicado.
+II.- Se autorizará por un período que no excederá de 30 días, plazo dentro del cual se deberá acreditar al juez que autorizó la separación, el haber presentado demanda, denuncia o querella en contra del agresor. Los efectos de la separación autorizada cesarán si al vencimiento del referido plazo no se hubiere acreditado la realización de cualquiera de las acciones legales citadas;
 
-###### ARTICULO 175.
+III.- En todo caso, el juez remitirá el expediente de la separación cautelar al juez ante el que se hubiere demandado. El juez que conozca del juicio principal, resolverá la continuación o terminación de la separación cautelar.
 
-Las cosas inventariadas conforme al artículo anterior, deberán guardarse en lugar o recipiente adecuado, según su naturaleza, debiendo tomar las precauciones necesarias para asegurar la conservación e identidad de esas cosas.
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-###### ARTICULO 176.
+Artículo 180 Bis III.- Durante la separación cautelar todos los derechos y obligaciones familiares entre las personas separadas continuarán vigentes y deberán cumplirse en los términos que el juez precise, excepto los derechos de convivencia familiar que, en su caso, podrán ser suspendidos o limitados en los términos que el juez determine.
 
-Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser asegurada. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
+En caso de necesidad de salvaguardar la integridad física o psicológica de una persona, el juez podrá dictar provisionalmente las siguientes medidas:
 
-###### ARTICULO 177.
+I.- Prohibición de ir a lugar determinado.
 
-Los cadáveres deberán ser siempre identificados por cualquier medio legal de prueba, y si esto no fuere posible dentro de las doce horas siguientes a la en que fueren recogidos, se expondrán al público en el local destinado al efecto por un plazo de veinticuatro horas a no ser que, según dictamen médico, tal exposición ponga en peligro la salubridad general. Cuando por cualquier circunstancia el rostro de los cadáveres se encuentre desfigurado y se haga difícil identificarlo, se hará su reconstrucción, siempre que sea posible.
+II.- Prohibición de acercarse al agredido.
 
-Si a pesar de haberse tomado las providencias que señala este artículo, no se logra la identificación del cadáver, se tomarán fotografías del mismo, agregándose un ejemplar a la averiguación; se pondrán otros en los lugares públicos, juntamente con todos los datos que puedan servir para que sea reconocido; y se exhortará a todos los que hayan conocido al occiso, para que se presenten ante la autoridad exhortante a declarar sobre la identidad de aquél.
+III.- Caución de no ofender.
 
-Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro, para que puedan ser presentados a los testigos de identidad.
+IV.- Todas aquellas que considere necesarias para el efecto.
 
-###### ARTICULO 178.
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-Los cadáveres, previa una minuciosa inspección y descripción hecha por el funcionario de policía judicial que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo manifestar éstos el lugar en que los cadáveres quedarán depositados a disposición de la autoridad competente y conducirlos al lugar destinado a la práctica de la autopsia, cuando proceda.
+###### Artículo 166.
 
-Si hubiere temor de que el cadáver pueda ser ocultado, o de que sufra alteraciones, no será entregado en tanto no se practique la autopsia o se resuelva que ésta no es necesaria.
+La persona que viviendo al lado de su cónyuge lo intente demandar, denunciar o pretenda presentar querella en su contra, puede pedir su separación provisional.
 
-###### ARTICULO 179.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
-En los casos de envenenamiento, se recogerán cuidadosamente las vasijas y demás objetos que haya usado el ofendido, los restos de los alimentos, bebidas y medicinas que hubiere tomado, las deyecciones y vómitos que hubiere tenido, todo lo cual será depositado con las precauciones necesarias, para evitar su alteración y se describirán todos los síntomas que presente el individuo intoxicado. A la brevedad posible serán llamados los peritos para que reconozcan al ofendido hagan el análisis de las substancias recogidas y emitan su opinión sobre las cualidades tóxicas que tengan éstas y si han podido causar la intoxicación de que se trata.
+###### Artículo 167.
 
-###### ARTICULO 180.
+El domicilio conyugal será preferentemente, el que continúe habitando la persona que haya solicitado su separación provisional, pudiendo escoger en su derecho un lugar diferente.
 
-Si el delito fuere de falsificación de documento, además de la minuciosa descripción que se haga de éste, se depositará en lugar seguro, haciendo que firmen sobre aquél, si fuere posible, las personas que depongan respecto de su falsedad, y en caso contrario, se hará constar el motivo. Al expediente se agregará una copia certificada del documento argüido de falso y otra fotostática del mismo, si fuere necesario y posible.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 168.
+
+Sólo los Jueces de lo Familiar o Mixtos, en su caso, pueden decretar la separación provisional de que hablan los artículos anteriores, a no ser que por circunstancias especiales, no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre, podrá decretar la separación provisional, remitiendo las diligencias al competente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 169.
+
+La solicitud de los cónyuges puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 170.
+
+Presentada la solicitud se trasladará el Juez al domicilio conyugal o lugar donde habiten los cónyuges con previa citación del otro cónyuge; si fuere la mujer quien hubiere solicitado la separación provisional, se le hará comparecer sin que se encuentre presente el marido, para que manifieste si ratifica o no su solicitud; hecha la ratificación y en presencia de ambos cónyuges, el Juez decretará la separación provisional, y en caso de no haber sido escogido el domicilio conyugal para dicha separación, dispondrá que en el acto, según las circunstancias del caso, se entreguen los muebles y efectos personales que estimen necesarios.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 171.
+
+Practicado todo lo que queda prevenido en los Artículos anteriores y en caso de no haberse señalado el domicilio conyugal para la separación, el juez personalmente extraerá al cónyuge de dicho domicilio y le llevará al señalado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 172.
+
+En el mismo acto de la diligencia intimará el juez al otro cónyuge para que no moleste al que hubiere solicitado su separación provisional, ni a los menores o habitantes del domicilio señalado para que ésta se efectúe en caso de no ser el domicilio conyugal, apercibiéndolo de procederse en su contra a lo que hubiere lugar.
+
+Independientemente de lo anterior, el juez puede decretar las medidas que estime procedentes a efecto de evitar molestias al solicitante y a los habitantes del domicilio señalado para la separación provisional.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 173.
+
+La casa donde se encuentra el cónyuge que haya pedido su separación provisional, será preferente escogida por éste y en su defecto, el juez la designará, cuidando que si la mujer fue quien lo solicitó, continúe en el domicilio conyugal y de no ser posible esto, señalar la casa de personas de notoria honorabilidad y buenas costumbres, pudiendo inclusive designarse para dicho efecto a una institución de beneficencia o asistencia social.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 174.
+
+Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo el juez resolverá provisionalmente, debiendo en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
+
+Cualquiera reclamación de los consortes sobre el cuidado de los hijos se substanciará incidentalmente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 175.
+
+Al mismo tiempo de decretada la separación provisional mandará el Juez prevenir al cónyuge que la hubiere solicitado, de que si dentro de 30 días no acredita haber intentado la demanda o la acusación, queda apercibido que la separación provisional queda sin efectos, pudiendo en ese caso el cónyuge que no la hubiere solicitado, hacer valer sus derechos correspondientes. Esta providencia se notificará a ambos cónyuges.
+
+Para presentar la demanda respectiva a que alude este artículo, el cónyuge que hubiera solicitado su separación provisional, deberá interponerla directamente ante el mismo juzgado que haya conocido del acto prejudicial, salvo lo dispuesto en el artículo 180.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 176.
+
+Al responsable de la casa donde se encuentre el cónyuge que hubiere solicitado su separación provisional, se le hará entrega de las copias certificadas que contengan los proveídos en los que se decretó la separación provisional y el domicilio en donde ésta se lleve a efecto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 177.
+
+El término señalado para la duración de la separación provisional podrá prorrogarse si se acredita que por causa no imputable al solicitante, ha sido imposible intentar la acción contra su cónyuge.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 178.
+
+Las pretensiones que puedan formular los cónyuges, sobre variación del domicilio en que se lleve a efecto la separación provisional, o cualquiera otra cuestión que pueda dar lugar, se substanciarán incidentalmente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 179.
+
+No acreditándose haber intentado la demanda o acusación dentro del término señalado, a solicitud de la parte interesada, se decretará de plano sin efectos la separación provisional.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 180.
+
+Si el juez que decretó la separación provisional no fuera el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuera competente, quien las confirmará o proveerá lo conducente.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 180 Bis.
 
@@ -1099,7 +1447,9 @@ Lo dispuesto por los artículos que preceden se aplicará igualmente a las perso
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DEL 2000)</small>
 
-### CAPITULO I. Comprobación del cuerpo del delito
+### CAPITULO III
+
+DE LOS PRELIMINARES DE LA CONSIGNACION.
 
 ###### Artículo 180 Bis.
 
@@ -1135,1523 +1485,1629 @@ Artículo 180 Bis IX.- En toda resolución que autorice la separación cautelar 
 
 Artículo 180 Bis X.- En contra de toda resolución que conceda o niegue la medida cautelar de separación de personas o depósito de menores solicitada, procede el recurso de apelación.
 
-### CAPITULO II. Huellas del delito. Aseguramiento de los instrumentos y objetos del mismo
+### CAPITULO IV
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+DE LAS PROVIDENCIAS PRECAUTORIAS.
 
-###### ARTICULO 181.
+###### Artículo 181.
 
-La atención médica de quienes hayan sufrido lesiones provenientes de delito, se harán en los hospitales públicos.
+Si el acreedor rehusare recibir la prestación debida o dar el documento justificativo de pago, o si fuere persona incierta o incapaz de recibir, podrá el deudor librarse de la obligación haciendo consignación de la cosa.
 
-Si el lesionado no debe estar privado de libertad, la autoridad que conozca del caso podrá permitir, si lo juzga conveniente, que sea atendido en lugar distinto bajo responsiva de médico, con título legalmente reconocido o a falta de aquél, de práctico y previa la clasificación legal de las lesiones. Este permiso se concederá sin perjuicio de que la autoridad se cerciore del estado del lesionado cuando lo estime oportuno.
+###### Artículo 182.
 
-###### ARTICULO 182.
+Si el acreedor fuere cierto y conocido se le citará para día, hora y lugar determinados a fin de que reciba o vea depositar la cosa debida. Si la cosa fuere mueble de difícil conducción, la diligencia se practicará en el lugar donde se encuentre, siempre que fuere dentro de la jurisdicción territorial; si estuviere fuera, se le citará y se librará el exhorto o el despacho correspondiente al juez del lugar para que en su presencia el acreedor reciba o vea depositar la cosa debida.
 
-En el caso de la segunda parte del artículo anterior, el lesionado tiene la obligación de participar a la autoridad que conozca del asunto en qué lugar va a ser atendido y cualquier cambio de éste o de su domicilio. La falta de aviso del cambio ameritará su ingreso al hospital o que se le imponga una corrección disciplinaria.
+###### Artículo 183.
 
-###### ARTICULO 183.
+Si el acreedor fuere desconocido se le citará por los periódicos y por el plazo que designe el juez.
 
-La responsiva a que se refiere el artículo 181 impone a quien la otorgue las obligaciones siguientes:
+###### Artículo 184.
 
-I.- Atender debidamente al lesionado;
+Si el acreedor estuviere ausente o fuere incapaz será citado su representante legítimo.
 
-II.- Dar aviso a la autoridad correspondiente de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de la lesión o si proviene de otra causa;
+Si el acreedor no comparece el día, hora y lugar designados, o no envía procurador con autorización bastante que reciba la cosa, el juez extenderá certificación en que conste, la no comparecencia del acreedor, la descripción de la cosa ofrecida y que quedó constituído el depósito en la persona o establecimiento designado por el juez o por la ley.
 
-III.- Comunicar inmediatamente a la misma autoridad todo cambio de domicilio del lesionado o del lugar donde sea atendido; y
+###### Artículo 185.
 
-IV.- Extender certificado de sanidad o de defunción, en su caso, y los demás que le solicite la autoridad.
+Si la cosa debida fuese cosa cierta y determinada que debiera ser consignada en el lugar en donde se encuentra y el acreedor no la retirara ni la traspasara, el deudor puede obtener del juez la autorización para depositarla en otro lugar.
 
-El incumplimiento de cualquiera de las obligaciones señaladas en este artículo ameritará la imposición de una corrección disciplinaria, cuando no constituya un delito.
+###### Artículo 186.
 
-###### ARTICULO 184.
+Cuando el acreedor no haya estado presente en la oferta depósito, debe de ser notificado de esas diligencias, entregándole copia simple de ellas.
 
-Los certificados de sanidad expedidos por médicos particulares estarán sujetos a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 185.
+###### Artículo 187.
 
-Cuando un lesionado necesite pronta curación, cualquier médico o práctico en su caso, puede atenderlo y aun trasladarlo del lugar de los hechos al sitio apropiado, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación, los siguientes datos: nombre del lesionado, lugar preciso en que fue levantado y posición en que se encontraba; naturaleza de las lesiones que presente y causas probables que las originaron; curaciones que se le hubieren hecho, y lugar preciso en que queda a disposición de la autoridad.
+La consignación de dinero debe hacerse exhibiendo el certificado o comprobante de depósito hecho en la Secretaría de Finanzas y Tesorería General del Estado o en la Oficina Recaudadora del Estado correspondiente, en su caso. En materia de fianzas civiles, cuando se trate de depósito en efectivo, éste se hará en las propias dependencias gubernamentales citadas, que será el órgano encargado de la custodia de valores.
 
-###### ARTICULO 186.
+###### Artículo 188.
 
-Los funcionarios que practiquen diligencias de policía judicial, están obligados a proceder a la detención de los que aparezcan responsables de un delito, de los que se persiguen de oficio, sin necesidad de orden judicial:
+Las mismas diligencias se seguirán si el acreedor fuere conocido, pero dudosos sus derechos. Este depósito sólo podrá hacerse bajo la intervención judicial y bajo la condición de que el interesado justifique sus derechos por los medios legales.
 
-I.- En caso de flagrante delito;
+###### Artículo 189.
 
-II.- En caso de notoria urgencia, por existir temor fundado de que el inculpado trate de ocultarse o de eludir la acción de la justicia, cuando no haya autoridad judicial en el lugar.
+Cuando el acreedor se rehusare en el acto de la diligencia a recibir la cosa, con la certificación a que se refieren los artículos anteriores, podrá pedir el deudor la declaración de liberación en contra del acreedor mediante el juicio respectivo.
 
-###### ARTICULO 187.
+###### Artículo 190.
 
-Para los efectos de la fracción I del artículo anterior, se entiende que el inculpado es aprehendido en flagrante delito no sólo cuando es detenido en el momento de estarlo cometiendo, sino cuando después de ejecutado, el delincuente es perseguido materialmente, o cuando inmediatamente después de haberlo cometido, alguien lo señala como responsable del mismo delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+El depositario que se constituya en estas diligencias será designado por el juez.
 
-###### ARTICULO 188.
+### CAPITULO V
 
-Cuando estén reunidos los requisitos del artículo 16 constitucional, el tribunal librará orden de aprehensión contra el inculpado, a pedimento del Ministerio Público.
+DE LA SUSPENSION DE LA OBRA NUEVA.
 
-La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales y la clasificación provisional que se haga del hecho delictuoso, y se transcribirá a la autoridad correspondiente, para que ésta proceda a su ejecución.
+### CAPITULO I
 
-###### ARTICULO 189.
+REGLAS GENERALES.
 
-Cuando se trate de la aprehensión de alguna persona cuyo paradero se ignore, el tribunal que dicte la orden la comunicará a las autoridades que estimare convenientes para que localicen y aprehendan a dicha persona.
+###### Artículo 191.
 
-Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, o en algunos de los casos a que se refiere el artículo 186, quien la hubiere ejecutado deberá poner al detenido, sin demora alguna, a disposición de la autoridad competente, informando a ésta acerca de la hora en que se efectuó.
+Las providencias precautorias consistirán en el arraigo de la persona y en el secuestro de bienes.
 
-###### ARTICULO 190.
+###### Artículo 192.
 
-Los miembros de la policía o del Ejército que estuvieren detenidos o sujetos a prisión preventiva, deberán sufrir ésta en las prisiones especiales, si existieren, o en su defecto en las comunes.
+Podrán decretarse tanto como actos prejudiciales como después de iniciado el juicio respectivo.
 
-No podrán considerarse prisiones especiales los cuarteles u oficinas.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO III. Atención médica a los lesionados
+###### Artículo 193.
 
-### CAPITULO IV. Aseguramiento del inculpado
+En el primer caso del artículo 191, si el arraigo de una persona para que conteste en juicio se pide al tiempo de entablar la demanda o en cualquier estado de aquél, durante su substanciación, bastará la petición del actor y el otorgamiento de una fianza para que responda de los daños y perjuicios que se causen al demandado, cuyo monto discrecionalmente fijará el Juez, para que no se ausente del lugar donde ha sido demandado sin dejar representante legítimo suficientemente instruido y expensando para responder a las resultas del juicio.
 
-###### ARTICULO 191.
+###### Artículo 194.
 
-Para dictarse orden de aprehensión no será obstáculo la circunstancia de que esté pendiente un recurso de apelación interpuesto contra resolución anterior que la hubiere negado.
+también el demandado durante la substanciación del juicio podrá pedir el arraigo del actor, que se decretará en los mismos términos del artículo que antecede.
 
-###### ARTICULO 192.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 1998)</small>
 
-Si por datos posteriores el Ministerio Público estimare que ya no es procedente una orden de aprehensión no ejecutada aún, previa autorización del Procurador General de Justicia, pedirá su revocación, la que se acordará de plano sin perjuicio de que se continúe la averiguación y de que posteriormente vuelva a solicitarse, si procede.
+###### Artículo 195.
 
-###### ARTICULO 193.
+Al que quebrante el arraigo, se le aplicará la sanción que señala el Código Penal, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso se seguirá éste según su naturaleza conforme a las reglas comunes.
 
-Cuando se ejecute una orden de aprehensión dictada contra persona que maneje fondos públicos, se tomarán las providencias necesarias para que no se interrumpa el servicio y para que se haga entrega de los fondos, valores y documentos que tenga en su poder el inculpado, dictándose entretanto, las medidas preventivas que se juzgue oportunas, para evitar que se substraiga a la acción de la justicia.
+Las notificaciones subsecuentes, en caso de que se ausente, se harán en los términos de la parte final del artículo 75 de este Código.
 
-###### ARTICULO 194.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Al ser aprehendido un empleado o funcionario público, se comunicará la detención sin demora al superior jerárquico respectivo.
+###### Artículo 196.
 
-###### ARTICULO 195.
+El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida, pudiendo consistir la prueba en documentos o testigos idóneos que serán por lo menos tres.
 
-Cuando deba aprehenderse a un empleado oficial o a un particular que en ese momento esté trabajando en un servicio público, se procurará que éste no se interrumpa, tomándose las providencias necesarias, a fin de que el inculpado no se fuge (sic) entretanto se obtiene su relevo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 196.
+###### Artículo 197.
 
-Para la aprehensión de un funcionario público se procederá de acuerdo con lo que dispongan la Constitución Política local y las leyes orgánicas reglamentarias respectivas.
+Si la petición de arraigo se presenta antes de entablar la demanda, además de la prueba que exige el Artículo anterior deberá el actor dar una fianza a satisfacción del Juez de responder de los daños y perjuicios que se sigan si no se entabla la demanda.
 
-###### ARTICULO 197.
+###### Artículo 198.
 
-Cuando el delito imputado merezca sanción que no sea privativa de libertad o sanción alternativa y exista la posibilidad de que se dificulte la averiguación con la ausencia del inculpado, a pedimento del Ministerio Público, el tribunal podrá ordenarle que no abandone sin su permiso el lugar en que se sigue el procedimiento.
+Cuando se solicite el secuestro provisional se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión y el juez al decretarlo fijará la cantidad por la cual haya de practicarse la diligencia.
 
-###### ARTICULO 198.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Se admitirá como prueba todo aquello que se ofrezca como tal, siempre que pueda constituirla a juicio del funcionario que practique la averiguación. Cuando éste lo juzgue necesario, podrá por cualquier medio legal establecer la autenticidad de dicha prueba.
+###### Artículo 199.
 
-###### ARTICULO 199.
+Si el demandado consigna el valor u objeto reclamado, o da garantía bastante a juicio del juez, no se llevará a cabo la providencia precautoria o se levantará la que se hubiere dictado observándose en su caso lo dispuesto por el artículo 203.
 
-Si el delito fuere de aquellos que puedan dejar huellas materiales, se procederá a inspeccionar el lugar en que se perpetró, el instrumento y las cosas objeto o efecto de él, los cuerpos del ofendido y del inculpado si fuere posible, y todas las demás cosas y lugares que puedan tener importancia para la averiguación.
+###### Artículo 200.
 
-###### ARTICULO 200.
+Ni para recibir la información ni para dictar una providencia precautoria se citará a la persona contra quien ésta se pida.
 
-Para la descripción de lo inspeccionado se emplearán, según el caso, dibujos, planos topográficos, fotografías ordinarias o métricas, moldeados, o cualquier otro medio para reproducir las cosas, haciéndose constar en el acta cuál o cuáles de aquéllos, en qué forma y con qué objeto se emplearon.
+###### Artículo 201.
 
-Se hará la descripción por escrito de todo lo que no hubiere sido posible efectuar por los medios anteriores, procurándose fijar con claridad los caracteres, señales o vestigios que el delito dejare, el instrumento o medio que probablemente se haya empleado y la forma en que se hubiere usado.
+Antes de la ejecución de la providencia precautoria no se admitirá recurso, excepción ni oposición alguna.
 
-###### ARTICULO 201.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Al practicarse una inspección ocular podrá examinarse a las personas presentes, que puedan proporcionar algún dato útil a la averiguación, a cuyo efecto se les podrá prevenir que no abandonen el lugar.
+###### Artículo 202.
 
-###### ARTICULO 202.
+Ejecutada total o parcialmente la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dicte, sin perjuicio, en el segundo caso, de concluir la ejecución iniciado el juicio. Si éste debiere seguirse en otro lugar, el Juez aumentará a los tres días señalados uno por cada cien kilómetros, o fracción que exceda de la mitad.
 
-El encargado de practicar una inspección ocular podrá hacerse acompañar por los peritos que estime necesarios.
+> <small>(REFORMADO, PRIMER PARRAFO P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 203.
+###### Artículo 203.
 
-En caso de lesiones, al sanar el lesionado se procurará hacer la inspección ocular y la descripción de las consecuencias apreciables que hubieren dejado.
+Cuando se pida un secuestro provisional además de la prueba a que se refiere el Artículo 196, el actor deberá probar lo siguiente:
 
-###### ARTICULO 204.
+I.- Que se pretenden ocultar o dilapidar los bienes en que deba ejercitarse una acción real;
 
-En los delitos sexuales y en el de aborto, puede concurrir al reconocimiento que practiquen los médicos, el funcionario que conozca del asunto, si lo juzga indispensable.
+II.- Si la acción es personal, que el deudor no tenga otros bienes que aquellos en que se ha de practicar la diligencia y se tema que los oculte o enajene.
 
-Además de las personas a que se refiere este artículo, únicamente se permitirá asistir a la diligencia a aquéllas que designe la reconocida cuando quiera que la acompañen.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 205.
+Cuando se pida un secuestro provisional sin fundarlo en título ejecutivo, el actor otorgará garantía para responder por los daños y perjuicios que se sigan, ya porque se revoque la providencia, ya porque, entablada la demanda, sea absuelto el reo.
 
-La inspección ocular podrá tener el carácter de reconstrucción de hechos y su objeto será apreciar las declaraciones que se hayan rendido y los dictámenes periciales que se hayan formulado. Se podrá llevar a cabo, siempre que la naturaleza del delito y las pruebas rendidas, así lo exijan, a juicio del funcionario que conozca del asunto, aun durante la vista del proceso si el tribunal lo estima necesario, no obstante que se haya practicado con anterioridad.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 206.
+La garantía a que se refiere este artículo será de un treinta a un ciento por ciento del valor de la reclamación, a juicio del Juez.
 
-La reconstrucción deberá practicarse precisamente a la hora y en el lugar donde se cometió el delito, cuando estas circunstancias tengan influencia en la determinación de los hechos que se reconstruyan; en caso contrario podrá efectuarse en cualquiera hora y lugar.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 207.
+El Ministerio Público no estará obligado a otorgar garantía alguna.
 
-No se practicará la reconstrucción sin que hayan sido examinadas las personas que hubieren intervenido en los hechos o que los hayan presenciado y deban tomar parte en ella. En el caso a que se refiere la primera parte del artículo anterior, es necesario, además, que se haya llevado a cabo la simple inspección ocular del lugar.
+###### Artículo 204.
 
-###### ARTICULO 208.
+De toda providencia precautoria queda responsable el que la pida; por consiguiente, son de su cargo los daños y perjuicios que se causen.
 
-Cuando alguna de las partes solicite la reconstrucción deberá precisar cuáles son los hechos y circunstancias que desea esclarecer, pudiéndose repetir la diligencia cuantas veces sea necesario, a juicio del funcionario de policía judicial o del tribunal en su caso.
+###### Artículo 205.
 
-###### ARTICULO 209.
+Si el actor no cumple con lo dispuesto en el artículo 202, la providencia precautoria dictada quedará sin efecto, perdiéndose el derecho para solicitarla de nuevo por el mismo motivo y para el mismo objeto.
 
-En la reconstrucción estarán presentes, si fuere posible, todos los que hayan declarado haber participado en los hechos o haberlos presenciado. Cuando no asistiere alguno de los primeros, podrá comisionarse a otra persona para que ocupe su lugar, salvo que esa falta de asistencia haga inútil la práctica de la diligencia, en cuyo caso se suspenderá. Asimismo se citará a los peritos que sea necesario.
+###### Artículo 206.
 
-La descripción se hará en la forma que establece el artículo 200.
+El aseguramiento de bienes decretado por providencia precautoria y los casos a que se refieren los artículos 185 y 199, se rigen por lo dispuesto en las reglas generales del secuestro.
 
-###### ARTICULO 210.
+###### Artículo 207.
 
-Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán, si fueren conducentes al esclarecimiento de los mismos, las reconstrucciones relativas a cada una de aquéllas, y en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cuál de las versiones puede acercarse más a la verdad.
+La persona contra quien se haya practicado un embargo precautorio puede reclamarlo en cualquier tiempo antes de la sentencia definitiva para el solo efecto de que se reduzca, por injustificada apreciación, el valor fijado en el embargo. Esta reclamación se sustanciará en forma de incidente.
 
-###### ARTICULO 211.
+###### Artículo 208.
 
-Siempre que para el examen de personas, hechos u objetos, se requieran conocimientos especiales, se procederá con intervención de peritos.
+Igualmente puede reclamar la providencia precautoria un tercero cuando el secuestro afecte sus propiedades o posesiones, substanciándose tal reclamación en forma incidental.
 
-###### ARTICULO 212.
+###### Artículo 209.
 
-Los peritos que dictaminen serán dos o más, pero bastará uno cuando solamente éste pueda ser habido, o cuando el caso sea urgente.
+Contra la resolución en que se decrete una providencia precautoria no procede recurso alguno.
 
-###### ARTICULO 213.
+###### Artículo 210.
 
-Cada una de las partes tendrá derecho a nombrar hasta dos peritos, a quienes el tribunal les hará saber su nombramiento, y les ministrará todos los datos que fueren necesarios para que emitan su opinión. Esta podrá no atenderse en las diligencias que se practiquen o en las providencias que se dicten durante la instrucción.
+Las resoluciones en que se niegue la providencia precautoria y las que decidan los incidentes de reclamación serán apelables en el efecto devolutivo.
 
-### CAPITULO I. Medios de prueba
+###### Artículo 211.
 
-###### ARTICULO 214.
+Cuando la providencia precautoria se dicte por un juez que no sea el que debe conocer del negocio principal, una vez ejecutada y resuelta la reclamación, en su caso, se remitirán las actuaciones al juez competente.
 
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiere el punto sobre el cual deba dictaminarse, si la profesión o arte están legalmente reglamentados; en caso contrario se nombrarán peritos prácticos.
+###### Artículo 212.
 
-###### ARTICULO 215.
+Aquél contra quien se hubiere decretado un embargo precautorio, que es revocado posteriormente o declarado sin lugar por causa de absolución podrá exigir previa comprobación en la forma incidental, la indemnización de los daños y perjuicios que se le hubieren causado.
 
-También podrán ser nombrados peritos prácticos cuando no hubiere titulados en el lugar en que se siga la instrucción; pero en este caso se librará exhorto o requisitoria al tribunal del lugar en que los haya, para que en vista del dictamen de los prácticos emitan su opinión.
+###### Artículo 213.
 
-###### ARTICULO 216.
+En la indemnización a que se refiere el artículo anterior no quedan comprendidas las costas en caso de condenación.
 
-La designación de peritos hecha por el tribunal o por el Ministerio Público deberá recaer en las personas que desempeñen ese empleo por nombramiento oficial y a sueldo fijo.
+### CAPITULO II
 
-Si no hubiere peritos oficiales titulares, se nombrarán de entre las personas que desempeñen el profesorado del ramo correspondiente en las escuelas oficiales o bien de entre los funcionarios o empleados de carácter técnico en establecimientos o corporaciones dependientes del Gobierno.
+DEL TERMINO PROBATORIO.
 
-###### ARTICULO 217.
+###### Artículo 214.
 
-Si no hubiere peritos de los que menciona el artículo anterior y el tribunal o el Ministerio Público lo estiman conveniente, podrán nombrar otros. En estos casos, los honorarios se cubrirán según lo que se acostumbre pagar en establecimientos particulares del ramo de que se trate a los empleados permanentes de los mismos, teniendo en cuenta el tiempo que los peritos debieron ocupar en el desempeño de su comisión.
+Cuando alguno se crea perjudicado en sus propiedades con alguna obra nueva que se esté construyendo, y pretenda impedir la continuación de ella y obtener, en su caso, la demolición, podrá pedir la suspensión provisional de la obra.
 
-###### ARTICULO 218.
+También podrá pedirse la suspensión y produce acción popular cuando la obra perjudica al común o se ejecuta en camino, plaza o sitio público, pudiendo en estos casos ejercitarse la acción ante los tribunales comunes o ante la autoridad municipal, para que ésta dicte una providencia gubernativa.
 
-Los peritos que acepten el cargo, con excepción de los oficiales titulares, tienen obligación de protestar su fiel desempeño ante el funcionario que practique las diligencias.
+###### Artículo 215.
 
-En casos urgentes la protesta la rendirán al producir o ratificar su dictamen.
+Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando con ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+###### Artículo 216.
 
-###### ARTICULO 219.
+No procede la suspensión de la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba del mal olor o por causa de los materiales que se arrojen en su finca o en la calle. En los casos a que este artículo se refiere, se observarán los reglamentos administrativos.
 
-El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido. Si transcurrido ese tiempo no rinden su dictamen o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
+###### Artículo 217.
 
-Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público para que proceda por el delito a que se refiere el artículo 264 del Código Penal.
+La solicitud de suspensión de obra nueva se presentará ante el juez que deba conocer el juicio principal y se acompañarán a ella los documentos que deban servir para fundar la acción o se ofrecerá a falta de ellos, (mentos que deban servir para fundar la acción o se ofrecerá a falta de ellos)(sic) información testimonial.
 
-###### ARTICULO 220.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando el lesionado se encontrare en algún hospital público, los médicos oficiales se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
+###### Artículo 218.
 
-###### ARTICULO 221.
+El Juez, en vista de los documentos o del resultado de la información, se trasladará al lugar donde se esté construyendo la obra nueva, acompañado de un perito oficial, previa citación de los interesados y dará fe de la existencia de ésta, sus dimensiones y demás circunstancias que el Juez creyere conveniente para esclarecer los hechos, y si estimare que hay fundamento para ello, decretará la suspensión previa garantía que discrecionalmente se fije por el Juez para responder de los daños y perjuicios que se le pudieren ocasionar al dueño de la obra, con excepción del caso previsto en el párrafo segundo del artículo 214.
 
-La autopsia de los cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos oficiales; sin perjuicio de la facultad que concede la parte final del artículo anterior.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 222.
+###### Artículo 219.
 
-Cuando el funcionario que practique las diligencias lo juzgue conveniente, asistirá al reconocimiento u operaciones que efectúen los peritos.
+La obra deberá suspenderse luego que se notifique el auto al dueño, al encargado de ella o a los que la están ejecutando, la cual será demolida a costa del primero en caso de desobediencia. La suspensión se levantará en el caso de que se dé contra garantía de responder de la demolición y de la indemnización de los perjuicios que de continuarse la obra pueden seguirse al que promueve.
 
-### CAPITULO II. C o n f e s i ó n
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-(sic) La confesión podrá recibirse por el funcionario o policía judicial que practique la averiguación previa o por el tribunal que conozca del asunto, y se admitirá en cualquier estado del procedimiento hasta antes de pronunciarse sentencia irrevocable.
+###### Artículo 220.
 
-## TITULO QUINTO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA Y A LA INSTRUCCION
+Si el Juez califica de bastante la contra garantía, cuya calificación hará conforme al Código Civil, oyendo el dictamen de peritos nombrados por ambas partes y de un tercero en caso de discordia, si aquéllos no estuvieren conformes en el monto de la contra garantía, decretará la autorización solicitada, para continuar la obra.
 
-### CAPITULO III. I n s p e c c i ó n
+###### Artículo 221.
 
-###### ARTICULO 223.
+La resolución que conceda la autorización para continuar la obra será apelable en el efecto devolutivo y en ambos efectos la en que se niegue.
 
-El funcionario que practique las diligencias podrá hacer a los peritos todas las preguntas que crea oportunas; les dará por escrito o de palabra, pero sin sugestión alguna, los datos que tuviere, y hará constar estos hechos en el acta respectiva.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 224.
+###### Artículo 222.
 
-Los peritos practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera y expresarán los hechos y circunstancias que sirvan de fundamento a su opinión.
+En el mismo auto en que se decrete la suspensión de la obra, el Juez prevendrá al solicitante que dentro del término de tres días promueva su demanda sobre suspensión definitiva y demolición de lo construido; y de no hacerlo, se levantará la suspensión condenándolo al pago de los daños y perjuicios y de una multa hasta de ciento ochenta cuotas, según la importancia de la obra.
 
-###### ARTICULO 225.
+### CAPITULO III
 
-Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los peritos oficiales no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario.
+DE LA CONFESION.
 
-###### ARTICULO 226.
+## TITULO QUINTO
 
-Cuando las opiniones de los peritos discordaren, el funcionario que practique las diligencias los citará a junta en la que se discutirán los puntos de diferencia, haciéndose constar en el acta el resultado de la discusión.
+DE LA PRUEBA.
 
-Si los peritos no se pusieren de acuerdo se nombrará un perito tercero en discordia.
+### CAPITULO IV
 
-###### ARTICULO 227.
+DE LA PRUEBA INSTRUMENTAL.
 
-Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se efectúe el primer análisis, sino cuando más sobre la mitad de la substancia, a no ser que su cantidad sea tan escasa, que los peritos no puedan emitir su opinión sin consumirla por completo, lo cual se hará constar en el acta respectiva.
+###### Artículo 223.
 
-###### ARTICULO 228.
+El actor debe probar los hechos constitutivos de su acción y el reo los de sus excepciones, pero sólo cuando el actor pruebe los hechos que son el fundamento de su demanda, el reo está obligado a la contra prueba que demuestra la inexistencia de aquéllos, o a probar los hechos que sin excluir el hecho probado por el actor, impidieron o extinguieron sus efectos jurídicos.
 
-Cuando el funcionario que practique las diligencias lo crea conveniente, podrá ordenar que asistan peritos a ellas.
+###### Artículo 224.
 
-###### ARTICULO 229.
+El que niega sólo está obligado a probar:
 
-Cuando se niegue o ponga en duda la autenticidad de un documento podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
+I.- Cuando su negación no siendo indefinida envuelva la afirmación de un hecho, aunque la negativa sea en apoyo de una demanda o de una excepción.
 
-I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando la averiguación, y en ese caso se levantará el acta correspondiente; y
+Los jueces en este caso no exigirán una prueba tan rigurosa como cuando se trate de un hecho positivo, pero sin dejar de observar el artículo 387;
 
-II.- El cotejo se hará con documentos indubitables, o con los que las partes de común acuerdo reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente, y con el escrito impugnado en la parte en que reconozca la letra como suya aquel a quien perjudique.
+II.- Cuando desconozca la presunción legal que tenga en su favor el colitigante.
 
-El juez podrá ordenar que se repita el cotejo por otros peritos.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
-###### ARTICULO 230.
+###### Artículo 225.
 
-El tribunal no podrá dejar de examinar durante la instrucción a los testigos presentes cuya declaración soliciten las partes.
+Sólo los hechos están sujetos a prueba. El Derecho Extranjero lo verificará y aplicará de oficio el juzgador, sin perjuicio de que las partes coaduyven (sic) al logro de esa información.
 
-###### ARTICULO 231.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-También mandará examinar, según corresponda, a los testigos ausentes, sin que esto estorbe la marcha de la instrucción ni la facultad del tribunal para darla por terminada cuando haya reunido los elementos bastantes.
+###### Artículo 226.
 
-###### ARTICULO 232.
+El Tribunal debe admitir las pruebas que le presenten las partes siempre que estén permitidas por la Ley y se refieran a los puntos cuestionados.
 
-Toda persona que sea citada como testigo está obligada a declarar.
+El auto en que se admita o deseche alguna prueba no es recurrible.
 
-###### ARTICULO 233.
+###### Artículo 227.
 
-No se obligará a declarar al tutor, curador, pupilo o cónyuge del inculpado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados y en la colateral hasta el cuarto inclusive, ni a los que estén ligados con el inculpado por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieren voluntad de declarar, se hará constar esta circunstancia y se recibirá su declaración.
+Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales en la averiguación de la verdad.
 
-###### ARTICULO 234.
+En consecuencia, deben, sin demora, exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos.
 
-Si el testigo se hallare en el lugar de la residencia del funcionario que practique las diligencias, pero tuviere imposibilidad física para presentarse ante él, dicho funcionario podrá trasladarse al lugar donde se encuentre el testigo para tomarle su declaración.
+Los tribunales tienen la facultad y el deber de compeler a terceros, con los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
 
-###### ARTICULO 235.
+De la mencionada obligación están exentos los ascendientes, descendiente, cónyuge y personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que están relacionados.
 
-Cuando haya que examinar a los altos funcionarios del Estado, el que practique las diligencias se trasladará a la habitación u oficina de dichas personas, para tomarles su declaración y si lo estima conveniente, solicitará de aquéllos que la rindan por medio de oficio.
+###### Artículo 228.
 
-###### ARTICULO 236.
+El que presentare pruebas notoriamente impertinentes, deberá pagar los gastos e indemnizar los perjuicios que de la presentación se sigan al colitigante, aunque en lo principal obtenga sentencia favorable.
 
-Los testigos deben ser examinados separadamente y sólo las partes podrán asistir a la diligencia, salvo en los casos siguientes:
+###### Artículo 229.
 
-I.- Cuando el testigo sea ciego;
+El juez hará en la sentencia definitiva la calificación de las pruebas, y , en su caso, la condenación al pago de los gastos y perjuicios a que se refiere el artículo anterior.
 
-II.- Cuando sea sordo o mudo;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-III.- Cuando ignore el idioma castellano.
+###### Artículo 230.
 
-En el caso de la fracción I el funcionario que practique las diligencias designará a otra persona para que acompañe al testigo, la que firmará la declaración, después de que éste la haya ratificado; en los casos de las fracciones II y III se procederá conforme lo dispone el Capítulo III del Título Primero de este Código.
+En las cuestiones tanto principales como incidentales, en que legalmente pueda haber lugar a prueba, se concederá el término correspondiente a petición de cualquiera de las partes.
 
-###### ARTICULO 237.
+###### Artículo 231.
 
-Antes de que los testigos comiencen a declarar, se les instruirá de las sanciones que el Código Penal establece para los que se producen con falsedad, o se niegan a declarar.
+Si los litigantes convinieren en que se falle definitivamente el juicio sin necesidad de pruebas y el juez las estima innecesarias, se mandarán traer los autos a la vista con citación de las partes, para dictar sentencia.
 
-Esto podrá hacerse hallándose reunidos todos los testigos.
+###### Artículo 232.
 
-A los menores de dieciséis años en vez de hacérseles saber las sanciones en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
+Con excepción de los casos previstos por la ley, las diligencias de prueba se practicarán dentro del término probatorio, bajo pena de nulidad y responsabilidad del juez.
 
-###### ARTICULO 238.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Después de tomarle la protesta de decir verdad o hacerle la exhortación correspondiente, se preguntará al testigo su nombre, apellido, edad, lugar de origen, domicilio, estado civil, profesión u ocupación; si se halla ligado con el inculpado o el ofendido por vínculos de parentesco, amistad o cualesquier otros y si tiene algún motivo de odio o rencor contra alguno de ellos.
+###### Artículo 233.
 
-###### ARTICULO 239.
+Las diligencias que pedidas en tiempo legal no se hubieren podido practicar por causas independientes del interesado o que provengan de caso fortuito, de fuerza mayor o de dolo del colitigante se recibirán en segunda instancia; debiéndose observar lo dispuesto por el artículo 449 de este Código.
 
-Los testigos declararán de viva voz, sin que les sea permitido leer las respuestas que tengan escritas; pero podrán consultar algunas notas o documentos que lleven consigo, cuando sea pertinente, según la naturaleza del asunto a juicio de quien practique las diligencias.
+###### Artículo 234.
 
-El Ministerio Público y la defensa tendrán el derecho de interrogar al testigo; pero el tribunal podrá disponer que los interrogatorios se hagan por su conducto, cuando así lo estime necesario; tendrá la facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes y además podrá interrogar al testigo sobre los puntos que estime conveniente.
+No obstante lo dispuesto en los artículos 232 y 233 podrán también recibirse, sin que se suspenda el curso del juicio, las pruebas de confesión y las escrituras y documentos justificativos de hechos ocurridos con posterioridad o de los anteriores cuya existencia ignora el que los presenta, siempre que se haga la petición relativa antes que se dicte el decreto mandando correr los traslados para alegar.
 
-### CAPITULO IV. P e r i t o s
+###### Artículo 235.
 
-###### ARTICULO 240.
+Igualmente podrán admitirse hasta antes de que se dicte el decreto mandando correr los traslados para alegar y sin que tampoco se suspenda el curso del juicio los documentos que, aunque conocidos, no hubieren podido adquirirse con anterioridad.
 
-Las declaraciones se redactarán con claridad y usando hasta donde sea posible, las mismas palabras empleadas por el testigo. Si quisiere dictar o escribir su declaración, se le permitirá hacerlo.
+Aquellos que dentro del término hubieren sido pedidos, pero que no hayan sido remitidos al juzgado o tribunal, podrán admitirse hasta antes de pronunciarse la sentencia.
 
-###### ARTICULO 241.
+Artículo 326 (sic).- Todas las pruebas, salvo los casos especificados en la ley, podrán recibirse con asistencia de las partes.
 
-Si la declaración se refiere a algún objeto puesto en depósito, después de interrogar al testigo sobre las señales que caractericen dicho objeto, se le pondrá a la vista para que lo reconozca y firme sobre él, si fuere posible.
+###### Artículo 237.
 
-###### ARTICULO 242.
+Las pruebas que cada parte rindiere y las diligencias practicadas con ese objeto, deberán constar en cuaderno separado, sin que esto importe reserva de ninguna clase, pues todas las pruebas estarán siempre a la vista de las partes en la secretaría del juzgado o tribunal.
 
-Si la declaración es relativa a un hecho que hubiere dejado vestigios en algún lugar, el testigo podrá ser conducido a él para que haga las explicaciones convenientes.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 243.
+###### Artículo 238.
 
-Siempre que se examine a una persona cuya declaración sea sospechosa de falta de veracidad, se hará constar esto en el acta.
+Contra el auto en que se ordene o niegue que el juicio se abra a pruebas, no procede recurso alguno.
 
-###### ARTICULO 244.
+###### Artículo 239.
 
-Concluída la diligencia se leerá al testigo su declaración o la leerá él mismo, si quisiere, para que la ratifique o la enmiende, y después de esto será firmada por el testigo y su acompañante si lo hubiere.
+La ley reconoce como medios de pruebas:
 
-###### ARTICULO 245.
+I.- Confesión;
 
-Si de lo actuado apareciere que algún testigo se ha producido con falsedad, se mandarán compulsar las constancias conducentes para la investigación de ese delito y se hará la consignación respectiva al Ministerio Público, sin que esto sea motivo para que se suspenda el procedimiento; si en el momento de rendir su declaración el testigo, apareciere que es manifiesta la comisión del delito de falsedad, será detenido desde luego y consignado al Ministerio Público.
+II.- Documentos públicos;
 
-###### ARTICULO 246.
+III.- Documentos privados;
 
-Cuando tuviere que ausentarse del lugar en que se practiquen las diligencias alguna persona que pueda declarar acerca del delito, de sus circunstancias o de la persona del inculpado, el tribunal, a solicitud de cualquiera de las partes, procederá a examinarla desde luego si fuere posible; en caso contrario, podrá arraigar al testigo por el tiempo que sea estrictamente indispensable para que rinda su declaración. Si resultare que la solicitud fue infundada y por lo mismo indebido el arraigo, el testigo podrá exigir al que lo solicitó que lo indemnice de los daños y perjuicios que le haya causado.
+IV.- Dictámenes periciales;
 
-###### ARTICULO 247.
+V.- Reconocimiento o inspección judicial;
 
-El funcionario que practique las diligencias podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
+VI.- Testigos;
 
-###### ARTICULO 248.
+VII.- Fotografías, copias fotostáticas, registros dactiloscópicos, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
 
-Toda persona que tuviere que referirse a otra, lo hará de un modo claro y preciso, mencionando, si le fuere posible, el nombre, apellido, domicilio y demás circunstancias que puedan servir para identificarla.
+VIII.- Presunciones.
 
-###### ARTICULO 249.
+### CAPITULO V
 
-Cuando el que declare no pueda dar noticia exacta de la persona a quien se refiera, pero exprese que podrá reconocerla si se le presentare, el tribunal procederá a la confrontación.
+DE LA PRUEBA PERICIAL.
 
-Lo mismo se hará cuando el que declare asegure conocer a una persona y haya motivos para sospechar que no la conoce.
+###### Artículo 240.
 
-###### ARTICULO 250.
+El término de pruebas no podrá exceder de veintecinco (sic) días, cuando las pruebas hubieren de rendirse dentro del Estado.
 
-Al practicar la confrontación se cuidará de:
+###### Artículo 241.
 
-I.- Que la persona que sea objeto de ella no se disfrace, ni se desfigure, ni borre las huellas o señales que puedan servir al que tiene que designarla;
+El término de prueba ordinario se dividirá en dos períodos comunes a las partes: el primero de cinco días, para proponer en uno o varios escritos todas las pruebas que les interesen expresando con claridad los hechos que se trata de probar, de lugar, tiempo, forma y demás requisitos que se consideren indispensables para decretar su recepción. El segundo de veinte días para ejecutar y recibir todas las pruebas que hubieren propuesto las partes.
 
-II.- Que aquélla se presente acompañada de otros individuos vestidos con ropas semejantes y aun con las mismas señas que las del confrontado, si fuere posible; y
+###### Artículo 242.
 
-III.- Que los individuos que acompañen a la persona que va a confrontarse sean de clase análoga, atendidos su educación, modales y circunstancias especiales.
+Dentro de estos dos períodos, el juez concederá el término que estime suficiente, atendiendo a las circunstancias del pleito, sin que pueda bajar de tres días el primer período y de diez el segundo.
 
-###### ARTICULO 251.
+Lo dispuesto en este artículo y en el anterior sólo tiene aplicación cuando se trate del término de prueba en lo principal. En los demás casos el término de prueba es común para proponer y practicar las pruebas.
 
-Si alguna de las partes solicita que se observen mayores precauciones que las prevenidas en el artículo anterior, el tribunal podrá acordarlas si las estima convenientes.
+###### Artículo 243.
 
-###### ARTICULO 252.
+Dentro del termino señalado por el juez para el segundo período conforme al artículo anterior, las partes tienen derecho de pedir que se amplie.
 
-El que deba ser confrontado, puede elegir el sitio en que quiera colocarse con relación a los que lo acompañen y pedir que se excluya del grupo a cualquiera persona que le parezca sospechosa. El tribunal podrá limitar prudentemente el uso de este derecho cuando lo crea malicioso.
+###### Artículo 244.
 
-###### ARTICULO 253.
+La ampliación no puede excede (sic) de los días que falten para completar el máximum que marca la ley, y el término que conceda será común a todas las partes.
 
-En la diligencia de confrontación se procederá colocando en una fila a la persona que deba ser confrontada y a las que hayan de acompañarla; y se interrogará al declarante sobre:
+###### Artículo 245.
 
-I.- Si persisten en su declaración anterior;
+El juez resolverá de plano concediendo o negando la ampliación.
 
-II.- Si conocía con anterioridad a la persona a quien atribuye el hecho o si la conoció en el momento de ejecutarlo; y
+###### Artículo 246.
 
-III.- Si después de la ejecución del hecho la ha visto, en qué lugar, por qué motivo y con qué objeto.
+Contra el auto en que se fijen los períodos del término y contra el en que se conceda la ampliación, no habrá recurso alguno.
 
-Se le llevará frente a las personas que formen el grupo; se le permitirá mirarlas detenidamente y se le prevendrá que toque con la mano a la de que se trate, manifestando las diferencias o semejanzas que tuviere entre el estado actual y el que tenía en la época a la que se refirió en su declaración.
+###### Artículo 247.
 
-###### ARTICULO 254.
+Cuando alguna de las pruebas solicitadas hubiere de rendirse fuera del Estado, puede concederse un término extraordinario.
 
-Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se verificarán en actos separados.
+###### Artículo 248.
 
-###### ARTICULO 255.
+El juez tomando en consideración las distancias y la mayor o menor facilidad de comunicaciones, señalará el término que en su concepto estime necesario, sin excederse de los plazos fijados en el artículo siguiente. El término extraordinario se computará desde el día siguiente al en que se concluya el término común de pruebas señalado por el juez.
 
-Con excepción de los mencionados en la fracción IV del artículo 20 de la Constitución, los careos se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el tribunal lo estime oportuno o cuando surjan nuevos puntos de contradicción.
+###### Artículo 249.
 
-###### ARTICULO 256.
+El término extraordinario de pruebas será:
 
-El careo solamente se practicará entre dos personas y no concurrirán a la diligencia, sino las que deban ser careadas las partes, y los intérpretes si fueren necesarios.
+I.- Hasta de cincuenta días si las pruebas para las que se solicitó han de practicarse dentro del territorio nacional y fuera del Estado;
 
-###### ARTICULO 257.
+II.- Hasta de cien días si hubieren de practicarse en la América del Norte, en la Central o en las Antillas;
 
-Los careos, salvo los exceptuados en el artículo 255, se practicarán dando lectura a las declaraciones que se reputen contradictorias, llamando la atención de los careados sobre sus contradicciones, a fin de que discutan entre sí y pueda aclararse la verdad.
+III.- Hasta de ciento veinte días si hubieren de practicarse en cualquiera otra parte.
 
-###### ARTICULO 258.
+###### Artículo 250.
 
-Cuando, por cualquier motivo, no pudiere obtenerse la comparecencia de alguno de los que deban ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
+Para que pueda concederse el término extraordinario, se requiere:
 
-Si los que deban carearse estuvieren fuera de la jurisdicción del tribunal, se librará el exhorto correspondiente.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 259.
+I.- Que se solicite en la demanda o en la constestación;
 
-El tribunal recibirá las pruebas documentales que le presenten las partes durante la instrucción y las agregará al expediente, asentando razón en autos.
+II.- Que se hayan solicitado en tiempo las pruebas que se trata de practicar;
 
-### CAPITULO V. T e s t i g o s
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 260.
+III.- Que se indiquen los nombres y residencias de los testigos que hayan de ser examinados, cuando la prueba sea testimonial y el por qué de su estancia en tal lugar;
 
-Siempre que alguna de las partes pidiere copia o testimonio de algún documento que obre en los archivos públicos, las otras tendrán derecho a pedir, dentro de tres días, que se adicione con lo que crean conveniente del mismo asunto. El tribunal resolverá de plano si es procedente la adición solicitada.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 261.
+IV.- Que se designen, en el caso de ser la prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse o presentarse originales y se mencione el por qué de su localización en tal lugar;
 
-Los documentos existentes fuera de la jurisdicción del tribunal en que se siga el procedimiento, se compulsarán a virtud de exhorto que se dirija al del lugar en que se encuentren.
+V.- Que se exhiba el billete de depósito por el máximum de la cantidad que establece el artículo 257.
 
-###### ARTICULO 262.
+VI.- Que del tenor de la demanda o de la contestación, aparezca que los hechos que se trata de probar acaecieron en el lugar donde deba practicarse la prueba, o que allí existen los medios probatorios que se pretende probar.
 
-Los documentos privados y la correspondencia procedentes de uno de los interesados, que se presenten por otro, se reconocerán por aquél.
+###### Artículo 251.
 
-Con este objeto se le mostrarán originales y se le dejará ver todo el documento.
+Contra el auto en que se conceda y fije el término extraordinario no cabe recurso alguno. El auto en que se deniegue será apelable en el efecto devolutivo, cuando fuera apelable la sentencia definitiva.
 
-###### ARTICULO 263.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando el Ministerio Público estime que pueden encontrarse pruebas del delito que motiva la instrucción en la correspondencia que se dirija al inculpado, pedirá al tribunal y éste ordenará que dicha correspondencia se recoja.
+###### Artículo 252.
 
-###### ARTICULO 264.
+Admitida la apelación en el caso del artículo anterior, el juicio seguirá su curso legal, hasta antes de que se dicte la sentencia definitiva.
 
-La correspondencia recogida se abrirá por el juez en presencia de su secretario, del Ministerio Público y del inculpado si estuviere en el lugar.
+###### Artículo 253.
 
-Enseguida el juez leerá para sí la correspondencia; si no tuviere relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia, si aquél no estuviere presente; si tuviere relación le comunicará su contenido, y la mandará agregar al expediente.
+Si el superior revoca el auto del juez que negó el término extraordinario, el juzgado mandará practicar las diligencias de prueba correspondientes.
 
-###### ARTICULO 265.
+###### Artículo 254.
 
-El tribunal podrá ordenar que se faciliten por cualquiera oficina telegráfica, copias autorizadas de los telegramas por ella transmitidos o recibidos, si pudiere esto contribuir al esclarecimiento de los hechos.
+Durante el término extraordinario sólo pueden practicarse la prueba o pruebas que lo motivaron, sin perjuicio de aprovechar para este mismo fin, el término común.
 
-###### ARTICULO 266.
+###### Artículo 255.
 
-El auto motivado que se dicte en los casos de los tres artículos que preceden, determinará con exactitud el nombre del destinatario, cuya correspondencia deba ser recogida.
+El término común de prueba, su ampliación y el término extraordinario concluyen por el solo transcurso del plazo señalado; sin embargo, el juez puede dar por concluido uno y otro, o suspenderlo cuando las partes lo soliciten de común acuerdo o cuando se hayan rendido todas las pruebas para cuyo efecto fueron concedidos, previa solicitud de parte y con audiencia de la contraria para este último caso.
 
-###### ARTICULO 267.
+###### Artículo 256.
 
-Cuando a solicitud de parte el tribunal mande sacar testimonio de documentos privados existentes en los libros, cuadernos o archivos de comerciantes, industriales o de cualquier otro particular, el que pida la compulsa deberá indicar la constancia que solicita y el tribunal ordenará la exhibición de aquéllos para que se inspeccione lo conducente.
+El término común de prueba (sic) puede ampliarse cuando lo soliciten las partes de común acuerdo siempre que lo pidan antes de concluir aquél; pero la ampliación no debe exceder de veinticinco días y dentro de este plazo los jueces la concederán, a su juicio.
 
-En caso de resistencia del tenedor del documento, el tribunal, oyendo a aquél y a las partes presentes, resolverá de plano si debe hacerse la exhibición.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 268.
+###### Artículo 257.
 
-Los documentos redactados en idioma extranjero se presentarán originales, acompañados de su traducción al castellano.
+El litigante a quien se hubiere concedido el término extraordinario, será condenado a pagar una multa de sesenta a ciento ochenta cuotas, y a indemnizar a la parte contraria de los daños y perjuicios, si no rindiere la prueba o pruebas que hubiere propuesto practicar, y cuando las rendidas fueren inconducentes o inútiles. Esta sanción se impondrá en la sentencia.
 
-Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que designe el tribunal.
+###### Artículo 258.
 
-###### ARTICULO 269.
+Las diligencias de prueba practicadas en otros juzgados en virtud de requerimiento del juez de los autos durante la suspensión del término, surtirán sus efectos mientras el juez requerido no tenga aviso para suspenderlas.
 
-Las pruebas rendidas serán valorizadas en su conjunto por el juzgador conforme a su prudente arbitrio. Los tribunales expondrán en sus resoluciones, invariablemente, los razonamientos que hayan tenido en cuenta para hacer la valoración jurídica de las pruebas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-###### ARTICULO 270.
+###### Artículo 259.
 
-Cerrada la instrucción se mandará poner la causa a la vista del Ministerio Público por cinco días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso, o fracción, se aumentará un día al término señalado.
+En los términos y para los efectos del artículo 49, los jueces nunca tendrán limitación temporal en materia de prueba.
 
-###### ARTICULO 271.
+### CAPITULO VI
 
-El Ministerio Público, al formular sus conclusiones, hará una exposición breve de los hechos y de las circunstancias peculiares del procesado; propondrá las cuestiones de derecho que se presenten; y citará las leyes, ejecutorias o doctrinas aplicables. Dichas conclusiones deberán precisar si ha o no lugar a acusación.
+DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
 
-###### ARTICULO 272.
+###### Artículo 260.
 
-En el primer caso de la parte final del artículo anterior, deberá fijar en proposiciones concretas los hechos punibles que atribuya al acusado, solicitar la aplicación de las sanciones correspondientes, incluyendo la de reparación del daño, cuando proceda, y citar las leyes aplicables al caso. Estas proposiciones deberán contener los elementos constitutivos del delito y las circunstancias que deban tomarse en cuenta para imponer la sanción.
+La confesión puede ser judicial o extrajudicial.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+###### Artículo 261.
 
-###### ARTICULO 273.
+Es judicial la confesión que se hace en juicio al preparar o promover la demanda, al contestar ésta, al absolver posiciones, en cualquier escrito que presenten las partes y en cualquier otro acto del juicio aunque no intervenga el juez.
 
-Si las conclusiones fueren de no acusación; si en las formuladas no se comprendiere algún delito que resulte probado de la instrucción o se omitiera petición por cuanto a reparación del daño; si fueren contrarias a las constancias procesales; o si en ellas no cumpliere con lo dispuesto en el artículo 272, el tribunal las enviará, con el expediente, al Procurador General de Justicia, señalando con claridad el motivo del envío.
+###### Artículo 262.
 
-La inobservancia de esta obligación por parte del juzgador será sancionada con suspensión de uno a tres meses de su cargo, y definitiva, de reincidir.
+Se considera extrajudicial la confesión que se hace ante cualquiera otra autoridad que no sea el juez de los autos.
 
-###### ARTICULO 274.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-El Procurador General de Justicia, oirá el parecer del Agente Auxiliar respectivo, y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverá si son de confirmarse, revocarse o modificarse las conclusiones.
+###### Artículo 263.
 
-###### ARTICULO 275.
+Las personas físicas que sean parte en un juicio, sólo están obligadas a declarar bajo protesta, por una sola vez, en cualquier estado del juicio, desde que es abierto a pruebas y hasta antes de que se dicte el decreto mandando correr los traslados para alegar, cuando así lo exigiere el contrario, sin que por esto se suspenda el curso de los autos. En los mismos términos podrán articularse posiciones al procurador sobre hechos personales y que tengan relación con el asunto. En los juicios especiales sólo se podrá ofrecer la confesión en la audiencia de pruebas y alegatos respectiva.
 
-Las conclusiones acusatorias ya sean formuladas por el Agente o por el Procurador, en su caso, se harán conocer al acusado y a su defensor, dándoles vista de todo el proceso, a fin de que, en un término igual al que para el Ministerio Público señala el artículo 270, contesten el escrito de acusación y formulen, a su vez, las conclusiones que crean procedentes.
+El mandatario o representante que comparezca a absolver posiciones por alguna de las partes, forzosamente será conocedor de todos los hechos controvertidos propios de su mandante o representado, y no podrá manifestar desconocer los hechos propios de aquél por quien absuelve, ni podrá manifestar que ignora la respuesta o contestar con evasivas, ni mucho menos negarse a contestar o abstenerse de responder de modo categórico en forma afirmativa o negativa, pues de hacerlo así se le declarará confeso de las posiciones que calificadas de legales se le formulen.
 
-Cuando los acusados fueren varios, el término será común para todos.
+Tratándose de personas morales, la absolución de posiciones siempre se llevará a efecto por apoderado o representante, con facultades para absolver, sin que se pueda exigir que el desahogo de la confesional se lleve a cabo por apoderado o representante específico. En este caso, también será aplicable lo que se ordena en el párrafo anterior.
 
-###### ARTICULO 276.
+###### Artículo 264.
 
-Si al concluirse el término concedido al acusado y a su defensor, éstos no hubieren presentado conclusiones, se tendrán por formuladas las de inculpabilidad.
+No se admitirá la prueba de confesión cuando el reo hubiere sido emplazado por los periódicos, sino cuando se haya hecho sabedor del juicio o sea posible notificarle en persona por haberse averiguado su habitación.
 
-###### ARTICULO 277.
+###### Artículo 265.
 
-El sobreseimiento procederá en los casos siguientes:
+El que haya de absolver posiciones será citado personalmente, a más tardar el día anterior al señalado para la diligencia; bajo el apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso.
 
-I.- Cuando el Procurador General de Justicia confirme o formule conclusiones no acusatorias;
+###### Artículo 266.
 
-II.- Cuando el Ministerio Público se desista de la acción penal intentada;
+La parte está obligada a absolver personalmente las posiciones cuando así lo exija el que las articula, o cuando el apoderado ignore los hechos.
 
-> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+Es permitido articular posiciones al procurador que tenga poder especial para absolverlas, o general con cláusula para hacerlo.
 
-III.- Cuando la acción penal o el decreto a querellarse, estén extinguidos;
+El cesionario se considera como apoderado del cedente para los efectos del inciso que precede.
 
-IV.- Cuando no se hubiere dictado auto de formal prisión o de sujeción a proceso y aparezca que el hecho que motiva la averiguación no constituye delito, o cuando estando agotada ésta se compruebe que no existió el hecho delictuoso que la motivó;
+Si el que debe de absolver posiciones estuviere ausente, el juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las preguntas previa la calificación; y del cual deberá sacar previamente una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la secretaría del tribunal. El juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
 
-V.- Cuando habiéndose decretado la libertad por desvanecimiento de datos esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+Si en el acto de la diligencia se articularen nuevas posiciones, éstas serán calificadas por el Juez exhortado, para cuyo efecto se acompañará con el exhorto copia certificada de la demanda y en su caso de la contestación si la hubiere y demás constancias pertinentes, además de la reconvención y contestación a la misma en el supuesto de haberse formulado.
 
-VI.- Cuando por comprobarse plenamente una causa excluyente de incriminación en términos del artículo 20 del Código Penal, el inculpado no llegue a ser declarado formalmente preso.
+###### Artículo 267.
 
-###### ARTICULO 278.
+Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no han de contener cada una más que un solo hecho y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que existe entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tiene por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder con el objeto de obtener una confesión contraria a la verdad.
 
-El procedimiento cesará y el expediente se mandará archivar en los casos de la fracción IV del artículo anterior, o cuando esté plenamente comprobado que los únicos presuntos responsables se hallan en alguna de las circunstancias a que se refieren las fracciones I, II, III, V y VI del mismo; pero si alguno no se encontrare en tales condiciones, el procedimiento continuará por lo que a él se refiere, siempre que no deba suspenderse en los términos del Capítulo III de la Sección Segunda del Título Decimoprimero.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando se siga el procedimiento por dos o más delitos y por lo que toca a alguno exista causa de sobreseimiento, éste se decretará por lo que al mismo se refiere y continuará el procedimiento en cuanto a los demás delitos, siempre que no deba suspenderse.
+###### Artículo 268.
 
-###### ARTICULO 279.
+Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El Juez deberá ser escrupuloso en el cumplimiento de este precepto.
 
-El sobreseimiento puede decretarse de oficio o a petición de parte, en los casos de las fracciones I a IV del artículo 277 y en la última forma en los demás.
+###### Artículo 269.
 
-###### ARTICULO 280.
+El que articula las preguntas, ya sea la parte misma, ya sea su apoderado, tiene derecho de asistir al interrogatorio y de hacer en el acto las nuevas preguntas que le convengan.
 
-El sobreseimiento se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
+###### Artículo 270.
 
-###### ARTICULO 281.
+La confesión judicial sólo produce efecto en lo que perjudica al que la hace, no en lo que le aprovecha.
 
-No podrá dictarse auto de sobreseimiento después de que hayan sido formuladas conclusiones por el Ministerio Público, excepto en los casos a que se refieren las fracciones I y II del artículo 277.
+###### Artículo 271.
 
-###### ARTICULO 282.
+No se procederá a citar a alguno para que absuelva posiciones, sino después de haber sido presentado el pliego que las contenga. Si éste se presentare cerrado deberá guardarse así en el secreto del Tribunal asentándose la razón respectiva en la misma cubierta que firmarán el juez y el secretario.
 
-El inculpado a cuyo favor se haya decretado el sobreseimiento será puesto en absoluta libertad respecto al delito por el que se decretó.
+###### Artículo 272.
 
-###### ARTICULO 283.
+Si el citado comparece, el juez en presencia de aquel abrirá el pliego, se impondrá de las posiciones y antes de proceder al interrogatorio, calificará las preguntas conforme a los artículos 267 y 268.
 
-El auto de sobreseimiento surtirá los efectos de una sentencia absolutoria y una vez ejecutoriado, tendrá valor de cosa juzgada.
+###### Artículo 273.
 
-###### ARTICULO 284.
+Hecha la protesta de decir verdad, el juez procederá al interrogatorio, asentando literalmente las respuestas, y concluída la diligencia, la parte absolvente firmará al margen el pliego de posiciones.
 
-El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en el momento en que se haga la declaración a que se refiere el artículo 276, se citará a una audiencia que deberá efectuarse dentro de los cinco días siguientes. La citación para esa audiencia produce los efectos de citación para sentencia.
+###### Artículo 274.
 
-###### ARTICULO 285.
+En ningún caso se permitirá que la parte que ha de absolver un interrogatorio de posiciones esté asistida por su abogado, apoderado, ni de ninguna otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente no supiere hablar el castellano podrá ser asistido por un intérprete, si lo pidiere, en cuyo caso el juez lo nombrará.
 
-En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del tribunal, y si hubieren sido solicitados por las partes a más tardar el día siguiente al en que se notificó el auto, citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso, con lo que terminará la diligencia.
+###### Artículo 275.
 
-Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
+Las contestaciones deberán ser categóricas, en sentido afirmativo o negativo, pudiendo el que las dé, agregar las explicaciones que estime convenientes, o las que el juez le pida. En el caso de que el declarante se negare a contestar o contestare con evasivas, o dijere ignorar los hechos propios, el juez lo apercibirá en el acto, de tenerlo por confeso sobre los hechos de los cuales sus respuestas no fueren categóricas o terminantes.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+###### Artículo 276.
 
-###### ARTICULO 286.
+Si la negativa se fundare en la ilegalidad de las posiciones, el juez en el acto decidirá conforme al artículo 267.
 
-Cuando se trate de delitos cuya sanción no exceda de dos años de prisión o en los que la aplicable no sea privativa de libertad, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose la sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los artículos 273 y 274.
+###### Artículo 277.
 
-### CAPITULO VI. Confrontación
+El que haya sido llamado a declarar, además de la firma de que habla el artículo 273 deberá firmar su declaración. Si no supiere o no quisiere firmar, lo harán el juez y el secretario, haciéndose constar esta circunstancia.
 
-###### ARTICULO 287.
+###### Artículo 278.
 
-La aclaración procede únicamente tratándose de sentencias definitivas y sólo una vez puede pedirse.
+La declaración una vez firmada no puede variarse ni en la substancia ni en la redacción.
 
-###### ARTICULO 288.
+###### Artículo 279.
 
-La aclaración se pedirá ante el tribunal que haya dictado la sentencia, dentro de los términos de tres días, contados desde la notificación y expresando claramente la contradicción, ambigüedad, obscuridad o deficiencia de que, en concepto del promovente, adolezca la sentencia.
+Si fueren varios los que hayan de absolver las posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo día, evitando que los que absuelvan primero se comuniquen con los que hayan de absolver después.
 
-###### ARTICULO 289.
+###### Artículo 280.
 
-De la solicitud respectiva se dará vista a las otras partes por tres días, para que expongan lo que estimen procedente.
+El que deba de absolver posiciones será declarado confeso:
 
-###### ARTICULO 290.
+I.- Cuando sin justa causa no comparezca;
 
-El tribunal resolverá dentro de tres días si es de aclararse la sentencia y en qué sentido, o si es improcedente la aclaración.
+II.- Cuando se niegue a declarar;
 
-###### ARTICULO 291.
+III.- Cuando al hacerlo insista en no responder afirmativa o negativamente.
 
-Cuando el tribunal que dictó la sentencia estime que debe aclararse, dictará auto expresando las razones que crea existan para hacer la aclaración. Dará a conocer esa opinión a las partes para que éstas, dentro de tres días, expongan lo que estimen conveniente y enseguida procederá en la forma que dispone el artículo anterior.
+En el primer caso, el juez abrirá el pliego y calificará las posiciones antes de hacer la declaración.
 
-###### ARTICULO 292.
+###### Artículo 281.
 
-En ningún caso se alterará, a pretexto de aclaración, el fondo de la sentencia.
+No podrá ser declarado confeso el llamado a absolver posiciones, si no hubiere sido apercibido legalmente.
 
-###### ARTICULO 293.
+La declaración se hará cuando la parte contraria lo pidiere, después de contestada la demanda hasta que el negocio quede en estado de sentencia.
 
-La resolución en que se aclare una sentencia se reputará parte integrante de ella.
+###### Artículo 282.
 
-###### ARTICULO 294.
+El auto en que se declare confeso al litigante, conforme al artículo anterior, o el en que se deniegue esta declaración, es apelable en el efecto devolutivo, siempre que atendiendo al interés del negocio, pueda apelarse de la sentencia definitiva.
 
-Contra la resolución que se dicte otorgando o negando la aclaración, no procede recurso alguno.
+###### Artículo 283.
 
-###### ARTICULO 295.
+Se tendrá por confeso el articulante respecto de los hechos propios que afirmare en las posiciones.
 
-La aclaración propuesta interrumpe el término señalado para la apelación.
+###### Artículo 284.
 
-###### ARTICULO 296.
+Cuando la confesión se haga al contestar o formular la demanda o en cualquier otro acto del juicio, no será necesaria la ratificación para que aquélla sea válida y perfecta.
 
-Son irrevocables y causan ejecutoria:
+###### Artículo 285.
 
-I.- Las sentencias pronunciadads (sic) en primera instancia cuando se hayan consentido expresamente o cuando, concluído el término que la ley señala para interponer algún recurso, no se haya interpuesto; y
+Las autoridades, las corporaciones oficiales y los establecimientos que forman parte de la administración pública, no absolverán posiciones en la forma que establecen los artículos anteriores, pero la parte contraria podrá pedir que se les libre oficio, insertando las preguntas que quiera hacerles, para que, por vía de informe sean contestadas dentro del término que designe el juez o tribunal que no exceda de ocho días, apercibiendo a la parte absolvente que si dentro del término fijado no se recibe su contestación se le tendrá por confesa, dándose por absueltas las posiciones en sentido afirmativo. Esta declaración se hará según lo dispuesto en este Capítulo, que salvo la modificación hecha en el presente artículo, se observará en todas sus disposiciones.
 
-II.- Las sentencias contra las cuales no dé la ley recurso alguno.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 297.
+###### Artículo 286.
 
-Solamente los autos contra los cuales no se conceda por este Código el recurso de apelación, serán revocables por el tribunal que los dictó.
+En caso de personas que se encuentren imposibilitadas para trasladarse al local del Tribunal en razón de que su edad sea mayor a los setenta años o de padecer una enfermedad legalmente comprobada, el personal autorizado del Tribunal se trasladará al domicilio de aquéllas o al lugar en el que se encuentren a fin de efectuar la diligencia, misma que podrá realizarse en presencia de la otra parte, si asistiere.
 
-También lo serán las resoluciones que se dicten en segunda instancia antes de la sentencia.
+### CAPITULO VII
 
-###### ARTICULO 298.
+DE LA PRUEBA TESTIMONIAL.
 
-Interpuesto el recurso, en el acto de la notificación o dentro de las veinticuatro horas siguientes, el tribunal lo resolverá de plano si estimare que no es necesario oír a las partes. En caso contrario, las citará a una audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
+###### Artículo 287.
 
-###### ARTICULO 299.
+Son documentos públicos:
 
-El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó inexactamente la ley, si se violaron los principios reguladores de la valoración de la prueba y del arbitrio judicial o si se alteraron los hechos, confirmando, revocando o modificando la resolución apelada.
+I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho y las escrituras originales mismas;
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 300.
+II.- Los documentos auténticos expedidos por servidores públicos en lo que se refiere al ejercicio de sus funciones;
 
-La segunda instancia se abrirá a petición de parte legítima, para resolver sobre los agravios que estime al apelante le cause la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el acusado, o siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente. En este último caso, el tribunal de alzada lo comunicará al Procurador General de Justicia del Estado, a los efectos de su representación.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 301.
+III.- Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos, o dependientes del Gobierno Federal o de los Estados, de los Ayuntamientos y delegaciones del Distrito Federal.
 
-Tienen derecho de apelar, el Ministerio Público, el inculpado y los defensores.
+IV.- Las certificaciones de actas del estado civil expedidas por los oficiales del registro civil, respecto a constancias existentes en los libros correspondientes;
 
-###### ARTICULO 302.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Son apelables en ambos efectos las sentencias definitivas y los autos que concedan o nieguen la libertad por desvanecimiento de datos.
+V.- Las certificaciones de constancias existentes en los archivos públicos, expedidos por servidores públicos a quienes compete;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+VI.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del registro civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
 
-###### ARTICULO 303.
+VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, universidades, siempre que estuvieren aprobadas por el Gobierno Federal o de los Estados y las copias certificadas que de ellas se expidieren;
 
-Son apelables en efecto devolutivo:
+VIII.- Las actuaciones judiciales de toda especie;
 
-I.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III a VI del artículo 277 y aquellos en que se niegue el sobreseimiento;
+IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley y las expedidas por corredores titulados con arreglo al Código de Comercio;
 
-II.- Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos, y los que decreten la separación de autos;
+X.- Los demás a los que se les reconozca ese carácter por la ley.
 
-III.- Los autos de formal prisión; los de sujeción a proceso, y los de falta de elementos para procesar;
+###### Artículo 288.
 
-> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+Por testimonio se entiende la copia de una escritura pública expedida por el notario ante quien se otorgó, por el que lo sustituya conforme a la ley, o por la autoridad encargada de los archivos notariales, en su caso.
 
-IV.- Los autos en que se conceda niegue o revoque la libertad provisional bajo caución y los que resuelvan algún incidente no especificado. Si la inconformidad versa únicamente sobre el monto de la caución en que se concedió la libertad, procede el recurso de revocación.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-V.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
+###### Artículo 289.
 
-VI.- Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria; o a librar el oficio inhibitorio a que se refiere el artículo 361; y
+Auténtico se llama a todo documento que está autorizado y firmado por servidor público que tenga derecho a certificar y que lleve el sello de la oficina respectiva.
 
-VII.- Las demás resoluciones que señala la ley.
+###### Artículo 290.
 
-###### ARTICULO 304.
+Documento privado es el no comprendido en la enumeración expresada y que carece de los requisitos que indican los artículos anteriores.
 
-La apelación podrá interponerse en el acto de la notificación o por escrito o comparecencia dentro de los cinco días siguientes, si se tratare de sentencia, o de tres días si se interpusiere contra un auto.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 305.
+###### Artículo 291.
 
-Al notificar al procesado la sentencia definitiva de primera instancia, se le hará saber el término que la ley concede para interponer el recurso de apelación; lo que se hará constar en el proceso.
+Los documentos públicos expedidos por autoridades federales o servidores públicos de los Estados o sus Municipios y del Distrito Federal harán fe en el Estado sin necesidad de legalización.
 
-La omisión de este requisito surte el efecto de duplicar el término legal para interponer el recurso, y el secretario que haya incurrido en ella, será castigado disciplinariamente por el tribunal que conozca del recurso, con una multa de cinco a cincuenta pesos.
+###### Artículo 292.
 
-###### ARTICULO 306.
+Para que hagan fe en el Estado los documentos públicos procedentes del extranjero, deberán llenar los requisitos que fija el Código Federal de Procedimientos Civiles.
 
-Interpuesto el recurso dentro del término legal, el tribunal que dictó la resolución apelada lo admitirá o lo desechará de plano, según que sea o no procedente conforme a las disposiciones anteriores.
+###### Artículo 293.
 
-Contra el auto que admita la apelación no procede recurso alguno, sin perjuicio de lo que dispone el artículo 309.
+Los documentos redactados en idioma extranjero se presentarán originales acompañados de su traducción a la lengua nacional. Si la traducción no fuere objetada dentro del tercer día por el colitigante, se considerará correcta. Si fuere objetada, el juez someterá el caso a dictamen pericial.
 
-###### ARTICULO 307.
+###### Artículo 294.
 
-Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia; caso de no hacerlo, se le tendrá como defensor al de oficio.
+Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento, o pieza que obra en los archivos públicos, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 308.
+###### Artículo 295.
 
-Admitida la apelación en ambos efectos, dentro de cinco días se remitirá original el proceso al tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios a que se refiere el artículo 426.
+Los documentos existentes en distrito judicial distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el Juez de los autos, al del lugar en que aquéllos se encuentren.
 
-Cuando la apelación se admita en el efecto devolutivo, se formará testimonio de lo que las partes designen y de lo que el tribunal estime conveniente, y se remitirá para los efectos de la alzada a más tardar dentro de treinta días.
+###### Artículo 296.
 
-Para formar el testimonio de apelación, pueden emplearse máquinas fotocopiadoras u otras similares, con el fin de agilizar el trámite. En todo caso las copias pueden ser compulsadas y autorizadas por el secretario del juzgado.
+Los instrumentos públicos que hayan venido al pleito sin citación de la contraria, se tendrán por legítimos y eficaces salvo que se impugnare expresamente su autenticidad o exactitud. En este último caso, se decretará el cotejo con los protocolos y archivos, que se practicará por el secretario, constituyéndose al efecto en el archivo o local donde se halle el original en presencia de las partes si concurrieren, a cuyo fin se señalará previamente el día y hora.
 
-### CAPITULO VII. C a r e o s
+También podrá hacerlo el juez por sí, cuando lo estime conveniente.
 
-###### ARTICULO 309.
+###### Artículo 297.
 
-Recibido el proceso o el testimonio en el tribunal de apelación, éste dentro del término de tres días, declarará si el recurso ha sido bien o mal admitido. En el último caso se devolverán los autos al Juzgado de su origen.
+Los documentos privados y la correspondencia procedentes de uno de los interesados, que se presenten por el otro, no necesitarán ser reconocidos por aquel para hacer fé, aún cuando aparezcan firmados a su nombre por tercera persona. También harán fe los libros de los comercciantes (sic) en los términos establecidos por el Código de Comercio.
 
-###### ARTICULO 310.
+###### Artículo 298.
 
-Si el recurso fuere admitido, el tribunal pondrá los autos a la vista del apelante quien, en el término de tres días, podrá promover las pruebas que sean admisibles en la segunda instancia, las que, en su caso, se desahogarán en un término no mayor de diez días, sin contar los que se empleen en la ida y regreso del correo. Si el apelante no promoviere pruebas, dentro del término de seis días contado desde la fecha en que se le dé vista, expresará agravios.
+Si hubiere de darse testimonio de documentos privados que obren en poder de particulares se exhibirán al secretario del juzgado respectivo y éste los testimoniará en lo que señalen los interesados.
 
-###### ARTICULO 311.
+###### Artículo 299.
 
-Ante el tribunal de apelación no se admitirán más pruebas que la confesional, la testimonial cuando se refiera a hechos que no hayan sido materia de examen en primera instancia, la pericial, cuando se trate de avalúos y éstos no se hubieren practicado durante la instrucción, ampliaciones de dictámenes y la documental, que es admisible hasta antes de la citación para sentencia.
+Los terceros están obligados a exhibir al juzgado los documentos que tengan en su poder en relación con el negocio, sin más limitación que esté prohibida por la ley o sea contraria a la moral.
 
-###### ARTICULO 312.
+Los daños y perjuicios que se ocasionen al tercero por exhibir esos documentos serán indemnizados por la parte que ofreció la prueba o, por ambas, si el juez procedió de oficio, sin perjuicio de hacer la condenación de costas en su oportunidad.
 
-Recibidas las pruebas, se señalará al apelante el término de seis días para que exprese agravios. Expresados los agravios se pondrán los autos a la vista de la otra parte por igual término para que los conteste, citándose a las partes para oír sentencia, la que se pronunciará en un término que no exceda de quince días.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 313.
+###### Artículo 300.
 
-En casos absolutamente necesarios, después de la citación para sentencia, si el tribunal de apelación estimare pertinente la práctica de alguna diligencia para ilustrar su criterio, podrá decretarla para mejor proveer, y se desahogará dentro del término de diez días.
+Si el documento se encuentra en libro o papeles de casa de comercio o de algún establecimiento industrial, el que pida el documento o la constancia, deberá fijar con precisión cuál sea y la copia testimoniada se obtendrá en el local del establecimiento, sin que los directores de él estén obligados a llevar al Tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados.
 
-###### ARTICULO 314.
+###### Artículo 301.
 
-Si solamente hubiere apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
+Las partes sólo podrán impugnar de falsedad los documentos durante el término probatorio, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad en los casos en que la Ley lo permita, deberán ser impugnados dentro de los tres días contados desde que surta efectos el auto que ordene su recepción, observándose para ello el procedimiento incidental y reservándose su decisión para la definitiva.
 
-Si se tratare de auto de formal prisión o de sujeción a proceso, podrá variarse la clasificación del delito y dictarse por el que aparezca probado.
+###### Artículo 302.
 
-###### ARTICULO 315.
+Cuando se impugne la autenticidad de un documento podrá pedirse el cotejo en el incidente a que se refiere el artícculo (sic) anterior.
 
-Cuando el acusado o su defensor no expresaren agravios dentro del término legal, el tribunal de apelación tendrá por manifestada inconformidad con la resolución recurrida en cuanto perjudique al acusado y se continuará la tramitación del recurso.
+###### Artículo 303.
 
-###### ARTICULO 316.
+La persona que pida el cotejo designará el documento o documentos indubitables con que deba hacerse, o pedirá al tribunal que cite al interesado para que en su presencia ponga la firma o letras que servirán para el cotejo.
 
-Cuando el tribunal de apelación notare que el defensor faltó a sus deberes, por no haber interpuesto los recursos que procedían; por haber abandonado los interpuestos, cuando de las constancias de autos apareciere que debían prosperar; por no haber alegado circunstancias probadas en el proceso y que habrían favorecido notablemente al inculpado; por haber alegado hechos no probados en autos; o por no expresar agravios oportunamente, podrá imponerle una corrección disciplinaria o consignarlo al Ministerio Público si procediere. Si el defensor fuere de oficio, deberá, además, dar cuenta al Tribunal Pleno, llamándole la atención sobre la negligencia o ineptitud de dicho defensor.
+En este cotejo, procederán los peritos con sujeción a las reglas de la prueba pericial.
 
-###### ARTICULO 317.
+###### Artículo 304.
 
-El recurso de denegada apelación procede cuando ésta se haya negado, o cuando se conceda sólo en el efecto devolutivo, siendo procedente en ambos, aun cuando el motivo de la denegación sea que no se considera como parte al que intente el recurso.
+Se consideran indubitados para el cotejo:
 
-###### ARTICULO 318.
+I.- Los documentos que las partes reconozcan como tales, de común acuerdo;
 
-El recurso se interpondrá verbalmente o por escrito, dentro de los tres días siguientes al en que se notifique la resolución que niegue la apelación.
+II.- Los documentos privados cuya letra o firma hayan sido reconocidos en juicio por aquél a quien se atribuya la dudosa;
 
-###### ARTICULO 319.
+III.- Las firmas puestas en los instrumentos públicos o actuaciones judiciales en presencia del secretario por la parte cuya firma o letra se trata de comprobar.
 
-Interpuesto el recurso, el tribunal, sin más substanciación, mandará expedir al interesado dentro de tres días, certificado en el que brevemente expondrá la naturaleza y estado de las actuaciones, el punto sobre que recayó el auto apelado e insertará éste a la letra, así como el que lo haya declarado inapelable.
+###### Artículo 305.
 
-###### ARTICULO 320.
+El juez debe hacer por sí mismo la comprobación después de oír a los peritos revisores; no tiene obligación de sujetarse al dictamen de éstos y puede ordenar que se repita el cotejo por otros peritos.
 
-Cuando el tribunal de primera instancia no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito ante el de apelación, el cual mandará que el inferior remita el certificado dentro de veinticuatro horas, sin perjuicio de la responsabilidad a que hubiere lugar.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO VIII. D o c u m e n t o s
+###### Artículo 306.
 
-###### ARTICULO 321.
+En el caso de que una de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las disposiciones relativas del Código de Procedimientos Penales.
 
-Recibido por el promovente el certificado, deberá presentarlo ante el tribunal de apelación, dentro del término de tres días contados desde que se le entregue, si el tribunal reside en el mismo lugar. Si reside en otro, el de primera instancia señalará además de los tres días el término que sea necesario, atendidas las distancias y los medios de comunicación, sin que el término total pueda exceder de quince días. En caso de no presentarse el certificado dentro de los términos señalados, se tendrá al interesado por desistido del recurso.
+###### Artículo 307.
 
-###### ARTICULO 322.
+Los telegramas se tendrán como documentos públicos o privados según que sean firmados por funcionarios públicos en el ejercicio de sus funciones o por particulares.
 
-El tribunal de apelación, sin más trámite, citará para sentencia y pronunciará ésta dentro de los cinco días siguientes a la notificación.
+###### Artículo 308.
 
-###### ARTICULO 323.
+Si la parte contra quien se produce la prueba negare la autenticidad del telegrama, se procederá a la comprobación, y al efecto, se pedirá el original a la oficina que lo trasmitió, en la que quedará copia del mismo telegrama autorizado por el jefe de dicha oficina.
 
-Si la apelación se declara admisible, o se varía el grado, se pedirá el testimonio o el expediente, en su caso, al tribunal de primera instancia para substanciar la segunda.
+### CAPITULO VIII
 
-TITULO DECIMOPRIMERO
+DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS Y DEMAS ELEMENTOS.
 
-INCIDENTES
+###### Artículo 309.
 
-### CAPITULO IX. Valor jurídico de la prueba
+El juicio de peritos tendrá lugar cuando para conocer o apreciar algún hecho materia de prueba, sean necesarios conocimientos especiales en alguna ciencia, arte u oficio, y en los casos en que expresamente lo prevengan las leyes.
 
-###### ARTICULO 324.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Todo acusado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la sanción que corresponda al delito imputado no exceda de cinco años de prisión. Sin embargo los tribunales podrán negar la concesión de dicha libertad, teniendo en cuenta la peligrosidad del inculpado, las circunstancias especiales que concurran en el caso, la importancia del daño causado y, en general, las consecuencias que el delito haya producido o pueda producir.
+###### Artículo 310.
 
-La violación a la regla anterior será motivo de suspensión del juez hasta por un mes, independientemente de la responsabilidad penal en que haya incurrido.
+Cada parte dentro del tercer día nombrará un perito a no ser que se pusieren de acuerdo en el nombramiento de uno solo; el tercero en discordia será nombrado por el Juez. El oferente de la prueba señalará con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deberán resolver en la pericial, así como la cédula profesional, calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos. Si faltare cualquiera de los requisitos anteriores, el Juez apercibirá al oferente para que subsane la omisión dentro del término de veinticuatro horas; de no hacerlo así, se desechará de plano la prueba en cuestión.
 
-###### ARTICULO 325.
+Admitida la prueba, quedan obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, industria, ciencia u oficio para el que se les designa, manifestando, bajo protesta de decir verdad que conoce los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro del término que discrecionalmente fije el Juez. En el caso de discrepancia de los dictámenes el juez designará un perito tercero en discordia y, de ser necesario, ordenará que dictamine fuera del término probatorio o de la audiencia de pruebas y alegatos en aquellos juicios que la tengan.
 
-Cuando proceda la libertad caucional, inmediatamente que se solicite, se decretará en la misma pieza de autos.
+###### Artículo 311.
 
-###### ARTICULO 326.
+Si fueren más de dos los litigantes, nombrarán un perito los que sostengan unas mismas pretensiones, y otro los que las contradigan.
 
-Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
+###### Artículo 312.
 
-###### ARTICULO 327.
+Si los que deseen nombrar un perito no pudieren ponerse de acuerdo, el juez designará a uno de entre los que propongan los interesados, y el que fuere designado practicará la diligencia.
 
-El monto de la caución se fijará por el tribunal, quien tomará en consideración:
+###### Artículo 313.
 
-I.- Los antecedentes del inculpado;
+El juez nombrará los peritos que correspondan a cada parte en los siguientes casos:
 
-II.- La gravedad y circunstancias del delito imputado;
+I.- Si alguno de los litigantes dejare de hacer el nombramiento en el término señalado en el artículo 310;
 
-III.- El mayor o menor interés que pueda tener el inculpado en substraerse a la acción de la justicia;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-IV.- Las condiciones económicas del inculpado; y
+II.- Cuando el designado por las partes no acepte el cargo en los términos del artículo 310.
 
-V.- La naturaleza de la garantía que se ofrezca.
+III.- Cuando habiendo aceptado no rindiere su dictamen dentro del término fijado o en la diligencia respectiva.
 
-###### ARTICULO 328.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad, manifestará la forma que elige para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor, no hagan la manifestación mencionada, el tribunal de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
+IV.- Cuando el que fuere nombrado y aceptó el cargo lo renunciare, si el interesado en la prueba no hace nueva designación dentro de dos días contados a partir de la notificación del auto que acepte la renuncia.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+V.- Si el designado por los litigantes no se encotrare (sic) en el lugar del juicio o en el que deba practicarse la prueba, o no se hubiere señalado su domicilio.
 
-###### ARTICULO 329.
+Contra la resolución que se dicte en estos casos, no habrá recurso alguno.
 
-La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas en la Tesorería General del Estado a través de las Oficinas de Hacienda del lugar en que tenga jurisdicción el Juez que la hubiese acordado. El certificado de depósito correspondiente, se guardará en la caja de valores del Tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado no pueda constituirse el depósito directamente en las oficinas hacendarias, el tribunal recibirá la cantidad en efectivo, y la mandará depositar en aquéllas a primera hora del siguiente día hábil.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 330.
+###### Artículo 314.
 
-Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución.
+Los peritos deben tener título en la ciencia, arte, técnica, oficio o industria relacionada con el punto sobre el que ha de oírse su juicio, si la profesión o el arte estuvieren legalmente reglamentados; pero, si no estuvieren reglamentados o aun estándolo no hubiere peritos en el lugar, podrán ser nombrados cualesquiera personas entendidas, aun cuando no tengan título.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+###### Artículo 315.
 
-###### ARTICULO 331.
+El juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla. En cualquiera otro caso fijará a los peritos un término prudente para que presenten dictamen.
 
-Cuando se ofrezca como garantía fianza personal por cantidad que no exceda de mil pesos, quedará bajo la responsabilidad del tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
+###### Artículo 316.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-###### ARTICULO 332.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-Cuando la fianza sea por cantidad mayor de mil pesos, se regirá por lo dispuesto en los artículos del 2783 al 2788 del Código Civil del Estado. Cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas, se requerirá que tengan bienes raíces suficientes en el Estado.
+I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, incurrirá en una multa de diez a cincuenta cuotas, y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 313;
 
-###### ARTICULO 333.
+II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse, para que los peritos discutan y deliberen solos;
 
-Los bienes inmuebles de los fiadores deben tener, cuando menos, un valor libre tres veces mayor que el monto de la caución señalada.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 334.
+III.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un término prudente para que lo rindan. Cuando discordaren los peritos, dictaminará el tercero, solo o asociado con los otros.
 
-Las fianzas de que habla este capítulo se extenderán en la misma pieza de autos o se agregarán a éstos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 335.
+###### Artículo 317.
 
-El fiador, excepto cuando se trate de las instituciones o empresas mencionadas en el artículo 332, declarará ante el tribunal bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancias de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
+El Perito que nombre el Juez puede ser recusado dentro de los dos días siguientes a la fecha de su designación, siempre que concurra alguna de las siguientes causas:
 
-###### ARTICULO 336.
+I.- Consanguinidad dentro del cuarto grado;
 
-Al notificarse al inculpado el auto que le conceda la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante el tribunal que conozca de su caso los días fijados que estime conveniente señalarle y cuantas veces sea citado o requerido para ello; comunicar al mismo tribunal los cambios de domicilio que tuviere, y no ausentarse del lugar sin permiso del citado tribunal, el que no se le podrá conceder por tiempo mayor de un mes.
+II.- Interés directo o indirecto en el pleito, y haber prestado servicios como tal perito al litigante contrario;
 
-También se le hará saber las causas de revocación de la libertad caucional.
+III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
 
-En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones y las causas de revocación; pero la omisión de este requisito no librará de ellas ni de sus consecuencias al inculpado.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 337.
+El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer.
 
-Cuando el inculpado haya garantizado por sí mismo su libertad con depósito o con hipoteca, aquélla se le revocará en los casos siguientes:
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
 
-I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto;
+Contra la resolución en que se admita o deseche la recusación no procede recurso alguno.
 
-II.- Cuando antes de que el expediente en que se le concedió la libertad esté concluído por sentencia ejecutoria, cometiere un nuevo delito que merezca sanción privativa de libertad;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-III.- Cuando amenazare al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su asunto, o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del tribunal, o al Agente del Ministerio Público que intervenga en el caso;
+Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
 
-IV.- Cuando lo solicite el mismo inculpado y se presente al tribunal;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-V.- Cuando aparezca con posterioridad que le corresponde al inculpado una sanción que no permita otorgar la libertad;
+###### Artículo 318.
 
-VI.- Cuando en el proceso cause ejecutoria la sentencia dictada en primera o segunda instancia;
+En caso de ser desechada la recusación, se impondrá una multa de sesenta cuotas, en favor del colitigante.
 
-VII.- Cuando el inculpado no cumpla con alguna de las obligaciones a que se refiere el artículo 336.
+###### Artículo 319.
 
-###### ARTICULO 338.
+El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el juez y, el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
 
-Cuando un tercero haya garantizado la libertad del inculpado por medio de depósito en efectivo, de fianza o de hipoteca aquélla se revocará:
+###### Artículo 320.
 
-I.- En los casos que se mencionan en el artículo anterior;
+En los casos en que la ley manda fijar el valor de los predios rústicos y urbanos, considerando sus productos como el rédito de un capital, se tendrán presentes las reglas siguientes:
 
-II.- Cuando el tercero pida que se le releve de la obligación y presente al inculpado;
+I.- Para fijar el término medio anual, se sumarán los productos de los últimos cinco años y se tomará la quinta parte de la suma;
 
-III.- Cuando con posterioridad se demuestre la insolvencia del fiador;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-IV.- En el caso del artículo 341.
+II.- Esta parte se capitalizará al tanto por ciento que convengan los interesados; y no habiendo convenio, al interés legal;
 
-###### ARTICULO 339.
+III.- Si no hubiere frutos en el último quinquenio, o éstos no fueren conocidos, los peritos darán su juicio según las reglas que enseñe su profesión;
 
-En los casos de las fracciones I y VII del artículo 337, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
+IV.- Si los precios de plaza o de los costos de construcción dieren un resultado notablemente diferente del de capitalización, los peritos expresarán uno y otro, y el juez, previa audiencia de los interesados, decidirá el que deba prevalecer;
 
-En los casos de las fracciones II, III, V y VI del mismo artículo y III del artículo 338, se ordenará la reaprehensión del inculpado. En los casos de las fracciones IV del artículo 337 y II del 338, se remitirá al inculpado al establecimiento que corresponda.
+V.- En todo avalúo decidirán los peritos los gastos de conservación, cultivo y reparaciones ordinarias, fijándolos por las constancias que se les suministren, y a falta de ellas, por las reglas de su arte y por las costumbres del lugar.
 
-###### ARTICULO 340.
+### CAPITULO IX
 
-El tribunal ordenará la devolución del depósito o mandará cancelar la garantía:
+DE LAS PRESUNCIONES.
 
-I.- Cuando de acuerdo con el artículo anterior se remita al inculpado al establecimiento correspondiente;
+###### Artículo 321.
 
-II.- En los casos de las fracciones II, III, V y VI del artículo 337, cuando se haya obtenido la reaprehensión del inculpado;
+El reconocimiento se practicará siempre previa citación de las partes, fijándose día, hora y lugar.
 
-III.- Cuando se decrete el sobreseimiento en el asunto o la libertad del inculpado;
+Las partes, sus representantes o abogados pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
 
-IV.- Cuando el acusado sea absuelto;
+También podrán concurrir a ellas los testigos de identidad o peritos que fueren necesarios.
 
-V.- Cuando resulte condenado el acusado y se presente a cumplir su condena.
+###### Artículo 322.
 
-###### ARTICULO 341.
+Del reconocimiento se levantará un acta que firmarán todos los que a él concurrieran, y en la que se asentarán con exactitud los puntos que lo hayan provocado, las declaraciones de los testigos y peritos, si los hubiere, y todo lo que el juez creyere conveniente para esclarecer la verdad.
 
-Cuando un tercero haya constituído depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentarlo, el tribunal podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de librar la orden de aprehensión si lo estima oportuno. Si concluído el plazo concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía en los términos del primer párrafo del artículo 339.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 342.
+###### Artículo 323.
 
-El importe de la caución se exigirá por la autoridad fiscal en los términos de la ley que reglamenta la facultad económico-coactiva.
+Cuando fuere necesario se levantarán planos, se marcarán las señas de los objetos que hayan sido reconocidos y se tomarán fotografías o videograbaciones de los lugares en que se practique la diligencia, a solicitud de parte o a juicio del Juez.
 
-###### ARTICULO 343.
+### CAPITULO X
 
-La libertad bajo protesta podrá decretarse siempre que concurran las circunstancias siguientes:
+DEL VALOR DE LAS PRUEBAS.
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+###### Artículo 324.
 
-I.- Que la sanción privativa de libertad que debe imponerse no exceda de dos años de prisión;
+Todo el que no tenga impedimento legal está obligado a declarar como testigo.
 
-II.- Que sea la primera vez que delinque el inculpado;
+###### Artículo 325.
 
-III.- Que éste tenga domicilio conocido en el lugar donde se sigue o deba seguirse el proceso, o dentro de la jurisdicción del tribunal respectivo;
+Tienen impedimento legal, y por tal motivo son tachables:
 
-IV.- Que la residencia del inculpado en dicho lugar sea de un año cuando menos;
+I.- El menor de catorce años, a menos que se trate de casos de imprescindible necesidad, a juicio del juez;
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+II.- Los dementes;
 
-V.- Que el inculpado tenga profesión, oficio, ocupación u otro modo honesto de vivir.
+III.- Los ebrios consuetudinarios y los vagos;
 
-VI.- Que a juicio de la autoridad que la conceda no haya temor de que el inculpado se substraiga a la acción de la justicia.
+IV.- EL que haya sido condenado por el delito de falsedad;
 
-La libertad bajo protesta se substanciará en la forma establecida para los incidentes no especificados.
+V.- Los parientes por consanguinidad, dentro del cuarto grado, y por afinidad dentro del segundo; a no ser que el juicio verse sobre edad, parentesco, filiación, divorcio o nulidad de matrimonio;
 
-Serán aplicables a la libertad bajo protesta las disposiciones contenidas en el artículo 336.
+VI.- Un cónyuge a favor del otro;
 
-###### ARTICULO 344.
+VII.- Los que tengan interés directo o indirecto en el pleito;
 
-Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisitos del artículo anterior, cuando cumpla la sanción impuesta en primera instancia, estando pendiente el recurso de apelación. Los tribunales acordarán de oficio la libertad de que trata este artículo.
+VIII.- Los que vivan a expensas o sueldo del que los presente, a excepción de los juicios de divorcio, en los que es admisible su testimonio; quedando reservada al juez la calificación de la fe que deba darse a sus dichos según las circunstancias;
 
-###### ARTICULO 345.
+IX.- El enemigo manifiesto;
 
-El auto en que se conceda la libertad bajo protesta, no surtirá sus efectos hasta que el inculpado proteste formalmente presentarse ante el tribunal que conozca del asunto, siempre que se le ordene.
+X.- El juez, en el pleito en que haya resuelto algún punto substancial;
 
-###### ARTICULO 346.
+XI.- El abogado y el apoderado en el negocio en que lo sean o hayan sido;
 
-La libertad bajo protesta se revocará en los casos siguientes:
+XII.- El tutor o el curador por los menores, y éstos por aquéllos mientras no fueren probadas las cuentas de la tutela;
 
-I.- Cuando el inculpado desobedeciere sin causa justa y probada la orden de presentarse al tribunal que conozca de su proceso;
+XIII.- El sordomudo, a no ser que sepa leer y escribir, pues entonces podrá dar su declaración por escrito;
 
-II.- Cuando cometiere un nuevo delito antes de que el proceso en que se concedió la libertad esté concluído por sentencia ejecutoria;
+XIV.- El tahur de profesión.
 
-III.- Cuando amenazare al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su proceso o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del tribunal, o al Agente del Ministerio Público que intervengan en su proceso;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-IV.- Cuando en el curso del proceso apareciere que el delito merece una sanción mayor que la señalada en la fracción I del artículo 343;
+###### Artículo 326.
 
-V.- Cuando dejare de concurrir alguna de las condiciones expresadas en las fracciones III, V y VI del artículo 343;
+La prueba testimonial deberá anunciarse y ofrecerse en la demanda y en la contestación, en la reconvención y en la contestación de ésta, designándose el nombre, apellidos y domicilio de los testigos; en caso de no cumplirse con los mencionados requisitos no se admitirá la prueba. El examen de testigos se hará con sujeción a los interrogatorios que presenten las partes; pero el Juez podrá ampliar las preguntas y repreguntas de una manera discrecional.
 
-VI.- Cuando recaiga sentencia condenatoria contra el inculpado y ésta cause ejecutoria.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 347.
+###### Artículo 327.
 
-La libertad por desvanecimiento de datos, procede en los siguientes casos:
+El interrogatorio y su copia se acompañará a la demanda o a la contestación, a la reconvención o contestación de ésta y en caso de no hacerlo así no se admitirá la prueba.
 
-I.- Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión aparezcan plenamente desvanecidos los datos que sirvieron para comprobar el cuerpo del delito;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-II.- Cuando en cualquier estado de la instrucción y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecido plenamente los considerados en el auto de formal prisión para tener al detenido como responsable.
+###### Artículo 328.
 
-###### ARTICULO 348.
+El Juez señalará día y hora para el desahogo de la prueba. Los litigantes podrán presentar interrogatorios de repreguntas, hasta antes del examen de los testigos.
 
-Para substanciar el incidente respectivo, hecha la petición por alguna de las partes, el tribunal las citará a una audiencia dentro del término de cinco días a la que el Ministerio Público deberá asistir.
+###### Artículo 329.
 
-La resolución que proceda se dictará dentro de las setenta y dos horas siguientes a la en que se celebró la audiencia.
+Los interrogatorios de preguntas y repreguntas deben ser concebidos en términos claros y precisos, sin comprender en una sola hechos o circunstancias diversos y sin sugerir por sí mismos la respuesta.
 
-###### ARTICULO 349.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-La conformidad del Ministerio Público para que se conceda la libertad por desvanecimiento de datos, que deberá ser revisada por el Procurador General de Justicia, no implica el desistimiento de la acción penal. En consecuencia, el tribunal puede negar dicha libertad a pesar de la petición favorable del Ministerio Público.
+###### Artículo 330.
 
-###### ARTICULO 350.
+Los Jueces examinarán el interrogatorio conforme al artículo anterior y al admitir la prueba mandarán dar copia de las preguntas a la otra parte, citando a los testigos, a más tardar el día anterior al en que deba practicarse la diligencia, citación que se hará con el apercibimiento de arresto hasta por treinta y seis horas o multa hasta por treinta cuotas que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar. Se tendrá por desierta la prueba si ejecutado los medios de apremio antes mencionados, no se logra la presentación del testigo.
 
-Cuando el inculpado solamente haya sido declarado sujeto a proceso, se podrá promover el incidente a que se refiere este Capítulo, para que quede sin efecto esa declaración.
+En el caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una sanción pecuniaria a favor del colitigante, equivalente hasta cien cuotas, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
 
-###### ARTICULO 351.
+###### Artículo 331.
 
-La resolución que conceda la libertad tendrá los mismos efectos que el auto de libertad por falta de elementos para procesar, quedando expedito el derecho del Ministerio Público para pedir nuevamente la aprehensión del inculpado, y la facultad del tribunal para dictar nuevo auto de formal prisión, si aparecieren posteriormente datos que les sirvan de fundamento y siempre que no se varíen los hechos delictuosos que motivaron el procedimiento.
+Sobre los hechos probados por confesión expresa, no podrá el que los haya confesado rendir prueba testimonial.
+
+###### Artículo 332.
+
+Los interrogatorios de repreguntas quedarán reservados en poder del juez y bajo su más estrecha responsabilidad, hasta el momento del examen de los testigos.
+
+###### Artículo 333.
+
+Los que citados legalmente se nieguen a comparecer sin causa justificada y los que habiendo comparecido se nieguen a declarar, serán apremiados por el tribunal.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 334.
+
+A las personas de más de setenta años y a los enfermos, podrá el Juez según las circunstancias recibirles la declaración en sus casas o en el lugar en el que se encuentren, en presencia de la otra parte, si asistiere.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 335.
+
+Al Gobernador, a los Diputados y demás servidores públicos que gocen de fuero, lo mismo que a los jueces letrados, generales con mando y jefes superiores de las oficinas federales, se pedirá su declaración por oficio y en esta forma la rendirán.
+
+###### Artículo 336.
+
+Si el testigo no reside en el lugar del juicio, será examinado por el juez del lugar en que resida, a quien, previa citación de la parte contraria, se librará exhorto u oficio en que se incluirán las preguntas que se hubieren formulado y en pliego cerrado las repreguntas, previa la calificación correspondiente.
+
+###### Artículo 337.
+
+Los testigos declararán bajo protesta de decir verdad, exceptuándose a los menores de catorce años.
+
+###### Artículo 338.
+
+El testigo responderá por sí mismo, de palabra, sin valerse de ningún borrador para formular sus respuestas; pero si la pregunta se refiere a cuentas, libros, o papeles, podrá permitírsele que los consulte para dar la contestación.
+
+###### Artículo 339.
+
+Las partes pueden asistir al interrogatorio de los testigos; pero no podrán interrumpirlos ni hacerles otras preguntas o repreguntas que las formuladas en sus respectivos interrogatorios. Sólo cuando el testigo deje de contestar algún punto, haya incurrido en contradicción o se haya expresado con ambigüedad, pueden las partes llamar la atención al juez, para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas. Las partes tienen derecho para tomar taquigráficamente o por cualquier medio mecánico científico, valiéndose de aparatos, el texto literal de las diligencias de testigos y pedir que las versiones de esas diligencias de testigos se autoricen por el juez si fueren exactas, a juicio de éste, para presentarlas como prueba.
+
+###### Artículo 340.
+
+Los testigos serán examinados separada y sucesivamente sin que unos puedan escuchar las declaraciones de los otros. A este efecto el juez fijará un mismo día para que se presenten los testigos que deban declarar conforme a un mismo interrogatorio y designará el lugar en que deben permanecer hasta la conclusión de la diligencia, salvo lo dispuesto en los artículos 334 a 336. Cuando no fuere posible terminar el examen de los testigos en un solo día, la diligencia se suspenderá para continuarla el siguiente, en el cual caso (sic) el juez prevendrá a los testigos que no se comuniquen con los que ya hubieren sido examinados.
+
+###### Artículo 341.
+
+El juez al examinar a los testigos puede hacerles las preguntas que estime conveniente, siempre que sean relativas a los hechos contenidos en los interrogatorios.
+
+###### Artículo 342.
+
+Si el testigo no sabe el idioma rendirá su declaración por medio de interprete que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma, por él o por el intérprete.
+
+###### Artículo 343.
+
+Las respuestas de los testigos se asentarán en su presencia, literalmente y sin abreviaturas, pudiendo ellos mismos escribirlas o dictarlas, así como rubricar las páginas en que se asienten.
+
+###### Artículo 344.
+
+El testigo podrá leer por sí mismo su declaración y deberá firmarla, ratificando antes su contenido. Si no puede o no sabe leer y escribir, la declaración será leída por el secretario, haciéndose constar esta circunstancia.
+
+###### Artículo 345.
+
+Regirá respecto a las declaraciones de los testigos lo que dispone el artículo 278.
+
+###### Artículo 346.
+
+Los testigos están obligados a dar la razón de su dicho y el juez deberá exigirla aunque no se pida en el interrogatorio. También deberán dar sus generales.
+
+###### Artículo 347.
+
+Inmediatamente después de que el testigo conteste al interrogatorio de preguntas, lo hará a las repreguntas.
+
+###### Artículo 348.
+
+Sobre los hechos que han sido objeto de un interrogatorio no puede presentarse otro en ninguna instancia del juicio.
+
+###### Artículo 349.
+
+Los gastos que hicieren los testigos y los perjuicios que sufran por presentarse a declarar, serán satisfechos por la parte que los haya llamado; salvo lo que se decida sobre condenación en costas.
+
+En caso de desacuerdo, estos gastos serán regulados por el tribunal, sin forma de juicio y sin ulterior recurso.
+
+###### Artículo 350.
+
+Cada uno de los litigantes puede presentar hasta cinco testigos, y el juez podrá carearlos ya con la parte que lo pida, ya con los presentados por la contraria, sobre el punto que discrepen.
+
+###### Artículo 351.
+
+El juez tendrá cuidado de calificar los interrogatorios en los términos de este Capítulo y contra sus decisiones a este respecto, no habrá recurso alguno.
+
+### CAPITULO XI
+
+DE LAS TACHAS.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 352.
+
+Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar fotografías o copias fotostáticas.
+
+Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 353.
+
+Como medio de prueba deben admitirse también los registros dactiloscópicos, fotográficos y demás elementos que produzcan convicción en el ánimo del Juez.
+
+La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras.
+
+###### Artículo 354.
+
+Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
 ### CAPITULO UNICO
 
-###### ARTICULO 352.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-Las cuestiones de competencia pueden iniciarse por declinatoria o por inhibitoria.
+###### Artículo 355.
 
-Cuando se hubiere optado por uno de estos medios, no se podrá abandonar para recurrir al otro, ni emplear los dos sucesivamente, pues se deberá pasar por el resultado de aquel que se hubiere preferido.
+Presunción es la consecuencia que la ley o el juez, deducen de un hecho conocido para averiguar la verdad de otro desconocido; la primera se llama legal y la segunda humana.
 
-###### ARTICULO 353.
+###### Artículo 356.
 
-La declinatoria se intentará ante el tribunal que conozca del asunto, pidiéndole que se abstenga del conocimiento del mismo y que remita las actuaciones al tribunal que se estime competente.
+Hay presunción legal cuando la ley la establece expresamente y cuando la consecuenica (sic) nace inmediata y directamente de la ley; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia ordinaria de aquél.
 
-###### ARTICULO 354.
+###### Artículo 357.
 
-La declinatoria podrá promoverse en cualquier estado del procedimiento judicial. Si se opusiere durante la instrucción, el tribunal que conozca del asunto podrá seguir actuando válidamente, hasta que el Ministerio Público y la defensa formulen conclusiones.
+El que tiene a su favor una presunción legal, sólo está obligado a probar el hecho en que se funda la presunción.
 
-### CAPITULO UNICO
+###### Artículo 358.
 
-###### ARTICULO 355.
+No se admite prueba contra la presunción legal cuando la ley lo prohibe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción salvo el caso en que la ley haya reservado el derecho de probar.
 
-Propuesta la declinatoria, el tribunal mandará dar vista de la solicitud a las otras partes por el término de tres días comunes y resolverá lo que corresponda dentro de los seis días siguientes.
+###### Artículo 359.
 
-###### ARTICULO 356.
+Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-La declinatoria puede iniciarse y sostenerse de oficio por los tribunales y para el efecto se oirá la opinión del Ministerio Público y se resolverá lo que se estime procedente, remitiéndose, en su caso, las actuaciones a la autoridad que se juzgue competente.
+### CAPITULO I
 
-###### ARTICULO 357.
+REGLAS GENERALES.
 
-La competencia por declinatoria no podrá resolverse hasta después de que se practiquen las diligencias que no admitan demora, y en caso de que haya detenido, de haberse dictado el auto de formal prisión o el de libertad por falta de elementos para procesar.
+###### Artículo 360.
 
-###### ARTICULO 358.
+La confesión judicial hace pruebas (sic) plena cuando concurren en ella las siguientes condiciones:
 
-El tribunal que reciba las actuaciones que le remita el que se hubiere declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el término de seis días si reconoce su competencia. Si no la reconoce remitirá los autos al tribunal de competencia con su opinión, comunicándolo al tribunal que hubiere enviado el expediente.
+I.- Que sea hecha por persona capaz de obligarse;
 
-###### ARTICULO 359.
+II.- Que sea hecha con pleno conocimiento y sin coacción ni violencia;
 
-La inhibitoria se intentará ante el tribunal a quien se crea competente, para que se avoque al conocimiento del asunto.
+III.- Que sea de hecho propio, o en su caso del representado o del cedente, y concerniente al negocio;
 
-### CAPITULO I. Procedimiento ante los jueces
+IV.- Que se haga conforme a las formalidades de la ley.
 
-###### ARTICULO 360.
+###### Artículo 361.
 
-El que promueva la inhibitoria puede desistirse de ella antes de que sea aceptada por los tribunales; mas una vez que éstos la acepten, continuará substanciándose hasta su decisión.
+El declarado confeso sin que haya hecho confesión, puede rendir prueba en contrario siempre que esta prueba no importe una excepción no opuesta en tiempo oportuno.
 
-###### ARTICULO 361.
+###### Artículo 362.
 
-El tribunal mandará dar vista al Ministerio Público cuando no proviniere de éste la instancia, por el término de tres días, y si estimare que es competente para conocer del asunto, librará oficio inhibitorio al tribunal que conozca del negocio, a efecto de que le remita el expediente.
+La confesión hecha en la demanda, en la contestación o en cualquier otro acto del juicio, hará prueba plena sin necesidad de ratificación ni ser ofrecida como prueba.
 
-###### ARTICULO 362.
+###### Artículo 363.
 
-Luego que el tribunal requerido reciba la inhibitoria, se señalarán tres días al Ministerio Público y otros tres comunes a las demás partes, si las hubiere, para que se impongan de lo actuado; los citará para una audiencia que se efectuará dentro de las veinticuatro horas siguientes, concurran o no los citados; y resolverá lo que corresponda dentro de tres días. Si la resolución es admitiendo su incompetencia, remitirá desde luego los autos al tribunal requeriente.
+La confesión extrajudicial hará prueba plena si el juez incompetente ante quien se hizo era competente en el momento de la confesión o las dos partes lo reputaban como tal o se hizo en la demanda o contestación.
 
-Si la resolución fuere sosteniendo su competencia, remitirá el incidente al tribunal de competencia, comunicando este trámite el requeriente para que a su vez remita sus actuaciones al tribunal que deba decidir la controversia.
+###### Artículo 364.
 
-###### ARTICULO 363.
+La confesión extrajudicial hecha en testamento también hace prueba plena, salvo en los casos de excepción señalados por el Código Civil.
 
-Los incidentes sobre competencia se tramitarán siempre por separado.
+###### Artículo 365.
 
-###### ARTICULO 364.
+La confesión no producirá el efecto probatorio a que se refieren los artículos anteriores, en los casos en que la ley lo niegue y en aquéllos en que venga acompañada con otras pruebas o presunciones que la hagan inverosímil o descubran la intención de defraudar a terceros. Debe el juez razonar cuidadosamente esta parte de su fallo.
 
-El tribunal de competencia en los casos de los artículos 358 y 362, dará vista al Ministerio Público por el término de seis días y resolverá lo que corresponda dentro de los quince días siguientes, remitiendo las actuaciones al tribunal que declare competente.
+###### Artículo 366.
 
-###### ARTICULO 365.
+La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace, pero no puede dividirse contra el que la hizo, salvo cuando se refiere a hechos diferentes o cuando una parte de la confesión esté probada por otros medios y cuando en algún extremo sea contraria a la naturaleza o a las leyes.
 
-En la substanciación de las competencias, una vez transcurridos los términos, se proveerá de oficio el trámite que corresponda.
+###### Artículo 367.
 
-###### ARTICULO 366.
+Cuando la confesión expresa afecte a toda la demanda, se dará por concluída la controversia, pronunciándose la sentencia que corresponda. Si no afecta a toda la demanda, no se admitirá prueba en contrario sobre el punto confesado.
 
-En todas las controversias de competencia, será oído el Ministerio Público.
+###### Artículo 368.
 
-###### ARTICULO 367.
+En las acciones del estado civil no será bastante la confesión si no estuviere adminiculada con otras pruebas fehacientes.
 
-Los magistrados y jueces deben excusarse en los asuntos en que intervengan, por cualquiera de las causas de impedimento que señale la Ley Orgánica del Poder Judicial del Estado.
+###### Artículo 369.
 
-###### ARTICULO 368.
+Los instrumentos públicos hacen prueba plena, aunque se presenten sin citación del colitigante, salvo siempre el derecho de éste para redargüirlos de falsedad y para pedir su cotejo con los protocolos y archivos. En caso de inconformidad con el protocolo o archivo los instrumentos no tendrán valor probatorio en el punto en que existiere la inconformidad.
 
-Las causas del impedimento no pueden dispensarse por voluntad de las partes.
+###### Artículo 370.
 
-###### ARTICULO 369.
+Los instrumentos públicos no se perjudican en cuanto a su validez por las excepciones que se aleguen para destruir la acción que en ellos se funde.
 
-El impedimento se calificará por el superior a quien correspondería juzgar de una recusación, en vista del informe que, dentro de tres días, rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
+###### Artículo 371.
 
-###### ARTICULO 370.
+Las partidas registradas por los párrocos anteriores al registro civil no harán prueba plena en lo relativo al estado civil de las personas sino cotejadas por notario público.
 
-Cuando un juez o magistrado no se excuse a pesar de tener algún impedimento, procederá la recusación.
+###### Artículo 372.
 
-No son admisibles las recusaciones sin causa. En todo caso se expresará concreta y claramente la que exista. Siendo varias se propondrán al mismo tiempo, salvo que se trate de alguna superveniente, la que se propondrá cuando ocurra.
+Las actuaciones judiciales hacen prueba plena.
 
-###### ARTICULO 371.
+###### Artículo 373.
 
-La recusación puede interponerse en cualquier tiempo, pero no después de que se haya citado para sentencia, y la promovida no suspenderá la instrucción ni la tramitación del recurso pendiente. Si se interpusiere en contra de un juez o magistrado, se suspenderá la celebración del juicio y, en su caso, la audiencia para la resolución del asunto en los tribunales superiores.
+El valor probatorio de los documentos privados se regirá por lo dispuesto en el artículo 297 salvo siempre el derecho de redargüirlos de falsos.
 
-###### ARTICULO 372.
+###### Artículo 374.
 
-Si después de la citación para sentencia, hubiere cambio en el personal de un tribunal, la recusación sólo será admisible si se propone dentro de los tres días siguientes al en que se notifique el auto a que se refiere el artículo 44.
+El reconocimiento hecho por el albacea hace prueba plena y también la hace el hecho por un heredero en lo que a él concierne.
 
-###### ARTICULO 373.
+###### Artículo 375.
 
-Toda recusación que no fuere promovida en tiempo y forma, será desechada de plano.
+Los documentos simples comprobados por testigos tendrán el valor que merezcan los testimonios de éstos, recibidos conforme a lo dispuesto en el Capítulo VII de este Título.
 
-###### ARTICULO 374.
+###### Artículo 376.
 
-Cuando el juez o magistrado estimen cierta y legal la causa de recusación, sin audiencia de las partes se declararán inhibidos y mandarán que pase el asunto a quien corresponda.
+El documento que un litigante presente prueba plenamente en su contra en todas sus partes, aunque el colitigante no lo reconozca.
 
-###### ARTICULO 375.
+###### Artículo 377.
 
-Cuando los funcionarios a que se refiere el artículo anterior estimen que no es cierta o que no es legal la causa alegada, señalarán al recusante el término de cuarenta y ocho horas, para que ocurra ante el superior que deba conocer de la recusación.
+El reconocimiento judicial hará prueba plena cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos.
 
-Si éste estuviere en diferente lugar del en que reside el funcionario recusado, además de las cuarenta y ocho horas indicadas, se concederá otro término que será el suficiente, teniendo en cuenta la mayor o menor dificultad en las comunicaciones.
+###### Artículo 378.
 
-Si dentro de los términos de que trata este artículo no se presenta el recusante al superior, se le tendrá por desistido.
+Los avalúos harán prueba plena.
 
-###### ARTICULO 376.
+###### Artículo 379.
 
-Interpuesta la recusación, el recusado deberá dirigir oficio al superior que deba calificar aquélla, con inserción del escrito en que se haya promovido, del proveído correspondiente y de las constancias que sean indispensables, a juicio del mismo recusado, y de las que señalare el recusante.
+La fe de los juicios periciales, incluso el cotejo de letras será calificada por el juez según las circunstancias.
 
-###### ARTICULO 377.
+###### Artículo 380.
 
-En el caso del artículo 375, recibido el escrito de la parte que haya promovido la recusación por quien deba conocer de ella, se pedirá informe al funcionario recusado, quien lo rendirá dentro del término de veinticuatro horas.
+El valor de la prueba testimonial queda al arbitrio del juez, quien nunca puede considerar probados los hechos sobre los cuales ha versado, cuando no haya por lo menos dos testigos en quienes concurran las siguientes condiciones:
 
-###### ARTICULO 378.
+I.- Que sean libres de toda excepción;
 
-Dentro de cinco días contados desde el siguiente al en que reciban los oficios a que se refieren los dos artículos anteriores, se resolverá si es legal o no la causa de recusación que se hubiere alegado.
+II.- Que sean uniformes, esto es, que convengan no sólo en la substancia, sino también en los accidentes del acto que refieren o aun cuando no convengan en éstos si no modifican la esencia del hecho;
 
-Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que no estuvieren justificados, se abrirá el incidente a prueba por un término que no excederá de diez días.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 379.
+III.- Que declaren de ciencia cierta, esto es, que hayan oído pronunciar las palabras, presenciado el acto o visto el hecho material sobre que deponen;
 
-Concluído el término probatorio, dentro de las cuarenta y ocho horas siguientes, se pronunciará la resolución contra la que no habrá recurso alguno.
+IV.- Que den fundada razón de su dicho.
 
-###### ARTICULO 380.
+###### Artículo 381.
 
-Cuando se deseche la recusación se impondrá al recusante una multa de diez a cien pesos.
+Para valorar la declaración de un testigo, el juez tomará en consideración las circunstancias siguientes:
 
-###### ARTICULO 381.
+I.- Que el testigo no sea inhábil por cualquiera de las causas señaladas en el artículo 325;
 
-Admitido un impedimento o calificada como legal la causa de una recusación, el impedido o recusado quedará definitivamente separado del conocimiento del asunto, del cual conocerá el tribunal a quien corresponda, conforme a la Ley Orgánica del Poder Judicial del Estado.
+II.- Que por su edad, su capacidad y su instrucción tenga el criterio necesario para juzgar el acto;
 
-###### ARTICULO 382.
+III.- Que por su probidad, por la independencia de su posición y por sus antecedentes personales tenga completa imparcialidad;
 
-No procede la recusación:
+IV.- Que el hecho de que se trata sea susceptible de ser conocido por medio de los sentidos y que el testigo lo conozca por sí mismo y no por inducciones ni referencias de otras personas;
 
-I.- Al cumplimentar exhortos;
+V.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la substancia del hecho, ya sobre las circunstancias esenciales;
 
-II.- En los incidentes de competencia;
+VI.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno.
 
-III.- En la calificación de los impedimentos o recusaciones.
+El apremio judicial no debe estimarse como fuerza o intimidación;
 
-###### ARTICULO 383.
+VII.- Que se cumpla escrupulosamente con lo dispuesto en el artículo 346.
 
-Los secretarios de los tribunales quedarán comprendidos en lo dispuesto en este Capítulo, con las modificaciones que determinan los tres siguientes artículos.
+###### Artículo 382.
 
-###### ARTICULO 384.
+Un solo testigo hace prueba plena cuando ambas partes convengan expresamente en pasar por su dicho, siempre que éste no esté en oposición con otras pruebas que obren en autos. En cualquier otro caso, su valor quedará a la prudente apreciación del tribunal.
 
-De los incidentes conocerá el juez o magistrado de quien dependa el impedido o recusado.
+###### Artículo 383.
 
-###### ARTICULO 385.
+Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
 
-Alegado el impedimento o admitida la recusación, el secretario pasará el asunto a quien deba substituirlo conforme a la ley.
+###### Artículo 384.
 
-###### ARTICULO 386.
+Las presunciones legales hacen prueba plena.
 
-Reconocida por el recusado como cierta la causa de recusación, o admitido como legítimo el impedimento, el juez o magistrado declarará, sin más trámite, impedido para actuar en el negocio al secretario de quien se trate.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 387.
+###### Artículo 385.
 
-Si se declara que el impedimento o la recusación no es procedente, el secretario continuará actuando en la causa.
+Para que la excepción de cosa juzgada surta efecto en otro juicio, es necesario que entre el caso resuelto por la sentencia y aquél en que ésta sea invocada, concurra identidad en las cosas, las causas y las personas de los litigantes que lo fueron.
 
-Contra la resolución respectiva no cabe recurso alguno.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 388.
+En las cuestiones relativas al estado civil de las personas y a las de validez o nulidad de las disposiciones testamentarias, la excepción de cosa juzgada es eficaz contra terceros aunque no hubiesen litigado.
 
-Los funcionarios del Ministerio Público y defensores de oficio, deben excusarse en los asuntos en que intervengan, por cualquiera de las causas de impedimento que señalen las Leyes Orgánicas o Reglamentarias respectivas.
+Se entiende que hay identidad de personas siempre que los litigantes del segundo pleito, sean causahabientes de los que contendieron en el pleito anterior, o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
 
-### CAPITULO II. Aclaración de sentencia
+###### Artículo 386.
 
-###### ARTICULO 389.
+Para que las presunciones no establecidas por la ley sean apreciables como medios de prueba, es indispensable que entre el hecho demostrado y aquél que se trata de deducir, haya un enlace preciso, más o menos necesario.
 
-Los impedimentos de los funcionarios del Ministerio Público serán calificados por quienes designe la ley que reglamente la Institución.
+Los jueces apreciarán en justicia el valor de las presunciones humanas.
 
-###### ARTICULO 390.
+###### Artículo 387.
 
-Las excusas de los defensores de oficio serán calificadas por el tribunal que conozca del asunto.
+La valorización de las pruebas se hará de acuerdo con el presente Capítulo, a menos que por el enlace interior de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta, respecto de los hechos materia del litigio. En este caso, deberá fundar el juez cuidadosamente esta parte de su sentencia.
 
-###### ARTICULO 391.
+###### Artículo 388.
 
-Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos siguientes:
+No tendrán ningún valor legal las pruebas rendidas con infracción de lo dispuesto en los capítulos anteriores de este título.
 
-I.- Cuando el responsable se hubiere substraído a la acción de la justicia;
+### CAPITULO II
 
-II.- Cuando se advirtiere que se está en algunos de los casos señalados en las fracciones I y II del artículo 117;
+DE LA SENTENCIA EJECUTORIADA.
 
-III.- Cuando enloquezca el procesado, cualquiera que sea el estado del proceso;
+###### Artículo 389.
 
-IV.- Cuando no exista auto de formal prisión o de sujeción a proceso y se llenen además los requisitos siguientes:
+Durante el término probatorio, o dentro de los tres días que siguen a la fecha de su expiración o de haber concluido la audiencia de pruebas y alegatos en aquellos juicios que la tengan, podrán las partes tachar a los testigos por causas que éstos no hayan expresado en sus declaraciones.
 
-a).- Que aunque no esté agotada la averiguación, haya imposibilidad transitoria para practicar las diligencias que resulten indicadas en ella;
+Transcurrido dicho término será desechada toda solicitud sobre tachas, con excepción de que la prueba testimonial se hubiere recibido en los términos del artículo 49 de éste Código, en cuyo caso, deberá plantearse dentro de los tres días siguientes a su desahogo.
 
-b).- Que no haya base para decretar el sobreseimiento; y
+###### Artículo 390.
 
-c).- Que se desconozca quién es el responsable del delito;
+Son tachas legales las contenidas en el artículo 325, y además, haber declarado por cohecho.
 
-V.- En los demás casos en que la ley ordene expresamente la suspensión del procedimiento.
+###### Artículo 391.
 
-###### ARTICULO 392.
+Las tachas deben contraerse exclusivamente a las personas de los testigos; los vicios que hubiere en sus dichos o en la forma de sus declaraciones, serán objeto de la calificación de la prueba.
 
-Lo dispuesto en la fracción I del artículo anterior se entiende sin perjuicio de que, en su oportunidad, se practiquen todas las diligencias que sean procedentes para comprobar la existencia del delito y la responsabilidad del prófugo, y para lograr su captura.
+###### Artículo 392.
 
-La substracción de un inculpado a la acción de la justicia no impedirá la continuación del procedimiento respecto de los demás inculpados que se hallaren a disposición del tribunal.
+Cuando el testigo tuviere con ambas partes el mismo parentesco o con ambas desempeñare los oficios de que habla la fracción XI del artículo 325 no será tachable.
 
-###### ARTICULO 393.
+###### Artículo 393.
 
-Lograda la captura del prófugo el proceso continuará su curso, sin que se repitan las diligencias ya practicadas, a menos que el tribunal lo estime indispensable.
+El juez nunca repelerá de oficio al testigo; si éste es (sic) encuentra comprendido en alguna de las disposiciones por las que puede ser tachado; será siempre examinado y sus tachas se calificarán en la sentencia.
 
-###### ARTICULO 394.
+###### Artículo 394.
 
-Cuando se haya decretado la suspensión del procedimiento en los casos a que se refieren las fracciones II, III y IV del artículo 391, se continuará tan luego como desaparezcan las causas que la motivaron.
+Para la prueba de tachas no se admitirán más de cinco testigos.
 
-###### ARTICULO 395.
+###### Artículo 395.
 
-El tribunal resolverá de plano sobre la suspensión del procedimiento, con la sola petición del Ministerio Público, fundada en cualquiera de las causas a que se refiere el artículo 391.
+No es admisible la prueba testimonial para tachar a los testigos que hayan declarado en el incidente de tachas.
 
-###### ARTICULO 396.
+###### Artículo 396.
 
-La acumulación tendrá lugar:
+La petición de tachas se substanciará incidentalmente, por cuaderno separado y su resolución se reservará para la definitiva.
 
-> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-I.- En los procesos que se siguen contra una misma persona, en los términos del artículo 24 del Código Penal;
+###### Artículo 397.
 
-II.- En los que se siga investigación de delitos conexos;
+El incidente de tachas suspende el término para dictar sentencia definitiva.
 
-III.- En los que se sigan contra los copartícipes del mismo delito;
+## TITULO SEXTO
 
-IV.- En los que se sigan en investigación de un mismo delito contra diversas personas.
+DE LOS ALEGATOS.
 
-###### ARTICULO 397.
+### CAPITULO I
 
-No procederá la acumulación si se trata de diversos fueros.
+DE LA ACLARACION.
 
-## TITULO SEXTO. P R U E B A
+###### Artículo 398.
 
-### CAPITULO III. Sentencia Irrevocable
+Concluido el término probatorio, el Juez mandará poner los autos a la vista de las partes, por un término común de tres días, para que aleguen de buena prueba. El Ministerio Público alegará también cuando el negocio lo requiera.
 
-###### ARTICULO 398.
+Transcurridos los términos, al siguiente, las partes presentarán los alegatos.
 
-Los delitos son conexos:
+###### Artículo 399.
 
-I.- Cuando han sido cometidos por varias personas unidas;
+Pasado el término a que se refiere el artículo anterior el juez dictará su sentencia dentro del término legal.
 
-II.- Cuando han sido cometidos por varias personas, aunque en diversos tiempos y lugares, pero a virtud de concierto entre ellas;
+## TITULO SEPTIMO
 
-III.- Cuando se ha cometido un delito para procurarse los medios de cometer otro, para facilitar su ejecución, para consumarlo, o para asegurar la impunidad.
+DE LAS SENTENCIAS.
 
-###### ARTICULO 399.
+### CAPITULO II
 
-La acumulación no podrá decretarse en los procesos después de cerrada la instrucción.
+DE LA REVOCACION.
 
-## TITULO SÉPTIMO. CONCLUSIONES
+###### Artículo 400.
 
-### CAPITULO I. R e v o c a c i ó n
+Sentencia definitiva es la que decide el negocio principal, e interlocutoria, la que decide sobre una cuestión secundaria tratada en forma de incidente.
 
-###### ARTICULO 400.
+###### Artículo 401.
 
-Cuando alguno de los procesos ya no estuviere en estado de instrucción, pero tampoco estuviere concluído, o cuando no sea procedente la acumulación conforme a este capítulo, el tribunal cuya sentencia cause ejecutoria, la remitirá en copia certificada al tribunal que conozca del otro proceso, para los efectos de la aplicación de las sanciones.
+En las sentencias se observará lo dispuesto por el artículo 19 del Código Civil.
 
-###### ARTICULO 401.
+###### Artículo 402.
 
-Si los procesos se siguen en el mismo tribunal, la acumulación podrá decretarse de oficio sin substanciación alguna.
+Las sentencias deben de ser claras, precisas y congruentes con las demandas y las contestaciones y con las demás pretensiones deducidas, oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
-Si la promoviere alguna de las partes, el tribunal las oirá en audiencia verbal que tendrá lugar dentro de tres días y, sin más trámite, resolverá dentro de los tres siguientes, pudiendo negarla cuando a su juicio dificulte la investigación.
+###### Artículo 403.
 
-###### ARTICULO 402.
+La sentencia se ocupará exclusivamente de las acciones deducidas y de las excepciones opuestas, respectivamente, en la demanda y en la contestación, en el concepto de que si se opusieren excepciones dilatorias y perentorias se ocupará primeramente de aquéllas y en el caso de que alguna o todas fueren procedentes ya no se ocupará de las perentorias y dejará al actor sus derechos a salvo para que los deduzca en la vía y forma que corresponda, siendo válidas las pruebas rendidas por las partes, sin perjuicio de la calificación que de ellas se haga si llegare a iniciarse el nuevo juicio. Si se declarasen improcedentes las excepciones dilatorias la sentencia se ocupará de las perentorias.
 
-Si los procesos se siguen en diversos tribunales, será competente para conocer de todos los que deban acumularse el tribunal que conociere de las diligencias más antiguas; y si éstas se comenzaron en la misma fecha, el que designare el Ministerio Público.
+###### Artículo 404.
 
-###### ARTICULO 403.
+Cuando hubiere condena de frutos, intereses, daños o perjuicios, se fijará su importe en cantidad líquida o se establecerán, por lo menos, las bases con arreglo a las cuales debe hacerse la liquidación cuando no sean el objeto principal del juicio.
 
-La acumulación deberá promoverse ante el tribunal que, conforme el artículo anterior, sea competente; y el incidente a que dé lugar se substanciará en la forma establecida para las competencias por inhibitoria.
+La infracción de este artículo, será motivo de aclaración de sentencia.
 
-###### ARTICULO 404.
+###### Artículo 405.
 
-Los incidentes de acumulación se substanciarán por separado sin suspenderse el procedimiento.
+En la redacción de las sentencias se observarán las reglas siguientes:
 
-###### ARTICULO 405.
+I.- Principiará el juez expresando el lugar y la fecha en que dicte el fallo; los nombres, apellidos y domicilios de los litigantes; los nombres y apellidos de sus apoderados o abogados directores, y el objeto y naturaleza del juicio;
 
-Serán aplicables las disposiciones de este capítulo a las averiguaciones que se practiquen por los tribunales, aun cuando no exista auto de formal prisión o de sujeción a proceso.
+II.- Bajo la palabra RESULTANDO, se consignará de una manera concisa y clara, en párrafos numerados, lo conducente de los hechos referidos en la demanda y en la contestación, de las pruebas rendidas y de lo alegado;
 
-### CAPITULO II. A p e l a c i ó n
+III.- A continuación, bajo la palabra CONSIDERANDO, consignará clara y concisamente, también en párrafos numerados los puntos de derecho, con las razones y fundamentos legales que estime procedentes y las citas de leyes o doctrinas que juzgue aplicables. Estimará el valor de las pruebas fijando los principios de donde emane, para admitir o desechar aquellas cuya calificación deja la ley a su arbitrio;
 
-###### ARTICULO 406.
+IV.- Pronunciará, por último, la parte resolutiva en los términos prevenidos en los artículos anteriores haciéndose la correspondiente declaración sobre costas.
 
-Podrá ordenarse la separación de los autos acumulados cuando concurran las siguientes circunstancias:
+### CAPITULO III
 
-I.- Que la pida alguna de las partes antes de que esté concluída la instrucción;
+DE LA APELACION.
 
-II.- Que la acumulación se haya decretado en razón de que los autos se refieran a una sola persona inculpada por delitos diversos e inconexos; y
+###### Artículo 406.
 
-III.- Que el tribunal estime que, de continuar la acumulación, la investigación se demoraría o dificultaría.
+La cosa juzgada es la verdad legal, y contra ella no se admite recurso ni prueba de ninguna clase salvo en los casos expresamente determinados por la ley.
 
-###### ARTICULO 407.
+###### Artículo 407.
 
-La separación podrá decretarse de oficio cuando no haya habido acumulación en los términos del capítulo anterior.
+Hay cosa juzgada cuando la resolución ha causado ejecutoria.
 
-###### ARTICULO 408.
+###### Artículo 408.
 
-Contra el auto en que el tribunal declare no haber lugar a la separación, no procede recurso alguno; pero dicho auto no pasará en autoridad de cosa juzgada, mientras no esté concluida la instrucción.
+Causan ejecutoria las resoluciones:
 
-###### ARTICULO 409.
+I.- Cuando fueren expresamente consentidas por las partes;
 
-Decretada la separación, conocerá de cada asunto el tribunal que conocía de él antes de haberse efectuado la acumulación. Dicho tribunal, si fuere diverso del que decretó la separación no podrá rehusarse a conocer del caso, sin perjuicio de que pueda suscitarse la cuestión de competencia.
+II.- Cuando la ley no concede recurso alguno contra ellas;
 
-## TITULO OCTAVO. SOBRESEIMIENTO
+III.- Cuando transcurren los términos para interponerlo, sin que las partes hagan uso de este derecho;
 
-### CAPITULO III. Denegada apelación
+IV.- Cuando hubieren sido recurridas y no se continuare el recurso en el término legal;
 
-###### ARTICULO 410.
+V.- Las pronunciadas en segunda instancia;
 
-El incidente sobre separación de autos se substanciará por separado, en la misma forma que el de acumulación, sin suspender el procedimiento.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 411.
+VI.- Las que recaigan en juicios tramitados ante los jueces menores letrados;
 
-Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 400.
+VII.- Las que dirimen o resuelven una competencia.
 
-###### ARTICULO 412.
+###### Artículo 409.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 45 del Código Penal, debe ejercitarse por quien tenga derecho a ello o por el Ministerio Público en términos de la fracción III del artículo 137, ante el tribunal que conozca de la materia penal; pero deberá intentarse y seguirse ante los tribunales civiles en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso sin haber intentado dicha acción, siempre que el que la intente fuere un particular. Esto último se observará también cuando concluida la instrucción, no hubiere lugar a juicio en materia penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+No será necesario hacer declaración alguna para que las resoluciones causen ejecutoria en los términos del artículo anterior.
 
-Cuando promovidas las dos acciones hubiere concluido el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo del mismo el tribunal ante quien se haya iniciado.
+## TITULO OCTAVO
 
-###### ARTICULO 413.
+DE LOS RECURSOS.
 
-Todos los incidentes sobre reparación del daño exigible a terceras personas que se sigan ante los tribunales, se tramitarán y decidirán conforme a lo que disponga el Código de Procedimientos Civiles.
+### CAPITULO IV
 
-###### ARTICULO 414.
+DE LA DENEGADA APELACION.
 
-Si el incidente llega al estado de alegar antes de que concluya la instrucción, se suspenderá hasta que el proceso se encuentre en estado de sentencia, la que se pronunciará resolviendo a la vez sobre la acción penal y sobre la reparación del daño exigible a personas distintas del inculpado, produciéndose los alegatos en la audiencia del juicio penal.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 415.
+###### Artículo 410.
 
-En el caso de hallarse prófugo el inculpado, se continuará la tramitación del incidente hasta dictarse sentencia.
+El recurso de aclaración sólo una vez puede intentarse contra las sentencias definitivas, y sólo respecto de éstas procede.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+###### Artículo 411.
 
-###### ARTICULO 416.
+El recurso se interpondrá, por escrito ante el mismo juez que hubiere dictado la resolución, dentro del día siguiente a la notificación del fallo, expresándose claramente la contradicción, ambigüedad u obscuridad de las cláusulas y palabras cuya aclaración se solicite o el hecho que se haya omitido y cuya falta se reclama.
 
-Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código de Procedimientos Civiles; pero si es el Ministerio Público el que las pida de conformidad con los artículos 137, 146 y 412, se decretarán sin que se otorgue la garantía que la citada ley procesal exige. Lo dispuesto es sin perjuicio de las facultades que las leyes concedan al Fisco para asegurar su interés.
+###### Artículo 412.
 
-###### ARTICULO 417.
+En el caso previsto en el artículo 404, el que pida la aclaración, deberá exponer las bases que, en su concepto, hayan de fijarse para la liquidación y acompañará los datos que fueren conducentes a ese objeto.
 
-Los incidentes cuya tramitación no se detalla en este Código y que, a juicio del tribunal, no puedan resolverse de plano y sean de aquellos que no deban suspender el curso del procedimiento, se substanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación o a más tardar al día siguiente. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se efectuará dentro de los tres siguientes.
+###### Artículo 413.
 
-Concurran o no las partes, el tribunal fallará desde luego el incidente.
+Del escrito en que se pida la aclaración se dará traslado a la otra parte, para que dentro del día siguiente conteste lo que crea conveniente, y cumpla, en su caso, lo dispuesto en el artículo anterior.
 
-TITULO DECIMOSEGUNDO
+###### Artículo 414.
 
-PROCEDIMIENTOS RELATIVOS A LOS ENFERMOS MENTALES
+El juez, dentro del término de tres días, resolverá lo que proceda en derecho; pero al aclarar las cláusulas o palabras contradictorias, ambigüas u obscuras de la resolución, no podrá variar la substancia de ésta.
 
-###### ARTICULO 418.
+###### Artículo 415.
 
-Tan pronto como se sospeche que el inculpado está loco, idiota, imbécil o sufra cualquiera otra debilidad, enfermedad o anomalía mentales, el tribunal lo mandará examinar por peritos médicos, sin perjuicio de continuar el procedimiento en la forma ordinaria. Si existe motivo fundado, ordenará provisionalmente la reclusión del inculpado en manicomio o en departamento especial.
+Contra la resolución que se pronuncie, no se admitirá recurso alguno.
 
-### CAPITULO I. Libertad provisional bajo caución
+###### Artículo 416.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+La resolución que aclare una sentencia, se reputará parte integrante de ésta.
 
-###### ARTICULO 419.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Inmediatamente que se compruebe que el inculpado está en alguno de los casos a que se refiere el artículo anterior cesará el procedimiento ordinario y se abrirá el especial en que la ley deja al recto criterio y a la prudencia del tribunal la forma de investigar el delito imputado, la participación que en ella hubiere tenido el inculpado, y la de estudiar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
+###### Artículo 417.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+Siempre que los jueces o tribunales resuelvan que no procede la aclaración que se pide, se impondrá al recurrente una multa de hasta sesenta cuotas.
 
-###### ARTICULO 420.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Si se comprueba el delito y que en él tuvo participación el inculpado, previa solicitud del Ministerio Público y en audiencia de éste, del defensor y del representante legal, si los tuviere, el tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 32, fracción VIII, y 57 del Código Penal.
+###### Artículo 418.
 
-###### ARTICULO 421.
+La interposición del recurso de aclaración no interrumpe el término señalado para hacer uso del recurso de apelación.
 
-Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 391, fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
+### CAPITULO I
 
-###### ARTICULO 422.
+DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
 
-La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-TITULO DECIMOTERCERO
+###### Artículo 419.
 
-### CAPITULO II. Libertad provisional bajo protesta
+La revocación sólo procede respecto de los autos que no fueren apelables, así como de los decretos.
 
-###### ARTICULO 423.
+###### Artículo 420.
 
-En toda sentencia condenatoria se prevendrá y el tribunal que la dicte deberá hacerlo, se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone, en la forma que dispone el artículo 63 del Código Penal. La falta de esa diligencia no impedirá que en su caso se aplique la sanción que por reincidencia señala el artículo 69 del mismo Código.
+La revocación puede pedirse verbalmente, en el acto de notificarse el auto o decreto, o por escrito dentro del día siguiente a la notificación.
 
-###### ARTICULO 424.
+###### Artículo 421.
 
-La ejecución de las sentencias irrevocables corresponde al órgano que designe el Ejecutivo del Estado, quien determinará, en su caso, el lugar en que deba sufrir el reo la sanción privativa de libertad.
+La promoción se hará saber a las otras partes para que dentro de tres días contesten y transcurrido este término, sin más trámite, dentro de otros tres días, el juez o tribunal resolverá lo procedente.
 
-Será deber del Ministerio Público practicar todas las diligencias conducentes a fin de que las sentencias sean estrictamente cumplidas; y lo hará así, ya gestionando cerca de las autoridades administrativas lo que proceda, o ya exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido en las sentencias, en pro o en contra de los individuos que sean objeto de ellas.
+###### Artículo 422.
 
-###### ARTICULO 425.
+Contra el auto en que se decida si se concede o no la revocación no se admitirá recurso alguno.
 
-El Ministerio Público cumplirá con el deber que le impone el artículo anterior siempre que, por queja del interesado o de cualquiera otra manera, llegue a su noticia que la autoridad encargada de la ejecución de la sentencia se aparta de lo ordenado en ella.
+### CAPITULO II
 
-###### ARTICULO 426.
+DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
 
-Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella a la Procuraduría General de Justicia, la que enviará al órgano autorizado por el Ejecutivo uno de los testimonios.
+###### Artículo 423.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+La apelación es el recurso que tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique, a solicitud de parte agraviada, las resoluciones dictadas en la de primera.
 
-###### ARTICULO 427.
+###### Artículo 424.
 
-El Ministerio Público solicitará de los tribunales que, para los efectos del artículo 49 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se impone la sanción pecuniaria, para que se haga efectivo su importe. El legitimado para recibir el importe de la reparación del daño tiene derecho de pedir al tribunal cumpla esta prevención así como de promover ante la autoridad fiscal respectiva todo lo que sea necesario al fin de indicado.
+Todo el que haya sido parte en un juicio y conserve este carácter puede apelar de las resoluciones por las que se considere agraviado, salvo los casos determinados por la ley.
 
-###### ARTICULO 428.
+###### Artículo 425.
 
-Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fiscal, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición del tribunal, el que hará comparecer a quien tenga derecho a ella para hacerle entrega inmediata de su importe.
+El apoderado podrá apelar y continuar el recurso aunque el poder no tenga cláusula especial para ello. Podrá apelar también el abogado que esté autorizado para oír notificaciones, pero no podrá continuar el recurso.
 
-El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime necesario para que dé cumplimiento a la obligación que le impone este artículo. Asimismo el Ministerio Público cuidará celosamente de esta disposición.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 429.
+###### Artículo 426.
 
-Cuando un reo enloquezca después de dictarse en su contra sentencia irrevocable que lo sancione con privación de libertad, se suspenderán los efectos de ésta, mientras no recobre la razón, internándosele en el establecimiento adecuado para su tratamiento.
+El recurso de apelación debe interponerse por escrito ante el Juez que pronunció la resolución impugnada, expresando los agravios que considere le causa la resolución recurrida.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+Las apelaciones que se interpongan contra autos o interlocutorias deberán hacerse valer en el término de cinco días, y las que se interpongan contra sentencias definitivas dentro del plazo de nueve días.
 
-###### ARTICULO 430.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Los objetos del delito que sean decomisados, salvo disposición distinta de la Ley, serán sacados a remate que se anunciará con ocho días de anticipación por lo menos, en el diario que el juez estime conveniente y previo avaluó de los mismos.
+###### Artículo 427.
 
-En las mismas condiciones serán rematados los objetos del delito que perteneciendo o pudiendo pertenecer a terceras personas no sean reclamados en el término de un año, a contar de que el Ministerios Público haya hecho la consignación respectiva.
+Interpuesta la apelación en tiempo hábil, el Juez la admitirá sin substanciación alguna si fuere procedente, siempre que en el escrito se hayan hecho valer los agravios respectivos; ordenando dar vista con el mismo a la contraparte, para que en el término de tres días conteste los agravios si se tratare de auto o sentencia interlocutoria, y de seis días si se tratare de sentencia definitiva. Debiéndose remitir los escritos originales del apelante y en su caso de la contraparte, procediéndose como se ordena en los artículos 434 y 439 de este Código.
 
-El remate se llevará a cabo en el local del juzgado que lo hubiese convocado, y el importe del mismo una vez descontados los gastos, se aplicará en mejoras de edificios y adquisición de mobiliario y equipo de las oficinas del Poder Judicial.
+###### Artículo 428.
 
-Si las cosas de que se trata sólo sirven para cometer delitos, se destruirán al ejecutarse la sentencia.
+La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o únicamente en el primero.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+###### Artículo 429.
 
-###### ARTICULO 431.
+Salvo los casos expresamente determinados en la ley la apelación sólo es admisible en el efecto devolutivo.
 
-Las pruebas que se promuevan para acreditar los requisitos que exige el artículo 78 del Código Penal para la concesión de la suspensión condicional, podrán rendirse durante la instrucción, sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
+###### Artículo 430.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+
+###### Artículo 431.
+
+Las interlocutorias y los autos son apelables cuando esta Ley lo disponga expresamente y lo fuere la sentencia definitiva del juicio en que se dicten.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
 ###### ARTICULO 432.
 
-Al formular conclusiones el Agente del Ministerio Público o el defensor, si estiman procedente la suspensión condicional, lo indicarán así para el caso en que el tribunal imponga una pena privativa de libertad que no exceda de tres años.
+La apelación contra las sentencias definitivas, procederá en los negocios de la competencia de los Jueces de Primera Instancia.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+###### Artículo 433.
 
-###### ARTICULO 433.
+La apelación admitida en ambos efectos, suspende desde luego la ejecución de la resolución recurrida, hasta que ésta cause ejecutoria; y, entre tanto, sólo podrán dictarse las resoluciones que se refieran a la administración, custodia o conservación de bienes embargados o intervenidos judicialmente siempre que la apelación no verse sobre alguno de estos puntos.
 
-Si el procesado o su defensor no hubiesen solicitado en sus conclusiones el otorgamiento del beneficio de la suspensión condicional y si no se concediera de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-Después de dictada sentencia irrevocable no procederá la suspensión condicional.
+###### Artículo 434.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+La apelación admitida sólo en el efecto devolutivo no suspende la ejecución ni efectos de la resolución recurrida; y si ésta es sentencia definitiva, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el Juez considere necesarias, remitiéndose desde luego los autos originales al Tribunal de apelación.
 
-###### ARTICULO 434.
+Si es auto o interlocutoria, se remitirá al Tribunal testimonio de las constancias que estime necesarias el Juez.
 
-Cuando por alguna de las causas que señala el artículo 83 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que lo concedió procederá con audiencia del Ministerio Público y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción por la autoridad que corresponda.
+###### Artículo 435.
 
-###### ARTICULO 435.
+(DEROGADO, P.O. 21 DE JULIO DE 1997)
 
-El reconocimiento judicial de la inocencia del sentenciado se declarará, cuando exista alguno de los motivos siguientes:
+###### Artículo 436.
 
-I.- Cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas.
+Para ejecutar la sentencia o auto en el caso del artículo 434 se otorgará previamente caución que podrá consistir:
 
-II.- Cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se funde aquélla.
+I.- En depósito de dinero efectivo;
 
-III.- Cuando sancionada alguna persona por homicidio de otra que hubiese desaparecido, se presentase ésta o alguna prueba indubitable de que vive.
+II.- En hipoteca sobre bienes bastantes a juicio del juez, ubicados dentro del territorio del estado;
 
-IV.- Cuando el reo hubiere sido juzgado por el mismo hecho a que la sentencia se refiere en otro juicio en que también hubiere recaído sentencia irrevocable.
+III.- En fianza, en la que deberán renunciarse los beneficios de orden y excusión.
 
-###### ARTICULO 436.
+La caución otorgada por el actor comprenderá la devolución de la cosa o cosas que debe percibir, sus frutos e intereses y la indemnización de daños y perjuicios, si la resolución se revoca. El Ministerio Público y el acreedor alimentista no están obligados a prestar la caución a que este artículo se refiere.
 
-El sancionado que se crea con derecho para pedir el reconocimiento de su inocencia, ocurrirá por escrito al Tribunal Superior de Justicia, alegando la causa o causas, de las enumeradas en el artículo anterior, en que funde su petición y acompañando las pruebas respectivas o protestando exhibirlas oportunamente. Sólo se admitirá en estos casos la prueba documental, salvo lo previsto en la fracción III del artículo anterior.
+El demandado puede otorgar la caución señalada en este artículo, para evitar la ejecución de la sentencia o auto que indica el artículo 434, la que comprenderá el pago de lo juzgado y sentenciado y gastos erogados por el ejecutante en el caso de los párrafos anteriores. Tal derecho no lo tendrá el deudor alimentista.
 
-###### ARTICULO 437.
+En los juicios sin interés pecuniario, el señalamiento de la caución quedará al criterio del juez.
 
-Recibida la solicitud, la Sala respectiva pedirá inmediatamente el proceso al juzgado o al archivo en que se encuentre y citará al Ministerio Público, al reo, o a su defensor, para la vista que tendrá lugar dentro de los cinco días de recibido el expediente, salvo el caso en que hubiere de rendirse prueba documental, cuya recepción exija un término que se fijará prudentemente, atentas las circunstancias.
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
 
-###### ARTICULO 438.
+En asuntos del orden familiar, y salvo los casos de excepción regulados por este Código, no se procederá a la ejecución de las sentencias hasta que causen ejecutoria.
 
-El día fijado para la vista, dada cuenta por el Secretario, se recibirán las pruebas, informará el reo por sí o por su defensor y el Ministerio Público pedirá lo que en derecho corresponda.
+###### Artículo 437.
 
-###### ARTICULO 439.
+Si la resolución constare de varias proposiciones, puede consentirse respecto de unas y apelarse respecto de otras. En este caso, la segunda instancia versará sólo sobre las proposiciones apeladas.
 
-A los cinco días de celebrada la vista, la Sala declarará si es o no fundada la solicitud del reo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-En el primer caso, remitirá las diligencias originales con informe al órgano que autorice el Ejecutivo del Estado para que, sin más trámite, acate el reconocimiento de la inocencia del sentenciado, con todos sus efectos legales.
+###### Artículo 438.
 
-En el segundo caso, se mandarán archivar las diligencias.
+La parte que venció puede adherirse a la apelación interpuesta dentro de los tres días siguientes a la admisión del recurso, expresando los razonamientos tendientes a mejorar las consideraciones vertidas por el Juez en la resolución de que se trata. Con dicho escrito se dará vista a la contraria para que en igual plazo manifieste lo que a su derecho corresponda. En este caso la adhesión al recurso sigue la suerte de éste.
 
-###### ARTICULO 440.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-La rehabilitación de los derechos políticos se otorgará en la forma y términos que disponga la ley orgánica de los artículos 27 y 68 fracción XXX de la Constitución Política del Estado.
+###### Artículo 439.
 
-###### ARTICULO 441.
+Admitida la apelación en ambos efectos, el Juez remitirá los autos originales dentro de los siguientes tres días, citando a las partes para que comparezcan al Tribunal de alzada. Si el recurso sólo se ha admitido en el efecto devolutivo se observará lo dispuesto en los artículos 434 y 436.
 
-La rehabilitación de los derechos civiles o políticos no procederá mientras el reo esté extinguiendo la sanción privativa de libertad.
+Si antes de hacer la remisión de que habla este artículo se desistiere el apelante, el juez de los autos lo tendrá por desistido continuándose la secuela del juicio.
 
-###### ARTICULO 442.
+###### Artículo 440.
 
-Si el reo hubiere extinguido ya la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el artículo siguiente, podrá ocurrir al tribunal que haya dictado la sentencia irrevocable, solicitando se le rehabilite en los derechos de que se le privó o en cuyo ejercicio estuviere suspenso, para lo cual acompañará a su escrito relativo los documentos siguientes:
+Si el tribunal de apelación reside en lugar distinto de aquél en que se pronunció la sentencia, las partes al notificarles la admisión del recurso, deberán designar domicilio en la residencia de este mismo tribunal, para los efectos del artículo 451.
 
-I.- Un certificado expedido por la autoridad que corresponda, que acredite haber extinguido la sanción privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación, en su caso; y
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-II.- Un certificado de la autoridad municipal del lugar donde hubiere residido desde que comenzó a sufrir la inhabilitación, o la suspensión y una información recibida por la misma autoridad, con audiencia del Ministerio Público, que demuestre que el promovente ha observado buena conducta continua, desde que comenzó a sufrir su sanción, y que ha dado pruebas de haber contraído hábitos de orden, trabajo y moralidad.
+###### Artículo 441.
 
-###### ARTICULO 443.
+En el caso de que el apelante omitiera expresar agravios al interponer el recurso de apelación, se tendrá por no interpuesto y quedará firme la resolución impugnada.
 
-Si la sanción impuesta al reo hubiere sido la de inhabilitación o suspensión por seis o más años, no podrá ser rehabilitado antes de que transcurran tres años, contados desde que hubiere comenzado a extinguirla.
+Si no se presentara apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieren sido apelados durante el procedimiento.
 
-Si la inhabilitación o suspensión fuere por menos de seis años, el reo podrá solicitar su rehabilitación cuando haya extinguido la mitad de la sanción.
+No obstante lo dispuesto anteriormente, en los procedimientos relacionados con derechos de menores o incapaces, se suplirá la deficiencia de la queja. Lo mismo se observará tratándose de alimentos, cuando la parte apelante sea la acreedora alimentista. En estos casos se remitirán al Tribunal Superior el testimonio o los autos originales, según sea la resolución impugnada, aunque no se formulen agravios.
 
-###### ARTICULO 444.
+###### Artículo 442.
 
-Recibida la solicitud del tribunal, a instancia del Ministerio Público o de oficio, si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
+(DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-###### ARTICULO 445.
+###### Artículo 443.
 
-Recibidas las informaciones, o desde luego si no se estimaren necesarias, el tribunal decidirá dentro de tres días, oyendo al Ministerio Público y al peticionario, si es o no fundada la solicitud. En el primer caso, remitirá las actuaciones originales con su informe, a la Legislatura del Estado, a efecto de que resuelva en definitiva lo que fuere procedente. Si se concediere la rehabilitación, se publicará en la Gaceta Oficial del Estado; si se negare, se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo, después de un año.
+(DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-###### ARTICULO 446.
+###### Artículo 444.
 
-Concedida la rehabilitación por la Legislatura del Estado, se comunicará la resolución al tribunal correspondiente, para que haga la anotación respectiva en el proceso.
+(DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-###### ARTICULO 447.
+###### Artículo 445.
 
-Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
+(DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-TRANSITORIOS:
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
-1o.- Este Código entrará en vigor el día 1º. de julio del año 1948.
+###### Artículo 446.
 
-2o.- Desde esa misma fecha quedarán abrogados el Código de Competencia y Enjuiciamiento en Materia Penal, de fecha diez de junio del año de mil novecientos treinta y dos, así como sus adiciones y reformas, y derogadas las demás leyes que se opongan a la presente.
+Llegados los autos o el testimonio, en su caso, al superior, éste dentro de los tres días siguientes dictará providencia en la que decidirá si la apelación fue interpuesta en tiempo y calificará, si se confirma o no el grado en que se admitió por el inferior. De encontrarlo ajustado a derecho lo hará saber, y citará a las partes en el mismo auto para oír sentencia, misma que se pronunciará dentro del plazo de ocho días si se tratare de auto o interlocutoria y de quince días si se tratare de sentencia definitiva, contados a partir de la citación para sentencia. Sólo cuando hubiere necesidad de que el superior examine expediente que excedieren de cien fojas podrá disfrutar de quince días más para pronunciar resolución.
 
-3o.- Todos los procesos y averiguaciones que estuvieren en trámite al comenzar a regir este Código, se sujetarán a sus disposiciones.
+Declarada inadmisible la apelación, se devolverán los autos al inferior, revocada la calificación, se procederá en consecuencia.
 
-4o.- Los recursos interpuestos antes de la vigencia de este Código y que no se hubieren aún admitido o desechado, se admitirán, siempre que en este Código o en el anterior fueren procedentes, y se substanciarán conforme a los dispuesto en el presente.
+En los procedimientos relacionados con derechos de menores, o incapaces, se suplirá la deficiencia de la queja. Lo mismo se observará tratándose de alimentos, cuando la parte apelante sea la acreedora alimentista.
 
-5o.- Los términos que estén corriendo para interponer algún recurso al comenzar a regir este Código, se computarán conforme al mismo o al Código de Competencia y Enjuiciamiento en Materia Penal, aplicándose las disposiciones que señalen mayor amplitud.
+###### Artículo 447.
 
-Dado en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enríquez, a los once días del mes de diciembre de mil novecientos cuarenta y siete.- GERMAN GRANDA, Diputado Presidente.- JOSE ZUÑIGA ACEVEDO, Diputado Secretario".
-
-De conformidad con lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Jalapa-Enríquez, a 22 de diciembre de 1947.- El Gobernador Constitucional del Estado, ADOLFO RUIZ CORTINES.- El Secretario de Gobierno, Lic. ANGEL CARVAJAL.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-G.O. 19 DE JULIO DE 1966.
-
-La presente Ley surtirá sus efectos legales, tres días después de su publicación en la "Gaceta Oficial" del Estado.
-
-G.O. 27 DE NOVIEMBRE DE 1969.
+(DEROGADO, P.0. 21 DE JULIO DE 1997)
 
 ###### Artículo 448.
 
@@ -2677,7 +3133,9 @@ Todas las notificaciones de la segunda instancia, se harán en la forma que prev
 
 La revisión de las sentencias recaídas en los casos y procedimientos señalados en el artículo 956 de este Código y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia con intervención del Ministerio Público. Y aunque las partes no expresaren agravios, la Sala de lo Familiar examinará la legalidad de la sentencia de primera instancia, observándose en lo conducente las formalidades previstas por el artículo 446 de este Código, quedando entre tanto sin ejecutarse aquélla.
 
-### CAPITULO III. Libertad por desvanecimiento de datos
+### CAPITULO I
+
+DEL SECUESTRO JUDICIAL.
 
 ###### Artículo 453.
 
@@ -2715,9 +3173,13 @@ La resolución se transcribirá al Juez de Primera Instancia para que la notifiq
 
 Si la denegada apelación se declara improcedente, el Tribunal impondrá a la parte quejosa una multa de veinticinco a ciento cincuenta cuotas, de la que será solidariamente responsable el apoderado o el abogado director.
 
-## TITULO NOVENO. JUICIO
+## TITULO NOVENO
 
-### CAPITULO I. Substanciación de las competencias
+DE LA EJECUCION DE LAS SENTENCIAS.
+
+### CAPITULO II
+
+DE LOS REMATES.
 
 ###### Artículo 459.
 
@@ -2863,7 +3325,9 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 El juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
-### CAPITULO II. Impedimentos, excusas y recusaciones
+### CAPITULO I
+
+DE LOS INCIDENTES EN GENERAL.
 
 ###### Artículo 486.
 
@@ -2929,9 +3393,13 @@ Traducida la ejecutoria en la forma prevista en el artículo 293, se presentará
 
 Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan sólo a examinar su autenticidad y si debe o no ejecutarse conforme a las leyes mexicanas.
 
-## TITULO DECIMO. RECURSOS
+## TITULO DECIMO
 
-### CAPITULO III. Suspensión del procedimiento
+DEL SECUESTRO Y DE LOS REMATES.
+
+### CAPITULO II
+
+DE LA ACUMULACION DE AUTOS.
 
 ###### Artículo 496.
 
@@ -3183,7 +3651,7 @@ Lo dispuesto en este capítulo, es aplicable a todos los casos de secuestro judi
 
 Todos los incidentes relativos al depósito, se substanciará por cuerda separada.
 
-### CAPITULO IV. Acumulación de autos
+### CAPITULO UNICO
 
 ###### Artículo 527.
 
@@ -3397,7 +3865,9 @@ VI.- En todo lo demás se estará a las disposiciones de este Capítulo.
 
 DE LOS INCIDENTES.
 
-### CAPITULO V. Separación de autos
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 561.
 
@@ -3443,9 +3913,9 @@ La sentencia de los incidentes será apelable en los casos en que lo fuere la se
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO VI. Reparación de daño exigible a personas distintas del inculpado
+### CAPITULO UNICO.
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+REGLAS GENERALES PARA TODOS LOS JUICIOS.
 
 ###### Artículo 568.
 
@@ -3549,7 +4019,9 @@ Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere m
 
 DE LAS TERCERIAS.
 
-### CAPITULO VII. Incidentes no especificados
+### CAPITULO I
+
+DEL JUICIO ORDINARIO.
 
 ###### Artículo 584.
 
@@ -3653,7 +4125,9 @@ Los impedimentos del juez en una tercería, ya en razón de competencia o por cu
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
 
-### CAPITULO UNICO
+### CAPITULO II
+
+DEL JUICIO EJECUTIVO.
 
 ###### Artículo 603.
 
@@ -3707,9 +4181,9 @@ DE LA JURISDICCION CONTENCIOSA.
 
 ## TITULO PRIMERO
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO III
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+DE LOS INTERDICTOS.
 
 ###### Artículo 612.
 
@@ -3777,11 +4251,11 @@ Lo dispuesto en los artículos anteriores se observará en lo conducente cuando 
 
 Si la demanda fuere obscura o irregular, el juez debe prevenir al actor que la aclare corrija o complete de acuerdo con los artículos anteriores, señalando en concreto sus defectos; hecho lo cual le dará curso.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ###### Artículo 617.
 
-El demandado acompañará copia del escrito y documentos a que se refiere la fracción IV del Artículo 614, sólo cuando reconvenga y de los en que las partes promueven algún incidente o hagan promociones en las que sea necesario correr traslado.
+El demandado acompañará copia del escrito, documentos y demás elementos a que se refieren las fracciones IV y V del artículo 614, sólo cuando reconvenga y de los en que las partes promueven algún incidente o hagan promociones en las que sea necesario correr traslado.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -3897,9 +4371,9 @@ La reconvención y la compensación, lo mismo que las excepciones opuestas con e
 
 DE LOS JUICIOS.
 
-### CAPITULO II. Suspensión Condicional
+### CAPITULO IV
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+DEL INTERDICTO DE OBRA PELIGROSA.
 
 ###### Artículo 638.
 
@@ -3935,9 +4409,61 @@ Respecto al término extraordinario de prueba se observará lo dispuesto en los 
 
 Las partes alegarán, de buena prueba en los términos a que se refieren los artículos 398 y 399 y se dictará la sentencia que corresponda dentro del término legal.
 
-### CAPITULO III. Reconocimiento de la inocencia del sentenciado
+### CAPITULO IV BIS
 
-#### SECCION PRIMERA. INCIDENTE DE LIBERTAD
+CONTROVERSIAS SOBRE CONVIVENCIA Y POSESION INTERINA DE MENORES.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS.- Se tramitarán conforme a las reglas de este Capítulo, los juicios que tengan por objeto:
+
+I.- Las controversias que versen sobre la custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, o cuando tenga el hábito de embriagarse o el uso indebido y persistente de drogas enervantes, que amenace causar la ruina de los hijos;
+
+II.- Las controversias respecto de la convivencia entre los padres en relación con sus hijos o entre éstos y aquéllos mientras estén sujetos a la patria potestad;
+
+III.- Las controversias que versen sobre los derechos de posesión de estado de padre o de hijo a que se refiere el Artículo 353 del Código Civil en vigor.
+
+Están legitimados para acudir en esta vía las personas que ejercen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente en aquellos en que dicha cuestión hubiere sido motivo de sentencia ejecutoria.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS I.- La demanda en que se ejercite cualquier acción de las previstas en el artículo que antecede, reunirá los requisitos señalados en los artículos 612 y 614 de este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS II.- Presentada la demanda en los términos que se expresan en el artículo anterior se correrá traslado de ella por el término de tres días para que se conteste.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS III.- Transcurrido el período de emplazamiento dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+La prueba documental podrá presentarse con anterioridad, sin perjuicio de que el Juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
+
+Cuando las partes tengan que rendir prueba testimonial deberán anunciarla en la demanda o en la contestación, respectivamente, mencionando los nombres y apellidos de los testigos exhibiendo copia de los interrogatorios al tenor de los cuales deberán ser examinados los testigos. El Juez ordenará que se entregue una copia a la contraria, para que pueda formular por escrito o hacer verbalmente las preguntas, al celebrarse la audiencia.
+
+La sentencia se pronunciará dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS IV.- En los supuestos de las fracciones I y III del Artículo 723 bis, la sentencia que declare procedente la acción, mandará amparar o restituir la custodia o posesión, dictando los apercibimientos y providencias oportunas.
+
+En el supuesto de la fracción II del Artículo 723 bis, en la sentencia, el Juez señalará los días y horas para la convivencia entre padres e hijos, dictando los apercibimientos y providencias necesarias para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS V.- La sentencia que se dicte en los asuntos a que se refieren las fracciones I y II del artículo 723 bis, podrán modificarse cuando cambien las circunstancias que afectan el ejercicio de la acción que se dedujo, observándose para ello la vía incidental.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS VI.- La sentencia que se emita será apelable en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS VII.- La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se dicte la sentencia ejecutoria.
+
+#### SECCION PRIMERA. DE LOS TITULOS QUE MOTIVAN EJECUCION Y DE LOS
+
+BIENES EN QUE ESTA PUEDE O NO LLEVARSE A EFECTO.
 
 ###### Artículo 646.
 
@@ -4037,7 +4563,9 @@ Para que procedan en la vía ejecutiva las acciones a que se refieren los artíc
 
 (DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-#### SECCION SEGUNDA. INCIDENTES DIVERSOS
+#### SECCION SEGUNDA
+
+DE LA EJECUCION.
 
 ###### Artículo 661.
 
@@ -4185,7 +4713,11 @@ Del escrito de oposición se dará traslado por tres días al acreedor; si se pr
 
 Si se declare infundada la oposición, el opositor será condenado en las costas y al pago de una multa equivalente al cinco por ciento sobre el interés del pleito, cuya multa se aplicará por mitad, al acreedor y al Fisco del Estado.
 
-### CAPITULO IV. De la rehabilitación
+### CAPITULO V
+
+DEL JUICIO SUMARIO DE ALIMENTOS.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 692.
 
@@ -4379,7 +4911,7 @@ En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio P
 
 ### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ### CAPITULO VII
 
@@ -4475,7 +5007,7 @@ DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
 
 ###### Artículo 733.
 
-Todas las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente capítulo.
+Las controversias que se susciten con motivo de lo dispuesto en el Título Sexto, Parte Segunda, Libro Cuarto, del Código Civil del Estado, se sujetarán al procedimiento que se establece en el presente capítulo, a excepción de las previstas en el Título Especial, de la Justicia de Paz, de este ordenamiento en las que se aplicarán las reglas de dicho apartado.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
@@ -4555,9 +5087,13 @@ DE LA ADMINISTRACION DEL CONCURSO.
 
 Serán objeto del juicio de menor cuantía:
 
-I.- Los negocios cuyo interés no exceda de ochocientas cincuenta cuotas de salario mínimo general.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de quinientas cincuenta cuotas de salario mínimo general.
+I.- Los negocios cuyo interés no exceda de mil quinientas cuotas de salario mínimo general.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
+
+II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de mil quinientas cuotas de salario mínimo general.
 
 En los casos en que se demande solamente el pago o cumplimiento de las prestaciones adeudadas, o del capital o gravamen por lo que éstas se adeuden, se estará a lo dispuesto por la fracción I de este artículo.
 
@@ -4569,19 +5105,21 @@ Para determinar la cuantía de las cuotas del salario mínimo general, se entend
 
 Para determinar la cuantía de los negocios a que se refiere la fracción I del Artículo anterior, se observará lo dispuesto en la primera parte del Artículo 112.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
 ###### Artículo 745.
 
-Si al entablarse demanda ante un alcalde judicial se opusieren excepciones que fueren materia de juicio de distinta tramitación o de distinta competencia se adoptará la forma de tramitación que corresponda según la naturaleza de la excepción o se remitirán las diligencias al juez competente para que conozca de ambas pretensiones al mismo tiempo. Si hubiere varios jueces competentes para conocer será preferido el que elija la parte que opuso la excepción.
+Si al entablarse la demanda ante un Juez Menor se opusieren excepciones que fueren materia de juicio de distinta tramitación o de distinta competencia, se adoptará la forma de tramitación que corresponda según la naturaleza de la excepción o se remitirán las diligencias al Juez competente para que conozca de ambas pretensiones al mismo tiempo. Si hubiere varios jueces competentes para conocer será preferido el que elija la parte que opuso la excepción.
 
 ###### Artículo 746.
 
 Los juicios de menor cuantía se ventilarán con el procedimiento y términos de los de mayor cuantía, salvo los casos expresamente determinados por la Ley.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-###### ARTICULO 747.
+###### Artículo 747.
 
-De los negocios señalados en el Artículo 743, conocerán los Alcaldes Judiciales de los Municipios mencionados en la fracción II del Artículo 55 de la Ley Orgánica del Poder Judicial. Fuera de estos casos, dichos negocios serán conocidos por los Jueces de Primera Instancia del Distrito Judicial correspondiente.
+De los negocios señalados en el artículo 743, conocerán los Jueces Menores a que se refiere el artículo 49 de la Ley Orgánica del Poder Judicial. Fuera de estos casos, dichos negocios serán conocidos por los Jueces de Primera Instancia del distrito judicial correspondiente.
 
 ###### Artículo 748.
 
@@ -5517,6 +6055,22 @@ Siempre que haya oposición de algún aspirante a la herencia o de cpualquier (s
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en este Capítulo. Esto se hará cuando no hubiere controversia alguna.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DEL 2000)</small>
+
+###### Artículo 885 Bis.
+
+Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado se observará lo siguiente:
+
+I.- Los legatarios o sus representantes exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado.
+
+II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el Estado, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, el nombre del testador y de los legatarios, y en su caso su parentesco.
+
+III.- El notario recabará del Archivo General de Notarías y del Registro Público de la Propiedad que en su caso corresponda, las constancias relativas a la existencia o inexistencia de testamento y de testamento público simplificado. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición.
+
+IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios de aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad. En su caso se podrá hacer la repudiación expresa.
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar a su vez un testamento público simplificado en los términos del artículo 1446 bis del código civil del Estado.
+
 ### CAPITULO XII
 
 DEL TESTAMENTO MILITAR.
@@ -6133,23 +6687,27 @@ En el caso del primer párrafo del Artículo 135 del Código Civil, el procedimi
 
 Exclusivamente para los efectos de los párrafos segundo y tercero del artículo 135 del Código Civil, se estará a las siguientes reglas:
 
-I.- Por lo que toca al territorio comprensivo de los Distritos Judiciales Primero, Segundo, Tercero y Cuarto, las solicitudes o demandas se promoverán directamente ante la Sala de lo Familiar del Tribunal Superior de Justicia, con las formalidades y requisitos fijados en los artículos 612 y 614 de este Código.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-En caso de que los interesados presentaran las solicitudes o demandas en la Oficialía de Partes o cualquiera de los Juzgados de los otros Distritos señalados en el párrafo anterior, las mismas deberán recibirse por los Titulares de dichos organismos y ponerlas de inmediato a disposición de la Sala de lo Familiar, instruyendo a los promoventes para que en lo sucesivo comparezcan ante ésta.
+I.- Las solicitudes o demandas se promoverán ante el Juez de lo Familiar o Mixto de Primera Instancia, en su caso, cumpliéndose con las formalidades y requisitos fijados en los artículos 612 y 614 de este Código.
 
-II.- En los demás Distritos Judiciales las solicitudes o demandas, con las mismas formalidades y requisitos ya mencionados, se dirigirán a la Sala Familiar por conducto de los Jueces de la cabecera de dichos Distritos, quienes en auxilio de aquélla recabarán el informe a que se alude en la fracción siguiente, juntamente con el cual las turnarán a la referida Sala el primer día hábil de cada semana.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-III.- En los supuestos de la fracción I de este artículo, de inmediato la Sala requerirá al Oficial del Registro Civil que corresponda, para que dentro de cuarenta y ocho horas informe respecto a la solicitud o demanda planteada.
+II.- Radicada la solicitud o demanda se correrá traslado y se emplazará de oficio al Oficial del Registro Civil que corresponda, así como a quien resulte con interés jurídico, a fin de que en el plazo de tres días se conteste respecto a la misma.
 
-Recibido el informe la Sala dictará la resolución sobre la solicitud o demanda promovida, la que se comunicará sin demora al Oficial del Registro Civil para que se cumpla con lo dispuesto en el artículo 138 del Código Civil.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-La Sala siempre podrá requerir al interesado de la presentación de documentos distintos a los exhibidos, para apoyar su resolución.
+III.- Transcurrido dicho plazo con o sin contestación, el Juzgado dictará la sentencia sobre la solicitud o demanda promovida.
 
-Cuando los interesados necesiten rendir alguna otra prueba de las señaladas en la Ley, su desahogo se encomendará a cualquiera de los Jueces Familiares del Primer Distrito Judicial o a aquél ante quien se haya presentado la solicitud o demanda, enviándoles, en su caso, los interrogatorios debidamente calificados, debiéndose observar los plazos a que se refiere el párrafo siguiente.
+El juzgado siempre podrá requerir al interesado de la presentación de documentos distintos a los exhibidos, para apoyar su resolución.
 
-La resolución de la Sala se pronunciará en un plazo que nunca excederá de cinco días hábiles a contar del siguiente al en que se reciba el informe del Oficial del Registro Civil excepto en los casos del párrafo que antecede en que contará con un período no mayor de quince días hábiles, tanto para la recepción de las pruebas como para pronunciar la resolución.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DEL 2000)</small>
 
-Contra la resolución de la Sala no procederá recurso alguno.
+IV.- Cuando los interesados necesiten rendir pruebas, deberán anunciarlas en la solicitud o demanda o su contestación. Evacuado el traslado o transcurrido el término, el Juez dictará resolución en la que admitirá o desechará las pruebas que los interesados hubieren anunciado y los citará a una audiencia que se desahogará dentro de cinco días, en la que se recibirán las pruebas que se hubieren admitido, se oirán los alegatos que formulen y acto continuo quedará el asunto para sentencia que deberá pronunciarse dentro de los cinco días siguientes.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DEL 2000)</small>
+
+V.- La sentencia a que se alude en las fracciones III y IV de este precepto, admite el recurso de apelación en el efecto devolutivo y, una vez que cause formalmente ejecutoria la sentencia que declare procedente la solicitud o demanda, se comunicará sin demora al Oficial del Registro Civil para que se cumpla con lo dispuesto en el artículo 138 del Código Civil.
 
 > <small>(ADICIONADO CON SUS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6495,15 +7053,17 @@ DE LA JUSTICIA DE PAZ
 
 DEL JUICIO
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
+
 ###### Artículo 1.
 
-Los alcaldes judiciales a que se refiere al artículo 94 de la Constitución Política del Estado, a quienes también se les denomina jueces menores, tendrán competencia para conocer de los negocios que se mencionan en este Título.
+Los Jueces Menores a que se refiere el artículo 94 de la Constitución Política del Estado, también tendrán competencia para conocer de los negocios que se mencionan en este Título.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DEL 2000)</small>
 
 ###### Artículo 2.
 
-Conocerán los Alcaldes Judiciales de los juicios cuya cuantía no excede de veinticinco cuotas diarias del salario mínimo general, entendiéndose por éste, el más bajo de los diversos que puedan regir la Entidad.
+Conocerán los Jueces Menores de los juicios cuya cuantía no exceda de ciento cincuenta cuotas diarias del salario mínimo general, entendiéndose por éste, el más bajo de los diversos que puedan regir en la entidad.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclamen en ella.
 
@@ -6803,19 +7363,19 @@ DECRETO 110, QUE REFORMA Y ADICIONAN LOS ARTICULOS 101, 109 ...
 
 ###### ARTICULO PRIMERO.
 
-Publíquese en la "Gaceta Oficial" del Estado.
+Las presentes reformas entrarán en vigor el día primero de abril de mil novecientos ochenta y uno.
 
 ###### ARTICULO SEGUNDO.
 
-Esta Ley entrará en vigor a partir del día primero del año de mil novecientos setenta.
+Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
 
-G.O. 24 DE JUNIO DE 1980.
+P.O. 2 DE MARZO DE 1981.
 
-PRIMERO.-La presente Ley entrará en vigor tres días después de su publicación en la 'Gaceta Oficial' del Estado.
+DECRETO 111, QUE REFORMA EL ARTÍCULO 880.
 
-SEGUNDO.-Las causas que estén en período de instrucción o juicio serán concluidas por los jueces que las haya radicado.
+Único:- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-G.O. 30 DE SEPTIEMBRE DE 1980.
+P.O. 1º. DE ENERO DE 1982.
 
 ###### ARTICULO PRIMERO
 
@@ -6847,9 +7407,17 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 23 DE NOVIEMBRE DE 1983.
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-Estas reformas entrarán en vigor el día veinte de octubre de mil novecientos ochenta.
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1983.
+
+PRIMERO:- Todos los expedientes que se encuentren en trámite podrán acogerse al procedimiento establecido en este decreto.
+
+SEGUNDO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO
 
@@ -6875,17 +7443,17 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE FEBRERO DE 1985.
-
-###### ARTICULO UNICO
-
-- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
 P.O. 21 DE ENERO DE 1987.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 2 DE AGOSTO DE 1991.
 
@@ -6980,3 +7548,11 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 P.O. 3 DE ENERO DEL 2000.
 
 Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DEL 2000.
+
+Único.- El presente Decreto iniciará su vigencia al día siguiente a aquél en que surta efectos la reforma presentada el 21 de febrero del año 2000 a los artículos 3 fracciones II, III y IX; 5, 7, 26 fracción III; 28 fracciones II y III; 33, 35 fracción V; 49, 50, 51 fracción III; 52, 91, 115 fracción III y último párrafo; 125, 129, 130 párrafo tercero; 131 fracciones I a IV; 136, fracciones XII y XIII, 142, 145, 146 y 150 de la Ley Orgánica del Poder Judicial del Estado de Nuevo León.
+
+P.O. 13 DE OCTUBRE DEL 2000.
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
