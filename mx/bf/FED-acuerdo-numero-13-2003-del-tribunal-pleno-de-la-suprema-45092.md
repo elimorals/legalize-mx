@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-13-2003-del-tribunal-pleno-de-la-suprema-45092"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-12-01"
-last_updated: "2003-12-01"
+last_updated: "2004-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45092&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-01"
 
 ACUERDO NUMERO 13/2003, DE DOS DE DICIEMBRE DE DOS MIL TRES, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE MODIFICA EL DIVERSO 9/2003, DEL VEINTISIETE DE MAYO DE DOS MIL TRES, DEL PROPIO PLENO, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES, PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2004.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de diciembre de 2003.
 
@@ -76,3 +76,17 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 13/2003, que modifica el diverso 9/2003, del veintisiete de mayo de dos mil tres, del propio Pleno, que establece los órganos, criterios y procedimientos institucionales, para la transparencia y acceso a la información pública de este Alto Tribunal, fue emitido por el Tribunal Pleno en sesión privada celebrada hoy dos de diciembre de dos mil tres, por unanimidad de ocho votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a primero de diciembre de dos mil tres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 2 DE ABRIL DE 2004.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este reglamento en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Los órganos establecidos en los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, continuarán funcionando con las atribuciones que les fueron conferidas en esas disposiciones generales, en tanto se expiden los acuerdos generales a que se refiere el presente reglamento.
+
+CUARTO.- Con la salvedad establecida en el artículo transitorio que antecede, se derogan los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, así como las demás disposiciones derivadas de esos acuerdos.
+
+QUINTO.- La consulta física de los expedientes relativos a los asuntos jurisdiccionales o administrativos, que antes del doce de junio de dos mil tres habían concluido y se encontraban bajo resguardo de la Suprema Corte, del consejo o de los órganos jurisdiccionales se permitirá sin mayores restricciones que las necesarias para su conservación.
