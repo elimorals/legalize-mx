@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-y-prestacion-de-servicios-para-1843
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-24"
-last_updated: "2000-01-24"
+last_updated: "2004-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES Y PRESTACION DE SERVICIOS PARA EL MUNICIPIO DE MARIN, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 24 de enero de 2000.
 
@@ -101,21 +101,23 @@ IV.- Señalar los casos de excepción respecto a la celebración de los concurso
 
 V.- Emitir opinión respecto a la adjudicación de los pedidos y contratos.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 8.
 
-Todas las adquisiciones que realice el Municipio y los organismos del sector municipal, así como los servicios que se requieran deberán sujetarse a las siguientes reglas:
+Todas las adquisiciones que realice el municipio y los organismos del sector municipal, así como los servicios que se requieran deberán sujetarse a las siguientes reglas:
 
-Cuotas
+CUOTAS
 
-Por asignación directa Hasta 1,500
+Por asignación directa: Hasta 1,500
 
-Adquisición directa mediante cotización 1,501 Hasta 5,000
+Adquisición directa mediante cotización De 1501 Hasta 5000
 
 por escrito de cuando menos tres
 
 proveedores, de:
 
-Adquisición directa mediante cotización De 5,001 hasta 8,000
+Adquisición directa mediante cotización De 5001 hasta 8000
 
 por escrito de cuando menos tres
 
@@ -123,15 +125,17 @@ proveedores, debiéndose contar con la
 
 aprobación del H. Ayuntamiento, de:
 
-Mediante convocatoria pública, que se De 8,001 en adelante.
+Mediante convocatoria pública, que se De 8001 en adelante.
 
 publicará en el Periódico Oficial del
 
 Estado y por lo menos en uno de los
 
-diarios de mayor circulación en el Estado.
+diarios de mayor circulación en el
 
-Se entiende por cuota el equivalente al salario mínimo diario vigente en el área geográfica correspondiente al Municipio.
+Estado, de:
+
+Se entiende por cuota el equivalente al salario mínimo diario vigente en el área geográfica correspondiente al municipio, mismas que serán acumuladas (las cuotas) en un periodo de 30 días naturales contados a partir de la realización de la compra y/o servicio prestado, correspondiente al Municipio.
 
 ### CAPITULO III. DE LOS CONCURSOS
 
@@ -294,3 +298,9 @@ PRESIDENTE MUNICIPAL
 ING. HECTOR CANTU MARTINEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2004.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA; SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON VIGENTE.
