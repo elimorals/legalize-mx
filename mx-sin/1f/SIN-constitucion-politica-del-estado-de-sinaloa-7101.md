@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-10-27"
+last_updated: "1938-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -635,7 +635,9 @@ IX. Formar la estadística del Estado.
 
 X. Pedir y dar informes al Congreso sobre cualquier ramo de la administración y al Supremo Tribunal de Justicia sobre los de su competencia.
 
-XI. Autorizar los títulos profesionales expedidos por las instituciones docentes oficiales del Estado.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1938)</small>
+
+XI. Expedir los títulos profesionales concedidos por las instituciones docentes oficiales del Estado, de acuerdo con las leyes que las rijan.
 
 XII. Extender los Fiats de Notarios con arreglo a la ley respectiva.
 
@@ -1512,3 +1514,7 @@ Unico.- Este Decreto surte sus efectos a partir de la fecha de su publicación e
 P.O. 27 DE OCTUBRE DE 1938.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 26 DE NOVIEMBRE DE 1938.
+
+UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
