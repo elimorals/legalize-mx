@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1979-12-31"
+last_updated: "1980-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1980.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -287,11 +287,17 @@ Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sob
 
 ### CAPITULO II. Impuesto Sobre Transmisión de Dominio
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 28.
 
-Son objeto del Impuesto a que se refiere este capítulo, los contratos de compraventa, o cualesquiera otros por los que se trasmitan derechos reales o posesorios sobre bienes inmuebles, así como los actos constitutivos de fideicomisos, los actos de ejecución de los mismos, la cesión de derechos de fideicomisarios y la adquisición de inmuebles o derechos reales por prescripción.
+Son objeto del Impuesto sobre transmisión de Dominio:
+
+I.- Los Contratos compra-venta, ó cualesquiera otros por los que se transmitan derechos reales o posesorios sobre bienes inmuebles;
+
+II.- Los actos constitutivos de fideicomisos, los actos de ejecución de los mismos, y la cesión de Derechos de Fideicomisarios, todos estos sobre bienes inmuebles, y
+
+III.- La adquisición de inmuebles o derechos reales por prescripción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1978,3 +1984,9 @@ ARTICULO Lo (sic).- El presente Decreto entrará en vigor el día siguiente al d
 ###### ARTICULO 2o.
 
 Se cancelan todas las exenciones otorgadas con base en el artículo 151-18 que se deroga a partir de la vigencia de este Decreto.
+
+P.O. 10 DE FEBRERO DE 1980.
+
+###### ARTICULO UNICO.
+
+Las disposiciones que establece el presente Decreto entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
