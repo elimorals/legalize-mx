@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1997-09-03"
+last_updated: "1998-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -413,7 +413,9 @@ II.- El último Presidente del Congreso o de la Diputación Permanente en su cas
 
 III.- El último Vicepresidente del Congreso.
 
-IV.- El último Secretario de Gobierno, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- El último Secretario General de Gobierno, y
 
 V.- Sucesivamente, el Presidente Municipal que, habiendo permanecido dentro del orden legal, represente a alguno de estos municipios: Chihuahua, Juárez, Cuauhtémoc, Delicias, Hidalgo del Parral, Camargo, Nuevo Casas Grandes, Jiménez, Guerrero y Madera.
 
@@ -1007,19 +1009,29 @@ E.- Presentar al Congreso, al abrirse el período de sesiones posterior inmediat
 
 Para que los diputados puedan cumplir con las prevenciones contenidas en este artículo, todos los funcionarios del Estado y de los municipios les proporcionarán cuantos datos les pidieren.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 66.
 
-Los diputados podrán formular preguntas al Secretario de Gobierno, al Procurador General de Justicia o a cualquiera de los directos generales, conforme a las bases siguientes:
+Los Diputados podrán formular preguntas al Secretario General de Gobierno, al Procurador General de Justicia o a cualquiera de los Secretarios y Coordinadores, conforme a las bases siguientes:
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 I.- Deberán presentarse por escrito, redactadas en forma sucinta, acompañarse de un breve motivación y leídas por su autor en sesión ordinaria del Congreso, que no sea solemne ni de apertura o clausura de período.
 
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+
 II.- No podrán contener más que la directa y estricta formulación de una sola cuestión, interrogando sobre un hecho, una situación o una información que no sean del exclusivo interés de quien plantea la pregunta, de cualquier otra persona en particular ni tratarse de una consulta de carácter meramente técnico.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 III.- A más tardar en la segunda sesión posterior a la de su formulación, el Presidente del Congreso turnará la pregunta a quien va dirigida, con aviso al Gobernador, una vez que haya constatado que el cuestionamiento corresponde a un asunto de la competencia del funcionario de que se trate y que además reúne los requisitos señalados en las fracciones anteriores. En caso contrario, o bien porque ya se haya presentado otra pregunta similar en el mismo período, la declarará improcedente.
 
-IV.- El funcionario, por conducto del Secretario de Gobierno, hará llegar su respuesta o informe correspondiente al Presidente del Congreso o de la Diputación Permanente dentro de los treinta días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada el plazo podrá prorrogarse por una sola vez hasta por diez días naturales, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- El funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente al Presidente del Congreso o de la Diputación Permanente dentro de los treinta días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada el plazo podrá prorrogarse por una sola vez hasta por diez días naturales, y
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 V.- El Congreso conocerá la respuesta y en su caso podrá debatir sobre ella, pero se abstendrá de acordar moción o voto de censura.
 
@@ -1227,9 +1239,9 @@ III.- No ser ministro de algún culto religioso o haberse retirado del mismo en 
 
 IV.- No haber sido nombrado Gobernador Interino, Provisional o Substituto, en los términos que establece el artículo 90 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-V.- No ser Secretario de Gobierno, Procurador General de Justicia, Director General, ni Magistrado del Supremo Tribunal de Justicia.
+V.- No ser Secretario General de Gobierno, Procurador General de Justicia, Secretario, Coordinador, ni Magistrado del Supremo Tribunal de Justicia;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1265,9 +1277,9 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso, o ante
 
 Las faltas temporales o absolutas del Gobernador se suplirán en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-I.- En caso de falta temporal que no exceda de 60 días, el Secretario de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente, si la falta excediere de dicho plazo, el Congreso o la citada Diputación nombrará un Gobernador Interino, si la falta temporal se convirtiere en absoluta, se estará a lo dispuesto en la Fracción IV de este precepto.
+I. En caso de falta temporal que no exceda de sesenta días, el Secretario General de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente. Si la falta excediere de dicho plazo, el Congreso o la citada Diputación nombrará un Gobernador Interino. Si la falta temporal se convierte en absoluta, se estará a lo dispuesto en la fracción IV de este precepto.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1281,13 +1293,13 @@ En los casos de esta fracción y de la próxima anterior la Diputación Permanen
 
 IV.- Si la falta absoluta ocurriere no encontrándose el Gobernador en ejercicio de sus funciones, el Gobernador Interino continuará en el desempeño del cargo hasta que tomen posesión en sus respectivos casos, el Gobernador Provisional o el Gobernador Substituto.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-V.- Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Secretario de Gobierno se encargará del Despacho hasta la Toma de Posesión del Gobernador Provisional o del Sustituto, en sus respectivos casos.
+V. Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Secretario General de Gobierno se encargará del Despacho, hasta la toma de posesión del Gobernador Provisional o del Sustituto, en sus respectivos casos;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por Ministerio de Ley el Secretario de Gobierno, Provisional o Sustituto, se requieren las condiciones que para ser Gobernador Constitucional exigen las Fracciones I, II, III y IV del Artículo 84 de esta Constitución.
+VI. Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministerio de ley el Secretario General de Gobierno, Provisional o Sustituto, se requieren las condiciones que para ser Gobernador Constitucional exigen las fracciones I, II, III y IV del artículo 84 de esta Constitución.
 
 ###### Art. 90.
 
@@ -1377,9 +1389,9 @@ XX.- Proponer al Congreso los candidatos a magistrados del Tribunal de lo Conten
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO PRIMERA PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-XXII.- Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia, Directores Generales, Sub-Procuradores y Jefes de Departamento y recibirles la Protesta de Ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
+XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Procurador General de Justicia, Secretarios, Coordinadores, Subprocuradores y Directores y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
 
 Asimismo nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes.
 
@@ -1443,11 +1455,11 @@ La Administración Pública será centralizada y paraestatal conforme a la Ley O
 
 Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Ejecutivo del Estado, o entre estas y las dependencias centralizadas en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 95.
 
-Para ser Secretario de Gobierno, Procurador General de Justicia o Director General, se requiere:
+Para ser Secretario General de Gobierno, Procurador General de Justicia, Secretario o Coordinador, se requiere:
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1457,9 +1469,9 @@ I.- Ser ciudadano mexicano por nacimiento.
 
 II.- Ser chihuahuense en pleno ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-III.- Ser originario del Estado, o bien haber residido en el mismo durante los cinco años anteriores a la fecha de su nombramiento.
+III.- Ser originario del Estado, o bien haber residido en el mismo cuando menos durante cinco años.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
 
@@ -1469,31 +1481,29 @@ IV.- Ser mayor de 25 años.
 
 V.- No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-En los casos del Secretario de Gobierno y del Procurador General de Justicia, se requiere ser mayor de 30 años y este último tener título de Licenciado en Derecho debidamente registrado y 5 años cuando menos de ejercicio profesional.
+En los casos del Secretario General de Gobierno y del Procurador General de Justicia, se requiere ser mayor de treinta años y este último tener título de Licenciado en Derecho debidamente registrado y 5 años cuando menos de ejercicio profesional.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 96.
 
-Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario de Gobierno en su caso, y los titulares de dichos poderes.
+Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+El Secretario General de Gobierno, el Procurador General de Justicia, los Secretarios y los Coordinadores, luego que esté abierto el segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
 
-El Secretario de Gobierno, el Procurador General de Justicia y los directores generales, luego que esté abierto el segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 97.
 
-Todas las Leyes o Decretos del Congreso, salvo los casos previstos en el Artículo 74, deberán ser firmados por el Gobernador y el Secretario de Gobierno, requisito sin el cual no serán obligatorios; los Reglamentos, Acuerdos, Ordenes y Circulares y demás disposiciones del Gobernador, serán firmados por el Secretario de Gobierno y por el Director General a que el asunto corresponda o por el Procurador General de Justicia, en su caso.
+Todas las leyes o decretos del Congreso, salvo los casos previstos en el Artículo 74, deberán ser firmados por el Gobernador y el Secretario General de Gobierno, requisito sin el cual no serán obligatorios; los Reglamentos, Acuerdos, Ordenes, Circulares y demás disposiciones del Gobernador, serán firmados por el Secretario General de Gobierno y por el Secretario o Coordinador a que el asunto corresponda o por el Procurador General de Justicia, en su caso.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 98.
 
-Las ausencias temporales del Secretario de Gobierno, cuando no excedan de 60 días, serán suplidas por el Procurador General de Justicia.
+Las ausencias temporales del Secretario General de Gobierno, cuando no excedan de 60 días, serán suplidas por el Procurador General de Justicia.
 
 ## TITULO IX.
 
@@ -2227,11 +2237,11 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 
 El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral y el Instituto Estatal Electoral, por conducto de sus respectivos presidentes, comunicarán oportunamente al Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal, a fin de que sin modificación alguna los presente al Congreso.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 167.
 
-Cuando estuviere por agotarse alguna asignación en cualquier partida del Presupuesto, el Director General de Finanzas deberá dar aviso al Gobernador para que este promueva lo conducente.
+Cuando estuviere por agotarse alguna asignación en cualquier partida del presupuesto, el Secretario de Finanzas y Administración deberá dar aviso al Gobernador para que éste promueva lo conducente.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2333,9 +2343,9 @@ Tienen fuero:
 
 I.- Del Poder Legislativo, los Diputados al Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario de Gobierno y el Procurador General de Justicia.
+II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario General de Gobierno y el Procurador General de Justicia.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2577,7 +2587,7 @@ DECRETO No. 263
 
 PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periodo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periódo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
 
 TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
 
@@ -2712,3 +2722,13 @@ Para la asignación de Sala a los magistrados supernumerarios, prevalecerá la a
 ###### ARTICULO CUARTO.
 
 Para los efectos de la redistritación a que aluden los dos últimos párrafos del artículo 40 de la presente Constitución, el Congreso del Estado promoverá la prestación de apoyo técnico por parte del Instituto Federal Electoral, con el propósito de que este Organismo le plantee una propuesta de redistritación, misma que servirá de base para tal efecto.
+
+P.O. 3 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día cuatro de octubre de mil novecientos noventa y ocho.
+
+SEGUNDO.- Siempre que algún ordenamiento mencione a la Secretaría de Gobierno, Dirección General o Departamento, de la administración pública estatal centralizada, se entenderán referidos respectivamente a la Secretaría General de Gobierno, la Secretaría o la Dirección que correspondan en los términos del presente decreto, siendo aplicable esta disposición en cuanto a sus titulares.
+
+Estas previsiones serán aplicables en lo conducente, a las asignaciones correspondientes del Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal de 1998.
+
+Lo anterior, sin perjuicio de las consecuentes modificaciones a la normatividad estatal para adecuarla al presente decreto.
