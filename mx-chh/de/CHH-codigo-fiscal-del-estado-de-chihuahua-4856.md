@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2002-12-25"
+last_updated: "2003-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -3143,7 +3143,9 @@ I.- La oficina que deba proceder al remate nombrará un perito y lo hará saber 
 
 II.- El deudor deberá ponerse de acuerdo con la oficina sobre el nombramiento de un tercer perito, que intervendrá si hubiere desacuerdo entre los dos antes mencionados.
 
-III.- Si el deudor no se pone de acuerdo, para los efectos de la fracción que antecede, con la autoridad ejecutora, ésta nombrará como perito tercero a alguna institución fiduciaria.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+
+III.- Si el deudor no se pone de acuerdo, para los efectos de la fracción que antecede, con la autoridad ejecutora, ésta nombrará como perito tercero a una institución de crédito o a un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones.
 
 360.- El avalúo pericial deberá quedar terminado dentro del término fijado por la autoridad ejecutora, de acuerdo con las circunstancias del caso.
 
@@ -4762,3 +4764,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 A la entrada en vigor del presente Decreto, la opción de presentar declaraciones y realizar pagos a través de la red electrónica mundial, estará sujeta a la expedición de las reglas de operación por parte de la Secretaría de Finazas (sic) y Administración.
 
 Las reglas deberán publicarse en el Periódico Oficial del Estado y expresar, como mínimo: las contribuciones cuya declaración y pago puedan efectuarse por conducto de la red electrónica, la fecha a partir de la cual podrá utilizarse este medio, así como los requisitos y procedimientos a los que deberán sujetarse los contribuyentes que opten por el mismo.
+
+P.O. 8 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
