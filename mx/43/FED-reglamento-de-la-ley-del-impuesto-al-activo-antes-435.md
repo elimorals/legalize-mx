@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-activo-antes-435"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-03-30"
-last_updated: "1992-03-31"
+last_updated: "1992-11-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=435&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1989-03-29"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de marzo de 1989.
 
@@ -209,13 +209,7 @@ Cuando los contribuyentes estimen justificadamente que el impuesto del ejercicio
 
 La autorización respectiva se solicitará a la autoridad administradora del impuesto, correspondiente al domicilio del contribuyente, a más tardar el día 15 del primer mes del período por el que se solicite la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
-
-Los contribuyentes que hayan hecho dictaminar sus estados financieros correspondientes al ejercicio inmediato anterior, podrán disminuir sus pagos provisionales en los términos del presente artículo, siempre que dictaminen sus estados financieros relativos al ejercicio por el que se disminuyan los pagos provisionales y presenten aviso ante la autoridad competente en el que se haga constar dicha circunstancia. Lo establecido en este párrafo no es aplicable tratándose de contribuyentes que paguen el impuesto sobre la renta en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta.
-
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
-
-También se podrán disminuir los pagos provisionales de las operaciones de asociación en participación y de fideicomisos con actividades empresariales, siempre que el asociante o fideicomitente, según sea el caso, dictaminen sus estados financieros, en los términos del párrafo anterior.
+> <small>(DEROGADO TERCERO Y CUARTO PARRAFOS, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -225,7 +219,9 @@ I.- Determinarán el impuesto del ejercicio en el que se disminuyeron los pagos 
 
 II.- La cantidad que resulte de disminuir al impuesto del ejercicio los pagos provisionales no reducidos, se dividirá entre el número de meses en que se redujeron dichos pagos.
 
-III.- EL importe que se obtenga conforme a la fracción anterior se comparará contra cada uno de los pagos provisionales disminuidos y cuando resulte que éstos se cubrieron en una cantidad menor a ese importe, por la diferencia se cubrirán recargos en los términos del Código Fiscal de la Federación. No se pagarán recargos cuando dicha diferencia sin actualizar no exceda del 5% del pago efectuado.
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
+
+III.- EL importe que se obtenga conforme a la fracción anterior se comparará contra cada uno de los pagos provisionales disminuidos y cuando resulte que éstos se cubrieron en una cantidad menor a ese importe, por la diferencia se cubrirán recargos en los términos del Código Fiscal de la Federación.
 
 > <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -368,3 +364,7 @@ Para los efectos del artículo 2o. fracción II de la Ley, las sociedades y asoc
 D. O. 31 DE MARZO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación el Diario Oficial de la Federación.
+
+D. O. 5 DE NOVIEMBRE DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
