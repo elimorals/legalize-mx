@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2003-10-29"
+last_updated: "2004-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2004.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1979,6 +1979,10 @@ Al expedir y reformar el Congreso del Estado el Presupuesto de Egresos, se estab
 
 Se prohiben expresamente los sobresueldos, los llamados "gastos de representación" y demás obvenciones.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2004)</small>
+
+No tendrán efecto alguno los acuerdos o resoluciones que el Congreso del Estado o los Ayuntamientos de la Entidad tomen para otorgar, con cargo al erario público, préstamos personales a sus integrantes.
+
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 148.
@@ -2968,6 +2972,12 @@ La ley reglamentaria de los procesos de consulta y participación ciudadana debe
 P.O. 29 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE ENERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO CUARTO.
 
