@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "1993-12-23"
+last_updated: "1995-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LBM"
 
 LEY DEL BANCO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
@@ -678,7 +678,9 @@ NOVENO.- El Banco de México podrá poner en circulación en cualquier tiempo lo
 
 DECIMO.- El Banco podrá seguir desempeñando el cargo de fiduciario en los fideicomisos que actualmente maneja, que no estén previstos en el artículo 7o. fracción XI, pudiendo recibir de dichos fideicomisos depósitos bancarios de dinero.
 
-Tratándose de fideicomisos públicos de fomento económico, el Banco sólo podrá seguir desempeñando el mencionado cargo durante un plazo máximo de dos años. El Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público en su carácter de fideicomitente único de la Administración Pública Centralizada, convendrá con la institución de crédito que al efecto determine, los actos conducentes a la sustitución de fiduciario en los citados fideicomisos. Los créditos que el Banco de México haya otorgado con anterioridad a la fecha de entrada en vigor de la presente Ley a los fideicomisos mencionados en el párrafo inmediato anterior, podrán mantenerse hasta su vencimiento e incluso renovarse una o más veces por un plazo conjunto no mayor de veinte años.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+Los créditos que el Banco de México haya otorgado con anterioridad a la fecha de entrada en vigor de la presente Ley a los fideicomisos públicos de fomento económico que administra, podrán mantenerse hasta su vencimiento e incluso renovarse una o más veces por un plazo conjunto no mayor de veinte años.
 
 En caso de fideicomisos distintos de los señalados en el segundo párrafo de este artículo, el Banco quedará facultado para renunciar a la encomienda fiduciaria cuando así lo estime conveniente. En estos casos el fiduciario sustituto será designado por las personas que a continuación se señalan, en el orden en que están mencionadas: las facultadas para ello de conformidad con el acto jurídico que rija al fideicomiso; el o los fideicomitentes; el o los fideicomisarios, individualizados, o, a falta de las anteriores, el propio Banco de México. En tanto el Banco continúe siendo fiduciario en estos fideicomisos podrá concederles financiamiento con carácter extraordinario para evitar eventuales incumplimientos de sus obligaciones.
 
@@ -711,3 +713,25 @@ Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracc
 México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo dispuesto en el artículo 118-A de la Ley de Instituciones de Crédito se aplicará a los modelos de contratos de adhesión que sirvan de base para la celebración de contratos a partir del inicio de la vigencia del presente Decreto.
+
+TERCERO.- Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto.
+
+CUARTO.- Las reclamaciones presentadas por los usuarios del servicio de banca y crédito ante la Comisión Nacional Bancaria y de Valores, con anterioridad al inicio de la vigencia del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por los artículos 119 y 120 de la Ley de Instituciones de Crédito, que se encontraban vigentes al momento de su presentación.
+
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
+
+SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento.
+
+OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.
+
+NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto.
