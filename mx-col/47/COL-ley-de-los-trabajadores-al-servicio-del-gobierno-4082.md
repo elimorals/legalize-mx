@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "1996-10-26"
+last_updated: "2001-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1045,7 +1045,17 @@ Dos Magistrados serán designados por el Poder Judicial y los Ayuntamientos.
 
 Dos Magistrados serán designados por los sindicatos, por conducto de la Unión.
 
-Un Magistrado, que tendrá el carácter de Presidente, será electo por mayoría calificada de dos terceras partes del Congreso del Estado, de una terna propuesta por el Titular del Poder Ejecutivo. Este Magistrado deberá ser Licenciado en Derecho, con una antigüedad mínima de tres años de ejercicio profesional y con experiencia acreditable en materia laboral.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+
+Un Magistrado, que tendrá el carácter de Presidente y que a propuesta en terna del titular del Poder Ejecutivo estatal será electo por el Congreso del Estado, por mayoría calificada, en el improrrogable plazo de 30 días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado Presidente la persona que de dicha terna, designe el Gobernador. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, con respecto a la cual el Congreso resolverá dentro del improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en dicho plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esta terna, designe el Gobernador.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
+
+Si a la conclusión del período legal del cargo de Magistrado Presidente el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
+
+Este Magistrado deberá ser Licenciado en Derecho con una antigüedad mínima de 3 años de ejercicio profesional y con experiencia acreditable en materia laboral.
 
 ###### ARTICULO 134.
 
@@ -1352,3 +1362,7 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica
 P.O. 26 DE OCTUBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
