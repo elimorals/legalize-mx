@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2000-08-04"
+last_updated: "2001-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -45,107 +45,31 @@ LEY DE HACIENDA DEL ESTADO DE SINALOA
 
 ### CAPITULO I. IMPUESTO SOBRE ADQUISICION DE VEHICULOS DE MOTOR USADO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ART. 1o.- Están obligados al pago de este impuesto, quienes por cualquier título adquieran dentro del territorio del Estado, la propiedad o la posesión de vehículos de motor usado, siempre que la enajenación no sea objeto del Impuesto al Valor Agregado.
+ART. 1o.- Están obligados al pago de este impuesto, quienes por cualquier título adquieran dentro del territorio del Estado, la propiedad o la posesión de vehículos de motor usado siempre que la enajenación no sea objeto del Impuesto al Valor Agregado. Para los efectos de esta Ley, se entenderá que la adquisición se efectúa dentro del Estado, aún y cuando dicha unidad se haya adquirido en otra Entidad Federativa, cuando se inscriba en el Registro Estatal de Vehículos Automotores, mediante la expedición de placa y calcomanía.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Para los efectos de este Capítulo, se entiende por vehículo de motor usado cuya propiedad sea transferida por segunda o ulteriores manos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ART. 2o.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
+ART. 2o.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Administración y Finanzas teniendo como soporte la Guía EBC Libro Azul Oficial del Mercado Automovilístico Mexicano de Autos Usados, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Para vehículos cuyo modelo corresponda al año en curso, se tomará como base para el cálculo del impuesto el 90% del importe de la primera facturación, incluyendo dentro de ésta el equipo opcional común o de lujo, así como el monto de los impuestos que hayan sido efectivamente pagados por el primer propietario del vehículo.
 
-El avalúo pericial a que se refiere el primer párrafo de este artículo, deberá ser practicado considerando el valor real del vehículo en la fecha de que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
-
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 3o.- Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquier parte del territorio de la Entidad.
+El avalúo pericial a que se refiere el primer párrafo de este artículo, deberá ser practicado considerando el valor real del vehículo en la fecha de que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
-ART. 4o.- Este impuesto se causará aplicando sobre la base a que se refiere el Artículo 2 de esta Ley, la siguiente:
+ART. 3o.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-T A R I F A:
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-CLASE Y MODELO DE VEHICULO TASA %
-
-I.- Automóviles de modelo hasta cinco años anteriores
-
-al año en curso incluyendo este último:
-
-a.- de 8 cilindros 4.0
-
-b.- de 6 cilindros 3.5
-
-c.- de 4 cilindros 3.0
-
-II.- Automóviles de modelo entre 6 y 10 años anteriores
-
-al año en curso:
-
-a.- de 8 cilindros 3.5
-
-b.- de 6 cilindros 3.0
-
-c.- de 4 cilindros 2.5
-
-III.- Automóviles de modelo superior a los 10 años anteriores al año en curso:
-
-a.- de 8 cilindros 3.0
-
-b.- de 6 cilindros 2.5
-
-c.- de 4 cilindros 2.0
-
-IV.- Unidades de carga y pasaje modelo hasta 5 años anteriores al año en curso incluyendo este último:
-
-a.- Tracto Camiones y Volteo 4.0
-
-b.- Omnibus y Minibus 3.5
-
-c.- Chasis todas modalidades 3.0
-
-d.- Estacas, Pick-Up, Panel, Van, Maxi y
-
-Club-Cab. 2.5
-
-V.- Unidades de carga y pasaje modelo entre 6 y
-
-10 años anteriores al año en curso:
-
-a.- Tracto Camiones y Volteo 3.5
-
-b.- Omnibus y Minibus 3.0
-
-c.- Chasis todas modalidades 2.5
-
-d.- Estacas, Pick-Up, Panel, Van, Maxi
-
-y Club-Cab. 2.0
-
-VI.- Unidades de carga y pasaje modelo
-
-superior a los 10 años anteriores al año
-
-en curso:
-
-a.- Tracto Camiones y Volteo 3.0
-
-b.- Omnibus y Minibus 2.5
-
-c.- Chasis todas modalidades y estacas
-
-pick-up, panel, van, maxi y club-cab 2.0
-
-VII.- Motocicletas
-
-a.- de 1,500 a 950 CM3 3.0
-
-b.- de 900 a 500 CM3. 2.5
-
-c.- de 490 a 400 CM3. 2.0
-
-d.- de 350 a 100 CM3. 1.5
+ART. 4o.- Este impuesto se causará aplicándose el 1.5 por ciento, sobre la base a que se refiere el artículo 2° de la presente Ley.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -171,131 +95,35 @@ ART. 8o.- Están exentas del pago de este impuesto:
 
 I.- Las operaciones de compra-venta de vehículos usados por cuya enajenación deba pagarse el Impuesto al Valor Agregado;
 
-II.- Las adquisiciones entre cónyuges o entre ascendientes o descendientes en línea recta en primer grado; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios, a menos que su actividad no corresponda a funciones de servicio público.
+II.- Las adquisiciones entre cónyuges o entre ascendientes o descendientes en línea recta en primer grado;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-### CAPITULO II. IMPUESTO SOBRE PROFESIONES Y OFICIOS
+III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios, a menos que su actividad no corresponda a funciones de servicio público; y,
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ART. 9o.- Son objeto de este impuesto los ingresos que se perciban por la prestación en forma independiente de los siguientes servicios:
+IV.- Las adquisiciones que realicen las agencias distribuidoras de vehículos nuevos, siempre y cuando, reciban a cuenta el vehículo de motor usado por parte del propietario, para que éste adquiera a su nombre un vehículo nuevo en la propia agencia de que se trate.
 
-I.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles, y no sean objeto de la Ley del Impuesto al Valor Agregado;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-II.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión de variedades taurinas o deportivas;
+### CAPITULO II. ART. 9o.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-III.- Los prestados por agentes de seguros, por las comisiones que perciban por el aseguramiento contra riesgo agropecuario y por seguros de vida;
+ART. 10.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-IV.- Los prestados por agentes y corresponsales de instituciones de crédito, por las comisiones que perciban en el ejercicio de su actividad;
+(ART. 11.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-V.- Los prestados por agentes o corredores de bolsa, que se encuentren al servicio de bolsas de valores con concesión para operar y de casas de bolsa, por las comisiones que perciban en el ejercicio de su actividad; y,
+ART. 12.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-VI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos del Autor.
+ART. 13.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-En caso de que el servicio se preste a través de una agrupación profesional de carácter civil, se considerará como ingreso la participación o retiros parciales que cada persona física obtenga de los ingresos de la agrupación después de efectuadas por éstas, las deducciones que autoriza esta ley. En estos casos será la propia agrupación la que presente las declaraciones mensuales y efectúe por cuenta de los profesionales el pago del impuesto, lleve los libros y expida los recibos de honorarios; si la asociación o sociedad no cumple con las obligaciones, los socios o asociados deberán cumplir con las mismas.
+ART. 14.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 15.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-ART. 10.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el Artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
-
-Para los efectos de este impuesto, sólo se considerará que ejercen sus actividades habitualmente en el territorio del Estado, los contribuyentes que tengan establecidos en él una oficina, estudio, establecimiento o domicilio fijo.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 11.- Los sujetos de este impuesto podrán deducir de sus ingresos totales mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los contribuyentes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 12.- Los contribuyentes a que se refiere este Capítulo deberán llevar un libro de ingresos y egresos y un registro de sus inversiones amortizables o depreciables.
-
-Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes, año de adquisición, costo original y en su caso, las depreciaciones y amortizaciones acumuladas y saldos por redimir de los referidos bienes.
-
-Estos contribuyentes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, este libro o libros en su caso, podrán ser los mismos que se utilicen para efectos de cumplir con lo establecido por la Ley del Impuesto sobre la Renta y no tendrán que autorizarse previamente.
-
-El libro o libros a que se refiere este Artículo deberán de estar debidamente encuadernados, empastados y foliados.
-
-En dicho libro o libros se deberán anotar los ingresos que se perciban en efectivo o en especie, haciendo referencia al número del recibo que se haya expedido para amparar la percepción del ingreso.
-
-Los egresos se deberán clasificar por concepto de acuerdo a la naturaleza de la erogación.
-
-Los ingresos y egresos relativos a cada mes, deberán quedar registrados dentro de los sesenta días siguientes a la fecha en que se realicen las operaciones respectivas.
-
-Los contribuyentes que sólo perciban ingresos como miembros de agrupaciones profesionales, asociaciones o sociedades civiles no están obligados a llevar en lo personal los registros a que se refiere este Artículo.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 13.- Los contribuyentes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 11 de esta Ley, en sustitución de las mismas, podrán optar por deducir de sus ingresos totales mensuales, el 35% de deducción global no sujeta a comprobación.
-
-Los contribuyentes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto continuando de manera uniforme con este procedimiento hasta en tanto no den aviso a la Secretaría de Hacienda Pública y Tesorería que dejarán de ejercer dicha opción.
-
-Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 9 de este Capítulo, tendrán derecho a deducir únicamente el 35% de los ingresos totales que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 11 de esta Ley.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 14.- La Secretaría de Hacienda Pública y Tesorería podrá estimar los ingresos totales de los sujetos a que se refiere este Capítulo en base a lo establecido en el Código Fiscal del Estado de Sinaloa y deducir el 35% de deducción global sobre los ingresos no sujetos a comprobación, aplicando la tarifa correspondiente para el cálculo del impuesto.
-
-Para practicar las estimaciones a que se refiere este Artículo se tendrá en cuenta indistintamente las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupe, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse para efectos de la estimación.
-
-Con base en los datos a que se refiere el párrafo anterior, la Secretaría de Hacienda Pública y Tesorería podrá estimar un ingreso de hasta dos tantos del monto del gasto comprobado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 15.- Para determinar la base del Impuesto sobre Profesiones y Oficios se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este Capítulo, previa deducción de los conceptos señalados en los Artículos 11 ó 13 de esta misma Ley y cuando proceda, los estimados por la Secretaría de Hacienda Pública y Tesorería, en los términos del Artículo anterior y del Código Fiscal del Estado.
-
-Impuesto sobre Profesiones y Oficios, se calculará aplicando a la base mensual determinada, a que se refiere el párrafo anterior, la siguiente:
-
-T A R I F A:
-
-LIMITE LIMITE CUOTA PORCENTAJE
-
-INFERIOR SUPERIOR FIJA PARA
-
-APLICARSE
-
-SOBRE EL
-
-EXCEDENTE
-
-DEL LIMITE
-
-INFERIOR
-
-De $ 0.01 5,000.00 2.10
-
-De $ 5,000.01 A 6,000.00 105.00 2.25
-
-De $ 6,000.01 A 7,000.00 130.00 2.50
-
-De $ 7,000.01 A 8,000.00 158.00 2.75
-
-De $ 8,000.01 A 9,000.00 188.00 3.00
-
-De $ 9,000.01 A 10,000.00 220.00 3.35
-
-De $ 10,000.01 A En Adelante 255.00 3.50
-
-Los contribuyentes de este impuesto deberán presentar ante la Secretaría de Hacienda Pública y Tesorería, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio fiscal, dentro de los primeros quince días del mes siguiente a aquel a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
-
-Los contribuyentes pagarán el impuesto dentro de los primeros quince días del mes siguiente a aquel al que corresponda el pago, en la Oficina Recaudadora de su jurisdicción, o en su caso en la oficina autorizada para tal efecto.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-ART. 16.- Los contribuyentes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija, en las condiciones y con las formalidades siguientes:
-
-I.- Los contribuyentes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Subsecretaría de Ingresos de la Secretaría de Hacienda Pública y Tesorería, ya sea directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, de acuerdo a los ingresos manifestados en su declaración del ejercicio fiscal inmediato anterior, para efectos del Impuesto sobre la Renta.
-
-Los contribuyentes que inicien operaciones dentro del mismo año en que hagan su solicitud, sólo podrán presentar ésta después de los treinta días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual total que hubiesen obtenido en el mes o meses inmediato anteriores.
-
-II.- La Subsecretaría de Ingresos fijará la cuota que corresponda, aplicando la tarifa del Artículo 15 de esta Ley sobre la base del promedio de ingreso total mensual manifestado por el contribuyente, menos el 35% de deducción global a que se refiere el Artículo 13 de esta misma Ley.
-
-III.- La cuota podrá cubrirse por períodos bimestrales, dentro de los primeros quince días del mes siguiente a cada bimestre, o por bimestres adelantados.
-
-IV.- Los contribuyentes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o sistemas contables establecidos en el Código Fiscal del Estado, pero sí estarán sujetos a las demás disposiciones contenidas en esta Ley; y
-
-V.- La cuota asignada por la autoridad tendrá vigencia de un año, independientemente de la fecha de asignación o notificación y una vez ejercida la opción a que se refiere este Artículo, no podrá variar la forma de pago durante la vigencia de ésta. Para los efectos de lo señalado en este párrafo, el año de vigencia quedará comprendido del 1o. de mayo de un año hasta el 30 de abril del año siguiente.
+ART. 16.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -367,11 +195,13 @@ b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social
 
 c).- Agrupaciones de trabajadores, de profesionales, de empresarios o propietarios;
 
-d).- Instituciones educativas;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-e).- Clubes de servicios; y
+d).- Instituciones educativas; y,
 
-f).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+e).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -415,9 +245,9 @@ Asimismo cuando los contribuyentes convengan la prestación de servicios de hosp
 
 ART. 27.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-En la hipótesis señalada en el artículo 25 fracción I, la base gravable será únicamente las cuotas que se cobren por mantenimiento.
+En la hipótesis señalada en el artículo 25 fracción I, la base gravable, serán los días que se preste el servicio de hospedaje, debiendo cubrirse una tasa igual al importe de un salario mínimo general vigente en el Estado por cada día que se preste el servicio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -453,19 +283,23 @@ II.- No proporcione la información que la autoridad fiscal le solicite, su cont
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ART. 33.- El importe de lo recaudado por concepto de esta contribución será destinado única y exclusivamente a la promoción turística del Estado de Sinaloa y su administración corresponderá a los fideicomisos que sean necesarios, en los que su comité técnico estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento del municipio respectivo y un representante del sector hotelero; asimismo mediante una cuenta especial de contabilidad se destinará la participación que corresponda a cada municipio según lo recaudado en él, verificando el escrupuloso manejo de estos fondos.
+ART. 33.- El importe de lo recaudado por concepto de esta contribución, se destinará en los municipios donde se recaude, en un 95% a la promoción, difusión y publicidad turística del Municipio y sus atractivos turísticos, mejoras materiales de los atractivos turísticos y en general, a realizar acciones tendientes a promover el turismo en cada municipio. El restante 5% de lo recaudado, será a favor del Estado para cubrir sus gastos públicos y de administración del impuesto.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+Con los importes que correspondan al 95% ya señalado, se constituirán los Fideicomisos que sean necesarios para estos fines, mismos que podrán estar integrados por uno o más municipios. El Comité Técnico de cada Fideicomiso, estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento de cada Municipio y un representante del Sector Hotelero de cada Municipio.
 
-En la constitución de los Fideicomisos deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro de este impuesto en los Municipios donde no se constituya el Fideicomiso respectivo; en caso de que éste se extinga, se suspenderá el cobro del impuesto hasta que se constituya un nuevo Fideicomiso.
+El Comité Técnico de cada Fideicomiso, determinará los importes y programas en que deberá invertirse el patrimonio fideicomitido. Para que puedan aplicarse recursos del Fideicomiso en cada Municipio, será necesario que los importes y programas a realizar, sean aprobados en forma unánime por los representantes del Ayuntamiento y del Sector Hotelero del Municipio de que se trate, así como el Representante del Gobierno del Estado, integrantes del Comité Técnico de cada Fideicomiso.
 
-La Cuenta Pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en base a los programas de promoción turística que al respecto se elaboren para cada municipio.
+Los Municipios en los que no se hayan constituido el Fideicomiso, se podrán adherir a otro Municipio que ya cuente con el Fideicomiso respectivo, pasando a formar parte integrante del Comité Técnico del mismo el representante del Municipio adherente, así como el del Sector Hotelero de ese Municipio. La constitución de un Fideicomiso para los fines de este Impuesto, o la adhesión a uno ya existente, deberán publicarse en el Periódico Oficial "El Estado de Sinaloa", para que al día siguiente de su publicación, surja la obligación de cubrir y recaudar este impuesto.
 
-El Estado entregará al Fideicomiso que corresponda a cada Municipio los ingresos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto a la Oficina Recaudadora.
+En la constitución de los Fideicomisos deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro de este impuesto en los municipios donde no se constituya el Fideicomiso respectivo o el Municipio no se adhiera a uno ya existente; en caso de que éste se extinga, se suspenderá el cobro del impuesto hasta que se constituya un nuevo Fideicomiso.
 
-El fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del H. Congreso del Estado, a más tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
+La cuenta pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, tomando como base los fines de este impuesto, respecto de cada Municipio.
+
+El Estado entregará al Fideicomiso que corresponda a cada Municipio los ingresos captados en cada uno de ellos, en un término de treinta días hábiles al mes en que deba enterar este impuesto a la Oficina Recaudadora.
+
+El Fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del Congreso del Estado, a mas tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -949,13 +783,19 @@ SINALOA
 
 CONCEPTO
 
-I.- Por la expedición de copias
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-certificadas de actas del
+I.- Por la expedición de copias certificadas de actas del Registro Civil
 
-Registro Civil por cada hoja
+a).- Por cada hoja de
 
-de papel autorizado. 1.00
+papel autorizado: 1.00
+
+b).- Si es inherente a una persona mayor de 60 años se causará sólo el 50% de lo señalado en el inciso anterior.
+
+c).- Si son los referidos en la fracción II de este artículo y se solicitan en el mismo acto del registro, se causará el 50% de lo señalado en el inciso a) de esta fracción.
+
+d).- Si se refiere a la misma persona y se solicita en un mismo acto, se descontará a lo señalado en el inciso a) de esta fracción, en función a la cantidad solicitada: el 15% por dos; 20% por tres; 25% por cuatro y 30% por cinco.
 
 II.- Por el registro:
 
@@ -1037,6 +877,26 @@ o de la ilegibilidad de actas o
 
 libros del Registro Civil 0.50
 
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VI.- Por la certificación de
+
+cada copia fotostática: 1.00
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VII.- Por la búsqueda de actas:
+
+a).- Si la solicitud se realiza
+
+en las propias oficinas: 1.00
+
+b).- Si la solicitud se realiza
+
+por conducto de terceros,
+
+desde fuera de las oficinas: 3.00
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 40.- No causan los derechos a que se refiere este Capítulo:
@@ -1047,9 +907,17 @@ II.- Los certificados de supervivencia que se expidan a los pensionistas o jubil
 
 III.- Los certificados de actas de nacimiento cuando se trate de comprobar la minoría de edad de procesados por delito del orden común;
 
-IV.- Los certificados de actas que soliciten las autoridades judiciales o administrativas, cuando la sociedad o la Hacienda Pública se encuentren interesados en la recabación de tales datos; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-V.- La búsqueda de actas del Registro Civil, siempre que se proporcionen datos precisos que coincidan con los índices respectivos, con los mismos asientos, o bien que la búsqueda se haga por los propios interesados.
+IV.- Los certificados de actas que soliciten las autoridades judiciales o administrativas, cuando la sociedad o la Hacienda Pública se encuentren interesados en la recabación de tales datos;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+V.- La búsqueda de actas del Registro Civil, siempre que se proporcionen datos precisos que coincidan con los índices respectivos, con los mismos asientos, o bien que la búsqueda se haga por los propios interesados; y,
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VI.- El registro extemporáneo de nacimiento, así como por la certificación de la falta o ilegibilidad de actas o libros del Registro Civil, siempre que el servicio que se solicite sea inherente a una persona mayor de 60 años.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1215,13 +1083,7 @@ b).- Cuatro años
 
 3.- Motociclista 10.00
 
-c).- Seis años
-
-1.- Chofer 16.50
-
-2.- Automovilista 16.00
-
-3.- Motociclista 15.00
+c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 II.- Reposición de licencia por pérdida o deterioro con vigencia de:
 
@@ -1243,13 +1105,7 @@ b).- Cuatro años
 
 3.- Motociclista 10.00
 
-c).- Seis años
-
-1.- Chofer 16.50
-
-2.- Automovilista 16.00
-
-3.- Motociclista 15.00
+c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 III.- Por control vehicular:
 
@@ -1427,7 +1283,9 @@ los vehículos de servicio público 2.00
 
 ART. 49.- Para la aplicación de las multas por violaciones a la Ley de Tránsito y Transportes del Estado, se atenderá a lo dispuesto por dicha ley.
 
-El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El pago de los derechos a que se refiere este Capítulo, fuera de los plazos establecidos, ocasionará la aplicación de sanciones a que se refiere el Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+El pago de los derechos a que se refiere este capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos, por la Ley de Tránsito y Transportes del Estado. Cuando la Ley de Tránsito no precise fecha para el pago de los derechos, tratándose de los previstos en la fracción III inciso A) del artículo anterior, deberán cubrirse dentro de los siguientes quince días a la fecha en que se adquiera el vehículo de que se trate. Los demás deberán efectuarse a mas tardar el día treinta y uno de marzo de cada año. El pago fuera de los plazos establecidos en este párrafo, ocasionará la aplicación de las sanciones previstas en el Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1457,39 +1315,95 @@ se causará 10.00
 
 En caso de resolución judicial que ordene la inscripción definitiva se compensará el pago efectuado de la inscripción preventiva al pago de la definitiva;
 
-II.- Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, se aplicará la tasa de 0.75% sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial o el valor catastral, salvo en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicándose la tasa de 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
+II.- Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por medio de las cuales se adquiera, transmita o extinga el dominio o la posesión de bienes inmuebles u otros derechos reales sobre los mismos, se aplicará la tasa de 0.75% sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo que se utilizó ante las autoridades municipales, estatales y federales para cubrir los impuestos que se hayan causado o el valor catastral, salvo en los siguientes casos:
 
-b).- Tratándose de adquisición de bienes
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-por herencia o por donación, entre
+a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 7,500 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicándose la tasa del 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
 
-cónyuges y entre ascendientes y descendientes
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-en línea recta, en cualquier grado, por cada
+b).- El registro de documentos públicos
 
-uno de los inmuebles, se causarán 10.00
+o privados, de resoluciones judiciales,
+
+administrativas o de cualquier otra clase
+
+por medio de los cuales se adquiera la
+
+propiedad de bienes inmuebles o derechos
+
+reales sobre los mismos, por herencia,
+
+legado o donación, entre cónyuges y entre
+
+ascendientes y descendientes en línea recta,
+
+en cualquier grado, por cada uno de los
+
+inmuebles, se causarán: 10.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 El cobro de los derechos a que se refiere esta
 
 fracción, no deberá exceder de 750 días de salario mínimo general diario vigente en el Estado;
 
-III.- Por cada inscripción de convenios de
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-reestructuración o modificación de contratos de crédito, se causará una cuota de 10 días de salario mínimo general diario vigente en el Estado, salvo cuando se trate de ampliación de crédito se aplicará la tasa de 0.25% sobre el incremento del mismo, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado;
+III.- Por la inscripción de convenios o contratos de mutuo o crédito y ampliaciones de los mismos que no sean de naturaleza mercantil, con o sin otorgamiento de garantías hipotecarias, prendarias o fiduciarias, se aplicará la tasa del 0.25% sobre el importe del crédito, sin contar para ello los intereses normales, moratorios o refinanciamientos para el pago de los mismos; en ningún caso los derechos serán superiores a 250 días de salario mínimo general diario vigente en el Estado;
 
-IV.- Por la inscripción de contratos de
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-reconocimiento de adeudo, se causará 10.00
+III bis.- Por la inscripción de convenios de
+
+reestructuración o modificación de
+
+contratos a que se refiere la fracción anterior,
+
+se causarán: 10.00
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+III bis-1.- Por los convenios o contratos
+
+de cesión o subrogación de derechos
+
+crediticios, litigiosos y substitución de
+
+deudor, se causarán: 10.00
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+IV.- Por la inscripción de contratos o
+
+convenios de reconocimiento de adeudo,
+
+derivados de contratos de mutuo o crédito
+
+ya inscritos con anterioridad, que contengan
+
+o no garantías, se causarán: 10.00
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+IV bis.- Por la inscripción de contratos o convenios de reconocimiento de adeudo, que no deriven de contratos de mutuo o créditos ya inscritos con anterioridad, que contengan garantías de cualquier tipo o naturaleza que sean registrables, se causará un derecho del 0.25% del importe del reconocimiento de adeudo sin que los derechos excedan de 250 días de salario mínimo general diario vigente en el Estado.
 
 V.- Por la inscripción de contratos de compra
 
 de esperanza se causará 10.00
 
-VI.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará al hacerse la primera inscripción con arreglo a la fracción II, y al practicarse la inscripción complementaria se pagará el 25% de lo que corresponda con arreglo a dicha fracción;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-VII.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria, y las de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales distintos del dominio, de limitación de dominio del propietario, los embargos, los aseguramientos, las servidumbres y las fianzas, pagarán con arreglo a la fracción II;
+VI.- Por la inscripción de los contratos en que se pacte o medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra modalidad que dé lugar a una inscripción complementaria o adicional para el perfeccionamiento del contrato o en su caso cancelación de la reserva de propiedad, se pagará al hacer la primera inscripción con arreglo a la fracción II de este artículo, y al practicarse la inscripción complementaria si ésta se hace dentro de los seis meses siguientes a que se hizo la primera, se causarán:
+
+Si la inscripción complementaria se hace después del término precisado en el párrafo anterior, se pagará el 25% de los derechos que se hubiesen pagado en la primera inscripción.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VII.- Por la inscripción de contratos o convenios que no sean de mutuo o de crédito por virtud de los cuales se constituya garantía hipotecaria o se impongan gravámenes a inmuebles o cualquiera otra limitación de dominio, inclusive que provengan de resolución judicial, administrativa, otorgamiento de fianza, por disposición testamentaria, o cualquier otro acto jurídico, se causarán derechos aplicando la tasa y el límite a que se refiere la fracción IV bis de este artículo, tomando como base la cantidad pactada por las partes, en su defecto el valor catastral de los inmuebles y en defecto de este valor, el que arroje el avalúo que se formule por peritos;
 
 VIII.- Por la inscripción de las cédulas hipotecarias se pagará conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado;
 
@@ -1501,11 +1415,25 @@ XI.- Por la inscripción de contratos de aparcería,
 
 se causará 3.00
 
-XII.- Por la inscripción del contrato de copropiedad
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-o por la división de ésta por cada inmueble
+XII.- Por la inscripción de actos jurídicos
 
-que surja, se causará 10.00
+que impliquen la modificación en los
+
+porcentajes de la copropiedad de bienes
+
+inmuebles, que no provenga de cesión o
+
+de venta de derechos de copropiedad, por
+
+cada inmueble que surja con motivo de la
+
+división de la copropiedad o
+
+desmancomunación de inmuebles,
+
+se causarán 10.00
 
 XIII.- Por la inscripción de embargos derivados
 
@@ -1513,11 +1441,41 @@ de juicios por alimentos, laborales y fiscales
 
 se causará 2.00
 
-XIV.- Por la inscripción de créditos hipotecarios, refaccionarios, de habilitación o avío, así como cualquier otro crédito se causarán derechos, aplicando la tasa de 0.25% sobre el importe del crédito principal que se otorgue al acreditado, sin incluir los intereses por financiamiento, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Tratándose de créditos destinados a la adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa de 0.25 señalada en el párrafo anterior, sobre la base del 50% del importe a que se refiere dicho párrafo;
+XIV.- Tratándose de la inscripción de contratos que contengan créditos con o sin garantía, destinados a la adquisición, ampliación o remodelación de casa habitación cuyo valor catastral en la fecha del contrato no exceda de 7,500 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa del 0.25% sobre el 50% del importe del crédito principal sin contar intereses, sin que el monto de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado;
 
-XV.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda en frutos pendientes de bienes raíces y de la prenda de título de crédito, se aplicará la tasa de 0.40 % sobre la base que señala la fracción II, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado;
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XIV bis.- Tratándose de la inscripción de
+
+contratos que contengan créditos con o
+
+sin garantías destinados a la adquisición,
+
+ampliación o remodelación de casa
+
+habitación, adquisición de terrenos
+
+destinados para ello, otorgados por los
+
+Gobiernos Federal, Estatal, Municipal, por
+
+Organismos o Institutos Públicos de los
+
+tres niveles de Gobierno, promotores de
+
+vivienda de interés social, cuyo crédito no
+
+exceda de 7,500 salarios mínimos
+
+generales diarios vigentes en el Estado,
+
+se causarán: 10.00
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XV.- Tratándose de la inscripción de contratos o convenios sobre bienes muebles, en donde se pacte condición resolutoria, reserva de dominio o propiedad, limitaciones al dominio, prenda, incluyendo la de frutos pendientes de bienes raíces causarán un derecho del 0.40% sobre el valor o contraprestación pactada sin que el cobro de derechos exceda de 250 días de salario mínimo general diario vigente en el Estado;
 
 XVI.- Por el registro de testamento, de
 
@@ -1533,47 +1491,83 @@ transmisiones a que haya lugar,
 
 se causará 10.00
 
-XVII.- Tratándose de asociaciones de carácter civil,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-por la inscripción o modificación del acta
+XVII.- Tratándose de inscripciones de
 
-constitutiva, así como por la extinción de la
+actas constitutivas o estatutos de
 
-asociación se causará 3.00
+asociaciones civiles previstas en el
 
-XVIII.- Tratándose de sociedades civiles, se causará:
+Código Civil o en leyes especiales,
 
-a).- Por la inscripción de la escritura constitutiva
+así como la modificación de sus
 
-y de los aumentos de capital, se aplicará la tasa de 0.75 % sobre el importe del capital social o de los aumentos, según sea el caso, sin que el cobro de los derechos deba exceder de 500 días de salario mínimo general diario vigente en el Estado.
+estatutos, liquidación, fusión o
 
-b).- Por la inscripción de cualquier modificación
+extinción de las mismas se causarán: 3.00
 
-a la escritura constitutiva, exceptuando el
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-aumento de capital social, causará 3.00
+XVII bis.- Si en la liquidación, fusión o extinción de las asociaciones a que se refiere la fracción anterior se adjudican bienes inmuebles a personas o socios distintos de quienes los hayan aportado al patrimonio de la misma, en sustitución de los derechos a que se refiere la fracción anterior, sobre el valor de los inmuebles se causarán derechos sobre la base y con los límites a que se refiere la fracción II de este artículo.
 
-c).- Por la inscripción de la extinción de la
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-sociedad, causará 3.00
+XVIII.- Tratándose de inscripción de sociedades civiles, se causará:
 
-XIX.- Tratándose de fundaciones de
+a).- Si en el acta constitutiva o estatutos
 
-beneficencia privada, por la inscripción o
+no se fija capital, los derechos serán
 
-modificación de la escritura constitutiva,
+equivalentes a: 10.00
 
-así como por la extinción de la fundación,
+b).- Por la inscripción del acta constitutiva o estatutos que contengan capital social, así como de los aumentos de capital, se aplicará la tasa del 0.75% sobre el importe del capital social o de los aumentos, según sea el caso sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
 
-se causará una cuota de 5.00
+c).- La inscripción de actas de sociedades
 
-XX.- Por las constancias y ratificaciones de
+civiles con capital variable, por los
 
-documentos privados a que se refiere el
+aumentos o disminuciones de este capital: 5.00
 
-Reglamento del Registro Público,
+d).- Por la inscripción de actos jurídicos
 
-se causará 2.00
+que contengan modificación a los
+
+estatutos (salvo los aumentos de capital),
+
+fusión, escisión, liquidación, extinción
+
+o cualquier otro acto y salvo a lo que
+
+se dispone en el inciso siguiente: 5.00
+
+e).- Cuando se trate de la inscripción de actos jurídicos que contengan la liquidación de sociedades a que se refiere esta fracción y que se adjudiquen o transmitan la propiedad de bienes inmuebles a personas o socios distintos de quienes los hayan aportado al patrimonio de la misma, adicionalmente a lo que se señala en el inciso anterior se causarán derechos conforme a las bases y límites a que se refiere la fracción II de este artículo.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XIX.- Por la inscripción de actas que
+
+contengan la constitución, modificación
+
+de estatutos, liquidación o extinción de
+
+sociedades y asociaciones distintas a
+
+las contempladas en las fracciones XVII,
+
+XVII bis y XVIII que anteceden,
+
+se causarán: 5.00
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XX.- Por las constancias y ratificaciones
+
+de documentos privados a que se refiere
+
+el Reglamento del Registro Público,
+
+se causará 3.00
 
 XXI.- Por el depósito de un testamento ológrafo:
 
@@ -1601,7 +1595,13 @@ XXIV.- Por la expedición de certificados de:
 
 a).- No propiedad 2.00
 
-b).- Libertad de gravamen 4.00
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+b).- Libertad o existencia de gravámenes,
+
+por cada fracción o lote que resulte en
+
+caso de fraccionamientos causarán: 4.00
 
 c).- Historia registral de los últimos
 
@@ -1639,7 +1639,9 @@ capitulaciones matrimoniales, y liquidación
 
 de la sociedad conyugal, se causará 10.00
 
-XXX.- Por la inscripción de contratos de fideicomiso, se causará:
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XXX.- Por la inscripción de contratos o convenios de fideicomiso, se causarán:
 
 a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II;
 
@@ -1661,19 +1663,23 @@ I.- Cuando se trate de tasas aplicables sobre el valor, se tendrá por valor en 
 
 a).- En los casos de arrendamiento de inmuebles por más de seis años o con anticipo de rentas por más de tres, el importe total de las rentas estipuladas que deban causarse por el término del contrato, o el monto de las rentas anticipadas;
 
-b).- Cuando se trate de actos, contratos o resoluciones por los que se trasmita el dominio o la posesión de inmuebles o derechos reales, el que resulte mayor entre el declarado por las partes, el del avalúo comercial o el del valor catastral, este último tendrá una vigencia de 6 meses;
+> <small>(REFORMADO, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+b).- Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte mayor entre el declarado por las partes, el del avalúo comercial o el del valor catastral vigente en la fecha de celebración del acto jurídico; la vigencia del avalúo comercial será de seis meses a partir de su celebración;
 
 c).- En los contratos de garantía, en los embargos y otros gravámenes el valor de las obligaciones garantizadas, y en su defecto el valor determinado conforme al inciso anterior;
 
 d).- La consideración hecha en el inciso a) de la fracción II del Artículo anterior, se entenderá en favor de quienes vayan a habitar el inmueble.
 
-II.- En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito por las condiciones, cuotas, derechos y otros conceptos cuyo importe no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca, independiente de la que se constituya a favor de los tenedores de las cédulas, la cuota correspondiente por la cantidad determinada.
+II.- (DEROGADA, P. O. 19 DE SEPTIEMBRE DE 2001)
 
-III.- Cuando en un mismo instrumento conste la transmisión de dos o más bienes o derechos reales, se pagará sobre el valor de cada uno de ellos; si la transmisión se realiza por una suma alzada y los interesados no determinan el valor que corresponda a cada uno de dichos bienes, se tomará como base el que resulte mayor de entre el valor catastral y el valor comercial de los mismos, sin que el cobro exceda del límite establecido, aún cuando la suma de los derechos correspondientes por la inscripción de cada uno de los inmuebles resultase mayor.
+> <small>(REFORMADA, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+III.- Cuando en un mismo instrumento conste la transmisión de dos o más bienes o derechos reales, se pagará sobre el valor de cada uno de ellos. Si la transmisión se realiza por una suma alzada y los interesados no determinan el valor que corresponda a cada uno de dichos bienes, se tomará como base el que resulte mayor de entre el valor catastral y el valor comercial de los mismos. El cobro por cada uno de los inmuebles, no podrá exceder el límite establecido en el último párrafo de la fracción II del Artículo 50 de esta ley.
 
 IV.- Para la aplicación de las tasas de la fracción II del Artículo anterior, en su caso, la nuda propiedad se valuarán en 75% del precio del inmueble y el usufructo en el 25% del mismo.
 
-V.- En los casos en que los servicios que preste el Registro Público de la Propiedad, no se encuentren expresamente previstos en las tarifas del artículo anterior, se pagará una cuota de 3 días de salario mínimo general diario vigente en el Estado.
+V.- (DEROGADA, P. O. 19 DE SEPTIEMBRE DE 2001)
 
 VI.- Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en la suma de éstos si se puede determinar exactamente su cuantía; en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
 
@@ -1695,7 +1701,17 @@ d).- En los casos de las inscripciones preventivas a que se refiere el Artículo
 
 e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del registro público;
 
-f).- Por la búsqueda y expedición de certificados de libertad de gravámenes o de no propiedad para la adquisición de casa-habitación, cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo.
+> <small>(REFORMADA, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+f).- La búsqueda y expedición de certificados de no propiedad para la adquisición de casa habitación, cuyo valor catastral en la fecha de la operación no exceda de 7,500 días de salario mínimo general diario vigente en el Estado;
+
+> <small>(ADICIONADA, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+g).- El depósito de un testamento ológrafo si éste se hace en las oficinas del Registro Público, siempre que el acto del servicio solicitado sea inherente a una persona mayor de 60 años; y,
+
+> <small>(ADICIONADA, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+h).- Cuando se trate de fundaciones de beneficencia privada, por la inscripción o modificación de la escritura constitutiva, así como la extinción de aquélla.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1717,49 +1733,163 @@ arrendamiento financiero en cualquiera
 
 de sus modalidades, se causará 50.00
 
-II.- Por la inscripción de actas constitutivas de sociedades cooperativas causará una cuota de 2 días de salario mínimo general diario vigente en el Estado si no hay capital, si lo hubiere, se aplicará la tasa del 0.25%, sin que el monto de los derechos exceda de 350 días de salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-III.- Por la inscripción de contratos de factoraje, si son prendarios, se aplicará la tasa de 0.40% sobre el monto de la operación, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado y si son hipotecarios, se cubrirá una cuota del 0.25% sobre el monto de la misma, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
+II.- Por la inscripción de actas constitutivas de sociedades cooperativas, solidaridad social y producción rural u otras que no sean de naturaleza mercantil, civil o reguladas por leyes especiales, se causarán:
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+a).- Si no se fija capital mínimo: 5.00
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+b).- Si hubiere capital fijo o mínimo se aplicará la tasa del 0.25% sobre el mismo, sin que el monto de los derechos exceda de 350 días de salario mínimo general diario vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+c).- Los aumentos del capital fijo causarán los mismos derechos a que se refiere el inciso anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+d).- Los aumentos y disminuciones
+
+del capital variable o en su caso, la
+
+disminución del capital fijo: 3.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+III.- Por la inscripción de contratos de:
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+a).- Factoraje, contengan o no garantía, se aplicará la tasa del 0.25% sobre el monto de la operación, sin que el monto de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+b).- Asociación en participación se
+
+aplicará la tasa del 0.25% sobre el
+
+monto de las aportaciones, sin que
+
+el importe de los derechos exceda
+
+de 500 días de salario mínimo general
+
+diario vigente en el Estado. Cuando
+
+no se determine el monto de las
+
+aportaciones causará: 20.00
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+c).- De arrendamiento o comodato de
+
+bienes muebles e inmuebles
+
+celebrados entre comerciantes
+
+se causarán: 20.00
 
 IV.- Por la inscripción de la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del artículo 50, sobre la base del capital declarado.
 
 V.- Tratándose de sociedades mercantiles, los derechos correspondientes se causarán en los términos siguientes:
 
-a).- Por la inscripción de la escritura constitutiva o de los aumentos de capital, se causará la misma cuota que establece la fracción II del artículo 50, sobre el importe del capital social o de los aumentos según sea el caso, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo general diario vigente en el Estado. Las sociedades de capital variable, pagarán sobre el capital inicial fijo. En caso de establecimientos de sucursales de sociedades mercantiles, se tomará como base el capital asignado a ellas; si hay aportación de bienes inmuebles, se pagará con arreglo a la fracción II del artículo 50;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-b).- En la fusión o escisión de sociedades
+a).- Por la inscripción de la escritura constitutiva, donde se señale capital fijo, sobre su importe o monto se causará un derecho equivalente al 0.75% del importe de dicho capital, sin que el cobro pueda exceder de 750 días de salario mínimo general vigente en el Estado.
 
-por cada una que resulte, se causará 10.00
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-c).- Por la inscripción de cualquier modificación
+b).- Por la inscripción de las actas o documentos que contengan aumentos del capital fijo se pagará la misma tarifa y con el límite a que se refiere el inciso que antecede.
 
-a la escritura constitutiva, exceptuando el
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-aumento de capital social, se causará 2.00
+c).- Por la inscripción de actas o
 
-d).- Por la inscripción de la disolución de sociedades, si no hay bienes que se adjudiquen se causará una cuota equivalente a 2 días de salario mínimo general diario vigente en el Estado. Si hay bienes que se adjudiquen a terceros se pagará con arreglo a la fracción II del artículo 50, sobre la base del valor de los bienes adjudicados;
+documentos donde consten aumentos
 
-e).- Por la inscripción de actas de asamblea
+o disminuciones del capital variable o
 
-de accionistas, se causará una cuota de 2.00
+disminución del capital fijo se causarán: 5.00
 
-f).- Por el depósito del programa a que
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-se refiere el artículo 92 de la Ley
+d).- Por la inscripción de documentos o actas en donde consten aumentos de capital fijo o variable que se pague mediante la aportación de bienes inmuebles, se causarán los mismos derechos y con los mismos límites que se menciona en el inciso a) de esta misma fracción.
 
-General de Sociedades Mercantiles,
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-se causará 1.00
+e).- Por la inscripción de documentos
 
-VI.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas, se causarán los respectivos derechos con arreglo a la fracción II del artículo 50.
+o actas de disolución o liquidación de
 
-VII.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, se causarán los respectivos derechos de acuerdo con lo dispuesto en el primer párrafo de la fracción XIV del artículo 50.
+sociedades mercantiles, si no se adjudican
 
-VIII.- Tratándose de poderes, se causará:
+bienes inmuebles se causarán: 5.00
 
-a).- Por la inscripción y sustitución 2.00
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-b).- Por la inscripción de revocación 1.00
+f).- Por la inscripción de documentos o actas de disolución o liquidación de sociedades mercantiles donde se adjudiquen bienes inmuebles a socios distintos de quienes los hayan aportado o a no socios, se causarán derechos en los términos y con los límites a que se refiere el inciso a) de esta fracción.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+g).- Por la inscripción de documentos o actas donde conste la fusión o escisión de sociedades, se causará un derecho equivalente a 10 días de salario mínimo general diario vigente en el Estado por cada sociedad que se fusione o por cada sociedad que nazca con motivo de la escisión.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+h).- Por la inscripción de cualquier otro
+
+documento o actas que contenga actos
+
+jurídicos distintos a los señalados en
+
+los incisos que anteceden se causarán: 5.00
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+i).- Por el depósito del programa a
+
+que se refiere el artículo 92 de la
+
+Ley de Sociedades Mercantiles,
+
+se causarán: 10.00
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VI.- Por la inscripción de acta de
+
+emisión de bonos u obligaciones,
+
+convertibles o no en acciones, así
+
+como la transmisión de acciones o
+
+partes sociales de sociedades
+
+mercantiles, se causarán: 10.00
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VII.- Por la inscripción de contratos de créditos refaccionarios, de habilitación o avío, en cuenta corriente o cualquier otro contrato de crédito de naturaleza mercantil, con o sin garantías prendarias, hipotecarias o fiduciarias causarán derechos aplicando la tasa del 0.25% del importe del crédito sin tomar en cuenta los intereses o créditos adicionales para el refinanciamiento de los mismos, sin que el monto de los derechos exceda de 250 días de salario mínimo vigente en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+VIII.- Tratándose de la inscripción de todo tipo de poderes otorgados por sociedades mercantiles, de producción rural o de cualquier otra naturaleza distinta a las sociedades y a las asociaciones civiles, así como los otorgados por los comerciantes personas físicas, así como las sustituciones y revocaciones de los mismos, se causarán:
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+a).- Por la inscripción de documentos
+
+donde conste el otorgamiento de
+
+poderes o sustitución: 3.00
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+b).- Por la inscripción de revocación: 2.00
 
 IX.- La habilitación de edad, licencia y
 
@@ -1793,23 +1923,35 @@ inscrito, se pagará independientemente
 
 de la búsqueda, por cada hoja 0.25
 
-XIII.- Por la expedición de certificados de
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-inscripción, se causará 2.00
+XIII.- Por la expedición de certificados
 
-XIV.- Por el depósito de guarda de documentos,
+de inscripción, se causará 3.00
 
-se causará 1.00
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-XV.- Por las ratificaciones de documentos y
+XIV.- Por el depósito de guarda de
 
-firmas ante el Registrador, se causará 2.00
+documentos, se causará 3.00
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XV.- Por las ratificaciones de
+
+documentos y firmas ante el
+
+Oficial Registrador, se causará 5.00
 
 XVI.- Por la inscripción de contratos de fideicomiso, se causará:
 
-a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado;
+a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II de este artículo;
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+b).- Por los de garantía, de administración, en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado;
 
 c).- Por la sustitución de fiduciario o
 
@@ -1819,19 +1961,19 @@ d).- Por la reversión de cada uno de
 
 los bienes 2.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ART. 54.- Para el cobro de los derechos que establece la tarifa del Artículo anterior, se observarán las siguientes reglas.
+ART. 54.- Para el cobro de los derechos que establece la tarifa del artículo anterior, en los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte haciendo el cómputo por un año.
 
-I.- Cuando un mismo documento origine dos o más inscripciones, los derechos se causarán por cada inscripción.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-II.- Los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+ART. 55.- Por la inscripción de una escritura que contenga una modificación o rectificación de un acto previamente inscrito, que haga necesaria la cancelación de la inscripción anterior y requiera una nueva inscripción, cuando el error sea imputable a los interesados o a los fedatarios públicos, se causarán derechos equivalentes al 25% de lo que se hubiese causado en la inscripción que se rectifica, sin que estos derechos puedan ser inferiores a 5 días de salario mínimo general diario vigente en el Estado.
 
-III.- En los casos en que los servicios que preste el Registro Público de Comercio, no se encuentren expresamente previstos en la tarifa del Artículo anterior, se causará una cuota de 3 días de salario mínimo general diario vigente en el Estado.
+Cuando se trate de sustitución de hojas de testimonios de notarios o pólizas de corredores que ya hayan sido registradas y respecto de cuya inscripción no hayan transcurrido mas de 60 días naturales, y que contengan errores que no cambien o alteren la naturaleza jurídica de los actos respectivos, a solicitud expresa de los fedatarios, bajo su responsabilidad y explicación escrita de las causas de sustitución, podrán hacerse las sustituciones causando una cuota de diez días de salario mínimo general vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+Cuando un mismo documento consigne diversos actos jurídicos independientes entre sí y que por ello deban de inscribirse en el Registro Público de la Propiedad y del Comercio, para que cada acto jurídico produzca sus efectos legales en forma separada uno de otro, los derechos se causarán por cada inscripción.
 
-ART. 55.- Las rectificaciones de inscripciones cuando el error sea imputable a los interesados y no al registrador causan la mitad de los derechos designados a las inscripciones.
+En los casos en que los servicios que presta el Registro Público de la Propiedad y del Comercio, no se encuentren expresamente previstos en las tarifas de los artículos 50 y 53 de esta Ley, se causará una cuota de tres días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2049,9 +2191,9 @@ Cuando por la aplicación de la tarifa anterior se determine una cuota en fracci
 
 La presente tarifa se actualizará en términos reales los meses de enero y julio de cada año. Para la actualización de las tarifas que se realice en el mes de enero, se obtendrá el factor, dividiendo el Índice Nacional de Precios al Consumidor que publica el Banco de México en el Diario Oficial de la Federación en el mes de julio del año inmediato anterior, entre el que se publica en el mes de diciembre del mismo año. La actualización que corresponda al mes de julio de cada año, se hará en los mismos términos y el factor se obtendrá de dividir el Índice que se publica en el mes de enero del año de que se trate entre el publicado en el mes de junio del mismo año. Los factores que se obtengan se multiplicarán por las tarifas que se encuentren vigentes en cada período.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Cuando el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+La presente tarifa se actualizará en términos reales a más tardar los días 20 de los meses de enero y julio de cada año, o el siguiente día hábil si éste fuera inhábil, tomando como referencia, la inflación acumulada del período que se actualiza, que se publica por el Banco de México. La tarifa que resulte, será publicada por el Secretario de Administración y Finanzas en el Periódico Oficial "El Estado de Sinaloa", la cual empezará a regir a partir del día siguiente de su publicación.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2295,7 +2437,7 @@ I.- Impuestos:
 
 a).- Sobre adquisición de vehículos de motor usado;
 
-b).- Sobre profesiones y oficios.
+b).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 II.- Derechos:
 
@@ -3216,6 +3358,22 @@ P.O. 4 DE AGOSTO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Período Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia será a partir del 1° de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases:
+
+a) Para los efectos de la Fracción II se tomarán en cuenta el factor definitivo de distribución de participaciones de 2001, calculado en base al anterior procedimiento y los ingresos municipales propios y por captación de cuotas por el servicio de agua potable de 1999 y 2000.
+
+b) El factor provisional resultante estará en vigor hasta que se calcule el factor definitivo de 2002 con base en el factor definitivo de distribución de participaciones de 2001, calculado con la anterior metodología así como en los ingresos propios de 2001, consignados en las cuentas públicas municipales aprobadas de 2001 y los informes sobre ingresos por cuotas de agua potable de las Juntas Municipales de Agua Potable y Alcantarillado correspondientes a 2001.
+
+Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Hacienda Pública y Tesorería, se entenderán hechas a la Secretaría de Administración y Finanzas.
+
+Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
+
+Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
+
+Artículo Quinto.- La derogación del Capítulo II, del TÍTULO PRIMERO y sus artículos 9, 10, 11, 12, 13, 14, 15 y 16 de la Ley de Hacienda del Estado de Sinaloa, iniciará su vigencia el 01 de enero de 2002.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
