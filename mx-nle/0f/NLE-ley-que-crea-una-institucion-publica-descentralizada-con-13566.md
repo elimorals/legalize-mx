@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "1995-06-16"
+last_updated: "2000-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -39,11 +39,13 @@ DECRETO NUMERO. 41
 
 Se crea una institución pública descentralizada con personalidad jurídica propia y con domicilio en la Ciudad de Monterrey, que se denominará "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY".
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 2o.
 
-Esta Institución tendrá por objeto prestar los servicios públicos de agua, drenaje y saneamiento, a los habitantes del Estado de Nuevo León, operando y administrando los sistemas correspondientes y al efecto realizará todos los actos, operaciones o contratos conducentes a las finalidades mencionadas y al fortalecimiento de la Institución. Servicios de Agua y Drenaje de Monterrey podrá convenir con los municipios del Estado la prestación de los servicios de agua, drenaje y saneamiento y la compensación que por esos conceptos deban cubrir.
+La Institución tendrá por objeto prestar los servicios públicos de agua potable, no potable, residual tratada y agua negra, saneamiento de las aguas residuales y drenajes sanitario y pluvial a los habitantes del Estado de Nuevo León, conforme a las disposiciones de esta Ley, de la Ley de Agua Potable y Saneamiento para el Estado de Nuevo León, Ley de Hacienda para los Municipios de Nuevo León, sus reglamentos y demás disposiciones legales aplicables. Para tal efecto, realizará la operación, mantenimiento y administración de las fuentes de abasto de agua subterránea y superficial, así como de las redes de conducción y distribución de las aguas, quedando facultado para la formalización de los actos jurídicos necesarios para la consecución de su objeto, así mismo, impulsar y desarrollar la investigación para el aprovechamiento de todo subproducto que se genere en los procesos de potabilización, tratamiento y saneamiento de las aguas residuales. La Institución y los municipios podrán convenir su participación en el desarrollo de los servicios públicos indicados.
+
+La Institución podrá prestar además servicios de asesoría técnica en el saneamiento de las aguas residuales, así como en el monitoreo y verificación de la calidad de éstas y en relación con todas las actividades y servicios que presta, a las personas físicas y morales, públicas o privadas que se lo soliciten, cubriendo los interesados los costos que se originen por la prestación de los mismos, sin que se pueda estipular ningún tipo de subordinación ni dirección, respecto a la Institución.
 
 ###### ARTICULO 3o.
 
@@ -67,9 +69,33 @@ Los bienes y derechos a que se refiere este artículo pasarán a formar el patri
 
 Los bienes y derechos que integran el patrimonio de la institución estarán afectos a los fines de la misma, entre los cuales, se considera también la posibilidad de afectarlos como garantía y fuente de pago para créditos obtenidos con destino a ampliar o mejorar los sistemas de agua y drenaje. En consecuencia, será nulo cualquier acto o contrato que los distraiga de su objeto.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 5o.
 
-El. Gobierno de la Institución estará a cargo de un Consejo de Administración compuesto de seis miembros designados: dos por el Ejecutivo del Estado, uno por el Ayuntamiento de Monterrey, uno por los usuarios de los servicios de agua y drenaje, uno por la Cámara Nacional de Comercio de Monterrey y uno por la Cámara de Propietarios de Bienes Raíces del Estado de Nuevo León. Por cada miembro propietario deberá designarse un suplente.
+El Gobierno de la Institución estará a cargo de un Consejo de Administración compuesto por el Titular del Poder Ejecutivo del Estado o quien este designe, que lo presidirá, y seis miembros más, que serán designados de la siguiente forma: uno por el Titular del Poder Ejecutivo del Estado; un representante de los Municipios del Estado que lo designará el Ayuntamiento de Monterrey; uno por los usuarios de los servicios de agua y drenaje; uno por la Cámara Nacional de Comercio, Servicios y Turismo de Monterrey; uno por la Cámara de propietarios de Bienes Raíces del Estado de Nuevo León, A.C. y uno por la Cámara de la Industria de la Transformación de Nuevo León. Por cada miembro propietario deberá designarse un suplente.
+
+La administración de la Institución estará a cargo de un Director General que será nombrado y removido por el Titular del Ejecutivo del Estado, quien también designará y removerá al Secretario Técnico, cuyas funciones le serán asignadas por el Consejo de Administración.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### ARTICULO 5o Bis.
+
+El Director General de la Institución tendrá las siguientes facultades:
+
+I. Representar a la Institución ante cualquier autoridad federal, estatal o municipal, o personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, actos de administración en materia laboral individual y colectiva, pleitos y cobranzas, poder cambiario y para actos de dominio limitado, este último exclusivamente para bienes muebles, en los términos de lo dispuesto por los artículos 2448 del Código Civil para el Estado de Nuevo León, 2554 del Código Civil para el Distrito Federal, 11, 523, 692, 875 y 876 de la Ley Federal del Trabajo, 1, 2 y 9 de la Ley General de Títulos y Operaciones de Crédito. En todos los casos, para realizar actos de dominio sobre bienes inmuebles, el Director General se sujetará al acuerdo previo del Consejo de Administración de la Institución, en el que se especificarán los términos en que deberá formalizarse el acto jurídico que corresponda. Queda facultado para delegar poderes para pleitos y cobranzas y actos de administración en materia laboral individual y colectiva, sin que por ello se consideren substituidas o restringidas;
+
+II. Asistir a las sesiones del Consejo de Administración con voz, pero sin voto;
+
+III. Formular los proyectos relacionados con la prestación de los servicios, encomendando la realización de los estudios necesarios para el sustento técnico y financiero de su ejecución;
+
+IV. Conocer y resolver de los asuntos de carácter administrativo y laboral relacionados con los recursos humanos de la Institución, otorgando los nombramientos correspondientes a los funcionarios de las áreas administrativas, técnicas y operativas de la misma, debiendo observar lo dispuesto por el artículo 156 de la Ley de Administración Financiera del Estado de Nuevo León;
+
+V. Presentar al Consejo de Administración de la Institución, a más tardar en el mes de octubre de cada año, los presupuestos de ingresos y egresos para el año siguiente, así como el programa de trabajo y financiamientos requeridos para el mismo periodo;
+
+VI. Presentar al Consejo de Administración los estados financieros y el informe de actividades del ejercicio anterior, dentro de los dos primeros meses del año; y,
+
+VII. Las demás que le confieran el Consejo de Administración, ésta y las demás leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 6o.
 
@@ -83,7 +109,7 @@ Los consejeros desempeñarán su cargo honoríficamente, es decir sin retribuci�
 
 ###### ARTICULO 7o.
 
-Uno de los miembros designados por el Gobierno del Estado desempeñará las funciones de presidente, y ostentará la representación de la institución y presidirá las reuniones del propio Consejo.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### ARTICULO 8o.
 
@@ -91,15 +117,19 @@ El Consejo se reunirá por lo menos una vez al mes y cuantas veces fuere convoca
 
 En caso de empate, el Presidente del Consejo tendrá voto de calidad para deducir la cuestión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 9o.
 
-El Consejo de Administración, para el cumplimiento de los fines de la institución, tendrá las más amplias facultades de dominio, administración y representación pero requerirá la autorización del Ejecutivo del Estado para:
+El Consejo de Administración, para el cumplimiento de los fines de la Institución, tendrá las más amplias facultades para pleitos y cobranzas, de dominio, administración, administración en materia laboral colectiva e individual y para actos de poder cambiario, en los términos de los artículos 2448 del Código Civil para el Estado de Nuevo León, 2554 del Código Civil para el Distrito Federal, 11, 523, 692, 875 y 876 de la Ley Federal del Trabajo y 1, 2 y 9 de la Ley General de Títulos y Operaciones de Crédito. Estando facultado para delegar las mismas, sin que por ello se consideren sustituidas o restringidas, pero requerirá la autorización del Ejecutivo del Estado para:
 
 a).- Enajenar o gravar los bienes inmuebles o inmovilizados que integran el patrimonio de la institución;
 
 b).- Dar en arrendamiento los bienes inmuebles de la institución por un período que exceda de cinco años;
 
-c).- Expedir el Reglamento relativo a la prestación de servicios de agua y drenaje, y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+c).- Expedir el Reglamento relativo a la prestación de los servicios a su cargo;
 
 d).- Proponer y aplicar las tarifas respectivas.
 
@@ -121,9 +151,11 @@ La institución estará exenta del pago de cualquier clase de impuestos y derech
 
 Serán inembargables los bienes de la institución afectados directamente a la prestación del servicio público de agua y drenaje exceptuando el caso de que el embargo procediera para hacer efectiva una garantía hipotecaria.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 14o.
 
-La institución estará facultada para regular o contratar el aprovechamiento de las aguas negras, de acuerdo con las disposiciones legales aplicables.
+La administración y operación de los servicios de agua potable y saneamiento a cargo de la Institución comprende la regulación, captación, conducción, desalación, desinfección, potabilización, almacenamiento y distribución del agua por los medios que se consideren técnicamente adecuados, así como la colección, conducción, desalojo, tratamiento y aprovechamiento de aguas residuales o aguas negras crudas, el de las aguas residuales tratadas y las aguas no potables distintas a estas, para su uso y reuso, en los términos de las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 1995)</small>
 
@@ -254,3 +286,9 @@ En el caso de que disposiciones legales vigentes contengan mención expresa de a
 ###### ARTICULO 7o.
 
 Se derogan todos los decretos y disposiciones que contravengan los términos del presente decreto.
+
+P.O. 16 DE AGOSTO DE 2000.
+
+Artículo Primero.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todos los decretos y disposiciones que se opongan a la presente reforma.
