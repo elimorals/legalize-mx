@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1999-05-19"
+last_updated: "2001-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2001.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -55,7 +55,7 @@ IV. El de juicio, durante el cual el Ministerio Público precisa su acusación y
 
 V. El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales hasta la extinción de las sanciones aplicadas.
 
-###### ARTICULO 2o
+###### ARTICULO 2o.
 
 Dentro del período de averiguación previa, la Policía Judicial, deberá, en ejercicio de sus facultades:
 
@@ -65,7 +65,7 @@ II. Practicar la averiguación previa; y
 
 III. Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado.
 
-###### ARTICULO 3o
+###### ARTICULO 3o.
 
 Dentro del mismo período, el Ministerio Público deberá:
 
@@ -163,9 +163,19 @@ Las actuaciones se asentarán en los expedientes en forma continua, sin dejar ho
 
 Las promociones que se hagan por escrito deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario, pero deberán ser siempre ratificadas si el que las hace no las firma por cualquier motivo.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2001)</small>
+
+Los ocursos a que se refiere este artículo deberán presentarse ante las oficialías de partes del Tribunal o Juzgados, según corresponda y determine el reglamento respectivo. Los responsables de las mismas deberán entregarlos a los Secretarios de Acuerdos, a más tardar al inicio de la jornada laboral del día hábil siguiente al en que los reciban, salvo aquéllos en que se soliciten medidas urgentes o de término, los cuales deberán turnar de inmediato.
+
+Los escritos a que se refiere la última parte del párrafo anterior que impliquen un término perentorio para su presentación o medidas urgentes, podrán presentarse fuera del horario normal de labores, ante el responsable de la oficialía que corresponda.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 19.
 
-Los secretarios deberán dar cuenta, dentro del término de veinticuatro horas, con las promociones que se hicieren, salvo en los casos en que conforme a la ley deban resolverse inmediatamente. Para el efecto, se hará constar en los expedientes el día y hora en que se presenten las promociones por escrito y se hagan las verbales.
+El responsable de la oficialía de partes impondrá el sello oficial. Hará constar el día y la hora en que se presenten los escritos y razón de los documentos que se anexen.
+
+El Secretario deberá dar cuenta al juez con los escritos que le sean turnados, a más tardar dentro de las veinticuatro horas siguientes a su recepción por la oficialía de partes, salvo en los casos que conforme a la ley deban resolverse inmediatamente.
 
 ###### ARTICULO 20.
 
@@ -3358,3 +3368,7 @@ Primero. El presente Decreto entrará en vigor a los quince días siguientes al 
 Segundo. En aplicación del principio constitucional de irretroactividad de la ley, las reformas a los Códigos Penal y de Procedimientos Penales del Estado contenidas en el presente Decreto, beneficiarán a todo indiciado, procesado o sentenciado que después de su entrada en vigor se encuentre en condiciones de ser favorecido con el mismo y no será aplicable en aquellos casos en que la reforma les depare perjuicio.
 
 Tercero. Las personas sujetas a procesos penales que se encuentren en trámite al inicio de la vigencia de este Decreto, en los que se investiguen delitos cuya pena máxima no exceda de dos años de prisión, podrán libremente acogerse a la reforma procesal o continuar el trámite en términos de lo previsto en las disposiciones legales anteriores a esta reforma.
+
+P.O. 18 DE ABRIL DE 2001
+
+UNICO.- El presente Decreto entrará en vigor quince días naturales después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
