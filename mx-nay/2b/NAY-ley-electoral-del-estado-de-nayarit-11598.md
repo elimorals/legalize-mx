@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "2003-06-04"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -37,7 +37,7 @@ Que el H. Congreso Local se ha servido dirigirme para su promulgación, el sigui
 
 DECRETO NUMERO 7890
 
-El H. Congreso del Estado Libre y Soberano de Nayarit, representado por XXIV Legislatura :
+El H. Congreso del Estado Libre y Soberano de Nayarit, representado por XXIV Legislatura:
 
 D E C R E T A :
 
@@ -455,7 +455,7 @@ II. Constancia actualizada de la vigencia de su registro nacional o estatal, y e
 
 III. Copia certificada de las actas de designación de los titulares de su órgano de representación en la Entidad.
 
-### CAPITULO III. De las Prerrogativas
+### CAPITULO III. De las Prerrogativas, el Financiamiento y la Fiscalización de los Partidos Políticos
 
 ###### Artículo 36.
 
@@ -511,7 +511,33 @@ XV. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusione
 
 XVI . Sostener por lo menos un centro de formación política, y
 
-XVII. Cumplir con lo que establece esta ley y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XVII.- Aplicar las prerrogativas y el financiamiento público a los fines a que están destinados.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XVIII.- Sufragar, con cargo a sus gastos ordinarios, la organización de procesos electorales internos para la postulación de candidatos a cargos de elección popular o para la designación de sus dirigencias.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XIX.- Para el caso de los partidos políticos con registro estatal, crear sus órganos internos para el control, administración y fiscalización del origen y destino de los recursos que se utilicen en precampañas y campañas, según corresponda, y transparentar la información de sus actividades.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XX.- Presentar cada año a más tardar en la última semana de enero al Consejo Estatal Electoral, un inventario de bienes muebles e inmuebles que se hubieren adquirido con recursos provenientes del financiamiento público estatal.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXI.- Procurar la igualdad de oportunidades y equidad entre los géneros para la toma de decisiones internas de los institutos políticos.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXII. Procurar y promover la equidad étnica y de género en las candidaturas a cargos de elección popular.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXIII.- Cumplir con lo que establece esta ley y otras disposiciones legales.
 
 ###### Artículo 38.
 
@@ -521,7 +547,9 @@ Los partidos políticos pueden solicitar ante el Consejo Estatal Electoral, que 
 
 Los dirigentes y los representantes de los partidos políticos son responsables civil y penalmente, por los actos que realicen en el ejercicio de sus funciones.
 
-### CAPITULO IV. Límites de Gastos de Campaña
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO IV. Límites de Gasto de Campañas y Precampañas
 
 ###### Artículo 40.
 
@@ -531,7 +559,13 @@ I. Disfrutar del beneficio fiscal que establece esta ley y las leyes de la mater
 
 II. Tener acceso en forma permanente a la radio y la televisión del Gobierno del Estado, en los tiempos oficiales que determine el Consejo Estatal Electoral; y
 
-III. Realizar propaganda electoral.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. Recibir financiamiento público en los términos de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IV. Realizar propaganda electoral.
 
 ###### Artículo 41.
 
@@ -551,6 +585,10 @@ IV. El Consejo Estatal Electoral realizará sorteos para determinar el orden de 
 
 V. El área técnica del Consejo Estatal Electoral, brindará apoyo a los partidos políticos para la producción de sus programas.
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI. El Consejo Estatal Electoral dispondrá lo que sea necesario para que se cumplimenten las disposiciones de este artículo.
+
 ###### Artículo 43.
 
 El Consejo Estatal Electoral gestionará la obtención de un catálogo de horarios y tarifas preferentes de publicidad, en las estaciones de radio y televisión privadas que operen en la Entidad.
@@ -561,7 +599,7 @@ Asimismo promoverá ante las autoridades correspondientes del Instituto Federal 
 
 ###### Artículo 44.
 
-El Consejo Estatal Electoral, en forma independiente a las demás prerrogativas otorgadas a los partidos políticos por esta Ley, llevará a cabo la distribución del financiamiento público en apoyo a las actividades ordinarias, así como para aquellas tendientes a la obtención del sufragio, entre todos los partidos políticos ante él registrados, conforme a lo siguiente:
+El Consejo Estatal Electoral, en forma independiente a las demás prerrogativas otorgadas a los partidos políticos por esta Ley, llevará a cabo la distribución del financiamiento público en apoyo a las actividades ordinarias, así como para aquellas tendientes a la obtención del sufragio entre todos los partidos políticos ante él registrados, conforme a lo siguiente:
 
 I. Para los partidos políticos que hayan alcanzado cuando menos el 2.0 dos por ciento de la votación total estatal en la última elección, se estará a lo siguiente:
 
@@ -578,6 +616,10 @@ II. Para el financiamiento de los partidos políticos con registro ante el Conse
 Esta asignación se llevará a cabo por el Consejo Estatal Electoral en el mes de marzo de cada año.
 
 III.- Para el desarrollo de las actividades tendientes a la obtención del sufragio, se constituirá un monto equivalente al cien por ciento del financiamiento público que les corresponda a los partidos políticos en el año de la elección ordinaria respectiva, el cual se distribuirá entre todos los partidos políticos con registro, de la siguiente manera: El treinta por ciento en forma igualitaria y el setenta por ciento restante, en proporción directa a la votación obtenida por cada uno de ellos en la última elección de diputados, en relación con la votación estatal emitida.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IV. Los partidos políticos, mediante financiamiento público, serán apoyados para la realización de actividades de educación y capacitación política, editorial y de estudios socioeconómicos. En base a la disposición presupuestal, el Consejo Estatal Electoral autorizará en esos rubros, erogaciones realizadas por los partidos con los respectivos comprobantes y justificaciones, hasta por un monto del 60 por ciento de ese gasto, ejercido en el año inmediato anterior.
 
 ###### Artículo 45.
 
@@ -597,7 +639,13 @@ VI. Los organismos internacionales de cualquier naturaleza; y
 
 VII. Las empresas mexicanas de carácter mercantil.
 
-Las aportaciones que se realicen a los partidos, no serán deducibles de impuestos.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Las aportaciones que se entreguen a los partidos, no serán deducibles de impuestos. Los partidos políticos tienen la obligación de dar cuenta de tales aportaciones en los términos de esta ley.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Quedan prohibidas las aportaciones anónimas. Cuando los partidos políticos las reciban se harán acreedores a las sanciones previstas en esta ley.
 
 ###### Artículo 46.
 
@@ -612,6 +660,10 @@ Decretada la suspensión el Consejo Estatal Electoral remitirá al Tribunal Elec
 ###### Artículo 48.
 
 El financiamiento general de los partidos políticos y para sus campañas que provenga de la militancia, estará conformado por las cuotas obligatorias ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales y por las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+El órgano interno responsable del financiamiento público estatal de cada partido deberá expedir recibo de las cuotas o aportaciones recibidas, del cual deberá conservar una copia para acreditar el monto ingresado.
 
 ###### Artículo 49.
 
@@ -641,9 +693,9 @@ Los fondos y fideicomisos que constituyan, serán manejados a través de las ope
 
 El Consejo Estatal Electoral, establecerá los procedimientos y mecanismos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como las reglas y lineamientos específicos para la presentación de sus informes y comprobantes.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-De igual manera el Consejo Estatal Electoral nombrará una comisión para la revisión de los informes que los partidos políticos deberán presentar sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como de su empleo y aplicación. La comisión se integrará por dos Consejeros Ciudadanos, dos Auditores Externos y por el Secretario Técnico del Consejo quien la presidirá.
+De igual manera el Consejo Estatal Electoral nombrará una comisión de fiscalización que funcionará de manera permanente, para la revisión de los informes que los partidos políticos deberán presentar sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como de su empleo y aplicación. La comisión se integrará por dos consejeros ciudadanos, dos auditores externos con el carácter de auxiliares y por el Secretario Técnico del Consejo quien la presidirá
 
 > <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
@@ -661,13 +713,41 @@ Si el Consejo Estatal Electoral, con base en el dictamen, determina que los recu
 
 Además si el Consejo Estatal Electoral advierte la existencia de errores u omisiones que determinen que los recursos asignados para gastos de campaña no han sido utilizados para el fin que se otorgaron o rebasaron éste, dictará conforme el procedimiento anterior la resolución correspondiente y dará vista al Tribunal Electoral del Estado para los efectos de ley.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Artículo 52 bis.- En lo relativo a la fiscalización de recursos que reciban y empleen los partidos políticos o sus candidatos, el Consejo por conducto de la Comisión de Fiscalización tendrá las siguientes atribuciones:
+
+I. Requerir a los partidos políticos la documentación necesaria para comprobar la veracidad de lo reportado en sus informes;
+
+II. Requerir a los aspirantes o candidatos a cargos de elección popular a que reporte información relativa a sus precampañas o campañas electorales;
+
+III. Garantizar audiencia administrativa a los aspirantes o candidatos que hayan sido postulados por los partidos políticos, según se trate, para los efectos de la fiscalización;
+
+IV. Conceder audiencia administrativa al representante del partido político de que se trate, con la finalidad de sustanciar el dictamen respectivo;
+
+V. Practicar las auditorías y verificaciones que sean necesarias;
+
+VI. Solicitar al Órgano de Fiscalización Superior, a la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, a la Comisión Nacional Bancaria y de Valores, a la Auditoria Superior de la Federación o al Instituto Federal Electoral, según corresponda, la información que a su juicio sea relevante para el cumplimiento de sus atribuciones y funciones;
+
+VII. Utilizar los informes, dictámenes, pruebas y evidencias que provean o generen otros órganos y áreas del Consejo o, en su caso, empresas o instituciones que hubieren realizado tareas de fiscalización, conforme a los convenios que celebre el Consejo.
+
+Para los efectos del presente artículo los partidos políticos, las coaliciones, los aspirantes a candidatos y los candidatos a cargos de elección popular, están obligados a proporcionar la información y la documentación que la comisión de fiscalización les requiera.
+
 ###### Artículo 53.
 
 Los partidos políticos gozarán de la exención de impuestos y derechos de acuerdo a las disposiciones legales aplicables.
 
-###### Artículo 54.
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 Las exenciones referidas, no se aplicarán en los derechos por la prestación de servicios municipales.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 54.
+
+Los bienes que sean adquiridos por los partidos políticos con registro local por medio del financiamiento público estatal, pasarán a ser parte de la hacienda pública del Estado, cuando los mismos pierdan su registro, independientemente de los resultados que, en su caso, arroje la verificación de inventarios y la fiscalización correspondiente. Para tal efecto se garantizará previamente el pago de daños y perjuicios a terceros.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO V. De las Coaliciones, Fusiones y Frentes
 
@@ -683,7 +763,9 @@ III. La duración de la campaña; y
 
 IV. Los estudios técnicos y financieros que realice sobre los costos de insumos, impresiones, propaganda, utilería, transporte, mantenimiento y combustible, así como de los medios de comunicación social.
 
-El Consejo Estatal Electoral, tomando en cuenta además los estudios socio-económicos del Estado y Municipios y los presupuestos de la administración pública, determinará los límites de gastos de campaña para Gobernador y Diputados locales a más tardar el día último de febrero del año de la elección, y los límites de gastos de campaña para Ayuntamientos a más tardar el día último de marzo del año de la elección.
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+V.- Los gastos y las aportaciones de simpatizantes o de cualquier persona física o moral no podrán rebasar los límites que para las correspondientes precampañas autorice el Consejo Estatal Electoral, conforme a lo dispuesto por esta ley, y en ningún caso excederán el 25 por ciento de los límites que para cada elección haya acordado el Consejo Electoral del Estado para el proceso inmediato anterior.
 
 ### CAPITULO VI. Pérdida de Registro de los Partidos
 
@@ -781,6 +863,8 @@ El convenio deberá presentarse ante el Consejo Estatal Electoral, el que resolv
 
 ### CAPITULO I. De los Organismos Electorales
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 70.
 
 Un partido político perderá su registro ante el Consejo Estatal Electoral, por las siguientes causas:
@@ -813,11 +897,37 @@ No podrá resolverse sobre la pérdida del registro, sin que previamente se oiga
 
 ### CAPITULO II. Del Consejo Estatal Electoral
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Artículos 74.- El Consejo Estatal Electoral residirá en la Ciudad de Tepic, y se integrará por un Consejero Presidente y seis Consejeros Ciudadanos Propietarios y un Representante de cada uno de los partidos políticos con registro en la Entidad, y un Secretario Técnico, todos con sus respectivos suplentes, hecha excepción de los Consejeros Ciudadanos quienes tendrán tres suplentes comunes.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+El Consejero Presidente y su suplente serán designados por el Congreso del Estado a propuesta de los grupos parlamentarios en él representados, por el voto de las dos terceras partes de los diputados presentes en sesión, a más tardar en la primera semana del mes de diciembre del año anterior en que se celebren las elecciones ordinarias.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+Los Consejeros Ciudadanos y los suplentes comunes serán designados por el voto de las dos tercera (sic) partes de los miembros presentes del Congreso del Estado, de entre las propuestas que formulen los grupos parlamentarios, dentro del término a que se refiere el párrafo anterior.
+
+a) (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1998)
+
+b) (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1998)
+
+c) (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1998)
+
+Las propuestas serán presentadas al Presidente del Congreso a mas tardar el día último del mes de noviembre del año anterior al de la elección, quien las turnará a la comisión o comisiones competentes para que presenten su dictamen en el que se funde, motive y proponga la designación.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+El Consejero Presidente y los Consejeros Ciudadanos tendrán dentro de este organismo voz y voto. Los representantes de los partidos políticos y el Secretario Técnico únicamente derecho a voz.
+
 ###### Artículo 72.
 
-La organización, preparación, desarrollo y vigilancia de los procesos electorales locales, es una función pública del Estado que se ejercerá a través de un organismo público dotado de autonomía, con personalidad jurídica y patrimonio propio, denominado Consejo Estatal Electoral, cuya integración y funciones se determinan en esta ley.
+La organización, preparación, desarrollo y vigilancia de los procesos electorales locales, es una función pública del Estado que se ejercerá a través de un organismo público dotado de autonomía, con personalidad jurídica y patrimonio propio, denominado Consejo Estatal Electoral, cuya integración y funciones se determinan en esta Ley.
 
-Dicho organismo tendrá facultad para conferir definitividad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos. Al efecto otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las asignaciones de Diputados y Regidores de Representación Proporcional.
+Dicho organismo tendrá facultad para conferir definitivad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos. al efecto otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las designaciones de Diputados y Regidores de Representación Proporcional.
+
+Corresponde exclusivamente al Estado a través de los Poderes Legislativo y Ejecutivo determinar y proveer dentro del ámbito de sus respectivas competencias, los gastos de los distintos organismos electorales así como el financiamiento público de los partidos políticos.
 
 ###### Artículo 73.
 
@@ -829,7 +939,13 @@ II. Los Consejos Municipales Electorales; y
 
 III. Las Mesas Directivas de Casilla.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+La integración de los consejos electorales estatal y municipales, no deberá exceder al 70 por ciento de un mismo género.
+
 ### CAPITULO III. De las Atribuciones Del Presidente y Secretario Técnico del Consejo Estatal Electoral
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 74.
 
@@ -899,19 +1015,29 @@ I. Atender lo relativo a la preparación, desarrollo y vigilancia de los proceso
 
 II. Cuidar la oportuna integración, instalación y funcionamiento de los Consejos Municipales Electorales;
 
-III. Dictar las previsiones destinadas a hacer efectivas las disposiciones de esta ley y desahogar las consultas que sobre la aplicación e interpretación de la misma se le formulen;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. Desahogar las consultas y resolver la interpretación de las normas de esta Ley bajo los principios gramatical, sistemático y funcional y en su caso aplicar los principios generales del derecho;
 
 IV. Resolver sobre el otorgamiento o pérdida de registro de los partidos políticos;
 
-V. Formar e integrar las Comisiones o Subcomisiones que estime necesarias para el desempeño de sus atribuciones con el número de miembros que acuerde en cada caso;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+V. Integrar las comisiones permanentes de fiscalización de los ingresos y gastos ordinarios, precampañas y campañas electorales de los partidos políticos, de prerrogativas y radiodifusión, capacitación electoral y educación formadas con el número de miembros que convenga en cada caso, pudiendo integrar otras si fuera pertinente.
 
 VI. Conocer y resolver sobre los convenios de coalición, fusión y frentes que los partidos políticos le presenten;
 
-VII. Proveer lo relativo a las prerrogativas que esta ley otorga a los partidos políticos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-VIII. Registrar las solicitudes de inscripción de candidaturas a Gobernador Constitucional del Estado;
+VII. Ministrar a los partidos políticos las prerrogativas y el financiamiento público que les corresponde de acuerdo a la Ley.
 
-IX. Registrar las fórmulas de candidatos para Diputados de Mayoría Relativa y listas de candidatos de Representación Proporcional;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VIII.- Regular, controlar y vigilar el desarrollo de las precampañas fiscalizando los ingresos y gastos efectuados en las mismas conforme a lo dispuesto por esta ley;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IX.- Cuando proceda aprobar el registro de las solicitudes de inscripción de candidaturas a gobernador constitucional, de las fórmulas de candidatos a diputados de mayoría relativa y de las listas de candidatos de representación proporcional;
 
 X. Registrar la plataforma electoral que durante cada proceso deben presentar los partidos políticos;
 
@@ -939,17 +1065,43 @@ XXI. Resolver los recursos de su competencia en los términos de esta ley;
 
 XXII. Expedir su reglamento interior para el buen funcionamiento del Consejo Estatal Electoral y sus órganos desconcentrados;
 
-XXIII. (DEROGADA, P.O. 10 DE OCTUBRE DE 2001)
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXIV. Solicitar por conducto de su Presidente, el auxilio de la fuerza pública, para garantizar el desarrollo normal del proceso electoral; y
+XXIII. Autorizar los estudios para la división territorial de la entidad en distritos electorales y su demarcación.
 
-XXV. Las demás que les señale esta ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXIV. Solicitar por conducto de su Consejero Presidente, el auxilio de la fuerza pública, para garantizar el desarrollo normal del proceso electoral.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXV. Procurar que todos los organismos electorales recurran a los criterios de equidad y género en su integración.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXVI. Analizar la viabilidad del uso de nuevas tecnologías en la jornada electoral.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXVII. Aprobar el anteproyecto de presupuesto de gastos de los procesos y organismos electorales que aplicará al ejercicio fiscal correspondiente. En dicho anteproyecto se incluirán los rubros de las prerrogativas y financiamiento público.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXVIII. Vigilar que las autoridades estatales y municipales suspendan la publicación y difusión por cualquier medio, la obra pública y los programas asistenciales, en los términos que dispone el artículo 149 de la presente ley, excepto en los casos de programas de emergencias o programas de protección civil, por la eventualidad o presencia de riesgo a la población.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXIX. Promover e incentivar la cultura cívica mediante la realización de jornadas electorales en las que participe la niñez y adolescencia.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XXX. Las demás que les señale esta ley y otras disposiciones legales aplicables.
 
 ### CAPITULO V. De las Atribuciones del Presidente y Secretarios de los Consejos Municipales Electorales
 
 ###### Artículo 78.
 
-Son atribuciones del Presidente del Consejo Estatal Electoral, las siguientes:
+Son atribuciones del Consejero Presidente del Consejo Estatal Electoral las siguientes:
 
 I. Velar por la unidad y cohesión de las actividades de las autoridades electorales;
 
@@ -975,31 +1127,17 @@ XI. Firmar los acuerdos y resoluciones emitidas por el Consejo Estatal Electoral
 
 XII. Elaborar el presupuesto de gastos de los procesos y organismos electorales y presentarlo al Gobernador para su inclusión en el presupuesto de egresos del Estado, vigilando su ejercicio;
 
-XIII. Ordenar y vigilar la entrega a los Consejos Municipales Electorales de la documentación aprobada, recursos económicos y demás elementos necesarios para el desempeño de sus tareas;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XIV. Solicitar a las autoridades competentes los medios de seguridad personal para los candidatos a Gobernador;
+XXIII.- Presentar ante el Consejo para su aprobación, el anteproyecto anual del Presupuesto, el cual deberá contener por separado los programas de prerrogativas que corresponden a los partidos políticos para su inclusión en el proyecto de Presupuesto de Egresos del Estado que el Ejecutivo proponga al Congreso del Estado.
 
-XV. Proponer al Consejo Estatal Electoral los programas de capacitación de los servidores públicos electorales, observadores, visitadores y ciudadanos encargados de las casillas;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XVI. Expedir y entregar las constancias de asignación a los Diputados electos por el principio de Representación Proporcional y la de mayoría a los candidatos a Diputados electos por este principio, así como la del candidato a Gobernador Constitucional del Estado que hayan obtenido el mayor número de votos;
+XXIV.- Presentar informe mensual de su ejercicio presupuestal detallando sus gastos para su análisis, discusión y aprobación en su caso por el Consejo Estatal Electoral remitiendo al Órgano Superior de Fiscalización.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-Turnar al Tribunal Electoral del Estado la documentación de la elección impugnada, así como los recursos interpuestos que hubiese recibido de los partidos políticos, los candidatos o de sus representantes;
-
-XVII. Proveer lo necesario para la recepción y custodia de la documentación electoral que le haya sido remitida por los Consejos Municipales Electorales;
-
-XVIII. Representar legalmente al Consejo Estatal Electoral ante todo género de autoridades;
-
-XIX. Organizar el sistema de información para recibir y dar publicidad a los resultados de las elecciones;
-
-XX. Concluido el proceso electoral, proponer al Congreso del Estado un pliego de observaciones y propuestas de modificación a la legislación electoral, en base a las experiencias obtenidas;
-
-XXI. Garantizar la calidad y efectividad del líquido indeleble que será utilizado el día de la jornada electoral, mediante consultas que realice con instituciones académicas y técnicas especialistas en la materia;
-
-XXII. Establecer bases para la contratación con empresas o instituciones que presten servicios profesionales para la realización de conteos rápidos de resultados electorales y encuestas de preferencias electorales; y
-
-XXIII. Las demás que le sean conferidas por el Consejo, esta ley y demás disposiciones complementarias.
+XXV.- Las demás que le sean conferidas por el Consejo, esta ley y demás disposiciones complementarias.
 
 ###### Artículo 79.
 
@@ -1039,7 +1177,7 @@ XV. Las demás que le sean conferidas por el Consejo o su Presidente, o le seña
 
 Para ser Presidente y Secretario Técnico del Consejo Estatal Electoral, se requiere tener título de Licenciado en Derecho o en áreas sociales, por lo menos con dos años de antigüedad al de su nombramiento, experiencia en materia político-electoral y reunir en lo conducente los requisitos establecidos para los Consejeros Ciudadanos.
 
-### CAPITULO VI. De las Mesas Directivas de Casilla
+### CAPITULO VI. De las Mesas Directivas de Casillas
 
 ### CAPITULO VII. Disposiciones Comunes
 
@@ -1197,15 +1335,19 @@ IX. Firmar junto con el Presidente del Consejo Municipal Electoral, todos los ac
 
 X. Las demás que le confiera esta ley, el Consejo Municipal Electoral y su Presidente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ### CAPITULO III. De la Formación Del Padrón Electoral
 
 ###### Artículo 90.
 
-La mesas directivas de casilla son los organismos que tienen a su cargo la recepción, escrutinio y cómputo de los votos sufragados en las secciones electorales.
+Las mesas directivas de casilla son los organismos que tienen a su cargo la recepción, escrutinio y cómputo de los votos sufragados en las secciones electorales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 91.
 
-Las mesas directivas de casilla se integrarán por un Presidente, un secretario, dos escrutadores y el número de secretarios auxiliares que sean necesarios para atender al electorado en forma organizada y expedita, con sus respectivos suplentes, designados por el Consejo Municipal Electoral, de entre los ciudadanos que cumplan los siguientes requisitos:
+Las Mesas Directivas de casillas se integrarán por un presidente, un secretario y dos escrutadores, todos con sus respectivos suplentes designados por el Consejo Municipal Electoral de entre los ciudadanos que cumplan los siguientes requisitos:
 
 A).- Saber leer y escribir, y no tener más de sesenta y cinco años al día de la elección;
 
@@ -1309,9 +1451,11 @@ e) Concluida la votación inutilizar las boletas sobrantes, de conformidad a lo 
 
 f) Las demás que les confieran esta ley y disposiciones relativas.
 
-IV. DE LOS SECRETARIOS AUXILIARES:
+IV. (DEROGADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)
 
-Los Secretarios Auxiliares que funcionen en las casillas en los casos previstos por el artículo 153 fracción I, tendrán las funciones y atribuciones siguientes:
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Las casillas contiguas que funciones (sic) en los casos previstos por el artículo 153 fracción I, tendrán las funciones y atribuciones siguientes:
 
 a) Recibir del Presidente, la fracción de la lista nominal de electores y boletas que correspondan en base a la distribución alfabética y numérica que se realice para la casilla;
 
@@ -1559,7 +1703,13 @@ El Consejo Estatal Electoral celebrará convenios con el Instituto Federal Elect
 
 ###### Artículo 137.
 
-El proceso electoral ordinario se inicia con la formalización del acto a que se refiere el artículo 76 de la presente ley y concluye con la declaración de validez de la elección y expedición de las constancias respectivas, o en su caso, un (sic) vez que quede firme la resolución del último de los medios de impugnación que se hubieren interpuesto.
+El proceso electoral es un conjunto de actos ordenados por la Constitución Política del Estado Libre y Soberano de Nayarit, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica y democrática de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos de la entidad.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+El proceso electoral ordinario se inicia con la celebración de la primera sesión ordinaria del Consejo Estatal Electoral en la primera semana del mes de enero del año de las elecciones ordinarias y concluye con la declaración de validez de la elección y expedición de las constancias respectivas, o en su caso, una vez que quede firme la última resolución de los medios de impugnación que se hubieren interpuesto.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 Para los efectos de esta Ley, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -1575,7 +1725,7 @@ II.- La etapa de la Jornada electoral se inicia a las 8:00 horas del primer domi
 
 III.- La etapa de resultados y de declaraciones de validez de las elecciones, comprende, desde la remisión de la documentación y expedientes electorales al Consejo Municipal respectivo, hasta la conclusión del proceso electoral.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO VII. Del Comité Técnico y de Vigilancia
 
@@ -1659,7 +1809,7 @@ El Consejo Estatal Electoral enviará para su publicación en el Periódico Ofic
 
 ### CAPITULO I. Del Proceso Electoral y sus Etapas
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 145.
 
@@ -1719,7 +1869,11 @@ VI. La propaganda que comprenda el arroyo de una calle o avenida, solamente perm
 
 Los partidos políticos y sus candidatos que infrinjan las disposiciones contenidas en este artículo, podrán ser denunciados ante el Consejo Estatal Electoral. El Presidente del Consejo concederá un plazo de diez días para que el partido político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a lo dispuesto en este artículo, de no hacerlo, el Ayuntamiento correspondiente efectuará los trabajos a costa del partido político omiso, que le será deducido del financiamiento público.
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 151.
+
+Las campañas electorales darán inicio a partir de la autorización del registro de candidaturas por el organismo electoral competente.
 
 El día de la elección y los tres que antecedan, no se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda político-electoral.
 
@@ -1729,17 +1883,89 @@ En los lugares señalados para la ubicación de las casillas, y en una distancia
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
-### CAPITULO II. Del Procedimiento de Registro de Candidatos
+### CAPITULO II. De las Precampañas y del Procedimiento de Registro de Candidatos
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Artículo 137 A.- Se considera precampaña electoral, al conjunto de actividades realizadas por los ciudadanos con el propósito de alcanzar la postulación a un cargo de elección popular, por un partido político o una coalición.
+
+Ningún ciudadano podrá realizar actos de precampaña, tales como reuniones públicas, marchas, asambleas, publicidad impresa o en los medios de comunicación social, así como cualquiera otra tendiente a lograr un posicionamiento ante la sociedad o reconocimiento de su persona para ocupar un cargo de elección popular, mientras no dé inicio el proceso electoral constitucional.
+
+Para iniciar actividades de precampaña electoral, los ciudadanos aspirantes deberán, previamente, notificar este hecho a su partido político o al Consejo Estatal Electoral, deberá recabar y obtener la autorización respectiva; en el primer caso, el partido político de que se trate, deberá recabar la autorización correspondiente.
+
+El Consejo Estatal Electoral regulará, controlará y vigilará el origen y gasto de los recursos financieros utilizados por los ciudadanos aspirantes en sus precampañas; al efecto implementará la reglamentación correspondiente.
+
+Las precampañas electorales iniciarán con la emisión de la convocatoria a los procesos internos de selección de candidatos, que expidan los partidos políticos.
+
+Las infracciones cometidas por los aspirantes a las disposiciones contenidas en el presente capítulo, son causas (sic) sanción económicas hasta por 1000 días de salario mínimo vigente en la entidad.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Artículo 137 B.- Los procesos internos de selección de candidatos a cargos de elección popular, se regularán con base en las normas estatutarias de los partidos políticos o coaliciones y con arreglo a lo siguiente:
+
+I.- Los partidos políticos y coaliciones, a través de su Comité Estatal o su equivalente, remitirán al Consejo Estatal Electoral la Convocatoria respectiva, dentro de los tres días siguientes al de su publicación.
+
+II.- El Consejo Estatal Electoral regulará, controlará y vigilará los procesos de selección interna de candidatos a los diferentes cargos de elección popular y emitirá oportunamente los acuerdos para la debida fiscalización de los recursos que se vayan a utilizar y ejercer por los aspirantes.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Artículo 137 C.- Tanto las precampañas como los procesos internos de selección de candidatos, se sujetarán a lo siguiente:
+
+I.- La propaganda y los diferentes tipos de proselitismo que se realicen por parte de los aspirantes, se sujetarán a lo dispuesto por esta ley en cuanto a las campañas electorales corresponda.
+
+II.- Queda prohibido a los aspirantes:
+
+a) Hacer proselitismo para la obtención de una candidatura a algún cargo de elección popular, fuera de los plazos a que se refieren los dos artículos anteriores;
+
+b) Utilizar los emblemas o lemas de algún partido político o coalición, sin haber obtenido la autorización correspondiente;
+
+c) Utilizar en su favor recursos públicos o programas de carácter social en beneficio de su imagen al realizar actividades de proselitismo;
+
+d) En caso de que el aspirante desempeñe algún cargo como servidor público, no podrá utilizar los bienes o recursos, ni publicitar los programas o la obra pública en su propio beneficio; lo anterior, sin menoscabo de las sanciones políticas, administrativas o penales que le resulten aplicables; y
+
+e) Ostentarse como candidato o con la denominación del cargo público que pretenda.
+
+III.- A solicitud del partido político o coalición, el Consejo Estatal Electoral podrá realizar los procesos de selección interna de candidatos o coadyuvar en su realización, conforme a lo dispuesto en sus normas estatutarias y en esta ley.
+
+IV.- Los gastos de precampaña y de los procesos internos de selección de candidatos correrán a cargo de los aspirantes, en tanto que a los partidos políticos o coaliciones les corresponderá exclusivamente lo referente a los gastos operativos.
+
+V.- Los recursos de toda índole que obtengan y destinen los aspirantes a cargos de elección o para la renovación de las dirigencias, diversos a los provenientes de los propios partidos políticos, no serán contabilizados como recursos de los partidos, pero serán objeto de regulación y fiscalización interna y de las autoridades electorales, en su caso.
+
+VI.- Por ningún motivo se aplicarán a las precampañas de los partidos políticos y coaliciones los recursos de financiamiento público estatal.
+
+VII.- Habrá un registro contable del ingreso y gasto con base en el informe que al efecto presenten los aspirantes al interior del partido o coalición.
+
+VIII.- Los partidos políticos o coaliciones presentarán, dentro de los 15 días naturales posteriores al registro de candidatos, un informe al Consejo Estatal Electoral sobre las fuentes de ingreso y gasto efectuados en el proceso de selección de candidatos.
+
+IX.- Los informes de los aspirantes, partidos o coaliciones, se harán públicos, conforme a los lineamientos que apruebe el Consejo Estatal Electoral.
+
+X.- Las aportaciones de personas físicas o jurídicas que se destinen a las precampañas de los aspirantes, en ningún caso excederán al equivalente de 300 veces el salario mínimo general diario vigente en la entidad, expidiéndose el recibo foliado y con la identificación correspondiente.
+
+XI.- En los casos de colectas públicas, sólo deberán reportarse en el informe correspondiente, el monto total obtenido; de exceder este monto a dos aportaciones personales, deberán justificar su procedencia, en los términos de la fracción anterior.
+
+XII.- Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; tratándose de bienes muebles e inmuebles, éstos deberán destinarse única y exclusivamente al cumplimiento del objeto del proceso interno de selección de candidatos.
+
+Las infracciones cometidas por los aspirantes a las disposiciones contenidas en el presente capítulo, son causas de sanción económica hasta por 1000 días de salario mínimo, vigente en la entidad.
 
 ###### Artículo 153.
 
 En cada sección electoral se instalará una casilla donde funcionará la mesa directiva respectiva, para recibir la votación de los ciudadanos residentes en la misma, la cual para su integración se sujetará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-I. En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a mil electores, se nombrará el número de secretarios auxiliares necesarios, que resulte de dividir el número excedente a dicha cantidad de ciudadanos inscritos en la lista nominal de electores entre 500; nombrándose uno más si la última fracción es mayor de 100 electores. Los Secretarios Auxiliares sólo funcionarán en este supuesto y ejercerán las funciones a que se refiere la fracción IV del Artículo 96 de esta ley.
+En cada sección electoral que cuente cuando menos con 50 electores inscritos en la lista nominal se instalará una casilla donde funcionará la mesa directiva respectiva para recibir la votación de los electores residentes en la misma a la que se le denominará casilla básica.
 
-II. En cada casilla se deberá garantizar el ejercicio del voto secreto, utilizándose mamparas diseñadas para tal efecto u otros medios que permitan la emisión secreta del voto.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+En las secciones electorales cuyo listado nominal sea superior a mil electores o fracción se instalarán casillas contiguas.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+De ser dos o más y no existiendo un local que permita su instalación en un mismo sitio, se ubicarán en lugares distintos, atendiendo a la concentración y distribución de los electores en la sección y así lo acuerde el Consejo Municipal Electoral correspondiente, dividiéndose la lista nominal de electores en orden alfabético o según resulten o ameriten las circunstancias.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+En cada casilla se deberá garantizar el ejercicio del voto secreto, utilizándose mamparas diseñadas para tal efecto u otros medios que permitan la emisión secreta del voto.
 
 ###### Artículo 154.
 
@@ -2539,969 +2765,57 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 De igual manera, el Presidente tomará las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de la documentación electoral que le haya sido remitida por los Consejos Municipales Electorales a que se refiere esta ley, hasta la conclusión del proceso electoral, procediendo después de los tres meses siguientes, a su destrucción.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ### CAPITULO I. Reglas Generales para Cómputos Municipales
 
 ###### Artículo 218.
 
-El Tribunal Electoral del Estado, es el órgano jurisdiccional autónomo que tiene a su cargo la substanciación y resolución de los recursos, así como la imposición de las sanciones administrativas que previene esta ley.
+El Consejo Estatal Electoral conocerá de las infracciones que cometan los ciudadanos a lo previsto en el artículo 11 de esta Ley. La sanción consistirá en multa de cincuenta a doscientas veces el salario mínimo diario general vigente para el Estado de Nayarit. Será determinada y en su caso aplicada por el Tribunal Electoral del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+El Consejo Estatal Electoral conocerá de las infracciones que se cometan a los artículos 178, y relativos de esta Ley, en los casos en que las autoridades no proporcionen en tiempo y forma, la información que les sea solicitada por los organismos electorales o por el Tribunal Electoral del Estado.
 
-###### ARTICULO 219.
+Igualmente el Consejo Estatal Electoral conocerá de las infracciones y violaciones que a las disposiciones de esta Ley cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser, amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo.
 
-El Tribunal Electoral del Estado se integrará por 5 Magistrados Numerarios y 3 Supernumerarios designados por el Congreso del Estado, a propuesta de los Grupos Parlamentarios en él representados, conforme al siguiente procedimiento:
-
-a) Cada grupo parlamentario o partido político representado en el Congreso propondrá una lista hasta de tres candidatos;
-
-b) La Comisión Legislativa, de entre los propuestos, integrará una lista de candidatos hasta por el doble del número a elegir;
-
-c) De la lista que se forme, la Comisión Legislativa elaborará un dictamen unitario en el que se propongan las fórmulas de los Magistrados Propietarios y Suplentes.
-
-Las propuestas serán presentadas al Presidente del Congreso a más tardar el día último del mes de noviembre del año anterior al de la elección, quien las turnará a las comisiones competentes para que en un solo acto presente dictamen unitario en el que se funde, motive y proponga la designación.
-
-La elección se hará por el voto de las dos terceras partes de los miembros del Congreso presentes en la sesión respectiva. De no obtenerse la mayoría calificada se procederá a la insaculación.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
-
-Los Magistrados Numerarios designados, una vez que rindan la protesta de ley, elegirán de entre sus miembros, al que fungirá como Presidente del Organo Jurisdiccional Electoral.
-
-###### Artículo 220.
-
-El Tribunal Electoral del Estado deberá quedar instalado e iniciar sus funciones, en la segunda quincena del mes de diciembre del año anterior al de la elección.
-
-###### Artículo 221.
-
-Para ser Magistrado del Tribunal Electoral del Estado, se requerirá invariablemente cumplir los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos civiles y políticos;
-
-II. Estar inscrito en el Registro de Electores y contar con credencial para votar;
-
-III. No tener menos de 30 años el día de la designación;
-
-IV. Poseer al día del nombramiento con anterioridad mínima de cinco años, título profesional de Licenciado en Derecho, legalmente expedido y registrado;
-
-V. Gozar de buena reputación y no haber sido condenado por delito intencional, pero si se tratare de delitos que afecten su buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-VI. No desempeñar o haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cinco años anteriores a la designación;
-
-VII. No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años anteriores al nombramiento, ni haber figurado como candidato;
-
-VIII. Haber residido en el Estado durante los últimos cinco años;
-
-IX. No pertenecer al estado eclesiástico o ser ministro de algún culto religioso; y
-
-X. Haber realizado por lo menos durante tres años ininterrumpidos, una actividad relacionada con la aplicación, interpretación, elaboración, investigación y enseñanza de las normas jurídicas.
-
-###### Artículo 222.
-
-Los Magistrados serán nombrados para ejercer sus funciones por un período de cuatro años, pudiendo ser ratificados.
-
-Durante el desempeño de su cargo no podrán en ningún caso ocupar o desempeñar cargos, empleos o comisiones de la Federación, Estado, Municipios o partidos políticos ni ejercer en forma libre su profesión durante el período de elección, excepción hecha de los docentes y los honoríficos, siempre que no sean incompatibles con el ejercicio de sus funciones.
-
-###### Artículo 223.
-
-El Tribunal Electoral del Estado funcionará en Pleno y en Salas, y tendrán su sede en la capital del Estado. Sus sesiones serán públicas y excepcionalmente de carácter reservado por acuerdo del Pleno.
-
-###### Artículo 224.
-
-Para que el Tribunal sesione en Pleno validamente, se requerirá la presencia de por lo menos tres Magistrados. Para que funcione en Salas se requerirá por lo menos la presencia de dos, entre los que deberá estar el Presidente.
-
-Sus resoluciones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
-
-## TITULO DECIMO. De la Justicia Electoral
-
-### CAPITULO II. Del Cómputo Estatal y Declaración de Validez de la Elección del Gobernador y Diputados e Integración del Congreso
-
-###### Artículo 225.
-
-Son atribuciones del Pleno del Tribunal Electoral del Estado las siguientes:
-
-I. Elaborar, aprobar, y en su caso modificar, el Reglamento Interior del Tribunal Electoral del Estado;
-
-II. Ejecutar programas de capacitación, investigación y difusión en materia de derecho electoral;
-
-III. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
-
-IV. Calificar y resolver acerca de las excusas de los Magistrados;
-
-V. Designar al Magistrado Supernumerario que deba cubrir la ausencia temporal o definitiva de algún Magistrado Numerario;
-
-VI. Designar o remover, a propuesta del Presidente del Tribunal, al Secretario General y Jueces Instructores;
-
-VII. Conocer y resolver el recurso de reconsideración que se interponga de acuerdo con las disposiciones aplicables de esta ley en contra de las resoluciones de fondo de las Salas, recaídas a los recursos de inconformidad que puedan modificar el resultado de una elección, o la asignación de Diputados por el principio de Representación Proporcional que realice el Consejo Estatal Electoral.
-
-VIII. Determinar y en su caso aplicar las sanciones administrativas previstas en el capítulo correspondiente de esta ley.
-
-IX. Las demás que le otorgue el presente ordenamiento y otras disposiciones legales.
-
-###### Artículo 226.
-
-Son funciones y atribuciones de las Salas:
-
-I. Conocer y resolver los recursos de apelación que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los organismos electorales;
-
-II. Sustanciar y resolver los recursos que se presenten durante el proceso electoral, en la etapa de preparación de la elección, en contra de los actos o resoluciones de los organismos electorales; y
-
-III. Conocer y resolver de los demás recursos de apelación y, en su caso, los de revisión, que sean de su competencia en los términos de esta ley y conocer y resolver los recursos de inconformidad que se interpongan de acuerdo con las disposiciones aplicables de esta ley en contra de las resoluciones que declaren la validez de las elecciones, el otorgamiento de las constancias y la asignación de Diputados y Regidores bajo el principio de Representación Proporcional.
-
-###### Artículo 227.
-
-El Tribunal Electoral del Estado, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales que pronuncie, ya sea en Pleno o en Salas, se sujeten invariablemente al principio de legalidad.
-
-###### Artículo 228.
-
-La retribución que reciban los Magistrados durante los procesos electorales o durante el tiempo en que ejerzan su cargo, será la prevista en el Presupuesto de Egresos del Estado.
-
-###### Artículo 229.
-
-Son atribuciones del Presidente del Tribunal Electoral del Estado las siguientes:
-
-I. Representar al Tribunal ante toda clase de autoridades;
-
-II. Convocar y presidir las sesiones del Pleno y de cada una de las Salas del Tribunal, dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
-
-III. Turnar por riguroso orden de presentación a las Salas, los recursos que se interpongan en los términos de esta ley;
-
-IV. Proponer al Pleno el nombramiento del Secretario General de Acuerdos y acordar con los Magistrados de cada una de las Salas, las propuestas de Jueces Instructores y al personal de apoyo jurídico y administrativo necesario para el buen funcionamiento del Tribunal, de acuerdo con la disponibilidad presupuestaria.
-
-V. Convocar a reuniones internas a los Magistrados del Tribunal, a los Jueces Instructores y a los demás miembros del personal jurídico y administrativo;
-
-VI. Despachar la correspondencia del Tribunal;
-
-VII. Elaborar y enviar al titular del Poder Ejecutivo el Presupuesto Anual de Gastos del Tribunal para su incorporación a la iniciativa del Presupuesto de Egresos;
-
-VIII. Vigilar que se cumplan, según correspondan, las determinaciones del Pleno, de las Salas y de los Jueces Instructores;
-
-IX. Someter a la aprobación del Pleno cuando proceda la suspensión, remoción o cese del Secretario General, Jueces Instructores y demás personal jurídico y administrativo;
-
-X. Requerir de las autoridades estatales y municipales los documentos que obran en su poder y que puedan servir para la sustanciación o resolución de los expedientes; y
-
-XI. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
-
-###### Artículo 230.
-
-El Tribunal Electoral del Estado contará por lo menos con cinco Jueces Instructores durante el proceso electoral que auxiliarán a los Magistrados en la sustanciación de los recursos y en la elaboración de proyectos de resolución.
-
-El Pleno del Tribunal Electoral del Estado resolverá sobre la adscripción de los Jueces Instructores a las Salas correspondientes.
-
-###### Artículo 231.
-
-Los Jueces Instructores deberán reunir los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener 25 años de edad por lo menos, al momento de la designación;
-
-III. Tener título de Licenciado en Derecho legalmente expedido y registrado con antigüedad mínima de 3 años;
-
-IV. No desempeñar o haber desempeñado cargo de elección popular en los últimos 5 años;
-
-V. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos 5 años; y
-
-VI. Los demás establecidos por al artículo 221 de esta ley.
-
-La retribución que reciban los Jueces Instructores durante el proceso electoral será la prevista en el Presupuesto de Egresos del Estado.
-
-Los Jueces Instructores tienen la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
-
-###### Artículo 232.
-
-Son atribuciones de los Jueces Instructores:
-
-I. Admitir los recursos de apelación e inconformidad, así como los escritos de los coadyuvantes y de los terceros interesados, cuando cumplan con los requisitos establecidos en esta ley;
-
-II. Someter a los Magistrados los acuerdos de desechamiento de los recursos de apelación y de inconformidad que sean notoriamente improcedentes o evidentemente frívolos;
-
-III. Someter a la consideración de los Magistrados, el acuerdo de tener por no interpuestos los recursos de apelación e inconformidad, y por no presentados los escritos de los coadyuvantes y de los terceros interesados cuando no reúnan los requisitos establecidos por esta ley;
-
-IV. Determinar y acordar, cuando proceda la acumulación de los recursos de apelación e inconformidad, así como determinar la procedencia de la conexidad de las causas de conformidad a lo previsto por esta ley;
-
-V. Sustanciar los expedientes, formulando los requerimientos necesarios, cuando así lo juzgue conveniente, para agregar cualquier informe o documento que sea pertinente para ponerlos en estado de resolución;
-
-VI. Solicitar el auxilio legal de los juzgados de primera instancia y menores de la Entidad, en el desahogo de alguna diligencia o efectuar por sí mismos las que deban practicarse fuera del Tribunal; y
-
-VII. Desempeñar las demás tareas que les encomiende el Pleno y las Salas del Tribunal, en el ámbito de sus respectivas competencias, para la buena marcha y funcionamiento del Tribunal.
-
-###### Artículo 233.
-
-El Tribunal Electoral contará con un Secretario General de Acuerdos que tendrá las siguientes atribuciones:
-
-I. Apoyar al Presidente del Tribunal en las sesiones del Pleno y en las tareas que le encomiende;
-
-II. Dar cuenta, tomar votaciones y formular el acta respectiva en las sesiones del Pleno;
-
-III. Supervisar que se hagan en tiempo y forma las notificaciones a que se refiere el capítulo respectivo de esta ley;
-
-IV. Apoyar durante las sesiones a los Magistrados que deban presentar los proyectos para resolución del Pleno;
-
-V. Llevar el control del turno de los asuntos a las Salas o al Pleno;
-
-VI. Supervisar el debido funcionamiento de los archivos jurisdiccionales del Pleno y de las Salas y, en su momento, su concentración y supervisión;
-
-VII. Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
-
-VIII. Apoyar a los Jueces Instructores en el desempeño de sus funciones;
-
-IX. Autorizar con su firma las actuaciones del Pleno y las de las Salas;
-
-X. Expedir los certificados de constancias que se requieran y les soliciten;
-
-XI. Llevar el registro de los criterios legales que se adopten; y
-
-XII. Atender todo lo relativo a los recursos humanos, financieros y materiales necesarios para el funcionamiento del Tribunal y atender las encomiendas del Pleno, del Presidente del Tribunal y en su caso, de las Salas.
-
-###### Artículo 234.
-
-El Secretario General de Acuerdos deberá satisfacer los requisitos que se exigen para ser Juez Instructor, y percibirá la remuneración prevista en el presupuesto de egresos del Estado.
-
-###### Artículo 235.
-
-El Secretario General de Acuerdos, los Jueces Instructores y el personal de apoyo jurídico, se conducirán con imparcialidad y velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en que intervengan durante el desempeño de sus funciones.
-
-###### Artículo 236.
-
-El Secretario General de Acuerdos, el personal jurídico y administrativo, tendrán la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
-
-## TITULO DECIMO PRIMERO. De las Nulidades; del Sistema de Medios de Impugnación; y de las Faltas y Sanciones Administrativas
-
-### CAPITULO I. Del Tribunal Electoral del Estado
-
-###### Artículo 237.
-
-Las nulidades establecidas en este título podrán afectar la votación emitida en una casilla y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de Diputados de Mayoría Relativa; o la elección en un Municipio para Ayuntamiento. Para la impugnación del cómputo de circunscripción plurinominal se estará a lo dispuesto en la fracción IV del inciso C) del artículo 246, y en el inciso D) párrafo segundo del Artículo 252 de esta ley.
-
-Los efectos de las nulidades decretadas por el Tribunal Electoral del Estado, respecto de la votación emitida en una casilla o de una elección en un Municipio, o en un Distrito Electoral Uninominal, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
-
-###### Artículo 238.
-
-La votación recibida en una casilla será nula cuando se acrediten las siguientes causales:
-
-A) Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el Consejo Municipal Electoral correspondiente;
-
-B) Entregar, sin causa justificada, los sobres que contengan los expedientes electorales fuera de los plazos que esta ley señala;
-
-C) Realizar, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el Consejo Municipal Electoral respectivo;
-
-D) Recibir la votación en fecha distinta a la señalada para la celebración de la elección;
-
-E) La recepción de la votación por personas u organismos distintos a los facultados por esta ley;
-
-F) Haber mediado dolo o error en la computación de los votos que beneficien a uno de los candidatos o fórmula de candidatos y esto sea determinante para el resultado de la votación;
-
-G) Permitir sufragar sin credencial para votar a aquellos cuyo nombre no aparezca en la lista nominal de electores, siempre que ello sea determinante para el resultado de la votación;
-
-H) Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsado sin causa justificada;
-
-I) Ejercer violencia física o presión sobre los miembros de la mesa directiva de la casilla o sobre los electores, y siempre que esos hechos sean determinantes para el resultado de la votación; y
-
-J) Se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación.
-
-###### Artículo 239.
-
-Son causas de nulidad de una elección de Diputado de Mayoría Relativa en un distrito electoral uninominal, las siguientes:
-
-A) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el 20% de las casillas;
-
-B) Cuando no se instalen las casillas en el 20% de las secciones y consecuentemente la votación no hubiere sido recibida;
-
-C) Cuando los dos integrantes de la fórmula de candidatos sean inelegibles.
-
-###### Artículo 240.
-
-Son causas de nulidad de una elección de Ayuntamiento en un Municipio, las siguientes:
-
-A) Cuando alguna o algunas de las causales de nulidad previstas en el artículo 238 de esta ley, se acrediten en por lo menos el 20% de las secciones del Municipio de que se trate;
-
-B) Cuando no se instale ninguna casilla en el 20% de las secciones del Municipio de que se trate y por consecuencia la votación no hubiere sido recibida; o
-
-C) Cuando los integrantes de la planilla de candidatos fueren inelegibles.
-
-###### Artículo 241.
-
-Son causas de nulidad de una elección de Gobernador Constitucional del Estado, las siguientes:
-
-A) Cuando se hubiere decretado la nulidad en cuando menos la mitad más uno, de la elección de Ayuntamientos por el principio de Mayoría Relativa;
-
-B) Cuando se hubiere decretado la nulidad en cuando menos la mitad más uno, de las elecciones de Diputados por el principio de Mayoría Relativa, y
-
-C) Cuando el candidato sea inelegible para el cargo.
-
-###### Artículo 242.
-
-Sólo podrá ser declarada nula la elección en un distrito electoral o en un Municipio, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
-
-La Sala del Tribunal Electoral del Estado podrá declarar la nulidad de una elección de Diputados o de Ayuntamiento, cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral en el distrito o municipio de que se trate y se demuestre que las mismas, son determinantes para el resultado de la elección, salvo que las irregularidades sean imputables al partido recurrente.
-
-###### Artículo 243.
-
-Los partidos políticos no podrán invocar en su favor, en ningún recurso, causas de nulidad, hechos o circunstancias que el propio partido dolosamente, haya provocado.
-
-### CAPITULO II. De los Magistrados
-
-###### Artículo 244.
-
-Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
-
-###### Artículo 245.
-
-Tratándose de la inelegibilidad de candidatos a Diputados o Regidores de Representación Proporcional, tomará el lugar del declarado no elegible, el que le sigue en la lista correspondiente al mismo partido.
-
-En el caso de la declaración de inelegibilidad de un candidato electo por el principio de Mayoría, tomará el lugar del declarado no elegible, quien fuere su suplente en la fórmula o planilla.
-
-### CAPITULO III. Del Funcionamiento del Tribunal
-
-###### Artículo 246.
-
-Entre cada dos procesos electorales ordinarios los ciudadanos, los partidos políticos y las organizaciones o agrupaciones políticas contarán, en los términos señalados en este título, con los siguientes medios de impugnación:
-
-A) El recurso de apelación, que los ciudadanos podrán interponer en contra de los actos o resoluciones de las oficinas del Registro de Electores, una vez que hayan agotado la instancia administrativa;
-
-B) El recurso de apelación, que los partidos políticos podrán interponer en contra de actos o resoluciones del Consejo Estatal Electoral; y en contra del dictamen relativo a los informes que los partidos políticos deban presentar por gastos de campaña y financiamiento general; y
-
-C) El recurso de apelación, que las organizaciones o agrupaciones políticas podrán interponer únicamente cuando se les haya negado el registro como partidos políticos.
-
-Durante el proceso electoral, para garantizar la legalidad de los actos, resoluciones y resultados electorales, se establecen los siguientes medios de impugnación:
-
-A) Recurso de revisión, que los partidos políticos podrán interponer en contra de los actos o resoluciones de los Consejos Municipales Electorales;
-
-B) Recurso de apelación, durante la etapa de preparación de la elección, que se podrá interponer:
-
-I. Por los ciudadanos, para impugnar los actos de las oficinas del Registro de Electores, una vez que hayan agotado la instancia administrativa correspondiente, en los términos de la Ley y convenios respectivos;
-
-II. Por los partidos políticos, para impugnar las resoluciones recaídas a los recursos de revisión, por los actos o resoluciones del Consejo Estatal Electoral; y los dictámenes relativos a los informes que presenten los partidos políticos por gastos de campaña y financiamientos en general;
-
-C) Recurso de inconformidad, que los partidos políticos podrán interponer para impugnar:
-
-I. Por causales de nulidad establecidas en esta ley, la declaración de validez de la elección de Gobernador, y por consecuencia el otorgamiento de la constancia de mayoría y validez;
-
-II. Por las causales de nulidad establecidas en esta ley, la declaración de validez de la elección de Diputados por el principio de Mayoría Relativa y por consecuencia, el otorgamiento de la constancia de Mayoría y validez respectiva; así como la asignación de Diputados de Representación Proporcional y entrega de constancias;
-
-III. Por causales de nulidad establecidas en esta ley, la declaración de validez de la elección de Ayuntamientos y por consecuencia, el otorgamiento de las constancias de Mayoría y validez; así como las constancias de asignación de Regidores de Representación Proporcional; y
-
-IV. Por error aritmético, los cómputos municipales y en su caso estatal de la elección de Gobernador, de Diputados de Mayoría Relativa, de Ayuntamientos y los cómputos de circunscripción plurinominal;
-
-D) El Recurso de reconsideración, en los términos del párrafo tercero del Artículo 135 Constitucional, que sólo podrán interponer los partidos políticos en los casos previstos en el Artículo 273 de esta ley para impugnar:
-
-I. Las resoluciones de fondo de las salas recaídas a los recursos de inconformidad, cuando se esgriman agravios en virtud de los cuales se pueda dictar una resolución por la que se pueda modificar el resultado de la elección; y
-
-II. La asignación de Diputados por el principio de Representación Proporcional que realice el Consejo Estatal Electoral.
-
-Para hacer valer los recursos previstos en este capítulo por un partido político, será requisito indispensable que su representante acreditado haya estado presente en el acto electoral que se impugna, lo que se comprobará con la firma del propio representante en el acta o documento respectivo. Este requisito en el proceso electoral, da a los partidos políticos, prueba plena de su participación para hacerlo valer en las instancias respectivas.
-
-###### Artículo 247.
-
-El escrito de protesta por los resultados contenidos en el acta de la jornada electoral relativos al escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral y requisito de procedibilidad del recurso de inconformidad.
-
-No se requerirá la presentación del escrito de protesta cuando se impugne en los casos señalados en las fracciones II y III del Artículo 204, o se haga valer la causal de nulidad señalada por el Artículo 238 inciso B), ambos de esta ley, o cuando se impugnen por error aritmético las actas de cómputo municipal de la elección de Gobernador, de Diputados de Mayoría Relativa y de Ayuntamiento o de cómputo de circunscripción plurinominal.
-
-El escrito de protesta deberá contener:
-
-A) El partido político que lo presenta;
-
-B) La casilla ante el que se presenta;
-
-C) La elección que se protesta;
-
-D) La causa por la que se presenta la protesta;
-
-E) Cuando se presente ante el Consejo Municipal Electoral correspondiente, se deberá identificar, además individualmente cada una de las casillas que se impugnan cumpliendo con lo señalado en los incisos c) y d) anteriores; y
-
-F) El nombre, la firma y cargo partidario de quien lo presenta.
-
-El escrito de protesta deberá presentarse ante la casilla al término del escrutinio y cómputo o ante el Consejo Municipal Electoral correspondiente, antes de que se inicie la sesión prevista por esta ley.
-
-De la presentación del escrito de protesta, los funcionarios de la casilla electoral o del Consejo Municipal Electoral ante el que se presentaron, deberán acusar recibo o razonar de recibida una copia del respectivo escrito.
-
-###### Artículo 248.
-
-Durante el proceso electoral todos los días y horas son hábiles, los plazos se computarán de momento a momento; si están señalados por días, éstos se considerarán de 24 horas.
-
-El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiere notificado el acto o la resolución correspondiente.
-
-En ningún caso, la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados, si no hasta que se resuelvan en definitiva éstos por los órganos competentes.
-
-### CAPITULO IV. Del Presidente del Tribunal
-
-###### Artículo 249.
-
-Durante el tiempo que transcurre entre dos procesos electorales ordinarios, es competente para resolver el recurso de apelación, el Tribunal Electoral del Estado.
-
-###### Artículo 250.
-
-Durante el proceso electoral, son competentes para resolver:
-
-A) El recurso de revisión, el Consejo Estatal Electoral y el Tribunal respecto de las resoluciones que en este sentido se pronuncien;
-
-B) Los recursos de apelación e inconformidad, las Salas del Tribunal Electoral del Estado; y
-
-C) El recurso de reconsideración, el Pleno del Tribunal Electoral del Estado.
-
-###### Artículo 251.
-
-La interposición de los recursos de revisión, apelación e inconformidad corresponde a los partidos políticos a través de sus representantes legítimos. Las organizaciones o agrupaciones políticas podrán interponer el recurso de apelación a través de sus representantes legítimos sólo en los casos señalados en esta ley, respecto de la resolución que niegue el registro. Los ciudadanos podrán interponer el recurso de apelación en los casos previstos en este título.
-
-Para los efectos del párrafo anterior, son representantes legítimos de los partidos políticos:
-
-A) Los registrados formalmente ante los organismos electorales. En este caso, sólo podrán actuar ante el órgano en el cual estén acreditados;
-
-B) Los miembros de los comités nacionales, estatales, municipales o sus equivalentes. En este caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido; y
-
-C) Los que estén autorizados para representarlos mediante poder otorgado en escritura pública por los funcionarios del partido facultados estatutariamente para ello.
-
-La interposición del recurso de reconsideración, corresponde exclusivamente a los partidos políticos por conducto de:
-
-A) El representante que interpuso el recurso de inconformidad al que le recayó la resolución impugnada;
-
-B)Su representante ante el Consejo Estatal Electoral; y
-
-C) Su representante ante el Consejo Estatal Electoral, para impugnar la asignación de Diputados según el principio de Representación Proporcional.
-
-### CAPITULO V. De los Jueces Instructores
-
-###### Artículo 252.
-
-Los recursos de revisión y apelación deberán interponerse dentro de tres días contados a partir del día siguiente en que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
-
-El recurso de inconformidad deberá interponerse:
-
-a) Dentro de los cuatro días contados a partir del día siguiente de que concluya la práctica del cómputo estatal correspondiente, para objetar la declaración de validez de la elección de Gobernador y errores aritméticos en las actas de cómputo;
-
-b) Dentro de los cuatro días contados a partir del día siguiente de que concluya la práctica del cómputo distrital correspondiente, para impugnar la elección de Diputados de Mayoría Relativa y asignación de Diputados de Representación Proporcional, en los casos previstos en el inciso C) fracciones II y IV del Artículo 246 de esta ley;
-
-c) Dentro de los cuatro días contados a partir del día siguiente de que concluyan los cómputos municipales para impugnar la elección de Ayuntamientos y asignación de Regidores de Representación Proporcional en los casos previstos en el inciso C) fracciones III y IV del Artículo 246 de esta Ley; y
-
-d) Dentro de los cuatro días contados a partir del día siguiente de que concluyan los cómputos de circunscripción plurinominal, para solicitar la corrección de los resultados consignados en el acta respectiva, por haber mediado error aritmético en los mismos, en los términos del inciso C) fracción IV del Artículo 246 de esta ley.
-
-En todos los casos se deberán identificar las impugnaciones que se formulen a los resultados consignados en las actas de cómputos municipales y estatal, así como, individualmente, las votaciones de las casillas que se pretende sean anuladas de las elecciones de Diputados de Mayoría y Ayuntamientos y, en su caso, el Municipio o distrito al que pertenecen. Asimismo, deberá señalarse el error en el cómputo de circunscripción plurinominal.
-
-El recurso de apelación deberá interponerse por los ciudadanos, dentro de los tres días siguientes al en que se les notifique la determinación de la oficina del Registro de Electores respectiva.
-
-###### Artículo 253.
-
-El recurso de reconsideración deberá interponerse:
-
-a) Dentro de los tres días contados a partir del día siguiente al que se haya notificado la resolución de fondo impugnada de la Sala correspondiente del Tribunal Electoral; y
-
-b) Dentro de las cuarenta y ocho horas siguientes, contadas a partir de la conclusión de la sesión en la que el Consejo Estatal Electoral haya realizado la asignación de Diputados por el principio de Representación Proporcional.
-
-###### Artículo 254.
-
-Durante el tiempo que transcurre entre dos procesos electorales ordinarios, los recursos de revisión y apelación que sean interpuestos se regirán por las reglas que tienen establecidas para el proceso electoral.
-
-### CAPITULO VI. Del Secretario General de Acuerdos
-
-###### Artículo 255.
-
-Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa de esta ley.
-
-Los estrados son los lugares destinados en las oficinas de los organismos electorales y del Tribunal Electoral del Estado, para que sean colocadas para su notificación copias del escrito de interposición del recurso y de los autos y resoluciones que le recaigan.
-
-###### Artículo 256.
-
-Las notificaciones personales se harán al interesado a más tardar al día siguiente de que se dio el acto o se dictó la resolución. Se entenderán personales, sólo aquellas notificaciones que con este carácter establezca la presente ley.
-
-Las cédulas de notificación personal deberán contener: la descripción del acto o resolución que se notifica, lugar, hora y fecha en que se hace y el nombre de la persona con quien se entiende la diligencia, se hará constar esta circunstancia en la cédula y se entregará ante la presencia de dos testigos o notario público.
-
-###### Artículo 257.
-
-El partido político cuyo representante haya estado presente en la sesión del organismo electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
-
-###### Artículo 258.
-
-Las resoluciones que recaigan a los recursos de revisión serán notificadas de la siguiente manera:
-
-a) Los partidos políticos que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado o por estrados.
-
-b) Al organismo electoral, cuyo acto o resolución fue impugnado, se les hará por correo certificado o personalmente. Con la notificación se anexará copia de la nueva resolución; y
-
-c) A los terceros interesados, por correo certificado.
-
-###### Artículo 259.
-
-Las resoluciones de las Salas del Tribunal Electoral del Estado, recaídas a los recursos de apelación, serán notificadas a los Consejos de los organismos electorales que correspondan, así como a quien haya interpuesto el recurso, y en su caso a los terceros interesados, por correo certificado o por telegrama o personalmente, a más tardar el día siguiente de que se pronuncien.
-
-A los organismos electorales cuyo acto o resolución fue impugnado, junto con la notificación le será enviada copia de la resolución.
-
-###### Artículo 260.
-
-Las resoluciones de los Magistrados del Tribunal Electoral del Estado recaídas a los recursos de inconformidad, serán notificadas:
-
-a) Al partido político que interpuso el recurso y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio ubicado en la ciudad sede del Tribunal, o por estrados, en caso contrario o en el supuesto de que no se señale domicilio alguno. La notificación se hará a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución;
-
-b) Al Consejo Estatal Electoral la notificación se hará por oficio, acompañado de copia certificada del expediente y de la resolución, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dictó la resolución; y
-
-Las resoluciones del Pleno del Tribunal Electoral del Estado recaídas a los recursos de reconsideración, serán notificadas:
-
-a) Al partido político que interpuso el recurso y a los terceros interesados, personalmente, siempre y cuando hayan señalado domicilio ubicado en Tepic, o por estrados, en caso contrario o en el supuesto de que no se señale domicilio alguno. La notificación se hará a más tardar dentro de los dos días siguientes al en que se dictó la resolución; y
-
-b) Al Consejo Estatal Electoral, a más tardar al día siguiente al en que se dictó la resolución.
-
-El Tribunal Electoral del Estado podrá notificar sus resoluciones a cualquier hora, de conformidad con lo previsto en el Artículo 248 de esta ley.
-
-###### Artículo 261.
-
-No se requerirán de notificación personal y surtirá sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial del Estado, o algún diario de circulación estatal, o mediante la fijación de cédulas en los estrados de los organismos electorales y del Tribunal Electoral o en lugares públicos, en los términos de esta ley.
-
-### CAPITULO VIII. De la Improcedencia y del Sobreseimiento
-
-### CAPITULO I. De los Casos de Nulidad
-
-###### Artículo 262.
-
-Serán partes en el procedimiento para tramitar un recurso:
-
-a) El actor, que será quien estando legitimado en los términos de la presente ley lo interponga;
-
-b) La autoridad, que será el organismo electoral que realice el acto o dicte la resolución que se impugna; y
-
-c) El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
-
-Los candidatos podrán participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
-
-a) Presentarán escrito en el que manifiesten lo que a su derecho convenga, pero no se tomarán en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el recurso o en el escrito que como tercero interesado haya presentado su partido;
-
-b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los recursos o, en su caso, para la presentación de los escritos de los terceros interesados;
-
-c) Los escritos deberán ir acompañados del documento en el que conste el registro como candidato del partido político respectivo;
-
-d) Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionados con los hechos y agravios invocados en el recurso interpuesto o en el escrito presentado por su partido político; y
-
-e) Los escritos deberán estar firmados autógrafamente.
-
-### CAPITULO IX. De la Acumulación
-
-### CAPITULO II. De los Efectos de la Declaración de Nulidad
-
-###### Artículo 263.
-
-El organismo electoral que corresponda y el Tribunal Electoral del Estado, podrán desechar de plano aquellos recursos que consideren evidentemente frívolos o cuya notoria improcedencia se derive de las disposiciones de esta ley.
-
-En todo caso, los recursos se entenderán como notoriamente improcedentes, y deberán ser desechados de plano, cuando:
-
-a) No se interpongan por escrito ante el organismo o autoridad que realizó el acto, dictó la resolución o realizó el cómputo que se impugna;
-
-b) No estén firmados autógrafamente por quien los promueva;
-
-c) Sean interpuestos por quien no tenga legitimación o interés jurídico en los términos de esta ley;
-
-d) Sean presentados fuera de los plazos que señala esta ley;
-
-e) No se aporten pruebas en los plazos establecidos en esta ley, salvo que se señalen las razones justificadas por las que no obren en poder del promovente. No se requerirán de pruebas cuando el recurso verse en forma exclusiva sobre puntos de derecho;
-
-f) No se hayan presentado en tiempo los escritos de protesta o no reúnan los requisitos que señala esta ley para que proceda el recurso de inconformidad;
-
-g) No se señalen agravios o los que se expongan manifiestamente no tengan relación directa con el acto, resolución o resultado de la elección que se pretende combatir;
-
-h) Se impugne más de una elección con un mismo recurso; e
-
-i) En el recurso de reconsideración, no se hayan agotado previamente en tiempo y forma las instancias de impugnación señaladas en esta ley, los agravios no estén debidamente fundados, no resulten determinantes, o no se modifique el resultado de la elección al no actualizarse los presupuestos señalados en el Artículo 273 de esta ley.
-
-###### Artículo 264.
-
-Procede el sobreseimiento de los recursos:
-
-a) Cuando el promovente desista expresamente;
-
-b) Cuando durante el procedimiento de un recurso de apelación, el ciudadano recurrente fallezca o sea suspendido o privado de sus derechos políticos;
-
-c) Cuando la autoridad electoral modifique o revoque el acto o la resolución impugnado de tal manera que quede sin materia el recurso;
-
-d) Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia en los términos del Artículo 263 de esta ley.
-
-### CAPITULO X. Reglas de Procedimiento para los Recursos
-
-### CAPITULO III. Del Sistema de Medios de Impugnación
-
-###### Artículo 265.
-
-Podrán acumularse los expedientes de aquellos recursos de revisión o apelación en que se impugne simultáneamente por dos o más partidos políticos el mismo acto o resolución.
-
-Las Salas del Tribunal Electoral del Estado podrán acumular los expedientes de recursos de inconformidad que a su juicio lo ameriten.
-
-El Pleno del Tribunal Electoral del Estado deberá acumular los recursos de reconsideración que a su juicio lo ameriten.
-
-### CAPITULO XI. De las Pruebas
-
-### CAPITULO IV. De la Competencia, de la Legitimación y de la Personería
-
-###### Artículo 266.
-
-Para la interposición de los recursos se cumplirá con los requisitos siguientes:
-
-a) Deberán presentarse por escrito ante el organismo electoral o la Sala del Tribunal Electoral que realizó el acto o dictó la resolución;
-
-b) Se hará constar el nombre del actor y domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirla se practicarán por estrados;
-
-c) En caso de que el promovente no tenga acreditada la personalidad en el organismo electoral ante el que actúa, acompañará los documentos con los que la acredita;
-
-d) Mencionar de manera expresa el acto o resolución impugnados y el organismo electoral o los Magistrados del Tribunal Electoral del Estado que sean responsables;
-
-e) Mencionar de manera expresa y clara los agravios que cause el acto o resolución impugnado, los preceptos presuntamente violados y los hechos en que se basa la impugnación;
-
-f) Ofrecer las pruebas que junto con el escrito se aporten, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
-
-g) Hacer constar el nombre y la firma autógrafa del promovente.
-
-En el caso del recurso de inconformidad, además de los requisitos señalados en el párrafo anterior, deberán cumplirse los siguientes:
-
-a) La elección que se impugna, señalando expresamente si se objeta el cómputo, la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas. En ningún caso se podrá impugnar mas de una elección con un mismo recurso;
-
-b) La mención individualizada del acta de cómputo municipal, estatal o de cómputo de circunscripción plurinominal que se impugna;
-
-c) La mención individualizada de las casillas cuya votación se solicite que se anule en cada caso y la causal que se invoca para cada uno de ellos; y
-
-d) La relación, en su caso, que guarde el recurso con otras impugnaciones.
-
-En el recurso de reconsideración, además de los requisitos señalados, en los incisos a) al e) y g) del párrafo primero de este artículo, se deberá señalar claramente el presupuesto y los razonamientos por los que se aduzca que la resolución puede modificar el resultado de la elección. En el caso del recurso de reconsideración, se entenderá que se modifica el resultado de una elección cuando la resolución que se dicte por el Pleno pueda tener por efecto:
-
-a) Anular la elección;
-
-b) Revocar la anulación de la elección;
-
-c) Otorgar el triunfo a un candidato o fórmula distintos; o
-
-d) Corregir la asignación de Diputados según el principio de Representación Proporcional realizada por el Consejo Estatal Electoral.
-
-En los recursos de revisión, apelación e inconformidad:
-
-a) Cuando se omita alguno de los requisitos señalados en los incisos c) al e) del párrafo primero y en los incisos a) al c) del párrafo segundo, ambos de este artículo, el Secretario del organismo electoral o el Juez Instructor del Tribunal, requerirá por estrados al promovente para que lo cumpla en el plazo de cuarenta y ocho horas contadas a partir de la en que se fije en los estrados el requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso, a excepción hecha del supuesto señalado en el párrafo quinto de este artículo;
-
-b) Cuando se omita el requisito señalado en el inciso f) del párrafo primero de este artículo, se aplicará la regla del inciso anterior, salvo cuando no habiéndose ofrecido ni aportado prueba alguna, se esté en el caso de que el recurso verse sobre puntos de derecho;
-
-c) Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, el organismo electoral o el Tribunal Electoral podrán resolver el recurso tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto; y
-
-d) Cuando exista deficiencia en la argumentación de los agravios pero que éstos pueden ser deducidos claramente de los hechos expuestos en el recurso, el Tribunal Electoral no lo desechará y resolverá con los elementos que obren en el expediente.
-
-En el recurso de reconsideración no se aplicarán las reglas establecidas en el párrafo anterior, ni se admitirá prueba alguna que no obre en el expediente respectivo.
-
-###### Artículo 267.
-
-Los recursos de revisión, de apelación y el de inconformidad se interpondrán ante el organismo electoral que realizó el acto o dictó la resolución, dentro de los plazos señalados por esta ley.
-
-Los recursos de reconsideración se interpondrán dentro de los plazos señalados por esta ley, ante el Tribunal Estatal Electoral del Estado o ante el Consejo Estatal Electoral cuando se impugne la asignación de Diputados por el principio de Representación Proporcional.
-
-En los casos señalados por esta ley para la negativa de registro de los partidos políticos o referente al informe de los recursos económicos aplicados en campañas, el recurso de apelación se interpondrá ante el Consejo Estatal Electoral y se sujetará para su tramitación, sustanciación y resolución a las normas establecidas en esta título . El Secretario del Consejo integrará los datos o documentos necesarios para rendir el informe circunstanciado o para remitirlos al Tribunal Electoral del Estado.
-
-En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnadas.
-
-###### Artículo 268.
-
-El organismo electoral que reciba un recurso de revisión, apelación o de inconformidad, lo hará de inmediato del conocimiento público mediante cédula que fijará en los estrados.
-
-Dentro de las cuarenta y ocho horas siguientes a la de su fijación, los representantes de los partidos políticos terceros interesados podrán presentar los escritos que consideren pertinentes.
-
-Los escritos a que se refiere el párrafo anterior deberán cumplir los requisitos siguientes:
-
-a) Hacer constar el nombre del partido político tercero interesado y el domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibirlas, se practicará por estrados;
-
-b) Exhibir los documentos que acrediten la personería del promovente, cuando no la tenga reconocida ante el organismo electoral responsable;
-
-c) Precisar la razón del interés jurídico en que se fundan y las pretensiones concretas del promovente;
-
-d) Ofrecer las pruebas que junto con el escrito se aportan y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
-
-e) Hacer constar el nombre y la firma autógrafa del promovente.
-
-En el caso del recurso de reconsideración, una vez recibido éste por la Sala cuya resolución hubiese sido impugnada o por el Consejo Estatal Electoral, se hará del conocimiento público mediante cédula que se fijará en los estrados. Los partidos políticos terceros interesados únicamente podrán formular por escrito los alegatos que consideren pertinentes dentro de las cuarenta y ocho horas siguientes, contadas a partir de la fijación de la cédula. La Sala del Tribunal Electoral o el Consejo Electoral, en el caso de que se presenten, los turnarán de inmediato al Pleno y darán cuenta por la vía mas rápida de la conclusión de dicho término.
-
-###### Artículo 269.
-
-Una vez cumplido el plazo a que se refiere el párrafo segundo del artículo anterior, el organismo electoral que reciba un recurso de revisión, apelación o de inconformidad, deberá hacer llegar al órgano competente o al Tribunal Electoral, dentro de las cuarenta y ocho horas siguientes:
-
-a) El escrito mediante el cual se interpone;
-
-b) La copia del documento en que conste el acto o resolución impugnados o, si es el caso, copias certificadas de las actas correspondientes del expediente relativo al cómputo municipal o estatal o de circunscripción plurinominal de la elección impugnada;
-
-c) Las pruebas aportadas;
-
-d) Los demás escritos de los terceros interesados y de los coadyuvantes;
-
-e) Un informe circunstanciado sobre el acto o resolución impugnado;
-
-f) En el caso de recurso de inconformidad, los escritos de protesta que obren en su poder; y
-
-g) Los demás elementos que se estimen necesarios para la resolución.
-
-El informe circunstanciado a que se refiere el inciso e) del párrafo anterior, será rendido por el Secretario del Consejo correspondiente y deberá expresar:
-
-a) Si el promovente del recurso o del escrito del tercero interesado, tienen reconocida su personería; y
-
-b) Los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado.
-
-En el caso del recurso de reconsideración, la Sala del Tribunal o el Consejo Estatal Electoral, cuya resolución haya sido impugnada, independientemente del término a que se refiere el párrafo cuarto del artículo anterior, remitirá de inmediato al Pleno, el escrito del recurso, sus anexos y el expediente completo en que se haya dictado la resolución respectiva.
-
-###### Artículo 270.
-
-Recibido un recurso de revisión por el Consejo Electoral competente, el Presidente lo turnará al Secretario para que certifique que se cumplió con lo establecido en los Artículos 252 y 266 párrafo primero de esta ley. En todo caso, se procederá conforme a lo establecido en el párrafo cuarto del mismo Artículo 266.
-
-Si el recurso debe desecharse por notoriamente improcedente, o en su caso, si se ha cumplido con todos lo requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será sometido al Consejo en la primera sesión que celebre después de su recepción. En dicha sesión deberá dictarse la resolución, misma que será engrosada por el Secretario en los términos en que determine el propio Consejo.
-
-Si el organismo electoral remitente omitió algún requisito, el Secretario lo hará de inmediato del conocimiento de su Presidente para que éste requiera la complementación de el o los requisitos omitidos, procurando que se resuelva en el término del párrafo anterior. En todo caso, deberá resolverse con los elementos con que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
-
-###### Artículo 271.
-
-Recibido un recurso de apelación por el Tribunal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. El recurso de apelación será sustanciado por un Juez Instructor quien integrará el expediente, el cual será turnado por el Presidente al Magistrado que corresponda para que presente el proyecto de resolución en la sesión pública.
-
-###### Artículo 272.
-
-Una vez recibido el recurso de inconformidad por el Tribunal Electoral, será turnado de inmediato a un Juez Instructor, quien tendrá la obligación de revisar que reúna todos los requisitos señalados en el presente título y cumplir con lo dispuesto, en su caso, en el párrafo cuarto del Artículo 266 de esta ley.
-
-En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o el vencimiento del plazo.
-
-Si de la revisión que realice el Juez Instructor encuentra que el recurso encuadra en alguna de las causales de improcedencia a que se refiere el Artículo 263 de esta ley, o es evidentemente frívolo, someterá desde luego a la consideración del Magistrado, el acuerdo para su desechamiento de plano. En los casos de recursos evidentemente frívolos, el Tribunal Electoral del Estado podrá imponer una multa al partido político promovente, en los términos del inciso A) del párrafo primero del Artículo 293 de esta ley. El Pleno del Tribunal comunicará de inmediato a la Sala que corresponda aquellos casos en que, a su juicio, un partido político haya presentado un recurso frívolo.
-
-Si el recurso reúne todos los requisitos, el Juez Instructor dictará el auto de admisión correspondiente, ordenado se fije copia del mismo en los estrados del Tribunal Electoral del Estado.
-
-El juez Instructor realizará todos los actos y diligencias necesarias para la sustanciación de los expedientes de los recursos de inconformidad de manera que los ponga en estado de resolución.
-
-Sustanciado el expediente del recurso de inconformidad por el Juez Instructor, será turnado por el Presidente del Tribunal Electoral, a la Sala que corresponda, para que dicte la resolución que en derecho corresponda.
-
-###### Artículo 273.
-
-Una vez recibido el recurso de reconsideración por el Tribunal Electoral, será turnado al Secretario General de Acuerdos, a efecto de que revise si se acreditan los presupuestos, si se cumplió con los requisitos de procedibilidad y si los agravios pueden traer como consecuencia que se modifique el resultado de la elección respectiva. De no cumplir con cualesquiera de ellos, el recurso será desechado de plano por el Pleno. De lo contrario, el Secretario General de Acuerdos procederá a formular el proyecto de resolución que se someterá a la consideración del Pleno en la sesión pública que corresponda.
-
-Para los recursos de reconsideración, son presupuestos los siguientes:
-
-a) Que la resolución de las Salas del Tribunal Electoral:
-
-I. Haya dejado de tomar en cuenta causales de nulidad previstas por esta ley, que hubieren sido invocadas y debidamente probadas en tiempo y forma, por las cuales se hubiera podido modificar el resultado de la elección;
-
-II. Haya declarado se otorgue indebidamente la constancia de Mayoría y validez a una fórmula o lista de candidatos distinta a la que originalmente se le otorgó; o
-
-III. Haya anulado indebidamente una elección.
-
-b) Que el Consejo Estatal o Municipal Electoral, hayan asignado Diputados o Regidores por el principio de Representación Proporcional, sin tomar en cuenta las resoluciones que, en su caso, hubiere dictado cualquiera de las Salas del Tribunal Electoral del Estado; o lo hayan hecho contraviniendo las fórmulas establecidas para ello en la Constitución Política del Estado y en esta ley.
-
-###### Artículo 274.
-
-En la sesión de resolución, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
-
-a) El Secretario General de Acuerdos presentará el caso y el sentido de la resolución, señalando las consideraciones jurídicas y los preceptos legales en que se funda;
-
-b) Los Magistrados podrán discutir el proyecto en turno;
-
-c) Cuando el Presidente del Tribunal lo considere suficientemente discutido, lo someterá a votación; y
-
-d) Los Magistrados podrán presentar su voto particular por escrito, el cual se agregará al expediente.
-
-En casos extraordinarios el Pleno podrá diferir la resolución de un asunto listado.
-
-###### Artículo 275.
-
-El Presidente del Tribunal Electoral del Estado, tendrá obligación de ordenar que se fijen en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión.
-
-El Pleno del Tribunal y las Salas determinarán la hora y días de sus sesiones públicas.
-
-###### Artículo 276.
-
-El Presidente del Tribunal, a petición del Juez Instructor que corresponda, podrá requerir a los diversos organismos electorales, o a las autoridades municipales y estatales en su caso, a través de ésta, solicitar a las federales cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en esta ley.
-
-Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
-
-En casos extraordinarios, el Presidente del Tribunal podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en esta ley.
-
-Para hacer cumplir sus determinaciones, mantener el buen orden y exigir que se le guarde el respeto y la consideración debidos, el Tribunal Electoral del Estado podrá hacer uso discrecionalmente de los medios de apremio y correcciones disciplinarias siguientes:
-
-a) Apercibimiento;
-
-b) Amonestación;
-
-c) Multa hasta por doscientas veces el salario mínimo diario general para el Estado de Nayarit; y
-
-d) Auxilio de la fuerza pública.
-
-Los medios de apremio serán aplicados por el Presidente del Tribunal Electoral del Estado y para hacerlas efectivas podrá auxiliarse de los órganos del Ejecutivo del Estado o municipales que correspondan.
-
-### CAPITULO XII. De las Resoluciones
-
-### CAPITULO V. De los Plazos y de los Términos
-
-###### Artículo 277.
-
-En materia contencioso electoral solo podrán ser admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran de perfeccionamiento, presuncionales e instrumental de actuaciones.
-
-Para los efectos de esta ley serán documentales públicas:
-
-a) Las actas oficiales de las casillas, así como las de los cómputos municipales o estatales y de circunscripción plurinominal. Serán actas oficiales las originales autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
-
-b) Los demás documentos originales expedidos por los organismos electorales o funcionarios electorales, dentro del ámbito de su competencia;
-
-c) Los documentos expedidos por las demás autoridades federales, estatales y municipales, dentro del ámbito de sus facultades; y
-
-d) Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, y siempre y cuando en ellos se consignen hechos que les consten.
-
-Serán documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y en relación a los hechos y a sus pretensiones.
-
-Se considerarán pruebas técnicas todos aquellos medios de producción de imágenes y que tienen por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificado a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
-
-Se entiende por prueba presuncional, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en acta formulada por el fedatario público que las haya recibido directamente de los declarantes, en el acto electoral que hubiere presenciado y siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho.
-
-###### Artículo 278.
-
-Los medios de prueba aportados y admitidos serán valorados por los organismos electorales y por los Magistrados del Tribunal Electoral del Estado, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
-
-Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o la veracidad de los hechos a que se refieran.
-
-Las documentales privadas, las técnicas, las presuncionales y la instrumental de actuaciones, solo merecerán valor probatorio cuando a juicio de los organismos electorales o de los Magistrados del Tribunal Electoral del Estado, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre si, generen convicción sobre la veracidad de los hechos afirmados.
-
-###### Artículo 279.
-
-El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos las pruebas que obren en su poder.
-
-Ninguna prueba aportada fuera de estos plazos será tomada en cuenta al resolver.
-
-###### Artículo 280.
-
-Son objeto de la prueba los hechos controvertibles. No lo será el derecho, los hechos notorios o imposibles, ni aquellos hechos que hayan sido reconocidos.
-
-El que afirma está obligado a probar. También lo está el que niega, cuando su negativa envuelve la afirmación expresa de un hecho.
-
-### CAPITULO XIII. De las Faltas Administrativas y de las Sanciones
-
-### CAPITULO VI. De las Notificaciones
-
-###### Artículo 281.
-
-Los recursos de revisión deberán ser resueltos en sesión pública por mayoría simple de los miembros presentes de los Consejos Electorales competentes, en la primera sesión que celebren después de su presentación, salvo el caso señalado en el artículo siguiente. Estos recursos deberán ser resueltos en un plazo no mayor a ocho días contados a partir de que fueron presentados.
-
-Los recursos de apelación serán resueltos por las Salas del Tribunal Electoral, dentro de los seis días siguientes a aquél en que se admitan.
-
-Los recursos de inconformidad serán resueltos por la Sala del Tribunal Electoral, en el orden en que sean listados para cada sesión, salvo que este acuerde su modificación. Todos los recursos deberán quedar resueltos a más tardar el día 1º de septiembre del año del proceso electoral, pero los que se refieran a las elecciones de Diputados, deberán ser resueltos a más tardar el día 5 de agosto.
-
-Los recursos de reconsideración serán resueltos por el Pleno del Tribunal Electoral, en el orden en el que sean listados para cada sesión, salvo que el Presidente acuerde su modificación. Los recursos de reconsideración que se refieran a elecciones de Diputados por el principio de Mayoría Relativa o por lo que se impugne el cómputo de circunscripción plurinominal deberán ser resueltos a más tardar el día 10 de agosto del mismo año; los demás recursos deberán ser resueltos a más tardar el día 10 de septiembre.
-
-En la sesión en que se discuta y vote una resolución que recaiga a los recursos de reconsideración, el Pleno se integrará, por lo menos, con tres Magistrados, entre los que deberá estar el Presidente. Las resoluciones se tomarán por mayoría de votos de los presentes y, en caso de empate, de prevalecer éste en la segunda ronda de votación, el Presidente tendrá voto de calidad. El Magistrado cuya resolución impugnada se esté discutiendo, solo asistirá al Pleno con voz informativa.
-
-###### Artículo 282.
-
-Todos los recursos de revisión y apelación interpuestos dentro de los cinco días anteriores a la elección, serán enviados al Tribunal Electoral del Estado, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El recurrente deberá señalar la conexidad de la causa en el recurso de inconformidad.
-
-Cuando los recursos a que se refiere el párrafo anterior no guarden relación con uno de inconformidad, serán archivados como asuntos definitivamente concluidos.
-
-###### Artículo 283.
-
-Toda resolución deberá constar por escrito, y contendrá:
-
-a) La fecha, lugar y organismo electoral o Sala del Tribunal que la dicta;
-
-b) El resumen de los hechos o puntos de derecho controvertidos;
-
-c) El análisis de los agravios señalados;
-
-d) El examen y la valoración de las pruebas ofrecidas, aportadas y admitidas; y en su caso, las ordenadas por las Salas del Tribunal Electoral del Estado;
-
-e) Los fundamentos legales de la resolución;
-
-f) Los puntos resolutivos; y
-
-g) En su caso, el plazo para su cumplimiento.
-
-###### Artículo 284.
-
-Las resoluciones que recaigan a los recursos de revisión y apelación tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
-
-Las resoluciones que recaigan a los recursos de apelación serán definitivas e inatacables.
-
-###### Artículo 285.
-
-Las resoluciones de fondo de las Salas del Tribunal Electoral del Estado que recaigan a los recursos de inconformidad podrán tener los siguientes efectos:
-
-a) Confirmar el acto impugnado;
-
-b) Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en el Artículo 238 de esta ley y modificar, en consecuencia, el acta de cómputo municipal respectiva para la elección de Ayuntamiento ; y en su caso, el o las actas de cómputo municipal y el acta de cómputo distrital para la elección de Diputados de Mayoría Relativa;
-
-c) Revocar la constancia de Mayoría expedida en favor de una fórmula o candidato a Diputado por el Consejo Estatal Electoral, o la expedida en favor de la planilla o candidato para integrar un Ayuntamiento por el Consejo Municipal Electoral; otorgarla al candidato o a la formula o planilla de candidatos que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas; en uno o, en su caso, varios Municipios o distritos y modificar, en consecuencia, las actas de computo municipal o distrital respectivas;
-
-d) Declarar la nulidad de la elección y revocar las constancias expedidas por los Consejos Estatal o Municipales Electorales, cuando se den los supuestos de nulidad previstos en los Artículos 239, 240 y 242 de esta ley;
-
-e) Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador cuando se den los supuestos de nulidad previstos en el Artículo 238 de esta ley y modificar, en consecuencia, el acta de cómputo municipal respectiva; y
-
-f) Hacer la corrección de los cómputos municipales o estatales de la elección de Gobernador, de los cómputos municipales o distritales de Diputados de Mayoría Relativa, de los cómputos municipales de Ayuntamientos, y de los cómputos de Representación Proporcional para Diputados o Regidores, cuando sean impugnados por error aritmético.
-
-En los supuestos a que se refieren los incisos b), c) y d) del párrafo anterior, las Salas del Tribunal Electoral del Estado podrán modificar el acta o las actas de cómputo respectivas, en la sección de ejecución que para tal efecto abran al resolver el último de los recursos que se hubiere interpuesto en contra de la misma elección, en el Municipio o distrito.
-
-Cuando en la sección de ejecución, por efecto de la acumulación de las resoluciones de los distintos recursos, se actualicen los supuestos de nulidad previstos en los Artículos 240 o 242 de esta ley, los Magistrados competentes del Tribunal Electoral, decretarán lo conducente, aún cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
-
-Las resoluciones que recaigan a los recursos de inconformidad que no sean impugnadas en tiempo y forma, serán definitivas e inatacables.
-
-###### Artículo 286.
-
-Las resoluciones de fondo del Pleno del Tribunal Electoral del Estado que recaigan a los recursos de reconsideración podrán tener los siguientes efectos:
-
-a) Confirmar el acto o resolución impugnado;
-
-b) Modificar o revocar la resolución impugnada en los términos de los incisos b) al g) del párrafo primero del artículo anterior, cuando se dé uno de los presupuestos previstos en el inciso a) del párrafo segundo del Artículo 273 de esta ley; y
-
-c) Modificar la asignación de Diputados y Regidores electos por el principio de Representación Proporcional que realicen el Consejo Estatal o Municipal Electoral correspondiente, de conformidad con los presupuestos previstos en el inciso B) del párrafo segundo del Artículo 273 de esta ley.
-
-Las resoluciones que recaigan a los recursos de reconsideración serán definitivas e inatacables.
-
-###### Artículo 287.
-
-Las Salas del Tribunal Electoral del Estado solo podrán declarar la nulidad de la votación en una o varias casillas de una elección de Diputados o Ayuntamiento por Mayoría o la del cómputo de circunscripción plurinominal relativa con fundamento en las causales señaladas en esta ley.
-
-###### Artículo 288.
-
-Los criterios fijados por las Salas o el Pleno del Tribunal Electoral, sentarán tesis en los siguientes casos:
-
-a) Cuando se sustenten en el mismo sentido en tres resoluciones; y
-
-b) Cuando se resuelva por el Pleno en contradicción de criterios sustentados por los Magistrados del Tribunal Electoral.
-
-La contradicción de criterios podrá ser planteada por un Magistrado o por las partes.
-
-Recibida por el Pleno del Tribunal Electoral la solicitud a que se refiere el párrafo anterior, el Presidente turnará el asunto al otro Magistrado para que formule el proyecto de resolución sobre la contradicción de criterios, mismo que será presentado a discusión en sesión pública en la que se seguirán las reglas señaladas en el Artículo 274 de esta ley.
-
-La contradicción de criterios podrá plantarse en cualquier momento y el que prevalezca será obligatorio a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad.
-
-El presidente del Tribunal Electoral del Estado notificará a los Magistrados de inmediato de los criterios definidos a que se refieren los incisos a) y b) del párrafo primero de este artículo y los mandará publicar por estrados. Los Magistrados estarán obligados a aplicarlas a partir del momento de su notificación.
-
-Los criterios fijados por el Pleno del Tribunal Electoral dejarán de tener carácter obligatorio, siempre que se pronuncie otro en contrario por unanimidad de los integrantes del Pleno del Tribunal. En la resolución que modifique un criterio obligatorio se expresarán las razones en que se funde el cambio. El nuevo criterio será obligatorio si se da cualquiera de los supuestos señalados en los incisos a) y b) del párrafo primero de este artículo.
-
-El Tribunal Electoral hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión del proceso electoral. El Presidente enviará al Congreso del Estado, las tesis y criterios que se hubiesen adoptado, con recomendación de sus alcances.
-
-### CAPITULO VII. De las Partes
-
-###### Artículo 289.
-
-El Consejo Estatal Electoral conocerá de las infracciones que cometan los ciudadanos a lo previsto en el Artículo 11 de esta ley. La sanción consistirá en multa de cincuenta a doscientas veces el salario mínimo diario general vigente para el Estado de Nayarit. Será determinada y en su caso aplicada por el Tribunal Electoral del Estado conforme al procedimiento señalado en el Artículo 294 de esta ley.
-
-El Consejo Estatal Electoral conocerá de las infracciones que se cometan a los Artículos 178, 276 y relativos de esta ley, en los casos en que las autoridades no proporcionen en tiempo y forma, la información que les sea solicitada por los organismos electorales o por el Tribunal Electoral del Estado.
-
-Igualmente el Consejo Estatal Electoral conocerá de las infracciones y violaciones que a las disposiciones de esta ley cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser, amonestación, suspensión, destitución del cargo o multa hasta de cien días de salario mínimo.
-
-Conocida la infracción, el Consejo Estatal Electoral integrará un expediente, que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley.
+Conocida la infracción, el Consejo Estatal Electoral integrará un expediente, que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de Ley.
 
 El superior jerárquico a que se refiere el párrafo anterior deberá comunicar al Consejo Estatal Electoral las medidas que haya adoptado en el caso.
 
-###### Artículo 290.
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-El Consejo Estatal Electoral conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que la presente ley les impone.
+###### Artículo 219.
+
+El Consejo Estatal Electoral conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que la presente Ley les impone.
 
 Conocida la infracción por el Consejo Estatal Electoral integrará un expediente, que remitirá al Consejo del Colegio de Notarios o autoridad competente, para que proceda en los términos de la legislación aplicable.
 
 El Consejo del Colegio de Notarios o la autoridad competente deberá comunicar al Consejo Estatal Electoral las medidas que haya adoptado en el caso.
 
-###### Artículo 291.
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 220.
 
 El Consejo Estatal Electoral conocerá de las infracciones en que incurran los extranjeros que por cualquier forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos.
 
-En el caso de que los mismos se encuentren en el territorio del Estado de Nayarit, procederá a informar de inmediato a las autoridades migratorias para los efectos previstos por la ley.
+En el caso de que los mismos se encuentren en el territorio del Estado de Nayarit, procederá a informar de inmediato a las autoridades migratorias para los efectos previstos por la Ley.
 
 En el caso de que los mismos se encuentren fuera del Estado pero dentro del territorio nacional procederá a informar a la Secretaría de Gobernación o de Relaciones Exteriores para los efectos a que hubiere lugar.
 
-###### Artículo 292.
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-El Consejo Estatal Electoral informará a la Secretaria de Gobernación del Gobierno Federal, de aquellos casos en que los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta:
+###### Artículo 221.
+
+El Consejo Estatal Electoral informará a la Secretaría de Gobernación del Gobierno Federal, de aquellos casos en que los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta:
 
 a) Induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la Ley; o
 
 b) Realicen aportaciones económicas a un partido político o candidato.
 
-###### Artículo 293.
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-Los partidos políticos, en forma independiente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
+###### Artículo 222.
+
+Los partidos políticos, en forma independiente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados.
 
 a) Con multa de cincuenta a cinco mil veces el salario mínimo general para el Estado de Nayarit;
 
@@ -3519,23 +2833,25 @@ a) Incumplan con las obligaciones señaladas para ello en esta Ley;
 
 b) Incumplan con las resoluciones o acuerdos del Consejo Electoral o del Tribunal Electoral del Estado;
 
-c) Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades en contravención a lo dispuesto por el capítulo de financiamiento previsto por esta ley;
+c) Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades en contravención a lo dispuesto por el capítulo de financiamiento previsto por esta Ley;
 
-d) Acepten donativos o aportaciones económicas superiores a los límites señalados en el capítulo de financiamiento para los partidos políticos, previstos por esta ley;
+d) Acepten donativos o aportaciones económicas superiores a los límites señalados en el capítulo de financiamiento para los partidos políticos, previstos por esta Ley;
 
-e) No presenten los informes anuales o de campaña en los términos y plazos previstos en el capítulo de financiamiento de los partidos políticos de esta ley;
+e) No presenten los informes anuales o de campaña en los términos y plazos previstos en el capítulo de financiamiento de los partidos políticos de esta Ley;
 
 f) Sobrepasen durante una campaña electoral los topes a los gastos señalados por esta Ley; y
 
-g) Incurran en cualquier otra falta de las previstas por esta ley.
+g) Incurran en cualquier otra falta de las previstas por esta Ley.
 
-Cuando la pérdida de registro obedezca a alguna de las causales previstas en el capítulo relativo a la pérdida de registro, se estará a lo dispuesto por las normas correspondientes de esta ley.
+Cuando la pérdida de registro obedezca a alguna de las causales previstas en el capítulo relativo a la pérdida de registro, se estará a lo dispuesto por las normas correspondientes de esta Ley.
 
-###### Artículo 294.
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 223.
 
 Para los efectos del artículo anterior, el Consejo Estatal Electoral comunicará al Tribunal Electoral del Estado las irregularidades en que haya incurrido un partido político.
 
-Recibida la comunicación a que se refiere el párrafo anterior el Tribunal Electoral emplazará al partido político para que en el plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes. Sólo se recibirán las pruebas autorizadas por el Artículo 277 de esta ley y, a juicio del Tribunal, la pericial contable; si el Tribunal pidiere la pericial, ésta será con cargo al partido político.
+Recibida la comunicación a que se refiere el párrafo anterior el Tribunal Electoral emplazará al partido político para que en el plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes. Sólo se recibirán las pruebas autorizadas por la ley y, a juicio del Tribunal, la pericial contable; si el Tribunal pidiere la pericial, ésta será con cargo al partido político.
 
 En todos los casos en que se solicite la intervención del Tribunal Electoral, el Consejo Estatal Electoral deberá remitir la información y documentación que obre en su poder.
 
@@ -3547,11 +2863,387 @@ Las resoluciones del Tribunal Electoral serán definitivas e inatacables.
 
 Las multas que fije el Tribunal Electoral deberán ser pagadas en la Secretaría de Finanzas del Gobierno del Estado en un plazo improrrogable de quince días contados a partir de la notificación al partido político. En caso de oposición al pago por parte del responsable, se solicitará a la autoridad competente la aplicación del procedimiento económico coactivo.
 
-Las sanciones previstas en los incisos b) al e) del párrafo primero del Artículo 293, serán notificadas al Consejo Estatal Electoral para su ejecución.
+Las sanciones previstas en los incisos b) al e) del artículo 222, serán notificadas al Consejo Estatal Electoral para su ejecución.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 224.
+
+A quien viole las disposiciones de esta Ley sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se les podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más. En la determinación, y en su caso, aplicación de la multa se seguirá en lo conducente el procedimiento señalado en el artículo anterior de esta Ley.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+## TITULO DECIMO. De la Justicia Electoral
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO II. Del Cómputo Estatal y Declaración de Validez de la Elección del Gobernador y Diputados e Integración del Congreso
+
+###### Artículo 225.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 226.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 227.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 228.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 229.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 230.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 231.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 232.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 233.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 234.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 235.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 236.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+## TITULO DECIMO PRIMERO. De las Nulidades; del Sistema de Medios de Impugnación; y de las Faltas y Sanciones Administrativas
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO III. De las Faltas Administrativas y de las Sanciones
+
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 237.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 238.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 239.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 240.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 241.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 242.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 243.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO I. Del Tribunal Electoral del Estado
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 244.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 245.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO II. De los Magistrados
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 246.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 247.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 248.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO III. Del Funcionamiento del Tribunal
+
+###### Artículo 249.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 250.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 251.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO IV. Del Presidente del Tribunal
+
+###### Artículo 252.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 253.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 254.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO V. De los Jueces Instructores
+
+###### Artículo 255.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 256.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 257.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 258.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 259.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 260.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 261.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO VII. De las Partes
+
+### CAPITULO VI. Del Secretario General de Acuerdos
+
+###### Artículo 262.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO VIII. De la Improcedencia y del Sobreseimiento
+
+### CAPITULO I. De los Casos de Nulidad
+
+###### Artículo 263.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 264.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO IX. De la Acumulación
+
+### CAPITULO II. De los Efectos de la Declaración de Nulidad
+
+###### Artículo 265.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO X. Reglas de Procedimiento para los Recursos
+
+### CAPITULO III. Del Sistema de Medios de Impugnación
+
+###### Artículo 266.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 267.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 268.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 269.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 270.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 271.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 272.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 273.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 274.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 275.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 276.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO XI. De las Pruebas
+
+### CAPITULO IV. De la Competencia, de la Legitimación y de la Personería
+
+###### Artículo 277.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 278.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 279.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 280.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO XII. De las Resoluciones
+
+### CAPITULO V. De los Plazos y de los Términos
+
+###### Artículo 281.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 282.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 283.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 284.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 285.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 286.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 287.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 288.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO XIII. De las Faltas Administrativas y de las Sanciones
+
+### CAPITULO VI. De las Notificaciones
+
+###### Artículo 289.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 290.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 291.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 292.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 293.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
+
+###### Artículo 294.
+
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
 
 ###### Artículo 295.
 
-A quien viole las disposiciones de esta ley sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se les podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más. En la determinación, y en su caso, aplicación de la multa se seguirá en lo conducente el procedimiento señalado en el artículo anterior de esta ley.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2004)
 
 TRANSITORIOS:
 
@@ -3611,7 +3303,7 @@ Jaime Cervantes Rivera.
 
 Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital a los veinticuatro días del mes de septiembre de mil novecientos noventa y cinco.
 
-C.RIGOBERTO OCHOA ZARAGOZA
+C. RIGOBERTO OCHOA ZARAGOZA
 
 Rúbrica
 
@@ -3650,3 +3342,13 @@ P.O. 4 DE JUNIO DE 2003
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación, debiendo publicarse en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
 
 SEGUNDO.- La determinación y entrega del financiamiento público a los Partidos Políticos correspondiente al ejercicio fiscal del año 2003, se efectuará en el mes de mayo del año en curso.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Las disposiciones normativas contenidas en el presente Decreto relativas a las precampañas y a los procesos internos de selección de candidatos, surtirán efectos legales con posterioridad a la conclusión de la autorización del registro de candidaturas a puestos de elección popular para el proceso electoral del año 2005.
+
+Artículo Tercero.- Se deroga el Titulo Décimo denominado de la Justicia Electoral y Décimo Primero intitulado "De las Nulidades; del Sistema de Medios de Impugnación, y de las Faltas y Sanciones Administrativas", ambos de la Ley Electoral del Estado de Nayarit, publicada mediante decreto 7890 de fecha 25 de noviembre de 1995 y sus reformas conducentes.
+
+Artículo Cuarto.- El contenido del Capítulo XIII del Título Décimo Primero, intitulado "De las Faltas Administrativas y de las Sanciones", se traslada al Titulo Noveno denominado "De los Cómputos y Declaratoria de Validez de las Elecciones" para quedar como capítulo III, que se integrará por los artículos 218 al 224.
