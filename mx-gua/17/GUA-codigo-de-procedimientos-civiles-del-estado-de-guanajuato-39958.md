@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1988-11-22"
+last_updated: "1989-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1989.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -2187,7 +2187,7 @@ Si en la audiencia no pronunciase el juez su sentencia, en ella misma se citará
 
 ###### Art. 357.
 
-Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de éstas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio, condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el juez.
+Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de éstas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el juez.
 
 ###### Art. 358.
 
@@ -2348,6 +2348,10 @@ II.- Por desistimiento de la acción, aceptado por la parte demandada. No es nec
 III.- Por cumplimiento voluntario de la reclamación antes de la sentencia, y
 
 IV.- Fuera de los casos previstos en los dos capítulos precedentes, cuando no se haya verificado ningún acto procesal ni promoción, durante un término continuo, mayor de ciento ochenta días hábiles, contados a partir de la fecha en que se haya verificado el último acto procesal o hecho la ultima promoción. Esta disposición es aplicable en todas las instancias, tanto en el negocio principal como en los incidentes, con excepción de los casos de revisión forzosa. Caducado el principal caducan los incidentes. La caducidad de los incidentes sólo produce la del principal cuando hayan suspendido el procedimiento en éste.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1989)</small>
+
+La caducidad por inactividad procesal, no procederá después de haberse citado a las partes para oír resolución.
 
 ###### Art. 384.
 
@@ -4866,6 +4870,12 @@ P.O. 20 DE SEPTIEMBRE DE 1988.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 22 DE NOVIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 1989.
 
 ###### ARTICULO UNICO.
 
