@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1951-11-10"
+last_updated: "1952-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1952.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -247,9 +247,9 @@ IX.- Intervenir en las elecciones de Senadores por el Estado, con arreglo a lo d
 
 X.- Pedir auxilio al Ejecutivo Federal y en caso necesario trasladar su residencia a lugar seguro, en territorio del Estado o fuera de él, si el Poder Ejecutivo amenazare o ejerciere presión sobre el Congreso, de tal suerte que éste se viere privado de libertad para ejercer sus funciones. Igual facultad tendrá cuando la amenaza o presión fuere ejercida por cualquier autoridad o grupo tumultuario de personas y el Ejecutivo no pudiere dar garantías o se rehusare a darlas.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1952)</small>
 
-XI.- Conocer y resolver acerca de las renuncias a sus respectivos cargos presentadas por el Gobernador, los Diputados, los Magistrados del Supremo Tribunal de Justicia, el Tesorero General, el Contador de Glosa y conceder licencia a los mismos Funcionarios, con goce de sueldo o sin él, para separarse temporalmente del cargo que desempeñen.
+XI.- Conocer y resolver acerca de las renuncias a sus respectivos cargos presentadas por el Gobernador, los Diputados, los Magistrados del Supremo Tribunal de Justicia, y el Contador de Glosa, y conceder licencias a los mismos Funcionarios, con goce de sueldo o sin él para separarse temporalmente del cargo que desempeñen.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -275,9 +275,9 @@ XVII.- Erigirse en Jurado de acusación en los casos qus (sic) señala el artíc
 
 XVIII.- Dirimir las competencias y resolver las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia, salvo lo prevenido en el artículo 105 de la Constitución Federal.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1952)</small>
 
-XIX.- Nombrar libremente a los empleados de la Secretaría de la Cámara, al Tesorero General y al Contador de Glosa. (sic)
+XIX.- Nombrar libremente a los empleados de la Secretaría de la Cámara y al Contador de Glosa. (sic)
 
 XX.- Nombrar libremente a los empleados de la Secretaría de la Cámara, al Director General de Rentas y al Contador de Glosa.
 
@@ -533,9 +533,9 @@ III.- Formar los reglamentos y dictar las providencias que demande la mejor ejec
 
 IV.- Nombrar y remover libremente al Secretario del Despacho y a los empleados cuyo nombramiento no corresponda a otra corporación o autoridad.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1952)</small>
 
-V.- Nombrar y remover al Procurador de Justicia y a los Agentes del Ministerio Público del Estado.
+V.- Nombrar y remover libremente al Procurador General de Justicia, a los Agentes del Ministerio Público del Estado y al Tesorero General del Estado.
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -827,7 +827,7 @@ La ley organizará el Ministerio Público y Defensorío (sic) de Oficio, fijará
 
 ###### Artículo 86.
 
-El Procurador General durará en su encargo dos años.
+(DEROGADO, P.O. 21 DE JUNIO DE 1952)
 
 ## TITULO VI.
 
@@ -1556,3 +1556,7 @@ Este Decreto surtirá sus efectos a partir de su publicación en el Periódico O
 P.O. 10 DE NOVIEMBRE DE 1951.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JUNIO DE 1952.
+
+ARTICULO TRANSITORIO. Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
