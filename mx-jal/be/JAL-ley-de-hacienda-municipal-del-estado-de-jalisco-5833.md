@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1996-12-05"
+last_updated: "1997-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -977,6 +977,14 @@ Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectu
 
 Quedan exentos del pago de este impuesto, la Federación, el Estado y sus municipios, respecto de predios de su propiedad.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
+
+Los titulares de bienes inmuebles afectos al Patrimonio Cultural del Estado pagarán el impuesto predial correspondiente, aplicando la cuota o tarifa mínima que para tal efecto se establezca en la ley de ingresos municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
+
+Para los efectos de esta Ley y de las leyes de ingresos municipales, se consideran bienes inmuebles afectos al Patrimonio Cultural del Estado, aquellos predios o fincas que sean catalogados en los planes o programas de desarrollo urbano municipales, atendiendo a su valor histórico o artístico, o se les reconozca alguno de estos atributos mediante dictamen del Instituto Nacional de Antropología e Historia o, en su caso, de la Secretaría de Cultura del Gobierno del estado de Jalisco.
+
 ###### Art. 105.
 
 Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos contiene la Ley de Catastro del Estado.
@@ -1117,9 +1125,11 @@ Tratándose de permutas, será base de este impuesto el 100% cien por ciento del
 
 Si las autoridades advierten que los avalúos bancarios consignan valores inferiores a los que rigen en el mercado, practicarán avalúo en los términos de la Ley de Catastro del Estado, el cual no podrá ser menor al señalado en la fracción I de este artículo.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
+
 ###### Art. 115.
 
-(DEROGADO, P.O. 29 DE JUNIO DE 1991)
+Este impuesto no se causará en la transmisión o adquisición de la propiedad o derechos de copropiedad de bienes inmuebles afectos al Patrimonio Cultural del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1991)</small>
 
@@ -1386,6 +1396,10 @@ Para los efectos del pago de los derechos por la expedición de permisos para fr
 ###### Art. 147.
 
 Se concede una reducción de un 50 % de los derechos señalados en el artículo anterior a las urbanizaciones promovidas por: el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Instituto Nacional para el Desarrollo de la Comunidad y Vivienda Rural; Fondo de la Vivienda para Trabajadores al servicio del Estado; Fondo de la Vivienda al Servicio de las Fuerzas Armadas, Instituto Promotor de la Vivienda del Estado y otras instituciones oficiales o descentralizadas de seguridad social, cuando dichas urbanizaciones se promuevan para el cumplimiento de los fines de cada una de las instituciones antes señaladas.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1997)</small>
+
+Se aplicará una reducción del ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
 ### CAPITULO V. Aseo Público
 
@@ -2862,3 +2876,7 @@ P.O. 31 DE OCTUBRE DE 1996.
 P.O. 5 DE DICIEMBRE DE 1996.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE ENERO DE 1997.
+
+Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
