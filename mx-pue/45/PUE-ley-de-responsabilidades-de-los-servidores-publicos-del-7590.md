@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "1986-07-15"
+last_updated: "1994-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Primera Sección del Periódico Oficial, el viernes 29 de junio de 1984.
 
@@ -87,9 +87,11 @@ VI.- Competencia y procedimientos para declarar la procedencia del enjuiciamient
 
 VII.- Registro patrimonial de los servidores públicos del Estado y los Municipios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 2º.
 
-Son Servidores Públicos las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en los Poderes Legislativo o Judicial del Estado, en las Entidades de la Administración Pública Paraestatal, así como las personas que manejen o apliquen recursos económicos estatales o municipales.
+Son Servidores Públicos las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en los Poderes Legislativo o Judicial del Estado, en las Entidades de la Administración Pública Paraestatal, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos económicos Federales, Estatales o Municipales, sea cual fuere la naturaleza de su nombramiento o elección.
 
 ###### Artículo 3º.
 
@@ -105,7 +107,13 @@ IV.- Los Tribunales del Trabajo en los términos de la legislación respectiva;
 
 V.- Los Ayuntamientos; y
 
-VI.- Los demás órganos que determinen las Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VI.- El Tribunal Superior de Justicia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VII.- Los demás Organos que determinen las Leyes.
 
 ###### Artículo 4º.
 
@@ -190,6 +198,10 @@ a).- Si la conducta atribuida corresponde a las enumeradas por el artículo 9º;
 b).- Si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2º; y
 
 c).- Si la denuncia es procedente y amerita la incoación del procedimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+En caso contrario la comisión desechará de plano la denuncia presentada.
 
 ###### Artículo 15.
 
@@ -413,11 +425,13 @@ XVII.- Abstenerse de intervenir o participar en la selección, nombramiento, des
 
 XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Secretaría en los términos que señala la Ley;
 
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría, conforme a la competencia ésta;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la autoridad competente, conforme a esta Ley;
 
 XX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo.
 
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
 
@@ -431,55 +445,99 @@ Para los efectos de esta Ley, se entenderá:
 
 I.- Por Secretaría, la Secretaría de la Contraloría General del Estado;
 
-II.- Por Superior Jerárquico:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-a).- En el Gobierno del Estado al titular de la dependencia correspondiente y, en el caso de las Entidades paraestatales al coordinador del sector correspondiente, el cual aplicará las sanciones cuya imposición se le atribuya a través de la Contraloría Interna de su dependencia; y
+II.- Por Poder Legislativo; el Congreso del Estado;
 
-b).- En el Gobierno Municipal al Ayuntamiento y, en su caso, al Presidente Municipal.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Por Poder Judicial; el Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- Por Superior Jerárquico:
+
+a).- En el Poder Ejecutivo; al Titular de la Dependencia o Entidad correspondiente;
+
+b).- En los Ayuntamientos, al Presidente Municipal;
+
+c).- En el Poder Legislativo; el que determine su propia Ley Orgánica; y
+
+d).- En el Poder Judicial; el que determine su propia Ley Orgánica.
 
 ### CAPITULO II. PROCEDIMIENTOS ADMINISTRATIVOS Y SANCIONES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 52.
 
-En las dependencias y Entidades de la Administración Pública y en los Ayuntamientos se establecerán unidades específicas, a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos que establece la presente Ley, con las que se iniciará en su caso el procedimiento disciplinario correspondiente.
+La Secretaría, los Ayuntamientos y los Organos que determinen las leyes, en el ámbito de sus respectivas competencias, establecerán unidades específicas que dependerán del órgano de control correspondiente, a las que el público tenga fácil acceso para presentar quejas y denuncias por incumplimiento de las obligaciones de los Servidores Públicos que establece la presente Ley, con las que se iniciará en su caso el procedimiento correspondiente.
 
 ###### Artículo 53.
 
 La Secretaría establecerá las normas y procedimientos para que las denuncias del público sean atendidas y resueltas con eficiencia, salvo las relativas a las quejas contra servidores municipales, que serán dictadas por los Ayuntamientos respectivos.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 53 Bis.
+
+La Secretaría, los Ayuntamientos y los Organos de Control que determinen las Leyes al conocer, investigar y sancionar el incumplimiento de las obligaciones establecidas en el artículo 50 de esta Ley, iniciarán el trámite de la queja o denuncia bajo las disposiciones siguientes:
+
+I.- Las quejas o denuncias deberán presentarse por comparecencia directa o por escrito; en este último caso el promovente deberá ser citado para que ratifique su promoción, en caso de que no sea ratificado se archivará el expediente correspondiente; lo anterior sin perjuicio de que la autoridad competente pueda darle seguimiento de oficio al asunto respectivo;
+
+II.- La Autoridad practicará todas las diligencias que estime necesarias a fin de contar con los elementos suficientes para la mejor substanciación del asunto que se investiga;
+
+III.- Si la autoridad competente, después de valoradas las constancias y actuaciones, considera que no ha lugar a iniciar formal procedimiento de determinación de responsabilidades en contra del Servidor Público, archivará el expediente respectivo, lo que hará del conocimiento del promovente, para que en su caso, éste aporte mayores elementos de prueba que motiven el inicio del procedimiento respectivo;
+
+IV.- Si se cuenta con elementos que hagan probable responsabilidad del Servidor Público, se iniciará el procedimiento que establece el artículo 68 de esta Ley, sin perjuicio de lo que establecen las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 54.
 
-La Secretaría, el superior jerárquico y todos los servidores públicos, tienen obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refieren los artículos anteriores, y evitar que con motivo de éstas se causen molestias indebidas al quejoso.
+La Secretaría, los Ayuntamientos, así como todos los Servidores Públicos, tienen obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refieren los artículos anteriores, y evitar que con motivo de éstas se causen molestias indebidas al quejoso.
 
 ###### Artículo 55.
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, impida al quejoso la formulación o presentación de quejas o denuncias, o lesione los intereses de quienes las formulen o presenten.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 56.
 
-El Tribunal Superior de Justicia, el Congreso del Estado y los Ayuntamientos, en el ámbito de su competencia establecerán los órganos y sistemas para identificar, investigar, y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 50,y sancionar a los responsables.
+El Poder Legislativo y el Poder Judicial, establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 50 de esta Ley, así como para imponer y ejecutar las sanciones establecidas en el presente capítulo en los términos de la Ley Orgánica correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 57.
 
-Los servidores públicos de la Secretaría, que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 50, serán sancionados conforme al presente capítulo por la Contraloría Interna de dicha Secretaría.
+Los Servidores Públicos de la Secretaría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el Artículo 50 de esta Ley, serán sancionados conforme al presente capítulo por la Unidad Administrativa de la propia dependencia facultada para ello.
 
 ###### Artículo 58.
 
 Las sanciones por responsabilidad administrativa consistirán en:
 
-I.- Apercibimiento privado o público;
+I.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
 
 II.- Amonestación privada o pública;
 
-III.- Suspensión;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-IV.- Destitución del puesto;
+III.- Suspensión hasta por seis meses;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- Destitución del empleo, cargo o comisión;
 
 V.- Sanción económica;
 
-VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en la Capital Estado y de tres a cinco años si excede de dicho límite.
+VI.- Inhabilitación temporal hasta por doce años, para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios, ésta será de uno a cinco años si el monto de aquellos no excede del equivalente a cien veces el salario mínimo mensual vigente en el Estado, y de cinco a doce años si excede de dicho límite.
 
 ###### Artículo 59.
 
@@ -499,103 +557,135 @@ VI.- La reincidencia en el incumplimiento de obligaciones; y
 
 VII.- El monto del beneficio, daño o perjuicio económico derivado del incumplimiento.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 60.
 
-En caso de aplicación de sanciones económicas, por beneficios obtenidos o daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 50, el monto de ellas será igual a dos tantos del lucro obtenido y de los daños y perjuicios causados.
+En caso de imposición de sanciones económicas, por beneficios obtenidos, daños o perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 50 de esta Ley, el monto de ellas será, hasta dos tantos del lucro obtenido y de los daños o perjuicios causados, independientemente de la restitución que deberá hacer el infractor del bien obtenido.
 
 ###### Artículo 61.
 
 Se otorgará un plazo máximo de tres años, para que el servidor público pague la sanción económica que se le imponga; pero en ningún caso, los pagos que se convengan dejarán al servidor con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 62.
 
-Para la aplicación y ejecución de las sanciones a que se refiere el artículo 58, se observaran las siguientes reglas:
+Para la imposición y ejecución de las sanciones a que se refiere el Artículo 58, se deberán observar las siguientes reglas:
 
-I.- El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, se aplicarán por el superior jerárquico;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-II.- La destitución del empleo, cargo o comisión de los servidores públicos, se demandará por el superior jerárquico sujetándose a las leyes aplicables;
+I.- La amonestación, la suspensión, la destitución e inhabilitación del empleo, cargo o comisión de los Servidores Públicos se impondrán por la autoridad competente y se ejecutarán por el Superior Jerárquico;
 
-III.- La suspensión del empleo, cargo o comisión durante el período al que se refiere la fracción I, y la destitución de los servidores públicos de confianza, se aplicarán por el superior jerárquico;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-IV.- La Secretaría promoverá los procedimientos a que se refieren las fracciones II y III de este artículo, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste cuando el superior jerárquico no lo haga; en este caso, la misma Secretaría desahogará el procedimiento y exhibirá las constancias respectivas al superior jerárquico;
+II.- Las sanciones económicas constituirán créditos fiscales, y serán impuestas por la autoridad competente, ejecutándose en los términos que establecen las leyes respectivas;
 
-V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicada por la autoridad competente que corresponda;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la Capital del Estado, y por la Secretaría, cuando sean superiores a esta cantidad;
+III.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere el Artículo 58, corresponde al Congreso del Estado;
 
-VII.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere el artículo anterior, corresponde al Congreso del Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-VIII.- Respecto a los servidores públicos municipales, distintos a los precisados en la fracción anterior, las sanciones y acciones a que se refiere este artículo, corresponde aplicarlas y ejercitarlas a los Ayuntamientos por conducto del Presidente Municipal, independientemente del monto de las sanciones económicas respectivas.
+IV.- Respecto a los Servidores Públicos Municipales distintos a los indicados en la fracción anterior, corresponde imponerlas al Contralor Municipal y ejecutarlas al Ayuntamiento por conducto del Presidente Municipal o al Titular de la Unidad administrativa correspondiente;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-IX.- Cuando el superior jerárquico o la autoridad competente en términos de esta Ley, no aplique las sanciones administrativas impuestas, en un término de 30 días hábiles, contados a partir de la fecha de su notificación, la Secretaría cuando lo considere pertinente, podrá aplicar tales sanciones.
+V.- El Superior Jerárquico deberá ejecutar las sanciones administrativas impuestas por la Autoridad respectiva en un término de treinta días naturales, contados a partir de la fecha de su notificación.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VI.- Cuando el Superior Jerárquico, en términos de esta Ley, no ejecute las sanciones administrativas impuestas, en un término de treinta días naturales contados a partir de la fecha de su notificación, la Autoridad competente cuando lo considere necesario, podrá ejecutar tales sanciones.
+
+VII.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+VIII.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+IX.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 63.
 
-Todo Servidor Público deberá denunciar por escrito a la Contraloría Interna de su dependencia los hechos que, a su juicio, sean causa de responsabilidad administrativa, imputables a servidores públicos sujetos a su dirección.
+Todo Servidor Público deberá denunciar por escrito o mediante comparecencia directa ante la Secretaría u Organo de Control que corresponda, los hechos que sean causa de Responsabilidad Administrativa, imputables a Servidores Públicos, en términos de la presente Ley.
 
-La Contraloría Interna de la dependencia determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicará, por acuerdo del superior jerárquico, las sanciones disciplinarias correspondientes.
+En el Poder Ejecutivo, el Superior Jerárquico enviará a la Secretaría, copias de las denuncias cuando se trate de hechos que puedan constituir algún tipo de delito o cuando en su concepto, y habida cuenta de la naturaleza de los hechos denunciados, dicha Secretaría deba conocer del caso o participar en las investigaciones.
 
-En lo que respecta a las Entidades de la Administración Pública Paraestatal, la denuncia a que se refiere el primer párrafo de este artículo, será recibida por el Coordinador Sectorial correspondiente.
-
-En los Ayuntamientos, las denuncias serán recibidas por la oficina respectiva de la Presidencia Municipal.
-
-El superior jerárquico enviará a la Secretaría copia de las denuncias cuando se trate de infracciones graves o cuando, en su concepto y habida cuenta de la naturaleza de los hechos denunciados, dicha Secretaría deba conocer del caso o participar en las investigaciones.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 64.
 
-La Secretaría aplicará las sanciones correspondientes, a los Contralores Internos de las dependencias, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, impondrán y ejecutarán las sanciones correspondientes a los Titulares y personal de los Organos de Control cuando éstos incurran en responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 65.
 
-Si la Contraloría Interna de la dependencia o el Coordinador de Sector en las Entidades, tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Secretaría y a la autoridad competente para conocer del ilícito.
+La Secretaría y los Titulares de las Dependencias y Entidades, que tengan conocimiento de hechos que impliquen responsabilidad penal, deberán dar vista de ello a la Autoridad competente para conocer del ilícito.
 
-Cuando se trate de servidores públicos municipales, el Presidente Municipal dará vista a la autoridad competente en el caso.
+Cuando se trate de Servidores Públicos Municipales, el Síndico Municipal dará vista a la autoridad competente en el caso.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 66.
 
-Si de las investigaciones y auditorías que realice la Secretaría apareciera la responsabilidad de los servidores públicos, informará a la Contraloria Interna de la dependencia correspondiente o al Coordinador Sectorial de las Entidades, para que proceda a la investigacion y sancion disciplinaria por dicha responsabilidad, si fuera de su competencia.
+Si de las auditorías que realice la Secretaría, los Organos de Control que determinen las Leyes y los Ayuntamientos, apareciera probable responsabilidad de Servidores Públicos, procederán en el ámbito de su respectiva competencia, conforme al artículo 68 de la presente Ley.
 
-Si se trata de responsabilidad mayor, cuyo conocimiento solo compete a la Secretaria, esta se avocara directamente al asunto informando de ello al Titular de la dependencia y a la Contraloria Interna de la misma, para que practique o coadyuve en el procedimiento de determinacion de responsabilidades.
+Lo anterior, sin perjuicio de lo establecido en el Artículo 53 de esta Ley.
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 67.
 
-La Dependencia, los Ayuntamientos y la Secretaría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la Capital del Estado.
+La Autoridad competente podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado por éste, no exceda de cien veces el salario mínimo diario vigente en la capital del Estado.
 
 ###### Artículo 68.
 
 La autoridad competente para imponer las sanciones administrativas, se sujetarán al siguiente procedimiento:
 
-I.- Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a sus intereses convenga, por sí o por medio de un defensor.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-La dependencia en la que preste sus servicios el encausado, designará un representante que asista a esta audiencia.
+I.- Citará al probable responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo el desahogo de la misma, y su derecho a ofrecer pruebas y alegar en dicha audiencia lo que a sus intereses convenga, por sí o por medio de un defensor.
 
-Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+Entre la fecha de citación y la de audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días naturales;
 
-II.- Al concluir la audiencia o dentro de los tres días siguientes, resolverá sobre si existe o no responsabilidad del encausado y, en el primer caso, le impondrá las sanciones administrativas correspondientes y notificará la resolución dentro de las veinticuatro horas siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+II.- Desahogada la audiencia señalada en la Fracción anterior, la Autoridad resolverá dentro de los treinta días hábiles siguientes si existe o no responsabilidad, imponiendo, en su caso, al infractor, las sanciones administrativas correspondientes y notificará la resolución al servidor público y, en su caso, al Superior Jerárquico dentro de los treinta días hábiles siguientes;
 
 III.- Si en la audiencia, encontrare que no cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del encausado o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- En cualquier momento, previo o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la autoridad competente podrá determinar la suspensión provisional del probable responsable de su empleo, cargo o comisión, si a juicio de la misma, así conviene para la conducción o continuación de las investigaciones. La suspensión provisional no prejuzga sobre la responsabilidad que se impute.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+La suspensión provisional a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio; ésta cesará cuando así lo resuelva la autoridad correspondiente, con independencia a la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la probable responsabilidad de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Si el Servidor Público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió percibir durante el tiempo en que estuvo suspendido.
 
 ###### Artículo 69.
 
 De las diligencias que se practiquen levantará acta circunstanciada que suscribirán quienes intervengan en ellas.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 70.
 
-El titular de la dependencia o Entidad y los Ayuntamientos podrán designar un representante que participe en las diligencias. Se dará vista de todas las actuaciones a la dependencia o Entidad y Presidencia Municipal en la que el presunto responsable preste sus servicios.
+Los Titulares de las Dependencias y Entidades en el Poder Ejecutivo, así como los Presidentes Municipales o el Titular de la Unidad Administrativa correspondiente en los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán designar un representante ante la Secretaría u Organo de Control correspondiente, para que esté presente en la audiencia a que se refiere el artículo 68 de esta Ley.
 
 ###### Artículo 71.
 
 Las resoluciones y acuerdos que se dicten durante el procedimiento a que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 72.
 
-La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán llevar un registro actualizado de los servidores públicos que hayan sido inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público, en términos de esta Ley y expedirán además las constancias que acrediten la no existencia de registro de inhabilitación.
+La Secretaría deberá llevar un registro actualizado de los servidores públicos que hayan sido inhabilitados y expedirá las constancias respectivas que acrediten la no existencia de inhabilitación. El Congreso del Estado, El Tribunal Superior de Justicia, los Ayuntamientos y los Organos que determinen las Leyes, comunicarán a la propia Secretaría, de aquellos servidores públicos que hayan sido inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público en términos de esta Ley.
 
 ###### Artículo 73.
 
@@ -605,11 +695,15 @@ Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas 
 
 La tramitación del recurso de revocación se sujetará a las normas siguientes:
 
-I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copia de ésta y constancia de la notificación de la misma, y ofreciendo las pruebas que no se hubieren recibido por causas ajenas a su voluntad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del Servidor Público le cause la resolución impugnada, acompañando copia de ésta y constancia de la notificación de la misma, sin cuyos requisitos se desechará de plano, ofreciendo las pruebas que no se hubieren recibido por causas ajenas a su voluntad;
 
 II.- La autoridad acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen procedentes;
 
-III.- Las pruebas admitidas se desahogarán en un plazo de cinco días, que a solicitud del servidor público o de la autoridad, podrá ampliarse una sola vez por cinco días más; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Las pruebas admitidas se desahogarán en un plazo de quince días hábiles, que a solicitud del Servidor Público o a instancia de la autoridad, podrá ampliarse una sola vez por cinco días más; y
 
 IV.- Concluido el período probatorio, la autoridad dictará resolución en el acto, o dentro de los tres días siguientes, notificándola al interesado.
 
@@ -659,45 +753,65 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades para imponer las sanciones administrativas a que esta ley se refiere, prescriben:
 
-I.- En tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo vigente en la Capital del Estado, o si la responsabilidad no fuese estimable en dinero; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+I.- En un año si el beneficio obtenido o el daño causado por el infractor no excede del equivalente a cincuenta días de salario mínimo vigente en la capital del Estado, o si la responsabilidad no fuese estimable en dinero; y
 
 II.- En tres años, en los demás casos.
 
-El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+En todos los casos, la prescripción a que alude este precepto se interrumpirá al iniciarse el procedimiento administrativo previsto por el artículo 68 de la presente Ley.
 
 ## TITULO CUARTO
 
 ### CAPITULO UNICO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 81.
 
-La Secretaría llevará el registro de la situación patrimonial de los servidores públicos, de conformidad con esta Ley y demás disposiciones aplicables.
+El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán llevar el registro y control de la Situación Patrimonial de los Servidores Públicos que se encuentran obligados, en términos del Artículo 82 de la presente Ley.
+
+En el caso de los Servidores Públicos Municipales de elección popular, será ante la Contaduría Mayor de Hacienda del Propio Congreso del Estado en donde éstos deberán presentar su Declaración de Situación Patrimonial, en los mismos términos que establece esta Ley para el Funcionario Público obligado a cumplir con su Declaración en dicho Poder.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 82.
 
-Tienen obligación de presentar declaración de situación patrimonial, en los términos y plazos señalados por la presente Ley, ante la Secretaría, bajo protesta de decir verdad:
+Tienen obligación de presentar declaración de Situación Patrimonial, bajo protesta de decir verdad, ante la autoridad competente y en los términos que esta Ley señala, los siguientes Servidores Públicos:
 
-I.- En el Congreso del Estado, los Diputados, Oficial Mayor, Tesorero, y Contador General de Glosa;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1986)</small>
+I.- En el Poder Legislativo, los Diputados, Oficial Mayor, Tesorero, Contador Mayor de Hacienda, Subcontadores, Directores y Jefes de Departamento o sus equivalentes.
 
-II.- En el Poder Ejecutivo Estatal, todos los Servidores Públicos de confianza y los comprendidos desde el nivel de Jefes de Departamento, hasta el Gobernador del Estado y quienes manejen, recauden o administren fondos y recursos estatales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+II.- En el Poder Ejecutivo, todos los Servidores Públicos de confianza y los comprendidos desde el nivel de jefes de oficina, hasta el Gobernador del Estado y quienes manejen, recauden o administren fondos o recursos Federales o Estatales.
 
 III.- En la Procuraduría General de Justicia del Estado desde el Procurador General hasta los jefes de departamento, incluyendo a los Agentes del Ministerio Público y Policías Judiciales;
 
-IV.- En los tribunales del trabajo Magistrados, Jueces, Miembros de las Juntas, secretarios y Actuarios;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- En los Tribunales de Trabajo, los Presidentes, Secretarios, Actuarios y Miembros de las Juntas.
 
 V.- En la Administración Pública Paraestatal y Municipal, Directores Generales, Subdirectores Generales, Gerentes Generales, Directores, Subdirectores, Gerentes, Subgerentes, Jefes de Departamento y Servidores Públicos equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas, y fideicomisos públicos;
 
-VI.- En la Administración Pública Municipal, desde el Presidente Municipal, Regidores, Síndico, Secretario, Tesorero, Oficial Mayor hasta los servidores públicos con nivel de Jefes de Departamento o sus equivalentes y aquéllos que manejen, recauden, o administren fondos y recursos municipales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-VII.- En el Poder Judicial Estatal, Magistrados, Jueces, Secretarios, Oficiales Mayores y Diligenciarios; y
+VI.- En la Administración Pública Municipal, desde el Presidente, Regidores, Síndico, Secretario General, Tesorero, Contralor, hasta los Servidores Públicos con niveles de Directores y Jefes de Departamento o sus equivalentes, y aquellos que tengan personal a su cargo o desempeñen una o más funciones de dirección, supervisión, inspección, auditoría, fiscalización, procuración y administración de justicia y en general quienes manejen, recauden o administren fondos y recursos Públicos Federales Estatales o Municipales.
 
-VIII.- En la Secretaría, todos los servidores públicos de confianza.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1986)</small>
+VII.- En El Poder Judicial, los Magistrados, Jueces, Secretarios, Oficiales Mayores, Diligenciarios, Directores y Jefes de Departamento.
 
-La Secretaría, previo acuerdo del Gobernador del Estado, podrá determinar cuales Servidores Públicos del Poder Ejecutivo Estatal, además de los señalados en este Artículo deberán presentar su declaración patrimonial y de modificaciones a la misma, dentro de los plazos previstos en los Artículos 83 y 84 de esta Ley.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VIII.- En la Secretaría, todos los Servidores Públicos de confianza y de honorarios.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+(sic) los artículos 81 y 83 de esta Ley. La Secretaría hará la determinación respectiva previo acuerdo del Gobernador.
 
 ###### Artículo 83.
 
@@ -707,41 +821,47 @@ I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
 II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- En el mes de febrero de cada año, todos los Servidores Públicos obligados a presentar declaración de situación patrimonial, deberán manifestar, ante la autoridad que corresponda, las modificaciones que haya sufrido su patrimonio durante el año inmediato anterior.
+
 ###### Artículo 84.
 
-Los servidores públicos durante los meses de enero y febrero de cada año, deberán presentar declaración sobre la modificación que haya sufrido o no su situación patrimonial, en el año anterior.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 85.
 
-Transcurridos los plazos a que hacen referencia los Artículos 83 fracción I y 84 de esta Ley, sin que los Servidores Públicos hubiesen presentado la declaración de situación patrimonial correspondiente, sin causa justificada, la autoridad competente, como medida de apremio, podrá aplicar al Servidor Público omiso multa económica que no excederá de cien veces el salario mínimo vigente en la Capital del Estado y si en un término de diez días hábiles, contados a partir de la fecha de la imposición de dicha medida de apremio persiste en su omisión, quedará sin efecto el nombramiento respectivo, previa declaratoria de la Secretaría, substanciado el procedimiento administrativo que establece el Título Tercero de esta Ley, cuya declaratoria se comunicará al superior jerárquico y en su caso, al Tribunal Superior de Justicia y al Congreso del Estado, para que procedan en los términos de Ley.
+Si transcurridos los términos a que hacen referencia las Fracciones I y III del artículo 83 de esta Ley, sin que los Servidores Públicos hubiesen presentado la Declaración de Situación Patrimonial correspondiente, la autoridad competente para aplicar la presente Ley podrá optar entre imponer multa económica, como medida de apremio, que no excederá de cien veces el salario mínimo diario vigente en el Estado o destituirlo del empleo, cargo o comisión que desempeña, substanciando el procedimiento administrativo; en el primer caso los Servidores Públicos que persistan en su omisión transcurridos cinco días hábiles posteriores a la fecha en que hayan sido notificados, serán destituidos y, en su caso, inhabilitados.
 
-Para el caso de que se omita la declaración contemplada en la fracción II del artículo 83, procede la aplicación de una sanción económica hasta por cincuenta días del salario mínimo vigente en la Capital del Estado, y en su caso, inhabilitación hasta por un año.
+Para el caso de que se omita la declaración contemplada en la Fracción II del artículo 83, procede la aplicación de una multa económica hasta por cincuenta días de salario mínimo diario vigente en la capital del Estado y en su caso, inhabilitación hasta por un año, una vez substanciado el procedimiento que establece el Artículo 68 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 86.
 
-La Secretaría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que considere necesarios.
+El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, expedirán las normas y los formatos bajo los cuales el Servidor Público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que considere necesarios.
 
 ###### Artículo 87.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
-En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
-
-Tratándose de bienes muebles, la Secretaría decidirá, mediante acuerdo general, las características que deba tener la declaración.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 88.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Secretaría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la propia Secretaría hará ante ésta la solicitud correspondiente.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un Servidor Público, el Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias podrán ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando éstos actos requieran orden judicial, la Autoridad competente hará la solicitud que corresponda al Tribunal Superior de Justicia, quien determinará el juez que deba conocer de la instancia.
 
-Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que a su derecho convenga.
+Previamente a la inspección o al inicio de la auditoría, se dará cuenta al Servidor Público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 89.
 
-El servidor público a quien se practique visita de investigación o auditoría, podrá interponer inconformidad ante la Secretaría contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que expresará los motivos de la inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+El Servidor Público a quien se practique visita de inspección o auditoría, podrá interponer inconformidad ante la propia Autoridad actuante contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los tres días siguientes a la conclusión de aquéllas, en la que expresará los motivos de la inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir, dentro de los quince días naturales a la presentación del recurso.
 
-Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe éste. Sí el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea dicho documento.
+Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el Servidor Público y los testigos que para tal efecto designe éste; si el Servidor Público no designare testigos o éstos se negaren a firmar, el visitador hará constar esta circunstancia, procediendo a designar los testigos que asistan al acto, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea dicho documento.
 
 ###### Artículo 90.
 
@@ -751,9 +871,11 @@ Serán sancionados en los términos que disponga el Código de Defensa Social lo
 
 Para los efectos de esta Ley y del Código de Defensa Social, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que acredite que estos bienes los obtuvieron por sí mismos y por motivos ajenos al servicio público.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 92.
 
-La Secretaría hará al Ministerio Público, en su caso, declaratoria de que el servidor sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría, los Ayuntamientos y los Organos que determinen las Leyes deberán hacer, ante el Ministerio Público, en su caso, manifestación de que el Servidor Público sujeto a la investigación respectiva, en los términos de la presente ley, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 ###### Artículo 93.
 
@@ -775,25 +897,23 @@ T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
-Todas las dependencias y entidades de la administración pública estatal y municipal establecerán en un plazo no mayor de seis meses, unidades específicas que se denominarán Oficinas de Quejas y Denuncias, a que se refiere el artículo 52 de esta ley.
-
-El Poder Judicial y el Congreso del Estado, establecerán los órganos y sistemas a que se refiere el artículo 56 de esta Ley, en un plazo no mayor de seis meses.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO SEGUNDO.
 
-Por lo que respecta a las declaraciones sobre situación patrimonial efectuadas con anterioridad a la vigencia de esta Ley, se estarán a lo dispuesto en las normas vigentes en el momento de formularse dicha declaración.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO TERCERO.
 
-Los servidores públicos dispondrán de un plazo de sesenta días, para formular la declaración de su situación patrimonial, contado a partir de la fecha en que la Secretaría les envié por correo certificado o les entregue personalmente las formas correspondientes y los criterios y normas derivados de esta Ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO CUARTO.
 
-La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO QUINTO.
 
-Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
 El Gobernador hará publicar y cumplir la presente disposición.- Dado en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veintiocho días del mes de junio de mil novecientos ochenta y cuatro.- Diputado Presidente.- Lic. Humberto Gutiérrez Manzano.- Rúbrica.- Diputada Secretaria.- Lic. Enoé González Cabrera.- Rúbrica.- Diputado Secretario.- Gabino Bonifacio Delegado Morales.- Rúbrica.
 
@@ -810,3 +930,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se Derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 27 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso del Estado y el Tribunal Superior de Justicia establecerán los Organos, sistemas, registros, formatos y demás circunstancias pertinentes que se requieran para ejercer las atribuciones que se le confieren en virtud de esta Reforma, en un plazo que no excederá de sesenta días naturales contados a partir de que entre en vigor el presente ordenamiento; al efecto, la Secretaría de la Contraloría General del Estado entregará las Declaraciones de Situación Patrimonial que en su momento haya recibido, a la autoridad que resulte competente en los términos de este Decreto.
+
+###### ARTICULO TERCERO.
+
+Para los fines de la presentación de las Declaraciones de Situación Patrimonial, el Congreso del Estado y el Tribunal Superior de Justicia determinarán las oficinas que de manera provisional habrán de recibirlas respecto de los Servidores Públicos que le están adscritos, así como de custodiarlas, en tanto se establece el Organo señalado en el artículo anterior, para la continuidad en la presentación de las Declaraciones, se podrán utilizar los formatos expedidos por la propia Secretaría.
+
+###### ARTICULO CUARTO.
+
+Conforme a lo que establece el Artículo 86 de la presente Ley, una vez que sean entregados los formatos a los actuales Servidores Públicos de el Poder Legislativo y Judicial obligados a presentar Declaración de Situación Patrimonial, éstos tendrán 60 días para su entregar su Declaración Inicial.
+
+###### ARTICULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
