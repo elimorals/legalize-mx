@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2001-12-25"
+last_updated: "2002-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -47,7 +47,7 @@ La presente ley es de orden público e interés social, reglamentaria de la frac
 
 ###### ARTICULO 2º.
 
-Es objeto de la presente ley regular la función de fiscalización, control y evaluación de la actividad financiera pública el (sic) Estado y de sus municipios, así como de las entidades que dentro del mismo realicen gasto público federal, estatal o municipal, según sea el caso.
+Es objeto de la presente ley regular la función de fiscalización, control y evaluación de la actividad financiera pública el Estado y de sus municipios, así como de las entidades que dentro del mismo realicen gasto público federal, estatal o municipal, según sea el caso.
 
 ###### ARTICULO 3º.
 
@@ -127,7 +127,7 @@ II.- Apoyar al congreso del Estado en la revisión de las cuentas públicas y en
 
 III.- Verificar si la gestión financiera de los poderes del Estado, de los Ayuntamientos y de los organismos se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental , contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
-IV.- Comprobar sí la recaudación , administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que las entidades sujetas a fiscalización celebraron o realizaron, se ajustaron a la legalidad y si no causaron daños o perjuicios en contra de las Haciendas Públicas estatal y municipal, al patrimonio de las entidades paraestatales y al de los demás organismos;
+IV.- Comprobar sí la recaudación , administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que las entidades sujetas a fiscalización celebraron o realizaron, se ajustaron a la legalidad y si no causaron daños o perjuicios en contra de las Haciendas Públicas estatal y municipal, al patrimonio de las entidades paraestatales y al de los demás organismos.
 
 V.- Verificar que las entidades sujetas a fiscalización que hubieren recaudado manejo (sic), administrado o ejercido recursos públicos lo hayan realizado conforme a los programas aprobados y montos autorizados; así como en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones aplicables;
 
@@ -143,13 +143,13 @@ X.- Ordenar y efectuar visitas domiciliarias únicamente para exigir la exhibici
 
 XI.- Colaborar, para efectos de la fiscalización de recursos federales que ejerzan las entidades sujetas a fiscalización, con su similar de la Federación, en la investigación y detección de desviaciones de dichos recursos;
 
-XII.- Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales tanto públicas como privadas con el propósito de dar cumplimiento al objeto de esta ley;
+XII.- Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales tanto públicas como privadas con el propósito de dar cumplimiento al objeto de esta ley.
 
 XIII.- Determinar, en su caso, los daños y perjuicios que afecten a las Haciendas públicas Estatal y Municipal, al patrimonio de las entidades paraestatales y al de los demás organismos; y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Décimo Primero de la Constitución Política del Estado de Tamaulipas y presentar las denuncias y querellas penales, en términos de legislación aplicable;
 
-XIV.- Requerir, en su caso, a los prestadores de servicios personales que contrate los informes o dictámenes de las auditorías o revisiones por ellos practicadas;
+XIV.- Requerir, en su caso, a los prestadores de servicios personales que contrate los informes o dictámenes de las auditorías o revisiones por ellos practicadas.
 
-XV.- Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades sujetas a fiscalización, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, a efecto de realizar las compulsas correspondientes;
+XV.- Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades sujetas a fiscalización, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, a efecto de realizar las compulsas correspondientes.
 
 XVI.- Solicitar a las Entidades sujetas a Fiscalización la información necesaria para el cumplimiento de sus funciones;
 
@@ -161,7 +161,7 @@ XIX.- Elaborar su proyecto de presupuesto anual;
 
 XX.- Elaborar su Reglamento Interior; y
 
-XXI.- Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las leyes del Estado.
+XXI .- Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las leyes del Estado.
 
 ###### ARTICULO 8º.
 
@@ -417,7 +417,9 @@ Los servidores públicos de la Entidad, así como los prestadores de servicios q
 
 La Auditoría será responsable solidariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios que contrate para el ejercicio de sus funciones.
 
-### CAPITULO SEXTO. DE LA REVISION DE LA CUENTA PUBLICA
+### CAPITULO SEXTO
+
+DE LA REVISION DE LA CUENTA PUBLICA.
 
 ###### ARTICULO 37.
 
@@ -497,7 +499,7 @@ Las indemnizaciones se fincarán independientemente de aquellas que sean objeto 
 
 ###### ARTICULO 47.
 
-Las responsabilidades se fincarán en primer término a los servidores públicos o particulares que directamente hayan ejecutado los actos o incurrido en las omisiones que las hayan originado y, subsidiariamente, en orden jerárquico al servidor públicos (sic) que, por índole de sus funciones, haya omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia.
+Las responsabilidades se fincarán en primer término a los servidores públicos o particulares que directamente hayan ejecutado los actos o incurrido en las omisiones que las hayan originado y, subsidiariamente, en orden jerárquico al servidor públicos que, por índole de sus funciones, haya omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia.
 
 ### CAPITULO OCTAVO. DEL PROCEDIMIENTO PARA EL FINCAMIENTO DE RESPONSABILIDADES
 
@@ -531,7 +533,7 @@ Las entidades sujetas de fiscalización, por conducto de los titulares de las á
 
 ###### ARTICULO 51.
 
-El Auditor Superior del Estado bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando las causas de la abstención, siempre que se trate de hecho (sic) que no revistan gravedad ni constituyan delito, considerando los antecedentes y circunstancias del infractor y el daño causado.
+El Auditor Superior del Estado bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando las causas de la abstención, siempre que se trate de hecho que no revistan gravedad ni constituyan delito, considerando los antecedentes y circunstancias del infractor y el daño causado.
 
 ###### ARTICULO 52.
 
@@ -569,11 +571,13 @@ A partir del inicio de vigencia de esta ley, se abroga la Ley Orgánica de la Co
 
 Los Poderes del Estado y los organismos y empresas del sector paraestatal deberán presentar sus cuentas trimestralmente, para los efectos previstos en esta ley, a partir del ejercicio fiscal del 2002.
 
-Los Ayuntamientos del Estado y sus organismos paramunicipales presentarán sus cuentas trimestralmente, para los efectos previstos en esta ley, a partir del ejercicio fiscal del 2003.
+> <small>(REFORMADO, P.O. 18 DE DIECIEMBRE 2002)</small>
+
+Para los efectos previstos en esta ley, los Ayuntamientos del Estado y los organismos públicos municipales presentarán sus cuentas públicas en forma trimestral, a partir del ejecicio fiscal del 2004.
 
 ###### ARTICULO CUARTO.
 
-La referencia que se haga en la demás (sic) normatividad a la Contaduría Mayor de Hacienda del Congreso del Estado, se entenderá realizada a la Auditoría Superior del Estado, hasta en tanto se realicen las reformas de ley para el cambio de denominación.
+La referencia que se haga en la demás normatividad a la Contaduría Mayor de Hacienda del Congreso del Estado, se entenderá realizada a la Auditoría Superior del Estado, hasta en tanto se realicen las reformas de ley para el cambio de denominación.
 
 ###### ARTICULO QUINTO.
 
@@ -601,10 +605,16 @@ En todas las disposiciones legales o administrativas, resoluciones, contratos, c
 
 Se derogan todas las disposiciones que se opongan a la presente ley.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 12 de Diciembre del Año 2001.- Diputado Presidente LIC. REYNALDO JAVIER GARZA ELIZONDO.- Rúbrica.- Diputado Secretario C. MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- Diputado Secretario C. UBALDO GUZMAN QUINTERO.- Rúbrica.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 12 de Diciembre del Año 2001.- Diputado Presidente LIC. REYNALDO JAVIER GARZA ELIZONDO.- Rúbrica.- Diputado Secretario MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- Diputado Secretario C. UBALDO GUZMAN QUINTERO.- Rúbrica.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los trece días del mes de diciembre de año dos mil uno.-
 
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
+ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE DICIEM BRE 2002
+
+UNICO.- El presente Decreto entrará en vigor el 1° de Enero de 2003.
