@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "1994-07-29"
+last_updated: "1996-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -105,7 +105,7 @@ Conforme a lo dispuesto en la Ley de Salud, corresponde al Gobierno del Estado, 
 
 ###### ARTICULO 7º.
 
-El Sistema Estatal de asistencia social, que se ubica dentro del sistema estatal de salud, se constituye por las dependencias y entidades de la administración pública estatal y municipal y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social, así como por los mecanismos de coordinación de acciones que en esta materia se establezcan.
+El Sistema Estatal de asistencia social, que se ubica dentro del sistema estatal de salud, se constituye por las dependencias y entidades de la administración pública estatal y municipal y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social, así como por los mecanismos de coordinación de acciones que en esta materia se establezca.
 
 ###### ARTICULO 8º.
 
@@ -291,69 +291,159 @@ Para el estudio, planeación y despacho de los asuntos que le competen, el organ
 
 a).- Patronato;
 
-b).- Presidencia del Sistema; y
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
+b).- Junta Directiva; y
 
 c).- Dirección General.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 23.
 
-El patronato será la máxima autoridad del Organismo y se integrará con un Presidente y trece vocales uno y otros designados y removidos libremente por el Gobernador del Estado. Los Vocales serán seis secretarios de la administración pública estatal, cuyas funciones se encuentre relacionadas con los programas del Sistema D.I.F.; un representante por cada uno de los sectores obrero, campesino y popular; dos representantes del sector privado; el Director General del Sistema que será el Secretario del Patronato y el Secretario de Finanzas del Gobierno del Estado que fungirá como tesorero del Patronato.
+El Patronato del Organismo se integrará con once miembros, que serán nombrados y removidos libremente por el Gobernador del Estado. La Presidencia del Patronato recaerá en la persona que para tal efecto designe el Gobernador.
 
-Los miembros integrantes del patronato no recibirán retribución, emolumento o compensación alguna por su participación.
+Los demás miembros del Patronato, deberán reunir los siguientes requisitos: ser mayores de 30 años de edad; poseer reconocida experiencia y haber demostrado interés por las actividades de Asistencia Social y gozar de la estimación general.
+
+Los miembros integrantes del Patronato no recibirán retribución, emolumento o compensación alguna por su participación.
 
 ###### ARTICULO 24.
 
 El patronato contará con las siguientes facultades:
 
-I.- Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del Organismo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+I.- Emitir opinión y formular sugerencias sobre los planes de trabajo, presupuestos, informes y estados financieros anuales del Organismo;
 
 II.- Apoyar las actividades del Organismo y formular sugerencias tendientes a su mejor desempeño;
 
-III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento cabal de sus objetivos;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
 
-IV.- Conocer y aprobar en su caso, los informes anuales del Presidente del patronato y del Director General;
+III.- Realizar y promover actividades tendientes a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento cabal de sus objetivos;
 
-V.- Aprobar el Reglamento Interior del Organismo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+IV.- Designar de entre sus miembros, al Secretario y Tesorero del mismo, quienes tendrán, junto con el Presidente, en el ámbito de su competencia, las facultades correspondientes a los miembros de la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+V.- Nombrar a su representante ante la Junta Directiva; y
 
 VI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 25.
 
-. El patronato celebrará una sesión ordinaria cada seis meses y las extraordinarias que se requieran a juicio de su Presidente.
-
-Para la validez de las sesiones deberá contarse con la asistencia de la mitad más uno de sus miembros y las resoluciones se adoptarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+El Patronato sesionará ordinariamente cada tres meses; extraordinariamente las veces que sean necesarias.
 
 ###### ARTICULO 26.
 
-Corresponde a la Presidencia del patronato:
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
-I.- Representar legal y administrativamente al Organismo, pudiendo delegar esta facultad en el Director General del Sistema;
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1996)</small>
 
-II.- Aprobar los programas de trabajo, presupuestos, informes de actividades y estados financieros anuales;
+ARTICULO 26 B.- La Junta Directiva sesionará ordinariamente cada tres meses y extraordinariamente las que sean necesarias, según la importancia de los asuntos a tratar.
 
-III.- Aprobar los manuales de procedimientos y de servicios al público y los convenios que se celebren con dependencias y entidades públicas o privadas;
+Para la validez de las sesiones se requiere la concurrencia, por lo menos, de cuatro de sus miembros, entre los cuales deberá estar el Presidente, o en quien delegue su representación. Las decisiones se tomarán por mayoría de votos, teniendo el Presidente o su representante, voto de calidad en caso de empate.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1996)</small>
 
-IV.- Nombrar y remover libremente al Director General del Organismo;
+ARTICULO 26 A.- La Junta Directiva del Sistema, será el máximo Organo de Gobierno y se integrará por los Titulares de las siguientes Dependencias: Finanzas, Salud, Educación Pública y Procuraduría General de Justicia del Estado; un representante del Patronato; el Administrador General del Instituto de Asistencia Pública; y el Director General del Sistema.
 
-V.- Designar y remover a propuesta del Director General a los demás servidores públicos que laboren en el Organismo;
+La Junta Directiva del Sistema será presidida por el Titular de la Dependencia Coordinadora del Sector, en términos del Acuerdo de Sectorización que al efecto expida el Gobernador del Estado, ocupando el cargo de Secretario, el Director General del Organismo, participando los demás miembros del mismo como vocales.
 
-VI.- Designar a los asesores que sean necesarios, para el mejor desarrollo de las actividades del Organismo;
+El cargo de integrante de la Junta Directiva tendrá el carácter de honorífico. Cada miembro, a excepción del Secretario, nombrará un suplente, el cual tendrá las mismas atribuciones del Titular al que supla.
 
-VII.- (DEROGADA, P.O. 29 DE JULIO DE 1994)
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1996)</small>
 
-VIII.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades, así como los Proyectos de inversión;
+ARTICULO 26 C.- Corresponden a la Junta Directiva las siguientes funciones:
 
-IX.- Rendir al patronato un informe anual de labores;
+I.- Dictar las normas generales y establecer criterios que deban orientar las actividades del Organismo;
 
-X.- Vigilar el exacto cumplimiento de los acuerdos del patronato;
+II.- Aprobar la estructura básica, los Reglamentos Interiores del Organismo y del Patronato, así como las modificaciones que procedan;
 
-XI.- Suscribir los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+III.- Aprobar los presupuestos anuales de ingresos y egresos, así como los planes y programas del Organismo, que le sean presentados por el Director General;
 
-XII.- Autorizar la creación, supresión o transferencia de las unidades administrativas que se requieran para el mejor funcionamiento del Organismo;
+IV.- Expedir las normas o bases generales, con arreglo a las cuales el Director General pueda invertir los recursos del Organismo;
 
-XIII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+V.- Aprobar y vigilar la debida aplicación de los fondos destinados al Organismo a fin de que no se distraigan de su objeto;
+
+VI.- Emitir las políticas, bases y lineamientos generales que regulen los contratos, convenios y demás actos jurídicos que sean necesarios para el cumplimiento de los objetivos del Organismo;
+
+VII.- Aprobar a propuesta del Gobernador, el nombramiento del Director General;
+
+VIII.- Otorgar a propuesta del Director General, poderes a personas físicas o morales, para que en nombre y representación del Organismo ejerzan y defiendan los derechos del mismo;
+
+IX.- Establecer los mecanismos de evaluación, para analizar la eficiencia y eficacia con que se desempeña el Organismo;
+
+X.- Conocer y en su caso, aprobar los estados financieros que deberá presentar el Director General;
+
+XI.- Examinar los informes generales y especiales que le presente el Director General, a fin de promover lo necesario para la buena marcha y funcionamiento del Organismo;
+
+XII.- Aprobar a propuesta del Director General, la coordinación de los proyectos y programas del Organismo, con los de las Instituciones Públicas y Privadas que tengan objetivos similares;
+
+XIII.- Promover y en su caso, aprobar la realización de actividades productivas tendientes a allegarse fondos que deberán aplicarse siempre a los fines del Organismo;
+
+XIV.- Resolver sobre los demás asuntos que el Patronato o los demás miembros de la Junta sometan a su consideración;
+
+XV.- Fijar y ajustar las tarifas de los servicios que preste el Organismo en las actividades productivas, en uso de sus atribuciones, con excepción de aquellas que se determinan por otras leyes o reglamentos;
+
+XVI.- Aprobar la concertación de préstamos para el funcionamiento del Organismo, observando los lineamientos que en materia de deuda pública emitan las autoridades competentes;
+
+XVII.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de activos fijos muebles de la entidad que no correspondan a las operaciones propias del objeto del Organismo, o cuando dejen de ser de utilidad para el mismo;
+
+XVIII.- Aprobar la constitución de reservas y la aplicación de las utilidades;
+
+XIX.- Expedir las normas generales que regulen la entrega o recepción de los donativos y pagos extraordinarios, verificando que los mismos se apliquen a los objetivos acordados;
+
+XX.- Aprobar a propuesta del Director General, y de conformidad con las disposiciones que en materia de gasto emitan las autoridades competentes, el tabulador de sueldos aplicable a los trabajadores del Organismo;
+
+XXI.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Organismo, cuando sea notoria la imposibilidad de su cobro;
+
+XXII.- Integrar a propuesta del Director General, las comisiones de trabajo que se estimen pertinentes, para que se encarguen de asuntos específicos del propio Organismo; y
+
+XXIII.- Las demás que tiendan a la buena marcha y funcionamiento del Organismo.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1996)</small>
+
+ARTICULO 26 D.- Corresponden al Presidente las siguientes funciones:
+
+I.- Dictar las medidas necesarias para el debido cumplimiento de los acuerdos de la Junta Directiva;
+
+II.- Presidir las sesiones ordinarias y extraordinarias de la Junta Directiva;
+
+III.- Resolver en casos urgentes, los asuntos que le sean sometidos a su acuerdo por el Director General y que correspondan a la Junta Directiva, dando cuenta a ésta de las decisiones adoptadas en la sesión inmediata; y
+
+IV.- Las demás que de éste Ordenamiento se deriven o le confiera la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1996)</small>
+
+ARTICULO 26 E.- Corresponden al Secretario las siguientes funciones:
+
+I.- Convocar a los integrantes de la Junta Directiva a las sesiones ordinarias y extraordinarias, adjuntando a la convocatoria respectiva el orden del día;
+
+II.- Levantar las actas de las sesiones que celebre la Junta Directiva;
+
+III.- Expedir los testimonios o copias certificadas de las resoluciones o documentos de la Junta Directiva;
+
+IV.- Tener a su cargo y bajo su responsabilidad, el archivo y demás documentos y objetos pertenecientes a la Junta Directiva; y
+
+V.- Las demás atribuciones que le confiera la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO 1996)</small>
+
+ARTICULO 26 F.- Corresponde a los vocales:
+
+I.- Asistir a las sesiones de la Junta Directiva;
+
+II.- Proponer a la Junta Directiva lo que consideren necesario para optimizar el funcionamiento y cumplir con los objetivos del Organismo;
+
+III.- Desempeñar las comisiones que, por acuerdo de la Junta Directiva, se les asignen;
+
+IV.- Iniciar ante la Junta Directiva todo proyecto que beneficie al Organismo; y
+
+V.- Las demás atribuciones que les confiera el Reglamento Interior del Organismo.
 
 ###### ARTICULO 27.
 
@@ -363,19 +453,109 @@ El Director General del Organismo será ciudadano mexicano por nacimiento, mayor
 
 Son facultades del Director General:
 
-I.- Ejecutar los acuerdos y disposiciones del patronato y de la presidencia del mismo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
 
-II.- Presentar al patronato y a su presidente, las propuestas, proyectos e informes que se requieran para el eficaz desempeño de las actividades del Organismo;
+I.- Cumplir y vigilar que se lleven a cabo las disposiciones de la Junta Directiva;
 
-III.- Presentar a la presidencia del patronato, para su conocimiento y aprobación, los planes del trabajo, presupuestos, informes de actividades y estados financieros bimestrales y anuales del Organismo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
 
-IV.- Proponer a la presidencia del patronato la designación y remoción de los servidores públicos que laboran en el Organismo;
+II.- Actuar como apoderado del Organismo, con facultades generales de administración, pudiendo ejercer actos de dominio, circunscribiendo su actuación a los lineamientos establecidos para el caso por la Junta Directiva;
 
-V.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la presidencia del patronato;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
 
-VI.- Celebrar, con aprobación de la Presidencia del Patronato los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+III.- Representar legalmente al Organismo, como mandatario general para pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial conforme a la Ley;
 
-VII.- Actuar como apoderado del Organismo con facultades generales para actos de administración y para pleitos y cobranzas, pudiendo ejercer actos de dominio con autorización expresa de la Presidencia del Patronato.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+IV.- Nombrar y remover a los servidores públicos del Organismo, asignándoles la remuneración correspondiente, en los términos de las disposiciones que en la materia apruebe la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+V.- Conducir las relaciones laborales de los servidores públicos del Organismo, de acuerdo con los criterios establecidos por la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+VI.- Vigilar la correcta administración del Organismo;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1996)</small>
+
+VII.- Someter al acuerdo del Presidente de la Junta Directiva, la resolución de casos urgentes y que correspondan a la misma;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+VIII.- Levantar y mantener actualizado el inventario de los recursos humanos y materiales del Organismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+IX.- Rendir los informes generales y especiales que le soliciten la Junta Directiva y su Presidente y presentar periódicamente a aquella, el informe general de las actividades realizadas;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+X.- Coordinar la formulación de los programas institucionales de corto, mediano y largo plazo, los estados financieros, así como las propuestas anuales de ingresos y egresos del Organismo y presentarlos para su aprobación a la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XI.- Proponer a la Junta Directiva, el otorgamiento de poderes a personas físicas o morales para que, en nombre y representación del Organismo, ejerzan y defiendan los derechos del mismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XII.- Proponer a la Junta Directiva la coordinación de los proyectos y programas del Organismo con otras instituciones con objetivos similares;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XIII.- Coordinar los proyectos y programas del Organismo con las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal y Organizaciones no gubernamentales con objetivos similares;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XIV.- Autorizar las liberaciones, transferencias y ejercicio de los fondos que se deban hacer, de acuerdo con los presupuestos aprobados y los lineamientos expedidos por la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XV.- Suscribir los contratos y convenios que celebre el Organismo de acuerdo a los lineamientos señalados por la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XVI.- Autorizar de conformidad con las bases generales expedidas por la Junta Directiva, la disposición de los activos fijos muebles que no correspondan a las operaciones propias del objeto del Organismo, o cuando dejen de ser de utilidad para el mismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XVII.- Proponer a la Junta Directiva, la integración de comisiones de trabajo que se formen para la dictaminación o encargo de asuntos especiales del propio Organismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XVIII.- Vigilar la aplicación de los fondos del Organismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XIX.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XX.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XXI.- Dictar las medidas pertinentes a fin de que las funciones del Organismo se realicen de manera articulada, congruente y eficaz;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XXII.- Elaborar los proyectos de planes y programas de trabajo del Organismo y someterlos a la aprobación de la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XXIII.- Actuar como Presidente del Consejo Técnico de adopciones del Organismo, en lo relativo a la tutela legítima a cargo de la Presidencia del Patronato del Organismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XXIV.- Promover las acciones correspondientes para actuar en el ámbito territorial del Estado, en defensa del menor, la mujer y la familia;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XXV.- Elaborar los Reglamentos Interiores de la Junta Directiva y del Patronato, y someterlos a la aprobación de la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+
+XXVI.- Las demás que le asigna el Reglamento Interior del Organismo, o le confiera la Junta Directiva.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
 
@@ -385,9 +565,15 @@ Para la vigilancia, control y evaluación del Organismo, la Secretaría de la Co
 
 El Comisario Público, que tendrá un Suplente, asistirá a las Sesiones del Organismo, con voz pero sin voto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 30.
 
-(DEROGADO, P.O. 29 DE JULIO DE 1994)
+Para el cumplimiento de las acciones en materia de defensa del menor, la mujer y la familia, el Organismo podrá investigar y, en su caso, requerir la presencia a quien corresponda, pudiendo imponer las siguientes medidas de apremio:
+
+I.- Multa hasta por el importe de 20 días de salario, tomando como base el salario mínimo vigente en la ciudad de Puebla al momento de imponerla;
+
+II.- Solicitar el auxilio de la Fuerza Pública, para lograr la presentación de la persona requerida.
 
 ###### ARTICULO 31.
 
@@ -405,15 +591,19 @@ En los Municipios cuya condición socio-económica y política no permita, a jui
 
 Las Unidades Administrativas D.I.F., del Ayuntamiento, se ajustarán a los objetivos y programas básicos del Sistema Estatal para el Desarrollo Integral de la Familia.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 34.
 
-El sistema estatal para el desarrollo integral de la familia, a través de la Presidencia del Patronato, designará a un Coordinador General de los Organismos Dif-Municipales, que se encargará de prestarles asistencia técnica y administrativa y convocarlos a las reuniones generales y regionales que sean necesarias, para la implementación, desarrollo y evaluación de los programas institucionales, acciones que permitirán establecer una efectiva coordinación de sus actividades y fijar los criterios, políticas y objetivos definidos por los sistemas nacional y estatal del dif.
+El Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Dirección General, designará a un Coordinador General de los organismos municipales de Desarrollo Integral de la Familia, que se encargará de prestarles asistencia técnica y administrativa, convocarlos a las reuniones generales y regionales que sean necesarias, para la implementación, desarrollo y evaluación de los programas institucionales, observando los criterios, políticas y objetivos definidos por los Sistemas de Desarrollo Integral de la Familia Nacional y Estatal.
 
 ###### ARTICULO 35.
 
 Las relaciones del Organismo con sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de los Poderes del Estado.
 
-Se considerarán trabajadores de confianza del Organismo a los integrantes del Patronato, al Presidente del mismo, al Director General, al Contralor Interno, al Coordinador General de los Organismos D.I.F.-Municipales y a los demás que realicen funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
+Se considerarán trabajadores de confianza del Organismo; al Director General, a los Subdirectores, Jefes de Departamento y demás del Organismo, que realicen funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general.
 
 ###### ARTICULO 36.
 
@@ -524,3 +714,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+El Titular de la Dependencia Coordinadora del Sector, de conformidad con el Acuerdo de Sectorización que emita el Gobernador del Estado, convocará, en un plazo no mayor de quince días contados a partir de la fecha de dicho Acuerdo de iniciación de vigencia del presente Decreto, a la constitución de la Junta Directiva.
+
+###### ARTICULO CUARTO.
+
+La documentación en poder del Patronato del Organismo, deberá entregarse en custodia al Secretario de la Junta Directiva.
