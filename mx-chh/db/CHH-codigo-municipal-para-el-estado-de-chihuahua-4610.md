@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1995-11-18"
+last_updated: "1995-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE SEPTIMEBRE DE 1999 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -117,9 +115,11 @@ Son elegibles para el cargo de miembros de un Ayuntamiento, de junta municipal y
 
 Las autoridades Municipales actuarán dentro de la esfera de competencia que les concedan los ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 11.
 
-El Estado se divide en los siguientes municipios:
+El Estado se divide en los siguientes Municipios:
 
 I.- AHUMADA, con cabecera en la ciudad denominada Miguel Ahumada y la sección municipal de Carrizal;
 
@@ -141,7 +141,9 @@ IX.- BOCOYNA, con cabecera en el pueblo del mismo nombre y las secciones municip
 
 X.- BUENAVENTURA, con cabecera en el pueblo de San Buenaventura y las secciones municipales de Flores Magón, El Progreso y Ejido Benito Juárez;
 
-XI.- CAMARGO, con cabecera en la ciudad denominada Santa Rosalía de Camargo.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+XI.- CAMARGO, con cabecera en la Ciudad denominada Santa Rosalía de Camargo, y la sección municipal de "La Perla";
 
 XII.- CARICHI, con cabecera en el pueblo del mismo nombre y la Sección Municipal de Ciénega de Ojos Azules;
 
@@ -2610,3 +2612,9 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día 1 de enero de 1996.
