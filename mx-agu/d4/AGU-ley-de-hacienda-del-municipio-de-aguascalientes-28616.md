@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1991-02-24"
+last_updated: "1991-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1991.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -101,9 +101,11 @@ Los créditos hacendarios a favor del Ayuntamiento, deberán liquidarse en los t
 
 También queda facultado para establecer mediante convenio, una cuota fija como importe del pago de un impuesto o un derecho que deba calcularse por medio de tasa, siempre y cuando no sea posible su liquidación en los términos previstos por esta Ley o cuando no compense el sostenimiento del interventor, inspector o recaudador que sea indispensable designar.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 12.
 
-El Director de Finanzas queda facultado para aplicar el procedimiento económico que previene el Código Fiscal del Estado.
+El Tesorero y los Directores de los organismos fiscales autónomos quedan facultados para aplicar el procedimiento económico coactivo que previene el Código Fiscal del Estado.
 
 ###### ARTICULO 13.
 
@@ -131,11 +133,11 @@ IV.- Los Decretos que autoricen ingresos extraordinarios o especiales; y
 
 V.- Los reglamentos que organicen los servicios administrativos necesarios para la recaudación y control de los ingresos y egresos.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 16.
 
-Son Autoridades Fiscales del Municipio de Aguascalientes:
+Son autoridades fiscales del Municipio:
 
 I.- El Ayuntamiento;
 
@@ -147,7 +149,9 @@ IV.- El síndico Hacendario;
 
 V.- El Secretario de Finanzas;
 
-VI.- El Delegado Municipal;
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 1991)</small>
+
+VI.- Los Directores de los organismos fiscales autónomos;
 
 VII.- El comisario Municipal;
 
@@ -373,17 +377,23 @@ V.- En general, ejecutar las facultades que expresamente les reconozcan las disp
 
 Previo acuerdo respectivo, el Secretario de Finanzas puede delegar sus funciones de inspección, intervención y recaudación al servidor o servidores públicos que considere conveniente.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 24.
 
-El Director de Finanzas está facultado para ordenar la verificación de los datos que los contribuyentes estén obligados a proporcionarle, para cuantificar concretamente el monto del crédito fiscal del caso.
+El Tesorero está facultado para ordenar la verificación de los datos que los contribuyentes estén obligados a proporcionarle, para cuantificar concretamente el monto del crédito fiscal del caso.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 25.
 
-Independientemente de la facultad de aplicar el procedimiento económico-coactivo, el Director de Finanzas está facultado para aplicar las medidas de apremio necesario para lograr la liquidación de los créditos fiscales. Tales medidas consisten en la amonestación, el apercibimiento, la multa y clausura o cancelación.
+Independientemente de la facultad de aplicar el procedimiento económico-coactivo, el Tesorero está facultado para aplicar las medidas de apremio necesario para lograr la liquidación de los créditos fiscales. Tales medidas consisten en la amonestación, el apercibimiento, la multa y clausura o cancelación.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 26.
 
-Los acuerdos tomados por el Director de Finanzas con base en las facultades expresas que le otorga la Ley, tiene carácter obligatorio para los contribuyentes.
+Los acuerdos tomados por el Tesorero con base en las facultades expresas que le otorga la Ley, tiene carácter obligatorio para los contribuyentes.
 
 ### CAPITULO III. De la Obligación Fiscal y sus Modalidades
 
@@ -457,11 +467,15 @@ I.- Las obligaciones fiscales de carácter anual, deberán liquidarse dentro de 
 
 II.- Los créditos fiscales que deban liquidarse en forma mensual deberán cubrirse del primero al quince de cada mes;
 
-III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública, deberán liquidar sus créditos fiscales diariamente al recaudador que al efecto designe el Director de Finanzas;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 1991)</small>
+
+III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública, deberán liquidar sus créditos fiscales diariamente al recaudador que al efecto designe el Tesorero;
 
 IV.- Los créditos originados por Derechos a Prestación de servicio público dado por la autoridad, deberán pagarse por anticipado salvo aquellos en que su monto sólo pueda determinarse después de recibida la prestación; y
 
-V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Director de Finanzas, en el momento en que concluya cada función o período de espectáculo o diversión.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 1991)</small>
+
+V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Tesorero, en el momento en que concluya cada función o período de espectáculo o diversión.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1990)</small>
 
@@ -525,9 +539,11 @@ X.- Las demás personas que señalen las leyes fiscales.
 
 En los casos de responsabilidad solidaria los responsables quedan obligados a cubrir la totalidad de los créditos fiscales y por lo tanto el fisco puede exigir en cualquiera de ellos simultáneamente o separadamente el cumplimiento dentro de las obligaciones fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 37.
 
-El Director de Finanzas está facultado para exigir a los contribuyentes que garanticen el pago de los créditos fiscales, cuando exista temor fundado de que posteriormente no se haga.
+El Tesorero está facultado para exigir a los contribuyentes que garanticen el pago de los créditos fiscales, cuando exista temor fundado de que posteriormente no se haga.
 
 Si requerido para garantizar, el contribuyente no otorga la garantía del caso en un plazo de tres días, se procederá a embargar precautoriamente, exclusivamente como medio de garantía.
 
@@ -773,7 +789,7 @@ DEL OBJETO
 
 Es objeto de este impuesto:
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al construir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al construir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
 II.- La compra-venta en la que el vendedor se reserva la propiedad, aun cuando la transferencia de ésta opere con posterioridad;
 
@@ -1045,9 +1061,11 @@ Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la vent
 
 #### SECCION SEXTA. De la Responsabilidad Solidaria
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 93.
 
-Los propietarios de los inmuebles donde se autorice a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal, y en su caso el comprobante de garantía que el Director de Finanzas les expida.
+Los propietarios de los inmuebles donde se autorice a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal, y en su caso el comprobante de garantía que el Tesorero les expida.
 
 > <small>(DEROGADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
@@ -1199,9 +1217,11 @@ Los propietarios o poseedores, cualquiera que sea su título, de un predio o con
 
 Los notarios o funcionarios públicos con injerencia en operaciones jurídicas de traslado de dominio, no deberán autorizarlo sin que previamente se muestre el recibo de pago por el servicio de agua potable.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 115.
 
-Las personas físicas o morales, que en los términos del Bando Municipal, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Director de Finanzas y surtirá los efectos de contrato de prestación de servicios, con la implicaciones jurídicas del caso. Debiendo además, liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el Artículo 15 de la Ley de Ingresos.
+Las personas físicas o morales, que en los términos del Bando Municipal, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Tesorero y surtirá los efectos de contrato de prestación de servicios, con la implicaciones jurídicas del caso. Debiendo además, liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el Artículo 15 de la Ley de Ingresos.
 
 ### CAPITULO V. De Servicios por la Conexión de Albañales
 
@@ -1610,5 +1630,9 @@ P.O. 21 DE OCTUBRE DE 1990.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 24 DE FEBRERO DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 3 DE MARZO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
