@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-09-06"
+last_updated: "2004-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -988,7 +988,7 @@ I. Que el conductor hubiese realizado la acción u omisión en estado de ebrieda
 
 II. Que el conductor haya abandonado a la víctima, o
 
-III. Que la lesión sea consecuencia de la conducta culposa del personal de transporte escolar, de pasajeros, de carga, de servicio público o de servicio al público o se trate de servicio de personal de alguna institución o empresa.
+III. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 ### CAPÍTULO V. ABORTO
 
@@ -1040,9 +1040,9 @@ No se impondrá pena alguna a quien por culpa ocasione lesiones u homicidio en a
 
 Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito de vehículos, se impondrá la mitad de las penas previstas en los artículos 123 y 130 respectivamente, en los siguientes casos:
 
-I. Se trate de vehículos de pasajeros, carga, servicio público o servicio al público;
+I. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
-II. Se trate de transporte escolar, o servicio de transporte de personal de alguna institución o empresa;
+II. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 III. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
 
@@ -2096,9 +2096,9 @@ Cuando el delito se cometa culposamente, en las hipótesis previstas en este art
 
 Cuando los daños se ocasionen culposamente con motivo de tránsito de vehículos, se impondrá la mitad de las penas previstas en el artículo 239 de este Código, en los siguientes casos:
 
-I. Se trate de vehículos de pasajeros, carga, servicio público o servicio al público;
+I. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
-II. Se trate de transporte escolar, o servicio de transporte de personal de alguna institución o empresa;
+II. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 III. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
 
@@ -3455,3 +3455,9 @@ El presente decreto entrará en vigor a los noventa días siguientes a su public
 ###### ARTÍCULO TERCERO.
 
 Las presentes disposiciones se aplicarán a todos los procedimientos judiciales y administrativos en trámite ante las autoridades correspondientes y de acuerdo a lo dispuesto en el artículo 94 de Código de Procedimientos Civiles del DF; los interesados podrán promover los beneficios que le concede la presente Ley.
+
+G.O. 13 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. Remítase al Jefe de Gobierno para su debida Promulgación y Publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
