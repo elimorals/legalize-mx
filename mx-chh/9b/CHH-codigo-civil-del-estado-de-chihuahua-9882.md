@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2001-09-29"
+last_updated: "2002-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1681,6 +1681,8 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
+### CAPITULO V. DE LA ADOPCION
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 A) DISPOSICIONES GENERALES
@@ -1751,34 +1753,6 @@ IV.- El Ministerio Público en todos los casos.
 
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
-### CAPITULO V. DE LA ADOPCION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-D) ADOPCION INTERNACIONAL
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 B) ADOPCION SIMPLE
@@ -1834,6 +1808,32 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+D) ADOPCION INTERNACIONAL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
@@ -5551,7 +5551,9 @@ Cuidará el Juez de que las medidas que dicte no ataquen al pudor, ni a la liber
 
 1552.- Los efectos de la aceptación o repudiación de la herencia se retrotraen siempre a la fecha de la muerte de la persona a quien se hereda.
 
-1553.- La repudiación debe ser expresa y hacerse por escrito, ratificándose ante el propio Juez; o por medio de instrumento público otorgado ante Notario, cuando el heredero no se encuentre en el lugar del juicio.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2002)</small>
+
+1553.- La repudiación debe ser expresa y hacerse por escrito, la cual deberá ratificarse ante el propio Juez o ante Notario Público.
 
 1554.- La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
 
@@ -10174,3 +10176,7 @@ P.O. 29 DE SEPTIEMBRE DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ENERO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
