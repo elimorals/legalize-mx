@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-contaduria-mayor-de-hacienda-del-estado-de-nuevo-7477
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-08"
-last_updated: "1996-01-26"
+last_updated: "2002-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de mayo de 1992.
 
@@ -87,7 +87,7 @@ I.- Verificar y evaluar si las entidades señaladas en el Artículo 2o. Fracció
 
 a) Realizaron su actividad financiera en lo general y en lo particular con estricto apego a la Ley de Ingresos y de Egresos del Estado y la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, así como a las Leyes de Ingresos y Presupuestos de Egresos de los Municipios, la Ley Orgánica de la Administración Pública Municipal y demás ordenamientos aplicables en la materia.
 
-b) Ejercieron correcta y estrictamente sus presupuestos conforme a los programas y sub-programas aprobados.
+b) Ejercieron correcta y estrictamente sus presupuestos conforme a los programas y sub - programas aprobados.
 
 c) Ejecutaron los programas de inversión en los términos y montos aprobados y de conformidad con sus partidas; y
 
@@ -235,9 +235,9 @@ VI.- Elaborar el Reglamento Interior de la Contaduría Mayor de Hacienda, y some
 
 VII.- Proponer al Congreso del Estado, la práctica de auditorías, inspecciones y trabajos de investigación adicionales a los contenidos en los programas formulados por la Contaduría Mayor de Hacienda.
 
-### CAPITULO TERCERO. DE LA REVISION DE LA CUENTA PUBLICA Y LA FISCALIZACION DE LA GESTION
+### CAPITULO TERCERO
 
-FINANCIERA DE LAS ENTIDADES.
+DE LA REVISION DE LA CUENTA PUBLICA Y LA FISCALIZACION DE LA GESTION FINANCIERA DE LAS ENTIDADES.
 
 ###### ARTICULO 13.
 
@@ -261,9 +261,9 @@ Para el inicio y desahogo de las revisiones que sean ordenadas, la Contaduría M
 
 Dentro de los tres primeros meses de cada año el Ejecutivo del Estado y las entidades a que se refiere el artículo 2o. fracción IV, incisos de la a) a f) de esta ley, presentarán sus cuentas públicas al Congreso del Estado o a la Diputación Permanente en los términos previstos en la Constitución Política del Estado y en las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2002)</small>
 
-El Congreso del Estado o la Diputación Permanente turnará a la Comisión de Vigilancia, las cuentas públicas así como los informes trimestrales de origen y aplicación de los recursos públicos, para que los remita a la Contaduría Mayor de Hacienda y se elabore el informe previo, que deberá presentarse dentro del mes siguiente a su recepción, incluyendo comentarios generales sobre su contenido, si su presentación esta de acuerdo con los principios generales de contabilidad aplicables y si se cumplieron las formalidades exigidas para tal efecto.
+El Presidente del Congreso del Estado, o en su caso, el Presidente de la Diputación Permanente turnará a la Comisión de Vigilancia las cuentas públicas así como los informes trimestrales de origen y aplicación de los recursos públicos, para que los remita a la Contaduría Mayor de Hacienda y se elabore el informe previo, que deberá presentarse dentro del mes siguiente a su recepción, incluyendo comentarios generales sobre su contenido, si su presentación esta de acuerdo con los principios generales de contabilidad aplicables y si se cumplieron las formalidades exigidas para tal efecto.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -295,9 +295,17 @@ Para los efectos del párrafo anterior, la Contaduría mayor de Hacienda tambié
 
 Una vez recibido el informe definitivo, se procederá a su estudio y análisis, en los términos contemplados en la legislación interior del Congreso del Estado, hecho lo cual se solicitará a la Diputación Permanente se convoque al Pleno del Congreso para que se analice su contenido y en su caso, sea aprobada la Cuenta Pública correspondiente.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2002)</small>
+
+Los informes definitivos de las cuentas públicas deberán ser dictaminados por el Congreso del Estado, dentro del año siguiente a la fecha límite para la presentación de las mismas.
+
 ###### ARTICULO 16.
 
 La revisión que practique la Contaduría Mayor de Hacienda comprenderá, además de la conformidad de las partidas de ingresos y egresos, una revisión legal, económica, financiera y contable del ingreso y del gasto públicos, y podrá verificar la exactitud y la justificación de las cantidades erogadas, así como si los cobros y pagos hechos se efectuaron de acuerdo con los precios y tarifas autorizados o de mercado, pudiendo ejercer sus atribuciones para fiscalizar, controlar y evaluar a las entidades a partir de la presentación de la cuenta pública y hasta que no se hayan extinguido las facultades o prescrito las acciones que pudieran ejercitarse en esta materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JUNIO DE 2002)</small>
+
+En los términos de la fracción XIII del Artículo 63 de la Constitución Política del Estado, el Pleno del Congreso, por conducto de la Comisión de Vigilancia, podrá en cualquier momento solicitar a la Contaduría Mayor de Hacienda, la elaboración de auditoría especiales, respecto de los rubros que integran las cuentas públicas, cuando existan indicios que hagan presumir la utilización indebida de recursos públicos.
 
 ###### ARTICULO 17.
 
@@ -434,3 +442,7 @@ UNICO:- El presente Decreto entrará en vigor para la revisión de la Cuenta Pú
 P.O. 26 DE ENERO DE 1996.
 
 Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JUNIO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor cuando se cumpla el supuesto a que se refiere el Artículo Transitorio Tercero del Decreto número 49 aprobado por el Congreso del Estado de Nuevo León en fecha 26 de marzo de 2001.
