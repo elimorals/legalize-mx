@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-10757"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-26"
-last_updated: "1998-01-20"
+last_updated: "1998-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 26 de mayo de 1989.
 
@@ -85,7 +85,9 @@ III.- El Supremo Tribunal de Justicia;
 
 IV.- La Contaduría Mayor de Hacienda del H. Congreso del Estado;
 
-V.- La Coordinación General de Contraloría del Estado;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+V.- La Contraloría General del Estado;
 
 VI.- Las Secretarías y Dependencias del Ejecutivo;
 
@@ -97,31 +99,37 @@ IX.- Los Tribunales del trabajo en los términos de la legislación respectiva; 
 
 X.- Las demás que determinen las Leyes.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 4.
 
-Se entiende por juicio político, el procedimiento mediante el cual el Congreso del Estado juzga y sanciona a los servidores públicos a que alude el Artículo 103 de la Constitución Política del Estado, que en el desempeño de su cargo o con motivo del mismo incurran en actos u omisiones que perjudiquen el buen despacho de los intereses públicos fundamentales.
+Se entiende por juicio político, el procedimiento mediante el cual el Congreso del Estado juzga y sanciona a los servidores públicos a que alude el artículo 126 de la Constitución Política del Estado, que en el desempeño de su cargo o con motivo del mismo incurran en actos u omisiones que perjudiquen el buen despacho de los intereses públicos fundamentales.
 
 ###### ARTICULO 5.
 
 Se entienden como faltas administrativas, los actos u omisiones de los servidores públicos en general que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de las obligaciones propias de su empleo, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 6.
 
-Corresponde al Congreso del Estado conocer el procedimiento y proveer la aplicación de las sanciones derivadas de juicio político a los Servidores Públicos, en los términos a que se refiere el Artículo 103 de la Constitución Política del Estado.
+Corresponde al Congreso del Estado conocer el procedimiento y proveer la aplicación de las sanciones derivadas de juicio político a los Servidores Públicos, en los términos a que se refiere el artículo 126 de la Constitución Política del Estado.
 
 ###### ARTICULO 7.
 
 En caso de declaración de procedencia por los delitos a que se refiere el párrafo quinto del Artículo 111 de la Constitución Federal, imputables a Servidores Públicos Estatales, corresponde al Congreso del Estado proveer, en los términos que señala la Constitución Política Federal, la Constitución del Estado y esta Ley.
 
+(REFORMADO, P.O. 26 DE MAYO DE 1998) (F. DE E. 24 DE MARZO DE 1999)
+
 ###### ARTICULO 8.
 
-El Congreso del Estado también conocerá de las declaraciones de procedencia por delitos del orden común imputables a los Servidores Públicos a que se refiere el Artículo 104 de la Constitución Política.
+El Congreso del Estado también conocerá de las declaraciones de procedencia por delitos del orden común imputables a los Servidores Públicos a que se refiere el artículo 127 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 9.
 
-Cuando los actos u omisiones, materia de las acusaciones, queden comprendidas en más de uno de los casos sujetos a sanción y previstos en el artículo 102 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las Autoridades a que alude el artículo 3o. de esta ley, turnar las denuncias a quien deba conocer de ellas.
+Cuando los actos u omisiones, materia de las acusaciones, queden comprendidas en más de uno de los casos sujetos a sanción y previstos en el artículo 125 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo 3o. de esta ley, turnar las denuncias a quien deba conocer de ellas.
 
 No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
@@ -131,11 +139,13 @@ JUICIO POLITICO Y DECLARACIÓN DE PROCEDENCIA
 
 ### CAPITULO I. SUJETOS, CAUSAS DE JUICIO POLÍTICO Y SANCIONES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 10.
 
-Son sujetos de juicio político los servidores públicos que se mencionan en el primer párrafo del Artículo 103 de la Constitución Política del Estado.
+Son sujetos de juicio político los Servidores Públicos que se mencionan en el primer párrafo del artículo 126 de la Constitución Política del Estado.
 
-El Gobernador del Estado, durante el ejercicio de su cargo, sólo será responsable en los casos a que se refiere el segundo párrafo del Artículo 101 de la Constitución Estatal, sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+El Gobernador del Estado, durante el ejercicio de su cargo, sólo será responsable en los casos a que se refiere el segundo párrafo del artículo 124 de la Constitución Política Estatal, sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 11.
 
@@ -307,9 +317,11 @@ Si la resolución es absolutoria el servidor público enjuiciado continuará en 
 
 En caso contrario, la resolución decretará la destitución del cargo y el período de inhabilitación, en su caso, para el ejercicio de la función pública.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 26.
 
-En las hipótesis a que se refieren los Artículos 103 párrafo cuarto y 105 inciso a) de la Constitución Política del Estado, recibidas las constancias por el Congreso, se turnarán de inmediato a la Comisión instructora correspondiente, la que procederá sin demora a notificar personalmente al interesado, poniendo a su disposición el expediente en las oficinas del Congreso y concediéndole un término improrrogable de cinco días hábiles para que exponga lo que a su derecho convenga, y aporte, en su caso, las pruebas adicionales que estime pertinentes.
+En las hipótesis a que se refieren los artículos 126 párrafo cuarto y 128 inciso a) de la Constitución Política del Estado, recibidas las constancias por el Congreso, se turnarán de inmediato a la Comisión Instructora correspondiente, la que procederá sin demora a notificar personalmente al interesado, poniendo a su disposición el expediente en las oficinas del Congreso y concediéndole un término improrrogable de cinco días hábiles para que exponga lo que a su derecho convenga y aporte, en su caso, las pruebas adicionales que estime pertinentes.
 
 ###### ARTICULO 27.
 
@@ -319,11 +331,11 @@ Transcurrido el término a que se refiere el artículo anterior, se procederá c
 
 EN RESPONSABILIDAD PENAL
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 28.
 
-Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales respectivos, para el ejercicio de la acción penal en contra de alguno de los Servidores Públicos a que se refiere el primer párrafo del artículo 104 de la Constitución Política del Estado, se actuará en lo pertinente de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante el Congreso del Estado.
+Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales respectivos, para el ejercicio de la acción penal en contra de alguno de los Servidores Públicos a que se refiere el primer párrafo del artículo 127 de la Constitución Política del Estado, se actuará en lo pertinente de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante el Congreso del Estado.
 
 La Comisión Jurisdiccional determinará si subsiste el Fuero Constitucional cuya remoción se solicita, y si ha lugar a proceder en contra del inculpado, y en consecuencia a la separación de su encargo. Si a juicio de la Comisión la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si se continúa, suspende o desecha el procedimiento, sin perjuicio de reanudarlo, si posteriormente aparecen motivos que lo justifiquen.
 
@@ -367,9 +379,11 @@ Si el Congreso del Estado declara que ha lugar a proceder contra el presunto res
 
 Para proceder penalmente contra los servidores públicos a que se refiere el quinto párrafo del Artículo 111 de la Constitución General de la República, el Congreso del Estado, al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente procederá conforme a sus atribuciones y en los términos de la Constitución del Estado, a declarar si se confirma la declaratoria del Congreso de la Unión y consecuentemente el retiro de la inmunidad que la propia Constitución del Estado otorga a tales servidores públicos, a fin de ser enjuiciados como legalmente hubiere lugar.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 35.
 
-Cuando se siga el proceso penal a un servidor público de los mencionados en el Artículo 104 de la Constitución del Estado, sin haberle satisfecho el procedimiento al que se refieren los artículos anteriores, la Secretaría del Congreso del Estado o de su Comisión Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+Cuando se siga el proceso penal a un Servidor Público de los mencionados en el artículo 127 de la Constitución del Estado, sin haberle satisfecho el procedimiento al que se refieren los artículos anteriores, la Secretaría del Congreso del Estado o de su Comisión Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
 ### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS
 
@@ -435,9 +449,11 @@ No podrán votar en ningún caso los Diputados que hubiesen presentado la imputa
 
 Para todo lo no previsto en esta Ley, respecto a discusiones y votaciones, se observarán, en lo conducente, las reglas que establecen la Constitución Política del Estado, la Ley Orgánica y el Reglamento Interior del Congreso del Estado para discusión y votación de las leyes. En todo caso, las votaciones, deberán ser nominales, para formular, aprobar o reprobar las conclusiones o dictámenes de la Comisión y para resolver incidental o definitivamente en el procedimiento.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 46.
 
-Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en los Artículos 103 y 104 de la Constitución Política del Estado, se presentare nueva denuncia en su contra, se procederá respecto a ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
+Cuando en el curso del procedimiento incoado a un Servidor Público de los mencionados en los Artículos 126 y 127 de la Constitución Política del Estado, se presentare nueva denuncia en su contra, se procederá respecto a ella con arreglo a la ley, hasta agotar la instrucción de los diversos procedimientos, procurando de ser posible, la acumulación procesal.
 
 Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
@@ -553,11 +569,13 @@ XXVII.- Las demás que les impongan las leyes y reglamentos.
 
 Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones a que se refiere el artículo, dando lugar a la instrucción del procedimiento ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 52.
 
-Para los efectos de esta Ley se entenderá por Contraloría: La Coordinación General de Contraloría del Estado.
+Para los efectos de esta ley se entenderá por Contraloría: La Contraloría General del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 Para los mismos efectos, en el Gobierno del Estado, se entenderá por superior jerárquico al Titular de la dependencia correspondiente, y, en el caso de las entidades paraestatales al director general o su equivalente, el cual aplicará las sanciones cuya imposición se le atribuya; en los mismos términos en el Gobierno Municipal se entenderá por superior jerárquico al Ayuntamiento, quien aplicará las sanciones cuya imposición se le atribuyen, a través del Presidente Municipal.
 
@@ -679,7 +697,9 @@ En los Ayuntamientos, las denuncias serán recibidas por la Oficina respectiva d
 
 El superior jerárquico enviará a la Contraloría copia de las denuncias, cuando se trate de infracciones graves o cuando, en concepto y habida cuenta de la naturaleza de los hechos denunciados, la Contraloría deba conocer del caso o participar en las investigaciones.
 
-En caso de que las Dependencias no cuenten con órganos de control interno, las funciones enunciadas en los párrafos que antecede, serán asumidas por la Dirección de Contraloría del Gobierno del Estado.
+> <small>(REFORMADO ULTIMO PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+En caso de que las Dependencias no cuenten con órganos de control interno, las funciones enunciadas en los párrafos que anteceden, serán asumidas por la Contraloría General del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1010,3 +1030,9 @@ SEGUNDO.- Las declaraciones patrimoniales que se efectúen con posterioridad a l
 P.O. 20 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
