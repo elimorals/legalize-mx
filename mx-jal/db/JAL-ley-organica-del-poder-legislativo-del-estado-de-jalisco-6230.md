@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1997-12-23"
+last_updated: "1998-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1998.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -106,6 +106,44 @@ II. Los diputados electos reunidos elegirán a mayoría de votos emitidos por me
 III. El escrutinio y la declaratoria correspondiente, serán hechos por la Comisión Instaladora, esta última por conducto de su Presidente ;
 
 IV. El titular de la Comisión de Tesorería de la Legislatura saliente hará entrega virtual y por riguroso inventario de los muebles, enseres y demás bienes del congreso, al diputado electo para presidir el Primer Período Ordinario de Sesiones de la Legislatura;
+
+V. El presidente de la Comisión Instaladora invitará a los integrantes de la mesa directiva, para que ocupen sus lugares en el presidium, pasando a ocupar los lugares que ex profeso se les reserve;
+
+VI. El Presidente del Congreso rendirá la protesta de ley ante la Asamblea, en los siguientes términos:
+
+"Protesto cumplir y, en su caso, hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las leyes, reglamentos y acuerdos que de una y otra emanen, así como desempeñar leal y eficazmente el cargo de diputado que el pueblo de Jalisco me ha confiado, mirando en todo por el bien y prosperidad del Estado. Si así no lo hiciere, que el Estado y la Nación me lo demanden".
+
+Los concurrentes deberán estar de pie al hacer su propuesta (sic) el presidente;
+
+VII. A continuación el presidente tomará la protesta a los demás miembros de la Asamblea, quienes permanecerán de pie; en los términos siguientes:
+
+"¿Protestan cumplir y, en su caso, hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las leyes, reglamentos y acuerdos que de una y otra emanen, así como desempeñar leal y eficazmente el cargo de diputado que el pueblo de Jalisco les ha conferido mirando en todo por el bien y prosperidad del Estado?"
+
+A lo que contestarán:
+
+"Sí protesto".
+
+Dirá entonces el presidente: "Si así no lo hicieran, que el Estado y la Nación se los demanden"; y
+
+VIII. El Presidente dará por concluida la junta y citará verbalmente a los diputados electos que estén presentes y por escrito, a los que no hayan asistido, a la Sesión Solemne que se verificará a las diez horas del día primero de febrero siguiente,
+
+Los diputados que no hubiese (sic) asistido a esta sesión, deberán rendir la protesta de ley posteriormente, en la forma ya descrita, en la primera sesión a que concurran.(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)
+
+###### Artículo 6.
+
+La celebración de la junta preparatoria se sujetará estrictamente y sin interrupción al orden siguiente:
+
+I. La Comisión Instaladora, por conducto de su presidente, hará la declaratoria de que existe el quórum que en su caso corresponda, según lo precisan los dos artículos que preceden;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1997)</small>
+
+II. Los diputados electos reunidos elegirán a mayoría de votos emitidos por medio de cédulas, a los integrantes de la Mesa Directiva;
+
+III. El escrutinio y la declaratoria correspondiente, serán hechos por la Comisión Instaladora, esta última por conducto de su Presidente ;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
+
+IV. El titular de la Comisión de Administración de la Legislatura saliente hará entrega virtual y por riguroso inventario de los muebles, enseres y demás bienes del Congreso, al Diputado electo para presidir el primer mes de sesiones de la Legislatura;
 
 V. El presidente de la Comisión Instaladora invitará a los integrantes de la mesa directiva, para que ocupen sus lugares en el presidium, pasando a ocupar los lugares que ex profeso se les reserve;
 
@@ -393,9 +431,9 @@ XI. Trabajo y Previsión Social;
 
 XII. Peticiones;
 
-XIII. Tesorería;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
-7
+XIII. Administración;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -453,7 +491,7 @@ XXVIII. Asuntos Indígenas;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
 
-XXIX. Cultura; y
+XXIX.Cultura; y
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -621,9 +659,11 @@ Corresponde a la Comisión de Trabajo y Previsión Social, el conocimiento de lo
 
 Corresponde a la Comisión de Peticiones, la atención de los asuntos no reservados expresamente a las demás Comisiones designadas por el Congreso y la de los ocursos de particulares o agrupaciones privadas, que expongan problemas que les afecten.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 44.
 
-Corresponde a la Comisión de Tesorería:
+Corresponde a la Comisión de Administración:
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -641,9 +681,9 @@ c) Fijar y coordinar todo lo relacionado al precio de las formas valoradas que e
 
 II. Formar inventario pormenorizado de los muebles y enseres del Congreso y sus dependencias y sus dependencias y cuidar de la conservación de los mismos;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
-III. Proponer al Congreso la conveniencia o necesidad de la adquisición de muebles, útiles o servicios, sin poder realizarlo hasta haber obtenido la autorización respectiva;
+III. Proponer al Congreso la conveniencia o necesidad de la adquisición de muebles, útiles o servicios, sin poder realizarlo hasta haber obtenido la autorización respectiva, cuando no esté contemplado por el Presupuesto de Egresos;
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
 
@@ -656,6 +696,10 @@ V. Proponer al Congreso, el nombramiento de los empleados de la Secretaría del 
 VI. Remitir y rendir cuentas de las sanciones administrativas impuestas por el Congreso a sus empleados por faltas en su desempeño, al Instituto Jalisciense de Asistencia Social; y
 
 VII. Formular, dentro de la segunda quincena de noviembre, el presupuesto de egresos del Congreso que regirá durante el siguiente año.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
+En esta Comisión estarán representados todos los grupos parlamentarios en forma paritaria y sus decisiones deberán tomarse por acuerdo unánime de sus integrantes requisito sin el cual carecerán de validez.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -801,9 +845,11 @@ I. El conocimiento de los asuntos referentes a la normatividad de las acciones r
 
 II. La normatividad que se derive de la programación sectorial, regional y especial que de esta se derive, incluyendo los proyectos específicos que planeen realizar.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 48.
 
-Serán Comisiones Colegiadas todas, con el número de diputados que acuerde la Asamblea, con excepción de la de Tesorería que será unitaria.
+Serán Comisiones Colegiadas todas, con el número de diputados que acuerde la Asamblea o prevea esta Ley.
 
 ###### Artículo 49.
 
@@ -813,9 +859,11 @@ La integración de las Comisiones Especiales se hará en la forma prevista por e
 
 Presidirán las Comisiones Colegiadas quienes determine la Asamblea en la sesión a que se refiere el Artículo 26, de esta Ley. El resto de los integrantes, fungirán con el carácter de vocales.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 51.
 
-El Presidente de cada Comisión y el Diputado Tesorero, serán responsables de los documentos y expedientes de negocios que se les turnen para su estudio; por tanto, deberán firmar en el libro de registro que para el efecto lleve el Oficial Mayor, el recibo de ellos y devolver los que en su poder se encuentren sin despachar, al finalizar un periodo de sesiones.
+El presidente de cada comisión será responsable de los documentos y expedientes de negocios que se les turnen para su estudio; por tanto, deberán firmar en el libro de registro que para el efecto lleve el Oficial Mayor, el recibo de ellos y devolver los que en su poder se encuentren sin despachar, al finalizar las funciones de la Legislatura.
 
 ###### Artículo 52.
 
@@ -1225,9 +1273,13 @@ Cualquiera de los Diputados podrá pedir que la Secretaría lea en voz alta los 
 
 La votación será por cédula, cuando se trate de elegir personas, cuando así lo determine esta Ley o cuando lo acuerde la Asamblea. Para tal fin, cada Diputado depositará su cédula en el ánfora correspondiente, que presentará para ese efecto, el Oficial Mayor del Congreso o el empleado que el Presidente designe. Obtenida la votación, el Presidente contará las cédulas y la Secretaría certificará que el número de éstas, depositado en el ánfora, corresponde al de los asistentes. Si no hubiere coincidencia en lo anterior, se repetirá la votación hasta obtener ese resultado. A continuación, los Secretarios leerán el contenido de las cédulas en voz alta, de una por una y anotarán el resultado de la votación. Enseguida darán cuenta al Presidente, para que haga la declaratoria que corresponda. Los Diputados emitentes, podrán o no firmar la cédula que contenga su voto.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 128.
 
-Cuando hubiere empate en cualquier tipo de votación, se repetirá ésta hasta por dos veces; si no obstante el empate continuare, el Presidente, al hacer valer el voto de calidad que le asiste, deberá firmar la cédula que contenga su voto y definir de esta manera el resultado de la votación.
+Cuando hubiere empate en cualquier tipo de votación, se realizará una segunda y, si persiste aquél, se suspenderá la votación durante el plazo que estime razonable la Presidencia. Transcurrido el plazo, se repetirá la votación y, si de nuevo se produjese empate, se entenderá desechado el dictamen o proposición de que se trate.
+
+En el caso de la votación para elegir Directiva, si después de agotado el procedimiento anterior subsiste el empate, se elegirá por sorteo.
 
 ###### Artículo 129.
 
@@ -1365,15 +1417,17 @@ P.O. 16 DE ENERO DE 1992)
 
 ### CAPITULO UNICO. De la Secretaría del Congreso
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 143.
 
-Los empleos de la Secretaría del Congreso, serán desempeñados por las personas que éste designe, a proposición de cualquiera de los Diputados, previo dictamen de la Comisión de Tesorería. Dichos empleos serán en el número y categoría que señala el Presupuesto de Egresos de la Entidad, pero siempre será obligatorio el que haya un Oficial Mayor.
+Los empleos de la Secretaría del Congreso serán desempeñados por las personas que éste designe, a proposición de cualquiera de los diputados, previo dictamen de la Comisión de Administración. Dichos empleos serán en el número y categoría que señala el presupuesto de Egresos del Poder Legislativo, pero siempre será obligatorio el que haya un Oficial Mayor.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 144.
 
-Corresponde a la Comisión de Tesorería y a la Secretaría del Congreso, el control y la vigilancia de los empleados de la Secretaría, así como la proposición de las sanciones a que se hagan acreedores, por faltas en su desempeño.
+Corresponde a la Comisión de Administración y a la Secretaría del Congreso, el control y la vigilancia de los empleados de la Secretaría, así como la proposición de las sanciones a que se hagan acreedores, por faltas en su desempeño.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
@@ -1383,17 +1437,19 @@ Son funciones específicas de la Oficialía Mayor:
 
 I. Formular las actas de las sesiones y presentarlas para revisión a los Diputados Secretarios;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
-II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados, así como con el previo acuerdo de la Comisión de Responsabilidades, coordinar todo lo relativo a las declaraciones de situación patrimonial;
+II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Administración, las labores de los empleados; así como con el previo acuerdo de la Comisión de Responsabilidades, coordinar todo lo relativo a las declaraciones de situación patrimonial;
 
 III. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1977)</small>
 
 IV. Cuidar de que se cumplimenten los acuerdos del Congreso o de la Presidencia, en su caso, que no requieran el desempeño de los secretarios o de los integrantes de las Comisiones;
 
-V. Dar cuenta a la Asamblea de las faltas cometidas por los empleados con motivo o en el desempeño de sus funciones, por conducto del Diputados Tesorero, para que aquella acuerde lo conducente;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
+
+V. Dar cuenta a la Asamblea de las faltas cometidas por los empleados con motivo o en el desempeño de sus funciones, por conducto del diputados integrantes de la Comisión de Administración, para que aquélla acuerde lo conducente;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -1425,9 +1481,9 @@ XII. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y de
 
 XIII. Formar el inventario pormenorizado de los bienes inmuebles, muebles y enseres del Congreso y sus dependencias y cuidar de la conservación de los mismos;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1998)</small>
 
-XIV. Ejecutar las instrucciones de las comisiones de Biblioteca, Archivo y Editorial y de Tesorería, para realizar obras editoriales del Congreso y administrar la librería;
+XIV. Ejecutar las instrucciones de las comisiones de Biblioteca, Archivo y Editorial y de la Comisión de Administración, para realizar obras editoriales del Congreso y administrar la librería;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
@@ -1591,9 +1647,21 @@ QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1997)
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 177.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 1997)
+El Congreso del Estado, por conducto de la Comisión de Administración, para el buen funcionamiento de la administ6ración, por incumplimiento de las obligaciones a que se refiere el artículo anterior, podrá imponer las siguientes sanciones:
+
+I. Amonestación por escrito;
+
+II. Suspensión en el empleo, cargo o comisión, hasta por treinta días;
+
+III. Destitución; y
+
+IV. Destitución con inhabilitación, hasta por seis años, para desempeñar empleos, cargos o comisiones en el servicio público.
+
+La Comisión de Administración podrá autorizar al Oficial Mayor, para aplicar la primera de las sanciones señaladas.
 
 ###### Artículo 178.
 
@@ -1828,3 +1896,7 @@ Artículo Segundo. Se deroga el Título Noveno de la Ley Orgánica del Poder Leg
 Artículo Tercero. La Ley de Responsabilidades de los Servidores públicos del Estado de Jalisco y el Título Noveno de la Ley Orgánica del Poder Legislativo que se derogan, seguirán aplicándose a los responsables de conductas previstas en las mismas, realizadas durante su vigencia.
 
 Artículo Cuarto. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
+
+P.O. 3 DE FEBRERO DE 1998
+
+UNICO. Este decreto entrará en vigor el día 1º. de Febrero de 1998, debiendo publicarse en el Periódico Oficial "El Estado de Jalisco".
