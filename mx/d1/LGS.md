@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2005-01-18"
+last_updated: "2005-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,11 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 2005.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
-Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
+Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -82,57 +82,61 @@ III.- La coordinación, evaluación y seguimiento de los servicios de salud a lo
 
 IV.- La atención materno-infantil;
 
-V.- La planificación familiar;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
-VI.- La salud mental;
+V.- La salud visual;
 
-VII.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
-VIII.- La promoción de la formación de recursos humanos para la salud;
+VI.- La salud auditiva;
 
-IX.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+VII.- La planificación familiar;
 
-X.- La información relativa a las condiciones, recursos y servicios de salud en el país;
+VIII.- La salud mental;
 
-XI.- La educación para la salud;
+IX.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
-XII.- La orientación y vigilancia en materia de nutrición;
+X.- La promoción de la formación de recursos humanos para la salud;
 
-XIII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+XI.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+XII.- La información relativa a las condiciones, recursos y servicios de salud en el país;
 
-XIV.- La salud ocupacional y el saneamiento básico;
+XIII.- La educación para la salud;
 
-XV.- La prevención y el control de enfermedades transmisibles;
+XIV.- La orientación y vigilancia en materia de nutrición;
 
-XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
+XV.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XVII.- La prevención de la invalidez y la rehabilitación de los inválidos;
+XVI.- La salud ocupacional y el saneamiento básico;
 
-XVIII.- La asistencia social;
+XVII.- La prevención y el control de enfermedades transmisibles;
 
-XIX.- El programa contra el alcoholismo;
+XVIII.- La prevención y el control de enfermedades no transmisibles y accidentes;
 
-XX.- El programa contra el tabaquismo;
+XIX.- La prevención de la invalidez y la rehabilitación de los inválidos;
 
-XXI.- El programa contra la farmacodependencia;
+XX.- La asistencia social;
 
-XXII.- El control sanitario de productos y servicios y de su importación y exportación;
+XXI.- El programa contra el alcoholismo;
 
-XXIII.- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos;
+XXII.- El programa contra el tabaquismo;
 
-XXIV.- El control sanitario de los establecimientos dedicados al proceso de los productos incluidos en las fracciones XXII y XXIII;
+XXIII.- El programa contra la farmacodependencia;
 
-XXV.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
+XXIV.- El control sanitario de productos y servicios y de su importación y exportación;
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+XXV.- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos;
 
-XXVI.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
+XXVI.- El control sanitario de los establecimientos dedicados al proceso de los productos incluidos en las fracciones XXII y XXIII;
 
-XXVII.- La sanidad internacional, y
+XXVII.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
 
-XXVIII.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional.
+XXVIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
+
+XXIX.- La sanidad internacional, y
+
+XXX.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional.
 
 ###### ARTICULO 4o.
 
@@ -274,7 +278,9 @@ A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
 I.- Dictar las normas oficiales mexicanas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
 
-II.- En las materias enumeradas en las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+
+II.- En las materias enumeradas en las fracciones I, III, V, VI, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII Y XXIX, del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
 
 III.- Organizar y operar los servicios de salud a su cargo y, en todas las materias de salubridad general, desarrollar temporalmente acciones en las entidades federativas; cuando éstas se lo soliciten, de conformidad con los acuerdos de coordinación que se celebren al efecto;
 
@@ -298,9 +304,9 @@ X.- Las demás que sean necesarias para hacer efectivas las facultades anteriore
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de Salubridad General, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II bis, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
+I. Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI Y XXII, del artículo 3o., de esta Ley, de conformidad con las disposiciones aplicables;
 
 II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
 
@@ -762,11 +768,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
+### CAPITULO VII. Salud Mental
+
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -774,9 +780,19 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
-III.- La promoción de la integración y del bienestar familiar.
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+
+III.- La promoción de la integración y del bienestar familiar;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+
+IV.- La detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+
+V.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas.
 
 ###### ARTICULO 62.
 
@@ -820,7 +836,7 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -892,7 +908,9 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
-### CAPITULO I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -952,7 +970,7 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1032,13 +1050,11 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
+### CAPITULO V. De las Cuotas Familiares
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1130,11 +1146,11 @@ El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1192,7 +1208,7 @@ Será causa de responsabilidad administrativa el incumplimiento en tiempo y form
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1206,7 +1222,7 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1262,7 +1278,7 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1750,7 +1766,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de la automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -4862,11 +4880,15 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 376.
 
-Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
+Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, estos últimos en los términos de la fracción VI del artículo 262 de esta Ley, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas.
+
+El registro sólo podrá ser otorgado por la Secretaría de Salud, éste tendrá una vigencia de 5 años, sin perjuicio de lo establecido en el artículo 378 de esta Ley, dicho registro podrá prorrogarse por plazos iguales, a solicitud del interesado, en los términos que establezcan las disposiciones reglamentarias. Si el interesado no solicitara la prórroga dentro del plazo establecido para ello o bien, cambiara o modificara el producto o fabricante de materia prima, sin previa autorización de la autoridad sanitaria; ésta procederá a cancelar o revocar el registro correspondiente.
+
+Para los efectos a que se refieren los párrafos anteriores, el Ejecutivo a través de la Secretaría, mediante disposiciones de carácter general, establecerá los requisitos, pruebas y demás requerimientos que deberán cumplir los medicamentos, insumos para la salud y demás productos y substancias que se mencionan en dichos párrafos.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -5921,3 +5943,23 @@ Artículo Segundo.- El Ejecutivo Federal podrá allegarse de los recursos necesa
 Artículo Tercero.- Todos los niños beneficiarios de esta reforma, deberán ser inscritos obligatoriamente en el Programa de Control del Niño Sano de la jurisdicción sanitaria correspondiente.
 
 Artículo Cuarto.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE FEBRERO DE 2005.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 376 DE LA LEY GENERAL DE SALUD
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Para los efectos de lo establecido por el artículo 376 de esta Ley a la entrada en vigor de este Decreto las solicitudes que se encuentren en trámite de registro sanitario de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, tendrán a partir de la fecha de su expedición una vigencia de 5 años.
+
+Tercero.- Los titulares de los registros sanitarios de medicamentos y demás insumos para la salud otorgados por tiempo indeterminado deberán someterlos a revisión para obtener la renovación del registro en un plazo de hasta cinco años a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+La renovación se otorgará únicamente cuando la Secretaría haya constatado la seguridad y eficacia terapéutica de los insumos para la salud sometidas a revisión de conformidad a las disposiciones sanitarias vigentes, en caso contrario las autorizaciones otorgadas para tiempo indeterminado se entenderán como revocadas para todos los efectos legales y administrativos a que haya lugar.
+
+D.O.F. 24 DE FEBRERO DE 2005.
+
+DECRETO POR EL QUE SE REFORMAN; LA FRACCIÓN II DEL APARTADO A Y FRACCIÓN I DEL APARTADO B DEL ARTÍCULO 13; LA FRACCIÓN II DEL ARTÍCULO 61; Y LA FRACCIÓN III DEL ARTÍCULO 112, Y SE ADICIONAN; DOS FRACCIONES, LAS V Y VI RECORRIÉNDOSE LAS DEMÁS PASANDO LA ACTUAL FRACCIÓN XXVIII A SER XXX AL ARTÍCULO 3 Y LAS FRACCIONES IV Y V AL ARTÍCULO 61, DE LA LEY GENERAL DE SALUD.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con la finalidad de diagnosticar y tratar oportuna e integralmente a las personas con debilidad auditiva y visual, conforme a lo establecido por las modificaciones a la Ley General de Salud, la Secretaría de Salud deberá crear un programa coordinado con la Secretaría de Educación Pública, que integre a los tres niveles de gobierno y que no ponga en riesgo la viabilidad financiera de las Instituciones de Salud.
