@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "1996-01-29"
+last_updated: "1997-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -45,6 +45,10 @@ LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 ###### Artículo 1o.
 
 La administración e impartición de justicia en el Distrito Federal corresponde al Tribunal Superior de Justicia y demás órganos judiciales que esta Ley señale, con base en lo que establece la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 1997)</small>
+
+El Consejo de la Judicatura del Distrito Federal será el órgano encargado de manejar, administrar y ejercer de manera autónoma el presupuesto del Tribunal Superior de Justicia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables en materia presupuestal.
 
 ###### Artículo 2o.
 
@@ -144,9 +148,11 @@ Los Magistrados del Tribunal Superior de Justicia, deberán de rendir la protest
 
 Los Magistrados durarán seis años en el ejercicio de su encargo, podrán ser ratificados y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos. Para la ratificación, deberá observarse el mismo procedimiento que para la designación.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 12.
 
-El nombramiento de los Jueces de Primera Instancia y de Paz será por un período de seis años, mismo que a su conclusión se puede ampliar por un período igual si el Consejo de la Judicatura del Distrito Federal así lo determina, atendiendo a los antecedentes del servidor de que se trate, conforme a la hoja de servicios que de él se tenga y en relación con el desempeño de las labores encomendadas por la ley.
+El nombramiento de los Jueces de Primera Instancia y de Paz será por un período de seis años, mismo que a su conclusión se puede ampliar por períodos iguales, si el Consejo de la Judicatura del Distrito Federal así lo determina, atendiendo a los antecedentes del servidor de que se trate, conforme a la hoja de servicios que de él se tenga y en relación con el desempeño de las labores encomendadas por la Ley.
 
 ###### Artículo 13.
 
@@ -166,7 +172,9 @@ Toda persona que fuere nombrada para desempeñar algún cargo o empleo judicial,
 
 Para ser designado Magistrado se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta y cinco años de edad cumplidos al día de la designación;
 
@@ -186,7 +194,9 @@ Los nombramientos de los Magistrados serán hechos preferentemente, de entre aqu
 
 Para ser Juez de Primera Instancia en las materias Civil, Penal, Familiar, del Arrendamiento Inmobiliario, de lo Concursal y de Inmatriculación Judicial, se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
 
@@ -208,7 +218,9 @@ Para ser Juez de Paz se requiere:
 
 I. Tener cuando menos veintiocho años de edad cumplidos al día de la designación;
 
-II. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+II. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 III. Ser Licenciado en Derecho y tener Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
 
@@ -232,9 +244,11 @@ III. Tener dos años de práctica profesional, contados desde la fecha de expedi
 
 IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 20.
 
-Para ser Primero o Segundo Secretario de Acuerdos de la Presidencia y Tribunal Pleno, así como Secretario Auxiliar de la misma, se necesita que los interesados satisfagan los requisitos indicados en el artículo que antecede, con la salvedad que en el caso del Secretario Auxiliar no se requiere tener dos años de práctica profesional. El Presidente del Tribunal Superior de Justicia les asignará sus funciones.
+Para ser Primero o Segundo Secretario de Acuerdos de la Presidencia y Tribunal Pleno, así como Secretario Auxiliar de la misma, se necesita que los interesados sean mexicanos por nacimiento y no hayan adquirido otra nacionalidad, satisfagan los requisitos indicados en el artículo que antecede, con la salvedad que en el caso del Secretario Auxiliar no se requiere tener dos años de práctica profesional. El Presidente del Tribunal Superior de Justicia les asignará sus funciones.
 
 ###### Artículo 21.
 
@@ -250,9 +264,11 @@ IV. Tener una práctica profesional en el campo jurídico de seis meses y haber 
 
 Para ser Secretario Auxiliar Actuario de Sala se deben cubrir los requisitos del artículo 19 de esta Ley, a excepción del relativo a la práctica profesional.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 22.
 
-Para ser Secretario de Acuerdos de los Juzgados de Paz, se deberán reunir los mismos requisitos señalados en el artículo 19, con excepción de la fracción III.
+Para ser Secretario de Acuerdos de los Juzgados de Paz, Secretario Proyectista de Primera Instancia y Secretario Conciliador, se deberán reunir los mismos requisitos señalados en el artículo 19, con excepción de la fracción III.
 
 ### CAPITULO III. De las Incompatibilidades e Incapacidades
 
@@ -278,9 +294,11 @@ El retiro de los Jueces y Magistrados se producirá al cumplir setenta y cinco a
 
 ### CAPITULO I. Del Tribunal Superior de Justicia
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 27.
 
-El Tribunal Superior de Justicia del Distrito Federal se integra por cuarenta y nueve Magistrados y funcionará en Pleno y en Salas. Uno de los Magistrados será su Presidente y no formará parte de ninguna de las Salas.
+El Tribunal Superior de Justicia del Distrito Federal se integra por cuarenta y nueve Magistrados y funcionará en Pleno y en Salas. Uno de los Magistrados será su Presidente y no formará parte de ninguna de las Salas. Las Salas, por acuerdo del Consejo de la Judicatura, podrán incrementarse de acuerdo con las necesidades del servicio, atendiendo en todo momento, a su disponibilidad presupuestal.
 
 ###### Artículo 28.
 
@@ -776,9 +794,11 @@ Los Secretarios del Tribunal en Pleno serán suplidos en sus ausencias temporale
 
 Las ausencias de los demás servidores de la administración de justicia, se suplirán en la forma que determine el superior jerárquico, dentro de las prescripciones que señala esta Ley para la carrera judicial.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 80.
 
-En todo caso y cuando las ausencias no excedan de un mes, los servidores públicos suplentes seguirán percibiendo los sueldos correspondientes a sus puestos de planta; cuando excedan de este término percibirán el sueldo correspondiente al puesto que desempeñen como substitutos.
+En todo caso y cuando las ausencias no excedan de quince días los servidores públicos suplentes seguirán percibiendo los sueldos correspondientes a sus puestos de planta; cuando excedan de este término percibirán el sueldo correspondiente al puesto que desempeñen como substitutos.
 
 ## TITULO SEXTO. De los Auxiliares de la Administración de Justicia
 
@@ -818,7 +838,9 @@ II. Ser Licenciado en Derecho con cédula profesional expedida por la autoridad 
 
 III. Gozar de buena reputación;
 
-IV. No encontrarse comprendido en el caso previsto por el artículo 87 de esta Ley;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+IV. No encontrarse comprendido en el caso previsto por el artículo 88 de esta Ley;
 
 V. No haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
@@ -862,9 +884,11 @@ Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia d
 
 Los Interventores de concurso, al igual que los síndicos, desempeñan una función pública en la administración de justicia del fuero común, en la que debe considerárseles también como auxiliares, quedando por lo tanto sujetos a las determinaciones de esta Ley, sin perjuicio de las demás disposiciones legales respectivas.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 96.
 
-Los Interventores serán nombrados por los acreedores, en cualquier tiempo, por mayoría de votos y en los términos del artículo 753 del Código de Procedimientos Civiles para el Distrito Federal.
+Los Interventores serán nombrados por los acreedores, en cualquier tiempo, por mayoría de votos y en los términos del artículo 758 del Código de Procedimientos Civiles para el Distrito Federal.
 
 ###### Artículo 97.
 
@@ -1100,15 +1124,21 @@ Las costas es la sanción impuesta por la ley respecto de la conducta procesal d
 
 Sólo tendrán derecho al cobro de costas, las partes que acrediten haber sido asesoradas durante el juicio por Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JUNIO DE 1997)</small>
+
 ###### Artículo 128.
 
-Las costas se causarán conforme a las siguientes bases:
+Las costas en Primera Instancia se causarán conforme a las siguientes bases:
 
 a) Cuando el monto del negocio no exceda de $100,000, se causará el 10%;
 
 b) Cuando el monto del negocio exceda de $100,000 y hasta $500,000, se causará el 7%, y
 
 c) Cuando el monto del negocio exceda de $500,000, se causará el 4%.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 1997)</small>
+
+Tratándose de la Segunda Instancia, las cuotas anteriores se aumentarán en 1%.
 
 ###### Artículo 129.
 
@@ -1626,6 +1656,10 @@ II. Emitir opinión al Jefe del Distrito Federal con motivo de las designaciones
 
 III. Designar a los Jueces del Distrito Federal en los términos que señala esta Ley, así como adscribir a los Jueces y Magistrados.
 
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 1997)</small>
+
+Asimismo, resolver todas las cuestiones que con dicho nombramiento se relacionen, cambiar a los Jueces de una misma categoría a otro Juzgado, así como variar la jurisdicción por materia de los Juzgados de Primera Instancia y de Paz.
+
 IV. Resolver, por causa justificada, sobre la remoción de Jueces y Magistrados, por sí, o a solicitud del Pleno del Tribunal;
 
 V. Vigilar que se cumplan las disposiciones que sobre la carrera judicial señale esta Ley, y aprobar los planes y programas del Instituto de Estudios Judiciales;
@@ -1637,6 +1671,10 @@ VII. Ordenar, por conducto del Presidente del Consejo, cuando se hubiere ejercit
 VIII. Pedir al Presidente del Consejo y a sus integrantes el fiel cumplimiento de sus obligaciones y en su caso fincar la responsabilidad en que incurran de acuerdo con esta Ley;
 
 IX. Elaborar el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás órganos judiciales, incluido el Consejo de la Judicatura, dando prioridad al mejoramiento de la impartición de justicia.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 1997)</small>
+
+El presupuesto se deberá remitir al Jefe de Gobierno del Distrito Federal, para que se incorpore, en capítulo por separado, al Proyecto de Presupuesto de Egresos del Distrito Federal, que será sometido a la aprobación de la Asamblea Legislativa de la propia Entidad;
 
 X. Vigilar que se cumplan las disposiciones legales y administrativas relacionadas con sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
@@ -1666,7 +1704,15 @@ Acatar las medidas que se implanten para el control administrativo y seguimiento
 
 XXII. Dictar todas las medidas necesarias para la organización y funcionamiento de la Oficialía de Partes a que se refiere el artículo 173 de esta ley, y
 
-XXIII. Las demás que determinen las Leyes y el Reglamento interior del Consejo de la Judicatura.
+> <small>(ADICIONADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+XXIII. Autorizar cada dos años, en forma potestativa y con vista a sus antecedentes, a las personas que deben ejercer los cargos de Síndicos e Interventores en los Juicios de Concurso, Albaceas, Depositarios Judiciales, Arbitros, Peritos y demás auxiliares de la administración de justicia que hayan de designarse en los asuntos que se tramiten ante las Salas y Juzgados del Tribunal, previa la satisfacción de los requisitos a que se refiere el Título Sexto de esta Ley.
+
+La decisión que al respecto adopte el Consejo de la Judicatura será irrecurrible; y
+
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+XXIV. Las demás que determinen las Leyes y el Reglamento anterior (sic) del Consejo de la Judicatura.
 
 ###### Artículo 202.
 
@@ -1690,7 +1736,9 @@ VIII. Proponer al Consejo de la Judicatura el nombramiento y remoción del Direc
 
 IX. Resolver los asuntos cuya atención no admite demora, dada su importancia, dando cuenta dentro de las veinticuatro horas siguientes al Consejo;
 
-X. Conceder licencias cuando procedan por causa justificada, con o sin goce de sueldo, cuando no excedan de quince días, a los servidores públicos del Consejo.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+
+X. Conceder Licencias cuando procedan por causa justificada, con o sin goce de sueldo, cuando no excedan de quince días, a los servidores públicos del Tribunal y del Consejo.
 
 XI. Vigilar la publicación de los Anales de Jurisprudencia y del Boletín Judicial;
 
@@ -1745,3 +1793,9 @@ NOVENO.- El Consejo de la Judicatura del Distrito Federal designará en un plazo
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL a los veintidós días del mes de diciembre de mil novecientos noventa y cinco.- Rep. Germán Aguilar Olvera, Presidente.- Rep. Sergio Martínez Chavarría, Secretario.- Rep. Cuauhtémoc Gutiérrez de la Torre, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de enero de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 17 DE JUNIO DE 1997.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
