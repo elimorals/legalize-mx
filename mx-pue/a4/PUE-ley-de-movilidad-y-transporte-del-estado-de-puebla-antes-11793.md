@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2002-12-16"
+last_updated: "2005-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -479,6 +479,10 @@ Para que un vehículo del Servicio Público del Transporte y del Servicio Mercan
 
 Todo vehículo que circule en la infraestructura vial del Estado, deberá contar con los equipos, sistemas, dispositivos y accesorios de seguridad que, con base en la Legislación Federal de la materia, esta Ley y sus Reglamentos, se requieran al efecto.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2005)</small>
+
+Tratándose de los vehículos del servicio público de transporte urbano, deberán estar provistos además con un contador de pasajeros y un regulador de velocidad cuyas características y funcionamiento será conforme lo establezcan las autoridades competentes.
+
 ###### ARTICULO 38.
 
 Los vehículos del Servicio Público de Transporte y del Servicio Mercantil emplacados en el Estado, deberán de estar protegidos por un seguro que cubra los daños causados a sus ocupantes y a terceros.
@@ -527,7 +531,9 @@ IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clas
 
 V.- LICENCIA DE CHOFER PARA EL SERVICIO PUBLICO Y EL SERVICIO MERCANTIL.- La requieren los conductores de vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, sin menoscabo de conducir toda clase de vehículos y tendrá una vigencia de tres años, y
 
-VI.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PUBLICO Y DEL SERVICIO MERCANTIL.- Esta se otorgará a partir de los dieciocho años y tendrá una vigencia de seis meses, otorgándose hasta por cuatro veces consecutivas y le serán aplicables en lo conducente lo establecido por las fracciones anteriores.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+
+VI.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PUBLICO Y DEL SERVICIO MERCANTIL.- Esta se otorgará a quien acredite contar un mínimo de cinco años de antigüedad con licencia de conducir y tendrá una vigencia de un año, y en lo conducente le serán aplicables lo establecido por las fracciones anteriores.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -721,11 +727,11 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la Secretaría.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 70.
 
-Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el servicio público de transporte, tendrán una vigencia indefinida; sin embargo, la Autoridad o la comisión respectiva certificarán cada tres años, la validez de las mismas. Lo anterior no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social, en términos de la Ley de Ingresos del Estado.
+Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el servicio público de transporte, tendrán una vigencia de diez años; sin embargo, la Autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas. Lo anterior no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y doce años de antigüedad en las rutas suburbanas y doce de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado.
 
 La Autoridad impondrá sanciones a los concesionarios que no cumplan con lo anterior.
 
@@ -789,11 +795,11 @@ Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis 
 
 Las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler, se les otorgará los permisos para satisfacer el servicio de que se trate, previo estudio que determine la Secretaría.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 79.
 
-Los permisos a que hace referencia la presente Ley tendrán una vigencia de un año, con la excepción del Servicio del Transporte con Automóviles del Servicio de Alquiler, los de materiales para construcción o diversos, los de carga ligera o mudanzas cuya duración será indefinida. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Estado, según lo señalado por la Ley de Ingresos del Estado.
+Los permisos a que hace referencia la presente Ley tendrán una vigencia de un año. Con la excepción del servicio del transporte de materiales para construcción o diversos, los de carga ligera o mudanzas cuya duración será indefinida. Para el caso de los permisos del servicio de transporte mercantil de personas con automóviles de alquiler o taxi, será aplicable en lo conducente lo dispuesto por el artículo 70 de esta Ley. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración, según lo señalado por la Ley de Ingresos del Estado.
 
 ###### ARTICULO 80.
 
@@ -1190,3 +1196,25 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y en
 ###### ARTÍCULO SEGUNDO.
 
 Para efectos de lo dispuesto en el artículo 70 de la Ley del Transporte para el Estado de Puebla, a partir del día primero de enero de dos mil tres no deberán circular aquellos vehículos que incumplan con la antigüedad exigida, estando facultada la autoridad correspondiente para instrumentar programas y celebrar convenios que, en un plazo que no exceda de doce meses, contados a partir de la entrada en vigor del presente Decreto, tiendan al mejor cumplimiento de esta disposición.
+
+P.O. 12 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación ene l Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones contrarias al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los concesionarios que actualmente presten el servicio público de transporte urbano tendrán plazo de dos años, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones a que se refiere el artículo 37.
+
+###### ARTÍCULO CUARTO.
+
+Los permisionarios del servicio de transporte mercantil de personas con automóviles de alquiler o taxi, tendrán el plazo de un año a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo prescrito por el artículo 79.
+
+###### ARTÍCULO QUINTO.
+
+Los concesionarios y permisionarios que a la entrada en vigor del presente ordenamiento cuenten con su concesión permiso otorgada por la autoridad competente, conservarán en todos sus términos, los derechos que se deriven de los mismos.
