@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "1998-03-28"
+last_updated: "2002-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2002.
 
-Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997..
+Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
 CARLOS DE LA MADRID VIRGEN, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
@@ -133,9 +133,17 @@ XVIII.- Supervisar el cumplimiento de las disposiciones que emanen de la present
 
 XIX.- Proponer al Secretario General de Gobierno las necesidades en cuanto a obras para el mejor funcionamiento del tratamiento readaptatorio, vigilando el estricto cumplimiento presupuestal de las mismas y la aplicación de los recursos que se otorguen para tal efecto;
 
-XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas de tipo laboral que hagan los directores de centros de readaptación y el presidente del Consejo Tutelar para Menores, las que invariablemente se formularán de conformidad con las instrucciones de la Oficialía Mayor de Gobierno y el perfil más adecuado en cuanto a la propuesta; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2002)</small>
 
-XXI.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
+XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas de tipo laboral que hagan los directores de centros de readaptación y el presidente del Consejo Tutelar para Menores, las que invariablemente se formularán de conformidad con las instrucciones de la Oficialía Mayor de Gobierno y el perfil más adecuado en cuanto a la propuesta;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2002)</small>
+
+XXI.- Crear el Consejo Técnico Interdisciplinario de la DIRECCION; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE ENERO DE 2002)</small>
+
+XXII.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
 
 ### CAPITULO III. DEL SISTEMA PENITENCIARIO DEL ESTADO
 
@@ -188,6 +196,12 @@ El Consejo Técnico será presidido por el director del establecimiento o por el
 Si el reclusorio carece de los elementos indispensables para la integración del Consejo Técnico, la DIRECCION les prestará el auxilio necesario.
 
 Para los efectos de la presente Ley, el término Consejo Técnico se entenderá referido al Consejo Técnico Interdisciplinario.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2002)</small>
+
+ARTICULO 16 BIS.- El Consejo Técnico Interdisciplinario de la DIRECCION, tendrá las funciones consultivas necesarias con respecto a la supervisión del trabajo de los centros penitenciarios, en cuanto a la aplicación del sistema progresivo para la concesión de beneficios y la ejecución de medidas preliberacionales; la distribución, custodia y traslado de las personas privadas de su libertad, así como las medidas de alcance general para la buena marcha del sistema penitenciario en el Estado.
+
+El Consejo Técnico estará presidido por el titular de la DIRECCION o por el funcionario que le sustituya en sus faltas. Se integrará por los miembros directivos de la DIRECCION, por el Presidente del Consejo Tutelar para Menores, por el Director del Centro Estatal de Menores y por cada uno de los Directores de los centros penitenciarios del Estado. El Subdirector Jurídico de la DIRECCION será el Secretario del Consejo Técnico. Todos los integrantes tienen derecho a voz.
 
 ###### ARTICULO 17.
 
@@ -686,3 +700,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbr
 P.O. 28 DE MARZO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación e (sic) el Periódico Oficial "EL ESTADO DE COLIMA"
