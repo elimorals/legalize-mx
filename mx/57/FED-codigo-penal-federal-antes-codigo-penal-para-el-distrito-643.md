@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1947-01-30"
+last_updated: "1947-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ENERO DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 1947.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1247,7 +1247,9 @@ En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces 
 
 Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, en los heridos, o en los hospitales de sangre, se le aplicará por ese solo hecho: prisión de tres a seis años, salvo lo dispuesto, para los casos especiales, en las leyes militares.
 
-### CAPITULO I. De la tenencia y tráfico de enervantes
+### CAPITULO I. De la producción, tenencia, tráfico y proselitismo en materia de enervantes
+
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
 
 ## TITULO CUARTO. Delitos contra la seguridad pública
 
@@ -1457,7 +1459,7 @@ Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
 ## TITULO SEPTIMO. Delitos Contra la Salud
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
 
 ### CAPITULO V. Peculado y concusión
 
@@ -1555,17 +1557,23 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 ###### ARTICULO 193.
 
-Para los efectos de las disposiciones contenidas en este capítulo, se consideran drogas enervantes las que determinen el Código Sanitario de los Estados Unidos Mexicanos, los reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan por el Departamento de Salubridad.
+Para los efectos de este capítulo, se consideran drogas enervantes las que determinen el Código Sanitario de los Estados Unidos Mexicanos, los reglamentos y demás disposiciones vigentes o que en lo sucesivo se expidan en los términos de la fracción XVI del artículo 73 de la Constitución General de la República, así como las que señalen los convenios internacionales que México haya celebrado o en lo futuro celebre.
+
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
 
 ###### ARTICULO 194.
 
-Se impondrán prisión de seis meses a siete años y multa de cincuenta a cinco mil pesos:
+Se impondrá prisión de uno a diez años y multa de cien a diez mil pesos:
 
-I.- Al que comercie, elabore, posea, compre, enajene, ministre gratuitamente y en general, verifique cualquier acto de adquisición, suministro o tráfico de drogas enervantes sin llenar los requisitos que para el caso fijen las leyes y demás disposiciones sanitarias a que se refiere el artículo 193;
+I.- Al que comercie, elabore, posea, compre, enajene, ministre gratuitamente o, en general, efectúe cualquier acto de adquisición, suministro o tráfico de drogas enervantes sin llenar los requisitos que para el caso fijen las leyes y demás disposiciones sanitarias a que se refiere el artículo 193;
 
-II.- Al que, infringiendo las leyes o disposiciones sanitarias a que se refiere el artículo 193, siembre, cultive, comercie, posea, compre, enajene, ministre gratuitamente y, en general, verifique cualquier acto de adquisición, suministro o tráfico de semillas o plantas que tengan carácter de drogas enervantes, y
+II.- Al que, infringiendo las leyes o disposiciones sanitarias a que se refiere el artículo 193, siembre, cultive, comercie, posea, compre, enajene, suministre gratuitamente o, en general, realice cualquier acto de adquisición, suministro o tráfico de semillas o plantas que tengan carácter de drogas enervantes;
 
-III.- Al que lleve a cabo cualquiera de los actos enumerados en las fracciones anteriores, con opio "cocinado" o preparado para fumar o con substancias preparadas para un vicio de los que envenenan al individuo y degeneran la raza, que hayan sido motivo de declaración expresa por leyes o disposiciones sanitarias.
+III.- Al que lleve a cabo cualquiera de los actos enumerados en las fracciones anteriores, con opio crudo, “cocinado” o preparado para fumar o con substancias preparadas para un vicio de los que envenenan al individuo y degeneran la raza, que haya sido motivo de declaración expresa por convenios internacionales, leyes o disposiciones sanitarias, y
+
+IV.- Al que realice actos de provocación general, o al que ilícitamente instigue, induzca o auxilie a otra persona, para el uso de drogas enervantes o de semillas o plantas que tengan ese carácter. Si ésta fuere menor de edad o incapacitada, o si el agente aprovecha su ascendiente o autoridad, la pena será, además de la multa, de tres a doce años de prisión.
+
+No podrá otorgarse la condena condicional, aunque la pena impuesta en la sentencia definitiva no exceda de dos años de prisión, a los que cultiven, elaboren o en cualquier forma trafiquen con drogas enervantes, o con semillas o plantas que tengan ese carácter.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -1579,9 +1587,11 @@ Si alguno de los actos enumerados en el artículo anterior fuere ejecutado por c
 
 El que verifique alguno de los actos señalados en los dos artículos anteriores, y además ejerza la medicina en cualquiera de sus ramas, sufrirá, además de las penas correspondientes, la de inhabilitación para el ejercicio de su profesión por un lapso no menor de dos años ni mayor de seis.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
+
 ###### ARTICULO 197.
 
-Al que importe o exporte ilegalmente drogas enervantes o substancias de las señaladas en este capítulo, se le impondrá una pena de seis a diez años de prisión y multa de cincuenta a diez mil pesos, sin perjuicio de aplicarle en su caso la inhabilitación a que se refiere el artículo anterior.
+Al que importe o exporte ilegalmente drogas enervantes o substancias de las señaladas en este capítulo, se le impondrá una pena de seis a doce años de prisión y multa de quinientos a veinte mil pesos, sin perjuicio de aplicarle, en su caso, la inhabilitación a que se refiere el artículo anterior.
 
 ###### ARTICULO 198.
 
@@ -3336,3 +3346,9 @@ Este Decreto entrará en vigor el día siguiente de su publicación en el "Diari
 D.O.F. 30 DE ENERO DE 1947.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 1947.
+
+###### ARTICULO UNICO.
+
+Estas reformas entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación, y desde esa misma fecha quedan derogadas las disposiciones legales que se opongan a las presentes, pero deberán continuar aplicándose para los hechos ejecutados durante su vigencia.
