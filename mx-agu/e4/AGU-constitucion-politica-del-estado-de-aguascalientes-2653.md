@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1944-09-22"
+last_updated: "1945-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 1944.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1945.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -283,7 +283,7 @@ XIX.- Investir al Gobernador de facultades extraordinarias, cuando por circunsta
 
 XX.- Formar su Reglamento interior y dictar las disposiciones necesarias para el servicio de sus oficinas.
 
-XXI.- Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes.
+XXI.- (DEROGADA, P.O. 20 DE AGOSTO DE 1945)
 
 ### CAPITULO CUARTO.
 
@@ -424,6 +424,10 @@ XIII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de 
 XIV.- Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de Funcionarios y empleados públicos que gocen de fuero.
 
 XV.- Conceder indultos y reducción de penas en los términos que lo prescriban las leyes respectivas.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1945)</small>
+
+XVI.- Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes.
 
 ## TITULO SEXTO.
 
@@ -743,7 +747,7 @@ La reforma del artículo 43, que se refiere a la renovación total de los Ayunta
 
 P.O. 19 DE DICIEMBRE DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 14 DE DICIEMBRE DE 1943.
 
@@ -760,3 +764,7 @@ P.O. 22 DE SEPTIEMBRE DE 1944.
 DECRETO NÚMERO 76, QUE REFORMA EL ARTÍCULO 41, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 Este Decreto empezará a surtir sus efectos con relación a los proyectos de presupuestos que deben presentarse para el ejercicio fiscal del año entrante.
+
+P.O. 20 DE AGOSTO DE 1945.
+
+ARTICULO TRANSITORIO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
