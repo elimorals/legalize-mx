@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2001-01-31"
+last_updated: "2001-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,13 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
 (Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8º, fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal y 2o., 3o., 5o., 14, y 19 de la Ley Orgánica de la Administración Pública del Distrito Federal, he tenido a bien expedir el siguiente:
+ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8º , fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal y 2o., 3o., 5o., 14, y 19 de la Ley Orgánica de la Administración Pública del Distrito Federal, he tenido a bien expedir el siguiente:
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
@@ -123,6 +123,10 @@ II. A la Secretaría de Desarrollo Urbano y Vivienda:
 1. Dirección General de Desarrollo Urbano; y
 
 2. Dirección General de Administración Urbana.
+
+(ADICIONADO, G.O. 6 DE JULIO DE 2001) (F. DE E., G.O. 14 DE AGOSTO DE 2001)
+
+3.- Dirección Ejecutiva de Servicios Jurídicos.
 
 III. A la Secretaría de Desarrollo Económico:
 
@@ -568,7 +572,7 @@ VI. Integrar, sustanciar y resolver el recurso administrativo de revocación de 
 
 VII. Tramitar e integrar debidamente los expedientes de expropiación, de ocupación temporal o de limitación de dominio, con excepción de aquellos que el Jefe de Gobierno instruya a otra Unidad Administrativa;
 
-VIII. Emitir, los lineamientos generales para la suscripción de convenios, contratos y demás instrumentos jurídicos que deban formalizar las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública; y asesorarlos, cuando así lo soliciten, respecto de la interpretación y alcance de los lineamientos mencionados;
+VIII. Emitir, los lineamientos generales para la suscripción de convenios, contratos y demás instrumentos jurídicos que deban formalizar las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública; y asesorarlos, cuando así lo soliciten, respecto de la interpretación y alcance de los lineamientos mencionados:
 
 IX. Coordinar jurídicamente a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, Unidades Administrativas de Apoyo Técnico-Operativo y Entidades de la Administración Pública;
 
@@ -1495,6 +1499,34 @@ XXXIII. Substanciar y resolver la revocación de actos administrativos expedidos
 XXXIV. Integrar los expedientes técnicos-administrativos, con la participación del área jurídica competente, para proponer la emisión de declaratorias de bienes elementos del patrimonio cultural urbano; e
 
 XXXV. Integrar al inventario de los equipamientos urbanos y el mobiliario urbano, así como elaborar los catálogos de monumentos y zonas históricas y artísticas del Distrito Federal y del Patrimonio Cultural Urbano.
+
+(ADICIONADO, G.O. 6 DE JULIO DE 2001) (F. DE E., G.O. 14 DE AGOSTO DE 2001)
+
+###### Artículo 50-A.
+
+Corresponde a la Dirección Ejecutiva de Servicios Jurídicos, de la Secretaría de Desarrollo Urbano y Vivienda, vigilar el cumplimiento de las normas previstas en la Ley de Desarrollo Urbano del Distrito Federal, mediante las atribuciones siguientes:
+
+I. Solicitar información a los órganos político-administrativos y unidades administrativas de apoyo técnico-operativo adscritos a la Secretaría respecto del mobiliario urbano y los anuncios instalados en la ciudad;
+
+II. Ordenar y realizar visitas de verificación, ordinarias o extraordinarias, en materia de anuncios inmobiliario urbano con publicidad integrada, instalados o visibles desde la vialidad primaria, con el objeto de cerciorarse que estén conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
+
+III. Dictar y aplicar las medidas de seguridad preventivas o correctivas para evitar riesgos y daños que puedan causar el mobiliario urbano con publicidad integrada y los anuncios instalados o visibles desde la vialidad primaria;
+
+IV. Las medidas de seguridad o preventivas a que se refiere la fracción anterior podrán consistir en:
+
+a) Dar mantenimiento al mobiliario urbano de publicidad integrada y/o al anuncio;
+
+b) Suspender la construcción de la estructura del mobiliario urbano de publicidad integrada y/o del anuncio;
+
+c) Retirar el mobiliario urbano, anuncios y/o la estructura de los mismos.
+
+V. Calificar las actas de visitas de verificación en materia anuncios, mobiliario urbano con publicidad integrada instalados o visibles desde la vialidad primaria, y en su caso, imponer las sanciones correspondientes en los términos de leyes y reglamentos aplicables;
+
+VI. Solicitar cuando fuere necesario el apoyo de las demás dependencias, organismos descentralizados o desconcentrados, así como el auxilio de la fuerza pública cuando fuere necesario, para hacer cumplir sus resoluciones;
+
+VII. Expedir copias certificadas de los documentos que obren en sus archivos, y
+
+VIII. Las demás que le señalen de manera expresa las disposiciones jurídicas y administrativas aplicables.
 
 #### SECCION IV
 
@@ -2996,7 +3028,7 @@ II. Desarrollar, operar, actualizar y difundir con el apoyo de las Dependencias,
 
 III. Proponer y someter a la consideración de la Secretaría de Desarrollo Económico, el Programa de Desregulación y Simplificación Administrativa del Distrito Federal y a la aprobación de la Consejería Jurídica y de Servicios Legales, cuando las acciones de dicho programa trasciendan la esfera de los particulares;
 
-IV. Tramitar, cuando proceda, la terminación de los nombramientos de los trabajadores de base y confianza para la resolución del Oficial Mayor.
+IV. Tramitar, cuando proceda, la terminación de los nombramientos de los trabajadores de base y confianza para la resolución del Oficial Mayor;
 
 V. Tramitar, cuando así proceda, el pago de viáticos y pasajes en el caso de comisiones o viajes nacionales e internacionales, de acuerdo a las necesidades de la Administración Pública, para la autorización de la Secretaría de Finanzas y en su caso, de la Oficialía Mayor;
 
@@ -4472,13 +4504,13 @@ La Dirección General de Servicios Urbanos tendrá además de las señaladas en 
 
 I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
 
-II Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
 
 III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
 IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
 
-V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias;
 
 VI. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
 
@@ -5100,7 +5132,7 @@ XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al us
 
 ADSCRITO A LA JEFATURA DE GOBIERNO.
 
-(REUBICADO [ANTES 133], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 169.
 
@@ -5152,7 +5184,7 @@ XI. Coordinar e implementar programas de apoyo a los diversos deportes que se pr
 
 XII. Realizar eventos, exhibiciones y torneos deportivos de calidad tendientes a promover la práctica del deporte es (sic) su demarcación;
 
-XIII. Complementar la tarea educadora de las distintas escuelas públicas y privadas de la demarcación con programas deportivos eficientes, ayudando a combatir las adicciones, la violencia y la desintegración familiar entre los niños y jóvenes;
+XIII Complementar la tarea educadora de las distintas escuelas públicas y privadas de la demarcación con programas deportivos eficientes, ayudando a combatir las adicciones, la violencia y la desintegración familiar entre los niños y jóvenes;
 
 XIV. Ejecutar programas de salud pública y prestar servicios médicos asistenciales en coordinación con autoridades federales y locales, instituciones públicas o privadas y con particulares en coordinación con las entidades correspondientes;
 
@@ -6177,3 +6209,7 @@ TERCERO.- Los Órganos Político-Administrativos deberán adecuar sus estructura
 CUARTO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a Unidades Administrativas, se entenderán hechas a aquellas que cuenten con las facultades correspondientes, en caso de que por virtud de este decreto hayan cambiado las mismas.
 
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE JULIO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
