@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-de-promocion-turistica-de-16811"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-06-19"
-last_updated: "2000-06-19"
+last_updated: "2003-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-06-09"
 
 ESTATUTO ORGANICO DEL CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGANICO DEL CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V., PUBLICADO EN EL D.O.F. DE 16 DE MAYO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 19 de junio de 2000.
 
@@ -1994,3 +1996,13 @@ TERCERO.- El Consejo de Promoción Turística de México, S.A. de C.V. deberá e
 Atentamente
 
 México, Distrito Federal, a los nueve días del mes de junio de dos mil.- El Secretario de la Asamblea General de Accionistas del Consejo de Promoción Turística de México, S.A. de C.V., Daniel Herrera Cosío.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.
+
+D.O.F. 16 DE MAYO DE 2003.
+
+PRIMERO. El Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V. que se aprueba, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo de Promoción Turística de México, S.A. de C.V. deberá expedir las Bases de Operación del Servicio Profesional de Carrera, dentro de los noventa días naturales posteriores a la publicación de su Estatuto Orgánico.
+
+TERCERO. Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V. de fecha de 9 de junio de 2000, publicado en el Diario Oficial de la Federación del 19 de junio de 2000, y se ratifican los poderes que se hayan otorgado durante la vigencia del mismo.
