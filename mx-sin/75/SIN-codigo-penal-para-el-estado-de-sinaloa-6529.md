@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "1998-10-21"
+last_updated: "1999-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -453,9 +453,9 @@ El decomiso consiste en la pérdida de la propiedad o posesión de los instrumen
 
 Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán preventivamente si son de uso prohibido; si son de uso lícito lo mismo se hará, pero será hasta sentencia cuando se dicten dichas sanciones, por delito doloso. Si pertenecen a un tercero, sólo se decomisarán cuando hayan sido empleados con fines delictivos y con conocimiento de su dueño.
 
-> <small>(REFORMADO P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 09 DE JULIO DE 1999)</small>
 
-Las autoridades competentes procederán al aseguramiento de bienes para efecto de la comprobación de los elementos del tipo penal y la probable responsabilidad, los que podrán ser materia de decomiso. Se actuará en los términos previstos en este párrafo, cualquiera que sea la naturaleza de los instrumentos o productos del delito.
+Las autoridades competentes procederán al aseguramiento de bienes para efecto de la acreditación del cuerpo del delito y la probable responsabilidad, los que podrán ser materia de decomiso. Se actuará en los términos previstos en este párrafo, cualquiera que sea la naturaleza de los instrumentos o productos del delito.
 
 > <small>(REFORMADO P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -1339,9 +1339,7 @@ II.- Cuando el responsable de la amenaza sea un servidor público y ésta sea pr
 
 No constituyen amenazas las actuaciones de las autoridades realizadas conforme a sus atribuciones y con estricto apego a la ley.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-Este delito se perseguirá por querella.
+Este delito sólo se perseguirá por querella.
 
 ### CAPITULO III. ATENTADOS AL PUDOR
 
@@ -1841,6 +1839,8 @@ Es punible el daño en propiedad causado culposamente.
 
 Al que procurándose para sí o para otro un lucro indebido, obligue a una persona a realizar u omitir un acto en perjuicio de su patrimonio o al de un tercero, se le impondrá prisión de cuatro a doce años y de doscientos a cuatrocientos cincuenta días multa.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 Si la extorsión es realizada por una asociación delictuosa, o por servidor público, de cualquier ámbito de la administración pública o corporación policíaca, la pena se aumentará en una mitad; además, de la destitución del empleo, cargo o comisión y la inhabilitación para desempeñar ese u otro empleo, cargo o puesto público hasta por cinco años. Las mismas sanciones previstas en este párrafo, se aplicarán a quien habiendo sido servidor público realice la extorsión dentro de los tres años siguientes contados a partir de que concluyó la prestación de su servicio.
 
 ### CAPITULO IV. ASOCIACION DELICTUOSA
@@ -1848,6 +1848,8 @@ Si la extorsión es realizada por una asociación delictuosa, o por servidor pú
 ###### ARTICULO 232.
 
 Comete el delito de usura, el que abusando de la necesidad o ignorancia de una persona obtenga un lucro excesivo mediante préstamo con un interés superior al bancario u otras ventajas económicas desproporcionadas, de acuerdo con la naturaleza de la operación o con los usos comerciales.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 Al responsable del delito de usura se le impondrá prisión de seis meses a seis años y de cuarenta a trescientos días multa.
 
@@ -3064,3 +3066,9 @@ Este decreto entrará en vigor sesenta días después de su publicación en el P
 P.O. 21 DE OCTUBRE DE 1998.
 
 ÚNICO.- El presente decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial El Estado de Sinaloa.
+
+P.O. 9 DE JULIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa."
