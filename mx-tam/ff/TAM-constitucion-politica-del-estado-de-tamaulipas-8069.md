@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1982-02-06"
+last_updated: "1982-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE 1982.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -343,11 +343,11 @@ En caso de que una u otra ocurran después del término establecido a juicio del
 
 Entre tanto se verifique la elección a que se refiere el artículo anterior y si no pudiere integrarse el quórum legal, la Junta de Diputados llamará al Suplente que a su juicio puede concurrir con más prontitud, cesado éste tan luego como se presente otro Diputado que complete el quórum.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
 
 ###### Art. 37.
 
-La Legislatura requiere para el ejercicio de sus funciones, la asistencia de doce Diputados por lo menos. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, que fuerza mayor, caso fortuito u otra causa los imposibilita se entenderá por ese sólo hecho que renuncia el cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum, y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
+La Legislatura requiere para el ejercicio de sus funciones, la asistencia de más de la mitad de sus integrantes. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
 
 ###### Art. 38.
 
@@ -711,11 +711,11 @@ El Reglamento interior del Congreso prescribirá las reglas que deben observarse
 
 Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mismo período de sesiones.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
 
 ###### Art. 68.
 
-Los proyectos e iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por ocho de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Los proyectos o Iniciativas adquirirán el carácter de Ley o Decreto cuando sean aprobados por la mayoría de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 #### SECCION II.
 
@@ -733,11 +733,11 @@ Si al cerrarse el período de sesiones no se hubiere cumplido el término conced
 
 Si el Gobernador hace observaciones a algún proyecto, lo devolverá al Congreso dentro del término fijado, manifestando por escrito las razones que tenga que oponer. El Congreso discutirá por segunda vez el proyecto y el Ejecutivo podrá nombrar el representante que quiera para que asista con voz y sin voto a la discusión.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
 
 ###### Art. 72.
 
-Concluída ésta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de ocho de los Diputados presentes.
+Concluída ésta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes.
 
 #### SECCION III.
 
@@ -2483,19 +2483,11 @@ P.O. 6 DE FEBRERO DE 1982.
 
 UNICO.- El presente decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial de Estado.
 
+P.O. 27 DE OCTUBRE DE 1982.
+
 ###### ARTICULO UNICO.
 
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
-
-D.O.F. 8 DE ENERO DE 1943.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 10 DE FEBRERO DE 1944.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 21 DE SEPTIEMBRE DE 1944.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
