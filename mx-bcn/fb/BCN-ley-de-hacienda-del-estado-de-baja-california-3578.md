@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1976-05-10"
+last_updated: "1976-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1976.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -853,7 +853,9 @@ I.- Transcurridos tres días contados a partir del día siguiente al de vencimie
 
 II.- Tratándose de declaración o declaraciones omitidas que acusen Impuesto, si el causante las presenta de manera espontánea, pagará recargos de conformidad con lo previsto en la Ley de Ingresos en vigor;
 
-III.- Cuando la declaración o declaraciones omitidas no causen ingresos, el causante será sancionado, en todos los casos, en los términos que establece el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1976)</small>
+
+III.- Cuando la declaración o declaraciones omitidas no causen impuesto, el causante será sancionado, en todos los casos, en los términos que establece el Código Fiscal del Estado.
 
 ###### ARTICULO 93.
 
@@ -1710,3 +1712,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación e
 P.O. 10 DE MAYO DE 1976.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 20 DE AGOSTO DE 1976.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
