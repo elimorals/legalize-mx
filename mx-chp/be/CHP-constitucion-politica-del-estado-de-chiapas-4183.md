@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1999-07-28"
+last_updated: "2000-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2000.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2105,6 +2105,10 @@ Los Diputados que resulten electos durarán en sus funciones del primero de novi
 
 Para los efectos de elegir a la LX Legislatura Constitucional del Estado y de renovar los Ayuntamientos que iniciaron su ejercicio el primero de enero de 1996, el proceso electoral deberá iniciarse dentro de los primeros quince días del mes de enero de 1998, debiendo operar el Congreso del Estado las modificaciones necesarias en el Código Electoral del Estado.
 
+> <small>(ADICIONADO P.O. DE 28 DE SEPTIEMBRE DE 2000)</small>
+
+ARTICULO TRANSITORIO.- Para los efectos de elegir a la LXI Legislatura Constitucional del Estado Libre y Soberano de Chiapas y de designar los ayuntamientos, cuyo ejercicio municipal constitucional durará del 1° de enero del año 2002 al 31 de diciembre del año 2004, el proceso electoral deberá iniciar durante la primera quincena del mes de febrero del año 2001, debiendo operar el Congreso del Estado las modificaciones necesarias en el Código Electoral del Estado.
+
 P.O. 21 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
@@ -2264,3 +2268,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Congreso del Estado procederá a la designación de Concejos Municipales que realizarán las funciones de cuerpo edilicio en los nuevos municipios hasta la conclusión del período municipal que inició el primero de enero de 1999. Los primeros ayuntamientos de los nuevos municipios, cuyo ejercicio iniciará el primero de enero del 2002, serán electos a través de los comicios ordinarios que para ese período se celebren conforme a lo dispuesto en la Constitución Política Federal, la particular del Estado y el Código Electoral del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
