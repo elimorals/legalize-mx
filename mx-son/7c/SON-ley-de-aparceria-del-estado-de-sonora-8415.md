@@ -4,7 +4,7 @@ identifier: "SON-ley-de-aparceria-del-estado-de-sonora-8415"
 country: "mx"
 rank: "ley"
 publication_date: "1931-10-24"
-last_updated: "1932-11-16"
+last_updated: "1934-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE APARCERIA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE NOVIEMBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE MAYO DE 1934.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 24 de octubre de 1931.
 
@@ -141,9 +141,23 @@ Cuando los aparceros tengan que ejecutar trabajos independientemente de aquellos
 
 Los gastos originados por distribución de aguas serán por cuenta del propietario o poseedor del predio y los originados por limpia de canales y pago de veladores serán hechos por el propietario y el aparcero proporcionalmente.
 
-###### Artículo 17.
+> <small>(REFORMADO, B.O. 2 DE MAYO DE 1934)</small>
 
-Para los efectos de esta Ley se declara de utilidad pública y de beneficio colectivo la celebración de contratos de aparcería agrícola en el Estado. En consecuencia se declaran nulas de pleno derecho y sin ningún valor legal, las cláusulas de los contratos de aparcería actualmente en vigor que se opongan a la presente Ley, y se dá preferencia a este contrato sobre los de arrendamiento (sic) ya celebrados o que en lo sucesivo se formalicen; por lo tanto cuando el propietario o poseedor de un terreno haya dado preferencia al arrendamiento sobre la parcería, no podrá, en ningún caso, exigir al arrendatario un gravamen o participación que exceda a la señalada por esta Ley al contrato de aparcería.
+###### ARTICULO 17.
+
+Para los efectos de esta Ley se declara de utilidad pública y de beneficio colectivo la celebración de Contratos de Aparcería Agrícola en el Estado. En consecuencia:
+
+I.- Se declaran nulas de pleno derecho y sin ningún valor legal, las cláusulas de los Contratos de Aparcería actualmente en vigor que se opongan a la presente Ley.
+
+II.- Se da preferencia al Contrato de Aparcería sobre el de arrendamiento ya celebrado o que en lo sucesivo se celebre; por lo tanto, cuando el propietario o poseedor de un terreno haya dado preferencia al arrendamiento sobre la aparcería, no podrá en ningún caso, exigir al arrendatario un gravamen o participación que exceda a la señalada por esta Ley al contrato de aparcería.
+
+III.- El término de duración de los Contratos de aparcería deberá ser por lo menos de tres años que se contarán a partir de la fecha en la que el aparcero tome posesión del terreno. Cuando se señale término menor, a más de la sanción que se imponga, el contrato se entenderá celebrado de acuerdo con esta fracción.
+
+IV.- Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielmente sus compromisos, tendrá derecho a ser preferido, en igualdad de condiciones ajustadas a esta Ley, si la tierra que estuvo cultivando va a ser dada en nueva aparcería. Este derecho subsistirá por un año.
+
+Si a la término el Contrato el propietario decide explotar directamente sus tierras, deberá comprobarlo debidamente ante la Autoridad Municipal.
+
+La violación a lo dispuesto en esta fracción da lugar a sanción pecuniaria y además a la nulidad del Contrato celebrado con el nuevo aparcero, quien podrá exigir indemnización al propietario.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1932)</small>
 
@@ -206,5 +220,9 @@ Ing. Ramón RAMOS
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 16 DE NOVIEMBRE DE 1932.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 2 DE MAYO DE 1934.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
