@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "1973-07-31"
+last_updated: "1979-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1979.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -67,7 +67,9 @@ V.- Los muebles propiedad del Estado que por su naturaleza normalmente no sean s
 
 Son bienes de dominio privado del Estado:
 
-I.- Los bienes vacantes situados dentro del territorio del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+I.- Los bienes vacantes adjudicados por la autoridad judicial;
 
 II.- Los que hayan formado parte de una corporación pública creada por la ley local, que se extinga;
 
@@ -89,9 +91,11 @@ Los bienes de dominio privado del Estado, estarán sometidos en todo lo no previ
 
 Los Tribunales del Estado tendrán competencia exclusiva para conocer de juicios así como de procedimientos judiciales no contenciosos que se relacionen con bienes del Estado, sean de dominio público o de dominio privado del mismo.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 8o.
 
-Compete a la Procuraduría General de Justicia la representación jurídica del Ejecutivo del Estado en toda clase de juicios judiciales o administrativos, del orden común o federal relacionados con la aplicación de ésta Ley, observándose en todo caso el Artículo 17 de la Ley Orgánica del Poder Ejecutivo.
+Compete a la Procuraduría General de Justicia, la representación jurídica del Ejecutivo del Estado en toda clase de negocios judiciales o administrativos, del orden común o federal, relacionados con la aplicación de ésta Ley.
 
 ### CAPITULO II
 
@@ -111,9 +115,15 @@ Corresponde al Ejecutivo del Estado:
 
 I.- Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público del Estado, por estar comprendido en alguna de las disposiciones de esta Ley;
 
-II.- Incorporar al dominio público, mediante Decreto, un bien que forma parte del dominio privado estatal, siempre que su posesión corresponda al Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
-III.- Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante Decreto, un bien que haya dejado de utilizarse en el fin respectivo;
+II.- Decretar la incorporación al dominio público, de un bien que forme parte del dominio privado Estatal, siempre que su posesión corresponda al Estado.
+
+Los bienes inmuebles donados al Estado, por concepto de autorización de fraccionamientos, por ese solo hecho quedarán incorporados al dominio público;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+III.- Solicitar de la Legislatura del Estado, la desincorporación del dominio público, en los casos en que la Ley lo permita, un bien que haya dejado de utilizarse en el fin respectivo;
 
 IV.- Dictar las reglas a que deberán sujetarse el uso, vigilancia y aprovechamiento de los bienes del dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así como remover cualquier obstáculo creado natural o artificialmente para su uso o destino;
 
@@ -165,9 +175,11 @@ En la declaratoria de rescate se establecerán las bases generales que servirán
 
 Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme, el importe de la indemnización se determinará por la autoridad judicial, a petición del interesado, quien deberá formularla dentro del plazo de 15 días contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 16.
 
-Los bienes de dominio público que lo sean por disposición de la autoridad, podrán ser enajenados, previo Decreto de desincorporación, cuando por algún motivo dejen de servir para el fin señalado en dicha disposición.
+Los bienes de dominio público podrán ser enajenados, previo Decreto de desincorporación que expida la Legislatura del Estado, cuando por algún motivo dejen de servir para el fin señalado en dicha disposición.
 
 ###### ARTICULO 17.
 
@@ -195,15 +207,23 @@ El derecho que este Artículo concede deberá ejercitarse precisamente dentro de
 
 También corresponderá el derecho del tanto al último propietario de un bien adquirido por procedimientos de derecho público, que vaya a ser vendido, excepto cuando se esté en los casos previstos por los Artículos 9o. segundo párrafo y 23 de esta Ley. Este aviso se dará mediante una sola publicación en el Periódico Oficial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 21.
 
-Están destinados a un servicio público y por lo tanto se hayan comprendidos en la Fracción II del Artículo 2o.:
+Son bienes destinados a un servicio público:
 
-I.- El o los palacios de los Poderes del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
-II.- Los inmuebles destinados al servicio de las Dependencias de Poder Ejecutivo;
+I.- Los edificios en que ejerzan directamente sus funciones los Poderes Ejecutivo, Legislativo y Judicial;
 
-III.- Los inmuebles de cualquier género destinados a oficinas públicas del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+II.- Los inmuebles destinados al servicio de las dependencias de los Poderes del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+III.- Los inmuebles de cualquier género que se destinen a la función de las oficinas públicas del Estado;
 
 IV.- Los predios rústicos directamente utilizados en los servicios públicos del Estado;
 
@@ -211,9 +231,13 @@ V.- Los establecimientos fabriles administrados directamente por el Gobierno del
 
 VI.- Los inmuebles de propiedad estatal destinados a los Municipios, así como los prestados y arrendados para servicios u oficinas federales;
 
-VII.- Los inmuebles que constituyan al patrimonio de los establecimientos públicos creados por Leyes Locales, con la salvedad que indica el Artículo 23 y,
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
-VIII.- Cualesquiera otros adquiridos por procedimientos de derecho público.
+VII.- Los inmuebles que constituyan el patrimonio de los Organismos Públicos Estatales;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+VIII.- Cualesquiera otros adquiridos mediante expropiación destinados exclusivamente para un servicio público.
 
 ###### ARTICULO 22.
 
@@ -225,19 +249,23 @@ Los bienes a que se refiere la Fracción VII del Artículo 21 sólo podrán grav
 
 Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan sin limitación alguna. El estado no será parte en los juicios que con este motivo se inicien.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 24.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo al servicio público, al uso común, a un fin de utilidad general o fuere necesario para el desempeño de atribuciones a cargo del Gobierno del Estado, lo comunicará al Oficial Mayor el que previo acuerdo con el Gobernador hará las gestiones necesarios y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, firma, registro y archivo de la escritura y títulos de propiedad correspondientes.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo al servicio público, al uso común, a un fin de utilidad general o fuere necesario para el desempeño de atribuciones a cargo del Gobierno del Estado, lo comunicará a la Oficialía Mayor y a la Dirección de Organización, Programación y Presupuesto. Una vez emitida la resolución presupuestal para la adquisición, el Oficial Mayor de Gobierno, previo acuerdo con el Gobernador del Estado y el titular de la dependencia, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos. La firma de la escritura corresponderá al Gobernador del Estado, quien, si lo prefiere, podrá delegar esta facultad en el Oficial Mayor de Gobierno o en otro funcionario. Tocará a la Oficialía Mayor el registro y archivo de los documentos y títulos de propiedad correspondientes.
 
 ###### ARTICULO 25.
 
 Cuando se trate de adquisición por vías de derecho público, tocará a la dependencia del ramo respectivo, determinar la utilidad pública y a la Secretaría de Finanzas todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la Dependencia del ramo o la que designe el Gobernador los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de una escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del Decreto respectivo en el Periódico Oficial.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 26.
 
-Los inmuebles destinados a un servicio público deberán utilizarse en ese fin dentro del plazo de seis meses, contado a partir de la fecha en que sean recibidos por el Gobierno del Estado.
+Los inmuebles que se destinen a un servicio público, deberán utilizarse en ese fin dentro del plazo que fije el Ejecutivo del Estado, contado a partir de la fecha en que queden a disposición del Gobierno de la Entidad.
 
-Si no se diere cumplimiento a lo dispuesto en el Párrafo anterior, los inmuebles deberán retirarse del servicio a que se destinaron, mediante el procedimiento que señala el artículo siguiente, a fin de que se utilicen en otro o bien para que sean enajenados en los términos de Ley.
+Si transcurrido el plazo fijado, los inmuebles no se utilizaren a la prestación del servicio público correspondiente, salvo el caso de imposibilidad temporal, deberán retirarse del servicio a que se destinaron, a fin de que se utilicen en otro o bien para que sean enajenados en los términos de Ley.
 
 ###### ARTICULO 27.
 
@@ -273,23 +301,31 @@ Los inmuebles de dominio privado se destinarán preferentemente, al servicio de 
 
 La posesión, conservación y administración de los bienes del Estado, corresponden por regla general, y a falta de prevención en contrario, a la Oficialía Mayor de Gobierno, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos y ocupaciones de que sean objeto dichos inmuebles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 33.
 
-Los inmuebles de dominio privado que no sean adecuados para destinarlos a los fines a que se refiere el Artículo anterior se podrán enajenar, previo Decreto del Congreso del Estado cuando corresponda:
+Los inmuebles de dominio privado que no sean adecuados o aprovechables para destinarlos a los fines a que se refiere el Artículo anterior, se podrán enajenar, previo Decreto del Congreso del Estado, cuando corresponda:
 
 I.- En favor de las Entidades oficiales que tengan a su cargo resolver el problema de habitación popular para atender necesidades colectivas;
 
-II.- Para disponer del importe de su enajenación, en la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias del Gobierno Federal;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+II.- Para disponer del importe de su enajenación, en la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias del Gobierno del Estado;
 
 III.- En favor de personas de derecho privado que requieran disponer indispensablemente del inmueble, por razón de su ubicación u otras características, para la creación, fomento o conservación de una empresa que beneficie a la colectividad; y
 
 IV.- En los demás casos en que la enajenación se justifique por razones de interés general o de beneficio colectivo.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
+No podrán ser enajenados inmuebles de dominio privado del Estado, a favor de ningún funcionario federal, estatal o municipal, sus cónyuges, sus parientes consanguíneos en línea recta, sin limitación de grado, los colaterales hasta el cuarto y los afines hasta el segundo. Las enajenaciones que se efectúen en contravención de esta prohibición, serán nulas de pleno derecho.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 34.
 
-Los inmuebles de dominio privado del Estado son inembargables.
-
-Los particulares podrán adquirir dichos bienes por prescripción. La prescripción se regirá por el Código Civil pero se duplicaran los plazos establecidos para que aquella opere.
+Los inmuebles de dominio privado del Estado son inembargables. Tratándose de la prescripción de dichos bienes, se duplicarán los plazos establecidos en el Código Civil.
 
 ###### ARTICULO 35.
 
@@ -307,9 +343,11 @@ Si el Municipio, asociación o institución no utilizaren el bien en el fin señ
 
 Salvo lo dispuesto en el Artículo anterior cualquier otra clase de enajenación de bienes se hará en la forma ordinaria con sujeción a las reglas del derecho común en lo que respecta a condiciones esenciales y seguridades, pero con la clara obligación por parte del Gobierno de salvaguardar, en cada caso concreto, los intereses generales, dándole siempre a las enajenaciones un sentido práctico en beneficio de la colectividad.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 38.
 
-Ninguna venta de inmueble deberá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entregue en dinero en efectivo, cuando menos el 25% de dicho precio. La finca se hipotecará en favor del Gobierno del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso, salvo que el Gobernador exima al comprador expresamente de esa garantía.
+Ninguna venta de inmueble deberá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entregue en dinero en efectivo, cuando menos el 10% de dicho precio. La finca se hipotecará en favor del Gobierno del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso, salvo que el Gobernador exima al comprador expresamente de esa garantía.
 
 ###### ARTICULO 39.
 
@@ -317,17 +355,23 @@ Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobr
 
 En los contratos respectivos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este Artículo, dará origen a la rescisión del contrato, a cuyo efecto se transcribirá textualmente este Artículo en su clausulado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 40.
 
-Cuando se trate de permutar bines estatales, los que deba recibir el Gobierno se valuarán por la institución de crédito que designe el Ejecutivo; la diferencia que resulte a favor del Erario se cubrirá en efectivo precisamente en el momento de la operación.
+Cuando se trate de adquisiciones, enajenaciones o permutas en que el Gobierno del Estado sea parte, los bienes objeto de la operación se valuarán por la Comisión Estatal de Avalúos. Respecto de las permutas, la diferencia que resulte en favor del Erario, se cubrirá en efectivo precisamente en el momento de la operación.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 41.
 
-La infracción de cualquiera de los preceptos anteriores, provocará la nulidad de la enajenación. También estarán sujetas a ellos para su validez, las enajenaciones que los establecimientos públicos y empresas en que el Estado tenga interés, hagan de inmuebles adquiridos del Gobierno del Estado por cualquier título durante los cinco años anteriores.
+La infracción de alguno o algunos de los preceptos anteriores, producirá la nulidad de la operación.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 42.
 
-Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común. Se exceptúan solamente los de comodato y las donaciones que tengan por objeto los bienes a que se refiere el Artículo 35 de esta Ley.
+Los bienes de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común.
 
 ###### ARTICULO 43.
 
@@ -363,73 +407,57 @@ La administración y control de los bienes muebles de propiedad estatal correspo
 
 Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 49.
 
-Acordada la destrucción de un mueble inútil para el servicio, se dará de baja en el inventario y podrá donarse con autorización del Gobernador del Estado, a las personas indigentes que lo soliciten.
+Cuando se establezca que un bien mueble ya no es necesario para el servicio del Gobierno del Estado, o que por sus condiciones de uso debe substituírsele, se dará de baja y podrá, con autorización del Gobernador, venderse a algún particular y si ésto no es posible, donarse a una Institución Pública o Privada que preste servicios de beneficencia. En caso de que el mueble se encuentre inservible, una vez dado de baja, podrá donarse a persona indigente que lo solicite.
 
 ### CAPITULO V
 
 Del Registro de la Propiedad Estatal.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 50.
 
-El Registro de la Propiedad Estatal, que llevará la Oficialía Mayor de Gobierno, será público y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros relativos y de los documentos relacionados con las inscripciones, que estén archivadas en su apéndice se expedirá, cuando sean solicitadas y de acuerdo con la Ley, copias certificadas de las inscripciones, constancias y documentos.
+La Oficialía Mayor tendrá a su cargo el registro de la propiedad estatal, en cuanto a bienes inmuebles, el que será de carácter administrativo interno, para efectos de control y vigilancia.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 51.
 
-Se inscribirán en el Registro de la Propiedad Estatal:
+Los bienes inmuebles pertenecientes al Gobierno del Estado, deberán inscribirse en el Registro Público de la Propiedad y de Comercio.
 
-I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Gobierno del Estado, sobre bienes inmuebles;
-
-II.- Los contratos de arrendamiento de bienes inmuebles a plazo de cinco años o mayor;
-
-III.- Las relaciones de ocupación, dictadas en los procedimientos judiciales;
-
-IV.- Las resoluciones y las sentencias definitivas pronunciadas en los procedimientos a que se refiere la Fracción anterior;
-
-V.- Las informaciones ad-perpetuam promovidas por el Ejecutivo del Estado para acreditar la posesión o el dominio del Estado sobre bienes inmuebles;
-
-VI.- Las resoluciones judiciales o de árbitros o arbitradores, que produzcan algunos de los efectos mencionados en la Fracción I;
-
-VII.- Los demás títulos que conforme a la Ley, deban ser registrados; y
-
-VIII.- Los Decretos que incorporen al dominio público o desincorporen de él determinados bienes.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 52.
 
-No se hará inscripción de los bienes de dominio público, sino cuando sean de los señalados en la Fracción II del Artículo 2o. de esta Ley.
+Un Reglamento determinará la forma y términos en que operará el Registro de la Propiedad Estatal.
 
 ###### ARTICULO 53.
 
-Los documentos a que se refiere el Artículo 51 se inscribirán además, en el Registro Público de la Propiedad que corresponda al lugar de ubicación de los bienes de que se trate y conforme lo establece el Código Civil.
-
-En caso de oposición entre los datos del Registro de la Propiedad Estatal y el de la ubicación de los bienes, en las relaciones con terceros, se dará preferencia al primero si se trata de cosas del dominio público y al segundo si de bienes de dominio privado.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
 
 ###### ARTICULO 54.
 
-En las inscripciones del Registro de la Propiedad Estatal, se expresará la procedencia de los bienes, su naturaleza, ubicación y linderos, el nombre del inmueble si lo tuviere, su valor y las servidumbres que reporte tanto activas como pasivas, así como sus referencias en relación con los expedientes respectivos.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
 
 ###### ARTICULO 55.
 
-Las constancias del Registro de la Propiedad Lateral, probarán la autenticidad de los actos a que se refieren.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
 
 ###### ARTICULO 56.
 
-La extinción de las inscripciones del Registro de la Propiedad Estatal, solo se opera:
-
-I.- Por mutuo consentimiento de las partes, o por decisión judicial o administrativa que ordene su cancelación;
-
-II.- Cuando se destruya o desaparezca por completo el inmueble objeto de la inscripción, o
-
-III.- cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
 
 ###### ARTICULO 57.
 
-En la cancelación de inscripciones se asentarán los datos necesarios a fin de que se conozca con toda exactitud cual es la inscripción que se cancela y la causa por la que se hace la cancelación.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
 
 ###### ARTICULO 58.
 
-Un Reglamento determinará las secciones de que habrá de componerse el Registro, los libros que debe llevar y los requisitos de éstos.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
 
 ### CAPITULO VI
 
@@ -480,3 +508,11 @@ El Secretario General de Gobierno
 Francisco Santana Peralta
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
