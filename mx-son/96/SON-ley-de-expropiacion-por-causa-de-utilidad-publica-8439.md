@@ -4,7 +4,7 @@ identifier: "SON-ley-de-expropiacion-por-causa-de-utilidad-publica-8439"
 country: "mx"
 rank: "ley"
 publication_date: "1972-07-15"
-last_updated: "1986-12-29"
+last_updated: "1988-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EXPROPIACION POR CAUSA DE UTILIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE MARZO DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 15 de julio de 1972.
 
@@ -71,7 +71,17 @@ XII.- Las medidas necesarias para evitar la destrucción de los elementos natura
 
 XIII.- La creación o mejoramiento de centros de población y de sus fuentes propias de vida;
 
-XIV.- Los demás casos cuyo fin sea proporcionar al Estado, a los Municipios o a sus poblaciones, usos o mejoras de beneficio colectivo.
+> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XIV.- Las medidas necesarias para evitar que se produzca dentro de una zona, región o en el Estado, impedimento, desaceleración, estancamiento o recesión, dentro de los renglones económicos contemplados en el Plan Estatal de Desarrollo, por el funcionamiento notoriamente irregular, la falta de cumplimiento reiterada de obligaciones o la existencia de controversias, por parte de personas físicas o morales, entidades empresariales o unidades económicas, que tengan como resultado falta de seguridad, desaliento, disminución o retiro de las inversiones, dentro de dichos renglones.
+
+> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XV.- Las medidas necesarias para que la propiedad privada cumpla con el interés público de su aprovechamiento y uso, socialmente útiles.
+
+> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XVI.- Los demás casos cuyo fin sea proporcionar al Estado, a los Municipios o a sus poblaciones, usos y mejoras de beneficio colectivo.
 
 ###### ARTICULO 3o.
 
@@ -139,15 +149,17 @@ VIII.- Las resoluciones se notificarán a los interesados personalmente.
 
 Cuando no se haya hecho valer la revocación, o en caso de que haya sido resuelta en contra de las pretensiones del recurrente, la autoridad administrativa que corresponda procederá desde luego a la ocupación del bien de cuya expropiación u ocupación temporal se trate, o impondrá la ejecución inmediata de las disposiciones sobre limitación de derechos que procedan.
 
+> <small>(REFORMADO, B.O. 28 DE MARZO DE 1988)</small>
+
 ###### ARTICULO 10.
 
-En los casos de emergencia que surgieren a causa de guerra interior o exterior, propagación de epidemias, epizootias, plagas, incendios, o otras calamidades públicas, abastecimiento de ciudades o protección de las riquezas naturales, hecha la declaratoria, podrá el Ejecutivo del Estado ordenar la ocupación, de los bienes objeto de la expropiación, o de la ocupación temporal, o imponer la ejecución inmediata de las disposiciones sobre limitación de derechos sin que la interposición del recurso de revocación, suspenda la ocupación del bien o la ejecución de las disposiciones de limitación.
+En los casos de guerra interior o exterior, propagación de epidemias, epizootias, plagas, incendios, y otras calamidades públicas, abastecimiento de ciudades, mejoramiento de fuentes propias de vida de centros de población, protección de las riquezas naturales o del desarrollo en los renglones contemplados dentro del Plan Estatal de Desarrollo, hecha la declaratoria, podrá el Ejecutivo del Estado, dentro de ella, ordenar la ocupación inmediata de los bienes objeto de la expropiación o de la ocupación temporal, o imponer la ejecución inmediata de las disposiciones sobre limitación de derechos, sin que en ninguno de los casos a que se refiere el presente artículo, la interposición del recurso de revocación, suspenda la ocupación del bien o la ejecución de las disposiciones de limitación.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 28 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 11.
 
-Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de derechos, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá reclamar la devolución del bien de que se trate, o la insubsistencia del acuerdo sobre ocupación temporal o limitación de derechos. La reclamación se interpondrá ante el Ejecutivo del Estado.
+Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de derechos, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de 5 años, el propietario afectado podrá reclamar la devolución del bien de que se trate o la insubsistencia del acuerdo sobre ocupación temporal o limitación de derechos. La reclamación se interpondrá ante el Ejecutivo del Estado, en un término de treinta días hábiles, contados a partir del vencimiento del plazo de 5 años, aludido.
 
 ###### ARTICULO 12.
 
@@ -244,6 +256,12 @@ Angel López Gutiérrez.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 29 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE MARZO DE 1988.
 
 ###### ARTICULO UNICO.
 
