@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1997-02-01"
+last_updated: "1997-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -277,15 +277,17 @@ La prescripción se interrumpe por cada gestión del cobro del acreedor notifica
 
 Las declaraciones o avisos que haya obligación de presentar conforme a las disposiciones de esta Ley, se harán en las formas oficiales autorizadas.
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 21.
 
-No causan los impuestos y derechos municipales que establezcan ésta u otras Leyes Fiscales:
+No causan los impuestos y derechos municipales que establezcan ésta u otras leyes fiscales:
 
-I.- La Federación, el Estado y los Municipios, siempre que sus actividades correspondan a sus funciones de derecho público, en su caso de reciprocidad; y
+I. La Federación, los Estados y los Municipios, siempre que sus actividades correspondan a sus funciones de derecho público.
 
-II.- Las Instituciones de beneficencia pública o privada constituidas conforme a la Ley, excepto los impuestos prediales, traslación de dominio y de fraccionamientos.
+II. Las instituciones de beneficencia pública o privada constituidas conforme a la Ley, excepto los impuestos prediales y traslación de dominio.
 
-En todo caso debe entenderse que no se causarán los impuestos municipales de predial, traslación de dominio y fraccionamientos, sólo en el caso de que se trate de bienes inmuebles que sean propiedad de la Federación, Estado, o Municipios, o que éstos aparezcan como sujetos de tales impuestos.
+En todo caso debe entenderse que no se causarán los impuestos municipales de predial y traslación de dominio, sólo en el caso de que se trate de bienes inmuebles que sean propiedad de la Federación, Estado o Municipio, o que éstos aparezcan como sujetos de tales impuestos.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -471,21 +473,27 @@ Si aprueba el remate, se continuará el procedimiento en los términos del propi
 
 #### SECCION I. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 29.
 
-Los impuestos de que trata este capítulo, se causarán a favor de los municipios conforme a los porcentajes señalados en sus respectivas secciones con base a las cuotas establecidas en la Ley de Hacienda del Estado, excepto los impuestos Predial, sobre Traslación de Dominio y sobre Fraccionamientos, cuyo importe quedará íntegramente en favor de los municipios, los cuales estarán facultados en este caso excepcional, para celebrar con los Autoridades Fiscales del Estado, Convenios de Administración sobre tales impuestos, percibiendo en todo caso estas últimas un porcentaje por concepto de gastos administrativos y debiendo sancionarse los acuerdos por la H. Legislatura del Estado.
+Los impuestos de que trata este capítulo, se causarán a favor de los municipios conforme a los porcentajes señalados en sus respectivas secciones con base en las cuotas establecidas en la Ley de Hacienda del Estado, excepto los impuestos Predial y sobre Traslación de Dominio, cuyo importe quedará íntegramente en favor de los municipios. Los cuales estarán facultados en este caso excepcional, para celebrar con las autoridades fiscales del Estado Convenios de Administración sobre tales impuestos, percibiendo en todo caso estas últimas un porcentaje por concepto de gastos administrativos y debiendo sancionarse los acuerdos por la H. Legislatura del Estado.
 
 ###### ARTICULO 30.
 
 Estos impuestos, deberán pagarse en la Tesorería Municipal, dentro de los mismos plazos y en la misma forma que establece la Ley de Hacienda del Estado.
 
-Tratándose de los impuestos sobre Predial, Traslación de Dominio y sobre Fraccionamientos regirán las disposiciones de las secciones II, III y IV de este Título Segundo, Capítulo I.
+(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997) (F. DE E., 17 DE ENERO DE 1998)
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+Tratándose de los impuestos Predial y Sobre Traslación de Dominio, regirán las disposiciones de las secciones II y III del Capítulo I de este Título Segundo.
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 31.
 
-Para los efectos del cobro de los impuestos a que se refiere este Capítulo, la Secretaría de Finanzas y Planeación del estado proporcionará a las Tesorerías Municipales los datos de sus registros respectivos, y tratándose de los Impuestos Predial, Translación de Dominio y sobre fraccionamientos, deberá en todo caso atenderse a lo estipulado en los convenios de Administración celebrados entre las Autoridades Fiscales del Estado y los Municipios.
+Para los efectos del cobro de los Impuestos a que se refiere este Capítulo, la Secretaría de Finanzas y Planeación del Estado proporcionará a las Tesorerías Municipales los datos de sus registros respectivos, y tratándose de los Impuestos Predial y Sobre Traslación de Dominio, deberá en todo caso atenderse a lo estipulado en los Convenios de Administración celebrados entre las autoridades fiscales
+
+del Estado y los municipios.
 
 ###### ARTICULO 32.
 
@@ -545,7 +553,7 @@ d).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 e).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-V.-Los demás sujetos que señalen las Leyes Fiscales.
+V.- Los demás sujetos que señalen las Leyes Fiscales.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -781,11 +789,11 @@ XI.- EI usufructuario, el cesionario de los derechos de usufructo o el adquirent
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 55.
 
-La base de este impuesto será el valor del inmueble, Catastral o Catastral Provisional o el de operación si éste es mayor y el impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base indicada en este artículo.
+La base de este impuesto será el valor del inmueble, Catastral o Catastral Provisional, actualizado con los últimos valores unitarios para terreno y construcción publicados o el de operación si éste es mayor. El impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base indicada en este artículo.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -929,17 +937,13 @@ Regido por el capítulo I, del Título Primero de la Ley de Hacienda para el Est
 
 El impuesto se causará a favor de cada municipio, por las actividades gravadas que se realicen dentro de su jurisdicción, con cuota del 75% sobre el importe del impuesto que se deba causar a favor de la Hacienda Pública del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA SU DENOMINACION, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION VI. SOBRE HONORARIOS POR LA PRESTACION DE SERVICIOS PROFESIONALES DE MEDICINA
 
-> <small>(F. DE E., G.O. 28 DE ENERO DE 1984)</small>
-
 ###### ARTICULO 72.
 
-Regido por el capítulo II, del Título Primero de la Ley de Hacienda para el Estado.
-
-Este impuesto se causará a favor de cada municipio, por las actividades gravadas que se realicen dentro de su jurisdicción, con cuota equivalente a la que se deba causar a favor de la Hacienda Pública del Estado.
+(DEROGADO, G.O. 27 DE DICIEMBRE DE 1997)
 
 ### CAPITULO II. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
@@ -1133,17 +1137,21 @@ II.- Cuando no se pague el impuesto en los términos que dispone la Ley; y
 
 III.- Cuando en cualquier forma se impida a las autoridades fiscales cumplir su cometido.
 
-### CAPITULO IV. IMPUESTOS SOBRE LOTERIAS, RIFAS Y SORTEOS
+> <small>(F. DE E., G.O. 17 DE ENERO DE 1998)</small>
+
+### CAPITULO IV. SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 91.
 
-Es objeto del impuesto a que se refiere este capítulo:
+Es objeto de este impuesto la celebración de loterías, rifas, sorteos y concursos de cualquier clase dentro del territorio de cualquiera de los Municipios del Estado, así como los ingresos que se obtengan derivados de premios por participar en los eventos señalados.
 
-La celebración de loterías, rifas o sorteos de cualquier clase dentro del territorio del Estado.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 92.
 
-Son sujetos del impuesto, las personas fisicas o morales que celebren las loterías, rifas, o sorteos.
+Son sujetos de este impuesto, las personas físicas o morales que celebren loterías, rifas, sorteos y concursos, así como quienes obtengan ingresos derivados de premios por participar en los eventos señalados.
 
 ###### ARTICULO 93.
 
@@ -1151,21 +1159,37 @@ Este impuesto se causará, liquidará y pagará de conformidad con la siguiente:
 
 T A R I F A
 
-I.-Cuando se trate de loterías, rifas o sorteos para los que se emitan boletos o billetes, sobre el valor nominal total de los boletos o billetes vendidos, el 20%;
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+I.- Cuando se trate de loterías, rifas, sorteos y concursos para los que se emitan boletos o billetes, obre el valor nominal total de los boletos o billetes vendidos, el 20%;
 
 II.- En los casos de rifas o sorteos ocasionales, para los que no se emitan billetes o boletos o en caso de emitirse éstos, no tengan valor nominal, sobre el valor total de los premios ofrecidos, el 20%;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
-III.- En los casos de loterías rifas o sorteos, en los que o pueda determinarse previamente el importe del ingreso que se obtendrá, por el pago de cuotas que den derecho a participar en ellos, diariamente de 0.25 a 2 salarios mínimos.
+III.-En los casos de loterías, rifas, sorteos y concursos en los que no pueda determinarse previamente el importe del ingreso que se obtendrá, por el pago de cuotas que den derecho a participar en ellos, diariamente de 0.25 a 2 salarios mínimos, y
+
+> <small>(F. DE E., G.O. 17 DE ENERO DE 1998)</small>
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+IV.-Las personas que obtengan premios por participar en loterías, rifas, sorteos y concursos, deberán pagar una tasa del 6%, que se aplicará al monto total de los ingresos.
 
 ###### ARTICULO 94.
 
 No se causará el impuesto a que se refiere este capítulo:
 
-I.- Por los sorteos que celebre la Lotería Nacional para la Asistencia Pública; y
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
-II.- Por las rifas y sorteos cuyo producto se destine íntegramente para fines de asistencia o de instrucción pública, autorizados por las autoridades competentes.
+I. Por las rifas y sorteos cuyo producto se destine íntegramente para fines de asistencia o de instrucción pública, autorizados por las autoridades competentes.
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+II. Los derivados de sorteos de autofinanciamiento, y
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+III. Aquellos en cuyos premios en forma global no supere el valor equivalente a los 400 salarios mínimos.
 
 ###### ARTICULO 95.
 
@@ -1177,9 +1201,33 @@ II.- Constituir a favor de la Tesorería Municipal respectiva, antes de que se e
 
 III.- Dar aviso escrito a la Tesorería Municipal, a más tardar el día anterior a la fecha señalada para efectuar la lotería, rifa o sorteo, de cualquier modificación que se realice en las bases de su celebración;
 
-IV.- Permitir a los interventores o inspectores designados por la Tesorería Municipal que presencien la celebración de las loterías, rifas o sorteos y a proporcionarles los datos y documentos que requieran para la determinación del impuesto; y
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
-V.- Pagar el impuesto en la Caja de la Tesorería Municipal a más tardar el día siguiente de efectuada la lotería, rifa o sorteo, presentando para ello, una liquidación en las formas aprobadas.
+IV. Permitir a los interventores o inspectores designados por la Tesorería Municipal que presencien la celebración de las loterías, rifas, sorteos y concursos y a proporcionarles los datos y documentos que requieran para la determinación del impuesto;
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+V. Pagar el impuesto en la Caja de la Tesorería Municipal a más tardar el día siguiente de efectuada la lotería, rifa, sorteo o concurso, presentando para ello una liquidación en las formas aprobadas;
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+VI. Efectuar las retenciones de este impuesto y enterarlo a la Tesorería Municipal;
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+VII. Proporcionar constancia de retención de Impuestos a la persona que obtenga el premio, cuando éste lo solicite;
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+VIII. Proporcionar a la Tesorería Municipal, los informes y documentos que les solicite respecto a los impuestos retenidos en los términos de este Capítulo, y
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+IX.- Las demás que señalen las autoridades fiscales.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Los organismos públicos descentralizados de la Administración Pública Federal, cuya actividad habitual sea la realización de estos eventos, quedan excluidos de cumplir con los requisitos mencionados en las fracciones I, II, III y IV de este artículo.
 
 ###### ARTICULO 96.
 
@@ -1235,7 +1283,9 @@ Los municipios percibirán un porcentaje adicional sobre los arbitrios, conforme
 
 I.- 15% adicional sobre:
 
-a).- Impuestos sobre fraccionamientos, espectáculos públicos y sobre juegos permitidos, sobre loterías, rifas y sorteos.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+a). Impuestos sobre espectáculos públicos y sobre juegos permitidos, sobre loterías, rifas, sorteos y concursos, solo en los casos de celebración de dichos actos;
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -1244,6 +1294,12 @@ b).- Derechos por la prestación de servicios en los panteones municipales, por 
 c).- Productos por ingresos obtenidos en la enajenación de bienes muebles e inmuebles pertenecientes al Municipio, por ingresos obtenidos por concepto de rentas de bienes propiedad del Municipio e ingresos por capitales impuestos.
 
 II.- 7.5% adicional sobre impuesto predial.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 105
+
+BIS.- Quedan excluidos de la aplicación del porcentaje adicional sobre arbitrios, los ingresos que obtengan los contribuyentes derivados de los premios por la celebración de loterías, rifas, sorteos y concursos.
 
 > <small>(DEROGADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1997)</small>
 
@@ -3844,3 +3900,7 @@ TRANSITORIO.- (DEROGADO, G.O. 1 DE FEBRERO DE 1997)
 G.O. 1 DE FEBRERO DE 1997.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 27 DE DICIEMBRE DE 1997.
+
+Artículo Único. La presente Ley entrará en vigor el día 1° de enero de 1998, previa su publicación en la Gaceta Oficial del Estado.
