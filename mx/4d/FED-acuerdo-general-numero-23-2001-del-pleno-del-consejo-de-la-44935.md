@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-10-24"
+last_updated: "2002-10-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -167,7 +167,9 @@ V.- QUINTO CIRCUITO:
 
 2.- Cuatro tribunales unitarios con sede en Hermosillo.
 
-3.- Diez juzgados de distrito en el Estado de Sonora: cuatro con sede en Hermosillo, cuatro con residencia en Nogales y dos con sede en Ciudad Obregón.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+3.- Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
 VI.- SEXTO CIRCUITO:
 
@@ -543,17 +545,23 @@ Los juzgados de distrito en el Estado de Nuevo León, con residencia en Monterre
 
 V.- QUINTO CIRCUITO:
 
-Los juzgados de distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Cumpas, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
 
-Los juzgados de distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Agua Prieta, Altar, Arizpe, Atil, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Caborca, Cananea, Cucurpe, Fronteras, General Plutarco Elías Calles, Huachinera, Imuris, Magdalena, Naco, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el Distrito Judicial conformado por los municipios de Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el Distrito Judicial conformado por los municipios de Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
 
 Los juzgados de distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el Distrito Judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
 
 VI.- SEXTO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -988,3 +996,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Segundo Tribunal Colegiado en Materia de Trabajo del Sexto Circuito, al Tercer Tribunal Unitario del Décimo Segundo Circuito, así como a la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Sexto Circuito.
+
+D.O.F. 30 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Noveno de Distrito en el Estado de Sonora, con residencia en Nogales, que cambia de residencia a la ciudad de Agua Prieta.
