@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-contaduria-mayor-de-hacienda-del-estado-de-nuevo-7477
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-08"
-last_updated: "1992-05-08"
+last_updated: "1994-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de mayo de 1992.
 
@@ -93,13 +93,17 @@ c) Ejecutaron los programas de inversión en los términos y montos aprobados y 
 
 d) Aplicaron los recursos provenientes de financiamientos en tiempo y forma establecidos por la ley.
 
-II.- Rendir al Congreso del Estado a través de la Comisión de Vigilancia, los informes previos y definitivos de las cuentas públicas que se presenten; así como los informes respecto del uso de las facultades expresadas en las Fracciones I, II y III del Artículo 23 de la presente Ley;
+II.- Rendir al Congreso del Estado a través de la Comisión de Vigilancia, los informes previos y definitivos de las cuentas públicas que se presenten; así como los informes respecto del uso de las facultades expresadas en las Fracciones I, II y III del Artículo 23 de la presente Ley.
 
-III.- Ordenar y practicar auditorías, visitas e inspecciones y, en general, realizar las investigaciones necesarias para lograr el cumplimiento de sus atribuciones, así como solicitar de cualquier persona física o moral la información o documentación que fuere necesaria, para el esclarecimiento de los hechos materia de la revisión;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
+
+III.- Ordenar y practicar a las Entidades auditorías, visitas e inspecciones y, en general, realizar las investigaciones necesarias para lograr el cumplimiento de sus atribuciones, así como solicitar de cualquier persona física o moral, los informes o documentos relativos a las operaciones, actos o actividades llevadas a cabo con la Entidad revisada y que estén específicamente relacionados con los hechos que se pretende aclarar en la revisión;
 
 IV.- Fijar las normas, procedimientos, métodos y sistemas internos para la revisión de la Cuenta Pública del Gobierno del Estado y de los Municipios;
 
-V.- Formular observaciones y recomendaciones a las entidades fiscalizadas, a través de sus titulares, sobre los sistemas, métodos y procedimientos cuya adopción se estime conveniente;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
+
+V.- Formular observaciones y recomendaciones a las entidades fiscalizadas, a través de sus Titulares, sobre los sistemas, métodos y procedimientos de administración cuya adopción se estime conveniente;
 
 VI.- Ser instrumento del Congreso del Estado para asesorarse en las siguientes materias:
 
@@ -149,15 +153,21 @@ a) Indelegables:
 
 I.- Presentar ante el Congreso del Estado, los Informes Previo y Definitivo, relativos a la revisión de la Cuenta Pública;
 
-II.- Fincar en representación del Congreso, las responsabilidades resultantes de las irregularidades detectadas, incluyendo formular denuncias o querellas ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
+
+II.- Fincar en representación del Congreso, con las formalidades que esta Ley establece, las responsabilidades resultantes de las irregularidades detectadas, incluyendo formular denuncias o querellas ante el Ministerio Público;
 
 III.- Fijar internamente las normas técnicas a las que deberán sujetarse las visitas, inspecciones, auditorías o revisiones, actualizándolas de acuerdo con los avances científicos y técnicos en materia de fiscalización;
 
-IV.- Formular, y una vez aprobado por el Congreso del Estado, ejecutar el programa de trabajo de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
+
+IV.- Formular, y una vez aprobado por el Congreso del Estado, ejecutar el programa de trabajo de la Contaduría Mayor de Hacienda, debiendo presentar informes trimestrales para reportar los avances alcanzados sobre el mismo, lo cual deberá hacerse dentro de los primeros diez días del mes siguiente a la conclusión de cada período;
 
 V.- Elaborar y proponer al Congreso del Estado, para su aprobación, el Presupuesto Anual de la Contaduría Mayor de Hacienda;
 
-VI.- Administrar y ejercer el Presupuesto Anual de la Contaduría Mayor de Hacienda, y trimestralmente dar cuenta de su aplicación al Congreso del Estado o a la Diputación Permanente en su caso, dentro de los diez primeros días del mes siguiente al trimestre que corresponda, e informar dentro de los treinta días siguientes al término del ejercicio del presupuesto anual, acerca de su aplicación;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
+
+VI.- Administrar y ejercer en los términos aprobados por el Congreso, el Presupuesto Anual de la Contaduría Mayor de Hacienda, y trimestralmente dar cuenta de su aplicación al Congreso del Estado o a la Diputación Permanente en su caso, dentro de los diez primeros días del mes siguiente al trimestre que corresponda, e informar dentro de los treinta días siguientes al término del ejercicio del Presupuesto Anual, acerca de su aplicación;
 
 VII.- Autorizar el nombramiento, promoción, remoción y suspensión del personal a su cargo;
 
@@ -239,17 +249,21 @@ Las visitas, inspecciones y auditorías ordenadas por la Contaduría Mayor de Ha
 
 La Contaduría Mayor de Hacienda podrá contratar los servicios profesionales de personal especializado externo para el mejor desempeño de sus funciones.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
+
+Para el inicio y desahogo de las revisiones que sean ordenadas, la Contaduría Mayor de Hacienda observará las formalidades que para efectos de visitas y revisiones de auditoria fiscal, se contemplan en el Código Fiscal del Estado de Nuevo León.
+
 ###### ARTICULO 15.
 
 Las entidades rendirán sus cuentas públicas en los términos previstos en la Constitución Política del Estado y en las leyes de la materia.
 
-> <small>(F. DE E., P.O. 21 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
-El Congreso del Estado turnará a la Comisión de Vigilancia las cuentas públicas, para que las remita a la Contaduría Mayor de Hacienda y se elabore el informe previo, que deberá presentarse dentro de los dos meses siguientes a su recepción, incluyendo comentarios generales sobre su contenido y si su presentación esta de acuerdo con los principios generales de contabilidad aplicables y en su caso si cumplieron con las formalidades exigidas para tal efecto.
+El Congreso del Estado turnará a la Comisión de Vigilancia las cuentas públicas, para que las remita a la Contaduría Mayor de Hacienda y se elabore el informe previo, que deberá presentarse dentro del mes siguiente a su recepción, incluyendo comentarios generales sobre su contenido y si su presentación está de acuerdo con los principios generales de contabilidad aplicables y en su caso si cumplieron con las formalidades exigidas para tal efecto.
 
-> <small>(F. DE E., P.O. 21 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
-La Contaduría Mayor de Hacienda, dentro de los primeros cuarenta y cinco días naturales del primer período ordinario de sesiones, siguiente a la presentación de las cuentas públicas, deberá rendir al Congreso del Estado, a través de la Comisión de Vigilancia, el informe definitivo de los resultados de las revisiones practicadas, emitiendo sus opiniones y recomendaciones.
+La Contaduría Mayor de Hacienda, dentro de los cinco meses siguientes a la recepción de las cuentas públicas, deberá rendir al Congreso del Estado, a través de la Comisión de Vigilancia, el informe definitivo de los resultados de las revisiones practicadas, emitiendo sus opiniones y recomendaciones.
 
 Este informe deberá contener comentarios generales sobre:
 
@@ -260,6 +274,10 @@ b) Si las entidades se ajustaron a los criterios señalados en las leyes, presup
 c) El cumplimiento de los objetivos generales y metas de los programas y sub-programas aprobados.
 
 d) El análisis de las desviaciones presupuestales y las irregularidades si las hubiere.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
+
+Una vez recibido el informe definitivo, se procederá a su estudio y análisis, en los términos contemplados en la legislación interior del Congreso del Estado, hecho lo cual se solicitará a la Diputación Permanente se convoque al Pleno del Congreso para que se analice su contenido y en su caso, sea aprobada la Cuenta Pública correspondiente.
 
 ###### ARTICULO 16.
 
@@ -307,6 +325,10 @@ III.- Los órganos de fiscalización superior afines, dependientes de la Legisla
 
 Las Dependencias o entidades para efectos de esta cooperación podrán establecer métodos, sistemas y procedimientos necesarios, para que la Contaduría Mayor de Hacienda cumpla oportunamente con las funciones que le son atribuidas en materia de finanzas públicas, fiscalización superior y demás responsabilidades.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
+
+ARTICULO 20 BIS.- Con el propósito de que la Contaduría Mayor de Hacienda rinda oportunamente los informes a que está obligada por la Ley, podrá recibir anticipadamente, a la presentación de la Cuenta Pública, información relativa a ella para su estudio. Para tal efecto, esta recepción se hará coordinadamente y con la aceptación de las Entidades, observando en todo caso el respeto que la Constitución establece para la división de Poderes y la autonomía municipal.
+
 ### CAPITULO QUINTO
 
 DE LAS RESPONSABILIDADES DERIVADAS DE LA REVISION DE LA CUENTA PUBLICA.
@@ -341,7 +363,9 @@ II.- De implicar la irregularidad detectada, daños y perjuicios patrimoniales a
 
 Para determinar y cuantificar el monto de la responsabilidad administrativa, se tomará como base el monto de los daños y perjuicios causados, a los valores actualizados, incluyendo los accesorios que correspondan;
 
-III.- Si la irregularidad detectada implica la comisión de un presunto ilícito, el Contador Mayor de Hacienda en representación del Congreso, deberá denunciar los hechos a la autoridad competente, a fin de que promueva las acciones que a su parte corresponda, informando de ello a la Comisión de Vigilancia.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
+
+III.- Si la irregularidad detectada implica la comisión de un presunto ilícito, el Contador Mayor de Hacienda en representación del Congreso, y previo conocimiento de éste, deberá denunciar los hechos a la autoridad competente, a fin de que promueva las acciones que a su parte correspondan.
 
 Las responsabilidades y sanciones económicas que conforme a esta ley se impongan, tendrán el carácter de crédito fiscal y se harán efectivas a través del Procedimiento Administrativo de Ejecución.
 
@@ -384,3 +408,9 @@ LIC. SOCRATES C. RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor para la revisión de la Cuenta Pública del Ejercicio Fiscal de 1994.
