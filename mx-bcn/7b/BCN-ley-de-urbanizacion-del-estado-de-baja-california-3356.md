@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "1981-08-20"
+last_updated: "1982-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1982.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -226,6 +226,10 @@ El Gobernador del Estado, podrá disponer que en el caso a que se refiere esta F
 IX.- Cobrar el costo de las obras; y
 
 X.- Formular su Reglamento Interior.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1982)</small>
+
+XI.- Revocar total o parcialmente la declaratoria a que se refiere el Artículo 56 cuando por cualquier motivo varía alguno o algunos de los conceptos que debe comprender dicha declaratoria. Previamente a la Revocación se le dará audiencia al Ayuntamiento o Ayuntamientos correspondientes. Se publicará en el Periódico Oficial del Estado y en uno de los de mayor circulación del Municipio o Municipios en que se pretenda realizar la obra.
 
 ###### ARTICULO 19.
 
@@ -842,3 +846,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C. ARMANDO GALLEGO MORENO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
