@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-tribunal-de-lo-contencioso-administrativo-del-16295"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-01"
-last_updated: "2003-05-24"
+last_updated: "2003-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 1 de Abril de 2000.
 
@@ -113,6 +113,10 @@ Será causa de retiro del Magistrado haber cumplido setenta y cinco años de eda
 
 Los emolumentos que perciba el Magistrado, así como los Secretarios, Actuarios y demás personal administrativo, quedarán sujetos a lo que establezca el presupuesto de egresos autorizado por la Legislatura al Tribunal de lo Contencioso Administrativo y no podrán ser disminuidos durante el término de su encargo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], 27 DE DICIEMBRE DE 2003)</small>
+
+A más tardar el día 15 de septiembre del año anterior a su ejercicio, el Magistrado propondrá a la Comisión de Administración el anteproyecto de presupuesto de egresos del Tribunal de lo Contencioso Administrativo.
+
 ###### ARTÍCULO 8.
 
 El Magistrado será suplido en sus faltas temporales por el Secretario de Acuerdos con el carácter de encargado del despacho. Las faltas definitivas se cubrirán con nueva designación en los términos de esta Ley.
@@ -173,7 +177,9 @@ VI. Conocer y resolver sobre las denuncias o quejas contra los secretarios y dem
 
 VII. Conceder licencias a los servidores públicos del Tribunal, en términos de ley;
 
-VIII. Elaborar el presupuesto del Tribunal y una vez aprobado, ejercerlo en forma autónoma;
+> <small>(REFORMADA, 27 DE DICIEMBRE DE 2003)</small>
+
+VIII. Elaborar el anteproyecto del presupuesto anual de egresos del Tribunal y una vez aprobado, ejercerlo en forma autónoma;
 
 IX. Expedir el Reglamento Interior del Tribunal;
 
@@ -199,9 +205,103 @@ V. Suplir las ausencias temporales del Magistrado.
 
 Los Secretarios de Trámite, Actuarios o demás empleados tendrán las atribuciones y deberes que les señale el Reglamento Interior.
 
-### CAPÍTULO III. DE LA COMPETENCIA DEL TRIBUNAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, 27 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II-BIS
+
+DE LA COMISIÓN DE ADMINSITRACIÓN.
+
+> <small>(ADICIONADO, 27 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 18-A.
+
+Para la administración y vigilancia en el ejercicio del presupuesto asignado al Tribunal de lo Contencioso Administrativo del Estado y Municipios, así como para preservar la disciplina al interior del citado Tribunal se creará una Comisión de Administración.
+
+La Comisión de Administración del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, se integrará por el Presidente del Tribunal Superior de Justicia, quien la presidirá; un Magistrado designado por el Pleno de éste y por el Magistrado del Tribunal de lo Contencioso Administrativo del Estado y Municipios. La Comisión tendrá carácter permanente y sesionará cuando menos una vez al mes en la sede del Tribunal de lo Contencioso Administrativo.
+
+La Comisión contará con una Secretaría Administrativa, cuyo titular podrá ser el encargado de la coordinación administrativa del Tribunal de lo Contencioso Administrativo, o la persona que la propia Comisión designe a propuesta de su Presidente. El titular de la Secretaría Administrativa concurrirá a las sesiones de la Comisión, con voz pero sin voto.
+
+La Comisión de Administración contará con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en su Reglamento Interior.
+
+> <small>(ADICIONADO, 27 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 18-B.
+
+La Comisión de Administración del Tribunal de lo Contencioso Administrativo sesionará válidamente con la presencia de dos de sus integrantes con derecho a voto; adoptará sus resoluciones por unanimidad o mayoría de los comisionados. Los comisionados no podrán abstenerse de votar salvo que tengan excusa o impedimento legal. En caso de empate, el Presidente tendrá voto de calidad.
+
+Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum se convocará nuevamente por el Presidente para que tenga verificativo dentro de las 24 horas siguientes. En este caso sesionará válidamente con el número de los integrantes que se presenten.
+
+El comisionado que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
+
+Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
+
+> <small>(ADICIONADO, 27 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 18-C.
+
+El Magistrado del Tribunal de lo Contencioso Administrativo atenderá los asuntos administrativos urgentes, en tanto se convoque y sesione válidamente la Comisión de Administración. En los casos de asuntos que ameriten una resolución impostergable, dicho funcionario podrá tomarla provisionalmente, hasta en tanto se reúna la Comisión para resolverlo en definitiva.
+
+Cuando la Comisión de Administración estime que sus acuerdos o resoluciones pudieran resultar de interés general, deberá solicitar su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>(ADICIONADO, 27 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 18-D.
+
+La Comisión de Administración tendrá las atribuciones siguientes:
+
+I. Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, régimen y remoción del personal del Tribunal de lo Contencioso Administrativo, así como las relativas a estímulos y capacitación del mismo;
+
+II. Establecer la normatividad y los criterios para modernizar la estructura orgánica, sistemas y procedimientos del Tribunal de lo Contencioso Administrativo;
+
+III. Dictar las bases generales de organización, funcionamiento, coordinación y supervisión de los órganos auxiliares de la propia Comisión;
+
+IV. Nombrar a propuesta del Magistrado del Tribunal de lo Contencioso Administrativo a los titulares y servidores públicos del Tribunal y de sus órganos auxiliares y acordar lo relativo a sus ascensos, licencias, permisos y renuncias;
+
+V. Emitir las medidas que exijan el buen servicio y la disciplina en el Tribunal de lo Contencioso Administrativo;
+
+VI. Realizar visitas y ordenar la práctica de investigación, cuando se estime que se ha cometido una falta grave o cuando así lo solicite el Magistrado del Tribunal de lo Contencioso Administrativo;
+
+VII. Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que disponga la ley;
+
+VIII. Imponer las sanciones que correspondan a los servidores del Tribunal por las irregularidades o faltas en que incurran en el desempeño de sus funciones, aplicando en lo conducente la Ley del Servicio Civil del Estado;
+
+IX. Decretar, cuando proceda, la suspensión, remoción o cese de secretarios, así como del demás personal jurídico y administrativo del Tribunal, por causa justificada en los términos que determinen las leyes y los acuerdos correspondientes, así como formular denuncias o querellas en los casos que proceda;
+
+X. Aprobar a propuesta del Magistrado del Tribunal de lo Contencioso Administrativo, el anteproyecto de presupuesto anual de egresos del Tribunal de lo Contencioso Administrativo y presentarlo al Pleno del Tribunal Superior de Justicia a fin de que se incluya en el Poder Judicial del Estado;
+
+XI. Ejercer en forma autónoma, el Presupuesto de Egresos del Tribunal de lo Contencioso Administrativo, por conducto del Magistrado del referido Tribunal;
+
+XII. Emitir las bases mediante acuerdos generales para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que en su caso realice el Tribunal de lo Contencioso Administrativo, en ejercicio de su presupuesto de egresos, se ajusten a los criterios previstos por la ley.
+
+XIII. Administrar los bienes muebles e inmuebles al servicio del Tribunal de lo Contencioso Administrativo, cuidando su mantenimiento, conservación y acondicionamiento;
+
+XIV. Fijar las bases de la política informática y estadística del Tribunal;
+
+XV. Vigilar que los servidores públicos del Tribunal obligados ellos en términos de la Ley de Responsabilidades de los Servidores Públicos cumplan en tiempo y forma con la presentación de su declaración de situación patrimonial;
+
+XVI. Las demás atribuciones que la Ley o el Reglamento Interior del Tribunal le encomienden.
+
+> <small>(ADICIONADO, 27 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 18-E.
+
+El Presidente de la Comisión de Administración tendrá las atribuciones siguientes:
+
+I. Representar a la Comisión;
+
+II. Convocar a los integrantes de la Comisión a las sesiones ordinarias y extraordinarias;
+
+III. Dirigir los debates y conservar el orden durante las sesiones de la Comisión;
+
+IV. Tramitar o turnar, cuando corresponda, los asuntos administrativos entre los miembros de la Comisión para que se formulen los correspondientes proyectos de resolución;
+
+V. Tramitar y despachar la correspondencia de la Comisión, firmar las resoluciones o acuerdos, así como legalizar por sí o por conducto del Secretario de la Comisión, la firma de cualquier servidor del Tribunal;
+
+VI. Supervisar y vigilar el correcto funcionamiento de los órganos auxiliares de la Comisión de Administración; y
+
+VII. Las demás que le señalen la ley, los reglamentos aplicables y los acuerdos generales.
+
+### CAPÍTULO III. DE LA COMPETENCIA DEL TRIBUNAL
 
 ###### ARTÍCULO 19.
 
@@ -229,7 +329,7 @@ X. De las demás que expresamente le señalen esta Ley y otras disposiciones leg
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO
 
-### CAPÍTULO II. DE LAS PARTES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 20.
 
@@ -275,7 +375,7 @@ En los juicios que se tramiten ante el Tribunal no habrá lugar a condenación e
 
 Las cuestiones que surjan dentro del procedimiento se decidirán de plano, salvo las que trasciendan al resultado del juicio, que se fallarán conjuntamente con el principal.
 
-### CAPÍTULO III. NOTIFICACIONES Y TÉRMINOS
+### CAPÍTULO II. DE LAS PARTES
 
 ###### ARTÍCULO 28.
 
@@ -297,7 +397,7 @@ Las partes podrán autorizar a toda persona con capacidad legal, para oír y rec
 
 Si son varios los demandantes, o los terceros, deberán designar un representante común, que estará facultado para actuar en los términos del párrafo anterior.
 
-### CAPÍTULO IV. DE LOS IMPEDIMENTOS
+### CAPÍTULO III. NOTIFICACIONES Y TÉRMINOS
 
 ###### ARTÍCULO 30.
 
@@ -371,9 +471,7 @@ Son días hábiles para la promoción, substanciación y resolución de los juic
 
 Son horas hábiles las comprendidas entre las ocho y las dieciocho horas.
 
-### CAPÍTULO V. DE LA DEMANDA Y CONTESTACIÓN
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2003)</small>
+### CAPÍTULO IV. DE LOS IMPEDIMENTOS
 
 ###### ARTÍCULO 41.
 
@@ -409,7 +507,9 @@ Si es al Magistrado a quien se recuse, la parte que considere afecte a sus inter
 
 Si la recusación se declarase infundada, el Magistrado decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la hizo valer, y podrá imponerle una multa de diez a cincuenta salarios mínimos generales vigentes en la ciudad de Zacatecas, a la fecha en la que se interpuso la recusación.
 
-### CAPÍTULO VI. DE LA SUSPENSIÓN
+### CAPÍTULO V. DE LA DEMANDA Y CONTESTACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 44.
 
@@ -495,7 +595,7 @@ Si el demandado no contestase dentro del término legal, el Tribunal declarará 
 
 Contestada la demanda, el Magistrado examinará el expediente y si encontrare acreditada alguna causa evidente de improcedencia o de sobreseimiento, podrá emitir resolución mediante la cual se dé por concluido el procedimiento.
 
-### CAPÍTULO VII. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
+### CAPÍTULO VI. DE LA SUSPENSIÓN
 
 ###### ARTÍCULO 55.
 
@@ -531,7 +631,7 @@ Contra los actos que concedan o nieguen la suspensión o contra los que determin
 
 Para hacer efectiva la reparación de los daños que se hubieren ocasionado con la suspensión, o por haberla dejado sin efecto a solicitud de tercero, el interesado deberá solicitarlo dentro de los treinta días siguientes a la notificación de la sentencia, ante el Tribunal, de la que se dará vista a las demás partes por un término de cinco días y se citará a una audiencia de pruebas y alegatos dentro de los cinco días siguientes, en la que se dictará la resolución que corresponda. Contra esta resolución procederá el recurso de Revocación.
 
-### CAPÍTULO VIII. DE LAS PRUEBAS
+### CAPÍTULO VII. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
 
 ###### ARTÍCULO 61.
 
@@ -571,7 +671,7 @@ IV. Cuando la autoridad demandada haya satisfecho la pretensión del actor;
 
 V. Cuando no se haya efectuado ningún acto procesal durante ciento ochenta días naturales, ni el actor hubiere promovido en este mismo tiempo, siempre que en éste último caso la promoción no realizada sea necesaria para la continuación del procedimiento.
 
-### CAPÍTULO IX. DE LA AUDIENCIA
+### CAPÍTULO VIII. DE LAS PRUEBAS
 
 ###### ARTÍCULO 63.
 
@@ -617,7 +717,7 @@ Harán prueba plena: la documental pública, la de inspección judicial y la con
 
 Las demás pruebas se valorarán conforme a los principios de la lógica y la experiencia.
 
-### CAPÍTULO X. DE LA SENTENCIA
+### CAPÍTULO IX. DE LA AUDIENCIA
 
 ###### ARTÍCULO 71.
 
@@ -647,7 +747,7 @@ Concluida la recepción de pruebas, el actor, la parte demandada y el tercero in
 
 Una vez concluida la fase de alegatos el Magistrado dictará sentencia, salvo que por razón de las labores del Tribunal, porque se hayan decretado diligencias para mejor proveer, o por el número e índole de las constancias, reserve la emisión de la sentencia por un término no mayor de diez días.
 
-### CAPÍTULO XI. DEL CUMPLIMIENTO DE LA SENTENCIA
+### CAPÍTULO X. DE LA SENTENCIA
 
 ###### ARTÍCULO 76.
 
@@ -683,9 +783,7 @@ IV. Arbitrariedad, desproporción, desigualdad, injusticia manifiesta o cualquie
 
 De ser fundada la demanda, la sentencia dejará sin efecto el acto o resolución impugnados y las autoridades responsables quedarán obligadas a otorgar o restituir al demandante en el goce de los derechos que le hubieren sido indebidamente afectados, en los términos que establezca la sentencia.
 
-### CAPÍTULO XII. DEL RECURSO DE REVOCACION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO 2003)</small>
+### CAPÍTULO XI. DEL CUMPLIMIENTO DE LA SENTENCIA
 
 ###### ARTÍCULO 79.
 
@@ -713,7 +811,9 @@ Si la autoridad persistiere en su rebeldía, el Tribunal solicitará al superior
 
 Si no obstante los requerimientos a que se refieren las disposiciones anteriores no se da cumplimiento a la resolución, se procederá en contra del servidor público responsable en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
-### CAPÍTULO XIII. DE LA JURISPRUDENCIA
+### CAPÍTULO XII. DEL RECURSO DE REVOCACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO 2003)</small>
 
 ###### ARTÍCULO 84.
 
@@ -722,6 +822,8 @@ En contra de las sentencias definitivas del Tribunal, no procede recurso alguno.
 Al admitirse el recurso se correrá trasladado a las demás partes por el término de cinco días hábiles, para que expongan lo que a su derecho convenga.
 
 Vencido el término se emitirá la resolución que corresponda en un plazo de cinco días hábiles.
+
+### CAPÍTULO XIII. DE LA JURISPRUDENCIA
 
 ###### ARTÍCULO 85.
 
@@ -788,3 +890,7 @@ SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las di
 P.O. 24 DE MAYO DE 2003.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
