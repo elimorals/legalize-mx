@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-las-entidades-paraestatales-165
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-26"
-last_updated: "1990-01-26"
+last_updated: "1995-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-01-25"
 
 REGLAMENTO DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 1995.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de enero de 1990.
 
@@ -57,7 +57,7 @@ En lo no previsto en la mencionada Ley y este Reglamento, se estará a lo dispue
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Ley: la Ley Federal de las Entidades Paraestatales.
+I. Ley: la Ley Federal de las Entidades Paraestatales;
 
 II. Organo de Gobierno: Los consejos de administración, juntas directivas de Gobierno, comités técnicos o sus equivalentes;
 
@@ -77,17 +77,25 @@ Los servidores públicos que se designen en los términos del artículo 33 de la
 
 De la Constitución y Extinción de las Entidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 5o.
 
-La Secretaría de Programación y Presupuesto, a propuesta o previa opinión de la dependencia coordinadora de sector y con el dictamen favorable de la Comisión Intersecretarial Gasto-Finananciamiento, someterá a la consideración del Ejecutivo Federal la constitución o desincorporación de entidades paraestatales.
+La Secretaría de Hacienda y Crédito Público, a propuesta o previa opinión de la dependencia coordinadora de sector, someterá a la consideración del Ejecutivo Federal la constitución o desincorporación de entidades paraestatales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1995)</small>
+
+Para la constitución de entidades paraestatales se requerirá, además, el dictamen favorable de la Comisión Intersecretarial de Gasto-Financiamiento y, en el caso de desincorporaciones, el dictamen favorable de la Comisión Intersecretarial de Desincorporación.
 
 Salvo que por los fines o características particulares de una entidad se requiera que se constituya por ley o decreto del Congreso de la Unión o se trate de un organismo descentralizado, el Ejecutivo Federal autorizará la constitución de entidades paraestatales por conducto de la Secretaría de Programación y Presupuesto, la que emitirá la resolución respectiva.
 
 Para la desincorporación de entidades creadas por ley o decreto del Congreso de la Unión o por decreto o acuerdo del Ejecutivo Federal se deberán observar las mismas formalidades seguidas para su creación. En los demás casos, la autorización del Ejecutivo Federal se formalizara en los términos del párrafo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 6o.
 
-La desincorporación de entidades paraestatales de la Administración Pública Federal, se llevará a cabo mediante su disolución, liquidación, extinción, fusión o transferencia a los estados.
+La desincorporación de entidades paraestatales de la Administración Pública Federal, se llevará a cabo mediante la disolución, liquidación, extinción, fusión, enajenación, o bien, mediante transferencia a las entidades federativas.
 
 En el caso de entidades consideradas por la Ley Orgánica de la Administración Pública Federal, como empresas de participación estatal mayoritaria, estas serán desincorporadas a través de los actos por virtud de los cuáles dichas Entidades dejen de encontrarse en los supuestos a que se refiere el artículo 46 de la mencionada Ley.
 
@@ -386,3 +394,9 @@ SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas qu
 TERCERO.- Los titulares de las entidades paraestatales deberán someter a la aprobación de la instancia que corresponda, en un plazo no mayor de tres meses contados a partir de la fecha de entrada en vigor de este Reglamento, las adecuaciones que resulten procedentes conforme a este mismo ordenamiento, respecto a la organización y funcionamiento de las propias entidades.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de enero de mil novecientos; noventa.- Carlos Salinas de Gortari Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe Armella.- Rúbrica.- El Secretario de Programación y Presupuesto, Ernesto Zedillo Ponce de León.- Rúbrica., La Secretaria de la Contraloría General de la Federación, Ma. Elena Vázquez Nava.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE ABRIL DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
