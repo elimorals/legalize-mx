@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1926-04-24"
+last_updated: "1928-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,9 @@ issue_date: "1926-04-05"
 
 LEY FORESTAL
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE FEBRERO DE 1928.
 
-Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926.
+Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -375,9 +375,13 @@ Las faltas no especificadas en este capítulo, serán castigadas con arreglo a l
 
 Las multas se harán efectivas por las correspondientes oficinas de Hacienda, las que pueden, ejercitar la facultad económico-coactiva para ello.
 
+> <small>(REFORMADO, D.O. 7 DE FEBRERO DE 1928)</small>
+
 ###### ARTICULO 69.
 
-Del importe total de cada multa se aplicará una mitad al Erario Federal y la otra mitad se distribuirá por tercios entre el denunciante, el aprehensor y el empleado que forme el expediente e imponga la multa, siempre que esto se haga administrativamente. Si no hubiere denunciante, su parte se aplicará al aprehensor o aprehensores.
+Del importe total de cada multa se aplicará una mitad al Erario Federal y la otra mitad se distribuirá por partes iguales entre el denunciante y el aprehensor, sin que en ningún caso pueda exceder la participación personal, de $500.00. Si no hubiere denunciante, su parte se aplicará al aprehensor o aprehensores, con la misma limitación señalada antes.
+
+Los empleados de la Oficina Central de la Dirección Forestal no tendrán derecho a participación alguna.
 
 ###### ARTICULO 70.
 
@@ -426,3 +430,9 @@ Lo que comunico a usted para su publicación y demás efectos.
 Sufragio Efectivo. No Reelección.
 
 México, 21 de abril de 1926.-El Secretario de Estado y del Despacho de Gobernación, A. Tejeda.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 7 DE FEBRERO DE 1928.
+
+> <small>[N. DE E. EL "DECRETO QUE REFORMA EL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.]</small>
