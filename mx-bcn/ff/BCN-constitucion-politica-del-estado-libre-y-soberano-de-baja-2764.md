@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1983-12-31"
+last_updated: "1984-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -159,7 +159,7 @@ III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y I
 
 En caso de que dos o más Partidos se encuentren en las condiciones mencionadas en este Artículo, se atribuirá, en los términos del párrafo anterior, un Diputado al que mayor número de votos alcance y uno a cada uno de los Partidos que le sigan en votación.
 
-> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 20 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 1983)</small>
 
 En caso de que sólo un partido satisfaga los requisitos que establecen las Fracciones I y II de este Artículo, se le atribuirán a dicho Partido todos los Diputados de Minoría, conforme al procedimiento que establezca la Ley respectiva.
 
@@ -175,7 +175,7 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ###### ARTICULO 17.
 
-Para ser electo diputado propietario o suplente se requiere:
+Para ser electo diputado propietario o suplente, se requiere:
 
 I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
@@ -215,11 +215,17 @@ El Congreso calificará la elección de sus miembros a través de un Colegio Ele
 
 Las sesiones del Colegio Electoral se iniciarán diez días antes de la Instalación del Congreso. Las credenciales que no fueren calificadas en este período, lo serán con posterioridad.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1966)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones: uno del primero de Octubre al treinta y uno de Enero y el otro del primero de Abril al treinta de Junio.
+El Congreso del Estado tendrá cada año dos Períodos Ordinarios de Sesiones, uno del 1o. de octubre al 31 de enero y el otro del 1o. de abril al 30 de junio.
+
+En el Primer Período, antes de concluir el año, examinará, discutirá y aprobará el Presupuesto del Estado correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
+
+En el Segundo Período se ocupará preferentemente del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las Partidas respectivas del Presupuesto, sino también a comprobar la exactitud y justificación de los gastos hechos y a determinar las responsabilidades que resultaren.
+
+En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las Iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
 ###### ARTICULO 23.
 
@@ -259,11 +265,15 @@ VII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, c
 
 VIII.- Calificar la validez de las elecciones de los ayuntamientos, consignando al Procurador de Justicia los hechos delictuosos en materia electoral que aparezcan en los expedientes respectivos;
 
-IX.- Suspender a los miembros de los Ayuntamientos hasta por tres meses por sí o a petición del Ejecutivo cuando se juzgue indispensable para la práctica de una averiguación relacionada con sus funciones;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga.
 
 X.- Hacer la declaratoria de haber resultado electos senadores por el Estado, los ciudadanos que hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XI.- Autorizar los gastos del Estado y de los Municipios para cada ejercicio fiscal, así como las contribuciones para cubrirlos, teniendo especial cuidado en que los arbitrios municipales sean suficientes para atender sus servicios públicos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado.
 
 XII.- Revisar anualmente las cuentas del Estado y de los Municipios y examinarlas cuando se estime conveniente;
 
@@ -289,9 +299,15 @@ XXII.- Resolver las competencias y dirimir las controversias que se susciten ent
 
 XXIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y los Ayuntamientos;
 
-XXIV.- Erigirse en Gran Jurado para conocer de las causas de responsabilidad de los funcionarios que gocen de fuero, por delitos comunes u oficiales cometidos en el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-XXV.- Nombrar y remover a los empleados del Poder Legislativo de acuerdo con lo dispuesto por la Ley del Servicio Civil;
+XXIV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 94 de esta Constitución.
+
+Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución.
 
 XXVI.- Fijar y Modificar la extensión del territorio que corresponda a los municipios, por voto de las dos tercias partes de los diputados presentes, suprimir alguno o crear otro nuevo;
 
@@ -301,7 +317,17 @@ XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servici
 
 XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;
 
-XXX.- Formar su Reglamento Interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXXII.- Formar su Reglamento Interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
 
 ### CAPITULO IV.. DE LA COMISION PERMANENTE
 
@@ -389,7 +415,9 @@ I.- Convocar al Congreso a período extraordinario de sesiones en los casos que 
 
 II.- Conceder las licencias y permisos de la competencia del Congreso;
 
-III.- Dictaminar sobre las modificaciones a los presupuestos municipales que propongan los Ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+III.- Dictaminar sobre las Modificaciones a los Presupuestos de Ingresos Municipales, que propongan los respectivos Ayuntamientos.
 
 IV.- Otorgar o negar su aprobación a los nombramientos de los Magistrados que haga el Ejecutivo;
 
@@ -399,7 +427,7 @@ VI.- Recibir los expedientes electorales relativos a la elección de diputados y
 
 VII.- Instalar las juntas preparatorias del Colegio Electoral del Congreso.
 
-VIII.- Suspender, a petición del Ejecutivo, a los miembros de los Ayuntamientos, hasta por tres meses, cuando se juzgue indispensable para la práctica de una averiguación relacionada con sus funciones;
+VIII.- (DEROGADA, P.O. 31 DE ENERO DE 1984)
 
 IX.- Las demás que le concede esta Constitución.
 
@@ -483,7 +511,9 @@ VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
 VII.- Convocar al Congreso a sesiones extraordinarias;
 
-VIII.- Visitar los municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
@@ -503,7 +533,9 @@ XVI.- Formular y expedir los reglamentos para el buen despacho de la administrac
 
 XVII.- Decretar expropiación de bienes por causas de utilidad pública, en la forma que determinen las leyes;
 
-XVIII.- Tomar en caso de invasión o de trastornos interiores, las medidas extraordinarias que fueren precisas para hacer respetar la soberanía del Estado y el orden sujetándolas a la mayor brevedad, a la aprobación del Congreso;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XVIII.- Tener el mando directo de la fuerza pública en el Municipio donde residiere habitual o transitoriamente y tomar en caso de invasión o de trastornos interiores, las medidas extraordinarias que fueren precisas para hacer respetar la Soberanía del Estado y el orden sujetándolas a la mayor brevedad, a la aprobación del Congreso;
 
 XIX.- Conceder licencias con goce de sueldo o sin él y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
 
@@ -697,13 +729,13 @@ El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán 
 
 Los Ayuntamientos se compondrán de Munícipes electos por votación popular directa y no habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 78.
 
 Los Ayuntamientos estarán formados por un Presidente Municipal y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
 
-En los Ayuntamientos de los Municipios cuya población sea de trescientos mil o más habitantes, podrá haber además, un Regidor de minoría. Para determinar el regidor de minoría, se tendrá en cuenta la votación de los partidos minoritarios que participen en la elección, y de la planilla que resulte entre ellos con mayor cantidad de votos, se tomará al candidato que figure en primer término entre los postulados para el cargo de regidor.
+En los Ayuntamientos de todos los Municipios, podrá haber además un Regidor de minoría. Para determinar el Regidor de minoría se tendrá en cuenta la votación de los partidos minoritarios que participen en la elección y de la planilla que resulte entre ellos con mayor cantidad de votos, se tomará al candidato que figure en primer término entre los postulados para el cargo de Regidor.
 
 La Ley establecerá lo relativo al proceso para la elección de los Ayuntamientos.
 
@@ -729,41 +761,83 @@ V.- Estar en pleno goce de sus derechos políticos.
 
 Los Ayuntamientos deberán instalarse en todo el Estado el día 1ro. de Diciembre que siga a su elección. Sus integrantes durarán en su cargo tres años, y de acuerdo con lo dispuesto en el artículo 115, Fracción I de la Constitución Política de los Estados Unidos Mexicanos, no podrán ser reelectos para el período inmediato.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 81.
 
-Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
+Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
+
+Los Ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado los Bandos de Policía y Buen Gobierno y los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+Los Municipios, con el concurso del Estado, cuando así fuere necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos:
+
+a).- Agua Potable y Alcantarillado.
+
+b).- Alumbrado Público.
+
+c).- Limpia.
+
+d).- Mercados y Centrales de Abasto.
+
+e).- Panteones.
+
+f).- Rastro.
+
+g).- Calles, Parques y Jardines.
+
+h).- Seguridad Pública y Tránsito e
+
+i).- Los demás que la Legislatura Local determine según sus condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 82.
 
-Los Municipios administrarán libremente su Hacienda, la cual se formará de las contribuciones y arbitrios que señale el Congreso. También formarán parte de la Hacienda Municipal los bienes muebles e inmuebles que adquieran por compra, donación u otro concepto.
+Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor, y en todo caso:
+
+a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determine por la Legislatura del Estado.
+
+c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren los Incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del Dominio Público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+
+La Legislatura del Estado aprobará las Leyes de Ingresos de los Ayuntamientos y revisará sus Cuentas Públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
 ###### ARTICULO 83.
 
-Cuando se creé un nuevo Municipio se cuidará de que en la extensión territorial que se le señale exista el número suficiente de habitantes que justifique la formación del Municipio, de acuerdo con la Ley respectiva.
+Cuando se cree un nuevo Municipio se cuidará de que en la extensión territorial que se le señale exista el número suficiente de habitantes que justifique la formación del Municipio, de acuerdo con la Ley respectiva.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 84.
 
-Procederá la designación de Concejos Municipales por el Congreso, a propuesta del Gobernador del Estado, cuando fuere declarada la nulidad de las elecciones de los Ayuntamientos o las mismas no estuvieren hechas y declaradas; o sus integrantes, Propietarios y Suplentes, renunciaren colectivamente, faltaren en su totalidad o no se presentaren al iniciarse un período constitucional.
+Procederá la designación de los Concejos Municipales por el Congreso, a propuesta del Gobernador del Estado, cuando fuere declarada la nulidad de las elecciones de los Ayuntamientos o las mismas no estuvieran hechas y declaradas; o sus integrantes, propietarios o suplentes, renunciaren colectivamente, faltaren en su totalidad o no se presentaren al iniciarse un período constitucional.
 
-Los Concejos Municipales podrán ser provisionales o substitutos, según lo disponga la Ley Orgánica Municipal, la que determinará su integración con el mismo número de miembros previsto para los Ayuntamientos y los casos en que proceda la elección de éstos.
+Los Concejos Municipales podrán ser provisionales o substitutos, según lo disponga la Ley Orgánica Municipal, la que determinará su integración con el mismo número de miembros previsto por los Ayuntamientos y los casos en que proceda la elección de éstos.
 
-La designación de Munícipes procederá cuando renuncien o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos Munícipes serán nombrados en los mismos términos que dispone este artículo para los Concejos Municipales.
+La designación de Munícipes procederá cuando renuncien o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos Munícipes serán nombrados en los mismos términos que dispone este Artículo para los Concejos Municipales.
 
-La renuncia de los miembros de los Ayuntamientos de que trata este artículo, sólo será procedente si se funda en una causa grave.
+La renuncia de los miembros de los Ayuntamientos de que trata este Artículo, solo será procedente si se funda en una causa grave.
 
-Los miembros integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este artículo, deberán reunir los requisitos exigidos por esta Constitución, para la elección de los miembros de los Ayuntamientos y tendrán los (sic) facultades y obligaciones que aquéllas y las leyes otorgan a dichos Ayuntamientos.
+La Legislatura por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, en la forma y términos establecidos en la Fracción IX del Artículo 27 de esta Constitución.
 
-Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este artículo, no podrán ser miembros de los Ayuntamientos, para el período inmediato.
+Los miembros integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este Artículo, deberán reunir los requisitos exigidos por esta Constitución, para la elección de los miembros de los Ayuntamientos y tendrán los facultades y obligaciones que aquéllas y las Leyes otorgan a dichos Ayuntamientos.
 
-Todo miembro de un Ayuntamiento, Concejo Municipal o Munícipe, electo o designado, conforme a lo que dispone el Capítulo Unico del Título Sexto de esta Constitución, cesará en su encargo, al concluir el período constitucional para el cual fué elegido o el término para el cual fué designado.
+Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este Artículo, no podrán ser miembros de los Ayuntamientos, para el período inmediato.
+
+Todo miembro de un Ayuntamiento, Concejo Municipal o Munícipe, electo o designado, conforme a lo que dispone el Capítulo Unico del Título Sexto de esta Constitución, cesará en su cargo, al concluir el período constitucional para el cual fue elegido o el término para el cual fué designado.
 
 ###### ARTICULO 85.
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior y los presupuestos para el siguiente:
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+I.- Remitir al Congreso para su revisión y aprobación, cada año, las cuentas del anterior.
 
 II.- Cuidar de la eficacia de los servicios públicos de su jurisdicción.
 
@@ -915,7 +989,7 @@ En el Estado será protegida la propiedad literaria y artística. La Ley fijará
 
 ###### ARTICULO 102.
 
-El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley. El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
+El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley, El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
 
 ###### ARTICULO 103.
 
@@ -1003,7 +1077,7 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
 VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
@@ -1188,3 +1262,7 @@ Las reformas a que se refiere el presente Decreto, entrarán en vigor una vez cu
 P.O. 31 DE DICIEMBRE DE 1983.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 1984.
+
+UNICO.- Las Reformas, Adiciones y Derogación a que se refiere el presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
