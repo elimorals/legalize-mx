@@ -4,7 +4,7 @@ identifier: "LEI"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-29"
-last_updated: "1975-12-29"
+last_updated: "1984-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEI"
 
 LEY DE EXTRADICION INTERNACIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de diciembre de 1975.
 
@@ -51,6 +51,10 @@ Los procedimientos establecidos en esta ley se deberán aplicar para el trámite
 ###### ARTICULO 3.
 
 Las extradiciones que el Gobierno Mexicano solicite de estados extranjeros, se regirán por los tratados vigentes y a falta de éstos, por los artículos 5, 6, 15 y 16 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE DICIEMBRE DE 1984)</small>
+
+Las peticiones de extradición que formulen las autoridades competentes federales, de los Estados de la República o del fuero común del Distrito Federal, se tramitarán ante la Secretaría de Relaciones Exteriores por conducto de la Procuraduría General de la República.
 
 ###### ARTICULO 4.
 
@@ -160,9 +164,13 @@ Cuando un Estado manifieste la intención de presentar petición formal para la 
 
 Si la Secretaría de Relaciones Exteriores estimare que hay fundamento para ello, transmitirá la petición al Procurador General de la República, quien de inmediato promoverá ante el Juez de Distrito que corresponda, que dicte las medidas apropiadas, las cuales podrán consistir, a petición del Procurador General de la República, en arraigo o las que procedan de acuerdo con los tratados o las leyes de la materia.
 
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 18.
 
-Si dentro de un término prudente, a juicio de la Secretaría de Relaciones Exteriores que se notificará al Estado solicitante y que nunca excederá de dos meses contados a partir de la fecha en que se hayan decretado las medidas a que se refiere el artículo anterior, no fuere presentada la petición formal de extradición a la Secretaría de Relaciones Exteriores, se levantarán de inmediato dichas medidas.
+Si dentro del plazo de dos meses que previene el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, contados a partir de la fecha en que se hayan cumplimentando las medidas señaladas en el artículo anterior, no fuere presentada la petición formal de extradición a la Secretaría de Relaciones Exteriores, se levantarán de inmediato dichas medidas.
+
+El juez que conozca del asunto notificará a la Secretaría de Relaciones Exteriores el inicio del plazo al que se refiere este artículo, para que la Secretaría, a su vez, lo haga del conocimiento del Estado solicitante.
 
 ###### ARTICULO 19.
 
@@ -273,3 +281,11 @@ Todas las extradiciones que estén en trámite al entrar en vigor esta ley se su
 México, D. F., a 18 de diciembre de 1975.- Emilio M. González Parra, S. P,- Luis del Toro Calero, D. P.- Germán Corona del Rosal, S. S.- Rogelio García González, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
