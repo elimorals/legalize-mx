@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2004-02-27"
+last_updated: "2004-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -603,7 +603,7 @@ XLVII.- Remover a los Magistrados y Consejeros de la Judicatura del Estado cuand
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
-XLVIII.- Recibir del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado informe estadístico trimestral del Poder Judicial del Estado; y
+XLVIII.- Recibir el informe estadístico trimestral del Poder Judicial del Estado; y
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -947,17 +947,17 @@ El Gobernador será Jefe y responsable de la Administración Pública centraliza
 
 El Ministerio Público, institución que tiene por objeto ejercer la representación y defensa de los intereses de la sociedad, velar por la exacta observancia de las leyes de interés general y perseguir los delitos del orden común, será desempeñado por un Procurador General de Justicia, por los Agentes de dicho Ministerio y demás servidores públicos que determine su Ley Orgánica. El cargo de Procurador sólo es renunciable por causa grave, que será sometida a la consideración del Gobernador del Estado, a quien corresponde su aceptación. Para ser Procurador General de Justicia se deberán reunir los mismos requisitos que para ser Magistrado prevenga esta Constitución.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
-El Procurador General de Justicia será propuesto al H. Congreso del Estado por el Ejecutivo. La aprobación se hará, previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso, dentro de los tres días siguientes a la fecha de la comparecencia. Si el H. Congreso no se encontrase reunido, la Diputación Permanente convocará de inmediato a un Período Extraordinario de Sesiones.
+El Procurador General de Justicia será propuesto al H. Congreso del Estado por el Ejecutivo. La aprobación se hará, previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso, dentro de los cinco días siguientes a la fecha de la comparecencia. Si el H. Congreso no se encontrase reunido, la Diputación Permanente convocará de inmediato a un Período Extraordinario de Sesiones.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 En caso de que, transcurrido el plazo de cinco días, el H. Congreso rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado, en un plazo de diez días, propondrá a otra persona y la aprobación se efectuará en los términos del párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
-Si presentada la segunda propuesta, el H. Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación del Procurador.
+Si presentada la segunda propuesta, el H. Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese mismo procedimiento ya hubieran sido propuestas al Congreso para ocupar dicho cargo.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1009,47 +1009,75 @@ El cargo de Gobernador sólo es renunciable por causa grave que calificará el C
 
 ## TITULO VI.. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2004)</small>
 
 ###### Art. 94.
 
-.- La potestad de aplicar las leyes en las materias civil, familiar, penal y de jurisdicción concurrente pertenece al Poder Judicial.
-
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, y se expresará a través de funcionarios y auxiliares en los términos que establezcan esta Constitución y las Leyes.
-
-En el Poder Judicial habrá un Consejo de la Judicatura del Estado, el cual tendrá las atribuciones que le señalen esta Constitución y las Leyes.
-
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas Unitarias y se regirá en la forma que señale la Ley Orgánica del Poder Judicial. Tendrá el número de Magistrados que determine la Ley, quienes durarán hasta veinte años en su encargo.
-
-El Pleno del Tribunal Superior de Justicia estará integrado por los Magistrados y funcionará con el quórum que establezca la Ley. Las Sesiones del Pleno serán públicas y, por excepción, secretas en los casos en que así lo exijan la moral y el interés público.
-
-El Presidente del Tribunal Superior de Justicia será un Magistrado que no integrará Sala. Será electo por el Pleno y durará en su encargo dos años sin reelección inmediata.
-
-La vigilancia y disciplina del Poder Judicial se realizará en los términos que determine la Ley.
-
-La administración del Poder Judicial estará a cargo del Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado, en el ámbito de sus respectivas atribuciones.
-
-El Consejo de la Judicatura del Estado se compondrá por tres Consejeros, de los cuales uno será designado por el Titular del Poder Ejecutivo, los otros dos serán electos, uno por el Pleno del Tribunal Superior de Justicia, y el otro por el Congreso del Estado, mediante voto aprobatorio secreto de, al menos, la mitad más uno de sus integrantes.
-
-El Presidente del Consejo de la Judicatura se elegirá de entre sus miembros por ellos mismos, durará en su encargo dos años y no podrá ser reelecto.
-
-Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función. Los funcionarios del Poder Judicial del Estado no podrán ser Consejeros de la Judicatura, salvo si se separan del cargo cien días naturales antes de su elección o designación.
-
-Los Consejeros de la Judicatura del Estado durarán cinco años en su encargo, serán sustituidos de manera escalonada, no podrán ser nombrados para un nuevo período, y sólo podrán ser removidos de su puesto en los términos previstos en el artículo 100 de esta Constitución.
-
-El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, otro de sus integrantes.
-
-Los Jueces de Primera Instancia y los Jueces Menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia.
+Al Poder Judicial corresponde la jurisdicción local en las materias de control de la constitucionalidad local, civil, familiar y penal. También garantizará la vigencia de las normas de la Constitución y leyes federales, en las materias en que éstas autoricen la jurisdicción concurrente.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, y se expresará a través de funcionarios y auxiliares en los términos que establezcan esta Constitución y las Leyes.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
+En el Poder Judicial habrá un Consejo de la Judicatura del Estado, el cual tendrá las atribuciones que le señalen esta Constitución y las Leyes.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+El Tribunal Superior de Justicia funcionará en Pleno, en Salas Colegiadas y en Salas Unitarias y se regirá en la forma que señale la Ley Orgánica del Poder Judicial. Tendrá el número de Magistrados que determine la Ley, quienes durarán hasta veinte años en su encargo.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
+El Pleno del Tribunal Superior de Justicia estará integrado por los Magistrados y funcionará con el quórum que establezca la Ley. Las Sesiones del Pleno serán públicas y, por excepción, secretas en los casos en que así lo exijan la moral y el interés público.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
+El Presidente del Tribunal Superior de Justicia será un Magistrado que no integrará Sala. Será electo por el Pleno y durará en su encargo dos años sin reelección inmediata.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
+La vigilancia y disciplina del Poder Judicial se realizará en los términos que determine la Ley.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+La administración del Poder Judicial estará a cargo del Pleno del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+El Consejo de la judicatura del Estado se compondrá por tres Consejeros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, otro será designado por el Titular del Poder Ejecutivo, y otro por el Congreso del Estado mediante voto aprobatorio secreto de, al menos, la mitad más uno de sus integrantes.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+El Presidente del Tribunal Superior de Justicia también será el Presidente del Consejo de la Judicatura y permanecerá en este cargo durante el tiempo que tenga el carácter de Presidente de dicho tribunal, sin recibir remuneración adicional por el desempeño de esta función.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función. Los funcionarios del Poder Judicial del Estado, excepto el Presidente del Tribunal Superior de Justicia, no podrán ser Consejeros de la Judicatura, salvo si se separan del cargo cien días naturales antes de su elección o designación.
+
+(REFORMADO, P.O. 9 DE JUNIO DE 2004) (F. DE E., P.O. 18 DE JUNIO DE 2004)
+
+Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Salvo el Presidente del Consejo, los demás Consejeros durarán en su cargo cinco años improrrogables y serán sustituidos de manera escalonada.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
+El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, otro de sus integrantes.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Los Jueces serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
 ###### Art. 95.
 
-La justicia se impartirá en nombre de la Ley; las ejecutorias y provisiones de los Tribunales se encabezarán por ellos mismos en nombre del Estado, en la forma que las leyes prescriban.
+El Tribunal Superior de Justicia tendrá jurisdicción plena para conocer y resolver, en los términos que señale la Ley reglamentaria, de los siguientes medios de control de la constitucionalidad local:
 
-Los Tribunales no pueden ejercer otras funciones que las de juzgar y procurar que se ejecute lo juzgado; no pueden hacer reglamento o acuerdo alguno que suspenda o entorpezca el cumplimiento de las leyes en la impartición de justicia.
+I.- De la controversia de inconstitucionalidad local, que podrá promover el Estado y municipios, así como los poderes u órganos públicos estatales o municipales, para impugnar actos de autoridad o normas generales que invadan su competencia garantizada por esta Constitución, y que provengan de otro diverso poder u órgano estatal o municipal. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias.
 
-Los Magistrados del Tribunal Superior de Justicia, Jueces de Primera Instancia y Jueces Menores deberán ser personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y dedicación en actividades de la profesión jurídica.
+II.- De la acción de inconstitucionalidad local para impugnar normas generales expedidas por el Congreso o por cualquier ayuntamiento, que en abstracto violen los derechos fundamentales de las personas emanados de esta Constitución, o violen la distribución de competencias que en esta Constitución se establecen para el Estado y los municipios, o para cualquiera de los poderes u órganos públicos estatales o municipales. Esta acción de inconstitucionalidad podrá ser promovida por los diputados, tratándose de normas generales expedidas por el Congreso del Estado, y por los regidores, tratándose de normas generales expedidas por su respectivo ayuntamiento, en los términos que determine la Ley reglamentaria. Esta acción también podrá promoverla el Procurador General de Justicia del Estado.
+
+Las sentencias dictadas para resolver una controversia de inconstitucionalidad local o una acción de inconstitucionalidad local, que declaren inconstitucional una norma general, tendrán efectos generales en todo el Estado cuando sean votadas por la mayoría calificada que determine la ley reglamentaria, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia sentencia ordene.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1057,51 +1085,61 @@ Los Magistrados del Tribunal Superior de Justicia, Jueces de Primera Instancia y
 
 Corresponde al Tribunal Superior de Justicia:
 
-I.- Conocer en grado de revisión de los negocios civiles, familiares, penales que le remitan los Jueces de Primera Instancia y Jueces Menores;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-II.- Elegir en Pleno, cada dos años, al Presidente del Tribunal Superior de Justicia, conforme lo determine la Ley;
+I. Resolver en Pleno las controversias constitucionales y las acciones de inconstitucionalidad;
 
-III.- Fijar la materia de competencia de las Salas del Tribunal Superior de Justicia en los términos de la Ley;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-IV.- Conocer en Tribunal Pleno para resolver en definitiva, a instancia de parte interesada, de los Magistrados o de los Jueces, qué tesis debe prevalecer cuando las Salas del Tribunal sustenten criterios contradictorios al resolver los recursos de su competencia;
+II. A través de las Salas, conocer en grado de revisión de los negocios civiles, familiares, penales o de jurisdicción concurrente, que le remitan los Jueces;
 
-V.- Dirimir los conflictos de competencia que se susciten entre las Salas, y entre los juzgados, de acuerdo a lo que establezca la Ley;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-VI.- Elaborar, administrar y ejercer en forma autónoma el presupuesto de egresos del Poder Judicial, con excepción de la partida que se le autorice al Consejo de la Judicatura del Estado;
+III. Elegir en Pleno, cada dos años, al Presidente del Tribunal Superior de Justicia, conforme lo determine la Ley;
 
-VII.- Expedir y modificar el reglamento interior del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-VIII.- Conocer en Tribunal Pleno, erigido en Jurado de Sentencia, de la responsabilidad de los servidores públicos a que alude el Título VII de esta Constitución;
+IV. Determinar en Pleno, el número de las Salas, su integración colegiada y unitaria, su especialidad y la adscripción de los magistrados;
 
-IX.- Con excepción del personal del Consejo de la Judicatura, nombrar y remover a los servidores públicos del Poder Judicial, concederles licencias, admitirles sus renuncias y sancionar sus faltas, considerando las recomendaciones que al respecto le proporcione el Consejo de la Judicatura, de acuerdo a lo que establezca la Ley;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-X.- Acordar y autorizar las licencias de los Magistrados;
+V. Conocer en Tribunal Pleno para resolver en definitiva, a instancia de parte interesada, de los Magistrados o de los Jueces, qué tesis debe prevalecer cuando las Salas del Tribunal sustenten criterios contradictorios al resolver los recursos de su competencia, las cuales serán de observancia obligatoria en las Salas y Juzgados;
 
-XI.- Expedir los acuerdos necesarios para el mejor ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XII.- Elegir por mayoría del Pleno al Consejero de la Judicatura del Estado que corresponde nombrar al Poder Judicial;
+VI. En Pleno, dirimir los conflictos de competencia que se susciten entre las Salas, y entre los juzgados, de acuerdo a lo que establezca la Ley;
 
-XIII.- Designar a los Jueces de Primera Instancia y a los Jueces Menores de acuerdo a lo dispuesto en esta Constitución y en las Leyes, mediante el siguiente procedimiento:
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-a) El Consejo de la Judicatura propondrá terna a consideración del Pleno del Tribunal para que éste a su vez, elija a quien ocupará el cargo.
+VII. En Pleno, expedir y modificar su reglamento interno para el cumplimiento de las facultades de los servidores públicos del Tribunal Superior de Justicia;
 
-Recibida y aceptada la terna, y previo análisis de los méritos académicos y profesionales de las personas propuestas, el Pleno del Tribunal Superior de Justicia elegirá para el cargo de Juez, por el voto secreto aprobatorio de la mayoría o por insaculación, ésta se llevará a efecto sólo si el Pleno del Tribunal Superior de Justicia no resuelve a favor de alguna de las personas que integran la terna propuesta en el plazo improrrogable de diez días siguientes a la fecha de recepción de la misma.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-b) En caso de que el Tribunal Superior de Justicia rechace la terna, el Consejo de la Judicatura someterá nueva propuesta y la designación del Juez se efectuará en los términos del inciso a) que precede, sin que el Pleno pueda rechazar nuevamente la terna;
+VIII. Presentar ante el Congreso del Estado, las iniciativas de leyes que estime pertinentes, relacionadas con la administración de justicia y la organización y funcionamiento del Poder Judicial;
 
-XIV.- Adscribir, confirmar y remover, a propuesta del Consejo de la Judicatura, a los Jueces de Primera Instancia y los Jueces Menores, así como concederles sus licencias, admitirles sus renuncias y sancionar sus faltas en los términos que establezca la Ley;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XV.- Señalar, a propuesta del Consejo de la Judicatura, a cada Juez el Distrito Judicial, su número y la materia en que deben ejercer sus funciones, así como designar a cada Juzgado su domicilio, según lo estime conveniente para el mejor ejercicio de la función;
+IX. Conocer en Tribunal Pleno, erigido en Jurado de Sentencia, de la responsabilidad de los servidores públicos a que alude el Título VII de esta Constitución;
 
-XVI.- Crear nuevos juzgados y distritos judiciales a propuesta del Consejo de la Judicatura, de acuerdo a lo que disponga la Ley Orgánica del Poder Judicial del Estado y en base al presupuesto autorizado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XVII.- Examinar los informes que mensualmente deberán remitirle los Juzgados, acerca de los negocios pendientes y de los despachados,
+X. Acordar y autorizar las licencias de los Magistrados;
 
-XVIII.- Rendir al Congreso del Estado, por escrito y trimestralmente, informe financiero del Poder Judicial;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XIX.- Someter anualmente para examen y, en su caso, para aprobación del Congreso del Estado, durante los primeros tres meses de cada año, la Cuenta Pública del Poder Judicial del año anterior; y
+XI. En Pleno, expedir los acuerdos necesarios para el mejor ejercicio de sus funciones;
 
-XX.- Las demás facultades que las Leyes le otorguen.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XII. Examinar los informes que mensualmente deberán remitirle los Juzgados, acerca de los negocios pendientes y de los despachados;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XIII. En Pleno, acordar lo necesario para la implementación de dispositivos electrónicos necesarios para la realización de la función jurisdiccional; y
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XIV. Las demás facultades que las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1109,45 +1147,73 @@ XX.- Las demás facultades que las Leyes le otorguen.
 
 Corresponde al Consejo de la Judicatura del Estado:
 
-I. Elegir a su Presidente cada dos años, de entre sus miembros;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-II. Hacer propuestas al Pleno del Tribunal Superior de Justicia en los casos siguientes:
+I. Nombrar, adscribir, confirmar o remover al personal del Poder Judicial, excepto al del Tribunal Superior de Justicia y a aquel que tenga señalado un procedimiento específico;
 
-a) Designación, adscripción, confirmación o remoción de Jueces;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-b) Definición del Distrito Judicial, número, materia y domicilio de cada Juzgado;
+II. Definir el Distrito Judicial, número, materia y domicilio de cada Juzgado;
 
-c) Creación de nuevos juzgados y distritos judiciales, previa la sustentación presupuestal para ello;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-d) Solicitudes de licencias, renuncias y sanción de las faltas de los Jueces en los términos que establezca la Ley.;
+III. Crear nuevos juzgados y distritos judiciales, previa la sustentación presupuestal para ello;
 
-e) Nombramiento, remoción, licencias, renuncias y sanciones por faltas del personal técnico y administrativo del Poder Judicial;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-III. Definir la partida presupuestal suficiente para su operación, administrándola y ejerciéndola de manera eficiente;
+IV. Conceder las licencias, admitir las renuncias y sancionar las faltas del personal del Poder Judicial, excepto el del Tribunal Superior de Justicia y aquel que tenga señalado un procedimiento especial, en los términos que establezca la Ley;
 
-IV. Integrar el Presupuesto de Egresos del Poder Judicial, remitiéndolo al Congreso del Estado para su aprobación;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-V. Expedir y modificar su reglamento interior así como los acuerdos necesarios para su funcionamiento;
+V. Administrar y ejercer el presupuesto del Poder Judicial;
 
-VI. Nombrar y remover a su personal, concederles las licencias, admitirles sus renuncias y sancionar sus faltas, de acuerdo a lo que establezca la Ley;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-VII. Nombrar Visitadores Judiciales;
+VI. Elaborar el Presupuesto de Egresos del Poder Judicial, remitiéndolo al Congreso del Estado para su aprobación;
 
-VIII. Examinar los informes que mensualmente deberán remitirle las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-IX. Dirigir y administrar el Instituto de la Judicatura como organismo responsable de la capacitación y actualización de los servidores públicos del Poder Judicial;
+VII. Expedir y modificar los reglamentos y acuerdos necesarios para el funcionamiento del Poder Judicial, excepto del Tribunal Superior de Justicia;
 
-X. Organizar, operar y mantener actualizado el Sistema de la Carrera Judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XI. Diseñar, integrar y mantener actualizado el Sistema de Información Estadística del Poder Judicial del Estado;
+VIII. Nombrar Visitadores Judiciales, quienes tendrán las facultades señaladas en la Ley;
 
-XII. Entregar por conducto de su Presidente al Pleno del Tribunal Superior de Justicia y al Congreso del Estado un informe estadístico trimestral del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XIII. Dar su opinión al Congreso del Estado y proporcionarle la información que le solicite, en los casos en que esté tratando la posible ratificación de algún Magistrado;
+IX. Examinar los informes que mensualmente deberán remitirle las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
 
-XIV. Participar en la elaboración de la cuenta pública anual del Poder Judicial; y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
 
-XV. Las demás facultades que las leyes le otorguen.
+X. Dirigir y administrar el Instituto de la Judicatura como organismo responsable de la capacitación y actualización de los servidores públicos del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XI. Organizar, operar y mantener actualizado el Sistema de la Carrera Judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XII. Diseñar, integrar y mantener actualizado el Sistema de Información Estadística del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XIII. Entregar por conducto de su Presidente al Pleno del Tribunal Superior de Justicia y al Congreso del Estado un informe estadístico trimestral del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XIV. Dar su opinión al Congreso del Estado y proporcionarle la información que le solicite, en los casos en que esté tratando la posible ratificación de algún Magistrado;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XV. Elaborar la cuenta pública anual del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XVI. Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal; y
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2004)</small>
+
+XVII. Las demás facultades que las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1179,19 +1245,27 @@ El Titular del Poder Ejecutivo propondrá al Congreso del Estado, candidato a la
 
 En caso de que, transcurrido el plazo de cinco días, el Congreso rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado, en un plazo de diez días, propondrá a otra persona y la aprobación se efectuará en los términos del párrafo anterior.
 
-Si presentada la segunda propuesta, el Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Si presentada la segunda propuesta, el Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese procedimiento ya hubieran sido propuestas al Congreso para ocupar dicho cargo.
 
 El nombramiento de los Magistrados del Tribunal Superior de Justicia será por un período inicial de diez años, al término del cual podrán ser ratificados, previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado a ratificar, para un período igual, hasta completar el período total de veinte años previsto en el Artículo 94 de esta Constitución. La ratificación de los Magistrados deberá ser hecha por el Congreso del Estado, y requerirá la aprobación de las dos terceras partes de los integrantes de la Legislatura, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio del Magistrado que corresponda. Si el Congreso no hace la ratificación, se elegirá un Magistrado conforme a lo previsto en el presente artículo.
 
-Cada Magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo, rendirá la Protesta de Ley ante el Congreso. Los Jueces de Primera Instancia y los Jueces Menores rendirán la Protesta de Ley ante el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
-Las designaciones de los Jueces de Primera Instancia serán por período inicial de cinco años, al término del cual podrán ser confirmados y declarados inamovibles. En este último caso, el Pleno del Tribunal Superior de Justicia resolverá sobre la confirmación o remoción, con anticipación de sesenta días naturales a la fecha en que expire el plazo de ejercicio del Juez que corresponda, considerando los informes que se tengan respecto al desempeño de su labor y la opinión del Consejo de la Judicatura. Los Jueces Menores quedarán sujetos a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado.
+Cada Magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo, rendirá la Protesta de Ley ante el Congreso. Los Jueces rendirán la Protesta de Ley ante el Pleno del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Las designaciones de los Jueces de Primera Instancia serán por un período inicial de cinco años, al término del cual podrán ser confirmados y declarados inamovibles. El Consejo de la Judicatura resolverá sobre la confirmación o remoción, con anticipación de sesenta días naturales a la fecha en que expire el plazo de ejercicio del Juez que corresponda, considerando los informes que se tengan respecto al desempeño de su labor y la opinión del Tribunal Superior de Justicia. Los Jueces que no sean de primera instancia quedarán sujetos a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 Art.- 100.- Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura del Estado y los Jueces de Primera Instancia confirmados serán inamovibles durante el período de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, en los casos que éste proceda, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
 
-Los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura del Estado sólo podrán ser removidos de sus cargos por el Congreso del Estado, en los casos a que se refiere el párrafo anterior, mientras que los Jueces sólo podrán serlo por el Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura del Estado sólo podrán ser removidos de sus cargos por el Congreso del Estado, en los casos a que se refiere el párrafo anterior, mientras que los Jueces sólo podrán serlo por el Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1199,7 +1273,9 @@ Los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicat
 
 Las faltas temporales de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado serán cubiertas en los términos que establezca la Ley. Las faltas definitivas de estos servidores públicos se ajustarán al procedimiento que para su designación establece esta Constitución.
 
-Las faltas temporales de los Jueces serán cubiertas conforme lo determine la Ley. Las faltas definitivas de estos servidores públicos se resolverán por el Tribunal Superior de Justicia, de conformidad a lo dispuesto en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Las faltas temporales de los Jueces serán cubiertas conforme lo determine la Ley. Las faltas definitivas de estos servidores públicos se resolverán por el Consejo de la Judicatura, de conformidad a lo dispuesto en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1211,7 +1287,9 @@ Los impedimentos de este artículo serán aplicables a los servidores públicos 
 
 Art.- 103.- El Poder Judicial definirá y ejercerá en forma autónoma sus partidas presupuestales, las que serán suficientes para atender adecuadamente el cumplimiento de su función.
 
-El Tribunal Superior de Justicia y el Consejo de la Judicatura del Estado, formularán sus proyectos de egresos, los que se integrarán por el Consejo de la Judicatura en uno sólo, quien lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+El Consejo de la Judicatura del Estado, formulará el Presupuesto de Egresos del Poder Judicial, y lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
 
 Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura del Estado y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente por el Congreso del Estado.
 
@@ -1673,7 +1751,9 @@ Si no pudieren cumplirse las prevenciones de los arts. 144 y 145, se estará a l
 
 ## TITULO XII.
 
-De la Inviolabilidad de la Constitución.
+De la Supremacía e Inviolabilidad de la Constitución.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
 ###### Art. 148.
 
@@ -1691,15 +1771,17 @@ Para que las adiciones o reformas propuestas sean aprobadas, y se tengan como pa
 
 Para las adiciones o reformas a que se refieren los artículos anteriores se guardarán las mismas reglas que quedan prescritas respecto de las leyes comunes, excepto el derecho de observaciones que no podrá ejercer el Gobernador, según la fracción III del art. 86.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
 ###### Art. 152.
 
-Las leyes de que hablan los Artículos 45, 63 fracción XIX, 94 y 118 son Constitucionales y en su reforma se guardarán las mismas reglas que en las de cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
+Las leyes a que se refieren los artículos 45, 63 fracción XIX, 94, 95 y 118 son Constitucionales y en su reforma se guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2004)</small>
 
 ###### Art. 153.
 
-Esta Constitución no perderá su fuerza y vigor ni aún en el caso de que por alguna rebelión se interrumpa su observancia. Cuando por cualquiera causa se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el Pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a aquélla y a las leyes que en su virtud se hubieren expedido serán juzgados, así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
+Esta Constitución es Ley Suprema del Estado de Nuevo León, en todo lo concerniente al régimen interior de éste.
+
+Esta Constitución no perderá su fuerza y vigor ni aún en el caso de que por alguna rebelión se interrumpa su observancia. Cuando por cualquiera causa se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el Pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a aquélla y a las leyes que en su virtud se hubieren expedido serán juzgados asi los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
 ## ARTICULOS TRANSITORIOS.
 
@@ -1921,7 +2003,9 @@ A ninguna ley se le dará efecto retroactivo en perjuicio de persona alguna. Nad
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
-No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado, que la ley señale como delito, sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado, que la Ley señale como delito, sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten los elementos que integran el cuerpo del delito y la probable responsabilidad del indiciado.
 
 La autoridad que ejecute una orden judicial de aprehensión, deberá poner al indiciado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la Ley Penal.
 
@@ -1953,13 +2037,17 @@ Cuando el Estado o sus Municipios, con motivo de su actividad administrativa pú
 
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial, y bajo los principios de seguridad jurídica, de la búsqueda de la verdad y de la transparencia, a través de los medios y en los términos que establezca la Ley. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
 Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 14 DE AGOSTO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de conflictos, en la forma y términos establecidos por la Ley.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 1965)</small>
 
@@ -1971,7 +2059,9 @@ El Ejecutivo del Estado organizará el régimen penitenciario sobre la base del 
 
 Se faculta al Gobernador del Estado para celebrar con la Federación convenios de carácter general, para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
-El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento de menores infractores.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+
+El Gobierno del Estado mantendrá establecimientos especiales para el tratamiento ambulatorio y con internamiento de menores infractores.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2826,3 +2916,15 @@ Artículo Cuarto.- Para ejercer la educación preescolar se deberá acreditar la
 Artículo Quinto.- El presupuesto estatal incluirá los recursos necesarios para la construcción, ampliación y equipamiento de la infraestructura adecuada para la cobertura de los servicios de educación preescolar, con sus correspondientes programas de formación profesional docente y administrativo, así como la dotación de materiales gratuitos de estudio para maestros y alumnos.
 
 Artículo Sexto.- En virtud de la entrada en vigor del presente Decreto, deberán adecuarse la Ley de Educación para el Estado de Nuevo León y las demás disposiciones aplicables a la materia.
+
+P.O. 9 DE JUNIO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los subsecuentes Artículos Transitorios.
+
+Artículo Segundo.- Las disposiciones referentes a los medios de control constitucional entrarán en vigor una vez que inicie la vigencia de la Ley que reglamente esa materia.
+
+Artículo Tercero.- A partir del día siguiente al de la publicación del presente Decreto y hasta la fecha indicada en el Transitorio Cuarto del presente Decreto, el Consejo de la Judicatura del Estado se integrará de la siguiente manera: con un Presidente, que lo será el Presidente del Tribunal Superior de Justicia, y con los actuales y tres Consejeros en funciones. El Presidente en funciones cesará en su encargo de Presidente, pero se mantendrá como integrante del Consejo de la Judicatura, hasta la fecha que se indica en el transitorio cuarto del presente Decreto. El Consejo de la Judicatura tomará sus decisiones por mayoría de votos de sus integrantes, teniendo su Presidente un voto de calidad en caso de empate, durante el tiempo que esté integrado por cuatro miembros.
+
+Artículo Cuarto.- El Consejo de la Judicatura se integrará con el Presidente del Tribunal Superior de Justicia y dos Consejeros, a partir de la fecha en que concluya el encargo del actual Consejero en funciones designado por el Pleno del Tribunal Superior de Justicia, o bien, al separarse este Consejero de su cargo por cualquier causa. Los Consejeros designados por el Titular del Poder Ejecutivo y por el H. Congreso del Estado, que en esa fecha se encuentren en funciones, continuarán en su cargo hasta completar el período para el que hubieren sido originalmente designados.
+
+Artículo Quinto.- Los asuntos en trámite ante el Tribunal Superior de Justicia a la fecha de entrada en vigor del presente Decreto, y que correspondan a las atribuciones que están siendo asignadas al Consejo de la Judicatura en esta reforma, serán concluidos por dicho Tribunal.
