@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1944-03-30"
+last_updated: "1945-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1945.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -675,11 +675,13 @@ El Gobernador no podrá salir del Estado sin permiso de la Legislatura o de la D
 
 El cargo de Gobernador no es renunciable y sólo por causa justificada el Congreso podrá conocer de licencia hasta la terminación del período de su encargo, ya sea que esté en período de sesiones la H. Legislatura o en su defecto la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1944)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1945)</small>
 
 ###### Artículo 77.
 
-Las faltas temporales del Gobernador que no excedan de tres meses, se cubrirán por nombramiento que haga la Legislatura, o en su caso la Diputación Permanente. Cuando las faltas temporales sean de más de tres meses, el nombramiento será hecho por la Legislatura en sesiones ordinarias; y si estuviere en receso lo hará en sesiones extraordinarias a que será convocada por la Diputación Permanente.
+En las faltas temporales del C. Gobernador que no excedan de tres meses, lo suplirá por ministerio de ley, el Secretario General de Gobierno, en los términos que señala la propia Constitución.
+
+Cuando las faltas temporales sean de más de tres meses, el nombramiento será hecho por la Legislatura en sesiones ordinarias; y si estuviere en receso, lo hará en sesiones extraordinarias a que será convocada por la Diputación Permanente.
 
 ###### Artículo 78.
 
@@ -791,11 +793,11 @@ II. Los Defensores de Oficio.
 
 III. Los peritos Médicos Legistas y demás que sean necesarios.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1945)</small>
 
 ###### Artículo 86.
 
-El Supremo Tribunal de Justicia del Estado se compondrá de tres Magistrados propietarios y seis supernumerarios con quienes se cubrirán las faltas temporales de los propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
+El Supremo Tribunal de Justicia del Estado, se compondrá de seis Magistrados Propietarios y seis Supernumerarios, con quienes se cubrirán las faltas temporales de los Propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
@@ -1262,3 +1264,17 @@ P.O. 30 DE MARZO DE 1944.
 DECRETO No. 276.
 
 Artículo Unico.- En virtud de haber sido aprobada esta reforma por los Poderes Ejecutivo y Judicial y por más de la mitad de los Ayuntamientos del Estado, la misma formará parte de la Constitución Política Local, desde el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 1945.
+
+DECRETO No. 108.
+
+I.- Se deroga el Decreto Núm. 276 de fecha 24 de marzo de 1944 publicado en el Periódico Oficial del Estado No. 26 de 30 de marzo del mismo año.
+
+II.- El presente decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 1945.
+
+DECRETO No. 109.
+
+UNICO:- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
