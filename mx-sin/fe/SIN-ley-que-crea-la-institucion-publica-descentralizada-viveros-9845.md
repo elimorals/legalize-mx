@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-la-institucion-publica-descentralizada-viveros-984
 country: "mx"
 rank: "ley"
 publication_date: "1970-11-24"
-last_updated: "1970-11-24"
+last_updated: "1994-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE CREA LA INSTITUCION PUBLICA DESCENTRALIZADA VIVEROS DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1994.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el martes 24 de noviembre de 1970.
 
@@ -35,7 +35,7 @@ El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su XLVI 
 
 DECRETO NUM. 121.
 
-LEY QUE CREA LA INSTITUCION PUBLICA DESCENTRALIZADA VIVEROS DE SINALOA.
+LEY QUE CREA LA INSTITUCION PUBLICA DESCENTRALIZADA VIVEROS DE SINALOA
 
 ### CAPITULO I
 
@@ -49,27 +49,27 @@ Se crea una institución pública descentralizada del Estado, que se denominará
 
 El domicilio de Viveros de Sinaloa será la ciudad de Culiacán, Sinaloa, sin perjuicio de que pueda establecer dependencias en otras ciudades del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 3.
 
 Viveros de Sinaloa tendrá por objeto:
 
-a).- Promover toda clase de plantaciones frutícolas o de ornato.
+A).- Promover toda clase de plantaciones frutícolas, de ornato y maderables.
 
-b).- La Conservación, desarrollo y mejoramiento de todo tipo de semillas, plantas, árboles e injertos necesarias para el incremento de la flora en el Estado.
+B).- Conservar, desarrollar y mejorar todo tipo de semillas, plantas, árboles e injertos necesarios para el incremento de la flora en el Estado.
 
-c).- Establecer las bases para la selección, reproducción y mejoramiento de todo tipo de vegetales.
+C).- Establecer las bases para la selección, reproducción y mejoramiento de todo tipo de vegetales y su comercialización.
 
-d).- Proyectar y realizar campañas de forestación.
+D).- Programar y realizar campañas de reforestación.
 
-e).- Sugerir a las autoridades que lo soliciten la mejor forma de estructurar los parques, bosques y jardines.
+E).- Asesorar a las autoridades que lo soliciten, la forma más moderna y económica de estructurar parques, bosques y jardines.
 
-f).- Planear, estudiar, proyectar y construir toda clase de viveros.
+F).- Adquirir bienes inmuebles, muebles y derechos, necesarios para la realización de los fines anteriormente expresados.
 
-g).- Realizar todos los estudios necesarios y que se relacionen con los fines anteriores.
+G).- Adquirir los terrenos, materiales e implementos necesarios para la realización de los fines anteriores; y
 
-h).- Adquirir los terrenos, materiales e implementos necesarios para la realización de los fines anteriores.
-
-i).- Los demás que tengan relación directa con los objetos antes indicados.
+H).- Los demás que contengan relación directa con los objetos antes indicados.
 
 ### CAPITULO II
 
@@ -79,13 +79,17 @@ De la Administración.
 
 La administración de Viveros de Sinaloa estará a cargo de un Consejo Directivo, formado por cinco miembros.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 5.
 
-El Consejo Directivo estará presidido por el C. Gobernador del Estado o la persona que él designe, estando integrado además por el Tesorero General del Estado, el Director del Organismo Público denominado Desarrollo Agropecuario Ejidal, el Director del Plan de Superación Campesina, el Director del Programa de Desarrollo Agrícola de la Dirección de Desarrollo Económico del Estado de Sinaloa, así como también el Director de la propia Institución, cuya designación efectuará el C. Gobernador del Estado en la primera reunión que se lleve a cabo.
+El Consejo Directivo será presidido por el Gobernador Constitucional del Estado o la persona que él designe y estará integrado además, por los Secretarios de Hacienda Pública y Tesorería, de Administración y de Desarrollo Agropecuario y Pesquero, un representante del Poder Legislativo, así como por el Director Responsable de este organismo descentralizado.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 6.
 
-Todos los integrantes del Consejo Directivo podrán ser reelectos, salvo el Director Responsable de Viveros de Sinaloa que podrá ser removido en cualquier momento por el C. Gobernador del Estado.
+Todos los integrantes del Consejo Directivo podrán ser reelectos, incluyendo al Director responsable de la Institución, quien será nombrado y removido libremente por el Gobernador del Estado.
 
 ###### ARTICULO 7.
 
@@ -109,7 +113,9 @@ El Consejo Directivo tendrá entre otras, las siguientes facultades:
 
 5.- Aprobar los proyectos sobre construcción o ampliación de nuevos viveros.
 
-6.- Celebrar toda clase de actos y convenios que sean necesarios para la realización de sus fines.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
+
+6.- Autorizar la enajenación de los bienes inmuebles propiedad de la institución, así como celebrar toda clase de actos jurídicos y convenios que sean necesarios para la realización de sus fines; y
 
 7.- Expedir el Reglamento Interior de la Institución.
 
@@ -133,7 +139,9 @@ La autoridad ejecutora de los acuerdos del Consejo deberá ser el Director Respo
 
 6.- Suscribir toda clase de títulos de crédito y convenios a nombre de la Institución, cuyo importe deberá canalizarse para lograr los objetivos de la Institución.
 
-7.- Ocurrir y firmar ante las diversas Instituciones de Crédito tanto oficiales como privadas, a efecto de obtener recursos que se destinen a financiar los programas de trabajo que apruebe el Consejo Dirctivo (sic) de este Organismo.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
+
+7.- Ocurrir y firmar cualquier documento, contrato, convenios, acto jurídico, así como suscribir titutlos (sic) de crédito ante las diversas instituciones crediticias, tanto oficiales como privadas, a efecto de obtener recursos que se destine a financiar los programas de trabajo que apruebe el Consejo Directivo de este organismo, pudiendo otorgar en garantía de créditos que la Institución solicite los bienes inmuebles que formen parte de su patrimonio.
 
 8.- Los demás que esta Ley y su Reglamento le confieran.
 
@@ -167,11 +175,11 @@ f).- Con el producto de las ventas que realice.
 
 g).- Con todos los demás bienes que adquiera por cualquier otro concepto.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 15.
 
-Los bienes inmuebles no podrán ser enajenados, pero si podrán ser dados en garantía de créditos que la Institución solicite.
-
-Queda prohibido al Director Responsable hacer donativos de toda clase de plantas ya sea frutícolas o de ornato. Deberá ser turnada al Consejo Directivo, quien será el único facultado para otorgarlos.
+Los bienes inmuebles podrán ser anejados (sic), previa autorización del Consejo Directivo, quien la otorgará cuando ésta genere beneficios al propio organismo, al Gobierno del Estado o a la sociedad.
 
 ###### ARTICULO 16.
 
@@ -181,9 +189,11 @@ Cuando sea necesaria la adquisición de bienes inmuebles para la ampliación o c
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1994)</small>
+
 ###### ARTICULO 17.
 
-Viveros de Sinaloa aplicará las normas y difundirá los métodos que sobre todo lo relativo a materia vegetal, silvícola y forestal determine la Secretaría de Agricultura y Ganadería.
+Viveros de Sinaloa aplicará las normas y difundirá los métodos que sobre material vegetal y forestal determine la Secretaría de Agricultura y Recursos Hidráulicos, o las dependencias competentes del ámbito Federal, Estatal o Municipal.
 
 ###### ARTICULO 18.
 
@@ -220,3 +230,15 @@ LIC. ALFREDO VALDES MONTOYA
 El Secretario General de Gobierno
 
 LIC. FRANCISCO RODOLFO ALVAREZ FARBER
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Las designaciones a que se refiere el Artículo 5° de esta Ley, se harán por el Gobernador del Estado en la reunión que se convoque para tal efecto.
