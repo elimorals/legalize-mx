@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1966-10-22"
+last_updated: "1967-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 1966.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 22 DE OCTUBRE DE 1966.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 1967.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1023,6 +1021,10 @@ f).- Explotación forestal;
 g).- Producción y consumo de cerveza.
 
 Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica.
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1967)</small>
+
+XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -2549,3 +2551,7 @@ D.O.F. 21 DE OCTUBRE DE 1966.
 DECRETO QUE REFORMA LA FRACCION III Y ADICIONA LA FRACCION VII DEL ARTICULO 79, REFORMA EL ARTICULO 88, LA FRACCION XVI DEL ARTICULO 89 Y ADICIONA EL PARRAFO ULTIMO DEL ARTICULO 135.
 
 UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE OCTUBRE DE 1967.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
