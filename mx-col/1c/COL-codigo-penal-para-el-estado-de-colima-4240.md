@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "1995-10-07"
+last_updated: "2000-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -507,13 +507,11 @@ Cuando no conste el nombre o domicilio cierto del interesado, se le notificará 
 
 En el caso de bienes perecederos o de costosa conservación que se encuentren a disposición de la autoridad competente, se procederá a su venta inmediata, al precio que rija en el mercado y el producto se depositará a disposición de quien tenga derecho al mismo, actuándose en la forma indicada en los párrafos anteriores respecto a la notificación y plazos señalados, y si transcurridos éstos, el producto no ha sido recogido, se aplicará para los fines señalados en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 52.
 
-Respecto de los instrumentos, bienes, objetos y productos a que se refieren los artículos anteriores, el Ejecutivo del Estado determinará su destino, según su utilidad, para beneficio de la procuración y administración de justicia o para fines de docencia o investigación.
-
-El Ejecutivo del Estado reglamentará el procedimiento conforme al cual se hará efectivo el cumplimiento de este artículo.
+Respecto de los instrumentos, bienes, objetos y productos a que se refieren los artículos anteriores, el Ejecutivo del Estado determinará su destino, según su utilidad para la atención terapéutica individual o familiar de las víctimas de los delitos, especialmente de los de violencia intrafamiliar, fondo que será administrado por el Sistema Estatal para el Desarrollo Integral de la Familia, D.I.F.
 
 ### CAPITULO IX.
 
@@ -1191,7 +1189,9 @@ Al infractor de las fracciones IV y V se le impondrán de dos a siete años de p
 
 ### CAPITULO VIII.
 
-DELITOS COMETIDOS EN LA IMPARTICION DE JUSTICIA.
+DELITOS COMETIDOS EN LA PROCURACION E IMPARTICION DE JUSTICIA.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 129.
 
@@ -1245,13 +1245,15 @@ Al autor de este delito se le impondrá de uno a nueve años de prisión, multa 
 
 Se requerirá la declaración previa de la contraloría Estatal, sobre la existencia del enriquecimiento ilegítimo como un requisito de procedibilidad.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE MARZO DE 2000)</small>
+
 ### CAPITULO III.
 
 APOLOGIA DEL DELITO.
 
 ###### ARTICULO 134.
 
-Son delitos en la impartición de justicia los siguientes:
+Son delitos cometidos en la procuración e impartición de justicia los siguientes:
 
 I.- Desempeñar algún otro empleo oficial o un puesto o cargo particular que la Ley les prohiba;
 
@@ -1259,15 +1261,21 @@ II.- Litigar por sí o por interpósita persona, cuando la Ley les prohiba el ej
 
 III.- Actuar parcialmente con algún litigante;
 
-IV.- Retardar o entorpecer aún sea por negligencia la administración de justicia;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+IV.- Retardar o entorpecer, aún sea por negligencia, la procuración o administración de justicia;
 
 V.- Comunicar indebidamente a las partes cualquier providencia decretada en su contra;
 
-VI.- Permitir, fuera de los casos previstos por la Ley, la salida temporal de las personas detenidas a disposición de un Juez o en virtud de sentencia;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+VI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de personas detenidas a disposición del Ministerio Público, de un juez o en virtud de sentencia;
 
 VII.- No cumplir una disposición legal que debidamente se les comunique por su superior, o por quien en razón de sus funciones esté obligado a obedecer, después de haberse agotado las medidas administrativas tendientes a procurar su cumplimiento;
 
-VIII.- Dictar u omitir ilícitamente una resolución con dolo manifiesto;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+VIII.- Dictar u omitir ilícitamente una determinación o resolución con dolo manifiesto;
 
 IX.- Obligar al indiciado a declarar en su contra;
 
@@ -1581,7 +1589,13 @@ I.- Al que sin la debida autorización fabrique, publique, reproduzca, transport
 
 II.- Al que sin la debida autorización ejecute o haga ejecutar en público exhibiciones obscenas;
 
-III.- Al que públicamente invite a otro a realizar un acto sexual.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+III.- Al que públicamente invite a otro a realizar un acto sexual; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2000)</small>
+
+IV.- Al que exhiba sus genitales y se haga tocamientos obscenos en público, delante de menores de edad, mujeres o de personas de más de 60 años.
 
 ###### ARTICULO 155.
 
@@ -1594,6 +1608,14 @@ Cuando la conducta del activo tenga por resultado la corrupción del menor, la p
 ###### ARTICULO 157.
 
 La misma sanción del Artículo anterior se impondrá cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o civil, o tenga por cualquier razón ascendencia moral sobre el menor.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+###### ARTICULO 157 Bis.
+
+Al que explote a un menor con fines de lucro, se le impondrá de uno a seis años de prisión y trabajos en favor de la comunidad por 100 jornadas.
+
+Para los efectos de este artículo se tipifican como explotación de menores, el permitir, inducir u obligar a éstos a la practica de la mendicidad, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos.
 
 ### CAPITULO IV.
 
@@ -2614,3 +2636,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE OCTUBRE DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
