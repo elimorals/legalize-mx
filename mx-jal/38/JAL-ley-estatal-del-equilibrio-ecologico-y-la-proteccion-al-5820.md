@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "1999-12-21"
+last_updated: "2000-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 > <small>N. DE E. MEDIANTE DECRETO NUMERO 18182 PUBLICADA EN ESTA FECHA, EL LEGISLADOR REFORMA, ADICIONA Y DEROGA LA LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE JALISCO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO PRESENTANDOSE EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -59,7 +59,9 @@ Se considera de utilidad pública:
 
 I. El ordenamiento ecológico del territorio del estado, en los casos previstos por esta ley, y las demás aplicables;
 
-II. El establecimiento de áreas naturales protegidas de jurisdicción estatal o municipal, que se establezcan por iniciativa del gobierno del estado y declaratoria de los gobiernos municipales;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+II. El establecimiento de áreas naturales protegidas de jurisdicción estatal o municipal, que se establezcan por decreto del Titular del Ejecutivo o por decreto del Congreso del Estado a iniciativa de los gobiernos municipales;
 
 III. El cuidado de los sitios necesarios para asegurar el mantenimiento e incremento de los recursos genéticos de la flora y fauna silvestre, terrestre y acuática, frente al peligro de deterioro grave o extinción;
 
@@ -103,45 +105,75 @@ XV. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de 
 
 XVI. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
 
-XVII. Gobierno del Estado: Se tiene como tal al Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XVII. Secretaría: Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
 XVIII. Información ambiental: Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
 
 XIX. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
 
-XX. Norma oficial mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXI. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica, tecnológica o intelectual para la sociedad jalisciense;
+XX. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la Materia.
 
-XXII. Reciclaje: El proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXIII. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre.
+XXI. Norma oficial mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
 
-XXIV. Relleno sanitario: Sistema de ingeniería sanitaria para la disposición final de los residuos sólidos municipales en terrenos condicionados para tal efecto, de conformidad a las disposiciones normativas aplicables, con el objeto de proteger el medio de cualquier posible contaminación;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXV. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
+XXII. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
 
-XXVI. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXVII. Residuos sólidos industriales: Residuos sólidos que resultan de las actividades industriales y de servicios, que no se consideran peligrosos conforme la normatividad ambiental federal;
+XXIII. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
 
-XVIII. Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas y comerciales, no considerados como peligrosos, conforme la normatividad ambiental federal;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXIX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y
+XXIV.- Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-XXX. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXXI. Derogada (sic).
+XXV. Relleno sanitario: Sistema de ingeniería sanitaria par (sic) la disposición final de los residuos sólidos municipales en terrenos condicionados para tal efecto, de conformidad a las disposiciones normativas aplicables, con el objeto de proteger el medio de cualquier posible contaminación;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXVI. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXVII. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXVIII. Residuos sólidos industriales: Residuos sólidos que resultan de las actividades industriales y de servicios, que no se consideran peligrosos conforme la normatividad ambiental federal;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XIX. Residuos sólidos municipales: Residuos sólidos que resulten de las actividades domésticas y comerciales, no considerados como peligrosos, conforme la normatividad ambiental federal;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO II
 
-De la concurrencia entre el gobierno del estado y los gobiernos municipales.
+De la Coordinación entre la Secretaría y los Gobiernos Municipales.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 4º.
 
-Las atribuciones gubernamentales, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, que son objeto de esta ley, serán ejercidas, de manera concurrente, por el gobierno del estado y los gobiernos municipales, de conformidad con la distribución de competencias, cuyas bases establece la presente ley, sin perjuicio de lo que se disponga en otros ordenamientos aplicables.
+Las atribuciones gubernamentales, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente que son objeto de esta ley, serán ejercidas, de conformidad con la distribución que hace la presente ley, sin perjuicio de lo que se disponga en otros ordenamientos aplicables.
 
-Para tal efecto, el gobierno del estado y los gobiernos municipales podrán celebrar convenios entre ellos o con la federación, en los casos y las materias que se precisan en la presente ley.
+Para efecto de la coordinación de acciones, siempre que exista transferencia de atribuciones, el gobierno del estado y los gobiernos municipales deberán celebrar convenios entre ellos o con la federación, en los casos y las materias que se precisan en la presente ley.
 
 ###### Artículo 5º.
 
@@ -161,7 +193,9 @@ VI. El establecimiento de las medidas para hacer efectiva la prohibición de emi
 
 VII. La inducción del aprovechamiento sustentable y la prevención y el control de la contaminación de las aguas de jurisdicción estatal, y las concesionadas por la federación;
 
-VIII. La prevención y control de la contaminación de aguas federales que el gobierno del estado y los gobiernos municipales tengan asignadas o concesionadas para la prestación de servicios públicos, y de las que se descarguen en las redes de alcantarillado de los centros de población, sin perjuicio de las facultades de la federación, en materia de tratamiento, descarga, infiltración y reuso de aguas residuales, conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás normas aplicables;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+VIII. La prevención y control de la contaminación de aguas federales que el estado y los municipios tengan asignadas o concesionadas para la prestación de servicios públicos, y de las que se descarguen en las redes de alcantarillado de los centros de población, sin perjuicio de las facultades de la federación, en materia de tratamiento, descarga, infiltración y reuso de aguas residuales, conforme a esta Ley y demás normas aplicables;
 
 IX. El ordenamiento ecológico del estado y de los municipios, a través de los instrumentos regulados en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la presente ley y en las demás disposiciones aplicables, así como, mediante la promoción de las actividades económicas, o en su caso, la reorientación de las inversiones;
 
@@ -217,13 +251,17 @@ XXXIV. Las demás que se deriven de la Ley General del Equilibrio Ecológico y l
 
 Cuando dos o más centros de población urbanos, situados en el estado, formen o tiendan a formar una continuidad demográfica, el gobierno del estado y los gobiernos municipales respectivos, en el ámbito de sus competencias, planearán de manera coordinada las acciones de que trata éste artículo, cuya regulación queda a cargo del gobierno del estado, salvo lo previsto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ### CAPITULO III
 
-De las atribuciones del gobierno del estado.
+De las atribuciones de la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 6º.
 
-Corresponde al titular del ejecutivo del estado, las siguientes atribuciones:
+Corresponde a la Secretaría las siguientes atribuciones:
 
 I. Formular y conducir la política ambiental en el estado;
 
@@ -231,7 +269,9 @@ II. Aplicar, en la esfera de su competencia, esta ley y sus reglamentos;
 
 III. Ordenar y ejecutar las distintas acciones, dentro del ámbito de su competencia, a fin de proteger al ambiente, preservar, restaurar y fortalecer el equilibrio y disminuir la fragilidad ambiental en el estado, en coordinación con la federación y los gobiernos municipales, según sea necesario;
 
-IV. Formular la normatividad reglamentaria y criterios ambientales estatales, que deberán observarse en la aplicación de la política ambiental del estado, el ordenamiento ecológico local, la prevención y disminución de la contaminación ambiental de la entidad, la protección ambiental de las áreas naturales y aguas de jurisdicción estatal y las concesionadas por la federación, con la participación que, en su caso, corresponda a los gobiernos municipales;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+IV. Proponer la normatividad reglamentaria y criterios ambientales estatales, qué deberán observarse en la aplicación de la política ambiental del estado, el ordenamiento ecológico local, la prevención y disminución de la contaminación ambiental de la entidad, la protección ambiental de las áreas naturales y aguas de jurisdicción estatal y las concesionadas por la federación, con la participación que, en su caso, corresponda a los gobiernos municipales;
 
 V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio;
 
@@ -273,19 +313,29 @@ XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más mu
 
 XXIV. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
-Artículo 7º El gobierno del estado podrá celebrar con los gobiernos federal y municipales, así como con los sectores social y privado, todo tipo de instrumentos de coordinación y concertación de acciones para la protección, conservación, restauración y mejoramiento del entorno ambiental.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+###### Artículo 7º.
+
+El Titular del Ejecutivo del Estado y la Secretaría podrán celebrar con los gobiernos federal y municipales, así como con los sectores social y privado, todo tipo de instrumentos de coordinación y concertación de acciones para la protección, conservación, restauración y mejoramiento del entorno ambiental.
 
 ### CAPITULO IV
 
 De las atribuciones de los gobiernos municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 8º.
 
-Corresponde a los gobiernos municipales directamente, o por delegación, a través de los organismos o dependencias que para tal efecto designen sus titulares, en el ámbito de su competencia, de manera general, las atribuciones que se establecen en el artículo 5º de la presente ley, coordinadamente con el gobierno del estado y, de manera exclusiva, las siguientes:
+Corresponde a los gobiernos municipales directamente, o por delegación, a través de los organismos o dependencias que para tal efecto designen sus titulares, en el ámbito de su competencia, de manera general, las atribuciones que se establecen en el artículo 5º de la presente ley, coordinadamente con la Secretaría y, de manera exclusiva, las siguientes:
 
-I. Evaluar el impacto ambiental respecto de obras o actividades que no sean competencia de la federación o del gobierno del estado, que se realicen íntegramente dentro del territorio municipal, y dependiendo del dictamen satisfactorio de dicha evaluación, otorgar las autorizaciones de usos del suelo y las licencias de construcción u operación respectivas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-II. Expedir el ordenamiento ecológico del territorio municipal, en congruencia con los ordenamientos general del territorio y regional del estado, que al efecto elaboren la federación y el gobierno del estado;
+I. Evaluar el impacto ambiental respecto de obras o actividades que no sean competencia de la federación o del estado, que se realicen íntegramente dentro del territorio municipal, y dependiendo del dictamen satisfactorio de dicha evaluación, otorgar las autorizaciones de usos del suelo y las licencias de construcción u operación respectivas;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+II. Expedir el ordenamiento ecológico del territorio municipal, en congruencia con los ordenamientos general del territorio y regional del estado, que al efecto elaboren la federación y la Secretaría;
 
 III. Dictaminar las solicitudes de autorización que se presenten para descargar aguas residuales en los sistemas de drenaje y alcantarillado que administren, estableciendo condiciones particulares de descarga en dicho sistema, de conformidad con la normatividad aplicable, salvo que se trate de aguas residuales generadas en bienes y zonas de jurisdicción federal; así como, de resultar necesario, requerir la instalación de sistemas de tratamiento cuando no se satisfagan las normas oficiales mexicanas o, en su caso, la normatividad estatal que al efecto se expida;
 
@@ -419,9 +469,11 @@ VIII. En general, aquellas actividades relacionadas con la preservación y resta
 
 Del ordenamiento ecológico.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 15.
 
-El ordenamiento ecológico regional del estado será formulado por el gobierno del estado, considerando las diferentes regiones del territorio estatal, en escalas que permitan a los gobiernos municipales, la elaboración y expedición de los ordenamientos locales, así como de sus planes de desarrollo, atendiendo las condiciones ambientales actualizadas y exactas de su superficie.
+El ordenamiento ecológico regional del estado será formulado por la Secretaría considerando las diferentes regiones del territorio estatal, en escalas que permitan a los gobiernos municipales, la elaboración y expedición de los ordenamientos locales, así como de sus planes de desarrollo, atendiendo las condiciones ambientales actualizadas y exactas de su superficie.
 
 ###### Artículo 16.
 
@@ -449,9 +501,11 @@ La formulación, expedición, ejecución, evaluación y actualización, en su ca
 
 Terminados los trabajos de elaboración de los ordenamientos ecológicos regional del estado o locales, estos deberán ser sometidos a consulta pública, previo a su declaratoria y expedición correspondientes. Los criterios emanados de los mismos serán obligatorios a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 19.
 
-Para dar cumplimiento a lo establecido en el artículo anterior, el gobierno del estado y los gobiernos municipales deberán promover, en el ámbito de sus respectivas competencias, la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación y demás personas interesadas, de conformidad con lo establecido en esta ley, así como en las demás disposiciones aplicables.
+Para dar cumplimiento a lo establecido en el artículo anterior, la Secretaría y los gobiernos municipales deberán promover, en el ámbito de sus respectivas competencias, la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación y demás personas interesadas, de conformidad con lo establecido en esta ley, así como en las demás disposiciones aplicables.
 
 ###### Artículo 20.
 
@@ -483,9 +537,11 @@ c) La ordenación urbana del territorio, y los programas de los gobiernos federa
 
 De los criterios ambientales en la promoción del desarrollo estatal.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 21.
 
-En la planeación y realización de las acciones a cargo de las dependencias y entidades de los gobiernos estatal y municipales, conforme a sus respectivas áreas de competencia, que se relacionen con materias objeto de este ordenamiento, así como en el ejercicio de las atribuciones que se les confieren para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se observarán los criterios ambientales generales que establezcan las leyes de la materia. Para ello, en congruencia con la política ambiental, la planeación y ejecución de las actividades económicas, deberán ser compatibles con los ordenamientos ecológicos regional del estado y locales y su promoción se sujetará a lo establecido en las políticas de fomento económico del gobierno del estado.
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de los gobiernos estatal y municipales, conforme a sus respectivas áreas de competencia, que se relacionen con materias objeto de este ordenamiento, así como en el ejercicio de las atribuciones que se les confieren para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se observarán los criterios ambientales generales que establezcan las leyes de la materia, a través del uso de los instrumentos de la política ambiental.
 
 #### SECCION QUINTA
 
@@ -517,7 +573,9 @@ I. La formulación y aplicación de las políticas estatal y municipales de desa
 
 II. Los programas sectoriales de desarrollo urbano y vivienda que realicen el estado y sus municipios; y
 
-III. Las normas de diseño, tecnología de construcción, uso y aprovechamiento de vivienda, y en las de desarrollo urbano, que expida el gobierno del estado.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+III. Las normas de diseño, tecnología de construcción, uso y aprovechamiento de vivienda, y en las de desarrollo urbano, que expidan las dependencias del Poder Ejecutivo del Estado.
 
 ###### Artículo 25.
 
@@ -537,9 +595,11 @@ V. La vivienda que se construya en los asentamientos humanos deberá incorporar 
 
 De la evaluación del impacto ambiental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 26.
 
-La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos, impactos al ambiente o rebasar los límites y condiciones señalados en los reglamentos, las normas oficiales emitidas por la federación y las disposiciones reglamentarias que al efecto expida el gobierno del estado, deberán de sujetarse a la autorización previa del gobierno del estado o de los gobiernos municipales, en el ámbito de sus respectivas competencias, siempre que no se trate de las obras o actividades de competencia federal, comprendidas en el artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ni de cualesquiera otras reservadas a la federación, sin perjuicio de las diversas autorizaciones que corresponda otorgar a las autoridades competentes.
+La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos, impactos al ambiente o rebasar los límites y condiciones señalados en los reglamentos, las normas oficiales emitidas por la federación y las disposiciones reglamentarias que al efecto expida el Titular del Ejecutivo del Estado, deberán de sujetarse a la autorización previa de la Secretaría de los gobiernos municipales, en el ámbito de sus respectivas competencias, siempre que no se trate de las obras o actividades de competencia federal, comprendidas en el artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ni de cualesquiera otras reservadas a la federación, sin perjuicio de las diversas autorizaciones que corresponda otorgar a las autoridades competentes.
 
 Cuando se trate de la evaluación del impacto ambiental, por la realización de obras o actividades que tengan por objeto el aprovechamiento de recursos naturales, la autoridad competente, requerirá a los interesados que, en el estudio de impacto ambiental correspondiente, se incluya la descripción de los posibles efectos de dichas obras o actividades en los elementos culturales y en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman, y no únicamente los recursos que serían sujetos de aprovechamiento.
 
@@ -551,9 +611,11 @@ Los estudios únicamente podrán ser realizados por grupos multidisciplinarios, 
 
 Las modalidades de los estudios, los mecanismos y plazos de evaluación se establecerán en el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 28.
 
-Corresponderá al gobierno del estado, evaluar el impacto ambiental a que se refiere el artículo 26 de ésta ley, respecto de las siguientes materias:
+Corresponderá a la Secretaría evaluar el impacto ambiental a que se refiere el artículo 26 de ésta ley, respecto de las siguientes materias:
 
 I. Vías generales de comunicación estatales y obra pública local que comprenda o se ubique en dos o más municipios;
 
@@ -567,19 +629,27 @@ V. Aquellas obras y actividades que incidan en dos o más municipios y que su co
 
 VI. Las demás que no sean competencia de la federación ni de los gobiernos municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 29.
 
-Corresponderá a los gobiernos municipales, a través de los organismos o dependencias que los cabildos designen, evaluar el impacto ambiental a que se refiere el artículo 26 de la presente ley, respecto de las siguientes materias:
+Corresponderá a los gobiernos municipales a través de los organismos o dependencias que los cabildos designen, evaluar el impacto ambiental a que se refiere el artículo 26 de la presente ley, respecto de las siguientes materias:
 
 I. Vías de comunicación y obras públicas municipales, que comprendan o se ubiquen exclusivamente en su jurisdicción;
 
 II. Desarrollos inmobiliarios y nuevos centros de población dentro del territorio municipal, que incidan en ecosistemas donde la regulación del impacto ambiental no se encuentra reservada a la federación, ni al gobierno del estado, siempre y cuando corresponda a reservas urbanas;
 
-III. Exploración, extracción y procesamiento de minerales y sustancias que constituyan depósito de naturaleza cuyo control no este reservado a la federación ni al gobierno del estado y se ubiquen exclusivamente en su jurisdicción, así como el funcionamiento de bancos de material;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-IV. Instalación y operación de establecimientos industriales, comerciales y de servicios que se ubiquen en su jurisdicción y cuya regulación no se encuentre reservada a la federación ni al gobierno del estado; y
+III. Exploración, extracción y procesamiento de minerales y sustancias que constituyan depósito de naturaleza cuyo control no este reservado a la federación ni al estado y se ubiquen exclusivamente en su jurisdicción, así como el funcionamiento de bancos de material;
 
-V. Las demás que no sean competencia de la federación ni del gobierno del estado.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+IV. Instalación y operación de establecimientos industriales, comerciales y de servicios que se ubiquen en su jurisdicción y cuya regulación no se encuentre reservada a la federación ni al estado;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+V. Las demás que no sean competencia de la federación ni del estado; y (sic).
 
 ###### Artículo 30.
 
@@ -603,17 +673,21 @@ II. Negar dicha autorización; y
 
 III. Otorgar la autorización condicionada a la modificación del proyecto de la obra o actividad, a fin de que se eviten o atenúen los impactos ambientales adversos, susceptibles de ser producidos en la operación normal y aún en caso de accidente. Cuando se trate de autorizaciones condicionadas, la autoridad estatal o municipal, según corresponda, señalará los requerimientos que deban observarse para la ejecución de la obra o realización de la actividad prevista.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 32.
 
-Los gobiernos estatal y municipales, podrán solicitar del gobierno federal, la asistencia técnica para la evaluación de los estudios de impacto ambiental o de riesgo y, en su caso, los gobiernos municipales, podrán solicitar del gobierno del estado, la asistencia técnica necesaria para efectuar la evaluación de los estudios de impacto ambiental y de riesgo que en los términos de esta ley les compete conocer.
+La Secretaría y los gobiernos municipales, podrán solicitar del gobierno federal, la asistencia técnica para la evaluación de los estudios de impacto ambiental o de riesgo y, en su caso, los gobiernos municipales, podrán solicitar a la Secretaría, la asistencia técnica necesaria para efectuar la evaluación de los estudios de impacto ambiental y de riesgo que en los términos de esta ley les compete conocer.
 
 #### SECCION SEPTIMA
 
 De la normatividad estatal.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 33.
 
-La normatividad estatal que al efecto expida el gobierno del estado, determinará los parámetros dentro de los cuales se garanticen las condiciones necesarias de la población, y para asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente en el estado de Jalisco.
+La normatividad reglamentaria que al efecto expida el Titular del Ejecutivo del Estado, determinará los parámetros dentro de los cuales se garanticen las condiciones necesarias de la población, y para asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente en el estado de Jalisco.
 
 ###### Artículo 34.
 
@@ -623,23 +697,29 @@ Las actividades y servicios que originen emanaciones, emisiones, descargas o dep
 
 De las medidas de protección de áreas naturales.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 35.
 
-El gobierno del estado y los gobiernos municipales establecerán medidas de protección de las áreas naturales, de manera que se asegure la preservación y restauración de los ecosistemas, especialmente los más representativos, y de aquellos que se encuentren sujetos a procesos de deterioro o degradación. Para lo cual, se podrán apoyar en las personas físicas o morales, públicas o privadas, dedicadas a la protección de los recursos naturales.
+La Secretaría y los gobiernos municipales establecerán medidas de protección de las áreas naturales, de manera que se asegure la preservación y restauración de los ecosistemas, especialmente los más representativos, y de aquellos que se encuentren sujetos a procesos de deterioro o degradación. Para lo cual, se podrán apoyar en las personas físicas o morales, públicas o privadas, dedicadas a la protección de los recursos naturales.
 
 #### SECCION NOVENA
 
 De la investigación y educación ambiental.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 36.
 
-El gobierno del estado promoverá la incorporación de contenidos ambientales en los diversos ciclos educativos, especialmente en el nivel básico, dando énfasis al conocimiento de los recursos naturales de la región, así como la formación cultural de la niñez y la juventud y, en coordinación con los gobiernos municipales, propiciará el fortalecimiento de la conciencia ambiental, a través de los medios de comunicación masiva.
+La Secretaría promoverá la incorporación de contenidos ambientales en los diversos ciclos educativos, especialmente en el nivel básico, dando énfasis al conocimiento de los recursos naturales de la región, así como la formación cultural de la niñez y la juventud y, en coordinación con los gobiernos municipales, propiciará el fortalecimiento de la conciencia ambiental, a través de los medios de comunicación masiva.
 
-El gobierno del estado, por conducto de los organismos o dependencias que para tal efecto señale, promoverá el desarrollo de la capacitación y adiestramiento del magisterio estatal, en y para el trabajo, en materia de protección al ambiente, de preservación, restauración y fortalecimiento del equilibrio ecológico, con arreglo a lo que establece esta ley, y de conformidad con los sistemas, métodos y procedimientos que contemple la legislación aplicable. Asimismo, propiciará la incorporación de los contenidos ambientales en los programas de los organismos encargados de regular la seguridad e higiene en el trabajo.
+El Titular del Ejecutivo del Estado, por conducto de los organismos o dependencias que para tal efecto señale, promoverá el desarrollo de la capacitación y adiestramiento del magisterio estatal, en y para el trabajo, en materia de protección al ambiente, de preservación, restauración y fortalecimiento del equilibrio ecológico, con arreglo a lo que establece esta ley, y de conformidad con los sistemas, métodos y procedimientos que contemple la legislación aplicable. Asimismo, propiciará la incorporación de los contenidos ambientales en los programas de los organismos encargados de regular la seguridad e higiene en el trabajo.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 37.
 
-El gobierno del estado y los gobiernos municipales, con arreglo a la ley, fomentarán investigaciones científicas y promoverán programas para el desarrollo de tecnologías y procedimientos alternativos que permitan prevenir, controlar y abatir la contaminación, y propiciar el aprovechamiento sustentable de los ecosistemas, en el ámbito de sus respectivas competencias. Para ello, podrán celebrar convenios con instituciones del sector social y privado, nacionales o internacionales e investigadores y especialistas en la materia.
+El Titular del Ejecutivo, la Secretaría y los gobiernos municipales, con arreglo a la ley, fomentarán investigaciones científicas y promoverán programas para el desarrollo de tecnologías y procedimientos alternativos que permitan prevenir, controlar y abatir la contaminación, y propiciar el aprovechamiento sustentable de los ecosistemas, en el ámbito de sus respectivas competencias. Para ello, podrán celebrar convenios con instituciones del sector social y privado, nacionales o internacionales e investigadores y especialistas en la materia.
 
 #### SECCION DECIMA
 
@@ -657,21 +737,29 @@ De la autorregulación y auditorías ambientales.
 
 Los productores, industriales u organizaciones empresariales, podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-Los gobiernos del estado y los municipales en el ámbito de sus competencias, inducirán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+La Secretaría y los gobiernos municipales en el ámbito de sus competencias, inducirán:
 
 I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industriales, comercios y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
-II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstas por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen. Para tal efecto, el gobierno del estado y los gobiernos municipales, según corresponda, podrán promover el establecimiento de nuevas normas oficiales mexicanas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstas por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen. Para tal efecto, la Secretaría y los gobiernos municipales, según corresponda, podrán promover el establecimiento de nuevas normas oficiales mexicanas;
 
 III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente; y
 
 IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 40.
 
 Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger al ambiente.
 
-El gobierno del estado desarrollará un programa dirigido a fomentar la realización de auditorías ambientales y supervisará su ejecución, con apoyo de los gobiernos municipales y, en su caso, certificará su cumplimiento. Para tal efecto:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+La Secretaría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales y supervisará su ejecución, con apoyo de los gobiernos municipales y, en su caso, certificará su cumplimiento. Para tal efecto:
 
 I. Elaborará los términos de referencia que establezca la metodología para la realización de las auditorías ambientales;
 
@@ -687,9 +775,11 @@ V. Dirigirá sus esfuerzos principalmente a la mediana y pequeña industria, con
 
 VI. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 41.
 
-El gobierno del estado, en coordinación con la empresa auditada, pondrá los programas preventivos y correctivos derivados de la auditoría ambiental, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
+La Secretaría, en coordinación con la empresa auditada, pondrá los programas preventivos y correctivos derivados de la auditoría ambiental, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
 
 En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
@@ -708,6 +798,8 @@ De las categorías, declaratorias y ordenamiento de las áreas naturales protegi
 #### SECCION SEGUNDA
 
 De las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de áreas naturales protegidas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 42.
 
@@ -761,9 +853,11 @@ IV. Areas municipales de protección hidrológica.
 
 En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se refieren los artículos anteriores, participarán los poseedores y propietarios de los terrenos, así como los habitantes del área en estudio, de conformidad con los acuerdos de concertación que al efecto se celebren, con el objeto de propiciar el desarrollo integral de las comunidades y asegurar la protección de los ecosistemas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 47.
 
-Los parques estatales son aquellas áreas de uso público, constituidas por el gobierno del estado, que contienen representaciones biogeográficas en el ámbito regional de uno o más ecosistemas, cuya belleza escénica es representativa, tienen valor científico, educativo y de recreo, y valor histórico, por la existencia de flora y fauna y sus posibilidades de uso ecoturístico.
+Los parques estatales son aquellas áreas de uso público, constituidas por el Titular del Ejecutivo, que contienen representaciones biogeográficas en el ámbito regional de uno o más ecosistemas, cuya belleza escénica es representativa, tienen valor científico, educativo y de recreo, y valor histórico, por la existencia de flora y fauna y sus posibilidades de uso ecoturístico.
 
 En los parques y reservas estatales solo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y sus elementos, así como con la investigación, recreación, ecoturismo y educación ambiental.
 
@@ -795,13 +889,33 @@ Las áreas municipales de protección hidrológica son aquellas destinadas a la 
 
 ###### Artículo 54.
 
-Las áreas naturales protegidas de competencia estatal se establecerán mediante decreto expedido por el gobierno del estado; las áreas naturales protegidas de competencia municipal se establecerán mediante iniciativa del municipio correspondiente y decreto del congreso del estado. Las declaratorias se harán conforme a éste y los demás ordenamientos aplicables.
+Las áreas naturales protegidas de competencia estatal se establecerán mediante decreto expedido por el Titular del Ejecutivo del Estado; las áreas naturales protegidas de competencia municipal se establecerán mediante iniciativa del municipio correspondiente y decreto del Congreso del Estado. Las declaratorias se harán conforme a éste y los demás ordenamientos aplicables.
 
-Cualquier persona física o moral, pública o privada, podrá proponer la declaratoria de alguna área natural protegida, solicitando formalmente el apoyo del gobierno del estado o del gobierno municipal de que se trate, según corresponda.
+Unicamente los ciudadanos mexicanos, sin perjuicio de lo dispuesto en los tratados internacionales, podrán proponer la declaratoria de alguna área natural protegida, solicitando formalmente la intervención del Titular del Ejecutivo del Estado o del gobierno municipal de que se trate, según corresponda.
+
+La propuesta deberá constar de cuando menos los siguientes elementos:
+
+a) Nombre y domicilio del solicitante;
+
+b) Ubicación del área solicitada;
+
+c) Exposición de hechos que la justifiquen; y
+
+d) Domicilio de los propietarios o legítimos posesionarios de los terrenos del área solicitada, si lo conociere.
+
+A la solicitud se deberán acompañar los documentos que acrediten los elementos referidos en este artículo.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+###### Artículo 54 Bis.
+
+La autoridad que conozca de la propuesta del artículo anterior, resolverá sobre la viabilidad de la misma y notificará de ello al proponente la resolución correspondiente.
 
 ###### Artículo 55.
 
-Para la expedición de las declaratorias deberá realizarse el programa de aprovechamiento con los estudios técnicos que lo fundamenten, con el apoyo y asesoría que sean necesarios de instituciones u organismos especializados en la materia, contando además, para el caso de aquellas de competencia estatal, con la participación de los municipios en cuya circunscripción territorial se localice el área de que se trate, y con la concurrencia de los dueños, poseedores y habitantes del área en estudio.
+Para la expedición de las declaratorias deberá realizarse el programa de aprovechamiento con los estudios técnicos que lo fundamenten, con el apoyo y asesoría que sean necesarios de instituciones u organismos especializados en la materia, contando además, para el caso de aquellas de competencia estatal, con la participación de los municipios en cuya circunscripción territorial se localice el área de que se trate, y con la concurrencia de los dueños, poseedores y habitantes del área en estudio, a quienes se les hará saber la existencia del proyecto de declaratoria mediante cédula que se fijará en los estrados de las presidencias municipales que correspondan, así como a través de publicaciones en uno de los periódicos de mayor circulación en la localidad, en otro de mayor circulación en el estado y el Periódico Oficial "El Estado de Jalisco".
+
+Una vez realizada la notificación a que hace referencia el párrafo anterior, el dueño o legítimo posesionario del predio interesado deberá presentarse dentro de los sesenta días naturales siguientes, a manifestar lo que a sus intereses convenga, pudiendo ofrecer todos los elementos de prueba que justifiquen su intención, siempre y cuando no sean contrarias a la moral y a las buenas costumbres, o de lo contrario se les tendrá por conforme con los términos del proyecto.
 
 ###### Artículo 56.
 
@@ -835,11 +949,21 @@ El gobierno del estado o los gobiernos municipales, tomando como base los estudi
 
 En el caso de áreas naturales protegidas de carácter federal, deberá sugerirle a la federación lo conducente.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+###### Artículo 59 Bis.
+
+La explotación o aprovechamiento de recursos en áreas naturales protegidas deberá ser realizado preferentemente por los dueños o posesionarios de los predios.
+
+Cuando por incapacidad económica o técnica los dueños o posesionarios legítimos no pudieren explotar personalmente los recursos del área natural protegida, deberá otorgarse el permiso correspondiente a quien los mismos propongan para ese fin, siempre y cuando cumplan con los requisitos señalados.
+
 ###### Artículo 60.
 
 El gobierno del estado y los gobiernos municipales, conforme a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, participarán en las actividades y medidas de conservación, administración, desarrollo y vigilancia de las áreas naturales protegidas de competencia federal, celebrando, para tal efecto, convenios de coordinación con la federación, a efecto de regular las materias que se estiman necesarias, como son, enunciativamente:
 
-I. La forma en que el gobierno del estado y los gobiernos municipales participarán en la administración de las áreas naturales protegidas competencia de la federación;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+I. La forma en que la Secretaría, y en su caso, las dependencias de gobierno que el Titular del Ejecutivo del Estado designe, y los gobiernos municipales participarán en la administración de las áreas naturales protegidas competencia de la federación;
 
 II. La coordinación de las políticas federales con las del gobierno del estado y los gobiernos municipales, y la elaboración del programa de aprovechamiento de las áreas naturales protegidas de competencia federal, con la formulación de compromisos para su ejecución;
 
@@ -881,9 +1005,15 @@ Será nulo todo acto, convenio o contrato que contravenga lo que en la mencionad
 
 Del sistema estatal de áreas naturales protegidas.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 63.
 
-Las áreas naturales protegidas consideradas de interés federal, estatal y municipal, constituyen, en su conjunto, el sistema estatal de áreas naturales protegidas cuya conformación y expedición del reglamento correspondiente, estará a cargo del gobierno del estado.
+Las áreas naturales protegidas consideradas de interés federal, estatal y municipal, constituyen, en su conjunto, el sistema estatal de áreas naturales protegidas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+Artículo 64 La Secretaría llevará un registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción o incorporación en los registros públicos de la propiedad, de conformidad al reglamento que al respecto se expida.
 
 ###### Artículo 64.
 
@@ -927,9 +1057,11 @@ El gobierno del estado y los gobiernos municipales, en el ámbito de sus respect
 
 Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, el gobierno del estado y, en su caso, los gobiernos municipales, promoverán el tratamiento de aguas residuales y su reuso, así como el aprovechamiento de las aguas pluviales por medio de pozos de absorción, con el propósito de recargar los mantos acuíferos y establecer el aislamiento de los sistemas de drenaje y alcantarillado de las aguas pluviales, y asegurar su correcto aprovechamiento.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 68.
 
-El gobierno del estado, conjuntamente con los gobiernos municipales, podrá celebrar con la federación, convenios o acuerdos de coordinación para participar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los ecosistemas acuáticos.
+El Titular del Ejecutivo del Estado y la Secretaría, conjuntamente con los gobiernos municipales, podrá celebrar con la federación, convenios o acuerdos de coordinación para participar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los ecosistemas acuáticos.
 
 ### CAPITULO III
 
@@ -943,9 +1075,11 @@ I. El uso del suelo debe ser compatible con su condición de fragilidad ambienta
 
 II. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deberán incluir acciones equivalentes de mitigación, restauración, estabilización y rehabilitación.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 70.
 
-En las zonas que presentan graves alteraciones ambientales, el gobierno del estado y los gobiernos municipales, promoverán y formularán los programas especiales para la restauración del equilibrio ecológico, en sus respectivos ámbitos de competencia.
+En las zonas que presentan graves alteraciones ambientales, la Secretaría y los gobiernos municipales, promoverán y formularán los programas especiales para la restauración del equilibrio ecológico, en sus respectivos ámbitos de competencia.
 
 ## TITULO CUARTO
 
@@ -955,6 +1089,8 @@ Protección al Ambiente.
 
 De las actividades riesgosas.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 71.
 
 Para la protección de la atmósfera, se considerarán los siguientes criterios:
@@ -963,9 +1099,11 @@ I. La calidad del aire deberá ser satisfactoria en todos los asentamientos huma
 
 II. Las emisiones de contaminantes a la atmósfera, en la entidad, sean de fuentes fijas o móviles, deberán de ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 72.
 
-El gobierno del estado y los gobiernos municipales, en materia de contaminación atmosférica, en el ámbito de sus respectivas competencias:
+La Secretaría y los gobiernos municipales, en materia de contaminación admosférica (sic), en el ámbito de sus respectivas competencias:
 
 I. Llevarán a cabo las acciones de prevención y control de la contaminación del aire en bienes y zonas de jurisdicción local;
 
@@ -987,9 +1125,11 @@ IX. Elaborarán los informes sobre la situación del medio ambiente en el estado
 
 X. Ejercerán las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 73.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas y líquidas a la atmósfera, se requerirá autorización del gobierno del estado, en los términos que fije el reglamento de la presente ley.
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas y líquidas a la atmósfera, se requerirá autorización de la Secretaría, en los términos que fije el reglamento de la presente ley.
 
 Para los efectos a que se refiere esta ley, se considerarán fuentes fijas de jurisdicción local, los establecimientos industriales, comerciales y de servicios, cuya regulación no se encuentra reservada a la federación.
 
@@ -1003,9 +1143,11 @@ II. Vigilar e inspeccionar la operación de fuentes fijas de jurisdicción local
 
 III. Mediante el procedimiento administrativo previsto en esta ley, imponer las sanciones y medidas que correspondan por infracciones a las disposiciones de éste ordenamiento y sus reglamentos, o a los bandos y reglamentos de policía y buen gobierno que se expidan de acuerdo con esta ley.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 75.
 
-No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera se observarán las prevenciones de esta ley y las disposiciones reglamentarias que de ella emanen; así como las normas oficiales expedidas por el ejecutivo federal y la normatividad que expida el gobierno del estado.
+No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera se observarán las prevenciones de esta Ley y las disposiciones reglamentarias que de ella emanen; así como las normas oficiales expedidas por el ejecutivo federal y la normatividad reglamentaria que al efecto se (sic) expida el Gobierno del Estado.
 
 ###### Artículo 76.
 
@@ -1019,13 +1161,17 @@ En los programas de desarrollo urbano estatal y planes parciales municipales, se
 
 De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales y municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 78.
 
 Para la prevención y control de la contaminación del agua y de los ecosistemas acuáticos, se considerarán los siguientes criterios:
 
 I. La prevención y control de la contaminación del agua son fundamentales, para evitar que se reduzca su disponibilidad y para proteger los ecosistemas del estado:
 
-II. Corresponde al gobierno del estado, los gobiernos municipales, y a la sociedad, prevenir la contaminación de ríos, cuencas, vasos, aguas marinas y demás depósitos y corrientes de agua, incluyendo las aguas del subsuelo;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+II. Corresponde a la Secretaría, los gobiernos municipales, y a la sociedad, prevenir la contaminación de ríos, cuencas, vasos, aguas marinas y demás depósitos y corrientes de agua, incluyendo las aguas del subsuelo;
 
 III. El aprovechamiento del agua en actividades productivas susceptibles de producir su contaminación, conlleva la responsabilidad del tratamiento de las descargas, para reintegrarla en condiciones adecuadas para su utilización en otras actividades, y para mantener el equilibrio de los ecosistemas;
 
@@ -1033,9 +1179,11 @@ IV. Las aguas residuales de origen urbano, industrial, agropecuario, acuícola o
 
 V. La participación y corresponsabilidad de la sociedad son condiciones indispensables para evitar la contaminación del agua.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 79.
 
-Para evitar la contaminación del agua, el gobierno del estado y los gobiernos municipales, coadyuvarán con las autoridades federales en la regulación de:
+Para evitar la contaminación del agua, la Secretaría y los gobiernos municipales, coadyuvarán con las autoridades federales en la regulación de:
 
 I. Las descargas de origen industrial;
 
@@ -1075,9 +1223,11 @@ II. Las interferencias en los procesos de depuración de las aguas; y
 
 III. Los trastornos, impedimentos o alteraciones en los correctos aprovechamientos, o en el funcionamiento adecuado de los ecosistemas y, en la capacidad hidráulica, en las cuencas, cauces, embalses, mantos acuíferos y demás depósitos de propiedad nacional, así como en los sistemas de alcantarillado.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 83.
 
-Todas las descargas en las redes colectoras, ríos, cuencas, cauces, embalses, aguas marinas y demás depósitos o corrientes de agua, y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán satisfacer las condiciones particulares de descarga establecidas en las normas oficiales mexicanas aplicables y, en su caso, las dispuestas en la normatividad que al efecto expidan el gobierno del estado o los gobiernos municipales. Corresponderá a quien genere dichas descargas, realizar el tratamiento previo requerido.
+Todas las descargas en las redes colectoras, ríos, cuencas, cauces, embalses, aguas marinas y demás depósitos o corrientes de agua, y los derrames de aguas residuales en los suelos o su infiltración en terrenos, deberán satisfacer los límites máximos permisibles de descarga establecidas en las normas oficiales mexicanas aplicables y, en su caso, las dispuestas en la normatividad que al efecto expidan el Titular del Ejecutivo y los gobiernos municipales. Corresponderá a quien genere dichas descargas, realizar el tratamiento previo requerido.
 
 ###### Artículo 84.
 
@@ -1091,11 +1241,15 @@ El gobierno del estado y los gobiernos municipales, en los casos de aguas de su 
 
 Del ruido, vibraciones, energía térmica y lumínica y olores.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 86.
 
 Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
 
-I. Corresponde al gobierno del estado, a los gobiernos municipales y a la sociedad en general prevenir la contaminación del suelo;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+I. Corresponde a la Secretaría, a los gobiernos municipales y a la sociedad en general prevenir la contaminación del suelo;
 
 II. Deben ser controlados los residuos, en tanto que constituyan la principal fuente de contaminación de los suelos;
 
@@ -1125,17 +1279,21 @@ III. Las alteraciones en el suelo que afecten su aprovechamiento, uso o explotac
 
 IV. Riesgos y problemas de salud.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 89.
 
-Queda sujeto a la autorización del gobierno del estado en coordinación con los gobiernos municipales, con arreglo a las normas oficiales mexicanas y la normatividad estatal que se expida, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos industriales.
+Queda sujeto a la autorización de la Secretaría en coordinación con los gobiernos municipales, con arreglo a las normas oficiales mexicanas y la normatividad estatal que se expida, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos industriales.
 
 ###### Artículo 90.
 
 Queda sujeto a la vigilancia del gobierno del estado en coordinación con los gobiernos municipales, con referencia a las normas oficiales mexicanas correspondientes y la normatividad estatal que al efecto se expida, la aplicación y uso de agroquímicos y pesticidas en las actividades del sector primario, dentro del territorio estatal, debiendo el gobierno del estado y los gobiernos municipales remitir las opiniones técnicas y los señalamientos respectivos a la instancia correspondiente, con el fin de proteger la productividad y el desarrollo de los suelos de la entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 91.
 
-El gobierno del estado y los gobiernos municipales podrán celebrar acuerdos de coordinación y asesoría con la federación, para:
+El Titular del Ejecutivo del Estado y la Secretaría, así como los gobiernos municipales podrán celebrar acuerdos de coordinación y asesoría con la federación, para:
 
 I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos industriales y municipales;
 
@@ -1157,7 +1315,7 @@ De la participación social.
 
 ###### Artículo 94.
 
-El gobierno del estado regulará y vigilará la realización de actividades riesgosas que no sean consideradas altamente riesgosas por las disposiciones federales.
+La Secretaría regulará y vigilará la realización de actividades riesgosas que no sean consideradas altamente riesgosas por las disposiciones federales.
 
 ###### Artículo 95.
 
@@ -1169,7 +1327,7 @@ Derecho a la información ambiental.
 
 ###### Artículo 96.
 
-Corresponde al gobierno del estado la regulación y vigilancia de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales, que no sean peligrosos conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para lo cual, deberá:
+Corresponde a la Secretaría la regulación y vigilancia de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales, que no sean peligrosos conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para lo cual, deberá:
 
 I. Formular las disposiciones que regulen las actividades de recolección, tratamiento y disposición final de residuos sólidos industriales, observando lo que dispongan la Ley General del Equilibrio Ecológico y la Protección al Ambiente, esta ley y el reglamento que al efecto se expida y las normas oficiales mexicanas correspondientes;
 
@@ -1181,9 +1339,11 @@ IV. Emitir las autorizaciones correspondientes, respecto del funcionamiento de l
 
 V. Ejercer las demás atribuciones que les otorga la presente ley.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 97.
 
-El gobierno del estado promoverá la administración de los residuos sólidos industriales y adoptará las medidas conducentes para incorporar técnicas y procedimientos para su rescate energético.
+La Secretaría promoverá la administración de los residuos sólidos industriales y adoptará las medidas conducentes para incorporar técnicas y procedimientos para su rescate energético.
 
 ###### Artículo 98.
 
@@ -1201,15 +1361,19 @@ III. Emitir las autorizaciones correspondientes, respecto del funcionamiento de 
 
 IV. Ejercer las demás atribuciones que les otorga la presente ley.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 100.
 
-El gobierno del estado y los gobiernos municipales promoverán la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos industriales y municipales.
+La Secretaría y los gobiernos municipales promoverán la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos industriales y municipales.
 
-En el caso de aquellos envases que no sea posible obtener alternativas, el gobierno del estado y los gobiernos municipales, en el ámbito de sus respectivas competencias, gestionarán ante las empresas correspondientes la obligación de que se responsabilicen de recuperar los envases utilizados para la venta de sus productos, sobre todo aquellos que al ser desocupado (sic) o agotados, representen residuos peligrosos para la salud de la población o de lenta degradación.
+En el caso de aquellos envases que no sea posible obtener alternativas, la Secretaría y los gobiernos municipales, en el ámbito de sus respectivas competencias, gestionarán ante las empresas correspondientes la obligación de que se responsabilicen de recuperar los envases utilizados para la venta de sus productos, sobre todo aquellos que al ser desocupado (sic) o agotados, representen residuos peligrosos para la salud de la población o de lenta degradación.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 101.
 
-El gobierno del estado y los gobiernos municipales llevarán el inventario de confinamientos controlados y rellenos sanitarios de residuos sólidos industriales y municipales, respectivamente, así como el de fuentes generadoras, cuyos datos se integrarán al sistema estatal de información ambiental, así como al sistema nacional que opera el ejecutivo federal.
+La Secretaría y los gobiernos municipales llevarán el inventario de confinamientos controlados y rellenos sanitarios de residuos sólidos industriales y municipales, respectivamente, así como el de fuentes generadoras, cuyos datos se integrarán al sistema estatal de información ambiental, así como al sistema nacional que opera el ejecutivo federal.
 
 ### CAPITULO I
 
@@ -1217,7 +1381,7 @@ Disposiciones generales.
 
 ###### Artículo 102.
 
-Quedan, prohibidas las emisiones de ruidos, vibraciones, energía térmica y lumínica y la generación de olores, en cuanto rebasen los límites máximos contenidos en las normas oficiales mexicanas, o en su caso, la normatividad que para ese efecto expida el gobierno del estado. Los gobiernos municipales, mediante las acciones de inspección y vigilancia correspondientes, adoptarán las medidas para impedir que sé transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
+Quedan prohibidas las emisiones de ruidos, vibraciones, energía térmica y lumínica y la generación de olores, en cuanto rebasen los límites máximos contenidos en las normas oficiales mexicanas, o en su caso, la normatividad reglamentaria que para ese efecto expida el Titular del Ejecutivo del Estado. Los gobiernos municipales, mediante las acciones de inspección y vigilancia correspondientes, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
 
 En la construcción de obras o instalaciones que generen energía térmica, ruido, vibraciones y olores, así como en la operación y funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de dichos contaminantes.
 
@@ -1233,6 +1397,8 @@ Participación Social e Información Ambiental.
 
 Del procedimiento de inspección y vigilancia.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 104.
 
 Toda persona tiene la obligación de participar en la gestión ambiental e intervenir activamente en su comunidad para la defensa y conservación del medio ambiente en los términos de esta ley, haciendo uso de los derechos que la misma le confiere.
@@ -1241,13 +1407,17 @@ Toda persona tiene la obligación de participar en la gestión ambiental e inter
 
 Toda persona con el interés jurídico que tiene de gozar de un ambiente sano y ecológicamente equilibrado, podrá intervenir, de conformidad a las disposiciones de la presente ley, en la regulación de las actividades que afecten o puedan afectar el medio ambiente.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 106.
 
-El gobierno del estado y los gobiernos municipales promoverán la participación corresponsable de la sociedad en la planeación, evaluación y vigilancia de la política ambiental y la aplicación de sus instrumentos.
+La Secretaría y los gobiernos municipales promoverán la participación corresponsable de la sociedad en la planeación, evaluación y vigilancia de la política ambiental y la aplicación de sus instrumentos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 107.
 
-Para los efectos del artículo anterior, el gobierno del estado, en coordinación con los gobiernos municipales:
+Para los efectos del artículo anterior, la Secretaría, en coordinación con los gobiernos municipales:
 
 I. Convocará a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, a las comunidades, pueblos indígenas e instituciones educativas, a las organizaciones sociales no lucrativas, y sociedad en general, para que manifiesten su opinión y propuestas;
 
@@ -1261,15 +1431,19 @@ V. Impulsará el fortalecimiento de la conciencia ambiental, a través de la rea
 
 VI. Concertará acciones e inversiones económicas con los sectores, social y privados y con las instituciones académicas y organizaciones sociales, pueblos indígenas y comunidades rurales, y demás personas físicas o morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 108.
 
-El gobierno del estado y los gobiernos municipales, en su esfera de competencias, integrarán órganos de consulta, en los que participarán entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expidan el gobierno del estado y los gobiernos municipales, según corresponda.
+La Secretaría y los gobiernos municipales, en su esfera de competencias, integrarán órganos de consulta, en los que participarán entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expidan el Titular del Ejecutivo del Estado, la Secretaría y los gobiernos municipales, según corresponda.
 
-Cuando el gobierno del estado y los gobiernos municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
+Cuando la Secretaría y los gobiernos municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
 
 ### CAPITULO III
 
 De las medidas de seguridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 109.
 
@@ -1279,17 +1453,23 @@ En dicho sistema, el gobierno del estado deberá de integrar, entre otros aspect
 
 El gobierno del estado y los gobiernos municipales, recopilarán informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de los recursos naturales, realizados en el estado por personas físicas o morales, públicas o privadas.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 110.
 
-El gobierno del estado en coordinación con los gobiernos municipales, deberá elaborar y publicar anualmente un informe detallado de la situación general existente en el territorio del estado en materia de equilibrio ecológico y protección al ambiente.
+La Secretaría en coordinación con los gobiernos municipales, deberá elaborar y publicar anualmente un informe detallado de la situación general existente en el territorio del estado en materia de equilibrio ecológico y protección al ambiente.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 111.
 
-El gobierno del estado deberá elaborar una gaceta en la que se publicarán las disposiciones jurídicas, la normatividad estatal que se expida, los decretos, reglamentos, acuerdos y demás actos administrativos, así como la información de interés general en materia ambiental que se publique por el gobierno del estado en el periódico oficial El Estado de Jalisco o en otros órganos de difusión. Igualmente, en dicha gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y aprovechamiento sustentable de los recursos naturales.
+La Secretaría deberá elaborar una gaceta en la que se publicarán las disposiciones jurídicas, la normatividad estatal que se expida, los decretos, reglamentos, acuerdos y demás actos administrativos, así como la información de interés general en materia ambiental que se publique en el periódico oficial "El Estado de Jalisco" o en otros órganos de difusión. Igualmente, en dicha gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y aprovechamiento sustentable de los recursos naturales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 112.
 
-Toda persona tendrá derecho a que el gobierno del estado y los gobiernos municipales, según corresponda, pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta ley. En su caso, los gastos que se generen por la reproducción de la documentación correrán por cuenta del solicitante.
+Toda persona tendrá derecho a que la Secretaría y los gobiernos municipales, según corresponda, pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta ley. En su caso, los gastos que se generen por la reproducción de la documentación correrán por cuenta del solicitante.
 
 Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberá (sic) identificarse indicando su nombre o razón social y domicilio.
 
@@ -1305,13 +1485,15 @@ III. Se trate de información aportada por terceros, cuando por disposición leg
 
 IV. Se trate de información sobre inventarios de insumos y tecnología de proceso, incluyendo la descripción del mismo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 114.
 
-El gobierno del estado y los gobiernos municipales deberán responder por escrito a los solicitantes de información ambiental en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la recepción de la petición respectiva.
+La Secretaría y los gobiernos municipales deberán responder por escrito a los solicitantes de información ambiental en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la recepción de la petición respectiva.
 
 Si transcurrido el plazo establecido en el párrafo anterior, la autoridad correspondiente no ha emitido la respuesta por escrito, la petición se entenderá resuelta en sentido negativo para el promovente.
 
-La autoridad correspondiente, dentro de los diez días hábiles siguientes a la solicitud de información, deberá notificar al generador o propietario de la misma, de la recepción de la solicitud. Los actos del gobierno del estado y los gobiernos municipales, regulados en éste capítulo, podrán ser impugnados por los directamente afectados mediante la interposición del recurso de revisión, de conformidad con lo dispuesto en esta ley.
+La autoridad correspondiente, dentro de los diez días hábiles siguientes a la solicitud de información, deberá notificar al generador o propietario de la misma, de la recepción de la solicitud. Los actos de la Secretaría y los gobiernos municipales, regulados en éste capítulo, podrán ser impugnados por los directamente afectados mediante la interposición del recurso de revisión, de conformidad con lo dispuesto en esta ley.
 
 ###### Artículo 115.
 
@@ -1325,6 +1507,8 @@ Medidas de Control y Seguridad y Sanciones.
 
 De las sanciones administrativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 116.
 
 Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata éste ordenamiento.
@@ -1337,9 +1521,11 @@ Tratándose de materias referidas en esta ley que se encuentren reguladas por le
 
 En aquellos casos en que medie una situación de emergencia o urgencia, la autoridad competente podrá efectuar debidamente fundados y motivados los actos y diligencias que sean necesarios sin sujetarse a los requisitos y formalidades del procedimiento previstos en esta ley, respetando en todo caso las garantías individuales de los particulares.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 118.
 
-Las actuaciones del gobierno del estado y los gobiernos municipal en los procedimientos administrativos regulados por esta ley, se desarrollarán con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
+Las actuaciones de la Secretaría y los gobiernos municipales en los procedimientos administrativos regulados por esta ley, se desarrollarán con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
 
 ###### Artículo 119.
 
@@ -1347,11 +1533,15 @@ Las promociones deberán hacerse por escrito, en el que se precisará el nombre,
 
 El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos por esta ley y los ordenamientos que de ella se deriven.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 120.
 
 Los promoventes con capacidad de ejercicio podrán actuar por sí, o por medio de un representante o apoderado.
 
-La representación de las personas físicas o morales, públicas o privadas, ante el gobierno del estado y los gobiernos municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberán acreditarse mediante instrumento público, y en el caso de personas físicas, también mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos, ante las propias autoridades o fedatario público, o declaración en comparecencia personal del interesado.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+La representación de las personas físicas o morales, públicas o privadas, ante la Secretaría y los gobiernos municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberán acreditarse mediante instrumento público, y en el caso de personas físicas, también mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos, ante las propias autoridades o fedatario público, o declaración en comparecencia personal del interesado.
 
 Sin perjuicio de lo anterior, el interesado o su representante legal, mediante escrito firmado, podrá autorizar a la persona o personas que estime pertinentes para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fuesen necesarias para la tramitación del procedimiento, incluyendo la interposición del recurso de revisión.
 
@@ -1371,15 +1561,19 @@ En los plazos establecidos por periodos, se computarán todos los días, cuando 
 
 Si el último día del plazo o la fecha determinada es inhábil, o las oficinas de la autoridad ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 123.
 
-Las diligencia o actuaciones de las autoridades se efectuarán conforme a los horarios de cada dependencia o entidad del gobierno del estado o de los gobiernos municipales, según corresponda, que previamente se establezcan y publiquen en el Periódico Oficial El Estado de Jalisco, y en su defecto, las comprendidas entre las 8:00 y las 18:00 horas. Una diligencia iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
+Las diligencia (sic) o actuaciones de las autoridades se efectuarán conforme a los horarios de cada dependencia o entidad del gobierno del estado o de los gobiernos municipales, según corresponda, que previamente se establezcan y publiquen en el Periódico Oficial El Estado de Jalisco, y en su defecto, las comprendidas entre las 8:00 y las 18:00 horas. Una diligencia iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
 
-El gobierno del estado y los gobiernos municipales, en caso de urgencia o de existir causa justificada, podrán habilitar horas inhábiles cuando la persona, con quien se vaya a practicar la diligencia realice actividades objeto de investigación en tales horas.
+La Secretaría y los gobiernos municipales, en caso de urgencia o de existir causa justificada, podrán habilitar horas inhábiles cuando la persona, con quien se vaya a practicar la diligencia realice actividades objeto de investigación en tales horas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 124.
 
-Sin perjuicio de lo establecido en otras leyes, el gobierno del estado y los gobiernos municipales, de oficio o a petición de parte interesada, podrán ampliar los términos y plazos establecidos, sin que dicha ampliación exceda en ningún caso, de la mitad del plazo previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
+Sin perjuicio de lo establecido en otras leyes, la Secretaría y los gobiernos municipales, de oficio o a petición de parte interesada, podrán ampliar los términos y plazos establecidos, sin que dicha ampliación exceda en ningún caso, de la mitad del plazo previsto originalmente, cuando así lo exija el asunto y no se perjudiquen los derechos de los interesados o de terceros.
 
 ###### Artículo 125.
 
@@ -1429,17 +1623,23 @@ Las notificaciones irregularmente practicadas, surtirán efectos a partir de la 
 
 Del recurso de revisión.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 132.
 
-El gobierno del estado y los gobiernos municipales, en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+La Secretaría y los gobiernos municipales, en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 133.
 
-El procedimiento administrativo de inspección y vigilancia podrá iniciarse de oficio o a petición de parte interesada. El gobierno del estado y los gobiernos municipales, no podrán exigir más formalidades que las expresamente previstas en la ley.
+El procedimiento administrativo de inspección y vigilancia podrá iniciarse de oficio o a petición de parte interesada. La Secretaría y los gobiernos municipales, no podrán exigir más formalidades que las expresamente previstas en la ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 134.
 
-El gobierno del estado y los gobiernos municipales, en el ámbito de su competencia, realizarán, por conducto del personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las leyes que puedan llevar a cabo para verificar el cumplimiento de éste ordenamiento.
+La Secretaría y los gobiernos municipales, en el ámbito de su competencia, realizarán, por conducto del personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las leyes que puedan llevar a cabo para verificar el cumplimiento de éste ordenamiento.
 
 El personal autorizado, al practicar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite o autorice a practicar la inspección, así como de la orden escrita debidamente fundada y motivada, expedida por autoridad y funcionario competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
@@ -1499,9 +1699,11 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo trans
 
 En el procedimiento de inspección y vigilancia se admitirán toda clase de pruebas, excepto la confesional de las autoridades. La autoridad competente podrá allegarse de los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en la ley.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 142.
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, el gobierno del estado o el gobierno municipal correspondiente, procederá a dictar por escrito la resolución administrativa que en derecho corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado conforme lo establecido en el articulo 126.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos la Secretaría o el gobierno municipal correspondiente, procederá a dictar por escrito la resolución administrativa que en derecho corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado conforme lo establecido en el articulo 126.
 
 ###### Artículo 143.
 
@@ -1517,9 +1719,11 @@ En caso de que el infractor realice las medidas correctivas o de urgente aplicac
 
 De la comisión de delitos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 144.
 
-Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componente (sic), o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, el gobierno del estado y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
+Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componente (sic), o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, la Secretaría y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
 
 I. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen recursos naturales, materiales o substancias contaminantes, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de éste artículo;
 
@@ -1527,19 +1731,25 @@ II. El aseguramiento precautorio de materiales y residuos sólidos industriales 
 
 III. La neutralización o cualquier acción análoga que impida que materiales o residuos no peligrosos generen los efectos previstos en el primer párrafo de éste artículo.
 
-Asimismo, el gobierno del estado y los gobiernos municipales, promoverán ante la federación, la ejecución, en los términos de las leyes relativas, de alguna o algunas de las medidas de seguridad que en dichos ordenamientos se establezcan, sin perjuicio de las atribuciones que se reserve como exclusivas la federación para estos casos.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+Asimismo, la Secretaría y los gobiernos municipales, promoverán ante la federación, la ejecución, en los términos de las leyes relativas, de alguna o algunas de las medidas de seguridad que en dichos ordenamientos se establezcan, sin perjuicio de las atribuciones que se reserve como exclusivas la federación para estos casos.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 145.
 
-Cuando el gobierno del estado y los gobiernos municipales, según corresponda, ordenen alguna de las medidas de seguridad previstas en esta ley, deberá indicar al interesado, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta, lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
+Cuando la Secretaría y los gobiernos municipales, según corresponda, ordenen alguna de las medidas de seguridad previstas en esta ley, deberá indicar al interesado, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta, lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
 
 ### CAPITULO VII
 
 De la denuncia popular.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 146.
 
-Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente por el gobierno del estado y los gobiernos municipales, en asuntos de sus respectivas competencias, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente por la Secretaría y los gobiernos municipales, en asuntos de sus respectivas competencias, con una o más de las siguientes sanciones:
 
 I. Amonestación;
 
@@ -1563,9 +1773,11 @@ En caso de reincidencia, el monto de la multa será hasta dos veces de la cantid
 
 Se considera reincidente al infractor que incurra mas de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que esta no hubiese sido desvirtuada.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 147.
 
-Cuando la gravedad de la infracción lo amerite, el gobierno del estado o el gobierno municipal que hubiese otorgado la concesión, permiso, licencia y, en general, toda autorización para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales, en favor de aquel que haya dado lugar a la infracción, ordenará la suspensión, revocación o cancelación de las mismas o, en su caso, la solicitará a la autoridad que la hubiese expedido.
+Cuando la gravedad de la infracción lo amerite, las dependencias del Poder Ejecutivo o el gobierno municipal que hubiese otorgado la concesión, permiso, licencia y, en general, toda autorización para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales, en favor de aquel que haya dado lugar a la infracción, ordenará la suspensión, revocación o cancelación de las mismas o, en su caso, la solicitará a la autoridad que la hubiese expedido.
 
 ###### Artículo 148.
 
@@ -1611,9 +1823,11 @@ En la determinación del valor de los bienes sujetos a remate o venta, la autori
 
 En ningún caso, los responsables de la infracción que hubiese dado lugar al decomiso, podrán participar ni beneficiarse de los actos señalados en el artículo anterior, mediante los cuales se lleve a cabo la enajenación de los bienes decomisados.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 152.
 
-El gobierno del estado y los gobiernos municipales, según corresponda, deberán promover ante la autoridad federal o local correspondiente, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar al ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
+La Secretaría y los gobiernos municipales, según corresponda, deberán promover ante la autoridad federal o local correspondiente, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar al ambiente, los recursos naturales, o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
 ###### Artículo 153.
 
@@ -1621,7 +1835,7 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en es
 
 ###### Artículo 154.
 
-Las resoluciones, autorizaciones, licencias, concesiones, dictámenes técnicos o, en general, actos administrativos que el gobierno del estado o los gobiernos municipales, según corresponda, dicten con motivo de la aplicación de esta ley, sus reglamentos y disposiciones que de ella emanen, que concluyan el procedimiento administrativo del cual derivan, podrán ser impugnados por los interesados, mediante el recursos (sic) de revisión, en el término de quince días hábiles contados a partir del día siguiente de la fecha de su notificación o cuando el afectado haya tenido conocimiento del mismo; o de forma optativa, podrán ser impugnados ante las instancias jurisdiccionales competentes.
+Las resoluciones, autorizaciones, licencias, concesiones, dictámenes técnicos o, en general, actos administrativos que la Secretaría o los gobiernos municipales, según corresponda, dicten con motivo de la aplicación de esta ley, sus reglamentos y disposiciones que de ella emanen, que concluyan el procedimiento administrativo del cual derivan, podrán ser impugnados por los interesados, mediante el recursos (sic) de revisión, en el término de quince días hábiles contados a partir del día siguiente de la fecha de su notificación o cuando el afectado haya tenido conocimiento del mismo; o de forma optativa, podrán ser impugnados ante las instancias jurisdiccionales competentes.
 
 ###### Artículo 155.
 
@@ -1761,23 +1975,27 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 ###### Artículo 170.
 
-En aquellos casos en que, como resultado del ejercicio de sus atribuciones, el gobierno del estado y los gobiernos municipales, según corresponda, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el ministerio público federal o local la denuncia correspondiente.
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría y los gobiernos municipales, según corresponda, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el ministerio público federal o local la denuncia correspondiente.
 
 Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 171.
 
-El gobierno del estado y los gobiernos municipales, según corresponda, proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el ministerio público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+La Secretaría y los gobiernos municipales, según corresponda, proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el ministerio público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
 
 ###### Artículo 172.
 
-La sociedad, entendida ésta como cualquier persona física o moral, grupo social, organización no gubernamental, sociedades y asociaciones, podrá denunciar ante el gobierno del estado y los gobiernos municipales, según corresponda, todo hecho, acto u omisión que ocasione o pueda ocasionar desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la presente ley, y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+La sociedad, entendida ésta como cualquier persona física o moral, grupo social, organización no gubernamental, sociedades y asociaciones, podrá denunciar ante la Secretaría y los gobiernos municipales, según corresponda, todo hecho, acto u omisión que ocasione o pueda ocasionar desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la presente ley, y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
-La denuncia popular tendrá como objetivo ser un instrumento de participación social, a través del cual, la autoridad competente tendrá conocimiento de hechos, actos u omisiones que impliquen desequilibrios ecológicos o daños al ambiente y sean detectados por la sociedad, facultando al gobierno del estado o el gobierno municipal correspondiente, para llevar a cabo las diligencias que se valoren oportunas a efecto de verificar dichas irregularidades y, en su caso, realizará los actos de inspección e imposición de medidas tendientes a corregir las mismas.
+La denuncia popular tendrá como objetivo ser un instrumento de participación social, a través del cual, la autoridad competente tendrá conocimiento de hechos, actos u omisiones que impliquen desequilibrios ecológicos o daños al ambiente y sean detectados por la sociedad, facultando a la Secretaría o el gobierno municipal correspondiente, para llevar a cabo las diligencias que se valoren oportunas a efecto de verificar dichas irregularidades y, en su caso, realizará los actos de inspección e imposición de medidas tendientes a corregir las mismas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 173.
 
-Si la denuncia fuera presentada ante el gobierno del estado o los gobiernos municipales y resultare competencia de instancia gubernamental distinta, se remitirá para su atención y trámite a la autoridad correspondiente, en un término que no exceda de quince días hábiles computados a partir del día siguiente de su recepción, y se notificará al denunciante para su conocimiento y efectos legales a que haya lugar.
+Si la denuncia fuera presentada ante la Secretaría o los gobiernos municipales y resultare competencia de instancia gubernamental distinta, se remitirá para su atención y trámite a la autoridad correspondiente, en un término que no exceda de quince días hábiles computados a partir del día siguiente de su recepción, y se notificará al denunciante para su conocimiento y efectos legales a que haya lugar.
 
 ###### Artículo 174.
 
@@ -1795,11 +2013,13 @@ En caso de que la denuncia no reúna los requisitos señalados con anterioridad,
 
 Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante, deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles contados a partir del día siguiente a la formulación de la denuncia, sin perjuicio de que la autoridad competente, de conformidad a sus atribuciones, investigue de oficio los hechos constitutivos de la denuncia.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 175.
 
 Si el denunciante solicita a la autoridad competente, se guarde en secreto sus datos por razones de seguridad e interés particular, ésta determinará si dada la naturaleza de los hechos denunciados es procedente su solicitud, en cuyo caso, llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente ley y demás disposiciones jurídicas aplicables le otorgan, o bien, en caso de ser necesaria la intervención del denunciante en el desarrollo de las diligencias que se realicen por parte de la autoridad, deberá de hacerse del conocimiento al interesado de esta circunstancia en el acuerdo que en atención a la denuncia se emita.
 
-En caso de que el gobierno del estado o el gobierno municipal que corresponda, consideren prudente el guardar en secreto los datos de identidad del denunciante, por considerar que pudiera existir posible afectación a su seguridad personal, podrá llevar a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente ley y demás disposiciones jurídicas aplicables les otorgan.
+En caso de que la Secretaría o el gobierno municipal que corresponda, consideren prudente el guardar en secreto los datos de identidad del denunciante, por considerar que pudiera existir posible afectación a su seguridad personal, podrá llevar a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente ley y demás disposiciones jurídicas aplicables les otorgan.
 
 ###### Artículo 176.
 
@@ -1817,19 +2037,27 @@ Si los hechos no fuesen de su competencia, hará llegar la denuncia ante la auto
 
 La autoridad competente, hará del conocimiento del denunciante el trámite que se haya dado a su denuncia dentro de un término que no excederá en todo caso de cuatro meses, contados a partir del acuerdo por el cual se haya admitido la denuncia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 179.
 
-Cuando, por infracciones a las disposiciones de esta ley, se hubiesen ocasionado daños o perjuicios, él o los interesados, podrán solicitar al gobierno del estado o al gobierno municipal que corresponda, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio.
+Cuando, por infracciones a las disposiciones de esta ley, se hubiesen ocasionado daños o perjuicios, él o los interesados, podrán solicitar a la Secretaría o al gobierno municipal que corresponda, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio.
 
 En los casos en que proceda, la autoridad competente hará del conocimiento del ministerio público, la realización de actos u omisiones constatados que puedan configurar uno o más delitos, de conformidad a las disposiciones de esta ley y de otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 180.
 
 El procedimiento administrativo de atención a la denuncia popular podrá concluirse por las siguientes causas:
 
-I. Por improcedencia de la denuncia, al no reunirse los requisitos de ley establecidos en el presente capítulo, sin perjuicio de que el gobierno del estado o el gobierno municipal que corresponda, continúe de oficio la atención de los actos, hechos u omisiones denunciados;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-II. Por incompetencia del gobierno del estado o el gobierno municipal correspondiente, para conocer de la problemática ambiental planteada;
+I. Por improcedencia de la denuncia, al no reunirse los requisitos de ley establecidos en el presente capítulo, sin perjuicio de que la Secretaría o el gobierno municipal que corresponda, continúe de oficio la atención de los actos, hechos u omisiones denunciados;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+II. Por incompetencia de la Secretaría o del gobierno municipal correspondiente, para conocer de la problemática ambiental planteada;
 
 III. Cuando no existan contravenciones a la normatividad ambiental;
 
@@ -1839,13 +2067,19 @@ V. Por haberse dictado un acuerdo de acumulación de expedientes;
 
 VI. Por haberse solucionado la denuncia popular mediante conciliación entre el denunciante y el denunciado;
 
-VII. Por haberse dictado medidas correctivas tendientes a la resolución de la problemática planteada;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-VIII. Por desistimiento del denunciante, sin perjuicio de que el gobierno del estado o el gobierno municipal que corresponda, continúe de oficio la atención de los actos, hechos u omisiones denunciados.
+VII. Por haberse dictado medidas correctivas tendientes a la resolución de la problemática planteada; y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+VIII. Por desistimiento del denunciante, sin perjuicio de que la Secretaría o el gobierno municipal que corresponda, continúe de oficio la atención de los actos, hechos u omisiones denunciados.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 181.
 
-El gobierno del estado o el gobierno municipal que corresponda, podrá solicitar a las instituciones académicas, centros de investigación, colegios y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
+La Secretaría o el gobierno municipal que corresponda, podrá solicitar a las instituciones académicas, centros de investigación, colegios y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
 
 ###### Artículo 182.
 
@@ -1855,9 +2089,11 @@ En caso de que no se compruebe que los actos u omisiones denunciados, producen o
 
 Cuando una denuncia popular no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la autoridad competente, podrá sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar tanto al denunciante como al denunciado.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 184.
 
-La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emitan el gobierno del estado y los gobiernos municipales, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables y no se suspenderán ni interrumpirán sus plazos preclusivos, o de prescripción.
+La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emitan la Secretaría y los gobiernos municipales, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables y no se suspenderán ni interrumpirán sus plazos preclusivos, o de prescripción.
 
 ## TRANSITORIOS
 
@@ -1903,11 +2139,15 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 
 Artículo Segundo. Se derogan las disposiciones legales en el ámbito estatal o municipal, en lo que se opongan a lo previsto en el presente decreto.
 
-Artículo Tercero. El gobierno del estado, evaluará los estudios de impacto ambiental, de aquellas obras que les corresponde atender a los gobiernos municipales, durante los seis meses posteriores a la entrada en vigor del presente decreto, con el fin de que los gobiernos municipales tomen las medidas necesarias para contar con la capacidad técnica indispensable para ello.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+Artículo Tercero. La Secretaría evaluará los estudios de impacto ambiental, de aquellas obras que les corresponde atender a los gobiernos municipales, durante los seis meses posteriores a la entrada en vigor del presente decreto, con el fin de que los gobiernos municipales tomen las medidas necesarias para contar con la capacidad técnica indispensable para ello.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 Artículo Cuarto. Los gobiernos municipales deberán, en un término de seis meses contados a partir del día siguiente de la publicación del presente ordenamiento en el Periódico Oficial El Estado de Jalisco, de adecuar sus ordenamientos de conformidad a las disposiciones de la presente ley.
 
-Hasta en tanto los gobiernos municipales dictan las modificaciones a las ordenanzas, reglamentos y bandos de policía y buen gobierno para regular y vigilar las materias que, conforme las disposiciones de este ordenamiento son de su competencia, corresponderá al gobierno del estado aplicar esta ley en el ámbito municipal, coordinándose para ello con las autoridades municipales respectivas.
+Hasta en tanto los gobiernos municipales dictan las modificaciones a las ordenanzas, reglamentos y bandos de policía y buen gobierno para regular y vigilar las materias que, conforme las disposiciones de este ordenamiento son de su competencia, corresponderá a la Secretaría aplicar esta ley en el ámbito municipal, coordinándose para ello con las autoridades municipales respectivas.
 
 Artículo Quinto. Mientras se expidan las disposiciones reglamentarias de esta ley, seguirán en vigor las que hayan regido hasta ahora, en lo que no la contravengan.
 
@@ -1916,3 +2156,11 @@ Artículo Sexto. Las controversias, procedimientos y solicitudes relativas a las
 Artículo Séptimo. El gobierno del estado, deberá publicar en el Periodo (sic) Oficial El Estado de Jalisco, en el término de seis meses, los reglamentos que se establecen en la presente ley.
 
 Artículo Octavo. Los criterios para definir el perfil de los prestadores de servicios estatales en materia de impacto ambiental y riesgo y los peritos y auditores ambientales, serán concertados por el ejecutivo del estado, mediante consulta a las instituciones académicas, colegios de profesionistas y organismos de investigación científica y tecnológica de la entidad.
+
+P.O. 4 DE NOVIEMBRE DE 2000.
+
+PRIMERO. Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. El término de seis meses que previene el artículo séptimo transitorio del decreto No. 18182 para la expedición y publicación en el Periódico Oficial "El Estado de Jalisco" de los reglamentos que se establecen en la presente ley por parte del Titular del Ejecutivo, comenzará a contar a partir de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
