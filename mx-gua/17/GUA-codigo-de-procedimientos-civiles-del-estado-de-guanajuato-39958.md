@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1983-12-13"
+last_updated: "1985-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1985.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1429,9 +1429,11 @@ Pedida la revocación se dará vista a las demás partes, por término de tres d
 
 Del auto que decida sobre la revocación no habrá ningún recurso.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 ENERO DE 1985)</small>
+
 ### CAPITULO II.
 
-Apelación y Revisión Forzosa.
+Apelación.
 
 ###### Art. 236.
 
@@ -1495,49 +1497,63 @@ Las sentencias que fueran apelables conforme al artículo anterior lo será en a
 
 Los autos son apelables cuando decidan un incidente o lo disponga este Código, si, además, lo fuere la sentencia definitiva del negocio en que se dicten. La apelación, en este caso, será admisible sólo en el efecto devolutivo, salvo cuando la ley disponga que lo sea en ambos.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
+
 ###### Art. 246.
 
-La apelación debe interponerse ante el tribunal que haya pronunciado la resolución, en el acto de la notificación o dentro de los cinco días siguientes, si se tratare de sentencia, o de tres, si fuere auto.
+La apelación debe interponerse ante el Tribunal que haya pronunciado la resolución, dentro de los diez días siguientes al en que surta efectos su notificación.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 247.
 
-Interpuesta la apelación en tiempo hábil, el tribunal la admitirá sin sustanciación alguna, si procede legalmente, y, dentro de las cuarenta y ocho horas siguientes a la notificación, remitirá al tribunal de apelación los autos originales, cuando el recurso se hubiere admitido en ambos efectos. Si se hubiere admitido sólo en efecto devolutivo, se remitirá el testimonio correspondiente, tan pronto como quede concluído.
+En el escrito en que el apelante interponga el recurso, expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se haya cometido, acompañando una copia para el expediente y las necesarias para correr traslado a la contraparte.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 248.
 
-En el auto en que se admita la apelación se emplazará al apelante para que, dentro de los cinco días siguientes de habérsele notificado, ocurra al Tribunal de apelación a continuar el recurso.
+Interpuesta la apelación en tiempo hábil, el Tribunal la admitirá en el efecto que corresponda sin substanciación alguna si procede legalmente y, notificará a las partes para que ocurra al Tribunal de Apelación a defender sus derechos, requiriéndolas a efecto de que señalen domicilio para oír notificaciones en el lugar de residencia del Tribunal de Apelación y ordenando correr traslado a la contraparte del escrito de agravios.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 249.
 
-En el escrito en que el apelante se presente a continuar el recurso expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se hayan cometido.
+Dentro de las cuarenta y ocho horas siguientes a la notificación de la admisión del recurso, el Tribunal ante quien se interponga remitirá al Tribunal de apelación los Autos originales, cuando el recurso se hubiere admitido en ambos efectos. Si se hubiere admitido solo en el efecto devolutivo, se remitirá el testimonio correspondiente, tan pronto como quede concluído.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 250.
 
-El tribunal de apelación, recibidos los autos o el testimonio, en su caso, lo hará saber a las partes.
+El Tribunal de Apelación, recibidos los autos o el testimonio, en su caso, examinará de oficio si el recurso fue interpuesto o no en tiempo, si es o no apelable la resolución recurrida, si el escrito del apelante contiene la expresión de agravios y calificará el grado de los efectos en que se haya admitido la apelación. Si se satisfacen los requisitos de substanciación del recurso, se declarará así y ordenará la continuación de la instancia, concediendo a las partes el plazo de tres días, para que manifiesten lo que a sus intereses convenga.
 
 ###### Art. 251.
 
-Notificadas las partes del decreto a que se refiere el artículo anterior a los tres días siguientes examinará y declarará el tribunal, de oficio, en primer lugar, si el recurso fue interpuesto o no en tiempo y si es o no apelable la resolución recurrida, y, en segundo, si el escrito del apelante fue presentado en tiempo y contiene la expresión de agravios.
+(DEROGADO, P.O. 1 DE ENERO DE 1985)
 
 ###### Art. 252.
 
-Cuando se declare que la resolución no es apelable o que no fue interpuesto en tiempo el recurso, no será necesario decidir respecto a la oportunidad de la continuación del recurso y a la expresión de agravios. En caso contrario, en el mismo auto en que se resuelva sobre la procedencia de la apelación, se decidirá sobre si el escrito de continuación del recurso fue presentado en tiempo y contiene la expresión de agravios.
+(DEROGADO, P.O. 1 DE ENERO DE 1985)
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 253.
 
-Si se declara que la resolución recurrida no es apelable o que no fué interpuesto el recurso en tiempo, se devolverán al tribunal que conoció del negocio los autos que hubiere enviado, con testimonio del fallo, para que continúe la tramitación, en su caso, o para que se proceda a la ejecución, si se tratare de sentencia.
+Si se declara que la resolución recurrida no es apelable, se devolverán al Tribunal que conoció del negocio los autos que hubiere enviado, con testimonio del fallo, para que continúe la tramitación, en su caso, para que se proceda a la ejecución, si se tratare de sentencia.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 254.
 
-Si se determina que el escrito del apelante fue presentado fuera del término del emplazamiento o que no contiene la expresión de agravios, se declarará desierto el recurso y que ha causado ejecutoria la sentencia, en su caso, mandándose devolver los autos que se hubieren recibido, y remitir testimonio de la resolución al tribunal que hubiere conocido del negocio.
+Si se determina que el escrito de apelación fue presentado fuera de término o que no contiene la expresión de agravios, se declarará desierto el recurso y que ha causado ejecutoria la sentencia, en su caso, mandándose devolver los autos que se hubieren recibido, y se remitirá testimonio de la resolución al Tribunal que hubiere conocido del negocio.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 255.
 
-Dentro del día siguientes a la notificación del decreto a que se refiere el artículo 250 pueden las partes manifestar su disconformidad respecto de los efectos en que se haya admitido la apelación.
+Dentro de los tres días siguientes al en que haya surtido efectos la notificación del decreto a que se refiere el Artículo 250, pueden las partes manifestar su inconformidad respecto de los efectos en que se haya admitido la apelación.
 
-El tribunal resolverá de plano y sin ulterior recurso, en el mismo auto de que trata el artículo 251.
+El Tribunal resolverá de plano y sin ulterior recurso.
 
 ###### Art. 256.
 
@@ -1547,7 +1563,7 @@ Cuando la apelación admitida en ambos efectos se declare admisible sólo en el 
 
 ###### Art. 257.
 
-En el auto que se declare que se han llenado lo requisitos necesarios para que proceda la sustanciación del recurso, o recibidos los autos o expedida la copia respectiva, en los casos del artículo anterior, se mandará correr traslado a las demás partes, por el término de tres días, del escrito de expresión de agravios.
+(DEROGADO, P.O. 1 DE ENERO DE 1985)
 
 ###### Art. 258.
 
@@ -1563,9 +1579,13 @@ Para recibir las pruebas a que se refiere el artículo anterior, se concederá u
 
 Fuera de los casos del artículo 258, el tribunal se concretará, en su fallo, a apreciar los hechos tal como hubieren sido aprobados en la primera instancia.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
+
 ###### Art. 261.
 
-En el auto en que se mande correr traslado del escrito de agravios, se citará a las partes a la audiencia de alegatos en el negocio, que se celebrará dentro de los diez días de fenecido el término del traslado; pero, si se concediere término de prueba, quedará sin efecto la citación, y la audiencia se celebrará dentro de los diez días de concluído dicho término; procediéndose en ella en la forma prescrita para la audiencia final del juicio. Si la resolución apelada fuere auto que no ponga fin a un incidente, no se concederá en ningún caso término de prueba y la audiencia de alegatos se celebrará dentro de los cinco días de fenecido el término del traslado del escrito de agravios, fallándose dentro de los cinco días de verificada la audiencia.
+En el auto en que se ordene la substanciación, se citará a las partes, a la Audiencia de Alegatos, que se celebrará, concurran éstas o no, dentro del término de diez días; pero si se concediere término de prueba, quedará sin efecto la citación y la Audiencia se celebrará el último día de dicho término.
+
+En la Audiencia se observarán, en lo conducente, las reglas contenidas en los Artículos 350 al 353, 355 y 356 de este Código.
 
 ###### Art. 262.
 
@@ -1573,21 +1593,25 @@ Notificada la sentencia se remitirá testimonio de ella y de sus notificaciones 
 
 ###### Art. 263.
 
-La revisión forzosa que la ley establece respecto de algunas resoluciones judiciales, tendrá por objeto estudiar el negocio en su integridad, a menos que la misma ley la restrinja a puntos determinados, para el efecto de confirmar, reformar o revocar la sentencia del inferior. En su tramitación y fallo se observarán las reglas de este capítulo, en cuanto fueren aplicables.
+(DEROGADO, P.O. 1 DE ENERO DE 1985)
 
 ### CAPITULO III.
 
 Denegada apelación.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
+
 ###### Art. 264.
 
-La denegada apelación procede cuando se declara inadmisible la apelación.
+La denegada apelación procede cuando se declara inadmisible la apelación por el inferior.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 265.
 
-El recurso se interpondrá en el acto de la notificación o dentro de los tres días siguientes.
+El recurso se interpondrá dentro de los cinco días siguientes al en que surta efectos la notificación del Acuerdo denegatorio.
 
-Al interponer el recurso, el recurrente señalará las constancias que le interesen para la integración del testimonio a que se refiere el artículo siguiente.
+Al interponer el recurso, el recurrente observará lo dispuesto por el Artículo 247 y, además, señalará las constancias que le interesen para la integración del testimonio a que se refiere el artículo siguiente.
 
 ###### Art. 266.
 
@@ -1599,19 +1623,17 @@ Si el recurrente no hiciere la designación de constancias se tendrá por no int
 
 El testimonio se remitirá dentro del término de cinco días.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
+
 ###### Art. 268.
 
-En el auto a que se refiere el artículo 266, el juez emplazará al recurrente para que, dentro del término de tres días, que se ampliará, en su caso con lo que corresponda por razón de la distancia, se presente al tribunal de apelación para continuar el recurso.
+En el auto a que se refiere el Artículo 266, mandará notificar a las partes para que ocurran ante el Supremo Tribunal de Justicia a defender sus derechos, requiriéndolos a efecto de que señalen domicilio para oír notificaciones en el lugar de residencia de éste, y correrá traslado a la contraparte del escrito de agravios.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
 ###### Art. 269.
 
-El tribunal, al recibir la promoción de que trate el artículo anterior, si ya obra en su poder el testimonio, examinará, de oficio, si el recurrente se presenta en tiempo para continuar el recurso. Si resultare que la presentación fué extemporánea, lo declarará desierto y comunicará su resolución al juez del negocio.
-
-Si se declara que la continuación del recurso fué hecha en tiempo, en la misma resolución se decidirá sobre la calificación del grado, hecha por el inferior, a no ser que, del testimonio, aparezca que la denegada fué interpuesta fuera de tiempo, caso en el cual se revocará la resolución que la admitió, comunicándolo así al inferior.
-
-Si al recibir el tribunal la promoción a que se refiere el párrafo primero, no tuviese en su poder el testimonio, mandará reservarla para cuando aquel se reciba, y, llegado que sea, se procederá en la forma indicada.
-
-Cuando se reciba el testimonio y de él aparezca que transcurrió ya el término para reformar el recurso, se declarará desierto, de oficio, y se comunicará al juez del negocio.
+El Tribunal Superior al recibir las constancias necesarias para la substanciación del recurso, decidirá éste, dentro del término de tres días.
 
 ###### Art. 270.
 
@@ -4788,3 +4810,13 @@ P.O. 13 DE DICIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día primero de enero del año de 1984.
+
+P.O. 1 DE ENERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor treinta días, después al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos de apelación y los términos para su interposición que se encuentren pendientes de resolución y que estén corriendo al entrar en vigor este decreto, se regirán conforme a los plazos y las disposiciones de la Ley anterior.
