@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1980-09-23"
+last_updated: "1980-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 1980.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1139,9 +1139,9 @@ ARTICULO 201
 
 Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
-> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
-
 ARTICULO 202
+
+> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 203
 
@@ -1641,9 +1641,9 @@ ARTICULO 300
 
 El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con la anuencia expresa de éste.
 
-> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
-
 ARTICULO 301
+
+> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 302
 
@@ -11645,29 +11645,39 @@ ARTICULO 2338
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2339
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+El arrendamiento debe otorgarse por escrito cuando la renta pase de tres mil pesos mensuales.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2340
 
-Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+Si el predio fuere rústico y la renta pasare de cuarenta mil pesos anuales, el contrato se otorgará en escritura pública.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2341
 
-El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
+El contrato de arrendamiento no será rescindido por la muerte del arrendador ni del arrendatario. Cualquier cláusula en contrario no producirá efecto.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2342
 
-Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la transmisión de la propiedad del predio arrendado, el arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicialmente o extrajudicialmente ante notario o ante dos testigos haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
+Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la transmisión de la propiedad del inmueble arrendado, el arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicialmente o extrajudicialmente ante Notario haberse otorgado el correspondiente título de propiedad. Sin este requisito, el retraso en el pago de la renta no producirá los efectos de la mora.
 
 ARTICULO 2343
 
 Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2344
 
-Los arrendamientos de bienes nacionales, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo; y en lo que no lo estuvieren, a las disposiciones de este Título.
+Los arrendamientos de bienes municipales, del Estado o de organismos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este Título.
 
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
@@ -11693,17 +11703,23 @@ ARTICULO 2347
 
 El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arrendada, ni intervenir en el uso legítimo de ella, salvo el caso designado en la fracción III, del artículo 2345.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2348
 
-El arrendatario está obligado a poner en conocimiento del arrendador, a la brevedad posible, la necesidad de las reparaciones, bajo pena de pagar los daños y perjuicios que su omisión cause.
+El arrendatario está obligado a poner en conocimiento del arrendador, judicial o extrajudicialmente ante Notario y a la brevedad posible, la necesidad de las reparaciones bajo pena de pagar los daños y perjuicios que su omisión cause.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2349
 
-Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código de Procedimientos Civiles.
+Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que lo autorice a realizarlas con cargo al importe de rentas. El procedimiento será el previsto para los incidentes en el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2350
 
-El juez, según las circunstancias del caso, decidirá sobre el pago de los daños y perjuicios que se causen al arrendatario por falta de oportunidad en las reparaciones.
+El juez, según las circunstancias del caso, decidirá además sobre el pago de los daños y perjuicios que se causen al arrendatario por falta de oportunidad en las reparaciones.
 
 ARTICULO 2351
 
@@ -11729,11 +11745,15 @@ ARTICULO 2356
 
 Corresponde al arrendador pagar las mejoras hechas por el arrendatario:
 
-I.- Si en el contrato, o posteriormente, lo autorizó para hacerlas y se obligó a pagarlas;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+I.- Si en el contrato, o posteriormente, pero siempre por escrito, lo autorizó para hacerlas y se obligó a pagarlas;
 
 II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el contrato;
 
-III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluído el arrendamiento.
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+III.- Cuando el contrato fuere por tiempo indeterminado y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, termine el arrendamiento.
 
 ARTICULO 2357
 
@@ -11745,9 +11765,13 @@ ARTICULO 2358
 
 El arrendatario está obligado:
 
-I.- A satisfacer la renta en la forma y tiempo convenidos;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
-II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
+I.- A pagar la renta convenida;
+
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, domésticos o subarrendatarios;
 
 III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
 
@@ -11755,9 +11779,11 @@ ARTICULO 2359
 
 El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2360
 
-La renta será pagada en el lugar convenido, y a falta de convenio, en la casa, habitación o despacho del arrendatario.
+La renta será pagada en la casa, habitación o despacho del arrendatario. La cláusula en contrario se tendrá por no puesta.
 
 ARTICULO 2361
 
@@ -11791,9 +11817,11 @@ ARTICULO 2368
 
 El arrendatario es responsable del incendio, a no ser que provenga de caso fortuito, fuerza mayor o vicio de construcción.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2369
 
-El arrendatario no responde del incendio que se haya comunicado de otra parte, si tomó las precauciones necesarias para evitar que el fuego se propagara.
+El arrendatario no responde del incendio que se haya comunicado de otra parte, si tomó las precauciones que estuvieran a su alcance para evitar que el fuego se propagara.
 
 ARTICULO 2370
 
@@ -11807,13 +11835,17 @@ ARTICULO 2372
 
 La responsabilidad en los casos de que tratan los artículos anteriores, comprende no solamente el pago de los daños y perjuicios sufridos por el propietario, sino el de los que se hayan causado a otras personas, siempre que provengan directamente del incendio.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2373
 
-El arrendatario que va a establecer en la finca arrendada una industria peligrosa, tiene obligación de asegurar dicha finca contra el riesgo probable que origine el ejercicio de esa industria.
+El arrendatario que va a establecer en la finca arrendada una industria peligrosa, tiene obligación de asegurar dicha finca contra el riesgo que origine el ejercicio de esa industria.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2374
 
-El arrendatario no puede, sin consentimiento expreso del arrendador, variar la forma de la cosa arrendada; y si lo hace debe, cuando la devuelva, restablecerla al estado en que la reciba, siendo, además, responsable de los daños y perjuicios.
+El arrendatario no puede, sin consentimiento expreso del arrendador, variar la forma de la cosa arrendada; si lo hace, es causa de rescisión y debe restablecerla al estado en que la recibió, siendo, además, responsable de los daños y perjuicios.
 
 ARTICULO 2375
 
@@ -11837,9 +11869,11 @@ Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas
 
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2380
 
-En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2237 y 2238.
+Si el arrendatario está al corriente en el pago de la renta y ha cuidado la cosa arrendada, tendrá derecho a que en igualdad de condiciones debidamente probadas, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2237 y 2238. Si no se respeta este derecho la venta será válida, pero el vendedor será responsable de daños y perjuicios que en ningún caso serán menores al 10% del valor comercial del inmueble.
 
 ## TITULO QUINTO. DEL MUTUO
 
@@ -11849,9 +11883,11 @@ ARTICULO 2381
 
 No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2382
 
-El arrendador que no haga las obras que ordene el Departamento de Salubridad Pública como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+El arrendador que no realice las obras que ordene la autoridad competente como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
 
 ARTICULO 2383
 
@@ -11861,9 +11897,13 @@ ARTICULO 2384
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2382.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2385
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos, si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
+
+Para que se produzcan en contra del arrendatario los efectos de la mora, es necesario que sea requerido de pago por el arrendador, judicial o extrajudicialmente ante Notario, dentro de los diez días siguientes en que la renta debía ser cubierta. Si el arrendatario paga la renta y los costos del requerimiento o justifique que hizo consignación de su importe, tampoco incurrirá en mora.
 
 ARTICULO 2386
 
@@ -11981,19 +12021,31 @@ Lo dispuesto en el artículo 2398, es aplicable a los aperos de la finca arrenda
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2411
 
-Todo los arrendatarios, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
+Los arrendatarios de Inmuebles que no se hayan celebrado por tiempo expresamente determinado, podrán concluir:
+
+I.- A voluntad del arrendatario, previo aviso judicial o extrajudicial ante Notario dado al arrendador con dos meses de anticipación; y
+
+II.- A voluntad del arrendador, previo el aviso indubitable señalado en la fracción precedente, dado al arrendatario con un año de anticipación.
+
+Si el bien arrendado es rústico deberá observarse lo dispuesto en los artículos 2390 y 2391.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ARTICULO 2412
 
-Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2390 y 2491.
+Dado el aviso, el arrendatario del predio urbano está obligado en los dos últimos meses del término a que se refiere el artículo anterior a poner cédulas y a mostrar el interior de la casa a los que pretendan rentarla.
 
 ### CAPITULO VIII. Del subarriendo
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2413
 
-El arrendatario no puede subarrendar la cosa arrendada en todo, ni en parte, ni ceder sus derechos sin consentimiento del arrendador; si lo hiciere, responderá solidariamente con el subarrendatario, de los daños y perjuicios.
+El arrendatario no puede subarrendar la cosa arrendada en todo, ni en parte, ni ceder sus derechos sin consentimiento por escrito del arrendador; si lo hiciere, será causa de rescisión y responderá solidariamente con el subarrendatario, de los daños y perjuicios.
 
 ARTICULO 2414
 
@@ -12029,19 +12081,15 @@ ARTICULO 2417
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2411 y 2412.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2418
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 1943)</small>
+Vencido un contrato de arrendamiento celebrado por tiempo determinado, tiene derecho el arrendatario que esté al corriente en el pago de la renta y haya cuidado el inmueble que fue su objeto, a que se le prorrogue hasta por dos años más ese contrato, pudiéndose aumentar la renta hasta en un diez por ciento si se trata de casa habitación y hasta en un veinte por ciento si en el inmueble arrendado está establecida una negociación comercial o industrial.
 
-Vencido un contrato de arrendamiento, tendrá derecho el arrendatario que esté al corriente en el pago de la renta, a que se le prorrogue hasta por un año ese contrato, cuando se trate de fincas rústicas o urbanas, destinadas a habitación, y hasta por dos años, cuando el arrendamiento se refiera a predios urbanos en los que el arrendatario tenga establecida alguna negociación comercial o industrial y la vigencia del contrato se haya prolongado por un lapso no menor de cinco años. Podrá el arrendador aumentar hasta por un diez por ciento la renta, en el primer caso, y hasta un veinte por ciento, en el segundo, siempre que los alquileres en la zona de que se trate hayan sufrido una alza después de que se celebró el contrato de arrendamiento.
+Quedan exceptuados de la obligación de prorrogar el contrato, los propietarios que justifiquen fehacientemente la necesidad de habitar el inmueble objeto del arrendamiento o en él establecer alguna industria o comercio también de su propiedad.
 
-> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 1943)</small>
-
-Quedan exceptuados de la obligación de prorrogar el contrato, los propietarios que quieran habitar la casa o cultivar la finca, objeto del arrendamiento.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1943)</small>
-
-El Estado o los Municipios que hayan celebrado contratos de interés público para la explotación, uso o aprovechamiento de predios rústicos o urbanos, tendrán derecho a que se prorroguen hasta por dos años tales contratos, siempre que estén al corriente en el pago de las rentas y sin perjuicio de que éstas sean aumentadas por los propietarios en los términos establecidos en el primer apartado de este artículo.
+El Estado o los municipios que hayan celebrado contratos de interés público para la explotación, uso o aprovechamiento de predios rústicos o urbanos, también se sujetarán a las reglas previstas en este artículo.
 
 ARTICULO 2419
 
@@ -12057,15 +12105,19 @@ ARTICULO 2421
 
 Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ARTICULO 2422
 
-El arrendador puede exigir la rescisión del contrato:
+El arrendador puede demandar la rescisión del contrato:
 
-I.- Por la falta de pago de la renta en los términos prevenidos en los artículos 2385 y 2388;
+I.- Por falta de pago de dos o más mensualidades vencidas. Si antes de dictarse sentencia el arrendatario exhibiera el importe de las rentas reclamadas más las vencidas hasta ese momento, los intereses de las mismas al tipo legal y las costas del juicio, el juez dará por concluido el procedimiento.
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2358;
 
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2413.
+III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2413; y
+
+IV.- En los demás casos que la Ley señale.
 
 ARTICULO 2423
 
@@ -15218,3 +15270,11 @@ G.O. 23 DE SEPTIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado.
+
+G.O. 30 DE SEPTIEMBRE DE 1980.
+
+PRIMERO.- Esta Ley entrará en vigor el día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+SEGUNDO.- Los términos de los avisos que los arrendadores hubiesen dado a los arrendatarios de conformidad con lo dispuesto en el artículo 2411, que se reforma, del Código Civil, se tienen por no corridos y empezarán a contarse y se adecuarán en todo lo previsto en esta Ley a partir de su vigencia.
+
+TERCERO.- Las actuaciones de los juicios de desocupación por terminación de arrendamiento por tiempo indefinido y que estén en trámite, excepto aquellos en que haya transcurrido más de un año contado de la fecha del aviso de terminación, cuyo procedimiento continuará, serán anulados por los jueces que de ellos estén conociendo, desde el emplazamiento hecho al demandado, para que a promoción de parte se reanuden y resuelvan conforme a las disposiciones de la presente Ley.
