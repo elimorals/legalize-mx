@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-transito-antes-reglamento-de-transito-y-8219"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-10-12"
-last_updated: "1988-10-12"
+last_updated: "1993-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO DE TRANSITO Y TRANSPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1993.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de octubre de 1988.
 
@@ -1195,6 +1195,14 @@ Cuando las unidades de transporte público de pasajeros resulten insuficientes p
 
 La Secretaría está facultada para revisar las unidades y documentación relativa a las concesiones y permisos del servicio de transporte público, estando los concesionarios y permisionarios obligados a proporcionar las facilidades para tal fin.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1993)</small>
+
+La Secretaría establecerá sistemas de control, calidad y supervisión en la red del servicio de transporte público urbano de pasajeros, mismo que será operado por el personal que ésta autorice
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1993)</small>
+
+La Secretaría establecerá las bases del Programa Estatal de Calidad Total de la Red del Servicio de Transporte Público Urbano de Pasajeros de Tamaulipas.
+
 ###### ARTICULO 172.
 
 Se entiende por estaciones terminales, los lugares en donde los prestadores del servicio público de transporte, previa autorización de la Secretaría, estacionan sus vehículos antes de iniciar o al terminar su recorrido.
@@ -1984,3 +1992,15 @@ ATENTAMENTE.
 "SUFRAGIO EFECTIVO. NO REELECCION."
 
 El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE AGOSTO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo Gubernamental entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Seguridad Pública deberá expedir las Bases del Programa Estatal de Calidad Total de la Red del Servicio de Transporte Público Urbano de Pasajeros de Tamaulipas, dentro de los 15 días siguientes a la fecha de inicio de la vigencia del presente Acuerdo.
