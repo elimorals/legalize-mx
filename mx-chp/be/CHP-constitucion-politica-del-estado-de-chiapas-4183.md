@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1931-01-07"
+last_updated: "1931-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-> <small>N. DE E. ES DE OBSERVARSE QUE POR ACUERDO DEL C. GOBERNADOR DEL ESTADO, Y EN VISTA DE HABERSE PUBLICADO CON ALGUNOS ERRORES Y OMISIONES EL DECRETO No. 67, PUBLICADO EN EL PERIODICO OFICIAL No. 1, DE FECHA 7 DE ENERO DE 1931, QUEDO SIN EFECTO ALGUNO DICHO DECRETO, DEBIENDOSE TENER COMO AUTENTICA Y EXACTA LA PUBLICACION QUE NUEVAMENTE SE REALIZO DEL MISMO, EN EL P.O. 14 DE ENERO DE 1931.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1931.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -43,17 +41,17 @@ CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
 El Estado de Chiapas, que por su libre voluntad forma parte de los Estados Unidos Mexicanos desde el día 12 de septiembre de 1824, reconoce como Ley Fundamental y Suprema la Constitución General de la República, promulgada el 5 de febrero de 1917.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 2.
 
-El Territorio del Estado para su funcionamiento Político y Administrativo, queda dividido en los Municipios siguientes: de Tuxtla, con las Agencias Municipales de Copoya y Cerro Hueco; de Terán; de Suchiapa; de Ocozocoautla de Espinoza, con las Agencias Municipales de Espinal de Morelos, Ocuilapa, San Vicente y Valle de Corzo; de San Fernando; de Berriozábal; de Cintalapa, con las Agencias Municipales de La Providencia, San Antonio, Monserrat y Emiliano Zapata; de Jiquipilas, con la Agencia Municipal de Ortíz Rubio; de Arriaga, con las Agencias Municipales de La Calera, La Punta y San Pablo; de Villa Flores, con la Agencia Municipal de Rosarito; de Villa Corzo con la Agencia Municipal de Valle Morelos; de Chiapa de Corzo, con las Agencias Municipales de las Riberas de Amatal, Cangui, Cupia, Nandayacutí, San Gabriel y Nandambua; de Acala; de Chiapilla; de Ixtapa; de Osumacinta; de Soyaló; de San Bartolomé, con las Agencias Municipales de Aguacatenango, Ribera de Santa Cruz y Soyatitán; de La Concordia, con la Agencia Municipal de Jaltenango; de Montecristo de Guerrero; de San Diego La Reforma; de Totolapa; de Comitán de Domínguez, con las Agencias Municipales Ajayash, Chacaljemel Juznajab, Los Riegos, Tzimol, y Yocnajab; de Las Margaritas, con la Agencia Municipal de El Edén; de Las Rosas; de La Trinitaria; de Chicomucelo; de La Independencia; de Socoltenango; de San Cristóbal Las Casas, con las Agencias Municipales de Chanal, Ejido Pedernal y Felipe Ecatepec; de Teopisca, con la Agencia Municipal de Nuevo León; de Chamula; de Huistán; de San Lucas; de San Andrés, con la Agencia Municipal de Santiago; de San Pedro Chenaló, con las Agencias Municipales de Magdalena y Santa Marta; de San Miguel Mitontic; Tenejapa; de Sinacantán; de Amatenango del Valle; de Ocosingo, con las Agencias Municipales de Oxchuc, San Martín, Sibacá; Tenango y Cancuc; de Chilón, con las Agencias Municipales de Bachajón, Guaquitepec y Sitalá; de Yajalón, con la Agencia Municipal de Amado Nervo; de San Carlos, con la Agencia Municipal de Chiptic; de Salto de Agua, con las Agencias Municipales de La Trinidad y San Pedro Sabana; de Palenque, con la Agencia Municipal de Santa Margarita; de Catazaja, con las Agencias Municipales de Cuyo Concepción, Paraíso y Zaragoza; de La Libertad, con la Agencia Municipal de Luis Espinoza; de Tila, con la Agencia Municipal de Petalcingo; de Tumbalá, con la Agencia Municipal de Hidalgo; de Pichucalco, con la Agencia Municipal de Tectuapán; de Ixtacomitán; de Ostuacán, con la Agencia Municipal de Sayula; de Chapultenango; de Ixtapangajoya, con la Agencia Municipal de El Caoba; de Juárez, con la Agencia Municipal de La Reforma; de Nicapa; de Solosuchiapa; de Sunuapa; de Simojovel de Allende, con la Agencia Municipal de Pueblo Nuevo Sitalá; de Pueblo Nuevo Solistahuacán, con las Agencias Municipales de El Rincón, La Aurora y Santa Rita; de Santa Catarina Pantelhó; de Amatán, con las Agencias Municipales de El Azufre y San Antonio La Montaña; de Huitiupan; de Jitotol; de Sabanilla, con la Agencia Municipal de Moyos; de San Juan, con las Agencias Municipales de Nishtalucúm, Plátanos y Chabajebal; de San Pablo Chalchihuitán; de Bochil, con la Agencia Municipal de Chavarría; de Copainalá, con las Agencias Municipales de las Riberas de Guadalupe, Juárez Morelos y Zacalapa; de Coapilla; de Chicoasén; de Ishuatán, con la Agencia Municipal de Chapayal; de Magdalena; de Ocotepec; de Pantepec; de San Bartolomé de Solistahuacán; de Tapalapa; de Tapilula; de Tecpatán, con la Agencia Municipal de Quechula; de Tonalá, con las Agencias Municipales de Arista, La Polka, San Cayetano, San Pedro y Ponte Duro; de Mapastepec; de Pijijiapan, con las Agencias Municipales de Tapachulita y Zapotal; de Tapachula, con las Agencias Municipales de El Edén, Las Maravillas, San Andrés Nexapa, San Benito, San Juan Chicharras y Carrillo Puerto; de Huixtla, con las Agencias Municipales de La Libertad y Santa Rita; de Escuintla, con las Agencias Municipales de San Felipe Tizapa, El Triunfo y Doña María; de Huehuetán; de Tuxtla Chico; de Acacoyagua, con las Agencias Municipales de Los Cacaos y La Libertad; de Acapetagua; de Cacahoatán; de Mazatán; de Metapa; de Pueblo Nuevo Comaltitlán, con la Agencia Municipal de La Providencia; de Suchiate; de Tuzantán; de Unión Juárez; de Frontera Hidalgo; de Motozintla de Mendoza, con las Agencias Municipales de Benito Juárez, Buenos Aires, Carrizal, Checancé, Lubeca, Aztecas, Niquivil, Pueblo Viejo, San José Ixtepec, Berriozábal, Tuizcun, Togzoloj, Soledad, Cipresal y Belisario Domínguez; de Amatenango de la Frontera, con las Agencias Municipales de El Pacayal, Monte Ordóñez, Guadalupe Victoria, Juntá y La Nueva; de Bejucal de Ocampo, con las Agencias Municipales de Ojo de Agua y Las Tablas; de El Porvenir, con las Agencias Municipales de Chimalapa, El Zapotillo y Malé; de Frontera Comalapa, con las Agencias Municipales de El Portal, Paso Hondo, San Miguel Ibarra y Zapotal; de La Grandeza; de Mazapa de Madero, con las Agencias Municipales de Santa Rosa Talcanaque, Hidalgo, Juárez y Tocanaque; de San Isidro Siltepec, con las Agencias Municipales de El Rodeo, Las Ventanas, Honduras, San Luis, Las Pilas, Las Delicias y San Angel; de San Pedro Remate, con las Agencias Municipales de El Pacayal, El Platanar, Las Chicharras, La Hacienda, La Laguna, Las Tablas, Los Cimientos y San Pedro.
+El Territorio del Estado para su funcionamiento Político y Administrativo, queda dividido en los Municipios siguientes: de Tuxtla, con las Agencias Municipales de Copoya y Cerro Hueco; de Terán; de Suchiapa; de Ocozocoautla de Espinoza, con las Agencias Municipales de Espinal de Morelos, Ocuilapa, San Vicente, y Valle de Corzo; de San Fernando; de Berriozábal; de Cintalapa, con las Agencias Municipales de La Providencia, San Antonio, Monserrat y Emiliano Zapata; de Jiquipilas, con la Agencia Municipal de Ortíz Rubio; de Arriaga, con las Agencias Municipales de La Calera, La Punta y San Pablo; de Villa Flores, con la Agencia Municipal de Rosarito; de Villa Corzo, con la Agencia Municipal de Valle Morelos; de Chiapa de Corzo, con las Agencias Municipales de las Riberas de Amatal, Cangui, Cupia, Nandayacutí, San Gabriel y Nandambua; de Acala; de Chiapilla; de Ixtapa; de Osumacinta; de Soyaló; de San Bartolomé, con las Agencias Municipales de Aguacatenango, Ribera de Santa Cruz y Soyatitán; de La Concordia, con la Agencia Municipal de Jaltenango; de Montecristo de Guerrero; de San Diego La Reforma; de Totolapa; de Comitán de Domínguez, con las Agencias Municipales Ajayash, Chacaljemel Juznajab, Los Riegos, Tzimol, y Yocnajab; de Las Margaritas, con la Agencia Municipal de El Edén; de Las Rosas; de La Trinitaria; de Chicomucelo; de La Independencia; de Socoltenango; de San Cristóbal Las Casas, con las Agencias Municipales de Chanal, Ejido Pedernal y San Felipe Ecatepec; de Teopisca, con la Agencia Municipal de Nuevo León; de Chamula; de Huistán; de San Lucas; de San Andrés, con la Agencia Municipal de Santiago; de San Pedro Chenaló, con las Agencias Municipales de Magdalena y Santa Marta; de San Miguel Mitontic; de Tenejapa; de Sinacantán; de Amatenango del Valle; de Ocosingo, con las Agencias Municipales de Oxchuc, San Martín, Sibacá, Tenango y Cancuc; de Chilón, con las Agencias Municipales de Bachajón, Guaquitepec y Sitalá; de Yajalón, con la Agencia Municipal de Amado Nervo; de San Carlos, con la Agencia Municipal de Chiptic; de Salto de Agua, con las Agencias Municipales de La Trinidad y San Pedro Sabana; de Palenque, con la Agencia Municipal de Santa Margarita; de Catazaja, con las Agencias Municipales de Cuyo Concepción, Paraíso y Zaragoza; de La Libertad, con la Agencia Municipal Luis Espinoza; de Tila, con la Agencia Municipal de Petalcingo; de Tumbalá, con la Agencia Municipal de Hidalgo; de Pichucalco, con la Agencia Municipal de Tectuapán; de Ixtacomitán; de Ostuacán, con la Agencia Municipal de Sayula; de Chapultenango; de Ixtapangajoya, con la Agencia Municipal de El Caoba; de Juárez, con la Agencia Municipal de La Reforma; de Nicapa; de Solosuchiapa; de Sunuapa; de Simojovel de Allende, con la Agencia Municipal de Pueblo Nuevo Sitalá; de Pueblo Nuevo Solistahuacán, con las Agencias Municipales de El Rincón, La Aurora y Santa Rita; de Santa Catarina Pantelhó; de Amatán, con las Agencias Municipales de El Azufre y San Antonio La Montaña; de Huitiupan; de Jitotol; de Sabanilla, con la Agencia Municipal de Moyos; de San Juan, con las Agencias Municipales de Nishtalucúm, Plátanos y Chabajebal; de San Pablo Chalchihuitán; de Bochil, con la Agencia Municipal de Chavarría; de Copainalá, con las Agencias Municipales de las Riberas de Guadalupe, Juárez Morelos y Zacalapa; de Coapilla; de Chicoasén; de Ishuatán, con la Agencia Municipal de Chapayal; de Magdalena; de Ocotepec; de Pantepec; de San Bartolomé de Solistahuacán; de Tapalapa; de Tapilula; de Tecpatán, con la Agencia Municipal de Quechula; de Tonalá, con las Agencias Municipales de Arista, La Polka, San Cayetano, San Pedro, y Ponte Duro; de Mapastepec; de Pijijiapam, con las Agencias Municipales de Tapachulita y Zapotal; de Tapachula, con las Agencias Municipales de El Edén, Las Maravillas, San Andrés Nexapa, San Benito, San Juan Chicharras y Carrillo Puerto; de Huixtla, con las Agencias Municipales de La Libertad y Santa Rita; de Escuintla, con las Agencias Municipales de San Felipe Tizapa, El Triunfo y Doña María; de Huehuetán; de Tuxtla Chico; de Acacoyagua, con las Agencias Municipales de Los Cacaos y La Libertad; de Acapetagua; de Cacahoatán; de Mazatán; de Metapa; de Pueblo Nuevo Comaltitlán, con la Agencia Municipal La Providencia; de Suchiate; de Tuzantán; de Unión Juárez; de Frontera Hidalgo; de Motozintla de Mendoza, con las Agencias Municipales de Benito Juárez, Buenos Aires, Carrizal, Checancé, Lubeca, Aztecas, Niquivil, Pueblo Viejo, San José Ixtepec, Berriozábal, Tuizcum, Togzoloj, Soledad, Cipresal y Belisario Domínguez; de Amatenango de la Frontera, con las Agencias Municipales de El Pacayal, Monte Ordóñez, Guadalupe Victoria, Juntá y La Nueva; de Bejucal de Ocampo, con las Agencias Municipales de Ojo de Agua y Las Tablas; de El Porvenir, con las Agencias Municipales de Chimalapa, El Zapotillo y Malé; de Frontera Comalapa, con las Agencias Municipales de El Portal, Paso Hondo, San Miguel Ibarra y Zapotal; de La Grandeza; de Mazapa de Madero, con las Agencias Municipales de Santa Rosa Talcanaque, Hidalgo, Juárez y Tocanaque; de San Isidro Siltepec, con las Agencias Municipales de El Rodeo, Las Ventanas, Honduras, San Luis, Las Pilas, Las Delicias y San Angel; de San Pedro Remate, con las Agencias Municipales de El Pacayal, El Platanar, Las Chicharras, La Hacienda, La Laguna, Las Tablas, Los Cimientos y San Pedro.
 
 ## TITULO SEGUNDO. De los habitantes, vecinos y ciudadanos del Estado
 
 ### CAPITULO I. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 3.
 
@@ -147,7 +145,7 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 El Poder Legislativo será ejercido por un Congreso compuesto de Diputados popularmente electos, cuya elección deberá ser plebiscitaria, quienes durarán en su encargo cuatro años y se renovarán por mitad cada dos años, sin que puedan ser reelectos.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 13.
 
@@ -169,15 +167,15 @@ III.- Ser mayor de veinticinco años el día de la elección.
 
 No pueden ser electos Diputados: el Gobernador, el Secretario General, el Oficial Mayor, los Magistrados del Tribunal Superior de Justicia, los Jueces Federales en funciones, el Procurador de Justicia y el Tesorero General. Tampoco pueden serlo, por el Distrito en que ejerzan jurisdicción, los Jueces de Primera Instancia, los Presidentes Municipales y los Jefes de Policía.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ## TITULO TERCERO. De la División de los Poderes
 
 ###### ARTICULO 16.
 
-Si de las elecciones de Diputados resultaren dos o más agrupaciones, cada una de constituir la Legislatura del Estado, únicamente será reconocida como Legislatura Legal, la que se hubiere instalado en el recinto oficial y con la mitad de Diputados ya existentes, que conforme a esta Constitución no deba renovarse.
+Si de las elecciones de Diputados resultaren dos o más agrupaciones con pretensiones cada una de constituir la Legislatura del Estado, únicamente será reconocida como Legislatura Legal, la que se hubiere instalado en el recinto oficial y con la mitad de Diputados ya existentes, que conforme a esta Constitución no deba renovarse.
 
-El Congreso calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Sus resoluciones en este caso serán definitivas e inatacables.
+El Congreso calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Sus resoluciones en este caso, serán definitivas e inatacables.
 
 ###### ARTICULO 17.
 
@@ -199,11 +197,11 @@ Si no hubiere quórum para instalar la Cámara o para que ejerza sus funciones u
 
 Los diputados que no concurran a una sesión, sin causa justificada y sin permiso de la Cámara, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 20.
 
-El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el primero de noviembre y terminará a más tardar el último de febrero del año siguiente. Tendrá, además, a partir de la XXXIII Legislatura, en el año en que se verifiquen las elecciones ordinarias de Gobernador, que también deberá ser plebiscitaria, un período extraordinario de sesiones que se abrirá el cinco de octubre y concluirá a más tardar el quince del mismo mes, para el solo efecto de erigirse en Colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador y la declaratoria en favor de la persona que hubiere resultado electo.
+El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el primero de noviembre y terminará a más tardar el último de febrero del año siguiente. Tendrá, además, a partir de la XXXIII Legislatura, en el año en que se verifiquen las elecciones ordinarias de Gobernador que también deberá ser plebiscitaria, un período extraordinario de sesiones que se abrirá el cinco de octubre y concluirá a más tardar el quince del mismo mes, para el solo efecto de erigirse en Colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador y la declaratoria en favor de la persona que hubiere resultado electa.
 
 ###### ARTICULO 21.
 
@@ -297,11 +295,13 @@ X. Otorgar recompensas por servicios meritorios prestados al Estado;
 
 XI. Conceder al Ejecutivo, con aprobación de las dos terceras partes de los diputados presentes y por tiempo limitado, facultades extraordinarias en los casos de invasión, perturbación grave de la paz pública, o cualquier otro que ponga a la sociedad en grave peligro o conflicto;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
-XII. Erigirse en Colegio Electoral con objeto de computar los votos emitidos en la elección de Gobernador, nombrar a los Magistrados del Tribunal Superior de Justicia, en los términos de esta Constitución y hacer las declaratorias respectivas. En estos casos, sus resoluciones serán definitivas e inatacables;
+XII. Erigirse en Colegio Electoral con objeto de computar los votos emitidos en la elección de Gobernador, nombrar a los Magistrados del Tribunal Superior de Justicia, en los términos de esta Constitución, y hacer las declaratorias respectivas;
 
-XIII. (DEROGADA, P.O. 7 DE ENERO DE 1931)
+En estos casos, sus resoluciones serán definitivas e inatacables.
+
+XIII. (DEROGADA, P.O. 14 DE ENERO DE 1931)
 
 XIV. Formar su reglamento interior y tomar las providencias necesarias a fin de hacer concurrir a los diputados ausentes y corregir las faltas u omisiones de los presentes;
 
@@ -323,7 +323,7 @@ XXII. Vigilar por medio de una Comisión de su seno el exacto cumplimiento de la
 
 XXIII. Excitar a los Poderes de la Unión, en caso de sublevación o trastorno interior, a efecto de que presten al Estado la protección necesaria;
 
-XXIV. (DEROGADA, P.O. 7 DE ENERO DE 1931)
+XXIV. (DEROGADA, P.O. 14 DE ENERO DE 1931)
 
 XXV. Determinar, según las necesidades locales, el número máximo de los ministros de los cultos;
 
@@ -353,13 +353,13 @@ XXXIII. Conocer como Jurado de Acusación en los procedimientos que se inicien, 
 
 XXXIV. Erigirse en Gran Jurado para declarar si ha o no, lugar a proceder contra alguno de los funcionarios públicos que gocen de fuero constitucional, cuando sean acusados por delito del orden común;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
-XXXV. Expedir convocatoria para elecciones extraordinarias, a fin de cubrir las vacantes que ocurran en los Poderes del Estado, que sean de elección popular y de Ayuntamientos, cuando éstos desaparecieren por alguna circunstancia;
+XXXV. Expedir convocatoria para elecciones extraordinarias, a fin de cubrir las vacantes que ocurran en los Poderes del Estado, que sean de elección popular, y de Ayuntamientos, cuando éstos desaparecieren por alguna circunstancia;
 
-XXXVI. (DEROGADA, P.O. 7 DE ENERO DE 1931)
+XXXVI. (DEROGADA, P.O. 14 DE ENERO DE 1931)
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
 XXXVII. Conocer y resolver de los casos de nulidad de elección popular, conforme a las Leyes relativas, así como de cualquier otro conflicto que se suscite con motivo de las elecciones municipales;
 
@@ -391,11 +391,11 @@ Durante el receso del Congreso habrá una Diputación Permanente compuesta de tr
 
 Son atribuciones de la Diputación Permanente:
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
 I. Acordar a petición del Ejecutivo la convocatoria al Congreso, para sesiones extraordinarias;
 
-II. (DEROGADA, P.O. 7 DE ENERO DE 1931)
+II. (DEROGADA, P.O. 14 DE ENERO DE 1931)
 
 III. Ejercer las facultades a que se refieren las fracciones XI, XV, XVI, XXX y XXXI del artículo 33;
 
@@ -417,7 +417,7 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, de lo
 
 Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará "Gobernador del Estado de Chiapas".
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 42.
 
@@ -433,15 +433,15 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto;
 
 V.- No estar en servicio activo, en caso de pertenecer al Ejército, noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 43.
 
 El Gobernador entrará al ejercicio de su encargo a primera hora del día primero de diciembre, durará en él cuatro años y no podrá ser reelecto para el período inmediato.
 
-El ciudadano que substituyere al Gobernador Constitucional en sus faltas temporales o absolutas, no podrá ser electo Gobernador para el período inmediato.
+El ciudadano que substituyere al Gobernador Constitucional en sus faltas temporales o absolutas, no podrá electo (sic) Gobernador para el período inmediato.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 44.
 
@@ -451,19 +451,19 @@ Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará des
 
 Si por alguna circunstancia no se verificaren las elecciones, cesará de todos modos en su encargo el Gobernador Interino o Provisional nombrado y se designará a otro, haciéndose nueva convocatoria en idéntica forma. Si en esta segunda vez no se verificaren las elecciones por culpa del Gobernador Interino, además de perder su carácter de Gobernador sin necesidad de declaratoria alguna, se considerará suspenso en sus derechos políticos por el término de cuatro años.
 
-Cuando la falta absoluta del Gobernador Constitucional ocurriere en los dos últimos años del período respectivo, si el Congreso se encontrare en sesiones, se elegirá en la forma designada en el inciso I de este artículo, un Gobernador Substituto que deba concluir el período. Si el Congreso no estuviere en período de sesiones ordinarias, la Diputación Permanente nombrará un Gobernador Interino y convocará desde luego al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto que deba concluir el período mencionado, sin que tal nombramiento pueda recaer en el que interinamente asuma el Poder Ejecutivo.
+Cuando la falta absoluta de Gobernador Constitucional ocurriere en los dos últimos años del período respectivo, si el Congreso se encontrare en sesiones, elegirá en la forma designada en el inciso I de este artículo, un Gobernador Substituto que deba concluir el período. Si el Congreso no estuviere en período de sesiones ordinarias, la Diputación Permanente nombrará un Gobernador Interino y convocará desde luego al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto que deba concluir el período mencionado, sin que tal nombramiento pueda recaer en el que interinamente asuma el Poder Ejecutivo.
 
-En todos los casos de falta absoluta de Gobernador a que se refiere este artículo, el Presidente del Superior Tribunal de Justicia del Estado, o en su defecto el Presidente Municipal de la Capital o quien ejerza sus funciones asumirá desde luego, con la protesta que ya tienen otorgada y por ministerio de Ley, el Poder Ejecutivo, mientras tanto la Diputación Permanente hace el nombramiento de Gobernador Interino, a fin de que el Poder Ejecutivo no quede acéfalo.
+En todos los casos de falta absoluta de Gobernador a que se refiere este artículo, el Presidente del Superior Tribunal de Justicia del Estado, o en su defecto el Presidente Municipal de la Capital o quien ejerza sus funciones, asumirá desde luego, con la protesta que ya tienen otorgada y por ministerio de Ley, el Poder Ejecutivo, mientras tanto la Diputación Permanente hace el nombramiento de Gobernador Interino, a fin de que el Poder Ejecutivo no quede acéfalo.
 
-El ciudadano que hubiere sido designado Gobernador Interino, para convocar a elecciones en el caso de falta del Gobernador Constitucional, en los dos primeros años del período respectivo, no podrá ser electo en los comicios que con tal motivo se celebren.
+El ciudadano que hubiere sido designado Gobernador Interino, para convocar a elecciones en el caso de falta del Gobernador Constitucional en los dos primeros años del período respectivo, no podrá ser electo en los comicios que con tal motivo se celebren.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 45.
 
-Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha o declarada el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso y se procederá conforme el artículo anterior.
+Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha o declada (sic) el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso y se procederá conforme al artículo anterior.
 
-Cuando por cualquier circunstancia hubiere desaparecido o no funcionare la Legislatura del Estado, el Presidente del Superior Tribunal de Justicia, o en su defecto el Presidente Municipal de la apital, o quien ejerza sus funciones, se encargará del Poder Ejecutivo, con el carácter de Provisional, siempre que por cualquier causa se encuentre acéfalo el Poder Ejecutivo.
+Cuando por cualquier circunstancia hubiere desaparecido o no funcionare la Legislatura del Estado, el Presidente del Superior Tribunal de Justicia, o en su defecto el Presidente municipal de la Capital, o quien ejerza sus funciones, se encargará del Poder Ejecutivo, con el carácter de Provisional, siempre que por cualquier causa se encuentre acéfalo el Poder Ejecutivo.
 
 El Gobernador Provisional en caso de que hubiere desaparecido la Legislatura, convocará a elecciones extraordinarias dentro de los treinta días siguientes al de haberse encargado del Gobierno, para la designación de los miembros que integrarán dicha Legislatura. Estas elecciones se verificarán a los sesenta días de la fecha de la Convocatoria y el Congreso se instalará legalmente treinta días después.
 
@@ -471,13 +471,13 @@ Cuando la desaparición hubiere ocurrido ocho meses antes de terminarse el perí
 
 El Gobernador Provisional, en ningún caso podrá legislar, enagenar (sic) bienes, ni comprometer las rentas del fisco del Estado, siendo nulos todos los actos que se opongan a la presente Constitución o a las leyes y disposiciones en vigor al entrar a ejercer su encargo.
 
-Cuando la falta de Gobernador Constitucional fuere temporal, el Congreso, si estuviere reunido, o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo de dicha falta. Si ésta se convirtiese de temporal en absoluta, se procederá como dispone el artículo anterior.
+Cuando la falta de Gobernador Constitucional fuere temporal, el Congreso, si estuviere reunido, o su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo de dicha falta. Si ésta se convirtiere de temporal en absoluta, se procederá como dispone el artículo anterior.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 46.
 
-Será Gobernador Constitucional el ciudadano que obtenga la mayoría de votos emitidos en la elección y que así sea declarado por la Legislatura.
+Será Gobernrdor (sic) Constitucional el ciudadano que obtenga la mayoría de votos emitidos en la elección y que así sea declarado por la Legislatura.
 
 ###### ARTICULO 47.
 
@@ -487,13 +487,13 @@ El Gobernador no podrá separarse del lugar de la residencia de los poderes, ni 
 
 Son facultades y obligaciones del Gobernador:
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
-I. Nombrar y remover libremente al Secretario General, Oficial Mayor, Tesorero General, Procurador General de Justicia, Agente del Ministerio Público y demás funcionarios y empleados subalternos, en los Ramos Administrativo y Hacendario. Proponer terna al Tribunal Superior de Justicia, para que nombre a los Jueces de Primera Instancia, Visitador Judicial y Asesores;
+I. Nombrar y remover libremente al Secretario General, Oficial Mayor, Tesorero General, Procurador General de Justicia, Agentes del Ministerio Público y demás funcionarios y empleados subalternos, en los Ramos Administrativo y Hacendario. Proponer terna al Tribunal Superior de Justicia, para que nombre a los Jueces de Primera Instancia, Visitador Judicial y Asesores;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
-II. Mandar practicar visitas cuando lo juzgue conveniente, a las Tesorerías Municipales, no para limitar la libre administración de la Hacienda de los Municipios, sino para moralizarla y evitar los malos manejos de fondos, haciendo, en su caso, la consignación correspondiente de los delitos que se descubran;
+II. Mandar practicar visitas cuando lo juzgue conveniente, a las Tesorerías Municipales; no para limitar la libre administración de la Hacienda de los Municipios, sino para moralizarla y evitar los malos manejos de fondos, haciendo, en su caso, la consignación correspondiente de los delitos que se descubran;
 
 III. Conceder o negar indultos, con arreglo a la ley, a los reos sentenciados por los Tribunales del Estado;
 
@@ -537,7 +537,7 @@ XXI. Cuidar de que se practiquen las elecciones en el tiempo señalado por las l
 
 XXII. Vigilar por la difusión de la instrucción primaria elemental, especialmente en los pueblos, rancherías y haciendas.
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1931)</small>
 
 XXIII. Proponer terna al Congreso para el nombramiento de Magistrados del Tribunal Superior de Justicia y de substitutos en los casos del artículo 68 de esta Constitución.
 
@@ -553,7 +553,7 @@ Ser ciudadano chiapaneco por nacimiento, mayor de treinta años y estar en ejerc
 
 ## TITULO SEPTIMO. De la Responsabilidad de los funcionarios públicos
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 51.
 
@@ -561,7 +561,7 @@ Todos los reglamentos, decretos y órdenes del Gobernador, deberán ir firmados 
 
 #### SECCION TERCERA. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 52.
 
@@ -573,45 +573,37 @@ El Secretario General es el órgano de comunicación entre el Gobernador y las a
 
 ###### ARTICULO 54.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Asesores, Jurados, Jueces Municipales y Jueces Rurales.
-
-El Estado se divide en los Distritos Judiciales siguientes: de Comitán, con Cabecera en la Ciudad de Comitán de Domínguez; de Alvaro Obregón, con Cabecera en la Villa de Ocosingo; de Chiapa, con cabecera en la ciudad de Chiapa de Corzo; de Las Casas, con cabecera en la Ciudad de San Cristóbal Las Casas; de Cintalapa, con cabecera en la Villa de Cintalapa; de La Libertad, con cabecera en la Ciudad de San Bartolomé; de Mariscal, con cabecera en el pueblo de Motozintla; de Mezcalapa con cabecera en la Villa de Copainalá; de Palenque, con cabecera en Salto de Agua; de Pichucalco, con cabecera en la Ciudad de Pichucalco; de Simojovel, con cabecera en la Ciudad de Simojovel de Allende; de Soconusco , con cabecera en la Ciudad de Tapachula; de Tonalá, con cabecera en la Ciudad de Tonalá; de Tuxtla, con cabecera en la ciudad de Tuxtla Gutiérrez; y de Villa Flores, con cabecera en el Pueblo de Villa Flores.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Asesores, Jurados, Jueces Municipales y Jueces Rurales. El Estado se divide en los Distritos Judiciales siguientes: de Comitán, con Cabecera en la Ciudad de Comitán de Domínguez; de Alvaro Obregón, con Cabecera en la Villa de Ocosingo; de Chiapa, con cabecera en la Ciudad de Chiapa de Corzo; de Las Casas, con cabecera en la Ciudad de San Cristóbal Las Casas; de Cintalapa, con cabecera en la Villa de Cintalapa; de La Libertad, con cabecera en la Ciudad de San Bartolomé; de Mariscal, con cabecera en el pueblo de Motozintla; de Mezcalapa, con cabecera en la Villa de Copainalá; de Palenque, con cabecera en Salto de Agua; de Pichucalco, con cabecera en la Ciudad de Pichucalco; de Simojovel, con cabecera en la Ciudad de Simojovel de Allende; de Soconusca (sic), con cabecera en la Ciudad de Tapachula; de Tonalá, con cabecera en la Ciudad de Tonalá; de Tuxtla, con cabecera en la ciudad de Tuxtla Gutiérrez; y de Villa Flores, con cabecera en el Pueblo de Villa Flores.
 
 Los Distritos Judiciales de Comitán, Alvaro Obregón, Las Casas, La Libertad, Mariscal, Mezcalapa, Palenque, Pichucalco, Simojovel, Soconusco y Tonalá, tendrán por jurisdicción la que comprendían los extintos Departamentos de su nombre. El Distrito Judicial de Cintalapa, comprende los Municipios de Cintalapa y Jiquipilas; el de Villa Flores, comprende los Municipios de Villa Flores y Villa Corzo. Los Distritos de Tuxtla y Chiapa, tendrán como jurisdicción la que tenían los extintos Departamentos de su nombre, con excepción de los que comprenden los nuevos Distritos de Cintalapa y Villa Flores, respectivamente.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 55.
 
-Para ser Magistrado se requiere:
+El Tribunal Superior de Justicia se compondrá de tres Magistrados de número y cinco Supernumerarios que serán electos por el Congreso del Estado, constituido en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, quienes decidirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto, a propuesta en terna por el Ejecutivo del Estado.
 
-I.- Ser Ciudadano Chiapaneco por nacimiento y estar en el pleno goce de sus derechos;
-
-II. Ser mayor de treinta y cinco años al tiempo de la elección;
-
-III. Poseer título de Abogado, expedido por autoridad o institución legalmente facultada para ello y tener por lo menos cinco años de práctica en el ejercicio de la profesión, los que se contarán a partir de la fecha de la expedición del título.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 56.
 
 Para ser Magistrado se requiere:
 
-I.- Ser ciudadano chiapaneco, nacido en el territorio de la República y estar en el pleno ejercicio de sus derechos;
+I.- Ser Ciudadano Chiapaneco por nacimiento y estar en pleno goce de sus derechos;
 
-II.- Ser mayor de treinta años al tiempo de la elección;
+II. Ser mayor de treinta y cinco años al tiempo de la elección;
 
-III.- Poseer título de Abogado, expedido por autoridad o corporación legalmente facultada para ello, y tener cinco años de práctica en el ejercicio de la profesión, y
+III. Poseer título de Abogado, expedido por autoridad o institución legalmente facultada para ello, y tener por lo menos cinco años de práctica en el ejercicio de la profesión, los que se contarán a partir de la fecha de la expedición del título.
 
-IV.- Gozar de buena reputacion y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastimen seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 57.
 
-Los Magistrados durarán en su en su (sic) encargo cuatro años y solo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo. Este período se empezará a contar desde el primero de diciembre de mil novecientos treinta y uno, cesando en consecuencia los Magistrados que actualmente integran el Tribunal Superior de Justicia del Estado.
+Los Magistrados durarán en su encargo cuatro años y solo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo. Este período se empezará a contar desde el primero de diciembre de mil novecientos treinta y uno, cesando en consecuencia, desde esa fecha, los Magistrados que actualmente integran el Tribunal Superior de Justicia del Estado.
 
 Los Jueces de Primera Instancia durarán también cuatro años a partir del primero de enero de mil novecientos treinta y dos; pero éstos podrán ser removidos cuando a juicio del Tribunal Superior de Justicia observen mala conducta, cuando sean promovidos a grado superior o removidos de un Distrito Judicial a otro, o que siendo legos sean substituidos por letrados.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 58.
 
@@ -629,7 +621,7 @@ II. Conocer en segunda instancia de los negocios que conforme a la Ley deban ten
 
 III. Nombrar y remover libremente a los secretarios y demás empleados de su Secretaría;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
 IV. Nombrar, previa terna que proponga el Ejecutivo del Estado, a los Jueces de Primera Instancia, Asesores y Visitador Judicial;
 
@@ -645,11 +637,11 @@ VIII. Formar su Reglamento Interior y de su Secretaría.
 
 Ningún funcionario o empleado de la Administración de Justicia podrá aceptar y desempeñar empleo o encargo de la Federación, de los Estados o particulares, salvo los cargos honoríficos en las asociaciones científicas, literarias, de beneficencia o de Instrucción Pública. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 61.
 
-Los Jueces Municipales y Jueces Rurales, serán nombrados por los Ayuntamientos de las respectivas jurisdicciones, comenzarán a funcionar el día primero de febrero y durarán en su ejercicio un año, pudiendo ser removidos cuando observen mala conducta y previo el juicio de responsabilidad correspondiente.
+Los Jueces Municipales y Jueces Rurales, serán nombrados por los Ayuntamientos de las respectivas jurisdicciones; comenzarán a funcionar el día primero de febrero y durarán en su ejercicio un año, pudiendo ser removidos cuando observen mala conducta y previo el juicio de responsabilidad correspondiente.
 
 Por cada uno de los Jueces a que se refiere este artículo, se nombrará un Suplente.
 
@@ -679,19 +671,19 @@ Cada Municipio será administrado por un Ayuntamiento de Elección Popular y no 
 
 Los Municipios administrarán libremente su hacienda, la cual se formará, aparte de los bienes propios, de las contribuciones que señale el Congreso y que en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 68.
 
 Cuando por cualquier circunstancia desapareciere algún Ayuntamiento u ocurrieren faltas absolutas, en uno o más miembros de su personal, tendrá facultad el Congreso del Estado, o en su defecto la Diputación Permanente, de nombrar substitutos, previa terna que proponga el Ejecutivo.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 69.
 
-Los miembros de los Ayuntamientos de Primera y de Segunda Categoría, durarán en su encargo dos años y los de tercera; un año, sin que ni unos ni otros puedan ser reelectos para el período inmediato. Tampoco podrán ser removidos sino por mala conducta y previo el juicio correspondiente. Los Agentes Municipales serán removidos libremente por el Ayuntamiento de que dependan, sin que el período de su ejercicio sea mayor de un año.
+Los miembros de los Ayuntamientos de Primera y Segunda Categoría, durarán en su encargo dos años y los de tercera, un año, sin que ni unos ni otros puedan ser reelectos para el período inmediato. Tampoco podrán ser removidos sino por mala conducta y previo el juicio correspondiente. Los Agentes Municipales serán removidos libremente por el Ayuntamiento de que dependan, sin que el período de su ejercicio sea mayor de un año.
 
-Para ser miembro de un Ayuntamiento o Agente Municipal, se necesita: ser ciudadano mexicano por nacimiento y vecino del Municipio o Agencias respectivas, con residencia no menor de seis meses inmediatamente anteriores al día de la elección o nombramiento.
+Para ser miembro de un Ayuntamiento o Agente Municipal, se necesita: ser ciudadano mexicano por nacimiento y vecino del Municipio o Agencias respectivos, con residencia no menor de seis meses inmediatamente anteriores al día de la elección o nombramiento.
 
 En ningún caso podrán hacerse incorporaciones o segregaciones de un Municipio o Agencia a otro, sin la aprobación de la mayoría de los Ayuntamientos del Estado, los que estarán obligados a darla dentro de noventa días.
 
@@ -727,13 +719,13 @@ Todo empleado de Hacienda que tuviere manejo de caudales públicos, lo caucionar
 
 ###### ARTICULO 77.
 
-Los Diputados, los Magistrados, el Secretario General, el Procurador de Justicia, el Tesorero General y el Contador General de Glosa, son responsables de los delitos comunes que cometan mientras ejercen su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de este mismo encargo. El Gobernador, durante el período de sus funciones sólo podrá ser acusado por traición a la Patria y delitos graves del orden común.
+Los Diputados, los Magistrados, el Secretario General, el Procurador de Justicia, el Tesorero General y el Contador General de Glosa, son responsables de los delitos comunes que cometan mientras ejercen su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de este mismo encargo. El Gobernador, durante el período de sus funciones, sólo podrá ser acusado por traición a la Patria y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 78.
 
-Si el delito fuere común, el Congreso, erigido en gran jurado, declarará si ha o no lugar a proceder, siendo indispensable para que se tome la primera determinación el voto de las dos terceras partes, cuando menos, del número total de sus miembros. En caso negativo no habrá lugar a algún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga los fundamentos de la acusación. En caso afirmativo el acusado quedará por el mismo hecho separado de su encargo y puesto desde luego a disposición de la autoridad competente.
+Si el delito fuere común, el Congreso, erigido en gran jurado, declarará si ha o no lugar a proceder, siendo indispensable para que se tome la primera determinación, el voto de las dos terceras partes, cuando menos, del número total de sus miembros. En caso negativo no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga los fundamentos de la acusación. En caso afirmativo, el acusado quedará por el mismo hecho, separado de su encargo y puesto desde luego a disposición de la autoridad competente.
 
 ###### ARTICULO 79.
 
@@ -817,11 +809,11 @@ Estará a cargo de los Municipios la Instrucción Primaria Elemental y Superior,
 
 La residencia de los Poderes y la Capital del Estado será la Ciudad de Tuxtla Gutiérrez.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 98.
 
-En el caso de la Fracción V del artículo 76 de la Constitución General, asumirá el Poder Ejecutivo en su orden el Presidente Municipal de la Capital o quien ejerza sus funciones; Presidente Municipal de Tapachula; Presidente Municipal de Chiapa de Corzo, Presidente Municipal de Comitán, Presidente Municipal de San Cristóbal Las Casas o quienes ejerzan sus funciones; Presidente del Comité de Estado del Partido Nacional Revolucionario, con la protesta que ya tienen otorgada, y en último caso el Presidente de la Cámara de Comercio de Tuxtla Gutiérrez; siempre que éste reúna los requisitos para ser Gobernador.
+En el caso de la Fracción V del artículo 76 de la Constitución General, asumirá el Poder Ejecutivo en su orden, el Presidente Municipal de la Capital o quien ejerza sus funciones; Presidente Municipal de Tapachula, Presidente Municipal de Chiapa de Corzo, Presidente Municipal de Comitán, Presidente Municipal de San Cristóbal Las Casas o quienes ejerzan sus funciones; Presidente del Comité de Estado del Partido Nacional Revolucionario, con la protesta que ya tienen otorgada, y en último caso el Presidente de la Cámara de Comercio de Tuxtla Gutiérrez, siempre que éste reúna los requisitos para ser Gobernador.
 
 ###### ARTICULO 99.
 
@@ -831,13 +823,13 @@ La ciudadanía no se suspende ni la vecindad se pierde por ausencia en el desemp
 
 El Gobernador los Diputados y los Magistrados al Tribunal Superior de Justicia recibirán una retribución por sus servicios que será determinada por la Ley. Esta compensación en ningún caso será renunciable.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 101.
 
-El Congreso legislará preferentemente sobre fraccionamiento de latifundios; determinará los bienes que constituyan el patrimonio de la familia, los cuales no estarán sujetos a gravamen ni embargo alguno y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios. También dictarán leyes encaminadas a combatir el alcoholismo, el juego y en general todo vicio que haga degenerar al individuo.
+El Congreso legislará preferentemente sobre fraccionamiento de latifundios; determinará los bienes que constituyan el patrimonio de la familia, los cuales no estarán sujetos a gravamen ni embargo alguno y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios. También dictará leyes encaminadas a combatir el alcoholismo, el juego y en general todo vicio que haga degenerar al individuo.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
 ###### ARTICULO 102.
 
@@ -954,3 +946,19 @@ Quedan derogadas todas las leyes y disposiciones que se opongan a la presente Co
 ###### Artículo 3º.
 
 La presente ley surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 1931.
+
+DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA ESTATAL.
+
+###### Artículo 1o.
+
+Por una sola vez, de los nueve Diputados que resultaren electos para integrar la XXXIV Legislatura, durarán los que representen Distritos de cifra impar, dos años, a fin de normalizar la renovación por mitad.
+
+###### Artículo 2o.
+
+Quedan derogadas todas las leyes y disposiciones que se opongan a la presente Constitución.
+
+###### Artículo 3o.
+
+La presente ley empezará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
