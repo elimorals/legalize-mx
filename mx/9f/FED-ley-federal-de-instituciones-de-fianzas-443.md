@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2003-06-13"
+last_updated: "2004-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -77,7 +77,7 @@ En la aplicación de esta Ley, la mencionada Secretaría con la intervención qu
 
 Las fianzas y los contratos, que en relación con ellas otorguen o celebren las instituciones de fianzas, serán mercantiles para todas las partes que intervengan, ya sea como beneficiarias, solicitantes, fiadas, contrafiadoras u obligadas solidarias, excepción hecha de la garantía hipotecaria.
 
-> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2º. Bis.
 
@@ -99,7 +99,7 @@ Si las autoridades no hacen el requerimiento de información dentro del plazo co
 
 Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 2º. Bis 1.
 
@@ -117,7 +117,7 @@ Tratándose de actos distintos a los señalados anteriormente, las notificacione
 
 Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva deberá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite, el comprobante de pago del servicio respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2º. Bis 2.
 
@@ -2863,7 +2863,7 @@ VIII.- Dentro de los sesenta días siguientes a la última de las publicacione (
 
 > <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
-La Secretaría de Hacienda y Crédito Público dará vista de las reclamaciones al liquidador quien ofrecerá y aportará pruebas y formulará los alegatos que procedan en un término no mayor de treinta días. La Secretaría de Hacienda y Crédito Público dictará resolución de graduación dentro de un plazo no mayor de treinta días a contar de la fecha en que reciba las observaciones del liquidador;
+La Secretaría de Hacienda y Crédito Público dará vista de las reclamaciones al liquidador quien ofrecerá y aportará pruebas y formulará los alegatos que procedan en un término no mayor de treinta días. La Secretaría de Hacienda y Crédito Público dictará resolución de graduación dentro de un plazo no mayor de treinta días a contar de la fecha en que reciba las observaciones del liquidador.
 
 > <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
@@ -3097,27 +3097,57 @@ XXI.- Multa de 200 a 5000 días de salario, si las disposiciones violadas de est
 
 Para proceder penalmente por los delitos previstos en los artículos 112 Bis a 112 Bis 7 y 112 Bis 9 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas; también se procederá a petición de la institución de fianzas ofendida, o de quien tenga interés jurídico.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
-
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 Las multas establecidas para los delitos previstos en esta ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal al momento de realizarse la conducta sancionada. Para determinar el monto de la operación, quebranto o perjuicio patrimonial, en los casos de los delitos previstos en esta ley, se considerará como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las instituciones de fianzas, actos u operaciones, que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes sobre las operaciones y actividades que realicen sus contratantes, fiados, beneficiarios y otros usuarios, por los montos y en los supuestos, que en dichas disposiciones de carácter general se establezcan.
+Las instituciones de fianzas y los agentes de fianzas, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional de Seguros y Fianzas, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de las mencionadas instituciones, que consideren sus condiciones específicas, actividad económica o profesional, los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales y afianzadoras que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias instituciones afianzadoras.
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional de Seguros y Fianzas, reportes sobre:
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
 
-Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las citadas empresas; la violación de las mismas será sancionada por la Comisión Nacional de Seguros y Fianzas con multa equivalente del diez al cien por ciento del acto u operación de que se trate.
+b. Todo acto, operación o servicio, que pudiera ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, directivos, funcionarios, empleados, factores y apoderados.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las instituciones a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente señaladas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las instituciones de fianzas y los agentes de fianzas, deberán observar respecto de:
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas instituciones de fianzas y los agentes de fianzas, deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas instituciones de fianzas y los agentes de fianzas, deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las instituciones de fianzas y los agentes de fianzas, sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las instituciones de fianzas y los agentes de fianzas, deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables. La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional de Seguros y Fianzas, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las instituciones de fianzas y los agentes de fianzas, quienes estarán obligados a proporcionar dicha información y documentación. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual, ni a lo establecido por el artículo 126 de esta Ley, ni a lo dispuesto en materia del secreto propio de las operaciones a que se refiere el artículo 46 fracción XV, en relación con los artículos 117 y 118 de la Ley de Instituciones de Crédito. Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las instituciones de fianzas y los agentes de fianzas, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional de Seguros y Fianzas conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las mencionadas multas podrán ser impuestas, a las instituciones de fianzas y los agentes de fianzas, como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionados (sic) o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión Nacional de Seguros y Fianzas, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en los artículos 82 y 87 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, las instituciones de fianzas y los agentes de fianzas, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -3339,7 +3369,7 @@ VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas f�
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-VII. Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución de fianzas, y
+VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución de fianzas, y
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -4248,3 +4278,7 @@ D.O.F. 13 DE JUNIO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
