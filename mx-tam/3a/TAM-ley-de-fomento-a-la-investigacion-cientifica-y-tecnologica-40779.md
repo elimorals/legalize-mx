@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2004-08-19"
+last_updated: "2005-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -59,7 +59,9 @@ II.- Establecer los mecanismos e instrumentos de coordinación de acciones entre
 
 III.- Establecer y garantizar los medios de vinculación y participación de la comunidad científica y académica de las instituciones de educación superior, de los sectores público, social y privado, así como centros de investigación, para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y la tecnología, así como para la formación de profesionales de la ciencia y la tecnología;
 
-IV.- Vincular la investigación científica y tecnológica con la educación;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2005)</small>
+
+IV.- Vincular la investigación científica y tecnológica con la educación y desarrollo económico del Estado, particularmente los procesos productivos;
 
 V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado; y
 
@@ -243,7 +245,9 @@ IV.- Promover, a través del Consejo, la coordinación y difusión de programas,
 
 1. El Ejecutivo del Estado expedirá el Programa Estatal de Ciencia y Tecnología.
 
-2. La integración, ejecución y evaluación del Programa estará a cargo de la Secretaría de Educación, Cultura y Deporte, a través del Consejo, que para ello deberá sujetarse a las disposiciones de la Ley de Gasto Público, la Ley Estatal de Planeación y la presente ley.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+2. La integración, ejecución y evaluación del Programa estará a cargo de la Secretaría de Desarrollo Económico y del Empleo, a través del Consejo, que para ello deberá sujetarse a las disposiciones de la Ley de Gasto Público, la Ley Estatal de Planeación y la presente ley.
 
 3. El Programa deberá ser congruente con el Plan Estatal de Desarrollo.
 
@@ -253,7 +257,9 @@ IV.- Promover, a través del Consejo, la coordinación y difusión de programas,
 
 2. En dicho proceso se considerarán las propuestas y opiniones vertidas por toda persona interesada, sea física o jurídica.
 
-3. El proyecto de Programa será validado por la Secretaría de Educación, Cultura y Deporte, y su aprobación definitiva corresponde al Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+3. El proyecto de Programa será validado por la Secretaría de Desarrollo Económico y del Empleo, y su aprobación definitiva corresponde al titular del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 16.
 
@@ -263,9 +269,13 @@ I.- La política estatal de apoyo a la ciencia y la tecnología;
 
 II.- El diagnóstico, políticas, estrategias y acciones prioritarias en materia de:
 
-a) investigación científica y tecnológica.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-b) innovación y desarrollo tecnológico.
+a) investigación científica y tecnológica, con el señalamiento de su relación con los procesos productivos.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+b) innovación y desarrollo tecnológico, con el señalamiento de su relación con los procesos productivos.
 
 c) formación e incorporación de investigadores, tecnólogos y profesionales de alto nivel.
 
@@ -285,7 +295,9 @@ IV.- Las orientaciones generales de los instrumentos de apoyo a que se refiere l
 
 1. Para la ejecución del Programa Estatal de Ciencia y Tecnología, las dependencias y entidades de la Administración Pública del Estado formularán anualmente sus programas y sus anteproyectos presupuesto para realizar actividades relacionadas con la investigación científica y tecnológica, tomando en cuenta los lineamientos programáticos y presupuestales que al efecto establezca el Ejecutivo del Estado en estas materias, a fin de asegurar su congruencia con el Programa.
 
-2. La Secretaría de Educación, Cultura y Deporte, en coordinación con el Consejo, consolidará la información programática y presupuestal de dichos anteproyectos para su revisión y análisis integral y de congruencia global, con objeto de integrarla con oportunidad a la Secretaría de Finanzas para la elaboración del anteproyecto de Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+2. La Secretaría de Desarrollo Económico y del Empleo, en coordinación con el Consejo, consolidará la información programática y presupuestal de dichos anteproyectos para su revisión y análisis integral y de congruencia global, con objeto de integrarla con oportunidad a la Secretaría de Finanzas para la elaboración del anteproyecto de Presupuesto de Egresos del Estado.
 
 3. En el proyecto de Presupuesto de Egresos del Estado se consignará la información consolidada de los recursos destinados a ciencia y tecnología.
 
@@ -501,13 +513,19 @@ La investigación científica y tecnológica que apoye el Gobierno del Estado bu
 
 Con el objeto de integrar la investigación y la educación, los centros de investigación y las instituciones de educación superior promoverán, a través de sus ordenamientos internos, que sus académicos de carrera, profesores e investigadores, participen en actividades de enseñanza frente a grupo, de tutores de estudiantes, de investigación o de aplicación innovadora del conocimiento.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
 ###### ARTICULO 43.
 
-El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y procurará apoyar para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación.
+El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y procurará apoyar para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación, el desarrollo industrial y comercial del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 44.
 
-El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Deporte, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles educativos, en particular para la educación básica.
+1. El Gobierno del Estado, a través de la Secretaría de Educación, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles educativos, en particular para la educación básica.
+
+2. Por medio de la Secretaría de Desarrollo Económico y del Empleo, el Gobierno del Estado aplicará las investigaciones científicas y tecnológicas en los procesos productivos, particularmente en los sectores industrial y comercial, a fin de impulsar el desarrollo económico del Estado.
 
 ###### ARTICULO 45.
 
@@ -540,3 +558,15 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticinco días del mes de mayo del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 6 DE ABRIL DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
