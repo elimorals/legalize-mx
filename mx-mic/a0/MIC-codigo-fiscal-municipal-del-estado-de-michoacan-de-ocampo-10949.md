@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-municipal-del-estado-de-michoacan-de-ocampo-10949
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-25"
-last_updated: "1997-08-25"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
-Ley publicada en la Sección Tercera del Periódico Oficial, el lunes 25 de agosto de 1997.
+Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 25 de agosto de 1997.
 
 VICTOR MANUEL TINOCO RUBI Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -33,7 +33,7 @@ El H. Congreso del Estado se ha servido dirigirme el siguiente
 
 DECRETO
 
-EL CONGRESO DE MICHOACAN DE OCAMPO
+EL CONGRESO DE MICHOACÁN DE OCAMPO
 
 DECRETA:
 
@@ -195,9 +195,25 @@ IV.- La indemnización a que se refiere el sexto párrafo del artículo 20 de es
 
 Cuando el contribuyente interponga algún medio de defensa legal, impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado no será aplicable respecto del concepto impugnado y garantizado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 19-A.
+
+El monto de las contribuciones, así como de las devoluciones a cargo del Fisco Municipal derivados de pagos indebidos de las mismas, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el País, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado Indice correspondiente al mes anterior al más antiguo de dicho período.
+
+Las contribuciones, así como las devoluciones a cargo del Fisco Municipal, no se actualizarán por fracción de mes.
+
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no se haya dado a conocer por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 20.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco municipal u organismos descentralizados, por falta de pago oportuno. Dichos recargos se calcularán conforme a la tasa que fije anualmente la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por Ley de Hacienda Municipal del Estado de Michoacán, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, debiéndose pagar además recargos por concepto de indemnización al Fisco Municipal u organismos descentralizados por falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que fije anualmente la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+La actualización a que se refiere el párrafo anterior, se realizará conforme a lo dispuesto por el Artículo 19-A de este Código.
 
 Los recargos se causarán por cada mes o fracción que transcurra a partir del día siguiente a aquél en que debió hacerse el pago y hasta que el mismo se efectúe. Los mencionados recargos se causarán hasta por diez años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución, las multas y honorarios por infracción a las disposiciones fiscales.
 
@@ -221,7 +237,9 @@ Cuando no existan formas aprobadas oficialmente para solicitud de devolución, �
 
 En todo caso, el gestionante de devolución deberá acreditar su personalidad y derecho a solicitarla, en la forma establecida por el artículo 18 de este Código.
 
-Si dentro del plazo a que se refiere el primer párrafo de este artículo no se efectúa la devolución, la autoridad competente deberá pagar intereses conforme a una tasa que será igual a la prevista por la Ley de Ingresos para los Municipios del Estado, para el ejercicio fiscal de que se trate, en concepto de recargos por extemporaneidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+El Fisco Municipal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el Artículo 19-A de este Código, desde el mes en que se realizó el pago de lo indebido hasta aquél en que la devolución esté a disposición del contribuyente. Se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que se le notifique el Acuerdo que autorice la devolución respectiva. Si dentro del plazo a que se refiere el primer párrafo de este artículo no se efectúa la devolución, la Tesorería deberá pagar intereses conforme a una tasa que será igual a la prevista por la Ley de Ingresos para los Municipios del Estado, por concepto de recargos por extemporaneidad para el ejercicio fiscal de que se trate.
 
 Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde la fecha en que venció el plazo para devolver, hasta aquella en que se efectúe la devolución o se pongan las cantidades a disposición del interesado. En ningún caso los intereses a cargo de la Tesorería o de los organismos, excederán de los que se generen en 10 años.
 
@@ -365,19 +383,47 @@ VI.- Tramitar y resolver los recursos e inconformidades que ante ellos se interp
 
 VII.- Las demás que les correspondan conforme a este Código y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 30.
 
-La Tesorería y los organismos, a solicitud de los contribuyentes y usuarios, mediante acuerdo podrá autorizar el pago de contribuciones y sus accesorios a plazos, ya sea diferido o en parcialidades.
+La Tesorería y los organismos, a solicitud de los contribuyentes o usuarios, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año de conformidad con lo siguiente:
 
-Durante el plazo que se conceda, se causarán recargos conforme a la tasa que fije la Ley de Ingresos para los Municipios, que anualmente expida el Congreso del estado.
+Se procederá a actualizar las contribuciones omitidas y las multas que correspondan, conforme a lo dispuesto por el artículo 19-A de este Código. Asimismo se calcularán los recargos, desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquél en que se conceda la autorización, integrándose el crédito fiscal, de la siguiente forma:
 
-La Tesorería y los Organismos, en el acuerdo de autorización de pago a plazos, exigirán de los contribuyentes o usuarios, que se garantice el interés fiscal en cualquiera de las formas que establece el artículo 118 de este Código.
+a).- El monto de las contribuciones omitidas, actualizado desde el mes en que debió hacerse el pago y hasta aquél en que se conceda la autorización;
+
+b).- Las multas que tenga a su cargo el contribuyente;
+
+c).- Los recargos por falta de pago oportuno, desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquél en que se conceda la autorización; y,
+
+d).- Gastos de ejecución por las diligencias de cobro practicadas hasta la fecha en que se conceda la autorización.
+
+Tratándose de multas por infracciones a las disposiciones fiscales, impuestas mediante resoluciones notificadas y no pagadas dentro del plazo concedido, éstas serán actualizadas desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización.
+
+El monto de la primera parcialidad, será el resultado de dividir el total del crédito fiscal integrado conforme a los incisos anteriores, entre el número de parcialidades solicitadas y previo pago de ésta, se aplicará conforme lo dispuesto por el artículo 19-A de este Código.
+
+Al monto del crédito fiscal, disminuida la primera parcialidad, se calculará el monto de los recargos por financiamiento, aplicando la tasa correspondiente que establezca la Ley de Ingresos para los Municipios, durante los meses que comprenda el plazo autorizado, desde la segunda hasta la enésima parcialidad de que se trate.
+
+El crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
+
+El valor de cada parcialidad restante, se determinará dividiendo el monto del crédito expresado en Unidades de Inversión, entre el resto de parcialidades autorizadas.
+
+Tratándose de la autorización de pago a plazo diferido, una vez actualizadas las contribuciones omitidas y las multas que correspondan, en los términos del segundo párrafo de este artículo, se calcularán los recargos por financiamiento durante los meses que comprenda el plazo que se autorice, aplicando la tasa que para este efecto establezca la Ley de Ingresos para los Municipios.
+
+El monto del crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
+
+En la fecha de pago, los montos en Unidades de Inversión se reexpresarán en pesos, conforme al valor que para estos efectos dé a conocer el Banco de México.
+
+No procederá la autorización a que se refiere este artículo, tratándose de aquellas contribuciones que debieron de pagarse en el año de calendario en curso, o de las que debieron pagarse en los seis meses anteriores, al mes en que se solicite la autorización.
+
+La Tesorería, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 118 de este Código.
 
 Quedará insubsistente la autorización de pagar a plazos en forma diferida o en parcialidades, cuando:
 
-I.- Se omita el pago de dos parcialidades sucesivas, dentro de la fecha o plazo fijado en el acuerdo respectivo, en cuyo caso, el contribuyente, estará obligado a pagar recargos al Fisco Municipal por falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos para los Municipios del Estado para el ejercicio de que se trate, en los términos del artículo 20 de este Código;
+I.- Se omita el pago de dos parcialidades sucesivas, dentro de la fecha o plazo fijado en el acuerdo respectivo, en cuyo caso, el contribuyente, estará obligado a pagar recargos al Fisco Municipal, por falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos para los Municipios del Estado, para el ejercicio de que se trate, en los términos del artículo 20 de este Código;
 
-II.- Desaparezca o resulte insuficiente la garantía del Interés Fiscal otorgada, sin que el contribuyente o usuario dé una nueva garantía o amplíe la considerada como insuficiente; y
+II.- Desaparezca o resulte insuficiente la garantía del interés fiscal otorgada, sin que el Contribuyente o usuario de una nueva garantía o amplíe la considerada como insuficiente; y,
 
 III.- El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
 
@@ -605,7 +651,7 @@ La aplicación de las multas por infracciones a las disposiciones fiscales munic
 
 ###### ARTICULO 56.
 
-Son responsables en la comisión de las infracciones previstas en este Código, las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales municipales, incluyendo a los Fedatarios Públicos e Interventores y aquellas que lo hagan fuera de los plazos establecidos.
+Son responsables en la comisión de las infracciones previstas en este Código, las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales municipales, incluyendo a los Fedatarios Públicos, Interventores y aquellas que lo hagan fuera de los plazos establecidos.
 
 Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se le imponga.
 
@@ -762,6 +808,22 @@ Es infracción relacionada con los derechos por suministro de agua potable, alca
 ###### ARTICULO 72.
 
 A quienes cometan la infracción señalada en el artículo anterior, se aplicará una multa equivalente a 1 día de salario mínimo general vigente en el Estado de Michoacán, cuando el periodo de pago sea bimestral y del 50 % de un día de dicho salario, cuando el periodo de pago sea mensual, por periodo omitido.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 72-A.
+
+Son infracciones relacionadas con los derechos por la expedición y renovación o refrendo anual de licencias para establecimientos que expendan bebidas alcohólicas al público en general y por la colocación de anuncios publicitarios, no contar con la licencia respectiva y no efectuar la renovación o refrendo en el plazo que señale la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 72-B.
+
+A quienes cometan las infracciones señaladas en el artículo anterior, se impondrán las multas siguientes:
+
+I.- Tratándose de establecimientos que expendan bebidas alcohólicas al público en general y de la colocación de anuncios, sin las licencias respectivas, por el equivalente a otro tanto de la cuota de derechos que corresponda en cada caso, conforme a la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo; y,
+
+II.- Tratándose de renovación o refrendo anual de licencias, por el equivalente al 50% de las cuotas de derechos que correspondan en cada caso, conforme a la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo.
 
 ### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1726,3 +1788,15 @@ DIPUTADO PRESIDENTE.- JAIME OSEGUERA HERRERA.- DIPUTADO SECRETARIO.- LEONEL VICT
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, ciudad de Morelia, Michoacán, a los 12 doce días del mes de agosto de 1997, mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan aquellas disposiciones en lo que se opongan al presente Decreto.
