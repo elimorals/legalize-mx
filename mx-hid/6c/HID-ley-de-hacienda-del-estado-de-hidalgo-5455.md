@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "2002-12-31"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY ESTATAL DE ESTIMULOS FISCALES PARA EL EJERCICIO FISCAL DE 2003, PUBLICADA EN EL PERIODICO OFICIAL EL 31 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -131,7 +133,7 @@ Servirá de base para el pago del impuesto:
 
 I. El valor de las operaciones que se realicen con los productos o subproductos objeto de este impuesto; y ,
 
-II- El número o volumen de frutos, productos y subproductos agrícolas o ganaderos.
+II. El número o volumen de frutos, productos y subproductos agrícolas o ganaderos.
 
 ( SUSPENDIDO )
 
@@ -2703,7 +2705,7 @@ P.O. 31 DE DICIEMBRE DE 1998.
 
 PRIMERO.- El presente decreto entrará en vigor el día 1. de enero de 1999, previa su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.-Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 1999.
 
@@ -2728,3 +2730,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 31 DE DICIEMBRE DE 2002.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto, entrará en vigor el día primero de enero del año 2004, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Se abroga la Ley de Hacienda para el del Estado de Hidalgo publicada en el Periódico Oficial del Estado de fecha 29 de diciembre de 1990, dentro del Decreto número 20, expedido por la LIV Legislatura Local.
