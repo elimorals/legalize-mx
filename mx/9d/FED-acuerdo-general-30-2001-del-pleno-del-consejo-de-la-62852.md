@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2001-del-pleno-del-consejo-de-la-62852"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-13"
-last_updated: "2001-06-13"
+last_updated: "2001-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62852&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-06"
 
 ACUERDO GENERAL 30/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE JUZGADOS DE DISTRITO EN LOS QUE SE ADSCRIBIRA A LOS EGRESADOS DE LA ESPECIALIDAD EN ADMINISTRACION DE JUSTICIA EN JUZGADOS DE DISTRITO, PRIMERA GENERACION, IMPARTIDA POR EL INSTITUTO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de junio de 2001.
 
@@ -65,6 +65,68 @@ ACUERDO
 
 PRIMERO.- La Comisión de Creación de Nuevos Organos, con apoyo en la documentación que le remita la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará los lugares en donde se hayan creado órganos que estén pendientes de iniciar funciones, donde la carga de trabajo sea excesiva o se presenten problemas de rezago.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 32/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE JUNIO DE 2001, SE ACTUALIZA ALGUNA DE LAS HIPOTESIS SEÑALADAS EN EL PRESENTE PUNTO; MOTIVO POR EL CUAL SE TRANSCRIBE EL REFERIDO PUNTO.</small>
+
+“PRIMERO.- Los Juzgados de Distrito en los que se actualiza alguna de las hipótesis señaladas en el punto primero del Acuerdo General 30/2001, del Consejo de la Judicatura Federal son los siguientes:
+
+1.- Juzgado Primero de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+2.- Juzgado Séptimo de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+3.- Juzgado Octavo de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+4.- Juzgado Primero de Distrito de Amparo en Materia Penal en el Distrito Federal.
+
+5.- Juzgado Segundo de Distrito de Amparo en Materia Penal en el Distrito Federal.
+
+6.- Juzgado Sexto de Distrito de Amparo en Materia Penal en el Distrito Federal.
+
+7.- Juzgado Tercero de Distrito en Materia Administrativa en el Distrito Federal.
+
+8.- Juzgado Octavo de Distrito en Materia Administrativa en el Distrito Federal.
+
+9.- Juzgado Primero de Distrito en Materia de Trabajo en el Distrito Federal.
+
+10.- Juzgado Segundo de Distrito en Materia de Trabajo en el Distrito Federal.
+
+11.- Juzgado Quinto de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
+
+12.- Juzgado Segundo de Distrito en Materia Administrativa en el Estado de Jalisco, con residencia en Guadalajara.
+
+13.- Juzgado Segundo de Distrito en el Estado de Nuevo León, con residencia en Monterrey.
+
+14.- Juzgado Cuarto de Distrito en el Estado de Nuevo León, con residencia en Monterrey.
+
+15.- Juzgado Quinto de Distrito en el Estado de Nuevo León, con residencia en Monterrey.
+
+16.- Juzgado Sexto de Distrito en el Estado de Nuevo León, con residencia en Monterrey.
+
+17.- Juzgado Sexto de Distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+
+18.- Juzgado Segundo de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
+
+19.- Juzgado Quinto de Distrito en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre.
+
+20.- Juzgado Tercero de Distrito en el Estado de Baja California, con residencia en Mexicali.
+
+21.- Juzgado Cuarto de Distrito en el Estado de Baja California, con residencia en Tijuana.
+
+22.- Juzgado Séptimo de Distrito en el Estado de Baja California, con residencia en Tijuana.
+
+23.- Juzgado Cuarto de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+
+24.- Juzgado Quinto de Distrito en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+
+25.- Juzgado Séptimo de Distrito en el Estado de Tamaulipas, con residencia en Reynosa.
+
+26.- Juzgado Primero de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+
+27.- Juzgado Segundo de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+
+28.- Juzgado Primero de Distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic.
+
+29.- Juzgado Segundo de Distrito en el Estado de Quintana Roo, con residencia en Cancún.”
+
 SEGUNDO.- Los Juzgados de Distrito en los que se actualice cualquiera de los supuestos señalados en el punto de acuerdo que antecede, se transformarán temporalmente en JUZGADO DE DISTRITO “A” Y JUZGADO DE DISTRITO “B”, conservando ambos la denominación del órgano jurisdiccional de origen; el primero de ellos estará a cargo del actual titular y el segundo del Juez de Distrito adscrito en forma temporal.
 
 TERCERO.- Los Juzgados de Distrito “A” y “B” se ubicarán en el mismo espacio físico del órgano jurisdiccional de origen y compartirán la misma infraestructura de personal, mobiliario e informática.
@@ -88,3 +150,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor en la fecha de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2001, del Pleno del Consejo de la Judicatura Federal, que determina la Creación Temporal de Juzgados de Distrito en los que se Adscribirá a los Egresados de la Especialidad en Administración de Justicia en Juzgados de Distrito, Primera Generación, impartida por el Instituto de la Judicatura Federal, fue aprobado por el propio Pleno, en sesión de seis de junio de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro, Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a seis de junio de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE JUNIO DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en un diario de circulación de cada una de las Entidades Federativas donde se instalarán los Juzgados de Distrito motivo del presente Acuerdo.
