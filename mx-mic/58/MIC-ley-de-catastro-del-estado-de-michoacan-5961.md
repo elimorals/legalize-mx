@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1989-12-28"
+last_updated: "1990-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -231,21 +231,27 @@ XI. Elaborar los proyectos de valares unitarios de terreno y construcción de pr
 
 Con base en los elementos físicos del predio y datos obtenidos, se formarán y mantendrán actualizados los planos catastrales que se requieran, mediante los procedimientos técnicos que garanticen mayor exactitud, para un conocimiento objetivo de las áreas y demás características del terreno y construcciones que se localicen en un predio.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 9o.
 
-El Congreso del Estado aprobará los valores unitarios de terreno y construcción que servirán de base para determinar el valor catastral.
+El Congreso del Estado aprobará los valores Unitarios de Terreno y Construcción que servirán de base para determinar el valor catastral de los predios del Estado, teniendo como referencia los valores reales al momento de elaborarse el estudio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 10.
 
-Los valores unitarios de terrenos y construcción que sirven de base para la determinación de los valores catastrales, serán actualizados cada año teniendo como referencia los valores reales al momento de elaborarse el estudio.
+Los planos de las poblaciones del Estado, a través de los cuales se asigne el valor unitario del terreno, que apruebe el Congreso, serán actualizados permanentemente por la Tesorería General del Estado, considerando los elementos de desarrollo urbano que modifiquen sus características.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+
+Con base en la actualización a que se refiere el párrafo anterior, se faculta a la Tesorería General del Estado, para que se asignen los valores unitarios de terreno a las nuevas áreas de desarrollo urbano, considerando los valores unitarios aprobados por el Congreso del Estado, para zonas urbanas de desarrollo equivalente en cada población.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 11.
 
-En el supuesto de que al término del período a que se refiere el artículo anterior, no sean aprobados los nuevos valores, los anteriores se actualizarán, en su caso aplicando los factores que fije el Congreso del Estado, para el año de que se trate.
+Los valores unitarios de terreno y construcción que apruebe el Congreso del Estado, conforme al artículo 9o. de esta ley, se actualizarán para aplicarse en el año de que se trate, a lo que resulte de multiplicar los valores vigentes durante el año de calendario anterior, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año, entre el Indice Nacional de Precios al consumidor del mes de noviembre del año precedente, que publique el Banco de México.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -253,7 +259,7 @@ En el supuesto de que al término del período a que se refiere el artículo ant
 
 Los predios podrán revaluarse cuando:
 
-I. El avalúo del predio tenga más de dos años;
+I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
 II. En el predio se hagan construcciones, reconstrucciones o ampliaciones a las ya existentes;
 
@@ -381,7 +387,7 @@ A los Peritos valuadores autorizados por la Tesorería General del Estado que no
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-Asimismo la Tesorería General del Estado podrá celebrar convenios con los Ayuntamientos, para el ejercicio de las facultades de valuación de predios y de notificación de valores catastrales a que se refieren las fracciones IV y V del artículo 7o. de esta Ley, pudiendo los ayuntamientos proponer peritos valuadores que actúen dentro de jurisdicción territorial.
+Asimismo la Tesorería General del Estado podrá celebrar convenios con los Ayuntamientos, para el ejercicio de las facultades de valuación de predios y de notificación de valores catastrales a que se refieren las fracciones IV y V del artículo 7o. de esta Ley, pudiendo los Ayuntamientos proponer peritos valuadores que actúen dentro de jurisdicción territorial.
 
 ### CAPITULO SEXTO. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
 
@@ -621,4 +627,10 @@ P.O. 28 DE DICIEMBRE DE 1989.
 
 ###### ARTICULO UNICO.
 
-El presente decreto entrará en vigor el día 1o. de enero de 1990, previa publicación en el Periódico Oficial del Estado.
+El presente decreto entrara en vigor el día 1o. de enero de 1990, previa publicación en el Periódico Oficial Del Estado.
+
+P.O. 20 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de enero de 1991, previa publicación en el Periódico Oficial del Estado.
