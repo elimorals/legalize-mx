@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1994-07-01"
+last_updated: "1997-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -15987,9 +15987,11 @@ XVII.- En el supuesto previsto en la fracción anterior, si la hipoteca se extin
 
 La hipoteca constituida por testamento, puede tener por objeto mejorar un crédito a cargo del testador, para convertirlo de simple en hipotecario, o bien garantizar un legado, o un crédito que se reconozca por testamento.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 2928.
 
-Puede otorgarse hipoteca para garantir obligaciones civiles consignadas en documentos privados o públicos, y una vez inscrita en el Registro Público de la Propiedad la escritura de hipoteca, debe hacerse una anotación sobre su constitución y registro en el documento que acredite la deuda.
+Puede otorgarse hipoteca para garantizar obligaciones civiles consignadas en documentos privados o públicos, y una vez inscrita en el Registro Público de la Propiedad la escritura de hipoteca, debe hacerse una anotación sobre su constitución y registro en el documento que acredite la deuda, salvo lo previsto en el Artículo 2933.
 
 ###### Artículo 2929.
 
@@ -16018,6 +16020,18 @@ Los actos jurídicos que puedan modificar o destruir la eficacia de una obligaci
 ###### Artículo 2933.
 
 La cesión del crédito hipotecario debe: 1° hacerse constar en escritura pública; 2° notificarse al deudor; y 3° inscribirse en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituida, para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+Las Instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
 
 ###### Artículo 2934.
 
@@ -16375,9 +16389,11 @@ Con los bienes restantes serán pagados los créditos que no estén comprendidos
 
 En cada cabecera de Distrito Judicial del Estado, habrá una oficina que se denominará Registro Público de la Propiedad, y cuando en este capítulo la ley hable de Registro, se entenderá que se refiere al Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 2986.
 
-El reglamento fijará quiénes serán los encargados del Registro Público de la Propiedad, los cuales necesariamente serán abogados titulados, el número de secciones de que se componga y la sección en que deban inscribirse los títulos objeto de registro.
+El reglamento establecerá la organización y funcionamiento del Registro Público de la Propiedad, así como los requisitos que deban reunir los funcionarios responsables de la prestación del servicio registral, quienes necesariamente deberán ser Licenciados en Derecho.
 
 ###### Artículo 2987.
 
@@ -16469,9 +16485,11 @@ II.- Las sentencias y providencias judiciales certificadas legalmente;
 
 III.- Los documentos privados que fueren válidos con arreglo a la ley, si al calce de los mismos, certifica un Notario la autenticidad de las firmas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 2998.
 
-Cada inscripción contendrá:
+Cada inscripción contendrá por lo menos:
 
 I.- Los nombres de los contratantes o del causante y del causahabiente del derecho a que se refiere la inscripción;
 
@@ -16515,7 +16533,9 @@ II.- Si la autoridad judicial ordena que se registre el título rechazado, la in
 
 III.- Si el Juez aprueba la calificación hecha por el Registrador, se cancelará la inscripción preventiva;
 
-IV.- Transcurridos tres meses sin que la autoridad judicial comunique al Registrador la iniciación del procedimiento, para la calificación judicial del título presentado, o dos años sin que se le comunique la calificación que de tal título haya hecho el Juez, en caso de haberse seguido tal procedimiento, a petición de parte interesada el Registrador cancelará la inscripción preventiva.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+IV.- Transcurridos treinta días sin que la autoridad judicial comunique al Registrador la iniciación del procedimiento, para la calificación judicial del título presentado, o un año sin que se le comunique la calificación que de tal título haya hecho el Juez, en caso de haberse seguido tal procedimiento, a petición de parte interesada el Registrador cancelará la inscripción preventiva.
 
 ###### Artículo 3002.
 
@@ -16529,19 +16549,29 @@ El registro producirá sus efectos desde el día y la hora en que el documento s
 
 Las anotaciones preventivas se regirán por las siguientes disposiciones:
 
-I.- El Notario ante quien se pretenda otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, solicitará del Registrador certificado sobre los gravámenes que reporte el bien de que se trate;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+I.- El Notario ante quien se pretende otorgar una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, deberá solicitar del registrador certificado sobre los gravámenes que reporte el bien de que se trate;
 
 II.- Si el bien a que se refiere la fracción anterior es rústico, el Notario pedirá al Registrador constancia de no existir, respecto de dicho bien, solicitud de afectación agraria;
 
 III.- Cuando el bien objeto del contrato proyectado sea urbano, el Notario solicitará del Registrador constancia relativa a las declaratorias de provisiones, usos, reservas y destinos de áreas y predios, conforme a la legislación sobre asentamientos urbanos;
 
-IV.- En la solicitud, el Notario podrá indicar la operación que se proyecta, el inmueble objeto de ésta, los nombres de los futuros contratantes y el antecedente registral, mencionando partida, foja, tomo, libro e índice respectivos;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
 
-V.- La solicitud mencionada surtirá efectos de primer aviso preventivo y el Registrador hará una anotación, en la que se mencione la operación proyectada;
+IV.- En la solicitud, el Notario deberá indicar la operación que se proyecta, el inmueble objeto de ésta, los nombres de los futuros contratantes y el antecedente registral, mencionando partida, foja, tomo, libro, e índice respectivos, o en su caso, el folio correspondiente;
 
-VI.- La anotación a que se refiere la fracción anterior, surtirá efectos durante sesenta días a partir de su fecha;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
 
-VII.- Después de firmada y autorizada una escritura relativa a la operación a que se refieren las fracciones I y IV de este artículo, el Notario que la autorice dará al Registro un segundo aviso preventivo;
+V.- La solicitud mencionada, en la Fracción I, surtirá efectos de primer aviso preventivo y el registrador hará una notación, en la que se mencione la operación proyectada;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+VI.- La anotación a que se refiere la Fracción anterior, surtirá efectos durante sesenta días a partir de la fecha de su presentación;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+VII.- Después de firmada y autorizada una escritura relativa a la operación a que se refieren las Fracciones I y IV de este Artículo, el Notario que la autorice dará al registro un segundo preventivo, cuya vigencia será de noventa días a partir de su presentación;
 
 VIII.- En el segundo aviso preventivo constará el día y la hora del otorgamiento de la escritura, el bien de que se trate, la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él, los nombres de los interesados en la operación, el precio o importe de ésta, el número, fecha de la escritura y de la firma de ésta;
 
@@ -16551,31 +16581,43 @@ X.- El Notario presentará al Registro el testimonio de la escritura a que se re
 
 XI.- Si el Notario cumple lo dispuesto en la fracción anterior, los efectos del registro definitivo se retrotraerán a la fecha de la solicitud mencionada en la fracción I de este artículo; en caso contrario la inscripción surtirá efectos desde la fecha de presentación del testimonio respectivo;
 
-XII.- Las anotaciones preventivas se cancelarán por el Registrador, a solicitud de persona interesada, después de un año a partir de su fecha, si durante ese lapso no se presenta el testimonio correspondiente, para la inscripción definitiva;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
 
-XIII.- Mientras no se cancelen las anotaciones preventivas no podrá hacerse ninguna inscripción, que perjudique el registro de la escritura protegida por aquellas anotaciones;
+XII.- Si transcurridos los términos de vigencia de los avisos preventivos, no se presenta el testimonio correspondiente para su inscripción, las anotaciones preventivas quedarán sin efecto y cualquier interesado podrá solicitar su cancelación;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+XIII.- Mientras no se cancelen las anotaciones preventivas no podrá hacerse ninguna o inscripción, que perjudique los derechos surgidos con motivo de la escritura protegida por aquellas anotaciones;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
 
 XIV.- Las anotaciones deberán hacerse bajo la responsabilidad del Registrador, inmediatamente que reciban en el Registro la solicitud o el segundo aviso preventivo;
 
-XV.- Las anotaciones y su cancelación deberán hacerse sin cobro de derecho alguno y con tinta indeleble.
+XV.- (DEROGADA, P.O. 28 DE FEBRERO DE 1997)
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 3005.
 
-El Registrador es responsable, además de las penas en que pueda incurrir, de los daños y perjuicios que ocasione:
+Los funcionarios y empleados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios que ocasionen;
 
-I.- Si rehusa sin motivo legal o retarda sin causa justificada, la inscripción de los documentos que le sean presentados;
+I.- Si rehusan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que le sean presentados;
 
-II.- Si no expiden dentro de los cinco días hábiles siguientes a la presentación de una solicitud, los certificados que en ella se le pidan;
+II.- Si no expiden dentro de los cinco días hábiles siguientes a la presentación de una solicitud, las certificaciones que en ella se pidan;
 
-III.- Si al extender una certificación omiten o alteran alguno de los datos.
+III.- Si al extender una certificación omiten o alteran cualquiera de los datos contenidos en la misma;
+
+IV.- Si no inscriben o registran el documento presentado en un plazo de veinte días desde la fecha de su presentación, si es que la inscripción procede; y, en el caso de la negativa de inscripción a que se refiere el Artículo 3000, si no comunican de la calificación respectiva en el mismo plazo.
 
 ###### Artículo 3006.
 
 Hecha la inscripción, se devolverán los documentos al interesado, con nota de haberse hecho el registro y los datos que identifiquen éste.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 3007.
 
-El Reglamento establecerá las facultades y deberes del Registrador, las secciones del Registro, los libros que deben llevarse en éste, la forma y demás requisitos que deberán llenar las inscripciones y los certificados, así como las reglas necesarias para el buen funcionamiento de la oficina.
+El reglamento establecerá las atribuciones de los funcionarios y empleados del Registro, así como el sistema registral por medios electrónicos y manuales; la forma y modo de llevar a cabo las inscripciones y expedición de certificados.
 
 #### Sección Segunda.- Condiciones que pueden ponerse en los testamentos
 
@@ -19384,3 +19426,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE JULIO DE 1994.
 
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 1997.
+
+DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES AL CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 1997.
+
+DECRETO QUE REFORMA EL ARTICULO 2928 Y ADICIONA TRES PARRAFOS AL ARTICULO 2933 DEL CODIGO PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
