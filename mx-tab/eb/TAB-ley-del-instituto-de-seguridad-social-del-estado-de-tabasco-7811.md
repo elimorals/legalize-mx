@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-de-seguridad-social-del-estado-de-tabasco-781
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-01"
-last_updated: "1984-08-01"
+last_updated: "1987-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1984.
 
@@ -77,7 +77,9 @@ III.- A los servidores públicos de los organismos descentralizados del Estado, 
 
 IV.- A los familiares beneficiarios del asegurado, jubilado y pensionista que enseguida se mencionan:
 
-a).- La esposa, siempre que no trabaje.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)(F. DE E., P.O. 19 DE DICIEMBRE DE 1987)
+
+a).- La esposa.
 
 b).- El esposo, si está incapacitado físicamente para trabajar y dependa económicamente de la cónyuge.
 
@@ -91,15 +93,23 @@ e).- Los hijos solteros, mayores de dieciocho años, hasta la edad de veinticinc
 
 f).- Los hijos mayores de dieciocho años, incapacitados física o mentalmente, que no puedan trabajar para obtener su subsistencia, que vivan en el hogar de los padres y que dependan económicamente en forma total del asegurado.
 
-g).- El padre físicamente incapacitado para trabajar, la madre si no tiene ingresos; en ambos casos deberán vivir en el hogar del asegurado y depender económicamente en forma total del mismo.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)(F. DE E., P.O. 19 DE DICIEMBRE DE 1987)
+
+g).- El padre Físicamente incapacitado para trabajar y la madre si no tiene ingresos.
 
 Los familiares que se mencionan acreditarán:
 
 1.- Que tienen derecho a la prestación que solicitan en relación con el asegurado o pensionista;
 
-2.- El parentesco y la edad en los términos de la legislación civil, y la dependencia económica mediante informaciones testimoniales; y
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+2.- El parentesco y la edad en los términos de la legislación civil, y la dependencia económica mediante informaciones testimoniales y el resultado de los estudios socioeconómicos realizados por el departamento de trabajo social del Instituto, y
 
 3.- Que no tienen derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+El Instituto podrá ordenar, cuando así lo considere pertinente, la verificación y autenticidad de los documentos y la justificación de los hechos que hayan aportado los derechohabientes para que se les otorguen algunos de los beneficios que concede la presente Ley.
 
 ###### ARTICULO 7o.
 
@@ -107,7 +117,7 @@ La presente Ley no será aplicable:
 
 I.- A las personas que presten sus servicios en los organismos señalados en el Artículo 6o., mediante contrato sujeto a la Legislación civil común o perciban emolumentos con cargo a las partidas de honorarios, o presten sus servicios eventualmente; y
 
-II.- A todos aquellos cuyos cargos sean de elección popular.
+II.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 1987)
 
 ###### ARTICULO 8o.
 
@@ -205,9 +215,11 @@ Los representantes del Gobierno durarán en sus funciones por todo el tiempo que
 
 Los miembros de la Junta Directiva y el Presidente de la Comisión de Vigilancia no percibirán honorario alguno.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 15.
 
-La Junta Directiva celebrará las sesiones que sean necesarias para la buena marcha del Instituto y sus acuerdos se tomarán por mayoría de votos de sus miembros. En caso de empate el Presidente tendrá voto de calidad.
+Para la buena marcha del Instituto, este celebrará sesiones ordinarias cada sesenta días y las extraordinarias cuantas veces sean necesarias, mismas que serán convocadas por el Presidente de la Junta Directiva. Sus acuerdos se tomarán por mayoría de votos de sus miembros. En caso de empate, el Presidente tendrá Voto de Calidad.
 
 ###### ARTICULO 16.
 
@@ -381,11 +393,15 @@ c).- El 0.5% del sueldo base para el seguro de retiro.
 
 d).- El 5.0% del sueldo base para prestaciones económicas, sociales, pensiones y jubilaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 32.
 
-El Estado, los Ayuntamientos y los Organismos Públicos incorporados al Instituto, tienen la obligación de aportar el 12.00 % sobre el sueldo de base de los trabajadores; aportación que se distribuirá en la forma siguiente:
+El Estado, los Ayuntamientos y los Organismos Públicos incorporados al Instituto, tienen la obligación de aportar el 13 % sobre el sueldo base de los trabajadores, aportación que se distribuirá en la forma siguiente:
 
-a).- El 7.0% del sueldo base para prestaciones médicas.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+a).- El 8% del sueldo base para prestaciones médicas.
 
 b).- El 0.5% del sueldo base para el seguro de vida.
 
@@ -435,9 +451,11 @@ El derecho a las pensiones de cualquier naturaleza nace cuando el servidor públ
 
 El Instituto otorgará pensiones a los asegurados, relevándolos de continuar desempeñando su empleo en razón de edad, tiempo de servicio e incapacidad física o mental.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 40.
 
-Las pensiones se tramitarán a solicitud escrita del interesado o por acuerdo expreso de la Junta Directiva, oyéndose siempre al asegurado, en este y se resolverán en un plazo no mayor de 30 días a partir de la fecha en que quede integrado el expediente.
+Las pensiones se tramitarán a solicitud escrita del interesado o por acuerdo expreso de la Junta Directiva, oyéndose siempre al asegurado, y se resolverán en un plazo no mayor de 60 días a partir de la fecha en que quede integrado el expediente.
 
 ###### ARTICULO 41.
 
@@ -475,45 +493,45 @@ Es nula toda enajenación, cesión, o gravamen de las pensiones que esta Ley est
 
 Cuando un servidor público tenga derecho simultáneo a dos o más pensiones de las establecidas en esta Ley, el Instituto le concederá la de mayor cuantía.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 49.
 
-Para los efectos de pago de las pensiones otorgadas por esta Ley, se tomará el promedio del sueldo base disfrutado en los tres años anteriores a la fecha en que se conceda denominándosele sueldo regulador. Para fijar el valor de las pensiones, se establece la siguiente:
+Para los efectos de pago de las pensiones otorgadas por esta Ley, se tomará como base el 85% del ultimo sueldo devengado, a la que se le aplicará la siguiente:
 
-TABLA DE PORCENTAJES
+TABLA DE PORCENTAJES.
 
-AÑOS DE SERVICIO PORCENTAJE DEL
+AÑOS DE SERVICIO PORCENTAJE SOBRE LA BASE
 
-SUELDO REGULADOR
+15 55%
 
-15 50%
+16 58%
 
-16 52%
+17 61%
 
-17 54%
+18 64%
 
-18 56%
+19 67%
 
-19 58%
+20 70%
 
-20 60%
+21 73%
 
-21 63%
+22 76%
 
-22 66%
+23 79%
 
-23 69%
+24 82%
 
-24 72%
+25 85%
 
-25 75%
+26 88%
 
-26 79%
+27 91%
 
-27 84%
+28 94%
 
-28 89%
-
-29 94%
+29 97%
 
 30 100%
 
@@ -527,13 +545,17 @@ Las pensiones se extinguen con la muerte del pensionado y se genera el pago de l
 
 ### CAPITULO VII. JUBILACION
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 52.
 
-Tienen derecho a la jubilación los servidores públicos, con 30 o más años de servicio, siempre que hayan contribuido normalmente a la Dirección de Pensiones Civiles del Estado desde el 1º. de julio de 1960, y continúen aportando al Instituto, en los términos de la Ley, cualquiera que sea su edad.
+Tienen derecho a la jubilación los servidores públicos con 30 o más años de servicio si son hombres, y 25 o más años de servicio si son mujeres, siempre y cuando hayan contribuido normalmente a la anterior Dirección de Pensiones Civiles del Estado, y continúen aportando al Instituto, en los términos de la Ley, cualquiera que sea su edad.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 53.
 
-La jubilación dará derecho al pago de una pensión equivalente al 100 % del sueldo regulador y su percepción será a partir del día siguiente a aquel en que el trabajador hubiese disfrutado del ultimo sueldo por haber causado baja; en ningún caso será inferior al 80 % del salario mínimo de la zona vigente a la fecha referida.
+La jubilación dará derecho al pago de una pensión equivalente al último sueldo base devengado, en la fecha que éste comience a percibirse; esto es, a partir del día siguiente a aquel en que el trabajador haya causado baja, que se incrementará de conformidad con los aumentos que tenga el salario mínimo general vigente en la zona.
 
 ### CAPITULO VIII. PENSION POR VEJEZ
 
@@ -555,43 +577,45 @@ El derecho al pago de esta pensión será a partir del último sueldo cobrado al
 
 La pensión por invalidez se otorgará a los servidores públicos por pérdida de las facultades físicas y mentales necesarias para el desempeño normal de su cargo o empleo, resultante de accidentes de trabajo o enfermedades profesionales; en estos casos la pensión será el 100% del último sueldo que haya disfrutado el asegurado.
 
-Si la invalidez proviene de otras causas y el asegurado contribuyó por 15 años o más tendrá derecho a pensión por invalidez conforme a esta Tabla:
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+Si la invalidez proviene de otras causas y el asegurado contribuyó por 15 años o más tendrá derecho a pensión por invalidez, conforme a esta Tabla:
 
 TABLA DE PORCENTAJES
 
-AÑOS DE SERVICIO PORCENTAJE DEL
+AÑOS DE SERVICIO: PORCENTAJE DEL
 
 ULTIMO SUELDO
 
-15 50%
+15 55%
 
-16 52%
+16 58%
 
-17 54%
+17 61%
 
-18 56%
+18 64%
 
-19 58%
+19 67%
 
-20 60%
+20 70%
 
-21 63%
+21 73%
 
-22 66%
+22 76%
 
-23 69%
+23 79%
 
-24 72%
+24 82%
 
-25 75%
+25 85%
 
-26 79%
+26 88%
 
-27 84%
+27 91%
 
-28 89%
+28 94%
 
-29 94%
+29 97%
 
 30 100%
 
@@ -661,13 +685,17 @@ IV.- A falta de las personas a las que se refiere (sic) las tres fracciones ante
 
 El monto de las pensiones se calculará aplicando las siguientes reglas:
 
-I.- Cuando el servidor público fallezca después de quince años de servicio, la pensión será equivalente en el primer año a lo que hubiese correspondido en los términos del Artículo 49 de este Ordenamiento y durante los años sucesivos se disminuirá en un 10% hasta reducirla al cincuenta por ciento de la cifra inicial.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-II.- Al fallecer un jubilado o un pensionado por vejez o invalidez, sus deudos en el orden establecido por esta Ley, continuarán percibiendo pensión:
+I.- Cuando el servidor público fallezca después de quince años de servicio, la pensión se otorgará en los términos del artículo 49 de este ordenamiento, y
 
-a).- El ochenta por ciento del monto original durante el primer año.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-b).- Del segundo año en adelante se irá disminuyendo un 10% y así sucesivamente hasta llegar a la mitad de la pensión original.
+II.- Al fallecer el jubilado o pensionado por vejez o invalidez, sus deudos en el orden establecido por esta Ley, continuarán percibiendo esta pensión.
+
+a).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1987)
+
+b).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1987)
 
 ###### ARTICULO 68.
 
@@ -747,9 +775,11 @@ Para que exista el derecho a las prestaciones que se establecen en este seguro s
 
 D).- CONSERVACION DE DERECHOS
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 82.
 
-El servidor público dado de baja por cese o renuncia, pero que haya prestado sus servicios ininterrumpidos inmediatamente antes de la separación durante un mínimo de seis meses, conservará durante dos meses siguientes a la misma, el derecho a recibir las prestaciones médicas anteriores. Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes.
+El servidor público dado de baja, por cese o renuncia, pero que haya prestado sus servicios ininterrumpidos inmediatamente antes de la separación, durante un mínimo de seis meses, conservará durante los cuatro meses siguientes a la misma, el derecho a recibir las prestaciones médicas anteriores. Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes.
 
 E).- SEGURO POR ACCIDENTE DE TRABAJO Y ENFERMEDADES PROFESIONALES
 
@@ -829,43 +859,59 @@ Los servidores públicos que causen baja en el servicio, ya sea por jubilación 
 
 Los beneficios de este seguro se otorgarán en los casos siguientes:
 
-a).- El servidor que cause baja definitiva por haber cumplido 30 o más años de servicio e igual tiempo de aportación al Instituto recibirá la suma de $100,000.00.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-b).- Al servidor que cause baja definitiva y haya trabajado de 15 a 29 años y con igual tiempo de aportación al Instituto se le entregará el importe del seguro conforme a la siguiente tabla:
+a).- El servidor público que cause baja definitiva por haber cumplido 30 o más años de servicio, si son hombres y 25 años si son mujeres, e igual tiempo de aportación al Instituto en la forma señalada en el artículo 52 de esta Ley, recibirá la suma equivalente a ciento cincuenta días de salario mínimo vigente en el Estado.
 
-AÑOS DE SERVICIO MONTO DEL BENEFICIO
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)(F. DE E., P.O. 19 DE DICIEMBRE DE 1987)
 
-15 $ 40,000.00
+b).- Al servidor público que cause baja definitiva y haya trabajado de 10 a 29 años y con igual tiempo de aportación al Instituto en los términos del artículo 52 de esta Ley, se le entregará el importe del seguro conforme a la siguiente tabla de porcentajes tomando como base el monto señalado en el inciso a):
 
-16 $ 42,500.00
+AÑOS DE SERVICIO PORCENTAJE
 
-17 $ 45,000.00
+10 40%
 
-18 $ 47,500.00
+11 43%
 
-19 $ 50,000.00
+12 46%
 
-20 $ 52,500.00
+13 49%
 
-21 $ 55,000.00
+14 52%
 
-22 $ 60,000.00
+15 55%
 
-23 $ 65,000.00
+16 58%
 
-24 $ 70,000.00
+17 61%
 
-25 $ 75,000.00
+18 64%
 
-26 $ 80,000.00
+19 67%
 
-27 $ 85,000.00
+20 70%
 
-28 $ 90,000.00
+21 73%
 
-29 $ 95,000.00
+22 76%
 
-c).- El servidor que cause baja definitiva por incapacidad total permanente originada por accidente de trabajo o por enfermedad profesional en los términos de esta Ley, sin considerar la edad ni el tiempo de servicio, recibirá la suma de $100,000.00.
+23 79%
+
+24 82%
+
+25 85%
+
+26 88%
+
+27 91%
+
+28 94%
+
+29 97%
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+c).- El servidor que cause baja definitiva por incapacidad total o permanente, originada por accidente de trabajo o por enfermedad profesional, en los términos de esta Ley, sin considerar la edad ni el tiempo de servicio, recibirá el monto señalado en el inciso a).
 
 d).- El servidor que cause baja por invalidez total permanente a consecuencia de enfermedad o accidente por causas ajenas al servicio en los términos de esta Ley, sin considerar su edad, se le otorgará la suma que le corresponda conforme a la tabla del inciso b).
 
@@ -879,9 +925,17 @@ B).- SEGURO PARA PAGO DE FUNERALES
 
 Los beneficiarios del asegurado que fallezca tendrán derecho a cobrar el seguro para pago de funerales, conforme a los montos y requisitos que en este artículo se enumeran, los que serán revisables anualmente por la Junta Directiva a fin de adecuarlos a las condiciones económicas existentes en la Entidad:
 
-a).- Hasta la cantidad de $50,000.00 siempre que el asegurado haya prestado servicios por 5 años e igual término de contribución al fondo del Instituto.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-b).- Hasta la cantidad de $30,000.00 cuando el asegurado haya prestado servicios por tiempo mayor de 2 años pero menor de 5 e igual lapso de aportación al Instituto.
+a).- Hasta un monto equivalente a cien veces el salario mínimo vigente en el Estado, siempre que el asegurado haya prestado servicios por 5 años e igual término de contribución al fondo del Instituto.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+b).- Hasta un monto equivalente a sesenta veces el salario mínimo vigente en el Estado cuando el asegurado haya prestado servicios por tiempo mayor de 2 años pero menor de 5 años e igual lapso de aportación al Instituto, y
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+c).- Hasta un monto equivalente a treinta veces el salario mínimo vigente en el Estado, cuando el trabajador haya prestado servicios por un tiempo de seis meses, pero menor de 2 años e igual lapso de aportación al Instituto.
 
 ###### ARTICULO 95.
 
@@ -893,17 +947,15 @@ No habiendo beneficiarios del servidor público o persona que se hubiese hecho c
 
 C).- SEGURO DE VIDA
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 97.
 
-El seguro de vida consistirá en el pago a los beneficiarios del asegurado, del equivalente a 300 días de salario mínimo vigente en la fecha del deceso en caso de muerte natural y de 600 días de salario mínimo vigente, si ocurriese por accidente de trabajo o cualquier otra causa violenta, de 720,000.00 por muerte colectiva siempre que la muerte no sea consecuencia de un delito intencional imputable a los beneficiarios en términos de las leyes relativas.
-
-Los pensionados y jubilados podrán acogerse a este beneficio mediante el pago de las aportaciones correspondientes, sin que exista derecho a su devolución.
-
-Serán beneficiarios de esta prestación las personas que señale el asegurado en carta testamentaria conforme a la proporción que él disponga; a falta de esta disposición se estará al orden señalado en el Artículo 6o. fracción IV de esta Ley.
+El seguro de vida consistirá en el pago, a los beneficiarios del asegurado, del equivalente a 400 días de salario mínimo vigente, en la fecha del deceso en caso de muerte natural; de 600 días de salario mínimo vigente, si ocurriese por accidente de trabajo o cualquier otra causa violenta y de 600 veces el salario mínimo vigente en el Estado, por muerte colectiva, siempre que la muerte no sea consecuencia de un delito intencional imputable a los beneficiarios en los términos de las leyes respectivas.
 
 ###### ARTICULO 98.
 
-La edad límite para ser beneficiario de este seguro será de 60 años a excepción de los pensionados y jubilados que paguen las aportaciones a que se refiere el artículo anterior.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 1987)
 
 ### CAPITULO XIII. PRESTACIONES ECONOMICAS
 
@@ -921,11 +973,11 @@ Los préstamos se otorgarán de acuerdo a las normas establecidas en esta Ley en
 
 a).- Préstamos a corto plazo, hasta por 6 meses de sueldo base;
 
-b).- Préstamo hipotecario hasta por la cantidad de $ 500,000.00 sin que el acreditado tenga necesidad de justificar el destino del préstamo.
+b).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 1987)
 
-Este contrato se constituirá en documento privado firmado por el Instituto y el acreditado y será inscrito en el Registro Público de la Propiedad y del Comercio sin que cause el pago de derechos o impuestos al Estado;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-c).- Préstamo hipotecario, hasta por 2 millones de pesos, que se proporcionarán en partidas mediante estimaciones y para los fines previstos en esta misma Ley.
+c).- Préstamo hipotecario hasta por un monto equivalente a dos mil días de salario mínimo vigente en la zona, que se proporcionará en partidas mediante estimaciones y para los fines previstos en esta misma Ley.
 
 ###### ARTICULO 102.
 
@@ -983,9 +1035,11 @@ más de 5 años 6 meses
 
 Los jubilados y pensionados gozarán de estos beneficios conforme a los acuerdos generales de la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 110.
 
-Los préstamos a corto plazo causarán un interés del 12% anual, calculado sobre el capital.
+Los préstamos a corto plazo causarán un interés del 16% anual, calculado sobre el capital.
 
 ###### ARTICULO 111.
 
@@ -997,9 +1051,11 @@ Mientras el Fondo de Garantía no tenga suficiente reserva para hacer frente a l
 
 Los adeudos que no fueren cubiertos por los asegurados a su vencimiento, se cargarán al fondo de garantía, siendo exigible el crédito contra el deudor o codeudor, pudiendo el Instituto acudir a los medios legales para hacerlo efectivo, debiendo abonar a dicho fondo las cantidades que se recuperen.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 113.
 
-No se concederá nuevo préstamo mientras permanezca insoluto el anterior; solamente podrá renovarse cuando se haya liquidado la tercera parte de dicho préstamo, y siempre que el deudor pague la prima de renovación que por medio de acuerdo fije la Junta Directiva.
+No se concederá nuevo préstamo mientras permanezca insoluto el anterior, solamente podrá renovarse cuando se haya liquidado el 50% de dicho préstamo y siempre que el deudor pague la prima de renovación.
 
 ###### ARTICULO 114.
 
@@ -1019,7 +1075,7 @@ III.- Mejoras o reparaciones de la casa habitación del beneficiado;
 
 IV.- Liquidación de gravámenes que afecten el inmueble.
 
-Cuando el préstamo hipotecario no exceda de $500,000.00 el acreditado no necesita justificar el destino del préstamo y se formalizará en los términos previstos en esta Ley.
+(DEROGADO PENULTIMO PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)(F. DE E., 13 DE FEBRERO DE 1988)
 
 Los jubilados y pensionados gozarán de los beneficios que establece este artículo de acuerdo con los lineamientos que dicte la Junta Directiva.
 
@@ -1035,9 +1091,11 @@ Las cantidades que se autoricen no deberán exceder del monto establecido en el 
 
 El préstamo no excederá del 90% del avalúo Bancario solicitado por el Instituto, cuando se trate de adquisición de inmuebles o demás actos relacionados con ellos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 119.
 
-Los préstamos hipotecarios que se otorguen causarán el 13% del interés anual sobre saldos insolutos. El Fondo de garantía será de 1 al millar sobre el capital insoluto y tendrá por objetivo liquidar y cancelar el adeudo en caso de fallecimiento del asegurado, en beneficio de sus familiares o la persona con mayor derecho.
+Los préstamos hipotecarios que se otorguen, causarán el 20% del interés anual sobre saldos insolutos. El fondo de garantía será de 1 al millar sobre el capital insoluto y tendrá por objetivo liquidar y cancelar el adeudo en caso de fallecimiento del asegurado en beneficio de sus familiares o la persona con mayor derecho.
 
 ###### ARTICULO 120.
 
@@ -1083,15 +1141,11 @@ VII.- Los pensionistas gozarán de los beneficios de este artículo en los térm
 
 El Instituto estará facultado igualmente para adquirir o urbanizar terrenos, destinados a formar unidades de habitación y servicios sociales en favor de sus afiliados.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 126.
 
-Cuando el Instituto construya inmuebles con fondos propios, el plazo para pagar su importe no excederá de quince años, con el interés del 13% anual sobre saldos insolutos.
-
-El interés se aumentará al que marca la Comisión Nacional Bancaria, para este tipo de prestación, sobre los saldos insolutos en los casos que el comprador pierda la calidad de sujeto de esta Ley.
-
-Cuando los inmuebles los construya el Instituto con dinero ajeno, la Junta Directiva, fijará el plazo que estime conveniente para su pago y tasas de interés.
-
-Los pagos parciales mensuales destinados a amortizar capital e interés se descontarán de las percepciones que reciban los compradores a cambio de sus servicios en los organismos contribuyentes o de su pensión.
+Cuando el Instituto construya inmuebles con fondos propios, el plazo para pagar su importe no excederá de 15 años, con el interés del 20% anual sobre saldos insolutos.
 
 ###### ARTICULO 127.
 
@@ -1240,3 +1294,11 @@ ENRIQUE GONZALEZ PEDRERO
 LIC. JOSÉ EDUARDO BELTRAN HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 1987.
+
+PRIMERO.- Este DECRETO entrará en vigor a los tres días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan las disposiciones del presente DECRETO.
