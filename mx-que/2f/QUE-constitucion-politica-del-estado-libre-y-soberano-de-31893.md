@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1928-01-05"
+last_updated: "1928-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 1928.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -40,6 +40,14 @@ del Estado Libre y Soberano de Querétaro Arteaga
 ### CAPITULO I
 
 Del Estado y territorio del mismo.
+
+###### ARTICULO 1°.
+
+Lo dispuesto en los artículos 31, 32 y 48 comenzará a regir al verificarse las elecciones para integrar la XXIX Legislatura.
+
+###### ARTICULO 2°.
+
+Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
 
 ## TITULO SEGUNDO
 
@@ -247,13 +255,17 @@ Los Poderes Públicos del Estado sólo podrán hacer aquello para lo que expresa
 
 Del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 31.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "Legislatura del Estado." Esta se compondrá de representantes del pueblo, que serán electos en su totalidad cada dos años, directamente por aquél.
+El Poder Legislativo se deposita en una Asamblea que se denominará "LEGISLATURA DEL ESTADO". Esta se compondrá de representantes del pueblo, que serán electos en su totalidad cada cuatro años, directamente por aquél.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
 
 ###### Art. 32.
 
-Por cada diez y seis(sic) mil habitantes de cualquier sexo y edad, o fracción mayor de ocho mil habitantes, se nombrará un Diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de quince propietarios y quince suplentes.
+Por cada cuarenta mil habitantes de cualquier sexo y edad, o fracción mayor de veinte mil, en cada uno de los Municipios que forman el Estado, se elegirá un diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de siete propietarios y siete suplentes, para todo el Estado, y su remuneración no será mayor de doce pesos diarios, cualquiera que sea la denominación que ella tenga.
 
 ###### Art. 33.
 
@@ -319,9 +331,11 @@ de sus sesiones.
 
 La Legislatura del Estado se instalará el día 14 de septiembre, y el 16 del mismo mes del año que corresponda, abrirá su período de sesiones. En los casos de sesiones extraordinarias, el día que se fije en la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 42.
 
-La Legislatura tendrá cada año dos períodos de sesiones; el primero comenzará el 16 de septiembre y terminará el 15 de diciembre, prorrogable hasta por un mes, y el segundo improrrogable, comenzará el 1° de mayo y terminará el último de junio.
+La Legislatura tendrá cada año dos períodos de sesiones; el primero comenzará el día 16 de septiembre y terminará el 15 de enero; el segundo comenzará el día 1° de abril y terminará el 31 de julio.
 
 ###### Art. 43.
 
@@ -343,9 +357,11 @@ La Legislatura deberá residir en la capital del Estado.
 
 En caso de trastornos graves del orden público o de cualquiera otra calamidad, el Gobernador, con aprobación de la Legislatura, y en sus recesos, de la Diputación Permanente, podrá establecer la residencia provisional de los Poderes en otro lugar.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 48.
 
-La Legislatura no podrá instalarse ni funcionar, sin la concurrencia de más de la mitad del número total de sus miembros.
+La Legislatura no podrá instalarse ni funcionar sin la concurrencia de las dos terceras partes del número total de sus miembros.
 
 ###### Art. 49.
 
@@ -521,7 +537,9 @@ XXXVII.- Otorga o no concesiones a las compañías o particulares que lo solicit
 
 XXXVIII.- Revisar la Ley de Ingresos Municipales, y decretar la Ley General Orgánica de los Municipios;
 
-XXXIX.- Llamar a los Diputados suplentes, en caso de imposibilidad o muerte de los propietarios; y si aquellos también hubieres fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios, expedir la convocatoria respectiva para que procedan a nueva elección el Distrito o Distritos Electorales respectivos;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
+XXXIX.- Llamar a los diputados suplentes, en caso de imposibilidad o muerte de los propietarios; y si aquéllos también hubieren fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios o no concurrieren a diez sesiones consecutivas, sin causa justificada a juicio de la Legislatura, expedir la convocatoria respectiva para que procedan a nueva elección el Distrito o Distritos Electorales respectivos;
 
 XL.- Expedir todas las leyes que sean necesarias y propias para hacer efectivas las facultades antecedentes, y todas las que por esta Constitución y la Federal se le conceden:
 
@@ -544,6 +562,10 @@ V.- Declararse disuelta en ningún caso;
 VI.- Otorgar dispensas de los estudios que determinen las leyes de Instrucción Pública, para el objeto de obtener un título profesional;
 
 VII.- Conceder, ni investirse en ningún caso, de facultades extraordinarias; fuera de las señaladas por esta Constitución.
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
+VIII.- Condonar contribuciones a los causantes que no las hayan cubierto oportunamente salvo en el caso de una calamidad pública.
 
 ###### Art. 65.
 
@@ -661,9 +683,11 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 V.- Tener antecedentes intachables de moralidad.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 107.
 
-Será Presidente del Tribunal el Magistrado propietario que resulte electo para ese cargo por la misma Corporación, debiendo computarse también el voto del Procurador de Justicia. El Presidente del Tribunal será renovado cada año pudiendo ser reelecto, y sus faltas temporales serán suplidas precisamente por uno de los otros dos Magistrados propietarios, designado en la misma forma que el anterior.
+Será Presidente del Tribunal el Magistrado de la Tercera Sala; pero si este faltare, lo será el Magistrado propietario que resulte electo para ese cargo por la misma Corporación, debiendo computarse también el voto del Procurador de Justicia.
 
 ###### Art. 108.
 
@@ -763,9 +787,11 @@ Ejercen las funciones del Ministerio Público en el Estado, el Procurador Genera
 
 Para ser Procurador de Justicia se necesitan los mismos requisitos que para ser Magistrado del Tribunal Superior.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 120.
 
-Para ser Agente del Ministerio Público se necesitan los mismos requisitos que señala el artículo 114.
+Para ser Agente del Ministerio Público en la capital del Estado, se necesitan los mismos requisitos que señala el artículo 113.
 
 ###### Art. 121.
 
@@ -967,9 +993,13 @@ El Contador General de Hacienda, en los términos que señale el Reglamento resp
 
 De las Responsabilidades.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 154.
 
-Todos los funcionarios del Estado y Municipales, serán responsables de los delitos del orden común, que cometan durante el tiempo de su encargo, o hubieren cometido antes de él, así como por los delitos o faltas oficiales en que incurrieren durante su ejercicio. Lo es también el Gobernador del Estado; pero durante el período de su duración, sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución General o de la particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
+Todos los Funcionarios del Estado y Municipales, serán responsables de los delitos del orden común que cometan durante el tiempo de su encargo, o hubieren cometido antes de él, así como por los delitos o faltas oficiales en que incurrieren durante su ejercicio. Lo es también el Gobernador del Estado; pero durante el período de su cargo solamente podrá ser acusado o desaforado por el delito de traición a la Patria.
+
+Cualquiera otra responsabilidad que le resulte por la comisión de delitos oficiales o del orden común, que cometiere durante su ejercicio, no podrá motivar acusación ni desafuero en su contra y sólo podrá exigírsele dentro de un año contado desde la fecha en que concluyó el período para el cual fue electo.
 
 ###### Art. 155.
 
@@ -1079,7 +1109,9 @@ II.- Ser ciudadano del Estado por nacimiento, o con vecindad no menor de cinco a
 
 III.- Tener cuarenta años cumplidos el día de la elección;
 
-IV.- No desempeñar ningún cargo público en el Estado, ya dependa de éste o de la Federación, ni tener mando de fuerzas en el Estado; al menos, en todos estos casos, que se separe definitivamente de su empleo o encargo, noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
+IV.- No tener mando de fuerzas en el Estado, a menos que se separe definitivamente de su empleo o cargo, noventa días antes de la elección. Esta prohibición es aplicable a los gobernadores interinos.
 
 V.- No haber figurado, directa ni indirectamente, en alguna asonada, motín o cuartelazo;
 
@@ -1129,9 +1161,11 @@ Si al comenzar un período constitucional, no se presentare el Gobernador electo
 
 En los casos de los cuatro artículos que anteceden, al faltar definitivamente el Gobernador, quedará investido provisionalmente de este cargo, el Presidente del Tribunal Superior de Justicia, para sólo el efecto de promulgar el decreto por el cual se nombra Gobernador interino o provisional, en sus respectivos casos.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 88.
 
-Cuando la falta fuere temporal, la Legislatura, o en su defecto la Diputación Permanente, designará desde luego un Gobernador interino que funcione por el tiempo que dure dicha falta.
+Cuando la falta fuere temporal y no exceda de treinta días, le suplirá por Ministerio de la Ley el Secretario General de Gobierno, siempre que reúna los requisitos que señala la Constitución para ser Gobernador; en caso contrario la Legislatura o en su defecto lo (sic) Diputación Permanente designará desde luego un Gobernador Interino que funcione por el tiempo que dure dicha falta.
 
 ###### Art. 89.
 
@@ -1237,6 +1271,10 @@ X.- Promulgar leyes, decretos y reglamentos, o expedir órdenes de pago, sin que
 
 XI.- Investirse de facultades que no le señale expresamente la ley;
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
+XII.- Condonar contribuciones a los causantes que no las hayan cubierto oportunamente, con excepción de los casos de insolvencia o cuando por fuerza mayor, la propiedad o propiedades de causantes hubieren estado substraídas a su dominio. También en casos excepcionales y a su juicio, podrá condonar las multas y recargos en que se haya incurrido por no haber cubierto oportunamente las contribuciones de que se trata.
+
 La infracción de las disposiciones de este artículo será causa de responsabilidad.
 
 Del Secretario de Gobierno
@@ -1285,17 +1323,17 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1923)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se divide en siete municipalidades, que son: Amealco, Cadereyta de Montes, Colón, Jalpan, Querétaro, San Juan del Río y Tolimán.
+El territorio del Estado se dividirá en seis municipalidades que son: Amealco, Cadereyta, Jalpan, Querétaro, San Juan del Río y Tolimán.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1923)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
 
 ###### Art. 3°.
 
-Las municipalidades mencionadas en el artículo anterior, tendrán la extensión y límites que para el efecto se señale en la Ley Orgánica del Municipio Libre, siendo las cabeceras de esas municipalidades las poblaciones de sus mismos nombres.
+Las municipalidades mencionadas en el artículo anterior conservarán la misma extensión y límites que para el efecto señala la Ley Orgánica del Municipio Libre, siendo las cabeceras de esas municipalidades las poblaciones de sus mismos nombres.
 
 ###### Art. 3º.
 
@@ -1358,6 +1396,8 @@ Esta Ley comenzará a regir desde la fecha de su publicación.
 P.O. 5 DE ENERO DE 1928
 
 UNICO.- Esta Ley comenzará a regir el día 1° de enero de 1928.
+
+P.O. 27 DE SEPTIEMBRE DE 1928
 
 ###### Art. 2º.
 
