@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-de-fiscalizacion-de-los-3576
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2004-07-05"
+last_updated: "2004-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA COMISION DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2004.
+
+Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -151,7 +153,7 @@ La Comisión a fin de desempeñar sus funciones, contará con los siguientes ór
 
 I. Un Auditor Interno; y
 
-II. Jefatura de Monitoreo.
+II. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2004)
 
 Estos órganos técnicos serán parte integrante del Servicio Profesional Estatal Electoral.
 
@@ -247,19 +249,9 @@ X. Elaborar los proyectos de dictamen, a efecto de que la Comisión los apruebe;
 
 XI. Todas aquellas que le sean encomendadas por el Presidente o el Secretario de la Comisión.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2004)</small>
-
 ###### ARTICULO 16 Bis.
 
-La Jefatura de monitoreo realizará sus actividades orientándolas básicamente al registro y verificación, de la transmisión y publicación de la propaganda y publicidad' en los medios de comunicación de los Partidos Políticos de manera permanente y tendrá las siguientes funciones:
-
-I. Realizar los monitoreos de los tiempos de transmisiones de la propaganda y publicidad de los diversos Partidos Políticos y Coaliciones, en su caso, en radio, televisión, internet y prensa escrita, tanto en año electoral como en año no electoral;
-
-II. Elaborar reportes semanales de los monitoreos y remitirlos al auditor interno de la comisión;
-
-III. Instrumentar los proyectos de programas anuales de monitoreo, para su aprobación por la Comisión; y
-
-IV. Todas aquellas que le sean encomendadas por el presidente de la Comisión o el secretario de la misma.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2004)
 
 ### CAPITULO V. De los Auditores Externos de la Comisión
 
@@ -362,3 +354,15 @@ SEGUNDO El presente Acuerdo entrará en vigor a partir del día siguiente de su 
 TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
 
 CUARTO. Ordénese la publicación del presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes, conforme a lo establecido en la fracción VII del artículo 73.
+
+P.O. 6 DE DICIEMBRE DE 2004.
+
+POR SU TRASCENDENCIA, SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE MODIFICA EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueba la derogación de la fracción II del artículo 11, así como el numeral 16 Bis del Reglamento Interior de la Comisión de Fiscalización de los Partidos Políticos, en términos de lo señalado en los considerandos CUARTO y QUINTO del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en los estrados de este Instituto Estatal Electoral, de conformidad con lo establecido por el párrafo tercero del artículo 38 del Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral.
+
+TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
+
+CUARTO. Ordénese la publicación del presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
