@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1992-07-21"
+last_updated: "1993-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1993.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -81,159 +81,165 @@ Los Municipios integrantes del Estado de Guerrero son:
 
 1.- Acapulco de Juárez
 
-2.- Ahuacuotzingo
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1993)</small>
 
-3.- Ajuchitlán del Progreso
+2.- Acatepec
 
-4.- Alcozauca de Guerrero
+3.- Ahuacuotzingo
 
-5.- Alpoyeca
+4.- Ajuchitlán del Progreso
 
-6.- Apaxtla
+5.- Alcozauca de Guerrero
 
-7.- Arcelia
+6.- Alpoyeca
 
-8.- Atenango del Río
+7.- Apaxtla
 
-9.- Atlamajalcingo del Monte
+8.- Arcelia
 
-10.- Atlixtac
+9.- Atenango del Río
 
-11.- Atoyac de Alvarez
+10.- Atlamajalcingo del Monte
 
-12.- Ayutla de los Libres
+11.- Atlixtac
 
-13.- Azoyú
+12.- Atoyac de Alvarez
 
-14.- Buenavista de Cuéllar
+13.- Ayutla de los Libres
 
-15.- Benito Juárez
+14.- Azoyú
+
+15.- Buenavista de Cuéllar
+
+16.- Benito Juárez
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1988)</small>
 
-16.- Coahuayutla de José María Izazaga
+17.- Coahuayutla de José María Izazaga
 
-17.- Cocula
+18.- Cocula
 
-18.- Copala
+19.- Copala
 
-19.- Copalillo
+20.- Copalillo
 
-20.- Copanatoyac
+21.- Copanatoyac
 
-21.- Coyuca de Benítez
+22.- Coyuca de Benítez
 
-22.- Coyuca de Catalán
+23.- Coyuca de Catalán
 
-23.- Cuajinicuilapa
+24.- Cuajinicuilapa
 
-24.- Cualac
+25.- Cualac
 
-25.- Cuauhtepec
+26.- Cuauhtepec
 
-26.- Cuetzala del Progreso
+27.- Cuetzala del Progreso
 
-27.- Cutzamala de Pinzón
+28.- Cutzamala de Pinzón
 
-28.- Chilapa de Alvarez
+29.- Chilapa de Alvarez
 
-29.- Chilpancingo de los Bravo
+30.- Chilpancingo de los Bravo
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-30.- Eduardo Neri
+31.- Eduardo Neri
 
-31.- Florencio Villarreal
+32.- Florencio Villarreal
 
-32.- Gral. Canuto A. Neri
+33.- Gral. Canuto A. Neri
 
-33.- Gral. Heliodoro Castillo
+34.- Gral. Heliodoro Castillo
 
-34.- Huamuxtitlán
+35.- Huamuxtitlán
 
-35.- Huitzuco de los Figueroa
+36.- Huitzuco de los Figueroa
 
-36.- Iguala de la Independencia
+37.- Iguala de la Independencia
 
-37.- Igualapa
+38.- Igualapa
 
-38.- Ixcateopan de Cuauhtémoc
+39.- Ixcateopan de Cuauhtémoc
 
-39.- José Azueta
+40.- José Azueta
 
-40.- Juan R. Escudero
+41.- Juan R. Escudero
 
-41.- Leonardo Bravo
+42.- Leonardo Bravo
 
-42.- Malinaltepec
+43.- Malinaltepec
 
-43.- Mártir de Cuilapan
+44.- Mártir de Cuilapan
 
-44.- Metlatónoc
+45.- Metlatónoc
 
-45.- Mochitlán
+46.- Mochitlán
 
-46.- Olinalá
+47.- Olinalá
 
-47.- Ometepec
+48.- Ometepec
 
-48.- Pedro Ascencio Alquisiras
+49.- Pedro Ascencio Alquisiras
 
-49.- Petatlán
+50.- Petatlán
 
-50.- Pilcaya
+51.- Pilcaya
 
-51.- Pungarabato
+52.- Pungarabato
 
-52.- Quechultenango
+53.- Quechultenango
 
-53.- San Luis Acatlán
+54.- San Luis Acatlán
 
-54.- San Marcos
+55.- San Marcos
 
-55.- San Miguel Totolapan
+56.- San Miguel Totolapan
 
-56.- Taxco de Alarcón
+57.- Taxco de Alarcón
 
-57.- Tecoanapa
+58.- Tecoanapa
 
-58.- Tecpan de Galeana
+59.- Tecpan de Galeana
 
-59.- Teloloapan
+60.- Teloloapan
 
-60.- Tepecoacuilco de Trujano
+61.- Tepecoacuilco de Trujano
 
-61.- Tetipac
+62.- Tetipac
 
-62.- Tixtla de Guerrero
+63.- Tixtla de Guerrero
 
-63.- Tlacoapa
+64.- Tlacoapa
 
-64.- Tlacoachistlahuaca
+65.- Tlacoachistlahuaca
 
-65.- Tlalchapa
+66.- Tlalchapa
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1988)</small>
 
-65 (sic).- Tlalixtaquilla de Maldonado
+67.- Tlalixtaquilla de Maldonado
 
-67.- Tlapa de Comonfort
+68.- Tlapa de Comonfort
 
-68.- Tlapehuala
+69.- Tlapehuala
 
-69.- La Unión
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1993)</small>
 
-70.- Xalpatláhuac
+70.- La Unión de Isidoro Montes de Oca
 
-71.- Xochistlahuaca
+71.- Xalpatláhuac
 
-72.- Xochihuehuetlán
+72.- Xochistlahuaca
 
-73.- Zapotitlán Tablas
+73.- Xochihuehuetlán
 
-74.- Zirándaro
+74.- Zapotitlán Tablas
 
-75.- Zitlala
+75.- Zirándaro
+
+76.- Zitlala
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1085,9 +1091,9 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 74.
 
@@ -1191,9 +1197,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 75.
 
@@ -1225,7 +1231,7 @@ Cuando conforme al régimen de excusas y recusaciones propio de la actividad jur
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1345,7 +1351,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1549,7 +1555,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1633,7 +1639,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1645,7 +1651,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1863,11 +1869,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1887,7 +1893,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1895,25 +1901,25 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
 ## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO NOVENO. DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2620,5 +2626,9 @@ Las presentes Reformas y Adiciones, entrarán en vigor al día siguiente de su p
 Se deroga toda disposición legal que se oponga a lo prevenido en este Decreto de Reformas y Adiciones.
 
 P.O. 21 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JULIO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
