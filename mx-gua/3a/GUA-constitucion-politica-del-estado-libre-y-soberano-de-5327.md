@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2002-04-19"
+last_updated: "2003-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -76,6 +76,14 @@ La Ley es igual para todos, de ella emanan las atribuciones de las autoridades y
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia prohibidas las costas judiciales.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+La Ley establecerá y regulará la mediación y la conciliación como medios alternativos para la resolución de las controversias entre los particulares, respecto a derechos de los cuales tengan libre disposición.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+La mediación y la conciliación se regirán bajo los principios de equidad, imparcialidad, rapidez, profesionalismo y confidencialidad. El Poder Judicial contará con un órgano de mediación y conciliación el cual actuará en forma gratuita y a petición de parte interesada. Dicho órgano tendrá la organización, atribuciones y funcionamiento que prevea la Ley.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
 
@@ -130,6 +138,10 @@ En casos de urgencia o flagrancia, el Juez que reciba la consignación del deten
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 Las determinaciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal serán impugnables, en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+Cuando así lo disponga la Ley, ofendido e inculpado tendrán derecho a recibir gratuitamente servicios de mediación y conciliación oficiales.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -873,11 +885,17 @@ XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y co
 
 XII.- Solicitar al Gobernador del Estado la comparecencia de Funcionarios del Poder Ejecutivo para que informen al Congreso, cuando se discuta o estudie un asunto relativo a las funciones que aquéllos ejerzan. Solicitar la comparecencia de los Presidentes de los Ayuntamientos y Concejos Municipales y la de los Titulares de los Organismos Públicos Doscentralizados (sic) de los Municipios, para los mismos efectos;
 
-XIII.- Fijar anualmente los gastos que requiere la Administración Pública del Estado, previo examen del Presupuesto de Egresos presentado por el Gobernador y decretar la Ley de Ingresos respectiva;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XIII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado presentado por el Gobernador, previa aprobación de la Ley de Ingresos respectiva.
+
+En el supuesto de que al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado la Ley de Ingresos o la Ley del Presupuesto General de Egresos, en tanto sean expedidas el Congreso no podrá ocuparse de ninguna otra Ley, mientras tanto se aplicará la vigente en el año inmediato anterior; en tal caso, se estará a lo establecido por la Ley Reglamentaria;
 
 XIV.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que contraten empréstitos para la ejecución de obras de utilidad pública, designando los recursos con que deben cubrirse y de acuerdo con la Ley de Deuda Pública. Dicha autorización no será necesaria cuando los créditos se contraten como consecuencia de una calamidad general;
 
-XV.- Expedir anualmente la Ley de Ingresos para los Municipios del Estado;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XV.- Expedir anualmente las Leyes de Ingresos para los Municipios del Estado. Si al iniciarse el año fiscal correspondiente, el Congreso no hubiese aprobado dichas leyes, no podrá ocuparse de ninguna otra Ley, excepto en el caso en el que el Ayuntamiento respectivo no hubiere presentado su iniciativa. En tanto dichas leyes de ingresos sean expedidas, continuarán aplicándose las correspondientes al año inmediato anterior, en tal caso se estará a lo establecido por la Ley Reglamentaria;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -887,15 +905,13 @@ XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de domini
 
 XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
-XVIII.- Fiscalizar la cuenta pública de los Poderes Ejecutivo y Judicial, así como de las entidades de la administración pública paraestatal y de los organismos autónomos, a través de su Órgano de Fiscalización, en los términos de la Ley Orgánica correspondiente;
+XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las entidades y organismos de la administración pública paraestatal, del Poder Judicial y de los organismos autónomos por Ley. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, en los términos de la Ley Reglamentaria correspondiente;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
-XIX.- Revisar y fiscalizar las Cuentas Públicas Municipales incluyendo la administración centralizada y paramunicipal y ordenar cuantas auditorías fueren necesarias; así como solicitar la comparecencia de los presidentes Municipales, de los demás miembros del Ayuntamiento y de los titulares de las dependencias y entidades de la administración pública municipal, cuando se revisen sus correspondientes Cuentas Públicas y, en su caso, proceder de acuerdo al último párrafo de la fracción anterior.
-
-La Ley establecerá los plazos para dar a conocer a los Ayuntamientos los resultados de las auditorías practicadas, las cuales se desarrollarán conforme a los principios de audiencia, celeridad e imparcialidad;
+XIX.- Fiscalizar las cuentas públicas municipales incluyendo la de las entidades y organismos de la administración pública paramunicipal. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización, a que se refiere la fracción anterior;
 
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
@@ -935,7 +951,15 @@ XXVI.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna r
 
 XXVII.- Decidir sobre las licencias que soliciten los Diputados y el Gobernador del Estado para separarse de sus respectivos cargos;
 
-XXVIII.- Ejercer facultades de vigilancia, fiscalización y auditoría, respecto a los presupuestos y gastos de los demás Poderes y de los Organismos Descentralizados incluyendo a la Universidad de Guanajuato;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XXVIII.- Acordar con el voto de las dos terceras partes del total de sus integrantes la práctica de auditorías a los sujetos de fiscalización, cuando exista causa justificada para ello.
+
+Vigilar y evaluar, sin perjuicio de su autonomía técnica, de gestión y presupuestaria, el desempeño del Órgano de Fiscalización Superior, en los términos que disponga la Ley.
+
+Remitir, en los términos de la Ley, al Órgano de Fiscalización Superior las cuentas públicas de los sujetos de fiscalización.
+
+Declarar la revisión de cuentas públicas en los términos del informe de resultados que hubiere emitido el Órgano de Fiscalización Superior y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
 
 XXIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por algunas de las causas graves que la Ley limitativamente prevenga, siempre y cuando los afectados hayan tenido oportunidad para rendir pruebas y hacer los alegatos que, a su juicio, convengan;
 
@@ -987,15 +1011,51 @@ VIII.- Conceder licencias para separarse de su cargo, al Gobernador del Estado, 
 
 IX.- Las demás consignadas de modo expreso en esta Constitución.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2003)</small>
 
-#### SECCION SEXTA. DE LA CONTADURIA MAYOR DE HACIENDA
+#### SECCION SEXTA. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 66.
 
-La Contaduría Mayor de Hacienda del Congreso es el Organo Técnico de éste para el ejercicio de las facultades de vigilancia y fiscalización y tendrá las atribuciones que señale la Ley.
+El Órgano de Fiscalización Superior del Congreso del Estado tendrá autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. En el ejercicio de esta función, la objetividad, imparcialidad, independencia, transparencia, legalidad y profesionalismo serán los principios rectores.
+
+Son sujetos de fiscalización, las entidades señaladas en las fracciones XVIII y XIX del Artículo 63 de esta Constitución, así como el Poder Legislativo. La función fiscalizadora también comprende los recursos públicos otorgados a personas físicas o morales.
+
+Los organismos autónomos presentarán al Congreso del Estado su cuenta pública trimestralmente y su concentrado anual, en la forma y términos que establezca la Ley.
+
+Los sujetos de fiscalización están obligados a suministrar al Congreso del Estado, por conducto de su órgano de apoyo, los datos, documentos, antecedentes o cualquier otra información que éste les solicite, relacionados con el ejercicio de la función fiscalizadora.
+
+El Órgano de Fiscalización Superior tendrá las siguientes atribuciones:
+
+I.- Analizar, evaluar y comprobar las cuentas públicas, de conformidad con los programas que para el efecto se aprueben por el Órgano. Si del examen que se realice aparecieran discrepancias entre los ingresos o los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley;
+
+II.- Conocer, revisar y evaluar los resultados de la gestión financiera de los sujetos de fiscalización y comprobar si se han ajustado al presupuesto y a sus contenidos programáticos;
+
+III.- Investigar los actos u omisiones que puedan constituir daños o perjuicios a la hacienda o patrimonio públicos;
+
+IV.- Acordar y practicar auditorías conforme a su programa anual y ejecutar las que acuerde el Congreso del Estado en los términos de la fracción XXVIII del Artículo 63 de esta Constitución;
+
+V.- Verificar el exacto cumplimiento y apego a la legislación y normatividad aplicable, por parte de los sujetos de fiscalización;
+
+VI.- Dictaminar los daños y perjuicios causados a la hacienda o patrimonio públicos. La Ley establecerá el procedimiento para hacer efectiva la responsabilidad resarcitoria y los medios de impugnación que procedan;
+
+VII.- Dictaminar la probable responsabilidad y promover el fincamiento de sanciones ante las autoridades competentes, en los términos de Ley;
+
+VIII.- Informar al Congreso del Estado, en los términos de la Ley, del resultado de la revisión de la cuenta pública y demás asuntos derivados de la fiscalización, incluyendo los dictámenes, informes de resultados, comentarios y observaciones de las auditorías;
+
+IX.- Dar seguimiento a las observaciones o recomendaciones que emita;
+
+X.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones; y
+
+XI.- Celebrar, en los términos de Ley, convenios de coordinación y colaboración con otras entidades u órganos de fiscalización.
+
+En situaciones excepcionales que determine la Ley, el Órgano de Fiscalización Superior podrá requerir a los sujetos de fiscalización que procedan a la revisión de conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se procederá de conformidad en lo dispuesto en las fracciones VI y VII de este Artículo. Lo anterior, sin perjuicio de que se realicen las auditorías que procedan.
+
+El titular del Órgano de Fiscalización Superior, será designado por el voto de las dos terceras partes de los miembros de la Legislatura, de entre la terna que presente el órgano de gobierno interior del Congreso del Estado previa convocatoria que para tal efecto se expida. La Ley determinará el procedimiento para su designación.
+
+El titular del Órgano de Fiscalización Superior, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del Artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo cinco años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1119,7 +1179,9 @@ IV.- Procurar la conservación del orden, y vigilar la tranquilidad y la segurid
 
 V.- Rendir, ante el Congreso del Estado, el Informe a que se refiere el Artículo 78 de este Ordenamiento;
 
-VI.- Presentar al Congreso del Estado, la Cuenta de Gastos de la Administración Pública, en períodos de no más de tres meses, el Presupuesto de Egresos y la Iniciativa de Ley de Ingresos; y asimismo el concentrado de la Cuenta Pública Anual, de conformidad con la Fracción XVIII del Artículo 63;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como su Cuenta Pública trimestral y su concentrado anual, en la forma y términos que establezca la Ley;
 
 VII.- Vigilar que la recaudación y distribución de los Fondos Públicos se sujeten en todo a la Ley;
 
@@ -1343,7 +1405,9 @@ XII.- Conocer y resolver los recursos contra las resoluciones que dicte el Conse
 
 XIII.- Aprobar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial que le presente el Consejo del Poder Judicial;
 
-XIV.- Presentar al Congreso del Estado la cuenta de gastos de la impartición de justicia, en períodos no mayores de seis meses; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XIV.- Presentar al Congreso del Estado, la Cuenta Pública del Poder Judicial, trimestralmente y su concentrado anual, en la forma y términos que establezca la Ley;
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1363,11 +1427,15 @@ Las acciones de inconstitucionalidad sólo podrán ejercitarse, dentro de los tr
 
 Quedan excluidos los conflictos o acciones de carácter electoral.
 
-El procedimiento se substanciará conforme lo disponga la Ley.
+El procedimiento se substanciará conforme lo disponga la Ley;
 
-> <small>(REFORMADA, P. O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2003)</small>
 
-XVI.- Cumplir, las demás atribuciones que le señalen las Leyes.
+XVI.- Nombrar al Titular del órgano encargado de la mediación y conciliación; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XVII.- Cumplir las demás atribuciones que le señalen las leyes.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1551,7 +1619,13 @@ Todo empleado que maneje caudales Públicos del Estado, de los Municipios y de l
 
 Los Ordenamientos Fiscales señalarán la fuente de los Arbitrios y las Reglas Generales de Causación, Cobro y Recursos, en forma clara y sencilla. Estos Ordenamientos serán de estricta aplicación y no podrán extenderse a casos no exactamente previstos en los mismos.
 
-La Ley de Ingresos será anual y en ella deberán consignarse solamente las tasas o valores de los conceptos del ingreso. La Ley de Egresos también será anual y deberá de ser razonablemente proporcional a la estimación del ingreso, tomando en cuenta el del año anterior.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+La Ley de Ingresos será anual y en ella deberán consignarse solamente las tasas o valores de los conceptos del ingreso. La Ley del Presupuesto General de Egresos también será anual y deberá ser razonablemente proporcional a la estimación del ingreso, tomando en cuenta el correspondiente al año anterior.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+La vigencia anual, tanto de la Ley de Ingresos como de la Ley del Presupuesto General de Egresos tendrá como excepción lo previsto en la fracción XIII del Artículo 63 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1781,13 +1855,17 @@ V.- Crear, en los términos de la Ley, organismos públicos descentralizados, em
 
 VI.- Ejercer las funciones o la prestación de los servicios públicos municipales observando lo dispuesto por las Leyes federales y estatales;
 
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+VII.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles, enviando copia certificada al Congreso del Estado de dicho presupuesto y de su pronóstico de ingresos. En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no hubiese aprobado el presupuesto de egresos, en tanto sea aprobado, en lo conducente se continuará aplicando el vigente en el año inmediato anterior. Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley;
+
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VII.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles, enviando copia certificada al Congreso del Estado de dicho presupuesto y de su pronóstico de ingresos;
+VIII.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señale la Ley.
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
 
-VIII.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señale la Ley;
+En tanto los Ayuntamientos no cumplan con lo dispuesto por el párrafo anterior, no podrán aprobar su Presupuesto de Egresos;
 
 IX.- La ejecución de todas las disposiciones relativas a la higiene urbana y la salubridad pública;
 
@@ -2562,3 +2640,25 @@ P.O. 19 DE ABRIL DE 2002.
 Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- El Congreso del Estado emitirá la Ley que regule los mecanismos de participación ciudadana establecidos en el presente decreto a más tardar en seis meses contados a partir de su entrada en vigor.
+
+P.O. 15 DE ABRIL DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano de Fiscalización Superior, iniciará su funcionamiento el 1º primero de enero del año 2004 dos mil cuatro, previa publicación de su Ley Reglamentaria.
+
+Las referencias a la Contaduría Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior.
+
+###### ARTÍCULO TERCERO.
+
+En tanto el Órgano de Fiscalización Superior no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al Artículo 66 de la Constitución Política del Estado, antes de su reforma, y de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, así como de la Ley Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Guanajuato y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en funciones del Órgano de Fiscalización Superior.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+Una vez creado el Órgano de Fiscalización Superior, todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Órgano.
