@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2003-12-30"
+last_updated: "2005-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -80,9 +80,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+
 ###### Artículo 4.
 
-Son comisiones de Análisis y Dictamen Legislativo que se constituyen con carácter definitivo y funcionan para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Deporte; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Estudios Legislativos y Prácticas Parlamentarias; Fomento Económico; Hacienda; Juventud; Notariado; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte y Vialidad; Turismo; Uso y aprovechamiento de Bienes y Servicios Públicos; Vivienda.
+Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Deporte; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte y Vialidad; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -198,7 +200,15 @@ XVI. Elaborar los ordenes del día de las reuniones de trabajo, dirigir el desar
 
 XVII. Coordinar el trabajo del Secretario Técnico y asesores de la Comisión, y
 
-XVIII. Llevar a través de la Secretaría Técnica, un registro cronológico de las iniciativas, proposiciones y dictámenes turnados, desahogados y pendientes.
+XVIII. Llevar a través de la Secretaría Técnica, un registro cronológico de las iniciativas, proposiciones y dictámenes turnados, desahogados y pendientes;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+
+XIX. Remitir al área de Comunicación Social y a la Coordinación General de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de los Diputados que hayan asistido a la misma;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+
+XX. Remitir al Archivo Histórico de la Asamblea Legislativa del Distrito Federal, a través de la Coordinación General de Servicios Parlamentarios toda la documentación que a lo largo de la Legislatura haya estado en poder de la Comisión.
 
 ###### Artículo 13.
 
@@ -637,3 +647,13 @@ SECRETARIO
 (Firma)
 
 DIP. JUVENTINO RODRÍGUEZ RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 30 DE MARZO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
