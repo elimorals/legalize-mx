@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1964-08-20"
+last_updated: "1965-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 1964.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE MARZO DE 1965.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -413,7 +413,7 @@ XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
 XXVI.- recibir la protesta de Ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia del mismo y al Contador Mayor;
 
-XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias;
+XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias.
 
 XXVIII.- nombrar Gobernador interino en los casos de falta temporal o absoluta del Gobernador Constitucional del Estado;
 
@@ -437,7 +437,7 @@ XXXVII.- pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de
 
 XXXVIII.- fijar las modalidades que a la propiedad privada deban imponerse para beneficio público, y ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
 
-XXXIX.- conceder primas y auxilios a los que introduzcan y establezcan en el Estado nuevas industrias y cultivos;
+XXXIX.- (DEROGADA, D.O.5 DE MARZO DE 1965)
 
 XL.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas que se hagan cargo provisionalmente del municipio, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos;
 
@@ -1398,6 +1398,12 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 20 DE AGOSTO DE 1964.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado.
+
+D.O. 5 DE MARZO DE 1965.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
