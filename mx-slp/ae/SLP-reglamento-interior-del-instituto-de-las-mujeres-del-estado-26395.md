@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-las-mujeres-del-estado-263
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-24"
-last_updated: "2002-09-24"
+last_updated: "2004-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2004.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 24 de septiembre de 2002.
 
@@ -121,7 +121,9 @@ VIII. Vigilar la aplicación correcta de los recursos que, a título de cualquie
 
 IX. Dictaminar y aprobar, en su caso, los asuntos que sean sometidos a su consideración por la Directora General del Instituto.
 
-X. Aprobar, en su caso, el Reglamento y Manuales de Organización y Procedimientos del Instituto, que sean propuestos por la Directora General.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+X. Aprobar, en su caso, el Reglamento Interior del Instituto, que sea propuesto por la Directora General, así como conocer los Manuales de Organización y Procedimientos del Instituto.
 
 XI. Autorizar, en su caso, las propuestas de creación de las unidades administrativas y delegaciones representativas del Instituto al interior del Estado, presentadas por la Directora General del mismo, para el mejor cumplimiento de los fines del mismo.
 
@@ -203,9 +205,11 @@ IV. Cumplir con los compromisos adquiridos ante el Instituto, por parte de la de
 
 ### CAPITULO I. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 18.
 
-La Directora General del Instituto durará en su encargo tres años, a partir de su nombramiento, pudiendo ser reelecta por la Junta Directiva, por un periodo más.
+La Directora General del Instituto durará en su encargo tres años, a partir de su nombramiento; pudiendo ser ratificada por la Junta Directiva por un periodo más con el propósito de dar continuidad a los planes en favor de la equidad.
 
 ###### Artículo 19.
 
@@ -255,17 +259,23 @@ XXI. Celebrar y ejecutar actos de dominio y administración sobre los bienes mue
 
 XXII. Otorgar poderes o mandatos a servidores públicos subalternos, cuando por circunstancias extraordinarias, lo requiera el cumplimiento de sus funciones y no pueda hacerlo personalmente.
 
-XXIII. Proveer de los recursos humanos, materiales y suministros, a las áreas y entidades del Instituto, para que den cumplimiento a los objetivos y metas señaladas en el Decreto 283 de fecha ocho de marzo del año dos mil dos, y;
+XXIII. Proveer de los recursos humanos, materiales y suministros, a las áreas y entidades del Instituto, para que den cumplimiento a los objetivos y metas señaladas en el Decreto 283 de fecha ocho de marzo del año dos mil dos, y; (sic)
 
 XXIV. Las demás que le confieren los ordenamientos jurídicos aplicables o que le encomiende la Junta Directiva del Instituto.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XXV. Promover que en cada municipio del Estado, se instale una instancia de la Mujer.
 
 ### CAPITULO II. DE LOS CONSEJOS CONSULTIVO Y SOCIAL
 
 Del Consejo Consultivo
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 20.
 
-El Consejo Consultivo estará integrado por siete personas, tres hombres y cuatro mujeres, nombrados por la junta Directiva, su encargo es por dos años a partir de su nombramiento, pudiendo ser reelectos por la Junta Directiva. El desempeño de sus funciones será honorífico. En su caso, el Instituto cubrirá sus viáticos, cuando así lo determine la Directora General del mismo, para el cumplimiento de las encomiendas de la junta Directiva.
+El Consejo Consultivo estará integrado por el número de ciudadanos o ciudadanas que determine la Junta Directiva, no pudiendo conformarse por menos de siete miembros, su encargo es por dos años a partir de su nombramiento, pudiendo ser ratificados por la Junta Directiva. El desempeño de sus funciones será honorifico. En su caso, el instituto cubrirá sus viáticos, cuando así lo determine la Directora General del mismo, para el cumplimiento de las encomiendas de la junta Directiva.
 
 ###### Artículo 21.
 
@@ -291,7 +301,9 @@ Corresponde a la Secretaría Técnica de la Junta Directiva del Instituto, elabo
 
 Las convocatorias para nombrar a los miembros del Consejo Consultivo, deberán contener los siguientes puntos, principalmente:
 
-I. El Consejo Consultivo estará integrado por siete personas, cuatro mujeres y tres hombres, aprobados por la Junta Directiva del Instituto.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+I. El Consejo Consultivo estará integrado por el número de ciudadanos o ciudadanas que determine la Junta Directiva, no pudiendo conformarse por menos de siete miembros.
 
 II. Podrán participar mujeres y hombres, que se destaquen en la Entidad por sus actividades en favor del desarrollo de proyectos enfocados a lograr la equidad entre hombres y mujeres.
 
@@ -313,9 +325,11 @@ II. Una Secretaría o Secretario, con voz y voto, quien será electo de entre lo
 
 III. El resto de los miembros del Consejo Consultivo fungirán como vocales con voz y voto.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 25.
 
-El Consejo Consultivo sesionará, cuando menos, cada tres meses, o bien, cuando la Presidenta convoque, a petición de por lo menos cuatro de los miembros del Consejo, o en su caso, cuando la Directora General del Instituto lo solicite.
+El Consejo Consultivo sesionará, cuando menos, cada tres meses, o bien, cuando la Presidenta convoque, a petición de la mitad más uno de los miembros del Consejo, o en su caso, cuando la Directora General del Instituto lo solicite.
 
 Las sesiones se llevarán a cabo con la asistencia de la mitad más uno de sus integrantes, y los acuerdos serán tomados por mayoría de votos, siendo obligatorios y válidos para todos los miembros del Consejo Consultivo.
 
@@ -467,11 +481,15 @@ XIV. Verificar el ingreso del recurso para las nóminas de los empleados, así c
 
 XV. Recibir y revisar los reportes de gastos de las representaciones delegacionales que se establezcan.
 
-XVI. Elaborar mensualmente el estado de información financiera, que refleje la situación que guarda el Instituto, así como preparar el informe financiero que la Secretaría de Planeación del Desarrollo solicita.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XVI. Elaborar mensualmente el estado de información financiera, que refleje la situación que guarda el Instituto.
 
 XVII. Llevar el control de la documentación por numeró consecutivo de póliza, así como las comprobaciones generadas por el Instituto.
 
-XVIII. Realizar altas, bajas y modificaciones necesarias en el IMSS, así como recibir las cédulas que de dicha institución le envíen, a través de la Oficialía Mayor del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XVIII. Realizar altas, bajas y modificaciones necesarias en el IMSS, a través de la Oficialía Mayor del Gobierno del Estado.
 
 XIX. Calcular y realizar el pago del Impuesto Sobre la Renta y del Impuesto sobre el Producto del Trabajo, ante la Secretaría de Hacienda y Crédito Público, a través de la Secretaría de Finanzas de Gobierno del Estado.
 
@@ -479,7 +497,9 @@ XX. Vigilar que se registren oportunamente los depósitos, el traspaso, y la emi
 
 XXI. Llevar el control de la caja chica.
 
-XXII. Llevar el registro de los viáticos otorgados a los servidores públicos del Instituto, para el cumplimiento de sus encomiendas.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XXII. Llevar el registro de los viáticos otorgados a los servidores públicos del Instituto, para el cumplimiento de sus encomiendas, así como verificar su comprobación y documentación adjunta.
 
 XXIII. Proporcionar a las diversas unidades administrativas los servicios de vigilancia, seguridad, intendencia, mensajería fotocopiado y otros servicios diversos.
 
@@ -511,7 +531,9 @@ III. Definir las estrategias para el desarrollo de las investigaciones, así com
 
 IV. Definir las estrategias y lineamientos para recabar la información necesaria para llevar a cabo los proyectos del área, y someterlos a consideración de la Dirección General.
 
-V. Relacionarse y mantener contacto con instituciones de educación superior y organismos especializados en investigación, del Estado y del País, particularmente con aquellos que realicen o, potencialmente puedan realizar, investigación demográfica, socioeconómica y de género.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+V. Relacionarse y mantener contacto con instituciones de educación superior y organismos especializados en investigación a nivel estatal, nacional e Internacional, particularmente con aquellos que realicen o, potencialmente puedan realizar, investigación demográfica, socioeconómica y de género, con conocimiento de la Dirección General.
 
 VI. Participar en investigaciones realizadas por otras instituciones, que incidan en beneficio de la población objeto del Instituto.
 
@@ -542,6 +564,14 @@ XVIII. Definir las estrategias para difundir los resultados de las investigacion
 XIX. Realizar investigaciones a nivel Estatal, para conocer la participación de la mujer en la toma de decisiones.
 
 XX. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como las que expresamente le confiera la Dirección General.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XXI. Promover la institucionalización de la perspectiva de género, en las dependencias de la administración Federal, Estatal y Municipal.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XXII. Mantener una vinculación permanente con las Instancias Municipales de la Mujer, para coordinar el desarrollo de los programas y acciones del Área pertinentes.
 
 ###### Artículo 40.
 
@@ -593,9 +623,11 @@ XXII. Diseñar y operar una metodología de autoevaluación, que permita a cada 
 
 XXIII. Coordinar todo lo relacionado a la sistematización de la información de género, a nivel interno y externo.
 
-XXIV. Promover la institucionalización de la perspectiva de género, en las dependencias de la administración Federal, Estatal y Municipal.
+XXIV. (DEROGADA, P.O. 24 DE FEBRERO DE 2004)
 
-XXV. Proporcionar, la información estadística que soliciten las áreas internas del Instituto, así como las dependencias externas.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XXV. Proporcionar, la información estadística que soliciten las áreas internas del Instituto, así como las dependencias externas, con la autorización de la Dirección General.
 
 XXVI. Apoyar a la Dirección General, en lo referente al manejo de bases de datos de las principales variables de género, para dar soporte estadístico a la planeación y toma de decisiones.
 
@@ -607,11 +639,11 @@ XXIX. Generar información actualizada sobre el impacto del Instituto, en el ám
 
 XXX. Diseñar, integrar y asesorar en el establecimiento de bancos de datos, sobre variables de género, o sobre variables cuyo análisis permita extraer conclusiones sobre género.
 
-XXXI. Apoyaren las actividades de planeación, suministro de información cuantitativa y cualitativa que refleje la importancia del Instituto y sus funciones.
+XXXI. Apoyar en las actividades de planeación, suministro de información cuantitativa y cualitativa que refleje la importancia del Instituto y sus funciones.
 
 XXXII. Elaborar anualmente un documento que contenga las estadísticas del sector con el propósito de difundidas.
 
-XXXIII. Promover que en cada municipio se instale un Consejo de la Mujer.
+XXXIII. (DEROGADA, P.O. 24 DE FEBRERO DE 2004)
 
 XXXIV. Mantener contacto permanente con el Instituto Nacional de las Mujeres y con los Institutos Estatales, para el intercambio de información y experiencias.
 
@@ -623,6 +655,10 @@ XXXVII. Tratar asuntos con diversas dependencias de carácter federal, estatal y
 
 XXXVIII. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como las que expresamente le confiera la Dirección General.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XXXIX. Mantener una vinculación permanente con las Instancias Municipales de la Mujer, para coordinar el desarrollo de los programas y acciones del Área pertinentes.
+
 ###### Artículo 41.
 
 Área de Comunicación Social.- Le corresponde el ejercicio de las siguientes atribuciones específicas:
@@ -631,7 +667,9 @@ I. Proponer a la Dirección General, los programas y políticas en materia de co
 
 II. Recopilar, analizar, procesar y difundir la información publicada en los diversos medios de información, que se relaciona con el Instituto y con la población objeto del mismo.
 
-III. Diseñar campañas publicitarias para difundir las actividades y resultados del Instituto, así como de la línea TELMUJER 075.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+III. Diseñar campañas publicitarias para difundir las actividades y resultados de los programas y acciones del Instituto.
 
 IV. Diseñar, elaborar y distribuir la imagen gráfica del Instituto, y proponer las modificaciones necesarias para mejorarla, a la Dirección General.
 
@@ -659,6 +697,14 @@ XV. Establecer módulos informativos para promocionar los programas del Institut
 
 XVI. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como las que expresamente le confiera la Dirección General.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XVII. Mantener una vinculación permanente con las Instancias Municipales de la Mujer, para coordinar el desarrollo de los programas y acciones del Área pertinentes.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XVIII. Mantener una permanente vinculación con la Coordinación General de Comunicación Social del Gobierno del Estado.
+
 ###### Artículo 42.
 
 Área de Atención Ciudadana.- Le corresponde el ejercicio de las siguientes atribuciones específicas:
@@ -671,15 +717,23 @@ III. Programar y organizar foros y eventos de consulta ciudadana, para detectar 
 
 IV. Programar y organizar talleres y cursos de sensibilización sobre la institucionalización de la perspectiva de género, así como conferencias, talleres y cursos sobre la equidad de género.
 
-V. Programar e impartir cursos y talleres sobre la prevención de la violencia intrafamiliar, embarazos en adolescentes, autoestima, difusión de los derechos humanos, los derechos familiares y de los niños y las niñas, así como sobre el abuso de menores; en la Capital y en los municipios del interior del Estado.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
 
-VI. Brindar vía telefónica asesoría psicológica y jurídica de forma permanente a mujeres y varones adolescentes que así lo requieran.
+V. Programar e impartir cursos y talleres sobre la prevención de la violencia familiar, embarazos en adolescentes, autoestima, difusión de los derechos humanos, los derechos familiares y de los niños y las niñas, así como sobre el abuso de menores; en la Capital y en los municipios del interior del Estado.
 
-VII. Representar legalmente, en los asuntos en materia familiar o laboral, cuando sea indispensable y factible, a las personas que lo soliciten.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+VI. Brindar vía telefónica orientación psicológica e intervención en crisis, de forma permanente, a la población que así lo requiera.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+VII. Brindar vía telefónica asesoría jurídica, en forma permanente, a mujeres que así lo requieran.
 
 VIII. Programar y promover que se realicen estudios socioeconómicos, con el apoyo de trabajadoras sociales, a las personas que se les otorgue la representación legal por parte del Instituto.
 
-IX. Brindar atención personalizada en materia psicológica a las personas que lo soliciten, preferentemente a mujeres, cuando sea factible, según la problemática, o canalizarlas a las instituciones competentes.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+IX. Brindar asesoría personalizada en materia jurídica a las personas que lo soliciten, preferentemente a mujeres, cuando sea factible, según el caso, o canalizarlas a las instituciones competentes.
 
 X. Revisar el marco legal del Estado y proponer a la Dirección General del Instituto, las iniciativas de ley o reformas necesarias que garanticen la igualdad de derechos y oportunidades de desarrollo para hombres y mujeres del Estado.
 
@@ -697,6 +751,10 @@ XVI. Integrar el acervo bibliográfico necesario en materia jurídica y establec
 
 XVII. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como las que expresamente le confiera la Dirección General.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XVIII. Mantener una vinculación permanente con las Instancias Municipales de la Mujer, para coordinar el desarrollo de los programas y acciones del Área pertinentes.
+
 ###### Artículo 43.
 
 Área de Capacitación.- Le corresponde el ejercicio de las siguientes atribuciones específicas:
@@ -707,7 +765,9 @@ II. Programar y definir estrategias para la realización de diagnósticos a nive
 
 III. Programar y realizar cursos y talleres de capacitación en procesos productivos con enfoque de género en los diferentes municipios del Estado.
 
-IV. Mantener una vinculación permanente con los Consejos Municipales de la Mujer, para coordinar el desarrollo de los programas y proyectos de capacitación y de financiamiento.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+IV. Mantener una vinculación permanente con las Instancias Municipales de la Mujer, para coordinar el desarrollo de los programas y proyectos de capacitación y de financiamiento.
 
 V. Establecer contacto con las instituciones estatales y federales que cuentan con programas de capacitación, y gestionar recursos para el apoyo de cursos y talleres de capacitación para mujeres, así como coordinarse con ellas para la ejecución de los programas de financiamiento, previa autorización de la Dirección General.
 
@@ -802,3 +862,9 @@ La Directora General del Instituto de las Mujeres, del Estado de San Luis Potos�
 C. María Magdalena Vega Escobedo
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2004.
+
+UNICO. El presente Decreto entrara en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
