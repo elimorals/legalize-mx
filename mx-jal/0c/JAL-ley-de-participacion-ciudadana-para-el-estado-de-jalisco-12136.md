@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-participacion-ciudadana-para-el-estado-de-jalisco-12136"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2001-07-28"
+last_updated: "2004-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -104,6 +104,10 @@ El Congreso del Estado, con la aprobación de cuando menos las dos terceras part
 ###### Artículo 10.
 
 El Consejo Electoral decidirá, con el voto de cuando menos las dos terceras partes de sus integrantes, previo estudio elaborado por el presidente, la trascendencia de la propuesta o decisión del Gobernador para el orden público o el interés social, que el Congreso del Estado solicite se someta a plebiscito.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Para la elaboración del estudio a que se refiere este artículo, el presidente podrá solicitar el apoyo técnico o de investigación de organismos e instituciones, del sector público o privado, para resolver sobre la trascendencia para el orden público o el interés de la decisión o acto que pretende someterse a plebiscito.
 
 Dictaminada la procedencia, el Consejo Electoral elaborará la pregunta y expedirá la convocatoria correspondientes (sic).
 
@@ -192,6 +196,10 @@ El Consejo Electoral, con el voto de cuando menos dos terceras partes de sus int
 I. La ley, el reglamento o decreto en el caso del referéndum; y
 
 II. Las propuestas de decisión o actos del Gobernador y los actos o disposiciones de carácter administrativo, en el ámbito municipal, en el caso del plebiscito; en ambos casos de conformidad con esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Para la elaboración del estudio a que se refiere este artículo, el presidente podrá solicitar el apoyo técnico o de investigación de organismos e instituciones, del sector público o privado, para resolver sobre la trascendencia para el orden público o el interés social de las leyes, reglamentos y decretos, así como de los actos o decisiones que pretenden someterse a referéndum o plebiscito, respectivamente.
 
 ###### Artículo 19.
 
@@ -389,9 +397,23 @@ Campaña de divulgación es la actividad que el Consejo Electoral realice, a efe
 
 Dentro de las actividades que emprenda el Consejo Electoral como parte de la Campaña de Divulgación, se contemplan medios masivos de comunicación y debates.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004)</small>
+
 ###### Artículo 41.
 
-Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o se observare un ambiente de intimidación para los votantes, el Consejo Electoral deberá suspender la realización de la consulta.
+Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o se observare un ambiente de intimidación para los votantes, el Consejo Electoral, previo dictamen elaborado por el Presidente correspondiente a los acontecimientos, deberá tomar alguna de las siguientes resoluciones:
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+I. Decretar la suspensión temporal de la consulta;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+II. Decretar la suspensión definitiva de la consulta; o
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+III. Decretar la continuación del procedimiento, previo a que el Presidente solicite a la autoridad competente implementar las medidas de seguridad oportunas.
 
 Una vez suspendida la consulta por el Consejo Electoral, éste deberá de enviar un informe fundado y motivado ante el Congreso del Estado, con las razones que determinaron la suspensión de la consulta.
 
@@ -572,5 +594,9 @@ P.O. 19 DE SEPTIEMBRE DE 2000.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 28 DE JULIO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JUNIO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
