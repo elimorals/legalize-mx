@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "1994-08-30"
+last_updated: "1996-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,29 +19,25 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
+ACUERDO QUE REFORMA Y ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 11 de noviembre de 1996.
 
-Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
-DECRETO NÚMERO 469
+HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o. y 10 de la Ley de Comercio Exterior; 36 fracción I inciso d) de la Ley Aduanera, y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
 
-C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38, 55 FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 14 FRACCIONES VII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, A SUS HABITANTES HAGO SABER:
+CONSIDERANDO
 
-QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
+Que el Programa de Política Industrial y Comercio Exterior señala que, de conformidad con los acuerdos de la reunión de Osaka, México continuará participando en los trabajos que incorporarán, entre otras medidas, las relativas a reglas de origen;
 
-"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
+Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
-EXPOSICIÓN DE MOTIVOS:
+Que resulta indispensable reflejar en las regulaciones no arancelarias las enmiendas acordadas dentro del marco del Convenio Internacional del Sistema Armonizado de Designación y Codificación de Mercancías, que entraron en vigor el 1 de enero de 1996 con la Ley del Impuesto General de Importación, así como las de la Ley Aduanera, en vigor a partir del 1 de abril del presente año, y
 
-[...]
+Que la Comisión de Comercio Exterior, conforme al procedimiento previsto en la ley de la materia, aprobó las regulaciones propuestas por esta Secretaría para la determinación y certificación del país de origen de las mercancías que se importen al territorio nacional para los efectos de la aplicación de la Ley de Comercio Exterior en materia de cuotas compensatorias, he tenido a bien expedir el siguiente
 
-Por todo lo expuesto y fundado, los integrantes de esta Comisión Permanente de Equidad de Género, Grupo Vulnerables y Derechos Humanos, consideramos viable aprobar la Ley para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán, por todos los razonamientos en este dictamen. En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política, y 18 y 43 fracción XII de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
-
-LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+ACUERDO QUE REFORMA Y ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
 ###### Artículo 1.
 
@@ -179,6 +175,32 @@ XI.- Las demás que otros ordenamientos le confieran.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
+###### ARTICULO 7o.
+
+Se reforma el Anexo II, del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
+
+Anexo II
+
+Posiciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación en las que se clasifican las mercancías por las que se debe presentar el Certificado de País de Origen contenido en el Anexo III, cuando se importan al territorio de los Estados Unidos Mexicanos:
+
+CALZADO
+
+Partida 64.01
+
+Partida 64.02, excepto la fracción 6402.12.01. También se exceptúan las fracciones 6402.19.01, 6402.19.02, 6402.19.03 y 6402.19.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 16.59 dólares estadounidenses por par, conforme a la resolución respectiva.
+
+Partida 64.03, excepto las fracciones 6403.12.01, 6403.20.01, 6403.30.01 y 6403.40.01. También se exceptúan las fracciones 6403.19.01, 6403.19.02 y 6403.19.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 14.86 dólares estadounidenses por par, conforme a la resolución respectiva; y las fracciones 6403.99.01, 6403.99.02, 6403.99.03, 6403.99.04, 6403.99.05 y 6403.99.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 22.26 dólares estadounidenses por par, conforme a la resolución respectiva.
+
+Partida 64.04, excepto las fracciones 6404.11.01, 6404.11.02, 6404.11.03 y 6404.11.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 17.93 dólares estadounidenses por par, conforme a la resolución respectiva, y además no tengan la parte superior (corte) de lona.
+
+Partida 64.05, excepto la fracción 6405.10.01 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 19.07 dólares estadounidenses por par, conforme a la resolución respectiva.
+
+TEXTIL
+
+Partida 30.05
+
+Subpartida 3306.20.
+
 ###### Artículo 5.
 
 El Instituto de Movilidad y Desarrollo Urbano Territorial tiene las siguientes atribuciones:
@@ -211,1199 +233,747 @@ V.- Expedir constancias o certificados médicos que acrediten la discapacidad de
 
 VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
-###### Artículo 7.
+###### ARTICULO 10.
 
-La Secretaría de Educación, en materia de esta Ley, tiene las siguientes atribuciones:
+Se adiciona a la lista contenida en el Anexo V del Acuerdo señalado en el artículo 1o. del presente ordenamiento, el siguiente Tratado Internacional:
 
-I.- Promover el respeto del derecho de las personas con discapacidad a la educación, sin que sean sujetas a discriminación y en Igualdad de oportunidades;
+“. . . .
 
-II.- Fomentar entre los alumnos de todos los niveles educativos, conductas en contra de la discriminación de las personas con discapacidad;
+. . . .
 
-III.- Establecer un sistema de Educación inclusiva en todos los niveles, y
+. . . .
 
-IV.- Las demás que señale esta Ley y otras disposiciones aplicables.
+. . . .
 
-###### Artículo 8.
+Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos y la República de Bolivia.”
 
-La Secretaría de Seguridad Pública, inmediatamente que tenga conocimiento, deberá prestar auxilio en aquellos hechos que pongan en riesgo la vida de las personas con discapacidad.
+###### ARTICULO 1o.
 
-###### Artículo 9.
+Se reforman los artículos segundo, párrafo tercero; cuarto fracciones l inciso a) y ll inciso b); quinto fracciones II y III; octavo fracciones III y IV incisos b) y c); se adicionan un párrafo a la fracción II del artículo cuarto; un párrafo a la fracción I, y las fracciones VI y VII al artículo octavo, y se deroga el inciso d) de la fracción IV del artículo octavo del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, para quedar como sigue:
 
-La Secretaría de Fomento Turístico, en materia de esta Ley, tiene las siguientes atribuciones:
+"ARTICULO SEGUNDO.- . . .
 
-I.- Promover el derecho de las personas con discapacidad a servicios turísticos;
+. . .
 
-II.- Realizar las acciones necesarias para garantizar la Accesibilidad en los servicios turísticos;
+Decretos, al Decreto por el que se establece el esquema arancelario de transición al régimen comercial general del país, para el comercio, restaurantes, hoteles y ciertos servicios, ubicados en la franja fronteriza norte del país; al Decreto por el que se establece el esquema arancelario de transición al régimen comercial general del país para la industria, construcción, pesca y talleres de reparación y mantenimiento, ubicados en la región fronteriza, y al Decreto por el que se establece el esquema arancelario de transición al régimen comercial del país, para el comercio, restaurantes, hoteles, y ciertos servicios, ubicados en la región fronteriza norte del país, publicados en el Diario Oficial de la Federación el 29 de diciembre de 1995.
 
-III.- Promover ante las autoridades correspondientes la construcción o adaptación de instalaciones que permitan la Accesibilidad de las personas con discapacidad en sitios turísticos, y
+#### Sección VII
 
-IV.- Las demás que señale esta Ley y otras disposiciones aplicables.
+Plástico y sus Manufacturas; Caucho y sus Manufacturas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+### Capítulo 25 Sal; Azufre; Tierras y Piedras; Yesos, Cales y Cementos.
 
-###### Artículo 10.
+### Capítulo 26 Minerales Metalíferos, Escorias y Cenizas.
 
-El Instituto de Movilidad y Desarrollo Urbano Territorial, en materia de esta Ley, tiene las siguientes atribuciones:
+### Capítulo 28 Productos Químicos Inorgánicos; Compuestos Inorgánicos u Orgánicos de los Metales Preciosos, de los Elementos Radiactivos, de Metales de las Tierras Raras o de Isótopos.
 
-I.- En la medida de sus posibilidades, hacer compatible el desarrollo urbano con los requerimientos necesarios para proteger y respetar el derecho a la Accesibilidad de las personas con discapacidad;
+#### Sección VIII
 
-II.- Establecer los lineamientos a que deben sujetarse los proyectos de construcción públicos y privados, así como los proyectos de construcción de vivienda y conjuntos habitacionales, con el objeto de garantizar la Accesibilidad de las personas con discapacidad, y
+Pieles, Cueros, Peletería y Manufacturas de estas Materias; Artículos de Talabartería o Guarnicionería; Artículos de Viaje, Bolsos de Mano (Carteras) y Continentes Similares; Manufacturas de Tripa.
 
-III.- Las demás que señale esta Ley y otras disposiciones aplicables.
+### Capítulo 32 Extractos Curtientes o Tintóreos; Taninos y sus Derivados; Pigmentos y demás Materias Colorantes; Pinturas y Barnices; Mastiques; Tintas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+### Capítulo 34 Jabón, Agentes de Superficie Orgánicos, Preparaciones para Lavar, Preparaciones Lubricantes, Ceras Artificiales, Ceras Preparadas, Productos de Limpieza, Velas y Artículos Similares, Pastas para Modelar, "Ceras para Odontología" y Preparaciones para Odontología a base de Yeso Fraguable.
 
-###### Artículo 11.
+### Capítulo 36 Pólvoras y Explosivos; Artículos de Pirotecnia; Fósforos (Cerillas); Aleaciones Pirofóricas; Materias Inflamables.
 
-La Secretaría de Fomento Económico y Trabajo, en materia de esta Ley, tiene las siguientes atribuciones:
+### Capítulo 38 Productos Diversos de las Industrias Químicas.
 
-I.- Promover el derecho al trabajo y empleo de las personas con discapacidad en Igualdad de oportunidades y equidad;
+### Capítulo 39 Plástico y sus Manufacturas.
 
-II.- Propiciar la independencia, así como la inclusión y participación plena en la sociedad, de las personas con discapacidad, a través de servicios y programas en la materia;
+### Capítulo 40 Caucho y sus Manufacturas.
 
-III.- Promover políticas públicas para la inclusión laboral de las personas con discapacidad, y
+### Capítulo 42 Manufacturas de Cuero; Artículos de Talabartería o Guarnicionería; Artículos de Viaje, Bolsos de Mano (Carteras) y Continentes Similares; Manufacturas de Tripa.
 
-IV.- Las demás que señale esta Ley y otras disposiciones aplicables.
+### Capítulo 43 Peletería y Confecciones de Peletería; Peletería Facticia o Artificial.
 
-###### Artículo 12.
+### Capítulo 46 Manufacturas de Espartería o Cestería.
 
-La Secretaría de la Cultura y las Artes, tiene las siguientes atribuciones:
+### Capítulo 47 Pasta de Madera o de las demás Materias Fibrosas Celulósicas; Papel o Cartón para reciclar (Desperdicios y Desechos).
 
-I.- Fomentar la cultura y las artes entre las personas con discapacidad;
+### Capítulo 48 Papel y Cartón; Manufacturas de Pasta de Celulosa, de Papel o Cartón.
 
-II.- Organizar, diseñar y promover programas de índole artístico y cultural dirigidos a las personas con discapacidad;
+#### Sección IX
 
-III.- Promover la organización y establecer programas que motiven el aprovechamiento y el desarrollo del potencial creativo de las personas con discapacidad;
+Madera, Carbón Vegetal y Manufacturas de Madera; Corcho y sus Manufacturas; Manufacturas de Espartería o Cestería.
 
-IV.- Participar en la elaboración de políticas públicas en la materia, y
+### Capítulo 49 Productos Editoriales, de la Prensa y de las demás Industrias Gráficas; Textos Manuscritos o Mecanografiados y Planos.
 
-V.- Las demás que señale esta Ley y otras disposiciones aplicables.
+### Capítulo 56 Guata, Fieltro y Tela sin Tejer; Hilados Especiales; Cordeles, Cuerdas y Cordajes; Artículos de Cordelería.
 
-###### Artículo 13.
+#### Sección X
 
-El DIF, en materia de esta Ley, tiene las siguientes atribuciones:
+Pasta de Madera o de las demás Materias Fibrosas Celulósicas; Papel o Cartón para Reciclar (Desperdicios y Desechos); Papel o Cartón y sus Aplicaciones.
 
-I.- Proponer en el proyecto de presupuesto de egresos del Estado, las partidas correspondientes para la aplicación y ejecución del Programa;
+### Capítulo 57 Alfombras y demás Revestimientos para el Suelo, de Materia Textil.
 
-II.- Integrar y actualizar de manera permanente el Registro Estatal de Personas con Discapacidad, instrumento de planeación, diseño y aplicación de políticas públicas que servirá para identificar, registrar, atender los distintos tipos de discapacidades y expedir, con base en éste, una credencial oficial que certifique la discapacidad del portador de la misma;
+### Capítulo 58 Tejidos Especiales; Superficies Textiles con Mechón Insertado; Encajes; Tapicería; Pasamanería; Bordados.
 
-III.- Promover la difusión de los derechos de las personas con discapacidad, así como de las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación, y al mismo tiempo hacer campañas destinadas a la sociedad que tengan como finalidad la sensibilización en cuanto a los derechos de las personas con discapacidad.
+### Capítulo 59 Telas Impregnadas, Recubiertas, Revestidas o Estratificadas; Artículos Técnicos de Materia Textil.
 
-> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+#### Sección XI
 
-IV.- Ejecutar y difundir, con la participación del Instituto, el Programa, y el contenido de esta Ley;
+Materias Textiles y sus Manufacturas.
 
-V.- Realizar acciones, con la colaboración de otras dependencias u organismos públicos o privados, en materia de Prevención, Rehabilitación, habilitación, Igualdad de oportunidades y orientación para las personas con discapacidad;
+### Capítulo 60 Géneros (Tejidos) de punto.
 
-VI.- Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación y supervisión de las acciones que se emprendan en favor de las personas con discapacidad en el Estado;
+### Capítulo 63 Los demás Artículos Textiles Confeccionados; Juegos; Prendería y Trapos.
 
-VII.- Atender a través de las instancias competentes, las quejas y sugerencias sobre la atención de las autoridades y empresas privadas a las personas con discapacidad, y
+### Capítulo 65 Sombreros, demás Tocados y sus Partes.
 
-VIII.- Las demás que señale esta Ley y otras disposiciones aplicables.
+#### Sección XII
 
-###### Artículo 14.
+Calzado; Sombreros y demás Tocados; Paraguas, Quitasoles, Bastones, Látigos, Fustas y sus Partes; Plumas Preparadas y Artículos de Plumas; Flores Artificiales; Manufacturas de Cabello.
 
-El Instituto del Deporte del Estado de Yucatán, en materia de esta Ley, tiene las siguientes atribuciones:
+### Capítulo 67 Plumas y Plumón Preparados y Artículos de Plumas o Plumón; Flores Artificiales; Manufacturas de Cabello.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE JULIO DE 2019)</small>
+### Capítulo 68 Manufacturas de Piedra, Yeso Fraguable, Cemento, Amianto (Asbesto), Mica o Materias Análogas.
 
-I.- Garantizar el derecho al deporte de las personas con discapacidad, promoviendo el desarrollo de su potencial físico, creativo, artístico e intelectual, mediante:
+### Capítulo 70 Vidrio y sus Manufacturas.
 
-a) La entrega de estímulos, becas, premios y toda clase de apoyo para su disfrute,
+#### Sección XIII
 
-b) Libre acceso a instalaciones, servicios, instrucción, preparación y formación, y
+Manufacturas de Piedra, Yeso Fraguable, Cemento, Amianto (Asbesto), Mica o Materias Análogas; Productos Cerámicos; Vidrio y Manufacturas de Vidrio.
 
-c) La implementación de políticas públicas que les permitan organizar, desarrollar y participar en actividades deportivas y recreativas.
+### Capítulo 71 Perlas Naturales o Cultivadas, Piedras Preciosas o Semipreciosas, Metales Preciosos, Chapados de Metal Precioso (Plaqué) y Manufacturas de estas Materias; Bisutería; Monedas.
 
-II.- Participar en la elaboración de políticas públicas en la materia, y
+### Capítulo 73 Manufacturas de Fundición, Hierro o Acero.
 
-III.- Las demás que señale esta Ley y otras disposiciones aplicables.
+### Capítulo 74 Cobre y sus Manufacturas.
 
-###### Artículo 15.
+### Capítulo 75 Níquel y sus Manufacturas.
 
-Los ayuntamientos y demás autoridades e instituciones públicas municipales, tienen las siguientes atribuciones:
+### Capítulo 76 Aluminio y sus Manufacturas.
 
-I.- Asegurar y promover el pleno ejercicio de todos los derechos humanos y las libertades fundamentales de las personas con discapacidad sin discriminación alguna por motivos de discapacidad;
+### Capítulo 78 Plomo y sus Manufacturas.
 
-II.- Elaborar el Programa Municipal para la Protección de los Derechos de las Personas con Discapacidad o, en su caso, aplicar el Programa de acuerdo con sus necesidades y posibilidades;
+### Capítulo 79 Cinc y sus Manufacturas.
 
-III.- Tener en cuenta, en todas las políticas públicas, la protección y promoción de los derechos humanos de las personas con discapacidad;
+### Capítulo 80 Estaño y sus Manufacturas.
 
-IV.- Participar con propuestas en la elaboración del Programa;
+### Capítulo 81 Los demás Metales Comunes; Cermets; Manufacturas de estas Materias.
 
-V.- Tomar todas las medidas pertinentes para que ninguna persona, organización o empresa privada discriminen por motivos de discapacidad, y
+### Capítulo 82 Herramientas y Utiles, Artículos de Cuchillería y Cubiertos de Mesa, de Metal Común; Partes de estos Artículos, de Metal Común.
 
-VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
+### Capítulo 83 Manufacturas Diversas de Metal Común.
 
-### CAPÍTULO I. Disposiciones preliminares
+### Capítulo 85 Máquinas, Aparatos y Material Eléctrico, y sus Partes; Aparatos de Grabación o Reproducción de Sonido, Aparatos de Grabación o Reproducción de Imagen y Sonido en Televisión, y las Partes y Accesorios de estos Aparatos.
 
-### CAPÍTULO II. De los Principios Rectores
+### Capítulo 86 Vehículos y Material para Vías Férreas o Similares, y sus Partes; Aparatos Mecánicos (Incluso Electromecánicos) de Señalización para Vías de Comunicación.
 
-###### Artículo 16.
+### Capítulo 87 Vehículos Automóviles, Tractores, Velocípedos y demás Vehículos Terrestres; sus Partes y Accesorios.
 
-Cualquier Política pública relacionada con los derechos de las personas con discapacidad, así como la observancia, interpretación y aplicación de esta Ley, deberán ser adecuadas a los siguientes principios rectores:
+#### Sección XIV
 
-I.- El respeto de la dignidad, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas con discapacidad;
+Perlas Naturales o Cultivadas, Piedras Preciosas o Semipreciosas, Metales Preciosos, Chapados de Metal Precioso (Plaqué) y Manufacturas de estas Materias; Bisutería; Monedas.
 
-II.- La no discriminación;
+### Capítulo 90 Instrumentos y Aparatos de Optica, Fotografía o Cinematografía, de Medida, Control o Precisión; Instrumentos y Aparatos Medicoquirúrgicos; Partes y Accesorios de estos Instrumentos o Aparatos.
 
-III.- La participación e inclusión plena y efectiva en la sociedad;
+### Capítulo 92 Instrumentos Musicales; sus Partes y Accesorios.
 
-IV.- El respeto por la aceptación de la discapacidad como parte de la diversidad y la condición humana;
+### Capítulo 93 Armas, Municiones, y sus Partes y Accesorios.
 
-V.- La Igualdad de oportunidades;
+### Capítulo 94 Muebles; Mobiliario Medicoquirúrgico; Artículos de Cama y Similares; Aparatos de Alumbrado no Expresados ni Comprendidos en otra Parte; Anuncios, Letreros y Placas Indicadoras Luminosos y Artículos Similares; Construcciones Prefabricadas.
 
-VI.- La Accesibilidad;
+#### Sección XVI
 
-VII.- La igualdad entre mujeres y hombres con discapacidad;
+Máquinas y Aparatos, Material Eléctrico y sus Partes; Aparatos de Grabación o Reproducción de Sonido, Aparatos de Grabación o Reproducción de Imagen y Sonido en Televisión, y las Partes y Accesorios de estos Aparatos.
 
-VIII.- El respeto a las características étnicas propias;
+### Capítulo 95 Juguetes, Juegos y Artículos para Recreo o Deporte; sus Partes y Accesorios.
 
-IX.- El respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad;
+### Capítulo 97 Objetos de Arte o Colección y Antigüedades.
 
-X.- La equidad;
+B) Por lo que hace a las Secciones:
 
-XI.- La justicia social, y
+### Capítulo 52, excepto la partida 52.01.
 
-XII.- La Transversalidad.
+#### Sección XVIII
 
-## TÍTULO SEGUNDO. DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
+Instrumentos y Aparatos de Optica, Fotografía o Cinematografía, de Medida, Control o Precisión; Instrumentos y Aparatos Medicoquirúrgicos; Aparatos de Relojería, Instrumentos de Música; Partes y Accesorios de estos Instrumentos o Aparatos.
 
-### CAPÍTULO I. Derecho a la igualdad y no discriminación
+### Capítulo 53, excepto la partida 53.06.
 
-> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2020)</small>
+#### Sección XIX
 
-###### Artículo 17.
+Armas, Municiones, y sus Partes y Accesorios.
 
-Todas las personas con discapacidad gozarán plenamente de todos los derechos que establece esta Ley y demás ordenamientos legales, en igualdad de condiciones que las demás, sin distinción de origen étnico, nacional, género, edad, una condición de talla baja, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad.
+### Capítulo 54, excepto las mercancías por las que no se deba pagar una cuota compensatoria, en términos de la resolución publicada en el Diario Oficial de la Federación el 18 de octubre de 1994.
 
-###### Artículo 18.
+### Capítulo 55, excepto las mercancías por las que no se deba pagar una cuota compensatoria, en términos de la resolución publicada en el Diario Oficial de la Federación el 18 de octubre de 1994.
 
-Las personas con discapacidad no serán sujetos de ningún tipo de discriminación por su discapacidad o cualquier otra condición que menoscabe la dignidad humana, sus derechos y libertades.
+Partidas 58.03 y 59.11, excepto las mercancías por las que no se deba pagar una cuota compensatoria, en términos de la resolución publicada en el Diario Oficial de la Federación el 18 de octubre de 1994.
 
-###### Artículo 19.
+CONFECCION
 
-Para contribuir al respeto de los derechos a que se refiere este capítulo, la Secretaría de Educación deberá fomentar en los alumnos de todos los niveles educativos, la sensibilización y educación en derechos humanos y no discriminación hacia las personas con discapacidad, así como supervisar que los contenidos y actividades educativas estén libres de estereotipos, prejuicios y prácticas nocivas hacia dichas personas, pudiendo auxiliarse del DIF para tal efecto.
+Capítulos 61, 62 y 63, excepto las fracciones 6306.31.01, 6306.39.99 y 6306.41.01.
 
-Por su parte, el DIF realizará acciones de sensibilización a la sociedad sobre el respeto y no discriminación, para crear, fortalecer y promover una cultura de respeto a los derechos y la dignidad de las personas con discapacidad.
+###### ARTICULO 8o.
 
-###### Artículo 20.
+Se reforman los campos 1, 5 y 7 inciso c) del Instructivo para el llenado del Certificado de País de Origen contenido en el Anexo III, del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
 
-A efecto de impulsar el derecho a la Igualdad de oportunidades de las personas con discapacidad, las autoridades estatales y municipales competentes, deberán establecer medidas contra la discriminación y acciones afirmativas positivas que permitan la integración social de las personas con discapacidad, en especial para aquéllas que sufren un grado mayor de discriminación, como son las mujeres, las personas con discapacidad con grado severo, las que viven en el área rural, o bien, no puedan representarse a sí mismas.
+“I. a III. ....
 
-Todas las medidas contra la discriminación tendrán como finalidad corregir o prevenir que una Persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+CAMPO 1: Indique el nombre completo, denominación o razón social, domicilio (incluyendo ciudad y país), número telefónico o fax del exportador. Este campo se refiere a la persona que exporta la mercancía a territorio de los Estados Unidos Mexicanos y podrá ser llenado por el exportador o por el importador.
 
-Las medidas contra la discriminación consistirán en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
+CAMPO 2 a CAMPO 4: ....
 
-Las acciones afirmativas consistirán en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural.
+CAMPO 5: Proporcione la descripción y la cantidad de las mercancías amparadas por este Certificado.
 
-### CAPÍTULO II. Derecho de las mujeres con discapacidad
+La descripción de la mercancía en este campo deberá ser suficiente para identificar la mercancía que se describe en la factura u otro documento con que la mercancía se importa a territorio de Estados Unidos Mexicanos. La descripción de las mercancías podrá constar en hojas anexas cuando así se requiera.
 
-###### Artículo 21.
+El Certificado de País de Origen no podrá ser rechazado cuando el número de las mercancías importadas sea menor al número señalado en dicho Certificado. Sin embargo, si el número declarado en el Certificado es menor al de las mercancías a importar, se entenderá que dichas mercancías carecen del Certificado.
 
-Las mujeres con discapacidad gozarán plenamente de todos los derechos que establecen esta Ley y demás ordenamientos legales, en igualdad de condiciones que las demás, sin distinción de ningún tipo.
+CAMPO 6 ....
 
-###### Artículo 22.
+CAMPO 7 ....
 
-Para prevenir el abuso y discriminación hacia las mujeres con discapacidad, las autoridades competentes, adoptarán entre otras, las siguientes medidas:
+Criterios:
 
-I.- El otorgamiento de becas a niñas, adolescentes y mujeres con discapacidad en todos los niveles educativos;
+A. a F. .....
 
-II.- La Prevención, detección y atención de las enfermedades ginecológicas, renales y demás enfermedades que afecten a mujeres con discapacidad, y
+NOTA:
 
-III.- La Prevención y atención a las mujeres con discapacidad que vivan violencia familiar y de género.
+. . .
 
-### CAPÍTULO III. Derechos de las niñas, niños y adolescentes con discapacidad
+. . .
 
-###### Artículo 23.
+. . .
 
-Las niñas, niños y adolescentes con discapacidad tienen derecho a expresar su opinión libremente sobre todas las cuestiones que les afecten, y a recibir asistencia apropiada con arreglo a su discapacidad y edad para poder ejercer ese derecho.
+. . .
 
-La opinión que emitan las niñas, niños y adolescentes, recibirá la debida consideración, teniendo en cuenta su edad y madurez.
+a) a b) . . .
 
-El DIF y la Secretaría de Educación, en el ámbito de sus respectivas competencias, realizarán las acciones conducentes para promover el respeto al derecho a que se refiere este artículo.
+c) Ser formalizada por el organismo o autoridad extranjera del país de producción del material, cuando se trate de materiales producidos en un país listado en el Anexo VI o en un país no miembro de la Organización Mundial de Comercio. En este caso, no tendrá que formalizarse el Certificado de País de Origen de la mercancía a importar a territorio de los Estados Unidos Mexicanos, que contiene el material o materiales referidos.
 
-###### Artículo 24.
+CAMPO 8 a CAMPO 11: ....”
 
-Las niñas, niños y adolescentes con discapacidad no serán sujetos de violencia de ningún tipo.
+###### ARTICULO 9o.
 
-La Procuraduría, en el ejercicio de sus atribuciones, realizará acciones para prevenir la violencia contra niñas, niños y adolescentes con discapacidad.
+Se reforma el primer párrafo y la fracción II inciso c) del Anexo IV del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
 
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+“La constancia de país de origen es un certificado de origen elaborado en formato libre, que puede constar en la factura y que deberá cumplir con los siguientes requisitos:
 
-###### Artículo 25.
+I.- . . .
 
-Para contribuir al respeto de los derechos de niñas, niños y adolescentes con discapacidad, el DIF realizará acciones para la difusión y conocimiento de dichos derechos y ofrecerá apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela o guarda y custodia de estos, a fin de aportarles los medios necesarios para que pueden (sic) fomentar su desarrollo y vida digna.
+II.- . . .
 
-###### Artículo 26.
+a) a b)
 
-En todas las políticas públicas, acciones y actividades relacionadas con niñas, niños y adolescentes con discapacidad, una consideración primordial será la protección del interés superior del niño.
+c) La descripción de las mercancías de acuerdo a los datos de la factura u otro documento que ampare las mercancías a importar. La descripción de dichas mercancías deberá ser suficiente para identificarlas y podrá constar en hojas anexas, cuando así se requiera.
 
-> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+Cuando se trate de importaciones de mercancías amparadas por una sola factura y dichas mercancías sean originarias de dos o más países, el importador podrá presentar ante la aduana una sola Constancia de País de Origen, siempre y cuando ésta describa las mercancías, e indique el país de origen de cada una de ellas.”
 
-###### Artículo 26 Bis.
+#### Sección XXI
 
-Cuando exista duda o percepción de si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
+Objetos de Arte o Colección y Antigüedades.
 
-> <small>(ADICIONADO, D.O. 29 DE ABRIL DE 2019)</small>
+C) Por lo que hace a las Notas:
 
-###### Artículo 26 Ter.
+Notas:
 
-El Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias, tendrán la obligación de dotar a los parques, jardines o plazas públicas de juegos infantiles que cuenten con el diseño universal, que sean viables, seguros e inclusivos y que permitan la participación de niñas, niños y adolescentes en situación de discapacidad, debiendo garantizar en todo momento el derecho a la accesibilidad en su edificación.
+1. Para propósitos de este apéndice, el término "cortes formados", se refiere a todos los cortes, con la planta cerrada, que además han sido montados, moldeados o conformados de cualquier otra manera, pero no simplemente cerrando la planta.
 
-Esta disposición también será aplicable para todos aquellos particulares que cuenten con áreas públicas de recreación infantil en términos de la reglamentación municipal aplicable.
+2. Para propósitos de este apéndice, el término "cortes sin formar" se refiere a todos los cortes, que no cumplen con la definición de "cortes formados" de la nota 1 de este apéndice.
 
-### CAPÍTULO IV. Derecho a la Accesibilidad y vivienda
+3. Cuando un bien clasificado en la partida 64.01 a 64.05 no satisfaga los requisitos de salto arancelario establecidos en la regla específica para ese bien, el país de origen del corte es el que determina el país de origen del bien.
 
-###### Artículo 27.
+4. Cuando un bien clasificado en la subpartida 6406.10 no satisfaga los requisitos de salto arancelario establecidos en la regla específica para ese bien, el país de origen del bien será el país donde se realice el pespuntado o el cosido del corte.
 
-Las personas con discapacidad tienen derecho a la Accesibilidad universal y a la vivienda.
+###### ARTICULO 2o.
 
-Las dependencias y entidades de la Administración Pública, Estatal y Municipal, vigilarán el cumplimiento de las disposiciones que en materia de Accesibilidad, desarrollo urbano y vivienda se establezcan a favor de las personas con discapacidad en la normatividad aplicable vigente.
+Se reforman los artículos sexto, fracción VI; y séptimo, fracciones I inciso a) y II inciso b), del Anexo I del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
 
-###### Artículo 28.
+“ARTICULO SEXTO.- . . .
 
-Para que las personas con discapacidad puedan vivir en forma independiente y participar plenamente en todos los aspectos de la vida, las autoridades estatales y municipales deberán garantizar la Accesibilidad, en igualdad de condiciones con las demás, en todo el territorio del Estado.
+l a V.- . . .
 
-Para tal efecto, de manera progresiva y de acuerdo a su disponibilidad de presupuesto, deberán:
+VI.- La recolección de partes clasificándolas como si fueran un bien completo o terminado, conforme a la Regla General 2(a) del Sistema Armonizado. Lo anterior no se aplicará a los bienes desensamblados que ya habían sido ensamblados anteriormente y posteriormente desensamblados por conveniencia de empaque, manejo o transporte.
 
-I.- Identificar y eliminar obstáculos y barreras de acceso en edificios públicos y aquellos que presten servicios públicos, las vías públicas, el transporte, otras instalaciones exteriores e interiores como escuelas, instalaciones médicas y lugares de trabajo, así como también en los servicios de información, comunicaciones y de otro tipo, incluidos los servicios electrónicos y de emergencia;
+###### ARTICULO 3o.
 
-II.- Dotar a los edificios públicos de señalización en formatos susceptibles de ser comprendidos por las personas con discapacidad, para facilitar su acceso a dichos edificios;
+Se modifican las denominaciones de los Capítulos 25, 26, 28, 32, 34, 36, 38, 39, 40, 42, 43, 46, 47, 48, 49, 56, 57, 58, 59, 60, 63, 65, 67, 68, 70, 71, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 90, 92, 93, 94, 95 y 97 así como las Secciones VII, VIII, IX, X, XI, XII, XIII, XIV, XVI, XVIII, XIX y XXI y las Notas del Capítulo 64 del Apéndice de Reglas Específicas del Anexo I del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como siguen:
 
-III.- Contar entre su personal, con un intérprete del Lenguaje de Señas Mexicana, para el mismo fin que la fracción anterior, y
+A) Por lo que hace a los Capítulos:
 
-IV.- Lograr el acceso de las personas con discapacidad, a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido el internet.
+###### ARTICULO 4o.
 
-###### Artículo 29.
+Se reforman las reglas de los capítulos 28, 29, 33, 71, 73, 83, 85, 86, 87, 88, 90, 91, 92, 93, 94, 95 y 96 del Apéndice de Reglas Específicas del Anexo I del Acuerdo señalado en el artículo 1o. del presente ordenamiento, en los siguientes términos:
 
-Las personas con discapacidad que requieran apoyo de un Perro guía o animal de servicio para la realización de sus actividades cotidianas, tendrán derecho a que dichos animales tengan acceso a cualquier edificio o instalación de los organismos e instituciones públicas y privadas, así como que permanezcan con ellos en todos los espacios en donde se desenvuelvan.
+a) Del Capítulo 28 las siguientes:
 
-###### Artículo 30.
+2834.10-2834.29 Un cambio a la subpartida 2834.10 a 2834.29 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Los trabajadores con discapacidad tienen derecho a contar con facilidades arquitectónicas en su lugar de trabajo, quedando a cargo de las empresas privadas realizar las modificaciones pertinentes.
+2836.99 Un cambio a la subpartida 2836.99 de cualquier otra subpartida, siempre que el bien sea el resultado de una reacción química como ha sido definida en la nota 1 de esta sección, excepto de la subpartida 2617.90.
 
-###### Artículo 31.
+b) Del Capítulo 29 la siguiente:
 
-Las personas con discapacidad tienen derecho al acceso a la información pública, y para asegurar el respeto a dicho derecho, las unidades de acceso a la información pública de los poderes públicos del Estado y de los municipios, otorgarán asistencia y apoyo a dichas personas para tal efecto.
+2905.22-2905.29 Un cambio a la subpartida 2905.22 a 2905.29 de cualquier otra subpartida fuera del grupo, excepto de la subpartida 1301.90, 3301.90 o 3805.90; o
 
-###### Artículo 32.
+Un cambio a alcohol alílico de la subpartida 2905.29 de cualquier fracción, incluyendo una fracción de la subpartida 2905.29.
 
-Las obras de construcción, públicas y privadas, deberán sujetarse a las disposiciones que en materia de Accesibilidad y desarrollo urbano se establezcan a favor de las personas con discapacidad en la normatividad vigente.
+c) Del Capítulo 33 la siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE JULIO DE 2019)</small>
+33.02 Un cambio a la partida 33.02 de cualquier otra partida, excepto de la partida 21.06, 22.07 o 33.01.
 
-Para regular dicha situación, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal determinarán las normas básicas a que deben sujetarse los proyectos de construcción públicos y privados de:
+d) Del Capítulo 71 la siguiente:
 
-I.- Urbanización, fraccionamiento y construcción, y
+71.16 Un cambio a la partida 71.16 de cualquier otra partida, excepto de la subpartida 7101.10 o 7101.21 o de perlas ensartadas permanentemente sin incluir broches u otros accesorios ornamentales de metales o piedras preciosas.
 
-II.- Ampliaciones, reparaciones y reformas de edificios existentes.
+e) Del Capítulo 73 las siguientes:
 
-###### Artículo 33.
+7315.11-7315.12 Un cambio a la subpartida 7315.11 a 7315.12 de cualquier otra partida; o Un cambio a la subpartida 7315.11 a 7315.12 de la subpartida 7315.19 o 7315.90, excepto cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Toda vivienda destinada para las personas con discapacidad, deberá cumplir en su infraestructura interior y exterior con los elementos necesarios para el acceso y libre desplazamiento de las personas con discapacidad.
+7315.20-7315.89 Un cambio a la subpartida 7315.20 a 7315.89 de cualquier otra partida; o
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+Un cambio a la subpartida 7315.20 a 7315.89 de la subpartida 7315.90, excepto cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Para regular dicha situación, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal determinarán las normas básicas a que deben sujetarse los proyectos de construcción de viviendas y conjuntos habitacionales.
+7321.11-7321.83 Un cambio a la subpartida 7321.11 a 7321.83 de cualquier otra partida; o
 
-###### Artículo 34.
+Un cambio a la subpartida 7321.11 a 7321.83 de la subpartida 7321.90, excepto cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Los programas de vivienda para las personas con discapacidad no representarán ni fomentarán la segregación de las personas con discapacidad del resto de la población.
+f) Del Capítulo 83 la siguiente:
 
-###### Artículo 35.
+8301.10-8301.50 Un cambio a la subpartida 8301.10 a 8301.50 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 8301.60 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Para hacer efectivo el derecho de las personas con discapacidad a una vivienda, el Instituto de Vivienda del Estado de Yucatán, en la medida de sus posibilidades, realizará acciones para facilitar el otorgamiento de créditos a favor de dichas personas, tanto para la obtención de vivienda como para la adaptación de éstas acorde a sus necesidades.
+g) Del Capítulo 85 las siguientes:
 
-### CAPÍTULO V. Derecho a la vida
+8506.90 Un cambio a la subpartida 8506.90 de cualquier otra partida, excepto de la subpartida 8548.10.
 
-###### Artículo 36.
+8507.10-8507.80 Un cambio a la subpartida 8507.10 a 8507.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 8548.10.
 
-Las autoridades estatales y municipales realizarán en toda circunstancia, las medidas conducentes para preservar los derechos a la vida y a la subsistencia de las personas con discapacidad.
+8507.90 Un cambio a la subpartida 8507.90 de cualquier otra partida, excepto de la subpartida 8548.10.
 
-###### Artículo 37.
+h) Del Capítulo 86 las siguientes:
 
-Cualquier institución o persona que tenga conocimiento de que una Persona con discapacidad se encuentre en riesgo inminente de perder la vida, deberá dar aviso inmediato a las autoridades estatales y municipales de seguridad pública.
+86.03-86.06 Un cambio a la partida 86.03 a 86.06 de cualquier otra partida, incluyendo otra partida dentro del grupo, excepto de la partida 86.07 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Tratándose de niñas, niños y adolescentes con discapacidad, cuando el DIF o la Procuraduría, en el ejercicio de sus atribuciones, tenga conocimiento de alguna situación que podría poner en riesgo la vida de esas personas, deberá dar conocimiento inmediato a la Fiscalía General del Estado de Yucatán con el fin de que ésta promueva las acciones oportunas, y en su caso, a la Comisión de Derechos Humanos del Estado.
+8607.11 Un cambio a la subpartida 8607.11 de cualquier otra subpartida, excepto de la subpartida 8607.12 o la subpartida 8607.19 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 38.
+8607.12 Un cambio a la subpartida 8607.12 de cualquier otra subpartida, excepto de la subpartida 8607.11 o la subpartida 8607.19 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-En situaciones de riesgo, emergencias humanitarias y desastres naturales, las personas con discapacidad tienen derecho a que las autoridades estales y municipales garanticen su seguridad y protección en albergues, durante o después de dichos eventos, mismos que deberán prever en lo posible facilidades, así como recursos técnicos y humanos para garantizar una atención y trato digno a las personas según su discapacidad.
+i) Del Capítulo 87 las siguientes:
 
-### CAPÍTULO VI. Derecho a ser reconocido como personas
+87.07 Un cambio a la partida 87.07 de cualquier otra partida, excepto de la subpartida 8708.29 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 39.
+8708.40 Un cambio a la subpartida 8708.40 de cualquier otra subpartida, excepto de la subpartida 8708.99 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Las personas con discapacidad tienen capacidad jurídica en igualdad de condiciones que las demás en todos los aspectos de la vida y, en su caso, aquéllas que no puedan ejercerla por sí mismas, se estarán a lo dispuesto en la legislación de la materia, en lo que respecta a la representación de los incapaces.
+8708.50 Un cambio a la subpartida 8708.50 de cualquier otra subpartida, excepto de la subpartida 8708.99 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 40.
+8708.80-8708.91 Un cambio a la subpartida 8708.80 a 8708.91 de cualquier otra subpartida, excepto de la subpartida 8708.99 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Las autoridades estatales y municipales competentes, proporcionarán a las personas con discapacidad el apoyo que puedan necesitar en el ejercicio de su capacidad jurídica.
+8708.94 Un cambio a la subpartida 8708.94 de cualquier otra subpartida, excepto de la subpartida 8708.99 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 41.
+8709.11-8709.19 Un cambio a la subpartida 8709.11 a 8709.19 de cualquier otra subpartida fuera del grupo, excepto de la subpartida 8709.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-La Procuraduría deberá, de acuerdo al personal que tenga disponible, apoyar jurídicamente a las niñas, niños y adolescentes con discapacidad mental o intelectual, a efecto de que puedan ejercer su capacidad jurídica a través de sus representantes, en términos de la legislación de la materia.
+87.11-87.13 Un cambio a la partida 87.11 a 87.13 de cualquier otra partida, incluyendo otra partida dentro del grupo, excepto de la partida 87.14 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 42.
+8716.10-8716.80 Un cambio a la subpartida 8716.10 a 8716.80 de cualquier otra partida, excepto de la subpartida 8716.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-En todas las medidas y apoyos para el ejercicio de la capacidad jurídica de las personas con discapacidad, se establecerán salvaguardas para impedir abusos, conflictos de intereses o influencias, y conseguir que se respeten los derechos, la voluntad y las preferencias de las personas con discapacidad.
+j) Del Capítulo 88 la siguiente:
 
-Estas salvaguardas deberán ser proporcionales y adecuadas a las circunstancias de la persona y durarán el menor tiempo posible.
+88.01-88.02 Un cambio a la partida 88.01 a 88.02 de cualquier otra partida, fuera del grupo, excepto de la partida 88.03 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-### CAPÍTULO VII. Derecho de acceso a la justicia y seguridad jurídica
+k) Del Capítulo 90 las siguientes:
 
-###### Artículo 43.
+9001.40-9001.90 Un cambio a la subpartida 9001.40 a 9001.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de lentes (vidrios o cristales para óptica) de la subpartida 7014.00 o la subpartida 7015.00 o de la partida 90.33 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Las personas con discapacidad tienen derecho a que se le brinden facilidades para tener acceso a la justicia.
+90.04 Un cambio a la partida 90.04 de cualquier otra partida, excepto de la partida 90.01 o de los bienes clasificados en la partida 90.33 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Para garantizar dicho acceso, las autoridades encargadas de administrar e impartir justicia, deberán:
+l) Del Capítulo 91 las siguientes:
 
-I.- Realizar los ajustes que resulten necesarios, para facilitar en el lugar, el desempeño de las personas con discapacidad que participen directa o indirectamente en el procedimiento de que se trate;
+9111.10-9111.80 Un cambio a la subpartida 9111.10 a 9111.80 de cualquier subpartida fuera del grupo, excepto de la subpartida 9111.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-II.- Promover la disponibilidad de recursos de Comunicación, Ayudas técnicas y humanas necesarias para el acceso equitativo de las personas con discapacidad a su tribunal;
+9112.10-9112.80 Un cambio a la subpartida 9112.10 a 9112.80 de cualquier subpartida fuera del grupo, excepto de la subpartida 9112.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-III.- Brindar capacitación a su personal para que las personas con discapacidad tengan Accesibilidad a la justicia, y
+m) Del Capítulo 92 la siguiente:
 
-IV.- Las demás que señale esta Ley y otras disposiciones aplicables.
+92.01-92.08 Un cambio a la partida 92.01 a 92.08 de cualquier otra partida, incluyendo otra partida dentro del grupo, excepto de la partida 92.09 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 44.
+n) Del Capítulo 93 la siguiente:
 
-Las personas con discapacidad tendrán derecho a recibir un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte, así como obtener, por parte de las autoridades competentes, asesoría y representación jurídica en forma gratuita en dichos procedimientos, en los términos que establezcan las leyes respectivas.
+93.01-93.04 Un cambio a la partida 93.01 a 93.04 de cualquier otra partida, incluyendo otra partida dentro del grupo, excepto de la partida 93.05 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 45.
+o) Del Capítulo 94 las siguientes:
 
-Las personas con discapacidad no serán privadas de su libertad ilegal o arbitrariamente. Cualquier privación de libertad deberá ser de conformidad con la ley aplicable.
+9401.10-9401.80 Un cambio a la subpartida 9401.10 a 9401.80 de cualquier otra subpartida fuera del grupo, excepto de la partida 94.02 a 94.03 o la subpartida 9401.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Las autoridades competentes realizarán las acciones necesarias para asegurar y garantizar a las personas con discapacidad el disfrute de sus derechos a la libertad y seguridad personal.
+94.02 Un cambio a la partida 94.02 de cualquier otra partida, excepto de la subpartida 9401.10 a 9401.80, 9403.10 a 9403.80 o de la subpartida 9401.90 o 9403.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 46.
+9403.10-9403.80 Un cambio a la subpartida 9403.10 a 9403.80 de cualquier subpartida fuera del grupo, excepto de la subpartida 9401.10 a 9401.80 o la subpartida 9401.90 o
 
-Las personas con discapacidad que sean privadas de su libertad en razón de un proceso, tendrán en igualdad de condiciones con las demás, derecho a garantías de conformidad con los Tratados Internacionales ratificados por México, relacionados con la materia.
+9403.90 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 47.
+9405.10-9405.60 Un cambio a la subpartida 9405.10 a 9405.60 de cualquier subpartida fuera del grupo, excepto de la subpartida 9405.91 a 9405.99 cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Las instituciones de administración e impartición de justicia, de manera progresiva y de acuerdo a su disponibilidad de su presupuesto, dispondrán los recursos humanos y materiales necesarios para que las personas con discapacidad tengan pleno acceso a la justicia.
+p) Del Capítulo 95 la siguiente:
 
-### CAPÍTULO VIII. Derecho a la protección contra la tortura y otros tratos o penas crueles, inhumanas o degradantes
+95.01 Un cambio a la partida 95.01 de cualquier otro capítulo, excepto de la partida
 
-###### Artículo 48.
+87.14, cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-Las personas con discapacidad no podrán ser sometidas a tortura u otros tratos o penas crueles, inhumanas o degradantes.
+q) Del Capítulo 96 la siguiente:
 
-Queda prohibido someter a las personas con discapacidad a ensayos médicos o científicos, a menos de que medie su consentimiento o el de sus tutores.
+9607.11-9607.19 Un cambio a la subpartida 9607.11 a 9607.19 de cualquier otra subpartida, excepto de la subpartida 9607.20, cuando este cambio se efectúe por aplicación de la Regla General 2(a) del Sistema Armonizado.
 
-###### Artículo 49.
+###### ARTICULO 5o.
 
-Las personas con discapacidad que se encuentren en centros de atención médica, asilos o refugios públicos o privados, o centros de reinserción social, no podrán ser objeto de tortura o tratos crueles, inhumanos o degradantes.
+Se adicionan a los Capítulos 28, 29, 32, 33, 35, 38, 68, 70, 75, 76, 79, 80, 84, 85 y 90 del Apéndice de Reglas Específicas del Anexo I del Acuerdo señalado en el artículo 1o. del presente ordenamiento, las reglas específicas siguientes:
 
-### CAPÍTULO IX. Derecho a la protección contra la explotación, la violencia y el abuso
+a) Al Capítulo 28 las siguientes:
 
-###### Artículo 50.
+2826.11-2832.30 Un cambio a la subpartida 2826.11 a 2832.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Las personas con discapacidad tienen derecho a que se respete su integridad física, sexual y mental en igualdad de condiciones con las demás, por lo que no podrán ser sometidas a explotación, violencia y abuso de ningún tipo.
+2833.11-2833.19 Un cambio a la subpartida 2833.11 a 2833.19 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Las autoridades estatales y municipales competentes, realizarán acciones en el ámbito social, educativo y de cualquier otra índole, que tengan por objeto prevenir y atender la explotación, violencia y abuso contra las personas con discapacidad, tanto en el seno del hogar como fuera de él.
+2841.61-2841.69 Un cambio a la subpartida 2841.61 a 2841.69 de cualquier otra subpartida fuera del grupo.
 
-###### Artículo 51.
+2848.00-2849.90 Un cambio a la subpartida 2848.00 a 2849.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Cualquier persona que tenga conocimiento de que una Persona con discapacidad está siendo o ha sido víctima de explotación, violencia y abuso, deberá dar aviso a la Procuraduría, a la Fiscalía General del Estado de Yucatán o a las autoridades de Seguridad Pública.
+b) Al Capítulo 29 las siguientes:
 
-###### Artículo 52.
+2905.11-2905.19 Un cambio a la subpartida 2905.11 a 2905.19 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Las personas con discapacidad que hayan sido víctimas de explotación, violencia y abuso, podrán recibir asistencia y apoyo del DIF, quien intervendrá en el ámbito de sus atribuciones y en la medida de sus posibilidades.
+2914.31-2914.70 Un cambio a la subpartida 2914.31 a 2914.70 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 3301.90.
 
-En su caso, dicha asistencia y apoyo, tendrá en cuenta la edad, el género y el tipo de discapacidad de las personas, así como procurará que dichas personas estén en aptitud de prevenir, reconocer y denunciar cualquier caso de explotación, violencia y abuso.
+c) Al Capítulo 32 la siguiente:
 
-###### Artículo 53.
+3206.11-3206.19 Un cambio a la subpartida 3206.11 a 3206.19 de cualquier otra subpartida fuera del grupo.
 
-El DIF y la Secretaría de Salud, en el ámbito de sus respectivas competencias, realizarán acciones tendientes a la recuperación física, cognitiva y psicológica, así como la Rehabilitación y la reintegración social de las personas con discapacidad que sean víctimas de cualquier forma de explotación, violencia o abuso.
+3206.20-3209.90 Un cambio a la subpartida 3206.20 a 3209.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-### CAPÍTULO X. Derecho a vivir de forma independiente y a ser incluido en la comunidad
+d) Al Capítulo 33 las siguientes:
 
-###### Artículo 54.
+3304.10-3305.90 Un cambio a la subpartida 3304.10 a 3305.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Las personas con discapacidad tienen el derecho a vivir de forma independiente y a ser incluidos en la comunidad, con opciones iguales a las demás personas.
+3306.10 Un cambio a la subpartida 3306.10 de cualquier otra subpartida.
 
-Para garantizar el goce pleno de este derecho, las autoridades estatales y municipales competentes, procurarán que:
+3306.20 Un cambio a la subpartida 3306.20 de cualquier otra subpartida, excepto de la subpartida 5402.10, 5402.32 o 5402.41.
 
-I.- Las personas con discapacidad tengan la oportunidad de elegir su lugar de residencia así como dónde y con quién vivir, en igualdad de condiciones con las demás, y que no se vean obligadas a vivir con arreglo a un sistema de vida específico;
+3306.90 Un cambio a la subpartida 3306.90 de cualquier otra subpartida.
 
-II.- Las personas con discapacidad tengan acceso a una variedad de servicios de asistencia domiciliaria, residencial y otros servicios de apoyo de la comunidad, incluida la asistencia personal que sea necesaria para facilitar su existencia, su inclusión en la comunidad y para evitar su aislamiento o separación de ésta, y
+3307.10-3307.90 Un cambio a la subpartida 3307.10 a 3307.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-III.- Las instalaciones y los servicios comunitarios para la población en general estén a disposición, en igualdad de condiciones, de las personas con discapacidad y tengan en cuenta sus necesidades.
+e) Al Capítulo 35 las siguientes:
 
-### CAPÍTULO XI. Derecho a la movilidad personal
+3502.11-3502.19 Un cambio a la subpartida 3502.11 a 3502.19 de cualquier otra subpartida fuera del grupo, excepto de la partida 04.07.
 
-> <small>(REFORMADO, D.O. 30 DE JULIO DE 2019)</small>
+3502.20-3502.90 Un cambio a la subpartida 3502.20 a 3502.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 55.
+f) Al Capítulo 38 las siguientes:
 
-Las personas con discapacidad tendrán derecho a gozar de movilidad personal con la mayor independencia posible; por lo cual se les brindarán condiciones de accesibilidad para quienes requieran la asistencia de algún aparato ortopédico, silla de ruedas o perro guía o animal de servicio.
+3823.11-3823.13 Un cambio a la subpartida 3823.11 a 3823.13 de cualquier otra partida, excepto de la partida 15.20.
 
-###### Artículo 56.
+3823.19 Un cambio a la subpartida 3823.19 de cualquier otra subpartida.
 
-La arquitectura en lugares con acceso público debe ser adecuada y contar con las facilidades para que las personas con discapacidad puedan desplazarse.
+3823.70 Un cambio a la subpartida 3823.70 de cualquier otra partida, excepto de la partida 15.20.
 
-Las barreras arquitectónicas en la vía pública y en lugares con acceso al público, se deberán adecuar, modificar o eliminar, según corresponda, a efecto de que las personas con discapacidad puedan tener acceso a todos los espacios públicos y a los servicios e instalaciones como:
+3824.10 Un cambio a la subpartida 3824.10 de cualquier otra subpartida, excepto de la partida 35.05, 39.03, 39.05, 39.06, 39.09, 39.11, 39.13, la subpartida 3806.10 o 3806.20.
 
-I.- Estacionamientos y aparcaderos;
+3824.20 Un cambio a la subpartida 3824.20 de cualquier otra subpartida.
 
-II.- Contenedores para depósitos de basura;
+3824.30 Un cambio a la subpartida 3824.30 de cualquier otra subpartida, excepto de la partida 28.49.
 
-III.- Auditorios, salas de cine, teatros y en general cualquier sala de espectáculos;
+3824.40 Un cambio a la subpartida 3824.40 de cualquier otra subpartida.
 
-IV.- Bibliotecas;
+3824.50 Un cambio a la subpartida 3824.50 de cualquier otra subpartida, excepto de la subpartida 3214.90.
 
-V.- Escuelas;
+3824.60 Un cambio a la subpartida 3824.60 de cualquier otra subpartida.
 
-VI.- Sanitarios;
+3824.71-3824.90 Un cambio a la subpartida 3824.71 a 3824.90 de cualquier otra subpartida, siempre que no más del 60 por ciento del peso del producto clasificado en estas subpartidas sea atribuible a una sola substancia o compuesto.
 
-VII.- Parques y jardines, y
+g) Al Capítulo 68 la siguiente:
 
-VIII.- Instalaciones públicas deportivas, centros culturales y recreativos.
+6810.11-6810.19 Un cambio a la subpartida 6810.11 a 6810.19 de cualquier otra partida.
 
-###### Artículo 57.
+h) Al Capítulo 70 las siguientes:
 
-Para que no se impida el desplazamiento de una silla de ruedas o el de un instrumento de apoyo para invidentes o débiles visuales, la colocación de los señalamientos viales se efectuará de manera estratégica, evitando su instalación en el centro de pasillos, en orillas de aceras angostas, y en camellones.
+7019.11-7019.19 Un cambio a la subpartida 7019.11 a 7019.19 de cualquier otra partida.
 
-###### Artículo 58.
+7019.40-7019.59 Un cambio a la subpartida 7019.40 a 7019.59 de cualquier otra subpartida fuera del grupo.
 
-Las personas con discapacidad tendrán derecho exclusivo a ocupar los espacios de estacionamiento para ellas destinados, siempre que el vehículo se identifique con placa o tarjetón con logotipo para personas con discapacidad expedido por la autoridad de vialidad competente.
+i) Al Capítulo 75 la siguiente:
 
-Asimismo, tendrán derecho a que en los sitios públicos se respete todo tipo de lugar para ellas reservados, de tal manera que puedan desplazarse libremente y disfrutar de los servicios públicos en igualdad de circunstancias.
+7507.11-7508.90 Un cambio a la subpartida 7507.11 a 7508.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 59.
+j) Al Capítulo 76 la siguiente:
 
-Los espacios destinados a prestar servicios al público, deberán cumplir con los elementos necesarios que permitan la movilidad y Accesibilidad de las personas con discapacidad.
+7616.10-7616.99 Un cambio a la subpartida 7616.10 a 7616.99 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+k) Al Capítulo 79 la siguiente:
 
-Para regular dicha situación, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal determinarán las normas básicas a que deben sujetarse los proyectos de construcción, adaptación o remodelación.
+7907.00 Un cambio a la subpartida 7907.00 de cualquier otra subpartida.
 
-###### Artículo 60.
+l) Al Capítulo 80 la siguiente:
 
-Para que las personas con discapacidad gocen de movilidad personal con la mayor independencia posible, las autoridades competentes, realizarán entre otras acciones, las siguientes:
+8005.00 Un cambio a la subpartida 8005.00 de cualquier otra subpartida; o
 
-> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+Un cambio a escamillas de la subpartida 8005.00 de hojas y bandas de la subpartida 8005.00; o
 
-I.- Promover y permitir el acceso de las personas con discapacidad a formas de asistencia humana o animal e intermediarios, tecnologías de apoyo, dispositivos técnicos y ayudas para la movilidad de calidad
+Un cambio a hojas y bandas de la subpartida 8005.00 de polvo o escamillas de la subpartida 8005.00.
 
-II.- Impulsar que se otorgue a un costo asequible, cualquier tipo de apoyo o ayuda que facilite la movilidad personal;
+m) Al Capítulo 84 las siguientes:
 
-III.- Promover la capacitación de las personas con discapacidad y del personal especializado que trabaje con éstas, en habilidades relacionadas con la movilidad, y
+8406.10-8406.82 Un cambio a la subpartida 8406.10 a 8406.82 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-IV.- Alentar a las instituciones públicas y privadas a que fabriquen ayudas para la movilidad, así como dispositivos y tecnologías de apoyo, a que tengan en cuenta todos los aspectos de la movilidad de las personas con discapacidad.
+8456.10-8456.99 Un cambio a la subpartida 8456.10 a 8456.99 de cualquier otra partida.
 
-### CAPÍTULO XII. Derecho de acceso al transporte público
+8469.11-8469.30 Un cambio a la subpartida 8469.11 a 8469.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 61.
+8470.10-8470.90 Un cambio a la subpartida 8470.10 a 8470.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Las personas con discapacidad tienen derecho al acceso al transporte público, en igualdad de condiciones que las demás y sin discriminación de ningún tipo.
+8471.10 Un cambio a la subpartida 8471.10 de cualquier otra subpartida.
 
-###### Artículo 62.
+8471.30-8471.41 Un cambio a la subpartida 8471.30 a 8471.41 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 8471.49.
 
-El sistema de transporte público deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso a las personas con discapacidad, en los términos del ordenamiento aplicable en la materia.
+8471.49 Nota: El origen de cada una de las unidades presentadas dentro de un sistema se determinará como si cada unidad se presentara por separado y fuese clasificada bajo la fracción arancelaria apropiada para dicha unidad.
 
-###### Artículo 63.
+8471.50 - 8471.90 Un cambio a la subpartida 8471.50 a 8471.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 8471.49.
 
-Los concesionarios del servicio de taxis y camiones deberán prestar el servicio de manera eficiente, evitando cualquier riesgo a las personas con discapacidad.
+8472.10 - 8472.90 Un cambio a la subpartida 8472.10 a 8472.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+8475.10-8475.29 Un cambio a la subpartida 8475.10 a 8475.29 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 64.
+8476.21-8476.89 Un cambio a la subpartida 8476.21 a 8476.89 de cualquier otra subpartida fuera del grupo.
 
-Para garantizar el respeto al derecho a que se refiere este capítulo, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal deberán realizar las siguientes acciones:
+n) Al Capítulo 85 las siguientes:
 
-I.- Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de promover programas que garanticen a las personas con discapacidad, la Accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público, para beneficio de las personas con discapacidad;
+8506.10-8506.80 Un cambio a la subpartida 8506.10 a 8506.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 8548.10.
 
-II.- Establecer que en las licitaciones de concesión del servicio de transporte público, se incluyan especificaciones técnicas, ergonómicas y antropométricas en materia de discapacidad;
+8510.10-8510.30 Un cambio a la subpartida 8510.10 a 8510.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-III.- Vigilar que las empresas del transporte de pasajeros incluyan en sus unidades, especificaciones técnicas, ergonómicas y antropométricas adecuadas para las personas con discapacidad;
+8517.11-8517.80 Un cambio a la subpartida 8517.11 a 8517.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-IV.- Promover el diseño de programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad, en su tránsito por la vía pública;
+8527.12-8527.90 Un cambio a la subpartida 8527.12 a 8527.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-V.- Promover el otorgamiento de estímulos fiscales a las empresas concesionarias de las diversas modalidades de servicio de transporte público, que realicen acciones a favor de las personas con discapacidad;
+8528.12-8528.30 Un cambio a la subpartida 8528.12 a 8528.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-VI.- Promover el otorgamiento de beneficios en el costo del servicio de transporte a favor de las personas con discapacidad, y
+8539.10-8539.49 Un cambio a la subpartida 8539.10 a 8539.49 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-VII.- Promover acciones permanentes de orientación y capacitación a conductores de vehículos del servicio público de transporte, con el objeto de brindar una atención adecuada a las personas con discapacidad.
+8543.11-8543.89 Un cambio a la subpartida 8543.11 a 8543.89 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-> <small>(ADICIONADA, D.O. 30 DE JULIO DE 2019)</small>
+8545.11-8547.90 Un cambio a la subpartida 8545.11 a 8547.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-VIII.- Permitir el acceso de perros guía o animal de asistencia, silla de ruedas o aparatos ortopédicos, en el transporte público, para facilitar la movilidad de las personas con discapacidad.
+8548.10 Un cambio a la subpartida 8548.10 de cualquier otro capítulo.
 
-### CAPÍTULO XIII. Derecho a la libertad de expresión, opinión y acceso a la información
+8548.90 Un cambio a la subpartida 8548.90 de cualquier otra subpartida.
 
-###### Artículo 65.
+o) Al Capítulo 90 las siguientes:
 
-Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de Comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población.
+9007.11-9007.20 Un cambio a la subpartida 9007.11 a 9007.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Para tales efectos, las autoridades competentes establecerán entre otras, las siguientes medidas:
+9010.10-9010.60 Un cambio a la subpartida 9010.10 a 9010.60 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-I.- Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, en formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
+9022.12-9022.90 Un cambio a la subpartida 9022.12 a 9022.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de detectores de humo de la subpartida 8531.10.
 
-II.- Promover la utilización de la Lengua de Señas Mexicana, el Sistema de escritura braille, y otros modos, medios y formatos de Comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido internet;
+###### ARTICULO 6o.
 
-III.- Las instituciones a cargo de servicios y programas sociales en materia de discapacidad, proporcionarán la información y la asesoría requerida para favorecer el desarrollo e integración social de las personas con discapacidad;
+Se eliminan las reglas específicas de los capítulos 28, 29, 32, 33, 35, 38, 68, 70, 75, 76, 79, 80, 84, 85, 90 y 96 del Apéndice de Reglas Específicas del Anexo I del Acuerdo señalado en el artículo 1o. del presente ordenamiento, que a continuación se indican:
 
-IV.- Las instituciones que presten servicios y suministran información al público en general, la proporcionarán en formatos accesibles y de fácil comprensión a las personas con discapacidad, y
+a) Del Capítulo 28 las siguientes:
 
-V.- Promoverán, con el apoyo de las instituciones privadas y Organizaciones de la Sociedad Civil, la utilización de la Lengua de Señas Mexicana.
+2826.11-2833.19 Un cambio a la subpartida 2826.11 a 2833.19 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-### CAPÍTULO XIV. Derecho al respeto de la privacidad
+2836.93 Un cambio a la subpartida 2836.93 de cualquier otra subpartida, excepto de la subpartida 2617.90.
 
-###### Artículo 66.
+2841.60 Un cambio a la subpartida 2841.60 de cualquier otra subpartida.
 
-Ninguna Persona con discapacidad será objeto de injerencias arbitrarias o ilegales en su vida privada, familia, hogar, correspondencia o cualquier otro tipo de Comunicación, o de agresiones ilícitas contra su honor y su reputación.
+2848.10-2849.90 Un cambio a la subpartida 2848.10 a 2849.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo
 
-###### Artículo 67.
+b) Del Capítulo 29 las siguientes:
 
-Las autoridades estatales y municipales protegerán la privacidad de la información personal y la relativa a la salud y Rehabilitación de las personas con discapacidad, en igualdad de condiciones con las demás.
+2905.11-2905.21 Un cambio a la subpartida 2905.11 a 2905.21 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-### CAPÍTULO XV. Derecho de respeto al hogar y la familia
+2914.30-2914.70 Un cambio a la subpartida 2914.30 a 2914.70 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de la subpartida 3301.90
 
-###### Artículo 68.
+c) Del Capítulo 32 la siguiente:
 
-Ninguna Persona con discapacidad será sujeta a discriminación alguna en cuestiones relacionadas con el matrimonio, la familia, la paternidad y las relaciones personales.
+3206.10-3209.90 Un cambio a la subpartida 3206.10 a 3209.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Dichas personas, en igualdad de condiciones con la demás, tienen derecho a:
+d) Del Capítulo 33 la siguiente:
 
-I.- Casarse y fundar una familia sobre la base del consentimiento libre y pleno de los futuros cónyuges, cuando cuenten con la edad requerida para tal efecto, y
+3304.10-3307.90 Un cambio a la subpartida 3304.10 a 3307.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-II.- Decidir libremente y de manera responsable el número de hijos que quieren tener y el tiempo que debe transcurrir entre un nacimiento y otro, así como tener acceso a información, educación sobre reproducción y planificación familiar apropiados para su edad.
+e) Del Capítulo 35 las siguientes:
 
-###### Artículo 69.
+3502.10 Un cambio a la subpartida 3502.10 de cualquier otra subpartida, excepto de la partida 04.07.
 
-Las personas con discapacidad tienen los mismos derechos que las demás personas con respecto a la vida en familia.
+3502.90 Un cambio a la subpartida 3502.90 de cualquier otra subpartida.
 
-La Procuraduría realizará las acciones que tenga a su alcance para prevenir el ocultamiento, abandono, negligencia y segregación de las niñas, niños y adolescentes con discapacidad del núcleo familiar, así como para brindar la atención que se requiera en caso de que se produzcan dichos eventos.
+f) Del Capítulo 38 las siguientes:
 
-###### Artículo 70.
+3823.10 Un cambio a la subpartida 3823.10 de cualquier otra subpartida, excepto de la subpartida 3505, 3903, 3905, 3906, 3909, 3911, 3913, la supartida 3806.10 o 3806.20.
 
-Las niñas, niños y adolescentes con discapacidad no serán separados de sus padres contra su voluntad, salvo que sea necesario en el interés superior del niño y así lo decida la autoridad judicial competente.
+3823.20 Un cambio a la subpartida 3823.20 de cualquier otra subpartida.
 
-En ningún caso se separará a un menor de sus padres en razón de una discapacidad del menor, de ambos padres o de uno de ellos.
+3823.30 Un cambio a la subpartida 3823.30 de cualquier otra subpartida, excepto de la partida 2849.
 
-###### Artículo 71.
+3823.40 Un cambio a la subpartida 3823.40 de cualquier otra subpartida.
 
-La Procuraduría debe proteger los derechos de las niñas, niños y adolescentes con discapacidad, en lo que respecta a la custodia, la tutela, la guarda y la adopción.
+3823.50 Un cambio a la subpartida 3823.50 de cualquier otra subpartida, excepto de la subpartida 3214.90.
 
-### CAPÍTULO XVI. Derecho a la educación
+3823.60 Un cambio a la subpartida 3823.60 de cualquier otra subpartida.
 
-###### Artículo 72.
+3823.90 Un cambio a la subpartida 3823.90 de cualquier otra subpartida, siempre que no más del 60 por ciento del peso del producto clasificado en esta subpartida sea atribuible a una sola substancia o compuesto.
 
-Las personas con discapacidad tienen derecho a la educación, sin que sean sujetas a discriminación y sobre la base de la Igualdad de oportunidades.
+g) Del Capítulo 68 la siguiente:
 
-Para tal efecto, la Secretaría de Educación, con el apoyo de la Federación, deberá contar con un sistema de Educación inclusiva en todos los niveles, con el objeto de:
+6810.11-6810.20 Un cambio a la subpartida 6810.11 a 6810.20 de cualquier otra partida.
 
-I.- Desarrollar plenamente el potencial humano y el sentido de la dignidad y la autoestima de las personas con discapacidad, así como reforzar el respeto por sus derechos humanos, libertades fundamentales y la diversidad humana;
+h) Del Capítulo 70 las siguientes:
 
-II.- Desarrollar al máximo la personalidad, los talentos y la creatividad de las personas con discapacidad, así como sus aptitudes mentales y físicas, y
+7019.10 Un cambio a la subpartida 7019.10 de cualquier otra partida.
 
-III.- Hacer posible que las personas con discapacidad participen de manera efectiva en una sociedad libre.
+7019.20 Un cambio a la subpartida 7019.20 de cualquier otra subpartida.
 
-###### Artículo 73.
+i) Del Capítulo 75 la siguiente:
 
-Las personas con discapacidad no podrán ser excluidas de la educación por motivos de discapacidad.
+7507.11-7508.00 Un cambio a la subpartida 7507.11 a 7508.00 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-De manera especial, se vigilará que las niñas, niños y adolescentes con discapacidad no queden excluidos de la educación de tipo básico por motivos de discapacidad.
+j) Del Capítulo 76 la siguiente:
 
-###### Artículo 74.
+7616.10-7616.90 Un cambio a la subpartida 7616.10 a 7616.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-La Secretaría de Educación promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, guarderías o del personal docente o administrativo del Sistema Educativo Estatal. Para tales efectos, de acuerdo con su disponibilidad presupuestal, realizará las siguientes acciones:
+k) Del Capítulo 79 la siguiente:
 
-I.- Atender el rezago educativo de las personas con discapacidad;
+7907.10-7907.90 Un cambio a la subpartida 7907.10 a 7907.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-II.- Impulsar la inclusión de las personas con discapacidad en todos los niveles del Sistema Educativo Estatal;
+l) Del Capítulo 80 la siguiente:
 
-III.- Promover la formación, actualización, capacitación y profesionalización de los docentes y personal asignado que intervenga directamente en la inclusión educativa de personas con discapacidad;
+8005.10-8005.20 Un cambio a la subpartida 8005.10 a 8005.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-IV.- Promover que se emplee a maestros, incluidos aquellos con discapacidad, que estén calificados en el Lenguaje de Señas Mexicanas o el Sistema de escritura Braille, y para formar a profesionales y personal que trabajen en todos los niveles educativos, especialmente en la toma de conciencia sobre la discapacidad y el uso de modos, medios y formatos de Comunicación aumentativos y alternativos apropiados, y de técnicas y materiales educativos para apoyar a las personas con discapacidad;
+m) Del Capítulo 84 las siguientes:
 
-V.- Propiciar que las personas con discapacidad tengan acceso general a la educación de tipo medio superior y superior, así como a la educación para adultos y el aprendizaje durante toda la vida sin discriminación y en igualdad de condiciones con las demás;
+8406.11-8406.19 Un cambio a la subpartida 8406.11 a 8406.19 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-VI.- Apoyar, conforme al presupuesto autorizado, a los estudiantes con discapacidad con materiales y Ayudas técnicas que impulsen su rendimiento académico, procurando, de acuerdo a su disponibilidad de presupuesto, equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes del Lenguaje de Señas Mexicana o especialistas en el Sistema de escritura braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
+8456.10-8456.90 Un cambio a la subpartida 8456.10 a 8456.90 de cualquier otra partida.
 
-VII.- Fomentar el acceso de las personas con discapacidad auditiva, lingüística y visual a la educación pública obligatoria;
+8469.10-8469.29 Un cambio a la subpartida 8469.10 a 8469.29 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-VIII.- Establecer un programa de becas educativas para personas con discapacidad;
+8469.31-8469.39 Un cambio a la subpartida 8469.31 a 8469.39 de cualquier otra subpartida fuera del grupo.
 
-IX.- Diseñar e implementar, conjuntamente con la Federación, programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y el Lenguaje de Señas Mexicana;
+8470.10-8472.90 Un cambio a la subpartida 8470.10 a 8472.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-X.- Impulsar toda forma de Comunicación escrita que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
+8475.10-8475.20 Un cambio a la subpartida 8475.10 a 8475.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-XI.- Promover programas de investigación, preservación y desarrollo del Lenguaje de Señas Mexicana, y de las formas de Comunicación de las personas con discapacidad visual;
+8476.11-8476.19 Un cambio a la subpartida 8476.11 a 8476.19 de cualquier otra subpartida fuera del grupo.
 
-XII.- Elaborar programas para las personas con discapacidad visual, que los integre al Sistema Educativo Estatal, Público o Privado, creando de manera progresiva condiciones de Accesibilidad;
+n) Del Capítulo 85 las siguientes:
 
-XIII.- Promover que las instituciones y Organizaciones de la Sociedad Civil, ofrezcan cursos sobre tableros de Comunicación, Lenguaje de Señas Mexicana, sistema de lectura y escritura braille, que favorezcan la Comunicación de las personas con discapacidad;
+8506.11-8506.20 Un cambio a la subpartida 8506.11 a 8506.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-XIV.- Establecer mecanismos a fin de que las niñas, niños con discapacidad gocen del derecho a la admisión gratuita y obligatoria, así como a la atención especializada, en los centros de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios. Las niñas y niños con discapacidad no podrán ser condicionados en su integración a la educación inicial o preescolar;
+8510.10-8510.20 Un cambio a la subpartida 8510.10 a 8510.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-XV.- Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social, y
+8517.10-8517.82 Un cambio a la subpartida 8517.10 a 8517.82 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-XVI.- Realizar Ajustes razonables en función de las necesidades individuales de los alumnos con discapacidad, y facilitar medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo el desarrollo académico y social.
+8527.11-8527.90 Un cambio a la subpartida 8527.11 a 8527.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 75.
+8528.10-8528.20 Un cambio a la subpartida 8528.10 a 8528.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-Todo el personal que intervenga en la educación de las personas con discapacidad deberá poseer la especialización, experiencia y aptitudes necesarias.
+8539.10-8539.40 Un cambio a la subpartida 8539.10 a 8539.40 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 76.
+8543.10-8543.80 Un cambio a la subpartida 8543.10 a 8543.80 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-La Educación especial tendrá también entre sus objetivos, la formación de la vida independiente y la atención de necesidades educativas especiales que comprende entre otras, dificultades severas de aprendizaje, comportamiento, emocionales, discapacidad múltiple o severa y aptitudes sobresalientes, que le permita a las personas tener un desempeño académico equitativo, evitando así la desatención, deserción, rezago o discriminación.
+8545.11-8548.00 Un cambio a la subpartida 8545.11 a 8548.00 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 77.
+o) Del Capítulo 90 las siguientes:
 
-El Estado y los municipios, a través de las autoridades educativas competentes, organizarán juntamente con instituciones privadas y Organizaciones de la Sociedad Civil, actividades dirigidas a las personas con discapacidad para que éstas tengan la posibilidad de aprender habilidades para la vida y desarrollo social, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y como miembros de la comunidad.
+9007.11-9007.29 Un cambio a la subpartida 9007.11 a 9007.29 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-###### Artículo 78.
+9010.10-9010.30 Un cambio a la subpartida 9010.10 a 9010.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
 
-De manera progresiva y de acuerdo a la disponibilidad presupuestal, se procurará que en la Red Estatal de Bibliotecas Públicas de Yucatán, se incluyan, entre otros, los equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de escritura braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad.
+9022.11-9022.90 Un cambio a la subpartida 9022.11 a 9022.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, excepto de detectores de humo de la subpartida 8531.10.
 
-La Red Estatal de Bibliotecas Públicas de Yucatán, determinará el porcentaje del acervo que cada institución que la conforma tendrá disponible en Sistema de escritura braille y en audio, tomando en consideración criterios de biblioteconomía, así como también preverá que los acervos digitales estén al alcance de las personas con discapacidad.
+p) Del Capítulo 96 la siguiente:
 
-### CAPÍTULO XVII. Derecho a la salud
+9614.10 Un cambio a la subpartida 9614.10 de cualquier otra partida, excepto de la partida 44.07.
 
-###### Artículo 79.
+###### ARTICULO CUARTO.
 
-Las personas con discapacidad tienen derecho a gozar del más alto nivel posible de salud, sin Discriminación por motivos de discapacidad, mediante programas y servicios que serán diseñados y proporcionados, considerando criterios de calidad, especialización, género, gratuidad o precio asequible.
+. . .
 
-###### Artículo 80.
+l.- . . .
 
-Para el debido cumplimiento de lo establecido en el artículo anterior, la Secretaría de Salud, de acuerdo con su disponibilidad presupuestal, deberá:
+a) Tratándose de las mercancías listadas en el Anexo II, con el Certificado de País de Origen contenido en el Anexo III. Cuando, de conformidad con las Reglas de País de Origen, el país de origen de las mercancías no sea miembro de la Organización Mundial de Comercio, se requerirá, además, una constancia de verificación expedida por una de las empresas privadas de inspección, reconocida por la Dirección General de Servicios al Comercio Exterior de la Secretaría de Comercio y Fomento Industrial, que avale la información contenida en el Certificado de País de Origen contenido en el Anexo III. La Secretaría de Comercio y Fomento Industrial publicará periódicamente, en el Diario Oficial de la Federación, la lista de las empresas privadas de inspección reconocidas.
 
-I.- Establecer programas que brinden atención de la salud gratuitos o a precios asequibles, incluso en el ámbito de la salud sexual y reproductiva, y programas de salud pública dirigidos a la población con discapacidad;
+Cuando la importación de mercancías listadas en el Anexo II se efectúe a la franja fronteriza norte del país y a la región fronteriza al amparo de los Decretos, el importador podrá optar por cumplir con lo dispuesto en este inciso o en el inciso b) de esta fracción. Las mercancías importadas conforme al inciso b), no podrán ser objeto de reexpedición.
 
-II.- Proporcionar los servicios de salud que requieran las personas con discapacidad como consecuencia de su discapacidad, incluidas la pronta detección e intervención cuando proceda, y servicios destinados a prevenir y reducir al máximo la aparición de nuevas discapacidades;
+b) a d) . . .
 
-III.- Diseñar, ejecutar y evaluar programas para la orientación, Prevención, detección, Estimulación temprana, habilitación, atención integral y Rehabilitación para las diferentes discapacidades;
+II.- . . .
 
-IV.- Crear o fortalecer establecimientos de salud y de asistencia social que permitan ejecutar los programas señalados en la fracción anterior, los cuales podrán extenderse a las regiones rurales y comunidades indígenas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad;
+a) . . .
 
-V.- Establecer programas de Prevención de la discapacidad desde el inicio de la etapa reproductiva de la mujer, antes y durante el embarazo;
+b) Copia del Certificado de País de Origen o el original cuando se trate de mercancías de un país listado en el Anexo VI, o de un país no miembro de la Organización Mundial de Comercio. Cuando la importación de las mercancías amparadas por el mismo certificado se divida en dos o más pedimentos, podrá adjuntar a dichos pedimentos la misma copia del certificado. Cuando se trate de mercancías de un país listado en el Anexo VI, o de un país no miembro de la Organización Mundial de Comercio, deberá presentar el original del Certificado de País de Origen con el primer pedimento y copia de dicho Certificado con los pedimentos subsecuentes, haciendo referencia en estos últimos al número de pedimento en el cual conste anexo el original del Certificado;
 
-VI.- Elaborar y aplicar las guías médicas específicas para la atención de cada tipo de discapacidad;
+c) a e) . . .
 
-VII.- Establecer programas de educación para la salud, Rehabilitación y educación sexual para las personas con discapacidad;
+. . .
 
-VIII.- Establecer servicios de información, orientación, atención y tratamiento psicológico para las personas con discapacidad;
+En los casos en que se admite la presentación de copias de la documentación a que se refiere esta fracción, también podrán admitirse dichas copias transmitidas vía fax.
 
-IX.- Promover la capacitación y actualización permanente del personal médico y administrativo, para la atención de la población con discapacidad;
+III.- . . .
 
-X.- Realizar acciones para evitar la discriminación contra las personas con discapacidad en la prestación de los servicios de salud;
+###### ARTICULO QUINTO.
 
-XI.- Fomentar la investigación médica para detectar la etiología, evolución, tratamiento y Prevención de las discapacidades más recurrentes;
+. . .
 
-XII.- Celebrar convenios de colaboración con instituciones de salud públicas y privadas del Estado, para impulsar investigaciones en la materia;
+l.- . . .
 
-XIII.- Incitar a los profesionales de la salud que presten atención a personas con discapacidad, para que sus servicios sean de calidad, sobre la base de un consentimiento libre e informado, entre otras formas mediante la sensibilización respecto de los derechos humanos, la dignidad, la autonomía y las necesidades de las personas con discapacidad;
+II.- Estar formalizado por el organismo o autoridad extranjera señalado en el instructivo contenido en el Anexo III cuando se trate de mercancías de un país listado en el Anexo VI, o de un país no miembro de la Organización Mundial de Comercio.
 
-XIV.- Establecer medidas para que en los hospitales y centros de salud públicos y privados, se realicen los Ajustes razonables necesarios en el mobiliario e infraestructura para la adecuada atención de los pacientes con discapacidad, y
+III.- Tratándose de mercancías que, de acuerdo a las Reglas de País de Origen, sean de un país no miembro de la Organización Mundial de Comercio, estar legalizado por la representación diplomática de los Estados Unidos Mexicanos ante dicho país.
 
-XV.- Las demás que señale esta Ley y otros ordenamientos aplicables.
+###### ARTICULO SEPTIMO.
 
-###### Artículo 81.
+. . .
 
-Cualquier acción o medida que incluya atención psicológica, deberá considerar cualquier situación que favorezca los procesos terapéuticos dirigidos a personas con discapacidad auditiva.
+l.- . . .
 
-###### Artículo 82.
+a) La recolección de partes clasificándolas como si fueran un bien completo o terminado, conforme a la Regla General 2(a) del Sistema Armonizado.
 
-El profesionista de la salud que valore el estado de una Persona con discapacidad, deberá informar a ésta, o en su caso a su familia, para la toma de decisiones sobre la viabilidad y el tipo de tratamiento médico o terapéutico más adecuado a las circunstancias del caso en particular.
+b) . . .
 
-###### Artículo 83.
+Lo anterior no se aplicará a los bienes desensamblados que ya habían sido ensamblados anteriormente y posteriormente desensamblados por conveniencia de empaque, manejo o transporte.
 
-Ninguna Persona con discapacidad deberá ser sometida a ensayos médicos o científicos, o a tratos abusivos o degradantes en los hospitales y clínicas de salud.
+ll.- . . .
 
-###### Artículo 84.
+. . .
 
-En la prestación de servicios para la atención de la salud de las Personas con discapacidad se tendrán en cuenta las siguientes medidas:
+a) . . .
 
-I.- Que el diagnóstico que se establezca sobre una deficiencia intelectual se formule acorde con diferentes procedimientos clínicos que garanticen ante todo la salvaguarda de los derechos humanos;
+b) Cuando en el Apéndice de Reglas Específicas de este Anexo se indique que la aplicación de la Regla General 2(a) del Sistema Armonizado no constituye un cambio de clasificación arancelaria suficiente, salvo que el bien se clasifique conforme a la Regla General 3(c) del Sistema Armonizado, el carácter esencial de dicho bien estará determinado por las partes o materiales, considerados individualmente, que se clasifiquen en la partida o subpartida correspondiente a las partes de ese bien.
 
-II.- Que ninguna Persona con discapacidad sea sometida a restricciones físicas o a reclusión involuntaria sin la intervención y autorización de la familia o autoridad competente en los ámbitos médico y legal, y
+III.- . . .
 
-III.- Que las personas con discapacidad en su calidad de pacientes, sus representantes o familias ejerzan su derecho a la información relativa al historial clínico que mantenga la institución médica, mediante un resumen clínico.
+IV.- . . .”
 
-### CAPÍTULO XVIII. Derecho a la habilitación y Rehabilitación
+###### ARTICULO OCTAVO.
 
-###### Artículo 85.
+. . .
 
-Para que las personas con discapacidad puedan lograr y mantener la máxima independencia, capacidad física, mental, social y vocacional, así como la inclusión y participación plena en todos los aspectos de la vida, tendrán derecho a servicios y programas generales de habilitación y Rehabilitación, en particular en los ámbitos de la salud, el empleo, la educación y los servicios sociales, de forma que esos servicios y programas:
+I.- . . .
 
-I.- Comiencen en la etapa más temprana posible y se basen en una evaluación multidisciplinar de las necesidades y capacidades de la persona;
+Lo dispuesto en esta fracción será aplicable cuando las mercancías idénticas o similares a aquéllas por las que se deba pagar una cuota compensatoria, se importen junto con otras, no sujetas al pago de dicha cuota, siempre que el valor de las primeras no rebase el equivalente en moneda nacional, o en otras divisas, a mil dólares de los Estados Unidos de América, aunque juntas rebasen ese limite.
 
-II.- Apoyen la participación e inclusión en la comunidad y en todos los aspectos de la sociedad, sean voluntarios y estén a disposición de las personas con discapacidad lo más cerca posible de su propia comunidad, y
+II.- . . .
 
-III.- Promuevan la disponibilidad, el conocimiento y el uso de tecnologías de apoyo y dispositivos destinados a las personas con discapacidad, a efectos de habilitación y Rehabilitación.
+III.- Tratándose de mercancías importadas en los términos del artículo 61 fracciones II, VI, VII, VIII, IX, X, XI, XII, XIII y XV de la Ley Aduanera, así como las mercancías que se importen al amparo de una franquicia diplomática por embajadas u organismos internacionales.
 
-###### Artículo 86.
+IV.- . . .
 
-Los servicios de habilitación y Rehabilitación tendrán como propósito la pronta recuperación de las funciones perdidas, favoreciendo la independencia del paciente.
+a) . . .
 
-###### Artículo 87.
+b) elaboración, transformación o reparación en recinto fiscalizado;
 
-Las autoridades estatales y municipales, en el ámbito de su competencia, promoverán el desarrollo de formación inicial y continua para los profesionales y el personal que trabaje en los servicios de habilitación y Rehabilitación.
+c) Depósito fiscal para las mercancías importadas al amparo del artículo 121 de la Ley Aduanera, por las denominadas “Tiendas Libres de Impuestos”.
 
-###### Artículo 88.
+d) se deroga.
 
-El DIF incluirá en sus programas de asistencia acciones para facilitar a la población con discapacidad de escasos recursos, la obtención de prótesis, órtesis y Ayudas técnicas.
+V.- . . .
 
-### CAPÍTULO XIX. Derecho al trabajo y empleo
+VI.- Tratándose de mercancías exportadas definitivamente que retornan al país en los términos del artículo 103 de la Ley Aduanera, siempre que no se trate de mercancías exportadas que hubieran sido importadas previamente al país y por las que se hubieran pagado los impuestos mediante depósitos en las cuentas aduaneras.
 
-###### Artículo 89.
-
-Las personas con discapacidad tienen el derecho a trabajar en igualdad de condiciones con las demás, ello incluye el derecho a tener la oportunidad de ganarse la vida mediante un trabajo libremente elegido o aceptado en un mercado y un entorno laborales que sean abiertos, inclusivos y accesibles a las personas con discapacidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
-
-###### Artículo 90.
-
-La Secretaría de Fomento Económico y Trabajo, de acuerdo con su disponibilidad presupuestal, promoverá el derecho al trabajo y empleo de las personas con discapacidad en Igualdad de oportunidades y equidad. Para tal efecto, realizará las siguientes acciones:
-
-I.- Vigilar que a los trabajadores se le brinden condiciones de trabajo justas y favorables, Igualdad de oportunidades y de remuneración por trabajo de igual valor, así como que se le otorguen condiciones de trabajo seguras y saludables;
-
-II.- Promover que las personas con discapacidad puedan ejercer sus derechos laborales y sindicales;
-
-III.- Promover que las personas con discapacidad tengan acceso efectivo a programas de capacitación, orientación técnica y vocacional, de mantenimiento del empleo y reincorporación al trabajo, así como a servicios de colocación y de formación profesional y continua;
-
-IV.- Establecer acciones para alentar oportunidades de empleo y la promoción profesional de las personas con discapacidad en el mercado laboral, y apoyarlas para la búsqueda, obtención, mantenimiento del empleo y retorno al mismo;
-
-V.- Promover oportunidades de empleo por cuenta propia, de constitución de cooperativas y de inicio de empresas para las personas con discapacidad;
-
-VI.- Promover que en el sector público estatal y municipal se emplee a personas con discapacidad;
-
-VII.- Promover el empleo de personas con discapacidad en el sector privado;
-
-VIII.- Instrumentar programas estatales de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores público, social y privado, que propicien el acceso al trabajo y que comprendan la capacitación, creación de agencias de integración laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo protegido, talleres, asistencia técnica, formación vocacional o profesional, becas en cualquiera de sus modalidades, inserción laboral de las personas con discapacidad en la administración pública de los tres órdenes de gobierno;
-
-IX.- Vigilar que se realicen Ajustes razonables para las personas con discapacidad en el lugar de trabajo;
-
-X.- Promover programas de Rehabilitación vocacional y profesional, mantenimiento del empleo y reincorporación al trabajo, dirigidos a personas con discapacidad;
-
-XI.- Vigilar que el trabajo que se otorgue a las personas con discapacidad no contravengan disposiciones de la ley de la materia;
-
-XII.- Promover Políticas Públicas para la inclusión laboral de las personas con discapacidad atendiendo a su clasificación, en el sector público o privado, que protejan la capacitación, empleo, contratación y derechos sindicales, en su caso, de las personas con discapacidad;
-
-XIII.- Fomentar la capacitación y sensibilización al personal que trabaje con personas con discapacidad en el sector público o privado;
-
-XIV.- Promover medidas a efecto de que las obligaciones laborables no interrumpan el proceso de Rehabilitación de las personas con discapacidad;
-
-XV.- Impulsar que las empresas del sector privado proporcionen los perfiles de sus vacantes disponibles, con la finalidad de desarrollar estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua de las personas con discapacidad. Así mismo, promoverá que las organizaciones no gubernamentales, los empresarios y sus representantes, los sindicatos y el sector social, participen en la creación de programas de capacitación e integración laboral para personas con discapacidad, y
-
-XVI.- Las demás que señale esta Ley y otros ordenamientos aplicables.
-
-### CAPÍTULO XX. Derecho a la Asistencia y protección social
-
-###### Artículo 91.
-
-Las personas con discapacidad tienen derecho a un nivel de vida adecuado para ellas y sus familias, lo cual incluye alimentación, vestido y vivienda adecuados, y a la mejora continua de sus condiciones de vida.
-
-###### Artículo 92.
-
-Las autoridades estatales y municipales competentes, implementarán acciones para que las personas con discapacidad gocen de Asistencia y protección social sin Discriminación por motivos de discapacidad, entre ellas:
-
-I.- Establecer Políticas Públicas que garanticen la plena incorporación de las personas con discapacidad en todas las acciones y programas de desarrollo social del Estado;
-
-II.- Asegurar el acceso a servicios de agua potable, y a servicios, dispositivos y asistencia de otra índole, adecuados y a precios asequibles, para atender las necesidades relacionadas con su discapacidad;
-
-III.- Establecer políticas públicas para asegurar el acceso de las personas con discapacidad, en particular mujeres, niñas y personas mayores con discapacidad, a programas de Asistencia y protección social y estrategias de reducción de la pobreza;
-
-IV.- Establecer políticas públicas para el acceso de las personas con discapacidad a programas de vivienda pública;
-
-V.- Promover el acceso, en igualdad de condiciones a las demás personas, a programas y beneficios de jubilación;
-
-VI.- Considerar que las políticas públicas de Asistencia y protección social que se promuevan para las personas con discapacidad se encuentren dirigidas a lograr su plena inclusión social;
-
-VII.- Considerar prioritariamente, en materia de Asistencia y protección social para personas con discapacidad:
-
-a) La Prevención de discapacidades; y
-
-b) La Rehabilitación y habilitación de las personas con discapacidad.
-
-VIII.- Las demás que tengan como objeto mejorar las condiciones sociales y permitan potenciar las capacidades de las personas con discapacidad.
-
-###### Artículo 93.
-
-Las autoridades estatales y municipales competentes, podrán celebrar convenios con los sectores privado y social, para:
-
-I.- Promover los servicios de Asistencia y protección social para las personas con discapacidad en todo el territorio del Estado;
-
-II.- La aportación de recursos materiales, humanos y financieros en beneficio de las personas con discapacidad;
-
-III.- Lograr la integración y el fortalecimiento de la asistencia pública y privada;
-
-IV.- Establecer mecanismos para la demanda de servicios de Asistencia y protección social, y
-
-V.- Garantizar la prestación de servicios de Asistencia y protección social para las personas con discapacidad.
-
-### CAPÍTULO XXI. Derecho a participar en la vida política y pública
-
-###### Artículo 94.
-
-Las personas con discapacidad gozarán del ejercicio de sus derechos políticos en igualdad de condiciones con las demás.
-
-###### Artículo 95.
-
-Las autoridades estatales y municipales competentes asegurarán que las personas con discapacidad puedan participar plena y efectivamente en la vida política y pública, incluidos el derecho y la posibilidad de las personas con discapacidad a votar y ser elegidas, entre otras formas mediante:
-
-I.- La garantía de que los procedimientos, instalaciones y materiales electorales sean adecuados, accesibles y fáciles de entender y utilizar;
-
-II.- La protección del derecho que les corresponde para emitir su voto en secreto en las elecciones;
-
-III.- La garantía de la libre expresión de su voluntad, y
-
-IV.- En la dirección de los asuntos públicos.
-
-### CAPÍTULO XXII. Derecho al deporte, cultura y turismo
-
-###### Artículo 96.
-
-Las personas con discapacidad tienen derecho a participar, en igualdad de condiciones con las demás, en la vida cultural, las actividades recreativas, el esparcimiento y el deporte.
-
-###### Artículo 97.
-
-La Secretaría de la Cultura y las Artes, así como la autoridad municipal competente, promoverán el derecho a la cultura que corresponde a las personas con discapacidad, para lo cual deberán:
-
-I.- Promover que tengan acceso en la forma adecuada al tipo de discapacidad, al material cultural de su acervo, a las obras de teatro y otras actividades culturales;
-
-II.- Adoptar medidas para asegurar su acceso a lugares en donde se ofrezcan representaciones o servicios culturales, tales como teatros, museos, cines, bibliotecas y servicios turísticos y, en la medida de lo posible, acceso a monumentos históricos y arqueológicos;
-
-III.- Establecer políticas públicas para que las personas con discapacidad puedan desarrollar y utilizar su potencial creativo, artístico e intelectual, no sólo en su propio beneficio sino también para el enriquecimiento de la sociedad, mediante la formación de grupos de lectura, teatro, apreciación musical, análisis cinematográfico, pintura y demás actividades culturales recreativas y artísticas;
-
-IV.- Generar y difundir entre la sociedad el respeto a la diversidad y participación de estas personas en el arte y la cultura;
-
-V.- Establecer condiciones de inclusión de estas personas para lograr equidad en la promoción, el disfrute y la producción de servicios artísticos y culturales;
-
-VI.- Promover las adecuaciones físicas y de señalización necesarias para que tengan el acceso a todo recinto donde se desarrolle cualquier actividad cultural;
-
-VII.- Difundir las actividades culturales que realicen;
-
-VIII.- Impulsar el reconocimiento y apoyo de la identidad cultural y lingüística específica de estas personas, incluidos el Lenguaje de Señas Mexicana y la cultura de los sordos;
-
-IX.- Promover la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales;
-
-X.- Promover la elaboración de materiales de lectura, inclusive en Sistema escritura braille u otros formatos accesibles;
-
-XI.- Auxiliarse con otras instituciones públicas o privadas, para obtener información y asesoría en materia de discapacidad, que contribuya al establecimiento de políticas públicas a favor de las personas con discapacidad para garantizar su derecho a la cultura, y
-
-XII.- Las demás que señale esta Ley y otras disposiciones aplicables.
-
-###### Artículo 98.
-
-El Instituto del Deporte del Estado de Yucatán y los ayuntamientos, en su correspondiente ámbito de competencia, promoverán el derecho de las personas con discapacidad al deporte. Para tal efecto, realizarán las siguientes acciones:
-
-I.- Otorgar facilidades administrativas y, de acuerdo a su disponibilidad de presupuesto, Ayudas técnicas, humanas y financieras a las personas con discapacidad, para la práctica de actividades físicas y deportivas en los niveles de desarrollo estatal, nacional e internacional;
-
-II.- Alentar la participación de las personas con discapacidad en las actividades deportivas generales a todos los niveles;
-
-III.- Promover la construcción de instalaciones especiales para la práctica del deporte adaptado;
-
-IV.- Impulsar la formación de equipos deportivos de personas con discapacidad, y que se les proporcionen entrenadores deportivos debidamente capacitados para el manejo de los diversos tipos de capacidades, así como becas, uniformes y equipos e instrumentos necesarios para la práctica de los deportes de que se trate;
-
-V.- Adoptar medidas para asegurar a las personas con discapacidad, acceso y libre desplazamiento en instalaciones deportivas;
-
-VI.- Asegurar que los niños, niñas y adolescentes con discapacidad tengan acceso, en igualdad de condiciones, a la participación en actividades deportivas y recreativas, incluidas las que se realicen dentro del sistema escolar;
-
-VII.- Fomentar que las personas con discapacidad puedan participar en la organización de actividades recreativas, de esparcimiento y deportivas;
-
-VIII.- Promover la adecuación de las instalaciones deportivas y recreativas de los hoteles, playas, estadios deportivos y gimnasios, tanto públicos como privados, a fin de hacerlos accesibles al uso y disfrute de las personas con discapacidad;
-
-IX.- Promover el otorgamiento de becas económicas deportivas a las personas con discapacidad que demuestren su compromiso en el ámbito deportivo;
-
-X.- Auxiliarse con otras instituciones públicas o privadas para obtener información y asesoría en materia de discapacidad, que contribuya al establecimiento de políticas públicas a favor de las personas con discapacidad para garantizar su derecho al deporte, y
-
-XI.- Las demás que señale esta Ley y otras disposiciones aplicables.
-
-###### Artículo 99.
-
-Las Organizaciones de la Sociedad Civil en la entidad y las personas con discapacidad, coadyuvarán en la implementación de programas que permitan fortalecer actividades culturales, deportivas y recreativas, como medios para el desarrollo integral de las mencionadas personas.
-
-###### Artículo 100.
-
-La Secretaría de Fomento Turístico promoverá el derecho de las personas con discapacidad para acceder a los servicios turísticos. Para tales efectos, realizará las siguientes acciones:
-
-I.- Establecer programas a efecto de que la infraestructura destinada a brindar servicios turísticos cuente con facilidades de Accesibilidad universal;
-
-II.- Establecer medidas para la promoción turística de las personas con discapacidad, y
-
-III.- Las demás que señale esta Ley y otras disposiciones aplicables.
-
-## TÍTULO TERCERO. MECANISMOS PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
-
-### CAPÍTULO I. Recopilación de datos y estadísticas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
-
-###### Artículo 101.
-
-Las autoridades estatales y municipales competentes, en la forma que establezca el reglamento de esta Ley, recopilarán y generarán información adecuada, incluidos datos estadísticos, desagregados por sexo, edad, escolaridad y tipo de discapacidad, y de investigación, que les permita formular y aplicar Políticas Públicas en materia de protección de los derechos de las personas con discapacidad.
-
-Para tal efecto, podrán firmar convenios de colaboración con instituciones educativas y académicas, así como dependencias y entidades de gobierno de los tres niveles, para la realización de investigaciones generadoras de datos estadísticos.
-
-###### Artículo 102.
-
-En el proceso de recopilación y generación de la información mencionada en el artículo que antecede, se deberá respetar todo lo dispuesto en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán y demás disposiciones aplicables.
-
-La información que se recopile o genere y, que no tenga el carácter de reservada o confidencial en términos de la Ley antes mencionada, se difundirá en formatos que sean accesibles para las personas con discapacidad.
-
-###### Artículo 103.
-
-La información recopilada deberá estar desglosada y se utilizará como ayuda para evaluar el cumplimiento de las obligaciones otorgadas por esta Ley a las autoridades estatales y municipales, así como para identificar y eliminar las barreras con que se enfrentan las personas con discapacidad en el ejercicio de sus derechos.
-
-### CAPÍTULO II. De la queja popular
-
-###### Artículo 104.
-
-Toda persona u Organización de la Sociedad Civil, podrá presentar una queja ante las autoridades estatales y municipales por cualquier hecho, acto u omisión que produzca o pueda producir daños o afectación a los derechos que establece esta Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas con discapacidad.
-
-###### Artículo 105.
-
-El reglamento de esta Ley, establecerá las autoridades, mecanismos y trámites relativos a la presentación de la queja.
-
-### CAPÍTULO III. De las medidas positivas y compensatorias
-
-###### Artículo 106.
-
-Las dependencias y entidades que integran la Administración Pública Estatal y Municipal, en la medida de lo posible, otorgarán una atención preferencial a las personas con discapacidad, a efecto de agilizar los trámites y procedimientos administrativos que las mismas realicen.
-
-> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE JULIO DE 2019)</small>
-
-## TÍTULO CUARTO. CONSEJO PROMOTOR DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE JULIO DE 2019)</small>
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 107.
-
-(DEROGADO, D.O. 30 DE JULIO DE 2019)
-
-###### Artículo 108.
-
-(DEROGADO, D.O. 30 DE JULIO DE 2019)
-
-###### Artículo 109.
-
-(DEROGADO, D.O. 30 DE JULIO DE 2019)
-
-[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE DEROGADO POR DECRETO 92/2019 PUBLICADO EN EL D.O. DE 30 DE JULIO DE 2019 Y REFORMADO POR DECRETO 94/2019 DE FECHA 31 DE JULIO DE 2019, EL SEGUNDO DE ELLOS A LA LETRA DICE:
-
-“Artículo 109.-…[…]
-
-I.- y II.-…[…]
-
-III.-…[…]
-
-a) al e)…[…]
-
-f) [derogado]
-
-g) Un representante de la Secretaría de Fomento Económico y Trabajo.[reformado]
-
-h) al j)…[…]
-
-k) Un representante del Instituto de Movilidad y Desarrollo Urbano Territorial; [reformado]
-
-l)…[…]"
-
-BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]
-
-###### Artículo 110.
-
-(DEROGADO, D.O. 30 DE JULIO DE 2019)
-
-###### Artículo 111.
-
-(DEROGADO, D.O. 30 DE JULIO DE 2019)
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE JULIO DE 2019)</small>
-
-## TÍTULO QUINTO. PROGRAMA E INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
-
-> <small>(REFORMADO EN SU NUMERACIÓN, D.O. 30 DE JULIO DE 2019)</small>
-
-### CAPÍTULO I. Programa para la Protección de los Derechos de las Personas con Discapacidad
-
-> <small>(REFORMADO, D.O. 30 DE JULIO DE 2019)</small>
-
-###### Artículo 112.
-
-El Programa para la Protección de los Derechos de las Personas con Discapacidad tiene por objeto contribuir a la protección de los Derechos de las Personas con Discapacidad y será elaborado por el Instituto.
-
-###### Artículo 113.
-
-El Programa contendrá al menos las políticas públicas, objetivos, estrategias, acciones e incluirá los mecanismos e instrumentos contemplados en esta norma, en los términos que establezca el reglamento de esta Ley.
-
-Corresponde a las dependencias y entidades del Poder Ejecutivo previstas en esta Ley, aportar lo conducente para la integración del Programa.
-
-###### Artículo 114.
-
-El Programa será revisado y actualizado anualmente a efecto de ser modificado en los rubros en que no se presenten los avances proyectados en el propio Programa.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 30 DE JULIO DE 2019)</small>
-
-### CAPÍTULO II. Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán
-
-> <small>(ADICIONADO, D.O. 30 DE JULIO DE 2019)</small>
-
-###### Artículo 114 Bis.
-
-A fin de garantizar la inclusión y el desarrollo de las personas con discapacidad en el Estado, el Poder Ejecutivo contará con un organismo público descentralizado cuyas funciones y características sean definidas en su decreto de creación.
-
-## TÍTULO SEXTO. RESPONSABILIDADES Y SANCIONES
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 115.
-
-Las personas que incumplan las previsiones contenidas en esta Ley, serán sancionadas por las autoridades correspondientes, en la forma y términos que establezcan las disposiciones legales y reglamentarias aplicables.
-
-Las conductas que infrinjan las disposiciones de esta Ley y su reglamento y que no tengan sanción específica en las materias a cargo de las autoridades señaladas en esta Ley, serán sancionadas con:
-
-I.- Amonestación con apercibimiento, y
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-II.- Multa de diez a doscientas unidades de medida y actualización, al momento de cometerse la infracción.
-
-Para la aplicación e individualización de la sanción prevista en la fracción II de este artículo, se estará a lo previsto en la Ley de la materia o, en su caso, en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
-
-En contra de las resoluciones que impongan las sanciones de que se trata, se podrá interponer el recurso administrativo de revisión previsto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
-
-###### Artículo 116.
-
-El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estatales y municipales, generará responsabilidad y será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
-
-###### Artículo 117.
-
-La Comisión de Derechos Humanos del Estado de Yucatán, coadyuvará en la aplicación de esta Ley, estableciendo como prioridad la protección y promoción de los derechos de las personas con discapacidad en el ámbito de su competencia.
-
-TRANSITORIOS:
-
-###### ARTÍCULO CUARTO.
-
-A partir de la entrada en vigor de esta Ley, quedará abrogado el Reglamento del Consejo Promotor para la Integración de las Personas con Discapacidad del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 11 de enero de 2008.
-
-DADO EN LA SEDE DEL CENTRO DE REHABILITACIÓN INFANTIL TELEFÓN (SIC) (CRIT) YUCATÁN, UBICADO EN EL PERIFÉRICO PONIENTE DE LA CIUDAD DE MÉRIDA, YUCATAN, ESTADOS UNIDOS MEXICANOS, A LOS TRES DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL ONCE. PRESIDENTE: DIPUTADO CARLOS GERMÁN PAVÓN FLORES.- SECRETARIO.- DIPUTADO PEDRO FRANCISCO COUOH SUASTE.- SECRETARIA.- DIPUTADA LETICIA DOLORES MENDOZA ALCOCER.- RÚBRICAS."
-
-Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
-
-EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS SIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL ONCE.
-
-(RÚBRICA)
-
-C. IVONNE ARACELLY ORTEGA PACHECO
-
-GOBERNADORA DEL ESTADO DE YUCATÁN
-
-(RÚBRICA)
-
-C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
-
-SECRETARIO GENERAL DE GOBIERNO
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-D.O. 12 DE JUNIO DE 2015.
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
-
-Segundo. Régimen de vigencia especial
-
-Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
-
-Tercero. Abrogación
-
-Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
-
-Cuarto. Expedición del programa
-
-El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
-
-Quinto. Instalación del consejo
-
-El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
-
-Sexto. Expedición de reglamento interno
-
-El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
-
-Séptimo. Modificación de regulación interna de la Prodemefa
-
-La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
-
-Octavo. Modificación de regulación interna de la Codhey
-
-La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-
-Noveno. Nombramiento del secretario ejecutivo
-
-El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
-
-Décimo. Matrimonios entre adolescentes
-
-Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
-
-Décimo primero. Derogación tácita
-
-Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
-
-D.O. 28. DE DICIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
-
-Segundo. Obligación normativa
-
-El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
-
-D.O. 29 DE ABRIL DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 67/2019 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN”.]
-
-Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo.- La disposición establecida en el presente decreto, únicamente será aplicable en aquellos parques, jardines o plazas públicas juegos infantiles que se construyan con posterioridad, en el entendido de que los ya existentes, se adecuarán en forma gradual, conforme a la capacidad presupuestaria
-
-Tercero.- El Poder Ejecutivo y los ayuntamientos del estado deberán adecuar sus disposiciones reglamentarias relacionadas con el presente decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor.
-
-D.O. 30 DE JULIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 92/2019 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN".]
-
-Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Segundo. Para todo lo relativo al Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán se mantiene en vigor el Decreto 9/2018 por el que se regula el Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado el 3 de diciembre de 2018 con las previsiones presupuestales establecidas en el Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal 2019, en cumplimiento del artículo 114 bis de este Decreto.
-
-D.O. 31 DE JULIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
-
-Artículo primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Derechos adquiridos
-
-Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
-
-Artículo tercero. Obligación normativa
-
-La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
-
-D.O. 9 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 237/2020 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN Y LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN”.]
-
-Artículo Único. Entrada en vigor
-
-El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a lo dispuesto por los artículos 115 y 116 de la Ley Aduanera”.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1416,3 +986,11 @@ El Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias de
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor de esta Ley, quedará abrogada la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán publicada en el Diario Oficial del Estado de fecha 16 de mayo de 1996.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los Certificados de País de Origen que hubieren sido expedidos con anterioridad a la vigencia del presente Acuerdo, tomando como referencia la clasificación arancelaria de 1995, podrán ser presentados a la aduana para el despacho de mercancías, a pesar de que la clasificación arancelaria contenida en dichos Certificados no sea idéntica a la señalada en el pedimento, siempre que la descripción de la mercancía señalada en el Certificado respectivo corresponda a la declarada en el pedimento de importación, y que dicha mercancía cumpla con la regla de origen aplicable.
+
+México, D.F., a 31 de octubre de 1996.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
