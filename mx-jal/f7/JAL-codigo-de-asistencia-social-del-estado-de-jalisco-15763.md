@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "1999-12-23"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -281,9 +281,15 @@ XII. Crear y operar el Consejo Estatal de Familia;
 
 XIII. Crear y operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XIV. Elaborar el programa e impartir los cursos a que hace referencia el artículo 267 bis del Código Civil del Estado de Jalisco.
+
+El Sistema Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades.
+
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-XIV. Las demás que establezcan las leyes aplicables en la materia.
+XV. Las demás que establezcan las leyes aplicables en la materia.
 
 ###### Artículo 19.
 
@@ -2157,9 +2163,9 @@ l) Tres Asociaciones Civiles del Estado con una antigüedad mínima de dos años
 
 Los representantes de los organismos y dependencias señaladas en el artículo anterior, serán personas con el perfil adecuado para desempeñar el cargo, el cual será honorífico y dentro de sus funciones estará el dar seguimiento a los programas y acciones concretas que determine el Consejo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO II. De las Atribuciones del Consejo
+### CAPITULO III. Del Presidente
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2191,9 +2197,9 @@ VIII. La realización de campañas publicitarias para la concientización de la 
 
 IX. Las demás que le asignen otras leyes o sean necesarias para el cumplimiento de las anteriores.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO III. Del Presidente
+### CAPITULO IV. De la Secretaría Técnica
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2221,7 +2227,7 @@ IX. Las demás que le encomiende el Consejo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO IV. De la Secretaría Técnica
+### CAPITULO II. De las Atribuciones del Consejo
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2255,7 +2261,7 @@ Esta Secretaría dispondrá de la infraestructura necesaria para el desarrollo d
 
 El Secretario Técnico deberá ser Trabajador Social, Sociólogo Psicólogo titulado, con amplios conocimientos y experiencia en materia familiar y asistencia social.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. DE LA RECREACION, DEPORTE Y CULTURA
 
@@ -2377,11 +2383,11 @@ I. Coordinarse con la Procuraduría General de Justicia para la atención de los
 
 II. Instaurar cursos de formación y capacitación sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO. DE LOS ESTIMULOS
 
-### CAPITULO II. De los Conciliadores
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2409,9 +2415,9 @@ Las unidades de atención deberán conocer, tramitar y resolver a través del pr
 
 Todo el personal de las instituciones involucradas en la prevención y atención de la violencia intrafamiliar, deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrán ser consultados por quienes intervengan en ellos, sus apoderados, y el Consejo, al que se le deberán mandar los informes a que se refiere este Libro.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De los Conciliadores
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2481,7 +2487,7 @@ VI. Integrar los expedientes relativos a los casos puestos a su consideración, 
 
 VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVOCACION
 
@@ -2962,3 +2968,7 @@ P.O. 16 DE DICIEMBRE DE 1999.
 P.O. 23 DE DICIEMBRE DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
