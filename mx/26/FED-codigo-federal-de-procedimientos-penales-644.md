@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2002-12-18"
+last_updated: "2002-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2002.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -45,7 +45,7 @@ El presente Código comprende los siguientes procedimientos:
 
 I.- El de averiguación previa a la consignación a los tribunales, que establece las diligencias legalmente necesarias para que el Ministerio Público pueda resolver si ejercita o no la acción penal;
 
-II.- El de preinstrucción, en que se realizan las actuaciones para determinar los hechos materia del proceso, la clasificación de éstos conforme al tipo penal aplicable y la probable responsabilidad del inculpado, o bien, en su caso, Ia libertad de éste por falta de elementos para procesar;
+II.- El de preinstrucción, en que se realizan las actuaciones para determinar los hechos materia del proceso, la clasificación de éstos conforme al tipo penal aplicable y la probable responsabilidad del inculpado, o bien, en su caso, la libertad de éste por falta de elementos para procesar;
 
 III.- El de instrucción, que abarca las diligencias practicadas ante y por los tribunales con el fin de averiguar y probar la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, así como la responsabilidad o irresponsabilidad penal de éste;
 
@@ -1661,9 +1661,191 @@ Cuando se trate de plantíos de mariguana, papaver somniferum o adormidera, u ot
 
 Cuando se aseguren estupefacientes o psicotrópicos, el Ministerio Público acordará y vigilará su destrucción, si esta medida es procedente, previa la inspección de las sustancias, en la que se determinará la naturaleza, el peso y las demás características de éstas. Se conservará una muestra representativa suficiente para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa o en el proceso, según el caso.
 
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 182.
 
-(DEROGADO, D.O.F. 8 DE FEBRERO DE 1999)
+Al realizar el aseguramiento, los Agentes del Ministerio Público con el auxilio de la Agencia Federal de Investigaciones, o bien, los actuarios y demás funcionarios que designe la autoridad judicial para practicar la diligencia, según corresponda, deberán:
+
+I.- Levantar acta que incluya inventario con la descripción y el estado en que se encuentren los bienes que se aseguren;
+
+II.- Identificar los bienes asegurados con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
+
+III.- Proveer las medidas conducentes e inmediatas para evitar que los bienes asegurados se destruyan, alteren o desaparezcan;
+
+IV.- Solicitar que se haga constar el aseguramiento en los registros públicos que correspondan de acuerdo con lo dispuesto por el artículo 182-D de este Código, y
+
+V.- Una vez que hayan sido satisfechos los requisitos anteriores, poner los bienes a disposición de la autoridad competente para su administración, dentro de las setenta y dos horas siguientes, en la fecha y los lugares que previamente se acuerden con dicha autoridad, de conformidad con las disposiciones aplicables.
+
+La autoridad que inicie el acto de aseguramiento está obligada a concluirlo en los términos previstos por este Capítulo.
+
+Los bienes asegurados durante la averiguación previa o el proceso penal, que puedan ser objeto de prueba, serán administrados por el Servicio de Administración y Enajenación de Bienes, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-A.
+
+La autoridad judicial o el Ministerio Público que decreten el aseguramiento deberán notificar al interesado o a su representante legal dentro de los sesenta días naturales siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta a que se refiere la fracción I del artículo anterior, para que manifieste lo que a su derecho convenga.
+
+En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados.
+
+En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Gobierno Federal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-B.
+
+Las notificaciones a que se refiere este Capítulo se practicarán como sigue:
+
+I.- Personalmente, con el interesado o su representante legal, de conformidad con las reglas siguientes:
+
+a) La notificación se practicará en el domicilio del interesado. En caso de que el interesado se encuentre privado de su libertad, la notificación personal se hará en el lugar donde se encuentre detenido;
+
+b) El notificador deberá cerciorarse del domicilio, entregar copia de la resolución que se notifique y recabar nombre y firma de la persona con quien se entienda la diligencia, asentando los datos del documento oficial con el que se identifique. Asimismo, se deberán asentar en el acta de notificación, los datos de identificación del servidor público que la practique;
+
+c) De no encontrarse la persona en la primera notificación, se le dejará citatorio en el domicilio designado para que espere al notificador al día hábil siguiente, en la hora determinada en el citatorio, y de no encontrarse la persona o de negarse a recibir la notificación, se fijará instructivo en un lugar visible del domicilio, señalando el notificador tal circunstancia en el acta de notificación, y
+
+d) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
+
+II.- Por edictos, cuando se desconozca la identidad o domicilio del interesado, en cuyo caso se publicará por una sola ocasión en el Diario Oficial de la Federación y en un periódico de circulación nacional. Los edictos deberán contener un resumen de la resolución por notificar.
+
+Las notificaciones personales surtirán efectos el día en que hubieren sido practicadas y las efectuadas por edictos el día de su publicación.
+
+El interesado deberá señalar domicilio para oír y recibir notificaciones.
+
+Los plazos establecidos en este Capítulo empezarán a correr el día siguiente a aquél en que haya surtido efectos la notificación respectiva.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-C.
+
+Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición de la autoridad judicial o del Ministerio Público para los efectos del procedimiento penal.
+
+De levantarse el embargo, intervención, secuestro o aseguramiento previos, quien los tenga bajo su custodia, los entregará a la autoridad competente para efectos de su administración.
+
+Los bienes asegurados no podrán ser enajenados o gravados por sus propietarios, depositarios, interventores o administradores, durante el tiempo que dure el aseguramiento en el procedimiento penal, salvo los casos expresamente señalados por las disposiciones aplicables.
+
+El aseguramiento no implica modificación alguna a los gravámenes existentes con anterioridad sobre los bienes.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-D.
+
+Se hará constar en los registros públicos que correspondan, de conformidad con las disposiciones aplicables:
+
+I.- El aseguramiento de bienes inmuebles, derechos reales, aeronaves, embarcaciones, empresas, negociaciones, establecimientos, acciones, partes sociales, títulos bursátiles y cualquier otro bien o derecho susceptible de registro o constancia, y
+
+II.- El nombramiento del depositario, interventor o administrador, de los bienes a que se refiere la fracción anterior.
+
+El registro o su cancelación se realizarán sin más requisito que el oficio de la autoridad judicial o del Ministerio Público.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-E.
+
+A los frutos o rendimientos de los bienes durante el tiempo del aseguramiento, se les dará el mismo tratamiento que a los bienes asegurados que los generen.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-F.
+
+El aseguramiento de bienes no implica que éstos entren al erario público federal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-G.
+
+La moneda nacional o extranjera que se asegure, embargue o decomise, será administrada por el Servicio de Administración y Enajenación de Bienes, quien deberá depositarla en la Tesorería de la Federación.
+
+Los términos y condiciones de esos depósitos serán determinados por la Tesorería de la Federación.
+
+En caso de billetes o piezas metálicas que por tener marcas, señas u otras características, sea necesario conservar para fines de la averiguación previa o el proceso penal, la autoridad judicial o el Ministerio Público así lo indicará al Servicio de Administración y Enajenación de Bienes para que éste los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-H.
+
+La autoridad judicial o el Ministerio Público que asegure depósitos, títulos de crédito y, en general, cualesquiera bienes o derechos relativos a operaciones, que las instituciones financieras establecidas en el país celebren con sus clientes, dará aviso inmediato a la autoridad encargada de la administración de los bienes asegurados y a las autoridades competentes, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-I.
+
+Las especies de flora y fauna de reserva ecológica que se aseguren, serán provistas de los cuidados necesarios y depositadas en zoológicos o en instituciones análogas, considerando la opinión de la Secretaría del Medio Ambiente y Recursos Naturales.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-J.
+
+Las obras de arte, arqueológicas o históricas que se aseguren, serán provistas de los cuidados necesarios y depositadas en museos, centros o instituciones culturales, considerando la opinión de la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-K.
+
+Tratándose de delitos culposos ocasionados con motivo del tránsito de vehículos; éstos se entregarán en depósito al conductor o a quien se legitime como su propietario o poseedor.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-L.
+
+Los inmuebles que se aseguren podrán quedar en posesión de su propietario, poseedor o de alguno de sus ocupantes, siempre y cuando no se afecte el interés social ni el orden público. Quienes queden en posesión de los inmuebles no podrán enajenar o gravar los inmuebles a su cargo, y en caso de que generen frutos o productos, estarán obligados en los términos de los artículos 12 y 15 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público. En todo caso, se respetarán los derechos legítimos de terceros.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-M.
+
+El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-N.
+
+La devolución de bienes asegurados procede en los casos siguientes:
+
+I.- En la averiguación previa, cuando el Ministerio Público resuelva el no ejercicio de la acción penal, la reserva, o se levante el aseguramiento, de conformidad con las disposiciones aplicables, y
+
+II.- Durante el proceso, cuando la autoridad judicial no decrete el decomiso o levante el aseguramiento, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182
+
+Ñ.- Cuando proceda la devolución de bienes asegurados, éstos quedarán a disposición de quien acredite tener derecho a ellos. La autoridad judicial o el Ministerio Público notificará su resolución al interesado o al representante legal dentro de los treinta días siguientes, para que en el plazo de tres meses a partir de la notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor del Gobierno Federal.
+
+Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad judicial o el Ministerio Público ordenará su cancelación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-O.
+
+La devolución de los bienes asegurados incluirá la entrega de los frutos que, en su caso, hubieren generado.
+
+La devolución de numerario comprenderá la entrega del principal y de sus rendimientos durante el tiempo en que haya sido administrado, a la tasa que cubra la Tesorería de la Federación por los depósitos a la vista que reciba.
+
+El Servicio de Administración y Enajenación de Bienes, al devolver empresas, negociaciones o establecimientos, rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
+
+Previo a la recepción de los bienes por parte del interesado, se dará oportunidad a éste para que revise e inspeccione las condiciones en que se encuentren los mismos, a efecto de que verifique el inventario a que se refiere el artículo 25 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, en su caso, se proceda conforme a lo establecido por el artículo 28 de la misma.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-P.
+
+Cuando se determine por la autoridad competente la devolución de los bienes que hubieren sido previamente enajenados de conformidad con la Ley Federal para la Administración y Enajenación de Bienes del Sector Público o exista la imposibilidad de devolverlos, dicha devolución se tendrá por cumplida entregando el valor de los bienes al realizarse el aseguramiento más los rendimientos correspondientes, calculados a la tasa referida en el artículo 182-O de este Código.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-Q.
+
+La autoridad judicial, mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes, con excepción de los que hayan causado abandono en los términos de este Código.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 182-R.
+
+Los recursos que se obtengan por la enajenación de los bienes decomisados en procesos penales federales, a que se refiere la fracción I del artículo 1 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como por la enajenación de sus frutos y productos, serán entregados conforme a lo dispuesto en el artículo 89 de la citada Ley, en partes iguales, al Poder Judicial de la Federación, a la Procuraduría General de la República y a la Secretaría de Salud.
+
+Los recursos que correspondan a la Secretaría de Salud deberán destinarse a programas de prevención y rehabilitación de farmacodependientes.
 
 ###### ARTICULO 183.
 
@@ -2587,7 +2769,7 @@ I.- Cuando el Procurador General de la República confirme o formule conclusione
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-Il.- Cuando el Ministerio Público lo solicite, en el caso al que se refiere el artículo 138;
+II.- Cuando el Ministerio Público lo solicite, en el caso al que se refiere el artículo 138;
 
 III.- Cuando aparezca que la responsabilidad penal está extinguida.
 
@@ -3481,7 +3663,7 @@ Cuando el inculpado haya garantizado por sí mismo su libertad con depósito, pr
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por el tribunal, en caso de habérsele autorizado a efectuar el depósito en parcialidades:
+I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por el tribunal, en caso de habérsele autorizado a efectuar el depósito en parcialidades;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3788,6 +3970,8 @@ Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que n
 ###### ARTICULO 456.
 
 Concluído el término probatorio, dentro de las cuarenta y ocho horas siguientes, se pronunciará la resolución contra la que no habrá recurso alguno.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 457.
 
@@ -4291,8 +4475,6 @@ El reo deberá presentar el salvoconducto, siempre que sea requerido para ello p
 
 Cuando el que goce de libertad preparatoria se encuentre en alguno de los casos que menciona el artículo 86 del Código Penal, la autoridad municipal o cualquiera otra que tenga conocimiento de ello dará cuenta a la que le concedió la libertad, para los efectos del mismo artículo.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 547.
 
 Cuando el reo cometiere un nuevo delito, el tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad con el artículo 86 del Código Penal.
@@ -4736,3 +4918,29 @@ SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal,
 D.O.F. 18 DE DICIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2002.
+
+Primero. El presente Decreto entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
+
+Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+Cuarto. Los asuntos iniciados ante el Servicio de Administración de Bienes Asegurados, que a la fecha de entrada en vigor de este Decreto se encuentren en trámite, se seguirán tramitando hasta su conclusión por el SAE.
+
+Los recursos que deriven de los asuntos a que se refiere el párrafo anterior, recibirán el tratamiento previsto en este Decreto.
+
+Quinto. Las referencias al Servicio de Administración de Bienes Asegurados que hagan las leyes y demás disposiciones, se entenderán hechas al SAE.
+
+Sexto. El Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como el Estatuto Orgánico del SAE, deberán ser emitidos con la debida oportunidad para que entren en vigor el mismo día que el presente Decreto.
+
+El Director General del SAE deberá ser nombrado, a más tardar, a los 10 días hábiles siguientes al de la entrada en vigor del presente Decreto.
+
+Séptimo. Los recursos financieros y materiales asignados al Servicio de Administración de Bienes Asegurados, pasarán a formar parte del patrimonio del SAE.
+
+Octavo. Los mandatos y demás operaciones que hasta antes de la fecha de entrada en vigor del presente Decreto, tenga encomendados el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, se entenderán conferidos al SAE, salvo que dentro de los treinta días naturales siguientes a la fecha indicada, el mandante o quien haya girado las instrucciones correspondientes manifieste por escrito ante el SAE su voluntad de dar por concluido el mandato. Así mismo, los recursos financieros, humanos y materiales asignados al citado Fideicomiso, pasarán a formar parte del patrimonio del SAE.
+
+Dentro del plazo a que se refiere el Transitorio Primero de este Decreto, se deberán realizar todas las acciones conducentes a efecto de extinguir el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito.
+
+Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados que hagan las leyes y demás disposiciones, se entenderán hechas a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
