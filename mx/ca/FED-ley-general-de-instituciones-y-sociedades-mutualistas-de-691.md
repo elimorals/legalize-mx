@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2002-01-16"
+last_updated: "2002-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -3173,7 +3173,7 @@ VI.- Hacer los estudios que se le encomienden y presentar a la Secretaría de Ha
 
 VII.- Coadyuvar con la Secretaría de Hacienda y Crédito Público en el desarrollo de políticas adecuadas para la selección de riesgos técnicos y financieros en relación con las operaciones practicadas por el sistema asegurador, siguiendo las instrucciones que reciba de la propia Secretaría;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+REFORMADA, D.O.F. 3 DE ENERO DE 1990)
 
 VIII.- Intervenir, en los términos y condiciones que esta Ley señala, en la elaboración de los reglamentos y reglas de carácter general a que la misma se refiere;
 
@@ -3671,7 +3671,7 @@ Las sanciones que se impongan en términos de la presente Ley no excederán en n
 
 Atendiendo a las circunstancias de cada caso, la citada Comisión podrá además amonestar al infractor, o bien solamente amonestarlo.
 
-Lo dispuesto en este artículo no excluye la imposición de las sanciones que conforme a ésta o (sic) otras Leyes fueren aplicables por comisión de otras infracciones o delitos, ni la revocación de la autorización otorgada a la institución o sociedad mutualista de seguros.
+Lo dispuesto en este artículo no excluye la imposición de las sanciones que conforme a ésta o otras Leyes fueren aplicables por comisión de otras infracciones o(sic) delitos, ni la revocación de la autorización otorgada a la institución o sociedad mutualista de seguros.
 
 En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción.
 
@@ -4816,3 +4816,11 @@ En tanto no se deroguen o modifiquen los reglamentos, reglas y disposiciones de 
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 A partir de la entrada en vigor del presente Decreto y de conformidad con lo establecido en la Manifestación Tercera del "Decreto de Promulgación de la Convención de la Organización de Cooperación y Desarrollo Económicos", publicado en el Diario Oficial de la Federación el 5 de julio de 1994, México extenderá los beneficios de las medidas de liberalización que el Tratado de Libre Comercio de América del Norte prevé en relación con el establecimiento de y (sic) la inversión directa en instituciones financieras domiciliadas en el territorio de algún miembro de la Organización de Cooperación y Desarrollo Económicos.
+
+D.O.F. 24 DE DICIEMBRE DE 2002.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+...
