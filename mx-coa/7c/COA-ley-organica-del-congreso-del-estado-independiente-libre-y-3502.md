@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-3502
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-06"
-last_updated: "1994-09-06"
+last_updated: "1998-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 6 de septiembre de 1994.
 
@@ -411,6 +411,10 @@ Para estudiar y dictaminar los asuntos que son competencia del Congreso, habrá 
 
 Las Comisiones Permanentes durarán en su cargo todo el período constitucional, siendo electas en escrutinio secreto y por mayoría de votos. La competencia de las mismas estará vinculada con la propia materia de su denominación y conocerán de los proyectos y asuntos que les encomienden la Mesa Directiva del Pleno, la Diputación Permanente o la Gran Comisión.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 1998)</small>
+
+Durante el receso, las Comisiones Permanentes continuarán sesionando para atender y resolver los asuntos que le fueren encomendados.
+
 ###### ARTICULO 42.
 
 El Congreso del Estado contará con las siguientes Comisiones Permanentes:
@@ -605,9 +609,13 @@ Son atribuciones de la Diputación Permanente:
 
 8.- Resolver los asuntos que quedaren pendientes de resolución por el Pleno y dar cuenta con ellos en el siguiente periodo de sesiones;
 
-9.- Resolver los asuntos para que fuere autorizada por el Congreso, según la fracción XXXV del artículo 67 de la Constitución Local; y
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 1998)</small>
 
-10.- Las demás que señale la Constitución Local, esta Ley y otros ordenamientos.
+9.- Recibir, en su caso, y remitir a la Comisión de la Contaduría Mayor de Hacienda las cuentas públicas trimestrales estatales y municipales, en los términos que marca la Ley;
+
+10.- Resolver los asuntos para que fuere autorizada por el Congreso, según la fracción XXXV del artículo 67 de la Constitución Local; y
+
+11.- Las demás que señale la Constitución Local, esta Ley y otros ordenamientos.
 
 ###### ARTICULO 70.
 
@@ -701,7 +709,9 @@ Es materia de ley, toda resolución que otorgue derechos o imponga obligaciones 
 
 Es materia de decreto, toda resolución que otorgue o imponga obligaciones a algunas personas.
 
-Son materia de acuerdo, todas las demás resoluciones que tome el Pleno o la Diputación Permanente y que no tengan carácter de ley o decreto.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+
+Son materia de acuerdo, las cuentas públicas y todas las demás resoluciones que tome el Pleno o la Diputación Permanente y que no tengan carácter de ley o decreto.
 
 Las leyes o decretos se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos sólo se firmarán por los dos Secretarios y se comunicarán también al Ejecutivo, para su conocimiento y, en su caso, para su publicación y observancia.
 
@@ -952,3 +962,17 @@ JUAN MANUEL VILLARREAL VALDES
 DIPUTADO SECRETARIO DIPUTADO SECRETARIO
 
 GERARDO MONTES RODRIGUEZ DAVID SAUL LOPEZ ALDAPE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
