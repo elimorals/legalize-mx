@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-11042"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-15"
-last_updated: "1996-08-15"
+last_updated: "2003-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 15 de agosto de 1996.
 
@@ -81,9 +81,17 @@ La educación que impartan el Estado, sus Municipios y los organismos descentral
 
 La educación que impartan el Estado y sus Municipios será gratuita y las donaciones que se destinen a dicha educación, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
-Todas las aportaciones, cooperaciones o donaciones que se lleguen a acordar por la Asamblea de Padres de Familia de cada plantel, no tendrán nunca el carácter de obligatorias y no podrá aplicarse sanción alguna para los educandos y padres de familia que no las cubran. Las mismas deberán ser administradas con honestidad y transparencia por la mesa directiva, y se destinarán al mejoramiento y actividades del Centro Educativo.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-Al que incurra en violación de lo establecido en este precepto, se le aplicarán las sanciones que señale el reglamento correspondiente.
+Todas las aportaciones, que acuerden los padres de familia de cada plantel, tendrán siempre el carácter de voluntarias, por lo que no podrá aplicarse sanción alguna para los educandos que no las cubran, ni podrá restringirse por esta causa el derecho a la educación.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+Las aportaciones podrán otorgare en una sola exhibición o en parcialidades; en numerario, bienes o servicios, deberán ser administradas con honestidad y transparencia por la Asociación de Padres de Familia y serán destinadas al mejoramiento y actividades del Centro Educativo.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+A la persona que incurra en violación de lo establecido en este precepto, se le aplicarán las sanciones que señale el título IX de la presente ley y los reglamentos respectivos.
 
 ###### ARTICULO 10.
 
@@ -543,11 +551,11 @@ La educación que no requiera autorización o no sea susceptible de reconocimien
 
 ## TITULO VII. LA PARTICIPACION SOCIAL EN LA EDUCACION
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO SEGUNDO. DE LAS ASOCIACIONES DE PADRE SE FAMILIA
+
 ### CAPITULO PRIMERO. DE LOS PADRES DE FAMILIA
-
-### CAPITULO II. DE LOS CONSEJOS DE PARTICIPACION
-
-SOCIAL
 
 ###### ARTICULO 57.
 
@@ -563,6 +571,22 @@ IV.- Formar parte de las organizaciones de padres de familia y de los Consejos d
 
 V.- Opinar, en el caso de la educación que impartan los particulares, respecto de las contraprestaciones que las escuelas fijen.
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VI.- Participar en forma conjunta con su Asociación de Padres de Familia en la toma de decisiones, incluyendo la determinación de las cuotas escolares, en su caso;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VII.- Ser informados por su Asociación de padres de familia, en los términos que señala el artículo 60 de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VIII. Obtener el reglamento respectivo de las asociaciones de padres de familia al inicio de cada ciclo escolar; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+IX.- Los (sic) demás establecidas en las leyes y reglamentos respectivos.
+
 ###### ARTICULO 58.
 
 Son obligaciones de los padres de familia o tutores las siguientes:
@@ -575,9 +599,19 @@ III.- Participar de acuerdo con los educadores en el tratamiento de los problema
 
 IV.- Hacer que sus hijos o pupilos participen en los actos cívicos.
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+V.- Velar por la estricta observancia en los planteles, de las disposiciones legales y reglamentarias y;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VI.- Las demás establecidas en las leyes y reglamentos respectivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTICULO 59.
 
-Las organizaciones de padres de familia tendrán por objeto:
+Las Asociaciones de padres de familia deberán:
 
 I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a sus miembros;
 
@@ -585,19 +619,65 @@ II.- Colaborar para una mejor integración de la comunidad escolar;
 
 III.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos; y
 
-IV.- Las demás que se especifiquen en las disposiciones que la autoridad educativa federal determine.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+IV. Acordar, en su caso, de manera conjunta con los padres de familia el monto de las aportaciones y el destino de las mismas, respetando lo dispuesto por el artículo 9 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+V.- Reunir y administrar debidamente los fondos obtenidos con aportaciones o actividades de sus miembros para los fines de la educación, mismos que serán considerados como patrimonio particular de los padres de familia, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante, numerario bienes o servicios, que no serán considerados como contraprestaciones del servicio, por lo que en ningún caso se podrá condicionar alguno de los derechos del educando;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VI.- Informar a los padres de familia o tutores del estado financiero en que se encuentra la Asociación, en los términos que señala el artículo 60 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+VII.- Sujetarse a lo que prevengan los reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 59
+
+BIS.- Para desempeñar el cargo de Presidente o Tesorero de las Asociaciones de Padres de Familia se requerirá:
+
+I.- Tener como antigüedad mínima un año en calidad de padre de familia o tutor dentro del plantel educativo al que pertenezcan;
+
+II.- Tratándose de tutores deberán acreditarse con el documento legal de tutoría;
+
+III.- Tener una conducta seria, responsable y un modo honesto de vivir a juicio de los padres de familia; y
+
+IV.- No ser miembro de otra Asociación de padres de familia.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 60.
 
-La constitución y funcionamiento de las organizaciones de padres de familia en lo concerniente a sus relaciones con las autoridades de los planteles escolares, se sujetará a las disposiciones que señale la autoridad educativa federal.
+El informe que rinda la Asociación a los padres de familia o tutores, se llevará a cabo en forma anual y deberá:
 
-Estas organizaciones de padres de familia se abstendrán de intervenir en los aspectos técnico-pedagógicos y laborales de las escuelas.
+I.- Contener todo lo relativo a la administración y aplicación de las aportaciones, que en numerario, bienes y servicios se hayan recibido;
+
+II.- Constar por escrito;
+
+III.- Respaldarse en su caso, con las facturas correspondientes; y
+
+IV.- Estar a disposición de los padres de familia o tutores que lo requieran.
+
+Cuando los fondos, que por concepto de aportaciones voluntarias tengan a su cargo dichas Asociaciones, se utilicen por los integrantes de las mismas para obtener un lucro en beneficio personal o de un tercero, se estará a lo dispuesto por el Título X del Código Penal vigente en el Estado; persiguiéndose la conducta delictiva y suspendiendo a los padres infractores en el desempeño del cargo, hasta en tanto no se emita sentencia definitiva, designando en forma inmediata a los integrantes de la mesa directiva que los habrán de sustituir.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 61.
 
+La constitución y funcionamiento de las Asociaciones de padres de familia en lo concerniente a sus relaciones con las autoridades de los planteles escolares, se sujetará a las disposiciones que señale la autoridad educativa federal.
+
+Estas Asociaciones de padres de familia se abstendrán de intervenir en los aspectos técnico-pedagógicos y laborales de las escuelas.
+
 La autoridad educativa estatal efectuará programas dirigidos a los padres de familia o a quienes ejerzan la patria potestad, la tutela o custodia de los menores, que les permitan dar mejor atención a sus hijos o pupilos.
 
-### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO II. DE LOS CONSEJOS DE PARTICIPACION
+
+SOCIAL
 
 ###### ARTICULO 62.
 
@@ -637,9 +717,7 @@ b).- A los organismos descentralizados, en los casos que les correspondan, confo
 
 RECURSO ADMINISTRATIVO
 
-### CAPITULO SEGUNDO
-
-DEL RECURSO ADMINISTRATIVO.
+### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 67.
 
@@ -709,6 +787,10 @@ d).- En la misma audiencia, o dentro de un plazo no mayor de 5 días hábiles, l
 
 La Secretaría de Educación podrá ordenar en las instituciones del Sistema Educativo Estatal, la práctica de las diligencias necesarias para constatar la autenticidad de los datos presentados, pudiendo suplir la deficiencia de la queja.
 
+### CAPITULO SEGUNDO
+
+DEL RECURSO ADMINISTRATIVO.
+
 ###### ARTICULO 72.
 
 Con excepción del apercibimiento y la amonestación, ante las cuales sólo procederá solicitud de aclaración, las sanciones podrán reclamarse mediante el recurso de reconsideración, el que se promoverá dentro de los 15 días naturales siguientes a la notificación de la resolución. El establecimiento educativo o la persona a quien se le hubiere impuesto la sanción, expresará los agravios que le cause la resolución recurrida ante la autoridad que le dictó, quien deberá resolver la impugnación en un plazo no mayor de treinta días naturales.
@@ -770,3 +852,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+TERCERO.- El Poder Ejecutivo deberá emitir el Reglamento Estatal de Organizaciones de Padres de Familia correspondiente, en un plazo no mayor a los 120 días a partir de la publicación de la presente ley. Coadyuvando con las autoridades educativas a la promoción y distribución del mismo, entre los padres de familia de todas las escuelas.
+
+CUARTO.- En tanto se expide el Reglamento referido en el artículo anterior, seguirá rigiendo el Reglamento federal de Asociaciones de Padres de Familia.
