@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2002-12-19"
+last_updated: "2004-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JUNIO DE 2004.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1659,7 +1659,9 @@ III.- Que no pueda ocurrir ante el Juez a solicitar la orden de aprehensión, po
 
 Se califican como delitos graves, los previstos en los siguientes artículos del Código Penal para el Estado de Sonora:
 
-Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 BIS; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuestos previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de menores e incapaces, previsto en el artículo 168, cuando le corresponda la sanción del segundo párrafo de dicho precepto; pornografía infantil, previsto por los artículos 169 BIS y 169-A; tortura, previsto en el artículo 181; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilios o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le correspondan las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de libertad, previsto en la fracción I del artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297, 297 BIS, 297-B, 298, 298-A, 299 y 300; sustracción de menores e incapaces previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX y X, excepto lo previsto en el penúltimo párrafo de este artículo, y 308 BIS; abigeato respecto de ganado bovino, en los términos de los artículos 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza en los casos del segundo párrafo del artículo 317; fraude en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto, daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2004)</small>
+
+Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 BIS; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuestos previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de menores e incapaces, previsto en los párrafos segundo, tercero y cuarto del artículo 168; pornografía infantil, previsto en los artículos 169 BIS y 169-A; tortura, previsto en el artículo 181; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilios o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le correspondan las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de libertad, previsto en la fracción I del artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297, 297 BIS, 297-B, 298, 298-A, 299 y 300; sustracción de menores e incapaces previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX y X, excepto lo previsto en el penúltimo párrafo de este artículo, y 308 BIS; abigeato respecto de ganado bovino, en los términos de los artículos 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza en los casos del segundo párrafo del artículo 317; fraude en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
 
 Los delitos señalados en el párrafo anterior también serán considerados como graves aún en los casos de tentativa.
 
@@ -1683,7 +1685,7 @@ Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, o cuan
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que la policía judicial, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en la prisión preventiva o, en su caso, en centro de salud.
+Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que la policía judicial, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en la prisión preventiva o, en su caso, en un centro de salud.
 
 > <small>(ADICIONADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1711,7 +1713,7 @@ Cuando se ejecute una orden de aprehensión dictada contra persona que maneje fo
 
 ###### ARTICULO 194.
 
-Al ser aprehendido o detenido un servidor público, se comunicará lo anterior sin demora al superior jerárquico respectivo. También será notificado dicho superior jerárquico cuando al servidor público, se le decrete formal prisión y cuando se le dicte sentencia definitiva, ya sea condenatoria o absoluta, remitiéndole a la autoridad correspondiente copia certificada de la misma.
+Al ser aprehendido o detenido un servidor público, se comunicará lo anterior sin demora al superior jerárquico respectivo. También será notificado dicho superior jerárquico cuando al servidor público, se le decrete formal prisión y cuando se le dicte sentencia definitiva, ya sea condenatoria o absolutoria, remitiéndole a la autoridad correspondiente copia certificada de la misma.
 
 ###### ARTICULO 195.
 
@@ -1741,7 +1743,7 @@ Se admitirá como prueba todo aquello que se ofrezca como tal, siempre que pueda
 
 ###### ARTICULO 199.
 
-La confesión, es la declaración voluntaria hecha por una personan menor de dieciocho años, en el pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el Juez o Tribunal de la causa, sobre hechos propios constitutivos de tipo delictivo, o de su participación en los mismos, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se admitirá en cualquier estado de procedimiento, hasta antes de dictar sentencia irrevocable.
+La confesión, es la declaración voluntaria hecha por una persona no menor de dieciocho años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el Juez o Tribunal de la causa, sobre hechos propios constitutivos de tipo delictivo, o de su participación en los mismos, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se admitirá en cualquier estado de procedimiento, hasta antes de dictar sentencia irrevocable.
 
 ### CAPITULO III. Inspección
 
@@ -2193,7 +2195,7 @@ V.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por en
 
 ###### ARTICULO 278.
 
-Cerrada la instrucción se mandará poner la acusa a la vista del Ministerio Público por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso, se aumentará un día al término señalado, sin que nunca sea mayor de treinta días hábiles.
+Cerrada la instrucción se mandará poner la causa a la vista del Ministerio Público por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso, se aumentará un día al término señalado, sin que nunca sea mayor de treinta días hábiles.
 
 Transcurrido el plazo a que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el Juez deberá informar, mediante notificación personal, al Procurador General de Justicia del Estado acerca de esta omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes, en un plazo de diez días hábiles, contados desde la fecha en que se le haya notificado la omisión, sin perjuicio de que se apliquen las sanciones que correspondan; pero si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día en el plazo señalado, sin que nunca sea mayor de treinta días hábiles.
 
@@ -2327,15 +2329,15 @@ El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en
 
 ###### ARTICULO 294.
 
-En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el Juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del Tribunal, y si hubiere sido solicitado por las partes a más tardar el día siguiente al en que se notificó el auto, citado para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso con lo que terminará la diligencia, salvo que el Juez oyendo a las partes, considere conveniente a citar audiencia, por una sola vez.
+En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el Juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del Tribunal, y si hubiere sido solicitado por las partes a más tardar el día siguiente al en que se notificó el auto, citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso con lo que terminará la diligencia, salvo que el Juez oyendo a las partes, considere conveniente citar a nueva audiencia, por una sola vez.
 
-Contra la resolución que niegue o admita la repetición de la diligencia de prueba a una nueva audiencia, no procede recurso alguno.
+Contra la resolución que niegue o admita la repetición de la diligencia de prueba o cite a una nueva audiencia, no procede recurso alguno.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 295.
 
-Cuando el proceso se haya tramitado en vía sumaria el Ministerio Público presentará sus conclusiones y a continuación la defensa presentará las suyas. Si aquéllas fueren acusatorias se seguirá procedimiento señalado en el artículo anterior, dictándose la sentencia en la misma audiencia o dentro de los cinco días siguientes a ésta. Si las conclusiones fueren de las contempladas en el artículo 281, se suspenderá la audiencia y se estará a lo previsto en el artículo 282.
+Cuando el proceso se haya tramitado en vía sumaria el Ministerio Público presentará sus conclusiones y a continuación la defensa presentará las suyas. Si aquéllas fueren acusatorias se seguirá el procedimiento señalado en el artículo anterior, dictándose la sentencia en la misma audiencia o dentro de los cinco días siguientes a ésta. Si las conclusiones fueren de las contempladas en el artículo 281, se suspenderá la audiencia y se estará a lo previsto en el artículo 282.
 
 ### CAPITULO II. Aclaración de sentencia
 
@@ -2447,7 +2449,7 @@ VII.- Los autos que nieguen el cateo a las medidas precautorias de carácter pat
 
 > <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-VIII.- Los autos en que un Tribunal se niegue a declarar su incompetencia por declinatoria; o a liberar el oficio inhibitorio solicitado; y
+VIII.- Los autos en que un Tribunal se niegue a declarar su incompetencia por declinatoria; o a librar el oficio inhibitorio solicitado; y
 
 > <small>(ADICIONADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2775,7 +2777,7 @@ Cuando la garantía consista en hipoteca; el inmueble no deberá tener gravamen 
 
 ###### ARTICULO 356.
 
-Cuando se ofrezca como garantía fianza personal por cantidad que no exceda del equivalente a cien veces el salario mínimo vigente en la capital del Estado, quedará bajo la responsabilidad del Tribunal la apreciación que haga de la solvencia e idoneidad del fiador.
+Cuando se ofrezca como garantía fianza personal por cantidad que no exceda del equivalente a cien veces el salario mínimo general vigente en la capital del Estado, quedará bajo la responsabilidad del Tribunal la apreciación que haga de la solvencia e idoneidad del fiador.
 
 > <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2819,7 +2821,7 @@ IV.- Cuando lo solicite el mismo inculpado y se presente al tribunal;
 
 > <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-V.- Cuando parezca con posterioridad que el delito que se le imputa es considerado como grave por la ley;
+V.- Cuando aparezca con posterioridad que el delito que se le imputa es considerado como grave por la ley;
 
 VI.- Cuando en el proceso cause ejecutoria la sentencia dictada en primera o segunda instancia;
 
@@ -2849,7 +2851,7 @@ IV.- En el caso del artículo 366.
 
 ###### ARTICULO 364.
 
-En los casos de las fracciones I, II, III, VII y VIII del artículo 362, se mandará reaprehender al inculpado y la caución se hará efectiva, quedando el importe de la reparación del daño en el Fondo para la Administración de Justicia, a favor del ofendido o sus derechohabientes, en los términos del artículo 368, y la suma garantizadora del buen comportamiento procesal ingresará como patrimonio propio.
+En los casos de las fracciones I, II, III, VII y VIII del artículo 362, se mandará reaprehender al inculpado y la caución se hará efectiva, quedando el importe de la reparación del daño en el Fondo para la Administración de Justicia, en favor del ofendido o sus derechohabientes, en los términos del artículo 368, y la suma garantizadora del buen comportamiento procesal ingresará como patrimonio propio.
 
 En los casos de las fracciones V y VI del artículo 362 y III del 363, se ordenará la reaprehensión del inculpado. En los casos de las fracciones IV del artículo 362 y II del 363, se remitirá al inculpado al establecimiento que corresponda.
 
@@ -2949,7 +2951,7 @@ I.- Cuando en cualquier estado de la instrucción y después de dictado el auto 
 
 > <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-II.- Cuando en cualquier estado de la instrucción, y que si hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecidos plenamente los considerados en el auto de formal prisión para tener al detenido como probable responsable.
+II.- Cuando en cualquier estado de la instrucción, y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecido plenamente los considerados en el auto de formal prisión para tener al detenido como probable responsable.
 
 ###### ARTICULO 374.
 
@@ -3397,7 +3399,7 @@ Inmediatamente que se compruebe que el inculpado está en alguno de los casos a 
 
 ###### ARTICULO 448.
 
-Si se comprueba el delito y que en él tuvo participación el inculpado, previa solicitud del Ministerio Público y en audiencia de éste, del defensor y del representante legal, si lo tuviere, el Tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 19, fracción VII, 74 y 75 del Código Penal.
+Si se comprueba el delito y que en él tuvo participación el inculpado, previa solicitud del Ministerio Público y en audiencia de éste, del defensor y del representante legal, si los tuviere, el Tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 19, fracción VII, 74 y 75 del Código Penal.
 
 La resolución que se dicte será apelable en el efecto devolutivo.
 
@@ -3553,7 +3555,7 @@ La ejecución de las sentencias condenatorias irrevocables en materia penal, cor
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
-Será deber del Ministerio Público practicar todas las diligencias conducentes a fin de que las sentencias sean cumplidas y lo hará así, ya gestionando cerca de las autoridades administrativas o ya exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido, en las sentencias, en pro o en contra de los individuos que sean objeto de ellas.
+Será deber del Ministerio Público practicar todas las diligencias conducentes a fin de que las sentencias sean cumplidas y lo hará así, ya gestionando cerca de las autoridades administrativas lo que proceda, o ya exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido, en las sentencias, en pro o en contra de los individuos que sean objeto de ellas.
 
 ###### ARTICULO 481.
 
@@ -3645,7 +3647,7 @@ Después de dictada sentencia irrevocable no procederá la suspensión condicion
 
 ###### ARTICULO 499.
 
-Cuando por alguna de las causas que se señale el artículo 87 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el Tribunal que concedió ésta, procederá, con audiencia del Ministerio Público, del reo y su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción por la autoridad que corresponda.
+Cuando por alguna de las causas que señale el artículo 87 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el Tribunal que concedió ésta, procederá, con audiencia del Ministerio Público, del reo y su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción por la autoridad que corresponda.
 
 ### CAPITULO III. Libertad preparatoria
 
@@ -3829,7 +3831,7 @@ Recibido el proceso y, en su caso, las pruebas del promovente, se pondrá el exp
 
 ###### ARTICULO 530.
 
-Transcurridos los términos a que se refiere el artículo anterior, se fallará el asunto declarado fundada o no la solicitud, dentro de los 10 días hábiles siguientes.
+Transcurridos los términos a que se refiere el artículo anterior, se fallará el asunto declarando fundada o no la solicitud, dentro de los 10 días hábiles siguientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE MARZO DE 1994)</small>
 
@@ -4048,3 +4050,9 @@ UNICO.- El presente Decreto entrará al día siguiente de su publicación en el 
 B.O. 19 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
