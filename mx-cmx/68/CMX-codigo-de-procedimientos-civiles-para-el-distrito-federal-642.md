@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1964-01-31"
+last_updated: "1966-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1966.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -5190,7 +5190,7 @@ Tienen derecho a pedir la partición de la herencia:
 
 ARTICULO 860
 
-Cuando el albacea no haga la partición por sí mismo promoverá dentro del tercero día de aprobada la cuenta la elección de un contador o abogado con título oficial registrado en el asiento del tribunal para que haga la división de los bienes. El juez convocará a los herederos por medio del correo o cédulas, a junta dentro de los tres días siguientes a fin de que se haga en su presencia la elección.
+Cuando el albacea no haga la partición por sí mismo promoverá dentro del tercero día de aprobada la cuenta la elección de un contador o abogado con título oficial registrado en el asiento del tribunal para que haga la división de los bienes. El juez convocará a los herederos por medio de correo o cédulas, a junta dentro de los tres días siguientes a fin de que se haga en su presencia la elección.
 
 Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propuestos.
 
@@ -5752,7 +5752,9 @@ Se establecen en la ciudad de México juzgados de paz en cada delegación o dema
 
 ARTICULO 2
 
-Conocerán los jueces de paz de los juicios cuya cuantía no exceda de doscientos pesos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1966)</small>
+
+Conocerán los Jueces de Paz de los juicios cuya cuantía no exceda de un mil pesos.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aun cuando se reclame en ella.
 
@@ -5762,9 +5764,9 @@ ARTICULO 3
 
 Si se dudare del valor de la cosa demandada o del interés del pleito antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombra a costa del actor.
 
-> <small>(F. DE E., 27 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1966)</small>
 
-Aun cuando esto se hubiere hecho, el demandado en el acto del juicio podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder de doscientos pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente se continuará la audiencia como lo establecen los artículos 20 a 23.
+Aún cuando ésto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder de un mil pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presente resolviendo en seguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 20 al 23.
 
 ARTICULO 4
 
@@ -5870,7 +5872,9 @@ I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el
 
 II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y en general, presentar todas las pruebas que se puedan rendir desde luego;
 
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o prueben las partes resultare demostrada la procedencia de una excepción dilatoria, el juez lo declarará así desde luego y dará por terminada la audiencia. Ante los jueces de paz, sólo se admitirá reconvención hasta por doscientos pesos.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1966)</small>
+
+III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultara demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los Jueces de Paz, sólo se admitirá reconvención hasta por mil pesos.
 
 IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
@@ -6008,7 +6012,9 @@ ARTICULO 44
 
 Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
 
-En los asuntos de menos de cincuenta pesos no se requiere ni la formación de expediente, bastando con asentar en el libro de gobierno, el asunto de la demanda y la contestación que se diere sucintamente relatada y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1966)</small>
+
+En los asuntos de menos de trescientos pesos, no se requiere ni la formación de expedientes, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatada, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
 
 ARTICULO 45
 
@@ -6129,3 +6135,21 @@ D.O.F. 31 DE ENERO DE 1964.
 ###### ARTICULO TERCERO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 4 DE ENERO DE 1966.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones legales que se opongan a las del presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Todos los asuntos que se encuentren en trámite en las Salas del Tribunal, Juzgados Civiles, Mixtos de Primera Instancia, Menores de Paz, cuyas competencias quedan modificadas en virtud del presente Decreto, continuarán tramitándose en unas u otros, hasta su terminación y ejecución, en su caso, de acuerdo con las normas procesales que han venido regulando su tramitación.
+
+###### ARTICULO TERCERO.
+
+Se faculta al Tribunal Pleno para tomar todos los acuerdos que considere necesarios o convenientes, para la mejor aplicación de las disposiciones de este Decreto.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor en el Distrito Federal, tres días después de su publicación en el "Diario Oficial" de la Federación y en los Territorios Federales quince días después de esa misma publicación.
