@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "1997-02-07"
+last_updated: "1997-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -43,9 +43,11 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
 ### CAPITULO UNICO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 1.
 
-Esta Ley tiene por objeto reglamentar el Título Tercero de la Constitución Política del Estado Libre y Soberano de México, en materia de:
+Esta Ley tiene por objeto reglamentar el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, en materia de:
 
 I. Los sujetos de responsabilidades en el servicio público estatal y municipal;
 
@@ -93,9 +95,11 @@ de Juicio Político y Declaración de Procedencia
 
 ### CAPITULO I. Sujetos, Causas del Juicio Político y Sanciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 5.
 
-Son sujetos de juicio político los servidores públicos que menciona el artículo 127 de la Constitución del Estado.
+Son sujetos de juicio político los servidores públicos que menciona el artículo 131 de la Constitución Política del Estado Libre y Soberano de México.
 
 El Gobernador del Estado, durante el ejercicio de su cargo sólo será responsable por delitos graves del orden común y por delitos contra la soberanía del Estado, sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110 de la Constitución General de la República.
 
@@ -223,9 +227,11 @@ En caso contrario, la resolución decretará la destitución del cargo y el peri
 
 ### CAPITULO III. De la Declaración de Procedencia por Responsabilidad Penal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 22.
 
-Cuando se presente denuncia o querella por cualquier ciudadano bajo su responsabilidad y mediante la presentación de elementos de prueba, o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales para el ejercicio de la acción penal, a fin de que pueda procederse en la misma vía en contra de los servidores públicos a que se refiere el artículo 127 de la Constitución Política del Estado, se actuará, en lo pertinente, de acuerdo con lo previsto en el capítulo anterior de esta Ley, en materia de juicio político ante la Legislatura. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la probable existencia del delito y la presunta responsabilidad del inculpado, así como la subsistencia de la protección Constitucional o fuero cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar o no a proceder penalmente en contra del inculpado.
+Cuando se presente denuncia o querella por cualquier ciudadano bajo su responsabilidad y mediante la presentación de elementos de prueba, o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales para el ejercicio de la acción penal, a fin de que pueda procederse en la misma vía en contra de los servidores públicos a que se refiere el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, se actuará, en lo pertinente, de acuerdo con lo previsto en el capítulo anterior de esta Ley, en materia de juicio político ante la Legislatura. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la probable existencia de delito y la presunta responsabilidad del inculpado, así como la subsistencia de la protección Constitucional o fuero cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar o no a proceder penalmente en contra del inculpado.
 
 Si a juicio de la Sección Instructora la imputación fuese notoriamente improcedente, lo notificará de inmediato a la Legislatura para que resuelva si se continúa el procedimiento o desecha la imputación, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que los justifiquen.
 
@@ -245,9 +251,11 @@ Si la Legislatura declara que ha lugar a proceder contra el inculpado, éste que
 
 Para proceder penalmente contra el Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia del Estado, en los términos del artículo 111 de la Constitución General de la República, la Legislatura al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procederá conforme a sus atribuciones y en los términos de la Constitución del Estado a declarar si procede la homologación de la Declaratoria del Congreso de la Unión y consecuentemente el retiro de la protección o fuero que la propia Constitución del Estado otorga a tales servidores públicos a fin de ser enjuiciados como legalmente hubiere lugar.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 26.
 
-Cuando se siga el proceso penal a un servidor público de los mencionados en el artículo 127 de la Constitución del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, el Diputado Secretario de la Legislatura o de la Diputación Permanente, librará oficio al Juez o tribunal que conozca de la causa, a fin de que se suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+Cuando se siga el proceso penal a un servidor público de los mencionados en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, el Diputado Secretario de la Legislatura o de la Diputación Permanente, librará oficio al Juez del Tribunal que conozca de la causa, a fin de que se suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
 ### CAPITULO IV. Disposiciones Comunes para los Capítulos
 
@@ -307,9 +315,11 @@ En todo caso, las votaciones deberán ser nominales, para formular, aprobar o re
 
 En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura se tomarán en sesión pública, excepto en la que se presente acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 37.
 
-Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en el artículo 127 de la Constitución Local, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
+Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
 
 Si la acumulación fuese procedente, la Sección formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
@@ -379,7 +389,7 @@ XVIII. Abstenerse de intervenir o participar en la selección, nombramiento, des
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
 
-XIX.- Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
+XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
 
 XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría conforme a la competencia de ésta;
 
@@ -603,7 +613,7 @@ La contravención a lo dispuesto en el párrafo anterior, será causa de respons
 
 > <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)</small>
 
-###### Artículo 65.
+###### ARTICULO 65.
 
 Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
@@ -809,7 +819,7 @@ Para los efectos de esta Ley, se considera obsequio todo bien que reciban con mo
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1994)</small>
 
-###### ARTICULO 90.
+###### Artículo 90.
 
 Se prohibe que los servidores públicos reciban para sí o para su cónyuge o parientes consanguíneos hasta el cuarto grado, así como para los padres y hermanos de su cónyuge, obsequios de personas respecto de las cuales en razón de la función que tengan encomendada, hayan tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posterior a la misma.
 
@@ -827,9 +837,11 @@ En todo lo relacionado al procedimiento, ofrecimiento y valoración de pruebas q
 
 y del Tribunal de lo Contencioso Administrativo por mala conducta
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1997)</small>
+
 ###### Artículo 92.
 
-El gobernador está facultado, de conformidad con los artículos 88 fracción XI y 129 de la Constitución Política del Estado, para solicitar ante la Legislatura, o en su caso, ante la Diputación Permanente, la destitución de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando hayan incurrido en mala conducta.
+El Gobernador y el Consejo de la Judicatura están facultados, de conformidad con los artículos 77 fracción XV y 133 de la Constitución Política del Estado Libre y Soberano de México, para solicitar ante la Legislatura, o en su caso, ante la Diputación Permanente, la destitución de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando hayan incurrido en mala conducta.
 
 ###### Artículo 93.
 
@@ -968,3 +980,13 @@ Se derogan los siguientes artículos:. 50, 66, 67, y del 100 al 102 de la Ley de
 ###### ARTICULO QUINTO.
 
 Se reforman los artículos... 65 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+P.O. 3 DE MARZO DE 1997
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
