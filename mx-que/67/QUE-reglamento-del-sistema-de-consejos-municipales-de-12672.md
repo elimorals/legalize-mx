@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-sistema-de-consejos-municipales-de-12672"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-25"
-last_updated: "1998-09-25"
+last_updated: "2004-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de septiembre de 1998.
 
@@ -655,7 +655,9 @@ La Unidad de Control y Vigilancia es un órgano colegiado que dependerá directa
 
 I. Un Contralor Social, propietario y suplente, electos por mayoría de los Vocales de Control y Vigilancia de los Consejos Delegacionales.
 
-II. Un Secretario Técnico, que será el Contralor Municipal.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+II. Un Secretario Técnico, que será el Secretario de la Contraloria Municipal; y
 
 III. Los Vocales de Control y Vigilancia de los Consejos Delegacionales.
 
@@ -829,7 +831,9 @@ Los requisitos para ser miembros de los Comités Comunitarios son:
 
 I. Ser residente de la localidad.
 
-II. No formar parte del personal de la Secretaría de Desarrollo Social o de la Secretaría de Desarrollo Urbano y Obras Públicas Municipales.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+II. No formar parte del personal de la Secretaría de Desarrollo Social, Secretaría de Desarrollo Sustentable del Municipio de Querétaro o Secretaría de Obras Públicas Municipales; y
 
 III. No ser propietario del fraccionamiento, colonia o predio del cual se forme la localidad en donde se constituya el Comité; asimismo, no deberá ser promotor para la venta de los lotes de esa localidad.
 
@@ -965,7 +969,7 @@ De no asistir más del veinte por ciento de miembros del padrón en la segunda c
 
 Artículo Primero.- El presente Reglamento entrara en vigor a partir del día siguiente de la fecha de su publicación en la Gaceta Municipal y en el Diario Oficial "La Sombra de Arteaga."
 
-Artículo Segundo.- Se deroga el apartado primero del libro cuarto del Código Municipal de Querétaro, que comprende de los Articulos 771 al 807 del mismo ordenamiento.
+Artículo Segundo.- Se deroga el apartado primero del libro cuarto del Código Municipal de Querétaro, que comprende de los Artículos 771 al 807 del mismo ordenamiento.
 
 Artículo Tercero.- A partir de la publicación del presente Reglamento, se iniciara el proceso para la renovación de las personas que a la fecha tengan más de 18 meses participando dentro del Sistema y que tengan cargo de elección, de acuerdo a como se señala en este Reglamento.
 
@@ -978,3 +982,13 @@ SE EXPIDE LA PRESENTE PARA LOS FINES LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE S
 LIC. RICARDO DEL RIO TREJO.
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sobra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Notifíquese a los titulares de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría de Obras Públicas Municipales y Secretaría de la Contraloría Municipal.
