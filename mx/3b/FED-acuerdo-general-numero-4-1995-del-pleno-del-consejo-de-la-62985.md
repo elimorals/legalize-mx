@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-4-1995-del-pleno-del-consejo-de-la-62985
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-07-24"
-last_updated: "1997-11-28"
+last_updated: "1998-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62985&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1995-07-06"
 
 ACUERDO GENERAL NUMERO 4/1995, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACION DE SU COMISION DE RECESO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 31/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 28 DE NOVIEMBRE DE 1997, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EN LO QUE SE OPONGA AL CITADO ACUERDO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 22/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 24 DE JUNIO DE 1998, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO EN LO QUE SE OPONGA AL REFERIDO ACUERDO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 1998.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de julio de 1995.
 
@@ -70,6 +70,14 @@ LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUD
 D.O.F. 28 DE NOVIEMBRE DE 1997.
 
 PRIMERO.- Este Acuerdo entrará en vigor el dieciséis de diciembre de mil novecientos noventa y siete.
+
+SEGUNDO.- Toda disposición que se oponga al presente Acuerdo, incluido el diverso Acuerdo General número 4/1995 del propio Pleno del Consejo de la Judicatura Federal, quedará derogado en la parte conducente.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, además, comuníquese a los tribunales de Circuito y juzgados de Distrito para los efectos legales relativos.
+
+D.O.F. 24 DE JUNIO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el dieciséis de julio de mil novecientos noventa y ocho.
 
 SEGUNDO.- Toda disposición que se oponga al presente Acuerdo, incluido el diverso Acuerdo General número 4/1995 del propio Pleno del Consejo de la Judicatura Federal, quedará derogado en la parte conducente.
 
