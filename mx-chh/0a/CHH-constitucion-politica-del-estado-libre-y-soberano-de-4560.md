@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2004-09-18"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1459,7 +1459,9 @@ XXXII.- Proponer al Congreso del Estado la creación de organismos descentraliza
 
 XXXIII.- Formar la Estadística y el Catastro del Estado.
 
-XXXIV.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+XXXIV.- Adquirir, administrar y enajenar los bienes propiedad del Estado, en los términos y condiciones previstos en la presente Constitución y en la ley. Esta señalará el régimen al que se sujetarán los bienes que adquieran para sus funciones los Poderes Legislativo y Judicial del Estado.
 
 XXXV.- Convocar a elecciones de Ayuntamientos, cuando por cualquier motivo desaparecieren éstos, dentro del primer semestre del período constitucional correspondiente.
 
@@ -2509,19 +2511,17 @@ La ley fijará la extensión del patrimonio de familia, así en cuanto a su obje
 
 En tiempos de carestía de los artículos de primera necesidad, el Congreso podrá decretar la apertura de establecimientos en donde aquellos se expendan al precio de costo, fijando el tiempo durante el cual deban operar los expendios, cuya organización y vigilancia se dejarán a cargo del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ## TITULO XIII.
 
-DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS.
+DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ###### Art. 178.
 
 Para los efectos de las responsabilidades a que alude este Título, son servidores públicos todos los funcionarios y empleados de los poderes Legislativo, Ejecutivo y Judicial del Estado, de los municipios, de los organismos descentralizados y en general, a toda persona que desempeñe en las entidades mencionadas un empleo, cargo o comisión de cualquier naturaleza, ya sea que su designación tenga origen en un proceso de elección popular, en un nombramiento o en un contrato.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 Los servidores públicos, en ejercicio de sus funciones, pueden contraer responsabilidad:
 
@@ -2533,15 +2533,13 @@ III.- Oficial, por los actos u omisiones que redunden en perjuicio de los intere
 
 IV.- Civil, por los actos u omisiones que lesionen el patrimonio público.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
 Los procedimientos para la aplicación de las sanciones que en cada caso correspondan, se tramitarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 La comisión de delitos comunes por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal. Esta determinará los casos y las circunstancias en que se deban sancionar por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o con motivo del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquiriendo bienes o conduciéndose como dueños de ellos, cuya procedencia lícita no pudiesen justificar, privándolos de la propiedad de los mismos, independientemente de las penas que les correspondan.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la prestación de elementos de prueba suficientes, podrá formular denuncia respecto a las conductas a que se refiere este artículo.
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas suficientes, podrá formular denuncia respecto de las conductas a que se refiere este artículo.
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3124,3 +3122,25 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 Para los efectos del artículo 202 de la Constitución Política del Estado, envíese oportunamente a los H. Ayuntamientos del Estado copia de la Iniciativa y de los debates del Congreso.
 
 Realizado el cómputo a que el mismo se refiere, hágase la declaración correspondiente a su aprobación y envíese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+DECRETO No. 756/03 VIII P.E., QUE MODIFICA EL TITULO XIII Y SE ADICIONA UN SEXTO PARRAFO AL ARTICULO 178 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+
+PRIMERO.- El presente Decreto entrará en vigor en un plazo de ciento ochenta días, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por Lo que se refiere a la modificación del artículo 178 de la Constitución Política del Estado, y conforme lo dispone el artículo 202 de dicho ordenamiento, remítase copia del Dictamen, de la Iniciativa y de los debates del Congreso, a los sesenta y siete Municipios del Estado, para efectos de su aprobación, en su caso, cuya resolución deberán hacer llegar al Congreso o a la Diputación Permanente, a más tardar dentro de los cuarenta y cinco días siguientes a la fecha en que reciban la comunicación.
+
+TERCERO.- Una vez en vigor, el Estado y los Municipios incluirán en sus Presupuestos de Egresos la partida presupuestal correspondiente para hacer frente a su responsabilidad patrimonial, conforme a los siguientes criterios.
+
+a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización, y
+
+b) El pago de la indemnización estará sujeto a la disponibilidad presupuestal del ejercicio fiscal de que se trate.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+DECRETO No. 1011/04 II P.O., QUE MODIFICA EL ARTICULO 93, EN SU FRACCION XXXIV, DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+PRIMERO. Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución local.
+
+SEGUNDO. Realizado que sea el procedimiento del artículo 202 de la Constitución Política Estatal, publíquese el presente Decreto en el Periódico Oficial del Estado, para que entre en vigor al día siguiente de su publicación.
