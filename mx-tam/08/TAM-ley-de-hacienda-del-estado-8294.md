@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1976-12-29"
+last_updated: "1977-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -215,7 +215,7 @@ Los causantes que incurran en mora en el pago del impuesto, serán sancionados c
 
 I.- El doble de la tasa de intereses que fija la Ley de Ingresos sobre el importe del adeudo por cada mes o fracción, que demore el pago respectivo.
 
-II.- Cobranza del 10% sobre el importe del adeudo, si fué promovido oficialmente el cobro.
+II.- Cobranza del 10% sobre el importe del adeudo, si fue promovido oficialmente el cobro.
 
 ###### ARTICULO 19o.
 
@@ -247,7 +247,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -877,13 +877,19 @@ X.- El cedente en los casos a que se refiere la fracción XII del artículo ante
 
 DE LA BASE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 98o.
 
-La base de este impuesto es el valor de los bienes determinados conforme a las reglas siguientes:
+La base de este Impuesto es el valor de los bienes o derechos determinados conforme a las reglas siguientes:
 
-Para los efectos fiscales, el Impuesto de Traslación de Dominio, se calculará tomándose en cuenta el valor más alto entre el declarado en la operación, el indicado en el certificado de valor fiscal que, al efecto, expida el Departamento de Catastro, o el avalúo que se practique para el pago de impuestos federales.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
-Para expedir el certificado de Catastro, se tendrá presente lo siguiente:
+Para los efectos fiscales, el Impuusto (sic) de Traslación de Dominio, se calculará tomándose en cuenta el valor más alto entre el declarado en la operación, el indicado en el avalúo o certificado de valor fiscal que, al efecto, expida el Departamento de Catastro, o el avalúo que se practique para el pago de impuestos federales. Tratándose de bienes inmuebles que reporten gravámenes si quedan a cargo del comprador deben formar parte de la base.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+Para expedir el avalúo o certificado de Catastro, se tendrá presente lo siguiente:
 
 I.- Que dicho valor corresponda al predio en la situación en que se encuentre al efectuarse la transmisión de la propiedad, por no haber variado ni la extensión del terreno, ni la de las construcciones en su caso.
 
@@ -1005,11 +1011,21 @@ III.- La adquisición de casas habitación que se realicen en el cumplimiento de
 
 IV.- La constitución, disolución o liquidación de la sociedad conyugal;
 
-V.- La devolución de los bienes inmuebles al enajenante cuando por devolución se realice la revocación, recisión o anulación del contrato respectivo; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
-VI.- La división de la cosa común entre los copropietarios, siempre que los valores de las partes adjudicadas a los participes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos.
+V.- La devolución de los bienes inmuebles al enajenante cuando por resolución se realice la revocación, recisión o anulación del contrato respectivo;
 
-Las exenciones mencionadas deberán ser solicitadas por escrito (sic) la Tesorería General del Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+VI.- La división de la cosa común entre los copropietarios, siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+VII.- Cuando se trate de la transmisión de derechos reales sobre bienes inmuebles, distintos del de dominio o del de copropiedad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+Las exenciones mencionadas deberán ser solicitadas por escrito a la Tesorería General del Estado.
 
 ### CAPITULO IV. IMPUESTO SOBRE PRODUCTOS DE INVERSION
 
@@ -1197,19 +1213,31 @@ Este impuesto se causará, liquidará y pagará a razón del 5% sobre el monto d
 
 DEL PAGO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 126o.
 
-El impuesto que establece este capítulo deberá ser cubierto por bimestres vencidos, dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+El impuesto que establece este capítulo deberá ser cubierto tratándose de causantes habituales, por bimestres vencidos, dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
 Cuando de acuerdo con lo estipulado en el contrato, el acreedor tenga derecho a obtener ingresos u otras prestaciones por períodos mayores de dos meses, se hará el cálculo de la cantidad que de esas prestaciones corresponda a un bimestre a fin de que el pago del impuesto se haga como se establece en el párrafo anterior.
 
-En los casos de contratos de cuenta corriente, o cualesquiera otros en que no sea posible determinar anticipadamente, ni el monto de los ingresos que sirvan de base para la determinación del impuesto, ni quien sea el causante de éste, el pago se hará dentro de los quince días hábiles siguientes al corte de la cuenta que para efecto de este gravámen se hará cada seis meses, o de la fecha en que pueda definirse quien es el acreedor y el importe de los ingresos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+En los casos de contratos de cuenta corriente, o cualesquiera otros en que no sea posible determinar anticipadamente, ni el monto de los ingresos que sirvan de base para la determinación del impuesto, ni quién sea el causante de éste, el pago se hará dentro de los quince días hábiles siguientes al corte de la cuenta que para efecto de este gravamen se hará cada seis meses, o de la fecha en que pueda definirse quien es el acreedor y el importe de los ingresos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
 En los casos de contrato de promesa de venta, de compra-venta con reserva de dominio, o de compra-venta a plazos, cuyo objeto sean bienes muebles o inmuebles, el pago del impuesto se hará por bimestres vencidos.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+Tratándose de causantes eventuales el pago deberá hacerse a más tardar el día en que se realice la operación o el acto gravado, pero sí debe inscribirse o registrarse ante alguna dependencia estatal podrá enterarse en el momento en que este se efectúe, pero dentro de los plazos legales que para ese acto se señalen. En su defecto dará lugar a las sanciones correspondientes.
+
 El pago se hará mediante la presentación por cuadruplicado, de una declaración en las formas que apruebe la Tesorería General del Estado, y en ellas se expresará:
 
-a).- El importe de los ingresos totales percibidos por el causante en el bimestre a que se refiere la declaración.
+a).- El importe de los ingresos totales percibidos por el causante en el bimestre a que refiere la declaración.
 
 b).- El importe de los intereses totales percibidos por el causante en el período.
 
@@ -1467,9 +1495,11 @@ II.- La explotación dentro del Estado de ganado lechero, aves y colmenas.
 
 III.- La entrega de ganado y aves a las empacadoras, o a los rastros, y la matanza hecha por los propios ganaderos y avicultores.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 147o.
 
-Para los efectos de este impuesto la venta o explotación de ganado, aves o colmenas, se considera realizada en el Estado, cuando se encuentren dentro del territorio del mismo sin importar domicilio del vendedor, comprador o explotador. La salida de ganado, aves y colmenas de la Entidad implica que su venta ha sido realizada.
+Para los efectos de este impuesto la venta o explotación de ganado, aves o colmenas, se considera realizada en el Estado, cuando se encuentren dentro del territorio del mismo sin importar domicilio del vendedor, comprador o explotador. La salida de ganado, aves y colmenas del predio de origen o del que se realice la explotación implica que su venta ha sido realizada.
 
 DE LOS SUJETOS
 
@@ -1617,9 +1647,11 @@ La Tesorería General del Estado podrá publicar periódicamente los aforos de p
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 167o.
 
-La tasa general del impuesto será del 2% sobre su base, con excepción del Henequén que será al 1.5%, en la inteligencia de que el impuesto que se causará, liquidará y pagará, no podrá ser inferior al que se señala como cuota mínima por tonelada en la siguiente:
+La tasa general del impuesto será del 2% sobre su base, con excepción del henequén que será al 1.5%, en la inteligencia de que el impuesto que se causará, liquidará y pagará, no podrá ser inferior al que se señala como cuota mínima por tonelada en la siguiente:
 
 VEASE TABLA ANEXA
 
@@ -1641,7 +1673,7 @@ DEL PAGO
 
 ###### ARTICULO 169o.
 
-El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en caso de su traslado inmediato, o enterar el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
+El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en su caso de su traslado inmediato, o enterarón el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
 
 Los frutos o producto agrícolas que se encuentren en el estado, sin acreditar que provienen de otra entidad mediante la documentación Fiscal expedida en el lugar de origen y sellada por la primera caseta o autoridad fiscal competente del estado que toque en su traslado, se presumirán producidos en Tamaulipas y estarán sujetos al pago de este Impuesto.
 
@@ -1875,7 +1907,9 @@ Para los efectos de este impuesto se entienden por espectáculos públicos toda 
 
 Para los efectos de este impuesto, se entiende:
 
-I.- Por espectáculo teatral, las representaciones de dramas, comedias, sainetes, conciertos, ópera, opereta, ballets, zarzuela, revistas y, en general la actuación personal de actores, músicos o artistas ante el público. Están comprendidos en este concepto, los espectáculos que se den en las carpas, circos o variedades, en restoranes, cabarets y cafés cantantes.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+I.- Por espectáculo teatral, las representaciones de dramas, comedias, sainetes, conciertos, ópera, opereta, ballets, zarzuela, revistas y, en general la actuación personal de actores, músicos o artistas ante el público. Están comprendidos en este concepto los espectáculos que se dan en las carpas, circos o variedades, en restaurantes, cabarets y cafés cantantes.
 
 II.- Por función cinematográfica la exhibición, habitual u ocasional, de películas de cualquier especie.
 
@@ -2011,6 +2045,8 @@ En los casos de infracciones a lo dispuesto por este capítulo, los Jefes de las
 
 DEL OBJETO
 
+> <small>(REFORMADO PRIMER PARRAFO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 202o.
 
 Es objeto de este impuesto la enajenación de segunda y posteriores manos de pescados y mariscos.
@@ -2083,7 +2119,23 @@ DEL OBJETO
 
 ###### ARTICULO 211o.
 
-Es objeto de este impuesto, la percepción de ingresos derivados del libre ejercicio de una profesión, de actividad técnica, cultural, artística, deportiva o de cualquier otra naturaleza, cuando se ejerza sin estar subordinada a un patrón.
+Es objeto de este impuesto, la percepción de ingresos derivados del libre ejercicio de una profesión, de actividad técnica, cultural, artística, deportiva o de cualquier otra naturaleza, cuando se ejerza sin estar subordinada a un patrón, dentro del territorio del Estado.
+
+> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+Se considera que la actividad se realiza dentro del territorio del Estado cuando:
+
+> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+a).- La persona que realiza la actividad gravada reside en el Estado.
+
+> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+b).- Cuando la actividad gravada se realice dentro del territorio del Estado, sin importar el domicilio del que lo presta, comprendiendo el caso que se preste por personal a su servicio o por interpósita persona.
+
+> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+c).- Cuando la persona que recibe el servicio reside en el Estado.
 
 DE LOS SUJETOS
 
@@ -2113,9 +2165,11 @@ Para practicar las estimaciones a que se refiere este artículo, se tendrá en c
 
 DE LA TASA
 
+> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 215o.
 
-Este impuesto se causará con la tasa del 1.5% sobre la base a que se refiere el artículo anterior.
+Este impuesto se causará con la tasa del 1.5% sobre la base a que se refieren los dos artículos anteriores.
 
 DEL PAGO
 
@@ -2123,13 +2177,13 @@ DEL PAGO
 
 El pago de impuestos se hará bimestralmente dentro de los 20 primeros días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, haciendo uso de las formas aprobadas por la Tesorería General del Estado.
 
+> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 217o.
 
-Quienes hagan pagos a causantes eventuales de este impuesto, deberán retenerlo y enterarlo a la Oficina recaudadora correspondiente, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+Quienes hagan pagos a causante eventuales de este impuesto, deberán retenerlo y enterarlo a la Oficina Recaudadora correspondiente, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
 
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
-
-La misma obligación tendrán quienes en forma habitual efectúen pagos a deportistas, artistas, técnicos extranjeros, causantes habituales o accidentales de este impuesto.
+La misma obligación tendrán quienes en forma habitual o accidental efectúen pagos a deportistas, profesionistas, artistas, técnicos y en general a personas que ejerzan su actividad sin estar subordinado a un patrón, cuando éstos residan fuera del Estado o en el extranjero.
 
 OBLIGACIONES DE LOS CAUSANTES
 
@@ -2170,6 +2224,14 @@ Están exentos del pago de este impuesto:
 I.- Los ingresos que perciben los artesanos; y
 
 II.- Los ingresos que perciban los agentes de instituciones de crédito, de seguros y de fianzas.
+
+> <small>(ADICIONADA P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+III.- Los técnicos, cuando prestan sus servicios a domicilio y no cuenten con maquinaria, ni tengan taller instalado.
+
+> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+Las personas a que se refiere este artículo deberán gestionar y obtener de la Tesorería General del Estado en forma expresa la autorización de la exención.
 
 ### CAPITULO XIII. IMPUESTO SOBRE NOMINAS
 
@@ -2373,9 +2435,11 @@ IV.- Registrar ante el Departamento de Alcoholes, los vehículos destinados al t
 
 Las personas que adquieren negociaciones que realicen actividades gravadas con este impuesto, son solidariamente responsables del pago de los créditos adeudados por dichas negociaciones.
 
+> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 243o.
 
-Los propietarios y arrendadores de los locales ocupados por fábricas, almacenes, bodegas, oficinas y expendios de alcohol o de bebidas alcohólicas, darán aviso a la Tesorería General del Estado, de los contratos de arrendamiento o subarrendamiento que celebren, dentro de los 30 días siguientes a la fecha del contrato.
+Los propietarios y arrendatarios de los locales ocupados por fábricas, almacenes, bodegas, oficinas y expendios de alcohol o de bebidas alcohólicas, darán aviso a la Tesorería General del Estado, de los contratos de arrendamiento o subarrendamiento que celebren, dentro de los 30 días siguientes a la fecha del contrato.
 
 DE LAS EXENCIONES
 
@@ -2418,6 +2482,10 @@ DEL PAGO
 ###### ARTICULO 249o.
 
 El pago del impuesto deberá efectuarse, dentro de los quince primeros días del mes siguiente a aquel al que corresponde dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
+
+> <small>(ADICIONADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+
+Tratándose de personas comprendidas en el capítulo XI de esta ley, que tengan empleados a su servicio, el pago deberá hacerse dentro de los primeros 20 días de los meses de enero, mayo, julio, septiembre y noviembre, presentándose una declaración en la Oficina Recaudadora, correspondiente en las formas oficialmnte (sic) aprobadas.
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -2505,7 +2573,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2603,7 +2671,7 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .....................................15%
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .........................................15%
 
 VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
@@ -2617,7 +2685,7 @@ IX.- En los casos en que los servicios que preste el Registro Público de la Pro
 
 No se causarán los derechos a que se refiere el Artículo 262o. en los siguientes casos:
 
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios, cuando dichas Entidades las soliciten.
+I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios cuando dichas Entidades las soliciten.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
@@ -2671,17 +2739,15 @@ AUTORIZACIONES Y PATENTES
 
 La expedición de Títulos Profesionales, autorización para ejercer la profesión, expedición de Fiat de Notario, de Patentes de Aspirantes a Ejercicio del Notariado y el registro de Títulos Profesionales, causarán derechos conforme a la siguiente
 
-TARIFA:
+VER TABLA ANEXA
 
-VEASE TABLA ANEXA
+TARIFA:
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
 ###### ARTICULO 270o.
 
 Los servicios relativos a la licencia de instalación e inspección de calderas de vapor, causarán derechos conforme a la siguiente
-
-TARIFA:
 
 VEASE TABLA ANEXA:
 
@@ -2695,7 +2761,7 @@ VEASE TABLA ANEXA:
 
 ###### ARTICULO 272o.
 
-Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271 adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
+Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271o. adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
 
 ###### ARTICULO 273o.
 
@@ -2706,6 +2772,8 @@ El cobro de las cuotas establecidas en los Artículos 270, 271 y 272, se aplicar
 La inspección de vehículos y de construcciones causarán los derechos que se establecen en los Capítulos V y VI de la presente tarifa.
 
 ### CAPITULO V. SERVICIOS SANITARIOS
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 275o.
 
@@ -2741,7 +2809,7 @@ Los derechos por las licencias que se otorguen a las personas a que se refiere l
 
 ###### ARTICULO 280o.
 
-Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de $ 200. 00.
+Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de ..................................................................................................................................$200. 00.
 
 ### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
 
@@ -2783,7 +2851,7 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ###### ARTICULO 287o.
 
-La expedición de pasaporte provisional causará derechos con la cuota de $ 200.00.
+La expedición de pasaporte provisional causará derechos con la cuota de................................ $ 200.00.
 
 ###### ARTICULO 288o.
 
@@ -2793,7 +2861,9 @@ VEASE TABLA ANEXA
 
 ###### ARTICULO 289o.
 
-Los derechos de cotejo de documento causarán la cuota de...... $ 25.00
+Los derechos de cotejo de documento causarán la cuota de........ $ 25.00
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 290o.
 
@@ -2815,7 +2885,7 @@ Derechos por permiso para ferias, kermeses, etc., por el permiso para la celebra
 
 Los derechos a que se refiere el presente Artículo, se pagarán previamente por el periodo de las ferias, kermeses, etc.
 
-###### ARTICULO 293o.- I.
+###### ARTICULO 293o.-I.
 
 Derechos por cada licencia de apertura de establecimientos que expendan bebidas alcoholicas, aún cuando vendan además cervezas:
 
@@ -2833,9 +2903,11 @@ VEASE TABLA ANEXA
 
 Los derechos por servicios no previstos ni exceptuados expresamente por este Título II, se determinarán por asimilación aplicando las cuotas o tasas que correspondan a los casos que tengan semejanza.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 296o.
 
-Salvo lo dispuesto en el Artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de servicios, en la Oficina Fiscal de la jurisdicción. Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el causante para el pago del importe de los derechos y recargos que se causaren.
+Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de servicios, en la Oficina Fiscal de la jurisdicción, dentro de los plazos que se establezcan para el efecto. Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el causante para el pago del importe de los derechos y sanciones que se causaren.
 
 ###### ARTICULO 297o.
 
@@ -2886,3 +2958,11 @@ Cd. Victoria, Tam., a 23 de Diciembre de 1976.- Diputado Presidente, JORGE BLADI
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1977
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 1978.
