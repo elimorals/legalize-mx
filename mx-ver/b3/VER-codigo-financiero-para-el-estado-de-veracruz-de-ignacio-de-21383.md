@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2003-08-08"
+last_updated: "2004-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -585,11 +585,17 @@ Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deber
 
 La cancelación de créditos fiscales en las cuentas públicas por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no libera, mientras no prescriba el crédito fiscal, a uno y a otros de su obligación. Procederá la cancelación de los créditos fiscales cuando:
 
-I. Resulte imposible localizar al contribuyente o responsables solidarios y éstos no cuenten con bienes sobre los cuales se pueda trabar embargo;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-II. Por insolvencia de los deudores, y
+I. Resulte imposible localizar al contribuyente o responsables solidarios o éstos no cuenten con bienes sobre los cuales se pueda trabar embargo. Se considerará no localizado el contribuyente cuando se hubieren agotado todas las averiguaciones tendentes a su localización;
 
-III. Por incosteabilidad en el cobro.
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+II. Por insolvencia de los deudores. Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito, cuando no se puedan localizar los bienes o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución; o
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+III. Por incosteabilidad en el cobro. Se consideran incosteables en el cobro, aquellos créditos fiscales cuyo importe sea inferior o igual al equivalente en moneda nacional a 5 días de salario mínimo, vigentes en la capital del Estado. Cuando el deudor tenga dos o más créditos a su cargo, se sumarán para determinar si resulta incosteable su cobro.
 
 Las disposiciones reglamentarias que expida el Ejecutivo Estatal, deberán indicar los requisitos que habrá de observar la autoridad fiscal para la cancelación de créditos fiscales a que se refiere éste artículo.
 
@@ -773,9 +779,11 @@ V. Canje de placas, tarjeta de circulación y calcomanía numeral, dentro del pl
 
 Los sujetos pasivos y los retenedores a que se refiere este artículo, citarán el número de registro que les sea asignado por la Secretaría en las declaraciones, manifestaciones, promociones, solicitudes o gestión que realicen ante la Oficina de Hacienda o autoridad fiscal competente. Cuando la autoridad fiscal ordene su verificación, exhibirán el documento que acredite su inscripción al citado registro.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 61.
 
-Los contribuyentes están obligados a llevar la contabilidad y demás registro de sus operaciones conforme a las disposiciones fiscales federales aplicables.
+Los contribuyentes están obligados a llevar la contabilidad y demás registros de sus operaciones, así como a expedir los comprobantes fiscales con todos sus requisitos, conforme a las disposiciones fiscales estatales y federales aplicables.
 
 Las autoridades estatales, para efecto de sus revisiones, considerarán como válida la información que, de acuerdo a lo señalado en el párrafo anterior, presenten los contribuyentes, respecto a las contribuciones estatales, productos, aprovechamientos e ingresos federales coordinados.
 
@@ -1123,9 +1131,11 @@ c) De dos a nueve años de prisión, al que altere en sus características las p
 
 d) De dos a ocho años de prisión y una multa de 30 a 500 días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 96.
 
-Comete el delito de defraudación fiscal quien haga uso del engaño o aproveche el error para omitir total o parcialmente el pago de alguna prestación fiscal.
+Comete el delito de defraudación fiscal quien haga uso del engaño o aproveche el error para omitir total o parcialmente el pago de alguna contribución fiscal.
 
 Se consideran conductas tendientes a la defraudación fiscal:
 
@@ -1139,7 +1149,9 @@ IV. Ocultar a las autoridades fiscales, total o parcialmente, la producción suj
 
 V. No expedir los documentos o comprobantes fiscales con los requisitos establecidos por las disposiciones aplicables para acreditar el pago de una prestación de esa naturaleza;
 
-VI. No enterar en tiempo y forma a las autoridades fiscales, las cantidades que haya retenido o recaudado de los contribuyentes, por concepto de prestaciones fiscales;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+VI. No enterar en tiempo y forma a las autoridades fiscales, las contribuciones a cuyo pago se encuentre obligado como sujeto pasivo principal o como responsable solidario, así como las que haya retenido o recaudado de los contribuyentes por concepto de contribuciones fiscales;
 
 VII. No llevar los registros de las operaciones contables, fiscales o sociales, conforme a las disposiciones fiscales aplicables;
 
@@ -1147,11 +1159,17 @@ VIII. Destruir, ordenar o permitir la destrucción total o parcial de los regist
 
 IX. Certificar hechos falsos o participar en cualquier forma en actos, manifestaciones o simulaciones que tengan por objeto engañar al Fisco Estatal.
 
-El delito de defraudación fiscal se sancionará con pena de tres meses a seis años de prisión si el monto de la prestación fiscal defraudada o que se intentó defraudar no excede de 1000 días de salario mínimo, y con prisión de dos a nueve años si dicho monto excede de esa cantidad, asimismo, se le impondrá una multa de 30 a 500 días de salario mínimo.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-Cuando no se pueda determinar la cuantía del impuesto que se defraudó o se intentó defraudar, la pena será de tres meses a nueve años de prisión. No se impondrá las sanciones previstas en este artículo si quien hubiere cometido el delito entera espontáneamente la prestación fiscal omitida.
+El delito de defraudación fiscal se sancionará con pena de tres meses a seis años de prisión si el monto de las contribuciones no enteradas es igual o inferior al equivalente a 1000 días de salario mínimo, y con prisión de dos a nueve años si dicho monto excede de esa cantidad. Asimismo, se impondrá una multa de 30 a 500 días de salario mínimo.
 
-Se tomará en cuenta el monto de la prestación o prestaciones fiscales defraudadas o que se hayan intentado defraudar dentro de un mismo período fiscal, aun cuando se trate de prestaciones fiscales diferentes y de diversas acciones u omisiones.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Cuando no se pueda determinar la cuantía de las contribuciones no enteradas, la pena será de tres meses a nueve años de prisión. No se impondrán las sanciones previstas en este artículo si quien hubiere cometido el delito entera espontáneamente la prestación fiscal omitida.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Se tomará en cuenta el monto no enterado dentro de un mismo periodo fiscal, aun cuando se trate de contribuciones diferentes o de diversas acciones u omisiones.
 
 ###### Artículo 97.
 
@@ -3465,11 +3483,15 @@ Si al 31 de diciembre no se han aprobado la Ley de Ingresos y el Decreto de Pres
 
 Las unidades presupuestales están impedidas para presentar al Congreso modificación alguna a la iniciativa de Decreto de Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 166.
 
-Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las unidades presupuestales solicitarán al Gobernador del Estado, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
+Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las unidades presupuestales podrán solicitar al Gobernador del Estado, por conducto de la Secretaría, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
 
-Cuando se considere justificada la modificación, si existieran recursos suficientes, la Secretaría preparará la modificación para someterla a consideración del Titular del Ejecutivo, quien, en su caso la aprobará.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Al efecto, la Secretaría, con base en la disponibilidad presupuestal existente, elaborará un dictamen sobre la procedencia de la solicitud, la que será sometida para su aprobación al Titular del Poder Ejecutivo.
 
 Tratándose del Poder Judicial, del Poder Legislativo y de los Organismos Autónomos, el Ejecutivo Estatal enviará las modificaciones al Congreso, el cual, en su caso, las aprobará.
 
@@ -3603,7 +3625,9 @@ La procedencia de los pagos señalados en los párrafos anteriores será verific
 
 Las unidades presupuestales no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
 
-En casos excepcionales, debidamente justificados y dictaminados, el Gobernador del Estado podrá autorizar a las dependencias la celebración de contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+En casos excepcionales, debidamente justificados y dictaminados, el Gobernador del Estado podrá autorizar a las dependencias o entidades la celebración de contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes.
 
 Para los efectos del párrafo anterior, las dependencias remitirán a la Secretaría los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
 
@@ -3683,9 +3707,13 @@ XXV. Depurar los créditos a favor del Gobierno del Estado y las cuentas de acti
 
 XXVI. Llevar el registro de excedentes de ingresos, ahorros, rendimientos financieros y economías del presupuesto y, previa autorización de la Secretaría, permitir su aplicación a las unidades presupuestales que los originen.
 
-XXVII. Efectuar los pagos de obligaciones presupuestarias de la dependencia o entidad.
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-XXVIII. Establecer por acuerdo del titular de la dependencia, las normas, lineamientos y políticas en materia de selección, contratación, capacitación, motivación, desarrollo, sueldos y salarios del personal;
+XXVII. Efectuar, a través del Sistema Integral de Administración Financiera del Estado, los pagos de las obligaciones presupuestarias de la dependencia o entidad;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+XXVIII. Aplicar las normas, lineamientos y políticas que establezca la Secretaría en materia de servicio público de carrera, de conformidad con la ley de la materia;
 
 XXIX. Proponer al titular de la dependencia, el nombramiento de los empleados de base y de confianza y, en su caso, el cese o rescisión de la relación laboral cuando así proceda;
 
@@ -3728,6 +3756,10 @@ III. Proponer a la Secretaría el calendario de asignaciones presupuestales;
 IV. Consolidar la información presupuestal y contable de la dependencia, de acuerdo a los lineamientos que emita la Secretaría, y
 
 V. Elaborar el programa anual de adquisiciones de la dependencia.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+En el caso de la Secretaría, las funciones que corresponden a la unidad administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
 
 > <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -3829,11 +3861,21 @@ III. Ingresos que obtenga el Gobierno del Estado como consecuencia de la liquida
 
 IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal.
 
-El Gobernador del Estado podrá asignar los recursos excedentes a los programas que considere convenientes. La Secretaría queda facultada para la ministración de los mismos.
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-De los movimientos que se efectúen en los términos de este artículo, el Gobernador del Estado informará al Congreso al rendir la Cuenta Pública Estatal de dicho ejercicio.
+V. Aportaciones de beneficiarios, los derivados de convenios interestatales o de aportaciones municipales.
 
-Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Con excepción expresa de aquellos montos que tengan un destino específico, el Gobernador del Estado asignará los recursos excedentes a los programas que considere necesarios. De igual manera, la Secretaría queda facultada para la ministración de los mismos, así como para asignar hasta un ocho por ciento de los ingresos excedentes a incentivar las acciones que efectivamente los hayan generado.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+De los movimientos que se efectúen en los términos de este artículo, se informará al Congreso al rendirse la Cuenta Pública Estatal de dicho ejercicio.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Los recursos excedentes podrán destinarse a cubrir gastos contingentes no previstos y a proyectos de inversión adicionales.
 
 ### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN DE LOS RECURSOS MATERIALES
 
@@ -3875,7 +3917,9 @@ III. Reducir el pago de horas extras y de compensaciones a fin de optimizar los 
 
 IV. Tratándose de remuneraciones adicionales por jornadas, y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha y con apego a las disposiciones que establezca la Secretaría;
 
-V. Abstenerse de celebrar todo tipo de contratos de prestación de servicios, incluso con carácter eventual o por honorarios, para la realización de actividades normales y regulares que realicen las dependencias. Cuando se justifiquen plenamente, se deberá contar con disponibilidad presupuestal y comprobar que se efectuarán trabajos distintos a los que realiza el personal que forma la plantilla de la dependencia de que se trate;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+V. Abstenerse de celebrar contratos de prestación de servicios, incluso con carácter eventual o por honorarios, para cumplir con las cargas ordinarias de trabajo de la dependencia. Los titulares de las dependencias podrán autorizar la celebración de contratos de prestación de servicios por honorarios, cuando exista dictamen de justificación emitido por el área usuaria, en el cual se demuestre la existencia de programas, actividades o proyectos que impliquen un incremento en las cargas ordinarias de trabajo;
 
 VI. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Órganos de Gobierno, Juntas Directivas, Consejos, Comités Técnicos y otros;
 
@@ -4005,6 +4049,8 @@ Corresponde a las unidades administrativas el uso, conservación y mantenimiento
 
 ### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 224.
 
 Los servicios de Tesorería del Estado comprenden:
@@ -4063,7 +4109,9 @@ II. El control, distribución y destrucción de formas valoradas;
 
 III. La programación y la ministración de fondos a los Poderes Legislativo y Judicial, Organismos Autónomos, dependencias y entidades de la administración pública estatal;
 
-IV. La contratación de seguros y fianzas que requiera el Gobierno del Estado;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+IV. La contratación de seguros y fianzas, conforme a las solicitudes que le presenten las dependencias de la administración pública estatal;
 
 V. La constitución de garantías a cargo del Gobierno del Estado, y
 
@@ -4113,9 +4161,7 @@ Cuando la ley destine los fondos a un fin determinado, con objeto de aprovecharl
 
 ###### Artículo 233.
 
-Las unidades administrativas de las dependencias y entidades efectuarán los pagos que les correspondan con cargo al presupuesto del Estado.
-
-La Secretaría ministrará los fondos en función de sus disponibilidades financieras y del calendario financiero autorizado.
+La Secretaría, a través de la Tesorería, efectuará los pagos centralizados que, con cargo al presupuesto del Estado, tramiten las unidades administrativas de las dependencias y entidades, en función de sus disponibilidades financieras y del calendario financiero autorizado.
 
 ###### Artículo 234.
 
@@ -4491,9 +4537,11 @@ La información a que se refiere este artículo deberá contar con la aprobació
 
 La Secretaría será responsable de integrar la cuenta pública del Gobierno del Estado, la cual será elaborada con la información que le remitan las unidades presupuestales.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 285.
 
-Las unidades presupuestales están obligadas a remitir a la Secretaría a más tardar en la última semana del mes de marzo de cada año los informes respecto del ejercicio del presupuesto autorizado en el año inmediato anterior.
+Las unidades presupuestales están obligadas a remitir a la Secretaría, a más tardar en la última semana del mes de enero de cada año, los informes respecto del ejercicio del presupuesto autorizado en el año inmediato anterior.
 
 ###### Artículo 286.
 
@@ -4683,7 +4731,7 @@ La Contraloría dictará las medidas administrativas y aplicará las sanciones q
 
 ###### Artículo 308.
 
-Los servidores públicos serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública y el patrimonio del Estado por actos u omisiones que les sean imputables; o bien por incumplimiento o inobservancia de obligaciones derivadas de este Código y demás aplicables. inherentes a su cargo o relacionados con su función o actuación.
+Los servidores públicos serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública y el patrimonio del Estado por actos u omisiones que les sean imputables; o bien por incumplimiento o inobservancia de obligaciones derivadas de este Código y demás aplicables, inherentes a su cargo o relacionados con su función o actuación.
 
 Las responsabilidades se atribuirán, en primer término, a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los servidores públicos que por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos.
 
@@ -5170,3 +5218,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En la aplicación de lo dispuesto por el artículo 147, fracción VI, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, los propietarios de los centros de verificación que operaban con anterioridad a la entrada en vigor del presente Decreto pagarán únicamente el cincuenta por ciento de los derechos que correspondan por concesión para operar centro verificador para todo tipo de vehículo automotor, mediante la exhibición de los documentos probatorios respectivos ante las Secretarías de Desarrollo Regional y de Finanzas y Planeación del Gobierno del Estado.
+
+G.O. 2 DE FEBRERO DE 2004.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo.- Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
