@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1991-11-07"
+last_updated: "1992-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE NOVIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -53,7 +53,9 @@ El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomin
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden administrativo que correspondan al Poder Ejecutivo, la administración pública será directa y paraestatal.
 
-Integran la administración pública directa las siguientes dependencias: Secretarías de Despacho, Tesorería General del Estado, Oficialía Mayor y Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+Integran la administración pública directa las siguientes Dependencias: Secretarías y Procuraduría General de Justicia del Estado.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -65,11 +67,13 @@ Componen la administración pública paraestatal las siguientes entidades: organ
 
 El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Secretaría Particular, la Ayudantía y las Representaciones del Gobierno del Estado en el Distrito Federal y en otras localidades del Estado. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 5o.
 
-El Gobernador del Estado podrá crear y suprimir, por decreto, organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas y fideicomisos públicos y asignarles las funciones que estime convenientes. Asimismo, podrá crear y suprimir comités, patronatos, comisiones y otros organismos auxiliares o de apoyo que juzgue necesarios para el ejercicio de sus atribuciones, fijándoles su organización y funcionamiento.
+El Gobernador del Estado podrá crear y suprimir, por Decreto, organismos descentralizados; y autorizar la constitución de empresas de participación estatal mayoritaria, de sociedades y asociaciones civiles asimiladas a dichas empresas y de fideicomisos públicos, asignándoles las funciones que estime convenientes. Asimismo, podrá crear y suprimir comités, patronatos, comisiones y otros organismos auxiliares o de apoyo que juzgue necesarios para el ejercicio de sus atribuciones, fijándoles su organización y funcionamiento.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 La constitución de las empresas de participación estatal mayoritaria, de las sociedades y asociaciones civiles asimiladas a éstas y de los fideicomisos públicos, se formalizará conforme lo señalen las leyes.
 
@@ -77,13 +81,17 @@ La constitución de las empresas de participación estatal mayoritaria, de las s
 
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 7o.
 
-Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios de Despacho, al Tesorero General del Estado, al Oficial Mayor, al Procurador General de Justicia del Estado y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
+Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios, al Procurador General de Justicia del Estado y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
 
 Asimismo, compete al Gobernador nombrar y remover a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar, por Acuerdo, esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
 
 El Acuerdo a que se refiere el párrafo anterior, deberá publicarse en el Boletín Oficial del Gobierno del Estado.
 
@@ -115,9 +123,7 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 ###### ARTICULO 13.
 
-Al frente de la Tesorería General del Estado habrá un Tesorero General, quien para el despacho de los asuntos de su competencia se auxiliará por los subtesoreros, directores, subdirectores y demás funcionarios y empleados que autorice el Presupuesto.
-
-En la Oficialía Mayor habrá un Oficial Mayor, quien para el despacho de los asuntos de su competencia se auxiliará por los directores, subdirectores y demás funcionarios y empleados que autorice el Presupuesto.
+(DEROGADO, B.O. 17 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 14.
 
@@ -139,9 +145,11 @@ Los acuerdos por los cuales se deleguen facultades se publicarán en el Boletín
 
 Los titulares de las dependencias a que se refiere esta ley, formularán los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y órdenes, cuyas materias correspondan a sus atribuciones y las remitirán al Gobernador del Estado.
 
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 17.
 
-Para la eficaz atención y el eficiente despacho de los asuntos de su competencia, las Secretarías, la Tesorería General del Estado y la Oficialía Mayor, podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+Para la eficaz atención y el eficiente despacho de los asuntos de su competencia, las Dependencias podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
 ###### ARTICULO 18.
 
@@ -177,7 +185,9 @@ I.- Secretaría de Gobierno.
 
 II.- Secretaría de Planeación del Desarrollo y Gasto Público.
 
-III.- Tesorería General del Estado.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+III.- Secretaría de Finanzas.
 
 IV.- Secretaría de la Contraloría General del Estado.
 
@@ -203,13 +213,15 @@ X.- Secretaría de Fomento Ganadero.
 
 XI.- Secretaría de Fomento al Turismo.
 
-XII.- Oficialía Mayor.
+XII.- (DEROGADA, B.O. 17 DE DICIEMBRE DE 1992)
 
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 XIII.- Procuraduría General de Justicia del Estado de Sonora.
 
-Los titulares de estas dependencias, subsecretarios, subtesoreros, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+Los titulares de estas Dependencias, Subsecretarios, Directores, Subdirectores, Jefes de Departamento, Secretarios Particulares y Ayudantes Personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
 
 ###### ARTICULO 23.
 
@@ -243,27 +255,37 @@ XI.- Organizar y vigilar el libre acceso ciudadano a la tutela jurisdiccional, a
 
 XII.- Vigilar el cumplimiento de la Ley de Profesiones del Estado y organizar sus registros.
 
-XIII.- Intervenir en la integración de las Juntas para el Progreso y Bienestar en la Entidad, así como coordinar, supervisar y vigilar sus programas.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XIII.- Auxiliar a las autoridades federales en la aplicación de la Ley Federal de Juegos y Sorteos.
 
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 XIV.- Fomentar el desarrollo político, e intervenir y ejercer la vigilancia que en materia electoral le señalen las leyes y los convenios que para este efecto se celebren.
 
-XV.- Vigilar, en auxilio de las autoridades federales y municipales, el cumplimiento de las leyes en materia de cultos.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XV.- Auxiliar a las autoridades federales en el exacto cumplimiento de la Ley de Asociaciones Religiosas y Culto Público y de su Reglamento.
 
 XVI.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los Artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativa al nombramiento de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo.
 
 XVII.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia.
 
-XVIII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XVIII.- Organizar y vigilar el ejercicio de las funciones del registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
 
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
 XIX.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; asimismo, administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos.
 
-XX.- (DEROGADA, B.O. 7 DE NOVIEMBRE DE 1991)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-XXI.- (DEROGADO, B.O. 7 DE NOVIEMBRE DE 1991)
+XX.- Dirigir, organizar y controlar el Archivo General de Gobierno; asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los Municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XXI.- determinar, en los términos que correspondan, el calendario oficial y administrar y publicar el Boletín Oficial del Gobierno del Estado; y
 
 > <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
 
@@ -279,19 +301,29 @@ A la Secretaría de Planeación del Desarrollo y Gasto Público le corresponden 
 
 I.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven.
 
-II.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación, y someterlo a la consideración y aprobación del Gobernador del Estado.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+II.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación y someterlo a la consideración y aprobación del Gobernador del Estado; asimismo someter a la consideración del ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo.
 
 III.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado.
 
-IV.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-V.- Elaborar los programas especiales que le señale el Gobernador del Estado y verificar su ejecución.
+IV.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución.
 
-VI.- Procurar la congruencia entre las acciones de la administración pública estatal y los objetivos y prioridades del Plan Estatal de Desarrollo.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+V.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora.
+
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+VI.- Procurar la congruencia entre las acciones de la administración pública estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, presupuestación y evaluación.
 
 VII.- Vigilar que se efectúen las acciones que el Ejecutivo Estatal convenga con el Ejecutivo Federal y con los Gobiernos Municipales.
 
-VIII.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos que señala la Tesorería General del Estado, en atención a las necesidades y políticas del desarrollo estatal.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos que señala la Secretaría de Finanzas, en atención a las necesidades y políticas del desarrollo estatal.
 
 IX.- Formular y proponer al Gobernador del Estado el programa anual de gasto público y el anteproyecto de presupuesto de egresos por programas del Estado.
 
@@ -319,11 +351,17 @@ XIV.- Normar la planeación, programación, presupuestación, ejecución y evalu
 
 XV.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la administración pública estatal, con los objetivos y prioridades del Plan Estatal de Desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos.
 
-XVI.- Someter a la consideración del Gobernador del Estado, las propuestas de adecuación del Plan Estatal de Desarrollo.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-XVII.- Vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, presupuestación y evaluación.
+XVI.- Establecer normas en materia de catálogo de puestos, tabuladores de sueldos, sistemas escalafonarios, pagos de remuneraciones, prestaciones, servicios personales y, en general, sobre administración, capacitación y desarrollo del personal de la administración pública directa; asimismo, representar legalmente al Gobernador del Estado en las controversias que se susciten entre éste y los trabajadores al servicio de las dependencias del Poder Ejecutivo.
 
-XVIII.- Coordinar las actividades del Comité Estatal de Planeación para el desarrollo del Estado de Sonora.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XVII.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y empleados de la administración pública directa, y llevar el registro de los nombres de las personas a quienes se les otorguen premios, estímulos o recompensas.
+
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XVIII.- Expedir las normas que requiera la aplicación de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal.
 
 XIX.- Establecer las normas y procedimientos para la organización y funcionamiento del Sistema Estatal de Información que le permitan establecer modelos alternativos de desarrollo para el Estado, así como coordinar dicho Sistema.
 
@@ -347,9 +385,11 @@ XXIV.- Autorizar en consulta con la Secretaría de la Contraloría General del E
 
 XXV.- Las demás que le señalen las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 25.
 
-A la Tesorería General del Estado, le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Finanzas, le corresponden las facultades y obligaciones siguientes:
 
 I.- Intervenir en el estudio de proyectos de leyes y disposiciones impositivas; formular y proponer al Gobernador del Estado los anteproyectos de las leyes anuales de ingresos del Estado.
 
@@ -389,13 +429,25 @@ XIV.- Efectuar los estudios técnicos catastrales, fijar los valores de los pred
 
 XV.- Organizar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-XVI.- Realizar los actos que, en relación con los bienes inmuebles de dominio privado, les señalen las leyes.
+XVI.- Determinar y conducir la política inmobiliaria de la administración pública estatal y manejar el inventario de los bienes inmuebles del Estado y mantener al corriente el avalúo de los mismos.
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-XVII.- Las demás que le otorguen las leyes y reglamentos vigentes.
+XVII.- Elaborar las normas para la formulación, mantenimiento y actualización de los inventarios y la baja de bienes muebles del dominio del Estado, y para el control y operación de almacenes de los bienes muebles asignados a las dependencias.
+
+> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XVIII.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes inmuebles del dominio público.
+
+> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XIX.- Realizar los actos de administración y disposición de los bienes de dominio privado del Estado; y
+
+> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XX.- Las demás que le otorguen las leyes y reglamentos vigentes.
 
 ###### ARTICULO 26.
 
@@ -599,7 +651,9 @@ XII.- Realizar, en los términos de los acuerdos de coordinación que se celebre
 
 XIII.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables.
 
-XIV.- Ejecutar las obras necesarias para la conservación y el mejoramiento de los edificios, monumentos, carreteras, caminos vecinales y demás vías de comunicación que sean de jurisdicción estatal.
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+
+XIV.- Ejecutar las obras necesarias para la conservación y el mejoramiento de los edificios y monumentos, de competencia del Gobierno del Estado.
 
 XV.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, la vivienda, la ecología y las comunicaciones.
 
@@ -643,9 +697,9 @@ XII.- Promover que los créditos destinados a la industria, minería, pesca y co
 
 XIII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial, comercial, artesanal, minero y pesquero.
 
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-XIV.- Asesorar a los Municipios en materia industrial, comercial, turística, minera, pesquera y artesanal, cuando así lo soliciten los Ayuntamientos.
+XIV.- Asesorar a los municipios en materia industrial, comercial, minera, pesquera y artesanal, cuando así lo soliciten los ayuntamientos.
 
 XV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
@@ -783,63 +837,7 @@ XIX.- Las demás que le señalen las leyes y reglamentos vigentes.
 
 ###### ARTICULO 34.
 
-A la Oficialía Mayor le corresponden las facultades y obligaciones siguientes:
-
-I.- Establecer normas, lineamientos y políticas en materia de administración, remuneración, capacitación y desarrollo del personal de la administración pública directa.
-
-II.- Promover, en el ámbito de las dependencias del Poder Ejecutivo, la observancia de la Ley del Servicio Civil del Estado y de las condiciones generales de trabajo existentes.
-
-III.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y empleados de la administración pública directa.
-
-IV.- Representar legalmente al Gobernador del Estado en las controversias que se susciten entre éste y los trabajadores al servicio de las dependencias del Poder Ejecutivo.
-
-V.- Contratar y llevar el registro de las personas sujetas a pago de honorarios.
-
-VI.- Proveer en los términos de la ley de la materia, al otorgamiento de estímulos a los funcionarios y empleados de la administración pública directa, y llevar el registro de los nombres de las personas a quienes se les otorguen premios, estímulos o recompensas.
-
-> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 1988)</small>
-
-VII.- Expedir Las normas complementarias de carácter general, que requiera la aplicación de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles de la Administración Pública Estatal y de sus disposiciones reglamentarias; así como las normas para la formulación, mantenimiento y actualización de inventarios y la baja de bienes muebles del dominio del Estado y para el control y operación de almacenes de los bienes muebles asignados a las Dependencias.
-
-> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 1988)</small>
-
-VIII.- Suministrar, en su caso, los servicios que requiera el funcionamiento de las Dependencias del Poder Ejecutivo, de conformidad con las disposiciones reglamentarias que se emitan.
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
-
-IX.- Tener a su cargo la conservación de los edificios públicos, con sujeción a lo establecido en la Ley de la materia.
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
-
-X.- Elaborar y actualizar los catálogos e inventarios generales de los bienes de dominio público del Estado y de los bienes muebles de dominio privado del mismo.
-
-XI.- Dirigir, organizar y controlar la Oficialía de Partes y el Archivo General de Gobierno.
-
-XII.- Celebrar y rescindir contratos de arrendamiento de bienes inmuebles, para uso de las dependencias del Poder Ejecutivo.
-
-XIII.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
-
-XIV.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
-
-XV.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
-
-XVI.- (DEROGADA, B.O. 19 DE JUNIO DE 1989)
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-XVII.- Organizar, conducir y supervisar los eventos especiales y actos cívicos que lleve a cabo el Gobierno del Estado.
-
-> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 1991)</small>
-
-XVIII.- Organizar y vigilar el ejercicio de las funciones del Registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
-
-XIX.- Llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los Municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos.
-
-XX.- Administrar y publicar el Boletín Oficial del Gobierno del Estado.
-
-XXI.- Determinar en los términos que correspondan, el Calendario Oficial.
-
-XXII.- Las demás que le señalen las leyes y reglamentos vigentes.
+(DEROGADO, B.O. 17 DE DICIEMBRE DE 1992)
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -863,17 +861,17 @@ II.- Que su objeto o fines sean la prestación de un servicio público o social,
 
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno que podrá ser una junta directiva o su equivalente y un Director General.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 37.
 
-El órgano de gobierno será presidido por el titular de la dependencia coordinadora del sector, en el que se encuentre agrupado el organismo descentralizado cuando por disposición expresa del ordenamiento jurídico que cree el citado organismo, dicha presidencia no corresponda al titular del Poder Ejecutivo.
+El órgano de gobierno será presidido por el titular de la Dependencia coordinadora del sector, en el que se encuentre agrupado el organismo descentralizado cuando, por disposición expresa del ordenamiento jurídico que cree el citado organismo, dicha presidencia no corresponde al titular del Poder Ejecutivo o a otra persona.
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 38.
 
-La Tesorería General del Estado y la Secretaría de Planeación del Desarrollo y Gasto Público, tendrán miembros en los órganos de gobierno de los organismos descentralizados. También participarán, en dichos órganos, las otras dependencias y entidades, en la medida que tengan relación con el objeto del organismo descentralizado de que se trate.
+La Secretaría de Finanzas y la Secretaría de Planeación del Desarrollo y Gasto Público, tendrá miembros en los órganos de gobierno de los organismos descentralizados. También participarán, en dichos órganos, las otras dependencias y entidades, en la medida que tengan relación con el objeto del organismo descentralizado de que se trate.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -887,7 +885,7 @@ II.- Que en la constitución de su capital, se hagan figurar títulos representa
 
 III.- Que al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno o su equivalente, o bien designar al Presidente o al Director General, o cuando tengan facultades para vetar los acuerdos del propio órgano de gobierno o su equivalente.
 
-Las sociedades en las que participen temporalmente en operaciones de fomento y en forma mayoritaria en su capital, el Gobierno del Estado o una o más de las entidades señaladas en el artículo 3o. de esta Ley, no tendrán el carácter de entidades de la administración pública paraestatal, salvo que atendiendo al objeto o fin de la participación estatal, el Gobernador del Estado decida atribuirles tal carácter, mediante acuerdo que expida en cada caso.
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -895,13 +893,11 @@ Las sociedades en las que participen temporalmente en operaciones de fomento y e
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles, en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 41.
 
-Los integrantes de los consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria, que representen la participación de la administración pública estatal, serán los señalados en el artículo 38 de esta Ley y deberán de constituir en todo tiempo más de la mitad de los miembros del Consejo.
-
-Dichos consejos serán presididos por el titular de la dependencia coordinadora de sector, excepto cuando los estatutos establezcan que la presidencia de los mismos, le corresponde al Gobernador del Estado.
+Los integrantes de los Consejos de Administración o sus equivalentes de las empresas de participación estatal mayoritaria, que representen la participación de la administración pública estatal, serán los señalados en el artículo 38 de esta Ley y deberán de constituir en todo tiempo más de la mitad de los miembros del Consejo. Dichos Consejos serán presididos por el titular de la Dependencia coordinadora de sector, excepto cuando los estatutos establezcan que la presidencia de los mismos, le corresponde al Gobernador del Estado, o a otra persona.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -969,11 +965,11 @@ Para su operación, las entidades de la administración pública paraestatal deb
 
 Dichos programas, que constituirán la asunción de compromisos que deben alcanzar las señaladas entidades, deberán contener: La fijación de objetivos y metas; los resultados económicos y financieros esperados; las bases para evaluar las acciones que se lleven a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas y las previsiones respecto a las posibles modificaciones a sus estructuras.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 50.
 
-Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Tesorería General del Estado, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
+Las Entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Secretaría de Finanzas, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
 
@@ -991,13 +987,15 @@ Los presupuestos de egresos a que se refiere el artículo anterior deberán cont
 
 Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a que se refiere este Título, manejarán y erogarán sus recursos propios por medio de sus órganos.
 
-Por lo que se refiere a la percepción de subsidios y transferencias, los recibirán de la Tesorería General del Estado en los términos que se fijen en los presupuestos de egresos anuales del Estado, debiendo manejarlos y administrarlos por sus propios órganos, y sujetarse a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+Las entidades manejarán y administrarán por sus propios órganos los subsidios o transferencias que reciban del Estado y se sujetarán a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
+
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 53.
 
-Las relaciones entre el Ejecutivo Estatal y las entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de la Tesorería General del Estado y de las Secretarías de Planeación del Desarrollo y Gasto Público y de la Contraloría General del Estado, sin perjuicio de las atribuciones que competen a las coordinadoras de sector.
+Las relaciones entre el Ejecutivo Estatal y las Entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamientos, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de la Secretaría de Finanzas y de la Secretaría de Planeación del Desarrollo y Gasto Público y de la Contraloría General del Estado, sin perjuicio de las atribuciones que competen a las coordinadoras de sector.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1220,3 +1218,37 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Bol
 Las facultades otorgadas por cualquier ordenamiento jurídico a las Secretarías de Planeación del Desarrollo, de Fomento Educativo y Cultura, de Infraestructura y Desarrollo Urbano y de Fomento Industrial y Comercio, se entenderán conferidas, respectivamente, a las Secretarías de Planeación del Desarrollo y Gasto Público, de Educación y Cultura, de Infraestructura Urbana y Ecología y de Desarrollo Económico y Productividad, denominación que a cada una de dichas dependencias asigna esta ley.
 
 Igualmente, las funciones y recursos humanos, materiales y financieros, relacionados con las atribuciones que por virtud de esta ley, se transfieren a una dependencia diversa a la que anteriormente estaban asignados, pasarán a la dependencia competente conforme a este ordenamiento.
+
+B.O. 17 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos humanos con que cuenta la Oficialía Mayor, conformarán, en lo sucesivo, el personal de la Secretaría de Gobierno, Secretaría de Planeación del Desarrollo y Gasto Público y Secretaría de Finanzas, cuyas atribuciones se modifican por la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los recursos materiales, financieros, mobiliario, vehículos, aparatos, maquinaria, archivos, y, en general, los equipos que Oficialía Mayor haya utilizado para la atención de los asuntos de su respectiva competencia, se destinarán a las funciones que a las dependencias mencionadas en el artículo anterior señala la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de las unidades administrativas que se encontraren pendientes de resolución al momento de entrar en vigor la presente Ley, serán desahogados por la Dependencia que corresponda, conforme a las atribuciones que esta Ley le señala.
+
+###### ARTICULO QUINTO.
+
+Las atribuciones que en otras leyes y en reglamentos se otorgan a Oficialía Mayor, se tendrán por conferidas a la Secretaría que de conformidad con esta Ley asume dichas atribuciones; igualmente, las atribuciones que en otros ordenamientos jurídicos se otorgan a la Tesorería General del Estado, se tendrán por conferidas a la Secretaría de Finanzas.
+
+###### ARTICULO SEXTO.
+
+Cuando en los formularios, manifestación, avisos o demás documentos oficiales, se aluda a la Tesorería General del Estado, se entenderán referidos a la Secretaría de Finanzas, y podrán seguirse utilizando hasta agotar su existencia.
+
+###### ARTICULO SEPTIMO.
+
+Los recursos humanos, materiales y financieros que tenía asignados la fracción XVII del artículo 34 que se deroga, pasarán a la Coordinación General de Relaciones Públicas.
+
+###### ARTICULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto por esta Ley.
