@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-04-22"
+last_updated: "2004-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -431,7 +431,7 @@ Para tal efecto, los Ayuntamientos remitirán los bandos y reglamentos al Ejecut
 
 IV.- Intervenir y cooperar con toda clase de autoridades y organismos que promuevan o ejecuten actividades de interés municipal.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
 V.- Autorizar, para efectos de auxiliar administrativo, Delegaciones, Subdelegaciones y Jefaturas de Secciones y de Manzanas, extender los nombramientos a sus titulares y conducir las relaciones administrativas, en los términos de este Código.
 
@@ -471,7 +471,9 @@ XVI.- Sacar a remate los bienes muebles que hayan de venderse haciendo pública 
 
 XVII.- Aceptar herencias, legados y donaciones que se hagan al Municipio, siempre que no sean onerosas; en caso contrario deberán solicitar autorización del Congreso para aceptarlas.
 
-XVIII.- Formular inventario y un informe contable acerca del estado que guarda la Hacienda Municipal, entregando los bienes al Ayuntamiento entrante, ante la fe de Notario Público.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+XVIII.- Cumplir con las disposiciones de la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes y Ayuntamientos del Estado, haciendo entrega de los mismos al Ayuntamiento entrante.
 
 XIX.- Enviar al Congreso para su estudio y aprobación, las bases de contratación de empréstitos que afecten ejercicios fiscales futuros.
 
@@ -3352,3 +3354,7 @@ P.O. 22 DE ABRIL DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
