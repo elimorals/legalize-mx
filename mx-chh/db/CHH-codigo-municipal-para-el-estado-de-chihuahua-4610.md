@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-03-08"
+last_updated: "2003-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1378,6 +1378,10 @@ V.- Actuará para prevenir, convencer, restaurar la seguridad, tranquilidad, mor
 VI.- Tendrá como objetivos en su actuación, el respeto a la vida y a la integridad corporal de las personas y la existencia y fortalecimiento de la familia; y
 
 VII.- Coadyuvará con los otros cuerpos de seguridad pública, tanto federales como estatales, en lo que de común tiene el desempeño de sus respectivas tareas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ABRIL DE 2003)</small>
+
+Respecto de la colaboración que lleve a cabo en asuntos migratorios, los extranjeros que hayan sido detenidos y asegurados y que deban salir del País, no podrán ser alojados en las cárceles públicas de los municipios, sino que se pondrán a disposición de las autoridades migratorias correspondientes.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -3217,7 +3221,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Corareachi, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
-P.O. 20 DE JULIO DE 2002 (REPUBLICADO, P.O. 31 DE JULIO DE 2002).
+P.O. 20 DE JULIO DE 2002.
+
+REPUBLICADO, P.O. 31 DE JULIO DE 2002.
 
 DECRETO No. 315 /02 II P.O.
 
@@ -3294,6 +3300,12 @@ Todos aquellos especialistas en valuación que cuenten con título que los acred
 P.O. 8 DE MARZO DE 2003.
 
 DECRETO No. 606/03 VI P.E.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2003.
 
 ###### ARTICULO UNICO.
 
