@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1980-08-15"
+last_updated: "1980-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 1980.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1689,9 +1689,7 @@ II.- La promesa de compraventa de bienes muebles o inmuebles ubicados en el Esta
 
 ART. 140.- Causan el Impuesto sobre Traslación de Dominio previsto por la Fracción I del Artículo anterior:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-I.- Las transmisiones de dominio por las que no se cause el Impuesto al Valor Agregado;
+I.- (DEROGADA, P.O. 22 DE AGOSTO DE 1980)
 
 II.- Las aportaciones de bienes inmuebles que hagan los socios o accionistas en favor de sociedades inmobiliarias, de empresas fraccionadoras de terrenos o de cualquier otro tipo de empresas que se dediquen a la compraventa o administración de bienes inmuebles;
 
@@ -2865,7 +2863,7 @@ pasaje 40.00 "
 
 d).- Para vehículos de servicio exclusivo de turismo 100.00 "
 
-XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00 "
+XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00"
 
 XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público
 
@@ -5238,3 +5236,9 @@ P.O. 15 DE AGOSTO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P. O. 22 DE AGOSTO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa"
