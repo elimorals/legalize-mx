@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1990-10-10"
+last_updated: "1991-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -105,9 +105,11 @@ Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el a
 
 Las dependencias del Ejecutivo, estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera.
 
+> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
+
 ###### Artículo 15.
 
-Los titulares de las dependencias a que se refiere esta Ley, podrán delegar en sus subalternos cualesquiera de sus facultades, salvo aquellas que la Constitución, las Leyes y Reglamentos dispongan que deban ser ejercidas directamente por ellos.
+Al frente de cada Secretaría habrá un Titular a quien se denomina Secretario, que se auxiliará de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás Servidores Públicos que establezcan los reglamentos y otras disposiciones legales. Tendrán las atribuciones que se señalen en esos ordenamientos y las que les asignen el Gobernador y el Secretario del que dependan, las que en ningún caso podrán ser aquellas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los Titulares.
 
 ###### Artículo 16.
 
@@ -151,7 +153,15 @@ IX. Secretaría de Administración;
 
 > <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
-X. Secretaría de la Contraloría.
+X. Secretaría de la Contraloría;
+
+> <small>(ADICIONADA, P.O. 24 DICIEMBRE DE 1991)</small>
+
+XI. Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADA, P.O. 24 DICIEMBRE DE 1991)</small>
+
+XII. Secretaría de Ecología.
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
@@ -225,7 +235,7 @@ XXIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 22.
 
-Para auxiliar al Secretario de Gobierno y para suplirlo en sus ausencias temporales, habrá dos Subsecretarías de Gobierno, las que tendrán las atribuciones, funciones y obligaciones que el Secretario de Gobierno o en su caso, el ejecutivo del Estado les designe.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1991)
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -393,49 +403,139 @@ XV. Vigilar la realización de los actos cívicos escolares, de acuerdo con el c
 
 XVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
+
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas es el órgano encargado de ordenar los asentamientos humanos, regular el desarrollo urbano, así como proyectar y ejecutar las obras públicas del Estado.
+La Secretaría de Desarrollo Urbano y Obras Públicas, es el Organo encargado del ordenamiento de los asentamientos humanos y de la regulación del desarrollo urbano y de la vivienda y de ejecutar las obras públicas a su cargo.
+
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I. Formular y conducir las Políticas Estatales de Asentamientos Humanos, Urbanismo y Vivienda.
+
+II. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de Desarrollo Urbano y Vivienda.
+
+III. Formular, revisar y ejecutar el Plan Estatal de Desarrollo Urbano, los planes especiales y de los Centros de Población Estratégicos y proponer su modificación, así como promover la implantación de los Planes Municipales de Desarrollo Urbano y de Centros de Población Municipales.
+
+IV. Promover y vigilar el Desarrollo Urbano de las diversas Comunidades y Centros de Población del Estado.
+
+V. Promover, apoyar y ejecutar los Programas de Regularización de la Tenencia de la Tierra.
+
+VI. Establecer y vigilar el cumplimiento de los Programas de Adquisición de Reservas Territoriales del Estado, con la participación que corresponda a otras Autoridades.
+
+VII. Formular, en términos de Ley, los proyectos de declaratorias sobre provisiones, reservas, destinos y usos del suelo.
+
+VIII. Dictar y vigilar el cumplimiento de las normas técnicas sobre usos y destinos del suelo para obras públicas.
+
+IX. Proponer al Ejecutivo del Estado y participar en la celebración de Convenios con el Gobierno Federal, con los Municipios de la Entidad y con los particulares, en materia de obras públicas, acciones e inversiones sobre Desarrollo Urbano y Vivienda.
+
+X. Participar en la promoción y realización de los Programas de Vivienda y coordinar su gestión y ejecución.
+
+XI. Coordinar, formular u operar Programas Estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado, así como de las demás relacionadas con el desarrollo y equipamiento urbanos, que no estén asignadas a otra Dependencia.
+
+XII. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo.
+
+XIII. Apoyar la creación y consolidación de los Organismos Municipales de agua potable y alcantarillado.
+
+XIV. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición que le sean asignadas de inmuebles que sea propiedad del Gobierno del Estado.
+
+XV. Construir, mantener y operar, en su caso, directamente o por adjudicación a particulares, las obras públicas que correspondan al desarrollo y equipamiento urbanos y que no sean competencia de otra Secretaría.
+
+XVI. Expedir en coordinación con las Dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre.
+
+XVII. Impulsar y promover los trabajos de introducción de energía eléctrica en áreas urbanas y rurales.
+
+XVIII. Las demás que le señalen las leyes y reglamentos vigentes.
+
+> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
 ###### Artículo 32.
 
-A la Secretaría de Desarrollo Urbano y Obras Públicas corresponde el despacho de los siguientes asuntos:
+La Secretaría de Comunicaciones y Transportes es el Organo encargado del desarrollo y la administración de la red carretera, y de la regulación del transporte y las comunicaciones de jurisdicción local.
 
-I. Promover y vigilar el equilibrado desarrollo de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos.
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-II. Formular, revisar y ejecutar el plan estatal de desarrollo urbano.
+I. Formular y ejecutar los programas carreteros, de comunicaciones, de transportes y de vialidad del Estado.
 
-III. Elaborar y vigilar el cumplimiento de los planos directores.
+II. Establecer las normas técnicas a que debe sujetarse la construcción y operación de los programas a que se refiere la fracción anterior.
 
-IV. Vigilar el cumplimiento y aplicación de las disposiciones legales y reglamentarias en materia de construcción y desarrollo urbano.
+III. Vigilar el cumplimiento de las disposiciones legales en materia de comunicaciones y transporte público local, con la intervención que corresponda a otras autoridades.
 
-V. Promover y ejecutar la regularización de la tenencia de la tierra.
+IV. Coordinar la ejecución de planes y proyectos de obras de construcción, ampliación, rehabilitación y mantenimiento de la red carretera y de la infraestructura de comunicaciones del Estado.
 
-VI. Participar en la realización de los programas de vivienda y urbanización.
+V. Construir, mantener y conservar en su caso, directamente o por adjudicación a particulares en términos de Ley, las obras de vialidad, de carreteras libres y de cuota y demás infraestructura de comunicaciones, de jurisdicción local y las que se le asignen.
 
-VII. Planear y regular el desarrollo de las comunicaciones y transportes en el Estado.
+VI. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance de las obras a que se refieren las fracciones anteriores, sin perjuicio de las facultades que en dichas materias correspondan a otras Dependencias.
 
-VIII. Realizar las tareas relativas a la ingeniería del transporte y al señalamiento de la vialidad del Estado.
+VII. Establecer conforme a la Ley, las normas técnicas y administrativas para la prestación del servicio público de transporte local.
 
-IX. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal, así como ejercer, en su caso, el derecho de reversión.
+VIII. Otorgar, revocar, modificar y declarar la caducidad de concesiones, permisos y autorizaciones para la prestación del servicio público de transporte en vías de jurisdicción local y ejercer el derecho de reversión.
 
-X. Formular el programa general de obras del Gobierno del Estado.
+IX. Fijar las tarifas de transporte público del Estado, con base en los estudios técnicos que realice.
 
-XI. Proyectar, ejecutar, mantener y operar, en su caso, directamente o por adjudicación a particulares las obras públicas que no sean de la competencia de otra dependencia.
+X. Prevenir y sancionar el incumplimiento por los concesionarios a las obligaciones establecidas en las autorizaciones, permisos y concesiones respectivas, para asegurar la prestación del servicio.
 
-XII. Prestar asesoría y trabajar en forma coordinada con los Ayuntamientos de la entidad, con las dependencias y entidades del Ejecutivo Federal, en la realización de obras públicas y demás actividades relacionadas con los asentamientos humanos.
+XI. Realizar las tareas relativas a la Ingeniería del Transporte y al Señalamiento de la vialidad del Estado, en coordinación con otras Autoridades.
 
-XIII. Formular y operar los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicio de drenaje y alcantarillado.
+XII. Ejecutar y promover acciones, cuando así se requiera, para el mejoramiento del transporte público en la Entidad, en coordinación en su caso, con Autoridades Federales, Locales y de otras Entidades y Municipales, que correspondan.
 
-XIV. Expedir en coordinación con la Secretaría de Planeación las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obras celebrados por la administración pública del Estado.
+XIII. Concesionar la construcción, administración, operación y conservación de caminos y vialidades de cuota de competencia local.
 
-XV. Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
+XIV. Administrar las vías de cuota a cargo del Gobierno del Estado de México.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1990)</small>
+XV. Expedir en coordinación con las Dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre.
+
+XVI. Las demás que le señalen las Leyes y Reglamentos vigentes.
+
+> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
 ###### Artículo 32 Bis.
 
-Para auxiliar al Secretario de Desarrollo Urbano y Obras Públicas y para suplirlo en sus ausencias temporales, habrá dos Subsecretarías las que tendrán las atribuciones, funciones y obligaciones que el Ejecutivo del Estado o el propio Secretario les designen.
+La Secretaría de Ecología es el Organo encargado de la formulación, ejecución y evaluación de la política estatal en materia Ecológica.
+
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de Ecología y de Protección al Ambiente atribuidas al Ejecutivo Estatal.
+
+II. Formular, ejecutar y evaluar el Programa Estatal de Protección al Ambiente.
+
+III. Emitir los lineamientos destinados a preservar y restaurar el equilibrio ecológico y proteger el ambiente.
+
+IV. Convenir con los Gobiernos Federal, de las Entidades Federativas y de los Municipios del Estado, así como con los particulares, la realización conjunta y coordinada de acciones de Protección Ambiental.
+
+V. Establecer medidas y criterios para la prevención y control de residuos y emisiones generadas por fuentes contaminantes.
+
+VI. Establecer sistemas de verificación ambiental y monitoreo de contaminantes.
+
+VII. Implantar medidas y mecanismos para prevenir, restaurar y corregir la contaminación del aire, suelo, agua y del ambiente en general.
+
+VIII. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente.
+
+IX. Promover la educación y la participación comunitaria, social y privada, para la preservación y restauración de los recursos naturales y la protección del ambiente.
+
+X. Aplicar la normatividad para el manejo y disposición final de los residuos industriales, así como para la construcción de los sistemas de tratamiento de aguas residuales.
+
+XI. Promover y ejecutar directamente o por terceros, la construcción y operación de instalaciones para el tratamiento de residuos industriales, desechos sólidos, tóxicos y aguas residuales.
+
+XII. Concesionar la construcción, administración, operación y conservación de las instalaciones a que se refiere la fracción anterior.
+
+XIII. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en la Entidad.
+
+XIV. Regular y promover la protección y preservación de los recursos de fauna y flora silvestres en territorio del Estado.
+
+XV. Declarar las áreas naturales protegidas de interés Estatal.
+
+XVI. Fomentar, ejecutar y en su caso, operar parques y áreas verdes.
+
+XVII. Administrar, vigilar y controlar los parques naturales que tenga a su cargo.
+
+XVIII. Promover y fomentar las investigaciones ecológicas.
+
+XIX. Emitir dictámenes técnicos para cuantificar el daño causado al ambiente.
+
+XX. Aplicar las sanciones previstas en las disposiciones legales de la materia y promover la aplicación de las que corresponda a otras autoridades.
+
+XXI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
 
@@ -575,7 +675,13 @@ XVII. Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidad
 
 XVIII. Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
 
-XIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1991)</small>
+
+XIX. Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las Dependencias y vigilar y observancia.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1991)</small>
+
+XX. Las demás que les señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -715,7 +821,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario Lic. Lorenzo Vera Osorno.- Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -780,3 +886,29 @@ P.O. 10 DE OCTUBRE DE 1990
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1991
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a las contenidas en este Decreto.
+
+###### ARTICULO TERCERO.
+
+Cuando en algún ordenamiento legal se establezcan atribuciones a la Secretaría de Desarrollo Urbano y Obras Públicas, se entenderán atribuidas según corresponda, a la propia Secretaría de Desarrollo Urbano y Obras Públicas o a las de Comunicaciones y Transportes y de Ecología, en los términos de este Decreto.
+
+###### ARTICULO CUARTO.
+
+Cuando en la Ley Orgánica de la Administración Pública del Estado y en otros ordenamientos legales se establezcan atribuciones de la Secretaría de Desarrollo Agropecuario, que por este Decreto se asignen a la de Ecología, se entenderán atribuidas a esta última.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que al entrar en vigor este Decreto se encuentren en trámite, se concluirán por la Dependencia a la que se asignen las atribuciones correspondientes en términos del mismo.
+
+###### ARTICULO SEXTO.
+
+El Ejecutivo del Estado expedirá dentro del término de 90 días a partir de la vigencia de este Decreto, los reglamentos interiores a que se refiere el Artículo 15.
