@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2003-12-31"
+last_updated: "2004-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2004.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4667,3 +4667,13 @@ El arancel establecido en el artículo único de este Decreto para la fracción 
 D.O.F. 31 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El arancel ad-valorem aplicable a la importación de las mercancías clasificadas en las fracciones arancelarias contenidas en el artículo 1 del presente Decreto, así como el de los productos que se clasifican en las fracciones arancelarias 4011.10.99, 4011.50.01, 4012.20.01, 4012.20.99, 4013.10.01 y 4013.20.01, contenidas en el artículo 1 del Decreto por el que se crean, modifican y suprimen diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y se actualiza la tasa aplicable de diversos Tratados y Acuerdos Comerciales suscritos por los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, será el que a continuación se indica:
+
+a) A partir del 1 de enero de 2006, el arancel ad-valorem aplicable a la importación será de 29, y
+
+b) A partir del 1 de enero de 2007, el arancel ad-valorem aplicable a la importación será de 23.
