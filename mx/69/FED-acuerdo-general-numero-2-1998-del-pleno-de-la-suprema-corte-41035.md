@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-1998-del-pleno-de-la-suprema-corte-410
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-03-10"
-last_updated: "1999-01-14"
+last_updated: "2004-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-03-10"
 
 ACUERDO GENERAL NUMERO 2/1998, DEL TRIBUNAL PLENO, DEL DIA DIEZ DE MARZO DE MIL NOVECIENTOS NOVENTA Y OCHO, PARA LLEGAR AL AÑO 2000 SIN REZAGO
 
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: TOMO XI DE ENERO DE 1999, PAGINA 945.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XX, DICIEMBRE DE 2004, PAGINA 1485.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo VII, Marzo de 1998, página 849.
 
@@ -77,7 +77,9 @@ XXII. El Comité de Listas de asuntos de Pleno, con el apoyo del Secretario Gene
 
 XXIII. Con el propósito de lograr una mejor capacitación y especialización de los Secretarios de Estudio y Cuenta, así como para estimular a quienes destaquen en su trabajo, se designa a la Ministra Olga Sánchez Cordero de García Villegas y al Ministro Genaro David Góngora Pimentel para que en unión del Presidente de la Suprema Corte de Justicia de la Nación realicen un programa idóneo, recurriendo a cursos de Posgrado en instituciones nacionales o extranjeras y determinando las reglas aplicables en materia de selección, becas y, en general, todo lo que se relacione con ello.
 
-> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO 1/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO XI, ENERO DE 1999, PAGINA 945)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 13/2004 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE SUSPENDE EN 2005 EL PROCESO DE NIVELACION DE PONENCIAS, S.J.F.G., TOMO XX, DICIEMBRE DE 2004, PAGINA 1485.</small>
+
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO 1/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO XI, DE ENERO DE 1999, PAGINA 945)</small>
 
 XXIV. En el mes de enero de cada año, la Subsecretaría General de Acuerdos llevará a cabo un proceso de nivelación de ponencias, turnando los asuntos de nuevo ingreso de tal manera que quienes tienen mayor número de asuntos pendientes de proyectar salgan de turno hasta que los que tienen menor número se equilibren con ellos, lográndose, de manera gradual, la igualdad de todos, respecto de la cantidad con la que se inicie el proceso. En la distribución no se excluirá ningún tipo de asunto. Las Secretarías de Acuerdos de las Salas procederán de la misma manera.
 
@@ -145,9 +147,7 @@ SÍ SE DEBE:
 
 3. Decir lo más con lo menos.
 
-4. Transcribir los
-
-textos de los preceptos cuya inconstitucionalidad se reclama, cuando sea el caso.
+4. Transcribir los textos de los preceptos cuya inconstitucionalidad se reclama, cuando sea el caso.
 
 Tomando en cuenta la experiencia adquirida a través de la revisión de diversas síntesis que se han acompañado a los proyectos examinados con anterioridad, se estima que debe contener la estructura que aparece en el anexo 2.
 
@@ -2587,8 +2587,14 @@ Que este Anexo número tres del Acuerdo General Número 2/1998 para llegar al a�
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
-S.J.F.G., TOMO XI. ENERO DE 1999, PAGINA 9455.
+S.J.F.G., TOMO XI, ENERO DE 1999, PAGINA 945.
 
 PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y póngase de inmediato en el conocimiento de los secretarios de Estudio y Cuenta y de los demás servidores públicos obligados a su cumplimiento.
+
+S.J.F.G., TOMO XX, DICIEMBRE DE 2004, PAGINA 1485.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y póngase de inmediato en el conocimiento de los servidores públicos obligados a su cumplimiento.
