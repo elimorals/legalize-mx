@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1515"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-04-12"
-last_updated: "1934-04-12"
+last_updated: "1934-07-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1934-03-22"
 ---
 # CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 4 DE JULIO DE 1934.</small>
 
 Código publicado en el Diario Oficial de la Federación, el jueves 12 de abril de 1934.
 
@@ -63,11 +63,11 @@ El Presidente de la República es la suprema autoridad agraria. Sus resoluciones
 
 Se entiende por resoluciones definitivas, para los efectos de este artículo, aquellas que pongan fin a un expediente de restitución, dotación o ampliación de ejidos; de creación de un nuevo centro de población agrícola o de localización de la pequeña propiedad inafectable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 3°.
 
-El Departaamento (sic) Agrario será el órgano superior encargado de la aplicación de este Código, y en todo caso dependerá directamente del Presidente de la República.
+El Departamento Agrario será el órgano superior encargado de la aplicación de este Código, y en todo caso dependerá directamente del Presidente de la República.
 
 ###### ARTICULO 4°.
 
@@ -257,11 +257,11 @@ Cuando la solicitud no enumere los predios o terrenos que sean objeto de la dema
 
 Cuando la solicitud enumere los predios o terrenos objeto de la demanda, a más de la publicación se notificará por oficio a los presuntos afectados.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 28.
 
-Los títulos y documentos de que habla el artículo anterior, serán enviados desde luego por la Comisión Agraria Mixta, al Departamento Agrario, para que estudie su autenticidad dentro del plazo improrrogable de treinta días; y el propio Departamento los devolverá con el dictamen paleográfico respectivo y con la opinión qne (sic) acerca de él formule.
+Los títulos y documentos de que habla el artículo anterior, serán enviados desde luego por la Comisión Agraria Mixta, al Departamento Agrario, para que estudie su autenticidad dentro del plazo improrrogable de treinta días; y el propio Departamento los devolverá con el dictamen paleográfico respectivo y con la opinión que acerca de él formule.
 
 ###### ARTICULO 29.
 
@@ -303,11 +303,11 @@ El volumen restituible se determinará por el procedimiento adoptado para los ca
 
 Disposiciones generales en materia de dotación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 33.
 
-Para dotar a los núcleos de poblacón (sic) que tengan derecho conforme a este Código, se tomarán tierras, bosques y aguas, de las propiedades públicas o privadas que legalmente deban afectarse.
+Para dotar a los núcleos de población que tengan derecho conforme a este Código, se tomarán tierras, bosques y aguas, de las propiedades públicas o privadas que legalmente deban afectarse.
 
 Las propiedades de la Federación, de los Estados o Municipios, cuando sean susceptibles de contribuir para las dotaciones o ampliaciones de ejidos o para la creación de nuevos centros de población agrícola, serán afectadas preferentemente a las propiedades privadas.
 
@@ -325,15 +325,15 @@ El número de parcelas que se necesiten para cada dotación, deberá tomarse con
 
 La superficie de las fincas, para los efectos de este Código, será la que tengan en la fecha de la publicación de la solicitud respectiva.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 37.
 
 Se considerarán como una sola propiedad, para los efectos de este Código, los diversos predios, que, aunque aislados, sean de los mismos dueños en cada entidad federativa.
 
 Igualmente, se considerarán como un solo predio los que sean de varios dueños proindiviso.
 
-Surtirán efectos de (sic) materia agraria, los cambios que en el régimen de propiedad de una finca sean consecuencia de aplicación de los bienes de una sucesión a los herederos, si la muerte del autor de la herencia es anterior a la publicación de la solicitud agraria.
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+Surtirán efectos en materia agraria, los cambios que en el régimen de propiedad de una finca sean consecuencia de aplicación de los bienes de una sucesión a los herederos, si la muerte del autor de la herencia es anterior a la publicación de la solicitud agraria.
 
 En el caso de excepción señalado en el párrafo anterior, se requerirá, además, para que surta efectos el cambio de régimen de propiedad, que la inscripción de las escrituras relativas en el Registro Público de la Propiedad se haga antes de la fecha de la resolución presidencial.
 
@@ -355,8 +355,6 @@ Cuando un poblado sea dotado de tierras que la resolución respectiva califique 
 
 ### CAPITULO II. De la capacidad jurídica en materia de dotaciones
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 42.
 
 En ningún caso tendrán capacidad para obtener dotación de tierras, bosques o aguas:
@@ -369,7 +367,9 @@ c).- Las poblaciones con más de diez mil habitantes, según el último censo na
 
 d).- Los puertos de mar dedicados al tráfico de altura y los fronterizos con líneas de comunicación ferroviaria internacional;
 
-e).- Los centros de población que se formen dentro de los sistemas de colonización que lleven a cabo la Secretaria de Argicultura (sic) y Fomento, la Comisión Nacional de Irrigación o la Sociedad Financiera Mexicana;
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+e).- Los centros de población que se formen dentro de los sistemas de colonización que lleven a cabo la Secretaria de Agricultura y Fomento, la Comisión Nacional de Irrigación o la Sociedad Financiera Mexicana;
 
 f).- Los centros de población que se formen dentro de tierras objeto de contrato de colonización ya perfeccionado conforme a la ley de la materia, y del cual tenga conocimiento el Departamento Agrario.
 
@@ -401,8 +401,6 @@ d).- No poseer a nombre propio o a título de dominio, terrenos en extensión ig
 
 e).- No poseer un capital industrial o comercial mayor de dos mil quinientos pesos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 45.
 
 Los "peones acasillados," tendrán derecho a recibir parcela en las dotaciones, conforme a las siguientes modalidades:
@@ -411,7 +409,9 @@ I.- Cuando dentro del radio de siete kilómetros contados a partir de cualquier 
 
 II.- Cuando dentro del radio de diez kilómetros, computados en la misma forma que se hace mención en la fracción anterior, existan expedientes agrarios en tramitación, los “peones acasillados" que lo soliciten expresamente ante la Comisión Agraria Mixta, o ante la Junta Censal, tendrán derecho a figurar en el censo agrario correspondiente y a recibir parcela;
 
-III.- Cuando dentro del mismo radio de diez kilómetros, se tramiten o se puedan tramitar en los términos de este Código expedientes de ampliación, los “peones acasillados" que expresamente lo soliciten, tendrán derecho a figurar en el censo agrario correspondiente. Se considerarán “peones acasillados", para los efectos de este Código, aquellos trabajadores de las fincas agrícolas que, ocupando casa en las mismas sin pagar renta, dependen (sic) económicamente del salario que reciban por sus servicios.
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+III.- Cuando dentro del mismo radio de diez kilómetros, se tramiten o se puedan tramitar en los términos de este Código expedientes de ampliación, los “peones acasillados" que expresamente lo soliciten, tendrán derecho a figurar en el censo agrario correspondiente. Se considerarán “peones acasillados", para los efectos de este Código, aquellos trabajadores de las fincas agrícolas que, ocupando casa en las mismas sin pagar renta, dependan económicamente del salario que reciban por sus servicios.
 
 No se comprenderá en la clasificación de "peones acasillados" a los arrendatarios, aparceros, medieros, terceros, etc., salvo aquellos que no obstante esas denominaciones, sean en realidad de los trabajadores a que se refiere el párrafo anterior, que laboren temporalmente como aparceros habilitados por cuenta de la finca.
 
@@ -465,23 +465,23 @@ V.- Las superficies sujetas a proceso de reforestación conforme a la Ley y Regl
 
 VI.- Hasta quinientas hectáreas de tierras de riego o sus equivalentes en las escuelas de agricultura del Gobierno Federal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 52.
 
 Las tierras ocupadas con plantaciones de alfalfa, henequén, maguey y otras agaves industriales y las que excedan de trescientas hectáreas, en los casos de las plantaciones de que trata la fracción IV del artículo anterior, podrán excluirse de las dotaciones, siempre que se llenen los requisitos siguientes:
 
 I.- Que dichas plantaciones existan con una anterioridad de seis meses a la fecha en que se publique la solicitud ejidal.
 
-II.- Que durante la tramitación del expediente en las Comisiones Agrarias Mixtas, los presuntos afectados se comprometen de manera absoluta a proporcionar las tierras que, en cantidad y calidad les correspondan como afectaciones en los términos de este Código, siempre que las tierras propuestas se encuentren dentro del radio de siete kilómetros del poblado solicitante y de que la demarcación de las mismas se haga dentro de un plazo improrrogable de treinta días, contados a partir de la fecha en que el Departamento Agrario les comunique la aceptación de la permuta respectiva; bajo el concepto de que sólo en caso de que no existan terrenos de mejor o igual calidad, o en la cantidad necesaria, podrán hacerse las conversiones que procedan conforme a las equivalencias establecidas en el artículo 57, sin que por motivo alguno se comprendan en ellas terrenos que no sean de labor o laborables.
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
-En caso de que las tierras señaladas para la permuta estén comprendidas en una finca que no sea pequeña propiedad, y su propietario se niegue a venderlas o exija precios excesivos, el Gobierno Federal procederá a expropiarlas, cubriendo su valor al propietario de la plantación afectable.
+II.- Que durante la tramitación del expediente en las Comisiones Agrarias Mixtas, los presuntos afectados se comprometan de manera absoluta a proporcionar las tierras que, en cantidad y calidad les correspondan como afectaciones en los términos de este Código, siempre que las tierras propuestas se encuentren dentro del radio de siete kilómetros del poblado solicitante y de que la demarcación de las mismas se haga dentro de un plazo improrrogable de treinta días, contados a partir de la fecha en que el Departamento Agrario les comunique la aceptación de la permuta respectiva; bajo el concepto de que sólo en caso de que no existan terrenos de mejor o igual calidad, o en la cantidad necesaria, podrán hacerse las conversiones que procedan conforme a las equivalencias establecidas en el artículo 57, sin que por motivo alguno se comprendan en ellas terrenos que no sean de labor o laborables.
+
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+En caso de que las tierras señaladas para la permuta estén comprendidas en una finca que no sea pequeña propiedad, y su propietario se niegue a venderlas o exija precios excesivos, el Gobierno Federal procederá a expropiarlas, cubriendo su valor el propietario de la plantación afectable.
 
 Las superficies compensadas en los términos de la fracción II de este artículo, se considerarán disgregadas de la propiedad y no se computarán para el efecto de nuevas afectaciones.
 
 En los expedientes agrarios a que se refiere este precepto, las Comisiones Agrarias Mixtas y los Gobernadores de los Estados, procederán de tal manera que el Departamento Agrario pueda dar su autorización para la permuta de las tierras a cuyo efecto, los plazos de la tramitación normal se podrán modificar con aprobación del citado Departamento.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTICULO 53.
 
@@ -495,7 +495,9 @@ Los plazos y demás requisitos de la tramitación normal que señala este Códig
 
 Ejecutados los mandamientos de los gobernadores, se continuará la tramitación en los términos ordinarios de este Código.
 
-En caso de incumplimiento total o parcial de las condiciones que, en los términos del párrafo primero, se estipulen para el setablecimiento (sic) de los distritos ejidales, quedarán expeditos los derechos de los núcleos de población de que se trate y, para los efectos de este Código, se considerarán corridos todos los plazos de notificación.
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+En caso de incumplimiento total o parcial de las condiciones que, en los términos del párrafo primero, se estipulen para el establecimiento de los distritos ejidales, quedarán expeditos los derechos de los núcleos de población de que se trate y, para los efectos de este Código, se considerarán corridos todos los plazos de notificación.
 
 La declaratoria de incumplimiento será dictada por acuerdo presidencial.
 
@@ -533,11 +535,11 @@ Las obras a que se refiere la fracción II del articulo anterior, soportarán la
 
 Las casas construidas por los solicitantes en los terrenos afectados, podrán comprenderse en las dotaciones, a petición de los mismos interesados.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 57.
 
-Cuando las fincas afectables estén constituidas por tierras de las diversas clases a que se refieren las fracciones I y II del artículo 51, la extensión que constituya la pequeña propiedad agrícola en explotación, inafectable, se determinará computando por cada hectárea de riego: dos de temporal, cuatro de agostadero de buena calidad y ocho de monte o de agostadero en terrenos áridos.
+Cuando las fincas afectables no estén constituidas por tierras de las diversas clases a que se refieren las fracciones I y II del artículo 51, la extensión que constituya la pequeña propiedad agrícola en explotación, inafectable, se determinará computando por cada hectárea de riego: dos de temporal, cuatro de agostadero de buena calidad y ocho de monte o de agostadero en terrenos áridos.
 
 En los casos en que por resolución presidencial se haya afectado una finca, reduciéndola a los límites de pequeña propiedad agrícola en explotación, en resoluciones posteriores no se considerarán variadas las clases de tierras por el hecho de que su propietario haya mejorado su calidad por obras de irrigación o de drenaje o por cualquier otro procedimiento.
 
@@ -547,15 +549,15 @@ Cuando los predios afectables no cuenten con tierras de cultivo o cultivables en
 
 La selección de los individuos que deban permanecer en el ejido, será hecha por la Comisión Agraria Mixta, escogiendo de entre los que tengan mayor arraigo y urgencia de tierras, sorteándolos en caso necesario.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 59.
 
 Los dueños de propiedades afectables conforme a este Código, tendrán derecho a escoger la localización que dentro de sus predios deba tener la superficie inafectable conforme a las fracciones I y II del artículo 51.
 
 En estos casos los propietarios presentarán la solicitud respectiva ante la Comisión Agraria Mixta correspondiente, acompañada de un plano topográfico de conjunto de la propiedad afectable, en el cual estará localizada la pequeña propiedad, y en previsión de que tenga que aplicarse la reducción que establece la fracción II del artículo 51, los propietarios deberán señalar también dentro de dicha pequeña propiedad, la superficie que, llegado el caso, se deba segregar de aquélla.
 
-Las Comisiones Agrarias Mixtas, dentro de un término de treinta días, emitirán dictamen y enviarán el expediente al Departamento Agrario. Este a su vez, dentro de treinta días, si lo estima fundado, propondrá al Presidente de la República que haga la declaratoria de infectabilidad (sic) de la superficie escogida. La declaratoria del Presidente de la República será publicada en el “Diario Oficial" de la Federación y en el periódico oficial de la Entidad correspondiente, e inscrita en el Registro Agrario Nacional.
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+Las Comisiones Agrarias Mixtas, dentro de un término de treinta días, emitirán dictamen y enviarán el expediente al Departamento Agrario. Este a su vez, dentro de treinta días, si lo estima fundado, propondrá al Presidente de la República que haga la declaratoria de inafectabilidad de la superficie escogida. La declaratoria del Presidente de la República será publicada en el “Diario Oficial" de la Federación y en el periódico oficial de la Entidad correspondiente, e inscrita en el Registro Agrario Nacional.
 
 ###### ARTICULO 60.
 
@@ -587,8 +589,6 @@ La publicación de la solicitud, en los términos del artículo 22, surtirá efe
 
 Las Comisiones Agrarias Mixtas deberán notificar también, por escrito, a los propietarios de tierras o aguas afectables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 63.
 
 Una vez publicada la solicitud se procederá:
@@ -596,6 +596,8 @@ Una vez publicada la solicitud se procederá:
 I.- A la formación del censo agrario y pecuario del núcleo de población solicitante;
 
 II.- A la formación de un plano que contenga los datos indispensables para conocer: la zona ocupada por el caserío, con la ubicación del núcleo principal de éste; la zona de terrenos comunales; el conjunto de las pequeñas propiedades agrícolas inafectables, y por último, las porciones de las fincas afectables, con la extensión necesaria para proyectar el ejido.
+
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 III.- A nombrar comisiones que rindan informes por escrito que complemente el plano anterior y que tenga datos amplios sobre la ubicación y situación de la localidad peticionaria; sobre la extensión y calidad de las tierras planificadas; sobre los cultivos principales, con anotación de su producción media y los otros datos relativos a las condiciones agrológicas, climatéricas y económicas de la propia localidad. Se informará también sobre la propiedad de las fincas afectables, con datos de las oficinas públicas relativas, recabando de preferencia certificados del Catastro y del Registro Público de la Propiedad.
 
@@ -605,11 +607,11 @@ El censo agropecuario a que se refiere la fracción I del artículo anterior, se
 
 El representante del núcleo de población será designado por el Comité Ejecutivo Agrario. El representante de los propietarios será designado por mayoría de los que tuvieren fincas afectables dentro del radio de siete kilómetros de que trata el artículo 34, y si no llegaren a ponerse de acuerdo, o por cualquier motivo no hicieren la designación dentro del plazo que les fije la Comisión Agraria Mixta, que no será menor de cinco días ni mayor de veinte, se procederá a levantar el censo por los otros dos miembros de la Junta Censal. Lo mismo se hará cuando el representante nombrado no se presente dentro de dicho plazo o cuando se ausente por cualquier motivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 65.
 
-En el censo agrario se incluirán todos los individuos capacitados para recibir parcela individual, de acuerdo con lo que al respeto (sic) dispone este Código, especificándose sexo, ocupación u oficio, estado, nombres de familiares, etc., y superficie de tierra, número de cabezas de ganado y aperos que posean.
+En el censo agrario se incluirán todos los individuos capacitados para recibir parcela individual, de acuerdo con lo que al respecto dispone este Código, especificándose sexo, ocupación u oficio, estado, nombres de familiares, etc., y superficie de tierra, número de cabezas de ganado y aperos que posean.
 
 Los representantes del núcleo de población y de los propietarios en la Junta Censal, podrán hacer las observaciones que juzguen pertinentes, las que se anotarán en las formas en que se levante el censo; en la inteligencia de que las pruebas documentales deberán presentarse ante la Comisión Agraria Mixta dentro de los quince días siguientes a la fecha en que terminen los trabajos censales. Si de las pruebas documentales a que se refiere el párrafo anterior, resultan fundadas las observaciones al censo, la Comisión Agraria Mixta procederá a rectificar los datos objetados.
 
@@ -639,11 +641,11 @@ Los presuntos afectados podrán ocurrir por escrito a las Comisiones Agrarias Mi
 
 ### CAPITULO II. De los mandamientos de los gobernadores y de su ejecución
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 70.
 
-Los mandamientos de los gobernadores deberán ser dictados de modo que señalen las superficies y linderos de los terrenos reinvidicados (sic), en caso de restitución, así como la extensión total y clases diversas de las tierras y su distribución parcial de afectación a cada propiedad, en caso de dotación. Si se restituye o se dota con tierras de riego, expresarán asimismo la cantidad de aguas que correspondan a dichas tierras.
+Los mandamientos de los gobernadores deberán ser dictados de modo que señalen las superficies y linderos de los terrenos reivindicados, en caso de restitución, así como la extensión total y clases diversas de las tierras y su distribución parcial de afectación a cada propiedad, en caso de dotación. Si se restituye o se dota con tierras de riego, expresarán asimismo la cantidad de aguas que correspondan a dichas tierras.
 
 ###### ARTICULO 71.
 
@@ -675,13 +677,13 @@ Respecto de terrenos de agostadero, se concederá un plazo máximo de quince dí
 
 Tan pronto como los expedientes lleguen al Departamento Agrario y de que éste los complete, cuando falten requisitos por satisfacer, el Cuerpo Consultivo los estudiará y, en pleno, emitirá el dictamen que proceda. En los términos del dictamen se formulará el proyecto de resolución que se eleve a la consideración del Presidente de la República.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 76.
 
 Las resoluciones presidenciales contendrán:
 
-a).- Los resultados y considerandos en que se informen y funden;
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
+a).- Los resultandos y considerandos en que se informen y funden;
 
 b).- Los datos relativos a las pequeñas propiedades agrícolas en explotación que se hubieren determinado durante la tramitación de los expedientes;
 
@@ -727,6 +729,8 @@ La ampliación de ejidos sólo procederá:
 
 I.- En los casos de ampliación automática a que se refiere el artículo 173 de este Código;
 
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
+
 II.- Cuando se reúnan todos los siguientes requisitos:
 
 a).- Que el poblado haya logrado un aprovechamiento eficiente del ejido;
@@ -743,11 +747,11 @@ En los casos a que esta fracción se refiere, la tramitación de las ampliacione
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
 
 ###### ARTICULO 84.
 
-Los núcleos de población a que se refiere el artículo 21, tendrán derecho a solicitar dotaciones de aguas para riego de sus tierras. Las solicitudes se presentarán directamente ante los gobernadores de los Estados, y la instauración y tramitación de los expedientes se sujetarán a lo prevenido para las solicitudes de dotación de tierras.
+Los núcleos de población a que se refiere el artículo 21, tendrán derecho a solicitar dotacion de aguas para riego de sus tierras. Las solicitudes se presentarán directamente ante los gobernadores de los Estados, y la instauración y tramitación de los expedientes se sujetarán a lo prevenido para las solicitudes de dotación de tierras.
 
 ###### ARTICULO 85.
 
@@ -803,11 +807,11 @@ A los usuarios, tanto particulares como ejidatarios, que se nieguen a contribuir
 
 Cuando para dotar de aguas a un núcleo de población convenga económicamente utilizar una obra hidráulica ya existente, ampliándola o reforzándola de acuerdo con la nueva capacidad que resulte del aprovechamiento adicional concedido, el Presidente de la República podrá establecer la servidumbre correspondiente, quedando obligados los vecinos del poblado beneficiado a ejecutar por su cuenta los trabajos necesarios.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
 
 ###### ARTICULO 95.
 
-En los distritos de riego, servidos por empresas particulares, bajo régimen de concesión, las resoluciones presidenciales podrán establecer derecho preferente de aguas a favor de los núcleos de población dotados o restituídos de tierras, Los poblados beneficiados con la preferencia cubrirán las tarifas usuales.
+En los distritos de riego, servidos por empresas particulares, bajo régimen de concesión, las resoluciones presidenciales podrán establecer derecho preferente de aguas a favor de los núcleos de población dotados o restituídos de tierras. Los poblados beneficiados con la preferencia cubrirán las tarifas usuales.
 
 ###### ARTICULO 96.
 
@@ -833,13 +837,11 @@ d).- Las reglamentaciones podrán incluir disposiciones que prevean la disminuci
 
 ## TITULO SEXTO. De la creación de nuevos centros de población agrícola
 
-### CAPITULO UNICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPITULO UNICO. (F. DE E, D.O.F. 4 DE JULIO DE 1934)
 
 ###### ARTICULO 99.
 
-Procederá la creación de nuevos centros de población agrícola;
+Procederá la creación de nuevos centros de población agrícola:
 
 I.- Cuando las tierras restituídas a un núcleo de población no sean suficientes para todos los individuos comprendidos en el censo agrario y no se pueda dotar complementariamente en los términos del artículo 31.
 
@@ -1091,8 +1093,6 @@ IV.- Se enviarán a la Comisión Agraria Mixta correspondiente y al Departamento
 
 La posesión de las parcelas y los aprovechamientos de aguas, no podrán ser variados, sino en los términos de los artículos 136, 140, 141 y 144, hasta que se efectúe el fraccionamiento definitivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 133.
 
 Al ejecutarse las resoluciones presidenciales, el proyecto de fraccionamiento y adjudicación, se sujetará a las siguientes bases:
@@ -1109,11 +1109,15 @@ V.- No se incluirán en los proyectos de fraccionamiento las extensiones superfi
 
 VI.- Salvo los casos de ejidos comprendidos en las dos fracciones anteriores, en ningún proyecto de fraccionamiento se podrán trazar parcelas cuya superficie sea menor de los límites fijados por la resolución presidencial que se ejecute, o en su defecto por las leyes vigentes al ser dictada la resolución.
 
-VII.- Con las superficies sobrantes al fraccionar los ejidos que tengan tierras en exceso, se harán parcelas para adjudicarlas en los términos de este Código, o en su defecto, se formarán zonas de reserva para colocar en ellas a hijos de ejidatarios que lleguen a la edad reglamentaria, a ejidatarios procedentes de centros ejidales del contorno, en donde se presente el problema de insuficiencia de tierras, o a solicitantes de ejidos vecinos de núcleos de población inmediatamente colindantes.
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
+
+VII.- Con las superficies sobrantes al fraccionar los ejidos que tengan tierras en exceso, se harán parcelas para adjudicarlas en los términos de este Código, o en su defecto, se formarán Zonas de Reserva para colocar en ellas a hijos de ejidatarios que lleguen a la edad reglamentaria, a ejidatarios procedentes de centros ejidales del contorno, en donde se presente el problema de insuficiencia de tierras, o a solicitantes de ejidos vecinos de núcleos de población inmediatamente colindantes.
 
 VIII.- Cuando no haya tierras disponibles en extensión suficiente, será obligatorio estudiar la manera de aumentarlas por cualquiera de los dos procedimientos siguientes:
 
-a).- Convirtiendo al cultivo tierras de pasto o de monte, mediante el concurso financiero del Gobierno Federal, de los de los (sic) Estados, del Banco de (sic) Crédito Agrícola o de los ejidatarios del poblado;
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
+
+a).- Convirtiendo al cultivo tierras de pasto o de monte, mediante el concurso financiero del Gobierno Federal, de los de los (sic) Estados, del Banco Nacional de Crédito Agrícola o de los ejidatarios del poblado;
 
 b).- Convirtiendo al cultivo terrenos inaprovechados, mediante la ejecución de obras de riego, saneamiento o desecación, en las mismas condiciones de ayuda a que se refiere el inciso anterior.
 
@@ -1379,13 +1383,13 @@ Queda absolutamente prohibida la inversión del fondo para fines religiosos o po
 
 El uso que se haga de este fondo, en todos los casos deberá ser puesto a la consideración de la asamblea ejidal y aprobado por el Departamento Agrario.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 154.
 
 En los casos a que se refiere el artículo 141, se procederá de la siguiente manera:
 
-I.- Si la expropiación tiene por objeto crear un centro urbano, en el fraccionamiento se entregrá (sic) gratuitamente un lote a cada uno de los ejidatarios que en el momento tengan derechos parcelarios. De los productos de la venta del resto del terreno urbanizado, se separará lo necesario para establecer los servicios públicos de urbanización y cualquier saldo que hubiere pasará al fondo común del ejido.
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
+
+I.- Si la expropiación tiene por objeto crear un centro urbano, en el fraccionamiento se entregará gratuitamente un lote a cada uno de los ejidatarios que en el momento tengan derechos parcelarios. De los productos de la venta del resto del terreno urbanizado, se separará lo necesario para establecer los servicios públicos de urbanización y cualquier saldo que hubiere pasará al fondo común del ejido.
 
 II.- Si la expropiación tuviere por objeto el establecimiento de vías de comunicación, cuya concesión implique el pago de indemnizaciones por el terreno expropiado, el producto entrará a formar parte del fondo común y cualquier otro beneficio que implique la expropiación indicada, será disfrutado comunalmente.
 
@@ -1399,13 +1403,11 @@ Las compensaciones correspondientes a cualesquiera de los casos de expropiación
 
 ## TITULO NOVENO. De las responsabilidades y sanciones
 
-### CAPITULO UNICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPITULO UNICO. (F. DE E, D.O.F. 4 DE JULIO DE 1934)
 
 ###### ARTICULO 156.
 
-Los funcionarios y empleados que conforme al artículo 1º. de esta Código intervengan en la tramitación y resolución de expedientes agrarios, serán responsables de la violación de los preceptos de este Código (sic).
+Los funcionarios y empleados que conforme al artículo 1º. de esta Código intervengan en la tramitación y resolución de expedientes agrarios, serán responsables de la violación de los preceptos de esta Ley.
 
 ###### ARTICULO 157.
 
@@ -1465,11 +1467,11 @@ c).- Por no emitir dictámenes en los términos que les fije el Reglamento Inter
 
 En los casos a que se refiere este artículo, los miembros del Cuerpo Consultivo Agrario sufrirán pena de prisión de seis meses a dos años, a juicio del Juez de distrito, y según la gravedad del hecho.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
 
 ###### ARTICULO 163.
 
-Los Delegados del Departamento Agrario en las entidades de la Federación, incurrirán en responsabilidad:
+Los Delegados del Departamento Agrario en las Entidades de la Federación, incurrirán en responsabilidad:
 
 I.- Por proponer en sus dictámenes o estudios, en contravención a este Código, que se niegue a un núcleo de población las tierras, bosques o aguas a que tenga derecho.
 
@@ -1485,7 +1487,9 @@ VI.- Por conceder o proponer que se concedan a los propietarios afectados, plazo
 
 En los casos a que se refiere este artículo, los Delegados responsables sufrirán pena de prisión de seis meses a dos años, a juicio del Juez de Distrito y según la gravedad del hecho.
 
-El personal técnico o administrativo dependiente del Departamento Agrario o de las Comisiones Agraria (sic) Mixtas estará sujeto a responsabilidades y sanciones similares a las que se establecen para los Delegados.
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
+
+El personal técnico o administrativo dependiente del Departamento Agrario o de las Comisiones Agrarias Mixtas estará sujeto a responsabilidades y sanciones similares a las que se establecen para los Delegados.
 
 Los Jefes de las oficinas rentísticas, catastrales o del Registro Público de la Propiedad, federales o locales, o cualesquiera otras que conforme a este Código deban proporcionar datos o documentos necesarios a las autoridades agrarias para la tramitación de expedientes ejidales, tendrán un plazo máximo de quince días para efectuarlo. La violación de este precepto se castigará con suspensión temporal o definitiva de sus cargos, según la gravedad del caso.
 
@@ -1525,13 +1529,11 @@ En todo caso, se acumularán las penas correspondientes si, además del delito o
 
 ## TITULO DECIMO. Disposiciones generales
 
-### CAPITULO UNICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPITULO UNICO. (F. DE E, D.O.F. 4 DE JULIO DE 1934)
 
 ###### ARTICULO 170.
 
-Para el efecto de la nulidad de los fraccionamientos a que se refiere la fracción II del artículo 27 constitucional, los ejidatarios o usufructuarios de los terrenos comunales, en la proporción que expresa la citada disposición constitucional, se dirigirán al Delegado del Departamento Agrario que corresponda por medio del (sic) memorial que contendrá los siguientes puntos:
+Para el efecto de la nulidad de los fraccionamientos a que se refiere la fracción IX del artículo 27 constitucional, los ejidatarios o usufructuarios de los terrenos comunales, en la proporción que expresa la citada disposición constitucional, se dirigirán al Delegado del Departamento Agrario que corresponda por medio de memorial que contendrá los siguientes puntos:
 
 I.- Nombres de los solicitantes y proporción del área comunal que posean.
 
@@ -1541,15 +1543,15 @@ III.- Fecha de la posesión definitiva en caso de haberse obtenido los ejidos po
 
 IV.- Títulos que amparen la posesión y la propiedad de los terrenos, en caso de que los hayan estado disfrutando desde tiempo inmemorial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 171.
 
 Una vez presentado el memorial a que se refiere el artículo anterior, el Delegado procederá a convocar a una junta general de ejidatarios o usufructuarios de los terrenos comunales; durante esa junta se oirá a los interesados, a las partes afectadas con la nulidad solicitada, y se recibirán todas las pruebas testimoniales o documentales que se presenten.
 
 La Delegación substanciará el expediente durante un término de noventa días, incluyéndose dentro de ese lapso los plazos de pruebas y alegatos que deban concederse a los interesados.
 
-Con el expediente relativo se dará cuenta al Departamento Agrario, para que el Presidente de la República resuelva si es de declararse o no la nulidad del fraccionamiento o del repartimiento de que se trate (sic).
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
+
+Con el expediente relativo se dará cuenta al Departamento Agrario, para que el Presidente de la República resuelva si es de declararse o no la nulidad del fraccionamiento o del repartimiento de que se trate.
 
 ###### ARTICULO 172.
 
@@ -1601,8 +1603,6 @@ Este derecho deberán ejercitarlo los interesados dentro del plazo de un año, a
 
 Las dudas que se susciten en la aplicación del presente Código, serán resueltas por el Ejecutivo Federal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 1934 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ARTICULOS TRANSITORIOS:
 
 ###### ARTICULO 1°.
@@ -1621,13 +1621,17 @@ Al tomar posesión de sus cargos los Comisariados y Consejos de Vigilancia, cesa
 
 Las indemnizaciones a que se refiere el artículo 177, se tramitarán de acuerdo con las disposiciones que sobre el particular se expidan. Tales disposiciones constituirán un Título de este Código.
 
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
+
 ###### ARTICULO 4°.
 
-La extinción proporcional de los gravámenes sobre inmuebles afectados, a que se refiere el artículo 175, en su tercer párrafo, también se operará tratándose de los créditos vivos constituídos con anterioridad a este Código, siempre que respecto a ellos no se haya dictado sentencia ejecutoriada al entrar en vigor este Código.
+La extinción proporcional de los gravámenes sobre inmuebles afectados, a que se refiere el artículo 175, en su tercer párrafo, también se operará tratándose de los créditos vivos constituídos con anterioridad a este Código, siempre que respecto a ellos no se haya dictado sentencia ejecutoriada al entrar en vigor esta Ley.
+
+(F. DE E, D.O.F. 4 DE JULIO DE 1934)
 
 ###### ARTICULO 5°.
 
-Los expedientes en tramitación se ajustarán, a partir del estado en que se encuentren, a las disposiciones de este Código, con excepción de los de fraccionamiento que hubieren sido iniciados conforme a la ley anterior y los comprendidos en el Decreto de 28 de diciembre de 1932, cuando haya en ellos conformidad de los núcleos de población.
+Los expedientes en tramitación se ajustarán, a partir del estado en que se encuentren, a las disposiciones de este Código, con excepción de los de fraccionamiento que hubieren sido iniciados conforme a la ley anterior y los comprendidos en el Decreto de 28 de diciembre de 1933, cuando haya en ellos conformidad de los núcleos de población.
 
 ###### ARTICULO 6°.
 
