@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1979-08-25"
+last_updated: "1979-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -6313,17 +6313,21 @@ Para el ejercicio de la enseñanza de las actividades tecnológicas, de no haber
 
 ### CAPITULO UNICO. DEL ESCALAFON
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 792.
 
 El Estado considera altamente meritorio y honroso servir en el ramo de educación; por tanto, el propio Estado se esforzará porque las personas que al magisterio se dedican disfruten de las mayores atenciones, prerrogativas y recompensas que estimulen su noble labor.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 793.
 
-Los maestros al servicio del Estado serán acreedores:
+Los maestros de base y los de confianza con puesto base al servicio del sistema educativo estatal serán acreedores:
 
-I.- A disfrutar de las prerrogativas referentes a las disposiciones escalafonarias contenidas en este Código y su Reglamento; se exceptúan de lo anterior, los maestros que están considerados como empleados de confianza;
+I.- A disfrutar de las prerrogativas referentes a las disposiciones escalafonarias contenidas en este Código y sus Reglamentos.
 
-II.- A la jubilación o pensión en los términos de la Ley de Pensiones Civiles del Estado;
+II.- A la jubilación o pensión en los términos de la Ley de Pensiones Civiles del Estado.
 
 III.- Al servicio médico.
 
@@ -6345,57 +6349,59 @@ En caso de fallecimiento de un profesor, se cubrirá la cantidad de mil quinient
 
 ###### ARTICULO 797.
 
-Se establece el escalafón para los trabajadores de base al servicio del Estado conforme a las normas que se establecen en este Capítulo y que determinan la forma de efectuar los movimientos que impliquen ascenso de categoría.
+Se establece el escalafón para los trabajadores de base al servicio del Estado, los maestros de base y los de confianza con plaza base al servicio del sistema educativo estatal conforme a las normas de este Capítulo que determinan la forma de efectuar los movimientos que impliquen ascenso de categoría.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 798.
 
-Los ascensos escalafonarios de los trabajadores de base al servicio del Estado serán invariablemente otorgados por concurso.
+Los ascensos escalafonarios a que se refiere el artículo anterior, serán invariablemente otorgados por concurso.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 799.
 
-Tienen derecho a participar en los concursos todos los trabajadores de base con un mínimo de seis meses en la plaza del grado inmediato inferior.
+Tienen derecho a participar en los concursos todos los trabajadores de base con un mínimo de seis meses en la plaza del grado inmediato inferior. Tratándose de los trabajadores o de los maestros con puesto base y los de confianza con plaza base, al servicio del sistema educativo estatal, se requerirá un mínimo de un año.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 800.
 
 Son factores escalafonarios los siguientes:
 
-I.- Antigüedad en el servicio;
+I.- Antigüedad en el servicio.
 
-II.- Preparación académica;
+II.- Preparación académica.
 
-III.- Créditos especiales para maestros.
+III.- Créditos especiales para trabajadores al servicio de la educación.
 
-Por antigüedad en el servicio se considerarán los años al servicio del Estado.
+Por antiguedad (sic) en el servicio se considerarán los años al servicio del Estado.
 
-La preparación en el caso de los maestros se comprobará con título profesional, certificado de estudios de las Normales del país, certificado de estudios del Instituto del Estado, certificado de estudios de otras escuelas superiores, diplomas de escuelas comerciales, industriales o de otra índole y certificado de sexto grado; en los demás casos, con certificados de estudios relativos al empleo que se pretenda.
+La preparación en el caso de los maestros se comprobará con el título profesional o años cursados en la Universidad Pedagógica Nacional, en las Escuelas Normales del País, de la Dirección General de Capacitación y Mejoramiento Profesional del Magisterio o cualquier otro centro de estudios superiores y los certificados expedidos por ellos para cursos de actualización o especialización pedagógica, certificado de escuelas comerciales, industriales o de otra índole; en los demás casos, con el certificado de estudio relativo al empleo que se pretenda.
 
-Los créditos especiales para maestros se otorgarán:
-
-Por intervenir en la construcción de escuelas, parte importante de ellas o anexos;
-
-Por participación efectiva y gratuita en campaña de alfabetización, comprobada con un mínimo de veinte alumnos alfabetizados por año;
-
-Por ejercer como maestro comisionado como Director con grupo a su cargo en escuelas de cinco a nueve grupos y por impartir en planteles pos-primarios, por cooperación o del magisterio, clases gratuitas, entendiéndose por tales aquéllas donde no se reciba sueldo, compensación o cooperación económica alguna.
+Los créditos especiales para maestros se otorgarán: por intervenir en la construcción de escuelas, parte importante de ellas o anexos; por participación efectiva y gratuita en campaña de alfabetización comprobada con un mínimo de veinte alfabetizados por año; por ejercer como director con grupo y categoría económica en escuelas de cinco a nueve grupos y por impartir en planteles pos-primarios, por cooperación o del magisterio, clases gratuitas, entendiéndose por tales, aquéllas donde no se reciba sueldo, compensación o cooperación económica alguna, además, de los créditos que estén señalados en los Reglamentos.
 
 ###### ARTICULO 801.
 
 En cada Unidad Burocrática se expedirá un Reglamento de Escalafón de acuerdo con las bases que establece este Código.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 802.
 
 Las vacantes se otorgarán invariablemente a los trabajadores que acrediten mayores derechos en la valorización y calificación de los factores escalafonarios.
 
-En Educación las vacantes que quedaren en cualquier rama, pueden ser cubiertas por el trabajador de la educación que acredite mayor puntuación en el concurso relativo. En las vacantes de enseñanza media solamente podrán ascender los que acrediten título o pasantía de Normal Superior. En las vacantes de educación especial solamente podrán ascender los que acrediten título en la especialidad.
+En educación las vacantes que quedaren en cualquier rama, serán cubiertas por el trabajador de la educación que acredite mayor puntuación en el concurso relativo. En las vacantes de enseñanza media solamente podrán ascender los que acrediten título o pasantía de Normal Superior. En las vacantes de educación especial solamente podrán ascender los que acrediten título en la especialidad o pasantía.
 
-En la vacante de Director de la Escuela Normal del Estado se requerirá título de Normal Superior y ser Subdirector de la misma; en las vacantes de Subdirectores, tener título de Normal Superior y haber sido profesor de dicha Escuela cuando menos los últimos cinco años.
+Las vacantes de enseñanza superior, Escuela Normal del Estado, serán cubiertas por maestro titulado o pasante de Normal Superior, que tenga un mínimo de antigüedad de 5 años en el nivel de enseñanza media y que haya trabajado en el nivel pre-escolar o primario en escuelas estatales oficiales. En la Escuela de Trabajo Social, se requerirá título o pasantía de Trabajador Social, o título de Normal Superior o pasantía y que se encuentre laborando en el nivel de enseñanza media con una antigüedad mínima de 5 años en escuelas estatales oficiales.
 
-Las vacantes de enseñanza superior o sea profesional, serán cubiertas por maestro titulado o pasante de Normal Superior.
+En la vacante de Director de la Escuela Normal del Estado se requerirá título de Normal Superior y ser subdirector de la misma; en las vacantes de subdirectores, tener título de Normal Superior y haber sido profesor de dicha escuela cuando menos los últimos 5 años.
 
-El maestro con puesto de base de horario completo no podrá concursar para obtener horas adicionales, ya sea en su rama o en cualquier otra, entre tanto existan maestros de su misma categoría o de la otra que no disfruten de horario completo.
+En la vacante de Director de la Escuela de Trabajo Social del Estado, se requerirá título de Normal Superior si el concursante es maestro; título de trabajador social si el aspirante es trabajador social y en ambos casos haber sido subdirector de la misma. En las vacantes de subdirectores, tener título de Normal Superior si el aspirante es maestro, título de trabajador social si el aspirante tiene tal profesión y en ambos casos haber sido profesor de dicha escuela cuando menos los últimos 5 años.
 
-El maestro que concursare y obtuviere un ascenso, no podrá conservar el puesto u horas clase que desempeñaba antes de concursar, cuyos puestos u horas quedarán vacantes, obteniendo únicamente el nuevo empleo sin que ello signifique la privación del derecho de poder obtener posteriormente horas adicionales compatibles. El maestro que tuviere puesto base en una rama y desempeñare puesto u horas en otra, podrá concursar hasta obtener el tiempo completo en la plaza de ascenso; pero el puesto y horas que desempeñaba antes de concursar quedarán vacantes.
+Para los efectos de este artículo, el interesado se ajustará a las normas del Reglamento de Compatibilidades.
 
-Para todos los efectos, el pasante dentro del año siguiente a la conclusión de sus estudios profesionales, tendrá los mismos derechos que el titulado.
+El pasante tendrá los mismos derechos que el titulado para concursar.
 
 ###### ARTICULO 803.
 
@@ -6411,9 +6417,13 @@ En cada Unidad Burocrática funcionará una Comisión Mixta de Escalafón, integ
 
 Si no hay acuerdo, la designación será hecha por el Tribunal de Arbitraje, quien resolverá en un plazo que no exceda de diez días y de una lista de cuatro candidatos que las partes en conflicto le propongan.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 806.
 
-El Ejecutivo del Estado proporcionará a la Comisión Mixta de Escalafón los medios administrativos y materiales que se requieran para su eficaz funcionamiento.
+El Ejecutivo del Estado expedirá los reglamentos escalafonarios y de compatibilidades y en los primeros definirá órganos y procedimientos para impugnar las resoluciones de las Comisiones Mixtas de Escalafón.
+
+El Ejecutivo proporcionará a las Comisiones Mixtas de Escalafón, los medios que requieran para su eficaz funcionamiento.
 
 ###### ARTICULO 807.
 
@@ -6449,13 +6459,17 @@ Cuando se trate de vacantes temporales que no excedan de seis meses, no se corre
 
 Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escalafón, pero los trabajadores ascendidos serán nombrados en todo caso con el carácter de provisionales, de tal modo que, si el que disfruta de la licencia reingresase al servicio, automáticamente se correrá en forma inversa el escalafón y el trabajador interino de la última categoría correspondiente dejará de prestar sus servicios sin responsabilidad para el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 814.
 
-Las vacantes temporales mayores de seis meses que se originen por licencias con o sin goce de sueldo, otorgadas a un trabajador de base para desempeñar puestos de confianza no compatibles, comisiones sindicales o cargos de elección popular, no se considerarán como interrupción en el servicio.
+Las vacantes temporales que se originen por licencias con o sin goce de sueldo otorgadas a un trabajador de base, para desempeñar puestos de confianza, comisiones sindicales o cargos de elección popular, no se considerarán como interrupción en el servicio.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 815.
 
-Los procedimientos para resolver las permutas de empleos, así como las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, serán previstos en el reglamento respectivo.
+Los procedimientos para resolver las permutas y cambios de adscripción, así como las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, serán previstos en el Reglamento respectivo.
 
 ## TITULO CUARTO. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES, COORDINACION DE SERVICIOS, REVALIDACION DE ESTUDIOS
 
@@ -10503,9 +10517,9 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -10525,7 +10539,7 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10597,9 +10611,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1460.
 
@@ -10675,7 +10689,7 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10965,13 +10979,13 @@ VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afect
 
 VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11099,7 +11113,7 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11113,11 +11127,9 @@ Para los efectos de este Título se entiende por estructura vial y sistema de tr
 
 En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1504.
 
@@ -11213,9 +11225,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11257,7 +11269,7 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
@@ -11303,9 +11315,13 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11349,7 +11365,9 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION QUINTA. DE LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1529.
 
@@ -11399,7 +11417,7 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
@@ -11519,11 +11537,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
-
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 # LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -12580,3 +12594,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 25 DE AGOSTO DE 1979.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de la Entidad.
+
+P.O. 3 DE NOVIEMBRE DE 1979.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
