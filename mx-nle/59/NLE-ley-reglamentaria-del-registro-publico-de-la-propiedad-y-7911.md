@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-del-registro-publico-de-la-propiedad-y-7911"
 country: "mx"
 rank: "ley"
 publication_date: "1972-01-22"
-last_updated: "1972-01-22"
+last_updated: "1982-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 22 de enero de 1972.
 
@@ -77,13 +77,19 @@ X.- Vigilar el cumplimiento por parte de los Registradores, de las disposiciones
 
 XI.- Las demás que señale la Ley.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1982)</small>
+
 ###### ARTICULO 5o.
 
-Las Oficinas del Registro Público estarán a cargo de un Registrador Público de la Propiedad y del Comercio, que tendrá jurisdicción en todos los Municipios que integren su Distrito, salvo lo dispuesto en el artículo siguiente.
+Las Oficinas del Registro Público de los Distritos a que esta Ley se refiere, estarán a cargo de uno o varios Registradores Públicos de la Propiedad y del Comercio, según lo requieran las necesidades del servicio.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1982)</small>
 
 ###### ARTICULO 6o.
 
-En el Primer Distrito habrá además del Registrador Público de la Propiedad y del Comercio, que tendrá jurisdicción en el Municipio de Monterrey, otro Registrador Público de la Propiedad, que manejará todo lo correspondiente al registro de la propiedad de los quince Municipios restantes de dicho distrito.
+Los Registradores a que se refiere el artículo anterior, tendrán jurisdicción en todos los Municipios que integran su Distrito. Cuando sean dos o más los Registradores, se numerarán progresivamente y desempeñarán las actividades que a cada uno le asigne la Dirección General del Registro Público.
+
+En el caso del primer Distrito, el número de Registradores Públicos de la Propiedad y del Comercio nunca será menor de tres.
 
 ###### ARTICULO 7o.
 
@@ -125,9 +131,11 @@ Se considera como empleados de confianza, al Director General y a los Registrado
 
 ### CAPITULO III. DE LAS FALTAS E IMPEDIMENTOS
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1982)</small>
+
 ###### ARTICULO 10o.
 
-Las faltas e impedimentos del Director General del Registro, se suplirán por el Registrador Público de la Propiedad y del Comercio del primer Distrito. Dicho Registrador y el de la Propiedad del mismo Distrito, se suplirán recíprocamente y cuando ambos falten o estén impedidos, los substituirá el Director General. En los demás Distritos el Registrador será suplido por el Secretario de mayor categoría y donde no exista Secretario, hará las veces el Alcalde Segundo Judicial del Municipio asiento del Distrito, estarán impedidos para litigar, salvo que se trate de negocios propios, de ascendientes, descendientes o del cónyuge.
+Las faltas o impedimentos del Director General del Registro y las del Registrador último en número del Primer Distrito, se suplirán por el Primer Registrador. Las de éste por el que le siga en número y así sucesivamente. Cuando todos los Registradores falten o estén impedidos, serán suplidos por el Director General. En los demás Distritos, cuando haya varios registradores, las faltas o impedimentos se suplirán en orden numérico. Cuando la falta o impedimento sea de todos, se suplirá por la persona que designe expresamente y por escrito la Dirección General del Registro Público. Este último se observará también cuando sólo exista un Registrador.
 
 ### CAPITULO IV. DE LOS LIBROS DEL REGISTRO
 
@@ -564,3 +572,9 @@ LIC. LUIS M. FARIAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO SUAREZ LUNA
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 23 DE JUNIO DE 1982.
+
+UNICO:- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
