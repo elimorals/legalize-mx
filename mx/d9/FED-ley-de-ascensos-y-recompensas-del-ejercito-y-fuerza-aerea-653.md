@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1980-01-15"
+last_updated: "1980-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -147,15 +147,17 @@ En igualdad de competencia profesional determinada por las puntuaciones obtenida
 
 Para participar en los concursos de selección, los oficiales deberán satisfacer los requisitos siguientes:
 
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1980)</small>
+
 I.- Tener como mínimo el tiempo de servicios que a continuación se expresa:
 
-Subtenientes: 5 años.
+Subtenientes: 6 años.
 
 Tenientes: 9 años.
 
-Capitanes 2os. 12 años.
+Capitanes 2os.: 12 años.
 
-Capitanes 1os. 15 años.
+Capitanes 1os.: 15 años.
 
 II.- Tener como mínimo en el grado que ostenten, la antigüedad siguiente:
 
@@ -237,29 +239,37 @@ VI.- Acreditar buena conducta militar y civil.
 
 VII.- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 16.
 
-Los Subtenientes egresados de las Escuelas o Cursos de Formación de Oficiales, podrán ser ascendidos al grado de tenientes fuera de concurso al cumplir dos años de antigüedad en el grado, siempre que reúnan además los siguientes requisitos:
+Los Subtenientes egresados de las Escuelas o Cursos de Formación de Oficiales, podrán ser ascendidos al grado de Tenientes fuera de concurso al cumplir tres o dos años de antigüedad en el grado, según hayan realizado estudios conforme a programas de tres o cuatro años, respectivamente, siempre que reúnan además los siguientes requisitos:
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 I.- Haber servido durante ese lapso precisamente en las unidades del activo en cuarteles ejerciendo el mando; o en unidades de vuelo de la Fuerza Aérea, si se trata de pilotos aviadores; tratándose de oficiales de Servicio, en los Servicios orgánicos de las unidades del activo en cuarteles o unidades de la Fuerza Aérea y en aquellos Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 II.- El personal femenino, en los diversos escalones de su Servicio, desempeñando actividades militares propias de su especialidad.
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 III.- Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior.
 
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 IV.- Aprobar la prueba práctica de mando los oficiales de las Armas y Pilotos Aviadores; y de mando y práctica de su especialidad, los de Servicio.
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 V.- Acreditar buena conducta militar y civil.
 
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 VI.- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
-> <small>(F. DE E., D.O.F. 8 DE MARZO DE 1976)</small>
-
-VII.- Los Subtenientes que por no haber reunido cualesquiera de los requisitos señalados, no asciendan, podrán participar en la promoción especial del año siguiente, por una sola vez y siempre que reúnan los ya mencionados requisitos.
-
-Los subtenientes egresados de Escuelas de Formación de Oficiales que hayan realizado sus estudios conforme a programas de cuatro años, podrán ascender en los términos señalados en este artículo al cumplir un año de antigüedad en el grado.
+VII.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1980).
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
@@ -732,3 +742,13 @@ D.O.F. 15 DE ENERO DE 1980.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 Artículo Segundo.- Para el año de 1980, la aplicación quedará sujeta a las posibilidades presupuestales.
+
+D.O.F. 24 DE DICIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO.
+
+El personal que egrese de las Escuelas de Formación de Oficiales en el año de 1980, quedará sujeto a las prescripciones anteriores a estas reformas.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se opongan al mismo.
