@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2002-02-12"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -1749,7 +1749,9 @@ XII. Recibir las solicitudes de registros de candidatos que competan al Consejo 
 
 XIII. Promover y coordinar la capacitación de los funcionarios electorales, así como de los observadores electorales y proponer al Consejo Electoral la organización administrativa de sus órganos;
 
-XIV. Recibir y substanciar los recursos administrativos que se interpongan contra actos o acuerdos que dicte el Consejo Electoral y, en caso de recursos jurisdiccionales, remitir al Tribunal Electoral las demandas de juicio de inconformidad y los recursos de apelación que se presenten ante el organismo electoral;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+XIV. Recibir y substanciar los recursos administrativos que se interpongan contra actos o acuerdos que dicte el Consejo Electoral y, en caso de medios de impugnación jurisdiccionales, remitirlos al Tribunal Electoral;
 
 XV. Integrar los expedientes con la documentación que se requiera, a fin de que el Consejo Electoral del Estado realice los cómputos y haga las asignaciones a que se refieren el presente ordenamiento y, en su caso, remitirlos a los órganos correspondientes;
 
@@ -1759,7 +1761,9 @@ XVII. Expedir y entregar sin dilación alguna, copia certificada de registros, n
 
 XVIII. Firmar, junto con el Presidente del Consejo, todos los acuerdos y resoluciones que éste emita;
 
-XIX. Solicitar al Tribunal Electoral, la expedición de copias certificadas de los expedientes que se integren con motivo de los juicios de inconformidad y los recursos de reconsideración y apelación;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+XIX. Solicitar al Tribunal Electoral, la expedición de copias certificadas de los expedientes que se integren con motivo de los medios de impugnación jurisdiccionales interpuestos;
 
 XX. Encargarse del despacho de la Presidencia del Consejo Electoral del Estado, en los casos de ausencias temporales previstas en esta ley; y
 
@@ -1977,7 +1981,9 @@ IV. Recibir los escritos del recurso de revisión que se hagan valer en contra d
 
 V. Realizar el cómputo de votación de la elección de munícipes y remitirlo al Consejo Electoral del Estado para su calificación;
 
-VI. Recibir los escritos de demanda de juicio de inconformidad en contra del cómputo municipal y turnarlo al Tribunal;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+VI. Recibir los escritos de demanda de juicio de inconformidad en contra del cómputo municipal y turnarlo al Tribunal Electoral en un plazo máximo de veinticuatro horas;
 
 VII. Designar, a propuesta del Comisionado Presidente, al Secretario de la propia Comisión Municipal Electoral;
 
@@ -2009,7 +2015,9 @@ IX. Vigilar el cumplimiento de las resoluciones que dicte la Comisión Distrital
 
 X. Proponer, en el caso de que mediante el procedimiento de insaculación no se hubiesen integrado la totalidad de las mesas directivas de casilla, a los ciudadanos que deberán fungir como presidentes, secretarios o escrutadores;
 
-XI. Remitir las demandas de juicio de inconformidad al Tribunal Electoral del Estado;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+XI. Remitir las demandas de juicio de inconformidad al Tribunal Electoral del Estado en un plazo máximo de veinticuatro horas;
 
 XII. Proponer a la Comisión Distrital Electoral, al ciudadano que fungirá como Secretario de la propia Comisión; y
 
@@ -2345,7 +2353,9 @@ En las oficinas del Registro Estatal de Electores existirán a disposición de l
 
 La oficina ante la que se haya solicitado la expedición de credencial o la rectificación, resolverá sobre la procedencia o improcedencia de la misma dentro de un plazo de veinte días naturales.
 
-La resolución que declare improcedente la solicitud de expedición de credencial, de rectificación, o la falta de respuesta en tiempo, será recurrible ante el Tribunal Electoral. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del Registro Estatal de Electores y en el propio Tribunal Electoral, los formatos necesarios para la interposición del recurso respectivo.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+La resolución que declare improcedente la solicitud de expedición de credencial, de rectificación, o la falta de respuesta en tiempo, será recurrible en los términos señalados en esta Ley. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del Registro Estatal de Electores y en el propio Tribunal Electoral, los formatos necesarios para la interposición del recurso respectivo.
 
 La resolución recaída a la solicitud de expedición de credencial o de rectificación, será notificada personalmente al ciudadano si éste comparece ante la oficina responsable de la inscripción o, en su caso, por telegrama o correo certificado.
 
@@ -2399,7 +2409,9 @@ Durante el plazo establecido en el párrafo anterior, los partidos políticos po
 
 La Dirección del Registro Estatal de Electores examinará las observaciones de los partidos políticos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar, informando de las mismas al Comité Estatal de Vigilancia y al Consejo Electoral del Estado a más tardar el día 30 de agosto.
 
-Los partidos políticos podrán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior. En el recurso que se interponga se deberá acreditar que se hicieron valer en tiempo y forma las observaciones a que se refiere el párrafo segundo de este artículo, señalándose hechos y casos concretos e individualizados, mismos que deben estar comprendidos en las observaciones originalmente formuladas. De no cumplirse con dichos requisitos, independientemente de los demás que señale la legislación aplicable, el recurso será desechado por notoriamente improcedente.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+Los partidos políticos podrán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior. En el recurso de Apelación que se interponga se deberá acreditar que se hicieron valer en tiempo y forma las observaciones a que se refiere el párrafo segundo de este artículo, señalándose hechos y casos concretos e individualizados, mismos que deben estar comprendidos en las observaciones originalmente formuladas. De no cumplirse con dichos requisitos, independientemente de los demás que señale la legislación aplicable, el recurso será desechado por notoriamente improcedente.
 
 ###### Artículo 201.
 
@@ -2731,11 +2743,35 @@ VI. El Consejo Electoral del Estado deberá contestar dentro de los diez días h
 
 VII. Se celebrará una audiencia de conciliación, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes al en que se reciba la contestación del Consejo Electoral del Estado;
 
-VIII. La Sala competente del Tribunal Electoral determinará libremente la admisión de las pruebas y su desahogo y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
 
-IX. La Sala competente del Tribunal, resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. En este caso, la Sala podrá sancionar en privado si la índole del conflicto planteado así lo amerita. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
+VIII. El Tribunal Electoral en Pleno o en su caso Sala Permanente determinará libremente la admisión de las pruebas y su desahogo y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
 
-X. Los efectos de la resolución del Tribunal, podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnado en forma definitiva. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Consejo Electoral del Estado, éste último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+IX. El Tribunal Electoral o la Sala Permanente, resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. En este caso, la Sala podrá sancionar en privado si la índole del conflicto planteado así lo amerita. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por cédula, que se publicará en los estrados; y
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+X. Los efectos del laudo del Tribunal o en su caso de la Sala Permanente, podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnado en forma definitiva. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Consejo Electoral del Estado, éste último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+XI. Lo no previsto en la ley y en el presente ordenamiento, se aplicará supletoriamente y en forma jerárquica:
+
+a. Los principios generales de justicia social que derivan del artículo 123 de la Constitución General de la República;
+
+b. La Ley de Servidores Públicos para el Estado de Jalisco y sus Municipios;
+
+c. La Ley Federal del Trabajo Burocrático;
+
+d. La Ley Federal del Trabajo;
+
+e. La jurisprudencia;
+
+f. La costumbre; y
+
+g. La equidad.
 
 ## Título Séptimo. Actos Preparatorios de las Elecciones
 
@@ -3775,7 +3811,9 @@ III. Formulará el acta respectiva haciendo constar el resultado de dicho cómpu
 
 IV. Una vez efectuado el cómputo general de los votos emitidos en la elección de Gobernador, el Consejo Electoral del Estado expedirá la constancia respectiva al candidato que hubiese obtenido mayoría de votos; y
 
-V. Hecho lo anterior, de presentarse un juicio de inconformidad, se remitirá el acta, así como los documentos relacionados con el cómputo, al Tribunal Electoral para que en los términos de esta ley y de la Ley Orgánica del Poder Judicial se proceda a la substanciación de los recursos, que en su caso se hubieren interpuesto.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+V. Hecho lo anterior, de presentarse algún juicio de inconformidad, se remitirá el acta señalada en la fracción III y todos los documentos relacionados con el medio de impugnación al Tribunal Electoral, para que en los términos de esta Ley y de la Ley Orgánica del Poder Judicial se proceda a su substanciación.
 
 ### Capítulo I. De la Calificación de la Elección de Diputados
 
@@ -4045,9 +4083,11 @@ El Consejo Electoral del Estado o las comisiones distritales cuando adviertan po
 
 En el caso de la nulidad de la votación de una o más casillas, se descontará la votación anulada de la votación distrital para la elección de diputados por ambos principios, para Gobernador del Estado, así como para la elección de Presidente, Vicepresidente y regidores de los ayuntamientos de la entidad, para obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 356 de esta ley.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 360.
 
-Los efectos de las nulidades declaradas por las salas de primera instancia y la sala superior del Tribunal Electoral del Estado, respecto de la votación emitida en una casilla o de una elección en un distrito electoral uninominal, municipio o en una circunscripción plurinominal en todo caso, se contraen exclusivamente a la votación o elección para la que, expresamente, se haya hecho valer el medio de impugnación correspondiente.
+Los efectos de las nulidades declaradas por el Tribunal Electoral del Estado, respecto de la votación emitida en una casilla o de una elección en un distrito electoral uninominal, municipio o en una circunscripción plurinominal en todo caso, se contraen exclusivamente a la votación o elección para la que, expresamente, se haya hecho valer el medio de impugnación correspondiente.
 
 ###### Artículo 361.
 
@@ -4101,7 +4141,11 @@ En las oficinas del Registro Estatal de Electores, existirán a disposición de 
 
 La Oficina ante la que se haya solicitado la rectificación o en su caso, la expedición de la credencial para votar con fotografía resolverá sobre la procedencia o improcedencia de la misma dentro de un plazo de diez días.
 
-La resolución que declare improcedente la solicitud de expedición de credencial para votar con fotografía, la rectificación, o la falta de respuesta en tiempo, serán recurribles mediante el recurso de aclaración ante la Dirección del Registro Estatal de Electores. Para tal efecto, los ciudadanos interesados tendrán a su disposición, en dichas oficinas, los formatos necesarios para la interposición del recurso citado.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+La resolución que declare improcedente la solicitud de expedición de credencial para votar con fotografía, la rectificación, o la falta de respuesta en tiempo, serán recurribles mediante el recurso de aclaración ante la Dirección del Registro Estatal de Electores. Para tal efecto, los ciudadanos interesados tendrán a su disposición, en dichas oficinas, los formatos necesarios para la interposición del recurso citado. En el supuesto de que esta resolución sea contraria a los intereses del ciudadano, podrá recurrirla mediante el recurso de apelación.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 La resolución recaída a la solicitud de expedición de credencial o de rectificación, será notificada personalmente al ciudadano si comparece ante la oficina responsable de la inscripción, en caso contrario, será notificada por telegrama o correo certificado.
 
@@ -4139,17 +4183,23 @@ Los organismos electorales ante quienes se presente el recurso, lo deberán remi
 
 El Consejo Electoral del Estado, una vez integrado el expediente, con base en las constancias respectivas, dictará la resolución correspondiente a más tardar en los siguientes cinco días de su recepción.
 
-Todos los recursos de revisión interpuestos dentro de los cinco días anteriores a la jornada electoral, serán enviados a la Sala competente del Tribunal, para que sean resueltos con los juicios de Inconformidad con los que guarden relación. El recurrente deberá señalar la causa de conexidad con el juicio de Inconformidad.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+Todos los recursos de revisión interpuestos dentro de los cinco días anteriores a la jornada electoral, serán enviados al Tribunal Electoral, para que sean resueltos con los juicios de inconformidad con los que guarden relación. El recurrente deberá señalar la causa de conexidad con el juicio de inconformidad.
 
 Cuando los recursos a que se refiere el párrafo anterior no guarden relación con algún juicio de inconformidad, serán archivados como asuntos definitivamente concluidos.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 #### Sección Primera. De la Substanciación
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 372.
 
-Para la substanciación de los recursos administrativos previstos en esta ley, el Consejo Electoral del Estado y sus organismos, así como las delegaciones municipales o distritales del Registro Estatal de Electores, deberán hacer llegar al Consejo Electoral o a la Dirección del Registro Estatal de Electores, los escritos en los que se hayan promovido dichos recursos, adjuntando copia del acta o de la resolución combatida, el informe relativo, las pruebas aportadas y todos los demás elementos que se estimen necesarios para dictar la resolución correspondiente.
+Para la substanciación de los recursos administrativos previstos en esta ley, el Consejo Electoral del Estado y sus organismos, así como las delegaciones municipales o distritales del Registro Estatal de Electores, deberán hacer llegar al Consejo Electoral o a la Dirección del Registro Estatal de Electores, los escritos en los que se hayan promovido dichos recursos, adjuntando copia del acta o de la resolución combatida, el informe circunstanciado, las pruebas aportadas y todos los demás elementos que se estimen necesarios para dictar la resolución correspondiente.
 
 #### Sección Segunda. De los Requisitos
 
@@ -4209,9 +4259,11 @@ Son objeto de prueba los hechos controvertibles. No lo será el derecho, los hec
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación implique la afirmación expresa de un hecho.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 378.
 
-Las documentales privadas, presuncionales y técnicas, sólo harán prueba plena cuando, a juicio del Consejo Electoral del Estado, de la Dirección del Registro Estatal de Electores o las salas de primera y segunda instancia del Tribunal Electoral, junto con los demás elementos que obren en el expediente, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
+Las documentales privadas, presuncionales y técnicas, sólo harán prueba plena cuando, a juicio del Consejo Electoral del Estado o en su caso de la Sala Permanente, de la Dirección del Registro Estatal de Electores o del Tribunal Electoral, junto con los demás elementos que obren en el expediente, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
 ###### Artículo 379.
 
@@ -4243,15 +4295,19 @@ b) Cuando la autoridad electoral haya modificado o revocado el acto o la resoluc
 
 c) Por el desistimiento del promovente.
 
-#### Sección Sexta. De la Suplencia de la Queja
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2002)</small>
+
+#### Sección Sexta. De la Suplencia en la deficiente expresión de agravios
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 381.
 
-Las autoridades que resuelvan un recurso, deberán suplir la deficiencia de la queja en los siguientes supuestos:
+Las autoridades que resuelvan un medio de impugnación, deberán suplir la deficiente expresión de agravios en los siguientes supuestos:
 
-I. Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, podrá resolverse el recurso tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto, siempre y cuando la relación de hechos sea precisa; y
+I. Cuando habiendo señalado agravios exista deficiencia en la expresión de los mismos, o cuando éstos no se mencionen pero puedan ser deducidos claramente de los hechos expuestos en el escrito inicial, deberá resolverse con los elementos que obren en el expediente; y
 
-II. Cuando habiendo señalado agravios exista deficiencia en la argumentación de los mismos, o cuando éstos no se mencionen de manera expresa pero puedan ser deducidos claramente de los hechos expuestos en el recurso, deberá resolverse con los elementos que obren en el expediente.
+II. Cuando omita señalar en su escrito los preceptos presuntamente violados o los cite de manera equivocada, podrá resolverse el medio de impugnación tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto, siempre que la relación de hechos sea precisa.
 
 #### Sección Séptima. De la Acumulación
 
@@ -4295,45 +4351,59 @@ VII. En su caso el plazo para su cumplimiento.
 
 #### Sección Décima. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 385.
 
-Las resoluciones que dicten el Consejo Electoral del Estado o el Registro Estatal de Electores se notificarán en la forma siguiente;
+Las resoluciones que dicten el Consejo Electoral del Estado o el Registro Estatal de Electores se notificarán en la forma siguiente:
 
 I. A los organismos electorales o dependencias que dictaron los actos o resoluciones combatidas, mediante oficio, en un plazo de cuarenta y ocho horas;
 
 II. A los partidos políticos, coaliciones, sus candidatos y agrupaciones solicitantes, personalmente en un plazo no mayor de las cuarenta y ocho horas; y
 
-III. A los demás recurrentes, por lista que se fijará en lugar visible, dentro de las cuarenta y ocho horas de pronunciada la resolución.
+III. A los demás recurrentes, por cédula que se fijará en los estrados, dentro de las cuarenta y ocho horas de pronunciada la resolución.
 
 ## Título Décimo Cuarto. De los Medios Procesales de Impugnación
 
 ### Capítulo II. Del Juicio de Inconformidad
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 386.
 
-La inconformidad y el recurso de reconsideración, se substanciarán y resolverán con arreglo al procedimiento que determina esta ley.
+El juicio de inconformidad y el recurso de apelación se substanciarán y resolverán con arreglo al procedimiento que determina esta ley.
 
-Compete a las salas de primera instancia del Tribunal Electoral, conocer del juicio de inconformidad y a la Sala Superior le corresponde tramitar y resolver el recurso de reconsideración.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 387.
 
-Interpuesta la demanda de inconformidad o el recurso de reconsideración, en todos los casos las salas competentes del tribunal dictarán las resoluciones que procedan.
+Interpuesta la demanda de inconformidad o el recurso de apelación, el Tribunal Electoral o en su caso la Sala Permanente dictarán las resoluciones que procedan.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 388.
 
-El Secretario General de Acuerdos del Tribunal, dentro de las veinticuatro horas siguientes a la presentación del medio de impugnación, procederá al examen y, en su caso, a la admisión y lo turnará al Magistrado que corresponda para que formule el proyecto de resolución. Si al examinarlo se advierte causa notoria de improcedencia, se desechará de plano.
+Recibida la demanda el Presidente del Tribunal Electoral remitirá de inmediato el expediente al Magistrado que corresponda, quien procederá al examen y a la admisión de la misma, y en su oportunidad procederá a formular el proyecto de resolución.
+
+Si al examinarlo se advierte causa notoria de improcedencia, se desechará de plano.
 
 En ningún caso la interposición del medio de impugnación suspenderá los efectos ni la ejecución de los actos o resoluciones combatidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 389.
 
-Las resoluciones dictadas por las salas de primera instancia y la Sala Superior del Tribunal, deberán notificarse dentro de las veinticuatro horas siguientes de pronunciadas y se asentará la razón respectiva a continuación de la misma resolución. Las notificaciones se harán:
+Las resoluciones dictadas por el Tribunal Electoral o la Sala Permanente en su caso, deberán notificarse dentro de las veinticuatro horas siguientes de pronunciadas y se asentará la razón respectiva a continuación de la misma resolución. Las notificaciones se harán:
 
-I. A las autoridades electorales por oficio; por vía telegráfica o por correo certificado con acuse de recibo; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+I. A las autoridades electorales por oficio, por correo certificado, o por cualquier otro medio de comunicación que se considere idóneo siempre que exista la posibilidad de recabar constancia indubitable de la notificación; y
 
 II. A las demás partes por lista que se fijará en lugar visible.
 
-La notificación contendrá el nombre de la parte a quien se notifica, tipo de acuerdo o resolución y fecha del mismo asentándose en autos esta razón.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+En ambos casos deberá acompañarse o fijarse la cédula respectiva, la que contendrá por lo menos, el nombre de la parte a quien se notifica, tipo de acuerdo o resolución y fecha del mismo, asentándose en autos el cumplimiento de esta disposición.
 
 Las notificaciones surtirán sus efectos al día siguiente de haber sido practicadas.
 
@@ -4345,53 +4415,65 @@ Para la valoración de las pruebas se estará a las reglas previstas para la res
 
 En el caso de la tramitación del juicio de inconformidad, solamente podrán aceptarse pruebas supervenientes para acreditar que el candidato o candidatos no son de nacionalidad mexicana o no están en pleno goce de sus derechos civiles o políticos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 391.
 
-Los partidos políticos o coaliciones podrán presentar al Tribunal Electoral una relación de sus diversos consejeros o comisionados representantes ante el Consejo Electoral y sus respectivos órganos, con el objeto de tener por acreditada la personería de éstos cuando comparezcan a la interposición y trámite de la inconformidad o el recurso de reconsideración.
+Los partidos políticos o coaliciones podrán presentar al Tribunal Electoral una relación de sus diversos consejeros o comisionados representantes ante el Consejo Electoral y sus respectivos órganos, con el objeto de tener por acreditada la personería de éstos cuando comparezcan a la interposición y trámite del juicio de inconformidad.
 
 Con la relación descrita en el párrafo anterior, deberá adjuntarse el documento o constancia que acredite el reconocimiento del carácter de dichos representantes.
 
 De presentarse discrepancia entre el representante o representantes reconocidos por el Consejo Electoral y sus órganos, con los relacionados ante el Tribunal, prevalecerán los que como tales acepte el organismo electoral.
 
-En todo caso, cuando el partido político o coalición no hubiere registrado listas ante el Tribunal, el representante que promueva la demanda de inconformidad o el recurso de reconsideración, deberá acreditar la personalidad con que promueve en el escrito respectivo.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+En todo caso, cuando el partido político o coalición no hubiere registrado listas ante el Tribunal, el representante que promueva la demanda de inconformidad deberá acreditar la personalidad con que promueve en el escrito respectivo.
 
 ### Capítulo III. Del Recurso de Reconsideración
 
 ###### Artículo 392.
 
-El juicio de inconformidad sólo se podrá promover por los candidatos, partidos políticos o coaliciones, por conducto de sus dirigentes o representantes legales acreditados ante el órgano electoral responsable, en contra de:
+El juicio de inconformidad se podrá promover por los candidatos, partidos políticos o coaliciones, por conducto de sus dirigentes o representantes legales acreditados ante el órgano electoral responsable, en contra de:
 
-I. Los resultados consignados en las actas de cómputo municipal, distrital para diputados por el principio de mayoría relativa o estatal en el supuesto de la elección de diputados electos por el principio de representación proporcional así como de la elección de Gobernador; y
+I. Los resultados consignados en las actas de cómputo municipal, distrital para diputados por el principio de mayoría relativa o estatal en el supuesto de la elección de diputados electos por el principio de representación proporcional así como de los resultados asentados en el acta del cómputo general que realiza el Consejo Electoral del Estado en elección de Gobernador;
 
-II. La expedición o en su caso la negativa de expedición de las constancias de mayoría.
+II. Las determinaciones sobre la declaración de validez de la elección y la expedición de la constancia de mayoría; o contra la negativa de expedición de las constancias de mayoría en las elecciones de Diputados o regidores;
+
+III. La asignación que realice el Consejo Electoral del Estado de diputados de representación proporcional que realice el Consejo Electoral del estado;
+
+IV. La asignación que realice el Consejo Electoral del Estado de munícipes por el principio de representación proporcional que realice el Consejo Electoral del estado.
 
 Las causas de nulidad previstas en esta ley, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados señalados.
 
 #### Sección Primera. De la Substanciación
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 393.
 
 La demanda de inconformidad se presentará por escrito ante el Consejo Electoral del Estado o ante sus respectivos órganos que hayan dictado la resolución o el acto impugnado, dentro de cuatro días contados a partir del momento en que surta efecto la notificación en los términos de esta ley. El Consejo deberá remitir la demanda al Tribunal en un plazo máximo de veinticuatro horas.
 
+Una vez recibido el medio de impugnación, se hará del conocimiento de los partidos, coaliciones, candidatos y el público en general, mediante cédula que se fijará en los estrados del Tribunal.
+
 #### Sección Segunda. De la Improcedencia
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 394.
 
 La demanda de inconformidad será improcedente:
 
-I. Si no se presenta en tiempo y forma el escrito de protesta previsto en esta ley;
+I. Cuando no se interponga por escrito ante el Consejo Electoral, las comisiones distritales o municipales electorales correspondientes o ante el Tribunal Electoral;
 
-II. Cuando no se interponga por escrito ante el Consejo Electoral, las comisiones distritales o municipales electorales correspondientes o ante el Tribunal Electoral;
+II. Cuando se (sic) interpuesta por quien no tenga legitimación o interés jurídico;
 
-III. Cuando sea interpuesta por quien no tenga legitimación o interés jurídico;
+III. Si no está firmada autógrafamente;
 
-IV. Si no está firmada autógrafamente;
+IV. Cuando se haya presentado fuera de los plazos que señala la presente ley;
 
-V. Cuando se haya presentado fuera de los plazos que señala la presente ley;
+V. Cuando no se expresen agravios, teniendo en cuenta en este caso la disposición relativa a la suplencia en la deficiente expresión de agravios; y
 
-VI. Cuando no se expresen agravios conforme a lo dispuesto en las disposiciones relativas a la suplencia de la queja previstas por esta ley para los recursos administrativos; y
-
-VII. Se impugne más de una elección con un mismo recurso.
+VI. Se impugne más de una elección con un mismo recurso.
 
 #### Sección Tercera. De los Requisitos
 
@@ -4409,9 +4491,17 @@ III. La autoridad electoral que hubiese dictado el acto o resolución combatido;
 
 IV. La fecha y la hora en que fue notificada en los términos de ley la resolución o se tuvo conocimiento del acto combatido;
 
-V. Los hechos que dieron origen al acto o resolución que se impugna y la expresión de los agravios que se hayan causado. En el caso de que éstos se expresaren en forma deficiente, se estará a lo dispuesto para la suplencia de la queja en materia de recursos administrativos; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
 
-VI. La enumeración de las pruebas documentales que se ofrezcan, que serán las únicas admisibles, debiendo relacionarlas con cada uno de los agravios hechos valer, teniéndose en cuenta, para su admisión y valoración, las reglas establecidas en esta ley.
+V. Los hechos que dieron origen al acto o resolución que se impugna y la expresión de los agravios que se hayan causado. En el caso de que éstos se expresen en forma deficiente, se estará a los (sic) previsto por el artículos (sic) 381 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+VI. La enumeración de las pruebas documentales que se ofrezcan, que serán las únicas admisibles, debiendo relacionarlas con cada uno de los agravios hechos valer, teniéndose en cuenta, para su admisión y valoración, las reglas establecidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
+En el juicio de inconformidad, solamente pueden aceptarse pruebas supervenientes para acreditar que el candidato o candidatos no son de nacionalidad mexicana o no están en pleno goce de sus derechos civiles o políticos.
 
 Además de los requisitos señalados con antelación deberán cumplirse los siguientes:
 
@@ -4433,15 +4523,19 @@ II. Las pruebas documentales que ofrezca, las que podrán ser anunciadas cuando 
 
 De no cumplirse con lo señalado en la fracción precedente, no serán tomadas en consideración las documentales que se aporten extemporáneamente.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 397.
 
-En el caso de escritos de tercero interesado, se deberán satisfacer los requisitos señalados en los dos artículos que anteceden, debiéndose presentar dentro de las cuarenta y ocho horas siguientes a partir del momento que se fije en los estrados el turno correspondiente.
+En el caso de escritos de tercero interesado, se deberán satisfacer los requisitos señalados en los dos artículos que anteceden, debiéndose presentar dentro de las cuarenta y ocho horas siguientes a partir del momento que se fije en los estrados la cédula correspondiente, en los términos del artículo 393.
 
 #### Sección Cuarta. De las Prevenciones
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 398.
 
-El Secretario General de Acuerdos del Tribunal, cuando se omita alguno de los requisitos señalados en las fracciones I, III, IV y VI del artículo 395 de esta ley, requerirá al promovente para que las subsane en un plazo de cuarenta y ocho horas contadas a partir del momento en que surta sus efectos la notificación, apercibido que de no hacerlo se tendrá por no interpuesta la demanda.
+Cuando el Magistrado ponente advierta que se omite alguno de los requisitos señalados en las fracciones I, III, IV y VI del artículo 395 de esta ley, requerirá al promovente para que las subsane en un plazo de cuarenta y ocho horas contadas a partir del momento en que surta sus efectos la notificación, apercibido que de no hacerlo se tendrá por no interpuesta la demanda.
 
 #### Sección Quinta. De las Partes
 
@@ -4455,17 +4549,23 @@ II. La autoridad, que será el órgano electoral que realice el acto o dicte la 
 
 III. El tercero interesado, que serán los candidatos, el partido político o coalición que tenga interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 400.
 
-Los candidatos podrán participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
+Los candidatos podrán participar como terceros cuando el partido político que los registró, interponga un medio de impugnación o acuda a un juicio como tercero interesado, de conformidad con las reglas siguientes:
 
 I. Presentarán escritos en los que manifiesten lo que a su derecho convenga, pero no se tomarán en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el recurso o en el escrito que como tercer interesado haya presentado su partido;
 
 II. Los escritos podrán presentarse dentro de los plazos establecidos para la interposición de los recursos o, en su caso, para la presentación del escrito de los terceros interesados;
 
-III. Los escritos deberán ir acompañados del documento en el que conste el registro como candidato del partido político respectivo, el cual podrá recabar de su partido político o coalición, así como de la autoridad que conoció de su registro;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
 
-IV. Podrán ofrecer y aportar pruebas documentales dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en la inconformidad interpuesta o en el escrito presentado por su partido político; y
+III. Los escritos de terceros, deberán ir acompañados del documento en el que conste el registro como candidato del partido político respectivo, el cual podrá recabar de su partido político o coalición, así como de la autoridad que conoció de su registro;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+IV. Podrán ofrecer y aportar pruebas documentales dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en la inconformidad interpuesta, así como presentar alegatos que consideren procedentes dentro de las 48 horas siguientes, contadas a partir de la fijación de la cédula que refiere el artículo 393 de esta Ley o en el escrito presentado por su partido político; y
 
 V. Los escritos deberán estar firmados autógrafamente.
 
@@ -4493,15 +4593,23 @@ III. Confirmar, modificar o revocar los resultados consignados en las actas de c
 
 IV. Confirmar los resultados o en su caso hacer la corrección del cómputo de la circunscripción plurinominal de la elección de diputados por el principio de representación proporcional y de Gobernador del Estado, sólo en el caso de que, en los resultados consignados en el acta respectiva, cuando sean impugnados por error aritmético y éstos fueren determinantes para el resultado de tal elección;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2002)</small>
 
-V. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en esta ley y modificar en consecuencia, el acta de cómputo municipal para la elección de Presidente, Síndico y regidores;
+V. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en esta ley y modificar en consecuencia, el acta de cómputo municipal para la elección de Presidente, Síndicos y munícipes;
 
 VI. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en la presente ley y modificar en consecuencia, el acta de cómputo distrital para la elección de diputados por el principio de mayoría relativa así como el acta de cómputo del Consejo respecto de la elección de Gobernador del Estado;
 
 VII. Revocar la constancia de mayoría expedida por las comisiones distritales respectivas o, en su caso, por el Consejo Electoral del Estado, en favor de quien obtuvo la mayoría en la elección de Gobernador, de una planilla de candidatos a munícipes, de candidatos a diputados por ambos principios y otorgar a la planilla de candidatos, fórmula, o en su caso, lista de diputados, que resulte triunfadora como resultado de la anulación de la votación emitida en una o varias casillas, de un municipio, o en su caso, de una o varias casillas de varios distritos y modificar, en consecuencia, las actas de cómputo municipal o distrital; y
 
-VIII. Declarar la nulidad de la elección y revocar la constancia de mayoría expedida por las comisiones distritales correspondientes o por el Consejo Electoral del Estado, cuando se den los supuestos previstos en esta ley.
+VIII. Declarar la nulidad de la elección y revocar la constancia de mayoría expedida por las comisiones distritales correspondientes o por el Consejo Electoral del Estado, cuando se den los supuestos previstos en esta ley;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+IX. Confirmar, modificar o revocar la asignación de diputados o munícipes por el principio de representación proporcional, que realice el Consejo Electoral del Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2002)</small>
+
+X. Confirmar, modificar o revocar la constancia de mayoría de votos de la elección de gobernador.
 
 ### Capítulo IV. Del Recurso de Apelación
 
@@ -4509,123 +4617,65 @@ VIII. Declarar la nulidad de la elección y revocar la constancia de mayoría ex
 
 ###### Artículo 403.
 
-La Sala Superior del Tribunal será competente para conocer del recurso de reconsideración de acuerdo a lo previsto por esta ley.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 ###### Artículo 404.
 
-La reconsideración podrá hacerse valer por los candidatos, partidos políticos o coaliciones y por conducto de sus representantes acreditados.
-
-Son impugnables mediante la reconsideración:
-
-I. Las resoluciones de fondo de las salas de primera instancia del Tribunal, pronunciadas en la inconformidad, cuando se esgriman agravios en virtud de los cuales se pueda dictar una resolución por la cual sea posible modificar el resultado de una elección;
-
-II. La asignación de diputados por el principio de representación proporcional que realice el Consejo Electoral del Estado;
-
-III. La declaración de validez o el otorgamiento indebido de la constancia de mayoría respecto a una fórmula de candidatos o a una planilla distinta a la que originalmente la obtuvo;
-
-IV. Cuando se hayan dejado de tomar en cuenta causales de nulidad previstas por esta ley, que hubiesen sido invocadas y debidamente probadas, por las cuales se hubiere podido modificar el resultado de una elección;
-
-V. En el caso de que el Consejo Electoral del Estado haya asignado diputados por el principio de representación proporcional o regidores por ese mismo principio, sin tomar en cuenta las resoluciones que, en su caso, hubieran dictado las salas de primera instancia del Tribunal; o lo hubiere hecho contraviniendo las fórmulas establecidas para ello en esta ley; y
-
-VI. Cuando se haya anulado indebidamente una elección de munícipes, diputados de mayoría o la de Gobernador del Estado.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 #### Sección Segunda. De la Improcedencia
 
 ###### Artículo 405.
 
-El recurso de reconsideración será improcedente:
-
-I. Cuando no se hayan agotado previamente los medios de impugnación señalados en este ordenamiento;
-
-II. Cuando los agravios no estén debidamente fundados; no resulten determinantes para que se modifique el resultado de una elección; y
-
-III. En los demás casos que la misma resulte de una disposición de esta ley.
-
-En estos casos los magistrados de la Sala Superior del Tribunal lo desecharán de plano.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 #### Sección Tercera. De la Substanciación
 
 ###### Artículo 406.
 
-El recurso de reconsideración se presentará por escrito ante la Sala de Primera Instancia del Tribunal que haya dictado la resolución o el acto impugnado, dentro de los tres días contados a partir de la fecha en que surta efectos la notificación en los términos de esta ley. Interpuesto el recurso, la sala que lo reciba deberá remitirlo a la Sala Superior, en un plazo de veinticuatro horas.
-
-Una vez recibido este medio de impugnación, se hará del conocimiento público mediante cédula que se fijará en los estrados.
-
-Los terceros interesados únicamente podrán formular por escrito los alegatos que consideren pertinentes dentro de las cuarenta y ocho horas siguientes contadas a partir del momento de la fijación de la cédula. La sala respectiva turnará de inmediato dichos escritos a la sala de segunda instancia.
-
-El Magistrado Presidente, turnará inmediatamente la reconsideración interpuesta al magistrado ponente, para que elabore su proyecto de resolución.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 ###### Artículo 407.
 
-En la tramitación del recurso de reconsideración, no se aplicará la suplencia de la queja, ni se recibirá ninguna clase de pruebas. La sala de segunda instancia, tomará en consideración exclusivamente las pruebas que ya obren en el expediente.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 #### Sección Cuarta. De los Requisitos
 
 ###### Artículo 408.
 
-Para la interposición del recurso de reconsideración, se deberán cubrir los requisitos siguientes:
-
-I. Deberá formularse por escrito;
-
-II. Estar firmado autógrafamente por la parte recurrente;
-
-III. Precisar el acto o resolución impugnado;
-
-IV. Señalar la Sala de Primera Instancia que la hubiere dictado;
-
-V. Enumerar los preceptos legales que considere violados y la exposición de los hechos ocurridos; y
-
-VI. Acreditar la personalidad del recurrente, en caso de que no lo hubiere hecho con anterioridad.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 ###### Artículo 409.
 
-Además de cubrir los requisitos señalados en el artículo anterior, deberá señalar claramente el presupuesto y los razonamientos por los que se aduzca que la resolución puede modificar los resultados de la elección. En este caso, se entenderá que se modifica el resultado de una elección, cuando las resoluciones que se dicten por las salas de primera instancia del Tribunal puedan tener por efecto:
-
-I. Anular la elección;
-
-II. Revocar la anulación de la elección;
-
-III. Otorgar el triunfo a un candidato o fórmula distinta; y
-
-IV. Corregir la asignación de diputados y regidores según el principio de representación proporcional realizado por el Consejo Electoral del Estado.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 #### Sección Quinta. De los Legitimados para Promoverla
 
 ###### Artículo 410.
 
-La reconsideración sólo podrá ser interpuesta por los partidos políticos, coaliciones o candidatos que hayan acreditado su registro, por medio de:
-
-I. El representante que interpuso la demanda de inconformidad a la que recayó la resolución impugnada;
-
-II. Sus representantes ante el Consejo Electoral del Estado y sus diversos órganos; y
-
-III. El mismo candidato.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
 #### Sección Sexta. De las Resoluciones y sus Términos
 
 ###### Artículo 411.
 
-Las resoluciones de fondo que dicte la Sala Superior sobre los recursos de reconsideración tendrán los siguientes efectos:
+(DEROGADO, P.O. 17 DE AGOSTO DE 2002)
 
-I. Confirmar la resolución impugnada;
-
-II. Modificar o revocar la resolución impugnada;
-
-III. Modificar la asignación de diputados o regidores por el principio de representación proporcional, que realice el Consejo Electoral del Estado, en los términos de esta ley; o
-
-IV. Revocar la constancia de mayoría de la elección de Gobernador.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 412.
 
-El Presidente de la Sala Superior del Tribunal, tratándose de resoluciones que versen sobre cancelación, expedición o negativa de constancia de mayoría de asignación, remitirá copia certificada de las mismas al Consejo Electoral del Estado dentro del día siguiente a aquél en que fueron dictadas.
+El Presidente del Tribunal, tratándose de resoluciones que versen sobre cancelación, expedición o negativa de constancia de mayoría de asignación, remitirá copia certificada de las mismas al Consejo Electoral del Estado dentro del día siguiente a aquél en que fueron dictadas.
 
-Resueltas en su caso las impugnaciones que se hubiesen interpuesto sobre la elección de Gobernador, el Presidente de la Sala Superior remitirá al Consejo electoral del Estado las resoluciones y los expedientes que las contengan, a efecto de que el propio Consejo califique la elección y formule la declaración de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos.
+Resueltas en su caso las impugnaciones que se hubiesen interpuesto sobre la elección de Gobernador, el Presidente del Tribunal remitirá al Consejo electoral del Estado las resoluciones y los expedientes que las contengan, a efecto de que el propio Consejo califique la elección y formule la declaración de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos.
 
 De la misma manera enviará al Consejo Electoral del Estado, copias fotostáticas certificadas de las demás resoluciones dictadas.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 413.
 
-Las resoluciones que dicte la Sala Superior del Tribunal, serán definitivas e inatacables, por lo que en su contra no procederá juicio o recurso alguno, salvo los previstos en la Constitución General de la República.
+Las resoluciones que dicte el Tribunal, serán definitivas e inatacables, por lo que en su contra no procederá juicio o recurso alguno, salvo los previstos en la Constitución General de la República.
 
 ###### Artículo 414.
 
@@ -4669,9 +4719,11 @@ Respecto del caso previsto en la fracción tercera del artículo anterior, se de
 
 #### Sección Segunda. De la Competencia
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 417.
 
-Durante el tiempo que transcurra entre dos procesos electorales, es competente para resolver el recurso de apelación la Sala Permanente del Tribunal Electoral del Poder Judicial del Estado; dentro del Proceso electoral, la Sala de Primera Instancia del Tribunal Electoral a la cual de conformidad al turno respectivo, le corresponda conocer.
+Durante el tiempo que transcurra entre dos procesos electorales, es competente para resolver el recurso de apelación la Sala Permanente del Tribunal Electoral del Poder Judicial del Estado; dentro del Proceso electoral, el Tribunal Electoral en Pleno de conformidad al turno respectivo, le corresponda conocer.
 
 #### Sección Tercera. De la Legitimación y la Representación
 
@@ -4691,9 +4743,11 @@ III. Las personas físicas o jurídicas, por su propio derecho o a través de su
 
 Son aplicables en lo conducente, las disposiciones contenidas en los capítulos I y II de este título así como las especiales que el presente capítulo establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 420.
 
-Los recursos de apelación serán resueltos por la sala competente del Tribunal Electoral dentro de los diez días siguientes a aquel en que se admitan; en su caso se aplicará lo previsto para notificaciones y suplencia de la queja para los recursos administrativos.
+Los recursos de apelación serán resueltos por el Tribunal Electoral en Pleno o la Sala Permanente en su caso, dentro de los diez días siguientes a aquel en que se admitan, excepto cuando el actor haya anunciado pruebas y éstas no obren en el expediente, supuesto en el cual, el plazo correrá a partir del día siguiente a aquél en el que el Tribunal o la Sala Permanente tenga por recibidas y desahogadas las pruebas; en su caso se aplicará lo previsto para notificaciones y suplencia de la queja para los recursos administrativos.
 
 No se recibirán pruebas que no hubieren sido ofrecidas oportunamente ante la autoridad que resolvió el recurso administrativo, salvo las de carácter superveniente.
 
@@ -4798,3 +4852,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
+
+P.O. 17 DE AGOSTO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Aquellos procedimientos iniciados, antes de la vigencia del presente decreto, continuarán su substanciación conforme a las reglas vigentes antes de la reforma.
