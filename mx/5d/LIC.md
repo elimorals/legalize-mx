@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1999-01-18"
+last_updated: "1999-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -164,7 +164,11 @@ Al ejercer las facultades que le confiere este artículo, la Secretaría de Haci
 
 El capital social de las instituciones de banca múltiple estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional.
 
-El capital social ordinario de las instituciones de banca múltiple se integrará por acciones de la serie "A", que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante de la parte ordinaria del capital social podrá integrarse indistinta o conjuntamente por acciones series "A" y "B".
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+El capital social ordinario de las instituciones de banca múltiple se integrará por acciones de la serie “O”.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al cuarenta por ciento del capital social ordinario, previa autorización de la Comisión Nacional de Valores.
 
@@ -184,37 +188,19 @@ Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo 
 
 Las instituciones podrán emitir acciones no suscritas, que conservarán en tesorería, las cuales no computarán para efectos de determinar los límites de tenencia accionaria a que se refiere esta Ley. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la institución.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
 ###### ARTICULO 13.
 
-Las acciones representativas de la serie "A" únicamente podrán ser adquiridas por:
+Las acciones representativas de las series “O” y “L”, serán de libre suscripción.
 
-> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+No podrán participar en forma alguna en el capital social de las instituciones de banca múltiple, personas morales extranjeras que ejerzan funciones de autoridad.
 
-I. Personas físicas mexicanas;
-
-> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-II. Personas morales mexicanas, cuyo capital sea mayoritariamente propiedad de mexicanos, sean efectivamente controladas por los mismos y cumplan los demás requisitos que mediante disposiciones de carácter general establezca la Secretaría de Hacienda y Crédito Público;
-
-> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-III. El Gobierno Federal y el Fondo Bancario de Protección al Ahorro;
-
-> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-IV. Las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras, y
-
-> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-V. Los inversionistas institucionales mencionados en el artículo 15 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 14.
 
-Las acciones representativas de las series "B" y "L", serán de libre suscripción.
-
-No podrán participar en forma alguna en el capital social de las instituciones de crédito, personas morales extranjeras que ejerzan funciones de autoridad.
+Las personas que adquieran o transmitan acciones de la serie “O” por más del dos por ciento del capital social de una institución de banca múltiple, deberán dar aviso a la Secretaría de Hacienda y Crédito Público dentro de los tres días hábiles siguientes a la adquisición o transmisión.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
@@ -236,11 +222,11 @@ La institución deberá tener a disposición de los representantes de los accion
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 17.
 
-Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones de las series "A" y "B" por más del cinco por ciento del capital social de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder el veinte por ciento. Al efecto, la citada Secretaría tomará en cuenta la composición del capital de la institución de que se trate y la participación extranjera en la misma, a fin de que el sistema de pagos del país esté en todo tiempo controlado por mexicanos.
+Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones de la serie “O” por más del cinco por ciento del capital social de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Pública podrá autorizar cuando a su juicio se justifique, un porcentaje mayor, sin exceder el veinte por ciento.
 
 Se exceptúa de lo dispuesto en el párrafo anterior a:
 
@@ -256,13 +242,19 @@ IV. Las sociedades controladoras a que se refiere la Ley para Regular las Agrupa
 
 V. Los accionistas de instituciones de banca múltiple que adquieran acciones conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de dichas instituciones, a quienes la mencionada Secretaría podrá otorgarles excepcionalmente la autorización relativa, por un plazo no mayor de dos años, sin que la participación total de cada uno de ellos exceda del veinte por ciento del capital pagado, de la institución de que se trate, y
 
-VI. Las instituciones de banca múltiple, cuando adquieran acciones por cuenta propia conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de las mismas.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+VI. Las instituciones de banca múltiple, cuando adquieran acciones por cuenta propia conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de las mismas;
 
-VII. Las Instituciones Financieras del Exterior y las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de banca múltiple en una Filial.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
 
-Con objeto de dar cumplimiento a lo establecido en el primer párrafo de este artículo no podrán aprobarse programas para la adquisición de instituciones de banca múltiple cuyo capital neto exceda del seis por ciento de la suma del capital neto que alcancen en su conjunto dichas instituciones.
+VII. Las Instituciones Financieras del Exterior y las Sociedades Controladores Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de banca múltiple de una Filial, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+VIII. Las Instituciones Financieras del Exterior, Sociedades Controladoras Filiales, sociedades controladoras de grupos financieros e instituciones de banca múltiple, cuando adquieran acciones conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con el objeto de coadyuvar al buen funcionamiento de una institución de banca múltiple, previa autorización de la propia Secretaría, quien lo otorgara discrecionalmente.
+
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 Los mencionados límites se aplicarán, asimismo, a la adquisición del control por parte de personas que la Secretaría de Hacienda y Crédito Público, considere para estos efectos como una sola persona.
 
@@ -328,27 +320,15 @@ A los consejeros de estas instituciones les será aplicable lo dispuesto en el p
 
 La administración de las instituciones de banca múltiple estará encomendada a un consejo de administración y a un director general, en sus respectivas esferas de competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 22.
 
-El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+El consejo de administración estará integrado hasta por quince consejeros.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+Los accionistas que representen cuando menos un diez por ciento del capital pagado ordinario de la institución, tendrán derecho a asignar un consejero. Sólo podrá revocarse le nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás.
 
-En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado ordinario de la institución, tendrán derecho a designar un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-En los supuestos de los consejos que se integren por múltiplos de once o cuenten con más de seis consejeros de la serie "A", así como en los casos previstos en el párrafo anterior y en los artículos 23 fracción II, 73 y 75 de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
+El Presidente del consejo deberá elegirse de entre los propietarios y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
 ###### ARTICULO 23.
 
@@ -376,9 +356,9 @@ VI. Quienes realicen funciones de inspección y vigilancia de las instituciones 
 
 VII. Quienes realicen funciones de regulación de las instituciones de crédito, salvo que exista participación del Gobierno Federal en el capital de las mismas, o reciban apoyos del Fondo Bancario de Protección al Ahorro.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
-Los consejeros que representen a la serie "A" deberán ser mexicanos o extranjeros residentes en territorio nacional.
+La mayoría de los consejeros deberán ser mexicanos o extranjeros residentes en el territorio nacional.
 
 ###### ARTICULO 24.
 
@@ -414,11 +394,11 @@ V. El monto del beneficio, daño o perjuicio económicos derivados de la infracc
 
 Las resoluciones a que se refiere el primer párrafo, podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días siguientes a la fecha en que se hubieren notificado. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia de las partes.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 26.
 
-El órgano de vigilancia de las instituciones de banca múltiple, estará integrado por lo menos por un comisario designado por los accionistas de la serie "A" y, en su caso, un comisario nombrado por los de la serie "B" y uno por los de la "L", así como sus respectivos suplentes.
+El órgano de vigilancia de las instituciones de banca múltiple, estará integrado por lo menos por un comisario designado por los accionistas de la serie “O” y, en su caso, un comisario nombrado por los de la serie “L”, así como sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
@@ -458,21 +438,39 @@ V. Si la institución proporciona información falsa, imprecisa o incompleta, do
 
 VI. Cuando por causas imputables a la institución de banca múltiple no aparezcan debida y oportunamente registradas en su contabilidad las operaciones que haya efectuado, y por tanto no reflejen su verdadera situación financiera;
 
-VII. Si la institución se disuelve, entre en estado de liquidación o quiebra, salvo que el procedimiento respectivo termine por rehabilitación y el Banco de México y la Comisión Nacional Bancaria opinen favorablemente para que continúe con la autorización, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
 
-VIII. Si la institución transgrede en forma grave o reiterada las disposiciones legales o administrativas que le son aplicables.
+VII. Si la institución se disuelve, entra en estado de liquidación o quiebra, salvo que el procedimiento respectivo termine por rehabilitación y el Banco de México y la Comisión Nacional Bancaria y de Valores opinen favorablemente para que continúe con la autorización;
 
-La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación del domicilio social de la institución de que se trate, y pondrá en estado de liquidación a la institución de banca múltiple, la cual se practicará de conformidad con lo dispuesto por el artículo siguiente de esta Ley.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+VIII. Si la institución transgrede en forma grave o reiterada las disposiciones legales o administrativas que le son aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+IX. Cuando la institución no cubra al Instituto para la Protección del Ahorro Bancario las cuotas establecidas en la ley que regula a dicho Instituto, en los términos por ella previstos.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país y, se inscribirá en el Registro Público de Comercio que corresponda al domicilio social de la institución de que se trate y pondrá en estado de disolución y liquidación a la sociedad sin necesidad del acuerdo de la asamblea de accionistas.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 29.
 
-La disolución y liquidación de las instituciones de banca múltiple se regirán por lo dispuesto en los capítulos X y XI de la Ley General de Sociedades Mercantiles o, según el caso, en el Capítulo I, del Título VII de la Ley de Quiebras y Suspensión de Pagos, con las siguientes excepciones:
+La disolución y liquidación de las instituciones de banca múltiple se regirán por lo dispuesto en la Ley de Protección al Ahorro Bancario, en los capítulos X y XI de la Ley de Quiebras y Suspensión de Pagos, con las siguientes excepciones:
 
-I. El cargo de síndico y liquidador deberá recaer en el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares del Crédito;
+I. El cargo de liquidador y sindico recaerá en el Instituto de Protección al Ahorro Bancario, a partir de que la institución se encuentre en estado de liquidación o se declare la suspensión de pagos o quiebra, según trate;
 
-II. La Comisión Nacional Bancaria podrá solicitar la suspensión de pagos o declaración de quiebra, y
+II. La Comisión Nacional Bancaria y de Valores y el Instituto de Protección al Ahorro Bancario, en el ámbito de sus respectivas competencias, podrán solicitar la suspensión de pagos o declaración de quiebra;
 
-III. La prevista en el artículo 64 de esta Ley.
+III. En los fideicomisos en los que la institución que se encuentre en liquidación, suspensión de pagos o quiebra, actúe como fiduciaria en los términos de esta Ley, el liquidador o sindico, según se trate, podrá convenir con alguna otra institución la sustitución de los deberes fiduciarios;
+
+IV. A partir de la fecha en que entre en liquidación una institución o se declare la suspensión de pagos o quiebra, los pagos derivados de sus operaciones se suspenderán hasta en tanto el Instituto de Protección al Ahorro Bancario resuelve lo conducente, y
+
+V. Lo dispuesto en el artículo 64 de esta Ley.
+
+Tratándose de instituciones de banca de desarrollo, la disolución y liquidación en términos del presente artículo serán llevados a cabo por el Fideicomiso Liquidador de Instituciones de Crédito.
 
 ### CAPITULO II. De las Instituciones de Banca de Desarrollo
 
@@ -724,9 +722,9 @@ El capital social de las Filiales estará integrado por acciones de la serie “
 
 Las acciones de la serie “F” solamente podrán ser adquiridas por una Sociedad Controladora Filial o, directa o indirectamente, por una Institución Financiera del Exterior, salvo en el caso a que se refiere el último párrafo del artículo 45-H, tratándose de acciones representativas del capital social de las instituciones de banca múltiple Filiales.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
-Las acciones de la serie “B” de las instituciones de banca múltiple Filiales se regirán por lo dispuesto para esta serie de acciones en los demás artículos de esta Ley. La Institución Financiera del Exterior, propietaria de las acciones serie “F” de una institución de banca múltiple Filial, no quedará sujeta a los límites establecidos en el artículo 17 de esta Ley, respecto de su tenencia de acciones serie “B”.
+Las acciones de la serie “B” de las instituciones de banca múltiple Filiales se regirán por lo dispuesto en esta Ley para las acciones de la serie “O”. La Institución Financiera del Exterior, propietaria de las acciones serie “F” de una institución de banca múltiple Filial, no quedará sujeta a los límites establecidos en el artículo 17 de esta Ley, respecto de su tenencia de acciones serie “B”.
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
@@ -770,25 +768,31 @@ IV. Cuando el adquirente sea una Filial deberá fusionarse con la institución d
 
 V. Tratándose de instituciones de banca múltiple, la suma del capital de la institución adquirida y del capital de la institución de banca múltiple Filial adquirente, o en cuyo capital participe mayoritariamente la Institución Financiera del Exterior o la Sociedad Controladora Filial adquirente, no podrá exceder del límite de capital que en su caso se haya establecido en el tratado o acuerdo internacional aplicable, salvo que la Secretaría de Hacienda y Crédito Público lo autorice, en términos de lo dispuesto en el segundo párrafo de la fracción VII del artículo 17 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Lo establecido en este artículo no será aplicable en el caso a que se refiere la fracción VIII del artículo 17 de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 45-J.
 
 Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 45-K.
 
-El consejo de administración de las instituciones de banca múltiple Filiales estará integrado, a elección de los accionistas de la institución, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+El consejo de administración de las instituciones de banca múltiple Filiales estará integrado hasta por quince consejeros. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+Los accionistas de la serie “F” designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie “B”, en su caso, designarán a los consejeros restantes.
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "F" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado de la institución de banca múltiple Filial, tendrán derecho a designar a un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
@@ -1112,6 +1116,10 @@ La inversión de los pasivos captados a través de la colocación de obligacione
 
 Para el otorgamiento de sus financiamientos, las instituciones de crédito deberán estimar la viabilidad económica de los proyectos de inversión respectivos, los plazos de recuperación de éstos, las relaciones que guarden entre sí los distintos conceptos de los estados financieros o la situación económica de los acreditados, y la calificación administrativa y moral de estos últimos, sin perjuicio de considerar las garantías que, en su caso, fueren necesarias. Los montos, plazos, regímenes de amortización, y en su caso, periodos de gracia de los financiamientos, deberán tener una relación adecuada con la naturaleza de los proyectos de inversión y con la situación presente y previsible de los acreditados.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1999)</small>
+
+En procesos de reestructuración de operaciones en los que el acreditado se encontrara en insolvencia o sujeto a concurso, suspensión de pagos o quiebra, podrán modificar el plazo, tasa y demás características del crédito, cuando el consejo de administración, a propuesta del responsable del área de crédito, apruebe los nuevos términos del financiamiento, debiendo analizar un estudio que soporte la viabilidad del proyecto o bien el análisis de suficiencia de la fuente de recursos con los que se atenderán las obligaciones contraídas. Para el otorgamiento de recursos adicionales se requerirá autorización expresa del consejo.
+
 La Comisión Nacional Bancaria vigilará que las instituciones de crédito observen debidamente lo dispuesto en el presente artículo.
 
 ###### ARTICULO 66.
@@ -1172,11 +1180,11 @@ Salvo pacto en contrario y en los términos de los usos internacionales a este r
 
 Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, o el que en su caso corresponda, conservando la garantía real y su preferencia aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 73.
 
-Las instituciones de banca múltiple requerirán del acuerdo de la mayoría de los consejeros designados de la serie "A" o "F", según corresponda y, en su caso, de la mayoría de los consejeros designados de la serie "B", que integren su consejo de administración, para celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
+Las instituciones de banca múltiple requerirán del acuerdo de la mayoría de los consejeros designados de la serie “O” o “F” que integren su consejo de administración, para celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
 
 I. Las personas físicas y morales que detenten directa o indirectamente el control del uno por ciento o más de los títulos representativos del capital de la institución o de la sociedad controladora del grupo financiero al que en su caso pertenezca la propia institución;
 
@@ -1814,43 +1822,7 @@ Con el fin de que no se afecten los intereses del público en cuanto a la dispon
 
 ###### ARTICULO 122.
 
-Las instituciones de banca múltiple deberán participar en el mecanismo preventivo y de protección del ahorro, cuya organización y funcionamiento se sujetará a lo siguiente:
-
-I. El Banco de México administrará un fideicomiso que se denominará Fondo Bancario de Protección al Ahorro, cuya finalidad será la realización de operaciones preventivas tendientes a evitar problemas financieros que pudieren presentar las instituciones de banca múltiple, así como procurar el cumplimiento de obligaciones a cargo de dichas instituciones, objeto de protección expresa del Fondo.
-
-La constitución del fideicomiso por el Gobierno Federal no le dará el carácter de entidad de la administración pública federal, y por lo tanto, no estará sujeto a las disposiciones aplicables a dichas entidades;
-
-II. Para que las instituciones de banca múltiple puedan recibir apoyos preventivos, deberá garantizarse el pago puntual y oportuno del apoyo, con acciones representativas del capital social de la propia institución, con valores gubernamentales o cualquier otro bien, que a juicio del fiduciario satisfaga la garantía requerida.
-
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
-
-Cuando esta garantía recaiga en acciones representativas del capital social de la institución apoyada, los accionistas primeramente deberán de afectar títulos representativos de la serie "A" o "F", según corresponda, hasta por el importe de la garantía requerida y, en caso de que tales títulos no cubran el total de dicho importe, también deberán afectar los títulos correspondientes a las demás series. Dichas acciones garantizarán el pago del apoyo en la proporción a prorrata que corresponda conforme al valor de cada una de ellas. Para la constitución de esta garantía preferente de interés público, las acciones deberán traspasarse a una cuenta a favor del Fondo, en la institución para el depósito de valores en que se encuentren depositadas, correspondiendo a dicho Fondo el ejercicio de los derechos patrimoniales y corporativos inherentes a tales acciones, quedando el producto de los derechos patrimoniales afectos en garantía a favor del Fondo. El Fondo podrá optar porque la garantía se ejecute mediante la venta extrajudicial de las acciones de conformidad con el procedimiento previsto para la caución bursátil en la Ley del Mercado de Valores, o de acuerdo a lo establecido para la prenda en la Ley General de Títulos y Operaciones de Crédito.
-
-Para los efectos de la garantía antes citada, las acciones se considerarán por el equivalente al setenta y cinco por ciento de su valor en libros, según el último estado financiero aprobado por el consejo de administración de la institución y revisado por la Comisión Nacional Bancaria.
-
-En caso de que no se otorgue garantía suficiente, el director general de la institución de que se trate, o quien ejerza sus funciones, deberá otorgar en garantía tales acciones, en términos de lo dispuesto en los párrafos anteriores. Al efecto, la institución para el depósito de valores que se encuentren las referidas acciones, a petición por escrito del director general de la institución de banca múltiple, o de quien ejerza sus funciones, las traspasará y mantendrá en garantía en términos de lo antes señalado a favor del propio Fondo, comunicándolo así a los titulares de las mismas.
-
-En el evento de que el director general, o quien ejerza sus funciones, no otorgue la garantía antes señalada, la institución para el depósito de valores respectiva deberá afectar en garantía dichas acciones en términos de lo dispuesto en los párrafos anteriores, bastando al efecto solicitud por escrito por parte del Fondo.
-
-En los estatutos y en los títulos representativos del capital de las instituciones de banca múltiple, deberá preverse expresamente el consentimiento de todos y cada uno de los accionistas al procedimiento contenido en los dos párrafos anteriores;
-
-III. Las instituciones de banca múltiple estarán obligadas a cubrir al Fondo el importe de las aportaciones ordinarias y extraordinarias que determine la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México.
-
-Las aportaciones ordinarias y extraordinarias de cada institución correspondientes a un año natural, no excederán respectivamente del cinco al millar y del siete al millar del importe al que asciendan las obligaciones objeto de protección expresa del Fondo;
-
-IV. En el contrato constitutivo del Fondo deberá preverse la existencia de un comité técnico que estará integrado por representantes de la Secretaría de Hacienda y Crédito Público, del Banco de México y de la Comisión Nacional Bancaria.
-
-El comité técnico determinará los términos y condiciones de los apoyos que se otorguen con cargo al Fondo; los depósitos, créditos y demás obligaciones, así como el importe de éstos objeto de protección expresa, la periodicidad con la que habrán de cubrirse las aportaciones ordinarias, así como, las demás facultades que se prevean en el contrato constitutivo del Fondo.
-
-El fiduciario publicará anualmente en el mes de diciembre, en el Diario Oficial de la Federación, el importe máximo de las obligaciones que será objeto de protección expresa del Fondo durante el año inmediato siguiente;
-
-V. Las instituciones de banca múltiple estarán obligadas a proporcionar al Fondo la información que éste les solicite, para cumplir con sus fines, así como a poner en conocimiento del mismo, con toda oportunidad, cualquier problema que confronten y que, a su juicio, pueda dar lugar a apoyos del Fondo. Asimismo, las instituciones de banca múltiple estarán obligadas a recibir los apoyos que a propuesta del comité técnico la Secretaría de Hacienda y Crédito Público estime necesarios y a cumplir con los programas o medidas correctivos que el Fondo les apruebe;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
-
-VI. Las sociedades que, con posterioridad a la fecha de constitución del Fondo, obtengan autorización para constituirse y operar como instituciones de banca múltiple de conformidad con la presente Ley, estarán obligadas a aportar al Fondo la cantidad inicial que determine la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, mediante criterios de aplicación general que tomarán en cuenta, entre otros elementos, el monto de los pasivos y el nivel de capitalización de cada institución. Dicha cantidad inicial se empezará a cubrir desde que la sociedad inicie operaciones, en los términos que indique el comité técnico del Fondo.
-
-VII. El Banco de México cargará, en las cuentas que lleva a las instituciones de banca múltiple, el importe de las cuotas ordinarias y extraordinarias que éstas deban cubrir conforme a lo dispuesto en el presente artículo, precisamente en las fechas en que tales pagos deban efectuarse. Las cantidades así cargadas serán abonadas simultáneamente al Fondo.
+(DEROGADO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DE PROTECCION AL AHORRO BANCARIO, D.O.F. 19 DE ENERO DE 1999)
 
 ###### ARTICULO 123.
 
@@ -2271,3 +2243,141 @@ PRIMERO.- La presente Ley entrará en vigor noventa días después de su publica
 SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
 
 ...
+
+D.O.F. 19 DE ENERO DE 1999.
+
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PROTECCION AL AHORRO BANCARIO
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con las excepciones que a continuación se establecen.
+
+...
+
+CUARTO.- Las disposiciones relativas a las cuotas que deberán cubrir las Instituciones al Instituto conforme al Título Segundo de este Decreto, deberán expedirse a más tardar en el mes de mayo de 1999. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán cubrir al propio Instituto, conforme a lo dispuesto en el artículo 21 de esta Ley, las cuotas ordinarias calculando su importe conforme a las reglas aplicables para la determinación de las aportaciones ordinarias mensuales que hubieran tenido que cubrir al Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto permanecerá en operación, con el único objeto de administrar las operaciones del programa conocido como de "capitalización y compra de cartera" y de dar cumplimiento a lo señalado en el artículo Séptimo Transitorio de este Decreto, a fin de que se concluyan las auditorías ordenadas por la Cámara de Diputados.
+
+El Ejecutivo Federal y la Cámara de Diputados tomarán las medidas pertinentes para que las auditorías concluyan en un plazo máximo de 6 meses a partir de la entrada en vigor de esta Ley.
+
+En la medida que las operaciones del Fondo sean auditadas, se procederá conforme a lo siguiente:
+
+I. En caso de que la auditoría reporte irregularidades, se procederá inmediatamente a deslindar las responsabilidades a que hubiere lugar y los infractores asumirán su plena responsabilidad legal y económica.
+
+II. Una vez concluidas las auditorías, las Instituciones correspondientes podrán optar por dar por terminados los contratos y cancelar las operaciones que mantenían con el Fondo, para lo cual deberán regresar al mismo los títulos de crédito que éste hubiere emitido a su favor y a cambio, el Fondo les deberá devolver los derechos de cobro de la cartera objeto del Programa de Capitalización y Compra de Cartera.
+
+Simultáneamente con lo anterior, el Instituto otorgará a las citadas personas una garantía o instrumento de pago que cubra los referidos derechos de cobro, en los términos y condiciones que se indiquen en las Reglas Generales que para su efecto emita la Junta de Gobierno del Instituto. A esta garantía o instrumento, le será aplicable lo dispuesto en los artículos 45 y 47 de esta Ley.
+
+El Instituto deberá formular y hacer del conocimiento de los interesados, las referidas Reglas Generales, a más tardar treinta días naturales después de que haya iniciado sus operaciones.
+
+En caso de que durante las auditorías se detecten créditos ilegales el Instituto, mediante resolución de la Junta de Gobierno, podrá optar por rechazar y devolver los mismos a las Instituciones, mismas que deberán designar otros activos por un monto equivalente al de los créditos devueltos a satisfacción del Instituto. En caso contrario, éste reducirá el monto respectivo de la garantía o instrumento de pago respectivo.
+
+Cuando la ilegalidad del crédito sea atribuible a la administración de la institución de que se trate, ésta deberá absorber el costo de dicho crédito, al efecto el Instituto reducirá el monto de la garantía o instrumento de pago.
+
+Las Reglas Generales deberán sujetarse estrictamente a lo siguiente:
+
+A) Se establecerá el mecanismo para que los interesados puedan afectar en fideicomiso los derechos de cobro que les devuelva el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, y de esta manera estén en posibilidad de emitir títulos de crédito a través del fideicomiso, con el objeto de realizar colocaciones y obtener liquidez;
+
+B) El Instituto y las Instituciones participantes en el nuevo programa, convendrán una fórmula que obligue a las Instituciones a la obtención de los mejores resultados en los procesos de administración y cobranza de los créditos designados dentro del referido programa. El convenio respectivo preverá sanciones aplicables a las Instituciones, que no acrediten haber adoptado las medidas y providencias para efectuar una diligente administración y cobranza de tales créditos;
+
+C) El Instituto y las Instituciones, acordarán un mecanismo propicio para que el costo derivado de los créditos a que se refiere el párrafo anterior, que no fueran cubiertos totalmente, se absorba preferentemente con cargo a las Instituciones y por el sistema financiero;
+
+D) Se establecerán incentivos para que los deudores realicen un pronto pago, así como los mecanismos que induzcan, preferentemente, el pago de los grandes deudores que cuenten con activos para hacer frente a sus compromisos derivados de los derechos de cobro que han sido garantizados por el Instituto.
+
+Para participar en el nuevo programa, la Institución de que se trate, deberá cumplir con los niveles de capitalización establecidos por las disposiciones aplicables. El Instituto cuidará que durante la vigencia de las garantías o de los instrumentos de pago, las Instituciones cuenten con un nivel de capitalización adecuado para la promoción de la actividad crediticia del país.
+
+SEXTO.- Para los efectos de estas disposiciones transitorias se entenderá por BIEN o BIENES:
+
+a) Las acciones de instituciones de banca múltiple, casas de bolsa y de otras sociedades, de las cuales sean titulares los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores vigentes hasta antes de la entrada en vigor del presente Decreto;
+
+b) Los derechos fideicomisarios de los que sean titular el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, para recibir el producto de la recuperación de los créditos que se designaron en los convenios celebrados con las instituciones de banca múltiple, dentro de los programas de capitalización y saneamiento de tales instituciones implantados por las autoridades financieras, así como los derechos que confieren a dicho fondo los referidos convenios;
+
+c) Los demás bienes y derechos de los que sean titulares los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores vigentes hasta antes de la entrada en vigor del presente Decreto;
+
+d) Los créditos, derechos y otros bienes de los cuales sean titulares o propietarios las instituciones de banca múltiple y demás sociedades referidas en el inciso a) de este artículo, y
+
+e) Los demás bienes y derechos de cualquier naturaleza relacionados con la administración y conclusión de los programas a que se refiere este artículo.
+
+SÉPTIMO.- El Instituto, sujeto a la condición a que se refiere el párrafo siguiente, en protección de los derechos de terceros de buena fe, y para proveer a la más expedita recuperación de los BIENES, asume la titularidad de las operaciones de los programas de saneamiento, diferentes a aquellos de capitalización de compra de cartera, realizadas por los fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores vigentes hasta antes de la entrada en vigor del presente Decreto, así como las correspondientes a las instituciones intervenidas por la Comisión, salvo las operaciones que fueron exceptuadas por acuerdo de los Comités Técnicos de aquellos. A las operaciones cuya titularidad asuma el Instituto de acuerdo a lo dispuesto en este artículo, les será aplicable lo dispuesto en los artículos 45 y 47 de esta Ley.
+
+Lo dispuesto en el párrafo anterior queda sujeto a la condición resolutoria de que se lleven a cabo las auditorías correspondientes, para el fincamiento de las responsabilidades jurídicas y económicas que, en su caso procedan, o a la transmisión a terceros de los mencionados BIENES.
+
+Si de las auditorías realizadas aparecen operaciones de mutuo o préstamo otorgados por las instituciones auditadas cuyos recursos se hayan donado o aportado por los acreditados, directamente o por interpósita persona, a entidades de interés público que reciban financiamiento público y que por tal motivo hayan generado quebrantos financieros a las instituciones acreditantes, dichas entidades devolverán el monto de las operaciones de crédito involucradas con cargo a los financiamientos públicos que, conforme a las leyes que las rigen, reciban ordinariamente.
+
+OCTAVO.- El Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público y el Banco de México, realizarán los actos necesarios para la extinción de los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores vigentes hasta antes de la entrada en vigor del presente Decreto, en el caso del fideicomiso primeramente citado, con sujeción a lo establecido en el Quinto Transitorio del presente Decreto.
+
+En consecuencia de lo dispuesto en el párrafo anterior:
+
+I. El Instituto asumirá los créditos otorgados por el Banco de México a los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores vigentes hasta antes de la entrada en vigor del presente Decreto, debiéndose convenir los términos y condiciones para que tales financiamientos se vayan extinguiendo sin cargo a dicho Instituto, en la medida en que los resultados del Banco así lo permitan, sin afectar el capital y reservas del propio Banco, de acuerdo con la Ley que lo rige;
+
+II. El Gobierno Federal quebrantará el crédito otorgado por Nacional Financiera, en su carácter de agente financiero del Gobierno Federal, al Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, y
+
+III. No se aprueba la solicitud de consolidar a la deuda pública las obligaciones contraídas por los Fondos señalados, ni los avales u obligaciones solidarias otorgados al efecto por el Gobierno Federal, presentada en el artículo Cuarto Transitorio del Artículo Segundo de la Iniciativa de Decreto por el que se expiden la Ley Federal del Fondo de Garantía de Depósitos y la Ley de la Comisión para la Recuperación de Bienes, y se reforman, adicionan y derogan diversas disposiciones de las leyes del Banco de México, de Instituciones de Crédito, del Mercado de Valores, para Regular las Agrupaciones Financieras y General de Deuda Pública.
+
+NOVENO.- De conformidad con lo previsto en la Sección Cuarta del Resumen Ejecutivo de las Operaciones realizadas por el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, entregado por el Ejecutivo Federal a la Cámara de Diputados, en el que se prevén los montos necesarios para las operaciones de saneamiento financiero correspondientes a Banco del Atlántico, S.A., Banca Promex, S.A. y BanCrecer, S.A. y que a la fecha no se han finalizado, el Instituto procederá a evaluar, auditar y, en su caso, concluir, dichas operaciones.
+
+Para tal efecto, el Instituto podrá otorgar las garantías o instrumentos de pago que se requieran a juicio de la Junta de Gobierno, los cuales se sujetarán a lo dispuesto en el artículo 45 de esta Ley. Una vez concluidas las operaciones, el Instituto deberá remitir un informe pormenorizado al Congreso de la Unión y al Ejecutivo Federal detallando los términos y condiciones de tales operaciones.
+
+Para concluir las operaciones a que se refiere este artículo, el Instituto deberá observar lo siguiente:
+
+I. Se aplicará íntegramente el capital de las Instituciones mencionadas a cubrir sus pérdidas, y
+
+II. La suma de las garantías o instrumentos de pago prevista en la Sección Cuarta del documento mencionado en el primer párrafo de este artículo, no podrá exceder del monto total actualizado conforme a la Tasa de Interés Interbancaria de Equilibrio;
+
+III. Si de las auditorías que al efecto se realicen resultaren operaciones ilegales, el Instituto deberá proceder a instaurar las demandas y denuncias correspondientes, a fin de deslindar las responsabilidades económicas a que hubiere lugar.
+
+DÉCIMO.- A fin de concluir los programas de saneamiento financiero y la liquidación de las operaciones de los Fideicomisos a que se refieren los artículos 122 de la Ley de Instituciones de Crédito y 89 de la Ley del Mercado de Valores, vigentes hasta antes de la entrada en vigor del presente Decreto, el Instituto dispondrá de las tres cuartas partes de las cuotas que por la prestación del sistema de protección al ahorro paguen las instituciones; los provenientes de la recuperación de sus activos y aquellos derivados de los costos que al efecto se hayan convenido asuman las instituciones apoyadas.
+
+El Ejecutivo Federal y la Cámara de Diputados tomarán las medidas pertinentes para que las auditorías concluyan en plazo máximo de 6 meses a partir de la entrada en vigor de esta Ley.
+
+DÉCIMO PRIMERO.- El régimen de las obligaciones garantizadas establecido en el Capítulo I del Título Segundo de la presente Ley, entrará en vigor a más tardar el 31 de diciembre del año 2005.
+
+Previamente al vencimiento del plazo a que se refiere el párrafo anterior el Instituto determinará el régimen de las obligaciones garantizadas. El tipo de obligaciones garantizadas y el importe garantizado sólo podrá modificarse mediante resolución que publique la propia Junta de Gobierno en el mes de diciembre de cada año en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, la cual no podrá tener vigencia menor a un año.
+
+Por única vez, a más tardar en el mes de mayo de 1999, la Junta de Gobierno deberá publicar en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en el país, un programa en el cual se darán a conocer las obligaciones que quedarán garantizadas en el período de transición a que se refiere el segundo párrafo de este artículo. Dicho programa deberá ser aprobado por la Junta de Gobierno. Las resoluciones de la Junta de Gobierno relativas a las propuestas citadas en este párrafo y en el párrafo que antecede, deberán ser adoptadas contando con el voto favorable del Secretario de Hacienda y Crédito Público, y en ausencia de éste de su suplente.
+
+Al aprobar el programa a que se refiere el párrafo precedente, la Junta de Gobierno deberá buscar que el período de transición, para la entrada en vigor del régimen de obligaciones garantizadas establecido en el Capítulo I del Título Segundo de la Ley, sea lo más corto posible. Además, la Junta de Gobierno deberá resolver lo necesario para que la transición se dé en forma gradual y ordenada, a efecto de que en el último año de vigencia del régimen se llegue al límite de cobertura establecido en el propio Capítulo I del Título Segundo de esta Ley.
+
+En tanto se publica la resolución referida en el tercer párrafo de este artículo, las obligaciones garantizadas por el Instituto serán las que se publiquen en el Diario Oficial de la Federación de conformidad con lo previsto en el artículo 122 de la Ley de Instituciones de Crédito, vigente hasta antes de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- Para manifestar el consentimiento a que se refiere el artículo 42 de este Decreto, las instituciones deberán modificar sus estatutos sociales, así como incorporar la correspondiente mención expresa en los títulos representativos de su capital social, en un plazo que no excederá de 180 días contados a partir de la entrada en vigor de esta Ley.
+
+...
+
+DÉCIMO OCTAVO.- Se derogan el artículo 122 de la Ley de Instituciones de Crédito y el artículo 89 de la Ley del Mercado de Valores, en los términos de los presentes artículos transitorios.
+
+...
+
+VIGÉSIMO.- Las Instituciones participantes en los programas de saneamiento financiero establecidos por el Gobierno Federal, que hubiesen originado fideicomisos para la administración de los recursos procedentes de la administración, recuperación y cobranza de créditos en los que se hubiese designado como fideicomisario al Fondo a que se refiere el citado artículo 122 de la Ley de Instituciones de Crédito, estarán obligadas a proporcionar la información que el Instituto les requiera para el cumplimiento de su objeto.
+
+VIGÉSIMO PRIMERO.- Se derogan las demás disposiciones que se opongan a esta Ley.
+
+ARTICULO SEGUNDO DEL DECRETO POR EL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES...
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El artículo segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Las acciones de las series "A" y "B", representativas del capital social de las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa y especialistas bursátiles, se convierten en acciones de la serie "O" con las características que se contienen en los artículos 18 de la Ley para Regular las Agrupaciones Financieras, 13 de la Ley de Instituciones de Crédito, y 17-bis de la Ley del Mercado de Valores, sin necesidad de acuerdo de asamblea de accionistas y a partir de la vigencia del presente Decreto. Por lo anterior, las entidades financieras antes citadas, deberán realizar el cargo respectivo conforme a lo establecido en el artículo siguiente.
+
+CUARTO.- El canje de acciones que deberán efectuar las sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa y especialistas bursátiles, se ajustará a lo siguiente:
+
+I.- Se formalizará a petición que realicen las citadas entidades financieras, a la institución para el depósito de valores en que se mantengan depositadas las acciones objeto del canje.
+
+El presidente y secretario del consejo de administración de las entidades financieras mencionadas en el primer párrafo de este artículo, tendrán un plazo de cinco años, contado a partir de la entrada en vigor de este Decreto, para presentar la petición a que se refiere esta fracción, a fin de cancelar los títulos accionarios de las series "A" y "B", emitir las acciones de la nueva serie "O", y depositar estas últimas en alguna institución para el depósito de valores, conforme a lo dispuesto en los artículos 18-bis, primer párrafo de la Ley para Regular las Agrupaciones Financieras, 12, primer párrafo de la Ley de Instituciones de Crédito, 17-bis, penúltimo párrafo, 67 y 74 de la Ley del Mercado de Valores;
+
+II.- Las acciones que resulten del canje, deberán representar la misma participación del capital pagado que las acciones canjeadas;
+
+III.- No se considerará que existe enajenación de acciones, para efectos de la Ley del Impuesto sobre la Renta, siempre y cuando el canje a que se refiere este artículo no implique cambio del titular de las acciones, y
+
+IV.- Para efectos de la fracción anterior, el costo promedio de las acciones que resulten del canje será el que corresponda a las acciones canjeadas.
+
+QUINTO.- Transcurrido el plazo a que se refiere la fracción I del artículo anterior, sin que se hubiere dado cumplimiento a lo establecido en dicha disposición, los titulares de las acciones no podrán ejercer los derechos corporativos y patrimoniales que correspondan, ni la sociedad controladora, institución de banca múltiple, casa de bolsa o especialista bursátil de que se trate, podrán inscribir las transmisiones que respecto de las acciones de la serie "O" se pretendan registrar en el libro de accionistas, sino hasta que se realice el canje y depósito señalados en la citada fracción I del artículo anterior.
+
+SEXTO.- Las sociedades financieras de grupos financieros, instituciones de crédito, casas de bolsa y especialistas bursátiles, así como Filiales del tipo de las citadas entidades financieras, cuyas acciones, en su caso, se mantuvieren inscritas en el Registro Nacional de Valores e Intermediarios con anterioridad a la entrada en vigor del presente Decreto, deberán dar aviso al Registro Nacional de Valores del canje realizado en los términos y condiciones señalados en los artículos Tercero y Cuarto Transitorios anteriores, para efectos de mantenimiento y demás consecuencias legales que correspondan.
+
+SÉPTIMO.- Las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa, especialistas bursátiles y Filiales del tipo de las entidades financieras anteriores, tendrán un plazo de tres años contado a partir de la entrada en vigor de este Decreto, para que su consejo de administración y órgano de vigilancia se ajusten a lo dispuesto en los artículos 24 y 27-L de la Ley para Regular las Agrupaciones Financieras, 22, 26 y 45-K de la Ley de Instituciones de Crédito, y 17 bis 1 y 28 bis 11 de la Ley del Mercado de Valores, según corresponda.
+
+Los consejeros y comisarios de las series "A", "B" y "F" de las entidades financieras mencionadas, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan en términos de lo establecido en las disposiciones referidas en el párrafo anterior, y los designados tomen posesión de sus cargos.
