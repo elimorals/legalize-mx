@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2003-12-31"
+last_updated: "2004-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2025,6 +2025,8 @@ Todas las comunicaciones oficiales que deban girarse para la práctica de las di
 
 ### CAPITULO I
 
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 169.
 
 En caso de declararse desaparecido un Ayuntamiento, si conforme a la Ley no procediere que entrasen en funciones los suplentes, el Congreso del Estado del Estado designará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
@@ -2213,9 +2215,9 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ###### Artículo 186.
 
-El Ayuntamiento saliente hará entrega al Ayuntamiento entrante de los documentos que contengan la situación que guarda la administración pública municipal, el día que se instale la nueva administración.
+La entrega y recepción de los documentos que contengan la situación que guarda la administración pública municipal se realizará el día en que se instale el nuevo Ayuntamiento, en términos del presente título, cuyas disposiciones se desarrollarán mediante los lineamientos que al efecto expida el Congreso del Estado.
 
-En la entrega y recepción, el Órgano de Fiscalización Superior podrá designar un representante para que participe como observador.
+El Congreso del Estado y el Órgano de Fiscalización Superior podrán designar representantes para que participen como observadores en la entrega recepción.
 
 ###### Artículo 187.
 
@@ -2322,3 +2324,9 @@ G.O. 31 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE FEBRERO DE 2004.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
