@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-15282"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-31"
-last_updated: "1996-10-31"
+last_updated: "1998-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 31 de octubre de 1996.
 
@@ -57,7 +57,9 @@ I. Operen establecimientos y locales cuyo giro principal o accesorio sea la vent
 
 II. Realicen actividades relacionadas con la venta o consumo de bebidas alcohólicas, en razón de autorización especial en los términos de la presente ley.
 
-En todo caso, para realizar actividades de venta o consumo de bebidas alcohólicas, se deberán cubrir los requisitos previstos en las leyes o reglamentos respectivos, y obtener la licencia para tal efecto, previo el pago de los derechos y otros conceptos que fijen las leyes hacendarias aplicables.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
+En todo caso, para realizar actividades de venta o consumo de bebidas alcohólicas, se deberán cubrir los requisitos previstos en las leyes o reglamentos respectivos, y obtener la licencia o el permiso para tal efecto, previo el pago de los derechos y otros conceptos que fijen las leyes hacendarias aplicables.
 
 ###### Artículo 3o.
 
@@ -71,13 +73,21 @@ II. Bebidas de alta graduación, cuyo contenido de alcohol sea superior a los 12
 
 Para la venta y consumo al público de bebidas de contenido alcohólico, se requerirá permiso o licencia expedida por el Ayuntamiento, de conformidad a las disposiciones de la presente ley y las disposiciones generales siguientes:
 
-I. Se requerirá licencia o permiso específico autorizado por el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas para:
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+I. Se requerirá licencia autorizada por el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas para:
 
 a) La sola venta de bebidas de contenido alcohólico, así como para permitir su consumo en el establecimiento cuando estas actividades constituyen el giro principal del negocio;
 
 b) La sola venta de bebidas de alta graduación, así como para permitir su consumo en el establecimiento, cuando estas actividades se realicen en forma accesoria o complementaria, conforme a su giro principal.
 
-La expedición, cambio de domicilio y revocación de las licencias o permisos específicos, serán autorizados por el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas y se regularán por las disposiciones de la presente ley, Ley de Hacienda Municipal y demás leyes y reglamentos municipales aplicables.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
+La expedición, cambio de domicilio y revocación de las licencias a que se refiere ésta fracción serán autorizados por el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas y se regularán por las disposiciones de la presente ley, Ley de Hacienda Municipal y demás leyes y reglamentos municipales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1998)</small>
+
+Cuando el consejo municipal de giros restringidos sobre venta y consumo de bebidas alcohólicas tenga conocimiento de que, el otorgamiento de licencias en algún lugar específico pudiera traer como consecuencia problemas de seguridad pública o afectar el interés público, podrá negar su expedición aún cuando se hayan cumplido los requisitos que establece la presente ley o las demás normas aplicables.
 
 II. Se requerirá licencia o permiso autorizado por el Presidente Municipal para:
 
@@ -85,15 +95,31 @@ a) La venta de bebidas de baja graduación alcohólica, cuando estas actividades
 
 b) La venta y consumo de bebidas de baja graduación, cuando estas actividades se realicen en forma accesoria o complementaria, conforme a su giro principal.
 
-La expedición y revocación de las licencias o permisos para venta y consumo de bebidas de contenido alcohólico, a que se refiere esta fracción serán autorizadas por el Presidente Municipal, y se regularán por las disposiciones en materia de giros de la Ley de Hacienda Municipal y demás leyes y reglamentos municipales aplicables.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
-III. Es facultad del Ayuntamiento, autorizar licencias para la venta o consumo de bebidas alcohólicas específicas, para lo cual se deberá seguir el procedimiento que corresponda, según los grados de alcohol de las mismas y el giro de que se trate, de conformidad con las fracciones anteriores de este artículo.
+La expedición, cambio de domicilio o revocación de las licencias o permisos para venta y consumo de bebidas de contenido alcohólico, a que se refiere esta fracción serán autorizadas por el Presidente Municipal, y se regularán por las disposiciones en materia de giros de la Ley de Hacienda Municipal y demás leyes y reglamentos municipales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1998)</small>
+
+Cuando el Presidente Municipal tenga conocimiento de que, el otorgamiento de licencia o permiso específico en algún lugar concreto pudiera traer como consecuencia problemas de seguridad pública o afectar el interés público, podrá negar su expedición aún cuando se hayan cumplido los requisitos que establece la presente ley o las demás normas aplicables.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+III. Es facultad del Consejo Municipal de giros restringidos o del Presidente Municipal, según sea el caso, autorizar licencias para la venta o consumo de bebidas alcohólicas específicas, para lo cual se deberá seguir el procedimiento que corresponda, según los grados de alcohol de las mismas y el giro de que se trate, de conformidad con las fracciones anteriores de este artículo.
 
 IV. Es facultad del Presidente Municipal el otorgamiento de refrendos.
 
-V. No se requerirá de permisos o licencias para vender sustancias que contengan alcohol, para usos industriales o medicinales y esta actividad se realice en forma accesoria al giro del establecimiento comercial.
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
 
-VI. Todas las personas que tengan domicilio legal en el Estado de Jalisco tendrán derecho y acción para denunciar las violaciones a la presente ley y en su caso, pedir la renovación de la licencia o la clausura del establecimiento respectivo, basados en los motivos señalados en este ordenamiento legal y siguiendo el procedimiento establecido para tal efecto en la Ley de Hacienda Municipal.
+V. Es facultad del Presidente Municipal la expedición, cambio de domicilio y revocación de permisos en los que se otorgue de forma eventual y transitoria la venta y el consumo de bebidas alcohólicas, debiendo establecer en el texto del mismo el lugar, día y hora del evento de que se trate.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+VI. No se requerirá de permisos o licencias para vender sustancias que contengan alcohol, ara (sic) usos industriales o medicinales y esta actividad se realice en forma accesoria al giro del establecimiento comercial.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+VII. Todas las personas que tengan domicilio legal en el Estado de Jalisco tendrán derecho y acción para denunciar las violaciones a la presente ley en su caso, pedir la revocación de la licencia o la clausura del establecimiento respectivo, basados en los motivos señalados en este ordenamiento legal y siguiendo el procedimiento establecido para tal efecto en la Ley de Hacienda Municipal.
 
 ### CAPÍTULO II. DEL CONSEJO MUNICIPAL DE GIROS RESTRINGIDOS SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS
 
@@ -113,13 +139,17 @@ IV. Regidor miembro de la Comisión de Seguridad Pública y Tránsito;
 
 V. Regidor miembro de la Comisión de Salubridad e Higiene.
 
-Los miembros de las comisiones señaladas en las fracciones anteriores serán preferentemente aquellos que las presidan o quienes sean designados por la comisión que corresponda, no pudieran tener una misma persona dos o más representaciones en este Consejo, lo mismo se aplicará en caso de que el Presidente Municipal presida además, alguna de las comisiones.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
+Los miembros de las comisiones señaladas en las fracciones anteriores serán preferentemente aquellos que las presidan o quienes sean designados por la comisión que corresponda, no pudiendo tener una misma persona dos o más representaciones en este Consejo, lo mismo se aplicará en caso de que el Presidente Municipal presida además, alguna de las comisiones.
 
 ###### Artículo 6o.
 
 El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado además, por vocales que deberán ser nombrados por el Cabildo, los cuales no podrán ser menos de tres ni más de cinco, tendrán derecho a voz pero no a voto, designándose preferentemente a los siguientes:
 
-I. Un representante de alguna asociación de comercio o industria organizado del Municipio.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+I. Un representante de alguna asociación de comercio o industria organizada del Municipio.
 
 II. Un representante de algún club de servicios de la localidad.
 
@@ -143,11 +173,13 @@ II. Proponer al Cabildo, medidas tendientes a prevenir y combatir el alcoholismo
 
 #### SECCIÓN TERCERA. DE LAS SESIONES DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 8o.
 
-El Consejo funcionará en sesiones ordinarias que se llevará a cabo por lo menos una vez al mes, teniendo el Presidente Municipal voto de calidad. Para que las sesiones puedan realizarse, deberán asistir por lo menos cuatro integrantes con voz y voto del Consejo, debiendo todos los que lo integran ser citados por lo menos con 72 horas de anticipación.
+El Consejo funcionará en sesiones ordinarias que se llevará a cabo por lo menos una vez al mes, teniendo el Presidente Municipal voto de calidad. Para que las e (sic) sesiones puedan realizarse, deberán asistir por lo menos tres integrantes con voz y voto del Consejo, debiendo todos los que lo integran ser citados por lo menos con 72 horas de anticipación.
 
-Los vocales del Consejo tendrán derecho a voz, y serán oídos previamente a la aprobación, rechazo o revocación de licencias. Los Regidores que no sean miembros del Consejo podrán asistir a las sesiones del mismo, para lo cual serán citados 72 horas antes de su realización, pero no tendrán derecho a voto.
+Los vocales del Consejo tendrán derecho a voz, y serán oídos previamente a la aprobación, rechazo, cambio de domicilio o revocación de licencias. Los Regidores que no sean miembros del Consejo podrán asistir a las sesiones del mismo, para lo cual serán citados 72 horas antes de sus realización, pero no tendrán derecho a voto.
 
 ### CAPÍTULO III. DE LA CLASIFICACIÓN DE ESTABLECIMIENTOS Y LOCALES
 
@@ -165,17 +197,21 @@ IV. Establecimientos en donde puede autorizarse la venta, más no el consumo de 
 
 V. Establecimientos donde pueden venderse sustancias que contengan alcohol, ya sean industriales o medicinales, sin necesidad de autorización previa, conforme a la fracción V del artículo 4°, boticas, farmacias, tlapalerías y demás similares.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 10.
 
-En los restaurantes, cenadurías, y fondas podrán venderse y consumirse bebidas de baja graduación, siempre y cuando se consuman o se hayan consumido alimentos. Para dicha venta y consumo, se requerirá previa autorización expresa en la licencia expedida por la dependencia municipal competente en materia de giros. Para Vender y permitir el consumo de bebidas de alta graduación, será necesario que obtengan la licencia o permiso específico para un anexo de cantina o bar.
+En los restaurantes, cenadurías, fondas y demás similares, podrán venderse y consumirse bebidas de baja graduación, siempre y cuando se consuman o se hayan consumido alimentos. Para dicha venta y consumo, se requerir (sic) previa autorización expresa en la licencia expedida por la dependencia municipal competente en materia de giros. Para Vender y permitir el consumo de bebidas de alta graduación, ser (sic) necesario que obtengan la licencia o permiso específico para un anexo de cantina o bar.
 
 ###### Artículo 11.
 
 En los casinos, clubes sociales, salones de eventos o banquetes u otros lugares semejantes, podrá autorizarse el funcionamiento de un anexo especial de bar, cantina o cervecería, siempre que este servicio se preste únicamente a socios e invitados; además podrán permitir la celebración de banquetes en sus salones, en que se haga consumo de bebidas a descorche o de su anexo de bar o cantina, aunque intervengan personas que no sean socios, siempre que ello no desvirtúe el objeto social de tales establecimientos.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 12.
 
-En los hoteles, y moteles sólo podrán funcionar anexos de bar, cantina, cervecería o servi-bar, cuando se cuente con servicio de restaurante.
+En los hoteles, moteles y demás similares, sólo podrán funcionar anexos de bar, cantina, cervecería o servi-bar, cuando se cuente con servicio de restaurante.
 
 ###### Artículo 13.
 
@@ -249,6 +285,8 @@ III. Vender bebidas alcohólicas fuera del establecimiento;
 
 IV. Vender o permitir el consumo de bebidas alcohólicas a los menores de edad; así como permitirles la entrada a cantinas, cervecerías, cabaretes, centros nocturnos o botaneros, pulquerías, bares, discotecas y similares; salvo tratándose de eventos en que no se vendan y consuman bebidas de contenido alcohólico;
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
 V. Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a los inspectores municipales, y
 
 VI. Vender o permitir el consumo de bebidas alcohólicas a los que visiblemente estén en estado de ebriedad, a los individuos que estén bajo los efectos de sicotrópicos, a personas con deficiencias mentales, o que estén armadas.
@@ -259,23 +297,29 @@ VI. Vender o permitir el consumo de bebidas alcohólicas a los que visiblemente 
 
 Queda prohibido instalar establecimientos cuyo giro sea la venta o consumo de bebidas alcohólicas en bienes del domino público, de la Federación, Estado o del Municipio o edificios de la beneficencia pública, a excepción de aquellos destinados a espectáculos, eventos culturales o centros de recreación, donde conforme a su naturaleza lo autorice el Ayuntamiento respectivo, indicando las modalidades y limitaciones que considere necesarios, para esas actividades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 23.
 
-Para el caso de nuevos establecimientos que se encuentren comprendidos en la fracción I del Artículo 9º, no se otorgará licencia si se encuentran situados a una distancia menor de 150 metros de escuelas, hospitales, templos, cuarteles, centros de prevención o readaptación social y hospicios, o que se encuentren adyacentes o frente a este tipo de establecimientos o fábricas en que presten sus servicios trabajadores asalariados.
+Para el caso de nuevos establecimientos que se encuentren comprendidos en la fracción I del Artículo 9º, o se dediquen como giro principal a la venta o consumo de bebidas alcohólicas así como los billares con venta o consumo de bebidas alcohólicas, no se les otorgará licencia si se encuentran situados a una distancia menor de 150 metros de escuelas, hospitales, templos, cárceles, centros de prevención o readaptación social y hospicios, o que se encuentren adyacentes o frente a este tipo de establecimientos o a fábricas en que presten sus servicios trabajadores asalariados.
 
 Los nuevos establecimientos referidos en la fracción I del Artículo 9°, no deberán situarse a una distancia menor de 150 metros uno de otro, a excepción de aquellos que se establezcan en zonas que el Cabildo determine como turísticas las que deberán precisar en sus límites.
 
 La distancia a que se refiere este artículo se computará por las vías ordinarias de tránsito, desde la puerta de las escuelas, hospitales y demás lugares a que se refieren los párrafos anteriores, a la puerta principal del establecimiento.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 24.
 
-Los establecimientos referidos en el artículo 9°, fracciones I y II, no deberán estar comunicados con casa-habitación, ni tener entrada común a ella. Se exceptúan de lo (sic) anterior disposición los restaurantes, cafés, ondas (sic) y cenadurías.
+Todos los establecimientos regulados por la presente ley deberán cumplir, además de las disposiciones del presente ordenamiento, con las normas establecidas en la Ley de Desarrollo Urbano, reglamentos de zonificación y demás aplicables a la materia; del mismo modo los establecimientos referidos en el artículo 9°, fracciones I y II, no deberán estar comunicados con casa-habitación, ni tener entrada común a ella. Se exceptúan de lo (sic) anterior disposición los restaurantes, cafés, fondas y cenadurías.
 
 ### CAPÍTULO VII. DEL OTORGAMIENTO DE LICENCIAS O PERMISOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 25.
 
-Las licencias o permisos específicos a que se refiere la fracción I del artículo 4° de la presente ley:
+Las licencias a que se refiere la fracción I del artículo 4° de la presente ley;
 
 I. Se expedirán para las modalidades de:
 
@@ -299,17 +343,23 @@ En caso de que el titular de la licencia decida cambiarse de domicilio, podrá c
 
 V. En caso de enajenación del establecimiento o local, se procederá al cambio del titular de la licencia, siguiendo para ello los trámites establecidos en los reglamentos municipales correspondientes, debiendo el nuevo adquirente cumplir con los requisitos establecidos en la presente ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 26.
 
-La solicitud de licencia o permiso será presentada ante la dependencia municipal competente en materia de giros, quien previo análisis dictaminará sobre el cumplimiento de los requisitos que para tal efecto establece la presente ley y los demás ordenamientos aplicables.
+En todos lo casos la solicitud de licencia o permiso será presentada ante la dependencia municipal competente en materia de giros, quien previo análisis dictaminar (sic) sobre el cumplimiento de los requisitos que para tal efecto establece la presente ley y los demás ordenamientos aplicables.
 
 Una vez que la solicitud ha sido dictaminada, será remitida al Presidente Municipal, en los casos establecidos en la fracción II del artículo 4º de la presente ley y al Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas, tratándose de los supuestos señalados en la fracción I del mencionado artículo, para su análisis y autorización en su caso.
 
-El acto de expedición, refrendo y revocación de las licencias referidas en el artículo 4° de la presente ley, será realizado por la Oficialía Mayor de Padrón y Licencias, o la dependencia municipal que desempeñe funciones en materia de giros.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
+El acto de expedición, cambio de domicilio, refrendo y revocación de las licencias referidas en el Artículo 4° de la presente ley, será realizado por la Oficialía Mayor de Padrón y Licencias, o la dependencia municipal que desempeñe funciones en materia de giros.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 27.
 
-No se otorgará licencia para operar los establecimientos a que se refiere el artículo 9º fracción I de la presente ley, cuando el solicitante haya sufrido dentro de los últimos diez años, condena por delitos contra la salud, violación, lenocinio o corrupción de menores. El plazo a que este artículo se refiere, se computará desde la fecha en que haya quedado compurgadas todas las sanciones impuestas.
+No se otorgar (sic) licencia para operar los establecimientos a que se refiere el Artículo 9º fracción I de la presente ley, cuando el solicitante haya sufrido dentro de los últimos diez años, condena por delitos contra la salud, violación, lenocinio o corrupción de menores. El plazo a que este Artículo se refiere, se computará desde la fecha en que hayan quedado compurgadas todas las sanciones impuestas.
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
@@ -336,6 +386,8 @@ I. La gravedad de la infracción.
 II. La condición económica del infractor.
 
 III. El carácter intencional de la infracción.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
 
 IV. Si se trata de reincidencia.
 
@@ -365,11 +417,15 @@ Se impondrá una multa de 30 a 150 días de salario mínimo y la clausura tempor
 
 Se impondrá multa de 100 a 350 días de salario mínimo y en su caso, la revocación de la licencia, a quienes vendan bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de la fracción I del artículo 21 de la presente ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 36.
 
-Se impondrá multa de 30 a 200 días de salario mínimo y en su caso la revocación de la licencia, al dueño o encargado del establecimiento, cuyo giro sea la venta o consumo de bebidas alcohólicas que:
+Se impondrá multa de 30 a 200 días de salario mínimo y en su caso la revocación de la licencia o permiso, al dueño o encargado del establecimiento que:
 
-I. Venda bebidas de contenido alcohólico en los lugares y días prohibidos por la presente ley, o en los horarios prohibidos por el Ayuntamiento correspondiente.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+I. Venda o permita el consumo de bebidas de contenido alcohólico en los lugares y días prohibidos por la presente ley, o en los horarios prohibidos por el Ayuntamiento correspondiente.
 
 II. Impida o dificulte a las autoridades encargadas la inspección del establecimiento.
 
@@ -393,7 +449,9 @@ I. Si no reúnen los requisitos de salud pública o de seguridad en sus instalac
 
 II. Por contravenir las disposiciones de la presente ley y los reglamentos municipales, en los casos expresamente señalados por los mismos;
 
-III. Por razones de interés público, debidamente justificadas;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+III. Por razones de interés público;
 
 IV. Cuando otorgada la licencia, no se inicien operaciones en un plazo de 180 días naturales, a partir de la fecha en que el titular recibió la licencia o permiso.
 
@@ -440,3 +498,9 @@ Gabriel Guillermo Zermeño Márquez
 Diputado Secretario
 
 Francisco Julián Iñiguez García
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 1998.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial El Estado de Jalisco.
