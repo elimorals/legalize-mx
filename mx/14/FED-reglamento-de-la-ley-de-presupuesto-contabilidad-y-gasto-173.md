@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-presupuesto-contabilidad-y-gasto-173"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-11-18"
-last_updated: "1996-08-20"
+last_updated: "2001-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-11-13"
 
 REGLAMENTO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de noviembre de 1981.
 
@@ -407,51 +407,51 @@ Tratándose del programa de inversiones, coordinado con los Gobiernos Estatales,
 
 En todos los casos, las autorizaciones que otorgue la Secretaría en los términos de este artículo, así como los compromisos que con base en dichas autorizaciones contraigan las entidades, estarán condicionadas a la aprobación del presupuesto de egresos correspondiente por la Cámara de Diputados del Congreso de la Unión.
 
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2001)</small>
 
-ARTICULO 38 A.- En el caso de los proyectos a que se refiere el párrafo segundo del artículo 30 de la Ley las entidades deberán presentar cada uno de ellos a la Secretaría a fin de recabar, en su caso, la autorización correspondiente.
+ARTICULO 38 A.- En el caso de los proyectos a que se refiere el párrafo segundo del artículo 30 de la Ley, las entidades deberán presentar cada uno de ellos a la Secretaría a fin de recabar, en su caso, la autorización correspondiente.
 
-La Secretaría sólo podrá autorizar aquellos proyectos en el que los riesgos de operación y de contratación que las entidades asuman, sean congruentes con las condiciones financieras que se establezcan en los mismos, considerando las condiciones imperantes para operaciones semejantes en los mercados financieros internacionales.
+La Secretaría sólo podrá autorizar aquellos proyectos en que los riesgos de operación y de contratación que las entidades asuman, sean congruentes con los términos financieros propuestos para los proyectos, considerando las condiciones imperantes para operaciones semejantes en los mercados financieros internacionales.
 
 Las solicitudes de autorización que al efecto presenten las entidades, deberán cumplir con los siguientes requisitos:
 
-1. La justificación, conforme a los programas sectoriales o institucionales que corresponda a la entidad solicitante, de que el programa que contenga el proyecto en análisis se considera estratégico o prioritario de acuerdo a lo establecido en los artículos 25 y 28 párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación.
+1. La justificación, conforme a los programas sectoriales o institucionales que corresponda a la entidad solicitante, de que el programa que contenga el proyecto en análisis se considera estratégico o prioritario de acuerdo a lo establecido en los artículos 25 y 28 párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Planeación;
 
 2. La presentación de un documento que contenga:
 
 a) Una descripción detallada del proyecto;
 
-b) Los fines que con su desarrollo se pretendan obtener; y
+b) Los fines que con su desarrollo se pretendan obtener;
 
-c) Las fuentes de financiamiento que se van a utilizar y los términos, condiciones, etapas de desarrollo, tasas de interés y los demás costos directos o indirectos que represente el servicio integral de las obligaciones que en consecuencia puedan contraerse;
+c) El estudio de la viabilidad técnico-económico del proyecto; y
+
+d) Las fuentes de financiamiento que se prevea utilizar y demás términos, condiciones financieras, costos directos e indirectos que se hayan considerado para el diseño, ejecución y pago del proyecto;
 
 3. Una descripción general de los esquemas e instrumentos jurídicos que se utilizarían para la concreción de los financiamientos correspondientes, y cualquier otro acto o hecho asociado a ellos que pudiera representar obligaciones de cualquier tipo, directas, contingentes o cualquier otro riesgo financiero u operativo para el Gobierno Federal o a una o más de las entidades a que se refieren las fracciones IV a VIII del artículo 2o. de la Ley que pudieran representarles un costo;
 
-4. El detalle de los flujos de recursos que el proyecto podrá generar, su monto y periodicidad, así como la forma en que se dará congruencia y eficacia al cumplimiento de las obligaciones que el proyecto implique y el calendario de pagos que al efecto se establezca;
+4. El detalle de los flujos de recursos que el proyecto podrá generar, su monto y periodicidad, así como la forma en que se dará cumplimiento a las obligaciones que el proyecto implique y el calendario de pagos que al efecto se prevea establecer;
 
-5. La demostración de que las obligaciones de pago contenidas en el calendario financiero del proyecto, se ajustan a lo previsto en este reglamento;
+5. La justificación de que las obligaciones de pago contenidas en el calendario de pagos propuesto, se ajustan a lo previsto en este reglamento;
 
-6. El análisis de las fuentes alternativas de financiamiento que el proyecto pudiera tener y el razonamiento de que la propuesta es la alternativa más conveniente para el Gobierno Federal en los tiempos y condiciones en que se desarrolle, desde un punto de vista técnico y financiero;
+6. El análisis de las fuentes alternativas de financiamiento que el proyecto pudiera tener y la justificación de que al momento de evaluar el proyecto la alternativa presentada ofrece ventajas financieras respecto de otras opciones de financiamiento; y
 
-7.- Los demás que para la mejor comprensión y dimensionamiento del proyecto, sus efectos, implicaciones o riesgos de cualquier índole, requiera la Secretaría.
+7. Los demás que para la mejor comprensión y dimensionamiento del proyecto, sus efectos, implicaciones o riesgos de cualquier índole, requiera la Secretaría.
 
-La solicitud de autorización deberá presentarse a la Secretaría directamente por las entidades a que se refieren las fracciones IV y V, del artículo 2o. de la Ley y aquéllas que no estén coordinadas dentro de un sector, y por conducto de la coordinadora sectorial correspondiente, en el caso de las comprendidas en las fracciones VI a VIII del mencionado numeral.
+La solicitud de autorización deberá presentarse a la Secretaría directamente por las entidades a que se refieren las fracciones IV y V, del Artículo 2o. de la Ley y aquellas que no estén coordinadas dentro de un sector, y por conducto de la coordinadora sectorial correspondiente, en el caso de las comprendidas en las fracciones VI a VIII del mencionado numeral.
 
-Cuando a juicio de la Secretaría, la solicitud presentada se ajusta a lo dispuesto por este Reglamento, la propia Secretaría junto con la coordinadora sectorial correspondiente, deberá remitirla para su consideración a la comisión intersecretarial que determine el Presidente de la República.
+Cuando a juicio de la Secretaría, la solicitud presentada se ajuste a lo dispuesto por este Reglamento, la coordinadora sectorial correspondiente, deberá remitirla para su consideración a la Comisión Intersecretarial de Gasto Financiamiento y en caso de que la entidad no esté coordinada, será la propia entidad quien la presente a la citada comisión.
 
-El dictamen que al efecto emita dicha comisión, considerará especialmente la importancia y necesidad del proyecto; los efectos que podría tener la no realización del proyecto; los riesgos de cualquier índole que el mismo podrá razonablemente representar;
-
-las condiciones de crédito público en que se desarrolle y el impacto que respecto del mismo pudiera tener, y establecerá las condiciones en que la Secretaría otorgará, en su caso, la autorización correspondiente.
-
-La citada Comisión dará preferencia a proyectos que cuenten con fuentes de financiamiento especiales en razón de la naturaleza de la inversión, tales como el caso de créditos otorgados por proveedores o contratistas directamente o por instituciones que financien en condiciones preferenciales de plazo, tasa de interés u otras, la adquisición de bienes, equipos, derechos o tecnología y rechazará, salvo justificación expresa a su juicio, aquéllos que innecesariamente afecten las fuentes generales de crédito con que cuente la Federación.
+El dictamen que al efecto emita dicha comisión, considerará especialmente la importancia y necesidad del proyecto; los efectos que podría tener la no realización del proyecto; los riesgos de cualquier índole que el mismo podrá razonablemente representar y el impacto que pudiera tener sobre el crédito público y establecerá las condiciones en que la Secretaría otorgará, en su caso, la autorización correspondiente.
 
 Sólo de manera excepcional dicha comisión podrá considerar como fuente de generación de recursos de un proyecto, los subsidios que de acuerdo al Presupuesto de Egresos de la Federación se hubieran otorgado para apoyar el desarrollo de actividades prioritarias, que permitan proporcionar a los consumidores bienes y servicios básicos a precios y tarifas por debajo de los del mercado, o de los costos de producción.
 
 En este último caso, la Secretaría establecerá la forma en que deberá distribuirse en el tiempo el monto de los subsidios otorgados, a efecto de dar congruencia y equilibrio presupuestario al servicio de las obligaciones de pago que correspondan a un proyecto, en el conjunto de los que bajo tales esquemas autorice.
 
-La Secretaría, previo dictamen favorable de la citada comisión intersecretarial, otorgará las autorizaciones correspondientes y podrá establecer, a su juicio, condiciones específicas adicionales con base en su competencia legal.
+La Secretaría, previo dictamen favorable de la citada comisión intersecretarial, podrá otorgar las autorizaciones correspondientes y en su caso establecer, condiciones específicas adicionales con base en su competencia legal.
 
-Durante el plazo de amortización de un proyecto autorizado en los términos de este Artículo, las entidades deberán tramitar, en el ejercicio fiscal previo, una autorización especial de inversión pública para el pago de las obligaciones inherentes que correspondan al presupuesto de egresos del ejercicio fiscal de que se trate y el del año siguiente.
+Las entidades deberán tramitar una autorización de inversión pública, para el pago o amortización de las obligaciones derivadas del financiamiento de un proyecto autorizado bajo cualquier modalidad, en los términos previstos en este artículo y en el artículo 18 de la Ley General de Deuda Pública, y que corresponden al presupuesto de egresos del ejercicio fiscal de que se trate.
+
+Las obligaciones financieras que de conformidad con esta disposición se generen en términos del último párrafo del artículo 18 de la Ley General de Deuda Pública, así como el gasto presupuestal asociado a los proyectos a que se refiere el párrafo segundo del artículo 30 de la Ley, deberán incorporarse al informe sobre la situación económica, las finanzas públicas y la deuda pública que trimestralmente se remite al Congreso de la Unión.
 
 > <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1996)</small>
 
@@ -1201,7 +1201,7 @@ II. Información para integrar el apartado de Resultados Generales;
 
 III. Información para integrar los Estados Programáticos, y
 
-IV. Otra información complementaria que solicite la Secretaría
+IV. Otra información complementaria que solicite la Secretaría.
 
 ###### ARTICULO 124.
 
@@ -1782,3 +1782,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Los programas de las entidades a que se refiere el Reglamento que se reforma y adiciona, contenidos en el Presupuesto de Egresos de la Federación, publicado en el Diario Oficial de la Federación el 22 de diciembre de 1995, que cumplan con los requisitos a que se refieren los artículos 30, segundo párrafo, de la Ley de Presupuestos, Contabilidad y Gasto Público Federal y 18, tercer párrafo, de la Ley General de Deuda Pública, podrán ser sujetos del tratamiento presupuestal que se establece en los artículos que se reforman y adicionan mediante este Decreto, siempre y cuando cumplan con las condiciones señaladas en el mismo y que el monto de gastos de inversión que tengan que ejercerse en los años de 1996 y 1997 no excedan las previsiones totales que para el Presupuesto de Egresos de la Federación para el ejercicio de 1996, les hayan sido establecidas por la Cámara de Diputados del Congreso de la Unión.
 
 Tercero.- La comisión intersecretarial a que se refiere el artículo 38-A que se adiciona en el Reglamento a que se refiere este Decreto, será la Comisión Intersecretarial de Gasto Financiamiento, creada por Acuerdo del Ejecutivo Federal publicado en el Diario Oficial de la Federación el 29 de agosto de 1979 y modificado por última vez por acuerdo publicado en el mismo periódico oficial el 2 de septiembre de 1994, la que ejercerá las atribuciones a que se refiere ese artículo.
+
+D.O.F. 25 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
