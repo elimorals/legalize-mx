@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "1988-12-23"
+last_updated: "1991-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -335,9 +335,13 @@ Tratándose de las aportaciones cubiertas por los ingresos percibidos bajo la n�
 
 Los servidores públicos y los jubilados y pensionados deberán aportar al Instituto una cuota del 6% del sueldo base o de la pensión que disfruten, para tener derecho a las prestaciones que esta Ley les confiere.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 31.
 
-Las entidades públicas cubrirán al Instituto como aportación, un 14% del sueldo base nominal de los servidores públicos, el cual será aplicado en un 4% para el pago de las prestaciones a que se refiere el Artículo 6 en sus fracciones II, III, V y VI y el restante 10% se destinará para los servicios médicos a que se refiere la fracción I del invocado Artículo 6.
+Las entidades públicas cubrirán al Instituto como aportación, un 18.30 por ciento del sueldo Base Nominal de los servidores públicos, el cual será aplicado en un 4 por ciento para el pago de las prestaciones a que se refiere el Artículo 6 de esta Ley en sus fracciones II, III, V y VI, y el restante 14.30 por ciento se destinará para los servicios médicos a que se refiere la fracción I del mencionado artículo 6.
+
+La aportación de las entidades públicas se modificará en la proporción en que varíe el costo de los servicios médicos.
 
 ###### ARTICULO 32.
 
@@ -910,3 +914,7 @@ P.O. 23 DE DICIEMBRE DE 1988.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 178 POR EL QUE “SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE JUNIO DE 1991.
+
+Unico.- El presente decreto entrará en vigor el día 1º de agosto del presente año.
