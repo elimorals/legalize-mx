@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2004-02-18"
+last_updated: "2004-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -135,7 +135,9 @@ IV.- Promover, mediante la enseñanza de la lengua nacional, el español, un idi
 
 V.- Difundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2004)</small>
+
+VI.- Fomentar e implementar en los planteles educativos la Cultura de la Legalidad, promoviendo el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento y el respeto a los mismos;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
@@ -2106,3 +2108,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 18 DE FEBRERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
