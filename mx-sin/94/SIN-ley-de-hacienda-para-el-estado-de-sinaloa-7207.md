@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1990-08-24"
+last_updated: "1990-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1990.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2971,6 +2971,10 @@ El pago se hará en la Secretaría de Hacienda Pública y Tesorería del Estado,
 
 El recibo oficial de pago se exhibirá en la Dirección General de Educación al presentarse el título profesional cuyo registro se solicite y la demás documentación que señalen las leyes y reglamentos de la materia.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 308 Bis.- El cobro por el concepto contenido en el Artículo 308 de esta Ley, no se causará mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público, en materia de Derechos.
+
 ### CAPITULO VII. Registro de Fierros, Marcas, Tatuajes, Aretes y Señales de los Ganaderos
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
@@ -3003,7 +3007,13 @@ en adelante 6.60
 
 II.- Por la reposición de títulos 1.00
 
-### CAPITULO VIII. Registro de Vehículos de Motor
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 309 Bis.- Mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público, en materia de Derechos, bajo ninguna circunstancia se hará cobro alguno por los conceptos contenidos en el Artículo 309 de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+### CAPITULO VIII. Licencias y Servicios de Tránsito
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -3039,39 +3049,47 @@ d).- Por cada placa para motocicleta,
 
 por un año 0.65
 
-e).- Permiso provisional para la
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-circulación de maquinaria agrícola
+e).- Para la circulación de
 
-y equipo móvil diversos a los previstos
+maquinaria agrícola y equipo
 
-en los inciso (sic) anteriores por día 0.40
+móvil diverso a los previstos
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+en los inciso anteriores
 
-f).- Permiso provisional para la
+por día 0.40
 
-circulación de vehículos con peso y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-dimensiones mayores a las
+f).- Para la circulación de
 
-autorizadas, según lo previsto por el
+vehículos con peso y
 
-Artículo 63 de la Ley de Tránsito y
+dimensiones mayores a
 
-Transportes del Estado, por día 0.07
+las autorizadas, según lo
 
-g).- Permiso provisional para
+previsto por el Artículo 63 de la
 
-transporte de carga sobresaliente
+Ley de Tránsito y Transportes
 
-no autorizada, por viaje 0.10
+del Estado, por día 0.07
 
-h).- Permiso para el transporte
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-nocturno de carga sobresaliente,
+g).- Para circular con carga
 
-por viaje 0.10
+sobresaliente no autorizada,
+
+por viaje, 0.10
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+h).- Por el transporte nocturno
+
+de carga sobresaliente, por viaje 0.10
 
 i).- Por la revalidación anual de
 
@@ -3119,37 +3137,37 @@ de licencia para justificar el estado
 
 del conductor cuando sea necesario 0.25
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-VI.- Por cada concesión o permiso
+VI.- Por cada concesión de ruta
 
-de ruta o zona para camiones o
+o zona para camiones o automóviles
 
-automóviles destinados al servicio
+destinados al servicio público de
 
-público de pasaje y/o carga, de 7 a 50
+pasaje y/o carga, de 7 a 50
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-VII.- Por cada concesión o permiso
+VII.- Por cada concesión de ruta
 
-de ruta o zona para explotar el servicio
+o zona para explotar el servicio
 
 exclusivo de turismo, de 7 a 50
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-VIII.- Por cada concesión o
+VIII.- Por cada concesión de ruta
 
-permiso de ruta o zona para
+o zona para el servicio de express,
 
-el servicio de express, de 7 a 50
+de 7 a 50
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-IX.- Por cada concesión o permiso
+IX.- Por cada concesión de ruta
 
-de ruta o zona para el transporte
+o zona para el transporte
 
 especial de carga peligrosa,
 
@@ -3157,151 +3175,39 @@ tales como explosivos u otros
 
 similares en los denominados
 
-"Pipas" o "Tanques", de 16 a 82
+"pipas" o "tanques", de 16 a 82
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-X.- Por cada traspaso o transmisión
+X.- Por cada traspaso o
 
-de concesión o permiso de ruta
+transmisión de concesión de
 
-a zona, cualquiera que sea la causa
+ruta a zona cualquiera que
 
-que la origine, de 16 a 82
+sea la causa que la origine, de 16 a 82
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) F. DE E. P.O. 25 DE ABRIL DE 1988)
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-En los casos a que se refieren las fracciones VI a X inclusive, la Sub-Secretaría de Ingresos determinará el monto del derecho correspondiente atendiendo a la importancia económica de la concesión.
+XI.- La revalidación anual de cada concesión de ruta o zona determinada, se pagará conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-XI.- La revalidación anual de cada permiso de ruta o zona se pagará conforme a las siguientes cuotas:
+XII.- Por la licencia anual para el transporte previsto en el Artículo 184 de la Ley de Tránsito y Transportes:
 
-a).- Por cada unidad de transporte urbano, de transporte de pasaje y carga de transporte de educandos, y de automóviles de sitio:
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-1.- Si el pago se hace en el mes de
+XIII.- Por concesiones eventuales de servicio público, por día:
 
-Diciembre del año inmediato anterior
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-de aquél a que corresponda la
+XIV.- Para circular sin placas
 
-revalidación 1.50
+correspondiente a vehículos de
 
-2.- Si el pago se hace en el
+servicio particular o público,
 
-mes de enero 2.00
-
-3.- Si el pago se hace en el mes
-
-de Febrero 2.50
-
-4.- Si el pago se hace a partir del mez (sic) de Marzo se cubrirá la cuota de 2.50 a que se refiere el punto anterior, más una multa equivalente a 0.35 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa, en la fecha de causación del Derecho correspondiente, por cada mes o fracción de mes de retraso.
-
-b).- Por cada unidad de servicio público de carga:
-
-1.- Si el pago se hace en el mes de
-
-diciembre del año inmediato anterior
-
-de aquél a que corresponda la
-
-revalidación 1.30
-
-2.- Si el pago se hace en el
-
-mes de Enero 1.80
-
-3.- Si el pago se hace en el
-
-mes de Febrero 2.30
-
-4.- Si el pago se hace a partir del mes de Marzo se cubrirá la cuota de 2.30 a que se refiere el punto anterior, más una multa equivalente a 0.35 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa, en la fecha de causación del Derecho correspondiente, por cada mes o fracción de mes de retraso.
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-La revalidación anual será obligatoria a partir del 1 de Enero del año siguiente de aquél en que haya sido otorgada la concesión o permiso.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-XII.- Por el permiso anual por el transporte previsto en el Artículo 184 de la Ley de Tránsito y Transportes:
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-a).- Para educandos 1.30
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-b).- En vehículos denominados
-
-pipas y tanques 1.65
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-c).- En vehículos de empresas
-
-funerarias 1.65
-
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
-
-d).- En vehículos dotadas de grúa 1.65
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-e).- Transporte de carga particular en vehículos diversos a los previstos en los incisos anteriores, por año:
-
-1.- Vehículos con capacidad hasta de
-
-2 toneladas 0.80
-
-2.- Vehículos con capacidad de más de
-
-2 toneladas 1.65
-
-3.- Vehículos cualquiera que sea su
-
-capacidad que movilicen materiales
-
-de construcción 2.50
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-f).- Por realizar maniobras de carga
-
-y descarga en vía pública: 0.80
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-XIII.- Por permisos eventuales de servicio público, por día:
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-a).- Para vehículos de transporte de
-
-pasajeros 0.10
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-b).- Para vehículos de carga, 0.05
-
-c).- Para vehículos de transporte
-
-mixto, entendiéndose por éstos a los
-
-de carga y pasaje 0.15
-
-d).- Para vehículos de servicio
-
-exclusivo de turismo 0.20
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-XIV.- Para cada permiso para circular
-
-sin placas correspondiente a
-
-vehículos de servicio particular o
-
-público, por día 0.15
+por día 0.15
 
 (REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
@@ -3366,6 +3272,12 @@ XXI.- Por el servicio de la grúa de tránsito se pagarán las siguientes cuotas
 a).- Automóviles y camiones: 2.00
 
 b).- Camiones, autobuses y similares: 3.00
+
+> <small>(ADICIONADA P.O. 12 DE OCTUBRE DE 1990)</small>
+
+XXII.- Para el transporte de
+
+carga particular de 10 a 40
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -3771,9 +3683,9 @@ Los Oficiales Registradores, al serles solicitado un servicio de su competencia,
 
 ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este capítulo, el Oficial registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. El Oficial registrador deberá cubrir absolutamente todos los gastos de la oficina a su cargo, asegurando un servicio rápido y eficaz. Los Oficiales registradores cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
 
-### CAPITULO XI
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-De los Permisos para Transportar Alcohol, Vinos y Licores y de los Permisos y Registros para el funcionamiento de Fábricas y Expendios de Bebidas Alcohólicas y de otras Bebidas
+### CAPITULO XI. De los Permisos y Registros para el funcionamiento de Fábricas y Expendios de Bebidas Alcohólicas y de otras Bebidas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -3829,581 +3741,35 @@ Cuando la apertura del establecimiento tenga lugar dentro de los tres últimos m
 
 La cuota aplicable entre la mínima y la máxima de la tarifa anterior, será determinada por las autoridades fiscales tomando en cuenta la importancia del establecimiento y de la población, así como la ubicación del negocio.
 
-ART. 325.- La revalidación anual de los permisos, licencias y registros a que se refiere el artículo anterior, deberá efectuarse durante los meses de enero a marzo de cada año, en caso contrario, se pagará, además de los derechos correspondientes, una multa de un tanto del principal.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-ART. 326.- Para la aplicación de las multas por violaciones a la Ley sobre Control de Bebidas Alcohólicas y su Reglamento, se atenderá a las disposiciones contenidas en dicha Ley.
+ART. 325.- La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la Ley de la materia, deberá efectuarse durante los meses de enero a marzo de cada año.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 326.- Para la aplicación de las multas por violaciones a la Ley de la materia, se atenderá a las disposiciones contenidas en dicha Ley.
+
+> <small>(ADICIONADO P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 326 Bis.- En tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, bajo ninguna circunstancia se hará cobro alguno pro los conceptos contenidos en las Fracciones I,II.III, IV Y V del artículo 324 de esta Ley.
 
 ### CAPITULO XII. Servicio Sanitario
 
-ART. 327.- Los derechos a que se refiere este Capítulo se causarán por los siguientes conceptos:
+ART. 327.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-I.- Expedición y revalidación de tarjeta de salud;
+ART. 328.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-II.- Expedición y revalidación de Licencia Sanitaria;
+ART. 329.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-III.- Expedición y reexpedición de permiso o autorización sanitaria de construcción.
+ART. 330.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 331.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-ART. 328.- Para la expedición o revalidación de las tarjetas de salud y de las licencias sanitarias, así como para la expedición y reexpedición de permiso o autorización sanitaria de construcción, será requisito previo que los derechos correspondientes hayan sido cubiertos en las Oficinas Recaudadoras que para el efecto tenga establecidas la Secretaría de Hacienda Pública y Tesorería.
+ART. 332.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-ART. 329.- La expedición de una tarjeta de salud o la revalidación semestral de la misma, causará, en cada ocasión, derechos por $ 100.00.
+ART. 333.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
-ART. 330.- La expedición de una Licencia Sanitaria o la revalidación anual de la misma, así como la expedición de un permiso o autorización sanitaria de construcción o la reexpedición anual de la misma, causará derechos de acuerdo con la naturaleza de la actividad, aplicándose para el efecto la siguiente:
-
-T A R I F A
-
-I.- Si se trata de fraccionamientos y edificaciones:
-
-a).- 3 al millar sobre el valor de las construcciones que se determinará aplicando a las superficies construidas por pisos, los siguientes costos unitarios:
-
-1.- $ 1,000.00 por metro cuadrado de construcción de segunda;
-
-2.- $ 1,500.00 por metro cuadrado de construcción de primera;
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-b).- Los fraccionamientos pagarán de $ 0.20 a $ 0.30 por metro cuadrado de superficie lotificada. La cuota aplicable entre la mínima y la máxima correspondiente será fijada por la Secretaría de Hacienda Pública y Tesorería por conducto de la Sub'Secretaría de Ingresos;
-
-II.- Tratándose de los siguientes giros, de acuerdo con su importancia y categoría:
-
-a).- Fábricas, almacenes, depósitos, agencias y expendios exclusivamente de cerveza: $ 200.00;
-
-b).- Fábricas, almacenes, depósitos y expendios de vinos y licores en general, con venta por botella o cartón cerrado, atendiendo a la categoría del negocio:
-
-1.- De primera $ 2,500.00
-
-2.- De segunda 2,000.00
-
-3.- De tercera 1,500.00
-
-c).- Cantinas, cabarets, bares y en general expendios de vinos y licores por botella abierta o al copeo, atendiendo a la categoría del negocio:
-
-1.- De primera $ 3,000.00
-
-2.- De segunda 2,500.00
-
-3.- De tercera 2,000.00
-
-d).- Expendios de mariscos, loncherías, cenadurías y restaurantes en general:
-
-1.- Con venta de cerveza exclusivamente $ 200.00
-
-2.- Con venta de vinos y licores, atendiendo a la categoría del negocio:
-
-De primera $ 3,000.00
-
-De segunda 2,000.00
-
-De tercera 1,500.00
-
-e).- Fábricas, almacenes, depósitos y expendios de alcohol, atendiendo a la categoría del negocio:
-
-De primera $ 3,000.00
-
-De segunda 2,000.00
-
-De tercera 1,000.00
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-La cuota será fijada por la Secretaría de Hacienda Pública y Tesorería por conducto de la Sub'Secretaría de Ingresos.
-
-III.- En los casos de los giros o negociaciones que a continuación se indican, los derechos sanitarios respectivos se causarán conforme a las siguientes cuotas:
-
-GIROS Por Por
-
-Expedición revalidación
-
-o reexpedición
-
-1.- Supermercados
-
-(sin bebidas
-
-embriagantes) $ 200.00 $ 150.00
-
-2.- Fábricas y
-
-expendios de
-
-comestibles y
-
-refrescos 200.00 150.00
-
-3.- Abarrotes
-
-mayoristas 150.00 100.00
-
-4.- Abarrotes
-
-detallistas 75.00 50.00
-
-5.- Bodegas
-
-y almacenes 150.00 100.00
-
-6.- Fábricas
-
-y expendios
-
-de pan 100.00 75.00
-
-7.- Puestos
-
-en los
-
-mercados 100.00 75.00
-
-8.- Depósitos
-
-de productos
-
-diversos 200.00 150.00
-
-9.- Molinos
-
-de granos 100.00 75.00
-
-10.- Embotelladoras 300.00 250.00
-
-11.- Fábricas
-
-de hielo 300.00 250.00
-
-12.- Expendios
-
-de hielo 100.00 50.00
-
-13.- Fábricas y
-
-expendios de
-
-alimentos
-
-para animales 150.00 100.00
-
-14.- Fábricas y
-
-expendios de
-
-fertilizantes y
-
-abonos químicos 250.00 200.00
-
-15.- Fábricas
-
-de productos
-
-químicos 250.00 200.00
-
-16.- Peluquerías
-
-y salones de
-
-belleza 150.00 100.00
-
-17.- Baños
-
-públicos y
-
-albercas 200.00 150.00
-
-18.- Estanquillos 50.00 30.00
-
-19.- Farmacias,
-
-droguerías y
-
-boticas de
-
-1ra.categoría 250.00 200.00
-
-20.- Farmacias,
-
-droguerías y
-
-boticas de
-
-2da.categoría 200.00 150.00
-
-21.- Farmacias,
-
-droguerías y
-
-boticas de
-
-3ra.categoría 100.00 50.00
-
-22.- Farmacias
-
-veterinarias 200.00 150.00
-
-23.- Hoteles
-
-y moteles de
-
-1ra. Categoría 250.00 200.00
-
-24.- Hoteles
-
-y moteles de
-
-2da. Categoría 150.00 100.00
-
-25.- Hoteles
-
-y moteles de
-
-3ra. Categoría 100.00 50.00
-
-26.- Casas de
-
-huéspedes, mesones
-
-y posadas de
-
-1ra. categoría 250.00 200.00
-
-27.- Casas de
-
-huéspedes,
-
-mesones
-
-y posadas de
-
-2da. categoría 150.00 100.00
-
-28.- Casas de
-
-huéspedes, mesones
-
-y posadas de
-
-3ra. categoría 100.00 50.00
-
-29.- Salas de
-
-espectáculos, salones
-
-públicos, clubes
-
-sociales y
-
-deportivos,
-
-salones de juego 250.00 200.00
-
-30.- Lavanderías
-
-y tintorerías 200.00 150.00
-
-31.- Fábricas
-
-y expendios de
-
-muebles 250.00 200.00
-
-32.- Expendios
-
-de petróleo y sus
-
-derivados 100.00 50.00
-
-33.- Almacenes
-
-y expendios
-
-de gas 250.00 200.00
-
-34.- Fábricas
-
-y expendios de
-
-artículos,
-
-ropa, telas,
-
-calzado,
-
-mercerías de
-
-1ra. Categoría 250.00 200.00
-
-35.- Fábricas
-
-y expendios de
-
-artículos, ropa,
-
-telas, calzado,
-
-mercerías de
-
-2da. Categoría 150.00 100.00
-
-36.- Fábricas
-
-y expendios de
-
-artículos, ropa,
-
-telas, calzado,
-
-mercerías de
-
-3ra. Categoría 100.00 50.00
-
-37.- Fábricas
-
-y expendios de
-
-artículos de
-
-joyería, 1ra.
-
-categoría 250.00 200.00
-
-38.- Fábricas
-
-y expendios de
-
-artículos de joyería,
-
-2da. categoría 150.00 100.00
-
-39.- Fábricas
-
-y expendios de
-
-artículos de joyería,
-
-3ra. categoría 100.00 50.00
-
-40.- Tenerías,
-
-saladeros y
-
-expendios de
-
-artículos de cuero o
-
-piel 250.00 200.00
-
-41.-Ópticas y
-
-expendios de
-
-artículos
-
-de fotografías,
-
-aparatos y material
-
-eléctrico, aparatos
-
-científicos y de
-
-precisión,
-
-1ra.categoría 250.00 200.00
-
-42.- Ópticas y
-
-expendios de artículos
-
-de fotografías, aparatos
-
-y material
-
-eléctrico, aparatos
-
-científicos y de
-
-precisión,
-
-2da.categoría 150.00 100.00
-
-43.- Ópticas y expendios
-
-de artículos de fotografías,
-
-aparatos y material
-
-eléctrico, aparatos
-
-científicos y de
-
-precisión,
-
-3ra.categoría 100.00 50.00
-
-44.- Librería, papelerías,
-
-talleres de imprenta
-
-y encuadernación,
-
-1ra. categoría 200.00 150.00
-
-45.- Librería,
-
-papelerías, talleres
-
-de imprenta y
-
-encuadernación,
-
-2a. Categoría 150.00 100.00
-
-46.- Librerías, papelerías,
-
-talleres de imprenta
-
-y encuadernación,
-
-3ra. Categoría 100.00 50.00
-
-47.- Talleres
-
-y carpintería,
-
-1ra. Categoría 200.00 150.00
-
-48.- Talleres y
-
-carpintería,
-
-2da. Categoría 150.00 100.00
-
-49.- Talleres
-
-y carpintería,
-
-3ra. Categoría 100.00 50.00
-
-50.- Funerarias 250.00 200.00
-
-51.- Vulcanizadoras,
-
-vitalizadoras y
-
-llanteras de
-
-1ra. categoría 150.00 100.00
-
-52.- Vulcanizadoras,
-
-vitalizadoras y
-
-llanteras de
-
-2da. categoría 100.00 50.00
-
-53.- Agencias de
-
-vehículos de motor,
-
-refaccionarias,
-
-ferreterías y
-
-tlapalerías 250.00 200.00
-
-54.- Sastrerías de
-
-1ra. categoría 200.00 150.00
-
-55.- Sastrerías de
-
-2da. categoría 150.00 100.00
-
-56.- Sastrerías de
-
-3ra. categoría 100.00 50.00
-
-57.- Fábricas y
-
-expendios de
-
-fertilizantes e
-
-insecticidas 250.00 200.00
-
-58.- Despepitadoras
-
-de algodón 250.00 200.00
-
-59.- Vehículos de
-
-transportes de
-
-pasajeros y
-
-sus terminales 250.00 200.00
-
-60.- Pasteurizadoras
-
-de leche 200.00 150.00
-
-61.- Expendios
-
-de leche 100.00 50.00
-
-62.- Tortillerías 150.00 100.00
-
-63.- Puestos
-
-semifijos 50.00 30.00
-
-64.- Taquerías 100.00 70.00
-
-65.- Loncherías 100.00 70.00
-
-66.- Restaurantes 250.00 200.00
-
-67.- Paleterías 200.00 150.00
-
-68.- Fábricas
-
-de helados 250.00 200.00
-
-69.- Rastros 250.00 200.00
-
-70.- Plantas avícolas,
-
-porquerizas y
-
-establos 250.00 200.00
-
-71.- Hospitales,
-
-sanatorios y
-
-laboratorios 250.00 200.00
-
-72.- Actividades
-
-industriales,
-
-comerciales y
-
-de servicios no
-
-especificados 250.00 200.00.
-
-ART. 331.- Son sujetos para el pago de los derechos de expedición o revalidación de Licencia Sanitaria así como para expedición o reexpedición de permiso o autorización sanitaria de construcción, las personas físicas o morales que sean propietarias o arrendatarias de las negociaciones o giros mencionados en la tarifa del artículo anterior. Es obligatorio para los sujetos al pago de derechos sanitarios, obtener su tarjeta de salud, licencia sanitaria o su permiso o autorización sanitaria de construcción, así como su revalidación o reexpedición correspondiente.
-
-ART. 332.- La licencia sanitaria así como el permiso o autorización sanitaria de construcción deberá obtenerse previamente a la apertura del negocio y tendrá vigencia por un año a partir de la fecha de su expedición, debiendo ser revalidada diez días antes de su vencimiento.
-
-ART. 333.- Las licencias sanitarias o los permisos o autorizaciones sanitarias de construcción se causarán por cada una de las dependencias de los negocios, por los (sic) tanto, si una empresa tiene varios establecimientos aún dentro de la misma plaza, deberá pagar sus derechos sanitarios por cada uno de ellos, de acuerdo con las cuotas correspondientes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 334.- En incumplimiento de estas disposiciones causará sanciones que serán calificadas y cobradas por la Secretaría de Hacienda Pública y Tesorería, a través de la Sub Secretaría de Ingresos.
-
-Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, vigilancia, servicio, normas y procedimientos sanitarios, se aplicarán de conformidad con las disposiciones establecidas en el Código Sanitario de los Estados Unidos Mexicanos y sus Reglamentos.
+ART. 334.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE MAYO DE 1989)</small>
 
@@ -4487,55 +3853,7 @@ ART. 334 Bis B.- Estarán excentos (sic) del pago de cuotas los vehículos milit
 
 Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados Locales y Presidentes Municipales del Estado de Sinaloa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1989)</small>
-
-ART. 334 Bis C.- Por el otorgamiento de autorización para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de la Autopista Estatal "Benito Juárez", o su refrendo anual, se pagará conforme a la siguiente:
-
-(REFORMADA, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
-
-T A R I F A:
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-VECES EL SALARIO MINIMO GENERAL
-
-VIGENTE EN SINALOA
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-CLASE DE POR LA POR EL
-
-ESTABLECIMIENTO AUTORIZACION REFRENDO
-
-INICIAL ANUAL
-
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
-
-I.- Establecimientos con venta
-
-de combustibles y lubricantes 12.00 6.50
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-II.- Restaurante y similares 8.50 4.25
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-III.- Taller mecánico y/o
-
-Eléctrico 4.50 2.25
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-IV.- Otros 3.25 2.00
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-La autorización será expedida por el organismo que tenga a su cargo la administración de la mencionada carretera, previa presentación de la solicitud correspondiente.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-El pago del derecho por la autorización inicial se hará previamente a su otorgamiento. El refrendo se pagará durante el mes de Junio de cada año.
+ART. 334 Bis C.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
 
@@ -4543,13 +3861,15 @@ ART. 334 Bis D.- Los ingresos que se recauden por concepto de las cuotas y los d
 
 La parte de los ingresos que exceda el límite señalado en el párrafo anterior, no tendrá fin específico.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-### CAPITULO XIV. Inspección y Vigilancia de Obra Pública Directa
+### CAPITULO XIV. Fiscalización en Obra Pública Directa
+
+> <small>(REFORMADO PRIMER PARRAFO, O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 334 Bis E.- Por el servicio de fiscalización y control que las leyes de la materia encomiendan a la Contraloría General del Poder Ejecutivo y demás autoridades competentes del Estado, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un Derecho equivalente al 3% sobre el importe de cada una de las estimaciones de trabajos.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-ART. 334 Bis E.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Controlaría General del Poder Ejecutivo y demás autoridades competentes del Estado, los contratistas con quienes se celebren los contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 3 por ciento sobre el importe de cada una de las estimaciones de trabajo.
 
 La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior.
 
@@ -4558,6 +3878,12 @@ La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, a
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
 
 ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 335 Bis.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las carreteras en jurisdicción estatal.
+
+En estos casos se cobrará una cuota anual de 0.5 a 2 Salarios Mínimos por metro cuadrado, independientemente del pago del costo de acceso que afecte a la carretera.
 
 ART. 336.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
 
@@ -5911,6 +5237,94 @@ ART. 292.- El fisco del Estado queda facultado para seguir el procedimiento econ
 
 ART. 292 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 292 BIS A.- Se encuentran obligadas al pago de este impuesto, las personas físicas y morales que, aún teniendo su domicilio fuera del Estado, realicen en el mismo, erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado, independientemente de la designación que se le otorgue.
+
+Para los efectos de este impuesto se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios que se deriven de una relación laboral.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 292 Bis B.- El impuesto se determinará aplicando la tasa del 1.5% sobre el monto total de las erogaciones gravadas.
+
+Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
+
+(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990). (F. DE E. P.O. 11 DE ENERO DE 1991)
+
+ART. 292 Bis C.- Este Impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración, que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente, o ante la Oficina autorizada al efecto. El pago deberá efectuarse mediante declaración bimestral, dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero, cuarto, quinto y sexto bimestre del año; según corresponda.
+
+> <small>(F. DE E. P.O. 11 DE ENERO DE 1991)</small>
+
+Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente de diez veces el salario mínimo general elevado a treinta días, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 292 Bis D.- Los contribuyentes de este impuesto podrán celebrar convenios respecto a la forma para el pago, en aquellas actividades cuyas características ameriten el control del gravamen en las formas indicadas, para cuyo efecto se faculta a las autoridades fiscales. En estos casos no será necesaria la presentación de la declaración a que se refiere el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 292 Bis E.- Son obligaciones de los contribuyentes de este impuesto, además de las señaladas en los Artículos que anteceden:
+
+I.- Presentar aviso de inscripción ante la Oficina Recaudadora de Rentas del Estado correspondiente a su domicilio, dentro de los diez días siguientes a la fecha en que inicien las actividades por las cuales deban efectuar el pago del impuesto a que se refiere este capítulo, haciendo uso de las formas oficialmente aprobadas.
+
+Las sucursales, bodegas, agencias u otras dependencias de la matriz, deberán empadronarse por separado. En estos casos, previa solicitud del contribuyente, las autoridades fiscales podrán autorizar que el impuesto correspondiente a las sucursales sea pagado por conducto de la matriz, mediante la presentación de una sola declaración en la que se incluyan las erogaciones tanto de la matriz como de las sucursales o dependencias.
+
+Para los efectos de este capítulo, se entiende como fecha de iniciación de operaciones aquella en que tenga lugar la apertura del establecimiento, existiendo la obligación de pago del impuesto en el momento en que el contribuyente efectúe la primera erogación gravada.
+
+II.- Presentar ante la misma Oficina y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre o razón social, cambio de domicilio, actividad, traspaso de la negociación, suspensión temporal de actividades o clausura.
+
+III.- Presentar las declaraciones correspondientes, aún cuando no se hubieren efectuado erogaciones gravadas.
+
+IV.- Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990). (F. DE E. P.O. 11 DE ENERO DE 1991)
+
+ART. 292 Bis F.- Se exceptúan del pago de este Impuesto:
+
+I.- Las erogaciones que se cubran por concepto de:
+
+a).- Participación de los trabajadores en las utilidades de las empresas;
+
+b).- Prima vacacional;
+
+c).- Indemnización por riesgo de trabajo que se concedan de acuerdo con las leyes o contratos respectivos;
+
+d).- Pensión y jubilación en los casos de invalidez, vejez, cesantía y muerte;
+
+e).- Indemnización por rescisión o terminación de las relaciones de trabajo;
+
+f).- Pago por gastos funerarios;
+
+g).- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
+
+h).- Pagos a trabajadores domésticos; y
+
+i).- Aguinaldo.
+
+II.- Las erogaciones que efectúen:
+
+a).- La Federación y los Municipios;
+
+b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
+
+(F.E. P.O. 11 DE ENERO DE 1991)
+
+c).- Agrupaciones de trabajadores, de profesionales, de empresarios o propietarios;
+
+d).- Instituciones educativas;
+
+e).- Clubes de servicio; y
+
+f).- Partidos y asociaciones políticas.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 292 Bis G.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en los siguientes casos:
+
+I.- Cuando no presenten sus declaraciones o registros a que legalmente están obligados.
+
+II.- Cuando por los informes que se obtengan, se ponga de manifiesto que se han efectuado obligaciones gravadas que excedan del 10% de las declaradas por el contribuyente.
+
 ### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
@@ -6288,3 +5702,27 @@ P.O. 24 DE AGOSTO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE OCTUBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de la adición del Capítulo XXVI al Título Segundo de la Ley de Hacienda del Estado; se concede un plazo de 30 días contados a partir de la fecha en que entre en vigor el presente Decreto para que los contribuyentes obligados al pago de este impuesto, que hubieran iniciado operaciones con anterioridad a la vigencia del mismo, presenten su aviso de inscripción ante la Oficina Recaudadora de su domicilio, sin la aplicación de sanciones.
+
+###### ARTICULO TERCERO.
+
+El Impuesto Sobre Nóminas se causará por las erogaciones que se realicen a partir del primero de noviembre de 1990.
+
+###### ARTICULO CUARTO.
+
+Sin perjuicio de cumplir con las demás obligaciones que el Artículo 292 Bis-E les impone, no están obligados al pago de este impuesto las negociaciones de nueva creación durante su primer año de operación.
+
+Se entiende como negociación de nueva creación, aquella que ha contribuido a aumentar el capital social de la economía del Estado. Por lo que, para los efectos de este impuesto no será considerada negociación de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la misma.
+
+###### ARTICULO QUINTO.
+
+El monto de lo recaudado de este impuesto se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya para tal efecto y por decreto.
