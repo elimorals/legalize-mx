@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1980-05-29"
+last_updated: "1984-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -161,13 +161,13 @@ En el Estado de Durango, todas las personas, en la medida de los recursos econó
 
 3o.- Otorgamiento de becas cuando se trate de estudiantes indigentes que se hayan distinguido por su aprovechamiento y puedan así continuar sus estudios y perfeccionar sus conocimientos en los centros de educación media y superior.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 13.
 
-La actividad económica estatal, se conforma con acciones de los sectores público y privado. El Estado podrá promover programas, así como realizar obras y servicios de carácter social, tendientes a impulsar convenientemente el desarrollo integral de la Entidad.
+La actividad económica estatal se conforma con acciones de los sectores público y privado. El Ejecutivo podrá promover programas, así como realizar obras y servicios de carácter social, tendientes a impulsar convenientemente el desarrollo integral de la Entidad.
 
-El Gobierno del Estado promoverá el incremento de las obras de infraestructura, el aumento de fuentes de trabajo, la creación de Instituciones Educativas y la construcción de viviendas decorosas y de bajo costo.
+El Ejecutivo del Estado promoverá el incremento de las obras de infraestructura, el aumento de fuentes de trabajo, la creación de instituciones educativas y la construcción de viviendas decorosas de bajo costo.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -365,7 +365,7 @@ IV.- En el caso de que dos o más partidos con derecho a participar en la distri
 
 V.- Cuando solo un partido político obtenga el mínimo de votos requeridos para participar e(sic) la distribución de las listas, únicamente serán objeto de asignación dos curules por el principio de representación proporcional. Si son dos los partidos que obtengan el referido mínimo se repartirán tres curules. Se exceptúa el caso en que uno o dos partidos obtengan, conjunta o separadamente, el 10% como mínimo de la votación emitida para todas las listas, en cuya circunstancia serán objeto de designación las cuatro curules de representación proporcional.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 #### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -373,19 +373,31 @@ V.- Cuando solo un partido político obtenga el mínimo de votos requeridos para
 
 ###### ARTICULO 32.
 
-Para ser Diputado Propietario o Suplente se requiere:
+Para ser Diputado propietario y suplente se requiere:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 I.- Ser ciudadano duranguense por nacimiento, en ejercicio de sus derechos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 II.- Saber leer y escribir;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 IV.- Contar con una residencia efectiva del territorio del Estado, cuando menos de dos años anteriores al día de la elección;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 V.- No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
 
-VI.- No ser empleado o funcionario público de la Federación, del Estado o del Municipio, a menos que se separe de sus funciones noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+VI.- No ser funcionario público de la federación, del Estado o del Municipio, a menos de que se separe de sus funciones 90 días antes de la elección.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -417,15 +429,19 @@ Los diputados que sin licencia dejaren de concurrir por un mes seguido a cualqui
 
 Igual pena sufrirán los suplentes, en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita la declaración expresa del Congreso. Las faltas sin licencia, de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento del propio Congreso.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 37.
 
-Las elecciones para integrar el Congreso serán calificadas a través de un Colegio Electoral que se formará con seis presuntos diputados que de acuerdo con las constancias de mayoría que expidan los organismos electorales hubieren obtenido mayor número de votos y por tres presuntos diputados de representación proporcional que obtuvieren la votación más alta.
+Las elecciones para integrar el Congreso serán calificadas a travás (sic) de un Colegio Electoral, que se formará con seis presuntos Diputados de los electos en los distritos uninominales designados por el Partido Político que hubiere obtenido mayor número de constancias registradas por la Comisión Estatal Electoral; y tres de los electos por el sistema de representación proporcional, debidamente reconocidos por la Comisión Estatal Electoral, los que deberán ser designados por los partidos políticos minoritarios, que hubiesen obtenido mayor votación en la circunscripción plurinominal en órden decreciente.
 
-Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Estado contra las resoluciones del Colegio Electoral.
+Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Estado, contra las resoluciones del Colegio Electoral.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 38.
 
@@ -453,11 +469,11 @@ Cuando los diputados asistentes no reunan el número requerido para la instalaci
 
 El Congreso se reunirá en períodos extraordinarios de sesiones cuando fuere convocado por la Comisión Permanente y solo podrán tratarse los asuntos que los motiven y se precisen en la convocatoria.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 41.
 
-Todas las sesiones serán públicas, con excepción de los casos señalados por el Reglamento para el Gobierno Interior del Congreso.
+Todas las sesiones serán públicas, con excepción de los casos señalados por la Ley Orgánica del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -517,10 +533,6 @@ El Gobernador, dentro de los últimos quince días de su mandato, enviará al Co
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1979)</small>
-
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -575,13 +587,13 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION E.- DE LA COMISION PERMANENTE
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 55.
 
-El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
+El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -595,9 +607,9 @@ II.- Legislar en lo relativo a la administración interior del Estado;
 
 III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-IV.- Decretar las contribuciones suficientes para atender las necesidades de los municipios, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
+IV.- Decretar las contribuciones y otros ingresos suficientes para atender las necesidades de los Municipios, tomando en consideración las participaciones y subsidios federales y estatales, y en todo caso incluyendo las contribuciones y percepciones a que se refiere el Artículo 111 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -619,9 +631,9 @@ VIII.- Cambiar provisionalmente la residencia de los Poderes del Estado;
 
 IX.- Nombrar Gobernador Provisional, Interino o Substituto;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-X.- Expedir la Ley que regulará su estructura y funcionamiento internos.
+X.- Expedir la Ley que regulará su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Eecujtivo (sic) del Estado para tener vigencia, expedir asimismo la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado;
 
 Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado para tener vigencia.
 
@@ -657,9 +669,9 @@ XVII.- Otorgar o negar su aprobación a los nombramientos que haga el Gobernador
 
 XVIII.- Convocar a elecciones para Gobernador, Diputados y Munícipes;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XIX.- Legislar sobre el funcionamiento del Municipio Libre;
+XIX.- Legislar sobre el funcionamiento del Municipio Libre y expedir las bases normativas a las que deberán sujetarse los ayuntamientos para la formación de los reglamentos respectivos;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -681,9 +693,9 @@ XXIII.- Erigirse en Gran Jurado en los casos establecidos por ésta Constitució
 
 XXIV.- Conceder en los términos de la ley licencia al Gobernador, a los Diputados y a los Magistrados del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XXV.- Examinar, dictaminar y aprobar, en su caso, la cuenta que anualmente le presentará el Ejecutivo sobre los gastos de la administración pública, debiendo comprender el examen no solo la conformidad de las erogaciones con las partidas del presupuesto de egresos, sino también la exactitud y justificación de tales erogaciones;
+XXV.- Revisar, discutir y aprobar en su caso, con vista del informe que rinda la Contaduría Mayor de Hacienda, la Cuenta Pública que anualmente le presentará el Ejecutivo y los Ayuntamientos, separadamente, sobre los gastos de administración; debiendo comprender el examen, no solo la conformidad de las erogaciones en las partidas del correspondiente presupuesto de egresos, sino también la exactitud y la justificación de tales erogaciones;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -703,9 +715,43 @@ XXIX.- Investigar y en su caso, fincar responsabilidades por enriquecimiento ind
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-XXX.- Expedir Leyes tendientes a normar las medidas de protección, y a corrección de conductas en su caso, de los menores, con el fin de propiciar su correcta incorporación al desarrollo de la sociedad.
+XXX.- Expedir Leyes tendientes a normar las medidas de protección, y a corrección de conductas en su caso, de los menores, con el fin de propiciar su correcta incorporación al desarrollo de la sociedad;
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+XXXI.- Vigilar por medio de una comisión de su seno el exacto desempeño de las funciones de la Contaduría Mayor.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+XXXII.- Nombrar y remover, en su caso, al Contador Mayor de Hacienda del Congreso.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+XXXIII.- Conocer de los actos, procedimientos y resolver, por acuerdo de las dos terceras partes de sus integrantes, sobre la suspensión definitiva de ayuntamientos y declarar, en consecuencia, que estos han desaparecido, así como suspender o revocar el mandato a alguno de sus miembros; en ambos casos, siempre y cuando los miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, observándose lo siguiente:
+
+a).- Procederá la suspensión de Ayuntamientos, en forma definitiva, con la consecuente declaración de desaparición, cuando se hayan presentado circunstancias, de hecho, como la desintegración del cuerpo edilicio, por renuncia o falta de la mayoría de sus miembros; cuando la mayoría de los integrantes de cabildo no asistan a tres sesiones consecutivas, sin causa justificada; cuando la mayoría o la totalidad de los integrantes del Ayuntamiento se encuentren en el caso en que proceda su suspensión en lo particular por la Comisión de delito doloso; o cuando el Ayuntamiento, como tal, haya violado reiteradamente, las Leyes del Estado y/o federales.
+
+En caso de declararse desaparecido un Ayuntamiento en los dos primeros años del período, si conforme a la Ley no procediere que entraren en funciones los suplentes, el Congreso de inmediato nombrará un Consejo Municipal, a la vez que convocará a elecciones extraordinarias, que deberán celebrarse a más tardar a los noventa días después de haberse publicado la convocatoria. Cuando la declaración de desaparición de un Ayuntamiento ocurriere en el último año del período y que conforme a la Ley tampoco procediere que entraren en funciones los suplentes, el Congreso de inmediato designará de entre los vecinos un Consejo Municipal que concluirá el período respectivo.
+
+b).- Procederá la suspensión temporal de uno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se le dicte auto de formal prisión, por la Comisión de delito doloso, la suspensión temporal permanecerá hasta que lo determine la sentencia definitiva correspondiente y que haya causado ejecutoria.
+
+c).- Procederá la suspensión definitiva de alguno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se encuentre en cualquiera de los casos siguientes: Cuando se le haya dictado sentencia condenatoria y que ésta haya causado ejecutoria; y cuando deje de asistir consecutivamente a tres sesiones de cabildo, sin causa justificada, la suspensión definitiva del munícipe dará lugar a la revocación del mandato respectivo.
+
+Si alguno de los miembros dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo dispone la Ley.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+XXXIV.- Resolver sobre las controversias que se susciten entre los Municipios; y entre éstos y el Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION E.- DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -735,11 +781,7 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -961,11 +1003,15 @@ XXVIII.- Crear por derecho, organismos descentralizados, empresas de participaci
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
 
-XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción,
+XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XXX.- Las demás que expresamente le confieren esta Constitución y las Leyes Reglamentarias respectivas.
+XXX.- Celebrar convenios con la federación o municipios con respecto a la administración y recaudación de las contribuciones o los servicios públicos;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes reglamentarias respectivas.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1339,63 +1385,111 @@ El Estado de Durango tiene como base de su división territorial y de su organiz
 
 Cada Municipio será administrado por un Ayuntamiento electo popular y directamente, que se renovará totalmente cada tres años, en los términos que dispone la Ley Electoral del Estado y no habrá ninguna autoridad intermedia entre los titulares de los Poderes del Estado y los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1984)</small>
+
+Los Presidentes Municipales, Síndicos y Regidores de Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias en esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 105.
 
-Los Ayuntamientos tienen personalidad y capacidad jurídica para todos los efectos legales.
+Los Municipios, estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Los Ayuntamientos poseerán facultades para expedir, de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 106.
 
-El Congreso determinará en la Ley del Municipio Libre del Estado de Durango los estatutos a que se sujetarán los Municipios en su régimen interior.
+El número de regidores, que juntamente con el Síndico y Presidente Municipal compongan los Ayuntamientos, se determinará en la Ley Orgánica del Municipio Libre.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 107.
 
-Los Ayuntamientos de los Municipios de Durango, Gómez Palacio y Lerdo se integrarán con un Presidente, Síndico y cinco Regidores de Mayoría, más dos Regidores de Minoría, en su caso. Los Ayuntamientos de los demás Municipios se compondrán de un Presidente, Síndico y tres Regidores de Mayoría, más un Regidor de Minoría, en su caso, sujetándose para su elección en las siguientes bases:
+Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia.
 
-I.- Sólo en los Municipios cuya población exceda de 25,000 habitantes, conforme al último censo de población, tendrá aplicación el sistema de Regidores por Minoría;
-
-II.- En los Municipios de Durango, Gómez Palacio y Lerdo, se asignarán cada uno de los Regidores de Minoría a los dos Partidos Políticos Minoritarios que hayan obtenido mayor votación y que sea ésta, cuando menos, el 1.5% del total de la misma en el Municipio.
-
-III.- En los demás Municipios se asignará el Regidor de Minoría al Partido Político Minoritario que haya obtenido mayor votación, pero siempre que ésta sea cuando menos 1,5% de la votación total en el Municipio que corresponda.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 108.
 
-Para ser electo Presidente, Regidor o Sindico de un Ayuntamiento se requiere:
+Para ser electo Presidente, Síndico o Regidor de un Ayuntamiento, se requiere:
 
-I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos. Para el cargo de Presidente se requiere además que sea nativo del Estado;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+
+I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del Municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del Municipio que no sea menor de diez años inmediatamente anteriores al día de la elección. Si es nativo del Municipio, tener cuando menos tres años de residencia efectiva dentro del territorio del Municipio inmediatamente anterior al día de la elección;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 II.- Ser mayor de 21 años de edad;
 
-III.- Ser vecino de la municipalidad correspondiente con residencia efectiva dentro de la misma cuando menos de un año inmediatamente anterior al día de la elección;
+III.- (DEROGADA, P.O. 12 DE AGOSTO DE 1984)
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 IV.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya misión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
 
-V.- No haber desempeñado cargo de la Federación, del Estado o del Municipio, en los noventa días anteriores a la fecha de la elección.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+V.- No haber sido funcionario de la federación, del Estado o del Municipio en los 90 días anteriores a la fecha de la elección.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 109.
 
-Los Presidentes, Regidores y Síndicos de los Ayuntamientos, no podrán ser reelectos para el mismo cargo en el período inmediato siguiente. Los miembros suplentes de los Ayuntamientos podrán ser electos para el periodo inmediato, con el carácter de propietarios, siempre que no hubieren estado en funciones.
+Los Municipios, con el concurso del Estado, cuando así fuere necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+a).- Agua potable y alcantarillado,
+
+b).- Alumbrado público,
+
+c).- Limpia,
+
+d).- Mercados y centrales de abastos,
+
+e).- Panteones,
+
+f).- Rastro,
+
+g).- Calles, pavimentos, repavimentación, parques y jardines.
+
+h).- Seguridad pública y tránsito,
+
+i).- Estacionamientos públicos; entendiéndose como tales, aquellos que se establezcan en las vías públicas de circulación, y,
+
+j).- Los demás que la Legislatura del Estado determine, según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+
+El Estado podrá celebrar convenios, en los términos de Ley, con los Municipios, a fin de que éstos asuman la ejecución y la operación de obras y la prestación de servicios, cuando el desarrollo econámico (sic) y social lo haga necesario.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 110.
 
-Los Municipios administrarán libremente su hacienda, la que se formará de las contribuciones que les señale el Congreso en los términos de la fracción IV del Artículo 55.
+Los Municipios, en los términos de las Leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participará en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades Federativas formen una continuidad demográfica, la Federación, las entidades federativas y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la materia.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 111.
 
-Los Ayuntamientos en ningún caso podrán contraer, sin previa autorización del Congreso, obligaciones cuyo cumplimiento tenga señalado un término que exceda al período de su gestión.
+La hacienda municipal se forma de impuestos, derechos, productos, aprovechamientos, participaciones y financiamiento. En consecuencia, la hacienda municipal, administrada libremente por el Ayuntamiento se formará de los rendimientos de los bienes que le pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura del Estado establezca a su favor y en todo caso:
+
+a).- Percibirá las contribuciones, incluyendo tasas adicionadas que determine el estado sobre la propiedad inmobiliaria de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tenga por base el cambio del valor de los inmuebles.
+
+Los Ayuntamientos podrán celebrar convenios con el Estado, para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones.
+
+b).- Las participaciones federales, que serán cubiertas por la federación a los Municipios, por conducto del Gobierno del Estado, con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura.
+
+La Secretaría de Finanzas está obligada a publicar en los periódicos de mayor circulación en la localidad, los informes mensuales detallados de las participaciones que en ese lapso corresponda a cada Municipio de la Entidad.
+
+c).- Los ingresos derivados de la prestación de servicios públicos a cargo del Ayuntamiento, así como los productos y aprovechamientos que le correspondan.
+
+La Legislatura del Estado tendrá facultades para establecer las contribuciones a que se refieren los incisos a) y c). Las Leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la federación, del Estado o de los Municipios estarán exentos de dichas contribuciones.
+
+La Legislatura aprobará la Ley de Ingresos de los Municipios y revisará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en los ingresos municipales disponibles.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1403,17 +1497,17 @@ Los Ayuntamientos en ningún caso podrán contraer, sin previa autorización del
 
 El Presidente del Ayuntamiento es el representante jurídico del mismo y tiene el carácter de ejecutor de las resoluciones y acuerdos del propio cuerpo edilicio.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 113.
 
-Los miembros del Ayuntamiento tendrán los derechos y obligaciones que consigne la Ley del Municipio Libre del Estado.
+Los Ayuntamientos, en ningún caso podrán contraer sin previa autorización del Congreso del Estado, obligaciones que, para su cumplimiento, tengan señalado un término que exceda al período de su gestión.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
 ###### ARTICULO 114.
 
-La falta absoluta del Ayuntamiento de una municipalidad o la ausencia definitiva de la mayoría de sus miembros será suficiente para que el Ejecutivo nombre una Junta Provisional de Gobierno integrada por el mismo número de miembros que integraban el Ayuntamiento respectivo.
+Se establece el servicio civil de carrera para el personal administrativo dependiente de los Ayuntamientos. La Ley determinará sus modalidades y forma de aplicación de acuerdo con la tipología municipal del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1834,3 +1928,9 @@ P.O. 29 DE MAYO DE 1980.
 Artículo Primero.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Lo relativo al aumento a siete Magistrados como integrantes del Supremo Tribunal de Justicia del Estado entrará en vigor a partir de la designación que se haga sobre las personas que empezarán a fungir su período el próximo 15 de Septiembre de 1980.
+
+P.O. 12 DE AGOSTO DE 1984.
+
+Artículo Primero.- Las presentes adiciones y reformas a la Constitución Política del Estado Libre y Soberano de Durango, entrarán en vigor al día siguiente después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las Leyes reglamentarias continuarán en vigor en lo que no se opongan a las nuevas disposiciones constitucionales, mientras el Congreso no expida las adiciones y reformas que procedan.
