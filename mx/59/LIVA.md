@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -718,9 +718,11 @@ II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y
 
 III.- Expedir comprobantes señalando en los mismos, además de los requisitos que establezcan el Código Fiscal de la Federación y su Reglamento, el impuesto al valor agregado que se traslada expresamente y por separado a quien adquiera los bienes, los use o goce temporalmente o reciba los servicios. Dichos comprobantes deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días siguientes a aquél en que se debió pagar el impuesto en los términos de los artículos 11, 17 y 22 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1984.</small>
 
-La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, podrá establecer que se incluya en el valor de la contraprestación pactada el monto del impuesto al valor agregado, cuando se trate de actos o actividades que por su monto o por tratarse de determinadas ramas de actividades, considere conveniente otorgar estas facilidades.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)(F. DE E., D.O.F. 4 DE MARZO DE 1985)
+
+Cuando se trate de actos o actividades que se realicen con el público en general, el impuesto se incluirá en el precio en que los bienes y servicios se ofrezcan, así como en la documentación que se expida, salvo que en este último caso, el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien solicite comprobante que reúna los requisitos señalados en el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -1103,3 +1105,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
+D.O.F. 31 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del dia 1o. de enero de 1986; Décimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Titulo I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
