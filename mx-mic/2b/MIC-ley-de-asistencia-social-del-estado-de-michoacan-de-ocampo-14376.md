@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "1987-05-14"
+last_updated: "1987-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1987.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -193,21 +193,39 @@ Para el estudio, planeación y despacho de los asuntos que le competen, el Organ
 
 I. Patronato;
 
-II. Junta de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
 
-III. Presidencia;
+II. Presidencia del Patronato;
 
-IV. Dirección General;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
 
-V. Las unidades técnicas y administrativas que determine la Junta.
+III. Junta de Gobierno;
 
-Todos los miembros de dichos órganos, con excepción de los integrantes de la Junta, serán nombrados y removidos por el Gobernador Constitucional del Estado.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
 
-El Director General será Secretario Ejecutivo de la Junta y concurrirá a las sesiones sólo con derecho a voz.
+IV. Presidencia de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
+V. Dirección General; y,
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
+VI. Las Unidades Técnicas y Administrativas que determine la Junta.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
+Los miembros del Patronato, el Presidente de éste y el Director General del organismo, serán nombrados y removidos por el Gobernador del Estado, los titulares de las unidades técnicas y administrativas lo serán por acuerdo de la Junta.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 13.
 
 El Patronato estará integrado por 7 siete miembros. El Director General del Organismo, representará a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
+El Director General del Organismo fungirá como Secretario del Patronato y asistirá a las sesiones sólo con derecho a voz.
 
 ###### ARTICULO 14.
 
@@ -219,27 +237,45 @@ II. Apoyar las actividades del Organismo y formular sugerencias tendientes a su 
 
 III. Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento de sus objetivos;
 
-IV. Designar a su Presidente y al Secretario de Sesiones; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
 
-V. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+IV. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+V. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 1987)
 
 ###### ARTICULO 15.
 
 El Patronato celebrará dos sesiones ordinarias al año, en la primera, su Presidente rendirá un informe anual de labores; asimismo, podrá celebrar las sesiones extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
+Invariablemente la Presidencia del Patronato tendrá las siguientes atribuciones:
+
+I. Representar al Patronato en todas las actividades en que deba intervenir;
+
+II. Asumir la Presidencia del Voluntariado del Organismo; y
+
+III. Convocar a sesiones al Patronato del Organismo.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 16.
 
-La Junta de Gobierno estará integrada por los titulares de la Oficialía Mayor, quien la presidirá; Secretaría de Educación; Coordinación de Programación y Tesorería General del Estado, y por los Delegados de la Secretaría de Salud, Compañía Nacional de Subsistencias Populares, Instituto Mexicano del Seguro Social e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+La Junta de Gobierno estará integrada por el Presidente del Patronato, quien la presidirá, y por los titulares de la Oficialía Mayor, Secretaría de Educación, Coordinación de Programación y Tesorería General del Estado, así como por el Jefe de los Servicios Coordinados de Salud Pública en el Estado y los Delegados de la Compañía Nacional de Subsistencias Populares, Instituto Mexicano del Seguro Social e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+El Director General del Organismo será Secretario Ejecutivo de la Junta y concurrirá a las sesiones sólo con derecho a voz.
 
 ###### ARTICULO 17.
 
 Por cada miembro propietario de la Junta habrá un suplente, designado por aquél, quien lo substituirá en sus ausencias temporal (sic).
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 18.
 
-La Junta celebrará sesiones ordinarias cada dos meses, y extraordinarias cuando lo estime necesario la Presidencia; funcionará con la asistencia de por lo menos cinco de sus miembros y las resoluciones se tomarán por mayoría de votos de los asistentes, teniendo la Presidencia de la Junta voto de calidad en caso de empate.
+La Junta celebrará sesiones ordinarias dos veces al año y extraordinarias cuando lo estime necesario la Presidencia; funcionará con la asistencia de por lo menos cinco de sus miembros y las resoluciones se tomarán por mayoría de votos de los asistentes, teniendo la Presidencia de la Junta voto de calidad en caso de empate.
 
-Las sesiones ordinarias se celebrarán en los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año, en la fecha y con las formalidades que al efecto disponga la Presidencia.
+Las sesiones se celebrarán en la fecha y con las formalidades que al efecto disponga la Presidencia, pero las ordinarias deberán ser, la primera, durante el primer trimestre y la segunda, en el último trimestre de cada año.
 
 ###### ARTICULO 19.
 
@@ -289,7 +325,9 @@ I. Acatar los acuerdos y mandamientos de la Junta de Gobierno;
 
 II. Elaborar los planes de labores, presupuestos, informes de actividades y estados financieros, que deberá someter a consideración de la Junta de Gobierno;
 
-III. Designar al personal del Organismo, previo acuerdo de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1987)</small>
+
+III. Designar al personal del Organismo, previo acuerdo de la Presidencia de la Junta de Gobierno;
 
 IV. Rendir informes financieros, parciales y de cualquier tipo que le sean solicitados por la Presidencia;
 
@@ -424,3 +462,11 @@ DIPUTADO PRESIDENTE.- PROFR. MANUEL MERCADO TOVAR.- DIPUTADO SECRETARIO.- LIC. A
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de abril de 1987, mil novecientos ochenta y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LUIS MARTINEZ VILLICAÑA.- EL SECRETARIO DE GOBIERNO.- JAIME GENOVEVO FIGUEROA ZAMUDIO.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado.
