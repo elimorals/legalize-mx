@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-publico-de-la-propiedad-del-estado-5885
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-03-26"
-last_updated: "1981-03-26"
+last_updated: "1983-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1983.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el jueves 26 de marzo de 1981.
 
@@ -49,9 +49,13 @@ DE LA ORGANIZACION Y FUNCIONAMIENTO DEL REGISTRO
 
 ° El Registro Público de la Propiedad, es la Dependencia de la Tesorería General del Estado, dependiente del Ejecutivo, encargada de realizar en el Estado la actividad registral, dar publicidad a los actos jurídicos que según la Ley deban surtir efectos contra terceros, proporcionar el correspondiente servicio a todo interesado, y regularizar la propiedad inmueble mediante su incorporación al propio sistema.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1983) (F. DE E., P.O. 16 DE AGOSTO DE 1983)
+
 ###### Art. 3.
 
-° Para el cumplimiento de su cometido el Registro Público de la Propiedad, estará estructurado de la siguiente manera:
+° Para el cumplimiento de su cometido el Registro Público de la Propiedad estará estructurado de la siguiente manera:
 
 l. Una Dirección;
 
@@ -61,7 +65,11 @@ III. Un Departamento Administrativo;
 
 IV. Un Departamento de Asesoría Técnica;
 
-V. Trece Oficinas Registrales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+(REFORMADA, P.O. 30 DE JULIO DE 1983) (F. DE E., P.O. 16 DE AGOSTO DE 1983)
+
+V. Catorce Oficinas Registrales.
 
 ### CAPITULO SEGUNDO (SIC). DE LA DIRECCION
 
@@ -223,35 +231,45 @@ Art.18. La Primera Oficina, con sede en la capital, estará a cargo de uno de lo
 
 La Segunda Oficina, también con sede en la capital, estará a cargo del otro subdirector con facultades de autorizar con su firma todos los actos registrales que pasen en la oficina, de suscribir la correspondencia oficial, rendir los informes de ley, recibir notificaciones y contestar demandas conforme los criterios de la Tesorería General del Estado. Se registrarán en ella, todos los actos relativos a bienes o derechos reales constituidos sobre inmuebles, que se hallen situados en los Sectores Juárez e Hidalgo, así como en los Municipios de Tala, Zapopan, San Cristóbal de la Barranca y Tlajomulco.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+(REFORMADO, P.O. 30 DE JULIO DE 1983) (F. DE E., P.O. 16 DE AGOSTO DE 1983)
+
 ###### Art. 20.
 
-Fuera de las de la capital habrá once Oficinas Registrales, a cargo cada una de un jefe, en las que se registrarán los actos relativos a bienes inmuebles y derechos reales, ubicados dentro de la comprensión territorial de cada una. Cuando los bienes estuvieren ubicados en la comprensión territorial de dos o más oficinas, se hará el registro en cada una de ellas, por la parte respectiva.
+Fuera de la capital habrá doce Oficinas Registrales, a cargo cada una de un jefe, en las que se registrarán los actos relativos a bienes inmuebles y derechos reales, ubicados dentro de la comprensión territorial de cada una, cuando los bienes estuvieren ubicados en la comprensión territorial de dos o más oficinas, se hará el registro en cada una de ellas, por la parte respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+(REFORMADO, P.O. 30 DE JULIO DE 1983) (F. DE E., P.O. 16 DE AGOSTO DE 1983)
 
 ###### Art. 21.
 
 Se establecen oficinas en las siguientes poblaciones:
 
-Ameca: Que comprende los Municipios de Ameca, Huachinango, San Martín Hidalgo, Cocula, Tecolotlán, Juchitlán, Magadalena, San Marcos, Etzatlán, Antonio Escobedo, Ahualulco de Mercado, Teuchitlán, Hostotipaquillo, Tequila, Amatitán y Arenal.
+Ameca: Que comprende los municipios de Ameca, Guachinango, San Martín Hidalgo, Cocula, Tecolotlán, Juchitlán, Magdalena, San Marcos, Etzatlán, Antonio Escobedo, Ahualulco de Mercado, Teuchitlán, Hostotipaquillo, Tequila, Amatitán y Arenal.
 
-Atotonilco el Alto: Que comprende los Municipios de Atotonilco el Alto, Tototlán, Ayotlán, Arandas, Jesús María y Degollado.
+Atotonilco El Alto: Que comprende los municipios de Atotonilco El Alto, Tototlán, Ayotlán, Arandas, Jesús María y Degollado.
 
-Autlán: Que comprende los Municipios de Autlán, El Limón, El Grullo, Casimiro Castillo, La Huerta, Purificación, Cuautitlán, Cihuatlán, Atengo, Cuautla, Tenamaxtlán, Unión de Tulá, Ayutla y Ejutla.
+Autlán: Que comprende los municipios de Autlán, El Limón, El Grullo, Casimiro Castillo, La Huerta, Purificación, Cuautitlán, Cihuatlán, Atengo, Cuautla, Tenamaxtlán, Unión de Tula, Ayutla y Ejutla.
 
-Ciudad Guzmán: Que comprende los Municipios de Ciudad Guzmán, Quitupan, Valle de Juárez, Concepción de Buenos Aires, Mazamitla, La Manzanilla, Tamazula, Manuel M. Diéguez, Jilotlán de los Dolores, Tecalitlán, Pihuamo, Zapotiltic, Gómez Farías, Tuxpan, Tonila, Sayula, Amacueca, Tapalpa, Atoyac, Techaluta, Venustiano Carranza, Chiquilistlán, Tonaya, Tuxcacuesco, Tolimán y Zapotitlán.
+Ciudad Guzmán: Que comprende los municipios de Ciudad Guzmán, Quitupan, Valle de Juárez, Concepción de Buenos Aires, Mazamitla, La Manzanilla, Tamazula, Manuel M. Diéguez, Jilotlán de los Dolores, Tecalitlán, Pihuamo, Zapotiltic, Gómez Farías, Tuxpan, Tonila, Sayula, Amacueca, Tapalpa, Atoyac, Techaluta, Venustiano Carranza, Chiquilistlán, Tonaya, Tuxcacuesco, Tolimán y Zapotitlán.
 
-Colotlán: Que comprende los Municipios de Colotlán, Huejuquilla El Alto, Mezquitic, Huejúcar, Santa María de los Angeles, Villa Guerrero, Totatiche, Bolaños, Chimaltitán y San Martín de Bolaños.
+Colotlán: Que comprende los municipios de Colotlán, Huejuquilla El Alto, Mezquitic, Huejúcar, Santa María de los Angeles, Villa Guerrero, Totatiche, Bolaños, Chimaltitán y San Martín de Bolaños.
 
-Chapala: Que comprende los Municipios de Chapala, Ixtlahuacán de los Membrillos, Jocotepec, Tizapán el Alto, Tuxcueca, Zacoalco de Torres, Teocuitatlán, Acatlán de Juárez, Villa Corona y Atemajac de Brizuela.
+Chapala: Que comprende los municipios de Chapala, Ixtlahuacán de los Membrillos, Jocotepec, Tizapán el Alto, Tuxcueca, Zacoalco de Torres, Teocuitatlán, Acatlán, de Juárez, Villa Corona y Atemajac de Brizuela.
 
-Lagos de Moreno: Que comprende los Municipios de Lagos de Moreno, Ojuelos de Jalisco, Unión de San Antonio, San Diego de Alejandría, Encarnación de Díaz, San Juan de los Lagos, San Julián, Villa Hidalgo y Teocaltiche.
+Lagos de Moreno: Que comprende los municipios de Lagos de Moreno, Ojuelos de Jalisco, Unión de San Antonio, San Diego de Alejandría, Encarnación de Díaz, San Juan de los Lagos, San Julián, Villa Hidalgo y Teocaltiche.
 
-Mascota: Que comprende los Municipios de Mascota, San Sebastián (Exdécimo Cantón), Talpa, Atenguillo y Mixtlán.
+La Barca: Que comprende el municipio del mismo.
 
-La Barca: Que comprende los Municipios de la Barca, Jamay, Zapotlán del Rey, Poncitlán y Ocotlán.
+Mascota: Que comprende los municipios de Mascota, San Sebastián (Ex-décimo Cantón), Talpa, Atenguillo y Mixtlán.
 
-Puerto Vallarta: Que comprende los Municipios de Puerto Vallarta, Cabo Corrientes y Tomatlán.
+Ocotlán: Que comprende los Municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey.
 
-Tepatitlán: Que comprende los Municipios de Tepatitlán, San Miguel el Alto, Jalostotitlán, Valle de Guadalupe, Acatic, Villa Obregón, Mexticacán, Yahualica de González Gallo, Cuquío e Ixtlahuacán del Río.
+Puerto Vallarta: Que comprende los municipios de Puerto Vallarta, Cabo Corriente y Tomatlán.
+
+Tepatitlán: Que comprende los municipios de Tepatitlán San Miguel El Alto, Jalostotitlán, Valle de Guadalupe, Acatic, Villa Obregón, Mexticacán, Yahualica de González Gallo, Cuquío e Ixtlahuacán del Río.
 
 ###### Art. 22.
 
@@ -922,3 +940,17 @@ Lic. Alfonso de Alba Martín
 EL TESORERO GENERAL DEL ESTADO
 
 Lic. Raymundo Vázquez Villalobos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE JULIO DE 1983.
+
+> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1983)</small>
+
+Primero. Estas reformas entrarán en vigor a los treinta días siguientes de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo. Quedan sin efecto todas las disposiciones que se opongan al presente.
+
+Tercero. Una vez que entre en vigor esta reforma, el jefe de la Oficina de La Barca, concentrará y hará entrega al jefe de la Oficina de Ocotlán del total de los libros del Registro Público de Comercio y de los Libros del Registro Público de la Propiedad, del sistema de transcripción, utilizados e integrados desde el día 12 de diciembre de 1917 hasta el día 31 de marzo de 1981 y de la demás documentación con ellos relacionada en los que consten registrados actos mercantiles o actos jurídicos relativos a sociedades domiciliadas o inmuebles ubicados en los municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey. Y si se trata de libros en los que obren inscripciones practicadas en el Registro Público de Comercio o en el de la Propiedad en cualquiera de sus secciones, desde su establecimiento hasta el día 11 de diciembre de 1917 y del día 1.° de abril de 1981 a esta fecha, el jefe de la Oficina de La Barca, sin pago a derecho alguno por ser indispensable para la prestación del servicio registral, expedirá para uso de la Oficina de Ocotlán, copias fotostáticas certificadas de las inscripciones practicadas en libros y de la demás documentación con ellos relacionada, relativos a los mencionados municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey, para que estas constituyan inscripciones de propiedad o mátricula de sociedades, y que con vista en ellas se expidan todas las constancias de Ley, que se practiquen las anotaciones derivadas de los nuevos asientos registrales que a partir de esta fecha se lleven a cabo por la Oficina de Ocotlán.
+
+La Oficina de la Barca, Jalisco, hará la cancelación de las inscripciones practicadas en los Libros del Registro Público integrados del día 12 de noviembre de 1883 al día 12 de diciembre de 1917 y del día 1.° de abril de 1981 a la fecha en que entren en vigor estas reformas, relativas a sociedades e inmuebles domiciliados o ubicados en los municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey y respecto de los cuales se hubieren remitido las copias fotostáticas certificadas a que se refiere el párrafo que anteceden.
