@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2004-01-05"
+last_updated: "2004-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 2004.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 21 DE NOVIEMBRE DE 2003.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE FEBRERO DE 2004.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -3550,7 +3550,7 @@ III. De $1,832.00 a $45,808.00, a la establecida en la fracción III.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV. De $73,830.00 a $98,440.00, a la comprendida en la fracción IV.
 
@@ -3908,17 +3908,17 @@ Para los efectos de las fracciones XV y XVI de este artículo, no será responsa
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $682,681.00, respectivamente o, en su caso, la suma de ambas es de hasta de $1,024,021.00.
+I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $709,852.00, respectivamente o, en su caso, la suma de ambas es de hasta de $1,064,777.00.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $682,681.00, respectivamente o, en su caso, la suma de ambas excede de $1,024,021.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $709,852.00, respectivamente o, en su caso, la suma de ambas excede de $1,064,777.00.
 
 > <small>(REFORMADA D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -4062,11 +4062,17 @@ La omisión total o parcial de alguna contribución a que se refiere el párrafo
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $500,000.00.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
 
-II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $500,000.00, pero no de $750,000.00.
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $989,940.00.
 
-III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $750,000.00.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
+
+II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $989,940.00, pero no de $1,484,911.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
+
+III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $1,484,911.00.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -4192,11 +4198,13 @@ VII. No cuente con los controles volumétricos de gasolina, diesel, gas natural 
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 112.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $35,000.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $88,539.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -4238,11 +4246,13 @@ Se aumentará la sanción hasta por una mitad más de la que resulte aplicable, 
 
 Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA NOVENA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 9 DE FEBRERO DE 2004.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 115.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $15,000.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $37,945.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -6956,7 +6966,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1988.
 
 D.O.F. 5 DE ENERO DE 1988.
 
-REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988).
+REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
 
 Disposiciones Transitorias
 
@@ -7849,3 +7859,7 @@ XXII. Se faculta al Servicio de Administración Tributaria para establecer con e
 Para los efectos mencionados en el párrafo anterior, se entiende que el Servicio de Administración Tributaria se encuentra autorizado para actuar como agencia registradora y certificadora.
 
 XXIII. Para los efectos de la actualización de las cantidades que se establecen en el Código Fiscal de la Federación, prevista en el penúltimo párrafo del artículo 17-A del ordenamiento citado, se considera que la actualización de las cantidades a que se refiere dicho párrafo se ha realizado por última vez en el mes de julio de 2003, salvo las cantidades a que se refiere el Capítulo II del Título IV de dicho ordenamiento, mismas que deberán ser actualizadas en el mes de enero de 2004, a partir de la última actualización que hayan sufrido.
+
+D.O.F. 9 DE FEBRERO DE 2004.
+
+Unico. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
