@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2002-10-26"
+last_updated: "2003-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -2063,7 +2063,9 @@ I. Vigilar la observancia de esta ley y las disposiciones que dicten el Consejo 
 
 II. Intervenir en los términos de esta ley, dentro del municipio de que se trate, en la preparación, desarrollo y vigilancia del proceso electoral;
 
-III. Recibir las solicitudes de registro de las planillas de candidatos a Presidente, Vicepresidente y regidores, así como turnarlas al Consejo Electoral del Estado para su aprobación y registro;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+III. Recibir las solicitudes de registro de las planillas de candidatos a presidente, regidores y síndico, así como turnarlas al Consejo Electoral del Estado para su aprobación y registro;
 
 IV. Recibir los escritos del recurso de revisión que se hagan valer en contra de sus actos y resoluciones y remitirlos de inmediato al Consejo Electoral del Estado;
 
@@ -3995,9 +3997,11 @@ Igualmente, harán del conocimiento de estos organismos los hechos que puedan in
 
 Para los efectos de esta ley, por cómputo municipal se entenderá el procedimiento mediante el cual la Comisión Municipal Electoral determinará mediante la suma de los resultados asentados en las actas de escrutinio y cómputo de las mesas directivas de casilla, la votación total obtenida en el municipio para la elección de munícipes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 330.
 
-A partir de las ocho horas del miércoles siguiente al día de la elección, cada Comisión Municipal Electoral se reunirá en sesión ordinaria, para realizar el cómputo de la elección de Presidente, Vicepresidente y regidores de su respectivo municipio.
+A partir de las ocho horas del miércoles siguiente al día de la elección, cada Comisión Municipal Electoral se reunirá en sesión ordinaria, para realizar el cómputo de la elección de Presidente, regidores y síndico de su respectivo municipio.
 
 Los trabajos de la sesión no podrán interrumpirse ni suspenderse, hasta la terminación del cómputo, salvo acuerdo en contrario que se tome por la propia Comisión.
 
@@ -4349,9 +4353,11 @@ Ningún partido político o coalición podrá invocar, como causa de nulidad, he
 
 El Consejo Electoral del Estado o las comisiones distritales cuando adviertan posibles causas de nulidad, se abstendrán de expedir la constancia de mayoría. Dicha negativa podrá ser recurrida ante el Tribunal Electoral.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 359.
 
-En el caso de la nulidad de la votación de una o más casillas, se descontará la votación anulada de la votación distrital para la elección de diputados por ambos principios, para Gobernador del Estado, así como para la elección de Presidente, Vicepresidente y regidores de los ayuntamientos de la entidad, para obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 356 de esta ley.
+En el caso de la nulidad de la votación de una o más casillas, se descontará la votación anulada de la votación distrital para la elección de diputados por ambos principios, para Gobernador del Estado, así como para la elección de Presidente, regidores y síndico de los ayuntamientos de la entidad, para obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 356 de esta ley.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
@@ -5142,3 +5148,7 @@ P.O. 26 DE OCTUBRE DE 2002.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo. Los efectos del último párrafo del artículo 30, se aplicarán a partir de los diputados electos en el proceso electoral del año 2003.
+
+P.O. 25 DE OCTUBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
