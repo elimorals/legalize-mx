@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2001-05-25"
+last_updated: "2004-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -593,7 +593,13 @@ X. DE ASUNTOS DE LA JUVENTUD.- Tendrá a su cargo fomentar, contribuir e impulsa
 
 XI. DE ASUNTOS INDÍGENAS.- En aquellos municipios en que existan pueblos o comunidades indígenas, deberá existir una Comisión que se encargue de los asuntos relacionados en el Capítulo Cuarto del Título I de la presente Ley.
 
-XII. Las demás permanentes o transitorias que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+XII. DE TRABAJADORES MIGRANTES.- Tendrá a su cargo fomentar, contribuir e impulsar a los trabajadores migrantes; la participación de las actividades políticas, sociales y los servicios de información en materia de derechos de los trabajadores migrantes; procurará establecer garantías y mecanismos para que se respeten sus derechos para entrar y salir del país, garantizando y promoviendo su reintegración y contacto con sus familias, acciones para el empleo e incorporación al mercado laboral, así como los envíos de dinero que realicen; actividades científicas y tecnológicas; el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral de los trabajadores migrantes.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+
+XIII. Las demás permanentes o transitorias que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
 
 ###### ARTICULO 39.
 
@@ -689,7 +695,7 @@ V. No ser ministro de algún culto religioso; y
 
 VI. No haber sido sentenciado por delito intencional que merezca pena privativa de la libertad.
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DEL AYUNTAMIENTO
+### CAPÍTULO SEGUNDO. DE LA SECRETARIA DEL AYUNTAMIENTO
 
 ###### ARTICULO 47.
 
@@ -2036,3 +2042,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 8 DE OCTUBRE DE 2004.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a la presente.
