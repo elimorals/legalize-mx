@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1963-06-22"
+last_updated: "1965-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 1965.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -160,11 +160,17 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho. Los tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 1965)</small>
+
 ###### Art. 18.
 
-Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
+Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-Los Gobiernos de la Federación y de los Estados organizarán, en sus respectivos territorios, el sistema penal -colonias penitenciarías o presidios- sobre la base del trabajo como medio de regeneración.
+Los Gobiernos de la Federación y de los Estados organizarán el sistema penal, en sus respectivas jurisdicciones, sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+Los Gobernadores de los Estados, sujetándose a lo que establezcan las leyes locales respectivas, podrán celebrar con la Federación convenios de carácter general, para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
+
+La Federación y los Gobiernos de los Estados establecerán instituciones especiales para el tratamiento de menores infractores.
 
 ###### Art. 19.
 
@@ -2505,3 +2511,7 @@ Esta Ley principiará a regir al día siguiente de su publicación en el "Diario
 D.O.F. 22 DE JUNIO DE 1963.
 
 ARTICULO UNICO TRANSITORIO.- Las presentes adiciones y reformas entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE FEBRERO DE 1965.
+
+Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
