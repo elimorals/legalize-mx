@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "1996-05-24"
+last_updated: "1998-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -127,9 +127,13 @@ V.- El Director de la Policía Judicial del Estado;
 
 VI.- Los Representantes o Delegados en el Estado, de la Secretaría de la Defensa Nacional, la Procuraduría General de la República, la Policía Federal de Caminos y Puertos; y
 
-VII.- Un Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-A convocatoria del Consejo, participarán además los servidores públicos, que por razón de sus atribuciones estén vinculados con los fines de la seguridad pública, así como las personas que presten servicios privados de seguridad y otras auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto. Con excepción del Secretario Ejecutivo, los demás cargos serán honoríficos.
+VII.- Un Secretario Ejecutivo, que será el Subsecretario de Seguridad de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1998)</small>
+
+A convocatoria del Consejo, participarán además los servidores públicos, que por razón de sus atribuciones estén vinculados con los fines de la seguridad pública, así como las personas que presten servicios privados de seguridad y otras auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto. Todos lo (sic) cargos del Consejo son honoríficos.
 
 ###### Artículo 9o.
 
@@ -145,11 +149,15 @@ IV.- La formulación de propuestas al Consejo Nacional para el Programa Nacional
 
 V.- Proponer acciones de coordinación entre las policías estatales, municipales y federales;
 
-VI.- La elaboración de propuestas de reformas a Leyes y Reglamentos, en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
+
+VI.- Evaluar los proyectos de creación o modificación de leyes o reglamentos que en materia de seguridad pública, se sometan a su consideración;
 
 VII.- El análisis y, en su caso aprobación, de proyectos y estudios que se sometan a su consideración, por conducto del Secretario Ejecutivo;
 
-VIII.- La formulación de propuestas para la integración, organización y funcionamiento del Sistema de Seguridad Pública del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
+
+VIII.- Examinar y opinar sobre las propuestas de integración, organización y funcionamiento del Sistema de Seguridad Pública del Estado que se sometan a su consideración;
 
 IX.- La formulación de recomendaciones administrativas a las autoridades correspondientes, para que las instituciones de seguridad pública locales y municipales, desarrollen de manera más eficaz sus funciones;
 
@@ -157,17 +165,21 @@ X.- Proponer al Gobernador la aprobación del Programa Estatal de Seguridad Púb
 
 XI.- Las demás que determinen las Leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 10.
 
-El Consejo designará, a propuesta de su Presidente, al Secretario Ejecutivo del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, el cual deberá reunir los siguientes requisitos:
+El Secretario Ejecutivo del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, deberá reunir los siguientes requisitos:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
 II.- Tener más de 35 años de edad;
 
-III.- Contar con título de Licenciado en Derecho debidamente registrado;
+III.- (DEROGADA, P.O. 2 DE FEBRERO DE 1998)
 
-IV.- Ser de reconocida capacidad y probidad, y contar con probada experiencia en el área de seguridad pública.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
+
+IV.- Ser de reconocida capacidad y probidad y acreditar que cuenta con probada experiencia en el área de seguridad pública.
 
 ###### Artículo 11.
 
@@ -263,7 +275,19 @@ X.- Proponer, en coordinación con las instituciones de seguridad pública, la r
 
 XI.- Someter al Consejo, estudios especializados sobre las materias de seguridad pública;
 
-XII.- Las demás que le instruya el Consejo o su Presidente.
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1998)</small>
+
+XII.- Proponer al Consejo acciones relacionadas con el Programa Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1998)</small>
+
+XIII.- Vigilar el cumplimiento de las leyes y reglamentos de la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1998)</small>
+
+XIV.- Administrar y sistematizar los instrumentos de información del Sistema Estatal de Seguridad Pública, en coordinación con el Sistema Nacional de Información; y
+
+XV.- Las demás que le instruya el Consejo o su Presidente.
 
 ###### Artículo 18.
 
@@ -596,3 +620,9 @@ JUAN FRANCISCO RIVERA BEDOYA
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 ESTEBAN TOMAS GONZALEZ ARDINES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE FEBRERO DE 1998.
+
+ÚNICO:- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
