@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-aparceria-para-el-estado-de-durango-4973"
 country: "mx"
 rank: "ley"
 publication_date: "1934-10-04"
-last_updated: "1934-10-04"
+last_updated: "1946-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE APARCERIA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1946
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 4 de Octubre de 1934.
 
@@ -51,9 +51,11 @@ Tiene lugar la aparcería agrícola cuando una persona dá a otra un predio rús
 
 El contrato de aparcería deberá otorgarse por escrito privado, ante dos testigos, formándose cuatro ejemplares que deberá remitirlos el propietario, encargado o administrador del predio debidamente autorizado, a más tardar diez días después de su otorgamiento, al Presidente Municipal correspondiente, para su registro, y éste, a su vez, remitirá al Departamento de Agricultura y Ganadería del Gobierno del Estado, un tanto para su conocimiento devolviendo a cada una de las partes un ejemplar, y el restante deberá conservarlo el Ayuntamiento para su archivo.
 
-###### Artículo 4.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1946)</small>
 
-La falta de otorgamiento y registro del contrato, se reputarán siempre como culpa del propietario y esta circunstancia no perjudicará al aparcero; imponiéndose por tal omisión, a aquél, una multa de veinte a cien pesos.
+###### Artículo 4º.
+
+La falta de otorgamiento y registro del contrato se reputará siempre como culpa del propietario y esta circunstancia no perjudicará al aparcero; imponiéndose por tal omisión al primero una multa de $20.00 a $100.00 pesos; teniendo obligación el aparcero de exigir el contrato o dar aviso a la Presidencia Municipal respectiva en caso de negativa del propietario del terreno, con el fin de que surta efectos legales la sanción a que se refiere el presente artículo.
 
 ###### Artículo 5.
 
@@ -79,9 +81,11 @@ Si el aparcero no cumple con lo dispuesto en los artículos anteriores, tendrá 
 
 El propietario del terreno no podrá levantar la cosecha sino cuando el aparcero abandone la tierra de labor o que, sin abandonarla, lo autorice. En el primer caso se hará ante dos testigos, mayores de toda excepción, en la misma forma que establece el artículo 8, y si no lo hace, se aplicará por analogía lo dispuesto en el artículo 9.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1946)</small>
 
-El propietario del terreno no tiene derecho a retener de propia autoridad todos o parte de los frutos que correspondan al aparcero, para garantizar lo que éste le adeude por razón del contrato de aparcería.
+###### Artículo 11º.
+
+El propietario del terreno no tiene derecho a retener de propia autoridad todos o parte de los frutos que correspondan al aparcero, para garantizar lo que éste le adeude, por razón del contrato de aparcería a meno sde (sic) que el préstamo que recibe el aparcero, sea con garantía de la cosecha previo documento que al efecto se firme.
 
 Artculo (sic) 12.- Si la cosecha se pierde por completo por causa de fuerza mayor no imputable a ninguna de las partes, el aparcero no tiene obligación de pagar por la tierra, semilla agua, aperos o animales que se le hayan proporcionado; pero si la pérdida de la cosecha fuere parcial, se hará la repartición de lo que se recoja, de acuerdo con los porcentajes que indique el contrato, sujeto a esta ley.
 
@@ -89,7 +93,11 @@ Artculo (sic) 12.- Si la cosecha se pierde por completo por causa de fuerza mayo
 
 Cuando el aparcero quiera establecer su habitación en el campo que va a cultivar, el propietario tiene obligación de permitirle que construya su casa, y, tanto en este caso como en el de que el aparcero radique en el casco de la finca, se le concederá el uso de agua potable y extracción de leña para satisfacer sus necesidades domésticas, así como el consumo de pasto indispensable para alimentar los animales que empleé en el trabajo y tres cabezas más de ganado mayor y cinco de ganado menor, siempre que el predio cuente con agostadero y monte.
 
-Artículo14.- Tendrán derecho preferente en los contratos de aparcería, los vecinos de cada uno de los predios rústicos que hubieran sembrado las mismas tierras en el año anterior. En segundo término los vecinos de los mismos predios que no las hubieren sembrado y deseen tomar tierra en aparcería; y en último término la contratación podrá celebrarse con personas de otros lugares.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1946)</small>
+
+###### Artículo 14°.
+
+Tendrán derecho preferente en los contratos de aparcería, los vecinos de cada uno de los predios rústicos que hubieren sembrado los mismos terrenos en el año anterior, pero si el propietario necesita dichos terrenos para sembrarlos por su cuenta o personalmente él y sus familiares, no existirá tal preferencia y para el efecto deberá dar aviso a la Presidencia Municipal y al Departamento de Agricultura y Ganadería.
 
 ###### Artículo 15.
 
@@ -97,51 +105,43 @@ El aparcero que sin causa justificada deje el predio sin cultivo o no lo cultive
 
 Para el efecto, el propietario dará aviso con toda oportunidad a la Presidencia Municipal y al Departamento de Agricultura y Ganadería, cuando concurra alguna de las circunstancias apuntadas en la primera parte de este artículo.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1946)</small>
+
+###### Artículo 16º.
 
 La participación que en la cosecha tendrán los contratantes en aparcería, será la siguiente:
 
 I.- En terrenos de riego:
 
-a).- Cuando el propietario proporcione únicamente el terreno y el agua, corresponderá a éste el treinta por ciento de la cosecha y el setenta por ciento al aparcero.
+a).- Cuando el propietario proporcione únicamente el terreno y el agua, corresponderá a éste el treinta y cinco por ciento de la cosecha y el sesenta y cinco al aparcero.
 
-b).- Cundo el propietario proporcione la tierra, agua, semillas y aperos, percibirá éste el treinta y cinco por ciento de la cosecha y el aparcero el sesenta y cinco por ciento.
+b).- Cundo el propietario proporcione la tierra, agua, semillas y aperos, percibirá éste el cuarenta por ciento de la cosecha y el aparcero el sesenta.
 
-c).- Cuando el propietario proporcione tierra, agua, semilla, aperos y animales, éste percibirá el cuarenta por ciento de la cosecha y el aparcero el sesenta por ciento.
+c).- Cuando el propietario proporcione tierra, agua, semilla, aperos y animales, éste percibirá el cuarenta y cinco por ciento de la cosecha y el cincuenta y cinco para el aparcero.
 
-II.- En tierras de temporal de primera clase:
+II.- En terrenos de temporal:
 
-a).- Cuando el propietario proporcione únicamente la tierra, percibirá el veinte por ciento de la cosecha y el aparcero el ochenta por ciento.
+a).- Cuando el propietario proporcione únicamente la tierra, percibirá el veinticinco por ciento de la cosecha y el setenta y cinco al aparcero.
 
-b).- Cuando el propietario proporcione tierra. semillas y aperos. percibirá el veinticinco por ciento de la cosecha y el setenta y cinco por ciento restante el aparcero.
+b).- Cuando además de la tierra proporcione semillas y aperos percibirá el propietario el treinta y cinco por ciento y el sesenta y cinco el aparcero.
 
-c).- Cuando además de la tierra, semillas y aperos proporcione los animales de trabajo, percibirá el propietario el treinta por ciento de la cosecha, siendo el setenta por ciento para el aparcero.
-
-III.- En tierras de temporal de segunda clase:
-
-a).- Cuando el propietario proporcione únicamente la tierra, percibirá el quince por ciento de la cosecha y el ochenta y cinco por ciento el aparcero.
-
-b).- Cuando además de la tierra proporcione semillas y aperos percibirá el propietario el veinte por ciento de la cosecha y el ochenta por ciento el aparcero.
-
-c).- Cuando proporcione tierra. semillas, aperos y animales, percibirá el veinticinco por ciento de la cosecha el propietario y el setenta y cinco por ciento el aparcero.
+c).- Cuando proporcione tierras, semillas, aperos y animales el propietario percibirá el cuarenta y cinco por ciento de la cosecha y el aparcero el cincuenta y cinco.
 
 ###### Artículo 17.
 
 La partición de la cosecha deberá hacerse cuando esté ya recolectada en la labor o predio.
 
-###### Artículo 18.
+> <small>(REFORMADO [N. DE E. EL PRESENTE ARTICULO NO ES MENCIONADO EN EL EXTRACTO DE REFORMAS, SIN EMBARGO, EN EL TEXTO DE DICHO DECRETO SE ENCUENTRA REDACTADO], P.O. 28 DE MARZO DE 1946)</small>
 
-Para los efectos del del (sic) artículo 16, se considerarán:
+###### Artículo 18º.
 
-I.- Tierras de riego: las que dispongan de agua suficiente para los cultivos de la región en épocas normales. contándose entre éstas las de humedad en que ésta sea bastante para levantar las cosechas.
+En los Municipios de Gómez Palacio, Lerdo, Mapimí, San Pedro del Gallo, San Luis de Cordero, Nazas, Gral. Simón Bolivar, San Juan de Guadalupe ey Zona Norte de Cuencamé, que para los efectos de esta Ly se considera como límite un línea de Oriente a Ponieente que pase por la Cabecera del Municipio, por escasez de precipitación pluvial de las siembras que se verifiquen como de temporal corresponde a los propietarios la siguiente participación en las cosechas: (sic)
 
-II.- Tierras de temporal de primera clase: las que cuenten con capa arable de espesor no menor de treinta centímetros y precipitación pluvial suficiente para los cultivos. o aquellas en que se cuente con aguas de alguna corriente eventual o sean aguas broncas de ríos, arroyos o de otras corrientes encauzadas por obras especiales que auxilien los cultivos en forma irregular.
+a).- Cuando el propietario del terreno proporciono únicamente la tierra, recibirá el quince por ciento de la cosecha y el ochenta y cinco el aparcero.
 
-Debe considerarse que la precipitación pluvial es suficiente en todos los Municipios del Estado, con excepción de los que se mencionan en el inciso siguiente:
+b).- Cuando además de la tierra, proporcione semilla y aperos, recibirá el propietario el veinticinco por ciento de la cosecha y el aparcero el sesenta y cinco.
 
-III.- Tierras de temporal de segunda clase: aquellas en que falte cualquiera de los factores a que se refiere el inciso anterior, es decir, que la capa arable sea menor de treinta centímetros o la precipitación insuficiente.
-
-En los siguientes municipios todas las tierras de cultivo de temporal se considerarán de segunda, por la escasa precipitación pluvial, a menos que se encuentren en el caso del inciso anterior en lo que se refiere a aguas broncas o corrientes encauzadas por obras especiales: Gómez Palacio, Lerdo, Mapimí, San Pedro del Gallo, San Luis de Cordero, Nazas, San Bartolo. San Juan de Guadalupe y zona norte de Cuencamé tomando como límite una línea virtual que de Oriente a Poniente, pase por la cabecera de ese Municipio.
+c).- Cuando además de la tierra, semillas y aperos, recibe el aparcero animales para el trabajo, el propietario percibirá el treinta y cinco por ciento de los frutos y el sesenta y cinco el aparcero.
 
 ###### Artículo 19.
 
@@ -163,9 +163,11 @@ Es obligación del propietario la reparación y conservación de todas las tomas
 
 Es obligación del aparcero reparar y conservar por su propia cuenta los cercos y casas que estén bajo su cuidado.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1946)</small>
 
-El propietario o encargado del predio no podrá obligar al aparcero en ninguna forma a que venda o entregue, en determinado lugar, la participación que le corresponda en las cosechas, pues quedará en libertad de hacer uso de ella en la forma que más le convenga.
+###### Artículo 24º.
+
+El propietario o encargado del predio no podrá obligar al aparcero en ninguna forma a que venda o entregue en determinado lugar, la participación que le corresponde de cosecha, pues queda en libertad de hacer uso de ella en la forma que más le convenga a menos que haya recibido alguna cantidad como refacción para llevar a cabo los trabajos agrícolas, en cuyo caso tiene la obligación de pagar lo que adeude por ese concepto o también que haya tenido un arreglo previo de acuerdo con lo que previene el Artículo 11° de esta Ley.
 
 ###### Artículo 25.
 
@@ -181,9 +183,11 @@ b).- En cultivos de trigo, la trilla se hará por cuenta de las dos partes propo
 
 c).- En otros cultivos, queda a juicio de las autoridades municipales o Departamento de Agricultura y Ganadería del Estado, calificar sobre las dificultades que se presenten al no haber avenimiento entre ambas partes.
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1946)</small>
 
-El propietario que lanzare de un terreno a un aparcero por el hecho de negarse a contratar pagando un porcentaje mayor que el fijado en esta ley o para entregarlo a otra que le ofrezca un participación superior. se le fijara una multa de veinte a cien pesos. Igual sanción se aplicará cuando existiera negativa del propietario de contratar con el aparcero que tenga derecho preferente, porque éste sea solicitante de ejidos.
+###### Artículo 27º.
+
+El propietario que lanzare de un terreno a un aparcero por el hecho de negarse a contratar pagando un porcentaje mayor que el fijado en esta Ley o para entregar a otro que le ofrezca un porcentaje superior. se le fijara una multa de $20.00 a $100.00. Igual sanción se aplicará cuando existiera negativa del propietario de contratar con el aparcero que tenga derecho preferente, porque éste sea solicitante de ejidos. Exceptuando lo prevenido en el Artículo 14º. de esta Ley, en cuyo caso no está obligado a contratar.
 
 ###### Artículo 28.
 
@@ -214,3 +218,9 @@ Victoria de Durango, a 26 de septiembre de 1934.- Miguel Barraza. D.P.- Rúbrica
 Por tanto mando se imprima, publique, circule y comunique a quiénes corresponda, para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo a los veintiseis días del mes de septiembre de mil novecientos treinta y cuatro.- Carlos Real.- Rúbrica. El Secretario Int. de Gobierno. Lic. Francisco Correa Icaza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MARZO DE 1946.
+
+UNICO.- El Presente Decreto surte sus efectos a partir de la fecha de su publicación en el "Periódico Oficial" del Estado.
