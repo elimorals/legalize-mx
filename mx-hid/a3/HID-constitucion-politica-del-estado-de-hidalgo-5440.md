@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1970-02-01"
+last_updated: "1971-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1971.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -261,11 +261,11 @@ Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residir�
 
 El Poder legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Este se compondrá de Diputados electos popularmente, uno por cada noventa y cinco mil habitantes o fracción que pase de cincuenta mil, en cada Distrito Electoral. Si con esta proporción no resultaran electos quince diputados por lo menos, la Ley Electoral dividirá el Estado, en quince circunscripciones de población, iguales en lo posible y en cada una de ellas se elegirá un diputado.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1960)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1971)</small>
 
 ###### Artículo 19.
 
-Para ser Diputado se requiere: ser ciudadano del Estado en el ejercicio de sus derechos políticos, natural del mismo, mayor de 25 años y con vecindad efectiva no menor de tres años inmediatamente anteriores al día de la elección, cuando sean nativos del Estado y cinco años en las mismas circunstancias, cuando sean hijos de padres hidalguenses o de padre o madre hidalguense.
+Para ser Diputado, se requiere ser Ciudadano del Estado, en el ejercicio de sus derechos políticos, haber cumplido 21 años el día de la elección, con vecindad efectiva no menor de 3 años, inmediatamente anterior al día de la elección, cuando sea nativo del Estado y 5 años en las mismas circunstancias, cuando sea hijo de padres hidalguenses o de madre o padre hidalguense.
 
 ###### Artículo 20.
 
@@ -1214,3 +1214,7 @@ P.O. 1 DE FEBRERO DE 1970.
 4°. La reforma al artículo 61 entrará en vigor, al día siguiente de la publicación en el Periódico Oficial de la Ley Orgánica del Poder Judicial.
 
 5º. El Título VI del Ministerio Público se integra al Título IV del Poder Ejecutivo, para formar el Capítulo III y consecuentemente el Título VII de los municipios, le corresponderá el Título VI; el Título VIII de la Hacienda Pública del Estado, será el Título VII; el Título IX que trata de la responsabilidad de los funcionarios pasará a ser el Título VIII; el Título X de la Reforma e Inviolabilidad de esta Constitución, le corresponde el Título IX; y el Título XI, que trata de las disposiciones Generales le corresponde el Título X.
+
+P.O. 1 DE DICIEMBRE DE 1971.
+
+Unico. Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
