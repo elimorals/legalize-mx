@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-industria-para-el-estado-de-coahuila-4490"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-09"
-last_updated: "1966-11-09"
+last_updated: "1967-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE FOMENTO A LA INDUSTRIA PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1967.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila, el miércoles 9 de noviembre de 1966.
+Ley publicada en el Periódico Oficial, el miércoles 9 de noviembre de 1966.
 
 EL C. BRAULIO FERNANDEZ AGUIRRE, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
@@ -77,11 +77,17 @@ No se gravará el capital propio o ajeno que se invierta por los industriales en
 
 Las empresas que se establezcan de conformidad con las disposiciones de la presente Ley, no causarán los impuestos y derechos siguientes:
 
-I.- Impuesto predial sobre las construcciones destinadas a la industria.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1967)</small>
 
-II.- Impuesto de Traslación de Dominio sobre las escrituras mediante las cuales las empresas adquieran terrenos destinados precisamente a su industria.
+I.- Impuesto predial sobre las construcciones destinadas a la Industria.
 
-III.- Impuesto a los productos de capitales, cuando los créditos que la empresa obtenga sean destinados precisamente a fomentar su industria.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1967)</small>
+
+II.- Impuesto a los productos de capitales, cuando los créditos que la empresa obtenga sean destinados precisamente a fomentar su industria.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1967)</small>
+
+III.- Derechos de traslación de dominio sobre las escrituras mediante las cuales, las empresas adquieran terrenos destinados precisamente a su industria.
 
 IV.- Derechos de inscripción en el Registro Público de la Propiedad, de las escrituras mediante las cuales las empresas adquieran terrenos destinados precisamente para su industria, y
 
@@ -91,17 +97,29 @@ V.- Derechos de inscripción en el Registro Público de Comercio, de las escritu
 
 No se concederá exención ni reducción al impuesto predial sobre los terrenos propiedad de las industrias.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1967)</small>
+
 ###### ARTICULO 7o.
 
-Para los efectos del Artículo 5o. Fracciones II, IV y V , la empresa deberá justificar su funcionamiento dentro de un plazo no mayor de dos años a contar de la fecha en que se efectúe la Traslación de Dominio, siempre que la concesión haya sido otorgada durante ese lapso, pues en su defecto se causarán las prestaciones correspondientes. Para que sean aplicables las Fracciones II, IV y V del Artículo 5º. Bastará presentar la copia de la solicitud sellada de recibo, o bien las constancias fehacientes de que el original ya fué entregado al Ejecutivo del Estado.
+Para los efectos del Artículo 5o. Fracciones III, IV y V de esta Ley, la empresa deberá justificar su funcionamiento dentro de un plazo no mayor de dos años a contar de la fecha en que se efectúe la traslación de dominio, siempre que la concesión haya sido otorgada durante ese lapso, pues en su defecto se causarán las prestaciones correspondientes.
+
+Para que sean aplicables las citadas fracciones III, IV y V, bastará presentar copia de la solicitud de franquicia, debidamente sellada y con la constancia de recibo, o bien documentos fehacientes que demuestren que el original ha sido entregado al Ejecutivo del Estado.
+
+Cuando de la escritura constitutiva, de reformas o de reorganización de una sociedad, se desprenda que la empresa va a realizar actividades distintas de las estrictamente industriales, queda a juicio del Ejecutivo del Estado exigir depósito en efectivo por el importe de los impuestos o derechos correspondientes. El depósito será devuelto al interesado, cuando justifique el funcionamiento de la empresa, dentro del plazo que se señala en el párrafo primero de este Artículo.
+
+Son responsables, solidariamente con la empresa, los accionistas de la misma y los miembros del consejo de administración, por el pago de los impuestos y derechos, en el caso de que éstos deban hacerse efectivos.
 
 ###### ARTICULO 8o.
 
 Las plantas de beneficio de cualquier tipo, incluyendo las de minerales no metálicos, las de coque y los establecimientos metalúrgicos ubicados en el Estado de Coahuila, pagarán hasta el 5 al millar anual ( CINCO AL MILLAR ANUAL), sobre el valor de las fincas, de la maquinaria y del equipo. El valor de las fincas serán determinado con arreglo a las disposiciones de la Ley General del Catastro para el Estado de Coahuila y su Reglamento, debiendo tomarse como base el valor catastral resultante; y de no ser posible la aplicación de las disposiciones de dichos Ordenamientos, se determinará por medio de avalúo que practique una Institución de Crédito legalmente autorizada. El valor de la maquinaria y del equipo, invariablemente se sujetará a avalúo pericial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1967)</small>
+
 ###### ARTICULO 9o.
 
-No se concederán las reducciones a que se refiere este Capítulo a las industrias que sean motivo de impuestos privativos de la Federación, especiales de la misma, o de los que estén federalizados, en el momento de solicitarse el subsidio. Sin embargo, en caso de que la federalización se haga por coordinación con el Estado y Municipios, cuando ya esté declarado el subsidio, éste prevalecerá en los términos del Artículo 3o. de esta Ley por el término y en la proporción concedida, descontándose de la participación correspondiente que la Federación habría de otorgar al Estado y el Municipio.
+No se concederán las reducciones ni las exenciones a que se refiere este capítulo a las industrias que sean motivo de impuestos privativos de la federación, especiales de la misma, o de los que estén federalizados, en el momento de solicitar la franquicia.
+
+En caso de que la federalización se haga por coordinación con el Estado y Municipios, cuando ya esté declarada la reducción del impuesto, ésta prevalecerá en los términos del Artículo 3o. de la presente Ley, por el término y en la proporción concedidos, descontándose de la participación que el Gobierno Federal habría de otorgar al Estado y al Municipio.
 
 ###### ARTICULO 10o.
 
@@ -298,3 +316,11 @@ BRAULIO FERNANDEZ AGUIRRE.- Rúbrica.
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. JOSE RAMIREZ MIJARES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1967.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
