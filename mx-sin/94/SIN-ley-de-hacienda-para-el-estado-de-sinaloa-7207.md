@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1994-07-25"
+last_updated: "1994-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -37,449 +37,171 @@ DECRETO NUMERO 41
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO I. De la Legislación Fiscal
+## TITULO PRIMERO
 
-ART. 1.- Los ingresos públicos del Estado se rigen por las disposiciones de la Ley de Ingresos y Presupuesto de Egresos, de esta Ley de Hacienda y de las demás leyes fiscales.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 2.- La Legislación Fiscal se complementa con los reglamentos, convenios y demás actos jurídicos que en materia fiscal expidan, otorguen o celebren las autoridades competentes en ejercicio de las atribuciones que les confieran las leyes.
+### CAPITULO I. ART. 1.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 3.- Las normas de derecho tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
+ART. 2.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 4.- Fuera del caso del Artículo anterior, tendrán carácter supletorio las normas del derecho administrativo y el derecho común, pero su aplicación se hará teniendo en cuenta los principios y modalidades del derecho fiscal.
+ART. 3.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 4.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 5.- En el orden administrativo, corresponde al Gobernador del Estado, directamente o por conducto de la Secretaría de Hacienda Pública y Tesorería y sus dependencias, la interpretación y aplicación de la Legislación Fiscal.
+ART. 5.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 6.- La ignorancia de las leyes, reglamentos y demás disposiciones fiscales de observancia general, debidamente promulgadas y publicadas no excusa de su cumplimiento. Sin embargo, en todos los casos en los que el cumplimiento de las obligaciones fiscales pueda atribuirse al alejamiento de las vías de comunicación, a incultura de los habitantes de una región, a insuficiencia económica y a otras causas excluyentes de mala fé, el Ejecutivo del Estado podrá conceder en forma general o en forma especial, términos adicionales para el cumplimiento de las obligaciones fiscales y podrá eximir a los infractores de las sanciones correspondientes o reducir éstas.
+ART. 6.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 7.- Las leyes, reglamentos y demás disposiciones fiscales de observancia general, entran en vigor tres días después de su publicación en el Periódico Oficial del Estado, excepto cuando se exprese una fecha de vigencia diferente. En los plazos sobre vigencia de leyes y demás disposiciones a que este Artículo se refiere se computarán los días inhábiles.
+ART. 7.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 8.- Las Leyes Fiscales son de orden público y su aplicación es de interés público. En consecuencia:
+ART. 8.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Nadie podrá ostentarse como titular de derechos irrevocables frente a los preceptos de esas leyes;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-II.- Ninguna autoridad podrá si no existe precepto legal que la faculte para ello, eximir de la observancia de esas leyes, ni otorgar cancelaciones, conceder condonaciones o dispensas de los créditos y demás obligaciones fiscales, ni celebrar transacciones o convenios, que tengan por objeto esos créditos, ni conceder privilegios, ventajas o subsidios, ni desistirse de las acciones o medios de defensa interpuestos para protección de los intereses fiscales;
+### CAPITULO II. ART. 9.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- Las autoridades fiscales ejercerán las facultades que las Leyes Fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que la Ley se proponga con arreglo a los principios de igualdad y de equidad, sin crear indebidos privilegios o discriminaciones.
+ART. 10.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994
 
-### CAPITULO II. De los ingresos del Estado
+ART. 11.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 9.- Los ingresos del Estado se establecen por la Ley de Ingresos y Presupuesto de Egresos, correspondiente a cada ejercicio fiscal.
+ART. 12.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 10.- Son ingresos ordinarios los que en forma normal y permanente se autorizan para cubrir el costo de los servicios públicos regulares del Estado. Son ingresos extraordinarios aquellos cuya percepción se autoriza para promover el pago de gastos que obedezcan a una situación de emergencia del Gobierno del Estado.
+ART. 13.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 11.- Los ingresos ordinarios tienen la siguiente clasificación legal: Impuestos, Derechos, Productos, Aprovechamientos y Participaciones.
+ART. 14.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 12.- Son impuestos las prestaciones en dinero o en especie, que fija la ley con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos del Estado.
+ART. 15.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 13.- Son contribuciones especiales las destinadas a la creación de fondos para fines específicos.
+ART. 16.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 14.- Son derechos las contraprestaciones establecidas por el poder público, conforme a la Ley, en pago de un servicio.
+ART. 17.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 15.- Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
+ART. 18.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 16.- Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público, no clasificables como impuestos, derechos, productos, participaciones y contribuciones especiales.
+ART. 19.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 17.- Las participaciones en ingresos federales se percibirán con arreglo a las leyes que las otorguen y a los convenios que se celebren sobre el particular.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 18.- Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los convenios que celebre el Ejecutivo conforme a lo dispuesto por el Artículo 43, fracción XXIII, de la Constitución Política del Estado. Los demás ingresos extraordinarios se regirán por las leyes que los establezcan.
+### CAPITULO III. ART. 20.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 21.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 19.- Todos los ingresos públicos del Estado se concentrarán a la Secretaría de Hacienda Pública y Tesorería para cubrir los gastos públicos que autorice para cada ejercicio fiscal la correspondiente Ley de Ingresos y Presupuesto de Egresos. La Secretaría de Hacienda Pública y Tesorería hará la provisión de fondos necesarios a las oficinas pagadoras. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines especiales, pero en todo caso, se harán los asientos correspondientes en la contabilidad de la Hacienda Pública.
+ART. 22.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-### CAPITULO III. De las Autoridades Fiscales
+ART. 23.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 20.- La Dirección de la política Hacendaria del Estado corresponde al Gobernador del Estado, quien tendrá además, las atribuciones que en esta materia le otorgan la Constitución Política del Estado y las Leyes.
+ART. 24.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 21.- Son Autoridades Fiscales, además del Gobernador del Estado:
+ART. 25.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+ART. 26.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- El Secretario de Hacienda Pública y Tesorería;
+ART. 27.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 28.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- El Subsecretario de Inspección Fiscal;
+ART. 29.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+ART. 30.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- El Sub-Secretario de Ingresos;
+ART. 31.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-IV.- El Director de Auditoría Fiscal;
+### CAPITULO IV. ART. 32.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+ART. 33.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-V.- El Director de Administración y Control Fiscal; y,
+ART. 34.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 35.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VI.- El Director de Ingresos Especiales;
+ART. 36.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 37.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VII.- El Director de Inspección y Reglamentos.
+ART. 38.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 39.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VIII.- Las demás autoridades a que esta Ley y demás ordenamientos legales confieren atribuciones en materia hacendaria.
+ART. 40.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 22.- Son órganos auxiliares de las Autoridades Fiscales, todas las autoridades administrativas, judiciales y municipales del Estado, las que deberán prestar la colaboración que aquellas les soliciten, de acuerdo con la Legislación Fiscal.
+ART. 41.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 23.- La competencia de las Autoridades Fiscales en razón del territorio, del grado y de la materia es la que determina la Legislación Fiscal.
+ART. 42.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 24.- Las Autoridades Fiscales, dentro de su competencia, tendrán, independientemente de las facultades específicas que les otorguen las leyes, las siguientes:
+ART. 43.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Exigir de los contribuyentes y de terceros, el cumplimiento de las respectivas obligaciones que les imponga la legislación fiscal.
+ART. 44.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- Pedir a los contribuyentes que aclaren, aporten o comprueben los datos e informes que estimen pertinentes para la determinación de los créditos fiscales a su cargo.
+ART. 45.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- Practicar visitas en el domicilio o dependencias de los sujetos pasivos, de los responsables solidarios o de los terceros y revisar sus libros, documentos y correspondencia que tengan relación con las obligaciones fiscales y en su caso, asegurarlos, dejando en calidad de depositario al visitado, previo inventario que al efecto se formule.
+ART. 46.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-IV.- En las visitas domiciliarias se observará lo siguiente:
+ART. 47.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Sólo se practicarán por mandamiento escrito de autoridad fiscal competente que expresará:
+ART. 48.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-a).- El nombre de la persona que debe recibir la visita y el lugar donde ésta deba llevarse a cabo.
+ART. 49.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Cuando se ignore el nombre de la persona que deba ser visitada se señalarán datos suficientes que permitan su identificación;
+ART. 50.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-b).- El nombre de la persona o personas que deban desahogar la diligencia, las cuales podrán ser substituidas, aumentadas o reducidas en su número por la autoridad que expidió la orden. En estos casos se comunicarán por escrito al visitado estas circunstancias, pero la visita podrá ser válidamente practicada por cualquiera de los visitadores;
+ART. 51.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-c).- Las obligaciones fiscales que vayan a verificarse, así como el período o aspectos que abarque la visita.
+ART. 52.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-V.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes a quien se encuentre en el lugar en que debe practicarse la diligencia. En el mismo acto se identificarán los visitadores;
+ART. 53.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VI.- El visitado será requerido para que proponga dos testigos y en su ausencia o negativa de aquél, serán designados por el personal que practique la visita;
+ART. 54.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VII.- El visitado deberá proporcionar y mantener a disposición de los visitadores, desde el momento de la iniciación de la diligencia hasta la terminación de ésta, sus libros principales, sociales, auxiliares, registros, documentos, correspondencia y demás efectos contables, los que serán examinados en el domicilio, establecimiento o dependencia del visitado. Los visitadores podrán sacar copias de la documentación del causante que estimen necesaria, para que previo cotejo con sus originales se certifique por aquellos y sea anexada a las actas finales o parciales que se levanten durante y con motivo de la visita;
+ART. 55.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Los libros, registros y documentos, sólo podrán asegurarse mediante la colocación de sellos o recogerse:
+ART. 56.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-a).- Cuando existan libros, registros o sistemas de contabilidad obligatoria que no estén autorizados;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-b).- Cuando se encuentren libros, registros o sistemas de contabilidad cuyos asientos o datos no coincidan con los de los autorizados;
+### CAPITULO V. ART. 57.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-c).- Cuando no se hayan presentado declaraciones o manifestaciones fiscales, respecto del o los ejercicios objeto de la visita;
+ART. 58.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-d).- Cuando los datos anotados en los libros, registros o sistemas de contabilidad autorizados no coincidan con los asentados en las declaraciones o manifestaciones presentadas;
+ART. 59.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-e).- Cuando al inicio de una visita o durante el transcurso de ella, el visitado, su representante legal o quien se encuentre en el domicilio de la visita, se niegue a recibirla o impida el acceso a los visitadores a las oficinas, bodegas, locales, dependencias, cajas de valores o no ponga a disposición de los visitadores los libros, registros y documentos a que se refiere esta fracción, o bien imposibilite o dificulte por cualquier causa la realización de la visita;
+ART. 60.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-f).- Cuando se violen los sellos que hubiesen sido colocados por los visitadores como medida precautoria;
+ART. 61.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-En todos los casos en que se recojan libros, registros o documentos, este hecho se hará constar en acta.
+ART. 62.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VIII.- Los visitadores harán constar en el acta los hechos u omisiones observados y al concluir la visita, cerrarán el acta haciendo constar los resultados en forma circunstanciada. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no producirán efectos de resolución fiscal;
+ART. 63.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-IX.- El visitado o la persona con la que se entienda la diligencia, los testigos y cualquiera de los visitadores que hayan terminado la visita firmarán el acta, lo que será suficiente para su validez. Si el visitado o los testigos se niegan a firmar, así lo harán constar el o los visitadores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia;
+ART. 64.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-X.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
+ART. 65.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 66.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-XI.- El visitado, o quien lo represente podrá inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los veinte días siguientes a la conclusión de las mismas, ante la Secretaría de Hacienda Pública y Tesorería, en el que expresará las razones de su inconformidad, y ofrecerá las pruebas documentales pertinentes que deberá acompañar a su escrito o rendir a más tardar dentro de los cuarenta y cinco días siguientes. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas;
+ART. 67.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-XII.- Ordenar la inspección de predios, establecimientos y otros lugares, cualquiera que sea su naturaleza, así como la inspección de vehículos, libros, documentos, mercancías u otros objetos, de cualquiera clase que sean, cuando lo estimen necesario para el conocimiento de hechos o circunstancias que sirvan de base para la aplicación de la Legislación Fiscal.
+ART. 68.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-XIII.- Revisar, según proceda, las manifestaciones y declaraciones de impuestos y derechos y determinar los créditos fiscales respectivos;
+ART. 69.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-XIV.- Determinar estimativamente los créditos fiscales, cuando no se aclaren o comprueben o no se aporten los datos comprobatorios dentro del término que la Ley señala, o cuando, como resultado de las auditorías, visitas e inspecciones practicadas se compruebe que los datos manifestados o declarados son inexactos.
+ART. 70.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Las autoridades fiscales podrán determinar estimativamente la base y el ingreso gravable de los causantes, en los siguientes casos:
+ART. 71.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-a).- Cuando omitan presentar sus declaraciones hasta el momento de iniciación de una visita domiciliaria o de la solicitud de documentos, datos o informes relacionados con su revisión por parte de cualquier autoridad fiscal; se opongan u obstaculicen la iniciación o desarrollo de tales actividades, o se nieguen a recibir la orden o petición respectiva, según sea el caso;
+ART. 72.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-b).- Cuando no presenten los libros de contabilidad, documentación comprobatoria de los renglones de las declaraciones, o no proporcionen los informes que se les soliciten;
+ART. 73.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-c).- Cuando la contabilidad del negocio del causante adolezca de alguno de los siguientes vicios:
+ART. 74.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-1.- Que omita ingresos que excedan, del 3% de los declarados;
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-2.- Que omita o altere el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% de los ingresos declarados;
-
-3.- Que aparezca con (sic)
-
-4.- Que haga constar asientos, cuentas, cantidades o cualquier otro dato falso o inexacto; o
-
-5.- Que omita el registro de facturas de compras, cuyo monto exceda del 3% del importe total de las efectuadas en el ejercicio.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-d).- Si con base en la contabilidad, documentación del causante, e informes de terceros, no se puedan reconstruir las operaciones normales correspondientes, la Secretaría de Hacienda Pública y Tesorería, podrá determinar estimativamente el ingreso gravable, tomando en cuenta lo siguiente:
-
-Importe de compras efectuadas, inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación Estado o Municipio; cantidades que hayan cubierto por concepto de Energía Eléctrica y Teléfono; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia, y en general, todos los elementos de juicio que puedan utilizarse en la determinación de ingresos gravables percibidos por estos causantes.
-
-e).- Si de acuerdo con el inciso anterior no se pueden reconstruir las operaciones del causante, la Autoridad Fiscal tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el periodo objeto de revisión. No se computarán los días inhábiles ni aquellos en que el causante compruebe no haber realizado operaciones.
-
-Al ingreso o base gravable estimado presuntivamente por alguno de los procedimientos anteriores se le aplicará la tasa o tarifa que corresponda;
-
-XV.- Liquidar los créditos fiscales directamente, en los casos en que no se requiera la presentación de declaraciones o manifestaciones conforme a la Ley;
-
-XVI.- Pedir a los terceros que estén o hayan estado en relaciones de negocios con los contribuyentes, que les suministren los datos e informes necesarios para determinar la situación fiscal de éstos; así como ordenar, con el mismo fin, la práctica de visitas a dichos terceros, limitándose estas diligencias a la investigación de los datos relativos a las operaciones efectuadas entre dichos terceros y los contribuyentes cuya situación fiscal se investigue;
-
-XVII.- Imponer sanciones en el orden administrativo, conforme a la Ley, por infracciones a la Legislación Fiscal y hacer las consignaciones procedentes al Ministerio Público en los casos de delitos cometidos en perjuicio de la Hacienda Pública del Estado;
-
-XVIII.- Aplicar el procedimiento fiscal de ejecución, con arreglo a esta Ley.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 25.- La Secretaría de Hacienda Pública y Tesorería, la Sub´Secretaría de Inspección Fiscal y la Sub-Secretaría de Ingresos, tienen la facultad y el deber de vigilar el exacto cumplimiento de las leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones a que están obligados y si los datos que contienen corresponden a la realidad y, en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 26.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de Inspección Fiscal y el Sub´Secretario de Ingresos, son las autoridades competentes para ordenar la práctica de visitas a que se refiere la Fracción III del Artículo 24 de esta Ley.
-
-ART. 27.- Los funcionarios y empleados fiscales están obligados, bajo su inmediata responsabilidad personal, a guardar el secreto de la situación económica de los contribuyentes que haya llegado a su conocimiento en actos de servicio; les está prohibido explotar o aprovechar en cualquier forma, los secretos profesionales de negocios que en actos del servicio hayan llegado a su conocimiento, así como al suministrar datos fiscales relativos al empadronamiento y valor catastral de predios rústicos y urbanos, de negocios comerciales, industriales, agrícolas y de profesiones y oficios, salvo por orden de autoridad Judicial competente o a solicitud por escrito de Autoridad Federal o de los dueños, poseedores, arrendatarios o encargados de estos bienes y negocios.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 28.- La determinación, revisión y recaudación de los impuestos y demás ingresos propios del Estado y los permisos, autorizaciones o registros que sean de la competencia de la Secretaría de Hacienda Pública y Tesorería, se harán por las autoridades hacendarias a través de la Sub´Secretaría de Inspección Fiscal y de la Sub´Secretaría de Ingresos.
-
-ART. 29.- La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las leyes fiscales.
-
-ART. 30.- Dicha obligación se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento; pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
-
-ART. 31.- El crédito fiscal es la obligación fiscal determinada en cantidad líquida y debe pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, el pago deberá hacerse:
-
-I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efectos la notificación de la misma;
-
-II.- Si es a los sujetos pasivos o responsables solidarios a quienes corresponda determinar en cantidad líquida la prestación, dentro de los veinte días siguientes al nacimiento de la obligación fiscal, y
-
-III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, este deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
-
-### CAPITULO IV. De los Créditos Fiscales
-
-ART. 32.- El monto del crédito se determina con arreglo a las bases legales correspondientes y a los procedimientos establecidos por cada especie de crédito.
-
-ART. 33.- Sujeto pasivo de un crédito fiscal es la persona física o moral que, de acuerdo con las leyes, está obligada al pago de una prestación determinada al fisco local.
-
-ART. 34.- También es sujeto pasivo cualquiera agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las Leyes Fiscales, estas agrupaciones se asimilan a las personas morales.
-
-ART. 35.- Cuando dos o más personas estén obligadas al pago de una misma prestación fiscal, tendrán la calidad de codeudores con responsabilidad solidaria.
-
-Esta regla se observará también en los casos de comunidad o copropiedad de bien y en aquéllos en que se posea en común un bien determinado, salvo los casos expresamente exceptuados por esta Ley u otras Leyes fiscales del Estado.
-
-ART. 36.- Los terceros que, sin tener calidad de deudores directos de un crédito fiscal, no den cumplimiento a determinadas obligaciones que les impongan las Leyes Fiscales, tendrán responsabilidad indirecta, cuando así lo establezca la Ley. Esta responsabilidad indirecta será solidaria con el deudor directo, salvo los casos en que la Ley dé la calidad de responsabilidad subsidiaria o substituta.
-
-ART. 37.- Si un tercero por voluntad propia se obliga al pago de una prestación fiscal en sustitución del deudor directo, éste no queda liberado por ese hecho de su obligación, pero el tercero adquirirá responsabilidad solidaria.
-
-ART. 38.- Están exentos del pago de impuestos: La Federación, Las Entidades Federativas, el Estado de Sinaloa y sus Municipios y las Instituciones de Beneficiencia (sic) Privada, previa declaratoria del Ejecutivo del Estado, tratándose de estas últimas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 39.- El pago de los créditos fiscales se hará dentro del plazo legal y contra recibo oficial de pago. Dicho pago se hará en las Oficinas Recaudadoras y en las Instituciones de crédito que al efecto señale la Secretaría de Hacienda Pública y Tesorería. Los giros postales, telegráficos y bancarios y los cheques certificados se admitirán como efectivo.
-
-Los marbetes sólo se admitirán como medio de comprobar el pago de los créditos fiscales cuando las leyes así lo establezcan.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
-
-ART. 40.- Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al Fisco Estatal por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 50% mayor de la tasa que mediante Ley fije anualmente el Congreso del Estado, en los casos de prórroga para el pago de créditos fiscales.
-
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este Artículo, los gastos de ejecución y las multas por infracción a las disposiciones tanto fiscales como no fiscales.
-
-En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
-
-Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
-
-Los recargos se causarán por cada mes o fracción de mes que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
-
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la Oficina Recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
-
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este Artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el Procedimiento Administrativo de Ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
-
-Cuando el contribuyente pague en una sola exhibición el total de las contribuciones omitidas, en forma espontánea, en los términos del Artículo 394, Fracción IX de esta Ley, el importe de los recargos no excederá de los causados durante el último año. Si se obtiene autorización para pagar a los plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece el Artículo 42, último párrafo de esta Ley, por la parte diferida.
-
-> <small>(REFORMADO, P.O. 08 DE MARZO DE 1991)</small>
-
-ART. 41.- Los recargos fiscales se aplicarán independientemente de las multas que establezca la Ley. Los recargos no tienen el carácter de sanción sino de indemnización al erario por la falta de pago oportuno de los adeudos respectivos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 42.- La Secretaría de Hacienda Pública y Tesorería, podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deben pagarse las parcialidades, no excederá de un año.
-
-En los casos a que se refiere este precepto deberá garantizarse el interés fiscal salvo que, conforme a esta Ley, proceda su dispensa.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-La Secretaría de Hacienda Pública y Tesorería podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
-
-Durante los plazos concedidos se causarán los recargos conforme la tasa que fije anualmente la Ley de Ingresos y Presupuesto de Egresos del Estado, tomando en cuenta el tipo de interés que rija en el mercado.
-
-ART. 43.- Cesará la prórroga o la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible.
-
-I.- Cuando desaparezca o resulte insuficiente la garantía del interés fiscal;
-
-II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial, y
-
-III.- Cuando en su caso deje de cubrirse alguna de las parcialidades.
-
-ART. 44.- Habrá derecho a reclamar la devolución de las cantidades indebidamente pagadas o pagadas en cantidad mayor de la debida.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-La solicitud de devolución se presentará por escrito, ante la Secretaría de Hacienda Pública y Tesorería, debidamente motivida (sic) y fundada, acompañada de los documentos probatorios de los hechos aducidos y de los que acrediten el ingreso del pago indebido. La Secretaría de Hacienda Pública y Tesorería formulará un dictamen sobre la procedencia o improcedencia de la devolución.
-
-Cuando se acuerde la devolución por la cantidad que proceda, deberá efectuarse en un plazo que no excederá de tres meses. En caso contrario se pagarán intereses a razón del 18% anual.
-
-Tratándose de créditos fiscales cuyo importe hubiera sido efectivamente retenido a los sujetos pasivos, el derecho a la devolución sólo corresponderá a éstos.
-
-No procederá la devolución de cantidades pagadas indebidamente cuando el crédito fiscal haya sido recaudado por terceros, o repercutido o trasladado a éstos por el causante que hizo el entero correspondiente. Sin embargo, si la repercusión se realizó en forma expresa mediante la indicación en el documento respectivo del monto del crédito fiscal cargado, el tercero que hubiere sufrido la repercusión tendrá derecho a reclamar la devolución.
-
-ART. 45.- La condonación, sin exceder los límites que establece la Fracción XXIII del artículo 65, de la Constitución Política del Estado, podrá ser total o parcial a juicio del ejecutivo.
-
-La condonación que autoriza la Fracción XXV del artículo 43, de la propia Constitución, ya sea de parte de un adeudo o de la totalidad del mismo, se decretará siempre que se demuestre que de efectuarse el cobro, el causante quedará en notario (sic) estado de insolvencia, o cuando por causa de fuerza mayor o de calamidad pública ocurrida en el Estado o en alguna de sus regiones, los causantes de determinados impuestos de la zona afectada, hayan sufrido perjuicios que afecten seriamente su situación económica, a juicio del Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
-
-ART. 46.- Las autoridades fiscales podrán cancelar o reducir las multas impuests (sic) por resolución definitiva, para lo cual apreciarán discrecionalmente las circunstancias y causas que motivaron la imposición de la sanción.
-
-ART. 47.- Las condonaciones de que tratan los Artículos 45 y 46 implicará que los gastos y honorarios de ejecución queden sin efecto.
-
-ART. 48.- Cuando coexistan adeudos del Estado a favor de un particular y créditos fiscales a cargo de éste, se declarará la compensación de oficio o a solicitud del interesado, siempre que las deudas recíprocas sean igualmente líquidas y exigibles, observándose al respecto las disposiciones relativas del Código Civil del Estado.
-
-ART. 49.- En materia de impuestos que deban determinarse mediante la presentación de una declaración por el contribuyente, la facultad fiscal para exigir su presentación o para suplir la declaración, prescribe en 5 años, contados a partir de la fecha en que la declaración debió ser presentada.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 50.- Las facultades de la Secretaría de Hacienda Pública y Tesorería para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
-
-I.- Del día siguiente al en que hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
-
-II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal si no existiera obligación de presentar declaraciones, manifestaciones o avisos, y
-
-III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo el término correrá a partir del día siguiente al en que hubiere cesado.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 51.- Las facultades de la Secretaría de Hacienda Pública y Tesorería para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán en los términos del artículo anterior.
-
-ART. 52.- Las obligaciones ante el fisco estatal y los créditos a favor de éste por impuestos, derechos, productos, aprovechamientos o contribuciones especiales, se extinguen por caducidad en el término de 5 años. En el mismo plazo se extingue, también por prescripción, la obligación del fisco de devolver las cantidades pagadas indebidamente.
-
-ART. 53.- La prescripción del crédito principal extingue simultáneamente los recargos y los gastos de ejecución.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 54.- La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos o será reconocida o declarada por la Secretaría de Hacienda Pública y Tesorería, a petición de cualquier interesado.
-
-ART. 55.- La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada al deudor o por el reconocimiento de éste expreso o tácito, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en éste Artículo deberá existir constancia por escrito.
-
-ART. 56.- Podrá hacerse el pago de los créditos fiscales "bajo protesta" cuando la persona que lo haga se proponga intentar, en su oportunidad, los recursos o medios de defensa respectivos.
-
-El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a que se dé cumplimiento.
-
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que éste se efectúa bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultáneamente al pago, expreso por escrito, a la Oficina Recaudadora, que el pago se hace bajo protesta o que intenta el recurso o medio de defensa procedente.
-
-La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan los recursos o medios de defensa, o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
-
-### CAPITULO V. Disposiciones Diversas
-
-ART. 57.- Para hacer gestiones, en nombre ajeno, ante las autoridades fiscales del Estado, bastará carta poder autorizada con la firma del mandante y la de los testigos, o mediante otorgamiento de mandato en escritura pública. En todo caso el mandante y el mandatario acreditarán su representación de acuerdo con los preceptos relativos del Código Civil del Estado.
-
-ART. 58.- Las personas que retengan impuestos estatales y no lo enteren en la oficina recaudadora que corresponda, dentro de los 15 días siguientes a la retención, serán responsables de los recargos que se produzcan y del delito de abuso de confianza, el que se castigará con la pena prevista en el Artículo 347 del Código Penal del Estado.
-
-ART. 59.- Se concede acción popular para denunciar las infracciones que se cometan a la Legislación Fiscal.
-
-ART. 60.- Las denuncias deberán presentarse por escrito en el que se precisarán los hechos y circunstancias de la infracción denunciada, acompañándose con los documentos o pruebas que el denunciante tenga en su poder o conozca.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 61.- La Secretaría de Hacienda Pública y Tesorería practicará las investigaciones necesarias tendientes a la comprobación de las infracciones denunciadas.
-
-ART. 62.- En todo caso en que se compruebe la comisión de una infracción, la autoridad competente formulará la liquidación de los créditos fiscales que resulten omitidos, aplicará las sanciones correspondientes y exigirá el pago de los créditos fiscales respectivos y se (sic) sus accesorios legales correspondientes.
-
-ART. 63.- Para los efectos fiscales se considera domicilio de los sujetos pasivos o responsables solidarios, el que establezcan las leyes fiscales y, a falta de disposiciones en dichas leyes los siguientes:
-
-I.- Tratándose de personas físicas:
-
-a).- La casa en que habiten.
-
-b).- El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales, en todo lo que se relacione con éstas. En dichos casos las autoridades fiscales podrán considerar también como domicilio, la casa habitación de la persona física.
-
-c).- A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en el que se encuentren;
-
-II.- Tratándose de personas morales:
-
-a).- El lugar en el que esté establecida la administración principal del negocio.
-
-b).- En defecto del indicado en el inciso anterior, el lugar en el que se encuentre el principal establecimiento.
-
-c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-III.- Si se trata de sucursales o agencias, de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Hacienda Pública y Tesorería; y
-
-IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Estado a través de representantes, se considerará como su domicilio el del representante.
-
-ART. 64.- En los términos fijados en días por las disposiciones generales o por las autoridades fiscales, se computarán sólo los hábiles.
-
-Los términos fijados por períodos y aquéllos en que se señalen una fecha determinada para su extinción comprenderán los días inhábiles.
-
-ART. 65.- Se consideran días hábiles aquéllos en que se encuentren abiertas al público las oficinas fiscales durante el horario normal. La existencia de personal de guardia no habilita los días en que se suspenden las labores.
-
-Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
-
-En todos los plazos señalados por las leyes fiscales en que no se precisen día y fecha de su vencimiento, se computarán días naturales y cuando el último día sea inhábil, el vencimiento del plazo será el día hábil inmediato posterior.
-
-ART. 66.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
-
-En ningún trámite administrativo se admitirá la gestión de negocios.
-
-Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
-
-ART. 67.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos que puedan ser recurridos, se harán.
-
-I.- Personalmente;
-
-II.- Mediante oficio entregado por mensajero, por correo certificado con acuse de recibo;
-
-III.- Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
-
-ART. 68.- Los acuerdos distintos de los señalados en el artículo anterior, podrán ser notificados por medio de oficio o telegrama.
-
-ART. 69.- Las notificaciones personales se harán el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas del artículo 63 de ésta Ley.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
-
-Si la persona a quien haya de notificarse no atendiera el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
-
-ART. 70.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y sólo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-ART. 71.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en el Diario Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad.
-
-ART. 72.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueren hechas o al de la publicación, en el caso del artículo que antecede.
-
-ART. 73.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si éste es anterior a la en que debiera surtir sus efectos la notificación de acuerdo con el artículo precedente.
-
-ART. 74.- Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal, será necesario hacerle notificación, en la que se expresará:
-
-I.- El nombre del causante;
-
-II.- La resolución de la que se derive el crédito fiscal y el monto de éste;
-
-III.- Los motivos y fundamentos por lo que se le considera responsable del crédito, y
-
-IV.- El plazo para el pago que será de quince días Salvo que la Ley señale otro.
-
-### CAPITULO VI. De la Hacienda Pública del Estado
-
-ART. 75.- La Hacienda Pública del Estado se integra:
-
-I.- Con los impuestos, derechos, productos, aprovechamientos, tasas adicionales y contribuciones especiales que autorice la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal;
-
-II.- Con las participaciones en ingresos federales otorgadas al Estado por las Leyes Federales y Convenios de Coordinación respectivos, y
-
-III.- Con los bienes muebles e inmuebles del Patrimonio del Estado.
+### CAPITULO VI. ART. 75.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -1231,7 +953,9 @@ I.- Dar aviso a la Oficina Recaudadora de su adscripción de las demandas, contr
 
 II.- Dar a conocer a la Oficina Recaudadora de su adscripción de las resoluciones que dicten en los casos a que se refiere la fracción que antecede y de los recursos que contra ellas se promuevan, así como de las dictadas en el recurso.
 
-### CAPITULO IV. Impuesto sobre Producción de Alcohol
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO IV
 
 ART. 112.- Son causantes de este impuesto los productores de alcohol etílico en el Estado.
 
@@ -4415,789 +4139,197 @@ ART. 381.- Sobre los impuestos adicionales a que se refiere este Capítulo no se
 
 ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los Artículos 379 y 380 de este Capítulo.
 
-### CAPITULO UNICO
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 382.- Son ingresos extraordinarios, los que obtenga el Estado por concepto de:
+### CAPITULO UNICO. ART. 382.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Empréstitos;
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-II.- Aportaciones de los entes públicos;
+### CAPITULO UNICO. ART. 383.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- No especificados.
+ART. 384.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-### CAPITULO UNICO
+ART. 385.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 383.- Las personas que se encuentren o se hayan encontrado en la relación de negocios con los causantes de impuestos del Estado, están obligados a suministrar los informes y datos que, para la determinación y cobro de impuestos, se les exijan por la Ley o por las autoridades fiscales competentes.
+ART. 386.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 384.- Los terceros a quienes esta Ley u otras leyes fiscales del Estado impongan la obligación de retener un impuesto, de formular la liquidación o de verificar el pago de un impuesto, serán solidariamente responsables con el causante si no dan cumplimiento oportuno a esas obligaciones, independientemente de que se les apliquen los recargos o sanciones procedentes.
+ART. 387.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1984)</small>
+ART. 388.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 385.- Las personas que adquieran por cualquier título bienes muebles, negociaciones mercantiles, industriales o agrícolas, créditos, valores y en general fuente de riqueza que sean objeto o sobre las que recaiga alguno de los impuestos del Estado, están obligados a cerciorarse de que las obligaciones fiscales relativas han sido cumplidas, siendo solidariamente responsables con los causantes por el pago de los créditos fiscales que se adeuden y en su caso por el de los recargos o sanciones correspondientes.
+ART. 389.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1984)</small>
+ART. 390.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 386.- Los Notarios Públicos, los Jueces que actúen por receptoría y los Corredores Públicos, no podrán autorizar actos o contratos que causen impuestos del Estado sin que previamente se les justifique su pago.
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 387.- Los encargados del Registro Público de la Propiedad y del Comercio no podrán registrar ninguna escritura pública o privada u otros documentos en que consten los actos o contratos a que se refiere el artículo anterior, sin comprobar, en la forma y términos que prevenga esta Ley, que los impuestos correspondientes han sido pagados en su totalidad o que por disposición legal los interesados están exentos del impuesto de que se trata.
+## TITULO OCTAVO
 
-ART. 388.- De acuerdo con lo dispuesto por el Artículo 22 de esta Ley, las autoridades judiciales, administrativas y municipales del Estado, están obligadas a colaborar con las autoridades fiscales en la medida de sus facultades para la aplicación de las leyes fiscales y para la ejecución de las resoluciones dictadas por las autoridades fiscales; pero sin intervenir directa o indirectamente en la percepción de los créditos fiscales, salvo en aquéllos casos en que se les otorgan facultades expresas para formulación de liquidaciones y recaudación de ingresos.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 389.- Los organismos públicos del Estado y las empresas privadas que se dediquen a la administración o explotación de un servicio público, así como aquellas que exploten una concesión del Gobierno del Estado o de sus Municipios, deberán suministrar los informes y datos que determina la Ley o que soliciten las autoridades fiscales para el control de las contribuciones.
+### CAPITULO UNICO. ART. 391.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 390.- La autoridad fiscal organizará los servicios de control y vigilancia necesarios para el cumplimiento de la legislación fiscal y al efecto:
+ART. 392.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Ordenará visitas de inspección y auditorías, solicitará datos e informes, practicará investigaciones, exigirá la exhibición de libros de contabilidad, registros contables, libros especiales, documentación comprobatoria y en general, exigirá de los contribuyentes, terceros, funcionarios encargados de llevar la fe pública y demás funcionarios y empleados públicos el exacto cumplimiento de las obligaciones que esta Ley y demás leyes fiscales del Estado les imponen;
+ART. 393.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- Ordenará diligencias de inspección permanente en los establecimientos en que esta medida sea necesaria para el control y vigilancia fiscales;
+ART. 394.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones procedentes por las infracciones cometidas y determinará y recaudará los impuestos omitidos y, en caso de la comisión de delitos relacionados con la legislación fiscal, hará las consignaciones respectivas al Ministerio Público.
+ART. 395.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+ART. 396.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-### CAPITULO UNICO
+ART. 397.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 398.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 391.- El Secretario de Hacienda Pública y Tesorería, el Sub'Secretario de Inspección Fiscal, el Sub'Secretario de Ingresos, los Jefes de las Oficinas Recaudadoras y demás autoridades fiscales, impondrán las sanciones administrativas por infracción a las disposiciones fiscales.
+ART. 399.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
+ART. 400.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 392.- La aplicación de las sanciones administrativas que procedan, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+ART. 400 A.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Cuando en este Título se haga referencia al Salario Mínimo General, se entenderá que es el vigente en el área goegráfica correspondiente al Estado de Sinaloa, al momento de efectuar el pago.
+ART. 400-B.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 393.- Los funcionarios o empleados públicos ante quienes con motivo de sus funciones se presente algún libro, o documento alterado, harán la denuncia respectiva a la autoridad fiscal para no incurrir en responsabilidad.
-
-ART. 394.- En cada infracción de las señaladas en esta Ley se aplicarán las sanciones correspondientes, conforme a las reglas siguientes:
-
-I.- Al imponer la sanción que corresponda, se tomará en cuenta la importancia de la infracción, las condiciones del causante y la conveniencia de destruir prácticas establecidas, tanto para evadir la prestación fiscal, cuanto por infringir, en cualquier forma, las disposiciones legales o reglamentarias;
-
-II.- La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones.
-
-III.- Cuando sean varios los responsables cada uno deberá pagar el total de la multa que se imponga;
-
-IV.- Cuando por un acto u omisión se infrinjan diversas disposiciones fiscales a las que señale esta Ley una sanción, sólo se aplicará la que corresponda a la infracción más grave;
-
-V.- En el caso de infracciones continuas y de que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad, una multa hasta el triple del máximo de la sanción que corresponda;
-
-VI.- Cuando las infracciones no se estimen leves y consistan en hechos, omisiones o falta de requisitos semejantes en documentos o libros y siempre que no traigan o puedan traer como consecuencia la evasión del impuesto, se considerará el conjunto como infracción y se impondrá solamente una multa que siempre será inferior al límite máximo que fije esta Ley para sancionar cada hecho, omisión o falta de requisito;
-
-VII.- Cuando se estime que la infracción cometida es leve y que no ha tenido como consecuencia la evasión del Impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviera a incurrir en la infracción;
-
-VIII.- Cuando se omita una prestación fiscal que corresponda a los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante corredor titulado, la sanción se impondrá exclusivamente a los notarios o corredores, y los otorgantes solo quedarán obligados a pagar impuestos omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces a los mismos interesados;
-
-IX.- La autoridad fiscal se abstendrá de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito o cuando se enteren en forma espontánea los Impuestos o derechos no cubiertos dentro de los plazos señalados por las disposiciones fiscales. No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas, y
-
-X.- La autoridad fiscal dejará de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancias que éste deberá probar a satisfacción de la mencionada Secretaría.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
-
-ART. 395.- Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos sujetos pasivos, de una prestación fiscal, y a cada uno corresponderá la sanción que en cada caso se señala;
-
-I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el registro de causantes todas las actividades por las que sea contribuyente habitual, o no citar su número de registro federal de causantes en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualesquiera oficinas o autoridades.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-II.- Obtener o usar más de un número de registro para el cumplimiento de las obligaciones a su cargo, en relación con uno o más impuestos Estatales.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-IV.- No obtener oportunamente los permisos, placas, boletas de registro, libros o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones, o no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-V.- Emprender cualquiera explotación sin obtener previamente el permiso exigido por los ordenamientos fiscales, o producir, fabricar, transformar, almacenar o expender artículos fuera de las zonas o lugares autorizados al efecto.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-VI.- Permitir sacar o mandar sacar de las fábricas, almacenes, bodegas o de las zonas señaladas, artículos o productos, sin haberse cumplido antes las obligaciones fiscales relativas.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-VII.- Almacenar o transportar productos gravados sin haber cumplido con las disposiciones fiscales aplicables.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-VIII.- Perforar o destruir sin estar facultados, los cierres de control que determinen las leyes fiscales, o desprenderlos de los barriles, botellas, botes o demás vasijas que contengan los productos gravados; o alterar o destruir los cordones, envolturas o sellos oficiales.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-IX.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales; llevarlos en forma distinta como éstas prescriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-X.- Llevar doble juego de libros.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-XI.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-XII.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deben conservar.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-XIII.- No presentar para su autorización, o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exigen las disposiciones fiscales.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-XIV.- No proporcionar oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-XV.- Faltar a la obligación de extender recibos, facturas o cualesquiera otros documentos que señalen las Leyes Fiscales, no exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-XVI.- No presentar, o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o declararlos cuando las autoridades fiscales lo soliciten.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-XVII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-XVIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos a que se refieren las dos fracciones anteriores, alterados o falsificados.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-XIX.- Declarar ingresos menores de los percibidos, hacer deducciones derivadas de hechos falsos, o que no están autorizadas o que no reúnan los requisitos exigidos por las disposiciones fiscales; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-XX.- No pagar los impuestos o derechos dentro de los plazos señalados por las Leyes Fiscales.
-
-Multa hasta de dos tantos de la prestación fiscal.
-
-XXI.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-XXII.- Emplear para el pago de una prestación fiscal marbete de clase o leyenda distinta de las previstas en las disposiciones respectivas.
-
-Multa de tres hasta diez días de Salario Mínimo General.
-
-XXIII.- Expender marbetes o traficar con ellos sin autorización legal; adquirir marbetes de emisión fenecida o traficar con ellos, emplear para el pago de créditos fiscales marbetes que no correspondan a la época en que debió hacerse el pago.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-XXIV.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir, acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita.
-
-Multa de veinte hasta cien días de Salario Mínimo General.
-
-XXV.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, inspectores o auditores al estarse practicando visitas domiciliarias.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-XXVI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
-
-Multa de uno hasta diez días e Salario Mínimo General.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
-
-ART. 396.- Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, notarios, corredores, y en general a los funcionarios que llevan la fe pública, y a cada uno les corresponderá la sanción que en cada caso se señala:
-
-I.- No hacer cotizaciones de las escrituras, minutas y cualesquiera contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-II.- No poner a las escrituras o minutas las notas de "no pasó" en los casos en que deban ponerse de acuerdo con las leyes fiscales.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-III.- No expedir las notas de liquidación de alguna prestación fiscal, aún en los casos de exención.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-IV.- Expedir las notas a que se refiere la fracción anterior en forma que dé lugar a la evasión total o parcial del gravamen.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-V.- Autorizar actos, o contratos de enajenación o traspaso de negociaciones, de disolución por la Ley, sin cerciorarse previamente de que se esté al corriente en las obligaciones fiscales, o sin dar los avisos que prevengan las leyes de la materia.
-
-Multa de dos hasta de diez días de Salario Mínimo General.
-
-VI.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-VII.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-VIII.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-IX.- Cooperar con los infractores o facilitar en cualquiera forma la omisión total o parcial del impuesto, mediante alteraciones, ocultaciones u otros hechos de omisiones.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-X.- Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los libros, documentos, registros y en general los elementos necesarios para la práctica de visitas.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-XI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
-
-ART. 397.- Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado, así como a los encargados de servicios públicos u órganos oficiales de la misma Entidad, y a cada uno corresponderá la sanción que en cada caso se señala:
-
-I.- Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las disposiciones fiscales.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
-
-II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos o libros, inscribirlos o registrarlos cuando no exista constancia de que se pagó el impuesto o derecho correspondiente.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-III.- Recibir el pago de una prestación fiscal y no enterar su importe en el plazo legal.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-IV.- No exigir el pago total de las prestaciones fiscales.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-V.- No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos, o inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-VII.- Alterar documentos fiscales que tengan en su poder.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-IX.- No practicar las visitas de inspección cuando tengan la obligación de hacerlo.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los causantes o aprovecharse de ellos.
-
-Multa de dinco (sic) hasta veinte días de Salario Mínimo General.
-
-Para los efectos de esta infracción, los representantes de los causantes que integren los organismos fiscales autónomos, se asimilan a los empleados o funcionarios públicos;
-
-XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, cooperar en cualquier forma para que se eludan las prestaciones fiscales.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-XIII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los libros, documentos, registros, bodegas o locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-XIV.- Exigir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en el (sic) Ley, aún cuando se aplique a la realización de las funciones propias de su cargo.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-XV.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
-
-ART. 398.- Son infracciones cuya responsabilidad recae sobre terceros, y a cada uno corresponderá la sanción que en cada caso se señala:
-
-I.- No inscribirse en el Registro Estatal de Causantes, o consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas o percibir a su nombre propio ingresos gravables que correspondan a otra persona, cuando esto último traiga como consecuencia omisión de impuestos.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-II.- No proporcionar avisos, informes, datos, documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-IV.- Proporcionar los avisos, informes, datos o documentos a que se refieren las fracciones anteriores, alterados o falsificados.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, peritos o testigos.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-VI.- Asesorar o aconsejar a los causantes para evadir el pago de una prestación fiscal, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan.
-
-Multa de dos hasta diez días de Salario Mínimo General.
-
-VII.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-VIII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General.
-
-IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones.
-
-Multa de diez hasta cincuenta días de Salario Mínimo General
-
-X.- Adquirir, ocultar, retener, o enajenar, productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubiera debido pagar.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-XI.- No cerciorarse, al transportar artículos gravados, del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin la documentación que exijan las mismas disposiciones.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-XII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales.
-
-Multa de una hasta diez días de Salario Mínimo General.
-
-XIII.- Alterar o destruir los cordones, envolturas o sellos oficiales.
-
-Multa de cinco hasta veinte días de Salario Mínimo General.
-
-XIV.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, auditores o inspectores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los causantes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
-
-Multa de veinte hasta cien días de Salario Mínimo General.
-
-XV.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes.
-
-Multa de uno hasta diez días de Salario Mínimo General.
-
-ART. 399.- Si al cometer una infracción a las Leyes Fiscales se ha incurrido en responsabilidad penal por la comisión de un delito, las autoridades fiscales que tengan conocimiento de la comisión, harán la consignación relativa al Ministerio Público para los efectos a que haya lugar.
-
-ART. 400.- La reincidencia en la comisión de infracciones que tengan como consecuencia la evasión de créditos fiscales se sancionará, la primera vez, con la aplicación de la multa procedente aumentada en un 50%, la segunda vez, con la clausura temporal del establecimiento por treinta días.
-
-Se entiende que hay reincidencia para los efectos de esta Ley, cuando la misma persona incurra en otra infracción análoga a aquella por la que se le hubiera sancionado dentro de dos ejercicios fiscales anteriores.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1990)</small>
-
-ART. 400-A.- Los ingresos que el Estado obtenga efectivamente de multas por infracción a las disposiciones fiscales, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensa por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación y ejecución de créditos fiscales relativos a dichas disposiciones.
-
-Sólo ingresará a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes, salvo que por Ley estén destinadas a otros fines.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1990)</small>
-
-ART. 400-B.- La constitución y la distribución de los fondos a que se refiere el Artículo anterior, se hará de conformidad con lo siguiente:
-
-I.- El fondo de Productividad Directa se formará con el 60% de los ingresos que el Estado obtenga efectivamente, provenientes de multas que hayan quedado firmes, impuestas por infracción a las disposiciones fiscales, cuando dicha infracción se conozca con motivo del ejercicio de las facultades de comprobación, determinación, notificación y ejecución relativas a las multas que forman el citado fondo.
-
-II.- El fondo de Productividad Indirecta se formará con el 40% restante de las multas a que se refiere la fracción anterior y con el 100% de las demás multas firmes que el Estado perciba efectivamente por infracción a las disposiciones no fiscales, hecha excepción de aquéllas que tengan otro destino específico.
-
-Este fondo se distribuirá entre los servidores públicos de la Secretaría de Hacienda Pública y Tesorería que intervengan indirectamente respecto de las multas a que se refiere la fracción anterior, así como entre todos aquellos que lo hagan en relación con las demás que constituyen este fondo.
-
-III.- El Fondo Complementario se formará con los remanentes que resulten de las cantidades no distribuidas durante el año, provenientes de los fondos previstos por las fracciones anteriores.
-
-Este fondo se distribuirá entre los servidores públicos a que se refiere la fracción anterior, así como entre aquellos que se encuentren adscritos a las unidades administrativas centrales relacionadas con el ejercicio de las facultades señaladas en dicha fracción.
-
-La Secretaría de Hacienda Pública y Tesorería, de conformidad con lo dispuesto por este Artículo y por las reglas de carácter general que al efecto dicte, determinará los límites máximos, porcentajes y montos de las participaciones, así como las categorías de los servidores públicos adscritos a dicha Secretaría, a que el mismo se refiere.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 TITULO ONCEAVO
 
-DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
+## TITULO NOVENO
 
-### CAPITULO I. Disposiciones Generales
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 401.- Las autoridades fiscales del Estado, seguirán el procedimiento fiscal de ejecución para obtener el pago de los créditos fiscales que no hubieren sido pagados espontáneamente, dentro de los plazos que las leyes fiscales establecen.
+### CAPITULO I. ART. 401.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 402.- La aplicación del procedimiento fiscal de ejecución compete:
+ART. 402.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 403.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Al Secretario de Hacienda Pública y Tesorería, al Sub'Secretario de Inspección Fiscal y al Sub'Secretario de Ingresos, por los créditos fiscales que deban ser pagados directamente en la Secretaría de Hacienda Pública y Tesorería o por avocación de competencia en los casos en que estos funcionarios lo estimen conveniente; y
+ART. 404.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- A los jefes de Oficinas Recaudadoras, dentro de sus respectivas jurisdicciones fiscales o por requerimiento que una oficina haga a otra.
+ART. 405.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub'Secretario de Inspección Fiscal, el Sub´Secretario de Ingresos y los Recaudadores de Rentas, en ejercicio de la facultad económica-coactiva comisionarán a los ejecutores notificadores de su adscripción o a los empleados subalternos cuando las necesidades del servicio lo requieran.
+## TITULO DECIMO
 
-ART. 404.- Los escritos y las promociones de los causantes no suspenderán el procedimiento económico-coactivo, sino en los casos en que el promovente asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1991)</small>
+### CAPITULO II. ART. 406.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 405.- Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican.
+ART. 407.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Por el requerimiento señalado en la Fracción II del Artículo 410 de esta Ley.
+ART. 408.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- Por el embargo.
+ART. 409.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando en los casos de las Fracciones anteriores el 2% del crédito sea inferior a una vez el Salario Mínimo General diario de la zona económica correspondiente al Estado de Sinaloa, se cobrará esta cantidad en vez del 2% del crédito.
+### CAPITULO III. ART. 410.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un Salario Mínimo General de la zona económica correspondiente al Estado de Sinaloa, elevado a 30 días.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-Asímismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del Procedimiento Administrativo de Ejecución, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
+### CAPITULO IV. ART. 411.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Los gastos de ejecución, se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga alguno de los recursos que establece esta Ley. Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las Autoridades Fiscales Estatales para el establecimiento de Fondos de Productividad y para financiar los Programas de Formación de Funcionarios Fiscales, salvo que por Ley estén destinados a otros fines.
+ART. 412.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Por concepto de honorarios, por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará a quien incurrió en el incumplimiento, una cantidad equivalente a una vez el Salario Mínimo General diario de la zona económica correspondiente al Estado de Sinaloa.
+ART. 413.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Tratándose de los honorarios a que se refiere el párrafo anterior, la Autoridad Recaudadora los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
+ART. 414.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
+ART. 415.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-### CAPITULO II. De la Suspensión del Procedimiento de Ejecución Fiscal
+ART. 416.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 406.- Las obligaciones y los créditos fiscales a que esta Ley se refiere podrán garantizarse en cualquiera de las formas siguientes:
+ART. 417.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 418.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Depósito de dinero en la institución de crédito que señala la Secretaría de Hacienda Pública y Tesorería o ante la propia Secretaría;
+ART. 419.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- Pago bajo protesta;
+ART. 420.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994
 
-III.- Fianza otorgada por una institución de fianzas autorizadas, la que no gozará de los beneficios de orden o excusión;
+ART. 421.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-IV.- Secuestro en la vía administrativa;
+ART. 422.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-V.- Prenda o hipoteca; y,
+ART. 423.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VI.- Obligación solidaria asumida por terceros que comprueben su indoneidad (sic) y solvencia.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 407.- La garantía del interés fiscal deberá comprender la de los posibles recargos y gastos de ejecución.
+### CAPITULO V. ART. 424.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 425.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 408.- La Secretaría de Hacienda Pública y Tesorería dictará los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación, como con posterioridad y, si no lo fueran, exigirá su ampliación.
+ART. 426.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+ART. 427.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 409.- La Secretaría de Hacienda Pública y Tesorería podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorios la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+ART. 428.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-### CAPITULO III. Del Requerimiento de Pago
+ART. 429.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 410.- El ejercicio de la facultad económica-coactiva estará sujeto a las siguientes reglas:
+ART. 430.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- A partir del día hábil siguiente al del vencimiento de los plazos señalados dentro de la Ley para el pago de los créditos fiscales, se iniciará el procedimiento de ejecución;
+ART. 431.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994
 
-II.- El expediente se iniciará con el requerimiento de pago del crédito fiscal de que se trate, señalándose al deudor un plazo de tres días improrrogables para que cubra el importe total del adeudo que incluirá los recargos, honorarios y gastos de ejecución apercibido de que si no lo hiciere, se procederá al embargo de bienes suficientes para cubrir el crédito fiscal antes mencionado;
+ART. 432.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- En el mismo documento, el ejecutor anotará bajo su firma la fecha de recibo del requerimiento. Acto seguido se hará la notificación al deudor en su domicilio;
+ART. 433.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-IV.- En caso de ausencia del deudor, y agotado lo dispuesto en el Artículo 69 de esta Ley, la diligencia se llevará a cabo con los familiares de éste, sus dependientes o sus encargados y a falta de todos ellos con el vecino más cercano;
+ART. 434.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-V.- Si no pudieren ser habidas ninguna de las personas mencionadas en la fracción anterior, se fijará cédula en la puerta de la casa del deudor;
+ART. 435.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VI.- En los casos previstos en la fracción anterior y en aquéllos otros en que la persona con quien se entienda la diligencia, no supiere firmar estampará su huella digital ante los testigos;
+ART. 436.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VII.- En caso de negativa a firmar se hará constar el hecho, en acta que levante el ejecutor.
+ART. 437.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-VIII.- Lo asentado por el Ejecutor notificador hará prueba plena mientras no se demuestre lo contrario.
+ART. 438.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-### CAPITULO IV. De los Embargos
+ART. 439.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 411.- Transcurrido el plazo de tres días del requerimiento de pago, si el deudor no ha cubierto totalmente el crédito a su cargo, se procederá al embargo y secuestro de bienes bastantes.
+ART. 440.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-La práctica del embargo y secuestro administrativo se realizará mediante mandamiento o acuerdo de la autoridad fiscal.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-ART. 412.- El embargo de bienes quedará sujeto al orden siguiente:
+### CAPITULO VI. ART. 441.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Dinero o alhajas;
+ART. 442.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- Valores o crédito con garantía real;
+ART. 443.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- Bienes inmuebles y sus productos;
-
-IV.- Bienes muebles;
-
-V.- Negociaciones comerciales, industriales o agrícolas; y,
-
-VI.- Otros derechos o créditos.
-
-ART. 413.- El deudor o la persona con quien se entienda la diligencia tendrá el derecho de designar los bienes para el embargo, siempre que haga el señalamiento con sujeción al orden establecido en el artículo anterior y que sean suficientes para cubrir el importe de la deuda y sus accesorios.
-
-ART. 414.- Si la persona con quien se entienda la diligencia o el deudor no hiciere uso de la prerrogativa a que se refiere el artículo anterior, o haciéndolo, los bienes por él señalados no fueren suficientes para cubrir el monto total del adeudo o no fueren de fácil realización a juicio del ejecutor, éste hará el señalamiento sin sujetarse al orden establecido en el Artículo 412.
-
-ART. 415.- El embargo deberá limitarse a lo que sea suficiente para garantizar el crédito total, debiendo comprenderse además del crédito inicial, los vencimientos que ocurran durante el procedimiento, los recargos, gastos de ejecución y cualquiera otros que se causen, sin necesidad de nuevo requerimiento de pago, emplazamiento, ni de otras formalidades oficiales, observándose las reglas siguientes:
-
-I.- Si se embarga dinero se hará desde luego la aplicación correspondiente;
-
-II.- Si se embargan alhajas, serán transportadas y depositadas en la caja fuerte de la Oficina Recaudadora;
-
-III.- Si se embargan créditos y se asegura el documento, éste se depositará como se indica en la fracción anterior. El embargo de crédito será notificado al deudor para que a su vencimiento lo pague a la Oficina Ejecutora, apercibido de doble pago si lo hace al acreedor;
-
-IV.- El embargo de bienes inmuebles y de derechos reales sobre inmuebles, se inscribirá en el Registro Público de la Propiedad. Cuando el embargo recaiga en bienes inmuebles se trabará ejecución sobre la totalidad de la propiedad o propiedades embargadas;
-
-V.- Si se embargan bienes muebles, si fueren cómodamente transportables a juicio del ejecutor, se depositarán en la Oficina Recaudadora y si no fueren cómodamente transportables, se nombrará un depositario, a quien se entregarán los bienes bajo riguroso inventario con apercibimiento de las penas en que incurren los depositarios infieles.
-
-VI.- Si el embargo recae sobre rentas, se notificará la diligencia a los inquilinos para que ocurran a la Oficina Recaudadora a pagarlas, apercibiéndoles de que se considerará nulo todo pago hecho a los propietarios mientras no se les participe que ha sido levantado el embargo;
-
-VII.- Si no se obtiene el pago puntual de las rentas, el Fisco del Estado queda desde luego, subrogado en los derechos del propietario para entablar el juicio de lanzamiento y para celebrar nuevos contratos de arrendamiento;
-
-VIII.- Si el embargo de rentas no fuere de resultado satisfactorio, se levantará éste y se trabará ejecución en la finca;
-
-IX.- Si se embargan negociaciones comerciales, industriales o agrícolas, el jefe de la Oficina Recaudadora que ordene el procedimiento nombrará un interventor o administrador de los bienes.
-
-ART. 416.- Si los bienes señalados para la traba de ejecución están ya embargados y asegurados por otras autoridades judiciales o administrativas del Estado o sujetos a Cédulas Hipotecarias, se practicará no obstante, el embargo fiscal, pero la Oficina Ejecutora notificará el embargo a dichas autoridades a efecto de que el acreedor que se considere preferente pueda ejercitar sus derechos.
-
-ART. 417.- La Oficina Ejecutora podrá ordenar en cualquier tiempo la ampliación del embargo, siempre que estime que los bienes embargados no son suficientes para asegurar el pago de los créditos reclamados y de sus accesorios, debiendo hacer la ampliación inmediatamente que se interponga tercería sobre los bienes embargados. La ampliación de embargo se hará con las mismas formalidades establecidas para el embargo.
-
-ART. 418.- Los embargos precautorios podrán ser ordenados por la Oficina Recaudadora antes de que venza el plazo legal para el pago de los créditos fiscales, cuando a juicio de esta autoridad haya temor fundado de que el deudor enajene u oculte sus bienes y la Hacienda Pública quede en descubierto. El embargo precautorio se transformará en definitivo si al vencimiento del plazo para el pago del crédito que lo motivó, no es satisfecho, notificándose esa transformación al deudor. El embargo precautorio podrá levantarse si el deudor garantiza el interés fiscal en cualquiera de las formas establecidas en esta Ley.
-
-ART. 419.- De la diligencia de embargo se levantará acta circunstanciada, la que será suscrita por las personas que hayan intervenido en el acto.
-
-ART. 420.- La Oficina Ejecutora puede, en todo tiempo, remover libremente a los depositarios o interventores nombrados así como a los oficiales ejecutores, cuando cometan irregularidades en las diligencias de ejecución.
-
-ART. 421.- Quedan exceptuados de embargo los siguientes bienes:
-
-I.- El hecho cotidiano y los vestidos, muebles comunes y de uso indispensable, de la propiedad del deudor, que a juicio de la autoridad ejecutora no sean de lujo;
-
-II.- Los libros, instrumentos y útiles necesarios para el ejercicio de la profesión arte u oficio a que el deudor esté dedicado;
-
-III.- Las máquinas, equipos e instalaciones y otros activos fijos de las negociaciones comerciales, industriales y agrícolas, que sean necesarios para su normal funcionamiento a juicio de la autoridad ejecutora; pero podrán ser objeto de embargo conjuntamente con la negociación a que estén destinados;
-
-IV.- Las armas y los equipos que los militares deban usar en el servicio conforme a las leyes y reglamentos respectivos;
-
-V.- Los granos y frutos agrícolas, mientras no hayan sido cosechados, pero no los derechos sobre las siembras;
-
-VI.- El derecho de usufructo, pero no los frutos de éste;
-
-VII.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén constituidas;
-
-VIII.- Los demás derechos cuyo ejercicio sea meramente personal, como los de uso y habitación;
-
-IX.- La renta vitalicia, en los términos previstos por el Código Civil;
-
-X.- El patrimonio de familia, cuando esté constituido conforme a las leyes relativas;
-
-XI.- Las pensiones alimenticias;
-
-XII.- Las pensiones civiles y militares y las demás pensiones o jubilaciones derivadas del contrato de trabajo;
-
-XIII.- Los ejidos de los pueblos y las parcelas individuales que en su fraccionamiento hayan correspondido a cada ejidatario.
-
-XIV.- La propiedad funeraria;
-
-XV.- Sueldos y salarios.
-
-ART. 422.- Si el ejecutor embarga bienes que en opinión del ejecutado están legalmente excluidos, por estar comprendidos en el artículo anterior, el ejecutado en el acto de la diligencia o dentro de los tres días siguientes promoverá la exclusión, acompañando la prueba en que se apoye. La Oficina Ejecutora resolverá en definitiva dentro de igual término, pero si estima necesario practicar una inspección ocular o solicitar un dictamen Pericial, dispondrá el desahogo de estas pruebas, dentro del término de cinco días y resolverá de los tres días siguientes.
-
-Los gastos erogados con motivo de la inspección o los honorarios del perito serán por cuenta del ejecutado cuando se declare procedente el embargo, siendo por cuenta del fisco cuando se resuelva la procedencia de la exclusión.
-
-Durante la tramitación del incidente de exclusión no se suspenderá el procedimiento, salvo que haya llegado a estado que permita la enajenación de los bienes cuya exclusión se pide, caso en el que la Oficina Ejecutora ordenará la suspensión únicamente en lo que respecta a dichos bienes y mientras tanto lo dicte la resolución respectiva.
-
-ART. 423.- Practicado el embargo se correrán los siguientes trámites:
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Por correo se enviará inmediatamente el expediente completo a la Secretaría de Hacienda Pública y Tesorería para su revisión;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-II.- La Secretaría de Hacienda Pública y Tesorería hará la revisión del expediente pudiendo aprobarlo, modificarlo y ordenar la reposición de la diligencia en los casos de irregularidades que no puedan subsanarse administrativamente;
-
-III.- Hecha la revisión, se comunicará el resultado a la oficina ejecutora devolviéndole el expediente;
-
-IV.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
-
-### CAPITULO V. De los Remates
-
-ART. 424.- La Oficina Ejecutora formulará los edictos de remate, fijando los términos para la almoneda y expresando además:
-
-I.- El nombre del deudor;
-
-II.- La descripción de los bienes embargados;
-
-III.- El importe de la postura legal;
-
-IV.- El día y la hora señalados para el remate y el lugar en que los bienes estarán a la vista de los solicitantes.
-
-Los términos para la almoneda serán de diez días para los bienes muebles y de veinte para los inmuebles.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 425.- La Oficina Ejecutora fijará en los lugares públicos, los tantos del edicto que estime convenientes y enviará cuatro ejemplares a la Secretaría de Hacienda Pública y Tesorería para su publicación por una sola vez en el Periódico Oficial del Estado, y dispondrá la publicación en otro periódico editado en el lugar más próximo al en que se verificará el remate, también por una sola vez.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 426.- Por excepción a lo dispuesto en los artículos anteriores, si los bienes embargados fueren explosivos, inflamables, alterables, corruptibles o peligrosos por cualquier motivo se venderán al día siguiente del embargo, lo que se hará constar en el acta misma del embargo. En tales casos no será necesario enviar el expediente respectivo a la Secretaría de Hacienda Pública y Tesorería ni la publicación de edictos.
-
-ART. 427.- Los remates se verificarán en el local de la Oficina Ejecutora con asistencia de dos testigos extraños.
-
-ART. 428.- Ningún postor será admitido sin papel de abono a menos que sea de notoria solvencia y reconocida honradez a juicio del jefe de la Oficina Ejecutora, o que deposite en la misma el importe de su postura en dinero efectivo.
-
-ART. 429.- Será postura legal para la almoneda:
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Si se trata de bienes raíces, las dos terceras partes del valor catastral. Si el valor catastral es notoriamente bajo y el adeudo fiscal excede en cuantía a la postura legal, la Secretaría de Hacienda Pública y Tesorería, al revisar el expediente, podrá ordenar un avalúo pericial exclusivamente para que sirva de base a la determinación de la postura legal;
-
-II.- Si se trata de otros bienes, el cincuenta por ciento de su valor, determinado como sigue:
-
-a).- El valor que para efectos fiscales se hubiera declarado por el deudor con anterioridad a la iniciación del procedimiento fiscal de ejecución, ante alguna autoridad fiscal del Estado o de sus Municipios;
-
-b).- A falta de valor anterior, el que se les asigne en avalúo pericial.
-
-ART. 430.- Llegado el caso de practicarse avalúo pericial, se observarán las reglas siguientes:
-
-I.- La Oficina Ejecutora, nombrará un perito y lo hará saber al interesado para que, si lo desea, designe el suyo dentro del término de tres días a partir de la notificación. Si el ejecutado no hace la designación de perito dentro del plazo citado, se le tendrá por conforme con el dictamen que produzca el perito nombrado por la Oficina Ejecutora.
-
-II.- Los peritos de las partes deberán presentar sus dictámenes a la Oficina Ejecutora dentro de los diez días siguientes a la fecha en que venza el plazo previsto en la Fracción I para la designación del perito del ejecutado; la falta de presentación en tiempo del dictamen de alguno de los peritos, hará que prevalezca el dictamen que si fue presentado oportunamente. El jefe de la Oficina Ejecutora podrá cuando lo considere procedente, previa solicitud de él o los peritos, aumentar el plazo de diez días hasta un máximo de veinte días;
-
-III.- Si no se presenta dictamen alguno dentro de los plazos legales o si los dos dictámenes presentados discordaren, la Oficina Ejecutora fijará el valor de los bienes sujetos a remate, con los elementos de que disponga y según su prudente arbitrio, tomando en cuenta, en su caso, los dictámenes discordantes presentados.
-
-ART. 431.- El día y hora señalados para el remate, el Jefe de la Oficina Ejecutora declarará abierta la almoneda y concederá media hora para recibir posturas, pasada la cual procederá como sigue:
-
-I.- Si solo se presentó una postura y ésta es igual o superior a la legal, declarará fincado el remate en favor de quien la hubiere presentado;
-
-II.- Si hubiere varias posturas, en las condiciones mencionadas en la fracción anterior, será preferida la más alta;
-
-III.- Si dos o más de las posturas mayores son iguales, se declarará fincado el remate en favor de la persona que resulte favorecida por la suerte dentro del procedimiento siguiente: Se inscribirán en papeles iguales los nombres de quienes hayan ofrecido las posturas mayores iguales, doblándose y mezclándose aquellos para evitar su identificación y el nombre que aparezca en el primer papel que saque el jefe de la Oficina será favorecido en el remate;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-IV.- En los casos en que el Estado de Sinaloa o sus Municipios gocen de capacidad para adquirir los bienes sujetos a remate, de conformidad con las leyes relativas, podrán concurrir al remate por conducto de Delegado designado en oficio por el Secretario de Hacienda Pública y Tesorería o el Tesorero Municipal respectivo, según el caso;
-
-V.- Si en la venta de los bienes se obtiene mayor cantidad de la que importe el crédito fiscal, principal y accesorios, el remanente quedará a disposición del deudor;
-
-VI.- Si no se presenta postura que iguale o mejore la legal, se abrirá una dilación para que los bienes sean vendidos fuera de almoneda, que no excederá de quince días para los bienes muebles y de treinta para los inmuebles. La dilación se dividirá en tres períodos de cinco días para la venta de los muebles y de diez para la de los inmuebles y en cada periodo se hará una deducción del 10% del valor señalado como postura legal.
-
-ART. 432.- Si durante los términos de quince días y treinta días a que se refiere la fracción VI del artículo anterior, no pudieran ser vendidos los bienes, se adjudicarán al Fisco del Estado por el importe de la postura legal, o se tomarán en administración para que su producto se aplique al pago del crédito fiscal, pudiendo ser adjudicados en cualquier momento.
-
-ART. 433.- Mientras tanto que el remate no se haya fincado o los bienes no hayan sido vendidos o adjudicados al Fisco, el deudor podrá liberarlo mediante el pago del crédito o créditos reclamados, de los recargos, multas y de los gastos y honorarios de ejecución. También es admisible el pago que haga un tercero quien por ese hecho queda subrogado en todos los derechos transmisibles del Fisco entregándosele al efecto copia certificada de la liquidación respectiva y el recibo oficial de pago.
-
-ART. 434.- Se levantará acta firmada por el Jefe de la Oficina Ejecutora, dos testigos y el adquirente en su caso, de la almoneda y en su caso, de las dilaciones para venta fuera de almoneda y adjudicación de los bienes embargados. Un ejemplar de dicha acta se entregará al adquirente para su resguardo, con el recibo al calce de la cantidad pagada como precio del remate.
-
-ART. 435.- El producto del remate o de la venta fuera de almoneda que corresponda al Fisco se aplicará desde luego a los ramos respectivos.
-
-ART. 436.- Cuando se finque el remate o los bienes hayan sido vendidos fuera de almoneda o adjudicados al fisco, si se trata de inmuebles se otorgará escritura pública o privada según proceda con arreglo al Código Civil, y si son muebles, se extenderá factura. Estos documentos serán firmados por el dueño de los bienes, o, en su rebeldía por el Jefe de la Oficina Ejecutora; pero, en todo caso, el dueño responderá del saneamiento para el caso de evicción. Acto continúo se hará la entrega al comprador o al adjudicatario.
-
-ART. 437.- Los gastos que originen las escrituras y facturas serán por cuenta del comprador o adjudicatario, el que elegirá el Notario ante el que, en su caso, se otorgue la escritura de venta o de adjudicación.
-
-ART. 438.- al precio de venta o de adjudicación se dará la siguiente aplicación en el orden que se indica:
-
-I.- Honorarios y gastos de ejecución;
-
-II.- Recargos;
-
-III.- Crédito o créditos fiscales reclamados.
-
-ART. 439.- Hechas esas aplicaciones, el remanente, si lo hubiere, quedará a disposición del ejecutado salvo que haya orden de retención dictada por autoridades judiciales o administrativas.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1983)</small>
-
-ART. 440.- Las personas que intervengan en la ejecución de un embargo, disfrutarán de los honorarios que señala la siguiente:
-
-T A R I F A:
-
-1.- Al ejecutor por cada diligencia de embargo de embargo se pagarán $ 50.00;
-
-2.- Los depositarios disfrutarán por todo el tiempo que tengan a su cargo los bienes secuestraos, de un 5% sobre el valor del crédito fiscal; y,
-
-3.- Los interventores o administradores a que se refiere el Artículo 415 y los peritos mencionados en el Artículo 430 de esta Ley, disfrutarán de los emolumentos que en cada caso acuerde la Secretaría de Hacienda Pública y Tesorería y que serán con cargo al deudor.
-
-### CAPITULO VI. Del Auxilio que están obligados a prestar las autoridades políticas
-
-ART. 441.- Cuando al practicarse los procedimientos de apremio, embargo o remate o durante la práctica de las visitas de inspección previstas por el artículo 24 de esta Ley, se opusiera resistencia por parte del deudor o sujeto pasivo visitado, de su representante o de cualquiera otra persona aún cuando sea de manera pasiva, la autoridad política local a petición del ejecutor o visitador comisionado, según el caso, vencerá dicha resistencia e impondrá a cada uno de los responsables una multa de $ 300.00 a $ 10,000.00 o arresto de 36 horas a 15 días, o los consignará al Ministerio Público si la falta cometida constituye delito.
-
-ART. 442.- En las actuaciones respectivas deberán hacerse constar con todas las circunstancias el hecho o hechos en que haya consistido la resistencia, autorizándose esta actuación, con la firma del empleado ejecutor.
-
-En los casos de visitas de inspección deberá levantarse al efecto acta previa, con las formalidades señaladas en el Capítulo respectivo.
-
-ART. 443.- Las autoridades, cuando sean requeridas para ello por los ejecutores o los visitadores, en su caso, prestarán a éstos bajo su más estrecha responsabilidad, los auxilios de la fuerza armada que fueren precisos para practicar las diligencias correspondientes al ejercicio de la facultad económica-coactiva o a la práctica de la visita de inspección, según el caso.
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 TITULO DOCEAVO
 
-DE LA COMPETENCIA DE LAS AUTORIDADES JUDICIALES DEL ESTADO EN MATERIA FISCAL
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO UNICO
+### CAPITULO UNICO. ART. 444.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 444.- Las autoridades judiciales del Estado no son competentes para conocer de contraversias (sic) relativas a ingresos públicos del Estado, salvo en los casos siguientes:
-
-I.- Cuando, tratándose de productos de bienes patrimoniales del Estado, surja una controversia relacionada con los actos o contratos de derecho privado que los rijan;
-
-II.- En los casos de delitos de los que se siga perjuicio a la Hacienda Pública del Estado;
-
-III.- En los casos en que expresamente les atribuya esa competencia la Constitución Política del Estado o una Ley Fiscal del Estado.
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 TITULO TRECEAVO
 
-DE LOS RECURSOS ADMINISTRATIVOS
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO UNICO
+### CAPITULO UNICO. ART. 445.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 445.- Contra los actos dictados en materia fiscal estatal, solo procederán los recursos administrativos que establece esta Ley. Las resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, serán nulas.
+ART. 446.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Dicha nulidad será declarada aún de oficio, por la autoridad superior a la que hubiere dictado la resolución si ésta no modifica, en favor del particular, la primera resolución; si hubiere modificación favorable al particular, la nulidad de la nueva resolución solo podrá ser declarada por el Tribunal Fiscal del Estado.
+ART. 447. (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-Las resoluciones que se dicten con motivo de la tramitación de los recursos administrativos a que se refiere esta Ley, también serán impugnables ante el Tribunal Fiscal.
+ART. 448.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-ART. 446.- La tramitación de los recursos administrativos que no tengan señalado el trámite especial, se sujetarán a las normas siguientes:
+ART. 449.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-I.- Se interpondrán por escrito en el que se precisarán los agravios que cause la resolución o acto administrativo impugnado y en el que se haga ofrecimiento de pruebas. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, solo se admitirán en el recurso las que hubiere allegado en tal oportunidad;
+ART. 450.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-II.- El escrito será presentado dentro de los quince días siguientes en que surta efectos la notificación del acto que se impugna ante la autoridad que dictó o realizó dicho acto; si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo o bien presentarlo ante la autoridad que la haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectúe la notificación;
+ART. 451.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
-III.- La autoridad encargada de resolver el recurso proveerá desde luego al desahogo de las pruebas ofrecidas. Al efecto, señalará un término de diez días dentro de cual los interesados deberán exhibir todos los documentos que hubieren ofrecido; así mismo, deberán presentar a sus peritos y testigos. Si por la naturaleza de las pruebas ofrecidas o porque su desahogo dependa de terceros, la autoridad considera insuficiente el plazo de diez días, podrá ampliarlo hasta por dos meses más;
-
-IV.- Para la resolución de los recursos, las autoridades fiscales podrán pedir que les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en la formación de la resolución o acto administrativo impugnado; y,
-
-V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de treinta días.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 447. En materia fiscal procederán ante la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, los siguientes recursos:
-
-I.- La revocación;
-
-II.- La oposición al procedimiento fiscal de ejecución;
-
-III.- La oposición de tercero;
-
-IV.- La reclamación de preferencias; y,
-
-V.- La nulidad de notificación.
-
-ART. 448.- La revocación solo procederá contra resoluciones administrativas en que se determine la existencia de una obligación fiscal, se fije en cantidad líquida o se den las bases para su liquidación.
-
-ART. 449.- La oposición al procedimiento de ejecución fiscal será hecho valer ante la Oficina Ejecutora por quienes hayan sido afectados por él y afirmen:
-
-I.- Que el crédito que exige se ha extinguido legalmente;
-
-II.- Que el monto del crédito es inferior al exigido;
-
-III.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este último caso, la oposición no podrá hacerse valer sino en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes no embargables legalmente.
-
-En la oposición a la que se refiere este artículo no podrá discutirse la validez de la resolución en que se haya determinado el crédito fiscal.
-
-ART. 450.- La oposición de tercero podrá hacerse valer ante la Oficina Ejecutora, por quien no siendo la persona contra la que se despachó ejecución, afirme ser propietario de los bienes o titular de los derechos embargados.
-
-La declaración del ejecutado no será admisible como prueba del derecho del opositor.
-
-La oposición podrá hacerse valer en cualquier tiempo antes de que se apruebe el remate, sin atenerse a la regla que, en cuanto al término, establece la Fracción II del artículo 446.
-
-ART. 451.- La reclamación de preferencia será hecha valer por quienes sostengan tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales.
-
-La declaración del ejecutado no será admisible como prueba del derecho del reclamante.
-
-La reclamación podrá hacerse valer en cualquier tiempo antes de que se haya aplicado el producto del remate, sin atenerse a la regla que, en cuanto al término, establece la fracción II del artículo 446.
-
-ART. 452.- La nulidad de notificaciones procederá respecto de las que se hicieren en contraversión (sic) a las disposiciones legales.
-
-La declaratoria de nulidad de notificaciones, traerá como consecuencia la de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
-
-En tanto se resuelve este recurso, quedará en suspenso el término legal para impugnar la resolución de fondo.
-
-Cuando se haya iniciado juicio ante el Tribunal Fiscal, será improcedente la solicitud sobre nulidad de notificaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
+ART. 452.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
 ### CAPITULO XX. Impuesto a la Industria Algodonera
 
@@ -5938,6 +5070,22 @@ P.O. 25 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial " El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.</small>
+
+DECRETO 479
+
+CODIGO FISCAL DEL ESTADO DE SINALOA
+
+###### ARTICULO PRIMERO.
+
+Este Código entrará en vigor quince días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO TERCERO.
+
+A partir de la fecha en que entre en vigor el presente Código, quedarán derogados los artículos del 1o. al 75 contenidos en el Título Primero, y 382 al 452 comprendidos en los Títulos Octavo, Noveno y Décimo, Onceavo, Doceavo y Treceavo, de la Ley de Hacienda del Estado de Sinaloa, así como las disposiciones fiscales o administrativas que se opongan a lo preceptuado en este Código.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
