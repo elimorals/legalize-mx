@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1997-07-05"
+last_updated: "1997-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -1345,7 +1345,7 @@ Los encargados de ejecutar el mandamiento de aprehensión, cuidarán de asegurar
 
 ###### ARTICULO 191.
 
-Los miembros de la Policía Judicial, los del ejército y los funcionarios y empleados de la administración de justicia, que estuvieren detenidos o sujetos a prisión preventiva, deberán sufrir ésta en las prisiones especiales si existieren, o en su defecto en las comunes, pero sin estar reunidos con los demás detenidos.
+Los miembros de la Policía Judicial, los del ejército y los funcionarios y empleados de la administración de justicia, que estuvieren detenidos o sujetos a prisión preventiva, deberán sufrir ésta en las prisiones especiales si existieren, o en su defecto en las comunes, pero sin estar reunidos con los demás detenidos
 
 No podrán considerarse prisiones especiales los cuarteles u oficinas.
 
@@ -3157,7 +3157,9 @@ Cuando por alguna de las causas que señala el artículo 88 del Código Penal de
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
-### CAPITULO V. Conmutación y Reducción de Sanciones y Cesación de sus Efectos
+### CAPITULO V
+
+Conmutación y Reducción de Sanciones y Cesación de sus Efectos.
 
 ###### ARTICULO 491.
 
@@ -3285,9 +3287,9 @@ Lic. Alejandro Borrego Acuña.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-P.O. 20 DE AGOSTO DE 1986.
+P.O. 20 DE AGOSTO DE 1986
 
-PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicacíon en el Periódico Oficial Organo del Gobierno del Estado.
 
 P.O. 1 DE MAYO DE 1991
 
@@ -3327,6 +3329,10 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+CUARTO.- La sala de Segunda Instancia deberá entrar en funciones a más tardar el 31 de octubre de 1997.
+
 P.O. 5 DE JULIO DE 1997
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
@@ -3336,3 +3342,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 1998.
 SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
 
 CUARTO.- El censo de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
+
+P.O. 20 DE SEPTIEMBRE DE 1997
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
