@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2004-01-27"
+last_updated: "2004-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -116,6 +116,42 @@ El Plan dentro de sus lineamientos base debe contemplar un sistema de empleo, bo
 
 El Plan deberá tomar en cuenta que el trabajo para las y los jóvenes menores de edad será motivo de las normas de protección al empleo y de una supervisión exhaustiva.
 
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 9 BIS.- El Plan deberá establecer lineamientos que incentiven la creación, promoción y protección del empleo de los jóvenes del Distrito Federal en la modalidad de Primera Experiencia Laboral.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCION PRIMERA. DE LA PRIMERA EXPERIENCIA LABORAL
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 9 TER.- El Plan deberá promover el desarrollo de la Primera Experiencia Laboral de los jóvenes capitalinos por medio del cumplimiento de los siguientes objetivos:
+
+a) Lograr que los jóvenes puedan adquirir conocimientos prácticos sin suspender sus estudios.
+
+b) Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado.
+
+c) Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social, económica, su religión, opinión, raza, color, sexo, edad, orientación sexual y lengua.
+
+La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 15 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal. Los lineamientos deberán establecerse en términos de lo estipulado en el artículo 8 de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 9 QUATER.- Las funciones a desempeñar como primera experiencia laboral deberán ser adecuadas al nivel de formación y preparación académica. Bajo ninguna circunstancia las actividades irán en detrimento de su formación académica, técnica o profesional.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 9 QUINTER.- Las actividades de los jóvenes en su primera experiencia laboral se realizarán en las modalidades de práctica de aprendizaje y pasantía. La práctica de aprendizaje se realizara bajo los términos del Contrato de Aprendizaje establecido en la Ley Federal del Trabajo: Por medio de él se deberá buscar coordinar el aprendizaje técnico con el teórico y práctico.
+
+Las pasantías tendrán el objetivo de garantizar a los jóvenes realizar su Primera Experiencia Laboral en Instituciones Públicas o Privadas o Empresas relacionadas con su proceso de formación técnica o profesional otorgándoles estímulos económicos.
+
+Para cada una de las modalidades de empleo se deberá expedir dos copias de las condiciones de trabajo, una para cada una de las partes, en términos de lo que establece la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 9 SEXTER.- Las empresas que se integren a la primera experiencia laboral recibirán los beneficios que establezca el Código Financiero.
+
 ### CAPITULO III. DEL DERECHO A LA EDUCACION
 
 ###### Artículo 10.
@@ -151,6 +187,26 @@ El Gobierno debe formular las políticas y establecer los mecanismos que permita
 ###### Artículo 17.
 
 El Plan debe incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para las y los jóvenes, adicciones, VIH-SIDA, infecciones de transmisión sexual (ITS), nutrición, salud pública y comunitaria, entre otros.
+
+#### SECCION PRIMERA. DE LOS JOVENES CON DISCAPACIDAD
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 BIS.- Los jóvenes con discapacidad tienen derecho a disfrutar de una vida plena y digna. El plan estratégico para el Desarrollo Integral de la Juventud del Distrito Federal deberá contemplar los mecanismos necesarios para que el joven discapacitado pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad.
+
+Los jóvenes con discapacidad, son aquellos que presentan una disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 TER.- El plan debe establecer lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 QUATER.- El Gobierno a través del Plan dispondrá de los recursos y medios que permitan asegurar que el joven con discapacidad tenga un acceso efectivo a la educación, a la capacitación laboral, servicios sanitarios, servicios de rehabilitación, oportunidades de esparcimiento, con el objetivo de lograr su desarrollo individual e integración social.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 QUINTUS.- Las empresas que contraten a jóvenes con discapacidad recibirán los beneficios que establezca el Código Financiero.
 
 ### CAPITULO V. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
 
@@ -302,6 +358,8 @@ e) A no ser arrestado, detenido, preso o desterrado arbitrariamente. Todo joven 
 
 f) En todo proceso judicial, las y los jóvenes contarán con un defensor especializado en derechos juveniles.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ### CAPITULO XVI. DEBERES DE LAS Y LOS JOVENES
 
 ###### Artículo 47.
@@ -344,7 +402,7 @@ El patrimonio del Instituto está constituido por los bienes, derechos y obligac
 
 ### CAPITULO I. DEL CONSEJO DEL INSTITUTO
 
-> <small>(REFORMADO. G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
 
 ###### Artículo 51.
 
@@ -414,7 +472,7 @@ VI. Aprobar la creación de centros, sistemas y dependencias necesarias que tien
 
 VII. Aprobar, crear, suprimir o modificar políticas y programas de fomento para el desarrollo de la juventud;
 
-VIII. Designar al Contralor del Instituto de una terna propuesta por el Director General;
+VIII. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2004)
 
 IX. Conferir títulos honoríficos;
 
@@ -438,9 +496,11 @@ II. Contar con buena fama pública y con conocimiento y experiencia en la materi
 
 III. No encontrarse en alguno de los impedimentos para ser miembro de la Junta, señalados en las fracciones II, III, IV y V del artículo 55 de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 58.
 
-El Director es nombrado y removido libremente por el Jefe de Gobierno. Este servidor público tiene las siguientes atribuciones:
+El Director es nombrado y removido libremente por el Jefe de Gobierno el cual ejercerá las siguientes atribuciones:
 
 I. Representar legalmente al Instituto;
 
@@ -450,7 +510,9 @@ III. Dirigir la administración del Instituto, formular los presupuestos anuales
 
 IV. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
 
-V. Requerir los informes de labores de los responsables de las distintas áreas del Instituto para consignarlos anualmente en su propio informe, que debe rendir ante la Junta dentro del primer trimestre de cada año;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+V. Requerir los informes de labores de los responsables de las distintas áreas del Instituto para consignarlos anualmente en su propio informe, que debe rendir ante la Junta y el Consejo Consultivo la última semana del mes de febrero de cada año. El informe correspondiente a los resultados del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal deberá a su vez ser difundido entre la ciudadanía.
 
 VI. Proponer y ejecutar las medidas generales sobre el régimen interior, sobre el cumplimiento de las políticas y programas para el desarrollo de la juventud y sobre el buen gobierno del Instituto;
 
@@ -597,3 +659,15 @@ G.O. 27 DE ENERO DE 2004.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO: La designación de los miembros del Consejo del Instituto, deberá tener lugar dentro de los 90 días naturales siguientes a la entrada en vigor del presente decreto.
+
+G.O. 17 DE NOVIEMBRE DE 2004.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal con las particularidades que se establecen en las disposiciones transitorias de los Artículos de este Decreto.
+
+SEGUNDO: La disposición prevista por el Artículo 9 SEXTER de la presente adición a la Ley de las y los Jóvenes del Distrito Federal, deberá entrar en vigor el Primero de Enero del año 2005, por lo que se deberán realizar las consideraciones pertinentes para su adecuación.
+
+TERCERO: El Reglamento del Instituto de la Juventud del Distrito Federal, deberá expedirse dentro de los 90 días a partir de esta publicación. Este deberá considerar las normas sobre las constancias que expida el Instituto en virtud del Artículo 9 SEXTER; de acuerdo a las atribuciones de la Junta de Gobierno señalados en el Artículo 56 fracción IV de la Ley de las y los Jóvenes del Distrito Federal.
+
+CUARTO: La adecuación del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal en materia de la Primera Experiencia Laboral, deberá tener lugar dentro de los 90 días naturales siguientes a la entrada en vigor del presente decreto.
+
+QUINTO: La aplicación del presente Decreto en lo que se refiere al artículo 56, se efectuará para la designación del próximo Director General o Contralor Interno del Instituto de la Juventud del Distrito Federal.
