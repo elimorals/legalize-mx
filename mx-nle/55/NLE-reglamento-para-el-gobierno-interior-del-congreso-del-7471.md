@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2001-10-08"
+last_updated: "2002-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -445,7 +445,9 @@ a) La expedición y reforma de la legislación civil y penal, en su aspecto adje
 
 b) La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
 
-c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado;
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+
+c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado; además de la aprobación para la designación del Presidente de la Comisión Estatal de Derechos Humanos, y su renuncia;
 
 d) La aprobación para la designación de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
 
@@ -1816,3 +1818,9 @@ P.O. 8 DE OCTUBRE DE 2001.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los asuntos que fueron turnados conforme a las disposiciones vigentes, serán inmediatamente turnados a las Comisiones que conforme al presente Decreto se crean, en caso de duda, se remitirá a la Directiva del Congreso del Estado para su turno.
+
+P.O. 11 DE ENERO DE 2002.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Archívese como asunto totalmente concluido.
