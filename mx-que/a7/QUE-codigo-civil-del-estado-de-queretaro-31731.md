@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1999-11-12"
+last_updated: "2000-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -517,11 +517,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
+> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE PARRAFO POR LEY PUBLICADA EN EL P.O. 14 DE ABRIL DE 2000.</small>
 
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
+> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE PARRAFO POR LEY PUBLICADA EN EL P.O. 14 DE ABRIL DE 2000.</small>
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -883,7 +883,7 @@ VI. El Ministerio Público.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
+> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 14 DE ABRIL DE 2000.</small>
 
 ###### ARTÍCULO 133.
 
@@ -15434,3 +15434,13 @@ Artículo tercero.- La presente Ley tendrá una vigencia de seis meses contados 
 Artículo cuarto.- Una vez concluida la vigencia de esta Ley, los artículos suspendidos, nuevamente entrarán en vigor.
 
 Artículo quinto.- La Dirección General del Registro Civil, instrumentará una campaña de información amplia, a fin de que las personas que puedan beneficiarse con esta Ley, la instrumenten.
+
+P.O. 14 DE ABRIL DE 2000
+
+###### ARTÍCULO PRIMERO.
+
+En el caso de las personas mayores de siete años respecto de quienes se esté tramitando juicio de registro de nacimiento al entrar en vigor esta Ley, podrá optarse por concluir ese procedimiento judicial o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento jurídico.
+
+###### ARTÍCULO SEGUNDO.
+
+Las demás disposiciones que se opongan a la presente Ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
