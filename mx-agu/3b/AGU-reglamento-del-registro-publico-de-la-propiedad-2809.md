@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-publico-de-la-propiedad-2809"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-06-15"
-last_updated: "1980-10-26"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 15 de junio de 1980.
 
@@ -827,11 +827,11 @@ III.- Registro de Programas; y
 
 IV.- Registro De Modificaciones y Cancelaciones.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 110.
 
-El Gobernador del Estado o la Dirección de Planeación y Construcciones del Estado, en cumplimiento, a lo dispuesto en los Artículos 8o., 9o. Fracción VII y 12 fracciones I y III de la Ley de Desarrollo Urbano del Estado, remitirán a la Dirección del Registro Público de la Propiedad para su inscripción, los Planes de Desarrollo Urbano, declaratorias, así como modificaciones y cancelaciones con anotaciones de haber sido aprobados expresamente por el citado Jefe del Ejecutiva Estatal y publicados en los términos del Artículo 26 de la Ley.
+El Gobernador del Estado o la Secretaría de Desarrollo Social, en cumplimiento a lo dispuesto en los Artículos 8o., 9o. fracción VII y 12 fracciones I y III de la Ley de Desarrollo Urbano del Estado, remitirán a la Dirección del Registro Público de la Propiedad para su inscripción, los Planes de Desarrollo Urbano, declaratorias, así como modificaciones y cancelaciones con anotaciones de haber sido aprobados expresamente por el citado Jefe del Ejecutivo Estatal y publicados en los términos del Artículo 26 de la Ley.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
@@ -1296,3 +1296,7 @@ Lic. Antonio Javier Aguilera García.
 P.O. 26 DE OCTUBRE DE 1980.
 
 UNICO.- Las presentes Modificaciones al. Reglamento del Registro Público de la Propiedad del Estado de Aguascalientes entrarán en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
