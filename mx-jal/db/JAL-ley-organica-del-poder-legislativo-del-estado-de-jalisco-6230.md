@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1981-12-29"
+last_updated: "1982-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1982.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -335,6 +335,54 @@ XVI. Biblioteca, Archivo y Editorial;
 
 XVII. Corrección del Estilo;
 
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 1982)</small>
+
+XVIII. Seguridad Pública, Prevención y Readaptación Social.
+
+Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
+
+###### Artículo 31.
+
+El Congreso deberá designar por lo menos las siguientes Comisiones de carácter permanente:
+
+I. Estudios Legislativos, Puntos Constitucionales y Reglamentos;
+
+II. Gobernación;
+
+III. Hacienda y Presupuestos;
+
+IV. Desarrollo Económico y Social;
+
+V. Justicia;
+
+VI. Inspección;
+
+VII. Responsabilidades;
+
+VIII. Educación Pública y Bellas Artes;
+
+IX. Calificadora de Asuntos Electorales;
+
+X. Asuntos Agrarios;
+
+XI. Trabajo y Previsión Social;
+
+XII. Peticiones;
+
+XIII. Tesorería;
+
+XIV. Obras Públicas;
+
+XV. Higiene y Salud Pública;
+
+XVI. Biblioteca, Archivo y Editorial;
+
+XVII. Corrección del Estilo;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 1982)</small>
+
+XVIII. Seguridad Pública, Prevención y Readaptación Social.
+
 Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
 
 ###### Artículo 32.
@@ -502,6 +550,20 @@ III. Proponer a la Asamblea, la edición de libros, revistas o folletos, propios
 ###### Artículo 47.
 
 Corresponde a la Comisión de Corrección del Estilo, revisar gramaticalmente tanto el texto de los dictámenes propuestos por las Comisiones o por los Diputados, como el de las Minutas aprobadas por la Asamblea para los efectos legales consiguientes.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 1982)</small>
+
+###### Artículo 47 Bis.
+
+Corresponde a la Comisión de Seguridad Pública, Prevención y Readaptación Social, conocer de los asuntos legislativos relacionados con:
+
+I. Los Convenios de Coordinación que se celebren entre el Gobierno del Estado y los Ayuntamientos, en materia de seguridad pública;
+
+II. La organización y coordinación de la política criminológica penitenciaria en el Estado;
+
+III. El mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal;
+
+IV. En coordinación con la Comisión de Estudios Legislativos, Puntos Constitucionales y Reglamentos, dictaminar sobre las leyes y reglamentos que establezcan y regulen los sistemas integrales de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública existentes, y de los que en el futuro sean creados.
 
 ###### Artículo 48.
 
@@ -1150,3 +1212,7 @@ Se faculta a la Secretaría del H. Congreso para que realice los trámites corre
 ###### Artículo 3º.
 
 La periodicidad del "diario de los Debates", estará vinculada a la de las Sesiones que celebre el Congreso.
+
+P.O. 11 DE MAYO DE 1982
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
