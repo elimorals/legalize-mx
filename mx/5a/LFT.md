@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1970-04-01"
+last_updated: "1972-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 1972.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -718,13 +718,21 @@ Las Comisiones Regionales y la Comisión Nacional fijarán los salarios mínimos
 
 Los salarios mínimos profesionales regirán para todos los trabajadores de la rama de la industria o del comercio, de la profesión, oficio o trabajo especial considerado, dentro de una rama o varias zonas económicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 1972)</small>
+
 ###### Artículo 97.
 
-Los salarios mínimos no podrán ser objeto de compensación, descuento o reducción, salvo en los casos siguientes:
+Los salarios mínimos no podrán ser objeto de compensación, descuento o reducción salvo en los casos siguientes:
 
 I. Pensiones alimenticias decretadas por la autoridad competente en favor de las personas mencionadas en el artículo 110, fracción V; y
 
-II. Pago de rentas a que se refiere el artículo 150, fracción II, inciso a), y de cuotas para la adquisición de habitaciones, libremente aceptado por el trabajador. En estos casos, el descuento no podrá exceder del diez por ciento.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 1972)</small>
+
+II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá exceder del diez por ciento del salario.
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 1972)</small>
+
+III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda, destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
 
 ### CAPITULO VII. Normas Protectoras y Privilegios del Salario
 
@@ -792,9 +800,13 @@ Los descuentos en los salarios de los trabajadores están prohibidos, salvo en l
 
 I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hechos con exceso al trabajador, errores, pérdidas, averías o adquisición de artículos producidos por la empresa o establecimiento. La cantidad exigible en ningún caso podrá ser mayor del importe de los salarios de un mes y el descuento será el que convengan el trabajador y el patrón, sin que pueda ser mayor del treinta por ciento del excedente del salario mínimo;
 
-II. Pago de rentas de habitaciones, de conformidad con lo dispuesto en el artículo 150, fracción II, inciso a), que no podrá exceder del quince por ciento del monto del salario;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 1972)</small>
 
-III. Pago de cuotas para la adquisición de habitaciones, libremente aceptado por el trabajador;
+II. Pago de la renta a que se refiere el artículo 151 que no podrá exceder del quince por ciento del salario.
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 1972)</small>
+
+III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda, destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador.
 
 IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, siempre que los trabajadores manifiesten expresa y libremente su conformidad y que no sean mayores del treinta por ciento del excedente del salario mínimo;
 
@@ -1082,123 +1094,139 @@ X. Hacer cualquier clase de propaganda en las horas de trabajo, dentro del estab
 
 ### CAPITULO III. Habitaciones para los Trabajadores
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+
 ###### Artículo 136.
 
-Están obligadas a proporcionar habitaciones a sus trabajadores:
+Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, está obligada a proporcionar a los trabajadores habitaciones cómodas e higiénicas. Para dar cumplimiento a esta obligación las empresas deberán aportar al Fondo Nacional de la Vivienda el cinco por ciento sobre los salarios ordinarios de los trabajadores a su servicio.
 
-I.- Las empresas agrícolas, industriales, mineras o de cualquier otra clase de trabajo, situadas fuera de las poblaciones. Se entiende que las empresas están situadas fuera de las poblaciones si la distancia entre unas y otras es mayor de tres kilómetros o cuando, si es menor, no existe un servicio ordinario y regular de transportación para personas; y
-
-II.- Las mismas empresas mencionadas en la fracción anterior, situadas dentro de las poblaciones, cuando ocupen un número de trabajadores mayor de cien.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 137.
 
-Cuando la empresa se componga de varios establecimientos, la obligación se extiende a cada uno de ellos y a la empresa en su conjunto.
+El Fondo Nacional de la Vivienda tendrá por objeto crear sistemas de financiamiento que permitan a los trabajadores obtener crédito barato y suficiente para adquirir en propiedad habitaciones cómodas e higiénicas, para la construcción, reparación, o mejoras de sus casas habitación y para el pago de pasivos adquiridos por estos conceptos.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 138.
 
-Las habitaciones deberán ser cómodas e higiénicas.
+Los recursos del Fondo Nacional de la Vivienda serán administrados por un organismo integrado en forma tripartita por representantes del Gobierno Federal, de los trabajadores y de los patrones.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 139.
 
-Los trabajadores de planta permanentes, con una antigüedad de un año, por lo menos, tienen derecho a que les proporcionen habitaciones.
+La ley que cree dicho organismo regulará los procedimientos y formas conforme a los cuales los trabajadores podrán adquirir en propiedad habitaciones y obtener los créditos a que se refiere el artículo 137.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 140.
 
-Para los efectos del artículo anterior, los trabajadores deberán hacer saber a la empresa diréctamente o por conducto del sindicato, su deseo de que se les proporcionen habitaciones.
+El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación y el financiamiento de los programas de construcción de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 141.
 
-Las empresas que dispongan de habitaciones en número suficiente para satisfacer las necesidades de los trabajadores, lo pondrán en conocimiento del sindicato o de los trabajadores. Si no se ponen de acuerdo, podrán los trabajadores acudir ante la Junta de Conciliación y Arbitraje, de conformidad con lo dispuesto en el artículo 782 y siguientes.
+Las aportaciones al Fondo Nacional de la Vivienda son gastos de previsión social de las empresas y se aplicarán en su totalidad a constituir depósitos en favor de los trabajadores que se sujetarán a las bases siguientes:
+
+I.- Cuando un trabajador reciba financiamiento del Fondo Nacional de la Vivienda, el 40% del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha se aplicará de inmediato como pago inicial del crédito concedido.
+
+II.- Durante la vigencia del crédito, se continuará aplicando el 40% de la aportación patronal al pago de los abonos subsecuentes que deba hacer el trabajador.
+
+III.- Una vez liquidado el crédito otorgado a un trabajador, se continuará aplicando el total de las aportaciones empresariales para integrar un nuevo depósito en su favor.
+
+IV.- El trabajador tendrá derecho a que se le haga entrega periódica del saldo de los depósitos que se hubieren hecho a su favor con 10 años de anterioridad.
+
+V.- Cuando el trabajador deje de estar sujeto a una relación de trabajo y en caso de incapacidad total permanente o de muerte, se entregará el total de los depósitos constituidos al trabajador o a sus beneficiarios en los términos de la ley a que se refiere el artículo 139.
+
+VI.- En el caso de que los trabajadores hubieren recibido crédito hipotecario, la devolución de los depósitos se hará con deducción de las cantidades que se hubieran aplicado al pago del crédito hipotecario en los términos de las fracciones I y II de este artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 142.
 
-Si la empresa no dispone de habitaciones en número suficiente para satisfacer las necesidades de los trabajadores o no puede adquirirlas por algún título legal, lo pondrá en conocimiento del sindicato o de los trabajadores.
+Cuando una empresa se componga de varios establecimientos, la obligación a que se refiere el Artículo 136 de esta ley se extiende a cada uno de ellos y a la empresa en su conjunto.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 143.
 
-En el caso del artículo anterior, los sindicatos de trabajadores y las empresas, dentro del término de tres años, contado a partir de la fecha en que entre en vigor esta Ley, o desde el día siguiente a la terminación del primer año de funcionamiento, si se trata de empresas de nueva creación, establecerán en convenios las modalidades para el cumplimiento de las obligaciones a que se refiere este capítulo.
+Para los efectos de este capítulo, se entiende por salario la cantidad que perciba cada trabajador en efectivo por cuota diaria.
 
-Dentro del mismo término a que se refiere el párrafo anterior, los trabajadores de confianza convendrán con la empresa las modalidades para que se les proporcionen habitaciones.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 144.
 
-En las empresas o establecimientos en los que no existan sindicatos, los trabajadores podrán acudir ante la Secretaría del Trabajo y Previsión Social, ante los Gobernadores de los Estados o Territorios, o ante el Jefe del Departamento del Distrito Federal, para que estas autoridades promuevan la celebración de los convenios.
+Se tendrá como salario máximo para el pago de las aportaciones el equivalente a diez veces el salario mínimo general en la zona de que se trate.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 145.
 
-Los convenios a que se refieren los artículos anteriores, contendrán:
+Los créditos que se otorguen por el organismo que administre el Fondo Nacional de la Vivienda estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones derivadas del crédito.
 
-I.- El número de trabajadores con derecho a habitación y el de los que hubiesen manifestado su deseo de que se les proporcione;
-
-II.- La forma y los términos dentro de los cuales cumplirán las empresas la obligación de proporcionar habitaciones a los trabajadores que tengan derecho a ellas;
-
-III.- En el caso del artículo 142, las características de las habitaciones que se construirán, tales como superficie de cada habitación, número y dimensiones de los cuartos de que se compondrá, servicios sanitarios y de cocina y demás dependencias;
-
-IV.- Si la empresa construye las habitaciones para darlas en arrendamiento a los trabajadores, podrá cobrar hasta el seis por ciento anual del valor catastral de las habitaciones, por concepto de renta;
-
-V.- Si las habitaciones se construyen para que sean adquiridas por los trabajadores, se observarán las normas siguientes:
-
-a) La aportación de la empresa para la construcción de las habitaciones.
-
-b) La forma de financiamiento para completar el costo de la construcción, el que deberá ser pagado por los trabajadores, con las modalidades que convengan las partes.
-
-VI.- El número de habitaciones que deberá construirse anualmente o dentro del término que se convenga, y las fechas para la construcción de nuevas habitaciones, hasta satisfacer las necesidades de todos los trabajadores.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 146.
 
-Las habitaciones podrán ser unitarias o multifamiliares.
+Los patrones no estarán obligados a pagar las aportaciones a que se refiere el Artículo 136 de esta ley por lo que toca a los trabajadores domésticos.
 
-Podrán construirse habitaciones de diferentes características y costos, tomando en consideración el tabulador de salarios de la empresa.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 147.
 
-Las empresas que amplíen sus instalaciones o aumenten su personal, convendrán con los sindicatos o con sus trabajadores las modalidades para la construcción de nuevas habitaciones.
+El Ejecutivo Federal, previo estudio y dictamen del organismo que se constituya para administrar los recursos del Fondo Nacional de la Vivienda, determinará las modalidades y fechas en que incorporarán al régimen establecido por este capítulo:
+
+I.- Los deportistas profesionales y
+
+II.- Los trabajadores a domicilio.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 148.
 
-Para la asignación de las habitaciones a los trabajadores se observarán las normas siguientes:
+El Ejecutivo Federal podrá establecer modalidades para facilitar la aportación de las empresas que tengan un capital o un ingreso inferior a los mínimos que el propio Ejecutivo determine. Estas resoluciones podrán revisarse total o parcialmente cuando a su juicio existan circunstancias que lo justifiquen.
 
-I.- Tendrán preferencia los trabajadores más antiguos; y
-
-II.- En igualdad de antigüedad tendrán preferencia:
-
-a) Los jefes de familia.
-
-b) Los sindicalizados.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 149.
 
-Cuando se trate de trabajadores propietarios de alguna habitación, se observarán las normas siguientes:
+El organismo que se cree para administrar los recursos del Fondo Nacional de la Vivienda, determinará las sumas que se asignarán al financiamiento de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores y los que se aplicarán para la adquisición, construcción, reparación o mejoras de dichas casas, así como para el pago de pasivos adquiridos por estos conceptos.
 
-I.- Si les fue proporcionada en aplicación de las disposiciones contenidas en el artículo 123 de la Constitución y en los contratos colectivos, no tendrán derecho a que se les proporcione otra habitación, aun cuando se trate de diversas empresas; y
+Al efectuar la aplicación de recursos, se distribuirán equitativamente entre la distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
 
-II.- Si adquirió la propiedad de la habitación independientemente de sus relaciones de trabajo, tendrá derecho a que se le proporcione una nueva habitación, una vez que se hayan satisfecho las necesidades de los demás trabajadores de la empresa.
+Para el otorgamiento individual de los créditos se procederá en caso necesario conforme a un sistema de sorteos, en los términos que establezca la ley a que se refiere el artículo 139.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 150.
 
-Si las habitaciones se dan en arrendamiento a los trabajadores, se observarán las normas siguientes:
+Cuando las empresas proporcionen a sus trabajadores casa en comodato o arrendamiento no están exentas de contribuir al Fondo Nacional de la Vivienda, en los términos del artículo 136. Tampoco quedarán exentas de esta aportación respecto de aquellos trabajadores que hayan sido favorecidos por créditos del fondo.
 
-I. Las empresas están obligadas a mantener las habitaciones en condiciones de habitabilidad y a hacer oportunamente las reparaciones necesarias y convenientes;
-
-II. Los trabajadores tienen las obligaciones siguientes:
-
-a) Pagar las rentas.
-
-b) Cuidar de la habitación como si fuera propia.
-
-c) Poner en conocimiento de la empresa los defectos o deterioros que observen.
-
-d) Desocupar las habitaciones a la terminación de las relaciones de trabajo dentro de un término de cuarenta y cinco días; y
-
-III. Está prohibido a los trabajadores:
-
-a) Usar la habitación para fines distintos de los señalados en este capítulo.
-
-b) Subarrendar las habitaciones.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 151.
 
-Los trabajadores tendrán derecho, entre tanto se les entregan las habitaciones, a percibir una compensación mensual, la que se fijará en los convenios a que se refiere este capítulo; faltando esa disposición, la compensación se fijará tomando en consideración el tipo de habitaciones que deberá proporcionar la empresa y la diferencia entre la renta que podría cobrar y la que tengan que pagar los trabajadores por una habitación de condiciones semejantes.
+Cuando las habitaciones se den en arrendamiento a los trabajadores, la renta no podrá exceder del medio por ciento mensual del valor catastral de la finca y se observarán las normas siguientes:
+
+I.- Las empresas están obligadas a mantenerlas en condiciones de habitabilidad y a hacer oportunamente las reparaciones necesarias y convenientes:
+
+II.- Los trabajadores tienen las obligaciones siguientes:
+
+a). Pagar las rentas.
+
+b). Cuidar de la habitación como si fuera propia.
+
+c). Poner en conocimiento de la empresa los defectos o deterioros que observen.
+
+d). Desocupar las habitaciones a la terminación de las relaciones de trabajo dentro de un término de cuarenta y cinco días y
+
+III.- Está prohibido a los trabajadores:
+
+a). Usar la habitación para fines distintos de los señalados en este capítulo.
+
+b). Subarrendar las habitaciones.
 
 ###### Artículo 152.
 
@@ -1240,7 +1268,7 @@ Una comisión integrada con representantes de los trabajadores y del patrón for
 
 Las vacantes definitivas o por una duración mayor de treinta días o cuando se cree un puesto nuevo, serán cubiertos por el trabajador más antigüo de la categoría inmediata inferior de la respectiva profesión u oficio. Si concurren dos o más trabajadores de la misma antigüedad, será preferido el más capaz.
 
-Si el patrón cumplió la obligación prevista en el artículo 132, fracción XV, el trabajador al que corresponda el puesto deberá acreditar que posee los conocimientos y la aptitud necesarios para desempeñarlo. En los contratos colectivos se establecerá el procedimiento para que el trabajador compruebe los conocimientos y aptitudes, bien con el certificado que se le hubiese extendido al terminar los cursos o enseñanzas de capacitación o adiestramiento, con el certificado de algún instituto o escuela de capacitación, por medio de un examen o de un período de prueba no mayor de treinta días, por varios de estos procedimientos, o por alguna otra modalidad que se convenga. Si el resultado de las prueba o pruebas no es favorable al trabajador, será llamado el que le siga en antigüedad. En los mismos contratos colectivos se establecerá la manera de cubrir las vacantes cuando no exista dentro de la empresa ningún trabajador con los conocimientos y aptitud necesarios para desempeñar el puesto.
+Si el patrón cumplió la obligación prevista en el artículo 132, fracción XV, el trabajador al que corresponda el puesto deberá acreditar que posee los conocimientos y la aptitud necesarios para desempeñarlo. En los contratos colectivos se establecerá el procedimiento para que el trabajador compruebe los conocimientos y aptitudes, bien con el certificado que se le hubiese extendido al terminar los cursos o enseñanzas de capacitación o adiestramiento, con el certificado de algún instituto o escuela de capacitación, por medio de un examen o de un período de prueba no mayor de treinta días, por varios de estos procedimientos, o por alguna otra modalidad que se convenga. Si el resultado de la prueba o pruebas no es favorable al trabajador, será llamado el que le siga en antigüedad. En los mismos contratos colectivos se establecerá la manera de cubrir las vacantes cuando no exista dentro de la empresa ningún trabajador con los conocimientos y aptitud necesarios para desempeñar el puesto.
 
 ###### Artículo 160.
 
@@ -2182,7 +2210,7 @@ Es causa especial de rescisión de las relaciones de trabajo la disminución imp
 
 ### CAPITULO IX. Agentes de Comercio y otros Semejantes
 
-### CAPITULO X. Deportistas Profesionales
+### CAPITULO X. Deportistas profesionales
 
 ###### Artículo 292.
 
@@ -2294,7 +2322,7 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XII. Trabajo a Domicilio
+### CAPITULO XII. Trabajo a domicilio
 
 ###### Artículo 311.
 
@@ -2522,7 +2550,7 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 
 ###### Artículo 343.
 
-El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con los dispuesto en los artículos 49, fracción IV, y 50.
+El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
 
 ### CAPITULO XV. Industria Familiar
 
@@ -5234,7 +5262,7 @@ V. Las convenciones serán instaladas por el Secretario del Trabajo y Previsión
 
 VI. Instalada la convención, se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con un Presidente, dos Secretarios y dos Vocales. Tomarán parte en la elección, con el número de votos que les corresponda, los delegados y los patrones independientes cuyas credenciales hubiesen quedado registradas. El cómputo se hará por dos de las personas asistentes, designadas especialmente;
 
-VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículo 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
+VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículos 652 y 653, o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
 
 VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y
 
@@ -5414,6 +5442,8 @@ El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades 
 
 ### CAPITULO VI. Procedimientos Especiales
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+
 ###### Artículo 683.
 
 En la elección de representantes de los trabajadores y de los patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas, se observarán las disposiciones contenidas en los dos capítulos anteriores, con la modalidad del artículo siguiente.
@@ -5536,7 +5566,7 @@ Las diligencias que deban desahogarse en lugar distinto del en que resida la Jun
 
 Las partes podrán designar, ante la Junta exhortante, domicilio para oír notificaciones en el lugar de residencia de la autoridad exhortada. A falta de señalamiento de domicilio ante la Junta o autoridad exhortada, las notificaciones se harán por éstas, mediante publicación en sus estrados u oficinas.
 
-No se aceptará la practica de diligencias en el extranjero, salvo que se demuestre que son absolutamente indispensables para probar los hechos fundamentales de la demanda o de la contestación.
+No se aceptará la práctica de diligencias en el extranjero, salvo que se demuestre que son absolutamente indispensables para probar los hechos fundamentales de la demanda o de la contestación.
 
 ###### Artículo 699.
 
@@ -5924,7 +5954,7 @@ II. Las pruebas deben referirse a los hechos contenidos en la demanda y su conte
 
 III. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte;
 
-IV. Las pruebas se ofrecerán acompañadas de los elementos necesario para su desahogo;
+IV. Las pruebas se ofrecerán acompañadas de los elementos necesarios para su desahogo;
 
 V. Cada parte exhibirá desde luego los documentos u objetos que ofrezca como prueba. Si se trata de informes o copias que deba expedir alguna autoridad, podrá el oferente solicitar de la Junta que los pida, indicando los motivos que le impiden obtenerlos directamente;
 
@@ -6014,7 +6044,7 @@ I. Si los peritos no pueden rendir su dictamen en la audiencia, la Junta señala
 
 II. Si alguno de los peritos no concurre a la audiencia a que se refiere la fracción anterior, sin causa justificada, previamente anunciada y comprobada, la prueba se desahogará con el perito que concurra; y
 
-III. En caso de discrepancia en los dictamenes, la Junta podrá designar un perito tercero.
+III. En caso de discrepancia en los dictámenes, la Junta podrá designar un perito tercero.
 
 ###### Artículo 769.
 
@@ -6104,7 +6134,7 @@ Engrosado el laudo, el Secretario recogerá las firmas de los miembros de la Jun
 
 ###### Artículo 782.
 
-Las disposiciones de este capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 28, fracción III; 141, 145, fracción IV; 150, 158, 204, fracción IX; 209, fracción V; 210, 236, fracción III; 389, 418, 424, fracción IV; 427, fracciones I, II y VI; 434, fracciones I, III y V; 439, 503 y 505 y los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salario.
+Las disposiciones de este Capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 28, fracción III; 151; 158; 204, fracción IX; 209, fracción V; 210, 236, fracción III; 389, 418; 424, fracción IV; 427, fracciones I, II y VI; 434, fracciones I, III y V; 439, 503 y 505 y los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salario.
 
 ###### Artículo 783.
 
@@ -6152,7 +6182,7 @@ La solicitud deberá contener una exposición de los hechos y causas que dieron 
 
 ###### Artículo 792.
 
-el patrón presentará con su solicitud:
+El patrón presentará con su solicitud:
 
 I. Los documentos públicos o privados que tiendan a comprobar la situación de la empresa o establecimiento y la necesidad de las medidas que solicite;
 
@@ -6905,3 +6935,23 @@ Las Juntas de Conciliación y Arbitraje continuarán conociendo de los negocios 
 México, D. F., 2 de diciembre de 1969. Luis L. León Uranga, S.P.- Joaquín Gamboa Pascoe, D.P.- Arturo Moguel Esponda, S.S.- Alberto Briseño Ruiz, D.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos sesenta y nueve.- Gustavo Díaz Ordaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Antonio Carrillo Flores.- Rúbrica.- El Secretario de la Defensa Nacional, Marcelino García Barragán.- Rúbrica.- El Secretario de Marina, Antonio Vázquez del Mercado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Manuel Franco López.- Rúbrica.- El Secretario de Industria y Comercio, Octaviano Campos Salas.- Rúbrica.- El Secretario de Agricultura y Ganadería, Juan Gil Preciado.- Rúbrica.- El Secretario de Comunicaciones y Transportes, José Antonio Padilla Segura.- Rúbrica.- El Secretario de Obras Públicas, Gilberto Valenzuela.- Rúbrica.- El Secretario de Recursos Hidráulicos, José Hernández Terán.- Rúbrica.-El Secretario de Educación Pública, Agustín Yañez.- Rúbrica.- El Secretario de Salubridad y Asistencia, Salvador Aceves Parra.- Rúbrica.- El Secretario de la Presidencia, Emilio Martínez Manautou.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Norberto Aguirre Palancares.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Salvat.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Corona del Rosal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE ABRIL DE 1972.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor en toda la República el día siguiente de se publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La obligación de enterar las aportaciones a que se refiere el nuevo capítulo III del Título IV empezará a correr a partir de la fecha que señale la Ley que cree el Organismo encargado de administrar los recursos del Fondo Nacional de la Vivienda.
+
+###### ARTICULO TERCERO.
+
+Las empresas que con anterioridad a esta ley estén otorgando cualquier prestación en materia de habitación, la seguirán dando a sus trabajadores si el monto de las mismas es igual o superior al porcentaje consignado en el artículo 136 y no pagarán la aportación a que dicho artículo se refiere. Si por el contrario, el valor de las prestaciones fuere inferior al porcentaje de aportación, las empresas pagarán al Fondo Nacional de la Vivienda la diferencia correspondiente. En cualquier momento los trabajadores beneficiarios a que se refiere este artículo podrán optar por prescindir de la prestación y que la empresa entregue la aportación completa al Fondo Nacional de la Vivienda. Si hubiere controversia sobre el valor de las prestaciones, el problema será resuelto por el organismo tripartita responsable de la administración de fondo.
+
+###### ARTICULO CUARTO.
+
+Por lo que toca a aquellos trabajadores que hayan adquirido en propiedad casas habitación antes de la reforma de esta Ley, en aplicación a las disposiciones contenidas en el Artículo 123 de la Constitución o en los contratos individuales y colectivos, las empresas estarán obligadas a aportar al Fondo Nacional de la Vivienda el equivalente al 60% correspondiente al depósito a que se refiere el Artículo 141, y en esa virtud los trabajadores seguirán siendo sujetos de crédito. No quedan comprendidas dentro de esta excepción, las empresas cuyos trabajadores de su salario hayan o estén pagando sus casas habitación. Los casos de controversia se resolverán por el organismo tripartita a que se refiere el artículo anterior.
