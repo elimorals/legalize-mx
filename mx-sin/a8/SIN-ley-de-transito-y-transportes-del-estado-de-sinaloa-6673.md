@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "1997-08-13"
+last_updated: "2001-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -177,7 +177,9 @@ Además de lo señalado en el artículo anterior, para obtener licencia de manej
 
 I. De chofer:
 
-A).Tener edad mínima de dieciocho años;
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+A).Tener edad mínima de veintiún años;
 
 B). Acreditar pericia en el manejo de los vehículos automotores regulados por esta Ley, excepto los conocidos como motocicletas.
 
@@ -199,9 +201,13 @@ C). Acreditar pericia en el manejo de los vehículos clasificados como motocicle
 
 Para conducir vehículos de servicio público de transporte de pasajeros, se requiere la licencia de conducir correspondiente y el certificado de aptitud establecido en esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 23.
 
-El certificado de aptitud se expedirá a todas aquellas personas que tengan licencia de manejar y además presenten y aprueben ante la autoridad correspondiente, los exámenes médicos y teórico-prácticos que acrediten que están específicamente capacitadas para la prestación del servicio público de transporte de pasajeros.
+El certificado de aptitud se expedirá a todas aquellas personas que tengan licencia de manejar, así como que hayan presentado y aprobado ante la autoridad correspondiente, los exámenes médicos y teórico-prácticos que acrediten que están específicamente capacitadas para la prestación del servicio público de transporte de pasajeros.
+
+La expedición del certificado de aptitud; y desde luego la licencia de chofer para conductores de vehículos del servicio público de transporte colectivo urbano, en unidades con capacidad mayor de once pasajeros, requerirá además de lo establecido en el párrafo anterior, que acrediten haber cursado el nivel medio básico o secundario y cumplido veintitres años de edad.
 
 ###### ARTICULO 24.
 
@@ -210,6 +216,10 @@ Cualquier conductor que haya cambiado su nombre o domicilio señalados en la sol
 ###### ARTICULO 25.
 
 Los concesionarios y permisionarios del servicio público de autotransporte, están obligados a contratar sólo conductores que posean la licencia respectiva y que cuenten con la experiencia, capacidad, pericia y condiciones físico-mentales adecuadas, así como vigilar escrupulosamente que el manejo y control de sus vehículos quede encomendado únicamente a conductores que reúnan las características antes señaladas.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+
+Los concesionarios y permisionarios del servicio público de transporte de pasajeros, además de lo establecido en el párrafo anterior tienen la obligación de vigilar que los conductores de este servicio cuenten con el certificado de aptitud vigente.
 
 ###### ARTICULO 26.
 
@@ -1737,6 +1747,20 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 Se mantendrá vigente la tarifa de $ 1.00 (Un Peso M.N.) para estudiantes de escuelas públicas, en el transporte urbano y suburbano, autorizado por el Ejecutivo Estatal en el Decreto Administrativo de fecha 13 de febrero de 1997, publicado en el Periódico Oficial "El Estado de Sinaloa" número 21, segunda sección, el día 17 de ese mes y año, así como las tarifas con descuento que se vienen aplicando en el transporte foráneo, hasta en tanto se realice una nueva revisión tarifaria.
 
+DECRETO No. 340
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento General de la Ley de Tránsito y Transportes aprobada mediante Decreto número 176, del 20 de agosto de 1970, publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha 20 de octubre de 1970.
+
+###### ARTICULO TERCERO.
+
+El Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa será expedido por el Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, mientras tanto se continuarán aplicando las disposiciones del anterior en lo que no se opongan a la ley.
+
 P.O. 13 DE AGOSTO DE 1997.
 
 DECRETO No. 340, QUE REFORMA EL ARTÍCULO 239.
@@ -1752,3 +1776,9 @@ Se abroga el Reglamento General de la Ley de Tránsito y Transportes aprobada me
 ###### ARTICULO TERCERO.
 
 El Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa será expedido por el Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, mientras tanto se continuarán aplicando las disposiciones del anterior en lo que no se opongan a la ley.
+
+P.O. 14 DE DICIEMBRE DE 2001.
+
+Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Los requisitos establecidos para los conductores de vehículos del servicio público de transporte colectivo urbano, en unidades con capacidad mayor de once pasajeros, no serán aplicables con efectos retroactivo para aquellos conductores de este servicio que, a la fecha de entrar en vigor el presente Decreto, cuenten con su licencia de chofer y certificado de aptitud.
