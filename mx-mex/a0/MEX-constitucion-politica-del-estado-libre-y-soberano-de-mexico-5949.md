@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1976-01-31"
+last_updated: "1976-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 1976.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1976.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -929,7 +929,7 @@ VII. Presentar a la Legislatura, al terminar su período Constitucional, una mem
 
 VIII. Informar a la Legislatura por escrito, o verbalmente por conducto del Secretario de Gobierno o del Oficial Mayor en su caso, sobre cualquier ramo de la Administración, cuando la misma Legislatura lo solicite;
 
-IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa su exacta observancia;
+IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1293,11 +1293,7 @@ El Ministerio Público será desempeñado por un Procurador General de Justicia,
 
 Todos los funcionarios del Ministerio Público, constituirán un cuerpo, cuyas relaciones (sic) atribuciones y funcionamiento, determinará la Ley Orgánica correspondiente.
 
-###### Art. 123.
-
-Para ser Procurador General, se requieren los mismos requisitos que para ser Magistrado.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 9 MARZO DE 1976)</small>
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -1640,6 +1636,22 @@ El Ministerio Público estará a cargo de un Procurador General de Justicia, aux
 ###### Art. 176.
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
+
+###### Artículo 123.
+
+Para ser Procurador General de Justicia se requiere.
+
+I.- Ser mexicano por nacimiento y vecino del Estado, en pleno goce de sus derechos.
+
+II.- Tener más de treinta años de edad.
+
+III.- poseer Título de Licenciado en Derecho, expedido por Autoridad legalmente facultada para ello y tener por lo menos cinco años de práctica forense.
+
+IV.- No haber sido sentenciado ejecutoriamente por delitos intencionales que ameriten pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial.
+
+V.- Ser de honradez y Probidad notorias.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
 ###### Art. 124.
 
@@ -2354,3 +2366,9 @@ DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLI
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 9 MARZO DE 1976.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
