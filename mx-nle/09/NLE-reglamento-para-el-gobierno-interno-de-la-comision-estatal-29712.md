@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interno-de-la-comision-estatal-2971
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-07"
-last_updated: "2003-03-07"
+last_updated: "2003-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERNO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de mayo de 1997.
-
-> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2003, SE MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL ORDENAMIENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE; Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN LA FECHA CITADA.</small>
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -65,7 +63,9 @@ V. Presidente: El Comisionado Presidente de la Comisión Estatal Electoral;
 
 VI. Secretario: El Comisionado Secretario de la Comisión Estatal Electoral;
 
-VII. Representantes de los Partidos: Los Representantes de los Partidos Políticos o Coaliciones acreditados ante la Comisión Estatal Electoral;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2003)</small>
+
+VII. Representantes de los Partidos. Los Representantes de los Partidos Políticos acreditados ante la Comisión Estatal Electoral;
 
 VIII. Instructor: El Comisionado Ciudadano Instructor;
 
@@ -74,6 +74,12 @@ IX. Comisión(es) Municipal(es): La(s) Comisión(es) Municipal(es) Electoral(es)
 X. Tribunal: El Tribunal Electoral del Estado; y
 
 XI. Pleno: El Pleno de la Comisión Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+###### Artículo 2 Bis.
+
+Los partidos políticos tendrán por acreditados a sus representantes propietarios y suplentes, mediante escrito dirigido a la Comisión, la cual al recibirlo dejará copia en su poder, y el original se devolverá con el sello del organismo que realiza el registro, la hora y fecha en que se lleva a cabo el mismo y la firma del Secretario o del funcionario que haya sido autorizado para recibirlo. La acreditación de los representantes surtirá efectos desde el momento de su recepción.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -117,11 +123,15 @@ Las actividades de la Comisión son desarrolladas en un período electoral y en 
 
 Para el desarrollo de las actividades de la Comisión, son días hábiles todos los del año, a excepción del sábado y domingo, y aquellos que las leyes laborales declaren festivos, o cuando de hecho se suspendan las labores porque así lo determine la Comisión, de conformidad con los artículos 1, 14 y 25 de la Ley del Servicio Profesional Electoral.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+Para el caso de registro de candidaturas, para los efectos de lo contencioso electoral y para las fechas límite que la Ley establezca durante el proceso electoral, todos los días y horas son hábiles, y los plazos se computarán de momento a momento, por lo que la Comisión mantendrá guardias permanentes, de acuerdo a lo establecido por la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 8.
 
-El horario de oficina de la Comisión será de las nueve a las dieciocho horas. Para el caso de registro de candidaturas y para los efectos de lo contencioso electoral, durante el proceso electoral todos los días y horas son hábiles, y los plazos se computarán de momento a momento, por lo que la Comisión mantendrá guardias permanentes, de acuerdo a lo establecido por los artículos 111 y 277 de la Ley.
+El horario de oficina de la Comisión será de lunes a viernes, de las nueve a las dieciocho horas. El día de la elección y aquellos días que así lo determine la Comisión, el personal de ésta se presentará a cumplir con sus labores y tareas que les hayan sido encomendadas.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -145,9 +155,21 @@ La Comisión promoverá y vigilará la transparencia en los recursos de ésta y 
 
 De conformidad con lo establecido en los artículos 69 segundo párrafo, 81 fracción IV y 250 de la Ley, los Comisionados designados por el Congreso del Estado, elegirán de entre ellos a un Presidente, un Secretario y tres Vocales, en la primera sesión de la Comisión en que participen como tales; asimismo, en esa misma sesión, constituirán de entre sus miembros, la Comisión de Vigilancia del Financiamiento Público y Privado de los Partidos Políticos, para continuar con las actividades permanentes de ésta; y designarán al Instructor.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 12.
+
+Para las licencias de los Comisionados se observará lo siguiente:
+
+I. Durante el período electoral, los Comisionados podrán separarse de manera temporal de su encargo únicamente por causa justificada, calificada por el Pleno conforme al siguiente procedimiento:
+
+a. La licencia deberá ser solicitada por escrito y será turnada al Pleno a fin de que estudie los argumentos y resuelva lo correspondiente;
+
+b. El Pleno resolverá sobre la procedencia de la solicitud, por el voto de la mayoría de los Comisionados presentes con derecho a ello. En dicha votación deberá abstenerse de participar el solicitante. El Pleno, una vez que decrete procedente la solicitud de licencia, determinará quién cubrirá la ausencia, en los términos previstos por el artículo 78 de la Ley.
+
+II. Fuera del período electoral, los Comisionados podrán solicitar por escrito al Pleno, licencia temporal para separarse de su encargo. Una vez que sea otorgada la licencia al Comisionado, el Pleno deberá prever quién cubrirá la ausencia de acuerdo a lo establecido en el artículo 78 de la Ley;
+
+III. En ningún caso, podrá otorgarse licencia temporal a más de dos Comisionados a la vez.
 
 Cuando ocurra falta absoluta de un Comisionado, por causa de fallecimiento, inhabilitación, incapacidad o ausencia prolongada sin aviso por escrito, la Comisión notificará este hecho al Congreso del Estado, a fin de que tome las medidas conducentes, de conformidad a lo establecido en el artículo 70 fracción III de la Ley.
 
@@ -247,9 +269,11 @@ III. Presentar al Pleno los proyectos de resolución de su competencia; y
 
 IV. Las demás que le confieran la Ley, el presente Reglamento, y las que le sean encomendadas por el Pleno.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 20.
+
+La Comisión, al recibir denuncias por supuestas violaciones a la Ley, las turnará al Comisionado Ciudadano Instructor a fin de que decida iniciar su procedencia o desecharla de plano; esto deberá ser dentro de las 72-setenta y dos horas siguientes de que se reciban los documentos. El procedimiento para las denuncias, será en lo conducente, el establecido en la Ley para los recursos, sin perjuicio de lo establecido en este capítulo.
 
 En el desempeño de las funciones que le son encomendadas al Instructor, tendrá el auxilio de la Dirección Jurídica de la Coordinación Técnica, para atender los asuntos de su competencia, de conformidad a lo establecido por el artículo 90 fracción II y V de la Ley.
 
@@ -257,11 +281,11 @@ En el desempeño de las funciones que le son encomendadas al Instructor, tendrá
 
 ### CAPITULO SEXTO. COMISIONES ESPECIALES
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 21.
 
-De conformidad con lo establecido por el artículo 81 fracción I, la Comisión integrará las Comisiones Especiales que sean necesarias para el desarrollo de los trabajos y programas de ésta, con base en lo siguiente:
+De conformidad con lo establecido por el artículo 81 fracción I, la Comisión integrará las Comisiones Especiales que sean necesarias para el desarrollo de los trabajos y programas de la Comisión, con base en lo siguiente:
 
 I. Se integrarán por tres Comisionados propietarios y un suplente común;
 
@@ -275,9 +299,7 @@ a) Un calendario de reuniones de trabajo; y
 
 b) Los aspectos generales y especiales que se deberán estudiar, analizar y discutir.
 
-V. A todas estas reuniones de trabajo se convocará a los representantes de partidos; y
-
-VI. Las Comisiones Especiales deberán elaborar una minuta que contenga los aspectos relevantes de cada reunión de trabajo, la que será firmada por todos sus integrantes presentes.
+V. Las Comisiones Especiales deberán elaborar una minuta que contenga los acuerdos de cada reunión de trabajo, la que será firmada por todos sus integrantes presentes.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -285,11 +307,11 @@ VI. Las Comisiones Especiales deberán elaborar una minuta que contenga los aspe
 
 Los Comisionados que no formen parte de una Comisión Especial podrán asistir a las reuniones y hacer uso de la palabra en las mismas, pero no tendrán voto en los acuerdos que en ella se tomen.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 23.
 
-Las Comisiones Especiales emitirán dictámenes y proyectos, para someterlos a la consideración del Pleno.
+las Comisiones Especiales emitirán los dictámenes al Pleno para someterlos a la discusión, modificación o aprobación en su caso. Los dictámenes deberán contener su fundamentación, una parte expositiva y una parte final resolutoria.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -325,11 +347,11 @@ Las sesiones de la Comisión, por su carácter, serán ordinarias o extraordinar
 
 Las sesiones podrán tener los recesos que se acuerden y se concluirán al agotar los trabajos correspondientes. El día de la elección la Comisión se instalará en sesión permanente a partir de las siete horas.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 28.
 
-Son sesiones solemnes: la de apertura del período ordinario de actividad electoral y la de clausura de dicho período; la correspondiente a la declaración de validez de la elección de Gobernador y la de Diputados; la de renovación de los Comisionados; y las demás que la Comisión determine.
+Durante las sesiones permanentes no podrá darse cuenta ni trámite a asunto alguno que no esté comprendido en el orden del día. Si se presentase alguno con carácter de urgente, el Presidente someterá al voto de la Comisión la consideración de tratarlo dentro de la sesión permanente o en una sesión posterior.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -337,11 +359,11 @@ Son sesiones solemnes: la de apertura del período ordinario de actividad electo
 
 Son sesiones ordinarias las que se celebren durante los períodos y en las fechas que fije el calendario de sesiones de la Comisión.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 30.
 
-Son sesiones extraordinarias las que se celebren fuera de los períodos y fechas de las ordinarias, para tratar algún asunto o asuntos, cuando así lo determine la Comisión, y serán convocadas por el Presidente o el Secretario.
+Son sesiones extraordinarias las que se celebren fuera de los períodos y fechas de las ordinarias, para tratar algún asunto o asuntos en forma exclusiva, cuando así lo determine la Comisión, y serán convocadas por el Presidente.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -391,17 +413,29 @@ V. Correspondencia recibida y despachada;
 
 VI. Informe mensual de la Coordinación Técnica, y el anual del Servicio Profesional Electoral, en su caso;
 
-VII .Nombramientos de funcionarios o Comisiones Especiales;
+VII. Nombramientos de funcionarios o Comisiones Especiales;
 
 VIII. Presentación de proyectos normativos;
 
 IX. Dictámenes para discusión y votación;
 
-X. Informes de Comisiones Especiales; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2003)</small>
 
-XI. Asuntos generales.
+X. Informes de Comisiones Especiales de la Comisión de Vigilancia del Financiamiento Público y Privado de los Partidos Políticos, en su caso;
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2003)</small>
+
+XI. Peticiones o denuncias formuladas por partidos políticos y ciudadanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2003)</small>
+
+XII. Seguimiento de asuntos pendientes de sesiones anteriores; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2003)</small>
+
+XIII. Asuntos generales.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 35.
 
@@ -411,11 +445,9 @@ I. Lista de asistencia;
 
 II. Declaración de quórum;
 
-III. Lectura del orden del día y aprobación, en su caso;
+III. Lectura del orden del día y aprobación, en su caso; y
 
-IV. Asunto o asuntos a ventilarse; y
-
-V. Asuntos generales.
+IV. Asunto o asuntos a ventilarse.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -467,19 +499,17 @@ Al inicio de las sesiones el Secretario pasará lista de presentes, certificando
 
 El Presidente conducirá el desarrollo de las sesiones y las discusiones que se presenten en éstas, atendiendo a los principios rectores de la función electoral, que son: la equidad, independencia, imparcialidad, legalidad, objetividad y certeza.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
 ###### Artículo 43.
 
-Con la finalidad de no interrumpir la solemnidad de las sesiones, durante su desarrollo los Comisionados y los representantes de partidos, se abstendrán de hacer uso de teléfonos celulares y los demás aparatos que sirvan como medios de comunicación.
+(DEROGADO, P.O. 31 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 44.
 
 Además de lo anterior, conforme a lo previsto en el artículo 82 fracción I de la Ley, las sesiones se desarrollarán de la siguiente manera:
 
-I. No podrán ser tratados en asuntos generales las cuestiones que deban ser incluidas en alguno de los otros puntos del orden del día; en caso de controversia se atenderá a la decisión del Presidente;
+l. No podrán ser tratados en asuntos generales las cuestiones que deban ser incluidas en alguno de los otros puntos del orden del día; en caso de controversia se atenderá a la decisión del Presidente;
 
 II. El Presidente fijará el turno de quienes soliciten el uso de la palabra para discutir el asunto, con el fin de que todos tengan la oportunidad de ser escuchados;
 
@@ -489,45 +519,51 @@ a) Intervención de un integrante de la Comisión Especial, dando lectura al dic
 
 b) Discusión en lo general, en la que se concederá el uso de la palabra a quienes lo soliciten.
 
-IV. Las intervenciones en las discusiones de las sesiones, se pronunciarán personalmente y de viva voz, en un tiempo a consideración del Presidente;
+IV. Las intervenciones en las discusiones de las sesiones, se pronunciarán personalmente y de viva voz, en un tiempo máximo de 3-tres minutos. El tiempo de cada intervención podrá ser prolongado a consideración del Presidente;
 
-V. Agotadas las intervenciones y concluidas las replicas, el Presidente llamará a votación;
+V. Si en el curso de las discusiones alguno de los oradores hiciese alusiones sobre la persona o la conducta de algún Comisionado o representante de partido, éste podrá solicitar al Presidente hacer uso de la palabra por un tiempo no superior a 2-dos minutos, para dar contestación a las alusiones formuladas; en estos casos el Presidente accederá a la petición, inmediatamente después de que haya concluido el turno del orador que profirió las alusiones;
 
-VI. En cualquier estado de la discusión, cualquier Comisionado o representante de partido, podrá pedir la observancia de la Ley, formulando una moción de orden. Al efecto deberá citar las disposiciones normativas cuya aplicación reclama. Escuchada la moción, el Presidente resolverá lo conducente; y
+VI. Ningún Comisionado o representante de partido podrá ser interrumpido cuando se encuentre en uso de la palabra, salvo por el Presidente para advertirle que se ha agotado el tiempo, exhortándole a que se atenga al tema a discusión, así como para llamarlo al orden cuando ofenda a la Comisión o a los representantes de los partidos o para preguntarle si acepta contestar alguna interpelación que desee formularle otro Comisionado o algún representante de partido. Las preguntas que se formulen a los Comisionados que estén en el uso de la palabra por cualquier integrante de la sesión, con el propósito de esclarecer la intervención, deberán ser solicitadas al Presidente; y (sic)
 
-VII. Los asuntos que sean competencia del Pleno, podrán dispensarse del procedimiento a que se refieren las fracciones anteriores, cuando sea de carácter urgente su resolución; la determinación de si un asunto debe considerarse como urgente y de obvia resolución, quedará a la consideración del Presidente.
+VII. Agotadas las intervenciones y concluidas las réplicas, el Presidente llamará a votación;
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+VIII. En todo momento de la discusión, cualquier Comisionado o representante de partido, podrá pedir la observancia de la Ley, formulando una moción de orden; escuchada la moción, el Presidente resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 45.
 
-En los dictámenes, acuerdos o resoluciones que se sometan a la revisión, modificación o aprobación en su caso, al Pleno, previo acuerdo de éste, se podrá dispensar la lectura íntegra del documento, siempre y cuando los presentes cuenten con el documento completo.
+En los dictámenes, acuerdos, resoluciones o normativa que se sometan al Pleno para revisión, modificación o aprobación en su caso, previo acuerdo de éste, se podrá dispensar la lectura íntegra del documento, siempre y cuando los presentes cuenten con el documento completo.
+
+El Pleno podrá acordar obviar totalmente la lectura de algún dictamen, acuerdo, resolución o normativa que se someta a la consideración de éste, cuando la documentación relativa haya sido entregada a los representantes de los partidos con una anticipación de por lo menos 48-cuarenta y ocho horas a la sesión correspondiente.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
 
 #### SECCION QUINTA. DE LAS VOTACIONES
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 46.
 
-De conformidad con lo establecido en el artículo 76 de la Ley, los asuntos que sean sometidos a la votación del Pleno, se tomarán por mayoría de votos de los Comisionados presentes con derecho a ello; las votaciones serán de dos formas:
+De conformidad con lo establecido en el artículo 76 de la Ley, los asuntos que sean sometidos a la votación del Pleno, se tomarán por mayoría de votos de los Comisionados presentes con derecho a ello, en caso de empate en la votación, el Presidente tendrá voto de calidad. Las votaciones serán de dos formas:
 
-I. La votación económica será de la siguiente manera: El Presidente, una vez agotadas las discusiones del asunto correspondiente lo someterá a la consideración del Pleno para su aprobación, continuando con el nombre del asunto tratado, seguido de la manifestación de los Comisionados que aprueben el asunto, posteriormente la manifestación de los Comisionados en contra de la aprobación del asunto; por último, los Comisionados que se abstienen de votar; en caso de empate en la votación, el Presidente tendrá voto de calidad.
+I. La votación económica será de la siguiente manera: El Presidente, una vez agotadas las discusiones del asunto correspondiente lo someterá a la consideración del Pleno para su aprobación, continuando con el nombre del asunto tratado, seguido de la manifestación de los Comisionados que aprueben el asunto, posteriormente la manifestación de los Comisionados en contra de la aprobación del asunto; por último, los Comisionados que se abstengan de votar;
 
-II. La votación por cédula será para hacer las designaciones o remociones de funcionarios que sean competencia de la Comisión, según la Ley y este Reglamento; se realizarán por medio de cédulas que serán entregadas por el Secretario a cada Comisionado con derecho a voto. Una vez emitido el voto, el Secretario recabará las cédulas y dará lectura en voz alta a los resultados que contengan, una vez efectuado el cómputo dará a conocer su resultado al Presidente, quien hará la declaración correspondiente.
+II. La votación por cédula se podrá efectuar para las designaciones o remociones de funcionarios que sean competencia de la Comisión, según la Ley y este Reglamento; se realizarán por medio de cédulas que serán entregadas por el Secretario a cada Comisionado con derecho a voto. Una vez emitido el voto, el Secretario recabará las cédulas y dará lectura en voz alta a los resultados que contengan, una vez efectuado el cómputo dará a conocer su resultado al Presidente, quien hará la declaración correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+El resultado de las votaciones se hará constar en el acta de la sesión correspondiente y se asentará el sentido del voto de cada Comisionado.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 47.
 
-En caso de presentarse observaciones o correcciones por los Comisionados a los proyectos de dictámenes o acuerdos de los asuntos sometidos y vistos en las sesiones, se procederá a efectuar la salvedad correspondiente, sin que ello cambie el sentido del fallo o fallos aprobados.
+En caso de presentarse observaciones o correcciones por los Comisionados o por los representantes de partidos, a los proyectos de dictámenes o acuerdos de los asuntos vistos en las sesiones, se procederá a efectuar la salvedad correspondiente, si con ello no cambia el sentido del fallo o fallos aprobados; lo que se hará constar en el acta de la sesión correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 48.
 
-Los acuerdos del Pleno surten efectos desde el momento en que son aprobados conforme a lo establecido en los artículos precedentes.
+Los acuerdos del Pleno surten efectos desde el momento en que son aprobados conforme a lo establecido en los artículos precedentes; para los medios de impugnación establecidos en la Ley, surtirán efectos a partir de su notificación.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -673,7 +709,7 @@ VII. Preparación de los documentos que obran en archivo para su certificación;
 
 VIII. Preparar la publicación oportuna de los acuerdos aprobados por el Pleno en el Periódico Oficial del Estado, cuando la Ley así lo disponga, y cuando lo ordene la Comisión;
 
-IX. Formar los expedientes de cada uno de los asuntos que se ventilen en el Pleno, así como auxiliar en el registro de los acuerdos y demás disposiciones aprobadas; y
+IX. Formar los expedientes de cada uno de los asuntos que se ventilen en el Pleno, así como auxiliar en el registro de los acuerdos y demás disposiciones aprobadas; y (sic)
 
 X. Auxiliar en la elaboración de los informes mensuales de la Coordinación Técnica, así como el Informe Anual del Servicio Profesional Electoral;
 
@@ -1003,13 +1039,33 @@ XII. Proponer, elaborar y coordinar una revista especializada en asuntos políti
 
 XIII. Las demás que el presente Reglamento o la Comisión le encomiende.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 31 DE MARZO DE 2003)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA DIRECCIÓN DEL REGISTRO ESTATAL DE ELECTORES
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
 
-### CAPITULO PRIMERO. DE SUS ACTIVIDADES
+###### Artículo 76 Bis.
+
+Pertenece a la Dirección del Registro Estatal de Electores:
+
+I. Integrar, revisar y actualizar anualmente el padrón electoral y en su caso las listas nominales de electores con fotografía;
+
+II. Establecer con las autoridades federales, estatales y municipales, la coordinación necesaria, a fin de obtener la información sobre fallecimientos de ciudadanos, sobre la pérdida de derechos políticos; o bien pérdida, suspensión u obtención de la ciudadanía; así mismo sobre la declaratoria de interdicción o inhabilitación;
+
+III. Proporcionar a los órganos competentes y a los partidos políticos con registro, las listas nominales en los términos de esta Ley;
+
+IV. Coordinar su actuación con el Registro Federal de Electores del Instituto Federal Electoral, en caso de existir convenio al respecto;
+
+V. Acordar con el Coordinador Técnico los asuntos de su competencia;
+
+VI. Colaborar en la elaboración de las memorias de cada proceso electoral; y
+
+VII. Las demás atribuciones que le confiera la Ley, el presente Reglamento o las que la Comisión le encomiende.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO SEGUNDO], P.O. 31 DE MARZO DE 2003)</small>
+
+### CAPITULO DÉCIMO TERCERO. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1045,91 +1101,133 @@ Todas las políticas, normas y disposiciones administrativas para el control, fu
 
 ## TITULO SEGUNDO. DE LAS COMISIONES MUNICIPALES ELECTORALES
 
-> <small>(REFORMADO Y REUBICADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
-### CAPÍTULO SEGUNDO. DE LAS SESIONES
+### CAPITULO PRIMERO
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN PRIMERA. ASPECTOS BÁSICOS
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
 
-#### SECCIÓN SEGUNDA. DEL ORDEN DEL DIA
+Artículo 78 Bis I.- Para designar a los integrantes de las Comisiones Municipales y removerlos cuando hubiere lugar a ello, conforme a la fracción XV del artículo 81 de la Ley, la Comisión deberá observar el siguiente orden:
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+I. Mandará publicar una convocatoria con el fin de que la ciudadanía en general proponga a las personas que cumplan con los requisitos de ley y que han de integrar las Comisiones Municipales;
+
+II. Recibidas las propuestas, la Coordinación Técnica las turnará a la Comisión Especial correspondiente;
+
+III. La Comisión Especial examinará las propuestas y seleccionará a los integrantes de la Comisiones Municipales;
+
+IV. Si una vez realizada la selección no quedan integradas en su totalidad las Comisiones Municipales, las vacantes se decidirán mediante un sorteo entre las personas propuestas que cumplan con los requisitos de Ley; el resto integrará la reserva para los efectos de este capítulo, y
+
+V. Una vez hecho lo anterior, la Comisión Especial someterá al Pleno el acuerdo de las integraciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+Artículo 78 Bis II.- Cuando a juicio de uno o más Comisionados, o en su caso de algún representante de partido, exista causa grave para remover a los miembros de las Comisiones Municipales, se deberá presentar por escrito la solicitud de remoción a la Comisión, acompañando los elementos de prueba necesarios, misma que será remitida a la Comisión Especial; ésta oirá a los interesados, recibirá los elementos de prueba y elaborará un dictamen que presentará al Pleno. Si procede la solicitud de remoción, la sustitución se hará conforme al artículo 94 de la Ley, al efecto la Comisión Especial propondrá de la reserva al integrante que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+Artículo 78 Bis III.- Los integrantes de las Comisiones Municipales que dejaren de asistir a 3-tres sesiones consecutivas sin causa justificada, deberán ser sustituidos conforme al artículo 94 de la ley, al efecto la Comisión Especial propondrá de la reserva al integrante que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+Artículo 78 Bis IV.- La licencia que solicite alguno de los integrantes de las Comisiones Municipales para separarse de manera temporal de su cargo, será presentada por escrito ante la Comisión y se turnará a la Comisión Especial correspondiente, a fin de que estudie los argumentos y presente al Pleno el dictamen respectivo para su resolución. En este caso las ausencias se cubrirán conforme al artículo 94 de la Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+Artículo 78 Bis V.- La renuncia que presente alguno de los integrantes de las Comisiones Municipales ante la Comisión, será formulada por escrito y se turnará a la Comisión Especial; la que propondrá al Pleno la sustitución, utilizando la reserva.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2003)</small>
+
+#### SECCIÓN SEGUNDA. DE SUS ACTIVIDADES
+
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 79.
 
 Las Comisiones Municipales son los organismos que, bajo la dependencia de la Comisión, ejercen en los municipios las funciones de preparación, desarrollo y vigilancia del proceso electoral.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 80.
 
 Además de las obligaciones y facultades que dispone la Ley a las Comisiones Municipales, deberán cumplir con el presente Reglamento y con las demás disposiciones que establezca la Comisión, de conformidad a lo establecido en el artículo 81 fracción III de la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 81.
 
 Las Comisiones Municipales comenzarán a realizar sus actividades una vez instaladas y cesarán en sus funciones electorales al término del proceso electoral, de conformidad a lo establecido en los artículos 97 y 103 de la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 82.
 
 Las Comisiones Municipales terminarán sus funciones administrativas el día treinta y uno de octubre del año de la elección, con excepción de lo establecido en los artículos 1, 73 y 103 de la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 83.
 
 Para los efectos de la convocatoria a la sesión de instalación de las 51 Comisiones Municipales, la Comisión dará aviso oportuno de la fecha, lugar y hora de celebración de cada una, a los Comités Estatales de los partidos políticos con acreditación o registro ante ésta.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 84.
 
 El proceso electoral comprende del día 1-primero de noviembre del año anterior a la elección, hasta los cómputos y declaraciones que realicen la Comisión y las Comisiones Municipales o las resoluciones que, en su caso, emita el Tribunal, una vez que causen ejecutoria.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 85.
 
-Para el desarrollo de las actividades de las Comisiones Municipales, el horario de oficina será de las nueve a las dieciocho horas, y son días hábiles todos los del año, a excepción del sábado y domingo, y aquellos que las leyes laborales declaren festivos, o cuando de hecho se suspendan las labores porque así lo determine la Comisión.
+Para el desarrollo de las actividades de las Comisiones Municipales, son días hábiles todos los del año, a excepción de sábado y domingo, y aquéllos que las leyes laborales declaren festivos, o cuando de hecho se suspendan las labores porque así lo determine la Comisión. Para el caso de las fechas límite que la Ley establezca durante el proceso electoral, todos los días y horas son hábiles, y los plazos se computarán de momento a momento, por lo que la Comisión Municipal mantendrá guardias permanentes.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+###### Artículo 85 Bis.
+
+El horario de oficina de la Comisión Municipal será de lunes a viernes de las nueve a las dieciocho horas. El día de la elección y aquellos días que así lo determine la Comisión o la Comisión Municipal, el personal de ésta se presentará a cumplir con sus labores y tareas que les hayan sido encomendadas.
+
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 86.
 
 Las Comisiones Municipales elaborarán el calendario y programa de trabajo para el desempeño de las obligaciones que les impone la Ley, este Reglamento y las disposiciones dictadas por la Comisión, y remitirán una copia del mismo a ésta, asimismo, deberán informar periódicamente del cumplimiento de los objetivos planteados.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 87.
 
 Las Comisiones Municipales, por conducto de su Presidente, podrán citar a reuniones de trabajo entre los Comisionados Municipales de manera separada o en forma conjunta con los representantes de los partidos políticos acreditados ante la misma, con el propósito de tratar los asuntos que estimen necesarios.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+###### Artículo 87 Bis.
+
+Los partidos políticos tendrán por acreditados a sus representantes propietarios y suplentes ante las Comisiones Municipales, mediante escrito dirigido a la Comisión o la Comisión Municipal, las cuales al recibirlo dejaran copia en su poder, y el original se devolverá con el sello del organismo que realiza el registro, la hora y fecha en que se lleva a cabo el mismo y la firma del funcionario autorizado para recibirlo. La acreditación de los representantes surtirá efectos desde el momento de su recepción.
+
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 88.
 
 Cada Comisión Municipal será responsable e informará a la Comisión del estado inicial y final, de los bienes muebles e inmuebles que se utilizaron para el desempeño de sus funciones; así como la constante vigilancia y conservación física de los equipamientos y de las instalaciones que se les hayan designado como sede de la Comisión Municipal para el cumplimiento de sus actividades.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 89.
 
 La Comisión Municipal que tenga conocimiento de infracciones a la Ley, lo comunicará de inmediato a la Comisión.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 90.
 
 De conformidad con lo establecido en el artículo 104 fracción X y 121 segundo párrafo de la Ley, con apoyo y auxilio del departamento de Comunicación Social de la Coordinación Técnica, las Comisiones Municipales organizarán un debate entre los candidatos a Presidente Municipal, conforme a los lineamientos o bases que establezca para tal efecto la Comisión.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 31 DE MARZO DE 2003)
 
 ###### Artículo 91.
 
@@ -1137,9 +1235,11 @@ Las Comisiones Municipales para el desempeño de sus funciones contarán con la 
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE MARZO DE 2003)</small>
 
-### CAPITULO UNICO. DE LA SUSTANCIACION Y COMPETENCIA
+### CAPÍTULO SEGUNDO. DE LAS SESIONES
 
-#### SECCIÓN TERCERA. DEL QUÓRUM
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
+
+#### SECCIÓN PRIMERA. ASPECTOS BÁSICOS
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1171,17 +1271,23 @@ Las sesiones podrán suspenderse por grave alteración del orden, de conformidad
 
 Las sesiones de la Comisión Municipal, por su carácter, serán ordinarias o extraordinarias, y cualquiera de éstas, podrán ser constituidas y declararse en sesión permanente por mayoría de votos de los Comisionados Municipales presentes con derecho a ello, cuando la naturaleza de los asuntos a tratar así lo ameriten. Las sesiones podrán tener los recesos que se acuerden y se concluirá al agotar los trabajos correspondientes. El día de la elección, la Comisión Municipal, se instalará en sesión permanente a partir de las siete horas, de conformidad con lo establecido por el artículo 174 de la Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2003)</small>
+
+###### Artículo 96 Bis.
+
+Durante las sesiones permanentes no podrá darse cuenta ni trámite a asunto alguno que no esté comprendido en el orden del día. Si se presentase alguno con carácter de urgente, el Presidente de la Comisión Municipal someterá al voto de ésta, la consideración de tratarlo dentro de la sesión permanente o en una sesión posterior.
+
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 97.
 
 Son sesiones ordinarias las que se celebren durante los períodos y en las fechas que fije el calendario de sesiones de la Comisión Municipal, conforme a lo establecido por el artículo 98 de la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 98.
 
-Son sesiones extraordinarias las que se celebren fuera de los períodos y fechas de las ordinarias, para tratar algún asunto o asuntos cuando así lo determine la Comisión Municipal, y serán convocadas por el Presidente de la Comisión Municipal.
+Son sesiones extraordinarias las que se celebren fuera de los períodos y fechas de las ordinarias, para tratar algún asunto o asuntos en forma exclusiva, cuando así lo determine la Comisión Municipal, y serán convocadas por el Presidente de la Comisión Municipal.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1203,7 +1309,7 @@ Le corresponde al Secretario de cada Comisión Municipal, llevar el registro de 
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN CUARTA. DEL DESARROLLO DE LAS SESIONES
+#### SECCIÓN SEGUNDA. DEL ORDEN DEL DIA
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1223,9 +1329,17 @@ V. Lectura de los acuerdos de la Comisión;
 
 VI. Correspondencia recibida y despachada;
 
-VII. Peticiones formuladas por partidos políticos y ciudadanos; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2003)</small>
 
-VIII. Asuntos generales.
+VII. Peticiones o denuncias formuladas por partidos políticos y ciudadanos;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2003)</small>
+
+VIII. Seguimiento de asuntos pendientes de sesiones anteriores; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2003)</small>
+
+IX. Asuntos generales.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1243,7 +1357,7 @@ IV. Asunto o asuntos a ventilarse.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN QUINTA. DE LAS VOTACIONES
+#### SECCIÓN TERCERA. DEL QUÓRUM
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1259,7 +1373,7 @@ Si llegada la hora prevista para la sesión no se reúne el quórum, se dará un
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN SEXTA. DE LAS ACTAS DE LAS SESIONES
+#### SECCIÓN CUARTA. DEL DESARROLLO DE LAS SESIONES
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1267,11 +1381,11 @@ Si llegada la hora prevista para la sesión no se reúne el quórum, se dará un
 
 Los Comisionados Municipales y representantes de los partidos políticos acreditados que asistan a las sesiones, firmarán una lista de asistencia que será elaborada por el Secretario de la Comisión Municipal.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 106.
 
-Las sesiones de la Comisión se iniciarán a la hora para la cual fueron convocadas. Las sesiones concluirán a más tardar dos horas después de iniciadas y podrán prolongarse o suspenderse por acuerdo de la Comisión Municipal, a solicitud del Presidente de la Comisión Municipal o de algún otro Comisionado Municipal. Durante las sesiones podrá haber receso cuando así lo consideren oportuno, para concretar un acuerdo o cuando algún asunto así lo requiera. La duración del receso será determinado por el Presidente de la Comisión Municipal.
+Las sesiones de las Comisiones Municipales se iniciarán a la hora para la cual fueron convocadas. Éstas concluirán a más tardar dos horas después de iniciadas y podrán prolongarse o suspenderse por acuerdo de la Comisión Municipal, a solicitud del Presidente de la Comisión Municipal o de algún otro Comisionado Municipal. Durante las sesiones podrá haber receso cuando así lo consideren oportuno, para concretar un acuerdo o cuando algún asunto así lo requiera. La duración del receso será determinado por el Presidente de la Comisión Municipal.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1285,13 +1399,11 @@ Al inicio de las sesiones el Presidente pasará lista de presentes; certificando
 
 El Presidente de la Comisión Municipal conducirá el desarrollo de las sesiones y las discusiones que se presenten en éstas, atendiendo a los principios rectores de la función electoral, que son: la equidad, independencia, imparcialidad, legalidad, objetividad y certeza.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
 ###### Artículo 109.
 
-Con la finalidad de no interrumpir la solemnidad de las sesiones durante su desarrollo, los Comisionados Municipales y los representantes de partidos políticos acreditados, se abstendrán de hacer uso de teléfonos celulares y los demás aparatos que sirvan como medios de comunicación, de conformidad con lo previsto en el artículo 67 fracción I de la Ley.
+(DEROGADO, P.O. 31 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 110.
 
@@ -1299,17 +1411,23 @@ Las sesiones se llevarán a cabo de la siguiente forma:
 
 I. No podrán ser tratados en asuntos generales las cuestiones que deban ser incluidas en alguno de los otros puntos del orden del día; en caso de controversia se atenderá a la decisión del Presidente de la Comisión Municipal;
 
-II. Las discusiones en sesión se iniciarán con el planteamiento expuesto por alguno de los Comisionados Municipales;
+II. El Presidente de la Comisión Municipal fijará el turno de quienes soliciten el uso de la palabra para discutir el asunto, con el fin de que todos tengan la oportunidad de ser escuchados;
 
-III. El Presidente de la Comisión Municipal fijará el turno de quienes soliciten el uso de la palabra para discutir el asunto, con el fin de que todos tengan la oportunidad de ser escuchados;
+III. Las intervenciones en las discusiones de las sesiones, se pronunciarán personalmente y de viva voz, en un tiempo máximo de 3-tres minutos; el tiempo de cada intervención podrá ser prolongado a consideración del Presidente de la Comisión Municipal;
 
-IV. Las intervenciones en las discusiones de las sesiones, se pronunciarán personalmente y de viva voz, en un tiempo a consideración del Presidente de la Comisión Municipal;
+IV. Si en el curso de las discusiones alguno de los oradores hiciese alusiones sobre la persona o la conducta de algún Comisionado Municipal o representante de partido político, éste podrá solicitar al Presidente de la Comisión Municipal hacer uso de la palabra por un tiempo no superior a 2-dos minutos, para dar contestación a las alusiones formuladas; en estos casos el Presidente de la Comisión Municipal accederá a la petición, inmediatamente después de que haya concluido el turno del orador que profirió las alusiones;
 
-V. Agotadas las intervenciones y concluidas las replicas, el Presidente de la Comisión Municipal llamará a votación; y
+V. Ningún Comisionado Municipal o representante de partido político podrá ser interrumpido cuando se encuentre en uso de la palabra, salvo por el Presidente de la Comisión Municipal para advertirle que se ha agotado el tiempo, exhortándole a que se atenga al tema a discusión; llamarlo al orden cuando ofenda a la Comisión Municipal o a los representantes de los partidos políticos, o para preguntarle si acepta contestar alguna interpelación que desee formularle otro Comisionado Municipal o algún representante de partido políticos (sic). Las preguntas que se formulen a los Comisionados Municipales que estén en el uso de la palabra, por cualquier integrante de la sesión, con el propósito de esclarecer la intervención, deberán ser solicitadas al Presidente de la Comisión Municipal;
 
-VI. En cualquier estado de la discusión, cualquier Comisionado Municipal o representante de partido político acreditado, podrá pedir la observancia de la Ley, formulando una moción de orden. Al efecto deberá citar las disposiciones normativas cuya aplicación reclama. Escuchada la moción, el Presidente de la Comisión Municipal resolverá lo conducente.
+VI. Agotadas las intervenciones y concluidas las réplicas, el Presidente de la Comisión Municipal llamará a votación; y
+
+VII. En todo momento de la discusión, cualquier Comisionado Municipal o representante de partido político acreditado, podrá pedir la observancia de la Ley, formulando una moción de orden; al efecto deberá citar las disposiciones normativas cuya aplicación reclama. Escuchada la moción, el Presidente de la Comisión Municipal resolverá lo conducente.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
+
+#### SECCIÓN QUINTA. DE LAS VOTACIONES
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 111.
 
@@ -1321,13 +1439,17 @@ De conformidad por lo establecido en el artículo 100 de la Ley, los asuntos que
 
 La votación será de la siguiente manera: El Presidente de la Comisión Municipal, una vez agotadas las discusiones del asunto correspondiente someterá a la consideración de los Comisionados Municipales para su aprobación, continuando con el nombre del asunto tratado, seguido de la manifestación de los que aprueben el asunto, posteriormente la manifestación de los que están en contra de la aprobación del asunto, por último, los que se abstienen de votar; en caso de empate en la votación, el Presidente de la Comisión Municipal tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2003)</small>
 
 ###### Artículo 113.
 
-Los acuerdos de la Comisión Municipal surten plenos efectos desde el momento en que son aprobados conforme a lo establecido en los artículos precedentes.
+Los acuerdos de la Comisión Municipal surten plenos efectos desde el momento en que son aprobados conforme a lo establecido en los artículos precedentes; para los medios de impugnación establecidos en la Ley, surtirán efectos a partir de su notificación.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2003)</small>
+
+#### SECCIÓN SEXTA. DE LAS ACTAS DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 114.
 
@@ -1369,7 +1491,7 @@ Lic. Gilberto Rogelio Villarreal de la Garza
 
 Comisionado Secretario de la Comisión Estatal Electoral del Estado de Nuevo León.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE MARZO DE 2003.
 
@@ -1388,3 +1510,7 @@ Se ordena su publicación completa en el Periódico Oficial del Estado de Nuevo 
 ###### ARTÍCULO CUARTO.
 
 Se reforma el Reglamento de fecha 1-primero de mayo de 1997-mil novecientos noventa y siete, publicado en el Periódico Oficial del Estado de Nuevo León, en fecha 7-siete de mayo de 1997-mil novecientos noventa y siete. El presente Reglamento se propone por conducto de la Coordinadora Técnica Electoral de la Comisión Estatal Electoral, Lic. Mariana Téllez Yáñez, al Pleno de este organismo para su revisión y aprobación en su caso. Hecho lo anterior, se aprueba por unanimidad, firmando para su debida constancia los Comisionados Ciudadanos Lic. José Roble Flores Fernández, en su carácter de Presidente; Ing. Juan Francisco Llaguno Farías, en su carácter de Secretario; Q.F.B. Célica Luz Hinojosa Caballero, en su carácter de Primer Vocal; Lic. Gerardo Alejandro Maiz García, en su carácter de Segundo Vocal; y, Dr. Pablo A. Longoria Treviño, que fungió como Tercer Vocal; que integran el quórum de Ley de la Sesión Extraordinaria de la Comisión Estatal Electoral, en la ciudad de Monterrey, Nuevo León, a 24-veinticuatro de febrero de 2003-dos mil tres.- Conste.
+
+P.O. 31 DE MARZO DE 2003.
+
+Artículo Único.- Estas reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
