@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1941-01-16"
+last_updated: "1941-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1941.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -7533,7 +7533,7 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 ### CAPITULO VI.
 
-Del Testamento Militar.
+Del Testamento MIlitar.
 
 ###### Artículo 1448.
 
@@ -11667,9 +11667,11 @@ Hay arrendamiento cuanto las dos partes contratantes se obligan recíprocamente,
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación, de quince para las destinadas al comercio, y de veinte para las fincas destinadas para el ejercicio de una industria.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1941)</small>
+
 ###### Artículo 2281.
 
-La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
+La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada. Cuando se trate de fincas urbanas el precio del arrendamiento no podrá exceder del equivalente a uno por ciento sobre el valor fiscal de la finca aumentando un 10%.
 
 ###### Artículo 2282.
 
@@ -12091,11 +12093,15 @@ VIII.- Por evicción de la cosa en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículo 2360 y 2361.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1941)</small>
+
 ###### Artículo 2367.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido un alza después de que se celebró el contrato de arrendamiento.
+Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas a que se le prorrogue hasta por un año este contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido una alza después de que se celebró el contrato de arrendamiento.
 
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+
+Se entiende que el inquilino está al corriente en el pago de sus rentas aún cuando esté adeudando un mes, si tiene cuando menos un año de ocupación de la finca, y en caso de ser mayor el término de ocupación, aún cuando adeude dos meses, se entiende siempre al corriente en el pago de sus rentas.
 
 ###### Artículo 2368.
 
@@ -15166,3 +15172,7 @@ Lic. ALFREDO CRISTERNA.
 P.O. 16 DE ENERO DE 1941.
 
 Unico.- Este Decreto comenzará a surtir sus efectos a partir del primero de diciembre del año de 1940, derogando las disposiciones que se le opongan.
+
+P.O. 29 DE MAYO DE 1941.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
