@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1978-10-28"
+last_updated: "1979-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -203,7 +203,7 @@ El pago del impuesto deberá hacerse por el o los propietarios del predio o repr
 
 ###### ARTICULO 16o.
 
-Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estarán a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
+Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estará a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
 
 ###### ARTICULO 17o.
 
@@ -2671,7 +2671,7 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el ............................................15%
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el ............................................ 15%
 
 VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
@@ -2727,7 +2727,7 @@ VI.- En los casos no previstos expresamente en el Artículo anterior, los derech
 
 ###### ARTICULO 268o.
 
-No se causarán los derechos a los que se refiere el Artículo 266.
+No se causarán los derechos a los que se refiere el Artículo 266o.
 
 a).- En los casos comprendidos en las fracciones II y III del Artículo 265o.
 
@@ -2743,7 +2743,7 @@ La expedición de Títulos Profesionales, autorización para ejercer la profesi�
 
 TARIFA:
 
-VEASE TABLA ANEXA
+VEASE TABBLA ANEXA
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
@@ -2765,7 +2765,7 @@ VEASE TABLA ANEXA:
 
 ###### ARTICULO 272o.
 
-Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271o. adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
+Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271 adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
 
 ###### ARTICULO 273o.
 
@@ -2789,13 +2789,15 @@ VEASE TABLA ANEXA
 
 ### CAPITULO VI. SERVICIOS DE TRANSITO
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 276o.
 
 Los derechos por examen e inspección sanitaria se causarán inicial y anualmente conforme a la siguiente
 
-VEASE TABLA ANEXA
-
 T A R I F A:
+
+VEASE TABLA ANEXA
 
 ###### ARTICULO 277o.
 
@@ -2819,7 +2821,7 @@ Los derechos por concesiones de licencias para prácticas de medicina, obstetric
 
 ###### ARTICULO 281o.
 
-El Ejecutivo del Estado, por conducto de la Tesorería General del Estado y oficinas Colectoras, hará efectivos los derechos por servicios que presta la Inspección General de Policía y Tránsito por circulación de vehículos en el Estado de Tamaulipas, conforme a la siguiente:
+El Ejecutivo del Estado, por conducto de la Tesorería General del Estado y Oficinas Colectoras, hará efectivos los derechos por servicios que presta la Inspección General de Policía y Tránsito por circulación de vehículos en el Estado de Tamaulipas, conforme a la siguiente:
 
 TARIFA:
 
@@ -2980,3 +2982,13 @@ Continúan en vigor los Decretos 220 publicado en el Periódico Oficial del Esta
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 1979
+
+###### ARTICULO PRIMERO.
+
+Continúa en vigor el Decreto 220 publicado en el Periódico Oficial del Estado No. 106 del 29 de diciembre de mil novecientos setenta y seis, en cuanto no se oponga a lo estatuido por el presente decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
