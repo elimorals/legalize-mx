@@ -4,7 +4,7 @@ identifier: "ZAC-ley-genenral-de-coordinacion-del-estado-de-zacatecas-y-8216"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "1988-01-09"
+last_updated: "1989-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY GENERAL DE COORDINACION DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Periódico Oficial el 4 de febrero de 1984.
 
@@ -123,19 +123,23 @@ Los municipios recibirán íntegramente el Fondo de Fomento Municipal, así como
 
 Con la suma de los porcentajes a que se refieren los artículos décimo segundo y décimo tercero de esta Ley, se integrará el Fondo Único de Participaciones Federales a los Municipios.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO DECIMO QUINTO.
 
-La distribución a los municipios del Fondo Unico de Participaciones Federales a los Municipios se hará conforme a las siguientes reglas:
+La distribución a los municipios del fondo único de participaciones a los municipios se hará conforme a las siguientes reglas:
 
-I. El 60% conforme al porcentaje de la recaudación de ingresos federales coordinados, obtenida en e l municipios respecto de la total del estado, durante el año inmediato anterior a aquél para el que se haga el cálculo, proveniente de los contribuyentes menores, así como de las personas que enajenen bienes o presten servicios en forma accidental.
+I. La cantidad que corresponde a cada municipio del 80% del Fondo Unico de Participaciones a los Municipios, se distribuirá conforme a lo siguiente:
 
-II. El 10% conforme al porcentaje de la población, que registre el municipio, respecto de la total del estado, de acuerdo a la última información de que disponga el Consejo Nacional de Población o el Censo General de Población y Vivienda.
+a).- El coeficiente de participación del fondo único de participación a los municipios del año inmediato anterior para el que se efectúa el cálculo se multiplica por la recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos del municipio en el año inmediato anterior; el resultado se dividirá entre la recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos del municipio del segundo año anterior.
 
-III.- El 10% conforme al porcentaje de localidades que registre el municipio, respecto de las totales del Estado, en base a la última información de que disponga el Consejo Nacional de Población o el Censo General de Población y Vivienda.
+b).- La recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos de todos los municipios en el segundo año anterior para el que se efectúa el cálculo, se dividirá entre la recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos de todos los municipios en el año inmediato anterior.
 
-IV. El 20% en función a las características que cada Municipio represente dentro del Plan Estatal de Desarrollo para el ejercicio de que se trate, cuya distribución será autorizada anualmente por la Legislatura en el Presupuesto de Egresos del Estado.
+c).- Se multiplicarán entre sí los cocientes obtenidos conforme a los incisos a) y b).
+
+Se sumarán los resultados que se obtengan de acuerdo con el inciso c) calculados para todos los municipios y se determinará el coeficiente de participación que corresponda a cada municipio del 80% del Fondo Unico de Participaciones a los Municipios.
+
+II.- El 20% en función a las características que cada municipio represente dentro del Plan Estatal de Desarrollo para el ejercicio de que se trate, cuya distribución será autorizada anualmente por la Legislatura en el Presupuesto de Egresos del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
 
@@ -215,6 +219,10 @@ LIC. RAUL RODRIGUEZ SANTOYO
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 9 DE ENERO DE 1988
+P.O. 8 DE ENERO DE 1988
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1989.
+
+UNICO.- La fórmula del artículo Décimo Quinto para el cálculo de la distribución a los municipios del Fondo Unico de Participación a los Municipios, entrará en vigor a partir del primero de enero de 1991.
