@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "1985-08-24"
+last_updated: "1989-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 1985.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 1989.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
@@ -53,7 +53,9 @@ Esta Ley tiene por objeto reglamentar el Título Sexto de la Constitución Polí
 
 Son sujetos de esta Ley:
 
-I.- Los servidores públicos, entendiéndose como tales, a los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Funcionarios y Empleados de los Poderes Legislativo, Ejecutivo y Judicial y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes del Estado; y
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+I.- Los servidores públicos, entendiéndose como tales, a los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Magistrados del Tribunal de lo Contencioso-Administrativo, los funcionarios y empleados de los Poderes Legislativo, Ejecutivo y Judicial y, en general, a toda persona que desempeñe un empleo cargo o comisión de cualquier naturaleza en los Poderes del Estado; y
 
 II.- Todas aquellas personas que manejen o apliquen recursos económicos estatales.
 
@@ -69,13 +71,17 @@ II.- El Tribunal Superior de Justicia del Estado;
 
 III.- La Dirección General de Contraloría del Gobierno del Estado;
 
-IV.- La Tesorería General del Estado;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+IV.- La Secretaría de Finanzas y Planeación;
 
 V.- El Procurador General de Justicia del Estado;
 
 VI.- Las Dependencias del Ejecutivo Estatal;
 
-VII.- El Tribunal Fiscal del Estado;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+VII.- El Tribunal de lo Contencioso Administrativo del Estado;
 
 VIII.- Los Tribunales de Trabajo, en los términos de la legislación respectiva; y
 
@@ -595,7 +601,9 @@ Los sujetos sancionados podrán interponer los siguientes recursos:
 
 I.- El de revocación ante la autoridad que dictó la resolución; y
 
-II.- El Juicio de Nulidad ante el Tribunal Fiscal del Estado.
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+II.- Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 Ambos recursos deberán interponerse, ante quien deba conocer de ellos, dentro de los quince días naturales siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
 
@@ -627,9 +635,11 @@ e).- En la audiencia a que se refiere el inciso anterior, la autoridad emitirá 
 
 II.- El Juicio de Nulidad, seguirá el trámite que tiene señalado la Ley de la materia.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
+
 ###### ARTICULO 73.
 
-La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal Fiscal del Estado, mediante el juicio de nulidad.
+La resolución que se dicte en el Recurso de Revocación será también impugnable mediante el Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ###### ARTICULO 74.
 
@@ -667,17 +677,17 @@ Las facultades del superior jerárquico y de la Dirección General de Contralor�
 
 REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 78.
 
-La Dirección General de Contraloría del Gobierno, con apoyo de la Tesorería General del Estado, llevará el registro de situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+La Procuraduría General de Justicia con apoyo de la Secretaría de Finanzas y Planeación del Estado, llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, PRIMER PARRAFO G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 79.
 
-Tienen la obligación de presentar declaración anual de situación patrimonial ante la Dirección General de Contraloría de Gobierno, bajo protesta de decir verdad:
+Tienen la obligación de presentar declaración anual de situación patrimonial ante la Procuraduría General de Justicia, bajo protesta de decir verdad:
 
 > <small>(REFORMADA, G.O. 24 DE AGOSTO DE 1985)</small>
 
@@ -691,15 +701,17 @@ IV.- En la Procuraduría General de Justicia del Estado: Todos los funcionarios,
 
 V.- En el Poder Judicial del Estado: Los Magistrados y los Jueces de Primera Instancia; así como, el Secretario del Tribunal y los Secretarios de las Salas y de los Juzgados de Primera Instancia;
 
-VI.- En el Tribunal Fiscal del Estado: El Magistrado y los Secretarios;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 1989)</small>
+
+VI.- En el Tribunal de lo Contencioso Administrativo del Estado, los Magistrados y Secretarios;
 
 VII.- En los Tribunales del Trabajo: Los miembros de Junta y Secretarios; y
 
 VIII.- En la Tesorería General del Estado: Todos los servidores públicos de confianza.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
-Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen la Legislatura, la Dirección General de Contraloría de Gobierno y el Presidente del Tribunal Superior de Justicia, mediante disposiciones generales debidamente motivadas y fundadas.
+Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen la Legislatura, la Procuraduría General de Justicia y el Presidente del Tribunal Superior de Justicia, mediante disposiciones generales debidamente motivadas y fundadas.
 
 ###### ARTICULO 80.
 
@@ -711,15 +723,15 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada, en su caso, de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
-Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Dirección General de Contraloría de Gobierno. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o el Magistrado del Tribunal Fiscal, se requerirá además, la declaración de la Legislatura del Estado, y en ese caso se considerará suspendido de su cargo hasta que cumplan con la declaración.
+Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo previa declaración de la Procuraduría General de Justicia. Lo mismo ocurrirá cuando se emita la declaración contemplada en la fracción III. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, se requerirá además la declaración de la Legislatura del Estado, y en ese caso se considerará suspendido de su cargo hasta que cumpla con la declaración.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 81.
 
-La Dirección General de Contraloría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Procuraduría General de Justicia expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indiquen lo que es obligatorio declarar.
 
 ###### ARTICULO 82.
 
@@ -727,31 +739,31 @@ En la declaración inicial y final de situación patrimonial se manifestarán lo
 
 En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
-Tratándose de bienes muebles, valores, inversiones o bienes preciosos, la Dirección General de Contraloría decidirá mediante acuerdo general, las características que deba tener la declaración.
+Tratándose de bienes muebles, valores, inversiones o bienes preciosos, la Procuraduría General de Justicia decidirá mediante acuerdo general, las características que deba tener la declaración.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 83.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Dirección General de Contraloría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Dirección General de Contraloría hará ante ésta la solicitud correspondiente. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia y el Magistrado del Tribunal Fiscal, la Dirección General de Contraloría lo comunicará previamente a la Legislatura del Estado para que acuerde lo procedente, en todo caso, deberá participar también un auditor de la Legislatura.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Procuraduría General de Justicia podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Procuraduría hará ante ésta la solicitud correspondiente. Cuando se trate de Diputados, Magistrados del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, la Procuraduría lo comunicará previamente a la Legislatura del Estado para que acuerde lo procedente, en todo caso, deberá participar también un auditor de la Legislatura.
 
 Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que en derecho le convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 84.
 
-El servidor público a quien se practique la visita de investigación o auditoría podrá interponer inconformidad ante la Dirección General de Contraloría de Gobierno contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquéllas, en la que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+El servidor público a quien se practique la visita de investigación o auditoría podrá interponer inconformidad ante la Procuraduría General de Justicia contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquéllas, en la que expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar a rendir dentro de los treinta días siguientes a la presentación del recurso.
 
 Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar sin que estas circunstancias afecten el valor probatorio que en su caso, posea el documento.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 85.
 
-Cuando se trate de los servidores públicos indicados en las fracciones I y V del artículo 79 de esta Ley, la Dirección General de Contraloría de Gobierno enviará original al Poder respectivo de todas las declaraciones de situación patrimonial que presenten dichos servidores, conservando copia en el registro correspondiente.
+Cuando se trate de los servidores públicos indicados en las fracciones I y V del artículo 79 de esta Ley, la Procuraduría General de Justicia enviará original al Poder respectivo de todas las declaraciones de situación patrimonial que presenten dichos servidores, conservando copia en el registro correspondiente.
 
 ###### ARTICULO 86.
 
@@ -767,17 +779,17 @@ En ningún caso se podrán recibir de dichas personas títulos, valores, bienes 
 
 Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en términos de la legislación penal.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 88.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Dirección General de Contraloría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Procuraduría General de Justicia determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 1989)</small>
 
 ###### ARTICULO 89.
 
-La Dirección General de Contraloría hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento substancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo.
+Cuando el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justifique la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo, el expediente se turnará al Ministerio Público, para que en su caso, inicie la Averiguación Previa correspondiente.
 
 TRANSITORIOS:
 
@@ -820,3 +832,9 @@ La presente Ley entrará en vigor tres días después de su publicación en la '
 ###### ARTICULO SEGUNDO.
 
 La Subsecretaría de Gobierno del Estado dispondrá de un período de noventa días a partir de la vigencia de esta Ley, para entregar a la Dirección General de Contraloría del Gobierno del Estado la documentación y demás bienes que aquella tenga, con motivo de la aplicación de la Ley número treinta y seis de Responsabilidades de los Servidores Públicos para el Estado.
+
+G.O. 14 DE FEBRERO DE 1989.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor a partir del día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
