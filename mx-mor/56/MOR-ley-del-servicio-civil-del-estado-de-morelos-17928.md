@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2002-01-11"
+last_updated: "2005-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -725,57 +725,105 @@ EL H. CONGRESO DEL ESTADO DEBERÁ EXPEDIR EL DECRETO CORRESPONDIENTE A PARTIR DE
 
 La pensión por jubilación se otorgará a los trabajadores que hayan prestado sus servicios en cualquiera de los tres Poderes del Estado y/o de los Municipios, de conformidad con las siguientes disposiciones:
 
-I.- La pensión por jubilación solicitada por los trabajadores en general, se determinará de acuerdo con los porcentajes de la tabla siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2005)</small>
 
-a).- Con 30 años de servicios 100%;
+I.- La pensión por jubilación solicitada por los trabajadores, se determinará de acuerdo con los porcentajes de la tabla siguiente:
 
-b).- Con 29 años de servicios 95%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-c).- Con 28 años de servicios 90%;
+a).- Con 30 años de servicio 100%;
 
-d).- Con 27 años de servicios 85%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-e).- Con 26 años de servicios 80%;
+b).- Con 29 años de servicio 95%;
 
-f).- Con 25 años de servicios 75%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-g).- Con 24 años de servicios 70%;
+c).- Con 28 años de servicio 90%;
 
-h).- Con 23 años de servicios 65%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-i).- Con 22 años de servicios 60%;
+d).- Con 27 años de servicio 85%;
 
-j).- Con 21 años de servicios 55%; y
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-k).- Con 20 años de servicios 50%.
+e).- Con 26 años de servicio 80%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+f).- Con 25 años de servicio 75%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+g).- Con 24 años de servicio 70%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+h).- Con 23 años de servicio 65%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+i).- Con 22 años de servicio 60%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+j).- Con 21 años de servicio 55%; y
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+k).- Con 20 años de servicio 50%.
 
 Para los efectos de disfrutar ésta prestación, la antigüedad puede ser interrumpida o ininterrumpida.
 
 Para recibir ésta pensión no se requiere edad determinada.
 
-II.- Las madres que trabajan tendrán derecho a su jubilación de conformidad con el siguiente orden:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2005)</small>
 
-a) Con 28 años de servicios 100%;
+II.- Las trabajadoras tendrán derecho a su jubilación de conformidad con el siguiente orden:
 
-b) Con 27 años de servicios 95%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-c) Con 26 años de servicios 90%;
+a) Con 28 años de servicio 100%;
 
-d) Con 25 años de servicios 85%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-e) Con 24 años de servicios 80%;
+b) Con 27 años de servicio 95%;
 
-f) Con 23 años de servicios 75%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-g) Con 22 años de servicios 70%;
+c) Con 26 años de servicio 90%;
 
-h) Con 21 años de servicios 65%;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-i) Con 20 años de servicios 60%;
+d) Con 25 años de servicio 85%;
 
-j) Con 19 años de servicios 55%; y
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
-k) Con 18 años de servicios 50%.
+e) Con 24 años de servicio 80%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+f) Con 23 años de servicio 75%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+g) Con 22 años de servicio 70%,
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+h) Con 21 años de servicio 65%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+i) Con 20 años de servicio 60%;
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+j) Con 19 años de servicio 55%; y
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+
+k) Con 18 años de servicio 50%.
 
 Para efecto de disfrutar esta prestación, la antigüedad se entiende como el tiempo laborado en forma efectiva, ininterrumpidamente o en partes.
 
@@ -1402,3 +1450,9 @@ TERCERO.- Las solicitudes de pensión por invalidez, formuladas por los trabajad
 CUARTO.- El poder o ayuntamiento de que se trate, dentro de los 30 días siguientes, a partir de la fecha de la publicación, deberá dar a conocer y proporcionar al Congreso del Estado, los listados de los médicos legalmente autorizados por éstos.
 
 QUINTO.- Con el presente addéndum se deja sin efecto la redacción del decreto número trescientos cincuenta y cinco enviado para su publicación al Poder Ejecutivo del Estado, en fecha 11 de diciembre del año 2001.
+
+P.O. 6 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos a que se refiere el artículo 47 de la Constitución Política del Estado Libre y Soberano de Morelos.
