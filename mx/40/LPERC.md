@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2004-06-15"
+last_updated: "2004-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -78,13 +78,13 @@ II.- Orden Mexicana del Aguila Azteca;
 
 III.- de Ciencias y Artes;
 
-> <small>(REFORMADA, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
 
-IV.- de Demografía.
+III- Bis.- De Demografía.
 
-> <small>(REFORMADA, D.O.F. 7 DE MARZO DE 2003)</small>
+IV.- de Deportes;
 
-V.- de Deportes;
+V.- (DEROGADA, D.O.F. 23 DE MAYO DE 2002)
 
 VI.- de Mérito Cívico;
 
@@ -104,13 +104,9 @@ XI.- De Administración Pública.
 
 XI Bis.- Al Mérito Forestal.
 
-> <small>(ADICIONADA, D.O.F. 7 DE MARZO DE 2003)</small>
-
-XII.- de Protección Civil.
-
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-XIII.- De Trabajo y Cultura Indígena.
+XIII (sic).- De Trabajo y Cultura Indígena.
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -124,7 +120,9 @@ XV.- De Preservación del Medio Ambiente.
 
 XVI.- De Seguridad Pública.
 
-La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un sólo concepto si éste no se divide en campos.
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+
+La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de Deportes, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su actuación y trayectoria deportiva.
 
 ###### ARTICULO 7.
 
@@ -504,21 +502,47 @@ Este premio será entregado en ceremonia pública y solemne por el Presidente de
 
 El Premio Nacional de Deportes se concederá en dos campos:
 
-I.- La actuación destacada en alguna rama del deporte, y
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+
+I.- La actuación y trayectoria destacada en alguna modalidad deportiva dividida en dos categorías:
+
+1.- Deportista, y
+
+2.- Entrenador.
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2004)</small>
 
 II.- El fomento, la protección o el impulso de la práctica de los deportes.
+
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO XI. Premio Nacional de Trabajo
 
 ###### ARTICULO 57.
 
-Quedan excluidos de los premios de uno y otro campo quienes realicen sus actividades con carácter profesional o por lucro, sin que tenga esta última naturaleza el pago de cuotas simplemente compensatorias de servicios. En consecuencia, en el primer campo merecerán estos premios individuos, equipos o grupos que por mera afición practiquen los deportes, y, en el segundo campo, individuos o personas morales que no tengan carácter de empresarios en los deportes.
+El Premio Nacional de Deportes se otorgará en los campos a los que se refiere el artículo anterior, de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+I.- En el campo a que se refiere la fracción I del artículo anterior:
+
+1.- Tratándose de Deportistas se podrán otorgar hasta cuatro premios, en las siguientes modalidades:
+
+a) En el deporte no profesional;
+
+b) En el deporte profesional, y
+
+c) En el deporte paralímpico.
+
+2.- Tratándose de Entrenadores, se otorgará un premio por trayectoria destacada en alguna modalidad deportiva.
+
+II.- En el campo al que se refiere la fracción II del artículo anterior, se otorgará el Premio Nacional de Deportes a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
+
+El Premio Nacional de Deportes en la categoría relativa a la actuación y trayectoria destacada en el deporte profesional y en el caso del campo a que se refiere la fracción II de este artículo, así como aquel que se otorgue por segunda o más ocasiones, no se acompañará de numerario.
+
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 58.
 
-El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Éste se integrará, además, por los presidentes de la Confederación Deportiva Mexicana, del Comité Olímpico Mexicano y por el Director del Instituto Nacional de la Juventud Mexicana.
+El premio se tramitará ante la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Éste se integrará, además, por los titulares de los siguientes organismos: Confederación Deportiva Mexicana, A.C., Comité Olímpico Mexicano, A.C., Comisión Nacional de Cultura Física y Deporte así como un representante de la Cámara de Diputados y un representante de la Cámara de Senadores.
 
 > <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
@@ -530,21 +554,29 @@ El premio se tramitará en la Secretaría de Educación Pública, cuyo titular p
 
 Los premios consistirán en medalla de primera clase. Si el premio se otorga a un grupo o equipo de deportistas el conjunto recibirá un diploma y cada uno de los individuos medalla. Si son varias las personas premiadas, las preseas consistirán en insignias.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 60.
 
-Por cada año habrá una asignación de premios, que podrán ser hasta cinco en el primer campo; pero sólo uno en el segundo. Si ocurrieren vacantes de premio, así lo declarará el Consejo de Premiación.
+Por cada año habrá una asignación de premios, que podrán ser hasta cinco en el primer campo: cuatro en la categoría de deportista y uno en la categoría de entrenador, pero sólo uno en el segundo campo. Si ocurrieren vacantes de premio, así lo declarará el Consejo de Premiación.
+
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 61.
 
-Estos premios se concederán exclusivamente a candidatos propuestos por federaciones y asociaciones registradas en la Confederación Deportiva Mexicana o por los responsables de la información deportiva difundida por prensa, radio o televisión. Las candidaturas se propondrán al Consejo de Premiación durante el mes de septiembre y hasta el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los 10 días siguientes y a continuación los pondrá en manos del Jurado, que a más tardar el 10 de noviembre deberá haber entregado su dictamen al Consejo.
+Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas ante la Comisión Nacional de Cultura Física y Deporte y reconocidas ante la Confederación Deportiva Mexicana, A.C., o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
+
+Las candidaturas se propondrán al Consejo de Premiación durante el mes de septiembre y a más tardar el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los 10 días siguientes y a continuación los pondrá en manos del Jurado, que a más tardar el 10 de noviembre deberá haber entregado su dictamen al Consejo.
 
 ###### ARTICULO 62.
 
 Habrá un solo Jurado para los dos campos de premios, que de preferencia se integrará con personas que hayan sido premiadas con anterioridad y con representantes de los facultados para proponer candidaturas.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 63.
 
-Los premios se entregarán el 20 de noviembre.
+Los premios se entregarán el 20 de noviembre de cada año, en el marco de los festejos conmemorativos del aniversario de la Revolución Mexicana.
 
 ### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
 
@@ -918,7 +950,7 @@ El Premio Nacional de Trabajo y Cultura Indígena es el reconocimiento que el Es
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 107.
+###### Artículo 107.
 
 Este Premio se otorgará anualmente y consistirá en diploma, medalla y numerario; en el caso de las comunidades que se hagan acreedoras al reconocimiento, éste se integrará por diploma y numerario. El Premio Nacional de Trabajo y Cultura Indígena se otorgará en los siguientes campos:
 
@@ -936,7 +968,7 @@ VI.- Equidad de Género.
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 108.
+###### Artículo 108.
 
 Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Desarrollo Social, un representante de la Secretaría de Educación Pública, un representante de la Cámara de Senadores, un representante de la Cámara de Diputados, el titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el titular del Instituto Nacional de Antropología e Historia y un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas que estará a cargo de la Secretaría Técnica del Consejo de Premiación.
 
@@ -946,37 +978,37 @@ Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Con
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 109.
+###### Artículo 109.
 
 El Premio Nacional de Derechos Humanos es el reconocimiento que la sociedad mexicana confiere, a través del organismo constitucional autónomo de derechos humanos, a las personas que se han destacado en la promoción efectiva y defensa de los derechos fundamentales.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 110.
+###### Artículo 110.
 
 El Premio Nacional de Derechos Humanos consistirá en diploma, medalla y numerario, será entregado anualmente por el Presidente de la República y el titular de la Comisión Nacional de los Derechos Humanos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 111.
+###### Artículo 111.
 
 Para tal efecto, el Premio se tramitará ante el organismo federal protector de los Derechos Humanos, en ejercicio de su autonomía y a través de sus instancias competentes emitirá las reglas para la integración del Consejo de Premiación correspondiente, el cual se integrará por personas de reconocida calidad moral, académica o intelectual y representativas de los sectores público y privado, así como de un representante de cada una de las Cámaras del Congreso de la Unión.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 112.
+###### Artículo 112.
 
 En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio Nacional de Derechos Humanos podrá ser otorgado post mortem, para honrar la memoria de defensores de los derechos humanos que hayan luchado por la vigencia efectiva de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como lo establecido en las convenciones internacionales suscritas por el Gobierno de la República en materia de derechos humanos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 113.
+###### Artículo 113.
 
 El Premio Nacional de Preservación del Medio Ambiente es el reconocimiento que el gobierno federal otorga a las personas, agrupaciones y comunidades, que se han destacado por su trabajo, empeño y dedicación en favor de la defensa, conservación y preservación del medio ambiente, así como del uso racional de los recursos naturales y de las acciones tendientes al desarrollo sustentable. El Premio Nacional de Preservación del Medio Ambiente consistirá en diploma, medalla y numerario.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 114.
+###### Artículo 114.
 
 El Premio Nacional de Preservación del Medio Ambiente se entregará en las siguientes categorías:
 
@@ -1000,7 +1032,7 @@ IX.- Reuso, Reutilización y Reciclaje.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 115.
+###### Artículo 115.
 
 Para la entrega del Premio Nacional de Preservación del Medio Ambiente, el Consejo de Premiación se integrará con un representante de la Secretaría de Medio Ambiente y Recursos Naturales, quien lo presidirá, un representante de la Secretaría de Educación Pública, un representante de la Secretaría de Economía, un representante de cada una de las Cámaras del Congreso de la Unión, que sean integrantes de las Comisiones competentes, un representante de la Comisión Nacional del Agua, un representante de la Procuraduría Federal de Protección al Ambiente y un representante del Instituto Nacional de Ecología, que realizará la función de Secretario Técnico del Consejo de Premiación.
 
@@ -1008,19 +1040,19 @@ La convocatoria para el otorgamiento de este premio, podrá considerar la partic
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 116.
+###### Artículo 116.
 
 El Premio Nacional de Seguridad Pública es el galardón con el que el Gobierno de la República reconoce el trabajo destacado, la entrega en el servicio, la constancia y el desarrollo de las personas que realizan su mejor esfuerzo para desempeñar su actuación de acuerdo con los principios constitucionales en materia de seguridad pública y que son los de legalidad, eficiencia, profesionalismo y honradez.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 117.
+###### Artículo 117.
 
 También podrán considerarse las situaciones excepcionales en las que el desempeño de los elementos de las corporaciones policiales, se distingan por su arrojo, valor y respuesta adecuada ante situaciones de apremio. Por la naturaleza de la actividad inherente al Premio Nacional de Seguridad Pública, este reconocimiento también podrá ser entregado post mortem.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 118.
+###### Artículo 118.
 
 El Premio Nacional de Seguridad Pública se otorgará anualmente a personal que colabora en instituciones de seguridad pública, tanto en el fuero común como en el federal, en los siguientes rubros:
 
@@ -1038,31 +1070,31 @@ VI.- Trabajo Pericial.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 119.
+###### Artículo 119.
 
 Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Seguridad Pública, quien lo presidirá; un representante de la Procuraduría General de la República; un representante de la Secretaría de la Defensa Nacional; un representante de la Secretaría de Marina; un representante de cada una de las Cámaras del Congreso de la Unión y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, con el carácter de Secretario Técnico del Consejo de Premiación.
 
 > <small>(REFORMADA SU NUMERACION, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 120.
+###### Artículo 120.
 
 Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 121.
+###### Artículo 121.
 
 Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 122.
+###### Artículo 122.
 
 Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 123.
+###### Artículo 123.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique el salario mínimo general en el Distrito Federal.
 
@@ -1125,3 +1157,7 @@ Segundo.- Se derogan todas aquellas disposiciones que se opongan el (sic) presen
 D.O.F. 15 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE OCTUBRE DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
