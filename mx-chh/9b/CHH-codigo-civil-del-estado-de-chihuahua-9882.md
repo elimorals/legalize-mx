@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1994-02-02"
+last_updated: "1994-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -155,9 +155,11 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
-35.- En el Estado de Chihuahua el servicio del registro civil estará a cargo de la Secretaría de Gobierno a través del Departamento del Registro Civil y de las oficinas dependientes del mismo y en las cabeceras municipales y seccionales a cargo de sus respectivos Presidentes, los que deberán autorizar los actos del estado civil y extender las actas relativas. En la Capital del Estado si no se autorizare en el presupuesto la existencia de una o varias oficinas, el servicio del registro civil estará a cargo del Departamento.
+35.- En el Estado de Chihuahua, la prestación del servicio del Registro Civil, así como la dirección y control del mismo, estará a cargo del Ejecutivo Estatal, a través de la Secretaría de Gobierno. A fin de poder cumplir con esta atribución, la Secretaría de Gobierno contará con las unidades técnicas necesarias, de conformidad con este Código, la Ley Orgánica del Poder Ejecutivo y la reglamentación que se expida. Los Titulares de dichas dependencias deberán autorizar los actos del estado civil de las personas y extenderán las actas relativas; además, ejercerán las atribuciones que la ley y los reglamentos les concedan.
+
+El Ejecutivo del Estado, previo convenio con los Ayuntamientos, podrá delegar en éstos la facultad a que se refiere este artículo.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -9394,3 +9396,9 @@ SEGUNDO.- SE DEROGAN LAS DISPOSICIONES CONTENIDAS EN EL LIBRO SEXTO, TERCERA PAR
 TERCERO.- LA SUBSTANCIACION DE LOS ASUNTOS QUE SE ENCUENTRAN PENDIENTES EN LOS TRIBUNALES SE SUJETARAN AL PROCEDIMIENTO ANTERIOR HASTA PRONUNCIARSE RESOLUCION.
 
 CUARTO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE CODIGO.
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
