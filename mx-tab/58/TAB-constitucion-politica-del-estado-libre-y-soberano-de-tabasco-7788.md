@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2000-12-30"
+last_updated: "2001-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2001.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -385,15 +385,13 @@ Los fallos del Pleno serán definitivos. La ley establecerá los presupuestos, r
 
 Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cámara y habiendo quórum, otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones ordinarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año, el primero del dos de enero al treinta y uno de mayo y el segundo del uno de agosto al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45, primer párrafo de esta Constitución.
+El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año, el primero, del quince de enero al treinta de abril, y el segundo, del primero de octubre al quince de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo, de esta Constitución.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-Durante el receso funcionará una Comisión Permanente.
+Durante los recesos funcionará una Comisión Permanente; sin embargo, las distintas comisiones internas de carácter permanente que orgánicamente integran el Congreso, continuarán cumpliendo sus atribuciones.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -579,9 +577,9 @@ XXVI.- Resolver los conflictos de límites del Estado mediante convenios amistos
 
 XXVII.- Citar al Secretario del Ramo que corresponda para que informe cuando se discuta una Ley, o se estudie un negocio relativo a su Secretaría;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-XXVIII.- Expedir la Ley Orgánica Municipal y las bases de policía y Buen Gobierno a que deban sujetarse los Municipios para hacer las propias;
+XXVIII.- Expedir la Ley Orgánica de los Municipios y demás leyes sobre la organización, administración y procedimientos municipales en términos del artículo 65, de ésta Constitución;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1983)</small>
 
@@ -627,13 +625,9 @@ XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores f
 
 XL.- Legislar en materia de Justicia Administrativa, determinando la organización, competencia, funcionamiento y procedimientos para la defensa de los derechos de los Gobernados frente a los actos de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-XLI.- Revisar y calificar las cuentas públicas de los tres Poderes del Estado y de los Municipios, por períodos trimestrales, a más tardar dentro del tercer mes siguiente al trimestre que corresponda, con base en los informes técnicos y financieros que presente la Contaduría Mayor de Hacienda del Congreso.
-
-Cuando el Congreso se encuentre en receso, la calificación podrá realizarse dentro de un período extraordinario, o bien, dentro de los primeros treinta días del siguiente período ordinario de sesiones.
-
-Siempre que las condiciones administrativas lo permitan, la cuenta pública podrá revisarse y calificarse por períodos inferiores a los establecidos en este artículo; y
+XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado y de los Municipios, por períodos anuales, a más tardar en el segundo período de sesiones ordinario siguiente, con base en los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de Ley, presente la Contaduría Mayor de Hacienda del Congreso;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -689,11 +683,17 @@ VIII.- Las demás que le imponga esta Constitución.
 
 La Contaduría Mayor de Hacienda dependerá directamente del Congreso, en ella se glosarán, sin excepción, las cuentas del erario estatal y de los municipios.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 41.
 
-Las cuentas públicas de los tres Poderes del Estado y de los Municipios, deberán quedar concluidas y glosadas por períodos trimestrales, a más tardar dentro del segundo mes siguiente al trimestre que corresponda. El incumplimiento de este precepto imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables.
+Las cuentas públicas de los tres Poderes del Estado y de los Municipios, deberán ser entregadas al Congreso del Estado a más tardar el 31 de marzo del año siguiente. Dichas cuentas públicas deberán quedar glosadas y fiscalizadas, así como entregados los informes técnicos y financieros por el órgano técnico al Congreso del Estado a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen.
+
+De la evaluación que practique la Contaduría Mayor de Hacienda en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades que ameriten la intervención del Congreso del Estado, dicho órgano técnico lo hará del conocimiento de éste, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
+
+En los términos de la Ley de Responsabilidades de los Servidores Públicos, y con respecto a los informes que mensualmente, y con carácter obligatorio rinden las entidades sujetas a cuenta pública; los respectivos órganos internos de control o de vigilancia, según se trate, en cada nivel de gobierno, estarán obligados a remitir la información necesaria sobre el contenido de los mismos, proporcionando en igual término los pormenores de las acciones de control, evaluación y en su caso de autoevaluación que al efecto se hubieren realizado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -809,7 +809,9 @@ I.- Promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo del
 
 II.- Nombrar y remover a los funcionarios y al personal que forman parte del Poder Ejecutivo;
 
-III.- Disponer de la fuerza pública del Municipio de su residencia habitual o temporal y auxiliarse de la fuerza pública de los otros Municipios para conservar la tranquilidad y el orden público cuando se altere;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+
+III.- Tener bajo su mando la corporación de seguridad pública estatal, de acuerdo a su competencia, las leyes y convenios respectivos, así como, disponer de la policía preventiva municipal en los términos del artículo 65 de esta propia Constitución;
 
 IV.- Nombrar apoderado para toda clase de asuntos dentro o fuera del Estado;
 
@@ -817,9 +819,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir a la Contaduría Mayor de Hacienda, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar trimestralmente a dicha Contaduría, dentro de los treinta días siguientes del trimestre que corresponda, la cuenta pública para su examen y calificación trimestral;
+VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir a la Contaduría Mayor de Hacienda, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar anualmente a dicha Contaduría, a más tardar el 31 de marzo del año siguiente, la cuenta pública debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y clasificación anual; la Contaduría Mayor de Hacienda podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de glosa, una vez calificada la cuenta y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia;
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -839,9 +841,9 @@ XV.- Coordinar la inversión pública estatal y municipal para los efectos de la
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de diciembre de cada año en su ejercicio Constitucional, en el que manifieste el Estado general que guarda la Administración Pública del Estado, informe que contestará en el mismo acto el Presidente del Congreso;
+XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado; informe que contestará en el mismo acto el Presidente del Congreso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -959,9 +961,9 @@ Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, 
 
 Será Presidente del Tribunal Superior de Justicia del Estado, el Magistrado Numerario que anualmente sea electo para ese efecto por el cuerpo Colegiado en Pleno. Cada Sala elegirá su propio Presidente en la primera sesión del año.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
-El Presidente del Tribunal Superior de Justicia, concurrirá al Congreso del Estado en cualquier día hábil del mes de diciembre de cada año y rendirá ante la representación popular, un informe escrito acerca de la situación que guarda la Administración de Justicia del Estado, cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
+El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado en cualquier día hábil, dentro de los primeros cinco días, del mes de diciembre de cada año y rendirá ante la representación popular, un informe escrito acerca de la situación que guarda la Administración de Justicia del Estado; cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1983)</small>
 
@@ -1061,15 +1063,21 @@ Los Magistrados y Jueces que integran el Poder Judicial del Estado, serán inamo
 
 El Estado tiene como base de su división territorial y de su organización política administrativa el Municipio Libre, conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-I.- Cada Municipio será administrado por un Ayuntamiento que se integrará por un Presidente Municipal y Regidores que hubieren resultado electos mediante sufragio universal, libre, secreto y directo o bajo el principio de representación proporcional, o en su caso, por quienes los sustituyan en términos de esta Constitución. EL Ayuntamiento entrará en funciones el primero de enero siguiente a las elecciones y durará en su encargo tres años. No habrá ninguna autoridad intermedia entre ésta y el Gobierno del Estado.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y, el número de regidores y síndicos que la ley determine, electos mediante sufragio universal, libre, secreto y directo o bajo el principio de representación proporcional, y en su caso, por quienes los sustituyan en términos de esta Constitución. La competencia que la Constitución General de la República y la Constitución local, otorgan al gobierno municipal se ejercerá por el ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre ésta y el Gobierno del Estado.
+
+El Ayuntamiento entrará en funciones el primero de enero siguiente a las elecciones, y durará en su encargo tres años.
 
 II.- El Ayuntamiento se integrará con el número de Regidores que determine la Ley correspondiente y radicará en la cabecera del Municipio respectivo.
 
-III.- El Primer Regidor será el Presidente Municipal; el Segundo, el Síndico de Hacienda, y los demás desempeñarán las funciones que la Ley les asigne.
+III.- (DEROGADA, P.O. 25 DE JULIO DE 2001)
 
 IV.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Electos Popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les de, no podrán ser electas para el período inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietario, a menos que hubieren estado en ejercicio.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2001)</small>
+
+Si alguno de los miembros del gobierno municipal dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
 V.- Las Leyes respectivas determinarán el número de Regidores de representación proporcional, de acuerdo al porcentaje de votación alcanzada por los partidarios minoritarios, salvaguardando siempre el principio democrático del mandato de las mayorías.
 
@@ -1105,11 +1113,39 @@ XII.- Las relaciones de trabajo entre el Estado, los Municipios y sus Trabajador
 
 El Municipio Libre tiene personalidad jurídica para todos los efectos legales y los Ayuntamientos tendrán las siguientes facultades:
 
-I.- De acuerdo con las bases normativas que se establezcan por la Legislatura del Estado en la Ley correspondiente los Ayuntamientos poseerán facultades para expedir los Bandos de Policía y Buen Gobierno y los Reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
-II.- Los Municipios, con el concurso de los Estados cuando así fuera necesario y lo determinen las Leyes, tendrán a su cargo los siguientes servicios públicos: a) Agua Potable y Alcantarillado; b) Alumbrado Público; c) Limpia; d) Mercados y Central de Abastos; e) Panteones; f) Rastros; g) Calles, Parques y Jardines; h) Seguridad Pública y Tránsito; e) los demás que las Legislaturas del Estado determinen, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+I.- Aprobar, de acuerdo con las leyes o decretos que en materia municipal expida el Congreso del Estado, los bandos de policía y gobierno; los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-El mando de la Policía y Fuerza Pública Municipal estará a cargo del Presidente Municipal, excepto en el Municipio donde residiere, habitual o transitoriamente, el Gobernador del Estado.
+El objeto de las leyes y decretos a que se refiere el párrafo anterior será establecer:
+
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
+
+c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115, así como, el segundo párrafo de la fracción VII del artículo 116 ambos de la Constitución Federal;
+
+d) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal, cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate está imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
+
+e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+
+f) El procedimiento que debe observarse para que los regidores que integran el cuerpo edilicio, tengan derecho a obtener la información necesaria, para el desempeño de sus funciones; y
+
+g) El ejercicio de la Acción de Revisión Municipal, la cual tendrá por objeto plantear ante el Pleno del Tribunal Superior de Justicia del Estado, la posible contradicción entre un acto o disposición de carácter general emitida por el cabildo con alguna disposición contemplada en la constitución local; dicha Acción de Revisión Municipal, podrá ejercitarse dentro de los treinta días siguientes a la fecha en que se efectué el acto o entre en vigor la disposición impugnada y solo podrá ser promovida, por el equivalente, al treinta y tres por ciento o más, de los integrantes del cabildo, del que haya emanado la disposición impugnada. En los términos de la ley reglamentaria.
+
+El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) anteriores.
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+
+II.- Los municipios tendrán a su cargo las funciones y servicios públicos siguientes: a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales; b) Alumbrado Público; c) Limpia, recolección, traslado, tratamiento y disposición final de residuos; d) Mercados y Central de Abastos; e) Panteones; f) Rastros; g) Calles, parques, jardines y su equipamiento; h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito; i) Los demás que las Legislaturas del Estado determinen, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes federales y estatales.
+
+Los Municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de las legislaturas de los Estados respectivos. Así mismo cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo u órgano correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
+
+La policía preventiva municipal estará al mando del Presidente o Concejo Municipal, en los términos de la Ley o Reglamentos correspondientes. El Gobernador del Estado, por conducto de las autoridades antes referidas, podrá disponer de las policías preventivas municipales en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
+
+El titular del Poder Ejecutivo Federal, tendrá el mando de la fuerza pública local en el municipio donde resida habitual o transitoriamente.
 
 III.- Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para elaborar, dentro del Sistema Estatal de Planeación Democrática, sus Planes Municipales trianuales y sus programas operativos anuales.
 
@@ -1135,17 +1171,25 @@ b) Las participaciones federales que serán cubiertas por la Federación a los M
 
 c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las Leyes Locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de personas físicas o morales, ni de instituciones oficiales o privadas, sólo los bienes del dominio público del Estado, de la Federación y de los Municipios estarán exentos de dicha contribución.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
-VI.- La Legislatura del Estado aprobará las Leyes de ingresos de los Ayuntamientos y revisará sus cuentas públicas en relación a los planes municipales y a sus programas operativos anuales.
+Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de personas físicas o jurídicas colectivas, ni de instituciones oficiales o privadas, sólo los bienes del dominio público de la Federación, de los Estados o los Municipios estarán exentos de dicha contribución, salvo que tales bienes sean utilizados por las entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-Los presupuestos de Egresos serán aprobados por los Ayuntamientos sobre la base de sus ingresos disponibles y siempre en concordancia con el Plan Municipal y el Programa Operativo Anual del año de que se trate.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2001)</small>
 
-Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán sus proyectos a la Legislatura local por conducto del Ejecutivo.
+VI.- El Congreso del Estado, aprobará las Leyes de Ingresos de los municipios; así mismo, revisara y fiscalizará sus cuentas públicas, en relación a los planes municipales y a sus programas operativos anuales.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
-Los Ayuntamientos o Concejos Municipales, enviaran mensualmente a la Contaduría Mayor de Hacienda, dentro de los quince días del mes siguiente que corresponda, los informes que acrediten las erogaciones y el avance de las metas propuestas en el Plan Municipal y en el Programa Operativo Anual. Asimismo, remitirán trimestralmente a la mencionada Contaduría, dentro de los quince días siguientes del trimestre respectivo, la cuenta pública para su revisión y calificación trimestral.
+Los presupuestos de egresos serán aprobados por los Ayuntamientos, sobre la base de sus ingresos disponibles.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+
+Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán sus proyectos conforme a las disposiciones legales aplicables a la Legislatura Local, directamente o por conducto del Ejecutivo, a más tardar en el mes de octubre de cada año.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+
+La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado; para tal efecto aquellos, enviarán mensualmente a la Contaduría Mayor de Hacienda, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros que acrediten las erogaciones y el avance de las metas físicas de sus proyectos. Así mismo, y a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública comprobada del último mes del período, deberán remitir la evaluación de su programa operativo anual, en relación al as metas que se establecieron por el año que corresponda y el avance de su Plan Municipal de Desarrollo, para su inclusión correspondiente.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -1154,6 +1198,34 @@ Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el pres
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 Los Ayuntamientos no podrán contraer empréstitos ni celebrar contratos cuya duración exceda de un año, ni enajenar bienes sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2001)</small>
+
+VII.- Los recursos que integran la hacienda municipal, serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, en términos de las leyes o disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2001)</small>
+
+VIII.- Los Municipios del Estado de Tabasco, en los términos de las leyes federales y estatales relativas, están facultados para:
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+b) Participar en la creación y administración de sus reservas territoriales;
+
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o los Estados elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios;
+
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e) Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f) Otorgar licencias y permisos para construcciones;
+
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+h) Intervenir conjuntamente con las autoridades competentes, en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+
+i) Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -1908,3 +1980,35 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2001.
+
+DECRETO 027.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- Para el caso de transferencia de alguna función o servicio público, que actualmente esté prestando el Gobierno del Estado, dentro del plazo de 90 días, contados a partir de la respectiva solicitud formulada por el Ayuntamiento, el Gobierno del Estado presentará el programa de transferencia, respectivo, que entre otros aspectos deberá considerar: derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales que en su caso pasarían a ser municipales.
+
+TERCERO.- Los servicios públicos de agua potable, drenaje y alcantarillado que actualmente presta el Estado, podrán continuar proporcionándose por éste si existe previa solicitud realizada al Congreso del Estado y medie autorización de los Ayuntamientos respectivos; salvo que al propio tiempo los Ayuntamientos lo soliciten en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la Local y con ello no se afecte la prestación de dicho servicio, en perjuicio de la población. Cualquier solicitud de transferencia sobre la prestación del mismo servicio y que no hubiere acuerdo de voluntades será resuelto por el Congreso del Estado.
+
+CUARTO.- Tratándose de la Seguridad Pública, en el Municipio en que residan los Poderes del Estado, la fuerza pública estatal considerada como Policía Preventiva, que a la entrada en vigor de este Decreto esté al mando del titular del Poder Ejecutivo Local, y que conforme a la Constitución Política de los Estados Unidos Mexicanos, sea competencia del Municipio el ejercicio de la prestación del servicio público de policía preventiva municipal y tránsito, bajo el mando del Presidente Municipal, estará sujeto, en su caso a la decisión que el Ayuntamiento respectivo determine de asumir la función, siempre y cuando cuente con los elementos básicos y necesarios para constituir su propia policía preventiva municipal y tránsito, o le solicite al ejecutivo del Estado el traslado de equipos, infraestructura y elementos policiales, para incorporarlos a su fuerza pública o tránsito. Dicho traslado se hará en los términos del Convenio de Colaboración o Coordinación que celebren el Poder Ejecutivo del Estado y el Municipio respectivo, el cual contendrá un plan de transferencia de equipo, infraestructura y personal, así como lo concerniente a los derechos y obligaciones que en los términos de las Leyes Administrativas tuvieran los miembros de la corporación policiaca. Dicho convenio será sometido a la aprobación del Congreso del Estado.
+
+QUINTO.- El Congreso del Estado deberá realizar, en tiempo y forma, las adecuaciones a las leyes secundarias u orgánicas que fueren necesarias para ajustarlas a la Constitución Local.
+
+SEXTO.- Se derogan las disposiciones que se opongan a la presente Constitución.
+
+SEPTIMO.- En términos del artículo 83, de la Constitución Política del Estado Libre y Soberano de Tabasco, una vez que el Congreso del estado, por el voto de las dos terceras partes de los diputados presentes, acuerden las referidas reformas y adiciones, remítase a los honorables ayuntamientos de la entidad, para su aprobación correspondiente, dentro del término de quince días, y vencido dicho término dése cuenta al pleno, para el cómputo de votos de los Ayuntamientos y la declaración en su caso, de haber sido aprobadas las adiciones y reformas a nuestra Constitución.
+
+P.O. 25 DE JULIO DE 2001.
+
+DECRETO 028.
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las salvedades señaladas en el transitorio correspondiente.
+
+SEGUNDO. En virtud de las reformas constitucionales contenidas en el presente decreto, respecto a los períodos de examen y calificación de las cuentas publicas, los distintos poderes y los municipios sujetos a rendirlas trimestralmente, por única ocasión deberán cumplir con esa obligación, por lo que respecta a los cuatro trimestres del presente año, en la forma que establecían las disposiciones anteriores, y serán calificadas por esta legislatura, los primeros dos trimestres, en el segundo período de sesiones ordinario del años (sic) dos mil uno; los dos últimos trimestres serán calificados en el primer período de sesiones del año dos mil dos. En consecuencia, la Contaduría Mayor de Hacienda, deberá ajustarse a lo establecido en el articulo 41 de la presente Constitución.
+
+TERCERO. El Congreso del Estado deberá realizar, en tiempo y formas las adecuaciones a las leyes secundarias u orgánicas que fueren necesarias para ajustarlas a las presentes disposiciones.
+
+CUARTO. Se derogan las disposiciones legales que se opongan a la presente Constitución.
+
+QUINTO. En términos del artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, una vez que el Congreso del Estado, por el voto de las dos terceras partes de los diputados presentes, acuerden las referidas reformas o adiciones, remítase a los honorables ayuntamientos de la entidad, para su aprobación correspondiente, dentro del término de quince días, y vencido dicho término dése cuenta al pleno, para el cómputo de los votos de los Ayuntamientos y la declaración en su caso, de haber sido aprobadas las adiciones y reformas de nuestra Constitución.
