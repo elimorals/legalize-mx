@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29013"
 country: "mx"
 rank: "constitucion"
 publication_date: "1824-11-18"
-last_updated: "1848-03-06"
+last_updated: "1852-03-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1824)
 
-ULTIMA REFORMA PUBLICADA: 6 DE MARZO DE 1848
+ULTIMA REFORMA PUBLICADA: 24 DE MARZO DE 1852.
 
 Constitución publicada el día 18 del mes de noviembre de 1824.
 
@@ -769,17 +769,17 @@ Quinto. Oir las dudas de ley que se ofrezcan á cualquiera de las dos primeras s
 
 266. Cualquiera infraccion de la Constitucion hace responsable personalmente al que la cometió, y el Congreso dispondrá que se haga efectiva la responsabilidad.
 
-267. Las proposiciones sobre reforma ó alteracion de la Constitucion en alguno ó algunos de sus artículos, deben hacerse por escrito, y firmarse por la tercera parte de los diputados.
+267. (DEROGADO 24 DE MARZO DE 1852)
 
-268. El Congreso, en cuyo tiempo se haga alguna de estas proposiciones, no dispondrá otra cosa en los dos años de sus sesiones, sino que se lea y publique por la imprenta.
+268. (DEROGADO 24 DE MARZO DE 1852)
 
-269. El Congreso siguiente no hará otra cosa en los dos años de sus sesiones, sino adminir á discusion la proposicion ó desecharla.
+269. (DEROGADO 24 DE MARZO DE 1852)
 
-270. Si se admite á discusión, se publicará de nuevo por la imprenta, y se leerá en las inmediatas juntas electorales de departamento, antes de hacerse el nombramiento de los diputados del Congreso.
+270. (DEROGADO 24 DE MARZO DE 1852)
 
-271. En el Congreso que sigue, se procederá á la discusion y votacion de la alteracion ó reforma propuesta.
+271. (DEROGADO 24 DE MARZO DE 1852)
 
-272. Si estas fueren aprobadas, se publicarán inmediatamente como artículos constitucionales.
+272. (DEROGADO 24 DE MARZO DE 1852)
 
 Dado en Guadalajara capital del Estado de Jalisco, á 18 dias del mes de Noviembre del año del Señor de 1824, 4.º de la independencia, 3.º de la libertad y 2.º de la federacion.- Pedro Velez, diputado presidente.- Prisciliano Sánchez.- José María Gil y Mendez.- José Antonio Mendez.- José María Gil y Bravo.- Esteban Huerta.- José María Castillo Portugal.- Vicente Rios.- José María Cervantes.- Santiago Guzman.- Ignacio Navarrete.- José Ignacio Cañedo.- José Esteban de Aréchiga.- Rafael Mendoza.- Urbano Sanroman y Gómez, diputado secretario.- José Justo Corro, diputado secretario.
 
@@ -787,7 +787,7 @@ Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legis
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
-PUBLICADO 17 DE MAYO DE 1830
+PUBLICADO, 17 DE MAYO DE 1830
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
 
@@ -800,5 +800,9 @@ PUBLICADO, 27 DE SEPTIEMBRE DE 1833
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
 
 PUBLICADO, 6 DE MARZO DE 1848
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
+
+PUBLICADO, 24 DE MARZO DE 1852
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS JURIDICAS.
