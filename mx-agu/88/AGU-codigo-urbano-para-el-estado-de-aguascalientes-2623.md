@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "1994-05-29"
+last_updated: "1994-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1994.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -1001,7 +1001,7 @@ XVII.- Vigilar que los organismos privados y sociales cumplan con los compromiso
 
 XVIII.- Fomentar la participación de los Municipios en el Sistema Estatal de Protección Civil;
 
-XIX.- Promover en los Municipios la integración de Sistemas Municipales de Protección Civil;
+XIX.- Promover en lo Municipios la integración de Sistemas Municipales de Protección Civil;
 
 XX.- Asegurar el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares donde ocurra un desastre;
 
@@ -6653,23 +6653,7 @@ No se aplicará lo dispuesto en el Artículo 680, a quienes la SEDESO hubiere au
 
 ###### ARTICULO 682.
 
-Comete el delito de fraude especial, y se le impondrá prisión de 6 meses a 8 años y multa equivalente de 1 a 10,000 días de salario mínimo vigente en el Estado, además de la reparación del daño consistente en la devolución de las cantidades que hubiere recibido de los adquirentes de lotes, departamentos, viviendas, casas, locales o áreas, el que:
-
-I.- Por sí o por interpósita persona, fraccione, transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno, vivienda, casa o local de un condominio o fraccionamiento, con o sin construcciones, sin contar con la previa autorización de las autoridades competentes;
-
-II.- Contando con la autorización de fraccionamiento o condominio, no haya satisfecho los requisitos señalados por este Código, o la resolución respectiva de autorización;
-
-III.- Ofrezca en venta lotes, departamentos, viviendas, casas, locales o áreas, que no hayan sido objeto de la autorización o ampliación del fraccionamiento o condominio, aprobada por la autoridad competente;
-
-IV.- Promueva, induzca o aliente la formación o construcción de asentamientos humanos irregulares;
-
-V.- No entregue dentro del plazo establecido un bien inmueble que le ha sido previamente liquidado total o parcialmente;
-
-VI.- Entregue al comprador una vivienda, local o despacho que haya sido construido empleando materiales o técnicas de calidad inferior a la pactada; y
-
-VII.- Entregue al comprador una vivienda, local o despacho que no posea las características, cualidades o materiales anunciados en la publicidad aparecida en los medios masivos de comunicación, en folletos, catálogos, o cualesquier otro medio que indujo al adquirente a realizar la operación.
-
-Este delito se perseguirá de oficio.
+(DEROGADO, P.O. 7 DE AGOSTO DE 1994)
 
 ###### ARTICULO 683.
 
@@ -6982,3 +6966,43 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 7 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de septiembre de 1994 en todo el Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código Penal para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 1o. de agosto de 1949.
+
+###### ARTICULO TERCERO.
+
+Se derogan los Artículos 58, 167, 174, 177, 178, 189, 286, 326, 366, fracción IV, 393, 394, 395, 396, 397, 403, 407, 484, 485, 486, 487, 488, 489, 490, 491, 492, 501 y 502 del Código de Procedimientos Penales vigente para el Estado de Aguascalientes, publicado en el Periódico Oficial el 12 de abril de 1992.
+
+###### ARTICULO CUARTO.
+
+Se abroga la Ley de Ejecución de Sentencias Restrictivas de Libertad para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 20 de enero de 1974.
+
+###### ARTICULO QUINTO.
+
+Se abroga la Ley del Patronato de Reos Libertados para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 10 de diciembre de 1967.
+
+###### ARTICULO SEXTO.
+
+Se derogan los Artículos 190, 191, 192, 193, 196 y 197 de la Ley Electoral del Estado de Aguascalientes.
+
+###### ARTICULO SEPTIMO.
+
+Se deroga el Artículo 682 del Código Urbano del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el 29 de mayo de 1994.
+
+###### ARTICULO OCTAVO.
+
+Se deroga el Artículo 21 de la Ley Reglamentaria del Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTICULO NOVENO.
+
+Se derogan los Artículos 83, 84, 85, 86, 87 y 88 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes.
