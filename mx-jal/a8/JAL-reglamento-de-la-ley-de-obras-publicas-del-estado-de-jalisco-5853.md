@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-obras-publicas-del-estado-de-jalisco-58
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-05-24"
-last_updated: "1990-05-24"
+last_updated: "1999-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1999.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 24 de mayo de 1990.
 
@@ -468,13 +468,21 @@ VII. Relación de maquinaria y equipo de construcción indicando si es de su pro
 
 Tratándose de propuestas que presenten concursantes extranjeros, éstos deberán acreditar que la integración de las mismas partió de iguales condiciones en cuanto a precio, costo, financiamiento, oportunidad y demás que resulten pertinentes, de las que hubieren servido a los nacionales para integrar las suyas.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1999)</small>
+
 ###### Art. 42.
 
-La Dependencia o Entidad invitará al acto de apertura de proposiciones a la Cámara que corresponda y a las Dependencias que conforme a sus atribuciones deban asistir debiendo siempre invitarse a la Secretaría de Finanzas, Contraloría del Estado y Coordinadora del Sector, así como a otros servidores públicos o representantes del Sector Privado que considere conveniente, con una anticipación no menor de cinco días hábiles a la fecha del acto.
+Existirá una Comisión de Adjudicación de Obra Pública del Gobierno del Estado que intervendrá como instancia administrativa en aquellos procedimientos de adjudicación de obra pública que requiera efectuar el Poder Ejecutivo Estatal, de conformidad con el reglamento de dicha Comisión.
+
+La integración y funcionamiento de la Comisión de Adjudicación de Obra Pública será definida en su reglamento.
+
+Las entidades paraestatales que, de conformidad con sus leyes orgánicas y demás disposiciones aplicables, puedan realizar obra pública, deberán integrar sus propias comisiones de adjudicación de obra pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 1999)</small>
 
 ###### Art. 43.
 
-El acto de presentación y apertura de proposiciones será presidido por el servidor público que designe la convocante, quien será la única autoridad facultada para aceptar o desechar cualquier proposición de las que se hubieren presentado, en los términos de la Ley y de este Reglamento, y se llevará a cabo en la forma siguiente:
+El acto de presentación y apertura de proposiciones se llevará a cabo en la forma siguiente:
 
 I. Se iniciará en la fecha, lugar y hora señalados. Los concursantes al ser nombrados entregarán su proposición y demás documentación requerida en sobre cerrado en forma inviolable;
 
@@ -488,7 +496,9 @@ V. Se levantará el acta correspondiente en la que se harán constar las proposi
 
 Se informará a los presentes: fecha, lugar y hora, en que se dará a conocer el fallo; esta fecha deberá quedar comprendida dentro de un plazo que no excederá de veinte días hábiles contados a partir de la fecha de apertura de proposiciones. La omisión de firma por parte de los concursantes no invalidará el contenido y efectos del acta; y
 
-VI. Si no se recibe proposición alguna o todas las presentadas fueren desechadas se declarará desierto el concurso, situación que quedará asentada en el acta, (sic)
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1999)</small>
+
+VI. Si no se recibe proposición alguna o todas las presentadas fueren desechadas, o asistan menos de tres contratistas, el concurso se declarará desierto, devolviéndose los sobres sin abrir a los concursantes, situación que quedará asentada en el acta.
 
 ###### Art. 44.
 
@@ -793,3 +803,15 @@ Lic. Guillermo Casio Vidaurri
 El Secretario General de Gobierno
 
 Lic. Enrique Romero González
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 1999.
+
+ÚNICO. Las entidades paraestatales que, de conformidad con sus leyes orgánicas y demás disposiciones aplicables, puedan realizar obra pública, tendrán un plazo de 90 días naturales a partir de la entrada en vigor del presente Acuerdo, para integrar sus propias comisiones de adjudicación de obra pública.
+
+TRANSITORIO DEL DECRETO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
