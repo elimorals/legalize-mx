@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "2002-12-27"
+last_updated: "2003-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -181,11 +181,17 @@ Para estos efectos se entiende como zona rústica, la que no cuente con los elem
 
 La propiedad rústica para efectos de valuación se dividirá en riego rodado, riego bombeado, temporal de primera, temporal de segunda, agostadero de primera, agostadero de segunda, monte, cerril, cerril inaccesible y erial.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 17o.
 
-El valor catastral se obtendrá al aplicar para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso del Estado; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso del Estado y tratándose de predios con una profundidad mayor a 25 metros, al valor de suelo se le aplicará el coeficiente de demérito por profundidad de terreno que se señala a continuación.
+El valor catastral se obtendrá al aplicar para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso del Estado; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Tratándose de predios con una profundidad mayor a 25 metros, al valor de suelo se le aplicará el coeficiente de demérito por profundidad de terreno, según se muestra a continuación:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 LIMITE LIMITE COEFICIENTE
 
@@ -193,7 +199,7 @@ INICIAL FINAL DE DEMERITO
 
 EN METROS EN METROS POR
 
-CUADRADOS CUADRADOS PROFUNDIDAD
+LINEALES LINEALES PROFUNDIDAD
 
 DE TERRENO
 
@@ -329,6 +335,8 @@ MAYOR DE 319.50 Y HASTA 342.90 0.36
 
 MAYOR DE 342.90 Y HASTA 372.85 0.35
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 Los coeficientes de demérito de valor por profundidad no serán aplicables cuando la unidad de valuación sea por hectárea.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
@@ -337,11 +345,11 @@ Los coeficientes de demérito de valor por profundidad no serán aplicables cuan
 
 El valor catastral que resulte de acuerdo con el artículo anterior, es el equiparable al valor de mercado para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 19o.
 
-Los contribuyentes podrán inconformarse con el valor total del predio que resulte de acuerdo con este artículo, dentro del plazo de 30 días hábiles, contados a partir del día siguiente de la publicación de los valores emitidos por el Congreso en el Periódico Oficial del Estado o del primer acto de aplicación. Para este efecto, los particulares presentarán escrito ante la Autoridad Municipal competente para realizar el cobro del impuesto, por el cual manifiesten los motivos de su inconformidad por los que consideran que el valor determinado no corresponde al valor de mercado de su propiedad, acompañando un avalúo del inmueble emitido por una Institución de Crédito debidamente autorizada o por un Instituto, Consejo u otra Institución Colegiada de Valuación, debidamente constituidas en la entidad, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles.
+Los contribuyentes podrán inconformarse con el valor del predio que resulte de acuerdo con el Artículo 17, dentro del plazo de 30 días hábiles, contados a partir del día siguiente de la publicación de los valores emitidos por el Congreso en el Periódico Oficial del Estado. Para este efecto, los particulares presentarán escrito ante la autoridad municipal competente, en el que manifiesten los motivos de su inconformidad, acompañando un avalúo del inmueble emitido por una institución de crédito debidamente autorizada o por una institución colegiada de valuación, debidamente constituida en la entidad, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -854,3 +862,7 @@ Artículo Cuarto.- Cuando en las Leyes estatales se haga referencia al valor act
 P.O. 27 DE DICIEMBRE DE 2002.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2004.
