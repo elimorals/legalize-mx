@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2001-06-16"
+last_updated: "2003-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA - ANTES LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS -
 
-LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -33,15 +33,15 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente:
 
 D E C R E T O
 
-EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 33 FRACCION II Y 86 DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y
-
-.
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 33 FRACCION II Y 86 DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y.
 
 Por lo anteriormente expuesto, ha tenido a bien expedir el siguiente
 
 D E C R E T O No. 57
 
-LEY ORGANICA DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE ENERO DE 2003)</small>
+
+LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
 ### CAPITULO I
 
@@ -85,13 +85,13 @@ El Presidente de la Comisión lo será también del Consejo, el cargo de los mie
 
 Cada tres años deberán ser sustituídos los cinco miembros del Consejo de mayor antigüedad, a excepción de su Presidente.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 7.
 
-Para nombrar a los miembros del Consejo, el Gobernador del Estado someterá una terna por cada nombramiento a la consideración del Congreso, el cual designará al Consejero que deba cubrir la vacante. La designación se hará por el voto de la mayoría calificada, en el improrrogable plazo de treinta días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de consejero la persona que de cada una de las ternas, designe el Gobernador. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, con respecto a la cual el Congreso resolverá en el improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en dicho plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esta terna, designe el Gobernador.
+Los miembros del Consejo de la Comisión serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, de entre los candidatos propuestos por los diputados.
 
-Si a la conclusión del período legal del cargo de Consejero a que se refiere este ordenamiento, el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
+Para llevar a cabo las propuestas de candidatos, los diputados del Congreso del Estado realizarán una amplia auscultación entre los organismos públicos y privados promotores y defensores de los derechos humanos, así como entre agrupaciones cívicas o profesionales.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
 
@@ -127,13 +127,13 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 El Titular de la Secretaría Ejecutiva deberá ser una persona con experiencia administrativa y prestigio académico.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 11.
 
-Para nombrar al Presidente de la Comisión Estatal de Derechos Humanos, el Gobernador del Estado someterá una terna a la consideración del Congreso. La designación se hará por el voto de la mayoría calificada, en del (sic) improrrogable plazo de treinta días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo la persona que de esta terna, designe el Gobernador. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, con respecto a la cual el Congreso resolverá dentro del improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en dicho plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esa terna, designe el Gobernador.
+El Titular de la Comisión será nombrado con por lo menos el voto de las dos terceras partes de los integrantes del Congreso del Estado, de entre las propuestas de candidatos que sometan al Pleno los diputados, siguiendo un procedimiento de auscultación similar al establecido para proponer candidaturas a Consejeros.
 
-Si a la conclusión del período legal del cargo de Presidente a que se refiere este ordenamiento, el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
+Si a la conclusión del período legal del cargo de presidente a que se refiere este ordenamiento, el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
 
 ###### ARTICULO 12.
 
@@ -309,7 +309,11 @@ IV.- Colaborar con la Presidencia de la Comisión en la elaboración de los info
 
 V.- Enriquecer y mantener la biblioteca y el acervo documental de la Comisión; y
 
-VI.- Las demás que le señale la presente Ley y el Reglamento Interior.
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2003)</small>
+
+VI.- Realizar las funciones de Secretario Técnico del Consejo de la Comisión, establecidas en el Reglamento Interior; y
+
+VII.- Las demás que le señale la presente Ley y el Reglamento Interior.
 
 ### CAPITULO VII
 
@@ -331,9 +335,11 @@ Cuando los interesados estén privados de su libertad o se desconozca su parader
 
 Las organizaciones no gubernamentales legalmente constituidas para la defensa de los derechos humanos, pueden acudir ante la Comisión para denunciar las violaciones de derechos humanos de personas que por sus condiciones económicas y culturales no tengan la capacidad efectiva de presentar quejas de manera directa.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 29.
 
-La queja sólo podrá presentarse dentro del plazo de noventa días, a partir de que se hubiera iniciado la ejecución de los hechos que se estimen violatorios o de que el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales y tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante una resolución razonada, pero dicho plazo no excederá de ciento ochenta días.
+La queja sólo podrá presentarse dentro del plazo de ciento ochenta días, a partir de que se hubiera iniciado la ejecución de los hechos que se estimen violatorios o que el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales y tratándose de infracciones graves a los derechos humanos, la comisión podrá ampliar dicho plazo mediante una resolución fundada y motivada, pero dicho término no excederá de trescientos sesenta días.
 
 ###### ARTICULO 30.
 
@@ -453,13 +459,41 @@ Las recomendaciones se referirán a casos concretos, las cuales no son aplicable
 
 De las quejas o inconformidades que se presenten respecto de las recomendaciones, acuerdos u omisiones de la Comisión, los quejosos, terceros interesados o las autoridades y servidores públicos, podrán optar por interponer el recurso ante la propia Comisión Estatal por una sola ocasión, o directamente ante la Comisión Nacional de los Derechos Humanos. Si las partes deciden hacerlo primero ante la Comisión Estatal, esta resolverá dentro de los cinco días siguientes, y en caso de persistir la inconformidad de las partes, se podrá recurrir también ante la Comisión Nacional de los Derechos Humanos, que es la única facultada para modificar la resolución definitiva.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+
 ### CAPITULO X
 
-DE LAS NOTIFICACIONES Y LOS INFORMES.
+DEL RECURSO DE EXHIBICION DE PERSONAS.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
+
+ARTICULO 49 BIS.- Respecto de los casos en que exista la desaparición o detención ilegal de cualquier ciudadano, procederá ante la Comisión Estatal de Derechos Humanos el recurso extraordinario de exhibición de persona; el cual podrá ser interpuesto por cualquier persona, o por el propio quejoso, cuando este lo pueda hacer valer, en cuyo caso, el Presidente, o los visitadores de la Comisión, previamente autorizado por el Presidente mediante escrito, tendrán las facultades necesarias para inspeccionar o buscar en las oficinas, separos, centros de detención, de prisión o cualquier otro lugar en donde se presuma que se encuentra ilegalmente detenido el afectado.
+
+Las autoridades estatales y municipales de dependencias administrativas, de procuración de justicia, de seguridad pública, de vialidad o cualquier otro servidor público que hubiese ordenado una detención presumiblemente ilegal, estarán obligados a otorgar las facilidades correspondientes a efecto de que la Comisión pueda garantizar el cese a dichas violaciones.
+
+El presente recurso de exhibición de persona, no prejuzga sobre la responsabilidad penal ni administrativa del detenido.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
+
+ARTICULO 49 BIS 1.- El Presidente, o el visitador debidamente autorizado por el titular, podrá solicitar a cualquiera de las autoridades estatales y municipales señaladas en el artículo que antecede y presuntamente responsables, le exhiba o presente físicamente a la persona que mantenga privada de su libertad, y en su caso, dicha autoridad deberá justificar la detención de quien se trate, así como garantizar la preservación de su vida, su integridad física y mental.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
+
+ARTICULO 49 BIS 2.- El recurso extraordinario de exhibición de personas se podrá hacer valer ante la Comisión en todo momento e incluso de manera verbal, cuando esté en riesgo la vida, la integridad física y mental de una persona; la cual, resolverá de manera inmediata la procedencia o improcedencia del citado recurso. Su resolución será inatacable.
+
+En caso de que la Comisión resuelva procedente la solicitud del recurso de exhibición de persona, el funcionario facultado de la misma, se trasladará al sitio en donde la denuncia afirme que se encuentra detenido ilegalmente el afectado, a fin de dar cumplimiento a su resolución; al efecto, se hará acompañar del solicitante o de persona de confianza del detenido y de un médico, para que, en su caso, pueda ratificar la identidad del presunto afectado, así como el estado físico en el que se encuentra o bien, certificar de que no se encontraba dicha persona en el lugar señalado por el accionante.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
+
+ARTICULO 49 BIS 3.- Si la autoridad responsable exhibiera a la persona agraviada, el Presidente o el visitador, podrá disponer la no incomunicación y la imposibilidad de cambiarla de lugar sin autorización. De igual manera si no estuviere a disposición del Ministerio Público, o de la autoridad administrativa competente, solicitará que se ponga de inmediato a disposición de ésta y si ya estuviere, gestionará para que ésta resuelva sobre la detención de la persona en los plazos y términos constitucionales, lo anterior en cuanto no interviniere la autoridad federal mediante el juicio de amparo y cuando se trate de casos de extrema urgencia.
+
+En caso de que la Comisión lo estimara pertinente, pedirá a la autoridad señalada como responsable, un informe por escrito con relación al recurso promovido, quien deberá rendirlo en un plazo no mayor de cuarenta y ocho horas a partir de que se hubiera realizado la notificación a dicha autoridad.
+
+El desacato a las resoluciones que emitan el presidente, visitador, o cualquier otro servidor de la Comisión autorizado, con relación a este recurso, así como los informes falsos o incompletos que rindan las autoridades señaladas como responsables, se sancionarán conforme a las Leyes en la materia.
 
 ### CAPITULO XI
 
-DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS Y DE LAS SANCIONES A LOS PARTICULARES.
+DE LAS NOTIFICACIONES Y LOS INFORMES.
 
 ###### ARTICULO 50.
 
@@ -487,7 +521,7 @@ El Congreso del Estado y el titular del Ejecutivo Estatal podrán formular comen
 
 ### CAPITULO XII
 
-DEL REGIMEN LABORAL.
+DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS Y DE LAS SANCIONES A LOS PARTICULARES.
 
 ###### ARTICULO 55.
 
@@ -511,11 +545,15 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 
 ### CAPITULO XIII
 
-DEL PATRIMONIO Y DEL PRESUPUESTO DE LA COMISION.
+DEL REGIMEN LABORAL.
 
 ###### ARTICULO 59.
 
 Todos los servidores públicos que integran la planta laboral de la Comisión, son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña. Gozarán de las prestaciones que establece la Ley Federal de los Trabajadores al Servicio del Estado y lo que se establezca en el Reglamento Interior de la propia Comisión.
+
+### CAPITULO XIV
+
+DEL PATRIMONIO Y DEL PRESUPUESTO DE LA COMISION.
 
 ###### ARTICULO 60.
 
@@ -562,3 +600,7 @@ En cumplimiento a lo dispuesto por el tercer párrafo del artículo 6 que se ref
 P.O. 16 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
