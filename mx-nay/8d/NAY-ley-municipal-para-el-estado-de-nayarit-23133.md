@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2003-06-04"
+last_updated: "2004-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -39,7 +39,7 @@ D E C R E T A
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-## TÍTULO PRIMERO
+## TÍTULO SEGUNDO
 
 ### CAPÍTULO ÚNICO. Disposiciones generales al régimen municipal
 
@@ -97,7 +97,7 @@ f) Que las controversias entre la administración y los particulares, se diriman
 
 g) Coadyuvar con las autoridades y organismos competentes en materia de defensa y respeto a los derechos humanos y sujetarse a las disposiciones que sobre esa materia señale esta ley.
 
-## TÍTULO SEGUNDO
+## TÍTULO PRIMERO
 
 ### CAPÍTULO I. Organización territorial y administrativa de los municipios
 
@@ -127,7 +127,7 @@ Para su organización administrativa y territorial, los municipios se dividirán
 
 I.- Cabeceras municipales;
 
-II.- Delegaciones municipales, para ciudades y poblaciones más importantes; y
+II.- Delegaciones municipales, para ciudades y poblaciones mas importantes; y
 
 III.- Juzgados auxiliares, para rancherías y pequeñas comunidades.
 
@@ -537,13 +537,23 @@ c) Aprobar, en su caso, las minutas de reforma o adición a la Constitución Pol
 
 d) Formular y remitir al Congreso del Estado para su aprobación, a más tardar el quince de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente, proponiendo las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo así, se tomarán como iniciativas las leyes que hubieren regido durante el año fiscal inmediato anterior;
 
-e) Aprobar el presupuesto anual de egresos, vigilando que sea publicado en el Periódico Oficial o del Gobierno del Estado, así como la cuenta publica municipal trimestral que presente el tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, en los términos y para los efectos establecidos en la Constitución y en la ley de la materia;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+e) Aprobar el presupuesto anual de egresos, mismo que deberá ser publicado en el Periódico Oficial Órgano del Gobierno del Estado;
 
 f) Dividir y organizar el territorio municipal para ejercer y descentralizar los actos de gobierno, estableciendo, modificando y definiendo la jurisdicción de las delegaciones y juzgados auxiliares;
 
 g) Proponer a la Legislatura del estado la categoría y denominación política de los centros de población que corresponda; y
 
 h) Formular, aprobar y promulgar su reglamento interno.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+i) Revisar la cuenta pública municipal así como los informes sobre el avance de la gestión financiera que presente el Presidente Municipal.
+
+El Presidente Municipal en representación del Ayuntamiento será el responsable de presentar al Congreso del Estado la Cuenta Pública y los informes sobre el avance de la gestión financiera, para su fiscalización, en los plazos y de acuerdo a las formalidades que establece la ley de la materia.
+
+No será óbice para la presentación de la Cuenta Pública ni de los avances de gestión financiera al Congreso del Estado, el que el Ayuntamiento no haya emitido resolución correspondiente sobre estos informes. En todo caso, la resolución, las observaciones y los procedimientos de responsabilidades que llegaran a derivar de la revisión que el Ayuntamiento realice a dichos informes deberán comunicarse al Congreso del Estado para el efecto de su consideración en el proceso de fiscalización relativo.
 
 II.- En materia de Planeación:
 
@@ -563,7 +573,7 @@ g) Promover la gestión de las actividades productivas del municipio, estimuland
 
 h) Celebrar convenios con la federación para la administración y custodia de zonas federales; e
 
-i) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
+i)I ntervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
 
 III.- En materia administrativa, económica y social:
 
@@ -633,7 +643,7 @@ x) Determinar las sanciones por infracciones o faltas a los bandos, reglamentos,
 
 y) Convocar a elecciones de las autoridades y organismos auxiliares del Ayuntamiento, estableciendo bases y requisitos que permitan la participación libre, democrática y sujeta a la ley, expidiendo los nombramientos que acrediten a las autoridades y organismos auxiliares que fueren electos;
 
-z) Sujetar a los trabajadores al régimen de seguridad social establecido en el estado y celebrar el contrato colectivo de trabajo en el orden municipal;
+z)Sujetar a los trabajadores al régimen de seguridad social establecido en el estado y celebrar el contrato colectivo de trabajo en el orden municipal;
 
 aa) Dictar las medidas administrativas procedentes para vigilar y preservar el patrimonio cultural y financiero del municipio;
 
@@ -733,7 +743,7 @@ VI.- Proponer al Ayuntamiento, en su caso, la remoción o sustitución del Secre
 
 VII.- Promulgar las normas de carácter general y reglamentos aprobados por el Ayuntamiento y publicarlos en la Gaceta Municipal y en Bandos Municipales o en el Periódico Oficial Órgano del Gobierno del Estado;
 
-VIII.- Rendir mensualmente un informe al Ayuntamiento sobre el estado que guarda la administración municipal en sus aspectos mas relevantes;
+VIII.- Rendir mensualmente un informe al Ayuntamiento sobre el estado que guarda la administración municipal en sus aspectos más relevantes;
 
 IX.- Informar en los primeros diez días del mes de septiembre de cada año, en sesión solemne, al Ayuntamiento, del estado que guarda la administración municipal en todos sus aspectos y de las labores realizadas durante el año;
 
@@ -851,15 +861,19 @@ VI.- Las demás que les impongan la Constitución Federal, la particular del est
 
 ###### ARTICULO 72.
 
-Son facultades del Síndico :
+Son facultades del Síndico:
 
 I.- Participar y vigilar la gestión de los asuntos que correspondan a la hacienda municipal;
 
-II.- Vigilar la aplicación del presupuesto, firmar conjuntamente con el Presidente Municipal los estados de cuenta y los cortes de caja de la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+II.- Vigilar la aplicación del presupuesto, en los términos de las disposiciones municipales correspondientes;
 
 III.- Supervisar que las multas que impongan las autoridades municipales o cualquier otro ingreso sea enterado a la tesorería municipal, previo certificado de ingresos;
 
-IV.- Vigilar que se presente a Congreso del Estado, en tiempo y forma, la cuenta pública municipal aprobada por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+IV.- Vigilar que se presente a Congreso del Estado, en tiempo y forma, la cuenta pública municipal y los Avances de Gestión Financiera;
 
 V.- Vigilar que se ordene la publicación de los estados financieros mensualmente, previo conocimiento del Ayuntamiento;
 
@@ -894,6 +908,10 @@ VIII.- Intervenir en los procedimientos de expropiación que solicite el Ayuntam
 IX.- Vigilar que se formule y actualice el registro de todas las enajenaciones que realice el Ayuntamiento; y
 
 X.- Las demás que le imponga la Constitución Federal, la particular del estado y las leyes y reglamentos competentes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+Cuando el Síndico Municipal sin causa justificada, omita dar cumplimiento a alguna de las obligaciones a las que se refieren las fracciones I y II de este artículo, el Ayuntamiento previa valoración del caso en particular y mediante acuerdo aprobado por mayoría calificada, podrá autorizar que dichas obligaciones sean realizadas por algún otro de sus miembros.
 
 ###### ARTICULO 74.
 
@@ -1409,17 +1427,23 @@ V.- Presentar mensualmente informes de la situación financiera de la Tesorería
 
 VI.- Proponer al Ayuntamiento la cancelación de cuentas incobrables;
 
-VII.- Elaborar y someter a la aprobación del Ayuntamiento los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2004)</small>
+
+VII.- Elaborar y remitir al Presidente Municipal para los efectos legales correspondientes, los siguientes documentos:
 
 a) El análisis de los recursos presupuestales que presenten las autoridades y organismos auxiliares del Ayuntamiento;
 
-b) La cuenta pormenorizada del manejo de la hacienda municipal;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+b) La cuenta pormenorizada del manejo de la hacienda municipal así como los avances de gestión financiera;
 
 c) El programa financiero del registro, manejo y administración de la deuda publica municipal; y
 
 d) La tabla de valores unitarios de suelo y construcciones, en los términos de la ley.
 
-VIII.- Coadyuvar en la remisión, de las cuentas, informes contables y financieros aprobados por el Ayuntamiento, al Congreso del Estado en los términos de ley;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+VIII.- Coadyuvar en la remisión, de las cuentas, informes contables y financieros al Congreso del Estado en los términos de ley;
 
 IX.- Intervenir para dar solución oportuna a las observaciones que haga el Organo de Fiscalización Superior respecto de los informes de la cuenta pública municipal;
 
@@ -2363,7 +2387,7 @@ TÍTULO DECIMOSEGUNDO
 
 Los presupuestos de egresos municipales serán aprobados por los Ayuntamientos de conformidad con sus ingresos, para regir en el año fiscal respectivo, a fin de sufragar los gastos que originen las actividades, obras y servicios públicos previstos en los planes y programas de la administración municipal. Específicamente contendrán lo siguiente:
 
-I.- Las asignaciones presupuestales a de ramos y partidas, y la calendarización de su ejercicio;
+I.- Las asignaciones presupuestales a (sic) de ramos y partidas, y la calendarización de su ejercicio;
 
 II.- La presupuestación del gasto comprenderá el desglose de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pago de pasivos o deuda pública que realice la administración municipal; y
 
@@ -3084,3 +3108,7 @@ A efecto de dar cumplimiento al artículo 204 de la Ley Municipal para el Estado
 ###### ARTÍCULO QUINTO.
 
 El reglamento al que hace referencia la presente ley, deberá expedirse a más tardar en noventa días a partir de la entrada en vigor del presente decreto.
+
+P.O. 16 DE JUNIO DE 2004.
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
