@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1972-12-23"
+last_updated: "1974-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -43,21 +43,35 @@ De la Integración y Atribuciones de los Organismos Catastrales.
 
 La presente Ley regula el control y valorización de los inmuebles ubicados en el Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 2o.
 
-La aplicación de esta Ley queda encomendada a los siguientes Organismos Catastrales: I.- La Junta Central Catastral. II.- Las Juntas Municipales Catastrales. III.- La Oficina Técnica Catastral. IV.- El Departamento de Impuesto Predial y del Catastro. Los dos últimos dependerán de la Tesorería General del Estado.
+Corresponde a la Tesorería General del Estado la aplicación de la presente Ley.
+
+Son organismos auxiliares de la Tesorería General:
+
+a).- La Junta Central Catastral;
+
+b).- Las Juntas Municipales Catastrales;
+
+c).- Las Cámaras de Comercio, de Industria y Propietarios de Bienes Raíces; y
+
+d).- Las Personas o Instituciones Privadas cuya colaboración se requiera.
 
 ###### ARTICULO 3o.
 
-Coadyuvarán con los Organismos Catastrales para el mejor desempeño de sus atribuciones: I.- Las Dependencias del Gobierno del Estado. II.- Las Cámaras de Comercio, de Industria y de Propietarios de Bienes Raíces. III.- Las personas o Instituciones Privadas cuya colaboración se requiera en virtud de las circunstancias.
+(DEROGADO P.O. 28 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 4o.
 
 La Junta Central Catastral se integrará por dos Representantes Oficiales, que designará el Tesorero General del Estado y que tendrán el carácter de Presidente y Secretario, y dos representantes de la Cámara de Propietarios de Bienes Raíces en el Estado, con el carácter de vocales. Se nombrarán suplentes tanto para los Representantes Oficiales como para los de la Cámara, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El Presidente tendrá voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 5o.
 
-La Junta Central Catastral resolverá sobre los proyectos de Bases Generales de Valores por Unidades Tipo que formule la Oficina Técnica Catastral.
+La Junta Central Catastral auxiliará a la Oficina Técnica Catastral en la formulación de los Proyectos de Bases Generales de Valores por Unidades Tipo.
 
 ###### ARTICULO 6o.
 
@@ -107,25 +121,29 @@ Para determinar las Bases Generales de Valores por Unidades Tipo en las diferent
 
 En las zonas rústicas, la determinación de las Bases Generales de Valores Tipo se hará sobre una clasificación agronómica de la tierra y de su situación topográfica teniendo en cuenta además el rendimiento medio anual según el objeto a que se dedique, de acuerdo con lo que al efecto establece el Reglamento. La unidad de superficie será, en todo caso, de una hectárea.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 17o.
 
-Para determinar el valor de la tierra como el de las mejoras que ésta contenga, se procurará que tal valor se acerque en lo posible a lo que pueda estimarse como el valor "real" al momento de hacerse la estimación. Del valor fijado en los términos anteriores, el 50% (cincuenta por ciento) será el valor catastral que se fije a la Unidad Tipo.
+El valor de la tierra y el de las mejoras que ésta contenga, será determinado con base en la estimación técnica de su valor real, y dicho valor será el "valor real catastral".
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 18o.
 
-Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las Recaudaciones de Rentas de los Municipios respectivos.
+Las Bases Generales de Valor por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las oficinas Recaudadoras de Rentas de los Municipios respectivos.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 19o.
 
-Las bases generales de valores serán objeto de revisión cada cinco años para la propiedad urbana, sub-urbana y rústica. Al expirar el período a que se refiere el presente artículo, se expedirán nuevas bases generales de valores, siguiendo para su formulación las normas contenidas en esta Ley y su Reglamento. Si al expirar el período no se expidieren nuevas bases de valores, continuarán en vigor las existentes.
+Las Bases Generales de Valores serán objeto de revisión cada dos años, para la propiedad urbana y sub-urbana, y cada cinco años para propiedad rústica.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 20o.
 
-Las bases generales por unidades tipo, aprobadas para cada período de cinco años, a que se refiere el Artículo Anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquiera otra causa.
+Las Bases Generales por Unidades Tipo, aprobadas para cada período de 2 ó 5 años, a que se refiere el Artículo anterior, no podrán ser modificadas en el curso de ese tiempo, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1967)</small>
 
@@ -133,21 +151,37 @@ Las bases generales por unidades tipo, aprobadas para cada período de cinco añ
 
 El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $1,000.00 (Un Mil Pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 22o.
 
-En los casos de fraccionamientos o nuevas urbanizaciones, regirá el valor de la tierra según le corresponda en el momento de ser aprobados dichos fraccionamientos por la Autoridad respectiva y no será objeto de nuevos avalúos si no cuando por venta, permuta, cesión o promesa de venta pasen a poder de terceros, tomándose como base para los efectos del impuesto, la fecha en que se haga el traspaso. La parte o partes del fraccionamiento que el propietario del mismo se reserve para su uso particular o cuyo aprovechamiento permita a terceros, será objeto de un nuevo avalúo.
+Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados en los siguientes casos.
+
+I.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones.
+
+II.- Cuando al expedirse el certificado de valor real, para los efectos del Impuesto Municipal sobre Traslación de Dominio, se aprecien adiciones a su valor.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 23o.
 
-Practicados los avalúos y la liquidación correspondiente por el Departamento del Impuesto Predial y del Catastro éste los notificará a los causantes para que éstos procedan al pago del impuesto predial correspondiente. Las notificaciones determinarán la fecha en que deba principiarse a hacer el cobro del impuesto debiendo coincidir la fecha con el principio del período de pago siguiente a la notificación, según lo determine la Ley de Ingresos del Estado. Los causantes dentro de un término de 15 días de la notificación podrán presentar sus inconformidades ante el Tesorero General del Estado, para que dicho funcionario resuelva en definitiva.
+Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Oficina Técnica Catastral auxiliada por la Junta Central Catastral, hará que tal valor coincida con el valor de los predios del fraccionamiento ya urbanizado.
+
+Sin embargo, por un plazo de tres años, para predios ubicados en zonas habitacionales y de cinco años, para predios ubicados en zonas comerciales, los nuevos fraccionadores pagarán el Impuesto Predial sobre el valor que los predios tenían antes de ser urbanizados.
+
+En los fraccionamientos o nuevas urbanizaciones, se considerarán baldíos para efectos de la aplicación de la tasa prevista en el Artículo 13 de la Ley de Hacienda, aquellos lotes que no hubieren pasado en propiedad a otras personas, en un plazo de tres años contados a partir de la fecha de aprobación de la venta de lotes del fraccionamiento por la autoridad Estatal respectiva, siempre que dichos predios carezcan de construcciones permanentes y su superficie exceda de 300 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 24o.
 
-Las reclamaciones por inconformidades a que se refiere el artículo anterior, solamente procederán por alguna de las siguientes causas: I.- Por error en las medidas tomadas como base para el avalúo. II.- Por aplicación errónea de las Unidades Tipo. III.- Por error aritmético en la determinación del valor catastral de un predio. IV.- Por no haberse tomado en cuenta en la valorización de los predios, el castigo o compensación que deba sufrir el valor unitario catastral, en consideración al estado de conservación de las construcciones, según lo determine el Reglamento.
+Las personas físicas que adquieran lotes de terrenos urbanos en zonas habitacionales de los fraccionamientos o nuevas urbanizaciones, pagarán la tasa establecida por el Artículo 13 fracción IV de la Ley de Hacienda del Estado para terrenos baldíos, cuando transcurridos cinco años de la fecha de adquisición de los predios no hayan edificado construcciones permanentes, en los mismos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 25o.
 
-El Tesorero General del Estado, declarará la improcedencia de cualquier inconformidad presentada, que no esté comprendida dentro de lo dispuesto en el artículo anterior.
+Se faculta a la Oficina Técnica Catastral para, con el auxilio de la Junta Central Catastral, fijar Valores por Unidades Tipo a los inmuebles ubicados en los Municipios del Estado que a Diciembre de 1974 no hayan sido objeto de catastración, en los términos de esta Ley.
 
 ### CAPITULO TERCERO
 
@@ -163,7 +197,7 @@ Los bienes pertenecientes a la Nación, al Gobierno del Estado, a los Municipios
 
 ###### ARTICULO 28o.
 
-En los casos de resolución del Tesorero General del Estado con motivo de las inconformidades presentadas por los causantes o rectificaciones realizadas de acuerdo con lo establecido en el artículo 26o. de la presente Ley, y en que los avalúos hayan sido objeto de modificaciones, los causantes estarán en su caso obligados al pago de las diferencias en su contra, o tendrán derecho a que se les abonen las cantidades que resulten a su favor por pagos hechos en exceso, desde la fecha en que legalmente el evalúo (SIC) debió empezar a regir.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 29o.
 
@@ -222,3 +256,13 @@ P.O. 27 DE DICIEMBRE DE 1967.
 P.O. 23 DE DICIEMBRE DE 1972.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1974.
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir del día 1o. de enero de 175 (sic).
+
+SEGUNDO.- Los Municipios que hayan sido objeto de catastración o revalorización antes del 1o. de enero de 1973, serán revalorizados a partir de la fecha de vigencia del presente Decreto.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones que se contrapongan con el contenido de este Decreto.
+
+CUARTO.- Por nuevos fraccionamientos, en los términos del Artículo 23 de este Decreto, se entienden aquellos cuya autorización para fraccionar se otorgue con posterioridad a la iniciación de vigencia de este Decreto.
