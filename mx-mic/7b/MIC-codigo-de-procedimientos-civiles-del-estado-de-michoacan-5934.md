@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1955-01-17"
+last_updated: "1956-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1956.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -1645,9 +1645,13 @@ El juez, en vista del título y demás justificaciones, podrá también denegar 
 
 En el curso de estas diligencian no se recibirán pruebas ni se admitirán gestiones de ninguna clase de la parte contraria.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1956)</small>
+
 ###### Artículo 313.
 
-El acto de entrega de los bienes se ejecutará por el juez, notificándose a los inquilinos, arrendatarios y colonos de las (sic) mismos, a los que tengan algunos o todos bajo custodia o administración y a los colindantes, para que reconozcan al nuevo poseedor, librándose al efecto los exhortos o despachos necesarios. También se comunicará la posesión a las (sic) autoridad municipal del lugar en que se encuentren los bienes raíces, para que preste las garantías necesarias al nuevo poseedor.
+El acto de entrega de los bienes se ejecutará por el Juez, notificándose a los inquilinos, arrendatarios y colonos de los mismos, a los que tengan algunos o todos bajo custodia o administración y a los colindantes, para que reconozcan el nuevo poseedor, librándose al efecto los exhortos o despachos necesarios. También se comumunicará (sic) la posesión a la autoridad municipal del lugar en que se encuentren los bienes raíces, para que preste las garantías necesarias al nuevo poseedor.
+
+La entrega de los bienes solamente se ejecutará cuando el solicitante otorgue fianza por tres tantos del valor fiscal de aquellos y si no lo hubiere, por el que fijen peritos que nombrará el juez, a fin de responder de la devolución de los bienes y del pago de daños y perjuicios en caso de que la posesión quede sin efecto.
 
 ###### Artículo 314.
 
@@ -1687,9 +1691,13 @@ En los casos de los artículos anteriores, los que ejecutan las obras deben cuid
 
 La solicitud de suspensión de obra nueva se presentará ante el juez que deba conocer del juicio principal y se acompañarán a ella los documentos que deban servir para fundar la acción o se ofrecerá a falta de ellos, información testimonial.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1956)</small>
+
 ###### Artículo 322.
 
-El juez, en vista de los documentos o del resultado de la información, designará un perito y acompañando de él y del secretario se trasladará al lugar donde se esté construyendo la obra nueva y dará fe de la existencia de ésta y de sus dimensiones y si, de acuerdo con el dictamen del perito, creyere que hay fundamento para ello, decretará la suspensión bajo la responsabilidad del solicitante. De la resolución negativa se admitirá el recurso de queja.
+El Juez, en vista de los documentos o del resultado de la información, designará un perito y acompañado de él y del secretario, se trasladará al lugar donde se esté construyendo la obra nueva y dará f. (sic) de la existencia de ésta y de sus dimensiones y si, de acuerdo con el dictamen del perito, creyere que hay fundamento para ello, decretará la suspensión bajo la responsabilidad del solicitante. De la resolución negativa se admitirá e (sic) recurso de queja.
+
+La orden de suspensión solamente podrá ejecutarse si previamente se da fianza por el valor de la obra nueva que se fijará por peritos que nombre el juez, para responder de los daños y perjuicios que la suspensión cause, si ésta queda sin efecto.
 
 ###### Artículo 323.
 
@@ -1751,9 +1759,13 @@ El juez, atendiendo al resultado de la inspección y al dictamen del perito, dec
 
 Si el juez decreta las medidas de seguridad, debe compeler a su ejecución al dueño, a su administrador o a su apoderado, o al inquilino por cuenta de renta; y en defecto de todos éstos la ejecutará el actor, con reserva de su derecho para reclamar del dueño los gastos que le ocasionare la ejecución.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1956)</small>
+
 ###### Artículo 334.
 
-Si las diligencias tienen por objeto la demolición de la obra u objeto peligroso, se observará lo dispuesto en el artículo 331, decretándose la demolición si procediere bajo la responsabilidad del solicitante o negándola en caso de no considerarse necesario o urgente.
+Si las diligencias tienen por objeto la demolición de la obra u objeto peligroso, se observará lo dispusto (sic) en el artículo 331, decretándose la demolición si procediere bajo la responsabilidad del solicitante o negándola en caso de no considerarse necesario o urgente.
+
+La orden de demolición del bien de que se trate, solamente podrá ejecutarse si antes se otorga fianza por tres tantos del valor fiscal de aquél, o en su defecto, por el que fijen peritos que nombre el juez, para responder de los daños y perjuicios que cause la demolición, en caso que tal resolución quede sin efecto.
 
 ###### Artículo 335.
 
@@ -1807,9 +1819,13 @@ A la solicitud se acompañarán los documentos que justifiquen la posesión, o l
 
 El juez admitirá la promoción y acordará recibir la información, si aparece presentada aquélla antes de haber transcurrido un año a contar desde el acto que la ocasionó. Si se presentare después, declarará no haber lugar a su admisión, reservando al que la haya presentado la acción que pudiera corresponderle para que la ejecute en el juicio que fuere procedente. Contra este auto se admitirá el recurso de queja.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1956)</small>
+
 ###### Artículo 345.
 
 Si de la información y demás justificaciones resultaren comprobados la posesión y los actos perturbatorios o el despojo, el juez decretará que se restituya la posesión al promovente si se tratare de despojo; y en caso de actos perturbatorios, prevendrá al demandado se abstenga de cometer tales actos u otros que manifiesten el mismo propósito, y que afiance no volver a perturbar, conminándolo con multa o arresto en caso de reincidencia.
+
+Para ser ejecutado al mandamiento sobre restitución de la posesión, será necesario que previamente se otorgue fianza por tres tantos del valor fiscal del bien materia del antejuicio, o en su defecto, por el que determinen peritos que nombre el Juez, para garantizar la devolución de lo que se reciba y el pago de daños y perjuicios, en caso que la posesión restituída quede sin efecto.
 
 ###### Artículo 346.
 
@@ -7686,3 +7702,9 @@ P.O. 17 DE ENERO DE 1955.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 1956.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
