@@ -4,7 +4,7 @@ identifier: "TAM-ley-constitutiva-de-la-universidad-autonoma-de-tamaulipas-10845
 country: "mx"
 rank: "ley"
 publication_date: "1956-02-11"
-last_updated: "1967-12-06"
+last_updated: "1968-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1968.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 11 de febrero de 1956.
 
@@ -59,21 +59,19 @@ Se encomienda a la Universidad Autónoma de Tamaulipas el servicio público rela
 
 La Universidad Autónoma de Tamaulipas se integrará con las Facultades, Escuelas, Institutos y Departamentos que se requieran para el debido cumplimiento de sus fines, atendiendo a la complejidad de la cultura, a la especialidad de la ciencia, a la diversificación de la técnica y a la variedad de los servicios de extensión que preste, por lo que podrá crear y suprimir dependencias conforme a sus designios y las necesidades culturales del Estado.
 
-> <small>(ADICIONADO [REFORMADO], P.O. 6 DE DICIEMBRE DE 1967)</small>
+N. DE E., POR DECRETO NUMERO 243, PUBLICADO EN EL P.O. EL 3 DE FEBRERO DE 1968, SE ABROGA EL DECRETO 192, PUBLICADO EN EL P.O. EL 6 DE DICIEMBRE DE 1967, EN CONSECUENCIA SE CONSERVA EL TEXTO ANTERIOR A DICHA REFORMA.
 
 ###### ARTICULO CUARTO.
 
-El funcionamiento docente, técnico y administrativo de la Unversidad (sic) Autónoma de Tamaulipas, será autónomo y, por tanto, la comunidad de profesores y estudiantes que la constituyen, tendrá su propio Gobierno interior, que será desempeñado por las siguientes autoridades: La Junta de Gobierno, la Asamblea General, el Rector, el Sub-Rector del Centro Universitario de Tampico y Ciudad Madero, el Patronato, los Directores de Facultades, Escuelas e Instituciones, los Consejos Locales y el Tribunal de Honor.
+El funcionamiento docente, técnico y administrativo de la Universidad Autónoma de Tamaulipas, será autónomo y, por tanto, la comunidad de profesores y estudiantes que la constituyen, tendrá su propio Gobierno interior, que será desempeñado por las siguientes autoridades: La Junta de Gobierno, la Asamblea General, el Rector, el Patronato, los Directores de Facultades, Escuelas e Institutos, los Consejos Locales y el Tribunal de Honor.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 1967)</small>
+N. DE E., POR DECRETO NUMERO 243, PUBLICADO EN EL P.O. EL 3 DE FEBRERO DE 1968, SE ABROGA EL DECRETO 192, PUBLICADO EN EL P.O. EL 6 DE DICIEMBRE DE 1967, EN CONSECUENCIA SE CONSERVA EL TEXTO ANTERIOR A DICHA REFORMA.
 
 ###### ARTICULO QUINTO.
 
 Las funciones políticas, docentes y técnicas corresponden a la Junta de Gobierno y a la Asamblea General; los Consejos Locales tendrán competencia en todo aquello que la Ley les atribuya y que la Asamblea les encomiende.
 
-> <small>(ADICIONADO [REFORMADO], P.O. 6 DE DICIEMBRE DE 1967)</small>
-
-Las Autoridades Ejecutivas, que serán el Rector, el Sub-Rector del Centro Universitario de Tampico y Ciudad Madero y los Directores, asumirán las funciones académicas y administrativas que se determinen en la Ley Orgánica de la Universidad Autónoma de Tamaulipas.
+Las autoridades ejecutivas, que serán el Rector y los Directores, asumirán las funciones académicas y administrativas que se determinen en la Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 1967)</small>
 
@@ -142,3 +140,7 @@ P.O. 6 DE DICIEMBRE DE 1967
 PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Al entrar en vigor las presentes reformas, la Asamblea deberá reunirse en un plazo no mayor de 72 horas para presentar terna a la Junta de Gobierno, proponiendo el nombramiento del Sub-Rector.
+
+P.O. 3 DE FEBRERO DE 1968
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
