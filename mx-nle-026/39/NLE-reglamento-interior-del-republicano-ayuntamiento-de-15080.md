@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "1999-08-20"
+last_updated: "2000-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -583,399 +583,51 @@ Las Comisiones que establezca el Ayuntamiento tienen la obligación de rendir un
 
 Las Comisiones que establezca el R. Ayuntamiento, por su naturaleza se clasifican en Permanentes y Especiales.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 52.
 
-Comisiones Permanentes.- Las Comisiones Permanentes son las formadas dentro del Ayuntamiento con duración del ejercicio de la Administración Pública, pudiendo revocarse o cambiarse de acuerdo a las circunstancias en los términos de este ordenamiento. Son las siguientes:
+Comisiones Permanentes.- Las comisiones permanentes son las formadas dentro del Ayuntamiento con duración del ejercicio de la Administración Municipal, pudiendo revocarse o cambiarse a propuesta del C. Presidente Municipal, debiendo existir cuando menos las siguientes:
 
-I. HACIENDA
+I.- Hacienda;
 
-Corresponde a la Comisión de Hacienda el conocimiento y despacho de los siguientes asuntos:
+II.- Patrimonio;
 
-a).- Proponer el inventario de bienes municipales.
+III.- Obras Públicas y vialidad;
 
-b).- Proponer al R. Ayuntamiento proyectos de reglamentos, acuerdos y demás disposiciones administrativas para el buen manejo de los asuntos hacendarios.
+IV.- Desarrollo Urbano;
 
-c).- Proponer los sistemas de recaudación de impuestos, derechos, productos, aprovechamientos y demás ingresos.
+V.- Educación y Cultura;
 
-d).- Conocer y vigilar el monto y percepción quincenal de la nómina municipal.
+VI.- Deportes;
 
-e).- Coordinarse, con la Contraloría Municipal para realizar revisiones aleatorias de la nómina municipal.
+VII.- Régimen Interior;
 
-f).- Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobado.
+VIII.- Policía;
 
-g).- Vigilar el cumplimiento de la recepción de las participaciones federales y que éstas se realicen conforme a las bases, montos y plazos que anualmente determine el Congreso del Estado.
+IX.- Espectáculos y Alcoholes;
 
-h).- Vigilar el exacto cumplimiento de las funciones que se encomiendan a la Tesorería Municipal.
+X.- Asistencia Social;
 
-i).- Vigilar la contabilidad de ingresos y egresos municipal.
+XI.- Mercados y Comercio;
 
-j).- Intervenir en la concertación de contratos de compra-venta, arrendamiento, concursos, licitaciones, concesiones o de cualquier naturaleza que en su contexto lleven implícitos aspectos financieros, con el fin de que se celebren en la forma más conveniente para el Ayuntamiento.
+XII.- Desarrollo Económico y Turismo;
 
-k).- Determinar la capacidad de endeudamiento y el control de la deuda pública municipal.
+XIII.- Panteones;
 
-l).- Exigir a los servidores públicos municipales a quienes se encomiende el manejo de fondos, el otorgar fianza que garantice el cumplimiento de su función.
+XIV.- Derechos Humanos;
 
-m).- Vigilar el correcto cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal.
+XV.- Nomenclatura y Vías Públicas;
 
-n).- Solicitar al Secretario de Finanzas y Tesorero Municipal, la información financiera mensual a más tardar tres días hábiles posteriores al cierre, incluyendo un comparativo de lo presupuestado contra lo real, mensual y acumulado por Secretaría y/o Dirección.
+XVI.- Salud;
 
-o).- Solicitar al Secretario de Finanzas y Tesorero Municipal un catálogo de cuentas de Ingresos y Egresos, adecuado a las necesidades de cada Secretaría y/o Dirección; el presupuesto de Ingresos y Egresos, con sus respectivos anexos, cinco días hábiles antes de su presentación en Sesión del R. Ayuntamiento con sus respectivos anexos.
+XVII.- Ecología;
 
-p).- Visitar periódicamente las diferentes dependencias que manejan fondos de la Hacienda Municipal para revisar las operaciones que en ellas se realicen.
+XVIII.- Tránsito;
 
-q).- Vigilar la disposición de créditos solicitados y su correcta aplicación para lo que fueron solicitados.
+XIX.- Servicios Primarios, y
 
-II. POLICIA
-
-Corresponde a la Comisión de Policía, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar el exacto cumplimiento del Reglamento de Policía y Buen Gobierno.
-
-b).- Visitar con frecuencia la cárcel municipal para verificar el cumplimiento de los Derechos Humanos e informar y proponer las soluciones necesarias para el mejor funcionamiento del reclusorio.
-
-c).- Revisar se brinde a los arrestados una alimentación apropiada.
-
-d).- Revisar que en la cárcel municipal se observen reglas de moralidad y de buenas costumbres.
-
-e).- Coordinarse con la Dirección de Salud Pública Municipal y con la de Derechos Humanos, para efecto de conocer las condiciones de salud de los arrestados.
-
-f).- Promover y fomentar, mediante proposición de programas al Ayuntamiento, la superación técnica y cultural de los elementos de Seguridad Pública Municipal.
-
-g).- Proponer reformas, modificaciones o adiciones al Reglamento de Policía y Buen Gobierno.
-
-III.- REGIMEN INTERIOR DE GOBIERNO
-
-Corresponde a la Comisión de Gobierno y Régimen Interior de Gobierno el conocimiento y despacho de los siguientes asuntos:
-
-a).- Hacer llegar al Congreso del Estado, los proyectos de Ley aprobados por el Ayuntamiento, para su debida discusión y aprobación.
-
-b).- Proyectar y vigilar el cumplimiento del Reglamento Interior del Ayuntamiento.
-
-c).- Editar, publicar y supervisar la Gaceta Municipal.
-
-d).- Fomentar la creación de organismos de consulta, de colaboración municipal, así como reglamentar su funcionamiento.
-
-e).- Revisar el cumplimiento de las sanciones que se impongan a los miembros del Ayuntamiento.
-
-f).- Asesorarse con el Director Jurídico Municipal sobre la creación y reforma de disposiciones jurídicas de carácter general, así como la fundamentación legal, para la realización de actos de gobierno.
-
-IV.- ALUMBRADO
-
-Corresponde a la Comisión de Alumbrado, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Proponer estilos sobre zonas y colonias del municipio, para determinar la instalación, supervisión y mantenimiento de alumbrado público.
-
-b).- Proponer la instalación de alumbrado ornamental.
-
-c).- Revisar que los fraccionadores y organismos promotores de la vivienda, cumplan con los requisitos que establezca el Ayuntamiento.
-
-d).- Revisar el inventario general de materiales y equipos de alumbrado público y la numeración de la postería por zonas.
-
-Corresponde a la Comisión de Asistencia Social, el conocimiento y despacho de los siguientes asuntos:
-
-V.- ASISTENCIA SOCIAL
-
-a).- Revisar, evaluar y proponer el mejoramiento de las instalaciones de los organismos municipales de asistencia social.
-
-b).- Solicitar información de los proyectos a realizar por los organismos municipales de asistencia social.
-
-c).- Realizar estudios sobre programas de asistencia social y si no se tienen contemplados, proponerlos como sugerencias a las dependencias correspondientes.
-
-d).- Promover la colaboración con los organismos que proporcionen asistencia social en el Estado.
-
-VI.- DESARROLLO URBANO
-
-Corresponde a la Comisión de Desarrollo Urbano, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar el cumplimiento e implementación del Plan Municipal de Desarrollo Urbano y promover la evaluación, revisión y modificación en su caso.
-
-b).- Realizar foros de consulta en materia de desarrollo urbano y hacer del conocimiento público los planes y proyectos, fomentando entre la ciudadanía la cultura urbana y procuración del respeto a las tradiciones.
-
-c).- Revisar el cumplimiento e implementación del Reglamento de Construcciones para el Municipio y promover la difusión, evaluación, revisión y modificación, en su caso.
-
-d).- Promover la elaboración del programa de control de asentamientos humanos irregulares para su regularización, realizando las gestiones necesarias ante las autoridades correspondientes.
-
-e).- Promover los proyectos de solución a la demanda de vivienda.
-
-f).- Revisar la observancia de los ordenamientos legales del ramo y el cumplimiento de los planes de desarrollo urbano vigentes.
-
-g).- Proponer al Ayuntamiento los proyectos de desarrollo urbano que puedan prever y solucionar el crecimiento ordenado dentro del territorio municipal.
-
-h).- Coadyuvar con la Comisión de Patrimonio en la vigilancia y ordenamiento de los límites territoriales.
-
-i).- Proponer reformas, modificaciones o adiciones al Reglamento de Construcciones.
-
-j).- Emitir opinión en torno a la instalación de monumentos y estatuas que deban colocarse en lugares públicos y colaborar en el cumplimiento de las disposiciones que se tomen para la conservación de monumentos arquitectónicos y joyas históricas.
-
-VII.- TRANSITO Y VIALIDAD
-
-Corresponde a la Comisión de Tránsito y Vialidad, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Proponer al Ayuntamiento, previo estudio de la vialidad pública, los lugares que pueden destinarse y autorizarse para uso de estacionamientos, sitios de automóviles y camiones de alquiler.
-
-b).- Proponer la implementación de nuevas técnicas que permitan una mejor vialidad en el municipio.
-
-c).- Revisar la correcta colocación de señalamientos, semáforos de tránsito vehicular y peatonal, así como la reparación y sustitución de los que fueren dañados o destruidos.
-
-d).- Colaborar con la Comisión de Ecología, en la programación de campañas tendientes a la prevención y control de la contaminación atmosférica que proviene del uso de vehículos.
-
-e).- Proponer programas para promover la educación vial y la observancia del Reglamento de Tránsito y Vialidad.
-
-f).- Solicitar al Presidente Municipal o al Ayuntamiento, la aplicación de sanciones a los servidores públicos municipales de la Dirección de Tránsito y Vialidad, cuando faltaren al cumplimiento de su deber.
-
-g).- Promover y fomentar la acción de la población, para que denuncie las conductas irregulares del personal de la Dirección de Tránsito y Vialidad.
-
-h).- Promover la superación técnica y cultural de los elementos de la Dirección de Tránsito y Vialidad.
-
-i).- Proponer reformas, modificaciones o adiciones al Reglamento de Tránsito y Vialidad.
-
-VIII.- ESPECTACULOS Y PERMISOS ESPECIALES
-
-Corresponde a la Comisión de Espectáculos y Permisos Especiales el conocimiento y despacho de los siguientes asuntos:
-
-a).- Realizar visitas y estudios sobre las condiciones de los lugares donde se llevan a cabo espectáculos públicos.
-
-b).- Formular estudios para realizar espectáculos gratuitos o de precios módicos.
-
-c).- Vigilar la correcta inspección y cumplimiento de las disposiciones legales de los establecimientos con venta y consumo de bebidas alcohólicas.
-
-d).- Estudiar, evaluar y poner a consideración del Ayuntamiento los dictámenes que presente el Secretario del Ayuntamiento, para el otorgamiento de las licencias para la venta de bebidas alcohólicas, presentados según los requisitos marcados por el reglamento respectivo.
-
-e).- Proponer reformas, modificaciones o adiciones al Reglamento que Regula la Venta y/o Consumo de Bebidas Alcohólicas y al de Espectáculos en su caso.
-
-IX.- TURISMO
-
-Corresponde a la Comisión de Turismo, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Proponer programas que tiendan a promover el turismo en el Municipio y evaluar sus resultados.
-
-b).- Proponer las estrategias de promoción turística.
-
-c).- Elaborar un control estadístico de centros comerciales, restaurantes, hoteles, monumentos y edificios, recabando toda la información útil para el fomento del turismo.
-
-d).- Promover la fraternidad y la buena vecindad con otros municipios.
-
-X.- SALUD
-
-Corresponde a la Comisión de Salud, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Proponer campañas para combatir el alcoholismo, la drogadicción, la prostitución o cualquier otro hábito que degrade a la persona.
-
-b).- Promover campañas que tiendan a preservar la salud pública en el municipio.
-
-c).- Acompañar a las autoridades sanitarias a visitas domiciliarias e inspecciones a empresas, hoteles, balnearios, vecindades o cualquier otro centro de reunión pública.
-
-d).- Promover las condiciones de seguridad e higiene para los empleados municipales.
-
-e).- Evaluar la revisión de la calidad de los alimentos y bebidas que se ofrezcan al público.
-
-IX.- EDUCACION
-
-Corresponde a la Comisión de Educación, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Fomentar y vigilar que las actividades educativas se lleven a cabo en lugares y condiciones idóneas para ello y observen los ordenamientos legales educativos.
-
-b).- Cooperar con las autoridades federales y estatales, en lo relacionado con la promoción y difusión de la educación en todos los niveles.
-
-c).- Informar a la comunidad sobre el contenido de los programas educativos del gobierno municipal.
-
-d).- Atender los requerimientos, las necesidades y los problemas de las comunidades que no tengan acceso al servicio público educativo.
-
-e).- Establecer y mantener relaciones con las autoridades educativas y con las Asociaciones de padres de familia de los planteles educativos.
-
-f).- Promover becas para los estudiantes de bajos recursos económicos.
-
-g).- Propiciar y coordinar la participación oficial del Municipio en certámenes educativos, dentro y fuera del Municipio.
-
-h).- Fomentar las visitas de toda la ciudadanía a las bibliotecas, centros culturales, lugares históricos, parques y centros recreativos del Municipio.
-
-i).- Colaborar con las comisiones de Patrimonio y Desarrollo Urbano y con las instituciones educativas para que cada plantel cuente con toda la documentación necesaria, en lo referente a planos de terrenos, construcciones, instalaciones y comodatos.
-
-j).- Coadyuvar en la relación de los eventos cívicos para rendirles honores a los símbolos patrios.
-
-XII.- MERCADOS
-
-Corresponde a la Comisión de Mercados, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar el cumplimiento del Reglamento de Mercados y las disposiciones relativas de cualquier otro ordenamiento legal aplicable.
-
-b).- Visitar periódicamente los mercados y sus zonas aledañas.
-
-c).- Coordinarse con las autoridades sanitarias, para la evaluación de campañas permanentes de higiene y salubridad.
-
-d).- Coordinarse con la Comisión de Tránsito y Vialidad para vigilar que no se entorpezca el área vehicular en la instalación de mercados.
-
-e).- Proponer las reformas, modificaciones o adiciones al Reglamento de Mercados.
-
-f).- Denunciar los abusos e irregularidades que se cometan en los mercados del Municipio.
-
-XIII.- ECOLOGIA
-
-Corresponde a la Comisión de Ecología, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Proponer las políticas y los criterios ecológicos para la conservación y la restauración del equilibrio ecológico y la protección al ambiente.
-
-b).- Participar en la programación para la creación de parques urbanos y zonas de conservación ecológica, así como la evaluación de la administración de los existentes.
-
-c).- Proponer medidas que tiendan a prevenir y controlar la contaminación atmosférica proveniente del tránsito de vehículos o de actividades de bajo riesgo ecológico.
-
-d).- Proponer medidas que tiendan a prevenir y controlar la contaminación visual y hacer efectiva la prohibición de emisiones contaminantes derivadas de gases, humos, ruidos, vibraciones, energía térmica y lumínica.
-
-e).- Revisar el manejo y disposición de residuos sólidos no peligrosos.
-
-f).- Proponer la concertación de convenios de coordinación entre el Municipio y autoridades federales, estatales o entidades federativas.
-
-g).- Elaborar estudios en torno a los problemas ecológicos del Municipio.
-
-XIV.- PANTEONES
-
-Corresponde a la Comisión de Panteones, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar la observancia de los ordenamientos federales, estatales y municipales aplicables al ramo de panteones.
-
-b).- Proponer las medidas concernientes al alineamiento y plantación de árboles o vegetación en los cementerios y las características que deben tener las criptas y mausoleos y al desagüe pluvial y cualquier servicio propio de los panteones.
-
-c).- Revisar la administración de los panteones municipales.
-
-d).- Proponer el precio de venta o arrendamiento de los terrenos destinados a la utilización de fosas.
-
-e).- Sugerir las medidas adecuadas para la conservación de los cementerios.
-
-f).- Estudiar las características que deban reunir los nuevos cementerios y proponer su apropiada ubicación.
-
-XV.- LIMPIA
-
-Corresponde a la Comisión de Limpia, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar la observancia del Reglamento de Limpia.
-
-b).- Revisar que las calles y plazas del municipio se encuentren en buen estado de limpieza.
-
-c).- Proponer planes, medidas y sistemas para mejorar el servicio público de limpieza.
-
-d).- Realizar estudios tendientes a la localización de áreas convenientes para el depósito, recolección y transferencia de basura, desechos recolectados y las posibilidades de su industrialización.
-
-e).- Colaborar con la evaluación de la administrativa de la industrialización de basura y proponer medidas suficientes para optimizar su servicio.
-
-f).- Vigilar la gratuidad en el servicio y recolección de la basura a los ciudadanos del municipio.
-
-g).- Proponer reforma (sic), adiciones y modificaciones al Reglamento de Limpia Municipal.
-
-XVI.- OBRAS PUBLICAS
-
-Es competencia de la comisión de Obras Públicas, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar la planeación y ejecución de las obras públicas municipales, acorde al Plan de Desarrollo Municipal.
-
-b).- Promover Obras Públicas mediante la concertación del Municipio y la comunidad.
-
-c).- Supervisar que las obras Públicas Municipales se ejecuten acorde a los proyectos, planes y contratos que le hubieren originado.
-
-d).- Emitir dictamen sobre Ornato, alineamiento, conservación y apertura de vías públicas.
-
-e).- Proponer medidas suficientes para la conservación del sistema de desagüe, drenaje y colectores del municipio.
-
-f).- Vigilar que se integre y actualice el padrón de contratistas de la Obra Pública.
-
-XVII.- RECREACION Y DEPORTE
-
-Corresponde a la Comisión de Recreación y Deporte, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Promover la práctica de los deportes y actividades recreativas, a fin de procurar el desarrollo físico y mental de los habitantes del Municipio.
-
-b).- Promover y proponer la creación de centros deportivos y recreativos que cuenten con las especificaciones necesarias para el desarrollo de sus disciplinas.
-
-c).- Vigilar la conservación y buena administración de los centros deportivos y lugares de esparcimiento.
-
-d).- Proponer la celebración de convenios de colaboración entre el Municipio y las autoridades del ramo deportivo, clubes privados, instituciones deportivas y recreativas.
-
-e).- Participar en la constitución de comités deportivos y pro-festividades.
-
-f).- Asistir al desarrollo de las actividades recreativas y deportivas programadas.
-
-g).- Promover el reconocimiento y apoyo a deportistas destacados del Municipio.
-
-h).- Vigilar que las instalaciones deportivas y recreativas existentes, cuenten con las especificaciones necesarias para el desarrollo de sus disciplinas.
-
-XVIII.- NOMENCLATURA
-
-Corresponde a la Comisión de Nomenclatura, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Proponer estudios técnicos, para una adecuada estructuración de la nomenclatura del Municipio.
-
-b).- Vigilar el correcto control sobre nomenclatura.
-
-c).- Proponer la uniformidad de las características que deba observar la nomenclatura.
-
-d).- Promover que las casas habitación del Municipio cuenten con los números oficiales.
-
-e).- Proponer reformas o adiciones al Reglamento de Nomenclatura.
-
-f).- Vigilar que la nomenclatura de los nuevos fraccionamientos, tienda a promover y conservar los valores nacionales ya (sic) perpetuar el nombre de las personas cuyos actos heroicos sirvan de ejemplo para los habitantes del Municipio.
-
-XIX.- CULTURA
-
-Le corresponde a la Comisión de Cultura, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Promover actividades artísticas y culturales.
-
-b).- Elaborar programas para la difusión de la cultura.
-
-c).- Elaborar y difundir los programas de actividades cívicas del Municipio.
-
-d).- Vigilar y procurar el respeto a los símbolos patrios.
-
-e).- Participar en la constitución de comités pro-festividades.
-
-f).- Elaborar el calendarios de actividades cívicas y vigilar su exacto cumplimiento.
-
-g).- Promover la creación, conservación y funcionamiento del Museo de la Ciudad.
-
-XX.- DERECHOS HUMANOS
-
-Corresponde a la Comisión de Derechos Humanos el conocimiento y despacho de los siguientes asuntos:
-
-a).- Supervisar que los Derechos Humanos sean respetados en el Municipio.
-
-b).- Iniciar procedimientos para conocer si hay violación de derechos humanos a traves de dos caminos: de oficio o por queja presentada ante la propia Comisión.
-
-c).- Emitir recomendaciones a las autoridades Municipales para evitar y reparar los daños causados por violación de derechos humanos.
-
-d).- Visitar los lugares donde se presuma o constate violación de derechos humanos, como cárceles, hospitales, escuelas, centros de trabajo, entre otros.
-
-e).- Emitir informes públicos sobre violación de derechos humanos y hacer propuestas legislativas para que sean respetados esos derechos.
-
-f).- Elaborar programas preventivos en materia de derechos humanos y difundirlos entre la población del municipio.
-
-g).- Elaborar, revisar y reformar el Reglamento sobre Derechos Humanos.
-
-XXI.- FOMENTO ECONOMICO
-
-Corresponde a la Comisión de Fomento Económico, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Fomentar el desarrollo de las políticas económicas que tengan como finalidad la generación de empleos, el mejoramiento del nivel de ingresos de la comunidad y el fomento a la industria.
-
-b).- Proponer la creación de programas que fomenten el comercio internacional y que tengan como fin generar divisas para el desarrollo interno del municipio.
-
-c).- Proponer la creación de programas de empleo y revisar su cumplimiento.
-
-d).- Proponer los programas de apoyo a micro-empresarios familiares.
-
-XXII.- PATRIMONIO
-
-Corresponde a la Comisión de Patrimonio, el conocimiento y despacho de los siguientes asuntos:
-
-a).- Revisar el inventario de bienes que integren el patrimonio municipal.
-
-b).- Proponer la revisión de la documentación relativa a los bienes municipales.
-
-c).- Revisar que los bienes municipales sean utilizados de acuerdo al fin al que fueron destinados.
-
-d).- Vigilar el correcto mantenimiento de los bienes municipales.
-
-e).- Participar en la concertación de contratos de arrendamiento, compraventa, concesión, permuta, comodato o de cualquier otro tipo a celebrarse conforme a los bienes que integran el Patrimonio Municipal.
-
-f).- Coordinarse con la Comisión de Desarrollo Urbano para la posible desafectación de áreas municipales que estén en posesión de asentamientos humanos.
+XX.- Bomberos y Protección Civil.
 
 ###### Artículo 53.
 
@@ -1116,3 +768,13 @@ C. ING. ROGELIO BENAVIDES CHAPA
 EL C. SECRETARIO DE AYUNTAMIENTO
 
 C. HERIBERTO GARCIA GOMEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO.- Enviése al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
