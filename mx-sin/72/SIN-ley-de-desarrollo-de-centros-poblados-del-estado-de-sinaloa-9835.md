@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1974-07-12"
+last_updated: "1975-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 12 DE JULIO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 10 DE FEBRERO DE 1975.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -563,9 +563,9 @@ III.-- El monto de los derechos a su cargo y la forma de pago; y
 
 IV.-- El número de mensualidades en que deba hacer el pago total y el plazo en que deba hacer el primer pago.
 
-### CAPITULO III. DEL IMPUESTO DE PLUSVALIA PARA EL DESARROLLO
+### CAPITULO III
 
-DE CENTROS POBLADOS.
+DEL IMPUESTO DE PLUSVALIA PARA EL DESARROLLO DE CENTROS POBLADOS.
 
 ###### Artículo 34.
 
@@ -627,9 +627,7 @@ V.-- El número de bimestres en que deba hacerse el pago total y el plazo en que
 
 ### CAPITULO UNICO. DE LAS OBRAS INTERMUNICIPALES
 
-## TITULO CUARTO. DE LAS OBRAS INTERMUNICIPALES DE DESARROLLO
-
-URBANO
+## TITULO CUARTO. DE LAS OBRAS INTERMUNICIPALES DE DESARROLLO URBANO
 
 ### CAPITULO UNICO. DEL PLANO REGULADOR DE LOS CENTROS POBLADOS
 
@@ -1213,9 +1211,11 @@ Los usuarios tendrán obligación de contribuir proporcionalmente al sostenimien
 
 El Ayuntamiento supervisará la administración de los servicios para cerciorarse de que sean impartidos con regularidad.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1975)</small>
+
 ###### Artículo 127.
 
-El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados, los terrenos donados al Municipio. Se procederá al efecto, a la construcción de las escuelas, parques deportivos, jardines, mercados, dispensarios, guarderías y demás edificios que hubiesen sido previstos. Estos terrenos son inalienables e imprescriptibles y a la conservación y mejoramiento de sus obras estarán obligados todos los usuarios. Los funcionarios o autoridades que enajenen, dispongan o permitan éstas, para fines diversos de aquellos para los que los terrenos fueron originalmente destinados, serán responsables personalmente del pago de la indemnización correspondiente al Ayuntamiento y a los usuarios independientemente de su responsabilidad penal en que hubierren incurrido. Los actos mencionados serán causa de separación del empleo o cargo a juicio del Ayuntamiento o del Congreso del Estado en su caso.
+El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio. Se procederá al efecto a la construcción de las escuelas, parques deportivos, jardines, mercados, dispensarios, guarderías y demás edificios que hubieren sido previstos a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el H. Congreso del Estado autorice su enajenación o cambio de destino, a solicitud del Ayuntamiento respectivo y en beneficio del Municipio que representa previa aprobación de las Comisiones tanto Municipal como Estatal de Desarrollo de Centros Poblados. Los funcionarios o autoridades, que sin esa autorización enajenen, dispongan o permitan esto, para fines diversos de aquellos para los que los terrenos fueron originalmente destinados serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya indicada, serán causa de separación del empleo o cargo, a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
 
 ###### Artículo 128.
 
@@ -1470,3 +1470,9 @@ UNICO.- El presente decreto empezará a surtir sus efectos a partir del día sig
 P.O. 12 DE JULIO DE 1974.
 
 UNICO.- El presente Decreto empezará a surtir sus efectos legales correspondientes el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 10 DE FEBRERO DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
