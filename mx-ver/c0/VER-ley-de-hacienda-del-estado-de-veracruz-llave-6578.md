@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1995-12-28"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1996
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -39,19 +39,35 @@ LEY NUMERO 24
 
 DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-## TITULO PRIMERO. DE LOS IMPUESTOS
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO PRIMERO. DEL IMPUESTO SOBRE TRANSPORTE PUBLICO EN ZONAS
+## TITULO PRIMERO. De los impuestos
 
-URBANAS.
+> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO PRIMERO. Del impuesto sobre transporte público en zonas
+
+urbanas, suburbanas y foráneas
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 1.
 
-Este impuesto se causará por la percepción de ingresos que se obtengan por la prestación del servicio de Transporte Público de personas que se haga dentro de las zonas urbanas.
+Este impuesto se causará por la percepción de ingresos que se obtengan por la prestación del Servicio de Transporte Público Terrestre de Personas que se haga dentro de las Zonas Urbanas, Suburbanas y Foráneas.
+
+Para los efectos de este impuesto se considera:
+
+I. Urbanos .-Los que prestan el servicio dentro de las poblaciones;
+
+II.-Suburbanos.-Los que prestan el servicio dentro de las poblaciones y en su periferia, y
+
+III.-Foráneos.-Los que prestan el servicio de una a otra población.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 2.
 
-Son sujetos de este impuesto las personas físicas o morales que prestan el servicio de Transporte Público de personas dentro de las zonas urbanas.
+Son sujetos de este impuesto las personas físicas o morales que prestan el servicio de Transporte Público Terrestre de personas dentro de las Zonas Urbanas, Suburbanas y Foráneas.
 
 > <small>(REFORMADO G.O. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -93,9 +109,9 @@ a).-Una cuota mensual por unidad que determinará la Secretaría de Finanzas y P
 
 Esta cuota mensual deberá ser pagada en los términos de la fracción III del artículo anterior excepto la obligación de presentar declaración de ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-b).-Una cuota anual por unidad que la Secretaría de Finanzas y PLaneación (sic) podrá determinar estimando sus ingresos probables.
+b).-Una cuota anual por unidad que la Secretaría de Finanzas y Planeación podrá determinar estimando sus ingresos probables.
 
 Cuando los ingresos totales percibidos en un ejercicio fiscal excedan en más de un 20% de los que se hubieren determinado para el señalamiento de la cuota fija a pagar, ésta quedará sin efecto y el contribuyente estará obligado a pagar las diferencias que resulten de la comprobación de los ingresos reales.
 
@@ -103,133 +119,49 @@ Cuando los ingresos totales percibidos en un ejercicio fiscal excedan en más de
 
 Estas disposiciones son aplicables exclusivamente a la prestación de servicios a que se refiere la fracción V del artículo 15 de la Ley del Impuesto al Valor Agregado.
 
-### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE HONORARIOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+### CAPITULO SEGUNDO. Del impuesto sobre honorarios por la prestación de servicios profesionales de medicina
 
 ###### ARTICULO 8.
 
-Es objeto de este impuesto, la percepción de ingresos dentro del territorio del Estado, derivado de la prestación de servicios independientes ya sea individualmente o por conducto de sociedades, asociaciones civiles o unidades económicas.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
-
-Para los efectos de este impuesto, se considera percibido el ingreso dentro del territorio del Estado:
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
-
-I.-Cuando en él se presten o surtan efectos de hecho o de derecho los servicios a que se refiere este artículo.
-
-II.-Cuando quien cobre ingresos gravables resida en el Estado.
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1985)</small>
-
-III.-Cuando el domicilio fiscal del contribuyente se encuentre en el Estado, en los términos del artículo 19 del Código Fiscal del Estado.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 9.
 
-Son sujetos de este impuesto las personas físicas que presten servicios independientes en los términos de la Ley del Impuesto sobre la Renta, los cuales no estén gravados por la Ley del Impuesto al Valor Agregado.
-
-Cuando las personas a que se refiere el párrafo anterior operen organizadas en agrupaciones profesionales, asociaciones, sociedades de carácter civil u otras unidades económicas, serán dichas personas físicas los sujetos del impuesto.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 10.
 
-Es base de este impuesto, el monto total de los ingresos a que se refiere el artículo 8.
-
-Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del artículo anterior, la base del impuesto será la porción que a cada uno de ellos les corresponda de los ingresos totales de la organización.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 11.
 
-Este impuesto se causará, liquidará y pagará a razón de 2.5% sobre el monto de la base a que se refiere el artículo anterior.
-
-Si la cantidad que resulte de la aplicación de la tasa, es menor a la equivalente a dos días de salario mínimo general de la zona económica del domicilio del contribuyente, será ésta la cantidad que se pague como impuesto mínimo mensual.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 12.
 
-El pago de este impuesto, se hará mensualmente ante la Oficina de Hacienda del domicilio del causante donde ejerza sus actividades, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago, haciendo uso de las formas autorizadas por la Secretaría de Finanzas y Planeación.
-
-El contribuyente del impuesto mensual causado, acreditará el importe de las retenciones que le hayan hecho los obligados a ello en términos del artículo 13, debiendo presentar declaración aun cuando no haya impuesto que pagar.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 13.
 
-Son responsables solidarios:
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-I.- Las personas morales o las personas físicas que realicen las actividades empresariales que reglamente la Ley del Impuesto Sobre la Renta que hagan pagos a los sujetos de este impuesto deberán retenerlo y enterarlo en la Oficina de Hacienda de su domicilio, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago, haciendo uso de la forma oficial autorizada por la Secretaría de Finanzas y Planeación.
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-II.- La persona física que dirija, administre y/o represente a las personas físicas o morales, distintas de las mencionadas en la fracción I, que tengan fines no lucrativos, cuando hagan pagos a contribuyentes de este impuesto, deberá retenerlo y enterarlo dentro de los cinco días siguientes a la fecha del pago del honorario en la Oficina de Hacienda de su domicilio, en la forma oficial autorizada por la Secretaría de Finanzas y Planeación.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 14.
 
-Los sujetos pasivos de este impuesto, están obligados a:
-
-I.-Empadronarse en la Oficina de Hacienda de su jurisdicción, dentro de los diez días siguientes, a aquel en que inicien sus actividades, utilizando las formas oficiales autorizadas;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-II.- Dar aviso a la Secretaría de Finanzas y Planeación, por conducto de la Oficina de Hacienda correspondiente, en los casos de cambio de su domicilio así como en los de suspensión o cambio de la actividad gravada, dentro del mismo plazo señalado en la fracción anterior, contando a partir del día en que ocurra el cambio.
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-III.-Llevar libro de ingresos y egresos o sistemas de contabilidad donde consten sus actividades
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-IV.-Expedir recibos de honorarios que reúnan los requisitos fiscales, conservando los talonarios correspondientes;
-
-V.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-VI.-Presentar declaración mensual ante la Oficina de Hacienda del Estado de su domicilio fiscal, aun en los casos en que no se determine impuesto a pagar;
-
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-VII.- Presentar durante el mes de abril, copia de la declaración anual (año de calendario) del Impuesto al Ingreso de las Personas Físicas de la Ley del Impuesto Sobre la Renta; y
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-VIII.-Presentar los avisos, declaraciones, solicitudes, datos o informes, copias, libros, documentos o dispositivos magnéticos que le soliciten las Autoridades Fiscales Estatales en ejercicio de sus facultades de comprobación respecto a este impuesto.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 15.
 
-Son obligaciones de los responsables solidarios, además de las señaladas en el artículo 13, las siguientes:
-
-I.-Presentar durante abril, copia de la declaración anual (año de calendario) de pagos a contribuyentes del Impuesto al Ingreso de las Personas Físicas de la Ley del Impuesto sobre la Renta;
-
-II.-Proporcionar los datos y documentos que les sean solicitados por autoridades fiscales del Estado, para verificar el correcto pago de este impuesto.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 16.
 
 (DEROGADO, G.O. 31 DE DICIEMBRE DE 1985)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 17.
 
-Las Autoridades Fiscales, podrán determinar presuntivamente los ingresos de los ingresos de los sujetos de este impuesto, en los siguientes casos:
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-I.-Cuando no presenten sus declaraciones, se detecten alteraciones en la contabilidad tendientes a evadir el exacto cumplimiento de sus obligaciones fiscales, no lleven o no presenten sus libros y registros de contabilidad , no expidan recibos, facturas o cualquier otro documento que señalen las leyes fiscales del Estado.
-
-II.-Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingreso superior, cuando menos de un 10% al declarado por el causante.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-> <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-III.-Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las Autoridades Fiscales.
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Para realizar la determinación presuntiva a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE DIVERSIONES Y
 
@@ -275,15 +207,27 @@ II.-Cinematógrafos sobre la entrada bruta, el 3%;
 
 III.-Circos, sobre la entrada bruta, el 3%
 
-IV.-Espectáculos deportivos, sobre la entrada bruta, el 10%;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-V.-Corridas de toros, becerradas novilladas, jaripeos, y otros espectáculos similares, sobre la entrada bruta, el 10%, con excepción de las peleas de gallos, en que la tasa sobre la entrada bruta, será del 20%;
+IV.- Espectáculos deportivos en vivo, los transmitidos por cable o vía satélite sobre la entrada bruta, el 10%
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+V.-Corridas de toros, becerradas, novilladas, jaripeos, y otros espectáculos similares, sobre la entrada bruta, el 10%, con excepción de las peleas de gallos con o sin variedad, la tasa sobre entrada bruta, será del 20%;
 
 VI.-Representaciones teatrales de comedias, drama, opera, opereta, zarzuela, revista vodevil, variedades, ballet o revista sobre hielo o acuáticas, conciertos y conferencias sobre el precio de cada boleto, ficha o pase de cualquier clase que dé derecho a entrar al espectáculo el 3%;
 
-VII.-Exhibiciones y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 10%; y..
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-VIII.-Los no comprendidos en las fracciones anteriores sobre el precio del boleto, el 10%.
+VII.-Exhibiciones, desfiles de modas y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 10%;
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+VIII.-Bailes sobre la entrada bruta el 10%, y
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+IX.-Los no comprendidos en las fracciones anteriores sobre el precio del total de los boletos vendidos, el 10%.
 
 ###### ARTICULO 22.
 
@@ -341,7 +285,9 @@ III.-A manifestar por escrito a la Oficina de Hacienda respectiva, la baja del e
 
 IV.- Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo y al termino del evento, el importe de la retención conforme al boletaje exhibido o cuota cobrada y demás elementos de prueba de que disponga la Oficina Recaudadora.
 
-V.-A expedir boletos individuales de entrada y comprobante de pago de cuotas, foliados consecutivamente y autorizados o sellados por la Oficina de Hacienda del Estado en los que consten los siguientes datos:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+V.- A entregar boletos individuales de entrada y comprobantes de pago de cuotas, foliados consecutivamente y autorizados sellados por la Oficina de Hacienda del Estado correspondiente, en los que consten los siguientes datos:
 
 a).-Nombre, denominación o razón social de la empresa o persona que organice explote o patrocine la diversión o el espectáculo público;
 
@@ -349,7 +295,9 @@ b).-El precio o cuota de entrada; y
 
 c).-Monto del impuesto que se cause, o la mención de que éste se encuentra incluido en el precio o cuota.
 
-Al término del espectáculo, los organizadores tendrán la obligación de entregar la totalidad de los talonarios de boletos expedidos a la Oficina de Hacienda correspondiente;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Al termino del espectáculo, los organizadores tendrán la obligación de entregar a la Oficina de Hacienda correspondiente, la totalidad de los talonarios de boletos sellados;
 
 VI.-Llevar libro de ingresos y egresos, donde se hagan constar sus actividades; y
 
@@ -367,9 +315,9 @@ I.-Dar aviso a la Oficina de Hacienda o a su representante, cuando menos con tre
 
 II.-Manifestar ante la misma autoridad, cuando menos con un día de anticipación, de la suspensión temporal o definitiva del espectáculo o diversión;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-III.-Garantizar, a satisfacción de la Secretaría de Finanzas y Planeación, el pago del impuesto a que se refiere este capítulo; y
+III.-Deberá garantizar en los términos señalados en el articulo 15 del Código Fiscal para el Estado, el pago del impuesto a que se refiere este capítulo, y
 
 IV.-Retener y enterar en la Oficina de Hacienda correspondiente, el mismo día en que se realice la diversión o el espectáculo, el impuesto que este capítulo regula.
 
@@ -1491,9 +1439,9 @@ Por revalidación Anual
 
 50 Salarios Mínimos
 
-> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por servicios de control vehicular:
+VII.-Por servicios de control vehicular el cual debela cubrirse en un plazo no mayor de 15 días en que ocurra cualquiera de los supuestos que a continuación se enumeran, con el pago simultáneo de los impuestos y derechos que deban de cubrirse conforme al tipo de movimiento:
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1501,15 +1449,11 @@ A).-Dotación de placas para todo tipo de vehículos.
 
 8 salarios mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+B).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-B).-Reposición de una placa.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-4 salarios mínimos
-
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-C).-Canje anual de calcomanía y tarjeta de circulación, el cual deberá hacerse dentro de los primeros tres meses de cada año.
+C).-Expedición anual del comprobante fiscal de control vehicular, el cual deberá hacerse dentro de los primeros tres meses del año.
 
 4 salarios mínimos
 
@@ -1531,7 +1475,9 @@ F).-Baja de vehículos correspondientes a otra Entidad Federativa:
 
 8 salarios mínimos
 
-G).-Alta de vehículo, sin presentar la baja correspondiente.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+G).-Alta de vehículo, sin presentar la baja correspondiente, previa comprobación de haber cubierto los adeudos anteriores de impuestos o derechos de la unidad.
 
 20 salarios mínimos
 
@@ -1547,7 +1493,9 @@ I).-Falta de entrega de tarjeta de circulación en el trámite de: Baja Definiti
 
 2 salarios mínimos
 
-J).-Alta o Baja extemporánea del vehículo.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+J).-Alta o baja extemporánea del vehículo, previa comprobación de haber cubierto los adeudos anteriores por impuestos y derechos generados por la unidad.
 
 2 salarios mínimos
 
@@ -1559,7 +1507,9 @@ A).-Alta de unidad
 
 4 salarios mínimos
 
-B).-Baja de unidad
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+B).- Baja administrativa o definitiva de unidad.
 
 1 salario mínimo.
 
@@ -1592,6 +1542,12 @@ Por día 0.50 salarios mínimo
 H).-Por la expedición de nuevas placas por reasignaciones otorgadas por la Dirección General de Tránsito y Transporte del Estado:
 
 8 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+I).-Canje anual de tarjeta de circulación y expedición del comprobante fiscal de control vehicular.
+
+4 salarios mínimos
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -1639,13 +1595,13 @@ De 100 a 1000 Salarios Mínimos
 
 XII.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-XIII.-Por la autorización para prestar el servicio público de déposito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte:
+XIII.-Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte: 150 salarios mínimos
 
-150 salarios mínimos;
+150 salarios mínimos
 
-Revalidación anual:
+Revalidación anual: salarios mínimos
 
 100 salarios mínimos
 
@@ -1669,27 +1625,49 @@ Por los servicios prestados por la Secretaría de Finanzas y Planeación del Est
 
 I.-Del Departamento de Catastro.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-a).-Por la inscripción de la propiedad o posesión de bienes inmuebles en el catastro o la actualización de los datos ya inscritos, a solicitud del interesado.
-
-3 salarios mínimos
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-b).-Por la expedición de certificados de valor catastral provisional.
+a).-Por la expedición de la célula catastral.
 
 3 salarios mínimos
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-c).-Por la expedición de constancias de inscripción en el Catastro.
+b).-Por la expedición de certificados de valor catastral o catastral provisional.
 
 3 salarios mínimos
 
-II.-Por la certificación de documentos públicos que hayan sido expedidos por la Secretaría de Finanzas y Planeación por hoja.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+c).-Por la expedición de constancias diversas de datos catastrales.
+
+3 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+d).-Por la certificación de planos expedidos por el Departamento de Catastro. 3 salarios mínimos
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+II.-Por la certificación de documentos públicos que hayan sido expedidos por el Departamento de Catastro, por hoja.
 
 0.25 salario mínimo
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Se exceptúa del pago de derechos por la expedición de la cedula catastral:
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+a).-La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+b).-Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o revaluaciones masivas por la ejecución de programas de Catastro; y
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+c).-Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal.
 
 > <small>(REFORMADA SU DENOMINCACION, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
@@ -1697,119 +1675,55 @@ II.-Por la certificación de documentos públicos que hayan sido expedidos por l
 
 DE ENSEÑANZA MEDIA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 50.
 
 Por los servicios telegráficos telefónicos y radiotelefónicos que preste la Secretaría de Comunicaciones, a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a las siguientes tarifas:
 
-I.- Conferencias telefónicas:
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+I.-Conferencias en casetas telefónicas con líneas comunales de magneto:
 
-a).- Casetas telefónicas en un hilo.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+a).-3 minutos $ 0.35
 
-3 Minutos $0.35
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Minuto excedente $0.15
+b).-Minuto Excedente
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+$ 0 15
 
-b).- Castas telefónicas en dos hilos.
+c).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+d).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-3 Minutos $0.60
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Minuto excedente $0.20
+II.-Abonados telefónicos en línea comunal de magneto.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-c).- Caseta radiotelefónica de Gobierno.
+Mensualmente: $23.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+a).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-3 Minutos $0.75
+b).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-Minuto excedente $0.25
+III.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+a).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-d).- Caseta telefónica S.O.S.
+b).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-3 Minutos N$0.70
+c).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-Minuto excedente N$0.25
-
-II.-Telegramas:
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-a).- Ordinarios y urbanos.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-10 Palabras $1.50
-
-Palabra excedente $0.15
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-b).- Urgentes.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-10 Palabras $3.00
-
-Palabra excedente $0.30
-
-III.-Abonados:
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-a).- Telefónicos en un hilo comunal, mensualmente:
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Oficina $3.00
-
-Particular $4.00
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-b).- Telefónico de dos hilos comunal, mensualmente:
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-Oficina $5.00
-
-Particular $7.00
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-c).- Telefónicos en dos hilos directo:
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE1995)</small>
-
-Mensualmente $8.00
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
-
-d).- Suscriptores urbanos:
-
-> <small>(REFORMADO, G.O.28 DE DICIEMBRE DE 1995)</small>
-
-Anualmente $24.00
-
-Depósito $10.00
+d).- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
 DIRECCION GENERAL DE EDUCACION POPULAR
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 51.
 
@@ -1823,97 +1737,93 @@ LA SECRETARIA DE DESARROLLO URBANO
 
 ###### ARTICULO 52.
 
-Por los servicios prestados por la Secretaría de Educación y Cultura a través de la Dirección General de Educación Secundaria y la Dirección General de Educación Media Superior y Superior.
+Por los servicios prestados por la Secretaría de Educación y Cultura, se establece la siguiente tarifa para el pago de derechos:
 
-I.-Inscripción 0.25 salario mínimo
+I.-Por trámite de inscripción y reinscripción en los siguientes niveles educativos:
 
-Bachilleres (semestre) 0.50 salario mínimo
+a).-Educación media superior: (semestral) 0.25 salario mínimo
 
-Secundaria 0.50 salario mínimo
+b).-Educación superior:
 
-Otras
+1.-Normal básica (anual) 1.50 salarios mínimos
 
-II.-Cuota de incorporación
+2.-Normal superior (semestral) 1.50 salarios mínimos
 
-Bachilleres (semestre) 0.25 salario mínimo
+3.-Universidades Pedagógicas Licenciatura (semestral) 1.50 salarios mínimos
 
-Secundaria 0.50 salario mínimo
+Educación continua 3 salarios mínimos
 
-Otras 0.50 salario mínimo
+Postgrado (semestral) 6 salarios mínimos
 
-III.-Revisión, convalidación y equivalencia de estudios
+II.-Por exámenes:
 
-Bachilleres 1 salario mínimo
+a).-A título de suficiencia para alumnos no promovidos de sexto grado de educación primaria: 0.50 salario mínimo
 
-Secundaria 1 salario mínimo
+b).-A título de suficiencia para alumnos que no cursaron alguna materia del Plan de Estudios del nivel medio superior vigente: 0.50 salario mínimo
 
-Otras 1 salario mínimo
+c).-De regularización para alumnos de los planteles de secundaria, bachillerato y educación superior:
 
-IV.-Examen de recuperación
+1.-Primera oportunidad 0.25 salario mínimo
 
-Primera oportunidad
+2.-Segunda oportunidad 0.50 salario mínimo
 
-Bachilleres 0.25 salario mínimo
+3.-Tercera oportunidad 0.75 salario mínimo
 
-Secundaria 0.25 salario mínimo
+d).-Examen profesional:
 
-Otras 0.25 salario mínimo
+1.-Profesor de Educación Preescolar o Primaria 1.75 salarios mínimos
 
-Segunda y Tercera Oportunidad
+2.-Licenciatura 2.50 salarios mínimos
 
-Bachilleres 0.50 salario mínimo
+3.-Postgrado 3 salarios mínimos
 
-Secundaria 0.50 salario mínimo
+e).-Admisión: Educación media superior 4.75 salarios mínimos
 
-Otras 0.50 salario mínimo
+Educación superior 2.50 salarios mínimos
 
-V.-Examen a título de suficiencia
+III.-Expedición y reexpedición de documentos:
 
-Bachilleres 1 salario mínimo
+a).-Certificados de estudios de niveles medio superior y superior: 1 salario mínimo
 
-Secundaria 1 salario mínimo
+b).-Duplicados de certificados de estudios de educación primaria, especial, secundaria, media superior y superior: 1 salario mínimo
 
-Otras 1 salario mínimo
+c).-Reposición de Kardex en secundarias: 3.25 salarios mínimos
 
-VI.-Expedición de certificados o copias
+d).-Certificados de Kardex de estudios de educación normal: 0.75 salario mínimo
 
-de certificados.
+e).-Título profesional: 2 salarios mínimos
 
-Bachilleres 1 salario mínimo
+f).-Duplicado de constancia de servicio social 0.25 salario mínimo
 
-Secundaria 1 salario mínimo
+g).-Constancia de calificaciones en el nivel superior: 0.50 salario mínimo
 
-Otras 1 salario mínimo
+h).-Duplicado de credencial de educación superior 0.25 salario mínimo
 
-VII.-Examen final de aptitudes. 1 salario mínimo
+i).-Duplicado de boleta de calificaciones de estudios de educación superior: 1 salario mínimo
 
-VIII.-Certificado o diploma de aptitud. 1 salario mínimo
+j).-A punto y raya de examen profesional: 1 salario mínimo
 
-IX.-Examen de Admisión.
+k).-A punto y raya de título profesional: 1 salario mínimo
 
-Bachilleres 0.50 salario mínimo
+IV.-Otorgamiento de autorización o de reconocimiento de validez oficial de estudios: 180 salarios mínimos
 
-Secundaria 0.25 salario mínimo
+V.-Cuota anual por alumno de las escuelas particulares con autorización o con reconocimiento de validez oficial de estudios: 0.50 salario mínimo
 
-Otras 0.25 salario mínimo
+VI.-Convalidación, revalidación y equivalencia de estudios en los niveles de educación primaria, secundaria, media superior y superior: 1 salario mínimo
 
-X.-Cuota de servicios administrativos.
+VII.-Cuota por otros servicios administrativos en los niveles medio superior y superior: 0.25 salario mínimo
 
-Bachilleres 0.25 salario mínimo
+VIII.-Autorización de traslado de alumnos de educación superior de Estado a Estado: 1 salario mínimo
 
-Secundaria 0.25 salario mínimo
+IX.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-Otras 0.25 salario mínimo
+X.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-XI.-Incorporación de Escuelas
-
-Particulares al Sistema de Enseñanza
-
-Media. 180 salarios mínimos
+XI.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 53.
 
-Las escuelas oficiales y las particulares incorporadas al Sistema de Enseñanza Media en el Estado, cobrarán los Derechos a que se refiere el artículo anterior. Las cuotas por concepto de Colegiaturas de las escuelas particulares, deberán ser sometidas a la autorización de la Dirección General de Enseñanza Media, acompañadas de un estudio socio económico al respecto y no podrán exceder del 50% de las cuotas correspondientes al año lectivo anterior.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
 
@@ -1921,71 +1831,71 @@ Las escuelas oficiales y las particulares incorporadas al Sistema de Enseñanza 
 
 ###### ARTICULO 53 -A.
 
-Por los servicios prestados por la Dirección General de Educación Popular se causarán y cobrarán los siguientes derechos:
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 T A R I F A S :
 
-1.-Inscripción anual Licenciatura e Educación Básica. 1.50 salarios mínimos
+1.- (DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-2.-Inscripción semestral Licenciatura en Educación Básica o Preescolar en la Universidad Pedagógica. 1 salario mínimo
+2.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-3.-Inscripción anual Postgrado en la Universidad Pedagógica. 6 salarios mínimos
+3.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-4.-Inscripción semestral en el Instituto de Regularización Pedagógica 3 salarios mínimos
+4.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-5.-Expedición de certificado de estudios. 0.50 salario mínimo
+5.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-6.-Expedición de Carta de Pasante. 0.50 salario mínimo
+6.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-7.-Expedición de Título Profesional. 2 salarios mínimos
+7.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-8.-Duplicado de Acta de Examen Profesional. 0.25 salario mínimo
+8.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-9.-Examen Extraordinario. 0.25 salario mínimo
+9.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-10.-Examen a Título de Suficiencia. 0.50 salario mínimo
+10.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-11.-Examen de Regularización 0.75 salario mínimo
+11.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-12.-Expedición de Constancia de calificaciones. 0.25 salario mínimo
+12.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-13.-Expedición de Constancia de Servicio Social 0.25 salario mínimo
+13.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-14.-Duplicado de credencial. 0.50 salario mínimo
+14.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-15.-Duplicado de boleta de calificaciones. 0.50 salario mínimo
+15.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-16.-Certificación de copia fotostática del título profesional. 0.25 salario mínimo
+16.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-17.-Certificación de copia fotostática de acta de nacimiento. 0.25 salario mínimo
+17.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-18.-Certificación de copia fotostática de certificado de secundaria. 0.25 salario mínimo
+18.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-19.-Expedición a punto y raya de Carta de Pasante. 1 salario mínimo
+19.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-20.-Expedición a punto y raya de Título Profesional. 1 salario mínimo
+20.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-21.-Expedición de constancia de equivalencia y revisión de estudios. 1 salario mínimo
+21.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-22.-Expedición de certificado de equivalencia de estudios. 1 salario mínimo
+22.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-23.-Certificación de firmas a boletas, acta de examen, constancia de escolaridad y carta de buena conducta. 0.25 salario mínimo
+23.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-24.-Certificación de Título de Profesor de Educación Primaria (Lugar y fecha de examen profesional). 0.25 salario mínimo
+24.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-25.-Certificación de boletas de educación primaria. 0.25 salario mínimo
+25.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-26.-Reexpedición de certificado de educación primaria. 0.25 salario mínimo
+26.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-27.-Expedición de constancia de educación primaria. 0.25 salario mínimo
+27.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-28.-Expedición de constancia de educación preescolar. 0.25 salario mínimo
+28.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-29.-Examen a título de suficiencia de educación primaria. 0.50 salario mínimo
+29.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-30.-Incorporación de escuelas primarias o jardines de niños. 180 salarios mínimos
+30.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-31.-Cuota de incorporación anual de escuelas primarias y jardines de niños particulares, por alumno. 0.50 salario mínimo
+31.-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
@@ -2019,7 +1929,11 @@ VI.- SUBDIVISIÓN DE LOTES.
 
 2 SALARIOS MINIMOS.
 
-VII.- (DEROGADA, G.O. 28 DE DICIEMBRE DE 1993)
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+VII.-Autorización de cesión de derechos de lote.
+
+2 salarios mínimos
 
 VIII.-Por Copias Certificadas de Documentos, por hoja. 0.25 salario mínimo
 
@@ -3488,3 +3402,9 @@ La presente Ley entrará en vigor el día 1° de enero de 1996, previa su public
 ###### ARTICULO SEGUNDO.
 
 Para efectos de la disposición del Banco de México publicado en el Diario Oficial de la Federación del 6 de enero de 1994 todas las sumas en moneda nacional que en las disposiciones fiscales del Estado se encuentran expresados en "Nuevos Pesos" y su abreviatura "N$", a partir del 1° de enero de 1996 deberán entenderse como "Pesos" y su símbolo "$".
+
+G.O. 24 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día primero de enero de 1997, previa su publicación en la 'Gaceta Oficial' Organo del Gobierno del Estado de Veracruz-Llave.
