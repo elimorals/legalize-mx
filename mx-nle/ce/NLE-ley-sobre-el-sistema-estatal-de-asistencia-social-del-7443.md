@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "1988-12-12"
+last_updated: "1996-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -144,6 +144,18 @@ XVI.- Prestación de servicios funerarios a quienes carezcan de recursos para su
 XVII.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás vicios sociales; y
 
 XVIII.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
+
+###### ARTICULO 10o. Bis.
+
+Se crea la Comisión Estatal de la Vejez para apoyar y fortalecer los programas interinstitucionales que aseguren la atención integral de la población senecta en la prestación de los servicios asistenciales.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
+
+###### ARTICULO 10o.
+
+Bis I.- La Comisión Estatal de la Vejez se integrará por un Presidente que será el Gobernador del Estado y por un Secretario Ejecutivo que será el Director General del Sistema para el Desarrollo Integral de la Familia en Nuevo León, y además una representación de las Secretaría de Educación, Trabajo, Desarrollo Social, Desarrollo Económico, así como de la Comisión Estatal de Derechos Humanos, del Instituto Nacional de la Senectud, representantes de las Universidades e Institutos de Educación Superior y de la sociedad civil representada por las instituciones privadas que presten servicios de asistencia social a los ancianos en el Estado. Los cargos de todos sus integrantes serán honoríficos.
 
 ### CAPITULO TERCERO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NUEVO LEON
 
@@ -285,9 +297,9 @@ V.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Audi
 
 VI.- Aprobar la aceptación de herencias, legados, donaciones y demás beneficios que otorguen al Organismo;
 
-VII. Estudiar y aprobar los proyectos de inversión, y
+VII.- Estudiar y aprobar los proyectos de inversión, y
 
-VIII. Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas.
+VIII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas.
 
 ###### ARTICULO 21o.
 
@@ -460,3 +472,15 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO
+
+- Dentro de los treinta días posteriores a la entrada en vigencia del presente Decreto, la Secretaría Ejecutiva de la Comisión Estatal de la Vejez, convocará a una reunión formal de instalación en la que se aprobará su Reglamento Interior y sus programas, que incluirán entre otros, estudio e investigación de educación gerontológica y geriátrica, incorporación de los ancianos a tareas productivas, investigación y consultoría jurídica, además de los métodos y sistemas de operatividad.
+
+###### ARTICULO SEGUNDO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
