@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1978-03-11"
+last_updated: "1978-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 1978.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE JULIO DE 1978.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -71,27 +71,9 @@ G.G. 27 DE DICIEMBRE DE 1939.
 
 Artículo Unico.- Este Decreto surtirá efectos Constitucionales a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 22 DE OCTUBRE DE 1941.
+G.G. 8 DE ENERO DE 1944.
 
-Artículo Tercero.- Estas reformas entrarán en vigor el día de su publicación en la Gaceta del Gobierno.
-
-G.G. 20 DE DICIEMBRE DE 1941.
-
-DECRETO NUMERO 70, POR EL QUE SE REFORMA EL ARTICULO 209 Y SE DEROGAN LOS ARTICULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
-
-G.G. 20 DE DICIEMBRE DE 1941.
-
-DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
-
-UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
-
-G.G. 4 DE JULIO DE 1942.
-
-El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
-
-G.G. 30 DE DICIEMBRE DE 1942.
+DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -465,19 +447,25 @@ Las Sesiones Ordinarias y Extraordinarias de la Legislatura se abrirán con la a
 
 En la apertura de las Sesiones extraordinarias, el Presidente de la Diputación Permanente informará de las razones que originaron la Convocatoria.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### Art. 51.
 
-Los Diputados que concurran tanto a las juntas preparatorias como a las sesiones ordinarias y extraordinarias, deberán compeler a los ausentes a que se presenten en un breve plazo, que no exceda de quince días, si se trata de las juntas preparatorias, apercibiéndolos que, de no hacerlo, se entenderá que no aceptan su encargo, llamándose desde luego a los suplentes. Si éstos no se presentaren después de apercibidos en igual forma, se declarará vacante el puesto y se convocará a nuevas elecciones si procede. Cuando la ausencia ocurriere durante los períodos de sesiones, los Diputados que concurran emplearán los medios coercitivos que establezca el Reglamento de la Legislatura, pudiendo privar a los remisos de las dietas que les correspondan y aún de los derechos de ciudadano si después de dos excitativas no llegaren a presentarse.
+Los diputados que concurran tanto a las Juntas Preparatorias, como a las Sesiones Ordinarias y Extraordinarias y éstas excepcionalmente no pudieran celebrarse por falta del quórum, deberán compeler a los ausentes a que se presenten, en un plazo que no exceda de 72 horas, apercibiéndolos que de no hacerlo, se entenderá que no aceptan su encargo, llamándose desde luego a los suplentes, y si éstos no se presentaren después de haber sido apercibidos, en igual forma, se declarará vacante la diputación y se convocará a nuevas elecciones, si procede.
 
-Los Diputados que faltaren por diez días consecutivos sin previa licencia de la Legislatura, perderán el derecho de ejercer sus funciones durante el período en que ocurra la falta, llamándose desde luego a los suplentes.
+Los diputados que faltaren por 3 sesiones consecutivas, sin previa licencia de la Legislatura o del Presidente, perderán el derecho de ejercer sus funciones durante el período en que ocurra la falta, llamándose desde luego a los suplentes.
+
+> <small>(ADICIONADO [REFORMADO], P.O. 20 DE JULIO DE 1978)</small>
 
 ###### Art. 52.
 
-Los Diputados que no concurran a una sesión de la Legislatura sin permiso de ella o de su Presidente, o sin causa justificada, perderán el derecho a la dieta correspondiente al día de la falta.
+Los diputados que no concurran a una sesión de la Legislatura, sin permiso de ella o de su Presidente o sin causa justificada, perderán el derecho a la dieta correspondiente al día de la falta, en los términos que lo establezca la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### Art. 53.
 
-La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros.
+La Legislatura no podrá abrir sus sesiones, ni ejercer su cometido sin la concurrencia de más de las dos terceras partes del número total de sus miembros.
 
 ###### Art. 54.
 
@@ -491,13 +479,17 @@ La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concu
 
 Los períodos de sesiones extraordinarias se destinarán exclusivamente para deliberar sobre el objeto u objetos comprendidos en la convocatoria, y se cerrarán antes del día de la apertura de las sesiones ordinarias, aún cuando no hubieren llegado a terminarse los asuntos que motivaron su reunión, reservando su conclusión para las sesiones ordinarias.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### Art. 57.
 
-El lugar donde la Legislatura celebre sus sesiones será el de la residencia de los Poderes del Estado, y no podrá trasladarse a otro punto sin el acuerdo de las dos terceras partes, por lo menos, de los Diputados presentes.
+La Legislatura del Estado de México, tendrá su residencia en la Capital del Estado y sesionará por lo menos una vez cada año fuera de ésta, en el lugar que para el efecto acuerden más de las dos terceras partes de los diputados que la integran como mínimo.
 
 ###### Art. 58.
 
 Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto, iniciativa al Congreso de la Unión o acuerdo. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos por los Secretarios. Las iniciativas al Congreso de la Unión se comunicarán también con firma del Presidente y Secretarios.
+
+> <small>(ADICIONADA [REFORMADA] SU DENOMINACION, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### Artículo 48.
 
@@ -521,11 +513,13 @@ Los Diputados electos, presentarán sus constancias registradas a la Secretaría
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1978)</small>
 
-#### SECCION TERCERA. DE LA INICIATIVA Y FORMACION DE LAS LEYES
+#### SECCION TERCERA. DE LA INICIATIVA Y FORMACION DE LEYES Y DECRETOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### Art. 59.
 
-El derecho de iniciar las leyes corresponde:
+El derecho de iniciar las Leyes y Decretos corresponde:
 
 I. A los Diputados;
 
@@ -535,13 +529,17 @@ II. Al Gobernador del Estado;
 
 III.- Al Tribunal Superior de Justicia, en todos lo relacionado con la organización y funcionamiento de la Administración de Justicia.
 
-IV. A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo que se refiere a sus respectivas localidades;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1978)</small>
+
+IV. A los ayuntamientos en los asuntos que incumben a los municipios, por lo que se refiere a sus respectivas localidades y en general, tratándose de la Administración Pública Municipal.
 
 V. A los ciudadanos del Estado en todos los ramos de la administración.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### Art. 60.
 
-La discusión y aprobación de las leyes se hará con estricta sujeción al Reglamento de debates; pero las iniciativas del Ejecutivo y del Tribunal Superior de Justicia, se pasarán desde luego a la Comisión que deba dictaminar con arreglo a dicho Reglamento.
+La discusión y aprobación de las Leyes, se hará con estricta sujeción a la Ley respectiva, pero las iniciativas del Ejecutivo y del Tribunal Superior de Justicia, se pasarán desde luego a los Comités que deban dictaminar con arreglo a ese ordenamiento.
 
 ###### Art. 61.
 
@@ -555,13 +553,19 @@ En caso de que el Ejecutivo hubiere hecho observaciones y éstas no fueren estim
 
 Cuando un proyecto de ley, fuere devuelto a la Legislatura con observaciones del Ejecutivo y no fuere aprobado con arreglo al artículo anterior, no podrá ser sometido nuevamente a discusión, sino hasta el siguiente período de sesiones ordinarias.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### Art. 64.
 
-En los casos de urgencia notoria calificada por el voto de los dos tercios de los Diputados presentes, la Legislatura puede reducir o dispensar los trámites establecidos por el Reglamento de debates, menos el relativo al dictamen de comisión, el que sólo podrá suprimirse en los casos de obvia resolución.
+En los casos de urgencia notoria, calificada por mayoría relativa de los diputados presentes, la Legislatura puede reducir o dispensar los trámites legislativos, establecidos por su Ley Orgánica, siempre que no se trate de Iniciativas de Ley o Decretos que afecten los intereses generales del Estado.
 
 ###### Art. 65.
 
 El Secretario General del Gobierno o el Oficial Mayor en su caso, cuando se trate de iniciativas del Ejecutivo; y el Magistrado que designe el Tribunal Superior de Justicia, cuando se trate de iniciativas de ese alto Cuerpo, podrán concurrir a las discusiones de la Legislatura, teniendo voz en ellas, sin que puedan estar presentes en el acto de la votación.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1978)</small>
+
+La Legislatura podrá solicitar del Gobernador del Estado, la presencia de los Directores de las Dependencias del Poder Ejecutivo, así como de los Jefes de los Organismos Descentralizados cuando sea necesaria para el debido estudio de las iniciativas de Ley o Decreto, iguales facultades tendrá cuando se trate de funcionarios municipales, pudiéndose dirigir a los Ayuntamientos para autorizar la presencia de éstos.
 
 ###### Art. 66.
 
@@ -741,7 +745,9 @@ XLI. Declarar en su caso que ha o no lugar a formación de causa contra funciona
 
 XLII. Dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques, que no sean de jurisdicción federal;
 
-XLIII. Legislar sobre todo aquello que no se oponga a las prescripciones de la Constitución General.
+> <small>(ADICIONADA [REFORMADA], P.O. 20 DE JULIO DE 1978)</small>
+
+XLIII.- Legislar sobre todo aquello que no se oponga a las prescripciones de la Constitución General, pudiendo realizar encuesta de opinión pública durante los recesos de sus Períodos de Sesiones.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -767,11 +773,11 @@ VI.-.- Otorgar dispensa por revalidación en los estudios que determinen las ley
 
 #### SECCION QUINTA. DE LA DIPUTACION PERMANENTE
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### Art. 71.
 
-Tres días antes de la clausura de las sesiones ordinarias, la Legislatura para el periodo de receso nombrará una Diputación compuesta de tres de sus miembros como propietarios y dos suplentes para cubrir las faltas de aquéllos.
+Tres días antes de la Clausura de las Sesiones Ordinarias, la Legislatura para el Período de Receso, nombrará una Diputación compuesta de 5 de sus miembros como Propietarios y 3 suplentes, para cubrir las faltas de aquellos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1947)</small>
 
@@ -2211,9 +2217,23 @@ DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA 
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 8 DE ENERO DE 1944.
+G.G. 20 DE DICIEMBRE DE 1941.
 
-DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NUMERO 70, POR EL QUE SE REFORMA EL ARTICULO 209 Y SE DEROGAN LOS ARTICULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 1941.
+
+DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 4 DE JULIO DE 1942.
+
+El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
+
+G.G. 30 DE DICIEMBRE DE 1942.
 
 ###### Art. 1o.
 
@@ -2230,6 +2250,14 @@ Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamient
 G.G. 8 DE ENERO DE 1944.
 
 DECRETO NUMERO 32, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 104, ACTUALMENTE VIGENTES DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 8 DE ENERO DE 1944.
+
+DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2266,28 +2294,6 @@ G.G. 17 DE OCTUBRE DE 1945.
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 20 DE ABRIL DE 1946.
-
-###### ARTICULO SEGUNDO.
-
-El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
-
-G.G. 31 DE DICIEMBRE DE 1947.
-
-DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
-
-Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
-
-G.G. 31 DE DICIEMBRE DE 1947.
-
-DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 15 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
@@ -2409,11 +2415,25 @@ Este Decreto será aplicable solamente a los nombramientos de Magistrados del H.
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 31 DE ENERO DE 1976.
+G.G. 31 DE DICIEMBRE DE 1947.
 
-DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
+
+Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 15 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
@@ -2436,3 +2456,17 @@ G.G. 11 DE MARZO DE 1978.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno del Estado".
+
+G.G. 20 DE JULIO DE 1978.
+
+###### ARTICULO UNICO.
+
+Las presentes adiciones y reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 31 DE ENERO DE 1976.
+
+DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
