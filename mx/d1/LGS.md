@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "1991-06-14"
+last_updated: "1994-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 1994.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -2378,6 +2378,12 @@ AMOBARBITAL
 
 ANFETAMINA
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+BUTORFANOL
+
+Y sus sales, precursores y derivados químicos
+
 CICLOBARBITAL
 
 DEXTROANFETAMINA (DEXANFETAMINA)
@@ -2406,6 +2412,14 @@ BENZODIAZEPINAS:
 
 ALPRAZOLAM
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+AMOXAPINA
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+ACIDO BARBITURICO (2, 4, 6 TRIHIDROXIPIRAMIDINA)
+
 BROMAZEPAM
 
 BROTIZOLAM
@@ -2424,11 +2438,19 @@ CLOTIAZEPAM
 
 CLOXAZOLAM
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+CLOZAPINA
+
 DELORAZEPAM
 
 DIAZEPAM
 
 ESTAZOLAM
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+FENILPROPANOLAMINA
 
 FLUDIAZEPAM
 
@@ -2464,9 +2486,21 @@ OXAZEPAM
 
 OXAZOLAM
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+PEMOLINA
+
 PINAZEPAM
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+PIMOZIDE
+
 PRAZEPAM
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+RISPERIDONA
 
 QUAZEPAM
 
@@ -2475,6 +2509,16 @@ TEMAZEPAM
 TETRAZEPAM
 
 TRIAZOLAM
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+ZIPEPROL
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+ZOPICLONA
+
+Y sus sales, precursores y derivados químicos.
 
 Otros:
 
@@ -2522,6 +2566,10 @@ BENZOFETAMINA
 
 BENZQUINAMINA
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+BIPERIDENO
+
 BUSPIRONA
 
 BUTABARBITAL
@@ -2542,6 +2590,10 @@ CARBIDOPA
 
 CARBROMAL
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+CERTALINA
+
 CLORIMIPRAMINA CLORHIDRATO
 
 CLOROMEZANONA
@@ -2556,15 +2608,35 @@ DESIPRAMINA
 
 ECTILUREA
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+EFEDRINA
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+ERGOMETRINA (ERGONOVINA)
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+ERGOTAMINA
+
 ETINAMATO
 
 FENELCINA
 
 FENFLURAMINA
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+1-FENIL 2- PROPANONA
+
 FENOBARBITAL
 
 FLUFENAZINA
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+FLUMAZENIL
 
 HALOPERIDOL
 
@@ -2614,21 +2686,37 @@ PROMAZINA
 
 PROPILHEXEDRINA
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+PSEUDOEFEDRINA
+
 SULPIRIDE
 
 TETRABENAZINA
 
 TIALBARBITAL
 
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+TIOPENTAL
+
 TIOPROPERAZINA
 
 TIORIDAZINA
+
+(REPUBLICADA, D.O.F. 24 DE OCTUBRE DE 1994)
 
 TRAMADOL
 
 > <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
 
 TRAZODONE
+
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1994)</small>
+
+TRAZOLIDONA
+
+Y sus sales, precursores y derivados químicos
 
 TRIFLUOPERAZINA
 
@@ -3238,7 +3326,7 @@ VII.- En el mensaje no podrán participar personas menores de 25 años, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
 
-VIII.- En el mensaje deberán apreciarse fácilmente en forma, visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
+VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -4607,3 +4695,7 @@ SEPTIMO.- Las autorizaciones sanitarias expedidas con anterioridad a la vigencia
 OCTAVO.- Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
 
 NOVENO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE OCTUBRE DE 1994.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
