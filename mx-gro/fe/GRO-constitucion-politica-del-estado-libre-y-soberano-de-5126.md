@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1981-01-14"
+last_updated: "1981-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1981.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -443,13 +443,13 @@ II.- Tener veintiún años de edad cumplidos el día de la elección.
 
 III.- Ser originario del Distrito que lo elija o vecino de él, con residencia no menor de tres años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 36.
 
 No pueden ser electos diputados:
 
-Los funcionarios federales, los miembros del Ejército y la Armada Nacionales o de las fuerzas publicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, el Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Agentes del Ministerio Público, los directores de las dependencias del Ejecutivo y los Presidentes Municipales, a menos que se separen definitivamente de sus funciones noventa días antes de la elección; y en general, todas las demás personas impedidas por las leyes.
+Los funcionarios federales, los miembros del Ejército y la Armada Nacional o de las fuerzas Publicas del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales, los Directores Generales, los Directores Generales de entidades paraestatales federales, estatales o municipales; los Agentes del Ministerio Público, y los Presidentes Municipales a menos que se separen definitivamente de sus funciones noventa días antes de la elección; y, en general, todas las demás personas impedidas por las Leyes.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -531,15 +531,15 @@ El informe correspondiente al último año del ejercicio constitucional del Ejec
 
 Las sesiones tanto ordinarias como extraordinarias serán públicas; pero cuando se trate de asuntos que exijan reserva las habrá secretas, de conformidad con lo que establece la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 45.
 
-El Secretario General de Gobierno, el Procurador General de Justicia y los directores generales de las dependencias del Poder Ejecutivo, luego que esté abierto el período de sesiones darán cuenta al Congreso, por escrito, del estado que guardan sus respectivos ramos.
+El Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia, los Secretarios, los Coordinadores Generales y los Directores Generales de entidades paraestatales del Estado, luego que esté abierto el período de sesiones darán cuenta al Congreso, por escrito, del estado que guarden sus respectivos ramos.
 
-El Congreso podrá citar a dichos funcionarios cuando se discuta una ley o se estudie un asunto relativo a su ramo, para que informe.
+El Congreso podrá citar a dichos funcionarios cuando se discuta una ley o se estudie un asunto relativo a su ramo, para que informen lo conducente.
 
-Podrá solicitarse la comparecencia del Presidente del Tribunal Superior de Justicia cuando se estudie una iniciativa de ley relativa al Poder Judicial.
+Podrá solicitarse la comparecencia del Presidente del Tribunal Superior de Justicia, cuando se estudie una iniciativa de ley relativa al Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -791,7 +791,9 @@ II.- Tener treinta años cumplidos al tiempo de ser electo.
 
 III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
-IV.- No ser funcionario de la Federación ni militar en servicio activo o persona con mando de fuerzas dentro del Estado, ni Magistrado del Tribunal Superior de Justicia, Secretario General de Gobierno, Oficial Mayor o Procurador General de Justicia, a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a mas tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 1981)</small>
+
+IV.- No ser funcionario de la Federación, ni militar en servicio activo o persona con mando de fuerzas dentro del Estado; ni Magistrado del Tribunal Superior de Justicia, Secretario General de Gobierno, Oficial Mayor, Procurador General de Justicia, Secretario, Coordinador General, ni Director General de entidad paraestatal federal, estatal o municipal, a menos que se hubiere separado definitivamente del cargo tres meses antes de la elección o a mas tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -971,9 +973,13 @@ XXXVI.- Establecer la Política en materia habitacional, colonias populares y as
 
 XXXVII.- Celebrar convenios con la Federación para la realización de obras y servicios públicos, sometiéndolos a la aprobación del Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1981)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 1981)</small>
 
-XXXVIII.- Las demás que se deriven de esta Constitución y de sus Leyes Reglamentarias.
+XXXVIII.- Celebrar convenios con la Federación y los Ayuntamientos para la realización de obras, la prestación de servicios públicos y cualquier propósito de beneficio colectivo, sometiéndolos a la aprobación del Congreso del Estado cuando así se requiera.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1981)</small>
+
+XXXIX.- Las demás que se deriven de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -981,11 +987,11 @@ XXXVIII.- Las demás que se deriven de esta Constitución y de sus Leyes Reglame
 
 DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 74.
 
-Para el despacho de los asuntos del Poder Ejecutivo habrá: Un Secretario General de Gobierno, un Oficial Mayor y los directores generales que determine la Ley Orgánica del mismo; los que serán nombrados y removidos libremente por el Gobernador del Estado.
+Para el despacho de los asuntos del Poder Ejecutivo, habrá un Secretario General de Gobierno, un Oficial Mayor, los Secretarios, Coordinadores Generales y Directores Generales que determine la Ley Orgánica de la Administración Pública del Estado de Guerrero y, en su caso, el Reglamento Interior que al efecto expida el Gobernador del Estado, los que serán nombrados y removidos libremente por el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1007,11 +1013,11 @@ III.- Estar en pleno ejercicio de sus derechos.
 
 IV.- Tener modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 76.
 
-Todas las leyes, decretos y reglamentos del Gobernador del Estado deberán estar autorizados con la firma del Secretario General de Gobierno, sin cuyo requisito no surtirán sus efectos legales.
+Todos los reglamentos y acuerdos del Gobernador del Estado, deberán ser firmados invariablemente por el Secretario General de Gobierno. El Oficial Mayor y los Secretarios los firmarán también cuando se refieran a materias que sean de su competencia. De no figurar esas firmas, los actos citados no surtirán efectos legales.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1031,11 +1037,13 @@ El Oficial Mayor sustituirá al Secretario General de Gobierno en sus ausencias 
 
 Corresponde al Ministerio Público la persecución de todos los delitos del orden común y oficiales y por tanto, el ejercicio exclusivo de la acción penal. Tendrá bajo su mando inmediato a la Policía Judicial.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 79.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia, un Subprocurador y los Agentes que determine su Ley Orgánica. El Procurador será el Jefe de la Institución, el Consejero Jurídico del Poder Ejecutivo y representante del Estado en juicio, salvo en los casos a que se refiere el Artículo 105 de la Constitución Federal.
+El Ministerio Público estará a cargo de un Procurador General de Justicia; dos Subprocuradores y los Agentes que determine su Ley Orgánica.
+
+El Procurador será el Jefe de la Institución, el Consejero Jurídico del Poder Ejecutivo y representante del Estado en juicio, cuando la Ley lo disponga, salvo en los casos a que se refiere el Artículo 105 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1043,11 +1051,11 @@ El Ministerio Público estará a cargo de un Procurador General de Justicia, un 
 
 Para ser Procurador General de Justicia se requieren los mismos requisitos que esta Constitución señala a los Magistrados del Tribunal Superior. La Ley Orgánica determinará los requisitos para ser Subprocurador y Agente del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 81.
 
-El Procurador y el Subprocurador serán nombrados y removidos por el Gobernador del Estado libremente. Los Agentes del Ministerio Público serán nombrados y removidos por el Gobernador a propuesta del Procurador.
+El Procurador y los Subprocuradores serán libremente nombrados y removidos por el Gobernador del Estado. Los Agentes del Ministerio Público y demás funcionarios de la Procuraduría General de Justicia serán nombrados y removidos libremente por el Gobernador, a propuesta del Procurador.
 
 > <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1127,7 +1135,7 @@ III.- Tener título profesional de licenciado en Derecho expedido por la autorid
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 91.
 
@@ -1165,15 +1173,17 @@ DE LA INTEGRACION DEL PODER LEGISLATIVO.
 
 Las atribuciones que le corresponden a las salas y al Presidente del Tribunal Superior serán fijadas por la Ley Orgánica del Poder Judicial.
 
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 1975)</small>
+
 ###### ARTICULO 93.
 
 De conformidad con lo establecido por el artículo 115 de la Constitución Federal, el Estado adoptará como base de su división territorial y de su organización política y administrativa al Municipio Libre.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO UNICO.
+### CAPITULO III.
 
-DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
+DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1233,9 +1243,9 @@ V.- No ser ministro de algún culto religioso.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO II.
+### CAPITULO UNICO.
 
-DE LAS ATRIBUCIONES DEL PLENO Y DE LAS SALAS DEL TRIBUNAL SUPERIOR.
+DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1243,7 +1253,7 @@ DE LAS ATRIBUCIONES DEL PLENO Y DE LAS SALAS DEL TRIBUNAL SUPERIOR.
 
 No pueden ser electos como miembros de los ayuntamientos: los militares en servicio activo, los individuos de las fuerzas de defensa social y los funcionarios del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, noventa días antes de la elección. Tampoco pueden serlo en ninguna forma los ministros de algún culto religioso.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 101.
 
@@ -1275,7 +1285,7 @@ III.- Otorgar concesiones o celebrar contratos con particulares para la prestaci
 
 IV.- Celebrar contratos para la construcción de obras públicas cuyo costo exceda del presupuesto calculado durante el período de su gestión, sin llenar los requisitos de la fracción anterior.
 
-> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ## TITULO OCTAVO.
 
@@ -1317,8 +1327,6 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Ningún funcionario o empleado que tenga que manejar fondos, ya sea del Estado o del municipio podrá tomar posesión de su cargo sin haber caucionado previamente su manejo. El Ejecutivo cuidará que esa fianza se haga del conocimiento del Congreso.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
-
 ###### ARTICULO 109.
 
 La educación que proporcione el Estado será gratuita y lo puede hacer por sí mismo, por mecanismos de colaboración con la Federación o bien por conducto de los particulares con capacidad reconocida, mediante la autorización e incorporación al sistema estatal. En este último caso, las escuelas o instituciones de enseñanza incorporadas deberán cumplir estrictamente con los requisitos señalados por las leyes y en el acto mismo de incorporación, bajo pena de revocación unilateral por la autoridad otorgante.
@@ -1333,11 +1341,17 @@ El sistema estatal de enseñanza ajustará sus planes y programas de estudio al 
 
 ###### ARTICULO 111.
 
-Los diputados al Congreso del Estado, los magistrados del Tribunal Superior, el Secretario General de Gobierno, el Procurador General de Justicia y el Oficial Mayor de Gobierno son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
+Los diputados al Congreso del Estado, los Magistrados del Tribunal Superior, el Secretario General de Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Secretarios son responsables de los delitos oficiales y comunes así como de las faltas u omisiones que cometan durante el tiempo en que desempeñen sus cargos.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
 Para exigir dichas responsabilidades el procedimiento será:
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+
 El Congreso del Estado recibirá la denuncia respectiva y, previo el dictamen de la Comisión Instructora declarará, oyendo al interesado, por los dos tercios del número total de sus miembros, si ha lugar o no a autorizar al Ministerio Público para que ejercite la acción penal ante el Tribunal Superior de Justicia. En caso afirmativo, el indiciado quedará, por ese sólo hecho, separado del cargo y sujeto a la acción de la justicia. En caso negativo, se suspenderá todo procedimiento en contra del interesado en tanto desempeña el cargo, suspendiéndose igualmente el término de prescripción de la acción penal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
 El Tribunal Superior de Justicia como instructor de la causa llenará todos los requisitos procesales que determinen las leyes respectivas.
 
@@ -1383,7 +1397,9 @@ Los juicios del orden civil en los que el funcionario sea parte o tercero, se su
 
 ###### ARTICULO 117.
 
-La Administración Pública del Estado se constituirá por órganos jerárquicamente ordenados cuya competencia estará determinada por la Ley.
+La Administración Pública del Estado se compone por la Administración Pública centralizada y la paraestatal.
+
+El Gobernador del Estado y las dependencias centralizadas ejercerán el control de las entidades paraestatales de conformidad con lo que disponga la Ley.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1391,11 +1407,11 @@ La Administración Pública del Estado se constituirá por órganos jerárquicam
 
 Las resoluciones que dicte la Administración Pública serán conforme a las normas que regulen el procedimiento administrativo y en contra de ellas podrán enderezarse, una vez agotada la vía administrativa, las acciones y recursos que señale la Ley.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ###### ARTICULO 119.
 
-Todos los conflictos de competencia administrativa de funcionarios o empleados para conocer de determinado asunto serán resueltos por el Secretario General de Gobierno, sin ulterior recurso.
+Todos los conflictos de competencia administrativa de funcionarios o empleados para conocer de determinado asunto, serán resueltos por acuerdo del Gobernador del Estado y por conducto del Secretario General de Gobierno.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1683,9 +1699,9 @@ DEL PODER JUDICIAL.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-EL MUNICIPIO LIBRE.
+DE LAS ATRIBUCIONES DEL PLENO Y DE LAS SALAS DEL TRIBUNAL SUPERIOR.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1719,9 +1735,9 @@ DEL GOBIERNO DE LOS MUNICIPIOS DEL ESTADO.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO III.
+### CAPITULO I.
 
-DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS.
+EL MUNICIPIO LIBRE.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1741,13 +1757,13 @@ DE LA EDUCACION PUBLICA DEL ESTADO.
 
 DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ## TITULO DECIMO CUARTO.
 
 DE LA ADMINISTRACION PUBLICA.
 
-(ADICIONADO, P.O. 16 DE JULIO DE 1975))
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1981)</small>
 
 ## TRANSITORIOS.
 
@@ -2226,3 +2242,11 @@ UNICO.- El presente Decreto empezará a surtir sus efectos a partir de su public
 P.O. 14 DE ENERO DE 1981.
 
 UNICO.- El presente Decreto empezará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 1981.
+
+Artículo Primero.- Se derogan los Artículos 36, 45, 74, 76, 81, 117 y 119 de la Constitución Política en vigor.
+
+Artículo Segundo.- Se derogan la fracción IV del Artículo 63, la fracción XXXVIII del Artículo 73 adicionándole la fracción XXXIX y el primer párrafo del Artículo 111 de la Constitución Política en vigor.
+
+Artículo Tercero.- El presente Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
