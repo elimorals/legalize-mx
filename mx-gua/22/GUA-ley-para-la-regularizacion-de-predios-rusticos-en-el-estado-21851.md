@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-regularizacion-de-predios-rusticos-en-el-estado-218
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-24"
-last_updated: "1997-07-25"
+last_updated: "1999-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA REGULARIZACION DE PREDIOS RUSTICOS EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1999.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 24 de noviembre de 1995.
 
@@ -153,11 +153,11 @@ A LA PERSONA QUE COMETA ALGUNO DE LOS DELITOS PREVISTOS EN LOS ARTICULOS 157, 15
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO PRIMERO.
 
-EL PRESENTE DECRETO TENDRA UNA VIGENCIA DE CUATRO AÑOS, CONTADOS A PARTIR DEL CUARTO DIA SIGUIENTE A SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -186,3 +186,7 @@ P.O. 25 DE JULIO DE 1997.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 19 DE NOVIEMBRE DE 1999.
+
+Artículo Unico.- El presente Decreto entrara en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
