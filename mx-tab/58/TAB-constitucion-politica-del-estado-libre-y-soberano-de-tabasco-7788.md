@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1971-06-16"
+last_updated: "1971-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1971.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -281,9 +281,9 @@ Para ser Diputado se requiere:
 
 I.- Ser ciudadano Tabasqueño por nacimiento, originario del Distrito por el que se pretenda ser electo; o ciudadano tabasqueño por nacimiento o naturalización en el caso de la fracción I del Artículo 19, con residencia efectiva en el Distrito de que se trate no menor de dos años anteriores al día de su elección.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1946)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1971)</small>
 
-II.- Tener veinticinco años de edad el día de la elección.
+II.- Tener 21 años de edad el día de la elección.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MAYO DE 1961)</small>
 
@@ -1746,3 +1746,7 @@ Durante el período de sesiones citado en el artículo segundo transitorio de es
 ###### ARTICULO QUINTO.
 
 Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1971.
+
+UNICO.- Este Decreto surte sus efectos legales tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
