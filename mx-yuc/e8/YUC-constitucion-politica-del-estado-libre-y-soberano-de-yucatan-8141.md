@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1978-04-05"
+last_updated: "1978-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE ABRIL DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 1978.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -239,7 +239,7 @@ Los Poderes Públicos del Estado residirán en la ciudad de Mérida. El Ejecutiv
 
 ### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, D.O.24 DE OCTUBRE DE 1975)</small>
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
 
 ###### Artículo 18.
 
@@ -259,27 +259,25 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán, se compondrá de Representantes electos en su totalidad cada tres años y su elección será popular directa.
+El Congreso del Estado de Yucatán se compondrá de representantes electos cada tres años y su elección será popular directa. Por cada Diputado Propietario se elegirá un Diputado Suplente.
 
-Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el periodo inmediato siguiente. Los Diputados Suplentes podrán ser electos para el periodo inmediato siguiente con el carácter de Propietario, siempre que no hubiesen estado en ejercicio; pero los Propietarios, no podrán ser electos para dicho periodo ni con el carácter de Suplentes.
+Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
 
-> <small>(REFORMADO, D.O.24 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
 
 ###### Artículo 21.
 
-Para constituir el Congreso elegirán los ciudadanos del Estado un Diputado Propietario y un Suplente por cada sesenta mil habitantes o por una fracción que exceda de la mitad sin que nunca pueda ser menor de siete Diputados Propietarios. En cada Distrito Electoral será elegido un Diputado Propietario y un Suplente y se complementará además, con Diputados de Partido, apegándose en ambos casos a lo que disponga la Ley Electoral Local y en el segundo a las reglas siguientes:
+El Congreso del Estado se integrará con trece Diputados electos según el principio de votación mayoritaria relativa, en igual número de Distritos Electorales y hasta con tres Diputados que serán designados según el principio de representación proporcional.
 
-I.- Todo partido político nacional al obtener el uno y medio por ciento o más de la votación total en el Estado, en la elección de Diputados respectiva, tendrá derecho de que se acredite de sus candidatos a un Diputado.
+La demarcación territorial de los trece Distritos Electorales será la que resulte de dividir la población total del Estado entre los Distritos señalados.
 
-II.- Si logra mayoría en un Distrito Electoral o más, no tendrá derecho a que le sea acreditado Diputado de Partido.
+Para acreditar Diputados por el principio de representación proporcional se observarán las siguientes bases y lo que en lo particular disponga la Ley.
 
-III.- El Diputado de Partido será, en su caso el candidato con mayor votación entre todos los de su Partido.
+a) que los Partidos Políticos que los postulen obtengan cuando menor (sic) el uno y medio por ciento de la votación total del Estado;
 
-> <small>(REFORMADA, D.O.5 DE ABRIL DE 1978)</small>
+b) Que los mismos Partidos hayan postulado también candidatos en, por lo menos, seis Distritos Electorales;
 
-IV.- Solamente podrán acreditar Diputados en los términos de este artículo los partidos políticos nacionales, que hubieren obtenido su registro conforme a la Ley ante la Comisión Federal Electoral, con un año de anticipación al día de la elección y se encontraren debidamente acreditados ante los órganos electorales estatales.
-
-V.- Los Diputados de mayoría y los de partido tendrán la misma categoría y los mismos derechos y obligaciones.
+c) que los propios Partidos no hayan acreditado dos o más Diputados de mayoría relativa, pudiendo obtener hasta dos de representación proporcional, siempre que no hubieren obtenido alguno de mayoría relativa.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -457,9 +455,9 @@ XL.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas qu
 
 XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados; y (sic)
 
-> <small>(REFORMADA, D.O.7 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 1978)</small>
 
-XLII.- Hacer el cómputo de los votos emitidos en la elección de sus miembros, para resolver acerca de los Diputados de Partido en los términos del Artículo 21 reformado, de esta Constitución; y
+XLII.- Hacer el cómputo de los votos emitidos en la elección de sus miembros, y resolver acerca de los Diputados de representación proporcional, en los términos del artículo 21, reformado, de esta Constitución; y
 
 > <small>(ADICIONADA, D.O.7 DE MARZO DE 1975)</small>
 
@@ -899,7 +897,7 @@ De las sanciones que impongan las autoridades municipales, resolverá definitiva
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O.5 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
 
 ###### Artículo 74.
 
@@ -937,11 +935,19 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, los municipios regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermediaria, los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad popularmente, por elección directa cada tres años en la forma que la Ley prescribe. Uno de los Concejales será electo con carácter de Presidente.
+El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los Municipios, regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia; los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad por votación popular directa, cada tres años, en la forma que la Ley prescribe. Por cada Concejal Propietario se elegirá un Suplente. Uno de los Concejales será electo con el carácter de Presidente.
 
 En las elecciones municipales participarán las mujeres en igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
 
-En aquellos municipios del Estado, cuya población sea de trescientos mil o más habitantes se introduce el principio de representación proporcional, con apego a lo que al respecto disponen la Constitución Política de los Estados Unidos, la presente Constitución, la Ley Electoral del Estado y las normas siguientes: a).- Todo partido político nacional que en dichos municipios obtuviere el 1.5 por ciento o más de la votación, tendrá derecho a que se le acredite, entre sus candidatos a concejales, un concejal propietario y uno suplente; b).- El concejal de partido será el que encabece la planilla o quien seleccione el partido entre los integrantes de ella; c).- Solamente podrán acreditar concejales en los términos de este artículo, los partidos políticos nacionales o locales, que hubiesen obtenido su registro conforme a la Ley y acrediten debidamente tal registro ante las autoridades locales correspondientes; d).- Los concejales de mayoría y los de partido tendrán igual categoría y los mismos derechos y obligaciones.
+En el Municipio en cuya demarcación territorial se encuentra la capital del Estado y en aquellos cuya población sea de doscientos mil o más habitantes, se adopta el sistema mixto de mayoría relativa y de representación proporcional para la elección de sus Ayuntamientos, con apego a las normas siguientes y a lo que en lo particular disponga la Ley.
+
+a) los Ayuntamientos se integrarán con un Concejal Presidente y diez Concejales Propietarios, electos por el principio de mayoría relativa y hasta tres Concejales Propietarios por el de representación proporcional;
+
+b) para acreditar Concejales Propietarios de representación proporcional y a sus suplentes, los partidos registrados deberán obtener un mínimo del uno y medio por ciento de la votación total en el Municipio.
+
+c) los partidos políticos podrán acreditar hasta dos Concejales propietarios de representación proporcional, quienes serán los que encabecen la planilla.
+
+d) los Concejales de mayoría y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
 > <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
 
@@ -1110,6 +1116,10 @@ Son indeseables las instituciones religiosas que difunden, teorías de premios y
 ###### Artículo 96.
 
 El Estado procurará reducir las contribuciones a su más simple expresión, a fin de que el pueblo no sea oprimido con impuestos innecesarios. Tenderá a eliminar las contribuciones indirectas que tan onerosas son para el consumidor, tratando de establecer como único impuesto el de la renta de la tierra.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 1978)</small>
+
+Para cumplir las obligaciones y hacer debido uso de las facultades que el Estado impone y otorga este título, los Diputados que integren el Congreso, como representantes del pueblo, deberán estar en contacto directo y continuo con los Ayuntamientos de sus Distritos y con las comunidades que forman los mismos, a fin de que puedan orientarlos y auxiliarlos en sus gestiones ante todas las autoridades estatales y federales, para que el ejercicio del Poder Municipal, en bien de los intereses de la comunidad, halle (sic) la más amplia cooperación de aquéllas.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1498,6 +1508,10 @@ UNICO.- Este Decreto entrará en vigor el día primero de febrero del año en cu
 D.O. 5 DE ABRIL DE 1978.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 26 DE JUNIO DE 1978.
+
+UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
