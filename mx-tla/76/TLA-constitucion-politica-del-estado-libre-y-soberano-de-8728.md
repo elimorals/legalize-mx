@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1951-09-26"
+last_updated: "1951-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1951.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -821,21 +821,29 @@ Las Leyes respectivas determinarán las demás facultades y atribuciones de los 
 
 De la Hacienda Pública del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1951)</small>
+
 ###### Art. 78.
 
 La Hacienda Pública del Estado se formará:
 
-I. Del producto de las contribuciones que decrete el Congreso.
+I. Del producto de los impuestos que decrete el Congreso.
 
-II. Del producto de los bienes que, según las Leyes, pertenezcan al Estado.
+II. Del producto de los derechos que se establezcan para cubrir los costos administrativos de servicios que los particulares demanden.
 
-III. De las multas que conforme a las Leyes deban ingresar al Erario.
+III. Del producto de la enajenación o explotación de los bienes que, según las leyes, pertenezcan al Estado.
 
-IV. De las donaciones, legados, herencias y reintegros que se hagan o dejen al Tesoro Pública (sic).
+IV. Del producto de los aprovechamientos que pertenezcan al Estado, en forma de multas, rezagos, reintegros, donaciones etc., conforme a las leyes respectivas.
+
+V. De las participaciones que la Federación conceda al Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1951)</small>
 
 ###### Art. 79.
 
-El Congreso expedirá la Ley de Hacienda que establezca las contribuciones necesarias para los gastos públicos. Dicha Ley podrá variarse o modificarse anualmente, en vista del Presupuesto de Gastos, y siempre que lo exijan las necesidades del Estado.
+El Congreso expedirá la Ley de Hacienda que normará las funciones fiscales del Estado.
+
+Cada año el Congreso expedirá una Ley de Ingresos que establezca los impuestos, derechos, productos y aprovechamientos que deban recaudarse y el Presupuesto de Egresos que señalará el concepto y la cuantía de las erogaciones que deba efectuar la Hacienda Pública.
 
 ###### Art. 80.
 
@@ -1072,3 +1080,7 @@ El presente Decreto surtirá sus efectos al día siguiente de su publicación en
 P.O. 26 DE SEPTIEMBRE DE 1951.
 
 El presente decreto surtirá sus efectos a partir de esta fecha.
+
+P.O. 26 DE DICIEMBRE DE 1951.
+
+La presente reforma surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
