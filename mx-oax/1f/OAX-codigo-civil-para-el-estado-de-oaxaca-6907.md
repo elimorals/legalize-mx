@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1997-05-31"
+last_updated: "1997-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -33,7 +33,7 @@ Que la H. Legislatura del Estado ha tenido a bien aprobar lo siguiente:
 
 La XXXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca,
 
-DECRETA:
+DECRETA :
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
@@ -229,23 +229,27 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 El Registro Civil es la Institución de carácter público y de interés social, por medio de la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos y modificativos del estado civil de las personas.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+Corresponde al Ejecutivo Estatal la función registral, quien la ejercerá por conducto de la Dirección del Registro Civil y estará encomendado su desempeño a los oficiales encargados de éste.
+
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 36.
 
 Las inscripciones hechas en el Registro Civil tienen validez plena y surten sus efectos legales desde el momento de su realización, salvo disposición legal en contrario.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 37.
 
-La Institución del Registro Civil orgánicamente se integra por: La Dirección, las Oficialías y el Archivo Central, quienes tiene las funciones que se establecen en el presente Código y aquellas contenidas en el Reglamento del Registro Civil.
+La Institución del Registro Civil orgánicamente se integra por: La Dirección, las Oficialías, el archivo central y demás unidades administrativas que determine su reglamento interior, quienes tienen las funciones que se establecen en el presente Código y en el Reglamento del Registro Civil.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 38.
 
-El Ejecutivo del Estado, mediante acuerdo determinara el número, ubicación y jurisdicción de las Oficialías del Registro Civil en el Territorio de la Entidad.
+El Ejecutivo del Estado, mediante acuerdo, determinará el número y ubicación de las Oficialías del Registro Civil en el Territorio de la Entidad. La jurisdicción de las mismas se determinará conforme lo establezca el reglamento interior.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -253,7 +257,9 @@ El Ejecutivo del Estado, mediante acuerdo determinara el número, ubicación y j
 
 La titularidad de las Oficialías del Registro Civil corresponde a los funcionarios estatales denominados Oficiales del Registro Civil, quienes tendrán fé pública en todos los actos que certifiquen y autoricen conforme a las disposiciones del presente ordenamiento.
 
-En los casos de impedimento o de falta temporal de Oficiales del Registro Civil, serán suplidos por los Jueces de Primera Instancia de sus respectivos Distritos y en la Capital del Estado, por el Juez Primero de lo Civil.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+Los Oficiales del Registro Civil serán nombrados por el Gobernador del Estado a propuesta de la Dirección del Registro Civil, y sus ausencias temporales o incapacidad procesal, serán cubiertas por el Oficial que designe la Dirección.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -267,11 +273,11 @@ En el asentamiento de las actas del Registro Civil, intervendrán: El Oficial de
 
 El Oficial del Registro Civil se asistirá de un Secretario, quien tendrá las obligaciones previstas en el Reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 42.
 
-Las Actas del Registro Civil se asentarán en formatos especiales que contendrán los datos propios de cada acto. Las inscripciones se harán preferentemente en forma mecanográfica en los tantos que marque el reglamento.
+Las actas del Registro Civil se asentarán en formatos especiales que contendrán los datos propios de cada acto. Las inscripciones se harán preferentemente en forma mecanográfica o en medios electrónicos, en los tantos que marque el reglamento.
 
 La infracción de esta disposición producirá la nulidad del acta y la destitución del Oficial del Registro Civil.
 
@@ -293,7 +299,9 @@ II. Tanto el número ordinal como el de las fechas o cualquier otro, se escribir
 
 III. No se emplearán abreviaturas al asentarse nombres de personas físicas;
 
-IV. No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra se pasará sobre ella una línea de manera que quede legible. En el caso del Artículo 385 primer párrafo, la testadura se hará por completo advirtiéndose al final del acta la causa por que se ha hecho. La infracción de esta disposición será castigada con multa de doscientos a mil pesos por el funcionario responsable;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+IV. No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra se pasará sobre ella una línea de manera que quede legible. En el caso del Artículo 385 primer párrafo, la testadura se hará por completo advirtiéndose al final del acta la causa por que se ha hecho. La infracción de esta disposición se sancionará conforme lo establezca el reglamento interior;
 
 V. Al fin de cada acta se salvará con toda claridad lo entrerrenglonado y testado;
 
@@ -311,11 +319,11 @@ IX. Los Apuntes dados por los interesados y los documentos que presenten se anot
 
 Si el acto comenzado se entorpeciere porque las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, razón que deberán firmar el Oficial del Registro Civil, los interesados y los testigos.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 46.
 
-La falsificación, alteración o enmienda de propia Autoridad de las Actas del Registro Civil y la inserción en ellas de circunstancias o declaraciones prohibidas por la Ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que le correspondan en la forma y términos previstos en el Código Penal.
+La falsificación, alteración o enmienda de propia autoridad, de las actas del Registro Civil y las inserciones en ellas de circunstancias o de declaraciones prohibidas por la Ley, causarán la destitución del Oficial del Registro Civil o empleado que incurra en estos hechos, sin perjuicio de las penas que le correspondan en la forma y términos previstos en el Código Penal.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -347,19 +355,19 @@ Cuando de la pérdida aparecieren indicios sobre la probable comisión de un del
 
 Los formatos del Registro Civil serán autorizados y distribuidos anualmente por el Director del Registro Civil. Los Oficiales del Registro Civil remitirán mensualmente dos ejemplares de los legajos de actas levantadas a la Dirección del Registro Civil adjuntando el apéndice respectivo; otro tanto quedará en el archivo de la Oficialía.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 52.
 
-Toda persona puede solicitar copia certificada de las Actas del Registro Civil. El Director y los Oficiales del Registro Civil están obligados a expedirlas, así como aquellas relativas a los documentos del apéndice.
+Toda persona puede solicitar certificación de datos y/o fotocopia certificada de las actas del Registro Civil. El Director, los Oficiales del Registro Civil y el Jefe del Archivo están obligados a expedirlas, así como aquéllas relativas a los documentos del Apéndice.
 
-Ninguna otra autoridad, podrá expedir copias certificadas de las Actas del Registro Civil, salvo disposición en contrario.
+Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro Civil, salvo lo dispuesto en el reglamento interior.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 53.
 
-El estado civil de las personas sólo se comprueba con las actas y sus copias certificadas, inscritas y expedidas, por el Registro Civil. Ningún otro medio de prueba es admisible para ese efecto, salvo los casos expresamente previstos por la Ley.
+El estado civil de las personas sólo se comprueba con las actas y sus certificaciones, inscritas y expedidas en los términos previstos en el artículo anterior, por el Registro Civil. Ningún otro medio de prueba es admisible para ese efecto, salvo los casos expresamente previstos por la Ley.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -397,7 +405,9 @@ Para la inscripción de los actos del Registro Civil, dispondrán los interesado
 
 Todo acto del estado civil relativo a otro ya registrado, deberá anotarse a petición de los interesados, al margen del acta relativa. La misma anotación deberá hacerse cuando lo mande la Autoridad Judicial o lo disponga expresamente la Ley.
 
-Las anotaciones se insertarán en todos los testimonios que se expidan.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+Se hará referencia de las anotaciones que modifiquen el estado civil de las personas en todas las certificaciones de datos que se expidan.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -445,17 +455,37 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 67.
 
-Tienen la obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de éste término, hasta los seis años, se aplicará a los responsables multa de cien a quinientos pesos; después de transcurrido este último término, el registro se hará previa autorización de la Dirección del Registro Civil ante quien se justificará la causa de la omisión. La multa que se aplicará en este caso será de quinientos a dos mil pesos.
+Tienen la obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de este término, hasta los seis años, se aplicará a los responsables la multa que se determine en la Ley de Hacienda del Estado; después de transcurrido este último término, el registro se considerará extemporáneo y se realizará previa autorización emitida en los términos establecidos por el reglamento interior. La multa que se aplicará en este caso será la que determine la Ley de Hacienda del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 68.
 
-El acta de nacimiento contendrá: el año, mes, día, hora y lugar del nacimiento; la impresión digital del presentado; el sexo, el nombre y apellidos que se le pongan al mismo registrado, sin que por motivo alguno puedan omitirse y la razón de si se ha presentado vivo o muerto; el nombre, edad, ocupación, estado civil, domicilio y nacionalidad de los progenitores; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos y de los testigos; el nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta de los progenitores que haga la presentación, en su caso y el grado de parentesco con estos últimos, y, aquellos datos precisados en disposiciones legales o de convenios expresos firmados sobre el particular por el Ejecutivo del Estado y otras Dependencias Oficiales.
+El acta de nacimiento contendrá:
+
+I. El año, mes, día, hora y lugar del nacimiento;
+
+II. La impresión digital del registrado;
+
+III. La especificación del sexo del registrado;
+
+IV. El nombre que le asignen los padres o persona distinta que presente al registrado;
+
+V. El primer apellido de los padres, si ambos se presentaren a reconocer, o, los dos apellidos del que se presentare;
+
+VI. Si lo presentare persona distinta, se le pondrán al registrado el nombre y los apellidos que ésta determine;
+
+VII. La razón de si se ha presentado vivo o muerto;
+
+VIII. El nombre, edad, ocupación, domicilio y nacionalidad de los padres;
+
+IX. El nombre, domicilio y nacionalidad de los abuelos paternos y maternos y de los testigos;
+
+X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta de los padres que haga la presentación, en su caso, y el grado de parentesco del registrado con esta última, y aquellos datos precisados en disposiciones legales o convenios expresos firmados sobre el particular por el Ejecutivo Estatal y otras dependencias oficiales.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -481,31 +511,29 @@ Si el acta de matrimonio no es presentada en el momento del registro, pero se hi
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testará de oficio por quién tenga a su cargo las formas.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 73.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, valores o cualesquiera otros objetos encontrados con él, declarará el día, mes y año y donde lo hubiere hallado, dándose intervención al Ministerio Público.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el Agente del Ministerio Público de su jurisdicción con los vestidos, valores o cualesquiera otros objetos encontrados con él, quien levantará el acta de averiguación respectiva, mencionando en ella las circunstancias que rodean el caso y la persona o institución que se haga cargo de su protección, quien deberá presentarlo ante el Oficial del Registro Civil para su inscripción.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 74.
 
-La obligación del artículo anterior, también la tienen los jefes, directores o administradores de los establecimientos penitenciarios, especialmente los de los hospitales, clínicas de maternidad y casas de cuna y de asistencia pública respecto de los niños nacidos y expuestos en ellas.
+La obligación del artículo anterior, también la tienen las Instituciones de Asistencia Social, los Jefes, Directores o Administradores de los establecimientos penitenciarios, especialmente los de los hospitales, clínicas de maternidad y casas de cuna, respecto de los niños nacidos y expuestos en ellas.
 
-La misma obligación tiene el jefe de la familia en cuya casa hubiese acaecido el alumbramiento, este ocurrió fuera de la casa paterna y la madre fallece o está incapacitada para declarar el nacimiento.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 75.
 
-En las actas que se asienten en los casos a que se refiere el artículo anterior, se expresarán las circunstancias del artículo 73, la edad aparente del niño, el nombre y apellidos que se le pongan, su sexo y el nombre de la persona o Institución que se encargue de él.
+En las actas que se asienten en los casos a que se refiere el artículo anterior, se expresarán la edad aparente del niño, el nombre y apellidos que se le pongan, su sexo y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 76.
 
-Si con el expósito se hubiere encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, el oficial del Registro Civil ordenará su depósito ante el Ministerio Público respectivo, dando formal recibo de ellos a quien presente al niño.
+Si con el expósito se hubiere encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, quedarán bajo la custodia del Ministerio Público, quien dará a la persona o institución ante quien se haya expuesto o que lo haya encontrado, copia del acta de averiguación y formal recibo de los objetos, documentos o alhajas encontrados con él.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -4313,7 +4341,7 @@ VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
 
 La declaración de constitución, de modificación o extinción del patrimonio familiar, se promoverá ante el Juez competente, por la vía de jurisdicción voluntaria, y en caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Unico, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Registro Público, para que se haga la inscripción, anotación o cancelación que corresponda.
 
-Cuando el patrimonio se extinga por la causa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
+Cuando el patrimonio se extinga por la caúsa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
 
 ###### Artículo 754.
 
@@ -12083,7 +12111,7 @@ Salvo pacto en contrario, el depositario tiene derecho a exigir retribución por
 
 ###### Artículo 2399.
 
-Los depositarios de títulos, valores, efectos o documentos que devengen (sic) intereses, quedan obligados a realizar el cobro de éstos en las épocas de vencimiento, así como también a practicar cuantos actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les correspondan con arreglo a las leyes.
+Los depositarios de títulos, valores, efectos o documentos que devengen intereses, quedan obligados a realizar el cobro de éstos en las épocas de vencimiento, así como también a practicar cuantos actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les correspondan con arreglo a las leyes.
 
 ###### Artículo 2400.
 
@@ -14107,7 +14135,13 @@ Todo hecho o convenio entre las partes, que puede modificar o destruir la eficac
 
 El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2799, se dé conocimiento al deudor y sea inscrito en el Registro Público.
 
-Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede trasmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se trasmitirá por la simple entrega del título sin ningún otro requisito.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+Las Instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los Institutos de Seguridad Social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+En el supuesto previsto en el párrafo segundo, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
 
 ###### Artículo 2809.
 
@@ -14507,6 +14541,8 @@ VI. La responsabilidad civil y la reparación del daño en la parte que comprend
 
 ### CAPITULO I. De las oficinas del Registro
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 2876.
 
 Pagados los créditos antes mencionados, se pagarán:
@@ -14541,17 +14577,25 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ###### Artículo 2880.
 
-En cada una de las cabeceras de los distritos judiciales de que se compone el Estado de Oaxaca, habrá una oficina denominada Registro Público. Esta estará a cargo de los jueces de Primera Instancia en los Distritos foráneos y del Director del Archivo General de Notarías y del Registro Público en la capital del Estado.
+El Registro Público de la Propiedad, es la Institución mediante la cual el Ejecutivo del Estado, proporciona el servicio de dar publicidad a los actos jurídicos que, conforme a la Ley, precisan de este requisito para surtir efectos ante terceros.
+
+El Registro Público de la Propiedad en el Estado, estará a cargo del Director del Registro Público de la Propiedad, quien se auxiliará de registradores en cada distrito judicial, con asiento en las localidades que determine el Ejecutivo del Estado.
 
 ###### Artículo 2881.
 
 El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
 
-En cada sección se harán las inscripciones en libros por duplicado, debiendo quedar uno de ellos en el juzgado foráneo respectivo y el otro deberá remitirse por los jueces al Director del Archivo, en la época que fije el Reglamento, para que dicho funcionario forme con los que estén a su cargo y los duplicados enviados por los jueces, el Archivo General del Registro.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
-Cuando no existen, por cualquier motivo, los libros que deben permanecer en los juzgados foráneos, o estén rotos o borrados, se tomarán los certificados correspondientes y se harán las anotaciones y cancelaciones respectivas en los que se remitieron para formar el Archivo General del Registro: en estos casos las anotaciones o cancelaciones que se hagan, así como los certificados que se expidan, harán plena fe.
+En cada sección se harán las inscripciones en libros por duplicado, debiendo quedar uno de ellos en cada registraduría foránea y el otro deberá remitirse por sus titulares al Director del Registro Público de la Propiedad, en la época que fije el reglamento, para que este funcionario forme, con los originales del Distrito del Centro, el Archivo General del Registro.
 
-Cualquiera anotación, cancelación o modificación de una inscripción correspondiente a año distinto de aquél en que se haga, se avisará inmediatamente por el juez respectivo al Director del Archivo, para que éste mande practicar en los libros del Archivo igual anotación, cancelación o modificación.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+Cuando no existan, por cualquier motivo, los libros que deben permanecer en las registradurías foráneas, o estén rotos o borrados, se tomarán los certificados correspondientes y se harán las anotaciones y cancelaciones respectivas de los que se remitieron para formar el archivo general del registro; en estos casos las anotaciones o cancelaciones que se hagan, así como los certificados que se expidan, harán plena fe.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+Cualquier anotación, cancelación o modificación de una inscripción correspondiente a año distinto de aquél en que se haga, se avisará por el registrador respectivo al Director, para que este mande practicar en los libros del archivo igual anotación, cancelación o modificación.
 
 ###### Artículo 2882.
 
@@ -14563,7 +14607,9 @@ El Registro será público, los encargados de la oficina tienen la obligación d
 
 Se inscribirán en el Registro:
 
-I. Los títulos por los cuales se adquiere, trasmite, modifica o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+I. Los títulos por los cuales se adquiere, transmite, modifica o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles, las demandas relativas a la propiedad de bienes inmuebles, o a la declaración, constitución, modificación o extinción de cualquier derecho real sobre aquellas;
 
 II. Las capitulaciones matrimoniales cuando en virtud de ellas se establezca entre los cónyuges comunidad de bienes raíces o adquiera uno de ellos propiedad de bienes de esa clase por donación antenupcial o cualquier otro;
 
@@ -14643,21 +14689,51 @@ III. Los documentos privados que en esta forma fueren válidos con arreglo a la 
 
 El interesado presentará el título que va a ser registrado.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 2892.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse: llena las formas exigidas por la ley y contiene los datos a que se refiere el artículo 2894. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación, la que denegarán en los casos siguientes:
+
+I. Cuando el Título presentado no sea de los que deben inscribirse o anotarse;
+
+II. Cuando el documento no revista las formas exigidas por la ley;
+
+III. Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés público;
+
+IV. Cuando el documento no reúna los datos a que se refiere el artículo 2894;
+
+V. Cuando haya incompatibilidad entre el texto del documento y sus antecedentes registrales;
+
+VI. Cuando falte algún otro requisito que deba llenar el documento de acuerdo con el Código u otras leyes aplicables.
+
+En estos casos, se devolverá el Título sin registrar, pudiendo el interesado recurrir la calificación hecha por el registrador ante el Director del Registro Público del Propiedad. Si este confirma la calificación, el interesado podrá reclamarla en juicio ante la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+###### Artículo 2892 Bis.
+
+El escrito por el que se interponga el recurso de inconformidad, a que se refiere el último párrafo del artículo anterior, deberá presentarse por conducto del registrador que emitió la resolución reclamada, dentro de los ocho días hábiles siguientes a su notificación.
+
+El recurso se substanciará en los términos que fije el reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 2893.
 
-En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
+En los casos a que se refiere el artículo 2892, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si el Director del Registro Público de la Propiedad o la autoridad judicial, ordenan que se registre el Título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el Director el Registro Público de la Propiedad y el Juez aprueban la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 2894.
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+Toda inscripción que se haga en el Registro, expresará las circunstancias siguientes:
 
-I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+I. La naturaleza, situación y linderos de los inmuebles, objeto de la inscripción a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el Título y la referencia al registro anterior en donde consten esos datos;
 
 II. La naturaleza, extensión, condiciones y cargas del derecho que se constituya, trasmita, modifique o extinga;
 
@@ -14976,3 +15052,29 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE MAYO DE 1997.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 1997.
+
+DECRETO No. 204 QUE ADICIONA LOS ARTICULOS 2808 Y 2883 DEL PRESENTE CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, y sólo surtirá sus efectos para aquellos contratos que se celebren a partir de la fecha de su vigencia.
+
+SEGUNDO.- Todos los juicios hipotecarios que actualmente se siguen, se continuarán conforme al procedimiento iniciado.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 1997.
+
+DECRETO NO. 207, QUE REFORMA LOS ARTICULOS 27, 28, 39, 42, 44, 46, 52, 53, 59, 67, 68, 73, 74, 75 Y 76; Y ADICIONA EL ARTICULO 35 DEL PRESENTE CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de menor rango que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 1997.
+
+DECRETO No. 208, QUE REFORMA LOS ARTICULOS 2880, 2881, 2892, 2893, 2894 Y ADICIONA EL 2892 BIS DEL PRESENTE CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Con la finalidad de que la población no se vea efectada (sic) con la interrupción del servicio registral de la propiedad, en tanto sean designados los registradores, sus funciones serán desempeñadas por los Jueces de Primera Instancia de los distritos judiciales foráneos, y el Director del Registro Público de la Propiedad en el distrito del Centro.
