@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1996-12-20"
+last_updated: "1997-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1239,11 +1239,11 @@ Para la aplicación de las sanciones a que se refiere este precepto, el Congreso
 
 El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputado (sic). En ese caso no votarán quienes hayan integrado la Comisión Instructora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Procurador General de Justicia del Estado y Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1281,7 +1281,7 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 ###### ARTICULO 95.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
@@ -1750,3 +1750,7 @@ P.O. 20 DE DICIEMBRE DE 1996.
 PRIMERO.- Remítase al Ejecutivo del Estado el Proyecto de Decreto que reforma los artículos 99 y 100 de la Constitución Política del Estado, para efectos de su promulgación en los términos del último párrafo del artículo 34 de la misma.
 
 SEGUNDO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
