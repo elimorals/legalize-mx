@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-las-instituciones-nacionales-y-1183"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-06-29"
-last_updated: "1966-04-25"
+last_updated: "1974-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1183&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1959-06-23"
 
 REGLAMENTO SOBRE LAS INSTITUCIONES NACIONALES Y ORGANIZACIONES AUXILIARES NACIONALES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 1974.
 
 Reglamento publicado en el del Diario Oficial de la Federación, el lunes 29 de junio de 1959 y republicado el lunes 29 de junio de 1959.
 
@@ -61,9 +61,13 @@ d) Banco Nacional Hipotecario Urbano y de Obras Públicas, S. A.
 
 Cuando el Comité deba ocuparse de problemas relativos o relacionados con las demás instituciones nacionales de crédito u organizaciones auxiliares nacionales de crédito, los directores o gerentes generales respectivos, integrarán también dicho Comité. El presidente está facultado cuando lo estime oportuno, para convocar a todos los directores y gerentes generales de las mencionadas instituciones.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 1966)</small>
+
 ###### ARTICULO 1o.
 
-El presente Reglamento entrará en vigor el día de su publicación en el "Diario Oficial".
+BIS.- Se crea el Comité Coordinador de las Instituciones Nacionales de Crédito Agropecuario, integrado por los Secretarios de Hacienda y Crédito Público y de Agricultura y Ganadería; los Subsecretarios de Hacienda y Crédito Público y de Agricultura; el Presidente de la Comisión Nacional Bancaria y de Seguros; el Director General del Banco de México, S. A., en su carácter de Fiduciario del Gobierno Federal y del Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura; y los Directores Generales del Banco Nacional de Crédito Ejidal, S. A. de C. V., del Banco Nacional de Crédito Agrícola, S. A. y del Banco Nacional Agropecuario, S. A. Los representantes anteriores nombrarán a sus respectivos suplentes y el Comité al Secretario del mismo.
+
+Cuando este Comité deba ocuparse de asuntos relativos a otras instituciones nacionales u organizaciones auxiliares nacionales de crédito no representadas dentro del mismo, o de aseguramiento agropecuario, así como a los fondos permanentes de fomento agrícola o ganadero, constituidos en fideicomiso por el Gobierno Federal en las instituciones nacionales de crédito, los Directores o Gerentes de dichas entidades integrarán también el pleno del Comité.
 
 ###### ARTICULO 2o.
 
@@ -96,6 +100,12 @@ c) Diversificar las fuentes de trabajo y de riqueza, sobre la base de lograr el 
 d) Coadyuvar al equilibrio de la balanza de pagos y particularmente de la balanza comercial.
 
 e) Eliminar, en la medida posible, intermediaciones innecesarias en el uso del crédito.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 1966)</small>
+
+###### ARTICULO 3o.
+
+BIS.- El Comité Coordinador de las Instituciones Nacionales de Crédito Agropecuario tendrá las atribuciones y responsabilidades que señalan los artículos segundo y tercero de este Reglamento, en relación a las instituciones y organizaciones auxiliares de crédito agropecuario y a los fondos de fomento económico del sector agropecuario.
 
 ###### ARTICULO 4o.
 
@@ -195,6 +205,10 @@ d) Un consejero de la Serie "A" de cada una de las siguientes instituciones:
 
 Dicha comisión, al efectuar sus estudios, tendrá en cuenta los informes y puntos de vista que proporcionen el Director o Gerente de la institución u organización a que el caso se refiera.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 1966)</small>
+
+Por lo que respecta a las entidades del sector agropecuario que señala este Reglamento, la Secretaría de Hacienda y Crédito Público dictará las resoluciones a que se refiere este artículo, previo estudio de los asuntos por el Comité Coordinador de las Instituciones Nacionales de Crédito Agropecuario.
+
 ###### ARTICULO 10.
 
 Los Consejos de Administración de las instituciones nacionales de crédito y de las organizaciones auxiliares nacionales de crédito se reunirán, por lo menos, una vez al mes, y el Director General o Gerente General de la institución u organización respectiva, informará mensualmente al Consejo, acerca de las principales actividades realizadas en el mes inmediato anterior.
@@ -225,11 +239,19 @@ Previo estudio elaborado por la comisión a que se refiere el artículo 9o., la 
 
 Los dictámenes que emita el Comité Coordinador tendrán carácter obligatorio una vez que sean aprobados por el Ejecutivo, y los de la comisión asesora permanente cuando sean aprobados por el Secretario de Hacienda y Crédito Público.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 1966)</small>
+
+Los dictámenes que emita el Comité Coordinador de las Instituciones Nacionales de Crédito Agropecuario, tendrán carácter obligatorio una vez que sean aprobados por los Secretarios de Hacienda y Crédito Público y de Agricultura y Ganadería.
+
 ###### ARTICULO 15.
 
 Se faculta a la Secretaría de Hacienda y Crédito Público para interpretar el presente Reglamento y para expedir las reglas complementarias que se requieran en la aplicación del mismo.
 
 ## TRANSITORIOS
+
+###### ARTICULO 1o.
+
+El presente Reglamento entrará en vigor el día de su publicación en el "Diario Oficial".
 
 ###### ARTICULO 2º.
 
@@ -244,3 +266,7 @@ D.O.F. 25 DE ABRIL DE 1966.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor en la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE MAYO DE 1974.
+
+UNICO El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
