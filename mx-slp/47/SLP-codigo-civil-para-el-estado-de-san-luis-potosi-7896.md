@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1990-10-12"
+last_updated: "1991-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1991.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1913,7 +1913,7 @@ ART. 532.- Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gra
 
 ART. 533.- Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
-ART. 534.- En caso de maltratamiento o negligencia en los cuidados debidos al incapacitado o de la mala administración de su bienes, podrá el tutor ser removido de la tutela a petición del curador, o de los parientes del incapacitado.
+ART. 534.- En caso de maltratamiento o negligencia en los cuidados debidos al incapacitado o de la mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, o de los parientes del incapacitado.
 
 ART. 535.- El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y para los tutores legítimos o dativos la fijará el juez.
 
@@ -4969,6 +4969,48 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
+Del objeto y del motivo o fin de los Contratos
+
+ART. 1660.- Son objeto de los contratos:
+
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
+
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
 Cláusulas que pueden contener los Contratos
 
 ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
@@ -4999,31 +5041,11 @@ ART. 1685.- En el caso del artículo anterior, cada uno de los herederos respond
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
-Forma
+De la Capacidad
 
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
 
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-División de los Contratos
-
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
-
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
-
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
-
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
-
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
 Vicios del Consentimiento
 
@@ -5050,6 +5072,46 @@ ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre 
 ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
 
 ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Interpretación
+
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5335,12 +5397,6 @@ De las Obligaciones en General
 
 ## TITULO PRIMERO. Fuentes de las Obligaciones
 
-De la Capacidad
-
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
-
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
 Del Consentimiento
 
 ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
@@ -5360,62 +5416,6 @@ ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin 
 ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
-Del objeto y del motivo o fin de los Contratos
-
-ART. 1660.- Son objeto de los contratos:
-
-I.- La cosa que el obligado debe dar;
-
-II.- El hecho que el obligado debe hacer o no hacer.
-
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
-
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
-
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
-
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Interpretación
-
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
-
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
-
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
-
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
-
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
-
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
-
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
-
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
-
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
 ### CAPITULO III. De las Obligaciones Conjuntivas y Alternativas
 
@@ -6333,13 +6333,15 @@ ART. 2147.- El contrato de compra – venta no requiere para su validez formalid
 
 Las escrituras de compra-venta, sean públicas o privadas, requieren para su validez formal, el certificado previo de gravámenes o libertad de gravámenes de los inmuebles materia de contrato. El mismo certificado se exigirá en los endosos en propiedad a que se refiere el artículo 2150.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1991)</small>
 
-ART. 2148.- Cuando la enjenación (sic) del inmueble sea hecha por instituciones o personas jurídicas cuyo objeto sea promover y financiar la vivienda denominada como de interés social; o cuando el valor del inmueble, catastral o convenido por las partes, el que resulte más elevado, no exceda del equivalente al importe de 1,500 días de salario mínimo general vigente en el lugar, la venta podrá otorgarse en escritura privada, que firmarán el vendedor y el comprador ante dos testigos, debiendo autentificarse las firmas de todos ellos ante Notario Público o ante el Encargado del Registro Público de la Propiedad y del Comercio.
+ART. 2148.- Cuando la enajenación del inmueble se trate de casa habitación que sea construída o financiada por Entidades de la Administración Pública que tengan por objeto fomentar la vivienda de interés social, el contrato de compra-venta podrá otorgarse por escritura privada ante dos testigos, debiendo autentificarse las firmas de todos ellos ante Notario Público, el que deberá cobrar por concepto de honorarios el importe de un día de salario mínimo general vigente en el Estado.
 
-Cuando la escritura privada sea redactada y dirigida por un Notario Público, no será necesaria la concurrencia de testigos; el Notario certificará esta circunstancia y los otorgantes ratificarán ante él el contenido del contrato y sus firmas.
+En igual forma podrá otorgarse la hipotec (sic) que se requiera en esos casos, o la compra-venta entre particulares cuyo valor convenido o catastral, el que resulte más alto, no exceda del equivalente a quinientos días de salario mínimo general vigente en la Entidad.
 
-En los demás casos, la venta deberá otorgarse en escritura pública.
+Cuando la escritura sea redactada y dirigida por un Notario Público, no será necesaria la asistencia de testigos; el Notario certificará esta circunstancia y los otorgantes ratificarán ante su presencia, el contenido de los contratos y sus firmas.
+
+En todos los demás casos deberá otorgarse escritura pública.
 
 ART. 2149.- Cuando la venta se otorgue en escritura privada, si alguno de los contratantes no supiere escribir, firmará a su nombre y ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1670.
 
@@ -8826,5 +8828,9 @@ P.O. 10 DE JULIO DE 1990.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE OCTUBRE DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
