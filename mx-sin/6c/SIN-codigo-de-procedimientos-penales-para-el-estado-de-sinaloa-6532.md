@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2001-08-22"
+last_updated: "2002-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -857,9 +857,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; el de extorsión previsto en el artículo 231; ataques a los medios de transporte previsto en el artículo 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; el de tortura previsto en el artículo 328; y los delitos electorales previstos en los artículos 357 fracción III y 359.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; ataques a los medios de transporte previsto en el artículo 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; y los delitos electorales previstos en los artículos 357 fracción III y 359.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -1118,6 +1118,22 @@ Cuando el delito fuere de los que no dejan vestigios o indicios de su perpetraci
 Si de las primeras diligencias se desprende que la muerte no se deba a un delito, no se practicará la autopsia y el Ministerio Público entregará el cadáver.
 
 En todos los demás casos será indispensable este requisito, con las excepciones que este Código señale.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
+
+El Ministerio Público podrá autorizar, para efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas o desconocidas, cuando con motivo de una averiguación previa se encuentren a su disposición, siempre y cuando se compruebe la pérdida de la vida del donante por un médico distinto a los que intervendrán en el trasplante o en la obtención de órganos y tejidos, en los términos de la legislación federal en materia de salud.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
+
+Para el caso de personas conocidas, deberá existir previamente a la obtención de cualquier órgano o tejido, el consentimiento expreso del donante o a falta de éste, el que compruebe fehacientemente ser el del o de la cónyuge, del concubinario, de la concubina, de los descendientes, ascendientes, hermanos, del adoptado, o del adoptante, conforme a la prelación señalada.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
+
+Para el caso de personas desconocidas, la autorización deberá formularse dentro de las 72 horas siguientes a la hora en que se dio fe del cadáver.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
+
+Estas autorizaciones procederán siempre y cuando el médico forense determine que no afectan la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para transplante (sic) cuenten con la autorización correspondiente.
 
 ###### ARTICULO 151.
 
@@ -2623,11 +2639,13 @@ Inmediatamente de recibido el proceso o el testimonio en su caso, la Sala dentro
 
 Cuando las partes quisieran promover alguna prueba, lo harán en su caso, al exponer o contestar los agravios, las que de admitirse, se desahogarán dentro de los tres días siguientes al vencimiento del término de la contestación de los agravios.
 
-Si se advirtiere que el recurso fue mal admitido, se resolverá sobre la naturaleza de la admisión correcta, notificándose al juez de donde proviniere para los efectos legales correspondientes.
+Si se advirtiere que el recurso fue mal admitido, resolverá sobre la naturaleza de la admisión correcta, notificándose al juez de donde proviniere para los efectos legales correspondientes.
 
 Dentro de los tres días siguientes a la notificación del auto de radicación, se podrá objetar la admisión del recurso o sus efectos y la Sala resolverá de plano.
 
-Transcurrido el término de los agravios y su contestación, o desahogadas las pruebas si las hubiere; el Tribunal mandará citar a las partes para la vista del negocio que se celebrará dentro de los diez días siguientes. Al procesado, si se encuentra en el lugar donde se encuentra el tribunal, se le hará saber si desea o no estar presente. En caso afirmativo se le hará comparecer a ella y en caso contrario, se le hará saber el resultado de la misma.
+(REFORMADO, P.O. 9 DE AGOSTO DE 2002) (F. DE E., P.O. 16 DE AGOSTO DE 2002)
+
+Transcurrido el término de los agravios y su contestación, o desahogadas las pruebas si las hubiere, el tribunal mandará citar al Ministerio Público y al defensor para la vista del negocio que se celebrará dentro de los diez días siguientes.
 
 ###### ARTICULO 389.
 
@@ -3796,3 +3814,21 @@ P.O. 22 DE AGOSTO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE AGOSTO DE 2002.
+
+DECRETO No. 118
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P. O. 9 DE AGOSTO DE 2002.
+
+DECRETO No. 154
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE AGOSTO DE 2002.
+
+DECRETO No. 155
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
