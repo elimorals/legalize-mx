@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1987-12-30"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO TERCERO DEL DECRETO NUMERO 36 QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, ESTATALES Y MUNICIPALES; SE DEROGA EL ANEXO QUE CONTIENE LAS TARIFAS DE LA PRESENTE LEY P.O. 30 DE DICIEMBRE DE 1987.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DE 30 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DE 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -87,9 +85,11 @@ D E R C R E T O:
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 1o.
 
-Los Ingresos Fiscales del Municipio que se establezcan en la Ley de Ingresos, se regularan por las disposiciones que esta ley señale, y en lo que no este previsto, por las disposiciones del Código Fiscal Municipal y por la Legislación Común de este Estado.
+Los Ingresos Fiscales en cada Municipio del Estado de Hidalgo que se establezcan en su respectiva Ley de Ingresos y Presupuesto de Ingresos, se regularan por las disposiciones de esta Ley y en lo previsto, por las del Código Fiscal Municipal y la Legislación común del Estado.
 
 ###### ARTICULO 2o.
 
@@ -103,21 +103,25 @@ Los ingresos y las disposiciones establecidos en la Ley sólo dejarán de percib
 
 Las Leyes de Ingresos y Presupuestos de Ingresos y Egresos Municipales, serán publicados con la debida anticipación para que puedan regir en el curso del año para el cual se expidan; pero si por cualquier circunstancia, no se hiciere así, continuarán en vigor los presupuestos del año anterior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 5o.
 
-Los Ayuntamientos formularán en el mes de noviembre de cada año, el proyecto de Presupuesto de Ingresos, con sujeción a las disposiciones de ésta Ley.
+Los Ayuntamientos del Estado, elaborarán y aprobarán sus respectivos proyectos de Leyes de Ingresos y Presupuesto de Ingresos, para cada ejercicio fiscal.
 
-Este proyecto se remitirá a más tardar el día quince de diciembre al Congreso del Estado, acompañando de un cuadro de estimaciones del rendimiento probable de cada concepto de ingresos.
+En ellas se contendrán las (sic) diversos conceptos de ingreso, de conformidad con los que prevea la Ley de Hacienda Municipal y demás disposiciones aplicables, estableciéndose para cada uno de ellos, la cantidad que se estima recaudar en un ejercicio fiscal, en total de Presupuesto de Ingresos y las disposiciones generales que deban regir su operación.
 
-La Legislatura local, aprobará las Leyes de Ingresos y presupuesto de Ingresos, procurando que las diferencias en las cuotas y tarifas entre los diversos municipios, sean únicamente las indispensables, de acuerdo con las diferentes necesidades.
+Dichos proyectos deberán aprobarse por el Ayuntamiento durante el mes de noviembre de cada año y antes del quince de diciembre siguiente, el Presidente Municipal deberá enviar la iniciativa de ley correspondiente al Honorable Congreso del Estado, para efectos de aprobación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 6o.
 
-Las cuotas para el cobro de los derechos, se calcularán hasta donde sea posible, en atención al costo de los servicios. Dichas cuotas se cobrarán de acuerdo a las tarifas de los diferentes ingresos que se contemplan en el capítulo octavo de esta Ley. Las tarifas señaladas serán elaboradas por cada Municipio y enviadas al Congreso del Estado, junto con su presupuesto de ingresos, para su aprobación en su caso.
+Los ingresos de los municipios se cobrarán de conformidad con las cuotas y tarifas que para cada ayuntamiento establezca el Título Octavo de la Ley de Hacienda Municipal.
+
+Para tal efecto, los Ayuntamientos enviarán al Congreso del Estado, junto con su proyecto de Ley de Ingresos, el ante proyecto de cuotas y tarifas que estimen aplicables para el siguiente ejercicio fiscal.
+
+Las cuotas para el cobro de los derechos, se calcularán hasta donde sea posible, en atención al costo de los servicios.
 
 ###### ARTICULO 7o.
 
@@ -445,13 +449,7 @@ V.- En las adquisiciones realizadas por los organismos descentralizados de la Fe
 
 ARTICULO 8 V.- Los subsidios a que se refiere este capítulo se solicitarán por escrito a la Tesorería Municipal dentro de los 30 días siguientes a la firma del instrumento correspondiente acompañándose con la declaración a que se refiere el artículo 8 S de esta Ley y los documentos que comprueben plenamente las causas del subsidio.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-ARTICULO 8 W.- La expedición de certificados de valor fiscal se sujetará a los siguientes:
-
-a).- Por la certificación del valor fiscal $ 300.00
-
-b).- Además de lo anterior por la búsqueda de antecedentes cuando no se precisen los interados (sic) la fecha, por cada período de 5 años o fracción $ 400.00
+ARTICULO 8 W.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO II. IMPUESTO A LOS ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
 
@@ -489,11 +487,11 @@ La base para determinar el monto del Impuesto será el total de los ingresos per
 
 El pago de este Impuesto deberá realizarse mensualmente ante la Tesorería Municipal correspondiente, en los casos de causantes habituales y diariamente, si estos son temporales o eventuales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 17.
 
-Las cuotas del impuesto serán las señaladas en el título octavo de esta Ley.
+Las cuotas y tarifas de éste impuesto serán las señaladas para el Municipio que corresponda en el Título Octavo de esta Ley.
 
 ### CAPITULO IV. IMPUESTO SOBRE DIVERSIONES, ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
 
@@ -513,11 +511,11 @@ La base para determinar el monto del impuesto serán los ingresos percibidos dur
 
 El pago de este impuesto deberá realizarse mensualmente ante la Tesorería Municipal correspondiente, en los casos de causantes habituales y diariamente, si éstos son temporales o eventuales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 22.
 
-Las tarifas de este impuesto serán las señaladas por el título octavo de ésta ley.
+Las cuotas y tarifas de este impuesto serán las señaladas para el Municipio que corresponda en el Título Octavo de esta Ley.
 
 ###### ARTICULO 23.
 
@@ -551,11 +549,11 @@ Los Tesoreros Municipales tomarán las medidas de identificación que estimen pe
 
 La base de este impuesto será el cálculo de los ingresos totales percibidos por los comerciantes ambulantes, por las operaciones a que se refiere el artículo 26 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 29.
 
-Este impuesto se causará y pagará en los términos que señala el título octavo de la presente Ley.
+Este impuesto se causará y pagará en los términos de las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
 ###### ARTICULO 30.
 
@@ -571,9 +569,11 @@ Es objeto de este impuesto la compra-venta de ganado bovino, caballar, mular, as
 
 Son sujetos de este impuesto los comerciantes ambulantes a que se refiere el artículo 26 y que transmitan la propiedad del ganado y aves en plazas, vías públicas o cualquier otro lugar en que se exhiban.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 33.
 
-Este impuesto se causará y pagará de acuerdo a la tarifa que contiene el anexo anual de cuotas y tarifas de la presente Ley para cada Municipio, sobre el total de los ingresos que obtengan los comerciantes señalados en el artículo anterior.
+Este impuesto se causará y pagará en los términos de las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de ésta Ley sobre el total de los Ingresos que obtengan los comerciantes señalados en el Artículo anterior.
 
 ###### ARTICULO 34.
 
@@ -613,11 +613,11 @@ No causa este impuesto el uso de agua de pozos artesianos ni sus derivaciones pa
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas que tengan el carácter de propietarios, poseedores o detentadores de pozos artesianos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 43.
 
-Este impuesto se pagará bimestralmente conforme al título octavo de esta Ley.
+Este impuesto se pagará bimestralmente, conforme a las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
 ###### ARTICULO 44.
 
@@ -669,11 +669,11 @@ Son sujetos de este Impuesto, las personas físicas, morales o unidades económi
 
 La base de este impuesto es el ingreso total recibido por las operaciones realizadas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 49.
 
-Este impuesto se causará y pagará de acuerdo con el título octavo de ésta Ley, sobre el total de los ingresos de los establecimientos enumerados en el artículo 46 de este ordenamiento.
+Este impuesto se causará y pagará, de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de estas (sic) Ley, sobre el total de los Ingresos de los establecimientos enumerados en el Artículo 46 del mismo ordenamiento.
 
 ###### ARTICULO 50.
 
@@ -707,15 +707,15 @@ Es objeto de este derecho, el servicio de alumbrado público que presta el Munic
 
 Son sujetos de este derecho, las personas físicas, morales o unidades económicas que han contratado o contraten con la Comisión Federal de Electricidad o la Compañía de Luz y Fuerza del Centro y Asociadas en liquidación, el consumo de energía eléctrica.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 56.
 
-Este derecho se causará y pagará de acuerdo con el título octavo de esta Ley, sobre el total de consumo que registren los medidores de la Comisión Federal de Electricidad o bien de la Compañía de Luz y Fuerza del Centro.
+Este derecho se causará y pagará, de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley, sobre el total del consumo que registren los medidores de la Comisión Federal de Electricidad, o bien de la Compañía de Luz y Fuerza del Centro.
 
 ###### ARTICULO 57.
 
-En virtud de que la recaudación y recuperación de este derecho, se lleva a cabo a través de la Comisión Federal de Electricidad o bien de la Compañía de Luz y Fuerza del Centro y Asociadas en liquidación, y para los efectos de entero de este derecho, a los Ayuntamientos respectivos, se estará a lo previsto por los Convenios relativos mientras estos existan.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
 #### SECCION SEGUNDA. DERECHOS POR SERVICIO DE AGUA POTABLE
 
@@ -737,27 +737,29 @@ Para determinar el pago de los derechos que señala la presente Sección, que de
 
 Los contribuyentes de este derecho, están obligados a cubrir en la Tesorería Municipal el importe del costo total de la mano de obra, material necesario para ejecución de la misma, así como de los aparatos medidores para la instalación de los mismos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 62.
 
-Todos los usuarios de este derecho, que tengan instalados su medidor, causarán y pagarán de acuerdo a lo que establece el título octavo de ésta Ley, con la salvedad de los Municipios en los que la Comisión de Servicios Públicos tenga bajo su control, el servicio de agua potable.
+Los causantes de éste derecho, que tengan instalado medidor, pagarán de conformidad con las cuotas y tarifas en el Título Octavo de ésta Ley; salvo en los Municipios en que la Comisión de Servicios Públicos tenga bajo su administración el servicio de agua potable.
 
 #### SECCION TERCERA. DERECHOS POR SERVICIO DE DRENAJE Y ALCANTARILLADO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 63.
 
-Los propietarios y poseedores de predios urbanos, están obligados a solicitar a los Ayuntamientos los Servicios de drenaje, cuando el sistema central pase por las calles de su ubicación; si carecen de este servicio por no haberlo solicitado al Ayuntamiento, cubrirán las cuotas mínimas señaladas en el título octavo de esta Ley.
+Los propietarios y poseedores de predios urbanos, están obligados a solicitar a los Ayuntamientos los Servicios de drenaje, cuando el sistema central pase por las calles de su ubicación; si carecen de este servicio por no haberlo solicitado, cubrirán las cuotas mínimas que para el Municipio que corresponda se contengan en el Título Octavo de ésta Ley.
 
 ###### ARTICULO 64.
 
 Son sujetos del pago de los derechos por servicio de drenaje y alcantarillado que el Municipio proporcione, todos los propietarios o poseedores de predios urbanos quienes deberán solicitar este servicio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 65.
 
-Todos los contribuyentes del servicio de drenaje y alcantarillado, causarán y pagarán de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Todos los contribuyentes del servicio de drenaje y alcantarillado, causarán y pagarán de acuerdo con las cuotas y tarifas que para el municipio que corresponda, se contienen en el Título Octavo de ésta Ley.
 
 ###### ARTICULO 66.
 
@@ -769,11 +771,11 @@ Quienes soliciten la conexión e instalación del servicio de drenaje y alcantar
 
 El pago de este derecho se origina por la guarda de animales que son depositados en los Corrales de Consejo propiedad del Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 68.
 
-Los derechos que se causan por la prestación de este servicio se cubrirán de acuerdo con al título octavo de esta Ley.
+Los derechos que se causen por la prestación de este servicio se cubrirán de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
 ###### ARTICULO 69.
 
@@ -793,11 +795,11 @@ Es objeto de este derecho la prestación de servicios que proporcionen los rastr
 
 Son sujetos de este derecho, quienes hagan uso de los servicios de rastros Municipales, ya sea para la guarda o matanza de animales de las especies bovina, porcina, caprina, equina, aves de corral, lepóridos, así como las corraletas, básculas, almacenaje, refrigeración, inspección sanitaria de carnes y cualquier otro servicio derivado del uso del rastro propiedad del Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 73.
 
-Este derecho se causará y pagará de acuerdo a lo señalado en el título octavo de esta Ley.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
 #### SECCION SEXTA. DERECHOS POR SERVICIO DE ALINEAMIENTO Y NOMENCLATURA
 
@@ -809,11 +811,11 @@ Es objeto de este Derecho, la autorización que otorga el Municipio para determi
 
 En los centros de población, todos los inmuebles deberán tener un número oficial, que los identifique, aunque no lo solicite el propietario o poseedor.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 76.
 
-Los derechos por servicio de alineamiento, deslinde de predios y de nomenclatura, se causarán y pagarán de acuerdo a lo establecido por el título octavo de esta Ley.
+Los derechos por estos servicio se causarán y pagarán, de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
 #### SECCION SEPTIMA. URBANIZACION, ORNATO E HIGIENE
 
@@ -823,55 +825,67 @@ Los derechos por servicio de alineamiento, deslinde de predios y de nomenclatura
 
 Es objeto de este derecho la colocación de andamios, obstáculos en la vía pública, anuncios en tableros, manteados, cuadros especiales sobre muros, tapiales, propaganda en general, fijación de anuncios por temporadas, así como toda clase de propaganda en el interior y exterior de los vehículos de servicio público de transporte de pasajeros de líneas urbanas de concesión estatal.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 78.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará, de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de ésta Ley.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+#### SECCION OCTAVA. DERECHOS POR SERVICIO DE PANTEONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 78 A.- Es objeto de este derecho la autorización que otorga el Municipio para la inhumación de cadáveres y restos, reinhumaciones, exhumaciones y refrendos en los panteones propiedad del H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 78 B.- Son sujetos de este derecho quienes soliciten el uso de los servicios en los panteones municipales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 78 C.- Este derecho se causará y pagarán de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
 #### SECCION PRIMERA. DERECHOS POR REGISTRO DEL ESTADO FAMILIAR
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-#### SECCION SEGUNDA. DERECHOS POR SERVICIOS DE CERTIFICACIONES LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
-
 ### CAPITULO SEGUNDO. DERECHO POR REGISTRO
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-#### SECCION TERCERA. DERECHOS POR SERVICIOS DE REGISTRO ANUAL DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+#### SECCION SEGUNDA. DERECHOS POR SERVICIOS DE CERTIFICACIONES LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
 
 ###### ARTICULO 79.
 
 Se entiende por este derecho la contraprestación económica que da el particular, por la validez jurídica de documentos que expiden los oficiales del Registro del Estado Familiar, en los distintos actos que determinan el estado natural de las personas físicas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 80.
 
-Los derechos que se causan por los servicios que presta el Registro del Estado Familiar, dentro y fuera de la oficina se causarán de acuerdo a lo que establece el título octavo de esta Ley.
+Los derechos que se causen por los servicios que preste el Registro del Estado Familiar, dentro y fuera de la Oficina, se pagarán de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 81.
 
-El pago de los derechos que establece este capítulo y que señala el articulo 22 del Código Familiar Vigente, con respecto a los matrimonios se causarán y pagarán de acuerdo a lo señalado en el título octavo de ésta Ley.
+El pago de los derechos que establece este Capítulo y a que hace referencia el Artículo 22 del Código Familiar Vigente, respecto a los matrimonios se causarán y pagarán de acuerdo a las cuotas y tarifas que para ello el Municipio que corresponda se contienen en el Título Octavo de ésta Ley.
 
-#### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
+#### SECCION TERCERA. DERECHOS POR SERVICIOS DE REGISTRO ANUAL DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 82.
 
 Se entiende por servicio de certificación, la legalización de documentos solicitados a los Municipios, en los que se hagan constar los hechos o situaciones jurídicas o civiles relacionadas con las personas físicas que habitual o accidentalmente han residido o residan dentro del territorio del Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 83.
 
-Los derechos que se causan por certificaciones, legalizaciones y expedición de copias certificadas se cubrirán de acuerdo a lo señalado en el título octavo de esta Ley.
+Los derechos que se causen por estos servicios, se pagarán de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
 ###### ARTICULO 84.
 
@@ -881,9 +895,9 @@ I.- Las que se expidan para acreditar la clausura de algún estalecimiento (sic)
 
 II.- Las que acuerde el Ayuntamiento, el Presidente Municipal o cualquiera otra de las autoridades fiscales Municipales, con las prerrogativas que les otorga el Código Fiscal Municipal.
 
-#### SECCION QUINTA. DERECHO POR SERVICIO DE REGISTRO REVISION DE FIERROS PARA MARCAR GANADO Y MAGUEYES
+#### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 85.
 
@@ -895,13 +909,13 @@ Es objeto de este derecho, el Registro de Establecimientos Comerciales e Industr
 
 Toda persona física, moral o unidad económica que su actividad se encuentra comprendida en este capítulo, deberá proveerse del registro anual de comercio o industria que le será expedido por la Tesorería Municipal.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988).
 
 ###### ARTICULO 87.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION PRIMERA. DIVERSIONES Y ESPECTACULOS PUBLICOS
+#### SECCION QUINTA. DERECHO POR SERVICIO DE REGISTRO REVISION DE FIERROS PARA MARCAR GANADO Y MAGUEYES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -915,13 +929,13 @@ Es objeto de este derecho el servicio de expedición de licencias y canje de pla
 
 Son sujetos del pago del derecho por el servicio de expedición de licencias y canje de placas. Todas las personas físicas, morales o unidades económicas que obstenta la propiedad o posesión de motocicletas, bicicletas particulares, de alquiler, para carro de mano de primera, de tracción animal y expedición de licencias para conducir toda clase de vehículos de motor.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 90.
 
-Este derecho se causará y pagará de acuerdo con lo establecido en el título octavo de esta Ley.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION SEGUNDA. DERECHO POR AUTORIZACION PARA LA CELEBRACION DE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
+#### SECCION PRIMERA. DIVERSIONES Y ESPECTACULOS PUBLICOS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -935,15 +949,15 @@ Es objeto de este derecho el servicio de registro, refrendo o revisión por part
 
 Son sujetos de pago de derechos por servicio de Registro, refrendo o revisión por parte del Ayuntamiento, los propietarios o poseedores de fierros para marcar ganado y magueyes, así como la identificación para acreditar la propiedad de los mismos.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 93.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
 ### CAPITULO TERCERO. DERECHOS POR AUTORIZACION Y LICENCIAS DIVERSAS
 
-#### SECCION TERCERA. DERECHOS POR AUTORIZACION DEL FUNCIONAMIENTO DE APARATOS MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
+#### SECCION SEGUNDA. DERECHO POR AUTORIZACION PARA LA CELEBRACION DE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -963,13 +977,13 @@ Es objeto de este derecho la autorización del funcionamiento de diversiones y e
 
 Son sujetos de este derecho las personas físicas morales o unidades económicas, que detenten la propiedad o posesión, que gestionen, tramiten y obtengan la autorización de los Ayuntamientos para la realización o explotación de diversiones y espectáculos públicos.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 97.
 
-Los derechos que se causan por la autorización para el funcionamiento de diversiones y espectáculos públicos así como licencias diversas, se cubrirán en las Tesorerías Municipales, de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Los derechos que se causen por la autorización para el funcionamiento de diversiones y espectáculos públicos, así como licencias diversas, se cubrirán en las Tesorerías Municipales, de acuerdo con las cuotas y tarifas que para el Municipio que corresponda, se contengan en el Título Octavo de esta Ley.
 
-#### SECCION CUARTA. DERECHOS POR AUTORIZACION PARA LA COLOCACION DE ANUNCIOS LUMINOSOS
+#### SECCION TERCERA. DERECHOS POR AUTORIZACION DEL FUNCIONAMIENTO DE APARATOS MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -983,13 +997,13 @@ Es objeto de este derecho la autorización para la celebración de rifas, loter�
 
 Son sujetos del pago de este derecho las personas físicas, morales o unidades económicas que detenten la propiedad o posesión que realicen o exploten la celebración de rifas, loterías y toda clase de juegos permitidos en los Municipios.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 100.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION QUINTA. DERECHOS POR AUTORIZACION PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES EN HORAS EXTRAORDINARIAS
+#### SECCION CUARTA. DERECHOS POR AUTORIZACION PARA LA COLOCACION DE ANUNCIOS LUMINOSOS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1003,13 +1017,13 @@ Es objeto de este derecho la autorización de licencias para el funcionamiento y
 
 Son sujetos de este derecho las personas físicas, morales o unidades económicas que detenten la propiedad o posesión, que realicen la explotación y funcionamiento de aparatos mecánicos, electromecánicos y fonoelectromecánicos, accionados por monedas o fichas.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 103.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION SEXTA. DERECHOS POR AUTORIZACION PARA PROPAGANDA FONETICA EN LA VIA PUBLICA
+#### SECCION QUINTA. DERECHOS POR AUTORIZACION PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES EN HORAS EXTRAORDINARIAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1017,13 +1031,13 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 Es objeto de este derecho la autorización para la colocación de anuncios luminosos de publicidad que se coloquen o se instalen en lugares distintos de establecimientos comerciales por parte del Municipio.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 105.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION SEPTIMA. DERECHOS POR EXPEDICION Y/O REFRENDO ANUAL DE LICENCIAS PARA EL EJERCICIO DE LAS ACTIVIDADES SIGUIENTES
+#### SECCION SEXTA. DERECHOS POR AUTORIZACION PARA PROPAGANDA FONETICA EN LA VIA PUBLICA
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1037,11 +1051,11 @@ Es objeto de este derecho la autorización que otorga el Ayuntamiento, para el f
 
 Son sujetos de este derecho las personas físicas, morales o unidades económicas que requieran la autorización para el funcionamiento de sus establecimientos comerciales en horas extraordinarias.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 108.
 
-Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1063,7 +1077,7 @@ VI.- Sanatorios, Hospitales y Clínicas;
 
 VII.- Hoteles, Moteles y Casa de Huéspedes.
 
-#### SECCION OCTAVA. DERECHOS POR AUTORIZACION PARA LA VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTO
+#### SECCION SEPTIMA. DERECHOS POR EXPEDICION Y/O REFRENDO ANUAL DE LICENCIAS PARA EL EJERCICIO DE LAS ACTIVIDADES SIGUIENTES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1071,17 +1085,15 @@ VII.- Hoteles, Moteles y Casa de Huéspedes.
 
 Es objeto de este derecho la autorización para hacer uso de propaganda fonética en la vía pública.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 111.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION NOVENA. DERECHOS POR AUTORIZACION DE REGISTRO DE PERITOS EN OBRAS PARA CONSTRUCCION
+#### SECCION OCTAVA. DERECHOS POR AUTORIZACION PARA LA VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTO
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 112.
 
@@ -1103,13 +1115,13 @@ g).- Meseros;
 
 h).- Otras actividades semejantes.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 113.
 
-Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA. DERECHOS POR AUTORIZACION DE REPARACION DE CASAS, EDIFICIOS Y FACHADAS
+#### SECCION NOVENA. DERECHOS POR AUTORIZACION DE REGISTRO DE PERITOS EN OBRAS PARA CONSTRUCCION
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1125,33 +1137,33 @@ Es objeto de este derecho la autorización para la renta de lotes de terrenos en
 
 Son sujetos de este derecho las personas físicas morales o unidades económicas que obtengan licencia o autorización para la venta de lotes de terrenos en fraccionamiento.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 116.
 
-Este derecho se causará y pagará de acuerdo con lo establecido en el título octavo de esta Ley.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-###### ARTICULO 117.
-
-Es objeto de este derecho, las licencias para la construcción del Registro de Peritos en obras de construcción.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-###### ARTICULO 118.
-
-Este derecho se causará y pagará de acuerdo a lo establecido por el título octavo de esta Ley.
-
-#### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
+#### SECCION DECIMA. DERECHOS POR AUTORIZACION DE REPARACION DE CASAS, EDIFICIOS Y FACHADAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
-#### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
+###### ARTICULO 117.
+
+Es objeto de este derecho, las licencias para la construcción del Registro de Peritos en obras de construcción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 118.
+
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
+
+#### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+#### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1161,25 +1173,41 @@ Este derecho se causará y pagará de acuerdo a lo establecido por el título oc
 
 Es objeto de este derecho las licencias para la reparación de casas, edificios y fachadas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 120.
 
-Este derecho se causará y pagará de acuerdo con lo que señala el título octavo de esta Ley.
+Estos derechos de (sic) causarán y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
+#### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 121.
 
 Es objeto de este derecho la autorización para la construcción de toda clase de bardas en territorio de los Municipios del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 122.
 
-Este derecho se causará y pagará de acuerdo a lo que establece el título octavo de esta Ley.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
+
+#### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+###### ARTICULO 123.
+
+Es objeto de este derecho las licencias para la construcción para la demolición de bardas por metro (sic) cúbicos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 124.
+
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el municipio que corresponda se contengan en el Título Octavo de ésta Ley.
 
 #### SECCION DECIMA QUINTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE PAVIMENTO
 
@@ -1187,55 +1215,41 @@ Este derecho se causará y pagará de acuerdo a lo que establece el título octa
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
-###### ARTICULO 123.
-
-Es objeto de este derecho las licencias para la construcción para la demolición de bardas por metro (sic) cúbicos.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-###### ARTICULO 124.
-
-Este derecho se causará y pagará de acuerdo con lo establecido por el título octavo de esta Ley.
-
-#### SECCION DECIMA SEXTA. DERECHOS POR LA AUTORIZACION PARA LA INTRODUCCION DE TOMAS DE AGUA
-
 ###### ARTICULO 125.
 
 Es objeto de este derecho, las licencias para la construcción de banquetas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 126.
 
-Este derecho se causará y pagará de acuerdo con lo que establece el título octavo de esta Ley.
+Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA OCTAVA. DERECHOS POR AUTORIZACION PARA ESTACIONAMIENTO EN VIA PUBLICA
+#### SECCION DECIMA SEXTA. DERECHOS POR LA AUTORIZACION PARA LA INTRODUCCION DE TOMAS DE AGUA
 
 ###### ARTICULO 127.
 
 Es objeto de este derecho las licencias para la contruccion de guarniciones.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 128.
 
-Este derecho se causará y pagará de acuerdo con lo que establece el titulo octavo de esta ley.
+Este derecho se causará y pagará de acuerdo con la tarifa que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+#### SECCION DECIMA OCTAVA. DERECHOS POR AUTORIZACION PARA ESTACIONAMIENTO EN VIA PUBLICA
 
 ###### ARTICULO 129.
 
 Es objeto de este derecho las licencias para la construcción de toda clase de pavimento, en territorio de los Municipios del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 130.
 
-Este derecho se causará y pagará de acuerdo con lo que establece el título octavo de esta Ley.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
+#### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1243,11 +1257,11 @@ Este derecho se causará y pagará de acuerdo con lo que establece el título oc
 
 Es objeto de este derecho la autorización para la introducción de tomas de agua en territorio de los Municipios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 132.
 
-Este derecho se causará y pagará de acuerdo con lo establecido en el título octavo de esta Ley.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
 SECCION DECINA (SIC) SEPTIMA
 
@@ -1257,13 +1271,13 @@ DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION, INSTALACION, CONEXION Y RECON
 
 Es objeto de este derecho la autorización para la consturcción (sic), instalación, conexión y reconexión del servicio de drenajes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 134.
 
-Este derecho se causará y pagará de acuerdo con lo que establece el título octavo de esta Ley.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
+#### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1271,11 +1285,17 @@ Este derecho se causará y pagará de acuerdo con lo que establece el título oc
 
 Es objeto de este derecho la autorización para ocupar la vía pública como estacionamiento de vehículos particulares y comerciales en la extensión que señale la Presidencia Municipal.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 136.
 
-Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
 ### CAPITULO CUARTO. DE LOS SERVICIOS DE VIGILANCIA
+
+#### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 137.
 
@@ -1287,9 +1307,11 @@ Es objeto de este derecho, los servicios de vigilancia que el Municipio presta a
 
 Son sujetos de este derecho, las personas físicas, morales o unidades económicas, que soliciten este servicio, quienes deberán cubrir este gravamen manifestando mensualmente en la Tesorería Municipal, por medio de una relación, el número de cabezas sacrificadas por especie durante el mes anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 139.
 
-Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
 ###### ARTICULO 140.
 
@@ -1301,11 +1323,11 @@ Es objeto de este derecho, la vigilancia de la autorización para explotar el se
 
 Son sujetos de este derecho, las personas físicas, morales o unidades económicas que obtengan la autorización del Ayuntamiento para la explotación de los servicios de estacionamientos públicos concesionados a particulares.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 142.
 
-Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
+Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1569,9 +1591,9 @@ b).- Locales situados en el interior y exterior de los mercados;
 
 c).- Estacionamientos en la vía pública;
 
-d).- Panteones;
+d).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-e).- Arrendamiento de terrenos, montes, pastos y demás bienes del Municipio;
+e).- Arrendamiento de terrenos, montes, pastos y demás bienes del Municipio.
 
 III.- La explotación o enajenación de cualquier naturaleza de los bienes propiedad del Municipio;
 
@@ -1649,4643 +1671,21 @@ VI.- Expropiaciones;
 
 VII.- Otras exportaciones extraordinarias.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO OCTAVO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO I. DE LAS TARIFAS DE LA LEY DE HACIENDA MUNICIPAL PARA EL AÑO DE 1988
+### CAPITULO UNICO. DE LAS TARIFAS DE LA LEY DE HACIENDA MUNICIPAL PARA EL AÑO DE 1988
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 177.
 
-En los municipios de Pachuca de Soto, Tulancingo de Bravo, Tula de Allende, Actopan, Apan, Tepeapulco, Tepeji del Rio de Ocampo y Tizayuca, se pagarán de acuerdo a las siguientes tarifas:
+Los Ayuntamientos del Estado percibirán los Ingresos, por los conceptos que se señalen en su Ley de Ingreso y Presupuesto de Ingresos para el ejercicio fiscal de 1989, de conformidad con las cuotas y tarifas que a continuación se establecen para cada Municipio.
 
-I M P U E S T O S
-
-IMPUESTO PREDIAL.
-
-De conformidad con lo que establece el capítulo I del Título Segundo de esta Ley, es base gravable de este impuesto los predios señalados en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII del artículo 8E de la propia Ley.
-
-Este impuesto se cobrará de acuerdo a lo que establece el capítulo I del Título Segundo de esta Ley.
-
-Los causantes de este impuesto pagarán además, de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- El costo de la tarjeta del impuesto
-
-Predial. $500.00 $1,000.00
-
-II.- El costo de otros formatos relaciona
-
-dos con este impuesto 500.00 1,000.00
-
-IMPUESTO SOBRE TRASLACION DE DOMINIO Y OTRAS OPERACIONES CON BIENES MUEBLES
-
-Este impuesto se causará y pagará aplicando la tasa general del 10% y de conformidad con lo que establecen los artículos contenidos en el capítulo II del Título Segundo de esta Ley.
-
-ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
-
-La tasa de este impuesto será del 5% sobre los ingresos a que este impuesto se refiere. El Ayuntamiento podrá celebrar convenios a cuota fija con los causantes de este impuesto, de conformidad con lo que establece esta Ley y conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Sobre los ingresos
-
-obtenidos por la prestación de
-
-servicios a que este impuesto
-
-se refiere: $2,200.00 $150,000.00
-
-RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
-
-Los causantes de este impuesto pagarán conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Celebración de rifas,
-
-loterías o sorteos de
-
-cualquier clase, autorizados
-
-legalmente. 1,000.00 $150,000.00
-
-II.- Explotación comercial
-
-de juegos permitidos. 1,000.00 75,000.00
-
-III.- Los causantes de este
-
-impuesto temporales o
-
-eventuales diariamente. 500.00 75,000.00
-
-DIVERSIONES Y ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
-
-Este impuesto se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Funciones de cine. $1,000.00 $1,000.00
-
-II.- Corridas de toros,
-
-jaripeos, palenques y
-
-otros espectáculos
-
-similares. 30,000.00 200,000.00
-
-III.- Deportes en general. 5,000.00 100,000.00
-
-IV.- Funciones de Teatro,
-
-conciertos, recitales o
-
-cualquier espectáculo
-
-similar. 1,000.00 100,000.00
-
-V.- Bailes públicos. $2,000.00 150,000.00
-
-VI.- Kermeses (sic), verbenas
-
-y otras diversiones similares 1,000.00 100,000.00
-
-VII.- Actuaciones de
-
-conjuntos musicales en la
-
-vía publica, mercados,
-
-cantinas y similares. 1,000.00 200,000.00
-
-IX (SIC).- Espectáculos conocidos
-
-como variedades que se
-
-presenten en salones, arenas
-
-o cualquier otro lugar de
-
-acceso público. 5,000.00 200,000.00
-
-X.- Aparatos mecánicos,
-
-fonoelectromecánicos y
-
-electromecánicos accionados
-
-por monedas o fichas. 2,000.00 110,000.00
-
-IMPUESTO SOBRE INGRESOS OBTENIDOS EN LOS ESTABLECIMIENOS QUE LIMITADAMENTE SE ENUMEAN A CONTINUACION
-
-De conformidad con lo que establece esta Ley, son sujetos de este impuesto, las personas físicas, morales o unidades económicas que perciben ingresos derivados de actividades por las que no están obligadas a cubrir el impuesto al valor agregado. La tasa de este impuesto será del 5% pudiendo el Ayuntamiento celebrar convenios a cuota fija, de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Libros, periódicos y revistas. $500.00 $12,000.00
-
-II.- Bienes muebles usados a
-
-excepción de los enajenados
-
-por empresas. $1,000.00 $55,000.00
-
-DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
-
-Este derecho se causará de conformidad con la siguiente:
-
-TARIFA
-
-CLASE DESCRIPCION PORCENTAJE
-
-1 Doméstico .5%
-
-1ra. Doméstico para localidades
-
-con clima cálido .5%
-
-2 Doméstico y Comercial .5%
-
-CLASE DESCRIPCION PORCENTAJE
-
-3 Mediana industria 1.5%
-
-8 Industria 1.5%
-
-11 Minería 1.5%
-
-12 Gran industria 1.5%
-
-POR SERVICIO DE AGUA POTABLE
-
-El Servicio que preste el Ayuntamiento por este concepto, se cobrará mensualmente de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-Servicio Doméstico
-
-I.- Toma sin medidor cuota fija. $250.00 $5,000.00
-
-II.- Consumo mínimo hasta 15m3. 1,000.00 5,000.00
-
-III.- Consumo de 16 hasta 30m3. 100.00 por m3
-
-IV.- Consumo de 31 hasta 50m3. 110.00 "
-
-V.- Consumo de 51 hasta 100m3. 115.00 "
-
-VI.- Consumo de 101 en adelante 130.00 "
-
-COMERCIAL
-
-I.- Toma sin medidor cuota fija. 1,000.00 15,000.00
-
-II.- Consumo mínimo hasta 30m3. 1,000.00 6,000.00
-
-III.- Consumo de 31 hasta 60m3. 225.00 Por m2
-
-IV.- Consumo de 61 hasta 100m3. 255.00 "
-
-V.- Consumo de 101 hasta 200m3. 275.00 "
-
-VI.- Consumo de 201 en adelante. 280.00
-
-INDUSTRIAL MINIMO MAXIMO
-
-I.- Toma sin medidor
-
-cuota fija. $4,000.00 $61.000.00
-
-II.- Consumo mínimo
-
-hasta 50m3. 1,500.00
-
-III.- Consumo de 51 hasta
-
-100m3. 225.00 m3
-
-IV.- Consumo de 101 hasta
-
-200m3. 255.00 "
-
-V.- Consumo de 201 hasta
-
-400 m3 280.00 "
-
-VI.- Consumo de 401 en
-
-adelante 300.00 "
-
-OTROS SERVICIOS MINIMO MAXIMO
-
-I.- Por conexión. $1,500.00 $55,000.00
-
-II.- Por reconexión. 1,000.00 42,000.00
-
-Estos derechos se causarán sin perjuicio del costo de medidores, material y mano de obra que se utilicen en la conexión o reconexión de tomas domiciliarias a la red general de agua potable, así como las licencias para la rotura de pavimento, concreto o empedrado y reparación del daño.
-
-SERVICIOS DE DRENAJE Y ALCANTARILLADO
-
-Los propietarios o poseedores de predios urbanos, cubrirán este derecho de conformidad con la siguiente
-
-TARIFA MINIMO MAXIMO
-
-I.- Por conexión al sistema
-
-central de drenaje. $4,000.00 $61,000.00
-
-II.- Cuota anual por el uso
-
-del sistema. 2,500.00 61,000.00
-
-Estos derechos se causarán sin perjuicio de las licencias para la rotura de pavimento, concreto o empedrado y reparación del daño que se origine. Quienes soliciten la conexión e instalación de este servicio, cubrirán el importe total de mano de obra y materiales para tal fin.
-
-CORRAL DE CONSEJO
-
-Este derecho se causará y pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por cabeza de ganado
-
-bovino y equino por día. $500.00 $3,000.00
-
-II.- Por cabeza de ganado
-
-ovicaprino por día. 300.00 2,000.00
-
-III.- Por cabeza de ganado
-
-porcino por día. 300.00 2,000.00
-
-USO DE RASTRO, MATANZA DE GANADO Y ABASTO, TRANSPORTE E INSPECCION SANITARIA DE CARNES
-
-Estos derechos de (sic) causarán y pagarán conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Uso de corraletas:
-
-A) Ganado bovino y equino
-
-por día. $150.00 $2,000.00
-
-B) Ganado porcino y
-
-ovicaprino por dia. 100.00 1,500.00
-
-II.- Refrigeración. 135.00 500.00
-
-III.- Pesado de animales
-
-y pieles. 5.00 125.00
-
-IV.- Uso de básculas 300.00 1,000.00
-
-V.- Transporte sanitario
-
-de carnes. 1,000.00 25,000.00
-
-VI.- Inspección sanitaria
-
-de carnes.
-
-MINIMO MAXIMO
-
-A) Ganado bovino y
-
-equino por día. $500.00 $2,000.00
-
-B) Ganado porcino y
-
-ovicaprino por día. 100.00 1,500.00
-
-II.- Refrigeración. 135.00 500.00
-
-III.- Pesado de animales
-
-y pieles. 5.00 125.00
-
-IV.- Uso de básculas. 300.00 1,000.00
-
-V.- Transporte sanitario
-
-de carnes. 1,000.00 25,000.00
-
-VI.- Inspección sanitaria
-
-de carnes.
-
-MINIMO MAXIMO
-
-A) Ganado bovino. $1,200.00 $5,000.00
-
-B) Ganado porcino. 1,000.00 4,000.00
-
-C) Ganado ovicarpino (sic). 500.00 4,000.00
-
-D) Ganado equino. 200.00 3,000.00
-
-E) Aves de corral. 20.00 100.00
-
-F) Lepóridos. 20.00 100.00
-
-VII.- Matanza de ganado. POR CABEZA
-
-MINIMO MAXIMO
-
-A) Ganado bovino. $800.00 $10,000.00
-
-B) Ganado porcino. 200.00 8,000.00
-
-C) Ganado caprino. 200.00 4,000.00
-
-D) Ganado ovino. 300.00 3,000.00
-
-E) Ganado equino. 400.00 10,000.00
-
-F) Aves de corral. 10.00 300.00
-
-G) Lepóridos. 10.00 300.00
-
-ALINEAMIENTO Y NOMENCLATURA
-
-Este derecho se causará y pagará a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Alineamiento y deslinde
-
-de predios cuando el servicio
-
-lo realice el Ayuntamiento. $500.00 $50,000.00
-
-II.- Números oficiales. 500.00 15,000.00
-
-III.- Avalúos catastrales cuando el servicio lo realice el Ayuntamiento.
-
-Supletoriamente este derecho se aplicará de conformidad con las tarifas contenidas por el artículos (sic) 118 de la Ley de Hacienda del Estado.
-
-DERECHOS POR REGISTRO
-
-REGISTRO DEL ESTADO FAMILIAR
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por anotación de actas
-
-ordenadas por autoridades
-
-en proporción al tamaño
-
-de la resolución judicial
-
-o administrativa. $750.00 $60,000.00
-
-II.- Asentamientos de actas
-
-de divorcio voluntario en
-
-los supuestos que establece
-
-el Código Familiar reformado
-
-del Estado de Hidalgo. 750.00 40,000.00
-
-III.- Inscripción de sentencias
-
-de divorcio dictadas por
-
-autoridades judiciales. 1,750.00 60,000.00
-
-IV.- Inscripción de actas de
-
-adopción y reconocimiento
-
-de hijos. 550.00 51,000.00
-
-V.- Otros relacionados con
-
-registro del Estado Familiar. 550.00 51,000.00
-
-VI.- Los actos del registro del Estado Familiar fuera de las oficinas:
-
-A) Levantamiento de actas a domicilio:
-
-1.- Matrimonios
-
-En horario normal de
-
-oficinas. 5,000.00 60,000.00
-
-En horario extraordinario. 7,500.00 90,000.00
-
-2.- Nacimientos
-
-En horario normal de
-
-oficinas. 1,000.00 20,000.00
-
-En horario extraordinario. 1,500.00 25,000.00
-
-VII.- La dispensa de los
-
-términos previstos en el
-
-artículo 22 del Código
-
-Familiar reformado del
-
-Estado de Hidalgo. 4,000.00 120.000.00
-
-CERTIFICACIONES, LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Expedición de copias de
-
-los Archivos Municipales. $800.00 $15,000.00
-
-II.- Expedición de copias
-
-certificadas solicitadas
-
-en las oficinas por los
-
-interesados. 1,000.00 7,500.00
-
-III.- Expedición de copias
-
-certificadas solicitadas
-
-por correo. 1,000.00 15,000.00
-
-IV.- Búsqueda de antecedentes
-
-y actas en los libros por falta
-
-de boleta, datos, etc., por cada
-
-año de búsqueda. 100.00 1,500.00
-
-V.- Duplicado de boleta. 100.00 3,000.00
-
-VI.- Certificados de valor
-
-fiscal. 1,000.00 5,000.00
-
-VII.- Certificados de no
-
-adeudo. 1,000.00 5,000.00
-
-VIII.- Búsqueda de antecedentes
-
-cuando no precisen los
-
-interesados la fecha, por cada
-
-período de cinco años
-
-o fracción. 1,000.00 5,000.00
-
-IX.- Costo de papel especial
-
-en el que invariablemente
-
-deberán expedirse las copias
-
-certificadas, por cada hoja. 300.00 3,000.00
-
-EXPEDICION DE LICENCIAS Y CANJE DE PLACAS DE CIRCULACION DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Placas de motocicleta. 1,500.00 15,000.00
-
-II.- Placas de bicicleta
-
-particular. 1,000.00 9,000.00
-
-III.- Placas de bicicleta de
-
-alquiler. 1,000.00 10,000.00
-
-IV.- Placas de carro de 1ra. 1,000.00 9,000.00
-
-V.- Carros de tracción
-
-animal excepto si se usan
-
-para fines agropecuarios
-
-exclusivamente. 1,000.00 9,000.00
-
-VI.- Expedición de licencia
-
-para conducir toda clase de
-
-vehículos de motor y
-
-duplicado de las mismas. 3,000.00 15,000.00
-
-VII.- Canje de licencias. 3,000.00 9,000.00
-
-VIII.- Permisos provisionales
-
-para conducir vehículos
-
-de motor. Mensualmente. 1,000.00 3,000.00
-
-IX.- Revista anual de
-
-vehículos de motor. 3,000.00 9,000.00
-
-X.- Permisos para circular
-
-sin placas. $1,000.00 $3,000.00
-
-XI.- Otros servicios de
-
-tránsito. 1,000.00 20,000.00
-
-LICENCIAS DIVERSAS
-
-VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTOS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Los fraccionamientos
-
-pagarán por M2 en venta
-
-de terrenos, según su valor
-
-comercial. 10% 15%
-
-REGISTROS DE PERITOS EN OBRAS DE CONSTRUCCION
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Registro de peritos en
-
-obras de construcción. $2,000.00 $90,000.00
-
-II.- Refrendos anuales. 1,000.000 45,000.00
-
-LICENCIAS PARA LA CONSTRUCCION Y REPARACION DE CASAS, EDIFICIOS Y FACHADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción y reparación
-
-de casas, edificios y
-
-fachadas:
-
-A) Aplanado simple,
-
-por M2. $8.00 $600.00
-
-B) Pintura de aceite o al
-
-temple por M2. 6.00 700.00
-
-C) Pintura de cal, por M2. 5.00 100.00
-
-D) Apertura de puertas. 500.00 10,000.00
-
-E) Apertura de ventanas. 300.00 10,000.00
-
-F) Colocación de cortinas
-
-metálicas. 1,000.00 25,000.00
-
-G) Las relacionadas con las siguientes actividades:
-
-1.- Construcciones:
-
-A) De más de 300M2,
-
-residencial de lujo por
-
-M2. 100.00 4,500.00
-
-B) Rural o urbano, por
-
-M2. 50.00 1,500.00
-
-C) Otras construcciones
-
-por M2. 25.00 2,000.00
-
-LICENCIAS PARA LA CONSTRUCCION DE BARDAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción de Bardas:
-
-A) De tabique, piedra o
-
-prefabricado por metro
-
-lineal. $5.00 $2,000.00
-
-B) De adobe, por metro
-
-lineal. 8.00 1,000.00
-
-LICENCIAS PARA LA CONSTRUCCION DE BANQUETAS
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la construcción de banquetas:
-
-A) Por M2 del andador de
-
-la banqueta frente al predio. 50.00 1,500.00
-
-LICENCIAS PARA LA CONSTRUCCION DE GUARNICIONES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencia para construcción de Guarniciones:
-
-A) Guarnición de concreto,
-
-por cada metro lineal del
-
-frente del predio. 50.00 900.00
-
-LICENCIAS PARA LA CONSTRUCCION DE PAVIMENTOS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la construcción de pavimentos:
-
-A) Pavimentos por M2 al
-
-frente del predio. 100.00 2,000.00
-
-LICENCIAS PARA DEMOLICIONES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Demoliciones por M3. $50.00 $1,500.00
-
-LICENCIAS PARA LA INTRODUCCION DE TOMAS DE AGUA
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la introducción de tomas de agua:
-
-A) Tomas de agua en tierra. 2,000.00 30,000.00
-
-B) Tomas de agua en
-
-concreto o asfalto. 4,000.00 35,000.00
-
-LICENCIAS PARA LA CONSTRUCCION, INSTALACION CONEXION Y RECONEXION DE DRENAJES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la introducción de drenajes:
-
-A) Introducción de
-
-drenajes en tierra. $2,000.00 $30,000.00
-
-B) Introducción de drenajes
-
-en concreto o asfalto. 3,000.00 45,000.00
-
-C) Licencias para la reparación
-
-de drenajes con rotura de
-
-pavimento o concreto,
-
-independientemente del costo
-
-del arreglo de la zona
-
-construida. 1,000.00 50,000.00
-
-DERECHO ESPECIAL PARA OBRAS PUBLICAS POR COOPERACION
-
-Este derecho se causará y pagará de conformidad con lo que establecen los artículos 149 al 170 de esta Ley.
-
-DE LOS PRODUCTOS
-
-I.- VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-El pago del crédito proveniente de la enajenación de bienes que formen parte de la hacienda del municipio, deberá hacerse en la Tesorería en la forma y plazos que se estipulen en el contrato respectivo. Para la enajenación de bienes raíces de la propiedad de los Municipios, se requerirá aprobación expresa del Congreso del Estado.
-
-II.- EL IMPORTE DE LOS ARRENDAMIENTOS DE LOS BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-Este producto se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A) Locales situados en el
-
-interior y exterior de los
-
-mercados, de conformidad
-
-con los contratos o
-
-concesiones que otorgue
-
-el Ayuntamiento. $10,000.00 $180,000.00
-
-B) Estacionamiento en la
-
-vía pública (parquímetros),
-
-el costo por hora de este
-
-producto será de: 500.00 6,000.00
-
-C) Panteones.
-
-Urbano por siete años adultos:
-
-1.- Fosa de 1ra. clase 3,000.00 50,000.00
-
-2.- Fosa de 2da. clase 2,500.00 45,000.00
-
-3.- Fosa de 3ra. clase 1,500.00 40,000.00
-
-4.- Fosa de 4a. clase 1,000.00 35,000.00
-
-5.- Fosa de 5a. clase 500.00 30,000.00
-
-Urbano a Perpetuidad adultos:
-
-1.- Fosa de 1ra. clase 5,000.00 65,000.00
-
-2.- Fosa de 2da. clase 4,000.00 60,000.00
-
-3.- Fosa de 3ra. clase 2,500.00 55,000.00
-
-4.- Fosa de 4a. clase 2,000.00 50,000.00
-
-5.- Fosa de 5a. clase 1,500.00 45,000.00
-
-Urbano por siete años niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Urbano a perpetuidad niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-MINIMO MAXIMO
-
-Sub´urbano por siete años adultos:
-
-1.- Fosa de 1ra. clase $2,000.00 $25,000.00
-
-2.- Fosa de 2da. clase 15,000.00 20,000.00
-
-3.- Fosa de 3ra. clase 1,000.00 10,000.00
-
-4.- Fosa de 4a. clase -o- -o-
-
-5.- Fosa de 5a. clase -o- -o-
-
-Sub´urbano a perpetuidad adultos:
-
-1.- Fosa de 1ra. clase 3,000.00 37,500.00
-
-2.- Fosa de 2da. clase 2,150.00 26,000.00
-
-3.- Fosa de 3ra. clase 1,000.00 15,000.00
-
-4.- Fosa de 4a. clase -o- -o-
-
-5.- Fosa de 5a. clase -o- -o-
-
-Sub´urbano por siete años niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Sub´urbano a perpetuidad niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-Estos pagarán el 80 por ciento de las cuotas de adultos según la clase.
-
-MINIMO MAXIMO
-
-Bóveda urbano adultos:
-
-1.- Fosa de 1ra. clase $7,500.00 $50,000.00
-
-2.- Fosa de 2da. clase 5,000.00 45,000.00
-
-3.- Fosa de 3ra. clase 4,000.00 30,000.00
-
-4.- Fosa de 4a. clase 1,000.00 15,000.00
-
-5.- Fosa de 5a. clase 900.00 12,000.00
-
-Bóveda urbano niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-REFRENDOS:
-
-Se cobrará la cuota correspondiente a siete años de adultos según la clase.
-
-REHINUMACIONES:
-
-En las fosas a perpetuidad se cobrará la cuota correspondiente, según la clase o bóveda.
-
-EXHUMACION DE RESTOS:
-
-Se cobrará según la clase conforme a la tarifa de siete años adultos.
-
-COMPLEMENTO A PERPETUIDAD:
-
-Se cobrará la diferencia por el importe total de la perpetuidad, según la clase.
-
-REINHUMACIONES EN EL MISMO PANTEON:
-
-Reinhumaciones en fosas, criptas y lotes particulares, que se encuentren a perpetuidad, se cobrará la cuota establecida en sus diferentes clases por siete años.
-
-LOTES PARTICULARES:
-
-Por cada una de las gavetas que se construyan en los lotes particulares, se cobrarán las cuotas correspondientes de inhumación a perpetuidad, de acuerdo con la clase respectiva ya establecida, cubierto este producto ya no se causará el de inhumación.
-
-Por cada una de las gavetas, bóvedas o fosas que construyan en forma adicional, se cobrará la cuota correspondiente de inhumación a perpetuidad. Cubierto este producto no se causará el de inhumación.
-
-MINIMO MAXIMO
-
-MONUMENTOS Y CAPILLAS:
-
-Por construcción de capillas,
-
-criptas o colocación de
-
-monumentos, sobre el
-
-importe total de los
-
-mismos. 5% 25%
-
-TRASLACION DE CADAVERES ADULTOS:
-
-1.- Dentro del territorio
-
-del Estado. $1,000.00 $30,000.00
-
-2.- Fuera del territorio
-
-del Estado. 2,000.0 50,000.00
-
-3.- Fuera del Territorio
-
-Nacional. 30,000.00 75,000.00
-
-TRASLACION DE CADAVERES NIÑOS:
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente.
-
-TRASLACION DE RESTOS ADULTOS:
-
-1.- Dentro del territorio
-
-del Estado. $4,000.00 $20,000.00
-
-2.- Fuera del territorio
-
-del Estado. 5,000.00 30,000.00
-
-3.- Fuera del Territorio
-
-Nacional. 30,000.00 60,000.00
-
-TRASLACION DE RESTOS NIÑOS:
-
-1.- Menores de12 años pagarán la mitad de la cuota correspondiente.
-
-REAPERTURA DE FOSAS: MINIMO MAXIMO
-
-1.- Según la clase. $ 500.00 $5,000.00
-
-PERMISO PARA
-
-INTRODUCCION
-
-DE MATERIALES. 500.00 1,000.00
-
-PERMISO PARA
-
-INTRODUCCION
-
-DE AUTOMOVILES 500.00 1,000.00
-
-D) Arrendamiento de terrenos, montes, pastos y demás bienes inmuebles propiedad del Municipio.
-
-Las rentas para el uso y aprovechamiento de bienes de propiedad del Municipio se determinarán de acuerdo con las reglas que establecen las estipulaciones que prevengan los contratos o conceciones (sic) que otorgue el Ayuntamiento.
-
-III.- LA EXPLOTACION O ENAJENACION DE CUALQUIER NATURALEZA DE LOS BIENES PROPIEDAD DEL MUNICIPIO.
-
-Los productos del usufructo de los bienes a que tenga derecho el Municipio se regularán por las estipulaciones que prevengan los contratos o títulos jurídicos respectivos que otorgue el propio Ayuntamiento.
-
-IV.- LOS CAPITALES Y VALORES DEL MUNICIPIO.
-
-Los productos de capitales y valores del Municipio se obtendrán de las estipulaciones contenidas en los títulos jurídicos que les den origen y que serán otorgados por el Ayuntamiento.
-
-V.- LOS BIENES DE BENEFICENCIA.
-
-VI.- ESTABLECIMIENTOS Y EMPRESAS DEL MUNICIPIO.
-
-DE LOS APROVECHAMIENTOS
-
-I.- Intereses moratorios al 8.25% sobre saldos insolutos.
-
-II.- Recargos.
-
-Los contribuyentes que demoren el apego de los gravámenes que establece el Presupuesto de Ingresos, pagarán un recargo del 12.75% mensual o fracción de mes que se haya demorado el pago.
-
-III. Multas impuestas a los infractores de los reglamentos administrativos y bando de policía.
-
-Este aprovechamiento se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A) Multas a los infractores
-
-de los reglamentos
-
-administrativos y bando de
-
-policía. $2,000.00 $300,000.00
-
-Las multas se observarán en cuanto a su monto, de conformidad con lo prescrito en el artículo 21 de la Constitución General de la República.
-
-IV.- Venta de Bienes mostrencos y hallazgo de tesoros cultos.
-
-Las ventas de bienes mostrencos deberán hacerse invariablemente en almoneda pública (subasta), de conformidad con lo que establece el Código Civil del Estado.
-
-V.- Herencias y Donaciones a favor del Municipio.
-
-Las cantidades en efectivo que obtenga la Hacienda del Municipio por concepto de herencias, legados, donativos y subsidios serán efectivos de acuerdo con las leyes respectivas y por las disposiciones de los testadores o donantes. La H. Asamblea Municipal tiene derecho de aceptar o repudiar las herencias y legados, donaciones o subsidios a que se refiere este rubro.
-
-VI.- Cauciones y finanzas, cuya pérdida se declare por resolución firme a favor del Municipio. VII.- Gastos de cobranza y ejecución.
-
-Son gastos de cobranza y ejecución los que se originen en el procedimiento administrativo de ejecución, los cuales harán efectivos la Tesorería Municipal por los siguientes conceptos:
-
-TARIFA PORCENTAJES
-
-A) Sobre el adeudo fiscal por la diligencia de
-
-notificación. 2%
-
-B) Sobre el importe del adeudo de embargo. 2%
-
-C) Por los demás gastos que se eroguen en calidad
-
-de suplementos hasta la conclusión del procedimiento. 2%
-
-Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica correspondiente al de Pachuca, Hgo., se cobrará esta cantidad en vez del 2% del crédito.
-
-VIII.- Otros Ingresos no especificados.
-
-IX.- Reintegros.
-
-X. Indemnizaciones por daños a bienes municipales.
-
-XI.- Sanciones por laborar
-
-en días de descanso obligatorio
-
-y festivos. $1,000.000 $35,000.00
-
-XII.- Multas de tránsito.
-
-XIII.- Rezagos.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO II. TARIFAS PARA EL SEGUNDO GRUPO DE MUNICIPIOS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-###### ARTICULO 178.
-
-Los municipios de Huichapan, Atotonilco el Grande, Zimapán, Ixmiquilpan, Zacualtipán de Angeles, Huejutla de Reyes, Tenango de Doria, Molango, Jacala de Ledezma, Atitalaquía, Atotonilco de Tula, Tlaxcoapan, Tlahuelilpan, Emiliano Zapata, Mixquiahuala de Juárez, Progreso de Obregón, Mineral del Monte, Mineral de la Reforma y Tlanalapa pagarán de acuerdo a las siguientes tarifas:
-
-IMPUESTOS
-
-IMPUESTO PREDIAL
-
-De conformidad con lo que esetablece (sic) el capítulo I del título Segundo de esta Ley, es base gravable de este impuesto los predios señalados en las fracciones I; II; III; IV; VII; VIII; IX; X; XI; XII Y XIII, del artículo 8E de la propia Ley.
-
-Este impuesto se cobrará de acuerdo a lo que establece el capítulo I del Título Segundo de esta Ley.
-
-Los causantes de este impuesto pagarán además de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- El costo de la tarjeta del
-
-Impuesto Predial. $500.00 $1,000.00
-
-II.- El costo de otros
-
-formatos relacionados con
-
-este Impuesto. 500.00 1,000.00
-
-IMPUESTO SOBRE TRASLACION DE DOMINIO Y OTRAS OPERACIONES CON BIENES IMUEBLES
-
-Este impuesto se causará y pagará aplicando la tasa general del 10% y de conformidad con lo que establecen los artículos contenidos en el capítulo II del Título II de esta Ley.
-
-ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANIZMOS DESCENTRALIZADOS Y PARTICULARES
-
-La tasa de este impuesto será del 5% sobre los ingresos a que este Impuesto se refiere. El Ayuntamiento podrá celebrar convenios a cuota fija con los causantes de este impuesto, de conformidad con lo que establece esta ley y conforme a la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Sobre los ingresos
-
-obtenidos por la prestación
-
-de servicios a que este
-
-Impuesto se refiere. $2,000.00 $70,000.00
-
-RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
-
-Los causantes de este Impuesto pagarán conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Celebración de rifas,
-
-loterías o sorteos de
-
-cualquier clase, autorizados
-
-legalmente. $800.00 $100,000.00
-
-II.- Explotación comercial
-
-de juegos permitidos. 800.00 70,000.00
-
-III.- Los causantes de este
-
-Impuesto, temporales o
-
-eventuales. 500.00 65,000.00
-
-DIVERSIONES Y ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS, ACCIONADOS POR MONEDAS O FICHAS
-
-Este impuesto se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Funciones de cine. $1,000.00 $90,000.00
-
-II.- Corridas de Toros,
-
-Jaripeos, Palenques y otros
-
-espectáculos similares. 25,000.00 175,000.00
-
-III.- Deportes en general. 5,000.00 90,000.00
-
-IV.- Funciones de teatro,
-
-conciertos, recitales o cualquier
-
-espectáculo similar. 1,000.00 90,000.00
-
-V.- Bailes públicos. 2,000.00 125,000.00
-
-VI.- Carnavales o ferias. 2,000.00 175,000.00
-
-VII.- Kermesses, verbenas y
-
-otras diversiones similares. 1,000.00 100,000.00
-
-VIII.- Actuaciones de
-
-conjuntos musicales en la
-
-vía pública, mercados,
-
-cantinas y similares. 1,000.00 25,000.00
-
-IX.- Espectáculos conocidos
-
-como variedades que se
-
-presenten en salones, arenas
-
-o cualquier otro lugar de
-
-acceso público. 5,000.00 175,000.00
-
-X.- Aparatos Mecánicos,
-
-fonoelectromécanicos y
-
-electromecánicos
-
-accionados por monedas
-
-o fichas. 2,000.00 110,000.00
-
-IMPUESTO SOBRE INGRESOS OBTENIDOS EN LOS ESTLECIMIENTOS (SIC) QUE LIMITADAMENTE SE ENUMERAN A CONTINUACION.
-
-De conformidad con lo que establece esta ley, son sujetos de este Impuesto, las personas físicas, morales o unidades económicas que perciben ingresos derivados de actividades por las que no están obligadas a cubrir el Impuesto al Valor Agregado. La tasa de este impuesto será del 5% pudiendo el Ayuntamiento celebrar convenios a cuota fija, de conformidad con la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-XIII.- Libros, periódicos
-
-y revistas. $400.00 $11,000.00
-
-XIV.- Bienes muebles
-
-usados a excepción de los
-
-enajenados por empresas. 800.00 15,000.00
-
-DE LOS DERECHOS
-
-Por servicio de alumbrado público
-
-Este derecho se causará de conformidad con la siguiente.
-
-TARIFA
-
-CLASE DESCRIPCION PORCENTAJE
-
-1 Doméstico. .5%
-
-1a. Doméstico para localidades
-
-con clima cálido. .5%
-
-2 Doméstico y comercial. .5%
-
-3 Mediana industria 1.5%
-
-8 Industria. 1.5%
-
-11 Minería. 1.5%
-
-12 Gran industria. 1.5%
-
-POR SERVICIO DE AGUA POTABLE
-
-Supletoriamente este derecho se aplicará de conformidad con las tarifas contenidas por el artículo 168 de la Ley de Hacienda del Estado.
-
-DERECHOS POR REGISTRO DEL ESTADO FAMILIAR
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por anotación de actas
-
-ordenadas por autoridades
-
-en proporción al tamaño
-
-de la resolución judicial
-
-o administrativa. $750.00 $30,000.00
-
-II.- Asentamientos de actas
-
-de divorcio voluntario en
-
-los supuestos que establece
-
-el Código Familiar reformado
-
-del Estado de Hidalgo. MINIMO MAXIMO
-
-750.00 40,000.00
-
-III.- Inscripción de sentencias
-
-de divorcio dictadas por
-
-autoridades judiciales. 1,750.00 50,000.00
-
-IV.- inscripción de actas de
-
-adopción y reconocimiento
-
-de hijos. 550.00 15,000.00
-
-V.- Otros relacionados con
-
-el Registro del Estado
-
-Familiar. 550.00 51,000.00
-
-VI.- Los actos del Registro
-
-del Estado familiar fuera
-
-de las Oficinas.
-
-A) Levantamiento de actas
-
-a domicilio.
-
-1.- Matrimonios.
-
-En horario normal de
-
-oficinas. $5,000.00 $40,000.00
-
-En horario extraordinario. 7,500.00 60,000.00
-
-2.- Nacimientos.
-
-En horario normal de
-
-oficinas.
-
-$1,500.00 $15,000.00
-
-En horario extraordinario. 1,500.00 20,000.00
-
-VII.- La dispensa de los
-
-términos previstos en el
-
-artículo 22 del Código
-
-Familiar reformado del
-
-Estado de Hidalgo. 4,000.00 50,000.00
-
-CERTIFICACIONES, LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Expedición de copias de
-
-los archivos Mpales. $300.00 $10,000.00
-
-II.- Expedición de copias
-
-certificadas solicitadas en
-
-las oficinas por los
-
-interesados. 1,000.00 6,000.00
-
-III.- Expedición de copias
-
-certificadas solicitadas
-
-por correo. 1,000.00 10,000.00
-
-IV.- Búsqueda de
-
-antecedentes y actas en los
-
-libros por falta de boleta,
-
-datos, etc., por cada año
-
-de búsqueda 100.000 1,500.00
-
-V.- Duplicado de boleta. 100.00 1,500.00
-
-VI.- Certificados de valor
-
-fiscal. 1,000.00 4,000.00
-
-VII.- Certificados de no
-
-adeudo. 1,000.00
-
-VIII.- Búsqueda de
-
-antecedentes cuando no
-
-precisen los interesados
-
-la fecha, por cada período
-
-de cinco años o fracción. 1,000.00 4,000.00
-
-IX.- Costo de papel especial
-
-en el que invariablemente
-
-deberán expedirse las copias
-
-certificadas, por cada hoja. 300.00 3,000.00
-
-EXPEDICION DE LICENCIAS Y CANJE DE PLACAS DE CIRCULACION DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
-
-Este derecho se pagará de conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Placas de moticicleta
-
-(sic). $1,500.00 $10,000.00
-
-II.- Placas de bicicletas
-
-particulares. 1,000.00 7,500.00
-
-III.- Placas de bicicleta de
-
-alquiler. 1,100.00 9,000.00
-
-IV.- Placas de carro de
-
-1ra. 1,000.00 3,000.00
-
-V.- Carros de tracción
-
-animal excepto si se usan
-
-para fines agropecuarios
-
-exclusivamente. 1,000.00 3,500.00
-
-VI.- Expedición de licencias
-
-para conducir toda clase de
-
-vehículos de motor y
-
-DUPLICADO DE LAS
-
-MISMAS. -o- -o-
-
-VII.- Canje de licencias. -o- -o-
-
-VIII.- Permisos provisionales
-
-para conducir vehículos de
-
-motor, MENSUALMENTE. -o- -o-
-
-IX.- Revista anual de
-
-vehículos de motor. -o- -o-
-
-X.- Permisos para circular
-
-sin placas. -o- -o-
-
-XI.- Otros servicios de
-
-tránsito. -o- -o-
-
-LICENCIAS DIVERSAS VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTOS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Los fraccionamientos
-
-pagarán por M2 en venta
-
-de terrenos, según su valor
-
-comercial. 10% 15%
-
-REGISTRO DE PERITOS EN OBRAS DE CONSTRUCCION
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Registro de peritos en
-
-obras de construcción. $2,000.00 $80,000.00
-
-II.- Refrendos anuales. 1,000.00 25,000.00
-
-LICENCIAS PARA LA CONSTRUCCION Y REPARACION DE CASAS, EDIFICIOS Y FACHADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-El servicio que preste el Ayuntamiento por este concepto, se cobrará mensualmente de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-SERVICIO DOMESTICO
-
-I.- Toma sin medidor cuota
-
-fija. $200.00 $5,000.00
-
-II.- Consumo mínimo hasta
-
-15 M3. 1,000.00 $5,000.00
-
-III.- Consumo de 16 hasta
-
-30 M3. 100.00 Por M3
-
-IV.- Consumo de 31 hasta
-
-50 M3. 110.00 "
-
-V.- Consumo de 51 hasta
-
-100 M3. 115.00 "
-
-VI.- Consumo de 101 m3
-
-en adelante. 130.00 "
-
-COMERCIAL
-
-I.- Toma sin medidos (sic)
-
-cuota fija. $1,000.00 $15,000.00
-
-II.- Consumo mínimo
-
-hasta 30M3. 1,000.00 5,500.00
-
-III.- Consumo de 31
-
-hasta 60 M3. 225,000.00 Por M3
-
-IV.- Consumo de 61
-
-hasta 100 M3. 225.00 "
-
-V.- Consumo de 101
-
-hasta 200 M3. 275.00 "
-
-VI.- Consumo de 201
-
-en adelante. 280.00 "
-
-INDUSTRIAL
-
-I.- Toma sin medidor
-
-cuota fija. 4,000.00 61,000.00
-
-II.- Consumo mínimo
-
-hasta 50 M3. 1,500.00 8,000.00
-
-III.- Consumo de 51
-
-hasta 100 M3. 255.00 por M3
-
-IV.- Consumo de 101
-
-hasta 200 M3. 255.00 "
-
-V.- Consumo de 201
-
-hasta 400 M3. 280.00 "
-
-VI.- Consumo de 401
-
-en adelante. 300.00 "
-
-OTROS SERVICIOS MINIMO MAXIMO
-
-I.- Por conexión. $1,500.00 $45,000.00
-
-II.- Por reconexión. 1,000.00 25,000.00
-
-Estos derechos se causarán sin perjuicio del costo de medidores, material y mano de obra que se utilicen en la conexión o reconexión de tomas domiciliarias a la Red General de Agua Potable, así como las Licencias para la rotura del Pavimento, concreto o empedrado y reparación del daño.
-
-SERVICIO DE DRENAJE Y ALCANTARILLADO
-
-Los propietarios o poseedores de Predios Urbanos, cubrirán este Derecho de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por conexión al Sistema
-
-Central de drenaje. $4,500.00 $61,000.00
-
-II.- Cuota anual por el uso
-
-del Sistema. 2,500.00 61,000.00
-
-Estos derechos se causarán sin perjuicio de las Licencias para la Rotura del Pavimento, Concreto o Empedrado y Reparación del Daño que se origine. Quienes soliciten la Conexión e Instalación de este Servicio, cubrirán el importe total de mano de obra y materiales necesarios para tal fin.
-
-CORRAL DE CONSEJO
-
-Este derecho se causará y pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por cabeza de ganado
-
-bovino y equino por día. $500.00 $3,000.00
-
-II.- Por cabeza de ganado
-
-Ovicaprino por día. 300.00 2,000.00
-
-III.- Por cabeza de ganado
-
-Porcino por día. 300.00 2,000.00
-
-USO DE RASTRO, MATANZA DE GANADO Y ABASTOS TRANSPORTE E INSPECCION SANITARIAS DE CARNES
-
-Estos derechos se causarán y pagarán conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Uso de corraletas:
-
-A).- Ganado bovino y
-
-equino por día. 125.00 1,500.00
-
-B).- Ganado porcino y
-
-ovicaprino por día. 100.00 1,000.00
-
-II.- Refrigeración. 135.00 500.00
-
-III.- Pesado de animales
-
-y pieles. 5.00 125.00
-
-IV.- Uso de básculas. 300.00 1,000.00
-
-V.- Transporte Sanitario
-
-de carnes. 800.00 2,500.00
-
-VI.- Inspección sanitaria
-
-de carnes:
-
-MINIMO MAXIMO
-
-A).- Ganado bovino. $1,200.00 5,000.00
-
-B).- Ganado porcino. 1,000.00 4,000.00
-
-C).- Ganado ovicaprino. 500.00 4,000.00
-
-D).- Ganado equino. 200.00 3,000.00
-
-E).- Aves de corral. 20.00 100.00
-
-F).- Lepóridos. 20.00 100.00
-
-VII.- Matanza de ganado: x cabeza
-
-MINIMO MAXIMO
-
-A).- Ganado bovino $800.00 5,000.00
-
-B).- Ganado porcino. 200.00 5,000.00
-
-C).- Ganado caprino. 200.00 3,000.00
-
-D).- Ganado ovino. 300.00 3,000.00
-
-E).- Ganado equino. 400.00 4,000.00
-
-F).- Aves de corral. 10.00 300.00
-
-G).- Lepóridos. 10.00 300.00
-
-ALINEAMIENTO Y NOMENCLATURA
-
-Este derecho se causará y pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Alineamiento y deslinde
-
-de predios cuando el
-
-servicio lo realice el
-
-ayuntamiento. $500.00 $40,000.00
-
-II.- Número (sic) oficiales. 200.00 8,000.00
-
-III.- Avalúos catastrales
-
-cuando el servicio lo realice
-
-el Ayuntamiento.
-
-Supletoriamente este derecho se aplicará de conformidad con las tarifas contenidas por el artículo 168 de la Ley de Hacienda del Estado.
-
-DERECHOS POR REGISTRO
-
-REGISTRO DEL ESTADO FAMILIAR
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por anotación de actas
-
-ordenadas por autoridades
-
-en proporción al tamaño
-
-de la resolución judicial o
-
-administrativa. $750.00 $30,000.00
-
-II.- Asentamientos de actas
-
-de divorcio voluntario en los
-
-supuestos que establece el
-
-Código Familiar reformado
-
-del Estado de Hidalgo. MINIMO MAXIMO
-
-750.00 40,000.00
-
-III.- Inscripción de sentencias
-
-de divorcio dictadas por
-
-autoridades judiciales. 1,750.00 50,000.00
-
-IV.- Inscripción de actas de
-
-adopción y reconocimiento
-
-de hijos. 550.00 15,000.00
-
-V.- Otros relacionados con
-
-el Registro del Estado
-
-Familiar. 550.00 51,000.00
-
-VI.- Los actos del Registro
-
-del Estado familiar fuera
-
-de las Oficinas.
-
-A).- Levantamiento de
-
-actas a domicilio.
-
-1.- Matrimonios.
-
-En horario normal de
-
-oficinas. $5,000.00 $40,000.00
-
-En horario extraordinario. 7,500.00 60,000.00
-
-2.- Nacimientos.
-
-En horario normal de
-
-oficinas. $1,500.00 $15,000.00
-
-En horario extraordinario. 1,500.00 20,000.00
-
-VII.- La dispensa de los
-
-términos previstos en el
-
-artículo 22 del Código
-
-Familiar reformado del
-
-Estado de Hidalgo. 4,000.00 50,000.00
-
-CERTIFICACIONES, LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Expedición de copias
-
-de los archivos Mpales. $300.00 $10,000.00
-
-II.- expedición de copias
-
-certificadas solicitadas en las
-
-oficinas por los interesados. 1,000.00 6,000.00
-
-III.- Expedición de copias
-
-certificadas solicitadas por
-
-correo. 1,000.00 10,000.00
-
-IV.- Búsqueda de antecedentes
-
-y actas en los libros por
-
-falta de boleta, datos, etc.,
-
-por cada año de búsqueda. 100.00 1,500.00
-
-V.- Duplicado de boleta. 100.00 1,500.00
-
-VI.- Certificados de valor
-
-fiscal. 1,000.00 4,000.00
-
-VII.- Certificados de no
-
-adeudo. 1,000.00
-
-VIII.- Búsqueda de
-
-antecedentes cuando no
-
-precisen los interesados la
-
-fecha, por cada período de
-
-cinco años o fracción. 1,000.00 4,000.00
-
-IX.- Costo de papel especial
-
-en el que invariablemente
-
-deberán expedirse las copias
-
-certificadas, por cada hoja. 300.00 3,000.00
-
-EXPEDICION DE LICENCIAS Y CANJE DE PLACAS DE CIRCULACION DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
-
-Este derecho se pagará de conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Placas de moticicleta
-
-(sic). $1,500.00 $10,000.00
-
-II.- Placas de bicicletas
-
-particulares. 1,000.00 7,500.00
-
-III.- Placas de bicicleta de
-
-alquiler. 1,100.00 9,000.00
-
-IV.- Placas de carro de 1ra. 1,000.00 3,000.00
-
-V.- Carros de tracción
-
-animal excepto si se usan
-
-para fines agropecuarios
-
-exclusivamente. 1,000.00 3,500.00
-
-VI.- Expedición de licencias
-
-para conducir toda clase
-
-de vehículos de motor y
-
-DUPLICADO DE LAS
-
-MISMAS. -o- -o-
-
-VII.- Canje de licencias. -o- -o-
-
-VIII.- Permisos provisionales
-
-para conducir vehículos de motor,
-
-MENSUALMENTE. -o- -o-
-
-IX.- Revista anual de vehículos
-
-de motor. -o- -o-
-
-X.- Permisos para circular
-
-sin placas. -o- -o-
-
-XI.- Otros servicios de
-
-tránsito. -o- -o-
-
-LICENCIAS DIVERSAS VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTOS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Los fraccionamientos
-
-pagarán por M2 en venta
-
-de terrenos, según su valor
-
-comercial. 10% 15%
-
-REGISTRO DE PERITOS EN OBRAS DE CONSTRUCCION
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Registro de peritos en
-
-obras de construcción. $2,000.00 $80,000.00
-
-II.- Refrendos anuales. 1,000.00 25,000.00
-
-LICENCIAS PARA LA CONSTRUCCION Y REPARACION DE CASAS, EDIFICIOS Y FACHADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción y
-
-reparación de casas,
-
-edificios y fachadas:
-
-A) Aplanado simple,
-
-por M2. $8.00 $500.00
-
-B) Pintura de aceite o
-
-al temple, por M2. 6.00 500.00
-
-C) Pintura de cal,
-
-por M2. 5.00 100.00
-
-D) Apertura de puertas. 500.00 10,000.00
-
-E) Apertura de ventanas. 300.00 10,000.00
-
-F) Colocación de cortinas
-
-metálicas. 1,000.00 20,000.00
-
-G) Las relacionadas con las
-
-siguientes actividades:
-
-1.- Construcciones de más
-
-de 300 M2, residencial de
-
-lujo, por M2 100.00 3,000.00
-
-Rural o urbano, por M2. 50.00 1,500.00
-
-Otras construcciones por
-
-M2. 25.00 2,000.00
-
-LICENCIAS PARA CONSTRUCCION DE BARDAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción de bardas:
-
-A) De tabique, piedra o
-
-prefabricado por metro
-
-lineal. $5.00 $1,000.00
-
-B) De adobe, por metro
-
-lineal. 5.00 500.00
-
-LICENCIAS PARA LA CONSTRUCCION DE BANQUETAS
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la
-
-construcción de banquetas:
-
-A).- Por M2 del andador
-
-de la banqueta frente al
-
-predio. 30.00 1,000.00
-
-LICENCIAS PARA LA CONSTRUCCION DE GUARNICIONES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la
-
-construcción de
-
-guarniciones:
-
-A) Guarnición de concreto,
-
-por cada metro lineal del
-
-frente del predio. $35.00 $800.00
-
-LICENCIAS PARA LA CONSTRUCCION DE PAVIMENTOS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la
-
-construcción de pavimentos:
-
-A) Pavimento por M2 al
-
-frente del predio. 75.00 1,500.00
-
-LICENCIAS PARA DEMOLICIONES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Demoliciones, por M3. $50.00 $1,500.00
-
-LICENCIAS PARA LA INTRODUCCION DE TOMAS DE AGUA
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la
-
-introducción de tomas de
-
-agua:
-
-A) Tomas de agua en tierra. $2,000.00 $30,000.00
-
-B) Tomas de agua en
-
-concreto o asfalto. 4,000.00 35,000.00
-
-LICENCIAS PARA LA CONSTRUCCION, INSTALACION, CONEXIONES Y RECONEXIONES DE DRENAJES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-1.- Licencias para la
-
-introducción de drenajes:
-
-A) Introducción de drenajes
-
-en tierra. $2,000.00 $30,000.00
-
-B) Introducción de drenajes
-
-en concreto o asfalto. 3,000.00 45,000.00
-
-C) Licencias par la reparación
-
-de drenajes con rotura de
-
-pavimento o concreto,
-
-independientemente del
-
-costo del arreglo de la
-
-zona destruida. 1,000.00 40,000.00
-
-DERECHO ESPECIAL PARA OBRAS PUBLICAS POR COOPERACION
-
-Este derecho se causará y pagará de conformidad con lo que establecen los artículos 149 al 170 de este (sic) Ley.
-
-DE LOS PRODUCTOS
-
-I.- VENTA DE BIENES MUEBLES E INMUEBLES PORPIEDAD DEL MUNICIPIO.
-
-El pago del crédito proveniente de la enajenación de bienes que forman parte de la Hacienda del Municipio, deberá hacerse en la Tesorería en la forma y plazos que se estipulen en el contrato respectivo. Para la enajenación de bienes raíces de la propiedad de los Municipios se requerirá aprobación expresa del Congreso del Estado.
-
-II.- EL IMPORTE DE LOS ARRENDAMIENTOS DE LOS BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-Este producto se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A) Locales situados en el
-
-interior y exterior de los
-
-mercados, de conformidad
-
-con los contratos o
-
-concesiones que otorgue
-
-el Ayuntamiento. $10,000.00 $100,000.00
-
-B) Estacionamiento en la
-
-vía pública (parquímetro),
-
-el costo por hora de este
-
-producto será de: $500.00 $6,000.00
-
-C) Panteones:
-
-Urbano por siete años adultos:
-
-1.- Fosa de 1ra. clase. $2,500.00 $45,000.00
-
-2.- Fosa de 2da. clase. 2,000.00 40,000.00
-
-3.- Fosa de 3ra. clase. 1,250.00 35,000.00
-
-4.- Fosa de 4a. clase. 1,000.00 30,000.00
-
-5.- Fosa de 5a. clase. 500.00 25,000.00
-
-Urbano a Perpetuidad Adultos:
-
-1.- Fosa de 1ra. clase. 5,000.00 60,000.00
-
-2.- Fosa de 2da. clase. 4,000.00 55,000.00
-
-3.- Fosa de 3ra. clase. 2,500.00 50,000.00
-
-4.- Fosa de 4a. clase. 2,000.00 45,000.00
-
-5.- Fosa de 5a. clase. 1,500.00 40,000.00
-
-Urbano por siete años niños:
-
-1.- Fosa de 1ra. clase.
-
-2.- Fosa de 2da. clase.
-
-3.- Fosa de 3ra. clase.
-
-4.- Fosa de 4a. clase.
-
-5.- Fosa de 5a. clase.
-
-Estos pagarán de 80% de las cuotas de adultos según la clase.
-
-Urbano a Perpetuidad Niños:
-
-1.- Fosa de 1ra. clase.
-
-2.- Fosa de 2da. clase.
-
-3.- Fosa de 3ra. clase.
-
-4.- Fosa de 4a. clase.
-
-5.- Fosa de 5a. clase.
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Sub´urbano por siete años
-
-adultos. MINIMO MAXIMO
-
-1.- Fosa de 1ra. clase. $2,000.00 $20,000.00
-
-2.- Fosa de 2da. clase. 1,500.00 15,000.00
-
-3.- Fosa de 3ra. clase. 1,000.00 10,000.00
-
-4.- Fosa de 4a. clase. -o- -o-
-
-5.- Fosa de 5a. clase. -o- -o-
-
-Sub´urbano a Perpetuidad adultos:
-
-1.- Fosa de 1ra. clase. 3,000.00 37,000.00
-
-2.- Fosa de 2da. clase. 2,150.00 26,000.00
-
-3.- Fosa de 3ra. clase. 1,000.00 15,000.00
-
-4.- Fosa de 4a. clase. -o- -o-
-
-5.- Fosa de 5a. clase. -o- -o-
-
-Sub´urbano por siete años niños:
-
-1.- Fosa de 1ra. clase.
-
-2.- Fosa de 2da. clase.
-
-3.- Fosa de 3ra. clase.
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Bóveda Urbano adultos:
-
-1.- Fosa de 1ra. clase. 5,000.00 35,000.00
-
-2.- Fosa de 2da. clase. 5,000.00 30,000.00
-
-3.- Fosa de 3ra. clase. 3,500.00 20,000.00
-
-4.- Fosa de 4a. clase. 1,000.00 15,000.00
-
-5.- Fosa de 5a. clase. 900.00 12,000.00
-
-Bóveda Urbano Niños:
-
-1.- Fosa de 1ra. clase.
-
-2.- Fosa de 2da. clase.
-
-3.- Fosa de 3ra. clase.
-
-4.- Fosa de 4a. clase.
-
-5.- Fosa de 5a. clase.
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-INHUMACIONES DE RESTOS:
-
-Se cobrará la cuota correspondiente a siete años de adultos, según la clase.
-
-REFRENDOS:
-
-Se cobrará la cuota correspondiente a siete años de adultos, según la clase.
-
-REINHUMACIONES:
-
-En las fosas a perpetuidad se cobrará la cuota correspondiente, según la clase o bóveda.
-
-EXHUMACIONES DE RESTOS:
-
-Se cobrará según la clase, conforme a la tarifa de siete años adultos.
-
-COMPLEMENTO A PERPETUIDAD:
-
-Se cobrará la diferencia por el importe total de la perpetuidad, según la clase.
-
-REINHUMACIONES EN EL MISMO PANTEON:
-
-Reihumaciones en fosas, criptas y lotes particulares, que se encuentren a perpetuidad, se cobrará la cuota establecida en sus diferentes clases por siete años.
-
-LOTES PARTICULARES:
-
-Por cada una de las gavetas que se construyan en los lotes particulares, se cobrarán las cuotas correspondientes de Inhumación a Perpetuidad, de acuerdo con la clase respectiva ya establecida; cubierto este producto ya no se causará el de Inhumación.
-
-Por cada una de las gavetas, bóvedas o fosas que se construyan en forma adicional, se cobrará la cuota correspondiente de inhumación a perpetuidad. Cubierto este Producto no se causará el de inhumación.
-
-MONUMENTOS Y CAPILLAS:
-
-Por construcción de capillas,
-
-criptas o colocación de
-
-monumentos, sobre el
-
-importe total de los
-
-mismos. 5% 25%
-
-TRASLACION DE CADAVERES ADULTOS:
-
-1.- Dentro el Territorio
-
-del Estado. $1,000.00 $25,000.00
-
-2.- Fuera del territorio del
-
-Estado. 2,000.00 50,000.00
-
-3.- Fuera del Territorio
-
-Nacional
-
-TRASLACION DE CADAVERES NIÑOS:
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente.
-
-TRASLACION DE RESTOS ADULTOS:
-
-1.- Dentro del Territorio
-
-del Estado. $4,000.00 $20,000.00
-
-2.- Fuera del Territorio
-
-del Estado. 5,000.00 30,000.00
-
-3.- Fuera del Territorio
-
-Nacional.
-
-TRASLACION DE RESTOS NIÑOS:
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente.
-
-REAPERTURA DE FOSAS:
-
-1.- Según la clase.
-
-Permiso para introducción
-
-de materiales. $500.00 $5,000.00
-
-Permiso para introducción
-
-de Automóviles 500.00 1,000.00
-
-D).- ARRENDAMIENTO DE TERRENOS, MONTES, PASTOS Y DEMAS BIENES INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-Las rentas para el uso y aprovechamiento de bienes propiedad del Municipio se determinarán de acuerdo con las reglas que establecen las estipulaciones que prevengan los contratos o concesiones que otorgue el Ayuntamiento.
-
-III.- LA EXPLOTACION O ENAJENACION DE CUALQUIER NATURALEZA DE LOS BIENES PROPIEDAD DEL MUNICIPIO.
-
-Los productos del usufructo de los bienes a que tenga derecho el Municipio se regularán por las estipulaciones que prevengan los contratos o títulos jurídicos respectivos que otorgue el propio Ayuntamiento.
-
-IV.- LOS CAPITALES Y VALORES DEL MUNICIPIO.
-
-Los productos de capitales y valores del Municipio se obtendrán de las estipulaciones contenidas en los Títulos Jurídicos que les den origen y que serán otorgados por el Ayuntamiento.
-
-V.- LOS BIENES DE BENEFICENCIA.
-
-VI.- ESTABLECIMIENTOS Y EMPRESAS DEL MUNICIPIO.
-
-DE LOS APROVECHAMIENTOS
-
-I.- INTERESES MORATORIOS AL 8.25% SOBRE SALDOS INSOLUTOS.
-
-II.- RECARGOS.
-
-Los contribuyentes que demoren el pago de los gravámenes que establece el Presupuesto de Ingresos, pagarán un recargo del 12.75% mensual o fracción de mes que se haya demorado el pago.
-
-III.- MULTAS IMPUESTAS A LOS INFRACTORES DE LOS REGLAMENTOS ADMINISTRATIVOS Y BANDO DE POLICIA.
-
-Este aprovechamiento se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-a).- Multas a los Infractores
-
-de los reglamentos
-
-Administrativos y Bando
-
-de Policía. $2,000.00 $100,000.00
-
-Las multas se observarán en cuanto a su monto, de conformidad con lo prescrito en el artículo 21 de la Constitución General de la República.
-
-IV.- VENTA DE BIENES MOSTRENCOS Y HALLAZGO DE TESOROS OCULTOS.
-
-Las ventas de bienes mostrencos deberán hacerse invariablemente en almoneda Pública (SUBASTA), de conformidad con lo que establece el Código Civil del Estado.
-
-V.- HERENCIA Y DONACIONES A FAVOR DEL MUNICIPIO.
-
-Las cantidades en efectivo o bienes que obtenga la Hacienda del Municipio por concepto de Herencias, Legados, Donativos y Subsidios se harán efectivos de acuerdo con las Leyes respectivas y por las disposiciones de los Testadores o Donantes. La H. Asamblea Municipal tiene derechos de aceptar o repudiar las Herencias y Legados, Donaciones o Subsidios a que se refiere este rubro.
-
-VI.- CAUCIONES Y FIANZAS, CUYA PERDIDA SE DECLARE POR RESOLUCION FIRME A FAVOR DEL MUNICIPIO.
-
-VII.- GASTOS DE COBRANZA Y EJECUCION.
-
-Son gastos de cobranza y ejecución los que se originen en el procedimiento Administrativo de Ejecución, los cuales hará efectivos la Tesorería Municipal por los siguientes conceptos:
-
-TARIFA
-
-a).- Sobre el adeudo fiscal por la
-
-diligencia de notificación. 2%
-
-b).- Sobre el importe del adeudo
-
-de embargo. 2%
-
-c).- Por los demás gastos que se eroguen en calidad de suplementos hasta la conclusión del procedimiento.
-
-Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a una vez el salario Mínimo General DIARIO de la zona económica correspondiente al de Pachuca, Hgo., se cobrará esta cantidad en vez del 2% del crédito.
-
-VIII.- OTROS INGRESOS NO ESPECIFICADOS.
-
-IX.- REINTEGROS.
-
-X.- INDEMNIZACIONES POR DAÑOS A BIENES MUNICIPALES.
-
-XI.- SANCIONES POR
-
-LABORAR EN DIAS DE
-
-DESCANSO OBLIGATORIO
-
-Y FESTIVOS. $1,000.00 $35,000.00
-
-XII.- MULTAS DE TRANSITO.
-
-III.- REZAGOS.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO III. TARIFAS PARA EL TERCER GRUPO DE MUNICIPIOS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-###### ARTICULO 179.
-
-En los Municipios de Santiago Tulantepec, Tepetitlán, Tezontepec de Aldama, Nopala de Villagrán, Tecozautla, Tasquillo, San Agustín Metzquititlan, Acaxochitlán, Almoloya, El Arenal, Francisco I. Madero, Alfajayucan, Cuautepec de Hinojosa, Zempoala, Acacuba, Tetepango, Epazoyucan, Villa de Tezontepec, Tolcayuca, Zapotlán de Juárez y Mineral del Chico, se pagará de acuerdo a las siguientes tarifas:
-
-IMPUESTOS
-
-IMPUESTO PREDIAL
-
-De conformidad con lo que establece el Capítulo I del Título Segundo de esta ley, es base gravable de este Impuesto los Predios señalados en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII del artículo 8E de la propias (sic) Ley.
-
-Este impuesto se cobrará de acuerdo con lo establecido por el Capítulo I del Título segundo de esta Ley.
-
-Los causantes de este Impuesto pagarán además de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- El costo de la tarjeta del
-
-Impuesto Predial $500.00 $1,000.00
-
-II.- El costo de otros
-
-formatos relacionados
-
-con este Impuesto. 500.00 1,000.00
-
-IMPUESTO SOBRE TRASLACION DE DOMINIO Y OTRAS OPERACIONES CON BIENES INMUEBLES
-
-Este impuesto se causara y pagará aplicando la tasa general del 10% y de conformidad con lo que establecen los artículos establecidos en el capítulo II del Título Segundo de esta Ley.
-
-ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
-
-La Tasa de este Impuesto será del 5% sobre los ingresos a que este Impuesto se refiere. El ayuntamiento podrá celebrar convenios a cuota fija con los causantes de este Impuesto, de conformidad con lo que establecen la Ley de Hacienda Municipal vigente y conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-1.- Sobre los ingresos obtenidos
-
-por la prestación de servicios a
-
-que este impuesto se refiere. 1,100.00 50,000.00
-
-RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
-
-Los causantes de este Impuesto pagarán conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Celebración de Rifas,
-
-Loterías o sorteos de
-
-cualquier clase, autorizados
-
-legalmente. 600.00 75,000.00
-
-II.- Explotación comercial
-
-de juegos permitidos. 600.00 60,000.00
-
-III.- Los causantes de este
-
-Impuesto, temporales o
-
-eventuales diariamente. 500.00 50,000.00
-
-DIVERSIONES Y ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS, ACCIONADOS POR MONEDAS O FICHAS
-
-Este Impuesto se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Funciones de cine. 1,000.00 80,000.00
-
-II.- Corridas de Toros,
-
-Jaripeos, Palenques y
-
-otros espectáculos
-
-similares. 20,000.00 150,000.00
-
-III.- Deportes en general. 4,500.00 80,000.00
-
-IV.- Funciones de Teatro,
-
-Conciertos, recitales o
-
-cualquier espectáculo
-
-similar. 1,000.00 80,000.00
-
-V.- Bailes Públicos. 2,000.00 100,000.00
-
-VI.- Carnavales o Ferias. 2,000.00 150,000.00
-
-VII.- Kermesses,
-
-Verbenas y otras
-
-diversiones similares. 1,000.00 75,000.00
-
-VIII.- Actuaciones de
-
-conjuntos musicales en
-
-la vía Pública, Mercados,
-
-Cantinas y Similares. 1,000.00 25,000.00
-
-IX.- Espectáculos
-
-conocidos como variedades
-
-que se presenten en
-
-salones, arenas o cualquier
-
-otro lugar de acceso
-
-público. 4,000.00 150,000.00
-
-X.- Aparatos Mecánicos,
-
-Fonoelectromecánicos y
-
-electromecánicos accionados
-
-por monedas o fichas. 2,000.00 80,000.00
-
-IMPUESTOS SOBRE INGRESOS OBTENIDOS EN LOS ESTABLECIMIENTOS QUE LIMITADAMENTE SE ENUMERAN A CONTINUACION
-
-De conformidad con lo que establece la Ley de Hacienda Municipal, son sujetos de este Impuesto, las personas físicas, morales o unidades económicas que perciben ingresos derivados de actividades por las que están obligadas a cubrir el Impuesto al Valor Agregado. La tasa de este Impuesto será del 5% pudiendo el Ayuntamiento celebrar convenios a cuota fija, de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Libros, Periódicos y
-
-Revistas. 300.00 10,000.00
-
-II.- Bienes Muebles
-
-Usados a excepción de
-
-los enajenados por empresas. 600.00 15,000.00
-
-DE LOS DERECHOS POR SERVICIO DE ALUMBRADO PUBLICO
-
-Este Derecho se causará de conformidad con la siguiente:
-
-TARIFA
-
-CLASE DESCRIPCION PORCENTAJE
-
-1 Doméstico .5%
-
-1a. Doméstico para
-
-localidades con
-
-clima cálido .5%
-
-2 Doméstico y
-
-comercial .5%
-
-CLASE DESCRIPCION PORCENTAJE
-
-3 Mediana Industria 1.5%
-
-8 Industria 1.5%
-
-11 Minería 1.5%
-
-12 Gran Industria 1.5%
-
-POR SERVICIO DE AGUA POTABLE
-
-El servicio que preste el Ayuntamiento por este concepto, se cobrará mensualmente de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-SERVICIO DOMESTICO
-
-I.- Toma sin medidor
-
-cuota fija 200.00 4,000.00
-
-II.- Consumo mínimo
-
-hasta 15 m3 1,000.00 4,000.00
-
-III.- Consumo de 16
-
-hasta 30 m3. 100.00 por m3
-
-IV.- Consumo de 31
-
-hasta 50 m3 110.00 por m3
-
-V.- Consumo de 51
-
-hasta 100 m3. 115.00 por m3
-
-VI.- Consumo de 101
-
-en adelante. 130.00 por m3
-
-COMERCIAL
-
-I.- Toma sin medidor
-
-cuota fija 1,000.00 15,000.00
-
-II.- Consumo mínimo
-
-hasta 30 m3. 500.00 5,500.00
-
-III.- Consumo de 31
-
-hasta 60 m3 225.00 por m3
-
-IV.- Consumo de 61
-
-hasta 100 m3 225.00 por m3
-
-V.- Consumo de 101
-
-hasta 200 m3 275.00 por m3
-
-VI.- Consumo de 201
-
-en adelante 280.00 por m3
-
-INDUSTRIAL
-
-I.- Toma sin medidor
-
-cuota fija 2,000.00 25,000.00
-
-II.- Consumo mínimo
-
-hasta 50 m3 1,000.00 8,000.00
-
-III.- Consumo de 51
-
-hasta 100 m3 225.00 por m3
-
-IV.- Consumo de 101
-
-hasta 200 m3 255.00 por m3
-
-V.- Consumo de 201
-
-hasta 400 m3 280.00 por m3
-
-VI.- Consumo de 401
-
-en adelante 300.00 por m3
-
-OTROS SERVICIOS
-
-I.- Por conexión. 1,500.00 30,000.00
-
-II.- Por reconexión. 1,000.00 20,000.00
-
-Estos derechos se causarán sin perjuicio del costo de Medidores, Material y Mano de Obra que se utilicen en la conexión o Reconexión de Tomas Domiciliarias a la Red General de Agua Potable, así como las licencias para la Rotura del Pavimento, Concreto o Empedrado y reparación del daño.
-
-SERVICIO DE DRENAJE Y ALCANTARILLADO
-
-Los propietarios o poseedores de Predios Urbanos, cubrirán este Derecho de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por conexión al Sistema
-
-Central de Drenaje. $2,500.00 $40,000.00
-
-II.- Cuota anual por el uso
-
-del Sistema. 1,000.00 20,000.00
-
-Estos Derechos se causarán sin perjuicio de las Licencias para la rotura del Pavimento, Concreto o Empedrado y Reparación de Daño que se origine. Quienes soliciten la conexión e instalación de este Servicio cubrirán el importe total de mano de obra y materiales necesarios para tal fin.
-
-CORRAL DE CONSEJO
-
-Este Derecho se causará y pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por cabeza de ganado
-
-Bovino y Equino por día $500.00 $3,000.00
-
-II.- Por cabeza de ganado
-
-Ovicaprino por día 300.00 2,000.00
-
-III.- Por cabeza de ganado
-
-Porcino por día 300.00 2,000.00
-
-USO DE RASTRO, MATANZA DE GANADO Y ABASTOS, TRANSPORTE E INSPECCION SANITARIA DE CARNES
-
-Estos Derechos se causarán y pagarán conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- uso de corraletas: 110.00 1,000.00
-
-A) Ganado Bovino y
-
-Equipo por día. 100.00 1,000.00
-
-B) Ganado Porcino y
-
-Ovicaprino por día 135.00 500.00
-
-II.- Refrigeración 135.00 500.00
-
-III.- Pesado de Animales y
-
-Pieles 5.00 125.00
-
-IV.- Uso de Básculas 300.00 1,000.00
-
-V.- Transporte Sanitario
-
-de Carnes. 800.00 2,500.00
-
-VI.- Inspección Sanitaria
-
-de Carnes:
-
-A) Ganado Bovino 1,200.00 5,000.00
-
-B) Ganado Porcino 1,000.00 4,000.00
-
-C) Ganado Ovicaprino 500.00 4,000.00
-
-D) Ganado Equino 200.00 3,000.00
-
-F) Lepóridos 20.00 100.00
-
-VII.- Matanza de Ganado POR CABEZA
-
-A) Ganado Bovino 500.00 3,000.00
-
-B) Ganado Porcino 200.00 4,500.00
-
-C) Ganado Caprino 200.00 2,500.00
-
-D) Ganado Ovino 100.00 1,000.00
-
-E) Ganado Equino 400.00 3,000.00
-
-F) Aves de Corral 10.00 200.00
-
-G) Lepóridos 10.00 200.00
-
-ALINEAMIENTO Y NOMENCLATURA
-
-Este Derecho se causará y pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Alineamiento y Deslinde
-
-de Predios cuando el servicio
-
-lo realice el ayuntamiento 500.00 25,000.00
-
-II.- Números Oficiales 200.00 5,000.00
-
-III.- Avalúos Catastrales cuando el Servicio lo realice el Ayuntamiento.
-
-Supletoriamente, este derecho se aplicará de conformidad con las tarifas contenidas por el artículo 118 de la Ley de Hacienda del Estado.
-
-DERECHOS POR REGISTRO
-
-REGISTRO DEL ESTADO FAMILIAR
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por anotación de actas
-
-ordenadas por autoridades
-
-en proporción al tamaño de
-
-la resolución Judicial o
-
-Administrativa 750.00 20,000.00
-
-II.- Asentamiento de actas de
-
-divorcio voluntario en los
-
-supuestos que establece el
-
-Código Familiar reformado
-
-del Estado de Hidalgo. 750.00 30,000.00
-
-III.- Inscripción de sentencias
-
-de divorcio dictadas por
-
-Autoridades Judiciales. 1,500.00 30,000.00
-
-IV.- Inscripción de actas de
-
-adopción y reconocimiento
-
-de hijos. 375.00 15,000.00
-
-V.- Otros relacionados con
-
-el Registro del Estado
-
-Familiar 375.00 22,500.00
-
-VI.- Los actos del Registro
-
-del Estado Familiar fuera
-
-de las Oficinas:
-
-A) Levantamiento de actas a domicilio:
-
-1.- MATRIMONIOS
-
-En horario normal de
-
-oficinas 5,000.00 30,000.00
-
-En horario extraordinario 7,500.00 45,000.00
-
-2.- NACIMIENTOS
-
-En horario normal de
-
-oficinas 500.00 10,000.00
-
-En horario extraordinario 750.00 15,000.00
-
-VII.- La dispensa de los
-
-términos previstos en el
-
-artículo 22 del Código
-
-Familiar Reformado del
-
-Estado de Hidalgo 2,000.00 30,000.00
-
-CERTIFICACIONES, LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Expedición de copias de
-
-los archivos municipales 375.00 7,500.00
-
-II.- Expedición de copias
-
-certificadas solicitadas
-
-en las Oficinas por los
-
-interesados 750.00 5,000.00
-
-III.- Expedición de copias
-
-certificadas solicitadas
-
-por correo 750.00 7,500.00
-
-IV.- Búsqueda de antecedentes
-
-y actas en los libros por falta
-
-de boleta, datos, etc., por
-
-cada año de búsqueda 100.00 1,500.00
-
-V.- Duplicado de Boleta 75.00 1,000.00
-
-VI.- Certificados de Valor
-
-Fiscal 1,000.00 3,000.00
-
-VII.- Certificados de no
-
-Adeudo 1,000.00 3,000.00
-
-VIII.- Búsqueda de
-
-antecedentes cuando no
-
-precisen los interesados
-
-la fecha, por cada período
-
-de cinco años o fracción 1,000.00 3,000.00
-
-IX.- Costo del papel especial
-
-en el que invariablemente
-
-deberán expedirse las copias
-
-certificadas, por cada hoja 300.00 3,000.00
-
-EXPEDICION DE LICENCIAS Y CANJE DE PLACAS DE CIRCULACION DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
-
-Este Derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Placas de Moticicleta
-
-(sic) 1,500.00 8,000.00
-
-II.- Placas de Bicicleta
-
-Particulares 1,000.00 6,000.00
-
-III.- Placas de Bicicleta de
-
-Alquiler 1,100.00 7,000.00
-
-IV.- Placas de carro de 1a. 1,000.00 6,000.00
-
-V.- Carros de tracción
-
-Animal excepto si se usan
-
-para fines agropecuarios
-
-exclusivamente. 1,000.00 6,000.00
-
-VI.- Expedición de licencias
-
-para conducir toda clase de
-
-vehículos de motor y
-
-duplicado de las mismas. -o- -o-
-
-VII.- Canje de licencias. -o- -o-
-
-VIII.- Permisos provisionales
-
-para conducir vehículos de
-
-motor.- Mensualmente -o- -o-
-
-IX.- Revista anual de
-
-vehículos de motor -o- -o-
-
-X.- Permisos para
-
-circular sin placas. -o- -o-
-
-XI.- Otros servicios
-
-de tránsito -o- -o-
-
-LICENCIAS DIVERSAS
-
-VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTOS
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Los fraccionamientos
-
-pagarán por m2 en venta
-
-de terrenos, según su valor
-
-comercial 10% 15%
-
-REGISTRO DE PERITOS EN OBRAS DE CONSTRUCCION
-
-Este Derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Registro de Peritos en
-
-obras de Construcción 600.00 20,000.00
-
-II.- Refrendos anuales 300.00 10,000.00
-
-LICENCIAS PARA LA CONSTRUCCION Y REPARACION DE CASAS EDIFICIOS Y FACHADAS
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción y Reparación de Casas, Edificios y fachadas
-
-A) Aplanado simple por
-
-m2 5.00 400.00
-
-B) Pintura de aceite o al
-
-temple, por m2 5.00 400.00
-
-C) Pintura de cal, por m2 4.00 75.00
-
-D) Apertura de Puertas 400.00 6,000.00
-
-E) Apertura de Ventanas 200.00 6,000.00
-
-F) Colocación de Cortinas
-
-Metálicas 500.00 15,000.00
-
-G) Las relacionadas con
-
-las siguientes actividades.
-
-I: CONSTRUCCIONES.- De más
-
-de 300m2, Residencial de
-
-Lujo por m2 100.00 1,000.00
-
-Rural o urbano por m2 50.00 500.00
-
-Otras construcciones por
-
-m2 25.00 750.00
-
-LICENCIAS PARA LA CONSTRUCCION DE BARDAS
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción de Bardas:
-
-A) De tabique, piedra o
-
-prefabricado, por metro
-
-lineal 5.00 1,000.00
-
-B) De adobe, por metro
-
-lineal 5.00 500.00
-
-LICENCIAS PARA LA CONTRUCCION DE BANQUETAS
-
-Este Derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la construcción de banquetas:
-
-A) Por m2 del andador
-
-de la banqueta frente
-
-al predio 20.00 800.00
-
-LICENCIAS PARA LA CONSTRUCCION DE GUARNICIONES
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la construcción de guarniciones
-
-A) Guarnición de concreto,
-
-por cada metro lineal
-
-del frente del predio 20.00 750.00
-
-LICENCIAS PARA LA CONSTRUCCION DE PAVIMENTOS
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la Construcción de Pavimentos:
-
-A) Pavimento por m2 al
-
-frente del predio 50.00 1,000.00
-
-LICENCIAS PARA DEMOLICIONES
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Demoliciones, por m3 20.00 750.00
-
-LICENCIAS PARA LA INTRODUCCION DE TOMAS DE AGUA
-
-Este dercho (sic) se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la introducción de tomas de agua
-
-A) Tomas de agua en
-
-tierra. 1,500.00 25,000.00
-
-B) Tomas de agua en
-
-Concreto o asfalto 2,000.00 30,000.00
-
-LICENCIAS PARA LA CONSTRUCCION, INSTALACION
-
-CONEXIÓN Y RECONEXION DE DRENAJE
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la introducción de Drenajes:
-
-A) Introducción de Drenajes
-
-en tierra 1,500.00 15,000.00
-
-B) Introducción de Drenajes
-
-en Concreto o Asfalto 2,000.00 25,000.00
-
-C) Licencias para la reparación
-
-de Drenajes con rotura de
-
-pavimento o concreto
-
-independientemente del costo
-
-del arreglo de la zona
-
-destruida. 1,000.00 30,000.00
-
-DERECHO ESPECIAL PARA OBRAS PUBLICAS POR COOPERACION
-
-Este Derecho se causará y pagará de conformidad con lo que establecen los artículos 149 al 170 de esta Ley de Hacienda Municipal.
-
-DE LOS PRODUCTOS
-
-I.- Venta de bienes muebles e inmuebles propiedad del municipio.
-
-El pago de crédito proveniente de la enajenación de bienes que formen parte de la hacienda del Municipio, deberá hacerse en la Tesorería en la forma y plazos que se estipulen en el contrato respectivo. Para la enajenación de bienes raíces de la propiedad de los Municipios se requerirá aprobación expresa del Congreso del Estado.
-
-II.- El Importe de los arrendamientos de los bienes muebles e inmuebles propiedad del municipio.
-
-Este Producto se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A) Locales situados en el
-
-interior y exterior de los
-
-mercados, de conformidad
-
-con los contratos o
-
-concesiones que otorgue
-
-el Ayuntamiento. 5,000.00 50,000.00
-
-B) Estacionamiento en la
-
-vía pública (parquímetros),
-
-el costo por hora de este
-
-producto será de: 100.00 5,000.00
-
-C) Panteones
-
-Urbano por siete años adultos
-
-1. Fosa de 1a. clase 2,000.00 30,000.00
-
-2. Fosa de 2a. clase 1,500.00 25,000.00
-
-3. Fosa de 3a. clase 1,000.00 20,000.00
-
-4. Fosa de 4a. clase 750.00 15,000.00
-
-5. Fosa de 5a. clase 500.00 10,000.00
-
-Urbano a perpetuidad adultos:
-
-1. Fosa de 1a. clase 4,000.00 55,000.00
-
-2. Fosa de 2a. clase 3,000.00 50,000.00
-
-3. Fosa de 3a. clase 2,000.00 45,000.00
-
-4. Fosa de 4a. clase 1,500.00 40,000.00
-
-5. Fosa de 5a. clase 1,000.00 30,000.00
-
-Urbano por siete años niños
-
-1. Fosa de 1a. clase
-
-2. Fosa de 2a. clase
-
-3. Fosa de 3a. clase
-
-4. Fosa de 4a. clase
-
-5. Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Urbano a perpetuidad niños
-
-1. Fosa de 1a. clase
-
-2. Fosa de 2a. clase
-
-3. Fosa de 3a. clase
-
-4. Fosa de 4a. clase
-
-5. Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Sub-Urbano por siete años adultos
-
-1. Fosa de 1a. clase 1,500.00 15,000.00
-
-2. Fosa de 2a. clase 1,000.00 10,000.00
-
-3. Fosa de 3a. clase 800.00 7,500.00
-
-4. Fosa de 4a. clase 700.00 5,000.00
-
-5. Fosa de 5a. clase 600.00 4,000.00
-
-Sub-Urbano a perpetuidad adultos:
-
-1. Fosa de 1a. clase 2,000.00 13,000.00
-
-2. Fosa de 2a. clase 1,500.00 12,000.00
-
-3. Fosa de 3a. clase 1,000.00 11,000.00
-
-4. Fosa de 4a. clase 900.00 10,000.00
-
-5. Fosa de 5a. clase 800.00 9,000.00
-
-Sub-Urbano por siete años niños
-
-1. Fosa de 1a. clase
-
-2. Fosa de 2a. clase
-
-3. Fosa de 3a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Sub-Urbano a perpetuidad niños
-
-1. Fosa de 1a. clase
-
-2. Fosa de 2a. clase
-
-3. Fosa de 3a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Bóveda urbano adultos:
-
-1. Fosa de 1a. clase 3,000.00 20,000.00
-
-2. Fosa de 2a. clase 2,000.00 15,000.00
-
-3. Fosa de 3a. clase 1,750.00 10,000.00
-
-4. Fosa de 4a. clase 1,000.00 9,000.00
-
-5. Fosa de 5a. clase 800.00 8,000.00
-
-Bóveda urbano niños:
-
-1. Fosa de 1a. clase
-
-2. Fosa de 2a. clase
-
-3. Fosa de 3a. clase
-
-4. Fosa de 4a. clase
-
-5. Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Inhumaciones de Restos:
-
-Se cobrará la cuota correspondiente a siete años de adultos según la clase.
-
-Refrendos
-
-Se cobrará la cuota correspondiente a siete años de adultos según la clase.
-
-Reinhumaciones:
-
-En las fosas a perpetuidad se cobrará la cuota correspondiente, según la clase o Bóveda.
-
-Exhumación de Restos: Se cobrará las tarifas correspondientes a siete años adulto:
-
-Complemento a perpetuidad:
-
-Se cobrará la diferencia por el importe total de la Perpetuidad, según la clase.
-
-Reinhumaciones en el mismo panteón:
-
-Reinhumaciones en fosas, criptas y lotes particulares, que se encuentren a perpetuidad, se cobrará la cuota establecida en sus diferentes clases por siete años.
-
-Lotes Particulares.
-
-Por cada una de las gavetas que se construyan en los lotes particulares se cobrarán las cuotas correspondientes de inhumación a perpetuidad, de acuerdo con la clase respectiva ya establecida; cubierto este producto ya no se causará el de inhumación.
-
-Por cada una de las gavetas, bóvedas o fosas que se construyan en forma adicional, se cobrará la cuota correspondiente de inhumación a perpetuidad. Cubierto este producto no se causará el de inhumación.
-
-Monumentos y Capillas:
-
-MINIMO MAXIMO
-
-Por construcción de capillas,
-
-criptas o colocación de
-
-monumentos, sobre el importe
-
-total de los mismos. 5% 25%
-
-Traslación de cadáveres adultos:
-
-1.- Dentro del Territorio del
-
-Estado 1,000.00 20,000.00
-
-2.- Fuera del Territorio del Estado 1,500.00 30,000.00
-
-3.- Fuera del Territorio Nacional -o- -o-
-
-Traslación de Cadáveres Niños:
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente.
-
-Traslación de restos adultos:
-
-1.- Dentro del Territorio del Estado 3,000.00 15,000.00
-
-2.- Fuera del Territorio del Estado 4,000.00 20,000.00
-
-3.- Fuera del territorio Nacional -o- -o-
-
-Traslación de restos niños
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente
-
-Reapertura de fosas:
-
-1.- Según la clase 500.00 4,500.00
-
-Permisos para introducción de
-
-materiales 500.00 1,000.00
-
-Permisos para introducción de
-
-automóviles 500.00 1,000.00
-
-D) Arrendamiento de terrenos, montes, pastos y demás bienes inmuebles propiedad del municipio.
-
-Las rentas para el uso y aprovechamiento de bienes propiedad del Municipio se determinarán de acuerdo con las reglas que establezcan las estipulaciones que prevengan los contratos o concesiones que otorgue el Ayuntamiento.
-
-III.- La explotación o enajenación de cualquier naturaleza de los bienes propiedad del Municipio.
-
-Los productos del usufructo de los bienes a que tenga derecho el Municipio se regularán por las estipulaciones que prevengan los contratos o títulos jurídicos respectivos que otorgue el propio ayuntamiento.
-
-IV.- Los capitales y valores del municipio.
-
-Los productos de capitales y valores del municipio se obtendrán de las estipulaciones contenidas en los títulos jurídicos que les den origen y que serán otorgados por el Ayuntamiento.
-
-V.- Los bienes de beneficencia.
-
-VI.- Establecimientos y empresas del municipio.
-
-DE LOS APROVECHAMIENTOS
-
-I.- Intereses moratorios al 8.25 % sobre saldos insolutos.
-
-II.- Recargos.
-
-Los contribuyentes que demoren el pago de los gravámenes que establece el presupuesto de ingresos, pagarán un recargo del 12.75% mensual o fracción de mes que se haya demorado el pago.
-
-III.- MULTAS IMPUESTAS A LOS INFRACTORES DE LOS REGLAMENTOS ADMINISTRATIVOS Y BANDO DE POLICIA
-
-Este aprovechamiento se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A) Multas a los infractores
-
-de los reglamentos
-
-administrativos y Bando
-
-de Policía 1,000.00 50,000.00
-
-Las multas se observarán en cuanto a su monto, de conformidad con lo prescrito en el Artículo 21 de la Constitución General de la República.
-
-IV.- VENTA DE BIENES MOSTRENCOS Y HALLAZGO DE TESOROS OCULTOS
-
-Las ventas de bienes mostrencos deberán hacerse invariablemente en almoneda pública (SUBASTA), de conformidad con lo que establece el Código Civil del Estado.
-
-V.- HERENCIAS Y DONACIONES A FAVOR DEL MUNICIPIO
-
-Las cantidades en efectivo o Bienes que obtenga la Hacienda del Municipio por concepto de Herencia, Legados, Donativos y subsidios se harán efectivos de acuerdo con las Leyes respectivas y por las disposiciones de los Testadores o Donantes. La H. Asamblea Municipal tiene derechos de aceptar o repudiar las herencias y Legados, Donaciones o Subsidios a que se refiere este rubro.
-
-VI.- CAUCIONES Y FIANZAS, CUYA PERDIDA SE DECLARE POR RESOLUCION FIRME A FAVOR DEL MUNICIPIO
-
-VII.- GASTOS DE COBRANZA Y EJECUCION
-
-Son gastos de cobranza y ejecución los que se originen en el Procedimiento Administrativo de Ejecución, los cuales hará efectivos la Tesorería Municipal por los siguientes conceptos:
-
-TARIFA PORCENTAJE
-
-A) Sobre el adeudo fiscal por la
-
-diligencia de notificación 2%
-
-B) Sobre el Importe del adeudo
-
-de embargo 2%
-
-C) Por los demás gastos que se
-
-eroguen en calidad de suplementos
-
-hasta la conclusión del
-
-procedimiento 2%
-
-Cuando en los casos de los incisos anteriores, el 2% sea inferior a una vez el Salario Mínimo General DIARIO, de la zona económica correspondiente al de Pachuca, Hgo., se cobrará esta cantidad en vez del 2% del crédito.
-
-VIII.- Otros ingresos no especificados
-
-IX.- Reintegros
-
-X.- Indemnizaciones por daños a bienes municipales
-
-XI.- Sanciones por laborar
-
-en día de descanso
-
-obligatorio y festivos $500.00 $10,000.00
-
-XII.- Multas de tránsito
-
-XIII.- Rezagos.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-### CAPITULO IV. TARIFAS PARA EL CUATRO GRUPO DE MUNICIPIOS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-###### ARTICULO 180.
-
-Los Municipios de Acatlán, Singuilucán, Chapantongo, Nicolás Flores, Pacula, Tianguistengo, Xochicoatlán, Eloxochitlán, Agua Blanca de Iturbide, Huehuetla, Metepec, San Bartolo Tutotepec, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Xochiatipán, Yahualica, San Agustín Tlaxiaca, Santiago de Anaya, San Salvador, Calnali, Huazalingo, Lolotla, Tepehuacán de Guerrero, Tlanchinol, Juárez Hidalgo, el Cardonal, Chilcuautla, Chapulhucán, la Misión, Pisaflores, Tlahuiltepa, Huasca de Ocampo, y Omitlán de Juárez, pagarán de acuerdo a las siguientes tarifas:
-
-IMPUESTOS
-
-IMPUESTO PREDIAL
-
-De conformidad con lo que establece el Capítulo I del título Segundo de esta Ley, es base gravable de este impuesto los predios señalados en las fracciones I; II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; y XIII del artículo 8E de la propia Ley.
-
-Este Impuesto se pagará de acuerdo a lo que establece el capítulo I del Título Segundo de esta Ley.
-
-Los causantes de este Impuesto pagarán además de conformidad con la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- El costo de la tarjeta del
-
-Impuesto Predial. $500.00 $1,000.00
-
-II.- El costo de otros formatos
-
-relacionados con este
-
-impuesto. 500.00 1,000.00
-
-IMPUESTO SOBRE TARSLACION (SIC) DE DOMINIO Y OTRAS OPERACIONES CON BIENES INMUEBLES
-
-Este Impuesto se causará y pagará aplicando la tasa general de 10% y de conformidad con lo que establecen los artículos contenidos en el Capítulo II del Título Segundo de esta Ley.
-
-ESTABLECIMIENTO DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
-
-La tasa de este Impuesto será del 5% sobre los ingresos a que este impuesto se refiere. El ayuntamiento podrá celebrar convenios a cuota fija con los causantes de este Impuesto, de conformidad con lo que establecen esta Ley y conforme a la siguiente.
-
-TARIFA MINIMA MAXIMA
-
-I.- Sobre los Impuestos
-
-obtenidos por la prestación
-
-de servicios a que este
-
-Impuesto se refiere. $1,000.00 $30,000.00
-
-RIFAS, LOTERIAS TODA CLASE DE JUEGOS PERMITIDOS
-
-Los causantes de este Impuesto pagarán conforme a la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Celebración de Rifas,
-
-Loterías o sorteos de
-
-cualquier clase, autorizados
-
-legalmente. $400.00 $50,000.00
-
-II.- Explotación comercial
-
-de juegos permitidos. 400.00 50,000.00
-
-III.- Los causantes de este
-
-Impuesto, temporales o
-
-eventuales diariamente. $500.00 $40,000.00
-
-DIVERSIONES Y ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS, ACCIONADOS
-
-Este Impuesto se pagarán confore (sic) a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Funciones de cine. $1,000.00 $70,000.00
-
-II.- Corridas de toros,
-
-jaripeos, palenques y
-
-otros espectáculos
-
-similares. $20,000.00 $150,000.00
-
-III.- Deportes en General $4,000.00 $70,000.00
-
-IV.- Funciones de Teatro,
-
-Conciertos, recitales o
-
-cualquier espectáculo
-
-similar. $1,000.000 $70,000.00
-
-V.- Bailes Públicos $2,000.00 $75,000.00
-
-VI.- Carnavales o Ferias $2,000.00 $125,000.00
-
-VII.- Kermesses, Verbenas
-
-y otras diversiones similares $1,000.00 $75,000.00
-
-VIII.- Actuaciones de
-
-conjuntos musicales en la
-
-vía pública, mercados,
-
-cantinas y Similares. $1,000.00 $25,000.00
-
-IX.- Espectáculos conocidos
-
-como variedades que se
-
-presenten en salones, arenas
-
-o cualquier otro lugar de
-
-acceso público. $4,000.00 $125,000.00
-
-X.- Aparatos Mecánicos,
-
-Fonoelectromecánicos y
-
-electromecánicos accionados
-
-por monedas o fichas. $2,000.00 $50,000.00
-
-IMPUESTOS SOBRE INGRESOS OBTENIDOS EN LOS ESTABLECIMIENTOS QUE LIMITADAMENTE SE ENUMERAN A CONTINUACION
-
-De conformidad con lo que establece esta Ley, son sujetos de este Impuesto, las personas físicas, morales o unidades económicas que perciben ingresos derivados de actividades por las que no están obligadas a cubrir el Impuesto al Valor Agregado. La tasa de este Impuesto será del 5% pudiendo el Ayuntamiento celebrar convenios a cuota fija, de conformidad con la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Libros, periódicos y
-
-revistas. $250.00 $9,000.00
-
-II.- Bienes muebles usados
-
-a excepción de los enajenados
-
-por empresas. 500.00 10,000.00
-
-DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
-
-Este derecho se causará de conformidad con la siguiente:
-
-TARIFA
-
-CLASE DESCRIPCION PORCENTAJE
-
-1 Doméstico .5%
-
-1ra. Doméstico para localida-
-
-des con clima cálido. .5%
-
-2 Doméstico y Comercial. .5%
-
-3 Mediana industrial 1.5%
-
-8 Industrial 1.5%
-
-11 Minería 1.5%
-
-12 Gran industria 1.5%
-
-POR SERVICIO DE AGUA POTABLE
-
-El servicio que preste el Ayuntamiento por este concepto, se cobrará mensualmente de conformidad con la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-SERVICIO DOMESTICO
-
-I.- Toma sin medidor
-
-cuota fija $200.00 $3,500.00
-
-II.- Consumo mínimo
-
-hasta 15m3. 1,000.00 3,500.00
-
-III.- Consumo de 16
-
-hasta 30m3. 100.00 por m3
-
-IV.- Consumo de 31
-
-hasta 50m3. 110.00
-
-V.- Consumo de 51
-
-hasta 100m3. 115.00
-
-VI.- Consumo de 101
-
-en adelante 130.00
-
-COMERCIAL
-
-I.- Toma sin medidor
-
-cuota fija. $1,000.00 $15,000.00
-
-II.- Consumo mínimo
-
-hasta 30m3. $500.00 $5,000.00
-
-III.- Consumo de 31
-
-hasta 60m3. $225.00 Por m3
-
-IV.- Consumo de 61
-
-hasta 100m3. $255.00
-
-V.- Consumo de 101
-
-hasta 200m3. $275.00
-
-VI.- Consumo de 201m3
-
-en adelante. $280.00
-
-INDUSTRIAL
-
-I.- toma sin medidor
-
-cuota fija. $2,000.00 $20,000.00
-
-II.- Consumo mínimo
-
-hasta 50m3. $1,000.00 $8,000.00
-
-III.- Consumo de 51 hasta
-
-100m3. $225.00 por m3
-
-IV.- Consumo de 101 hasta
-
-200m3. $255.00 por m3
-
-V.- Consumo de 201 hasta
-
-400 m3 $280.00 por m3
-
-VI.- Consumo de 401 en
-
-adelante $300.00 por m3
-
-OTROS SERVICIOS
-
-I.- Por conexión. $1,500.00 $25,000.00
-
-II.- Por reconexión. 1,000.00 20,000.00
-
-Estos derechos se causarán sin perjuicio del costo de Medidores, Materiales y Mano de Obra que se utilicen en la Conexión o Reconexión de Tomas Domiciliarias a la Red General del Agua Potable, así como las Licencias para la Rotura del Pavimento, Concreto o Empedrado y reparación del daño.
-
-SERVICIO DE DRENAJE Y ALCANTARILLADO
-
-Los propietario o poseedores de Predios Urbanos, cubrirán este Derecho de conformidad con la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Por conexión al Sistema
-
-Central de Drenaje. $2,000.00 $30,000.00
-
-II.- Cuota anual por el
-
-uso del Sistema. $1,000.00 $20,000.00
-
-Estos derechos se causarán sin perjuicio de las Licencias para la Rotura del Pavimento, Concreto o Empedrado y Reparación del daño que se origine. Quienes soliciten la Conexión e Instalación de este servicio, cubrirán el importe total de Mano de Obra y materiales necesarias (sic) para tal fin.
-
-CORRAL DE CONSEJO
-
-Este derecho se causará y pagará conforme a la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Por cabeza de ganado
-
-bovino y equino por día. $500.00 $3,000.00
-
-II.- Por cabeza de ganado
-
-ovicaprino por día $300.00 $2,000.00
-
-III.- Por cabeza de ganado
-
-porcino por día. $300.00 $2,000.00
-
-USO DE RASTRO, MATANZA DE GANADO Y ABASTOS, TRANSPORTE E INSPECCION SANITARIA DE CARNES
-
-Estos derechos se causarán y pagarán conforme a la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Uso de corraletas:
-
-A) Ganado Bovino y Equino
-
-por día $110.00 $1,000.00
-
-B) Ganado Porcino y
-
-Ovicaprino por día $100.00 $500.00
-
-II.- Refrigeración 135.00 500.00
-
-III.- Pesado de Animales y
-
-Pieles $5.00 $125.00
-
-IV.- Uso de Básculas $300.00 $1,000.00
-
-V.- Transporte Sanitario de
-
-carnes $800.00 $2,500.00
-
-VI.- Inspección sanitaria de
-
-Carnes:
-
-A) Ganado Bovino. $1,200.00 $5,000.00
-
-B) Ganado Porcino. $1,000.00 $4,000.00
-
-C) Ganado Ovicaprino $500.00 $4,000.00
-
-D) Ganado Equino. $200.00 $3,000.00
-
-E) Aves de Corral. $20.00 $100.00
-
-F) Lepóridos. $20.00 $100.00
-
-VII.- Matanza de Ganado: POR CABEZA
-
-MINIMO MAXIMO
-
-A) Ganado Bovino. $500.00 $3,000.00
-
-B) Ganado Porcino. $200.00 $4,000.00
-
-C) Ganado Ovicaprino. $200.00 $2,500.00
-
-D) Ganado Ovino $100.00 $1,000.00
-
-E) Ganado Equino. $400.00 $3,000.00
-
-F) Aves de Corral. $10.00 $200.00
-
-F) Lepóridos. $10.00 $200.00
-
-ALINEAMIENTO Y NOMENCLATURA
-
-Este Derecho se causará y pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Alineamiento y Deslinde
-
-de Predios cuando el
-
-servicio lo realice el
-
-Ayuntamiento. $500.00 $15,000.00
-
-II.- Números Oficiales $200.00 $5,000.00
-
-III.- Avalúos Catastrales cuando el Servicio lo realice el Ayuntamiento.
-
-Supletoriamente, este derecho se aplicará de conformidad con las tarifas contenidas en el artículo 118 de la Ley de Hacienda del Estado.
-
-DERECHOS POR REGISTRO
-
-REGISTRO DEL ESTADO FAMILIAR
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Por anotación de actas
-
-ordenadas por Autoridades
-
-en proporción al tamaño de
-
-la resolución Judicial o
-
-Administrativa. $750.00 $15,000.00
-
-II.- Asentamiento de actas
-
-de divorcio voluntario en
-
-los supuestos que establece
-
-el Código Familiar reformado
-
-del Estado de Hidalgo. $750.00 $30,000.00
-
-III.- Inscripción de sentencias
-
-de divorcio dictadas por
-
-Autoridades Judiciales. $1,500.00 $30,000.00
-
-IV.- Inscripción de actas de
-
-adopción y reconocimiento
-
-de hijos. $375.00 $15,000.00
-
-V.- Otros relacionados con
-
-el Registro del Estado
-
-Familiar. $375.00 $22,500.00
-
-VI.- Los actos del Registro
-
-del Estado Familiar fuera
-
-de las Oficinas.
-
-A) Levantamiento de actas a domicilio:
-
-1.- MATRIMONIOS
-
-En horario normal de
-
-Oficinas $5,000.00 $30,000.00
-
-En horario extraordinario $7,500.00 $45,000.00
-
-2.- NACIMIENTOS
-
-En horario normal de
-
-oficinas $500.00 $10,000.00
-
-En horario extraordinario $750.00 $15,000.00
-
-VII.- La dispensa de los
-
-términos previstos en el
-
-artículo 30 del Código
-
-Familiar Reformado del
-
-Estado de Hidalgo. $2,000.00 $25,000.00
-
-CERTIFICACIONES, LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
-
-Este derecho se pagará de conformidad con la siguiente.
-
-TARIFA MINIMO MAXIMO
-
-I.- Expedición de Copias de
-
-los Archivos Municipales. $375.00 $5,000.00
-
-II.- Expedición de copias
-
-certificadas solicitadas
-
-en las Oficinas por los
-
-interesados. $750.00 $5,000.00
-
-III.- Expedición de copias
-
-certificadas solicitadas
-
-por correo. $750.00 $6,000.00
-
-IV.- Búsqueda de antecedentes
-
-y actas en los libros por falta
-
-de boleta, datos, etc., por
-
-cada año de búsqueda. $100.00 $1,500.00
-
-V.- Duplicado de Boleta. $75.00 $750.00
-
-VI.- Certificados de Valor
-
-Fiscal. $1,000.00 $3,000.00
-
-VII.- Certificados de no
-
-adeudo. $1,000.00 $3,000.00
-
-VIII.- Búsqueda de antecedentes
-
-cuando no precisen los
-
-interesados la fecha por
-
-cada período de cinco
-
-años o fracción. $1,000.00 $4,000.00
-
-IX.- Costo de papel especial
-
-en el que invariablemente
-
-deberán expedirse las copias
-
-certificadas, por cada hoja. $300.00 $3,000.00
-
-EXPEDICION DE LICENCIAS Y CANJE DE PLACAS DE CIRCULACION DE MOTOCICLETAS BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Placas de Motocicleta. $1,500.00 $8,000.00
-
-II.- Placas de Bicicleta
-
-Particulares. $1,000.00 $6,000.00
-
-III.- Placas de Bicicleta de
-
-alquiler. $1,100.00 $7,000.00
-
-IV.- Placas de Carro de 1a. $1,000.00 $6,000.00
-
-V.- Carros de tracción
-
-Animal excepto si se usan
-
-para fines Agropecuarios
-
-exclusivamente. $1,000.00 $6,000.00
-
-VI.- Expedición de Licencias
-
-para conducir toda clase de
-
-vehículos de motor y
-
-DUPLICADO DE LAS
-
-MISMAS. -o- -o-
-
-VII.- Canje de Licencias. -o- -o-
-
-VIII.- Permisos provisionales
-
-para conducir vehículos
-
-de motor MENSUALMENTE. -o- -o-
-
-IX.- Revista anual de
-
-vehículos de motor. -o- -o-
-
-X.- Permisos para circular
-
-sin placas. -o- -o-
-
-XI.- Otros servicios de
-
-tránsito. -o- -o-
-
-LICENCIAS DIVERSAS
-
-VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTOS
-
-Este Derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Los fraccionamientos
-
-pagarán por m2 en venta
-
-de terrenos, según su valor
-
-comercial. 10% 15%
-
-REGISTRO DE PERITOS EN OBRAS DE CONSTRUCCION
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Registro de peritos en
-
-obras de construcción 600.00 20,000.00
-
-II.- Refrendos anuales 300.00 10,000.00
-
-LICENCIAS PARA LA CONSTRUCCION Y REPARACION DE CASAS EDIFICIOS Y FACHADAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Construcción y Reparación
-
-de Casas, Edificios y
-
-fachadas:
-
-A) Aplanado simple, por
-
-m2 $50.00 $400.00
-
-B) Pintura de aceite o al
-
-Temple, por m2 $5.00 $400.00
-
-C) Pintura de cal, por m2 $4.00 $75.00
-
-D) Apertura de Puertas $400.00 $6,000.00
-
-E) Apertura de Ventanas $200.00 $6,000.00
-
-F) Colocación de cortinas
-
-metálicas $500.00 $15,000.00
-
-G) Las relacionadas con
-
-las siguientes actividades:
-
-1.- CONSTRUCCIONES
-
-De más de 300 m2 residencial
-
-de lujo por m2 $100.00 $1,000.00
-
-Rural o urbano, por m2 $50.00 $500.00
-
-Otras construcciones, por
-
-m2 $25.00 $750.00
-
-LICENCIAS PARA LA CONSTRUCCION DE BARDAS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-1.- Construcción de bardas
-
-A) De tabique, piedra o
-
-prefabricado por metro
-
-lineal $5.00 $1,000.00
-
-B) De adobe, por metro
-
-lineal $5.00 $500.00
-
-LICENCIAS PARA LA CONSTRUCCION DE BANQUETAS
-
-Este derecho se pagará de conformidad a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la Construcción de banquetas:
-
-A) Por m2 del andador
-
-de la banqueta frente
-
-al predio. $20.00 $800.00
-
-LICENCIAS PARA LA CONSTRUCCION DE GUARNICIONES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la construcción de guarniciones:
-
-A) Guarnición de Concreto,
-
-por cada metro lineal del
-
-frente del predio $20.00 $750.00
-
-LICENCIAS PARA LA CONSTRUCCION DE PAVIMENTOS
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la construcción de pavimentos:
-
-A) Pavimento por m2 al
-
-frente del predio. $50.00 $1,000.00
-
-LICENCIAS PARA DEMILICIONES
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Demoliciones, por m3 $20.00 $750.00
-
-LICENCIAS PARA LA INTRODUCCION DE TOMAS DE AGUA
-
-Este derecho se pagará conforme a la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para la introducción de tomas de agua:
-
-A) Tomas de agua en
-
-tierra. $1,500.00 $25,000.00
-
-B) Tomas de agua en
-
-concreto o asfalto. $2,000.00 $30,000.00
-
-LICENCIAS PARA LA CONSTRUCCION, INSTALACION
-
-CONEXION Y RECONEXION DE DRENAJE
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-I.- Licencias para introducción de drenajes:
-
-A) Introducción de Drenajes
-
-en tierra. $500.00 $15,000.00
-
-B) Introducción de drenajes
-
-en concreto o asfalto. $1,000.00 $25,000.00
-
-C) Licencias para la reparación
-
-de Drenajes con rotura de
-
-pavimento o concreto,
-
-independientemente del
-
-costo del arreglo de la zona
-
-destruida. $1,000.00 $30,000.00
-
-DERECHO ESPECIAL PARA OBRAS PUBLICAS POR COOPERACION
-
-Este derecho se causará y pagará de conformidad con lo que establecen los artículos 149 al 170 de esta Ley.
-
-I.- VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-El pago del crédito proveniente de la enajenación de bienes que formen parte de la Hacienda del Municipio, deberá hacerse en la Tesorería en la forma y plazos que se estipulen en el contrato respectivo. Para la enajenación de bienes raíces de la propiedad de los municipios se requerirá aprobación expresa del Congreso del Estado.
-
-II.- EL IMPORTE DE LOS ARRENDAMIENTOS DE LOS BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
-
-Este derecho se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A).- Locales situados en el
-
-interior y exterior de los
-
-Mercados, de conformidad
-
-con los contratos o
-
-concesiones que otorgue
-
-el Ayuntamiento. $1,000.00 $50,000.00
-
-B).- Estacionamientos en
-
-la vía pública (parquímetro),
-
-el costo por hora de este
-
-producto será de: $100.00 $5,000.00
-
-C).- Panteones
-
-Urbano por siete años adultos:
-
-1.- Fosa de 1ra. clase $1,000.00 $20,000.00
-
-2.- Fosa de 2da. clase $500.00 $15,000.00
-
-3.- Fosa de 3ra. clase $1,000.00 $10,000.00
-
-4.- Fosa de 4a. clase $700.00 $5,000.00
-
-5.- Fosa de 5a. clase $500.00 $4,000.00
-
-Urbano a perpetuidad adultos:
-
-1.- Fosa de 1ra. clase $1,000.00 $50,000.00
-
-2.- Fosa de 2da. clase $1,000.00 $45,000.00
-
-3.- Fosa de 3ra. clase $1,000.00 $40,000.00
-
-4.- Fosa de 4a. clase $500.00 $35,000.00
-
-5.- Fosa de 5a. clase $1,000.00 $25,000.00
-
-Urbano por siete años niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Urbano a perpetuidad niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Suburbano por siete años adultos:
-
-1.- Fosa de 1ra. clase $1,000.00 $10,000.00
-
-2.- Fosa de 2da. clase $1,000.00 $7,500.00
-
-3.- Fosa de 3ra. clase $800.00 $7,000.00
-
-4.- Fosa de 4a. clase $700.00 $5,000.00
-
-5.- Fosa de 5a. clase $600.00 $4,000.00
-
-Suburbano a perpetuidad adultos:
-
-1.- Fosa de 1ra. clase $2,000.00 $13,000.00
-
-2.- Fosa de 2da. clase $1,500.00 $12,000.00
-
-3.- Fosa de 3ra. clase $1,000.00 $11,000.00
-
-4.- Fosa de 4a. clase $900.00 $10,000.00
-
-5.- Fosa de 5a. clase $800.00 $9,000.00
-
-Suburbano por siete años niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Suburbano a perpetuidad niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-Bóveda urbano adultos:
-
-1.- Fosa de 1ra. clase $3,000.00 $20,000.00
-
-2.- Fosa de 2da. clase $2,000.00 $15,000.00
-
-3.- Fosa de 3ra. clase $1,750.00 $10,000.00
-
-4.- Fosa de 4a. clase $1,000.00 $9,000.00
-
-5.- Fosa de 5a. clase $800.00 $8,000.00
-
-Bóveda urbano niños:
-
-1.- Fosa de 1ra. clase
-
-2.- Fosa de 2da. clase
-
-3.- Fosa de 3ra. clase
-
-4.- Fosa de 4a. clase
-
-5.- Fosa de 5a. clase
-
-Estos pagarán el 80% de las cuotas de adultos según la clase.
-
-INHUMACIONES DE RESTOS:
-
-Se cobrará la cuota correspondiente a siete años de adultos, según la clase.
-
-REFRENDOS:
-
-Se cobrará la cuota correspondiente a siete años de adultos, según la clase.
-
-REINHUMACIONES:
-
-En las fosas a perpetuidad se cobrará la cuota correspondiente, según la clase o Bóveda.
-
-EXHUMACION DE RESTOS:
-
-Se cobrará según la clase, conforme la tarifa de siete años adultos.
-
-COMPLEMENTO A PERPETUIDAD:
-
-Se cobrará la diferencia por el importe total de la perpetuidad, según la clase.
-
-REINHUMACIONES EN EL MISMO PANTEON:
-
-Reihumaciones en fosas, criptas y lotes particulares, que se encuentren a perpetuidad, se cobrará la cuota establecida en sus diferentes clases por siete años.
-
-LOTES PARTICULARES:
-
-Por cada una de las gavetas que se construyan en los lotes particulares se cobrará las cuotas correspondientes de inhumaciones a perpetuidad, de acuerdo con la clase respectiva ya establecida; cubierto este producto ya no se causará el de inhumación.
-
-Por cada una de las gavetas, bóvedas o fosas que se construyan en forma adicional, se cobrará la cuota correspondiente de inhumación a perpetuidad. Cubierto este Producto no se causará el de Inhumación.
-
-MONUMENTOS Y CAPILLAS:
-
-Por construcción de capillas,
-
-criptas o colocación de
-
-monumentos, sobre el
-
-importe total de los
-
-mismos. 5% 25%
-
-TRASLACION DE CADAVERES ADULTOS:
-
-1.- Dentro el territorio
-
-del Estado. $1,000.00 $15,000.00
-
-2.- Fuera del territorio
-
-del Estado. $1,500.00 $30,000.00
-
-3.- Fuera del territorio
-
-Nacional.
-
-TRASLACION DE CADAVERES NIÑOS:
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente.
-
-TRASLACION DE RESTOS ADULTOS:
-
-1.- Dentro del territorio
-
-del Estado. $3,000.00 $15,000.00
-
-2.- Fuera del territorio
-
-del Estado. 4,000.00 20,000.00
-
-3.- Fuera del territorio Nacional.
-
-TRASLACION DE RESTOS NIÑOS:
-
-1.- Menores de 12 años pagarán la mitad de la cuota correspondiente.
-
-REAPERTURA DE FOSAS:
-
-1.- Según la clase. $500.00 $4,500.00
-
-Permiso para introducción
-
-de materiales. $500.00 $1,000.00
-
-Permiso para introducción
-
-de Automóviles $500.00 $1,000.00
-
-B).- ARRENDAMIENTO DE TERRENOS, MONTES, PASTOS Y DEMAS BIENES INMUEBLES PROPIEDAD DEL MUNICIPIO.
-
-Las rentas para el uso y aprovechamiento de bienes propiedad del Municipio se determinarán de acuerdo con las reglas que establezcan las estipulaciones que prevengan los contratos o concesiones que otorgue el Ayuntamiento.
-
-III.- LA EXPLOTACION O ENAJENACION DE CUALQUIER NATURALEZA DE LOS BIENES PROPIEDAD DEL MUNICIPIO.
-
-Los productos del usufructo de los bienes a que tenga derecho el Municipio se regularán por las estipulaciones que prevengan los contratos o Títulos Jurídicos respectivos que otorgue el propio Ayuntamiento.
-
-IV.- LOS CAPITALES Y VALORES DEL MUNICIPIO.
-
-Los productos de Capitales y Valores del Municipio se obtendrán de las estipulaciones contenidas en los Títulos Jurídicos que les den origen y que serán otorgados por el Ayuntamiento.
-
-V.- LOS BIENES DE BENEFICENCIA.
-
-VI.- ESTABLECIMIENTOS Y EMPRESAS DEL MUNICIPIO.
-
-DE LOS APROVECHAMIENTOS
-
-I.- INTERESES MORATOROS AL 8.25% SOBRE SALDOS INSOLUTOS
-
-II.- RECARGOS.
-
-Los contribuyentes que demoren el pago de los gravámenes que establece el Presupuesto de Ingresos, pagarán un recargo del 12.75% mensual o fracción de mes que se haya demorado el pago.
-
-III.- MULTAS IMPUESTAS A LOS INFRACTORES DE LOS REGLAMENTOS ADMINISTRATIVOS Y BANDO DE POLICIA.
-
-Este aprovechamiento se pagará de conformidad con la siguiente:
-
-TARIFA MINIMO MAXIMO
-
-A).- Multas a los infractores
-
-de los reglamentos Administrativos
-
-y Bando de Policía. $1,000.00 $50,000.00
-
-Las multas se observarán en cuanto a su monto, de conformidad con lo prescrito en el artículo 21 de la Constitución General de la República.
-
-IV.- VENTA DE BIENES MOSTRENCOS Y HALLAZGO DE TESOROS OCULTOS.
-
-Las ventas de bienes mostrencos deberán hacerse invariablemente en almoneda Pública (SUBASTA), de conformidad con lo que establece el Código Civil del Estado.
-
-V.- HERENCIAS Y DONACONES A FAVOR DEL MUNICIPIO
-
-Las cantidades en efectivo o bienes que tengan la hacienda del Municipio por concepto de Herencias, legados, Donativos y Subsidios se harán efectivos de acuerdo con las Leyes Respectivas y por las disposiciones de los Testadores o Donantes. La Asamblea Municipal tiene derechos de aceptar o repudiar las Herencias y Legados, Donaciones o Subsidios a que se refiere este rubro.
-
-VI.- CAUCIONES Y FIANZAS, CUYA PERDIDA SE DECLARE POR RESOLUCION FIRME A FAVOR DEL MUNICIPIO.
-
-VII.- GASTOS DE COBRANZA Y EJECUCION.
-
-Son gastos de cobranza y Ejecución los que se originen en el Procedimiento Administrativo de Ejecución, los cuales hará efectivos la Tesorería Municipal por los siguientes conceptos:
-
-TARIFA PORCENTAJE
-
-A).- Sobre el adeudo fiscal
-
-por la diligencia de notificación 2%
-
-B).- Sobre el importe del
-
-adeudo de embargo. 2%
-
-C).- Por los demás gastos
-
-que se eroguen en calidad
-
-de suplementos hasta la
-
-conclusión del procedimiento. 2%
-
-Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a una vez el Salario Mínimo general DIARIO de la zona económica correspondiente al de Pachuca, Hgo., se cobrará esta cantidad en vez del 2% del crédito.
-
-VIII.- OTROS INGRESOS NO ESPECIFICADOS.
-
-IX.- REINTEGROS.
-
-X.- INDEMNIZACIONES POR DAÑOS A BIENES MUNICIPALES
-
-XI.- SANCIONES POR LABORAR
-
-EN DIAS DE DESCANO
-
-OBLIGATORIO Y FESTIVOS. $500.00 $10,000.00
-
-XII.- MULTAS DE TRANSITO.
-
-XIII.- REZAGOS.
+> <small>N. DE E. PARA LA CONSULTA DE CUOTAS Y TARIFAS A QUE SE REFIERE EL PRESENTE ARTICULO REMITASE AL ALCANCE AL PERIODICO OFICIAL DE FECHA 31 DE DICIEMBRE DE 1988 PAGINAS 5 A 36.</small>
 
 T R A N S I T O R I O S:
 
@@ -6366,3 +1766,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE DICIEMBRE DE 1987.
 
 UNICO.- La presente Ley entrará en vigor el día primero de enero de 1988, y publicada en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1989.
+
+SEGUNDO.- Túrnese al Ejecutivo, para su sanción, publicación y cumplimiento en el Periódico del Gobierno del Estado, y demás efectos que consigna el artículo 51 de la Constitución Política de la Entidad.
