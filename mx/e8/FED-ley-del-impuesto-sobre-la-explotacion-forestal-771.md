@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-explotacion-forestal-771"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1975-12-31"
+last_updated: "1977-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-12-26"
 
 LEY DEL IMPUESTO SOBRE LA EXPLOTACION FORESTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 31 de diciembre de 1975.
 
@@ -157,7 +157,7 @@ excepto
 
 la resina
 
-de pino.
+de pino
 
 Se pagará
 
@@ -193,13 +193,17 @@ Para disfrutar de esta exención, los interesados deberán formular una solicitu
 
 La propia Secretaría de Agricultura y Ganadería vigilará, el correcto destino de los productos y, en caso de que las maderas llegaren a destinarse a finalidades diferentes, dará el aviso correspondiente a la de Hacienda y Crédito Público a efecto de que ésta proceda a exigir el impuesto a los causantes, independientemente de que se apliquen las sanciones que correspondan.
 
-Están exentas del pago del impuesto la explotación de la vegetación agrícola, hortícola y las praderas dedicadas al pastoreo.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+Están exentas del pago del impuesto la explotación de vegetación agrícola, hortícola y la de los ixtles de lechuguilla y palma, así como las praderas dedicadas al pastoreo.
 
 ###### ARTICULO 6o.
 
 El pago del gravamen a que se refiere esta Ley, deberá efectuarse dentro de los 15 días siguientes a la fecha en que se le notifique a los causantes las autorizaciones para la explotación forestal, por parte de la Secretaría de Agricultura y Ganadería. El pago del impuesto deberá hacerse ante la Tesorería de la Federación o ante cualquier Oficina Federal de Hacienda conforme a la liquidación que la propia Secretaría de Agricultura y Ganadería le comunique simultáneamente a la autorización.
 
-Dentro del plazo que fija el párrafo anterior, los causantes podrán solicitar de la Secretaría de Hacienda y Crédito Público autorización de pago mediante enteros mensuales e iguales, y por un plazo que no excederá del que la Secretaría de Agricultura y Ganadería establezca en cada autorización como límite para realizar la explotación. En estos casos se exigirá garantía del interés fiscal que se hará efectiva por el saldo insoluto por la falta de pago oportuno de cualquier mensualidad.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+Dentro del plazo que fija el párrafo anterior, los causantes podrán solicitar de la Secretaría de Hacienda y Crédito Público autorización de pago mediante enteros mensuales e iguales, y por un plazo que no excederá del que la Secretaría de Agricultura y Recursos Hidráulicos establezca en cada autorización como límite para realizar la explotación. En estos casos no se exigirá garantía del interés fiscal.
 
 ###### ARTICULO 7o.
 
@@ -252,3 +256,17 @@ Se deroga la Ley del Impuesto sobre la Explotación Forestal de 30 de diciembre 
 México, D. F. a 22 de diciembre de 1975.- Luis del Toro Calero, D. P.- Emilio M. González Parra, S. P.- Rogelio García González, D. S.- Germán Corona del Rosal, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Mario Ramón Beteta.- Rúbrica.- El Secretario de Agricultura y Ganadería, Oscar Brauer Herrera.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1977.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos setenta y ocho.
+
+###### ARTICULO OCTAVO.
+
+A partir de la fecha en que entren en vigor las reformas o adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en dichas reformas o adiciones.
