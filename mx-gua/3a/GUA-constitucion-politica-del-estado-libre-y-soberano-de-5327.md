@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1933-01-15"
+last_updated: "1933-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1933.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -59,7 +59,7 @@ En el Estado sólo podrán ejercer las profesiones de abogado, médico-cirujano,
 
 Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudican a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se hubieren dictado, y a sus causa-habientes.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1924)</small>
 
 ###### Art. 6º.
 
@@ -501,7 +501,9 @@ IX. Nombrar y remover libremente a sus empleados y concederles toda clase de lic
 
 X. Nombrar a las personas que formen las juntas reguladoras de jornales.
 
-XI. Formar los presupuestos de ingresos y egresos correspondientes al siguiente año económico y remitirlos, para su aprobación, a la Legislatura, en los primeros diez días de (sic) mes de marzo.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1933)</small>
+
+XI. Formar los Presupuestos de Ingresos y Egresos correspondientes al siguiente año económico y remitirlos, para su aprobación, a la Legislatura, en los primeros diez días del mes de noviembre.
 
 XII. Formar sus cuerpos de policía y cuidar de ésta en sus diversos ramos.
 
@@ -593,9 +595,11 @@ Los Diputados en ejercicio, no podrán aceptar ningún empleo público por el qu
 
 De los períodos de sesiones.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1933)</small>
+
 ###### Art. 40.
 
-La Legislatura del Estado, tendrá cada año dos períodos de sesiones ordinarias: el primero comenzará el 15 de septiembre y el segundo el primero de abril; su duración será de tres meses el primero y de dos el segundo, pudiendo prorrogarse uno y otro, hasta por un mes.
+La Legislatura del Estado, tendrá cada año dos períodos ordinarios de sesiones: el primero comenzará el 15 de septiembre y deberá inaugurarse en la Ciudad de Dolores Hidalgo, con excepción de los años en que la apertura del primer periodo ordinario de sesiones, coincida con la instalación de un nuevo Congreso, pues en estos casos la apertura deberá tener lugar precisamente en el Recinto Oficial del Poder Legislativo, en la Capital de esta Entidad. El segundo periodo se inaugurará el primero de abril. Su duración será de tres meses el primero y de dos el segundo, pudiendo prorrogarse uno y otro hasta por un mes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1919)</small>
 
@@ -733,7 +737,7 @@ II. Al Supremo Tribunal de Justicia.
 
 IV. A los Ayuntamientos.
 
-V. A las Legislaturas de los Estados.
+V. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1933)
 
 ###### Art. 50.
 
@@ -1095,8 +1099,12 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 28 DE ABRIL DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 15 DE ENERO DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 7 DE SEPTIEMBRE DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
