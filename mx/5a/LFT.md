@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1975-02-07"
+last_updated: "1975-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1975.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -676,7 +676,9 @@ A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia tam
 
 Los trabajadores tendrán derecho a un aguinaldo anual que deberá pagarse antes del día veinte de diciembre, equivalente a quince días de salario, por lo menos.
 
-Los que no hayan cumplido el año de servicio tendrán derecho a que se les pague en proporción al tiempo trabajado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+Los que no hayan cumplido el año de servicios, independientemente de que se encuentren laborando o no en la fecha de liquidación del aguinaldo, tendrán derecho a que se les pague la parte proporcional del mismo, conforme al tiempo que hubieren trabajado, cualquiera que fuere éste.
 
 ###### Artículo 88.
 
@@ -1248,9 +1250,9 @@ Cuando las empresas proporcionen a sus trabajadores casa en comodato o arrendami
 
 Cuando las habitaciones se den en arrendamiento a los trabajadores, la renta no podrá exceder del medio por ciento mensual del valor catastral de la finca y se observarán las normas siguientes:
 
-I. Las empresas están obligadas a mantenerlas en condiciones de habitabilidad y a hacer oportunamente las reparaciones necesarias y convenientes:
+I.- Las empresas están obligadas a mantenerlas en condiciones de habitabilidad y a hacer oportunamente las reparaciones necesarias y convenientes:
 
-II. Los trabajadores tienen las obligaciones siguientes:
+II.- Los trabajadores tienen las obligaciones siguientes:
 
 a). Pagar las rentas.
 
@@ -1260,7 +1262,7 @@ c). Poner en conocimiento de la empresa los defectos o deterioros que observen.
 
 d). Desocupar las habitaciones a la terminación de las relaciones de trabajo dentro de un término de cuarenta y cinco días y
 
-III. Está prohibido a los trabajadores:
+III.- Está prohibido a los trabajadores:
 
 a). Usar la habitación para fines distintos de los señalados en este capítulo.
 
@@ -3784,13 +3786,13 @@ I. La viuda, o el viudo que hubiese dependido económicamente de la trabajadora 
 
 II. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, a menos que se pruebe que no dependían económicamente del trabajador;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
 
-III.- A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio durante el concubinato, pero si al morir el trabajador, hombre o mujer mantenía relaciones de concubinato con varias personas, ninguna de ellas tendrá derecho a la indemnización.
+III.- A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
 
-IV.- A falta de cónyuge supérstite, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con el concubino, hombre o mujer, que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada uno dependía de él.
+IV.- A falta de cónyuge supérstite, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con la persona que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada una dependía de él; y
 
 V. A falta de las personas mencionadas en las fracciones anteriores, el Instituto Mexicano del Seguro Social.
 
@@ -7209,3 +7211,7 @@ D.O.F. 7 DE FEBRERO DE 1975.
 ###### ARTICULO UNICO.
 
 Esta reforma entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1975.
+
+UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
