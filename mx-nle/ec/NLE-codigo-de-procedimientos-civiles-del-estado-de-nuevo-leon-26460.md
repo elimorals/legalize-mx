@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1995-07-28"
+last_updated: "1996-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -179,9 +179,11 @@ En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las 
 
 Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el funcionario público a quien corresponda dar fe o certificar el acto.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Artículo 22.
 
-Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que a juicio del Tribunal convenga que sean secretas.
+Las Audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio, adopción y las demás en que a juicio del Tribunal, convengan que sean secretas.
 
 ###### Artículo 23.
 
@@ -725,7 +727,11 @@ c) De las acciones de nulidad, rescisión y evicción de la partición hereditar
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
-VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve pero si se trata de bienes raíces será el del lugar en que estén ubicados;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
+
+VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se trata de bienes raíces será el del lugar en que estén ubicados.
+
+En todo lo relativo a la adopción, el juez del domicilio del menor que se pretende adoptar;
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
@@ -2719,13 +2725,17 @@ Debe ejecutar las sentencias el juzgado que haya conocido del negocio en primera
 
 La Sala que haya pronunciado la sentencia, devolverá los autos al inferior, dentro de los tres días siguientes a la notificación, acompañándole testimonio, de la sentencia y de las notificaciones. Dicho testimonio se llamará ejecutoria debiendo hacerse constar ese carácter en el mismo, tomándose nota de su expedición en los autos.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Artículo 461.
 
-Todo lo que este Título se dispone respecto de la ejecución de las sentencias, comprende las transacciones extrajudiciales que consten en escritura pública y los convenios celebrados en juicio.
+Todo lo que en este Título se dispone respecto de la ejecución de sentencias, comprende los laudos arbítrales, las transacciones extrajudiciales que sean resultado de la conciliación, mediación o amigable composición, reconocidas judicialmente en autos, las transacciones que consten en escritura pública y los convenios celebrados en juicio.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 462.
 
-La ejecución de transacción en la vía de apremio que establece este capítulo no procede si no consta la transacción en escritura pública o judicialmente en autos.
+La ejecución de transacción en la vía de apremio que establece este capítulo, no procederá si no reúnen los requisitos señalados en el artículo anterior.
 
 ###### Artículo 463.
 
@@ -5375,7 +5385,7 @@ De la resolución que niegue la declaración solicitada puede apelar el promoven
 
 DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 897.
 
@@ -5597,6 +5607,12 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos por actos de jurisdicción voluntaria.
 
+### CAPITULO I
+
+DISPOSICIONES GENERALES.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Artículo 927.
 
 Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes:
@@ -5653,37 +5669,61 @@ Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tut
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
+### CAPITULO II
+
+DEL ACUERDO DE ARBITRAJE.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Artículo 935.
 
-El que pretenda adoptar a alguna persona deberá acreditar las exigencias del artículo 390 del Código Civil.
+El que pretenda adoptar deberá acreditar las exigencias del artículo 390 y demás relativos del Código Civil debiéndose observar lo siguiente:
 
-En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor o incapacitado, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil, domicilio del o de los adoptantes, y nombre, nacionalidad y domicilio de los padres del o de los adoptantes. En caso de querer variar el nombre del adoptado, se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
+I.- En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres del o los adoptantes. En caso de querer variar el nombre del adoptado, se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
 
-Si la adopción se hizo con anterioridad y faltaren datos del o de los adoptantes o padres de éstos, se acreditarán, por resolución pronunciada en jurisdicción voluntaria, o en procedimiento administrativo ante la Dirección del Registro Civil.
+II.- Si la adopción se hizo con anterioridad y faltaren datos del o los adoptantes o de los padres de éstos, se acreditarán por resolución pronunciada en jurisdicción voluntaria, o en procedimiento administrativo ante la Dirección del Registro Civil.
 
-Cuando el menor hubiese sido acogido por Institución Pública o privada el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos de la Fracción IV del Artículo 444 del Código Civil.
+III.- Cuando el menor hubiere sido acogido por institución pública o privada, el adoptante recabará constancia del tiempo de la exposición o abandono, para los efectos de la fracción IV del artículo 444 del Código Civil.
 
 Si hubieren transcurrido menos de tres meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
 
-Si el menor abandonado tuviere padres conocidos y no hubiere sido acogido por Institución Pública o Privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
+Si el menor abandonado no tuviere padres conocidos y no hubiere sido acogido por institución pública o privada, se decretará el depósito con el presunto adoptante, por el término de tres meses para los mismos efectos.
 
-Cuando se trate de adopciones respecto a menores expuestos en Instituciones protectoras de la niñez, el trámite de las mismas se hará a través de las Instituciones Oficiales sin costo alguno para los interesados.
+IV.- Cuando se trate de adopciones respecto a menores expuestos en instituciones protectoras de la niñez, el trámite de las mismas se hará a través de las instituciones oficiales sin costo alguno para los interesados.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 936.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obteniendo el consentimiento de las personas que deben darla conforme a los artículos 397 y 398 del Código Civil, el tribunal resolverá dentro del tercer día.
+Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil el tribunal resolverá dentro del tercer día.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 937.
 
-Cuando el adoptante y adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 407 del Código Civil.
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción semiplena a plena, y reunidos los requisitos de ésta, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, en la que resolverá lo conducente.
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo presentaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 938.
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 394 y 405 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+Cuando el adoptante y el adoptado pidan que la adopción semiplena sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el primer párrafo del artículo 407 del Código Civil.
+
+Si el adoptado fuere menor de edad, no se decretará la revocación sin oír al representante del Ministerio Público y sin recabar la opinión del Consejo Estatal de Adopciones.
+
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo 936, pueden rendirse toda clase de pruebas.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 938 Bis.
+
+La impugnación de la adopción y su revocación, en los casos de los artículos 401 y 405 fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+
+### CAPITULO III
+
+COMPOSICION DEL TRIBUNAL ARBITRAL.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 939.
 
@@ -5738,6 +5778,12 @@ Las informaciones se protocalizarán ante el Notario que designe el promovente, 
 ###### Artículo 943 Bis.
 
 En ningún caso se admitirá en jurisdicción voluntaria, la información de testigos sobre hechos que fueren materia de un juicio ya iniciado.
+
+### CAPITULO IV
+
+DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 944.
 
@@ -5795,6 +5841,12 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 
 Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designan y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
+### CAPITULO V
+
+DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Artículo 950.
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
@@ -5820,6 +5872,12 @@ DE LOS ASUNTOS DEL ORDEN FAMILIAR.
 ## TITULO UNICO
 
 > <small>(ADICIONADO CON LOS, ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+
+### CAPITULO VI
+
+PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 952.
 
@@ -5872,6 +5930,324 @@ Cuando los interesados necesiten rendir alguna otra prueba de las señaladas en 
 La resolución de la Sala se pronunciará en un plazo que nunca excederá de cinco días hábiles a contar del siguiente al en que se reciba el informe del Oficial del Registro Civil excepto en los casos del párrafo que antecede en que contará con un período no mayor de quince días hábiles, tanto para la recepción de las pruebas como para pronunciar la resolución.
 
 Contra la resolución de la Sala no procederá recurso alguno.
+
+> <small>(ADICIONADO CON SUS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+# LIBRO SEXTO
+
+DEL ARBITRAJE.
+
+> <small>(ADICIONADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+## TITULO UNICO
+
+> <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+### CAPITULO VII
+
+IMPUGNACION DEL LAUDO.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 958.
+
+Las partes tienen el derecho de sujetar sus diferencias al arbitraje en todas sus modalidades, considerándose entre éstas el arbitraje de estricto derecho, en conciencia o técnico. Asimismo podrán utilizar otros medios alternos tales como la amigable composición o mediación y la conciliación.
+
+El arbitraje de estricto derecho es aquél que para la decisión del negocio cuyo conocimiento se les ha sometido, tiene que sujetarse estrictamente a las prescripciones de la ley.
+
+El arbitraje en conciencia es aquél en el que se decide conforme a conciencia y a la equidad, sin sujetarse a las prescripciones y ritualidades de la ley.
+
+El arbitraje técnico tiene lugar cuando las partes convienen en someter a la decisión de expertos en una ciencia o arte, las controversias susceptibles de transacción que entre ellas se susciten.
+
+El arbitraje internacional quedará regulado por los tratados internacionales de que México sea parte, así como lo establecido en las leyes federales y por este Código en lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 959.
+
+Para los efectos del presente Capítulo se entenderá por arbitraje, el acuerdo por el que las partes deciden someter a este procedimiento todas o ciertas controversias que hayan surgido o puedan surgir entre ellas, respecto de una determinada relación jurídica, contractual o no contractual.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+### CAPITULO VIII
+
+RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 960.
+
+El acuerdo de arbitraje podrá adoptar la forma de una cláusula compromisoria incluida en un contrato o en la forma de un acuerdo independiente; deberá constar por escrito y consignarse en documento firmado por las partes o en un intercambio de cartas, télex, telegramas, facsímil u otros medios de comunicación electrónicos que dejen constancia del acuerdo, o en un intercambio de escritos de demanda y contestación en los que la existencia de un acuerdo sea afirmada por una parte sin ser negada por la otra. La referencia hecha en un contrato o un documento que contenga una cláusula compromisoria, constituirá acuerdo de arbitraje siempre que dicho contrato conste por escrito y la referencia implique que esa cláusula forma parte del contrato.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 961.
+
+Por medio del acuerdo arbitral, que comprende la cláusula compromisoria y el compromiso, las partes se obligan a someter sus diferencias a la decisión de árbitros, renunciando a hacer valer sus pretensiones ante los jueces.
+
+La cláusula compromisoria puede estipularse para someter a la decisión arbitral, todas o algunas de las diferencias que se susciten en relación con un contrato determinado; si éstas no se especificaren se presumirá que la cláusula compromisoria se extiende a todas las diferencias que puedan surgir de la relación contractual.
+
+El acuerdo arbitral puede pactarse una vez surgido el conflicto, antes o después de iniciado el proceso judicial; en este último caso, mientras no se dicte sentencia que haya causado ejecutoria.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 962.
+
+No se pueden comprometer en árbitros los siguientes negocios:
+
+I.- El derecho de recibir alimentos.
+
+II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
+
+III.- Las acciones de nulidad de matrimonio.
+
+IV.- Las concernientes al estado civil de las personas, con la excepción de la contenida en el artículo 339 del Código Civil;
+
+V.- Los demás que prohíba expresamente la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 963.
+
+Todo el que esté en pleno ejercicio de sus derechos civiles, puede comprometer en árbitros sus negocios.
+
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció la cláusula compromisoria. Si no hubiere designación de árbitros, se hará ésta siempre con intervención judicial, en los términos de este capítulo.
+
+Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor de la sucesión. En este caso, si no hubiere árbitro nombrado, se hará necesariamente con intervención judicial.
+
+Los síndicos de los concursos sólo pueden comprometer en árbitros por mayoría de votos de los acreedores, en proporción a sus créditos.
+
+Los Secretarios de Despacho podrán sujetar al arbitraje los negocios a su cargo, con autorización del Ejecutivo del Estado.
+
+Los Ayuntamientos podrán sujetar al arbitraje los negocios a su cargo con autorización del Congreso del Estado.
+
+Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 964.
+
+El compromiso designará el negocio o negocios que se sujeten al arbitraje y el nombre de los árbitros; si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 965.
+
+Las partes podrán determinar libremente el número de árbitros. A falta de cualquier acuerdo, será un solo árbitro.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 966.
+
+Para el nombramiento de árbitros se estará a lo siguiente:
+
+I.- Salvo acuerdo en contrario de las partes la nacionalidad de una persona no será obstáculo para que actúe como árbitro.
+
+II.- Sin perjuicio de lo dispuesto en las fracciones IV y V del presente artículo, las partes podrán acordar libremente el procedimiento para el nombramiento de árbitro.
+
+III.- En el arbitraje con árbitro único, si las partes no logran ponerse de acuerdo sobre la designación del árbitro, éste será nombrado, a petición de cualquiera de las partes por el Juez, quien tomará en cuenta las listas proporcionadas por organismos autorizados por la ley y tomando en consideración lo establecido en la Ley del Notariado, la Ley de Correduría Pública, la Ley de Cámaras de Industria y Comercio y organismos creados para impartir arbitraje.
+
+IV.- En el arbitraje con tres árbitros, cada parte nombrará un árbitro y los dos árbitros así designados nombrarán al tercero; si una parte no nombra al árbitro dentro de los diez días, que podrán prorrogarse hasta treinta días a petición de cualquiera de las partes, contados a partir del recibo de un requerimiento de la otra parte para que lo haga, o si los dos árbitros no consiguen ponerse de acuerdo sobre el tercer árbitro dentro de los diez días siguientes contados a partir de su nombramiento, la designación será hecha, a petición de cualquiera de las partes, por el Juez.
+
+V.- Cuando en un procedimiento de nombramiento convenido por las partes, una de ellas no actúe de acuerdo a lo estipulado en dicho procedimiento, o dos árbitros no puedan llegar a un acuerdo conforme al mencionado procedimiento, o bien, un tercero, incluida una institución, no cumpla alguna función que se le confiere en dicho procedimiento, cualquiera de las partes podrá solicitar al Juez que adopte las medidas necesarias, a menos que en el acuerdo sobre el procedimiento de nombramiento, se provean otros medios para conseguirlo, y,
+
+VI.- Toda decisión sobre las disposiciones encomendadas al Juez en la fracción III o IV del presente artículo será inapelable. Al nombrar un árbitro, el Juez tendrá debidamente en cuenta las condiciones requeridas para un árbitro estipuladas en el acuerdo entre las partes y tomará las medidas necesarias para garantizar el nombramiento de un árbitro independiente e imparcial. En el caso de árbitro único o del tercer árbitro, tomará en cuenta asimismo la conveniencia de nombrar un árbitro de nacionalidad distinta a la de las partes.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 967.
+
+La persona a quien se comunique su posible nombramiento como árbitro, deberá revelar las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. El árbitro desde el momento de su nombramiento y durante las actuaciones judiciales, revelará sin demora tales circunstancias a las partes, a menos que ya se hubieran hecho de su conocimiento.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 968.
+
+De los impedimentos, recusaciones y excusas de los árbitros conocerá el Juez Ordinario, sin ulterior recurso y conforme a lo previsto en el Título Tercero de este Código.
+
+El proceso arbitral se suspenderá en el caso de que el árbitro se declare impedido, acepte la recusación o se inicie el trámite de la misma hasta que sea resuelta. Igualmente se suspenderá el proceso por inhabilidad o muerte de alguno de los árbitros hasta que se provea su reemplazo.
+
+El tiempo requerido para el trámite de la recusación, la sustitución del árbitro impedido o recusado, la provisión del inhabilitado o fallecido se descontará del término señalado a los árbitros para que pronuncien su laudo.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 969.
+
+Salvo acuerdo en contrario de las partes, el árbitro o árbitros del conocimiento podrán a petición de una de ellas ordenar a cualquiera de las partes que adopten las medidas provisionales precautorias y cautelares que el árbitro o árbitros estimen necesarias respecto del objeto del arbitraje. También podrán exigir de cualquiera de las partes una garantía apropiada en conexión con esas medidas. La ejecución de las medidas cautelares sólo podrá hacerse por autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 970.
+
+Los honorarios, gastos de funcionamiento y costas de los árbitros serán fijados preferentemente en los términos del artículo 2499 del Código Civil vigente en el Estado de Nuevo León, por convenio de los interesados. A falta de convenio se sujetarán a las disposiciones del Arancel de Abogados vigente en el Estado sin perjuicio de los preceptos relativos de este Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 971.
+
+El árbitro o árbitros estarán facultados para decidir sobre su propia competencia, incluso sobre las excepciones relativas a la existencia o validez del acuerdo de arbitraje. A ese efecto, la cláusula compromisoria que forme parte de un contrato se considerará como un acuerdo independiente de las demás estipulaciones del contrato. La decisión que declare nulo un contrato no implica la nulidad de la cláusula compromisoria.
+
+La excepción de incompetencia deberá oponerse a más tardar en el momento de presentar la contestación. Las partes no se verán impedidas de oponer la excepción por el hecho de que hayan designado a un árbitro o participado en su designación. La excepción basada en que el de Arbitraje se ha excedido en su mandato, deberá oponerse tan pronto como se plantee durante las actuaciones arbitrales la materia que supuestamente exceda su mandato. El árbitro o árbitros podrán en cualquiera de los casos estimar una excepción presentada con posterioridad, si consideran justificada la demora.
+
+El árbitro o árbitros podrán decidir las excepciones a que se hace referencia en el párrafo anterior, desde luego o en el laudo sobre el fondo del asunto. Si antes de emitir laudo sobre el fondo, los árbitros se declaran competentes, cualquiera de las partes dentro de los treinta días siguientes a aquél en que se le notifique esa decisión podrá solicitar al Juez resuelva en definitiva, resolución que será inapelable. Mientras esté pendiente dicha solicitud, el árbitro o árbitros podrán proseguir sus actuaciones y dictar laudo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 972.
+
+Los árbitros deberán tratar a las partes con igualdad y dar a cada una de ellas plena oportunidad de hacer valer sus derechos. Las partes podrán señalar libremente el lugar del arbitraje y el idioma que se debe de emplear. En caso de no haberlo señalado, el árbitro determinará el lugar del mismo y el idioma, atendiendo a las circunstancias del caso, con la correspondiente traducción al idioma español.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 973.
+
+Las partes tendrán libertad para convenir el procedimiento a que se haya de ajustar el árbitro en sus actuaciones.
+
+A falta de acuerdo, en el arbitraje a conciencia y en el arbitraje técnico los árbitros resolverán en conciencia y a buena fe guardada sin sujeción a formalidades especiales pero observando las esenciales del procedimiento.
+
+En el arbitraje de estricto derecho, a falta de acuerdo de las partes, los árbitros se sujetarán a las siguientes reglas:
+
+I.- Dentro del plazo convenido por las partes o el determinado por el árbitro, el actor deberá expresar los hechos en que se funda la controversia, los hechos controvertidos y las prestaciones que reclama; y el demandado dentro del término de tres días deberá referirse a todo lo planteado en la demanda. Salvo acuerdo en contrario, las partes podrán modificar o ampliar su demanda o contestación, a menos que el árbitro considere improcedente la alteración de que se trate en razón de la demora.
+
+II.- Salvo acuerdo de las partes, el árbitro deberá señalar si ha lugar a audiencia para el ofrecimiento, calificación y recepción de pruebas.
+
+III.- Se concederá a las partes diez días comunes para formular alegatos orales o escritos.
+
+IV.- El árbitro deberá decidir sobre la controversia de conformidad con las normas de derecho elegidas por las partes. Si las partes no indican la ley que debe regir el fondo del litigio, el árbitro tomando en cuenta las características y conexiones del caso determinará el derecho aplicable.
+
+El árbitro decidirá como amigable componedor o en conciencia, si las partes le autorizaron expresamente a hacerlo.
+
+En todos los casos el árbitro decidirá con arreglo a las estipulaciones del acuerdo arbitral.
+
+V.- En las actuaciones arbitrales en que hubiera más de un árbitro toda decisión se adoptará, salvo acuerdo en contrario de las partes, por mayoría de votos. Sin embargo, el árbitro presidente podrá decidir cuestiones de procedimiento si así lo autorizan las partes o los demás miembros.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 974.
+
+Si durante las actuaciones arbitrales las partes llegaren a una transacción que resuelva la controversia, el árbitro dará por terminadas las actuaciones y si lo piden ambas partes, hará constar la transacción en forma de laudo arbitral en los términos que hayan convenido.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 975.
+
+El laudo se dictará por escrito y será firmado por el árbitro o árbitros. En actuaciones arbitrales con más de un árbitro bastará la firma de la mayoría, siempre que se deje constancia de la falta de las razones de una o más firmas.
+
+El laudo deberá ser motivado, a menos que las partes hayan convenido otra cosa o se trate de un laudo pronunciado a solicitud de las partes, conforme al artículo anterior.
+
+Constará en el laudo la fecha en que ha sido dictado y el lugar del arbitraje. El laudo se considerará dictado en ese lugar.
+
+Después de dictado el laudo, el árbitro lo notificará a cada una de las partes mediante entrega de una copia firmada. La resolución arbitral no admitirá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 976.
+
+Las actuaciones del arbitraje terminan por:
+
+I.- Laudo definitivo y
+
+II.- Orden del árbitro, cuando:
+
+a).- Cuando el actor desista de su demanda, a menos que el demandado se oponga a ello y el árbitro reconozca su legítimo interés en obtener una solución definitiva de litigio.
+
+b).- Las partes acuerden dar por terminadas las actuaciones, y
+
+c).- El árbitro compruebe que la prosecución de las actuaciones resultaría innecesaria o imposible.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 977.
+
+Dentro de los tres días siguientes a la notificación del laudo, salvo que las partes hayan acordado otro plazo, cualquiera de ellas podrá pedir al árbitro:
+
+I.- Corregir en el laudo cualquier error de cálculo, copia, tipográfico, de traducción o de naturaleza similar, que no afecte el fondo del mismo.
+
+II.- El árbitro podrá corregir cualquiera de los errores mencionados por su propia iniciativa, en un término no mayor de tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 978.
+
+Los laudos arbitrales sólo podrán ser anulados por el Juez del lugar del arbitraje en los siguientes casos:
+
+I.- Cuando una de las partes, en el acuerdo del arbitraje, haya estado afectada por alguna incapacidad, o que dicho acuerdo no es válido en virtud de la ley a que las partes se hayan sometido, salvo que la ley mexicana lo prohíba.
+
+II.- Cuando no fuere debidamente notificada una de las partes de la designación de un árbitro, o de las actuaciones arbitrales o no hubiere podido por cualquier otra razón hacer valer sus derechos.
+
+III.- Cuando el laudo se refiere a alguna controversia no prevista en el acuerdo de arbitraje o que contiene decisiones que excedan el término del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje puedan separarse de las que no lo están, sólo se podrán anular éstas últimas.
+
+IV.- Porque la composición del arbitraje o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes, salvo que dicho acuerdo estuviera en conflicto con una disposición del presente capítulo del que las partes no pudieran apartarse o, a falta de dicho acuerdo, que no se ajustaron al presente capítulo.
+
+V.- Cuando el Juez compruebe que según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje, o que el laudo es contrario al orden público.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 979.
+
+La petición de nulidad deberá formularse dentro de un plazo de tres días contados a partir de la fecha de la notificación del laudo.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 980.
+
+El Juez, cuando se le solicite la anulación de un laudo, podrá suspender las actuaciones de nulidad cuando corresponda, y si así lo solicita cualquiera de las partes por el plazo que determinen, a fin de dar al árbitro la oportunidad de reanudar las actuaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 981.
+
+El procedimiento de nulidad se substanciará incidentalmente, de conformidad con lo dispuesto en el Título Undécimo, Capítulo I del presente Código.
+
+La resolución no será objeto de recurso alguno.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 982.
+
+Reconocimiento y ejecución del laudo. Un laudo arbitral, cualquiera que sea el país en que se haya dictado, será reconocido como obligatorio y, después de la presentación de una petición por escrito al Juez, será ejecutado de conformidad con las disposiciones de este artículo.
+
+La parte que invoque un laudo o pida su ejecución, deberá presentar el original del laudo debidamente autentificado o copia certificada del mismo, y el original del acuerdo de arbitraje o copia certificada del mismo. Si el laudo o el acuerdo no estuvieran redactados en español, la parte que lo invoca deberá presentar una traducción a este idioma de dichos documentos, hecha por un traductor oficial.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 983.
+
+Sólo se podrá denegar el reconocimiento o la ejecución de un laudo arbitral, cualquiera que sea el país en que se hubiera dictado, por las causas de nulidad establecidas en el artículo 21 y no hayan sido hechas valer por los interesados.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 984.
+
+El procedimiento de reconocimiento o ejecución se substanciará incidentalmente en los términos del Título Undécimo, Capítulo I del Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 985.
+
+Los laudos arbitrales tendrán eficacia y serán reconocidos en el Estado, en todo lo que no sea contrario al orden público interno, en los términos de este Código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 986.
+
+Los efectos de los laudos arbitrales y resoluciones jurisdiccionales extranjeras están regidas por lo dispuesto en este Código y en las demás leyes aplicables.
+
+Para la ejecución y cumplimiento de los laudos arbitrales se estará a lo dispuesto por los artículos 459 y siguientes de este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 987.
+
+Las controversias susceptibles de transacción que surjan entre personas capaces de transigir, podrán ser sometidas a conciliación, mediación o amigable composición.
+
+La iniciativa de la conciliación, mediación o amigable composición podrá provenir de ambas partes o de una de ellas, antes o durante el procedimiento de arbitraje.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Artículo 988.
+
+El documento que contenga la correspondiente Transacción, cuando ésta sea el resultado de la Conciliación, Mediación o Amigable Composición, deberá ser reconocido ante la autoridad judicial a fin de que, si no se contravienen disposiciones de orden público ni se afectan derechos de terceros, sean aprobadas por el juez y se les dé, respecto de las partes, la misma eficacia y autoridad de cosa juzgada, en los términos del artículo 2845 del Código Civil.
 
 TITULO ESPECIAL
 
@@ -6161,7 +6537,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -6306,3 +6682,21 @@ Se derogan todas las disposiciones legales que se opongan a la presente reforma.
 ###### ARTICULO TERCERO.
 
 Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos.
+
+P.O. 9 DE FEBRERO DE 1996.
+
+DECRETO NUM. 154, QUE REFORMA EL CODIGO DE PROCEDIEMIENTOS CIVILES DEL ESTADO DE NUEVO LEON, EN SUS ARTICULOS 22, III, FRACCIÓN VIII, 935, 936, 937 Y 938, Y SE ADICIONA UN ARTÍCULO 938 BIS.
+
+###### ARTICULO PRIMERO
+
+- Las adopciones realizadas con anterioridad, podrán ser plenas mediante sentencia judicial que se apoye en un informe rendido por el Consejo Estatal de Adopciones y cumpliéndose con el procedimiento señalado en el artículo 937 del Código de Procedimientos Civiles.
+
+###### ARTICULO SEGUNDO
+
+- El presidente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE FEBRERO DE 1996.
+
+DECRETO NUM. 158, QUE SE REFORMA LOS ARTICULOS 461 Y 462, Y SE ADICIONA UN LIBRO SEXTO, A DENOMINARSE "DEL ARBITRAJE", CON UN TITULO UNICO, CAPITULOS I A VIII, QUE COMPRENDEN LOS ARTICULOS 958 A 988.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
