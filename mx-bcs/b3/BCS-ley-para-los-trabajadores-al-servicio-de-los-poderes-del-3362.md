@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-los-trabajadores-al-servicio-de-los-poderes-del-3362"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-20"
-last_updated: "1976-12-20"
+last_updated: "1979-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 20 de diciembre de 1976.
 
@@ -65,7 +65,9 @@ Los trabajadores se dividen en tres grupos: de confianza, de base y supernumerar
 
 SON TRABAJADORES DE CONFIANZA:
 
-I.- EN EL PODER EJECUTIVO: El Secretario General de Gobierno, el Oficial Mayor, el Secretario de Desarrollo, el Secretario de Finanzas, el Sub-Secretario de Finanzas, Secretarios Particulares y empleados de los mismos, los Procuradores, Sub-Procuradores y Agentes del Ministerio Público, Asesores y los Directores y Sub-Directores, Jefes de Departamentos, Cajeros Generales, Contralores, Manejadores de Fondos, Inspectores, Encargados Directos de Adquisiciones y Compras, Auditores, Presidentes de Juntas de Conciliación y Arbitraje, Encargados de Archivos, Museos y Bibliotecas, Personal del Centro de Cómputo, Pilotos y Persona de Aeronáutica, Patrones de Embarcaciones, Policía Judicial y Custodios de Prevención y Readaptación Social.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+I.- EN EL PODER EJECUTIVO, el Secretario General de Gobierno, el Oficial Mayor, el Secretario de Desarrollo, el Secretario de Finanzas, el Subsecretario de Finanzas, Secretarios Particulares y empleados de los mismos, los Procuradores, Subprocuradores y Agentes del Ministerio Público, Asesores, los Directores y Subdirectores, Jefes de Departamentos, Cajeros Generales, Contralores, Recaudadores y Subrecaudadores de Rentas, Inspectores, Encargados directos de adquisiciones y compras, Auditores, Presidentes de Juntas de Conciliación y Arbitraje, Jefes de Archivos, Museos, Bibliotecas y Centros de Cómputo, Pilotos y personal de aeronáutica, Patrones de embarcaciones, Policía Judicial y Custodios de Prevención y Readaptación Social.
 
 II.- EN EL PODER LEGISLATIVO: El Oficial Mayor, el Contador Mayor de Hacienda, los Auditores, los Asesores, el Pagador General.
 
@@ -77,7 +79,9 @@ IV.- EN LOS AYUNTAMIENTOS: El Secretario General, los Secretarios Particulares, 
 
 Son trabajadores de base:
 
-Los no incluidos en la enumeración anterior y que por ello serán inamovibles. Los de nuevo ingreso no serán inamovibles sino después de seis meses de servicio, sin nota desfavorable en su expediente.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+Los no incluidos en la enumeración anterior y que por ello serán inamovibles en sus plazas y lugar de residencia. Los de nuevo ingreso no serán inamovibles sino después de seis meses de servicio, sin nota desfavorable en su expediente.
 
 ###### ARTICULO 7o.
 
@@ -139,7 +143,9 @@ IV.- La duración de la jornada de trabajo;
 
 V.- El sueldo y demás prestaciones que habrá de percibir el trabajador y
 
-VI.- El lugar en que prestará sus servicios.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+VI.- El lugar en que prestará sus servicios y la dependencia de adscripción.
 
 ###### ARTICULO 16.
 
@@ -164,6 +170,8 @@ Enningún (sic) caso el cambio de funcionarios de un Poder del Estado o Ayuntami
 Los trabajadores de las distintas unidades de gobierno se clasificarán conforme a los grupos establecidos por el Catálogo de Empleados para la formación y aplicación del presupuesto de Egresos.
 
 ### CAPITULO CUARTO
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 21.
 
@@ -201,11 +209,15 @@ Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadam
 
 Serán días de descanso obligatorio:
 
-Primero de enero, 5 de febrero, 21 de marzo, primero de abril, 5 de abril de cada seis años, primero de mayo, 5 de mayo, primero de septiembre, 16 de septiembre, 20 de noviembre, primero de diciembre de cada seis años y 25 de diciembre.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+Primero de enero, 5 de febrero, 21 de marzo, primero de abril, 5 de abril de cada seis años, primero de mayo, 5 de mayo, primero de septiembre, 16 de septiembre, 12 de octubre, 20 de noviembre, primero de diciembre de cada seis años y 25 de diciembre.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 30.
 
-Los trabajadores que tengan más de seis meses consecutivos de servicios, disfrutarán de dos periodos anuales de vacaciones, de diez días laborables cada uno, en las fechas que se señalen al efecto; pero en todo caso quedarán guardias para la tramitación de los asuntos urgentes, para lo que se utilizarán de preferencia los servicios de quienes no tuvieren derecho a vacaciones. Cuando un trabajador no pudiere hacer uso de las vacaciones en los períodos señalados por necesidades del servicio, o alguna otra causa justificada, disfrutará de ellas durante los diez días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldo.
+Los trabajadores que tengan más de seis meses consecutivos y menos de diez años de servicios disfrutarán de dos períodos anuales de vacaciones de diez días labores cada uno, en las fechas que se señalan al efecto. Para los trabajadores que tengan más de diez años de servicios ininterrumpidos, los períodos anuales de vacaciones serán de quince días laborales cada uno. En todo caso quedarán guardias para la tramitación de los asuntos urgentes, para lo que se utilizarán de preferencia los servicios de quienes no tuvieren derecho a vacaciones. Cuando un trabajador no pudiere hacer uso de las vacaciones en los períodos señalados por necesidades del servicio, o alguna otra causa justificada, disfrutarán de ellas durante los diez o quince días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldo.
 
 ### CAPITULO QUINTO
 
@@ -251,13 +263,17 @@ V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, d
 
 El monto total de los descuentos no podrá exceder del treinta por ciento del importe del salario total, excepto en los casos a que se refieren las fracciones III, IV y V de este Artículo.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 38.
 
-Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de jornada ordinaria.
+Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se labore en los días de descanso obligatorio, la hora extra se pagará a los trabajadores a un doscientos por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se trabaje en días de descanso se cubrirá además una prima adicional de un veinticinco por ciento sobre el salario de los días ordinarios de trabajo.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 39.
 
-En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos 27 y 30, los trabajadores recibirán salario íntegro; cuando el trabajador disfrute el derecho de vacaciones, los Poderes del Estado y los Ayuntamientos le cubrirán previamente el salario correspondiente a las vacaciones más la prima vacacional del 25%.
+En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos 27 y 30, los trabajadores recibirán salario íntegro, cuando el trabajador disfrute de derecho de vacaciones, los Poderes del Estado y los Ayuntamientos le cubrirán previamente el salario correspondiente a las vacaciones más la prima vacacional del 25% sobre el importe de sueldo y sobresueldo.
 
 ###### ARTICULO 40.
 
@@ -271,7 +287,7 @@ Es nula la cesión de salarios a favor de tercera personal.
 
 ###### ARTICULO 42.
 
-Son obligaciones de los Titulares a que se refiere el artículo 1o. de esta Ley:
+Son obligaciones de los titulares a que se refiere el artículo 1o. de esta Ley:
 
 I.- Preferir, en igualdad de condiciones, de conocimientos, aptitudes y antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; y a los que acrediten tener mejores derechos conforme al escalafón.
 
@@ -283,7 +299,9 @@ III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieran sep
 
 IV.- De acuerdo con la partida que en el Presupuesto de Egresos se haya fijado para el efecto, cubrir las indemnizaciones por separación injustificada cuando los trabajadores hayan optado por ella, y pagar los salarios caídos en los términos del laudo definitivo;
 
-V.- Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+V.- Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido, en condiciones de funcionamiento e higiene;
 
 VI.- Cubrir las aportaciones que fijen las leyes especiales para que los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
 
@@ -309,7 +327,13 @@ Las licencias que se concedan en los términos del párrafo anterior, se computa
 
 IX.- Hacer las deducciones en los salarios, que solicite el Sindicato respectivo, siempre que se ajusten a los términos de esta Ley;
 
-X.- En caso de fallecimiento de un trabajador en servicio activo, los Poderes del Estado y los Ayuntamientos, cubrirán el importe de tres meses de sueldo íntegro para gastos de marcha, al familiar del trabajador que legalmente compruebe sus derechos.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+X.- En caso de fallecimiento de un trabajador en servicio activo, los Poderes del Estado y los Ayuntamientos cubrirán el importe de cuatro meses de sueldo íntegros para gastos de defunción, al familiar del trabajador que legalmente compruebe sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE DICIEMBRE DE 1979)</small>
+
+XI.- Cuando un trabajador de acuerdo con la Ley del ISSSTE tenga necesidad de iniciar los trámites para obtener su jubilación o pensión, los Poderes del Estado y Municipios, le concederán una licencia de treinta días con goce de sueldo para que pueda atender debidamente los trámites correspondientes. Cuando el trabajador reciba la aprobación de su jubilación o pensión, los Poderes del Estado y Municipios le concederán un empleo por el término de cuatro meses con el mismo sueldo que tenía asignado antes de su renuncia para poder sostenerse mientras se le inicia el pago de su retiro correspondiente.
 
 ### CAPITULO SEPTIMO
 
@@ -471,9 +495,11 @@ En los concursos se procederá por las Comisiones a verificar las pruebas a que 
 
 La vacante se otorgará al trabajador que habiendo sido aprobado de acuerdo con el reglamento respectivo obtenga la mejor calificación.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 61.
 
-Las Plazas de última categoría disponibles en cada grupo, una vez corrido los escalafones serán cubiertos libremente por el titular tomando en cuenta los empleados supernumerarios.
+Las plazas de última categoría disponibles en cada grupo, una vez corrido los escalafones, serán cubiertas libremente por el titular, tomando en cuenta los empleados supernumerarios y escuchando la opinión de la Comisión Mixta de Escalafón.
 
 ###### ARTICULO 62.
 
@@ -483,9 +509,11 @@ Cuando se trate de vacantes temporales que no excedan de tres meses no se mover�
 
 Las vacantes temporales mayores de tres meses serán ocupadas por riguroso escalafón; pero los trabajadores ascendidos serán nombrados en todo caso con el carácter de provisionales, de tal modo que si quien disfrute de la licencia reingresase al servicio, automáticamente se correrá en forma inversa el escalafón y el trabajador provisional de la última categoría correspondiente, dejará de prestar sus servicios sin responsabilidad para el titular.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 64.
 
-Las vacantes temporales mayores de tres meses serán las que se originen por licencias sin sueldo otorgada a un trabajador de base para desempeñar puestos de confianza, comisiones sindicales o cargos de elección popular.
+Las vacantes temporales mayores de tres meses serán las que se originen por licencias sin sueldo otorgada a un trabajador de base para desempeñar puestos de confianza o cargos de elección popular.
 
 ###### ARTICULO 65.
 
@@ -501,9 +529,11 @@ Los Sindicatos son las asociaciones de trabajadores que laboran, tanto en los Po
 
 En cada uno de los Poderes del Estado y Ayuntamientos se reconocerá un sindicato. En caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 68.
 
-Los trabajadores de Base y Supernumerarios tienen derecho a formar parte del Sindicato, pero una vez que obtengan su ingreso, no podrán dejar de formar parte de él, salvo que fueran expulsados. Los trabajadores que causen alta al servicio de los Poderes del Estado y Ayuntamientos con categorías de Base o Supernumerarios, automáticamente pasan a ser miembros del Sindicato.
+Los trabajadores de base y supernumerarios con esta categoría, así como los trabajadores a lista de raya tienen derecho a formar parte del Sindicato, pero una vez que obtengan su ingreso, no podrán dejar de formar parte de él, salvo que fueran expulsados. Los trabajadores que causen alta al servicio de los Poderes del Estado y Municipios con categoría de base o supernumerarios, automáticamente pasan a ser miembros del Sindicato.
 
 ###### ARTICULO 69.
 
@@ -996,3 +1026,11 @@ Dip. Lic. Antonio Alvarez Rico
 EL SECRETARIO
 
 Dip. Juventino Hernández Rubino.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE DICIEMBRE DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1980.
