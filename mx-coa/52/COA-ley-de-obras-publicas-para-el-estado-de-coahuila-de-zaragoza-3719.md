@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-para-el-estado-de-coahuila-de-zaragoza-37
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-24"
-last_updated: "1984-08-24"
+last_updated: "1995-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 24 de agosto de 1984.
 
@@ -65,51 +65,63 @@ I.- La construcción, instalación, conservación, mantenimiento, reparación y 
 
 II.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes inmuebles destinados a un servicio público o al uso común; y
 
-III.- Todos aquéllos de naturaleza análoga.
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+III.- Los proyectos integrales, que comprenden desde el diseño de la obra hasta su terminación total; y
+
+IV.- Todos aquéllos de naturaleza análoga.
 
 Los bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble necesario para la realización de las obras públicas, por administración directa, o los que suministren las dependencias y entidades conforme a lo pactado en los contratos de las obras, se sujetarán a las disposiciones de esta Ley, sin perjuicio de que las adquisiciones de los mismos se rijan por la ley respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 3°.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Dirección: La Dirección General de Planificación, Urbanismo y Obras Públicas del Estado;
+I.- Secretaría: Secretaría de Comunicaciones y Obras Públicas;
 
-II.- Contraloría: La Dirección General de la Contraloría del Estado;
+II.- Contraloría: Secretaría de la Contraloría del Estado;
 
-III.- Tesorería: La Tesorería General del Estado;
+III.- Dependencias: Las señaladas en las fracciones I y II del artículo 1° de esta ley;
 
-IV.- Dependencias: Las señaladas en las fracciones I y II del Artículo 1º. de esta Ley;
-
-V.- Entidades: Las señaladas en las fracciones III, IV y V del artículo 1°. de este Ordenamiento.
+IV.- Entidades: Las señaladas en las fracciones III y IV del artículo 1° de este ordenamiento.
 
 ###### ARTICULO 4°.
 
 El gasto de la obra pública se sujetará, en su caso, a lo previsto en los presupuestos anuales de egresos del Estado, y en su Ley Reglamentaria; así como en los de los Municipios de la Entidad; en las disposiciones de las leyes hacendarias respectivas y en lo conducente, a lo preceptuado en esta Ley.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 5°.
 
-Estarán sujetos también a lo establecido en esta Ley, los contratos de servicios relacionados con la obra pública, que requieran celebrar las dependencias y entidades mencionadas en el Artículo 1º. de este Ordenamiento.
+Estarán sujetos también a lo establecido en esta ley, los contratos que requieran celebrar las dependencias y entidades a que se refiere el artículo 1° de este ordenamiento, relativos a servicios relacionados con la obra pública, incluido los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra pública, así como los relativos a las investigaciones, asesorías y consultorías especializadas; y, la dirección o supervisión de la ejecución de las obras; los estudios que tengan por objeto rehabilitar, corregir o incrementar la eficiencia de las instalaciones cuando el costo de éstos sea superior al de los bienes muebles que deban adquirirse.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 6°.
 
-Sin perjuicio de lo anterior, y cuando sea procedente, se deberá lograr la concordancia con lo establecido en la Ley Federal de Obras Públicas cuando la naturaleza de la obra así lo exija.
+Sin perjuicio de lo anterior, y cuando sea procedente, se deberá lograr la concordancia con lo establecido en la Ley de Adquisiciones y Obras Públicas cuando la naturaleza de la obra así lo exija.
 
 Las obras públicas, serán directas o cooperativas. Las primeras son aquellas cuyo financiamiento total es aportado por alguna dependencia o entidad. Las cooperativas son aquellas cuyo financiamiento se integra con aportaciones de dependencias; entidades; de la Federación; y/o de los particulares, sin importar el porcentaje de la participación.
 
 Los dos tipos de obras podrán ser proyectadas y ejecutadas por las dependencias y entidades, en cuyo caso se llamarán obras públicas por administración; o mediante contratos celebrados con personas físicas o morales, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 7°.
 
-Corresponde al Ejecutivo del Estado aplicar las disposiciones de esta Ley a través de la Dirección, sin perjuicio de la intervención que se atribuya a otras dependencias del propio Ejecutivo conforme a éste u otro ordenamiento legal.
+Corresponde al Ejecutivo del Estado aplicar las disposiciones de esta ley a través de la Secretaría, sin perjuicio de la intervención que se atribuya a otras dependencias del propio Ejecutivo conforme a éste u otro ordenamiento legal.
 
-La Dirección, queda facultada para interpretar las disposiciones de esta Ley para efectos administrativos, oyendo la opinión de la Comisión consultiva de la Obra Pública del Estado, a que se refiere el artículo 13 de esta Ley.
+El Ejecutivo del Estado, expedirá las disposiciones administrativas que en aplicación de la presente ley deban observarse en la contratación, ejecución y supervisión de las obras a que la misma se refiere.
 
-El Ejecutivo del Estado, expedirá las disposiciones administrativas que en aplicación de la presente ley deban observarse en la contratación, ejecución de las obras.
+La aplicación de esta ley será sin perjuicio de lo dispuesto por los Tratados.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 8°.
 
-La ejecución de las obras públicas que realicen las dependencias y entidades con cargo total o parcial a fondos aportados por la Federación conforme a los convenios que celebren el Ejecutivo Federal y Estatal, estará sujeta a las disposiciones de la Ley de Federal de Obras Públicas y, en lo conducente, a lo ordenado por esta Ley, así como a lo pactado en los convenios a que se refiere este Artículo.
+La ejecución de las obras públicas que realicen las dependencias y entidades con cargo total o parcial a fondos aportados por la Federación conforme a los convenios que celebren el Ejecutivo Federal y Estatal, estará sujeta a las disposiciones de la Ley de Adquisiciones y Obras Públicas y, en lo conducente, a lo ordenado por esta ley, así como a lo pactado en los convenios a que se refiere este artículo.
 
 ###### ARTICULO 9°.
 
@@ -131,13 +143,17 @@ Las dependencias y entidades deberán formular y mantener actualizado el inventa
 
 Lo anterior será sin perjuicio de las facultades que en materia de inventarios, corresponda a otras dependencias del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 13.
 
-Se crea la Comisión Consultiva Estatal de la Obra Pública, como órgano de asesoría y consulta para la aplicación de esta Ley, que será presidida por el Titular de la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado, misma que se integrará con representantes de las dependencias del Ejecutivo que tengan relación con la preparación, ejecución, conservación y control de la obra pública en el Estado, así como de los Ayuntamientos de la Entidad que determine el titular del Poder Ejecutivo.
+Se crea el Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, como órgano de carácter institucional de opinión y dictamen, previo al fallo, respecto de los procedimientos referentes a las propuestas que se presenten en las licitaciones de obra pública y en las obras de administración directa.
 
-La Comisión Consultiva invitará a sus sesiones a representantes de otras dependencias y entidades públicas, así como de los sectores social y privado, cuando por la naturaleza de los asuntos que deba tratarse se considere, pertinente su participación.
+El Comité se integrará con un Coordinador que será el Titular de la Secretaría de Comunicación y Obras Públicas, un Secretario representante de esta misma dependencia, y un vocal de cada una de las Secretarías de Gobierno, Finanzas y Desaarrollo (sic) Social y de las dependencias ejecutora y destinataria de la obra.
 
-El Ejecutivo del Estado, establecerá las bases para la organización y funcionamiento de la Comisión.
+Considerando que la finalidad fundamental de este comité es de mayor transparencia al uso de los recursos del Gobierno del Estado, sus funciones consistirán en revisión, análisis, dictamen y fallo de los procedimientos de licitación para la adjudicación de las obras públicas aplicados en las diferentes dedpendencias (sic) estatales.
+
+El Ejecutivo del Estado establecerá las bases para la organización y funcionamiento del Comité.
 
 ## TITULO SEGUNDO. DE LA OBRA PUBLICA
 
@@ -171,6 +187,10 @@ VI.- Los efectos y consecuencias sobre las condiciones ambientales; cuando ésta
 
 VII.- Preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Además de lo previsto en las fracciones anteriores, las dependencias y entidades deberán propiciar la participación de los contratistas locales, regionales y estatales, en atención a los recursos, equipos y materiales con que cuenten, prefiriéndolos en igualdad de circunstancias.
+
 ###### ARTICULO 16.
 
 Las dependencias y entidades elaborarán los programas de obra pública y sus respectivos presupuestos con base en las políticas, prioridades, objetivos y estimaciones de recursos de la planeación del desarrollo del estado, considerando:
@@ -185,7 +205,9 @@ IV.- Las unidades responsables de su ejecución.
 
 Asimismo, los programas y presupuestos deberán incluir las acciones y recursos para llevar a cabo el proceso de planeación, programación, y presupuestación de las obras, a que se refiere este Capítulo.
 
-Las entidades remitirán sus programas de obra pública a la Contraloría y la dependencia coordinadora de sector en la fecha que éstas señalen.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Las dependencias y entidades remitirán sus programas de obra pública a la Contraloría, a la Subcomisión correspondiente del COPLADEC y a la dependencia coordinadora de sector en la fecha que éstas señalen.
 
 Las dependencias coordinadoras de sector, y en su caso las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Tesorería y a la Dirección los respectivos programas de obra pública en la fecha que estas determinen, para su análisis y en su caso integrarlos a la planeación del desarrollo del Estado.
 
@@ -249,7 +271,7 @@ VIII.- Cédula profesional, para el caso de prestación de servicios;
 
 IX.- Registro en el Instituto Mexicano del Seguro Social, en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y en el de Estadística de la Dirección;
 
-X.- Constancia que acredite encontrarse inscrito en el Padrón de Contratistas de la Secretaría de Programación y Presupuesto; y
+X.- (DEROGADA, P.O. 15 DE AGOSTO DE 1995)
 
 XI.- Los demás documentos e información que la Contraloría considere pertinentes.
 
@@ -299,29 +321,37 @@ Contra las resoluciones que nieguen las solicitudes de inscripción o revalidaci
 
 Las dependencias y entidades podrán contratar servicios relacionados con las obras públicas, siempre que se trate de servicios profesionales de investigación, consultoría y asesoría especializadas, estudios y proyectos para cualquiera de las fases de la obra pública, así como de dirección o supervisión.
 
-Los contratos a que se refiere este artículo podrán adjudicarse directamente bajo la responsabilidad de la dependencia o entidad, quedando en lo demás sujetos a las disposiciones de esta Ley y a las que de ella se deriven.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Los contratos a que se refiere este artículo podrán adjudicarse directamente bajo la responsabilidad de la dependencia o entidad, quedando sujetos a las disposiciones de esta ley y a las que de ella se deriven.
 
 Las dependencias o entidades que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las entidades o dependencias afines existen estudios o proyectos sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de la entidad o dependencia, no procederá la contratación.
 
 ### CAPITULO V. DE LA CONTRATACION Y DE LA EJECUCION DE LAS OBRAS
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 28.
 
-Las dependencias y entidades podrán realizar las obras públicas por contrato o por administración directa.
+Las dependencias y entidades podrán realizar las obras públicas por contrato o por administración directa, mediante licitación pública o por invitación restringida, a que se refiere la presente ley.
 
 ###### ARTICULO 29.
 
 Para que las dependencias y entidades puedan realizar obras, será menester que:
 
-I.- Las obras estén incluidas en el programa de inversiones autorizado por la Tesorería;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+I.- Las obras estén incluídas en el programa de inversiones autorizado por la Secretaría de Finanzas;
 
 II.- Se cuente con los estudios y proyectos, las normas y especificaciones de construcción, el presupuesto, el programa de ejecución y, en su caso, el programa de suministro; y
 
 III.- Se cumplan los trámites o gestiones complementarios que se relacionen con la obra y los que deban realizarse conforme a las disposiciones estatales y municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 30.
 
-Los contratos de obra pública se adjudicarán o llevarán a cabo, a través de licitaciones públicas, mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
+Los contratos de obra pública y de servicios relacionados con la misma, se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria pública para que libremente se presenten, por separado, proposiciones técnicas y económicamente solventes en sobres cerrados, que serán abiertos públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, eficiencia, servicio, financiamiento y demás circunstancias análogas, de acuerdo a lo que establece la presente ley.
 
 Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que el contrato sólo pueda celebrarse con una determinada persona por tratarse de trabajos cuya ejecución requiera de la aplicación especializada de sistemas y procedimientos de tecnología avanzada.
 
@@ -331,27 +361,93 @@ Las convocatorias, que podrán referirse a una o más obras, se publicarán en e
 
 I.- El nombre de la dependencia o de la entidad convocante;
 
-II.- El lugar y descripción general de la obra que se desee ejecutar;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
 
-III.- Los requisitos que deberán cumplir los interesados;
+II.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas;
 
-IV.- Información sobre los anticipos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
 
-V.- El plazo para la inscripción en el proceso de adjudicación, que no podrá ser menor de diez días hábiles contados a partir de la fecha de la publicación de la convocatoria;
+III.- El plazo para la inscripción en el proceso de licitación, que no podrá ser menor de diez días hábiles contados a partir de la fecha de la publicación de la convocatoria;
 
-VI.- El lugar, fecha y hora en que se celebrará el acto de la apertura de proposiciones;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
 
-VII.- La especialidad de acuerdo al Padrón de Contratistas, que se requiera para participar en el concurso; y
+IV.- La fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones;
 
-VIII.- Los criterios conforme a los cuales se decidirá la adjudicación.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
 
-En el ejercicio de sus respectivas atribuciones la Contraloría y la Dirección, podrán intervenir en todo el proceso de adjudicación del Contrato.
+V.- La especialidad de acuerdo al Padrón de Contratistas, que se requiera para participar en el concurso;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+VI.- La descripción de la obra y el lugar donde se llevarán a cabo los trabajos, así como, en su caso, la indicación de que podrá subcontratarse parte de la obra;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+VII.- Fecha estimada de inicio y terminación de los trabajos;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+VIII.- Los requisitos que deberán cumplir los interesados;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+IX.- La información sobre los porcentajes a otorgar por concepto de anticipos; y
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+X.- Los criterios generales conforme a los cuales se adjudicará el contrato.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+En el ejercicio de sus atribuciones la Contraloría podrá intervenir en todo el proceso de adjudicación del Contrato.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 31 BIS.- Las bases que emitan las dependencias y entidades para las licitaciones públicas se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta siete días naturales previos al acto de presentación y apertura de proposiciones y contendrán, cuando menos, lo siguiente:
+
+I.- Nombre de la dependencia o entidad convocante;
+
+II.- Poderes que deberán acreditarse; fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación; fecha, hora y lugar para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato;
+
+III.- Señalamiento de que será causa de descalificación, el incumplimiento de cualquiera de los requisitos establecidos en las bases de la licitación;
+
+IV.- El idioma o idiomas en que podrán presentarse las proposiciones;
+
+V.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los contratistas podrán ser negociadas;
+
+VI.- Criterios claros y detallados para la adjudicación de los contratos y la indicación de que en la evaluación de las proposiciones en ningún caso podrán utilizarse mecanismos de puntos o porcentajes;
+
+VII.- Proyectos arquitectónicos que se requieran para presentar la proposición; normas de calidad de los materiales y especificaciones de construcción aplicables; catálogo de conceptos, que contenga cantidades y unidades de trabajo; de los cuales los participantes deberán presentar análisis y relación de los costos básicos de materiales, mano de obra y maquinaria de construcción que intervienen en los análisis anteriores;
+
+VIII.- Relación de materiales y equipo de instalación permanente, que en su caso, proporcione la convocante;
+
+IX.- Origen de los fondos para realizar los trabajos y el importe autorizado para el primer ejercicio, en el caso de obras que rebasen un ejercicio presupuestal;
+
+X.- Forma y términos de pago de los trabajos objeto del contrato;
+
+XI.- Datos sobre la garantía de seriedad en la proposición; porcentajes, forma y términos del o los anticipos que se concedan y procedimiento de ajuste de costos;
+
+XII.- Lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que se deberá llevar a cabo cuando lo señale la dependencia o entidad convocante, considerando, cuando menos, efectuarla en un plazo no menor de siete días naturales anteriores a la fecha del acto de presentación y apertura de las proposiciones;
+
+XIII.- Información específica sobre las partes de las obras que podrán subcontratarse;
+
+XIV.- Fecha de inicio de los trabajos y fecha estimada de terminación;
+
+XV.- Modelo de contrato; y
+
+XVI.- Condiciones de precio y, tratándose de contratos celebrados a precio alzado, las condiciones de pago.
 
 ###### ARTICULO 32.
 
 Cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles a las que se refiere el Artículo 51 de la presente Ley, o cuando el costo de la obra no justifique el procedimiento establecido en los artículos anteriores, las convocatorias para la subasta se harán, previa resolución fundada que calificará las razones y circunstancias que concurran en cada caso, a las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
 
 La opción que las dependencias y entidades ejerzan en los términos del párrafo anterior, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el Artículo 35, deberán acreditar que la obra de que se trata se encuadra en algunos de los supuestos previstos en los Artículos 50 y 51, expresando, de entre los criterios mencionados, aquéllos en que se funde el ejercicio de la opción.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 32 BIS.- En las licitaciones públicas, la entrega de proposiciones se hará por escrito, mediante dos sobres cerrados que contendrán por separado, la propuesta técnica y la propuesta económica, incluyendo en esta última la garantía de seriedad de las ofertas.
+
+El plazo para la presentación y apertura de proposiciones no podrá ser inferior a cuarenta días naturales contados a partir de la fecha de publicación de la convocatoria, salvo que por razones de urgencia justificadas, no pueda observarse dicho plazo, en cuyo caso éste no podrá ser menor a diez días naturales contados a partir de la fecha de publicación de la convocatoria.
 
 ###### ARTICULO 33.
 
@@ -363,41 +459,109 @@ II.- La correcta inversión de los anticipos que, en su caso, reciban; y
 
 III.- El cumplimiento de los contratos que celebren.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 34.
 
-Las garantías que deban otorgar los contratistas de obras públicas y de servicios relacionados con las mismas, serán constituídas en favor de la Tesorería o de las Tesorerías Municipales, según sea el caso, salvo que se trate de empresas de participación estatal o municipal mayoritarias, en cuyo caso las garantías se constituirán en su favor.
+Las garantías que deban otorgar los contratistas de obras públicas y de servicios relacionados con las mismas, serán constituidas en favor de la Secretaría de Finanzas o de las Tesorerías Municipales, según sea el caso, salvo que se trate de empresas de participación estatal o municipal mayoritarias, en cuyo caso las garantías se constituirán en su favor.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 34 BIS.- La presentación y apertura de proposiciones, en que podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevarán a cabo en dos etapas, conforme a lo siguiente:
+
+A. En la primera etapa:
+
+I.- Los licitantes entregarán sus proposiciones en sobres cerrados en forma inviolable, se procederá a la apertura de la propuesta técnica exclusivamente y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la dependencia o entidad, transcurridos quince días naturales contados a partir de la fecha en que se de a conocer el fallo de la licitación;
+
+II.- Los licitantes y servidores públicos de la dependencia o entidad presentes rubricarán todas las proposiciones técnicas presentadas, así como los correspondientes sobres cerrados que contengan las proposiciones económicas de aquellos licitantes cuyas propuestas técnicas no hubieren sido desechadas, y quedarán en custodia de la propia dependencia o entidad, quien informará la fecha, lugar y hora en que se llevará a cabo la segunda etapa. Durante este período, la dependencia o entidad hará el análisis detallado de las propuestas técnicas aceptadas;
+
+III.- Se levantará acta de la primera etapa, en las que se hará constar las propuestas técnicas aceptadas para su evaluación, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma;
+
+B. En la segunda etapa:
+
+I.- Se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa o en el análisis detallado de las mismas, y se dará lectura en voz alta al importe total de las propuestas que cubran los requisitos exigidos. Los participantes rubricarán el catálogo de conceptos, en que se consignen los precios y el importe total de los trabajos objeto de la licitación;
+
+II.- Se señalarán fecha, lugar y hora en que se dará a conocer el fallo de la licitación, esta fecha deberá quedar comprendida dentro de los cuarenta días naturales contados a partir de la fecha de inicio de la primera etapa, y podrá diferirse por una sola vez, siempre que el nuevo plazo no exceda de cuarenta días naturales contados a partir del plazo establecido originalmente;
+
+III.- Se levantará acta de la segunda etapa en la que se hará constar las propuestas aceptadas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma;
+
+IV.- En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán acudir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, las dependencias y entidades podrán optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes; y
+
+V.- En el mismo acto de fallo o adjunta a la comunicación referida en la fracción anterior, las dependencias y entidades proporcionarán por escrito a los licitantes, la información acerca de las razones por las cuales su propuesta, en su caso, no fue elegida; asimismo se levantará el acta del fallo de la licitación que firmarán los participantes, a quienes se entregará copia de la misma.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 35.
 
-La dependencia o entidad convocante, con base en el análisis comparativo de las proposiciones admitidas y en su propio presupuesto de la obra, emitirá un dictamen que servirá como fundamento para el fallo.
+Las dependencias y entidades, para hacer la evaluación de las proposiciones técnicas y económicas, deberán verificar que las mismas incluyan la información, documentos y requisitos solicitados en las bases de la licitación, que el programa de ejecución sea factible de realizar dentro del plazo solicitado con los recursos considerados por el licitante y, que las características, especificaciones y calidad de los materiales sean de las requeridas por la convocante. También verificarán el debido análisis, cálculo e integración de los precios unitarios, conforme a las disposiciones que expida la Secretaría.
 
-En junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que, de entre los proponentes:
+Una vez hecha la evaluación de las proposiciones, y atendiendo la opinión y dictamen del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, el contrato será adjudicado a la persona que, de entre los licitantes, reúna los requisitos y condiciones legales, técnicos y económicos requeridos por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-I.- Reúna las condiciones legales, así como las técnicas y económicas requeridas por la convocante;
+Si resultare que dos o más proposiciones son solventes, es decir que reúnen las condiciones a que se refiere el párrafo anterior, y por tanto, satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien presente la proposición económica más baja.
 
-II.- Garantice satisfactoriamente el cumplimiento del contrato; y
+La dependencia o entidad convocante emitirá un dictamen que servirá como fundamento para el fallo, en el que hará constar el análisis de las proposiciones admitidas, y se hará mención de aquellas desechadas.
 
-III.- Cuente con la experiencia requerida por la convocante para la ejecución de los trabajos.
+Contra la resolución que contenga el fallo no procederá recurso alguno, pero los licitantes podrán inconformarse en los términos del capítulo primero del título cuarto de esta ley.
 
-Si una vez considerados los criterios anteriores resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el contrato se adjudicará a quien presente la postura más baja.
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
-Las dependencias y entidades no adjudicarán el contrato cuando las posturas presentadas no fueren aceptables y procederán a expedir una nueva convocatoria.
+ARTICULO 35 BIS.- Las dependencias y entidades procederán a declarar desierta una licitación cuando las posturas presentadas no reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables, y volverán a expedir una nueva convocatoria. Tratándose de licitaciones por invitación restringida, además de lo anterior, se declarará desierta cuando el número de las posturas solventes sea menor de tres.
 
-Contra la resolución que contenga el fallo, no procederá recurso alguno.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 36.
 
-No podrán presentar propuestas ni celebrar contrato alguno de obra pública, las personas físicas o morales siguientes:
+Las dependencias y entidades se abstendrán de recibir propuestas o celebrar contrato alguno de obra pública, con las personas físicas o morales siguientes:
 
-I.- Aquellas en cuyas empresas participe el funcionario que deba decidir directamente, o los que le hayan delegado tal facultad sobre la adjudicación del contrato, o su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado, sean accionistas, administradores, gerentes, apoderados o comisarios;
+I.- Aquellas que no cuenten con su registro en el Padrón de Contratistas del Gobierno del Estado, conforme a lo dispuesto por este ordenamiento;
 
-II.- Los contratistas que por causas imputables a ellos mismos se encuentren en situación de mora, respecto de la ejecución de otra u otras obras públicas que tengan contratadas; y
+II.- Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas en que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-III.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
+III.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-En los casos a que se refiere el artículo 8o. se aplicará lo dispuesto por este artículo, para lo cual se pactará lo conducente en los convenios respectivos.
+IV.- Aquellos contratistas que, por causas imputables a ellos mismos, la dependencia o entidad convocante les hubiere rescindido administrativamente un contrato, en más de una ocasión, dentro de un lapso de dos años calendario contado a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia dependencia o entidad convocante durante dos años calendario contados a partir de la fecha de rescisión del segundo contrato;
 
-Lo establecido en este artículo se aplicará también a los contratos de servicios relacionados con la obra pública.
+V.- Los contratistas que se encuentren en el supuesto de la fracción anterior respecto de dos o más dependencias o entidades, durante un año calendario, contado a partir de la fecha en que la Secretaría lo haga del conocimiento de las dependencias y entidades de la Administración Pública Estatal;
+
+VI.- Las que no hubieren cumplido sus obligaciones contractuales de obra pública, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicada gravemente la dependencia o entidad respectiva;
+
+VII.- Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe, en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien en la presentación o desahogo de una inconformidad;
+
+VIII.- Las que, en virtud de la información con que cuente la Contraloría en el Padrón de Contratistas, hayan celebrado contratos en contravención con esta ley;
+
+IX.- Aquellas a las que se les declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
+
+X.- Las que realicen o vayan a realizar por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de coordinación, supervisión, y control de obra e instalaciones, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y de resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o la elaboración de cualquier otro documento para la licitación de la adjudicación del contrato de la misma obra;
+
+XI.- Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y la dependencia o entidad; y
+
+XII.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 36 BIS.- Los contratos de obra pública contendrán, como mínimo, las declaraciones y estipulaciones referentes a:
+
+I.- La autorización de la inversión para cubrir el compromiso derivado del contrato;
+
+II.- El precio a pagar por los trabajos objeto del contrato;
+
+III.- La fecha de iniciación y terminación de los trabajos;
+
+IV.- Porcentajes, número y fechas de las exhibiciones y amortización de los anticipos para inicio de los trabajos;
+
+V.- Forma y términos de garantizar la correcta inversión de los anticipos y el cumplimiento del contrato;
+
+VI.- Plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados, así como de los ajustes de costos;
+
+VII.- Montos de las penas convencionales;
+
+VIII.- Forma en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso para la contratación o durante la ejecución de la obra;
+
+IX.- Procedimiento de ajuste de costos que deberá ser determinado desde las bases de la licitación por la dependencia o entidad, el cual deberá regir durante la vigencia del contrato;
+
+X.- La descripción pormenorizada de la obra que se deba ejecutar, debiendo acompañar como parte integrante del contrato, los proyectos, planos, especificaciones, programas y presupuestos correspondientes; y
+
+XI.- Los procedimientos mediante los cuales las partes, entre sí, resolverán controversias futuras y previsibles que pudieren versar sobre problemas específicos de carácter técnico y administrativo.
 
 ###### ARTICULO 37.
 
@@ -407,7 +571,23 @@ Si el interesado no firmare el contrato perderá en favor de la convocante la ga
 
 El contratista a quien se adjudique el contrato, no podrá hacer ejecutar la obra por otro; pero, con autorización previa de la dependencia o entidad respectiva, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. En estos casos, el contratista seguirá siendo responsable de la ejecución de la obra ante la dependencia o entidad y el subcontratista no quedará subrogado en ninguno de los derechos del primero.
 
-La adjudicación y firma del contrato se comunicará a la Contraloría, a la Dirección y en su caso a la dependencia coordinadora de sector.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+La adjudicación y firma del contrato se comunicará a la Contraloría, a la Secretaría y, en su caso, a la dependencia coordinadora de sector.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 37 BIS.- El otorgamiento de los anticipos se deberá pactar en los contratos de obra pública conforme a lo siguiente:
+
+I.- Los importes de los anticipos concedidos serán puestos a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. Cuando el contratista no entregue la garantía de los anticipos dentro de los quince días naturales siguientes a la fecha en que reciba copia del fallo de adjudicación, no procederá el diferimiento y por tanto deberá iniciar la obra en la fecha establecida originalmente.
+
+Los contratistas, en su proposición, deberán considerar para la determinación del costo financiero de los trabajos, el importe de los anticipos;
+
+II.- No se otorgarán anticipos para los convenios que se celebren en los términos del artículo 40 de esta ley;
+
+III.- Para la amortización de los anticipos en los casos de rescisión de contrato, el saldo por amortizar se reintegrará a la dependencia o entidad en un plazo no mayor de veinte días naturales contados a partir de la fecha en que le sea comunicada la rescisión al contratista;
+
+El contratista que no reintegre el saldo por amortizar en el plazo señalado en esta fracción, cubrirá los cargos que resulten conforme a una tasa que será igual a la establecida en las leyes fiscales del Estado en los casos de prórroga para el pago de créditos fiscales.
 
 ###### ARTICULO 38.
 
@@ -421,27 +601,77 @@ Formarán parte del contrato la descripción pormenorizada de la obra que se deb
 
 La ejecución de la obra contratada deberá iniciarse en la fecha señalada, y para ese efecto, la dependencia o entidad contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 39 BIS.- Las dependencias y entidades establecerán la residencia de supervisión con anterioridad a la iniciación de la obra, y será la responsable directa de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas.
+
 ###### ARTICULO 40.
 
 Las dependencias y entidades podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el 25% del monto o del plazo pactados en el contrato, ni impliquen variaciones sustanciales al proyecto original.
 
 Si las modificaciones exceden el porcentaje indicado o varíen sustancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones en los términos del artículo 29 de la presente Ley. Este convenio adicional deberá ser autorizado por el titular de la dependencia o entidad. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
-De las modificaciones a que se refiere el párrafo anterior, el titular de la dependencia o entidad informará a la Dirección y a la Contraloría y en su caso, a la dependencia coordinadora de sector, en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+De las modificaciones a que se refiere el párrafo anterior, el titular de la dependencia o entidad informará a la Dirección y a la Contraloría y, en su caso, a la dependencia coordinadora de sector en un plazo no mayor de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 41.
 
-Las dependencias y entidades podrán suspender temporalmente, en todo o en parte la obra contratada por cualquier causa justificada, notificando a la Tesorería y a la Contraloría a la dependencia coordinadora de sector y al contratista las causas que motivaron tales suspensiones. En el caso de obras realizadas con fondos federales, la información a que se refiere el párrafo anterior, se proporcionará además a la Secretaría de Programación y Presupuesto.
+Las dependencias y entidades podrán suspender, rescindir administrativamente o terminar anticipadamente un contrato de obra pública o de servicios relacionados con la misma, observando lo siguiente:
 
-Las dependencias y entidades podrán rescindir administrativamente los contratos de obra por razones de interés general o por contravención de los términos del contrato o de las disposiciones de esta Ley. Tal circunstancia deberá ser informada a las dependencias señaladas en el párrafo anterior, así como al contratista correspondiente.
+I.- Cuando se determine la suspensión de la obra o se rescinda el contrato por causas imputables a la dependencia o entidad, ésta pagará los trabajos ejecutados, así como los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
+
+II.- En caso de rescisión del contrato por causas imputables al contratista, la dependencia o entidad, procederá a hacer efectivas las garantías y se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito correspondiente, lo que deberá efectuarse dentro de los cuarenta días naturales siguientes a la fecha de notificación de la rescisión. En dicho finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados;
+
+III.- Cuando concurran razones de interés general que den origen a la terminación anticipada del contrato, la dependencia o entidad pagará al contratista los trabajos ejecutados, así como los gastos no recuperables, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato de que se trate; y
+
+IV.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá suspender la obra. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud a la dependencia o entidad, quien resolverá dentro de los veinte días naturales siguientes a la recepción de las (sic) misma; en caso de negativa, será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente.
+
+En los casos señalados en las fracciones anteriores, las dependencias y entidades notificarán de ello a la Secretaría de Finanzas y a la Contraloría. Tratándose de obras realizadas con fondos federales, la información también será proporcionada a la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 42.
 
 Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercicio, se formularán y autorizarán bajo la responsabilidad de la dependencia o entidad.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Dichas estimaciones se presentarán por el contratista, a más tardar, a la dependencia o entidad por períodos mensuales, acompañadas de la documentación que acredite la procedencia de su pago.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Las estimaciones de trabajo ejecutados deberán pagarse por parte de la dependencia o entidad, bajo su responsabilidad, dentro de un plazo no mayor de treinta días naturales, contados a partir de la fecha en que las hubiera aprobado el residente de supervisión de la obra de que se trate.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 43.
 
-Cuando durante la vigencia de un contrato de obras ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción en un cinco por ciento o más de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados. Las dependencias o entidades emitirán la resolución que acuerde el aumento o reducción correspondiente.
+Cuando ocurran circunstancias de orden económico no previstas en el contrato, que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos podrán ser revisados, atendiendo a lo acordado por las partes en el respectivo contrato. El aumento o reducción correspondiente deberá constar por escrito.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 43 BIS.- El procedimiento de ajuste de costos deberá pactarse en el contrato y se sujetará a lo siguiente:
+
+I.- Los ajustes se calcularán a partir de la fecha en que se haya producido el incremento o decremento en los costos de los insumos respecto de la obra faltante de ejecutar, conforme al programa de ejecución pactado en el contrato o, en caso de existir atraso no imputable al contratista, con respecto al programa vigente.
+
+Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de costos exclusivamente para la obra que debiera estar pendiente de ejecutar conforme al programa originalmente pactado;
+
+II.- Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los relativos o el índice que determine la Secretaría. Cuando los relativos que requiera el contratista o la contratante no se encuentren dentro de los publicados por la Secretaría, las dependencias y entidades procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que expida la Secretaría;
+
+III.- Los precios del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés propuesta; y
+
+IV.- A los demás lineamientos que para tal efecto emita la Secretaría.
+
+El ajuste de costos que corresponda a los trabajos ejecutados conforme a las estimaciones correspondientes, deberá cubrirse por parte de la dependencia o entidad, a solicitud del contratista, a más tardar dentro de los treinta días siguientes a la fecha en que la dependencia o entidad resuelva por escrito el aumento o reducción respectivo.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 43 TER.- En caso de incumplimiento en los pagos de estimaciones y ajustes de costos, la dependencia o entidad, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida en las leyes fiscales del Estado en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días calendario desde que se venció el plazo, hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
+
+Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso, más los intereses correspondientes, conforme a una tasa que será igual a la establecida en las leyes fiscales del Estado en los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días calendario desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
+
+Lo previsto en este artículo deberá pactarse en los contratos respectivos.
 
 ###### ARTICULO 44.
 
@@ -452,6 +682,22 @@ Respecto de los trabajos ejecutados por las dependencias o entidades dicho aviso
 ###### ARTICULO 45.
 
 Concluída la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos, y de cualesquiera otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo, en esta Ley, y en la legislación civil aplicable.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Para garantizar durante un plazo de dieciocho meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, los contratistas, a su elección, podrán constituir fianza por el equivalente al diez por ciento del monto total ejercido de la obra; presentar una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de la obra, o bien, aportar recursos líquidos por una cantidad equivalente al cinco por ciento del monto total ejercido de la obra, o bien, aportar recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Los recursos aportados en fideicomiso deberán invertirse en instrumentos de renta fija.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Los contratistas, en su caso, podrán retirar sus aportaciones en fideicomiso y los respectivos rendimientos, transcurridos dieciocho meses a partir de la fecha de recepción de los trabajos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+Quedarán a salvo los derechos de las dependencias y entidades para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
 
 ###### ARTICULO 46.
 
@@ -499,9 +745,15 @@ V.- Cuando se trate de trabajos de conservación, mantenimiento, restauración, 
 
 VI.- Cuando se trate de trabajos que requieran, fundamentalmente, de mano de obra y la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes.
 
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+VII.- Cuando por circunstancias de urgencia, la obra deba iniciarse de inmediato y terminarse en un plazo perentorio, conforme lo determine el titular de la Dependencia o Entidad.
+
 Para los casos previstos en las fracciones anteriores, se convocará a la o las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
 
-El titular de la dependencia o entidad, en un plazo que no excederá de diez días hábiles contados a partir de la fecha de iniciación de los trabajos deberá informar de estos hechos a la Contraloría, a la Dirección y en su caso a la dependencia coordinadora de sector.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+El titular de la dependencia o entidad en un plazo que no excederá de diez días hábiles contados a partir de la fecha de iniciación de los trabajos, deberá informar de estos hechos a la Contraloría, a la Secretaría y, en su caso, a la dependencia coordinadora de sector.
 
 ###### ARTICULO 52.
 
@@ -515,11 +767,29 @@ Para los efectos de aplicación de este precepto, cada obra deberá considerarse
 
 Los montos máximos y límites, se fijarán atendiendo a la cuantía de las obras, consideradas individualmente, y en función de la inversión total autorizada a las dependencias y entidades.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+El procedimiento que se llevará conforme a lo dispuesto por este artículo en cuanto a la invitación de por lo menos a tres contratistas, se sujetará a lo siguiente:
+
+I.- La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero siempre se invitará a un representante de la Contraloría;
+
+II.- Para llevar a cabo la evaluación, se deberá contar con un mínimo de tres propuestas;
+
+III.- En las bases o invitaciones se indicarán, como mínimo, los aspectos que corresponden al artículo 31 BIS;
+
+IV.- Los interesados que acepten participar, lo manifestarán por escrito y quedarán obligados a presentar su proposición;
+
+V.- Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos; y
+
+VI.- Las demás disposiciones de licitación pública previstas en esta ley, que resulten aplicables.
+
 ### CAPITULO V (SIC). DE LA INFORMACION Y VERIFICACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 53.
 
-Las dependencias y entidades deberán remitir a la Contraloría, y a la Dirección en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
+Las dependencias y entidades deberán remitir a la Contraloría y a la Secretaría, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
 
 Las dependencias mencionadas en el párrafo anterior, así como las dependencias coordinadoras del sector, podrán solicitar en todo tiempo la documentación completa o específica relativa a cualquier obra. Para tal efecto, las dependencias y entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria del gasto de dichas obras, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
 
@@ -531,27 +801,37 @@ Las dependencias y entidades, controlarán todas las fases de las obras pública
 
 La Contraloría y las dependencias coordinadoras de sector en el ejercicio de sus respectivas facultades, podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas, se realicen conforme a las establecidas en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 56.
 
-Las dependencias y entidades proporcionarán todas las facilidades necesarias a fin de que la Contraloría, la Dirección, y en su caso las dependencias coordinadoras de sector, puedan realizar el seguimiento y control de las obras públicas.
+Las dependencias y entidades proporcionarán todas las facilidades necesarias a fin de que la Contraloría, la Secretaría y, en su caso, las dependencias coordinadoras de sector, puedan realizar el seguimiento y control de las obras públicas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 57.
 
-Cuando la Dirección o la dependencia coordinadora de sector tengan conocimiento de que una dependencia o entidad, no se hubiere ajustado a las disposiciones de esta Ley y demás aplicables, procederá como sigue:
+Cuando la Secretaría o la dependencia coordinadora de sector tengan conocimiento de que una dependencia o entidad, no se hubiere ajustado a las disposiciones de esta ley y demás aplicables, procederá como sigue:
 
-I.- Si la responsable de la obra fuera una dependencia, la Dirección le solicitará las aclaraciones que estime pertinentes, o le comunicará la existencia de la violación precisándole en que consiste. La Dirección podrá indicar las medidas que la dependencia deberá tomar para corregirla y fijará el plazo dentro del cual deberá subsanarla;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+I.- Si la responsable de la obra fuera una dependencia, la Secretaría le solicitará las aclaraciones que estime pertinentes, o le comunicará la existencia de la violación precisándole en que consiste. La Secretaría podrá indicar las medidas que la dependencia deberá tomar para corregirla y fijará el plazo dentro del cual deberá subsanarla;
 
 II.- Si la responsable fuere una entidad, la dependencia coordinadora del sector correspondiente actuará conforme a la fracción anterior; y
 
-III.- Dentro del plazo que se hubiere señalado, la dependencia o entidad responsable, dará cuenta a la Dirección o a la dependencia coordinadora de sector del cumplimiento que hubiere hecho.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+III.- Dentro del plazo que se hubiere señalado, la dependencia o entidad responsable, dará cuenta a la Secretaría o a la dependencia coordinadora de sector del cumplimiento que hubiere hecho.
 
 ## TITULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 58.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, podrán ser sancionados por la Contraloría con multa equivalente a la cantidad de diez a mil veces el salario mínimo general diario, vigente en la zona económica correspondiente a la capital del Estado.
+Quienes infrinjan las disposiciones contenidas en esta ley o las normas que con base en ella se dicten, podrán ser sancionados por la Contraloría con multa equivalente a la cantidad de mil a diez mil veces el salario mínimo general diario vigente en el Estado. En caso de reincidencia, se aplicará hasta en tres veces la multa a que se refiere este artículo.
 
 Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas.
 
@@ -595,15 +875,57 @@ Las responsabilidades a que se refiere la presente Ley, serán independientes de
 
 Los actos, convenios, contratos y negocios jurídicos que las dependencias y entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
 
-## TITULO CUARTO. DE LOS RECURSOS ADMINISTRATIVOS
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
-### CAPITULO UNICO
+## TITULO CUARTO. DE LAS INCONFORMIDADES Y DE LOS RECURSOS ADMINISTRATIVOS
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+### CAPITULO PRIMERO. DE LAS INCONFORMIDADES
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 64 BIS.- Las personas interesadas podrán inconformarse por escrito ante la Contraloría por los actos que contravengan las disposiciones objeto de esta ley, dentro de los diez días hábiles siguientes a aquél en que éste ocurra o el inconformante tenga conocimiento del acto impugnado, manifestando, bajo protesta de decir verdad los hechos que le consten relativos al acto o actos impugnados y acompañar la documentación que sustente su petición. La falta de protesta indicada será causa de desechamiento de la inconformidad.
+
+Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten al órgano de control de la convocante, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato respectivo, a fin de que las mismas se corrijan.
+
+Al escrito de inconformidad podrá acompañarse, en su caso, la manifestación aludida en el párrafo precedente, la cual será valorada por la Contraloría durante el período de investigación.
+
+Transcurridos los plazos establecidos en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
+
+La manifestación de hechos falsos se sancionará conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 64 TER.- La Contraloría de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones correspondientes dentro de un plazo que no excederá de 25 días naturales contados a partir de la fecha en que se inicien y, resolverá lo conducente.
+
+Las dependencias y entidades proporcionarán a la Contraloría la información requerida para sus investigaciones, dentro de los ocho días naturales siguientes contados a partir de la recepción de la respectiva solicitud. Durante la investigación de los hechos, podrá suspenderse el proceso de licitación cuando:
+
+I.- Se advierta, que existan o pudieran existir actos contrarios a las disposiciones de esta ley o de las disposiciones que de ella deriven; y
+
+II.- Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, o bien, si de continuarse el procedimiento de contratación, pudieran producirse daños o perjuicios a la dependencia o entidad de que se trate.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+ARTICULO 64 QUATER.- La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá por consecuencia:
+
+I.- La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley.
+
+II.- La nulidad total del procedimiento; y
+
+III.- La declaración de improcedencia de la inconformidad.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 1995)</small>
+
+### CAPITULO SEGUNDO. DEL RECURSO DE REVOCACION
 
 ###### ARTICULO 65.
 
 Procederá el recurso administrativo de revocación en la forma siguiente:
 
-I.- Ante la Contraloría, en contra de las resoluciones pronunciadas por la Dirección, Tesorería y las dependencias y entidades; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
+I.- Ante la Contraloría, en contra de las resoluciones pronunciadas por la Secretaría y las dependencias y entidades; y
 
 II.- Ante el Ejecutivo del Estado, en contra de las resoluciones pronunciadas por la Contraloría.
 
@@ -678,3 +1000,13 @@ LIC. JOSE DE LAS FUENTES RODRIGUEZ. (Rúbrica)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ENRIQUE MARTINEZ Y MARTINEZ. (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE AGOSTO DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno de Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Los manuales de procedimientos que se deriven con motivo de las disposiciones de esta ley, se expedirán en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor de este decreto.
