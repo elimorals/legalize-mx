@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aparceria-8234"
 country: "mx"
 rank: "ley"
 publication_date: "1930-03-15"
-last_updated: "1930-03-15"
+last_updated: "2004-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE APARCERIA
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL DECRETRO NO. 632, PUBLICADO EN EL PERIODICO OFICIAL EL 21 DE ABRIL DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 15 de marzo de 1930.
 
@@ -112,3 +114,11 @@ Salón de sesiones del H. Congreso del Estado. C. Victoria, Tamps, Marzo 3 de193
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los once días del mes de marzo de mil novecientos treinta.- F. GOMEZ.- El Srio. Gral. De Gobierno, Lic. Zeferino Fajardo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 21 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
