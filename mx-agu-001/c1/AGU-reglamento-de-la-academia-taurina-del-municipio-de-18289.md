@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-academia-taurina-del-municipio-de-18289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-10-30"
-last_updated: "2000-10-30"
+last_updated: "2004-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 REGLAMENTO DE LA ACADEMIA TAURINA DEL MUNICIPIO DE AGUAS CALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2004.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de octubre de 2000.
 
@@ -44,19 +44,29 @@ La Academia Taurina del Municipio de Aguascalientes tendrá como finalidad impar
 
 Para el cumplimiento de su objeto, la Academia tendrá las siguientes atribuciones:
 
-I.- Impartir instrucción taurina a través de las modalidades escolar y extraescolar;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
 
-II.- Fomentar entre la sociedad de Aguascalientes la cultura taurina, mediante la capacitación e instrucción en esta materia a los ciudadanos del Municipio;
+I.- Impartir las enseñanzas teórico-prácticas relacionadas con las suertes del Toreo, que permitan a los aspirantes a formarse en tal sentido. Así como las de carácter cultural y profesional, para que los alumnos puedan adquirir una preparación adecuada para desarrollarse de manera útil ante la sociedad;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
+
+II.- Fomentar entre la sociedad de Aguascalientes la cultura taurina, mediante la impartición de las enseñanzas teórico-prácticas, relacionadas con las diversas suertes del toreo, que ayuden a los aspirantes a toreros a formarse en tal sentido;
 
 III.- Promover el desarrollo de nuevos valores de matadores de toros, novillos y similares, que representen a Aguascalientes como la Ciudad Taurina de América;
 
-IV.- Expedir certificados de estudios y otorgar diplomas y títulos académicos, relacionados con su tipo de enseñanza;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
+
+IV.- Crear entre la sociedad, un clima de atención y apoyo a la Academia, procurando a través de sus actividades el fomento a la Fiesta de los Toros como un espectáculo formado de tradiciones y valores históricos adquirido por la cultura, y que es preciso preservar;
 
 V.- Formar y actualizar a los instructores que se harán cargo de capacitar a los alumnos de la Academia;
 
-VI.- Proporcionar a los alumnos los medios de apoyo para el aprendizaje tales como avíos, materiales audiovisuales, servicios de biblioteca, prácticas de salón, conferencias, mesas redondas y los demás que se deriven de los planes de estudio de la escuela;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
 
-VII.- Celebrar convenios, contratos y acuerdos con los diferentes sectores de la Fiesta Brava, con otras instituciones nacionales e internacionales de educación taurina, así como con institución, organización o persona cualquiera, conforme a lo dispuesto por la normatividad vigente aplicable;
+VI.- Proporcionar a los alumnos los medios de apoyo para el aprendizaje, tales como audiovisuales;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
+
+VII.- Celebrar a través del Presidente Municipal y el Sindico Procurador, los convenios, contratos, acuerdos o instrumentos de colaboración con los sectores de la Fiesta Brava, instituciones culturales, educativas y artísticas nacionales o internacionales; que permitan alcanzar los fines de la Academia;
 
 VIII.- Ejercer las demás que sean afines con las anteriores
 
@@ -78,13 +88,17 @@ La Junta Directiva de la Academia es la máxima autoridad de la institución y e
 
 I.- Un Presidente, que será la persona que el H. Ayuntamiento designe, de entre una tema propuesta Por el Presidente Municipal;
 
-II.- Un Secretario Ejecutivo, que será el Regidor del Área o la persona que éste designe; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
+
+II.- Un Secretario Ejecutivo, que en el caso será el titular o un colegiado de la Comisión de Salubridad, Beneficencia Pública y Espectáculos;
 
 III.- Un Tesorero, que será el Tesorero Municipal o la persona que éste designe. El cargo de miembro de la Junta Directiva será honorífico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 5°.
 
-Para ser miembro de la Junta Directiva en los, casos señalados en las fracciones I, y los representantes de la II y III del artículo anterior, se deberán reunir los siguientes requisitos:
+Para ser miembro de la Junta Directiva, en los casos señalados en las fracciones II y III del artículo anterior, se deberán reunir los Siguientes requisitos:
 
 1.- Ser de nacionalidad mexicana.
 
@@ -94,35 +108,35 @@ Para ser miembro de la Junta Directiva en los, casos señalados en las fraccione
 
 En el caso del representante del Tesorero Municipal, deberá acreditar tener nociones básicas de contabilidad.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 6°.
-
-Es causal de destitución de los miembros de la Junta Directiva, en los casos señalados en las fracciones I, y los representantes de la II y III del Articulo 4°., no asistir a tres sesiones consecutivas o cinco en el periodo de un año, de la Junta Directiva, sin causa justificada, a juicio del H. Cabildo, siempre que fueran convocadas y notificadas conforme a Derecho.
-
-En el caso de que se trate de los titulares señalados en la fracciones II y III del mismo artículo, el H. Cabildo hará una exhortación publica al funcionario en cuestión y lo conminará a atender su encargo.
-
-Los miembros de la Junta Directiva durarán en su encargo el tiempo que sus representados desempeñen su respectivo puesto.
-
-###### ARTICULO 7°.
 
 Corresponde a la Junta Directiva:
 
-I.- Determinar, de acuerdo a la Ley de Ingresos Municipal, las colegiaturas que deban cobrarse por la instrucción que se imparta, según el caso, y proponer al H. Ayuntamiento las colegiaturas para el período siguiente, así como determinar los casos en los que podrán otorgarse becas parciales o completas a los alumnos de la Academia;
+I.- Determinar, de acuerdo a la Ley de Ingresos del Municipio, las colegiaturas que deban cobrarse por la instrucción que se imparta según el caso, y proponer al H. Ayuntamiento las colegiaturas para el periodo siguiente, así como determinar los casos en los que podrán otorgarse becas parciales o completas a los alumnos de la Academia;
 
-II.- Expedir las normas conforme a las cuales podrán celebrarse los convenios a que hace referencia la fracción VII del Artículo 2° del presente reglamento;
+II.- Expedir las bases conforme a las cuales podrán celebrarse los convenios a que hace referencia la fracción VII del Artículo 2°. del presente Reglamento;
 
 III.- Nombrar y remover libremente al Director y sancionar sus actos en el desempeño de su cargo;
 
-IV.- Dictar las disposiciones necesarias para revalidar y establecer equivalencias de estudios realizados en instituciones nacionales o extranjeras que impartan el mismo tipo de educación;
+IV.- Acordar anualmente los emolumentos que deberán recibir el Director y los demás empleados de la Academia, conforme lo establezca el Presupuesto de Egresos aprobado por el H. Ayuntamiento;
 
-V.- Acordar anualmente los emolumentos que deberán recibir el Director y los demás empleados de la Academia;
+V.- Expedir las bases y disposiciones reglamentarias internas para la organización y funcionamiento técnico, docente y administrativo de la Academia;
 
-VI.- Expedir las normas y disposiciones reglamentarias internas para la organización y funcionamiento técnico, docente y administrativo de la academia;
+VI.- Aceptar por conducto del H. Ayuntamiento en su caso, las donaciones o legados y demás liberalidades que se otorguen en favor de la Academia;
 
-VII.- Aceptar en su caso, las donaciones o legados y demás liberalidades que se otorguen en favor de la Academia;
+VII.- Conocer y resolver los asuntos que no sean de la competencia de algún otro órgano; y
 
-VIII.- Conocer y resolver los asuntos que no sean de la competencia de algún otro órgano; y
+VIII.- Ejercer las demás facultades que le confieran este ordenamiento y su reglamento.
 
-IX.- Ejercer las demás facultades que le confieran este ordenamiento y su reglamento.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
+###### ARTICULO 7°.
+
+Es causal de destitución de los miembros de la Junta Directiva, en los casos señalados en las Fracciones II y III del artículo 4°, no asistir a tres sesiones consecutivas o cinco en el período de un año, de la Junta Directiva, sin causa justificada, a juicio del H. Ayuntamiento, siempre que fueran convocadas, y notificadas conforme a derecho para tratar asuntos de su competencia dentro de la Academia Taurina.
+
+Los miembros de la Junta Directiva durarán en sus funciones cuatro años, con excepción del Secretario Ejecutivo.
 
 ###### ARTICULO 8°.
 
@@ -138,41 +152,51 @@ IV.- Ser persona de amplia solvencia moral y de reconocido prestigio taurino; y
 
 V.- No ser miembro de la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 9°.
 
 Son facultades y obligaciones del Director:
 
-I.- Conducir la administración general de la actividad desde la Academia;
+I.- Conducir la administración general de la (sic) actividades de la Academia en coordinación con el personal de instructores, administrativos y de apoyo en los términos que en detalle prevenga el Reglamento;
 
-II.- Presentar anualmente a la Junta Directiva, antes de la aprobación del Proyecto de Ley de Ingresos y el Presupuesto de Egresos por el H. Cabildo, el proyecto de presupuesto anual de ingresos y egresos de la Academia;
+II.- Presentar anualmente a la Junta Directiva, antes de la aprobación del Proyecto, de Ley de Ingresos y el Presupuesto de Egresos por el H. Ayuntamiento, el proyecto de presupuesto anual de ingresos y egresos de la Academia;
 
-III.- Hacer cumplir las normas y disposiciones reglamentarias de la Academia;
+III.- Instruir al personal administrativo y de apoyo, para otorgar todas las facilidades necesarias cuando el H. Ayuntamiento ó el Presidente Municipal ordenen en cualquier momento la práctica de auditorías en la contabilidad por la dependencia municipal competente;
 
-IV.- Hacer, en los términos de este Reglamento y sus normas internas, las designaciones y remociones del personal docente, técnico y administrativo, que no están reservadas a otro órgano de la Academia;
+IV.- Dirigir y supervisar los trabajos que realicen los instructores en la enseñanza teórico-práctica de las suertes del toreo, y llevar a cabo las evaluaciones correspondientes en los términos del Reglamento Interior;
 
-V.- Presentar a la Junta Directiva, en la última sesión del ejercicio escolar, un informe de las actividades de la Academia realizadas durante el año anterior; y
+V.- Hacer cumplir las normas y disposiciones reglamentadas de la Academia;
 
-VI.- Las demás que se señalen en este Ordenamiento y los reglamentos internos de la Academia.
+VI.- Hacer en los términos de Reglamento Interior, las designaciones y remociones del personal docente, técnico y administrativo, que no están reservadas a otro órgano de la Academia;
+
+VII.- Presentar a la Junta Directiva, en la última sesión del ejercicio escolar, un informe de las actividades de la Academia realizadas durante el año anterior; sin perjuicio que la autoridad municipal a través de la dependencia correspondiente Io requiera en cualquier momento; y
+
+VIII.- Las demás que se señalen en este Ordenamiento y los reglamentos internos de la Academia, sin perjuicio de cumplir con las que disponga la Junta Directiva, con el propósito de cumplir con los (sic) finalidades de la Academia.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 10.
 
-El Consejo Consultivo será presidido por el Director de la Academia y se integrará de la siguiente manera:
+El Consejo Consultivo es el órgano de apoyo y consulta permanente para la Academia, y será presidido por el Presidente Municipal y Primer Regidor, y se integrará de la siguiente manera:
 
-I.- El Regidor del Área;
+I.- Siete miembros, qué serán designados por la Junta Directiva de la Academia, de los cuales por lo menos dos de ellos, no serán profesionales del medio taurino en cualquiera de sus sectores, sino personas reconocidas por su afición a la Fiesta de los toros;
 
-II.- Un representante local de la Asociación Nacional de Matadores de Toros y Novillos;
+II.- El Presidente Municipal en turno, o la persona qué éste designe cuando justifique al H. Ayuntamiento impedimento para desempeñar el cargo;
 
-III.- Un representante local de la Asociación Nacional de Criadores de Toros de Lidia;
+III.- Un representante de los alumnos que se encuentre cursando estudios de tauromaquia en la Academia, y que será electo de entre sus propios compañeros;
 
-IV.- Un representante común de las empresas que se dediquen a dar espectáculos taurinos en el Municipio;
+IV.- Un representante local de la Asociación Nacional de Matadores de Toros, y Novillos;
 
-V.- Un representante local de la Asociación Nacional de Picadores y Banderilleros;
+V.- Un representante local de la Asociación Nacional de Criadores de Toros de Lidia;
 
-VI.- Un representante de las Peñas Taurinas en el Municipio; y
+VI.- Un representante común de las empresas que se dediquen a dar espectáculos taurinos en el Municipio;
 
-VII.- Un representante de los alumnos de la Academia.
+VII.- Un representante local de la Asociación Nacional de Picadores y banderilleros; y
 
-El cargo de miembro del Consejo Constitutivo será honorífico y es incompatible con el de Director de la Academia.
+VIII.- Un representante de los medios masivos de comunicación designado entre ellos.
+
+El cargo de miembro del Consejo consultivo será honorífico y es incompatible con el de Director de la Academia, éste con el carácter con el que preside el Consejo Consultivo solo tendrá voz al igual que los marcados en las fracciones IV a VIII, los demás contarán con voz y voto.
 
 ###### ARTICULO 11.
 
@@ -184,7 +208,9 @@ II.- Analizar los problemas académicos y administrativos de los planteles y pro
 
 III.- Acordar los programas sobre actualización y mejoramiento profesional del personal académico;
 
-IV.- Sugerir un plan general de actividades; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2004)</small>
+
+IV.- Sugerir un plan general de actividades para la Academia, que sea tomado en cuenta por parte de la Junta Directiva;
 
 V.- Ejercer las demás facultades que le señalen este ordenamiento y las normas y disposiciones reglamentarias de la Academia.
 
@@ -192,7 +218,9 @@ V.- Ejercer las demás facultades que le señalen este ordenamiento y las normas
 
 El Consejo Consultivo sesionará de manera ordinaria cada tres meses a convocatoria de su Presidente y podrá celebrar sesiones extraordinarias cuando así lo solicite el Presidente o, tres de sus miembros.
 
-Las resoluciones se tomarán por mayoría de votos de los asistentes, teniendo el Presidente voto de calidad en caso de empate. Para que haya quórum se requerirá que asistan la mitad más uno de sus integrantes.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
+Las resoluciones se tomarán por mayoría de votos de los miembros del Consejo, teniendo únicamente el Presidente voto de calidad en caso de empate. Para que haya quórum se requerirá que asistan la mitad más uno de sus integrantes.
 
 ### CAPITULO III. Del Personal de la Academia
 
@@ -224,7 +252,7 @@ El personal académico gozará de libertad de cátedra. No podrán hacerse desig
 
 ###### ARTÍCULO 16.
 
-El nombramiento y permanencia del personal de la Academia se realizará a través de contratos individuales y por obra determinada.
+(DEROGADO, P.O. 3 DE MAYO DE 2004)
 
 ###### ARTICULO 17.
 
@@ -232,23 +260,29 @@ las relaciones entre la Academia y su personal se regularán por las disposicion
 
 ### CAPITULO IV. De los Alumnos
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 18.
 
-Serán alumnos de la Academia Taurina quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de los cursos que se impartan y tendrán los beneficios y obligaciones que este Reglamento y las disposiciones reglamentarias señalen.
+Serán alumnos de la Academia Taurina quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cualquiera de los cursos que se impartan y tendrán los beneficios y obligaciones que las disposiciones reglamentarias señalen.
 
 ###### ARTICULO 19.
 
-La Academia impartirá clases, cuando menos, tres días de cada semana, durante tres horas cada día.
+(DEROGADO, P.O. 3 DE MAYO DE 2004)
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 20.
 
-los alumnos que sin causa justificada a juicio del Director, dejen de asistir a la Academia, serán sancionados de acuerdo con las disposiciones de los Reglamentos Internos de la Academia.
+La Dirección de la Academia Taurina exigirá a sus alumnos la presentación trimestral de certificación del centro escolar donde realicen sus estudios que acredite su asistencia regular. Las faltas reiteradas o la no presentación del certificado serán causa de baja en la escuela taurina.
 
 ### CAPITULO V. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 21.
 
-La Academia deberá tener un área que simule total o parcialmente a un ruedo, con las características señaladas en el Código Municipal, así como un local destinado para servicio médico de emergencia, dotado del equipo e instrumental necesario.
+La Academia deberá tener un área que simule total o parcialmente a un ruedo, con las características señaladas en el Código Municipal, así como un local destinado para servicio médico de emergencia, dotado de equipo e instrumental necesario. Para tales efectos, en caso de no contar con instalaciones propias, celebrará a través del H. Ayuntamiento los Convenios y Contratos que resulten necesarios para las prácticas de los alumnos.
 
 ###### ARTÍCULO 22.
 
@@ -261,3 +295,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- En el término de noventa días siguiente a su publicación, deberá expedirse el Reglamento Interno de la Academia Taurina del Municipio de Aguascalientes.
 
 TERCERO.- Se faculta al Director de la Academia Taurina para que haga las designaciones del personal docente con carácter de interino, para laborar durante el primer ejercicio del funcionamiento de la Academia.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MAYO DE 2004.
+
+UNICO.- Las presentes reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
