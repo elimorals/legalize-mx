@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-y-administracion-de-los-110
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-17"
-last_updated: "1996-12-17"
+last_updated: "2003-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y ADMINISTRACION DE LOS BIENES MUEBLES DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ-LLAVE, PUBLICADA EN EL GACETA OFICIAL EL 21 DE FEBRERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de diciembre de 1996.
 
@@ -953,7 +955,7 @@ Las obligaciones contractuales asumidas por la Secretaría de Finanzas y Planeac
 
 El titular del Ejecutivo del Estado dispondrá de un plazo de 90 días, a partir de la fecha de publicación de esta Ley, para expedir el reglamento interno del Comité.
 
-DADA EN EL SALON DE SESIONES DE LA HONORABLE QUINCUAGESIMA SEPTIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ, A LOS DOCE DIAS DEL MES DE DICIEMBRE DEL AÑO DE MIL NOVECIENTOS NOVENTA Y SEIS.- IRAN SUAREZ VILLA, DIPUTADO PRESIDENTE.- RUBRICA.- EZEQUIEL CRUZ ARELLANO, DIPUTADO SECRETARIO.- RUBRICA".
+DADA EN EL SALON DE SESIONES DE LA HONORABLE QUINCUAGESIMA SEPTIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ, A LOS DOCE DIAS DEL MES DE DICIEMBRE DEL AÑO DE MIL NOVECIENTOS NOVENTA Y SEIS.- IRAN SUAREZ VILLA, DIPUTADO PRESIDENTE.- RUBRICA.- EZEQUIEL CRUZ ARELLANO, DIPUTADO SECRETARIO.-RUBRICA".
 
 EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCION I DEL ARTICULO 87 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO ESTATAL, EN LA CIUDAD DE XALAPA-ENRIQUEZ, VERACRUZ, A LOS CATORCE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
@@ -968,3 +970,17 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO RIVERA RODRIGUEZ
 
 SECRETARIO DE FINANZAS Y PLANEACION
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+G.O. 21 DE FEBRERO DE 2003.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan la Ley de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles del Poder Ejecutivo del Estado de Veracruz-Llave, publicada el 17 de diciembre de 1996 en la Gaceta Oficial, órgano del Gobierno del Estado, y todas las disposiciones que se opongan a lo previsto por la presente Ley.
+
+Artículo Tercero. Los actos o procedimientos que se encuentren en trámite a la entrada en vigor de la presente Ley, se concluirán de acuerdo con las disposiciones entonces vigentes.
+
+Artículo Cuarto. Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expidan las que deban sustituirlas.
+
+Artículo Quinto. Dentro de los ciento veinte días siguientes a la entrada en vigor de esta Ley, las instituciones a las que la misma se refiere expedirán los reglamentos respectivos.
