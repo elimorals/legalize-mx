@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1999-01-28"
+last_updated: "1999-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -147,7 +147,7 @@ VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En
 
 ### CAPITULO CUARTO. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 7º
 
@@ -171,9 +171,9 @@ Los mexicanos por nacimiento o naturalización conforme a las leyes del País, q
 
 Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
-### CAPITULO PRIMERO (SIC). DEL GOBERNADOR DEL ESTADO
+### CAPITULO QUINTO. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 8º.
 
@@ -225,9 +225,9 @@ En materia procesal se procurará que haya un intérprete para el chiapaneco que
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL PODER EJECUTIVO
+### CAPITULO PRIMERO (SIC). DEL GOBERNADOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 11.
 
@@ -263,9 +263,9 @@ La calidad de ciudadano chiapaneco no puede adquirirse por declaratoria del Cong
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO TERCERO. DEL MINISTERIO PUBLICO
+### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 14.
 
@@ -285,9 +285,9 @@ El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo qu
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO II. DE LA ORGANIZACION DEL PODER EJECUTIVO
+### CAPITULO TERCERO. DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 16.
 
@@ -635,45 +635,39 @@ El Diputado Presidente del Congreso velará por el respeto al fuero constitucion
 
 ###### ARTICULO 31.
 
-La víspera del día en que deban terminar las sesiones ordinarias, el Congreso mediante votación secreta, nombrará para el tiempo de su receso, una Comisión Permanente, compuesta de tres Diputados Propietarios y sus respectivos suplentes.
+Son atribuciones de la Comisión Permanente:
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+I.- Convocar al Congreso a sesiones extraordinarias conforme al Artículo 23 o a moción del Ejecutivo; pudiendo hacer la convocatoria para lugar distinto a la capital del Estado, en cualquier caso que lo amerite;
+
+II.- Convocar al Congreso a sesiones extraordinarias, en el caso de delitos oficiales del orden común cometidos por los funcionarios del Estado, a que se refiere el Artículo 72;
+
+III.- Llamar a los diputados suplentes de la propia Comisión, cuando por muerte, renuncia, inhabilitación o licencia por más de 15 días falte alguno de los propietarios;
+
+IV.- Dictaminar los asuntos que se le presenten en tiempo de sus funciones y los que queden pendientes al clausurarse el período ordinario. Cuando se trate de asuntos de la competencia del Congreso, se reservarán los dictámenes para que sean discutidos por éste;
+
+V.- Resolver todos los asuntos concernientes a las elecciones de funcionarios municipales;
+
+VI.- Conocer de los asuntos relacionados con la hacienda de los municipios y revisar y aprobar sus cuentas;
+
+VII.- Otorgar o negar su aprobación a los nombramientos de Magistrados que sometan a su consideración y en su caso recibirles la protesta;
+
+VIII.- Nombrar Gobernador Interino o Provisional en los supuestos a que se refiere esta Constitución y recibir su protesta;
+
+IX.- Conceder licencia por más de treinta días al Gobernador del Estado;
+
+X.- Recibir, en su caso, la protesta de Gobernador Interino o Provisional;
+
+XI.- Revisar y aprobar los avances financieros de la cuenta pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 32.
 
-Son atribuciones de la Comisión Permanente:
+El Congreso del Estado creará y establecerá, mediante Ley, un organismo de carácter público, con autonomía técnica, administrativa y jerárquica, dotado de personalidad jurídica y patrimonio propios, que se denominará Comisión Estatal de Derechos Humanos y tendrá por objeto la protección, defensa, respeto, estudio y divulgación de los derechos humanos establecidos por el orden jurídico mexicano, el fortalecimiento de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la entidad. La comisión conocerá de quejas en contra de actos, hechos u omisiones de naturaleza administrativa que provengan de autoridades o servidores públicos estatales o municipales, que se presuman violen los derechos humanos establecidos en la Ley, con excepción de los del Poder Judicial del Estado. Podrá formular recomendaciones públicas autónomas, no vinculatorias, denuncia y quejas ante las autoridades competentes.
 
-I.- Convocar al Congreso a sesiones extraordinarias conforme al Articulo 23 o a moción del Ejecutivo; pudiendo hacer la convocatoria para lugar distinto a la Capital del Estado, en cualquier caso que así lo amerite;
+La Comisión Estatal de Derechos Humanos no podrá intervenir, ni conocer de quejas, en asuntos electorales, laborales y jurisdiccionales.
 
-II.- Convocar al Congreso a sesiones extraordinarias, en el caso de delitos oficiales del orden común cometidos por los funcionarios del Estado, a que se refiere el articulo 72;
-
-III.- Llamar a los Diputados Suplentes de la propia Comisión, cuando por muerte, renuncia, inhabilitación o licencia por mas de 15 días falte alguno de los propietarios;
-
-IV.- Dictaminar los asuntos que se le presenten en tiempo de sus funciones y los que queden pendientes al clausurarse el periodo ordinario. Cuando se trate de asuntos de la competencia del Congreso, se reservaran los dictámenes para que sean discutidos por este;
-
-V.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1988)
-
-VI.- Resolver todos los asuntos concernientes a las elecciones de funcionarios municipales;
-
-VII.- Conocer de los asuntos relacionados con la Hacienda de los Municipios y revisar y aprobar sus cuentas;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
-
-VIII.- Otorgar o negar la aprobación de los nombramientos de Magistrados que sometan a su consideración y en su caso recibirles la protesta;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
-
-IX.- Nombrar Gobernador interino o provisional en los supuestos a que se refiere esta Constitución y recibir su protesta;
-
-X.- Conceder licencia por mas de treinta días al Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
-
-XI.- Recibir, en su caso, la protesta de Gobernador Interino o Provisional;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
-
-XII.- Revisar y aprobar los avances financieros de la Cuenta Pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución.
+El Congreso del Estado asignará, anualmente, a la Comisión el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos, y el propio Congreso designará al Presidente de la Comisión, de la terna que al efecto le presente el Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -901,7 +895,9 @@ A.- La Ley organizará al Ministerio Público, cuyos funcionarios serán nombrad
 
 El Procurador General de Justicia y demás funcionarios serán responsables de toda falta, comisión o violación a la Ley en que incurran con motivo o en el ejercicio de sus funciones.
 
-La persecución de los delitos incumbe al Ministerio Público y a la policía judicial que estará bajo la autoridad de éste, por lo tanto corresponde al Ministerio Público solicitar las órdenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten el cuerpo del delito, así como la presunta responsabilidad del acusado y pedir la aplicación de las penas; velará porque los juicios se tramiten con apego a la Ley para que la justicia sea completa e imparcial, e intervendrán en todos los asuntos que la Ley determine.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+La persecución de los delitos incumbe al ministerio público y a la Policía Judicial que estará bajo la autoridad de éste, por lo tanto corresponde al ministerio público solicitar las órdenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten los elementos que integran el tipo penal, así como la probable responsabilidad del indiciado y pedir la aplicación de las penas; velará porque los juicios se tramiten con apego a la ley para que la justicia sea completa e imparcial, e intervendrá en todos los asuntos que la Ley determine.
 
 La Ley Orgánica determinará la integración de la institución. El Procurador General de Justicia será el Consejero Jurídico del Ejecutivo e intervendrá por sí o por medio de sus funcionarios o agentes en todos los asuntos en que el Estado sea parte, salvo disposición en contrario.
 
@@ -1713,7 +1709,7 @@ DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA DEL EST
 
 El Territorio del Estado de Chiapas es el que posee desde que forma parte de la República Mexicana.
 
-Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
+Para su organización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1827,6 +1823,24 @@ Quedan derogadas todas las leyes y disposiciones que se opongan al presente Decr
 
 Las presentes adiciones y reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
+###### ARTICULO 5º.
+
+Son obligaciones de los habitantes del Estado:
+
+I.- Respetar y cumplir las Leyes;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
+II.- Acrecentar el espíritu de solidaridad humana, respetar los valores cívicos y culturales y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
+
+III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 ###### ARTICULO 6o.
 
 El Ejecutivo dispondrá se promulgue, circule y se le dé el debido cumplimiento.
@@ -1855,17 +1869,15 @@ Son obligaciones de los habitantes del Estado:
 
 I.- Respetar y cumplir las Leyes;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1994)</small>
 
-II.- Acrecentar el espíritu de solidaridad humana, respetar los valores cívicos y culturales y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
+II.- Acrecentar el espíritu de solidaridad Humana, evitar la discriminación y desprecio hacia los pueblos indígenas, fomentar en sus hijos, el aprecio por nuestros orígenes, respeto y admiración por los indígenas, respetar los valores cívicos y culturales en las tareas de superación material y espiritual del pueblo chiapaneco;
 
 III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad. (REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)
 
 ###### ARTICULO 6º.
 
@@ -2224,3 +2236,13 @@ P.O. 28 DE ENERO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Comisión Estatal de Derechos Humanos, como órgano desconcentrado, pasarán a formar parte de la propia Comisión como organismo de carácter público con autonomía técnica, administrativa y jerárquica, dotado de personalidad jurídica y patrimonio propios.
+
+TERCERO.- La Comisión Estatal de Derechos Humanos, con el carácter de organismo público con personalidad y patrimonio propios que se le atribuye en esta reforma, conocerá de las quejas y demás asuntos que a la entrada en vigor del presente decreto obren en poder de dicha Comisión, como órgano desconcentrado.
+
+CUARTO.- El Ejecutivo del Estado enviará al Congreso Estatal o a la Comisión Permanente, dentro de los treinta días siguientes a la entrada en vigor de la presente reforma, la terna respectiva para el nombramiento del Presidente de la Comisión Estatal de Derechos Humanos, debiendo continuar, mientras tanto, en el ejercicio de dichas funciones, quien actualmente desempeña el cargo.
