@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "1994-06-25"
+last_updated: "1999-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1036,6 +1036,14 @@ En caso de muerte practicarán, además de la autopsia del cadáver, el análisi
 ###### ARTICULO 149.
 
 En caso de aborto, se procederá como previenen los Artículos anteriores para el homicidio. Reconocerán los peritos a la madre, describirán las lesiones que presentaren ella y el producto y si fueron causa del aborto expresando la edad de la víctima. En el caso del Artículo 354 del Código Penal, dictaminarán sobre la viabilidad de la víctima.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 149.
+
+BIS.- Para integrar los elementos del tipo tratándose de violencia intrafamiliar deberán de acreditarse las calidades específicas y circunstancias de los sujetos pasivos señalados en los artículos 368 bis y 368 ter del Código Penal para el Estado de Tamaulipas, además de agregarse a la averiguación los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 129, 130 y 157 del presente Código.
+
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia intrafamiliar, podrán colaborar, en calidad de peritos y sus informes deberán rendirse por escrito.
 
 ###### ARTICULO 150.
 
@@ -3998,3 +4006,9 @@ P.O. 25 DE JUNIO DE 1994
 PRIMERO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 1999
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
