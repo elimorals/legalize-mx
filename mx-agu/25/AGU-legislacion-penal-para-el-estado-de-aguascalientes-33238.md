@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2004-02-12"
+last_updated: "2004-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1335,6 +1333,10 @@ II. De 1 a 5 años de prisión, de 20 a 150 días multa, al pago total de la rep
 
 Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 10 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+Las lesiones culposas, previstas en las fracciones I y II del presente artículo, sólo se perseguirán por la denuncia que formule la víctima o su representante legal.
+
 ### CAPITULO CUARTO. Tipos Penales Protectores del Equilibrio Ecológico
 
 ###### Artículo 95.
@@ -1344,6 +1346,10 @@ El Daño en las Cosas Culposo consiste en la destrucción o deterioro de cosa aj
 Al responsable de Daño en las Cosas Culposo se le aplicarán de 3 meses a 2 años de prisión, de 15 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y suspensión o inhabilitación para obtener licencia para conducir de 2 a 5 años.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+El daño en las cosas culposo, previsto en los párrafos primero y segundo del presente artículo, sólo se perseguirá por la denuncia que formule la víctima o su representante legal.
 
 ### CAPITULO PRIMERO. La Víctima y Ofendido
 
@@ -3024,6 +3030,10 @@ V. Garantías para hacer efectivo el cumplimiento de las obligaciones establecid
 VI. La determinación de que dicho convenio tiene el carácter de Documento Ejecutivo Civil.
 
 En caso de no cumplimiento en todos sus términos del convenio de referencia, se deducirán las acciones civiles que correspondan, en términos de lo dispuesto por el Código de Procedimientos Civiles Vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+En caso de las figuras típicas descritas en el Artículo 308, fracción XXIV, derivadas de la conducción de vehículos de motor, el convenio respectivo podrá celebrarse ante las autoridades de tránsito municipal.
 
 ###### Artículo 323.
 
@@ -4900,3 +4910,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
