@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "1989-07-16"
+last_updated: "1992-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
-Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el 16 de julio de 1989.
+Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
 INGENIERO MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -1011,9 +1011,11 @@ Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere m
 
 Es válido todo lo practicado por los jueces competentes antes de la acumulación; lo que practiquen después de pedida ésta es nulo y causa de responsabilidad, salvo cuando la ley dispone otra cosa.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 162.
 
-En caso de no proceder la acumulación, si el tribunal advierte mala fe o temeridad, impondrá al promovente o a su abogado o a ambos una multa por el equivalente de 10 a 50 días de salario mínimo general vigente en el Estado. No se dará curso a la acumulación intentada, si el promovente no exhibe billete de depósito por el máximo de la multa, la que se aplicará a la parte contraria si la hubiere, por vía de indemnización y en caso contrario a la Tesorería General del Estado.
+En caso de no proceder la acumulación, si el tribunal advierte mala fe o temeridad, impondrá al promovente o a su abogado o a ambos, una multa por el equivalente de 10 a 50 días de salario mínimo general vigente en el Estado. No se dará curso a la acumulación intentada, si el promovente no exhibe billete de depósito por el máximo de la multa, la que se aplicará a la parte contraria si la hubiere, por vía de indemnización y en caso contrario a la Secretaría de Finanzas.
 
 ## TITULO CUARTO. DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS
 
@@ -1129,7 +1131,9 @@ Si el recusado fuere un magistrado, el Supremo Tribunal de Justicia requerirá e
 
 Recibido el negocio en el tribunal que deba decidir la recusación, se resolverá por el procedimiento incidental.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de hasta veinte días de salario mínimo general vigente en el Estado. No se dará curso a la recusación si no exhibe el recusante al interponerla, billete de depósito por el máximo de la multa la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario, a la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de hasta veinte días de salario mínimo general vigente en el Estado. No se dará curso a la recusación si no exhibe el recusante al interponerla, billete de depósito por el máximo de la multa la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización y en caso contrario, a la Secretaría de Finanzas.
 
 La resolución que decida una recusación es irrevocable.
 
@@ -1299,9 +1303,11 @@ Si lo debido fuese cosa cierta y determinada que debiera consignarse en el lugar
 
 Cuando el acreedor no haya estado presente en la oferta y el depósito, debe ser notificado de esa diligencia entregándole copia de ella.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 204.
 
-La consignación de dinero debe hacerse exhibiendo certificado de depósito que expida la Tesorería General del Estado.
+La consignación de dinero debe hacerse exhibiendo certificado de depósito que expida la Secretaría de Finanzas.
 
 ###### ARTICULO 205.
 
@@ -2687,11 +2693,15 @@ Puede también el actor, mientras dure el secuestro, pedir al juez que los biene
 
 Practicado el secuestro, los bienes embargados se pondrán en depósito de la persona que designe el actor bajo su responsabilidad, pudiendo recaer el nombramiento en el propio actor, aplicándose en todo caso lo dispuesto por el artículo 467.
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 454.
 
-Se exceptúan de lo dispuesto en el artículo anterior:
+Se exceptúan de lo dispuesto en el Artículo anterior:
 
-I.- El embargo de dinero o de créditos fácilmente realizables que se efectúe en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso el depósito se hará en la Tesorería General del Estado y el billete de depósito se conservará en el juzgado;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+I.- El embargo de dinero o de créditos fácilmente realizables que se efectúe en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso el depósito se hará en la Secretaría de Finanzas y el billete de depósito se conservará en el juzgado;
 
 II.- El secuestro de bienes que hubieren sido objeto de embargo judicial anterior, en cuyo caso el depositario primero en tiempo, lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el embargo sea por virtud de cédula hipotecaria, derecho de prenda u otro privilegio real, porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer secuestro;
 
@@ -2797,7 +2807,9 @@ IV.- Vigilará la compra de materia prima, su elaboración y la venta de los pro
 
 V.- Ministrará los fondos para los gastos de la negociación o finca rústica y cuidará de que la inversión de estos fondos se haga convenientemente;
 
-VI.- Depositará el dinero que resultare sobrante después de cubiertos los gastos necesarios y ordinarios, en la Tesorería General del Estado;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+VI.- Depositará el dinero que resultare sobrante después de cubiertos los gastos necesarios y ordinarios, en la Secretaría de Finanzas;
 
 VII.- Tomará provisionalmente las medidas que la prudencia aconseje para evitar los abusos y malos manejos de los administradores, dando inmediata cuenta al juez para su ratificación y en su caso, para que determine lo conducente a remediar el mal.
 
@@ -2909,9 +2921,11 @@ Será postura legal la que cubra dos terceras partes del avalúo, con tal de que
 
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal dos terceras partes del avalúo dadas de contado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 485.
 
-Para tomar parte en la subasta, los licitadores deberán presentar por escrito su postura y depositar previamente, en la Tesorería General del Estado, a disposición del juzgado, una cantidad igual al veinte por ciento efectivo de la postura legal para el remate, sin cuyos requisitos no serán admitidos.
+Para tomar parte en la subasta, los licitadores deberán presentar por escrito su postura y depositar previamente, en la Secretaría de Finanzas, a disposición del juzgado, una cantidad igual al veinte por ciento efectivo de la postura legal para el remate, sin cuyos requisitos no serán admitidos.
 
 Se devolverán las consignaciones a sus respectivos dueños acto continuo al remate, excepto la del mejor postor que se conservará en depósito como garantía del cumplimiento de su obligación y en su caso, como parte del precio de la venta.
 
@@ -3765,7 +3779,9 @@ Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, s
 
 Luego que el síndico acepte el cargo, se procederá a darle posesión de los bienes, libros y papeles del deudor por riguroso inventario. Si éstos se encuentran fuera del lugar del juicio, la diligencia se llevará a efecto con intervención de la autoridad judicial que se exhortará para ese fin y con citación del deudor.
 
-El dinero se depositará en la Tesorería General del Estado, quedando en poder del síndico lo indispensable para atender los gastos de administración.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+El dinero se depositará en la Secretaría de Finanzas, quedando en poder del Síndico lo indispensable para atender los gastos de administración.
 
 ###### ARTICULO 645.
 
@@ -3789,9 +3805,11 @@ Si el síndico provisional comprendiere que hay necesidad de realizar bienes por
 
 Lo mismo se hará cuando fuere estrictamente indispensable para cubrir gastos urgentes de administración y conservación.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 649.
 
-El síndico deberá presentar al juzgado dentro de los primeros diez días de cada mes, pasado el en que fue puesto en posesión de los bienes, en cuaderno por separado, un estado de la administración, previo depósito en la Tesorería General del Estado del dinero que hubiere percibido. Estas cuentas estarán a disposición de los interesados hasta el final del mes, dentro de cuyo término podrán ser objetadas. Las objeciones se substanciarán en vía incidental y contra su resolución procede el recurso de queja.
+El Síndico deberá presentar al juzgado dentro de los primeros diez días de cada mes, pasado el en que fue puesto en posesión de los bienes, en cuaderno por separado, un estado de la administración, previo depósito en la Secretaría de Finanzas del dinero que hubiere percibido. Estas cuentas estarán a disposición de los interesados hasta el final del mes, dentro de cuyo término podrán ser objetadas. Las objeciones se substanciarán en vía incidental y contra su resolución procede el recurso de queja.
 
 ###### ARTICULO 650.
 
@@ -3855,7 +3873,9 @@ I.- Reunir los papeles del difunto, los que cerrados y sellados se depositarán 
 
 II.- Ordenar a la administración de correos que le remitan la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás papeles; y
 
-III.- Mandar depositar el dinero y alhajas en la Tesorería General del Estado.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+III.- Mandar depositar el dinero y alhajas en la Secretaría de Finanzas.
 
 ###### ARTICULO 658.
 
@@ -4291,9 +4311,11 @@ Los libros de cuentas y papeles del difunto se entregarán al albacea y hecha la
 
 Si nadie se presenta alegando derechos a la herencia o por no haber sido reconocidos los que se presentaron se declare heredera a la Beneficiencia (sic) del Estado, se entregarán a ésta los bienes y los libros y papeles que tengan relación con la herencia. Los demás se archivarán con los autos del intestado en cubierta cerrada y sellada, que rubricará el juez, el representante del Ministerio Público y el secretario.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 732.
 
-El dinero y alhajas se depositarán en la Tesorería General del Estado, pero el juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
+El dinero y alhajas se depositarán en la Secretaría de Finanzas, pero el juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
 
 ###### ARTICULO 733.
 
@@ -4317,7 +4339,9 @@ Cuando los productos de los bienes variaren de bimestre a bimestre, el albacea p
 
 El interventor, el cónyuge en el caso del artículo 720 y el albacea, están obligados a rendir cuentas de su administración en los términos que señala el artículo 1603 del Código Civil.
 
-El juez, de oficio, exigirá el cumplimiento de esta obligación y mandará depositar las cantidades que resulten líquidas, a disposición del juzgado, en la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
+El juez, de oficio, exigirá el cumplimiento de esta obligación y mandará depositar las cantidades que resulten líquidas, a disposición del juzgado, en la Secretaría de Finanzas.
 
 ###### ARTICULO 738.
 
@@ -5286,3 +5310,9 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
