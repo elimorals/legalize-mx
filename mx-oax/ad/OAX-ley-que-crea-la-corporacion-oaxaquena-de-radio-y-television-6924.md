@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-corporacion-oaxaquena-de-radio-y-television-692
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-20"
-last_updated: "1993-11-20"
+last_updated: "2003-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA LA " CORPORACION OAXAQUEÑA DE RADIO Y TELEVISION " Y ESTABLECE SUS FUNCIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de noviembre de 1993.
 
@@ -83,59 +83,91 @@ I.- La Junta Directiva; y
 
 II.- El Director General.
 
+> <small>(REFORMADO P.O. 17 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 6.
 
-La Junta Directiva será presidida por el Gobernador del Estado y se integrará con los siguientes consejeros:
+La Junta Directiva estará integrada por:
 
-I.- El Secretario General de Gobierno;
+I.- Un Presidente que será el Titular del Ejecutivo.
 
-II.- El Secretario de Finanzas;
+II.- Un Secretario Técnico que será el Director General de la "CORTV".
 
-III.- El Secretario de Administración;
+El Director General será designado por el Titular del Ejecutivo.
 
-IV.- El Contralor General;
+III.- Seis Vocales que serán:
 
-V.- El Director General del Instituto Oaxaqueño de las Culturas;
+a).- El Secretario General de Gobierno;
 
-VI.- El Director General del Instituto Estatal de Educación Pública;
+b).- El Secretario de Finanzas;
 
-VII.- El Coordinador General de Comunicación Social del Ejecutivo del Estado; y
+c).- El Secretario de Administración;
 
-VIII.- El Coordinador General de Asesores.
+d).- El Director del Instituto de Educación Pública de Oaxaca;
 
-Se podrá designar suplentes por cada Secretario, del Gobernador lo será el Secretario General de Gobierno.
+e).- El Coordinador General de Comunicación Social del Gobierno del Estado; y,
 
-Las decisiones se tomarán por mayoría y el Presidente de la Junta Directiva tendrá voto de calidad en caso de empate.
+f).- El Coordinador General de Asesores del Titular del Ejecutivo.
+
+IV.- Un Comisario que será el Delegado Contralor o el representante de la Contraloría General.
+
+Los suplentes de los Titulares de la Junta Directiva, serán los servidores públicos que indique el Titular del Poder Ejecutivo.
+
+La calidad de los suplentes que fueran designados, se acreditará mediante el oficio respectivo dirigido al presidente de la Junta Directiva.
+
+El cargo de suplente será indelegable, de manera que no se podrá acreditar representante de éste en las sesiones de la Junta Directiva.
+
+> <small>(REFORMADO P.O. 17 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 7.
 
-La contraloría General, designará un Comisario que actuará como órgano de vigilancia en los términos legales procedentes.
+Son facultades de la Junta Directiva:
+
+I.- Establecer en congruencia con la Ley de Planeación y el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse la "CORTV";
+
+II.- Aprobar los planes, programas y presupuestos de la "CORTV", así como sus modificaciones, en los términos de la legislación aplicable;
+
+III.- Aprobar la concertación de obligaciones para el financiamiento de la "CORTV" así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
+
+IV.- Aprobar previo informe del comisario, y dictamen de los auditores externos, los estados financieros anuales de la "CORTV" y autorizar la publicación de los mismos;
+
+V.- Aprobar de acuerdo con las leyes aplicables y reglamentos, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la "CORTV" con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
+
+VI.- Proponer al Ejecutivo Estatal, por conducto de la Comisión Intersecretarial del Gasto-Financiamiento, con intervención de la Dependencia Coordinadora de Sector, los convenios de fusión con otras entidades paraestatales;
+
+VII.- Autorizar la creación interna de comisiones o grupos de trabajo;
+
+VIII.- Autorizar la creación de Comités o Subcomités Técnicos especializados, los cuales estarán integrados por personal de los mismos "CORTV";
+
+IX.- Aprobar la constitución de reservas y aplicación de excedentes financieros de la "CORTV";
+
+X.- Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que la "CORTV" requiera para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
+
+XI.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario; y,
+
+XII.- Las demás que señalen las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 8.
 
-Son facultades de la Junta Directiva:
+El órgano de Gobierno deberá celebrar sesiones ordinarias cuando menos trimestralmente.
 
-I.- Aprobar el Programa de Trabajo, conforme a la disponibilidad y a las funciones de la corporación y su reglamento Interno;
+Podrán celebrarse sesiones extraordinarias, cada vez que el Presidente lo estime conveniente o a petición de una tercera parte del total de los integrantes de la Junta.
 
-II.- Examinar y aprobar el presupuesto anual de egresos y la estimación de ingresos para el año siguiente:
-
-III.- Aprobar la estructura orgánica del Organismo;
-
-IV.- Examinar y aprobar el plan de operación, mantenimiento, contratación y producción que formule la Dirección General y vigilar su ejecución;
-
-V.- Aprobar las propuestas de designación de los servidores públicos que le someta el Director General, pudiendo delegar esta facultad en favor de este funcionario;
-
-VI.- Aprobar los créditos que se requieran para la operación del Organismo;
-
-VII.- Las demás que le sean propias y necesarias para el desarrollo de las funciones que se le encomiendan en esta Ley.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 9.
 
-La Junta Directiva será la autoridad suprema de la " CORTV ", funcionará válidamente con la asistencia de cinco de sus miembros y del Presidente.
+Los integrantes de la Junta Directiva, participarán en las sesiones a que se refiere este artículo con voz y voto a excepción del Secretario Técnico y el Comisario quienes, tendrán voz pero no voto. En caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 10.
 
-La Junta celebrará sesiones ordinarias cada tres meses, urgentes cuando sea necesario y podrá designar comisiones para el estudio de problemas especiales.
+Las convocatorias y orden del día se comunicarán por escrito con cinco días hábiles de anticipación tratándose de sesión ordinaria y de un día natural si se trata de sesiones extraordinarias indicando en cada caso, lugar, fecha y hora, en que se celebrará la sesión.
+
+Las convocatorias para sesiones extraordinarias indicarán además, el asunto específico que las motiva.
 
 ###### ARTICULO 11.
 
@@ -143,47 +175,87 @@ La Junta tendrá un Secretario Técnico que se encargará del trámite de los as
 
 ### CAPITULO III. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 12.
 
-El Director General será nombrado y removido, en su caso, por la Junta Directiva a propuesta de su Presidente, y sus atribuciones serán:
+Serán atribuciones del Directo General, las siguientes:
 
-I.- Dirigir técnica y administrativamente a la " CORTV ";
+I.- Administrar y representar legalmente a la "CORTV":
 
-II.- Formular y presentar a la Junta Directiva el plan de operación, mantenimiento, contratación y producción, programa de trabajo, presupuesto de egresos y estimación de ingresos;
+II.- Formular los planes y programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la misma y presentarlos para su aprobación en la Junta Directiva. Si dentro de los plazos correspondientes, el Director General no diera cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, la Junta Directiva procederá al desarrollo e integración de tales requisitos;
 
-III.- Celebrar todos los actos jurídicos de administración necesarios para el funcionamiento del Organismo, ajustándose a los lineamientos que le fije la propia Junta y obteniendo la aprobación de ésta en los casos que así se determine;
+III.- Formular los programas de organización y administración;
 
-IV.- Representar al Organismo como mandatario general para pleitos y cobranzas, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley, pudiendo sustituir y delegar este mandato en uno o más apoderados;
+IV.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la "CORTV";
 
-V.- Expedir los nombramientos para los trabajadores cuya designación no esté a cargo del Presidente de la Junta;
+V.- Tomar las medidas pertinentes a fin de que las funciones de la "CORTV", se realicen de manera articulada, congruente y eficaz;
 
-VI.- Proponer a la Junta, por conducto de su Presidente, las medidas adecuadas para el mejor funcionamiento del mismo;
+VI.- Establecer los procedimientos para controlar la calidad de los suministros y programas que aseguren la continuidad en la realización de los fines para lo cual fue creada la "CORTV";
 
-VII.- Rendir a la Junta un informe general de las actividades del organismo en el año anterior, acompañando balance y demás datos financieros que procedan;
+VII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones en la "CORTV", a fin de mejorar las gestiones de la misma;
 
-VIII.- Proporcionar las facilidades al Comisario para que por conducto de auditores, pueda rendir mensualmente un informe de auditoría sobre las operaciones del Organismo, con opinión de los resultados, y anualmente un informe de auditoría con opinión sobre la situación financiera del Organismo;
+VIII.- Establecer los sistemas de control internos necesarios para alcanzar las metas u objetivos propuestos.
 
-IX.- Acordar con los Directores y demás servidores públicos, así como con los representantes de las personas asociadas a la Corporación el despacho de asuntos a su cargo;
+IX.- Presentar trimestralmente a la Junta Directiva, el informe del desempeño de las actividades de la "CORTV", incluido el ejercicio de los presupuestos de ingresos, egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección con las realizaciones alcanzadas;
 
-X.- Concurrir a las sesiones de la Junta con voz informativa y cumplir con las disposiciones directivas y acuerdos;
+X.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con la que se desempeñe la "CORTV" y presentar a la Junta Directiva por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con la Junta;
 
-XI.- Obtener autorización de la Junta Directiva para realizar actos de dominio cuyo interés exceda del límite fijado por la propia Junta;
+XI.- Proporcionar la información y dar acceso a la documentación que le solicitan las Secretarías de Finanzas y de Administración, así como la Contraloría General o el Auditor Externo para el cumplimiento de sus funciones y la que el Congreso del Estado también le requiera;
 
-XII.- Realizar las demás funciones que requiera para el mejor servicio de las anteriores atribuciones y de las que le encomienden directamente la Junta Directiva.
+XII.- Ejecutar los acuerdos que dicte la Junta Directiva; y
+
+XIII.- Las demás que señalan las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
 
 ### CAPITULO IV. DEL PATRIMONIO DE LA COOPERACION OAXAQUEÑA DE RADIO Y TELEVISION
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 13.
 
-El patrimonio de la " CORTV ", estará constituido por:
+El Director General en lo que se refiere a la representación legal de la "CORTV", independientemente de las atribuciones que se le otorgue en otras leyes y ordenamientos, tendrán las siguientes:
+
+I.- Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
+
+II.- Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la "CORTV";
+
+III.- Presentar, dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas; en su caso, sin perjuicio del patrimonio de la "CORTV", otorgar el perdón al acreedor cuando proceda;
+
+IV.- Emitir y negociar título de crédito, conforme a la Ley de Deuda Pública Estatal y Municipal;
+
+V.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran autorización y cláusula especial, previa autorización de la Junta Directiva. Los Poderes Generales para surtir efectos frente a terceros deberán inscribirse conforme a la Ley respectiva, así como con en el Registro de las entidades paraestatales de la Administración Pública Estatal; y,
+
+VI.- Sustituir y revocar poderes generales o especiales.
+
+El Director General ejercerá las atribuciones a que se refiere este artículo bajo su más estricta responsabilidad, informando siempre de ello a la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2003)</small>
+
+###### ARTICULO 14.
+
+El Director General, para el eficaz cumplimiento de sus atribuciones se auxiliará de los servidores públicos que requiera y le sean autorizados conforme al presupuesto de egresos y a la normatividad aplicable.
+
+Igualmente contará con las Direcciones, Departamentos y Unidades necesarias de las que se ocupará el Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2003)</small>
+
+###### ARTICULO 15.
+
+El patrimonio de la "CORTV" estará constituido por:
 
 I.- Los bienes muebles e inmuebles necesarios para el cumplimiento de sus objetivos;
 
-II.- Las aportaciones y beneficios que le hagan los Gobiernos Federal, Municipal e Instituciones Públicas, Privadas, Sociales y personas particulares;
+II.- Las aportaciones y beneficios que le hagan los Gobiernos Federal, Municipal e Instituciones Públicas, Privadas, Sociales y personales particulares;
 
-III.- Los recursos que determine el presupuesto de egresos del Gobierno del Estado;
+III.- Los recursos que determine el presupuesto de egresos del Gobierno del Estado; y,
 
 IV.- Los beneficios que genere su propio patrimonio y los ingresos que obtenga, por cualquier otro título legal en el desarrollo de actividades.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2003)</small>
+
+###### ARTICULO 16.
+
+Las relaciones laborales entre la "CORTV" y sus trabajadores se regirán por el apartado "A" del artículo 123 de la Constitución Federal.
 
 T R A N S I T O R I O S :
 
@@ -234,3 +306,11 @@ Oaxaca de Juárez, Oax., octubre 27 de 1993.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. AGUSTIN MARQUEZ URIBE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MAYO DE 2003.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
