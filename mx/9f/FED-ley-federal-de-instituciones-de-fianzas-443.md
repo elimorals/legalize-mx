@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1975-12-31"
+last_updated: "1977-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -841,17 +841,17 @@ Tratándose del Distrito Federal, de los Estados y de los municipios, el requeri
 
 En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de las instituciones, y los hechos por autoridades distintas de las tesorerías competentes de acuerdo con las disposiciones de este artículo.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-II.- En el mismo requerimiento de pago, se apercibirá a la institución de fianzas deudora, de que si dentro del plazo de 90 días naturales, contado a partir de la fecha en que dicho requerimiento se realice, no hace el pago de las cantidades que se le reclaman, se le rematarán valores en los términos de este artículo.
+II.- En el mismo requerimiento de pago, se apercibirá a la institución de fianzas deudora, de que si dentro del plazo de treinta días naturales, contados a partir de la fecha en que dicho requerimiento se realice, no hace el pago de las cantidades que se le reclamen, se rematarán valores en los términos de este artículo.
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 III.- La Tesorería de la Federación, las tesorerías del Distrito Federal, o de los Estados o municipios, deberán remitir a la Dirección de Crédito de la Secretaría de Hacienda y Crédito Público, copia autógrafa del requerimiento, en la que conste la fecha en que fue recibido por la institución fiadora;
 
-(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 19 DE MARZO DE 1954)
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-IV.- Dentro del plazo de 90 días naturales, señalado en el requerimiento, la institución de fianzas deudora deberá comprobar, ante la Dirección de Crédito, que hizo el pago o que cumplió con el requisito de la Regla V. En caso contrario, al día siguiente de vencido dicho plazo, la misma Dirección de Crédito ordenará a la institución nacional de crédito que corresponda, se rematen en Bolsa, valores propiedad de la Institución de fianzas, bastantes a cubrir el importe de lo reclamado.
+IV.- Dentro del plazo de treinta días naturales señalado en el requerimiento, la institución de fianzas deudora deberá comprobar, ante la Secretaría de Hacienda y Crédito Público, que hizo el pago o que cumplió con el requisito de la Regla V. En caso contrario, al día siguiente de vencido dicho plazo, la misma Secretaría ordenará a la institución nacional de crédito que corresponda se rematen en Bolsa, valores propiedad de la institución de fianzas, bastantes a cubrir el importe de lo reclamado.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
 
@@ -871,11 +871,11 @@ d).- Porque la autoridad que hubiere hecho el requerimiento se desistiere del co
 
 Los oficios de desistimiento de cobro, necesariamente deberán suscribirlos los Tesoreros de las entidades respectivas.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 95 Bis.
 
-En caso de inconformidad contra el requerimiento, las instituciones de fianzas, dentro del término de 90 días naturales, señalado en el artículo anterior, demandarán ante el Tribunal Fiscal de la Federación, la improcedencia del cobro.
+En caso de inconformidad contra el requerimiento, las instituciones de fianzas, dentro del término de treinta días naturales, señalado en el artículo anterior, demandarán ante el Tribunal Fiscal de la Federación, la improcedencia del cobro.
 
 ###### ARTICULO 96.
 
@@ -1109,9 +1109,15 @@ Las instituciones de fianzas no gozan de los beneficios de orden y excusión y s
 
 La prórroga o espera concedida por el acreedor al deudor principal, sin consentimiento de la institución de fianzas, extingue la fianza.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 120.
 
-Las acciones que se deriven de la fianza prescribirán en dos años. El requerimiento escrito de pago, hecho a la institución de fianzas, interrumpe la prescripción.
+Las acciones que se deriven de la fianza prescribirán en dos años.
+
+Las obligaciones a cargo de las instituciones de fianzas, derivadas de las que otorguen para garantizar créditos a favor de la Federación, del Distrito Federal, de los Estados, de los Municipios y de los organismos descentralizados, se extinguirán por prescripción en el término de cinco años.
+
+En todo caso, el requerimiento escrito de pago, hecho a las instituciones de fianzas, interrumpe la prescripción.
 
 ###### ARTICULO 121.
 
@@ -1354,3 +1360,23 @@ La presente Ley entrará en vigor en toda la República y el día primero de ene
 Se derogan el artículo 16 de la Ley Federal del Impuesto sobre Ingresos Mercantiles, la fracción VI del artículo 14 y el último párrafo del artículo 18 de la Ley del Impuesto sobre la Renta y el artículo 71 de la Ley Federal de Instituciones de Fianzas.
 
 .
+
+D.O.F. 30 DE DICIEMBRE DE 1977.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos setenta y ocho.
+
+.
+
+###### ARTICULO OCTAVO.
+
+A partir de la fecha en que entren en vigor las reformas o adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en dichas reformas o adiciones.
+
+.
+
+###### ARTICULO DECIMO.
+
+Las obligaciones a cargo de las instituciones de fianzas, derivadas de las que hayan otorgado para garantizar créditos a favor de la Federación, del Distrito Federal, de los Estados, de los Municipios y de los organismos descentralizados, exigibles antes de la vigencia de la presente Ley, prescribirán en cinco años, pero el tiempo transcurrido hasta el 31 de diciembre de 1977, se ajustará proporcionalmente, multiplicando por 2.5 el número de días transcurridos desde que fueron exigibles o desde que se hubiera interrumpido la prescripción, hasta la fecha citada.
