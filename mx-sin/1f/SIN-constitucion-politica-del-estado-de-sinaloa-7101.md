@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1962-09-22"
+last_updated: "1962-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1962.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -179,9 +179,11 @@ El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno repu
 
 El Territorio del Estado se divide política y administrativamente como sigue:
 
-I. En dieciséis Municipalidades autónomas a saber:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1962)</small>
 
-Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Mocorito, Badiraguato, Culiacán, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
+I. En diecisiete Municipalidades autónomas, a saber:
+
+Choix, El Fuerte, Ahome, Sinaloa, Guasave, Mocorito, "Salvador Alvarado", Angostura, Badiraguato, Culiacán, Cosalá, Elota, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les corresponda.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -1808,3 +1810,9 @@ Artículo Unico.- El presente Decreto comenzará a surtir sus efectos a partir d
 P.O. 22 DE SEPTIEMBRE DE 1962.
 
 Unico. El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1962.
+
+I. El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+II. Se deja sin efecto el Decreto número 315 expedido por este H. Congreso del Estado, el día 6 de agosto del presente año.
