@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2003-01-14"
+last_updated: "2003-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 2003.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4621,3 +4621,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El arancel establecido en el artículo 1o. de este Decreto para las fracciones arancelarias 1513.11.01, 1513.19.99, 1513.21.01 y 1513.29.99, estará vigente hasta el 31 de diciembre de 2003. A partir del 1o. de enero de 2004 y hasta el 30 de junio del mismo año, el arancel ad-valorem para las mencionadas fracciones arancelarias será de 35%. A partir del 1o. de julio de 2004 y hasta el 31 de diciembre del mismo año, el arancel ad-valorem para las fracciones arancelarias indicadas será de 25%. A partir del 1o. de enero de 2005 las fracciones arancelarias 1513.11.01 y 1513.21.01 estarán sujetas al pago de un arancel ad-valorem de 10%, mientras que las fracciones arancelarias 1513.19.99 y 1513.29.99 estarán sujetas al pago de un arancel ad-valorem de 20%.
 
 TERCERO.- El arancel establecido en el artículo 2o. de este Decreto para las fracciones arancelarias 0804.30.01 y 2008.20.01, estará vigente hasta el 30 de septiembre de 2003. A partir del 1o. de octubre de 2003, dichas fracciones arancelarias estarán sujetas al pago de un arancel ad-valorem de 23%.
+
+D.O.F. 10 DE FEBRERO DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
