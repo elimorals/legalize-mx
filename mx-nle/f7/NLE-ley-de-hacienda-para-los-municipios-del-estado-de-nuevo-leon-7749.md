@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -399,9 +399,13 @@ Mientras se practica la valuación correspondiente a cada porción del predio di
 
 Es base de este Impuesto:
 
-a) En predios con valor real catastral hasta de $ 4,427,500.00, la base será el 50%.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-b) En predios con valor real catastral superior a $4,427,500.00, la base será el 75%
+a) En predios con valor real catastral hasta de $5'092,000.00, la base será el 50%.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+b) En predios con valor real catastral superior a $5'092,000.00, la base será el 75%.
 
 c) La que resulte mayor de entre el valor fiscal con que se encuentren empadronados y el valor de la operación de traslado de dominio, en aquellos casos en que los predios no tengan asignado valor catastral mediante el procedimiento establecido en la Ley del Catastro y su reglamento.
 
@@ -421,41 +425,73 @@ La base del impuesto se ajustará a miles de pesos, aumentando o disminuyendo a 
 
 El impuesto Predial se determinará, liquidará y pagará, aplicando a la base del impuesto una tarifa del 3 (tres) al millar anual, salvo lo establecido en el Artículo siguiente.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 21 Bis 9.
 
-El Impuesto Predial será de $240.00 anuales, cuando se trate de los siguientes casos:
+El Impuesto Predial será de $300.00 anuales, cuando se trate de los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 I.- Los Predios destinados a planteles escolares no oficiales donde se imparta enseñanza primaria, secundaria o universitaria, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia, siempre que el inmueble sea propio.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como los predios propiedad de instituciones publicas que se destinen a planteles escolares.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 III.- Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
-IV.- Las viviendas cuyo valor real determinado por la Oficina Técnica Catastral, no excedan del valor de la vivienda de interés social que haya financiado con tal carácter la Banca Nacional, siempre y cuando se habite en ella y no se posea otro bien raíz en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+IV.- Las viviendas cuyo valor real determinado por la Oficina Técnica Catastral, no excedan de $3'500,000.00 por lo que hace a la ubicadas en los Municipios de Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, Santa Catarina y San Nicolás de los Garza, y de $2'000,000.00 por lo que hace a las ubicadas en el resto de los Municipios de la Entidad; siempre y cuando se habite en tal vivienda y no se posea otro bien raíz en el Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 V.- Los predios Ejidales.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 VI.- Los predios afectados al patrimonio de familia, en los términos del Código Civil del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 VII.- Los predios propiedad de asociaciones, fundaciones e instituciones de beneficencia publica o privada, asociaciones deportivas o sociales que no tengan fines lucrativos; siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 VIII.- Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios adquiridos por las personas que resulten directamente beneficiadas con tales programas.
 
-IX.- Los predios cuyo valor real determinado por la Oficina Técnica Catastral, no excedan de dos veces el valor de la vivienda de interés social financiada con tal carácter por la Banca Nacional y pertenezcan a:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+IX.- Los predios cuyo valor real determinado por la Oficina Técnica Catastral, no excedan de $5'000,000.00 y pertenezcan a:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 a) Huérfanos menores de 18 años.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 b) Mujeres cualquiera que sea su edad, con excepción de casadas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 c) Veteranos de la Revolución, en los términos del Decreto No. 71 expedido por el Congreso del Estado el 19 de diciembre de 1950.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 d) Personas incapacitadas físicamente para trabajar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de dos veces y media el salario mínimo general que rija en la zona económica en que se encuentre ubicado el inmueble.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 f) Los predios pertenecientes a los trabajadores al servicio de la Federación, Estado o Municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 Para quedar dentro de los supuestos de esta fracción, las personas antes citadas deberán habitar el inmueble en cuestión y no poseer otro bien raíz en el Estado.
 
@@ -709,7 +745,9 @@ Cuando del inmueble formen parte departamentos habitacionales, la reducción se 
 
 No se pagará el impuesto, en la adquisición de inmuebles que hagan la Federación, el Estado o los Municipios, para formar parte del dominio publico.
 
-El impuesto sobre Adquisición de Inmueble se cubrirá a una tarifa única especial de $1,500.00, cuando el valor real del inmueble adquirido, determinado por la Oficina Técnica Catastral, no exceda del valor de la vivienda de interés social financiada con tal carácter por la Banca Nacional, y a una tarifa única especial de $3,000.00, cuando exceda de dicha cantidad, en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+El Impuesto sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de $2,000.00, cuando el valor real del inmueble adquirido, determinado por la Oficina Técnica Catastral, no exceda de $3'500,000.00, y a una tarifa única especial de $5,000.00 cuando exceda de dicha cantidad, en los siguientes casos:
 
 I.- En las adquisiciones hechas por asociaciones, fundaciones e instituciones de beneficencia publica o privada, por bienes destinados exclusivamente a sus fines.
 
@@ -835,7 +873,9 @@ Cuando la compra-venta con reserva del dominio o la promesa de adquirir se hayan
 
 La reducción a que se refiere el Artículo 28 Bis, se realizará conforme a lo siguiente:
 
-I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción, pagando en su caso las diferencias de impuesto que correspondan.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. Igualmente, solo tendrán derecho a hacer una reducción, las personas físicas o morales que dentro de período antes mencionado adquieran lotes en un mismo fraccionamiento, sin importar la distancia que dichos lotes guarden entre sí. El adquirente deberá manifestar, bajo protesta de decir verdad, al Fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación se encuentra comprendido en alguno de los supuestos de este artículo, para que se ajuste el monto de la reducción, pagando en su caso las diferencias de impuesto que corresponda.
 
 II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, la reducción se hará en la proporción que corresponda a dicha parte.
 
@@ -1313,29 +1353,29 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Garza García, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria, edificios y refrigeración:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-I.- Por cabeza de ganado mayor $300.00
+I.- Por cabeza de ganado mayor. $500.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-II.- Por cabeza de ganado porcino $150.00
+II.- Por cabeza de ganado porcino. $250.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-III.- Por cabeza de ganado ovicaprino $50.00
+III.- Por cabeza de ganado ovicaprino. $75.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Por cabrito $30.00
+IV.- Por cabrito. $50.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-V.- Por ave, con excepción de guajolotes $5.00
+V.- Por ave, con excepción de guajolotes. $10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VI.- Por guajolote $10.00
+VI.- Por guajolote. $15.00
 
 En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de las cuotas anteriores.
 
@@ -1343,41 +1383,41 @@ En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de 
 
 INSPECCION SANITARIA.- Por servicios prestados por inspección sanitaria y resello de carnes frescas o refrigeradas, de ganado o aves:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984))
 
-I.- Ganado mayor por canal. $50.00
+I.- Ganado mayor por canal. $75.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-II.- Ganado porcino por canal. $30.00
+II.- Ganado porcino por canal. $45.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-III.- Ganado ovicaprino por canal. $15.00
+III.- Ganado ovicaprino por canal. $25.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Cabrito, por cada uno. $10.00
+IV.- Cabrito, por cada uno. $15.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984))
 
-V.- Aves, cada una. $2.00
+V.- Aves, cada una. $5.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VI.- Guajolotes, cada uno. $10.00
+VI.- Guajolotes, cada uno. $15.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VII.- Cabeza de res o cerdo. $10.00
+VII.- Cabeza de res o cerdo. $15.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VIII.- Asadura, por pieza. $3.00
+VIII.- Asadura, por pieza. $5.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IX.- Menudo, por pieza. $3.00
+IX.- Menudo, por pieza. $5.00
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -1555,7 +1595,7 @@ V.- Por autorización de libros, $3.00 por hoja.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VI.- Por otros autorizaciones y registros, de $200.00 a $1,000.00.
+VI.- Por otras autorizaciones y registros, de $200.00 a $1,000.00.
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
@@ -1565,49 +1605,49 @@ VI.- Por otros autorizaciones y registros, de $200.00 a $1,000.00.
 
 Por inscripción al inicio de las actividades que se señalan:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $10,000.00 a $50,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $15,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-II.- Casa de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $20,000.00 a $80,000.00.
+II.- Casa de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $30,000.00 a $120,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $ 2,000.00 a $ 5,000.00.
+III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $3,000.00 a $7,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $5,000.00 a $10,000.00.
+IV.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $7,500.00 a $15,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano, de $200.00 a $1,000.00.
+V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales destinados al consumo humano, de $300.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VI.- Molinos de nixtamal, de $50.00 a $150.00.
+VI.- Molinos de nixtamal, de $75.00 a $220.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VII.- Tortillerías, de $200.00 a $500.00.
+VII.- Tortillerías, de $300.00 a $700.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VIII.- Peluquerías y salones de belleza, de $100.00 a $1,000.00.
+VIII.- Peluquerías y salones de belleza, de $150.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IX.- Salas de cine, de $1,000.00 a $2,000.00.
+IX.- Salas de cine, de $1,500.00 a $3,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-X.- Terrazas de cine, de $200.00 a $1,000.00.
+X.- Terrazas de cine, de $300.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-XI.- Radiolas, sinfonolas y tocadiscos, $500.00 por unidad.
+XI.- Radiolas, sinfonolas y tocadiscos, $750.00 por unidad.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1615,49 +1655,49 @@ XI.- Radiolas, sinfonolas y tocadiscos, $500.00 por unidad.
 
 Por refrendo anual de la licencia, autorización, permiso o concesión, se cobrarán:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $5,000.00 a $25,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $8,000.00 a $40,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $10,000.00 a $50,000.00.
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $15,00,00 a $80,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-III.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $2,500.00 a $10,000.00.
+III.- Cantinas, bares, restaurantes-bares, y establecimientos similares, de $4,000.00 a $20,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $1,500.00 a $5,000.00.
+IV.- Establecimientos en que se venden vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $2,500.00 a $10,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves o cabritos, de $100.00 a $1,000.00.
+V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales destinados al consumo humano, de $150.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VI.- Molinos de nixtamal, de $60.00 a $500.00.
+VI.- Molinos de nixtamal, de $100.00 a $750.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VII.- Tortillerías, de $100.00 a $500.00.
+VII.- Tortillerías, de $150.00 a $750.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-VIII.- Peluquerías y salones de belleza, de $200.00 a $1,000.00.
+VIII.- Peluquerías y salones de belleza, de $300.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IX.- Salas de cine, de $2,000.00 a $5,000.00.
+IX.- Salas de cine, de $3,000.00 a $7,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-X.- Terrazas de cine, de $1,000.00 a $2,000.00.
+X.- Terrazas de cine, de $1,500.00 a $3,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-XI.- Radiolas, sinfonolas y tocadiscos, $400.00 por unidad.
+XI.- Radiolas, sinfonolas y tocadiscos, $600.00 por unidad.
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
@@ -1711,13 +1751,13 @@ III.- Por servicios de los departamentos de tránsito municipal, para la expedic
 
 Si el servicio se presta al primer año del bienio, se pagará el bienio completo; si la expedición se hace el segundo año, se pagará únicamente el 50% de la cuota.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Por inscripciones que previenen el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $100.00 a $650.00, excepto por la inspección de polvorines, en que la cuota será de $2,000.00.
+IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $100.00 a $650.00, excepto por la inspección de polvorines, en que la cuota será de $3,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole, $15.00 por cabeza de ganado vacuno, caballar, asnal, mular, y porcino; y $5.00 por cabeza de ganado cabrío o lanar.
+V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole, $20.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino; y $10.00 por cabeza de ganado cabrío o lanar.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1735,23 +1775,23 @@ Los derechos por revisión, inspección y demás servicios que preste la Autorid
 
 Por la expedición de licencias se cobrará:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $150.00 a $1,000.00 por cada ocasión que se celebren.
+I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, en lugares abiertos o cerrados, en que se cobre derecho de admisión o se expida boletaje para la entrada, de $200.00 a $1,500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-II.- Por cada corrida de toros, $4,000.00.
+II.- Por cada corrida de toros, $6,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-III.- Por cada novillada, $700.00.
+III.- Por cada novillada, $1,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $500.00 a $2,500.00.
+IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $750.00 a $4,000.00.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
@@ -1759,7 +1799,7 @@ IV.- Por temporada de atracciones, circos y demás espectáculos públicos de $5
 
 ###### ARTICULO 65.
 
-Por inhumación en los cementerios de primera categoría se pagará una cuota de $100.00 y en los Municipales de $50.00, siendo los prestadores del servicio de funeraria responsables solidariamente del pago.
+Por inhumación en los cementerios de primera categoría se pagará una cuota de $200.00 y en los Municipales de $80.00, siendo los prestadores del servicio de funeraria responsables solidariamente del pago.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1769,9 +1809,13 @@ Por inhumación en los cementerios de primera categoría se pagará una cuota de
 
 Por limpieza de lotes baldíos que efectúe el Municipio, después de haber transcurrido sin resultado un mes del apercibimiento que se hiciere al propietario para que efectúe la limpia de su inmueble, se cobrará:
 
-a) Por lotes de primera categoría, $10.00 por metro cuadrado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-b) Por lotes de segunda categoría, $5.00 por metro cuadrado.
+a) Por lotes de primera categoría, $15.00 por metro cuadrado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+b) Por lotes de segunda categoría, $10.00 por metro cuadrado.
 
 Este servicio de limpieza solo se proporcionará una vez al año.
 
@@ -1789,29 +1833,31 @@ Los Municipios tendrán los siguientes:
 
 I.- Del arrendamiento, explotación o enajenación de los bienes de los Municipios.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-II.- Por ocupación de la vía pública con materiales para construcción, escombros, etc., la siguiente cuota: $4.00 diarios por metro cuadrado o fracción menor, siempre y cuando no se interrumpa la propia vía pública. Los permisos deberán obtenerse previamente de la Dirección de Obras Públicas, la que lo comunicará a la Tesorería Municipal para efectos fiscales. Previamente los interesados otorgarán depósito de dinero a la citada autoridad, para garantizar la reposición de pavimento, cordones, banquetas y demás obras.
+II.- Por ocupación de la vía pública con materiales para construcción, escombros, etc., la siguiente cuota: $10.00 diarios por metro cuadrado o fracción menor, siempre y cuando no se interrumpa la propia vía pública. Los permisos deberán obtenerse previamente de la Dirección de Obras Públicas, la que lo comunicará a la Tesorería Municipal para efectos fiscales. Previamente los interesados otorgarán depósito de dinero a la citada autoridad, para garantizar la reposición de pavimento, cordones, banquetas y demás obras.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-III.- Por ocupar la vía pública con sillas, se pagará $1.00 diario por unidad.
+III.- Por ocupar la vía pública con sillas, se pagará $2.00 diarios por unidad.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-IV.- Por ocupar la vía pública los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $40.00 por unidad mensualmente.
+IV.- Por ocupar la vía pública los propietarios de sitios y automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $60.00 por unidad mensualmente.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
 V.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el Departamento de Tránsito, de acuerdo con su Reglamento, se pagará una cuota anual en la forma siguiente:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-a) Las empresas comerciales $600.00 por metro cuadrado.
+a) Las empresas comerciales $1,000.00 por metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-b) Los particulares $250.00 por metro cuadrado. Se exceptúan de lo anterior, los lugares en donde se encuentren instalados aparatos marcadores de tiempo (estacionómetros), en cuyo caso se pagará la cuota de $300.00 por cajón.
+b) Los particulares, $500.00 por metro cuadrado.
+
+Se exceptúan de lo anterior, los lugares en donde se encuentrae (sic) instalados estacionómetros, en cuyo caso se pagará una cuota adicional de $300.00 por metro cuadrado.
 
 VI.- Por créditos a favor del Municipio.
 
@@ -1821,9 +1867,9 @@ VIII.- Venta de bienes mostrencos.
 
 IX.- Venta de objetos recogidos por el Departamento de Limpia y Transporte.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-X.- Por estacionamiento de vehículos en la vía pública en aquellos lugares donde existan instalados aparatos marcadores de tiempo (estacionómetros), por cada diez minutos o fracción $1.00.
+X.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existan instalados estacionómetros, por cada 30 minutos o fracción $5.00.
 
 ## TITULO SEXTO. DISPOSICIONES GENERALES
 
@@ -2178,3 +2224,13 @@ Este Decreto entrará en vigor el día 1o. de enero de 1984.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de enero de 1985.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
