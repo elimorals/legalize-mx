@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-2"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "1998-01-23"
+last_updated: "2000-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-12-23"
 
 LEY DE NAVEGACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 4 de enero de 1994.
 
@@ -75,7 +75,9 @@ Corresponde a los tribunales federales conocer de las controversias, actos de ju
 
 Las embarcaciones y los artefactos navales mexicanos estarán sujetos al cumplimiento de la legislación mexicana, aun cuando se encuentren fuera de las aguas de jurisdicción mexicana, sin perjuicio de la observancia de la ley extranjera, cuando se encuentren en aguas sometidas a otra jurisdicción.
 
-Las embarcaciones extranjeras que naveguen en aguas interiores y zonas marinas mexicanas quedan sujetas, por ese solo hecho, a la jurisdicción y al cumplimiento de la legislación mexicana.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+Las embarcaciones extranjeras que se encuentren en aguas interiores y zonas marinas mexicanas quedan sujetas, por ese solo hecho, a la jurisdicción y al cumplimiento de la legislación mexicana.
 
 ###### ARTICULO 5o.
 
@@ -85,9 +87,17 @@ I. Las leyes General de Bienes Nacionales, Federal del Mar y de Puertos;
 
 II. Código de Comercio;
 
-III. Códigos Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal y Federal de Procedimientos Civiles; y
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
-IV. Los usos y las costumbres marítimas internacionales.
+III. Ley Federal de Procedimiento Administrativo;
+
+> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
+
+IV. Códigos Civil para el Distrito Federal, en materia Común, y para toda la República en Materia Federal y Federal de Procedimientos Civiles, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE MAYO DE 2000)</small>
+
+V. Los usos y las costumbres marítimas internacionales.
 
 ### CAPITULO II. AUTORIDAD MARITIMA
 
@@ -133,7 +143,7 @@ XII. Intervenir en las negociaciones de los tratados internacionales, en materia
 
 XIII. Integrar la información estadística de la flota mercante, el transporte y los accidentes en aguas mexicanas;
 
-XIV. Registrar las bases tarifarías del servicio regular de transporte de altura de líneas conferenciadas y, en su caso, autorizar las bases tarifarias del servicio regular de transporte de cabotaje de pasajeros;
+XIV. Registrar las bases tarifarías del servicio regular de transporte de altura de líneas conferenciadas y, en su caso, autorizar las bases tarifarías del servicio regular de transporte de cabotaje de pasajeros;
 
 XV. Establecer y organizar un cuerpo de vigilancia, seguridad y auxilio para la navegación interior;
 
@@ -195,7 +205,9 @@ c) De pesca;
 
 d) De recreo y deportivas;
 
-e) Especiales, que incluyen las dragas, remolcadores, embarcaciones de salvamento y seguridad pública y otras no comprendidas en los incisos anteriores; y
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+e) Especiales, que incluyen las dragas, remolcadores, barcazas, barcos grúa, embarcaciones de salvamento y seguridad pública y otras no comprendidas en los incisos anteriores, y
 
 f) Artefactos navales.
 
@@ -205,9 +217,11 @@ a) Buque o embarcación mayor: Toda embarcación de quinientas unidades de arque
 
 b) Embarcación menor: La de menos de quinientas unidades de arqueo bruto, o menos de 15 metros de eslora, cuando no sea aplicable la medida por arqueo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 10.
 
-Las personas físicas mexicanas o morales constituidas conforme a las leyes mexicanas, podrán abanderar, matricular y registrar como mexicanos embarcaciones y artefactos navales, de su propiedad o en posesión, mediante contrato de fletamento a casco desnudo.
+Las personas físicas mexicanas o morales constituidas conforme a las leyes mexicanas, podrán abanderar, matricular y registrar como mexicanos, embarcaciones y artefactos navales, de su propiedad o en posesión mediante contrato de arrendamiento financiero.
 
 Los extranjeros, únicamente lo podrán hacer respecto a embarcaciones de recreo o deportivas para uso particular.
 
@@ -269,7 +283,7 @@ III. Los contratos de arrendamiento o fletamento a casco desnudo de embarcacione
 
 IV. Los contratos de construcción de embarcaciones en México, o de aquéllas que se construyan en el extranjero y se pretendan abanderar como mexicanas;
 
-V. Las embarcaciones extranjeras incorporadas al programa de abanderamiento;
+V. (DEROGADA, D.O.F. 26 DE MAYO DE 2000)
 
 VI. Los navieros y agentes navieros mexicanos, así como los operadores, para cuya inscripción bastará acompañar copia de sus estatutos sociales o acta de nacimiento, según corresponda; y
 
@@ -283,7 +297,7 @@ La organización y funcionamiento del Registro Público Marítimo Nacional, el p
 
 ###### ARTICULO 15.
 
-Las empresas navieras mexicanas podrán inscribir en el Registro Público Marítimo Nacional, dentro de un Programa de Abanderamiento a las embarcaciones extranjeras de su propiedad o que legítimamente posean, bajo cualquier contrato de arrendamiento o fletamento con opción a compra, las cuales gozarán del mismo trato que las embarcaciones mexicanas, cuando cumplan con los requisitos y obligaciones de incorporación de tripulación mexicana y compromiso de abanderamiento que establezca el reglamento respectivo.
+(DEROGADO, D.O.F. 26 DE MAYO DE 2000)
 
 ### CAPITULO III. EMPRESAS NAVIERAS
 
@@ -421,6 +435,10 @@ Los programas de estudio para la formación de los diversos niveles de los profe
 
 Los títulos profesionales, libretas de mar y demás documentos que establece el Convenio Internacional sobre Normas de Formación, Titulación y Guardia para la Gente de Mar, serán expedidos por la Secretaría de conformidad con el reglamento respectivo.
 
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+A quienes obtengan los títulos de Piloto Naval y de Maquinista Naval, en los términos del Reglamento correspondiente, la Secretaría les expedirá, conjuntamente, los títulos de Ingeniero Geógrafo e Hidrógrafo para los primeros, y de Ingeniero Mecánico Naval para los segundos.
+
 ## TITULO TERCERO. DE LA NAVEGACION
 
 ### CAPITULO I. REGIMEN DE NAVEGACION
@@ -453,15 +471,21 @@ La operación o explotación de embarcaciones en navegación de altura, que incl
 
 La Secretaría, previa opinión de la Comisión Federal de Competencia, podrá reservar, total o parcialmente, determinado transporte internacional de carga de altura, para que sólo pueda realizarse por empresas navieras mexicanas, con embarcaciones mexicanas o reputadas como tales, cuando no se respeten los principios de libre competencia y se afecte la economía nacional.
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 34.
 
-La operación y explotación de embarcaciones en navegación interior está reservada a navieros mexicanos con embarcaciones mexicanas. Cuando no existan embarcaciones mexicanas adecuadas y disponibles, o el interés público lo exija, la Secretaría podrá otorgar a navieros mexicanos, permisos temporales de navegación para operar y explotar con embarcaciones extranjeras, o en caso de no existir navieros mexicanos interesados, podrá otorgar estos permisos a empresas navieras extranjeras.
+Sin perjuicio de lo previsto en los diversos tratados internacionales de los que México sea parte, la operación y explotación de embarcaciones en navegación interior y de cabotaje está reservada a navieros mexicanos con embarcaciones mexicanas. En caso de no existir estas embarcaciones disponibles y en igualdad de condiciones técnicas y precio, o que el interés público lo exija, la Secretaría podrá otorgar permisos temporales para navegación interior y de cabotaje, de conformidad con la siguiente prelación:
 
-La operación y explotación de embarcaciones en navegación de cabotaje, podrá realizarse por navieros mexicanos o extranjeros, con embarcaciones mexicanas o extranjeras. En el caso de navieros o embarcaciones extranjeros, se requerirá permiso de la Secretaría, previa verificación de que existan condiciones de reciprocidad y equivalencia con el país en que se encuentre matriculada la embarcación y con el país donde el naviero tenga su domicilio social y su sede real y efectiva de negocios.
+I. Naviero mexicano con embarcación extranjera, bajo contrato de arrendamiento o fletamento a casco desnudo;
 
-La operación y explotación en navegación interior y de cabotaje de cruceros turísticos, así como de dragas y artefactos navales para la construcción, conservación y operación portuaria, podrá realizarse por navieros mexicanos o extranjeros, con embarcaciones o artefactos navales mexicanos o extranjeros.
+II. Naviero mexicano con embarcación extranjera, bajo cualquier contrato de fletamento, y
 
-La Secretaría, previa opinión de la Comisión Federal de Competencia, podrá resolver que, total o parcialmente determinados tráficos de cabotaje, sólo puedan realizarse por navieros mexicanos con embarcaciones mexicanas o reputadas como tales, cuando no se respeten los principios de competencia y se afecte la economía nacional.
+III. Naviero extranjero con embarcación extranjera.
+
+En todo caso, para el otorgamiento del permiso se dará prioridad, a aquellos navieros cuyas embarcaciones cuenten con mayor número de tripulantes mexicanos en los términos de lo dispuesto por los artículos 7 y 154 de la Ley Federal del Trabajo y a embarcaciones cuyos países de bandera tengan celebrado con México tratados de reciprocidad en transporte marítimo.
+
+La operación y explotación en navegación interior y de cabotaje de cruceros turísticos, así como de dragas y artefactos navales, para la construcción, conservación y operación portuaria, podrá realizarse por navieros mexicanos o extranjeros, con embarcaciones o artefactos navales mexicanos o extranjeros.
 
 ###### ARTICULO 35.
 
@@ -493,13 +517,11 @@ El otorgamiento de concesiones y permisos a que se refiere esta ley se ajustará
 
 La revocación de las concesiones y permisos, estará sujeto al procedimiento que para ello establece la Ley de Puertos.
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 37.
 
-Los permisos materia de esta ley se otorgarán a todas aquellas personas que cumplan con los requisitos de esta ley y su reglamento, pero en todo caso la resolución correspondiente deberá emitirse en un plazo que no exceda de cuarenta y cinco días naturales, contados a partir de aquél en que se hubiere presentado la solicitud debidamente requisitada, salvo que por las características especiales de lo solicitado, la resolución requiera de un plazo mayor, que no podrá exceder de noventa días naturales.
-
-Transcurrido este último plazo sin que hubiere recaído resolución sobre la solicitud de que se trate, se entenderá otorgado el permiso correspondiente.
-
-Los permisos a que se refiere esta ley, no confieren derechos de exclusividad, por lo que la Secretaría podrá otorgar otro u otros a favor de terceras personas para que exploten, en igualdad de circunstancias, servicios idénticos o similares. En caso de que por razones de seguridad sea necesario limitar la entrada de participantes, el otorgamiento de los permisos se hará por concurso en los términos del procedimiento previsto en la Ley de Puertos.
+Los permisos materia de esta ley se otorgarán a todas aquellas personas que cumplan con los requisitos de esta Ley y su reglamento, pero en todo caso la resolución correspondiente deberá emitirse en un plazo que no exceda de cuarenta y cinco días naturales, contado a partir de la presentación de la solicitud correspondiente.
 
 ### CAPITULO II. ARRIBO Y DESPACHO DE EMBARCACIONES
 
@@ -515,53 +537,21 @@ III. Forzosa: La que se efectúe por mandato de ley, caso fortuito o fuerza mayo
 
 Se deberán justificar ante la autoridad marítima las arribadas imprevistas o forzosas de las embarcaciones.
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 39.
 
-La autoridad marítima, para autorizar el arribo a puerto a las embarcaciones, exigirá:
-
-I. En navegación de cabotaje:
-
-a) Despacho de salida del puerto de origen;
-
-b) Manifiesto de carga y declaración de mercancías peligrosas;
-
-c) Lista de tripulantes y, en su caso, de pasajeros; y
-
-d) Diario de navegación.
-
-II. En navegación de altura, además de los documentos señalados en la fracción anterior:
-
-a) Autorización de la libre plática;
-
-b) Patente de sanidad;
-
-c) En su caso, lista de pasajeros que habrán de internarse en el país y de los que volverán a embarcar;
-
-d) Certificado de Arqueo;
-
-e) Declaración general;
-
-f) Declaración de provisiones a bordo; y
-
-g) Declaración de efectos y mercancías de la tripulación.
-
-En el caso de embarcaciones menores, se establecerá un régimen simplificado en el reglamento respectivo.
+Las embarcaciones para arribar a un puerto, requerirán de la autorización de la autoridad marítima, previo el cumplimiento de los requisitos que señale el Reglamento de esta Ley.
 
 ###### ARTICULO 40.
 
 Se entiende por recalada la aproximación de las embarcaciones a las costas o riberas, para reconocerlas o rectificar la posición, prosiguiendo el viaje. En este caso y cuando hayan llegado a la rada o al antepuerto sólo a buscar abrigo, o que sólo se hayan comunicado a tierra a distancia, podrán abandonar su lugar de fondeo sin aviso o formalidad alguna.
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 41.
 
-Conforme se establezca en el reglamento respectivo, para hacerse a la mar, las embarcaciones requerirán de un despacho del puerto que expedirá la autoridad marítima, para lo cual se les exigirá:
-
-I. Patente de sanidad;
-
-II. Certificado de no adeudo o garantía de pago por el uso de infraestructura o daños causados a ésta;
-
-III. Certificados de seguridad que demuestren el buen estado de la embarcación; y
-
-IV. Cálculo y plan de estiba de la carga.
+Las embarcaciones, para hacerse a la mar, requerirán de un despacho de puerto que expedirá la autoridad marítima, previo al cumplimiento de los requisitos que se establezcan en el Reglamento correspondiente.
 
 Los despachos quedarán sin efecto si no se hiciere uso de ellos, dentro de las cuarenta y ocho horas siguientes a su expedición.
 
@@ -585,7 +575,9 @@ En las marinas, el arribo y despacho de las embarcaciones de recreo y deportivas
 
 Se entiende por despacho vía la pesca, la autorización a una embarcación para que se haga a la mar con el objeto de realizar actividades pesqueras.
 
-Las embarcaciones pesqueras que efectúen navegación vía la pesca, para obtener el despacho de salida deberán exhibir ante la autoridad marítima la concesión, permiso o autorización expedida por la Secretaría de Pesca; y su plazo de vigencia lo fijará la autoridad marítima mismo que no podrá exceder los noventa días naturales, siempre y cuando esté dentro de la vigencia del documento que autorice la actividad pesquera.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+El plazo de vigencia del despacho a que se refiere el párrafo anterior lo fijará la autoridad marítima mismo que no podrá exceder los noventa días naturales, conforme se establezca en el reglamento respectivo.
 
 El naviero estará obligado a dar el aviso de entrada y salida, cada vez que lo hagan al amparo del despacho vigente, debiendo informar por escrito a la autoridad marítima de la lista de tripulación, personal pesquero, rumbo y áreas probables donde vaya a efectuar la pesca.
 
@@ -677,9 +669,11 @@ Se presume, salvo prueba en contrario, que una embarcación con un certificado d
 
 La autoridad marítima llevará a cabo el reconocimiento de certificados de seguridad a las embarcaciones extranjeras, en los términos de los tratados internacionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 59.
 
-La construcción, reparación o modificación significativa de buques, deberá realizarse bajo condiciones técnicas de seguridad, en los términos de los tratados internacionales y el reglamento respectivo, para lo cual:
+La construcción, así como la reparación o modificación significativas de embarcaciones, deberán realizarse bajo condiciones técnicas de seguridad, en los términos de los tratados internacionales y con observancia del reglamento respectivo, para lo cual:
 
 I. Todos los astilleros, diques, varaderos, talleres e instalaciones al servicio de la marina mercante deberán sujetarse a las normas oficiales mexicanas respectivas;
 
@@ -688,6 +682,10 @@ II. El proyecto deberá ser previamente aprobado por la Secretaría y elaborado 
 III. Durante los trabajos el buque en construcción o reparación estará sujeto a las pruebas, inspecciones y verificaciones correspondientes; y
 
 IV. Al término de los trabajos, el buque requerirá de los certificados de seguridad marítima y de arqueo, que expida la Secretaría, o por personas aprobadas por ésta.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+Se entenderá por reparación o modificación significativas de embarcaciones aquéllas que conlleven la alteración de sus dimensiones o su capacidad de transporte o que provoquen que cambie el tipo del buque, así como las que se efectúen con la intención de prolongar la vida de la embarcación.
 
 ###### ARTICULO 60.
 
@@ -1015,7 +1013,9 @@ A los contratos de transporte multimodal les serán aplicables, en lo conducente
 
 Las tarifas de fletes para los servicios regulares en navegación de altura y los recargos, se sujetarán a lo dispuesto en la Convención sobre un Código de Conducta de las Conferencias Marítimas.
 
-Los fletes correspondientes a otros servicios de transporte por agua de mercancías mediante conocimiento de embarque, serán pactados libremente por las empresas navieras y los usuarios.
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+Los fletes correspondientes a otros servicios de transporte por agua mediante conocimiento de embarque o contrato de fletamento, serán pactados libremente por las empresas navieras y los usuarios. Cuando no exista competencia efectiva en la explotación del servicio, la Secretaría a petición de la parte afectada y previa resolución favorable de la Comisión Federal de Competencia, establecerá las bases tarifarias respectivas.
 
 ###### ARTICULO 100.
 
@@ -1237,9 +1237,13 @@ Toda operación de salvamento y las responsabilidades y derechos de las partes, 
 
 Cuando una embarcación, aeronave, artefacto naval o carga se encuentre a la deriva, en peligro de hundimiento, hundido o varado y, a juicio de la autoridad marítima, constituya un peligro o un obstáculo para la navegación, la operación portuaria, la pesca, u otras actividades marítimas relacionadas con las vías navegables, o para la preservación del medio ambiente, dicha autoridad ordenará al propietario o naviero que tome las medidas apropiadas a su costa para iniciar de inmediato y concluir dentro del plazo que se le fije, la señalización, remoción, reparación, o su hundimiento si fuere necesario, en donde no perjudique la actividad portuaria, la navegación o la pesca. De no cumplirse tal requerimiento la autoridad marítima podrá removerlo o hundirlo, a costa del propietario o naviero.
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 127.
 
-Cuando la embarcación, aeronave o artefacto naval hundido o varado, no se encuentre en el caso previsto en el artículo anterior, el propietario o la persona que haya adquirido el derecho para extraer, remover o reflotar éstos o su carga, dispondrá del plazo de un año, a partir de la fecha del siniestro, para efectuar la remoción, misma que deberá realizarse en los términos que señale la autoridad marítima, previo otorgamiento de garantía suficiente que asegure que se realizará el rescate, remoción o eliminación de todos los restos, cuyo monto será fijado por la Secretaría.
+Cuando las embarcaciones, aeronave o artefacto naval hundido o varado, no se encuentre en el caso previsto en el artículo anterior, el propietario o la persona que haya adquirido el derecho para extraer, remover o refletar éstos o su carga, requerirá autorización de la Secretaría, previo cumplimiento de los requisitos que se establezcan en el reglamento respectivo.
+
+La persona autorizada en los términos del párrafo anterior, dispondrá del plazo de un año, a partir de la fecha del siniestro, para efectuar la remoción misma que deberá realizarse en los términos que señale la autoridad marítima.
 
 ###### ARTICULO 128.
 
@@ -1307,13 +1311,11 @@ IV. Trasladar el expediente al juzgado de distrito competente en el puerto de ar
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 136.
 
-Para la imposición de las sanciones previstas en esta ley, la Secretaría deberá oír previamente al interesado y tomar en cuenta la gravedad de la infracción y los daños causados, para lo cual observará el siguiente procedimiento:
-
-I. La Secretaría le hará saber las presuntas infracciones, concediéndole un plazo de quince días hábiles para que presente pruebas y defensas; y manifieste por escrito lo que a su derecho convenga; y
-
-II. Presentadas las pruebas y defensas o vencido el plazo señalado en la fracción anterior sin que se hubieren presentado, la Secretaría dictará la resolución que corresponda, en un plazo no mayor de treinta días hábiles.
+Para la imposición de las sanciones previstas en esta Ley, así como la interposición del recurso administrativo de revisión, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ###### ARTICULO 137.
 
@@ -1345,7 +1347,7 @@ VIII. Las personas que cometan infracciones a la ley o a sus reglamentos, no pre
 
 La Secretaría impondrá una multa de un mil a diez mil días de salario a:
 
-I. Las empresas navieras, por no cumplir con los requisitos y obligaciones establecidos en el artículo 15;
+I. (DEROGADA, D.O.F. 26 DE MAYO DE 2000)
 
 II. Las empresas navieras, por no cumplir con lo establecido en el tercer párrafo del artículo 44;
 
@@ -1393,6 +1395,10 @@ c) No cumplir con la obligación establecida en el artículo 121; y
 
 IV. Los concesionarios, por incumplimiento a lo establecido en el artículo 56.
 
+> <small>(ADICIONADA, D.O.F. 26 DE MAYO DE 2000)</small>
+
+V. Las personas que cometan infracciones a la ley o a sus reglamentos, no previstas expresamente en el presente capítulo.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1430,3 +1436,17 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 26 DE MAYO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan derogadas todas las leyes, reglamentos o disposiciones que se opongan a las reformas contenidas en este decreto.
+
+TERCERO.- Queda facultado el Ejecutivo Federal para expedir todas las disposiciones reglamentarias derivadas del presente decreto.
+
+CUARTO.- Las embarcaciones extranjeras que al entrar en vigor este decreto se hallen inscritas en el Programa de Abanderamiento continuarán disfrutando del mismo tratamiento que se da a las embarcaciones mexicanas, hasta el vencimiento del plazo que se haya otorgado, el que no será prorrogado por ninguna causa.
+
+QUINTO.- Los permisos temporales de navegación a que se refiere el artículo 34 de la Ley, otorgados antes de la entrada en vigor de este decreto, continuarán vigentes hasta su vencimiento.
+
+SEXTO.- La Secretaría expedirá a los marinos mercantes que antes de esta reforma hubiesen obtenido el título de piloto naval y maquinista naval, mediante su solicitud, los títulos de Ingeniero Geógrafo e Hidrógrafo y de Ingeniero Mecánico Naval.
