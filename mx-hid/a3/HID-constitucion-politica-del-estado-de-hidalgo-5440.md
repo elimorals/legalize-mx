@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1992-06-22"
+last_updated: "1992-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -179,7 +179,7 @@ Toda persona reducida a prisión tiene derecho a la readaptación social y a los
 
 El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
 
-(REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1992)</small>
 
 ###### Artículo 9°.
 
@@ -190,6 +190,18 @@ Toda persona reducida a prisión tiene derecho a la readaptación social y a los
 El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
+###### Artículo 9 Bis.
+
+La Comisión de Derechos Humanos del Estado de Hidalgo, es un organismo descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propios, de carácter autónomo y de servicio gratuito, encargado de la defensa y promoción de los derechos humanos en el Estado.
+
+Sin perjuicio de las facultades y obligaciones de los órganos y de las instancias legales que ésta Constitución establece y garantiza para la administración y procuración de justicia, ésta Comisión conocerá de las violaciones de derechos humanos provenientes de las actividades de la Administración Pública Estatal y Municipal y de los actos administrativos de cualquier otra autoridad pública de la Entidad. En su caso formulará recomendaciones públicas no vinculatorias.
+
+Los derechos humanos a que se refiere el párrafo anterior, son los reconocidos como garantías individuales y sociales establecidas en la constitución y por las Leyes que de ellas emanen; así como los derechos humanos contenidos en los instrumentos internacionales suscritos y ratificados por los órganos correspondientes del Poder Federal.
+
+La organización, facultades y obligaciones, así como la competencia de ésta Comisión serán reguladas por la Ley Orgánica correspondiente.
+
+(REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
 ###### Artículo 10.
 
@@ -2554,3 +2566,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 22 DE JUNIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
