@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2003-10-27"
+last_updated: "2004-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2004.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1713,9 +1713,9 @@ XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria 
 
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 2004)</small>
 
-## TITULO NOVENO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
+## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1784,6 +1784,10 @@ VII.- El Gobernador del Estado, durante el período de su encargo solo podrá se
 160.- Las leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, economía y eficiencia en el desempeño de sus funciones, empleos o comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas.
 
 Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 157, Fracción III, pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2004)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 ## TITULO DECIMO. PREVENCIONES GENERALES
 
@@ -1911,7 +1915,7 @@ Ing. Félix Agramont Cota.
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-Lic. Angel Cesar Mendoza Arámburo.
+Lic. Angel César Mendoza Arámburo.
 
 P.M.L. EL OFICIAL MAYOR
 
@@ -2404,3 +2408,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 27 DE OCTUBRE DE 2003.
 
 ÚNICO: El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
