@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1980-09-30"
+last_updated: "1983-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ENERO DE 1983.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -769,7 +769,55 @@ Cuando se presentare al funcionario o agente que hubiere iniciado una averiguaci
 
 ###### ARTICULO 129.
 
-Los funcionarios que practiquen diligencias de policía judicial, determinarán en cada caso qué personas quedarán en calidad de detenidas y en qué lugar, haciéndolo constar en el acta respectiva.
+Los funcionarios que practiquen diligencias de policía judicial, determinarán en cada caso, qué personas quedarán en calidad de detenidas y en qué lugar, haciéndolo constar en el acta respectiva.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+El indiciado podrá nombrar persona de su confianza que lo defienda desde el momento en que sea detenido y puesto a disposición del Ministerio Público o de la Policía Judicial, en los casos de flagrante delito, o, sin estar detenido, desde el inicio de la averiguación previa. Tendrá derecho a que el defensor esté presente en todos los actos del procedimiento. Si no ejercita tal derecho, el funcionario que practique las diligencias respectivas le nombrará uno de oficio.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+En las diligencias de la averiguación previa a las que asista el defensor, éste, para hacer constar el hecho, firmará las actas relativas o, en su caso, en las mismas se hará constar el motivo por el cual dejo de hacerlo.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+El personal de las Agencias del Ministerio Publico y el de la Policía Judicial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos, ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad, para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+En las averiguaciones previas relativas a delitos culposos o que sean de la competencia de los Juzgados Municipales, el presunto responsable no será privado de su libertad corporal en los lugares ordinarios de reclusión, pues tendrá derecho a quedar arraigado en su domicilio y bajo custodia de otra persona, con sujeción a los requisitos siguientes:
+
+I.-Que, para los fines del arraigo domiciliario, tenga domicilio fijo, o señale uno, dentro del distrito judicial, en que hayan ocurrido los hechos.
+
+II.-Que no existan datos que permitan suponer que el arraigado tiene interés en sustraerse a la acción de la justicia.
+
+III.-Que proteste presentarse ante el Agente del Ministerio Publico o ante la Policía Judicial, cuando estas autoridades lo dispongan para los trámites de la averiguación.
+
+IV.-Que garantice o repare el daño o que, celebre con el ofendido, ante el Agente del Ministerio Público o la Policía Judicial, convenio legítimo en el que se cuantifique el daño, se establezca la forma en que se hará la reparación y se otorgue la garantía pertinente. Cuando no haya acuerdo de los interesados sobre el monto del daño, el Agente del Ministerio Público o de la Policía Judicial lo determinará con base en la inspección, que respecto al mismo haya practicado, en las versiones de los sujetos relacionados con los hechos y en los demás elementos de prueba que pueda allegarse para el caso.
+
+V. Que tratándose de delitos motivados por el tránsito de vehículos, el presunto responsable no se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras susbtancias que produzcan efectos similares, o se hubiese dado a la fuga y no auxiliare a la víctima.
+
+VI. Que quien haya de ejercer la custodia del arraigado tenga domicilio dentro del distrito judicial donde los hechos ocurrieron; que sea persona de solvencia moral y económica suficiente, a juicio del Agente del Ministerio Público o de la Policía Judicial, según los datos que al efecto sean recabados y se hagan constar en la averiguación, y solidarice con el arraigado en el convenio a que se refiere la fracción IV que antecede.
+
+VII.-Que quien ejercerá la custodia se comprometa, bajo protesta, a presentar el presunto responsable ante el Agente del Ministerio Público o la Policía Judicial cuando para ello se le requiera.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+Si el presunto responsable o quien lo custodia, desobedeciera sin justa causa las órdenes del Ministerio Público o de la Policía Judicial, se revocará el arraigo domiciliario, y el presunto responsable será remitido al lugar de reclusión.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+Si la acción penal ha de ejercitarse, la Policía Judicial o la Policía Preventiva presentarán al presunto responsable ante el Juez competente.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 1983)</small>
+
+El Ministerio Público o la Policía Judicial podrán autorizar al presunto responsable para que acuda a su trabajo habitual, si se satisfacen los siguientes requisitos:
+
+a).-Que lo solicite el interesado, precisando la naturaleza de sus labores y la ubicación de su centro de trabajo.
+
+b).-Que, sin menoscabo de sus obligaciones para el presunto responsable, quien ejerza la custodia de éste, exprese su conformidad con la solicitud del arraigado.
+
+c).-Que el responsable del centro de trabajo, informado oficialmente de la situación del arraigado, se comprometa a dar a éste las facilidades que ha de necesitar para cumplir sus obligaciones ante el Ministerio o la Policía Judicial.
 
 ###### ARTICULO 130.
 
@@ -2658,3 +2706,9 @@ G.O. 30 DE SEPTIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 Estas reformas entrarán en vigor el día veinte de octubre de mil novecientos ochenta.
+
+G.O. 20 DE ENERO DE 1983.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
