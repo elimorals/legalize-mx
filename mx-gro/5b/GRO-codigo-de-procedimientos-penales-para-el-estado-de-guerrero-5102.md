@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "1999-09-27"
+last_updated: "1999-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -496,6 +496,12 @@ Cuando el cadáver no se encuentre o por otro motivo no se haga la necropsia, ba
 ###### Artículo 67.
 
 En los casos de aborto e infanticidio, se practicarán la necropsia y la inspección y se dictaminará sobre los demás elementos de los tipos respectivos, que requieran apreciación pericial.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+ARTICULO 67 BIS.- Para integrar los elementos del tipo penal de violencia intrafamiliar, deberá acreditarse el vínculo familiar o estado civil, en los términos del artículo 194 B del Código Penal; además de agregarse a la investigación los dictámenes necesarios que emitan peritos en materia de salud física y psico-emocional.
+
+Los organismos públicos o institucionales legalmente constituidas que tengan áreas inmersas en el tratamiento de violencia intrafamiliar, podrán colaborar, en calidad de peritos y sus informes deberán rendirse por escrito.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -1516,3 +1522,9 @@ UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicació
 P.O. 27 DE SEPTIEMBRE DE 1999.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
