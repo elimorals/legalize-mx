@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1984-11-10"
+last_updated: "1985-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -67,13 +67,13 @@ Pensión es una prestación periódica en efectivo que se adquiere en los térmi
 
 El patrimonio de la Oficina de Pensiones, que se denominará Fondo de Pensiones y con el que se cubrirán las prestaciones y demás beneficios derivados de esta Ley, se constituirá con:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1985)</small>
 
-I.- Las aportaciones del Gobierno del Estado iguales al cinco por ciento del monto de la dotación de las Partidas Presupuestales específicas para las remuneraciones de los trabajadores, de la fecha de publicación del presente decreto al 31 de Diciembre de 1979, y del siete por ciento a partir del 1o. de Enero de 1980.
+I.- Las aportaciones del Gobierno del Estado iguales al 9% del monto de la dotación de las partidas presupuestales específicas para las remuneraciones de los trabajadores.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1985)</small>
 
-II.- Los descuentos forzosos a los trabajadores equivalentes al cuatro por ciento de sus remuneraciones, a partir de la fecha de la pubicación(sic) del presente decreto hasta el 31 de Diciembre de 1979, y del cinco por ciento a partir del 1o. de Enero de 1980.
+II.- Los descuentos forzosos a los trabajadores equivalentes al 6% de sus remuneraciones.
 
 III.- Las aportaciones extraordinarias que para estos casos fije en sus Presupuestos el Gobierno del Estado.
 
@@ -147,9 +147,11 @@ La Tesorería General del Estado y la Contaduría Mayor de Glosa por medio de au
 
 El Estado considerará en sus Presupuestos de Egresos las partidas para cubrir las aportaciones al Fondo de Pensiones que esta misma Ley prevee (sic).
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 1985)</small>
+
 ###### ARTICULO 15.
 
-Los trabajadores de Instituciones descentralizadas del Gobierno del Estado, podrán gozar de los beneficios de esta Ley, siempre que se ajusten a sus ordenamientos, y las propias Instituciones descentralizadas entreguen directamente a la Oficina de Pensiones su aportación, que será igual al tres por ciento de la dotación de las partidas presupuestales específicas para los emolumentos de los trabajadores, mas el descuento que a éstos se haga equivalente también al tres por ciento de sus remuneraciones.
+Los trabajadores de Instituciones descentralizadas del Gobierno del Estado, podrán gozar de los beneficios de esta Ley, siempre que se ajusten a sus ordenamientos y las propias Instituciones descentralizadas entreguen directamente a la Oficina de Pensiones su aportación, que será igual al 9% de la dotación de las partidas presupuestales específicas para los emolumentos de los trabajadores, mas el descuento que a éstos se hagan equivalente al 6% de sus remuneraciones.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
 
@@ -179,15 +181,17 @@ La edad, el parentesco y los demás requisitos que se exigen en esta Ley al trab
 
 DE LAS APORTACIONES.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 21.
 
-El Gobierno del Estado sumará todas las partidas específicas de sus Presupuestos de Egresos que correspondan a remuneraciones a su personal, mas los sueldos básicos que reciban los Trabajadores Federalizados al Servicio del Estado; esta suma la dividirá entre el número de días que tenga el año y del cociente así obtenido tomará el tres por ciento. Este resultado será la cuota diaria que el Estado aporte a la Oficina de Pensiones para el fondo; de conformidad con el artículo 5o. fracción I de la Ley. Las entregas se harán el día último de cada quincena, y las que correspondan a días en que se suspendan las labores, se harán el día hábil inmediato siguiente.
+El Gobierno del Estado, sumará todas las partidas específicas de sus presupuestos de Egresos que correspondan a remuneraciones de su personal; esta suma la dividirá entre el número de días que tenga el año, y del cociente así obtenido, tomará el 9%. Este resultado será la cuota diaria que el Estado aporte a la Oficina de Pensiones para el Fondo, de conformidad con el Artículo 5º. Fracción I de la Ley. Las entregas se harán el día último de cada quincena, y las que corresponden a días en que se suspendan las labores, se harán al día siguiente.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1985)</small>
 
 ###### ARTICULO 22.
 
-Por lo que hace a la aportación de los trabajadores a que se refiere el inciso II del artículo 5° de esta Ley, el Gobierno del Estado de Oaxaca hará su entrega quincenal a la Oficina de Pensiones, valiéndose del procedimento (sic) señalado en el artículo anterior; debiéndose encargar de hacer los respectivos descuentos del tres por ciento que corresponde a los trabajadores, en el momento de cubrirles sus numeraciones para resarciarse (sic) de los pagos de los pagos hechos a la Oficina de Pensiones.
+Por lo que hace a la aportación de los trabajadores a que se refiere la fracción II del artículo 5º. de esta Ley, el Gobierno del Estado de Oaxaca hará su entrega quincenal a la Oficina de Pensiones, valiéndose del procedimiento señalado en el artículo anterior; debiéndose encargar de hacer los respectivos descuentos del seis por ciento que corresponde a los trabajadores, en el momento de cubrirles sus numeraciones para resarcirse de los pagos de los pagos hechos a la oficina de Pensiones.
 
 ###### ARTICULO 23.
 
@@ -1016,3 +1020,7 @@ P.O. 10 DE NOVIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 1985.
+
+UNICO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, con efectos retroactivos a partir del día uno de abril próximo.
