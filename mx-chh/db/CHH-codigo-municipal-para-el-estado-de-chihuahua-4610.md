@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-08-31"
+last_updated: "2002-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -35,7 +35,7 @@ DECRETO:
 
 DECRETO NO. 850/95 XVIII P.E.
 
-LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
+LA QUINCUAGESIMA SEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
 
 DECRETA:
 
@@ -496,6 +496,16 @@ VI.- Nombrar Presidente Sustituto, de entre sus miembros, en caso de falta defin
 VII.- Conceder permiso al Presidente Municipal para ausentarse del territorio del Municipio por más de diez días o licencia para separarse de su cargo;
 
 VIII.- Proponer al Congreso del Estado, cuando sea necesario, el establecimiento de nuevas secciones municipales o la supresión de las existentes;
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+A la solicitud deberá anexarse copia certificada del acta de la Sesión de cabildo en que se haya aprobado solicitar la creación o supresión, según el caso, de la sección municipal y que contenga las razones que motiven la solicitud. Además, deberán acompañarse los documentos, acreditando:
+
+a) Que la solicitud de creación o supresión de una sección fue publicitada entre la población involucrada, por los medios de comunicación acordes a la región y sus costumbres, debiendo contar con la aprobación de, por lo menos, el diez por ciento de los electores residentes en la misma, debidamente identificados. En el documento que acredite la consulta deben constar los siguientes datos: Nombre completo, dirección, firma, número y folio de la credencial para votar con fotografía expedida por el Instituto Federal Electoral. Además, deberá acreditarse que las Juntas Municipales involucradas en la creación o supresión de la sección municipal, se encuentran conformes con dicha acción;
+
+b) Nombres de las comunidades que conformarán la nueva sección, sus datos poblacionales, las vías de comunicación con que cuentan las mismas y las distancias entre éstas y la cabecera municipal o, en su caso, la cabecera seccional a la que pertenecen;
+
+c) Los servicios municipales que prestará la nueva sección municipal o los que se transferirán a otra y, en su caso, las obras que se pretenden realizar a partir de la creación, o bien, las que se suspenderán en caso de supresión de una sección municipal.
 
 IX.- En caso de conflictos con otros Ayuntamientos, realizar todas las gestiones para solucionar la controversia y en caso de desacuerdo, ocurrir para la resolución del asunto a la instancia competente;
 
@@ -1170,6 +1180,10 @@ II.- Ser mexicano y del estado seglar;
 III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y
 
 IV.- No ser cónyuge, pariente consanguíneo o afín, en línea recta, sin limitación de grado o colateral por consanguinidad, dentro del cuarto grado o por afinidad dentro del segundo, del Presidente Municipal, del Presidente Seccional o de los Regidores.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+V.- En los municipios cuyas cabeceras municipales tengan más de setenta y cinco mil habitantes, los Directores serán preferentemente profesionistas de los ramos de las dependencias y, en el caso del Secretario del Ayuntamiento, de preferencia contará con título de Licenciado en Derecho.
 
 ###### ARTICULO 62.
 
@@ -3252,3 +3266,15 @@ P.O. 31 DE AGOSTO DE 2002.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Barranco Blanco, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+DECRETO No. 376/02 III P.E.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+DECRETO No. 378/02 III P.E.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
