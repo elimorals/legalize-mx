@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-por-el-que-se-establecen-los-lineamientos-16636"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-31"
-last_updated: "2000-05-31"
+last_updated: "2004-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "ROO"
 
 REGLAMENTO POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS, FORMATOS, INSTRUCTIVOS, CATALOGO DE CUENTAS Y GUÍA CONTABILIZADORA APLICABLES A LOS PARTIDOS POLÍTICOS, EN EL REGISTRO DE SUS INGRESOS Y EGRESOS Y EN LA PRESENTACIÓN DE SUS INFORMES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE FISCALIZACIÓN SOBRE EL ORIGEN, MONTO, APLICACIÓN Y EMPLEO DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS ANTE EL INSTITUTO ELECTORAL DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Quintana Roo, el miercoles 31 de mayo de 2000.
 
@@ -551,3 +553,21 @@ CONSEJO GENERAL DEL CONSEJO
 ESTATAL ELECTORAL
 
 LIC. VICTOR EMILIO BOETA PINEIDA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento por el que se establecen los lineamientos, formatos, instructivos, catálogo de cuentas y guía contabilizadora aplicables a los partidos políticos, en el registro de sus ingresos y egresos y en la presentación de sus informes.
+
+TERCERO.- Dentro de los cinco días hábiles posteriores a la entrada en vigor del presente Reglamento, los partidos políticos acreditados a la fecha ante el Consejo General, deberán dar cumplimiento a las disposiciones establecidas en el artículo 6 de este ordenamiento.
+
+CUARTO.- La fiscalización a los recursos otorgados para el sostenimiento de actividades ordinarias correspondiente al Ejercicio 2004, se realizará conforme al Reglamento por el que se establecen los lineamientos, formatos, instructivos, catálogo de cuentas y guía contabilizadora aplicables a los partidos políticos, en el registro de sus ingresos y egresos y en la presentación de sus informes que se abroga.
+
+QUINTO.- La fiscalización de los recursos destinados para gastos de campaña correspondientes al proceso electoral 2004-2005 se llevará a cabo conforme a lo dispuesto por el presente Reglamento.
+
+SEXTO.- Publíquese en los estrados del Instituto Electoral de Quintana Roo, para su debida difusión y conocimiento público.
+
+SÉPTIMO.- Difúndase públicamente en la página oficial de Internet del Instituto Electoral de Quintana Roo.
