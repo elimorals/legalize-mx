@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1951-12-31"
+last_updated: "1962-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1962.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -1480,6 +1480,34 @@ IX.- La firma de los administradores de la sociedad, autorizados al efecto;
 
 X.- La firma del representante común de los obligacionistas.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1962)</small>
+
+ARTICULO 210 bis.- Las sociedades anónimas que pretendan emitir obligaciones convertibles en acciones se sujetarán a los siguientes requisitos:
+
+I.- Deberán tomar las medidas pertinentes para tener en tesorería acciones por el importe que requiera la conversión.
+
+II.- Para los efectos del punto anterior, no será aplicable lo dispuesto en el artículo 132 de la Ley General de Sociedades Mercantiles.
+
+III.- En el acuerdo de emisión se establecerá el plazo dentro del cual, a partir de la fecha en que sean colocadas las obligaciones, debe ejercitarse el derecho de conversión.
+
+IV.- Las obligaciones convertibles no podrán colocarse abajo de la par. Los gastos de emisión y colocación de las obligaciones se amortizarán durante la vigencia de la misma.
+
+> <small>(F. DE E., D.O.F. 27 DE MAYO DE 1963)</small>
+
+V.- La conversión de las obligaciones en acciones se hará siempre mediante solicitud presentada por los obligacionistas, dentro del plazo que señale el acuerdo de emisión.
+
+VI.- Durante la vigencia de la emisión de obligaciones convertibles, la emisora no podrá tomar ningún acuerdo que perjudique los derechos de los obligacionistas derivados de las bases establecidas para la conversión.
+
+> <small>(F. DE E., D.O.F. 27 DE MAYO DE 1963)</small>
+
+VII.- Siempre que se haga uso de la designación: capital autorizado, deberá ir acompañada de las palabras “para conversión de obligaciones en acciones”.
+
+En todo caso en que se haga referencia al capital autorizado, deberá mencionarse al mismo tiempo el capital pagado.
+
+VIII.- Anualmente, dentro de los primeros cuatro meses siguientes al cierre del ejercicio social, se protocolizará la declaración que formule el Consejo de Administración indicando el monto del capital suscrito mediante la conversión de las obligaciones en acciones, y se procederá inmediatamente a su inscripción en el Registro Público de Comercio.
+
+IX.- Las acciones en tesorería que en definitiva no se canjeen por obligaciones, serán canceladas. Con este motivo, el Consejo de Administración y el Representante Común de los Obligacionistas levantarán un acta ante Notario que será inscrita en el Registro Público de Comercio.
+
 > <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 211.
@@ -2827,6 +2855,10 @@ D.O.F. 8 DE MAYO DE 1945.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1962.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
 ## TRANSITORIO
 
