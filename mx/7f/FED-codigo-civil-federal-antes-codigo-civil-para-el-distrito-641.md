@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1943-11-11"
+last_updated: "1944-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1944.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -9232,11 +9232,11 @@ ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
-N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
+N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
 
 ARTICULO 2,478.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
-N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
+N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
 
 ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
 
@@ -9254,7 +9254,7 @@ ARTICULO 2,482.- Si el arrendador aprueba expresamente el contrato especial de s
 
 ARTICULO 2,483.- El arrendamiento puede terminar:
 
-N. DE E., SE SUSPENDE LA VIGENCIA DE LA PRIMERA PARTE DE LA PRESENTE FRACCION POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
+N. DE E., SE SUSPENDE LA VIGENCIA DE LA PRIMERA PARTE DE LA PRESENTE FRACCION POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
 
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fue arrendada;
 
@@ -9272,7 +9272,7 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
-N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
+N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA, PUBLICADO EN EL D.O.F. 9 DE JUNIO DE 1944.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -11197,3 +11197,19 @@ Los juicios de desocupación por terminación del contrato de arrendamiento que 
 ###### ARTICULO 3o.
 
 Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoles su voluntad de dar por terminado el arrendamiento.
+
+D.O.F. 9 DE JUNIO DE 1944.
+
+DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente, se sobreseerán.
+
+###### ARTICULO 3o.
+
+Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoseles su voluntad de dar por terminado el arrendamiento.
