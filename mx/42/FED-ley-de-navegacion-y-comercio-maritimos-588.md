@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1969-02-18"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE FEBRERO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -68,9 +68,11 @@ I.- Si se alterase el orden público.
 
 II.- Si así lo solicitaren el capitán del barco o el cónsul del país al que pertenezca la nave.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 6.
 
-Supletoriamente a las disposiciones de esta ley, serán aplicables los usos marítimos, el Código de Comercio, la Ley sobre el Contrato del Seguro, la Ley General de Instituciones de Seguros, el Código Civil para el Distrito y Territorios Federales y la Ley de Vías Generales de Comunicación en sus respectivas materias.
+Supletoriamente a las disposiciones de esta ley, serán aplicables los usos marítimos, el Código de Comercio, la Ley sobre el Contrato del Seguro, la Ley General de Instituciones de Seguros, el Código Civil para el Distrito Federal y la Ley de Vías Generales de Comunicación en sus respectivas materias.
 
 Ninguna disposición de esta ley se aplicará en oposición a los Tratados, Convenios y Convenciones Internacionales debidamente ratificados en los que México sea parte.
 
@@ -91,6 +93,8 @@ UNICO.- Estas modificaciones entrarán en vigor en la fecha de su publicación e
 D.O.F. 18 DE FEBRERO DE 1969.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
 
 ###### ARTICULO 7o.
 
@@ -234,7 +238,9 @@ El capitán del buque tendrá en alta mar o en aguas extranjeras las siguientes 
 
 I.- Actuar como auxiliar del Ministerio Público Federal en los términos de la Ley Orgánica de dicha institución al tener conocimiento de un delito.
 
-II.- Actuar como oficial del Registro Civil en los términos del Código Civil para el Distrito y Territorios Federales.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Actuar como oficial del Registro Civil en los términos del Código Civil para el Distrito Federal.
 
 III.- Ejercer su autoridad sobre las personas y cosas que se encuentren a bordo.
 
@@ -520,7 +526,9 @@ El servicio de señales marítimas o balizamiento, corresponde a la autoridad ma
 
 Todo capitán de buque que se encuentre próximo a otra embarcación o persona en peligro, estará obligado a auxiliarlos y sólo podrá excusarse de esta obligación cuando el hacerlo implique peligro serio para su propio buque, su tripulación o sus pasajeros.
 
-El incumplimiento de esta obligación se sancionará por la autoridad judicial federal con el doble de la pena que para el delito de abandono de personas establece el artículo 340 del Código Penal para el Distrito y Territorios Federales.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+El incumplimiento de esta obligación se sancionará por la autoridad judicial federal con el doble de la pena que para el delito de abandono de personas establece el artículo 340 del Código Penal para el Distrito Federal.
 
 ###### ARTICULO 73.
 
@@ -1601,3 +1609,7 @@ Los permisionarios o concesionarios que al entrar en vigor esta ley no hubieren 
 Las personas que al entrar en vigor esta ley estuvieren tramitando solicitudes de permisos o concesiones, quedarán sujetos al régimen y condiciones de la misma.
 
 Los permisionarios o concesionarios que se encuentren operando servicios marítimos y satisfagan los requisitos establecidos en esta Ley, tendrán derecho a que se les otorguen las autorizaciones respectivas en los términos de la misma.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
