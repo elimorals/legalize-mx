@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-autoriza-la-suscripcion-del-convenio-1149
 country: "mx"
 rank: "decreto"
 publication_date: "1986-01-10"
-last_updated: "1986-01-10"
+last_updated: "1987-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114903&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1985-12-16"
 ---
 # DECRETO POR EL QUE SE AUTORIZA LA SUSCRIPCION DEL CONVENIO CONSTITUTIVO DE LA CORPORACION INTERAMERICANA DE INVERSIONES Y QUE ESTABLECE BASES PARA SU EJECUCION EN MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 1987 EN EL D.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 DECRETO POR EL QUE SE AUTORIZA LA SUSCRIPCIÓN DEL CONVENIO CONSTITUTIVO DE LA CORPORACIÓN INTERAMERICANA DE INVERSIONES Y QUE ESTABLECE BASES PARA SU EJECUCIÓN EN MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 23 DE ENERO DE 1987.]</small>
 
 Decreto publicado en el Diario Oficial, el viernes 10 de enero de 1986.
 
@@ -70,6 +70,10 @@ El Gobernador Suplente tendrá las facultades del Propietario en el caso de ause
 El Estado Mexicano reconoce la personalidad Jurídica de la Corporación Interamericana de Inversiones.
 
 Los tribunales federales serán los únicos competentes para conocer de los negocios o controversias en los que sea parte tal Organismo y en general, de todos los asuntos en que se afecten bienes o derechos del mismo.
+
+> <small>(F. DE E., D.O. 23 DE ENERO DE 1987)</small>
+
+En ningún caso los tribunales dictarán providencias precautorias sobre los bienes de la Corporación Interamericana de Inversiones y sólo podrán dictar mandamiento de embargo o ejecución, cuando exista sentencia ejecutoriada en su contra.
 
 ###### ARTICULO 8o.
 
