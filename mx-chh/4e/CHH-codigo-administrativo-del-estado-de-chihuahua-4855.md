@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2004-03-31"
+last_updated: "2004-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -389,13 +389,9 @@ ARTICULO 60 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA 
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, P.O. 1 DE OCTUBRE DE 1986)
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
 ## TITULO CUARTO. DE LAS RELACIONES DEL ESTADO CON SUS TRABAJADORES
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 73.
 
@@ -419,15 +415,11 @@ a).- Son trabajadores de base los no incluidos dentro del grupo de funcionarios 
 
 Asimismo se considerarán trabajadores de base los empleados que reuniendo los requisitos anteriores perciban sueldo con cargo a una partida de presupuesto y los de lista de raya con antigüedad mayor de seis meses.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: El Secretario de Gobierno, El Procurador General de Justicia, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Procuraduría General de Justicia y de la Policía Judicial dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores; Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de Teléfonos del Estado; los Miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría.
+b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: El Secretario de Gobierno, El Procurador General de Justicia, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Procuraduría General de Justicia y de la Policía al mando del ministerio público dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores, Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de Teléfonos del Estado; los miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría. También serán considerados como empleados de confianza en todas las Dependencias del Ejecutivo, las secretarias y los secretarios, los miembros de comisiones de estudios y consultores y las personas que presten servicio mediante contrato.
 
-También serán considerados como empleados de confianza en todas las Dependencias del Ejecutivo, las secretarias y los secretarios, los miembros de comisiones de estudios y consultores y las personas que presten servicio mediante contrato.
-
-Son funcionarios y empleados de confianza del Poder Legislativo, el Oficial Mayor y el Contador General de Hacienda. Son funcionarios y empleados de confianza del Poder Judicial; El Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los visitadores judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores.
-
-Son funcionarios y empleados de confianza de los Organismos Descentralizados los que se determinan conforme a sus propias disposiciones normativas.
+Son funcionarios y empleados de confianza del Poder Legislativo: el Oficial Mayor y el Contador General de Hacienda. Son funcionarios y empleados de confianza del Poder Judicial: el Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los Visitadores Judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores. Son funcionarios y empleados de confianza de los Organismos Descentralizados los que se determinan conforme a sus propias disposiciones normativas.
 
 c).- Son trabajadores eventuales y extraordinarios aquéllos cuyos servicios se contratan transitoriamente, cuyos sueldos se pagan por lista de raya o por nombramiento en que se especifique tal carácter, y los interinos que cubran vacantes temporales de trabajadores de base.
 
@@ -441,7 +433,7 @@ En lo no previsto por este Código o disposiciones especiales, se aplicarán sup
 
 En ningún caso serán renunciables las disposiciones que favorezcan a los trabajadores de base.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DERECHOS Y OBLIGACIONES INDIVIDUALES DE LOS TRABAJADORES
 
 ###### ARTICULO 78.
 
@@ -709,7 +701,7 @@ XII.- Por concurrir al trabajo en estado de embriaguez o bajo la influencia de a
 
 XIII.- Por falta comprobada de cumplimiento al contrato de trabajo o por imposición de medida de defensa social que sea el resultado de una sentencia ejecutoria.
 
-### CAPITULO II. DERECHOS Y OBLIGACIONES INDIVIDUALES DE LOS TRABAJADORES
+### CAPITULO III. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
 ###### ARTICULO 109.
 
@@ -821,7 +813,7 @@ Las condiciones generales de trabajo se fijarán en los reglamentos interiores r
 
 En caso de que el sindicato objetare substancialmente cualquiera de las condiciones fijadas por los reglamentos, podrá ocurrir ante el Tribunal de Arbitraje, que resolverá en definitiva.
 
-### CAPITULO III. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
+### CAPITULO IV. DE LAS HUELGAS
 
 ###### ARTICULO 128.
 
@@ -925,7 +917,7 @@ IV.- Por laudo de la persona o Tribunal que a solicitud de las partes y con la c
 
 Al resolverse que una declaración de huelga es legal, el Tribunal, a petición de las autoridades correspondientes y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas están obligados a mantener en el desempeño de sus labores a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones.
 
-### CAPITULO IV. DE LAS HUELGAS
+### CAPITULO V. DE LOS RIESGOS Y LAS ENFERMEDADES PROFESIONALES
 
 ###### ARTICULO 146.
 
@@ -949,7 +941,7 @@ Podrán gozar de la franquicia señalada, de manera continua o discontinua, una 
 
 El beneficio de los permisos con goce de sueldo no se aplicará en los casos de lesiones en riña con carácter de provocador o como consecuencia de haber sido sufridas en estado de ebriedad, o por el uso de drogas heroicas o enervantes e intento de suicidio.
 
-### CAPITULO V. DE LOS RIESGOS Y LAS ENFERMEDADES PROFESIONALES
+### CAPITULO VI. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 148.
 
@@ -1007,7 +999,7 @@ III.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de a
 
 Para los efectos de la prescripción los meses se regularán por el número de días que les correspondan; el primer día se contará completo aún cuando no lo sea, y cuando sea feriado no se tendrá por completa la prescripción, sino cumplido el primero útil siguiente.
 
-### CAPITULO VI. DE LAS PRESCRIPCIONES
+### CAPITULO VII. DEL TRIBUNAL DE ARBITRAJE DEL ESTADO, DE LAS JUNTAS ARBITRALES Y DEL PROCEDIMIENTO QUE DEBE SEGUIRSE ANTE LOS MISMOS
 
 ###### ARTICULO 155.
 
@@ -1141,7 +1133,7 @@ Las resoluciones dictadas por el Tribunal de Arbitraje serán inapelables y ser�
 
 Las autoridades están obligadas a prestar auxilio al Tribunal de Arbitraje para hacer respetar sus resoluciones cuando fueren requeridas para ello.
 
-### CAPITULO VII. DEL TRIBUNAL DE ARBITRAJE DEL ESTADO, DE LAS JUNTAS ARBITRALES Y DEL PROCEDIMIENTO QUE DEBE SEGUIRSE ANTE LOS MISMOS
+### CAPITULO VIII. DE LAS SANCIONES POR INFRACCIONES A ESTE CODIGO Y POR DESOBEDIENCIA A LAS RESOLUCIONES DEL TRIBUNAL DE ARBITRAJE O JUNTAS ARBITRALES
 
 ###### ARTICULO 180.
 
@@ -1161,7 +1153,7 @@ SEGUNDA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)</small>
 
-### CAPITULO VIII. DE LAS SANCIONES POR INFRACCIONES A ESTE CODIGO Y POR DESOBEDIENCIA A LAS RESOLUCIONES DEL TRIBUNAL DE ARBITRAJE O JUNTAS ARBITRALES
+### CAPITULO UNICO. DEL MINISTERIO PUBLICO
 
 ###### ARTICULO 181.
 
@@ -1363,7 +1355,7 @@ TERCERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. DEL MINISTERIO PUBLICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 228.
 
@@ -1459,7 +1451,7 @@ TERCERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### ARTICULO 251.
 
@@ -1487,7 +1479,7 @@ TERCERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
+### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
 
 ###### ARTICULO 257.
 
@@ -1499,7 +1491,7 @@ TERCERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
+### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO Y DIVORCIO
 
 ###### ARTICULO 259.
 
@@ -1523,7 +1515,7 @@ TERCERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO Y DIVORCIO
+### CAPITULO V. DE LAS ACTAS DE DEFUNCION
 
 ###### ARTICULO 264.
 
@@ -1539,7 +1531,7 @@ TERCERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 255-87-III-P.E. DE REFORMAS AL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO V. DE LAS ACTAS DE DEFUNCION
+### CAPITULO VI. DE LA ANOTACION Y RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
 
 ###### ARTICULO 267.
 
@@ -1561,7 +1553,9 @@ TERCERA PARTE
 
 ## TITULO UNICO. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-### CAPITULO VI. DE LA ANOTACION Y RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
+### CAPITULO I. DE LAS OFICINAS DEL REGISTRO PUBLICO Y DE SUS ENCARGADOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 271.
 
@@ -1741,9 +1735,9 @@ Cuando se separe definitivamente del ejercicio de sus funciones el Jefe de la Of
 
 Además de cumplir con lo prevenido en el Artículo anterior, se formarán inventarios por duplicado de entrega y recibo de todo cuanto pertenezca a la Oficina.
 
-### CAPITULO I. DE LAS OFICINAS DEL REGISTRO PUBLICO Y DE SUS ENCARGADOS
+### CAPITULO II. DE LOS LIBROS DE REGISTRO Y APENDICES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 284.
 
@@ -1805,9 +1799,7 @@ En cada Oficina se llevarán índices alfabéticos por el apellido de las person
 
 Para el debido control relativo a la expedición de toda clase de constancias concernientes a los actos que obren en los libros, apéndices o sus anexos, cada Oficina llevará un registro en el que se anotará por orden progresivo el número de certificado de pago de los derechos que la misma cause conforme a la tarifa respectiva, la cantidad que consigne dicho certificado y el acto por el que se origina. Además, en la misma constancia o constancias expedidas se indicará el número progresivo que le haya correspondido en el Registro de Control y el del certificado de pago. Los funcionarios judiciales, notarios y demás autoridades ante quienes se presenten documentos expedidos por el Registro Público de la Propiedad, deberán cerciorarse del cumplimiento de esta disposición, dando aviso de su no observancia dentro de los diez días hábiles siguientes a su presentación, a la Oficina Recaudadora respectiva a quien deberá remitirse el documento relativo y en caso de que no lo hicieren así, serán solidariamente responsables en unión del Registrador de los perjuicios que sufra el fisco estatal.
 
-### CAPITULO II. DE LOS LIBROS DE REGISTRO Y APENDICES
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+### CAPITULO III. DE LAS INSCRIPCIONES EN GENERAL
 
 ###### ARTICULO 290.
 
@@ -1869,7 +1861,7 @@ En las Inscripciones se hará referencia a los anexos que se agreguen a los apé
 
 En los casos en que el documento inserto se refiera a varias fincas o derechos reales impuestos sobre ellas, los duplicados agregados al apéndice se anotarán precisando por cuál finca o derecho fue registrado.
 
-### CAPITULO III. DE LAS INSCRIPCIONES EN GENERAL
+### CAPITULO IV. DE LA RECTIFICACION DE LAS INSCRIPCIONES
 
 ###### ARTICULO 302.
 
@@ -1883,7 +1875,7 @@ Cuando la rectificación se solicite al Registrador, dentro de los tres días si
 
 Mientras se practiquen las diligencias necesarias para la rectificación, el registro erróneo surtirá sus efectos como si se hubiere efectuado legalmente.
 
-### CAPITULO IV. DE LA RECTIFICACION DE LAS INSCRIPCIONES
+### CAPITULO V. DE LA EXTINCION DE LAS INSCRIPCIONES
 
 ###### ARTICULO 305.
 
@@ -1921,7 +1913,7 @@ El Juez dará vista a las partes, a fin de que en la vía incidental se fijen lo
 
 Cuando se solicite el Amparo de la Justicia Federal y sea señalado como acto reclamado la autorización de una inscripción o de una anotación marginal, y como autoridad responsable al Encargado del Registro, se estará a lo que se resuelva en el incidente de suspensión del correspondiente juicio de garantías.
 
-### CAPITULO V. DE LA EXTINCION DE LAS INSCRIPCIONES
+### CAPITULO VI. DE LAS INSCRIPCIONES EN SECCION PRIMERA
 
 ###### ARTICULO 311.
 
@@ -2001,7 +1993,7 @@ Cuando se reúnan dos o más fincas para formar una sola y no se haya otorgado e
 
 Inscrito en el Registro un título en favor de una persona, no se inscribirá ningún otro anterior en favor de persona distinta, sino cuando sea de derechos accesorios adquiridos con anterioridad, sin afectar la propiedad o cuando se trate de títulos primordiales para enlazarlos con el título inscrito en cuyo caso se pondrán en las inscripciones y títulos relativos, la constancia que corresponda.
 
-### CAPITULO VI. DE LAS INSCRIPCIONES EN SECCION PRIMERA
+### CAPITULO VII. DE LAS INSCRIPCIONES EN LA SECCION SEGUNDA
 
 ###### ARTICULO 323.
 
@@ -2033,7 +2025,9 @@ Cuando se ordene un embargo de finca inscrita en la Sección Primera, en favor d
 
 La inscripción de un acta de fianza carcelaria, las anotaciones correspondientes, así como sus cancelaciones no causarán derechos al Estado.
 
-### CAPITULO VII. DE LAS INSCRIPCIONES EN LA SECCION SEGUNDA
+### CAPITULO VIII. DE LAS INSCRIPCIONES EN SECCION TERCERA
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 327.
 
@@ -2043,9 +2037,7 @@ Se inscribirán en la Sección Tercera: Los arrendamientos cuando sean por más 
 
 La transmisión por cualquier título de los derechos del arrendatario o modificación o rescisión del contrato se anotarán al margen del contrato de arrendamiento.
 
-### CAPITULO VIII. DE LAS INSCRIPCIONES EN SECCION TERCERA
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+### CAPITULO IX. DE LAS INSCRIPCIONES EN SECCION CUARTA
 
 ###### ARTICULO 329.
 
@@ -2059,7 +2051,7 @@ III.- Las escrituras constitutivas de las fundaciones de beneficencia privada y 
 
 IV.- Los poderes generales que otorguen las entidades anteriormente mencionadas.
 
-### CAPITULO IX. DE LAS INSCRIPCIONES EN SECCION CUARTA
+### CAPITULO X. DE LAS INSCRIPCIONES EN SECCION QUINTA
 
 ###### ARTICULO 330.
 
@@ -2083,7 +2075,7 @@ VII.- Las capitulaciones matrimoniales aun cuando no haya bienes inscritos a fav
 
 VIII.- Las patentes de aspirantes al ejercicio del notariado y las que confieran el cargo de notario.
 
-### CAPITULO X. DE LAS INSCRIPCIONES EN SECCION QUINTA
+### CAPITULO XI. DE LAS INSCRIPCIONES EN SECCION SEXTA
 
 ###### ARTICULO 331.
 
@@ -2092,8 +2084,6 @@ Se inscribirán en la Sección Sexta:
 Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión o los demás derechos sobre los bienes muebles, que sean susceptibles de identificarse de manera indubitable.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 2001)</small>
-
-### CAPITULO XI. DE LAS INSCRIPCIONES EN SECCION SEXTA
 
 ### CAPITULO XI BIS. DE LAS INSCRIPCIONES EN LA SECCION SEPTIMA, DE ASENTAMIENTOS HUMANOS Y DEL PATRIMONIO CULTURAL
 
@@ -2157,6 +2147,10 @@ El resguardo de información previsto en el presente artículo será mediante so
 
 La consulta pública de esta sección sólo será informativa, por lo que el Registro Público de la Propiedad y del Notariado no expedirá certificaciones de la misma.
 
+### CAPITULO XII. DE LAS CERTIFICACIONES
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 332.
 
 El Jefe de la Oficina del Registro Público tiene obligación de dar a quien lo solicite certificaciones literales o en lo conducente, de las inscripciones o constancias asentadas en los libros de la oficina.
@@ -2181,9 +2175,7 @@ Cuando las solicitudes de los interesados o los mandatos de los jueces no expres
 
 Los certificados se expedirán a petición verbal de quien los solicite o por mandamiento judicial dentro de los tres días siguientes a la recepción de la solicitud o del mandamiento, a menos que el trabajo propio de la oficina lo impida.
 
-### CAPITULO XII. DE LAS CERTIFICACIONES
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+### CAPITULO XIII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 337.
 
@@ -2215,7 +2207,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 ## TITULO UNICO. DEL NOTARIADO
 
-### CAPITULO XIII. DISPOSICIONES GENERALES
+### CAPITULO I. DE LOS NOTARIOS
 
 ###### ARTICULO 339.
 
@@ -2269,7 +2261,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO I. DE LOS NOTARIOS
+### CAPITULO II. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
 ###### ARTICULO 352.
 
@@ -2331,7 +2323,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO II. DEL NOMBRAMIENTO DE LOS NOTARIOS
+### CAPITULO III. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
 ###### ARTICULO 367.
 
@@ -2385,7 +2377,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO III. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
+### CAPITULO IV. DEL NOTARIO EN EL EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 380.
 
@@ -2435,7 +2427,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO IV. DEL NOTARIO EN EL EJERCICIO DE SUS FUNCIONES
+### CAPITULO V. DEL PROTOCOLO
 
 ###### ARTICULO 392.
 
@@ -2505,7 +2497,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO V. DEL PROTOCOLO
+### CAPITULO VI. DE LAS ESCRITURAS
 
 ###### ARTICULO 409.
 
@@ -2603,7 +2595,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO VI. DE LAS ESCRITURAS
+### CAPITULO VII. DE LOS TESTIMONIOS
 
 ###### ARTICULO 433.
 
@@ -2625,7 +2617,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO VII. DE LOS TESTIMONIOS
+### CAPITULO VIII. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
 
 ###### ARTICULO 438.
 
@@ -2651,7 +2643,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO VIII. DEL VALOR DE LAS ESCRITURAS, ACTAS Y TESTIMONIOS
+### CAPITULO IX. DE LA RESPONSABILIDAD DE LOS NOTARIOS
 
 ###### ARTICULO 444.
 
@@ -2673,7 +2665,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO IX. DE LA RESPONSABILIDAD DE LOS NOTARIOS
+### CAPITULO X. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
 
 ###### ARTICULO 449.
 
@@ -2715,7 +2707,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO X. DE LA CESACION DEFINITIVA DE LOS NOTARIOS
+### CAPITULO XI. DEL CONSEJO Y COLEGIO DE NOTARIOS
 
 ###### ARTICULO 459.
 
@@ -2741,7 +2733,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA, P.O. 8 DE ENERO DE 1992)
 
-### CAPITULO XI. DEL CONSEJO Y COLEGIO DE NOTARIOS
+### CAPITULO XII. DIRECCION GENERAL DEL NOTARIADO
 
 ###### ARTICULO 465.
 
@@ -2777,7 +2769,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO XII. DIRECCION GENERAL DEL NOTARIADO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 471.
 
@@ -2809,7 +2801,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA COMISION ESTATAL ELECTORAL
 
 ###### ARTICULO 478.
 
@@ -2825,7 +2817,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO II. DE LA COMISION ESTATAL ELECTORAL
+### CAPITULO III. DE LOS COMITES ELECTORALES
 
 ###### ARTICULO 481.
 
@@ -2849,7 +2841,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO III. DE LOS COMITES ELECTORALES
+### CAPITULO IV. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 486.
 
@@ -2865,7 +2857,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO IV. DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPITULO V. DEL REGISTRO ESTATAL DE ELECTORES
 
 ###### ARTICULO 489.
 
@@ -2917,7 +2909,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO V. DEL REGISTRO ESTATAL DE ELECTORES
+### CAPITULO I. DE LOS PARTIDOS POLITICOS
 
 ###### ARTICULO 500.
 
@@ -2993,7 +2985,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO I. DE LOS PARTIDOS POLITICOS
+### CAPITULO II. DEL VOTO
 
 ###### ARTICULO 518.
 
@@ -3029,7 +3021,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO II. DEL VOTO
+### CAPITULO I. DE LA PREPARACION
 
 ###### ARTICULO 525.
 
@@ -3077,7 +3069,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO I. DE LA PREPARACION
+### CAPITULO II. DE LA JORNADA ELECTORAL
 
 ###### ARTICULO 536.
 
@@ -3101,7 +3093,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO II. DE LA JORNADA ELECTORAL
+### CAPITULO III. DE LA VOTACION
 
 ###### ARTICULO 541.
 
@@ -3141,7 +3133,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO III. DE LA VOTACION
+### CAPITULO IV. DEL ESCRUTINIO Y LA COMPUTACION
 
 ###### ARTICULO 550.
 
@@ -3225,7 +3217,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO IV. DEL ESCRUTINIO Y LA COMPUTACION
+### CAPITULO I. DE LA NULIDAD DE LAS ELECCIONES
 
 ###### ARTICULO 569.
 
@@ -3253,7 +3245,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO I. DE LA NULIDAD DE LAS ELECCIONES
+### CAPITULO II. DE LAS SANCIONES
 
 ###### ARTICULO 575.
 
@@ -3301,7 +3293,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO II. DE LAS SANCIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 584.
 
@@ -3325,7 +3317,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
 
 ###### ARTICULO 589.
 
@@ -3397,7 +3389,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
+### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
 
 ###### ARTICULO 606.
 
@@ -3417,7 +3409,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
+### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
 
 ###### ARTICULO 610.
 
@@ -3425,7 +3417,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
+### CAPITULO V. GRADOS Y JERARQUIAS
 
 ###### ARTICULO 611.
 
@@ -3433,7 +3425,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO V. GRADOS Y JERARQUIAS
+### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
 
 ###### ARTICULO 612.
 
@@ -3445,7 +3437,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
+### CAPITULO VII. OBLIGACIONES DE LA POLICIA
 
 ###### ARTICULO 614.
 
@@ -3453,7 +3445,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO VII. OBLIGACIONES DE LA POLICIA
+### CAPITULO VIII. MANDO Y COMANDO
 
 ###### ARTICULO 615.
 
@@ -3489,7 +3481,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
-### CAPITULO VIII. MANDO Y COMANDO
+### CAPITULO IX. DISPOSICIONES FINALES
 
 ###### ARTICULO 623.
 
@@ -3505,7 +3497,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
-### CAPITULO IX. DISPOSICIONES FINALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 624.
 
@@ -3625,7 +3617,9 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 #### SECCION PRIMERA. ORGANIZACION
 
@@ -3711,9 +3705,9 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
-### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
+### CAPITULO III. DEL PROCEDIMIENTO
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 #### SECCION PRIMERA. DEL TRIBUNAL CENTRAL PARA MENORES
 
@@ -3777,9 +3771,7 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 ## TITULO PRIMERO. DEL REGIMEN PENITENCIARIO Y CARCELES
 
-### CAPITULO III. DEL PROCEDIMIENTO
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
+### CAPITULO I. FINALIDADES
 
 ###### ARTICULO 684.
 
@@ -3833,7 +3825,7 @@ Los internos tienen derecho a ser recibidos en audiencia por los funcionarios de
 
 Se considera de interés público la creación de un Patronato para Liberados, que tendrá a su cargo prestar asistencia moral y material a los excarcelados, tanto por cumplimiento de condena como por libertad procesal, absolución, condena condicional o libertad preparatoria. El Ejecutivo del Estado dictará el reglamento que determine la integración y funcionamiento de este organismo.
 
-### CAPITULO I. FINALIDADES
+### CAPITULO II. DE LOS EDIFICIOS
 
 ###### ARTICULO 696.
 
@@ -3847,7 +3839,7 @@ El sistema de celdas se empleará, si fuere posible, en todas y cada una de las 
 
 En todas las prisiones se destinarán locales para refectorio, cocina, escuela, baño y lavado de ropas, enfermería, talleres, locutorio y demás servicios, donde los edificios lo permitan y el número de reclusos lo demande.
 
-### CAPITULO II. DE LOS EDIFICIOS
+### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
 
 ###### ARTICULO 699.
 
@@ -3881,7 +3873,7 @@ Para ser nombrado subdirector o subalcaide se requieren los mismos requisitos qu
 
 Las faltas de los directores o alcaides serán sancionadas por la autoridad política y la Dirección de Gobernación, según corresponda, de acuerdo con los reglamentos respectivos.
 
-### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
+### CAPITULO IV. PREVENCIONES GENERALES
 
 ###### ARTICULO 707.
 
@@ -3893,7 +3885,7 @@ El incumplimiento de lo anterior será sancionado por la autoridad política o l
 
 ## TITULO SEGUNDO. DE LA PENITENCIARIA DEL ESTADO
 
-### CAPITULO IV. PREVENCIONES GENERALES
+### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
 
 ###### ARTICULO 709.
 
@@ -3933,7 +3925,7 @@ I.- Un informe del alcaide de la cárcel o director de la penitenciaría en que 
 
 II.- En los documentos mencionados en la fracción anterior deberá estar comprendida la filiación y asignación dactiloscópica y antropométrica del reo, con sus respectivas fotografías, si estos últimos sistemas de identificación estuvieren establecidos en las cárceles de la procedencia del reo, y en caso de no recibirse estos documentos, se procederá a su identificación, de acuerdo con el Reglamento.
 
-### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
+### CAPITULO II. INSPECCION
 
 ###### ARTICULO 715.
 
@@ -3943,7 +3935,7 @@ La inspección de la Penitenciaría, en lo que se refiere al régimen administra
 
 Las observaciones que las autoridades judiciales y municipales tengan que hacer sobre el régimen de la Penitenciaría, se comunicarán por escrito al Ejecutivo, para que éste dicte las medidas que estime convenientes. Pueden, sin embargo, los jueces y magistrados, comunicar directamente al Director, las órdenes que se refieren a los detenidos para alguna diligencia del proceso o para algún asunto relacionado con el mismo.
 
-### CAPITULO II. INSPECCION
+### CAPITULO III. PERSONAL DE EMPLEADOS
 
 ###### ARTICULO 717.
 
@@ -3953,7 +3945,7 @@ El personal de empleados de la Penitenciaría se compondrá de un Director, un S
 
 Todos los empleados de la Penitenciaría tienen obligación de mantener estrictamente el orden, la disciplina y la exactitud en el servicio, debiendo los inferiores dar aviso inmediatamente al Director, de las faltas que notaren para que sean corregidas desde luego, con advertencias, amonestaciones, arrestos, destitución de empleo o proceso, según el caso.
 
-### CAPITULO III. PERSONAL DE EMPLEADOS
+### CAPITULO IV. DEL DIRECTOR
 
 ###### ARTICULO 719.
 
@@ -3995,11 +3987,13 @@ II.- Dar oficialmente al juez que haya dictado la sentencia definitiva o al Supr
 
 III.- Avisar a la Dirección de Gobernación cada vez que salga en libertad un reo sentenciado, expresando su salida y la autoridad que concedió la libertad.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 725.
 
-Si en el interior del establecimiento se cometiere algún delito, el Director de la Penitenciaría dará inmediatamente aviso a la autoridad más próxima que desempeñe funciones de policía judicial, para que practique las primeras diligencias.
+Si en el interior del establecimiento se cometiere algún delito, el Director de la Penitenciaría dará inmediatamente aviso a la autoridad más próxima que desempeñe funciones de policía al mando del ministerio público, para que practique las primeras diligencias.
 
-### CAPITULO IV. DEL DIRECTOR
+### CAPITULO V. DEL SUBDIRECTOR
 
 ###### ARTICULO 726.
 
@@ -4013,13 +4007,13 @@ En todo lo referente al servicio interior, seguridad de presos y vigilancia de l
 
 El Subdirector será secundado en el desempeño de su cometido por el Jefe del Cuerpo de Agentes de Seguridad, quien lo substituirá en casos de faltas accidentales.
 
-### CAPITULO V. DEL SUBDIRECTOR
+### CAPITULO VI. DEL CUERPO DE AGENTES DE SEGURIDAD
 
 ###### ARTICULO 729.
 
 El Cuerpo de Agentes de Seguridad tendrá a su cargo la vigilancia y custodia de los presos en el interior del establecimiento y su Jefe queda, de un modo general, subalternado al Director, e inmediatamente al Subdirector, de quien recibirá la orden diaria para el servicio. El Reglamento determinará las obligaciones específicas que le correspondan.
 
-### CAPITULO VI. DEL CUERPO DE AGENTES DE SEGURIDAD
+### CAPITULO VII. DE LA FUERZA QUE CUBRE EL SERVICIO DE GUARDIA
 
 ###### ARTICULO 730.
 
@@ -4033,7 +4027,7 @@ Este servicio se relevará: si es de fuerza federal, según lo determine la Jefa
 
 Cuando esta Guardia se cubra con fuerzas del Estado, el Comandante quedará de una manera directa subordinado al Director de la Penitenciaría, de quien recibirá instrucciones, para el mejor desempeño de su servicio; en el concepto de que el personal de la referida Guardia, ya sea federal o del Estado, no cubrirá ningún servicio interior, quedando éste a cargo del Cuerpo de Agentes de Seguridad.
 
-### CAPITULO VII. DE LA FUERZA QUE CUBRE EL SERVICIO DE GUARDIA
+### CAPITULO VIII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 733.
 
@@ -4051,7 +4045,7 @@ EDUCACION PUBLICA
 
 ## TITULO PRIMERO. DE LA EDUCACION EN GENERAL
 
-### CAPITULO VIII. DISPOSICIONES GENERALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 735.
 
@@ -4105,7 +4099,7 @@ En todo establecimiento de enseñanza pública existente en el Estado es obligat
 
 Los habitantes del Estado tendrán iguales derechos en materia de educación y el gobierno les ofrecerá las mismas oportunidades para adquirirla, dentro de los requisitos legales y reglamentarios exigidos para los distintos tipos de educación.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. FACULTADES Y DEBERES DEL ESTADO EN MATERIA EDUCATIVA
 
 ###### ARTICULO 742.
 
@@ -4171,7 +4165,7 @@ La fundación, supresión, reorganización, fusión, cambios de denominaciones, 
 
 ## TITULO SEGUNDO. DE LOS GRADOS Y OBJETO DE LA EDUCACION QUE IMPARTE EL ESTADO
 
-### CAPITULO II. FACULTADES Y DEBERES DEL ESTADO EN MATERIA EDUCATIVA
+### CAPITULO I. DE LA EDUCACION EN GENERAL
 
 ###### ARTICULO 746.
 
@@ -4205,7 +4199,7 @@ a).- Normal
 
 b).- Normal superior.
 
-### CAPITULO I. DE LA EDUCACION EN GENERAL
+### CAPITULO II. DE LA EDUCACION PREESCOLAR
 
 ###### ARTICULO 747.
 
@@ -4219,7 +4213,7 @@ La educación preescolar estará controlada por una oficina que se denominará "
 
 Los jardines de niños funcionarán independientes de las escuelas primarias y serán atendidos en lo posible por maestras especializadas en esa rama de la pedagogía.
 
-### CAPITULO II. DE LA EDUCACION PREESCOLAR
+### CAPITULO III. DE LA EDUCACION PRIMARIA
 
 ###### ARTICULO 750.
 
@@ -4269,7 +4263,7 @@ d).- La entrega de certificados y otros comprobantes de estudios.
 
 La educación primaria para adultos se sujetará en lo general, a los términos de la educación primaria establecidos en el artículo 751 y se impartirá en centros nocturnos que atenderán a las personas que han sobrepasado la edad reglamentaria sin obtener su certificado de educación primaria.
 
-### CAPITULO III. DE LA EDUCACION PRIMARIA
+### CAPITULO IV. DE LA EDUCACION MEDIA
 
 ###### ARTICULO 760.
 
@@ -4299,7 +4293,7 @@ Se denominarán escuelas de educación media en su ciclo industrial y comercial 
 
 Las escuelas de educación media en ciclo técnico agropecuario adoptarán los planes y programas de estudios establecidos por la Secretaría de Educación Pública a través de la Dirección General de Educación Técnica Agropecuaria.
 
-### CAPITULO IV. DE LA EDUCACION MEDIA
+### CAPITULO V. DE LA EDUCACION ARTISTICA
 
 ###### ARTICULO 767.
 
@@ -4313,7 +4307,7 @@ La educación artística se realizará en escuelas de artes plásticas, de músi
 
 Las escuelas de educación artística funcionarán con arreglo a planes y programas de estudios formulados o sancionados por la Dirección del ramo en el Estado.
 
-### CAPITULO V. DE LA EDUCACION ARTISTICA
+### CAPITULO VI. DE LA EDUCACION ESPECIAL
 
 ###### ARTICULO 770.
 
@@ -4323,7 +4317,7 @@ La educación especial tiene por objeto atender a los niños atípicos en sus di
 
 El Estado organizará escuelas de educación especial para atender a los niños atípicos y menores delincuentes, las cuales contarán con el personal especializado que requieran.
 
-### CAPITULO VI. DE LA EDUCACION ESPECIAL
+### CAPITULO VII. DE LAS ESCUELAS DE TRABAJO SOCIAL
 
 ###### ARTICULO 772.
 
@@ -4335,7 +4329,7 @@ Las prácticas de trabajo social se realizarán fundamentalmente en aquellas ins
 
 Las prácticas intensivas de trabajo social deben hacerse preferentemente fuera de la Capital con el objeto de poner a los futuros trabajadores frente a distintos medios para que recojan valiosas experiencias de los mismos.
 
-### CAPITULO VII. DE LAS ESCUELAS DE TRABAJO SOCIAL
+### CAPITULO VIII. DE LA EDUCACION PROFESIONAL
 
 ###### ARTICULO 774.
 
@@ -4367,13 +4361,13 @@ La Escuela Normal Superior organizará su acción pedagógica con base en los pl
 
 Al terminar su carrera, los maestros recibirán una relación de estudios y carta de pasante y para recibir el título deberán sujetarse a lo establecido en el Reglamento de Escuelas Normales Superiores vigente.
 
-### CAPITULO VIII. DE LA EDUCACION PROFESIONAL
+### CAPITULO IX. DE LA EDUCACION INDIGENA
 
 ###### ARTICULO 781.
 
 El Estado organizará las bases sobre las cuales coordinará su acción con las agencias del Gobierno Federal que en el mismo funcionan, para tender a la educación de los grupos indígenas.
 
-### CAPITULO IX. DE LA EDUCACION INDIGENA
+### CAPITULO X. DE LA CAMPAÑA NACIONAL CONTRA EL ANALFABETISMO
 
 ###### ARTICULO 782.
 
@@ -4401,13 +4395,13 @@ d).- La de la iniciativa privada.
 
 e).- La que los consejos obtengan mediante actividades que con ese fin desarrollen, previa autorización del consejo estatal.
 
-### CAPITULO X. DE LA CAMPAÑA NACIONAL CONTRA EL ANALFABETISMO
+### CAPITULO XI. DE LA ADMINISTRACION, VIGILANCIA Y DIRECCION TECNICA DE LAS ESCUELAS EN GENERAL
 
 ###### ARTICULO 786.
 
 La organización y funcionamiento de los servicios educativos del Estado se regirán por las leyes vigentes, así como por los convenios de coordinación con el Ejecutivo Federal.
 
-### CAPITULO XI. DE LA ADMINISTRACION, VIGILANCIA Y DIRECCION TECNICA DE LAS ESCUELAS EN GENERAL
+### CAPITULO XII. DEL PROFESORADO
 
 ###### ARTICULO 787.
 
@@ -4455,7 +4449,7 @@ e).- Poseer título de maestro del tipo de educación en que vaya a ejercer.
 
 Para el ejercicio de la enseñanza de las actividades tecnológicas, de no haber maestros titulados en la especialidad, el Estado podrá aceptar los servicios de maestros diplomados.
 
-### CAPITULO XII. DEL PROFESORADO
+### CAPITULO XIII. DE LOS ESTIMULOS, PRERROGATIVAS Y DERECHOS
 
 ###### ARTICULO 792.
 
@@ -4487,7 +4481,9 @@ En caso de fallecimiento de un profesor, se cubrirá la cantidad de mil quinient
 
 ## TITULO TERCERO
 
-### CAPITULO XIII. DE LOS ESTIMULOS, PRERROGATIVAS Y DERECHOS
+### CAPITULO UNICO. DEL ESCALAFON
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 797.
 
@@ -4615,9 +4611,7 @@ Los procedimientos para resolver las permutas y cambios de adscripción, así co
 
 ## TITULO CUARTO. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES, COORDINACION DE SERVICIOS, REVALIDACION DE ESTUDIOS
 
-### CAPITULO UNICO. DEL ESCALAFON
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1979)</small>
+### CAPITULO I. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES
 
 ###### ARTICULO 816.
 
@@ -4671,7 +4665,7 @@ Las instituciones privadas y los particulares no necesitan autorización del Est
 
 La transmisión de conocimientos o de principios que se realicen privadamente, fuera de las escuelas, en el seno de la familia, de persona a persona o en circunstancias análogas, no estará sujeta a restricción alguna, salvo las limitaciones que para la manifestación de las ideas señala el artículo 6o. de la Constitución Federal, para los casos de ataque a la moral, los derechos de tercero, provocación de algún delito o perturbación del orden público; pero no tendrá validez oficial, ni exime, en su caso, del carácter obligatorio de la educación primaria.
 
-### CAPITULO I. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES
+### CAPITULO II. DE LA COORDINACION DE SERVICIOS EDUCATIVOS
 
 ###### ARTICULO 823.
 
@@ -4729,7 +4723,7 @@ Los establecimientos sujetos a coordinación con el Gobierno Federal se regirán
 
 En los demás casos de coordinación, los convenios respectivos indicarán la forma en que deberán expedirse los reglamentos de los establecimientos coordinados.
 
-### CAPITULO II. DE LA COORDINACION DE SERVICIOS EDUCATIVOS
+### CAPITULO III. DE LA VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
 
 ###### ARTICULO 827.
 
@@ -4757,7 +4751,7 @@ La revalidación de estudios tiene por objeto que el Estado otorgue validez ofic
 
 En las escuelas o establecimientos dependientes del Estado o de los Municipios que exijan para la aceptación o ingreso de alumnos, la presentación de determinados certificados de estudios, sólo se aceptarán aquéllos expedidos por establecimientos que tengan o hayan tenido el reconocimiento de validez de sus estudios por parte del Gobierno del Estado.
 
-### CAPITULO III. DE LA VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
+### CAPITULO IV. DE LAS SANCIONES
 
 ###### ARTICULO 832.
 
@@ -4769,7 +4763,7 @@ Salvo disposición expresa en contrario, los funcionarios y empleados educativos
 
 ## TITULO QUINTO
 
-### CAPITULO IV. DE LAS SANCIONES
+### CAPITULO UNICO. DE LOS AYUNTAMIENTOS CON RELACION A LA EDUCACION PRIMARIA
 
 ###### ARTICULO 834.
 
@@ -4801,7 +4795,7 @@ Las autoridades municipales vigilarán la existencia de los patronatos pro const
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO. DE LOS AYUNTAMIENTOS CON RELACION A LA EDUCACION PRIMARIA
+### CAPITULO UNICO. DE LA EDUCACION FISICA
 
 ###### ARTICULO 841.
 
@@ -4813,7 +4807,9 @@ Promoverá también el Estado la construcción de campos e instalaciones deporti
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. DE LA EDUCACION FISICA
+### CAPITULO I
+
+DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O REPRESENTACION DE MENORES.
 
 ###### ARTICULO 843.
 
@@ -4845,9 +4841,7 @@ II.- Velar porque las disposiciones legales y reglamentarias sean cumplidas;
 
 III.- Promover el mejoramiento cultural, moral y material de los planteles y de los educandos.
 
-### CAPITULO I
-
-DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O REPRESENTACION DE MENORES.
+### CAPITULO II. DE LAS CONMEMORACIONES, FESTIVALES Y EXPOSICIONES ESCOLARES
 
 ###### ARTICULO 848.
 
@@ -4867,7 +4861,7 @@ Las escuelas estatales de todos los niveles educativos deben coordinar su acció
 
 Los artículos adquiridos con fondos procedentes de festivales o donativos para la escuela; ingresarán al inventario del establecimiento.
 
-### CAPITULO II. DE LAS CONMEMORACIONES, FESTIVALES Y EXPOSICIONES ESCOLARES
+### CAPITULO III. DEL AHORRO, PARCELAS Y COOPERATIVAS ESCOLARES
 
 ###### ARTICULO 852.
 
@@ -4937,7 +4931,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO III. DEL AHORRO, PARCELAS Y COOPERATIVAS ESCOLARES
+### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE NECESITAN TITULO PARA SU EJERCICIO
 
 ###### ARTICULO 861.
 
@@ -4961,7 +4955,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE NECESITAN TITULO PARA SU EJERCICIO
+### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
 
 ###### ARTICULO 866.
 
@@ -4973,7 +4967,9 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
+### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION I. TITULOS EXPEDIDOS EN EL ESTADO
 
@@ -5023,9 +5019,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
-
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
 
 ###### ARTICULO 876.
 
@@ -5041,7 +5035,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
+### CAPITULO V. DEL EJERCICIO PROFESIONAL
 
 ###### ARTICULO 879.
 
@@ -5125,7 +5119,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO V. DEL EJERCICIO PROFESIONAL
+### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### ARTICULO 899.
 
@@ -5161,7 +5155,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
+### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
 
 ###### ARTICULO 907.
 
@@ -5201,7 +5195,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
+### CAPITULO VIII. DE LOS PRACTICOS
 
 ###### ARTICULO 916.
 
@@ -5229,7 +5223,7 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO VIII. DE LOS PRACTICOS
+### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
 
 ###### ARTICULO 922.
 
@@ -5285,7 +5279,7 @@ TRABAJO Y PREVISION SOCIAL
 
 # LIBRO UNICO
 
-### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 934.
 
@@ -5325,7 +5319,7 @@ El presupuesto señalará el número de inspectores del trabajo que dependientes
 
 Tomando en cuenta las necesidades y peculiaridades propias del Estado y sus diferentes regiones y localidades, el Departamento de Trabajo y Previsión Social procederá al estudio de los diversos aspectos de la legislación del trabajo en que se encomienda a los Gobernadores que expidan los reglamentos o disposiciones administrativas que estimen adecuadas para asegurar la vigencia de la Ley Federal del Trabajo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA DEFENSA DEL TRABAJO
 
 ###### ARTICULO 941.
 
@@ -5397,7 +5391,7 @@ El Procurador General tendrá jurisdicción sobre todo el Estado, y podrá hacer
 
 El Gobernador del Estado, por conducto del Departamento de Trabajo y Previsión Social, fijará la jurisdicción y los lugares de radicación de los Procuradores Auxiliares.
 
-### CAPITULO II. DE LA DEFENSA DEL TRABAJO
+### CAPITULO III. DE LAS ATRIBUCIONES DEL PROCURADOR Y SUS PROCURADORES AUXILIARES
 
 ###### ARTICULO 952.
 
@@ -5441,7 +5435,7 @@ SALUBRIDAD Y ASISTENCIA
 
 ## TITULO PRIMERO
 
-### CAPITULO III. DE LAS ATRIBUCIONES DEL PROCURADOR Y SUS PROCURADORES AUXILIARES
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 956.
 
@@ -5467,7 +5461,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO II. ORGANIZACION, FACULTADES Y ATRIBUCIONES DE LOS SERVICIOS COORDINADOS DE SALUD PUBLICA
 
 ###### ARTICULO 962.
 
@@ -5517,7 +5511,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO II. ORGANIZACION, FACULTADES Y ATRIBUCIONES DE LOS SERVICIOS COORDINADOS DE SALUD PUBLICA
+### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
 
 ###### ARTICULO 974.
 
@@ -5611,7 +5605,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
+### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
 
 ###### ARTICULO 997.
 
@@ -5633,7 +5627,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
+### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
 
 ###### ARTICULO 1002.
 
@@ -5699,7 +5693,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
+### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 1018.
 
@@ -5753,7 +5747,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
+### CAPITULO VII. TRASLACION DE CADAVERES
 
 ###### ARTICULO 1031.
 
@@ -5767,7 +5761,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO VII. TRASLACION DE CADAVERES
+### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
 
 ###### ARTICULO 1034.
 
@@ -5801,7 +5795,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
+### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
 
 ###### ARTICULO 1042.
 
@@ -5839,19 +5833,19 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
+### CAPITULO X. DE LA BIOESTADISTICA MEDICA
 
 ###### ARTICULO 1051.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO X. DE LA BIOESTADISTICA MEDICA
+### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
 
 ###### ARTICULO 1052.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
+### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
 
 ###### ARTICULO 1053.
 
@@ -5865,7 +5859,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
+### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
 
 ###### ARTICULO 1056.
 
@@ -5891,13 +5885,13 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
+### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
 
 ###### ARTICULO 1062.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
+### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
 
 ###### ARTICULO 1063.
 
@@ -5913,7 +5907,7 @@ SALUBRIDAD Y ASISTENCIA
 
 ## TITULO SEGUNDO. SANCIONES ADMINISTRATIVAS
 
-### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
+### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 1066.
 
@@ -5959,7 +5953,7 @@ SALUBRIDAD Y ASISTENCIA
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
 
 ###### ARTICULO 1077.
 
@@ -5975,7 +5969,7 @@ SALUBRIDAD Y ASISTENCIA
 
 ## TITULO TERCERO
 
-### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
+### CAPITULO UNICO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 1080.
 
@@ -6031,7 +6025,7 @@ SALUBRIDAD Y ASISTENCIA
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. DEL PROCEDIMIENTO
+### CAPITULO UNICO. DEL PATRONATO
 
 ###### ARTICULO 1091.
 
@@ -6149,7 +6143,7 @@ SALUBRIDAD Y ASISTENCIA
 
 ## TITULO PRIMERO
 
-### CAPITULO UNICO. DEL PATRONATO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1119.
 
@@ -6235,7 +6229,7 @@ También se tendrá por no hecha la revocación o reducción que haga una person
 
 Nunca se declarará nula una disposición testamentaria hecha en favor de la beneficencia privada, por defectos de forma; en todo caso, se obedecerá la voluntad del testador.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1137.
 
@@ -6267,7 +6261,7 @@ Las fundaciones y las asociaciones pueden ser de dos clases: permanentes o trans
 
 Cuando para satisfacer necesidades producidas por epidemias, guerras, terremotos, inundaciones o por causas económicas, se organicen asociaciones transitorias, éstas se denominarán juntas de socorro o de asistencia.
 
-### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
+### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
 
 ###### ARTICULO 1144.
 
@@ -6337,7 +6331,7 @@ Las instituciones de beneficencia privada se considerarán con personalidad jur�
 
 Antes de la protocolización, la Junta de Beneficencia Privada ejercitará los derechos que correspondan a las referidas instituciones.
 
-### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
+### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
 
 ###### ARTICULO 1151.
 
@@ -6407,7 +6401,7 @@ El albacea o ejecutor no podrá gravar ni enajenar los bienes de la testamentar�
 
 El patrono o patronos de las fundaciones constituidas en la forma prevenida por este Capítulo, estarán obligados a ejercitar oportunamente los derechos que correspondan a éstas, de acuerdo con los Códigos Civil y de Procedimientos Civiles.
 
-### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
+### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
 
 ###### ARTICULO 1167.
 
@@ -6441,7 +6435,7 @@ Las fundaciones por crear, en el caso del artículo 1168 tendrán capacidad para
 
 Las instituciones no podrán aceptar o repudiar las herencias o los legados que les correspondan conforme a lo dispuesto en este Capítulo, sin la autorización previa de la Junta de Beneficencia Privada.
 
-### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
+### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1173.
 
@@ -6469,7 +6463,7 @@ Si el donativo no consiste en dinero, se hará el avalúo de la cosa para el efe
 
 ## TITULO SEGUNDO. ADMINISTRACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
+### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
 
 ###### ARTICULO 1179.
 
@@ -6579,7 +6573,7 @@ En caso de controversia sobre el ejercicio del patronato y entre tanto se resuel
 
 La Junta mantendrá al nombrado en el ejercicio del patronato por los medios que las leyes autorizan.
 
-### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
+### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
 
 ###### ARTICULO 1191.
 
@@ -6639,7 +6633,7 @@ XXV.- Cumplir con las demás obligaciones que les impone este Código y sus regl
 
 Los fundadores, directores o presidentes de las juntas o consejos de las asociaciones de beneficencia privada tendrán las mismas obligaciones que establece el artículo anterior, y en consecuencia, serán igualmente responsables en caso de desobediencia.
 
-### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
+### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
 
 ###### ARTICULO 1193.
 
@@ -6683,7 +6677,7 @@ Cuando se trate de colectas, se observará por la Junta de Beneficencia Privada 
 
 ## TITULO TERCERO. VIGILANCIA DEL ESTADO EN LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
+### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1203.
 
@@ -6779,7 +6773,7 @@ Todos los asuntos se despacharán por conducto del Secretario General.
 
 Los Vocales no podrán mandar al personal, sino por conducto de aquél.
 
-### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1212.
 
@@ -6821,7 +6815,7 @@ Dentro de este sector de actividades, corresponderá a la Junta, con ayuda de un
 
 Las funciones especificadas en los artículos anteriores se llevarán a cabo en la forma y términos establecidos por este Código y el reglamento respectivo.
 
-### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
 
 ###### ARTICULO 1218.
 
@@ -6869,7 +6863,7 @@ Los jueces del ramo penal están obligados a dar aviso a la Junta de Beneficenci
 
 ## TITULO CUARTO. MODIFICACION Y EXTINCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
+### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
 
 ###### ARTICULO 1228.
 
@@ -6881,7 +6875,7 @@ La Junta de Beneficencia Privada, previo estudio y dictamen del caso, resolverá
 
 En este caso, los patronatos tendrán las obligaciones que imponen dichos artículos a los fundadores.
 
-### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
+### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
 
 ###### ARTICULO 1230.
 
@@ -6963,7 +6957,7 @@ Practicada la liquidación, si hay remanente, se aplicará éste con sujeción a
 
 ## TITULO QUINTO
 
-### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
+### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1242.
 
@@ -6983,7 +6977,7 @@ Las Delegaciones residirán en el lugar o lugares que determine el Gobernador.
 
 ## TITULO SEXTO. RESPONSABILIDADES
 
-### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1246.
 
@@ -7005,7 +6999,7 @@ Las personas que contravengan lo dispuesto en el artículo 1123 serán castigada
 
 En el caso de los artículos precedentes, el juez, corte o tribunal, a quien competa conocer de los procesos respectivos, fijará el grado de responsabilidad de los acusados.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
 
 ###### ARTICULO 1251.
 
@@ -7043,7 +7037,7 @@ IV.- Cuando la Junta de Beneficencia Privada les indique la venta de inmuebles q
 
 V.- Cuando por negligencia suya se acumulen productos de capitales en poder de los deudores.
 
-### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
+### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1256.
 
@@ -7083,7 +7077,7 @@ II.- La suspensión sin goce de sueldo; y
 
 III.- La destitución.
 
-### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
 
 ###### ARTICULO 1261.
 
@@ -7121,7 +7115,7 @@ COMUNICACIONES Y OBRAS PUBLICAS
 
 ## TITULO PRIMERO. DE LOS CAMINOS
 
-### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1268.
 
@@ -7173,7 +7167,7 @@ IV.- Con las cantidades que el Gobierno Federal, los Ayuntamientos, comités de 
 
 V.- Con el producto de los impuestos que en lo futuro se decreten para el objeto, así como con las multas que se impongan a los infractores del presente Capítulo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA JUNTA LOCAL Y DEL COMITE DE CAMINOS
 
 ###### ARTICULO 1278.
 
@@ -7187,7 +7181,7 @@ El Congreso del Estado, en el presupuesto de egresos que cada año decrete, debe
 
 La Junta Local de Caminos se integrará y funcionará con arreglo a las disposiciones consignadas en la Ley sobre Construcción de Caminos en Cooperación con los Estados y su reglamento, o con arreglo a las disposiciones de la nueva ley federal que se dicte en lugar de la anterior.
 
-### CAPITULO II. DE LA JUNTA LOCAL Y DEL COMITE DE CAMINOS
+### CAPITULO III. DE LA INSTALACION DE ANUNCIOS EN LOS CAMINOS
 
 ###### ARTICULO 1281.
 
@@ -7337,7 +7331,7 @@ Se aplicará una multa hasta por la cantidad de mil pesos, a juicio del Ejecutiv
 
 ## TITULO SEGUNDO
 
-### CAPITULO III. DE LA INSTALACION DE ANUNCIOS EN LOS CAMINOS
+### CAPITULO UNICO. DE LAS DEMAS VIAS DE COMUNICACION
 
 ###### ARTICULO 1304.
 
@@ -7351,7 +7345,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 ## TITULO UNICO
 
-### CAPITULO UNICO. DE LAS DEMAS VIAS DE COMUNICACION
+### CAPITULO I. DEL TRANSITO ESTATAL Y DE LAS AUTORIDADES DE TRANSITO
 
 ###### ARTICULO 1306.
 
@@ -7365,7 +7359,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
-### CAPITULO I. DEL TRANSITO ESTATAL Y DE LAS AUTORIDADES DE TRANSITO
+### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES DE TRANSITO DEL ESTADO
 
 ###### ARTICULO 1309.
 
@@ -7387,7 +7381,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA, P.O. 5 DE AGOSTO DE 1987)
 
-### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES DE TRANSITO DEL ESTADO
+### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
 
 ###### ARTICULO 1314.
 
@@ -7405,7 +7399,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
-### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
+### CAPITULO IV. INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 1318.
 
@@ -7453,7 +7447,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-### CAPITULO IV. INFRACCIONES Y SANCIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1327.
 
@@ -7477,7 +7471,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
 
 ###### ARTICULO 1332.
 
@@ -7493,7 +7487,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
+### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
 ###### ARTICULO 1335.
 
@@ -7505,7 +7499,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
+### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
 ###### ARTICULO 1337.
 
@@ -7513,7 +7507,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
+### CAPITULO V. DE LA CONTRATACION Y EJECUCION DE LA OBRA PUBLICA
 
 ###### ARTICULO 1338.
 
@@ -7541,7 +7535,7 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
-### CAPITULO V. DE LA CONTRATACION Y EJECUCION DE LA OBRA PUBLICA
+### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 1344.
 
@@ -7561,7 +7555,7 @@ OCTAVA PARTE
 
 ## TITULO UNICO
 
-### CAPITULO VI. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1347.
 
@@ -7589,7 +7583,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO I. DE LOS GANADEROS
 
 ###### ARTICULO 1351.
 
@@ -7601,7 +7595,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO I. DE LOS GANADEROS
+### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
 
 ###### ARTICULO 1353.
 
@@ -7681,7 +7675,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
+### CAPITULO III. ANIMALES MOSTRENCOS
 
 ###### ARTICULO 1372.
 
@@ -7733,7 +7727,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO III. ANIMALES MOSTRENCOS
+### CAPITULO IV. INSPECCION DE GANADOS
 
 ###### ARTICULO 1384.
 
@@ -7773,7 +7767,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO IV. INSPECCION DE GANADOS
+### CAPITULO V. ABASTO PUBLICO
 
 ###### ARTICULO 1393.
 
@@ -7813,7 +7807,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO V. ABASTO PUBLICO
+### CAPITULO VI. TRANSPORTE DE GANADO
 
 ###### ARTICULO 1402.
 
@@ -7897,7 +7891,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO VI. TRANSPORTE DE GANADO
+### CAPITULO VII. VIGILANCIA DE LOS GANADOS
 
 ###### ARTICULO 1422.
 
@@ -7929,7 +7923,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO VII. VIGILANCIA DE LOS GANADOS
+### CAPITULO VIII. DE LAS CORRIDAS
 
 ###### ARTICULO 1429.
 
@@ -7965,7 +7959,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO VIII. DE LAS CORRIDAS
+### CAPITULO IX. DEL REGISTRO GENEALOGICO
 
 ###### ARTICULO 1437.
 
@@ -7989,7 +7983,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO IX. DEL REGISTRO GENEALOGICO
+### CAPITULO X. SANIDAD ANIMAL
 
 ###### ARTICULO 1442.
 
@@ -8021,7 +8015,7 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA, P.O. 16 DE AGOSTO DE 1995)</small>
 
-### CAPITULO X. SANIDAD ANIMAL
+### CAPITULO XI. PREVENCIONES GENERALES
 
 ###### ARTICULO 1449.
 
@@ -8043,7 +8037,7 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO XI. PREVENCIONES GENERALES
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1452.
 
@@ -8063,7 +8057,7 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LA ESTADISTICA
 
 ###### ARTICULO 1453.
 
@@ -8133,7 +8127,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO UNICO. DE LA ESTADISTICA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1460.
 
@@ -8161,7 +8155,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
 ###### ARTICULO 1466.
 
@@ -8197,7 +8191,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
+### CAPITULO III. LA PLANEACION URBANA
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -8265,13 +8261,13 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO III. LA PLANEACION URBANA
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
-
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 ###### ARTICULO 1489.
 
@@ -8327,7 +8323,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1502.
 
@@ -8339,7 +8335,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1504.
 
@@ -8385,9 +8381,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1515.
 
@@ -8413,13 +8409,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1521.
 
@@ -8437,7 +8429,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEXTA. DEL MEJORAMIENTO
 
@@ -8459,7 +8451,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1529.
 
@@ -8477,9 +8469,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1533.
 
@@ -8491,7 +8483,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1535.
 
@@ -8521,7 +8513,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO VII. DE LAS CONURBACIONES
 
@@ -8549,7 +8541,11 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -8559,9 +8555,9 @@ DECIMA PRIMERA PARTE
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1548.
 
@@ -8585,7 +8581,7 @@ Las autoridades Estatales y Municipales, proveerán de agua para consumo humano 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -8781,7 +8777,7 @@ En el caso de que el ingreso proveniente de las cuotas de recuperación determin
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO II. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO
+### CAPITULO III. JUNTAS MUNICIPALES DE AGUA Y SANEAMIENTO
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -8985,7 +8981,7 @@ Las Juntas Municipales de Agua y Saneamiento están facultadas para establecer e
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO III. JUNTAS MUNICIPALES DE AGUA Y SANEAMIENTO
+### CAPITULO IV. CONEXION DE LOS SERVICIOS DE AGUA Y SANEAMIENTO
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -9039,7 +9035,7 @@ El mantenimiento de las líneas generales estará a cargo de las Juntas Municipa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO IV. CONEXION DE LOS SERVICIOS DE AGUA Y SANEAMIENTO
+### CAPITULO V. INSPECCION Y PAGO DE LOS SERVICIOS
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -9111,7 +9107,7 @@ Los adeudos a cargo de los usuarios, provenientes de cualquiera de los conceptos
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-### CAPITULO V. INSPECCION Y PAGO DE LOS SERVICIOS
+### CAPITULO VI. INFRACCIONES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -9253,9 +9249,7 @@ DECIMA SEGUNDA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
-### CAPITULO VI. INFRACCIONES Y SANCIONES
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1605.
 
@@ -9311,7 +9305,7 @@ DECIMA SEGUNDA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 ###### ARTICULO 1618.
 
@@ -9343,7 +9337,7 @@ DECIMA SEGUNDA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)</small>
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
 ###### ARTICULO 1625.
 
@@ -9383,11 +9377,13 @@ DECIMA TERCERA PARTE
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
 
-### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+### CAPITULO I. DE LA COMPETENCIA Y DEL ACTO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1631.
 
-Las disposiciones de este título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, comprendiéndose tanto la Administración Pública Centralizada como la Paraestatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
+Las disposiciones de este título son aplicables a la actuación de los particulares ante la Administración Pública Estatal, comprendiéndose tanto la Administración Pública Centralizada como la Paraestatatal, así como a los actos a través de los cuales se desenvuelve la función administrativa, con excepción de la materia fiscal.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -9461,13 +9457,13 @@ Las dependencias o funcionarios del Ejecutivo no podrán impugnar las resolucion
 
 (REUBICADO, P.O. 12 DE MAYO DE 2001)
 
-### CAPITULO I. DE LA COMPETENCIA Y DEL ACTO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
-
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
+### CAPITULO III. DE LA CADUCIDAD, CANCELACION, RESCISION O NULIDAD
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1638.
 
@@ -9545,9 +9541,9 @@ La revocación se decretará de plano, únicamente en los casos en que los perju
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2001)</small>
 
-### CAPITULO III. DE LA CADUCIDAD, CANCELACION, RESCISION O NULIDAD
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1646.
 
@@ -9611,7 +9607,7 @@ DECIMA CUARTA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL DOMINIO PUBLICO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9663,9 +9659,9 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1652.
 
@@ -9859,9 +9855,9 @@ En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Fin
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1672.
 
@@ -9988,6 +9984,8 @@ Rige también respecto a los muebles de dominio privado lo establecido en precep
 ###### ARTICULO 1690.
 
 Acordada la destrucción de un mueble inútil para el servicio se dará de baja en el inventario, y podrá donarse con autorización del Gobernador del Estado a las personas indigentes que lo soliciten.
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ### CAPITULO UNICO. DE LAS EXPROPIACIONES
 
@@ -10810,3 +10808,7 @@ P.O. 31 DE MARZO DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
