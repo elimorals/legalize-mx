@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1994-07-07"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -359,7 +359,7 @@ Cuando la situación económica de los contribuyentes sea insuficiente para cubr
 
 ###### ARTICULO 31.
 
-Sólo podrá concederse prórroga o autorización para pagos en parcialidades de créditos fiscales, cuando con la misma no se comprometa su percepción, se garantice debidamente el interés fiscal en los términos de la presente Ley y el plazo no exceda de 24 meses, salvo en los casos que señale la presente Ley.
+Sólo podrá concederse prórroga o autorización para pagos en parcialidades de crédito fiscales, cuando con la misma no se comprometa su percepción, se garantice debidamente el interés fiscal en los términos de la presente Ley y el plazo no exceda de 24 meses, salvo en los casos que señale la presente Ley.
 
 Durante los plazos concedidos se causarán recargos, conforme a la tasa que anualmente fijen las Leyes de Ingresos de los Municipios del Estado.
 
@@ -1983,6 +1983,8 @@ Artículo Primero.- La presente Ley entrará en vigor en todo el Estado al día 
 
 Artículo Segundo.- Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre traslación de dominio de bienes inmuebles establecido en la Ley de Hacienda Municipal, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
 
+> <small>N. DE E. SE PRORROGA EL PERIODO DE VIGENCIA DEL ARTICULO TERCERO TRANSITORIO,... HASTA EL 31 DE DICIEMBRE DE 1995; SEGUN LO DISPUESTO EN EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL B.O. 29 DE DICIEMBRE DE 1994.</small>
+
 Artículo Tercero.- Durante el período comprendido de la fecha de entrada en vigor de la presente Ley hasta el 31 de diciembre de 1994, se aplicarán las siguientes disposiciones transitorias:
 
 I.- Tratándose de adquisiciones de vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año vigente en el área geográfica de que se trate, la base determinada para la aplicación de la tasa del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles establecida en el Artículo 75 de la Ley de Hacienda Municipal, se reducirá en un monto equivalente a 15 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate.
@@ -2016,3 +2018,13 @@ V.- Los organismos descentralizados y fideicomisos públicos, para la obtención
 VI.- Una vez que reúnan los requisitos que establecen las Fracciones anteriores, los organismos y organizaciones de los sectores públicos, social y privado a que se refieren las presentes disposiciones Transitorias, solicitarán por escrito ante la autoridad municipal correspondiente, la autorización de la reducción de que se trate.
 
 VII.- las reducciones que se otorguen a las entidades y promotores a que se refieren las fracciones I, segundo párrafo y II, de estas disposiciones Transitorias, se condicionará a que en la realización de las obras se cumpla con lo estipulado en la Ley 101 de Desarrollo Urbano para el Estado de Sonora, y Reglamento de Construcción, aplicable, así como a las especificaciones técnicas, lineamientos y plazos que al efecto se establezcan en el proyecto y calendario de obras definitivos aprobados.
+
+B.O. 29 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+Se prorroga el período de vigencia del Artículo Tercero Transitorio de la Ley número 390 Que Reforma y Adiciona Diversas Disposiciones de la Ley de Hacienda Municipal, publicada en el Boletín Oficial del Gobierno del Estado, número 2, sección III, del día 7 de julio de 1994, relativo al pago del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, hasta el 31 de diciembre de 1995.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor el día primero de Enero de 1995, previa su publicación en el Boletín Oficial del Gobierno del Estado.
