@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1991-06-28"
+last_updated: "1991-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -267,47 +267,31 @@ Están obligadas al pago de este impuesto las personas físicas o morales que ad
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirirente (sic).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 26.
 
-La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el precio pactado, el valor catastral y el avalúo que al efecto practique u ordene la Secretaría de Finanzas del Gobierno del Estado, después de reducirlo en los términos siguientes:
+La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el precio pactado, el valor catastral y el avalúo que al efecto practique u ordene la Secretaría de finanzas del Gobierno del Estado, después de reducirlo en los términos siguientes:
 
 VALOR REDUCCION
 
-HASTA 109'999,999.00 10 VECES EL SALARIO MINIMO
+HASTA 69'999,999.00 10 veces el salario mínimo
 
-ELEVADO AL AÑO.
+elevado al año.
 
-DE 110'000.000.00 A 179'000,000.00 5 VECES EL SALARIO MINIMO
+De 70'000.000.00 A 109'999,999.00 8 veces el salario mínimo
 
-ELEVADO AL AÑO.
+elevado al año.
 
-DE 180'000,000.00 EN ADELANTE NO HAY REDUCCION.
+De 110'000,000.00 En adelante No hay reducción.
 
 Para tales efectos se tomará el salario mínimo que rija en el Municipio en el momento en que se realice el acto generador.
 
-Para los fines de este capítulo, se considera que el usufructo y la nuda propiedad tiene (sic) un valor, cada uno de ellos, del 50% del valor de la propiedad.
-
-Cuando del inmueble formen parte departamentos habitacionales la reducción se hará por cada uno de ellos.
-
-Cuando por motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-
-La reducción a que se refiere el párrafo primero de este artículo, se realizará conforme a lo siguiente:
-
-Se considerará como un solo inmueble, los bienes que sean o resulten colidantes (sic), adquiridos por la misma persona o en un periodo de veinticuatro meses; de la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción, y pagará en su caso la diferencia del impuesto que corresponda; lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el artículo 26 de esta ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 27.
 
-El impuesto sobre traslación de dominio y otras operaciones de bienes inmuebles, se causará y pagará aplicando la tasa del 8%.
+El Impuesto sobre Traslación de Dominio y otras operaciones de bienes inmuebles, se causará y pagará aplicando la tasa del 6%.
 
 ###### ARTICULO 28.
 
@@ -405,21 +389,27 @@ Es objeto de este derecho la prestación del servicio de alumbrado público para
 
 Son sujetos de este derecho los propietarios o poseedores que se beneficie (sic) del servicio de alumbrado público que proporcione el municipio, sin importar que la fuente de alumbrado se encuentre o no ubicado precisamente frente a su predio.
 
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991) ( F. DE E., P.O. 4 DE ENERO DE 1992)
+
 ###### ARTICULO 41.
 
-Servirá de base para el cálculo de este derecho el valor catastral de los predios ubicados en el territorio del municipio.
+Servirá de base para el cálculo de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando la tasa del 8% para las tarifas 01, 1A, 1B. 1C., 02, 03 y 07 Y 4% para las tarifas OH, HM, HS y HT.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 42.
 
-El pago de este derecho se hará en forma conjunta con el pago del impuesto predial ante la Tesorería del municipio en el cual se encuentre ubicado el predio.
+El cobro de este derecho lo realizará la empresa suministradora del servicio, la cual hará la retención correspondiente, consignando el cargo en los recibos que expida por el consumo ordinario.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 43.
 
-El calculo del derecho a pagar se hará aplicando a la base el factor que anualmente determine la legislatura local en las leyes de ingresos municipales.
+La empresa suministradora del servicio deberá enterar las cantidades recaudas por este derecho a la Secretaría de Finanzas del Gobierno del Estado.
 
 ###### ARTICULO 44.
 
-Los derechos que se perciban por este concepto se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione el ayuntamiento.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
 ### CAPITULO IV. PANTEONES
 
@@ -1152,3 +1142,13 @@ Estas reformas entrarán en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todos los decretos y disposiciones fiscales que se opongan a lo prescrito en estas reformas.
+
+P.O. 28 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
