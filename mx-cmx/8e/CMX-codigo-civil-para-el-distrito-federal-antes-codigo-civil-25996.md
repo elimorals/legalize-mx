@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1982-12-31"
+last_updated: "1983-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -93,9 +93,11 @@ Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes 
 
 Los habitantes del Distrito Federal tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 17.
 
-Cuando alguno explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
+Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro; obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a elegir entre pedir la nulidad del contrato o la reducción equitativa de su obligación, más el pago de los correspondientes daños y perjuicios.
 
 El derecho concedido en este artículo dura un año.
 
@@ -1091,11 +1093,13 @@ Los cónyuges están obligados a contribuir cada uno por su parte a los fines de
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 163.
 
-Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrá (sic) eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges, en el cual ambos disfrutan de autoridad propia y consideraciones iguales.
+
+Los tribunales, con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1139,9 +1143,11 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 172.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo en lo relativo a los actos de administración y de dominio de los bienes comunes.
 
 ###### ARTICULO 173.
 
@@ -1193,6 +1199,8 @@ Son nulos los pactos que los esposos hicieren contra las leyes o los naturales f
 
 ### CAPITULO VIII. De las donaciones entre consortes
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 183.
 
 La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
@@ -1215,13 +1223,25 @@ La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si as
 
 Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 188.
 
 Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
 
 I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
 
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+II.- Cuando el socio administrador, sin el consentimiento expreso de su cónyuge, hace cesión de bienes pertenecientes a la sociedad conyugal, a sus acreedores;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+III.- Si el socio administrador es declarado en quiebra, o concurso;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+IV.- Por cualquiera otra razón que lo justifique a juicio del órgano jurisdiccional competente.
 
 ###### ARTICULO 189.
 
@@ -1263,9 +1283,11 @@ Todo pacto que importe cesión de una parte de los bienes propios de cada cónyu
 
 No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 194.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad conyugal. La administración quedará a cargo de quien los cónyuges hubiesen designado en las capitulaciones matrimoniales, estipulación que podrá ser libremente modificada, sin necesidad de expresión de causa, y en caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente.
 
 ###### ARTICULO 195.
 
@@ -1355,9 +1377,11 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 216.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causas de ausencia o impedimento del otro, no originado por enfermedad, se encargue temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+Ni el marido podrá cobrar a la mujer ni ésta a aquél retribución u honorario alguno por los servicios personales que le prestare, o por los consejos o asistencia que le diere.
 
 ###### ARTICULO 217.
 
@@ -1425,11 +1449,13 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 ###### ARTICULO 232.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 233.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello, a juicio del Juez.
 
 ###### ARTICULO 234.
 
@@ -1617,9 +1643,11 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 267.
 
-Son causas de divorcio:
+Son causales de divorcio:
 
 I.- El adulterio debidamente probado de uno de los cónyuges;
 
@@ -1633,7 +1661,9 @@ V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de co
 
 VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
 
-VII.- Padecer enajenación mental incurable;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+VII.- Padecer enajenación mental incurable, previa declaración de interdicción que se haga respecto del cónyuge demente;
 
 VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
 
@@ -1645,9 +1675,9 @@ X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte,
 
 XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 164 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada por alguno de los cónyuges en el caso del artículo 168;
+XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente los procedimientos tendentes (sic) a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del Artículo 168;
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
@@ -1659,9 +1689,15 @@ XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que s
 
 XVII.- El mutuo consentimiento.
 
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+XVIII.- La separación de los cónyuges por más de 2 años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 268.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o se hubiere desistido de la demanda o de la acción sin la conformidad del demandado, éste tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia o del auto que recayó al desistimiento. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
 
 ###### ARTICULO 269.
 
@@ -1673,7 +1709,7 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 ###### ARTICULO 271.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -1687,11 +1723,11 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 273.
 
-Los cónyuges que se encuentren en el caso del último párrafo del artículo anterior, están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
+Los cónyuges que se encuentren en el caso del último párrafo del Artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
 I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
@@ -1701,7 +1737,9 @@ II.- El modo de subvenir a las necesidades de los hijos, tanto durante el proced
 
 III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
 
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+IV.- En los términos del Artículo 288, la cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo;
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
@@ -1725,13 +1763,21 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en 
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 279.
 
-Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio, cuando haya mediado perdón expreso o tácito; no se considera perdón tácito la mera suscripción de una solicitud de divorcio voluntario, ni los actos procesales posteriores.
 
 ###### ARTICULO 280.
 
 La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 279.
+
+Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio, cuando haya mediado perdón expreso o tácito; no se considera perdón tácito la mera suscripción de una solicitud de divorcio voluntario, ni los actos procesales posteriores.
 
 ###### ARTICULO 281.
 
@@ -1739,7 +1785,7 @@ El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie 
 
 ###### ARTICULO 282.
 
-Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
@@ -1755,17 +1801,17 @@ IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar 
 
 V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo resolverá lo conducente.
+
+Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 283.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
-
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
-
-Segundo.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 267, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se le suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
-
-Tercera.- En el caso de las fracciones VI y VII del artículo 267, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+La sentencia de divorcio fijará la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos, debiendo obtener los elementos de juicio necesarios para ello. El juez observará las normas del presente código para los fines de llamar al ejercicio de la patria potestad a quien legalmente tenga derecho a ello, en su caso, o de designar tutor.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1789,11 +1835,17 @@ El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado 
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 288.
 
-En los casos de divorcio, el juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicio a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio necesario, el juez, tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente.
+
+En el caso de divorcio por mutuo consentimiento, la mujer tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, derecho que disfrutará si no tiene ingresos suficientes y mientras no contraiga nuevas nupcias o se una en concubinato.
+
+El mismo derecho señalado en el párrafo anterior, tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes, mientras no contraiga nuevas nupcias o se una en concubinato.
+
+Cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 ###### ARTICULO 289.
 
@@ -1861,9 +1913,11 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 302.
 
-Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
+Los cónyuges deben darse alimentos; la Ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma Ley señale. Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por el artículo 1635.
 
 ###### ARTICULO 303.
 
@@ -1899,9 +1953,11 @@ El obligado a dar alimentos cumple la obligación asignando una pensión compete
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 311.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo diario vigente en el Distrito Federal, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### ARTICULO 312.
 
@@ -1937,9 +1993,11 @@ V.- El Ministerio Público.
 
 Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 317.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza, o depósito de cantidad bastante a cubrir los alimentos.
+El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir los alimentos o cualesquiera otra forma de garantía suficiente a juicio del juez.
 
 ###### ARTICULO 318.
 
@@ -4245,9 +4303,11 @@ Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos
 
 Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximum fijado en el artículo 730, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 734.
 
-Cuando haya peligro de que quien tiene obligación de dar alimentos pierde sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por los valores fijados en el artículo 730. En la constitución de este patrimonio se observará, en lo conducente, lo dispuesto en los artículos 731 y 732.
+Las personas que tienen derecho a disfrutar el patrimonio de familia señaladas en el artículo 725, así como el tutor de acreedores alimentarios incapaces, familiares del deudor o el ministerio público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 730, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará en lo conducente lo dispuesto en los artículos 731 y 732.
 
 ###### ARTICULO 735.
 
@@ -7207,25 +7267,15 @@ ARTICULO 1,634.- A falta de los llamados en los artículos anteriores, sucederá
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-### CAPITULO VI. De la sucesión de la concubina
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-ARTICULO 1,635.- La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+### CAPITULO VI. De la sucesión de los Concubinos
 
-I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1,624 y 1,625;
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
+ARTICULO 1,635.- La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
 
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
-
-IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
-
-V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge, o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen a la concubina y la otra mitad a la Beneficencia Pública.
-
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1,624 y 1,625, si la concubina tiene bienes.
-
-Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
+Si al morir el autor de la herencia le sobrevivien (sic) varias concubinas o concubinarios en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
 
 ### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
@@ -12190,3 +12240,21 @@ D.O.F. 31 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL (ARTICULO 17); DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGANICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMUN DEL DISTRITO FEDERAL; Y DEL CODIGO DE COMERCIO.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, Y EN EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+###### ARTICULO PRIMERO.
+
+El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
