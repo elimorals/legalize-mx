@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-comision-estatal-de-los-derechos-humanos-del-7587"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-24"
-last_updated: "1995-12-28"
+last_updated: "1997-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7587&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA "COMISION ESTATAL DE DERECHOS HUMANOS" REGLAMENTARIA DEL ARTICULO 9º DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 24 de diciembre de 1992.
 
@@ -129,9 +129,13 @@ I. Actos y resoluciones de organismos y autoridades electorales;
 
 II. Resoluciones de carácter jurisdiccional;
 
-III. Conflictos de carácter laboral, y
+III. Conflictos de carácter laboral, y (sic)
 
-IV. Consultas formuladas por autoridades, particulares u otras entidades sobre interpretación de las disposiciones constitucionales y legales.
+IV. Consultas formuladas por autoridades, particulares u otras entidades sobre interpretación de las disposiciones constitucionales y legales;
+
+> <small>(ADICIONADA, P.O., 5 DE SEPTIEMBRE DE 1997)</small>
+
+V.- Resoluciones de carácter Legislativo emitidas por la H. Cámara de Diputados.
 
 ###### ARTICULO 10.
 
@@ -159,13 +163,17 @@ V. Ser de reconocida honradez y rectitud además de no haber sido condenado por 
 
 VI. Estar vinculado y tener conocimiento de las condiciones sociales, políticas, económicas y culturales del Estado.
 
+> <small>(REFORMADO, P.O., 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 12.
 
-El Presidente de la Comisión Estatal de Derechos Humanos, será nombrado por el Gobernador y sometido a la aprobación de la Legislatura del Estado.
+El Presidente de la Comisión Estatal de Derechos Humanos será nombrado por la Legislatura del Estado, con el voto de la mayoría de los integrantes de esta.
+
+> <small>(REFORMADO, P.O., 5 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 13.
 
-El Presidente de la Comisión Estatal de Derechos Humanos, durará en sus funciones cuatro años y podrá ser designado únicamente para un periodo más.
+El Presidente de la Comisión Estatal de Derechos Humanos durará en sus funciones 3 años y podrá ser ratificado por la Legislatura.
 
 ###### ARTICULO 14.
 
@@ -604,3 +612,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto por la presente Ley.
+
+P.O. 5 DE SEPTIEMBRE DE 1997
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
