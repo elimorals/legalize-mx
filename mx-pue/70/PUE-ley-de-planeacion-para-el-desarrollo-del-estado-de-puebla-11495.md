@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-planeacion-para-el-desarrollo-del-estado-de-puebla-11495
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1983-12-31"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el sábado 31 de diciembre de 1983.
 
@@ -103,21 +103,51 @@ IV.- La igualdad de derechos, la atención de las necesidades básicas de la pob
 
 V.- Elevar el nivel de vida de la población a través de un desarrollo económico, social, político y cultural, preservando el empleo dentro de un marco congruente en el uso racional de recursos.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 3º.
 
-Para los efectos de esta Ley, se entiende como planeación del desarrollo el medio para transformar la realidad social e introducir a programas de acción los objetivos señalados por una política determinada. Significa fijar objetivos y metas; determinar estrategias y prioridades; asignar recursos, responsabilidades y tiempos de ejecución; coordinar esfuerzos y evaluar resultados.
+Para efectos de esta Ley se entiende por:
+
+I.- Ayuntamiento.- El Honorable Ayuntamiento de cada Municipio;
+
+II.- COPLADEP.- El Comité de Planeación para el Desarrollo del Estado de Puebla;
+
+III.- Congreso.- El Honorable Congreso del Estado;
+
+IV.- Dependencias.- Los órganos de la Administración Pública centralizada del Estado o del Municipio según el caso;
+
+V.- Ejecutivo.- El Titular del Poder Ejecutivo del Estado;
+
+VI.- Entidades.- Los organismos que integran la Administración Pública Paraestatal o Paramunicipal, según el caso;
+
+VII.- Estado.- El Estado Libre y Soberano de Puebla;
+
+VIII.- Gobierno del Estado.- El Gobierno Constitucional del Estado;
+
+IX.- Instrumentación.- Es la elaboración y ejecución de programas operativos en los que los objetivos de corto, mediano y largo plazo se expresan en términos de metas específicas y se precisan los mecanismos y acciones que habrán de ponerse en práctica en cada ejercicio, así como los recursos que con tal propósito se asignarán a la realización de cada acción prevista;
+
+X.- Municipio.- Cada uno de los Municipios del Estado;
+
+XI.- Planeación del Desarrollo.- El medio para transformar la realidad social e introducir en programas de acción los objetivos señalados por una política determinada. Significa fijar objetivos y metas; determinar estrategias y prioridades, asignar recursos, responsabilidades y tiempos de ejecución; coordinar esfuerzos y evaluar resultados; y
+
+XII.- Secretaría.- La Secretaría de Finanzas y Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 4º.
 
-El Ejecutivo Estatal es responsable de llevar a cabo y conducir la planeación del desarrollo, fomentando la participación de los sectores económico, social y privado que integran la Entidad.
+El Ejecutivo y los Ayuntamientos, son responsables, en el ámbito de su competencia, de llevar a cabo y conducir la Planeación del Desarrollo, fomentando la participación de los sectores económico, social y privado que integran el Estado.
 
 ###### ARTICULO 5º.
 
 Los planes y programas que realicen las dependencias que integran la administración pública estatal, se sujetarán a los objetivos y prioridades establecidos en el Plan de Desarrollo Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 6º.
 
-Para efectos de interpretación de la presente Ley, se estará a lo que resuelva, en materia administrativa el Ejecutivo Estatal, a través de la Secretaría de Programación y Presupuesto.
+La interpretación y aplicación de esta Ley, para efectos administrativos, corresponde al Gobierno del Estado y a los Ayuntamientos, los que ejercerán sus atribuciones en el ámbito de sus respectivas competencias, a través de sus Dependencias y Entidades.
 
 ### CAPITULO II. SISTEMA ESTATAL DE PLANEACION DEMOCRATICA
 
@@ -169,21 +199,47 @@ V.- Evaluar periódicamente el avance de los planes, programas y presupuestos de
 
 VI.- Exigir el cumplimiento de todas y cada una de las disposiciones contenidas en la presente Ley.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría de Programación y Presupuesto del Estado de Puebla, tiene las siguientes atribuciones:
+La Secretaría y los Ayuntamientos tienen las siguientes atribuciones:
 
-I.- Normar, coordinar y administrar las actividades concernientes a la planeación del desarrollo estatal.
+Apartado A. Son atribuciones de ambos:
 
-II.- Elaborar el Plan de Desarrollo Estatal y los planes y programas de desarrollo que requiera la Entidad, dentro del marco normativo del Sistema Estatal de Planeación Democrática, tomando en consideración las propuestas emitidas por las dependencias que integran la administración pública, así como las realizadas por el sector social y el privado.
+I.- Vigilar y asegurar en el ámbito de su competencia la implementación del Sistema Estatal de Planeación Democrática;
 
-III.- Asesorar a los Municipios en la elaboración de sus planes y programas de desarrollo, haciendo evidente su participación en el Sistema Estatal de Planeación Democrática.
+II.- Realizar por si o de manera coordinada con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, los trabajos tendientes a la identificación de las necesidades y objetivos de la Planeación, estableciendo los instrumentos estratégicos que permitan su aplicación;
 
-IV.- Actualizar, coordinar y difundir las actividades que en materia de planeación realicen los Municipios y dependencias estatales.
+III.- Coordinarse entre si o con otros niveles o Entidades de Gobierno, en los rubros de gasto, deuda y patrimonio, con el objeto de realizar obra, prestar servicios públicos y la satisfacción de necesidades en forma conjunta;
 
-V.- Administrar el Sistema Estatal de Información, en la Entidad.
+IV.- Suscribir entre sí o con otros niveles o Entidades de Gobierno los convenios, anexos, planes, programas, fondos o cualquier acto jurídico que tengan por objeto definir y establecer los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales para la ejecución de obras, acciones o la prestación de servicios públicos;
 
-VI.- Evaluar periódicamente el proceso de planeación, programación y presupuestación para controlar y corregir las posibles desviaciones y, en su caso, reformar los planes y programas respectivos.
+V.- Establecer los mecanismos que permitan la formulación, ejecución, financiamiento, información, seguimiento, evaluación y control coordinada de programas y acciones y otorgar los actos jurídicos y administrativos para garantizar su operatividad;
+
+VI.- Acordar los mecanismos de validación socioeconómica y financiera de las propuestas de inversión;
+
+VII.- Promover en el ámbito de su competencia, la participación social, con sujeción a los principios rectores de la planeación, para la conformación de Planes y Programas y la regulación e impulso del otorgamiento de aportaciones de los beneficiarios en los casos en que resulte procedente;
+
+VIII.- Suscribir los actos jurídicos para convenir el anticipo de participaciones y el otorgamiento y pago de créditos u otras obligaciones en términos de la legislación vigente;
+
+IX.- Suscribir operaciones de financiamiento destinadas a los fondos y esquemas de aportación a que se refiere esta Ley; y
+
+X.- Emitir concesiones, permisos o autorizaciones y cualquier otro acto administrativo necesario para el cumplimiento de los fines de esta Ley.
+
+Apartado B. Son atribuciones de la Secretaría:
+
+I.- Actuar como mandante o mandatario de los Municipios, otros niveles o Entidades de Gobierno, respecto a los actos que se suscriban para garantizar la operatividad de los programas y acciones convenidos;
+
+II.- Administrar, distribuir, ejercer y supervisar, en el ámbito de su competencia, que los recursos destinados a la ejecución de Planes y Programas se apliquen a los fines aprobados;
+
+III.- Promover las acciones necesarias que garanticen la transparente y oportuna asignación de recursos destinados a la ejecución de Planes y Programas;
+
+IV.- Instrumentar las acciones necesarias para la ejecución de los programas que tiendan a la eficiencia de los servicios públicos, pudiendo para tal efecto realizar funciones en su carácter de ente de derecho público o privado, incluso cofinanciar la adquisición de bienes destinados a la prestación de dichos servicios; y
+
+V.- Las demás previstas en este ordenamiento y los que resulten aplicables.
+
+Las facultades de coordinación del Municipio, se establecen en este artículo, sin perjuicio de la atribución que le corresponde para suscribir convenios análogos, con otros Municipios, incluso de Estados diferentes, observando los requisitos y formalidades que establecen los ordenamientos aplicables.
 
 ###### ARTICULO 12.
 
@@ -325,11 +381,19 @@ Los programas regionales desarrollan equilibradamente áreas geográficas determ
 
 Una vez determinada la vigencia de los planes y programas, serán obligatorios para el Estado y aquellas dependencias a quienes corresponda su ejecución.
 
-### CAPITULO V (SIC). DE LA INSTRUMENTACION
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO V], P.O. 22 DE MAYO DE 2002)</small>
+
+### CAPITULO IV. DE LA INSTRUMENTACION
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+#### SECCION I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 28.
 
-Para efectos de esta Ley, se considera la instrumentación como la elaboración de programas operativos anuales en los que los objetivos de corto y mediano plazo, se expresan en términos de metas específicas y se precisan los instrumentos y acciones que habrán de ponerse en práctica en cada ejercicio, así como los recursos que con tal propósito se asignarán a la realización de cada acción prevista.
+Las disposiciones contenidas en el presente Capítulo tienen por objeto regular las relaciones jurídicas de derecho público entre los niveles de Gobierno Estatal y Municipal, en el establecimiento de los mecanismos e instrumentos que implemente cada nivel de Gobierno, así como los de colaboración administrativa en las materias de gasto, deuda y patrimonio para la ejecución de los Planes y Programas de Desarrollo.
 
 ###### ARTICULO 29.
 
@@ -343,99 +407,283 @@ III.- Concertación.
 
 IV.- Inducción.
 
-ARTICULO 3O.- Para efectos del artículo anterior se definen las vertientes:
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
-I. OBLIGACION.- Aplicable a la Administración Pública con las modalidades propias a la distinta naturaleza de las dependencias que la integran. Se establece el principio de comprometer al sector público a ser fiel ejecutor de lo planeado.
+###### ARTICULO 30.
 
-II. COORDINACION.- Convenios y acuerdos que incorporan las acciones en materia de planeación que la Federación realice con el Gobierno Estatal y, a través de éste, con los Municipios.
+Para los efectos del artículo anterior, se definen las vertientes:
 
-III. CONCERTACION.- Acuerdos realizados entre el Gobierno Estatal y los sectores privado y social.
+I.- Obligación.- Aplicable a la administración pública con las modalidades propias a la distinta naturaleza de las dependencias que la integran. Se establece el principio de comprometer al sector público a ser fiel ejecutor de lo planeado;
 
-IV. INDUCCION.- Se refiere al manejo de instrumentos de política económica y social y su impacto en las decisiones de los particulares, para el cumplimiento de los objetivos establecidos en la planeación.
+II.- Coordinación.- Convenios y acuerdos que incorporan las acciones en materia de planeación entre los diferentes niveles y Entidades de Gobierno;
+
+III.- Concertación.- Acuerdos realizados entre los Gobiernos Estatal y/o Municipal con los sectores privado y social; y
+
+IV.- Inducción.- Se refiere al manejo de instrumentos de políticas públicas y su impacto en las decisiones de los particulares, para el cumplimiento de los objetivos establecidos en la Planeación.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 31.
 
-El Ejecutivo Estatal podrá convenir con los Gobiernos Municipales:
+Es materia del presente Capítulo:
 
-I.- Su participación en la planeación estatal, mediante la presentación de las propuestas que estimen pertinentes.
+I.- Establecer las bases para la conformación y operación de un sistema que tenga por objeto la ejecución coordinada de los Planes y Programas que regula esta Ley;
 
-II.- Los procedimientos de coordinación entre los Gobiernos Estatal y Municipales que coadyuven al desarrollo integral y a su congruencia con la planeación nacional, y al mismo tiempo promuevan la participación de los sectores de la sociedad.
+II.- Establecer las bases para la suscripción de convenios que serán la vía de coordinación, entre el Estado y el Municipio, para la planeación, ejecución, seguimiento y control de programas y acciones;
 
-III.- Los lineamientos de las acciones que deben realizarse en los Municipios, y que competen a ambos órdenes de Gobierno.
+III.- Fijarlos parámetros para la conformación y suscripción de los convenios, anexos y declaratorias que especifiquen las acciones que las partes acuerden para el cumplimiento de los fines de esta Ley;
 
-IV.- La ejecución de las acciones que deban realizarse en los Municipios, y que competen a ambos órdenes de Gobierno.
+IV- Establecer las bases que permitan la participación de los sectores social y privado en la ejecución de los Planes y Programas de Desarrollo Estatal, Regional y Municipal; y
+
+V.- Normar la participación del Estado y el Municipio, en la ejecución conjunta de los Planes de Desarrollo de cada uno y de Programas de carácter Regional.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 32.
 
-Para efectos del artículo 30 fracción III, se celebrarán contratos o convenios de cumplimiento obligatorio para las partes que los celebren, siendo éstas el Ejecutivo Estatal y las representaciones de los grupos sociales o particulares interesados.
+Los productos emanados de las vertientes de coordinación y concertación, deberán ser congruentes con los objetivos, metas y prioridades de los Planes y Programas a que se refiere esta Ley.
 
-Se establecerán las sanciones que se deriven de su incumplimiento a fin de asegurar y el interés general y garantizar su ejecución en tiempo y forma.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 33.
 
-Los productos emanados de las vertientes de coordinación y concertación, deberán ser congruentes con los objetivos, metas y prioridades del Plan Estatal y programas a que se refiere el artículo 9º de esta Ley.
+Son sujetos de esta Ley:
+
+I.- Las Dependencias y Entidades del Municipio; y
+
+II.- Las Dependencias y Entidades del Estado.
 
 ###### ARTICULO 34.
 
 La inducción de las acciones de los particulares en materia económica y social se llevará a cabo por políticas que fomenten, regulen y orienten el desarrollo del Estado, ajustándose a los objetivos y metas de los planes y programas mencionados en el artículo 9º de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 35.
 
-Para efectos de esta Ley, se determina como control a las acciones necesarias para lograr una oportuna detección y corrección de desviaciones e insuficiencias en la ejecución de los planes y programas de desarrollo.
+EI Estado podrá coordinarse y colaborar con otro u otros Estados y/o con la Federación con el objeto de definir, instrumentar y ejecutar Programas de Desarrollo conjuntos y para tal efecto podrán convenir:
+
+I.- El diseño y conformación de Proyectos de Desarrollo e Inversión;
+
+II.- La realización conjunta o coordinada de los procesos de planeación, programación, presupuestación, adjudicación, ejecución, control, entrega recepción y administración de obras y servicios;
+
+III.- El intercambio de información, así como el ejercicio de facultades de supervisión y control de los Planes y Programas coordinados;
+
+IV.- La contratación directa o contingente de operaciones de financiamiento;
+
+V.- La constitución de fondos y garantías;
+
+VI.- El establecimiento de compromisos comunes en materia presupuestal,
+
+VII.- EI establecimiento de políticas comunes en el otorgamiento de concesiones, permisos, licencias y demás actos relativos a bienes y servicios públicos;
+
+VIII.- La obtención por vías de derecho público o privado de los bienes necesarios para la realización de los proyectos;
+
+IX.- La forma en que incorporarán la participación social y privada;
+
+X.- La defensa de intereses comunes; y
+
+XI.- Los demás actos necesarios para la ejecución de los Planes y Programas materia de coordinación.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 36.
 
-Para la etapa de control se ejecutarán las siguientes actividades:
+Los recursos que pueden ser materia de los convenios que regula este ordenamiento, serán los que ingresan a la Hacienda Pública del Estado y el Municipio.
 
-I.- Sistema Integral de Contabilidad Gubernamental.
+Los fines de los convenios que se suscriban, deberán observar los lineamientos de los ordenamientos que les resulten aplicables, incluso cuando formando parte de la Hacienda Pública del Estado o del Municipio, su regulación corresponda a otra autoridad con apego a las normas emanadas de la Constitución Política de los Estados Unidos Mexicanos, que rigen la distribución de competencias.
 
-II.- Normatividad de la obra pública.
-
-III.- Supervisión de Contratos de Obra Pública.
-
-IV.- Seguimiento de los Planes y Programas.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 37.
 
-Para efectos de esta Ley, la evaluación será la acción de cotejar periódicamente previsiones y resultados para retroalimentar las actividades de formulación e instrumentación, con lo que se cierra el ciclo del proceso de planeación.
+Los recursos a que se refiere el artículo anterior, serán materia de control legislativo del gasto; su fiscalización se realizará por el Congreso a través del Órgano de Fiscalización Superior del Estado, ejerciendo facultades propias o por colaboración en los casos en que proceda.
+
+Para tal efecto, los estados de origen y aplicación de recursos, los informes de gestión financiera y la cuenta pública que derive de la aplicación de dichos recursos se harán en los términos que regula la Ley del Órgano de Fiscalización Superior del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 38.
 
-Las actividades que deberán realizarse en la etapa de evaluación serán las siguientes:
+El Estado y el Municipio realizarán los trabajos tendientes a la identificación de las necesidades básicas que serán atendidas en forma coordinada y elaborarán instrumentos estratégicos rectores. Asimismo podrán coordinarse en los rubros de gasto, deuda y patrimonio.
 
-I.- Evaluación Institucional.
+Para el establecimiento de los mecanismos que permitan la formulación, actualización, ejecución, seguimiento y evaluación de dichos instrumentos, el Estado y los Municipios se coordinarán, al igual que en el caso del intercambio de información sobre los avances y resultados obtenidos.
 
-II.- Evaluación Sectorial.
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
 
-III.- Evaluación por programa.
+#### SECCION II. DE LOS INSTRUMENTOS LEGALES DE COLABORACION
 
-IV.- Evaluación Municipal.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 39.
 
-El proceso de evaluación deberá realizarse de tal manera que valore la eficacia y mida la eficiencia, así como la congruencia de la acción del Gobierno Estatal.
+Los sujetos de esta Ley, podrán suscribir convenios y anexos que tengan por objeto definir y establecer los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales, destinados a la ejecución coordinada de programas y acciones entre ellos y, en su caso, los mecanismos de participación social.
+
+Los convenios y demás actos jurídicos y administrativos que se suscriban al amparo de esta Ley, se considerarán administrativos y por ende su cumplimiento es obligatorio y se rigen por los siguientes lineamientos:
+
+I.- Su interpretación estará condicionada por el interés público;
+
+II.- Su ejecución se considera de interés social;
+
+III.- Su vigencia será la misma que corresponda al Plan o Programa que instrumenta o la ejecución de la obra o servicio que lo motive, lo que resulte mayor;
+
+IV.- La solución de controversias derivadas de su aplicación, será a través de los tribunales del fuero común del Poder Judicial del Estado, sin perjuicio de las atribuciones que, de acuerdo con el derecho vulnerado, correspondan a otros Órganos Jurisdiccionales; y
+
+V.- En el caso de que el convenio haya sido suscrito por más de un Municipio, no podrá convenirse su salida sin escuchar previamente al o los otros Municipios participantes.
+
+En caso de que, por caso fortuito o de fuerza mayor, el Estado o el Municipio se vean impedidos para realizar las acciones y programas acordados, deberán informarlo inmediatamente por escrito al otro u otros participantes, detallando las circunstancias que generan la imposibilidad.
+
+En todos los casos y sin perjuicio de lo previsto en el párrafo anterior, podrá establecerse un mecanismo de conciliación para dirimir controversias surgidas de la aplicación o interpretación de los convenios que se suscriban, así como el apoyo de acciones de asesoría y capacitación para el fortalecimiento del desarrollo de las capacidades técnicas y administrativas del Municipio.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 40.
 
-Los resultados que se obtengan de la evaluación deberán retroalimentar las metas y estrategias de los planes y programas de mediano plazo.
+El Estado y el Municipio podrán afectar recursos, constituir conjunta o separadamente fondos y otros esquemas de aportación que permitan el ejercicio de sus atribuciones establecidas en la presente Ley.
+
+Para la operatividad de los programas y acciones convenidos, las partes podrán otorgar mandatos, sin mayores requisitos que constar por escrito y ostentar la firma de los funcionarios competentes para tal efecto, así como acordar la aportación de recursos destinados al mejoramiento de sistemas de control, vigilancia y supervisión La Secretaría emitirá los criterios que permitan priorizar los apoyos del Estado y expedirá los manuales para la ejecución de los programas aprobados y la aplicación de los fondos que se constituyan.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 41.
 
-A los funcionarios de la Administración Pública Estatal que contravengan las disposiciones de esta Ley, las que de ella se deriven o los objetivos y prioridades de los planes y programas de desarrollo, se les impondrá las medidas disciplinarias de apercibimiento o amonestación, y si la gravedad de la infracción lo amerita, el Ejecutivo del Estado podrá suspender o remover de su cargo al funcionario responsable.
+El Estado y el Municipio convendrán la dependencia o dependencias que se responsabilizarán de los procesos de planeación, presupuestación, programación adjudicación, contratación, ejecución, entrega, recepción, operación y adjudicación de obras, servicios y suministros, vinculados a la ejecución de los programas y acciones concertados.
+
+También convendrán las condiciones necesarias, en caso de que para los fines referidos se requiera la contratación de operaciones de financiamiento, la concesión de obras y servicios o la suscripción de cualquier acto análogo.
+
+El Ayuntamiento o la Dependencia Estatal que licite y sea ejecutora de las obras o servicios, observará en lo conducente lo dispuesto en la legislación estatal que regula las compras del sector público.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 42.
 
-Las responsabilidades a que se refiere esta Ley, son independientes de las de orden civil, penal y oficial que se puedan derivar de los mismos hechos.
+El Estado y el Municipio podrán acordar las reglas para que en circunstancias extraordinarias y de acuerdo a su disponibilidad presupuestal, el Estado pueda anticipar participaciones a los Municipios y suscribir los actos que permitan que en los plazos acordados, el propio Estado aplique a nombre y cuenta del Municipio, dichas participaciones a favor de su erario, con el objeto de compensar los anticipos otorgados.
 
-### CAPITULO VI. DEL CONTROL Y EVALUACION
+Los actos a que se refiere el párrafo anterior no requerirán de mayor solemnidad que la firma de los funcionarios competentes.
+
+> <small>(REFORMADO [N.DE E. ANTES CAPITULO VI], P.O. 22 DE MAYO DE 2002)</small>
+
+### CAPITULO V. DEL CONTROL, SEGUIMIENTO Y EVALUACION DE PROGRAMAS Y ACCIONES
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+#### SECCION I. DEL SEGUIMIENTO
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 43.
 
-Todo plan, programa proyecto, o presupuesto, que no sea congruente con el Plan de Desarrollo Estatal, podrá ser objeto de su cancelación.
+Las Dependencias y Entidades del Estado y de los Municipios que suscriban instrumentos que regula esta Ley, deberán informarlo al Órgano de Fiscalización Superior del Estado y a sus respectivos órganos de control, para los efectos propios de su competencia.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 44.
+
+En los casos en que el Estado o el Municipio administren fondos integrados con recursos de ambos, deberán acordarse los mecanismos de información para la integración de la cuenta pública de cada uno, el límite de responsabilidades en este rubro y los procedimientos a seguir en caso de incumplimiento de una de las partes.
+
+Las autoridades de control del Estado y el Municipio, en el ámbito de sus respectivas competencias, llevarán a cabo periódicamente el análisis de resultados de las acciones realizadas a fin de proponer, en su caso, las medidas pertinentes para el logro de sus objetivos.
+
+Asimismo, podrán acordar un programa de trabajo para el intercambio de información relativa a las revisiones que realicen, a los resultados de las acciones realizadas y los actos de control, inspección, supervisión física y financiera de los proyectos, así como evaluación y vigilancia de los recursos materia de los convenios que se suscriban. Estas funciones podrán ser materia de coordinación.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Articulo 45.
+
+La fiscalización de programas y acciones, ejecutados con recursos que no forman parte de la libre administración hacendaria del Estado y el Municipio, se realizará de conformidad con los ordenamientos y convenios que les resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 46.
+
+El Estado y el Municipio evaluarán los programas y acciones materia de este ordenamiento y de los convenios que suscriban, para tal efecto, podrán acordar lo siguiente:
+
+I.- La integración de informes de evaluación relacionados a la operación y resultados económicos y sociales de los programas y acciones coordinados;
+
+II.- La integración de un informe anual de evaluación que contenga una estimación de los indicadores sociales sobre los que inciden los programas desarrollados;
+
+III.- Los mecanismos para la evaluación final de los programas y acciones coordinados; y
+
+IV.- En su caso, un informe relativo a los programas y acciones de carácter regional.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+#### SECCION II. DEL CONTROL Y EVALUACION
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 47.
+
+Para efectos de esta Ley, se determina como control a las acciones necesarias para lograr una oportuna detección y corrección de desviaciones e insuficiencias en la ejecución de los Planes y Programas de Desarrollo, y además de las disposiciones previstas en el Capítulo IV del presente ordenamiento, en materia de control y evaluación serán aplicables los ordenamientos previstos en esta sección.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 48.
+
+Para la etapa de control se ejecutarán las siguientes actividades:
+
+I.- Sistema Integral de Contabilidad Gubernamental;
+
+II.- Normatividad de la obra pública;
+
+III.- Supervisión de contratos de obra pública; y
+
+IV.- Seguimiento de los Planes y Programas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 49.
+
+Para efectos de esta Ley, la evaluación será la acción de cotejar periódicamente previsiones y resultados para retroalimentar las actividades de formulación e instrumentación, con lo que se cierra el ciclo del proceso de planeación.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 50.
+
+Las actividades que deberán realizarse en la etapa de evaluación, serán las siguientes:
+
+I.- Evaluación institucional;
+
+II.- Evaluación sectorial;
+
+III.- Evaluación por programa; y
+
+IV.- Evaluación Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 51.
+
+El proceso de evaluación deberá realizarse de tal manera que valore la eficacia y mida la eficiencia, así como la congruencia de la acción del Gobierno Estatal o Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 52.
+
+Los resultados que se obtengan de la evaluación deberán retroalimentar las metas y estrategias de los planes y programas de mediano plazo.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO VII], P.O. 22 DE MAYO DE 2002)</small>
+
+### CAPITULO VI. RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 53.
+
+A los funcionarios de la Administración Pública Estatal que contravengan las disposiciones de esta Ley, las que de ella se deriven o los objetivos y prioridades de los Planes y Programas de Desarrollo, se les impondrán las medidas disciplinarias de apercibimiento o amonestación, y si la gravedad de la infracción lo amerita el Ejecutivo podrá suspender o remover de su cargo al funcionario responsable. Iguales atribuciones tendrán los Ayuntamientos en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 54.
+
+Las responsabilidades a que se refiere esta Ley, son independientes de las de orden civil, penal y oficial que se puedan derivar de los mismos hechos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+###### Artículo 55.
+
+Todo Plan, Programa, Proyecto o Presupuesto, que no sea congruente con el Plan Estatal o Municipal, podrá ser objeto de su cancelación por las autoridades competentes.
 
 T R A N S I T O R I O S.
-
-### CAPITULO VII. RESPONSABILIDADES
 
 ###### ARTICULO PRIMERO.
 
@@ -450,3 +698,25 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 Por tanto mando se imprima, publique y circule para sus efectos.
 
 Dado en el Palacio del Poder Ejecutivo Local, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de diciembre de mil novecientos ochenta y tres.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Carlos Palafox Vázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 2002
+
+PRIMERO.- EI presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+TERCERO.- Los convenios, anexos y demás actos jurídicos y administrativos, suscritos en materia de colaboración administrativa por el Estado y los Ayuntamientos, con la Federación o los de carácter interestatal, se reconocen y continuarán en vigor hasta su ejecución, el cumplimiento de su vigencia o la suscripción de nuevos actos.
+
+CUARTO.- Se autoriza y aprueba la suscripción de los convenios, anexos, la constitución de fondos y demás actos que tengan por objeto la aplicación de esta Ley.
+
+QUINTO.- Se autoriza al Auditor General del Órgano de Fiscalización Superior del Estado a suscribir los acuerdos de colaboración que tengan por objeto el ejercicio de sus atribuciones, en seguimiento a los convenios y anexos a que se refiere este Decreto, así como para convenir con el Gobierno Federal, la aplicación de medidas para la comprobación del ejercicio de recursos emanados del Presupuesto de Egresos de la Federación y otras acciones en materia de fiscalización.
+
+SEXTO.- Se autoriza al Titular del Poder Ejecutivo del Estado, para suscribir Convenios en materia de Desarrollo Social y Regional y sus anexos, así como los demás documentos que tengan como propósito:
+
+- El cumplimiento de las metas, estrategias, políticas y directrices contenidas en Planes y Programas;
+
+- La reasignación, obtención de subsidios, transferencias y demás recursos emanados del Presupuesto de Egresos de la Federación; y
+
+- El establecimiento de programas, con el propósito de asegurar la calidad y permanencia en la prestación de servicios, la autosuficiencia de recursos de las Dependencias o Entidades, entre otros aspectos.
