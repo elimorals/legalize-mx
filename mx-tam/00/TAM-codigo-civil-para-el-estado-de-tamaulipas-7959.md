@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2004-02-18"
+last_updated: "2004-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -7663,7 +7663,7 @@ ART. 2242.- Si alguno hubiere prometido dar cierto bien en prenda y no lo hubier
 
 ART. 2243.- En el caso del artículo anterior, el acreedor no podrá pedir que se le entregue el bien, si ha pasado a poder de un tercero en virtud de cualquier título legal.
 
-### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ACREEEDOR PRENDARIO
+### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ACREEDOR PRENDARIO
 
 ART. 2244.- El acreedor adquiere por el empeño:
 
@@ -7915,11 +7915,11 @@ ART. 2306.- El crédito puede cederse, en todo o en parte, siempre que la cesió
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
 
-La instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarios, las demás entidades finacieras y las instituciones de seguridad social, podran ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública o de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario debrerá únicamente hacer la notificación por escrito de la cesión al deudor.
+La instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarios, las demás entidades finacieras y las instituciones de seguridad social, podran ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública o de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente hacer la notificación por escrito de la cesión al deudor.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
 
-La inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o de los cesionarios referidos en el párrafo anterior, quienes tedrán todos los derechos y acciones derivadas de esta.
+La inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o de los cesionarios referidos en el párrafo anterior, quienes tendrán todos los derechos y acciones derivadas de esta.
 
 ART. 2307.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca continuará vigente hasta en tanto no prescriba la obligación principal o se extinga por alguna otra causa. Los contratantes pueden señalar a la hipoteca una duración menor que la de la obligación.
 
@@ -9039,9 +9039,11 @@ ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testament
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos, o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
+ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos , o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
 
-I.- Que el precio del inmueble o su valor de avalúo pericial catastral no exceda del equivalente a 15 veces el salario mínimo general elevado al año, vigente en la capital del Estado, al momento de la adquisición. En los casos de regularización de inmuebles que lleva a cabo las Dependencias y Entidades a que se refiere el párrafo anterior, no importará su monto;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2004)</small>
+
+I.- Que el precio del inmueble o su valor de avalúo catastral al momento de su adquisición no exceda del monto previsto por el artículo 644 de este Código. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
 
 II.- Los notarios, redactarán en la Escritura las cláusulas necesarias para el otorgamiento del Testamento, las que se incluirán en un capítulo que se denominará "Cláusulas Testamentarias";
 
@@ -9957,7 +9959,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 5 DE DICIEMBRE DE 2002.
 
-Único.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Périódico Oficial del Estado.
+Único.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2003.
 
@@ -9970,3 +9972,7 @@ P.O. 18 DE FEBRERO DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2004.
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
